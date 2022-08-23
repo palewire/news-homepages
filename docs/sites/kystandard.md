@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 40 screenshots with the Internet Archive.
+The archiving routine has saved 44 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kystandard-2022/kystandard-2022-08-21T19:54:49.736032-04:00.jpg">
+  <img src="https://archive.org/download/kystandard-2022/kystandard-2022-08-21T19:54:49.736032-04:00.jpg"
+     alt="Kentucky Standard at 2022-08-21 19:54:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kystandard-2022/kystandard-2022-08-21T19:54:49.736032-04:00.jpg">August 21 at 7:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kystandard-2022/kystandard-2022-08-21T08:00:50.392433-04:00.jpg">
+  <img src="https://archive.org/download/kystandard-2022/kystandard-2022-08-21T08:00:50.392433-04:00.jpg"
+     alt="Kentucky Standard at 2022-08-21 08:00:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kystandard-2022/kystandard-2022-08-21T08:00:50.392433-04:00.jpg">August 21 at 8:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kystandard-2022/kystandard-2022-08-20T19:54:46.190780-04:00.jpg">
+  <img src="https://archive.org/download/kystandard-2022/kystandard-2022-08-20T19:54:46.190780-04:00.jpg"
+     alt="Kentucky Standard at 2022-08-20 19:54:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kystandard-2022/kystandard-2022-08-20T19:54:46.190780-04:00.jpg">August 20 at 7:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kystandard-2022/kystandard-2022-08-20T07:57:05.051260-04:00.jpg">
+  <img src="https://archive.org/download/kystandard-2022/kystandard-2022-08-20T07:57:05.051260-04:00.jpg"
+     alt="Kentucky Standard at 2022-08-20 07:57:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kystandard-2022/kystandard-2022-08-20T07:57:05.051260-04:00.jpg">August 20 at 7:57 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kystandard-2022/kystandard-2022-08-19T19:53:56.125137-04:00.jpg">
   <img src="https://archive.org/download/kystandard-2022/kystandard-2022-08-19T19:53:56.125137-04:00.jpg"
      alt="Kentucky Standard at 2022-08-19 19:53:59-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kystandard-2022/kystandard-2022-08-16T20:06:34.954157-04:00.jpg">August 16 at 8:06 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kystandard-2022/kystandard-2022-08-16T09:58:57.776194-04:00.jpg">
-  <img src="https://archive.org/download/kystandard-2022/kystandard-2022-08-16T09:58:57.776194-04:00.jpg"
-     alt="Kentucky Standard at 2022-08-16 09:58:58-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kystandard-2022/kystandard-2022-08-16T09:58:57.776194-04:00.jpg">August 16 at 9:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kystandard-2022/kystandard-2022-08-15T21:32:56.958105-04:00.jpg">
-  <img src="https://archive.org/download/kystandard-2022/kystandard-2022-08-15T21:32:56.958105-04:00.jpg"
-     alt="Kentucky Standard at 2022-08-15 21:33:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kystandard-2022/kystandard-2022-08-15T21:32:56.958105-04:00.jpg">August 15 at 9:33 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kystandard-2022/kystandard-2022-08-15T10:13:55.008803-04:00.jpg">
-  <img src="https://archive.org/download/kystandard-2022/kystandard-2022-08-15T10:13:55.008803-04:00.jpg"
-     alt="Kentucky Standard at 2022-08-15 10:13:56-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kystandard-2022/kystandard-2022-08-15T10:13:55.008803-04:00.jpg">August 15 at 10:13 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kystandard-2022/kystandard-2022-08-14T21:18:30.711505-04:00.jpg">
-  <img src="https://archive.org/download/kystandard-2022/kystandard-2022-08-14T21:18:30.711505-04:00.jpg"
-     alt="Kentucky Standard at 2022-08-14 21:18:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kystandard-2022/kystandard-2022-08-14T21:18:30.711505-04:00.jpg">August 14 at 9:18 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 40 hyperlink lists with the Internet Archive.
+The archiving routine has saved 44 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 7:54 PM](https://archive.org/download/kystandard-2022/kystandard-2022-08-21T19:54:49.736032-04:00.hyperlinks.json) |
+| [August 21 at 8:00 AM](https://archive.org/download/kystandard-2022/kystandard-2022-08-21T08:00:50.392433-04:00.hyperlinks.json) |
+| [August 20 at 7:54 PM](https://archive.org/download/kystandard-2022/kystandard-2022-08-20T19:54:46.190780-04:00.hyperlinks.json) |
+| [August 20 at 7:57 AM](https://archive.org/download/kystandard-2022/kystandard-2022-08-20T07:57:05.051260-04:00.hyperlinks.json) |
 | [August 19 at 7:54 PM](https://archive.org/download/kystandard-2022/kystandard-2022-08-19T19:53:56.125137-04:00.hyperlinks.json) |
 | [August 19 at 10:20 AM](https://archive.org/download/kystandard-2022/kystandard-2022-08-19T10:20:08.043554-04:00.hyperlinks.json) |
 | [August 19 at 8:00 AM](https://archive.org/download/kystandard-2022/kystandard-2022-08-19T08:00:29.262239-04:00.hyperlinks.json) |
 | [August 18 at 7:54 PM](https://archive.org/download/kystandard-2022/kystandard-2022-08-18T19:54:32.438865-04:00.hyperlinks.json) |
 | [August 18 at 7:59 AM](https://archive.org/download/kystandard-2022/kystandard-2022-08-18T07:59:50.366034-04:00.hyperlinks.json) |
 | [August 17 at 7:52 PM](https://archive.org/download/kystandard-2022/kystandard-2022-08-17T19:52:42.038356-04:00.hyperlinks.json) |
-| [August 17 at 7:50 AM](https://archive.org/download/kystandard-2022/kystandard-2022-08-17T07:50:34.695612-04:00.hyperlinks.json) |
-| [August 16 at 8:06 PM](https://archive.org/download/kystandard-2022/kystandard-2022-08-16T20:06:34.954157-04:00.hyperlinks.json) |
-| [August 16 at 9:59 AM](https://archive.org/download/kystandard-2022/kystandard-2022-08-16T09:58:57.776194-04:00.hyperlinks.json) |
-| [August 15 at 9:33 PM](https://archive.org/download/kystandard-2022/kystandard-2022-08-15T21:32:56.958105-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 40 accessibility trees with the Internet Archive.
+The archiving routine has saved 44 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 7:54 PM](https://archive.org/download/kystandard-2022/kystandard-2022-08-21T19:54:49.736032-04:00.accessibility.json) |
+| [August 21 at 8:00 AM](https://archive.org/download/kystandard-2022/kystandard-2022-08-21T08:00:50.392433-04:00.accessibility.json) |
+| [August 20 at 7:54 PM](https://archive.org/download/kystandard-2022/kystandard-2022-08-20T19:54:46.190780-04:00.accessibility.json) |
+| [August 20 at 7:57 AM](https://archive.org/download/kystandard-2022/kystandard-2022-08-20T07:57:05.051260-04:00.accessibility.json) |
 | [August 19 at 7:54 PM](https://archive.org/download/kystandard-2022/kystandard-2022-08-19T19:53:56.125137-04:00.accessibility.json) |
 | [August 19 at 10:20 AM](https://archive.org/download/kystandard-2022/kystandard-2022-08-19T10:20:08.043554-04:00.accessibility.json) |
 | [August 19 at 8:00 AM](https://archive.org/download/kystandard-2022/kystandard-2022-08-19T08:00:29.262239-04:00.accessibility.json) |
 | [August 18 at 7:54 PM](https://archive.org/download/kystandard-2022/kystandard-2022-08-18T19:54:32.438865-04:00.accessibility.json) |
 | [August 18 at 7:59 AM](https://archive.org/download/kystandard-2022/kystandard-2022-08-18T07:59:50.366034-04:00.accessibility.json) |
 | [August 17 at 7:52 PM](https://archive.org/download/kystandard-2022/kystandard-2022-08-17T19:52:42.038356-04:00.accessibility.json) |
-| [August 17 at 7:50 AM](https://archive.org/download/kystandard-2022/kystandard-2022-08-17T07:50:34.695612-04:00.accessibility.json) |
-| [August 16 at 8:06 PM](https://archive.org/download/kystandard-2022/kystandard-2022-08-16T20:06:34.954157-04:00.accessibility.json) |
-| [August 16 at 9:59 AM](https://archive.org/download/kystandard-2022/kystandard-2022-08-16T09:58:57.776194-04:00.accessibility.json) |
-| [August 15 at 9:33 PM](https://archive.org/download/kystandard-2022/kystandard-2022-08-15T21:32:56.958105-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 7:54 PM](https://archive.org/download/kystandard-2022/kystandard-2022-08-21T19:54:49.736032-04:00.lighthouse.json) |
+| [August 21 at 8:00 AM](https://archive.org/download/kystandard-2022/kystandard-2022-08-21T08:00:50.392433-04:00.lighthouse.json) |
+| [August 20 at 7:54 PM](https://archive.org/download/kystandard-2022/kystandard-2022-08-20T19:54:46.190780-04:00.lighthouse.json) |
+| [August 20 at 7:57 AM](https://archive.org/download/kystandard-2022/kystandard-2022-08-20T07:57:05.051260-04:00.lighthouse.json) |
 | [August 19 at 7:54 PM](https://archive.org/download/kystandard-2022/kystandard-2022-08-19T19:53:56.125137-04:00.lighthouse.json) |
 | [August 19 at 10:20 AM](https://archive.org/download/kystandard-2022/kystandard-2022-08-19T10:20:08.043554-04:00.lighthouse.json) |
 | [August 19 at 8:00 AM](https://archive.org/download/kystandard-2022/kystandard-2022-08-19T08:00:29.262239-04:00.lighthouse.json) |
 | [August 18 at 7:54 PM](https://archive.org/download/kystandard-2022/kystandard-2022-08-18T19:54:32.438865-04:00.lighthouse.json) |
 | [August 18 at 7:59 AM](https://archive.org/download/kystandard-2022/kystandard-2022-08-18T07:59:50.366034-04:00.lighthouse.json) |
 | [August 17 at 7:52 PM](https://archive.org/download/kystandard-2022/kystandard-2022-08-17T19:52:42.038356-04:00.lighthouse.json) |
-| [August 17 at 7:50 AM](https://archive.org/download/kystandard-2022/kystandard-2022-08-17T07:50:34.695612-04:00.lighthouse.json) |
-| [August 16 at 8:06 PM](https://archive.org/download/kystandard-2022/kystandard-2022-08-16T20:06:34.954157-04:00.lighthouse.json) |
-| [August 16 at 9:59 AM](https://archive.org/download/kystandard-2022/kystandard-2022-08-16T09:58:57.776194-04:00.lighthouse.json) |
-| [August 15 at 9:33 PM](https://archive.org/download/kystandard-2022/kystandard-2022-08-15T21:32:56.958105-04:00.lighthouse.json) |
 
 
 

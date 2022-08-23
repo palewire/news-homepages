@@ -234,13 +234,49 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 20 screenshots with the Internet Archive.
+The archiving routine has saved 24 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lastampa-2022/lastampa-2022-08-22T01:54:33.075243+02:00.jpg">
+  <img src="https://archive.org/download/lastampa-2022/lastampa-2022-08-22T01:54:33.075243+02:00.jpg"
+     alt="La Stampa at 2022-08-22 01:54:36+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lastampa-2022/lastampa-2022-08-22T01:54:33.075243+02:00.jpg">August 22 at 1:54 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lastampa-2022/lastampa-2022-08-21T14:01:02.186155+02:00.jpg">
+  <img src="https://archive.org/download/lastampa-2022/lastampa-2022-08-21T14:01:02.186155+02:00.jpg"
+     alt="La Stampa at 2022-08-21 14:01:05+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lastampa-2022/lastampa-2022-08-21T14:01:02.186155+02:00.jpg">August 21 at 2:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lastampa-2022/lastampa-2022-08-21T01:54:44.113766+02:00.jpg">
+  <img src="https://archive.org/download/lastampa-2022/lastampa-2022-08-21T01:54:44.113766+02:00.jpg"
+     alt="La Stampa at 2022-08-21 01:54:46+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lastampa-2022/lastampa-2022-08-21T01:54:44.113766+02:00.jpg">August 21 at 1:54 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lastampa-2022/lastampa-2022-08-20T13:56:26.915141+02:00.jpg">
+  <img src="https://archive.org/download/lastampa-2022/lastampa-2022-08-20T13:56:26.915141+02:00.jpg"
+     alt="La Stampa at 2022-08-20 13:56:29+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lastampa-2022/lastampa-2022-08-20T13:56:26.915141+02:00.jpg">August 20 at 1:56 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lastampa-2022/lastampa-2022-08-20T01:54:18.551832+02:00.jpg">
@@ -314,47 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lastampa-2022/lastampa-2022-08-17T02:06:00.918781+02:00.jpg">August 17 at 2:06 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lastampa-2022/lastampa-2022-08-16T15:59:07.534290+02:00.jpg">
-  <img src="https://archive.org/download/lastampa-2022/lastampa-2022-08-16T15:59:07.534290+02:00.jpg"
-     alt="La Stampa at 2022-08-16 15:59:09+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lastampa-2022/lastampa-2022-08-16T15:59:07.534290+02:00.jpg">August 16 at 3:59 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lastampa-2022/lastampa-2022-08-16T03:34:25.156317+02:00.jpg">
-  <img src="https://archive.org/download/lastampa-2022/lastampa-2022-08-16T03:34:25.156317+02:00.jpg"
-     alt="La Stampa at 2022-08-16 03:34:26+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lastampa-2022/lastampa-2022-08-16T03:34:25.156317+02:00.jpg">August 16 at 3:34 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lastampa-2022/lastampa-2022-08-15T16:16:36.221268+02:00.jpg">
-  <img src="https://archive.org/download/lastampa-2022/lastampa-2022-08-15T16:16:36.221268+02:00.jpg"
-     alt="La Stampa at 2022-08-15 16:16:37+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lastampa-2022/lastampa-2022-08-15T16:16:36.221268+02:00.jpg">August 15 at 4:16 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lastampa-2022/lastampa-2022-08-15T03:18:48.557161+02:00.jpg">
-  <img src="https://archive.org/download/lastampa-2022/lastampa-2022-08-15T03:18:48.557161+02:00.jpg"
-     alt="La Stampa at 2022-08-15 03:18:50+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lastampa-2022/lastampa-2022-08-15T03:18:48.557161+02:00.jpg">August 15 at 3:18 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 20 hyperlink lists with the Internet Archive.
+The archiving routine has saved 24 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,21 +362,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 22 at 1:54 AM](https://archive.org/download/lastampa-2022/lastampa-2022-08-22T01:54:33.075243+02:00.hyperlinks.json) |
+| [August 21 at 2:01 PM](https://archive.org/download/lastampa-2022/lastampa-2022-08-21T14:01:02.186155+02:00.hyperlinks.json) |
+| [August 21 at 1:54 AM](https://archive.org/download/lastampa-2022/lastampa-2022-08-21T01:54:44.113766+02:00.hyperlinks.json) |
+| [August 20 at 1:56 PM](https://archive.org/download/lastampa-2022/lastampa-2022-08-20T13:56:26.915141+02:00.hyperlinks.json) |
 | [August 20 at 1:54 AM](https://archive.org/download/lastampa-2022/lastampa-2022-08-20T01:54:18.551832+02:00.hyperlinks.json) |
 | [August 19 at 4:20 PM](https://archive.org/download/lastampa-2022/lastampa-2022-08-19T16:20:12.506327+02:00.hyperlinks.json) |
 | [August 19 at 2:01 PM](https://archive.org/download/lastampa-2022/lastampa-2022-08-19T14:01:28.278837+02:00.hyperlinks.json) |
 | [August 19 at 1:54 AM](https://archive.org/download/lastampa-2022/lastampa-2022-08-19T01:54:51.624606+02:00.hyperlinks.json) |
 | [August 18 at 1:59 PM](https://archive.org/download/lastampa-2022/lastampa-2022-08-18T13:59:44.146741+02:00.hyperlinks.json) |
 | [August 18 at 1:52 AM](https://archive.org/download/lastampa-2022/lastampa-2022-08-18T01:52:01.237129+02:00.hyperlinks.json) |
-| [August 17 at 1:50 PM](https://archive.org/download/lastampa-2022/lastampa-2022-08-17T13:50:32.334958+02:00.hyperlinks.json) |
-| [August 17 at 2:06 AM](https://archive.org/download/lastampa-2022/lastampa-2022-08-17T02:06:00.918781+02:00.hyperlinks.json) |
-| [August 16 at 3:59 PM](https://archive.org/download/lastampa-2022/lastampa-2022-08-16T15:59:07.534290+02:00.hyperlinks.json) |
-| [August 16 at 3:34 AM](https://archive.org/download/lastampa-2022/lastampa-2022-08-16T03:34:25.156317+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 20 accessibility trees with the Internet Archive.
+The archiving routine has saved 24 accessibility trees with the Internet Archive.
 
 
 
@@ -384,22 +384,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 22 at 1:54 AM](https://archive.org/download/lastampa-2022/lastampa-2022-08-22T01:54:33.075243+02:00.accessibility.json) |
+| [August 21 at 2:01 PM](https://archive.org/download/lastampa-2022/lastampa-2022-08-21T14:01:02.186155+02:00.accessibility.json) |
+| [August 21 at 1:54 AM](https://archive.org/download/lastampa-2022/lastampa-2022-08-21T01:54:44.113766+02:00.accessibility.json) |
+| [August 20 at 1:56 PM](https://archive.org/download/lastampa-2022/lastampa-2022-08-20T13:56:26.915141+02:00.accessibility.json) |
 | [August 20 at 1:54 AM](https://archive.org/download/lastampa-2022/lastampa-2022-08-20T01:54:18.551832+02:00.accessibility.json) |
 | [August 19 at 4:20 PM](https://archive.org/download/lastampa-2022/lastampa-2022-08-19T16:20:12.506327+02:00.accessibility.json) |
 | [August 19 at 2:01 PM](https://archive.org/download/lastampa-2022/lastampa-2022-08-19T14:01:28.278837+02:00.accessibility.json) |
 | [August 19 at 1:54 AM](https://archive.org/download/lastampa-2022/lastampa-2022-08-19T01:54:51.624606+02:00.accessibility.json) |
 | [August 18 at 1:59 PM](https://archive.org/download/lastampa-2022/lastampa-2022-08-18T13:59:44.146741+02:00.accessibility.json) |
 | [August 18 at 1:52 AM](https://archive.org/download/lastampa-2022/lastampa-2022-08-18T01:52:01.237129+02:00.accessibility.json) |
-| [August 17 at 1:50 PM](https://archive.org/download/lastampa-2022/lastampa-2022-08-17T13:50:32.334958+02:00.accessibility.json) |
-| [August 17 at 2:06 AM](https://archive.org/download/lastampa-2022/lastampa-2022-08-17T02:06:00.918781+02:00.accessibility.json) |
-| [August 16 at 3:59 PM](https://archive.org/download/lastampa-2022/lastampa-2022-08-16T15:59:07.534290+02:00.accessibility.json) |
-| [August 16 at 3:34 AM](https://archive.org/download/lastampa-2022/lastampa-2022-08-16T03:34:25.156317+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,16 +407,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 22 at 1:54 AM](https://archive.org/download/lastampa-2022/lastampa-2022-08-22T01:54:33.075243+02:00.lighthouse.json) |
+| [August 21 at 2:01 PM](https://archive.org/download/lastampa-2022/lastampa-2022-08-21T14:01:02.186155+02:00.lighthouse.json) |
+| [August 21 at 1:54 AM](https://archive.org/download/lastampa-2022/lastampa-2022-08-21T01:54:44.113766+02:00.lighthouse.json) |
+| [August 20 at 1:56 PM](https://archive.org/download/lastampa-2022/lastampa-2022-08-20T13:56:26.915141+02:00.lighthouse.json) |
 | [August 20 at 1:54 AM](https://archive.org/download/lastampa-2022/lastampa-2022-08-20T01:54:18.551832+02:00.lighthouse.json) |
 | [August 19 at 4:20 PM](https://archive.org/download/lastampa-2022/lastampa-2022-08-19T16:20:12.506327+02:00.lighthouse.json) |
 | [August 19 at 2:01 PM](https://archive.org/download/lastampa-2022/lastampa-2022-08-19T14:01:28.278837+02:00.lighthouse.json) |
 | [August 19 at 1:54 AM](https://archive.org/download/lastampa-2022/lastampa-2022-08-19T01:54:51.624606+02:00.lighthouse.json) |
 | [August 18 at 1:59 PM](https://archive.org/download/lastampa-2022/lastampa-2022-08-18T13:59:44.146741+02:00.lighthouse.json) |
 | [August 18 at 1:52 AM](https://archive.org/download/lastampa-2022/lastampa-2022-08-18T01:52:01.237129+02:00.lighthouse.json) |
-| [August 17 at 1:50 PM](https://archive.org/download/lastampa-2022/lastampa-2022-08-17T13:50:32.334958+02:00.lighthouse.json) |
-| [August 17 at 2:06 AM](https://archive.org/download/lastampa-2022/lastampa-2022-08-17T02:06:00.918781+02:00.lighthouse.json) |
-| [August 16 at 3:59 PM](https://archive.org/download/lastampa-2022/lastampa-2022-08-16T15:59:07.534290+02:00.lighthouse.json) |
-| [August 16 at 3:34 AM](https://archive.org/download/lastampa-2022/lastampa-2022-08-16T03:34:25.156317+02:00.lighthouse.json) |
 
 
 

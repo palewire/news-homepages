@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 130 screenshots with the Internet Archive.
+The archiving routine has saved 134 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-21T17:58:11.302711-05:00.jpg">
+  <img src="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-21T17:58:11.302711-05:00.jpg"
+     alt="Tiempo at 2022-08-21 17:58:18-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-21T17:58:11.302711-05:00.jpg">August 21 at 5:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-21T06:01:24.225809-05:00.jpg">
+  <img src="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-21T06:01:24.225809-05:00.jpg"
+     alt="Tiempo at 2022-08-21 06:01:31-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-21T06:01:24.225809-05:00.jpg">August 21 at 6:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-20T18:03:45.444440-05:00.jpg">
+  <img src="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-20T18:03:45.444440-05:00.jpg"
+     alt="Tiempo at 2022-08-20 18:03:51-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-20T18:03:45.444440-05:00.jpg">August 20 at 6:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-20T05:56:38.711242-05:00.jpg">
+  <img src="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-20T05:56:38.711242-05:00.jpg"
+     alt="Tiempo at 2022-08-20 05:56:46-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-20T05:56:38.711242-05:00.jpg">August 20 at 5:56 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-19T18:03:03.923910-05:00.jpg">
   <img src="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-19T18:03:03.923910-05:00.jpg"
      alt="Tiempo at 2022-08-19 18:03:10-05:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-16T08:36:18.282468-05:00.jpg">August 16 at 8:36 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-15T20:23:30.672438-05:00.jpg">
-  <img src="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-15T20:23:30.672438-05:00.jpg"
-     alt="Tiempo at 2022-08-15 20:23:32-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-15T20:23:30.672438-05:00.jpg">August 15 at 8:23 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-15T08:57:22.416139-05:00.jpg">
-  <img src="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-15T08:57:22.416139-05:00.jpg"
-     alt="Tiempo at 2022-08-15 08:57:34-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-15T08:57:22.416139-05:00.jpg">August 15 at 8:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-14T20:09:28.484434-05:00.jpg">
-  <img src="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-14T20:09:28.484434-05:00.jpg"
-     alt="Tiempo at 2022-08-14 20:09:34-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-14T20:09:28.484434-05:00.jpg">August 14 at 8:09 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-14T08:32:20.051778-05:00.jpg">
-  <img src="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-14T08:32:20.051778-05:00.jpg"
-     alt="Tiempo at 2022-08-14 08:32:25-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-14T08:32:20.051778-05:00.jpg">August 14 at 8:32 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 121 hyperlink lists with the Internet Archive.
+The archiving routine has saved 125 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 5:58 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-21T17:58:11.302711-05:00.hyperlinks.json) |
+| [August 21 at 6:01 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-21T06:01:24.225809-05:00.hyperlinks.json) |
+| [August 20 at 6:03 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-20T18:03:45.444440-05:00.hyperlinks.json) |
+| [August 20 at 5:56 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-20T05:56:38.711242-05:00.hyperlinks.json) |
 | [August 19 at 6:03 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-19T18:03:03.923910-05:00.hyperlinks.json) |
 | [August 19 at 6:00 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-19T06:00:10.914187-05:00.hyperlinks.json) |
 | [August 18 at 6:02 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-18T18:02:48.924402-05:00.hyperlinks.json) |
 | [August 18 at 5:59 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-18T05:58:54.815367-05:00.hyperlinks.json) |
 | [August 17 at 6:02 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-17T18:01:52.051753-05:00.hyperlinks.json) |
 | [August 17 at 5:57 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-17T05:57:16.983360-05:00.hyperlinks.json) |
-| [August 16 at 6:05 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-16T18:05:20.273808-05:00.hyperlinks.json) |
-| [August 16 at 8:36 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-16T08:36:18.282468-05:00.hyperlinks.json) |
-| [August 15 at 8:23 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-15T20:23:30.672438-05:00.hyperlinks.json) |
-| [August 15 at 8:57 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-15T08:57:22.416139-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 125 accessibility trees with the Internet Archive.
+The archiving routine has saved 129 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 5:58 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-21T17:58:11.302711-05:00.accessibility.json) |
+| [August 21 at 6:01 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-21T06:01:24.225809-05:00.accessibility.json) |
+| [August 20 at 6:03 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-20T18:03:45.444440-05:00.accessibility.json) |
+| [August 20 at 5:56 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-20T05:56:38.711242-05:00.accessibility.json) |
 | [August 19 at 6:03 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-19T18:03:03.923910-05:00.accessibility.json) |
 | [August 19 at 6:00 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-19T06:00:10.914187-05:00.accessibility.json) |
 | [August 18 at 6:02 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-18T18:02:48.924402-05:00.accessibility.json) |
 | [August 18 at 5:59 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-18T05:58:54.815367-05:00.accessibility.json) |
 | [August 17 at 6:01 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-17T18:01:52.051753-05:00.accessibility.json) |
 | [August 16 at 6:05 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-16T18:05:20.273808-05:00.accessibility.json) |
-| [August 16 at 8:36 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-16T08:36:18.282468-05:00.accessibility.json) |
-| [August 15 at 8:23 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-15T20:23:30.672438-05:00.accessibility.json) |
-| [August 15 at 8:57 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-15T08:57:22.416139-05:00.accessibility.json) |
-| [August 14 at 8:09 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-14T20:09:28.484434-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 59 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 5:58 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-21T17:58:11.302711-05:00.lighthouse.json) |
+| [August 21 at 6:01 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-21T06:01:24.225809-05:00.lighthouse.json) |
+| [August 20 at 6:03 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-20T18:03:45.444440-05:00.lighthouse.json) |
+| [August 20 at 5:56 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-20T05:56:38.711242-05:00.lighthouse.json) |
 | [August 19 at 6:03 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-19T18:03:03.923910-05:00.lighthouse.json) |
 | [August 19 at 6:00 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-19T06:00:10.914187-05:00.lighthouse.json) |
 | [August 18 at 6:03 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-18T18:02:48.924402-05:00.lighthouse.json) |
 | [August 18 at 5:59 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-18T05:58:54.815367-05:00.lighthouse.json) |
 | [August 17 at 6:02 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-17T18:01:52.051753-05:00.lighthouse.json) |
 | [August 17 at 5:57 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-17T05:57:16.983360-05:00.lighthouse.json) |
-| [August 16 at 6:05 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-16T18:05:20.273808-05:00.lighthouse.json) |
-| [August 16 at 8:36 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-16T08:36:18.282468-05:00.lighthouse.json) |
-| [August 15 at 8:23 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-15T20:23:30.672438-05:00.lighthouse.json) |
-| [August 15 at 8:57 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-15T08:57:22.416139-05:00.lighthouse.json) |
 
 
 

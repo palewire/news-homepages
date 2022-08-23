@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 86 screenshots with the Internet Archive.
+The archiving routine has saved 90 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-21T18:57:54.937403-05:00.jpg">
+  <img src="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-21T18:57:54.937403-05:00.jpg"
+     alt="Oklahoma Watch at 2022-08-21 18:57:58-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-21T18:57:54.937403-05:00.jpg">August 21 at 6:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-21T07:03:29.629092-05:00.jpg">
+  <img src="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-21T07:03:29.629092-05:00.jpg"
+     alt="Oklahoma Watch at 2022-08-21 07:03:31-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-21T07:03:29.629092-05:00.jpg">August 21 at 7:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-20T18:57:59.172275-05:00.jpg">
+  <img src="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-20T18:57:59.172275-05:00.jpg"
+     alt="Oklahoma Watch at 2022-08-20 18:58:09-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-20T18:57:59.172275-05:00.jpg">August 20 at 6:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-20T07:01:02.921545-05:00.jpg">
+  <img src="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-20T07:01:02.921545-05:00.jpg"
+     alt="Oklahoma Watch at 2022-08-20 07:01:04-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-20T07:01:02.921545-05:00.jpg">August 20 at 7:01 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-19T18:56:53.274852-05:00.jpg">
   <img src="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-19T18:56:53.274852-05:00.jpg"
      alt="Oklahoma Watch at 2022-08-19 18:57:01-05:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-16T19:10:11.479484-05:00.jpg">August 16 at 7:10 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-16T09:05:31.519573-05:00.jpg">
-  <img src="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-16T09:05:31.519573-05:00.jpg"
-     alt="Oklahoma Watch at 2022-08-16 09:05:34-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-16T09:05:31.519573-05:00.jpg">August 16 at 9:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-15T20:41:24.955651-05:00.jpg">
-  <img src="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-15T20:41:24.955651-05:00.jpg"
-     alt="Oklahoma Watch at 2022-08-15 20:41:26-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-15T20:41:24.955651-05:00.jpg">August 15 at 8:41 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-15T09:23:41.222027-05:00.jpg">
-  <img src="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-15T09:23:41.222027-05:00.jpg"
-     alt="Oklahoma Watch at 2022-08-15 09:23:42-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-15T09:23:41.222027-05:00.jpg">August 15 at 9:23 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-14T20:23:43.132394-05:00.jpg">
-  <img src="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-14T20:23:43.132394-05:00.jpg"
-     alt="Oklahoma Watch at 2022-08-14 20:23:45-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-14T20:23:43.132394-05:00.jpg">August 14 at 8:23 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 86 hyperlink lists with the Internet Archive.
+The archiving routine has saved 90 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 6:58 PM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-21T18:57:54.937403-05:00.hyperlinks.json) |
+| [August 21 at 7:03 AM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-21T07:03:29.629092-05:00.hyperlinks.json) |
+| [August 20 at 6:58 PM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-20T18:57:59.172275-05:00.hyperlinks.json) |
+| [August 20 at 7:01 AM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-20T07:01:02.921545-05:00.hyperlinks.json) |
 | [August 19 at 6:57 PM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-19T18:56:53.274852-05:00.hyperlinks.json) |
 | [August 19 at 9:24 AM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-19T09:24:12.997962-05:00.hyperlinks.json) |
 | [August 19 at 7:05 AM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-19T07:04:54.662144-05:00.hyperlinks.json) |
 | [August 18 at 6:57 PM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-18T18:57:41.304909-05:00.hyperlinks.json) |
 | [August 18 at 7:02 AM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-18T07:02:31.803707-05:00.hyperlinks.json) |
 | [August 17 at 6:55 PM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-17T18:54:54.832778-05:00.hyperlinks.json) |
-| [August 17 at 6:53 AM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-17T06:53:31.022010-05:00.hyperlinks.json) |
-| [August 16 at 7:10 PM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-16T19:10:11.479484-05:00.hyperlinks.json) |
-| [August 16 at 9:05 AM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-16T09:05:31.519573-05:00.hyperlinks.json) |
-| [August 15 at 8:41 PM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-15T20:41:24.955651-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 86 accessibility trees with the Internet Archive.
+The archiving routine has saved 90 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 6:57 PM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-21T18:57:54.937403-05:00.accessibility.json) |
+| [August 21 at 7:03 AM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-21T07:03:29.629092-05:00.accessibility.json) |
+| [August 20 at 6:58 PM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-20T18:57:59.172275-05:00.accessibility.json) |
+| [August 20 at 7:01 AM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-20T07:01:02.921545-05:00.accessibility.json) |
 | [August 19 at 6:57 PM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-19T18:56:53.274852-05:00.accessibility.json) |
 | [August 19 at 9:24 AM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-19T09:24:12.997962-05:00.accessibility.json) |
 | [August 19 at 7:05 AM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-19T07:04:54.662144-05:00.accessibility.json) |
 | [August 18 at 6:57 PM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-18T18:57:41.304909-05:00.accessibility.json) |
 | [August 18 at 7:02 AM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-18T07:02:31.803707-05:00.accessibility.json) |
 | [August 17 at 6:55 PM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-17T18:54:54.832778-05:00.accessibility.json) |
-| [August 17 at 6:53 AM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-17T06:53:31.022010-05:00.accessibility.json) |
-| [August 16 at 7:10 PM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-16T19:10:11.479484-05:00.accessibility.json) |
-| [August 16 at 9:05 AM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-16T09:05:31.519573-05:00.accessibility.json) |
-| [August 15 at 8:41 PM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-15T20:41:24.955651-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 56 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 60 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 6:58 PM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-21T18:57:54.937403-05:00.lighthouse.json) |
+| [August 21 at 7:03 AM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-21T07:03:29.629092-05:00.lighthouse.json) |
+| [August 20 at 6:58 PM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-20T18:57:59.172275-05:00.lighthouse.json) |
+| [August 20 at 7:01 AM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-20T07:01:02.921545-05:00.lighthouse.json) |
 | [August 19 at 6:57 PM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-19T18:56:53.274852-05:00.lighthouse.json) |
 | [August 19 at 9:24 AM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-19T09:24:12.997962-05:00.lighthouse.json) |
 | [August 19 at 7:05 AM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-19T07:04:54.662144-05:00.lighthouse.json) |
 | [August 18 at 6:57 PM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-18T18:57:41.304909-05:00.lighthouse.json) |
 | [August 18 at 7:02 AM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-18T07:02:31.803707-05:00.lighthouse.json) |
 | [August 17 at 6:55 PM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-17T18:54:54.832778-05:00.lighthouse.json) |
-| [August 17 at 6:53 AM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-17T06:53:31.022010-05:00.lighthouse.json) |
-| [August 16 at 7:10 PM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-16T19:10:11.479484-05:00.lighthouse.json) |
-| [August 16 at 9:05 AM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-16T09:05:31.519573-05:00.lighthouse.json) |
-| [August 15 at 8:41 PM](https://archive.org/download/oklahomawatch-2022/oklahomawatch-2022-08-15T20:41:24.955651-05:00.lighthouse.json) |
 
 
 

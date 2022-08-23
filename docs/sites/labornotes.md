@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 82 screenshots with the Internet Archive.
+The archiving routine has saved 88 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,60 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/labornotes-2022/labornotes-2022-08-21T13:26:07.805421-05:00.jpg">
+  <img src="https://archive.org/download/labornotes-2022/labornotes-2022-08-21T13:26:07.805421-05:00.jpg"
+     alt="Labor Notes at 2022-08-21 13:26:12-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-08-21T13:26:07.805421-05:00.jpg">August 21 at 1:26 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/labornotes-2022/labornotes-2022-08-21T09:05:55.782334-05:00.jpg">
+  <img src="https://archive.org/download/labornotes-2022/labornotes-2022-08-21T09:05:55.782334-05:00.jpg"
+     alt="Labor Notes at 2022-08-21 09:06:00-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-08-21T09:05:55.782334-05:00.jpg">August 21 at 9:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/labornotes-2022/labornotes-2022-08-20T21:22:02.943690-05:00.jpg">
+  <img src="https://archive.org/download/labornotes-2022/labornotes-2022-08-20T21:22:02.943690-05:00.jpg"
+     alt="Labor Notes at 2022-08-20 21:22:04-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-08-20T21:22:02.943690-05:00.jpg">August 20 at 9:22 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/labornotes-2022/labornotes-2022-08-20T13:27:14.341660-05:00.jpg">
+  <img src="https://archive.org/download/labornotes-2022/labornotes-2022-08-20T13:27:14.341660-05:00.jpg"
+     alt="Labor Notes at 2022-08-20 13:27:25-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-08-20T13:27:14.341660-05:00.jpg">August 20 at 1:27 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/labornotes-2022/labornotes-2022-08-20T09:00:14.243702-05:00.jpg">
+  <img src="https://archive.org/download/labornotes-2022/labornotes-2022-08-20T09:00:14.243702-05:00.jpg"
+     alt="Labor Notes at 2022-08-20 09:00:21-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-08-20T09:00:14.243702-05:00.jpg">August 20 at 9:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/labornotes-2022/labornotes-2022-08-19T21:35:56.078234-05:00.jpg">
+  <img src="https://archive.org/download/labornotes-2022/labornotes-2022-08-19T21:35:56.078234-05:00.jpg"
+     alt="Labor Notes at 2022-08-19 21:36:00-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-08-19T21:35:56.078234-05:00.jpg">August 19 at 9:36 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/labornotes-2022/labornotes-2022-08-19T13:28:20.006951-05:00.jpg">
   <img src="https://archive.org/download/labornotes-2022/labornotes-2022-08-19T13:28:20.006951-05:00.jpg"
      alt="Labor Notes at 2022-08-19 13:28:24-05:00 local time"
@@ -379,65 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-08-17T21:29:55.851539-05:00.jpg">August 17 at 9:30 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/labornotes-2022/labornotes-2022-08-17T13:29:00.242878-05:00.jpg">
-  <img src="https://archive.org/download/labornotes-2022/labornotes-2022-08-17T13:29:00.242878-05:00.jpg"
-     alt="Labor Notes at 2022-08-17 13:29:10-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-08-17T13:29:00.242878-05:00.jpg">August 17 at 1:29 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/labornotes-2022/labornotes-2022-08-17T10:04:16.673361-05:00.jpg">
-  <img src="https://archive.org/download/labornotes-2022/labornotes-2022-08-17T10:04:16.673361-05:00.jpg"
-     alt="Labor Notes at 2022-08-17 10:04:22-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-08-17T10:04:16.673361-05:00.jpg">August 17 at 10:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/labornotes-2022/labornotes-2022-08-16T21:30:29.534338-05:00.jpg">
-  <img src="https://archive.org/download/labornotes-2022/labornotes-2022-08-16T21:30:29.534338-05:00.jpg"
-     alt="Labor Notes at 2022-08-16 21:30:35-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-08-16T21:30:29.534338-05:00.jpg">August 16 at 9:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/labornotes-2022/labornotes-2022-08-16T13:34:32.258921-05:00.jpg">
-  <img src="https://archive.org/download/labornotes-2022/labornotes-2022-08-16T13:34:32.258921-05:00.jpg"
-     alt="Labor Notes at 2022-08-16 13:34:36-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-08-16T13:34:32.258921-05:00.jpg">August 16 at 1:34 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/labornotes-2022/labornotes-2022-08-16T01:38:08.611194-05:00.jpg">
-  <img src="https://archive.org/download/labornotes-2022/labornotes-2022-08-16T01:38:08.611194-05:00.jpg"
-     alt="Labor Notes at 2022-08-16 01:38:10-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-08-16T01:38:08.611194-05:00.jpg">August 16 at 1:38 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/labornotes-2022/labornotes-2022-08-15T15:57:54.845712-05:00.jpg">
-  <img src="https://archive.org/download/labornotes-2022/labornotes-2022-08-15T15:57:54.845712-05:00.jpg"
-     alt="Labor Notes at 2022-08-15 15:57:59-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-08-15T15:57:54.845712-05:00.jpg">August 15 at 3:57 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 82 hyperlink lists with the Internet Archive.
+The archiving routine has saved 88 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 1:26 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-21T13:26:07.805421-05:00.hyperlinks.json) |
+| [August 21 at 9:06 AM](https://archive.org/download/labornotes-2022/labornotes-2022-08-21T09:05:55.782334-05:00.hyperlinks.json) |
+| [August 20 at 9:22 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-20T21:22:02.943690-05:00.hyperlinks.json) |
+| [August 20 at 1:27 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-20T13:27:14.341660-05:00.hyperlinks.json) |
+| [August 20 at 9:00 AM](https://archive.org/download/labornotes-2022/labornotes-2022-08-20T09:00:14.243702-05:00.hyperlinks.json) |
+| [August 19 at 9:36 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-19T21:35:56.078234-05:00.hyperlinks.json) |
 | [August 19 at 1:28 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-19T13:28:20.006951-05:00.hyperlinks.json) |
 | [August 19 at 9:34 AM](https://archive.org/download/labornotes-2022/labornotes-2022-08-19T09:34:26.244336-05:00.hyperlinks.json) |
 | [August 18 at 9:33 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-18T21:33:24.595008-05:00.hyperlinks.json) |
 | [August 18 at 1:26 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-18T13:26:09.181991-05:00.hyperlinks.json) |
-| [August 18 at 9:09 AM](https://archive.org/download/labornotes-2022/labornotes-2022-08-18T09:09:32.145439-05:00.hyperlinks.json) |
-| [August 17 at 9:30 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-17T21:29:55.851539-05:00.hyperlinks.json) |
-| [August 17 at 1:29 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-17T13:29:00.242878-05:00.hyperlinks.json) |
-| [August 17 at 10:04 AM](https://archive.org/download/labornotes-2022/labornotes-2022-08-17T10:04:16.673361-05:00.hyperlinks.json) |
-| [August 16 at 9:30 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-16T21:30:29.534338-05:00.hyperlinks.json) |
-| [August 16 at 1:34 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-16T13:34:32.258921-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 82 accessibility trees with the Internet Archive.
+The archiving routine has saved 88 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 1:26 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-21T13:26:07.805421-05:00.accessibility.json) |
+| [August 21 at 9:06 AM](https://archive.org/download/labornotes-2022/labornotes-2022-08-21T09:05:55.782334-05:00.accessibility.json) |
+| [August 20 at 9:22 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-20T21:22:02.943690-05:00.accessibility.json) |
+| [August 20 at 1:27 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-20T13:27:14.341660-05:00.accessibility.json) |
+| [August 20 at 9:00 AM](https://archive.org/download/labornotes-2022/labornotes-2022-08-20T09:00:14.243702-05:00.accessibility.json) |
+| [August 19 at 9:36 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-19T21:35:56.078234-05:00.accessibility.json) |
 | [August 19 at 1:28 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-19T13:28:20.006951-05:00.accessibility.json) |
 | [August 19 at 9:34 AM](https://archive.org/download/labornotes-2022/labornotes-2022-08-19T09:34:26.244336-05:00.accessibility.json) |
 | [August 18 at 9:33 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-18T21:33:24.595008-05:00.accessibility.json) |
 | [August 18 at 1:26 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-18T13:26:09.181991-05:00.accessibility.json) |
-| [August 18 at 9:09 AM](https://archive.org/download/labornotes-2022/labornotes-2022-08-18T09:09:32.145439-05:00.accessibility.json) |
-| [August 17 at 9:30 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-17T21:29:55.851539-05:00.accessibility.json) |
-| [August 17 at 1:29 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-17T13:29:00.242878-05:00.accessibility.json) |
-| [August 17 at 10:04 AM](https://archive.org/download/labornotes-2022/labornotes-2022-08-17T10:04:16.673361-05:00.accessibility.json) |
-| [August 16 at 9:30 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-16T21:30:29.534338-05:00.accessibility.json) |
-| [August 16 at 1:34 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-16T13:34:32.258921-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 80 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 86 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 1:26 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-21T13:26:07.805421-05:00.lighthouse.json) |
+| [August 21 at 9:06 AM](https://archive.org/download/labornotes-2022/labornotes-2022-08-21T09:05:55.782334-05:00.lighthouse.json) |
+| [August 20 at 9:22 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-20T21:22:02.943690-05:00.lighthouse.json) |
+| [August 20 at 1:27 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-20T13:27:14.341660-05:00.lighthouse.json) |
+| [August 20 at 9:00 AM](https://archive.org/download/labornotes-2022/labornotes-2022-08-20T09:00:14.243702-05:00.lighthouse.json) |
+| [August 19 at 9:36 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-19T21:35:56.078234-05:00.lighthouse.json) |
 | [August 19 at 1:28 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-19T13:28:20.006951-05:00.lighthouse.json) |
 | [August 19 at 9:34 AM](https://archive.org/download/labornotes-2022/labornotes-2022-08-19T09:34:26.244336-05:00.lighthouse.json) |
 | [August 18 at 9:33 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-18T21:33:24.595008-05:00.lighthouse.json) |
 | [August 18 at 1:26 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-18T13:26:09.181991-05:00.lighthouse.json) |
-| [August 18 at 9:09 AM](https://archive.org/download/labornotes-2022/labornotes-2022-08-18T09:09:32.145439-05:00.lighthouse.json) |
-| [August 17 at 9:30 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-17T21:29:55.851539-05:00.lighthouse.json) |
-| [August 17 at 1:29 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-17T13:29:00.242878-05:00.lighthouse.json) |
-| [August 17 at 10:04 AM](https://archive.org/download/labornotes-2022/labornotes-2022-08-17T10:04:16.673361-05:00.lighthouse.json) |
-| [August 16 at 9:30 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-16T21:30:29.534338-05:00.lighthouse.json) |
-| [August 16 at 1:34 PM](https://archive.org/download/labornotes-2022/labornotes-2022-08-16T13:34:32.258921-05:00.lighthouse.json) |
 
 
 

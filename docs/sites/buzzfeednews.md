@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 150 screenshots with the Internet Archive.
+The archiving routine has saved 154 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-21T18:54:33.500451-04:00.jpg">
+  <img src="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-21T18:54:33.500451-04:00.jpg"
+     alt="Buzzfeed News at 2022-08-21 18:54:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-21T18:54:33.500451-04:00.jpg">August 21 at 6:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-21T06:58:31.264679-04:00.jpg">
+  <img src="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-21T06:58:31.264679-04:00.jpg"
+     alt="Buzzfeed News at 2022-08-21 06:58:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-21T06:58:31.264679-04:00.jpg">August 21 at 6:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-20T19:00:57.356458-04:00.jpg">
+  <img src="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-20T19:00:57.356458-04:00.jpg"
+     alt="Buzzfeed News at 2022-08-20 19:01:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-20T19:00:57.356458-04:00.jpg">August 20 at 7:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-20T06:54:12.251020-04:00.jpg">
+  <img src="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-20T06:54:12.251020-04:00.jpg"
+     alt="Buzzfeed News at 2022-08-20 06:54:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-20T06:54:12.251020-04:00.jpg">August 20 at 6:54 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-19T18:59:46.496410-04:00.jpg">
   <img src="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-19T18:59:46.496410-04:00.jpg"
      alt="Buzzfeed News at 2022-08-19 18:59:56-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-16T09:30:02.585286-04:00.jpg">August 16 at 9:30 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-15T21:17:00.548158-04:00.jpg">
-  <img src="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-15T21:17:00.548158-04:00.jpg"
-     alt="Buzzfeed News at 2022-08-15 21:17:06-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-15T21:17:00.548158-04:00.jpg">August 15 at 9:17 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-15T09:50:35.087361-04:00.jpg">
-  <img src="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-15T09:50:35.087361-04:00.jpg"
-     alt="Buzzfeed News at 2022-08-15 09:50:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-15T09:50:35.087361-04:00.jpg">August 15 at 9:50 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-14T21:02:49.038231-04:00.jpg">
-  <img src="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-14T21:02:49.038231-04:00.jpg"
-     alt="Buzzfeed News at 2022-08-14 21:02:53-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-14T21:02:49.038231-04:00.jpg">August 14 at 9:02 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-14T09:26:18.705505-04:00.jpg">
-  <img src="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-14T09:26:18.705505-04:00.jpg"
-     alt="Buzzfeed News at 2022-08-14 09:26:22-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-14T09:26:18.705505-04:00.jpg">August 14 at 9:26 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 150 hyperlink lists with the Internet Archive.
+The archiving routine has saved 154 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 6:54 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-21T18:54:33.500451-04:00.hyperlinks.json) |
+| [August 21 at 6:58 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-21T06:58:31.264679-04:00.hyperlinks.json) |
+| [August 20 at 7:01 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-20T19:00:57.356458-04:00.hyperlinks.json) |
+| [August 20 at 6:54 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-20T06:54:12.251020-04:00.hyperlinks.json) |
 | [August 19 at 6:59 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-19T18:59:46.496410-04:00.hyperlinks.json) |
 | [August 19 at 6:57 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-19T06:57:37.645617-04:00.hyperlinks.json) |
 | [August 18 at 6:59 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-18T18:59:08.359348-04:00.hyperlinks.json) |
 | [August 18 at 6:56 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-18T06:56:20.652739-04:00.hyperlinks.json) |
 | [August 17 at 6:58 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-17T18:58:09.982208-04:00.hyperlinks.json) |
 | [August 17 at 6:54 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-17T06:54:17.122853-04:00.hyperlinks.json) |
-| [August 16 at 7:01 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-16T19:01:05.011507-04:00.hyperlinks.json) |
-| [August 16 at 9:30 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-16T09:30:02.585286-04:00.hyperlinks.json) |
-| [August 15 at 9:17 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-15T21:17:00.548158-04:00.hyperlinks.json) |
-| [August 15 at 9:50 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-15T09:50:35.087361-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 151 accessibility trees with the Internet Archive.
+The archiving routine has saved 155 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 6:54 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-21T18:54:33.500451-04:00.accessibility.json) |
+| [August 21 at 6:58 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-21T06:58:31.264679-04:00.accessibility.json) |
+| [August 20 at 7:01 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-20T19:00:57.356458-04:00.accessibility.json) |
+| [August 20 at 6:54 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-20T06:54:12.251020-04:00.accessibility.json) |
 | [August 19 at 6:59 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-19T18:59:46.496410-04:00.accessibility.json) |
 | [August 19 at 6:57 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-19T06:57:37.645617-04:00.accessibility.json) |
 | [August 18 at 6:59 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-18T18:59:08.359348-04:00.accessibility.json) |
 | [August 18 at 6:56 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-18T06:56:20.652739-04:00.accessibility.json) |
 | [August 17 at 6:58 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-17T18:58:09.982208-04:00.accessibility.json) |
 | [August 17 at 6:54 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-17T06:54:17.122853-04:00.accessibility.json) |
-| [August 16 at 7:01 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-16T19:01:05.011507-04:00.accessibility.json) |
-| [August 16 at 9:30 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-16T09:30:02.585286-04:00.accessibility.json) |
-| [August 15 at 9:17 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-15T21:17:00.548158-04:00.accessibility.json) |
-| [August 15 at 9:50 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-15T09:50:35.087361-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 59 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 6:54 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-21T18:54:33.500451-04:00.lighthouse.json) |
+| [August 21 at 6:58 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-21T06:58:31.264679-04:00.lighthouse.json) |
+| [August 20 at 7:01 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-20T19:00:57.356458-04:00.lighthouse.json) |
+| [August 20 at 6:54 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-20T06:54:12.251020-04:00.lighthouse.json) |
 | [August 19 at 7:00 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-19T18:59:46.496410-04:00.lighthouse.json) |
 | [August 19 at 6:58 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-19T06:57:37.645617-04:00.lighthouse.json) |
 | [August 18 at 6:59 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-18T18:59:08.359348-04:00.lighthouse.json) |
 | [August 18 at 6:56 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-18T06:56:20.652739-04:00.lighthouse.json) |
 | [August 17 at 6:58 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-17T18:58:09.982208-04:00.lighthouse.json) |
 | [August 17 at 6:54 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-17T06:54:17.122853-04:00.lighthouse.json) |
-| [August 16 at 7:01 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-16T19:01:05.011507-04:00.lighthouse.json) |
-| [August 16 at 9:30 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-16T09:30:02.585286-04:00.lighthouse.json) |
-| [August 15 at 9:17 PM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-15T21:17:00.548158-04:00.lighthouse.json) |
-| [August 15 at 9:50 AM](https://archive.org/download/buzzfeednews-2022/buzzfeednews-2022-08-15T09:50:35.087361-04:00.lighthouse.json) |
 
 
 

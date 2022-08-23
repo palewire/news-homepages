@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 60 screenshots with the Internet Archive.
+The archiving routine has saved 64 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-21T10:07:47.626190-04:00.jpg">
+  <img src="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-21T10:07:47.626190-04:00.jpg"
+     alt="Marietta Daily Journal at 2022-08-21 10:07:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-21T10:07:47.626190-04:00.jpg">August 21 at 10:07 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-20T22:23:14.149436-04:00.jpg">
+  <img src="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-20T22:23:14.149436-04:00.jpg"
+     alt="Marietta Daily Journal at 2022-08-20 22:23:15-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-20T22:23:14.149436-04:00.jpg">August 20 at 10:23 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-20T10:01:26.186506-04:00.jpg">
+  <img src="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-20T10:01:26.186506-04:00.jpg"
+     alt="Marietta Daily Journal at 2022-08-20 10:01:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-20T10:01:26.186506-04:00.jpg">August 20 at 10:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-19T22:37:04.134677-04:00.jpg">
+  <img src="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-19T22:37:04.134677-04:00.jpg"
+     alt="Marietta Daily Journal at 2022-08-19 22:37:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-19T22:37:04.134677-04:00.jpg">August 19 at 10:37 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-19T10:35:51.857942-04:00.jpg">
   <img src="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-19T10:35:51.857942-04:00.jpg"
      alt="Marietta Daily Journal at 2022-08-19 10:35:53-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-16T02:40:45.132671-04:00.jpg">August 16 at 2:40 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-15T16:01:10.818419-04:00.jpg">
-  <img src="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-15T16:01:10.818419-04:00.jpg"
-     alt="Marietta Daily Journal at 2022-08-15 16:01:12-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-15T16:01:10.818419-04:00.jpg">August 15 at 4:01 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-15T02:32:57.346640-04:00.jpg">
-  <img src="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-15T02:32:57.346640-04:00.jpg"
-     alt="Marietta Daily Journal at 2022-08-15 02:33:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-15T02:32:57.346640-04:00.jpg">August 15 at 2:33 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-14T13:26:43.347331-04:00.jpg">
-  <img src="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-14T13:26:43.347331-04:00.jpg"
-     alt="Marietta Daily Journal at 2022-08-14 13:26:46-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-14T13:26:43.347331-04:00.jpg">August 14 at 1:26 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-14T02:54:19.135975-04:00.jpg">
-  <img src="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-14T02:54:19.135975-04:00.jpg"
-     alt="Marietta Daily Journal at 2022-08-14 02:54:29-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-14T02:54:19.135975-04:00.jpg">August 14 at 2:54 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 61 hyperlink lists with the Internet Archive.
+The archiving routine has saved 65 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 10:07 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-21T10:07:47.626190-04:00.hyperlinks.json) |
+| [August 20 at 10:23 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-20T22:23:14.149436-04:00.hyperlinks.json) |
+| [August 20 at 10:01 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-20T10:01:26.186506-04:00.hyperlinks.json) |
+| [August 19 at 10:37 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-19T22:37:04.134677-04:00.hyperlinks.json) |
 | [August 19 at 10:35 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-19T10:35:51.857942-04:00.hyperlinks.json) |
 | [August 18 at 10:35 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-18T22:35:19.625435-04:00.hyperlinks.json) |
 | [August 18 at 10:12 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-18T10:11:56.570945-04:00.hyperlinks.json) |
 | [August 17 at 10:31 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-17T22:31:27.726317-04:00.hyperlinks.json) |
 | [August 17 at 11:06 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-17T11:06:46.345959-04:00.hyperlinks.json) |
 | [August 16 at 10:31 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-16T22:31:25.212982-04:00.hyperlinks.json) |
-| [August 16 at 2:37 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-16T14:36:55.699869-04:00.hyperlinks.json) |
-| [August 16 at 2:40 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-16T02:40:45.132671-04:00.hyperlinks.json) |
-| [August 15 at 4:01 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-15T16:01:10.818419-04:00.hyperlinks.json) |
-| [August 15 at 2:33 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-15T02:32:57.346640-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 60 accessibility trees with the Internet Archive.
+The archiving routine has saved 64 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 10:07 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-21T10:07:47.626190-04:00.accessibility.json) |
+| [August 20 at 10:23 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-20T22:23:14.149436-04:00.accessibility.json) |
+| [August 20 at 10:01 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-20T10:01:26.186506-04:00.accessibility.json) |
+| [August 19 at 10:37 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-19T22:37:04.134677-04:00.accessibility.json) |
 | [August 19 at 10:35 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-19T10:35:51.857942-04:00.accessibility.json) |
 | [August 18 at 10:35 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-18T22:35:19.625435-04:00.accessibility.json) |
 | [August 18 at 10:12 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-18T10:11:56.570945-04:00.accessibility.json) |
 | [August 17 at 10:31 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-17T22:31:27.726317-04:00.accessibility.json) |
 | [August 17 at 11:06 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-17T11:06:46.345959-04:00.accessibility.json) |
 | [August 16 at 10:31 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-16T22:31:25.212982-04:00.accessibility.json) |
-| [August 16 at 2:36 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-16T14:36:55.699869-04:00.accessibility.json) |
-| [August 16 at 2:40 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-16T02:40:45.132671-04:00.accessibility.json) |
-| [August 15 at 4:01 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-15T16:01:10.818419-04:00.accessibility.json) |
-| [August 15 at 2:33 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-15T02:32:57.346640-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 54 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 58 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 10:07 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-21T10:07:47.626190-04:00.lighthouse.json) |
+| [August 20 at 10:23 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-20T22:23:14.149436-04:00.lighthouse.json) |
+| [August 20 at 10:01 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-20T10:01:26.186506-04:00.lighthouse.json) |
+| [August 19 at 10:37 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-19T22:37:04.134677-04:00.lighthouse.json) |
 | [August 19 at 10:35 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-19T10:35:51.857942-04:00.lighthouse.json) |
 | [August 18 at 10:35 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-18T22:35:19.625435-04:00.lighthouse.json) |
 | [August 18 at 10:12 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-18T10:11:56.570945-04:00.lighthouse.json) |
 | [August 17 at 10:31 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-17T22:31:27.726317-04:00.lighthouse.json) |
 | [August 17 at 11:06 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-17T11:06:46.345959-04:00.lighthouse.json) |
 | [August 16 at 10:31 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-16T22:31:25.212982-04:00.lighthouse.json) |
-| [August 16 at 2:37 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-16T14:36:55.699869-04:00.lighthouse.json) |
-| [August 16 at 2:40 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-16T02:40:45.132671-04:00.lighthouse.json) |
-| [August 15 at 4:01 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-15T16:01:10.818419-04:00.lighthouse.json) |
-| [August 15 at 2:33 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-15T02:32:57.346640-04:00.lighthouse.json) |
 
 
 

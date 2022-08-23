@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 850 news sites.
+The most recent homepages captured from 854 news sites.
 
 <div class="latest-parent">
 
@@ -374,6 +374,15 @@ The most recent homepages captured from 850 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/alternet.html">AlterNet</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/amabhungane.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/amabhungane.jpg"
+     alt="amaBhungane"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/amabhungane.html">amaBhungane</a></p>
 </div>
 
 <div class="latest-child">
@@ -1958,6 +1967,15 @@ The most recent homepages captured from 850 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/daily_record.html">Daily Record</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/dailysunsa.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailysunsa.jpg"
+     alt="Daily Sun"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/dailysunsa.html">Daily Sun</a></p>
 </div>
 
 <div class="latest-child">
@@ -5327,6 +5345,15 @@ The most recent homepages captured from 850 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/oxciej.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oxciej.jpg"
+     alt="Oxpeckers"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/oxciej.html">Oxpeckers</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/parisreview.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/parisreview.jpg"
      alt="Paris Review"
@@ -6206,6 +6233,15 @@ The most recent homepages captured from 850 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/southsideweekly.html">South Side Weekly</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/sowetanlive.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sowetanlive.jpg"
+     alt="Sowetan"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/sowetanlive.html">Sowetan</a></p>
 </div>
 
 <div class="latest-child">

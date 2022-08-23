@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 0 screenshots with the Internet Archive.
+The archiving routine has saved 3 screenshots with the Internet Archive.
 
 
 
@@ -36,11 +36,38 @@ Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
 
+<div class="latest-child">
+ <a href="https://archive.org/download/simple_flying-2022/simple_flying-2022-08-21T16:02:03.742297+01:00.jpg">
+  <img src="https://archive.org/download/simple_flying-2022/simple_flying-2022-08-21T16:02:03.742297+01:00.jpg"
+     alt="Simple Flying at 2022-08-21 16:02:05+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/simple_flying-2022/simple_flying-2022-08-21T16:02:03.742297+01:00.jpg">August 21 at 4:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/simple_flying-2022/simple_flying-2022-08-21T10:12:15.559633+01:00.jpg">
+  <img src="https://archive.org/download/simple_flying-2022/simple_flying-2022-08-21T10:12:15.559633+01:00.jpg"
+     alt="Simple Flying at 2022-08-21 10:12:17+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/simple_flying-2022/simple_flying-2022-08-21T10:12:15.559633+01:00.jpg">August 21 at 10:12 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/simple_flying-2022/simple_flying-2022-08-21T04:36:38.607309+01:00.jpg">
+  <img src="https://archive.org/download/simple_flying-2022/simple_flying-2022-08-21T04:36:38.607309+01:00.jpg"
+     alt="Simple Flying at 2022-08-21 04:36:44+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/simple_flying-2022/simple_flying-2022-08-21T04:36:38.607309+01:00.jpg">August 21 at 4:36 AM</a></p>
+</div>
+
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 0 hyperlink lists with the Internet Archive.
+The archiving routine has saved 3 hyperlink lists with the Internet Archive.
 
 
 
@@ -48,11 +75,14 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 4:02 PM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-21T16:02:03.742297+01:00.hyperlinks.json) |
+| [August 21 at 10:12 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-21T10:12:15.559633+01:00.hyperlinks.json) |
+| [August 21 at 4:36 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-21T04:36:38.607309+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 0 accessibility trees with the Internet Archive.
+The archiving routine has saved 3 accessibility trees with the Internet Archive.
 
 
 
@@ -60,12 +90,15 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 4:02 PM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-21T16:02:03.742297+01:00.accessibility.json) |
+| [August 21 at 10:12 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-21T10:12:15.559633+01:00.accessibility.json) |
+| [August 21 at 4:36 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-21T04:36:38.607309+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 0 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 3 Lighthouse audits with the Internet Archive.
 
 
 
@@ -73,6 +106,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 4:02 PM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-21T16:02:03.742297+01:00.lighthouse.json) |
+| [August 21 at 10:12 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-21T10:12:15.559633+01:00.lighthouse.json) |
+| [August 21 at 4:36 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-21T04:36:38.607309+01:00.lighthouse.json) |
 
 
 
@@ -82,3 +118,4 @@ Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |
+|[simple_flying-2022](https://archive.org/details/simple_flying-2022)|

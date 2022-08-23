@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 0 screenshots with the Internet Archive.
+The archiving routine has saved 3 screenshots with the Internet Archive.
 
 
 
@@ -36,11 +36,38 @@ Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
 
+<div class="latest-child">
+ <a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-21T15:52:08.858314-07:00.jpg">
+  <img src="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-21T15:52:08.858314-07:00.jpg"
+     alt="Airline Reporter at 2022-08-21 15:52:10-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-21T15:52:08.858314-07:00.jpg">August 21 at 3:52 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-21T03:55:55.598813-07:00.jpg">
+  <img src="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-21T03:55:55.598813-07:00.jpg"
+     alt="Airline Reporter at 2022-08-21 03:55:57-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-21T03:55:55.598813-07:00.jpg">August 21 at 3:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-20T15:59:00.685469-07:00.jpg">
+  <img src="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-20T15:59:00.685469-07:00.jpg"
+     alt="Airline Reporter at 2022-08-20 15:59:06-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-20T15:59:00.685469-07:00.jpg">August 20 at 3:59 PM</a></p>
+</div>
+
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 0 hyperlink lists with the Internet Archive.
+The archiving routine has saved 3 hyperlink lists with the Internet Archive.
 
 
 
@@ -48,11 +75,14 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 3:52 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-21T15:52:08.858314-07:00.hyperlinks.json) |
+| [August 21 at 3:56 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-21T03:55:55.598813-07:00.hyperlinks.json) |
+| [August 20 at 3:59 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-20T15:59:00.685469-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 0 accessibility trees with the Internet Archive.
+The archiving routine has saved 3 accessibility trees with the Internet Archive.
 
 
 
@@ -60,12 +90,15 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 3:52 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-21T15:52:08.858314-07:00.accessibility.json) |
+| [August 21 at 3:55 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-21T03:55:55.598813-07:00.accessibility.json) |
+| [August 20 at 3:59 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-20T15:59:00.685469-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 0 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 3 Lighthouse audits with the Internet Archive.
 
 
 
@@ -73,6 +106,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 3:52 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-21T15:52:08.858314-07:00.lighthouse.json) |
+| [August 21 at 3:56 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-21T03:55:55.598813-07:00.lighthouse.json) |
+| [August 20 at 3:59 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-20T15:59:00.685469-07:00.lighthouse.json) |
 
 
 
@@ -82,3 +118,4 @@ Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |
+|[airlinereporter-2022](https://archive.org/details/airlinereporter-2022)|

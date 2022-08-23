@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 152 screenshots with the Internet Archive.
+The archiving routine has saved 156 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/axios-2022/axios-2022-08-21T09:04:41.917000-04:00.jpg">
+  <img src="https://archive.org/download/axios-2022/axios-2022-08-21T09:04:41.917000-04:00.jpg"
+     alt="Axios at 2022-08-21 09:04:45-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/axios-2022/axios-2022-08-21T09:04:41.917000-04:00.jpg">August 21 at 9:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/axios-2022/axios-2022-08-20T21:13:13.651025-04:00.jpg">
+  <img src="https://archive.org/download/axios-2022/axios-2022-08-20T21:13:13.651025-04:00.jpg"
+     alt="Axios at 2022-08-20 21:13:15-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/axios-2022/axios-2022-08-20T21:13:13.651025-04:00.jpg">August 20 at 9:13 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/axios-2022/axios-2022-08-20T08:59:51.383011-04:00.jpg">
+  <img src="https://archive.org/download/axios-2022/axios-2022-08-20T08:59:51.383011-04:00.jpg"
+     alt="Axios at 2022-08-20 08:59:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/axios-2022/axios-2022-08-20T08:59:51.383011-04:00.jpg">August 20 at 8:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/axios-2022/axios-2022-08-19T21:11:58.937707-04:00.jpg">
+  <img src="https://archive.org/download/axios-2022/axios-2022-08-19T21:11:58.937707-04:00.jpg"
+     alt="Axios at 2022-08-19 21:12:00-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/axios-2022/axios-2022-08-19T21:11:58.937707-04:00.jpg">August 19 at 9:12 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/axios-2022/axios-2022-08-19T09:17:33.898176-04:00.jpg">
   <img src="https://archive.org/download/axios-2022/axios-2022-08-19T09:17:33.898176-04:00.jpg"
      alt="Axios at 2022-08-19 09:17:38-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/axios-2022/axios-2022-08-16T02:12:02.949314-04:00.jpg">August 16 at 2:12 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/axios-2022/axios-2022-08-15T15:30:22.542439-04:00.jpg">
-  <img src="https://archive.org/download/axios-2022/axios-2022-08-15T15:30:22.542439-04:00.jpg"
-     alt="Axios at 2022-08-15 15:30:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/axios-2022/axios-2022-08-15T15:30:22.542439-04:00.jpg">August 15 at 3:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/axios-2022/axios-2022-08-14T23:06:43.715379-04:00.jpg">
-  <img src="https://archive.org/download/axios-2022/axios-2022-08-14T23:06:43.715379-04:00.jpg"
-     alt="Axios at 2022-08-14 23:06:45-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/axios-2022/axios-2022-08-14T23:06:43.715379-04:00.jpg">August 14 at 11:06 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/axios-2022/axios-2022-08-14T12:56:57.996259-04:00.jpg">
-  <img src="https://archive.org/download/axios-2022/axios-2022-08-14T12:56:57.996259-04:00.jpg"
-     alt="Axios at 2022-08-14 12:57:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/axios-2022/axios-2022-08-14T12:56:57.996259-04:00.jpg">August 14 at 12:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/axios-2022/axios-2022-08-14T00:58:53.157747-04:00.jpg">
-  <img src="https://archive.org/download/axios-2022/axios-2022-08-14T00:58:53.157747-04:00.jpg"
-     alt="Axios at 2022-08-14 00:58:56-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/axios-2022/axios-2022-08-14T00:58:53.157747-04:00.jpg">August 14 at 12:58 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 153 hyperlink lists with the Internet Archive.
+The archiving routine has saved 157 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 9:04 AM](https://archive.org/download/axios-2022/axios-2022-08-21T09:04:41.917000-04:00.hyperlinks.json) |
+| [August 20 at 9:13 PM](https://archive.org/download/axios-2022/axios-2022-08-20T21:13:13.651025-04:00.hyperlinks.json) |
+| [August 20 at 9:00 AM](https://archive.org/download/axios-2022/axios-2022-08-20T08:59:51.383011-04:00.hyperlinks.json) |
+| [August 19 at 9:12 PM](https://archive.org/download/axios-2022/axios-2022-08-19T21:11:58.937707-04:00.hyperlinks.json) |
 | [August 19 at 9:17 AM](https://archive.org/download/axios-2022/axios-2022-08-19T09:17:33.898176-04:00.hyperlinks.json) |
 | [August 18 at 9:17 PM](https://archive.org/download/axios-2022/axios-2022-08-18T21:17:36.366344-04:00.hyperlinks.json) |
 | [August 18 at 8:58 AM](https://archive.org/download/axios-2022/axios-2022-08-18T08:58:32.525252-04:00.hyperlinks.json) |
 | [August 17 at 9:12 PM](https://archive.org/download/axios-2022/axios-2022-08-17T21:12:08.862616-04:00.hyperlinks.json) |
 | [August 17 at 9:04 AM](https://archive.org/download/axios-2022/axios-2022-08-17T09:04:39.305876-04:00.hyperlinks.json) |
 | [August 16 at 9:19 PM](https://archive.org/download/axios-2022/axios-2022-08-16T21:18:55.958008-04:00.hyperlinks.json) |
-| [August 16 at 1:14 PM](https://archive.org/download/axios-2022/axios-2022-08-16T13:14:45.128654-04:00.hyperlinks.json) |
-| [August 16 at 2:12 AM](https://archive.org/download/axios-2022/axios-2022-08-16T02:12:02.949314-04:00.hyperlinks.json) |
-| [August 15 at 3:30 PM](https://archive.org/download/axios-2022/axios-2022-08-15T15:30:22.542439-04:00.hyperlinks.json) |
-| [August 14 at 11:06 PM](https://archive.org/download/axios-2022/axios-2022-08-14T23:06:43.715379-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 153 accessibility trees with the Internet Archive.
+The archiving routine has saved 157 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 9:04 AM](https://archive.org/download/axios-2022/axios-2022-08-21T09:04:41.917000-04:00.accessibility.json) |
+| [August 20 at 9:13 PM](https://archive.org/download/axios-2022/axios-2022-08-20T21:13:13.651025-04:00.accessibility.json) |
+| [August 20 at 9:00 AM](https://archive.org/download/axios-2022/axios-2022-08-20T08:59:51.383011-04:00.accessibility.json) |
+| [August 19 at 9:12 PM](https://archive.org/download/axios-2022/axios-2022-08-19T21:11:58.937707-04:00.accessibility.json) |
 | [August 19 at 9:17 AM](https://archive.org/download/axios-2022/axios-2022-08-19T09:17:33.898176-04:00.accessibility.json) |
 | [August 18 at 9:17 PM](https://archive.org/download/axios-2022/axios-2022-08-18T21:17:36.366344-04:00.accessibility.json) |
 | [August 18 at 8:58 AM](https://archive.org/download/axios-2022/axios-2022-08-18T08:58:32.525252-04:00.accessibility.json) |
 | [August 17 at 9:12 PM](https://archive.org/download/axios-2022/axios-2022-08-17T21:12:08.862616-04:00.accessibility.json) |
 | [August 17 at 9:04 AM](https://archive.org/download/axios-2022/axios-2022-08-17T09:04:39.305876-04:00.accessibility.json) |
 | [August 16 at 9:18 PM](https://archive.org/download/axios-2022/axios-2022-08-16T21:18:55.958008-04:00.accessibility.json) |
-| [August 16 at 1:14 PM](https://archive.org/download/axios-2022/axios-2022-08-16T13:14:45.128654-04:00.accessibility.json) |
-| [August 16 at 2:12 AM](https://archive.org/download/axios-2022/axios-2022-08-16T02:12:02.949314-04:00.accessibility.json) |
-| [August 15 at 3:30 PM](https://archive.org/download/axios-2022/axios-2022-08-15T15:30:22.542439-04:00.accessibility.json) |
-| [August 14 at 11:06 PM](https://archive.org/download/axios-2022/axios-2022-08-14T23:06:43.715379-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 57 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 61 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 9:04 AM](https://archive.org/download/axios-2022/axios-2022-08-21T09:04:41.917000-04:00.lighthouse.json) |
+| [August 20 at 9:13 PM](https://archive.org/download/axios-2022/axios-2022-08-20T21:13:13.651025-04:00.lighthouse.json) |
+| [August 20 at 9:00 AM](https://archive.org/download/axios-2022/axios-2022-08-20T08:59:51.383011-04:00.lighthouse.json) |
+| [August 19 at 9:12 PM](https://archive.org/download/axios-2022/axios-2022-08-19T21:11:58.937707-04:00.lighthouse.json) |
 | [August 19 at 9:17 AM](https://archive.org/download/axios-2022/axios-2022-08-19T09:17:33.898176-04:00.lighthouse.json) |
 | [August 18 at 9:17 PM](https://archive.org/download/axios-2022/axios-2022-08-18T21:17:36.366344-04:00.lighthouse.json) |
 | [August 18 at 8:58 AM](https://archive.org/download/axios-2022/axios-2022-08-18T08:58:32.525252-04:00.lighthouse.json) |
 | [August 17 at 9:12 PM](https://archive.org/download/axios-2022/axios-2022-08-17T21:12:08.862616-04:00.lighthouse.json) |
 | [August 17 at 9:04 AM](https://archive.org/download/axios-2022/axios-2022-08-17T09:04:39.305876-04:00.lighthouse.json) |
 | [August 16 at 9:19 PM](https://archive.org/download/axios-2022/axios-2022-08-16T21:18:55.958008-04:00.lighthouse.json) |
-| [August 16 at 1:14 PM](https://archive.org/download/axios-2022/axios-2022-08-16T13:14:45.128654-04:00.lighthouse.json) |
-| [August 16 at 2:12 AM](https://archive.org/download/axios-2022/axios-2022-08-16T02:12:02.949314-04:00.lighthouse.json) |
-| [August 15 at 3:30 PM](https://archive.org/download/axios-2022/axios-2022-08-15T15:30:22.542439-04:00.lighthouse.json) |
-| [August 14 at 11:06 PM](https://archive.org/download/axios-2022/axios-2022-08-14T23:06:43.715379-04:00.lighthouse.json) |
 
 
 

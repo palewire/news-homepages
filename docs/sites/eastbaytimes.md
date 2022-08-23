@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 272 screenshots with the Internet Archive.
+The archiving routine has saved 276 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-21T15:57:10.470339-07:00.jpg">
+  <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-21T15:57:10.470339-07:00.jpg"
+     alt="East Bay Times at 2022-08-21 15:57:17-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-21T15:57:10.470339-07:00.jpg">August 21 at 3:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-21T04:01:10.660137-07:00.jpg">
+  <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-21T04:01:10.660137-07:00.jpg"
+     alt="East Bay Times at 2022-08-21 04:01:15-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-21T04:01:10.660137-07:00.jpg">August 21 at 4:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-20T16:04:19.885185-07:00.jpg">
+  <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-20T16:04:19.885185-07:00.jpg"
+     alt="East Bay Times at 2022-08-20 16:04:24-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-20T16:04:19.885185-07:00.jpg">August 20 at 4:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-20T03:56:43.136367-07:00.jpg">
+  <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-20T03:56:43.136367-07:00.jpg"
+     alt="East Bay Times at 2022-08-20 03:56:45-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-20T03:56:43.136367-07:00.jpg">August 20 at 3:56 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-19T16:02:59.924551-07:00.jpg">
   <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-19T16:02:59.924551-07:00.jpg"
      alt="East Bay Times at 2022-08-19 16:03:05-07:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-16T06:35:34.170916-07:00.jpg">August 16 at 6:35 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-15T18:22:57.597007-07:00.jpg">
-  <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-15T18:22:57.597007-07:00.jpg"
-     alt="East Bay Times at 2022-08-15 18:23:03-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-15T18:22:57.597007-07:00.jpg">August 15 at 6:23 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-15T06:56:53.059186-07:00.jpg">
-  <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-15T06:56:53.059186-07:00.jpg"
-     alt="East Bay Times at 2022-08-15 06:56:57-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-15T06:56:53.059186-07:00.jpg">August 15 at 6:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-14T18:08:45.170542-07:00.jpg">
-  <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-14T18:08:45.170542-07:00.jpg"
-     alt="East Bay Times at 2022-08-14 18:08:50-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-14T18:08:45.170542-07:00.jpg">August 14 at 6:08 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-14T06:31:50.947370-07:00.jpg">
-  <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-14T06:31:50.947370-07:00.jpg"
-     alt="East Bay Times at 2022-08-14 06:31:56-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-14T06:31:50.947370-07:00.jpg">August 14 at 6:31 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 258 hyperlink lists with the Internet Archive.
+The archiving routine has saved 262 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 3:57 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-21T15:57:10.470339-07:00.hyperlinks.json) |
+| [August 21 at 4:01 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-21T04:01:10.660137-07:00.hyperlinks.json) |
+| [August 20 at 4:04 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-20T16:04:19.885185-07:00.hyperlinks.json) |
+| [August 20 at 3:56 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-20T03:56:43.136367-07:00.hyperlinks.json) |
 | [August 19 at 4:03 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-19T16:02:59.924551-07:00.hyperlinks.json) |
 | [August 19 at 4:01 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-19T04:01:04.817372-07:00.hyperlinks.json) |
 | [August 18 at 4:02 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-18T16:02:11.050443-07:00.hyperlinks.json) |
 | [August 18 at 3:59 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-18T03:58:55.627485-07:00.hyperlinks.json) |
 | [August 17 at 4:01 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-17T16:01:21.662279-07:00.hyperlinks.json) |
 | [August 17 at 3:56 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-17T03:56:45.664823-07:00.hyperlinks.json) |
-| [August 16 at 4:04 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-16T16:04:11.367349-07:00.hyperlinks.json) |
-| [August 16 at 6:35 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-16T06:35:34.170916-07:00.hyperlinks.json) |
-| [August 15 at 6:23 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-15T18:22:57.597007-07:00.hyperlinks.json) |
-| [August 15 at 6:57 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-15T06:56:53.059186-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 263 accessibility trees with the Internet Archive.
+The archiving routine has saved 267 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 3:57 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-21T15:57:10.470339-07:00.accessibility.json) |
+| [August 21 at 4:01 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-21T04:01:10.660137-07:00.accessibility.json) |
+| [August 20 at 4:04 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-20T16:04:19.885185-07:00.accessibility.json) |
+| [August 20 at 3:56 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-20T03:56:43.136367-07:00.accessibility.json) |
 | [August 19 at 4:03 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-19T16:02:59.924551-07:00.accessibility.json) |
 | [August 19 at 4:01 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-19T04:01:04.817372-07:00.accessibility.json) |
 | [August 18 at 4:02 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-18T16:02:11.050443-07:00.accessibility.json) |
 | [August 18 at 3:59 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-18T03:58:55.627485-07:00.accessibility.json) |
 | [August 17 at 4:01 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-17T16:01:21.662279-07:00.accessibility.json) |
 | [August 17 at 3:56 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-17T03:56:45.664823-07:00.accessibility.json) |
-| [August 16 at 4:04 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-16T16:04:11.367349-07:00.accessibility.json) |
-| [August 16 at 6:35 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-16T06:35:34.170916-07:00.accessibility.json) |
-| [August 15 at 6:23 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-15T18:22:57.597007-07:00.accessibility.json) |
-| [August 15 at 6:56 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-15T06:56:53.059186-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 59 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 3:57 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-21T15:57:10.470339-07:00.lighthouse.json) |
+| [August 21 at 4:01 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-21T04:01:10.660137-07:00.lighthouse.json) |
+| [August 20 at 4:04 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-20T16:04:19.885185-07:00.lighthouse.json) |
+| [August 20 at 3:56 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-20T03:56:43.136367-07:00.lighthouse.json) |
 | [August 19 at 4:03 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-19T16:02:59.924551-07:00.lighthouse.json) |
 | [August 19 at 4:01 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-19T04:01:04.817372-07:00.lighthouse.json) |
 | [August 18 at 4:02 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-18T16:02:11.050443-07:00.lighthouse.json) |
 | [August 18 at 3:59 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-18T03:58:55.627485-07:00.lighthouse.json) |
 | [August 17 at 4:01 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-17T16:01:21.662279-07:00.lighthouse.json) |
 | [August 17 at 3:56 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-17T03:56:45.664823-07:00.lighthouse.json) |
-| [August 16 at 4:04 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-16T16:04:11.367349-07:00.lighthouse.json) |
-| [August 16 at 6:35 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-16T06:35:34.170916-07:00.lighthouse.json) |
-| [August 15 at 6:23 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-15T18:22:57.597007-07:00.lighthouse.json) |
-| [August 15 at 6:57 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-15T06:56:53.059186-07:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 40 screenshots with the Internet Archive.
+The archiving routine has saved 44 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/lex18news-2022/lex18news-2022-08-21T19:55:31.542142-04:00.jpg">
+  <img src="https://archive.org/download/lex18news-2022/lex18news-2022-08-21T19:55:31.542142-04:00.jpg"
+     alt="LEX 18 News at 2022-08-21 19:55:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lex18news-2022/lex18news-2022-08-21T19:55:31.542142-04:00.jpg">August 21 at 7:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lex18news-2022/lex18news-2022-08-21T08:01:07.657593-04:00.jpg">
+  <img src="https://archive.org/download/lex18news-2022/lex18news-2022-08-21T08:01:07.657593-04:00.jpg"
+     alt="LEX 18 News at 2022-08-21 08:01:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lex18news-2022/lex18news-2022-08-21T08:01:07.657593-04:00.jpg">August 21 at 8:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lex18news-2022/lex18news-2022-08-20T19:55:23.942199-04:00.jpg">
+  <img src="https://archive.org/download/lex18news-2022/lex18news-2022-08-20T19:55:23.942199-04:00.jpg"
+     alt="LEX 18 News at 2022-08-20 19:55:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lex18news-2022/lex18news-2022-08-20T19:55:23.942199-04:00.jpg">August 20 at 7:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lex18news-2022/lex18news-2022-08-20T07:57:13.028759-04:00.jpg">
+  <img src="https://archive.org/download/lex18news-2022/lex18news-2022-08-20T07:57:13.028759-04:00.jpg"
+     alt="LEX 18 News at 2022-08-20 07:57:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lex18news-2022/lex18news-2022-08-20T07:57:13.028759-04:00.jpg">August 20 at 7:57 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/lex18news-2022/lex18news-2022-08-19T19:54:03.560198-04:00.jpg">
   <img src="https://archive.org/download/lex18news-2022/lex18news-2022-08-19T19:54:03.560198-04:00.jpg"
      alt="LEX 18 News at 2022-08-19 19:54:05-04:00 local time"
@@ -397,76 +433,209 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lex18news-2022/lex18news-2022-08-16T20:06:29.644187-04:00.jpg">August 16 at 8:06 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lex18news-2022/lex18news-2022-08-16T09:59:39.092351-04:00.jpg">
-  <img src="https://archive.org/download/lex18news-2022/lex18news-2022-08-16T09:59:39.092351-04:00.jpg"
-     alt="LEX 18 News at 2022-08-16 09:59:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lex18news-2022/lex18news-2022-08-16T09:59:39.092351-04:00.jpg">August 16 at 9:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lex18news-2022/lex18news-2022-08-15T21:34:47.740563-04:00.jpg">
-  <img src="https://archive.org/download/lex18news-2022/lex18news-2022-08-15T21:34:47.740563-04:00.jpg"
-     alt="LEX 18 News at 2022-08-15 21:34:52-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lex18news-2022/lex18news-2022-08-15T21:34:47.740563-04:00.jpg">August 15 at 9:34 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lex18news-2022/lex18news-2022-08-15T10:17:01.130560-04:00.jpg">
-  <img src="https://archive.org/download/lex18news-2022/lex18news-2022-08-15T10:17:01.130560-04:00.jpg"
-     alt="LEX 18 News at 2022-08-15 10:17:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lex18news-2022/lex18news-2022-08-15T10:17:01.130560-04:00.jpg">August 15 at 10:17 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lex18news-2022/lex18news-2022-08-14T21:20:10.548992-04:00.jpg">
-  <img src="https://archive.org/download/lex18news-2022/lex18news-2022-08-14T21:20:10.548992-04:00.jpg"
-     alt="LEX 18 News at 2022-08-14 21:20:12-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lex18news-2022/lex18news-2022-08-14T21:20:10.548992-04:00.jpg">August 14 at 9:20 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 30 hyperlink lists with the Internet Archive.
+The archiving routine has saved 34 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/lex18news.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 7:55 PM](https://archive.org/download/lex18news-2022/lex18news-2022-08-21T19:55:31.542142-04:00.hyperlinks.json) |
+| [August 21 at 8:01 AM](https://archive.org/download/lex18news-2022/lex18news-2022-08-21T08:01:07.657593-04:00.hyperlinks.json) |
+| [August 20 at 7:55 PM](https://archive.org/download/lex18news-2022/lex18news-2022-08-20T19:55:23.942199-04:00.hyperlinks.json) |
+| [August 20 at 7:57 AM](https://archive.org/download/lex18news-2022/lex18news-2022-08-20T07:57:13.028759-04:00.hyperlinks.json) |
 | [August 19 at 7:54 PM](https://archive.org/download/lex18news-2022/lex18news-2022-08-19T19:54:03.560198-04:00.hyperlinks.json) |
 | [August 19 at 10:20 AM](https://archive.org/download/lex18news-2022/lex18news-2022-08-19T10:20:06.100167-04:00.hyperlinks.json) |
 | [August 19 at 8:01 AM](https://archive.org/download/lex18news-2022/lex18news-2022-08-19T08:01:17.175721-04:00.hyperlinks.json) |
 | [August 18 at 7:54 PM](https://archive.org/download/lex18news-2022/lex18news-2022-08-18T19:54:19.588991-04:00.hyperlinks.json) |
 | [August 17 at 7:51 AM](https://archive.org/download/lex18news-2022/lex18news-2022-08-17T07:51:13.336045-04:00.hyperlinks.json) |
 | [August 16 at 8:06 PM](https://archive.org/download/lex18news-2022/lex18news-2022-08-16T20:06:29.644187-04:00.hyperlinks.json) |
-| [August 15 at 9:34 PM](https://archive.org/download/lex18news-2022/lex18news-2022-08-15T21:34:47.740563-04:00.hyperlinks.json) |
-| [August 15 at 10:17 AM](https://archive.org/download/lex18news-2022/lex18news-2022-08-15T10:17:01.130560-04:00.hyperlinks.json) |
-| [August 14 at 9:20 PM](https://archive.org/download/lex18news-2022/lex18news-2022-08-14T21:20:10.548992-04:00.hyperlinks.json) |
-| [August 14 at 9:49 AM](https://archive.org/download/lex18news-2022/lex18news-2022-08-14T09:49:04.790182-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 30 accessibility trees with the Internet Archive.
+The archiving routine has saved 33 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/lex18news.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 7:55 PM](https://archive.org/download/lex18news-2022/lex18news-2022-08-21T19:55:31.542142-04:00.accessibility.json) |
+| [August 21 at 8:01 AM](https://archive.org/download/lex18news-2022/lex18news-2022-08-21T08:01:07.657593-04:00.accessibility.json) |
+| [August 20 at 7:55 PM](https://archive.org/download/lex18news-2022/lex18news-2022-08-20T19:55:23.942199-04:00.accessibility.json) |
 | [August 19 at 7:54 PM](https://archive.org/download/lex18news-2022/lex18news-2022-08-19T19:54:03.560198-04:00.accessibility.json) |
 | [August 19 at 10:20 AM](https://archive.org/download/lex18news-2022/lex18news-2022-08-19T10:20:06.100167-04:00.accessibility.json) |
 | [August 19 at 8:01 AM](https://archive.org/download/lex18news-2022/lex18news-2022-08-19T08:01:17.175721-04:00.accessibility.json) |
@@ -474,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 17 at 7:51 PM](https://archive.org/download/lex18news-2022/lex18news-2022-08-17T19:51:43.117803-04:00.accessibility.json) |
 | [August 17 at 7:51 AM](https://archive.org/download/lex18news-2022/lex18news-2022-08-17T07:51:13.336045-04:00.accessibility.json) |
 | [August 16 at 8:06 PM](https://archive.org/download/lex18news-2022/lex18news-2022-08-16T20:06:29.644187-04:00.accessibility.json) |
-| [August 15 at 9:34 PM](https://archive.org/download/lex18news-2022/lex18news-2022-08-15T21:34:47.740563-04:00.accessibility.json) |
-| [August 15 at 10:17 AM](https://archive.org/download/lex18news-2022/lex18news-2022-08-15T10:17:01.130560-04:00.accessibility.json) |
-| [August 14 at 9:20 PM](https://archive.org/download/lex18news-2022/lex18news-2022-08-14T21:20:10.548992-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -573,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 7:55 PM](https://archive.org/download/lex18news-2022/lex18news-2022-08-21T19:55:31.542142-04:00.lighthouse.json) |
+| [August 21 at 8:01 AM](https://archive.org/download/lex18news-2022/lex18news-2022-08-21T08:01:07.657593-04:00.lighthouse.json) |
+| [August 20 at 7:55 PM](https://archive.org/download/lex18news-2022/lex18news-2022-08-20T19:55:23.942199-04:00.lighthouse.json) |
+| [August 20 at 7:57 AM](https://archive.org/download/lex18news-2022/lex18news-2022-08-20T07:57:13.028759-04:00.lighthouse.json) |
 | [August 19 at 7:54 PM](https://archive.org/download/lex18news-2022/lex18news-2022-08-19T19:54:03.560198-04:00.lighthouse.json) |
 | [August 19 at 10:20 AM](https://archive.org/download/lex18news-2022/lex18news-2022-08-19T10:20:06.100167-04:00.lighthouse.json) |
 | [August 19 at 8:01 AM](https://archive.org/download/lex18news-2022/lex18news-2022-08-19T08:01:17.175721-04:00.lighthouse.json) |
 | [August 18 at 7:54 PM](https://archive.org/download/lex18news-2022/lex18news-2022-08-18T19:54:19.588991-04:00.lighthouse.json) |
 | [August 18 at 8:00 AM](https://archive.org/download/lex18news-2022/lex18news-2022-08-18T08:00:42.795017-04:00.lighthouse.json) |
 | [August 17 at 7:51 PM](https://archive.org/download/lex18news-2022/lex18news-2022-08-17T19:51:43.117803-04:00.lighthouse.json) |
-| [August 17 at 7:51 AM](https://archive.org/download/lex18news-2022/lex18news-2022-08-17T07:51:13.336045-04:00.lighthouse.json) |
-| [August 16 at 8:06 PM](https://archive.org/download/lex18news-2022/lex18news-2022-08-16T20:06:29.644187-04:00.lighthouse.json) |
-| [August 16 at 9:59 AM](https://archive.org/download/lex18news-2022/lex18news-2022-08-16T09:59:39.092351-04:00.lighthouse.json) |
-| [August 15 at 9:34 PM](https://archive.org/download/lex18news-2022/lex18news-2022-08-15T21:34:47.740563-04:00.lighthouse.json) |
 
 
 

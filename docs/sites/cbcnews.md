@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 113 screenshots with the Internet Archive.
+The archiving routine has saved 117 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/cbcnews-2022/cbcnews-2022-08-21T09:06:38.733927-04:00.jpg">
+  <img src="https://archive.org/download/cbcnews-2022/cbcnews-2022-08-21T09:06:38.733927-04:00.jpg"
+     alt="CBC News at 2022-08-21 09:06:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbcnews-2022/cbcnews-2022-08-21T09:06:38.733927-04:00.jpg">August 21 at 9:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cbcnews-2022/cbcnews-2022-08-20T21:14:53.908252-04:00.jpg">
+  <img src="https://archive.org/download/cbcnews-2022/cbcnews-2022-08-20T21:14:53.908252-04:00.jpg"
+     alt="CBC News at 2022-08-20 21:14:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbcnews-2022/cbcnews-2022-08-20T21:14:53.908252-04:00.jpg">August 20 at 9:14 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cbcnews-2022/cbcnews-2022-08-20T09:01:48.367247-04:00.jpg">
+  <img src="https://archive.org/download/cbcnews-2022/cbcnews-2022-08-20T09:01:48.367247-04:00.jpg"
+     alt="CBC News at 2022-08-20 09:01:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbcnews-2022/cbcnews-2022-08-20T09:01:48.367247-04:00.jpg">August 20 at 9:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cbcnews-2022/cbcnews-2022-08-19T21:15:45.327499-04:00.jpg">
+  <img src="https://archive.org/download/cbcnews-2022/cbcnews-2022-08-19T21:15:45.327499-04:00.jpg"
+     alt="CBC News at 2022-08-19 21:15:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbcnews-2022/cbcnews-2022-08-19T21:15:45.327499-04:00.jpg">August 19 at 9:15 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/cbcnews-2022/cbcnews-2022-08-19T09:19:10.324300-04:00.jpg">
   <img src="https://archive.org/download/cbcnews-2022/cbcnews-2022-08-19T09:19:10.324300-04:00.jpg"
      alt="CBC News at 2022-08-19 09:19:12-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cbcnews-2022/cbcnews-2022-08-16T02:14:51.941483-04:00.jpg">August 16 at 2:14 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cbcnews-2022/cbcnews-2022-08-15T15:31:52.510555-04:00.jpg">
-  <img src="https://archive.org/download/cbcnews-2022/cbcnews-2022-08-15T15:31:52.510555-04:00.jpg"
-     alt="CBC News at 2022-08-15 15:31:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cbcnews-2022/cbcnews-2022-08-15T15:31:52.510555-04:00.jpg">August 15 at 3:31 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cbcnews-2022/cbcnews-2022-08-14T23:10:05.537063-04:00.jpg">
-  <img src="https://archive.org/download/cbcnews-2022/cbcnews-2022-08-14T23:10:05.537063-04:00.jpg"
-     alt="CBC News at 2022-08-14 23:10:06-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cbcnews-2022/cbcnews-2022-08-14T23:10:05.537063-04:00.jpg">August 14 at 11:10 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cbcnews-2022/cbcnews-2022-08-14T12:59:48.891925-04:00.jpg">
-  <img src="https://archive.org/download/cbcnews-2022/cbcnews-2022-08-14T12:59:48.891925-04:00.jpg"
-     alt="CBC News at 2022-08-14 12:59:51-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cbcnews-2022/cbcnews-2022-08-14T12:59:48.891925-04:00.jpg">August 14 at 12:59 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cbcnews-2022/cbcnews-2022-08-14T01:01:48.123498-04:00.jpg">
-  <img src="https://archive.org/download/cbcnews-2022/cbcnews-2022-08-14T01:01:48.123498-04:00.jpg"
-     alt="CBC News at 2022-08-14 01:01:51-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cbcnews-2022/cbcnews-2022-08-14T01:01:48.123498-04:00.jpg">August 14 at 1:01 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 112 hyperlink lists with the Internet Archive.
+The archiving routine has saved 116 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 9:06 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-21T09:06:38.733927-04:00.hyperlinks.json) |
+| [August 20 at 9:14 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-20T21:14:53.908252-04:00.hyperlinks.json) |
+| [August 20 at 9:01 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-20T09:01:48.367247-04:00.hyperlinks.json) |
+| [August 19 at 9:15 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-19T21:15:45.327499-04:00.hyperlinks.json) |
 | [August 19 at 9:19 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-19T09:19:10.324300-04:00.hyperlinks.json) |
 | [August 18 at 9:19 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-18T21:19:28.068648-04:00.hyperlinks.json) |
 | [August 18 at 9:01 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-18T09:00:46.322168-04:00.hyperlinks.json) |
 | [August 17 at 9:14 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-17T21:14:13.379927-04:00.hyperlinks.json) |
 | [August 17 at 9:06 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-17T09:06:49.751347-04:00.hyperlinks.json) |
 | [August 16 at 9:20 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-16T21:20:27.338823-04:00.hyperlinks.json) |
-| [August 16 at 1:17 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-16T13:17:40.135357-04:00.hyperlinks.json) |
-| [August 16 at 2:14 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-16T02:14:51.941483-04:00.hyperlinks.json) |
-| [August 15 at 3:32 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-15T15:31:52.510555-04:00.hyperlinks.json) |
-| [August 14 at 11:10 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-14T23:10:05.537063-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 117 accessibility trees with the Internet Archive.
+The archiving routine has saved 121 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 9:06 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-21T09:06:38.733927-04:00.accessibility.json) |
+| [August 20 at 9:14 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-20T21:14:53.908252-04:00.accessibility.json) |
+| [August 20 at 9:01 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-20T09:01:48.367247-04:00.accessibility.json) |
+| [August 19 at 9:15 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-19T21:15:45.327499-04:00.accessibility.json) |
 | [August 19 at 9:19 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-19T09:19:10.324300-04:00.accessibility.json) |
 | [August 18 at 9:19 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-18T21:19:28.068648-04:00.accessibility.json) |
 | [August 18 at 9:00 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-18T09:00:46.322168-04:00.accessibility.json) |
 | [August 17 at 9:14 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-17T21:14:13.379927-04:00.accessibility.json) |
 | [August 17 at 9:06 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-17T09:06:49.751347-04:00.accessibility.json) |
 | [August 16 at 9:20 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-16T21:20:27.338823-04:00.accessibility.json) |
-| [August 16 at 1:17 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-16T13:17:40.135357-04:00.accessibility.json) |
-| [August 16 at 2:14 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-16T02:14:51.941483-04:00.accessibility.json) |
-| [August 15 at 3:31 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-15T15:31:52.510555-04:00.accessibility.json) |
-| [August 14 at 11:10 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-14T23:10:05.537063-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 57 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 61 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 9:06 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-21T09:06:38.733927-04:00.lighthouse.json) |
+| [August 20 at 9:15 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-20T21:14:53.908252-04:00.lighthouse.json) |
+| [August 20 at 9:01 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-20T09:01:48.367247-04:00.lighthouse.json) |
+| [August 19 at 9:15 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-19T21:15:45.327499-04:00.lighthouse.json) |
 | [August 19 at 9:19 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-19T09:19:10.324300-04:00.lighthouse.json) |
 | [August 18 at 9:19 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-18T21:19:28.068648-04:00.lighthouse.json) |
 | [August 18 at 9:01 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-18T09:00:46.322168-04:00.lighthouse.json) |
 | [August 17 at 9:14 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-17T21:14:13.379927-04:00.lighthouse.json) |
 | [August 17 at 9:07 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-17T09:06:49.751347-04:00.lighthouse.json) |
 | [August 16 at 9:20 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-16T21:20:27.338823-04:00.lighthouse.json) |
-| [August 16 at 1:17 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-16T13:17:40.135357-04:00.lighthouse.json) |
-| [August 16 at 2:15 AM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-16T02:14:51.941483-04:00.lighthouse.json) |
-| [August 15 at 3:32 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-15T15:31:52.510555-04:00.lighthouse.json) |
-| [August 14 at 11:10 PM](https://archive.org/download/cbcnews-2022/cbcnews-2022-08-14T23:10:05.537063-04:00.lighthouse.json) |
 
 
 

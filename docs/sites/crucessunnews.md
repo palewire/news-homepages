@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 242 screenshots with the Internet Archive.
+The archiving routine has saved 246 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-21T16:56:20.136185-06:00.jpg">
+  <img src="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-21T16:56:20.136185-06:00.jpg"
+     alt="Las Cruces Sun News at 2022-08-21 16:56:25-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-21T16:56:20.136185-06:00.jpg">August 21 at 4:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-21T04:59:53.437161-06:00.jpg">
+  <img src="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-21T04:59:53.437161-06:00.jpg"
+     alt="Las Cruces Sun News at 2022-08-21 05:00:00-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-21T04:59:53.437161-06:00.jpg">August 21 at 5:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-20T17:02:30.945498-06:00.jpg">
+  <img src="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-20T17:02:30.945498-06:00.jpg"
+     alt="Las Cruces Sun News at 2022-08-20 17:02:36-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-20T17:02:30.945498-06:00.jpg">August 20 at 5:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-20T04:55:18.474424-06:00.jpg">
+  <img src="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-20T04:55:18.474424-06:00.jpg"
+     alt="Las Cruces Sun News at 2022-08-20 04:55:25-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-20T04:55:18.474424-06:00.jpg">August 20 at 4:55 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-19T17:01:39.053481-06:00.jpg">
   <img src="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-19T17:01:39.053481-06:00.jpg"
      alt="Las Cruces Sun News at 2022-08-19 17:01:44-06:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-16T07:33:29.764386-06:00.jpg">August 16 at 7:33 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-15T19:20:42.413238-06:00.jpg">
-  <img src="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-15T19:20:42.413238-06:00.jpg"
-     alt="Las Cruces Sun News at 2022-08-15 19:20:46-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-15T19:20:42.413238-06:00.jpg">August 15 at 7:20 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-15T07:54:52.098027-06:00.jpg">
-  <img src="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-15T07:54:52.098027-06:00.jpg"
-     alt="Las Cruces Sun News at 2022-08-15 07:55:06-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-15T07:54:52.098027-06:00.jpg">August 15 at 7:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-14T19:06:14.229861-06:00.jpg">
-  <img src="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-14T19:06:14.229861-06:00.jpg"
-     alt="Las Cruces Sun News at 2022-08-14 19:06:21-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-14T19:06:14.229861-06:00.jpg">August 14 at 7:06 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-14T07:29:09.059012-06:00.jpg">
-  <img src="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-14T07:29:09.059012-06:00.jpg"
-     alt="Las Cruces Sun News at 2022-08-14 07:29:15-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-14T07:29:09.059012-06:00.jpg">August 14 at 7:29 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 234 hyperlink lists with the Internet Archive.
+The archiving routine has saved 238 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 4:56 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-21T16:56:20.136185-06:00.hyperlinks.json) |
+| [August 21 at 5:00 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-21T04:59:53.437161-06:00.hyperlinks.json) |
+| [August 20 at 5:02 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-20T17:02:30.945498-06:00.hyperlinks.json) |
+| [August 20 at 4:55 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-20T04:55:18.474424-06:00.hyperlinks.json) |
 | [August 19 at 5:01 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-19T17:01:39.053481-06:00.hyperlinks.json) |
 | [August 19 at 4:59 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-19T04:59:02.479487-06:00.hyperlinks.json) |
 | [August 18 at 5:01 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-18T17:01:06.187741-06:00.hyperlinks.json) |
 | [August 18 at 4:57 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-18T04:57:30.680446-06:00.hyperlinks.json) |
 | [August 17 at 5:01 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-17T17:01:16.000738-06:00.hyperlinks.json) |
 | [August 17 at 4:55 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-17T04:55:24.836009-06:00.hyperlinks.json) |
-| [August 16 at 5:03 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-16T17:03:05.088510-06:00.hyperlinks.json) |
-| [August 16 at 7:33 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-16T07:33:29.764386-06:00.hyperlinks.json) |
-| [August 15 at 7:20 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-15T19:20:42.413238-06:00.hyperlinks.json) |
-| [August 15 at 7:55 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-15T07:54:52.098027-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 231 accessibility trees with the Internet Archive.
+The archiving routine has saved 235 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 4:56 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-21T16:56:20.136185-06:00.accessibility.json) |
+| [August 21 at 5:00 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-21T04:59:53.437161-06:00.accessibility.json) |
+| [August 20 at 5:02 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-20T17:02:30.945498-06:00.accessibility.json) |
+| [August 20 at 4:55 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-20T04:55:18.474424-06:00.accessibility.json) |
 | [August 19 at 5:01 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-19T17:01:39.053481-06:00.accessibility.json) |
 | [August 19 at 4:59 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-19T04:59:02.479487-06:00.accessibility.json) |
 | [August 18 at 5:01 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-18T17:01:06.187741-06:00.accessibility.json) |
 | [August 18 at 4:57 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-18T04:57:30.680446-06:00.accessibility.json) |
 | [August 17 at 5:01 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-17T17:01:16.000738-06:00.accessibility.json) |
 | [August 17 at 4:55 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-17T04:55:24.836009-06:00.accessibility.json) |
-| [August 16 at 5:03 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-16T17:03:05.088510-06:00.accessibility.json) |
-| [August 16 at 7:33 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-16T07:33:29.764386-06:00.accessibility.json) |
-| [August 15 at 7:20 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-15T19:20:42.413238-06:00.accessibility.json) |
-| [August 15 at 7:55 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-15T07:54:52.098027-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 59 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 4:56 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-21T16:56:20.136185-06:00.lighthouse.json) |
+| [August 21 at 5:00 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-21T04:59:53.437161-06:00.lighthouse.json) |
+| [August 20 at 5:02 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-20T17:02:30.945498-06:00.lighthouse.json) |
+| [August 20 at 4:55 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-20T04:55:18.474424-06:00.lighthouse.json) |
 | [August 19 at 5:01 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-19T17:01:39.053481-06:00.lighthouse.json) |
 | [August 19 at 4:59 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-19T04:59:02.479487-06:00.lighthouse.json) |
 | [August 18 at 5:01 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-18T17:01:06.187741-06:00.lighthouse.json) |
 | [August 18 at 4:57 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-18T04:57:30.680446-06:00.lighthouse.json) |
 | [August 17 at 5:01 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-17T17:01:16.000738-06:00.lighthouse.json) |
 | [August 17 at 4:55 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-17T04:55:24.836009-06:00.lighthouse.json) |
-| [August 16 at 5:03 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-16T17:03:05.088510-06:00.lighthouse.json) |
-| [August 16 at 7:33 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-16T07:33:29.764386-06:00.lighthouse.json) |
-| [August 15 at 7:20 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-15T19:20:42.413238-06:00.lighthouse.json) |
-| [August 15 at 7:55 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-15T07:54:52.098027-06:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 60 screenshots with the Internet Archive.
+The archiving routine has saved 64 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-21T07:03:15.908164-07:00.jpg">
+  <img src="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-21T07:03:15.908164-07:00.jpg"
+     alt="Freethink at 2022-08-21 07:03:19-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-21T07:03:15.908164-07:00.jpg">August 21 at 7:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-20T19:19:29.177392-07:00.jpg">
+  <img src="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-20T19:19:29.177392-07:00.jpg"
+     alt="Freethink at 2022-08-20 19:19:30-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-20T19:19:29.177392-07:00.jpg">August 20 at 7:19 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-20T06:56:56.709229-07:00.jpg">
+  <img src="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-20T06:56:56.709229-07:00.jpg"
+     alt="Freethink at 2022-08-20 06:57:01-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-20T06:56:56.709229-07:00.jpg">August 20 at 6:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-19T19:33:13.588506-07:00.jpg">
+  <img src="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-19T19:33:13.588506-07:00.jpg"
+     alt="Freethink at 2022-08-19 19:33:15-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-19T19:33:13.588506-07:00.jpg">August 19 at 7:33 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-19T07:31:24.602974-07:00.jpg">
   <img src="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-19T07:31:24.602974-07:00.jpg"
      alt="Freethink at 2022-08-19 07:31:28-07:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-15T23:32:32.558670-07:00.jpg">August 15 at 11:32 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-15T12:50:47.841961-07:00.jpg">
-  <img src="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-15T12:50:47.841961-07:00.jpg"
-     alt="Freethink at 2022-08-15 12:50:52-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-15T12:50:47.841961-07:00.jpg">August 15 at 12:50 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-14T23:24:53.192548-07:00.jpg">
-  <img src="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-14T23:24:53.192548-07:00.jpg"
-     alt="Freethink at 2022-08-14 23:24:56-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-14T23:24:53.192548-07:00.jpg">August 14 at 11:24 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-14T10:18:52.557406-07:00.jpg">
-  <img src="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-14T10:18:52.557406-07:00.jpg"
-     alt="Freethink at 2022-08-14 10:18:55-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-14T10:18:52.557406-07:00.jpg">August 14 at 10:18 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-13T23:45:56.021295-07:00.jpg">
-  <img src="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-13T23:45:56.021295-07:00.jpg"
-     alt="Freethink at 2022-08-13 23:46:01-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-13T23:45:56.021295-07:00.jpg">August 13 at 11:46 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 61 hyperlink lists with the Internet Archive.
+The archiving routine has saved 65 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 7:03 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-21T07:03:15.908164-07:00.hyperlinks.json) |
+| [August 20 at 7:19 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-20T19:19:29.177392-07:00.hyperlinks.json) |
+| [August 20 at 6:57 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-20T06:56:56.709229-07:00.hyperlinks.json) |
+| [August 19 at 7:33 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-19T19:33:13.588506-07:00.hyperlinks.json) |
 | [August 19 at 7:31 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-19T07:31:24.602974-07:00.hyperlinks.json) |
 | [August 18 at 7:31 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-18T19:31:19.682866-07:00.hyperlinks.json) |
 | [August 18 at 7:07 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-18T07:07:38.852427-07:00.hyperlinks.json) |
 | [August 17 at 7:26 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-17T19:26:03.379777-07:00.hyperlinks.json) |
 | [August 17 at 8:02 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-17T08:02:06.962611-07:00.hyperlinks.json) |
 | [August 16 at 7:27 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-16T19:27:25.924300-07:00.hyperlinks.json) |
-| [August 16 at 11:29 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-16T11:29:13.152528-07:00.hyperlinks.json) |
-| [August 15 at 11:32 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-15T23:32:32.558670-07:00.hyperlinks.json) |
-| [August 15 at 12:50 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-15T12:50:47.841961-07:00.hyperlinks.json) |
-| [August 14 at 11:25 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-14T23:24:53.192548-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 61 accessibility trees with the Internet Archive.
+The archiving routine has saved 65 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 7:03 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-21T07:03:15.908164-07:00.accessibility.json) |
+| [August 20 at 7:19 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-20T19:19:29.177392-07:00.accessibility.json) |
+| [August 20 at 6:57 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-20T06:56:56.709229-07:00.accessibility.json) |
+| [August 19 at 7:33 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-19T19:33:13.588506-07:00.accessibility.json) |
 | [August 19 at 7:31 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-19T07:31:24.602974-07:00.accessibility.json) |
 | [August 18 at 7:31 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-18T19:31:19.682866-07:00.accessibility.json) |
 | [August 18 at 7:07 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-18T07:07:38.852427-07:00.accessibility.json) |
 | [August 17 at 7:26 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-17T19:26:03.379777-07:00.accessibility.json) |
 | [August 17 at 8:02 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-17T08:02:06.962611-07:00.accessibility.json) |
 | [August 16 at 7:27 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-16T19:27:25.924300-07:00.accessibility.json) |
-| [August 16 at 11:29 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-16T11:29:13.152528-07:00.accessibility.json) |
-| [August 15 at 11:32 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-15T23:32:32.558670-07:00.accessibility.json) |
-| [August 15 at 12:50 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-15T12:50:47.841961-07:00.accessibility.json) |
-| [August 14 at 11:24 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-14T23:24:53.192548-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 59 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 7:03 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-21T07:03:15.908164-07:00.lighthouse.json) |
+| [August 20 at 7:19 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-20T19:19:29.177392-07:00.lighthouse.json) |
+| [August 20 at 6:57 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-20T06:56:56.709229-07:00.lighthouse.json) |
+| [August 19 at 7:33 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-19T19:33:13.588506-07:00.lighthouse.json) |
 | [August 19 at 7:31 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-19T07:31:24.602974-07:00.lighthouse.json) |
 | [August 18 at 7:31 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-18T19:31:19.682866-07:00.lighthouse.json) |
 | [August 18 at 7:07 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-18T07:07:38.852427-07:00.lighthouse.json) |
 | [August 17 at 7:26 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-17T19:26:03.379777-07:00.lighthouse.json) |
 | [August 17 at 8:02 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-17T08:02:06.962611-07:00.lighthouse.json) |
 | [August 16 at 7:27 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-16T19:27:25.924300-07:00.lighthouse.json) |
-| [August 16 at 11:29 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-16T11:29:13.152528-07:00.lighthouse.json) |
-| [August 15 at 11:32 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-15T23:32:32.558670-07:00.lighthouse.json) |
-| [August 15 at 12:50 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-15T12:50:47.841961-07:00.lighthouse.json) |
-| [August 14 at 11:25 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-08-14T23:24:53.192548-07:00.lighthouse.json) |
 
 
 

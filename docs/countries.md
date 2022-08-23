@@ -32,7 +32,7 @@ The archiving routine is currently saving sites in 32 countries.
 |[Norway](https://palewi.re/docs/news-homepages/countries/no.html)|8|[🔗](https://palewi.re/docs/news-homepages/rss/countries/no.xml)|
 |[Qatar](https://palewi.re/docs/news-homepages/countries/qa.html)|1|[🔗](https://palewi.re/docs/news-homepages/rss/countries/qa.xml)|
 |[Russian Federation](https://palewi.re/docs/news-homepages/countries/ru.html)|8|[🔗](https://palewi.re/docs/news-homepages/rss/countries/ru.xml)|
-|[South Africa](https://palewi.re/docs/news-homepages/countries/za.html)|14|[🔗](https://palewi.re/docs/news-homepages/rss/countries/za.xml)|
+|[South Africa](https://palewi.re/docs/news-homepages/countries/za.html)|18|[🔗](https://palewi.re/docs/news-homepages/rss/countries/za.xml)|
 |[Spain](https://palewi.re/docs/news-homepages/countries/es.html)|13|[🔗](https://palewi.re/docs/news-homepages/rss/countries/es.xml)|
 |[Taiwan, Province of China](https://palewi.re/docs/news-homepages/countries/tw.html)|4|[🔗](https://palewi.re/docs/news-homepages/rss/countries/tw.xml)|
 |[Ukraine](https://palewi.re/docs/news-homepages/countries/ua.html)|6|[🔗](https://palewi.re/docs/news-homepages/rss/countries/ua.xml)|

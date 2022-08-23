@@ -234,13 +234,49 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 14 screenshots with the Internet Archive.
+The archiving routine has saved 18 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-22T02:52:51.082549+03:00.jpg">
+  <img src="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-22T02:52:51.082549+03:00.jpg"
+     alt="Israel Hayom at 2022-08-22 02:52:52+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-22T02:52:51.082549+03:00.jpg">August 22 at 2:52 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-21T14:58:37.570856+03:00.jpg">
+  <img src="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-21T14:58:37.570856+03:00.jpg"
+     alt="Israel Hayom at 2022-08-21 14:58:39+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-21T14:58:37.570856+03:00.jpg">August 21 at 2:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-21T02:52:51.916910+03:00.jpg">
+  <img src="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-21T02:52:51.916910+03:00.jpg"
+     alt="Israel Hayom at 2022-08-21 02:52:56+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-21T02:52:51.916910+03:00.jpg">August 21 at 2:52 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-20T14:54:31.970733+03:00.jpg">
+  <img src="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-20T14:54:31.970733+03:00.jpg"
+     alt="Israel Hayom at 2022-08-20 14:54:34+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-20T14:54:31.970733+03:00.jpg">August 20 at 2:54 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-20T02:52:06.299318+03:00.jpg">
@@ -314,47 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-17T03:04:25.316523+03:00.jpg">August 17 at 3:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-16T16:54:42.887418+03:00.jpg">
-  <img src="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-16T16:54:42.887418+03:00.jpg"
-     alt="Israel Hayom at 2022-08-16 16:54:43+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-16T16:54:42.887418+03:00.jpg">August 16 at 4:54 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-16T04:28:59.189854+03:00.jpg">
-  <img src="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-16T04:28:59.189854+03:00.jpg"
-     alt="Israel Hayom at 2022-08-16 04:29:00+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-16T04:28:59.189854+03:00.jpg">August 16 at 4:29 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-15T17:10:29.717430+03:00.jpg">
-  <img src="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-15T17:10:29.717430+03:00.jpg"
-     alt="Israel Hayom at 2022-08-15 17:10:31+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-15T17:10:29.717430+03:00.jpg">August 15 at 5:10 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-15T04:14:05.942224+03:00.jpg">
-  <img src="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-15T04:14:05.942224+03:00.jpg"
-     alt="Israel Hayom at 2022-08-15 04:14:07+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-15T04:14:05.942224+03:00.jpg">August 15 at 4:14 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 14 hyperlink lists with the Internet Archive.
+The archiving routine has saved 18 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,21 +362,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 22 at 2:52 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-22T02:52:51.082549+03:00.hyperlinks.json) |
+| [August 21 at 2:58 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-21T14:58:37.570856+03:00.hyperlinks.json) |
+| [August 21 at 2:52 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-21T02:52:51.916910+03:00.hyperlinks.json) |
+| [August 20 at 2:54 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-20T14:54:31.970733+03:00.hyperlinks.json) |
 | [August 20 at 2:52 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-20T02:52:06.299318+03:00.hyperlinks.json) |
 | [August 19 at 5:18 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-19T17:18:13.684434+03:00.hyperlinks.json) |
 | [August 19 at 2:58 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-19T14:58:47.253331+03:00.hyperlinks.json) |
 | [August 19 at 2:52 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-19T02:52:30.468638+03:00.hyperlinks.json) |
 | [August 18 at 2:57 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-18T14:57:14.670045+03:00.hyperlinks.json) |
 | [August 18 at 2:50 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-18T02:50:05.635782+03:00.hyperlinks.json) |
-| [August 17 at 2:48 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-17T14:48:35.907396+03:00.hyperlinks.json) |
-| [August 17 at 3:04 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-17T03:04:25.316523+03:00.hyperlinks.json) |
-| [August 16 at 4:54 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-16T16:54:42.887418+03:00.hyperlinks.json) |
-| [August 16 at 4:29 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-16T04:28:59.189854+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 14 accessibility trees with the Internet Archive.
+The archiving routine has saved 18 accessibility trees with the Internet Archive.
 
 
 
@@ -384,22 +384,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 22 at 2:52 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-22T02:52:51.082549+03:00.accessibility.json) |
+| [August 21 at 2:58 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-21T14:58:37.570856+03:00.accessibility.json) |
+| [August 21 at 2:52 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-21T02:52:51.916910+03:00.accessibility.json) |
+| [August 20 at 2:54 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-20T14:54:31.970733+03:00.accessibility.json) |
 | [August 20 at 2:52 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-20T02:52:06.299318+03:00.accessibility.json) |
 | [August 19 at 5:18 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-19T17:18:13.684434+03:00.accessibility.json) |
 | [August 19 at 2:58 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-19T14:58:47.253331+03:00.accessibility.json) |
 | [August 19 at 2:52 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-19T02:52:30.468638+03:00.accessibility.json) |
 | [August 18 at 2:57 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-18T14:57:14.670045+03:00.accessibility.json) |
 | [August 18 at 2:50 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-18T02:50:05.635782+03:00.accessibility.json) |
-| [August 17 at 2:48 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-17T14:48:35.907396+03:00.accessibility.json) |
-| [August 17 at 3:04 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-17T03:04:25.316523+03:00.accessibility.json) |
-| [August 16 at 4:54 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-16T16:54:42.887418+03:00.accessibility.json) |
-| [August 16 at 4:29 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-16T04:28:59.189854+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,16 +407,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 22 at 2:52 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-22T02:52:51.082549+03:00.lighthouse.json) |
+| [August 21 at 2:58 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-21T14:58:37.570856+03:00.lighthouse.json) |
+| [August 21 at 2:53 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-21T02:52:51.916910+03:00.lighthouse.json) |
+| [August 20 at 2:54 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-20T14:54:31.970733+03:00.lighthouse.json) |
 | [August 20 at 2:52 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-20T02:52:06.299318+03:00.lighthouse.json) |
 | [August 19 at 5:18 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-19T17:18:13.684434+03:00.lighthouse.json) |
 | [August 19 at 2:58 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-19T14:58:47.253331+03:00.lighthouse.json) |
 | [August 19 at 2:52 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-19T02:52:30.468638+03:00.lighthouse.json) |
 | [August 18 at 2:57 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-18T14:57:14.670045+03:00.lighthouse.json) |
 | [August 18 at 2:50 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-18T02:50:05.635782+03:00.lighthouse.json) |
-| [August 17 at 2:48 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-17T14:48:35.907396+03:00.lighthouse.json) |
-| [August 17 at 3:04 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-17T03:04:25.316523+03:00.lighthouse.json) |
-| [August 16 at 4:54 PM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-16T16:54:42.887418+03:00.lighthouse.json) |
-| [August 16 at 4:29 AM](https://archive.org/download/israelhayomeng-2022/israelhayomeng-2022-08-16T04:28:59.189854+03:00.lighthouse.json) |
 
 
 

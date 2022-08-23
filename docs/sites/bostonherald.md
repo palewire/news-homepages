@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 47 screenshots with the Internet Archive.
+The archiving routine has saved 51 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/bostonherald-2022/bostonherald-2022-08-21T18:55:08.781744-04:00.jpg">
+  <img src="https://archive.org/download/bostonherald-2022/bostonherald-2022-08-21T18:55:08.781744-04:00.jpg"
+     alt="Boston Herald at 2022-08-21 18:55:15-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bostonherald-2022/bostonherald-2022-08-21T18:55:08.781744-04:00.jpg">August 21 at 6:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bostonherald-2022/bostonherald-2022-08-21T06:58:30.762549-04:00.jpg">
+  <img src="https://archive.org/download/bostonherald-2022/bostonherald-2022-08-21T06:58:30.762549-04:00.jpg"
+     alt="Boston Herald at 2022-08-21 06:58:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bostonherald-2022/bostonherald-2022-08-21T06:58:30.762549-04:00.jpg">August 21 at 6:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bostonherald-2022/bostonherald-2022-08-20T19:00:23.263570-04:00.jpg">
+  <img src="https://archive.org/download/bostonherald-2022/bostonherald-2022-08-20T19:00:23.263570-04:00.jpg"
+     alt="Boston Herald at 2022-08-20 19:00:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bostonherald-2022/bostonherald-2022-08-20T19:00:23.263570-04:00.jpg">August 20 at 7:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bostonherald-2022/bostonherald-2022-08-20T06:53:47.386769-04:00.jpg">
+  <img src="https://archive.org/download/bostonherald-2022/bostonherald-2022-08-20T06:53:47.386769-04:00.jpg"
+     alt="Boston Herald at 2022-08-20 06:53:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bostonherald-2022/bostonherald-2022-08-20T06:53:47.386769-04:00.jpg">August 20 at 6:53 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/bostonherald-2022/bostonherald-2022-08-19T18:59:46.084071-04:00.jpg">
   <img src="https://archive.org/download/bostonherald-2022/bostonherald-2022-08-19T18:59:46.084071-04:00.jpg"
      alt="Boston Herald at 2022-08-19 18:59:48-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bostonherald-2022/bostonherald-2022-08-16T09:29:03.528456-04:00.jpg">August 16 at 9:29 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bostonherald-2022/bostonherald-2022-08-15T21:17:29.294024-04:00.jpg">
-  <img src="https://archive.org/download/bostonherald-2022/bostonherald-2022-08-15T21:17:29.294024-04:00.jpg"
-     alt="Boston Herald at 2022-08-15 21:17:31-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bostonherald-2022/bostonherald-2022-08-15T21:17:29.294024-04:00.jpg">August 15 at 9:17 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bostonherald-2022/bostonherald-2022-08-15T09:50:35.412904-04:00.jpg">
-  <img src="https://archive.org/download/bostonherald-2022/bostonherald-2022-08-15T09:50:35.412904-04:00.jpg"
-     alt="Boston Herald at 2022-08-15 09:50:37-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bostonherald-2022/bostonherald-2022-08-15T09:50:35.412904-04:00.jpg">August 15 at 9:50 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bostonherald-2022/bostonherald-2022-08-14T21:02:22.350308-04:00.jpg">
-  <img src="https://archive.org/download/bostonherald-2022/bostonherald-2022-08-14T21:02:22.350308-04:00.jpg"
-     alt="Boston Herald at 2022-08-14 21:02:26-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bostonherald-2022/bostonherald-2022-08-14T21:02:22.350308-04:00.jpg">August 14 at 9:02 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bostonherald-2022/bostonherald-2022-08-14T09:25:25.238793-04:00.jpg">
-  <img src="https://archive.org/download/bostonherald-2022/bostonherald-2022-08-14T09:25:25.238793-04:00.jpg"
-     alt="Boston Herald at 2022-08-14 09:25:27-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bostonherald-2022/bostonherald-2022-08-14T09:25:25.238793-04:00.jpg">August 14 at 9:25 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 47 hyperlink lists with the Internet Archive.
+The archiving routine has saved 51 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 6:55 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-21T18:55:08.781744-04:00.hyperlinks.json) |
+| [August 21 at 6:58 AM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-21T06:58:30.762549-04:00.hyperlinks.json) |
+| [August 20 at 7:00 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-20T19:00:23.263570-04:00.hyperlinks.json) |
+| [August 20 at 6:53 AM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-20T06:53:47.386769-04:00.hyperlinks.json) |
 | [August 19 at 6:59 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-19T18:59:46.084071-04:00.hyperlinks.json) |
 | [August 19 at 6:57 AM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-19T06:57:30.235261-04:00.hyperlinks.json) |
 | [August 18 at 6:58 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-18T18:58:17.781045-04:00.hyperlinks.json) |
 | [August 18 at 6:55 AM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-18T06:55:42.368306-04:00.hyperlinks.json) |
 | [August 17 at 6:59 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-17T18:59:03.533840-04:00.hyperlinks.json) |
 | [August 17 at 6:53 AM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-17T06:53:30.107642-04:00.hyperlinks.json) |
-| [August 16 at 7:01 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-16T19:01:06.452816-04:00.hyperlinks.json) |
-| [August 16 at 9:29 AM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-16T09:29:03.528456-04:00.hyperlinks.json) |
-| [August 15 at 9:17 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-15T21:17:29.294024-04:00.hyperlinks.json) |
-| [August 15 at 9:50 AM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-15T09:50:35.412904-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 47 accessibility trees with the Internet Archive.
+The archiving routine has saved 51 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 6:55 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-21T18:55:08.781744-04:00.accessibility.json) |
+| [August 21 at 6:58 AM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-21T06:58:30.762549-04:00.accessibility.json) |
+| [August 20 at 7:00 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-20T19:00:23.263570-04:00.accessibility.json) |
+| [August 20 at 6:53 AM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-20T06:53:47.386769-04:00.accessibility.json) |
 | [August 19 at 6:59 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-19T18:59:46.084071-04:00.accessibility.json) |
 | [August 19 at 6:57 AM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-19T06:57:30.235261-04:00.accessibility.json) |
 | [August 18 at 6:58 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-18T18:58:17.781045-04:00.accessibility.json) |
 | [August 18 at 6:55 AM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-18T06:55:42.368306-04:00.accessibility.json) |
 | [August 17 at 6:59 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-17T18:59:03.533840-04:00.accessibility.json) |
 | [August 17 at 6:53 AM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-17T06:53:30.107642-04:00.accessibility.json) |
-| [August 16 at 7:01 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-16T19:01:06.452816-04:00.accessibility.json) |
-| [August 16 at 9:29 AM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-16T09:29:03.528456-04:00.accessibility.json) |
-| [August 15 at 9:17 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-15T21:17:29.294024-04:00.accessibility.json) |
-| [August 15 at 9:50 AM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-15T09:50:35.412904-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 6:55 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-21T18:55:08.781744-04:00.lighthouse.json) |
+| [August 21 at 6:58 AM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-21T06:58:30.762549-04:00.lighthouse.json) |
+| [August 20 at 7:00 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-20T19:00:23.263570-04:00.lighthouse.json) |
+| [August 20 at 6:53 AM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-20T06:53:47.386769-04:00.lighthouse.json) |
 | [August 19 at 6:59 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-19T18:59:46.084071-04:00.lighthouse.json) |
 | [August 19 at 6:57 AM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-19T06:57:30.235261-04:00.lighthouse.json) |
 | [August 18 at 6:58 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-18T18:58:17.781045-04:00.lighthouse.json) |
 | [August 18 at 6:55 AM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-18T06:55:42.368306-04:00.lighthouse.json) |
 | [August 17 at 6:59 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-17T18:59:03.533840-04:00.lighthouse.json) |
 | [August 17 at 6:53 AM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-17T06:53:30.107642-04:00.lighthouse.json) |
-| [August 16 at 7:01 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-16T19:01:06.452816-04:00.lighthouse.json) |
-| [August 16 at 9:29 AM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-16T09:29:03.528456-04:00.lighthouse.json) |
-| [August 15 at 9:17 PM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-15T21:17:29.294024-04:00.lighthouse.json) |
-| [August 15 at 9:50 AM](https://archive.org/download/bostonherald-2022/bostonherald-2022-08-15T09:50:35.412904-04:00.lighthouse.json) |
 
 
 

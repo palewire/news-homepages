@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 84 screenshots with the Internet Archive.
+The archiving routine has saved 88 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/100reporters-2022/100reporters-2022-08-21T18:52:07.029272-04:00.jpg">
+  <img src="https://archive.org/download/100reporters-2022/100reporters-2022-08-21T18:52:07.029272-04:00.jpg"
+     alt="100Reporters at 2022-08-21 18:52:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-08-21T18:52:07.029272-04:00.jpg">August 21 at 6:52 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/100reporters-2022/100reporters-2022-08-21T06:56:40.152351-04:00.jpg">
+  <img src="https://archive.org/download/100reporters-2022/100reporters-2022-08-21T06:56:40.152351-04:00.jpg"
+     alt="100Reporters at 2022-08-21 06:56:45-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-08-21T06:56:40.152351-04:00.jpg">August 21 at 6:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/100reporters-2022/100reporters-2022-08-20T18:59:01.104232-04:00.jpg">
+  <img src="https://archive.org/download/100reporters-2022/100reporters-2022-08-20T18:59:01.104232-04:00.jpg"
+     alt="100Reporters at 2022-08-20 18:59:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-08-20T18:59:01.104232-04:00.jpg">August 20 at 6:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/100reporters-2022/100reporters-2022-08-20T06:52:03.914757-04:00.jpg">
+  <img src="https://archive.org/download/100reporters-2022/100reporters-2022-08-20T06:52:03.914757-04:00.jpg"
+     alt="100Reporters at 2022-08-20 06:52:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-08-20T06:52:03.914757-04:00.jpg">August 20 at 6:52 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/100reporters-2022/100reporters-2022-08-19T18:57:07.751743-04:00.jpg">
   <img src="https://archive.org/download/100reporters-2022/100reporters-2022-08-19T18:57:07.751743-04:00.jpg"
      alt="100Reporters at 2022-08-19 18:57:14-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-08-16T09:22:40.561929-04:00.jpg">August 16 at 9:22 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/100reporters-2022/100reporters-2022-08-15T21:10:21.605076-04:00.jpg">
-  <img src="https://archive.org/download/100reporters-2022/100reporters-2022-08-15T21:10:21.605076-04:00.jpg"
-     alt="100Reporters at 2022-08-15 21:10:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-08-15T21:10:21.605076-04:00.jpg">August 15 at 9:10 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/100reporters-2022/100reporters-2022-08-15T09:44:09.889977-04:00.jpg">
-  <img src="https://archive.org/download/100reporters-2022/100reporters-2022-08-15T09:44:09.889977-04:00.jpg"
-     alt="100Reporters at 2022-08-15 09:44:15-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-08-15T09:44:09.889977-04:00.jpg">August 15 at 9:44 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/100reporters-2022/100reporters-2022-08-14T20:55:30.707548-04:00.jpg">
-  <img src="https://archive.org/download/100reporters-2022/100reporters-2022-08-14T20:55:30.707548-04:00.jpg"
-     alt="100Reporters at 2022-08-14 20:55:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-08-14T20:55:30.707548-04:00.jpg">August 14 at 8:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/100reporters-2022/100reporters-2022-08-14T09:20:17.940796-04:00.jpg">
-  <img src="https://archive.org/download/100reporters-2022/100reporters-2022-08-14T09:20:17.940796-04:00.jpg"
-     alt="100Reporters at 2022-08-14 09:20:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/100reporters-2022/100reporters-2022-08-14T09:20:17.940796-04:00.jpg">August 14 at 9:20 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 84 hyperlink lists with the Internet Archive.
+The archiving routine has saved 88 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 6:52 PM](https://archive.org/download/100reporters-2022/100reporters-2022-08-21T18:52:07.029272-04:00.hyperlinks.json) |
+| [August 21 at 6:56 AM](https://archive.org/download/100reporters-2022/100reporters-2022-08-21T06:56:40.152351-04:00.hyperlinks.json) |
+| [August 20 at 6:59 PM](https://archive.org/download/100reporters-2022/100reporters-2022-08-20T18:59:01.104232-04:00.hyperlinks.json) |
+| [August 20 at 6:52 AM](https://archive.org/download/100reporters-2022/100reporters-2022-08-20T06:52:03.914757-04:00.hyperlinks.json) |
 | [August 19 at 6:57 PM](https://archive.org/download/100reporters-2022/100reporters-2022-08-19T18:57:07.751743-04:00.hyperlinks.json) |
 | [August 19 at 6:55 AM](https://archive.org/download/100reporters-2022/100reporters-2022-08-19T06:54:59.625575-04:00.hyperlinks.json) |
 | [August 18 at 6:56 PM](https://archive.org/download/100reporters-2022/100reporters-2022-08-18T18:56:20.795549-04:00.hyperlinks.json) |
 | [August 18 at 6:54 AM](https://archive.org/download/100reporters-2022/100reporters-2022-08-18T06:54:32.628925-04:00.hyperlinks.json) |
 | [August 17 at 6:56 PM](https://archive.org/download/100reporters-2022/100reporters-2022-08-17T18:56:38.866646-04:00.hyperlinks.json) |
 | [August 17 at 6:52 AM](https://archive.org/download/100reporters-2022/100reporters-2022-08-17T06:51:56.905597-04:00.hyperlinks.json) |
-| [August 16 at 6:58 PM](https://archive.org/download/100reporters-2022/100reporters-2022-08-16T18:58:35.005208-04:00.hyperlinks.json) |
-| [August 16 at 9:22 AM](https://archive.org/download/100reporters-2022/100reporters-2022-08-16T09:22:40.561929-04:00.hyperlinks.json) |
-| [August 15 at 9:10 PM](https://archive.org/download/100reporters-2022/100reporters-2022-08-15T21:10:21.605076-04:00.hyperlinks.json) |
-| [August 15 at 9:44 AM](https://archive.org/download/100reporters-2022/100reporters-2022-08-15T09:44:09.889977-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 84 accessibility trees with the Internet Archive.
+The archiving routine has saved 88 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 6:52 PM](https://archive.org/download/100reporters-2022/100reporters-2022-08-21T18:52:07.029272-04:00.accessibility.json) |
+| [August 21 at 6:56 AM](https://archive.org/download/100reporters-2022/100reporters-2022-08-21T06:56:40.152351-04:00.accessibility.json) |
+| [August 20 at 6:59 PM](https://archive.org/download/100reporters-2022/100reporters-2022-08-20T18:59:01.104232-04:00.accessibility.json) |
+| [August 20 at 6:52 AM](https://archive.org/download/100reporters-2022/100reporters-2022-08-20T06:52:03.914757-04:00.accessibility.json) |
 | [August 19 at 6:57 PM](https://archive.org/download/100reporters-2022/100reporters-2022-08-19T18:57:07.751743-04:00.accessibility.json) |
 | [August 19 at 6:55 AM](https://archive.org/download/100reporters-2022/100reporters-2022-08-19T06:54:59.625575-04:00.accessibility.json) |
 | [August 18 at 6:56 PM](https://archive.org/download/100reporters-2022/100reporters-2022-08-18T18:56:20.795549-04:00.accessibility.json) |
 | [August 18 at 6:54 AM](https://archive.org/download/100reporters-2022/100reporters-2022-08-18T06:54:32.628925-04:00.accessibility.json) |
 | [August 17 at 6:56 PM](https://archive.org/download/100reporters-2022/100reporters-2022-08-17T18:56:38.866646-04:00.accessibility.json) |
 | [August 17 at 6:52 AM](https://archive.org/download/100reporters-2022/100reporters-2022-08-17T06:51:56.905597-04:00.accessibility.json) |
-| [August 16 at 6:58 PM](https://archive.org/download/100reporters-2022/100reporters-2022-08-16T18:58:35.005208-04:00.accessibility.json) |
-| [August 16 at 9:22 AM](https://archive.org/download/100reporters-2022/100reporters-2022-08-16T09:22:40.561929-04:00.accessibility.json) |
-| [August 15 at 9:10 PM](https://archive.org/download/100reporters-2022/100reporters-2022-08-15T21:10:21.605076-04:00.accessibility.json) |
-| [August 15 at 9:44 AM](https://archive.org/download/100reporters-2022/100reporters-2022-08-15T09:44:09.889977-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 59 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 6:52 PM](https://archive.org/download/100reporters-2022/100reporters-2022-08-21T18:52:07.029272-04:00.lighthouse.json) |
+| [August 21 at 6:56 AM](https://archive.org/download/100reporters-2022/100reporters-2022-08-21T06:56:40.152351-04:00.lighthouse.json) |
+| [August 20 at 6:59 PM](https://archive.org/download/100reporters-2022/100reporters-2022-08-20T18:59:01.104232-04:00.lighthouse.json) |
+| [August 20 at 6:52 AM](https://archive.org/download/100reporters-2022/100reporters-2022-08-20T06:52:03.914757-04:00.lighthouse.json) |
 | [August 19 at 6:57 PM](https://archive.org/download/100reporters-2022/100reporters-2022-08-19T18:57:07.751743-04:00.lighthouse.json) |
 | [August 19 at 6:55 AM](https://archive.org/download/100reporters-2022/100reporters-2022-08-19T06:54:59.625575-04:00.lighthouse.json) |
 | [August 18 at 6:56 PM](https://archive.org/download/100reporters-2022/100reporters-2022-08-18T18:56:20.795549-04:00.lighthouse.json) |
 | [August 18 at 6:54 AM](https://archive.org/download/100reporters-2022/100reporters-2022-08-18T06:54:32.628925-04:00.lighthouse.json) |
 | [August 17 at 6:56 PM](https://archive.org/download/100reporters-2022/100reporters-2022-08-17T18:56:38.866646-04:00.lighthouse.json) |
 | [August 17 at 6:52 AM](https://archive.org/download/100reporters-2022/100reporters-2022-08-17T06:51:56.905597-04:00.lighthouse.json) |
-| [August 16 at 6:58 PM](https://archive.org/download/100reporters-2022/100reporters-2022-08-16T18:58:35.005208-04:00.lighthouse.json) |
-| [August 16 at 9:22 AM](https://archive.org/download/100reporters-2022/100reporters-2022-08-16T09:22:40.561929-04:00.lighthouse.json) |
-| [August 15 at 9:10 PM](https://archive.org/download/100reporters-2022/100reporters-2022-08-15T21:10:21.605076-04:00.lighthouse.json) |
-| [August 15 at 9:44 AM](https://archive.org/download/100reporters-2022/100reporters-2022-08-15T09:44:09.889977-04:00.lighthouse.json) |
 
 
 

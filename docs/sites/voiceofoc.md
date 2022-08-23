@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 122 screenshots with the Internet Archive.
+The archiving routine has saved 128 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,60 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-21T11:30:17.082953-07:00.jpg">
+  <img src="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-21T11:30:17.082953-07:00.jpg"
+     alt="Voice of OC at 2022-08-21 11:30:24-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-21T11:30:17.082953-07:00.jpg">August 21 at 11:30 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-21T08:04:08.609690-07:00.jpg">
+  <img src="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-21T08:04:08.609690-07:00.jpg"
+     alt="Voice of OC at 2022-08-21 08:04:13-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-21T08:04:08.609690-07:00.jpg">August 21 at 8:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-20T20:39:39.225945-07:00.jpg">
+  <img src="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-20T20:39:39.225945-07:00.jpg"
+     alt="Voice of OC at 2022-08-20 20:39:40-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-20T20:39:39.225945-07:00.jpg">August 20 at 8:39 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-20T11:29:24.813032-07:00.jpg">
+  <img src="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-20T11:29:24.813032-07:00.jpg"
+     alt="Voice of OC at 2022-08-20 11:29:41-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-20T11:29:24.813032-07:00.jpg">August 20 at 11:29 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-20T08:00:01.970127-07:00.jpg">
+  <img src="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-20T08:00:01.970127-07:00.jpg"
+     alt="Voice of OC at 2022-08-20 08:00:04-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-20T08:00:01.970127-07:00.jpg">August 20 at 8:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-19T20:41:25.742467-07:00.jpg">
+  <img src="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-19T20:41:25.742467-07:00.jpg"
+     alt="Voice of OC at 2022-08-19 20:41:27-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-19T20:41:25.742467-07:00.jpg">August 19 at 8:41 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-19T11:37:09.698627-07:00.jpg">
   <img src="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-19T11:37:09.698627-07:00.jpg"
      alt="Voice of OC at 2022-08-19 11:37:11-07:00 local time"
@@ -379,65 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-18T08:31:22.210598-07:00.jpg">August 18 at 8:31 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-17T20:47:49.406146-07:00.jpg">
-  <img src="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-17T20:47:49.406146-07:00.jpg"
-     alt="Voice of OC at 2022-08-17 20:47:53-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-17T20:47:49.406146-07:00.jpg">August 17 at 8:47 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-17T11:37:40.327255-07:00.jpg">
-  <img src="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-17T11:37:40.327255-07:00.jpg"
-     alt="Voice of OC at 2022-08-17 11:37:42-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-17T11:37:40.327255-07:00.jpg">August 17 at 11:37 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-17T08:14:43.241923-07:00.jpg">
-  <img src="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-17T08:14:43.241923-07:00.jpg"
-     alt="Voice of OC at 2022-08-17 08:14:47-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-17T08:14:43.241923-07:00.jpg">August 17 at 8:14 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-16T20:46:50.430516-07:00.jpg">
-  <img src="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-16T20:46:50.430516-07:00.jpg"
-     alt="Voice of OC at 2022-08-16 20:46:53-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-16T20:46:50.430516-07:00.jpg">August 16 at 8:46 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-16T11:48:33.712906-07:00.jpg">
-  <img src="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-16T11:48:33.712906-07:00.jpg"
-     alt="Voice of OC at 2022-08-16 11:48:38-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-16T11:48:33.712906-07:00.jpg">August 16 at 11:48 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-15T23:56:53.538777-07:00.jpg">
-  <img src="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-15T23:56:53.538777-07:00.jpg"
-     alt="Voice of OC at 2022-08-15 23:56:58-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-15T23:56:53.538777-07:00.jpg">August 15 at 11:56 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 123 hyperlink lists with the Internet Archive.
+The archiving routine has saved 129 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 11:30 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-21T11:30:17.082953-07:00.hyperlinks.json) |
+| [August 21 at 8:04 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-21T08:04:08.609690-07:00.hyperlinks.json) |
+| [August 20 at 8:39 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-20T20:39:39.225945-07:00.hyperlinks.json) |
+| [August 20 at 11:29 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-20T11:29:24.813032-07:00.hyperlinks.json) |
+| [August 20 at 8:00 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-20T08:00:01.970127-07:00.hyperlinks.json) |
+| [August 19 at 8:41 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-19T20:41:25.742467-07:00.hyperlinks.json) |
 | [August 19 at 11:37 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-19T11:37:09.698627-07:00.hyperlinks.json) |
 | [August 19 at 8:35 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-19T08:35:02.520234-07:00.hyperlinks.json) |
 | [August 19 at 5:15 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-19T05:15:42.503533-07:00.hyperlinks.json) |
 | [August 18 at 8:45 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-18T20:45:40.630501-07:00.hyperlinks.json) |
-| [August 18 at 11:28 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-18T11:28:15.845277-07:00.hyperlinks.json) |
-| [August 18 at 8:31 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-18T08:31:22.210598-07:00.hyperlinks.json) |
-| [August 17 at 8:47 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-17T20:47:49.406146-07:00.hyperlinks.json) |
-| [August 17 at 11:37 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-17T11:37:40.327255-07:00.hyperlinks.json) |
-| [August 17 at 8:14 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-17T08:14:43.241923-07:00.hyperlinks.json) |
-| [August 16 at 8:46 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-16T20:46:50.430516-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 121 accessibility trees with the Internet Archive.
+The archiving routine has saved 127 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 11:30 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-21T11:30:17.082953-07:00.accessibility.json) |
+| [August 21 at 8:04 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-21T08:04:08.609690-07:00.accessibility.json) |
+| [August 20 at 8:39 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-20T20:39:39.225945-07:00.accessibility.json) |
+| [August 20 at 11:29 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-20T11:29:24.813032-07:00.accessibility.json) |
+| [August 20 at 8:00 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-20T08:00:01.970127-07:00.accessibility.json) |
+| [August 19 at 8:41 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-19T20:41:25.742467-07:00.accessibility.json) |
 | [August 19 at 11:37 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-19T11:37:09.698627-07:00.accessibility.json) |
 | [August 19 at 8:35 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-19T08:35:02.520234-07:00.accessibility.json) |
 | [August 19 at 5:15 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-19T05:15:42.503533-07:00.accessibility.json) |
 | [August 18 at 8:45 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-18T20:45:40.630501-07:00.accessibility.json) |
-| [August 18 at 11:28 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-18T11:28:15.845277-07:00.accessibility.json) |
-| [August 18 at 8:31 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-18T08:31:22.210598-07:00.accessibility.json) |
-| [August 17 at 8:47 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-17T20:47:49.406146-07:00.accessibility.json) |
-| [August 17 at 11:37 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-17T11:37:40.327255-07:00.accessibility.json) |
-| [August 17 at 8:14 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-17T08:14:43.241923-07:00.accessibility.json) |
-| [August 16 at 8:46 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-16T20:46:50.430516-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 79 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 85 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 11:30 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-21T11:30:17.082953-07:00.lighthouse.json) |
+| [August 21 at 8:04 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-21T08:04:08.609690-07:00.lighthouse.json) |
+| [August 20 at 8:39 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-20T20:39:39.225945-07:00.lighthouse.json) |
+| [August 20 at 11:29 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-20T11:29:24.813032-07:00.lighthouse.json) |
+| [August 20 at 8:00 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-20T08:00:01.970127-07:00.lighthouse.json) |
+| [August 19 at 8:41 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-19T20:41:25.742467-07:00.lighthouse.json) |
 | [August 19 at 11:37 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-19T11:37:09.698627-07:00.lighthouse.json) |
 | [August 19 at 8:35 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-19T08:35:02.520234-07:00.lighthouse.json) |
 | [August 19 at 5:15 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-19T05:15:42.503533-07:00.lighthouse.json) |
 | [August 18 at 8:45 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-18T20:45:40.630501-07:00.lighthouse.json) |
-| [August 18 at 11:28 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-18T11:28:15.845277-07:00.lighthouse.json) |
-| [August 18 at 8:31 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-18T08:31:22.210598-07:00.lighthouse.json) |
-| [August 17 at 8:48 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-17T20:47:49.406146-07:00.lighthouse.json) |
-| [August 17 at 11:37 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-17T11:37:40.327255-07:00.lighthouse.json) |
-| [August 17 at 8:14 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-17T08:14:43.241923-07:00.lighthouse.json) |
-| [August 16 at 8:46 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-16T20:46:50.430516-07:00.lighthouse.json) |
 
 
 

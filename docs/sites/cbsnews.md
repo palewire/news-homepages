@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 563 screenshots with the Internet Archive.
+The archiving routine has saved 571 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,78 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-21T18:55:07.000466-04:00.jpg">
+  <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-21T18:55:07.000466-04:00.jpg"
+     alt="CBS News at 2022-08-21 18:55:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-21T18:55:07.000466-04:00.jpg">August 21 at 6:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-21T17:15:39.890105-04:00.jpg">
+  <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-21T17:15:39.890105-04:00.jpg"
+     alt="CBS News at 2022-08-21 17:15:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-21T17:15:39.890105-04:00.jpg">August 21 at 5:15 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-21T08:59:44.655536-04:00.jpg">
+  <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-21T08:59:44.655536-04:00.jpg"
+     alt="CBS News at 2022-08-21 08:59:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-21T08:59:44.655536-04:00.jpg">August 21 at 8:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-21T06:58:04.790311-04:00.jpg">
+  <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-21T06:58:04.790311-04:00.jpg"
+     alt="CBS News at 2022-08-21 06:58:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-21T06:58:04.790311-04:00.jpg">August 21 at 6:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-20T19:01:08.251093-04:00.jpg">
+  <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-20T19:01:08.251093-04:00.jpg"
+     alt="CBS News at 2022-08-20 19:01:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-20T19:01:08.251093-04:00.jpg">August 20 at 7:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-20T17:16:32.887198-04:00.jpg">
+  <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-20T17:16:32.887198-04:00.jpg"
+     alt="CBS News at 2022-08-20 17:17:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-20T17:16:32.887198-04:00.jpg">August 20 at 5:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-20T08:57:28.626947-04:00.jpg">
+  <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-20T08:57:28.626947-04:00.jpg"
+     alt="CBS News at 2022-08-20 08:57:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-20T08:57:28.626947-04:00.jpg">August 20 at 8:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-20T06:53:47.100593-04:00.jpg">
+  <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-20T06:53:47.100593-04:00.jpg"
+     alt="CBS News at 2022-08-20 06:53:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-20T06:53:47.100593-04:00.jpg">August 20 at 6:53 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-19T19:00:26.478304-04:00.jpg">
   <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-19T19:00:26.478304-04:00.jpg"
      alt="CBS News at 2022-08-19 19:00:53-04:00 local time"
@@ -361,83 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-18T18:59:34.794936-04:00.jpg">August 18 at 6:59 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-18T17:16:02.755925-04:00.jpg">
-  <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-18T17:16:02.755925-04:00.jpg"
-     alt="CBS News at 2022-08-18 17:16:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-18T17:16:02.755925-04:00.jpg">August 18 at 5:16 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-18T08:55:36.042515-04:00.jpg">
-  <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-18T08:55:36.042515-04:00.jpg"
-     alt="CBS News at 2022-08-18 08:55:37-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-18T08:55:36.042515-04:00.jpg">August 18 at 8:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-18T06:56:09.267493-04:00.jpg">
-  <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-18T06:56:09.267493-04:00.jpg"
-     alt="CBS News at 2022-08-18 06:56:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-18T06:56:09.267493-04:00.jpg">August 18 at 6:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-17T18:58:15.824719-04:00.jpg">
-  <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-17T18:58:15.824719-04:00.jpg"
-     alt="CBS News at 2022-08-17 18:58:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-17T18:58:15.824719-04:00.jpg">August 17 at 6:58 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-17T17:16:15.941633-04:00.jpg">
-  <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-17T17:16:15.941633-04:00.jpg"
-     alt="CBS News at 2022-08-17 17:16:29-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-17T17:16:15.941633-04:00.jpg">August 17 at 5:16 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-17T06:54:17.305156-04:00.jpg">
-  <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-17T06:54:17.305156-04:00.jpg"
-     alt="CBS News at 2022-08-17 06:54:49-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-17T06:54:17.305156-04:00.jpg">August 17 at 6:54 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-16T19:01:00.342637-04:00.jpg">
-  <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-16T19:01:00.342637-04:00.jpg"
-     alt="CBS News at 2022-08-16 19:01:10-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-16T19:01:00.342637-04:00.jpg">August 16 at 7:01 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-16T09:30:24.136158-04:00.jpg">
-  <img src="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-16T09:30:24.136158-04:00.jpg"
-     alt="CBS News at 2022-08-16 09:30:26-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cbsnews-2022/cbsnews-2022-08-16T09:30:24.136158-04:00.jpg">August 16 at 9:30 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 539 hyperlink lists with the Internet Archive.
+The archiving routine has saved 547 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 6:55 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-21T18:55:07.000466-04:00.hyperlinks.json) |
+| [August 21 at 5:15 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-21T17:15:39.890105-04:00.hyperlinks.json) |
+| [August 21 at 9:00 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-21T08:59:44.655536-04:00.hyperlinks.json) |
+| [August 21 at 6:58 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-21T06:58:04.790311-04:00.hyperlinks.json) |
+| [August 20 at 7:01 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-20T19:01:08.251093-04:00.hyperlinks.json) |
+| [August 20 at 5:17 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-20T17:16:32.887198-04:00.hyperlinks.json) |
+| [August 20 at 8:57 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-20T08:57:28.626947-04:00.hyperlinks.json) |
+| [August 20 at 6:54 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-20T06:53:47.100593-04:00.hyperlinks.json) |
 | [August 19 at 7:00 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-19T19:00:26.478304-04:00.hyperlinks.json) |
 | [August 19 at 5:16 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-19T17:15:39.420916-04:00.hyperlinks.json) |
-| [August 19 at 6:58 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-19T06:57:57.295580-04:00.hyperlinks.json) |
-| [August 18 at 6:59 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-18T18:59:34.794936-04:00.hyperlinks.json) |
-| [August 18 at 5:16 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-18T17:16:02.755925-04:00.hyperlinks.json) |
-| [August 18 at 8:55 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-18T08:55:36.042515-04:00.hyperlinks.json) |
-| [August 18 at 6:56 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-18T06:56:09.267493-04:00.hyperlinks.json) |
-| [August 17 at 6:58 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-17T18:58:15.824719-04:00.hyperlinks.json) |
-| [August 17 at 5:16 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-17T17:16:15.941633-04:00.hyperlinks.json) |
-| [August 17 at 6:54 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-17T06:54:17.305156-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 541 accessibility trees with the Internet Archive.
+The archiving routine has saved 549 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 6:55 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-21T18:55:07.000466-04:00.accessibility.json) |
+| [August 21 at 5:15 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-21T17:15:39.890105-04:00.accessibility.json) |
+| [August 21 at 9:00 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-21T08:59:44.655536-04:00.accessibility.json) |
+| [August 21 at 6:58 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-21T06:58:04.790311-04:00.accessibility.json) |
+| [August 20 at 7:01 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-20T19:01:08.251093-04:00.accessibility.json) |
+| [August 20 at 5:17 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-20T17:16:32.887198-04:00.accessibility.json) |
+| [August 20 at 8:57 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-20T08:57:28.626947-04:00.accessibility.json) |
+| [August 20 at 6:53 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-20T06:53:47.100593-04:00.accessibility.json) |
 | [August 19 at 7:00 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-19T19:00:26.478304-04:00.accessibility.json) |
 | [August 19 at 5:16 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-19T17:15:39.420916-04:00.accessibility.json) |
-| [August 19 at 6:58 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-19T06:57:57.295580-04:00.accessibility.json) |
-| [August 18 at 6:59 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-18T18:59:34.794936-04:00.accessibility.json) |
-| [August 18 at 5:16 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-18T17:16:02.755925-04:00.accessibility.json) |
-| [August 18 at 8:55 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-18T08:55:36.042515-04:00.accessibility.json) |
-| [August 18 at 6:56 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-18T06:56:09.267493-04:00.accessibility.json) |
-| [August 17 at 6:58 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-17T18:58:15.824719-04:00.accessibility.json) |
-| [August 17 at 5:16 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-17T17:16:15.941633-04:00.accessibility.json) |
-| [August 17 at 6:54 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-17T06:54:17.305156-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 104 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 112 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 6:55 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-21T18:55:07.000466-04:00.lighthouse.json) |
+| [August 21 at 5:15 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-21T17:15:39.890105-04:00.lighthouse.json) |
+| [August 21 at 9:00 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-21T08:59:44.655536-04:00.lighthouse.json) |
+| [August 21 at 6:58 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-21T06:58:04.790311-04:00.lighthouse.json) |
+| [August 20 at 7:01 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-20T19:01:08.251093-04:00.lighthouse.json) |
+| [August 20 at 5:17 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-20T17:16:32.887198-04:00.lighthouse.json) |
+| [August 20 at 8:57 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-20T08:57:28.626947-04:00.lighthouse.json) |
+| [August 20 at 6:54 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-20T06:53:47.100593-04:00.lighthouse.json) |
 | [August 19 at 7:01 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-19T19:00:26.478304-04:00.lighthouse.json) |
 | [August 19 at 5:16 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-19T17:15:39.420916-04:00.lighthouse.json) |
-| [August 19 at 6:58 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-19T06:57:57.295580-04:00.lighthouse.json) |
-| [August 18 at 6:59 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-18T18:59:34.794936-04:00.lighthouse.json) |
-| [August 18 at 5:16 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-18T17:16:02.755925-04:00.lighthouse.json) |
-| [August 18 at 8:55 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-18T08:55:36.042515-04:00.lighthouse.json) |
-| [August 18 at 6:56 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-18T06:56:09.267493-04:00.lighthouse.json) |
-| [August 17 at 6:58 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-17T18:58:15.824719-04:00.lighthouse.json) |
-| [August 17 at 5:16 PM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-17T17:16:15.941633-04:00.lighthouse.json) |
-| [August 17 at 6:54 AM](https://archive.org/download/cbsnews-2022/cbsnews-2022-08-17T06:54:17.305156-04:00.lighthouse.json) |
 
 
 

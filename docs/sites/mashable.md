@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 108 screenshots with the Internet Archive.
+The archiving routine has saved 112 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/mashable-2022/mashable-2022-08-21T07:07:17.678936-07:00.jpg">
+  <img src="https://archive.org/download/mashable-2022/mashable-2022-08-21T07:07:17.678936-07:00.jpg"
+     alt="Mashable at 2022-08-21 07:07:22-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mashable-2022/mashable-2022-08-21T07:07:17.678936-07:00.jpg">August 21 at 7:07 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mashable-2022/mashable-2022-08-20T19:22:58.651465-07:00.jpg">
+  <img src="https://archive.org/download/mashable-2022/mashable-2022-08-20T19:22:58.651465-07:00.jpg"
+     alt="Mashable at 2022-08-20 19:23:00-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mashable-2022/mashable-2022-08-20T19:22:58.651465-07:00.jpg">August 20 at 7:23 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mashable-2022/mashable-2022-08-20T07:01:03.570244-07:00.jpg">
+  <img src="https://archive.org/download/mashable-2022/mashable-2022-08-20T07:01:03.570244-07:00.jpg"
+     alt="Mashable at 2022-08-20 07:01:07-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mashable-2022/mashable-2022-08-20T07:01:03.570244-07:00.jpg">August 20 at 7:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mashable-2022/mashable-2022-08-19T19:37:02.205056-07:00.jpg">
+  <img src="https://archive.org/download/mashable-2022/mashable-2022-08-19T19:37:02.205056-07:00.jpg"
+     alt="Mashable at 2022-08-19 19:37:04-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mashable-2022/mashable-2022-08-19T19:37:02.205056-07:00.jpg">August 19 at 7:37 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/mashable-2022/mashable-2022-08-19T07:35:55.329702-07:00.jpg">
   <img src="https://archive.org/download/mashable-2022/mashable-2022-08-19T07:35:55.329702-07:00.jpg"
      alt="Mashable at 2022-08-19 07:35:56-07:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mashable-2022/mashable-2022-08-15T23:41:08.372042-07:00.jpg">August 15 at 11:41 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mashable-2022/mashable-2022-08-15T13:00:18.854496-07:00.jpg">
-  <img src="https://archive.org/download/mashable-2022/mashable-2022-08-15T13:00:18.854496-07:00.jpg"
-     alt="Mashable at 2022-08-15 13:00:22-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mashable-2022/mashable-2022-08-15T13:00:18.854496-07:00.jpg">August 15 at 1:00 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mashable-2022/mashable-2022-08-14T23:32:25.221056-07:00.jpg">
-  <img src="https://archive.org/download/mashable-2022/mashable-2022-08-14T23:32:25.221056-07:00.jpg"
-     alt="Mashable at 2022-08-14 23:32:28-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mashable-2022/mashable-2022-08-14T23:32:25.221056-07:00.jpg">August 14 at 11:32 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mashable-2022/mashable-2022-08-14T10:26:04.138748-07:00.jpg">
-  <img src="https://archive.org/download/mashable-2022/mashable-2022-08-14T10:26:04.138748-07:00.jpg"
-     alt="Mashable at 2022-08-14 10:26:05-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mashable-2022/mashable-2022-08-14T10:26:04.138748-07:00.jpg">August 14 at 10:26 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mashable-2022/mashable-2022-08-13T23:53:38.074171-07:00.jpg">
-  <img src="https://archive.org/download/mashable-2022/mashable-2022-08-13T23:53:38.074171-07:00.jpg"
-     alt="Mashable at 2022-08-13 23:53:40-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mashable-2022/mashable-2022-08-13T23:53:38.074171-07:00.jpg">August 13 at 11:53 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 105 hyperlink lists with the Internet Archive.
+The archiving routine has saved 109 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 7:07 AM](https://archive.org/download/mashable-2022/mashable-2022-08-21T07:07:17.678936-07:00.hyperlinks.json) |
+| [August 20 at 7:23 PM](https://archive.org/download/mashable-2022/mashable-2022-08-20T19:22:58.651465-07:00.hyperlinks.json) |
+| [August 20 at 7:01 AM](https://archive.org/download/mashable-2022/mashable-2022-08-20T07:01:03.570244-07:00.hyperlinks.json) |
+| [August 19 at 7:37 PM](https://archive.org/download/mashable-2022/mashable-2022-08-19T19:37:02.205056-07:00.hyperlinks.json) |
 | [August 19 at 7:35 AM](https://archive.org/download/mashable-2022/mashable-2022-08-19T07:35:55.329702-07:00.hyperlinks.json) |
 | [August 18 at 7:35 PM](https://archive.org/download/mashable-2022/mashable-2022-08-18T19:35:03.545721-07:00.hyperlinks.json) |
 | [August 18 at 7:12 AM](https://archive.org/download/mashable-2022/mashable-2022-08-18T07:11:48.219103-07:00.hyperlinks.json) |
 | [August 17 at 7:32 PM](https://archive.org/download/mashable-2022/mashable-2022-08-17T19:32:18.081383-07:00.hyperlinks.json) |
 | [August 17 at 8:06 AM](https://archive.org/download/mashable-2022/mashable-2022-08-17T08:06:11.499520-07:00.hyperlinks.json) |
 | [August 16 at 7:30 PM](https://archive.org/download/mashable-2022/mashable-2022-08-16T19:30:54.179113-07:00.hyperlinks.json) |
-| [August 16 at 11:37 AM](https://archive.org/download/mashable-2022/mashable-2022-08-16T11:37:24.512459-07:00.hyperlinks.json) |
-| [August 15 at 11:41 PM](https://archive.org/download/mashable-2022/mashable-2022-08-15T23:41:08.372042-07:00.hyperlinks.json) |
-| [August 15 at 1:00 PM](https://archive.org/download/mashable-2022/mashable-2022-08-15T13:00:18.854496-07:00.hyperlinks.json) |
-| [August 14 at 11:32 PM](https://archive.org/download/mashable-2022/mashable-2022-08-14T23:32:25.221056-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 108 accessibility trees with the Internet Archive.
+The archiving routine has saved 112 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 7:07 AM](https://archive.org/download/mashable-2022/mashable-2022-08-21T07:07:17.678936-07:00.accessibility.json) |
+| [August 20 at 7:23 PM](https://archive.org/download/mashable-2022/mashable-2022-08-20T19:22:58.651465-07:00.accessibility.json) |
+| [August 20 at 7:01 AM](https://archive.org/download/mashable-2022/mashable-2022-08-20T07:01:03.570244-07:00.accessibility.json) |
+| [August 19 at 7:37 PM](https://archive.org/download/mashable-2022/mashable-2022-08-19T19:37:02.205056-07:00.accessibility.json) |
 | [August 19 at 7:35 AM](https://archive.org/download/mashable-2022/mashable-2022-08-19T07:35:55.329702-07:00.accessibility.json) |
 | [August 18 at 7:35 PM](https://archive.org/download/mashable-2022/mashable-2022-08-18T19:35:03.545721-07:00.accessibility.json) |
 | [August 18 at 7:11 AM](https://archive.org/download/mashable-2022/mashable-2022-08-18T07:11:48.219103-07:00.accessibility.json) |
 | [August 17 at 7:32 PM](https://archive.org/download/mashable-2022/mashable-2022-08-17T19:32:18.081383-07:00.accessibility.json) |
 | [August 17 at 8:06 AM](https://archive.org/download/mashable-2022/mashable-2022-08-17T08:06:11.499520-07:00.accessibility.json) |
 | [August 16 at 7:30 PM](https://archive.org/download/mashable-2022/mashable-2022-08-16T19:30:54.179113-07:00.accessibility.json) |
-| [August 16 at 11:37 AM](https://archive.org/download/mashable-2022/mashable-2022-08-16T11:37:24.512459-07:00.accessibility.json) |
-| [August 15 at 11:41 PM](https://archive.org/download/mashable-2022/mashable-2022-08-15T23:41:08.372042-07:00.accessibility.json) |
-| [August 15 at 1:00 PM](https://archive.org/download/mashable-2022/mashable-2022-08-15T13:00:18.854496-07:00.accessibility.json) |
-| [August 14 at 11:32 PM](https://archive.org/download/mashable-2022/mashable-2022-08-14T23:32:25.221056-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 59 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 7:07 AM](https://archive.org/download/mashable-2022/mashable-2022-08-21T07:07:17.678936-07:00.lighthouse.json) |
+| [August 20 at 7:23 PM](https://archive.org/download/mashable-2022/mashable-2022-08-20T19:22:58.651465-07:00.lighthouse.json) |
+| [August 20 at 7:01 AM](https://archive.org/download/mashable-2022/mashable-2022-08-20T07:01:03.570244-07:00.lighthouse.json) |
+| [August 19 at 7:37 PM](https://archive.org/download/mashable-2022/mashable-2022-08-19T19:37:02.205056-07:00.lighthouse.json) |
 | [August 19 at 7:36 AM](https://archive.org/download/mashable-2022/mashable-2022-08-19T07:35:55.329702-07:00.lighthouse.json) |
 | [August 18 at 7:35 PM](https://archive.org/download/mashable-2022/mashable-2022-08-18T19:35:03.545721-07:00.lighthouse.json) |
 | [August 18 at 7:12 AM](https://archive.org/download/mashable-2022/mashable-2022-08-18T07:11:48.219103-07:00.lighthouse.json) |
 | [August 17 at 7:32 PM](https://archive.org/download/mashable-2022/mashable-2022-08-17T19:32:18.081383-07:00.lighthouse.json) |
 | [August 17 at 8:06 AM](https://archive.org/download/mashable-2022/mashable-2022-08-17T08:06:11.499520-07:00.lighthouse.json) |
 | [August 16 at 7:31 PM](https://archive.org/download/mashable-2022/mashable-2022-08-16T19:30:54.179113-07:00.lighthouse.json) |
-| [August 16 at 11:37 AM](https://archive.org/download/mashable-2022/mashable-2022-08-16T11:37:24.512459-07:00.lighthouse.json) |
-| [August 15 at 11:41 PM](https://archive.org/download/mashable-2022/mashable-2022-08-15T23:41:08.372042-07:00.lighthouse.json) |
-| [August 15 at 1:00 PM](https://archive.org/download/mashable-2022/mashable-2022-08-15T13:00:18.854496-07:00.lighthouse.json) |
-| [August 14 at 11:32 PM](https://archive.org/download/mashable-2022/mashable-2022-08-14T23:32:25.221056-07:00.lighthouse.json) |
 
 
 

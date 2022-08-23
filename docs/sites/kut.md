@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 69 screenshots with the Internet Archive.
+The archiving routine has saved 73 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kut-2022/kut-2022-08-21T18:54:27.565585-05:00.jpg">
+  <img src="https://archive.org/download/kut-2022/kut-2022-08-21T18:54:27.565585-05:00.jpg"
+     alt="KUT at 2022-08-21 18:54:31-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kut-2022/kut-2022-08-21T18:54:27.565585-05:00.jpg">August 21 at 6:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kut-2022/kut-2022-08-21T07:01:06.702523-05:00.jpg">
+  <img src="https://archive.org/download/kut-2022/kut-2022-08-21T07:01:06.702523-05:00.jpg"
+     alt="KUT at 2022-08-21 07:01:09-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kut-2022/kut-2022-08-21T07:01:06.702523-05:00.jpg">August 21 at 7:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kut-2022/kut-2022-08-20T18:55:17.310205-05:00.jpg">
+  <img src="https://archive.org/download/kut-2022/kut-2022-08-20T18:55:17.310205-05:00.jpg"
+     alt="KUT at 2022-08-20 18:55:18-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kut-2022/kut-2022-08-20T18:55:17.310205-05:00.jpg">August 20 at 6:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kut-2022/kut-2022-08-20T06:56:06.380752-05:00.jpg">
+  <img src="https://archive.org/download/kut-2022/kut-2022-08-20T06:56:06.380752-05:00.jpg"
+     alt="KUT at 2022-08-20 06:56:11-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kut-2022/kut-2022-08-20T06:56:06.380752-05:00.jpg">August 20 at 6:56 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kut-2022/kut-2022-08-19T18:52:19.796871-05:00.jpg">
   <img src="https://archive.org/download/kut-2022/kut-2022-08-19T18:52:19.796871-05:00.jpg"
      alt="KUT at 2022-08-19 18:52:23-05:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kut-2022/kut-2022-08-16T19:05:57.859239-05:00.jpg">August 16 at 7:06 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kut-2022/kut-2022-08-16T08:57:23.199846-05:00.jpg">
-  <img src="https://archive.org/download/kut-2022/kut-2022-08-16T08:57:23.199846-05:00.jpg"
-     alt="KUT at 2022-08-16 08:57:25-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kut-2022/kut-2022-08-16T08:57:23.199846-05:00.jpg">August 16 at 8:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kut-2022/kut-2022-08-15T20:32:27.924690-05:00.jpg">
-  <img src="https://archive.org/download/kut-2022/kut-2022-08-15T20:32:27.924690-05:00.jpg"
-     alt="KUT at 2022-08-15 20:32:31-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kut-2022/kut-2022-08-15T20:32:27.924690-05:00.jpg">August 15 at 8:32 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kut-2022/kut-2022-08-15T09:14:10.621639-05:00.jpg">
-  <img src="https://archive.org/download/kut-2022/kut-2022-08-15T09:14:10.621639-05:00.jpg"
-     alt="KUT at 2022-08-15 09:14:12-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kut-2022/kut-2022-08-15T09:14:10.621639-05:00.jpg">August 15 at 9:14 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kut-2022/kut-2022-08-14T20:18:06.225087-05:00.jpg">
-  <img src="https://archive.org/download/kut-2022/kut-2022-08-14T20:18:06.225087-05:00.jpg"
-     alt="KUT at 2022-08-14 20:18:09-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kut-2022/kut-2022-08-14T20:18:06.225087-05:00.jpg">August 14 at 8:18 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 69 hyperlink lists with the Internet Archive.
+The archiving routine has saved 73 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 6:54 PM](https://archive.org/download/kut-2022/kut-2022-08-21T18:54:27.565585-05:00.hyperlinks.json) |
+| [August 21 at 7:01 AM](https://archive.org/download/kut-2022/kut-2022-08-21T07:01:06.702523-05:00.hyperlinks.json) |
+| [August 20 at 6:55 PM](https://archive.org/download/kut-2022/kut-2022-08-20T18:55:17.310205-05:00.hyperlinks.json) |
+| [August 20 at 6:56 AM](https://archive.org/download/kut-2022/kut-2022-08-20T06:56:06.380752-05:00.hyperlinks.json) |
 | [August 19 at 6:52 PM](https://archive.org/download/kut-2022/kut-2022-08-19T18:52:19.796871-05:00.hyperlinks.json) |
 | [August 19 at 9:20 AM](https://archive.org/download/kut-2022/kut-2022-08-19T09:20:00.057929-05:00.hyperlinks.json) |
 | [August 19 at 7:01 AM](https://archive.org/download/kut-2022/kut-2022-08-19T07:00:59.681953-05:00.hyperlinks.json) |
 | [August 18 at 6:52 PM](https://archive.org/download/kut-2022/kut-2022-08-18T18:52:49.552725-05:00.hyperlinks.json) |
 | [August 18 at 6:59 AM](https://archive.org/download/kut-2022/kut-2022-08-18T06:59:16.112795-05:00.hyperlinks.json) |
 | [August 17 at 6:51 PM](https://archive.org/download/kut-2022/kut-2022-08-17T18:50:58.496802-05:00.hyperlinks.json) |
-| [August 17 at 6:49 AM](https://archive.org/download/kut-2022/kut-2022-08-17T06:48:54.071686-05:00.hyperlinks.json) |
-| [August 16 at 7:06 PM](https://archive.org/download/kut-2022/kut-2022-08-16T19:05:57.859239-05:00.hyperlinks.json) |
-| [August 16 at 8:57 AM](https://archive.org/download/kut-2022/kut-2022-08-16T08:57:23.199846-05:00.hyperlinks.json) |
-| [August 15 at 8:32 PM](https://archive.org/download/kut-2022/kut-2022-08-15T20:32:27.924690-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 69 accessibility trees with the Internet Archive.
+The archiving routine has saved 73 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 6:54 PM](https://archive.org/download/kut-2022/kut-2022-08-21T18:54:27.565585-05:00.accessibility.json) |
+| [August 21 at 7:01 AM](https://archive.org/download/kut-2022/kut-2022-08-21T07:01:06.702523-05:00.accessibility.json) |
+| [August 20 at 6:55 PM](https://archive.org/download/kut-2022/kut-2022-08-20T18:55:17.310205-05:00.accessibility.json) |
+| [August 20 at 6:56 AM](https://archive.org/download/kut-2022/kut-2022-08-20T06:56:06.380752-05:00.accessibility.json) |
 | [August 19 at 6:52 PM](https://archive.org/download/kut-2022/kut-2022-08-19T18:52:19.796871-05:00.accessibility.json) |
 | [August 19 at 9:20 AM](https://archive.org/download/kut-2022/kut-2022-08-19T09:20:00.057929-05:00.accessibility.json) |
 | [August 19 at 7:01 AM](https://archive.org/download/kut-2022/kut-2022-08-19T07:00:59.681953-05:00.accessibility.json) |
 | [August 18 at 6:52 PM](https://archive.org/download/kut-2022/kut-2022-08-18T18:52:49.552725-05:00.accessibility.json) |
 | [August 18 at 6:59 AM](https://archive.org/download/kut-2022/kut-2022-08-18T06:59:16.112795-05:00.accessibility.json) |
 | [August 17 at 6:51 PM](https://archive.org/download/kut-2022/kut-2022-08-17T18:50:58.496802-05:00.accessibility.json) |
-| [August 17 at 6:48 AM](https://archive.org/download/kut-2022/kut-2022-08-17T06:48:54.071686-05:00.accessibility.json) |
-| [August 16 at 7:06 PM](https://archive.org/download/kut-2022/kut-2022-08-16T19:05:57.859239-05:00.accessibility.json) |
-| [August 16 at 8:57 AM](https://archive.org/download/kut-2022/kut-2022-08-16T08:57:23.199846-05:00.accessibility.json) |
-| [August 15 at 8:32 PM](https://archive.org/download/kut-2022/kut-2022-08-15T20:32:27.924690-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 56 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 60 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 6:54 PM](https://archive.org/download/kut-2022/kut-2022-08-21T18:54:27.565585-05:00.lighthouse.json) |
+| [August 21 at 7:01 AM](https://archive.org/download/kut-2022/kut-2022-08-21T07:01:06.702523-05:00.lighthouse.json) |
+| [August 20 at 6:55 PM](https://archive.org/download/kut-2022/kut-2022-08-20T18:55:17.310205-05:00.lighthouse.json) |
+| [August 20 at 6:56 AM](https://archive.org/download/kut-2022/kut-2022-08-20T06:56:06.380752-05:00.lighthouse.json) |
 | [August 19 at 6:52 PM](https://archive.org/download/kut-2022/kut-2022-08-19T18:52:19.796871-05:00.lighthouse.json) |
 | [August 19 at 9:20 AM](https://archive.org/download/kut-2022/kut-2022-08-19T09:20:00.057929-05:00.lighthouse.json) |
 | [August 19 at 7:01 AM](https://archive.org/download/kut-2022/kut-2022-08-19T07:00:59.681953-05:00.lighthouse.json) |
 | [August 18 at 6:52 PM](https://archive.org/download/kut-2022/kut-2022-08-18T18:52:49.552725-05:00.lighthouse.json) |
 | [August 18 at 6:59 AM](https://archive.org/download/kut-2022/kut-2022-08-18T06:59:16.112795-05:00.lighthouse.json) |
 | [August 17 at 6:51 PM](https://archive.org/download/kut-2022/kut-2022-08-17T18:50:58.496802-05:00.lighthouse.json) |
-| [August 17 at 6:49 AM](https://archive.org/download/kut-2022/kut-2022-08-17T06:48:54.071686-05:00.lighthouse.json) |
-| [August 16 at 7:06 PM](https://archive.org/download/kut-2022/kut-2022-08-16T19:05:57.859239-05:00.lighthouse.json) |
-| [August 16 at 8:57 AM](https://archive.org/download/kut-2022/kut-2022-08-16T08:57:23.199846-05:00.lighthouse.json) |
-| [August 15 at 8:32 PM](https://archive.org/download/kut-2022/kut-2022-08-15T20:32:27.924690-05:00.lighthouse.json) |
 
 
 

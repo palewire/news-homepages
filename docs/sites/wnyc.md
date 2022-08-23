@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 123 screenshots with the Internet Archive.
+The archiving routine has saved 127 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/wnyc-2022/wnyc-2022-08-21T09:11:00.822337-04:00.jpg">
+  <img src="https://archive.org/download/wnyc-2022/wnyc-2022-08-21T09:11:00.822337-04:00.jpg"
+     alt="WNYC at 2022-08-21 09:11:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wnyc-2022/wnyc-2022-08-21T09:11:00.822337-04:00.jpg">August 21 at 9:11 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wnyc-2022/wnyc-2022-08-20T21:19:44.558633-04:00.jpg">
+  <img src="https://archive.org/download/wnyc-2022/wnyc-2022-08-20T21:19:44.558633-04:00.jpg"
+     alt="WNYC at 2022-08-20 21:19:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wnyc-2022/wnyc-2022-08-20T21:19:44.558633-04:00.jpg">August 20 at 9:19 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wnyc-2022/wnyc-2022-08-20T09:06:43.362744-04:00.jpg">
+  <img src="https://archive.org/download/wnyc-2022/wnyc-2022-08-20T09:06:43.362744-04:00.jpg"
+     alt="WNYC at 2022-08-20 09:06:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wnyc-2022/wnyc-2022-08-20T09:06:43.362744-04:00.jpg">August 20 at 9:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wnyc-2022/wnyc-2022-08-19T21:18:54.173880-04:00.jpg">
+  <img src="https://archive.org/download/wnyc-2022/wnyc-2022-08-19T21:18:54.173880-04:00.jpg"
+     alt="WNYC at 2022-08-19 21:18:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wnyc-2022/wnyc-2022-08-19T21:18:54.173880-04:00.jpg">August 19 at 9:18 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/wnyc-2022/wnyc-2022-08-19T09:24:58.281458-04:00.jpg">
   <img src="https://archive.org/download/wnyc-2022/wnyc-2022-08-19T09:24:58.281458-04:00.jpg"
      alt="WNYC at 2022-08-19 09:25:04-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wnyc-2022/wnyc-2022-08-16T02:25:33.075890-04:00.jpg">August 16 at 2:25 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wnyc-2022/wnyc-2022-08-15T15:43:20.131820-04:00.jpg">
-  <img src="https://archive.org/download/wnyc-2022/wnyc-2022-08-15T15:43:20.131820-04:00.jpg"
-     alt="WNYC at 2022-08-15 15:43:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wnyc-2022/wnyc-2022-08-15T15:43:20.131820-04:00.jpg">August 15 at 3:43 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wnyc-2022/wnyc-2022-08-14T13:10:33.374412-04:00.jpg">
-  <img src="https://archive.org/download/wnyc-2022/wnyc-2022-08-14T13:10:33.374412-04:00.jpg"
-     alt="WNYC at 2022-08-14 13:10:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wnyc-2022/wnyc-2022-08-14T13:10:33.374412-04:00.jpg">August 14 at 1:10 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wnyc-2022/wnyc-2022-08-14T01:13:28.792173-04:00.jpg">
-  <img src="https://archive.org/download/wnyc-2022/wnyc-2022-08-14T01:13:28.792173-04:00.jpg"
-     alt="WNYC at 2022-08-14 01:13:30-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wnyc-2022/wnyc-2022-08-14T01:13:28.792173-04:00.jpg">August 14 at 1:13 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wnyc-2022/wnyc-2022-08-13T16:51:09.824376-04:00.jpg">
-  <img src="https://archive.org/download/wnyc-2022/wnyc-2022-08-13T16:51:09.824376-04:00.jpg"
-     alt="WNYC at 2022-08-13 16:51:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wnyc-2022/wnyc-2022-08-13T16:51:09.824376-04:00.jpg">August 13 at 4:51 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 125 hyperlink lists with the Internet Archive.
+The archiving routine has saved 129 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 9:11 AM](https://archive.org/download/wnyc-2022/wnyc-2022-08-21T09:11:00.822337-04:00.hyperlinks.json) |
+| [August 20 at 9:19 PM](https://archive.org/download/wnyc-2022/wnyc-2022-08-20T21:19:44.558633-04:00.hyperlinks.json) |
+| [August 20 at 9:06 AM](https://archive.org/download/wnyc-2022/wnyc-2022-08-20T09:06:43.362744-04:00.hyperlinks.json) |
+| [August 19 at 9:18 PM](https://archive.org/download/wnyc-2022/wnyc-2022-08-19T21:18:54.173880-04:00.hyperlinks.json) |
 | [August 19 at 9:25 AM](https://archive.org/download/wnyc-2022/wnyc-2022-08-19T09:24:58.281458-04:00.hyperlinks.json) |
 | [August 18 at 9:24 PM](https://archive.org/download/wnyc-2022/wnyc-2022-08-18T21:24:18.006855-04:00.hyperlinks.json) |
 | [August 18 at 9:04 AM](https://archive.org/download/wnyc-2022/wnyc-2022-08-18T09:04:12.124490-04:00.hyperlinks.json) |
 | [August 17 at 9:18 PM](https://archive.org/download/wnyc-2022/wnyc-2022-08-17T21:18:40.945199-04:00.hyperlinks.json) |
 | [August 17 at 9:12 AM](https://archive.org/download/wnyc-2022/wnyc-2022-08-17T09:12:11.804455-04:00.hyperlinks.json) |
 | [August 16 at 9:25 PM](https://archive.org/download/wnyc-2022/wnyc-2022-08-16T21:25:01.715482-04:00.hyperlinks.json) |
-| [August 16 at 1:29 PM](https://archive.org/download/wnyc-2022/wnyc-2022-08-16T13:29:40.932710-04:00.hyperlinks.json) |
-| [August 16 at 2:25 AM](https://archive.org/download/wnyc-2022/wnyc-2022-08-16T02:25:33.075890-04:00.hyperlinks.json) |
-| [August 15 at 3:43 PM](https://archive.org/download/wnyc-2022/wnyc-2022-08-15T15:43:20.131820-04:00.hyperlinks.json) |
-| [August 14 at 11:19 PM](https://archive.org/download/wnyc-2022/wnyc-2022-08-14T23:19:39.438347-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 125 accessibility trees with the Internet Archive.
+The archiving routine has saved 129 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 9:11 AM](https://archive.org/download/wnyc-2022/wnyc-2022-08-21T09:11:00.822337-04:00.accessibility.json) |
+| [August 20 at 9:19 PM](https://archive.org/download/wnyc-2022/wnyc-2022-08-20T21:19:44.558633-04:00.accessibility.json) |
+| [August 20 at 9:06 AM](https://archive.org/download/wnyc-2022/wnyc-2022-08-20T09:06:43.362744-04:00.accessibility.json) |
+| [August 19 at 9:18 PM](https://archive.org/download/wnyc-2022/wnyc-2022-08-19T21:18:54.173880-04:00.accessibility.json) |
 | [August 19 at 9:25 AM](https://archive.org/download/wnyc-2022/wnyc-2022-08-19T09:24:58.281458-04:00.accessibility.json) |
 | [August 18 at 9:24 PM](https://archive.org/download/wnyc-2022/wnyc-2022-08-18T21:24:18.006855-04:00.accessibility.json) |
 | [August 18 at 9:04 AM](https://archive.org/download/wnyc-2022/wnyc-2022-08-18T09:04:12.124490-04:00.accessibility.json) |
 | [August 17 at 9:18 PM](https://archive.org/download/wnyc-2022/wnyc-2022-08-17T21:18:40.945199-04:00.accessibility.json) |
 | [August 17 at 9:12 AM](https://archive.org/download/wnyc-2022/wnyc-2022-08-17T09:12:11.804455-04:00.accessibility.json) |
 | [August 16 at 9:25 PM](https://archive.org/download/wnyc-2022/wnyc-2022-08-16T21:25:01.715482-04:00.accessibility.json) |
-| [August 16 at 1:29 PM](https://archive.org/download/wnyc-2022/wnyc-2022-08-16T13:29:40.932710-04:00.accessibility.json) |
-| [August 16 at 2:25 AM](https://archive.org/download/wnyc-2022/wnyc-2022-08-16T02:25:33.075890-04:00.accessibility.json) |
-| [August 15 at 3:43 PM](https://archive.org/download/wnyc-2022/wnyc-2022-08-15T15:43:20.131820-04:00.accessibility.json) |
-| [August 14 at 11:19 PM](https://archive.org/download/wnyc-2022/wnyc-2022-08-14T23:19:39.438347-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 57 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 61 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 9:11 AM](https://archive.org/download/wnyc-2022/wnyc-2022-08-21T09:11:00.822337-04:00.lighthouse.json) |
+| [August 20 at 9:19 PM](https://archive.org/download/wnyc-2022/wnyc-2022-08-20T21:19:44.558633-04:00.lighthouse.json) |
+| [August 20 at 9:06 AM](https://archive.org/download/wnyc-2022/wnyc-2022-08-20T09:06:43.362744-04:00.lighthouse.json) |
+| [August 19 at 9:19 PM](https://archive.org/download/wnyc-2022/wnyc-2022-08-19T21:18:54.173880-04:00.lighthouse.json) |
 | [August 19 at 9:25 AM](https://archive.org/download/wnyc-2022/wnyc-2022-08-19T09:24:58.281458-04:00.lighthouse.json) |
 | [August 18 at 9:24 PM](https://archive.org/download/wnyc-2022/wnyc-2022-08-18T21:24:18.006855-04:00.lighthouse.json) |
 | [August 18 at 9:04 AM](https://archive.org/download/wnyc-2022/wnyc-2022-08-18T09:04:12.124490-04:00.lighthouse.json) |
 | [August 17 at 9:18 PM](https://archive.org/download/wnyc-2022/wnyc-2022-08-17T21:18:40.945199-04:00.lighthouse.json) |
 | [August 17 at 9:12 AM](https://archive.org/download/wnyc-2022/wnyc-2022-08-17T09:12:11.804455-04:00.lighthouse.json) |
 | [August 16 at 9:25 PM](https://archive.org/download/wnyc-2022/wnyc-2022-08-16T21:25:01.715482-04:00.lighthouse.json) |
-| [August 16 at 1:29 PM](https://archive.org/download/wnyc-2022/wnyc-2022-08-16T13:29:40.932710-04:00.lighthouse.json) |
-| [August 16 at 2:25 AM](https://archive.org/download/wnyc-2022/wnyc-2022-08-16T02:25:33.075890-04:00.lighthouse.json) |
-| [August 15 at 3:43 PM](https://archive.org/download/wnyc-2022/wnyc-2022-08-15T15:43:20.131820-04:00.lighthouse.json) |
-| [August 14 at 11:19 PM](https://archive.org/download/wnyc-2022/wnyc-2022-08-14T23:19:39.438347-04:00.lighthouse.json) |
 
 
 

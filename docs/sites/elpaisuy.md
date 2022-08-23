@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 84 screenshots with the Internet Archive.
+The archiving routine has saved 88 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-21T11:03:44.154460-03:00.jpg">
+  <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-21T11:03:44.154460-03:00.jpg"
+     alt="El Pais at 2022-08-21 11:03:45-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-21T11:03:44.154460-03:00.jpg">August 21 at 11:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-20T23:19:16.733969-03:00.jpg">
+  <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-20T23:19:16.733969-03:00.jpg"
+     alt="El Pais at 2022-08-20 23:19:18-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-20T23:19:16.733969-03:00.jpg">August 20 at 11:19 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-20T10:57:03.739704-03:00.jpg">
+  <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-20T10:57:03.739704-03:00.jpg"
+     alt="El Pais at 2022-08-20 10:57:05-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-20T10:57:03.739704-03:00.jpg">August 20 at 10:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-19T23:33:09.021604-03:00.jpg">
+  <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-19T23:33:09.021604-03:00.jpg"
+     alt="El Pais at 2022-08-19 23:33:17-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-19T23:33:09.021604-03:00.jpg">August 19 at 11:33 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-19T11:29:59.282609-03:00.jpg">
   <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-19T11:29:59.282609-03:00.jpg"
      alt="El Pais at 2022-08-19 11:30:07-03:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-16T03:30:49.534473-03:00.jpg">August 16 at 3:30 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-15T16:49:27.869156-03:00.jpg">
-  <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-15T16:49:27.869156-03:00.jpg"
-     alt="El Pais at 2022-08-15 16:49:29-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-15T16:49:27.869156-03:00.jpg">August 15 at 4:49 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-15T03:22:53.400822-03:00.jpg">
-  <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-15T03:22:53.400822-03:00.jpg"
-     alt="El Pais at 2022-08-15 03:22:55-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-15T03:22:53.400822-03:00.jpg">August 15 at 3:22 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-14T14:17:19.938722-03:00.jpg">
-  <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-14T14:17:19.938722-03:00.jpg"
-     alt="El Pais at 2022-08-14 14:17:21-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-14T14:17:19.938722-03:00.jpg">August 14 at 2:17 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-14T03:43:36.751780-03:00.jpg">
-  <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-14T03:43:36.751780-03:00.jpg"
-     alt="El Pais at 2022-08-14 03:43:38-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-14T03:43:36.751780-03:00.jpg">August 14 at 3:43 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 84 hyperlink lists with the Internet Archive.
+The archiving routine has saved 88 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 11:03 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-21T11:03:44.154460-03:00.hyperlinks.json) |
+| [August 20 at 11:19 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-20T23:19:16.733969-03:00.hyperlinks.json) |
+| [August 20 at 10:57 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-20T10:57:03.739704-03:00.hyperlinks.json) |
+| [August 19 at 11:33 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-19T23:33:09.021604-03:00.hyperlinks.json) |
 | [August 19 at 11:30 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-19T11:29:59.282609-03:00.hyperlinks.json) |
 | [August 18 at 11:31 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-18T23:31:06.988660-03:00.hyperlinks.json) |
 | [August 18 at 11:05 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-18T11:05:15.301839-03:00.hyperlinks.json) |
 | [August 17 at 11:26 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-17T23:26:52.668142-03:00.hyperlinks.json) |
 | [August 17 at 12:01 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-17T12:01:29.694784-03:00.hyperlinks.json) |
 | [August 16 at 11:25 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-16T23:25:43.278021-03:00.hyperlinks.json) |
-| [August 16 at 3:27 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-16T15:27:04.168280-03:00.hyperlinks.json) |
-| [August 16 at 3:30 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-16T03:30:49.534473-03:00.hyperlinks.json) |
-| [August 15 at 4:49 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-15T16:49:27.869156-03:00.hyperlinks.json) |
-| [August 15 at 3:23 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-15T03:22:53.400822-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 84 accessibility trees with the Internet Archive.
+The archiving routine has saved 88 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 11:03 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-21T11:03:44.154460-03:00.accessibility.json) |
+| [August 20 at 11:19 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-20T23:19:16.733969-03:00.accessibility.json) |
+| [August 20 at 10:57 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-20T10:57:03.739704-03:00.accessibility.json) |
+| [August 19 at 11:33 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-19T23:33:09.021604-03:00.accessibility.json) |
 | [August 19 at 11:30 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-19T11:29:59.282609-03:00.accessibility.json) |
 | [August 18 at 11:31 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-18T23:31:06.988660-03:00.accessibility.json) |
 | [August 18 at 11:05 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-18T11:05:15.301839-03:00.accessibility.json) |
 | [August 17 at 11:26 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-17T23:26:52.668142-03:00.accessibility.json) |
 | [August 17 at 12:01 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-17T12:01:29.694784-03:00.accessibility.json) |
 | [August 16 at 11:25 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-16T23:25:43.278021-03:00.accessibility.json) |
-| [August 16 at 3:27 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-16T15:27:04.168280-03:00.accessibility.json) |
-| [August 16 at 3:30 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-16T03:30:49.534473-03:00.accessibility.json) |
-| [August 15 at 4:49 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-15T16:49:27.869156-03:00.accessibility.json) |
-| [August 15 at 3:23 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-15T03:22:53.400822-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 54 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 58 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 11:03 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-21T11:03:44.154460-03:00.lighthouse.json) |
+| [August 20 at 11:19 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-20T23:19:16.733969-03:00.lighthouse.json) |
+| [August 20 at 10:57 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-20T10:57:03.739704-03:00.lighthouse.json) |
+| [August 19 at 11:33 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-19T23:33:09.021604-03:00.lighthouse.json) |
 | [August 19 at 11:30 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-19T11:29:59.282609-03:00.lighthouse.json) |
 | [August 18 at 11:31 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-18T23:31:06.988660-03:00.lighthouse.json) |
 | [August 18 at 11:05 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-18T11:05:15.301839-03:00.lighthouse.json) |
 | [August 17 at 11:27 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-17T23:26:52.668142-03:00.lighthouse.json) |
 | [August 17 at 12:01 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-17T12:01:29.694784-03:00.lighthouse.json) |
 | [August 16 at 11:25 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-16T23:25:43.278021-03:00.lighthouse.json) |
-| [August 16 at 3:27 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-16T15:27:04.168280-03:00.lighthouse.json) |
-| [August 16 at 3:30 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-16T03:30:49.534473-03:00.lighthouse.json) |
-| [August 15 at 4:49 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-15T16:49:27.869156-03:00.lighthouse.json) |
-| [August 15 at 3:23 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-15T03:22:53.400822-03:00.lighthouse.json) |
 
 
 
