@@ -30,20 +30,27 @@ def update_list(number):
     # Get our list
     list_list = api.GetListsList()
     sources_list = next(li for li in list_list if li.id == 1558434500304158720)
-    member_list = api.GetListMembers(sources_list.id)
+    next_cursor, previous_cursor, member_list = api.GetListMembersPaged(
+        list_id=sources_list.id, count=5000
+    )
     screenname_list = [m.screen_name.lower() for m in member_list]
-    print(f":abacus: {len(screenname_list)} sources in the Twitter list")
+    print(f":abacus: {len(member_list)} sources in the Twitter list")
 
     # Get the full list of sources
     source_list = [s["handle"].lower() for s in utils.get_site_list()]
     print(f":newspaper: {len(source_list)} sources in the archive")
 
+    # Accounts that have been banned
+    blacklist = ["gatewaypundit", "infowars", "enewsofnepal"]
+
     # Add what's missing
-    missing_list = list(set(source_list) - set(screenname_list))[:number]
+    missing_list = list(set(source_list) - set(screenname_list) - set(blacklist))[
+        :number
+    ]
     print(f":bird: Adding {len(missing_list)} new sources to Twitter list")
     for obj in missing_list:
         print(f"- {obj}")
-        api.CreateListsMember(list_id=1558434500304158720, screen_name=obj)
+        api.CreateListsMember(list_id=sources_list.id, screen_name=obj)
         time.sleep(2)
 
 
