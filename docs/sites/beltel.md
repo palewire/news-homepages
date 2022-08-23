@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 68 screenshots with the Internet Archive.
+The archiving routine has saved 74 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,60 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/beltel-2022/beltel-2022-08-21T23:53:50.195126+01:00.jpg">
+  <img src="https://archive.org/download/beltel-2022/beltel-2022-08-21T23:53:50.195126+01:00.jpg"
+     alt="Belfast Telegraph at 2022-08-21 23:53:54+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/beltel-2022/beltel-2022-08-21T23:53:50.195126+01:00.jpg">August 21 at 11:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/beltel-2022/beltel-2022-08-21T11:57:32.441711+01:00.jpg">
+  <img src="https://archive.org/download/beltel-2022/beltel-2022-08-21T11:57:32.441711+01:00.jpg"
+     alt="Belfast Telegraph at 2022-08-21 11:57:34+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/beltel-2022/beltel-2022-08-21T11:57:32.441711+01:00.jpg">August 21 at 11:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/beltel-2022/beltel-2022-08-21T10:12:36.030995+01:00.jpg">
+  <img src="https://archive.org/download/beltel-2022/beltel-2022-08-21T10:12:36.030995+01:00.jpg"
+     alt="Belfast Telegraph at 2022-08-21 10:12:40+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/beltel-2022/beltel-2022-08-21T10:12:36.030995+01:00.jpg">August 21 at 10:12 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/beltel-2022/beltel-2022-08-21T00:00:23.078530+01:00.jpg">
+  <img src="https://archive.org/download/beltel-2022/beltel-2022-08-21T00:00:23.078530+01:00.jpg"
+     alt="Belfast Telegraph at 2022-08-21 00:00:29+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/beltel-2022/beltel-2022-08-21T00:00:23.078530+01:00.jpg">August 21 at 12:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/beltel-2022/beltel-2022-08-20T11:53:58.768542+01:00.jpg">
+  <img src="https://archive.org/download/beltel-2022/beltel-2022-08-20T11:53:58.768542+01:00.jpg"
+     alt="Belfast Telegraph at 2022-08-20 11:54:03+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/beltel-2022/beltel-2022-08-20T11:53:58.768542+01:00.jpg">August 20 at 11:54 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/beltel-2022/beltel-2022-08-20T10:13:01.617988+01:00.jpg">
+  <img src="https://archive.org/download/beltel-2022/beltel-2022-08-20T10:13:01.617988+01:00.jpg"
+     alt="Belfast Telegraph at 2022-08-20 10:13:03+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/beltel-2022/beltel-2022-08-20T10:13:01.617988+01:00.jpg">August 20 at 10:13 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/beltel-2022/beltel-2022-08-19T23:59:06.503778+01:00.jpg">
   <img src="https://archive.org/download/beltel-2022/beltel-2022-08-19T23:59:06.503778+01:00.jpg"
      alt="Belfast Telegraph at 2022-08-19 23:59:09+01:00 local time"
@@ -379,65 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/beltel-2022/beltel-2022-08-18T10:12:08.520928+01:00.jpg">August 18 at 10:12 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/beltel-2022/beltel-2022-08-17T23:58:00.855326+01:00.jpg">
-  <img src="https://archive.org/download/beltel-2022/beltel-2022-08-17T23:58:00.855326+01:00.jpg"
-     alt="Belfast Telegraph at 2022-08-17 23:58:09+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/beltel-2022/beltel-2022-08-17T23:58:00.855326+01:00.jpg">August 17 at 11:58 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/beltel-2022/beltel-2022-08-17T11:53:56.588885+01:00.jpg">
-  <img src="https://archive.org/download/beltel-2022/beltel-2022-08-17T11:53:56.588885+01:00.jpg"
-     alt="Belfast Telegraph at 2022-08-17 11:54:00+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/beltel-2022/beltel-2022-08-17T11:53:56.588885+01:00.jpg">August 17 at 11:54 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/beltel-2022/beltel-2022-08-17T00:01:12.905199+01:00.jpg">
-  <img src="https://archive.org/download/beltel-2022/beltel-2022-08-17T00:01:12.905199+01:00.jpg"
-     alt="Belfast Telegraph at 2022-08-17 00:01:16+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/beltel-2022/beltel-2022-08-17T00:01:12.905199+01:00.jpg">August 17 at 12:01 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/beltel-2022/beltel-2022-08-16T14:27:40.797886+01:00.jpg">
-  <img src="https://archive.org/download/beltel-2022/beltel-2022-08-16T14:27:40.797886+01:00.jpg"
-     alt="Belfast Telegraph at 2022-08-16 14:27:42+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/beltel-2022/beltel-2022-08-16T14:27:40.797886+01:00.jpg">August 16 at 2:27 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/beltel-2022/beltel-2022-08-16T02:14:46.984326+01:00.jpg">
-  <img src="https://archive.org/download/beltel-2022/beltel-2022-08-16T02:14:46.984326+01:00.jpg"
-     alt="Belfast Telegraph at 2022-08-16 02:14:50+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/beltel-2022/beltel-2022-08-16T02:14:46.984326+01:00.jpg">August 16 at 2:14 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/beltel-2022/beltel-2022-08-15T14:49:02.441166+01:00.jpg">
-  <img src="https://archive.org/download/beltel-2022/beltel-2022-08-15T14:49:02.441166+01:00.jpg"
-     alt="Belfast Telegraph at 2022-08-15 14:49:08+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/beltel-2022/beltel-2022-08-15T14:49:02.441166+01:00.jpg">August 15 at 2:49 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 69 hyperlink lists with the Internet Archive.
+The archiving routine has saved 75 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 11:53 PM](https://archive.org/download/beltel-2022/beltel-2022-08-21T23:53:50.195126+01:00.hyperlinks.json) |
+| [August 21 at 11:57 AM](https://archive.org/download/beltel-2022/beltel-2022-08-21T11:57:32.441711+01:00.hyperlinks.json) |
+| [August 21 at 10:12 AM](https://archive.org/download/beltel-2022/beltel-2022-08-21T10:12:36.030995+01:00.hyperlinks.json) |
+| [August 21 at 12:00 AM](https://archive.org/download/beltel-2022/beltel-2022-08-21T00:00:23.078530+01:00.hyperlinks.json) |
+| [August 20 at 11:54 AM](https://archive.org/download/beltel-2022/beltel-2022-08-20T11:53:58.768542+01:00.hyperlinks.json) |
+| [August 20 at 10:13 AM](https://archive.org/download/beltel-2022/beltel-2022-08-20T10:13:01.617988+01:00.hyperlinks.json) |
 | [August 19 at 11:59 PM](https://archive.org/download/beltel-2022/beltel-2022-08-19T23:59:06.503778+01:00.hyperlinks.json) |
 | [August 19 at 11:57 AM](https://archive.org/download/beltel-2022/beltel-2022-08-19T11:57:08.902452+01:00.hyperlinks.json) |
 | [August 19 at 10:16 AM](https://archive.org/download/beltel-2022/beltel-2022-08-19T10:16:33.181386+01:00.hyperlinks.json) |
 | [August 18 at 11:58 PM](https://archive.org/download/beltel-2022/beltel-2022-08-18T23:58:20.718448+01:00.hyperlinks.json) |
-| [August 18 at 11:55 AM](https://archive.org/download/beltel-2022/beltel-2022-08-18T11:55:41.714185+01:00.hyperlinks.json) |
-| [August 18 at 10:12 AM](https://archive.org/download/beltel-2022/beltel-2022-08-18T10:12:08.520928+01:00.hyperlinks.json) |
-| [August 17 at 11:58 PM](https://archive.org/download/beltel-2022/beltel-2022-08-17T23:58:00.855326+01:00.hyperlinks.json) |
-| [August 17 at 11:54 AM](https://archive.org/download/beltel-2022/beltel-2022-08-17T11:53:56.588885+01:00.hyperlinks.json) |
-| [August 17 at 12:01 AM](https://archive.org/download/beltel-2022/beltel-2022-08-17T00:01:12.905199+01:00.hyperlinks.json) |
-| [August 16 at 2:27 PM](https://archive.org/download/beltel-2022/beltel-2022-08-16T14:27:40.797886+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 69 accessibility trees with the Internet Archive.
+The archiving routine has saved 75 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 11:53 PM](https://archive.org/download/beltel-2022/beltel-2022-08-21T23:53:50.195126+01:00.accessibility.json) |
+| [August 21 at 11:57 AM](https://archive.org/download/beltel-2022/beltel-2022-08-21T11:57:32.441711+01:00.accessibility.json) |
+| [August 21 at 10:12 AM](https://archive.org/download/beltel-2022/beltel-2022-08-21T10:12:36.030995+01:00.accessibility.json) |
+| [August 21 at 12:00 AM](https://archive.org/download/beltel-2022/beltel-2022-08-21T00:00:23.078530+01:00.accessibility.json) |
+| [August 20 at 11:54 AM](https://archive.org/download/beltel-2022/beltel-2022-08-20T11:53:58.768542+01:00.accessibility.json) |
+| [August 20 at 10:13 AM](https://archive.org/download/beltel-2022/beltel-2022-08-20T10:13:01.617988+01:00.accessibility.json) |
 | [August 19 at 11:59 PM](https://archive.org/download/beltel-2022/beltel-2022-08-19T23:59:06.503778+01:00.accessibility.json) |
 | [August 19 at 11:57 AM](https://archive.org/download/beltel-2022/beltel-2022-08-19T11:57:08.902452+01:00.accessibility.json) |
 | [August 19 at 10:16 AM](https://archive.org/download/beltel-2022/beltel-2022-08-19T10:16:33.181386+01:00.accessibility.json) |
 | [August 18 at 11:58 PM](https://archive.org/download/beltel-2022/beltel-2022-08-18T23:58:20.718448+01:00.accessibility.json) |
-| [August 18 at 11:55 AM](https://archive.org/download/beltel-2022/beltel-2022-08-18T11:55:41.714185+01:00.accessibility.json) |
-| [August 18 at 10:12 AM](https://archive.org/download/beltel-2022/beltel-2022-08-18T10:12:08.520928+01:00.accessibility.json) |
-| [August 17 at 11:58 PM](https://archive.org/download/beltel-2022/beltel-2022-08-17T23:58:00.855326+01:00.accessibility.json) |
-| [August 17 at 11:54 AM](https://archive.org/download/beltel-2022/beltel-2022-08-17T11:53:56.588885+01:00.accessibility.json) |
-| [August 17 at 12:01 AM](https://archive.org/download/beltel-2022/beltel-2022-08-17T00:01:12.905199+01:00.accessibility.json) |
-| [August 16 at 2:27 PM](https://archive.org/download/beltel-2022/beltel-2022-08-16T14:27:40.797886+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 57 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 63 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 11:53 PM](https://archive.org/download/beltel-2022/beltel-2022-08-21T23:53:50.195126+01:00.lighthouse.json) |
+| [August 21 at 11:57 AM](https://archive.org/download/beltel-2022/beltel-2022-08-21T11:57:32.441711+01:00.lighthouse.json) |
+| [August 21 at 10:12 AM](https://archive.org/download/beltel-2022/beltel-2022-08-21T10:12:36.030995+01:00.lighthouse.json) |
+| [August 21 at 12:00 AM](https://archive.org/download/beltel-2022/beltel-2022-08-21T00:00:23.078530+01:00.lighthouse.json) |
+| [August 20 at 11:54 AM](https://archive.org/download/beltel-2022/beltel-2022-08-20T11:53:58.768542+01:00.lighthouse.json) |
+| [August 20 at 10:13 AM](https://archive.org/download/beltel-2022/beltel-2022-08-20T10:13:01.617988+01:00.lighthouse.json) |
 | [August 19 at 11:59 PM](https://archive.org/download/beltel-2022/beltel-2022-08-19T23:59:06.503778+01:00.lighthouse.json) |
 | [August 19 at 11:57 AM](https://archive.org/download/beltel-2022/beltel-2022-08-19T11:57:08.902452+01:00.lighthouse.json) |
 | [August 19 at 10:16 AM](https://archive.org/download/beltel-2022/beltel-2022-08-19T10:16:33.181386+01:00.lighthouse.json) |
 | [August 18 at 11:58 PM](https://archive.org/download/beltel-2022/beltel-2022-08-18T23:58:20.718448+01:00.lighthouse.json) |
-| [August 18 at 11:55 AM](https://archive.org/download/beltel-2022/beltel-2022-08-18T11:55:41.714185+01:00.lighthouse.json) |
-| [August 18 at 10:12 AM](https://archive.org/download/beltel-2022/beltel-2022-08-18T10:12:08.520928+01:00.lighthouse.json) |
-| [August 17 at 11:58 PM](https://archive.org/download/beltel-2022/beltel-2022-08-17T23:58:00.855326+01:00.lighthouse.json) |
-| [August 17 at 11:54 AM](https://archive.org/download/beltel-2022/beltel-2022-08-17T11:53:56.588885+01:00.lighthouse.json) |
-| [August 17 at 12:01 AM](https://archive.org/download/beltel-2022/beltel-2022-08-17T00:01:12.905199+01:00.lighthouse.json) |
-| [August 16 at 2:27 PM](https://archive.org/download/beltel-2022/beltel-2022-08-16T14:27:40.797886+01:00.lighthouse.json) |
 
 
 

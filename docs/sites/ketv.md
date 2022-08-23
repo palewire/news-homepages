@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 44 screenshots with the Internet Archive.
+The archiving routine has saved 48 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ketv-2022/ketv-2022-08-21T18:53:44.753472-05:00.jpg">
+  <img src="https://archive.org/download/ketv-2022/ketv-2022-08-21T18:53:44.753472-05:00.jpg"
+     alt="KETV NewsWatch 7 at 2022-08-21 18:53:45-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ketv-2022/ketv-2022-08-21T18:53:44.753472-05:00.jpg">August 21 at 6:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ketv-2022/ketv-2022-08-21T06:59:25.604905-05:00.jpg">
+  <img src="https://archive.org/download/ketv-2022/ketv-2022-08-21T06:59:25.604905-05:00.jpg"
+     alt="KETV NewsWatch 7 at 2022-08-21 06:59:28-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ketv-2022/ketv-2022-08-21T06:59:25.604905-05:00.jpg">August 21 at 6:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ketv-2022/ketv-2022-08-20T18:53:38.305146-05:00.jpg">
+  <img src="https://archive.org/download/ketv-2022/ketv-2022-08-20T18:53:38.305146-05:00.jpg"
+     alt="KETV NewsWatch 7 at 2022-08-20 18:53:40-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ketv-2022/ketv-2022-08-20T18:53:38.305146-05:00.jpg">August 20 at 6:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ketv-2022/ketv-2022-08-20T06:55:34.575934-05:00.jpg">
+  <img src="https://archive.org/download/ketv-2022/ketv-2022-08-20T06:55:34.575934-05:00.jpg"
+     alt="KETV NewsWatch 7 at 2022-08-20 06:55:38-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ketv-2022/ketv-2022-08-20T06:55:34.575934-05:00.jpg">August 20 at 6:55 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ketv-2022/ketv-2022-08-19T18:52:08.573686-05:00.jpg">
   <img src="https://archive.org/download/ketv-2022/ketv-2022-08-19T18:52:08.573686-05:00.jpg"
      alt="KETV NewsWatch 7 at 2022-08-19 18:52:11-05:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ketv-2022/ketv-2022-08-16T19:03:50.119933-05:00.jpg">August 16 at 7:03 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ketv-2022/ketv-2022-08-16T08:56:34.161807-05:00.jpg">
-  <img src="https://archive.org/download/ketv-2022/ketv-2022-08-16T08:56:34.161807-05:00.jpg"
-     alt="KETV NewsWatch 7 at 2022-08-16 08:56:36-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ketv-2022/ketv-2022-08-16T08:56:34.161807-05:00.jpg">August 16 at 8:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ketv-2022/ketv-2022-08-15T20:31:07.766816-05:00.jpg">
-  <img src="https://archive.org/download/ketv-2022/ketv-2022-08-15T20:31:07.766816-05:00.jpg"
-     alt="KETV NewsWatch 7 at 2022-08-15 20:31:15-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ketv-2022/ketv-2022-08-15T20:31:07.766816-05:00.jpg">August 15 at 8:31 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ketv-2022/ketv-2022-08-15T09:12:51.493305-05:00.jpg">
-  <img src="https://archive.org/download/ketv-2022/ketv-2022-08-15T09:12:51.493305-05:00.jpg"
-     alt="KETV NewsWatch 7 at 2022-08-15 09:12:53-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ketv-2022/ketv-2022-08-15T09:12:51.493305-05:00.jpg">August 15 at 9:12 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ketv-2022/ketv-2022-08-14T20:16:33.521201-05:00.jpg">
-  <img src="https://archive.org/download/ketv-2022/ketv-2022-08-14T20:16:33.521201-05:00.jpg"
-     alt="KETV NewsWatch 7 at 2022-08-14 20:16:35-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ketv-2022/ketv-2022-08-14T20:16:33.521201-05:00.jpg">August 14 at 8:16 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 44 hyperlink lists with the Internet Archive.
+The archiving routine has saved 48 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 6:53 PM](https://archive.org/download/ketv-2022/ketv-2022-08-21T18:53:44.753472-05:00.hyperlinks.json) |
+| [August 21 at 6:59 AM](https://archive.org/download/ketv-2022/ketv-2022-08-21T06:59:25.604905-05:00.hyperlinks.json) |
+| [August 20 at 6:53 PM](https://archive.org/download/ketv-2022/ketv-2022-08-20T18:53:38.305146-05:00.hyperlinks.json) |
+| [August 20 at 6:55 AM](https://archive.org/download/ketv-2022/ketv-2022-08-20T06:55:34.575934-05:00.hyperlinks.json) |
 | [August 19 at 6:52 PM](https://archive.org/download/ketv-2022/ketv-2022-08-19T18:52:08.573686-05:00.hyperlinks.json) |
 | [August 19 at 9:18 AM](https://archive.org/download/ketv-2022/ketv-2022-08-19T09:18:43.680613-05:00.hyperlinks.json) |
 | [August 19 at 6:58 AM](https://archive.org/download/ketv-2022/ketv-2022-08-19T06:58:39.066391-05:00.hyperlinks.json) |
 | [August 18 at 6:52 PM](https://archive.org/download/ketv-2022/ketv-2022-08-18T18:52:29.452735-05:00.hyperlinks.json) |
 | [August 18 at 6:58 AM](https://archive.org/download/ketv-2022/ketv-2022-08-18T06:58:13.989135-05:00.hyperlinks.json) |
 | [August 17 at 6:50 PM](https://archive.org/download/ketv-2022/ketv-2022-08-17T18:50:30.422556-05:00.hyperlinks.json) |
-| [August 17 at 6:49 AM](https://archive.org/download/ketv-2022/ketv-2022-08-17T06:49:23.288564-05:00.hyperlinks.json) |
-| [August 16 at 7:03 PM](https://archive.org/download/ketv-2022/ketv-2022-08-16T19:03:50.119933-05:00.hyperlinks.json) |
-| [August 16 at 8:56 AM](https://archive.org/download/ketv-2022/ketv-2022-08-16T08:56:34.161807-05:00.hyperlinks.json) |
-| [August 15 at 8:31 PM](https://archive.org/download/ketv-2022/ketv-2022-08-15T20:31:07.766816-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 44 accessibility trees with the Internet Archive.
+The archiving routine has saved 48 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 6:53 PM](https://archive.org/download/ketv-2022/ketv-2022-08-21T18:53:44.753472-05:00.accessibility.json) |
+| [August 21 at 6:59 AM](https://archive.org/download/ketv-2022/ketv-2022-08-21T06:59:25.604905-05:00.accessibility.json) |
+| [August 20 at 6:53 PM](https://archive.org/download/ketv-2022/ketv-2022-08-20T18:53:38.305146-05:00.accessibility.json) |
+| [August 20 at 6:55 AM](https://archive.org/download/ketv-2022/ketv-2022-08-20T06:55:34.575934-05:00.accessibility.json) |
 | [August 19 at 6:52 PM](https://archive.org/download/ketv-2022/ketv-2022-08-19T18:52:08.573686-05:00.accessibility.json) |
 | [August 19 at 9:18 AM](https://archive.org/download/ketv-2022/ketv-2022-08-19T09:18:43.680613-05:00.accessibility.json) |
 | [August 19 at 6:58 AM](https://archive.org/download/ketv-2022/ketv-2022-08-19T06:58:39.066391-05:00.accessibility.json) |
 | [August 18 at 6:52 PM](https://archive.org/download/ketv-2022/ketv-2022-08-18T18:52:29.452735-05:00.accessibility.json) |
 | [August 18 at 6:58 AM](https://archive.org/download/ketv-2022/ketv-2022-08-18T06:58:13.989135-05:00.accessibility.json) |
 | [August 17 at 6:50 PM](https://archive.org/download/ketv-2022/ketv-2022-08-17T18:50:30.422556-05:00.accessibility.json) |
-| [August 17 at 6:49 AM](https://archive.org/download/ketv-2022/ketv-2022-08-17T06:49:23.288564-05:00.accessibility.json) |
-| [August 16 at 7:03 PM](https://archive.org/download/ketv-2022/ketv-2022-08-16T19:03:50.119933-05:00.accessibility.json) |
-| [August 16 at 8:56 AM](https://archive.org/download/ketv-2022/ketv-2022-08-16T08:56:34.161807-05:00.accessibility.json) |
-| [August 15 at 8:31 PM](https://archive.org/download/ketv-2022/ketv-2022-08-15T20:31:07.766816-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 6:53 PM](https://archive.org/download/ketv-2022/ketv-2022-08-21T18:53:44.753472-05:00.lighthouse.json) |
+| [August 21 at 6:59 AM](https://archive.org/download/ketv-2022/ketv-2022-08-21T06:59:25.604905-05:00.lighthouse.json) |
+| [August 20 at 6:53 PM](https://archive.org/download/ketv-2022/ketv-2022-08-20T18:53:38.305146-05:00.lighthouse.json) |
+| [August 20 at 6:55 AM](https://archive.org/download/ketv-2022/ketv-2022-08-20T06:55:34.575934-05:00.lighthouse.json) |
 | [August 19 at 6:52 PM](https://archive.org/download/ketv-2022/ketv-2022-08-19T18:52:08.573686-05:00.lighthouse.json) |
 | [August 19 at 9:18 AM](https://archive.org/download/ketv-2022/ketv-2022-08-19T09:18:43.680613-05:00.lighthouse.json) |
 | [August 19 at 6:58 AM](https://archive.org/download/ketv-2022/ketv-2022-08-19T06:58:39.066391-05:00.lighthouse.json) |
 | [August 18 at 6:52 PM](https://archive.org/download/ketv-2022/ketv-2022-08-18T18:52:29.452735-05:00.lighthouse.json) |
 | [August 18 at 6:58 AM](https://archive.org/download/ketv-2022/ketv-2022-08-18T06:58:13.989135-05:00.lighthouse.json) |
 | [August 17 at 6:50 PM](https://archive.org/download/ketv-2022/ketv-2022-08-17T18:50:30.422556-05:00.lighthouse.json) |
-| [August 17 at 6:49 AM](https://archive.org/download/ketv-2022/ketv-2022-08-17T06:49:23.288564-05:00.lighthouse.json) |
-| [August 16 at 7:03 PM](https://archive.org/download/ketv-2022/ketv-2022-08-16T19:03:50.119933-05:00.lighthouse.json) |
-| [August 16 at 8:56 AM](https://archive.org/download/ketv-2022/ketv-2022-08-16T08:56:34.161807-05:00.lighthouse.json) |
-| [August 15 at 8:31 PM](https://archive.org/download/ketv-2022/ketv-2022-08-15T20:31:07.766816-05:00.lighthouse.json) |
 
 
 

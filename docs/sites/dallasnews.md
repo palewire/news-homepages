@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 125 screenshots with the Internet Archive.
+The archiving routine has saved 129 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-08-21T09:01:11.401028-05:00.jpg">
+  <img src="https://archive.org/download/dallasnews-2022/dallasnews-2022-08-21T09:01:11.401028-05:00.jpg"
+     alt="Dallas Morning News at 2022-08-21 09:01:14-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-08-21T09:01:11.401028-05:00.jpg">August 21 at 9:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-08-20T21:17:52.569274-05:00.jpg">
+  <img src="https://archive.org/download/dallasnews-2022/dallasnews-2022-08-20T21:17:52.569274-05:00.jpg"
+     alt="Dallas Morning News at 2022-08-20 21:17:56-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-08-20T21:17:52.569274-05:00.jpg">August 20 at 9:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-08-20T08:55:36.078153-05:00.jpg">
+  <img src="https://archive.org/download/dallasnews-2022/dallasnews-2022-08-20T08:55:36.078153-05:00.jpg"
+     alt="Dallas Morning News at 2022-08-20 08:55:41-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-08-20T08:55:36.078153-05:00.jpg">August 20 at 8:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-08-19T21:31:07.977048-05:00.jpg">
+  <img src="https://archive.org/download/dallasnews-2022/dallasnews-2022-08-19T21:31:07.977048-05:00.jpg"
+     alt="Dallas Morning News at 2022-08-19 21:31:10-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-08-19T21:31:07.977048-05:00.jpg">August 19 at 9:31 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-08-19T09:28:29.473206-05:00.jpg">
   <img src="https://archive.org/download/dallasnews-2022/dallasnews-2022-08-19T09:28:29.473206-05:00.jpg"
      alt="Dallas Morning News at 2022-08-19 09:28:36-05:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-08-16T01:28:06.127891-05:00.jpg">August 16 at 1:28 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-08-15T14:48:29.665904-05:00.jpg">
-  <img src="https://archive.org/download/dallasnews-2022/dallasnews-2022-08-15T14:48:29.665904-05:00.jpg"
-     alt="Dallas Morning News at 2022-08-15 14:48:33-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-08-15T14:48:29.665904-05:00.jpg">August 15 at 2:48 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-08-15T01:20:34.822900-05:00.jpg">
-  <img src="https://archive.org/download/dallasnews-2022/dallasnews-2022-08-15T01:20:34.822900-05:00.jpg"
-     alt="Dallas Morning News at 2022-08-15 01:20:38-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-08-15T01:20:34.822900-05:00.jpg">August 15 at 1:20 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-08-14T12:15:24.249788-05:00.jpg">
-  <img src="https://archive.org/download/dallasnews-2022/dallasnews-2022-08-14T12:15:24.249788-05:00.jpg"
-     alt="Dallas Morning News at 2022-08-14 12:15:26-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-08-14T12:15:24.249788-05:00.jpg">August 14 at 12:15 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-08-14T01:42:28.388163-05:00.jpg">
-  <img src="https://archive.org/download/dallasnews-2022/dallasnews-2022-08-14T01:42:28.388163-05:00.jpg"
-     alt="Dallas Morning News at 2022-08-14 01:42:29-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dallasnews-2022/dallasnews-2022-08-14T01:42:28.388163-05:00.jpg">August 14 at 1:42 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 126 hyperlink lists with the Internet Archive.
+The archiving routine has saved 130 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 9:01 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-21T09:01:11.401028-05:00.hyperlinks.json) |
+| [August 20 at 9:17 PM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-20T21:17:52.569274-05:00.hyperlinks.json) |
+| [August 20 at 8:55 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-20T08:55:36.078153-05:00.hyperlinks.json) |
+| [August 19 at 9:31 PM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-19T21:31:07.977048-05:00.hyperlinks.json) |
 | [August 19 at 9:28 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-19T09:28:29.473206-05:00.hyperlinks.json) |
 | [August 18 at 9:29 PM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-18T21:29:00.043621-05:00.hyperlinks.json) |
 | [August 18 at 9:06 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-18T09:06:07.000821-05:00.hyperlinks.json) |
 | [August 17 at 9:24 PM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-17T21:24:24.197384-05:00.hyperlinks.json) |
 | [August 17 at 10:00 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-17T10:00:09.687298-05:00.hyperlinks.json) |
 | [August 16 at 9:25 PM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-16T21:25:44.838598-05:00.hyperlinks.json) |
-| [August 16 at 1:25 PM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-16T13:25:43.525813-05:00.hyperlinks.json) |
-| [August 16 at 1:28 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-16T01:28:06.127891-05:00.hyperlinks.json) |
-| [August 15 at 2:48 PM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-15T14:48:29.665904-05:00.hyperlinks.json) |
-| [August 15 at 1:20 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-15T01:20:34.822900-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 129 accessibility trees with the Internet Archive.
+The archiving routine has saved 133 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 9:01 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-21T09:01:11.401028-05:00.accessibility.json) |
+| [August 20 at 9:17 PM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-20T21:17:52.569274-05:00.accessibility.json) |
+| [August 20 at 8:55 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-20T08:55:36.078153-05:00.accessibility.json) |
+| [August 19 at 9:31 PM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-19T21:31:07.977048-05:00.accessibility.json) |
 | [August 19 at 9:28 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-19T09:28:29.473206-05:00.accessibility.json) |
 | [August 18 at 9:29 PM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-18T21:29:00.043621-05:00.accessibility.json) |
 | [August 18 at 9:06 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-18T09:06:07.000821-05:00.accessibility.json) |
 | [August 17 at 9:24 PM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-17T21:24:24.197384-05:00.accessibility.json) |
 | [August 17 at 10:00 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-17T10:00:09.687298-05:00.accessibility.json) |
 | [August 16 at 9:25 PM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-16T21:25:44.838598-05:00.accessibility.json) |
-| [August 16 at 1:25 PM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-16T13:25:43.525813-05:00.accessibility.json) |
-| [August 16 at 1:28 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-16T01:28:06.127891-05:00.accessibility.json) |
-| [August 15 at 2:48 PM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-15T14:48:29.665904-05:00.accessibility.json) |
-| [August 15 at 1:20 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-15T01:20:34.822900-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 54 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 57 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 9:01 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-21T09:01:11.401028-05:00.lighthouse.json) |
+| [August 20 at 8:55 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-20T08:55:36.078153-05:00.lighthouse.json) |
+| [August 19 at 9:31 PM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-19T21:31:07.977048-05:00.lighthouse.json) |
 | [August 19 at 9:28 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-19T09:28:29.473206-05:00.lighthouse.json) |
 | [August 18 at 9:29 PM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-18T21:29:00.043621-05:00.lighthouse.json) |
 | [August 18 at 9:06 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-18T09:06:07.000821-05:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 17 at 10:00 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-17T10:00:09.687298-05:00.lighthouse.json) |
 | [August 16 at 9:25 PM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-16T21:25:44.838598-05:00.lighthouse.json) |
 | [August 16 at 1:25 PM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-16T13:25:43.525813-05:00.lighthouse.json) |
-| [August 16 at 1:28 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-16T01:28:06.127891-05:00.lighthouse.json) |
-| [August 15 at 2:48 PM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-15T14:48:29.665904-05:00.lighthouse.json) |
-| [August 15 at 1:20 AM](https://archive.org/download/dallasnews-2022/dallasnews-2022-08-15T01:20:34.822900-05:00.lighthouse.json) |
 
 
 

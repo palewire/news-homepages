@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 50 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-21T15:10:15.032761+02:00.jpg">
+  <img src="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-21T15:10:15.032761+02:00.jpg"
+     alt="Última Hora at 2022-08-21 15:10:16+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-21T15:10:15.032761+02:00.jpg">August 21 at 3:10 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-21T03:18:27.859106+02:00.jpg">
+  <img src="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-21T03:18:27.859106+02:00.jpg"
+     alt="Última Hora at 2022-08-21 03:18:29+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-21T03:18:27.859106+02:00.jpg">August 21 at 3:18 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-20T15:04:57.809892+02:00.jpg">
+  <img src="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-20T15:04:57.809892+02:00.jpg"
+     alt="Última Hora at 2022-08-20 15:05:02+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-20T15:04:57.809892+02:00.jpg">August 20 at 3:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-20T03:17:21.123129+02:00.jpg">
+  <img src="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-20T03:17:21.123129+02:00.jpg"
+     alt="Última Hora at 2022-08-20 03:17:22+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-20T03:17:21.123129+02:00.jpg">August 20 at 3:17 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-19T15:23:33.196711+02:00.jpg">
   <img src="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-19T15:23:33.196711+02:00.jpg"
      alt="Última Hora at 2022-08-19 15:23:38+02:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-16T08:22:55.851953+02:00.jpg">August 16 at 8:22 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-15T21:40:30.334347+02:00.jpg">
-  <img src="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-15T21:40:30.334347+02:00.jpg"
-     alt="Última Hora at 2022-08-15 21:40:33+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-15T21:40:30.334347+02:00.jpg">August 15 at 9:40 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-15T05:18:05.780127+02:00.jpg">
-  <img src="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-15T05:18:05.780127+02:00.jpg"
-     alt="Última Hora at 2022-08-15 05:18:07+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-15T05:18:05.780127+02:00.jpg">August 15 at 5:18 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-14T19:07:31.462975+02:00.jpg">
-  <img src="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-14T19:07:31.462975+02:00.jpg"
-     alt="Última Hora at 2022-08-14 19:07:32+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-14T19:07:31.462975+02:00.jpg">August 14 at 7:07 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-14T07:10:12.109052+02:00.jpg">
-  <img src="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-14T07:10:12.109052+02:00.jpg"
-     alt="Última Hora at 2022-08-14 07:10:14+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-14T07:10:12.109052+02:00.jpg">August 14 at 7:10 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 47 hyperlink lists with the Internet Archive.
+The archiving routine has saved 51 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 3:10 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-21T15:10:15.032761+02:00.hyperlinks.json) |
+| [August 21 at 3:18 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-21T03:18:27.859106+02:00.hyperlinks.json) |
+| [August 20 at 3:05 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-20T15:04:57.809892+02:00.hyperlinks.json) |
+| [August 20 at 3:17 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-20T03:17:21.123129+02:00.hyperlinks.json) |
 | [August 19 at 3:23 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-19T15:23:33.196711+02:00.hyperlinks.json) |
 | [August 19 at 3:23 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-19T03:23:30.345772+02:00.hyperlinks.json) |
 | [August 18 at 3:04 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-18T15:04:08.690572+02:00.hyperlinks.json) |
 | [August 18 at 3:17 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-18T03:17:17.349056+02:00.hyperlinks.json) |
 | [August 17 at 3:11 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-17T15:11:23.630981+02:00.hyperlinks.json) |
 | [August 17 at 3:25 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-17T03:24:56.322470+02:00.hyperlinks.json) |
-| [August 16 at 7:26 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-16T19:26:52.044316+02:00.hyperlinks.json) |
-| [August 16 at 8:23 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-16T08:22:55.851953+02:00.hyperlinks.json) |
-| [August 15 at 9:40 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-15T21:40:30.334347+02:00.hyperlinks.json) |
-| [August 15 at 5:18 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-15T05:18:05.780127+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 47 accessibility trees with the Internet Archive.
+The archiving routine has saved 51 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 3:10 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-21T15:10:15.032761+02:00.accessibility.json) |
+| [August 21 at 3:18 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-21T03:18:27.859106+02:00.accessibility.json) |
+| [August 20 at 3:05 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-20T15:04:57.809892+02:00.accessibility.json) |
+| [August 20 at 3:17 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-20T03:17:21.123129+02:00.accessibility.json) |
 | [August 19 at 3:23 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-19T15:23:33.196711+02:00.accessibility.json) |
 | [August 19 at 3:23 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-19T03:23:30.345772+02:00.accessibility.json) |
 | [August 18 at 3:04 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-18T15:04:08.690572+02:00.accessibility.json) |
 | [August 18 at 3:17 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-18T03:17:17.349056+02:00.accessibility.json) |
 | [August 17 at 3:11 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-17T15:11:23.630981+02:00.accessibility.json) |
 | [August 17 at 3:25 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-17T03:24:56.322470+02:00.accessibility.json) |
-| [August 16 at 7:26 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-16T19:26:52.044316+02:00.accessibility.json) |
-| [August 16 at 8:23 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-16T08:22:55.851953+02:00.accessibility.json) |
-| [August 15 at 9:40 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-15T21:40:30.334347+02:00.accessibility.json) |
-| [August 15 at 5:18 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-15T05:18:05.780127+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 3:10 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-21T15:10:15.032761+02:00.lighthouse.json) |
+| [August 21 at 3:18 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-21T03:18:27.859106+02:00.lighthouse.json) |
+| [August 20 at 3:05 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-20T15:04:57.809892+02:00.lighthouse.json) |
+| [August 20 at 3:17 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-20T03:17:21.123129+02:00.lighthouse.json) |
 | [August 19 at 3:23 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-19T15:23:33.196711+02:00.lighthouse.json) |
 | [August 19 at 3:23 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-19T03:23:30.345772+02:00.lighthouse.json) |
 | [August 18 at 3:04 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-18T15:04:08.690572+02:00.lighthouse.json) |
 | [August 18 at 3:17 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-18T03:17:17.349056+02:00.lighthouse.json) |
 | [August 17 at 3:11 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-17T15:11:23.630981+02:00.lighthouse.json) |
 | [August 17 at 3:25 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-17T03:24:56.322470+02:00.lighthouse.json) |
-| [August 16 at 7:26 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-16T19:26:52.044316+02:00.lighthouse.json) |
-| [August 16 at 8:23 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-16T08:22:55.851953+02:00.lighthouse.json) |
-| [August 15 at 9:40 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-15T21:40:30.334347+02:00.lighthouse.json) |
-| [August 15 at 5:18 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-08-15T05:18:05.780127+02:00.lighthouse.json) |
 
 
 

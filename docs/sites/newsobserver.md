@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 85 screenshots with the Internet Archive.
+The archiving routine has saved 89 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-08-21T10:08:58.308113-04:00.jpg">
+  <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-08-21T10:08:58.308113-04:00.jpg"
+     alt="News & Observer at 2022-08-21 10:08:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-08-21T10:08:58.308113-04:00.jpg">August 21 at 10:08 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-08-20T22:24:25.991659-04:00.jpg">
+  <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-08-20T22:24:25.991659-04:00.jpg"
+     alt="News & Observer at 2022-08-20 22:24:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-08-20T22:24:25.991659-04:00.jpg">August 20 at 10:24 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-08-20T10:02:07.468376-04:00.jpg">
+  <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-08-20T10:02:07.468376-04:00.jpg"
+     alt="News & Observer at 2022-08-20 10:02:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-08-20T10:02:07.468376-04:00.jpg">August 20 at 10:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-08-19T22:38:20.325985-04:00.jpg">
+  <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-08-19T22:38:20.325985-04:00.jpg"
+     alt="News & Observer at 2022-08-19 22:38:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-08-19T22:38:20.325985-04:00.jpg">August 19 at 10:38 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-08-19T10:36:57.558259-04:00.jpg">
   <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-08-19T10:36:57.558259-04:00.jpg"
      alt="News & Observer at 2022-08-19 10:37:02-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-08-16T02:42:59.788860-04:00.jpg">August 16 at 2:43 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-08-15T16:02:45.253690-04:00.jpg">
-  <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-08-15T16:02:45.253690-04:00.jpg"
-     alt="News & Observer at 2022-08-15 16:02:49-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-08-15T16:02:45.253690-04:00.jpg">August 15 at 4:02 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-08-15T02:35:00.785465-04:00.jpg">
-  <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-08-15T02:35:00.785465-04:00.jpg"
-     alt="News & Observer at 2022-08-15 02:35:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-08-15T02:35:00.785465-04:00.jpg">August 15 at 2:35 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-08-14T13:28:40.466114-04:00.jpg">
-  <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-08-14T13:28:40.466114-04:00.jpg"
-     alt="News & Observer at 2022-08-14 13:28:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-08-14T13:28:40.466114-04:00.jpg">August 14 at 1:28 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-08-14T02:56:43.970756-04:00.jpg">
-  <img src="https://archive.org/download/newsobserver-2022/newsobserver-2022-08-14T02:56:43.970756-04:00.jpg"
-     alt="News & Observer at 2022-08-14 02:56:47-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newsobserver-2022/newsobserver-2022-08-14T02:56:43.970756-04:00.jpg">August 14 at 2:56 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 62 hyperlink lists with the Internet Archive.
+The archiving routine has saved 66 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 10:09 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-21T10:08:58.308113-04:00.hyperlinks.json) |
+| [August 20 at 10:24 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-20T22:24:25.991659-04:00.hyperlinks.json) |
+| [August 20 at 10:02 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-20T10:02:07.468376-04:00.hyperlinks.json) |
+| [August 19 at 10:38 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-19T22:38:20.325985-04:00.hyperlinks.json) |
 | [August 19 at 10:37 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-19T10:36:57.558259-04:00.hyperlinks.json) |
 | [August 18 at 10:35 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-18T22:35:38.970036-04:00.hyperlinks.json) |
 | [August 18 at 10:13 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-18T10:13:26.472989-04:00.hyperlinks.json) |
 | [August 17 at 10:32 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-17T22:32:31.745118-04:00.hyperlinks.json) |
 | [August 17 at 11:07 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-17T11:07:33.965316-04:00.hyperlinks.json) |
 | [August 16 at 10:33 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-16T22:33:19.084481-04:00.hyperlinks.json) |
-| [August 16 at 2:43 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-16T02:42:59.788860-04:00.hyperlinks.json) |
-| [August 15 at 2:35 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-15T02:35:00.785465-04:00.hyperlinks.json) |
-| [August 14 at 1:28 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-14T13:28:40.466114-04:00.hyperlinks.json) |
-| [August 14 at 2:56 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-14T02:56:43.970756-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 84 accessibility trees with the Internet Archive.
+The archiving routine has saved 88 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 10:09 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-21T10:08:58.308113-04:00.accessibility.json) |
+| [August 20 at 10:24 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-20T22:24:25.991659-04:00.accessibility.json) |
+| [August 20 at 10:02 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-20T10:02:07.468376-04:00.accessibility.json) |
+| [August 19 at 10:38 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-19T22:38:20.325985-04:00.accessibility.json) |
 | [August 19 at 10:37 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-19T10:36:57.558259-04:00.accessibility.json) |
 | [August 18 at 10:35 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-18T22:35:38.970036-04:00.accessibility.json) |
 | [August 18 at 10:13 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-18T10:13:26.472989-04:00.accessibility.json) |
 | [August 17 at 10:32 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-17T22:32:31.745118-04:00.accessibility.json) |
 | [August 17 at 11:07 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-17T11:07:33.965316-04:00.accessibility.json) |
 | [August 16 at 10:33 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-16T22:33:19.084481-04:00.accessibility.json) |
-| [August 16 at 2:40 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-16T14:40:24.640229-04:00.accessibility.json) |
-| [August 16 at 2:43 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-16T02:42:59.788860-04:00.accessibility.json) |
-| [August 15 at 4:02 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-15T16:02:45.253690-04:00.accessibility.json) |
-| [August 15 at 2:35 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-15T02:35:00.785465-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 54 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 58 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 10:09 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-21T10:08:58.308113-04:00.lighthouse.json) |
+| [August 20 at 10:24 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-20T22:24:25.991659-04:00.lighthouse.json) |
+| [August 20 at 10:02 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-20T10:02:07.468376-04:00.lighthouse.json) |
+| [August 19 at 10:38 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-19T22:38:20.325985-04:00.lighthouse.json) |
 | [August 19 at 10:37 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-19T10:36:57.558259-04:00.lighthouse.json) |
 | [August 18 at 10:35 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-18T22:35:38.970036-04:00.lighthouse.json) |
 | [August 18 at 10:13 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-18T10:13:26.472989-04:00.lighthouse.json) |
 | [August 17 at 10:32 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-17T22:32:31.745118-04:00.lighthouse.json) |
 | [August 17 at 11:07 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-17T11:07:33.965316-04:00.lighthouse.json) |
 | [August 16 at 10:33 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-16T22:33:19.084481-04:00.lighthouse.json) |
-| [August 16 at 2:40 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-16T14:40:24.640229-04:00.lighthouse.json) |
-| [August 16 at 2:43 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-16T02:42:59.788860-04:00.lighthouse.json) |
-| [August 15 at 4:02 PM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-15T16:02:45.253690-04:00.lighthouse.json) |
-| [August 15 at 2:35 AM](https://archive.org/download/newsobserver-2022/newsobserver-2022-08-15T02:35:00.785465-04:00.lighthouse.json) |
 
 
 

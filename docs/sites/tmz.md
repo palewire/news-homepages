@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 68 screenshots with the Internet Archive.
+The archiving routine has saved 72 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/tmz-2022/tmz-2022-08-21T06:10:00.524554-07:00.jpg">
+  <img src="https://archive.org/download/tmz-2022/tmz-2022-08-21T06:10:00.524554-07:00.jpg"
+     alt="TMZ at 2022-08-21 06:10:06-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tmz-2022/tmz-2022-08-21T06:10:00.524554-07:00.jpg">August 21 at 6:10 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tmz-2022/tmz-2022-08-20T18:18:16.867006-07:00.jpg">
+  <img src="https://archive.org/download/tmz-2022/tmz-2022-08-20T18:18:16.867006-07:00.jpg"
+     alt="TMZ at 2022-08-20 18:18:18-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tmz-2022/tmz-2022-08-20T18:18:16.867006-07:00.jpg">August 20 at 6:18 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tmz-2022/tmz-2022-08-20T06:04:56.504767-07:00.jpg">
+  <img src="https://archive.org/download/tmz-2022/tmz-2022-08-20T06:04:56.504767-07:00.jpg"
+     alt="TMZ at 2022-08-20 06:05:08-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tmz-2022/tmz-2022-08-20T06:04:56.504767-07:00.jpg">August 20 at 6:05 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tmz-2022/tmz-2022-08-19T18:17:05.323522-07:00.jpg">
+  <img src="https://archive.org/download/tmz-2022/tmz-2022-08-19T18:17:05.323522-07:00.jpg"
+     alt="TMZ at 2022-08-19 18:17:07-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tmz-2022/tmz-2022-08-19T18:17:05.323522-07:00.jpg">August 19 at 6:17 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/tmz-2022/tmz-2022-08-19T06:23:09.872191-07:00.jpg">
   <img src="https://archive.org/download/tmz-2022/tmz-2022-08-19T06:23:09.872191-07:00.jpg"
      alt="TMZ at 2022-08-19 06:23:13-07:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/tmz-2022/tmz-2022-08-15T23:21:06.674027-07:00.jpg">August 15 at 11:21 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/tmz-2022/tmz-2022-08-15T12:40:08.006748-07:00.jpg">
-  <img src="https://archive.org/download/tmz-2022/tmz-2022-08-15T12:40:08.006748-07:00.jpg"
-     alt="TMZ at 2022-08-15 12:40:12-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tmz-2022/tmz-2022-08-15T12:40:08.006748-07:00.jpg">August 15 at 12:40 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tmz-2022/tmz-2022-08-14T20:16:48.349515-07:00.jpg">
-  <img src="https://archive.org/download/tmz-2022/tmz-2022-08-14T20:16:48.349515-07:00.jpg"
-     alt="TMZ at 2022-08-14 20:16:49-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tmz-2022/tmz-2022-08-14T20:16:48.349515-07:00.jpg">August 14 at 8:16 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tmz-2022/tmz-2022-08-14T10:06:54.136913-07:00.jpg">
-  <img src="https://archive.org/download/tmz-2022/tmz-2022-08-14T10:06:54.136913-07:00.jpg"
-     alt="TMZ at 2022-08-14 10:06:57-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tmz-2022/tmz-2022-08-14T10:06:54.136913-07:00.jpg">August 14 at 10:06 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tmz-2022/tmz-2022-08-13T22:10:05.785233-07:00.jpg">
-  <img src="https://archive.org/download/tmz-2022/tmz-2022-08-13T22:10:05.785233-07:00.jpg"
-     alt="TMZ at 2022-08-13 22:10:09-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tmz-2022/tmz-2022-08-13T22:10:05.785233-07:00.jpg">August 13 at 10:10 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 66 hyperlink lists with the Internet Archive.
+The archiving routine has saved 70 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 6:10 AM](https://archive.org/download/tmz-2022/tmz-2022-08-21T06:10:00.524554-07:00.hyperlinks.json) |
+| [August 20 at 6:18 PM](https://archive.org/download/tmz-2022/tmz-2022-08-20T18:18:16.867006-07:00.hyperlinks.json) |
+| [August 20 at 6:05 AM](https://archive.org/download/tmz-2022/tmz-2022-08-20T06:04:56.504767-07:00.hyperlinks.json) |
+| [August 19 at 6:17 PM](https://archive.org/download/tmz-2022/tmz-2022-08-19T18:17:05.323522-07:00.hyperlinks.json) |
 | [August 19 at 6:23 AM](https://archive.org/download/tmz-2022/tmz-2022-08-19T06:23:09.872191-07:00.hyperlinks.json) |
 | [August 18 at 6:23 PM](https://archive.org/download/tmz-2022/tmz-2022-08-18T18:23:42.950837-07:00.hyperlinks.json) |
 | [August 18 at 6:03 AM](https://archive.org/download/tmz-2022/tmz-2022-08-18T06:03:00.681766-07:00.hyperlinks.json) |
 | [August 17 at 6:17 PM](https://archive.org/download/tmz-2022/tmz-2022-08-17T18:17:23.288331-07:00.hyperlinks.json) |
 | [August 17 at 6:10 AM](https://archive.org/download/tmz-2022/tmz-2022-08-17T06:10:32.565691-07:00.hyperlinks.json) |
 | [August 16 at 6:23 PM](https://archive.org/download/tmz-2022/tmz-2022-08-16T18:23:40.638320-07:00.hyperlinks.json) |
-| [August 16 at 10:26 AM](https://archive.org/download/tmz-2022/tmz-2022-08-16T10:26:26.860115-07:00.hyperlinks.json) |
-| [August 15 at 11:21 PM](https://archive.org/download/tmz-2022/tmz-2022-08-15T23:21:06.674027-07:00.hyperlinks.json) |
-| [August 15 at 12:40 PM](https://archive.org/download/tmz-2022/tmz-2022-08-15T12:40:08.006748-07:00.hyperlinks.json) |
-| [August 14 at 8:16 PM](https://archive.org/download/tmz-2022/tmz-2022-08-14T20:16:48.349515-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 69 accessibility trees with the Internet Archive.
+The archiving routine has saved 73 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 6:10 AM](https://archive.org/download/tmz-2022/tmz-2022-08-21T06:10:00.524554-07:00.accessibility.json) |
+| [August 20 at 6:18 PM](https://archive.org/download/tmz-2022/tmz-2022-08-20T18:18:16.867006-07:00.accessibility.json) |
+| [August 20 at 6:05 AM](https://archive.org/download/tmz-2022/tmz-2022-08-20T06:04:56.504767-07:00.accessibility.json) |
+| [August 19 at 6:17 PM](https://archive.org/download/tmz-2022/tmz-2022-08-19T18:17:05.323522-07:00.accessibility.json) |
 | [August 19 at 6:23 AM](https://archive.org/download/tmz-2022/tmz-2022-08-19T06:23:09.872191-07:00.accessibility.json) |
 | [August 18 at 6:23 PM](https://archive.org/download/tmz-2022/tmz-2022-08-18T18:23:42.950837-07:00.accessibility.json) |
 | [August 18 at 6:03 AM](https://archive.org/download/tmz-2022/tmz-2022-08-18T06:03:00.681766-07:00.accessibility.json) |
 | [August 17 at 6:17 PM](https://archive.org/download/tmz-2022/tmz-2022-08-17T18:17:23.288331-07:00.accessibility.json) |
 | [August 17 at 6:10 AM](https://archive.org/download/tmz-2022/tmz-2022-08-17T06:10:32.565691-07:00.accessibility.json) |
 | [August 16 at 6:23 PM](https://archive.org/download/tmz-2022/tmz-2022-08-16T18:23:40.638320-07:00.accessibility.json) |
-| [August 16 at 10:26 AM](https://archive.org/download/tmz-2022/tmz-2022-08-16T10:26:26.860115-07:00.accessibility.json) |
-| [August 15 at 11:21 PM](https://archive.org/download/tmz-2022/tmz-2022-08-15T23:21:06.674027-07:00.accessibility.json) |
-| [August 15 at 12:40 PM](https://archive.org/download/tmz-2022/tmz-2022-08-15T12:40:08.006748-07:00.accessibility.json) |
-| [August 14 at 8:16 PM](https://archive.org/download/tmz-2022/tmz-2022-08-14T20:16:48.349515-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 56 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 60 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 6:10 AM](https://archive.org/download/tmz-2022/tmz-2022-08-21T06:10:00.524554-07:00.lighthouse.json) |
+| [August 20 at 6:18 PM](https://archive.org/download/tmz-2022/tmz-2022-08-20T18:18:16.867006-07:00.lighthouse.json) |
+| [August 20 at 6:05 AM](https://archive.org/download/tmz-2022/tmz-2022-08-20T06:04:56.504767-07:00.lighthouse.json) |
+| [August 19 at 6:17 PM](https://archive.org/download/tmz-2022/tmz-2022-08-19T18:17:05.323522-07:00.lighthouse.json) |
 | [August 19 at 6:23 AM](https://archive.org/download/tmz-2022/tmz-2022-08-19T06:23:09.872191-07:00.lighthouse.json) |
 | [August 18 at 6:23 PM](https://archive.org/download/tmz-2022/tmz-2022-08-18T18:23:42.950837-07:00.lighthouse.json) |
 | [August 18 at 6:03 AM](https://archive.org/download/tmz-2022/tmz-2022-08-18T06:03:00.681766-07:00.lighthouse.json) |
 | [August 17 at 6:17 PM](https://archive.org/download/tmz-2022/tmz-2022-08-17T18:17:23.288331-07:00.lighthouse.json) |
 | [August 17 at 6:10 AM](https://archive.org/download/tmz-2022/tmz-2022-08-17T06:10:32.565691-07:00.lighthouse.json) |
 | [August 16 at 6:23 PM](https://archive.org/download/tmz-2022/tmz-2022-08-16T18:23:40.638320-07:00.lighthouse.json) |
-| [August 16 at 10:26 AM](https://archive.org/download/tmz-2022/tmz-2022-08-16T10:26:26.860115-07:00.lighthouse.json) |
-| [August 15 at 11:21 PM](https://archive.org/download/tmz-2022/tmz-2022-08-15T23:21:06.674027-07:00.lighthouse.json) |
-| [August 15 at 12:40 PM](https://archive.org/download/tmz-2022/tmz-2022-08-15T12:40:08.006748-07:00.lighthouse.json) |
-| [August 14 at 8:16 PM](https://archive.org/download/tmz-2022/tmz-2022-08-14T20:16:48.349515-07:00.lighthouse.json) |
 
 
 

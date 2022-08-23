@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 92 screenshots with the Internet Archive.
+The archiving routine has saved 96 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thehill-2022/thehill-2022-08-21T11:02:34.137294-04:00.jpg">
+  <img src="https://archive.org/download/thehill-2022/thehill-2022-08-21T11:02:34.137294-04:00.jpg"
+     alt="The Hill at 2022-08-21 11:02:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thehill-2022/thehill-2022-08-21T11:02:34.137294-04:00.jpg">August 21 at 11:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thehill-2022/thehill-2022-08-20T23:38:33.684527-04:00.jpg">
+  <img src="https://archive.org/download/thehill-2022/thehill-2022-08-20T23:38:33.684527-04:00.jpg"
+     alt="The Hill at 2022-08-20 23:38:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thehill-2022/thehill-2022-08-20T23:38:33.684527-04:00.jpg">August 20 at 11:38 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thehill-2022/thehill-2022-08-20T10:58:09.838659-04:00.jpg">
+  <img src="https://archive.org/download/thehill-2022/thehill-2022-08-20T10:58:09.838659-04:00.jpg"
+     alt="The Hill at 2022-08-20 10:58:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thehill-2022/thehill-2022-08-20T10:58:09.838659-04:00.jpg">August 20 at 10:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thehill-2022/thehill-2022-08-19T23:40:06.868139-04:00.jpg">
+  <img src="https://archive.org/download/thehill-2022/thehill-2022-08-19T23:40:06.868139-04:00.jpg"
+     alt="The Hill at 2022-08-19 23:40:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thehill-2022/thehill-2022-08-19T23:40:06.868139-04:00.jpg">August 19 at 11:40 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thehill-2022/thehill-2022-08-19T11:32:50.719643-04:00.jpg">
   <img src="https://archive.org/download/thehill-2022/thehill-2022-08-19T11:32:50.719643-04:00.jpg"
      alt="The Hill at 2022-08-19 11:32:52-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thehill-2022/thehill-2022-08-16T14:46:59.762048-04:00.jpg">August 16 at 2:47 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thehill-2022/thehill-2022-08-16T02:55:05.184720-04:00.jpg">
-  <img src="https://archive.org/download/thehill-2022/thehill-2022-08-16T02:55:05.184720-04:00.jpg"
-     alt="The Hill at 2022-08-16 02:55:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thehill-2022/thehill-2022-08-16T02:55:05.184720-04:00.jpg">August 16 at 2:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thehill-2022/thehill-2022-08-15T16:18:07.249904-04:00.jpg">
-  <img src="https://archive.org/download/thehill-2022/thehill-2022-08-15T16:18:07.249904-04:00.jpg"
-     alt="The Hill at 2022-08-15 16:18:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thehill-2022/thehill-2022-08-15T16:18:07.249904-04:00.jpg">August 15 at 4:18 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thehill-2022/thehill-2022-08-14T15:04:48.648587-04:00.jpg">
-  <img src="https://archive.org/download/thehill-2022/thehill-2022-08-14T15:04:48.648587-04:00.jpg"
-     alt="The Hill at 2022-08-14 15:04:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thehill-2022/thehill-2022-08-14T15:04:48.648587-04:00.jpg">August 14 at 3:04 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thehill-2022/thehill-2022-08-14T03:09:05.063083-04:00.jpg">
-  <img src="https://archive.org/download/thehill-2022/thehill-2022-08-14T03:09:05.063083-04:00.jpg"
-     alt="The Hill at 2022-08-14 03:09:09-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thehill-2022/thehill-2022-08-14T03:09:05.063083-04:00.jpg">August 14 at 3:09 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 92 hyperlink lists with the Internet Archive.
+The archiving routine has saved 96 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 11:02 AM](https://archive.org/download/thehill-2022/thehill-2022-08-21T11:02:34.137294-04:00.hyperlinks.json) |
+| [August 20 at 11:38 PM](https://archive.org/download/thehill-2022/thehill-2022-08-20T23:38:33.684527-04:00.hyperlinks.json) |
+| [August 20 at 10:58 AM](https://archive.org/download/thehill-2022/thehill-2022-08-20T10:58:09.838659-04:00.hyperlinks.json) |
+| [August 19 at 11:40 PM](https://archive.org/download/thehill-2022/thehill-2022-08-19T23:40:06.868139-04:00.hyperlinks.json) |
 | [August 19 at 11:32 AM](https://archive.org/download/thehill-2022/thehill-2022-08-19T11:32:50.719643-04:00.hyperlinks.json) |
 | [August 19 at 8:13 AM](https://archive.org/download/thehill-2022/thehill-2022-08-19T08:13:14.218853-04:00.hyperlinks.json) |
 | [August 18 at 11:43 PM](https://archive.org/download/thehill-2022/thehill-2022-08-18T23:43:18.884751-04:00.hyperlinks.json) |
 | [August 18 at 11:31 AM](https://archive.org/download/thehill-2022/thehill-2022-08-18T11:30:51.356765-04:00.hyperlinks.json) |
 | [August 17 at 11:46 PM](https://archive.org/download/thehill-2022/thehill-2022-08-17T23:46:27.223580-04:00.hyperlinks.json) |
 | [August 17 at 11:12 AM](https://archive.org/download/thehill-2022/thehill-2022-08-17T11:12:26.941882-04:00.hyperlinks.json) |
-| [August 16 at 11:45 PM](https://archive.org/download/thehill-2022/thehill-2022-08-16T23:45:07.847858-04:00.hyperlinks.json) |
-| [August 16 at 2:47 PM](https://archive.org/download/thehill-2022/thehill-2022-08-16T14:46:59.762048-04:00.hyperlinks.json) |
-| [August 16 at 2:55 AM](https://archive.org/download/thehill-2022/thehill-2022-08-16T02:55:05.184720-04:00.hyperlinks.json) |
-| [August 15 at 4:18 PM](https://archive.org/download/thehill-2022/thehill-2022-08-15T16:18:07.249904-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 94 accessibility trees with the Internet Archive.
+The archiving routine has saved 98 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 11:02 AM](https://archive.org/download/thehill-2022/thehill-2022-08-21T11:02:34.137294-04:00.accessibility.json) |
+| [August 20 at 11:38 PM](https://archive.org/download/thehill-2022/thehill-2022-08-20T23:38:33.684527-04:00.accessibility.json) |
+| [August 20 at 10:58 AM](https://archive.org/download/thehill-2022/thehill-2022-08-20T10:58:09.838659-04:00.accessibility.json) |
+| [August 19 at 11:40 PM](https://archive.org/download/thehill-2022/thehill-2022-08-19T23:40:06.868139-04:00.accessibility.json) |
 | [August 19 at 11:32 AM](https://archive.org/download/thehill-2022/thehill-2022-08-19T11:32:50.719643-04:00.accessibility.json) |
 | [August 19 at 8:13 AM](https://archive.org/download/thehill-2022/thehill-2022-08-19T08:13:14.218853-04:00.accessibility.json) |
 | [August 18 at 11:43 PM](https://archive.org/download/thehill-2022/thehill-2022-08-18T23:43:18.884751-04:00.accessibility.json) |
 | [August 18 at 11:31 AM](https://archive.org/download/thehill-2022/thehill-2022-08-18T11:30:51.356765-04:00.accessibility.json) |
 | [August 17 at 11:46 PM](https://archive.org/download/thehill-2022/thehill-2022-08-17T23:46:27.223580-04:00.accessibility.json) |
 | [August 17 at 11:12 AM](https://archive.org/download/thehill-2022/thehill-2022-08-17T11:12:26.941882-04:00.accessibility.json) |
-| [August 16 at 11:45 PM](https://archive.org/download/thehill-2022/thehill-2022-08-16T23:45:07.847858-04:00.accessibility.json) |
-| [August 16 at 2:47 PM](https://archive.org/download/thehill-2022/thehill-2022-08-16T14:46:59.762048-04:00.accessibility.json) |
-| [August 16 at 2:55 AM](https://archive.org/download/thehill-2022/thehill-2022-08-16T02:55:05.184720-04:00.accessibility.json) |
-| [August 15 at 4:18 PM](https://archive.org/download/thehill-2022/thehill-2022-08-15T16:18:07.249904-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 59 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 11:02 AM](https://archive.org/download/thehill-2022/thehill-2022-08-21T11:02:34.137294-04:00.lighthouse.json) |
+| [August 20 at 11:38 PM](https://archive.org/download/thehill-2022/thehill-2022-08-20T23:38:33.684527-04:00.lighthouse.json) |
+| [August 20 at 10:58 AM](https://archive.org/download/thehill-2022/thehill-2022-08-20T10:58:09.838659-04:00.lighthouse.json) |
+| [August 19 at 11:40 PM](https://archive.org/download/thehill-2022/thehill-2022-08-19T23:40:06.868139-04:00.lighthouse.json) |
 | [August 19 at 11:32 AM](https://archive.org/download/thehill-2022/thehill-2022-08-19T11:32:50.719643-04:00.lighthouse.json) |
 | [August 19 at 8:13 AM](https://archive.org/download/thehill-2022/thehill-2022-08-19T08:13:14.218853-04:00.lighthouse.json) |
 | [August 18 at 11:43 PM](https://archive.org/download/thehill-2022/thehill-2022-08-18T23:43:18.884751-04:00.lighthouse.json) |
 | [August 18 at 11:31 AM](https://archive.org/download/thehill-2022/thehill-2022-08-18T11:30:51.356765-04:00.lighthouse.json) |
 | [August 17 at 11:46 PM](https://archive.org/download/thehill-2022/thehill-2022-08-17T23:46:27.223580-04:00.lighthouse.json) |
 | [August 17 at 11:12 AM](https://archive.org/download/thehill-2022/thehill-2022-08-17T11:12:26.941882-04:00.lighthouse.json) |
-| [August 16 at 11:45 PM](https://archive.org/download/thehill-2022/thehill-2022-08-16T23:45:07.847858-04:00.lighthouse.json) |
-| [August 16 at 2:47 PM](https://archive.org/download/thehill-2022/thehill-2022-08-16T14:46:59.762048-04:00.lighthouse.json) |
-| [August 16 at 2:55 AM](https://archive.org/download/thehill-2022/thehill-2022-08-16T02:55:05.184720-04:00.lighthouse.json) |
-| [August 15 at 4:18 PM](https://archive.org/download/thehill-2022/thehill-2022-08-15T16:18:07.249904-04:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 41 screenshots with the Internet Archive.
+The archiving routine has saved 46 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,51 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/opovo-2022/opovo-2022-08-21T11:58:44.860578-03:00.jpg">
+  <img src="https://archive.org/download/opovo-2022/opovo-2022-08-21T11:58:44.860578-03:00.jpg"
+     alt="O Povo at 2022-08-21 11:58:46-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/opovo-2022/opovo-2022-08-21T11:58:44.860578-03:00.jpg">August 21 at 11:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/opovo-2022/opovo-2022-08-21T08:56:56.200908-03:00.jpg">
+  <img src="https://archive.org/download/opovo-2022/opovo-2022-08-21T08:56:56.200908-03:00.jpg"
+     alt="O Povo at 2022-08-21 08:56:58-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/opovo-2022/opovo-2022-08-21T08:56:56.200908-03:00.jpg">August 21 at 8:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/opovo-2022/opovo-2022-08-21T00:34:19.219015-03:00.jpg">
+  <img src="https://archive.org/download/opovo-2022/opovo-2022-08-21T00:34:19.219015-03:00.jpg"
+     alt="O Povo at 2022-08-21 00:34:20-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/opovo-2022/opovo-2022-08-21T00:34:19.219015-03:00.jpg">August 21 at 12:34 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/opovo-2022/opovo-2022-08-20T09:03:48.949845-03:00.jpg">
+  <img src="https://archive.org/download/opovo-2022/opovo-2022-08-20T09:03:48.949845-03:00.jpg"
+     alt="O Povo at 2022-08-20 09:03:50-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/opovo-2022/opovo-2022-08-20T09:03:48.949845-03:00.jpg">August 20 at 9:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/opovo-2022/opovo-2022-08-20T00:35:03.851672-03:00.jpg">
+  <img src="https://archive.org/download/opovo-2022/opovo-2022-08-20T00:35:03.851672-03:00.jpg"
+     alt="O Povo at 2022-08-20 00:35:05-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/opovo-2022/opovo-2022-08-20T00:35:03.851672-03:00.jpg">August 20 at 12:35 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/opovo-2022/opovo-2022-08-19T12:28:19.743618-03:00.jpg">
   <img src="https://archive.org/download/opovo-2022/opovo-2022-08-19T12:28:19.743618-03:00.jpg"
      alt="O Povo at 2022-08-19 12:28:23-03:00 local time"
@@ -388,56 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/opovo-2022/opovo-2022-08-17T12:08:18.897699-03:00.jpg">August 17 at 12:08 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/opovo-2022/opovo-2022-08-17T00:41:18.639818-03:00.jpg">
-  <img src="https://archive.org/download/opovo-2022/opovo-2022-08-17T00:41:18.639818-03:00.jpg"
-     alt="O Povo at 2022-08-17 00:41:20-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/opovo-2022/opovo-2022-08-17T00:41:18.639818-03:00.jpg">August 17 at 12:41 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/opovo-2022/opovo-2022-08-16T15:42:03.115721-03:00.jpg">
-  <img src="https://archive.org/download/opovo-2022/opovo-2022-08-16T15:42:03.115721-03:00.jpg"
-     alt="O Povo at 2022-08-16 15:42:04-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/opovo-2022/opovo-2022-08-16T15:42:03.115721-03:00.jpg">August 16 at 3:42 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/opovo-2022/opovo-2022-08-16T03:45:52.530507-03:00.jpg">
-  <img src="https://archive.org/download/opovo-2022/opovo-2022-08-16T03:45:52.530507-03:00.jpg"
-     alt="O Povo at 2022-08-16 03:45:57-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/opovo-2022/opovo-2022-08-16T03:45:52.530507-03:00.jpg">August 16 at 3:45 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/opovo-2022/opovo-2022-08-15T17:07:15.318277-03:00.jpg">
-  <img src="https://archive.org/download/opovo-2022/opovo-2022-08-15T17:07:15.318277-03:00.jpg"
-     alt="O Povo at 2022-08-15 17:07:17-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/opovo-2022/opovo-2022-08-15T17:07:15.318277-03:00.jpg">August 15 at 5:07 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/opovo-2022/opovo-2022-08-15T11:04:55.009498-03:00.jpg">
-  <img src="https://archive.org/download/opovo-2022/opovo-2022-08-15T11:04:55.009498-03:00.jpg"
-     alt="O Povo at 2022-08-15 11:04:56-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/opovo-2022/opovo-2022-08-15T11:04:55.009498-03:00.jpg">August 15 at 11:04 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 38 hyperlink lists with the Internet Archive.
+The archiving routine has saved 44 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 11:58 AM](https://archive.org/download/opovo-2022/opovo-2022-08-21T11:58:44.860578-03:00.hyperlinks.json) |
+| [August 21 at 8:57 AM](https://archive.org/download/opovo-2022/opovo-2022-08-21T08:56:56.200908-03:00.hyperlinks.json) |
+| [August 21 at 12:34 AM](https://archive.org/download/opovo-2022/opovo-2022-08-21T00:34:19.219015-03:00.hyperlinks.json) |
+| [August 20 at 11:53 AM](https://archive.org/download/opovo-2022/opovo-2022-08-20T11:53:28.561211-03:00.hyperlinks.json) |
+| [August 20 at 9:03 AM](https://archive.org/download/opovo-2022/opovo-2022-08-20T09:03:48.949845-03:00.hyperlinks.json) |
+| [August 20 at 12:35 AM](https://archive.org/download/opovo-2022/opovo-2022-08-20T00:35:03.851672-03:00.hyperlinks.json) |
 | [August 19 at 12:28 PM](https://archive.org/download/opovo-2022/opovo-2022-08-19T12:28:19.743618-03:00.hyperlinks.json) |
 | [August 19 at 9:09 AM](https://archive.org/download/opovo-2022/opovo-2022-08-19T09:08:59.732859-03:00.hyperlinks.json) |
 | [August 19 at 12:38 AM](https://archive.org/download/opovo-2022/opovo-2022-08-19T00:38:48.980269-03:00.hyperlinks.json) |
 | [August 18 at 12:22 PM](https://archive.org/download/opovo-2022/opovo-2022-08-18T12:22:23.862354-03:00.hyperlinks.json) |
-| [August 18 at 9:06 AM](https://archive.org/download/opovo-2022/opovo-2022-08-18T09:06:10.887394-03:00.hyperlinks.json) |
-| [August 18 at 12:42 AM](https://archive.org/download/opovo-2022/opovo-2022-08-18T00:42:30.854600-03:00.hyperlinks.json) |
-| [August 17 at 12:08 PM](https://archive.org/download/opovo-2022/opovo-2022-08-17T12:08:18.897699-03:00.hyperlinks.json) |
-| [August 17 at 12:41 AM](https://archive.org/download/opovo-2022/opovo-2022-08-17T00:41:18.639818-03:00.hyperlinks.json) |
-| [August 16 at 3:42 PM](https://archive.org/download/opovo-2022/opovo-2022-08-16T15:42:03.115721-03:00.hyperlinks.json) |
-| [August 16 at 3:46 AM](https://archive.org/download/opovo-2022/opovo-2022-08-16T03:45:52.530507-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 18 accessibility trees with the Internet Archive.
+The archiving routine has saved 22 accessibility trees with the Internet Archive.
 
 
 
@@ -550,22 +550,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 11:58 AM](https://archive.org/download/opovo-2022/opovo-2022-08-21T11:58:44.860578-03:00.accessibility.json) |
+| [August 21 at 8:56 AM](https://archive.org/download/opovo-2022/opovo-2022-08-21T08:56:56.200908-03:00.accessibility.json) |
+| [August 20 at 11:53 AM](https://archive.org/download/opovo-2022/opovo-2022-08-20T11:53:28.561211-03:00.accessibility.json) |
+| [August 20 at 9:03 AM](https://archive.org/download/opovo-2022/opovo-2022-08-20T09:03:48.949845-03:00.accessibility.json) |
 | [August 19 at 9:09 AM](https://archive.org/download/opovo-2022/opovo-2022-08-19T09:08:59.732859-03:00.accessibility.json) |
 | [August 19 at 12:38 AM](https://archive.org/download/opovo-2022/opovo-2022-08-19T00:38:48.980269-03:00.accessibility.json) |
 | [August 18 at 9:06 AM](https://archive.org/download/opovo-2022/opovo-2022-08-18T09:06:10.887394-03:00.accessibility.json) |
 | [August 18 at 12:42 AM](https://archive.org/download/opovo-2022/opovo-2022-08-18T00:42:30.854600-03:00.accessibility.json) |
 | [August 16 at 3:42 PM](https://archive.org/download/opovo-2022/opovo-2022-08-16T15:42:03.115721-03:00.accessibility.json) |
 | [August 16 at 3:45 AM](https://archive.org/download/opovo-2022/opovo-2022-08-16T03:45:52.530507-03:00.accessibility.json) |
-| [August 15 at 5:07 PM](https://archive.org/download/opovo-2022/opovo-2022-08-15T17:07:15.318277-03:00.accessibility.json) |
-| [August 15 at 11:04 AM](https://archive.org/download/opovo-2022/opovo-2022-08-15T11:04:55.009498-03:00.accessibility.json) |
-| [August 14 at 3:59 AM](https://archive.org/download/opovo-2022/opovo-2022-08-14T03:58:58.782066-03:00.accessibility.json) |
-| [August 13 at 5:54 PM](https://archive.org/download/opovo-2022/opovo-2022-08-13T17:54:05.326532-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -656,16 +656,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 11:58 AM](https://archive.org/download/opovo-2022/opovo-2022-08-21T11:58:44.860578-03:00.lighthouse.json) |
+| [August 21 at 8:57 AM](https://archive.org/download/opovo-2022/opovo-2022-08-21T08:56:56.200908-03:00.lighthouse.json) |
+| [August 21 at 12:34 AM](https://archive.org/download/opovo-2022/opovo-2022-08-21T00:34:19.219015-03:00.lighthouse.json) |
+| [August 20 at 12:35 AM](https://archive.org/download/opovo-2022/opovo-2022-08-20T00:35:03.851672-03:00.lighthouse.json) |
 | [August 19 at 12:28 PM](https://archive.org/download/opovo-2022/opovo-2022-08-19T12:28:19.743618-03:00.lighthouse.json) |
 | [August 19 at 9:09 AM](https://archive.org/download/opovo-2022/opovo-2022-08-19T09:08:59.732859-03:00.lighthouse.json) |
 | [August 19 at 12:38 AM](https://archive.org/download/opovo-2022/opovo-2022-08-19T00:38:48.980269-03:00.lighthouse.json) |
 | [August 18 at 12:22 PM](https://archive.org/download/opovo-2022/opovo-2022-08-18T12:22:23.862354-03:00.lighthouse.json) |
 | [August 18 at 9:06 AM](https://archive.org/download/opovo-2022/opovo-2022-08-18T09:06:10.887394-03:00.lighthouse.json) |
 | [August 18 at 12:42 AM](https://archive.org/download/opovo-2022/opovo-2022-08-18T00:42:30.854600-03:00.lighthouse.json) |
-| [August 17 at 12:08 PM](https://archive.org/download/opovo-2022/opovo-2022-08-17T12:08:18.897699-03:00.lighthouse.json) |
-| [August 17 at 12:41 AM](https://archive.org/download/opovo-2022/opovo-2022-08-17T00:41:18.639818-03:00.lighthouse.json) |
-| [August 16 at 3:42 PM](https://archive.org/download/opovo-2022/opovo-2022-08-16T15:42:03.115721-03:00.lighthouse.json) |
-| [August 16 at 3:46 AM](https://archive.org/download/opovo-2022/opovo-2022-08-16T03:45:52.530507-03:00.lighthouse.json) |
 
 
 

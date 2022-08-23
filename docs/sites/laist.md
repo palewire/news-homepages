@@ -437,7 +437,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 340 hyperlink lists with the Internet Archive.
+The archiving routine has saved 346 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 11:30 AM](https://archive.org/download/laist-2022/laist-2022-08-21T11:30:24.730892-07:00.hyperlinks.json) |
+| [August 21 at 7:06 AM](https://archive.org/download/laist-2022/laist-2022-08-21T07:06:07.209863-07:00.hyperlinks.json) |
+| [August 20 at 7:23 PM](https://archive.org/download/laist-2022/laist-2022-08-20T19:23:05.319343-07:00.hyperlinks.json) |
+| [August 20 at 11:29 AM](https://archive.org/download/laist-2022/laist-2022-08-20T11:29:35.995062-07:00.hyperlinks.json) |
+| [August 20 at 6:59 AM](https://archive.org/download/laist-2022/laist-2022-08-20T06:59:15.400035-07:00.hyperlinks.json) |
+| [August 19 at 7:36 PM](https://archive.org/download/laist-2022/laist-2022-08-19T19:35:55.870653-07:00.hyperlinks.json) |
 | [August 19 at 11:37 AM](https://archive.org/download/laist-2022/laist-2022-08-19T11:37:17.252641-07:00.hyperlinks.json) |
 | [August 19 at 7:34 AM](https://archive.org/download/laist-2022/laist-2022-08-19T07:33:53.563201-07:00.hyperlinks.json) |
 | [August 18 at 7:33 PM](https://archive.org/download/laist-2022/laist-2022-08-18T19:33:36.160541-07:00.hyperlinks.json) |
 | [August 18 at 11:28 AM](https://archive.org/download/laist-2022/laist-2022-08-18T11:27:43.665842-07:00.hyperlinks.json) |
-| [August 18 at 7:10 AM](https://archive.org/download/laist-2022/laist-2022-08-18T07:10:14.464285-07:00.hyperlinks.json) |
-| [August 17 at 7:30 PM](https://archive.org/download/laist-2022/laist-2022-08-17T19:30:00.764002-07:00.hyperlinks.json) |
-| [August 17 at 11:37 AM](https://archive.org/download/laist-2022/laist-2022-08-17T11:37:41.942408-07:00.hyperlinks.json) |
-| [August 17 at 8:05 AM](https://archive.org/download/laist-2022/laist-2022-08-17T08:04:45.005331-07:00.hyperlinks.json) |
-| [August 16 at 7:30 PM](https://archive.org/download/laist-2022/laist-2022-08-16T19:30:38.947600-07:00.hyperlinks.json) |
-| [August 16 at 11:35 AM](https://archive.org/download/laist-2022/laist-2022-08-16T11:35:10.765777-07:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 78 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 84 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 11:30 AM](https://archive.org/download/laist-2022/laist-2022-08-21T11:30:24.730892-07:00.lighthouse.json) |
+| [August 21 at 7:06 AM](https://archive.org/download/laist-2022/laist-2022-08-21T07:06:07.209863-07:00.lighthouse.json) |
+| [August 20 at 7:23 PM](https://archive.org/download/laist-2022/laist-2022-08-20T19:23:05.319343-07:00.lighthouse.json) |
+| [August 20 at 11:29 AM](https://archive.org/download/laist-2022/laist-2022-08-20T11:29:35.995062-07:00.lighthouse.json) |
+| [August 20 at 6:59 AM](https://archive.org/download/laist-2022/laist-2022-08-20T06:59:15.400035-07:00.lighthouse.json) |
+| [August 19 at 7:36 PM](https://archive.org/download/laist-2022/laist-2022-08-19T19:35:55.870653-07:00.lighthouse.json) |
 | [August 19 at 11:37 AM](https://archive.org/download/laist-2022/laist-2022-08-19T11:37:17.252641-07:00.lighthouse.json) |
 | [August 19 at 7:34 AM](https://archive.org/download/laist-2022/laist-2022-08-19T07:33:53.563201-07:00.lighthouse.json) |
 | [August 18 at 7:33 PM](https://archive.org/download/laist-2022/laist-2022-08-18T19:33:36.160541-07:00.lighthouse.json) |
 | [August 18 at 11:28 AM](https://archive.org/download/laist-2022/laist-2022-08-18T11:27:43.665842-07:00.lighthouse.json) |
-| [August 18 at 7:10 AM](https://archive.org/download/laist-2022/laist-2022-08-18T07:10:14.464285-07:00.lighthouse.json) |
-| [August 17 at 7:30 PM](https://archive.org/download/laist-2022/laist-2022-08-17T19:30:00.764002-07:00.lighthouse.json) |
-| [August 17 at 11:37 AM](https://archive.org/download/laist-2022/laist-2022-08-17T11:37:41.942408-07:00.lighthouse.json) |
-| [August 17 at 8:05 AM](https://archive.org/download/laist-2022/laist-2022-08-17T08:04:45.005331-07:00.lighthouse.json) |
-| [August 16 at 7:30 PM](https://archive.org/download/laist-2022/laist-2022-08-16T19:30:38.947600-07:00.lighthouse.json) |
-| [August 16 at 11:35 AM](https://archive.org/download/laist-2022/laist-2022-08-16T11:35:10.765777-07:00.lighthouse.json) |
 
 
 

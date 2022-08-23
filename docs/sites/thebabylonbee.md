@@ -234,13 +234,132 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 30 screenshots with the Internet Archive.
+The archiving routine has saved 34 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/thebabylonbee.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-21T09:08:45.531784-04:00.jpg">
+  <img src="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-21T09:08:45.531784-04:00.jpg"
+     alt="Babylon Bee at 2022-08-21 09:08:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-21T09:08:45.531784-04:00.jpg">August 21 at 9:08 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-20T21:17:04.428137-04:00.jpg">
+  <img src="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-20T21:17:04.428137-04:00.jpg"
+     alt="Babylon Bee at 2022-08-20 21:17:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-20T21:17:04.428137-04:00.jpg">August 20 at 9:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-20T09:03:33.574825-04:00.jpg">
+  <img src="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-20T09:03:33.574825-04:00.jpg"
+     alt="Babylon Bee at 2022-08-20 09:03:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-20T09:03:33.574825-04:00.jpg">August 20 at 9:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-19T21:15:45.019943-04:00.jpg">
+  <img src="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-19T21:15:45.019943-04:00.jpg"
+     alt="Babylon Bee at 2022-08-19 21:15:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-19T21:15:45.019943-04:00.jpg">August 19 at 9:15 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-19T09:21:37.830735-04:00.jpg">
@@ -314,42 +433,6 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-16T02:18:15.754901-04:00.jpg">August 16 at 2:18 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-15T15:37:02.340993-04:00.jpg">
-  <img src="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-15T15:37:02.340993-04:00.jpg"
-     alt="Babylon Bee at 2022-08-15 15:37:06-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-15T15:37:02.340993-04:00.jpg">August 15 at 3:37 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-14T23:13:55.025622-04:00.jpg">
-  <img src="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-14T23:13:55.025622-04:00.jpg"
-     alt="Babylon Bee at 2022-08-14 23:13:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-14T23:13:55.025622-04:00.jpg">August 14 at 11:13 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-14T13:04:25.499416-04:00.jpg">
-  <img src="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-14T13:04:25.499416-04:00.jpg"
-     alt="Babylon Bee at 2022-08-14 13:04:26-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-14T13:04:25.499416-04:00.jpg">August 14 at 1:04 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-14T01:05:35.583701-04:00.jpg">
-  <img src="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-14T01:05:35.583701-04:00.jpg"
-     alt="Babylon Bee at 2022-08-14 01:05:37-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-14T01:05:35.583701-04:00.jpg">August 14 at 1:05 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
@@ -399,7 +482,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -490,16 +573,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 9:08 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-21T09:08:45.531784-04:00.lighthouse.json) |
+| [August 20 at 9:17 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-20T21:17:04.428137-04:00.lighthouse.json) |
+| [August 20 at 9:03 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-20T09:03:33.574825-04:00.lighthouse.json) |
+| [August 19 at 9:15 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-19T21:15:45.019943-04:00.lighthouse.json) |
 | [August 19 at 9:21 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-19T09:21:37.830735-04:00.lighthouse.json) |
 | [August 18 at 9:21 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-18T21:21:50.726391-04:00.lighthouse.json) |
 | [August 18 at 9:01 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-18T09:01:56.356734-04:00.lighthouse.json) |
 | [August 17 at 9:15 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-17T21:15:44.797672-04:00.lighthouse.json) |
 | [August 17 at 9:09 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-17T09:09:13.489298-04:00.lighthouse.json) |
 | [August 16 at 9:23 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-16T21:22:58.346748-04:00.lighthouse.json) |
-| [August 16 at 1:22 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-16T13:22:41.531162-04:00.lighthouse.json) |
-| [August 16 at 2:18 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-16T02:18:15.754901-04:00.lighthouse.json) |
-| [August 15 at 3:37 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-15T15:37:02.340993-04:00.lighthouse.json) |
-| [August 14 at 11:14 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-14T23:13:55.025622-04:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 79 screenshots with the Internet Archive.
+The archiving routine has saved 83 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-21T09:04:40.652166-04:00.jpg">
+  <img src="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-21T09:04:40.652166-04:00.jpg"
+     alt="Baltimore Beat at 2022-08-21 09:04:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-21T09:04:40.652166-04:00.jpg">August 21 at 9:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-20T21:13:14.898344-04:00.jpg">
+  <img src="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-20T21:13:14.898344-04:00.jpg"
+     alt="Baltimore Beat at 2022-08-20 21:13:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-20T21:13:14.898344-04:00.jpg">August 20 at 9:13 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-20T09:00:42.519366-04:00.jpg">
+  <img src="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-20T09:00:42.519366-04:00.jpg"
+     alt="Baltimore Beat at 2022-08-20 09:00:45-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-20T09:00:42.519366-04:00.jpg">August 20 at 9:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-19T21:12:18.560330-04:00.jpg">
+  <img src="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-19T21:12:18.560330-04:00.jpg"
+     alt="Baltimore Beat at 2022-08-19 21:12:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-19T21:12:18.560330-04:00.jpg">August 19 at 9:12 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-19T09:17:00.989335-04:00.jpg">
   <img src="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-19T09:17:00.989335-04:00.jpg"
      alt="Baltimore Beat at 2022-08-19 09:17:08-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-16T02:12:07.219325-04:00.jpg">August 16 at 2:12 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-15T15:29:37.795809-04:00.jpg">
-  <img src="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-15T15:29:37.795809-04:00.jpg"
-     alt="Baltimore Beat at 2022-08-15 15:29:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-15T15:29:37.795809-04:00.jpg">August 15 at 3:29 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-14T23:06:44.484798-04:00.jpg">
-  <img src="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-14T23:06:44.484798-04:00.jpg"
-     alt="Baltimore Beat at 2022-08-14 23:06:46-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-14T23:06:44.484798-04:00.jpg">August 14 at 11:06 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-14T12:57:43.456580-04:00.jpg">
-  <img src="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-14T12:57:43.456580-04:00.jpg"
-     alt="Baltimore Beat at 2022-08-14 12:57:46-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-14T12:57:43.456580-04:00.jpg">August 14 at 12:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-14T00:59:21.374579-04:00.jpg">
-  <img src="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-14T00:59:21.374579-04:00.jpg"
-     alt="Baltimore Beat at 2022-08-14 00:59:22-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-14T00:59:21.374579-04:00.jpg">August 14 at 12:59 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 80 hyperlink lists with the Internet Archive.
+The archiving routine has saved 84 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 9:04 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-21T09:04:40.652166-04:00.hyperlinks.json) |
+| [August 20 at 9:13 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-20T21:13:14.898344-04:00.hyperlinks.json) |
+| [August 20 at 9:00 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-20T09:00:42.519366-04:00.hyperlinks.json) |
+| [August 19 at 9:12 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-19T21:12:18.560330-04:00.hyperlinks.json) |
 | [August 19 at 9:17 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-19T09:17:00.989335-04:00.hyperlinks.json) |
 | [August 18 at 9:17 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-18T21:17:04.474256-04:00.hyperlinks.json) |
 | [August 18 at 8:59 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-18T08:59:04.745277-04:00.hyperlinks.json) |
 | [August 17 at 9:12 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-17T21:12:34.785393-04:00.hyperlinks.json) |
 | [August 17 at 9:06 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-17T09:05:52.808719-04:00.hyperlinks.json) |
 | [August 16 at 9:19 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-16T21:18:58.848635-04:00.hyperlinks.json) |
-| [August 16 at 1:16 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-16T13:16:16.493866-04:00.hyperlinks.json) |
-| [August 16 at 2:12 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-16T02:12:07.219325-04:00.hyperlinks.json) |
-| [August 15 at 3:29 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-15T15:29:37.795809-04:00.hyperlinks.json) |
-| [August 14 at 11:06 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-14T23:06:44.484798-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 80 accessibility trees with the Internet Archive.
+The archiving routine has saved 84 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 9:04 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-21T09:04:40.652166-04:00.accessibility.json) |
+| [August 20 at 9:13 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-20T21:13:14.898344-04:00.accessibility.json) |
+| [August 20 at 9:00 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-20T09:00:42.519366-04:00.accessibility.json) |
+| [August 19 at 9:12 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-19T21:12:18.560330-04:00.accessibility.json) |
 | [August 19 at 9:17 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-19T09:17:00.989335-04:00.accessibility.json) |
 | [August 18 at 9:17 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-18T21:17:04.474256-04:00.accessibility.json) |
 | [August 18 at 8:59 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-18T08:59:04.745277-04:00.accessibility.json) |
 | [August 17 at 9:12 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-17T21:12:34.785393-04:00.accessibility.json) |
 | [August 17 at 9:05 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-17T09:05:52.808719-04:00.accessibility.json) |
 | [August 16 at 9:19 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-16T21:18:58.848635-04:00.accessibility.json) |
-| [August 16 at 1:16 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-16T13:16:16.493866-04:00.accessibility.json) |
-| [August 16 at 2:12 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-16T02:12:07.219325-04:00.accessibility.json) |
-| [August 15 at 3:29 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-15T15:29:37.795809-04:00.accessibility.json) |
-| [August 14 at 11:06 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-14T23:06:44.484798-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 57 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 61 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 9:04 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-21T09:04:40.652166-04:00.lighthouse.json) |
+| [August 20 at 9:13 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-20T21:13:14.898344-04:00.lighthouse.json) |
+| [August 20 at 9:00 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-20T09:00:42.519366-04:00.lighthouse.json) |
+| [August 19 at 9:12 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-19T21:12:18.560330-04:00.lighthouse.json) |
 | [August 19 at 9:17 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-19T09:17:00.989335-04:00.lighthouse.json) |
 | [August 18 at 9:17 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-18T21:17:04.474256-04:00.lighthouse.json) |
 | [August 18 at 8:59 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-18T08:59:04.745277-04:00.lighthouse.json) |
 | [August 17 at 9:12 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-17T21:12:34.785393-04:00.lighthouse.json) |
 | [August 17 at 9:06 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-17T09:05:52.808719-04:00.lighthouse.json) |
 | [August 16 at 9:19 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-16T21:18:58.848635-04:00.lighthouse.json) |
-| [August 16 at 1:16 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-16T13:16:16.493866-04:00.lighthouse.json) |
-| [August 16 at 2:12 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-16T02:12:07.219325-04:00.lighthouse.json) |
-| [August 15 at 3:29 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-15T15:29:37.795809-04:00.lighthouse.json) |
-| [August 14 at 11:06 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-08-14T23:06:44.484798-04:00.lighthouse.json) |
 
 
 

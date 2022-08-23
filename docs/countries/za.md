@@ -7,9 +7,18 @@ orphan: true
 
 # South Africa
 
-The most recent homepages from 14 news sites in this country.
+The most recent homepages from 18 news sites in this country.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/amabhungane.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/amabhungane.jpg"
+     alt="amaBhungane"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/amabhungane.html">amaBhungane</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/dailymaverick.html">
@@ -18,6 +27,15 @@ The most recent homepages from 14 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/dailymaverick.html">Daily Maverick</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/dailysunsa.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailysunsa.jpg"
+     alt="Daily Sun"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/dailysunsa.html">Daily Sun</a></p>
 </div>
 
 <div class="latest-child">
@@ -111,6 +129,24 @@ The most recent homepages from 14 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/oxciej.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oxciej.jpg"
+     alt="Oxpeckers"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/oxciej.html">Oxpeckers</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/sowetanlive.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sowetanlive.jpg"
+     alt="Sowetan"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/sowetanlive.html">Sowetan</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/thesanews.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thesanews.jpg"
      alt="The South African"
@@ -151,7 +187,9 @@ The most recent homepages from 14 news sites in this country.
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
+|[amaBhungane](https://palewi.re/docs/news-homepages/sites/amabhungane.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/amabhungane.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/amabhungane.xml)|
 |[Daily Maverick](https://palewi.re/docs/news-homepages/sites/dailymaverick.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailymaverick.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailymaverick.xml)|
+|[Daily Sun](https://palewi.re/docs/news-homepages/sites/dailysunsa.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailysunsa.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailysunsa.xml)|
 |[eNCA](https://palewi.re/docs/news-homepages/sites/enca.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/enca.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/enca.xml)|
 |[Eyethu KwaZulu-Natal](https://palewi.re/docs/news-homepages/sites/eyethunewskzn.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/eyethunewskzn.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/eyethunewskzn.xml)|
 |[Eyewitness News](https://palewi.re/docs/news-homepages/sites/ewnreporter.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ewnreporter.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ewnreporter.xml)|
@@ -162,6 +200,8 @@ The most recent homepages from 14 news sites in this country.
 |[Maroela Media](https://palewi.re/docs/news-homepages/sites/maroelamedia.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/maroelamedia.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/maroelamedia.xml)|
 |[Netwerk24](https://palewi.re/docs/news-homepages/sites/netwerk24.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/netwerk24.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/netwerk24.xml)|
 |[news24](https://palewi.re/docs/news-homepages/sites/news24.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/news24.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/news24.xml)|
+|[Oxpeckers](https://palewi.re/docs/news-homepages/sites/oxciej.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oxciej.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/oxciej.xml)|
+|[Sowetan](https://palewi.re/docs/news-homepages/sites/sowetanlive.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sowetanlive.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sowetanlive.xml)|
 |[The South African](https://palewi.re/docs/news-homepages/sites/thesanews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thesanews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thesanews.xml)|
 |[TimesLIVE](https://palewi.re/docs/news-homepages/sites/timeslive.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/timeslive.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/timeslive.xml)|
 |[Vrye Weekblad](https://palewi.re/docs/news-homepages/sites/vryeweekblad.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/vryeweekblad.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/vryeweekblad.xml)|

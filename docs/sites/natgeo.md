@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 95 screenshots with the Internet Archive.
+The archiving routine has saved 99 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-21T19:56:06.816105-04:00.jpg">
+  <img src="https://archive.org/download/natgeo-2022/natgeo-2022-08-21T19:56:06.816105-04:00.jpg"
+     alt="National Geographic at 2022-08-21 19:56:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-21T19:56:06.816105-04:00.jpg">August 21 at 7:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-21T08:02:26.649322-04:00.jpg">
+  <img src="https://archive.org/download/natgeo-2022/natgeo-2022-08-21T08:02:26.649322-04:00.jpg"
+     alt="National Geographic at 2022-08-21 08:02:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-21T08:02:26.649322-04:00.jpg">August 21 at 8:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-20T19:56:42.400303-04:00.jpg">
+  <img src="https://archive.org/download/natgeo-2022/natgeo-2022-08-20T19:56:42.400303-04:00.jpg"
+     alt="National Geographic at 2022-08-20 19:56:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-20T19:56:42.400303-04:00.jpg">August 20 at 7:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-20T07:58:25.587328-04:00.jpg">
+  <img src="https://archive.org/download/natgeo-2022/natgeo-2022-08-20T07:58:25.587328-04:00.jpg"
+     alt="National Geographic at 2022-08-20 07:58:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-20T07:58:25.587328-04:00.jpg">August 20 at 7:58 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-19T19:56:13.837910-04:00.jpg">
   <img src="https://archive.org/download/natgeo-2022/natgeo-2022-08-19T19:56:13.837910-04:00.jpg"
      alt="National Geographic at 2022-08-19 19:56:17-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-16T20:08:16.399408-04:00.jpg">August 16 at 8:08 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-16T10:02:50.762180-04:00.jpg">
-  <img src="https://archive.org/download/natgeo-2022/natgeo-2022-08-16T10:02:50.762180-04:00.jpg"
-     alt="National Geographic at 2022-08-16 10:02:55-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-16T10:02:50.762180-04:00.jpg">August 16 at 10:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-15T21:37:28.503555-04:00.jpg">
-  <img src="https://archive.org/download/natgeo-2022/natgeo-2022-08-15T21:37:28.503555-04:00.jpg"
-     alt="National Geographic at 2022-08-15 21:37:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-15T21:37:28.503555-04:00.jpg">August 15 at 9:37 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-15T10:19:22.393714-04:00.jpg">
-  <img src="https://archive.org/download/natgeo-2022/natgeo-2022-08-15T10:19:22.393714-04:00.jpg"
-     alt="National Geographic at 2022-08-15 10:19:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-15T10:19:22.393714-04:00.jpg">August 15 at 10:19 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-14T21:22:38.495260-04:00.jpg">
-  <img src="https://archive.org/download/natgeo-2022/natgeo-2022-08-14T21:22:38.495260-04:00.jpg"
-     alt="National Geographic at 2022-08-14 21:22:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-14T21:22:38.495260-04:00.jpg">August 14 at 9:22 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 95 hyperlink lists with the Internet Archive.
+The archiving routine has saved 99 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 7:56 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-21T19:56:06.816105-04:00.hyperlinks.json) |
+| [August 21 at 8:02 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-21T08:02:26.649322-04:00.hyperlinks.json) |
+| [August 20 at 7:56 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-20T19:56:42.400303-04:00.hyperlinks.json) |
+| [August 20 at 7:58 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-20T07:58:25.587328-04:00.hyperlinks.json) |
 | [August 19 at 7:56 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-19T19:56:13.837910-04:00.hyperlinks.json) |
 | [August 19 at 10:22 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-19T10:22:07.675009-04:00.hyperlinks.json) |
 | [August 19 at 8:04 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-19T08:04:01.337407-04:00.hyperlinks.json) |
 | [August 18 at 7:56 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-18T19:56:43.168126-04:00.hyperlinks.json) |
 | [August 18 at 8:01 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-18T08:01:03.843100-04:00.hyperlinks.json) |
 | [August 17 at 7:53 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-17T19:53:34.646875-04:00.hyperlinks.json) |
-| [August 17 at 7:52 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-17T07:52:42.413783-04:00.hyperlinks.json) |
-| [August 16 at 8:08 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-16T20:08:16.399408-04:00.hyperlinks.json) |
-| [August 16 at 10:03 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-16T10:02:50.762180-04:00.hyperlinks.json) |
-| [August 15 at 9:37 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-15T21:37:28.503555-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 95 accessibility trees with the Internet Archive.
+The archiving routine has saved 99 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 7:56 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-21T19:56:06.816105-04:00.accessibility.json) |
+| [August 21 at 8:02 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-21T08:02:26.649322-04:00.accessibility.json) |
+| [August 20 at 7:56 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-20T19:56:42.400303-04:00.accessibility.json) |
+| [August 20 at 7:58 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-20T07:58:25.587328-04:00.accessibility.json) |
 | [August 19 at 7:56 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-19T19:56:13.837910-04:00.accessibility.json) |
 | [August 19 at 10:22 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-19T10:22:07.675009-04:00.accessibility.json) |
 | [August 19 at 8:04 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-19T08:04:01.337407-04:00.accessibility.json) |
 | [August 18 at 7:56 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-18T19:56:43.168126-04:00.accessibility.json) |
 | [August 18 at 8:01 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-18T08:01:03.843100-04:00.accessibility.json) |
 | [August 17 at 7:53 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-17T19:53:34.646875-04:00.accessibility.json) |
-| [August 17 at 7:52 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-17T07:52:42.413783-04:00.accessibility.json) |
-| [August 16 at 8:08 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-16T20:08:16.399408-04:00.accessibility.json) |
-| [August 16 at 10:02 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-16T10:02:50.762180-04:00.accessibility.json) |
-| [August 15 at 9:37 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-15T21:37:28.503555-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 56 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 60 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 7:56 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-21T19:56:06.816105-04:00.lighthouse.json) |
+| [August 21 at 8:02 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-21T08:02:26.649322-04:00.lighthouse.json) |
+| [August 20 at 7:56 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-20T19:56:42.400303-04:00.lighthouse.json) |
+| [August 20 at 7:58 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-20T07:58:25.587328-04:00.lighthouse.json) |
 | [August 19 at 7:56 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-19T19:56:13.837910-04:00.lighthouse.json) |
 | [August 19 at 10:22 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-19T10:22:07.675009-04:00.lighthouse.json) |
 | [August 19 at 8:04 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-19T08:04:01.337407-04:00.lighthouse.json) |
 | [August 18 at 7:56 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-18T19:56:43.168126-04:00.lighthouse.json) |
 | [August 18 at 8:01 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-18T08:01:03.843100-04:00.lighthouse.json) |
 | [August 17 at 7:53 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-17T19:53:34.646875-04:00.lighthouse.json) |
-| [August 17 at 7:52 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-17T07:52:42.413783-04:00.lighthouse.json) |
-| [August 16 at 8:08 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-16T20:08:16.399408-04:00.lighthouse.json) |
-| [August 16 at 10:03 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-16T10:02:50.762180-04:00.lighthouse.json) |
-| [August 15 at 9:37 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-15T21:37:28.503555-04:00.lighthouse.json) |
 
 
 

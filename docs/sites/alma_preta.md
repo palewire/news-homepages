@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 33 screenshots with the Internet Archive.
+The archiving routine has saved 39 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,60 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-21T19:53:01.023018-03:00.jpg">
+  <img src="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-21T19:53:01.023018-03:00.jpg"
+     alt="Alma Preta at 2022-08-21 19:53:04-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-21T19:53:01.023018-03:00.jpg">August 21 at 7:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-21T08:56:30.463434-03:00.jpg">
+  <img src="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-21T08:56:30.463434-03:00.jpg"
+     alt="Alma Preta at 2022-08-21 08:56:31-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-21T08:56:30.463434-03:00.jpg">August 21 at 8:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-21T07:56:15.369567-03:00.jpg">
+  <img src="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-21T07:56:15.369567-03:00.jpg"
+     alt="Alma Preta at 2022-08-21 07:56:18-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-21T07:56:15.369567-03:00.jpg">August 21 at 7:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-20T19:58:22.418727-03:00.jpg">
+  <img src="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-20T19:58:22.418727-03:00.jpg"
+     alt="Alma Preta at 2022-08-20 19:58:25-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-20T19:58:22.418727-03:00.jpg">August 20 at 7:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-20T09:02:54.290067-03:00.jpg">
+  <img src="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-20T09:02:54.290067-03:00.jpg"
+     alt="Alma Preta at 2022-08-20 09:02:56-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-20T09:02:54.290067-03:00.jpg">August 20 at 9:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-20T07:51:58.710339-03:00.jpg">
+  <img src="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-20T07:51:58.710339-03:00.jpg"
+     alt="Alma Preta at 2022-08-20 07:52:00-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-20T07:51:58.710339-03:00.jpg">August 20 at 7:52 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-19T19:58:02.075422-03:00.jpg">
   <img src="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-19T19:58:02.075422-03:00.jpg"
      alt="Alma Preta at 2022-08-19 19:58:04-03:00 local time"
@@ -379,65 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-17T19:56:10.477893-03:00.jpg">August 17 at 7:56 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-17T07:51:43.039314-03:00.jpg">
-  <img src="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-17T07:51:43.039314-03:00.jpg"
-     alt="Alma Preta at 2022-08-17 07:51:44-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-17T07:51:43.039314-03:00.jpg">August 17 at 7:51 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-16T19:58:38.475457-03:00.jpg">
-  <img src="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-16T19:58:38.475457-03:00.jpg"
-     alt="Alma Preta at 2022-08-16 19:58:41-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-16T19:58:38.475457-03:00.jpg">August 16 at 7:58 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-16T10:26:08.258631-03:00.jpg">
-  <img src="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-16T10:26:08.258631-03:00.jpg"
-     alt="Alma Preta at 2022-08-16 10:26:09-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-16T10:26:08.258631-03:00.jpg">August 16 at 10:26 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-15T22:12:39.357071-03:00.jpg">
-  <img src="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-15T22:12:39.357071-03:00.jpg"
-     alt="Alma Preta at 2022-08-15 22:12:41-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-15T22:12:39.357071-03:00.jpg">August 15 at 10:12 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-15T11:02:39.202714-03:00.jpg">
-  <img src="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-15T11:02:39.202714-03:00.jpg"
-     alt="Alma Preta at 2022-08-15 11:02:41-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-15T11:02:39.202714-03:00.jpg">August 15 at 11:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-15T10:47:13.239400-03:00.jpg">
-  <img src="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-15T10:47:13.239400-03:00.jpg"
-     alt="Alma Preta at 2022-08-15 10:47:16-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/alma_preta-2022/alma_preta-2022-08-15T10:47:13.239400-03:00.jpg">August 15 at 10:47 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 33 hyperlink lists with the Internet Archive.
+The archiving routine has saved 39 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 7:53 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-21T19:53:01.023018-03:00.hyperlinks.json) |
+| [August 21 at 8:56 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-21T08:56:30.463434-03:00.hyperlinks.json) |
+| [August 21 at 7:56 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-21T07:56:15.369567-03:00.hyperlinks.json) |
+| [August 20 at 7:58 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-20T19:58:22.418727-03:00.hyperlinks.json) |
+| [August 20 at 9:02 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-20T09:02:54.290067-03:00.hyperlinks.json) |
+| [August 20 at 7:52 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-20T07:51:58.710339-03:00.hyperlinks.json) |
 | [August 19 at 7:58 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-19T19:58:02.075422-03:00.hyperlinks.json) |
 | [August 19 at 7:55 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-19T07:55:00.794824-03:00.hyperlinks.json) |
 | [August 18 at 7:56 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-18T19:56:38.043387-03:00.hyperlinks.json) |
 | [August 18 at 9:05 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-18T09:05:02.023356-03:00.hyperlinks.json) |
-| [August 18 at 7:53 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-18T07:53:40.832842-03:00.hyperlinks.json) |
-| [August 17 at 7:56 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-17T19:56:10.477893-03:00.hyperlinks.json) |
-| [August 17 at 7:51 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-17T07:51:43.039314-03:00.hyperlinks.json) |
-| [August 16 at 7:58 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-16T19:58:38.475457-03:00.hyperlinks.json) |
-| [August 16 at 10:26 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-16T10:26:08.258631-03:00.hyperlinks.json) |
-| [August 15 at 10:12 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-15T22:12:39.357071-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 33 accessibility trees with the Internet Archive.
+The archiving routine has saved 39 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 7:53 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-21T19:53:01.023018-03:00.accessibility.json) |
+| [August 21 at 8:56 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-21T08:56:30.463434-03:00.accessibility.json) |
+| [August 21 at 7:56 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-21T07:56:15.369567-03:00.accessibility.json) |
+| [August 20 at 7:58 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-20T19:58:22.418727-03:00.accessibility.json) |
+| [August 20 at 9:02 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-20T09:02:54.290067-03:00.accessibility.json) |
+| [August 20 at 7:52 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-20T07:51:58.710339-03:00.accessibility.json) |
 | [August 19 at 7:58 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-19T19:58:02.075422-03:00.accessibility.json) |
 | [August 19 at 7:55 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-19T07:55:00.794824-03:00.accessibility.json) |
 | [August 18 at 7:56 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-18T19:56:38.043387-03:00.accessibility.json) |
 | [August 18 at 9:05 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-18T09:05:02.023356-03:00.accessibility.json) |
-| [August 18 at 7:53 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-18T07:53:40.832842-03:00.accessibility.json) |
-| [August 17 at 7:56 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-17T19:56:10.477893-03:00.accessibility.json) |
-| [August 17 at 7:51 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-17T07:51:43.039314-03:00.accessibility.json) |
-| [August 16 at 7:58 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-16T19:58:38.475457-03:00.accessibility.json) |
-| [August 16 at 10:26 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-16T10:26:08.258631-03:00.accessibility.json) |
-| [August 15 at 10:12 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-15T22:12:39.357071-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 7:53 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-21T19:53:01.023018-03:00.lighthouse.json) |
+| [August 21 at 8:56 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-21T08:56:30.463434-03:00.lighthouse.json) |
+| [August 21 at 7:56 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-21T07:56:15.369567-03:00.lighthouse.json) |
+| [August 20 at 7:58 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-20T19:58:22.418727-03:00.lighthouse.json) |
+| [August 20 at 9:03 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-20T09:02:54.290067-03:00.lighthouse.json) |
+| [August 20 at 7:52 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-20T07:51:58.710339-03:00.lighthouse.json) |
 | [August 19 at 7:58 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-19T19:58:02.075422-03:00.lighthouse.json) |
 | [August 19 at 7:55 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-19T07:55:00.794824-03:00.lighthouse.json) |
 | [August 18 at 7:56 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-18T19:56:38.043387-03:00.lighthouse.json) |
 | [August 18 at 9:05 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-18T09:05:02.023356-03:00.lighthouse.json) |
-| [August 18 at 7:53 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-18T07:53:40.832842-03:00.lighthouse.json) |
-| [August 17 at 7:56 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-17T19:56:10.477893-03:00.lighthouse.json) |
-| [August 17 at 7:51 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-17T07:51:43.039314-03:00.lighthouse.json) |
-| [August 16 at 7:58 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-16T19:58:38.475457-03:00.lighthouse.json) |
-| [August 16 at 10:26 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-16T10:26:08.258631-03:00.lighthouse.json) |
-| [August 15 at 10:12 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-08-15T22:12:39.357071-03:00.lighthouse.json) |
 
 
 

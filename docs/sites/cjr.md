@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 130 screenshots with the Internet Archive.
+The archiving routine has saved 134 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/cjr-2022/cjr-2022-08-21T18:54:45.723877-04:00.jpg">
+  <img src="https://archive.org/download/cjr-2022/cjr-2022-08-21T18:54:45.723877-04:00.jpg"
+     alt="Columbia Journalism Review at 2022-08-21 18:54:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cjr-2022/cjr-2022-08-21T18:54:45.723877-04:00.jpg">August 21 at 6:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cjr-2022/cjr-2022-08-21T06:59:09.243794-04:00.jpg">
+  <img src="https://archive.org/download/cjr-2022/cjr-2022-08-21T06:59:09.243794-04:00.jpg"
+     alt="Columbia Journalism Review at 2022-08-21 06:59:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cjr-2022/cjr-2022-08-21T06:59:09.243794-04:00.jpg">August 21 at 6:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cjr-2022/cjr-2022-08-20T19:02:22.264874-04:00.jpg">
+  <img src="https://archive.org/download/cjr-2022/cjr-2022-08-20T19:02:22.264874-04:00.jpg"
+     alt="Columbia Journalism Review at 2022-08-20 19:02:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cjr-2022/cjr-2022-08-20T19:02:22.264874-04:00.jpg">August 20 at 7:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cjr-2022/cjr-2022-08-20T06:54:47.575993-04:00.jpg">
+  <img src="https://archive.org/download/cjr-2022/cjr-2022-08-20T06:54:47.575993-04:00.jpg"
+     alt="Columbia Journalism Review at 2022-08-20 06:54:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cjr-2022/cjr-2022-08-20T06:54:47.575993-04:00.jpg">August 20 at 6:54 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/cjr-2022/cjr-2022-08-19T19:01:05.708753-04:00.jpg">
   <img src="https://archive.org/download/cjr-2022/cjr-2022-08-19T19:01:05.708753-04:00.jpg"
      alt="Columbia Journalism Review at 2022-08-19 19:01:09-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cjr-2022/cjr-2022-08-16T09:32:12.881058-04:00.jpg">August 16 at 9:32 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cjr-2022/cjr-2022-08-15T21:18:52.893691-04:00.jpg">
-  <img src="https://archive.org/download/cjr-2022/cjr-2022-08-15T21:18:52.893691-04:00.jpg"
-     alt="Columbia Journalism Review at 2022-08-15 21:18:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cjr-2022/cjr-2022-08-15T21:18:52.893691-04:00.jpg">August 15 at 9:18 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cjr-2022/cjr-2022-08-15T09:51:43.170122-04:00.jpg">
-  <img src="https://archive.org/download/cjr-2022/cjr-2022-08-15T09:51:43.170122-04:00.jpg"
-     alt="Columbia Journalism Review at 2022-08-15 09:51:48-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cjr-2022/cjr-2022-08-15T09:51:43.170122-04:00.jpg">August 15 at 9:51 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cjr-2022/cjr-2022-08-14T21:04:47.091164-04:00.jpg">
-  <img src="https://archive.org/download/cjr-2022/cjr-2022-08-14T21:04:47.091164-04:00.jpg"
-     alt="Columbia Journalism Review at 2022-08-14 21:04:50-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cjr-2022/cjr-2022-08-14T21:04:47.091164-04:00.jpg">August 14 at 9:04 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cjr-2022/cjr-2022-08-14T09:27:35.560757-04:00.jpg">
-  <img src="https://archive.org/download/cjr-2022/cjr-2022-08-14T09:27:35.560757-04:00.jpg"
-     alt="Columbia Journalism Review at 2022-08-14 09:27:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cjr-2022/cjr-2022-08-14T09:27:35.560757-04:00.jpg">August 14 at 9:27 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 130 hyperlink lists with the Internet Archive.
+The archiving routine has saved 134 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 6:54 PM](https://archive.org/download/cjr-2022/cjr-2022-08-21T18:54:45.723877-04:00.hyperlinks.json) |
+| [August 21 at 6:59 AM](https://archive.org/download/cjr-2022/cjr-2022-08-21T06:59:09.243794-04:00.hyperlinks.json) |
+| [August 20 at 7:02 PM](https://archive.org/download/cjr-2022/cjr-2022-08-20T19:02:22.264874-04:00.hyperlinks.json) |
+| [August 20 at 6:54 AM](https://archive.org/download/cjr-2022/cjr-2022-08-20T06:54:47.575993-04:00.hyperlinks.json) |
 | [August 19 at 7:01 PM](https://archive.org/download/cjr-2022/cjr-2022-08-19T19:01:05.708753-04:00.hyperlinks.json) |
 | [August 19 at 6:58 AM](https://archive.org/download/cjr-2022/cjr-2022-08-19T06:58:31.657706-04:00.hyperlinks.json) |
 | [August 18 at 7:01 PM](https://archive.org/download/cjr-2022/cjr-2022-08-18T19:01:32.420283-04:00.hyperlinks.json) |
 | [August 18 at 6:57 AM](https://archive.org/download/cjr-2022/cjr-2022-08-18T06:57:07.733542-04:00.hyperlinks.json) |
 | [August 17 at 7:00 PM](https://archive.org/download/cjr-2022/cjr-2022-08-17T19:00:03.340369-04:00.hyperlinks.json) |
 | [August 17 at 6:55 AM](https://archive.org/download/cjr-2022/cjr-2022-08-17T06:55:25.616470-04:00.hyperlinks.json) |
-| [August 16 at 7:04 PM](https://archive.org/download/cjr-2022/cjr-2022-08-16T19:04:01.700482-04:00.hyperlinks.json) |
-| [August 16 at 9:32 AM](https://archive.org/download/cjr-2022/cjr-2022-08-16T09:32:12.881058-04:00.hyperlinks.json) |
-| [August 15 at 9:19 PM](https://archive.org/download/cjr-2022/cjr-2022-08-15T21:18:52.893691-04:00.hyperlinks.json) |
-| [August 15 at 9:51 AM](https://archive.org/download/cjr-2022/cjr-2022-08-15T09:51:43.170122-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 130 accessibility trees with the Internet Archive.
+The archiving routine has saved 134 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 6:54 PM](https://archive.org/download/cjr-2022/cjr-2022-08-21T18:54:45.723877-04:00.accessibility.json) |
+| [August 21 at 6:59 AM](https://archive.org/download/cjr-2022/cjr-2022-08-21T06:59:09.243794-04:00.accessibility.json) |
+| [August 20 at 7:02 PM](https://archive.org/download/cjr-2022/cjr-2022-08-20T19:02:22.264874-04:00.accessibility.json) |
+| [August 20 at 6:54 AM](https://archive.org/download/cjr-2022/cjr-2022-08-20T06:54:47.575993-04:00.accessibility.json) |
 | [August 19 at 7:01 PM](https://archive.org/download/cjr-2022/cjr-2022-08-19T19:01:05.708753-04:00.accessibility.json) |
 | [August 19 at 6:58 AM](https://archive.org/download/cjr-2022/cjr-2022-08-19T06:58:31.657706-04:00.accessibility.json) |
 | [August 18 at 7:01 PM](https://archive.org/download/cjr-2022/cjr-2022-08-18T19:01:32.420283-04:00.accessibility.json) |
 | [August 18 at 6:57 AM](https://archive.org/download/cjr-2022/cjr-2022-08-18T06:57:07.733542-04:00.accessibility.json) |
 | [August 17 at 7:00 PM](https://archive.org/download/cjr-2022/cjr-2022-08-17T19:00:03.340369-04:00.accessibility.json) |
 | [August 17 at 6:55 AM](https://archive.org/download/cjr-2022/cjr-2022-08-17T06:55:25.616470-04:00.accessibility.json) |
-| [August 16 at 7:04 PM](https://archive.org/download/cjr-2022/cjr-2022-08-16T19:04:01.700482-04:00.accessibility.json) |
-| [August 16 at 9:32 AM](https://archive.org/download/cjr-2022/cjr-2022-08-16T09:32:12.881058-04:00.accessibility.json) |
-| [August 15 at 9:18 PM](https://archive.org/download/cjr-2022/cjr-2022-08-15T21:18:52.893691-04:00.accessibility.json) |
-| [August 15 at 9:51 AM](https://archive.org/download/cjr-2022/cjr-2022-08-15T09:51:43.170122-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 59 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 6:54 PM](https://archive.org/download/cjr-2022/cjr-2022-08-21T18:54:45.723877-04:00.lighthouse.json) |
+| [August 21 at 6:59 AM](https://archive.org/download/cjr-2022/cjr-2022-08-21T06:59:09.243794-04:00.lighthouse.json) |
+| [August 20 at 7:02 PM](https://archive.org/download/cjr-2022/cjr-2022-08-20T19:02:22.264874-04:00.lighthouse.json) |
+| [August 20 at 6:54 AM](https://archive.org/download/cjr-2022/cjr-2022-08-20T06:54:47.575993-04:00.lighthouse.json) |
 | [August 19 at 7:01 PM](https://archive.org/download/cjr-2022/cjr-2022-08-19T19:01:05.708753-04:00.lighthouse.json) |
 | [August 19 at 6:58 AM](https://archive.org/download/cjr-2022/cjr-2022-08-19T06:58:31.657706-04:00.lighthouse.json) |
 | [August 18 at 7:01 PM](https://archive.org/download/cjr-2022/cjr-2022-08-18T19:01:32.420283-04:00.lighthouse.json) |
 | [August 18 at 6:57 AM](https://archive.org/download/cjr-2022/cjr-2022-08-18T06:57:07.733542-04:00.lighthouse.json) |
 | [August 17 at 7:00 PM](https://archive.org/download/cjr-2022/cjr-2022-08-17T19:00:03.340369-04:00.lighthouse.json) |
 | [August 17 at 6:55 AM](https://archive.org/download/cjr-2022/cjr-2022-08-17T06:55:25.616470-04:00.lighthouse.json) |
-| [August 16 at 7:04 PM](https://archive.org/download/cjr-2022/cjr-2022-08-16T19:04:01.700482-04:00.lighthouse.json) |
-| [August 16 at 9:32 AM](https://archive.org/download/cjr-2022/cjr-2022-08-16T09:32:12.881058-04:00.lighthouse.json) |
-| [August 15 at 9:19 PM](https://archive.org/download/cjr-2022/cjr-2022-08-15T21:18:52.893691-04:00.lighthouse.json) |
-| [August 15 at 9:51 AM](https://archive.org/download/cjr-2022/cjr-2022-08-15T09:51:43.170122-04:00.lighthouse.json) |
 
 
 

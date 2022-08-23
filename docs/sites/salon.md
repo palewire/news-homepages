@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 95 screenshots with the Internet Archive.
+The archiving routine has saved 101 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,60 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/salon-2022/salon-2022-08-21T14:27:18.175855-04:00.jpg">
+  <img src="https://archive.org/download/salon-2022/salon-2022-08-21T14:27:18.175855-04:00.jpg"
+     alt="Salon at 2022-08-21 14:27:22-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/salon-2022/salon-2022-08-21T14:27:18.175855-04:00.jpg">August 21 at 2:27 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/salon-2022/salon-2022-08-21T11:00:08.958677-04:00.jpg">
+  <img src="https://archive.org/download/salon-2022/salon-2022-08-21T11:00:08.958677-04:00.jpg"
+     alt="Salon at 2022-08-21 11:00:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/salon-2022/salon-2022-08-21T11:00:08.958677-04:00.jpg">August 21 at 11:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/salon-2022/salon-2022-08-20T23:35:54.795205-04:00.jpg">
+  <img src="https://archive.org/download/salon-2022/salon-2022-08-20T23:35:54.795205-04:00.jpg"
+     alt="Salon at 2022-08-20 23:35:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/salon-2022/salon-2022-08-20T23:35:54.795205-04:00.jpg">August 20 at 11:35 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/salon-2022/salon-2022-08-20T14:27:10.390107-04:00.jpg">
+  <img src="https://archive.org/download/salon-2022/salon-2022-08-20T14:27:10.390107-04:00.jpg"
+     alt="Salon at 2022-08-20 14:27:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/salon-2022/salon-2022-08-20T14:27:10.390107-04:00.jpg">August 20 at 2:27 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/salon-2022/salon-2022-08-20T10:55:41.155733-04:00.jpg">
+  <img src="https://archive.org/download/salon-2022/salon-2022-08-20T10:55:41.155733-04:00.jpg"
+     alt="Salon at 2022-08-20 10:55:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/salon-2022/salon-2022-08-20T10:55:41.155733-04:00.jpg">August 20 at 10:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/salon-2022/salon-2022-08-19T23:38:11.134196-04:00.jpg">
+  <img src="https://archive.org/download/salon-2022/salon-2022-08-19T23:38:11.134196-04:00.jpg"
+     alt="Salon at 2022-08-19 23:38:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/salon-2022/salon-2022-08-19T23:38:11.134196-04:00.jpg">August 19 at 11:38 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/salon-2022/salon-2022-08-19T11:31:47.717095-04:00.jpg">
   <img src="https://archive.org/download/salon-2022/salon-2022-08-19T11:31:47.717095-04:00.jpg"
      alt="Salon at 2022-08-19 11:31:49-04:00 local time"
@@ -379,65 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/salon-2022/salon-2022-08-17T23:44:16.896255-04:00.jpg">August 17 at 11:44 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/salon-2022/salon-2022-08-17T14:30:32.499178-04:00.jpg">
-  <img src="https://archive.org/download/salon-2022/salon-2022-08-17T14:30:32.499178-04:00.jpg"
-     alt="Salon at 2022-08-17 14:30:33-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/salon-2022/salon-2022-08-17T14:30:32.499178-04:00.jpg">August 17 at 2:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/salon-2022/salon-2022-08-17T11:10:18.020800-04:00.jpg">
-  <img src="https://archive.org/download/salon-2022/salon-2022-08-17T11:10:18.020800-04:00.jpg"
-     alt="Salon at 2022-08-17 11:10:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/salon-2022/salon-2022-08-17T11:10:18.020800-04:00.jpg">August 17 at 11:10 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/salon-2022/salon-2022-08-16T23:43:14.205866-04:00.jpg">
-  <img src="https://archive.org/download/salon-2022/salon-2022-08-16T23:43:14.205866-04:00.jpg"
-     alt="Salon at 2022-08-16 23:43:16-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/salon-2022/salon-2022-08-16T23:43:14.205866-04:00.jpg">August 16 at 11:43 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/salon-2022/salon-2022-08-16T14:44:06.926329-04:00.jpg">
-  <img src="https://archive.org/download/salon-2022/salon-2022-08-16T14:44:06.926329-04:00.jpg"
-     alt="Salon at 2022-08-16 14:44:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/salon-2022/salon-2022-08-16T14:44:06.926329-04:00.jpg">August 16 at 2:44 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/salon-2022/salon-2022-08-16T02:50:20.107001-04:00.jpg">
-  <img src="https://archive.org/download/salon-2022/salon-2022-08-16T02:50:20.107001-04:00.jpg"
-     alt="Salon at 2022-08-16 02:50:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/salon-2022/salon-2022-08-16T02:50:20.107001-04:00.jpg">August 16 at 2:50 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/salon-2022/salon-2022-08-15T16:58:49.021043-04:00.jpg">
-  <img src="https://archive.org/download/salon-2022/salon-2022-08-15T16:58:49.021043-04:00.jpg"
-     alt="Salon at 2022-08-15 16:58:50-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/salon-2022/salon-2022-08-15T16:58:49.021043-04:00.jpg">August 15 at 4:58 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 81 hyperlink lists with the Internet Archive.
+The archiving routine has saved 87 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 2:27 PM](https://archive.org/download/salon-2022/salon-2022-08-21T14:27:18.175855-04:00.hyperlinks.json) |
+| [August 21 at 11:00 AM](https://archive.org/download/salon-2022/salon-2022-08-21T11:00:08.958677-04:00.hyperlinks.json) |
+| [August 20 at 11:36 PM](https://archive.org/download/salon-2022/salon-2022-08-20T23:35:54.795205-04:00.hyperlinks.json) |
+| [August 20 at 2:27 PM](https://archive.org/download/salon-2022/salon-2022-08-20T14:27:10.390107-04:00.hyperlinks.json) |
+| [August 20 at 10:55 AM](https://archive.org/download/salon-2022/salon-2022-08-20T10:55:41.155733-04:00.hyperlinks.json) |
+| [August 19 at 11:38 PM](https://archive.org/download/salon-2022/salon-2022-08-19T23:38:11.134196-04:00.hyperlinks.json) |
 | [August 19 at 11:31 AM](https://archive.org/download/salon-2022/salon-2022-08-19T11:31:47.717095-04:00.hyperlinks.json) |
 | [August 19 at 8:11 AM](https://archive.org/download/salon-2022/salon-2022-08-19T08:11:40.898436-04:00.hyperlinks.json) |
 | [August 18 at 11:41 PM](https://archive.org/download/salon-2022/salon-2022-08-18T23:41:04.044119-04:00.hyperlinks.json) |
 | [August 18 at 2:26 PM](https://archive.org/download/salon-2022/salon-2022-08-18T14:26:26.261811-04:00.hyperlinks.json) |
-| [August 18 at 11:27 AM](https://archive.org/download/salon-2022/salon-2022-08-18T11:27:47.811790-04:00.hyperlinks.json) |
-| [August 17 at 11:44 PM](https://archive.org/download/salon-2022/salon-2022-08-17T23:44:16.896255-04:00.hyperlinks.json) |
-| [August 17 at 2:30 PM](https://archive.org/download/salon-2022/salon-2022-08-17T14:30:32.499178-04:00.hyperlinks.json) |
-| [August 17 at 11:10 AM](https://archive.org/download/salon-2022/salon-2022-08-17T11:10:18.020800-04:00.hyperlinks.json) |
-| [August 16 at 11:43 PM](https://archive.org/download/salon-2022/salon-2022-08-16T23:43:14.205866-04:00.hyperlinks.json) |
-| [August 16 at 2:44 PM](https://archive.org/download/salon-2022/salon-2022-08-16T14:44:06.926329-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 96 accessibility trees with the Internet Archive.
+The archiving routine has saved 102 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 2:27 PM](https://archive.org/download/salon-2022/salon-2022-08-21T14:27:18.175855-04:00.accessibility.json) |
+| [August 21 at 11:00 AM](https://archive.org/download/salon-2022/salon-2022-08-21T11:00:08.958677-04:00.accessibility.json) |
+| [August 20 at 11:35 PM](https://archive.org/download/salon-2022/salon-2022-08-20T23:35:54.795205-04:00.accessibility.json) |
+| [August 20 at 2:27 PM](https://archive.org/download/salon-2022/salon-2022-08-20T14:27:10.390107-04:00.accessibility.json) |
+| [August 20 at 10:55 AM](https://archive.org/download/salon-2022/salon-2022-08-20T10:55:41.155733-04:00.accessibility.json) |
+| [August 19 at 11:38 PM](https://archive.org/download/salon-2022/salon-2022-08-19T23:38:11.134196-04:00.accessibility.json) |
 | [August 19 at 11:31 AM](https://archive.org/download/salon-2022/salon-2022-08-19T11:31:47.717095-04:00.accessibility.json) |
 | [August 19 at 8:11 AM](https://archive.org/download/salon-2022/salon-2022-08-19T08:11:40.898436-04:00.accessibility.json) |
 | [August 18 at 11:41 PM](https://archive.org/download/salon-2022/salon-2022-08-18T23:41:04.044119-04:00.accessibility.json) |
 | [August 18 at 2:26 PM](https://archive.org/download/salon-2022/salon-2022-08-18T14:26:26.261811-04:00.accessibility.json) |
-| [August 18 at 11:27 AM](https://archive.org/download/salon-2022/salon-2022-08-18T11:27:47.811790-04:00.accessibility.json) |
-| [August 17 at 11:44 PM](https://archive.org/download/salon-2022/salon-2022-08-17T23:44:16.896255-04:00.accessibility.json) |
-| [August 17 at 2:30 PM](https://archive.org/download/salon-2022/salon-2022-08-17T14:30:32.499178-04:00.accessibility.json) |
-| [August 17 at 11:10 AM](https://archive.org/download/salon-2022/salon-2022-08-17T11:10:18.020800-04:00.accessibility.json) |
-| [August 16 at 11:43 PM](https://archive.org/download/salon-2022/salon-2022-08-16T23:43:14.205866-04:00.accessibility.json) |
-| [August 16 at 2:44 PM](https://archive.org/download/salon-2022/salon-2022-08-16T14:44:06.926329-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 79 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 85 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 2:27 PM](https://archive.org/download/salon-2022/salon-2022-08-21T14:27:18.175855-04:00.lighthouse.json) |
+| [August 21 at 11:00 AM](https://archive.org/download/salon-2022/salon-2022-08-21T11:00:08.958677-04:00.lighthouse.json) |
+| [August 20 at 11:36 PM](https://archive.org/download/salon-2022/salon-2022-08-20T23:35:54.795205-04:00.lighthouse.json) |
+| [August 20 at 2:27 PM](https://archive.org/download/salon-2022/salon-2022-08-20T14:27:10.390107-04:00.lighthouse.json) |
+| [August 20 at 10:55 AM](https://archive.org/download/salon-2022/salon-2022-08-20T10:55:41.155733-04:00.lighthouse.json) |
+| [August 19 at 11:38 PM](https://archive.org/download/salon-2022/salon-2022-08-19T23:38:11.134196-04:00.lighthouse.json) |
 | [August 19 at 11:31 AM](https://archive.org/download/salon-2022/salon-2022-08-19T11:31:47.717095-04:00.lighthouse.json) |
 | [August 19 at 8:11 AM](https://archive.org/download/salon-2022/salon-2022-08-19T08:11:40.898436-04:00.lighthouse.json) |
 | [August 18 at 11:41 PM](https://archive.org/download/salon-2022/salon-2022-08-18T23:41:04.044119-04:00.lighthouse.json) |
 | [August 18 at 11:27 AM](https://archive.org/download/salon-2022/salon-2022-08-18T11:27:47.811790-04:00.lighthouse.json) |
-| [August 17 at 11:44 PM](https://archive.org/download/salon-2022/salon-2022-08-17T23:44:16.896255-04:00.lighthouse.json) |
-| [August 17 at 2:30 PM](https://archive.org/download/salon-2022/salon-2022-08-17T14:30:32.499178-04:00.lighthouse.json) |
-| [August 17 at 11:10 AM](https://archive.org/download/salon-2022/salon-2022-08-17T11:10:18.020800-04:00.lighthouse.json) |
-| [August 16 at 11:43 PM](https://archive.org/download/salon-2022/salon-2022-08-16T23:43:14.205866-04:00.lighthouse.json) |
-| [August 16 at 2:44 PM](https://archive.org/download/salon-2022/salon-2022-08-16T14:44:06.926329-04:00.lighthouse.json) |
-| [August 16 at 2:50 AM](https://archive.org/download/salon-2022/salon-2022-08-16T02:50:20.107001-04:00.lighthouse.json) |
 
 
 

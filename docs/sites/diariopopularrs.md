@@ -234,13 +234,150 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 28 screenshots with the Internet Archive.
+The archiving routine has saved 34 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/diariopopularrs.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-21T11:01:10.591153-03:00.jpg">
+  <img src="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-21T11:01:10.591153-03:00.jpg"
+     alt="Diário Popular at 2022-08-21 11:01:12-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-21T11:01:10.591153-03:00.jpg">August 21 at 11:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-21T08:56:08.739607-03:00.jpg">
+  <img src="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-21T08:56:08.739607-03:00.jpg"
+     alt="Diário Popular at 2022-08-21 08:56:10-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-21T08:56:08.739607-03:00.jpg">August 21 at 8:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-20T23:17:27.781711-03:00.jpg">
+  <img src="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-20T23:17:27.781711-03:00.jpg"
+     alt="Diário Popular at 2022-08-20 23:17:29-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-20T23:17:27.781711-03:00.jpg">August 20 at 11:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-20T10:55:59.684661-03:00.jpg">
+  <img src="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-20T10:55:59.684661-03:00.jpg"
+     alt="Diário Popular at 2022-08-20 10:56:01-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-20T10:55:59.684661-03:00.jpg">August 20 at 10:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-20T09:03:07.854270-03:00.jpg">
+  <img src="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-20T09:03:07.854270-03:00.jpg"
+     alt="Diário Popular at 2022-08-20 09:03:10-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-20T09:03:07.854270-03:00.jpg">August 20 at 9:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-19T23:31:10.897565-03:00.jpg">
+  <img src="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-19T23:31:10.897565-03:00.jpg"
+     alt="Diário Popular at 2022-08-19 23:31:13-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-19T23:31:10.897565-03:00.jpg">August 19 at 11:31 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-19T11:30:15.901604-03:00.jpg">
@@ -296,127 +433,322 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-17T11:59:16.353414-03:00.jpg">August 17 at 11:59 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-16T23:25:37.303918-03:00.jpg">
-  <img src="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-16T23:25:37.303918-03:00.jpg"
-     alt="Diário Popular at 2022-08-16 23:25:40-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-16T23:25:37.303918-03:00.jpg">August 16 at 11:25 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-16T15:26:37.235491-03:00.jpg">
-  <img src="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-16T15:26:37.235491-03:00.jpg"
-     alt="Diário Popular at 2022-08-16 15:26:39-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-16T15:26:37.235491-03:00.jpg">August 16 at 3:26 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-16T03:29:48.414675-03:00.jpg">
-  <img src="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-16T03:29:48.414675-03:00.jpg"
-     alt="Diário Popular at 2022-08-16 03:29:50-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-16T03:29:48.414675-03:00.jpg">August 16 at 3:29 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-15T16:48:29.129799-03:00.jpg">
-  <img src="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-15T16:48:29.129799-03:00.jpg"
-     alt="Diário Popular at 2022-08-15 16:48:31-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-15T16:48:29.129799-03:00.jpg">August 15 at 4:48 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-15T11:02:38.012452-03:00.jpg">
-  <img src="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-15T11:02:38.012452-03:00.jpg"
-     alt="Diário Popular at 2022-08-15 11:02:40-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-15T11:02:38.012452-03:00.jpg">August 15 at 11:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-15T03:21:48.828779-03:00.jpg">
-  <img src="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-15T03:21:48.828779-03:00.jpg"
-     alt="Diário Popular at 2022-08-15 03:21:51-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-15T03:21:48.828779-03:00.jpg">August 15 at 3:21 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 28 hyperlink lists with the Internet Archive.
+The archiving routine has saved 34 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/diariopopularrs.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 11:01 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-21T11:01:10.591153-03:00.hyperlinks.json) |
+| [August 21 at 8:56 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-21T08:56:08.739607-03:00.hyperlinks.json) |
+| [August 20 at 11:17 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-20T23:17:27.781711-03:00.hyperlinks.json) |
+| [August 20 at 10:56 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-20T10:55:59.684661-03:00.hyperlinks.json) |
+| [August 20 at 9:03 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-20T09:03:07.854270-03:00.hyperlinks.json) |
+| [August 19 at 11:31 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-19T23:31:10.897565-03:00.hyperlinks.json) |
 | [August 19 at 11:30 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-19T11:30:15.901604-03:00.hyperlinks.json) |
 | [August 18 at 11:29 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-18T23:29:01.573408-03:00.hyperlinks.json) |
 | [August 18 at 11:06 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-18T11:05:59.044551-03:00.hyperlinks.json) |
 | [August 18 at 9:05 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-18T09:05:35.965596-03:00.hyperlinks.json) |
-| [August 17 at 11:24 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-17T23:24:46.096214-03:00.hyperlinks.json) |
-| [August 17 at 11:59 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-17T11:59:16.353414-03:00.hyperlinks.json) |
-| [August 16 at 11:25 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-16T23:25:37.303918-03:00.hyperlinks.json) |
-| [August 16 at 3:26 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-16T15:26:37.235491-03:00.hyperlinks.json) |
-| [August 16 at 3:29 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-16T03:29:48.414675-03:00.hyperlinks.json) |
-| [August 15 at 4:48 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-15T16:48:29.129799-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 28 accessibility trees with the Internet Archive.
+The archiving routine has saved 34 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/diariopopularrs.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 11:01 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-21T11:01:10.591153-03:00.accessibility.json) |
+| [August 21 at 8:56 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-21T08:56:08.739607-03:00.accessibility.json) |
+| [August 20 at 11:17 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-20T23:17:27.781711-03:00.accessibility.json) |
+| [August 20 at 10:56 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-20T10:55:59.684661-03:00.accessibility.json) |
+| [August 20 at 9:03 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-20T09:03:07.854270-03:00.accessibility.json) |
+| [August 19 at 11:31 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-19T23:31:10.897565-03:00.accessibility.json) |
 | [August 19 at 11:30 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-19T11:30:15.901604-03:00.accessibility.json) |
 | [August 18 at 11:29 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-18T23:29:01.573408-03:00.accessibility.json) |
 | [August 18 at 11:06 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-18T11:05:59.044551-03:00.accessibility.json) |
 | [August 18 at 9:05 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-18T09:05:35.965596-03:00.accessibility.json) |
-| [August 17 at 11:24 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-17T23:24:46.096214-03:00.accessibility.json) |
-| [August 17 at 11:59 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-17T11:59:16.353414-03:00.accessibility.json) |
-| [August 16 at 11:25 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-16T23:25:37.303918-03:00.accessibility.json) |
-| [August 16 at 3:26 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-16T15:26:37.235491-03:00.accessibility.json) |
-| [August 16 at 3:29 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-16T03:29:48.414675-03:00.accessibility.json) |
-| [August 15 at 4:48 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-15T16:48:29.129799-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/diariopopularrs.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 11:01 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-21T11:01:10.591153-03:00.lighthouse.json) |
+| [August 21 at 8:56 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-21T08:56:08.739607-03:00.lighthouse.json) |
+| [August 20 at 11:17 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-20T23:17:27.781711-03:00.lighthouse.json) |
+| [August 20 at 10:56 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-20T10:55:59.684661-03:00.lighthouse.json) |
+| [August 20 at 9:03 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-20T09:03:07.854270-03:00.lighthouse.json) |
+| [August 19 at 11:31 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-19T23:31:10.897565-03:00.lighthouse.json) |
 | [August 19 at 11:30 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-19T11:30:15.901604-03:00.lighthouse.json) |
 | [August 18 at 11:29 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-18T23:29:01.573408-03:00.lighthouse.json) |
 | [August 18 at 11:06 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-18T11:05:59.044551-03:00.lighthouse.json) |
 | [August 18 at 9:05 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-18T09:05:35.965596-03:00.lighthouse.json) |
-| [August 17 at 11:24 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-17T23:24:46.096214-03:00.lighthouse.json) |
-| [August 17 at 11:59 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-17T11:59:16.353414-03:00.lighthouse.json) |
-| [August 16 at 11:25 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-16T23:25:37.303918-03:00.lighthouse.json) |
-| [August 16 at 3:26 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-16T15:26:37.235491-03:00.lighthouse.json) |
-| [August 16 at 3:29 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-16T03:29:48.414675-03:00.lighthouse.json) |
-| [August 15 at 4:48 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-15T16:48:29.129799-03:00.lighthouse.json) |
 
 
 

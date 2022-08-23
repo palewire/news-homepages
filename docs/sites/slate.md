@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 159 screenshots with the Internet Archive.
+The archiving routine has saved 165 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,60 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/slate-2022/slate-2022-08-21T14:27:30.746245-04:00.jpg">
+  <img src="https://archive.org/download/slate-2022/slate-2022-08-21T14:27:30.746245-04:00.jpg"
+     alt="Slate at 2022-08-21 14:27:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-08-21T14:27:30.746245-04:00.jpg">August 21 at 2:27 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/slate-2022/slate-2022-08-21T09:06:51.618482-04:00.jpg">
+  <img src="https://archive.org/download/slate-2022/slate-2022-08-21T09:06:51.618482-04:00.jpg"
+     alt="Slate at 2022-08-21 09:07:00-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-08-21T09:06:51.618482-04:00.jpg">August 21 at 9:07 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/slate-2022/slate-2022-08-20T21:15:52.394468-04:00.jpg">
+  <img src="https://archive.org/download/slate-2022/slate-2022-08-20T21:15:52.394468-04:00.jpg"
+     alt="Slate at 2022-08-20 21:15:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-08-20T21:15:52.394468-04:00.jpg">August 20 at 9:15 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/slate-2022/slate-2022-08-20T14:27:16.319366-04:00.jpg">
+  <img src="https://archive.org/download/slate-2022/slate-2022-08-20T14:27:16.319366-04:00.jpg"
+     alt="Slate at 2022-08-20 14:27:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-08-20T14:27:16.319366-04:00.jpg">August 20 at 2:27 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/slate-2022/slate-2022-08-20T09:01:47.581400-04:00.jpg">
+  <img src="https://archive.org/download/slate-2022/slate-2022-08-20T09:01:47.581400-04:00.jpg"
+     alt="Slate at 2022-08-20 09:02:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-08-20T09:01:47.581400-04:00.jpg">August 20 at 9:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/slate-2022/slate-2022-08-19T21:14:13.013679-04:00.jpg">
+  <img src="https://archive.org/download/slate-2022/slate-2022-08-19T21:14:13.013679-04:00.jpg"
+     alt="Slate at 2022-08-19 21:14:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/slate-2022/slate-2022-08-19T21:14:13.013679-04:00.jpg">August 19 at 9:14 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/slate-2022/slate-2022-08-19T14:28:55.157964-04:00.jpg">
   <img src="https://archive.org/download/slate-2022/slate-2022-08-19T14:28:55.157964-04:00.jpg"
      alt="Slate at 2022-08-19 14:28:57-04:00 local time"
@@ -379,65 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/slate-2022/slate-2022-08-17T21:13:38.505883-04:00.jpg">August 17 at 9:13 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/slate-2022/slate-2022-08-17T14:30:23.194003-04:00.jpg">
-  <img src="https://archive.org/download/slate-2022/slate-2022-08-17T14:30:23.194003-04:00.jpg"
-     alt="Slate at 2022-08-17 14:30:27-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-08-17T14:30:23.194003-04:00.jpg">August 17 at 2:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/slate-2022/slate-2022-08-17T09:08:38.195688-04:00.jpg">
-  <img src="https://archive.org/download/slate-2022/slate-2022-08-17T09:08:38.195688-04:00.jpg"
-     alt="Slate at 2022-08-17 09:08:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-08-17T09:08:38.195688-04:00.jpg">August 17 at 9:08 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/slate-2022/slate-2022-08-16T21:21:03.565247-04:00.jpg">
-  <img src="https://archive.org/download/slate-2022/slate-2022-08-16T21:21:03.565247-04:00.jpg"
-     alt="Slate at 2022-08-16 21:21:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-08-16T21:21:03.565247-04:00.jpg">August 16 at 9:21 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/slate-2022/slate-2022-08-16T13:20:42.751235-04:00.jpg">
-  <img src="https://archive.org/download/slate-2022/slate-2022-08-16T13:20:42.751235-04:00.jpg"
-     alt="Slate at 2022-08-16 13:20:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-08-16T13:20:42.751235-04:00.jpg">August 16 at 1:20 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/slate-2022/slate-2022-08-16T10:10:34.332351-04:00.jpg">
-  <img src="https://archive.org/download/slate-2022/slate-2022-08-16T10:10:34.332351-04:00.jpg"
-     alt="Slate at 2022-08-16 10:10:36-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-08-16T10:10:34.332351-04:00.jpg">August 16 at 10:10 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/slate-2022/slate-2022-08-15T21:47:07.134043-04:00.jpg">
-  <img src="https://archive.org/download/slate-2022/slate-2022-08-15T21:47:07.134043-04:00.jpg"
-     alt="Slate at 2022-08-15 21:47:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/slate-2022/slate-2022-08-15T21:47:07.134043-04:00.jpg">August 15 at 9:47 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 153 hyperlink lists with the Internet Archive.
+The archiving routine has saved 159 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 2:27 PM](https://archive.org/download/slate-2022/slate-2022-08-21T14:27:30.746245-04:00.hyperlinks.json) |
+| [August 21 at 9:07 AM](https://archive.org/download/slate-2022/slate-2022-08-21T09:06:51.618482-04:00.hyperlinks.json) |
+| [August 20 at 9:15 PM](https://archive.org/download/slate-2022/slate-2022-08-20T21:15:52.394468-04:00.hyperlinks.json) |
+| [August 20 at 2:27 PM](https://archive.org/download/slate-2022/slate-2022-08-20T14:27:16.319366-04:00.hyperlinks.json) |
+| [August 20 at 9:02 AM](https://archive.org/download/slate-2022/slate-2022-08-20T09:01:47.581400-04:00.hyperlinks.json) |
+| [August 19 at 9:14 PM](https://archive.org/download/slate-2022/slate-2022-08-19T21:14:13.013679-04:00.hyperlinks.json) |
 | [August 19 at 2:29 PM](https://archive.org/download/slate-2022/slate-2022-08-19T14:28:55.157964-04:00.hyperlinks.json) |
 | [August 19 at 9:21 AM](https://archive.org/download/slate-2022/slate-2022-08-19T09:21:22.972778-04:00.hyperlinks.json) |
 | [August 18 at 9:19 PM](https://archive.org/download/slate-2022/slate-2022-08-18T21:18:57.480728-04:00.hyperlinks.json) |
 | [August 18 at 2:27 PM](https://archive.org/download/slate-2022/slate-2022-08-18T14:27:33.417365-04:00.hyperlinks.json) |
-| [August 18 at 9:00 AM](https://archive.org/download/slate-2022/slate-2022-08-18T09:00:18.653002-04:00.hyperlinks.json) |
-| [August 17 at 9:13 PM](https://archive.org/download/slate-2022/slate-2022-08-17T21:13:38.505883-04:00.hyperlinks.json) |
-| [August 17 at 2:30 PM](https://archive.org/download/slate-2022/slate-2022-08-17T14:30:23.194003-04:00.hyperlinks.json) |
-| [August 17 at 9:08 AM](https://archive.org/download/slate-2022/slate-2022-08-17T09:08:38.195688-04:00.hyperlinks.json) |
-| [August 16 at 9:21 PM](https://archive.org/download/slate-2022/slate-2022-08-16T21:21:03.565247-04:00.hyperlinks.json) |
-| [August 16 at 1:20 PM](https://archive.org/download/slate-2022/slate-2022-08-16T13:20:42.751235-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 160 accessibility trees with the Internet Archive.
+The archiving routine has saved 166 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 2:27 PM](https://archive.org/download/slate-2022/slate-2022-08-21T14:27:30.746245-04:00.accessibility.json) |
+| [August 21 at 9:07 AM](https://archive.org/download/slate-2022/slate-2022-08-21T09:06:51.618482-04:00.accessibility.json) |
+| [August 20 at 9:15 PM](https://archive.org/download/slate-2022/slate-2022-08-20T21:15:52.394468-04:00.accessibility.json) |
+| [August 20 at 2:27 PM](https://archive.org/download/slate-2022/slate-2022-08-20T14:27:16.319366-04:00.accessibility.json) |
+| [August 20 at 9:02 AM](https://archive.org/download/slate-2022/slate-2022-08-20T09:01:47.581400-04:00.accessibility.json) |
+| [August 19 at 9:14 PM](https://archive.org/download/slate-2022/slate-2022-08-19T21:14:13.013679-04:00.accessibility.json) |
 | [August 19 at 2:28 PM](https://archive.org/download/slate-2022/slate-2022-08-19T14:28:55.157964-04:00.accessibility.json) |
 | [August 19 at 9:21 AM](https://archive.org/download/slate-2022/slate-2022-08-19T09:21:22.972778-04:00.accessibility.json) |
 | [August 18 at 9:19 PM](https://archive.org/download/slate-2022/slate-2022-08-18T21:18:57.480728-04:00.accessibility.json) |
 | [August 18 at 2:27 PM](https://archive.org/download/slate-2022/slate-2022-08-18T14:27:33.417365-04:00.accessibility.json) |
-| [August 18 at 9:00 AM](https://archive.org/download/slate-2022/slate-2022-08-18T09:00:18.653002-04:00.accessibility.json) |
-| [August 17 at 9:13 PM](https://archive.org/download/slate-2022/slate-2022-08-17T21:13:38.505883-04:00.accessibility.json) |
-| [August 17 at 2:30 PM](https://archive.org/download/slate-2022/slate-2022-08-17T14:30:23.194003-04:00.accessibility.json) |
-| [August 17 at 9:08 AM](https://archive.org/download/slate-2022/slate-2022-08-17T09:08:38.195688-04:00.accessibility.json) |
-| [August 16 at 9:21 PM](https://archive.org/download/slate-2022/slate-2022-08-16T21:21:03.565247-04:00.accessibility.json) |
-| [August 16 at 1:20 PM](https://archive.org/download/slate-2022/slate-2022-08-16T13:20:42.751235-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 82 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 88 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 2:27 PM](https://archive.org/download/slate-2022/slate-2022-08-21T14:27:30.746245-04:00.lighthouse.json) |
+| [August 21 at 9:07 AM](https://archive.org/download/slate-2022/slate-2022-08-21T09:06:51.618482-04:00.lighthouse.json) |
+| [August 20 at 9:15 PM](https://archive.org/download/slate-2022/slate-2022-08-20T21:15:52.394468-04:00.lighthouse.json) |
+| [August 20 at 2:27 PM](https://archive.org/download/slate-2022/slate-2022-08-20T14:27:16.319366-04:00.lighthouse.json) |
+| [August 20 at 9:02 AM](https://archive.org/download/slate-2022/slate-2022-08-20T09:01:47.581400-04:00.lighthouse.json) |
+| [August 19 at 9:14 PM](https://archive.org/download/slate-2022/slate-2022-08-19T21:14:13.013679-04:00.lighthouse.json) |
 | [August 19 at 2:29 PM](https://archive.org/download/slate-2022/slate-2022-08-19T14:28:55.157964-04:00.lighthouse.json) |
 | [August 19 at 9:21 AM](https://archive.org/download/slate-2022/slate-2022-08-19T09:21:22.972778-04:00.lighthouse.json) |
 | [August 18 at 9:19 PM](https://archive.org/download/slate-2022/slate-2022-08-18T21:18:57.480728-04:00.lighthouse.json) |
 | [August 18 at 2:27 PM](https://archive.org/download/slate-2022/slate-2022-08-18T14:27:33.417365-04:00.lighthouse.json) |
-| [August 18 at 9:00 AM](https://archive.org/download/slate-2022/slate-2022-08-18T09:00:18.653002-04:00.lighthouse.json) |
-| [August 17 at 9:13 PM](https://archive.org/download/slate-2022/slate-2022-08-17T21:13:38.505883-04:00.lighthouse.json) |
-| [August 17 at 2:30 PM](https://archive.org/download/slate-2022/slate-2022-08-17T14:30:23.194003-04:00.lighthouse.json) |
-| [August 17 at 9:08 AM](https://archive.org/download/slate-2022/slate-2022-08-17T09:08:38.195688-04:00.lighthouse.json) |
-| [August 16 at 9:21 PM](https://archive.org/download/slate-2022/slate-2022-08-16T21:21:03.565247-04:00.lighthouse.json) |
-| [August 16 at 1:20 PM](https://archive.org/download/slate-2022/slate-2022-08-16T13:20:42.751235-04:00.lighthouse.json) |
 
 
 

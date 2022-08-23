@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 119 screenshots with the Internet Archive.
+The archiving routine has saved 123 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-21T07:02:54.307187-07:00.jpg">
+  <img src="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-21T07:02:54.307187-07:00.jpg"
+     alt="The Georgia Straight at 2022-08-21 07:02:59-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-21T07:02:54.307187-07:00.jpg">August 21 at 7:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-20T19:19:46.645068-07:00.jpg">
+  <img src="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-20T19:19:46.645068-07:00.jpg"
+     alt="The Georgia Straight at 2022-08-20 19:19:48-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-20T19:19:46.645068-07:00.jpg">August 20 at 7:19 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-20T06:57:19.971687-07:00.jpg">
+  <img src="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-20T06:57:19.971687-07:00.jpg"
+     alt="The Georgia Straight at 2022-08-20 06:57:23-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-20T06:57:19.971687-07:00.jpg">August 20 at 6:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-19T19:33:21.225882-07:00.jpg">
+  <img src="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-19T19:33:21.225882-07:00.jpg"
+     alt="The Georgia Straight at 2022-08-19 19:33:22-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-19T19:33:21.225882-07:00.jpg">August 19 at 7:33 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-19T07:31:52.271831-07:00.jpg">
   <img src="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-19T07:31:52.271831-07:00.jpg"
      alt="The Georgia Straight at 2022-08-19 07:31:56-07:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-15T23:33:44.452788-07:00.jpg">August 15 at 11:33 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-15T12:52:06.777587-07:00.jpg">
-  <img src="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-15T12:52:06.777587-07:00.jpg"
-     alt="The Georgia Straight at 2022-08-15 12:52:09-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-15T12:52:06.777587-07:00.jpg">August 15 at 12:52 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-14T23:25:36.896847-07:00.jpg">
-  <img src="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-14T23:25:36.896847-07:00.jpg"
-     alt="The Georgia Straight at 2022-08-14 23:25:40-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-14T23:25:36.896847-07:00.jpg">August 14 at 11:25 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-14T10:20:12.973924-07:00.jpg">
-  <img src="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-14T10:20:12.973924-07:00.jpg"
-     alt="The Georgia Straight at 2022-08-14 10:20:15-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-14T10:20:12.973924-07:00.jpg">August 14 at 10:20 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-13T23:46:57.638841-07:00.jpg">
-  <img src="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-13T23:46:57.638841-07:00.jpg"
-     alt="The Georgia Straight at 2022-08-13 23:46:59-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-13T23:46:57.638841-07:00.jpg">August 13 at 11:46 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 117 hyperlink lists with the Internet Archive.
+The archiving routine has saved 121 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 21 at 7:03 AM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-21T07:02:54.307187-07:00.hyperlinks.json) |
+| [August 20 at 7:19 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-20T19:19:46.645068-07:00.hyperlinks.json) |
+| [August 20 at 6:57 AM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-20T06:57:19.971687-07:00.hyperlinks.json) |
+| [August 19 at 7:33 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-19T19:33:21.225882-07:00.hyperlinks.json) |
 | [August 19 at 7:31 AM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-19T07:31:52.271831-07:00.hyperlinks.json) |
 | [August 18 at 7:31 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-18T19:31:23.386748-07:00.hyperlinks.json) |
 | [August 18 at 7:07 AM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-18T07:07:33.057278-07:00.hyperlinks.json) |
 | [August 17 at 7:27 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-17T19:27:40.882039-07:00.hyperlinks.json) |
 | [August 17 at 8:01 AM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-17T08:01:41.085579-07:00.hyperlinks.json) |
 | [August 16 at 7:27 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-16T19:27:52.772867-07:00.hyperlinks.json) |
-| [August 16 at 11:30 AM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-16T11:30:28.217232-07:00.hyperlinks.json) |
-| [August 15 at 11:33 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-15T23:33:44.452788-07:00.hyperlinks.json) |
-| [August 15 at 12:52 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-15T12:52:06.777587-07:00.hyperlinks.json) |
-| [August 14 at 11:25 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-14T23:25:36.896847-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 117 accessibility trees with the Internet Archive.
+The archiving routine has saved 121 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 21 at 7:03 AM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-21T07:02:54.307187-07:00.accessibility.json) |
+| [August 20 at 7:19 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-20T19:19:46.645068-07:00.accessibility.json) |
+| [August 20 at 6:57 AM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-20T06:57:19.971687-07:00.accessibility.json) |
+| [August 19 at 7:33 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-19T19:33:21.225882-07:00.accessibility.json) |
 | [August 19 at 7:31 AM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-19T07:31:52.271831-07:00.accessibility.json) |
 | [August 18 at 7:31 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-18T19:31:23.386748-07:00.accessibility.json) |
 | [August 18 at 7:07 AM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-18T07:07:33.057278-07:00.accessibility.json) |
 | [August 17 at 7:27 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-17T19:27:40.882039-07:00.accessibility.json) |
 | [August 17 at 8:01 AM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-17T08:01:41.085579-07:00.accessibility.json) |
 | [August 16 at 7:27 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-16T19:27:52.772867-07:00.accessibility.json) |
-| [August 16 at 11:30 AM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-16T11:30:28.217232-07:00.accessibility.json) |
-| [August 15 at 11:33 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-15T23:33:44.452788-07:00.accessibility.json) |
-| [August 15 at 12:52 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-15T12:52:06.777587-07:00.accessibility.json) |
-| [August 14 at 11:25 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-14T23:25:36.896847-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 54 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 58 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 21 at 7:03 AM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-21T07:02:54.307187-07:00.lighthouse.json) |
+| [August 20 at 7:19 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-20T19:19:46.645068-07:00.lighthouse.json) |
+| [August 20 at 6:57 AM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-20T06:57:19.971687-07:00.lighthouse.json) |
+| [August 19 at 7:33 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-19T19:33:21.225882-07:00.lighthouse.json) |
 | [August 19 at 7:32 AM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-19T07:31:52.271831-07:00.lighthouse.json) |
 | [August 18 at 7:31 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-18T19:31:23.386748-07:00.lighthouse.json) |
 | [August 18 at 7:07 AM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-18T07:07:33.057278-07:00.lighthouse.json) |
 | [August 17 at 7:27 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-17T19:27:40.882039-07:00.lighthouse.json) |
 | [August 17 at 8:01 AM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-17T08:01:41.085579-07:00.lighthouse.json) |
 | [August 16 at 7:27 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-16T19:27:52.772867-07:00.lighthouse.json) |
-| [August 16 at 11:30 AM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-16T11:30:28.217232-07:00.lighthouse.json) |
-| [August 15 at 11:33 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-15T23:33:44.452788-07:00.lighthouse.json) |
-| [August 15 at 12:52 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-15T12:52:06.777587-07:00.lighthouse.json) |
-| [August 14 at 11:25 PM](https://archive.org/download/georgiastraight-2022/georgiastraight-2022-08-14T23:25:36.896847-07:00.lighthouse.json) |
 
 
 
