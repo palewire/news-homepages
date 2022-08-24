@@ -181,10 +181,10 @@ The median score for each category, along with how it ranks in comparison to the
         Accessibility
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        79
+        80
     </td>
     <td style="text-align: right;">
-        586
+        561
     </td>
   </tr>
 
@@ -192,11 +192,11 @@ The median score for each category, along with how it ranks in comparison to the
     <td>
         Best practices
     </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        79
+    <td style="text-align: right; background-color: green; color: white;">
+        92
     </td>
     <td style="text-align: right;">
-        592
+        411
     </td>
   </tr>
 
@@ -204,11 +204,11 @@ The median score for each category, along with how it ranks in comparison to the
     <td>
         Performance
     </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        26
+    <td style="text-align: right; background-color: orange; color: white;">
+        54
     </td>
     <td style="text-align: right;">
-        424
+        149
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         90
     </td>
     <td style="text-align: right;">
-        347
+        349
     </td>
   </tr>
 
