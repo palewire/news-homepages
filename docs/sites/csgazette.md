@@ -28,13 +28,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 18 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-22T08:04:47.837123-06:00.jpg">
+  <img src="https://archive.org/download/csgazette-2022/csgazette-2022-08-22T08:04:47.837123-06:00.jpg"
+     alt="Colorado Springs Gazette at 2022-08-22 08:04:51-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-22T08:04:47.837123-06:00.jpg">August 22 at 8:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-21T20:23:13.470811-06:00.jpg">
+  <img src="https://archive.org/download/csgazette-2022/csgazette-2022-08-21T20:23:13.470811-06:00.jpg"
+     alt="Colorado Springs Gazette at 2022-08-21 20:23:15-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-21T20:23:13.470811-06:00.jpg">August 21 at 8:23 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-21T08:01:11.486406-06:00.jpg">
@@ -126,24 +144,6 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-16T20:25:20.828516-06:00.jpg">August 16 at 8:25 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-16T12:25:13.975208-06:00.jpg">
-  <img src="https://archive.org/download/csgazette-2022/csgazette-2022-08-16T12:25:13.975208-06:00.jpg"
-     alt="Colorado Springs Gazette at 2022-08-16 12:25:15-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-16T12:25:13.975208-06:00.jpg">August 16 at 12:25 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-16T00:27:29.744488-06:00.jpg">
-  <img src="https://archive.org/download/csgazette-2022/csgazette-2022-08-16T00:27:29.744488-06:00.jpg"
-     alt="Colorado Springs Gazette at 2022-08-16 00:27:33-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-16T00:27:29.744488-06:00.jpg">August 16 at 12:27 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
@@ -170,7 +170,7 @@ Here are the 10 most recent hyperlink lists.
 
 ### Accessibility
 
-The archiving routine has saved 9 accessibility trees with the Internet Archive.
+The archiving routine has saved 10 accessibility trees with the Internet Archive.
 
 
 
@@ -178,6 +178,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 22 at 8:04 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-22T08:04:47.837123-06:00.accessibility.json) |
 | [August 21 at 8:01 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-21T08:01:11.486406-06:00.accessibility.json) |
 | [August 20 at 8:18 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-20T20:18:18.044336-06:00.accessibility.json) |
 | [August 20 at 7:55 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-20T07:55:20.529990-06:00.accessibility.json) |

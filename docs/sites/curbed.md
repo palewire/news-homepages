@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 89 screenshots with the Internet Archive.
+The archiving routine has saved 91 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/curbed-2022/curbed-2022-08-22T10:05:18.519021-04:00.jpg">
+  <img src="https://archive.org/download/curbed-2022/curbed-2022-08-22T10:05:18.519021-04:00.jpg"
+     alt="Curbed at 2022-08-22 10:05:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/curbed-2022/curbed-2022-08-22T10:05:18.519021-04:00.jpg">August 22 at 10:05 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/curbed-2022/curbed-2022-08-21T22:22:56.130770-04:00.jpg">
+  <img src="https://archive.org/download/curbed-2022/curbed-2022-08-21T22:22:56.130770-04:00.jpg"
+     alt="Curbed at 2022-08-21 22:22:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/curbed-2022/curbed-2022-08-21T22:22:56.130770-04:00.jpg">August 21 at 10:22 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/curbed-2022/curbed-2022-08-21T10:01:06.207483-04:00.jpg">
   <img src="https://archive.org/download/curbed-2022/curbed-2022-08-21T10:01:06.207483-04:00.jpg"
      alt="Curbed at 2022-08-21 10:01:09-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/curbed-2022/curbed-2022-08-16T22:25:08.428184-04:00.jpg">August 16 at 10:25 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/curbed-2022/curbed-2022-08-16T14:26:39.120995-04:00.jpg">
-  <img src="https://archive.org/download/curbed-2022/curbed-2022-08-16T14:26:39.120995-04:00.jpg"
-     alt="Curbed at 2022-08-16 14:26:48-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/curbed-2022/curbed-2022-08-16T14:26:39.120995-04:00.jpg">August 16 at 2:26 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/curbed-2022/curbed-2022-08-16T02:27:27.473864-04:00.jpg">
-  <img src="https://archive.org/download/curbed-2022/curbed-2022-08-16T02:27:27.473864-04:00.jpg"
-     alt="Curbed at 2022-08-16 02:27:31-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/curbed-2022/curbed-2022-08-16T02:27:27.473864-04:00.jpg">August 16 at 2:27 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 89 hyperlink lists with the Internet Archive.
+The archiving routine has saved 91 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 22 at 10:05 AM](https://archive.org/download/curbed-2022/curbed-2022-08-22T10:05:18.519021-04:00.hyperlinks.json) |
+| [August 21 at 10:23 PM](https://archive.org/download/curbed-2022/curbed-2022-08-21T22:22:56.130770-04:00.hyperlinks.json) |
 | [August 21 at 10:01 AM](https://archive.org/download/curbed-2022/curbed-2022-08-21T10:01:06.207483-04:00.hyperlinks.json) |
 | [August 20 at 10:18 PM](https://archive.org/download/curbed-2022/curbed-2022-08-20T22:17:55.639549-04:00.hyperlinks.json) |
 | [August 20 at 9:55 AM](https://archive.org/download/curbed-2022/curbed-2022-08-20T09:55:18.864257-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 18 at 10:29 PM](https://archive.org/download/curbed-2022/curbed-2022-08-18T22:29:34.831905-04:00.hyperlinks.json) |
 | [August 18 at 10:05 AM](https://archive.org/download/curbed-2022/curbed-2022-08-18T10:05:08.490668-04:00.hyperlinks.json) |
 | [August 17 at 10:25 PM](https://archive.org/download/curbed-2022/curbed-2022-08-17T22:25:07.954462-04:00.hyperlinks.json) |
-| [August 17 at 10:59 AM](https://archive.org/download/curbed-2022/curbed-2022-08-17T10:59:40.976623-04:00.hyperlinks.json) |
-| [August 16 at 10:25 PM](https://archive.org/download/curbed-2022/curbed-2022-08-16T22:25:08.428184-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 89 accessibility trees with the Internet Archive.
+The archiving routine has saved 91 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 22 at 10:05 AM](https://archive.org/download/curbed-2022/curbed-2022-08-22T10:05:18.519021-04:00.accessibility.json) |
+| [August 21 at 10:23 PM](https://archive.org/download/curbed-2022/curbed-2022-08-21T22:22:56.130770-04:00.accessibility.json) |
 | [August 21 at 10:01 AM](https://archive.org/download/curbed-2022/curbed-2022-08-21T10:01:06.207483-04:00.accessibility.json) |
 | [August 20 at 10:18 PM](https://archive.org/download/curbed-2022/curbed-2022-08-20T22:17:55.639549-04:00.accessibility.json) |
 | [August 20 at 9:55 AM](https://archive.org/download/curbed-2022/curbed-2022-08-20T09:55:18.864257-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 18 at 10:29 PM](https://archive.org/download/curbed-2022/curbed-2022-08-18T22:29:34.831905-04:00.accessibility.json) |
 | [August 18 at 10:05 AM](https://archive.org/download/curbed-2022/curbed-2022-08-18T10:05:08.490668-04:00.accessibility.json) |
 | [August 17 at 10:25 PM](https://archive.org/download/curbed-2022/curbed-2022-08-17T22:25:07.954462-04:00.accessibility.json) |
-| [August 17 at 10:59 AM](https://archive.org/download/curbed-2022/curbed-2022-08-17T10:59:40.976623-04:00.accessibility.json) |
-| [August 16 at 10:25 PM](https://archive.org/download/curbed-2022/curbed-2022-08-16T22:25:08.428184-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 59 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 61 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 22 at 10:05 AM](https://archive.org/download/curbed-2022/curbed-2022-08-22T10:05:18.519021-04:00.lighthouse.json) |
+| [August 21 at 10:23 PM](https://archive.org/download/curbed-2022/curbed-2022-08-21T22:22:56.130770-04:00.lighthouse.json) |
 | [August 21 at 10:01 AM](https://archive.org/download/curbed-2022/curbed-2022-08-21T10:01:06.207483-04:00.lighthouse.json) |
 | [August 20 at 10:18 PM](https://archive.org/download/curbed-2022/curbed-2022-08-20T22:17:55.639549-04:00.lighthouse.json) |
 | [August 20 at 9:55 AM](https://archive.org/download/curbed-2022/curbed-2022-08-20T09:55:18.864257-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 18 at 10:29 PM](https://archive.org/download/curbed-2022/curbed-2022-08-18T22:29:34.831905-04:00.lighthouse.json) |
 | [August 18 at 10:05 AM](https://archive.org/download/curbed-2022/curbed-2022-08-18T10:05:08.490668-04:00.lighthouse.json) |
 | [August 17 at 10:25 PM](https://archive.org/download/curbed-2022/curbed-2022-08-17T22:25:07.954462-04:00.lighthouse.json) |
-| [August 17 at 10:59 AM](https://archive.org/download/curbed-2022/curbed-2022-08-17T10:59:40.976623-04:00.lighthouse.json) |
-| [August 16 at 10:25 PM](https://archive.org/download/curbed-2022/curbed-2022-08-16T22:25:08.428184-04:00.lighthouse.json) |
 
 
 

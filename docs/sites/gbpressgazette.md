@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 245 screenshots with the Internet Archive.
+The archiving routine has saved 247 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-22T09:07:14.022816-05:00.jpg">
+  <img src="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-22T09:07:14.022816-05:00.jpg"
+     alt="Green Bay Press-Gazette at 2022-08-22 09:07:23-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-22T09:07:14.022816-05:00.jpg">August 22 at 9:07 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-21T21:25:21.260048-05:00.jpg">
+  <img src="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-21T21:25:21.260048-05:00.jpg"
+     alt="Green Bay Press-Gazette at 2022-08-21 21:25:22-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-21T21:25:21.260048-05:00.jpg">August 21 at 9:25 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-21T09:02:59.567449-05:00.jpg">
   <img src="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-21T09:02:59.567449-05:00.jpg"
      alt="Green Bay Press-Gazette at 2022-08-21 09:03:03-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-16T21:27:37.261591-05:00.jpg">August 16 at 9:27 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-16T13:29:18.654803-05:00.jpg">
-  <img src="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-16T13:29:18.654803-05:00.jpg"
-     alt="Green Bay Press-Gazette at 2022-08-16 13:29:20-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-16T13:29:18.654803-05:00.jpg">August 16 at 1:29 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-16T01:33:10.237406-05:00.jpg">
-  <img src="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-16T01:33:10.237406-05:00.jpg"
-     alt="Green Bay Press-Gazette at 2022-08-16 01:33:16-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-16T01:33:10.237406-05:00.jpg">August 16 at 1:33 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 240 hyperlink lists with the Internet Archive.
+The archiving routine has saved 242 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 22 at 9:07 AM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-22T09:07:14.022816-05:00.hyperlinks.json) |
+| [August 21 at 9:25 PM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-21T21:25:21.260048-05:00.hyperlinks.json) |
 | [August 21 at 9:03 AM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-21T09:02:59.567449-05:00.hyperlinks.json) |
 | [August 20 at 9:20 PM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-20T21:20:22.705683-05:00.hyperlinks.json) |
 | [August 20 at 8:57 AM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-20T08:57:05.826438-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 18 at 9:31 PM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-18T21:31:15.071369-05:00.hyperlinks.json) |
 | [August 18 at 9:07 AM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-18T09:07:53.479847-05:00.hyperlinks.json) |
 | [August 17 at 9:27 PM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-17T21:27:35.266752-05:00.hyperlinks.json) |
-| [August 17 at 10:02 AM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-17T10:02:07.344765-05:00.hyperlinks.json) |
-| [August 16 at 9:27 PM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-16T21:27:37.261591-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 240 accessibility trees with the Internet Archive.
+The archiving routine has saved 242 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 22 at 9:07 AM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-22T09:07:14.022816-05:00.accessibility.json) |
+| [August 21 at 9:25 PM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-21T21:25:21.260048-05:00.accessibility.json) |
 | [August 21 at 9:03 AM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-21T09:02:59.567449-05:00.accessibility.json) |
 | [August 20 at 9:20 PM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-20T21:20:22.705683-05:00.accessibility.json) |
 | [August 20 at 8:57 AM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-20T08:57:05.826438-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 18 at 9:31 PM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-18T21:31:15.071369-05:00.accessibility.json) |
 | [August 18 at 9:07 AM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-18T09:07:53.479847-05:00.accessibility.json) |
 | [August 17 at 9:27 PM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-17T21:27:35.266752-05:00.accessibility.json) |
-| [August 17 at 10:02 AM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-17T10:02:07.344765-05:00.accessibility.json) |
-| [August 16 at 9:27 PM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-16T21:27:37.261591-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 58 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 60 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 22 at 9:07 AM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-22T09:07:14.022816-05:00.lighthouse.json) |
+| [August 21 at 9:25 PM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-21T21:25:21.260048-05:00.lighthouse.json) |
 | [August 21 at 9:03 AM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-21T09:02:59.567449-05:00.lighthouse.json) |
 | [August 20 at 9:20 PM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-20T21:20:22.705683-05:00.lighthouse.json) |
 | [August 20 at 8:57 AM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-20T08:57:05.826438-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 18 at 9:31 PM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-18T21:31:15.071369-05:00.lighthouse.json) |
 | [August 18 at 9:08 AM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-18T09:07:53.479847-05:00.lighthouse.json) |
 | [August 17 at 9:27 PM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-17T21:27:35.266752-05:00.lighthouse.json) |
-| [August 17 at 10:02 AM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-17T10:02:07.344765-05:00.lighthouse.json) |
-| [August 16 at 9:27 PM](https://archive.org/download/gbpressgazette-2022/gbpressgazette-2022-08-16T21:27:37.261591-05:00.lighthouse.json) |
 
 
 

@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 0 screenshots with the Internet Archive.
+The archiving routine has saved 2 screenshots with the Internet Archive.
 
 
 
@@ -36,11 +36,29 @@ Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
 
+<div class="latest-child">
+ <a href="https://archive.org/download/aspendailynews-2022/aspendailynews-2022-08-22T16:53:26.855556-06:00.jpg">
+  <img src="https://archive.org/download/aspendailynews-2022/aspendailynews-2022-08-22T16:53:26.855556-06:00.jpg"
+     alt="Aspen Daily News at 2022-08-22 16:53:28-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/aspendailynews-2022/aspendailynews-2022-08-22T16:53:26.855556-06:00.jpg">August 22 at 4:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/aspendailynews-2022/aspendailynews-2022-08-22T04:53:22.246742-06:00.jpg">
+  <img src="https://archive.org/download/aspendailynews-2022/aspendailynews-2022-08-22T04:53:22.246742-06:00.jpg"
+     alt="Aspen Daily News at 2022-08-22 04:53:28-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/aspendailynews-2022/aspendailynews-2022-08-22T04:53:22.246742-06:00.jpg">August 22 at 4:53 AM</a></p>
+</div>
+
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 0 hyperlink lists with the Internet Archive.
+The archiving routine has saved 2 hyperlink lists with the Internet Archive.
 
 
 
@@ -48,11 +66,13 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 22 at 4:53 PM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-08-22T16:53:26.855556-06:00.hyperlinks.json) |
+| [August 22 at 4:53 AM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-08-22T04:53:22.246742-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 0 accessibility trees with the Internet Archive.
+The archiving routine has saved 2 accessibility trees with the Internet Archive.
 
 
 
@@ -60,12 +80,14 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 22 at 4:53 PM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-08-22T16:53:26.855556-06:00.accessibility.json) |
+| [August 22 at 4:53 AM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-08-22T04:53:22.246742-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 0 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 2 Lighthouse audits with the Internet Archive.
 
 
 
@@ -73,6 +95,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 22 at 4:53 PM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-08-22T16:53:26.855556-06:00.lighthouse.json) |
+| [August 22 at 4:53 AM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-08-22T04:53:22.246742-06:00.lighthouse.json) |
 
 
 
@@ -82,3 +106,4 @@ Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |
+|[aspendailynews-2022](https://archive.org/details/aspendailynews-2022)|

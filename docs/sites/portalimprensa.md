@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 38 screenshots with the Internet Archive.
+The archiving routine has saved 41 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-22T12:00:37.788586-03:00.jpg">
+  <img src="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-22T12:00:37.788586-03:00.jpg"
+     alt="Portal Imprensa at 2022-08-22 12:00:39-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-22T12:00:37.788586-03:00.jpg">August 22 at 12:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-22T09:04:52.351925-03:00.jpg">
+  <img src="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-22T09:04:52.351925-03:00.jpg"
+     alt="Portal Imprensa at 2022-08-22 09:04:54-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-22T09:04:52.351925-03:00.jpg">August 22 at 9:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-22T00:41:14.581915-03:00.jpg">
+  <img src="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-22T00:41:14.581915-03:00.jpg"
+     alt="Portal Imprensa at 2022-08-22 00:41:17-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-22T00:41:14.581915-03:00.jpg">August 22 at 12:41 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-21T11:58:45.325615-03:00.jpg">
   <img src="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-21T11:58:45.325615-03:00.jpg"
      alt="Portal Imprensa at 2022-08-21 11:58:48-03:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-19T00:39:18.214735-03:00.jpg">August 19 at 12:39 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-18T12:25:32.080429-03:00.jpg">
-  <img src="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-18T12:25:32.080429-03:00.jpg"
-     alt="Portal Imprensa at 2022-08-18 12:25:36-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-18T12:25:32.080429-03:00.jpg">August 18 at 12:25 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-18T09:05:57.058737-03:00.jpg">
-  <img src="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-18T09:05:57.058737-03:00.jpg"
-     alt="Portal Imprensa at 2022-08-18 09:06:00-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-18T09:05:57.058737-03:00.jpg">August 18 at 9:06 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-18T00:43:12.701053-03:00.jpg">
-  <img src="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-18T00:43:12.701053-03:00.jpg"
-     alt="Portal Imprensa at 2022-08-18 00:43:14-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-18T00:43:12.701053-03:00.jpg">August 18 at 12:43 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 39 hyperlink lists with the Internet Archive.
+The archiving routine has saved 42 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 22 at 12:00 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-22T12:00:37.788586-03:00.hyperlinks.json) |
+| [August 22 at 9:04 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-22T09:04:52.351925-03:00.hyperlinks.json) |
+| [August 22 at 12:41 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-22T00:41:14.581915-03:00.hyperlinks.json) |
 | [August 21 at 11:58 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-21T11:58:45.325615-03:00.hyperlinks.json) |
 | [August 21 at 8:57 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-21T08:57:18.154302-03:00.hyperlinks.json) |
 | [August 21 at 12:34 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-21T00:34:07.841670-03:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 20 at 9:03 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-20T09:03:31.147845-03:00.hyperlinks.json) |
 | [August 20 at 12:35 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-20T00:35:27.212340-03:00.hyperlinks.json) |
 | [August 19 at 12:29 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-19T12:29:11.631496-03:00.hyperlinks.json) |
-| [August 19 at 9:09 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-19T09:08:53.941286-03:00.hyperlinks.json) |
-| [August 19 at 12:39 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-19T00:39:18.214735-03:00.hyperlinks.json) |
-| [August 18 at 12:25 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-18T12:25:32.080429-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 39 accessibility trees with the Internet Archive.
+The archiving routine has saved 42 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 22 at 12:00 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-22T12:00:37.788586-03:00.accessibility.json) |
+| [August 22 at 9:04 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-22T09:04:52.351925-03:00.accessibility.json) |
+| [August 22 at 12:41 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-22T00:41:14.581915-03:00.accessibility.json) |
 | [August 21 at 11:58 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-21T11:58:45.325615-03:00.accessibility.json) |
 | [August 21 at 8:57 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-21T08:57:18.154302-03:00.accessibility.json) |
 | [August 21 at 12:34 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-21T00:34:07.841670-03:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 20 at 9:03 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-20T09:03:31.147845-03:00.accessibility.json) |
 | [August 20 at 12:35 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-20T00:35:27.212340-03:00.accessibility.json) |
 | [August 19 at 12:29 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-19T12:29:11.631496-03:00.accessibility.json) |
-| [August 19 at 9:08 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-19T09:08:53.941286-03:00.accessibility.json) |
-| [August 19 at 12:39 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-19T00:39:18.214735-03:00.accessibility.json) |
-| [August 18 at 12:25 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-18T12:25:32.080429-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 42 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 22 at 12:00 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-22T12:00:37.788586-03:00.lighthouse.json) |
+| [August 22 at 9:05 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-22T09:04:52.351925-03:00.lighthouse.json) |
+| [August 22 at 12:41 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-22T00:41:14.581915-03:00.lighthouse.json) |
 | [August 21 at 11:58 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-21T11:58:45.325615-03:00.lighthouse.json) |
 | [August 21 at 8:57 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-21T08:57:18.154302-03:00.lighthouse.json) |
 | [August 21 at 12:34 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-21T00:34:07.841670-03:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 20 at 9:03 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-20T09:03:31.147845-03:00.lighthouse.json) |
 | [August 20 at 12:35 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-20T00:35:27.212340-03:00.lighthouse.json) |
 | [August 19 at 12:29 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-19T12:29:11.631496-03:00.lighthouse.json) |
-| [August 19 at 9:09 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-19T09:08:53.941286-03:00.lighthouse.json) |
-| [August 19 at 12:39 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-19T00:39:18.214735-03:00.lighthouse.json) |
-| [August 18 at 12:25 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-18T12:25:32.080429-03:00.lighthouse.json) |
 
 
 

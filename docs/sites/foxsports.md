@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 98 screenshots with the Internet Archive.
+The archiving routine has saved 100 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/foxsports-2022/foxsports-2022-08-22T19:01:47.937746-04:00.jpg">
+  <img src="https://archive.org/download/foxsports-2022/foxsports-2022-08-22T19:01:47.937746-04:00.jpg"
+     alt="Fox Sports at 2022-08-22 19:01:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foxsports-2022/foxsports-2022-08-22T19:01:47.937746-04:00.jpg">August 22 at 7:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foxsports-2022/foxsports-2022-08-22T06:59:40.909573-04:00.jpg">
+  <img src="https://archive.org/download/foxsports-2022/foxsports-2022-08-22T06:59:40.909573-04:00.jpg"
+     alt="Fox Sports at 2022-08-22 06:59:45-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foxsports-2022/foxsports-2022-08-22T06:59:40.909573-04:00.jpg">August 22 at 6:59 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/foxsports-2022/foxsports-2022-08-21T18:58:56.069243-04:00.jpg">
   <img src="https://archive.org/download/foxsports-2022/foxsports-2022-08-21T18:58:56.069243-04:00.jpg"
      alt="Fox Sports at 2022-08-21 18:59:00-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/foxsports-2022/foxsports-2022-08-17T06:57:56.443747-04:00.jpg">August 17 at 6:57 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/foxsports-2022/foxsports-2022-08-16T19:05:59.401261-04:00.jpg">
-  <img src="https://archive.org/download/foxsports-2022/foxsports-2022-08-16T19:05:59.401261-04:00.jpg"
-     alt="Fox Sports at 2022-08-16 19:06:03-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/foxsports-2022/foxsports-2022-08-16T19:05:59.401261-04:00.jpg">August 16 at 7:06 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/foxsports-2022/foxsports-2022-08-16T09:38:16.052583-04:00.jpg">
-  <img src="https://archive.org/download/foxsports-2022/foxsports-2022-08-16T09:38:16.052583-04:00.jpg"
-     alt="Fox Sports at 2022-08-16 09:38:17-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/foxsports-2022/foxsports-2022-08-16T09:38:16.052583-04:00.jpg">August 16 at 9:38 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 98 hyperlink lists with the Internet Archive.
+The archiving routine has saved 100 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 22 at 7:01 PM](https://archive.org/download/foxsports-2022/foxsports-2022-08-22T19:01:47.937746-04:00.hyperlinks.json) |
+| [August 22 at 6:59 AM](https://archive.org/download/foxsports-2022/foxsports-2022-08-22T06:59:40.909573-04:00.hyperlinks.json) |
 | [August 21 at 6:59 PM](https://archive.org/download/foxsports-2022/foxsports-2022-08-21T18:58:56.069243-04:00.hyperlinks.json) |
 | [August 21 at 7:01 AM](https://archive.org/download/foxsports-2022/foxsports-2022-08-21T07:01:40.165230-04:00.hyperlinks.json) |
 | [August 20 at 7:05 PM](https://archive.org/download/foxsports-2022/foxsports-2022-08-20T19:05:04.055265-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 19 at 7:01 AM](https://archive.org/download/foxsports-2022/foxsports-2022-08-19T07:01:30.262660-04:00.hyperlinks.json) |
 | [August 18 at 7:04 PM](https://archive.org/download/foxsports-2022/foxsports-2022-08-18T19:04:40.315387-04:00.hyperlinks.json) |
 | [August 18 at 7:00 AM](https://archive.org/download/foxsports-2022/foxsports-2022-08-18T06:59:56.430258-04:00.hyperlinks.json) |
-| [August 17 at 7:02 PM](https://archive.org/download/foxsports-2022/foxsports-2022-08-17T19:02:44.918879-04:00.hyperlinks.json) |
-| [August 17 at 6:58 AM](https://archive.org/download/foxsports-2022/foxsports-2022-08-17T06:57:56.443747-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 98 accessibility trees with the Internet Archive.
+The archiving routine has saved 100 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 22 at 7:01 PM](https://archive.org/download/foxsports-2022/foxsports-2022-08-22T19:01:47.937746-04:00.accessibility.json) |
+| [August 22 at 6:59 AM](https://archive.org/download/foxsports-2022/foxsports-2022-08-22T06:59:40.909573-04:00.accessibility.json) |
 | [August 21 at 6:59 PM](https://archive.org/download/foxsports-2022/foxsports-2022-08-21T18:58:56.069243-04:00.accessibility.json) |
 | [August 21 at 7:01 AM](https://archive.org/download/foxsports-2022/foxsports-2022-08-21T07:01:40.165230-04:00.accessibility.json) |
 | [August 20 at 7:05 PM](https://archive.org/download/foxsports-2022/foxsports-2022-08-20T19:05:04.055265-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 19 at 7:01 AM](https://archive.org/download/foxsports-2022/foxsports-2022-08-19T07:01:30.262660-04:00.accessibility.json) |
 | [August 18 at 7:04 PM](https://archive.org/download/foxsports-2022/foxsports-2022-08-18T19:04:40.315387-04:00.accessibility.json) |
 | [August 18 at 6:59 AM](https://archive.org/download/foxsports-2022/foxsports-2022-08-18T06:59:56.430258-04:00.accessibility.json) |
-| [August 17 at 7:02 PM](https://archive.org/download/foxsports-2022/foxsports-2022-08-17T19:02:44.918879-04:00.accessibility.json) |
-| [August 17 at 6:58 AM](https://archive.org/download/foxsports-2022/foxsports-2022-08-17T06:57:56.443747-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 59 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 61 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 22 at 7:01 PM](https://archive.org/download/foxsports-2022/foxsports-2022-08-22T19:01:47.937746-04:00.lighthouse.json) |
+| [August 22 at 6:59 AM](https://archive.org/download/foxsports-2022/foxsports-2022-08-22T06:59:40.909573-04:00.lighthouse.json) |
 | [August 21 at 6:59 PM](https://archive.org/download/foxsports-2022/foxsports-2022-08-21T18:58:56.069243-04:00.lighthouse.json) |
 | [August 21 at 7:01 AM](https://archive.org/download/foxsports-2022/foxsports-2022-08-21T07:01:40.165230-04:00.lighthouse.json) |
 | [August 20 at 7:05 PM](https://archive.org/download/foxsports-2022/foxsports-2022-08-20T19:05:04.055265-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 19 at 7:01 AM](https://archive.org/download/foxsports-2022/foxsports-2022-08-19T07:01:30.262660-04:00.lighthouse.json) |
 | [August 18 at 7:04 PM](https://archive.org/download/foxsports-2022/foxsports-2022-08-18T19:04:40.315387-04:00.lighthouse.json) |
 | [August 18 at 7:00 AM](https://archive.org/download/foxsports-2022/foxsports-2022-08-18T06:59:56.430258-04:00.lighthouse.json) |
-| [August 17 at 7:02 PM](https://archive.org/download/foxsports-2022/foxsports-2022-08-17T19:02:44.918879-04:00.lighthouse.json) |
-| [August 17 at 6:58 AM](https://archive.org/download/foxsports-2022/foxsports-2022-08-17T06:57:56.443747-04:00.lighthouse.json) |
 
 
 

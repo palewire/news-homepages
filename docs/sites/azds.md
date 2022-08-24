@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 96 screenshots with the Internet Archive.
+The archiving routine has saved 98 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/azds-2022/azds-2022-08-22T06:01:53.709761-07:00.jpg">
+  <img src="https://archive.org/download/azds-2022/azds-2022-08-22T06:01:53.709761-07:00.jpg"
+     alt="Arizona Daily Sun at 2022-08-22 06:01:55-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/azds-2022/azds-2022-08-22T06:01:53.709761-07:00.jpg">August 22 at 6:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/azds-2022/azds-2022-08-21T18:11:25.122688-07:00.jpg">
+  <img src="https://archive.org/download/azds-2022/azds-2022-08-21T18:11:25.122688-07:00.jpg"
+     alt="Arizona Daily Sun at 2022-08-21 18:11:26-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/azds-2022/azds-2022-08-21T18:11:25.122688-07:00.jpg">August 21 at 6:11 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/azds-2022/azds-2022-08-21T06:05:07.271613-07:00.jpg">
   <img src="https://archive.org/download/azds-2022/azds-2022-08-21T06:05:07.271613-07:00.jpg"
      alt="Arizona Daily Sun at 2022-08-21 06:05:10-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/azds-2022/azds-2022-08-16T18:18:07.056784-07:00.jpg">August 16 at 6:18 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/azds-2022/azds-2022-08-16T10:14:27.511705-07:00.jpg">
-  <img src="https://archive.org/download/azds-2022/azds-2022-08-16T10:14:27.511705-07:00.jpg"
-     alt="Arizona Daily Sun at 2022-08-16 10:14:31-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/azds-2022/azds-2022-08-16T10:14:27.511705-07:00.jpg">August 16 at 10:14 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/azds-2022/azds-2022-08-15T23:12:14.835917-07:00.jpg">
-  <img src="https://archive.org/download/azds-2022/azds-2022-08-15T23:12:14.835917-07:00.jpg"
-     alt="Arizona Daily Sun at 2022-08-15 23:12:16-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/azds-2022/azds-2022-08-15T23:12:14.835917-07:00.jpg">August 15 at 11:12 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 93 hyperlink lists with the Internet Archive.
+The archiving routine has saved 95 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 22 at 6:01 AM](https://archive.org/download/azds-2022/azds-2022-08-22T06:01:53.709761-07:00.hyperlinks.json) |
+| [August 21 at 6:11 PM](https://archive.org/download/azds-2022/azds-2022-08-21T18:11:25.122688-07:00.hyperlinks.json) |
 | [August 21 at 6:05 AM](https://archive.org/download/azds-2022/azds-2022-08-21T06:05:07.271613-07:00.hyperlinks.json) |
 | [August 20 at 6:14 PM](https://archive.org/download/azds-2022/azds-2022-08-20T18:14:02.073593-07:00.hyperlinks.json) |
 | [August 20 at 6:00 AM](https://archive.org/download/azds-2022/azds-2022-08-20T06:00:08.033304-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 18 at 6:17 PM](https://archive.org/download/azds-2022/azds-2022-08-18T18:17:15.440324-07:00.hyperlinks.json) |
 | [August 18 at 5:58 AM](https://archive.org/download/azds-2022/azds-2022-08-18T05:58:31.017165-07:00.hyperlinks.json) |
 | [August 17 at 6:12 PM](https://archive.org/download/azds-2022/azds-2022-08-17T18:12:15.660709-07:00.hyperlinks.json) |
-| [August 17 at 6:05 AM](https://archive.org/download/azds-2022/azds-2022-08-17T06:05:27.995424-07:00.hyperlinks.json) |
-| [August 16 at 6:18 PM](https://archive.org/download/azds-2022/azds-2022-08-16T18:18:07.056784-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 96 accessibility trees with the Internet Archive.
+The archiving routine has saved 98 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 22 at 6:01 AM](https://archive.org/download/azds-2022/azds-2022-08-22T06:01:53.709761-07:00.accessibility.json) |
+| [August 21 at 6:11 PM](https://archive.org/download/azds-2022/azds-2022-08-21T18:11:25.122688-07:00.accessibility.json) |
 | [August 21 at 6:05 AM](https://archive.org/download/azds-2022/azds-2022-08-21T06:05:07.271613-07:00.accessibility.json) |
 | [August 20 at 6:14 PM](https://archive.org/download/azds-2022/azds-2022-08-20T18:14:02.073593-07:00.accessibility.json) |
 | [August 20 at 6:00 AM](https://archive.org/download/azds-2022/azds-2022-08-20T06:00:08.033304-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 18 at 6:17 PM](https://archive.org/download/azds-2022/azds-2022-08-18T18:17:15.440324-07:00.accessibility.json) |
 | [August 18 at 5:58 AM](https://archive.org/download/azds-2022/azds-2022-08-18T05:58:31.017165-07:00.accessibility.json) |
 | [August 17 at 6:12 PM](https://archive.org/download/azds-2022/azds-2022-08-17T18:12:15.660709-07:00.accessibility.json) |
-| [August 17 at 6:05 AM](https://archive.org/download/azds-2022/azds-2022-08-17T06:05:27.995424-07:00.accessibility.json) |
-| [August 16 at 6:18 PM](https://archive.org/download/azds-2022/azds-2022-08-16T18:18:07.056784-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 61 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 63 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 22 at 6:02 AM](https://archive.org/download/azds-2022/azds-2022-08-22T06:01:53.709761-07:00.lighthouse.json) |
+| [August 21 at 6:11 PM](https://archive.org/download/azds-2022/azds-2022-08-21T18:11:25.122688-07:00.lighthouse.json) |
 | [August 21 at 6:05 AM](https://archive.org/download/azds-2022/azds-2022-08-21T06:05:07.271613-07:00.lighthouse.json) |
 | [August 20 at 6:14 PM](https://archive.org/download/azds-2022/azds-2022-08-20T18:14:02.073593-07:00.lighthouse.json) |
 | [August 20 at 6:00 AM](https://archive.org/download/azds-2022/azds-2022-08-20T06:00:08.033304-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 18 at 6:17 PM](https://archive.org/download/azds-2022/azds-2022-08-18T18:17:15.440324-07:00.lighthouse.json) |
 | [August 18 at 5:58 AM](https://archive.org/download/azds-2022/azds-2022-08-18T05:58:31.017165-07:00.lighthouse.json) |
 | [August 17 at 6:12 PM](https://archive.org/download/azds-2022/azds-2022-08-17T18:12:15.660709-07:00.lighthouse.json) |
-| [August 17 at 6:05 AM](https://archive.org/download/azds-2022/azds-2022-08-17T06:05:27.995424-07:00.lighthouse.json) |
-| [August 16 at 6:18 PM](https://archive.org/download/azds-2022/azds-2022-08-16T18:18:07.056784-07:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 60 screenshots with the Internet Archive.
+The archiving routine has saved 62 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-08-22T20:35:47.854235+05:30.jpg">
+  <img src="https://archive.org/download/timesofindia-2022/timesofindia-2022-08-22T20:35:47.854235+05:30.jpg"
+     alt="Times of India at 2022-08-22 20:35:52+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-08-22T20:35:47.854235+05:30.jpg">August 22 at 8:35 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-08-22T09:15:40.270633+05:30.jpg">
+  <img src="https://archive.org/download/timesofindia-2022/timesofindia-2022-08-22T09:15:40.270633+05:30.jpg"
+     alt="Times of India at 2022-08-22 09:15:42+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-08-22T09:15:40.270633+05:30.jpg">August 22 at 9:15 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-08-21T20:34:16.489970+05:30.jpg">
   <img src="https://archive.org/download/timesofindia-2022/timesofindia-2022-08-21T20:34:16.489970+05:30.jpg"
      alt="Times of India at 2022-08-21 20:34:17+05:30 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-08-17T20:43:24.678072+05:30.jpg">August 17 at 8:43 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-08-17T09:17:07.624787+05:30.jpg">
-  <img src="https://archive.org/download/timesofindia-2022/timesofindia-2022-08-17T09:17:07.624787+05:30.jpg"
-     alt="Times of India at 2022-08-17 09:17:10+05:30 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-08-17T09:17:07.624787+05:30.jpg">August 17 at 9:17 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-08-17T00:17:33.257693+05:30.jpg">
-  <img src="https://archive.org/download/timesofindia-2022/timesofindia-2022-08-17T00:17:33.257693+05:30.jpg"
-     alt="Times of India at 2022-08-17 00:17:34+05:30 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-08-17T00:17:33.257693+05:30.jpg">August 17 at 12:17 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 49 hyperlink lists with the Internet Archive.
+The archiving routine has saved 51 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 22 at 8:35 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-22T20:35:47.854235+05:30.hyperlinks.json) |
+| [August 22 at 9:15 AM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-22T09:15:40.270633+05:30.hyperlinks.json) |
 | [August 21 at 8:34 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-21T20:34:16.489970+05:30.hyperlinks.json) |
 | [August 21 at 9:09 AM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-21T09:09:03.919581+05:30.hyperlinks.json) |
 | [August 20 at 8:29 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-20T20:28:53.328906+05:30.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 19 at 5:43 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-19T17:43:36.249354+05:30.hyperlinks.json) |
 | [August 19 at 9:14 AM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-19T09:14:47.608970+05:30.hyperlinks.json) |
 | [August 18 at 9:01 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-18T21:00:54.837194+05:30.hyperlinks.json) |
-| [August 18 at 9:17 AM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-18T09:17:27.079086+05:30.hyperlinks.json) |
-| [August 17 at 8:43 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-17T20:43:24.678072+05:30.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 54 accessibility trees with the Internet Archive.
+The archiving routine has saved 56 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 22 at 8:35 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-22T20:35:47.854235+05:30.accessibility.json) |
+| [August 22 at 9:15 AM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-22T09:15:40.270633+05:30.accessibility.json) |
 | [August 21 at 8:34 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-21T20:34:16.489970+05:30.accessibility.json) |
 | [August 21 at 9:09 AM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-21T09:09:03.919581+05:30.accessibility.json) |
 | [August 20 at 8:29 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-20T20:28:53.328906+05:30.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 19 at 5:43 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-19T17:43:36.249354+05:30.accessibility.json) |
 | [August 19 at 9:14 AM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-19T09:14:47.608970+05:30.accessibility.json) |
 | [August 18 at 9:00 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-18T21:00:54.837194+05:30.accessibility.json) |
-| [August 18 at 9:17 AM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-18T09:17:27.079086+05:30.accessibility.json) |
-| [August 17 at 8:43 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-17T20:43:24.678072+05:30.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 60 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 62 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 22 at 8:35 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-22T20:35:47.854235+05:30.lighthouse.json) |
+| [August 22 at 9:15 AM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-22T09:15:40.270633+05:30.lighthouse.json) |
 | [August 21 at 8:34 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-21T20:34:16.489970+05:30.lighthouse.json) |
 | [August 21 at 9:09 AM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-21T09:09:03.919581+05:30.lighthouse.json) |
 | [August 20 at 8:29 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-20T20:28:53.328906+05:30.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 19 at 5:43 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-19T17:43:36.249354+05:30.lighthouse.json) |
 | [August 19 at 9:14 AM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-19T09:14:47.608970+05:30.lighthouse.json) |
 | [August 18 at 9:01 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-18T21:00:54.837194+05:30.lighthouse.json) |
-| [August 18 at 9:17 AM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-18T09:17:27.079086+05:30.lighthouse.json) |
-| [August 17 at 8:43 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-17T20:43:24.678072+05:30.lighthouse.json) |
 
 
 

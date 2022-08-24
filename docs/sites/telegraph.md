@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 389 screenshots with the Internet Archive.
+The archiving routine has saved 392 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/telegraph-2022/telegraph-2022-08-22T14:04:33.723976+01:00.jpg">
+  <img src="https://archive.org/download/telegraph-2022/telegraph-2022-08-22T14:04:33.723976+01:00.jpg"
+     alt="The Telegraph at 2022-08-22 14:04:51+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-08-22T14:04:33.723976+01:00.jpg">August 22 at 2:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/telegraph-2022/telegraph-2022-08-22T10:15:04.213854+01:00.jpg">
+  <img src="https://archive.org/download/telegraph-2022/telegraph-2022-08-22T10:15:04.213854+01:00.jpg"
+     alt="The Telegraph at 2022-08-22 10:15:22+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-08-22T10:15:04.213854+01:00.jpg">August 22 at 10:15 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/telegraph-2022/telegraph-2022-08-22T02:14:49.647204+01:00.jpg">
+  <img src="https://archive.org/download/telegraph-2022/telegraph-2022-08-22T02:14:49.647204+01:00.jpg"
+     alt="The Telegraph at 2022-08-22 02:14:51+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-08-22T02:14:49.647204+01:00.jpg">August 22 at 2:14 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/telegraph-2022/telegraph-2022-08-21T14:06:57.901816+01:00.jpg">
   <img src="https://archive.org/download/telegraph-2022/telegraph-2022-08-21T14:06:57.901816+01:00.jpg"
      alt="The Telegraph at 2022-08-21 14:07:00+01:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-08-19T02:19:56.243163+01:00.jpg">August 19 at 2:19 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/telegraph-2022/telegraph-2022-08-18T14:01:08.848268+01:00.jpg">
-  <img src="https://archive.org/download/telegraph-2022/telegraph-2022-08-18T14:01:08.848268+01:00.jpg"
-     alt="The Telegraph at 2022-08-18 14:01:10+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-08-18T14:01:08.848268+01:00.jpg">August 18 at 2:01 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/telegraph-2022/telegraph-2022-08-18T10:11:43.267533+01:00.jpg">
-  <img src="https://archive.org/download/telegraph-2022/telegraph-2022-08-18T10:11:43.267533+01:00.jpg"
-     alt="The Telegraph at 2022-08-18 10:11:45+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-08-18T10:11:43.267533+01:00.jpg">August 18 at 10:11 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/telegraph-2022/telegraph-2022-08-18T02:16:06.140146+01:00.jpg">
-  <img src="https://archive.org/download/telegraph-2022/telegraph-2022-08-18T02:16:06.140146+01:00.jpg"
-     alt="The Telegraph at 2022-08-18 02:16:10+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/telegraph-2022/telegraph-2022-08-18T02:16:06.140146+01:00.jpg">August 18 at 2:16 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 376 hyperlink lists with the Internet Archive.
+The archiving routine has saved 379 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 22 at 2:04 PM](https://archive.org/download/telegraph-2022/telegraph-2022-08-22T14:04:33.723976+01:00.hyperlinks.json) |
+| [August 22 at 10:15 AM](https://archive.org/download/telegraph-2022/telegraph-2022-08-22T10:15:04.213854+01:00.hyperlinks.json) |
+| [August 22 at 2:14 AM](https://archive.org/download/telegraph-2022/telegraph-2022-08-22T02:14:49.647204+01:00.hyperlinks.json) |
 | [August 21 at 2:07 PM](https://archive.org/download/telegraph-2022/telegraph-2022-08-21T14:06:57.901816+01:00.hyperlinks.json) |
 | [August 21 at 10:12 AM](https://archive.org/download/telegraph-2022/telegraph-2022-08-21T10:12:37.012848+01:00.hyperlinks.json) |
 | [August 21 at 2:17 AM](https://archive.org/download/telegraph-2022/telegraph-2022-08-21T02:17:07.915709+01:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 20 at 10:13 AM](https://archive.org/download/telegraph-2022/telegraph-2022-08-20T10:13:12.279466+01:00.hyperlinks.json) |
 | [August 20 at 2:15 AM](https://archive.org/download/telegraph-2022/telegraph-2022-08-20T02:15:07.789216+01:00.hyperlinks.json) |
 | [August 19 at 2:21 PM](https://archive.org/download/telegraph-2022/telegraph-2022-08-19T14:21:16.092528+01:00.hyperlinks.json) |
-| [August 19 at 10:17 AM](https://archive.org/download/telegraph-2022/telegraph-2022-08-19T10:17:01.323097+01:00.hyperlinks.json) |
-| [August 19 at 2:20 AM](https://archive.org/download/telegraph-2022/telegraph-2022-08-19T02:19:56.243163+01:00.hyperlinks.json) |
-| [August 18 at 2:01 PM](https://archive.org/download/telegraph-2022/telegraph-2022-08-18T14:01:08.848268+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 378 accessibility trees with the Internet Archive.
+The archiving routine has saved 381 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 22 at 2:04 PM](https://archive.org/download/telegraph-2022/telegraph-2022-08-22T14:04:33.723976+01:00.accessibility.json) |
+| [August 22 at 10:15 AM](https://archive.org/download/telegraph-2022/telegraph-2022-08-22T10:15:04.213854+01:00.accessibility.json) |
+| [August 22 at 2:14 AM](https://archive.org/download/telegraph-2022/telegraph-2022-08-22T02:14:49.647204+01:00.accessibility.json) |
 | [August 21 at 2:07 PM](https://archive.org/download/telegraph-2022/telegraph-2022-08-21T14:06:57.901816+01:00.accessibility.json) |
 | [August 21 at 10:12 AM](https://archive.org/download/telegraph-2022/telegraph-2022-08-21T10:12:37.012848+01:00.accessibility.json) |
 | [August 21 at 2:17 AM](https://archive.org/download/telegraph-2022/telegraph-2022-08-21T02:17:07.915709+01:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 20 at 10:13 AM](https://archive.org/download/telegraph-2022/telegraph-2022-08-20T10:13:12.279466+01:00.accessibility.json) |
 | [August 20 at 2:15 AM](https://archive.org/download/telegraph-2022/telegraph-2022-08-20T02:15:07.789216+01:00.accessibility.json) |
 | [August 19 at 2:21 PM](https://archive.org/download/telegraph-2022/telegraph-2022-08-19T14:21:16.092528+01:00.accessibility.json) |
-| [August 19 at 10:17 AM](https://archive.org/download/telegraph-2022/telegraph-2022-08-19T10:17:01.323097+01:00.accessibility.json) |
-| [August 19 at 2:20 AM](https://archive.org/download/telegraph-2022/telegraph-2022-08-19T02:19:56.243163+01:00.accessibility.json) |
-| [August 18 at 2:01 PM](https://archive.org/download/telegraph-2022/telegraph-2022-08-18T14:01:08.848268+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 89 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 92 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 22 at 2:04 PM](https://archive.org/download/telegraph-2022/telegraph-2022-08-22T14:04:33.723976+01:00.lighthouse.json) |
+| [August 22 at 10:15 AM](https://archive.org/download/telegraph-2022/telegraph-2022-08-22T10:15:04.213854+01:00.lighthouse.json) |
+| [August 22 at 2:14 AM](https://archive.org/download/telegraph-2022/telegraph-2022-08-22T02:14:49.647204+01:00.lighthouse.json) |
 | [August 21 at 2:07 PM](https://archive.org/download/telegraph-2022/telegraph-2022-08-21T14:06:57.901816+01:00.lighthouse.json) |
 | [August 21 at 10:12 AM](https://archive.org/download/telegraph-2022/telegraph-2022-08-21T10:12:37.012848+01:00.lighthouse.json) |
 | [August 21 at 2:17 AM](https://archive.org/download/telegraph-2022/telegraph-2022-08-21T02:17:07.915709+01:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 20 at 10:13 AM](https://archive.org/download/telegraph-2022/telegraph-2022-08-20T10:13:12.279466+01:00.lighthouse.json) |
 | [August 20 at 2:15 AM](https://archive.org/download/telegraph-2022/telegraph-2022-08-20T02:15:07.789216+01:00.lighthouse.json) |
 | [August 19 at 2:21 PM](https://archive.org/download/telegraph-2022/telegraph-2022-08-19T14:21:16.092528+01:00.lighthouse.json) |
-| [August 19 at 10:17 AM](https://archive.org/download/telegraph-2022/telegraph-2022-08-19T10:17:01.323097+01:00.lighthouse.json) |
-| [August 19 at 2:20 AM](https://archive.org/download/telegraph-2022/telegraph-2022-08-19T02:19:56.243163+01:00.lighthouse.json) |
-| [August 18 at 2:01 PM](https://archive.org/download/telegraph-2022/telegraph-2022-08-18T14:01:08.848268+01:00.lighthouse.json) |
 
 
 

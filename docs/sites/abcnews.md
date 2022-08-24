@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 54 screenshots with the Internet Archive.
+The archiving routine has saved 56 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/abcnews-2022/abcnews-2022-08-22T23:01:53.184045+10:00.jpg">
+  <img src="https://archive.org/download/abcnews-2022/abcnews-2022-08-22T23:01:53.184045+10:00.jpg"
+     alt="ABC News at 2022-08-22 23:01:54+10:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abcnews-2022/abcnews-2022-08-22T23:01:53.184045+10:00.jpg">August 22 at 11:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/abcnews-2022/abcnews-2022-08-22T11:11:35.250447+10:00.jpg">
+  <img src="https://archive.org/download/abcnews-2022/abcnews-2022-08-22T11:11:35.250447+10:00.jpg"
+     alt="ABC News at 2022-08-22 11:11:37+10:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abcnews-2022/abcnews-2022-08-22T11:11:35.250447+10:00.jpg">August 22 at 11:11 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/abcnews-2022/abcnews-2022-08-21T23:04:47.311917+10:00.jpg">
   <img src="https://archive.org/download/abcnews-2022/abcnews-2022-08-21T23:04:47.311917+10:00.jpg"
      alt="ABC News at 2022-08-21 23:04:50+10:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/abcnews-2022/abcnews-2022-08-17T11:18:50.193643+10:00.jpg">August 17 at 11:18 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/abcnews-2022/abcnews-2022-08-17T03:13:16.156895+10:00.jpg">
-  <img src="https://archive.org/download/abcnews-2022/abcnews-2022-08-17T03:13:16.156895+10:00.jpg"
-     alt="ABC News at 2022-08-17 03:13:17+10:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abcnews-2022/abcnews-2022-08-17T03:13:16.156895+10:00.jpg">August 17 at 3:13 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/abcnews-2022/abcnews-2022-08-16T16:09:58.769242+10:00.jpg">
-  <img src="https://archive.org/download/abcnews-2022/abcnews-2022-08-16T16:09:58.769242+10:00.jpg"
-     alt="ABC News at 2022-08-16 16:10:00+10:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abcnews-2022/abcnews-2022-08-16T16:09:58.769242+10:00.jpg">August 16 at 4:10 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 55 hyperlink lists with the Internet Archive.
+The archiving routine has saved 57 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 22 at 11:01 PM](https://archive.org/download/abcnews-2022/abcnews-2022-08-22T23:01:53.184045+10:00.hyperlinks.json) |
+| [August 22 at 11:11 AM](https://archive.org/download/abcnews-2022/abcnews-2022-08-22T11:11:35.250447+10:00.hyperlinks.json) |
 | [August 21 at 11:04 PM](https://archive.org/download/abcnews-2022/abcnews-2022-08-21T23:04:47.311917+10:00.hyperlinks.json) |
 | [August 21 at 11:13 AM](https://archive.org/download/abcnews-2022/abcnews-2022-08-21T11:13:41.182954+10:00.hyperlinks.json) |
 | [August 20 at 11:00 PM](https://archive.org/download/abcnews-2022/abcnews-2022-08-20T23:00:24.752498+10:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 19 at 11:18 AM](https://archive.org/download/abcnews-2022/abcnews-2022-08-19T11:17:56.952903+10:00.hyperlinks.json) |
 | [August 18 at 10:58 PM](https://archive.org/download/abcnews-2022/abcnews-2022-08-18T22:58:07.097527+10:00.hyperlinks.json) |
 | [August 18 at 11:12 AM](https://archive.org/download/abcnews-2022/abcnews-2022-08-18T11:12:10.316705+10:00.hyperlinks.json) |
-| [August 17 at 11:04 PM](https://archive.org/download/abcnews-2022/abcnews-2022-08-17T23:04:34.920956+10:00.hyperlinks.json) |
-| [August 17 at 11:18 AM](https://archive.org/download/abcnews-2022/abcnews-2022-08-17T11:18:50.193643+10:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 55 accessibility trees with the Internet Archive.
+The archiving routine has saved 57 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 22 at 11:01 PM](https://archive.org/download/abcnews-2022/abcnews-2022-08-22T23:01:53.184045+10:00.accessibility.json) |
+| [August 22 at 11:11 AM](https://archive.org/download/abcnews-2022/abcnews-2022-08-22T11:11:35.250447+10:00.accessibility.json) |
 | [August 21 at 11:04 PM](https://archive.org/download/abcnews-2022/abcnews-2022-08-21T23:04:47.311917+10:00.accessibility.json) |
 | [August 21 at 11:13 AM](https://archive.org/download/abcnews-2022/abcnews-2022-08-21T11:13:41.182954+10:00.accessibility.json) |
 | [August 20 at 11:00 PM](https://archive.org/download/abcnews-2022/abcnews-2022-08-20T23:00:24.752498+10:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 19 at 11:18 AM](https://archive.org/download/abcnews-2022/abcnews-2022-08-19T11:17:56.952903+10:00.accessibility.json) |
 | [August 18 at 10:58 PM](https://archive.org/download/abcnews-2022/abcnews-2022-08-18T22:58:07.097527+10:00.accessibility.json) |
 | [August 18 at 11:12 AM](https://archive.org/download/abcnews-2022/abcnews-2022-08-18T11:12:10.316705+10:00.accessibility.json) |
-| [August 17 at 11:04 PM](https://archive.org/download/abcnews-2022/abcnews-2022-08-17T23:04:34.920956+10:00.accessibility.json) |
-| [August 17 at 11:18 AM](https://archive.org/download/abcnews-2022/abcnews-2022-08-17T11:18:50.193643+10:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 57 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 22 at 11:01 PM](https://archive.org/download/abcnews-2022/abcnews-2022-08-22T23:01:53.184045+10:00.lighthouse.json) |
+| [August 22 at 11:11 AM](https://archive.org/download/abcnews-2022/abcnews-2022-08-22T11:11:35.250447+10:00.lighthouse.json) |
 | [August 21 at 11:04 PM](https://archive.org/download/abcnews-2022/abcnews-2022-08-21T23:04:47.311917+10:00.lighthouse.json) |
 | [August 21 at 11:13 AM](https://archive.org/download/abcnews-2022/abcnews-2022-08-21T11:13:41.182954+10:00.lighthouse.json) |
 | [August 20 at 11:00 PM](https://archive.org/download/abcnews-2022/abcnews-2022-08-20T23:00:24.752498+10:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 19 at 11:18 AM](https://archive.org/download/abcnews-2022/abcnews-2022-08-19T11:17:56.952903+10:00.lighthouse.json) |
 | [August 18 at 10:58 PM](https://archive.org/download/abcnews-2022/abcnews-2022-08-18T22:58:07.097527+10:00.lighthouse.json) |
 | [August 18 at 11:12 AM](https://archive.org/download/abcnews-2022/abcnews-2022-08-18T11:12:10.316705+10:00.lighthouse.json) |
-| [August 17 at 11:04 PM](https://archive.org/download/abcnews-2022/abcnews-2022-08-17T23:04:34.920956+10:00.lighthouse.json) |
-| [August 17 at 11:18 AM](https://archive.org/download/abcnews-2022/abcnews-2022-08-17T11:18:50.193643+10:00.lighthouse.json) |
 
 
 

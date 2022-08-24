@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 51 screenshots with the Internet Archive.
+The archiving routine has saved 54 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-22T11:09:50.513460-03:00.jpg">
+  <img src="https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-22T11:09:50.513460-03:00.jpg"
+     alt="O Globo at 2022-08-22 11:09:57-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-22T11:09:50.513460-03:00.jpg">August 22 at 11:09 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-22T09:04:38.134896-03:00.jpg">
+  <img src="https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-22T09:04:38.134896-03:00.jpg"
+     alt="O Globo at 2022-08-22 09:04:45-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-22T09:04:38.134896-03:00.jpg">August 22 at 9:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-21T23:27:10.079256-03:00.jpg">
+  <img src="https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-21T23:27:10.079256-03:00.jpg"
+     alt="O Globo at 2022-08-21 23:27:13-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-21T23:27:10.079256-03:00.jpg">August 21 at 11:27 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-21T11:05:40.703124-03:00.jpg">
   <img src="https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-21T11:05:40.703124-03:00.jpg"
      alt="O Globo at 2022-08-21 11:05:41-03:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-18T11:09:42.957594-03:00.jpg">August 18 at 11:09 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-18T09:05:56.426803-03:00.jpg">
-  <img src="https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-18T09:05:56.426803-03:00.jpg"
-     alt="O Globo at 2022-08-18 09:05:57-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-18T09:05:56.426803-03:00.jpg">August 18 at 9:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-17T23:28:36.541702-03:00.jpg">
-  <img src="https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-17T23:28:36.541702-03:00.jpg"
-     alt="O Globo at 2022-08-17 23:28:43-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-17T23:28:36.541702-03:00.jpg">August 17 at 11:28 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-17T12:03:21.604923-03:00.jpg">
-  <img src="https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-17T12:03:21.604923-03:00.jpg"
-     alt="O Globo at 2022-08-17 12:03:25-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-17T12:03:21.604923-03:00.jpg">August 17 at 12:03 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 47 hyperlink lists with the Internet Archive.
+The archiving routine has saved 50 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 22 at 11:10 AM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-22T11:09:50.513460-03:00.hyperlinks.json) |
+| [August 22 at 9:04 AM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-22T09:04:38.134896-03:00.hyperlinks.json) |
+| [August 21 at 11:27 PM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-21T23:27:10.079256-03:00.hyperlinks.json) |
 | [August 21 at 11:05 AM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-21T11:05:40.703124-03:00.hyperlinks.json) |
 | [August 21 at 8:57 AM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-21T08:57:07.301293-03:00.hyperlinks.json) |
 | [August 20 at 11:22 PM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-20T23:22:10.508354-03:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 20 at 9:03 AM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-20T09:03:25.393037-03:00.hyperlinks.json) |
 | [August 19 at 11:35 PM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-19T23:35:16.563532-03:00.hyperlinks.json) |
 | [August 18 at 11:32 PM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-18T23:32:52.952725-03:00.hyperlinks.json) |
-| [August 18 at 11:09 AM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-18T11:09:42.957594-03:00.hyperlinks.json) |
-| [August 18 at 9:06 AM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-18T09:05:56.426803-03:00.hyperlinks.json) |
-| [August 17 at 11:28 PM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-17T23:28:36.541702-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 51 accessibility trees with the Internet Archive.
+The archiving routine has saved 54 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 22 at 11:09 AM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-22T11:09:50.513460-03:00.accessibility.json) |
+| [August 22 at 9:04 AM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-22T09:04:38.134896-03:00.accessibility.json) |
+| [August 21 at 11:27 PM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-21T23:27:10.079256-03:00.accessibility.json) |
 | [August 21 at 11:05 AM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-21T11:05:40.703124-03:00.accessibility.json) |
 | [August 21 at 8:57 AM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-21T08:57:07.301293-03:00.accessibility.json) |
 | [August 20 at 11:22 PM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-20T23:22:10.508354-03:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 20 at 9:03 AM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-20T09:03:25.393037-03:00.accessibility.json) |
 | [August 19 at 11:35 PM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-19T23:35:16.563532-03:00.accessibility.json) |
 | [August 19 at 11:33 AM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-19T11:33:01.824863-03:00.accessibility.json) |
-| [August 18 at 11:32 PM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-18T23:32:52.952725-03:00.accessibility.json) |
-| [August 18 at 11:09 AM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-18T11:09:42.957594-03:00.accessibility.json) |
-| [August 18 at 9:05 AM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-18T09:05:56.426803-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 54 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 22 at 11:10 AM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-22T11:09:50.513460-03:00.lighthouse.json) |
+| [August 22 at 9:04 AM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-22T09:04:38.134896-03:00.lighthouse.json) |
+| [August 21 at 11:27 PM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-21T23:27:10.079256-03:00.lighthouse.json) |
 | [August 21 at 11:05 AM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-21T11:05:40.703124-03:00.lighthouse.json) |
 | [August 21 at 8:57 AM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-21T08:57:07.301293-03:00.lighthouse.json) |
 | [August 20 at 11:22 PM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-20T23:22:10.508354-03:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 20 at 9:03 AM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-20T09:03:25.393037-03:00.lighthouse.json) |
 | [August 19 at 11:35 PM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-19T23:35:16.563532-03:00.lighthouse.json) |
 | [August 19 at 11:33 AM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-19T11:33:01.824863-03:00.lighthouse.json) |
-| [August 18 at 11:33 PM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-18T23:32:52.952725-03:00.lighthouse.json) |
-| [August 18 at 11:09 AM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-18T11:09:42.957594-03:00.lighthouse.json) |
-| [August 18 at 9:06 AM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-18T09:05:56.426803-03:00.lighthouse.json) |
 
 
 

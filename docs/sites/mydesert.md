@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 357 screenshots with the Internet Archive.
+The archiving routine has saved 360 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/mydesert-2022/mydesert-2022-08-22T17:01:50.625048-07:00.jpg">
+  <img src="https://archive.org/download/mydesert-2022/mydesert-2022-08-22T17:01:50.625048-07:00.jpg"
+     alt="The Desert Sun at 2022-08-22 17:01:52-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-08-22T17:01:50.625048-07:00.jpg">August 22 at 5:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mydesert-2022/mydesert-2022-08-22T11:27:58.909683-07:00.jpg">
+  <img src="https://archive.org/download/mydesert-2022/mydesert-2022-08-22T11:27:58.909683-07:00.jpg"
+     alt="The Desert Sun at 2022-08-22 11:28:19-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-08-22T11:27:58.909683-07:00.jpg">August 22 at 11:28 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mydesert-2022/mydesert-2022-08-22T05:00:10.430489-07:00.jpg">
+  <img src="https://archive.org/download/mydesert-2022/mydesert-2022-08-22T05:00:10.430489-07:00.jpg"
+     alt="The Desert Sun at 2022-08-22 05:00:18-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-08-22T05:00:10.430489-07:00.jpg">August 22 at 5:00 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/mydesert-2022/mydesert-2022-08-21T16:56:07.877536-07:00.jpg">
   <img src="https://archive.org/download/mydesert-2022/mydesert-2022-08-21T16:56:07.877536-07:00.jpg"
      alt="The Desert Sun at 2022-08-21 16:56:10-07:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-08-19T07:22:00.257048-07:00.jpg">August 19 at 7:22 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mydesert-2022/mydesert-2022-08-19T05:02:27.881677-07:00.jpg">
-  <img src="https://archive.org/download/mydesert-2022/mydesert-2022-08-19T05:02:27.881677-07:00.jpg"
-     alt="The Desert Sun at 2022-08-19 05:02:35-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-08-19T05:02:27.881677-07:00.jpg">August 19 at 5:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mydesert-2022/mydesert-2022-08-18T16:57:15.900967-07:00.jpg">
-  <img src="https://archive.org/download/mydesert-2022/mydesert-2022-08-18T16:57:15.900967-07:00.jpg"
-     alt="The Desert Sun at 2022-08-18 16:57:21-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-08-18T16:57:15.900967-07:00.jpg">August 18 at 4:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mydesert-2022/mydesert-2022-08-18T11:28:37.215498-07:00.jpg">
-  <img src="https://archive.org/download/mydesert-2022/mydesert-2022-08-18T11:28:37.215498-07:00.jpg"
-     alt="The Desert Sun at 2022-08-18 11:28:42-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-08-18T11:28:37.215498-07:00.jpg">August 18 at 11:28 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 343 hyperlink lists with the Internet Archive.
+The archiving routine has saved 346 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 22 at 5:01 PM](https://archive.org/download/mydesert-2022/mydesert-2022-08-22T17:01:50.625048-07:00.hyperlinks.json) |
+| [August 22 at 11:28 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-22T11:27:58.909683-07:00.hyperlinks.json) |
+| [August 22 at 5:00 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-22T05:00:10.430489-07:00.hyperlinks.json) |
 | [August 21 at 4:56 PM](https://archive.org/download/mydesert-2022/mydesert-2022-08-21T16:56:07.877536-07:00.hyperlinks.json) |
 | [August 21 at 11:31 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-21T11:30:51.777820-07:00.hyperlinks.json) |
 | [August 21 at 5:02 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-21T05:01:58.666218-07:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 20 at 11:29 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-20T11:29:24.479235-07:00.hyperlinks.json) |
 | [August 20 at 4:58 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-20T04:58:47.541973-07:00.hyperlinks.json) |
 | [August 19 at 4:55 PM](https://archive.org/download/mydesert-2022/mydesert-2022-08-19T16:55:42.130976-07:00.hyperlinks.json) |
-| [August 19 at 11:37 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-19T11:37:38.248114-07:00.hyperlinks.json) |
-| [August 19 at 7:22 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-19T07:22:00.257048-07:00.hyperlinks.json) |
-| [August 19 at 5:02 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-19T05:02:27.881677-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 349 accessibility trees with the Internet Archive.
+The archiving routine has saved 352 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 22 at 5:01 PM](https://archive.org/download/mydesert-2022/mydesert-2022-08-22T17:01:50.625048-07:00.accessibility.json) |
+| [August 22 at 11:28 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-22T11:27:58.909683-07:00.accessibility.json) |
+| [August 22 at 5:00 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-22T05:00:10.430489-07:00.accessibility.json) |
 | [August 21 at 4:56 PM](https://archive.org/download/mydesert-2022/mydesert-2022-08-21T16:56:07.877536-07:00.accessibility.json) |
 | [August 21 at 11:30 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-21T11:30:51.777820-07:00.accessibility.json) |
 | [August 21 at 5:02 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-21T05:01:58.666218-07:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 20 at 11:29 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-20T11:29:24.479235-07:00.accessibility.json) |
 | [August 20 at 4:58 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-20T04:58:47.541973-07:00.accessibility.json) |
 | [August 19 at 4:55 PM](https://archive.org/download/mydesert-2022/mydesert-2022-08-19T16:55:42.130976-07:00.accessibility.json) |
-| [August 19 at 11:37 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-19T11:37:38.248114-07:00.accessibility.json) |
-| [August 19 at 7:22 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-19T07:22:00.257048-07:00.accessibility.json) |
-| [August 19 at 5:02 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-19T05:02:27.881677-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 86 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 89 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 22 at 5:01 PM](https://archive.org/download/mydesert-2022/mydesert-2022-08-22T17:01:50.625048-07:00.lighthouse.json) |
+| [August 22 at 11:28 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-22T11:27:58.909683-07:00.lighthouse.json) |
+| [August 22 at 5:00 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-22T05:00:10.430489-07:00.lighthouse.json) |
 | [August 21 at 4:56 PM](https://archive.org/download/mydesert-2022/mydesert-2022-08-21T16:56:07.877536-07:00.lighthouse.json) |
 | [August 21 at 11:31 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-21T11:30:51.777820-07:00.lighthouse.json) |
 | [August 21 at 5:02 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-21T05:01:58.666218-07:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 20 at 11:29 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-20T11:29:24.479235-07:00.lighthouse.json) |
 | [August 20 at 4:59 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-20T04:58:47.541973-07:00.lighthouse.json) |
 | [August 19 at 4:55 PM](https://archive.org/download/mydesert-2022/mydesert-2022-08-19T16:55:42.130976-07:00.lighthouse.json) |
-| [August 19 at 11:37 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-19T11:37:38.248114-07:00.lighthouse.json) |
-| [August 19 at 7:22 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-19T07:22:00.257048-07:00.lighthouse.json) |
-| [August 19 at 5:02 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-19T05:02:27.881677-07:00.lighthouse.json) |
 
 
 

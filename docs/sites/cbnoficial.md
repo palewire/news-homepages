@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 39 screenshots with the Internet Archive.
+The archiving routine has saved 42 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-22T19:56:18.284836-03:00.jpg">
+  <img src="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-22T19:56:18.284836-03:00.jpg"
+     alt="Rádio CBN at 2022-08-22 19:56:21-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-22T19:56:18.284836-03:00.jpg">August 22 at 7:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-22T09:03:25.478263-03:00.jpg">
+  <img src="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-22T09:03:25.478263-03:00.jpg"
+     alt="Rádio CBN at 2022-08-22 09:03:27-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-22T09:03:25.478263-03:00.jpg">August 22 at 9:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-22T07:55:58.049143-03:00.jpg">
+  <img src="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-22T07:55:58.049143-03:00.jpg"
+     alt="Rádio CBN at 2022-08-22 07:56:00-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-22T07:55:58.049143-03:00.jpg">August 22 at 7:56 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-21T19:54:31.445902-03:00.jpg">
   <img src="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-21T19:54:31.445902-03:00.jpg"
      alt="Rádio CBN at 2022-08-21 19:54:33-03:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T19:59:36.004953-03:00.jpg">August 18 at 7:59 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T09:04:56.502244-03:00.jpg">
-  <img src="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T09:04:56.502244-03:00.jpg"
-     alt="Rádio CBN at 2022-08-18 09:04:58-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T09:04:56.502244-03:00.jpg">August 18 at 9:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T07:56:11.642365-03:00.jpg">
-  <img src="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T07:56:11.642365-03:00.jpg"
-     alt="Rádio CBN at 2022-08-18 07:56:12-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T07:56:11.642365-03:00.jpg">August 18 at 7:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-17T19:58:07.697819-03:00.jpg">
-  <img src="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-17T19:58:07.697819-03:00.jpg"
-     alt="Rádio CBN at 2022-08-17 19:58:10-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-17T19:58:07.697819-03:00.jpg">August 17 at 7:58 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 20 hyperlink lists with the Internet Archive.
+The archiving routine has saved 23 hyperlink lists with the Internet Archive.
 
 
 
@@ -445,6 +445,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 22 at 7:56 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-22T19:56:18.284836-03:00.hyperlinks.json) |
+| [August 22 at 9:03 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-22T09:03:25.478263-03:00.hyperlinks.json) |
+| [August 22 at 7:56 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-22T07:55:58.049143-03:00.hyperlinks.json) |
 | [August 21 at 7:54 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-21T19:54:31.445902-03:00.hyperlinks.json) |
 | [August 20 at 8:00 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-20T20:00:45.260783-03:00.hyperlinks.json) |
 | [August 20 at 7:53 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-20T07:53:35.839027-03:00.hyperlinks.json) |
@@ -452,14 +455,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 18 at 7:59 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T19:59:36.004953-03:00.hyperlinks.json) |
 | [August 18 at 9:05 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T09:04:56.502244-03:00.hyperlinks.json) |
 | [August 18 at 7:56 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T07:56:11.642365-03:00.hyperlinks.json) |
-| [August 17 at 7:58 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-17T19:58:07.697819-03:00.hyperlinks.json) |
-| [August 17 at 7:54 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-17T07:54:01.851622-03:00.hyperlinks.json) |
-| [August 16 at 8:00 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-16T20:00:46.562269-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 25 accessibility trees with the Internet Archive.
+The archiving routine has saved 27 accessibility trees with the Internet Archive.
 
 
 
@@ -467,6 +467,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 22 at 7:56 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-22T19:56:18.284836-03:00.accessibility.json) |
+| [August 22 at 7:56 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-22T07:55:58.049143-03:00.accessibility.json) |
 | [August 21 at 7:54 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-21T19:54:31.445902-03:00.accessibility.json) |
 | [August 21 at 8:56 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-21T08:56:30.564348-03:00.accessibility.json) |
 | [August 21 at 7:58 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-21T07:58:34.525250-03:00.accessibility.json) |
@@ -475,14 +477,12 @@ Here are the 10 most recent accessibility trees.
 | [August 19 at 7:57 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-19T07:57:34.795852-03:00.accessibility.json) |
 | [August 18 at 7:59 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T19:59:36.004953-03:00.accessibility.json) |
 | [August 18 at 9:05 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T09:04:56.502244-03:00.accessibility.json) |
-| [August 17 at 7:58 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-17T19:58:07.697819-03:00.accessibility.json) |
-| [August 17 at 7:54 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-17T07:54:01.851622-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 42 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -573,6 +573,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 22 at 7:56 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-22T19:56:18.284836-03:00.lighthouse.json) |
+| [August 22 at 9:03 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-22T09:03:25.478263-03:00.lighthouse.json) |
+| [August 22 at 7:56 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-22T07:55:58.049143-03:00.lighthouse.json) |
 | [August 21 at 7:54 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-21T19:54:31.445902-03:00.lighthouse.json) |
 | [August 21 at 8:56 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-21T08:56:30.564348-03:00.lighthouse.json) |
 | [August 21 at 7:58 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-21T07:58:34.525250-03:00.lighthouse.json) |
@@ -580,9 +583,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 20 at 9:03 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-20T09:03:16.908861-03:00.lighthouse.json) |
 | [August 20 at 7:53 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-20T07:53:35.839027-03:00.lighthouse.json) |
 | [August 19 at 8:00 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-19T20:00:12.367912-03:00.lighthouse.json) |
-| [August 19 at 7:57 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-19T07:57:34.795852-03:00.lighthouse.json) |
-| [August 18 at 7:59 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T19:59:36.004953-03:00.lighthouse.json) |
-| [August 18 at 9:05 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T09:04:56.502244-03:00.lighthouse.json) |
 
 
 

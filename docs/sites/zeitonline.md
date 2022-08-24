@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 54 screenshots with the Internet Archive.
+The archiving routine has saved 56 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-22T17:07:45.408443+02:00.jpg">
+  <img src="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-22T17:07:45.408443+02:00.jpg"
+     alt="Zeit at 2022-08-22 17:07:50+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-22T17:07:45.408443+02:00.jpg">August 22 at 5:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-22T05:48:46.275271+02:00.jpg">
+  <img src="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-22T05:48:46.275271+02:00.jpg"
+     alt="Zeit at 2022-08-22 05:48:47+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-22T05:48:46.275271+02:00.jpg">August 22 at 5:48 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-21T17:05:41.197805+02:00.jpg">
   <img src="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-21T17:05:41.197805+02:00.jpg"
      alt="Zeit at 2022-08-21 17:05:44+02:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-17T17:15:17.885855+02:00.jpg">August 17 at 5:15 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-17T05:48:34.893218+02:00.jpg">
-  <img src="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-17T05:48:34.893218+02:00.jpg"
-     alt="Zeit at 2022-08-17 05:48:37+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-17T05:48:34.893218+02:00.jpg">August 17 at 5:48 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-16T20:49:46.134578+02:00.jpg">
-  <img src="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-16T20:49:46.134578+02:00.jpg"
-     alt="Zeit at 2022-08-16 20:49:49+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-16T20:49:46.134578+02:00.jpg">August 16 at 8:49 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 55 hyperlink lists with the Internet Archive.
+The archiving routine has saved 57 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 22 at 5:07 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-22T17:07:45.408443+02:00.hyperlinks.json) |
+| [August 22 at 5:48 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-22T05:48:46.275271+02:00.hyperlinks.json) |
 | [August 21 at 5:05 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-21T17:05:41.197805+02:00.hyperlinks.json) |
 | [August 21 at 5:40 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-21T05:40:45.723248+02:00.hyperlinks.json) |
 | [August 20 at 5:00 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-20T17:00:32.077424+02:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 19 at 2:15 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-19T14:15:53.219863+02:00.hyperlinks.json) |
 | [August 19 at 5:46 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-19T05:46:14.092983+02:00.hyperlinks.json) |
 | [August 18 at 5:33 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-18T17:33:41.317610+02:00.hyperlinks.json) |
-| [August 18 at 5:49 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-18T05:49:05.602103+02:00.hyperlinks.json) |
-| [August 17 at 5:15 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-17T17:15:17.885855+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 55 accessibility trees with the Internet Archive.
+The archiving routine has saved 57 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 22 at 5:07 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-22T17:07:45.408443+02:00.accessibility.json) |
+| [August 22 at 5:48 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-22T05:48:46.275271+02:00.accessibility.json) |
 | [August 21 at 5:05 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-21T17:05:41.197805+02:00.accessibility.json) |
 | [August 21 at 5:40 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-21T05:40:45.723248+02:00.accessibility.json) |
 | [August 20 at 5:00 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-20T17:00:32.077424+02:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 19 at 2:15 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-19T14:15:53.219863+02:00.accessibility.json) |
 | [August 19 at 5:46 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-19T05:46:14.092983+02:00.accessibility.json) |
 | [August 18 at 5:33 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-18T17:33:41.317610+02:00.accessibility.json) |
-| [August 18 at 5:49 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-18T05:49:05.602103+02:00.accessibility.json) |
-| [August 17 at 5:15 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-17T17:15:17.885855+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 57 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 22 at 5:08 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-22T17:07:45.408443+02:00.lighthouse.json) |
+| [August 22 at 5:48 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-22T05:48:46.275271+02:00.lighthouse.json) |
 | [August 21 at 5:05 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-21T17:05:41.197805+02:00.lighthouse.json) |
 | [August 21 at 5:40 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-21T05:40:45.723248+02:00.lighthouse.json) |
 | [August 20 at 5:00 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-20T17:00:32.077424+02:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 19 at 2:16 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-19T14:15:53.219863+02:00.lighthouse.json) |
 | [August 19 at 5:46 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-19T05:46:14.092983+02:00.lighthouse.json) |
 | [August 18 at 5:33 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-18T17:33:41.317610+02:00.lighthouse.json) |
-| [August 18 at 5:49 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-18T05:49:05.602103+02:00.lighthouse.json) |
-| [August 17 at 5:15 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-17T17:15:17.885855+02:00.lighthouse.json) |
 
 
 

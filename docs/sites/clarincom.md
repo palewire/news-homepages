@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 25 screenshots with the Internet Archive.
+The archiving routine has saved 27 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-22T10:03:13.175679-03:00.jpg">
+  <img src="https://archive.org/download/clarincom-2022/clarincom-2022-08-22T10:03:13.175679-03:00.jpg"
+     alt="Clarín at 2022-08-22 10:03:15-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-22T10:03:13.175679-03:00.jpg">August 22 at 10:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-21T22:14:01.687121-03:00.jpg">
+  <img src="https://archive.org/download/clarincom-2022/clarincom-2022-08-21T22:14:01.687121-03:00.jpg"
+     alt="Clarín at 2022-08-21 22:14:02-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-21T22:14:01.687121-03:00.jpg">August 21 at 10:14 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-21T10:06:50.103744-03:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-16T22:20:20.495363-03:00.jpg">August 16 at 10:20 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-16T14:19:46.005707-03:00.jpg">
-  <img src="https://archive.org/download/clarincom-2022/clarincom-2022-08-16T14:19:46.005707-03:00.jpg"
-     alt="Clarín at 2022-08-16 14:19:47-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-16T14:19:46.005707-03:00.jpg">August 16 at 2:19 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-16T03:15:07.366111-03:00.jpg">
-  <img src="https://archive.org/download/clarincom-2022/clarincom-2022-08-16T03:15:07.366111-03:00.jpg"
-     alt="Clarín at 2022-08-16 03:15:09-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-16T03:15:07.366111-03:00.jpg">August 16 at 3:15 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 26 hyperlink lists with the Internet Archive.
+The archiving routine has saved 28 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 22 at 10:03 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-22T10:03:13.175679-03:00.hyperlinks.json) |
+| [August 21 at 10:14 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-21T22:14:01.687121-03:00.hyperlinks.json) |
 | [August 21 at 10:06 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-21T10:06:50.103744-03:00.hyperlinks.json) |
 | [August 20 at 10:15 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-20T22:15:45.800108-03:00.hyperlinks.json) |
 | [August 20 at 10:02 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-20T10:01:54.018739-03:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 18 at 10:19 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-18T22:19:31.425564-03:00.hyperlinks.json) |
 | [August 18 at 10:00 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-18T10:00:14.558189-03:00.hyperlinks.json) |
 | [August 17 at 10:13 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-17T22:13:26.145878-03:00.hyperlinks.json) |
-| [August 17 at 10:07 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-17T10:07:36.214431-03:00.hyperlinks.json) |
-| [August 16 at 10:20 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-16T22:20:20.495363-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 26 accessibility trees with the Internet Archive.
+The archiving routine has saved 28 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 22 at 10:03 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-22T10:03:13.175679-03:00.accessibility.json) |
+| [August 21 at 10:14 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-21T22:14:01.687121-03:00.accessibility.json) |
 | [August 21 at 10:06 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-21T10:06:50.103744-03:00.accessibility.json) |
 | [August 20 at 10:15 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-20T22:15:45.800108-03:00.accessibility.json) |
 | [August 20 at 10:01 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-20T10:01:54.018739-03:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [August 18 at 10:19 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-18T22:19:31.425564-03:00.accessibility.json) |
 | [August 18 at 10:00 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-18T10:00:14.558189-03:00.accessibility.json) |
 | [August 17 at 10:13 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-17T22:13:26.145878-03:00.accessibility.json) |
-| [August 17 at 10:07 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-17T10:07:36.214431-03:00.accessibility.json) |
-| [August 16 at 10:20 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-16T22:20:20.495363-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 22 at 10:03 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-22T10:03:13.175679-03:00.lighthouse.json) |
+| [August 21 at 10:14 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-21T22:14:01.687121-03:00.lighthouse.json) |
 | [August 21 at 10:06 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-21T10:06:50.103744-03:00.lighthouse.json) |
 | [August 20 at 10:15 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-20T22:15:45.800108-03:00.lighthouse.json) |
 | [August 20 at 10:02 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-20T10:01:54.018739-03:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 18 at 10:19 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-18T22:19:31.425564-03:00.lighthouse.json) |
 | [August 18 at 10:00 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-18T10:00:14.558189-03:00.lighthouse.json) |
 | [August 17 at 10:13 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-17T22:13:26.145878-03:00.lighthouse.json) |
-| [August 17 at 10:07 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-17T10:07:36.214431-03:00.lighthouse.json) |
-| [August 16 at 10:20 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-16T22:20:20.495363-03:00.lighthouse.json) |
 
 
 

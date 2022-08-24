@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 23 screenshots with the Internet Archive.
+The archiving routine has saved 25 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/corriere-2022/corriere-2022-08-23T00:58:47.762588+02:00.jpg">
+  <img src="https://archive.org/download/corriere-2022/corriere-2022-08-23T00:58:47.762588+02:00.jpg"
+     alt="Corriere della Sera at 2022-08-23 00:58:50+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/corriere-2022/corriere-2022-08-23T00:58:47.762588+02:00.jpg">August 23 at 12:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/corriere-2022/corriere-2022-08-22T12:57:23.258543+02:00.jpg">
+  <img src="https://archive.org/download/corriere-2022/corriere-2022-08-22T12:57:23.258543+02:00.jpg"
+     alt="Corriere della Sera at 2022-08-22 12:57:25+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/corriere-2022/corriere-2022-08-22T12:57:23.258543+02:00.jpg">August 22 at 12:57 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/corriere-2022/corriere-2022-08-22T00:55:35.899018+02:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/corriere-2022/corriere-2022-08-17T12:55:36.370672+02:00.jpg">August 17 at 12:55 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/corriere-2022/corriere-2022-08-17T01:05:55.346138+02:00.jpg">
-  <img src="https://archive.org/download/corriere-2022/corriere-2022-08-17T01:05:55.346138+02:00.jpg"
-     alt="Corriere della Sera at 2022-08-17 01:05:58+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/corriere-2022/corriere-2022-08-17T01:05:55.346138+02:00.jpg">August 17 at 1:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/corriere-2022/corriere-2022-08-16T15:33:04.729037+02:00.jpg">
-  <img src="https://archive.org/download/corriere-2022/corriere-2022-08-16T15:33:04.729037+02:00.jpg"
-     alt="Corriere della Sera at 2022-08-16 15:33:06+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/corriere-2022/corriere-2022-08-16T15:33:04.729037+02:00.jpg">August 16 at 3:33 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 23 hyperlink lists with the Internet Archive.
+The archiving routine has saved 25 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 23 at 12:58 AM](https://archive.org/download/corriere-2022/corriere-2022-08-23T00:58:47.762588+02:00.hyperlinks.json) |
+| [August 22 at 12:57 PM](https://archive.org/download/corriere-2022/corriere-2022-08-22T12:57:23.258543+02:00.hyperlinks.json) |
 | [August 22 at 12:55 AM](https://archive.org/download/corriere-2022/corriere-2022-08-22T00:55:35.899018+02:00.hyperlinks.json) |
 | [August 21 at 12:59 PM](https://archive.org/download/corriere-2022/corriere-2022-08-21T12:59:48.975646+02:00.hyperlinks.json) |
 | [August 21 at 1:01 AM](https://archive.org/download/corriere-2022/corriere-2022-08-21T01:01:48.030221+02:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 19 at 12:59 PM](https://archive.org/download/corriere-2022/corriere-2022-08-19T12:59:22.525133+02:00.hyperlinks.json) |
 | [August 19 at 1:00 AM](https://archive.org/download/corriere-2022/corriere-2022-08-19T01:00:09.544182+02:00.hyperlinks.json) |
 | [August 18 at 12:58 PM](https://archive.org/download/corriere-2022/corriere-2022-08-18T12:57:57.292513+02:00.hyperlinks.json) |
-| [August 18 at 1:00 AM](https://archive.org/download/corriere-2022/corriere-2022-08-18T01:00:30.679159+02:00.hyperlinks.json) |
-| [August 17 at 12:55 PM](https://archive.org/download/corriere-2022/corriere-2022-08-17T12:55:36.370672+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 23 accessibility trees with the Internet Archive.
+The archiving routine has saved 25 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 23 at 12:58 AM](https://archive.org/download/corriere-2022/corriere-2022-08-23T00:58:47.762588+02:00.accessibility.json) |
+| [August 22 at 12:57 PM](https://archive.org/download/corriere-2022/corriere-2022-08-22T12:57:23.258543+02:00.accessibility.json) |
 | [August 22 at 12:55 AM](https://archive.org/download/corriere-2022/corriere-2022-08-22T00:55:35.899018+02:00.accessibility.json) |
 | [August 21 at 12:59 PM](https://archive.org/download/corriere-2022/corriere-2022-08-21T12:59:48.975646+02:00.accessibility.json) |
 | [August 21 at 1:01 AM](https://archive.org/download/corriere-2022/corriere-2022-08-21T01:01:48.030221+02:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [August 19 at 12:59 PM](https://archive.org/download/corriere-2022/corriere-2022-08-19T12:59:22.525133+02:00.accessibility.json) |
 | [August 19 at 1:00 AM](https://archive.org/download/corriere-2022/corriere-2022-08-19T01:00:09.544182+02:00.accessibility.json) |
 | [August 18 at 12:58 PM](https://archive.org/download/corriere-2022/corriere-2022-08-18T12:57:57.292513+02:00.accessibility.json) |
-| [August 18 at 1:00 AM](https://archive.org/download/corriere-2022/corriere-2022-08-18T01:00:30.679159+02:00.accessibility.json) |
-| [August 17 at 12:55 PM](https://archive.org/download/corriere-2022/corriere-2022-08-17T12:55:36.370672+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 23 at 12:58 AM](https://archive.org/download/corriere-2022/corriere-2022-08-23T00:58:47.762588+02:00.lighthouse.json) |
+| [August 22 at 12:57 PM](https://archive.org/download/corriere-2022/corriere-2022-08-22T12:57:23.258543+02:00.lighthouse.json) |
 | [August 22 at 12:55 AM](https://archive.org/download/corriere-2022/corriere-2022-08-22T00:55:35.899018+02:00.lighthouse.json) |
 | [August 21 at 12:59 PM](https://archive.org/download/corriere-2022/corriere-2022-08-21T12:59:48.975646+02:00.lighthouse.json) |
 | [August 21 at 1:01 AM](https://archive.org/download/corriere-2022/corriere-2022-08-21T01:01:48.030221+02:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 19 at 12:59 PM](https://archive.org/download/corriere-2022/corriere-2022-08-19T12:59:22.525133+02:00.lighthouse.json) |
 | [August 19 at 1:00 AM](https://archive.org/download/corriere-2022/corriere-2022-08-19T01:00:09.544182+02:00.lighthouse.json) |
 | [August 18 at 12:58 PM](https://archive.org/download/corriere-2022/corriere-2022-08-18T12:57:57.292513+02:00.lighthouse.json) |
-| [August 18 at 1:00 AM](https://archive.org/download/corriere-2022/corriere-2022-08-18T01:00:30.679159+02:00.lighthouse.json) |
-| [August 17 at 12:55 PM](https://archive.org/download/corriere-2022/corriere-2022-08-17T12:55:36.370672+02:00.lighthouse.json) |
 
 
 

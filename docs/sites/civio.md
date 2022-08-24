@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 156 screenshots with the Internet Archive.
+The archiving routine has saved 158 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/civio-2022/civio-2022-08-22T15:03:37.556567+02:00.jpg">
+  <img src="https://archive.org/download/civio-2022/civio-2022-08-22T15:03:37.556567+02:00.jpg"
+     alt="Civio at 2022-08-22 15:03:38+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/civio-2022/civio-2022-08-22T15:03:37.556567+02:00.jpg">August 22 at 3:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/civio-2022/civio-2022-08-22T03:13:10.846024+02:00.jpg">
+  <img src="https://archive.org/download/civio-2022/civio-2022-08-22T03:13:10.846024+02:00.jpg"
+     alt="Civio at 2022-08-22 03:13:12+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/civio-2022/civio-2022-08-22T03:13:10.846024+02:00.jpg">August 22 at 3:13 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/civio-2022/civio-2022-08-21T15:06:38.191290+02:00.jpg">
   <img src="https://archive.org/download/civio-2022/civio-2022-08-21T15:06:38.191290+02:00.jpg"
      alt="Civio at 2022-08-21 15:06:40+02:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/civio-2022/civio-2022-08-17T03:21:12.177948+02:00.jpg">August 17 at 3:21 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/civio-2022/civio-2022-08-16T19:18:47.621013+02:00.jpg">
-  <img src="https://archive.org/download/civio-2022/civio-2022-08-16T19:18:47.621013+02:00.jpg"
-     alt="Civio at 2022-08-16 19:18:50+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/civio-2022/civio-2022-08-16T19:18:47.621013+02:00.jpg">August 16 at 7:18 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/civio-2022/civio-2022-08-16T08:15:34.020666+02:00.jpg">
-  <img src="https://archive.org/download/civio-2022/civio-2022-08-16T08:15:34.020666+02:00.jpg"
-     alt="Civio at 2022-08-16 08:15:36+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/civio-2022/civio-2022-08-16T08:15:34.020666+02:00.jpg">August 16 at 8:15 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 157 hyperlink lists with the Internet Archive.
+The archiving routine has saved 159 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 22 at 3:03 PM](https://archive.org/download/civio-2022/civio-2022-08-22T15:03:37.556567+02:00.hyperlinks.json) |
+| [August 22 at 3:13 AM](https://archive.org/download/civio-2022/civio-2022-08-22T03:13:10.846024+02:00.hyperlinks.json) |
 | [August 21 at 3:06 PM](https://archive.org/download/civio-2022/civio-2022-08-21T15:06:38.191290+02:00.hyperlinks.json) |
 | [August 21 at 3:15 AM](https://archive.org/download/civio-2022/civio-2022-08-21T03:15:26.796978+02:00.hyperlinks.json) |
 | [August 20 at 3:02 PM](https://archive.org/download/civio-2022/civio-2022-08-20T15:02:09.561205+02:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 19 at 3:19 AM](https://archive.org/download/civio-2022/civio-2022-08-19T03:19:22.445451+02:00.hyperlinks.json) |
 | [August 18 at 3:00 PM](https://archive.org/download/civio-2022/civio-2022-08-18T15:00:35.311139+02:00.hyperlinks.json) |
 | [August 18 at 3:14 AM](https://archive.org/download/civio-2022/civio-2022-08-18T03:14:24.248760+02:00.hyperlinks.json) |
-| [August 17 at 3:07 PM](https://archive.org/download/civio-2022/civio-2022-08-17T15:07:11.086552+02:00.hyperlinks.json) |
-| [August 17 at 3:21 AM](https://archive.org/download/civio-2022/civio-2022-08-17T03:21:12.177948+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 157 accessibility trees with the Internet Archive.
+The archiving routine has saved 159 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 22 at 3:03 PM](https://archive.org/download/civio-2022/civio-2022-08-22T15:03:37.556567+02:00.accessibility.json) |
+| [August 22 at 3:13 AM](https://archive.org/download/civio-2022/civio-2022-08-22T03:13:10.846024+02:00.accessibility.json) |
 | [August 21 at 3:06 PM](https://archive.org/download/civio-2022/civio-2022-08-21T15:06:38.191290+02:00.accessibility.json) |
 | [August 21 at 3:15 AM](https://archive.org/download/civio-2022/civio-2022-08-21T03:15:26.796978+02:00.accessibility.json) |
 | [August 20 at 3:02 PM](https://archive.org/download/civio-2022/civio-2022-08-20T15:02:09.561205+02:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 19 at 3:19 AM](https://archive.org/download/civio-2022/civio-2022-08-19T03:19:22.445451+02:00.accessibility.json) |
 | [August 18 at 3:00 PM](https://archive.org/download/civio-2022/civio-2022-08-18T15:00:35.311139+02:00.accessibility.json) |
 | [August 18 at 3:14 AM](https://archive.org/download/civio-2022/civio-2022-08-18T03:14:24.248760+02:00.accessibility.json) |
-| [August 17 at 3:07 PM](https://archive.org/download/civio-2022/civio-2022-08-17T15:07:11.086552+02:00.accessibility.json) |
-| [August 17 at 3:21 AM](https://archive.org/download/civio-2022/civio-2022-08-17T03:21:12.177948+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 61 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 63 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 22 at 3:03 PM](https://archive.org/download/civio-2022/civio-2022-08-22T15:03:37.556567+02:00.lighthouse.json) |
+| [August 22 at 3:13 AM](https://archive.org/download/civio-2022/civio-2022-08-22T03:13:10.846024+02:00.lighthouse.json) |
 | [August 21 at 3:06 PM](https://archive.org/download/civio-2022/civio-2022-08-21T15:06:38.191290+02:00.lighthouse.json) |
 | [August 21 at 3:15 AM](https://archive.org/download/civio-2022/civio-2022-08-21T03:15:26.796978+02:00.lighthouse.json) |
 | [August 20 at 3:02 PM](https://archive.org/download/civio-2022/civio-2022-08-20T15:02:09.561205+02:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 19 at 3:19 AM](https://archive.org/download/civio-2022/civio-2022-08-19T03:19:22.445451+02:00.lighthouse.json) |
 | [August 18 at 3:00 PM](https://archive.org/download/civio-2022/civio-2022-08-18T15:00:35.311139+02:00.lighthouse.json) |
 | [August 18 at 3:14 AM](https://archive.org/download/civio-2022/civio-2022-08-18T03:14:24.248760+02:00.lighthouse.json) |
-| [August 17 at 3:07 PM](https://archive.org/download/civio-2022/civio-2022-08-17T15:07:11.086552+02:00.lighthouse.json) |
-| [August 17 at 3:21 AM](https://archive.org/download/civio-2022/civio-2022-08-17T03:21:12.177948+02:00.lighthouse.json) |
 
 
 

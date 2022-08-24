@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 24 screenshots with the Internet Archive.
+The archiving routine has saved 26 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cronica-2022/cronica-2022-08-22T11:04:12.597323-03:00.jpg">
+  <img src="https://archive.org/download/cronica-2022/cronica-2022-08-22T11:04:12.597323-03:00.jpg"
+     alt="Crónica at 2022-08-22 11:04:16-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cronica-2022/cronica-2022-08-22T11:04:12.597323-03:00.jpg">August 22 at 11:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cronica-2022/cronica-2022-08-21T23:22:59.130536-03:00.jpg">
+  <img src="https://archive.org/download/cronica-2022/cronica-2022-08-21T23:22:59.130536-03:00.jpg"
+     alt="Crónica at 2022-08-21 23:23:00-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cronica-2022/cronica-2022-08-21T23:22:59.130536-03:00.jpg">August 21 at 11:23 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cronica-2022/cronica-2022-08-21T11:01:10.978634-03:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cronica-2022/cronica-2022-08-16T23:25:49.209497-03:00.jpg">August 16 at 11:25 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cronica-2022/cronica-2022-08-16T15:25:37.505730-03:00.jpg">
-  <img src="https://archive.org/download/cronica-2022/cronica-2022-08-16T15:25:37.505730-03:00.jpg"
-     alt="Crónica at 2022-08-16 15:25:40-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cronica-2022/cronica-2022-08-16T15:25:37.505730-03:00.jpg">August 16 at 3:25 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cronica-2022/cronica-2022-08-16T03:27:34.440596-03:00.jpg">
-  <img src="https://archive.org/download/cronica-2022/cronica-2022-08-16T03:27:34.440596-03:00.jpg"
-     alt="Crónica at 2022-08-16 03:27:36-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cronica-2022/cronica-2022-08-16T03:27:34.440596-03:00.jpg">August 16 at 3:27 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 26 hyperlink lists with the Internet Archive.
+The archiving routine has saved 28 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 22 at 11:04 AM](https://archive.org/download/cronica-2022/cronica-2022-08-22T11:04:12.597323-03:00.hyperlinks.json) |
+| [August 21 at 11:23 PM](https://archive.org/download/cronica-2022/cronica-2022-08-21T23:22:59.130536-03:00.hyperlinks.json) |
 | [August 21 at 11:01 AM](https://archive.org/download/cronica-2022/cronica-2022-08-21T11:01:10.978634-03:00.hyperlinks.json) |
 | [August 20 at 11:17 PM](https://archive.org/download/cronica-2022/cronica-2022-08-20T23:17:27.076357-03:00.hyperlinks.json) |
 | [August 20 at 10:55 AM](https://archive.org/download/cronica-2022/cronica-2022-08-20T10:55:36.204876-03:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 18 at 11:29 PM](https://archive.org/download/cronica-2022/cronica-2022-08-18T23:29:02.998360-03:00.hyperlinks.json) |
 | [August 18 at 11:06 AM](https://archive.org/download/cronica-2022/cronica-2022-08-18T11:06:05.704064-03:00.hyperlinks.json) |
 | [August 17 at 11:24 PM](https://archive.org/download/cronica-2022/cronica-2022-08-17T23:24:14.548371-03:00.hyperlinks.json) |
-| [August 17 at 11:59 AM](https://archive.org/download/cronica-2022/cronica-2022-08-17T11:59:18.428561-03:00.hyperlinks.json) |
-| [August 16 at 11:25 PM](https://archive.org/download/cronica-2022/cronica-2022-08-16T23:25:49.209497-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 26 accessibility trees with the Internet Archive.
+The archiving routine has saved 28 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 22 at 11:04 AM](https://archive.org/download/cronica-2022/cronica-2022-08-22T11:04:12.597323-03:00.accessibility.json) |
+| [August 21 at 11:23 PM](https://archive.org/download/cronica-2022/cronica-2022-08-21T23:22:59.130536-03:00.accessibility.json) |
 | [August 21 at 11:01 AM](https://archive.org/download/cronica-2022/cronica-2022-08-21T11:01:10.978634-03:00.accessibility.json) |
 | [August 20 at 11:17 PM](https://archive.org/download/cronica-2022/cronica-2022-08-20T23:17:27.076357-03:00.accessibility.json) |
 | [August 20 at 10:55 AM](https://archive.org/download/cronica-2022/cronica-2022-08-20T10:55:36.204876-03:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [August 18 at 11:29 PM](https://archive.org/download/cronica-2022/cronica-2022-08-18T23:29:02.998360-03:00.accessibility.json) |
 | [August 18 at 11:06 AM](https://archive.org/download/cronica-2022/cronica-2022-08-18T11:06:05.704064-03:00.accessibility.json) |
 | [August 17 at 11:24 PM](https://archive.org/download/cronica-2022/cronica-2022-08-17T23:24:14.548371-03:00.accessibility.json) |
-| [August 17 at 11:59 AM](https://archive.org/download/cronica-2022/cronica-2022-08-17T11:59:18.428561-03:00.accessibility.json) |
-| [August 16 at 11:25 PM](https://archive.org/download/cronica-2022/cronica-2022-08-16T23:25:49.209497-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 22 at 11:04 AM](https://archive.org/download/cronica-2022/cronica-2022-08-22T11:04:12.597323-03:00.lighthouse.json) |
+| [August 21 at 11:23 PM](https://archive.org/download/cronica-2022/cronica-2022-08-21T23:22:59.130536-03:00.lighthouse.json) |
 | [August 21 at 11:01 AM](https://archive.org/download/cronica-2022/cronica-2022-08-21T11:01:10.978634-03:00.lighthouse.json) |
 | [August 20 at 11:17 PM](https://archive.org/download/cronica-2022/cronica-2022-08-20T23:17:27.076357-03:00.lighthouse.json) |
 | [August 20 at 10:55 AM](https://archive.org/download/cronica-2022/cronica-2022-08-20T10:55:36.204876-03:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 18 at 11:29 PM](https://archive.org/download/cronica-2022/cronica-2022-08-18T23:29:02.998360-03:00.lighthouse.json) |
 | [August 18 at 11:06 AM](https://archive.org/download/cronica-2022/cronica-2022-08-18T11:06:05.704064-03:00.lighthouse.json) |
 | [August 17 at 11:24 PM](https://archive.org/download/cronica-2022/cronica-2022-08-17T23:24:14.548371-03:00.lighthouse.json) |
-| [August 17 at 11:59 AM](https://archive.org/download/cronica-2022/cronica-2022-08-17T11:59:18.428561-03:00.lighthouse.json) |
-| [August 16 at 11:25 PM](https://archive.org/download/cronica-2022/cronica-2022-08-16T23:25:49.209497-03:00.lighthouse.json) |
 
 
 
