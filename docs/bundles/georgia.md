@@ -7,7 +7,7 @@ orphan: true
 
 # Georgia
 
-The most recent homepages from 36 news sites in this bundle.
+The most recent homepages from 37 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -171,6 +171,15 @@ The most recent homepages from 36 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/wrdw_wagt.html">News 12 NBC 26</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/oglethorpe_echo.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oglethorpe_echo.jpg"
+     alt="Oglethorpe Echo"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/oglethorpe_echo.html">Oglethorpe Echo</a></p>
 </div>
 
 <div class="latest-child">
@@ -368,6 +377,7 @@ The most recent homepages from 36 news sites in this bundle.
 |[Gwinnett Daily Post](https://palewi.re/docs/news-homepages/sites/gwinnettdaily.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gwinnettdaily.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gwinnettdaily.xml)|
 |[Marietta Daily Journal](https://palewi.re/docs/news-homepages/sites/mdjonline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mdjonline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mdjonline.xml)|
 |[News 12 NBC 26](https://palewi.re/docs/news-homepages/sites/wrdw_wagt.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wrdw_wagt.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wrdw_wagt.xml)|
+|[Oglethorpe Echo](https://palewi.re/docs/news-homepages/sites/oglethorpe_echo.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oglethorpe_echo.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/oglethorpe_echo.xml)|
 |[Rome News-Tribune](https://palewi.re/docs/news-homepages/sites/romenewstribune.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/romenewstribune.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/romenewstribune.xml)|
 |[Savannah Morning News](https://palewi.re/docs/news-homepages/sites/savannahnow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/savannahnow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/savannahnow.xml)|
 |[The Brunswick News](https://palewi.re/docs/news-homepages/sites/brunswick_news.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/brunswick_news.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/brunswick_news.xml)|

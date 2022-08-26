@@ -7,7 +7,7 @@ orphan: true
 
 # Texas
 
-The most recent homepages from 37 news sites in this bundle.
+The most recent homepages from 38 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -117,6 +117,15 @@ The most recent homepages from 37 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/dallasnews.html">Dallas Morning News</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/elpasomatters.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/elpasomatters.jpg"
+     alt="El Paso Matters"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/elpasomatters.html">El Paso Matters</a></p>
 </div>
 
 <div class="latest-child">
@@ -371,6 +380,7 @@ The most recent homepages from 37 news sites in this bundle.
 |[Dallas Business Journal](https://palewi.re/docs/news-homepages/sites/dallasbiznews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dallasbiznews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dallasbiznews.xml)|
 |[Dallas Free Press](https://palewi.re/docs/news-homepages/sites/dallasfreepress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dallasfreepress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dallasfreepress.xml)|
 |[Dallas Morning News](https://palewi.re/docs/news-homepages/sites/dallasnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dallasnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dallasnews.xml)|
+|[El Paso Matters](https://palewi.re/docs/news-homepages/sites/elpasomatters.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/elpasomatters.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/elpasomatters.xml)|
 |[El Paso Times](https://palewi.re/docs/news-homepages/sites/elpasotimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/elpasotimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/elpasotimes.xml)|
 |[Fort Worth Report](https://palewi.re/docs/news-homepages/sites/fortworthreport.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fortworthreport.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/fortworthreport.xml)|
 |[Fort Worth Star-Telegram](https://palewi.re/docs/news-homepages/sites/startelegram.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/startelegram.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/startelegram.xml)|

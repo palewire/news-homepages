@@ -7,9 +7,18 @@ orphan: true
 
 # Mississippi
 
-The most recent homepages from 1 news sites in this bundle.
+The most recent homepages from 2 news sites in this bundle.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/msfreepress.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/msfreepress.jpg"
+     alt="Mississippi Free Press"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/msfreepress.html">Mississippi Free Press</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/mstodaynews.html">
@@ -35,4 +44,5 @@ The most recent homepages from 1 news sites in this bundle.
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
+|[Mississippi Free Press](https://palewi.re/docs/news-homepages/sites/msfreepress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/msfreepress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/msfreepress.xml)|
 |[Mississippi Today](https://palewi.re/docs/news-homepages/sites/mstodaynews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mstodaynews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mstodaynews.xml)|

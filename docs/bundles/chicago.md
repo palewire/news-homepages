@@ -7,7 +7,7 @@ orphan: true
 
 # Chicago
 
-The most recent homepages from 24 news sites in this bundle.
+The most recent homepages from 25 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -45,6 +45,15 @@ The most recent homepages from 24 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/blockclubchi.html">Block Club Chicago</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/borderless_mag.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/borderless_mag.jpg"
+     alt="Borderless"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/borderless_mag.html">Borderless</a></p>
 </div>
 
 <div class="latest-child">
@@ -246,6 +255,7 @@ The most recent homepages from 24 news sites in this bundle.
 |[Austin Weekly News](https://palewi.re/docs/news-homepages/sites/gcm_nf.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gcm_nf.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gcm_nf.xml)|
 |[Better Government Association](https://palewi.re/docs/news-homepages/sites/bettergov.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bettergov.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bettergov.xml)|
 |[Block Club Chicago](https://palewi.re/docs/news-homepages/sites/blockclubchi.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/blockclubchi.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/blockclubchi.xml)|
+|[Borderless](https://palewi.re/docs/news-homepages/sites/borderless_mag.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/borderless_mag.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/borderless_mag.xml)|
 |[CBS Chicago](https://palewi.re/docs/news-homepages/sites/cbschicago.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cbschicago.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cbschicago.xml)|
 |[Chicago Reader](https://palewi.re/docs/news-homepages/sites/chicago_reader.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/chicago_reader.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/chicago_reader.xml)|
 |[Chicago Reporter](https://palewi.re/docs/news-homepages/sites/chicagoreporter.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/chicagoreporter.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/chicagoreporter.xml)|
