@@ -1,5 +1,5 @@
 {
-  "created": 1661277742,
+  "created": 1661473988,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/16/items/revistaistoe-2022",
@@ -3386,31 +3386,341 @@
       "sha1": "9efe01062153ab61d40cfab4150dfd6018a45a37"
     },
     {
+      "name": "revistaistoe-2022-08-23T22:09:47.458478-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661303390",
+      "size": "20355",
+      "md5": "7869081674917801a1b2ee6c1f8a9122",
+      "crc32": "ee4615b6",
+      "sha1": "9bc42b2904d89545b121c4ecf27bbf423d00013d",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-08-23T22:09:47.458478-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661303392",
+      "size": "17796",
+      "md5": "293f198cb257c5ea98f9cc80d9a3dfd7",
+      "crc32": "17196d3f",
+      "sha1": "80547e7f2edcb18a201f7e883cad399ad066e2c1",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-08-23T22:09:47.458478-03:00.jpg",
+      "source": "original",
+      "mtime": "1661303388",
+      "size": "264293",
+      "md5": "aade7a177dbfd18e78e76c8c35d49053",
+      "crc32": "e92dff66",
+      "sha1": "f2973710424af7eb6d02483f218215646984a254",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "revistaistoe-2022-08-23T22:09:47.458478-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661303394",
+      "size": "1441",
+      "md5": "d18330dd4ebd6649c44ce4a658a66bf9",
+      "crc32": "674a5bdb",
+      "sha1": "b00c3930f8f2fcaaa4eeef586a386d8cedb0aaf3",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-08-23T22:09:47.458478-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1661303396",
+      "size": "27044",
+      "md5": "6e7ac59aeaa620214ef1b8e314ed1087",
+      "crc32": "2ec10476",
+      "sha1": "0e35b9485e782e8ff27eb6f19a4295a0a09720c4",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-08-23T22:09:47.458478-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "revistaistoe-2022-08-23T22:09:47.458478-03:00.jpg",
+      "mtime": "1661303594",
+      "size": "10010",
+      "md5": "892424bafd225637932c891638758d62",
+      "crc32": "47f9d904",
+      "sha1": "24fdda15cc220447b2aef27fc102dde3f64648a1"
+    },
+    {
+      "name": "revistaistoe-2022-08-24T08:57:09.472429-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661342236",
+      "size": "20593",
+      "md5": "526df6379cc135697064d333ad01629d",
+      "crc32": "b7edc2dc",
+      "sha1": "078c5501c6a2aa77de38dac64be935d071881dad",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-08-24T08:57:09.472429-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661342237",
+      "size": "18192",
+      "md5": "7db7cedde6e8d01b91a48e5db98af8d9",
+      "crc32": "976c3bae",
+      "sha1": "ea3da36504827b32219131a8b1586ee8b9a2a91a",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-08-24T08:57:09.472429-03:00.jpg",
+      "source": "original",
+      "mtime": "1661342234",
+      "size": "283847",
+      "md5": "7d18d2a2243149bb4fe959bad2e832a9",
+      "crc32": "cb8ab034",
+      "sha1": "1ac531191dcd88d2323f8d333e2b7a1b364d081a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "revistaistoe-2022-08-24T08:57:09.472429-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661342239",
+      "size": "1441",
+      "md5": "f7fb9741714a9515332102cf6bd1abdc",
+      "crc32": "be29e8f7",
+      "sha1": "fae5bf2be94ab7874594514e567aafda3605e3ea",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-08-24T08:57:09.472429-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1661342241",
+      "size": "28026",
+      "md5": "53a1b94c071d9bd91ce270dfe4f293dd",
+      "crc32": "91f77ce8",
+      "sha1": "61391aebca6d5ab5ba3ff4f3d31bd869c0a5a4ae",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-08-24T08:57:09.472429-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "revistaistoe-2022-08-24T08:57:09.472429-03:00.jpg",
+      "mtime": "1661342303",
+      "size": "10414",
+      "md5": "ef210cf38c6b978de3f5c887b024e221",
+      "crc32": "623439e7",
+      "sha1": "9aad10fba5f4e1b7558b3fba20aa4d6582ea24e1"
+    },
+    {
+      "name": "revistaistoe-2022-08-24T09:56:37.748140-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661345801",
+      "size": "20531",
+      "md5": "1f13905c1bbd9ecd7ae056cebaa9dc41",
+      "crc32": "8ff8137b",
+      "sha1": "ece3fddf1ecf5cb373bdd2d42db31d8a3d921142",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-08-24T09:56:37.748140-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661345803",
+      "size": "18066",
+      "md5": "e45d62ee1badf1381bc6a2c4fc214f36",
+      "crc32": "326ceef0",
+      "sha1": "b9444b8e4cb34195b1441087d9f1727bd0ccce17",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-08-24T09:56:37.748140-03:00.jpg",
+      "source": "original",
+      "mtime": "1661345799",
+      "size": "282140",
+      "md5": "d0b56356326fcf87f31316c6b310254c",
+      "crc32": "03fe91a0",
+      "sha1": "637258bd6f92b26b5d82c63a06bf7873c307e5c8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "revistaistoe-2022-08-24T09:56:37.748140-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661345805",
+      "size": "1440",
+      "md5": "5cfdde7e442d74bbf3cb20334e0d4089",
+      "crc32": "77c00b0b",
+      "sha1": "021c9e217d63f4e0b63eccd5fff0607d017e29aa",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-08-24T09:56:37.748140-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1661345807",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-08-24T09:56:37.748140-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "revistaistoe-2022-08-24T09:56:37.748140-03:00.jpg",
+      "mtime": "1661345939",
+      "size": "10393",
+      "md5": "6826c796363e9e9c5d1c1327372df92b",
+      "crc32": "d39a81b1",
+      "sha1": "6c9cbbe49a83a2557327de8235d0f2fc0d10b812"
+    },
+    {
+      "name": "revistaistoe-2022-08-25T09:08:11.498903-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661429294",
+      "size": "20781",
+      "md5": "05f8c2db4d2a2bd58d8846a02c5d3982",
+      "crc32": "9e3eed8b",
+      "sha1": "c55642c14a1e5a1ff44dc6da5ec10522ce7148ff",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-08-25T09:08:11.498903-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661429295",
+      "size": "18082",
+      "md5": "03ea0834d90fc155b0f5f4e4af163305",
+      "crc32": "c6181e08",
+      "sha1": "9e3fedcda998ae0d6b3a481d00c5b77496fbc392",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-08-25T09:08:11.498903-03:00.jpg",
+      "source": "original",
+      "mtime": "1661429292",
+      "size": "284711",
+      "md5": "2c6c1275f53354d89e7548ba51a0d9bc",
+      "crc32": "25a76672",
+      "sha1": "4c6408b6ce1b737eccabeda6a999958f9a2618c7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "revistaistoe-2022-08-25T09:08:11.498903-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661429297",
+      "size": "1441",
+      "md5": "05729907cb37385409a1984a73aa2a49",
+      "crc32": "c35d1f81",
+      "sha1": "b43f1783df4a0729db39185bdf86c7efe9c6d550",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-08-25T09:08:11.498903-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1661429298",
+      "size": "29368",
+      "md5": "bc20e8bcc156528ba66f352a7267bc39",
+      "crc32": "8c07fd12",
+      "sha1": "e234dcee04bb3f991013ffcc3773cd080f55cd3b",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-08-25T09:08:11.498903-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "revistaistoe-2022-08-25T09:08:11.498903-03:00.jpg",
+      "mtime": "1661429351",
+      "size": "10010",
+      "md5": "f2b5835947980a51135df853a8482528",
+      "crc32": "7dbe497a",
+      "sha1": "9781025f886654ee75768886d49166865acb941c"
+    },
+    {
+      "name": "revistaistoe-2022-08-25T10:04:46.406576-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661432689",
+      "size": "20503",
+      "md5": "5c09c26faa909b6b8f6d0834489500b9",
+      "crc32": "f6ffb337",
+      "sha1": "77aa7dfa47e4f2177188c16213c211f1d5751916",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-08-25T10:04:46.406576-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661432690",
+      "size": "18082",
+      "md5": "03ea0834d90fc155b0f5f4e4af163305",
+      "crc32": "c6181e08",
+      "sha1": "9e3fedcda998ae0d6b3a481d00c5b77496fbc392",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-08-25T10:04:46.406576-03:00.jpg",
+      "source": "original",
+      "mtime": "1661432688",
+      "size": "284711",
+      "md5": "2c6c1275f53354d89e7548ba51a0d9bc",
+      "crc32": "25a76672",
+      "sha1": "4c6408b6ce1b737eccabeda6a999958f9a2618c7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "revistaistoe-2022-08-25T10:04:46.406576-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661432692",
+      "size": "1441",
+      "md5": "63c2632516e3441620b53a67f3cee0c9",
+      "crc32": "19c108a2",
+      "sha1": "2fecd852acbac47b036097077e1a27953909233a",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-08-25T10:04:46.406576-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1661432694",
+      "size": "340",
+      "md5": "9e08e4ffce7b1c2461eefc194c499d41",
+      "crc32": "8d18fb84",
+      "sha1": "be0f58e1dd180228ecf6a0fb8e70aae9a978fe44",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-08-25T10:04:46.406576-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "revistaistoe-2022-08-25T10:04:46.406576-03:00.jpg",
+      "mtime": "1661432743",
+      "size": "10010",
+      "md5": "f2b5835947980a51135df853a8482528",
+      "crc32": "7dbe497a",
+      "sha1": "9781025f886654ee75768886d49166865acb941c"
+    },
+    {
       "name": "revistaistoe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dc272a7d9b5cf9bd565da427e71f3b1457e8a878",
-      "mtime": "1661261267",
-      "size": "71510",
-      "md5": "5326a50fd39c25e92fa567b5db314278",
-      "crc32": "f7b0ab44",
-      "sha1": "d6317ba49001bf7942b59647fa118adeb8195d35",
+      "btih": "669ed909126934b088b6e45499bbfa73673b7ba8",
+      "mtime": "1661432746",
+      "size": "77926",
+      "md5": "2dd28606dede521dbf5e6f210fa90126",
+      "crc32": "268ef91f",
+      "sha1": "3b3202c604d8588b83f9770a8f4a0213bcec88e9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "revistaistoe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "31734d52efc5a590f882c1d31d72816c",
+      "md5": "e07c794d6bdc90fc5c8c1c4d3f4d7106",
       "summation": "md5"
     },
     {
       "name": "revistaistoe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661259404",
-      "size": "438272",
-      "md5": "ba23f532257db0aafd0497dcabfb4499",
-      "crc32": "b5d9c585",
-      "sha1": "bf9c90350945687fb5e68ab35365b6be1e4f3d34",
+      "mtime": "1661432698",
+      "size": "475136",
+      "md5": "8ce5a19c6ea1d597a5c8a285c5b38ae2",
+      "crc32": "fa67e69b",
+      "sha1": "450e2da6326f2d15a257f804dc96095b7325e297",
       "format": "Metadata"
     },
     {
@@ -3424,9 +3734,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 331,
-  "item_last_updated": 1661261267,
-  "item_size": 20739098,
+  "files_count": 361,
+  "item_last_updated": 1661432746,
+  "item_size": 22518082,
   "metadata": {
     "identifier": "revistaistoe-2022",
     "collection": [
@@ -3443,8 +3753,23 @@
     "publicdate": "2022-08-03 00:43:13",
     "addeddate": "2022-08-03 00:43:13"
   },
+  "revistaistoe-2022": {
+    "url": "https://istoe.com.br/",
+    "job_id": "spn2-a87ac161f1e9ca9f3a89e65826ff3e8a6aaf2023",
+    "duration_sec": 18.069,
+    "resources": [],
+    "original_url": "https://istoe.com.br/",
+    "http_status": 200,
+    "counters": {
+      "embeds": 149,
+      "outlinks": 70
+    },
+    "status": "success",
+    "timestamp": "20220825115857",
+    "outlinks": []
+  },
   "server": "ia601403.us.archive.org",
-  "uniq": 191030019,
+  "uniq": 2047409658,
   "workable_servers": [
     "ia601403.us.archive.org",
     "ia801403.us.archive.org"

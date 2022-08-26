@@ -1,12 +1,7 @@
 {
-  "created": 1661299820,
+  "created": 1661439387,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
-  "diariopopularrs-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "dir": "/29/items/diariopopularrs-2022",
   "files": [
     {
@@ -2429,31 +2424,341 @@
       "sha1": "98d469c41d1afd525ab8354c4dfd49f98491ff21"
     },
     {
+      "name": "diariopopularrs-2022-08-23T23:18:29.919488-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661307513",
+      "size": "21408",
+      "md5": "9c32f2a50e902036e5a43aae7df17163",
+      "crc32": "bc4087c5",
+      "sha1": "b3dec5b7932d12e6863455731509919fd85c2e8f",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-08-23T23:18:29.919488-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661307515",
+      "size": "22248",
+      "md5": "8347110406d755e4f1094844f5533d96",
+      "crc32": "e1a73e24",
+      "sha1": "27366c016231d567556c76d9320c1ee6e4922a94",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-08-23T23:18:29.919488-03:00.jpg",
+      "source": "original",
+      "mtime": "1661307511",
+      "size": "284329",
+      "md5": "f68aee0e34bdbbea54d12f0055890e1c",
+      "crc32": "1a842b08",
+      "sha1": "7f1df8ed63cdb36ab998f5721b6f68a085f779ef",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariopopularrs-2022-08-23T23:18:29.919488-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661307517",
+      "size": "1549",
+      "md5": "10b8f4f4292f51f9d58a4e359f758b33",
+      "crc32": "8a04071c",
+      "sha1": "6b5e3dd169cf6805153c907c5d995ebeaa95f7f4",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-08-23T23:18:29.919488-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1661307518",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-08-23T23:18:29.919488-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariopopularrs-2022-08-23T23:18:29.919488-03:00.jpg",
+      "mtime": "1661307594",
+      "size": "10965",
+      "md5": "557578957a5f96446e69c4abd764e005",
+      "crc32": "c0522c81",
+      "sha1": "a6b658110501edb8fc289985a4cbf4457f2501d6"
+    },
+    {
+      "name": "diariopopularrs-2022-08-24T08:56:26.319195-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661342189",
+      "size": "21266",
+      "md5": "cff99b28b02bf69b03fca4e3a7ca35ad",
+      "crc32": "c2cef4d2",
+      "sha1": "8a51ec6c7e4e0f822ab115cb52af08fc0cafb21c",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-08-24T08:56:26.319195-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661342191",
+      "size": "22093",
+      "md5": "9c2c3daa1e1b8cd819a5a2337b4911f5",
+      "crc32": "4c184964",
+      "sha1": "215b1a122fd3a1757ada6ffc172213783c2a5532",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-08-24T08:56:26.319195-03:00.jpg",
+      "source": "original",
+      "mtime": "1661342188",
+      "size": "299104",
+      "md5": "15b2c4ee0a76b3bafc7af3a5f95b572f",
+      "crc32": "4392664d",
+      "sha1": "62e1c3bf12b32f0d6c82cd743ad8258c4b303563",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariopopularrs-2022-08-24T08:56:26.319195-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661342193",
+      "size": "1549",
+      "md5": "c497c223ea9d7414ae70327c15459d96",
+      "crc32": "57bac417",
+      "sha1": "d287d21b38ad95e899dac39d63f15a8487275b6c",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-08-24T08:56:26.319195-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1661342195",
+      "size": "109",
+      "md5": "b32af238ecdf56fddffa1d236d02cdf1",
+      "crc32": "d7c6d92f",
+      "sha1": "f526e0593998a88a3385442d1a629ae34f846c63",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-08-24T08:56:26.319195-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariopopularrs-2022-08-24T08:56:26.319195-03:00.jpg",
+      "mtime": "1661342434",
+      "size": "11005",
+      "md5": "029c47e1a34ef02714bf67b95cc5ad98",
+      "crc32": "980e5ff3",
+      "sha1": "4845a8672d50a478f48a352ed59a52fa8ccec1bb"
+    },
+    {
+      "name": "diariopopularrs-2022-08-24T11:00:55.301101-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661349664",
+      "size": "21656",
+      "md5": "c3a7b37e514b4d5a1be27e089537eb15",
+      "crc32": "4133deda",
+      "sha1": "e56a794fd77656b311268cd714ddfe020a8da43d",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-08-24T11:00:55.301101-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661349666",
+      "size": "22176",
+      "md5": "2ad4592582a6a804a44671f9b011b84a",
+      "crc32": "511118f2",
+      "sha1": "f302b38edd550a8cb198b28facbaef38966a59b5",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-08-24T11:00:55.301101-03:00.jpg",
+      "source": "original",
+      "mtime": "1661349662",
+      "size": "282853",
+      "md5": "4f97bbfe506ceeacf3a65c54a8f9f090",
+      "crc32": "d0bcef26",
+      "sha1": "bab0b8e70369428cd176030e99a5fa001a996f65",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariopopularrs-2022-08-24T11:00:55.301101-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661349667",
+      "size": "1549",
+      "md5": "12c9a3e883f84db08ed0d78cb339ac10",
+      "crc32": "e055e3d1",
+      "sha1": "e4478f4331fe3b2c2729fddf6fc920c8503c172f",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-08-24T11:00:55.301101-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1661349669",
+      "size": "18967",
+      "md5": "41a7b2851b58702295eec6a4d71ceb83",
+      "crc32": "a94ecbf5",
+      "sha1": "3a91b1175cab9e3e37fa5814a8bb4dede506fd2b",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-08-24T11:00:55.301101-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariopopularrs-2022-08-24T11:00:55.301101-03:00.jpg",
+      "mtime": "1661349734",
+      "size": "10544",
+      "md5": "fa47611a959ab9c45eb0bd3be8c9eb70",
+      "crc32": "3f2f2dd5",
+      "sha1": "dc9a7534dc1955fa0cd4cb99bdecae6353061499"
+    },
+    {
+      "name": "diariopopularrs-2022-08-25T09:07:02.849351-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661429225",
+      "size": "21899",
+      "md5": "90157b059a4e9bd84bc08dbcf98b3874",
+      "crc32": "75fcac2d",
+      "sha1": "07ed2d15de84113a5960a440b37be584216dbeeb",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-08-25T09:07:02.849351-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661429227",
+      "size": "22488",
+      "md5": "8e5f503b7610b4d916efb96d69b0d188",
+      "crc32": "b3904e4d",
+      "sha1": "7be117170c0fba46adf5d6ce9c52890ba3d92feb",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-08-25T09:07:02.849351-03:00.jpg",
+      "source": "original",
+      "mtime": "1661429224",
+      "size": "305935",
+      "md5": "db32f7036b18164985b458f22dfd5691",
+      "crc32": "5e912634",
+      "sha1": "098e20c63b603879678de7f0c1584b1ba229bc3d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariopopularrs-2022-08-25T09:07:02.849351-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661429230",
+      "size": "1548",
+      "md5": "d9542948df1efbbf86b2b558790e1a9d",
+      "crc32": "c8cb4172",
+      "sha1": "2ff1ea12e0add81e322662a17a7332bf39d27e4c",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-08-25T09:07:02.849351-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1661429231",
+      "size": "16890",
+      "md5": "c4a23e78c671e8b42ea90ff27bcec269",
+      "crc32": "d66caec4",
+      "sha1": "2189c1f8cab1406e0b7e3adca2cd5ecfc15b3289",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-08-25T09:07:02.849351-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariopopularrs-2022-08-25T09:07:02.849351-03:00.jpg",
+      "mtime": "1661429280",
+      "size": "11091",
+      "md5": "23f98720bf758ade07a48bccb3bb5633",
+      "crc32": "23d5c4ef",
+      "sha1": "75527e4e80d5036f561166450bb09ada9db22ea4"
+    },
+    {
+      "name": "diariopopularrs-2022-08-25T11:55:25.568880-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661439329",
+      "size": "21964",
+      "md5": "c2c48413abea5d90a63bae7d035eda49",
+      "crc32": "18122baa",
+      "sha1": "eb23939918413a38fc522c2e63ddaba537e90e0c",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-08-25T11:55:25.568880-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661439330",
+      "size": "22589",
+      "md5": "a02611b9a8bbae6637a663056540411c",
+      "crc32": "0bf4acea",
+      "sha1": "7dfdca1b568cb906329182b04415680beec59a79",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-08-25T11:55:25.568880-03:00.jpg",
+      "source": "original",
+      "mtime": "1661439327",
+      "size": "287199",
+      "md5": "787e22b9211cc7ef7e3eaf3450f1b66c",
+      "crc32": "63e2cc86",
+      "sha1": "89bad6e33ac43a86bd81d73754ab902bd1670bcb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariopopularrs-2022-08-25T11:55:25.568880-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661439332",
+      "size": "1548",
+      "md5": "4e09f01f685685c7356ccf966b1891e2",
+      "crc32": "e384d0b2",
+      "sha1": "6f99cb2d956fa2f671830dfd171dac884489ad53",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-08-25T11:55:25.568880-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1661439333",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "diariopopularrs-2022-08-25T11:55:25.568880-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariopopularrs-2022-08-25T11:55:25.568880-03:00.jpg",
+      "mtime": "1661439379",
+      "size": "10749",
+      "md5": "ac9a46141f1186d520625741e0d9c546",
+      "crc32": "6457e718",
+      "sha1": "fb710ee01b17350033b6f5c5f7e960374145bac0"
+    },
+    {
       "name": "diariopopularrs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4eed6c124383750faa26302b2d1e1dee4e9dbc45",
-      "mtime": "1661263920",
-      "size": "52298",
-      "md5": "5c995ec954bef7a153ac85a1e90b31c0",
-      "crc32": "20a2eb27",
-      "sha1": "f1a9d4f0a299e2bdc1149811d9be80e222052213",
+      "btih": "bde9f45b871e404bf51c5ea83df87fd8c872d71d",
+      "mtime": "1661439382",
+      "size": "58802",
+      "md5": "815b5b4970b1a863c59f7c745cb85201",
+      "crc32": "a0098a11",
+      "sha1": "9dd828b1a935ed8eea828530fe8d1de1457040ca",
       "format": "Archive BitTorrent"
     },
     {
       "name": "diariopopularrs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ff66c46a43dd3934d1e5cf106d41f0b4",
+      "md5": "15b20a4293378337ab3878e78d658ccb",
       "summation": "md5"
     },
     {
       "name": "diariopopularrs-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661263351",
-      "size": "319488",
-      "md5": "d82abf50290b4570b25826bf0865ee39",
-      "crc32": "c7b52449",
-      "sha1": "8353348df1892e193ced55d02afe03a1cc9f36a0",
+      "mtime": "1661439337",
+      "size": "356352",
+      "md5": "07d26db19ce9dc01e53cd325d21df115",
+      "crc32": "54ab15c3",
+      "sha1": "26bef5502df2fa10bfef2c042186bcf0f65b67ac",
       "format": "Metadata"
     },
     {
@@ -2467,9 +2772,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 238,
-  "item_last_updated": 1661263920,
-  "item_size": 14294085,
+  "files_count": 268,
+  "item_last_updated": 1661439382,
+  "item_size": 16115127,
   "metadata": {
     "identifier": "diariopopularrs-2022",
     "collection": [
@@ -2487,7 +2792,7 @@
     "addeddate": "2022-08-09 17:22:14"
   },
   "server": "ia601500.us.archive.org",
-  "uniq": 1311893199,
+  "uniq": 260296864,
   "workable_servers": [
     "ia601500.us.archive.org",
     "ia801500.us.archive.org"

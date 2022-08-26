@@ -1,5 +1,5 @@
 {
-  "created": 1661295831,
+  "created": 1661468018,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/10/items/bulwarkonline-2022",
@@ -6096,31 +6096,392 @@
       "sha1": "7a5dc968b60b501d4eef35805bd90ddc99df37cf"
     },
     {
+      "name": "bulwarkonline-2022-08-24T06:47:32.301754-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661338055",
+      "size": "8567",
+      "md5": "a466ddc7a87f2c1e589e991bce25c39e",
+      "crc32": "4bfad497",
+      "sha1": "9f38755c384a54913f3409e0dd35d18da6782196",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-08-24T06:47:32.301754-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661338057",
+      "size": "7736",
+      "md5": "48f7441e7d9750f23d4868af9ac5da5d",
+      "crc32": "d54c0241",
+      "sha1": "014aacca5399330011e7bceae52d23ad9e0d1118",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-08-24T06:47:32.301754-04:00.jpg",
+      "source": "original",
+      "mtime": "1661338054",
+      "size": "289998",
+      "md5": "9a6ce9c3f5975e5a9f0519e7116be336",
+      "crc32": "d701f595",
+      "sha1": "dc6334317fcf292e5507efe77115f6ea77be5203",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bulwarkonline-2022-08-24T06:47:32.301754-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661338058",
+      "size": "1477",
+      "md5": "3e1b874d59f9a42ec32b8382f7c674d5",
+      "crc32": "306aa3b3",
+      "sha1": "22f42f1efdf7233802a93f1420922f6bfb4ff25b",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-08-24T06:47:32.301754-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1661338060",
+      "size": "11582",
+      "md5": "c3e6b742b78ba32061f236c676989ddd",
+      "crc32": "88c78a50",
+      "sha1": "954574f71d218acf406e87bbb10182b3493afe51",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-08-24T06:47:32.301754-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bulwarkonline-2022-08-24T06:47:32.301754-04:00.jpg",
+      "mtime": "1661338192",
+      "size": "11400",
+      "md5": "2883112c97a6e0e48b3b5d91d645c2dd",
+      "crc32": "5482e459",
+      "sha1": "8a6fa01e08e39fd242011e507b8e75cd12100de5"
+    },
+    {
+      "name": "bulwarkonline-2022-08-24T14:36:44.098575-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661366217",
+      "size": "8486",
+      "md5": "90539341f5b36a3f42d670e7f40a09ea",
+      "crc32": "a079c619",
+      "sha1": "d58e7df28e94fc0261b4589d33dcff38f0599f18",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-08-24T14:36:44.098575-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661366218",
+      "size": "7642",
+      "md5": "4e2bd662abfa1dacb229575ffb59a205",
+      "crc32": "8e9d899b",
+      "sha1": "a15c2e940e69f1ec0d0ade5ac54c481d66bb6334",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-08-24T14:36:44.098575-04:00.jpg",
+      "source": "original",
+      "mtime": "1661366214",
+      "size": "286092",
+      "md5": "0830b0eaa9de31c99abe44e91fd1bc15",
+      "crc32": "b1063a5e",
+      "sha1": "b5db6077d71a20d44eb9034cbe9d35f1b60a8cdf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bulwarkonline-2022-08-24T14:36:44.098575-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661366220",
+      "size": "1476",
+      "md5": "254dcfb0350372ba0afe08d717928e2d",
+      "crc32": "1ed13292",
+      "sha1": "fb6543690c0aadf6f509a1a77fc1a8e896c02986",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-08-24T14:36:44.098575-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1661366221",
+      "size": "11783",
+      "md5": "5de62418697679b99ce63e0ce54cbe5c",
+      "crc32": "23d16ee3",
+      "sha1": "234a4a0de4ecd0ad0c1678bb114de35a37b06ef4",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-08-24T14:36:44.098575-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bulwarkonline-2022-08-24T14:36:44.098575-04:00.jpg",
+      "mtime": "1661368937",
+      "size": "11463",
+      "md5": "acffe692c1abf171807c2fd3aa4c5827",
+      "crc32": "c21be268",
+      "sha1": "89a0563864a94c2495d30c208df2015094d9f8d7"
+    },
+    {
+      "name": "bulwarkonline-2022-08-24T18:54:35.954715-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661381679",
+      "size": "8486",
+      "md5": "90539341f5b36a3f42d670e7f40a09ea",
+      "crc32": "a079c619",
+      "sha1": "d58e7df28e94fc0261b4589d33dcff38f0599f18",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-08-24T18:54:35.954715-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661381680",
+      "size": "7618",
+      "md5": "962062f60f3bc91a1460a5c698e20543",
+      "crc32": "5781656a",
+      "sha1": "bf5a6b084be56ca6696046961c716f1ed309cff1",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-08-24T18:54:35.954715-04:00.jpg",
+      "source": "original",
+      "mtime": "1661381677",
+      "size": "284719",
+      "md5": "031f2fc76683da238b1528ee76ab7dcf",
+      "crc32": "07b46736",
+      "sha1": "773716de1f960fc6db9c64a7c67e1b79e83ede3f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bulwarkonline-2022-08-24T18:54:35.954715-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661381682",
+      "size": "1477",
+      "md5": "8c96143e3001d7723705285759221180",
+      "crc32": "cfcc7824",
+      "sha1": "6738cddc94e5ec600f904047c33063d49354add0",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-08-24T18:54:35.954715-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1661381683",
+      "size": "11759",
+      "md5": "b9eb99f962c4e97811774ef5f66a0553",
+      "crc32": "e37ec6f9",
+      "sha1": "cf5badccab593f7457c147fd76bd18305362f851",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-08-24T18:54:35.954715-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bulwarkonline-2022-08-24T18:54:35.954715-04:00.jpg",
+      "mtime": "1661382159",
+      "size": "11462",
+      "md5": "58f7faacda2b427b7f187254d5a65473",
+      "crc32": "6ef7ff8c",
+      "sha1": "12f3fcc159ce0fc2c381ccae1143e5cc8fce8c90"
+    },
+    {
+      "name": "bulwarkonline-2022-08-25T06:55:07.235571-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661424909",
+      "size": "8508",
+      "md5": "df8193c1a3d7a6354a51dd2c83e704eb",
+      "crc32": "86c36fd5",
+      "sha1": "94ce6eb0037247d77e43f99fec631bff43faf283",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-08-25T06:55:07.235571-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661424910",
+      "size": "7615",
+      "md5": "486bd827f9fc75b2c7d6276ae956a9f1",
+      "crc32": "67258909",
+      "sha1": "4cf6f8aa754378af1d78fbeedea2b5243e8a6e25",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-08-25T06:55:07.235571-04:00.jpg",
+      "source": "original",
+      "mtime": "1661424908",
+      "size": "265690",
+      "md5": "f69ba85ad169e05bfd9e26628e352956",
+      "crc32": "c3c54d29",
+      "sha1": "a74ddf91299c004784245ea9a857f0db6ea086f1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bulwarkonline-2022-08-25T06:55:07.235571-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661424912",
+      "size": "1477",
+      "md5": "fa7affb47a1c07c84ac5089ee0e6647d",
+      "crc32": "4c3f099e",
+      "sha1": "1a6d0fbe703181705538f2fa11ac56b9fb5641a1",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-08-25T06:55:07.235571-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1661424914",
+      "size": "11647",
+      "md5": "a6bcd6925a87dee9be3f15cc1044df75",
+      "crc32": "07a05a65",
+      "sha1": "66e8a671e899cb2920140c612e22ec7c5cd13fb3",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-08-25T06:55:07.235571-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bulwarkonline-2022-08-25T06:55:07.235571-04:00.jpg",
+      "mtime": "1661424972",
+      "size": "11373",
+      "md5": "7eae661315ff14cbba1a14aaaedd0bf1",
+      "crc32": "9c08632b",
+      "sha1": "aea6b5fc860a1618d403a1341b4f92efea5777a1"
+    },
+    {
+      "name": "bulwarkonline-2022-08-25T14:28:07.102927-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661452093",
+      "size": "8471",
+      "md5": "1f62bc2e175d3d2afe74295923bd917c",
+      "crc32": "8df017fa",
+      "sha1": "1b098dc46dfc222ea8d5c02e1a4d81592c13e987",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-08-25T14:28:07.102927-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661452095",
+      "size": "7519",
+      "md5": "3a416880081be11a053eb5133c9d4c80",
+      "crc32": "cad68759",
+      "sha1": "768aa3e31145003a1d5dbee066c8bc3f6bc6ca18",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-08-25T14:28:07.102927-04:00.jpg",
+      "source": "original",
+      "mtime": "1661452091",
+      "size": "272734",
+      "md5": "dac6617ddf1e1178899ab82ff159a50a",
+      "crc32": "93980f42",
+      "sha1": "437fb316a6710e37ec481f28b9ca20a2660b1c05",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bulwarkonline-2022-08-25T14:28:07.102927-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661452097",
+      "size": "1477",
+      "md5": "317283faf3acca424ae945ec8a7bc9b3",
+      "crc32": "90a5838e",
+      "sha1": "c549be95f935be794b938c94ae656b3f4c9c7bc3",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-08-25T14:28:07.102927-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1661452098",
+      "size": "11825",
+      "md5": "a2265ab8cf7ad8eb39ec98fad66e556c",
+      "crc32": "a1cfdaad",
+      "sha1": "164639b447d8d419fd7fb6fa3b0f3c9910f90c1b",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-08-25T14:28:07.102927-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bulwarkonline-2022-08-25T14:28:07.102927-04:00.jpg",
+      "mtime": "1661462440",
+      "size": "11260",
+      "md5": "c457275276ddbb221675fc76fec54684",
+      "crc32": "d706c709",
+      "sha1": "91df0d6492c32b3b3e6ebc373c76e67f88643ac0"
+    },
+    {
+      "name": "bulwarkonline-2022-08-25T18:52:41.777416-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661467967",
+      "size": "8471",
+      "md5": "d07ad1348c3a364391415cc905ebcff2",
+      "crc32": "a3246ebf",
+      "sha1": "337a8627560cf1dcadf4b9b91ca16fa5546292c5",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-08-25T18:52:41.777416-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661467968",
+      "size": "7505",
+      "md5": "2fcb5d99bc5152b4c74806e8567a4f28",
+      "crc32": "13ff3a4f",
+      "sha1": "c44ebbb00b0b50c5c4b357a62d107aa1e28cdaa5",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-08-25T18:52:41.777416-04:00.jpg",
+      "source": "original",
+      "mtime": "1661467965",
+      "size": "270836",
+      "md5": "a2e56910e55cdba876797ad9b1709d9d",
+      "crc32": "a500b7c2",
+      "sha1": "15f9b91bcb96d94e8443daf1fa1531ca1ad19e3f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bulwarkonline-2022-08-25T18:52:41.777416-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661467970",
+      "size": "1476",
+      "md5": "18552f4c2db611c4e377c2d02b04adc9",
+      "crc32": "5b90d7b7",
+      "sha1": "17f3af9726770cc632c5cf2ce1a8e5daf1a40e84",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-08-25T18:52:41.777416-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1661467971",
+      "size": "11813",
+      "md5": "0b03bf1ee356b2b4e313e18382e1b558",
+      "crc32": "81d53116",
+      "sha1": "288d7da21c389b84173549be923308022016cb54",
+      "format": "JSON"
+    },
+    {
       "name": "bulwarkonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b84380fb737a3850d3cb05bcd7f194524a74b38c",
-      "mtime": "1661295563",
-      "size": "127630",
-      "md5": "c0fec3427a190e9967b729e386bb75a4",
-      "crc32": "acb9de43",
-      "sha1": "583bad06b256dad6f00aaf9d3d06e30bd56cef8a",
+      "btih": "33f1cc806c3f573bdff00ff4a78f0426699882bf",
+      "mtime": "1661468015",
+      "size": "135156",
+      "md5": "e32ae44cc5a105c6db90c7cb95e44d6e",
+      "crc32": "b8dd3783",
+      "sha1": "13ae13aa2563593c8a1c0a7e4e75145723ea0609",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bulwarkonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a956f8ba2a3202a530cf86194c4902be",
+      "md5": "893e684da3a543f87e10a8742bca6ddb",
       "summation": "md5"
     },
     {
       "name": "bulwarkonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661295458",
-      "size": "749568",
-      "md5": "1c8f6aa0bb008157ef902cdb7bbb085c",
-      "crc32": "90e12f44",
-      "sha1": "14cdae389c78a9a5a70119f10bd61d40dc1154c8",
+      "mtime": "1661467975",
+      "size": "798720",
+      "md5": "c287189248649161c48eb08ab9366c71",
+      "crc32": "aab35008",
+      "sha1": "f88539eda811005e07417730b0c3a39d46dcc534",
       "format": "Metadata"
     },
     {
@@ -6134,9 +6495,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 591,
-  "item_last_updated": 1661295563,
-  "item_size": 37643327,
+  "files_count": 626,
+  "item_last_updated": 1661468015,
+  "item_size": 39602925,
   "metadata": {
     "identifier": "bulwarkonline-2022",
     "collection": [
@@ -6153,10 +6514,21 @@
     "publicdate": "2022-07-17 15:03:06",
     "addeddate": "2022-07-17 15:03:06"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 140313089,
+  "pending_tasks": true,
+  "server": "ia601406.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3385063018,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2088731901,
   "workable_servers": [
-    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
   ]
 }

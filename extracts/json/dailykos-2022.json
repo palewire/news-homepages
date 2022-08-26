@@ -1,5 +1,5 @@
 {
-  "created": 1661280278,
+  "created": 1661462626,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/9/items/dailykos-2022",
@@ -6032,31 +6032,341 @@
       "sha1": "02c898b7e73799bf4f8af98cf1ced835266aa2a4"
     },
     {
+      "name": "dailykos-2022-08-23T22:18:42.828194-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661307531",
+      "size": "124455",
+      "md5": "c79aa2a8735965744c56958be015f99d",
+      "crc32": "14d7a6d8",
+      "sha1": "323e8d539462b9c89b108b6e66b73803aa735fd7",
+      "format": "JSON"
+    },
+    {
+      "name": "dailykos-2022-08-23T22:18:42.828194-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661307532",
+      "size": "91200",
+      "md5": "4eed141fa33a26bcda7087c150d9ec46",
+      "crc32": "8fdec1cc",
+      "sha1": "b375c10e1f84c10944d7c1bc1380f179c3dc536e",
+      "format": "JSON"
+    },
+    {
+      "name": "dailykos-2022-08-23T22:18:42.828194-04:00.jpg",
+      "source": "original",
+      "mtime": "1661307528",
+      "size": "238498",
+      "md5": "bec3022e062fad8bea1f446c136c3705",
+      "crc32": "99c7e7d5",
+      "sha1": "08383209e45b2be3a6abb3b8d3ba2c04c9df920a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailykos-2022-08-23T22:18:42.828194-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661307534",
+      "size": "1452",
+      "md5": "fe97478ebc464037c1ca3beea088c8e8",
+      "crc32": "492d315d",
+      "sha1": "714a78c16eb594a582a9d1ec7cd38fbb492000ac",
+      "format": "JSON"
+    },
+    {
+      "name": "dailykos-2022-08-23T22:18:42.828194-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1661307535",
+      "size": "54508",
+      "md5": "9a41ea575b3d00ebd3281b45bbff711a",
+      "crc32": "c78e4b6b",
+      "sha1": "c0698cb578a46872943c0bb6b3a8fe759591f6cd",
+      "format": "JSON"
+    },
+    {
+      "name": "dailykos-2022-08-23T22:18:42.828194-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailykos-2022-08-23T22:18:42.828194-04:00.jpg",
+      "mtime": "1661307626",
+      "size": "9113",
+      "md5": "9cee01c67d6d6858a711811496fd7d06",
+      "crc32": "d2ae5bd0",
+      "sha1": "45e98e45ccc457172f4294359742604176ced01d"
+    },
+    {
+      "name": "dailykos-2022-08-24T10:01:25.468652-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661349691",
+      "size": "116963",
+      "md5": "caf31de2df701c8d7f0e97a41fa401f5",
+      "crc32": "d5dad704",
+      "sha1": "6285d6c50e2dddfaec5b57a566326b63c113a7df",
+      "format": "JSON"
+    },
+    {
+      "name": "dailykos-2022-08-24T10:01:25.468652-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661349692",
+      "size": "91900",
+      "md5": "c2f0b3866ada5984b7d180dd2fcde6bb",
+      "crc32": "3853cafb",
+      "sha1": "f1a801c260f9c854a892a18be5d3ea1631a91a17",
+      "format": "JSON"
+    },
+    {
+      "name": "dailykos-2022-08-24T10:01:25.468652-04:00.jpg",
+      "source": "original",
+      "mtime": "1661349689",
+      "size": "223694",
+      "md5": "8ce7fd2e3a17b97fc962a425624b9e06",
+      "crc32": "7ad79a24",
+      "sha1": "445247373283e076bb9843a940396ea7eb01d892",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailykos-2022-08-24T10:01:25.468652-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661349694",
+      "size": "1452",
+      "md5": "e1a55f1acc13427888a46ae0adbcacaa",
+      "crc32": "4e3e70ac",
+      "sha1": "cbb1688f6b5fc6215691e8f892e9a280cb8288b6",
+      "format": "JSON"
+    },
+    {
+      "name": "dailykos-2022-08-24T10:01:25.468652-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1661349695",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "dailykos-2022-08-24T10:01:25.468652-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailykos-2022-08-24T10:01:25.468652-04:00.jpg",
+      "mtime": "1661349758",
+      "size": "9084",
+      "md5": "c0c0c4e73908c16e44f5568d3711c18e",
+      "crc32": "7d190e36",
+      "sha1": "3ed5ca397a23255db8a3cd51e163f1c48c668af0"
+    },
+    {
+      "name": "dailykos-2022-08-24T14:38:11.400204-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661366295",
+      "size": "123214",
+      "md5": "ebcc6bce366ec61e088237b1602bcd6f",
+      "crc32": "d17a93f3",
+      "sha1": "9accecdc9f698ef9e0e2440e341f31abee29025d",
+      "format": "JSON"
+    },
+    {
+      "name": "dailykos-2022-08-24T14:38:11.400204-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661366296",
+      "size": "91726",
+      "md5": "5ce6edc4d9fc8a1d790560ab15217309",
+      "crc32": "3fa9f2ed",
+      "sha1": "f0946dc71dfd5daab9504b0ae739cf4ea433dbb3",
+      "format": "JSON"
+    },
+    {
+      "name": "dailykos-2022-08-24T14:38:11.400204-04:00.jpg",
+      "source": "original",
+      "mtime": "1661366293",
+      "size": "225744",
+      "md5": "760045210a64198126b0ef1127eec312",
+      "crc32": "e3a3b71d",
+      "sha1": "44da03301d5aeaf39d21c758066abf785b8b1c45",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailykos-2022-08-24T14:38:11.400204-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661366298",
+      "size": "1452",
+      "md5": "87d376adc40c8c0b33c67c52a7b05d1e",
+      "crc32": "91c17753",
+      "sha1": "3d3fd3e816df14a858ee415ea0a67f053df6fc8e",
+      "format": "JSON"
+    },
+    {
+      "name": "dailykos-2022-08-24T14:38:11.400204-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1661366300",
+      "size": "58218",
+      "md5": "3150d1ddbbe4e63830731d9f07b2a341",
+      "crc32": "46a795fd",
+      "sha1": "53a1cfe2134fc775a448a158728e731f1b58c468",
+      "format": "JSON"
+    },
+    {
+      "name": "dailykos-2022-08-24T14:38:11.400204-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailykos-2022-08-24T14:38:11.400204-04:00.jpg",
+      "mtime": "1661369505",
+      "size": "9049",
+      "md5": "7410f8aa62a49726535e23ccc4274505",
+      "crc32": "be5435cd",
+      "sha1": "3e2449203fd62d9d953b14ad2cfc9ef734af3483"
+    },
+    {
+      "name": "dailykos-2022-08-25T10:55:44.718868-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661439359",
+      "size": "118727",
+      "md5": "d100b6010df1f6d0c47b6dfbe6db0446",
+      "crc32": "7a593bd0",
+      "sha1": "2fb06e28b89d2c6bc65097700ba9b13cf382266f",
+      "format": "JSON"
+    },
+    {
+      "name": "dailykos-2022-08-25T10:55:44.718868-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661439360",
+      "size": "90222",
+      "md5": "814b63ad8db3e37574888ebc306dd15f",
+      "crc32": "fe008c92",
+      "sha1": "2d4c3ed70114753a9a75be9cd9e3df5ea5a7ff76",
+      "format": "JSON"
+    },
+    {
+      "name": "dailykos-2022-08-25T10:55:44.718868-04:00.jpg",
+      "source": "original",
+      "mtime": "1661439357",
+      "size": "227911",
+      "md5": "5f01cccbd8e9f13dbedc82aa1a23a947",
+      "crc32": "e443ad69",
+      "sha1": "8bc1d91053ddd5a35736bcbcb85c93decdb7638e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailykos-2022-08-25T10:55:44.718868-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661439362",
+      "size": "1454",
+      "md5": "fe687c74a3399faccc5c73aa8699d1b4",
+      "crc32": "40ee93f7",
+      "sha1": "037bb635c558f19104ff1327acc442f472d6ca4a",
+      "format": "JSON"
+    },
+    {
+      "name": "dailykos-2022-08-25T10:55:44.718868-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1661439363",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "dailykos-2022-08-25T10:55:44.718868-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailykos-2022-08-25T10:55:44.718868-04:00.jpg",
+      "mtime": "1661439421",
+      "size": "9140",
+      "md5": "51ddd8b23235d393bd1a531f8f398ce1",
+      "crc32": "162e5ffd",
+      "sha1": "26e70308b1dc024040b906f58bcd27ba9638ac59"
+    },
+    {
+      "name": "dailykos-2022-08-25T14:27:27.499601-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661452049",
+      "size": "123296",
+      "md5": "80513e00ca877831f8be3aa83ba735c0",
+      "crc32": "98530dfd",
+      "sha1": "16ecc5271b7cf0560545f8988bdb142357e03d8a",
+      "format": "JSON"
+    },
+    {
+      "name": "dailykos-2022-08-25T14:27:27.499601-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661452051",
+      "size": "90833",
+      "md5": "e55ad5f2ef8edc2c3b1f54df77d783db",
+      "crc32": "cb2ba82d",
+      "sha1": "e01a6cdfe978d1eb25754016922830beb701520b",
+      "format": "JSON"
+    },
+    {
+      "name": "dailykos-2022-08-25T14:27:27.499601-04:00.jpg",
+      "source": "original",
+      "mtime": "1661452048",
+      "size": "218573",
+      "md5": "235cf9c6ab63047b2ddecadeecf7cbea",
+      "crc32": "d65aec24",
+      "sha1": "363b4811b80687749219bccf5eab764fc8d3875b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailykos-2022-08-25T14:27:27.499601-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661452053",
+      "size": "1453",
+      "md5": "9b93a220f0f2693550634a5f88badd6e",
+      "crc32": "63251cd2",
+      "sha1": "9b97966adbf284d1cfe518c12e600876a22ed88f",
+      "format": "JSON"
+    },
+    {
+      "name": "dailykos-2022-08-25T14:27:27.499601-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1661452054",
+      "size": "59970",
+      "md5": "b7b28a254782cdf23adb573cc139e791",
+      "crc32": "bffeca0f",
+      "sha1": "6eb35d58ce3bea1e68b673655672dfbbc513f8c4",
+      "format": "JSON"
+    },
+    {
+      "name": "dailykos-2022-08-25T14:27:27.499601-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailykos-2022-08-25T14:27:27.499601-04:00.jpg",
+      "mtime": "1661462599",
+      "size": "8911",
+      "md5": "d355a989f6ecfc38f3f72cf964007e6d",
+      "crc32": "bc3ddf37",
+      "sha1": "11d68ad9c252cea00ec74b90c5146dbf7693f3fd"
+    },
+    {
       "name": "dailykos-2022_archive.torrent",
       "source": "metadata",
-      "btih": "961e3e140772d6a3207d83959513fafdf180bff0",
-      "mtime": "1661280249",
-      "size": "124226",
-      "md5": "4a4d323c2071ba4b0e0a7a8a170e2737",
-      "crc32": "fea67710",
-      "sha1": "e785f43cf890546ebcc8b04d0312714e4e432c4e",
+      "btih": "b68b1d28c0287b53d35883c3d90c841969227d9a",
+      "mtime": "1661462607",
+      "size": "130562",
+      "md5": "420cdf7560fb9066a5b6918e58a55ef2",
+      "crc32": "6edbadf2",
+      "sha1": "a22273ef3a015ac7d8f23dee5762ee7a5cebadaf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailykos-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "069ba480927df135ef59638c33cb967c",
+      "md5": "14013fd9dc8aadfb330e6bf7f394fae9",
       "summation": "md5"
     },
     {
       "name": "dailykos-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661279352",
-      "size": "737280",
-      "md5": "a8b4ac1b6d363d9d4de3a27e3343921b",
-      "crc32": "0fd5467c",
-      "sha1": "99a1aea60345253bceb9dcd97ae7508bf54fc274",
+      "mtime": "1661452065",
+      "size": "778240",
+      "md5": "0ac559a63d80e340d8f37c88fafe366e",
+      "crc32": "90ae7eba",
+      "sha1": "516b8dfd820915712ec6d1cc77345929b9fdeb65",
       "format": "Metadata"
     },
     {
@@ -6070,9 +6380,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 585,
-  "item_last_updated": 1661280249,
-  "item_size": 52847369,
+  "files_count": 615,
+  "item_last_updated": 1661462607,
+  "item_size": 55317281,
   "metadata": {
     "identifier": "dailykos-2022",
     "collection": [
@@ -6089,10 +6399,10 @@
     "publicdate": "2022-07-17 16:00:03",
     "addeddate": "2022-07-17 16:00:03"
   },
-  "server": "ia801503.us.archive.org",
-  "uniq": 1955676017,
+  "server": "ia601503.us.archive.org",
+  "uniq": 68752488,
   "workable_servers": [
-    "ia801503.us.archive.org",
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }

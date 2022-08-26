@@ -1,5 +1,5 @@
 {
-  "created": 1661298434,
+  "created": 1661472123,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/29/items/flightglobal-2022",
@@ -636,31 +636,330 @@
       "sha1": "4e2222da2cb22b871be9be709b05852a7aa95947"
     },
     {
+      "name": "flightglobal-2022-08-24T10:17:02.009042+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661332626",
+      "size": "38956",
+      "md5": "f986b509972d8cf5c53474e3224eaacf",
+      "crc32": "e8fe2b7e",
+      "sha1": "d7bc281b291a2a10553340471da5e1a52f465234",
+      "format": "JSON"
+    },
+    {
+      "name": "flightglobal-2022-08-24T10:17:02.009042+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661332628",
+      "size": "55906",
+      "md5": "611c60eb02c94c1b793e5ed7617b4bb1",
+      "crc32": "435ae4fb",
+      "sha1": "c7e497f0ea24804434e84d5589778fb49d940854",
+      "format": "JSON"
+    },
+    {
+      "name": "flightglobal-2022-08-24T10:17:02.009042+01:00.jpg",
+      "source": "original",
+      "mtime": "1661332624",
+      "size": "249098",
+      "md5": "fbe4cd6bfdf6323570cbcd366924be46",
+      "crc32": "d957aa8b",
+      "sha1": "7e3835ad4026a0035e84e353c1ab3254d35e1a7b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flightglobal-2022-08-24T10:17:02.009042+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661332629",
+      "size": "1513",
+      "md5": "55e7e3747df9a79588c08bcbb209c701",
+      "crc32": "dacc4f64",
+      "sha1": "7d3eb5e35033b94f2698c2c0ee921b8322d75c05",
+      "format": "JSON"
+    },
+    {
+      "name": "flightglobal-2022-08-24T10:17:02.009042+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1661332631",
+      "size": "26345",
+      "md5": "0eed60e7d8915b0fb2e759962e7308d2",
+      "crc32": "6446bf1d",
+      "sha1": "ca1074d29c3d9ba96ac3797bd92740fe599a92b2",
+      "format": "JSON"
+    },
+    {
+      "name": "flightglobal-2022-08-24T10:17:02.009042+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flightglobal-2022-08-24T10:17:02.009042+01:00.jpg",
+      "mtime": "1661332732",
+      "size": "9592",
+      "md5": "48cf09df5883e6c6f19738c8555bc3f8",
+      "crc32": "f923d250",
+      "sha1": "b42f974c503c74044f9b22135b863db17828ed33"
+    },
+    {
+      "name": "flightglobal-2022-08-24T12:49:01.692641+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661341745",
+      "size": "39310",
+      "md5": "72531dd30b658879cf8762d55b83ca80",
+      "crc32": "01b76a58",
+      "sha1": "9f4cba201b37bf8554b4e18e1ba33f507425c95d",
+      "format": "JSON"
+    },
+    {
+      "name": "flightglobal-2022-08-24T12:49:01.692641+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661341747",
+      "size": "56025",
+      "md5": "c4202c402e78b57438dcbf78bd9b98f2",
+      "crc32": "af94d3b6",
+      "sha1": "3ccbca2bb6c703401991588354db6b8bfe3d1fbc",
+      "format": "JSON"
+    },
+    {
+      "name": "flightglobal-2022-08-24T12:49:01.692641+01:00.jpg",
+      "source": "original",
+      "mtime": "1661341744",
+      "size": "257053",
+      "md5": "e13506c467111982106e62ca1d37906b",
+      "crc32": "5444e171",
+      "sha1": "bc5c3e42548d5e9bf05365c0ffae18ab8cab4dcd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flightglobal-2022-08-24T12:49:01.692641+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661341749",
+      "size": "1513",
+      "md5": "3e0d1d1cb2fa5d05ed8029fdebe7b376",
+      "crc32": "51535e79",
+      "sha1": "3cedd2932498d26a3cb28f3625fded0f6793af63",
+      "format": "JSON"
+    },
+    {
+      "name": "flightglobal-2022-08-24T12:49:01.692641+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1661341751",
+      "size": "355",
+      "md5": "e6bae0cc19f12af11897bf2bb9a26504",
+      "crc32": "d80cccae",
+      "sha1": "b7843b9ee64931bdd60e9e4cd14a47f9b5de6272",
+      "format": "JSON"
+    },
+    {
+      "name": "flightglobal-2022-08-24T12:49:01.692641+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flightglobal-2022-08-24T12:49:01.692641+01:00.jpg",
+      "mtime": "1661341849",
+      "size": "9636",
+      "md5": "97178f92a56f71271f20dc384c085228",
+      "crc32": "98db315e",
+      "sha1": "efc739626424f3dc4b6e83f86b3d69f601d8b54b"
+    },
+    {
+      "name": "flightglobal-2022-08-25T00:53:39.187790+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661385228",
+      "size": "39377",
+      "md5": "92a6774b6cdf8368fc2d5ae7ab869b4f",
+      "crc32": "a85f057f",
+      "sha1": "4b29d06971ce5d80690c46db0f9125731931ebbf",
+      "format": "JSON"
+    },
+    {
+      "name": "flightglobal-2022-08-25T00:53:39.187790+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661385229",
+      "size": "56104",
+      "md5": "6791d8373d86fbf1c5234fa455ba5482",
+      "crc32": "388fc45b",
+      "sha1": "5e03e01effdea3fa45ba34869e170aaaa9563964",
+      "format": "JSON"
+    },
+    {
+      "name": "flightglobal-2022-08-25T00:53:39.187790+01:00.jpg",
+      "source": "original",
+      "mtime": "1661385226",
+      "size": "260915",
+      "md5": "7205d8deb943361dee5f9445890f609f",
+      "crc32": "5fb464d9",
+      "sha1": "6f5f3016da08a3da10ee757b87192b655022e67b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flightglobal-2022-08-25T00:53:39.187790+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661385231",
+      "size": "1513",
+      "md5": "896a524f36817a9c9e2e3c569f49f4d4",
+      "crc32": "ad2928e9",
+      "sha1": "dcc7ad7bec78562b4610b2206dda17e47cf29ad3",
+      "format": "JSON"
+    },
+    {
+      "name": "flightglobal-2022-08-25T00:53:39.187790+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1661385232",
+      "size": "25288",
+      "md5": "354e748a56222218321b1b8ee0c16540",
+      "crc32": "73f90ed8",
+      "sha1": "93d9fef41b0854f18351d51956a3e3f67df1c863",
+      "format": "JSON"
+    },
+    {
+      "name": "flightglobal-2022-08-25T00:53:39.187790+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flightglobal-2022-08-25T00:53:39.187790+01:00.jpg",
+      "mtime": "1661385295",
+      "size": "9735",
+      "md5": "38e9109f239db9ea3f2009d25f9015a3",
+      "crc32": "9ee5b663",
+      "sha1": "acb6e67b88267d2e4fd40177f59cc9ab965dab85"
+    },
+    {
+      "name": "flightglobal-2022-08-25T12:59:58.638915+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661428801",
+      "size": "39463",
+      "md5": "9fba3943a812458e5be304d6e896882e",
+      "crc32": "17668d53",
+      "sha1": "4b04bc64ba42761f63d64312a0d1c30e534eeffc",
+      "format": "JSON"
+    },
+    {
+      "name": "flightglobal-2022-08-25T12:59:58.638915+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661428804",
+      "size": "56092",
+      "md5": "0b10e8b59c7a28b2f523c4477a895050",
+      "crc32": "e980a40f",
+      "sha1": "d8792fec60b6610be46cb4af974472f94ba95bdb",
+      "format": "JSON"
+    },
+    {
+      "name": "flightglobal-2022-08-25T12:59:58.638915+01:00.jpg",
+      "source": "original",
+      "mtime": "1661428800",
+      "size": "252983",
+      "md5": "83471ed616eed62d1f1e8825fcb8a09b",
+      "crc32": "ee82d3b7",
+      "sha1": "243e51cd4445df1210a702a3023c3b5c56a2e5e5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flightglobal-2022-08-25T12:59:58.638915+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661428806",
+      "size": "1513",
+      "md5": "ed90c6d81e8eaffeca42be30b7136cab",
+      "crc32": "91df97d3",
+      "sha1": "1ef7b50bbf7cb7953b412ac3e4dc79251aa92a45",
+      "format": "JSON"
+    },
+    {
+      "name": "flightglobal-2022-08-25T12:59:58.638915+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1661428808",
+      "size": "22956",
+      "md5": "8e41ebbe6e313230c75eb4979f758a45",
+      "crc32": "74e29dfe",
+      "sha1": "40132f8e69205df203269c77399b4c3c45237dae",
+      "format": "JSON"
+    },
+    {
+      "name": "flightglobal-2022-08-25T12:59:58.638915+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flightglobal-2022-08-25T12:59:58.638915+01:00.jpg",
+      "mtime": "1661428853",
+      "size": "9385",
+      "md5": "600505dd3f8982afb204a98abe11d90d",
+      "crc32": "5f42729f",
+      "sha1": "7cf92b72616d10faf02a0bb760cb1a92697dce10"
+    },
+    {
+      "name": "flightglobal-2022-08-26T01:01:08.595088+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661472071",
+      "size": "39581",
+      "md5": "fa56d4ab0855109088c3be81de39e1e0",
+      "crc32": "7f23ba45",
+      "sha1": "adf716deeefbc1b7a9e61bc0a855fa344d7b9f20",
+      "format": "JSON"
+    },
+    {
+      "name": "flightglobal-2022-08-26T01:01:08.595088+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661472073",
+      "size": "56096",
+      "md5": "d2d233903cf83f818d1fce0ac0a6ef4e",
+      "crc32": "83f893d5",
+      "sha1": "91742a0a7ce458db6a17b999feff787739e0dd2d",
+      "format": "JSON"
+    },
+    {
+      "name": "flightglobal-2022-08-26T01:01:08.595088+01:00.jpg",
+      "source": "original",
+      "mtime": "1661472070",
+      "size": "262885",
+      "md5": "8152be3c379fca56e1a7f4a119af95b6",
+      "crc32": "74509898",
+      "sha1": "b8d75f6b0fcbb5e3f4b615254841e402a4ee556a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flightglobal-2022-08-26T01:01:08.595088+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661472075",
+      "size": "1513",
+      "md5": "0f8fb9dc826dc8bd2f3f5d302c9e55ac",
+      "crc32": "ea516cbd",
+      "sha1": "4484738132d8b7f41bab7237cbb0d8bcbe08b7a8",
+      "format": "JSON"
+    },
+    {
+      "name": "flightglobal-2022-08-26T01:01:08.595088+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1661472077",
+      "size": "24337",
+      "md5": "19660094e363e7cf021a662dabbbc8cc",
+      "crc32": "21654919",
+      "sha1": "5e504e6e02f8f0210a076c1012a3d1f719790ba7",
+      "format": "JSON"
+    },
+    {
       "name": "flightglobal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cc1e2345e623d2d3a0107db319f0c2613b159a23",
-      "mtime": "1661298403",
-      "size": "14505",
-      "md5": "46b4c4e35cdd87ab4b36645395394eba",
-      "crc32": "8128a1fa",
-      "sha1": "a00f2e1f5492e7d256b2f08032237df14709ce75",
+      "btih": "23bdb6d95791286864a209a72004affbbc5f44da",
+      "mtime": "1661472118",
+      "size": "20731",
+      "md5": "9780a931ecffb050e4c373c725f0f613",
+      "crc32": "a5716bb4",
+      "sha1": "84ea03750d77d5e26f7dede1655253b75ba116ba",
       "format": "Archive BitTorrent"
     },
     {
       "name": "flightglobal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "23a48e679730b8a420ca92c62b947de7",
+      "md5": "5f5e7d905c81d3dd29db6d534ab31fdf",
       "summation": "md5"
     },
     {
       "name": "flightglobal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661298180",
-      "size": "90112",
-      "md5": "e170117b1b3725d21510aeef4339cd01",
-      "crc32": "a7adfebe",
-      "sha1": "462896a153a499e2b149f651efffccee0fb3f103",
+      "mtime": "1661472082",
+      "size": "139264",
+      "md5": "0ca2e2528beaffa5d020be6cbcbf518b",
+      "crc32": "f7ec3d80",
+      "sha1": "356e96561a26a4280ef305091f826efc72f29581",
       "format": "Metadata"
     },
     {
@@ -674,9 +973,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 65,
-  "item_last_updated": 1661298403,
-  "item_size": 3936377,
+  "files_count": 94,
+  "item_last_updated": 1661472118,
+  "item_size": 5896793,
   "metadata": {
     "identifier": "flightglobal-2022",
     "collection": [
@@ -693,10 +992,21 @@
     "publicdate": "2022-08-20 23:04:25",
     "addeddate": "2022-08-20 23:04:25"
   },
+  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "uniq": 391681878,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3385095814,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 108420795,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia601401.us.archive.org"
   ]
 }

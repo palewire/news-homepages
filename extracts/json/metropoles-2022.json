@@ -1,5 +1,5 @@
 {
-  "created": 1661298581,
+  "created": 1661472354,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/32/items/metropoles-2022",
@@ -2716,31 +2716,392 @@
       "sha1": "24bfa6b86aa093e6394314df91cda6bf8ec8c971"
     },
     {
+      "name": "metropoles-2022-08-24T08:54:45.326751-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661342090",
+      "size": "64773",
+      "md5": "cffa65901005abf363e473dca067c6c9",
+      "crc32": "318f5eea",
+      "sha1": "6421475262434951feaf0a90c37894d8cfc68d0d",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-08-24T08:54:45.326751-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661342092",
+      "size": "69056",
+      "md5": "3059addb57612c3b86faac5f9895e106",
+      "crc32": "3c680167",
+      "sha1": "b6f26e22d71ec84e1b9160b6f61bf91dcf1a27c4",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-08-24T08:54:45.326751-03:00.jpg",
+      "source": "original",
+      "mtime": "1661342089",
+      "size": "337203",
+      "md5": "b51ed9b737f80125984734643d1dcee0",
+      "crc32": "c61daa32",
+      "sha1": "f78d12e1160bb7316ea812a1b083f6228e189dca",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "metropoles-2022-08-24T08:54:45.326751-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661342093",
+      "size": "1494",
+      "md5": "4c3696ffce527f872a5593140ec54769",
+      "crc32": "62c67c10",
+      "sha1": "eb3c99fc38646e23deb91a03756ab9165e582213",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-08-24T08:54:45.326751-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1661342094",
+      "size": "232",
+      "md5": "32106ff08fa92d2bc2a47fadbb0070bd",
+      "crc32": "be6458b4",
+      "sha1": "4c38d90ff515a02c787fb810ba0146013f7b58f3",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-08-24T08:54:45.326751-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "metropoles-2022-08-24T08:54:45.326751-03:00.jpg",
+      "mtime": "1661342167",
+      "size": "9888",
+      "md5": "7eeb094e8f1b9160830a36b32b36ea17",
+      "crc32": "eaf006f8",
+      "sha1": "c0bece591f217297f8151d41b786cad82a9853e6"
+    },
+    {
+      "name": "metropoles-2022-08-24T08:57:03.676323-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661342226",
+      "size": "69327",
+      "md5": "b4bef81728387da59919f3b9ee93d6ea",
+      "crc32": "0bcba627",
+      "sha1": "2b03655d6a47ad163806832fa81959a2e51420e6",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-08-24T08:57:03.676323-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661342228",
+      "size": "68871",
+      "md5": "c02e68387f83dda9159b7cf289b286cf",
+      "crc32": "7bda0dcb",
+      "sha1": "23bfebe535d70571b31ba4db9404a6e35485cb4e",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-08-24T08:57:03.676323-03:00.jpg",
+      "source": "original",
+      "mtime": "1661342225",
+      "size": "339832",
+      "md5": "3afca8d26a9f76e48d3e6c1c754b3259",
+      "crc32": "fa22df70",
+      "sha1": "809f9e5b9682f84d8186b3da572d1eee92db509d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "metropoles-2022-08-24T08:57:03.676323-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661342230",
+      "size": "1494",
+      "md5": "4efa098138aadbd0a0bfc02bb5beee76",
+      "crc32": "4e7325b3",
+      "sha1": "892ee134079d35b1994f0d7712ce01a3f15bd926",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-08-24T08:57:03.676323-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1661342231",
+      "size": "232",
+      "md5": "05a8978763dd85dc0a6e7ae2e10d1af4",
+      "crc32": "71c0ac6c",
+      "sha1": "169282363fc4d8610e7772d32288f6eeb3bd10fd",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-08-24T08:57:03.676323-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "metropoles-2022-08-24T08:57:03.676323-03:00.jpg",
+      "mtime": "1661342310",
+      "size": "9889",
+      "md5": "7de18db7c3307dc6042deeb0716574a8",
+      "crc32": "8c0a96ad",
+      "sha1": "af904bfb13ae90d181f06a34f3465c124a5bb772"
+    },
+    {
+      "name": "metropoles-2022-08-24T20:57:58.373393-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661385483",
+      "size": "73736",
+      "md5": "3062cdd7b111f8e23eaf653979ba5e23",
+      "crc32": "d626981e",
+      "sha1": "aa70cb9ed99377297b40644d343443e70f0b2c57",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-08-24T20:57:58.373393-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661385485",
+      "size": "69236",
+      "md5": "dc45a5878e2347b9ef1483d296ccc4e8",
+      "crc32": "69cf371f",
+      "sha1": "b275f3fac2e920dc20671831655ff594f9cde3ed",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-08-24T20:57:58.373393-03:00.jpg",
+      "source": "original",
+      "mtime": "1661385481",
+      "size": "332493",
+      "md5": "71ad2283468f4d21df8d53c62d392cff",
+      "crc32": "8cd0d9d6",
+      "sha1": "61704ee2816e4ff5612a1f88f9e41b09cb8bee77",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "metropoles-2022-08-24T20:57:58.373393-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661385487",
+      "size": "1495",
+      "md5": "8812dc435089db9be5a674ccdf86a921",
+      "crc32": "02a43a3b",
+      "sha1": "e87ef86ed59194b051e2169c1f3f4ae590156394",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-08-24T20:57:58.373393-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1661385489",
+      "size": "24446",
+      "md5": "0a7cdedd196a0ab0bcf83586e768826e",
+      "crc32": "a847038f",
+      "sha1": "6973d551eb148eb9ec96b9be1f6753347a1efec6",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-08-24T20:57:58.373393-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "metropoles-2022-08-24T20:57:58.373393-03:00.jpg",
+      "mtime": "1661385562",
+      "size": "9866",
+      "md5": "c0f83ff6fa8fb721785ab807c356796f",
+      "crc32": "40137bbd",
+      "sha1": "78a4987ca54e74ac9d56a3b962f7505409667fd4"
+    },
+    {
+      "name": "metropoles-2022-08-25T09:04:09.574308-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661429052",
+      "size": "63063",
+      "md5": "965dcd8c545ea6b421ae0ddc40ae2fc8",
+      "crc32": "d13bee4d",
+      "sha1": "18fb7e3368cf298b5ea156df292581997d8d4092",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-08-25T09:04:09.574308-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661429054",
+      "size": "79324",
+      "md5": "8d33c8c363097387597e088e2f0b4883",
+      "crc32": "3dd3e831",
+      "sha1": "69b0981a9aa686348204a4ba652ac4c584bad3d1",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-08-25T09:04:09.574308-03:00.jpg",
+      "source": "original",
+      "mtime": "1661429051",
+      "size": "322630",
+      "md5": "3844ddc3e8ecc40253726264ed3a4d6d",
+      "crc32": "72339040",
+      "sha1": "d27f124b64bc2208978a28f1dab29733306d8f4d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "metropoles-2022-08-25T09:04:09.574308-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661429056",
+      "size": "1495",
+      "md5": "e15dcb06f95aaa1aa2fcc650b4ac2aa3",
+      "crc32": "1549e5bf",
+      "sha1": "289d85dc7401b2d3df46af55878cf3347419c2e7",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-08-25T09:04:09.574308-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1661429057",
+      "size": "20662",
+      "md5": "6f4a9bbf0a1be3bb702874f6c3e0598f",
+      "crc32": "15f7223a",
+      "sha1": "88359eceaddf3f31bdf042d27c05087870675d0f",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-08-25T09:04:09.574308-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "metropoles-2022-08-25T09:04:09.574308-03:00.jpg",
+      "mtime": "1661429113",
+      "size": "10071",
+      "md5": "6bd8d9d215e4f6ec515093c272ece0e6",
+      "crc32": "bf132e5b",
+      "sha1": "b1e72d4eaeb8be7a19cfe4f232f612db437bb453"
+    },
+    {
+      "name": "metropoles-2022-08-25T09:07:13.870149-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661429236",
+      "size": "62225",
+      "md5": "7a3faa202f22f13d7095ca20f78cac9d",
+      "crc32": "c3c6f969",
+      "sha1": "406a1ebe8a54326b2cc3902ec7269dbc21dda053",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-08-25T09:07:13.870149-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661429237",
+      "size": "68130",
+      "md5": "ba04ca8c7f142caae73559d60d4a656b",
+      "crc32": "709861fd",
+      "sha1": "01f43adcb5ba244f78c191159bdab39f39d8a2f3",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-08-25T09:07:13.870149-03:00.jpg",
+      "source": "original",
+      "mtime": "1661429235",
+      "size": "305726",
+      "md5": "36b819f445262120e4f03bca23270dd8",
+      "crc32": "b68122c3",
+      "sha1": "3286c53e011aeaa0967b3f54ab89d990eee203e0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "metropoles-2022-08-25T09:07:13.870149-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661429239",
+      "size": "1495",
+      "md5": "d8a22748e5ef6157896522fdcb5a0a02",
+      "crc32": "66fe0eaf",
+      "sha1": "70284e1c698903d14659513a2afafb0864d1b2d5",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-08-25T09:07:13.870149-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1661429240",
+      "size": "234",
+      "md5": "882e6ee8ad40246b1ef6a2f95df2e427",
+      "crc32": "5311f457",
+      "sha1": "e0b05bd2a424b0d89e6113b3095d351adb550fa6",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-08-25T09:07:13.870149-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "metropoles-2022-08-25T09:07:13.870149-03:00.jpg",
+      "mtime": "1661429289",
+      "size": "9834",
+      "md5": "69f5abe19a3fd5ceae0ed469f83b8108",
+      "crc32": "a6abaf33",
+      "sha1": "492d490b03c51a0ab5b44be048b67d8aaccaa638"
+    },
+    {
+      "name": "metropoles-2022-08-25T21:04:57.162899-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661472303",
+      "size": "64351",
+      "md5": "888ccc3e9c5b283622291e8c72d2c7c8",
+      "crc32": "7f94e5cf",
+      "sha1": "bb4624a33de216f65a6d6a21fa62fe819dc75174",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-08-25T21:04:57.162899-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661472304",
+      "size": "78988",
+      "md5": "4d81a30b6d283963d2a2ad6ff1d512cb",
+      "crc32": "2552ade1",
+      "sha1": "f6df53ec658c68394b7a98669ae98ae21fd655bd",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-08-25T21:04:57.162899-03:00.jpg",
+      "source": "original",
+      "mtime": "1661472301",
+      "size": "352265",
+      "md5": "4e74c8532372de7045eab35796662243",
+      "crc32": "d1567ef6",
+      "sha1": "b47ff746406d71673169884f8a5f3d108b813231",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "metropoles-2022-08-25T21:04:57.162899-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661472308",
+      "size": "1495",
+      "md5": "25c774f66be397b2eb17ba46f932aa21",
+      "crc32": "aef235fd",
+      "sha1": "076638a63b3dd23a8dcb9fdedd8b5c43f09a8549",
+      "format": "JSON"
+    },
+    {
+      "name": "metropoles-2022-08-25T21:04:57.162899-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1661472309",
+      "size": "19377",
+      "md5": "c25760d18228285ef9e77a0944e872ab",
+      "crc32": "4dedc2b6",
+      "sha1": "ad21dd901bc1e35a6fe4f4b00ddf5769218ae31b",
+      "format": "JSON"
+    },
+    {
       "name": "metropoles-2022_archive.torrent",
       "source": "metadata",
-      "btih": "da51338b8119592fe65c819e65a1a477151a9e49",
-      "mtime": "1661298539",
-      "size": "57122",
-      "md5": "58f6316b943c8430649de6b78cf16d68",
-      "crc32": "8fef6877",
-      "sha1": "587bbb5831d832b8f226c2f20676633812fe5445",
+      "btih": "3f53ba566421f8d9608b2d144d69753ea7419457",
+      "mtime": "1661472350",
+      "size": "64585",
+      "md5": "a8cce121b1918147f935b7d608bda852",
+      "crc32": "dbd31045",
+      "sha1": "67b7ef6df11cb37275664358473b38904752b473",
       "format": "Archive BitTorrent"
     },
     {
       "name": "metropoles-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d76f9bc5762dc88cf93bbc6972a493d8",
+      "md5": "691b6a996b539865d67e4efc395b496c",
       "summation": "md5"
     },
     {
       "name": "metropoles-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661298406",
-      "size": "352256",
-      "md5": "102ac5bc88f36391d0b1a4d17e7def16",
-      "crc32": "3134e493",
-      "sha1": "e5c2b4a725821907da8384a9e491e8c11b6b821b",
+      "mtime": "1661472314",
+      "size": "393216",
+      "md5": "c8252dde5d84de4bfd3be87cc36ba685",
+      "crc32": "ac029997",
+      "sha1": "dc2df669529b9a4c115235862fd4b140fdf0f079",
       "format": "Metadata"
     },
     {
@@ -2754,9 +3115,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 266,
-  "item_last_updated": 1661298539,
-  "item_size": 21267387,
+  "files_count": 301,
+  "item_last_updated": 1661472350,
+  "item_size": 24260738,
   "metadata": {
     "identifier": "metropoles-2022",
     "collection": [
@@ -2773,10 +3134,21 @@
     "publicdate": "2022-08-07 19:43:57",
     "addeddate": "2022-08-07 19:43:57"
   },
-  "server": "ia802506.us.archive.org",
-  "uniq": 193726480,
+  "pending_tasks": true,
+  "server": "ia902506.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3385099329,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1004781942,
   "workable_servers": [
-    "ia802506.us.archive.org",
     "ia902506.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1661300523,
+  "created": 1661472463,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/0/items/newstatesman-2022",
@@ -1070,31 +1070,330 @@
       "sha1": "8227fe99ea7fff2244538c801cf1f03f7412145a"
     },
     {
+      "name": "newstatesman-2022-08-24T10:17:00.101098+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661332624",
+      "size": "30482",
+      "md5": "791c1aff8ac67b8142666d0f6cc59f5a",
+      "crc32": "0c8540fa",
+      "sha1": "c78c1799cf4f57ac7cfa7f5587a0ae0636d6f56d",
+      "format": "JSON"
+    },
+    {
+      "name": "newstatesman-2022-08-24T10:17:00.101098+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661332625",
+      "size": "39048",
+      "md5": "7f64f3c268b6cda2d73452e24f9ad366",
+      "crc32": "1e6e1ce6",
+      "sha1": "1fc20d793198bc60e22916d92870da7e158f248a",
+      "format": "JSON"
+    },
+    {
+      "name": "newstatesman-2022-08-24T10:17:00.101098+01:00.jpg",
+      "source": "original",
+      "mtime": "1661332621",
+      "size": "264856",
+      "md5": "7fbd795b2c94444c378cc4be77eb4aa2",
+      "crc32": "be800fd1",
+      "sha1": "9ebdd88bb9a1afdebe183fd6ef3b4f586777e793",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newstatesman-2022-08-24T10:17:00.101098+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661332627",
+      "size": "1628",
+      "md5": "e9dccdcc6e17c4334576447d473e25a1",
+      "crc32": "44968d3d",
+      "sha1": "b3756bc63118e0a89df51ed7920d6f56b745e872",
+      "format": "JSON"
+    },
+    {
+      "name": "newstatesman-2022-08-24T10:17:00.101098+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1661332629",
+      "size": "21418",
+      "md5": "1108633d0d3983d430379600376d4cee",
+      "crc32": "d815d6ee",
+      "sha1": "7e22db5e00a54895dae491f81cd0618d544da4bd",
+      "format": "JSON"
+    },
+    {
+      "name": "newstatesman-2022-08-24T10:17:00.101098+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newstatesman-2022-08-24T10:17:00.101098+01:00.jpg",
+      "mtime": "1661332748",
+      "size": "10131",
+      "md5": "8a2861922e074b66800062b4375d4dba",
+      "crc32": "62d7d579",
+      "sha1": "1c55b897601256ea58c1447aa36d3b161fe2d12d"
+    },
+    {
+      "name": "newstatesman-2022-08-24T12:56:16.737571+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661342179",
+      "size": "34063",
+      "md5": "c56d84924c8511e7867c22b32f7ab17e",
+      "crc32": "96e7eebb",
+      "sha1": "3d1af1e512cb864473d0f0d89a89d040283057cb",
+      "format": "JSON"
+    },
+    {
+      "name": "newstatesman-2022-08-24T12:56:16.737571+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661342180",
+      "size": "43361",
+      "md5": "92160554e48c52b3a23aacf7f6ef10b4",
+      "crc32": "661306a7",
+      "sha1": "5047e16d05653a80279d0967a884319f37e83c21",
+      "format": "JSON"
+    },
+    {
+      "name": "newstatesman-2022-08-24T12:56:16.737571+01:00.jpg",
+      "source": "original",
+      "mtime": "1661342177",
+      "size": "264856",
+      "md5": "7fbd795b2c94444c378cc4be77eb4aa2",
+      "crc32": "be800fd1",
+      "sha1": "9ebdd88bb9a1afdebe183fd6ef3b4f586777e793",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newstatesman-2022-08-24T12:56:16.737571+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661342182",
+      "size": "1630",
+      "md5": "4fbfdec93c7a8defebe472dde5d02eb9",
+      "crc32": "947a2882",
+      "sha1": "d76d072d8a7165a6f2ce307f19662039a6c17d3e",
+      "format": "JSON"
+    },
+    {
+      "name": "newstatesman-2022-08-24T12:56:16.737571+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1661342183",
+      "size": "21403",
+      "md5": "b85c567599fa78af822bb5747bb0a12d",
+      "crc32": "598f9fb4",
+      "sha1": "a7e3e6f380a813f3ee1429e30e1286ea38b14de3",
+      "format": "JSON"
+    },
+    {
+      "name": "newstatesman-2022-08-24T12:56:16.737571+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newstatesman-2022-08-24T12:56:16.737571+01:00.jpg",
+      "mtime": "1661342420",
+      "size": "10131",
+      "md5": "8a2861922e074b66800062b4375d4dba",
+      "crc32": "62d7d579",
+      "sha1": "1c55b897601256ea58c1447aa36d3b161fe2d12d"
+    },
+    {
+      "name": "newstatesman-2022-08-25T00:59:43.318495+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661385589",
+      "size": "30264",
+      "md5": "e0f0bc845143999b98a256289ec70cb4",
+      "crc32": "97255aac",
+      "sha1": "1c037388c2a1cee6159435629f83b9ed2dffd2f6",
+      "format": "JSON"
+    },
+    {
+      "name": "newstatesman-2022-08-25T00:59:43.318495+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661385590",
+      "size": "38538",
+      "md5": "c02d4be8caa2fd047171c0d4c53f8b42",
+      "crc32": "7fe76a94",
+      "sha1": "1f74442796a05bfe582701bb4bc6382daa5c1e09",
+      "format": "JSON"
+    },
+    {
+      "name": "newstatesman-2022-08-25T00:59:43.318495+01:00.jpg",
+      "source": "original",
+      "mtime": "1661385587",
+      "size": "279581",
+      "md5": "388acb3061bf30ac2d4748f2f25d090c",
+      "crc32": "fc912273",
+      "sha1": "fee1daeeff6df007a72293d51612ec4b14a8f679",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newstatesman-2022-08-25T00:59:43.318495+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661385592",
+      "size": "1628",
+      "md5": "bd589c2ae6ef34c99a0ebf7dd9b91fa8",
+      "crc32": "5479f491",
+      "sha1": "a14934dde06ffd3a09fb44b87ba9c27a54d2ee62",
+      "format": "JSON"
+    },
+    {
+      "name": "newstatesman-2022-08-25T00:59:43.318495+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1661385594",
+      "size": "21304",
+      "md5": "1cd8c23ad7ec6eee80fc923c16ad1fbf",
+      "crc32": "7106abd9",
+      "sha1": "4a4910f9ae2f0563a05b9197a8fc94e59fdbf2cb",
+      "format": "JSON"
+    },
+    {
+      "name": "newstatesman-2022-08-25T00:59:43.318495+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newstatesman-2022-08-25T00:59:43.318495+01:00.jpg",
+      "mtime": "1661385659",
+      "size": "10088",
+      "md5": "7e9c1db2204ebf8946aecf465b486870",
+      "crc32": "a543f293",
+      "sha1": "aa019359e9e1768625521973ffddf8fb90feb083"
+    },
+    {
+      "name": "newstatesman-2022-08-25T13:06:00.928242+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661429163",
+      "size": "33642",
+      "md5": "2d848ea4484284c8baaa62af72a0d392",
+      "crc32": "7a69f284",
+      "sha1": "8342979ed111942252e64b9e8d2205acc41214de",
+      "format": "JSON"
+    },
+    {
+      "name": "newstatesman-2022-08-25T13:06:00.928242+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661429165",
+      "size": "43040",
+      "md5": "ee28ae3e78cd4b54129128e565e80367",
+      "crc32": "7afee489",
+      "sha1": "bbc7eef78ba245d69f4953c58eee36f4a377bdfb",
+      "format": "JSON"
+    },
+    {
+      "name": "newstatesman-2022-08-25T13:06:00.928242+01:00.jpg",
+      "source": "original",
+      "mtime": "1661429162",
+      "size": "228019",
+      "md5": "6a7484aefdfb9336f4cf480fff85ff88",
+      "crc32": "9a319c59",
+      "sha1": "ca7803998513f3f607b8d2e5a6d18577cb2f002c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newstatesman-2022-08-25T13:06:00.928242+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661429166",
+      "size": "1628",
+      "md5": "3e1b1aeb369358737eef5bf70cd3d5a2",
+      "crc32": "23e28ffb",
+      "sha1": "207f5037db1eeb09114ae9d093ce8669b916c0c8",
+      "format": "JSON"
+    },
+    {
+      "name": "newstatesman-2022-08-25T13:06:00.928242+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1661429168",
+      "size": "21591",
+      "md5": "5e983b48928be497fa60fb329f0a590c",
+      "crc32": "daa3f532",
+      "sha1": "fe07664a42c20bc232681e0eaa6e1d9f95a2e1d7",
+      "format": "JSON"
+    },
+    {
+      "name": "newstatesman-2022-08-25T13:06:00.928242+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newstatesman-2022-08-25T13:06:00.928242+01:00.jpg",
+      "mtime": "1661429216",
+      "size": "9393",
+      "md5": "e4c602eef6cefd5748e2be5662b698dc",
+      "crc32": "67acd288",
+      "sha1": "a68046dcf61be3b5cde76ab6f320582e5d1579a3"
+    },
+    {
+      "name": "newstatesman-2022-08-26T01:06:51.224817+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661472414",
+      "size": "33408",
+      "md5": "ab444101eb95ce01a95bd5b2b8342cf4",
+      "crc32": "8fe5f299",
+      "sha1": "99718e02553d9a6833df337359e4a49a9946d4e1",
+      "format": "JSON"
+    },
+    {
+      "name": "newstatesman-2022-08-26T01:06:51.224817+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661472415",
+      "size": "42790",
+      "md5": "f97370987073b4539fa942dfb7367183",
+      "crc32": "c21885ae",
+      "sha1": "418858e0f1dc4cf21d71ff72241c54b0befb66b7",
+      "format": "JSON"
+    },
+    {
+      "name": "newstatesman-2022-08-26T01:06:51.224817+01:00.jpg",
+      "source": "original",
+      "mtime": "1661472412",
+      "size": "253826",
+      "md5": "38aff1f058d304bee24c4435726cf27f",
+      "crc32": "4b1b00af",
+      "sha1": "a657793e29250e9a9f1505082c64a1dd6cbb194e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newstatesman-2022-08-26T01:06:51.224817+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661472417",
+      "size": "1629",
+      "md5": "71a04a55f668c1a0a061197051696c0d",
+      "crc32": "ed5a0fda",
+      "sha1": "68a031aae88ea5e69d14c35c94f859bdfd7c5718",
+      "format": "JSON"
+    },
+    {
+      "name": "newstatesman-2022-08-26T01:06:51.224817+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1661472418",
+      "size": "23250",
+      "md5": "46b25ab22816ab7bb1c6a838bd692d63",
+      "crc32": "019f47e2",
+      "sha1": "4e35c5b1ce3ba5cbb8d87a9d61ce7326b4533163",
+      "format": "JSON"
+    },
+    {
       "name": "newstatesman-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cb7b82936131c76e12087faf0c0fa87227341617",
-      "mtime": "1661298659",
-      "size": "23471",
-      "md5": "9ce7f8748b51b3f043f19e2ed013d4b9",
-      "crc32": "4baf30a4",
-      "sha1": "d3ef2248bb3ed0fdd7039bcb33337f497d37700b",
+      "btih": "fadca7b0177910872c3f1e303e9aa3598ccd3262",
+      "mtime": "1661472458",
+      "size": "29701",
+      "md5": "86b8eeaf45597eed6cefb090a90b7315",
+      "crc32": "d8d9e9cc",
+      "sha1": "68caca2707288d063f585641670e420a8bcba122",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newstatesman-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ff3830b6b6547be91d2525cd3a648607",
+      "md5": "aaa2cfcb9bfaa0d553814db2d741ca1e",
       "summation": "md5"
     },
     {
       "name": "newstatesman-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661298515",
-      "size": "155648",
-      "md5": "8db011a5e14fe0b775302bad2399fef5",
-      "crc32": "1db35fbb",
-      "sha1": "5f22a6db7c36ed3f972a05e469353902ebe4e1a7",
+      "mtime": "1661472423",
+      "size": "192512",
+      "md5": "a2eff395a12f736540ac9513fbaefdce",
+      "crc32": "59dd027e",
+      "sha1": "ef96d582268953ca8568959d46d58d130fd6a26a",
       "format": "Metadata"
     },
     {
@@ -1108,9 +1407,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 107,
-  "item_last_updated": 1661298659,
-  "item_size": 6260043,
+  "files_count": 136,
+  "item_last_updated": 1661472458,
+  "item_size": 8119763,
   "metadata": {
     "identifier": "newstatesman-2022",
     "collection": [
@@ -1127,15 +1426,21 @@
     "publicdate": "2022-08-18 23:57:19",
     "addeddate": "2022-08-18 23:57:19"
   },
-  "newstatesman-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "uniq": 1399422358,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3385100660,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 774038047,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia601505.us.archive.org"
   ]
 }

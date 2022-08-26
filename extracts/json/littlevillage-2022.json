@@ -1,5 +1,5 @@
 {
-  "created": 1661298760,
+  "created": 1661472391,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/35/items/littlevillage-2022",
@@ -7808,31 +7808,330 @@
       "sha1": "47da75b0d0b9d4dff7d4c6b8d962d5db8d4484b1"
     },
     {
+      "name": "littlevillage-2022-08-24T06:54:00.109978-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661342058",
+      "size": "30932",
+      "md5": "a7a569613c9f1cce99c24d50deb1ce79",
+      "crc32": "855fd548",
+      "sha1": "dc6d1e5863ecd25caa64edf23dc7d533490f9a6c",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-08-24T06:54:00.109978-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661342060",
+      "size": "37472",
+      "md5": "647bd6569210a4efc8624e546c717029",
+      "crc32": "825119b7",
+      "sha1": "34f794052ff600472236de1dca081294a6681723",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-08-24T06:54:00.109978-05:00.jpg",
+      "source": "original",
+      "mtime": "1661342057",
+      "size": "297272",
+      "md5": "14a80bba01f80d9135f4e2a6399f99c3",
+      "crc32": "44650a87",
+      "sha1": "47cabd43916428be1b6acdc062656367519b9bec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "littlevillage-2022-08-24T06:54:00.109978-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661342062",
+      "size": "1510",
+      "md5": "377554d2f23a45da15cbdb6b445d3ed8",
+      "crc32": "602886b2",
+      "sha1": "6b5d48682efeca491fa210917e11fc3b537254c0",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-08-24T06:54:00.109978-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1661342063",
+      "size": "27730",
+      "md5": "9e4738d3b16b2597c69c2a36c6e27a84",
+      "crc32": "b11e6d6a",
+      "sha1": "178ee5491d674834cdb0f5b97374b60dab29f527",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-08-24T06:54:00.109978-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "littlevillage-2022-08-24T06:54:00.109978-05:00.jpg",
+      "mtime": "1661342138",
+      "size": "9604",
+      "md5": "20a80919e0804f16982224e3a5841bca",
+      "crc32": "d3344a6a",
+      "sha1": "47da75b0d0b9d4dff7d4c6b8d962d5db8d4484b1"
+    },
+    {
+      "name": "littlevillage-2022-08-24T10:58:18.049626-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661356706",
+      "size": "30358",
+      "md5": "a5e4fe046ec6b0958a8f24b768e0e48c",
+      "crc32": "cf0e4fb8",
+      "sha1": "6af564c4f1e38cd834d66bb82a17524c86e5caf2",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-08-24T10:58:18.049626-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661356708",
+      "size": "37472",
+      "md5": "730d5b695b45bd803379eff2b2a6ac5f",
+      "crc32": "ffeb34a3",
+      "sha1": "3ab429140c6027c49b366970ba3e94814eaaba0f",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-08-24T10:58:18.049626-05:00.jpg",
+      "source": "original",
+      "mtime": "1661356704",
+      "size": "297272",
+      "md5": "14a80bba01f80d9135f4e2a6399f99c3",
+      "crc32": "44650a87",
+      "sha1": "47cabd43916428be1b6acdc062656367519b9bec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "littlevillage-2022-08-24T10:58:18.049626-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661356713",
+      "size": "1509",
+      "md5": "efa4505e9928652c0be4bdf579f3137c",
+      "crc32": "e21d069e",
+      "sha1": "c4a0a71b6f2f55265f6f14ae726906efb9357580",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-08-24T10:58:18.049626-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1661356724",
+      "size": "27776",
+      "md5": "936d655f7dd8069e7f4c4aa182aaba54",
+      "crc32": "e4f01211",
+      "sha1": "560214fb2dad3111857440fe189a25ef85aa23cd",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-08-24T10:58:18.049626-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "littlevillage-2022-08-24T10:58:18.049626-05:00.jpg",
+      "mtime": "1661357195",
+      "size": "9604",
+      "md5": "20a80919e0804f16982224e3a5841bca",
+      "crc32": "d3344a6a",
+      "sha1": "47da75b0d0b9d4dff7d4c6b8d962d5db8d4484b1"
+    },
+    {
+      "name": "littlevillage-2022-08-24T18:57:48.528594-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661385476",
+      "size": "30950",
+      "md5": "fef6e4e1ef749b8a263c282388788c39",
+      "crc32": "8e25232a",
+      "sha1": "abb90cb149db23b1fbb36cc646a5e33e5c9aa621",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-08-24T18:57:48.528594-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661385477",
+      "size": "37416",
+      "md5": "9923b4d2a827a2f6583a4abf3b8ed86b",
+      "crc32": "db64a045",
+      "sha1": "d36bdf580a42725934dcdc11504d0bcfbf244156",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-08-24T18:57:48.528594-05:00.jpg",
+      "source": "original",
+      "mtime": "1661385474",
+      "size": "316669",
+      "md5": "5ba3da975a287234b0619c8e9ee464bd",
+      "crc32": "8592e47c",
+      "sha1": "13860e892f4eaaf7d27bb74021bb30df45739250",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "littlevillage-2022-08-24T18:57:48.528594-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661385479",
+      "size": "1510",
+      "md5": "8364cad82123f6c7cb5f8bda6d7523ba",
+      "crc32": "e772ff83",
+      "sha1": "ddd8f03ed665a002d8ca980613afa82277291777",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-08-24T18:57:48.528594-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1661385483",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-08-24T18:57:48.528594-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "littlevillage-2022-08-24T18:57:48.528594-05:00.jpg",
+      "mtime": "1661385558",
+      "size": "9630",
+      "md5": "45039a7f6f39e8ddbaf55429db5a61c3",
+      "crc32": "ec6bc5f5",
+      "sha1": "00cd028cb45e4984a13375b0b87b559a77a2a8ed"
+    },
+    {
+      "name": "littlevillage-2022-08-25T07:03:49.533309-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661429043",
+      "size": "30960",
+      "md5": "116f54edbe3d029114cdbb89faaa68a5",
+      "crc32": "7e3678db",
+      "sha1": "8620ad81260dc36e40acff27a88f481716aee444",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-08-25T07:03:49.533309-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661429044",
+      "size": "37416",
+      "md5": "aaec682780bf447ce34e50a2f06dc061",
+      "crc32": "75e858de",
+      "sha1": "62c561c0b96d444bd252f3173de9acf46c82da00",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-08-25T07:03:49.533309-05:00.jpg",
+      "source": "original",
+      "mtime": "1661429036",
+      "size": "316669",
+      "md5": "5ba3da975a287234b0619c8e9ee464bd",
+      "crc32": "8592e47c",
+      "sha1": "13860e892f4eaaf7d27bb74021bb30df45739250",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "littlevillage-2022-08-25T07:03:49.533309-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661429046",
+      "size": "1509",
+      "md5": "39b4872386f3d34c6af843ae66ed9500",
+      "crc32": "aef5b189",
+      "sha1": "5d561ea2e56e2e1f017879f553d4d22b61ec3400",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-08-25T07:03:49.533309-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1661429048",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-08-25T07:03:49.533309-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "littlevillage-2022-08-25T07:03:49.533309-05:00.jpg",
+      "mtime": "1661429103",
+      "size": "9630",
+      "md5": "45039a7f6f39e8ddbaf55429db5a61c3",
+      "crc32": "ec6bc5f5",
+      "sha1": "00cd028cb45e4984a13375b0b87b559a77a2a8ed"
+    },
+    {
+      "name": "littlevillage-2022-08-25T19:05:15.264051-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661472334",
+      "size": "30738",
+      "md5": "d46bbaf7ce0bea7b99f0782d198d270f",
+      "crc32": "e86d1cf0",
+      "sha1": "74b56607dded09548f1892d5ce290bdb15a597d8",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-08-25T19:05:15.264051-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661472336",
+      "size": "38833",
+      "md5": "dd44cf7094001ac12e27b0e26d1c4fe4",
+      "crc32": "0605e9bb",
+      "sha1": "acfc8f36851db66bd3cbaf87dfa89b0c7da4c1fa",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-08-25T19:05:15.264051-05:00.jpg",
+      "source": "original",
+      "mtime": "1661472333",
+      "size": "324003",
+      "md5": "c355d822cacfaf7f5c41f6efe3bd9ecd",
+      "crc32": "1bf2f19b",
+      "sha1": "7c5a57a9617faf46d839ee5f47c2bcbba26624b8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "littlevillage-2022-08-25T19:05:15.264051-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661472337",
+      "size": "1509",
+      "md5": "4fa52c632ce7f3c5e50416073015357f",
+      "crc32": "b05b56db",
+      "sha1": "4ba1ff971a564ef15933368563a44b433957432c",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-08-25T19:05:15.264051-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1661472339",
+      "size": "27504",
+      "md5": "50a201532aa94e20a3c7acd1a7f68ecb",
+      "crc32": "4e0b4c96",
+      "sha1": "570f15ef25d7f79b34f973eef9e6d5495d65b233",
+      "format": "JSON"
+    },
+    {
       "name": "littlevillage-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9b1349f050518625c19a5a1fc057cf301ee7951f",
-      "mtime": "1661298686",
-      "size": "163027",
-      "md5": "89bc8f29ce282bf3b148a38405502496",
-      "crc32": "bede3979",
-      "sha1": "4320ad44b836ccbd6562b95a90a56fa9aa64a9a4",
+      "btih": "e118f55eb2b2ade55d2b129a901e6e8e9f0a67cd",
+      "mtime": "1661472385",
+      "size": "169279",
+      "md5": "7af1bdbdd2d51d9c51bc77d505fafbe1",
+      "crc32": "10a96d5d",
+      "sha1": "e3d670b6e0af93165f2d84a55acdf7aa45929924",
       "format": "Archive BitTorrent"
     },
     {
       "name": "littlevillage-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f1d6377542646429dd4db982406597a4",
+      "md5": "c042d1dcb7006547097b1baca1c4da07",
       "summation": "md5"
     },
     {
       "name": "littlevillage-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661298402",
-      "size": "929792",
-      "md5": "6aee5e665eca934950cac9e8869fa748",
-      "crc32": "74e431ed",
-      "sha1": "463853842125c418fb31d4fc922b2a38ac7a88e7",
+      "mtime": "1661472343",
+      "size": "966656",
+      "md5": "9b4c690d2e9210b8e61377656314e743",
+      "crc32": "c381c566",
+      "sha1": "0b51e6466792c759e022d2ca32e2c0f5b7e8699c",
       "format": "Metadata"
     },
     {
@@ -7846,9 +8145,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 753,
-  "item_last_updated": 1661298686,
-  "item_size": 62419604,
+  "files_count": 782,
+  "item_last_updated": 1661472385,
+  "item_size": 64486581,
   "metadata": {
     "identifier": "littlevillage-2022",
     "collection": [
@@ -7865,10 +8164,21 @@
     "publicdate": "2022-06-24 22:57:45",
     "addeddate": "2022-06-24 22:57:45"
   },
+  "pending_tasks": true,
   "server": "ia902507.us.archive.org",
-  "uniq": 1590623602,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3385099848,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 531319375,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia902507.us.archive.org"
   ]
 }

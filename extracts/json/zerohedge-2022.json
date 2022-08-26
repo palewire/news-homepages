@@ -1,5 +1,5 @@
 {
-  "created": 1661282434,
+  "created": 1661462443,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/19/items/zerohedge-2022",
@@ -6134,31 +6134,341 @@
       "sha1": "24959f6a98e13904c8cc44a660d81571ec599fc9"
     },
     {
+      "name": "zerohedge-2022-08-24T00:40:35.142618-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661316040",
+      "size": "33452",
+      "md5": "d610c4a134d6dee8b19dab61fec3d621",
+      "crc32": "8f9c18cf",
+      "sha1": "c64703e87413162e166ae226e91d2b7de177db31",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-08-24T00:40:35.142618-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661316041",
+      "size": "21566",
+      "md5": "914806eedbab033db1ba2e08472f8aca",
+      "crc32": "1f364530",
+      "sha1": "4aa757679579c26bad7789cda49b6b41e478ee20",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-08-24T00:40:35.142618-04:00.jpg",
+      "source": "original",
+      "mtime": "1661316038",
+      "size": "282582",
+      "md5": "860d37e06a3c3fff022f7eafeb58a7a7",
+      "crc32": "b4377e85",
+      "sha1": "373e8038f6cfe6d8b088de8e5e5db96771bd35bf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zerohedge-2022-08-24T00:40:35.142618-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661316043",
+      "size": "1486",
+      "md5": "240012424a4e40a82c564794dee02aac",
+      "crc32": "b0c9af12",
+      "sha1": "1d68d1f78757db1514b1abe76984691c73bbc3b2",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-08-24T00:40:35.142618-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1661316045",
+      "size": "232",
+      "md5": "7a92d1c304c293276a081673260b05cc",
+      "crc32": "f7443876",
+      "sha1": "0d76e3d0d86d7c53e38135f403105da787672878",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-08-24T00:40:35.142618-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "zerohedge-2022-08-24T00:40:35.142618-04:00.jpg",
+      "mtime": "1661316128",
+      "size": "9367",
+      "md5": "cbc08d1608cf2c9e1e6a2b8e47d06ca0",
+      "crc32": "4ccba24a",
+      "sha1": "1a3f56c91c287b99b9aea31ab3b2ceba841de705"
+    },
+    {
+      "name": "zerohedge-2022-08-24T12:06:04.350177-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661357187",
+      "size": "33588",
+      "md5": "9133908f4dfa40a2f8f56f7ac1ce812b",
+      "crc32": "9a179f9d",
+      "sha1": "038aed07b56c4350cf5a4b7f02bb43376021ee75",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-08-24T12:06:04.350177-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661357188",
+      "size": "21449",
+      "md5": "cbf5c3cb054105ed2f539146000afb4c",
+      "crc32": "c44ff647",
+      "sha1": "cec7cb7152bf8eff76e607847e5d9d2e4dffa22c",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-08-24T12:06:04.350177-04:00.jpg",
+      "source": "original",
+      "mtime": "1661357185",
+      "size": "260746",
+      "md5": "0d3463498854b2277187d479e2b0cea3",
+      "crc32": "d374b73b",
+      "sha1": "2539b6e2f8ae82d31765de4516c2e14a67c428b1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zerohedge-2022-08-24T12:06:04.350177-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661357190",
+      "size": "1483",
+      "md5": "f0ed39e46917c0213f3bc0d1f6e35907",
+      "crc32": "d67b91f5",
+      "sha1": "4fdd95bc79b2e2591cd766eaa7b13281bcd5dcdf",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-08-24T12:06:04.350177-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1661357191",
+      "size": "102",
+      "md5": "78d701bc6a5dd4ca6f7aef0b5e8ef708",
+      "crc32": "f349d573",
+      "sha1": "4d8adc3c7231c58e89b3aa4b206433a5b58b986e",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-08-24T12:06:04.350177-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "zerohedge-2022-08-24T12:06:04.350177-04:00.jpg",
+      "mtime": "1661357371",
+      "size": "9277",
+      "md5": "7bcbe51080d04abcb5faa4bce000df95",
+      "crc32": "6b448da3",
+      "sha1": "68088f6088c3d1d0d22bb1b692a564517a09ad25"
+    },
+    {
+      "name": "zerohedge-2022-08-24T14:37:24.685835-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661366268",
+      "size": "33068",
+      "md5": "f0ecbe5333d880a78c8d4cdfa92d6b9a",
+      "crc32": "ac90344a",
+      "sha1": "30cf202e72584a7a61ca88dec5f874482def1812",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-08-24T14:37:24.685835-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661366270",
+      "size": "22304",
+      "md5": "29d33dae76a3752dea44a5b4a308eaa0",
+      "crc32": "72bb121d",
+      "sha1": "a6a306a171a060a5adfb5529035390091e844a05",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-08-24T14:37:24.685835-04:00.jpg",
+      "source": "original",
+      "mtime": "1661366266",
+      "size": "272152",
+      "md5": "a1770e4d827b13990d2b8881bd8feb7c",
+      "crc32": "1225cf23",
+      "sha1": "d6b9857c214c87a7260690a13bb1d3c424983f48",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zerohedge-2022-08-24T14:37:24.685835-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661366272",
+      "size": "1486",
+      "md5": "cc5583b7a51f47bec7aeefe04106b338",
+      "crc32": "ead7e8e6",
+      "sha1": "18eee318e40949c508936cd46b29af9863bccac1",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-08-24T14:37:24.685835-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1661366274",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-08-24T14:37:24.685835-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "zerohedge-2022-08-24T14:37:24.685835-04:00.jpg",
+      "mtime": "1661369382",
+      "size": "9078",
+      "md5": "79a76943cee566bc4a5fc63adeaf4f2d",
+      "crc32": "4cced023",
+      "sha1": "25fddeb8b74abb614d2efa12f0b7b1e2d2caf613"
+    },
+    {
+      "name": "zerohedge-2022-08-25T12:07:51.353770-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661443681",
+      "size": "34974",
+      "md5": "693997a0da38b56a1de1ae9f63e764be",
+      "crc32": "103d51ac",
+      "sha1": "417f6424c468b515102488fda7e74d2b53c554e7",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-08-25T12:07:51.353770-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661443682",
+      "size": "22712",
+      "md5": "0b015c9bc898d9eb078a925602122874",
+      "crc32": "6482a1de",
+      "sha1": "02852a9dd89923798d8240df211871cd7cc9bf9a",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-08-25T12:07:51.353770-04:00.jpg",
+      "source": "original",
+      "mtime": "1661443679",
+      "size": "260963",
+      "md5": "7faadbbd5de214fea1b705f42c4b3316",
+      "crc32": "8c477d8e",
+      "sha1": "dd2c22d91c1df4a5151687acd4d5b974e9db076a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zerohedge-2022-08-25T12:07:51.353770-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661443684",
+      "size": "1482",
+      "md5": "5d0683246276fef53de078864c532aa3",
+      "crc32": "4e4a3cef",
+      "sha1": "4b219a1a3428416a810f1ad9a3322a1057976170",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-08-25T12:07:51.353770-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1661443686",
+      "size": "36624",
+      "md5": "6c2a946dd8982b809d0f6efedbe27631",
+      "crc32": "f5411fab",
+      "sha1": "bfe6676a6b0dc185b6710aa45828e0e20763a5c7",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-08-25T12:07:51.353770-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "zerohedge-2022-08-25T12:07:51.353770-04:00.jpg",
+      "mtime": "1661443742",
+      "size": "9378",
+      "md5": "60f1270ff20018d393fe8a089238e637",
+      "crc32": "d5d76996",
+      "sha1": "c7337766ee74a33c8d1f977cf17936c5e30a03c3"
+    },
+    {
+      "name": "zerohedge-2022-08-25T14:28:04.089419-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661452088",
+      "size": "34449",
+      "md5": "965023bd89985433e90c131d04a56470",
+      "crc32": "37d051ee",
+      "sha1": "b1797c2deabe0dade3fc3eec736429fd13afefa7",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-08-25T14:28:04.089419-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661452089",
+      "size": "22419",
+      "md5": "4183d9e29f3f9862c98da4f9bb4858e8",
+      "crc32": "f3185a17",
+      "sha1": "106c540a95efb46f5f223e65fa599e5f9ae1cff4",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-08-25T14:28:04.089419-04:00.jpg",
+      "source": "original",
+      "mtime": "1661452086",
+      "size": "255682",
+      "md5": "6c8f86b1cc45da11fc41b7b4b89acaf7",
+      "crc32": "7b068fe4",
+      "sha1": "4d920adc1837c2600717b6d3b1b711811d3aac70",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zerohedge-2022-08-25T14:28:04.089419-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661452091",
+      "size": "1483",
+      "md5": "828fe8da61add87f1a28154bb2b8de97",
+      "crc32": "cc4c2b26",
+      "sha1": "92d6be2bf3de75c11dec498388d900684c678e21",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-08-25T14:28:04.089419-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1661452093",
+      "size": "233",
+      "md5": "c87188837a1f91488f8d16a6e8cb0b0b",
+      "crc32": "101a8f41",
+      "sha1": "4035279911be8c1cfff0092ddc3bb771f36dcc67",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-08-25T14:28:04.089419-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "zerohedge-2022-08-25T14:28:04.089419-04:00.jpg",
+      "mtime": "1661462425",
+      "size": "9261",
+      "md5": "937c188795278d2e02bed077db453ff6",
+      "crc32": "2fb8d942",
+      "sha1": "11b9a8e74a765e099ecbc9c1baeb6c4c780b3c52"
+    },
+    {
       "name": "zerohedge-2022_archive.torrent",
       "source": "metadata",
-      "btih": "18f10c92b216220c9209bcb03c478e4d85b97a6e",
-      "mtime": "1661280971",
-      "size": "126186",
-      "md5": "b5a3d2a2c74c6ed5490a68e60b91d890",
-      "crc32": "a3fddd09",
-      "sha1": "1f7df660f3f82555c5fbaa821b39e8933c4b9470",
+      "btih": "3cd7e3eb7586366a09485be1baaac3ed5d6ed5c4",
+      "mtime": "1661462434",
+      "size": "132503",
+      "md5": "3060dbf6f9bdb39eff3531738b885a15",
+      "crc32": "122c2d58",
+      "sha1": "4c1239409f45731e61f07d37f08829e8a65fada7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "zerohedge-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "08efb6c1c8345cc5d579ab41549750ea",
+      "md5": "ff86f156501e7fa4f96b24be0a408bb4",
       "summation": "md5"
     },
     {
       "name": "zerohedge-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661279754",
-      "size": "757760",
-      "md5": "a5f7933e1824466da115e72c56856726",
-      "crc32": "9685de31",
-      "sha1": "383d3f8264e4eab30575239bb9741a5f035c7efc",
+      "mtime": "1661452103",
+      "size": "790528",
+      "md5": "a145b7cd659ad463e677528ef9bfb325",
+      "crc32": "9da56ac4",
+      "sha1": "c34788d046f0aaec11e82a80e737f87d7f2421d0",
       "format": "Metadata"
     },
     {
@@ -6172,9 +6482,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 595,
-  "item_last_updated": 1661280971,
-  "item_size": 37471415,
+  "files_count": 625,
+  "item_last_updated": 1661462434,
+  "item_size": 39213780,
   "metadata": {
     "identifier": "zerohedge-2022",
     "collection": [
@@ -6192,7 +6502,7 @@
     "addeddate": "2022-07-17 15:04:04"
   },
   "server": "ia801505.us.archive.org",
-  "uniq": 1614031661,
+  "uniq": 242133188,
   "workable_servers": [
     "ia801505.us.archive.org",
     "ia601505.us.archive.org"

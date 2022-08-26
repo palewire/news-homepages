@@ -1,5 +1,10 @@
 {
-  "created": 1661263764,
+  "created": 1661472939,
+  "cronica-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/17/items/cronica-2022",
@@ -1832,31 +1837,217 @@
       "sha1": "6005b59487d8ae5a3b006d62feff00016091a835"
     },
     {
+      "name": "cronica-2022-08-23T23:17:22.578254-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661307447",
+      "size": "72734",
+      "md5": "33384485c7aabec80f63aa235a6b35d7",
+      "crc32": "de0165a3",
+      "sha1": "59f9e903e81db3c3b5868de9d03b6a261fd0d778",
+      "format": "JSON"
+    },
+    {
+      "name": "cronica-2022-08-23T23:17:22.578254-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661307449",
+      "size": "30076",
+      "md5": "2e951e350ed1a1ee1093d0b2cbe77a5a",
+      "crc32": "a3d0ac38",
+      "sha1": "6cf7c380f1773999429b0b94b1a0025c5776fa6f",
+      "format": "JSON"
+    },
+    {
+      "name": "cronica-2022-08-23T23:17:22.578254-03:00.jpg",
+      "source": "original",
+      "mtime": "1661307444",
+      "size": "14925",
+      "md5": "2835710d6430bcbd4fd9d5901cc9b43c",
+      "crc32": "9f05c77e",
+      "sha1": "09675d5cdc9dfc990ae67400fe8ba40218791d93",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cronica-2022-08-23T23:17:22.578254-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661307452",
+      "size": "1486",
+      "md5": "533407f057efecea53a84478608a0ee3",
+      "crc32": "b8b6763b",
+      "sha1": "37962f10359cd7b83c8d881cfe04b2d3486f715c",
+      "format": "JSON"
+    },
+    {
+      "name": "cronica-2022-08-23T23:17:22.578254-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1661307455",
+      "size": "103",
+      "md5": "4069090e855295df225189b07fedc89a",
+      "crc32": "77f11588",
+      "sha1": "b2521cc99fac295dcbc35fe4231a720a9033c18b",
+      "format": "JSON"
+    },
+    {
+      "name": "cronica-2022-08-23T23:17:22.578254-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cronica-2022-08-23T23:17:22.578254-03:00.jpg",
+      "mtime": "1661307661",
+      "size": "4900",
+      "md5": "95d22074760967ae411aeee9e244e3d8",
+      "crc32": "0a572267",
+      "sha1": "6005b59487d8ae5a3b006d62feff00016091a835"
+    },
+    {
+      "name": "cronica-2022-08-24T11:00:26.839802-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661349629",
+      "size": "71937",
+      "md5": "98a74cbd02156b7f06352f776e3721e1",
+      "crc32": "b220b8e1",
+      "sha1": "b6b4fb35b7823e09736c12773ce9ce32b10c9928",
+      "format": "JSON"
+    },
+    {
+      "name": "cronica-2022-08-24T11:00:26.839802-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661349630",
+      "size": "29877",
+      "md5": "6616674e7aa0a49ffe5cf77330049efa",
+      "crc32": "9719224e",
+      "sha1": "c76b62958724c678026319b166020cde84d05b7e",
+      "format": "JSON"
+    },
+    {
+      "name": "cronica-2022-08-24T11:00:26.839802-03:00.jpg",
+      "source": "original",
+      "mtime": "1661349627",
+      "size": "14925",
+      "md5": "2835710d6430bcbd4fd9d5901cc9b43c",
+      "crc32": "9f05c77e",
+      "sha1": "09675d5cdc9dfc990ae67400fe8ba40218791d93",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cronica-2022-08-24T11:00:26.839802-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661349632",
+      "size": "1486",
+      "md5": "14d421495541b8491d398eec7b10f457",
+      "crc32": "03607ec1",
+      "sha1": "d8d744b887cddfda045153d16c6d4a40ca33b9ce",
+      "format": "JSON"
+    },
+    {
+      "name": "cronica-2022-08-24T11:00:26.839802-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1661349633",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "cronica-2022-08-24T11:00:26.839802-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cronica-2022-08-24T11:00:26.839802-03:00.jpg",
+      "mtime": "1661349685",
+      "size": "4900",
+      "md5": "95d22074760967ae411aeee9e244e3d8",
+      "crc32": "0a572267",
+      "sha1": "6005b59487d8ae5a3b006d62feff00016091a835"
+    },
+    {
+      "name": "cronica-2022-08-25T11:55:58.750153-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661439363",
+      "size": "73849",
+      "md5": "2ae6e707d1931ad065835c43ceb48d00",
+      "crc32": "0450056c",
+      "sha1": "6a82cff68d5a463844f7395287833be7035d94e9",
+      "format": "JSON"
+    },
+    {
+      "name": "cronica-2022-08-25T11:55:58.750153-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661439365",
+      "size": "30571",
+      "md5": "4c1c30d30cb965361b72916aebf974af",
+      "crc32": "3a44aafe",
+      "sha1": "4b3c4c99f389323788ec6b2487d52279b8dca234",
+      "format": "JSON"
+    },
+    {
+      "name": "cronica-2022-08-25T11:55:58.750153-03:00.jpg",
+      "source": "original",
+      "mtime": "1661439362",
+      "size": "14925",
+      "md5": "2835710d6430bcbd4fd9d5901cc9b43c",
+      "crc32": "9f05c77e",
+      "sha1": "09675d5cdc9dfc990ae67400fe8ba40218791d93",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cronica-2022-08-25T11:55:58.750153-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661439366",
+      "size": "1485",
+      "md5": "84b6b6363f7161810975270ea73c1502",
+      "crc32": "c74049ae",
+      "sha1": "1929546fe1ebebfce3a308fdbde3d931184be1a4",
+      "format": "JSON"
+    },
+    {
+      "name": "cronica-2022-08-25T11:55:58.750153-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1661439368",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "cronica-2022-08-25T11:55:58.750153-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cronica-2022-08-25T11:55:58.750153-03:00.jpg",
+      "mtime": "1661439414",
+      "size": "4900",
+      "md5": "95d22074760967ae411aeee9e244e3d8",
+      "crc32": "0a572267",
+      "sha1": "6005b59487d8ae5a3b006d62feff00016091a835"
+    },
+    {
       "name": "cronica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "38c1e644bfea22db90fbd729e9ebbb05295b3a8b",
-      "mtime": "1661263749",
-      "size": "38468",
-      "md5": "962eb14ec3fabcf8cdb8719b34b354f8",
-      "crc32": "7b719b74",
-      "sha1": "80c8fb14f9ec1cef071e2b5c0020e64c24caa2be",
+      "btih": "051626aa9fd631c010295b8015aa4d7c29eb5943",
+      "mtime": "1661439417",
+      "size": "42202",
+      "md5": "43bbb00f1622193f6d4c936aae3d74f7",
+      "crc32": "542fbeb7",
+      "sha1": "d1841c06677bb705454543058b2907f52c31d46b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cronica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ac967a2beb51a3fc5016cbc31243cf13",
+      "md5": "0ac37a9185dffa90ffb2094331415992",
       "summation": "md5"
     },
     {
       "name": "cronica-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661263237",
-      "size": "249856",
-      "md5": "89194411941503b6c7809fd7ca82d248",
-      "crc32": "91c171de",
-      "sha1": "577f1d7e9ea648bd8d455af3f04b432ab9c2f31a",
+      "mtime": "1661439371",
+      "size": "274432",
+      "md5": "44dd0e7887e6312a270c202c0bd2405c",
+      "crc32": "5e7e7f6a",
+      "sha1": "8cb87af1b677cefdcaafe83138cd4f7264c388e5",
       "format": "Metadata"
     },
     {
@@ -1870,9 +2061,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 181,
-  "item_last_updated": 1661263749,
-  "item_size": 12455752,
+  "files_count": 199,
+  "item_last_updated": 1661439417,
+  "item_size": 12857545,
   "metadata": {
     "identifier": "cronica-2022",
     "collection": [
@@ -1890,7 +2081,7 @@
     "addeddate": "2022-08-09 14:37:36"
   },
   "server": "ia801401.us.archive.org",
-  "uniq": 895453024,
+  "uniq": 1134977943,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"
