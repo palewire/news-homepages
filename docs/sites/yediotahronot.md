@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 18 screenshots with the Internet Archive.
+The archiving routine has saved 20 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-23T17:05:06.306381+03:00.jpg">
+  <img src="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-23T17:05:06.306381+03:00.jpg"
+     alt="Yedioth Ahronoth at 2022-08-23 17:05:08+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-23T17:05:06.306381+03:00.jpg">August 23 at 5:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-23T04:29:07.831746+03:00.jpg">
+  <img src="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-23T04:29:07.831746+03:00.jpg"
+     alt="Yedioth Ahronoth at 2022-08-23 04:29:09+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-23T04:29:07.831746+03:00.jpg">August 23 at 4:29 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-22T16:08:42.451830+03:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-18T04:19:27.449571+03:00.jpg">August 18 at 4:19 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-17T16:13:19.841419+03:00.jpg">
-  <img src="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-17T16:13:19.841419+03:00.jpg"
-     alt="Yedioth Ahronoth at 2022-08-17 16:13:22+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-17T16:13:19.841419+03:00.jpg">August 17 at 4:13 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-17T04:26:42.134477+03:00.jpg">
-  <img src="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-17T04:26:42.134477+03:00.jpg"
-     alt="Yedioth Ahronoth at 2022-08-17 04:26:43+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-17T04:26:42.134477+03:00.jpg">August 17 at 4:26 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 18 hyperlink lists with the Internet Archive.
+The archiving routine has saved 20 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 23 at 5:05 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-23T17:05:06.306381+03:00.hyperlinks.json) |
+| [August 23 at 4:29 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-23T04:29:07.831746+03:00.hyperlinks.json) |
 | [August 22 at 4:08 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-22T16:08:42.451830+03:00.hyperlinks.json) |
 | [August 22 at 4:19 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-22T04:19:15.830514+03:00.hyperlinks.json) |
 | [August 21 at 4:12 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-21T16:11:59.853670+03:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 20 at 4:19 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-20T04:19:39.136548+03:00.hyperlinks.json) |
 | [August 19 at 4:26 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-19T16:26:21.111118+03:00.hyperlinks.json) |
 | [August 19 at 4:24 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-19T04:24:44.204555+03:00.hyperlinks.json) |
-| [August 18 at 4:05 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-18T16:05:30.350413+03:00.hyperlinks.json) |
-| [August 18 at 4:19 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-18T04:19:27.449571+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 18 accessibility trees with the Internet Archive.
+The archiving routine has saved 20 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 23 at 5:05 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-23T17:05:06.306381+03:00.accessibility.json) |
+| [August 23 at 4:29 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-23T04:29:07.831746+03:00.accessibility.json) |
 | [August 22 at 4:08 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-22T16:08:42.451830+03:00.accessibility.json) |
 | [August 22 at 4:19 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-22T04:19:15.830514+03:00.accessibility.json) |
 | [August 21 at 4:12 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-21T16:11:59.853670+03:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [August 20 at 4:19 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-20T04:19:39.136548+03:00.accessibility.json) |
 | [August 19 at 4:26 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-19T16:26:21.111118+03:00.accessibility.json) |
 | [August 19 at 4:24 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-19T04:24:44.204555+03:00.accessibility.json) |
-| [August 18 at 4:05 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-18T16:05:30.350413+03:00.accessibility.json) |
-| [August 18 at 4:19 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-18T04:19:27.449571+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 23 at 5:05 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-23T17:05:06.306381+03:00.lighthouse.json) |
+| [August 23 at 4:29 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-23T04:29:07.831746+03:00.lighthouse.json) |
 | [August 22 at 4:08 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-22T16:08:42.451830+03:00.lighthouse.json) |
 | [August 22 at 4:19 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-22T04:19:15.830514+03:00.lighthouse.json) |
 | [August 21 at 4:12 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-21T16:11:59.853670+03:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 20 at 4:19 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-20T04:19:39.136548+03:00.lighthouse.json) |
 | [August 19 at 4:26 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-19T16:26:21.111118+03:00.lighthouse.json) |
 | [August 19 at 4:24 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-19T04:24:44.204555+03:00.lighthouse.json) |
-| [August 18 at 4:05 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-18T16:05:30.350413+03:00.lighthouse.json) |
-| [August 18 at 4:19 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-18T04:19:27.449571+03:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 153 screenshots with the Internet Archive.
+The archiving routine has saved 156 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-23T13:35:07.194602-05:00.jpg">
+  <img src="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-23T13:35:07.194602-05:00.jpg"
+     alt="Gateway Pundit at 2022-08-23 13:35:09-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-23T13:35:07.194602-05:00.jpg">August 23 at 1:35 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-23T09:51:59.072210-05:00.jpg">
+  <img src="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-23T09:51:59.072210-05:00.jpg"
+     alt="Gateway Pundit at 2022-08-23 09:52:08-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-23T09:51:59.072210-05:00.jpg">August 23 at 9:52 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-22T21:26:24.403215-05:00.jpg">
+  <img src="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-22T21:26:24.403215-05:00.jpg"
+     alt="Gateway Pundit at 2022-08-22 21:26:34-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-22T21:26:24.403215-05:00.jpg">August 22 at 9:26 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-22T13:26:23.649821-05:00.jpg">
   <img src="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-22T13:26:23.649821-05:00.jpg"
      alt="Gateway Pundit at 2022-08-22 13:26:31-05:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-19T21:33:31.196611-05:00.jpg">August 19 at 9:33 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-19T13:29:38.583629-05:00.jpg">
-  <img src="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-19T13:29:38.583629-05:00.jpg"
-     alt="Gateway Pundit at 2022-08-19 13:29:44-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-19T13:29:38.583629-05:00.jpg">August 19 at 1:29 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-19T09:30:51.941145-05:00.jpg">
-  <img src="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-19T09:30:51.941145-05:00.jpg"
-     alt="Gateway Pundit at 2022-08-19 09:30:58-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-19T09:30:51.941145-05:00.jpg">August 19 at 9:30 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-18T21:32:32.825827-05:00.jpg">
-  <img src="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-18T21:32:32.825827-05:00.jpg"
-     alt="Gateway Pundit at 2022-08-18 21:32:37-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-18T21:32:32.825827-05:00.jpg">August 18 at 9:32 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 150 hyperlink lists with the Internet Archive.
+The archiving routine has saved 153 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 23 at 1:35 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-23T13:35:07.194602-05:00.hyperlinks.json) |
+| [August 23 at 9:52 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-23T09:51:59.072210-05:00.hyperlinks.json) |
+| [August 22 at 9:26 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-22T21:26:24.403215-05:00.hyperlinks.json) |
 | [August 22 at 1:26 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-22T13:26:23.649821-05:00.hyperlinks.json) |
 | [August 22 at 9:08 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-22T09:08:10.640060-05:00.hyperlinks.json) |
 | [August 21 at 9:24 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-21T21:24:48.804024-05:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 21 at 9:03 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-21T09:03:26.580723-05:00.hyperlinks.json) |
 | [August 20 at 9:19 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-20T21:19:27.716695-05:00.hyperlinks.json) |
 | [August 20 at 1:32 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-20T13:32:01.256549-05:00.hyperlinks.json) |
-| [August 20 at 8:57 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-20T08:57:14.675660-05:00.hyperlinks.json) |
-| [August 19 at 9:33 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-19T21:33:31.196611-05:00.hyperlinks.json) |
-| [August 19 at 1:29 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-19T13:29:38.583629-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 150 accessibility trees with the Internet Archive.
+The archiving routine has saved 153 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 23 at 1:35 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-23T13:35:07.194602-05:00.accessibility.json) |
+| [August 23 at 9:52 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-23T09:51:59.072210-05:00.accessibility.json) |
+| [August 22 at 9:26 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-22T21:26:24.403215-05:00.accessibility.json) |
 | [August 22 at 1:26 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-22T13:26:23.649821-05:00.accessibility.json) |
 | [August 22 at 9:08 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-22T09:08:10.640060-05:00.accessibility.json) |
 | [August 21 at 9:24 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-21T21:24:48.804024-05:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 21 at 9:03 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-21T09:03:26.580723-05:00.accessibility.json) |
 | [August 20 at 9:19 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-20T21:19:27.716695-05:00.accessibility.json) |
 | [August 20 at 1:32 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-20T13:32:01.256549-05:00.accessibility.json) |
-| [August 20 at 8:57 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-20T08:57:14.675660-05:00.accessibility.json) |
-| [August 19 at 9:33 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-19T21:33:31.196611-05:00.accessibility.json) |
-| [August 19 at 1:29 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-19T13:29:38.583629-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 89 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 92 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 23 at 1:35 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-23T13:35:07.194602-05:00.lighthouse.json) |
+| [August 23 at 9:52 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-23T09:51:59.072210-05:00.lighthouse.json) |
+| [August 22 at 9:26 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-22T21:26:24.403215-05:00.lighthouse.json) |
 | [August 22 at 1:26 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-22T13:26:23.649821-05:00.lighthouse.json) |
 | [August 22 at 9:08 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-22T09:08:10.640060-05:00.lighthouse.json) |
 | [August 21 at 9:24 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-21T21:24:48.804024-05:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 21 at 9:03 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-21T09:03:26.580723-05:00.lighthouse.json) |
 | [August 20 at 9:19 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-20T21:19:27.716695-05:00.lighthouse.json) |
 | [August 20 at 1:32 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-20T13:32:01.256549-05:00.lighthouse.json) |
-| [August 20 at 8:57 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-20T08:57:14.675660-05:00.lighthouse.json) |
-| [August 19 at 9:33 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-19T21:33:31.196611-05:00.lighthouse.json) |
-| [August 19 at 1:29 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-19T13:29:38.583629-05:00.lighthouse.json) |
 
 
 

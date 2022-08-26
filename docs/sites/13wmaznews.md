@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 67 screenshots with the Internet Archive.
+The archiving routine has saved 69 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-23T18:55:28.244543-04:00.jpg">
+  <img src="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-23T18:55:28.244543-04:00.jpg"
+     alt="13WMAZ News at 2022-08-23 18:55:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-23T18:55:28.244543-04:00.jpg">August 23 at 6:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-23T06:56:37.561578-04:00.jpg">
+  <img src="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-23T06:56:37.561578-04:00.jpg"
+     alt="13WMAZ News at 2022-08-23 06:56:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-23T06:56:37.561578-04:00.jpg">August 23 at 6:56 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-22T18:53:29.278497-04:00.jpg">
   <img src="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-22T18:53:29.278497-04:00.jpg"
      alt="13WMAZ News at 2022-08-22 18:53:38-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-18T06:53:38.483461-04:00.jpg">August 18 at 6:53 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-17T18:56:17.905177-04:00.jpg">
-  <img src="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-17T18:56:17.905177-04:00.jpg"
-     alt="13WMAZ News at 2022-08-17 18:56:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-17T18:56:17.905177-04:00.jpg">August 17 at 6:56 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-17T06:52:13.473628-04:00.jpg">
-  <img src="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-17T06:52:13.473628-04:00.jpg"
-     alt="13WMAZ News at 2022-08-17 06:52:16-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-17T06:52:13.473628-04:00.jpg">August 17 at 6:52 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 63 hyperlink lists with the Internet Archive.
+The archiving routine has saved 65 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 23 at 6:55 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-23T18:55:28.244543-04:00.hyperlinks.json) |
+| [August 23 at 6:56 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-23T06:56:37.561578-04:00.hyperlinks.json) |
 | [August 22 at 6:53 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-22T18:53:29.278497-04:00.hyperlinks.json) |
 | [August 22 at 6:53 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-22T06:53:34.396487-04:00.hyperlinks.json) |
 | [August 21 at 6:51 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-21T18:51:32.931038-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 20 at 6:51 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-20T06:51:42.140346-04:00.hyperlinks.json) |
 | [August 19 at 6:58 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-19T18:57:58.484982-04:00.hyperlinks.json) |
 | [August 19 at 6:54 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-19T06:54:49.485631-04:00.hyperlinks.json) |
-| [August 18 at 6:56 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-18T18:56:52.165977-04:00.hyperlinks.json) |
-| [August 18 at 6:53 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-18T06:53:38.483461-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 66 accessibility trees with the Internet Archive.
+The archiving routine has saved 68 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 23 at 6:55 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-23T18:55:28.244543-04:00.accessibility.json) |
+| [August 23 at 6:56 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-23T06:56:37.561578-04:00.accessibility.json) |
 | [August 22 at 6:53 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-22T18:53:29.278497-04:00.accessibility.json) |
 | [August 22 at 6:53 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-22T06:53:34.396487-04:00.accessibility.json) |
 | [August 21 at 6:51 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-21T18:51:32.931038-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 20 at 6:51 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-20T06:51:42.140346-04:00.accessibility.json) |
 | [August 19 at 6:58 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-19T18:57:58.484982-04:00.accessibility.json) |
 | [August 19 at 6:54 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-19T06:54:49.485631-04:00.accessibility.json) |
-| [August 18 at 6:53 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-18T06:53:38.483461-04:00.accessibility.json) |
-| [August 17 at 6:56 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-17T18:56:17.905177-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 60 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 62 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 23 at 6:55 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-23T18:55:28.244543-04:00.lighthouse.json) |
+| [August 23 at 6:56 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-23T06:56:37.561578-04:00.lighthouse.json) |
 | [August 22 at 6:53 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-22T18:53:29.278497-04:00.lighthouse.json) |
 | [August 22 at 6:53 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-22T06:53:34.396487-04:00.lighthouse.json) |
 | [August 21 at 6:51 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-21T18:51:32.931038-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 20 at 6:51 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-20T06:51:42.140346-04:00.lighthouse.json) |
 | [August 19 at 6:58 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-19T18:57:58.484982-04:00.lighthouse.json) |
 | [August 19 at 6:54 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-19T06:54:49.485631-04:00.lighthouse.json) |
-| [August 18 at 6:56 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-18T18:56:52.165977-04:00.lighthouse.json) |
-| [August 18 at 6:53 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-18T06:53:38.483461-04:00.lighthouse.json) |
 
 
 

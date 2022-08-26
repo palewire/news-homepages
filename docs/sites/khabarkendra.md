@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 59 screenshots with the Internet Archive.
+The archiving routine has saved 61 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-23T20:38:42.530445+05:45.jpg">
+  <img src="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-23T20:38:42.530445+05:45.jpg"
+     alt="Sanchar Kendra at 2022-08-23 20:38:44+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-23T20:38:42.530445+05:45.jpg">August 23 at 8:38 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-23T08:15:00.457678+05:45.jpg">
+  <img src="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-23T08:15:00.457678+05:45.jpg"
+     alt="Sanchar Kendra at 2022-08-23 08:15:05+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-23T08:15:00.457678+05:45.jpg">August 23 at 8:15 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-22T19:54:57.808251+05:45.jpg">
   <img src="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-22T19:54:57.808251+05:45.jpg"
      alt="Sanchar Kendra at 2022-08-22 19:55:03+05:45 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-18T08:14:59.978073+05:45.jpg">August 18 at 8:15 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-17T20:49:00.098011+05:45.jpg">
-  <img src="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-17T20:49:00.098011+05:45.jpg"
-     alt="Sanchar Kendra at 2022-08-17 20:49:03+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-17T20:49:00.098011+05:45.jpg">August 17 at 8:49 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-17T08:14:42.174809+05:45.jpg">
-  <img src="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-17T08:14:42.174809+05:45.jpg"
-     alt="Sanchar Kendra at 2022-08-17 08:14:45+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-17T08:14:42.174809+05:45.jpg">August 17 at 8:14 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 59 hyperlink lists with the Internet Archive.
+The archiving routine has saved 61 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 23 at 8:38 PM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-23T20:38:42.530445+05:45.hyperlinks.json) |
+| [August 23 at 8:15 AM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-23T08:15:00.457678+05:45.hyperlinks.json) |
 | [August 22 at 7:55 PM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-22T19:54:57.808251+05:45.hyperlinks.json) |
 | [August 22 at 8:12 AM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-22T08:12:11.606751+05:45.hyperlinks.json) |
 | [August 21 at 7:51 PM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-21T19:51:00.745862+05:45.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 20 at 8:20 AM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-20T08:20:43.262347+05:45.hyperlinks.json) |
 | [August 19 at 8:18 PM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-19T20:18:22.308403+05:45.hyperlinks.json) |
 | [August 19 at 8:18 AM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-19T08:18:33.091017+05:45.hyperlinks.json) |
-| [August 18 at 7:54 PM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-18T19:54:23.108193+05:45.hyperlinks.json) |
-| [August 18 at 8:15 AM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-18T08:14:59.978073+05:45.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 59 accessibility trees with the Internet Archive.
+The archiving routine has saved 61 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 23 at 8:38 PM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-23T20:38:42.530445+05:45.accessibility.json) |
+| [August 23 at 8:15 AM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-23T08:15:00.457678+05:45.accessibility.json) |
 | [August 22 at 7:55 PM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-22T19:54:57.808251+05:45.accessibility.json) |
 | [August 22 at 8:12 AM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-22T08:12:11.606751+05:45.accessibility.json) |
 | [August 21 at 7:51 PM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-21T19:51:00.745862+05:45.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 20 at 8:20 AM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-20T08:20:43.262347+05:45.accessibility.json) |
 | [August 19 at 8:18 PM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-19T20:18:22.308403+05:45.accessibility.json) |
 | [August 19 at 8:18 AM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-19T08:18:33.091017+05:45.accessibility.json) |
-| [August 18 at 7:54 PM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-18T19:54:23.108193+05:45.accessibility.json) |
-| [August 18 at 8:15 AM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-18T08:14:59.978073+05:45.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 59 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 61 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 23 at 8:38 PM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-23T20:38:42.530445+05:45.lighthouse.json) |
+| [August 23 at 8:15 AM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-23T08:15:00.457678+05:45.lighthouse.json) |
 | [August 22 at 7:55 PM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-22T19:54:57.808251+05:45.lighthouse.json) |
 | [August 22 at 8:12 AM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-22T08:12:11.606751+05:45.lighthouse.json) |
 | [August 21 at 7:51 PM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-21T19:51:00.745862+05:45.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 20 at 8:20 AM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-20T08:20:43.262347+05:45.lighthouse.json) |
 | [August 19 at 8:18 PM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-19T20:18:22.308403+05:45.lighthouse.json) |
 | [August 19 at 8:18 AM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-19T08:18:33.091017+05:45.lighthouse.json) |
-| [August 18 at 7:54 PM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-18T19:54:23.108193+05:45.lighthouse.json) |
-| [August 18 at 8:15 AM](https://archive.org/download/khabarkendra-2022/khabarkendra-2022-08-18T08:14:59.978073+05:45.lighthouse.json) |
 
 
 

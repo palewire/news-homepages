@@ -28,13 +28,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 4 screenshots with the Internet Archive.
+The archiving routine has saved 6 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-08-23T09:58:21.189387-04:00.jpg">
+  <img src="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-08-23T09:58:21.189387-04:00.jpg"
+     alt="Airways at 2022-08-23 09:58:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-08-23T09:58:21.189387-04:00.jpg">August 23 at 9:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-08-22T21:19:42.777986-04:00.jpg">
+  <img src="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-08-22T21:19:42.777986-04:00.jpg"
+     alt="Airways at 2022-08-22 21:19:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-08-22T21:19:42.777986-04:00.jpg">August 22 at 9:19 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-08-22T09:01:39.676298-04:00.jpg">
@@ -76,7 +94,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 4 hyperlink lists with the Internet Archive.
+The archiving routine has saved 6 hyperlink lists with the Internet Archive.
 
 
 
@@ -84,6 +102,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 23 at 9:58 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-08-23T09:58:21.189387-04:00.hyperlinks.json) |
+| [August 22 at 9:19 PM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-08-22T21:19:42.777986-04:00.hyperlinks.json) |
 | [August 22 at 9:01 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-08-22T09:01:39.676298-04:00.hyperlinks.json) |
 | [August 21 at 9:12 PM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-08-21T21:12:13.599228-04:00.hyperlinks.json) |
 | [August 21 at 9:05 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-08-21T09:05:26.756158-04:00.hyperlinks.json) |
@@ -92,7 +112,7 @@ Here are the 10 most recent hyperlink lists.
 
 ### Accessibility
 
-The archiving routine has saved 4 accessibility trees with the Internet Archive.
+The archiving routine has saved 6 accessibility trees with the Internet Archive.
 
 
 
@@ -100,6 +120,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 23 at 9:58 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-08-23T09:58:21.189387-04:00.accessibility.json) |
+| [August 22 at 9:19 PM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-08-22T21:19:42.777986-04:00.accessibility.json) |
 | [August 22 at 9:01 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-08-22T09:01:39.676298-04:00.accessibility.json) |
 | [August 21 at 9:12 PM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-08-21T21:12:13.599228-04:00.accessibility.json) |
 | [August 21 at 9:05 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-08-21T09:05:26.756158-04:00.accessibility.json) |
@@ -109,7 +131,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 4 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 6 Lighthouse audits with the Internet Archive.
 
 
 
@@ -117,6 +139,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 23 at 9:58 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-08-23T09:58:21.189387-04:00.lighthouse.json) |
+| [August 22 at 9:19 PM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-08-22T21:19:42.777986-04:00.lighthouse.json) |
 | [August 22 at 9:01 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-08-22T09:01:39.676298-04:00.lighthouse.json) |
 | [August 21 at 9:12 PM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-08-21T21:12:13.599228-04:00.lighthouse.json) |
 | [August 21 at 9:05 AM](https://archive.org/download/airwaysmagazine-2022/airwaysmagazine-2022-08-21T09:05:26.756158-04:00.lighthouse.json) |

@@ -28,13 +28,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 5 screenshots with the Internet Archive.
+The archiving routine has saved 7 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-08-23T18:57:24.920746-04:00.jpg">
+  <img src="https://archive.org/download/aviationweek-2022/aviationweek-2022-08-23T18:57:24.920746-04:00.jpg"
+     alt="Aviation Week at 2022-08-23 18:57:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-08-23T18:57:24.920746-04:00.jpg">August 23 at 6:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-08-23T06:58:10.177403-04:00.jpg">
+  <img src="https://archive.org/download/aviationweek-2022/aviationweek-2022-08-23T06:58:10.177403-04:00.jpg"
+     alt="Aviation Week at 2022-08-23 06:58:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-08-23T06:58:10.177403-04:00.jpg">August 23 at 6:58 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-08-22T18:55:47.001928-04:00.jpg">
@@ -85,7 +103,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 5 hyperlink lists with the Internet Archive.
+The archiving routine has saved 7 hyperlink lists with the Internet Archive.
 
 
 
@@ -93,6 +111,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 23 at 6:57 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-08-23T18:57:24.920746-04:00.hyperlinks.json) |
+| [August 23 at 6:58 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-08-23T06:58:10.177403-04:00.hyperlinks.json) |
 | [August 22 at 6:55 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-08-22T18:55:47.001928-04:00.hyperlinks.json) |
 | [August 22 at 6:55 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-08-22T06:55:03.806678-04:00.hyperlinks.json) |
 | [August 21 at 6:53 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-08-21T18:53:12.387528-04:00.hyperlinks.json) |
@@ -102,7 +122,7 @@ Here are the 10 most recent hyperlink lists.
 
 ### Accessibility
 
-The archiving routine has saved 5 accessibility trees with the Internet Archive.
+The archiving routine has saved 7 accessibility trees with the Internet Archive.
 
 
 
@@ -110,6 +130,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 23 at 6:57 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-08-23T18:57:24.920746-04:00.accessibility.json) |
+| [August 23 at 6:58 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-08-23T06:58:10.177403-04:00.accessibility.json) |
 | [August 22 at 6:55 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-08-22T18:55:47.001928-04:00.accessibility.json) |
 | [August 22 at 6:55 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-08-22T06:55:03.806678-04:00.accessibility.json) |
 | [August 21 at 6:53 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-08-21T18:53:12.387528-04:00.accessibility.json) |
@@ -120,7 +142,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 5 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 7 Lighthouse audits with the Internet Archive.
 
 
 
@@ -128,6 +150,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 23 at 6:57 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-08-23T18:57:24.920746-04:00.lighthouse.json) |
+| [August 23 at 6:58 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-08-23T06:58:10.177403-04:00.lighthouse.json) |
 | [August 22 at 6:55 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-08-22T18:55:47.001928-04:00.lighthouse.json) |
 | [August 22 at 6:55 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-08-22T06:55:03.806678-04:00.lighthouse.json) |
 | [August 21 at 6:53 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-08-21T18:53:12.387528-04:00.lighthouse.json) |

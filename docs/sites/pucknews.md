@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 165 screenshots with the Internet Archive.
+The archiving routine has saved 167 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/pucknews-2022/pucknews-2022-08-23T08:54:36.132169-04:00.jpg">
+  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-08-23T08:54:36.132169-04:00.jpg"
+     alt="Puck at 2022-08-23 08:54:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-08-23T08:54:36.132169-04:00.jpg">August 23 at 8:54 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pucknews-2022/pucknews-2022-08-23T08:02:02.220648-04:00.jpg">
+  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-08-23T08:02:02.220648-04:00.jpg"
+     alt="Puck at 2022-08-23 08:02:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-08-23T08:02:02.220648-04:00.jpg">August 23 at 8:02 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/pucknews-2022/pucknews-2022-08-22T20:04:01.201202-04:00.jpg">
   <img src="https://archive.org/download/pucknews-2022/pucknews-2022-08-22T20:04:01.201202-04:00.jpg"
      alt="Puck at 2022-08-22 20:04:05-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-08-18T19:58:10.660090-04:00.jpg">August 18 at 7:58 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/pucknews-2022/pucknews-2022-08-18T08:03:57.189490-04:00.jpg">
-  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-08-18T08:03:57.189490-04:00.jpg"
-     alt="Puck at 2022-08-18 08:04:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-08-18T08:03:57.189490-04:00.jpg">August 18 at 8:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pucknews-2022/pucknews-2022-08-17T19:55:42.852846-04:00.jpg">
-  <img src="https://archive.org/download/pucknews-2022/pucknews-2022-08-17T19:55:42.852846-04:00.jpg"
-     alt="Puck at 2022-08-17 19:55:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pucknews-2022/pucknews-2022-08-17T19:55:42.852846-04:00.jpg">August 17 at 7:55 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 165 hyperlink lists with the Internet Archive.
+The archiving routine has saved 167 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 23 at 8:54 AM](https://archive.org/download/pucknews-2022/pucknews-2022-08-23T08:54:36.132169-04:00.hyperlinks.json) |
+| [August 23 at 8:02 AM](https://archive.org/download/pucknews-2022/pucknews-2022-08-23T08:02:02.220648-04:00.hyperlinks.json) |
 | [August 22 at 8:04 PM](https://archive.org/download/pucknews-2022/pucknews-2022-08-22T20:04:01.201202-04:00.hyperlinks.json) |
 | [August 22 at 8:03 AM](https://archive.org/download/pucknews-2022/pucknews-2022-08-22T08:03:14.229491-04:00.hyperlinks.json) |
 | [August 21 at 7:58 PM](https://archive.org/download/pucknews-2022/pucknews-2022-08-21T19:58:25.838103-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 20 at 8:01 AM](https://archive.org/download/pucknews-2022/pucknews-2022-08-20T08:01:31.469104-04:00.hyperlinks.json) |
 | [August 19 at 7:58 PM](https://archive.org/download/pucknews-2022/pucknews-2022-08-19T19:57:55.804608-04:00.hyperlinks.json) |
 | [August 19 at 10:24 AM](https://archive.org/download/pucknews-2022/pucknews-2022-08-19T10:24:34.107652-04:00.hyperlinks.json) |
-| [August 19 at 8:07 AM](https://archive.org/download/pucknews-2022/pucknews-2022-08-19T08:06:46.156869-04:00.hyperlinks.json) |
-| [August 18 at 7:58 PM](https://archive.org/download/pucknews-2022/pucknews-2022-08-18T19:58:10.660090-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 165 accessibility trees with the Internet Archive.
+The archiving routine has saved 167 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 23 at 8:54 AM](https://archive.org/download/pucknews-2022/pucknews-2022-08-23T08:54:36.132169-04:00.accessibility.json) |
+| [August 23 at 8:02 AM](https://archive.org/download/pucknews-2022/pucknews-2022-08-23T08:02:02.220648-04:00.accessibility.json) |
 | [August 22 at 8:04 PM](https://archive.org/download/pucknews-2022/pucknews-2022-08-22T20:04:01.201202-04:00.accessibility.json) |
 | [August 22 at 8:03 AM](https://archive.org/download/pucknews-2022/pucknews-2022-08-22T08:03:14.229491-04:00.accessibility.json) |
 | [August 21 at 7:58 PM](https://archive.org/download/pucknews-2022/pucknews-2022-08-21T19:58:25.838103-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 20 at 8:01 AM](https://archive.org/download/pucknews-2022/pucknews-2022-08-20T08:01:31.469104-04:00.accessibility.json) |
 | [August 19 at 7:58 PM](https://archive.org/download/pucknews-2022/pucknews-2022-08-19T19:57:55.804608-04:00.accessibility.json) |
 | [August 19 at 10:24 AM](https://archive.org/download/pucknews-2022/pucknews-2022-08-19T10:24:34.107652-04:00.accessibility.json) |
-| [August 19 at 8:07 AM](https://archive.org/download/pucknews-2022/pucknews-2022-08-19T08:06:46.156869-04:00.accessibility.json) |
-| [August 18 at 7:58 PM](https://archive.org/download/pucknews-2022/pucknews-2022-08-18T19:58:10.660090-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 62 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 64 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 23 at 8:54 AM](https://archive.org/download/pucknews-2022/pucknews-2022-08-23T08:54:36.132169-04:00.lighthouse.json) |
+| [August 23 at 8:02 AM](https://archive.org/download/pucknews-2022/pucknews-2022-08-23T08:02:02.220648-04:00.lighthouse.json) |
 | [August 22 at 8:04 PM](https://archive.org/download/pucknews-2022/pucknews-2022-08-22T20:04:01.201202-04:00.lighthouse.json) |
 | [August 22 at 8:03 AM](https://archive.org/download/pucknews-2022/pucknews-2022-08-22T08:03:14.229491-04:00.lighthouse.json) |
 | [August 21 at 7:58 PM](https://archive.org/download/pucknews-2022/pucknews-2022-08-21T19:58:25.838103-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 20 at 8:01 AM](https://archive.org/download/pucknews-2022/pucknews-2022-08-20T08:01:31.469104-04:00.lighthouse.json) |
 | [August 19 at 7:58 PM](https://archive.org/download/pucknews-2022/pucknews-2022-08-19T19:57:55.804608-04:00.lighthouse.json) |
 | [August 19 at 10:24 AM](https://archive.org/download/pucknews-2022/pucknews-2022-08-19T10:24:34.107652-04:00.lighthouse.json) |
-| [August 19 at 8:07 AM](https://archive.org/download/pucknews-2022/pucknews-2022-08-19T08:06:46.156869-04:00.lighthouse.json) |
-| [August 18 at 7:58 PM](https://archive.org/download/pucknews-2022/pucknews-2022-08-18T19:58:10.660090-04:00.lighthouse.json) |
 
 
 

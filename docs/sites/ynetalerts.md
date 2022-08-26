@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 19 screenshots with the Internet Archive.
+The archiving routine has saved 21 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-23T19:10:02.741015+03:00.jpg">
+  <img src="https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-23T19:10:02.741015+03:00.jpg"
+     alt="Ynet at 2022-08-23 19:10:06+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-23T19:10:02.741015+03:00.jpg">August 23 at 7:10 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-23T07:01:32.392976+03:00.jpg">
+  <img src="https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-23T07:01:32.392976+03:00.jpg"
+     alt="Ynet at 2022-08-23 07:01:34+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-23T07:01:32.392976+03:00.jpg">August 23 at 7:01 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-22T18:08:57.138216+03:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-18T18:34:15.505653+03:00.jpg">August 18 at 6:34 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-18T06:49:07.296581+03:00.jpg">
-  <img src="https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-18T06:49:07.296581+03:00.jpg"
-     alt="Ynet at 2022-08-18 06:49:08+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-18T06:49:07.296581+03:00.jpg">August 18 at 6:49 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-17T18:15:51.380214+03:00.jpg">
-  <img src="https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-17T18:15:51.380214+03:00.jpg"
-     alt="Ynet at 2022-08-17 18:15:52+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-17T18:15:51.380214+03:00.jpg">August 17 at 6:15 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 19 hyperlink lists with the Internet Archive.
+The archiving routine has saved 21 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 23 at 7:10 PM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-23T19:10:02.741015+03:00.hyperlinks.json) |
+| [August 23 at 7:01 AM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-23T07:01:32.392976+03:00.hyperlinks.json) |
 | [August 22 at 6:09 PM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-22T18:08:57.138216+03:00.hyperlinks.json) |
 | [August 22 at 6:47 AM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-22T06:47:48.285048+03:00.hyperlinks.json) |
 | [August 21 at 6:05 PM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-21T18:05:32.741598+03:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 20 at 6:43 AM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-20T06:43:06.820098+03:00.hyperlinks.json) |
 | [August 19 at 6:35 PM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-19T18:35:44.597933+03:00.hyperlinks.json) |
 | [August 19 at 3:16 PM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-19T15:16:20.958840+03:00.hyperlinks.json) |
-| [August 19 at 6:46 AM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-19T06:46:15.386907+03:00.hyperlinks.json) |
-| [August 18 at 6:34 PM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-18T18:34:15.505653+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 18 accessibility trees with the Internet Archive.
+The archiving routine has saved 20 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 23 at 7:10 PM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-23T19:10:02.741015+03:00.accessibility.json) |
+| [August 23 at 7:01 AM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-23T07:01:32.392976+03:00.accessibility.json) |
 | [August 22 at 6:09 PM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-22T18:08:57.138216+03:00.accessibility.json) |
 | [August 22 at 6:47 AM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-22T06:47:48.285048+03:00.accessibility.json) |
 | [August 21 at 6:05 PM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-21T18:05:32.741598+03:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [August 20 at 6:43 AM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-20T06:43:06.820098+03:00.accessibility.json) |
 | [August 19 at 6:35 PM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-19T18:35:44.597933+03:00.accessibility.json) |
 | [August 19 at 3:16 PM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-19T15:16:20.958840+03:00.accessibility.json) |
-| [August 19 at 6:46 AM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-19T06:46:15.386907+03:00.accessibility.json) |
-| [August 18 at 6:34 PM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-18T18:34:15.505653+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 21 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 23 at 7:10 PM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-23T19:10:02.741015+03:00.lighthouse.json) |
+| [August 23 at 7:01 AM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-23T07:01:32.392976+03:00.lighthouse.json) |
 | [August 22 at 6:09 PM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-22T18:08:57.138216+03:00.lighthouse.json) |
 | [August 22 at 6:47 AM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-22T06:47:48.285048+03:00.lighthouse.json) |
 | [August 21 at 6:05 PM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-21T18:05:32.741598+03:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 20 at 6:43 AM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-20T06:43:06.820098+03:00.lighthouse.json) |
 | [August 19 at 6:35 PM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-19T18:35:44.597933+03:00.lighthouse.json) |
 | [August 19 at 3:16 PM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-19T15:16:20.958840+03:00.lighthouse.json) |
-| [August 19 at 6:46 AM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-19T06:46:15.386907+03:00.lighthouse.json) |
-| [August 18 at 6:34 PM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-18T18:34:15.505653+03:00.lighthouse.json) |
 
 
 

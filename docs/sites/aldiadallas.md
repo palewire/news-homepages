@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 57 screenshots with the Internet Archive.
+The archiving routine has saved 59 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-23T17:55:24.115867-05:00.jpg">
+  <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-23T17:55:24.115867-05:00.jpg"
+     alt="Al Dia Dallas at 2022-08-23 17:55:28-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-23T17:55:24.115867-05:00.jpg">August 23 at 5:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-23T05:56:56.667688-05:00.jpg">
+  <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-23T05:56:56.667688-05:00.jpg"
+     alt="Al Dia Dallas at 2022-08-23 05:57:00-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-23T05:56:56.667688-05:00.jpg">August 23 at 5:57 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-22T17:53:33.488311-05:00.jpg">
   <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-22T17:53:33.488311-05:00.jpg"
      alt="Al Dia Dallas at 2022-08-22 17:53:35-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-18T05:53:34.107304-05:00.jpg">August 18 at 5:53 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-17T17:56:13.604706-05:00.jpg">
-  <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-17T17:56:13.604706-05:00.jpg"
-     alt="Al Dia Dallas at 2022-08-17 17:56:17-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-17T17:56:13.604706-05:00.jpg">August 17 at 5:56 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-17T05:51:29.757684-05:00.jpg">
-  <img src="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-17T05:51:29.757684-05:00.jpg"
-     alt="Al Dia Dallas at 2022-08-17 05:51:31-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-17T05:51:29.757684-05:00.jpg">August 17 at 5:51 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 56 hyperlink lists with the Internet Archive.
+The archiving routine has saved 58 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 23 at 5:55 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-23T17:55:24.115867-05:00.hyperlinks.json) |
+| [August 23 at 5:57 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-23T05:56:56.667688-05:00.hyperlinks.json) |
 | [August 22 at 5:53 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-22T17:53:33.488311-05:00.hyperlinks.json) |
 | [August 22 at 5:53 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-22T05:53:18.752482-05:00.hyperlinks.json) |
 | [August 21 at 5:52 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-21T17:52:34.704966-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 20 at 5:51 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-20T05:51:42.056103-05:00.hyperlinks.json) |
 | [August 19 at 5:57 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-19T17:57:06.890324-05:00.hyperlinks.json) |
 | [August 19 at 5:55 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-19T05:54:54.271510-05:00.hyperlinks.json) |
-| [August 18 at 5:56 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-18T17:56:40.835494-05:00.hyperlinks.json) |
-| [August 18 at 5:53 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-18T05:53:34.107304-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 57 accessibility trees with the Internet Archive.
+The archiving routine has saved 59 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 23 at 5:55 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-23T17:55:24.115867-05:00.accessibility.json) |
+| [August 23 at 5:57 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-23T05:56:56.667688-05:00.accessibility.json) |
 | [August 22 at 5:53 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-22T17:53:33.488311-05:00.accessibility.json) |
 | [August 22 at 5:53 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-22T05:53:18.752482-05:00.accessibility.json) |
 | [August 21 at 5:52 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-21T17:52:34.704966-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 20 at 5:51 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-20T05:51:42.056103-05:00.accessibility.json) |
 | [August 19 at 5:57 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-19T17:57:06.890324-05:00.accessibility.json) |
 | [August 19 at 5:54 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-19T05:54:54.271510-05:00.accessibility.json) |
-| [August 18 at 5:56 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-18T17:56:40.835494-05:00.accessibility.json) |
-| [August 18 at 5:53 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-18T05:53:34.107304-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 57 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 23 at 5:55 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-23T17:55:24.115867-05:00.lighthouse.json) |
+| [August 23 at 5:57 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-23T05:56:56.667688-05:00.lighthouse.json) |
 | [August 22 at 5:53 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-22T17:53:33.488311-05:00.lighthouse.json) |
 | [August 22 at 5:53 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-22T05:53:18.752482-05:00.lighthouse.json) |
 | [August 21 at 5:52 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-21T17:52:34.704966-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 20 at 5:51 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-20T05:51:42.056103-05:00.lighthouse.json) |
 | [August 19 at 5:57 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-19T17:57:06.890324-05:00.lighthouse.json) |
 | [August 19 at 5:55 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-19T05:54:54.271510-05:00.lighthouse.json) |
-| [August 18 at 5:56 PM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-18T17:56:40.835494-05:00.lighthouse.json) |
-| [August 18 at 5:53 AM](https://archive.org/download/aldiadallas-2022/aldiadallas-2022-08-18T05:53:34.107304-05:00.lighthouse.json) |
 
 
 

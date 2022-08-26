@@ -234,13 +234,123 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 32 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/epochtimes.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-23T19:00:42.354007-04:00.jpg">
+  <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-23T19:00:42.354007-04:00.jpg"
+     alt="Epoch Times at 2022-08-23 19:00:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-23T19:00:42.354007-04:00.jpg">August 23 at 7:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-23T14:35:09.203380-04:00.jpg">
+  <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-23T14:35:09.203380-04:00.jpg"
+     alt="Epoch Times at 2022-08-23 14:35:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-23T14:35:09.203380-04:00.jpg">August 23 at 2:35 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-23T07:01:51.132302-04:00.jpg">
+  <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-23T07:01:51.132302-04:00.jpg"
+     alt="Epoch Times at 2022-08-23 07:01:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-23T07:01:51.132302-04:00.jpg">August 23 at 7:01 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-22T18:59:31.269971-04:00.jpg">
@@ -323,45 +433,104 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-20T06:56:52.013631-04:00.jpg">August 20 at 6:56 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-19T19:03:53.876399-04:00.jpg">
-  <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-19T19:03:53.876399-04:00.jpg"
-     alt="Epoch Times at 2022-08-19 19:03:55-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-19T19:03:53.876399-04:00.jpg">August 19 at 7:03 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-19T14:30:05.524360-04:00.jpg">
-  <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-19T14:30:05.524360-04:00.jpg"
-     alt="Epoch Times at 2022-08-19 14:30:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-19T14:30:05.524360-04:00.jpg">August 19 at 2:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-19T07:00:47.751359-04:00.jpg">
-  <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-19T07:00:47.751359-04:00.jpg"
-     alt="Epoch Times at 2022-08-19 07:00:50-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-19T07:00:47.751359-04:00.jpg">August 19 at 7:00 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 29 hyperlink lists with the Internet Archive.
+The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/epochtimes.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 23 at 7:00 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-23T19:00:42.354007-04:00.hyperlinks.json) |
+| [August 23 at 2:35 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-23T14:35:09.203380-04:00.hyperlinks.json) |
+| [August 23 at 7:01 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-23T07:01:51.132302-04:00.hyperlinks.json) |
 | [August 22 at 6:59 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-22T18:59:31.269971-04:00.hyperlinks.json) |
 | [August 22 at 2:26 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-22T14:26:06.086247-04:00.hyperlinks.json) |
 | [August 22 at 6:59 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-22T06:58:54.321402-04:00.hyperlinks.json) |
@@ -369,21 +538,104 @@ Here are the 10 most recent hyperlink lists.
 | [August 21 at 2:28 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-21T14:28:07.188804-04:00.hyperlinks.json) |
 | [August 21 at 7:02 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-21T07:01:53.802169-04:00.hyperlinks.json) |
 | [August 20 at 7:03 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-20T19:03:23.480148-04:00.hyperlinks.json) |
-| [August 20 at 2:31 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-20T14:31:50.255128-04:00.hyperlinks.json) |
-| [August 20 at 6:56 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-20T06:56:52.013631-04:00.hyperlinks.json) |
-| [August 19 at 7:03 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-19T19:03:53.876399-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 29 accessibility trees with the Internet Archive.
+The archiving routine has saved 32 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/epochtimes.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 23 at 7:00 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-23T19:00:42.354007-04:00.accessibility.json) |
+| [August 23 at 2:35 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-23T14:35:09.203380-04:00.accessibility.json) |
+| [August 23 at 7:01 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-23T07:01:51.132302-04:00.accessibility.json) |
 | [August 22 at 6:59 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-22T18:59:31.269971-04:00.accessibility.json) |
 | [August 22 at 2:26 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-22T14:26:06.086247-04:00.accessibility.json) |
 | [August 22 at 6:58 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-22T06:58:54.321402-04:00.accessibility.json) |
@@ -391,22 +643,105 @@ Here are the 10 most recent accessibility trees.
 | [August 21 at 2:28 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-21T14:28:07.188804-04:00.accessibility.json) |
 | [August 21 at 7:02 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-21T07:01:53.802169-04:00.accessibility.json) |
 | [August 20 at 7:03 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-20T19:03:23.480148-04:00.accessibility.json) |
-| [August 20 at 2:31 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-20T14:31:50.255128-04:00.accessibility.json) |
-| [August 20 at 6:56 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-20T06:56:52.013631-04:00.accessibility.json) |
-| [August 19 at 7:03 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-19T19:03:53.876399-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/epochtimes.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 23 at 7:00 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-23T19:00:42.354007-04:00.lighthouse.json) |
+| [August 23 at 2:35 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-23T14:35:09.203380-04:00.lighthouse.json) |
+| [August 23 at 7:02 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-23T07:01:51.132302-04:00.lighthouse.json) |
 | [August 22 at 6:59 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-22T18:59:31.269971-04:00.lighthouse.json) |
 | [August 22 at 2:26 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-22T14:26:06.086247-04:00.lighthouse.json) |
 | [August 22 at 6:59 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-22T06:58:54.321402-04:00.lighthouse.json) |
@@ -414,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 21 at 2:28 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-21T14:28:07.188804-04:00.lighthouse.json) |
 | [August 21 at 7:02 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-21T07:01:53.802169-04:00.lighthouse.json) |
 | [August 20 at 7:03 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-20T19:03:23.480148-04:00.lighthouse.json) |
-| [August 20 at 2:31 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-20T14:31:50.255128-04:00.lighthouse.json) |
-| [August 20 at 6:56 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-20T06:56:52.013631-04:00.lighthouse.json) |
-| [August 19 at 7:04 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-19T19:03:53.876399-04:00.lighthouse.json) |
 
 
 

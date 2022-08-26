@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 73 screenshots with the Internet Archive.
+The archiving routine has saved 76 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/unichicago-2022/unichicago-2022-08-23T11:20:39.095796-05:00.jpg">
+  <img src="https://archive.org/download/unichicago-2022/unichicago-2022-08-23T11:20:39.095796-05:00.jpg"
+     alt="Univision Chicago at 2022-08-23 11:20:40-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/unichicago-2022/unichicago-2022-08-23T11:20:39.095796-05:00.jpg">August 23 at 11:20 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/unichicago-2022/unichicago-2022-08-23T11:00:53.972482-05:00.jpg">
+  <img src="https://archive.org/download/unichicago-2022/unichicago-2022-08-23T11:00:53.972482-05:00.jpg"
+     alt="Univision Chicago at 2022-08-23 11:00:55-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/unichicago-2022/unichicago-2022-08-23T11:00:53.972482-05:00.jpg">August 23 at 11:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/unichicago-2022/unichicago-2022-08-22T22:59:20.148123-05:00.jpg">
+  <img src="https://archive.org/download/unichicago-2022/unichicago-2022-08-22T22:59:20.148123-05:00.jpg"
+     alt="Univision Chicago at 2022-08-22 22:59:21-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/unichicago-2022/unichicago-2022-08-22T22:59:20.148123-05:00.jpg">August 22 at 10:59 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/unichicago-2022/unichicago-2022-08-22T10:22:23.154310-05:00.jpg">
   <img src="https://archive.org/download/unichicago-2022/unichicago-2022-08-22T10:22:23.154310-05:00.jpg"
      alt="Univision Chicago at 2022-08-22 10:22:27-05:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/unichicago-2022/unichicago-2022-08-19T22:41:41.815876-05:00.jpg">August 19 at 10:41 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/unichicago-2022/unichicago-2022-08-19T10:47:24.800337-05:00.jpg">
-  <img src="https://archive.org/download/unichicago-2022/unichicago-2022-08-19T10:47:24.800337-05:00.jpg"
-     alt="Univision Chicago at 2022-08-19 10:47:25-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/unichicago-2022/unichicago-2022-08-19T10:47:24.800337-05:00.jpg">August 19 at 10:47 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/unichicago-2022/unichicago-2022-08-19T10:34:41.629592-05:00.jpg">
-  <img src="https://archive.org/download/unichicago-2022/unichicago-2022-08-19T10:34:41.629592-05:00.jpg"
-     alt="Univision Chicago at 2022-08-19 10:34:44-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/unichicago-2022/unichicago-2022-08-19T10:34:41.629592-05:00.jpg">August 19 at 10:34 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/unichicago-2022/unichicago-2022-08-19T07:14:04.616808-05:00.jpg">
-  <img src="https://archive.org/download/unichicago-2022/unichicago-2022-08-19T07:14:04.616808-05:00.jpg"
-     alt="Univision Chicago at 2022-08-19 07:14:08-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/unichicago-2022/unichicago-2022-08-19T07:14:04.616808-05:00.jpg">August 19 at 7:14 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 59 hyperlink lists with the Internet Archive.
+The archiving routine has saved 62 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 23 at 11:20 AM](https://archive.org/download/unichicago-2022/unichicago-2022-08-23T11:20:39.095796-05:00.hyperlinks.json) |
+| [August 23 at 11:01 AM](https://archive.org/download/unichicago-2022/unichicago-2022-08-23T11:00:53.972482-05:00.hyperlinks.json) |
+| [August 22 at 10:59 PM](https://archive.org/download/unichicago-2022/unichicago-2022-08-22T22:59:20.148123-05:00.hyperlinks.json) |
 | [August 22 at 10:22 AM](https://archive.org/download/unichicago-2022/unichicago-2022-08-22T10:22:23.154310-05:00.hyperlinks.json) |
 | [August 22 at 10:06 AM](https://archive.org/download/unichicago-2022/unichicago-2022-08-22T10:06:25.490976-05:00.hyperlinks.json) |
 | [August 21 at 10:46 PM](https://archive.org/download/unichicago-2022/unichicago-2022-08-21T22:46:13.129096-05:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 21 at 10:03 AM](https://archive.org/download/unichicago-2022/unichicago-2022-08-21T10:03:29.181793-05:00.hyperlinks.json) |
 | [August 20 at 10:39 PM](https://archive.org/download/unichicago-2022/unichicago-2022-08-20T22:39:46.881904-05:00.hyperlinks.json) |
 | [August 20 at 10:19 AM](https://archive.org/download/unichicago-2022/unichicago-2022-08-20T10:19:51.902204-05:00.hyperlinks.json) |
-| [August 20 at 9:58 AM](https://archive.org/download/unichicago-2022/unichicago-2022-08-20T09:58:48.561560-05:00.hyperlinks.json) |
-| [August 19 at 10:41 PM](https://archive.org/download/unichicago-2022/unichicago-2022-08-19T22:41:41.815876-05:00.hyperlinks.json) |
-| [August 19 at 10:47 AM](https://archive.org/download/unichicago-2022/unichicago-2022-08-19T10:47:24.800337-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 68 accessibility trees with the Internet Archive.
+The archiving routine has saved 71 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 23 at 11:20 AM](https://archive.org/download/unichicago-2022/unichicago-2022-08-23T11:20:39.095796-05:00.accessibility.json) |
+| [August 23 at 11:00 AM](https://archive.org/download/unichicago-2022/unichicago-2022-08-23T11:00:53.972482-05:00.accessibility.json) |
+| [August 22 at 10:59 PM](https://archive.org/download/unichicago-2022/unichicago-2022-08-22T22:59:20.148123-05:00.accessibility.json) |
 | [August 22 at 10:22 AM](https://archive.org/download/unichicago-2022/unichicago-2022-08-22T10:22:23.154310-05:00.accessibility.json) |
 | [August 22 at 10:06 AM](https://archive.org/download/unichicago-2022/unichicago-2022-08-22T10:06:25.490976-05:00.accessibility.json) |
 | [August 21 at 10:46 PM](https://archive.org/download/unichicago-2022/unichicago-2022-08-21T22:46:13.129096-05:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 21 at 10:03 AM](https://archive.org/download/unichicago-2022/unichicago-2022-08-21T10:03:29.181793-05:00.accessibility.json) |
 | [August 20 at 10:39 PM](https://archive.org/download/unichicago-2022/unichicago-2022-08-20T22:39:46.881904-05:00.accessibility.json) |
 | [August 20 at 10:19 AM](https://archive.org/download/unichicago-2022/unichicago-2022-08-20T10:19:51.902204-05:00.accessibility.json) |
-| [August 20 at 9:58 AM](https://archive.org/download/unichicago-2022/unichicago-2022-08-20T09:58:48.561560-05:00.accessibility.json) |
-| [August 19 at 10:41 PM](https://archive.org/download/unichicago-2022/unichicago-2022-08-19T22:41:41.815876-05:00.accessibility.json) |
-| [August 19 at 10:47 AM](https://archive.org/download/unichicago-2022/unichicago-2022-08-19T10:47:24.800337-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 73 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 76 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 23 at 11:20 AM](https://archive.org/download/unichicago-2022/unichicago-2022-08-23T11:20:39.095796-05:00.lighthouse.json) |
+| [August 23 at 11:01 AM](https://archive.org/download/unichicago-2022/unichicago-2022-08-23T11:00:53.972482-05:00.lighthouse.json) |
+| [August 22 at 10:59 PM](https://archive.org/download/unichicago-2022/unichicago-2022-08-22T22:59:20.148123-05:00.lighthouse.json) |
 | [August 22 at 10:22 AM](https://archive.org/download/unichicago-2022/unichicago-2022-08-22T10:22:23.154310-05:00.lighthouse.json) |
 | [August 22 at 10:06 AM](https://archive.org/download/unichicago-2022/unichicago-2022-08-22T10:06:25.490976-05:00.lighthouse.json) |
 | [August 21 at 10:46 PM](https://archive.org/download/unichicago-2022/unichicago-2022-08-21T22:46:13.129096-05:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 21 at 10:03 AM](https://archive.org/download/unichicago-2022/unichicago-2022-08-21T10:03:29.181793-05:00.lighthouse.json) |
 | [August 20 at 10:39 PM](https://archive.org/download/unichicago-2022/unichicago-2022-08-20T22:39:46.881904-05:00.lighthouse.json) |
 | [August 20 at 10:19 AM](https://archive.org/download/unichicago-2022/unichicago-2022-08-20T10:19:51.902204-05:00.lighthouse.json) |
-| [August 20 at 9:58 AM](https://archive.org/download/unichicago-2022/unichicago-2022-08-20T09:58:48.561560-05:00.lighthouse.json) |
-| [August 19 at 10:41 PM](https://archive.org/download/unichicago-2022/unichicago-2022-08-19T22:41:41.815876-05:00.lighthouse.json) |
-| [August 19 at 10:47 AM](https://archive.org/download/unichicago-2022/unichicago-2022-08-19T10:47:24.800337-05:00.lighthouse.json) |
 
 
 

@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 28 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-23T11:58:06.898009-03:00.jpg">
+  <img src="https://archive.org/download/pagina12-2022/pagina12-2022-08-23T11:58:06.898009-03:00.jpg"
+     alt="Página/12 at 2022-08-23 11:58:09-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-23T11:58:06.898009-03:00.jpg">August 23 at 11:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-23T00:54:03.928216-03:00.jpg">
+  <img src="https://archive.org/download/pagina12-2022/pagina12-2022-08-23T00:54:03.928216-03:00.jpg"
+     alt="Página/12 at 2022-08-23 00:54:05-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-23T00:54:03.928216-03:00.jpg">August 23 at 12:54 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-22T12:01:08.256555-03:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-18T12:21:03.730688-03:00.jpg">August 18 at 12:21 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-18T00:42:21.266944-03:00.jpg">
-  <img src="https://archive.org/download/pagina12-2022/pagina12-2022-08-18T00:42:21.266944-03:00.jpg"
-     alt="Página/12 at 2022-08-18 00:42:27-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-18T00:42:21.266944-03:00.jpg">August 18 at 12:42 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-17T12:08:02.422501-03:00.jpg">
-  <img src="https://archive.org/download/pagina12-2022/pagina12-2022-08-17T12:08:02.422501-03:00.jpg"
-     alt="Página/12 at 2022-08-17 12:08:04-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-17T12:08:02.422501-03:00.jpg">August 17 at 12:08 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 24 hyperlink lists with the Internet Archive.
+The archiving routine has saved 25 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 23 at 11:58 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-23T11:58:06.898009-03:00.hyperlinks.json) |
 | [August 22 at 12:01 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-22T12:01:08.256555-03:00.hyperlinks.json) |
 | [August 22 at 12:42 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-22T00:42:10.004531-03:00.hyperlinks.json) |
 | [August 21 at 11:58 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-21T11:58:33.912561-03:00.hyperlinks.json) |
@@ -371,7 +372,6 @@ Here are the 10 most recent hyperlink lists.
 | [August 19 at 12:28 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-19T12:28:28.688360-03:00.hyperlinks.json) |
 | [August 19 at 9:08 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-19T09:08:16.965517-03:00.hyperlinks.json) |
 | [August 19 at 12:39 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-19T00:39:15.619676-03:00.hyperlinks.json) |
-| [August 18 at 12:21 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-18T12:21:03.730688-03:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -399,7 +399,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 23 at 11:58 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-23T11:58:06.898009-03:00.lighthouse.json) |
+| [August 23 at 12:54 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-23T00:54:03.928216-03:00.lighthouse.json) |
 | [August 22 at 12:01 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-22T12:01:08.256555-03:00.lighthouse.json) |
 | [August 22 at 12:42 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-22T00:42:10.004531-03:00.lighthouse.json) |
 | [August 21 at 11:58 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-21T11:58:33.912561-03:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 20 at 12:35 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-20T00:35:30.584397-03:00.lighthouse.json) |
 | [August 19 at 12:28 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-19T12:28:28.688360-03:00.lighthouse.json) |
 | [August 19 at 9:08 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-19T09:08:16.965517-03:00.lighthouse.json) |
-| [August 19 at 12:39 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-19T00:39:15.619676-03:00.lighthouse.json) |
-| [August 18 at 12:21 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-18T12:21:03.730688-03:00.lighthouse.json) |
 
 
 

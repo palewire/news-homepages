@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 41 screenshots with the Internet Archive.
+The archiving routine has saved 43 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/chinatimes-2022/chinatimes-2022-08-23T22:00:09.869439+08:00.jpg">
+  <img src="https://archive.org/download/chinatimes-2022/chinatimes-2022-08-23T22:00:09.869439+08:00.jpg"
+     alt="China Times at 2022-08-23 22:00:11+08:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chinatimes-2022/chinatimes-2022-08-23T22:00:09.869439+08:00.jpg">August 23 at 10:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chinatimes-2022/chinatimes-2022-08-23T09:21:04.805321+08:00.jpg">
+  <img src="https://archive.org/download/chinatimes-2022/chinatimes-2022-08-23T09:21:04.805321+08:00.jpg"
+     alt="China Times at 2022-08-23 09:21:06+08:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chinatimes-2022/chinatimes-2022-08-23T09:21:04.805321+08:00.jpg">August 23 at 9:21 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/chinatimes-2022/chinatimes-2022-08-22T21:03:14.917659+08:00.jpg">
   <img src="https://archive.org/download/chinatimes-2022/chinatimes-2022-08-22T21:03:14.917659+08:00.jpg"
      alt="China Times at 2022-08-22 21:03:17+08:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/chinatimes-2022/chinatimes-2022-08-18T09:13:50.537849+08:00.jpg">August 18 at 9:13 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/chinatimes-2022/chinatimes-2022-08-17T21:07:21.596896+08:00.jpg">
-  <img src="https://archive.org/download/chinatimes-2022/chinatimes-2022-08-17T21:07:21.596896+08:00.jpg"
-     alt="China Times at 2022-08-17 21:07:23+08:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chinatimes-2022/chinatimes-2022-08-17T21:07:21.596896+08:00.jpg">August 17 at 9:07 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/chinatimes-2022/chinatimes-2022-08-17T09:20:30.220608+08:00.jpg">
-  <img src="https://archive.org/download/chinatimes-2022/chinatimes-2022-08-17T09:20:30.220608+08:00.jpg"
-     alt="China Times at 2022-08-17 09:20:32+08:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chinatimes-2022/chinatimes-2022-08-17T09:20:30.220608+08:00.jpg">August 17 at 9:20 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 42 hyperlink lists with the Internet Archive.
+The archiving routine has saved 44 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 23 at 10:00 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-23T22:00:09.869439+08:00.hyperlinks.json) |
+| [August 23 at 9:21 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-23T09:21:04.805321+08:00.hyperlinks.json) |
 | [August 22 at 9:03 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-22T21:03:14.917659+08:00.hyperlinks.json) |
 | [August 22 at 9:13 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-22T09:13:40.643004+08:00.hyperlinks.json) |
 | [August 21 at 9:06 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-21T21:06:39.776783+08:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 20 at 9:13 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-20T09:13:14.444095+08:00.hyperlinks.json) |
 | [August 19 at 9:19 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-19T21:18:55.487370+08:00.hyperlinks.json) |
 | [August 19 at 9:19 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-19T09:19:04.214773+08:00.hyperlinks.json) |
-| [August 18 at 9:00 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-18T20:59:59.894808+08:00.hyperlinks.json) |
-| [August 18 at 9:13 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-18T09:13:50.537849+08:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 42 accessibility trees with the Internet Archive.
+The archiving routine has saved 44 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 23 at 10:00 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-23T22:00:09.869439+08:00.accessibility.json) |
+| [August 23 at 9:21 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-23T09:21:04.805321+08:00.accessibility.json) |
 | [August 22 at 9:03 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-22T21:03:14.917659+08:00.accessibility.json) |
 | [August 22 at 9:13 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-22T09:13:40.643004+08:00.accessibility.json) |
 | [August 21 at 9:06 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-21T21:06:39.776783+08:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 20 at 9:13 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-20T09:13:14.444095+08:00.accessibility.json) |
 | [August 19 at 9:19 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-19T21:18:55.487370+08:00.accessibility.json) |
 | [August 19 at 9:19 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-19T09:19:04.214773+08:00.accessibility.json) |
-| [August 18 at 9:00 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-18T20:59:59.894808+08:00.accessibility.json) |
-| [August 18 at 9:13 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-18T09:13:50.537849+08:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 42 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 23 at 10:00 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-23T22:00:09.869439+08:00.lighthouse.json) |
+| [August 23 at 9:21 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-23T09:21:04.805321+08:00.lighthouse.json) |
 | [August 22 at 9:03 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-22T21:03:14.917659+08:00.lighthouse.json) |
 | [August 22 at 9:13 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-22T09:13:40.643004+08:00.lighthouse.json) |
 | [August 21 at 9:06 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-21T21:06:39.776783+08:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 20 at 9:13 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-20T09:13:14.444095+08:00.lighthouse.json) |
 | [August 19 at 9:19 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-19T21:18:55.487370+08:00.lighthouse.json) |
 | [August 19 at 9:19 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-19T09:19:04.214773+08:00.lighthouse.json) |
-| [August 18 at 9:00 PM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-18T20:59:59.894808+08:00.lighthouse.json) |
-| [August 18 at 9:13 AM](https://archive.org/download/chinatimes-2022/chinatimes-2022-08-18T09:13:50.537849+08:00.lighthouse.json) |
 
 
 

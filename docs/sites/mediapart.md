@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 85 screenshots with the Internet Archive.
+The archiving routine has saved 88 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/mediapart-2022/mediapart-2022-08-24T01:46:13.562295+02:00.jpg">
+  <img src="https://archive.org/download/mediapart-2022/mediapart-2022-08-24T01:46:13.562295+02:00.jpg"
+     alt="Mediapart at 2022-08-24 01:46:15+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-08-24T01:46:13.562295+02:00.jpg">August 24 at 1:46 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mediapart-2022/mediapart-2022-08-23T13:59:27.313897+02:00.jpg">
+  <img src="https://archive.org/download/mediapart-2022/mediapart-2022-08-23T13:59:27.313897+02:00.jpg"
+     alt="Mediapart at 2022-08-23 13:59:31+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-08-23T13:59:27.313897+02:00.jpg">August 23 at 1:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mediapart-2022/mediapart-2022-08-23T10:14:42.791059+02:00.jpg">
+  <img src="https://archive.org/download/mediapart-2022/mediapart-2022-08-23T10:14:42.791059+02:00.jpg"
+     alt="Mediapart at 2022-08-23 10:14:44+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-08-23T10:14:42.791059+02:00.jpg">August 23 at 10:14 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/mediapart-2022/mediapart-2022-08-23T02:00:14.273655+02:00.jpg">
   <img src="https://archive.org/download/mediapart-2022/mediapart-2022-08-23T02:00:14.273655+02:00.jpg"
      alt="Mediapart at 2022-08-23 02:00:19+02:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-08-20T10:13:25.378208+02:00.jpg">August 20 at 10:13 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mediapart-2022/mediapart-2022-08-20T01:54:49.607297+02:00.jpg">
-  <img src="https://archive.org/download/mediapart-2022/mediapart-2022-08-20T01:54:49.607297+02:00.jpg"
-     alt="Mediapart at 2022-08-20 01:54:51+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-08-20T01:54:49.607297+02:00.jpg">August 20 at 1:54 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mediapart-2022/mediapart-2022-08-19T16:21:58.640999+02:00.jpg">
-  <img src="https://archive.org/download/mediapart-2022/mediapart-2022-08-19T16:21:58.640999+02:00.jpg"
-     alt="Mediapart at 2022-08-19 16:22:00+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-08-19T16:21:58.640999+02:00.jpg">August 19 at 4:22 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mediapart-2022/mediapart-2022-08-19T14:02:47.437018+02:00.jpg">
-  <img src="https://archive.org/download/mediapart-2022/mediapart-2022-08-19T14:02:47.437018+02:00.jpg"
-     alt="Mediapart at 2022-08-19 14:02:49+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mediapart-2022/mediapart-2022-08-19T14:02:47.437018+02:00.jpg">August 19 at 2:02 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 85 hyperlink lists with the Internet Archive.
+The archiving routine has saved 88 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 24 at 1:46 AM](https://archive.org/download/mediapart-2022/mediapart-2022-08-24T01:46:13.562295+02:00.hyperlinks.json) |
+| [August 23 at 1:59 PM](https://archive.org/download/mediapart-2022/mediapart-2022-08-23T13:59:27.313897+02:00.hyperlinks.json) |
+| [August 23 at 10:14 AM](https://archive.org/download/mediapart-2022/mediapart-2022-08-23T10:14:42.791059+02:00.hyperlinks.json) |
 | [August 23 at 2:00 AM](https://archive.org/download/mediapart-2022/mediapart-2022-08-23T02:00:14.273655+02:00.hyperlinks.json) |
 | [August 22 at 1:59 PM](https://archive.org/download/mediapart-2022/mediapart-2022-08-22T13:59:28.615290+02:00.hyperlinks.json) |
 | [August 22 at 10:14 AM](https://archive.org/download/mediapart-2022/mediapart-2022-08-22T10:13:54.960045+02:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 21 at 2:02 PM](https://archive.org/download/mediapart-2022/mediapart-2022-08-21T14:01:59.981956+02:00.hyperlinks.json) |
 | [August 21 at 10:12 AM](https://archive.org/download/mediapart-2022/mediapart-2022-08-21T10:12:36.343873+02:00.hyperlinks.json) |
 | [August 21 at 1:55 AM](https://archive.org/download/mediapart-2022/mediapart-2022-08-21T01:55:20.123207+02:00.hyperlinks.json) |
-| [August 20 at 1:58 PM](https://archive.org/download/mediapart-2022/mediapart-2022-08-20T13:58:18.975843+02:00.hyperlinks.json) |
-| [August 20 at 10:13 AM](https://archive.org/download/mediapart-2022/mediapart-2022-08-20T10:13:25.378208+02:00.hyperlinks.json) |
-| [August 20 at 1:54 AM](https://archive.org/download/mediapart-2022/mediapart-2022-08-20T01:54:49.607297+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 85 accessibility trees with the Internet Archive.
+The archiving routine has saved 88 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 24 at 1:46 AM](https://archive.org/download/mediapart-2022/mediapart-2022-08-24T01:46:13.562295+02:00.accessibility.json) |
+| [August 23 at 1:59 PM](https://archive.org/download/mediapart-2022/mediapart-2022-08-23T13:59:27.313897+02:00.accessibility.json) |
+| [August 23 at 10:14 AM](https://archive.org/download/mediapart-2022/mediapart-2022-08-23T10:14:42.791059+02:00.accessibility.json) |
 | [August 23 at 2:00 AM](https://archive.org/download/mediapart-2022/mediapart-2022-08-23T02:00:14.273655+02:00.accessibility.json) |
 | [August 22 at 1:59 PM](https://archive.org/download/mediapart-2022/mediapart-2022-08-22T13:59:28.615290+02:00.accessibility.json) |
 | [August 22 at 10:13 AM](https://archive.org/download/mediapart-2022/mediapart-2022-08-22T10:13:54.960045+02:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 21 at 2:02 PM](https://archive.org/download/mediapart-2022/mediapart-2022-08-21T14:01:59.981956+02:00.accessibility.json) |
 | [August 21 at 10:12 AM](https://archive.org/download/mediapart-2022/mediapart-2022-08-21T10:12:36.343873+02:00.accessibility.json) |
 | [August 21 at 1:55 AM](https://archive.org/download/mediapart-2022/mediapart-2022-08-21T01:55:20.123207+02:00.accessibility.json) |
-| [August 20 at 1:58 PM](https://archive.org/download/mediapart-2022/mediapart-2022-08-20T13:58:18.975843+02:00.accessibility.json) |
-| [August 20 at 10:13 AM](https://archive.org/download/mediapart-2022/mediapart-2022-08-20T10:13:25.378208+02:00.accessibility.json) |
-| [August 20 at 1:54 AM](https://archive.org/download/mediapart-2022/mediapart-2022-08-20T01:54:49.607297+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 85 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 88 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 24 at 1:46 AM](https://archive.org/download/mediapart-2022/mediapart-2022-08-24T01:46:13.562295+02:00.lighthouse.json) |
+| [August 23 at 1:59 PM](https://archive.org/download/mediapart-2022/mediapart-2022-08-23T13:59:27.313897+02:00.lighthouse.json) |
+| [August 23 at 10:14 AM](https://archive.org/download/mediapart-2022/mediapart-2022-08-23T10:14:42.791059+02:00.lighthouse.json) |
 | [August 23 at 2:00 AM](https://archive.org/download/mediapart-2022/mediapart-2022-08-23T02:00:14.273655+02:00.lighthouse.json) |
 | [August 22 at 1:59 PM](https://archive.org/download/mediapart-2022/mediapart-2022-08-22T13:59:28.615290+02:00.lighthouse.json) |
 | [August 22 at 10:14 AM](https://archive.org/download/mediapart-2022/mediapart-2022-08-22T10:13:54.960045+02:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 21 at 2:02 PM](https://archive.org/download/mediapart-2022/mediapart-2022-08-21T14:01:59.981956+02:00.lighthouse.json) |
 | [August 21 at 10:12 AM](https://archive.org/download/mediapart-2022/mediapart-2022-08-21T10:12:36.343873+02:00.lighthouse.json) |
 | [August 21 at 1:55 AM](https://archive.org/download/mediapart-2022/mediapart-2022-08-21T01:55:20.123207+02:00.lighthouse.json) |
-| [August 20 at 1:58 PM](https://archive.org/download/mediapart-2022/mediapart-2022-08-20T13:58:18.975843+02:00.lighthouse.json) |
-| [August 20 at 10:13 AM](https://archive.org/download/mediapart-2022/mediapart-2022-08-20T10:13:25.378208+02:00.lighthouse.json) |
-| [August 20 at 1:54 AM](https://archive.org/download/mediapart-2022/mediapart-2022-08-20T01:54:49.607297+02:00.lighthouse.json) |
 
 
 

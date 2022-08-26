@@ -234,13 +234,40 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 14 screenshots with the Internet Archive.
+The archiving routine has saved 17 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lrb-2022/lrb-2022-08-24T00:45:54.723908+01:00.jpg">
+  <img src="https://archive.org/download/lrb-2022/lrb-2022-08-24T00:45:54.723908+01:00.jpg"
+     alt="London Review of Books at 2022-08-24 00:45:56+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lrb-2022/lrb-2022-08-24T00:45:54.723908+01:00.jpg">August 24 at 12:45 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lrb-2022/lrb-2022-08-23T12:57:56.707927+01:00.jpg">
+  <img src="https://archive.org/download/lrb-2022/lrb-2022-08-23T12:57:56.707927+01:00.jpg"
+     alt="London Review of Books at 2022-08-23 12:57:58+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lrb-2022/lrb-2022-08-23T12:57:56.707927+01:00.jpg">August 23 at 12:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lrb-2022/lrb-2022-08-23T10:14:42.289363+01:00.jpg">
+  <img src="https://archive.org/download/lrb-2022/lrb-2022-08-23T10:14:42.289363+01:00.jpg"
+     alt="London Review of Books at 2022-08-23 10:14:43+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lrb-2022/lrb-2022-08-23T10:14:42.289363+01:00.jpg">August 23 at 10:14 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lrb-2022/lrb-2022-08-23T00:59:54.590520+01:00.jpg">
@@ -323,38 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lrb-2022/lrb-2022-08-20T10:12:59.744085+01:00.jpg">August 20 at 10:13 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lrb-2022/lrb-2022-08-20T00:54:54.995130+01:00.jpg">
-  <img src="https://archive.org/download/lrb-2022/lrb-2022-08-20T00:54:54.995130+01:00.jpg"
-     alt="London Review of Books at 2022-08-20 00:54:55+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lrb-2022/lrb-2022-08-20T00:54:54.995130+01:00.jpg">August 20 at 12:54 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lrb-2022/lrb-2022-08-19T15:20:18.453307+01:00.jpg">
-  <img src="https://archive.org/download/lrb-2022/lrb-2022-08-19T15:20:18.453307+01:00.jpg"
-     alt="London Review of Books at 2022-08-19 15:20:21+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lrb-2022/lrb-2022-08-19T15:20:18.453307+01:00.jpg">August 19 at 3:20 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lrb-2022/lrb-2022-08-19T13:02:08.236040+01:00.jpg">
-  <img src="https://archive.org/download/lrb-2022/lrb-2022-08-19T13:02:08.236040+01:00.jpg"
-     alt="London Review of Books at 2022-08-19 13:02:10+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lrb-2022/lrb-2022-08-19T13:02:08.236040+01:00.jpg">August 19 at 1:02 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 14 hyperlink lists with the Internet Archive.
+The archiving routine has saved 17 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 24 at 12:46 AM](https://archive.org/download/lrb-2022/lrb-2022-08-24T00:45:54.723908+01:00.hyperlinks.json) |
+| [August 23 at 12:58 PM](https://archive.org/download/lrb-2022/lrb-2022-08-23T12:57:56.707927+01:00.hyperlinks.json) |
+| [August 23 at 10:14 AM](https://archive.org/download/lrb-2022/lrb-2022-08-23T10:14:42.289363+01:00.hyperlinks.json) |
 | [August 23 at 12:59 AM](https://archive.org/download/lrb-2022/lrb-2022-08-23T00:59:54.590520+01:00.hyperlinks.json) |
 | [August 22 at 12:59 PM](https://archive.org/download/lrb-2022/lrb-2022-08-22T12:59:25.837476+01:00.hyperlinks.json) |
 | [August 22 at 10:15 AM](https://archive.org/download/lrb-2022/lrb-2022-08-22T10:14:57.086201+01:00.hyperlinks.json) |
@@ -369,14 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 21 at 1:01 PM](https://archive.org/download/lrb-2022/lrb-2022-08-21T13:01:32.835409+01:00.hyperlinks.json) |
 | [August 21 at 10:12 AM](https://archive.org/download/lrb-2022/lrb-2022-08-21T10:12:31.793848+01:00.hyperlinks.json) |
 | [August 21 at 12:55 AM](https://archive.org/download/lrb-2022/lrb-2022-08-21T00:54:57.945666+01:00.hyperlinks.json) |
-| [August 20 at 12:58 PM](https://archive.org/download/lrb-2022/lrb-2022-08-20T12:58:03.325173+01:00.hyperlinks.json) |
-| [August 20 at 10:13 AM](https://archive.org/download/lrb-2022/lrb-2022-08-20T10:12:59.744085+01:00.hyperlinks.json) |
-| [August 20 at 12:54 AM](https://archive.org/download/lrb-2022/lrb-2022-08-20T00:54:54.995130+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 14 accessibility trees with the Internet Archive.
+The archiving routine has saved 17 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 24 at 12:45 AM](https://archive.org/download/lrb-2022/lrb-2022-08-24T00:45:54.723908+01:00.accessibility.json) |
+| [August 23 at 12:58 PM](https://archive.org/download/lrb-2022/lrb-2022-08-23T12:57:56.707927+01:00.accessibility.json) |
+| [August 23 at 10:14 AM](https://archive.org/download/lrb-2022/lrb-2022-08-23T10:14:42.289363+01:00.accessibility.json) |
 | [August 23 at 12:59 AM](https://archive.org/download/lrb-2022/lrb-2022-08-23T00:59:54.590520+01:00.accessibility.json) |
 | [August 22 at 12:59 PM](https://archive.org/download/lrb-2022/lrb-2022-08-22T12:59:25.837476+01:00.accessibility.json) |
 | [August 22 at 10:15 AM](https://archive.org/download/lrb-2022/lrb-2022-08-22T10:14:57.086201+01:00.accessibility.json) |
@@ -391,15 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [August 21 at 1:01 PM](https://archive.org/download/lrb-2022/lrb-2022-08-21T13:01:32.835409+01:00.accessibility.json) |
 | [August 21 at 10:12 AM](https://archive.org/download/lrb-2022/lrb-2022-08-21T10:12:31.793848+01:00.accessibility.json) |
 | [August 21 at 12:55 AM](https://archive.org/download/lrb-2022/lrb-2022-08-21T00:54:57.945666+01:00.accessibility.json) |
-| [August 20 at 12:58 PM](https://archive.org/download/lrb-2022/lrb-2022-08-20T12:58:03.325173+01:00.accessibility.json) |
-| [August 20 at 10:13 AM](https://archive.org/download/lrb-2022/lrb-2022-08-20T10:12:59.744085+01:00.accessibility.json) |
-| [August 20 at 12:54 AM](https://archive.org/download/lrb-2022/lrb-2022-08-20T00:54:54.995130+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 24 at 12:46 AM](https://archive.org/download/lrb-2022/lrb-2022-08-24T00:45:54.723908+01:00.lighthouse.json) |
+| [August 23 at 12:58 PM](https://archive.org/download/lrb-2022/lrb-2022-08-23T12:57:56.707927+01:00.lighthouse.json) |
+| [August 23 at 10:14 AM](https://archive.org/download/lrb-2022/lrb-2022-08-23T10:14:42.289363+01:00.lighthouse.json) |
 | [August 23 at 1:00 AM](https://archive.org/download/lrb-2022/lrb-2022-08-23T00:59:54.590520+01:00.lighthouse.json) |
 | [August 22 at 12:59 PM](https://archive.org/download/lrb-2022/lrb-2022-08-22T12:59:25.837476+01:00.lighthouse.json) |
 | [August 22 at 10:15 AM](https://archive.org/download/lrb-2022/lrb-2022-08-22T10:14:57.086201+01:00.lighthouse.json) |
@@ -414,9 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 21 at 1:01 PM](https://archive.org/download/lrb-2022/lrb-2022-08-21T13:01:32.835409+01:00.lighthouse.json) |
 | [August 21 at 10:12 AM](https://archive.org/download/lrb-2022/lrb-2022-08-21T10:12:31.793848+01:00.lighthouse.json) |
 | [August 21 at 12:55 AM](https://archive.org/download/lrb-2022/lrb-2022-08-21T00:54:57.945666+01:00.lighthouse.json) |
-| [August 20 at 12:58 PM](https://archive.org/download/lrb-2022/lrb-2022-08-20T12:58:03.325173+01:00.lighthouse.json) |
-| [August 20 at 10:13 AM](https://archive.org/download/lrb-2022/lrb-2022-08-20T10:12:59.744085+01:00.lighthouse.json) |
-| [August 20 at 12:55 AM](https://archive.org/download/lrb-2022/lrb-2022-08-20T00:54:54.995130+01:00.lighthouse.json) |
 
 
 

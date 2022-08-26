@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 45 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-23T12:06:04.394279-04:00.jpg">
+  <img src="https://archive.org/download/statejournal-2022/statejournal-2022-08-23T12:06:04.394279-04:00.jpg"
+     alt="Frankfort State Journal at 2022-08-23 12:06:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-23T12:06:04.394279-04:00.jpg">August 23 at 12:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-22T23:58:09.217979-04:00.jpg">
+  <img src="https://archive.org/download/statejournal-2022/statejournal-2022-08-22T23:58:09.217979-04:00.jpg"
+     alt="Frankfort State Journal at 2022-08-22 23:58:15-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-22T23:58:09.217979-04:00.jpg">August 22 at 11:58 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-22T11:03:52.046626-04:00.jpg">
   <img src="https://archive.org/download/statejournal-2022/statejournal-2022-08-22T11:03:52.046626-04:00.jpg"
      alt="Frankfort State Journal at 2022-08-22 11:03:54-04:00 local time"
@@ -413,24 +431,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-18T11:28:47.742488-04:00.jpg">August 18 at 11:28 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-17T23:45:42.728727-04:00.jpg">
-  <img src="https://archive.org/download/statejournal-2022/statejournal-2022-08-17T23:45:42.728727-04:00.jpg"
-     alt="Frankfort State Journal at 2022-08-17 23:45:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-17T23:45:42.728727-04:00.jpg">August 17 at 11:45 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-17T11:11:37.236097-04:00.jpg">
-  <img src="https://archive.org/download/statejournal-2022/statejournal-2022-08-17T11:11:37.236097-04:00.jpg"
-     alt="Frankfort State Journal at 2022-08-17 11:11:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-17T11:11:37.236097-04:00.jpg">August 17 at 11:11 AM</a></p>
 </div>
 
 </div>
@@ -542,7 +542,7 @@ Here are the 10 most recent hyperlink lists.
 
 ### Accessibility
 
-The archiving routine has saved 36 accessibility trees with the Internet Archive.
+The archiving routine has saved 37 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 22 at 11:58 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-22T23:58:09.217979-04:00.accessibility.json) |
 | [August 21 at 11:01 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-21T11:01:36.521643-04:00.accessibility.json) |
 | [August 20 at 10:57 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-20T10:57:26.607826-04:00.accessibility.json) |
 | [August 19 at 11:38 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-19T23:38:31.236206-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 17 at 11:45 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-17T23:45:42.728727-04:00.accessibility.json) |
 | [August 16 at 11:45 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-16T23:45:23.663780-04:00.accessibility.json) |
 | [August 16 at 2:45 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-16T14:45:44.823011-04:00.accessibility.json) |
-| [August 16 at 2:51 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-16T02:51:41.696798-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 23 at 12:06 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-23T12:06:04.394279-04:00.lighthouse.json) |
 | [August 22 at 11:03 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-22T11:03:52.046626-04:00.lighthouse.json) |
 | [August 21 at 11:44 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-21T23:44:48.452430-04:00.lighthouse.json) |
 | [August 21 at 11:01 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-21T11:01:36.521643-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 19 at 11:32 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-19T11:32:09.062526-04:00.lighthouse.json) |
 | [August 19 at 8:12 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-19T08:12:31.242308-04:00.lighthouse.json) |
 | [August 18 at 11:44 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-18T23:44:30.137757-04:00.lighthouse.json) |
-| [August 18 at 11:28 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-18T11:28:47.742488-04:00.lighthouse.json) |
 
 
 
