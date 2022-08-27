@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 323 screenshots with the Internet Archive.
+The archiving routine has saved 327 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-26T03:01:37.847410+03:00.jpg">
+  <img src="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-26T03:01:37.847410+03:00.jpg"
+     alt="hromadske at 2022-08-26 03:01:39+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-26T03:01:37.847410+03:00.jpg">August 26 at 3:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-25T15:00:51.941186+03:00.jpg">
+  <img src="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-25T15:00:51.941186+03:00.jpg"
+     alt="hromadske at 2022-08-25 15:00:58+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-25T15:00:51.941186+03:00.jpg">August 25 at 3:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-25T02:53:52.624705+03:00.jpg">
+  <img src="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-25T02:53:52.624705+03:00.jpg"
+     alt="hromadske at 2022-08-25 02:53:54+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-25T02:53:52.624705+03:00.jpg">August 25 at 2:53 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-24T14:51:37.820385+03:00.jpg">
+  <img src="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-24T14:51:37.820385+03:00.jpg"
+     alt="hromadske at 2022-08-24 14:51:39+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-24T14:51:37.820385+03:00.jpg">August 24 at 2:51 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-24T02:42:43.032632+03:00.jpg">
   <img src="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-24T02:42:43.032632+03:00.jpg"
      alt="hromadske at 2022-08-24 02:42:44+03:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-20T13:58:39.557046+03:00.jpg">August 20 at 1:58 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-20T02:04:55.451636+03:00.jpg">
-  <img src="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-20T02:04:55.451636+03:00.jpg"
-     alt="hromadske at 2022-08-20 02:04:57+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-20T02:04:55.451636+03:00.jpg">August 20 at 2:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-19T14:02:15.060540+03:00.jpg">
-  <img src="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-19T14:02:15.060540+03:00.jpg"
-     alt="hromadske at 2022-08-19 14:02:16+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-19T14:02:15.060540+03:00.jpg">August 19 at 2:02 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-19T02:04:34.320032+03:00.jpg">
-  <img src="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-19T02:04:34.320032+03:00.jpg"
-     alt="hromadske at 2022-08-19 02:04:36+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-19T02:04:34.320032+03:00.jpg">August 19 at 2:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-18T14:01:08.673296+03:00.jpg">
-  <img src="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-18T14:01:08.673296+03:00.jpg"
-     alt="hromadske at 2022-08-18 14:01:16+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-18T14:01:08.673296+03:00.jpg">August 18 at 2:01 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 307 hyperlink lists with the Internet Archive.
+The archiving routine has saved 311 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 26 at 3:01 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-26T03:01:37.847410+03:00.hyperlinks.json) |
+| [August 25 at 3:01 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-25T15:00:51.941186+03:00.hyperlinks.json) |
+| [August 25 at 2:53 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-25T02:53:52.624705+03:00.hyperlinks.json) |
+| [August 24 at 2:51 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-24T14:51:37.820385+03:00.hyperlinks.json) |
 | [August 24 at 2:42 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-24T02:42:43.032632+03:00.hyperlinks.json) |
 | [August 23 at 2:56 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-23T14:56:28.433485+03:00.hyperlinks.json) |
 | [August 23 at 2:58 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-23T02:58:33.958864+03:00.hyperlinks.json) |
 | [August 22 at 2:56 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-22T14:56:21.002880+03:00.hyperlinks.json) |
 | [August 22 at 2:52 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-22T02:52:51.047016+03:00.hyperlinks.json) |
 | [August 21 at 2:58 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-21T14:58:43.067389+03:00.hyperlinks.json) |
-| [August 21 at 2:52 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-21T02:52:44.683397+03:00.hyperlinks.json) |
-| [August 20 at 1:58 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-20T13:58:39.557046+03:00.hyperlinks.json) |
-| [August 20 at 2:05 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-20T02:04:55.451636+03:00.hyperlinks.json) |
-| [August 19 at 2:02 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-19T14:02:15.060540+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 309 accessibility trees with the Internet Archive.
+The archiving routine has saved 313 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 26 at 3:01 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-26T03:01:37.847410+03:00.accessibility.json) |
+| [August 25 at 3:01 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-25T15:00:51.941186+03:00.accessibility.json) |
+| [August 25 at 2:53 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-25T02:53:52.624705+03:00.accessibility.json) |
+| [August 24 at 2:51 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-24T14:51:37.820385+03:00.accessibility.json) |
 | [August 24 at 2:42 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-24T02:42:43.032632+03:00.accessibility.json) |
 | [August 23 at 2:56 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-23T14:56:28.433485+03:00.accessibility.json) |
 | [August 23 at 2:58 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-23T02:58:33.958864+03:00.accessibility.json) |
 | [August 22 at 2:56 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-22T14:56:21.002880+03:00.accessibility.json) |
 | [August 22 at 2:52 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-22T02:52:51.047016+03:00.accessibility.json) |
 | [August 21 at 2:58 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-21T14:58:43.067389+03:00.accessibility.json) |
-| [August 21 at 2:52 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-21T02:52:44.683397+03:00.accessibility.json) |
-| [August 20 at 1:58 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-20T13:58:39.557046+03:00.accessibility.json) |
-| [August 20 at 2:04 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-20T02:04:55.451636+03:00.accessibility.json) |
-| [August 19 at 2:02 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-19T14:02:15.060540+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 63 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 67 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 26 at 3:01 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-26T03:01:37.847410+03:00.lighthouse.json) |
+| [August 25 at 3:01 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-25T15:00:51.941186+03:00.lighthouse.json) |
+| [August 25 at 2:54 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-25T02:53:52.624705+03:00.lighthouse.json) |
+| [August 24 at 2:51 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-24T14:51:37.820385+03:00.lighthouse.json) |
 | [August 24 at 2:42 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-24T02:42:43.032632+03:00.lighthouse.json) |
 | [August 23 at 2:56 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-23T14:56:28.433485+03:00.lighthouse.json) |
 | [August 23 at 2:58 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-23T02:58:33.958864+03:00.lighthouse.json) |
 | [August 22 at 2:56 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-22T14:56:21.002880+03:00.lighthouse.json) |
 | [August 22 at 2:53 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-22T02:52:51.047016+03:00.lighthouse.json) |
 | [August 21 at 2:58 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-21T14:58:43.067389+03:00.lighthouse.json) |
-| [August 21 at 2:52 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-21T02:52:44.683397+03:00.lighthouse.json) |
-| [August 20 at 1:58 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-20T13:58:39.557046+03:00.lighthouse.json) |
-| [August 20 at 2:05 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-20T02:04:55.451636+03:00.lighthouse.json) |
-| [August 19 at 2:02 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-08-19T14:02:15.060540+03:00.lighthouse.json) |
 
 
 

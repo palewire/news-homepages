@@ -7,7 +7,7 @@ orphan: true
 
 # United States of America
 
-The most recent homepages from 609 news sites in this country.
+The most recent homepages from 610 news sites in this country.
 
 <div class="latest-parent">
 
@@ -279,6 +279,15 @@ The most recent homepages from 609 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/alternet.html">AlterNet</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/amerindependent.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/amerindependent.jpg"
+     alt="American Independent"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/amerindependent.html">American Independent</a></p>
 </div>
 
 <div class="latest-child">
@@ -5536,6 +5545,7 @@ The most recent homepages from 609 news sites in this country.
 |[All in Her Head](https://palewi.re/docs/news-homepages/sites/jessicavalenti.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jessicavalenti.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/jessicavalenti.xml)|
 |[Alligator](https://palewi.re/docs/news-homepages/sites/thealligator.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thealligator.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thealligator.xml)|
 |[AlterNet](https://palewi.re/docs/news-homepages/sites/alternet.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/alternet.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/alternet.xml)|
+|[American Independent](https://palewi.re/docs/news-homepages/sites/amerindependent.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/amerindependent.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/amerindependent.xml)|
 |[American Prospect](https://palewi.re/docs/news-homepages/sites/theprospect.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theprospect.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theprospect.xml)|
 |[Ames Tribune](https://palewi.re/docs/news-homepages/sites/amestribnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/amestribnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/amestribnews.xml)|
 |[Andscape](https://palewi.re/docs/news-homepages/sites/andscape.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/andscape.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/andscape.xml)|

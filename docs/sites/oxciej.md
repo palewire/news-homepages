@@ -28,13 +28,40 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 2 screenshots with the Internet Archive.
+The archiving routine has saved 5 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-25T15:03:03.435534+02:00.jpg">
+  <img src="https://archive.org/download/oxciej-2022/oxciej-2022-08-25T15:03:03.435534+02:00.jpg"
+     alt="Oxpeckers at 2022-08-25 15:03:05+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-25T15:03:03.435534+02:00.jpg">August 25 at 3:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-24T14:55:21.425689+02:00.jpg">
+  <img src="https://archive.org/download/oxciej-2022/oxciej-2022-08-24T14:55:21.425689+02:00.jpg"
+     alt="Oxpeckers at 2022-08-24 14:55:22+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-24T14:55:21.425689+02:00.jpg">August 24 at 2:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-24T03:08:07.117232+02:00.jpg">
+  <img src="https://archive.org/download/oxciej-2022/oxciej-2022-08-24T03:08:07.117232+02:00.jpg"
+     alt="Oxpeckers at 2022-08-24 03:08:08+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-24T03:08:07.117232+02:00.jpg">August 24 at 3:08 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-23T14:54:46.458646+02:00.jpg">
@@ -58,7 +85,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 2 hyperlink lists with the Internet Archive.
+The archiving routine has saved 5 hyperlink lists with the Internet Archive.
 
 
 
@@ -66,13 +93,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 25 at 3:03 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-25T15:03:03.435534+02:00.hyperlinks.json) |
+| [August 24 at 2:55 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-24T14:55:21.425689+02:00.hyperlinks.json) |
+| [August 24 at 3:08 AM](https://archive.org/download/oxciej-2022/oxciej-2022-08-24T03:08:07.117232+02:00.hyperlinks.json) |
 | [August 23 at 2:54 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-23T14:54:46.458646+02:00.hyperlinks.json) |
 | [August 23 at 2:01 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-23T14:01:22.917608+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 2 accessibility trees with the Internet Archive.
+The archiving routine has saved 5 accessibility trees with the Internet Archive.
 
 
 
@@ -80,6 +110,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 25 at 3:03 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-25T15:03:03.435534+02:00.accessibility.json) |
+| [August 24 at 2:55 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-24T14:55:21.425689+02:00.accessibility.json) |
+| [August 24 at 3:08 AM](https://archive.org/download/oxciej-2022/oxciej-2022-08-24T03:08:07.117232+02:00.accessibility.json) |
 | [August 23 at 2:54 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-23T14:54:46.458646+02:00.accessibility.json) |
 | [August 23 at 2:01 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-23T14:01:22.917608+02:00.accessibility.json) |
 
@@ -87,7 +120,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 2 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 5 Lighthouse audits with the Internet Archive.
 
 
 
@@ -95,6 +128,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 25 at 3:03 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-25T15:03:03.435534+02:00.lighthouse.json) |
+| [August 24 at 2:55 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-24T14:55:21.425689+02:00.lighthouse.json) |
+| [August 24 at 3:08 AM](https://archive.org/download/oxciej-2022/oxciej-2022-08-24T03:08:07.117232+02:00.lighthouse.json) |
 | [August 23 at 2:54 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-23T14:54:46.458646+02:00.lighthouse.json) |
 | [August 23 at 2:01 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-23T14:01:22.917608+02:00.lighthouse.json) |
 

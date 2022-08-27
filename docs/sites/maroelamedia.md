@@ -28,13 +28,40 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 3 screenshots with the Internet Archive.
+The archiving routine has saved 6 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-08-25T17:02:59.252052+02:00.jpg">
+  <img src="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-08-25T17:02:59.252052+02:00.jpg"
+     alt="Maroela Media at 2022-08-25 17:03:01+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-08-25T17:02:59.252052+02:00.jpg">August 25 at 5:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-08-24T17:02:23.325897+02:00.jpg">
+  <img src="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-08-24T17:02:23.325897+02:00.jpg"
+     alt="Maroela Media at 2022-08-24 17:02:25+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-08-24T17:02:23.325897+02:00.jpg">August 24 at 5:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-08-24T05:41:06.752801+02:00.jpg">
+  <img src="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-08-24T05:41:06.752801+02:00.jpg"
+     alt="Maroela Media at 2022-08-24 05:41:13+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-08-24T05:41:06.752801+02:00.jpg">August 24 at 5:41 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-08-23T16:55:48.556997+02:00.jpg">
@@ -67,7 +94,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 3 hyperlink lists with the Internet Archive.
+The archiving routine has saved 6 hyperlink lists with the Internet Archive.
 
 
 
@@ -75,6 +102,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 25 at 5:03 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-08-25T17:02:59.252052+02:00.hyperlinks.json) |
+| [August 24 at 5:02 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-08-24T17:02:23.325897+02:00.hyperlinks.json) |
+| [August 24 at 5:41 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-08-24T05:41:06.752801+02:00.hyperlinks.json) |
 | [August 23 at 4:55 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-08-23T16:55:48.556997+02:00.hyperlinks.json) |
 | [August 23 at 4:30 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-08-23T04:30:23.219551+02:00.hyperlinks.json) |
 | [August 23 at 12:03 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-08-23T00:03:08.538296+02:00.hyperlinks.json) |
@@ -82,7 +112,7 @@ Here are the 10 most recent hyperlink lists.
 
 ### Accessibility
 
-The archiving routine has saved 3 accessibility trees with the Internet Archive.
+The archiving routine has saved 6 accessibility trees with the Internet Archive.
 
 
 
@@ -90,6 +120,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 25 at 5:03 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-08-25T17:02:59.252052+02:00.accessibility.json) |
+| [August 24 at 5:02 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-08-24T17:02:23.325897+02:00.accessibility.json) |
+| [August 24 at 5:41 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-08-24T05:41:06.752801+02:00.accessibility.json) |
 | [August 23 at 4:55 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-08-23T16:55:48.556997+02:00.accessibility.json) |
 | [August 23 at 4:30 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-08-23T04:30:23.219551+02:00.accessibility.json) |
 | [August 23 at 12:03 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-08-23T00:03:08.538296+02:00.accessibility.json) |
@@ -98,7 +131,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 3 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 6 Lighthouse audits with the Internet Archive.
 
 
 
@@ -106,6 +139,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 25 at 5:03 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-08-25T17:02:59.252052+02:00.lighthouse.json) |
+| [August 24 at 5:02 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-08-24T17:02:23.325897+02:00.lighthouse.json) |
+| [August 24 at 5:41 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-08-24T05:41:06.752801+02:00.lighthouse.json) |
 | [August 23 at 4:55 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-08-23T16:55:48.556997+02:00.lighthouse.json) |
 | [August 23 at 4:30 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-08-23T04:30:23.219551+02:00.lighthouse.json) |
 | [August 23 at 12:03 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-08-23T00:03:08.538296+02:00.lighthouse.json) |

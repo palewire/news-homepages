@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 93 screenshots with the Internet Archive.
+The archiving routine has saved 97 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-08-25T18:49:53.610697-04:00.jpg">
+  <img src="https://archive.org/download/appalachia100-2022/appalachia100-2022-08-25T18:49:53.610697-04:00.jpg"
+     alt="100 Days in Appalachia at 2022-08-25 18:49:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-08-25T18:49:53.610697-04:00.jpg">August 25 at 6:49 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-08-25T06:53:18.187190-04:00.jpg">
+  <img src="https://archive.org/download/appalachia100-2022/appalachia100-2022-08-25T06:53:18.187190-04:00.jpg"
+     alt="100 Days in Appalachia at 2022-08-25 06:53:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-08-25T06:53:18.187190-04:00.jpg">August 25 at 6:53 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-08-24T18:52:28.338993-04:00.jpg">
+  <img src="https://archive.org/download/appalachia100-2022/appalachia100-2022-08-24T18:52:28.338993-04:00.jpg"
+     alt="100 Days in Appalachia at 2022-08-24 18:52:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-08-24T18:52:28.338993-04:00.jpg">August 24 at 6:52 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-08-24T06:45:15.224946-04:00.jpg">
+  <img src="https://archive.org/download/appalachia100-2022/appalachia100-2022-08-24T06:45:15.224946-04:00.jpg"
+     alt="100 Days in Appalachia at 2022-08-24 06:45:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-08-24T06:45:15.224946-04:00.jpg">August 24 at 6:45 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-08-23T18:56:18.694637-04:00.jpg">
   <img src="https://archive.org/download/appalachia100-2022/appalachia100-2022-08-23T18:56:18.694637-04:00.jpg"
      alt="100 Days in Appalachia at 2022-08-23 18:56:23-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-08-20T06:51:33.788955-04:00.jpg">August 20 at 6:51 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-08-19T18:57:57.558249-04:00.jpg">
-  <img src="https://archive.org/download/appalachia100-2022/appalachia100-2022-08-19T18:57:57.558249-04:00.jpg"
-     alt="100 Days in Appalachia at 2022-08-19 18:57:59-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-08-19T18:57:57.558249-04:00.jpg">August 19 at 6:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-08-19T06:55:04.688593-04:00.jpg">
-  <img src="https://archive.org/download/appalachia100-2022/appalachia100-2022-08-19T06:55:04.688593-04:00.jpg"
-     alt="100 Days in Appalachia at 2022-08-19 06:55:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-08-19T06:55:04.688593-04:00.jpg">August 19 at 6:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-08-18T18:56:53.720159-04:00.jpg">
-  <img src="https://archive.org/download/appalachia100-2022/appalachia100-2022-08-18T18:56:53.720159-04:00.jpg"
-     alt="100 Days in Appalachia at 2022-08-18 18:56:55-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-08-18T18:56:53.720159-04:00.jpg">August 18 at 6:56 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-08-18T06:53:35.000246-04:00.jpg">
-  <img src="https://archive.org/download/appalachia100-2022/appalachia100-2022-08-18T06:53:35.000246-04:00.jpg"
-     alt="100 Days in Appalachia at 2022-08-18 06:53:38-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/appalachia100-2022/appalachia100-2022-08-18T06:53:35.000246-04:00.jpg">August 18 at 6:53 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 93 hyperlink lists with the Internet Archive.
+The archiving routine has saved 97 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 25 at 6:50 PM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-25T18:49:53.610697-04:00.hyperlinks.json) |
+| [August 25 at 6:53 AM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-25T06:53:18.187190-04:00.hyperlinks.json) |
+| [August 24 at 6:52 PM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-24T18:52:28.338993-04:00.hyperlinks.json) |
+| [August 24 at 6:45 AM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-24T06:45:15.224946-04:00.hyperlinks.json) |
 | [August 23 at 6:56 PM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-23T18:56:18.694637-04:00.hyperlinks.json) |
 | [August 23 at 6:57 AM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-23T06:56:56.694098-04:00.hyperlinks.json) |
 | [August 22 at 6:53 PM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-22T18:53:37.450465-04:00.hyperlinks.json) |
 | [August 22 at 6:54 AM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-22T06:54:09.651531-04:00.hyperlinks.json) |
 | [August 21 at 6:52 PM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-21T18:52:02.023805-04:00.hyperlinks.json) |
 | [August 21 at 6:56 AM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-21T06:56:43.649700-04:00.hyperlinks.json) |
-| [August 20 at 6:58 PM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-20T18:58:04.840103-04:00.hyperlinks.json) |
-| [August 20 at 6:51 AM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-20T06:51:33.788955-04:00.hyperlinks.json) |
-| [August 19 at 6:58 PM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-19T18:57:57.558249-04:00.hyperlinks.json) |
-| [August 19 at 6:55 AM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-19T06:55:04.688593-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 93 accessibility trees with the Internet Archive.
+The archiving routine has saved 97 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 25 at 6:49 PM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-25T18:49:53.610697-04:00.accessibility.json) |
+| [August 25 at 6:53 AM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-25T06:53:18.187190-04:00.accessibility.json) |
+| [August 24 at 6:52 PM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-24T18:52:28.338993-04:00.accessibility.json) |
+| [August 24 at 6:45 AM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-24T06:45:15.224946-04:00.accessibility.json) |
 | [August 23 at 6:56 PM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-23T18:56:18.694637-04:00.accessibility.json) |
 | [August 23 at 6:57 AM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-23T06:56:56.694098-04:00.accessibility.json) |
 | [August 22 at 6:53 PM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-22T18:53:37.450465-04:00.accessibility.json) |
 | [August 22 at 6:54 AM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-22T06:54:09.651531-04:00.accessibility.json) |
 | [August 21 at 6:52 PM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-21T18:52:02.023805-04:00.accessibility.json) |
 | [August 21 at 6:56 AM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-21T06:56:43.649700-04:00.accessibility.json) |
-| [August 20 at 6:58 PM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-20T18:58:04.840103-04:00.accessibility.json) |
-| [August 20 at 6:51 AM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-20T06:51:33.788955-04:00.accessibility.json) |
-| [August 19 at 6:58 PM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-19T18:57:57.558249-04:00.accessibility.json) |
-| [August 19 at 6:55 AM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-19T06:55:04.688593-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 63 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 67 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 25 at 6:50 PM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-25T18:49:53.610697-04:00.lighthouse.json) |
+| [August 25 at 6:53 AM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-25T06:53:18.187190-04:00.lighthouse.json) |
+| [August 24 at 6:52 PM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-24T18:52:28.338993-04:00.lighthouse.json) |
+| [August 24 at 6:45 AM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-24T06:45:15.224946-04:00.lighthouse.json) |
 | [August 23 at 6:56 PM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-23T18:56:18.694637-04:00.lighthouse.json) |
 | [August 23 at 6:57 AM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-23T06:56:56.694098-04:00.lighthouse.json) |
 | [August 22 at 6:53 PM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-22T18:53:37.450465-04:00.lighthouse.json) |
 | [August 22 at 6:54 AM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-22T06:54:09.651531-04:00.lighthouse.json) |
 | [August 21 at 6:52 PM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-21T18:52:02.023805-04:00.lighthouse.json) |
 | [August 21 at 6:56 AM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-21T06:56:43.649700-04:00.lighthouse.json) |
-| [August 20 at 6:58 PM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-20T18:58:04.840103-04:00.lighthouse.json) |
-| [August 20 at 6:51 AM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-20T06:51:33.788955-04:00.lighthouse.json) |
-| [August 19 at 6:58 PM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-19T18:57:57.558249-04:00.lighthouse.json) |
-| [August 19 at 6:55 AM](https://archive.org/download/appalachia100-2022/appalachia100-2022-08-19T06:55:04.688593-04:00.lighthouse.json) |
 
 
 

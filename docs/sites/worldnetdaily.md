@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 112 screenshots with the Internet Archive.
+The archiving routine has saved 117 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,51 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-25T14:28:44.067987-04:00.jpg">
+  <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-25T14:28:44.067987-04:00.jpg"
+     alt="WND News at 2022-08-25 14:28:45-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-25T14:28:44.067987-04:00.jpg">August 25 at 2:28 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-25T12:08:07.830333-04:00.jpg">
+  <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-25T12:08:07.830333-04:00.jpg"
+     alt="WND News at 2022-08-25 12:08:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-25T12:08:07.830333-04:00.jpg">August 25 at 12:08 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-24T14:37:02.216260-04:00.jpg">
+  <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-24T14:37:02.216260-04:00.jpg"
+     alt="WND News at 2022-08-24 14:37:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-24T14:37:02.216260-04:00.jpg">August 24 at 2:37 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-24T12:05:20.633282-04:00.jpg">
+  <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-24T12:05:20.633282-04:00.jpg"
+     alt="WND News at 2022-08-24 12:05:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-24T12:05:20.633282-04:00.jpg">August 24 at 12:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-24T00:40:09.302249-04:00.jpg">
+  <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-24T00:40:09.302249-04:00.jpg"
+     alt="WND News at 2022-08-24 00:40:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-24T00:40:09.302249-04:00.jpg">August 24 at 12:40 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-23T14:35:07.524324-04:00.jpg">
   <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-23T14:35:07.524324-04:00.jpg"
      alt="WND News at 2022-08-23 14:35:09-04:00 local time"
@@ -388,56 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-21T14:29:14.362844-04:00.jpg">August 21 at 2:29 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-21T11:04:25.347461-04:00.jpg">
-  <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-21T11:04:25.347461-04:00.jpg"
-     alt="WND News at 2022-08-21 11:04:30-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-21T11:04:25.347461-04:00.jpg">August 21 at 11:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-20T23:41:01.553785-04:00.jpg">
-  <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-20T23:41:01.553785-04:00.jpg"
-     alt="WND News at 2022-08-20 23:41:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-20T23:41:01.553785-04:00.jpg">August 20 at 11:41 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-20T14:32:08.641195-04:00.jpg">
-  <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-20T14:32:08.641195-04:00.jpg"
-     alt="WND News at 2022-08-20 14:32:09-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-20T14:32:08.641195-04:00.jpg">August 20 at 2:32 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-20T11:00:18.582149-04:00.jpg">
-  <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-20T11:00:18.582149-04:00.jpg"
-     alt="WND News at 2022-08-20 11:00:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-20T11:00:18.582149-04:00.jpg">August 20 at 11:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-19T23:42:32.970845-04:00.jpg">
-  <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-19T23:42:32.970845-04:00.jpg"
-     alt="WND News at 2022-08-19 23:42:34-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-19T23:42:32.970845-04:00.jpg">August 19 at 11:42 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 106 hyperlink lists with the Internet Archive.
+The archiving routine has saved 111 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 25 at 2:28 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-25T14:28:44.067987-04:00.hyperlinks.json) |
+| [August 25 at 12:08 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-25T12:08:07.830333-04:00.hyperlinks.json) |
+| [August 24 at 2:37 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-24T14:37:02.216260-04:00.hyperlinks.json) |
+| [August 24 at 12:05 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-24T12:05:20.633282-04:00.hyperlinks.json) |
+| [August 24 at 12:40 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-24T00:40:09.302249-04:00.hyperlinks.json) |
 | [August 23 at 2:35 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-23T14:35:07.524324-04:00.hyperlinks.json) |
 | [August 23 at 12:09 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-23T12:09:31.325236-04:00.hyperlinks.json) |
 | [August 23 at 12:00 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-23T00:00:54.023771-04:00.hyperlinks.json) |
 | [August 22 at 2:27 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-22T14:26:56.687583-04:00.hyperlinks.json) |
 | [August 22 at 11:07 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-22T11:07:33.461403-04:00.hyperlinks.json) |
-| [August 21 at 11:47 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-21T23:47:39.005800-04:00.hyperlinks.json) |
-| [August 21 at 2:29 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-21T14:29:14.362844-04:00.hyperlinks.json) |
-| [August 21 at 11:04 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-21T11:04:25.347461-04:00.hyperlinks.json) |
-| [August 20 at 11:41 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-20T23:41:01.553785-04:00.hyperlinks.json) |
-| [August 20 at 2:32 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-20T14:32:08.641195-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 109 accessibility trees with the Internet Archive.
+The archiving routine has saved 114 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 25 at 2:28 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-25T14:28:44.067987-04:00.accessibility.json) |
+| [August 25 at 12:08 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-25T12:08:07.830333-04:00.accessibility.json) |
+| [August 24 at 2:37 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-24T14:37:02.216260-04:00.accessibility.json) |
+| [August 24 at 12:05 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-24T12:05:20.633282-04:00.accessibility.json) |
+| [August 24 at 12:40 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-24T00:40:09.302249-04:00.accessibility.json) |
 | [August 23 at 2:35 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-23T14:35:07.524324-04:00.accessibility.json) |
 | [August 23 at 12:09 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-23T12:09:31.325236-04:00.accessibility.json) |
 | [August 23 at 12:00 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-23T00:00:54.023771-04:00.accessibility.json) |
 | [August 22 at 2:27 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-22T14:26:56.687583-04:00.accessibility.json) |
 | [August 22 at 11:07 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-22T11:07:33.461403-04:00.accessibility.json) |
-| [August 21 at 11:47 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-21T23:47:39.005800-04:00.accessibility.json) |
-| [August 21 at 2:29 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-21T14:29:14.362844-04:00.accessibility.json) |
-| [August 21 at 11:04 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-21T11:04:25.347461-04:00.accessibility.json) |
-| [August 20 at 11:41 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-20T23:41:01.553785-04:00.accessibility.json) |
-| [August 20 at 2:32 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-20T14:32:08.641195-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 93 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 25 at 2:28 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-25T14:28:44.067987-04:00.lighthouse.json) |
+| [August 25 at 12:08 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-25T12:08:07.830333-04:00.lighthouse.json) |
+| [August 24 at 2:37 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-24T14:37:02.216260-04:00.lighthouse.json) |
+| [August 24 at 12:05 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-24T12:05:20.633282-04:00.lighthouse.json) |
+| [August 24 at 12:40 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-24T00:40:09.302249-04:00.lighthouse.json) |
 | [August 23 at 2:35 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-23T14:35:07.524324-04:00.lighthouse.json) |
 | [August 23 at 12:09 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-23T12:09:31.325236-04:00.lighthouse.json) |
 | [August 23 at 12:00 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-23T00:00:54.023771-04:00.lighthouse.json) |
 | [August 22 at 2:27 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-22T14:26:56.687583-04:00.lighthouse.json) |
 | [August 22 at 11:07 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-22T11:07:33.461403-04:00.lighthouse.json) |
-| [August 21 at 11:47 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-21T23:47:39.005800-04:00.lighthouse.json) |
-| [August 21 at 2:29 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-21T14:29:14.362844-04:00.lighthouse.json) |
-| [August 21 at 11:04 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-21T11:04:25.347461-04:00.lighthouse.json) |
-| [August 20 at 11:41 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-20T23:41:01.553785-04:00.lighthouse.json) |
-| [August 20 at 2:32 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-20T14:32:08.641195-04:00.lighthouse.json) |
 
 
 

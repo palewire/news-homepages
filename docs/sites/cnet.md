@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 118 screenshots with the Internet Archive.
+The archiving routine has saved 122 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/cnet-2022/cnet-2022-08-25T15:53:51.114954-07:00.jpg">
+  <img src="https://archive.org/download/cnet-2022/cnet-2022-08-25T15:53:51.114954-07:00.jpg"
+     alt="CNET at 2022-08-25 15:53:55-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnet-2022/cnet-2022-08-25T15:53:51.114954-07:00.jpg">August 25 at 3:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnet-2022/cnet-2022-08-25T03:56:49.077191-07:00.jpg">
+  <img src="https://archive.org/download/cnet-2022/cnet-2022-08-25T03:56:49.077191-07:00.jpg"
+     alt="CNET at 2022-08-25 03:56:51-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnet-2022/cnet-2022-08-25T03:56:49.077191-07:00.jpg">August 25 at 3:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnet-2022/cnet-2022-08-24T15:56:23.513335-07:00.jpg">
+  <img src="https://archive.org/download/cnet-2022/cnet-2022-08-24T15:56:23.513335-07:00.jpg"
+     alt="CNET at 2022-08-24 15:56:28-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnet-2022/cnet-2022-08-24T15:56:23.513335-07:00.jpg">August 24 at 3:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnet-2022/cnet-2022-08-24T03:49:20.806220-07:00.jpg">
+  <img src="https://archive.org/download/cnet-2022/cnet-2022-08-24T03:49:20.806220-07:00.jpg"
+     alt="CNET at 2022-08-24 03:49:24-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnet-2022/cnet-2022-08-24T03:49:20.806220-07:00.jpg">August 24 at 3:49 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/cnet-2022/cnet-2022-08-23T15:58:48.994692-07:00.jpg">
   <img src="https://archive.org/download/cnet-2022/cnet-2022-08-23T15:58:48.994692-07:00.jpg"
      alt="CNET at 2022-08-23 15:58:51-07:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cnet-2022/cnet-2022-08-20T03:55:15.685546-07:00.jpg">August 20 at 3:55 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cnet-2022/cnet-2022-08-19T16:00:47.822292-07:00.jpg">
-  <img src="https://archive.org/download/cnet-2022/cnet-2022-08-19T16:00:47.822292-07:00.jpg"
-     alt="CNET at 2022-08-19 16:01:00-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cnet-2022/cnet-2022-08-19T16:00:47.822292-07:00.jpg">August 19 at 4:01 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cnet-2022/cnet-2022-08-19T03:59:00.638984-07:00.jpg">
-  <img src="https://archive.org/download/cnet-2022/cnet-2022-08-19T03:59:00.638984-07:00.jpg"
-     alt="CNET at 2022-08-19 03:59:04-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cnet-2022/cnet-2022-08-19T03:59:00.638984-07:00.jpg">August 19 at 3:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cnet-2022/cnet-2022-08-18T16:00:55.609489-07:00.jpg">
-  <img src="https://archive.org/download/cnet-2022/cnet-2022-08-18T16:00:55.609489-07:00.jpg"
-     alt="CNET at 2022-08-18 16:01:00-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cnet-2022/cnet-2022-08-18T16:00:55.609489-07:00.jpg">August 18 at 4:01 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cnet-2022/cnet-2022-08-18T03:57:52.259229-07:00.jpg">
-  <img src="https://archive.org/download/cnet-2022/cnet-2022-08-18T03:57:52.259229-07:00.jpg"
-     alt="CNET at 2022-08-18 03:57:55-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cnet-2022/cnet-2022-08-18T03:57:52.259229-07:00.jpg">August 18 at 3:57 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 115 hyperlink lists with the Internet Archive.
+The archiving routine has saved 119 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 25 at 3:53 PM](https://archive.org/download/cnet-2022/cnet-2022-08-25T15:53:51.114954-07:00.hyperlinks.json) |
+| [August 25 at 3:56 AM](https://archive.org/download/cnet-2022/cnet-2022-08-25T03:56:49.077191-07:00.hyperlinks.json) |
+| [August 24 at 3:56 PM](https://archive.org/download/cnet-2022/cnet-2022-08-24T15:56:23.513335-07:00.hyperlinks.json) |
+| [August 24 at 3:49 AM](https://archive.org/download/cnet-2022/cnet-2022-08-24T03:49:20.806220-07:00.hyperlinks.json) |
 | [August 23 at 3:58 PM](https://archive.org/download/cnet-2022/cnet-2022-08-23T15:58:48.994692-07:00.hyperlinks.json) |
 | [August 23 at 4:00 AM](https://archive.org/download/cnet-2022/cnet-2022-08-23T04:00:03.747523-07:00.hyperlinks.json) |
 | [August 22 at 3:57 PM](https://archive.org/download/cnet-2022/cnet-2022-08-22T15:57:31.694134-07:00.hyperlinks.json) |
 | [August 22 at 3:56 AM](https://archive.org/download/cnet-2022/cnet-2022-08-22T03:56:49.885391-07:00.hyperlinks.json) |
 | [August 21 at 3:55 PM](https://archive.org/download/cnet-2022/cnet-2022-08-21T15:55:07.018374-07:00.hyperlinks.json) |
 | [August 21 at 4:00 AM](https://archive.org/download/cnet-2022/cnet-2022-08-21T03:59:54.651019-07:00.hyperlinks.json) |
-| [August 20 at 4:01 PM](https://archive.org/download/cnet-2022/cnet-2022-08-20T16:01:41.234768-07:00.hyperlinks.json) |
-| [August 20 at 3:55 AM](https://archive.org/download/cnet-2022/cnet-2022-08-20T03:55:15.685546-07:00.hyperlinks.json) |
-| [August 19 at 4:01 PM](https://archive.org/download/cnet-2022/cnet-2022-08-19T16:00:47.822292-07:00.hyperlinks.json) |
-| [August 19 at 3:59 AM](https://archive.org/download/cnet-2022/cnet-2022-08-19T03:59:00.638984-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 118 accessibility trees with the Internet Archive.
+The archiving routine has saved 122 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 25 at 3:53 PM](https://archive.org/download/cnet-2022/cnet-2022-08-25T15:53:51.114954-07:00.accessibility.json) |
+| [August 25 at 3:56 AM](https://archive.org/download/cnet-2022/cnet-2022-08-25T03:56:49.077191-07:00.accessibility.json) |
+| [August 24 at 3:56 PM](https://archive.org/download/cnet-2022/cnet-2022-08-24T15:56:23.513335-07:00.accessibility.json) |
+| [August 24 at 3:49 AM](https://archive.org/download/cnet-2022/cnet-2022-08-24T03:49:20.806220-07:00.accessibility.json) |
 | [August 23 at 3:58 PM](https://archive.org/download/cnet-2022/cnet-2022-08-23T15:58:48.994692-07:00.accessibility.json) |
 | [August 23 at 4:00 AM](https://archive.org/download/cnet-2022/cnet-2022-08-23T04:00:03.747523-07:00.accessibility.json) |
 | [August 22 at 3:57 PM](https://archive.org/download/cnet-2022/cnet-2022-08-22T15:57:31.694134-07:00.accessibility.json) |
 | [August 22 at 3:56 AM](https://archive.org/download/cnet-2022/cnet-2022-08-22T03:56:49.885391-07:00.accessibility.json) |
 | [August 21 at 3:55 PM](https://archive.org/download/cnet-2022/cnet-2022-08-21T15:55:07.018374-07:00.accessibility.json) |
 | [August 21 at 4:00 AM](https://archive.org/download/cnet-2022/cnet-2022-08-21T03:59:54.651019-07:00.accessibility.json) |
-| [August 20 at 4:01 PM](https://archive.org/download/cnet-2022/cnet-2022-08-20T16:01:41.234768-07:00.accessibility.json) |
-| [August 20 at 3:55 AM](https://archive.org/download/cnet-2022/cnet-2022-08-20T03:55:15.685546-07:00.accessibility.json) |
-| [August 19 at 4:01 PM](https://archive.org/download/cnet-2022/cnet-2022-08-19T16:00:47.822292-07:00.accessibility.json) |
-| [August 19 at 3:59 AM](https://archive.org/download/cnet-2022/cnet-2022-08-19T03:59:00.638984-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 63 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 67 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 25 at 3:54 PM](https://archive.org/download/cnet-2022/cnet-2022-08-25T15:53:51.114954-07:00.lighthouse.json) |
+| [August 25 at 3:56 AM](https://archive.org/download/cnet-2022/cnet-2022-08-25T03:56:49.077191-07:00.lighthouse.json) |
+| [August 24 at 3:56 PM](https://archive.org/download/cnet-2022/cnet-2022-08-24T15:56:23.513335-07:00.lighthouse.json) |
+| [August 24 at 3:49 AM](https://archive.org/download/cnet-2022/cnet-2022-08-24T03:49:20.806220-07:00.lighthouse.json) |
 | [August 23 at 3:58 PM](https://archive.org/download/cnet-2022/cnet-2022-08-23T15:58:48.994692-07:00.lighthouse.json) |
 | [August 23 at 4:00 AM](https://archive.org/download/cnet-2022/cnet-2022-08-23T04:00:03.747523-07:00.lighthouse.json) |
 | [August 22 at 3:57 PM](https://archive.org/download/cnet-2022/cnet-2022-08-22T15:57:31.694134-07:00.lighthouse.json) |
 | [August 22 at 3:57 AM](https://archive.org/download/cnet-2022/cnet-2022-08-22T03:56:49.885391-07:00.lighthouse.json) |
 | [August 21 at 3:55 PM](https://archive.org/download/cnet-2022/cnet-2022-08-21T15:55:07.018374-07:00.lighthouse.json) |
 | [August 21 at 4:00 AM](https://archive.org/download/cnet-2022/cnet-2022-08-21T03:59:54.651019-07:00.lighthouse.json) |
-| [August 20 at 4:01 PM](https://archive.org/download/cnet-2022/cnet-2022-08-20T16:01:41.234768-07:00.lighthouse.json) |
-| [August 20 at 3:55 AM](https://archive.org/download/cnet-2022/cnet-2022-08-20T03:55:15.685546-07:00.lighthouse.json) |
-| [August 19 at 4:01 PM](https://archive.org/download/cnet-2022/cnet-2022-08-19T16:00:47.822292-07:00.lighthouse.json) |
-| [August 19 at 3:59 AM](https://archive.org/download/cnet-2022/cnet-2022-08-19T03:59:00.638984-07:00.lighthouse.json) |
 
 
 

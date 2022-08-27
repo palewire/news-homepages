@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 384 screenshots with the Internet Archive.
+The archiving routine has saved 393 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,87 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-25T18:45:18.889847-04:00.jpg">
+  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-25T18:45:18.889847-04:00.jpg"
+     alt="The Baltimore Sun at 2022-08-25 18:45:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-25T18:45:18.889847-04:00.jpg">August 25 at 6:45 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-25T12:12:00.205876-04:00.jpg">
+  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-25T12:12:00.205876-04:00.jpg"
+     alt="The Baltimore Sun at 2022-08-25 12:12:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-25T12:12:00.205876-04:00.jpg">August 25 at 12:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-25T10:51:45.138385-04:00.jpg">
+  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-25T10:51:45.138385-04:00.jpg"
+     alt="The Baltimore Sun at 2022-08-25 10:51:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-25T10:51:45.138385-04:00.jpg">August 25 at 10:51 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-25T06:49:19.227453-04:00.jpg">
+  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-25T06:49:19.227453-04:00.jpg"
+     alt="The Baltimore Sun at 2022-08-25 06:49:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-25T06:49:19.227453-04:00.jpg">August 25 at 6:49 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-24T18:48:05.650428-04:00.jpg">
+  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-24T18:48:05.650428-04:00.jpg"
+     alt="The Baltimore Sun at 2022-08-24 18:48:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-24T18:48:05.650428-04:00.jpg">August 24 at 6:48 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-24T12:10:59.622716-04:00.jpg">
+  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-24T12:10:59.622716-04:00.jpg"
+     alt="The Baltimore Sun at 2022-08-24 12:11:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-24T12:10:59.622716-04:00.jpg">August 24 at 12:11 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-24T09:57:56.036966-04:00.jpg">
+  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-24T09:57:56.036966-04:00.jpg"
+     alt="The Baltimore Sun at 2022-08-24 09:57:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-24T09:57:56.036966-04:00.jpg">August 24 at 9:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-24T06:43:12.290254-04:00.jpg">
+  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-24T06:43:12.290254-04:00.jpg"
+     alt="The Baltimore Sun at 2022-08-24 06:43:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-24T06:43:12.290254-04:00.jpg">August 24 at 6:43 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-23T22:14:44.718918-04:00.jpg">
+  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-23T22:14:44.718918-04:00.jpg"
+     alt="The Baltimore Sun at 2022-08-23 22:14:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-23T22:14:44.718918-04:00.jpg">August 23 at 10:14 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-23T18:47:22.908480-04:00.jpg">
   <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-23T18:47:22.908480-04:00.jpg"
      alt="The Baltimore Sun at 2022-08-23 18:47:25-04:00 local time"
@@ -352,92 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-23T09:58:51.842652-04:00.jpg">August 23 at 9:59 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-23T06:50:57.321582-04:00.jpg">
-  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-23T06:50:57.321582-04:00.jpg"
-     alt="The Baltimore Sun at 2022-08-23 06:51:15-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-23T06:50:57.321582-04:00.jpg">August 23 at 6:51 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T21:20:08.636397-04:00.jpg">
-  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T21:20:08.636397-04:00.jpg"
-     alt="The Baltimore Sun at 2022-08-22 21:20:18-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T21:20:08.636397-04:00.jpg">August 22 at 9:20 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T18:50:23.887484-04:00.jpg">
-  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T18:50:23.887484-04:00.jpg"
-     alt="The Baltimore Sun at 2022-08-22 18:50:49-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T18:50:23.887484-04:00.jpg">August 22 at 6:50 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T12:09:17.405349-04:00.jpg">
-  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T12:09:17.405349-04:00.jpg"
-     alt="The Baltimore Sun at 2022-08-22 12:09:22-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T12:09:17.405349-04:00.jpg">August 22 at 12:09 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T09:01:24.141601-04:00.jpg">
-  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T09:01:24.141601-04:00.jpg"
-     alt="The Baltimore Sun at 2022-08-22 09:01:26-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T09:01:24.141601-04:00.jpg">August 22 at 9:01 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T06:49:43.274079-04:00.jpg">
-  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T06:49:43.274079-04:00.jpg"
-     alt="The Baltimore Sun at 2022-08-22 06:50:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T06:49:43.274079-04:00.jpg">August 22 at 6:50 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-21T21:12:14.979177-04:00.jpg">
-  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-21T21:12:14.979177-04:00.jpg"
-     alt="The Baltimore Sun at 2022-08-21 21:12:16-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-21T21:12:14.979177-04:00.jpg">August 21 at 9:12 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-21T18:49:26.598768-04:00.jpg">
-  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-21T18:49:26.598768-04:00.jpg"
-     alt="The Baltimore Sun at 2022-08-21 18:49:37-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-21T18:49:26.598768-04:00.jpg">August 21 at 6:49 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-21T12:09:01.702379-04:00.jpg">
-  <img src="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-21T12:09:01.702379-04:00.jpg"
-     alt="The Baltimore Sun at 2022-08-21 12:09:03-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-21T12:09:01.702379-04:00.jpg">August 21 at 12:09 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 364 hyperlink lists with the Internet Archive.
+The archiving routine has saved 372 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 25 at 6:45 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-25T18:45:18.889847-04:00.hyperlinks.json) |
+| [August 25 at 12:12 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-25T12:12:00.205876-04:00.hyperlinks.json) |
+| [August 25 at 10:51 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-25T10:51:45.138385-04:00.hyperlinks.json) |
+| [August 25 at 6:49 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-25T06:49:19.227453-04:00.hyperlinks.json) |
+| [August 24 at 6:48 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-24T18:48:05.650428-04:00.hyperlinks.json) |
+| [August 24 at 12:11 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-24T12:10:59.622716-04:00.hyperlinks.json) |
+| [August 24 at 9:58 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-24T09:57:56.036966-04:00.hyperlinks.json) |
+| [August 23 at 10:14 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-23T22:14:44.718918-04:00.hyperlinks.json) |
 | [August 23 at 6:47 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-23T18:47:22.908480-04:00.hyperlinks.json) |
 | [August 23 at 9:59 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-23T09:58:51.842652-04:00.hyperlinks.json) |
-| [August 23 at 6:51 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-23T06:50:57.321582-04:00.hyperlinks.json) |
-| [August 22 at 9:20 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T21:20:08.636397-04:00.hyperlinks.json) |
-| [August 22 at 6:50 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T18:50:23.887484-04:00.hyperlinks.json) |
-| [August 22 at 12:09 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T12:09:17.405349-04:00.hyperlinks.json) |
-| [August 22 at 9:01 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T09:01:24.141601-04:00.hyperlinks.json) |
-| [August 22 at 6:50 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T06:49:43.274079-04:00.hyperlinks.json) |
-| [August 21 at 9:12 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-21T21:12:14.979177-04:00.hyperlinks.json) |
-| [August 21 at 12:09 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-21T12:09:01.702379-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 384 accessibility trees with the Internet Archive.
+The archiving routine has saved 393 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 25 at 6:45 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-25T18:45:18.889847-04:00.accessibility.json) |
+| [August 25 at 12:12 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-25T12:12:00.205876-04:00.accessibility.json) |
+| [August 25 at 10:51 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-25T10:51:45.138385-04:00.accessibility.json) |
+| [August 25 at 6:49 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-25T06:49:19.227453-04:00.accessibility.json) |
+| [August 24 at 6:48 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-24T18:48:05.650428-04:00.accessibility.json) |
+| [August 24 at 12:11 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-24T12:10:59.622716-04:00.accessibility.json) |
+| [August 24 at 9:57 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-24T09:57:56.036966-04:00.accessibility.json) |
+| [August 24 at 6:43 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-24T06:43:12.290254-04:00.accessibility.json) |
+| [August 23 at 10:14 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-23T22:14:44.718918-04:00.accessibility.json) |
 | [August 23 at 6:47 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-23T18:47:22.908480-04:00.accessibility.json) |
-| [August 23 at 12:21 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-23T12:21:30.906192-04:00.accessibility.json) |
-| [August 23 at 9:59 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-23T09:58:51.842652-04:00.accessibility.json) |
-| [August 23 at 6:51 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-23T06:50:57.321582-04:00.accessibility.json) |
-| [August 22 at 9:20 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T21:20:08.636397-04:00.accessibility.json) |
-| [August 22 at 6:50 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T18:50:23.887484-04:00.accessibility.json) |
-| [August 22 at 12:09 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T12:09:17.405349-04:00.accessibility.json) |
-| [August 22 at 9:01 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T09:01:24.141601-04:00.accessibility.json) |
-| [August 22 at 6:50 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T06:49:43.274079-04:00.accessibility.json) |
-| [August 21 at 9:12 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-21T21:12:14.979177-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 156 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 165 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 25 at 6:45 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-25T18:45:18.889847-04:00.lighthouse.json) |
+| [August 25 at 12:12 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-25T12:12:00.205876-04:00.lighthouse.json) |
+| [August 25 at 10:51 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-25T10:51:45.138385-04:00.lighthouse.json) |
+| [August 25 at 6:49 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-25T06:49:19.227453-04:00.lighthouse.json) |
+| [August 24 at 6:48 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-24T18:48:05.650428-04:00.lighthouse.json) |
+| [August 24 at 12:11 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-24T12:10:59.622716-04:00.lighthouse.json) |
+| [August 24 at 9:58 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-24T09:57:56.036966-04:00.lighthouse.json) |
+| [August 24 at 6:43 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-24T06:43:12.290254-04:00.lighthouse.json) |
+| [August 23 at 10:15 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-23T22:14:44.718918-04:00.lighthouse.json) |
 | [August 23 at 6:47 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-23T18:47:22.908480-04:00.lighthouse.json) |
-| [August 23 at 12:21 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-23T12:21:30.906192-04:00.lighthouse.json) |
-| [August 23 at 9:59 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-23T09:58:51.842652-04:00.lighthouse.json) |
-| [August 23 at 6:51 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-23T06:50:57.321582-04:00.lighthouse.json) |
-| [August 22 at 9:20 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T21:20:08.636397-04:00.lighthouse.json) |
-| [August 22 at 6:50 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T18:50:23.887484-04:00.lighthouse.json) |
-| [August 22 at 12:09 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T12:09:17.405349-04:00.lighthouse.json) |
-| [August 22 at 9:01 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T09:01:24.141601-04:00.lighthouse.json) |
-| [August 22 at 6:50 AM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-22T06:49:43.274079-04:00.lighthouse.json) |
-| [August 21 at 9:12 PM](https://archive.org/download/baltimoresun-2022/baltimoresun-2022-08-21T21:12:14.979177-04:00.lighthouse.json) |
 
 
 

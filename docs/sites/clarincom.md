@@ -234,13 +234,123 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 32 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/clarincom.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-25T11:53:16.150631-03:00.jpg">
+  <img src="https://archive.org/download/clarincom-2022/clarincom-2022-08-25T11:53:16.150631-03:00.jpg"
+     alt="Clarín at 2022-08-25 11:53:17-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-25T11:53:16.150631-03:00.jpg">August 25 at 11:53 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-24T10:59:47.716671-03:00.jpg">
+  <img src="https://archive.org/download/clarincom-2022/clarincom-2022-08-24T10:59:47.716671-03:00.jpg"
+     alt="Clarín at 2022-08-24 10:59:48-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-24T10:59:47.716671-03:00.jpg">August 24 at 10:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-23T23:16:29.377375-03:00.jpg">
+  <img src="https://archive.org/download/clarincom-2022/clarincom-2022-08-23T23:16:29.377375-03:00.jpg"
+     alt="Clarín at 2022-08-23 23:16:30-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-23T23:16:29.377375-03:00.jpg">August 23 at 11:16 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-23T11:00:08.851155-03:00.jpg">
@@ -323,45 +433,104 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-19T10:19:37.953010-03:00.jpg">August 19 at 10:19 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-18T22:19:31.425564-03:00.jpg">
-  <img src="https://archive.org/download/clarincom-2022/clarincom-2022-08-18T22:19:31.425564-03:00.jpg"
-     alt="Clarín at 2022-08-18 22:19:33-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-18T22:19:31.425564-03:00.jpg">August 18 at 10:19 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-18T10:00:14.558189-03:00.jpg">
-  <img src="https://archive.org/download/clarincom-2022/clarincom-2022-08-18T10:00:14.558189-03:00.jpg"
-     alt="Clarín at 2022-08-18 10:00:17-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-18T10:00:14.558189-03:00.jpg">August 18 at 10:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-17T22:13:26.145878-03:00.jpg">
-  <img src="https://archive.org/download/clarincom-2022/clarincom-2022-08-17T22:13:26.145878-03:00.jpg"
-     alt="Clarín at 2022-08-17 22:13:28-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-17T22:13:26.145878-03:00.jpg">August 17 at 10:13 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 30 hyperlink lists with the Internet Archive.
+The archiving routine has saved 33 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/clarincom.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 25 at 11:53 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-25T11:53:16.150631-03:00.hyperlinks.json) |
+| [August 24 at 10:59 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-24T10:59:47.716671-03:00.hyperlinks.json) |
+| [August 23 at 11:16 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-23T23:16:29.377375-03:00.hyperlinks.json) |
 | [August 23 at 11:00 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-23T11:00:08.851155-03:00.hyperlinks.json) |
 | [August 22 at 10:21 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-22T22:21:53.795018-03:00.hyperlinks.json) |
 | [August 22 at 10:03 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-22T10:03:13.175679-03:00.hyperlinks.json) |
@@ -369,21 +538,104 @@ Here are the 10 most recent hyperlink lists.
 | [August 21 at 10:06 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-21T10:06:50.103744-03:00.hyperlinks.json) |
 | [August 20 at 10:15 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-20T22:15:45.800108-03:00.hyperlinks.json) |
 | [August 20 at 10:02 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-20T10:01:54.018739-03:00.hyperlinks.json) |
-| [August 19 at 10:13 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-19T22:13:29.446547-03:00.hyperlinks.json) |
-| [August 19 at 10:19 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-19T10:19:37.953010-03:00.hyperlinks.json) |
-| [August 18 at 10:19 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-18T22:19:31.425564-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 30 accessibility trees with the Internet Archive.
+The archiving routine has saved 33 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/clarincom.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 25 at 11:53 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-25T11:53:16.150631-03:00.accessibility.json) |
+| [August 24 at 10:59 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-24T10:59:47.716671-03:00.accessibility.json) |
+| [August 23 at 11:16 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-23T23:16:29.377375-03:00.accessibility.json) |
 | [August 23 at 11:00 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-23T11:00:08.851155-03:00.accessibility.json) |
 | [August 22 at 10:21 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-22T22:21:53.795018-03:00.accessibility.json) |
 | [August 22 at 10:03 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-22T10:03:13.175679-03:00.accessibility.json) |
@@ -391,22 +643,105 @@ Here are the 10 most recent accessibility trees.
 | [August 21 at 10:06 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-21T10:06:50.103744-03:00.accessibility.json) |
 | [August 20 at 10:15 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-20T22:15:45.800108-03:00.accessibility.json) |
 | [August 20 at 10:01 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-20T10:01:54.018739-03:00.accessibility.json) |
-| [August 19 at 10:13 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-19T22:13:29.446547-03:00.accessibility.json) |
-| [August 19 at 10:19 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-19T10:19:37.953010-03:00.accessibility.json) |
-| [August 18 at 10:19 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-18T22:19:31.425564-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/clarincom.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 25 at 11:53 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-25T11:53:16.150631-03:00.lighthouse.json) |
+| [August 24 at 10:59 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-24T10:59:47.716671-03:00.lighthouse.json) |
+| [August 23 at 11:16 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-23T23:16:29.377375-03:00.lighthouse.json) |
 | [August 23 at 11:00 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-23T11:00:08.851155-03:00.lighthouse.json) |
 | [August 22 at 10:21 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-22T22:21:53.795018-03:00.lighthouse.json) |
 | [August 22 at 10:03 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-22T10:03:13.175679-03:00.lighthouse.json) |
@@ -414,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 21 at 10:06 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-21T10:06:50.103744-03:00.lighthouse.json) |
 | [August 20 at 10:15 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-20T22:15:45.800108-03:00.lighthouse.json) |
 | [August 20 at 10:02 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-20T10:01:54.018739-03:00.lighthouse.json) |
-| [August 19 at 10:13 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-19T22:13:29.446547-03:00.lighthouse.json) |
-| [August 19 at 10:19 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-19T10:19:37.953010-03:00.lighthouse.json) |
-| [August 18 at 10:19 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-18T22:19:31.425564-03:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 80 screenshots with the Internet Archive.
+The archiving routine has saved 84 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-25T14:03:51.196882+01:00.jpg">
+  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-08-25T14:03:51.196882+01:00.jpg"
+     alt="Belfast News Letter at 2022-08-25 14:03:54+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-25T14:03:51.196882+01:00.jpg">August 25 at 2:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-24T13:55:01.371473+01:00.jpg">
+  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-08-24T13:55:01.371473+01:00.jpg"
+     alt="Belfast News Letter at 2022-08-24 13:55:06+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-24T13:55:01.371473+01:00.jpg">August 24 at 1:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-24T10:16:54.629232+01:00.jpg">
+  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-08-24T10:16:54.629232+01:00.jpg"
+     alt="Belfast News Letter at 2022-08-24 10:16:58+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-24T10:16:54.629232+01:00.jpg">August 24 at 10:16 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-24T02:07:17.130965+01:00.jpg">
+  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-08-24T02:07:17.130965+01:00.jpg"
+     alt="Belfast News Letter at 2022-08-24 02:07:22+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-24T02:07:17.130965+01:00.jpg">August 24 at 2:07 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-23T13:54:38.718375+01:00.jpg">
   <img src="https://archive.org/download/news_letter-2022/news_letter-2022-08-23T13:54:38.718375+01:00.jpg"
      alt="Belfast News Letter at 2022-08-23 13:54:40+01:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-21T13:02:30.440661+01:00.jpg">August 21 at 1:02 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-21T10:12:21.019712+01:00.jpg">
-  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-08-21T10:12:21.019712+01:00.jpg"
-     alt="Belfast News Letter at 2022-08-21 10:12:24+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-21T10:12:21.019712+01:00.jpg">August 21 at 10:12 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-21T00:56:47.769214+01:00.jpg">
-  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-08-21T00:56:47.769214+01:00.jpg"
-     alt="Belfast News Letter at 2022-08-21 00:56:53+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-21T00:56:47.769214+01:00.jpg">August 21 at 12:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-20T12:58:50.090166+01:00.jpg">
-  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-08-20T12:58:50.090166+01:00.jpg"
-     alt="Belfast News Letter at 2022-08-20 12:58:51+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-20T12:58:50.090166+01:00.jpg">August 20 at 12:58 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-20T10:12:49.404257+01:00.jpg">
-  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-08-20T10:12:49.404257+01:00.jpg"
-     alt="Belfast News Letter at 2022-08-20 10:12:57+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-20T10:12:49.404257+01:00.jpg">August 20 at 10:12 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 69 hyperlink lists with the Internet Archive.
+The archiving routine has saved 73 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 25 at 2:03 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-25T14:03:51.196882+01:00.hyperlinks.json) |
+| [August 24 at 1:55 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-24T13:55:01.371473+01:00.hyperlinks.json) |
+| [August 24 at 10:17 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-24T10:16:54.629232+01:00.hyperlinks.json) |
+| [August 24 at 2:07 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-24T02:07:17.130965+01:00.hyperlinks.json) |
 | [August 23 at 1:54 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-23T13:54:38.718375+01:00.hyperlinks.json) |
 | [August 23 at 12:59 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-23T12:59:45.887703+01:00.hyperlinks.json) |
 | [August 23 at 10:15 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-23T10:14:57.420205+01:00.hyperlinks.json) |
 | [August 23 at 1:01 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-23T01:01:11.364266+01:00.hyperlinks.json) |
 | [August 22 at 1:01 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-22T13:01:00.505179+01:00.hyperlinks.json) |
 | [August 22 at 10:15 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-22T10:15:03.645607+01:00.hyperlinks.json) |
-| [August 22 at 12:56 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-22T00:56:46.748586+01:00.hyperlinks.json) |
-| [August 21 at 1:02 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-21T13:02:30.440661+01:00.hyperlinks.json) |
-| [August 21 at 10:12 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-21T10:12:21.019712+01:00.hyperlinks.json) |
-| [August 21 at 12:56 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-21T00:56:47.769214+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 76 accessibility trees with the Internet Archive.
+The archiving routine has saved 80 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 25 at 2:03 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-25T14:03:51.196882+01:00.accessibility.json) |
+| [August 24 at 1:55 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-24T13:55:01.371473+01:00.accessibility.json) |
+| [August 24 at 10:17 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-24T10:16:54.629232+01:00.accessibility.json) |
+| [August 24 at 2:07 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-24T02:07:17.130965+01:00.accessibility.json) |
 | [August 23 at 1:54 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-23T13:54:38.718375+01:00.accessibility.json) |
 | [August 23 at 12:59 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-23T12:59:45.887703+01:00.accessibility.json) |
 | [August 23 at 10:14 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-23T10:14:57.420205+01:00.accessibility.json) |
 | [August 23 at 1:01 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-23T01:01:11.364266+01:00.accessibility.json) |
 | [August 22 at 1:01 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-22T13:01:00.505179+01:00.accessibility.json) |
 | [August 22 at 10:15 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-22T10:15:03.645607+01:00.accessibility.json) |
-| [August 22 at 12:56 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-22T00:56:46.748586+01:00.accessibility.json) |
-| [August 21 at 1:02 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-21T13:02:30.440661+01:00.accessibility.json) |
-| [August 21 at 10:12 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-21T10:12:21.019712+01:00.accessibility.json) |
-| [August 21 at 12:56 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-21T00:56:47.769214+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 70 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 74 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 25 at 2:03 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-25T14:03:51.196882+01:00.lighthouse.json) |
+| [August 24 at 1:55 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-24T13:55:01.371473+01:00.lighthouse.json) |
+| [August 24 at 10:17 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-24T10:16:54.629232+01:00.lighthouse.json) |
+| [August 24 at 2:07 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-24T02:07:17.130965+01:00.lighthouse.json) |
 | [August 23 at 1:54 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-23T13:54:38.718375+01:00.lighthouse.json) |
 | [August 23 at 12:59 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-23T12:59:45.887703+01:00.lighthouse.json) |
 | [August 23 at 10:15 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-23T10:14:57.420205+01:00.lighthouse.json) |
 | [August 23 at 1:01 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-23T01:01:11.364266+01:00.lighthouse.json) |
 | [August 22 at 1:01 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-22T13:01:00.505179+01:00.lighthouse.json) |
 | [August 22 at 10:15 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-22T10:15:03.645607+01:00.lighthouse.json) |
-| [August 22 at 12:56 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-22T00:56:46.748586+01:00.lighthouse.json) |
-| [August 21 at 1:02 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-21T13:02:30.440661+01:00.lighthouse.json) |
-| [August 21 at 10:12 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-21T10:12:21.019712+01:00.lighthouse.json) |
-| [August 21 at 12:56 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-21T00:56:47.769214+01:00.lighthouse.json) |
 
 
 

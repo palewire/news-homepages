@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 109 screenshots with the Internet Archive.
+The archiving routine has saved 114 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,51 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-25T14:27:15.850406-04:00.jpg">
+  <img src="https://archive.org/download/mmfa-2022/mmfa-2022-08-25T14:27:15.850406-04:00.jpg"
+     alt="Media Matters at 2022-08-25 14:27:20-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-25T14:27:15.850406-04:00.jpg">August 25 at 2:27 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-25T11:04:32.270734-04:00.jpg">
+  <img src="https://archive.org/download/mmfa-2022/mmfa-2022-08-25T11:04:32.270734-04:00.jpg"
+     alt="Media Matters at 2022-08-25 11:04:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-25T11:04:32.270734-04:00.jpg">August 25 at 11:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-24T14:38:19.509286-04:00.jpg">
+  <img src="https://archive.org/download/mmfa-2022/mmfa-2022-08-24T14:38:19.509286-04:00.jpg"
+     alt="Media Matters at 2022-08-24 14:38:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-24T14:38:19.509286-04:00.jpg">August 24 at 2:38 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-24T11:02:27.688455-04:00.jpg">
+  <img src="https://archive.org/download/mmfa-2022/mmfa-2022-08-24T11:02:27.688455-04:00.jpg"
+     alt="Media Matters at 2022-08-24 11:02:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-24T11:02:27.688455-04:00.jpg">August 24 at 11:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-23T23:41:21.966911-04:00.jpg">
+  <img src="https://archive.org/download/mmfa-2022/mmfa-2022-08-23T23:41:21.966911-04:00.jpg"
+     alt="Media Matters at 2022-08-23 23:41:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-23T23:41:21.966911-04:00.jpg">August 23 at 11:41 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-23T14:29:04.327057-04:00.jpg">
   <img src="https://archive.org/download/mmfa-2022/mmfa-2022-08-23T14:29:04.327057-04:00.jpg"
      alt="Media Matters at 2022-08-23 14:29:06-04:00 local time"
@@ -388,56 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-21T14:26:02.762151-04:00.jpg">August 21 at 2:26 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-21T10:08:07.381180-04:00.jpg">
-  <img src="https://archive.org/download/mmfa-2022/mmfa-2022-08-21T10:08:07.381180-04:00.jpg"
-     alt="Media Matters at 2022-08-21 10:08:09-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-21T10:08:07.381180-04:00.jpg">August 21 at 10:08 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-20T22:23:44.257951-04:00.jpg">
-  <img src="https://archive.org/download/mmfa-2022/mmfa-2022-08-20T22:23:44.257951-04:00.jpg"
-     alt="Media Matters at 2022-08-20 22:23:48-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-20T22:23:44.257951-04:00.jpg">August 20 at 10:23 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-20T14:26:59.557269-04:00.jpg">
-  <img src="https://archive.org/download/mmfa-2022/mmfa-2022-08-20T14:26:59.557269-04:00.jpg"
-     alt="Media Matters at 2022-08-20 14:27:01-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-20T14:26:59.557269-04:00.jpg">August 20 at 2:27 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-20T10:01:21.960613-04:00.jpg">
-  <img src="https://archive.org/download/mmfa-2022/mmfa-2022-08-20T10:01:21.960613-04:00.jpg"
-     alt="Media Matters at 2022-08-20 10:01:26-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-20T10:01:21.960613-04:00.jpg">August 20 at 10:01 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-19T22:37:36.217857-04:00.jpg">
-  <img src="https://archive.org/download/mmfa-2022/mmfa-2022-08-19T22:37:36.217857-04:00.jpg"
-     alt="Media Matters at 2022-08-19 22:37:37-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-19T22:37:36.217857-04:00.jpg">August 19 at 10:37 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 109 hyperlink lists with the Internet Archive.
+The archiving routine has saved 114 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 25 at 2:27 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-25T14:27:15.850406-04:00.hyperlinks.json) |
+| [August 25 at 11:04 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-25T11:04:32.270734-04:00.hyperlinks.json) |
+| [August 24 at 2:38 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-24T14:38:19.509286-04:00.hyperlinks.json) |
+| [August 24 at 11:02 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-24T11:02:27.688455-04:00.hyperlinks.json) |
+| [August 23 at 11:41 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-23T23:41:21.966911-04:00.hyperlinks.json) |
 | [August 23 at 2:29 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-23T14:29:04.327057-04:00.hyperlinks.json) |
 | [August 23 at 10:56 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-23T10:56:03.446907-04:00.hyperlinks.json) |
 | [August 22 at 10:32 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-22T22:31:55.917112-04:00.hyperlinks.json) |
 | [August 22 at 2:24 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-22T14:24:48.923541-04:00.hyperlinks.json) |
 | [August 22 at 10:12 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-22T10:12:25.001263-04:00.hyperlinks.json) |
-| [August 21 at 10:29 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-21T22:29:48.148185-04:00.hyperlinks.json) |
-| [August 21 at 2:26 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-21T14:26:02.762151-04:00.hyperlinks.json) |
-| [August 21 at 10:08 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-21T10:08:07.381180-04:00.hyperlinks.json) |
-| [August 20 at 10:23 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-20T22:23:44.257951-04:00.hyperlinks.json) |
-| [August 20 at 2:27 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-20T14:26:59.557269-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 109 accessibility trees with the Internet Archive.
+The archiving routine has saved 114 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 25 at 2:27 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-25T14:27:15.850406-04:00.accessibility.json) |
+| [August 25 at 11:04 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-25T11:04:32.270734-04:00.accessibility.json) |
+| [August 24 at 2:38 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-24T14:38:19.509286-04:00.accessibility.json) |
+| [August 24 at 11:02 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-24T11:02:27.688455-04:00.accessibility.json) |
+| [August 23 at 11:41 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-23T23:41:21.966911-04:00.accessibility.json) |
 | [August 23 at 2:29 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-23T14:29:04.327057-04:00.accessibility.json) |
 | [August 23 at 10:56 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-23T10:56:03.446907-04:00.accessibility.json) |
 | [August 22 at 10:31 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-22T22:31:55.917112-04:00.accessibility.json) |
 | [August 22 at 2:24 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-22T14:24:48.923541-04:00.accessibility.json) |
 | [August 22 at 10:12 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-22T10:12:25.001263-04:00.accessibility.json) |
-| [August 21 at 10:29 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-21T22:29:48.148185-04:00.accessibility.json) |
-| [August 21 at 2:26 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-21T14:26:02.762151-04:00.accessibility.json) |
-| [August 21 at 10:08 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-21T10:08:07.381180-04:00.accessibility.json) |
-| [August 20 at 10:23 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-20T22:23:44.257951-04:00.accessibility.json) |
-| [August 20 at 2:27 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-20T14:26:59.557269-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 92 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 97 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 25 at 2:27 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-25T14:27:15.850406-04:00.lighthouse.json) |
+| [August 25 at 11:04 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-25T11:04:32.270734-04:00.lighthouse.json) |
+| [August 24 at 2:38 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-24T14:38:19.509286-04:00.lighthouse.json) |
+| [August 24 at 11:02 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-24T11:02:27.688455-04:00.lighthouse.json) |
+| [August 23 at 11:41 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-23T23:41:21.966911-04:00.lighthouse.json) |
 | [August 23 at 2:29 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-23T14:29:04.327057-04:00.lighthouse.json) |
 | [August 23 at 10:56 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-23T10:56:03.446907-04:00.lighthouse.json) |
 | [August 22 at 10:32 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-22T22:31:55.917112-04:00.lighthouse.json) |
 | [August 22 at 2:25 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-22T14:24:48.923541-04:00.lighthouse.json) |
 | [August 22 at 10:12 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-22T10:12:25.001263-04:00.lighthouse.json) |
-| [August 21 at 10:29 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-21T22:29:48.148185-04:00.lighthouse.json) |
-| [August 21 at 2:26 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-21T14:26:02.762151-04:00.lighthouse.json) |
-| [August 21 at 10:08 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-21T10:08:07.381180-04:00.lighthouse.json) |
-| [August 20 at 10:23 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-20T22:23:44.257951-04:00.lighthouse.json) |
-| [August 20 at 2:27 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-20T14:26:59.557269-04:00.lighthouse.json) |
 
 
 

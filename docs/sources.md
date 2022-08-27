@@ -3,7 +3,7 @@
 
 # Sites
 
-The archiving routine is currently capturing 875 sites.
+The archiving routine is currently capturing 876 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -52,6 +52,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[AlterNet](https://palewi.re/docs/news-homepages/sites/alternet.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/alternet.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/alternet.xml)|
 |[amaBhungane](https://palewi.re/docs/news-homepages/sites/amabhungane.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/amabhungane.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/amabhungane.xml)|
 |[Amar Ujala](https://palewi.re/docs/news-homepages/sites/amarujalanews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/amarujalanews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/amarujalanews.xml)|
+|[American Independent](https://palewi.re/docs/news-homepages/sites/amerindependent.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/amerindependent.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/amerindependent.xml)|
 |[American Prospect](https://palewi.re/docs/news-homepages/sites/theprospect.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theprospect.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theprospect.xml)|
 |[Ames Tribune](https://palewi.re/docs/news-homepages/sites/amestribnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/amestribnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/amestribnews.xml)|
 |[Andscape](https://palewi.re/docs/news-homepages/sites/andscape.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/andscape.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/andscape.xml)|

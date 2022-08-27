@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 88 screenshots with the Internet Archive.
+The archiving routine has saved 92 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/cnsmd-2022/cnsmd-2022-08-25T18:53:36.261920-04:00.jpg">
+  <img src="https://archive.org/download/cnsmd-2022/cnsmd-2022-08-25T18:53:36.261920-04:00.jpg"
+     alt="Capital News Service at 2022-08-25 18:53:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnsmd-2022/cnsmd-2022-08-25T18:53:36.261920-04:00.jpg">August 25 at 6:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnsmd-2022/cnsmd-2022-08-25T06:56:21.924143-04:00.jpg">
+  <img src="https://archive.org/download/cnsmd-2022/cnsmd-2022-08-25T06:56:21.924143-04:00.jpg"
+     alt="Capital News Service at 2022-08-25 06:56:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnsmd-2022/cnsmd-2022-08-25T06:56:21.924143-04:00.jpg">August 25 at 6:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnsmd-2022/cnsmd-2022-08-24T18:56:33.091758-04:00.jpg">
+  <img src="https://archive.org/download/cnsmd-2022/cnsmd-2022-08-24T18:56:33.091758-04:00.jpg"
+     alt="Capital News Service at 2022-08-24 18:56:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnsmd-2022/cnsmd-2022-08-24T18:56:33.091758-04:00.jpg">August 24 at 6:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnsmd-2022/cnsmd-2022-08-24T06:48:57.552794-04:00.jpg">
+  <img src="https://archive.org/download/cnsmd-2022/cnsmd-2022-08-24T06:48:57.552794-04:00.jpg"
+     alt="Capital News Service at 2022-08-24 06:49:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnsmd-2022/cnsmd-2022-08-24T06:48:57.552794-04:00.jpg">August 24 at 6:49 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/cnsmd-2022/cnsmd-2022-08-23T18:59:06.630782-04:00.jpg">
   <img src="https://archive.org/download/cnsmd-2022/cnsmd-2022-08-23T18:59:06.630782-04:00.jpg"
      alt="Capital News Service at 2022-08-23 18:59:08-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cnsmd-2022/cnsmd-2022-08-20T06:54:53.325275-04:00.jpg">August 20 at 6:54 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cnsmd-2022/cnsmd-2022-08-19T19:00:33.108614-04:00.jpg">
-  <img src="https://archive.org/download/cnsmd-2022/cnsmd-2022-08-19T19:00:33.108614-04:00.jpg"
-     alt="Capital News Service at 2022-08-19 19:00:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cnsmd-2022/cnsmd-2022-08-19T19:00:33.108614-04:00.jpg">August 19 at 7:00 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cnsmd-2022/cnsmd-2022-08-19T06:59:21.167986-04:00.jpg">
-  <img src="https://archive.org/download/cnsmd-2022/cnsmd-2022-08-19T06:59:21.167986-04:00.jpg"
-     alt="Capital News Service at 2022-08-19 06:59:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cnsmd-2022/cnsmd-2022-08-19T06:59:21.167986-04:00.jpg">August 19 at 6:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cnsmd-2022/cnsmd-2022-08-18T19:00:46.791855-04:00.jpg">
-  <img src="https://archive.org/download/cnsmd-2022/cnsmd-2022-08-18T19:00:46.791855-04:00.jpg"
-     alt="Capital News Service at 2022-08-18 19:00:50-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cnsmd-2022/cnsmd-2022-08-18T19:00:46.791855-04:00.jpg">August 18 at 7:00 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cnsmd-2022/cnsmd-2022-08-18T06:58:06.790406-04:00.jpg">
-  <img src="https://archive.org/download/cnsmd-2022/cnsmd-2022-08-18T06:58:06.790406-04:00.jpg"
-     alt="Capital News Service at 2022-08-18 06:58:11-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cnsmd-2022/cnsmd-2022-08-18T06:58:06.790406-04:00.jpg">August 18 at 6:58 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 88 hyperlink lists with the Internet Archive.
+The archiving routine has saved 92 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 25 at 6:53 PM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-25T18:53:36.261920-04:00.hyperlinks.json) |
+| [August 25 at 6:56 AM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-25T06:56:21.924143-04:00.hyperlinks.json) |
+| [August 24 at 6:56 PM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-24T18:56:33.091758-04:00.hyperlinks.json) |
+| [August 24 at 6:49 AM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-24T06:48:57.552794-04:00.hyperlinks.json) |
 | [August 23 at 6:59 PM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-23T18:59:06.630782-04:00.hyperlinks.json) |
 | [August 23 at 7:00 AM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-23T07:00:13.556438-04:00.hyperlinks.json) |
 | [August 22 at 6:57 PM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-22T18:57:30.222715-04:00.hyperlinks.json) |
 | [August 22 at 6:57 AM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-22T06:57:24.367703-04:00.hyperlinks.json) |
 | [August 21 at 6:55 PM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-21T18:54:55.822027-04:00.hyperlinks.json) |
 | [August 21 at 6:59 AM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-21T06:59:34.277022-04:00.hyperlinks.json) |
-| [August 20 at 7:01 PM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-20T19:01:37.672963-04:00.hyperlinks.json) |
-| [August 20 at 6:55 AM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-20T06:54:53.325275-04:00.hyperlinks.json) |
-| [August 19 at 7:00 PM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-19T19:00:33.108614-04:00.hyperlinks.json) |
-| [August 19 at 6:59 AM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-19T06:59:21.167986-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 88 accessibility trees with the Internet Archive.
+The archiving routine has saved 92 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 25 at 6:53 PM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-25T18:53:36.261920-04:00.accessibility.json) |
+| [August 25 at 6:56 AM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-25T06:56:21.924143-04:00.accessibility.json) |
+| [August 24 at 6:56 PM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-24T18:56:33.091758-04:00.accessibility.json) |
+| [August 24 at 6:49 AM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-24T06:48:57.552794-04:00.accessibility.json) |
 | [August 23 at 6:59 PM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-23T18:59:06.630782-04:00.accessibility.json) |
 | [August 23 at 7:00 AM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-23T07:00:13.556438-04:00.accessibility.json) |
 | [August 22 at 6:57 PM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-22T18:57:30.222715-04:00.accessibility.json) |
 | [August 22 at 6:57 AM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-22T06:57:24.367703-04:00.accessibility.json) |
 | [August 21 at 6:55 PM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-21T18:54:55.822027-04:00.accessibility.json) |
 | [August 21 at 6:59 AM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-21T06:59:34.277022-04:00.accessibility.json) |
-| [August 20 at 7:01 PM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-20T19:01:37.672963-04:00.accessibility.json) |
-| [August 20 at 6:55 AM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-20T06:54:53.325275-04:00.accessibility.json) |
-| [August 19 at 7:00 PM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-19T19:00:33.108614-04:00.accessibility.json) |
-| [August 19 at 6:59 AM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-19T06:59:21.167986-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 63 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 67 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 25 at 6:53 PM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-25T18:53:36.261920-04:00.lighthouse.json) |
+| [August 25 at 6:56 AM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-25T06:56:21.924143-04:00.lighthouse.json) |
+| [August 24 at 6:56 PM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-24T18:56:33.091758-04:00.lighthouse.json) |
+| [August 24 at 6:49 AM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-24T06:48:57.552794-04:00.lighthouse.json) |
 | [August 23 at 6:59 PM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-23T18:59:06.630782-04:00.lighthouse.json) |
 | [August 23 at 7:00 AM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-23T07:00:13.556438-04:00.lighthouse.json) |
 | [August 22 at 6:57 PM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-22T18:57:30.222715-04:00.lighthouse.json) |
 | [August 22 at 6:57 AM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-22T06:57:24.367703-04:00.lighthouse.json) |
 | [August 21 at 6:55 PM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-21T18:54:55.822027-04:00.lighthouse.json) |
 | [August 21 at 6:59 AM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-21T06:59:34.277022-04:00.lighthouse.json) |
-| [August 20 at 7:01 PM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-20T19:01:37.672963-04:00.lighthouse.json) |
-| [August 20 at 6:55 AM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-20T06:54:53.325275-04:00.lighthouse.json) |
-| [August 19 at 7:00 PM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-19T19:00:33.108614-04:00.lighthouse.json) |
-| [August 19 at 6:59 AM](https://archive.org/download/cnsmd-2022/cnsmd-2022-08-19T06:59:21.167986-04:00.lighthouse.json) |
 
 
 

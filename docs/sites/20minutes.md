@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 295 screenshots with the Internet Archive.
+The archiving routine has saved 300 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,51 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/20minutes-2022/20minutes-2022-08-26T00:50:28.816871+02:00.jpg">
+  <img src="https://archive.org/download/20minutes-2022/20minutes-2022-08-26T00:50:28.816871+02:00.jpg"
+     alt="20 Minutes at 2022-08-26 00:50:50+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-08-26T00:50:28.816871+02:00.jpg">August 26 at 12:50 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/20minutes-2022/20minutes-2022-08-25T12:53:18.635964+02:00.jpg">
+  <img src="https://archive.org/download/20minutes-2022/20minutes-2022-08-25T12:53:18.635964+02:00.jpg"
+     alt="20 Minutes at 2022-08-25 12:53:27+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-08-25T12:53:18.635964+02:00.jpg">August 25 at 12:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/20minutes-2022/20minutes-2022-08-25T00:53:13.215136+02:00.jpg">
+  <img src="https://archive.org/download/20minutes-2022/20minutes-2022-08-25T00:53:13.215136+02:00.jpg"
+     alt="20 Minutes at 2022-08-25 00:53:26+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-08-25T00:53:13.215136+02:00.jpg">August 25 at 12:53 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/20minutes-2022/20minutes-2022-08-24T12:45:37.876905+02:00.jpg">
+  <img src="https://archive.org/download/20minutes-2022/20minutes-2022-08-24T12:45:37.876905+02:00.jpg"
+     alt="20 Minutes at 2022-08-24 12:45:39+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-08-24T12:45:37.876905+02:00.jpg">August 24 at 12:45 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/20minutes-2022/20minutes-2022-08-24T10:12:59.950222+02:00.jpg">
+  <img src="https://archive.org/download/20minutes-2022/20minutes-2022-08-24T10:12:59.950222+02:00.jpg"
+     alt="20 Minutes at 2022-08-24 10:13:12+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-08-24T10:12:59.950222+02:00.jpg">August 24 at 10:13 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/20minutes-2022/20minutes-2022-08-24T00:56:24.272803+02:00.jpg">
   <img src="https://archive.org/download/20minutes-2022/20minutes-2022-08-24T00:56:24.272803+02:00.jpg"
      alt="20 Minutes at 2022-08-24 00:56:34+02:00 local time"
@@ -388,56 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-08-22T00:52:32.775276+02:00.jpg">August 22 at 12:52 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/20minutes-2022/20minutes-2022-08-21T12:56:01.657748+02:00.jpg">
-  <img src="https://archive.org/download/20minutes-2022/20minutes-2022-08-21T12:56:01.657748+02:00.jpg"
-     alt="20 Minutes at 2022-08-21 12:56:03+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-08-21T12:56:01.657748+02:00.jpg">August 21 at 12:56 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/20minutes-2022/20minutes-2022-08-21T10:12:36.741663+02:00.jpg">
-  <img src="https://archive.org/download/20minutes-2022/20minutes-2022-08-21T10:12:36.741663+02:00.jpg"
-     alt="20 Minutes at 2022-08-21 10:12:42+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-08-21T10:12:36.741663+02:00.jpg">August 21 at 10:12 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/20minutes-2022/20minutes-2022-08-21T00:58:15.415653+02:00.jpg">
-  <img src="https://archive.org/download/20minutes-2022/20minutes-2022-08-21T00:58:15.415653+02:00.jpg"
-     alt="20 Minutes at 2022-08-21 00:58:24+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-08-21T00:58:15.415653+02:00.jpg">August 21 at 12:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/20minutes-2022/20minutes-2022-08-20T12:52:58.510523+02:00.jpg">
-  <img src="https://archive.org/download/20minutes-2022/20minutes-2022-08-20T12:52:58.510523+02:00.jpg"
-     alt="20 Minutes at 2022-08-20 12:52:59+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-08-20T12:52:58.510523+02:00.jpg">August 20 at 12:52 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/20minutes-2022/20minutes-2022-08-20T10:13:40.103273+02:00.jpg">
-  <img src="https://archive.org/download/20minutes-2022/20minutes-2022-08-20T10:13:40.103273+02:00.jpg"
-     alt="20 Minutes at 2022-08-20 10:14:04+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/20minutes-2022/20minutes-2022-08-20T10:13:40.103273+02:00.jpg">August 20 at 10:14 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 296 hyperlink lists with the Internet Archive.
+The archiving routine has saved 301 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 26 at 12:50 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-26T00:50:28.816871+02:00.hyperlinks.json) |
+| [August 25 at 12:53 PM](https://archive.org/download/20minutes-2022/20minutes-2022-08-25T12:53:18.635964+02:00.hyperlinks.json) |
+| [August 25 at 12:53 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-25T00:53:13.215136+02:00.hyperlinks.json) |
+| [August 24 at 12:45 PM](https://archive.org/download/20minutes-2022/20minutes-2022-08-24T12:45:37.876905+02:00.hyperlinks.json) |
+| [August 24 at 10:13 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-24T10:12:59.950222+02:00.hyperlinks.json) |
 | [August 24 at 12:56 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-24T00:56:24.272803+02:00.hyperlinks.json) |
 | [August 23 at 12:57 PM](https://archive.org/download/20minutes-2022/20minutes-2022-08-23T12:57:16.637172+02:00.hyperlinks.json) |
 | [August 23 at 10:14 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-23T10:14:40.486277+02:00.hyperlinks.json) |
 | [August 23 at 12:53 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-23T00:53:45.186074+02:00.hyperlinks.json) |
 | [August 22 at 12:53 PM](https://archive.org/download/20minutes-2022/20minutes-2022-08-22T12:53:37.285898+02:00.hyperlinks.json) |
-| [August 22 at 10:13 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-22T10:13:45.171768+02:00.hyperlinks.json) |
-| [August 22 at 12:52 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-22T00:52:32.775276+02:00.hyperlinks.json) |
-| [August 21 at 12:56 PM](https://archive.org/download/20minutes-2022/20minutes-2022-08-21T12:56:01.657748+02:00.hyperlinks.json) |
-| [August 21 at 10:12 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-21T10:12:36.741663+02:00.hyperlinks.json) |
-| [August 21 at 12:58 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-21T00:58:15.415653+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 296 accessibility trees with the Internet Archive.
+The archiving routine has saved 301 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 26 at 12:50 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-26T00:50:28.816871+02:00.accessibility.json) |
+| [August 25 at 12:53 PM](https://archive.org/download/20minutes-2022/20minutes-2022-08-25T12:53:18.635964+02:00.accessibility.json) |
+| [August 25 at 12:53 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-25T00:53:13.215136+02:00.accessibility.json) |
+| [August 24 at 12:45 PM](https://archive.org/download/20minutes-2022/20minutes-2022-08-24T12:45:37.876905+02:00.accessibility.json) |
+| [August 24 at 10:13 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-24T10:12:59.950222+02:00.accessibility.json) |
 | [August 24 at 12:56 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-24T00:56:24.272803+02:00.accessibility.json) |
 | [August 23 at 12:57 PM](https://archive.org/download/20minutes-2022/20minutes-2022-08-23T12:57:16.637172+02:00.accessibility.json) |
 | [August 23 at 10:14 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-23T10:14:40.486277+02:00.accessibility.json) |
 | [August 23 at 12:53 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-23T00:53:45.186074+02:00.accessibility.json) |
 | [August 22 at 12:53 PM](https://archive.org/download/20minutes-2022/20minutes-2022-08-22T12:53:37.285898+02:00.accessibility.json) |
-| [August 22 at 10:13 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-22T10:13:45.171768+02:00.accessibility.json) |
-| [August 22 at 12:52 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-22T00:52:32.775276+02:00.accessibility.json) |
-| [August 21 at 12:56 PM](https://archive.org/download/20minutes-2022/20minutes-2022-08-21T12:56:01.657748+02:00.accessibility.json) |
-| [August 21 at 10:12 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-21T10:12:36.741663+02:00.accessibility.json) |
-| [August 21 at 12:58 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-21T00:58:15.415653+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 93 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 26 at 12:50 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-26T00:50:28.816871+02:00.lighthouse.json) |
+| [August 25 at 12:53 PM](https://archive.org/download/20minutes-2022/20minutes-2022-08-25T12:53:18.635964+02:00.lighthouse.json) |
+| [August 25 at 12:53 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-25T00:53:13.215136+02:00.lighthouse.json) |
+| [August 24 at 12:45 PM](https://archive.org/download/20minutes-2022/20minutes-2022-08-24T12:45:37.876905+02:00.lighthouse.json) |
+| [August 24 at 10:13 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-24T10:12:59.950222+02:00.lighthouse.json) |
 | [August 24 at 12:56 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-24T00:56:24.272803+02:00.lighthouse.json) |
 | [August 23 at 12:57 PM](https://archive.org/download/20minutes-2022/20minutes-2022-08-23T12:57:16.637172+02:00.lighthouse.json) |
 | [August 23 at 10:15 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-23T10:14:40.486277+02:00.lighthouse.json) |
 | [August 23 at 12:53 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-23T00:53:45.186074+02:00.lighthouse.json) |
 | [August 22 at 12:53 PM](https://archive.org/download/20minutes-2022/20minutes-2022-08-22T12:53:37.285898+02:00.lighthouse.json) |
-| [August 22 at 10:13 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-22T10:13:45.171768+02:00.lighthouse.json) |
-| [August 22 at 12:52 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-22T00:52:32.775276+02:00.lighthouse.json) |
-| [August 21 at 12:56 PM](https://archive.org/download/20minutes-2022/20minutes-2022-08-21T12:56:01.657748+02:00.lighthouse.json) |
-| [August 21 at 10:12 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-21T10:12:36.741663+02:00.lighthouse.json) |
-| [August 21 at 12:58 AM](https://archive.org/download/20minutes-2022/20minutes-2022-08-21T00:58:15.415653+02:00.lighthouse.json) |
 
 
 

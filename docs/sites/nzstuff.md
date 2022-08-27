@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 39 screenshots with the Internet Archive.
+The archiving routine has saved 43 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-26T12:06:55.194691+12:00.jpg">
+  <img src="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-26T12:06:55.194691+12:00.jpg"
+     alt="Stuff at 2022-08-26 12:06:58+12:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-26T12:06:55.194691+12:00.jpg">August 26 at 12:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-26T00:06:23.234043+12:00.jpg">
+  <img src="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-26T00:06:23.234043+12:00.jpg"
+     alt="Stuff at 2022-08-26 00:06:24+12:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-26T00:06:23.234043+12:00.jpg">August 26 at 12:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-25T11:59:20.871209+12:00.jpg">
+  <img src="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-25T11:59:20.871209+12:00.jpg"
+     alt="Stuff at 2022-08-25 11:59:24+12:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-25T11:59:20.871209+12:00.jpg">August 25 at 11:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-24T23:56:37.306318+12:00.jpg">
+  <img src="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-24T23:56:37.306318+12:00.jpg"
+     alt="Stuff at 2022-08-24 23:56:39+12:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-24T23:56:37.306318+12:00.jpg">August 24 at 11:56 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-24T11:48:11.503471+12:00.jpg">
   <img src="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-24T11:48:11.503471+12:00.jpg"
      alt="Stuff at 2022-08-24 11:48:14+12:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-21T00:00:11.162277+12:00.jpg">August 21 at 12:00 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-20T11:56:37.247249+12:00.jpg">
-  <img src="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-20T11:56:37.247249+12:00.jpg"
-     alt="Stuff at 2022-08-20 11:56:43+12:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-20T11:56:37.247249+12:00.jpg">August 20 at 11:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-20T02:23:19.438365+12:00.jpg">
-  <img src="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-20T02:23:19.438365+12:00.jpg"
-     alt="Stuff at 2022-08-20 02:23:20+12:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-20T02:23:19.438365+12:00.jpg">August 20 at 2:23 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-20T00:04:27.615652+12:00.jpg">
-  <img src="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-20T00:04:27.615652+12:00.jpg"
-     alt="Stuff at 2022-08-20 00:04:29+12:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-20T00:04:27.615652+12:00.jpg">August 20 at 12:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-19T11:56:34.056128+12:00.jpg">
-  <img src="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-19T11:56:34.056128+12:00.jpg"
-     alt="Stuff at 2022-08-19 11:56:36+12:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-19T11:56:34.056128+12:00.jpg">August 19 at 11:56 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 39 hyperlink lists with the Internet Archive.
+The archiving routine has saved 43 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 26 at 12:07 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-26T12:06:55.194691+12:00.hyperlinks.json) |
+| [August 26 at 12:06 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-26T00:06:23.234043+12:00.hyperlinks.json) |
+| [August 25 at 11:59 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-25T11:59:20.871209+12:00.hyperlinks.json) |
+| [August 24 at 11:56 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-24T23:56:37.306318+12:00.hyperlinks.json) |
 | [August 24 at 11:48 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-24T11:48:11.503471+12:00.hyperlinks.json) |
 | [August 24 at 12:01 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-24T00:01:13.235688+12:00.hyperlinks.json) |
 | [August 23 at 12:03 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-23T12:03:14.120900+12:00.hyperlinks.json) |
 | [August 23 at 12:02 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-23T00:02:18.954999+12:00.hyperlinks.json) |
 | [August 22 at 11:57 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-22T11:57:43.971888+12:00.hyperlinks.json) |
 | [August 22 at 12:04 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-22T00:04:11.707762+12:00.hyperlinks.json) |
-| [August 21 at 11:57 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-21T11:57:40.019541+12:00.hyperlinks.json) |
-| [August 21 at 12:00 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-21T00:00:11.162277+12:00.hyperlinks.json) |
-| [August 20 at 11:56 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-20T11:56:37.247249+12:00.hyperlinks.json) |
-| [August 20 at 2:23 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-20T02:23:19.438365+12:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 39 accessibility trees with the Internet Archive.
+The archiving routine has saved 43 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 26 at 12:07 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-26T12:06:55.194691+12:00.accessibility.json) |
+| [August 26 at 12:06 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-26T00:06:23.234043+12:00.accessibility.json) |
+| [August 25 at 11:59 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-25T11:59:20.871209+12:00.accessibility.json) |
+| [August 24 at 11:56 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-24T23:56:37.306318+12:00.accessibility.json) |
 | [August 24 at 11:48 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-24T11:48:11.503471+12:00.accessibility.json) |
 | [August 24 at 12:01 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-24T00:01:13.235688+12:00.accessibility.json) |
 | [August 23 at 12:03 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-23T12:03:14.120900+12:00.accessibility.json) |
 | [August 23 at 12:02 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-23T00:02:18.954999+12:00.accessibility.json) |
 | [August 22 at 11:57 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-22T11:57:43.971888+12:00.accessibility.json) |
 | [August 22 at 12:04 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-22T00:04:11.707762+12:00.accessibility.json) |
-| [August 21 at 11:57 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-21T11:57:40.019541+12:00.accessibility.json) |
-| [August 21 at 12:00 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-21T00:00:11.162277+12:00.accessibility.json) |
-| [August 20 at 11:56 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-20T11:56:37.247249+12:00.accessibility.json) |
-| [August 20 at 2:23 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-20T02:23:19.438365+12:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 26 at 12:07 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-26T12:06:55.194691+12:00.lighthouse.json) |
+| [August 26 at 12:06 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-26T00:06:23.234043+12:00.lighthouse.json) |
+| [August 25 at 11:59 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-25T11:59:20.871209+12:00.lighthouse.json) |
+| [August 24 at 11:56 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-24T23:56:37.306318+12:00.lighthouse.json) |
 | [August 24 at 11:48 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-24T11:48:11.503471+12:00.lighthouse.json) |
 | [August 24 at 12:01 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-24T00:01:13.235688+12:00.lighthouse.json) |
 | [August 23 at 12:03 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-23T12:03:14.120900+12:00.lighthouse.json) |
 | [August 23 at 12:02 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-23T00:02:18.954999+12:00.lighthouse.json) |
 | [August 22 at 11:57 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-22T11:57:43.971888+12:00.lighthouse.json) |
 | [August 22 at 12:04 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-22T00:04:11.707762+12:00.lighthouse.json) |
-| [August 21 at 11:57 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-21T11:57:40.019541+12:00.lighthouse.json) |
-| [August 21 at 12:00 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-21T00:00:11.162277+12:00.lighthouse.json) |
-| [August 20 at 11:56 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-20T11:56:37.247249+12:00.lighthouse.json) |
-| [August 20 at 2:23 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-20T02:23:19.438365+12:00.lighthouse.json) |
 
 
 

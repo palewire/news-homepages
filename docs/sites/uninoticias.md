@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 59 screenshots with the Internet Archive.
+The archiving routine has saved 62 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/uninoticias-2022/uninoticias-2022-08-25T09:08:26.209009-04:00.jpg">
+  <img src="https://archive.org/download/uninoticias-2022/uninoticias-2022-08-25T09:08:26.209009-04:00.jpg"
+     alt="Univision News at 2022-08-25 09:08:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/uninoticias-2022/uninoticias-2022-08-25T09:08:26.209009-04:00.jpg">August 25 at 9:08 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/uninoticias-2022/uninoticias-2022-08-24T08:59:54.424688-04:00.jpg">
+  <img src="https://archive.org/download/uninoticias-2022/uninoticias-2022-08-24T08:59:54.424688-04:00.jpg"
+     alt="Univision News at 2022-08-24 08:59:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/uninoticias-2022/uninoticias-2022-08-24T08:59:54.424688-04:00.jpg">August 24 at 8:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/uninoticias-2022/uninoticias-2022-08-23T21:12:48.108707-04:00.jpg">
+  <img src="https://archive.org/download/uninoticias-2022/uninoticias-2022-08-23T21:12:48.108707-04:00.jpg"
+     alt="Univision News at 2022-08-23 21:12:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/uninoticias-2022/uninoticias-2022-08-23T21:12:48.108707-04:00.jpg">August 23 at 9:12 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/uninoticias-2022/uninoticias-2022-08-23T09:00:12.983632-04:00.jpg">
   <img src="https://archive.org/download/uninoticias-2022/uninoticias-2022-08-23T09:00:12.983632-04:00.jpg"
      alt="Univision News at 2022-08-23 09:00:14-04:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/uninoticias-2022/uninoticias-2022-08-19T09:23:26.991241-04:00.jpg">August 19 at 9:23 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/uninoticias-2022/uninoticias-2022-08-18T21:23:32.006976-04:00.jpg">
-  <img src="https://archive.org/download/uninoticias-2022/uninoticias-2022-08-18T21:23:32.006976-04:00.jpg"
-     alt="Univision News at 2022-08-18 21:23:33-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/uninoticias-2022/uninoticias-2022-08-18T21:23:32.006976-04:00.jpg">August 18 at 9:23 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/uninoticias-2022/uninoticias-2022-08-18T09:03:19.664822-04:00.jpg">
-  <img src="https://archive.org/download/uninoticias-2022/uninoticias-2022-08-18T09:03:19.664822-04:00.jpg"
-     alt="Univision News at 2022-08-18 09:03:22-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/uninoticias-2022/uninoticias-2022-08-18T09:03:19.664822-04:00.jpg">August 18 at 9:03 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/uninoticias-2022/uninoticias-2022-08-17T21:17:19.927124-04:00.jpg">
-  <img src="https://archive.org/download/uninoticias-2022/uninoticias-2022-08-17T21:17:19.927124-04:00.jpg"
-     alt="Univision News at 2022-08-17 21:17:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/uninoticias-2022/uninoticias-2022-08-17T21:17:19.927124-04:00.jpg">August 17 at 9:17 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 53 hyperlink lists with the Internet Archive.
+The archiving routine has saved 56 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 25 at 9:08 AM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-25T09:08:26.209009-04:00.hyperlinks.json) |
+| [August 24 at 9:00 AM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-24T08:59:54.424688-04:00.hyperlinks.json) |
+| [August 23 at 9:12 PM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-23T21:12:48.108707-04:00.hyperlinks.json) |
 | [August 23 at 9:00 AM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-23T09:00:12.983632-04:00.hyperlinks.json) |
 | [August 22 at 9:27 PM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-22T21:27:01.803010-04:00.hyperlinks.json) |
 | [August 22 at 9:07 AM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-22T09:07:06.549678-04:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 21 at 9:09 AM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-21T09:09:53.689093-04:00.hyperlinks.json) |
 | [August 20 at 9:19 PM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-20T21:18:57.550086-04:00.hyperlinks.json) |
 | [August 20 at 9:05 AM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-20T09:05:20.882061-04:00.hyperlinks.json) |
-| [August 19 at 9:17 PM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-19T21:17:27.944036-04:00.hyperlinks.json) |
-| [August 19 at 9:23 AM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-19T09:23:26.991241-04:00.hyperlinks.json) |
-| [August 18 at 9:23 PM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-18T21:23:32.006976-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 55 accessibility trees with the Internet Archive.
+The archiving routine has saved 58 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 25 at 9:08 AM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-25T09:08:26.209009-04:00.accessibility.json) |
+| [August 24 at 8:59 AM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-24T08:59:54.424688-04:00.accessibility.json) |
+| [August 23 at 9:12 PM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-23T21:12:48.108707-04:00.accessibility.json) |
 | [August 23 at 9:00 AM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-23T09:00:12.983632-04:00.accessibility.json) |
 | [August 22 at 9:27 PM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-22T21:27:01.803010-04:00.accessibility.json) |
 | [August 22 at 9:07 AM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-22T09:07:06.549678-04:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 20 at 9:05 AM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-20T09:05:20.882061-04:00.accessibility.json) |
 | [August 19 at 9:17 PM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-19T21:17:27.944036-04:00.accessibility.json) |
 | [August 19 at 9:23 AM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-19T09:23:26.991241-04:00.accessibility.json) |
-| [August 18 at 9:23 PM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-18T21:23:32.006976-04:00.accessibility.json) |
-| [August 18 at 9:03 AM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-18T09:03:19.664822-04:00.accessibility.json) |
-| [August 17 at 9:17 PM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-17T21:17:19.927124-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 61 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 64 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 25 at 9:08 AM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-25T09:08:26.209009-04:00.lighthouse.json) |
+| [August 24 at 9:00 AM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-24T08:59:54.424688-04:00.lighthouse.json) |
+| [August 23 at 9:12 PM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-23T21:12:48.108707-04:00.lighthouse.json) |
 | [August 23 at 9:00 AM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-23T09:00:12.983632-04:00.lighthouse.json) |
 | [August 22 at 9:27 PM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-22T21:27:01.803010-04:00.lighthouse.json) |
 | [August 22 at 9:07 AM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-22T09:07:06.549678-04:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 21 at 9:09 AM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-21T09:09:53.689093-04:00.lighthouse.json) |
 | [August 20 at 9:19 PM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-20T21:18:57.550086-04:00.lighthouse.json) |
 | [August 20 at 9:05 AM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-20T09:05:20.882061-04:00.lighthouse.json) |
-| [August 19 at 9:17 PM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-19T21:17:27.944036-04:00.lighthouse.json) |
-| [August 19 at 9:23 AM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-19T09:23:26.991241-04:00.lighthouse.json) |
-| [August 18 at 9:23 PM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-18T21:23:32.006976-04:00.lighthouse.json) |
 
 
 

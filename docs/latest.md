@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 875 news sites.
+The most recent homepages captured from 876 news sites.
 
 <div class="latest-parent">
 
@@ -392,6 +392,15 @@ The most recent homepages captured from 875 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/amarujalanews.html">Amar Ujala</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/amerindependent.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/amerindependent.jpg"
+     alt="American Independent"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/amerindependent.html">American Independent</a></p>
 </div>
 
 <div class="latest-child">

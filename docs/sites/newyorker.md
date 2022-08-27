@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 138 screenshots with the Internet Archive.
+The archiving routine has saved 142 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/newyorker-2022/newyorker-2022-08-25T20:07:19.962942-04:00.jpg">
+  <img src="https://archive.org/download/newyorker-2022/newyorker-2022-08-25T20:07:19.962942-04:00.jpg"
+     alt="New Yorker at 2022-08-25 20:07:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newyorker-2022/newyorker-2022-08-25T20:07:19.962942-04:00.jpg">August 25 at 8:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newyorker-2022/newyorker-2022-08-25T08:06:01.927250-04:00.jpg">
+  <img src="https://archive.org/download/newyorker-2022/newyorker-2022-08-25T08:06:01.927250-04:00.jpg"
+     alt="New Yorker at 2022-08-25 08:06:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newyorker-2022/newyorker-2022-08-25T08:06:01.927250-04:00.jpg">August 25 at 8:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newyorker-2022/newyorker-2022-08-24T19:59:10.644236-04:00.jpg">
+  <img src="https://archive.org/download/newyorker-2022/newyorker-2022-08-24T19:59:10.644236-04:00.jpg"
+     alt="New Yorker at 2022-08-24 19:59:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newyorker-2022/newyorker-2022-08-24T19:59:10.644236-04:00.jpg">August 24 at 7:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newyorker-2022/newyorker-2022-08-24T07:56:50.339370-04:00.jpg">
+  <img src="https://archive.org/download/newyorker-2022/newyorker-2022-08-24T07:56:50.339370-04:00.jpg"
+     alt="New Yorker at 2022-08-24 07:56:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newyorker-2022/newyorker-2022-08-24T07:56:50.339370-04:00.jpg">August 24 at 7:56 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/newyorker-2022/newyorker-2022-08-23T19:47:29.754026-04:00.jpg">
   <img src="https://archive.org/download/newyorker-2022/newyorker-2022-08-23T19:47:29.754026-04:00.jpg"
      alt="New Yorker at 2022-08-23 19:47:34-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/newyorker-2022/newyorker-2022-08-20T07:59:34.011579-04:00.jpg">August 20 at 7:59 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/newyorker-2022/newyorker-2022-08-19T19:56:19.271519-04:00.jpg">
-  <img src="https://archive.org/download/newyorker-2022/newyorker-2022-08-19T19:56:19.271519-04:00.jpg"
-     alt="New Yorker at 2022-08-19 19:56:22-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newyorker-2022/newyorker-2022-08-19T19:56:19.271519-04:00.jpg">August 19 at 7:56 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newyorker-2022/newyorker-2022-08-19T10:23:16.067722-04:00.jpg">
-  <img src="https://archive.org/download/newyorker-2022/newyorker-2022-08-19T10:23:16.067722-04:00.jpg"
-     alt="New Yorker at 2022-08-19 10:23:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newyorker-2022/newyorker-2022-08-19T10:23:16.067722-04:00.jpg">August 19 at 10:23 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newyorker-2022/newyorker-2022-08-19T08:04:31.273051-04:00.jpg">
-  <img src="https://archive.org/download/newyorker-2022/newyorker-2022-08-19T08:04:31.273051-04:00.jpg"
-     alt="New Yorker at 2022-08-19 08:04:38-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newyorker-2022/newyorker-2022-08-19T08:04:31.273051-04:00.jpg">August 19 at 8:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newyorker-2022/newyorker-2022-08-18T19:56:22.259262-04:00.jpg">
-  <img src="https://archive.org/download/newyorker-2022/newyorker-2022-08-18T19:56:22.259262-04:00.jpg"
-     alt="New Yorker at 2022-08-18 19:56:30-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newyorker-2022/newyorker-2022-08-18T19:56:22.259262-04:00.jpg">August 18 at 7:56 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 126 hyperlink lists with the Internet Archive.
+The archiving routine has saved 130 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 25 at 8:07 PM](https://archive.org/download/newyorker-2022/newyorker-2022-08-25T20:07:19.962942-04:00.hyperlinks.json) |
+| [August 25 at 8:06 AM](https://archive.org/download/newyorker-2022/newyorker-2022-08-25T08:06:01.927250-04:00.hyperlinks.json) |
+| [August 24 at 7:59 PM](https://archive.org/download/newyorker-2022/newyorker-2022-08-24T19:59:10.644236-04:00.hyperlinks.json) |
+| [August 24 at 7:56 AM](https://archive.org/download/newyorker-2022/newyorker-2022-08-24T07:56:50.339370-04:00.hyperlinks.json) |
 | [August 23 at 7:47 PM](https://archive.org/download/newyorker-2022/newyorker-2022-08-23T19:47:29.754026-04:00.hyperlinks.json) |
 | [August 23 at 8:00 AM](https://archive.org/download/newyorker-2022/newyorker-2022-08-23T08:00:47.815292-04:00.hyperlinks.json) |
 | [August 22 at 8:04 PM](https://archive.org/download/newyorker-2022/newyorker-2022-08-22T20:04:18.930130-04:00.hyperlinks.json) |
 | [August 22 at 8:00 AM](https://archive.org/download/newyorker-2022/newyorker-2022-08-22T08:00:52.448451-04:00.hyperlinks.json) |
 | [August 21 at 7:56 PM](https://archive.org/download/newyorker-2022/newyorker-2022-08-21T19:56:44.543842-04:00.hyperlinks.json) |
 | [August 21 at 8:03 AM](https://archive.org/download/newyorker-2022/newyorker-2022-08-21T08:03:14.601240-04:00.hyperlinks.json) |
-| [August 20 at 7:57 PM](https://archive.org/download/newyorker-2022/newyorker-2022-08-20T19:57:35.442438-04:00.hyperlinks.json) |
-| [August 20 at 7:59 AM](https://archive.org/download/newyorker-2022/newyorker-2022-08-20T07:59:34.011579-04:00.hyperlinks.json) |
-| [August 19 at 7:56 PM](https://archive.org/download/newyorker-2022/newyorker-2022-08-19T19:56:19.271519-04:00.hyperlinks.json) |
-| [August 19 at 10:23 AM](https://archive.org/download/newyorker-2022/newyorker-2022-08-19T10:23:16.067722-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 137 accessibility trees with the Internet Archive.
+The archiving routine has saved 141 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 25 at 8:07 PM](https://archive.org/download/newyorker-2022/newyorker-2022-08-25T20:07:19.962942-04:00.accessibility.json) |
+| [August 25 at 8:06 AM](https://archive.org/download/newyorker-2022/newyorker-2022-08-25T08:06:01.927250-04:00.accessibility.json) |
+| [August 24 at 7:59 PM](https://archive.org/download/newyorker-2022/newyorker-2022-08-24T19:59:10.644236-04:00.accessibility.json) |
+| [August 24 at 7:56 AM](https://archive.org/download/newyorker-2022/newyorker-2022-08-24T07:56:50.339370-04:00.accessibility.json) |
 | [August 23 at 7:47 PM](https://archive.org/download/newyorker-2022/newyorker-2022-08-23T19:47:29.754026-04:00.accessibility.json) |
 | [August 23 at 8:00 AM](https://archive.org/download/newyorker-2022/newyorker-2022-08-23T08:00:47.815292-04:00.accessibility.json) |
 | [August 22 at 8:04 PM](https://archive.org/download/newyorker-2022/newyorker-2022-08-22T20:04:18.930130-04:00.accessibility.json) |
 | [August 22 at 8:00 AM](https://archive.org/download/newyorker-2022/newyorker-2022-08-22T08:00:52.448451-04:00.accessibility.json) |
 | [August 21 at 7:56 PM](https://archive.org/download/newyorker-2022/newyorker-2022-08-21T19:56:44.543842-04:00.accessibility.json) |
 | [August 21 at 8:03 AM](https://archive.org/download/newyorker-2022/newyorker-2022-08-21T08:03:14.601240-04:00.accessibility.json) |
-| [August 20 at 7:57 PM](https://archive.org/download/newyorker-2022/newyorker-2022-08-20T19:57:35.442438-04:00.accessibility.json) |
-| [August 20 at 7:59 AM](https://archive.org/download/newyorker-2022/newyorker-2022-08-20T07:59:34.011579-04:00.accessibility.json) |
-| [August 19 at 7:56 PM](https://archive.org/download/newyorker-2022/newyorker-2022-08-19T19:56:19.271519-04:00.accessibility.json) |
-| [August 19 at 10:23 AM](https://archive.org/download/newyorker-2022/newyorker-2022-08-19T10:23:16.067722-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 64 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 68 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 25 at 8:07 PM](https://archive.org/download/newyorker-2022/newyorker-2022-08-25T20:07:19.962942-04:00.lighthouse.json) |
+| [August 25 at 8:06 AM](https://archive.org/download/newyorker-2022/newyorker-2022-08-25T08:06:01.927250-04:00.lighthouse.json) |
+| [August 24 at 7:59 PM](https://archive.org/download/newyorker-2022/newyorker-2022-08-24T19:59:10.644236-04:00.lighthouse.json) |
+| [August 24 at 7:56 AM](https://archive.org/download/newyorker-2022/newyorker-2022-08-24T07:56:50.339370-04:00.lighthouse.json) |
 | [August 23 at 7:47 PM](https://archive.org/download/newyorker-2022/newyorker-2022-08-23T19:47:29.754026-04:00.lighthouse.json) |
 | [August 23 at 8:00 AM](https://archive.org/download/newyorker-2022/newyorker-2022-08-23T08:00:47.815292-04:00.lighthouse.json) |
 | [August 22 at 8:04 PM](https://archive.org/download/newyorker-2022/newyorker-2022-08-22T20:04:18.930130-04:00.lighthouse.json) |
 | [August 22 at 8:01 AM](https://archive.org/download/newyorker-2022/newyorker-2022-08-22T08:00:52.448451-04:00.lighthouse.json) |
 | [August 21 at 7:56 PM](https://archive.org/download/newyorker-2022/newyorker-2022-08-21T19:56:44.543842-04:00.lighthouse.json) |
 | [August 21 at 8:03 AM](https://archive.org/download/newyorker-2022/newyorker-2022-08-21T08:03:14.601240-04:00.lighthouse.json) |
-| [August 20 at 7:57 PM](https://archive.org/download/newyorker-2022/newyorker-2022-08-20T19:57:35.442438-04:00.lighthouse.json) |
-| [August 20 at 7:59 AM](https://archive.org/download/newyorker-2022/newyorker-2022-08-20T07:59:34.011579-04:00.lighthouse.json) |
-| [August 19 at 7:56 PM](https://archive.org/download/newyorker-2022/newyorker-2022-08-19T19:56:19.271519-04:00.lighthouse.json) |
-| [August 19 at 10:23 AM](https://archive.org/download/newyorker-2022/newyorker-2022-08-19T10:23:16.067722-04:00.lighthouse.json) |
 
 
 

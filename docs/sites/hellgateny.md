@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 106 screenshots with the Internet Archive.
+The archiving routine has saved 110 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-08-25T20:01:19.179802-04:00.jpg">
+  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-08-25T20:01:19.179802-04:00.jpg"
+     alt="Hell Gate at 2022-08-25 20:01:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-08-25T20:01:19.179802-04:00.jpg">August 25 at 8:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-08-25T08:00:35.400528-04:00.jpg">
+  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-08-25T08:00:35.400528-04:00.jpg"
+     alt="Hell Gate at 2022-08-25 08:00:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-08-25T08:00:35.400528-04:00.jpg">August 25 at 8:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-08-24T19:53:41.096134-04:00.jpg">
+  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-08-24T19:53:41.096134-04:00.jpg"
+     alt="Hell Gate at 2022-08-24 19:53:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-08-24T19:53:41.096134-04:00.jpg">August 24 at 7:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-08-24T07:50:46.639501-04:00.jpg">
+  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-08-24T07:50:46.639501-04:00.jpg"
+     alt="Hell Gate at 2022-08-24 07:51:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-08-24T07:50:46.639501-04:00.jpg">August 24 at 7:51 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-08-23T19:42:59.627836-04:00.jpg">
   <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-08-23T19:42:59.627836-04:00.jpg"
      alt="Hell Gate at 2022-08-23 19:43:05-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-08-20T06:58:12.018192-04:00.jpg">August 20 at 6:58 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-08-19T19:04:28.785446-04:00.jpg">
-  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-08-19T19:04:28.785446-04:00.jpg"
-     alt="Hell Gate at 2022-08-19 19:04:33-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-08-19T19:04:28.785446-04:00.jpg">August 19 at 7:04 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-08-19T07:03:31.247086-04:00.jpg">
-  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-08-19T07:03:31.247086-04:00.jpg"
-     alt="Hell Gate at 2022-08-19 07:03:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-08-19T07:03:31.247086-04:00.jpg">August 19 at 7:03 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-08-18T19:05:29.761550-04:00.jpg">
-  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-08-18T19:05:29.761550-04:00.jpg"
-     alt="Hell Gate at 2022-08-18 19:05:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-08-18T19:05:29.761550-04:00.jpg">August 18 at 7:05 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-08-18T07:00:51.266300-04:00.jpg">
-  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-08-18T07:00:51.266300-04:00.jpg"
-     alt="Hell Gate at 2022-08-18 07:00:58-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-08-18T07:00:51.266300-04:00.jpg">August 18 at 7:00 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 106 hyperlink lists with the Internet Archive.
+The archiving routine has saved 110 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 25 at 8:01 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-25T20:01:19.179802-04:00.hyperlinks.json) |
+| [August 25 at 8:00 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-25T08:00:35.400528-04:00.hyperlinks.json) |
+| [August 24 at 7:53 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-24T19:53:41.096134-04:00.hyperlinks.json) |
+| [August 24 at 7:51 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-24T07:50:46.639501-04:00.hyperlinks.json) |
 | [August 23 at 7:43 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-23T19:42:59.627836-04:00.hyperlinks.json) |
 | [August 23 at 7:04 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-23T07:04:34.966501-04:00.hyperlinks.json) |
 | [August 22 at 7:02 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-22T19:02:33.110590-04:00.hyperlinks.json) |
 | [August 22 at 7:56 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-22T07:56:30.792528-04:00.hyperlinks.json) |
 | [August 21 at 6:59 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-21T18:59:04.652522-04:00.hyperlinks.json) |
 | [August 21 at 7:03 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-21T07:02:57.170243-04:00.hyperlinks.json) |
-| [August 20 at 7:05 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-20T19:05:47.243383-04:00.hyperlinks.json) |
-| [August 20 at 6:58 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-20T06:58:12.018192-04:00.hyperlinks.json) |
-| [August 19 at 7:04 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-19T19:04:28.785446-04:00.hyperlinks.json) |
-| [August 19 at 7:03 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-19T07:03:31.247086-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 106 accessibility trees with the Internet Archive.
+The archiving routine has saved 110 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 25 at 8:01 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-25T20:01:19.179802-04:00.accessibility.json) |
+| [August 25 at 8:00 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-25T08:00:35.400528-04:00.accessibility.json) |
+| [August 24 at 7:53 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-24T19:53:41.096134-04:00.accessibility.json) |
+| [August 24 at 7:51 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-24T07:50:46.639501-04:00.accessibility.json) |
 | [August 23 at 7:43 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-23T19:42:59.627836-04:00.accessibility.json) |
 | [August 23 at 7:04 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-23T07:04:34.966501-04:00.accessibility.json) |
 | [August 22 at 7:02 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-22T19:02:33.110590-04:00.accessibility.json) |
 | [August 22 at 7:56 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-22T07:56:30.792528-04:00.accessibility.json) |
 | [August 21 at 6:59 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-21T18:59:04.652522-04:00.accessibility.json) |
 | [August 21 at 7:03 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-21T07:02:57.170243-04:00.accessibility.json) |
-| [August 20 at 7:05 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-20T19:05:47.243383-04:00.accessibility.json) |
-| [August 20 at 6:58 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-20T06:58:12.018192-04:00.accessibility.json) |
-| [August 19 at 7:04 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-19T19:04:28.785446-04:00.accessibility.json) |
-| [August 19 at 7:03 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-19T07:03:31.247086-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 63 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 67 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 25 at 8:01 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-25T20:01:19.179802-04:00.lighthouse.json) |
+| [August 25 at 8:00 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-25T08:00:35.400528-04:00.lighthouse.json) |
+| [August 24 at 7:53 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-24T19:53:41.096134-04:00.lighthouse.json) |
+| [August 24 at 7:51 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-24T07:50:46.639501-04:00.lighthouse.json) |
 | [August 23 at 7:43 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-23T19:42:59.627836-04:00.lighthouse.json) |
 | [August 23 at 7:04 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-23T07:04:34.966501-04:00.lighthouse.json) |
 | [August 22 at 7:02 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-22T19:02:33.110590-04:00.lighthouse.json) |
 | [August 22 at 7:56 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-22T07:56:30.792528-04:00.lighthouse.json) |
 | [August 21 at 6:59 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-21T18:59:04.652522-04:00.lighthouse.json) |
 | [August 21 at 7:03 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-21T07:02:57.170243-04:00.lighthouse.json) |
-| [August 20 at 7:05 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-20T19:05:47.243383-04:00.lighthouse.json) |
-| [August 20 at 6:58 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-20T06:58:12.018192-04:00.lighthouse.json) |
-| [August 19 at 7:04 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-19T19:04:28.785446-04:00.lighthouse.json) |
-| [August 19 at 7:03 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-08-19T07:03:31.247086-04:00.lighthouse.json) |
 
 
 

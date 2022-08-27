@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 62 screenshots with the Internet Archive.
+The archiving routine has saved 65 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-25T18:53:25.139807+05:45.jpg">
+  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-25T18:53:25.139807+05:45.jpg"
+     alt="Ujyaalo at 2022-08-25 18:53:28+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-25T18:53:25.139807+05:45.jpg">August 25 at 6:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-24T18:45:33.299817+05:45.jpg">
+  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-24T18:45:33.299817+05:45.jpg"
+     alt="Ujyaalo at 2022-08-24 18:45:36+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-24T18:45:33.299817+05:45.jpg">August 24 at 6:45 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-24T06:57:51.108418+05:45.jpg">
+  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-24T06:57:51.108418+05:45.jpg"
+     alt="Ujyaalo at 2022-08-24 06:57:53+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-24T06:57:51.108418+05:45.jpg">August 24 at 6:57 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-23T18:45:46.423513+05:45.jpg">
   <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-23T18:45:46.423513+05:45.jpg"
      alt="Ujyaalo at 2022-08-23 18:45:53+05:45 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-19T19:08:47.466417+05:45.jpg">August 19 at 7:08 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-19T07:08:39.354313+05:45.jpg">
-  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-19T07:08:39.354313+05:45.jpg"
-     alt="Ujyaalo at 2022-08-19 07:08:40+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-19T07:08:39.354313+05:45.jpg">August 19 at 7:08 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-18T18:48:30.706319+05:45.jpg">
-  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-18T18:48:30.706319+05:45.jpg"
-     alt="Ujyaalo at 2022-08-18 18:48:34+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-18T18:48:30.706319+05:45.jpg">August 18 at 6:48 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-18T07:02:08.614977+05:45.jpg">
-  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-18T07:02:08.614977+05:45.jpg"
-     alt="Ujyaalo at 2022-08-18 07:02:10+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-18T07:02:08.614977+05:45.jpg">August 18 at 7:02 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 64 hyperlink lists with the Internet Archive.
+The archiving routine has saved 67 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 25 at 6:53 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-25T18:53:25.139807+05:45.hyperlinks.json) |
+| [August 24 at 6:45 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-24T18:45:33.299817+05:45.hyperlinks.json) |
+| [August 24 at 6:57 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-24T06:57:51.108418+05:45.hyperlinks.json) |
 | [August 23 at 6:45 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-23T18:45:46.423513+05:45.hyperlinks.json) |
 | [August 23 at 7:12 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-23T07:12:37.976780+05:45.hyperlinks.json) |
 | [August 22 at 6:52 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-22T18:52:18.241216+05:45.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 21 at 6:55 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-21T18:54:58.534243+05:45.hyperlinks.json) |
 | [August 21 at 7:03 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-21T07:03:35.986435+05:45.hyperlinks.json) |
 | [August 20 at 6:50 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-20T18:49:54.322468+05:45.hyperlinks.json) |
-| [August 20 at 7:02 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-20T07:02:50.615167+05:45.hyperlinks.json) |
-| [August 19 at 7:08 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-19T19:08:47.466417+05:45.hyperlinks.json) |
-| [August 19 at 7:08 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-19T07:08:39.354313+05:45.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 64 accessibility trees with the Internet Archive.
+The archiving routine has saved 67 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 25 at 6:53 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-25T18:53:25.139807+05:45.accessibility.json) |
+| [August 24 at 6:45 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-24T18:45:33.299817+05:45.accessibility.json) |
+| [August 24 at 6:57 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-24T06:57:51.108418+05:45.accessibility.json) |
 | [August 23 at 6:45 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-23T18:45:46.423513+05:45.accessibility.json) |
 | [August 23 at 7:12 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-23T07:12:37.976780+05:45.accessibility.json) |
 | [August 22 at 6:52 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-22T18:52:18.241216+05:45.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 21 at 6:55 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-21T18:54:58.534243+05:45.accessibility.json) |
 | [August 21 at 7:03 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-21T07:03:35.986435+05:45.accessibility.json) |
 | [August 20 at 6:49 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-20T18:49:54.322468+05:45.accessibility.json) |
-| [August 20 at 7:02 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-20T07:02:50.615167+05:45.accessibility.json) |
-| [August 19 at 7:08 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-19T19:08:47.466417+05:45.accessibility.json) |
-| [August 19 at 7:08 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-19T07:08:39.354313+05:45.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 63 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 66 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 25 at 6:53 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-25T18:53:25.139807+05:45.lighthouse.json) |
+| [August 24 at 6:45 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-24T18:45:33.299817+05:45.lighthouse.json) |
+| [August 24 at 6:57 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-24T06:57:51.108418+05:45.lighthouse.json) |
 | [August 23 at 6:45 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-23T18:45:46.423513+05:45.lighthouse.json) |
 | [August 23 at 7:12 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-23T07:12:37.976780+05:45.lighthouse.json) |
 | [August 22 at 6:52 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-22T18:52:18.241216+05:45.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 21 at 6:55 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-21T18:54:58.534243+05:45.lighthouse.json) |
 | [August 21 at 7:03 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-21T07:03:35.986435+05:45.lighthouse.json) |
 | [August 20 at 6:50 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-20T18:49:54.322468+05:45.lighthouse.json) |
-| [August 20 at 7:02 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-20T07:02:50.615167+05:45.lighthouse.json) |
-| [August 19 at 7:08 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-19T19:08:47.466417+05:45.lighthouse.json) |
-| [August 19 at 7:08 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-08-19T07:08:39.354313+05:45.lighthouse.json) |
 
 
 

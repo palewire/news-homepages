@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 70 screenshots with the Internet Archive.
+The archiving routine has saved 74 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-25T18:51:50.175141-04:00.jpg">
+  <img src="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-25T18:51:50.175141-04:00.jpg"
+     alt="Capital B Atlanta at 2022-08-25 18:51:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-25T18:51:50.175141-04:00.jpg">August 25 at 6:51 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-25T06:55:38.897139-04:00.jpg">
+  <img src="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-25T06:55:38.897139-04:00.jpg"
+     alt="Capital B Atlanta at 2022-08-25 06:55:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-25T06:55:38.897139-04:00.jpg">August 25 at 6:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-24T18:55:02.627833-04:00.jpg">
+  <img src="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-24T18:55:02.627833-04:00.jpg"
+     alt="Capital B Atlanta at 2022-08-24 18:55:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-24T18:55:02.627833-04:00.jpg">August 24 at 6:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-24T06:47:38.463080-04:00.jpg">
+  <img src="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-24T06:47:38.463080-04:00.jpg"
+     alt="Capital B Atlanta at 2022-08-24 06:47:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-24T06:47:38.463080-04:00.jpg">August 24 at 6:47 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-23T18:58:45.762531-04:00.jpg">
   <img src="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-23T18:58:45.762531-04:00.jpg"
      alt="Capital B Atlanta at 2022-08-23 18:58:49-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-20T06:53:33.678594-04:00.jpg">August 20 at 6:53 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-19T18:59:54.985731-04:00.jpg">
-  <img src="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-19T18:59:54.985731-04:00.jpg"
-     alt="Capital B Atlanta at 2022-08-19 18:59:58-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-19T18:59:54.985731-04:00.jpg">August 19 at 6:59 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-19T06:57:21.927102-04:00.jpg">
-  <img src="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-19T06:57:21.927102-04:00.jpg"
-     alt="Capital B Atlanta at 2022-08-19 06:57:25-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-19T06:57:21.927102-04:00.jpg">August 19 at 6:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-18T18:59:20.176778-04:00.jpg">
-  <img src="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-18T18:59:20.176778-04:00.jpg"
-     alt="Capital B Atlanta at 2022-08-18 18:59:25-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-18T18:59:20.176778-04:00.jpg">August 18 at 6:59 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-18T06:55:45.684167-04:00.jpg">
-  <img src="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-18T06:55:45.684167-04:00.jpg"
-     alt="Capital B Atlanta at 2022-08-18 06:55:48-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-18T06:55:45.684167-04:00.jpg">August 18 at 6:55 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 70 hyperlink lists with the Internet Archive.
+The archiving routine has saved 74 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 25 at 6:51 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-25T18:51:50.175141-04:00.hyperlinks.json) |
+| [August 25 at 6:55 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-25T06:55:38.897139-04:00.hyperlinks.json) |
+| [August 24 at 6:55 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-24T18:55:02.627833-04:00.hyperlinks.json) |
+| [August 24 at 6:47 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-24T06:47:38.463080-04:00.hyperlinks.json) |
 | [August 23 at 6:58 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-23T18:58:45.762531-04:00.hyperlinks.json) |
 | [August 23 at 6:59 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-23T06:59:50.885178-04:00.hyperlinks.json) |
 | [August 22 at 6:56 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-22T18:56:47.621936-04:00.hyperlinks.json) |
 | [August 22 at 6:55 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-22T06:55:33.642938-04:00.hyperlinks.json) |
 | [August 21 at 6:54 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-21T18:54:24.027561-04:00.hyperlinks.json) |
 | [August 21 at 6:58 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-21T06:58:05.406725-04:00.hyperlinks.json) |
-| [August 20 at 7:01 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-20T19:01:17.340049-04:00.hyperlinks.json) |
-| [August 20 at 6:53 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-20T06:53:33.678594-04:00.hyperlinks.json) |
-| [August 19 at 7:00 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-19T18:59:54.985731-04:00.hyperlinks.json) |
-| [August 19 at 6:57 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-19T06:57:21.927102-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 70 accessibility trees with the Internet Archive.
+The archiving routine has saved 74 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 25 at 6:51 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-25T18:51:50.175141-04:00.accessibility.json) |
+| [August 25 at 6:55 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-25T06:55:38.897139-04:00.accessibility.json) |
+| [August 24 at 6:55 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-24T18:55:02.627833-04:00.accessibility.json) |
+| [August 24 at 6:47 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-24T06:47:38.463080-04:00.accessibility.json) |
 | [August 23 at 6:58 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-23T18:58:45.762531-04:00.accessibility.json) |
 | [August 23 at 6:59 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-23T06:59:50.885178-04:00.accessibility.json) |
 | [August 22 at 6:56 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-22T18:56:47.621936-04:00.accessibility.json) |
 | [August 22 at 6:55 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-22T06:55:33.642938-04:00.accessibility.json) |
 | [August 21 at 6:54 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-21T18:54:24.027561-04:00.accessibility.json) |
 | [August 21 at 6:58 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-21T06:58:05.406725-04:00.accessibility.json) |
-| [August 20 at 7:01 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-20T19:01:17.340049-04:00.accessibility.json) |
-| [August 20 at 6:53 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-20T06:53:33.678594-04:00.accessibility.json) |
-| [August 19 at 7:00 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-19T18:59:54.985731-04:00.accessibility.json) |
-| [August 19 at 6:57 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-19T06:57:21.927102-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 63 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 67 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 25 at 6:51 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-25T18:51:50.175141-04:00.lighthouse.json) |
+| [August 25 at 6:55 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-25T06:55:38.897139-04:00.lighthouse.json) |
+| [August 24 at 6:55 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-24T18:55:02.627833-04:00.lighthouse.json) |
+| [August 24 at 6:47 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-24T06:47:38.463080-04:00.lighthouse.json) |
 | [August 23 at 6:58 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-23T18:58:45.762531-04:00.lighthouse.json) |
 | [August 23 at 6:59 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-23T06:59:50.885178-04:00.lighthouse.json) |
 | [August 22 at 6:56 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-22T18:56:47.621936-04:00.lighthouse.json) |
 | [August 22 at 6:55 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-22T06:55:33.642938-04:00.lighthouse.json) |
 | [August 21 at 6:54 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-21T18:54:24.027561-04:00.lighthouse.json) |
 | [August 21 at 6:58 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-21T06:58:05.406725-04:00.lighthouse.json) |
-| [August 20 at 7:01 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-20T19:01:17.340049-04:00.lighthouse.json) |
-| [August 20 at 6:53 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-20T06:53:33.678594-04:00.lighthouse.json) |
-| [August 19 at 7:00 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-19T18:59:54.985731-04:00.lighthouse.json) |
-| [August 19 at 6:57 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-19T06:57:21.927102-04:00.lighthouse.json) |
 
 
 

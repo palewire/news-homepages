@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 111 screenshots with the Internet Archive.
+The archiving routine has saved 117 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,60 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-25T20:01:54.530867-04:00.jpg">
+  <img src="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-25T20:01:54.530867-04:00.jpg"
+     alt="Washington Free Beacon at 2022-08-25 20:01:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-25T20:01:54.530867-04:00.jpg">August 25 at 8:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-25T14:28:18.100385-04:00.jpg">
+  <img src="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-25T14:28:18.100385-04:00.jpg"
+     alt="Washington Free Beacon at 2022-08-25 14:28:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-25T14:28:18.100385-04:00.jpg">August 25 at 2:28 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-25T08:00:28.908026-04:00.jpg">
+  <img src="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-25T08:00:28.908026-04:00.jpg"
+     alt="Washington Free Beacon at 2022-08-25 08:00:31-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-25T08:00:28.908026-04:00.jpg">August 25 at 8:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-24T19:53:47.904201-04:00.jpg">
+  <img src="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-24T19:53:47.904201-04:00.jpg"
+     alt="Washington Free Beacon at 2022-08-24 19:53:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-24T19:53:47.904201-04:00.jpg">August 24 at 7:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-24T14:36:47.747499-04:00.jpg">
+  <img src="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-24T14:36:47.747499-04:00.jpg"
+     alt="Washington Free Beacon at 2022-08-24 14:36:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-24T14:36:47.747499-04:00.jpg">August 24 at 2:36 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-24T07:50:07.063744-04:00.jpg">
+  <img src="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-24T07:50:07.063744-04:00.jpg"
+     alt="Washington Free Beacon at 2022-08-24 07:50:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-24T07:50:07.063744-04:00.jpg">August 24 at 7:50 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-23T19:43:20.582651-04:00.jpg">
   <img src="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-23T19:43:20.582651-04:00.jpg"
      alt="Washington Free Beacon at 2022-08-23 19:43:29-04:00 local time"
@@ -379,65 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-22T07:00:18.041527-04:00.jpg">August 22 at 7:00 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-21T18:58:08.974221-04:00.jpg">
-  <img src="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-21T18:58:08.974221-04:00.jpg"
-     alt="Washington Free Beacon at 2022-08-21 18:58:10-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-21T18:58:08.974221-04:00.jpg">August 21 at 6:58 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-21T14:28:06.223017-04:00.jpg">
-  <img src="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-21T14:28:06.223017-04:00.jpg"
-     alt="Washington Free Beacon at 2022-08-21 14:28:10-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-21T14:28:06.223017-04:00.jpg">August 21 at 2:28 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-21T07:03:10.256863-04:00.jpg">
-  <img src="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-21T07:03:10.256863-04:00.jpg"
-     alt="Washington Free Beacon at 2022-08-21 07:03:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-21T07:03:10.256863-04:00.jpg">August 21 at 7:03 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-20T19:05:22.052642-04:00.jpg">
-  <img src="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-20T19:05:22.052642-04:00.jpg"
-     alt="Washington Free Beacon at 2022-08-20 19:05:26-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-20T19:05:22.052642-04:00.jpg">August 20 at 7:05 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-20T14:32:01.222657-04:00.jpg">
-  <img src="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-20T14:32:01.222657-04:00.jpg"
-     alt="Washington Free Beacon at 2022-08-20 14:32:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-20T14:32:01.222657-04:00.jpg">August 20 at 2:32 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-20T06:57:28.176770-04:00.jpg">
-  <img src="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-20T06:57:28.176770-04:00.jpg"
-     alt="Washington Free Beacon at 2022-08-20 06:57:31-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-20T06:57:28.176770-04:00.jpg">August 20 at 6:57 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 110 hyperlink lists with the Internet Archive.
+The archiving routine has saved 116 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 25 at 8:01 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-25T20:01:54.530867-04:00.hyperlinks.json) |
+| [August 25 at 2:28 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-25T14:28:18.100385-04:00.hyperlinks.json) |
+| [August 25 at 8:00 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-25T08:00:28.908026-04:00.hyperlinks.json) |
+| [August 24 at 7:53 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-24T19:53:47.904201-04:00.hyperlinks.json) |
+| [August 24 at 2:37 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-24T14:36:47.747499-04:00.hyperlinks.json) |
+| [August 24 at 7:50 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-24T07:50:07.063744-04:00.hyperlinks.json) |
 | [August 23 at 7:43 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-23T19:43:20.582651-04:00.hyperlinks.json) |
 | [August 23 at 2:35 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-23T14:35:09.837737-04:00.hyperlinks.json) |
 | [August 23 at 7:03 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-23T07:03:39.575485-04:00.hyperlinks.json) |
 | [August 22 at 7:02 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-22T19:02:04.033751-04:00.hyperlinks.json) |
-| [August 22 at 2:26 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-22T14:26:26.331510-04:00.hyperlinks.json) |
-| [August 22 at 7:00 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-22T07:00:18.041527-04:00.hyperlinks.json) |
-| [August 21 at 6:58 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-21T18:58:08.974221-04:00.hyperlinks.json) |
-| [August 21 at 2:28 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-21T14:28:06.223017-04:00.hyperlinks.json) |
-| [August 21 at 7:03 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-21T07:03:10.256863-04:00.hyperlinks.json) |
-| [August 20 at 7:05 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-20T19:05:22.052642-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 111 accessibility trees with the Internet Archive.
+The archiving routine has saved 117 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 25 at 8:01 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-25T20:01:54.530867-04:00.accessibility.json) |
+| [August 25 at 2:28 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-25T14:28:18.100385-04:00.accessibility.json) |
+| [August 25 at 8:00 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-25T08:00:28.908026-04:00.accessibility.json) |
+| [August 24 at 7:53 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-24T19:53:47.904201-04:00.accessibility.json) |
+| [August 24 at 2:36 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-24T14:36:47.747499-04:00.accessibility.json) |
+| [August 24 at 7:50 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-24T07:50:07.063744-04:00.accessibility.json) |
 | [August 23 at 7:43 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-23T19:43:20.582651-04:00.accessibility.json) |
 | [August 23 at 2:35 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-23T14:35:09.837737-04:00.accessibility.json) |
 | [August 23 at 7:03 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-23T07:03:39.575485-04:00.accessibility.json) |
 | [August 22 at 7:02 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-22T19:02:04.033751-04:00.accessibility.json) |
-| [August 22 at 2:26 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-22T14:26:26.331510-04:00.accessibility.json) |
-| [August 22 at 7:00 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-22T07:00:18.041527-04:00.accessibility.json) |
-| [August 21 at 6:58 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-21T18:58:08.974221-04:00.accessibility.json) |
-| [August 21 at 2:28 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-21T14:28:06.223017-04:00.accessibility.json) |
-| [August 21 at 7:03 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-21T07:03:10.256863-04:00.accessibility.json) |
-| [August 20 at 7:05 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-20T19:05:22.052642-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 93 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 99 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 25 at 8:01 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-25T20:01:54.530867-04:00.lighthouse.json) |
+| [August 25 at 2:28 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-25T14:28:18.100385-04:00.lighthouse.json) |
+| [August 25 at 8:00 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-25T08:00:28.908026-04:00.lighthouse.json) |
+| [August 24 at 7:53 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-24T19:53:47.904201-04:00.lighthouse.json) |
+| [August 24 at 2:37 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-24T14:36:47.747499-04:00.lighthouse.json) |
+| [August 24 at 7:50 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-24T07:50:07.063744-04:00.lighthouse.json) |
 | [August 23 at 7:43 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-23T19:43:20.582651-04:00.lighthouse.json) |
 | [August 23 at 2:35 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-23T14:35:09.837737-04:00.lighthouse.json) |
 | [August 23 at 7:03 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-23T07:03:39.575485-04:00.lighthouse.json) |
 | [August 22 at 7:02 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-22T19:02:04.033751-04:00.lighthouse.json) |
-| [August 22 at 2:26 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-22T14:26:26.331510-04:00.lighthouse.json) |
-| [August 22 at 7:00 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-22T07:00:18.041527-04:00.lighthouse.json) |
-| [August 21 at 6:58 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-21T18:58:08.974221-04:00.lighthouse.json) |
-| [August 21 at 2:28 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-21T14:28:06.223017-04:00.lighthouse.json) |
-| [August 21 at 7:03 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-21T07:03:10.256863-04:00.lighthouse.json) |
-| [August 20 at 7:05 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-20T19:05:22.052642-04:00.lighthouse.json) |
 
 
 

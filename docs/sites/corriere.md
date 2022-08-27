@@ -234,13 +234,132 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 31 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/corriere.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/corriere-2022/corriere-2022-08-26T00:53:15.891606+02:00.jpg">
+  <img src="https://archive.org/download/corriere-2022/corriere-2022-08-26T00:53:15.891606+02:00.jpg"
+     alt="Corriere della Sera at 2022-08-26 00:53:22+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/corriere-2022/corriere-2022-08-26T00:53:15.891606+02:00.jpg">August 26 at 12:53 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/corriere-2022/corriere-2022-08-25T12:56:16.842342+02:00.jpg">
+  <img src="https://archive.org/download/corriere-2022/corriere-2022-08-25T12:56:16.842342+02:00.jpg"
+     alt="Corriere della Sera at 2022-08-25 12:56:18+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/corriere-2022/corriere-2022-08-25T12:56:16.842342+02:00.jpg">August 25 at 12:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/corriere-2022/corriere-2022-08-25T00:56:06.411003+02:00.jpg">
+  <img src="https://archive.org/download/corriere-2022/corriere-2022-08-25T00:56:06.411003+02:00.jpg"
+     alt="Corriere della Sera at 2022-08-25 00:56:09+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/corriere-2022/corriere-2022-08-25T00:56:06.411003+02:00.jpg">August 25 at 12:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/corriere-2022/corriere-2022-08-24T12:49:27.285813+02:00.jpg">
+  <img src="https://archive.org/download/corriere-2022/corriere-2022-08-24T12:49:27.285813+02:00.jpg"
+     alt="Corriere della Sera at 2022-08-24 12:49:33+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/corriere-2022/corriere-2022-08-24T12:49:27.285813+02:00.jpg">August 24 at 12:49 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/corriere-2022/corriere-2022-08-24T00:59:02.891953+02:00.jpg">
@@ -314,109 +433,322 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/corriere-2022/corriere-2022-08-20T12:55:03.406469+02:00.jpg">August 20 at 12:55 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/corriere-2022/corriere-2022-08-20T01:01:24.930223+02:00.jpg">
-  <img src="https://archive.org/download/corriere-2022/corriere-2022-08-20T01:01:24.930223+02:00.jpg"
-     alt="Corriere della Sera at 2022-08-20 01:01:28+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/corriere-2022/corriere-2022-08-20T01:01:24.930223+02:00.jpg">August 20 at 1:01 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/corriere-2022/corriere-2022-08-19T12:59:22.525133+02:00.jpg">
-  <img src="https://archive.org/download/corriere-2022/corriere-2022-08-19T12:59:22.525133+02:00.jpg"
-     alt="Corriere della Sera at 2022-08-19 12:59:26+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/corriere-2022/corriere-2022-08-19T12:59:22.525133+02:00.jpg">August 19 at 12:59 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/corriere-2022/corriere-2022-08-19T01:00:09.544182+02:00.jpg">
-  <img src="https://archive.org/download/corriere-2022/corriere-2022-08-19T01:00:09.544182+02:00.jpg"
-     alt="Corriere della Sera at 2022-08-19 01:00:11+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/corriere-2022/corriere-2022-08-19T01:00:09.544182+02:00.jpg">August 19 at 1:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/corriere-2022/corriere-2022-08-18T12:57:57.292513+02:00.jpg">
-  <img src="https://archive.org/download/corriere-2022/corriere-2022-08-18T12:57:57.292513+02:00.jpg"
-     alt="Corriere della Sera at 2022-08-18 12:58:00+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/corriere-2022/corriere-2022-08-18T12:57:57.292513+02:00.jpg">August 18 at 12:58 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 27 hyperlink lists with the Internet Archive.
+The archiving routine has saved 31 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/corriere.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 26 at 12:53 AM](https://archive.org/download/corriere-2022/corriere-2022-08-26T00:53:15.891606+02:00.hyperlinks.json) |
+| [August 25 at 12:56 PM](https://archive.org/download/corriere-2022/corriere-2022-08-25T12:56:16.842342+02:00.hyperlinks.json) |
+| [August 25 at 12:56 AM](https://archive.org/download/corriere-2022/corriere-2022-08-25T00:56:06.411003+02:00.hyperlinks.json) |
+| [August 24 at 12:49 PM](https://archive.org/download/corriere-2022/corriere-2022-08-24T12:49:27.285813+02:00.hyperlinks.json) |
 | [August 24 at 12:59 AM](https://archive.org/download/corriere-2022/corriere-2022-08-24T00:59:02.891953+02:00.hyperlinks.json) |
 | [August 23 at 1:00 PM](https://archive.org/download/corriere-2022/corriere-2022-08-23T13:00:31.572738+02:00.hyperlinks.json) |
 | [August 23 at 12:58 AM](https://archive.org/download/corriere-2022/corriere-2022-08-23T00:58:47.762588+02:00.hyperlinks.json) |
 | [August 22 at 12:57 PM](https://archive.org/download/corriere-2022/corriere-2022-08-22T12:57:23.258543+02:00.hyperlinks.json) |
 | [August 22 at 12:55 AM](https://archive.org/download/corriere-2022/corriere-2022-08-22T00:55:35.899018+02:00.hyperlinks.json) |
 | [August 21 at 12:59 PM](https://archive.org/download/corriere-2022/corriere-2022-08-21T12:59:48.975646+02:00.hyperlinks.json) |
-| [August 21 at 1:01 AM](https://archive.org/download/corriere-2022/corriere-2022-08-21T01:01:48.030221+02:00.hyperlinks.json) |
-| [August 20 at 12:55 PM](https://archive.org/download/corriere-2022/corriere-2022-08-20T12:55:03.406469+02:00.hyperlinks.json) |
-| [August 20 at 1:01 AM](https://archive.org/download/corriere-2022/corriere-2022-08-20T01:01:24.930223+02:00.hyperlinks.json) |
-| [August 19 at 12:59 PM](https://archive.org/download/corriere-2022/corriere-2022-08-19T12:59:22.525133+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 27 accessibility trees with the Internet Archive.
+The archiving routine has saved 31 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/corriere.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 26 at 12:53 AM](https://archive.org/download/corriere-2022/corriere-2022-08-26T00:53:15.891606+02:00.accessibility.json) |
+| [August 25 at 12:56 PM](https://archive.org/download/corriere-2022/corriere-2022-08-25T12:56:16.842342+02:00.accessibility.json) |
+| [August 25 at 12:56 AM](https://archive.org/download/corriere-2022/corriere-2022-08-25T00:56:06.411003+02:00.accessibility.json) |
+| [August 24 at 12:49 PM](https://archive.org/download/corriere-2022/corriere-2022-08-24T12:49:27.285813+02:00.accessibility.json) |
 | [August 24 at 12:59 AM](https://archive.org/download/corriere-2022/corriere-2022-08-24T00:59:02.891953+02:00.accessibility.json) |
 | [August 23 at 1:00 PM](https://archive.org/download/corriere-2022/corriere-2022-08-23T13:00:31.572738+02:00.accessibility.json) |
 | [August 23 at 12:58 AM](https://archive.org/download/corriere-2022/corriere-2022-08-23T00:58:47.762588+02:00.accessibility.json) |
 | [August 22 at 12:57 PM](https://archive.org/download/corriere-2022/corriere-2022-08-22T12:57:23.258543+02:00.accessibility.json) |
 | [August 22 at 12:55 AM](https://archive.org/download/corriere-2022/corriere-2022-08-22T00:55:35.899018+02:00.accessibility.json) |
 | [August 21 at 12:59 PM](https://archive.org/download/corriere-2022/corriere-2022-08-21T12:59:48.975646+02:00.accessibility.json) |
-| [August 21 at 1:01 AM](https://archive.org/download/corriere-2022/corriere-2022-08-21T01:01:48.030221+02:00.accessibility.json) |
-| [August 20 at 12:55 PM](https://archive.org/download/corriere-2022/corriere-2022-08-20T12:55:03.406469+02:00.accessibility.json) |
-| [August 20 at 1:01 AM](https://archive.org/download/corriere-2022/corriere-2022-08-20T01:01:24.930223+02:00.accessibility.json) |
-| [August 19 at 12:59 PM](https://archive.org/download/corriere-2022/corriere-2022-08-19T12:59:22.525133+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/corriere.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 26 at 12:53 AM](https://archive.org/download/corriere-2022/corriere-2022-08-26T00:53:15.891606+02:00.lighthouse.json) |
+| [August 25 at 12:56 PM](https://archive.org/download/corriere-2022/corriere-2022-08-25T12:56:16.842342+02:00.lighthouse.json) |
+| [August 25 at 12:56 AM](https://archive.org/download/corriere-2022/corriere-2022-08-25T00:56:06.411003+02:00.lighthouse.json) |
+| [August 24 at 12:49 PM](https://archive.org/download/corriere-2022/corriere-2022-08-24T12:49:27.285813+02:00.lighthouse.json) |
 | [August 24 at 12:59 AM](https://archive.org/download/corriere-2022/corriere-2022-08-24T00:59:02.891953+02:00.lighthouse.json) |
 | [August 23 at 1:00 PM](https://archive.org/download/corriere-2022/corriere-2022-08-23T13:00:31.572738+02:00.lighthouse.json) |
 | [August 23 at 12:58 AM](https://archive.org/download/corriere-2022/corriere-2022-08-23T00:58:47.762588+02:00.lighthouse.json) |
 | [August 22 at 12:57 PM](https://archive.org/download/corriere-2022/corriere-2022-08-22T12:57:23.258543+02:00.lighthouse.json) |
 | [August 22 at 12:55 AM](https://archive.org/download/corriere-2022/corriere-2022-08-22T00:55:35.899018+02:00.lighthouse.json) |
 | [August 21 at 12:59 PM](https://archive.org/download/corriere-2022/corriere-2022-08-21T12:59:48.975646+02:00.lighthouse.json) |
-| [August 21 at 1:01 AM](https://archive.org/download/corriere-2022/corriere-2022-08-21T01:01:48.030221+02:00.lighthouse.json) |
-| [August 20 at 12:55 PM](https://archive.org/download/corriere-2022/corriere-2022-08-20T12:55:03.406469+02:00.lighthouse.json) |
-| [August 20 at 1:01 AM](https://archive.org/download/corriere-2022/corriere-2022-08-20T01:01:24.930223+02:00.lighthouse.json) |
-| [August 19 at 12:59 PM](https://archive.org/download/corriere-2022/corriere-2022-08-19T12:59:22.525133+02:00.lighthouse.json) |
 
 
 

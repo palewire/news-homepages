@@ -28,13 +28,40 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 1 screenshots with the Internet Archive.
+The archiving routine has saved 4 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-08-25T10:55:47.540044-04:00.jpg">
+  <img src="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-08-25T10:55:47.540044-04:00.jpg"
+     alt="Dnyuz at 2022-08-25 10:55:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-08-25T10:55:47.540044-04:00.jpg">August 25 at 10:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-08-24T10:00:52.985770-04:00.jpg">
+  <img src="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-08-24T10:00:52.985770-04:00.jpg"
+     alt="Dnyuz at 2022-08-24 10:00:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-08-24T10:00:52.985770-04:00.jpg">August 24 at 10:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-08-23T22:19:06.497496-04:00.jpg">
+  <img src="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-08-23T22:19:06.497496-04:00.jpg"
+     alt="Dnyuz at 2022-08-23 22:19:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-08-23T22:19:06.497496-04:00.jpg">August 23 at 10:19 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-08-23T10:02:41.712845-04:00.jpg">
@@ -49,7 +76,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 1 hyperlink lists with the Internet Archive.
+The archiving routine has saved 3 hyperlink lists with the Internet Archive.
 
 
 
@@ -57,12 +84,14 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 25 at 10:55 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-08-25T10:55:47.540044-04:00.hyperlinks.json) |
+| [August 24 at 10:00 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-08-24T10:00:52.985770-04:00.hyperlinks.json) |
 | [August 23 at 10:02 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-08-23T10:02:41.712845-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 0 accessibility trees with the Internet Archive.
+The archiving routine has saved 2 accessibility trees with the Internet Archive.
 
 
 
@@ -70,12 +99,14 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 25 at 10:55 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-08-25T10:55:47.540044-04:00.accessibility.json) |
+| [August 24 at 10:00 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-08-24T10:00:52.985770-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 1 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 4 Lighthouse audits with the Internet Archive.
 
 
 
@@ -83,6 +114,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 25 at 10:55 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-08-25T10:55:47.540044-04:00.lighthouse.json) |
+| [August 24 at 10:00 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-08-24T10:00:52.985770-04:00.lighthouse.json) |
+| [August 23 at 10:19 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-08-23T22:19:06.497496-04:00.lighthouse.json) |
 | [August 23 at 10:03 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-08-23T10:02:41.712845-04:00.lighthouse.json) |
 
 

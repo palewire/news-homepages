@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 92 screenshots with the Internet Archive.
+The archiving routine has saved 95 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/mongabay-2022/mongabay-2022-08-25T08:03:15.121760-07:00.jpg">
+  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-08-25T08:03:15.121760-07:00.jpg"
+     alt="Mongabay at 2022-08-25 08:03:19-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-08-25T08:03:15.121760-07:00.jpg">August 25 at 8:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mongabay-2022/mongabay-2022-08-24T08:02:57.711809-07:00.jpg">
+  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-08-24T08:02:57.711809-07:00.jpg"
+     alt="Mongabay at 2022-08-24 08:03:00-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-08-24T08:02:57.711809-07:00.jpg">August 24 at 8:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mongabay-2022/mongabay-2022-08-23T20:41:41.319190-07:00.jpg">
+  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-08-23T20:41:41.319190-07:00.jpg"
+     alt="Mongabay at 2022-08-23 20:41:44-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-08-23T20:41:41.319190-07:00.jpg">August 23 at 8:41 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/mongabay-2022/mongabay-2022-08-23T07:56:46.913053-07:00.jpg">
   <img src="https://archive.org/download/mongabay-2022/mongabay-2022-08-23T07:56:46.913053-07:00.jpg"
      alt="Mongabay at 2022-08-23 07:56:49-07:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-08-19T07:36:04.896928-07:00.jpg">August 19 at 7:36 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mongabay-2022/mongabay-2022-08-18T19:35:46.260227-07:00.jpg">
-  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-08-18T19:35:46.260227-07:00.jpg"
-     alt="Mongabay at 2022-08-18 19:35:49-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-08-18T19:35:46.260227-07:00.jpg">August 18 at 7:35 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mongabay-2022/mongabay-2022-08-18T07:11:41.090184-07:00.jpg">
-  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-08-18T07:11:41.090184-07:00.jpg"
-     alt="Mongabay at 2022-08-18 07:11:47-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-08-18T07:11:41.090184-07:00.jpg">August 18 at 7:11 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mongabay-2022/mongabay-2022-08-17T19:31:35.016223-07:00.jpg">
-  <img src="https://archive.org/download/mongabay-2022/mongabay-2022-08-17T19:31:35.016223-07:00.jpg"
-     alt="Mongabay at 2022-08-17 19:31:37-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mongabay-2022/mongabay-2022-08-17T19:31:35.016223-07:00.jpg">August 17 at 7:31 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 92 hyperlink lists with the Internet Archive.
+The archiving routine has saved 95 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 25 at 8:03 AM](https://archive.org/download/mongabay-2022/mongabay-2022-08-25T08:03:15.121760-07:00.hyperlinks.json) |
+| [August 24 at 8:03 AM](https://archive.org/download/mongabay-2022/mongabay-2022-08-24T08:02:57.711809-07:00.hyperlinks.json) |
+| [August 23 at 8:41 PM](https://archive.org/download/mongabay-2022/mongabay-2022-08-23T20:41:41.319190-07:00.hyperlinks.json) |
 | [August 23 at 7:56 AM](https://archive.org/download/mongabay-2022/mongabay-2022-08-23T07:56:46.913053-07:00.hyperlinks.json) |
 | [August 22 at 7:31 PM](https://archive.org/download/mongabay-2022/mongabay-2022-08-22T19:31:35.906064-07:00.hyperlinks.json) |
 | [August 22 at 7:12 AM](https://archive.org/download/mongabay-2022/mongabay-2022-08-22T07:12:02.511206-07:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 21 at 7:06 AM](https://archive.org/download/mongabay-2022/mongabay-2022-08-21T07:06:42.152899-07:00.hyperlinks.json) |
 | [August 20 at 7:24 PM](https://archive.org/download/mongabay-2022/mongabay-2022-08-20T19:24:19.468657-07:00.hyperlinks.json) |
 | [August 20 at 7:02 AM](https://archive.org/download/mongabay-2022/mongabay-2022-08-20T07:02:05.472078-07:00.hyperlinks.json) |
-| [August 19 at 7:37 PM](https://archive.org/download/mongabay-2022/mongabay-2022-08-19T19:37:38.879636-07:00.hyperlinks.json) |
-| [August 19 at 7:36 AM](https://archive.org/download/mongabay-2022/mongabay-2022-08-19T07:36:04.896928-07:00.hyperlinks.json) |
-| [August 18 at 7:35 PM](https://archive.org/download/mongabay-2022/mongabay-2022-08-18T19:35:46.260227-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 92 accessibility trees with the Internet Archive.
+The archiving routine has saved 95 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 25 at 8:03 AM](https://archive.org/download/mongabay-2022/mongabay-2022-08-25T08:03:15.121760-07:00.accessibility.json) |
+| [August 24 at 8:03 AM](https://archive.org/download/mongabay-2022/mongabay-2022-08-24T08:02:57.711809-07:00.accessibility.json) |
+| [August 23 at 8:41 PM](https://archive.org/download/mongabay-2022/mongabay-2022-08-23T20:41:41.319190-07:00.accessibility.json) |
 | [August 23 at 7:56 AM](https://archive.org/download/mongabay-2022/mongabay-2022-08-23T07:56:46.913053-07:00.accessibility.json) |
 | [August 22 at 7:31 PM](https://archive.org/download/mongabay-2022/mongabay-2022-08-22T19:31:35.906064-07:00.accessibility.json) |
 | [August 22 at 7:12 AM](https://archive.org/download/mongabay-2022/mongabay-2022-08-22T07:12:02.511206-07:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 21 at 7:06 AM](https://archive.org/download/mongabay-2022/mongabay-2022-08-21T07:06:42.152899-07:00.accessibility.json) |
 | [August 20 at 7:24 PM](https://archive.org/download/mongabay-2022/mongabay-2022-08-20T19:24:19.468657-07:00.accessibility.json) |
 | [August 20 at 7:02 AM](https://archive.org/download/mongabay-2022/mongabay-2022-08-20T07:02:05.472078-07:00.accessibility.json) |
-| [August 19 at 7:37 PM](https://archive.org/download/mongabay-2022/mongabay-2022-08-19T19:37:38.879636-07:00.accessibility.json) |
-| [August 19 at 7:36 AM](https://archive.org/download/mongabay-2022/mongabay-2022-08-19T07:36:04.896928-07:00.accessibility.json) |
-| [August 18 at 7:35 PM](https://archive.org/download/mongabay-2022/mongabay-2022-08-18T19:35:46.260227-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 62 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 65 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 25 at 8:03 AM](https://archive.org/download/mongabay-2022/mongabay-2022-08-25T08:03:15.121760-07:00.lighthouse.json) |
+| [August 24 at 8:03 AM](https://archive.org/download/mongabay-2022/mongabay-2022-08-24T08:02:57.711809-07:00.lighthouse.json) |
+| [August 23 at 8:41 PM](https://archive.org/download/mongabay-2022/mongabay-2022-08-23T20:41:41.319190-07:00.lighthouse.json) |
 | [August 23 at 7:56 AM](https://archive.org/download/mongabay-2022/mongabay-2022-08-23T07:56:46.913053-07:00.lighthouse.json) |
 | [August 22 at 7:31 PM](https://archive.org/download/mongabay-2022/mongabay-2022-08-22T19:31:35.906064-07:00.lighthouse.json) |
 | [August 22 at 7:12 AM](https://archive.org/download/mongabay-2022/mongabay-2022-08-22T07:12:02.511206-07:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 21 at 7:06 AM](https://archive.org/download/mongabay-2022/mongabay-2022-08-21T07:06:42.152899-07:00.lighthouse.json) |
 | [August 20 at 7:24 PM](https://archive.org/download/mongabay-2022/mongabay-2022-08-20T19:24:19.468657-07:00.lighthouse.json) |
 | [August 20 at 7:02 AM](https://archive.org/download/mongabay-2022/mongabay-2022-08-20T07:02:05.472078-07:00.lighthouse.json) |
-| [August 19 at 7:37 PM](https://archive.org/download/mongabay-2022/mongabay-2022-08-19T19:37:38.879636-07:00.lighthouse.json) |
-| [August 19 at 7:36 AM](https://archive.org/download/mongabay-2022/mongabay-2022-08-19T07:36:04.896928-07:00.lighthouse.json) |
-| [August 18 at 7:35 PM](https://archive.org/download/mongabay-2022/mongabay-2022-08-18T19:35:46.260227-07:00.lighthouse.json) |
 
 
 

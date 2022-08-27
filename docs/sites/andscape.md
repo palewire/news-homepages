@@ -354,7 +354,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 43 hyperlink lists with the Internet Archive.
+The archiving routine has saved 46 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -445,6 +445,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 25 at 10:51 AM](https://archive.org/download/andscape-2022/andscape-2022-08-25T10:51:29.819573-04:00.hyperlinks.json) |
+| [August 24 at 9:57 AM](https://archive.org/download/andscape-2022/andscape-2022-08-24T09:57:54.047950-04:00.hyperlinks.json) |
+| [August 23 at 10:15 PM](https://archive.org/download/andscape-2022/andscape-2022-08-23T22:15:31.436222-04:00.hyperlinks.json) |
 | [August 23 at 9:58 AM](https://archive.org/download/andscape-2022/andscape-2022-08-23T09:58:24.369653-04:00.hyperlinks.json) |
 | [August 22 at 9:20 PM](https://archive.org/download/andscape-2022/andscape-2022-08-22T21:19:38.690837-04:00.hyperlinks.json) |
 | [August 22 at 9:01 AM](https://archive.org/download/andscape-2022/andscape-2022-08-22T09:01:32.448501-04:00.hyperlinks.json) |
@@ -452,9 +455,6 @@ Here are the 10 most recent hyperlink lists.
 | [August 21 at 9:05 AM](https://archive.org/download/andscape-2022/andscape-2022-08-21T09:05:07.624598-04:00.hyperlinks.json) |
 | [August 20 at 9:13 PM](https://archive.org/download/andscape-2022/andscape-2022-08-20T21:13:37.204152-04:00.hyperlinks.json) |
 | [August 20 at 9:00 AM](https://archive.org/download/andscape-2022/andscape-2022-08-20T09:00:14.975702-04:00.hyperlinks.json) |
-| [August 19 at 9:12 PM](https://archive.org/download/andscape-2022/andscape-2022-08-19T21:12:19.364246-04:00.hyperlinks.json) |
-| [August 19 at 9:17 AM](https://archive.org/download/andscape-2022/andscape-2022-08-19T09:16:58.819836-04:00.hyperlinks.json) |
-| [August 18 at 9:17 PM](https://archive.org/download/andscape-2022/andscape-2022-08-18T21:17:09.821699-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -482,7 +482,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -573,6 +573,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 25 at 10:51 AM](https://archive.org/download/andscape-2022/andscape-2022-08-25T10:51:29.819573-04:00.lighthouse.json) |
+| [August 24 at 9:57 AM](https://archive.org/download/andscape-2022/andscape-2022-08-24T09:57:54.047950-04:00.lighthouse.json) |
+| [August 23 at 10:15 PM](https://archive.org/download/andscape-2022/andscape-2022-08-23T22:15:31.436222-04:00.lighthouse.json) |
 | [August 23 at 9:58 AM](https://archive.org/download/andscape-2022/andscape-2022-08-23T09:58:24.369653-04:00.lighthouse.json) |
 | [August 22 at 9:20 PM](https://archive.org/download/andscape-2022/andscape-2022-08-22T21:19:38.690837-04:00.lighthouse.json) |
 | [August 22 at 9:01 AM](https://archive.org/download/andscape-2022/andscape-2022-08-22T09:01:32.448501-04:00.lighthouse.json) |
@@ -580,9 +583,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 21 at 9:05 AM](https://archive.org/download/andscape-2022/andscape-2022-08-21T09:05:07.624598-04:00.lighthouse.json) |
 | [August 20 at 9:13 PM](https://archive.org/download/andscape-2022/andscape-2022-08-20T21:13:37.204152-04:00.lighthouse.json) |
 | [August 20 at 9:00 AM](https://archive.org/download/andscape-2022/andscape-2022-08-20T09:00:14.975702-04:00.lighthouse.json) |
-| [August 19 at 9:12 PM](https://archive.org/download/andscape-2022/andscape-2022-08-19T21:12:19.364246-04:00.lighthouse.json) |
-| [August 19 at 9:17 AM](https://archive.org/download/andscape-2022/andscape-2022-08-19T09:16:58.819836-04:00.lighthouse.json) |
-| [August 18 at 9:17 PM](https://archive.org/download/andscape-2022/andscape-2022-08-18T21:17:09.821699-04:00.lighthouse.json) |
 
 
 

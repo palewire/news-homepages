@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 105 screenshots with the Internet Archive.
+The archiving routine has saved 109 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/gothamist-2022/gothamist-2022-08-25T20:01:24.562708-04:00.jpg">
+  <img src="https://archive.org/download/gothamist-2022/gothamist-2022-08-25T20:01:24.562708-04:00.jpg"
+     alt="Gothamist at 2022-08-25 20:01:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-08-25T20:01:24.562708-04:00.jpg">August 25 at 8:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gothamist-2022/gothamist-2022-08-25T08:01:00.072199-04:00.jpg">
+  <img src="https://archive.org/download/gothamist-2022/gothamist-2022-08-25T08:01:00.072199-04:00.jpg"
+     alt="Gothamist at 2022-08-25 08:01:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-08-25T08:01:00.072199-04:00.jpg">August 25 at 8:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gothamist-2022/gothamist-2022-08-24T19:54:33.422274-04:00.jpg">
+  <img src="https://archive.org/download/gothamist-2022/gothamist-2022-08-24T19:54:33.422274-04:00.jpg"
+     alt="Gothamist at 2022-08-24 19:54:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-08-24T19:54:33.422274-04:00.jpg">August 24 at 7:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gothamist-2022/gothamist-2022-08-24T07:50:57.542657-04:00.jpg">
+  <img src="https://archive.org/download/gothamist-2022/gothamist-2022-08-24T07:50:57.542657-04:00.jpg"
+     alt="Gothamist at 2022-08-24 07:51:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-08-24T07:50:57.542657-04:00.jpg">August 24 at 7:51 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/gothamist-2022/gothamist-2022-08-23T19:42:29.877871-04:00.jpg">
   <img src="https://archive.org/download/gothamist-2022/gothamist-2022-08-23T19:42:29.877871-04:00.jpg"
      alt="Gothamist at 2022-08-23 19:42:32-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-08-20T06:58:19.069020-04:00.jpg">August 20 at 6:58 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gothamist-2022/gothamist-2022-08-19T19:04:38.627833-04:00.jpg">
-  <img src="https://archive.org/download/gothamist-2022/gothamist-2022-08-19T19:04:38.627833-04:00.jpg"
-     alt="Gothamist at 2022-08-19 19:04:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-08-19T19:04:38.627833-04:00.jpg">August 19 at 7:04 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gothamist-2022/gothamist-2022-08-19T07:02:05.073643-04:00.jpg">
-  <img src="https://archive.org/download/gothamist-2022/gothamist-2022-08-19T07:02:05.073643-04:00.jpg"
-     alt="Gothamist at 2022-08-19 07:02:10-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-08-19T07:02:05.073643-04:00.jpg">August 19 at 7:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gothamist-2022/gothamist-2022-08-18T19:04:04.062575-04:00.jpg">
-  <img src="https://archive.org/download/gothamist-2022/gothamist-2022-08-18T19:04:04.062575-04:00.jpg"
-     alt="Gothamist at 2022-08-18 19:04:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-08-18T19:04:04.062575-04:00.jpg">August 18 at 7:04 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gothamist-2022/gothamist-2022-08-18T06:59:49.286770-04:00.jpg">
-  <img src="https://archive.org/download/gothamist-2022/gothamist-2022-08-18T06:59:49.286770-04:00.jpg"
-     alt="Gothamist at 2022-08-18 06:59:51-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gothamist-2022/gothamist-2022-08-18T06:59:49.286770-04:00.jpg">August 18 at 6:59 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 106 hyperlink lists with the Internet Archive.
+The archiving routine has saved 110 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 25 at 8:01 PM](https://archive.org/download/gothamist-2022/gothamist-2022-08-25T20:01:24.562708-04:00.hyperlinks.json) |
+| [August 25 at 8:01 AM](https://archive.org/download/gothamist-2022/gothamist-2022-08-25T08:01:00.072199-04:00.hyperlinks.json) |
+| [August 24 at 7:54 PM](https://archive.org/download/gothamist-2022/gothamist-2022-08-24T19:54:33.422274-04:00.hyperlinks.json) |
+| [August 24 at 7:51 AM](https://archive.org/download/gothamist-2022/gothamist-2022-08-24T07:50:57.542657-04:00.hyperlinks.json) |
 | [August 23 at 7:42 PM](https://archive.org/download/gothamist-2022/gothamist-2022-08-23T19:42:29.877871-04:00.hyperlinks.json) |
 | [August 23 at 7:03 AM](https://archive.org/download/gothamist-2022/gothamist-2022-08-23T07:03:26.943224-04:00.hyperlinks.json) |
 | [August 22 at 7:01 PM](https://archive.org/download/gothamist-2022/gothamist-2022-08-22T19:01:47.499525-04:00.hyperlinks.json) |
 | [August 22 at 7:01 AM](https://archive.org/download/gothamist-2022/gothamist-2022-08-22T07:00:51.958051-04:00.hyperlinks.json) |
 | [August 21 at 6:59 PM](https://archive.org/download/gothamist-2022/gothamist-2022-08-21T18:59:21.399746-04:00.hyperlinks.json) |
 | [August 21 at 7:02 AM](https://archive.org/download/gothamist-2022/gothamist-2022-08-21T07:02:43.484686-04:00.hyperlinks.json) |
-| [August 20 at 7:04 PM](https://archive.org/download/gothamist-2022/gothamist-2022-08-20T19:04:45.533169-04:00.hyperlinks.json) |
-| [August 20 at 6:58 AM](https://archive.org/download/gothamist-2022/gothamist-2022-08-20T06:58:19.069020-04:00.hyperlinks.json) |
-| [August 19 at 7:04 PM](https://archive.org/download/gothamist-2022/gothamist-2022-08-19T19:04:38.627833-04:00.hyperlinks.json) |
-| [August 19 at 7:02 AM](https://archive.org/download/gothamist-2022/gothamist-2022-08-19T07:02:05.073643-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 106 accessibility trees with the Internet Archive.
+The archiving routine has saved 110 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 25 at 8:01 PM](https://archive.org/download/gothamist-2022/gothamist-2022-08-25T20:01:24.562708-04:00.accessibility.json) |
+| [August 25 at 8:01 AM](https://archive.org/download/gothamist-2022/gothamist-2022-08-25T08:01:00.072199-04:00.accessibility.json) |
+| [August 24 at 7:54 PM](https://archive.org/download/gothamist-2022/gothamist-2022-08-24T19:54:33.422274-04:00.accessibility.json) |
+| [August 24 at 7:51 AM](https://archive.org/download/gothamist-2022/gothamist-2022-08-24T07:50:57.542657-04:00.accessibility.json) |
 | [August 23 at 7:42 PM](https://archive.org/download/gothamist-2022/gothamist-2022-08-23T19:42:29.877871-04:00.accessibility.json) |
 | [August 23 at 7:03 AM](https://archive.org/download/gothamist-2022/gothamist-2022-08-23T07:03:26.943224-04:00.accessibility.json) |
 | [August 22 at 7:01 PM](https://archive.org/download/gothamist-2022/gothamist-2022-08-22T19:01:47.499525-04:00.accessibility.json) |
 | [August 22 at 7:01 AM](https://archive.org/download/gothamist-2022/gothamist-2022-08-22T07:00:51.958051-04:00.accessibility.json) |
 | [August 21 at 6:59 PM](https://archive.org/download/gothamist-2022/gothamist-2022-08-21T18:59:21.399746-04:00.accessibility.json) |
 | [August 21 at 7:02 AM](https://archive.org/download/gothamist-2022/gothamist-2022-08-21T07:02:43.484686-04:00.accessibility.json) |
-| [August 20 at 7:04 PM](https://archive.org/download/gothamist-2022/gothamist-2022-08-20T19:04:45.533169-04:00.accessibility.json) |
-| [August 20 at 6:58 AM](https://archive.org/download/gothamist-2022/gothamist-2022-08-20T06:58:19.069020-04:00.accessibility.json) |
-| [August 19 at 7:04 PM](https://archive.org/download/gothamist-2022/gothamist-2022-08-19T19:04:38.627833-04:00.accessibility.json) |
-| [August 19 at 7:02 AM](https://archive.org/download/gothamist-2022/gothamist-2022-08-19T07:02:05.073643-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 63 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 67 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 25 at 8:01 PM](https://archive.org/download/gothamist-2022/gothamist-2022-08-25T20:01:24.562708-04:00.lighthouse.json) |
+| [August 25 at 8:01 AM](https://archive.org/download/gothamist-2022/gothamist-2022-08-25T08:01:00.072199-04:00.lighthouse.json) |
+| [August 24 at 7:54 PM](https://archive.org/download/gothamist-2022/gothamist-2022-08-24T19:54:33.422274-04:00.lighthouse.json) |
+| [August 24 at 7:51 AM](https://archive.org/download/gothamist-2022/gothamist-2022-08-24T07:50:57.542657-04:00.lighthouse.json) |
 | [August 23 at 7:42 PM](https://archive.org/download/gothamist-2022/gothamist-2022-08-23T19:42:29.877871-04:00.lighthouse.json) |
 | [August 23 at 7:03 AM](https://archive.org/download/gothamist-2022/gothamist-2022-08-23T07:03:26.943224-04:00.lighthouse.json) |
 | [August 22 at 7:01 PM](https://archive.org/download/gothamist-2022/gothamist-2022-08-22T19:01:47.499525-04:00.lighthouse.json) |
 | [August 22 at 7:01 AM](https://archive.org/download/gothamist-2022/gothamist-2022-08-22T07:00:51.958051-04:00.lighthouse.json) |
 | [August 21 at 6:59 PM](https://archive.org/download/gothamist-2022/gothamist-2022-08-21T18:59:21.399746-04:00.lighthouse.json) |
 | [August 21 at 7:02 AM](https://archive.org/download/gothamist-2022/gothamist-2022-08-21T07:02:43.484686-04:00.lighthouse.json) |
-| [August 20 at 7:04 PM](https://archive.org/download/gothamist-2022/gothamist-2022-08-20T19:04:45.533169-04:00.lighthouse.json) |
-| [August 20 at 6:58 AM](https://archive.org/download/gothamist-2022/gothamist-2022-08-20T06:58:19.069020-04:00.lighthouse.json) |
-| [August 19 at 7:04 PM](https://archive.org/download/gothamist-2022/gothamist-2022-08-19T19:04:38.627833-04:00.lighthouse.json) |
-| [August 19 at 7:02 AM](https://archive.org/download/gothamist-2022/gothamist-2022-08-19T07:02:05.073643-04:00.lighthouse.json) |
 
 
 

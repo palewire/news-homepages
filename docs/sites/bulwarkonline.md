@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 110 screenshots with the Internet Archive.
+The archiving routine has saved 116 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,60 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-25T18:52:41.777416-04:00.jpg">
+  <img src="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-25T18:52:41.777416-04:00.jpg"
+     alt="Bulwark at 2022-08-25 18:52:45-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-25T18:52:41.777416-04:00.jpg">August 25 at 6:52 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-25T14:28:07.102927-04:00.jpg">
+  <img src="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-25T14:28:07.102927-04:00.jpg"
+     alt="Bulwark at 2022-08-25 14:28:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-25T14:28:07.102927-04:00.jpg">August 25 at 2:28 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-25T06:55:07.235571-04:00.jpg">
+  <img src="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-25T06:55:07.235571-04:00.jpg"
+     alt="Bulwark at 2022-08-25 06:55:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-25T06:55:07.235571-04:00.jpg">August 25 at 6:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-24T18:54:35.954715-04:00.jpg">
+  <img src="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-24T18:54:35.954715-04:00.jpg"
+     alt="Bulwark at 2022-08-24 18:54:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-24T18:54:35.954715-04:00.jpg">August 24 at 6:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-24T14:36:44.098575-04:00.jpg">
+  <img src="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-24T14:36:44.098575-04:00.jpg"
+     alt="Bulwark at 2022-08-24 14:36:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-24T14:36:44.098575-04:00.jpg">August 24 at 2:36 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-24T06:47:32.301754-04:00.jpg">
+  <img src="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-24T06:47:32.301754-04:00.jpg"
+     alt="Bulwark at 2022-08-24 06:47:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-24T06:47:32.301754-04:00.jpg">August 24 at 6:47 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-23T18:57:22.105202-04:00.jpg">
   <img src="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-23T18:57:22.105202-04:00.jpg"
      alt="Bulwark at 2022-08-23 18:57:26-04:00 local time"
@@ -379,65 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-22T06:55:21.718359-04:00.jpg">August 22 at 6:55 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-21T18:54:46.230817-04:00.jpg">
-  <img src="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-21T18:54:46.230817-04:00.jpg"
-     alt="Bulwark at 2022-08-21 18:54:48-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-21T18:54:46.230817-04:00.jpg">August 21 at 6:54 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-21T14:27:50.565458-04:00.jpg">
-  <img src="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-21T14:27:50.565458-04:00.jpg"
-     alt="Bulwark at 2022-08-21 14:27:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-21T14:27:50.565458-04:00.jpg">August 21 at 2:27 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-21T06:58:21.341479-04:00.jpg">
-  <img src="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-21T06:58:21.341479-04:00.jpg"
-     alt="Bulwark at 2022-08-21 06:58:25-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-21T06:58:21.341479-04:00.jpg">August 21 at 6:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-20T19:00:32.550643-04:00.jpg">
-  <img src="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-20T19:00:32.550643-04:00.jpg"
-     alt="Bulwark at 2022-08-20 19:00:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-20T19:00:32.550643-04:00.jpg">August 20 at 7:00 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-20T14:32:17.913097-04:00.jpg">
-  <img src="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-20T14:32:17.913097-04:00.jpg"
-     alt="Bulwark at 2022-08-20 14:32:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-20T14:32:17.913097-04:00.jpg">August 20 at 2:32 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-20T06:53:51.374594-04:00.jpg">
-  <img src="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-20T06:53:51.374594-04:00.jpg"
-     alt="Bulwark at 2022-08-20 06:53:53-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-20T06:53:51.374594-04:00.jpg">August 20 at 6:53 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 110 hyperlink lists with the Internet Archive.
+The archiving routine has saved 116 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 25 at 6:52 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-25T18:52:41.777416-04:00.hyperlinks.json) |
+| [August 25 at 2:28 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-25T14:28:07.102927-04:00.hyperlinks.json) |
+| [August 25 at 6:55 AM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-25T06:55:07.235571-04:00.hyperlinks.json) |
+| [August 24 at 6:54 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-24T18:54:35.954715-04:00.hyperlinks.json) |
+| [August 24 at 2:36 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-24T14:36:44.098575-04:00.hyperlinks.json) |
+| [August 24 at 6:47 AM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-24T06:47:32.301754-04:00.hyperlinks.json) |
 | [August 23 at 6:57 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-23T18:57:22.105202-04:00.hyperlinks.json) |
 | [August 23 at 2:35 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-23T14:35:51.523585-04:00.hyperlinks.json) |
 | [August 23 at 6:58 AM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-23T06:58:39.297840-04:00.hyperlinks.json) |
 | [August 22 at 6:56 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-22T18:56:48.101211-04:00.hyperlinks.json) |
-| [August 22 at 2:25 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-22T14:25:36.518013-04:00.hyperlinks.json) |
-| [August 22 at 6:55 AM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-22T06:55:21.718359-04:00.hyperlinks.json) |
-| [August 21 at 6:54 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-21T18:54:46.230817-04:00.hyperlinks.json) |
-| [August 21 at 2:27 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-21T14:27:50.565458-04:00.hyperlinks.json) |
-| [August 21 at 6:58 AM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-21T06:58:21.341479-04:00.hyperlinks.json) |
-| [August 20 at 7:00 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-20T19:00:32.550643-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 110 accessibility trees with the Internet Archive.
+The archiving routine has saved 116 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 25 at 6:52 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-25T18:52:41.777416-04:00.accessibility.json) |
+| [August 25 at 2:28 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-25T14:28:07.102927-04:00.accessibility.json) |
+| [August 25 at 6:55 AM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-25T06:55:07.235571-04:00.accessibility.json) |
+| [August 24 at 6:54 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-24T18:54:35.954715-04:00.accessibility.json) |
+| [August 24 at 2:36 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-24T14:36:44.098575-04:00.accessibility.json) |
+| [August 24 at 6:47 AM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-24T06:47:32.301754-04:00.accessibility.json) |
 | [August 23 at 6:57 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-23T18:57:22.105202-04:00.accessibility.json) |
 | [August 23 at 2:35 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-23T14:35:51.523585-04:00.accessibility.json) |
 | [August 23 at 6:58 AM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-23T06:58:39.297840-04:00.accessibility.json) |
 | [August 22 at 6:56 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-22T18:56:48.101211-04:00.accessibility.json) |
-| [August 22 at 2:25 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-22T14:25:36.518013-04:00.accessibility.json) |
-| [August 22 at 6:55 AM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-22T06:55:21.718359-04:00.accessibility.json) |
-| [August 21 at 6:54 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-21T18:54:46.230817-04:00.accessibility.json) |
-| [August 21 at 2:27 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-21T14:27:50.565458-04:00.accessibility.json) |
-| [August 21 at 6:58 AM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-21T06:58:21.341479-04:00.accessibility.json) |
-| [August 20 at 7:00 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-20T19:00:32.550643-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 92 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 25 at 6:52 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-25T18:52:41.777416-04:00.lighthouse.json) |
+| [August 25 at 2:28 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-25T14:28:07.102927-04:00.lighthouse.json) |
+| [August 25 at 6:55 AM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-25T06:55:07.235571-04:00.lighthouse.json) |
+| [August 24 at 6:54 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-24T18:54:35.954715-04:00.lighthouse.json) |
+| [August 24 at 2:37 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-24T14:36:44.098575-04:00.lighthouse.json) |
+| [August 24 at 6:47 AM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-24T06:47:32.301754-04:00.lighthouse.json) |
 | [August 23 at 6:57 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-23T18:57:22.105202-04:00.lighthouse.json) |
 | [August 23 at 2:35 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-23T14:35:51.523585-04:00.lighthouse.json) |
 | [August 23 at 6:58 AM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-23T06:58:39.297840-04:00.lighthouse.json) |
 | [August 22 at 6:56 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-22T18:56:48.101211-04:00.lighthouse.json) |
-| [August 22 at 2:25 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-22T14:25:36.518013-04:00.lighthouse.json) |
-| [August 22 at 6:55 AM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-22T06:55:21.718359-04:00.lighthouse.json) |
-| [August 21 at 6:54 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-21T18:54:46.230817-04:00.lighthouse.json) |
-| [August 21 at 2:28 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-21T14:27:50.565458-04:00.lighthouse.json) |
-| [August 21 at 6:58 AM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-21T06:58:21.341479-04:00.lighthouse.json) |
-| [August 20 at 7:00 PM](https://archive.org/download/bulwarkonline-2022/bulwarkonline-2022-08-20T19:00:32.550643-04:00.lighthouse.json) |
 
 
 

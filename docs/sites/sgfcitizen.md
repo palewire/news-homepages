@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 93 screenshots with the Internet Archive.
+The archiving routine has saved 96 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-25T11:04:05.046695-05:00.jpg">
+  <img src="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-25T11:04:05.046695-05:00.jpg"
+     alt="Springfield Daily Citizen at 2022-08-25 11:04:10-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-25T11:04:05.046695-05:00.jpg">August 25 at 11:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-24T11:01:47.718116-05:00.jpg">
+  <img src="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-24T11:01:47.718116-05:00.jpg"
+     alt="Springfield Daily Citizen at 2022-08-24 11:01:49-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-24T11:01:47.718116-05:00.jpg">August 24 at 11:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-23T23:37:00.485422-05:00.jpg">
+  <img src="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-23T23:37:00.485422-05:00.jpg"
+     alt="Springfield Daily Citizen at 2022-08-23 23:37:07-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-23T23:37:00.485422-05:00.jpg">August 23 at 11:37 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-23T11:05:45.298455-05:00.jpg">
   <img src="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-23T11:05:45.298455-05:00.jpg"
      alt="Springfield Daily Citizen at 2022-08-23 11:05:51-05:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-19T10:32:29.661326-05:00.jpg">August 19 at 10:32 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-19T07:11:42.921134-05:00.jpg">
-  <img src="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-19T07:11:42.921134-05:00.jpg"
-     alt="Springfield Daily Citizen at 2022-08-19 07:11:47-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-19T07:11:42.921134-05:00.jpg">August 19 at 7:11 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-18T22:42:51.647270-05:00.jpg">
-  <img src="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-18T22:42:51.647270-05:00.jpg"
-     alt="Springfield Daily Citizen at 2022-08-18 22:42:52-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-18T22:42:51.647270-05:00.jpg">August 18 at 10:42 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-18T10:27:58.862581-05:00.jpg">
-  <img src="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-18T10:27:58.862581-05:00.jpg"
-     alt="Springfield Daily Citizen at 2022-08-18 10:28:02-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-18T10:27:58.862581-05:00.jpg">August 18 at 10:28 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 93 hyperlink lists with the Internet Archive.
+The archiving routine has saved 96 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 25 at 11:04 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-25T11:04:05.046695-05:00.hyperlinks.json) |
+| [August 24 at 11:01 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-24T11:01:47.718116-05:00.hyperlinks.json) |
+| [August 23 at 11:37 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-23T23:37:00.485422-05:00.hyperlinks.json) |
 | [August 23 at 11:05 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-23T11:05:45.298455-05:00.hyperlinks.json) |
 | [August 22 at 10:57 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-22T22:57:03.289689-05:00.hyperlinks.json) |
 | [August 22 at 10:03 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-22T10:03:18.832591-05:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 21 at 10:01 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-21T10:01:06.953129-05:00.hyperlinks.json) |
 | [August 20 at 10:37 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-20T22:37:25.338790-05:00.hyperlinks.json) |
 | [August 20 at 9:56 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-20T09:56:51.278008-05:00.hyperlinks.json) |
-| [August 19 at 10:38 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-19T22:38:24.396858-05:00.hyperlinks.json) |
-| [August 19 at 10:32 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-19T10:32:29.661326-05:00.hyperlinks.json) |
-| [August 19 at 7:11 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-19T07:11:42.921134-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 93 accessibility trees with the Internet Archive.
+The archiving routine has saved 96 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 25 at 11:04 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-25T11:04:05.046695-05:00.accessibility.json) |
+| [August 24 at 11:01 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-24T11:01:47.718116-05:00.accessibility.json) |
+| [August 23 at 11:37 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-23T23:37:00.485422-05:00.accessibility.json) |
 | [August 23 at 11:05 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-23T11:05:45.298455-05:00.accessibility.json) |
 | [August 22 at 10:57 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-22T22:57:03.289689-05:00.accessibility.json) |
 | [August 22 at 10:03 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-22T10:03:18.832591-05:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 21 at 10:01 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-21T10:01:06.953129-05:00.accessibility.json) |
 | [August 20 at 10:37 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-20T22:37:25.338790-05:00.accessibility.json) |
 | [August 20 at 9:56 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-20T09:56:51.278008-05:00.accessibility.json) |
-| [August 19 at 10:38 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-19T22:38:24.396858-05:00.accessibility.json) |
-| [August 19 at 10:32 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-19T10:32:29.661326-05:00.accessibility.json) |
-| [August 19 at 7:11 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-19T07:11:42.921134-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 63 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 66 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 25 at 11:04 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-25T11:04:05.046695-05:00.lighthouse.json) |
+| [August 24 at 11:01 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-24T11:01:47.718116-05:00.lighthouse.json) |
+| [August 23 at 11:37 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-23T23:37:00.485422-05:00.lighthouse.json) |
 | [August 23 at 11:05 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-23T11:05:45.298455-05:00.lighthouse.json) |
 | [August 22 at 10:57 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-22T22:57:03.289689-05:00.lighthouse.json) |
 | [August 22 at 10:03 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-22T10:03:18.832591-05:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 21 at 10:01 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-21T10:01:06.953129-05:00.lighthouse.json) |
 | [August 20 at 10:37 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-20T22:37:25.338790-05:00.lighthouse.json) |
 | [August 20 at 9:56 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-20T09:56:51.278008-05:00.lighthouse.json) |
-| [August 19 at 10:38 PM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-19T22:38:24.396858-05:00.lighthouse.json) |
-| [August 19 at 10:32 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-19T10:32:29.661326-05:00.lighthouse.json) |
-| [August 19 at 7:11 AM](https://archive.org/download/sgfcitizen-2022/sgfcitizen-2022-08-19T07:11:42.921134-05:00.lighthouse.json) |
 
 
 

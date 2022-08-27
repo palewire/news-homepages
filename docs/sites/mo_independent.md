@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 103 screenshots with the Internet Archive.
+The archiving routine has saved 107 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-08-25T19:05:13.560004-05:00.jpg">
+  <img src="https://archive.org/download/mo_independent-2022/mo_independent-2022-08-25T19:05:13.560004-05:00.jpg"
+     alt="Missouri Independent at 2022-08-25 19:05:17-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-08-25T19:05:13.560004-05:00.jpg">August 25 at 7:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-08-25T07:05:03.874723-05:00.jpg">
+  <img src="https://archive.org/download/mo_independent-2022/mo_independent-2022-08-25T07:05:03.874723-05:00.jpg"
+     alt="Missouri Independent at 2022-08-25 07:05:05-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-08-25T07:05:03.874723-05:00.jpg">August 25 at 7:05 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-08-24T18:58:32.463980-05:00.jpg">
+  <img src="https://archive.org/download/mo_independent-2022/mo_independent-2022-08-24T18:58:32.463980-05:00.jpg"
+     alt="Missouri Independent at 2022-08-24 18:58:34-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-08-24T18:58:32.463980-05:00.jpg">August 24 at 6:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-08-24T06:54:44.186025-05:00.jpg">
+  <img src="https://archive.org/download/mo_independent-2022/mo_independent-2022-08-24T06:54:44.186025-05:00.jpg"
+     alt="Missouri Independent at 2022-08-24 06:54:48-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-08-24T06:54:44.186025-05:00.jpg">August 24 at 6:54 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-08-23T18:47:09.773744-05:00.jpg">
   <img src="https://archive.org/download/mo_independent-2022/mo_independent-2022-08-23T18:47:09.773744-05:00.jpg"
      alt="Missouri Independent at 2022-08-23 18:47:11-05:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-08-20T06:58:17.684505-05:00.jpg">August 20 at 6:58 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-08-19T18:54:48.978662-05:00.jpg">
-  <img src="https://archive.org/download/mo_independent-2022/mo_independent-2022-08-19T18:54:48.978662-05:00.jpg"
-     alt="Missouri Independent at 2022-08-19 18:54:52-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-08-19T18:54:48.978662-05:00.jpg">August 19 at 6:54 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-08-19T09:20:59.718320-05:00.jpg">
-  <img src="https://archive.org/download/mo_independent-2022/mo_independent-2022-08-19T09:20:59.718320-05:00.jpg"
-     alt="Missouri Independent at 2022-08-19 09:21:04-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-08-19T09:20:59.718320-05:00.jpg">August 19 at 9:21 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-08-19T07:02:27.451075-05:00.jpg">
-  <img src="https://archive.org/download/mo_independent-2022/mo_independent-2022-08-19T07:02:27.451075-05:00.jpg"
-     alt="Missouri Independent at 2022-08-19 07:02:38-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-08-19T07:02:27.451075-05:00.jpg">August 19 at 7:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-08-18T18:55:44.416492-05:00.jpg">
-  <img src="https://archive.org/download/mo_independent-2022/mo_independent-2022-08-18T18:55:44.416492-05:00.jpg"
-     alt="Missouri Independent at 2022-08-18 18:55:47-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mo_independent-2022/mo_independent-2022-08-18T18:55:44.416492-05:00.jpg">August 18 at 6:55 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 103 hyperlink lists with the Internet Archive.
+The archiving routine has saved 107 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 25 at 7:05 PM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-25T19:05:13.560004-05:00.hyperlinks.json) |
+| [August 25 at 7:05 AM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-25T07:05:03.874723-05:00.hyperlinks.json) |
+| [August 24 at 6:58 PM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-24T18:58:32.463980-05:00.hyperlinks.json) |
+| [August 24 at 6:54 AM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-24T06:54:44.186025-05:00.hyperlinks.json) |
 | [August 23 at 6:47 PM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-23T18:47:09.773744-05:00.hyperlinks.json) |
 | [August 23 at 6:59 AM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-23T06:59:46.531197-05:00.hyperlinks.json) |
 | [August 22 at 7:01 PM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-22T19:01:16.378935-05:00.hyperlinks.json) |
 | [August 22 at 6:59 AM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-22T06:59:26.483531-05:00.hyperlinks.json) |
 | [August 21 at 6:56 PM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-21T18:55:57.582795-05:00.hyperlinks.json) |
 | [August 21 at 7:01 AM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-21T07:01:44.783854-05:00.hyperlinks.json) |
-| [August 20 at 6:56 PM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-20T18:56:35.780689-05:00.hyperlinks.json) |
-| [August 20 at 6:58 AM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-20T06:58:17.684505-05:00.hyperlinks.json) |
-| [August 19 at 6:54 PM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-19T18:54:48.978662-05:00.hyperlinks.json) |
-| [August 19 at 9:21 AM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-19T09:20:59.718320-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 103 accessibility trees with the Internet Archive.
+The archiving routine has saved 107 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 25 at 7:05 PM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-25T19:05:13.560004-05:00.accessibility.json) |
+| [August 25 at 7:05 AM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-25T07:05:03.874723-05:00.accessibility.json) |
+| [August 24 at 6:58 PM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-24T18:58:32.463980-05:00.accessibility.json) |
+| [August 24 at 6:54 AM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-24T06:54:44.186025-05:00.accessibility.json) |
 | [August 23 at 6:47 PM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-23T18:47:09.773744-05:00.accessibility.json) |
 | [August 23 at 6:59 AM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-23T06:59:46.531197-05:00.accessibility.json) |
 | [August 22 at 7:01 PM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-22T19:01:16.378935-05:00.accessibility.json) |
 | [August 22 at 6:59 AM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-22T06:59:26.483531-05:00.accessibility.json) |
 | [August 21 at 6:56 PM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-21T18:55:57.582795-05:00.accessibility.json) |
 | [August 21 at 7:01 AM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-21T07:01:44.783854-05:00.accessibility.json) |
-| [August 20 at 6:56 PM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-20T18:56:35.780689-05:00.accessibility.json) |
-| [August 20 at 6:58 AM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-20T06:58:17.684505-05:00.accessibility.json) |
-| [August 19 at 6:54 PM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-19T18:54:48.978662-05:00.accessibility.json) |
-| [August 19 at 9:21 AM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-19T09:20:59.718320-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 64 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 68 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 25 at 7:05 PM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-25T19:05:13.560004-05:00.lighthouse.json) |
+| [August 25 at 7:05 AM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-25T07:05:03.874723-05:00.lighthouse.json) |
+| [August 24 at 6:58 PM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-24T18:58:32.463980-05:00.lighthouse.json) |
+| [August 24 at 6:54 AM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-24T06:54:44.186025-05:00.lighthouse.json) |
 | [August 23 at 6:47 PM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-23T18:47:09.773744-05:00.lighthouse.json) |
 | [August 23 at 6:59 AM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-23T06:59:46.531197-05:00.lighthouse.json) |
 | [August 22 at 7:01 PM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-22T19:01:16.378935-05:00.lighthouse.json) |
 | [August 22 at 6:59 AM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-22T06:59:26.483531-05:00.lighthouse.json) |
 | [August 21 at 6:56 PM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-21T18:55:57.582795-05:00.lighthouse.json) |
 | [August 21 at 7:01 AM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-21T07:01:44.783854-05:00.lighthouse.json) |
-| [August 20 at 6:56 PM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-20T18:56:35.780689-05:00.lighthouse.json) |
-| [August 20 at 6:58 AM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-20T06:58:17.684505-05:00.lighthouse.json) |
-| [August 19 at 6:54 PM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-19T18:54:48.978662-05:00.lighthouse.json) |
-| [August 19 at 9:21 AM](https://archive.org/download/mo_independent-2022/mo_independent-2022-08-19T09:20:59.718320-05:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 93 screenshots with the Internet Archive.
+The archiving routine has saved 96 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-25T15:55:17.086791+01:00.jpg">
+  <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-25T15:55:17.086791+01:00.jpg"
+     alt="Daily Echo at 2022-08-25 15:55:19+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-25T15:55:17.086791+01:00.jpg">August 25 at 3:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-24T15:01:36.210898+01:00.jpg">
+  <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-24T15:01:36.210898+01:00.jpg"
+     alt="Daily Echo at 2022-08-24 15:01:37+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-24T15:01:36.210898+01:00.jpg">August 24 at 3:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-24T03:17:54.672639+01:00.jpg">
+  <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-24T03:17:54.672639+01:00.jpg"
+     alt="Daily Echo at 2022-08-24 03:17:56+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-24T03:17:54.672639+01:00.jpg">August 24 at 3:17 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-23T15:02:40.007363+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-23T15:02:40.007363+01:00.jpg"
      alt="Daily Echo at 2022-08-23 15:02:40+01:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-21T03:17:25.675486+01:00.jpg">August 21 at 3:17 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-20T14:55:57.606788+01:00.jpg">
-  <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-20T14:55:57.606788+01:00.jpg"
-     alt="Daily Echo at 2022-08-20 14:55:58+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-20T14:55:57.606788+01:00.jpg">August 20 at 2:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-20T10:13:04.704408+01:00.jpg">
-  <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-20T10:13:04.704408+01:00.jpg"
-     alt="Daily Echo at 2022-08-20 10:13:06+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-20T10:13:04.704408+01:00.jpg">August 20 at 10:13 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-20T03:31:35.152788+01:00.jpg">
-  <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-20T03:31:35.152788+01:00.jpg"
-     alt="Daily Echo at 2022-08-20 03:31:37+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-20T03:31:35.152788+01:00.jpg">August 20 at 3:31 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 89 hyperlink lists with the Internet Archive.
+The archiving routine has saved 92 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 25 at 3:55 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-25T15:55:17.086791+01:00.hyperlinks.json) |
+| [August 24 at 3:01 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-24T15:01:36.210898+01:00.hyperlinks.json) |
+| [August 24 at 3:18 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-24T03:17:54.672639+01:00.hyperlinks.json) |
 | [August 23 at 3:02 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-23T15:02:40.007363+01:00.hyperlinks.json) |
 | [August 23 at 10:14 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-23T10:14:46.557588+01:00.hyperlinks.json) |
 | [August 23 at 3:24 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-23T03:24:10.651440+01:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 22 at 10:15 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-22T10:15:03.599534+01:00.hyperlinks.json) |
 | [August 22 at 3:23 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-22T03:22:57.522791+01:00.hyperlinks.json) |
 | [August 21 at 3:01 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-21T15:01:36.785234+01:00.hyperlinks.json) |
-| [August 21 at 10:12 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-21T10:12:20.694785+01:00.hyperlinks.json) |
-| [August 21 at 3:17 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-21T03:17:25.675486+01:00.hyperlinks.json) |
-| [August 20 at 2:56 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-20T14:55:57.606788+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 87 accessibility trees with the Internet Archive.
+The archiving routine has saved 90 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 25 at 3:55 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-25T15:55:17.086791+01:00.accessibility.json) |
+| [August 24 at 3:01 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-24T15:01:36.210898+01:00.accessibility.json) |
+| [August 24 at 3:17 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-24T03:17:54.672639+01:00.accessibility.json) |
 | [August 23 at 3:02 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-23T15:02:40.007363+01:00.accessibility.json) |
 | [August 23 at 10:14 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-23T10:14:46.557588+01:00.accessibility.json) |
 | [August 23 at 3:24 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-23T03:24:10.651440+01:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 22 at 10:15 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-22T10:15:03.599534+01:00.accessibility.json) |
 | [August 22 at 3:23 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-22T03:22:57.522791+01:00.accessibility.json) |
 | [August 21 at 3:01 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-21T15:01:36.785234+01:00.accessibility.json) |
-| [August 21 at 10:12 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-21T10:12:20.694785+01:00.accessibility.json) |
-| [August 21 at 3:17 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-21T03:17:25.675486+01:00.accessibility.json) |
-| [August 20 at 2:56 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-20T14:55:57.606788+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 68 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 72 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 25 at 3:55 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-25T15:55:17.086791+01:00.lighthouse.json) |
+| [August 24 at 3:01 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-24T15:01:36.210898+01:00.lighthouse.json) |
+| [August 24 at 10:17 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-24T10:17:02.317458+01:00.lighthouse.json) |
+| [August 24 at 3:18 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-24T03:17:54.672639+01:00.lighthouse.json) |
 | [August 23 at 3:02 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-23T15:02:40.007363+01:00.lighthouse.json) |
 | [August 23 at 10:14 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-23T10:14:46.557588+01:00.lighthouse.json) |
 | [August 23 at 3:24 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-23T03:24:10.651440+01:00.lighthouse.json) |
 | [August 22 at 3:05 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-22T15:05:04.104023+01:00.lighthouse.json) |
 | [August 22 at 10:15 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-22T10:15:03.599534+01:00.lighthouse.json) |
 | [August 22 at 3:23 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-22T03:22:57.522791+01:00.lighthouse.json) |
-| [August 21 at 3:01 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-21T15:01:36.785234+01:00.lighthouse.json) |
-| [August 21 at 10:12 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-21T10:12:20.694785+01:00.lighthouse.json) |
-| [August 21 at 3:17 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-21T03:17:25.675486+01:00.lighthouse.json) |
-| [August 20 at 2:56 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-20T14:55:57.606788+01:00.lighthouse.json) |
 
 
 

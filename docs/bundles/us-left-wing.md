@@ -7,7 +7,7 @@ orphan: true
 
 # U.S. left wing
 
-The most recent homepages from 29 news sites in this bundle.
+The most recent homepages from 30 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -27,6 +27,15 @@ The most recent homepages from 29 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/alternet.html">AlterNet</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/amerindependent.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/amerindependent.jpg"
+     alt="American Independent"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/amerindependent.html">American Independent</a></p>
 </div>
 
 <div class="latest-child">
@@ -289,6 +298,7 @@ The most recent homepages from 29 news sites in this bundle.
 | :---- | :---------------: | :-- |
 |[Above the Law](https://palewi.re/docs/news-homepages/sites/atlblog.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/atlblog.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/atlblog.xml)|
 |[AlterNet](https://palewi.re/docs/news-homepages/sites/alternet.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/alternet.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/alternet.xml)|
+|[American Independent](https://palewi.re/docs/news-homepages/sites/amerindependent.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/amerindependent.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/amerindependent.xml)|
 |[American Prospect](https://palewi.re/docs/news-homepages/sites/theprospect.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theprospect.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theprospect.xml)|
 |[Baffler](https://palewi.re/docs/news-homepages/sites/thebafflermag.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thebafflermag.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thebafflermag.xml)|
 |[Common Dreams](https://palewi.re/docs/news-homepages/sites/commondreams.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/commondreams.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/commondreams.xml)|

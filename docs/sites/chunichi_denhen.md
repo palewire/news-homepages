@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 138 screenshots with the Internet Archive.
+The archiving routine has saved 142 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-25T23:53:13.624808+09:00.jpg">
+  <img src="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-25T23:53:13.624808+09:00.jpg"
+     alt="Chunichi Shimbun at 2022-08-25 23:53:15+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-25T23:53:13.624808+09:00.jpg">August 25 at 11:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-24T22:59:05.805314+09:00.jpg">
+  <img src="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-24T22:59:05.805314+09:00.jpg"
+     alt="Chunichi Shimbun at 2022-08-24 22:59:14+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-24T22:59:05.805314+09:00.jpg">August 24 at 10:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-24T11:16:26.842557+09:00.jpg">
+  <img src="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-24T11:16:26.842557+09:00.jpg"
+     alt="Chunichi Shimbun at 2022-08-24 11:16:28+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-24T11:16:26.842557+09:00.jpg">August 24 at 11:16 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-24T11:12:23.428673+09:00.jpg">
+  <img src="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-24T11:12:23.428673+09:00.jpg"
+     alt="Chunichi Shimbun at 2022-08-24 11:12:25+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-24T11:12:23.428673+09:00.jpg">August 24 at 11:12 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-23T23:00:14.102510+09:00.jpg">
   <img src="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-23T23:00:14.102510+09:00.jpg"
      alt="Chunichi Shimbun at 2022-08-23 23:00:21+09:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-21T11:15:43.731550+09:00.jpg">August 21 at 11:16 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-21T10:15:43.108647+09:00.jpg">
-  <img src="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-21T10:15:43.108647+09:00.jpg"
-     alt="Chunichi Shimbun at 2022-08-21 10:15:47+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-21T10:15:43.108647+09:00.jpg">August 21 at 10:15 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-20T22:02:23.002810+09:00.jpg">
-  <img src="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-20T22:02:23.002810+09:00.jpg"
-     alt="Chunichi Shimbun at 2022-08-20 22:02:27+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-20T22:02:23.002810+09:00.jpg">August 20 at 10:02 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-20T11:19:35.594068+09:00.jpg">
-  <img src="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-20T11:19:35.594068+09:00.jpg"
-     alt="Chunichi Shimbun at 2022-08-20 11:19:40+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-20T11:19:35.594068+09:00.jpg">August 20 at 11:19 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-20T10:14:12.926434+09:00.jpg">
-  <img src="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-20T10:14:12.926434+09:00.jpg"
-     alt="Chunichi Shimbun at 2022-08-20 10:14:14+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-20T10:14:12.926434+09:00.jpg">August 20 at 10:14 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 133 hyperlink lists with the Internet Archive.
+The archiving routine has saved 137 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 25 at 11:53 PM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-25T23:53:13.624808+09:00.hyperlinks.json) |
+| [August 24 at 10:59 PM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-24T22:59:05.805314+09:00.hyperlinks.json) |
+| [August 24 at 11:16 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-24T11:16:26.842557+09:00.hyperlinks.json) |
+| [August 24 at 11:12 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-24T11:12:23.428673+09:00.hyperlinks.json) |
 | [August 23 at 11:00 PM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-23T23:00:14.102510+09:00.hyperlinks.json) |
 | [August 23 at 11:22 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-23T11:21:57.622804+09:00.hyperlinks.json) |
 | [August 23 at 10:21 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-23T10:21:51.221851+09:00.hyperlinks.json) |
 | [August 22 at 10:03 PM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-22T22:03:12.737660+09:00.hyperlinks.json) |
 | [August 22 at 11:21 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-22T11:21:04.545078+09:00.hyperlinks.json) |
 | [August 22 at 10:13 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-22T10:13:11.233626+09:00.hyperlinks.json) |
-| [August 21 at 10:07 PM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-21T22:07:11.981274+09:00.hyperlinks.json) |
-| [August 21 at 11:16 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-21T11:15:43.731550+09:00.hyperlinks.json) |
-| [August 21 at 10:15 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-21T10:15:43.108647+09:00.hyperlinks.json) |
-| [August 20 at 10:02 PM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-20T22:02:23.002810+09:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 136 accessibility trees with the Internet Archive.
+The archiving routine has saved 140 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 25 at 11:53 PM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-25T23:53:13.624808+09:00.accessibility.json) |
+| [August 24 at 10:59 PM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-24T22:59:05.805314+09:00.accessibility.json) |
+| [August 24 at 11:16 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-24T11:16:26.842557+09:00.accessibility.json) |
+| [August 24 at 11:12 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-24T11:12:23.428673+09:00.accessibility.json) |
 | [August 23 at 11:00 PM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-23T23:00:14.102510+09:00.accessibility.json) |
 | [August 23 at 11:22 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-23T11:21:57.622804+09:00.accessibility.json) |
 | [August 23 at 10:21 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-23T10:21:51.221851+09:00.accessibility.json) |
 | [August 22 at 10:03 PM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-22T22:03:12.737660+09:00.accessibility.json) |
 | [August 22 at 11:21 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-22T11:21:04.545078+09:00.accessibility.json) |
 | [August 22 at 10:13 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-22T10:13:11.233626+09:00.accessibility.json) |
-| [August 21 at 10:07 PM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-21T22:07:11.981274+09:00.accessibility.json) |
-| [August 21 at 11:16 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-21T11:15:43.731550+09:00.accessibility.json) |
-| [August 21 at 10:15 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-21T10:15:43.108647+09:00.accessibility.json) |
-| [August 20 at 10:02 PM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-20T22:02:23.002810+09:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 93 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 97 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 25 at 11:53 PM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-25T23:53:13.624808+09:00.lighthouse.json) |
+| [August 24 at 10:59 PM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-24T22:59:05.805314+09:00.lighthouse.json) |
+| [August 24 at 11:16 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-24T11:16:26.842557+09:00.lighthouse.json) |
+| [August 24 at 11:12 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-24T11:12:23.428673+09:00.lighthouse.json) |
 | [August 23 at 11:00 PM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-23T23:00:14.102510+09:00.lighthouse.json) |
 | [August 23 at 11:22 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-23T11:21:57.622804+09:00.lighthouse.json) |
 | [August 23 at 10:21 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-23T10:21:51.221851+09:00.lighthouse.json) |
 | [August 22 at 10:03 PM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-22T22:03:12.737660+09:00.lighthouse.json) |
 | [August 22 at 11:21 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-22T11:21:04.545078+09:00.lighthouse.json) |
 | [August 22 at 10:13 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-22T10:13:11.233626+09:00.lighthouse.json) |
-| [August 21 at 10:07 PM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-21T22:07:11.981274+09:00.lighthouse.json) |
-| [August 21 at 11:16 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-21T11:15:43.731550+09:00.lighthouse.json) |
-| [August 21 at 10:15 AM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-21T10:15:43.108647+09:00.lighthouse.json) |
-| [August 20 at 10:02 PM](https://archive.org/download/chunichi_denhen-2022/chunichi_denhen-2022-08-20T22:02:23.002810+09:00.lighthouse.json) |
 
 
 

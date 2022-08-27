@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 43 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kakenews-2022/kakenews-2022-08-25T19:03:18.897268-05:00.jpg">
+  <img src="https://archive.org/download/kakenews-2022/kakenews-2022-08-25T19:03:18.897268-05:00.jpg"
+     alt="KAKE News at 2022-08-25 19:03:24-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kakenews-2022/kakenews-2022-08-25T19:03:18.897268-05:00.jpg">August 25 at 7:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kakenews-2022/kakenews-2022-08-25T07:02:08.123651-05:00.jpg">
+  <img src="https://archive.org/download/kakenews-2022/kakenews-2022-08-25T07:02:08.123651-05:00.jpg"
+     alt="KAKE News at 2022-08-25 07:02:10-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kakenews-2022/kakenews-2022-08-25T07:02:08.123651-05:00.jpg">August 25 at 7:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kakenews-2022/kakenews-2022-08-24T18:55:27.945146-05:00.jpg">
+  <img src="https://archive.org/download/kakenews-2022/kakenews-2022-08-24T18:55:27.945146-05:00.jpg"
+     alt="KAKE News at 2022-08-24 18:55:31-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kakenews-2022/kakenews-2022-08-24T18:55:27.945146-05:00.jpg">August 24 at 6:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kakenews-2022/kakenews-2022-08-24T06:51:57.480271-05:00.jpg">
+  <img src="https://archive.org/download/kakenews-2022/kakenews-2022-08-24T06:51:57.480271-05:00.jpg"
+     alt="KAKE News at 2022-08-24 06:52:00-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kakenews-2022/kakenews-2022-08-24T06:51:57.480271-05:00.jpg">August 24 at 6:52 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kakenews-2022/kakenews-2022-08-23T18:44:15.034904-05:00.jpg">
   <img src="https://archive.org/download/kakenews-2022/kakenews-2022-08-23T18:44:15.034904-05:00.jpg"
      alt="KAKE News at 2022-08-23 18:44:18-05:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kakenews-2022/kakenews-2022-08-20T06:55:03.348653-05:00.jpg">August 20 at 6:55 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kakenews-2022/kakenews-2022-08-19T18:52:43.779003-05:00.jpg">
-  <img src="https://archive.org/download/kakenews-2022/kakenews-2022-08-19T18:52:43.779003-05:00.jpg"
-     alt="KAKE News at 2022-08-19 18:52:45-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kakenews-2022/kakenews-2022-08-19T18:52:43.779003-05:00.jpg">August 19 at 6:52 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kakenews-2022/kakenews-2022-08-19T09:18:56.754470-05:00.jpg">
-  <img src="https://archive.org/download/kakenews-2022/kakenews-2022-08-19T09:18:56.754470-05:00.jpg"
-     alt="KAKE News at 2022-08-19 09:18:58-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kakenews-2022/kakenews-2022-08-19T09:18:56.754470-05:00.jpg">August 19 at 9:18 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kakenews-2022/kakenews-2022-08-19T06:59:08.977232-05:00.jpg">
-  <img src="https://archive.org/download/kakenews-2022/kakenews-2022-08-19T06:59:08.977232-05:00.jpg"
-     alt="KAKE News at 2022-08-19 06:59:12-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kakenews-2022/kakenews-2022-08-19T06:59:08.977232-05:00.jpg">August 19 at 6:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kakenews-2022/kakenews-2022-08-18T18:53:29.180397-05:00.jpg">
-  <img src="https://archive.org/download/kakenews-2022/kakenews-2022-08-18T18:53:29.180397-05:00.jpg"
-     alt="KAKE News at 2022-08-18 18:53:30-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kakenews-2022/kakenews-2022-08-18T18:53:29.180397-05:00.jpg">August 18 at 6:53 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 33 hyperlink lists with the Internet Archive.
+The archiving routine has saved 37 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,28 +528,114 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 25 at 7:03 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-25T19:03:18.897268-05:00.hyperlinks.json) |
+| [August 25 at 7:02 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-25T07:02:08.123651-05:00.hyperlinks.json) |
+| [August 24 at 6:55 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-24T18:55:27.945146-05:00.hyperlinks.json) |
+| [August 24 at 6:52 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-24T06:51:57.480271-05:00.hyperlinks.json) |
 | [August 23 at 6:56 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-23T06:56:00.787943-05:00.hyperlinks.json) |
 | [August 22 at 6:57 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-22T18:57:32.528017-05:00.hyperlinks.json) |
 | [August 22 at 6:57 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-22T06:57:26.118420-05:00.hyperlinks.json) |
 | [August 21 at 6:53 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-21T18:52:54.573779-05:00.hyperlinks.json) |
 | [August 20 at 6:52 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-20T18:52:43.985181-05:00.hyperlinks.json) |
 | [August 19 at 6:52 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-19T18:52:43.779003-05:00.hyperlinks.json) |
-| [August 19 at 9:19 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-19T09:18:56.754470-05:00.hyperlinks.json) |
-| [August 19 at 6:59 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-19T06:59:08.977232-05:00.hyperlinks.json) |
-| [August 18 at 6:58 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-18T06:58:06.521500-05:00.hyperlinks.json) |
-| [August 17 at 6:50 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-17T18:50:11.186823-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 30 accessibility trees with the Internet Archive.
+The archiving routine has saved 33 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/kakenews.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 25 at 7:03 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-25T19:03:18.897268-05:00.accessibility.json) |
+| [August 25 at 7:02 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-25T07:02:08.123651-05:00.accessibility.json) |
+| [August 24 at 6:55 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-24T18:55:27.945146-05:00.accessibility.json) |
 | [August 23 at 6:44 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-23T18:44:15.034904-05:00.accessibility.json) |
 | [August 22 at 6:57 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-22T06:57:26.118420-05:00.accessibility.json) |
 | [August 21 at 6:52 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-21T18:52:54.573779-05:00.accessibility.json) |
@@ -557,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 20 at 6:52 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-20T18:52:43.985181-05:00.accessibility.json) |
 | [August 20 at 6:55 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-20T06:55:03.348653-05:00.accessibility.json) |
 | [August 19 at 6:52 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-19T18:52:43.779003-05:00.accessibility.json) |
-| [August 19 at 9:19 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-19T09:18:56.754470-05:00.accessibility.json) |
-| [August 19 at 6:59 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-19T06:59:08.977232-05:00.accessibility.json) |
-| [August 17 at 6:49 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-17T06:49:10.276141-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -656,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 25 at 7:03 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-25T19:03:18.897268-05:00.lighthouse.json) |
+| [August 25 at 7:02 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-25T07:02:08.123651-05:00.lighthouse.json) |
+| [August 24 at 6:55 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-24T18:55:27.945146-05:00.lighthouse.json) |
+| [August 24 at 6:52 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-24T06:51:57.480271-05:00.lighthouse.json) |
 | [August 23 at 6:44 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-23T18:44:15.034904-05:00.lighthouse.json) |
 | [August 23 at 6:56 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-23T06:56:00.787943-05:00.lighthouse.json) |
 | [August 22 at 6:57 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-22T18:57:32.528017-05:00.lighthouse.json) |
 | [August 22 at 6:57 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-22T06:57:26.118420-05:00.lighthouse.json) |
 | [August 21 at 6:53 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-21T18:52:54.573779-05:00.lighthouse.json) |
 | [August 21 at 6:59 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-21T06:59:02.187893-05:00.lighthouse.json) |
-| [August 20 at 6:52 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-20T18:52:43.985181-05:00.lighthouse.json) |
-| [August 20 at 6:55 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-20T06:55:03.348653-05:00.lighthouse.json) |
-| [August 19 at 6:52 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-19T18:52:43.779003-05:00.lighthouse.json) |
-| [August 19 at 9:19 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-19T09:18:56.754470-05:00.lighthouse.json) |
 
 
 

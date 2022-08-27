@@ -28,13 +28,49 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 1 screenshots with the Internet Archive.
+The archiving routine has saved 5 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnbc-2022/cnbc-2022-08-25T18:53:39.009786-04:00.jpg">
+  <img src="https://archive.org/download/cnbc-2022/cnbc-2022-08-25T18:53:39.009786-04:00.jpg"
+     alt="CNBC at 2022-08-25 18:53:39-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnbc-2022/cnbc-2022-08-25T18:53:39.009786-04:00.jpg">August 25 at 6:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnbc-2022/cnbc-2022-08-25T06:56:21.737070-04:00.jpg">
+  <img src="https://archive.org/download/cnbc-2022/cnbc-2022-08-25T06:56:21.737070-04:00.jpg"
+     alt="CNBC at 2022-08-25 06:56:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnbc-2022/cnbc-2022-08-25T06:56:21.737070-04:00.jpg">August 25 at 6:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnbc-2022/cnbc-2022-08-24T18:56:47.661567-04:00.jpg">
+  <img src="https://archive.org/download/cnbc-2022/cnbc-2022-08-24T18:56:47.661567-04:00.jpg"
+     alt="CNBC at 2022-08-24 18:56:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnbc-2022/cnbc-2022-08-24T18:56:47.661567-04:00.jpg">August 24 at 6:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnbc-2022/cnbc-2022-08-24T06:49:00.384559-04:00.jpg">
+  <img src="https://archive.org/download/cnbc-2022/cnbc-2022-08-24T06:49:00.384559-04:00.jpg"
+     alt="CNBC at 2022-08-24 06:49:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnbc-2022/cnbc-2022-08-24T06:49:00.384559-04:00.jpg">August 24 at 6:49 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cnbc-2022/cnbc-2022-08-23T18:59:42.382447-04:00.jpg">
@@ -49,7 +85,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 1 hyperlink lists with the Internet Archive.
+The archiving routine has saved 5 hyperlink lists with the Internet Archive.
 
 
 
@@ -57,12 +93,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 25 at 6:53 PM](https://archive.org/download/cnbc-2022/cnbc-2022-08-25T18:53:39.009786-04:00.hyperlinks.json) |
+| [August 25 at 6:56 AM](https://archive.org/download/cnbc-2022/cnbc-2022-08-25T06:56:21.737070-04:00.hyperlinks.json) |
+| [August 24 at 6:56 PM](https://archive.org/download/cnbc-2022/cnbc-2022-08-24T18:56:47.661567-04:00.hyperlinks.json) |
+| [August 24 at 6:49 AM](https://archive.org/download/cnbc-2022/cnbc-2022-08-24T06:49:00.384559-04:00.hyperlinks.json) |
 | [August 23 at 7:00 PM](https://archive.org/download/cnbc-2022/cnbc-2022-08-23T18:59:42.382447-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 1 accessibility trees with the Internet Archive.
+The archiving routine has saved 5 accessibility trees with the Internet Archive.
 
 
 
@@ -70,13 +110,17 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 25 at 6:53 PM](https://archive.org/download/cnbc-2022/cnbc-2022-08-25T18:53:39.009786-04:00.accessibility.json) |
+| [August 25 at 6:56 AM](https://archive.org/download/cnbc-2022/cnbc-2022-08-25T06:56:21.737070-04:00.accessibility.json) |
+| [August 24 at 6:56 PM](https://archive.org/download/cnbc-2022/cnbc-2022-08-24T18:56:47.661567-04:00.accessibility.json) |
+| [August 24 at 6:49 AM](https://archive.org/download/cnbc-2022/cnbc-2022-08-24T06:49:00.384559-04:00.accessibility.json) |
 | [August 23 at 6:59 PM](https://archive.org/download/cnbc-2022/cnbc-2022-08-23T18:59:42.382447-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 1 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 5 Lighthouse audits with the Internet Archive.
 
 
 
@@ -84,6 +128,10 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 25 at 6:53 PM](https://archive.org/download/cnbc-2022/cnbc-2022-08-25T18:53:39.009786-04:00.lighthouse.json) |
+| [August 25 at 6:56 AM](https://archive.org/download/cnbc-2022/cnbc-2022-08-25T06:56:21.737070-04:00.lighthouse.json) |
+| [August 24 at 6:56 PM](https://archive.org/download/cnbc-2022/cnbc-2022-08-24T18:56:47.661567-04:00.lighthouse.json) |
+| [August 24 at 6:49 AM](https://archive.org/download/cnbc-2022/cnbc-2022-08-24T06:49:00.384559-04:00.lighthouse.json) |
 | [August 23 at 7:00 PM](https://archive.org/download/cnbc-2022/cnbc-2022-08-23T18:59:42.382447-04:00.lighthouse.json) |
 
 

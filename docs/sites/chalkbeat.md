@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 58 screenshots with the Internet Archive.
+The archiving routine has saved 62 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-25T18:52:13.223569-04:00.jpg">
+  <img src="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-25T18:52:13.223569-04:00.jpg"
+     alt="Chalkbeat at 2022-08-25 18:52:15-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-25T18:52:13.223569-04:00.jpg">August 25 at 6:52 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-25T06:55:26.809123-04:00.jpg">
+  <img src="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-25T06:55:26.809123-04:00.jpg"
+     alt="Chalkbeat at 2022-08-25 06:55:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-25T06:55:26.809123-04:00.jpg">August 25 at 6:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-24T18:55:02.525421-04:00.jpg">
+  <img src="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-24T18:55:02.525421-04:00.jpg"
+     alt="Chalkbeat at 2022-08-24 18:55:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-24T18:55:02.525421-04:00.jpg">August 24 at 6:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-24T06:47:35.076086-04:00.jpg">
+  <img src="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-24T06:47:35.076086-04:00.jpg"
+     alt="Chalkbeat at 2022-08-24 06:47:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-24T06:47:35.076086-04:00.jpg">August 24 at 6:47 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-23T18:58:59.528672-04:00.jpg">
   <img src="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-23T18:58:59.528672-04:00.jpg"
      alt="Chalkbeat at 2022-08-23 18:59:01-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-20T06:53:51.898219-04:00.jpg">August 20 at 6:53 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-19T18:59:36.854839-04:00.jpg">
-  <img src="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-19T18:59:36.854839-04:00.jpg"
-     alt="Chalkbeat at 2022-08-19 18:59:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-19T18:59:36.854839-04:00.jpg">August 19 at 6:59 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-19T06:57:44.606534-04:00.jpg">
-  <img src="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-19T06:57:44.606534-04:00.jpg"
-     alt="Chalkbeat at 2022-08-19 06:57:47-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-19T06:57:44.606534-04:00.jpg">August 19 at 6:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-18T19:00:16.918224-04:00.jpg">
-  <img src="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-18T19:00:16.918224-04:00.jpg"
-     alt="Chalkbeat at 2022-08-18 19:00:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-18T19:00:16.918224-04:00.jpg">August 18 at 7:00 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-18T06:56:04.846768-04:00.jpg">
-  <img src="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-18T06:56:04.846768-04:00.jpg"
-     alt="Chalkbeat at 2022-08-18 06:56:12-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-18T06:56:04.846768-04:00.jpg">August 18 at 6:56 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 58 hyperlink lists with the Internet Archive.
+The archiving routine has saved 62 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 25 at 6:52 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-25T18:52:13.223569-04:00.hyperlinks.json) |
+| [August 25 at 6:55 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-25T06:55:26.809123-04:00.hyperlinks.json) |
+| [August 24 at 6:55 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-24T18:55:02.525421-04:00.hyperlinks.json) |
+| [August 24 at 6:47 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-24T06:47:35.076086-04:00.hyperlinks.json) |
 | [August 23 at 6:59 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-23T18:58:59.528672-04:00.hyperlinks.json) |
 | [August 23 at 7:00 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-23T06:59:55.874382-04:00.hyperlinks.json) |
 | [August 22 at 6:57 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-22T18:57:02.236183-04:00.hyperlinks.json) |
 | [August 22 at 6:56 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-22T06:55:59.304588-04:00.hyperlinks.json) |
 | [August 21 at 6:54 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-21T18:54:31.759267-04:00.hyperlinks.json) |
 | [August 21 at 6:59 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-21T06:58:59.084639-04:00.hyperlinks.json) |
-| [August 20 at 7:01 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-20T19:01:12.129311-04:00.hyperlinks.json) |
-| [August 20 at 6:53 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-20T06:53:51.898219-04:00.hyperlinks.json) |
-| [August 19 at 6:59 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-19T18:59:36.854839-04:00.hyperlinks.json) |
-| [August 19 at 6:57 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-19T06:57:44.606534-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 58 accessibility trees with the Internet Archive.
+The archiving routine has saved 62 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 25 at 6:52 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-25T18:52:13.223569-04:00.accessibility.json) |
+| [August 25 at 6:55 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-25T06:55:26.809123-04:00.accessibility.json) |
+| [August 24 at 6:55 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-24T18:55:02.525421-04:00.accessibility.json) |
+| [August 24 at 6:47 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-24T06:47:35.076086-04:00.accessibility.json) |
 | [August 23 at 6:59 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-23T18:58:59.528672-04:00.accessibility.json) |
 | [August 23 at 7:00 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-23T06:59:55.874382-04:00.accessibility.json) |
 | [August 22 at 6:57 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-22T18:57:02.236183-04:00.accessibility.json) |
 | [August 22 at 6:56 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-22T06:55:59.304588-04:00.accessibility.json) |
 | [August 21 at 6:54 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-21T18:54:31.759267-04:00.accessibility.json) |
 | [August 21 at 6:59 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-21T06:58:59.084639-04:00.accessibility.json) |
-| [August 20 at 7:01 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-20T19:01:12.129311-04:00.accessibility.json) |
-| [August 20 at 6:53 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-20T06:53:51.898219-04:00.accessibility.json) |
-| [August 19 at 6:59 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-19T18:59:36.854839-04:00.accessibility.json) |
-| [August 19 at 6:57 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-19T06:57:44.606534-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 58 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 62 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 25 at 6:52 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-25T18:52:13.223569-04:00.lighthouse.json) |
+| [August 25 at 6:55 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-25T06:55:26.809123-04:00.lighthouse.json) |
+| [August 24 at 6:55 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-24T18:55:02.525421-04:00.lighthouse.json) |
+| [August 24 at 6:47 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-24T06:47:35.076086-04:00.lighthouse.json) |
 | [August 23 at 6:59 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-23T18:58:59.528672-04:00.lighthouse.json) |
 | [August 23 at 7:00 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-23T06:59:55.874382-04:00.lighthouse.json) |
 | [August 22 at 6:57 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-22T18:57:02.236183-04:00.lighthouse.json) |
 | [August 22 at 6:56 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-22T06:55:59.304588-04:00.lighthouse.json) |
 | [August 21 at 6:54 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-21T18:54:31.759267-04:00.lighthouse.json) |
 | [August 21 at 6:59 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-21T06:58:59.084639-04:00.lighthouse.json) |
-| [August 20 at 7:01 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-20T19:01:12.129311-04:00.lighthouse.json) |
-| [August 20 at 6:54 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-20T06:53:51.898219-04:00.lighthouse.json) |
-| [August 19 at 6:59 PM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-19T18:59:36.854839-04:00.lighthouse.json) |
-| [August 19 at 6:57 AM](https://archive.org/download/chalkbeat-2022/chalkbeat-2022-08-19T06:57:44.606534-04:00.lighthouse.json) |
 
 
 
