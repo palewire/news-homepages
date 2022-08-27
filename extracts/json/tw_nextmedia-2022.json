@@ -1,5 +1,5 @@
 {
-  "created": 1661474558,
+  "created": 1661560706,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/5/items/tw_nextmedia-2022",
@@ -2900,31 +2900,155 @@
       "sha1": "46f8a3dc83179f68ed8712a34312bc43bbdd2928"
     },
     {
+      "name": "tw_nextmedia-2022-08-26T09:19:07.770000+08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661476753",
+      "size": "35026",
+      "md5": "1b0783104bdacfe01a0fcac4808b27ac",
+      "crc32": "8a8e675d",
+      "sha1": "b071afbe94d7dc7b49b37e148d1f4e62e88742f4",
+      "format": "JSON"
+    },
+    {
+      "name": "tw_nextmedia-2022-08-26T09:19:07.770000+08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661476755",
+      "size": "121517",
+      "md5": "3b61693d89aa5bb342a17b22c4875c62",
+      "crc32": "71626caf",
+      "sha1": "e333bb9595a837b6e36048fb106217968426fb54",
+      "format": "JSON"
+    },
+    {
+      "name": "tw_nextmedia-2022-08-26T09:19:07.770000+08:00.jpg",
+      "source": "original",
+      "mtime": "1661476751",
+      "size": "304458",
+      "md5": "a6c9caaa956fa80387885bc37496d89d",
+      "crc32": "95120f52",
+      "sha1": "e21da90b9453e583407eb41e82e73da91686a389",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tw_nextmedia-2022-08-26T09:19:07.770000+08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661476756",
+      "size": "1477",
+      "md5": "779e70d807c60b25aab44f59ca9d5f07",
+      "crc32": "73c12138",
+      "sha1": "0752ee6bb58fe29f7550ae27e2a2357aa109f721",
+      "format": "JSON"
+    },
+    {
+      "name": "tw_nextmedia-2022-08-26T09:19:07.770000+08:00.wayback.json",
+      "source": "original",
+      "mtime": "1661476758",
+      "size": "21063",
+      "md5": "5475f16e133cce65b37736e8870ea8c4",
+      "crc32": "7a2512c0",
+      "sha1": "c4eeed9199004545e5f4514088b3e145ef3876a4",
+      "format": "JSON"
+    },
+    {
+      "name": "tw_nextmedia-2022-08-26T09:19:07.770000+08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tw_nextmedia-2022-08-26T09:19:07.770000+08:00.jpg",
+      "mtime": "1661485021",
+      "size": "10519",
+      "md5": "d78e557ace8ff6f1b5534f996694560a",
+      "crc32": "f5ac79fb",
+      "sha1": "0ab34ba7a22e874f44bf8536c4085fe30281fa19"
+    },
+    {
+      "name": "tw_nextmedia-2022-08-26T21:04:20.289965+08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661519065",
+      "size": "33769",
+      "md5": "7080a8c63799f7ab0ba61b65a2c7bea8",
+      "crc32": "808a4513",
+      "sha1": "9c5cda4c19237b48b965c3d4586713b664706f15",
+      "format": "JSON"
+    },
+    {
+      "name": "tw_nextmedia-2022-08-26T21:04:20.289965+08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661519067",
+      "size": "118735",
+      "md5": "61507945663aa19702a4106880d8b75e",
+      "crc32": "8cdfc55a",
+      "sha1": "2b5160a9bb0a4b25e770bac6802d2d764edae326",
+      "format": "JSON"
+    },
+    {
+      "name": "tw_nextmedia-2022-08-26T21:04:20.289965+08:00.jpg",
+      "source": "original",
+      "mtime": "1661519063",
+      "size": "313063",
+      "md5": "023eaede21eaf0bea01e650a5651ba62",
+      "crc32": "9c7c8124",
+      "sha1": "8342193b84c1bde4633845161355dd54b34e7aa8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tw_nextmedia-2022-08-26T21:04:20.289965+08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661519068",
+      "size": "1476",
+      "md5": "4a9e7b9639a971f82ea9d11bc7b71aef",
+      "crc32": "6c5a2b5c",
+      "sha1": "ecb15f5b7aba6c28f79099be04995544f39479ee",
+      "format": "JSON"
+    },
+    {
+      "name": "tw_nextmedia-2022-08-26T21:04:20.289965+08:00.wayback.json",
+      "source": "original",
+      "mtime": "1661519070",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "tw_nextmedia-2022-08-26T21:04:20.289965+08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tw_nextmedia-2022-08-26T21:04:20.289965+08:00.jpg",
+      "mtime": "1661519119",
+      "size": "10618",
+      "md5": "8b83ba4802efa8a6fde05e04c3420592",
+      "crc32": "22b6c86e",
+      "sha1": "d2234ec64e8accf71257efaf9a6807dca9b7d3f4"
+    },
+    {
       "name": "tw_nextmedia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b94e381f4d27921625c21176191b8946755fecae",
-      "mtime": "1661432973",
-      "size": "61716",
-      "md5": "d58d7130034301298531f5c5fd5a0b69",
-      "crc32": "048a75bc",
-      "sha1": "03f92c583c0f3a7f3db956fe01a16353f4bccd1c",
+      "btih": "f05aceb30b5e7a0efe51fe87d9705e616b67069d",
+      "mtime": "1661519123",
+      "size": "64300",
+      "md5": "143b785b64b412edb5618e3b3517f4bd",
+      "crc32": "45995b01",
+      "sha1": "a19d3f41355530fd4bbdb48640190c5de4daf88e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tw_nextmedia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7eb73bc2c294938d4f18586093326203",
+      "md5": "3e5d1d2eaa93522a3e4e0fcbe8d45f16",
       "summation": "md5"
     },
     {
       "name": "tw_nextmedia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661432927",
-      "size": "376832",
-      "md5": "a41e2e7c63c3c0c04dc66cef52bd53be",
-      "crc32": "48f79120",
-      "sha1": "23570a6fdd7ec509cafc1117ef07357bd3d46a32",
+      "mtime": "1661519074",
+      "size": "393216",
+      "md5": "05c437fb9ca79b6208a6070b4aa2f715",
+      "crc32": "a7a48341",
+      "sha1": "80d995d1aa4b8d7316d565966d67a2251b0250a1",
       "format": "Metadata"
     },
     {
@@ -2938,9 +3062,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 284,
-  "item_last_updated": 1661432973,
-  "item_size": 23421343,
+  "files_count": 296,
+  "item_last_updated": 1661519123,
+  "item_size": 24412234,
   "metadata": {
     "identifier": "tw_nextmedia-2022",
     "collection": [
@@ -2959,10 +3083,11 @@
   },
   "server": "ia802505.us.archive.org",
   "tw_nextmedia-2022": {
-    "url": "https://tw.appledaily.com/",
-    "job_id": "spn2-3cb9a58f675ae25356c0df4908552efd9d45154b"
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
   },
-  "uniq": 524836628,
+  "uniq": 48423615,
   "workable_servers": [
     "ia802505.us.archive.org",
     "ia902505.us.archive.org"

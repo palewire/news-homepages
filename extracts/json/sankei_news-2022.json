@@ -1,5 +1,5 @@
 {
-  "created": 1661474050,
+  "created": 1661555023,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/26/items/sankei_news-2022",
@@ -6690,31 +6690,217 @@
       "sha1": "012cb4b96f71f5f8ff167643a9fc8db45f0fa396"
     },
     {
+      "name": "sankei_news-2022-08-26T10:15:09.293091+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661476513",
+      "size": "59801",
+      "md5": "b5f3c7ffe7f3eb1e788a752d9d6571d6",
+      "crc32": "0d04f41a",
+      "sha1": "1992dc92c449b3d6cb9d0bcce152cdf718b953fe",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-08-26T10:15:09.293091+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661476514",
+      "size": "87610",
+      "md5": "86251edca67814305c0137e2e0726d67",
+      "crc32": "2aa2b3c9",
+      "sha1": "2a327f1a2a841b81c78d7a58442f47d8e1fc1ef2",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-08-26T10:15:09.293091+09:00.jpg",
+      "source": "original",
+      "mtime": "1661476511",
+      "size": "392337",
+      "md5": "836b5f7c13b0f26a6c68b64e67f963a9",
+      "crc32": "7638abd1",
+      "sha1": "2941ed34e715790314306f914c047f105425234b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sankei_news-2022-08-26T10:15:09.293091+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661476516",
+      "size": "1459",
+      "md5": "59abeb1f36f6ae760403807a8692bca2",
+      "crc32": "0269ab49",
+      "sha1": "1f673eed17436d454590a895c9699ef37a049d70",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-08-26T10:15:09.293091+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1661476518",
+      "size": "87459",
+      "md5": "c4c9e60863797e4d40f7d195d003ea08",
+      "crc32": "c94cc43c",
+      "sha1": "457f5a7eea4a43f5560041f9490843f5fbaaf427",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-08-26T10:15:09.293091+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sankei_news-2022-08-26T10:15:09.293091+09:00.jpg",
+      "mtime": "1661480328",
+      "size": "11023",
+      "md5": "1f0b9422c53a96a68e7c8853496f2441",
+      "crc32": "fb360690",
+      "sha1": "034f90e7c3c25ff3e691566e6acebf12c139f060"
+    },
+    {
+      "name": "sankei_news-2022-08-26T11:18:32.557807+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661480319",
+      "size": "54255",
+      "md5": "7046f9b559e6a8c81c3309bec6aa0512",
+      "crc32": "2b73a67e",
+      "sha1": "4054367d4f39742fdac77825f482d33a28000a14",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-08-26T11:18:32.557807+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661480321",
+      "size": "86884",
+      "md5": "a50daacd06d4deb11c3ee216752507c5",
+      "crc32": "e19a8524",
+      "sha1": "715235b78c913d29cf61a391c5e93be17c446eaf",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-08-26T11:18:32.557807+09:00.jpg",
+      "source": "original",
+      "mtime": "1661480317",
+      "size": "386159",
+      "md5": "4326dc3df7fb3677a81120a496ba805b",
+      "crc32": "dcff4e64",
+      "sha1": "6d95fbf95f9c71a51688e1eda07d79877faa0969",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sankei_news-2022-08-26T11:18:32.557807+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661480323",
+      "size": "1458",
+      "md5": "4ffd5c9ada4ab1712d2ea1117592bd3e",
+      "crc32": "30bbeb94",
+      "sha1": "c823f88bf652ffae0d33e952c6e5cbc12bb69531",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-08-26T11:18:32.557807+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1661480324",
+      "size": "229",
+      "md5": "bbfe060a02c6122fd173419f4fd626d2",
+      "crc32": "faa5ffd7",
+      "sha1": "eb5b7e7f70782afa25dc20e85509cb8b2efb8a0e",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-08-26T11:18:32.557807+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sankei_news-2022-08-26T11:18:32.557807+09:00.jpg",
+      "mtime": "1661486855",
+      "size": "11202",
+      "md5": "d51f859d2aac8084f4fad629e8c45f9b",
+      "crc32": "b2e544c2",
+      "sha1": "27ebcad2b2813424544f83d4a68b379313a22a36"
+    },
+    {
+      "name": "sankei_news-2022-08-26T22:01:46.292513+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661518912",
+      "size": "59846",
+      "md5": "c836d72c4a2cac863f7f5c68e7edf976",
+      "crc32": "222a2ec4",
+      "sha1": "a50d483ada41335bbdec78690f34cad6b70cea27",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-08-26T22:01:46.292513+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661518914",
+      "size": "87979",
+      "md5": "3a47636ac802655bfae17e44c159ebae",
+      "crc32": "8b42d2cc",
+      "sha1": "2e624d9ca02ac2dcc8ce5f7879d19ec752fcd977",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-08-26T22:01:46.292513+09:00.jpg",
+      "source": "original",
+      "mtime": "1661518911",
+      "size": "381433",
+      "md5": "b838dd816aca6aa72803ce024d70572d",
+      "crc32": "33b53ec8",
+      "sha1": "e7bf327727b3069dd7477bcf4d225113a536e1f2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sankei_news-2022-08-26T22:01:46.292513+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661518916",
+      "size": "1459",
+      "md5": "c4f50a523d9a5f857e2dc4d4dad14a49",
+      "crc32": "60a084e2",
+      "sha1": "f9145a5efa683739e648abca6d2d31540971224c",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-08-26T22:01:46.292513+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1661518917",
+      "size": "94995",
+      "md5": "b325d335d22a23466f0fc9e3460b8d35",
+      "crc32": "89fd499a",
+      "sha1": "ee20f3fc8d4ef12ea7293eb01e17fc7abe386d00",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-08-26T22:01:46.292513+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sankei_news-2022-08-26T22:01:46.292513+09:00.jpg",
+      "mtime": "1661518976",
+      "size": "10937",
+      "md5": "362873ed480c3755fd95cd12f6e8f3b5",
+      "crc32": "94ec2921",
+      "sha1": "aac6b3c33df2450d42eee2bb8ab0a168d677da98"
+    },
+    {
       "name": "sankei_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1cd554917f2eec17f466b6777c0d64f5021b1291",
-      "mtime": "1661432827",
-      "size": "138764",
-      "md5": "dcb9912c94cf115a972b8ac64b77f60f",
-      "crc32": "d2725212",
-      "sha1": "435676a325f860472c014f1e75de4fe962bfcaea",
+      "btih": "c1700a3f61fc70c160fabb1b13691334f6ab17eb",
+      "mtime": "1661518983",
+      "size": "142640",
+      "md5": "e694eceb5b0cc7be2b484e7bc8aef724",
+      "crc32": "964f9259",
+      "sha1": "3434a3def45f9d3f9868f7abafad59bd141f141e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sankei_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0a7ee0d11202664456bc61aca4c3aa52",
+      "md5": "93dd0e311d9b3c754d6a9bd263959931",
       "summation": "md5"
     },
     {
       "name": "sankei_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661432765",
-      "size": "778240",
-      "md5": "9e6c875bbe536166b162b010a6491fb8",
-      "crc32": "3c55ed88",
-      "sha1": "707188a67658ad9356388bac948d2d5db3f14f18",
+      "mtime": "1661518921",
+      "size": "798720",
+      "md5": "6fb5b757cd9486e42e7502b1753f9358",
+      "crc32": "aa71f4f1",
+      "sha1": "5fde6195a2390f6bca06cd53a12b74f52090c800",
       "format": "Metadata"
     },
     {
@@ -6728,9 +6914,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 644,
-  "item_last_updated": 1661432827,
-  "item_size": 73418725,
+  "files_count": 662,
+  "item_last_updated": 1661518983,
+  "item_size": 75259606,
   "metadata": {
     "identifier": "sankei_news-2022",
     "collection": [
@@ -6747,15 +6933,10 @@
     "publicdate": "2022-07-09 02:39:00",
     "addeddate": "2022-07-09 02:39:00"
   },
-  "sankei_news-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "server": "ia802507.us.archive.org",
-  "uniq": 1248770723,
+  "server": "ia902507.us.archive.org",
+  "uniq": 1420017378,
   "workable_servers": [
-    "ia802507.us.archive.org",
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }
