@@ -1,5 +1,14 @@
 {
-  "created": 1661555373,
+  "cpipr-2022": {
+    "url": "https://periodismoinvestigativo.com/",
+    "job_id": "spn2-527a28c09e66629d845f020bd7b4b91b597694a0",
+    "resources": [],
+    "message": "Job failed.",
+    "status_ext": "error:job-failed",
+    "duration_sec": 1.532,
+    "status": "error"
+  },
+  "created": 1661645261,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/23/items/cpipr-2022",
@@ -5304,31 +5313,155 @@
       "sha1": "e4a336cbac1bf5af7747ffd0a377572c56824b41"
     },
     {
+      "name": "cpipr-2022-08-26T22:21:05.908490-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661566868",
+      "size": "56758",
+      "md5": "42376060a9f19962016f59f86060781e",
+      "crc32": "17536fb1",
+      "sha1": "8a16bef8c76f135eca966dd10d6bf61edbcfe6ff",
+      "format": "JSON"
+    },
+    {
+      "name": "cpipr-2022-08-26T22:21:05.908490-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661566870",
+      "size": "66325",
+      "md5": "8678a01114a160bf37aa448211dda751",
+      "crc32": "352db63a",
+      "sha1": "edf626a44172f1b45b995559f7b93dd1a266e89e",
+      "format": "JSON"
+    },
+    {
+      "name": "cpipr-2022-08-26T22:21:05.908490-04:00.jpg",
+      "source": "original",
+      "mtime": "1661566867",
+      "size": "276337",
+      "md5": "e7cd78c0afe4812a02877b94203d0c8c",
+      "crc32": "d555c0be",
+      "sha1": "993dce689b5fa3bdbc85666e355ccf2592388f79",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cpipr-2022-08-26T22:21:05.908490-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661566871",
+      "size": "1570",
+      "md5": "15ccc00f6d055fd438d09a9bd00be299",
+      "crc32": "9a3147f9",
+      "sha1": "578e61a2d72a6c9ed6190eda50b58a7b1114818a",
+      "format": "JSON"
+    },
+    {
+      "name": "cpipr-2022-08-26T22:21:05.908490-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1661566873",
+      "size": "19665",
+      "md5": "10dab0474dd0f35ad52e7a709c74161b",
+      "crc32": "9910f7ce",
+      "sha1": "d7694d651b256d0a940764333a50f7fea40c7341",
+      "format": "JSON"
+    },
+    {
+      "name": "cpipr-2022-08-26T22:21:05.908490-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cpipr-2022-08-26T22:21:05.908490-04:00.jpg",
+      "mtime": "1661566982",
+      "size": "10953",
+      "md5": "f2823756a9c9592576f6a04f4c9dd5a5",
+      "crc32": "bf11d94c",
+      "sha1": "e4a336cbac1bf5af7747ffd0a377572c56824b41"
+    },
+    {
+      "name": "cpipr-2022-08-27T09:57:47.877003-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661608674",
+      "size": "56758",
+      "md5": "42376060a9f19962016f59f86060781e",
+      "crc32": "17536fb1",
+      "sha1": "8a16bef8c76f135eca966dd10d6bf61edbcfe6ff",
+      "format": "JSON"
+    },
+    {
+      "name": "cpipr-2022-08-27T09:57:47.877003-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661608676",
+      "size": "66325",
+      "md5": "8678a01114a160bf37aa448211dda751",
+      "crc32": "352db63a",
+      "sha1": "edf626a44172f1b45b995559f7b93dd1a266e89e",
+      "format": "JSON"
+    },
+    {
+      "name": "cpipr-2022-08-27T09:57:47.877003-04:00.jpg",
+      "source": "original",
+      "mtime": "1661608672",
+      "size": "276366",
+      "md5": "01cb77a844ca5334bc51b974d3eeb245",
+      "crc32": "466c322e",
+      "sha1": "ae29676c774759339377cff3c1cd7b2e202cbb75",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cpipr-2022-08-27T09:57:47.877003-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661608678",
+      "size": "1570",
+      "md5": "537b9e8fd80f9e45462f0d0222da3472",
+      "crc32": "7a8e7cf3",
+      "sha1": "27af68c1ece882d0cd99538f8d261e1a97b9309c",
+      "format": "JSON"
+    },
+    {
+      "name": "cpipr-2022-08-27T09:57:47.877003-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1661608679",
+      "size": "241",
+      "md5": "11e0a74c69f9eede63b0094a65dba3e9",
+      "crc32": "acbc4bda",
+      "sha1": "e08e0547e62df860c088318ef9e9be7e71113965",
+      "format": "JSON"
+    },
+    {
+      "name": "cpipr-2022-08-27T09:57:47.877003-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cpipr-2022-08-27T09:57:47.877003-04:00.jpg",
+      "mtime": "1661608747",
+      "size": "10952",
+      "md5": "12a908ab3276a398b349456f6912c446",
+      "crc32": "643d4bd4",
+      "sha1": "80d114d17c711e235812aa380632a7962aa00670"
+    },
+    {
       "name": "cpipr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c17266f909368574306fd1578361b846339707ce",
-      "mtime": "1661522741",
-      "size": "107368",
-      "md5": "e20e412b5c3e4d915dcb87fd303f280a",
-      "crc32": "d1cea3b4",
-      "sha1": "319784248aa30018aca4311d9f91c2bee5e0b2b9",
+      "btih": "6c81721751fa236a833b793bd082c5102120bb4a",
+      "mtime": "1661608759",
+      "size": "109866",
+      "md5": "2fee810f5b349c61493037a7914d3e71",
+      "crc32": "dd0b93b9",
+      "sha1": "21b91090227ab7fa3e5ad71120e44c8129175bc1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cpipr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5b173108fe1a2ab3c1bde899e58ae0af",
+      "md5": "a3e141ef7ff187876e334df451c5c6f8",
       "summation": "md5"
     },
     {
       "name": "cpipr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661522652",
-      "size": "643072",
-      "md5": "7594add973b00010748bc1cd0abbdaa8",
-      "crc32": "825b43c7",
-      "sha1": "253eb9f01f3f86136acc32d0614246bdd89392bd",
+      "mtime": "1661608688",
+      "size": "655360",
+      "md5": "848e1075a29338c03c4a1ede6ef6389c",
+      "crc32": "ba5ce443",
+      "sha1": "00b4b0e69a71cf3d342337aaf5f7f09d038ff786",
       "format": "Metadata"
     },
     {
@@ -5342,9 +5475,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 514,
-  "item_last_updated": 1661522741,
-  "item_size": 41813083,
+  "files_count": 526,
+  "item_last_updated": 1661608759,
+  "item_size": 42671689,
   "metadata": {
     "identifier": "cpipr-2022",
     "collection": [
@@ -5361,10 +5494,10 @@
     "publicdate": "2022-07-09 03:57:28",
     "addeddate": "2022-07-09 03:57:28"
   },
-  "server": "ia601408.us.archive.org",
-  "uniq": 683901553,
+  "server": "ia801408.us.archive.org",
+  "uniq": 318413764,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia801408.us.archive.org",
+    "ia601408.us.archive.org"
   ]
 }

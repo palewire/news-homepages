@@ -1,5 +1,10 @@
 {
-  "created": 1661554417,
+  "cnbc-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1661645221,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/11/items/cnbc-2022",
@@ -440,31 +445,155 @@
       "sha1": "268b072f774cbb2798d012f29d034ddcb96daaa2"
     },
     {
+      "name": "cnbc-2022-08-27T06:49:59.486393-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661597403",
+      "size": "52660",
+      "md5": "b6db503c250607ee11e7fe869013e743",
+      "crc32": "1823089b",
+      "sha1": "f6fd4051514e97e03c6a7e07f4d010a9c248982a",
+      "format": "JSON"
+    },
+    {
+      "name": "cnbc-2022-08-27T06:49:59.486393-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661597404",
+      "size": "54796",
+      "md5": "3670c56fb84010107d403ee3b721e408",
+      "crc32": "f6e574c8",
+      "sha1": "c0a4bf2cb7dc5591ca63b7ce80b63504b545bec5",
+      "format": "JSON"
+    },
+    {
+      "name": "cnbc-2022-08-27T06:49:59.486393-04:00.jpg",
+      "source": "original",
+      "mtime": "1661597401",
+      "size": "259402",
+      "md5": "f845243752309924b2d9b8c9cf6e9bbf",
+      "crc32": "3fa2f4b2",
+      "sha1": "fef713a655babca2fec414923f53b566a6e05c1a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cnbc-2022-08-27T06:49:59.486393-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661597405",
+      "size": "1438",
+      "md5": "202529e43222aca3cdf2e44cc33d777d",
+      "crc32": "276bb86c",
+      "sha1": "6eb646d87db2a0e05457f94592d2a7fd6c7657e1",
+      "format": "JSON"
+    },
+    {
+      "name": "cnbc-2022-08-27T06:49:59.486393-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1661597407",
+      "size": "35301",
+      "md5": "fc4f1a985472cd1f44da3d035123de87",
+      "crc32": "f606f259",
+      "sha1": "2fc7d3329908a9417573bccd060f54d51cf132bb",
+      "format": "JSON"
+    },
+    {
+      "name": "cnbc-2022-08-27T06:49:59.486393-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cnbc-2022-08-27T06:49:59.486393-04:00.jpg",
+      "mtime": "1661597452",
+      "size": "9287",
+      "md5": "72184dfd9e3ff08b429f56e2249bcb40",
+      "crc32": "03bb1197",
+      "sha1": "ad9c67cf938cb760cab424104379f98882f630c5"
+    },
+    {
+      "name": "cnbc-2022-08-27T18:56:09.822331-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661640972",
+      "size": "51870",
+      "md5": "cdf0751c1492528a9e8bdc53f64c6456",
+      "crc32": "a9924dd3",
+      "sha1": "35df149642d28eaa003db87858e645a52ae08873",
+      "format": "JSON"
+    },
+    {
+      "name": "cnbc-2022-08-27T18:56:09.822331-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661640974",
+      "size": "54700",
+      "md5": "a86c0d96260a2d85a9d2486fb28b51ff",
+      "crc32": "25db7fb7",
+      "sha1": "226499cbf426883cbb783a045949e4d1b39b8ff7",
+      "format": "JSON"
+    },
+    {
+      "name": "cnbc-2022-08-27T18:56:09.822331-04:00.jpg",
+      "source": "original",
+      "mtime": "1661640971",
+      "size": "249321",
+      "md5": "f28e24c19608cca61e776caa49ed7ae1",
+      "crc32": "ca9c0ea7",
+      "sha1": "4bf1508743d0dd2c5cb86bf5b382a2508faa624e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cnbc-2022-08-27T18:56:09.822331-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661640976",
+      "size": "1438",
+      "md5": "f5c6905dbc0c1f8064aafa6ddd14c8fe",
+      "crc32": "96f90d7c",
+      "sha1": "55158130265c33ab61c55894a1acce22f68d2f64",
+      "format": "JSON"
+    },
+    {
+      "name": "cnbc-2022-08-27T18:56:09.822331-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1661640977",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "cnbc-2022-08-27T18:56:09.822331-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cnbc-2022-08-27T18:56:09.822331-04:00.jpg",
+      "mtime": "1661641022",
+      "size": "9222",
+      "md5": "aa91f6f4f18c2286d4cae8a0ab260839",
+      "crc32": "ec85fc75",
+      "sha1": "e07691262b728c4b9225b5b5b495e8374090437d"
+    },
+    {
       "name": "cnbc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a7664941ebf637ce32d993b8c4d2fa25df12f4de",
-      "mtime": "1661554411",
-      "size": "10044",
-      "md5": "576d016f44a5cf53ef32a8e01d986cd3",
-      "crc32": "517e2391",
-      "sha1": "e9f7b350ea022d3403e1099a9ff31738a9105872",
+      "btih": "1219b0c81ad95d3ab46e01564fe6876ba1626b03",
+      "mtime": "1661641025",
+      "size": "12508",
+      "md5": "8a8f8118a161d24e88bdb39fdd32a16e",
+      "crc32": "06e7a86b",
+      "sha1": "1b37bb56235b325ac036d72a1aed38c33997d167",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cnbc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9301268b0ed4ca0fb0be9b8465915410",
+      "md5": "d1acfc67569c8977eca53a8ca1206efc",
       "summation": "md5"
     },
     {
       "name": "cnbc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661554362",
-      "size": "69632",
-      "md5": "3257f7ba9728696341ae84ca09178538",
-      "crc32": "e36a8444",
-      "sha1": "94c3622391f0d2735fe1787ef159c483bb75f6db",
+      "mtime": "1661640980",
+      "size": "81920",
+      "md5": "b539875ffaaea578e3f0df216af21edc",
+      "crc32": "b40cf738",
+      "sha1": "d56c8100873860be2ed6c9da84624b7dc49e63bb",
       "format": "Metadata"
     },
     {
@@ -478,9 +607,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 46,
-  "item_last_updated": 1661554411,
-  "item_size": 2869229,
+  "files_count": 58,
+  "item_last_updated": 1661641025,
+  "item_size": 3663618,
   "metadata": {
     "identifier": "cnbc-2022",
     "collection": [
@@ -498,7 +627,7 @@
     "addeddate": "2022-08-23 22:59:56"
   },
   "server": "ia801508.us.archive.org",
-  "uniq": 1790380512,
+  "uniq": 150780027,
   "workable_servers": [
     "ia801508.us.archive.org",
     "ia601508.us.archive.org"

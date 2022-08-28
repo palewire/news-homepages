@@ -1,11 +1,46 @@
 {
-  "created": 1661558992,
+  "created": 1661645422,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "derspiegel-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
+    "url": "https://www.spiegel.de/",
+    "job_id": "spn2-57082aec1071a160dc511a07b5837d22915c44cf",
+    "duration_sec": 19.036,
+    "resources": [
+      "https://www.spiegel.de/",
+      "https://cdn.prod.www.spiegel.de/public/spon/generated/css/styles.spon.dc46a53de2312b0bb979f8f0c2747084.css",
+      "https://cdn.prod.www.spiegel.de/public/mmo/generated/css/styles.spon-lg.894ad60418d7042fdcdb.css",
+      "https://cdn.prod.www.spiegel.de/public/shared/generated/js/commons.c335f4c6ef49bbba9ca4.js",
+      "https://cdn.prod.www.spiegel.de/public/shared/generated/js/header.2bd8c7403ea95074146d.js",
+      "https://cdn.prod.www.spiegel.de/public/shared/generated/js/index.de017d0956447502490b.js",
+      "https://cdn.prod.www.spiegel.de/public/shared/generated/js/vendors.406eabe83d0746ed587e.js",
+      "https://cdn.prod.www.spiegel.de/public/shared/fonts/SpiegelSans4UI-Bold.woff2",
+      "https://cdn.prod.www.spiegel.de/public/shared/fonts/SpiegelSlab4UICd-ExtraBold.woff2",
+      "https://cdn.prod.www.spiegel.de/public/shared/fonts/SpiegelSans4UI-Regular.woff2",
+      "https://cdn.prod.www.spiegel.de/public/shared/fonts/SpiegelSans4-6SemiBold.woff2",
+      "https://cdn.prod.www.spiegel.de/public/shared/fonts/SpiegelSerifTextUI-Regular.woff2",
+      "https://cdn.prod.www.spiegel.de/public/shared/fonts/SpiegelSerifTextUI-Bold.woff2",
+      "https://cdn.prod.www.spiegel.de/public/shared/fonts/SpiegelSerifTextUI-Italic.woff2",
+      "https://cdn.prod.www.spiegel.de/public/mmo/generated/css/styles.spon-sm.15d315f849656f431a9e.css",
+      "https://cdn.prod.www.spiegel.de/public/shared/fonts/SpiegelSerifTextUI-BoldItalic.woff2",
+      "https://cdn.prod.www.spiegel.de/public/shared/fonts/SpiegelSerifDisplayUI-BoldItalic.woff2",
+      "https://cdn.prod.www.spiegel.de/public/mmo/generated/css/styles.spon-md.ed8a72f7350479ec50da.css",
+      "https://cdn.prod.www.spiegel.de/images/38ce9950-6879-463e-9d7e-5893c9981875_w616_r1.778_fpx41.34_fpy50.webp",
+      "https://cdn.prod.www.spiegel.de/assets/news/breakingnews.json",
+      "https://omny.fm/api/orgs/5ac1e950-45c7-4eb7-87c0-aa0f018441b8/playlists/4c18e072-24d2-4d60-9a42-abc00102c97e/clips?pageSize=1",
+      "https://omny.fm/api/orgs/5ac1e950-45c7-4eb7-87c0-aa0f018441b8/playlists/913ea7fc-e0c6-4ba8-8360-abc000ffb08c/clips?pageSize=1",
+      "https://omny.fm/api/orgs/5ac1e950-45c7-4eb7-87c0-aa0f018441b8/clips/da6f9c23-0c56-4f8d-bd7c-aefb00e2c313",
+      "https://omny.fm/api/orgs/5ac1e950-45c7-4eb7-87c0-aa0f018441b8/playlists/9edc8a83-e191-4bc7-8575-abc000ffb032/clips?pageSize=1"
+    ],
+    "original_url": "https://www.spiegel.de/",
+    "http_status": 200,
+    "counters": {
+      "embeds": 167,
+      "outlinks": 70
+    },
+    "status": "success",
+    "timestamp": "20220827120736",
+    "outlinks": []
   },
   "dir": "/13/items/derspiegel-2022",
   "files": [
@@ -1943,31 +1978,155 @@
       "sha1": "4bc8ded076eea811a67bd72179b0198788f3e693"
     },
     {
+      "name": "derspiegel-2022-08-27T04:22:24.923507+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661566950",
+      "size": "117300",
+      "md5": "aa32c2532c9ab7e81ae7bda2e64fde55",
+      "crc32": "82baa34f",
+      "sha1": "585d76c7476c8266311a49197919f6737e2864f8",
+      "format": "JSON"
+    },
+    {
+      "name": "derspiegel-2022-08-27T04:22:24.923507+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661566952",
+      "size": "124090",
+      "md5": "d964c2cf194b1e75fd9e7460407c2646",
+      "crc32": "66cda9cb",
+      "sha1": "3f289dde081a29a75d6cee011933e055584a1e60",
+      "format": "JSON"
+    },
+    {
+      "name": "derspiegel-2022-08-27T04:22:24.923507+02:00.jpg",
+      "source": "original",
+      "mtime": "1661566948",
+      "size": "283346",
+      "md5": "57fbfaa5055201834ff84bd5b2c1bc19",
+      "crc32": "129ecd24",
+      "sha1": "c0ad6154639c2c48aeec119417887c7137b881a5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "derspiegel-2022-08-27T04:22:24.923507+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661566954",
+      "size": "1458",
+      "md5": "cf3a50fbd0d4461f84fc63ec39cc35b5",
+      "crc32": "3ce2f5ad",
+      "sha1": "85f844860172add7ceddc19df22ca6825a99e5e3",
+      "format": "JSON"
+    },
+    {
+      "name": "derspiegel-2022-08-27T04:22:24.923507+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1661566955",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "derspiegel-2022-08-27T04:22:24.923507+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "derspiegel-2022-08-27T04:22:24.923507+02:00.jpg",
+      "mtime": "1661567006",
+      "size": "9277",
+      "md5": "fa7d4afebd14d0d1be7dcd69069828c7",
+      "crc32": "b336ea71",
+      "sha1": "e4973d23dfa7b9f16379802431a2f6276698f1c3"
+    },
+    {
+      "name": "derspiegel-2022-08-27T16:00:13.449011+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661608817",
+      "size": "121229",
+      "md5": "4f57d18137455fc7915fc54ee82dfaa5",
+      "crc32": "6f5c39a0",
+      "sha1": "29a12c2350d6b2809eb1759794237841692c7dad",
+      "format": "JSON"
+    },
+    {
+      "name": "derspiegel-2022-08-27T16:00:13.449011+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661608819",
+      "size": "130666",
+      "md5": "2a069e1706b75cc533402bd15efee796",
+      "crc32": "766f65c7",
+      "sha1": "beb765f18585affa9266b71fd67998e21d01aba5",
+      "format": "JSON"
+    },
+    {
+      "name": "derspiegel-2022-08-27T16:00:13.449011+02:00.jpg",
+      "source": "original",
+      "mtime": "1661608815",
+      "size": "318584",
+      "md5": "d34fc988ddf4f2f04f04480b55a59acf",
+      "crc32": "034b55be",
+      "sha1": "b3e400354a9c1762847074beb7a87d8688a86538",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "derspiegel-2022-08-27T16:00:13.449011+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661608820",
+      "size": "1459",
+      "md5": "270685e915211c01703f73c94e008f51",
+      "crc32": "b68c90a5",
+      "sha1": "ce80b575b59086888fcf0f1bb1cb2795816ef2ff",
+      "format": "JSON"
+    },
+    {
+      "name": "derspiegel-2022-08-27T16:00:13.449011+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1661608822",
+      "size": "2705",
+      "md5": "c0028b72f817b741733b9c905727e92f",
+      "crc32": "98b827c0",
+      "sha1": "3da6f66e9f2d2c7918bb69c78ceaf1e384d14c1e",
+      "format": "JSON"
+    },
+    {
+      "name": "derspiegel-2022-08-27T16:00:13.449011+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "derspiegel-2022-08-27T16:00:13.449011+02:00.jpg",
+      "mtime": "1661608915",
+      "size": "9814",
+      "md5": "f278335978fd349374854e345836d02f",
+      "crc32": "67fe0bda",
+      "sha1": "9422374fdb0c1007920d4e2b9c7357f464b20473"
+    },
+    {
       "name": "derspiegel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b33995d6f047bd2ada978da38bc15d4f703e6375",
-      "mtime": "1661522811",
-      "size": "41402",
-      "md5": "af5b608fbef97b310f2f73c5354f9149",
-      "crc32": "389b2c89",
-      "sha1": "df2334665d4bad44f0ad09c12c7f7ebb42e68aa0",
+      "btih": "4b3d5e6dee5ac4b13ac4622bfc6a86b31983d0c7",
+      "mtime": "1661608924",
+      "size": "43961",
+      "md5": "4d18e0efc3060e725378fbead555bab7",
+      "crc32": "6799348b",
+      "sha1": "c5d5769f16a828e25a198af3b60c30d5a4269b54",
       "format": "Archive BitTorrent"
     },
     {
       "name": "derspiegel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9a37e47a0672202247eea4b62489c9bb",
+      "md5": "76c4d5c4dae4e88f9f2c2c2402e5cc97",
       "summation": "md5"
     },
     {
       "name": "derspiegel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661522765",
-      "size": "258048",
-      "md5": "14b42241656637f907f89f4a0179cbe9",
-      "crc32": "c9d70e60",
-      "sha1": "24d478e6c423227a2e2aa26db96edaae4877aa66",
+      "mtime": "1661608829",
+      "size": "274432",
+      "md5": "fca70e3b01adbc3315c82e81bab5a0a2",
+      "crc32": "6e010a74",
+      "sha1": "7063a83912935deaa8aba4fda51974d2c248886d",
       "format": "Metadata"
     },
     {
@@ -1981,9 +2140,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 191,
-  "item_last_updated": 1661522811,
-  "item_size": 18194485,
+  "files_count": 203,
+  "item_last_updated": 1661608924,
+  "item_size": 19333558,
   "metadata": {
     "identifier": "derspiegel-2022",
     "collection": [
@@ -2001,7 +2160,7 @@
     "addeddate": "2022-08-11 03:48:33"
   },
   "server": "ia801501.us.archive.org",
-  "uniq": 1308438026,
+  "uniq": 267036480,
   "workable_servers": [
     "ia801501.us.archive.org",
     "ia601501.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1661554316,
+  "created": 1661640918,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/15/items/bleepincomputer-2022",
@@ -3910,31 +3910,155 @@
       "sha1": "9ac78fb408e6ae26f8f6a182ef05d8934baa4c7f"
     },
     {
+      "name": "bleepincomputer-2022-08-27T06:48:00.260778-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661597291",
+      "size": "30144",
+      "md5": "c82a9e8a8021606ba7dbc86266a0b1f7",
+      "crc32": "bde32ad2",
+      "sha1": "a89342b7ce1f8c40646fe94b7991f6678d2ea2a7",
+      "format": "JSON"
+    },
+    {
+      "name": "bleepincomputer-2022-08-27T06:48:00.260778-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661597292",
+      "size": "31041",
+      "md5": "408678ead94fa3e5729cd80a6edad9ce",
+      "crc32": "3a24733d",
+      "sha1": "c55af6d88eff813baf48581e4f61bbbfe4940f53",
+      "format": "JSON"
+    },
+    {
+      "name": "bleepincomputer-2022-08-27T06:48:00.260778-04:00.jpg",
+      "source": "original",
+      "mtime": "1661597289",
+      "size": "292668",
+      "md5": "bf98d6693a749a6f7d1cec2ab6b78d02",
+      "crc32": "548061c2",
+      "sha1": "fb42826f854bad94d4613f5c0bbdc70e6d0f7e3f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bleepincomputer-2022-08-27T06:48:00.260778-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661597294",
+      "size": "1537",
+      "md5": "a949aab71ac25f83ccf0e322b195708b",
+      "crc32": "5cefe33f",
+      "sha1": "5dfd4b90fc7583e2ee9e96a57cf71131b46bca6f",
+      "format": "JSON"
+    },
+    {
+      "name": "bleepincomputer-2022-08-27T06:48:00.260778-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1661597296",
+      "size": "36913",
+      "md5": "a29298d9877db7825bee6a174f4954e4",
+      "crc32": "a54e9549",
+      "sha1": "23f93253919d791032644c87ed3ab402e57d2aa9",
+      "format": "JSON"
+    },
+    {
+      "name": "bleepincomputer-2022-08-27T06:48:00.260778-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bleepincomputer-2022-08-27T06:48:00.260778-04:00.jpg",
+      "mtime": "1661597347",
+      "size": "10012",
+      "md5": "27501d88c16c83cdd011bf8457455dee",
+      "crc32": "780281f9",
+      "sha1": "8acec378f6f915084caae890f95fb4dd1e0618ad"
+    },
+    {
+      "name": "bleepincomputer-2022-08-27T18:53:55.339302-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661640840",
+      "size": "30323",
+      "md5": "5bd30f721f3197f24428041b9b662398",
+      "crc32": "b6947629",
+      "sha1": "59c880adfa5e998f18345845e6d2a28f1aaec170",
+      "format": "JSON"
+    },
+    {
+      "name": "bleepincomputer-2022-08-27T18:53:55.339302-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661640841",
+      "size": "31070",
+      "md5": "0e087f1e3d7eb351f10060202f39edba",
+      "crc32": "50508b80",
+      "sha1": "b8d8f5bfb06f8fd758505643563e941a31789b40",
+      "format": "JSON"
+    },
+    {
+      "name": "bleepincomputer-2022-08-27T18:53:55.339302-04:00.jpg",
+      "source": "original",
+      "mtime": "1661640838",
+      "size": "306131",
+      "md5": "919335cfac793915c3ff2c3a06d6d9e5",
+      "crc32": "16a529d3",
+      "sha1": "00b70c7891af72b7df63f05b35dc130bb4379eb4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bleepincomputer-2022-08-27T18:53:55.339302-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661640844",
+      "size": "1536",
+      "md5": "7027016f022f769e7e96109b379d770d",
+      "crc32": "64eb37bd",
+      "sha1": "827648b8cd8abf783fe791abafeef8e195a1bc00",
+      "format": "JSON"
+    },
+    {
+      "name": "bleepincomputer-2022-08-27T18:53:55.339302-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1661640846",
+      "size": "47797",
+      "md5": "362e5926a4b7566d0924413c0681dde3",
+      "crc32": "5c4c8645",
+      "sha1": "67e7ac6daf9d18c8002255c25543a3c72b1d10af",
+      "format": "JSON"
+    },
+    {
+      "name": "bleepincomputer-2022-08-27T18:53:55.339302-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bleepincomputer-2022-08-27T18:53:55.339302-04:00.jpg",
+      "mtime": "1661640904",
+      "size": "10155",
+      "md5": "267d43425042ef412e4fe4a25ac02b6e",
+      "crc32": "8e2643af",
+      "sha1": "9ecde0bbe40121ea15202a0776b2b312b2b3b336"
+    },
+    {
       "name": "bleepincomputer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "18cc6e46008244a83f550a62524f290091011813",
-      "mtime": "1661554298",
-      "size": "83500",
-      "md5": "044be82a96fb814d58de1d625b03109c",
-      "crc32": "2eeaf4ba",
-      "sha1": "aebeed916e96d0944dc21baf309c1e35a248c62e",
+      "btih": "c576fa229724e18004c777fab0eca457e131b78d",
+      "mtime": "1661640911",
+      "size": "86120",
+      "md5": "3c1759331e67bf323a750e719c079cca",
+      "crc32": "99065c2b",
+      "sha1": "1646b9cf82800d81f70dec4a20d7fab49ee39bce",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bleepincomputer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d9bc9bd7865688bc525822f53b5d5d46",
+      "md5": "c2b68cd8c43703bd463a323f702d92d0",
       "summation": "md5"
     },
     {
       "name": "bleepincomputer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661554242",
-      "size": "495616",
-      "md5": "19810ba5c658d880f8404c63295f83dc",
-      "crc32": "620ee0d2",
-      "sha1": "0645a37d128bbbb4f02540a93ad5e80bcf5ad7ff",
+      "mtime": "1661640851",
+      "size": "512000",
+      "md5": "b4dee63fb062f843ac29a200eafbbcc0",
+      "crc32": "ca90644b",
+      "sha1": "186a8699ff6d2d862fe6a66f80c3dfc7db4c3f56",
       "format": "Metadata"
     },
     {
@@ -3948,9 +4072,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 381,
-  "item_last_updated": 1661554298,
-  "item_size": 26592661,
+  "files_count": 393,
+  "item_last_updated": 1661640911,
+  "item_size": 27440992,
   "metadata": {
     "identifier": "bleepincomputer-2022",
     "collection": [
@@ -3968,7 +4092,7 @@
     "addeddate": "2022-07-25 06:47:16"
   },
   "server": "ia801405.us.archive.org",
-  "uniq": 609295197,
+  "uniq": 348745517,
   "workable_servers": [
     "ia801405.us.archive.org",
     "ia601405.us.archive.org"

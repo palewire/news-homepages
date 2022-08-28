@@ -1,7 +1,12 @@
 {
-  "created": 1661554509,
+  "created": 1661645419,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
+  "denverite-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "dir": "/28/items/denverite-2022",
   "files": [
     {
@@ -1690,31 +1695,155 @@
       "sha1": "1c7ffb2d96d59c9d7dbd349056613234fd41ab8b"
     },
     {
+      "name": "denverite-2022-08-27T04:51:39.710991-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661597503",
+      "size": "28111",
+      "md5": "412b62e5666fc63310927763c532b8fa",
+      "crc32": "d50c1b79",
+      "sha1": "3d0a5016c1590bfbd1bfb5bdd76271e3c7b7ec75",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-08-27T04:51:39.710991-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661597504",
+      "size": "28934",
+      "md5": "a97f166d4a267eef28c175771f5437e0",
+      "crc32": "707c59d7",
+      "sha1": "9b2ac568a6ba9035eac1b1ab37439ff1503e4564",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-08-27T04:51:39.710991-06:00.jpg",
+      "source": "original",
+      "mtime": "1661597501",
+      "size": "333560",
+      "md5": "d75508a0b2c132ce48e0809d876a10f1",
+      "crc32": "b9a179ad",
+      "sha1": "6f563ed7dadcf07a650d09dcb0282f9c31e95d38",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "denverite-2022-08-27T04:51:39.710991-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661597510",
+      "size": "1450",
+      "md5": "87cc557545a526a80eb27d4ffa85d38e",
+      "crc32": "5e6993ff",
+      "sha1": "f87ab3a8bcdb9241edf917e9de7077c9547f2528",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-08-27T04:51:39.710991-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1661597511",
+      "size": "18141",
+      "md5": "fa0c6041d4e23f7ebcbaa9031dff173e",
+      "crc32": "9af843fa",
+      "sha1": "d22bb157e5e8d25761979de93896b4416724f635",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-08-27T04:51:39.710991-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "denverite-2022-08-27T04:51:39.710991-06:00.jpg",
+      "mtime": "1661597565",
+      "size": "9874",
+      "md5": "b75020fce3319bf6534a4c7ee12c0ba4",
+      "crc32": "fb43a0cf",
+      "sha1": "76924e9b4c596d40dcd5de6fb4fba9f68d8f8e33"
+    },
+    {
+      "name": "denverite-2022-08-27T16:57:13.375902-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661641037",
+      "size": "28111",
+      "md5": "412b62e5666fc63310927763c532b8fa",
+      "crc32": "d50c1b79",
+      "sha1": "3d0a5016c1590bfbd1bfb5bdd76271e3c7b7ec75",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-08-27T16:57:13.375902-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661641038",
+      "size": "28934",
+      "md5": "a97f166d4a267eef28c175771f5437e0",
+      "crc32": "707c59d7",
+      "sha1": "9b2ac568a6ba9035eac1b1ab37439ff1503e4564",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-08-27T16:57:13.375902-06:00.jpg",
+      "source": "original",
+      "mtime": "1661641035",
+      "size": "333506",
+      "md5": "19339dd2fe003ea631577ed94dedd2da",
+      "crc32": "5dc0af80",
+      "sha1": "fd8e2fc4bd16ba75b7d971be0a11e1f1e74f89db",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "denverite-2022-08-27T16:57:13.375902-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661641042",
+      "size": "1449",
+      "md5": "b7aa9a184c74217470e188c9b59fd121",
+      "crc32": "25fadad1",
+      "sha1": "a2dbd99083502a22c166853f288a277032bab2c5",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-08-27T16:57:13.375902-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1661641044",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-08-27T16:57:13.375902-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "denverite-2022-08-27T16:57:13.375902-06:00.jpg",
+      "mtime": "1661641092",
+      "size": "9874",
+      "md5": "a915a82b3b8ac59925e1a71d67844d6a",
+      "crc32": "d935bd76",
+      "sha1": "b20d7a2c01f94d0ba1dabca951b4d474443ec14c"
+    },
+    {
       "name": "denverite-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ba7fc2555f7ef5664ebd6a44c0bc58c1bbd80669",
-      "mtime": "1661554475",
-      "size": "35900",
-      "md5": "49dbd3428a6d4b6dad7882cdbee9a66e",
-      "crc32": "ad4bad4f",
-      "sha1": "4f7ec87e00ee9241279b79966fb9c9c508c0a76c",
+      "btih": "dacf2e07ac52270c2472af4cdf5fc762f17b5a72",
+      "mtime": "1661641095",
+      "size": "38444",
+      "md5": "c153d7d07e6af683f7b0aec2918d1555",
+      "crc32": "e3eb124b",
+      "sha1": "831d06330743c1a47bbe713ebc10c2c8b0ab7544",
       "format": "Archive BitTorrent"
     },
     {
       "name": "denverite-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ac7af1314e56f9b4c9878ae87d56eaec",
+      "md5": "9753287433c80d0e7bdcca8095b43bce",
       "summation": "md5"
     },
     {
       "name": "denverite-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661554419",
-      "size": "229376",
-      "md5": "49c0f89fc944a90137b8dca91e8096d9",
-      "crc32": "7f38590a",
-      "sha1": "ca4a77a0082e9102b564adabe1833251f6a9180e",
+      "mtime": "1661641049",
+      "size": "245760",
+      "md5": "8711cbb9d2bb6bc07b1b896fc801ea3e",
+      "crc32": "19db5b03",
+      "sha1": "80b09377e99aa2538f7a0cf37d69f2147f9549db",
       "format": "Metadata"
     },
     {
@@ -1728,9 +1857,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 167,
-  "item_last_updated": 1661554475,
-  "item_size": 12028693,
+  "files_count": 179,
+  "item_last_updated": 1661641095,
+  "item_size": 12869767,
   "metadata": {
     "identifier": "denverite-2022",
     "collection": [
@@ -1747,10 +1876,10 @@
     "publicdate": "2022-08-13 23:53:15",
     "addeddate": "2022-08-13 23:53:15"
   },
-  "server": "ia601400.us.archive.org",
-  "uniq": 1903301070,
+  "server": "ia801400.us.archive.org",
+  "uniq": 1331228695,
   "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
+    "ia801400.us.archive.org",
+    "ia601400.us.archive.org"
   ]
 }

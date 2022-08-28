@@ -1,5 +1,5 @@
 {
-  "created": 1661560080,
+  "created": 1661615903,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/28/items/progressoms-2022",
@@ -3748,31 +3748,217 @@
       "sha1": "c938ca40c2b48d352475c4a49d0d0e4cdfec4420"
     },
     {
+      "name": "progressoms-2022-08-27T01:35:48.563293-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661574951",
+      "size": "1088",
+      "md5": "3891b81cc619f15a6cba2165356de078",
+      "crc32": "9e708d76",
+      "sha1": "6e8ea2d97b11093dfc598d415e0f179f5141c215",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-08-27T01:35:48.563293-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661574953",
+      "size": "33629",
+      "md5": "467a0ca3262ba503c9d9e65439f27525",
+      "crc32": "5750fef1",
+      "sha1": "1d09645154cc37471fa807fcf511dfab7b0ec85f",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-08-27T01:35:48.563293-03:00.jpg",
+      "source": "original",
+      "mtime": "1661574950",
+      "size": "309350",
+      "md5": "d3d7e0dcc52aedfc2ba0c06b7360c0a8",
+      "crc32": "8e3ffb27",
+      "sha1": "45fd569a116219e71e1fa88ebc730d955f8d88a7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "progressoms-2022-08-27T01:35:48.563293-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661574955",
+      "size": "1513",
+      "md5": "9e008dbbf031621c31cc34f586a65b29",
+      "crc32": "8ff8d24b",
+      "sha1": "c8e0fa39c98f1541215b25ff64f5c363ff2c22b7",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-08-27T01:35:48.563293-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1661574956",
+      "size": "17647",
+      "md5": "235e1014404fcc9e38034138cdc7d6df",
+      "crc32": "8543aef2",
+      "sha1": "294693a4e7560e84e97416aaa1806e3638b8fa08",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-08-27T01:35:48.563293-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "progressoms-2022-08-27T01:35:48.563293-03:00.jpg",
+      "mtime": "1661575031",
+      "size": "10818",
+      "md5": "1793b8cac72736cfeddb92222d1ae7b8",
+      "crc32": "92fbf909",
+      "sha1": "617d1fdc981a1b14e50ab4e31013a8369925b354"
+    },
+    {
+      "name": "progressoms-2022-08-27T08:59:42.565496-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661601587",
+      "size": "1095",
+      "md5": "a5d76a5a28c9c90cad2cb7a6efed06b4",
+      "crc32": "9a02a076",
+      "sha1": "57c7c9274c09b6256ef1dcc775e452aa4133aedb",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-08-27T08:59:42.565496-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661601589",
+      "size": "33668",
+      "md5": "cb975d2de9e584e2138e6d083bbc15bf",
+      "crc32": "72a36ef5",
+      "sha1": "edd76b34f953802a8f2e32df43c0759f12ae2456",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-08-27T08:59:42.565496-03:00.jpg",
+      "source": "original",
+      "mtime": "1661601585",
+      "size": "304351",
+      "md5": "e79fc4791e0131ca2aed4c2642103804",
+      "crc32": "8def6db5",
+      "sha1": "bab6340f2418994b125527c4c7aff8d55ad20f07",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "progressoms-2022-08-27T08:59:42.565496-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661601591",
+      "size": "1513",
+      "md5": "04d83fb0718a8d8ccf5b05f9098b4b7d",
+      "crc32": "9e612b4d",
+      "sha1": "5f5f3e3b0fd45efb4244eb85bcfa0fa045ce1082",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-08-27T08:59:42.565496-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1661601593",
+      "size": "17681",
+      "md5": "ac66d90732444572de45c726c4831841",
+      "crc32": "947973a8",
+      "sha1": "80f373a73f08a5a50d7f8d0a4c4cd9c38e048399",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-08-27T08:59:42.565496-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "progressoms-2022-08-27T08:59:42.565496-03:00.jpg",
+      "mtime": "1661601648",
+      "size": "10520",
+      "md5": "bb9f88d7239e8dbf3ea9daf1ba95b69d",
+      "crc32": "3a3dd62b",
+      "sha1": "64d68ed8167a153bcc8b42e7562baf5bcfa54521"
+    },
+    {
+      "name": "progressoms-2022-08-27T12:56:51.190708-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661615823",
+      "size": "1116",
+      "md5": "ed7d4f6faa1fa80e15addfd76ac5a910",
+      "crc32": "c1deae49",
+      "sha1": "3929f16b61c9e4c9f7e324d6a3140e4a51d3e197",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-08-27T12:56:51.190708-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661615825",
+      "size": "33787",
+      "md5": "748c6dd8ed35c78ed130b1fb6792c373",
+      "crc32": "047e7549",
+      "sha1": "ab8c1ad49509a1f5c33ee13352a2371a5ffd7e88",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-08-27T12:56:51.190708-03:00.jpg",
+      "source": "original",
+      "mtime": "1661615821",
+      "size": "297160",
+      "md5": "943507ea8d907741d0dec23a128260b2",
+      "crc32": "01d58ab9",
+      "sha1": "9eeec5d53c19167456859ca39dc90e2e59c79e14",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "progressoms-2022-08-27T12:56:51.190708-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661615826",
+      "size": "1512",
+      "md5": "46c119b5fa5d806c645697605b5824fc",
+      "crc32": "2765b2f4",
+      "sha1": "32264b80dd255d3f696bbae7b6e96b05c5647e2e",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-08-27T12:56:51.190708-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1661615828",
+      "size": "234",
+      "md5": "ed3aaf7df743cb110cbec322631b9311",
+      "crc32": "96c5df22",
+      "sha1": "191b95caada2a8ec53cdee7ff1ea670792fc9fa6",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-08-27T12:56:51.190708-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "progressoms-2022-08-27T12:56:51.190708-03:00.jpg",
+      "mtime": "1661615890",
+      "size": "10602",
+      "md5": "e52a7cb8736f12f89ee1d920d8542e3c",
+      "crc32": "26cf91b2",
+      "sha1": "3687b25e9ebb94e3a8ba6a7241772fb12c0e48fb"
+    },
+    {
       "name": "progressoms-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2ba708a3f3b7d8e6a05b75393a4f5e625a3c8016",
-      "mtime": "1661529926",
-      "size": "78526",
-      "md5": "d8aad9ce949d8b616d5a31ce740e1eda",
-      "crc32": "8bb77a28",
-      "sha1": "ad5d9d4444a4bad97600ae8750ed10d485bc3212",
+      "btih": "fe9491773fca23bd7553f5413e6db2df59783810",
+      "mtime": "1661615895",
+      "size": "82359",
+      "md5": "cf4b04b31e371e2a2afe57508daa3393",
+      "crc32": "cf1609fc",
+      "sha1": "b8764f28eeb5ca31abc7ba6ce1e90c6b3b494e18",
       "format": "Archive BitTorrent"
     },
     {
       "name": "progressoms-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a129860dff98b394edd38847ee733871",
+      "md5": "110f13e819c00bc3f565a9943449c891",
       "summation": "md5"
     },
     {
       "name": "progressoms-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661529860",
-      "size": "479232",
-      "md5": "25f304291c176b4eb67247fecf2c43dd",
-      "crc32": "beeb45a1",
-      "sha1": "673b8bca3aaa1a75e2556b7a8bb431fa8f640fe9",
+      "mtime": "1661615833",
+      "size": "503808",
+      "md5": "f0e67b2e7485a9ed9a10f79b26d09bdc",
+      "crc32": "158dfcfd",
+      "sha1": "c541419d4863076c85d056894d2506f0937f4592",
       "format": "Metadata"
     },
     {
@@ -3786,9 +3972,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 366,
-  "item_last_updated": 1661529926,
-  "item_size": 21075421,
+  "files_count": 384,
+  "item_last_updated": 1661615895,
+  "item_size": 22191114,
   "metadata": {
     "identifier": "progressoms-2022",
     "collection": [
@@ -3805,14 +3991,10 @@
     "publicdate": "2022-08-04 04:56:28",
     "addeddate": "2022-08-04 04:56:28"
   },
-  "progressoms-2022": {
-    "url": "https://www.progresso.com.br/",
-    "job_id": "spn2-fbc2e5098e106c19e63b4dcc584a335b877f8612"
-  },
-  "server": "ia601506.us.archive.org",
-  "uniq": 1625621156,
+  "server": "ia801506.us.archive.org",
+  "uniq": 1651304804,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia801506.us.archive.org",
+    "ia601506.us.archive.org"
   ]
 }
