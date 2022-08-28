@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 97 screenshots with the Internet Archive.
+The archiving routine has saved 99 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-26T08:03:57.023797-06:00.jpg">
+  <img src="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-26T08:03:57.023797-06:00.jpg"
+     alt="Colorado News Collaborative at 2022-08-26 08:04:09-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-26T08:03:57.023797-06:00.jpg">August 26 at 8:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-25T20:23:27.975215-06:00.jpg">
+  <img src="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-25T20:23:27.975215-06:00.jpg"
+     alt="Colorado News Collaborative at 2022-08-25 20:23:39-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-25T20:23:27.975215-06:00.jpg">August 25 at 8:23 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-25T08:55:27.388347-06:00.jpg">
   <img src="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-25T08:55:27.388347-06:00.jpg"
      alt="Colorado News Collaborative at 2022-08-25 08:55:32-06:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-20T07:02:24.531396-06:00.jpg">August 20 at 7:02 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-19T19:14:08.158881-06:00.jpg">
-  <img src="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-19T19:14:08.158881-06:00.jpg"
-     alt="Colorado News Collaborative at 2022-08-19 19:14:09-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-19T19:14:08.158881-06:00.jpg">August 19 at 7:14 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-19T07:20:33.596169-06:00.jpg">
-  <img src="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-19T07:20:33.596169-06:00.jpg"
-     alt="Colorado News Collaborative at 2022-08-19 07:20:43-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-19T07:20:33.596169-06:00.jpg">August 19 at 7:20 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 98 hyperlink lists with the Internet Archive.
+The archiving routine has saved 100 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 26 at 8:04 AM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-26T08:03:57.023797-06:00.hyperlinks.json) |
+| [August 25 at 8:23 PM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-25T20:23:27.975215-06:00.hyperlinks.json) |
 | [August 25 at 8:55 AM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-25T08:55:27.388347-06:00.hyperlinks.json) |
 | [August 24 at 7:59 AM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-24T07:59:05.783168-06:00.hyperlinks.json) |
 | [August 23 at 8:17 PM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-23T20:17:38.486132-06:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 22 at 8:04 AM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-22T08:04:43.305504-06:00.hyperlinks.json) |
 | [August 21 at 8:23 PM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-21T20:23:52.972978-06:00.hyperlinks.json) |
 | [August 21 at 8:01 AM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-21T08:01:39.197050-06:00.hyperlinks.json) |
-| [August 20 at 8:17 PM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-20T20:17:53.349248-06:00.hyperlinks.json) |
-| [August 20 at 7:02 AM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-20T07:02:24.531396-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 98 accessibility trees with the Internet Archive.
+The archiving routine has saved 100 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 26 at 8:04 AM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-26T08:03:57.023797-06:00.accessibility.json) |
+| [August 25 at 8:23 PM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-25T20:23:27.975215-06:00.accessibility.json) |
 | [August 25 at 8:55 AM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-25T08:55:27.388347-06:00.accessibility.json) |
 | [August 24 at 7:59 AM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-24T07:59:05.783168-06:00.accessibility.json) |
 | [August 23 at 8:17 PM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-23T20:17:38.486132-06:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 22 at 8:04 AM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-22T08:04:43.305504-06:00.accessibility.json) |
 | [August 21 at 8:23 PM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-21T20:23:52.972978-06:00.accessibility.json) |
 | [August 21 at 8:01 AM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-21T08:01:39.197050-06:00.accessibility.json) |
-| [August 20 at 8:17 PM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-20T20:17:53.349248-06:00.accessibility.json) |
-| [August 20 at 7:02 AM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-20T07:02:24.531396-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 68 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 70 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 26 at 8:04 AM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-26T08:03:57.023797-06:00.lighthouse.json) |
+| [August 25 at 8:23 PM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-25T20:23:27.975215-06:00.lighthouse.json) |
 | [August 25 at 8:55 AM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-25T08:55:27.388347-06:00.lighthouse.json) |
 | [August 24 at 7:59 AM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-24T07:59:05.783168-06:00.lighthouse.json) |
 | [August 23 at 8:17 PM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-23T20:17:38.486132-06:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 22 at 8:04 AM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-22T08:04:43.305504-06:00.lighthouse.json) |
 | [August 21 at 8:23 PM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-21T20:23:52.972978-06:00.lighthouse.json) |
 | [August 21 at 8:01 AM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-21T08:01:39.197050-06:00.lighthouse.json) |
-| [August 20 at 8:18 PM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-20T20:17:53.349248-06:00.lighthouse.json) |
-| [August 20 at 7:02 AM](https://archive.org/download/colabnewsco-2022/colabnewsco-2022-08-20T07:02:24.531396-06:00.lighthouse.json) |
 
 
 

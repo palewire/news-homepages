@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 215 screenshots with the Internet Archive.
+The archiving routine has saved 218 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-08-26T11:31:43.373248-07:00.jpg">
+  <img src="https://archive.org/download/toacornnews-2022/toacornnews-2022-08-26T11:31:43.373248-07:00.jpg"
+     alt="Thousand Oaks Acorn at 2022-08-26 11:32:00-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-08-26T11:31:43.373248-07:00.jpg">August 26 at 11:32 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-08-26T06:04:32.144283-07:00.jpg">
+  <img src="https://archive.org/download/toacornnews-2022/toacornnews-2022-08-26T06:04:32.144283-07:00.jpg"
+     alt="Thousand Oaks Acorn at 2022-08-26 06:04:46-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-08-26T06:04:32.144283-07:00.jpg">August 26 at 6:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-08-25T18:18:51.549994-07:00.jpg">
+  <img src="https://archive.org/download/toacornnews-2022/toacornnews-2022-08-25T18:18:51.549994-07:00.jpg"
+     alt="Thousand Oaks Acorn at 2022-08-25 18:18:53-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-08-25T18:18:51.549994-07:00.jpg">August 25 at 6:18 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-08-25T11:29:53.672956-07:00.jpg">
   <img src="https://archive.org/download/toacornnews-2022/toacornnews-2022-08-25T11:29:53.672956-07:00.jpg"
      alt="Thousand Oaks Acorn at 2022-08-25 11:30:04-07:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-08-22T11:27:59.274096-07:00.jpg">August 22 at 11:28 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-08-22T06:07:52.132912-07:00.jpg">
-  <img src="https://archive.org/download/toacornnews-2022/toacornnews-2022-08-22T06:07:52.132912-07:00.jpg"
-     alt="Thousand Oaks Acorn at 2022-08-22 06:08:03-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-08-22T06:07:52.132912-07:00.jpg">August 22 at 6:08 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-08-21T18:17:06.245652-07:00.jpg">
-  <img src="https://archive.org/download/toacornnews-2022/toacornnews-2022-08-21T18:17:06.245652-07:00.jpg"
-     alt="Thousand Oaks Acorn at 2022-08-21 18:17:07-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-08-21T18:17:06.245652-07:00.jpg">August 21 at 6:17 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-08-21T11:30:54.137203-07:00.jpg">
-  <img src="https://archive.org/download/toacornnews-2022/toacornnews-2022-08-21T11:30:54.137203-07:00.jpg"
-     alt="Thousand Oaks Acorn at 2022-08-21 11:31:00-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-08-21T11:30:54.137203-07:00.jpg">August 21 at 11:31 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 216 hyperlink lists with the Internet Archive.
+The archiving routine has saved 219 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 26 at 11:32 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-26T11:31:43.373248-07:00.hyperlinks.json) |
+| [August 26 at 6:04 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-26T06:04:32.144283-07:00.hyperlinks.json) |
+| [August 25 at 6:18 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-25T18:18:51.549994-07:00.hyperlinks.json) |
 | [August 25 at 11:30 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-25T11:29:53.672956-07:00.hyperlinks.json) |
 | [August 25 at 6:08 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-25T06:08:26.657348-07:00.hyperlinks.json) |
 | [August 24 at 11:40 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-24T11:39:49.168089-07:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 23 at 6:13 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-23T18:12:58.411583-07:00.hyperlinks.json) |
 | [August 23 at 11:30 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-23T11:30:25.285389-07:00.hyperlinks.json) |
 | [August 23 at 6:00 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-23T06:00:07.903915-07:00.hyperlinks.json) |
-| [August 22 at 6:26 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-22T18:26:13.350506-07:00.hyperlinks.json) |
-| [August 22 at 11:28 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-22T11:27:59.274096-07:00.hyperlinks.json) |
-| [August 22 at 6:08 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-22T06:07:52.132912-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 215 accessibility trees with the Internet Archive.
+The archiving routine has saved 218 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 26 at 11:32 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-26T11:31:43.373248-07:00.accessibility.json) |
+| [August 26 at 6:04 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-26T06:04:32.144283-07:00.accessibility.json) |
+| [August 25 at 6:18 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-25T18:18:51.549994-07:00.accessibility.json) |
 | [August 25 at 11:30 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-25T11:29:53.672956-07:00.accessibility.json) |
 | [August 25 at 6:08 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-25T06:08:26.657348-07:00.accessibility.json) |
 | [August 24 at 6:00 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-24T06:00:43.232911-07:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 23 at 11:30 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-23T11:30:25.285389-07:00.accessibility.json) |
 | [August 23 at 6:00 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-23T06:00:07.903915-07:00.accessibility.json) |
 | [August 22 at 6:26 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-22T18:26:13.350506-07:00.accessibility.json) |
-| [August 22 at 11:28 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-22T11:27:59.274096-07:00.accessibility.json) |
-| [August 22 at 6:08 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-22T06:07:52.132912-07:00.accessibility.json) |
-| [August 21 at 6:17 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-21T18:17:06.245652-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 97 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 100 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 26 at 11:32 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-26T11:31:43.373248-07:00.lighthouse.json) |
+| [August 26 at 6:04 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-26T06:04:32.144283-07:00.lighthouse.json) |
+| [August 25 at 6:18 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-25T18:18:51.549994-07:00.lighthouse.json) |
 | [August 25 at 11:30 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-25T11:29:53.672956-07:00.lighthouse.json) |
 | [August 25 at 6:08 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-25T06:08:26.657348-07:00.lighthouse.json) |
 | [August 24 at 11:40 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-24T11:39:49.168089-07:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 23 at 6:13 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-23T18:12:58.411583-07:00.lighthouse.json) |
 | [August 23 at 11:30 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-23T11:30:25.285389-07:00.lighthouse.json) |
 | [August 23 at 6:00 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-23T06:00:07.903915-07:00.lighthouse.json) |
-| [August 22 at 6:26 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-22T18:26:13.350506-07:00.lighthouse.json) |
-| [August 22 at 11:28 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-22T11:27:59.274096-07:00.lighthouse.json) |
-| [August 22 at 6:08 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-22T06:07:52.132912-07:00.lighthouse.json) |
 
 
 

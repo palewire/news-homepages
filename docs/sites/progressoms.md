@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 58 screenshots with the Internet Archive.
+The archiving routine has saved 61 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/progressoms-2022/progressoms-2022-08-26T13:04:06.517582-03:00.jpg">
+  <img src="https://archive.org/download/progressoms-2022/progressoms-2022-08-26T13:04:06.517582-03:00.jpg"
+     alt="O Progresso at 2022-08-26 13:04:09-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/progressoms-2022/progressoms-2022-08-26T13:04:06.517582-03:00.jpg">August 26 at 1:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/progressoms-2022/progressoms-2022-08-26T09:02:41.839737-03:00.jpg">
+  <img src="https://archive.org/download/progressoms-2022/progressoms-2022-08-26T09:02:41.839737-03:00.jpg"
+     alt="O Progresso at 2022-08-26 09:02:44-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/progressoms-2022/progressoms-2022-08-26T09:02:41.839737-03:00.jpg">August 26 at 9:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/progressoms-2022/progressoms-2022-08-26T01:40:56.246272-03:00.jpg">
+  <img src="https://archive.org/download/progressoms-2022/progressoms-2022-08-26T01:40:56.246272-03:00.jpg"
+     alt="O Progresso at 2022-08-26 01:40:59-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/progressoms-2022/progressoms-2022-08-26T01:40:56.246272-03:00.jpg">August 26 at 1:40 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/progressoms-2022/progressoms-2022-08-25T13:02:06.067225-03:00.jpg">
   <img src="https://archive.org/download/progressoms-2022/progressoms-2022-08-25T13:02:06.067225-03:00.jpg"
      alt="O Progresso at 2022-08-25 13:02:08-03:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/progressoms-2022/progressoms-2022-08-22T09:04:49.628203-03:00.jpg">August 22 at 9:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/progressoms-2022/progressoms-2022-08-22T00:42:55.071129-03:00.jpg">
-  <img src="https://archive.org/download/progressoms-2022/progressoms-2022-08-22T00:42:55.071129-03:00.jpg"
-     alt="O Progresso at 2022-08-22 00:42:59-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/progressoms-2022/progressoms-2022-08-22T00:42:55.071129-03:00.jpg">August 22 at 12:42 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/progressoms-2022/progressoms-2022-08-21T12:01:04.582207-03:00.jpg">
-  <img src="https://archive.org/download/progressoms-2022/progressoms-2022-08-21T12:01:04.582207-03:00.jpg"
-     alt="O Progresso at 2022-08-21 12:01:06-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/progressoms-2022/progressoms-2022-08-21T12:01:04.582207-03:00.jpg">August 21 at 12:01 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/progressoms-2022/progressoms-2022-08-21T08:56:50.061611-03:00.jpg">
-  <img src="https://archive.org/download/progressoms-2022/progressoms-2022-08-21T08:56:50.061611-03:00.jpg"
-     alt="O Progresso at 2022-08-21 08:56:52-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/progressoms-2022/progressoms-2022-08-21T08:56:50.061611-03:00.jpg">August 21 at 8:56 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 58 hyperlink lists with the Internet Archive.
+The archiving routine has saved 61 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 26 at 1:04 PM](https://archive.org/download/progressoms-2022/progressoms-2022-08-26T13:04:06.517582-03:00.hyperlinks.json) |
+| [August 26 at 9:02 AM](https://archive.org/download/progressoms-2022/progressoms-2022-08-26T09:02:41.839737-03:00.hyperlinks.json) |
+| [August 26 at 1:41 AM](https://archive.org/download/progressoms-2022/progressoms-2022-08-26T01:40:56.246272-03:00.hyperlinks.json) |
 | [August 25 at 1:02 PM](https://archive.org/download/progressoms-2022/progressoms-2022-08-25T13:02:06.067225-03:00.hyperlinks.json) |
 | [August 25 at 9:07 AM](https://archive.org/download/progressoms-2022/progressoms-2022-08-25T09:07:43.151874-03:00.hyperlinks.json) |
 | [August 24 at 12:59 PM](https://archive.org/download/progressoms-2022/progressoms-2022-08-24T12:59:39.731241-03:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 24 at 1:35 AM](https://archive.org/download/progressoms-2022/progressoms-2022-08-24T01:35:46.096682-03:00.hyperlinks.json) |
 | [August 23 at 1:04 PM](https://archive.org/download/progressoms-2022/progressoms-2022-08-23T13:04:01.790989-03:00.hyperlinks.json) |
 | [August 23 at 12:56 AM](https://archive.org/download/progressoms-2022/progressoms-2022-08-23T00:56:24.425226-03:00.hyperlinks.json) |
-| [August 22 at 12:02 PM](https://archive.org/download/progressoms-2022/progressoms-2022-08-22T12:01:53.285059-03:00.hyperlinks.json) |
-| [August 22 at 9:04 AM](https://archive.org/download/progressoms-2022/progressoms-2022-08-22T09:04:49.628203-03:00.hyperlinks.json) |
-| [August 22 at 12:43 AM](https://archive.org/download/progressoms-2022/progressoms-2022-08-22T00:42:55.071129-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 58 accessibility trees with the Internet Archive.
+The archiving routine has saved 61 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 26 at 1:04 PM](https://archive.org/download/progressoms-2022/progressoms-2022-08-26T13:04:06.517582-03:00.accessibility.json) |
+| [August 26 at 9:02 AM](https://archive.org/download/progressoms-2022/progressoms-2022-08-26T09:02:41.839737-03:00.accessibility.json) |
+| [August 26 at 1:41 AM](https://archive.org/download/progressoms-2022/progressoms-2022-08-26T01:40:56.246272-03:00.accessibility.json) |
 | [August 25 at 1:02 PM](https://archive.org/download/progressoms-2022/progressoms-2022-08-25T13:02:06.067225-03:00.accessibility.json) |
 | [August 25 at 9:07 AM](https://archive.org/download/progressoms-2022/progressoms-2022-08-25T09:07:43.151874-03:00.accessibility.json) |
 | [August 24 at 12:59 PM](https://archive.org/download/progressoms-2022/progressoms-2022-08-24T12:59:39.731241-03:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 24 at 1:35 AM](https://archive.org/download/progressoms-2022/progressoms-2022-08-24T01:35:46.096682-03:00.accessibility.json) |
 | [August 23 at 1:04 PM](https://archive.org/download/progressoms-2022/progressoms-2022-08-23T13:04:01.790989-03:00.accessibility.json) |
 | [August 23 at 12:56 AM](https://archive.org/download/progressoms-2022/progressoms-2022-08-23T00:56:24.425226-03:00.accessibility.json) |
-| [August 22 at 12:01 PM](https://archive.org/download/progressoms-2022/progressoms-2022-08-22T12:01:53.285059-03:00.accessibility.json) |
-| [August 22 at 9:04 AM](https://archive.org/download/progressoms-2022/progressoms-2022-08-22T09:04:49.628203-03:00.accessibility.json) |
-| [August 22 at 12:43 AM](https://archive.org/download/progressoms-2022/progressoms-2022-08-22T00:42:55.071129-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 58 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 61 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 26 at 1:04 PM](https://archive.org/download/progressoms-2022/progressoms-2022-08-26T13:04:06.517582-03:00.lighthouse.json) |
+| [August 26 at 9:02 AM](https://archive.org/download/progressoms-2022/progressoms-2022-08-26T09:02:41.839737-03:00.lighthouse.json) |
+| [August 26 at 1:41 AM](https://archive.org/download/progressoms-2022/progressoms-2022-08-26T01:40:56.246272-03:00.lighthouse.json) |
 | [August 25 at 1:02 PM](https://archive.org/download/progressoms-2022/progressoms-2022-08-25T13:02:06.067225-03:00.lighthouse.json) |
 | [August 25 at 9:07 AM](https://archive.org/download/progressoms-2022/progressoms-2022-08-25T09:07:43.151874-03:00.lighthouse.json) |
 | [August 24 at 12:59 PM](https://archive.org/download/progressoms-2022/progressoms-2022-08-24T12:59:39.731241-03:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 24 at 1:35 AM](https://archive.org/download/progressoms-2022/progressoms-2022-08-24T01:35:46.096682-03:00.lighthouse.json) |
 | [August 23 at 1:04 PM](https://archive.org/download/progressoms-2022/progressoms-2022-08-23T13:04:01.790989-03:00.lighthouse.json) |
 | [August 23 at 12:56 AM](https://archive.org/download/progressoms-2022/progressoms-2022-08-23T00:56:24.425226-03:00.lighthouse.json) |
-| [August 22 at 12:02 PM](https://archive.org/download/progressoms-2022/progressoms-2022-08-22T12:01:53.285059-03:00.lighthouse.json) |
-| [August 22 at 9:04 AM](https://archive.org/download/progressoms-2022/progressoms-2022-08-22T09:04:49.628203-03:00.lighthouse.json) |
-| [August 22 at 12:43 AM](https://archive.org/download/progressoms-2022/progressoms-2022-08-22T00:42:55.071129-03:00.lighthouse.json) |
 
 
 

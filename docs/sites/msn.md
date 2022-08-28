@@ -28,13 +28,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 5 screenshots with the Internet Archive.
+The archiving routine has saved 7 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/msn-2022/msn-2022-08-26T16:47:25.745813-07:00.jpg">
+  <img src="https://archive.org/download/msn-2022/msn-2022-08-26T16:47:25.745813-07:00.jpg"
+     alt="MSN at 2022-08-26 16:47:27-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/msn-2022/msn-2022-08-26T16:47:25.745813-07:00.jpg">August 26 at 4:47 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/msn-2022/msn-2022-08-26T04:59:57.838911-07:00.jpg">
+  <img src="https://archive.org/download/msn-2022/msn-2022-08-26T04:59:57.838911-07:00.jpg"
+     alt="MSN at 2022-08-26 04:59:59-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/msn-2022/msn-2022-08-26T04:59:57.838911-07:00.jpg">August 26 at 4:59 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/msn-2022/msn-2022-08-25T17:05:16.687535-07:00.jpg">
@@ -85,7 +103,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 5 hyperlink lists with the Internet Archive.
+The archiving routine has saved 7 hyperlink lists with the Internet Archive.
 
 
 
@@ -93,6 +111,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 26 at 4:47 PM](https://archive.org/download/msn-2022/msn-2022-08-26T16:47:25.745813-07:00.hyperlinks.json) |
+| [August 26 at 5:00 AM](https://archive.org/download/msn-2022/msn-2022-08-26T04:59:57.838911-07:00.hyperlinks.json) |
 | [August 25 at 5:05 PM](https://archive.org/download/msn-2022/msn-2022-08-25T17:05:16.687535-07:00.hyperlinks.json) |
 | [August 25 at 5:05 AM](https://archive.org/download/msn-2022/msn-2022-08-25T05:05:17.589228-07:00.hyperlinks.json) |
 | [August 24 at 4:58 PM](https://archive.org/download/msn-2022/msn-2022-08-24T16:58:49.925339-07:00.hyperlinks.json) |
@@ -102,7 +122,7 @@ Here are the 10 most recent hyperlink lists.
 
 ### Accessibility
 
-The archiving routine has saved 5 accessibility trees with the Internet Archive.
+The archiving routine has saved 7 accessibility trees with the Internet Archive.
 
 
 
@@ -110,6 +130,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 26 at 4:47 PM](https://archive.org/download/msn-2022/msn-2022-08-26T16:47:25.745813-07:00.accessibility.json) |
+| [August 26 at 5:00 AM](https://archive.org/download/msn-2022/msn-2022-08-26T04:59:57.838911-07:00.accessibility.json) |
 | [August 25 at 5:05 PM](https://archive.org/download/msn-2022/msn-2022-08-25T17:05:16.687535-07:00.accessibility.json) |
 | [August 25 at 5:05 AM](https://archive.org/download/msn-2022/msn-2022-08-25T05:05:17.589228-07:00.accessibility.json) |
 | [August 24 at 4:58 PM](https://archive.org/download/msn-2022/msn-2022-08-24T16:58:49.925339-07:00.accessibility.json) |
@@ -120,7 +142,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 5 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 7 Lighthouse audits with the Internet Archive.
 
 
 
@@ -128,6 +150,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 26 at 4:47 PM](https://archive.org/download/msn-2022/msn-2022-08-26T16:47:25.745813-07:00.lighthouse.json) |
+| [August 26 at 5:00 AM](https://archive.org/download/msn-2022/msn-2022-08-26T04:59:57.838911-07:00.lighthouse.json) |
 | [August 25 at 5:05 PM](https://archive.org/download/msn-2022/msn-2022-08-25T17:05:16.687535-07:00.lighthouse.json) |
 | [August 25 at 5:05 AM](https://archive.org/download/msn-2022/msn-2022-08-25T05:05:17.589228-07:00.lighthouse.json) |
 | [August 24 at 4:58 PM](https://archive.org/download/msn-2022/msn-2022-08-24T16:58:49.925339-07:00.lighthouse.json) |

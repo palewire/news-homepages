@@ -28,13 +28,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 4 screenshots with the Internet Archive.
+The archiving routine has saved 6 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/yahoofinance-2022/yahoofinance-2022-08-26T10:09:16.542589-04:00.jpg">
+  <img src="https://archive.org/download/yahoofinance-2022/yahoofinance-2022-08-26T10:09:16.542589-04:00.jpg"
+     alt="Yahoo Finance at 2022-08-26 10:09:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/yahoofinance-2022/yahoofinance-2022-08-26T10:09:16.542589-04:00.jpg">August 26 at 10:09 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/yahoofinance-2022/yahoofinance-2022-08-25T22:26:49.042773-04:00.jpg">
+  <img src="https://archive.org/download/yahoofinance-2022/yahoofinance-2022-08-25T22:26:49.042773-04:00.jpg"
+     alt="Yahoo Finance at 2022-08-25 22:26:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/yahoofinance-2022/yahoofinance-2022-08-25T22:26:49.042773-04:00.jpg">August 25 at 10:26 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/yahoofinance-2022/yahoofinance-2022-08-25T10:58:53.155275-04:00.jpg">
@@ -76,7 +94,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 4 hyperlink lists with the Internet Archive.
+The archiving routine has saved 6 hyperlink lists with the Internet Archive.
 
 
 
@@ -84,6 +102,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 26 at 10:09 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-08-26T10:09:16.542589-04:00.hyperlinks.json) |
+| [August 25 at 10:26 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-08-25T22:26:49.042773-04:00.hyperlinks.json) |
 | [August 25 at 10:58 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-08-25T10:58:53.155275-04:00.hyperlinks.json) |
 | [August 24 at 10:03 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-08-24T10:03:02.670462-04:00.hyperlinks.json) |
 | [August 23 at 10:20 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-08-23T22:20:54.802806-04:00.hyperlinks.json) |
@@ -92,7 +112,7 @@ Here are the 10 most recent hyperlink lists.
 
 ### Accessibility
 
-The archiving routine has saved 4 accessibility trees with the Internet Archive.
+The archiving routine has saved 6 accessibility trees with the Internet Archive.
 
 
 
@@ -100,6 +120,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 26 at 10:09 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-08-26T10:09:16.542589-04:00.accessibility.json) |
+| [August 25 at 10:26 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-08-25T22:26:49.042773-04:00.accessibility.json) |
 | [August 25 at 10:58 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-08-25T10:58:53.155275-04:00.accessibility.json) |
 | [August 24 at 10:03 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-08-24T10:03:02.670462-04:00.accessibility.json) |
 | [August 23 at 10:20 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-08-23T22:20:54.802806-04:00.accessibility.json) |
@@ -109,7 +131,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 4 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 6 Lighthouse audits with the Internet Archive.
 
 
 
@@ -117,6 +139,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 26 at 10:09 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-08-26T10:09:16.542589-04:00.lighthouse.json) |
+| [August 25 at 10:26 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-08-25T22:26:49.042773-04:00.lighthouse.json) |
 | [August 25 at 10:59 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-08-25T10:58:53.155275-04:00.lighthouse.json) |
 | [August 24 at 10:03 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-08-24T10:03:02.670462-04:00.lighthouse.json) |
 | [August 23 at 10:21 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-08-23T22:20:54.802806-04:00.lighthouse.json) |

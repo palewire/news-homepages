@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 140 screenshots with the Internet Archive.
+The archiving routine has saved 142 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kqed-2022/kqed-2022-08-26T16:45:39.845989-07:00.jpg">
+  <img src="https://archive.org/download/kqed-2022/kqed-2022-08-26T16:45:39.845989-07:00.jpg"
+     alt="KQED at 2022-08-26 16:45:44-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kqed-2022/kqed-2022-08-26T16:45:39.845989-07:00.jpg">August 26 at 4:45 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kqed-2022/kqed-2022-08-26T04:57:41.406590-07:00.jpg">
+  <img src="https://archive.org/download/kqed-2022/kqed-2022-08-26T04:57:41.406590-07:00.jpg"
+     alt="KQED at 2022-08-26 04:57:46-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kqed-2022/kqed-2022-08-26T04:57:41.406590-07:00.jpg">August 26 at 4:57 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kqed-2022/kqed-2022-08-25T17:04:14.226221-07:00.jpg">
   <img src="https://archive.org/download/kqed-2022/kqed-2022-08-25T17:04:14.226221-07:00.jpg"
      alt="KQED at 2022-08-25 17:04:20-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kqed-2022/kqed-2022-08-21T04:59:52.591483-07:00.jpg">August 21 at 4:59 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kqed-2022/kqed-2022-08-20T16:53:02.113719-07:00.jpg">
-  <img src="https://archive.org/download/kqed-2022/kqed-2022-08-20T16:53:02.113719-07:00.jpg"
-     alt="KQED at 2022-08-20 16:53:07-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kqed-2022/kqed-2022-08-20T16:53:02.113719-07:00.jpg">August 20 at 4:53 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kqed-2022/kqed-2022-08-20T04:55:38.627023-07:00.jpg">
-  <img src="https://archive.org/download/kqed-2022/kqed-2022-08-20T04:55:38.627023-07:00.jpg"
-     alt="KQED at 2022-08-20 04:55:42-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kqed-2022/kqed-2022-08-20T04:55:38.627023-07:00.jpg">August 20 at 4:55 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 136 hyperlink lists with the Internet Archive.
+The archiving routine has saved 138 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 26 at 4:45 PM](https://archive.org/download/kqed-2022/kqed-2022-08-26T16:45:39.845989-07:00.hyperlinks.json) |
+| [August 26 at 4:57 AM](https://archive.org/download/kqed-2022/kqed-2022-08-26T04:57:41.406590-07:00.hyperlinks.json) |
 | [August 25 at 5:04 PM](https://archive.org/download/kqed-2022/kqed-2022-08-25T17:04:14.226221-07:00.hyperlinks.json) |
 | [August 25 at 5:03 AM](https://archive.org/download/kqed-2022/kqed-2022-08-25T05:02:58.796253-07:00.hyperlinks.json) |
 | [August 24 at 4:56 PM](https://archive.org/download/kqed-2022/kqed-2022-08-24T16:55:57.351500-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 23 at 4:58 AM](https://archive.org/download/kqed-2022/kqed-2022-08-23T04:58:09.507817-07:00.hyperlinks.json) |
 | [August 22 at 4:59 PM](https://archive.org/download/kqed-2022/kqed-2022-08-22T16:59:09.990750-07:00.hyperlinks.json) |
 | [August 22 at 4:57 AM](https://archive.org/download/kqed-2022/kqed-2022-08-22T04:57:35.827464-07:00.hyperlinks.json) |
-| [August 21 at 4:53 PM](https://archive.org/download/kqed-2022/kqed-2022-08-21T16:52:53.353156-07:00.hyperlinks.json) |
-| [August 21 at 4:59 AM](https://archive.org/download/kqed-2022/kqed-2022-08-21T04:59:52.591483-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 142 accessibility trees with the Internet Archive.
+The archiving routine has saved 144 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 26 at 4:45 PM](https://archive.org/download/kqed-2022/kqed-2022-08-26T16:45:39.845989-07:00.accessibility.json) |
+| [August 26 at 4:57 AM](https://archive.org/download/kqed-2022/kqed-2022-08-26T04:57:41.406590-07:00.accessibility.json) |
 | [August 25 at 5:04 PM](https://archive.org/download/kqed-2022/kqed-2022-08-25T17:04:14.226221-07:00.accessibility.json) |
 | [August 25 at 5:03 AM](https://archive.org/download/kqed-2022/kqed-2022-08-25T05:02:58.796253-07:00.accessibility.json) |
 | [August 24 at 4:56 PM](https://archive.org/download/kqed-2022/kqed-2022-08-24T16:55:57.351500-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 23 at 4:58 AM](https://archive.org/download/kqed-2022/kqed-2022-08-23T04:58:09.507817-07:00.accessibility.json) |
 | [August 22 at 4:59 PM](https://archive.org/download/kqed-2022/kqed-2022-08-22T16:59:09.990750-07:00.accessibility.json) |
 | [August 22 at 4:57 AM](https://archive.org/download/kqed-2022/kqed-2022-08-22T04:57:35.827464-07:00.accessibility.json) |
-| [August 21 at 4:53 PM](https://archive.org/download/kqed-2022/kqed-2022-08-21T16:52:53.353156-07:00.accessibility.json) |
-| [August 21 at 4:59 AM](https://archive.org/download/kqed-2022/kqed-2022-08-21T04:59:52.591483-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 68 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 70 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 26 at 4:45 PM](https://archive.org/download/kqed-2022/kqed-2022-08-26T16:45:39.845989-07:00.lighthouse.json) |
+| [August 26 at 4:57 AM](https://archive.org/download/kqed-2022/kqed-2022-08-26T04:57:41.406590-07:00.lighthouse.json) |
 | [August 25 at 5:04 PM](https://archive.org/download/kqed-2022/kqed-2022-08-25T17:04:14.226221-07:00.lighthouse.json) |
 | [August 25 at 5:03 AM](https://archive.org/download/kqed-2022/kqed-2022-08-25T05:02:58.796253-07:00.lighthouse.json) |
 | [August 24 at 4:56 PM](https://archive.org/download/kqed-2022/kqed-2022-08-24T16:55:57.351500-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 23 at 4:58 AM](https://archive.org/download/kqed-2022/kqed-2022-08-23T04:58:09.507817-07:00.lighthouse.json) |
 | [August 22 at 4:59 PM](https://archive.org/download/kqed-2022/kqed-2022-08-22T16:59:09.990750-07:00.lighthouse.json) |
 | [August 22 at 4:57 AM](https://archive.org/download/kqed-2022/kqed-2022-08-22T04:57:35.827464-07:00.lighthouse.json) |
-| [August 21 at 4:53 PM](https://archive.org/download/kqed-2022/kqed-2022-08-21T16:52:53.353156-07:00.lighthouse.json) |
-| [August 21 at 5:00 AM](https://archive.org/download/kqed-2022/kqed-2022-08-21T04:59:52.591483-07:00.lighthouse.json) |
 
 
 

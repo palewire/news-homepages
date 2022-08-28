@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 253 screenshots with the Internet Archive.
+The archiving routine has saved 255 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/source_nm-2022/source_nm-2022-08-26T10:06:05.561362-06:00.jpg">
+  <img src="https://archive.org/download/source_nm-2022/source_nm-2022-08-26T10:06:05.561362-06:00.jpg"
+     alt="Source New Mexico at 2022-08-26 10:06:13-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-08-26T10:06:05.561362-06:00.jpg">August 26 at 10:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/source_nm-2022/source_nm-2022-08-25T22:43:03.246490-06:00.jpg">
+  <img src="https://archive.org/download/source_nm-2022/source_nm-2022-08-25T22:43:03.246490-06:00.jpg"
+     alt="Source New Mexico at 2022-08-25 22:43:07-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-08-25T22:43:03.246490-06:00.jpg">August 25 at 10:43 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/source_nm-2022/source_nm-2022-08-25T10:03:54.261283-06:00.jpg">
   <img src="https://archive.org/download/source_nm-2022/source_nm-2022-08-25T10:03:54.261283-06:00.jpg"
      alt="Source New Mexico at 2022-08-25 10:03:59-06:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-08-20T08:57:13.360117-06:00.jpg">August 20 at 8:57 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/source_nm-2022/source_nm-2022-08-19T21:38:55.865868-06:00.jpg">
-  <img src="https://archive.org/download/source_nm-2022/source_nm-2022-08-19T21:38:55.865868-06:00.jpg"
-     alt="Source New Mexico at 2022-08-19 21:39:01-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-08-19T21:38:55.865868-06:00.jpg">August 19 at 9:39 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/source_nm-2022/source_nm-2022-08-19T09:33:06.038222-06:00.jpg">
-  <img src="https://archive.org/download/source_nm-2022/source_nm-2022-08-19T09:33:06.038222-06:00.jpg"
-     alt="Source New Mexico at 2022-08-19 09:33:09-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-08-19T09:33:06.038222-06:00.jpg">August 19 at 9:33 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 247 hyperlink lists with the Internet Archive.
+The archiving routine has saved 249 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 26 at 10:06 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-26T10:06:05.561362-06:00.hyperlinks.json) |
+| [August 25 at 10:43 PM](https://archive.org/download/source_nm-2022/source_nm-2022-08-25T22:43:03.246490-06:00.hyperlinks.json) |
 | [August 25 at 10:04 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-25T10:03:54.261283-06:00.hyperlinks.json) |
 | [August 24 at 10:01 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-24T10:01:44.951282-06:00.hyperlinks.json) |
 | [August 23 at 10:37 PM](https://archive.org/download/source_nm-2022/source_nm-2022-08-23T22:36:57.861761-06:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 22 at 9:04 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-22T09:03:47.207719-06:00.hyperlinks.json) |
 | [August 21 at 9:44 PM](https://archive.org/download/source_nm-2022/source_nm-2022-08-21T21:43:57.561951-06:00.hyperlinks.json) |
 | [August 21 at 9:02 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-21T09:02:40.814210-06:00.hyperlinks.json) |
-| [August 20 at 9:37 PM](https://archive.org/download/source_nm-2022/source_nm-2022-08-20T21:37:45.083777-06:00.hyperlinks.json) |
-| [August 20 at 8:57 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-20T08:57:13.360117-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 247 accessibility trees with the Internet Archive.
+The archiving routine has saved 249 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 26 at 10:06 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-26T10:06:05.561362-06:00.accessibility.json) |
+| [August 25 at 10:43 PM](https://archive.org/download/source_nm-2022/source_nm-2022-08-25T22:43:03.246490-06:00.accessibility.json) |
 | [August 25 at 10:04 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-25T10:03:54.261283-06:00.accessibility.json) |
 | [August 24 at 10:01 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-24T10:01:44.951282-06:00.accessibility.json) |
 | [August 23 at 10:37 PM](https://archive.org/download/source_nm-2022/source_nm-2022-08-23T22:36:57.861761-06:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 22 at 9:04 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-22T09:03:47.207719-06:00.accessibility.json) |
 | [August 21 at 9:44 PM](https://archive.org/download/source_nm-2022/source_nm-2022-08-21T21:43:57.561951-06:00.accessibility.json) |
 | [August 21 at 9:02 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-21T09:02:40.814210-06:00.accessibility.json) |
-| [August 20 at 9:37 PM](https://archive.org/download/source_nm-2022/source_nm-2022-08-20T21:37:45.083777-06:00.accessibility.json) |
-| [August 20 at 8:57 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-20T08:57:13.360117-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 66 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 68 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 26 at 10:06 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-26T10:06:05.561362-06:00.lighthouse.json) |
+| [August 25 at 10:43 PM](https://archive.org/download/source_nm-2022/source_nm-2022-08-25T22:43:03.246490-06:00.lighthouse.json) |
 | [August 25 at 10:04 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-25T10:03:54.261283-06:00.lighthouse.json) |
 | [August 24 at 10:01 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-24T10:01:44.951282-06:00.lighthouse.json) |
 | [August 23 at 10:37 PM](https://archive.org/download/source_nm-2022/source_nm-2022-08-23T22:36:57.861761-06:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 22 at 9:04 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-22T09:03:47.207719-06:00.lighthouse.json) |
 | [August 21 at 9:44 PM](https://archive.org/download/source_nm-2022/source_nm-2022-08-21T21:43:57.561951-06:00.lighthouse.json) |
 | [August 21 at 9:02 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-21T09:02:40.814210-06:00.lighthouse.json) |
-| [August 20 at 9:37 PM](https://archive.org/download/source_nm-2022/source_nm-2022-08-20T21:37:45.083777-06:00.lighthouse.json) |
-| [August 20 at 8:57 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-20T08:57:13.360117-06:00.lighthouse.json) |
 
 
 

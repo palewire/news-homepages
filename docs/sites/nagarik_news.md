@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 64 screenshots with the Internet Archive.
+The archiving routine has saved 66 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-26T20:46:49.694910+05:45.jpg">
+  <img src="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-26T20:46:49.694910+05:45.jpg"
+     alt="Nagarik News at 2022-08-26 20:46:53+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-26T20:46:49.694910+05:45.jpg">August 26 at 8:46 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-26T09:31:48.273938+05:45.jpg">
+  <img src="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-26T09:31:48.273938+05:45.jpg"
+     alt="Nagarik News at 2022-08-26 09:31:49+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-26T09:31:48.273938+05:45.jpg">August 26 at 9:31 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-25T20:49:12.250497+05:45.jpg">
   <img src="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-25T20:49:12.250497+05:45.jpg"
      alt="Nagarik News at 2022-08-25 20:49:15+05:45 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-20T19:47:08.787307+05:45.jpg">August 20 at 7:47 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-20T08:23:36.345630+05:45.jpg">
-  <img src="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-20T08:23:36.345630+05:45.jpg"
-     alt="Nagarik News at 2022-08-20 08:23:39+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-20T08:23:36.345630+05:45.jpg">August 20 at 8:23 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-19T20:20:59.807094+05:45.jpg">
-  <img src="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-19T20:20:59.807094+05:45.jpg"
-     alt="Nagarik News at 2022-08-19 20:21:04+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-19T20:20:59.807094+05:45.jpg">August 19 at 8:21 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 64 hyperlink lists with the Internet Archive.
+The archiving routine has saved 66 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 26 at 8:46 PM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-26T20:46:49.694910+05:45.hyperlinks.json) |
+| [August 26 at 9:31 AM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-26T09:31:48.273938+05:45.hyperlinks.json) |
 | [August 25 at 8:49 PM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-25T20:49:12.250497+05:45.hyperlinks.json) |
 | [August 24 at 8:48 PM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-24T20:48:47.094733+05:45.hyperlinks.json) |
 | [August 24 at 9:27 AM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-24T09:27:05.595317+05:45.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 22 at 7:57 PM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-22T19:57:43.376656+05:45.hyperlinks.json) |
 | [August 22 at 8:14 AM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-22T08:14:52.814534+05:45.hyperlinks.json) |
 | [August 21 at 7:53 PM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-21T19:53:44.289088+05:45.hyperlinks.json) |
-| [August 21 at 8:09 AM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-21T08:09:14.932841+05:45.hyperlinks.json) |
-| [August 20 at 7:47 PM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-20T19:47:08.787307+05:45.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 64 accessibility trees with the Internet Archive.
+The archiving routine has saved 66 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 26 at 8:46 PM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-26T20:46:49.694910+05:45.accessibility.json) |
+| [August 26 at 9:31 AM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-26T09:31:48.273938+05:45.accessibility.json) |
 | [August 25 at 8:49 PM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-25T20:49:12.250497+05:45.accessibility.json) |
 | [August 24 at 8:48 PM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-24T20:48:47.094733+05:45.accessibility.json) |
 | [August 24 at 9:27 AM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-24T09:27:05.595317+05:45.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 22 at 7:57 PM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-22T19:57:43.376656+05:45.accessibility.json) |
 | [August 22 at 8:14 AM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-22T08:14:52.814534+05:45.accessibility.json) |
 | [August 21 at 7:53 PM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-21T19:53:44.289088+05:45.accessibility.json) |
-| [August 21 at 8:09 AM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-21T08:09:14.932841+05:45.accessibility.json) |
-| [August 20 at 7:47 PM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-20T19:47:08.787307+05:45.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 64 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 66 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 26 at 8:46 PM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-26T20:46:49.694910+05:45.lighthouse.json) |
+| [August 26 at 9:31 AM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-26T09:31:48.273938+05:45.lighthouse.json) |
 | [August 25 at 8:49 PM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-25T20:49:12.250497+05:45.lighthouse.json) |
 | [August 24 at 8:48 PM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-24T20:48:47.094733+05:45.lighthouse.json) |
 | [August 24 at 9:27 AM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-24T09:27:05.595317+05:45.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 22 at 7:57 PM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-22T19:57:43.376656+05:45.lighthouse.json) |
 | [August 22 at 8:15 AM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-22T08:14:52.814534+05:45.lighthouse.json) |
 | [August 21 at 7:53 PM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-21T19:53:44.289088+05:45.lighthouse.json) |
-| [August 21 at 8:09 AM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-21T08:09:14.932841+05:45.lighthouse.json) |
-| [August 20 at 7:47 PM](https://archive.org/download/nagarik_news-2022/nagarik_news-2022-08-20T19:47:08.787307+05:45.lighthouse.json) |
 
 
 

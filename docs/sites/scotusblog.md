@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 138 screenshots with the Internet Archive.
+The archiving routine has saved 140 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-08-26T09:01:04.905897-04:00.jpg">
+  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-08-26T09:01:04.905897-04:00.jpg"
+     alt="SCOTUS Blog at 2022-08-26 09:01:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-08-26T09:01:04.905897-04:00.jpg">August 26 at 9:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-08-25T21:15:21.150067-04:00.jpg">
+  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-08-25T21:15:21.150067-04:00.jpg"
+     alt="SCOTUS Blog at 2022-08-25 21:15:22-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-08-25T21:15:21.150067-04:00.jpg">August 25 at 9:15 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-08-25T09:05:18.473572-04:00.jpg">
   <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-08-25T09:05:18.473572-04:00.jpg"
      alt="SCOTUS Blog at 2022-08-25 09:05:20-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-08-20T20:00:43.386968-04:00.jpg">August 20 at 8:00 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-08-20T08:02:14.074530-04:00.jpg">
-  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-08-20T08:02:14.074530-04:00.jpg"
-     alt="SCOTUS Blog at 2022-08-20 08:02:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-08-20T08:02:14.074530-04:00.jpg">August 20 at 8:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-08-19T20:00:05.746008-04:00.jpg">
-  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-08-19T20:00:05.746008-04:00.jpg"
-     alt="SCOTUS Blog at 2022-08-19 20:00:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-08-19T20:00:05.746008-04:00.jpg">August 19 at 8:00 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 140 hyperlink lists with the Internet Archive.
+The archiving routine has saved 142 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 26 at 9:01 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-26T09:01:04.905897-04:00.hyperlinks.json) |
+| [August 25 at 9:15 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-25T21:15:21.150067-04:00.hyperlinks.json) |
 | [August 25 at 9:05 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-25T09:05:18.473572-04:00.hyperlinks.json) |
 | [August 24 at 8:56 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-24T08:56:37.777432-04:00.hyperlinks.json) |
 | [August 23 at 9:09 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-23T21:09:24.832895-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 22 at 8:06 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-22T20:06:09.443483-04:00.hyperlinks.json) |
 | [August 22 at 8:04 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-22T08:04:02.536412-04:00.hyperlinks.json) |
 | [August 21 at 7:59 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-21T19:59:18.878196-04:00.hyperlinks.json) |
-| [August 21 at 8:06 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-21T08:06:15.190509-04:00.hyperlinks.json) |
-| [August 20 at 8:00 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-20T20:00:43.386968-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 140 accessibility trees with the Internet Archive.
+The archiving routine has saved 142 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 26 at 9:01 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-26T09:01:04.905897-04:00.accessibility.json) |
+| [August 25 at 9:15 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-25T21:15:21.150067-04:00.accessibility.json) |
 | [August 25 at 9:05 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-25T09:05:18.473572-04:00.accessibility.json) |
 | [August 24 at 8:56 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-24T08:56:37.777432-04:00.accessibility.json) |
 | [August 23 at 9:09 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-23T21:09:24.832895-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 22 at 8:06 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-22T20:06:09.443483-04:00.accessibility.json) |
 | [August 22 at 8:04 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-22T08:04:02.536412-04:00.accessibility.json) |
 | [August 21 at 7:59 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-21T19:59:18.878196-04:00.accessibility.json) |
-| [August 21 at 8:06 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-21T08:06:15.190509-04:00.accessibility.json) |
-| [August 20 at 8:00 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-20T20:00:43.386968-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 66 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 68 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 26 at 9:01 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-26T09:01:04.905897-04:00.lighthouse.json) |
+| [August 25 at 9:15 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-25T21:15:21.150067-04:00.lighthouse.json) |
 | [August 25 at 9:05 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-25T09:05:18.473572-04:00.lighthouse.json) |
 | [August 24 at 8:56 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-24T08:56:37.777432-04:00.lighthouse.json) |
 | [August 23 at 9:09 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-23T21:09:24.832895-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 22 at 8:06 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-22T20:06:09.443483-04:00.lighthouse.json) |
 | [August 22 at 8:04 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-22T08:04:02.536412-04:00.lighthouse.json) |
 | [August 21 at 7:59 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-21T19:59:18.878196-04:00.lighthouse.json) |
-| [August 21 at 8:06 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-21T08:06:15.190509-04:00.lighthouse.json) |
-| [August 20 at 8:00 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-20T20:00:43.386968-04:00.lighthouse.json) |
 
 
 

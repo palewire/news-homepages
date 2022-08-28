@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 42 screenshots with the Internet Archive.
+The archiving routine has saved 44 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-08-27T10:49:00.157093+12:00.jpg">
+  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-08-27T10:49:00.157093+12:00.jpg"
+     alt="1News at 2022-08-27 10:49:03+12:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-08-27T10:49:00.157093+12:00.jpg">August 27 at 10:49 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-08-26T22:48:36.228279+12:00.jpg">
+  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-08-26T22:48:36.228279+12:00.jpg"
+     alt="1News at 2022-08-26 22:48:39+12:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-08-26T22:48:36.228279+12:00.jpg">August 26 at 10:48 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-08-26T10:50:23.843270+12:00.jpg">
   <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-08-26T10:50:23.843270+12:00.jpg"
      alt="1News at 2022-08-26 10:50:24+12:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-08-21T22:56:24.592881+12:00.jpg">August 21 at 10:56 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-08-21T10:58:05.887352+12:00.jpg">
-  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-08-21T10:58:05.887352+12:00.jpg"
-     alt="1News at 2022-08-21 10:58:14+12:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-08-21T10:58:05.887352+12:00.jpg">August 21 at 10:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-08-20T22:51:34.416297+12:00.jpg">
-  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-08-20T22:51:34.416297+12:00.jpg"
-     alt="1News at 2022-08-20 22:51:36+12:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-08-20T22:51:34.416297+12:00.jpg">August 20 at 10:51 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 42 hyperlink lists with the Internet Archive.
+The archiving routine has saved 44 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 27 at 10:49 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-27T10:49:00.157093+12:00.hyperlinks.json) |
+| [August 26 at 10:48 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-26T22:48:36.228279+12:00.hyperlinks.json) |
 | [August 26 at 10:50 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-26T10:50:23.843270+12:00.hyperlinks.json) |
 | [August 25 at 10:52 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-25T22:52:32.490896+12:00.hyperlinks.json) |
 | [August 25 at 10:52 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-25T10:52:23.594432+12:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 23 at 10:57 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-23T22:57:13.298273+12:00.hyperlinks.json) |
 | [August 23 at 10:53 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-23T10:53:27.994520+12:00.hyperlinks.json) |
 | [August 22 at 10:53 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-22T22:53:18.146315+12:00.hyperlinks.json) |
-| [August 22 at 10:52 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-22T10:52:30.087794+12:00.hyperlinks.json) |
-| [August 21 at 10:56 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-21T22:56:24.592881+12:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 42 accessibility trees with the Internet Archive.
+The archiving routine has saved 44 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 27 at 10:49 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-27T10:49:00.157093+12:00.accessibility.json) |
+| [August 26 at 10:48 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-26T22:48:36.228279+12:00.accessibility.json) |
 | [August 26 at 10:50 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-26T10:50:23.843270+12:00.accessibility.json) |
 | [August 25 at 10:52 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-25T22:52:32.490896+12:00.accessibility.json) |
 | [August 25 at 10:52 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-25T10:52:23.594432+12:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 23 at 10:57 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-23T22:57:13.298273+12:00.accessibility.json) |
 | [August 23 at 10:53 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-23T10:53:27.994520+12:00.accessibility.json) |
 | [August 22 at 10:53 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-22T22:53:18.146315+12:00.accessibility.json) |
-| [August 22 at 10:52 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-22T10:52:30.087794+12:00.accessibility.json) |
-| [August 21 at 10:56 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-21T22:56:24.592881+12:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 42 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 27 at 10:49 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-27T10:49:00.157093+12:00.lighthouse.json) |
+| [August 26 at 10:48 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-26T22:48:36.228279+12:00.lighthouse.json) |
 | [August 26 at 10:50 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-26T10:50:23.843270+12:00.lighthouse.json) |
 | [August 25 at 10:52 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-25T22:52:32.490896+12:00.lighthouse.json) |
 | [August 25 at 10:52 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-25T10:52:23.594432+12:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 23 at 10:57 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-23T22:57:13.298273+12:00.lighthouse.json) |
 | [August 23 at 10:53 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-23T10:53:27.994520+12:00.lighthouse.json) |
 | [August 22 at 10:53 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-22T22:53:18.146315+12:00.lighthouse.json) |
-| [August 22 at 10:52 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-22T10:52:30.087794+12:00.lighthouse.json) |
-| [August 21 at 10:56 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-08-21T22:56:24.592881+12:00.lighthouse.json) |
 
 
 

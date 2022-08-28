@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 64 screenshots with the Internet Archive.
+The archiving routine has saved 66 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/platformer-2022/platformer-2022-08-26T09:03:10.030467-07:00.jpg">
+  <img src="https://archive.org/download/platformer-2022/platformer-2022-08-26T09:03:10.030467-07:00.jpg"
+     alt="Platformer at 2022-08-26 09:03:11-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/platformer-2022/platformer-2022-08-26T09:03:10.030467-07:00.jpg">August 26 at 9:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/platformer-2022/platformer-2022-08-25T21:40:34.823326-07:00.jpg">
+  <img src="https://archive.org/download/platformer-2022/platformer-2022-08-25T21:40:34.823326-07:00.jpg"
+     alt="Platformer at 2022-08-25 21:40:36-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/platformer-2022/platformer-2022-08-25T21:40:34.823326-07:00.jpg">August 25 at 9:40 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/platformer-2022/platformer-2022-08-25T09:02:28.689038-07:00.jpg">
   <img src="https://archive.org/download/platformer-2022/platformer-2022-08-25T09:02:28.689038-07:00.jpg"
      alt="Platformer at 2022-08-25 09:02:31-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/platformer-2022/platformer-2022-08-20T07:53:47.154356-07:00.jpg">August 20 at 7:53 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/platformer-2022/platformer-2022-08-19T20:34:59.609053-07:00.jpg">
-  <img src="https://archive.org/download/platformer-2022/platformer-2022-08-19T20:34:59.609053-07:00.jpg"
-     alt="Platformer at 2022-08-19 20:35:02-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/platformer-2022/platformer-2022-08-19T20:34:59.609053-07:00.jpg">August 19 at 8:35 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/platformer-2022/platformer-2022-08-19T08:29:39.228320-07:00.jpg">
-  <img src="https://archive.org/download/platformer-2022/platformer-2022-08-19T08:29:39.228320-07:00.jpg"
-     alt="Platformer at 2022-08-19 08:29:40-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/platformer-2022/platformer-2022-08-19T08:29:39.228320-07:00.jpg">August 19 at 8:29 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 64 hyperlink lists with the Internet Archive.
+The archiving routine has saved 66 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 26 at 9:03 AM](https://archive.org/download/platformer-2022/platformer-2022-08-26T09:03:10.030467-07:00.hyperlinks.json) |
+| [August 25 at 9:40 PM](https://archive.org/download/platformer-2022/platformer-2022-08-25T21:40:34.823326-07:00.hyperlinks.json) |
 | [August 25 at 9:02 AM](https://archive.org/download/platformer-2022/platformer-2022-08-25T09:02:28.689038-07:00.hyperlinks.json) |
 | [August 24 at 8:59 AM](https://archive.org/download/platformer-2022/platformer-2022-08-24T08:59:01.761436-07:00.hyperlinks.json) |
 | [August 23 at 9:36 PM](https://archive.org/download/platformer-2022/platformer-2022-08-23T21:36:14.257232-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 22 at 8:00 AM](https://archive.org/download/platformer-2022/platformer-2022-08-22T08:00:18.236592-07:00.hyperlinks.json) |
 | [August 21 at 8:41 PM](https://archive.org/download/platformer-2022/platformer-2022-08-21T20:41:19.722708-07:00.hyperlinks.json) |
 | [August 21 at 7:58 AM](https://archive.org/download/platformer-2022/platformer-2022-08-21T07:58:42.175856-07:00.hyperlinks.json) |
-| [August 20 at 8:35 PM](https://archive.org/download/platformer-2022/platformer-2022-08-20T20:35:02.054863-07:00.hyperlinks.json) |
-| [August 20 at 7:53 AM](https://archive.org/download/platformer-2022/platformer-2022-08-20T07:53:47.154356-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 64 accessibility trees with the Internet Archive.
+The archiving routine has saved 65 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 25 at 9:40 PM](https://archive.org/download/platformer-2022/platformer-2022-08-25T21:40:34.823326-07:00.accessibility.json) |
 | [August 25 at 9:02 AM](https://archive.org/download/platformer-2022/platformer-2022-08-25T09:02:28.689038-07:00.accessibility.json) |
 | [August 24 at 8:59 AM](https://archive.org/download/platformer-2022/platformer-2022-08-24T08:59:01.761436-07:00.accessibility.json) |
 | [August 23 at 9:36 PM](https://archive.org/download/platformer-2022/platformer-2022-08-23T21:36:14.257232-07:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 21 at 8:41 PM](https://archive.org/download/platformer-2022/platformer-2022-08-21T20:41:19.722708-07:00.accessibility.json) |
 | [August 21 at 7:58 AM](https://archive.org/download/platformer-2022/platformer-2022-08-21T07:58:42.175856-07:00.accessibility.json) |
 | [August 20 at 8:35 PM](https://archive.org/download/platformer-2022/platformer-2022-08-20T20:35:02.054863-07:00.accessibility.json) |
-| [August 20 at 7:53 AM](https://archive.org/download/platformer-2022/platformer-2022-08-20T07:53:47.154356-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 64 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 66 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 26 at 9:03 AM](https://archive.org/download/platformer-2022/platformer-2022-08-26T09:03:10.030467-07:00.lighthouse.json) |
+| [August 25 at 9:40 PM](https://archive.org/download/platformer-2022/platformer-2022-08-25T21:40:34.823326-07:00.lighthouse.json) |
 | [August 25 at 9:02 AM](https://archive.org/download/platformer-2022/platformer-2022-08-25T09:02:28.689038-07:00.lighthouse.json) |
 | [August 24 at 8:59 AM](https://archive.org/download/platformer-2022/platformer-2022-08-24T08:59:01.761436-07:00.lighthouse.json) |
 | [August 23 at 9:36 PM](https://archive.org/download/platformer-2022/platformer-2022-08-23T21:36:14.257232-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 22 at 8:00 AM](https://archive.org/download/platformer-2022/platformer-2022-08-22T08:00:18.236592-07:00.lighthouse.json) |
 | [August 21 at 8:41 PM](https://archive.org/download/platformer-2022/platformer-2022-08-21T20:41:19.722708-07:00.lighthouse.json) |
 | [August 21 at 7:58 AM](https://archive.org/download/platformer-2022/platformer-2022-08-21T07:58:42.175856-07:00.lighthouse.json) |
-| [August 20 at 8:35 PM](https://archive.org/download/platformer-2022/platformer-2022-08-20T20:35:02.054863-07:00.lighthouse.json) |
-| [August 20 at 7:53 AM](https://archive.org/download/platformer-2022/platformer-2022-08-20T07:53:47.154356-07:00.lighthouse.json) |
 
 
 

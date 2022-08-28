@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 627 screenshots with the Internet Archive.
+The archiving routine has saved 632 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,51 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-26T17:14:23.716577-04:00.jpg">
+  <img src="https://archive.org/download/foxnews-2022/foxnews-2022-08-26T17:14:23.716577-04:00.jpg"
+     alt="Fox News at 2022-08-26 17:14:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-26T17:14:23.716577-04:00.jpg">August 26 at 5:14 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-26T14:28:59.904164-04:00.jpg">
+  <img src="https://archive.org/download/foxnews-2022/foxnews-2022-08-26T14:28:59.904164-04:00.jpg"
+     alt="Fox News at 2022-08-26 14:29:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-26T14:28:59.904164-04:00.jpg">August 26 at 2:29 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-26T10:57:24.650419-04:00.jpg">
+  <img src="https://archive.org/download/foxnews-2022/foxnews-2022-08-26T10:57:24.650419-04:00.jpg"
+     alt="Fox News at 2022-08-26 10:57:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-26T10:57:24.650419-04:00.jpg">August 26 at 10:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-26T08:55:44.016798-04:00.jpg">
+  <img src="https://archive.org/download/foxnews-2022/foxnews-2022-08-26T08:55:44.016798-04:00.jpg"
+     alt="Fox News at 2022-08-26 08:56:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-26T08:55:44.016798-04:00.jpg">August 26 at 8:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-25T23:42:58.073918-04:00.jpg">
+  <img src="https://archive.org/download/foxnews-2022/foxnews-2022-08-25T23:42:58.073918-04:00.jpg"
+     alt="Fox News at 2022-08-25 23:43:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-25T23:42:58.073918-04:00.jpg">August 25 at 11:43 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-25T17:15:58.206169-04:00.jpg">
   <img src="https://archive.org/download/foxnews-2022/foxnews-2022-08-25T17:15:58.206169-04:00.jpg"
      alt="Fox News at 2022-08-25 17:16:20-04:00 local time"
@@ -388,56 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-24T10:59:11.034465-04:00.jpg">August 24 at 10:59 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-24T08:52:12.256827-04:00.jpg">
-  <img src="https://archive.org/download/foxnews-2022/foxnews-2022-08-24T08:52:12.256827-04:00.jpg"
-     alt="Fox News at 2022-08-24 08:52:38-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-24T08:52:12.256827-04:00.jpg">August 24 at 8:52 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-23T23:38:07.078760-04:00.jpg">
-  <img src="https://archive.org/download/foxnews-2022/foxnews-2022-08-23T23:38:07.078760-04:00.jpg"
-     alt="Fox News at 2022-08-23 23:38:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-23T23:38:07.078760-04:00.jpg">August 23 at 11:38 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-23T17:21:26.669112-04:00.jpg">
-  <img src="https://archive.org/download/foxnews-2022/foxnews-2022-08-23T17:21:26.669112-04:00.jpg"
-     alt="Fox News at 2022-08-23 17:21:55-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-23T17:21:26.669112-04:00.jpg">August 23 at 5:21 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-23T14:35:02.675420-04:00.jpg">
-  <img src="https://archive.org/download/foxnews-2022/foxnews-2022-08-23T14:35:02.675420-04:00.jpg"
-     alt="Fox News at 2022-08-23 14:35:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-23T14:35:02.675420-04:00.jpg">August 23 at 2:35 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-23T10:52:00.917831-04:00.jpg">
-  <img src="https://archive.org/download/foxnews-2022/foxnews-2022-08-23T10:52:00.917831-04:00.jpg"
-     alt="Fox News at 2022-08-23 10:52:29-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-23T10:52:00.917831-04:00.jpg">August 23 at 10:52 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 568 hyperlink lists with the Internet Archive.
+The archiving routine has saved 573 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 26 at 5:14 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-26T17:14:23.716577-04:00.hyperlinks.json) |
+| [August 26 at 2:29 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-26T14:28:59.904164-04:00.hyperlinks.json) |
+| [August 26 at 10:57 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-26T10:57:24.650419-04:00.hyperlinks.json) |
+| [August 26 at 8:56 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-26T08:55:44.016798-04:00.hyperlinks.json) |
+| [August 25 at 11:43 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-25T23:42:58.073918-04:00.hyperlinks.json) |
 | [August 25 at 5:16 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-25T17:15:58.206169-04:00.hyperlinks.json) |
 | [August 25 at 2:28 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-25T14:28:06.319346-04:00.hyperlinks.json) |
 | [August 25 at 10:59 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-25T10:59:13.135583-04:00.hyperlinks.json) |
 | [August 25 at 8:59 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-25T08:59:18.046056-04:00.hyperlinks.json) |
 | [August 24 at 5:14 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-24T17:14:24.715816-04:00.hyperlinks.json) |
-| [August 24 at 2:36 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-24T14:36:50.508914-04:00.hyperlinks.json) |
-| [August 24 at 10:59 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-24T10:59:11.034465-04:00.hyperlinks.json) |
-| [August 24 at 8:52 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-24T08:52:12.256827-04:00.hyperlinks.json) |
-| [August 23 at 11:38 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-23T23:38:07.078760-04:00.hyperlinks.json) |
-| [August 23 at 5:22 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-23T17:21:26.669112-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 563 accessibility trees with the Internet Archive.
+The archiving routine has saved 568 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 26 at 5:14 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-26T17:14:23.716577-04:00.accessibility.json) |
+| [August 26 at 2:29 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-26T14:28:59.904164-04:00.accessibility.json) |
+| [August 26 at 10:57 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-26T10:57:24.650419-04:00.accessibility.json) |
+| [August 26 at 8:56 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-26T08:55:44.016798-04:00.accessibility.json) |
+| [August 25 at 11:43 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-25T23:42:58.073918-04:00.accessibility.json) |
 | [August 25 at 5:16 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-25T17:15:58.206169-04:00.accessibility.json) |
 | [August 25 at 2:28 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-25T14:28:06.319346-04:00.accessibility.json) |
 | [August 25 at 10:59 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-25T10:59:13.135583-04:00.accessibility.json) |
 | [August 25 at 8:59 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-25T08:59:18.046056-04:00.accessibility.json) |
 | [August 24 at 5:14 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-24T17:14:24.715816-04:00.accessibility.json) |
-| [August 24 at 2:36 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-24T14:36:50.508914-04:00.accessibility.json) |
-| [August 24 at 10:59 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-24T10:59:11.034465-04:00.accessibility.json) |
-| [August 24 at 8:52 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-24T08:52:12.256827-04:00.accessibility.json) |
-| [August 23 at 11:38 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-23T23:38:07.078760-04:00.accessibility.json) |
-| [August 23 at 5:21 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-23T17:21:26.669112-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 158 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 163 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 26 at 5:14 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-26T17:14:23.716577-04:00.lighthouse.json) |
+| [August 26 at 2:29 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-26T14:28:59.904164-04:00.lighthouse.json) |
+| [August 26 at 10:57 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-26T10:57:24.650419-04:00.lighthouse.json) |
+| [August 26 at 8:56 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-26T08:55:44.016798-04:00.lighthouse.json) |
+| [August 25 at 11:43 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-25T23:42:58.073918-04:00.lighthouse.json) |
 | [August 25 at 5:16 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-25T17:15:58.206169-04:00.lighthouse.json) |
 | [August 25 at 2:28 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-25T14:28:06.319346-04:00.lighthouse.json) |
 | [August 25 at 10:59 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-25T10:59:13.135583-04:00.lighthouse.json) |
 | [August 25 at 8:59 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-25T08:59:18.046056-04:00.lighthouse.json) |
 | [August 24 at 5:14 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-24T17:14:24.715816-04:00.lighthouse.json) |
-| [August 24 at 2:36 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-24T14:36:50.508914-04:00.lighthouse.json) |
-| [August 24 at 10:59 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-24T10:59:11.034465-04:00.lighthouse.json) |
-| [August 24 at 8:52 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-24T08:52:12.256827-04:00.lighthouse.json) |
-| [August 23 at 11:38 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-23T23:38:07.078760-04:00.lighthouse.json) |
-| [August 23 at 5:22 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-23T17:21:26.669112-04:00.lighthouse.json) |
 
 
 

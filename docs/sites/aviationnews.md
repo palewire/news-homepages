@@ -28,13 +28,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 11 screenshots with the Internet Archive.
+The archiving routine has saved 13 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-08-26T18:50:18.807470-04:00.jpg">
+  <img src="https://archive.org/download/aviationnews-2022/aviationnews-2022-08-26T18:50:18.807470-04:00.jpg"
+     alt="AeroTime Hub at 2022-08-26 18:50:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-08-26T18:50:18.807470-04:00.jpg">August 26 at 6:50 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-08-26T06:50:54.264336-04:00.jpg">
+  <img src="https://archive.org/download/aviationnews-2022/aviationnews-2022-08-26T06:50:54.264336-04:00.jpg"
+     alt="AeroTime Hub at 2022-08-26 06:50:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-08-26T06:50:54.264336-04:00.jpg">August 26 at 6:50 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-08-25T18:51:13.193216-04:00.jpg">
@@ -126,20 +144,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-08-21T06:56:45.076518-04:00.jpg">August 21 at 6:56 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-08-20T18:58:45.573971-04:00.jpg">
-  <img src="https://archive.org/download/aviationnews-2022/aviationnews-2022-08-20T18:58:45.573971-04:00.jpg"
-     alt="AeroTime Hub at 2022-08-20 18:58:51-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/aviationnews-2022/aviationnews-2022-08-20T18:58:45.573971-04:00.jpg">August 20 at 6:58 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 11 hyperlink lists with the Internet Archive.
+The archiving routine has saved 13 hyperlink lists with the Internet Archive.
 
 
 
@@ -147,6 +156,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 26 at 6:50 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-26T18:50:18.807470-04:00.hyperlinks.json) |
+| [August 26 at 6:50 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-26T06:50:54.264336-04:00.hyperlinks.json) |
 | [August 25 at 6:51 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-25T18:51:13.193216-04:00.hyperlinks.json) |
 | [August 25 at 6:54 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-25T06:54:18.039362-04:00.hyperlinks.json) |
 | [August 24 at 6:54 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-24T18:54:22.901618-04:00.hyperlinks.json) |
@@ -155,13 +166,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 23 at 6:58 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-23T06:58:06.214258-04:00.hyperlinks.json) |
 | [August 22 at 6:55 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-22T18:55:40.186993-04:00.hyperlinks.json) |
 | [August 22 at 6:55 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-22T06:55:01.172076-04:00.hyperlinks.json) |
-| [August 21 at 6:53 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-21T18:53:23.834145-04:00.hyperlinks.json) |
-| [August 21 at 6:56 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-21T06:56:45.076518-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 11 accessibility trees with the Internet Archive.
+The archiving routine has saved 13 accessibility trees with the Internet Archive.
 
 
 
@@ -169,6 +178,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 26 at 6:50 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-26T18:50:18.807470-04:00.accessibility.json) |
+| [August 26 at 6:50 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-26T06:50:54.264336-04:00.accessibility.json) |
 | [August 25 at 6:51 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-25T18:51:13.193216-04:00.accessibility.json) |
 | [August 25 at 6:54 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-25T06:54:18.039362-04:00.accessibility.json) |
 | [August 24 at 6:54 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-24T18:54:22.901618-04:00.accessibility.json) |
@@ -177,14 +188,12 @@ Here are the 10 most recent accessibility trees.
 | [August 23 at 6:58 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-23T06:58:06.214258-04:00.accessibility.json) |
 | [August 22 at 6:55 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-22T18:55:40.186993-04:00.accessibility.json) |
 | [August 22 at 6:55 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-22T06:55:01.172076-04:00.accessibility.json) |
-| [August 21 at 6:53 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-21T18:53:23.834145-04:00.accessibility.json) |
-| [August 21 at 6:56 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-21T06:56:45.076518-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
 
 
 
@@ -192,6 +201,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 26 at 6:50 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-26T18:50:18.807470-04:00.lighthouse.json) |
+| [August 26 at 6:51 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-26T06:50:54.264336-04:00.lighthouse.json) |
 | [August 25 at 6:51 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-25T18:51:13.193216-04:00.lighthouse.json) |
 | [August 25 at 6:54 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-25T06:54:18.039362-04:00.lighthouse.json) |
 | [August 24 at 6:54 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-24T18:54:22.901618-04:00.lighthouse.json) |
@@ -200,8 +211,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 23 at 6:58 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-23T06:58:06.214258-04:00.lighthouse.json) |
 | [August 22 at 6:55 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-22T18:55:40.186993-04:00.lighthouse.json) |
 | [August 22 at 6:55 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-22T06:55:01.172076-04:00.lighthouse.json) |
-| [August 21 at 6:53 PM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-21T18:53:23.834145-04:00.lighthouse.json) |
-| [August 21 at 6:56 AM](https://archive.org/download/aviationnews-2022/aviationnews-2022-08-21T06:56:45.076518-04:00.lighthouse.json) |
 
 
 

@@ -28,13 +28,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 6 screenshots with the Internet Archive.
+The archiving routine has saved 8 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-08-26T16:57:10.231356+02:00.jpg">
+  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-08-26T16:57:10.231356+02:00.jpg"
+     alt="Eyewitness News at 2022-08-26 16:57:13+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-08-26T16:57:10.231356+02:00.jpg">August 26 at 4:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-08-26T05:43:23.996393+02:00.jpg">
+  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-08-26T05:43:23.996393+02:00.jpg"
+     alt="Eyewitness News at 2022-08-26 05:43:25+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-08-26T05:43:23.996393+02:00.jpg">August 26 at 5:43 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-08-25T16:59:23.632668+02:00.jpg">
@@ -94,7 +112,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 6 hyperlink lists with the Internet Archive.
+The archiving routine has saved 8 hyperlink lists with the Internet Archive.
 
 
 
@@ -102,6 +120,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 26 at 4:57 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-08-26T16:57:10.231356+02:00.hyperlinks.json) |
+| [August 26 at 5:43 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-08-26T05:43:23.996393+02:00.hyperlinks.json) |
 | [August 25 at 4:59 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-08-25T16:59:23.632668+02:00.hyperlinks.json) |
 | [August 24 at 4:59 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-08-24T16:59:34.766591+02:00.hyperlinks.json) |
 | [August 24 at 5:38 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-08-24T05:38:23.248054+02:00.hyperlinks.json) |
@@ -112,7 +132,7 @@ Here are the 10 most recent hyperlink lists.
 
 ### Accessibility
 
-The archiving routine has saved 6 accessibility trees with the Internet Archive.
+The archiving routine has saved 8 accessibility trees with the Internet Archive.
 
 
 
@@ -120,6 +140,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 26 at 4:57 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-08-26T16:57:10.231356+02:00.accessibility.json) |
+| [August 26 at 5:43 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-08-26T05:43:23.996393+02:00.accessibility.json) |
 | [August 25 at 4:59 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-08-25T16:59:23.632668+02:00.accessibility.json) |
 | [August 24 at 4:59 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-08-24T16:59:34.766591+02:00.accessibility.json) |
 | [August 24 at 5:38 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-08-24T05:38:23.248054+02:00.accessibility.json) |
@@ -131,7 +153,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 6 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 8 Lighthouse audits with the Internet Archive.
 
 
 
@@ -139,6 +161,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 26 at 4:57 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-08-26T16:57:10.231356+02:00.lighthouse.json) |
+| [August 26 at 5:43 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-08-26T05:43:23.996393+02:00.lighthouse.json) |
 | [August 25 at 4:59 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-08-25T16:59:23.632668+02:00.lighthouse.json) |
 | [August 24 at 4:59 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-08-24T16:59:34.766591+02:00.lighthouse.json) |
 | [August 24 at 5:38 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-08-24T05:38:23.248054+02:00.lighthouse.json) |

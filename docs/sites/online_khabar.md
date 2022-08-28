@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 66 screenshots with the Internet Archive.
+The archiving routine has saved 68 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T18:45:02.836998+05:45.jpg">
+  <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T18:45:02.836998+05:45.jpg"
+     alt="Online Khabar at 2022-08-26 18:45:08+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T18:45:02.836998+05:45.jpg">August 26 at 6:45 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T06:58:22.023819+05:45.jpg">
+  <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T06:58:22.023819+05:45.jpg"
+     alt="Online Khabar at 2022-08-26 06:58:23+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T06:58:22.023819+05:45.jpg">August 26 at 6:58 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-25T18:47:59.397071+05:45.jpg">
   <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-25T18:47:59.397071+05:45.jpg"
      alt="Online Khabar at 2022-08-25 18:48:04+05:45 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-21T05:43:04.171720+05:45.jpg">August 21 at 5:43 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-20T17:45:29.713513+05:45.jpg">
-  <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-20T17:45:29.713513+05:45.jpg"
-     alt="Online Khabar at 2022-08-20 17:45:34+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-20T17:45:29.713513+05:45.jpg">August 20 at 5:45 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-20T05:41:43.996336+05:45.jpg">
-  <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-20T05:41:43.996336+05:45.jpg"
-     alt="Online Khabar at 2022-08-20 05:41:48+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-20T05:41:43.996336+05:45.jpg">August 20 at 5:41 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 66 hyperlink lists with the Internet Archive.
+The archiving routine has saved 68 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 26 at 6:45 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T18:45:02.836998+05:45.hyperlinks.json) |
+| [August 26 at 6:58 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T06:58:22.023819+05:45.hyperlinks.json) |
 | [August 25 at 6:48 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-25T18:47:59.397071+05:45.hyperlinks.json) |
 | [August 24 at 6:40 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-24T18:40:04.365252+05:45.hyperlinks.json) |
 | [August 24 at 6:53 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-24T06:53:05.140173+05:45.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 23 at 5:48 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-23T05:48:47.252420+05:45.hyperlinks.json) |
 | [August 22 at 5:46 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-22T17:46:46.284233+05:45.hyperlinks.json) |
 | [August 22 at 5:42 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-22T05:42:38.452202+05:45.hyperlinks.json) |
-| [August 21 at 5:48 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-21T17:48:32.030360+05:45.hyperlinks.json) |
-| [August 21 at 5:43 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-21T05:43:04.171720+05:45.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 66 accessibility trees with the Internet Archive.
+The archiving routine has saved 68 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 26 at 6:45 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T18:45:02.836998+05:45.accessibility.json) |
+| [August 26 at 6:58 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T06:58:22.023819+05:45.accessibility.json) |
 | [August 25 at 6:48 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-25T18:47:59.397071+05:45.accessibility.json) |
 | [August 24 at 6:40 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-24T18:40:04.365252+05:45.accessibility.json) |
 | [August 24 at 6:53 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-24T06:53:05.140173+05:45.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 23 at 5:48 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-23T05:48:47.252420+05:45.accessibility.json) |
 | [August 22 at 5:46 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-22T17:46:46.284233+05:45.accessibility.json) |
 | [August 22 at 5:42 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-22T05:42:38.452202+05:45.accessibility.json) |
-| [August 21 at 5:48 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-21T17:48:32.030360+05:45.accessibility.json) |
-| [August 21 at 5:43 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-21T05:43:04.171720+05:45.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 65 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 67 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 26 at 6:45 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T18:45:02.836998+05:45.lighthouse.json) |
+| [August 26 at 6:58 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T06:58:22.023819+05:45.lighthouse.json) |
 | [August 25 at 6:48 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-25T18:47:59.397071+05:45.lighthouse.json) |
 | [August 24 at 6:40 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-24T18:40:04.365252+05:45.lighthouse.json) |
 | [August 24 at 6:53 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-24T06:53:05.140173+05:45.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 23 at 5:48 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-23T05:48:47.252420+05:45.lighthouse.json) |
 | [August 22 at 5:47 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-22T17:46:46.284233+05:45.lighthouse.json) |
 | [August 22 at 5:42 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-22T05:42:38.452202+05:45.lighthouse.json) |
-| [August 21 at 5:48 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-21T17:48:32.030360+05:45.lighthouse.json) |
-| [August 21 at 5:43 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-21T05:43:04.171720+05:45.lighthouse.json) |
 
 
 

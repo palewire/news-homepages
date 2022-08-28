@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 161 screenshots with the Internet Archive.
+The archiving routine has saved 164 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-08-26T18:47:15.094494-05:00.jpg">
+  <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-08-26T18:47:15.094494-05:00.jpg"
+     alt="Little Village at 2022-08-26 18:47:16-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-08-26T18:47:15.094494-05:00.jpg">August 26 at 6:47 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-08-26T11:11:07.292637-05:00.jpg">
+  <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-08-26T11:11:07.292637-05:00.jpg"
+     alt="Little Village at 2022-08-26 11:11:08-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-08-26T11:11:07.292637-05:00.jpg">August 26 at 11:11 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-08-26T06:59:40.345027-05:00.jpg">
+  <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-08-26T06:59:40.345027-05:00.jpg"
+     alt="Little Village at 2022-08-26 06:59:41-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-08-26T06:59:40.345027-05:00.jpg">August 26 at 6:59 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-08-25T19:05:15.264051-05:00.jpg">
   <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-08-25T19:05:15.264051-05:00.jpg"
      alt="Little Village at 2022-08-25 19:05:33-05:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-08-22T10:19:17.605092-05:00.jpg">August 22 at 10:19 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-08-22T06:59:26.039857-05:00.jpg">
-  <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-08-22T06:59:26.039857-05:00.jpg"
-     alt="Little Village at 2022-08-22 06:59:27-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-08-22T06:59:26.039857-05:00.jpg">August 22 at 6:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-08-21T18:55:02.663708-05:00.jpg">
-  <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-08-21T18:55:02.663708-05:00.jpg"
-     alt="Little Village at 2022-08-21 18:55:09-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-08-21T18:55:02.663708-05:00.jpg">August 21 at 6:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-08-21T07:01:28.259750-05:00.jpg">
-  <img src="https://archive.org/download/littlevillage-2022/littlevillage-2022-08-21T07:01:28.259750-05:00.jpg"
-     alt="Little Village at 2022-08-21 07:01:29-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/littlevillage-2022/littlevillage-2022-08-21T07:01:28.259750-05:00.jpg">August 21 at 7:01 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 162 hyperlink lists with the Internet Archive.
+The archiving routine has saved 165 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 26 at 6:47 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-26T18:47:15.094494-05:00.hyperlinks.json) |
+| [August 26 at 11:11 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-26T11:11:07.292637-05:00.hyperlinks.json) |
+| [August 26 at 6:59 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-26T06:59:40.345027-05:00.hyperlinks.json) |
 | [August 25 at 7:05 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-25T19:05:15.264051-05:00.hyperlinks.json) |
 | [August 25 at 7:04 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-25T07:03:49.533309-05:00.hyperlinks.json) |
 | [August 24 at 6:57 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-24T18:57:48.528594-05:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 24 at 6:54 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-24T06:54:00.109978-05:00.hyperlinks.json) |
 | [August 23 at 6:46 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-23T18:46:25.958554-05:00.hyperlinks.json) |
 | [August 23 at 6:58 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-23T06:58:03.075103-05:00.hyperlinks.json) |
-| [August 22 at 7:00 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-22T19:00:35.969533-05:00.hyperlinks.json) |
-| [August 22 at 10:19 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-22T10:19:17.605092-05:00.hyperlinks.json) |
-| [August 22 at 6:59 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-22T06:59:26.039857-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 162 accessibility trees with the Internet Archive.
+The archiving routine has saved 165 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 26 at 6:47 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-26T18:47:15.094494-05:00.accessibility.json) |
+| [August 26 at 11:11 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-26T11:11:07.292637-05:00.accessibility.json) |
+| [August 26 at 6:59 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-26T06:59:40.345027-05:00.accessibility.json) |
 | [August 25 at 7:05 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-25T19:05:15.264051-05:00.accessibility.json) |
 | [August 25 at 7:04 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-25T07:03:49.533309-05:00.accessibility.json) |
 | [August 24 at 6:57 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-24T18:57:48.528594-05:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 24 at 6:54 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-24T06:54:00.109978-05:00.accessibility.json) |
 | [August 23 at 6:46 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-23T18:46:25.958554-05:00.accessibility.json) |
 | [August 23 at 6:58 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-23T06:58:03.075103-05:00.accessibility.json) |
-| [August 22 at 7:00 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-22T19:00:35.969533-05:00.accessibility.json) |
-| [August 22 at 10:19 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-22T10:19:17.605092-05:00.accessibility.json) |
-| [August 22 at 6:59 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-22T06:59:26.039857-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 81 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 84 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 26 at 6:47 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-26T18:47:15.094494-05:00.lighthouse.json) |
+| [August 26 at 11:11 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-26T11:11:07.292637-05:00.lighthouse.json) |
+| [August 26 at 6:59 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-26T06:59:40.345027-05:00.lighthouse.json) |
 | [August 25 at 7:05 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-25T19:05:15.264051-05:00.lighthouse.json) |
 | [August 25 at 7:04 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-25T07:03:49.533309-05:00.lighthouse.json) |
 | [August 24 at 6:57 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-24T18:57:48.528594-05:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 24 at 6:54 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-24T06:54:00.109978-05:00.lighthouse.json) |
 | [August 23 at 6:46 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-23T18:46:25.958554-05:00.lighthouse.json) |
 | [August 23 at 6:58 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-23T06:58:03.075103-05:00.lighthouse.json) |
-| [August 22 at 7:00 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-22T19:00:35.969533-05:00.lighthouse.json) |
-| [August 22 at 10:19 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-22T10:19:17.605092-05:00.lighthouse.json) |
-| [August 22 at 6:59 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-08-22T06:59:26.039857-05:00.lighthouse.json) |
 
 
 

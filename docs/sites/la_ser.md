@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 65 screenshots with the Internet Archive.
+The archiving routine has saved 67 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/la_ser-2022/la_ser-2022-08-27T01:45:49.451367+02:00.jpg">
+  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-08-27T01:45:49.451367+02:00.jpg"
+     alt="Cadena SER at 2022-08-27 01:45:52+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-08-27T01:45:49.451367+02:00.jpg">August 27 at 1:45 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/la_ser-2022/la_ser-2022-08-26T13:59:08.091190+02:00.jpg">
+  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-08-26T13:59:08.091190+02:00.jpg"
+     alt="Cadena SER at 2022-08-26 13:59:11+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-08-26T13:59:08.091190+02:00.jpg">August 26 at 1:59 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/la_ser-2022/la_ser-2022-08-26T02:04:18.608857+02:00.jpg">
   <img src="https://archive.org/download/la_ser-2022/la_ser-2022-08-26T02:04:18.608857+02:00.jpg"
      alt="Cadena SER at 2022-08-26 02:04:23+02:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-08-21T14:01:21.480641+02:00.jpg">August 21 at 2:01 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/la_ser-2022/la_ser-2022-08-21T01:55:01.013620+02:00.jpg">
-  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-08-21T01:55:01.013620+02:00.jpg"
-     alt="Cadena SER at 2022-08-21 01:55:03+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-08-21T01:55:01.013620+02:00.jpg">August 21 at 1:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/la_ser-2022/la_ser-2022-08-20T13:56:54.316491+02:00.jpg">
-  <img src="https://archive.org/download/la_ser-2022/la_ser-2022-08-20T13:56:54.316491+02:00.jpg"
-     alt="Cadena SER at 2022-08-20 13:56:57+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/la_ser-2022/la_ser-2022-08-20T13:56:54.316491+02:00.jpg">August 20 at 1:56 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 65 hyperlink lists with the Internet Archive.
+The archiving routine has saved 67 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 27 at 1:45 AM](https://archive.org/download/la_ser-2022/la_ser-2022-08-27T01:45:49.451367+02:00.hyperlinks.json) |
+| [August 26 at 1:59 PM](https://archive.org/download/la_ser-2022/la_ser-2022-08-26T13:59:08.091190+02:00.hyperlinks.json) |
 | [August 26 at 2:04 AM](https://archive.org/download/la_ser-2022/la_ser-2022-08-26T02:04:18.608857+02:00.hyperlinks.json) |
 | [August 25 at 2:03 PM](https://archive.org/download/la_ser-2022/la_ser-2022-08-25T14:03:25.796918+02:00.hyperlinks.json) |
 | [August 25 at 1:56 AM](https://archive.org/download/la_ser-2022/la_ser-2022-08-25T01:56:04.984411+02:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 23 at 1:58 PM](https://archive.org/download/la_ser-2022/la_ser-2022-08-23T13:58:10.387661+02:00.hyperlinks.json) |
 | [August 23 at 1:59 AM](https://archive.org/download/la_ser-2022/la_ser-2022-08-23T01:59:36.277955+02:00.hyperlinks.json) |
 | [August 22 at 1:58 PM](https://archive.org/download/la_ser-2022/la_ser-2022-08-22T13:57:55.837300+02:00.hyperlinks.json) |
-| [August 22 at 1:54 AM](https://archive.org/download/la_ser-2022/la_ser-2022-08-22T01:54:28.694085+02:00.hyperlinks.json) |
-| [August 21 at 2:01 PM](https://archive.org/download/la_ser-2022/la_ser-2022-08-21T14:01:21.480641+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 65 accessibility trees with the Internet Archive.
+The archiving routine has saved 67 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 27 at 1:45 AM](https://archive.org/download/la_ser-2022/la_ser-2022-08-27T01:45:49.451367+02:00.accessibility.json) |
+| [August 26 at 1:59 PM](https://archive.org/download/la_ser-2022/la_ser-2022-08-26T13:59:08.091190+02:00.accessibility.json) |
 | [August 26 at 2:04 AM](https://archive.org/download/la_ser-2022/la_ser-2022-08-26T02:04:18.608857+02:00.accessibility.json) |
 | [August 25 at 2:03 PM](https://archive.org/download/la_ser-2022/la_ser-2022-08-25T14:03:25.796918+02:00.accessibility.json) |
 | [August 25 at 1:56 AM](https://archive.org/download/la_ser-2022/la_ser-2022-08-25T01:56:04.984411+02:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 23 at 1:58 PM](https://archive.org/download/la_ser-2022/la_ser-2022-08-23T13:58:10.387661+02:00.accessibility.json) |
 | [August 23 at 1:59 AM](https://archive.org/download/la_ser-2022/la_ser-2022-08-23T01:59:36.277955+02:00.accessibility.json) |
 | [August 22 at 1:58 PM](https://archive.org/download/la_ser-2022/la_ser-2022-08-22T13:57:55.837300+02:00.accessibility.json) |
-| [August 22 at 1:54 AM](https://archive.org/download/la_ser-2022/la_ser-2022-08-22T01:54:28.694085+02:00.accessibility.json) |
-| [August 21 at 2:01 PM](https://archive.org/download/la_ser-2022/la_ser-2022-08-21T14:01:21.480641+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 65 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 67 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 27 at 1:45 AM](https://archive.org/download/la_ser-2022/la_ser-2022-08-27T01:45:49.451367+02:00.lighthouse.json) |
+| [August 26 at 1:59 PM](https://archive.org/download/la_ser-2022/la_ser-2022-08-26T13:59:08.091190+02:00.lighthouse.json) |
 | [August 26 at 2:04 AM](https://archive.org/download/la_ser-2022/la_ser-2022-08-26T02:04:18.608857+02:00.lighthouse.json) |
 | [August 25 at 2:03 PM](https://archive.org/download/la_ser-2022/la_ser-2022-08-25T14:03:25.796918+02:00.lighthouse.json) |
 | [August 25 at 1:56 AM](https://archive.org/download/la_ser-2022/la_ser-2022-08-25T01:56:04.984411+02:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 23 at 1:58 PM](https://archive.org/download/la_ser-2022/la_ser-2022-08-23T13:58:10.387661+02:00.lighthouse.json) |
 | [August 23 at 1:59 AM](https://archive.org/download/la_ser-2022/la_ser-2022-08-23T01:59:36.277955+02:00.lighthouse.json) |
 | [August 22 at 1:58 PM](https://archive.org/download/la_ser-2022/la_ser-2022-08-22T13:57:55.837300+02:00.lighthouse.json) |
-| [August 22 at 1:54 AM](https://archive.org/download/la_ser-2022/la_ser-2022-08-22T01:54:28.694085+02:00.lighthouse.json) |
-| [August 21 at 2:01 PM](https://archive.org/download/la_ser-2022/la_ser-2022-08-21T14:01:21.480641+02:00.lighthouse.json) |
 
 
 

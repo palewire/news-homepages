@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 142 screenshots with the Internet Archive.
+The archiving routine has saved 144 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-08-26T10:03:53.731072-04:00.jpg">
+  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-08-26T10:03:53.731072-04:00.jpg"
+     alt="Clarion Ledger at 2022-08-26 10:04:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-08-26T10:03:53.731072-04:00.jpg">August 26 at 10:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-08-25T22:23:36.377475-04:00.jpg">
+  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-08-25T22:23:36.377475-04:00.jpg"
+     alt="Clarion Ledger at 2022-08-25 22:23:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-08-25T22:23:36.377475-04:00.jpg">August 25 at 10:23 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-08-25T10:53:20.870282-04:00.jpg">
   <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-08-25T10:53:20.870282-04:00.jpg"
      alt="Clarion Ledger at 2022-08-25 10:53:27-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-08-20T21:15:02.231626-04:00.jpg">August 20 at 9:15 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-08-20T09:01:36.360270-04:00.jpg">
-  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-08-20T09:01:36.360270-04:00.jpg"
-     alt="Clarion Ledger at 2022-08-20 09:01:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-08-20T09:01:36.360270-04:00.jpg">August 20 at 9:01 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-08-19T21:14:13.451480-04:00.jpg">
-  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-08-19T21:14:13.451480-04:00.jpg"
-     alt="Clarion Ledger at 2022-08-19 21:14:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-08-19T21:14:13.451480-04:00.jpg">August 19 at 9:14 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 143 hyperlink lists with the Internet Archive.
+The archiving routine has saved 145 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 26 at 10:04 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-26T10:03:53.731072-04:00.hyperlinks.json) |
+| [August 25 at 10:23 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-25T22:23:36.377475-04:00.hyperlinks.json) |
 | [August 25 at 10:53 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-25T10:53:20.870282-04:00.hyperlinks.json) |
 | [August 24 at 9:59 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-24T09:59:01.723277-04:00.hyperlinks.json) |
 | [August 23 at 10:17 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-23T22:17:11.730854-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 22 at 10:05 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-22T10:05:02.052955-04:00.hyperlinks.json) |
 | [August 21 at 10:23 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-21T22:23:00.685090-04:00.hyperlinks.json) |
 | [August 21 at 9:13 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-21T21:13:25.902642-04:00.hyperlinks.json) |
-| [August 21 at 9:06 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-21T09:06:38.007326-04:00.hyperlinks.json) |
-| [August 20 at 9:15 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-20T21:15:02.231626-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 142 accessibility trees with the Internet Archive.
+The archiving routine has saved 144 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 26 at 10:04 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-26T10:03:53.731072-04:00.accessibility.json) |
+| [August 25 at 10:23 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-25T22:23:36.377475-04:00.accessibility.json) |
 | [August 25 at 10:53 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-25T10:53:20.870282-04:00.accessibility.json) |
 | [August 24 at 9:59 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-24T09:59:01.723277-04:00.accessibility.json) |
 | [August 23 at 10:17 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-23T22:17:11.730854-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 22 at 10:05 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-22T10:05:02.052955-04:00.accessibility.json) |
 | [August 21 at 10:23 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-21T22:23:00.685090-04:00.accessibility.json) |
 | [August 21 at 9:13 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-21T21:13:25.902642-04:00.accessibility.json) |
-| [August 21 at 9:06 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-21T09:06:38.007326-04:00.accessibility.json) |
-| [August 20 at 9:15 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-20T21:15:02.231626-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 69 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 71 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 26 at 10:04 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-26T10:03:53.731072-04:00.lighthouse.json) |
+| [August 25 at 10:23 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-25T22:23:36.377475-04:00.lighthouse.json) |
 | [August 25 at 10:53 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-25T10:53:20.870282-04:00.lighthouse.json) |
 | [August 24 at 9:59 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-24T09:59:01.723277-04:00.lighthouse.json) |
 | [August 23 at 10:17 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-23T22:17:11.730854-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 22 at 10:05 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-22T10:05:02.052955-04:00.lighthouse.json) |
 | [August 21 at 10:23 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-21T22:23:00.685090-04:00.lighthouse.json) |
 | [August 21 at 9:13 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-21T21:13:25.902642-04:00.lighthouse.json) |
-| [August 21 at 9:06 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-21T09:06:38.007326-04:00.lighthouse.json) |
-| [August 20 at 9:15 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-08-20T21:15:02.231626-04:00.lighthouse.json) |
 
 
 

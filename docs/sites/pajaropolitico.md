@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 519 screenshots with the Internet Archive.
+The archiving routine has saved 521 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-26T08:00:09.592554-05:00.jpg">
+  <img src="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-26T08:00:09.592554-05:00.jpg"
+     alt="Animal Político at 2022-08-26 08:00:11-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-26T08:00:09.592554-05:00.jpg">August 26 at 8:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-25T20:13:47.338464-05:00.jpg">
+  <img src="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-25T20:13:47.338464-05:00.jpg"
+     alt="Animal Político at 2022-08-25 20:13:49-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-25T20:13:47.338464-05:00.jpg">August 25 at 8:13 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-25T08:03:09.017495-05:00.jpg">
   <img src="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-25T08:03:09.017495-05:00.jpg"
      alt="Animal Político at 2022-08-25 08:03:18-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-20T18:59:07.380108-05:00.jpg">August 20 at 6:59 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-20T07:01:04.792254-05:00.jpg">
-  <img src="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-20T07:01:04.792254-05:00.jpg"
-     alt="Animal Político at 2022-08-20 07:01:06-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-20T07:01:04.792254-05:00.jpg">August 20 at 7:01 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-19T18:57:43.534801-05:00.jpg">
-  <img src="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-19T18:57:43.534801-05:00.jpg"
-     alt="Animal Político at 2022-08-19 18:57:51-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-19T18:57:43.534801-05:00.jpg">August 19 at 6:57 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 519 hyperlink lists with the Internet Archive.
+The archiving routine has saved 521 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 26 at 8:00 AM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-26T08:00:09.592554-05:00.hyperlinks.json) |
+| [August 25 at 8:13 PM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-25T20:13:47.338464-05:00.hyperlinks.json) |
 | [August 25 at 8:03 AM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-25T08:03:09.017495-05:00.hyperlinks.json) |
 | [August 24 at 7:55 AM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-24T07:55:03.218777-05:00.hyperlinks.json) |
 | [August 23 at 8:07 PM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-23T20:07:49.486515-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 22 at 7:03 PM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-22T19:03:31.492205-05:00.hyperlinks.json) |
 | [August 22 at 7:02 AM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-22T07:01:56.264500-05:00.hyperlinks.json) |
 | [August 21 at 6:59 PM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-21T18:58:59.797642-05:00.hyperlinks.json) |
-| [August 21 at 7:04 AM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-21T07:04:18.632237-05:00.hyperlinks.json) |
-| [August 20 at 6:59 PM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-20T18:59:07.380108-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 519 accessibility trees with the Internet Archive.
+The archiving routine has saved 521 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 26 at 8:00 AM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-26T08:00:09.592554-05:00.accessibility.json) |
+| [August 25 at 8:13 PM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-25T20:13:47.338464-05:00.accessibility.json) |
 | [August 25 at 8:03 AM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-25T08:03:09.017495-05:00.accessibility.json) |
 | [August 24 at 7:55 AM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-24T07:55:03.218777-05:00.accessibility.json) |
 | [August 23 at 8:07 PM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-23T20:07:49.486515-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 22 at 7:03 PM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-22T19:03:31.492205-05:00.accessibility.json) |
 | [August 22 at 7:02 AM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-22T07:01:56.264500-05:00.accessibility.json) |
 | [August 21 at 6:59 PM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-21T18:58:59.797642-05:00.accessibility.json) |
-| [August 21 at 7:04 AM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-21T07:04:18.632237-05:00.accessibility.json) |
-| [August 20 at 6:59 PM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-20T18:59:07.380108-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 69 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 71 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 26 at 8:00 AM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-26T08:00:09.592554-05:00.lighthouse.json) |
+| [August 25 at 8:13 PM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-25T20:13:47.338464-05:00.lighthouse.json) |
 | [August 25 at 8:03 AM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-25T08:03:09.017495-05:00.lighthouse.json) |
 | [August 24 at 7:55 AM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-24T07:55:03.218777-05:00.lighthouse.json) |
 | [August 23 at 8:07 PM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-23T20:07:49.486515-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 22 at 7:04 PM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-22T19:03:31.492205-05:00.lighthouse.json) |
 | [August 22 at 7:02 AM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-22T07:01:56.264500-05:00.lighthouse.json) |
 | [August 21 at 6:59 PM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-21T18:58:59.797642-05:00.lighthouse.json) |
-| [August 21 at 7:04 AM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-21T07:04:18.632237-05:00.lighthouse.json) |
-| [August 20 at 6:59 PM](https://archive.org/download/pajaropolitico-2022/pajaropolitico-2022-08-20T18:59:07.380108-05:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 162 screenshots with the Internet Archive.
+The archiving routine has saved 164 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-26T19:43:57.926272-04:00.jpg">
+  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-26T19:43:57.926272-04:00.jpg"
+     alt="Foreign Policy at 2022-08-26 19:44:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-26T19:43:57.926272-04:00.jpg">August 26 at 7:44 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-26T07:55:04.620107-04:00.jpg">
+  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-26T07:55:04.620107-04:00.jpg"
+     alt="Foreign Policy at 2022-08-26 07:55:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-26T07:55:04.620107-04:00.jpg">August 26 at 7:55 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-25T20:01:22.901644-04:00.jpg">
   <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-25T20:01:22.901644-04:00.jpg"
      alt="Foreign Policy at 2022-08-25 20:01:29-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-21T07:01:29.820862-04:00.jpg">August 21 at 7:01 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-20T19:05:04.228889-04:00.jpg">
-  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-20T19:05:04.228889-04:00.jpg"
-     alt="Foreign Policy at 2022-08-20 19:05:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-20T19:05:04.228889-04:00.jpg">August 20 at 7:05 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-20T06:57:40.638898-04:00.jpg">
-  <img src="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-20T06:57:40.638898-04:00.jpg"
-     alt="Foreign Policy at 2022-08-20 06:57:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-20T06:57:40.638898-04:00.jpg">August 20 at 6:57 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 155 hyperlink lists with the Internet Archive.
+The archiving routine has saved 157 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 26 at 7:44 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-26T19:43:57.926272-04:00.hyperlinks.json) |
+| [August 26 at 7:55 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-26T07:55:04.620107-04:00.hyperlinks.json) |
 | [August 25 at 8:01 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-25T20:01:22.901644-04:00.hyperlinks.json) |
 | [August 25 at 8:00 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-25T08:00:29.758000-04:00.hyperlinks.json) |
 | [August 24 at 7:53 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-24T19:53:40.188865-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 22 at 7:01 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-22T19:00:57.494138-04:00.hyperlinks.json) |
 | [August 22 at 6:59 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-22T06:59:39.751468-04:00.hyperlinks.json) |
 | [August 21 at 6:58 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-21T18:58:20.361937-04:00.hyperlinks.json) |
-| [August 21 at 7:01 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-21T07:01:29.820862-04:00.hyperlinks.json) |
-| [August 20 at 7:05 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-20T19:05:04.228889-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 152 accessibility trees with the Internet Archive.
+The archiving routine has saved 154 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 26 at 7:44 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-26T19:43:57.926272-04:00.accessibility.json) |
+| [August 26 at 7:55 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-26T07:55:04.620107-04:00.accessibility.json) |
 | [August 25 at 8:01 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-25T20:01:22.901644-04:00.accessibility.json) |
 | [August 25 at 8:00 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-25T08:00:29.758000-04:00.accessibility.json) |
 | [August 24 at 7:53 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-24T19:53:40.188865-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 22 at 7:01 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-22T19:00:57.494138-04:00.accessibility.json) |
 | [August 22 at 6:59 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-22T06:59:39.751468-04:00.accessibility.json) |
 | [August 21 at 6:58 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-21T18:58:20.361937-04:00.accessibility.json) |
-| [August 21 at 7:01 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-21T07:01:29.820862-04:00.accessibility.json) |
-| [August 20 at 6:57 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-20T06:57:40.638898-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 67 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 69 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 26 at 7:44 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-26T19:43:57.926272-04:00.lighthouse.json) |
+| [August 26 at 7:55 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-26T07:55:04.620107-04:00.lighthouse.json) |
 | [August 25 at 8:01 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-25T20:01:22.901644-04:00.lighthouse.json) |
 | [August 25 at 8:00 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-25T08:00:29.758000-04:00.lighthouse.json) |
 | [August 24 at 7:53 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-24T19:53:40.188865-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 23 at 7:03 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-23T07:02:49.671716-04:00.lighthouse.json) |
 | [August 22 at 7:01 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-22T19:00:57.494138-04:00.lighthouse.json) |
 | [August 22 at 6:59 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-22T06:59:39.751468-04:00.lighthouse.json) |
-| [August 21 at 6:58 PM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-21T18:58:20.361937-04:00.lighthouse.json) |
-| [August 21 at 7:01 AM](https://archive.org/download/foreignpolicy-2022/foreignpolicy-2022-08-21T07:01:29.820862-04:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 117 screenshots with the Internet Archive.
+The archiving routine has saved 119 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-26T19:47:54.847552-04:00.jpg">
+  <img src="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-26T19:47:54.847552-04:00.jpg"
+     alt="NBC10 Philadelphia at 2022-08-26 19:47:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-26T19:47:54.847552-04:00.jpg">August 26 at 7:47 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-26T08:00:38.776199-04:00.jpg">
+  <img src="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-26T08:00:38.776199-04:00.jpg"
+     alt="NBC10 Philadelphia at 2022-08-26 08:00:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-26T08:00:38.776199-04:00.jpg">August 26 at 8:00 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-25T20:06:32.183605-04:00.jpg">
   <img src="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-25T20:06:32.183605-04:00.jpg"
      alt="NBC10 Philadelphia at 2022-08-25 20:06:33-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-21T08:01:55.773394-04:00.jpg">August 21 at 8:02 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-20T19:56:31.118737-04:00.jpg">
-  <img src="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-20T19:56:31.118737-04:00.jpg"
-     alt="NBC10 Philadelphia at 2022-08-20 19:56:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-20T19:56:31.118737-04:00.jpg">August 20 at 7:56 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-20T07:59:18.798948-04:00.jpg">
-  <img src="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-20T07:59:18.798948-04:00.jpg"
-     alt="NBC10 Philadelphia at 2022-08-20 07:59:22-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-20T07:59:18.798948-04:00.jpg">August 20 at 7:59 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 117 hyperlink lists with the Internet Archive.
+The archiving routine has saved 119 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 26 at 7:48 PM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-26T19:47:54.847552-04:00.hyperlinks.json) |
+| [August 26 at 8:00 AM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-26T08:00:38.776199-04:00.hyperlinks.json) |
 | [August 25 at 8:06 PM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-25T20:06:32.183605-04:00.hyperlinks.json) |
 | [August 25 at 8:05 AM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-25T08:05:14.532609-04:00.hyperlinks.json) |
 | [August 24 at 7:59 PM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-24T19:59:09.670483-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 23 at 8:00 AM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-23T07:59:59.095423-04:00.hyperlinks.json) |
 | [August 22 at 8:01 PM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-22T20:01:31.005619-04:00.hyperlinks.json) |
 | [August 22 at 8:00 AM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-22T08:00:26.584089-04:00.hyperlinks.json) |
-| [August 21 at 7:56 PM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-21T19:56:32.624080-04:00.hyperlinks.json) |
-| [August 21 at 8:02 AM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-21T08:01:55.773394-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 117 accessibility trees with the Internet Archive.
+The archiving routine has saved 119 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 26 at 7:47 PM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-26T19:47:54.847552-04:00.accessibility.json) |
+| [August 26 at 8:00 AM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-26T08:00:38.776199-04:00.accessibility.json) |
 | [August 25 at 8:06 PM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-25T20:06:32.183605-04:00.accessibility.json) |
 | [August 25 at 8:05 AM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-25T08:05:14.532609-04:00.accessibility.json) |
 | [August 24 at 7:59 PM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-24T19:59:09.670483-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 23 at 8:00 AM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-23T07:59:59.095423-04:00.accessibility.json) |
 | [August 22 at 8:01 PM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-22T20:01:31.005619-04:00.accessibility.json) |
 | [August 22 at 8:00 AM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-22T08:00:26.584089-04:00.accessibility.json) |
-| [August 21 at 7:56 PM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-21T19:56:32.624080-04:00.accessibility.json) |
-| [August 21 at 8:02 AM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-21T08:01:55.773394-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 68 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 70 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 26 at 7:48 PM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-26T19:47:54.847552-04:00.lighthouse.json) |
+| [August 26 at 8:00 AM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-26T08:00:38.776199-04:00.lighthouse.json) |
 | [August 25 at 8:06 PM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-25T20:06:32.183605-04:00.lighthouse.json) |
 | [August 25 at 8:05 AM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-25T08:05:14.532609-04:00.lighthouse.json) |
 | [August 24 at 7:59 PM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-24T19:59:09.670483-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 23 at 8:00 AM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-23T07:59:59.095423-04:00.lighthouse.json) |
 | [August 22 at 8:01 PM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-22T20:01:31.005619-04:00.lighthouse.json) |
 | [August 22 at 8:00 AM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-22T08:00:26.584089-04:00.lighthouse.json) |
-| [August 21 at 7:56 PM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-21T19:56:32.624080-04:00.lighthouse.json) |
-| [August 21 at 8:02 AM](https://archive.org/download/nbcphiladelphia-2022/nbcphiladelphia-2022-08-21T08:01:55.773394-04:00.lighthouse.json) |
 
 
 
