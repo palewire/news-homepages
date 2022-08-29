@@ -2,7 +2,7 @@ name: Update Twitter list
 
 on:
   schedule:
-    - cron: "0 */3 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
