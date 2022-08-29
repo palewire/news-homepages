@@ -1,8 +1,13 @@
 {
-  "created": 1661608973,
+  "created": 1661731899,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/11/items/enews-2022",
+  "enews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -5724,31 +5729,155 @@
       "sha1": "33a763f8a39c3ee8322be7a76bbd88f606218961"
     },
     {
+      "name": "enews-2022-08-27T19:29:33.727669-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661653776",
+      "size": "46722",
+      "md5": "85db1c24800ed722761d12ca1e73ff99",
+      "crc32": "f61526c0",
+      "sha1": "03d92c22042239f83d3e3fdffd145ec57dea3e37",
+      "format": "JSON"
+    },
+    {
+      "name": "enews-2022-08-27T19:29:33.727669-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661653778",
+      "size": "29688",
+      "md5": "02a0174b95896dccb5d9cd3059b6287a",
+      "crc32": "f0ce5ffe",
+      "sha1": "9def7744cb0b9d90537de2753159ef702ad6f709",
+      "format": "JSON"
+    },
+    {
+      "name": "enews-2022-08-27T19:29:33.727669-07:00.jpg",
+      "source": "original",
+      "mtime": "1661653775",
+      "size": "276138",
+      "md5": "188157d61e71bd987bde07f5554cfeac",
+      "crc32": "92aaba95",
+      "sha1": "5680c5b595b011cbbc58994b555cd3db6bb5c522",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "enews-2022-08-27T19:29:33.727669-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661653779",
+      "size": "1468",
+      "md5": "d0d0c3460d5df3dd16fd14fa86bc46ed",
+      "crc32": "0d1c3a39",
+      "sha1": "1dc4621b10c1e84186819641150ff5b673a7c800",
+      "format": "JSON"
+    },
+    {
+      "name": "enews-2022-08-27T19:29:33.727669-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1661653781",
+      "size": "75388",
+      "md5": "627d19517b59813f281bd87cb452d904",
+      "crc32": "da199bdd",
+      "sha1": "f02b816aa871cc2681d1e19baf4900999b277f6b",
+      "format": "JSON"
+    },
+    {
+      "name": "enews-2022-08-27T19:29:33.727669-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enews-2022-08-27T19:29:33.727669-07:00.jpg",
+      "mtime": "1661653836",
+      "size": "10536",
+      "md5": "e3b6ad9cc1b00835e8efae523f8e126e",
+      "crc32": "d3d4821e",
+      "sha1": "5b60c61d9d11dfa9f2f726a3aebe0e297da732dc"
+    },
+    {
+      "name": "enews-2022-08-28T07:03:10.452114-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661695399",
+      "size": "46801",
+      "md5": "be147bb72053d7208dcabf71e64b3831",
+      "crc32": "884daf29",
+      "sha1": "654424079d70e5d14308b0e945992e70c075acc3",
+      "format": "JSON"
+    },
+    {
+      "name": "enews-2022-08-28T07:03:10.452114-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661695401",
+      "size": "29668",
+      "md5": "fcb486ed8df11e9d62209f3e66e65234",
+      "crc32": "7e3c459c",
+      "sha1": "e943b3baef66729090a397e603ca2034c3ca5a0a",
+      "format": "JSON"
+    },
+    {
+      "name": "enews-2022-08-28T07:03:10.452114-07:00.jpg",
+      "source": "original",
+      "mtime": "1661695395",
+      "size": "272288",
+      "md5": "1fd107c88176e49ec9b265be51bc6896",
+      "crc32": "0b37fcb8",
+      "sha1": "cf2cb5bcc90ab72c7ddc9cf7ffe18b6f6eacd603",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "enews-2022-08-28T07:03:10.452114-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661695403",
+      "size": "1468",
+      "md5": "9af4f93522505cfd96331a0a8fdc7b99",
+      "crc32": "515d3b66",
+      "sha1": "c459e40cfea30ea753b4a4f742827907e3004952",
+      "format": "JSON"
+    },
+    {
+      "name": "enews-2022-08-28T07:03:10.452114-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1661695405",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "enews-2022-08-28T07:03:10.452114-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enews-2022-08-28T07:03:10.452114-07:00.jpg",
+      "mtime": "1661695458",
+      "size": "10428",
+      "md5": "3eab61e39432f5ddac1a68196892d396",
+      "crc32": "77fe179b",
+      "sha1": "dc370b39986bc70b373ac36c56855483029717b5"
+    },
+    {
       "name": "enews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "631c2a92e624b96c19699f2a4a28aad0570d3ee8",
-      "mtime": "1661608926",
-      "size": "115682",
-      "md5": "53aa6aa5c41fe5c141c54b46f98d411a",
-      "crc32": "df3e5822",
-      "sha1": "bc0f401c8e3fc43497ef669019c6c36cd05371fc",
+      "btih": "c1fefba387cb5493895b7e9e413ca18f781c8470",
+      "mtime": "1661695465",
+      "size": "118160",
+      "md5": "8d9891f5460406ded69c4b0131acfa82",
+      "crc32": "accc7947",
+      "sha1": "2d1f15141af747dd488aaae271cb627b5cb927a9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "enews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e58e3547dbc0d835ce50a09af673487f",
+      "md5": "bd7a7588354c5f0b8c49ddebf4dcc685",
       "summation": "md5"
     },
     {
       "name": "enews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661608861",
-      "size": "684032",
-      "md5": "24485cf169bde72c6f4da264ffd3f569",
-      "crc32": "431df9ec",
-      "sha1": "ab29adf23b5596d3fc8bd03cc58271487fb714d0",
+      "mtime": "1661695410",
+      "size": "700416",
+      "md5": "c3bc08526ba5707ca9b57ca4c7f7863d",
+      "crc32": "78455b0e",
+      "sha1": "748ebc9599f565a90a25bebef2991ed845ba3c19",
       "format": "Metadata"
     },
     {
@@ -5762,9 +5891,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 554,
-  "item_last_updated": 1661608926,
-  "item_size": 43192307,
+  "files_count": 566,
+  "item_last_updated": 1661695465,
+  "item_size": 44011964,
   "metadata": {
     "identifier": "enews-2022",
     "collection": [
@@ -5782,7 +5911,7 @@
     "addeddate": "2022-07-04 20:48:00"
   },
   "server": "ia902507.us.archive.org",
-  "uniq": 364337315,
+  "uniq": 306617186,
   "workable_servers": [
     "ia902507.us.archive.org",
     "ia802507.us.archive.org"

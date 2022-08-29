@@ -1,8 +1,13 @@
 {
-  "created": 1661641137,
+  "created": 1661731887,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/19/items/elfinanciero_mx-2022",
+  "elfinanciero_mx-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -1556,31 +1561,155 @@
       "sha1": "ec441bde3a792ccf11ad31f6f9329df87e858a54"
     },
     {
+      "name": "elfinanciero_mx-2022-08-28T05:57:11.620587-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661684236",
+      "size": "34283",
+      "md5": "065be641aa0edd1170c5399ef17b52e1",
+      "crc32": "4e97bfda",
+      "sha1": "ffb2398cafe404a56d97e2a89615671b9ed8742f",
+      "format": "JSON"
+    },
+    {
+      "name": "elfinanciero_mx-2022-08-28T05:57:11.620587-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661684238",
+      "size": "51520",
+      "md5": "d5f3fef2be8ddcf3c2663c8f4d60fdc8",
+      "crc32": "e6f376de",
+      "sha1": "21bbe43bc764b8513bc945424c6067a93f94d12c",
+      "format": "JSON"
+    },
+    {
+      "name": "elfinanciero_mx-2022-08-28T05:57:11.620587-05:00.jpg",
+      "source": "original",
+      "mtime": "1661684234",
+      "size": "295349",
+      "md5": "801756db44792b7874c59fd1da52189e",
+      "crc32": "d00ce122",
+      "sha1": "e0fa584933d5f81a0c2ff5d47bf2a873ebfe1cd4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elfinanciero_mx-2022-08-28T05:57:11.620587-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661684240",
+      "size": "1540",
+      "md5": "9ceaaecf0884ecedad2839bb38cdc894",
+      "crc32": "50dc4ce6",
+      "sha1": "d175410e1ffba1f739b14de429a13ef1a4f154a1",
+      "format": "JSON"
+    },
+    {
+      "name": "elfinanciero_mx-2022-08-28T05:57:11.620587-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1661684241",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "elfinanciero_mx-2022-08-28T05:57:11.620587-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elfinanciero_mx-2022-08-28T05:57:11.620587-05:00.jpg",
+      "mtime": "1661684290",
+      "size": "10049",
+      "md5": "fbeb7072152abb5f1377f0be5305df76",
+      "crc32": "b145e93b",
+      "sha1": "c6a64b3c30cbf14a76332c210fb91dc910ea230f"
+    },
+    {
+      "name": "elfinanciero_mx-2022-08-28T17:54:09.261691-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661727253",
+      "size": "33493",
+      "md5": "af4b86e6a04616b293c6778d7737a58f",
+      "crc32": "4f4fd2de",
+      "sha1": "e4693607e2e4710dce884317972aa23df26960ee",
+      "format": "JSON"
+    },
+    {
+      "name": "elfinanciero_mx-2022-08-28T17:54:09.261691-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661727254",
+      "size": "46339",
+      "md5": "8f26461081d7e72e7007f80eb1c10b58",
+      "crc32": "932cb70e",
+      "sha1": "9084ead0cb09e2867d724abb986501eedc37f53e",
+      "format": "JSON"
+    },
+    {
+      "name": "elfinanciero_mx-2022-08-28T17:54:09.261691-05:00.jpg",
+      "source": "original",
+      "mtime": "1661727251",
+      "size": "308589",
+      "md5": "3c09f64b5829bdaa78a2b178446eb501",
+      "crc32": "b0c57e4f",
+      "sha1": "a89e56abb192417107d97fa1a4dcc27480890d80",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elfinanciero_mx-2022-08-28T17:54:09.261691-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661727256",
+      "size": "1540",
+      "md5": "05ca7823a89cc6dfaa9bf268c44cca52",
+      "crc32": "e6558093",
+      "sha1": "217d9d9513278bff8ef764b47d241bc55605037c",
+      "format": "JSON"
+    },
+    {
+      "name": "elfinanciero_mx-2022-08-28T17:54:09.261691-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1661727257",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "elfinanciero_mx-2022-08-28T17:54:09.261691-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elfinanciero_mx-2022-08-28T17:54:09.261691-05:00.jpg",
+      "mtime": "1661727310",
+      "size": "9996",
+      "md5": "7ff309eccd7096f3dc1aa7a04011e28a",
+      "crc32": "40e113c5",
+      "sha1": "d9315ab178c3cfe25d7bf6ef5ce9765e1c497eb7"
+    },
+    {
       "name": "elfinanciero_mx-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a351ea54699d3110f96c831553285332b88d4494",
-      "mtime": "1661641129",
-      "size": "34131",
-      "md5": "262cba05bf90ae1d2d6b5528abb5d1d3",
-      "crc32": "9f1b25e2",
-      "sha1": "aa3f177f351ffb25d478685d2dba4357699f99ea",
+      "btih": "be4dfa846d71e2265003c7c9333fcd680066fa1f",
+      "mtime": "1661727313",
+      "size": "36746",
+      "md5": "0a2942193931247257301b85ba852c97",
+      "crc32": "59200e11",
+      "sha1": "fe6d348c92e7f391bafd9f807242df1ce974f239",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elfinanciero_mx-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8134f9cf86e65af7c0472344557bf42c",
+      "md5": "f01aaa0c07ac285a912f32362ba91522",
       "summation": "md5"
     },
     {
       "name": "elfinanciero_mx-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661641082",
-      "size": "217088",
-      "md5": "3291bfd444d01c83372aaa035d075c2e",
-      "crc32": "7e103806",
-      "sha1": "94393edcbe7bede31f1534db3f170c755dcab45d",
+      "mtime": "1661727265",
+      "size": "229376",
+      "md5": "691d9eaa9562f76ec86341a396d2ebb3",
+      "crc32": "b2d4aca9",
+      "sha1": "0c9987bf614b5a7fe7d40edf1b2422d540bbf27a",
       "format": "Metadata"
     },
     {
@@ -1594,9 +1723,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 154,
-  "item_last_updated": 1661641129,
-  "item_size": 11391961,
+  "files_count": 166,
+  "item_last_updated": 1661727313,
+  "item_size": 12199966,
   "metadata": {
     "identifier": "elfinanciero_mx-2022",
     "collection": [
@@ -1613,10 +1742,10 @@
     "publicdate": "2022-08-16 17:10:52",
     "addeddate": "2022-08-16 17:10:52"
   },
-  "server": "ia601503.us.archive.org",
-  "uniq": 766615523,
+  "server": "ia801503.us.archive.org",
+  "uniq": 905291822,
   "workable_servers": [
-    "ia601503.us.archive.org",
-    "ia801503.us.archive.org"
+    "ia801503.us.archive.org",
+    "ia601503.us.archive.org"
   ]
 }
