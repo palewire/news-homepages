@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 13 screenshots with the Internet Archive.
+The archiving routine has saved 15 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dronedj-2022/dronedj-2022-08-27T18:57:27.595836-04:00.jpg">
+  <img src="https://archive.org/download/dronedj-2022/dronedj-2022-08-27T18:57:27.595836-04:00.jpg"
+     alt="Drone DJ at 2022-08-27 18:57:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dronedj-2022/dronedj-2022-08-27T18:57:27.595836-04:00.jpg">August 27 at 6:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dronedj-2022/dronedj-2022-08-27T06:51:08.879753-04:00.jpg">
+  <img src="https://archive.org/download/dronedj-2022/dronedj-2022-08-27T06:51:08.879753-04:00.jpg"
+     alt="Drone DJ at 2022-08-27 06:51:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dronedj-2022/dronedj-2022-08-27T06:51:08.879753-04:00.jpg">August 27 at 6:51 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dronedj-2022/dronedj-2022-08-26T18:53:54.580963-04:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dronedj-2022/dronedj-2022-08-22T06:58:45.430680-04:00.jpg">August 22 at 6:58 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dronedj-2022/dronedj-2022-08-21T18:57:34.427023-04:00.jpg">
-  <img src="https://archive.org/download/dronedj-2022/dronedj-2022-08-21T18:57:34.427023-04:00.jpg"
-     alt="Drone DJ at 2022-08-21 18:57:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dronedj-2022/dronedj-2022-08-21T18:57:34.427023-04:00.jpg">August 21 at 6:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dronedj-2022/dronedj-2022-08-21T07:00:57.978524-04:00.jpg">
-  <img src="https://archive.org/download/dronedj-2022/dronedj-2022-08-21T07:00:57.978524-04:00.jpg"
-     alt="Drone DJ at 2022-08-21 07:01:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dronedj-2022/dronedj-2022-08-21T07:00:57.978524-04:00.jpg">August 21 at 7:01 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 13 hyperlink lists with the Internet Archive.
+The archiving routine has saved 15 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 27 at 6:57 PM](https://archive.org/download/dronedj-2022/dronedj-2022-08-27T18:57:27.595836-04:00.hyperlinks.json) |
+| [August 27 at 6:51 AM](https://archive.org/download/dronedj-2022/dronedj-2022-08-27T06:51:08.879753-04:00.hyperlinks.json) |
 | [August 26 at 6:54 PM](https://archive.org/download/dronedj-2022/dronedj-2022-08-26T18:53:54.580963-04:00.hyperlinks.json) |
 | [August 26 at 6:53 AM](https://archive.org/download/dronedj-2022/dronedj-2022-08-26T06:53:38.247200-04:00.hyperlinks.json) |
 | [August 25 at 6:55 PM](https://archive.org/download/dronedj-2022/dronedj-2022-08-25T18:55:16.115440-04:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 24 at 6:50 AM](https://archive.org/download/dronedj-2022/dronedj-2022-08-24T06:50:34.631419-04:00.hyperlinks.json) |
 | [August 23 at 7:00 PM](https://archive.org/download/dronedj-2022/dronedj-2022-08-23T19:00:53.176177-04:00.hyperlinks.json) |
 | [August 23 at 7:01 AM](https://archive.org/download/dronedj-2022/dronedj-2022-08-23T07:01:52.896856-04:00.hyperlinks.json) |
-| [August 22 at 6:59 PM](https://archive.org/download/dronedj-2022/dronedj-2022-08-22T18:59:09.045377-04:00.hyperlinks.json) |
-| [August 22 at 6:58 AM](https://archive.org/download/dronedj-2022/dronedj-2022-08-22T06:58:45.430680-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 13 accessibility trees with the Internet Archive.
+The archiving routine has saved 15 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 27 at 6:57 PM](https://archive.org/download/dronedj-2022/dronedj-2022-08-27T18:57:27.595836-04:00.accessibility.json) |
+| [August 27 at 6:51 AM](https://archive.org/download/dronedj-2022/dronedj-2022-08-27T06:51:08.879753-04:00.accessibility.json) |
 | [August 26 at 6:53 PM](https://archive.org/download/dronedj-2022/dronedj-2022-08-26T18:53:54.580963-04:00.accessibility.json) |
 | [August 26 at 6:53 AM](https://archive.org/download/dronedj-2022/dronedj-2022-08-26T06:53:38.247200-04:00.accessibility.json) |
 | [August 25 at 6:55 PM](https://archive.org/download/dronedj-2022/dronedj-2022-08-25T18:55:16.115440-04:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [August 24 at 6:50 AM](https://archive.org/download/dronedj-2022/dronedj-2022-08-24T06:50:34.631419-04:00.accessibility.json) |
 | [August 23 at 7:00 PM](https://archive.org/download/dronedj-2022/dronedj-2022-08-23T19:00:53.176177-04:00.accessibility.json) |
 | [August 23 at 7:01 AM](https://archive.org/download/dronedj-2022/dronedj-2022-08-23T07:01:52.896856-04:00.accessibility.json) |
-| [August 22 at 6:59 PM](https://archive.org/download/dronedj-2022/dronedj-2022-08-22T18:59:09.045377-04:00.accessibility.json) |
-| [August 22 at 6:58 AM](https://archive.org/download/dronedj-2022/dronedj-2022-08-22T06:58:45.430680-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 27 at 6:57 PM](https://archive.org/download/dronedj-2022/dronedj-2022-08-27T18:57:27.595836-04:00.lighthouse.json) |
+| [August 27 at 6:51 AM](https://archive.org/download/dronedj-2022/dronedj-2022-08-27T06:51:08.879753-04:00.lighthouse.json) |
 | [August 26 at 6:54 PM](https://archive.org/download/dronedj-2022/dronedj-2022-08-26T18:53:54.580963-04:00.lighthouse.json) |
 | [August 26 at 6:53 AM](https://archive.org/download/dronedj-2022/dronedj-2022-08-26T06:53:38.247200-04:00.lighthouse.json) |
 | [August 25 at 6:55 PM](https://archive.org/download/dronedj-2022/dronedj-2022-08-25T18:55:16.115440-04:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 24 at 6:50 AM](https://archive.org/download/dronedj-2022/dronedj-2022-08-24T06:50:34.631419-04:00.lighthouse.json) |
 | [August 23 at 7:00 PM](https://archive.org/download/dronedj-2022/dronedj-2022-08-23T19:00:53.176177-04:00.lighthouse.json) |
 | [August 23 at 7:02 AM](https://archive.org/download/dronedj-2022/dronedj-2022-08-23T07:01:52.896856-04:00.lighthouse.json) |
-| [August 22 at 6:59 PM](https://archive.org/download/dronedj-2022/dronedj-2022-08-22T18:59:09.045377-04:00.lighthouse.json) |
-| [August 22 at 6:58 AM](https://archive.org/download/dronedj-2022/dronedj-2022-08-22T06:58:45.430680-04:00.lighthouse.json) |
 
 
 

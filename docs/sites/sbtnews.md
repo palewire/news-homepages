@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 51 screenshots with the Internet Archive.
+The archiving routine has saved 54 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-27T12:58:36.819994-03:00.jpg">
+  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-27T12:58:36.819994-03:00.jpg"
+     alt="SBT news at 2022-08-27 12:58:40-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-27T12:58:36.819994-03:00.jpg">August 27 at 12:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-27T08:58:13.266502-03:00.jpg">
+  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-27T08:58:13.266502-03:00.jpg"
+     alt="SBT news at 2022-08-27 08:58:20-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-27T08:58:13.266502-03:00.jpg">August 27 at 8:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-27T01:38:06.410735-03:00.jpg">
+  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-27T01:38:06.410735-03:00.jpg"
+     alt="SBT news at 2022-08-27 01:38:08-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-27T01:38:06.410735-03:00.jpg">August 27 at 1:38 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-26T13:05:40.539153-03:00.jpg">
   <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-26T13:05:40.539153-03:00.jpg"
      alt="SBT news at 2022-08-26 13:05:43-03:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-23T13:05:43.316100-03:00.jpg">August 23 at 1:05 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-23T00:56:10.668750-03:00.jpg">
-  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-23T00:56:10.668750-03:00.jpg"
-     alt="SBT news at 2022-08-23 00:56:14-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-23T00:56:10.668750-03:00.jpg">August 23 at 12:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-22T12:03:15.720231-03:00.jpg">
-  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-22T12:03:15.720231-03:00.jpg"
-     alt="SBT news at 2022-08-22 12:03:18-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-22T12:03:15.720231-03:00.jpg">August 22 at 12:03 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-22T09:05:08.461959-03:00.jpg">
-  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-22T09:05:08.461959-03:00.jpg"
-     alt="SBT news at 2022-08-22 09:05:11-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-22T09:05:08.461959-03:00.jpg">August 22 at 9:05 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 52 hyperlink lists with the Internet Archive.
+The archiving routine has saved 55 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 27 at 12:58 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-27T12:58:36.819994-03:00.hyperlinks.json) |
+| [August 27 at 8:58 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-27T08:58:13.266502-03:00.hyperlinks.json) |
+| [August 27 at 1:38 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-27T01:38:06.410735-03:00.hyperlinks.json) |
 | [August 26 at 1:05 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-26T13:05:40.539153-03:00.hyperlinks.json) |
 | [August 26 at 9:02 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-26T09:02:53.732154-03:00.hyperlinks.json) |
 | [August 26 at 1:42 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-26T01:42:25.690735-03:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 25 at 9:07 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-25T09:07:21.216066-03:00.hyperlinks.json) |
 | [August 24 at 1:01 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-24T13:01:25.780586-03:00.hyperlinks.json) |
 | [August 24 at 8:57 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-24T08:57:15.892604-03:00.hyperlinks.json) |
-| [August 24 at 1:37 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-24T01:37:03.022185-03:00.hyperlinks.json) |
-| [August 23 at 1:05 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-23T13:05:43.316100-03:00.hyperlinks.json) |
-| [August 23 at 12:56 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-23T00:56:10.668750-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 52 accessibility trees with the Internet Archive.
+The archiving routine has saved 55 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 27 at 12:58 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-27T12:58:36.819994-03:00.accessibility.json) |
+| [August 27 at 8:58 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-27T08:58:13.266502-03:00.accessibility.json) |
+| [August 27 at 1:38 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-27T01:38:06.410735-03:00.accessibility.json) |
 | [August 26 at 1:05 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-26T13:05:40.539153-03:00.accessibility.json) |
 | [August 26 at 9:02 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-26T09:02:53.732154-03:00.accessibility.json) |
 | [August 26 at 1:42 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-26T01:42:25.690735-03:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 25 at 9:07 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-25T09:07:21.216066-03:00.accessibility.json) |
 | [August 24 at 1:01 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-24T13:01:25.780586-03:00.accessibility.json) |
 | [August 24 at 8:57 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-24T08:57:15.892604-03:00.accessibility.json) |
-| [August 24 at 1:37 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-24T01:37:03.022185-03:00.accessibility.json) |
-| [August 23 at 1:05 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-23T13:05:43.316100-03:00.accessibility.json) |
-| [August 23 at 12:56 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-23T00:56:10.668750-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 52 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 27 at 12:58 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-27T12:58:36.819994-03:00.lighthouse.json) |
+| [August 27 at 8:58 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-27T08:58:13.266502-03:00.lighthouse.json) |
+| [August 27 at 1:38 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-27T01:38:06.410735-03:00.lighthouse.json) |
 | [August 26 at 1:05 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-26T13:05:40.539153-03:00.lighthouse.json) |
 | [August 26 at 9:03 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-26T09:02:53.732154-03:00.lighthouse.json) |
 | [August 26 at 1:42 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-26T01:42:25.690735-03:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 25 at 9:07 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-25T09:07:21.216066-03:00.lighthouse.json) |
 | [August 24 at 1:01 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-24T13:01:25.780586-03:00.lighthouse.json) |
 | [August 24 at 8:57 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-24T08:57:15.892604-03:00.lighthouse.json) |
-| [August 24 at 1:37 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-24T01:37:03.022185-03:00.lighthouse.json) |
-| [August 23 at 1:05 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-23T13:05:43.316100-03:00.lighthouse.json) |
-| [August 23 at 12:56 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-23T00:56:10.668750-03:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 101 screenshots with the Internet Archive.
+The archiving routine has saved 103 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-27T18:53:50.186466-04:00.jpg">
+  <img src="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-27T18:53:50.186466-04:00.jpg"
+     alt="Asheville Watchdog at 2022-08-27 18:53:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-27T18:53:50.186466-04:00.jpg">August 27 at 6:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-27T06:47:56.031586-04:00.jpg">
+  <img src="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-27T06:47:56.031586-04:00.jpg"
+     alt="Asheville Watchdog at 2022-08-27 06:48:00-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-27T06:47:56.031586-04:00.jpg">August 27 at 6:48 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-26T18:51:04.386943-04:00.jpg">
   <img src="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-26T18:51:04.386943-04:00.jpg"
      alt="Asheville Watchdog at 2022-08-26 18:51:08-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-22T06:55:27.357144-04:00.jpg">August 22 at 6:55 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-21T18:53:25.822769-04:00.jpg">
-  <img src="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-21T18:53:25.822769-04:00.jpg"
-     alt="Asheville Watchdog at 2022-08-21 18:53:31-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-21T18:53:25.822769-04:00.jpg">August 21 at 6:53 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-21T06:58:16.641349-04:00.jpg">
-  <img src="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-21T06:58:16.641349-04:00.jpg"
-     alt="Asheville Watchdog at 2022-08-21 06:58:20-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-21T06:58:16.641349-04:00.jpg">August 21 at 6:58 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 102 hyperlink lists with the Internet Archive.
+The archiving routine has saved 104 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 27 at 6:53 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-27T18:53:50.186466-04:00.hyperlinks.json) |
+| [August 27 at 6:48 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-27T06:47:56.031586-04:00.hyperlinks.json) |
 | [August 26 at 6:51 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-26T18:51:04.386943-04:00.hyperlinks.json) |
 | [August 26 at 6:50 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-26T06:50:29.531094-04:00.hyperlinks.json) |
 | [August 25 at 6:51 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-25T18:51:12.073095-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 24 at 6:46 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-24T06:46:43.819005-04:00.hyperlinks.json) |
 | [August 23 at 6:58 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-23T18:57:56.388434-04:00.hyperlinks.json) |
 | [August 23 at 6:58 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-23T06:58:36.940514-04:00.hyperlinks.json) |
-| [August 22 at 6:55 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-22T18:55:38.803219-04:00.hyperlinks.json) |
-| [August 22 at 6:55 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-22T06:55:27.357144-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 101 accessibility trees with the Internet Archive.
+The archiving routine has saved 103 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 27 at 6:53 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-27T18:53:50.186466-04:00.accessibility.json) |
+| [August 27 at 6:48 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-27T06:47:56.031586-04:00.accessibility.json) |
 | [August 26 at 6:51 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-26T18:51:04.386943-04:00.accessibility.json) |
 | [August 26 at 6:50 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-26T06:50:29.531094-04:00.accessibility.json) |
 | [August 25 at 6:51 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-25T18:51:12.073095-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 24 at 6:46 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-24T06:46:43.819005-04:00.accessibility.json) |
 | [August 23 at 6:57 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-23T18:57:56.388434-04:00.accessibility.json) |
 | [August 23 at 6:58 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-23T06:58:36.940514-04:00.accessibility.json) |
-| [August 22 at 6:55 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-22T18:55:38.803219-04:00.accessibility.json) |
-| [August 22 at 6:55 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-22T06:55:27.357144-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 69 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 71 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 27 at 6:54 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-27T18:53:50.186466-04:00.lighthouse.json) |
+| [August 27 at 6:48 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-27T06:47:56.031586-04:00.lighthouse.json) |
 | [August 26 at 6:51 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-26T18:51:04.386943-04:00.lighthouse.json) |
 | [August 26 at 6:50 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-26T06:50:29.531094-04:00.lighthouse.json) |
 | [August 25 at 6:51 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-25T18:51:12.073095-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 24 at 6:46 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-24T06:46:43.819005-04:00.lighthouse.json) |
 | [August 23 at 6:58 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-23T18:57:56.388434-04:00.lighthouse.json) |
 | [August 23 at 6:58 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-23T06:58:36.940514-04:00.lighthouse.json) |
-| [August 22 at 6:55 PM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-22T18:55:38.803219-04:00.lighthouse.json) |
-| [August 22 at 6:55 AM](https://archive.org/download/avlwatchdog-2022/avlwatchdog-2022-08-22T06:55:27.357144-04:00.lighthouse.json) |
 
 
 

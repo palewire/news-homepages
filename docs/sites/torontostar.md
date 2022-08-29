@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 133 screenshots with the Internet Archive.
+The archiving routine has saved 135 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/torontostar-2022/torontostar-2022-08-27T12:00:47.687456-04:00.jpg">
+  <img src="https://archive.org/download/torontostar-2022/torontostar-2022-08-27T12:00:47.687456-04:00.jpg"
+     alt="Toronto Star at 2022-08-27 12:00:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-08-27T12:00:47.687456-04:00.jpg">August 27 at 12:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/torontostar-2022/torontostar-2022-08-27T00:39:10.367116-04:00.jpg">
+  <img src="https://archive.org/download/torontostar-2022/torontostar-2022-08-27T00:39:10.367116-04:00.jpg"
+     alt="Toronto Star at 2022-08-27 00:39:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-08-27T00:39:10.367116-04:00.jpg">August 27 at 12:39 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/torontostar-2022/torontostar-2022-08-26T12:08:48.363146-04:00.jpg">
   <img src="https://archive.org/download/torontostar-2022/torontostar-2022-08-26T12:08:48.363146-04:00.jpg"
      alt="Toronto Star at 2022-08-26 12:08:54-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-08-21T11:03:33.811011-04:00.jpg">August 21 at 11:03 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/torontostar-2022/torontostar-2022-08-20T23:39:32.793838-04:00.jpg">
-  <img src="https://archive.org/download/torontostar-2022/torontostar-2022-08-20T23:39:32.793838-04:00.jpg"
-     alt="Toronto Star at 2022-08-20 23:39:34-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-08-20T23:39:32.793838-04:00.jpg">August 20 at 11:39 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/torontostar-2022/torontostar-2022-08-20T10:59:43.175571-04:00.jpg">
-  <img src="https://archive.org/download/torontostar-2022/torontostar-2022-08-20T10:59:43.175571-04:00.jpg"
-     alt="Toronto Star at 2022-08-20 10:59:51-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/torontostar-2022/torontostar-2022-08-20T10:59:43.175571-04:00.jpg">August 20 at 10:59 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 133 hyperlink lists with the Internet Archive.
+The archiving routine has saved 135 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 27 at 12:00 PM](https://archive.org/download/torontostar-2022/torontostar-2022-08-27T12:00:47.687456-04:00.hyperlinks.json) |
+| [August 27 at 12:39 AM](https://archive.org/download/torontostar-2022/torontostar-2022-08-27T00:39:10.367116-04:00.hyperlinks.json) |
 | [August 26 at 12:08 PM](https://archive.org/download/torontostar-2022/torontostar-2022-08-26T12:08:48.363146-04:00.hyperlinks.json) |
 | [August 26 at 12:45 AM](https://archive.org/download/torontostar-2022/torontostar-2022-08-26T00:44:52.012178-04:00.hyperlinks.json) |
 | [August 25 at 12:06 PM](https://archive.org/download/torontostar-2022/torontostar-2022-08-25T12:06:35.805293-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 23 at 12:08 PM](https://archive.org/download/torontostar-2022/torontostar-2022-08-23T12:08:03.480810-04:00.hyperlinks.json) |
 | [August 22 at 11:59 PM](https://archive.org/download/torontostar-2022/torontostar-2022-08-22T23:58:52.336552-04:00.hyperlinks.json) |
 | [August 22 at 11:06 AM](https://archive.org/download/torontostar-2022/torontostar-2022-08-22T11:06:04.264576-04:00.hyperlinks.json) |
-| [August 21 at 11:47 PM](https://archive.org/download/torontostar-2022/torontostar-2022-08-21T23:46:57.904098-04:00.hyperlinks.json) |
-| [August 21 at 11:03 AM](https://archive.org/download/torontostar-2022/torontostar-2022-08-21T11:03:33.811011-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 133 accessibility trees with the Internet Archive.
+The archiving routine has saved 135 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 27 at 12:00 PM](https://archive.org/download/torontostar-2022/torontostar-2022-08-27T12:00:47.687456-04:00.accessibility.json) |
+| [August 27 at 12:39 AM](https://archive.org/download/torontostar-2022/torontostar-2022-08-27T00:39:10.367116-04:00.accessibility.json) |
 | [August 26 at 12:08 PM](https://archive.org/download/torontostar-2022/torontostar-2022-08-26T12:08:48.363146-04:00.accessibility.json) |
 | [August 26 at 12:44 AM](https://archive.org/download/torontostar-2022/torontostar-2022-08-26T00:44:52.012178-04:00.accessibility.json) |
 | [August 25 at 12:06 PM](https://archive.org/download/torontostar-2022/torontostar-2022-08-25T12:06:35.805293-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 23 at 12:08 PM](https://archive.org/download/torontostar-2022/torontostar-2022-08-23T12:08:03.480810-04:00.accessibility.json) |
 | [August 22 at 11:58 PM](https://archive.org/download/torontostar-2022/torontostar-2022-08-22T23:58:52.336552-04:00.accessibility.json) |
 | [August 22 at 11:06 AM](https://archive.org/download/torontostar-2022/torontostar-2022-08-22T11:06:04.264576-04:00.accessibility.json) |
-| [August 21 at 11:47 PM](https://archive.org/download/torontostar-2022/torontostar-2022-08-21T23:46:57.904098-04:00.accessibility.json) |
-| [August 21 at 11:03 AM](https://archive.org/download/torontostar-2022/torontostar-2022-08-21T11:03:33.811011-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 68 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 70 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 27 at 12:00 PM](https://archive.org/download/torontostar-2022/torontostar-2022-08-27T12:00:47.687456-04:00.lighthouse.json) |
+| [August 27 at 12:39 AM](https://archive.org/download/torontostar-2022/torontostar-2022-08-27T00:39:10.367116-04:00.lighthouse.json) |
 | [August 26 at 12:08 PM](https://archive.org/download/torontostar-2022/torontostar-2022-08-26T12:08:48.363146-04:00.lighthouse.json) |
 | [August 26 at 12:45 AM](https://archive.org/download/torontostar-2022/torontostar-2022-08-26T00:44:52.012178-04:00.lighthouse.json) |
 | [August 25 at 12:06 PM](https://archive.org/download/torontostar-2022/torontostar-2022-08-25T12:06:35.805293-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 23 at 12:08 PM](https://archive.org/download/torontostar-2022/torontostar-2022-08-23T12:08:03.480810-04:00.lighthouse.json) |
 | [August 22 at 11:59 PM](https://archive.org/download/torontostar-2022/torontostar-2022-08-22T23:58:52.336552-04:00.lighthouse.json) |
 | [August 22 at 11:06 AM](https://archive.org/download/torontostar-2022/torontostar-2022-08-22T11:06:04.264576-04:00.lighthouse.json) |
-| [August 21 at 11:47 PM](https://archive.org/download/torontostar-2022/torontostar-2022-08-21T23:46:57.904098-04:00.lighthouse.json) |
-| [August 21 at 11:03 AM](https://archive.org/download/torontostar-2022/torontostar-2022-08-21T11:03:33.811011-04:00.lighthouse.json) |
 
 
 

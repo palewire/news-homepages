@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 28 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-28T02:50:27.999581+03:00.jpg">
+  <img src="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-28T02:50:27.999581+03:00.jpg"
+     alt="Jerusalem Post at 2022-08-28 02:50:29+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-28T02:50:27.999581+03:00.jpg">August 28 at 2:50 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-27T14:52:52.011451+03:00.jpg">
+  <img src="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-27T14:52:52.011451+03:00.jpg"
+     alt="Jerusalem Post at 2022-08-27 14:52:53+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-27T14:52:52.011451+03:00.jpg">August 27 at 2:52 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-27T02:45:03.970895+03:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-22T14:57:24.259938+03:00.jpg">August 22 at 2:57 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-22T02:52:51.451013+03:00.jpg">
-  <img src="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-22T02:52:51.451013+03:00.jpg"
-     alt="Jerusalem Post at 2022-08-22 02:52:54+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-22T02:52:51.451013+03:00.jpg">August 22 at 2:52 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-21T14:58:38.915379+03:00.jpg">
-  <img src="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-21T14:58:38.915379+03:00.jpg"
-     alt="Jerusalem Post at 2022-08-21 14:58:41+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-21T14:58:38.915379+03:00.jpg">August 21 at 2:58 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 27 hyperlink lists with the Internet Archive.
+The archiving routine has saved 29 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 28 at 2:50 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-28T02:50:27.999581+03:00.hyperlinks.json) |
+| [August 27 at 2:52 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-27T14:52:52.011451+03:00.hyperlinks.json) |
 | [August 27 at 2:45 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-27T02:45:03.970895+03:00.hyperlinks.json) |
 | [August 26 at 2:56 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-26T14:56:36.696890+03:00.hyperlinks.json) |
 | [August 26 at 3:03 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-26T03:03:49.415476+03:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 24 at 2:52 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-24T14:52:04.030764+03:00.hyperlinks.json) |
 | [August 24 at 2:44 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-24T02:44:21.230567+03:00.hyperlinks.json) |
 | [August 23 at 2:57 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-23T14:56:57.126587+03:00.hyperlinks.json) |
-| [August 23 at 2:57 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-23T02:57:29.502638+03:00.hyperlinks.json) |
-| [August 22 at 2:57 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-22T14:57:24.259938+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 28 accessibility trees with the Internet Archive.
+The archiving routine has saved 30 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 28 at 2:50 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-28T02:50:27.999581+03:00.accessibility.json) |
+| [August 27 at 2:52 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-27T14:52:52.011451+03:00.accessibility.json) |
 | [August 27 at 2:45 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-27T02:45:03.970895+03:00.accessibility.json) |
 | [August 26 at 2:56 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-26T14:56:36.696890+03:00.accessibility.json) |
 | [August 26 at 3:03 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-26T03:03:49.415476+03:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [August 24 at 2:52 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-24T14:52:04.030764+03:00.accessibility.json) |
 | [August 24 at 2:44 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-24T02:44:21.230567+03:00.accessibility.json) |
 | [August 23 at 2:57 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-23T14:56:57.126587+03:00.accessibility.json) |
-| [August 23 at 2:57 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-23T02:57:29.502638+03:00.accessibility.json) |
-| [August 22 at 2:57 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-22T14:57:24.259938+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 28 at 2:50 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-28T02:50:27.999581+03:00.lighthouse.json) |
+| [August 27 at 2:52 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-27T14:52:52.011451+03:00.lighthouse.json) |
 | [August 27 at 2:45 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-27T02:45:03.970895+03:00.lighthouse.json) |
 | [August 26 at 2:56 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-26T14:56:36.696890+03:00.lighthouse.json) |
 | [August 26 at 3:03 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-26T03:03:49.415476+03:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 24 at 2:52 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-24T14:52:04.030764+03:00.lighthouse.json) |
 | [August 24 at 2:44 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-24T02:44:21.230567+03:00.lighthouse.json) |
 | [August 23 at 2:57 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-23T14:56:57.126587+03:00.lighthouse.json) |
-| [August 23 at 2:57 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-23T02:57:29.502638+03:00.lighthouse.json) |
-| [August 22 at 2:57 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-22T14:57:24.259938+03:00.lighthouse.json) |
 
 
 

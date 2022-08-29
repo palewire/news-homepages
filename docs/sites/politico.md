@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 128 screenshots with the Internet Archive.
+The archiving routine has saved 130 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/politico-2022/politico-2022-08-27T11:57:10.628761-04:00.jpg">
+  <img src="https://archive.org/download/politico-2022/politico-2022-08-27T11:57:10.628761-04:00.jpg"
+     alt="POLITICO at 2022-08-27 11:57:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/politico-2022/politico-2022-08-27T11:57:10.628761-04:00.jpg">August 27 at 11:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/politico-2022/politico-2022-08-27T00:35:48.476541-04:00.jpg">
+  <img src="https://archive.org/download/politico-2022/politico-2022-08-27T00:35:48.476541-04:00.jpg"
+     alt="POLITICO at 2022-08-27 00:35:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/politico-2022/politico-2022-08-27T00:35:48.476541-04:00.jpg">August 27 at 12:35 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/politico-2022/politico-2022-08-26T12:03:08.158246-04:00.jpg">
   <img src="https://archive.org/download/politico-2022/politico-2022-08-26T12:03:08.158246-04:00.jpg"
      alt="POLITICO at 2022-08-26 12:03:22-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/politico-2022/politico-2022-08-21T10:58:40.890881-04:00.jpg">August 21 at 10:58 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/politico-2022/politico-2022-08-20T23:34:56.168282-04:00.jpg">
-  <img src="https://archive.org/download/politico-2022/politico-2022-08-20T23:34:56.168282-04:00.jpg"
-     alt="POLITICO at 2022-08-20 23:35:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/politico-2022/politico-2022-08-20T23:34:56.168282-04:00.jpg">August 20 at 11:35 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/politico-2022/politico-2022-08-20T10:53:33.847822-04:00.jpg">
-  <img src="https://archive.org/download/politico-2022/politico-2022-08-20T10:53:33.847822-04:00.jpg"
-     alt="POLITICO at 2022-08-20 10:53:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/politico-2022/politico-2022-08-20T10:53:33.847822-04:00.jpg">August 20 at 10:53 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 125 hyperlink lists with the Internet Archive.
+The archiving routine has saved 127 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 27 at 11:57 AM](https://archive.org/download/politico-2022/politico-2022-08-27T11:57:10.628761-04:00.hyperlinks.json) |
+| [August 27 at 12:35 AM](https://archive.org/download/politico-2022/politico-2022-08-27T00:35:48.476541-04:00.hyperlinks.json) |
 | [August 26 at 12:03 PM](https://archive.org/download/politico-2022/politico-2022-08-26T12:03:08.158246-04:00.hyperlinks.json) |
 | [August 26 at 12:41 AM](https://archive.org/download/politico-2022/politico-2022-08-26T00:40:49.151594-04:00.hyperlinks.json) |
 | [August 25 at 12:02 PM](https://archive.org/download/politico-2022/politico-2022-08-25T12:02:02.700858-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 23 at 12:03 PM](https://archive.org/download/politico-2022/politico-2022-08-23T12:03:36.842120-04:00.hyperlinks.json) |
 | [August 22 at 11:54 PM](https://archive.org/download/politico-2022/politico-2022-08-22T23:54:32.225459-04:00.hyperlinks.json) |
 | [August 22 at 11:00 AM](https://archive.org/download/politico-2022/politico-2022-08-22T11:00:18.170469-04:00.hyperlinks.json) |
-| [August 21 at 11:41 PM](https://archive.org/download/politico-2022/politico-2022-08-21T23:40:58.365336-04:00.hyperlinks.json) |
-| [August 21 at 10:58 AM](https://archive.org/download/politico-2022/politico-2022-08-21T10:58:40.890881-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 128 accessibility trees with the Internet Archive.
+The archiving routine has saved 130 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 27 at 11:57 AM](https://archive.org/download/politico-2022/politico-2022-08-27T11:57:10.628761-04:00.accessibility.json) |
+| [August 27 at 12:35 AM](https://archive.org/download/politico-2022/politico-2022-08-27T00:35:48.476541-04:00.accessibility.json) |
 | [August 26 at 12:03 PM](https://archive.org/download/politico-2022/politico-2022-08-26T12:03:08.158246-04:00.accessibility.json) |
 | [August 26 at 12:41 AM](https://archive.org/download/politico-2022/politico-2022-08-26T00:40:49.151594-04:00.accessibility.json) |
 | [August 25 at 12:02 PM](https://archive.org/download/politico-2022/politico-2022-08-25T12:02:02.700858-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 23 at 12:03 PM](https://archive.org/download/politico-2022/politico-2022-08-23T12:03:36.842120-04:00.accessibility.json) |
 | [August 22 at 11:54 PM](https://archive.org/download/politico-2022/politico-2022-08-22T23:54:32.225459-04:00.accessibility.json) |
 | [August 22 at 11:00 AM](https://archive.org/download/politico-2022/politico-2022-08-22T11:00:18.170469-04:00.accessibility.json) |
-| [August 21 at 11:41 PM](https://archive.org/download/politico-2022/politico-2022-08-21T23:40:58.365336-04:00.accessibility.json) |
-| [August 21 at 10:58 AM](https://archive.org/download/politico-2022/politico-2022-08-21T10:58:40.890881-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 67 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 69 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 27 at 11:57 AM](https://archive.org/download/politico-2022/politico-2022-08-27T11:57:10.628761-04:00.lighthouse.json) |
+| [August 27 at 12:35 AM](https://archive.org/download/politico-2022/politico-2022-08-27T00:35:48.476541-04:00.lighthouse.json) |
 | [August 26 at 12:03 PM](https://archive.org/download/politico-2022/politico-2022-08-26T12:03:08.158246-04:00.lighthouse.json) |
 | [August 26 at 12:41 AM](https://archive.org/download/politico-2022/politico-2022-08-26T00:40:49.151594-04:00.lighthouse.json) |
 | [August 25 at 12:02 PM](https://archive.org/download/politico-2022/politico-2022-08-25T12:02:02.700858-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 23 at 12:03 PM](https://archive.org/download/politico-2022/politico-2022-08-23T12:03:36.842120-04:00.lighthouse.json) |
 | [August 22 at 11:54 PM](https://archive.org/download/politico-2022/politico-2022-08-22T23:54:32.225459-04:00.lighthouse.json) |
 | [August 22 at 11:00 AM](https://archive.org/download/politico-2022/politico-2022-08-22T11:00:18.170469-04:00.lighthouse.json) |
-| [August 21 at 11:41 PM](https://archive.org/download/politico-2022/politico-2022-08-21T23:40:58.365336-04:00.lighthouse.json) |
-| [August 21 at 10:58 AM](https://archive.org/download/politico-2022/politico-2022-08-21T10:58:40.890881-04:00.lighthouse.json) |
 
 
 

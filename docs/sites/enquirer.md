@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 25 screenshots with the Internet Archive.
+The archiving routine has saved 27 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-27T10:01:13.712378-04:00.jpg">
+  <img src="https://archive.org/download/enquirer-2022/enquirer-2022-08-27T10:01:13.712378-04:00.jpg"
+     alt="Cincinnati Enquirer at 2022-08-27 10:01:15-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-27T10:01:13.712378-04:00.jpg">August 27 at 10:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-26T22:23:23.819313-04:00.jpg">
+  <img src="https://archive.org/download/enquirer-2022/enquirer-2022-08-26T22:23:23.819313-04:00.jpg"
+     alt="Cincinnati Enquirer at 2022-08-26 22:23:25-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-26T22:23:23.819313-04:00.jpg">August 26 at 10:23 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-26T10:08:05.038823-04:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-21T10:02:55.914890-04:00.jpg">August 21 at 10:02 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-20T22:19:10.762790-04:00.jpg">
-  <img src="https://archive.org/download/enquirer-2022/enquirer-2022-08-20T22:19:10.762790-04:00.jpg"
-     alt="Cincinnati Enquirer at 2022-08-20 22:19:12-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-20T22:19:10.762790-04:00.jpg">August 20 at 10:19 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-20T09:57:14.814030-04:00.jpg">
-  <img src="https://archive.org/download/enquirer-2022/enquirer-2022-08-20T09:57:14.814030-04:00.jpg"
-     alt="Cincinnati Enquirer at 2022-08-20 09:57:16-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-20T09:57:14.814030-04:00.jpg">August 20 at 9:57 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 25 hyperlink lists with the Internet Archive.
+The archiving routine has saved 27 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 27 at 10:01 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-27T10:01:13.712378-04:00.hyperlinks.json) |
+| [August 26 at 10:23 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-26T22:23:23.819313-04:00.hyperlinks.json) |
 | [August 26 at 10:08 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-26T10:08:05.038823-04:00.hyperlinks.json) |
 | [August 25 at 10:26 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-25T22:26:50.539517-04:00.hyperlinks.json) |
 | [August 25 at 10:57 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-25T10:57:33.242271-04:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 23 at 10:04 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-23T10:04:14.550840-04:00.hyperlinks.json) |
 | [August 22 at 10:25 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-22T22:25:45.681564-04:00.hyperlinks.json) |
 | [August 22 at 10:07 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-22T10:07:19.537751-04:00.hyperlinks.json) |
-| [August 21 at 10:24 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-21T22:24:47.547276-04:00.hyperlinks.json) |
-| [August 21 at 10:03 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-21T10:02:55.914890-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 25 accessibility trees with the Internet Archive.
+The archiving routine has saved 27 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 27 at 10:01 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-27T10:01:13.712378-04:00.accessibility.json) |
+| [August 26 at 10:23 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-26T22:23:23.819313-04:00.accessibility.json) |
 | [August 26 at 10:08 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-26T10:08:05.038823-04:00.accessibility.json) |
 | [August 25 at 10:26 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-25T22:26:50.539517-04:00.accessibility.json) |
 | [August 25 at 10:57 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-25T10:57:33.242271-04:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [August 23 at 10:04 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-23T10:04:14.550840-04:00.accessibility.json) |
 | [August 22 at 10:25 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-22T22:25:45.681564-04:00.accessibility.json) |
 | [August 22 at 10:07 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-22T10:07:19.537751-04:00.accessibility.json) |
-| [August 21 at 10:24 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-21T22:24:47.547276-04:00.accessibility.json) |
-| [August 21 at 10:03 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-21T10:02:55.914890-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 27 at 10:01 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-27T10:01:13.712378-04:00.lighthouse.json) |
+| [August 26 at 10:23 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-26T22:23:23.819313-04:00.lighthouse.json) |
 | [August 26 at 10:08 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-26T10:08:05.038823-04:00.lighthouse.json) |
 | [August 25 at 10:26 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-25T22:26:50.539517-04:00.lighthouse.json) |
 | [August 25 at 10:57 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-25T10:57:33.242271-04:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 23 at 10:04 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-23T10:04:14.550840-04:00.lighthouse.json) |
 | [August 22 at 10:25 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-22T22:25:45.681564-04:00.lighthouse.json) |
 | [August 22 at 10:07 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-22T10:07:19.537751-04:00.lighthouse.json) |
-| [August 21 at 10:24 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-21T22:24:47.547276-04:00.lighthouse.json) |
-| [August 21 at 10:03 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-21T10:02:55.914890-04:00.lighthouse.json) |
 
 
 

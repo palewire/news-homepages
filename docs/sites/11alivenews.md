@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 76 screenshots with the Internet Archive.
+The archiving routine has saved 78 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-08-27T18:52:42.995418-04:00.jpg">
+  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-08-27T18:52:42.995418-04:00.jpg"
+     alt="11Alive News at 2022-08-27 18:52:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-08-27T18:52:42.995418-04:00.jpg">August 27 at 6:52 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-08-27T06:46:39.967410-04:00.jpg">
+  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-08-27T06:46:39.967410-04:00.jpg"
+     alt="11Alive News at 2022-08-27 06:46:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-08-27T06:46:39.967410-04:00.jpg">August 27 at 6:46 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-08-26T18:48:55.405827-04:00.jpg">
   <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-08-26T18:48:55.405827-04:00.jpg"
      alt="11Alive News at 2022-08-26 18:49:00-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-08-22T06:53:38.550744-04:00.jpg">August 22 at 6:53 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-08-21T18:52:37.830438-04:00.jpg">
-  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-08-21T18:52:37.830438-04:00.jpg"
-     alt="11Alive News at 2022-08-21 18:52:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-08-21T18:52:37.830438-04:00.jpg">August 21 at 6:52 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-08-21T06:55:52.147921-04:00.jpg">
-  <img src="https://archive.org/download/11alivenews-2022/11alivenews-2022-08-21T06:55:52.147921-04:00.jpg"
-     alt="11Alive News at 2022-08-21 06:55:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/11alivenews-2022/11alivenews-2022-08-21T06:55:52.147921-04:00.jpg">August 21 at 6:55 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 73 hyperlink lists with the Internet Archive.
+The archiving routine has saved 75 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 27 at 6:52 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-27T18:52:42.995418-04:00.hyperlinks.json) |
+| [August 27 at 6:46 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-27T06:46:39.967410-04:00.hyperlinks.json) |
 | [August 26 at 6:49 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-26T18:48:55.405827-04:00.hyperlinks.json) |
 | [August 26 at 6:48 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-26T06:48:35.762052-04:00.hyperlinks.json) |
 | [August 25 at 6:49 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-25T18:49:44.759345-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 24 at 6:45 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-24T06:45:27.004818-04:00.hyperlinks.json) |
 | [August 23 at 6:55 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-23T18:55:28.997256-04:00.hyperlinks.json) |
 | [August 23 at 6:56 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-23T06:56:25.765406-04:00.hyperlinks.json) |
-| [August 22 at 6:54 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-22T18:54:22.302210-04:00.hyperlinks.json) |
-| [August 22 at 6:53 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-22T06:53:38.550744-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 75 accessibility trees with the Internet Archive.
+The archiving routine has saved 77 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 27 at 6:52 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-27T18:52:42.995418-04:00.accessibility.json) |
+| [August 27 at 6:46 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-27T06:46:39.967410-04:00.accessibility.json) |
 | [August 26 at 6:49 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-26T18:48:55.405827-04:00.accessibility.json) |
 | [August 26 at 6:48 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-26T06:48:35.762052-04:00.accessibility.json) |
 | [August 25 at 6:49 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-25T18:49:44.759345-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 24 at 6:45 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-24T06:45:27.004818-04:00.accessibility.json) |
 | [August 23 at 6:55 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-23T18:55:28.997256-04:00.accessibility.json) |
 | [August 23 at 6:56 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-23T06:56:25.765406-04:00.accessibility.json) |
-| [August 22 at 6:54 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-22T18:54:22.302210-04:00.accessibility.json) |
-| [August 22 at 6:53 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-22T06:53:38.550744-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 69 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 71 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 27 at 6:52 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-27T18:52:42.995418-04:00.lighthouse.json) |
+| [August 27 at 6:46 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-27T06:46:39.967410-04:00.lighthouse.json) |
 | [August 26 at 6:49 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-26T18:48:55.405827-04:00.lighthouse.json) |
 | [August 26 at 6:48 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-26T06:48:35.762052-04:00.lighthouse.json) |
 | [August 25 at 6:49 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-25T18:49:44.759345-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 24 at 6:45 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-24T06:45:27.004818-04:00.lighthouse.json) |
 | [August 23 at 6:55 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-23T18:55:28.997256-04:00.lighthouse.json) |
 | [August 23 at 6:56 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-23T06:56:25.765406-04:00.lighthouse.json) |
-| [August 22 at 6:54 PM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-22T18:54:22.302210-04:00.lighthouse.json) |
-| [August 22 at 6:53 AM](https://archive.org/download/11alivenews-2022/11alivenews-2022-08-22T06:53:38.550744-04:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 74 screenshots with the Internet Archive.
+The archiving routine has saved 76 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-27T12:00:27.713656-04:00.jpg">
+  <img src="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-27T12:00:27.713656-04:00.jpg"
+     alt="The Times-Enterprise at 2022-08-27 12:00:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-27T12:00:27.713656-04:00.jpg">August 27 at 12:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-27T00:38:59.152163-04:00.jpg">
+  <img src="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-27T00:38:59.152163-04:00.jpg"
+     alt="The Times-Enterprise at 2022-08-27 00:39:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-27T00:38:59.152163-04:00.jpg">August 27 at 12:39 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-26T12:07:45.334308-04:00.jpg">
   <img src="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-26T12:07:45.334308-04:00.jpg"
      alt="The Times-Enterprise at 2022-08-26 12:07:47-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-21T11:03:42.092748-04:00.jpg">August 21 at 11:03 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-20T23:39:19.689872-04:00.jpg">
-  <img src="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-20T23:39:19.689872-04:00.jpg"
-     alt="The Times-Enterprise at 2022-08-20 23:39:22-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-20T23:39:19.689872-04:00.jpg">August 20 at 11:39 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-20T10:58:56.054393-04:00.jpg">
-  <img src="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-20T10:58:56.054393-04:00.jpg"
-     alt="The Times-Enterprise at 2022-08-20 10:59:01-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-20T10:58:56.054393-04:00.jpg">August 20 at 10:59 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 44 hyperlink lists with the Internet Archive.
+The archiving routine has saved 46 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 27 at 12:00 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-27T12:00:27.713656-04:00.hyperlinks.json) |
+| [August 27 at 12:39 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-27T00:38:59.152163-04:00.hyperlinks.json) |
 | [August 26 at 12:07 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-26T12:07:45.334308-04:00.hyperlinks.json) |
 | [August 26 at 12:44 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-26T00:44:04.907698-04:00.hyperlinks.json) |
 | [August 25 at 12:05 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-25T12:05:51.442167-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 21 at 11:03 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-21T11:03:42.092748-04:00.hyperlinks.json) |
 | [August 20 at 11:39 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-20T23:39:19.689872-04:00.hyperlinks.json) |
 | [August 19 at 11:40 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-19T23:40:08.769134-04:00.hyperlinks.json) |
-| [August 19 at 11:34 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-19T11:33:53.700283-04:00.hyperlinks.json) |
-| [August 19 at 8:14 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-19T08:14:36.894020-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 51 accessibility trees with the Internet Archive.
+The archiving routine has saved 53 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 27 at 12:00 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-27T12:00:27.713656-04:00.accessibility.json) |
+| [August 27 at 12:39 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-27T00:38:59.152163-04:00.accessibility.json) |
 | [August 26 at 12:07 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-26T12:07:45.334308-04:00.accessibility.json) |
 | [August 26 at 12:44 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-26T00:44:04.907698-04:00.accessibility.json) |
 | [August 25 at 12:05 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-25T12:05:51.442167-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 23 at 12:07 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-23T12:07:14.490664-04:00.accessibility.json) |
 | [August 22 at 11:59 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-22T23:59:42.507937-04:00.accessibility.json) |
 | [August 22 at 11:05 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-22T11:05:31.186586-04:00.accessibility.json) |
-| [August 21 at 11:46 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-21T23:46:00.676349-04:00.accessibility.json) |
-| [August 21 at 11:03 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-21T11:03:42.092748-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 68 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 70 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 27 at 12:00 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-27T12:00:27.713656-04:00.lighthouse.json) |
+| [August 27 at 12:39 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-27T00:38:59.152163-04:00.lighthouse.json) |
 | [August 26 at 12:07 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-26T12:07:45.334308-04:00.lighthouse.json) |
 | [August 26 at 12:44 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-26T00:44:04.907698-04:00.lighthouse.json) |
 | [August 25 at 12:05 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-25T12:05:51.442167-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 23 at 12:07 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-23T12:07:14.490664-04:00.lighthouse.json) |
 | [August 22 at 11:59 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-22T23:59:42.507937-04:00.lighthouse.json) |
 | [August 22 at 11:05 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-22T11:05:31.186586-04:00.lighthouse.json) |
-| [August 21 at 11:46 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-21T23:46:00.676349-04:00.lighthouse.json) |
-| [August 21 at 11:03 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-21T11:03:42.092748-04:00.lighthouse.json) |
 
 
 

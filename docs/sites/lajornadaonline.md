@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 22 screenshots with the Internet Archive.
+The archiving routine has saved 24 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-27T09:51:56.794474-05:00.jpg">
+  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-27T09:51:56.794474-05:00.jpg"
+     alt="Jornada at 2022-08-27 09:51:58-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-27T09:51:56.794474-05:00.jpg">August 27 at 9:51 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-26T22:38:02.725185-05:00.jpg">
+  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-26T22:38:02.725185-05:00.jpg"
+     alt="Jornada at 2022-08-26 22:38:04-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-26T22:38:02.725185-05:00.jpg">August 26 at 10:38 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-26T09:59:11.524908-05:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-21T09:06:55.145896-05:00.jpg">August 21 at 9:06 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-20T21:23:04.587649-05:00.jpg">
-  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-20T21:23:04.587649-05:00.jpg"
-     alt="Jornada at 2022-08-20 21:23:05-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-20T21:23:04.587649-05:00.jpg">August 20 at 9:23 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-20T09:00:18.821832-05:00.jpg">
-  <img src="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-20T09:00:18.821832-05:00.jpg"
-     alt="Jornada at 2022-08-20 09:00:20-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-20T09:00:18.821832-05:00.jpg">August 20 at 9:00 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 22 hyperlink lists with the Internet Archive.
+The archiving routine has saved 24 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 27 at 9:52 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-27T09:51:56.794474-05:00.hyperlinks.json) |
+| [August 26 at 10:38 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-26T22:38:02.725185-05:00.hyperlinks.json) |
 | [August 26 at 9:59 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-26T09:59:11.524908-05:00.hyperlinks.json) |
 | [August 25 at 10:45 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-25T22:45:19.357436-05:00.hyperlinks.json) |
 | [August 25 at 10:02 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-25T10:02:19.241873-05:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 23 at 9:54 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-23T09:54:31.180306-05:00.hyperlinks.json) |
 | [August 22 at 9:30 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-22T21:30:11.587001-05:00.hyperlinks.json) |
 | [August 22 at 9:10 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-22T09:10:15.134329-05:00.hyperlinks.json) |
-| [August 21 at 9:28 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-21T21:28:27.265823-05:00.hyperlinks.json) |
-| [August 21 at 9:07 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-21T09:06:55.145896-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 21 accessibility trees with the Internet Archive.
+The archiving routine has saved 23 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 27 at 9:52 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-27T09:51:56.794474-05:00.accessibility.json) |
+| [August 26 at 10:38 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-26T22:38:02.725185-05:00.accessibility.json) |
 | [August 26 at 9:59 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-26T09:59:11.524908-05:00.accessibility.json) |
 | [August 25 at 10:45 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-25T22:45:19.357436-05:00.accessibility.json) |
 | [August 25 at 10:02 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-25T10:02:19.241873-05:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [August 23 at 9:54 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-23T09:54:31.180306-05:00.accessibility.json) |
 | [August 22 at 9:30 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-22T21:30:11.587001-05:00.accessibility.json) |
 | [August 22 at 9:10 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-22T09:10:15.134329-05:00.accessibility.json) |
-| [August 21 at 9:28 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-21T21:28:27.265823-05:00.accessibility.json) |
-| [August 21 at 9:06 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-21T09:06:55.145896-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 27 at 9:52 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-27T09:51:56.794474-05:00.lighthouse.json) |
+| [August 26 at 10:38 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-26T22:38:02.725185-05:00.lighthouse.json) |
 | [August 26 at 9:59 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-26T09:59:11.524908-05:00.lighthouse.json) |
 | [August 25 at 10:45 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-25T22:45:19.357436-05:00.lighthouse.json) |
 | [August 25 at 10:02 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-25T10:02:19.241873-05:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 23 at 9:54 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-23T09:54:31.180306-05:00.lighthouse.json) |
 | [August 22 at 9:30 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-22T21:30:11.587001-05:00.lighthouse.json) |
 | [August 22 at 9:10 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-22T09:10:15.134329-05:00.lighthouse.json) |
-| [August 21 at 9:28 PM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-21T21:28:27.265823-05:00.lighthouse.json) |
-| [August 21 at 9:07 AM](https://archive.org/download/lajornadaonline-2022/lajornadaonline-2022-08-21T09:06:55.145896-05:00.lighthouse.json) |
 
 
 

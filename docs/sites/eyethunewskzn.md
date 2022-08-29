@@ -28,13 +28,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 10 screenshots with the Internet Archive.
+The archiving routine has saved 12 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-28T00:58:43.390057+02:00.jpg">
+  <img src="https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-28T00:58:43.390057+02:00.jpg"
+     alt="Eyethu KwaZulu-Natal at 2022-08-28 00:58:44+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-28T00:58:43.390057+02:00.jpg">August 28 at 12:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-27T12:51:38.520370+02:00.jpg">
+  <img src="https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-27T12:51:38.520370+02:00.jpg"
+     alt="Eyethu KwaZulu-Natal at 2022-08-27 12:51:40+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-27T12:51:38.520370+02:00.jpg">August 27 at 12:51 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-27T00:55:07.322328+02:00.jpg">
@@ -130,7 +148,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 10 hyperlink lists with the Internet Archive.
+The archiving routine has saved 12 hyperlink lists with the Internet Archive.
 
 
 
@@ -138,6 +156,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 28 at 12:58 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-28T00:58:43.390057+02:00.hyperlinks.json) |
+| [August 27 at 12:51 PM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-27T12:51:38.520370+02:00.hyperlinks.json) |
 | [August 27 at 12:55 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-27T00:55:07.322328+02:00.hyperlinks.json) |
 | [August 26 at 12:54 PM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-26T12:53:58.614339+02:00.hyperlinks.json) |
 | [August 26 at 12:55 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-26T00:54:57.381416+02:00.hyperlinks.json) |
@@ -146,13 +166,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 24 at 12:51 PM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-24T12:50:56.106100+02:00.hyperlinks.json) |
 | [August 24 at 1:01 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-24T01:01:33.000322+02:00.hyperlinks.json) |
 | [August 23 at 1:02 PM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-23T13:02:24.327196+02:00.hyperlinks.json) |
-| [August 23 at 12:59 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-23T00:59:32.385731+02:00.hyperlinks.json) |
-| [August 23 at 12:03 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-23T00:03:07.843550+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 10 accessibility trees with the Internet Archive.
+The archiving routine has saved 12 accessibility trees with the Internet Archive.
 
 
 
@@ -160,6 +178,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 28 at 12:58 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-28T00:58:43.390057+02:00.accessibility.json) |
+| [August 27 at 12:51 PM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-27T12:51:38.520370+02:00.accessibility.json) |
 | [August 27 at 12:55 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-27T00:55:07.322328+02:00.accessibility.json) |
 | [August 26 at 12:54 PM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-26T12:53:58.614339+02:00.accessibility.json) |
 | [August 26 at 12:55 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-26T00:54:57.381416+02:00.accessibility.json) |
@@ -168,14 +188,12 @@ Here are the 10 most recent accessibility trees.
 | [August 24 at 12:50 PM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-24T12:50:56.106100+02:00.accessibility.json) |
 | [August 24 at 1:01 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-24T01:01:33.000322+02:00.accessibility.json) |
 | [August 23 at 1:02 PM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-23T13:02:24.327196+02:00.accessibility.json) |
-| [August 23 at 12:59 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-23T00:59:32.385731+02:00.accessibility.json) |
-| [August 23 at 12:03 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-23T00:03:07.843550+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
 
 
 
@@ -183,6 +201,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 28 at 12:58 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-28T00:58:43.390057+02:00.lighthouse.json) |
+| [August 27 at 12:51 PM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-27T12:51:38.520370+02:00.lighthouse.json) |
 | [August 27 at 12:55 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-27T00:55:07.322328+02:00.lighthouse.json) |
 | [August 26 at 12:54 PM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-26T12:53:58.614339+02:00.lighthouse.json) |
 | [August 26 at 12:55 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-26T00:54:57.381416+02:00.lighthouse.json) |
@@ -191,8 +211,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 24 at 12:51 PM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-24T12:50:56.106100+02:00.lighthouse.json) |
 | [August 24 at 1:01 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-24T01:01:33.000322+02:00.lighthouse.json) |
 | [August 23 at 1:02 PM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-23T13:02:24.327196+02:00.lighthouse.json) |
-| [August 23 at 12:59 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-23T00:59:32.385731+02:00.lighthouse.json) |
-| [August 23 at 12:03 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-08-23T00:03:07.843550+02:00.lighthouse.json) |
 
 
 

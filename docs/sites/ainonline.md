@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 13 screenshots with the Internet Archive.
+The archiving routine has saved 15 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ainonline-2022/ainonline-2022-08-27T18:51:53.721845-04:00.jpg">
+  <img src="https://archive.org/download/ainonline-2022/ainonline-2022-08-27T18:51:53.721845-04:00.jpg"
+     alt="Aviation International News at 2022-08-27 18:51:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ainonline-2022/ainonline-2022-08-27T18:51:53.721845-04:00.jpg">August 27 at 6:51 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ainonline-2022/ainonline-2022-08-27T06:46:21.700981-04:00.jpg">
+  <img src="https://archive.org/download/ainonline-2022/ainonline-2022-08-27T06:46:21.700981-04:00.jpg"
+     alt="Aviation International News at 2022-08-27 06:46:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ainonline-2022/ainonline-2022-08-27T06:46:21.700981-04:00.jpg">August 27 at 6:46 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ainonline-2022/ainonline-2022-08-26T18:48:41.832444-04:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ainonline-2022/ainonline-2022-08-22T06:53:44.813369-04:00.jpg">August 22 at 6:53 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ainonline-2022/ainonline-2022-08-21T18:51:36.374573-04:00.jpg">
-  <img src="https://archive.org/download/ainonline-2022/ainonline-2022-08-21T18:51:36.374573-04:00.jpg"
-     alt="Aviation International News at 2022-08-21 18:51:38-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ainonline-2022/ainonline-2022-08-21T18:51:36.374573-04:00.jpg">August 21 at 6:51 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ainonline-2022/ainonline-2022-08-21T06:56:41.851072-04:00.jpg">
-  <img src="https://archive.org/download/ainonline-2022/ainonline-2022-08-21T06:56:41.851072-04:00.jpg"
-     alt="Aviation International News at 2022-08-21 06:56:43-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ainonline-2022/ainonline-2022-08-21T06:56:41.851072-04:00.jpg">August 21 at 6:56 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 13 hyperlink lists with the Internet Archive.
+The archiving routine has saved 15 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 27 at 6:51 PM](https://archive.org/download/ainonline-2022/ainonline-2022-08-27T18:51:53.721845-04:00.hyperlinks.json) |
+| [August 27 at 6:46 AM](https://archive.org/download/ainonline-2022/ainonline-2022-08-27T06:46:21.700981-04:00.hyperlinks.json) |
 | [August 26 at 6:48 PM](https://archive.org/download/ainonline-2022/ainonline-2022-08-26T18:48:41.832444-04:00.hyperlinks.json) |
 | [August 26 at 6:48 AM](https://archive.org/download/ainonline-2022/ainonline-2022-08-26T06:48:36.780780-04:00.hyperlinks.json) |
 | [August 25 at 6:50 PM](https://archive.org/download/ainonline-2022/ainonline-2022-08-25T18:50:02.348994-04:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 24 at 6:45 AM](https://archive.org/download/ainonline-2022/ainonline-2022-08-24T06:45:18.757943-04:00.hyperlinks.json) |
 | [August 23 at 6:56 PM](https://archive.org/download/ainonline-2022/ainonline-2022-08-23T18:56:19.820195-04:00.hyperlinks.json) |
 | [August 23 at 6:56 AM](https://archive.org/download/ainonline-2022/ainonline-2022-08-23T06:56:55.203062-04:00.hyperlinks.json) |
-| [August 22 at 6:54 PM](https://archive.org/download/ainonline-2022/ainonline-2022-08-22T18:53:57.128531-04:00.hyperlinks.json) |
-| [August 22 at 6:53 AM](https://archive.org/download/ainonline-2022/ainonline-2022-08-22T06:53:44.813369-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 13 accessibility trees with the Internet Archive.
+The archiving routine has saved 15 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 27 at 6:51 PM](https://archive.org/download/ainonline-2022/ainonline-2022-08-27T18:51:53.721845-04:00.accessibility.json) |
+| [August 27 at 6:46 AM](https://archive.org/download/ainonline-2022/ainonline-2022-08-27T06:46:21.700981-04:00.accessibility.json) |
 | [August 26 at 6:48 PM](https://archive.org/download/ainonline-2022/ainonline-2022-08-26T18:48:41.832444-04:00.accessibility.json) |
 | [August 26 at 6:48 AM](https://archive.org/download/ainonline-2022/ainonline-2022-08-26T06:48:36.780780-04:00.accessibility.json) |
 | [August 25 at 6:50 PM](https://archive.org/download/ainonline-2022/ainonline-2022-08-25T18:50:02.348994-04:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [August 24 at 6:45 AM](https://archive.org/download/ainonline-2022/ainonline-2022-08-24T06:45:18.757943-04:00.accessibility.json) |
 | [August 23 at 6:56 PM](https://archive.org/download/ainonline-2022/ainonline-2022-08-23T18:56:19.820195-04:00.accessibility.json) |
 | [August 23 at 6:56 AM](https://archive.org/download/ainonline-2022/ainonline-2022-08-23T06:56:55.203062-04:00.accessibility.json) |
-| [August 22 at 6:54 PM](https://archive.org/download/ainonline-2022/ainonline-2022-08-22T18:53:57.128531-04:00.accessibility.json) |
-| [August 22 at 6:53 AM](https://archive.org/download/ainonline-2022/ainonline-2022-08-22T06:53:44.813369-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 27 at 6:52 PM](https://archive.org/download/ainonline-2022/ainonline-2022-08-27T18:51:53.721845-04:00.lighthouse.json) |
+| [August 27 at 6:46 AM](https://archive.org/download/ainonline-2022/ainonline-2022-08-27T06:46:21.700981-04:00.lighthouse.json) |
 | [August 26 at 6:48 PM](https://archive.org/download/ainonline-2022/ainonline-2022-08-26T18:48:41.832444-04:00.lighthouse.json) |
 | [August 26 at 6:48 AM](https://archive.org/download/ainonline-2022/ainonline-2022-08-26T06:48:36.780780-04:00.lighthouse.json) |
 | [August 25 at 6:50 PM](https://archive.org/download/ainonline-2022/ainonline-2022-08-25T18:50:02.348994-04:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 24 at 6:45 AM](https://archive.org/download/ainonline-2022/ainonline-2022-08-24T06:45:18.757943-04:00.lighthouse.json) |
 | [August 23 at 6:56 PM](https://archive.org/download/ainonline-2022/ainonline-2022-08-23T18:56:19.820195-04:00.lighthouse.json) |
 | [August 23 at 6:57 AM](https://archive.org/download/ainonline-2022/ainonline-2022-08-23T06:56:55.203062-04:00.lighthouse.json) |
-| [August 22 at 6:54 PM](https://archive.org/download/ainonline-2022/ainonline-2022-08-22T18:53:57.128531-04:00.lighthouse.json) |
-| [August 22 at 6:53 AM](https://archive.org/download/ainonline-2022/ainonline-2022-08-22T06:53:44.813369-04:00.lighthouse.json) |
 
 
 

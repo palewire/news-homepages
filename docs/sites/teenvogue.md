@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 81 screenshots with the Internet Archive.
+The archiving routine has saved 83 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-08-27T08:58:43.117065-04:00.jpg">
+  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-08-27T08:58:43.117065-04:00.jpg"
+     alt="Teen Vogue at 2022-08-27 08:58:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-08-27T08:58:43.117065-04:00.jpg">August 27 at 8:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-08-26T21:08:46.776301-04:00.jpg">
+  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-08-26T21:08:46.776301-04:00.jpg"
+     alt="Teen Vogue at 2022-08-26 21:08:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-08-26T21:08:46.776301-04:00.jpg">August 26 at 9:08 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-08-26T09:02:36.886285-04:00.jpg">
   <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-08-26T09:02:36.886285-04:00.jpg"
      alt="Teen Vogue at 2022-08-26 09:02:41-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-08-21T09:07:19.207038-04:00.jpg">August 21 at 9:07 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-08-20T21:17:10.321218-04:00.jpg">
-  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-08-20T21:17:10.321218-04:00.jpg"
-     alt="Teen Vogue at 2022-08-20 21:17:11-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-08-20T21:17:10.321218-04:00.jpg">August 20 at 9:17 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-08-20T09:03:19.154681-04:00.jpg">
-  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-08-20T09:03:19.154681-04:00.jpg"
-     alt="Teen Vogue at 2022-08-20 09:03:20-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-08-20T09:03:19.154681-04:00.jpg">August 20 at 9:03 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 81 hyperlink lists with the Internet Archive.
+The archiving routine has saved 83 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 27 at 8:58 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-27T08:58:43.117065-04:00.hyperlinks.json) |
+| [August 26 at 9:08 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-26T21:08:46.776301-04:00.hyperlinks.json) |
 | [August 26 at 9:02 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-26T09:02:36.886285-04:00.hyperlinks.json) |
 | [August 25 at 9:17 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-25T21:17:19.132548-04:00.hyperlinks.json) |
 | [August 25 at 9:05 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-25T09:04:57.388067-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 23 at 8:57 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-23T08:57:42.763826-04:00.hyperlinks.json) |
 | [August 22 at 9:23 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-22T21:23:19.532349-04:00.hyperlinks.json) |
 | [August 22 at 9:04 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-22T09:04:19.612365-04:00.hyperlinks.json) |
-| [August 21 at 9:15 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-21T21:15:43.960329-04:00.hyperlinks.json) |
-| [August 21 at 9:07 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-21T09:07:19.207038-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 82 accessibility trees with the Internet Archive.
+The archiving routine has saved 84 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 27 at 8:58 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-27T08:58:43.117065-04:00.accessibility.json) |
+| [August 26 at 9:08 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-26T21:08:46.776301-04:00.accessibility.json) |
 | [August 26 at 9:02 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-26T09:02:36.886285-04:00.accessibility.json) |
 | [August 25 at 9:17 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-25T21:17:19.132548-04:00.accessibility.json) |
 | [August 25 at 9:05 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-25T09:04:57.388067-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 23 at 8:57 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-23T08:57:42.763826-04:00.accessibility.json) |
 | [August 22 at 9:23 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-22T21:23:19.532349-04:00.accessibility.json) |
 | [August 22 at 9:04 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-22T09:04:19.612365-04:00.accessibility.json) |
-| [August 21 at 9:15 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-21T21:15:43.960329-04:00.accessibility.json) |
-| [August 21 at 9:07 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-21T09:07:19.207038-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 70 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 72 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 27 at 8:58 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-27T08:58:43.117065-04:00.lighthouse.json) |
+| [August 26 at 9:08 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-26T21:08:46.776301-04:00.lighthouse.json) |
 | [August 26 at 9:02 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-26T09:02:36.886285-04:00.lighthouse.json) |
 | [August 25 at 9:17 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-25T21:17:19.132548-04:00.lighthouse.json) |
 | [August 25 at 9:05 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-25T09:04:57.388067-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 23 at 8:57 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-23T08:57:42.763826-04:00.lighthouse.json) |
 | [August 22 at 9:23 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-22T21:23:19.532349-04:00.lighthouse.json) |
 | [August 22 at 9:04 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-22T09:04:19.612365-04:00.lighthouse.json) |
-| [August 21 at 9:15 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-21T21:15:43.960329-04:00.lighthouse.json) |
-| [August 21 at 9:07 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-21T09:07:19.207038-04:00.lighthouse.json) |
 
 
 

@@ -28,13 +28,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 8 screenshots with the Internet Archive.
+The archiving routine has saved 10 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/enca-2022/enca-2022-08-27T16:00:53.282188+02:00.jpg">
+  <img src="https://archive.org/download/enca-2022/enca-2022-08-27T16:00:53.282188+02:00.jpg"
+     alt="eNCA at 2022-08-27 16:00:56+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/enca-2022/enca-2022-08-27T16:00:53.282188+02:00.jpg">August 27 at 4:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/enca-2022/enca-2022-08-27T04:23:23.079901+02:00.jpg">
+  <img src="https://archive.org/download/enca-2022/enca-2022-08-27T04:23:23.079901+02:00.jpg"
+     alt="eNCA at 2022-08-27 04:23:24+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/enca-2022/enca-2022-08-27T04:23:23.079901+02:00.jpg">August 27 at 4:23 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/enca-2022/enca-2022-08-26T16:06:52.024745+02:00.jpg">
@@ -112,7 +130,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 7 hyperlink lists with the Internet Archive.
+The archiving routine has saved 9 hyperlink lists with the Internet Archive.
 
 
 
@@ -120,6 +138,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 27 at 4:00 PM](https://archive.org/download/enca-2022/enca-2022-08-27T16:00:53.282188+02:00.hyperlinks.json) |
+| [August 27 at 4:23 AM](https://archive.org/download/enca-2022/enca-2022-08-27T04:23:23.079901+02:00.hyperlinks.json) |
 | [August 26 at 4:06 PM](https://archive.org/download/enca-2022/enca-2022-08-26T16:06:52.024745+02:00.hyperlinks.json) |
 | [August 25 at 4:57 PM](https://archive.org/download/enca-2022/enca-2022-08-25T16:57:06.897614+02:00.hyperlinks.json) |
 | [August 24 at 4:01 PM](https://archive.org/download/enca-2022/enca-2022-08-24T16:01:40.861014+02:00.hyperlinks.json) |
@@ -131,7 +151,7 @@ Here are the 10 most recent hyperlink lists.
 
 ### Accessibility
 
-The archiving routine has saved 8 accessibility trees with the Internet Archive.
+The archiving routine has saved 10 accessibility trees with the Internet Archive.
 
 
 
@@ -139,6 +159,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 27 at 4:00 PM](https://archive.org/download/enca-2022/enca-2022-08-27T16:00:53.282188+02:00.accessibility.json) |
+| [August 27 at 4:23 AM](https://archive.org/download/enca-2022/enca-2022-08-27T04:23:23.079901+02:00.accessibility.json) |
 | [August 26 at 4:06 PM](https://archive.org/download/enca-2022/enca-2022-08-26T16:06:52.024745+02:00.accessibility.json) |
 | [August 26 at 4:26 AM](https://archive.org/download/enca-2022/enca-2022-08-26T04:26:52.810609+02:00.accessibility.json) |
 | [August 25 at 4:57 PM](https://archive.org/download/enca-2022/enca-2022-08-25T16:57:06.897614+02:00.accessibility.json) |
@@ -152,7 +174,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 8 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
 
 
 
@@ -160,6 +182,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 27 at 4:01 PM](https://archive.org/download/enca-2022/enca-2022-08-27T16:00:53.282188+02:00.lighthouse.json) |
+| [August 27 at 4:23 AM](https://archive.org/download/enca-2022/enca-2022-08-27T04:23:23.079901+02:00.lighthouse.json) |
 | [August 26 at 4:07 PM](https://archive.org/download/enca-2022/enca-2022-08-26T16:06:52.024745+02:00.lighthouse.json) |
 | [August 26 at 4:26 AM](https://archive.org/download/enca-2022/enca-2022-08-26T04:26:52.810609+02:00.lighthouse.json) |
 | [August 25 at 4:57 PM](https://archive.org/download/enca-2022/enca-2022-08-25T16:57:06.897614+02:00.lighthouse.json) |

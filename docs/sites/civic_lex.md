@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 99 screenshots with the Internet Archive.
+The archiving routine has saved 101 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-08-27T09:57:46.201957-04:00.jpg">
+  <img src="https://archive.org/download/civic_lex-2022/civic_lex-2022-08-27T09:57:46.201957-04:00.jpg"
+     alt="CivicLex at 2022-08-27 09:57:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-08-27T09:57:46.201957-04:00.jpg">August 27 at 9:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-08-26T22:21:16.731254-04:00.jpg">
+  <img src="https://archive.org/download/civic_lex-2022/civic_lex-2022-08-26T22:21:16.731254-04:00.jpg"
+     alt="CivicLex at 2022-08-26 22:21:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-08-26T22:21:16.731254-04:00.jpg">August 26 at 10:21 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-08-26T10:04:17.136624-04:00.jpg">
   <img src="https://archive.org/download/civic_lex-2022/civic_lex-2022-08-26T10:04:17.136624-04:00.jpg"
      alt="CivicLex at 2022-08-26 10:04:20-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-08-21T09:06:59.771464-04:00.jpg">August 21 at 9:07 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-08-20T21:15:27.269830-04:00.jpg">
-  <img src="https://archive.org/download/civic_lex-2022/civic_lex-2022-08-20T21:15:27.269830-04:00.jpg"
-     alt="CivicLex at 2022-08-20 21:15:28-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-08-20T21:15:27.269830-04:00.jpg">August 20 at 9:15 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-08-20T09:01:54.818357-04:00.jpg">
-  <img src="https://archive.org/download/civic_lex-2022/civic_lex-2022-08-20T09:01:54.818357-04:00.jpg"
-     alt="CivicLex at 2022-08-20 09:01:58-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/civic_lex-2022/civic_lex-2022-08-20T09:01:54.818357-04:00.jpg">August 20 at 9:01 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 100 hyperlink lists with the Internet Archive.
+The archiving routine has saved 102 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 27 at 9:57 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-27T09:57:46.201957-04:00.hyperlinks.json) |
+| [August 26 at 10:21 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-26T22:21:16.731254-04:00.hyperlinks.json) |
 | [August 26 at 10:04 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-26T10:04:17.136624-04:00.hyperlinks.json) |
 | [August 25 at 10:23 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-25T22:23:15.087637-04:00.hyperlinks.json) |
 | [August 25 at 10:53 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-25T10:53:35.965343-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 23 at 10:00 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-23T10:00:15.377112-04:00.hyperlinks.json) |
 | [August 22 at 9:21 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-22T21:21:49.246783-04:00.hyperlinks.json) |
 | [August 22 at 9:03 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-22T09:03:34.366687-04:00.hyperlinks.json) |
-| [August 21 at 9:13 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-21T21:13:54.730535-04:00.hyperlinks.json) |
-| [August 21 at 9:07 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-21T09:06:59.771464-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 100 accessibility trees with the Internet Archive.
+The archiving routine has saved 102 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 27 at 9:57 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-27T09:57:46.201957-04:00.accessibility.json) |
+| [August 26 at 10:21 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-26T22:21:16.731254-04:00.accessibility.json) |
 | [August 26 at 10:04 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-26T10:04:17.136624-04:00.accessibility.json) |
 | [August 25 at 10:23 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-25T22:23:15.087637-04:00.accessibility.json) |
 | [August 25 at 10:53 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-25T10:53:35.965343-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 23 at 10:00 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-23T10:00:15.377112-04:00.accessibility.json) |
 | [August 22 at 9:21 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-22T21:21:49.246783-04:00.accessibility.json) |
 | [August 22 at 9:03 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-22T09:03:34.366687-04:00.accessibility.json) |
-| [August 21 at 9:13 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-21T21:13:54.730535-04:00.accessibility.json) |
-| [August 21 at 9:07 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-21T09:06:59.771464-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 70 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 72 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 27 at 9:57 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-27T09:57:46.201957-04:00.lighthouse.json) |
+| [August 26 at 10:21 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-26T22:21:16.731254-04:00.lighthouse.json) |
 | [August 26 at 10:04 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-26T10:04:17.136624-04:00.lighthouse.json) |
 | [August 25 at 10:23 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-25T22:23:15.087637-04:00.lighthouse.json) |
 | [August 25 at 10:53 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-25T10:53:35.965343-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 23 at 10:00 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-23T10:00:15.377112-04:00.lighthouse.json) |
 | [August 22 at 9:21 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-22T21:21:49.246783-04:00.lighthouse.json) |
 | [August 22 at 9:03 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-22T09:03:34.366687-04:00.lighthouse.json) |
-| [August 21 at 9:14 PM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-21T21:13:54.730535-04:00.lighthouse.json) |
-| [August 21 at 9:07 AM](https://archive.org/download/civic_lex-2022/civic_lex-2022-08-21T09:06:59.771464-04:00.lighthouse.json) |
 
 
 

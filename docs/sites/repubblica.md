@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 33 screenshots with the Internet Archive.
+The archiving routine has saved 35 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/repubblica-2022/repubblica-2022-08-27T17:57:02.837026+02:00.jpg">
+  <img src="https://archive.org/download/repubblica-2022/repubblica-2022-08-27T17:57:02.837026+02:00.jpg"
+     alt="Repubblica at 2022-08-27 17:57:04+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/repubblica-2022/repubblica-2022-08-27T17:57:02.837026+02:00.jpg">August 27 at 5:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/repubblica-2022/repubblica-2022-08-27T06:35:57.894123+02:00.jpg">
+  <img src="https://archive.org/download/repubblica-2022/repubblica-2022-08-27T06:35:57.894123+02:00.jpg"
+     alt="Repubblica at 2022-08-27 06:35:59+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/repubblica-2022/repubblica-2022-08-27T06:35:57.894123+02:00.jpg">August 27 at 6:35 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/repubblica-2022/repubblica-2022-08-26T18:04:24.080936+02:00.jpg">
   <img src="https://archive.org/download/repubblica-2022/repubblica-2022-08-26T18:04:24.080936+02:00.jpg"
      alt="Repubblica at 2022-08-26 18:04:31+02:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/repubblica-2022/repubblica-2022-08-21T17:00:17.510783+02:00.jpg">August 21 at 5:00 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/repubblica-2022/repubblica-2022-08-21T05:35:49.105835+02:00.jpg">
-  <img src="https://archive.org/download/repubblica-2022/repubblica-2022-08-21T05:35:49.105835+02:00.jpg"
-     alt="Repubblica at 2022-08-21 05:35:50+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/repubblica-2022/repubblica-2022-08-21T05:35:49.105835+02:00.jpg">August 21 at 5:35 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/repubblica-2022/repubblica-2022-08-20T16:55:32.839921+02:00.jpg">
-  <img src="https://archive.org/download/repubblica-2022/repubblica-2022-08-20T16:55:32.839921+02:00.jpg"
-     alt="Repubblica at 2022-08-20 16:55:36+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/repubblica-2022/repubblica-2022-08-20T16:55:32.839921+02:00.jpg">August 20 at 4:55 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 33 hyperlink lists with the Internet Archive.
+The archiving routine has saved 35 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 27 at 5:57 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-27T17:57:02.837026+02:00.hyperlinks.json) |
+| [August 27 at 6:36 AM](https://archive.org/download/repubblica-2022/repubblica-2022-08-27T06:35:57.894123+02:00.hyperlinks.json) |
 | [August 26 at 6:04 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-26T18:04:24.080936+02:00.hyperlinks.json) |
 | [August 26 at 6:41 AM](https://archive.org/download/repubblica-2022/repubblica-2022-08-26T06:41:22.155452+02:00.hyperlinks.json) |
 | [August 25 at 6:02 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-25T18:02:01.432628+02:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 23 at 6:04 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-23T18:03:57.544947+02:00.hyperlinks.json) |
 | [August 23 at 5:55 AM](https://archive.org/download/repubblica-2022/repubblica-2022-08-23T05:55:44.770564+02:00.hyperlinks.json) |
 | [August 22 at 5:02 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-22T17:02:32.513940+02:00.hyperlinks.json) |
-| [August 22 at 5:43 AM](https://archive.org/download/repubblica-2022/repubblica-2022-08-22T05:42:59.053759+02:00.hyperlinks.json) |
-| [August 21 at 5:00 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-21T17:00:17.510783+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 33 accessibility trees with the Internet Archive.
+The archiving routine has saved 35 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 27 at 5:57 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-27T17:57:02.837026+02:00.accessibility.json) |
+| [August 27 at 6:36 AM](https://archive.org/download/repubblica-2022/repubblica-2022-08-27T06:35:57.894123+02:00.accessibility.json) |
 | [August 26 at 6:04 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-26T18:04:24.080936+02:00.accessibility.json) |
 | [August 26 at 6:41 AM](https://archive.org/download/repubblica-2022/repubblica-2022-08-26T06:41:22.155452+02:00.accessibility.json) |
 | [August 25 at 6:02 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-25T18:02:01.432628+02:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 23 at 6:04 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-23T18:03:57.544947+02:00.accessibility.json) |
 | [August 23 at 5:55 AM](https://archive.org/download/repubblica-2022/repubblica-2022-08-23T05:55:44.770564+02:00.accessibility.json) |
 | [August 22 at 5:02 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-22T17:02:32.513940+02:00.accessibility.json) |
-| [August 22 at 5:43 AM](https://archive.org/download/repubblica-2022/repubblica-2022-08-22T05:42:59.053759+02:00.accessibility.json) |
-| [August 21 at 5:00 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-21T17:00:17.510783+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 27 at 5:57 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-27T17:57:02.837026+02:00.lighthouse.json) |
+| [August 27 at 6:36 AM](https://archive.org/download/repubblica-2022/repubblica-2022-08-27T06:35:57.894123+02:00.lighthouse.json) |
 | [August 26 at 6:04 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-26T18:04:24.080936+02:00.lighthouse.json) |
 | [August 26 at 6:41 AM](https://archive.org/download/repubblica-2022/repubblica-2022-08-26T06:41:22.155452+02:00.lighthouse.json) |
 | [August 25 at 6:02 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-25T18:02:01.432628+02:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 23 at 6:04 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-23T18:03:57.544947+02:00.lighthouse.json) |
 | [August 23 at 5:55 AM](https://archive.org/download/repubblica-2022/repubblica-2022-08-23T05:55:44.770564+02:00.lighthouse.json) |
 | [August 22 at 5:02 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-22T17:02:32.513940+02:00.lighthouse.json) |
-| [August 22 at 5:43 AM](https://archive.org/download/repubblica-2022/repubblica-2022-08-22T05:42:59.053759+02:00.lighthouse.json) |
-| [August 21 at 5:00 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-21T17:00:17.510783+02:00.lighthouse.json) |
 
 
 

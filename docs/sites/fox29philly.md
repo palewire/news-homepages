@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 118 screenshots with the Internet Archive.
+The archiving routine has saved 120 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-27T19:48:12.427197-04:00.jpg">
+  <img src="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-27T19:48:12.427197-04:00.jpg"
+     alt="FOX29 Philly at 2022-08-27 19:48:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-27T19:48:12.427197-04:00.jpg">August 27 at 7:48 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-27T07:51:09.397799-04:00.jpg">
+  <img src="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-27T07:51:09.397799-04:00.jpg"
+     alt="FOX29 Philly at 2022-08-27 07:51:15-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-27T07:51:09.397799-04:00.jpg">August 27 at 7:51 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-26T19:43:58.907404-04:00.jpg">
   <img src="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-26T19:43:58.907404-04:00.jpg"
      alt="FOX29 Philly at 2022-08-26 19:44:00-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-22T07:00:51.580076-04:00.jpg">August 22 at 7:00 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-21T18:58:43.422394-04:00.jpg">
-  <img src="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-21T18:58:43.422394-04:00.jpg"
-     alt="FOX29 Philly at 2022-08-21 18:58:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-21T18:58:43.422394-04:00.jpg">August 21 at 6:58 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-21T07:03:07.774330-04:00.jpg">
-  <img src="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-21T07:03:07.774330-04:00.jpg"
-     alt="FOX29 Philly at 2022-08-21 07:03:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-21T07:03:07.774330-04:00.jpg">August 21 at 7:03 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 118 hyperlink lists with the Internet Archive.
+The archiving routine has saved 120 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 27 at 7:48 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-27T19:48:12.427197-04:00.hyperlinks.json) |
+| [August 27 at 7:51 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-27T07:51:09.397799-04:00.hyperlinks.json) |
 | [August 26 at 7:44 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-26T19:43:58.907404-04:00.hyperlinks.json) |
 | [August 26 at 7:55 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-26T07:55:42.631431-04:00.hyperlinks.json) |
 | [August 25 at 8:01 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-25T20:01:14.034862-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 24 at 7:49 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-24T07:49:34.954495-04:00.hyperlinks.json) |
 | [August 23 at 7:42 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-23T19:42:53.547202-04:00.hyperlinks.json) |
 | [August 23 at 7:03 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-23T07:03:16.960586-04:00.hyperlinks.json) |
-| [August 22 at 7:01 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-22T19:01:08.337239-04:00.hyperlinks.json) |
-| [August 22 at 7:00 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-22T07:00:51.580076-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 118 accessibility trees with the Internet Archive.
+The archiving routine has saved 120 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 27 at 7:48 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-27T19:48:12.427197-04:00.accessibility.json) |
+| [August 27 at 7:51 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-27T07:51:09.397799-04:00.accessibility.json) |
 | [August 26 at 7:44 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-26T19:43:58.907404-04:00.accessibility.json) |
 | [August 26 at 7:55 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-26T07:55:42.631431-04:00.accessibility.json) |
 | [August 25 at 8:01 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-25T20:01:14.034862-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 24 at 7:49 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-24T07:49:34.954495-04:00.accessibility.json) |
 | [August 23 at 7:42 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-23T19:42:53.547202-04:00.accessibility.json) |
 | [August 23 at 7:03 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-23T07:03:16.960586-04:00.accessibility.json) |
-| [August 22 at 7:01 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-22T19:01:08.337239-04:00.accessibility.json) |
-| [August 22 at 7:00 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-22T07:00:51.580076-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 69 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 71 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 27 at 7:48 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-27T19:48:12.427197-04:00.lighthouse.json) |
+| [August 27 at 7:51 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-27T07:51:09.397799-04:00.lighthouse.json) |
 | [August 26 at 7:44 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-26T19:43:58.907404-04:00.lighthouse.json) |
 | [August 26 at 7:55 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-26T07:55:42.631431-04:00.lighthouse.json) |
 | [August 25 at 8:01 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-25T20:01:14.034862-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 24 at 7:49 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-24T07:49:34.954495-04:00.lighthouse.json) |
 | [August 23 at 7:43 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-23T19:42:53.547202-04:00.lighthouse.json) |
 | [August 23 at 7:03 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-23T07:03:16.960586-04:00.lighthouse.json) |
-| [August 22 at 7:01 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-22T19:01:08.337239-04:00.lighthouse.json) |
-| [August 22 at 7:00 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-22T07:00:51.580076-04:00.lighthouse.json) |
 
 
 

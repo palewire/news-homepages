@@ -28,13 +28,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 1 screenshots with the Internet Archive.
+The archiving routine has saved 3 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-08-27T08:00:11.085434-06:00.jpg">
+  <img src="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-08-27T08:00:11.085434-06:00.jpg"
+     alt="El Paso Matters at 2022-08-27 08:00:13-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-08-27T08:00:11.085434-06:00.jpg">August 27 at 8:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-08-26T20:22:44.598369-06:00.jpg">
+  <img src="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-08-26T20:22:44.598369-06:00.jpg"
+     alt="El Paso Matters at 2022-08-26 20:22:46-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-08-26T20:22:44.598369-06:00.jpg">August 26 at 8:22 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-08-26T08:06:45.162814-06:00.jpg">
@@ -49,7 +67,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 1 hyperlink lists with the Internet Archive.
+The archiving routine has saved 3 hyperlink lists with the Internet Archive.
 
 
 
@@ -57,12 +75,14 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 27 at 8:00 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-08-27T08:00:11.085434-06:00.hyperlinks.json) |
+| [August 26 at 8:22 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-08-26T20:22:44.598369-06:00.hyperlinks.json) |
 | [August 26 at 8:07 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-08-26T08:06:45.162814-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 1 accessibility trees with the Internet Archive.
+The archiving routine has saved 3 accessibility trees with the Internet Archive.
 
 
 
@@ -70,13 +90,15 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 27 at 8:00 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-08-27T08:00:11.085434-06:00.accessibility.json) |
+| [August 26 at 8:22 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-08-26T20:22:44.598369-06:00.accessibility.json) |
 | [August 26 at 8:07 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-08-26T08:06:45.162814-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 1 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 3 Lighthouse audits with the Internet Archive.
 
 
 
@@ -84,6 +106,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 27 at 8:00 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-08-27T08:00:11.085434-06:00.lighthouse.json) |
+| [August 26 at 8:22 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-08-26T20:22:44.598369-06:00.lighthouse.json) |
 | [August 26 at 8:07 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-08-26T08:06:45.162814-06:00.lighthouse.json) |
 
 

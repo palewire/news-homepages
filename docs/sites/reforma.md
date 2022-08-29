@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 23 screenshots with the Internet Archive.
+The archiving routine has saved 25 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reforma-2022/reforma-2022-08-27T07:57:02.388371-05:00.jpg">
+  <img src="https://archive.org/download/reforma-2022/reforma-2022-08-27T07:57:02.388371-05:00.jpg"
+     alt="Reforma at 2022-08-27 07:57:07-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reforma-2022/reforma-2022-08-27T07:57:02.388371-05:00.jpg">August 27 at 7:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reforma-2022/reforma-2022-08-26T20:06:18.986982-05:00.jpg">
+  <img src="https://archive.org/download/reforma-2022/reforma-2022-08-26T20:06:18.986982-05:00.jpg"
+     alt="Reforma at 2022-08-26 20:06:20-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reforma-2022/reforma-2022-08-26T20:06:18.986982-05:00.jpg">August 26 at 8:06 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reforma-2022/reforma-2022-08-26T08:00:56.362226-05:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/reforma-2022/reforma-2022-08-21T18:58:48.454914-05:00.jpg">August 21 at 6:58 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/reforma-2022/reforma-2022-08-21T07:05:10.617312-05:00.jpg">
-  <img src="https://archive.org/download/reforma-2022/reforma-2022-08-21T07:05:10.617312-05:00.jpg"
-     alt="Reforma at 2022-08-21 07:05:12-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reforma-2022/reforma-2022-08-21T07:05:10.617312-05:00.jpg">August 21 at 7:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/reforma-2022/reforma-2022-08-20T18:59:11.048391-05:00.jpg">
-  <img src="https://archive.org/download/reforma-2022/reforma-2022-08-20T18:59:11.048391-05:00.jpg"
-     alt="Reforma at 2022-08-20 18:59:12-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reforma-2022/reforma-2022-08-20T18:59:11.048391-05:00.jpg">August 20 at 6:59 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 23 hyperlink lists with the Internet Archive.
+The archiving routine has saved 25 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 27 at 7:57 AM](https://archive.org/download/reforma-2022/reforma-2022-08-27T07:57:02.388371-05:00.hyperlinks.json) |
+| [August 26 at 8:06 PM](https://archive.org/download/reforma-2022/reforma-2022-08-26T20:06:18.986982-05:00.hyperlinks.json) |
 | [August 26 at 8:01 AM](https://archive.org/download/reforma-2022/reforma-2022-08-26T08:00:56.362226-05:00.hyperlinks.json) |
 | [August 25 at 8:15 PM](https://archive.org/download/reforma-2022/reforma-2022-08-25T20:15:42.649252-05:00.hyperlinks.json) |
 | [August 25 at 8:04 AM](https://archive.org/download/reforma-2022/reforma-2022-08-25T08:04:50.404286-05:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 23 at 7:56 AM](https://archive.org/download/reforma-2022/reforma-2022-08-23T07:56:15.606067-05:00.hyperlinks.json) |
 | [August 23 at 7:03 AM](https://archive.org/download/reforma-2022/reforma-2022-08-23T07:03:08.599507-05:00.hyperlinks.json) |
 | [August 22 at 7:04 PM](https://archive.org/download/reforma-2022/reforma-2022-08-22T19:04:36.651461-05:00.hyperlinks.json) |
-| [August 22 at 7:03 AM](https://archive.org/download/reforma-2022/reforma-2022-08-22T07:03:11.816946-05:00.hyperlinks.json) |
-| [August 21 at 6:58 PM](https://archive.org/download/reforma-2022/reforma-2022-08-21T18:58:48.454914-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 23 accessibility trees with the Internet Archive.
+The archiving routine has saved 25 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 27 at 7:57 AM](https://archive.org/download/reforma-2022/reforma-2022-08-27T07:57:02.388371-05:00.accessibility.json) |
+| [August 26 at 8:06 PM](https://archive.org/download/reforma-2022/reforma-2022-08-26T20:06:18.986982-05:00.accessibility.json) |
 | [August 26 at 8:01 AM](https://archive.org/download/reforma-2022/reforma-2022-08-26T08:00:56.362226-05:00.accessibility.json) |
 | [August 25 at 8:15 PM](https://archive.org/download/reforma-2022/reforma-2022-08-25T20:15:42.649252-05:00.accessibility.json) |
 | [August 25 at 8:04 AM](https://archive.org/download/reforma-2022/reforma-2022-08-25T08:04:50.404286-05:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [August 23 at 7:56 AM](https://archive.org/download/reforma-2022/reforma-2022-08-23T07:56:15.606067-05:00.accessibility.json) |
 | [August 23 at 7:03 AM](https://archive.org/download/reforma-2022/reforma-2022-08-23T07:03:08.599507-05:00.accessibility.json) |
 | [August 22 at 7:04 PM](https://archive.org/download/reforma-2022/reforma-2022-08-22T19:04:36.651461-05:00.accessibility.json) |
-| [August 22 at 7:03 AM](https://archive.org/download/reforma-2022/reforma-2022-08-22T07:03:11.816946-05:00.accessibility.json) |
-| [August 21 at 6:58 PM](https://archive.org/download/reforma-2022/reforma-2022-08-21T18:58:48.454914-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 27 at 7:57 AM](https://archive.org/download/reforma-2022/reforma-2022-08-27T07:57:02.388371-05:00.lighthouse.json) |
+| [August 26 at 8:06 PM](https://archive.org/download/reforma-2022/reforma-2022-08-26T20:06:18.986982-05:00.lighthouse.json) |
 | [August 26 at 8:01 AM](https://archive.org/download/reforma-2022/reforma-2022-08-26T08:00:56.362226-05:00.lighthouse.json) |
 | [August 25 at 8:15 PM](https://archive.org/download/reforma-2022/reforma-2022-08-25T20:15:42.649252-05:00.lighthouse.json) |
 | [August 25 at 8:04 AM](https://archive.org/download/reforma-2022/reforma-2022-08-25T08:04:50.404286-05:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 23 at 7:56 AM](https://archive.org/download/reforma-2022/reforma-2022-08-23T07:56:15.606067-05:00.lighthouse.json) |
 | [August 23 at 7:03 AM](https://archive.org/download/reforma-2022/reforma-2022-08-23T07:03:08.599507-05:00.lighthouse.json) |
 | [August 22 at 7:04 PM](https://archive.org/download/reforma-2022/reforma-2022-08-22T19:04:36.651461-05:00.lighthouse.json) |
-| [August 22 at 7:03 AM](https://archive.org/download/reforma-2022/reforma-2022-08-22T07:03:11.816946-05:00.lighthouse.json) |
-| [August 21 at 6:58 PM](https://archive.org/download/reforma-2022/reforma-2022-08-21T18:58:48.454914-05:00.lighthouse.json) |
 
 
 

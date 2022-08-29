@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 48 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-27T09:51:06.219972-05:00.jpg">
+  <img src="https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-27T09:51:06.219972-05:00.jpg"
+     alt="Wichita Eagle at 2022-08-27 09:51:13-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-27T09:51:06.219972-05:00.jpg">August 27 at 9:51 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-26T22:37:40.184400-05:00.jpg">
+  <img src="https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-26T22:37:40.184400-05:00.jpg"
+     alt="Wichita Eagle at 2022-08-26 22:37:42-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-26T22:37:40.184400-05:00.jpg">August 26 at 10:37 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-26T09:59:21.818127-05:00.jpg">
   <img src="https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-26T09:59:21.818127-05:00.jpg"
      alt="Wichita Eagle at 2022-08-26 09:59:23-05:00 local time"
@@ -415,36 +433,103 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-21T09:04:53.324066-05:00.jpg">August 21 at 9:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-20T21:21:26.408585-05:00.jpg">
-  <img src="https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-20T21:21:26.408585-05:00.jpg"
-     alt="Wichita Eagle at 2022-08-20 21:21:28-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-20T21:21:26.408585-05:00.jpg">August 20 at 9:21 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-20T08:59:12.428712-05:00.jpg">
-  <img src="https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-20T08:59:12.428712-05:00.jpg"
-     alt="Wichita Eagle at 2022-08-20 08:59:18-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-20T08:59:12.428712-05:00.jpg">August 20 at 8:59 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 30 hyperlink lists with the Internet Archive.
+The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/kansasdotcom.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 27 at 9:51 AM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-27T09:51:06.219972-05:00.hyperlinks.json) |
+| [August 26 at 10:37 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-26T22:37:40.184400-05:00.hyperlinks.json) |
 | [August 26 at 9:59 AM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-26T09:59:21.818127-05:00.hyperlinks.json) |
 | [August 25 at 10:44 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-25T22:44:18.168438-05:00.hyperlinks.json) |
 | [August 25 at 10:01 AM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-25T10:01:13.547246-05:00.hyperlinks.json) |
@@ -453,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 21 at 9:04 AM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-21T09:04:53.324066-05:00.hyperlinks.json) |
 | [August 20 at 9:21 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-20T21:21:26.408585-05:00.hyperlinks.json) |
 | [August 20 at 8:59 AM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-20T08:59:12.428712-05:00.hyperlinks.json) |
-| [August 19 at 9:35 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-19T21:35:27.177899-05:00.hyperlinks.json) |
-| [August 19 at 9:34 AM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-19T09:33:59.174446-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 46 accessibility trees with the Internet Archive.
+The archiving routine has saved 48 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -550,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 27 at 9:51 AM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-27T09:51:06.219972-05:00.accessibility.json) |
+| [August 26 at 10:37 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-26T22:37:40.184400-05:00.accessibility.json) |
 | [August 26 at 9:59 AM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-26T09:59:21.818127-05:00.accessibility.json) |
 | [August 25 at 10:44 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-25T22:44:18.168438-05:00.accessibility.json) |
 | [August 25 at 10:01 AM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-25T10:01:13.547246-05:00.accessibility.json) |
@@ -558,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 23 at 9:53 AM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-23T09:53:48.275241-05:00.accessibility.json) |
 | [August 22 at 9:28 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-22T21:28:20.287234-05:00.accessibility.json) |
 | [August 22 at 9:09 AM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-22T09:09:39.484282-05:00.accessibility.json) |
-| [August 21 at 9:27 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-21T21:27:12.886470-05:00.accessibility.json) |
-| [August 21 at 9:04 AM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-21T09:04:53.324066-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -656,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 27 at 9:51 AM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-27T09:51:06.219972-05:00.lighthouse.json) |
+| [August 26 at 10:37 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-26T22:37:40.184400-05:00.lighthouse.json) |
 | [August 26 at 9:59 AM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-26T09:59:21.818127-05:00.lighthouse.json) |
 | [August 25 at 10:44 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-25T22:44:18.168438-05:00.lighthouse.json) |
 | [August 25 at 10:01 AM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-25T10:01:13.547246-05:00.lighthouse.json) |
@@ -664,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 23 at 9:53 AM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-23T09:53:48.275241-05:00.lighthouse.json) |
 | [August 22 at 9:28 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-22T21:28:20.287234-05:00.lighthouse.json) |
 | [August 22 at 9:09 AM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-22T09:09:39.484282-05:00.lighthouse.json) |
-| [August 21 at 9:27 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-21T21:27:12.886470-05:00.lighthouse.json) |
-| [August 21 at 9:05 AM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-21T09:04:53.324066-05:00.lighthouse.json) |
 
 
 
