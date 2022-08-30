@@ -1,84 +1,49 @@
 {
-  "created": 1661731894,
+  "created": 1661818371,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/11/items/em_com-2022",
-  "em_com-2022": {
-    "url": "https://www.em.com.br/",
-    "job_id": "spn2-f4c61722020d6ed1c21f3229de8df33a65848f41",
-    "status": "success",
-    "counters": {
-      "outlinks": 70,
-      "embeds": 518
+  "em_com-2022": [
+    {
+      "url": "https://www.em.com.br/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_em_com_br-_-2022_08_29_13_55_10.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_em_com_br-_-2022_08_29_13_55_10.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.53,
+        "best-practices": 0.75,
+        "seo": 0.73,
+        "pwa": 0.8
+      }
     },
-    "outlinks": [],
-    "timestamp": "20220828115506",
-    "duration_sec": 25.18,
-    "original_url": "https://www.em.com.br/",
-    "http_status": 200,
-    "resources": [
-      "https://www.em.com.br/",
-      "https://fonts.googleapis.com/css?family=Lato:300,400,700,900&display=swap",
-      "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
-      "https://accounts.google.com/gsi/client",
-      "https://appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/en_US/appleid.auth.js",
-      "https://securepubads.g.doubleclick.net/pagead/ppub_config?ippd=www.em.com.br",
-      "https://embed.dugout.com/v3.1/estado-de-minas.js",
-      "https://cdn.taboola.com/libtrc/diariosassociados-em/loader.js",
-      "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2022082501.js?cb=31069174",
-      "https://cdn.jwplayer.com/v2/playlists/4khhJ5BX",
-      "https://css.em.com.br/em/138/dev5/capa.46.138.min.css",
-      "https://cdn.onesignal.com/sdks/OneSignalSDK.js",
-      "https://imgs.em.com.br/em/sprite.41.svg",
-      "https://imgs.em.com.br/em/placeholder.png",
-      "https://css.em.com.br/em/fonts/roboto-regular.woff2",
-      "https://widget.perfectmarket.com/diariosassociados-em/load.js",
-      "https://cdn.taboola.com/libtrc/impl.20220823-6_b2-PR-47855-DEV-115687--dcl-html-4a5743d6b53.js",
-      "https://sb.scorecardresearch.com/beacon.js",
-      "https://cdn.taboola.com/libtrc/tr5?abgroup=dcl-mobile-support_var4",
-      "https://a-fds.youborafds01.com/data?outputformat=json&system=onefootball&pluginVersion=6.7.17-adapterless-js&requestNumber=0.21233612381476252&timemark=1661694808893",
-      "https://i.em.com.br/GXGCFkn3AQXOnjLiUxUq-lQDkD0=/330x220/smart/imgsapp.em.com.br/portlet/523/22262/20220828104439923060o.jpg",
-      "https://js.em.com.br/em/149/actionsHeader.148.min.js",
-      "https://i.em.com.br/CDgBnn0K4aGh9MSYFUHHSZqAE8E=/330x220/smart/imgsapp.em.com.br/portlet/523/22262/20220828104437492116o.jpg",
-      "https://www.facebook.com/plugins/page.php?href=https://www.facebook.com/EstadodeMinas/&tabs&width=320&height=431&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId",
-      "https://b334f0fc4b6b1833667a013fc6fcd261.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html",
-      "https://media.grid.bidswitch.net/sync?tp_id=27&tp_uid=4ECC35C4-36C4-4F50-92FF-9DA8F856A709",
-      "https://scoring.deep.bi/score/4Dme4NTJxoPw/undefined?id=deepcookie&column=profile",
-      "https://widget.perfectmarket.com/diariosassociados-em/pmk-202010011.8.js",
-      "https://i.em.com.br/Kf0v3Hk9Y_UKe2f3bv27Zl8ZJfM=/115x115/smart/imgsapp.em.com.br/app/da_conteudo_154394929713/2019/07/19/29/20191015135939316697i.jpg",
-      "https://adservice.google.com/adsid/integrator.js?domain=www.em.com.br",
-      "https://securepubads.g.doubleclick.net/gampad/ads?pvsid=109746892588938&correlator=2174702041276109&eid=31069174,31069203,44770639,31062930&output=ldjh&gdfp_req=1&vrg=2022082501&ptt=17&impl=fifs&iu_parts=6887,uai,em,home&enc_prev_ius=/0/1/2/3&prev_iu_szs=1x1&ifi=1&adks=937864173&sfv=1-0-38&ists=1&fsapi=false&prev_scp=formato=dhtml-1x1&pos=0&eri=1&cust_params=unified_id=beb4e380-58d9-4931-9b29-87fca6a4eb5e&user_type=guest&paywall=true&testeab=8&resolucao=1600x1000&urldata=https%3A%2C%2Cwww%2Cem%2Ccom%2Cbr%2C&titleofpage=Jornal%20Estado%20de%20Minas%20%7C%20Not%C3%ADcias%20Online&tagsofpage=jornalismo%2Cnot%C3%ADcias%2Cminas%20gerais%2Cpol%C3%ADtica%2Ceconomia%2Cinternacional&reload=0&sc=1&cookie_enabled=1&abxe=1&dt=1661694809806&lmt=1661694809&dlt=1661694808199&idt=1212&adxs=33&adys=7302&biw=1400&bih=20859&scr_x=0&scr_y=0&btvi=0&ucis=1&oid=2&u_his=50&u_h=1000&u_w=1600&u_ah=1000&u_aw=1600&u_cd=24&u_sd=1&dmc=5&bc=31&nvt=1&url=https://www.em.com.br/&frm=20&vis=1&psz=1350x0&msz=1334x0&fws=0&ohw=0&ga_vid=1345176666.1661694810&ga_sid=1661694810&ga_hid=863082441&ga_fc=false",
-      "https://securepubads.g.doubleclick.net/gampad/ads?pvsid=109746892588938&correlator=624800959879195&eid=31069174,31069203,44770639,31062930&output=ldjh&gdfp_req=1&vrg=2022082501&ptt=17&impl=fifs&iu_parts=6887,uai,em,home&enc_prev_ius=/0/1/2/3&prev_iu_szs=1x1&ifi=2&adks=2075496335&sfv=1-0-38&ists=1&fsapi=false&prev_scp=formato=patrocinado-1x1&pos=0&eri=1&cust_params=unified_id=beb4e380-58d9-4931-9b29-87fca6a4eb5e&user_type=guest&paywall=true&testeab=8&resolucao=1600x1000&urldata=https%3A%2C%2Cwww%2Cem%2Ccom%2Cbr%2C&titleofpage=Jornal%20Estado%20de%20Minas%20%7C%20Not%C3%ADcias%20Online&tagsofpage=jornalismo%2Cnot%C3%ADcias%2Cminas%20gerais%2Cpol%C3%ADtica%2Ceconomia%2Cinternacional&reload=0&sc=1&cookie_enabled=1&abxe=1&dt=1661694809891&lmt=1661694809&dlt=1661694808199&idt=1212&adxs=33&adys=7302&biw=1400&bih=20859&scr_x=0&scr_y=0&btvi=0&ucis=2&oid=2&u_his=50&u_h=1000&u_w=1600&u_ah=1000&u_aw=1600&u_cd=24&u_sd=1&dmc=31&bc=31&nvt=1&url=https://www.em.com.br/&frm=20&vis=1&psz=1350x0&msz=1334x0&fws=0&ohw=0&ga_vid=1345176666.1661694810&ga_sid=1661694810&ga_hid=863082441&ga_fc=false",
-      "https://securepubads.g.doubleclick.net/gpt/pubads_impl_page_level_ads_2022082501.js?cb=31069174",
-      "https://sb.scorecardresearch.com/b?c1=7&c2=34354936&c3=1&cs_it=b3&cv=3.8.0.210223&ns__t=1661694810022&ns_c=windows-1252&c7=https://www.em.com.br/&c8=Jornal Estado de Minas | Not\u00edcias Online&c9=",
-      "https://securepubads.g.doubleclick.net/gampad/ads?pvsid=109746892588938&correlator=3172290487556741&eid=31069174,31069203,44770639,31062930&output=ldjh&gdfp_req=1&vrg=2022082501&ptt=17&impl=fifs&iu_parts=6887,uai,em,home&enc_prev_ius=/0/1/2/3&prev_iu_szs=1x1&ifi=4&adks=354791774&sfv=1-0-38&ists=1&fsapi=false&prev_scp=identificador=em-publicidade-patrocinio-1&formato=patrocinio-1x1&eri=1&cust_params=unified_id=beb4e380-58d9-4931-9b29-87fca6a4eb5e&user_type=guest&paywall=true&testeab=8&resolucao=1600x1000&urldata=https%3A%2C%2Cwww%2Cem%2Ccom%2Cbr%2C&titleofpage=Jornal%20Estado%20de%20Minas%20%7C%20Not%C3%ADcias%20Online&tagsofpage=jornalismo%2Cnot%C3%ADcias%2Cminas%20gerais%2Cpol%C3%ADtica%2Ceconomia%2Cinternacional&reload=0&sc=1&cookie_enabled=1&abxe=1&dt=1661694809991&lmt=1661694809&dlt=1661694808199&idt=1212&adxs=33&adys=7302&biw=1400&bih=20859&scr_x=0&scr_y=0&btvi=0&ucis=4&oid=2&u_his=50&u_h=1000&u_w=1600&u_ah=1000&u_aw=1600&u_cd=24&u_sd=1&dmc=12&bc=31&nvt=1&url=https://www.em.com.br/&frm=20&vis=1&psz=1350x0&msz=1334x0&fws=0&ohw=0&ga_vid=1345176666.1661694810&ga_sid=1661694810&ga_hid=863082441&ga_fc=false",
-      "https://securepubads.g.doubleclick.net/gampad/ads?pvsid=109746892588938&correlator=1612533350429201&eid=31069174,31069203,44770639,31062930&output=ldjh&gdfp_req=1&vrg=2022082501&ptt=17&impl=fifs&iu_parts=6887,uai,em,interstitial&enc_prev_ius=/0/1/2/3&prev_iu_szs=1x1&ifi=3&adks=3975483387&sfv=1-0-38&ists=1&fas=8&fsapi=false&eri=1&cust_params=unified_id=beb4e380-58d9-4931-9b29-87fca6a4eb5e&user_type=guest&paywall=true&testeab=8&resolucao=1600x1000&urldata=https%3A%2C%2Cwww%2Cem%2Ccom%2Cbr%2C&titleofpage=Jornal%20Estado%20de%20Minas%20%7C%20Not%C3%ADcias%20Online&tagsofpage=jornalismo%2Cnot%C3%ADcias%2Cminas%20gerais%2Cpol%C3%ADtica%2Ceconomia%2Cinternacional&reload=0&sc=1&cookie_enabled=1&abxe=1&dt=1661694809939&lmt=1661694809&dlt=1661694808199&idt=1212&adxs=-9&adys=-9&biw=1400&bih=20859&scr_x=0&scr_y=0&btvi=-1&ucis=3&oid=2&u_his=50&u_h=1000&u_w=1600&u_ah=1000&u_aw=1600&u_cd=24&u_sd=1&dmc=15&bc=31&nvt=1&url=https://www.em.com.br/&frm=20&vis=1&psz=0x-1&msz=0x-1&fws=2&ohw=0&ga_vid=1345176666.1661694810&ga_sid=1661694810&ga_hid=863082441&ga_fc=false",
-      "https://js.em.com.br/em/149/swg.148.min.js",
-      "https://i.em.com.br/Y_vKQo_VUeCrw5XZFN5jvGXm1B0=/115x115/smart/imgsapp.em.com.br/app/da_conteudo_154394929713/2019/07/19/37/20191015135245270704u.jpg",
-      "https://i.em.com.br/0fZC32cXQEG6cSyjwCrOHq10dyA=/fit-in/322x240/filters:fill(fff)/imgsapp.em.com.br/app/noticia_127983242361/2022/08/26/1389143/_1_59691.jpg",
-      "https://js.em.com.br/headerbidding/app-rub-one-tead-adp/6-16-0/prebid.js",
-      "https://imgs.em.com.br/em/sprite.46.svg",
-      "https://securepubads.g.doubleclick.net/gampad/ads?pvsid=109746892588938&correlator=249281525528351&eid=31069174,31069203,44770639,31062930&output=ldjh&gdfp_req=1&vrg=2022082501&ptt=17&impl=fifs&iu_parts=6887,uai,em,home&enc_prev_ius=/0/1/2/3&prev_iu_szs=1x1&ifi=5&adks=354791775&sfv=1-0-38&ists=1&fsapi=false&prev_scp=identificador=em-publicidade-patrocinio-2&formato=patrocinio-1x1&eri=1&cust_params=unified_id=beb4e380-58d9-4931-9b29-87fca6a4eb5e&user_type=guest&paywall=true&testeab=8&resolucao=1600x1000&urldata=https%3A%2C%2Cwww%2Cem%2Ccom%2Cbr%2C&titleofpage=Jornal%20Estado%20de%20Minas%20%7C%20Not%C3%ADcias%20Online&tagsofpage=jornalismo%2Cnot%C3%ADcias%2Cminas%20gerais%2Cpol%C3%ADtica%2Ceconomia%2Cinternacional&reload=0&sc=1&cookie_enabled=1&abxe=1&dt=1661694810291&lmt=1661694810&dlt=1661694808199&idt=1212&adxs=0&adys=8575&biw=1400&bih=20859&scr_x=0&scr_y=0&btvi=0&ucis=5&oid=2&u_his=50&u_h=1000&u_w=1600&u_ah=1000&u_aw=1600&u_cd=24&u_sd=1&dmc=12&bc=31&nvt=1&url=https://www.em.com.br/&frm=20&vis=1&psz=1400x8574&msz=1400x0&fws=0&ohw=0&ga_vid=1345176666.1661694810&ga_sid=1661694810&ga_hid=863082441&ga_fc=false",
-      "https://securepubads.g.doubleclick.net/gampad/ads?pvsid=109746892588938&correlator=170328245895407&eid=31069174,31069203,44770639,31062930&output=ldjh&gdfp_req=1&vrg=2022082501&ptt=17&impl=fifs&iu_parts=6887,uai,em,home&enc_prev_ius=/0/1/2/3&prev_iu_szs=1x1&ifi=6&adks=354791768&sfv=1-0-38&ists=1&fsapi=false&prev_scp=identificador=em-publicidade-patrocinio-3&formato=patrocinio-1x1&eri=1&cust_params=unified_id=beb4e380-58d9-4931-9b29-87fca6a4eb5e&user_type=guest&paywall=true&testeab=8&resolucao=1600x1000&urldata=https%3A%2C%2Cwww%2Cem%2Ccom%2Cbr%2C&titleofpage=Jornal%20Estado%20de%20Minas%20%7C%20Not%C3%ADcias%20Online&tagsofpage=jornalismo%2Cnot%C3%ADcias%2Cminas%20gerais%2Cpol%C3%ADtica%2Ceconomia%2Cinternacional&reload=0&sc=1&cookie_enabled=1&abxe=1&dt=1661694810342&lmt=1661694810&dlt=1661694808199&idt=1212&adxs=0&adys=8575&biw=1400&bih=20859&scr_x=0&scr_y=0&btvi=0&ucis=6&oid=2&u_his=50&u_h=1000&u_w=1600&u_ah=1000&u_aw=1600&u_cd=24&u_sd=1&dmc=7&bc=31&nvt=1&url=https://www.em.com.br/&frm=20&vis=1&psz=1400x8574&msz=1400x0&fws=0&ohw=0&ga_vid=1345176666.1661694810&ga_sid=1661694810&ga_hid=863082441&ga_fc=false",
-      "https://c2.taboola.com/nr/diariosassociados-em/newsroom.js",
-      "https://ssl.p.jwpcdn.com/player/plugins/inference/v/0.7.1/inference.js",
-      "https://ssl.p.jwpcdn.com/player/v/8.25.8/googima.js",
-      "https://ssl.p.jwpcdn.com/player/v/8.25.8/jwpsrv.js",
-      "https://ssl.p.jwpcdn.com/player/v/8.25.8/jwplayer.core.controls.js",
-      "https://content.jwplatform.com/libraries/dZJvGkNo.js",
-      "https://ssl.p.jwpcdn.com/player/v/8.25.8/translations/pt.json",
-      "https://ssl.p.jwpcdn.com/player/v/8.25.8/provider.hlsjs.js",
-      "https://cdn.taboola.com/libtrc/card-interference-detector.20220823-6_b2-PR-47855-DEV-115687--dcl-html-4a5743d6b53.es6.js",
-      "https://trc-events.taboola.com/diariosassociados-em/log/2/debug?tim=13:53:30.565&type=info&msg=taboola-mid-article-home-page 1 thumbnails-a&llvl=2&id=2074&cv=20220823-6_b2-PR-47855-DEV-115687--dcl-html-4a5743d6b53&lt=dcl-mobile-support_var4&pct=1",
-      "https://trc-events.taboola.com/diariosassociados-em/log/2/debug?tim=13:53:30.542&type=info&msg={\"mode\":\"thumbnails-a-new-1x4\",\"container\":\"taboola-mid-article-home-page-2\",\"placement\":\"Mid-article-home-page 2\",\"target_type\":\"mix\"}&llvl=2&id=7207&cv=20220823-6_b2-PR-47855-DEV-115687--dcl-html-4a5743d6b53&lt=dcl-mobile-support_var4&pct=1",
-      "https://trc-events.taboola.com/diariosassociados-em/log/2/debug?tim=13:53:30.541&type=info&msg={\"mode\":\"thumbnails-a\",\"container\":\"taboola-below-article-thumbnails-homepage\",\"placement\":\"taboola-mid-article-home-page 1\",\"target_type\":\"mix\"}&llvl=2&id=4517&cv=20220823-6_b2-PR-47855-DEV-115687--dcl-html-4a5743d6b53&lt=dcl-mobile-support_var4&pct=1",
-      "https://trc-events.taboola.com/diariosassociados-em/log/2/debug?tim=13:53:30.540&type=info&msg=https://www.em.com.br/&llvl=2&id=8611&cv=20220823-6_b2-PR-47855-DEV-115687--dcl-html-4a5743d6b53&lt=dcl-mobile-support_var4&pct=1",
-      "https://trc-events.taboola.com/diariosassociados-em/log/2/debug?tim=13:53:30.566&type=info&msg=Mid-article-home-page 2 thumbnails-a-new-1x4&llvl=2&id=1444&cv=20220823-6_b2-PR-47855-DEV-115687--dcl-html-4a5743d6b53&lt=dcl-mobile-support_var4&pct=1",
-      "https://trc-events.taboola.com/diariosassociados-em/log/2/debug?tim=13:53:30.581&type=info&msg=https://www.em.com.br/&llvl=2&id=5065&cv=20220823-6_b2-PR-47855-DEV-115687--dcl-html-4a5743d6b53&lt=dcl-mobile-support_var4&pct=1",
-      "https://i.em.com.br/3ctpfXP4V5GqPzmp0SDBEx7LLnc=/140x0/imgsapp.em.com.br/app/noticia_127983242361/2022/08/28/1389499/_1_344970.jpg",
-      "https://trc-events.taboola.com/diariosassociados-em/log/2/debug?tim=13:53:30.582&type=info&msg={\"mode\":\"organic-thumbnail-hp-em\",\"container\":\"taboola_main_section_swap\",\"placement\":\"HP Hard News\",\"target_type\":\"mix\",\"skip_dom_render\":true,\"alternative_domain\":false}&llvl=2&id=7353&cv=20220823-6_b2-PR-47855-DEV-115687--dcl-html-4a5743d6b53&lt=dcl-mobile-support_var4&pct=1"
-    ]
-  },
+    {
+      "url": "https://www.em.com.br/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_em_com_br-_-2022_08_29_13_56_46.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_em_com_br-_-2022_08_29_13_56_46.report.json",
+      "summary": {
+        "performance": 0.22,
+        "accessibility": 0.53,
+        "best-practices": 0.75,
+        "seo": 0.73,
+        "pwa": 0.8
+      }
+    },
+    {
+      "url": "https://www.em.com.br/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_em_com_br-_-2022_08_29_13_53_11.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_em_com_br-_-2022_08_29_13_53_11.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.53,
+        "best-practices": 0.75,
+        "seo": 0.73,
+        "pwa": 0.8
+      }
+    }
+  ],
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -4104,31 +4069,207 @@
       "sha1": "b9dc49ba153a9ff6b7e125e33f5e9c56f26a3b9e"
     },
     {
+      "name": "em_com-2022-08-28T23:27:17.961801-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661740040",
+      "size": "70230",
+      "md5": "545c5717c30bbba9539116f4815a9700",
+      "crc32": "64f5c283",
+      "sha1": "f5108faf5a86d144b410577b51c6fee6b53c7721",
+      "format": "JSON"
+    },
+    {
+      "name": "em_com-2022-08-28T23:27:17.961801-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661740041",
+      "size": "173614",
+      "md5": "72bc89f41c43b70b0dcbccafd0ca0ea2",
+      "crc32": "eddcf2a3",
+      "sha1": "e78f290423a50446cbf8a7f4c1021fd9d0eb021c",
+      "format": "JSON"
+    },
+    {
+      "name": "em_com-2022-08-28T23:27:17.961801-03:00.jpg",
+      "source": "original",
+      "mtime": "1661740038",
+      "size": "334083",
+      "md5": "57d8b223aae6433f9f1e99bfd70f1297",
+      "crc32": "3074c548",
+      "sha1": "09ddd714034b8e0ea68fde1fef9f7eb4097217b7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "em_com-2022-08-28T23:27:17.961801-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661740042",
+      "size": "1450",
+      "md5": "a4632e6bcd08e260e168b6126941422c",
+      "crc32": "2e911582",
+      "sha1": "71ca7d15060b1dc6c6e6981f1aea50b8384a986c",
+      "format": "JSON"
+    },
+    {
+      "name": "em_com-2022-08-28T23:27:17.961801-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1661740044",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "em_com-2022-08-28T23:27:17.961801-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "em_com-2022-08-28T23:27:17.961801-03:00.jpg",
+      "mtime": "1661740092",
+      "size": "9601",
+      "md5": "c6bacc03db750c7680ce2088d7733450",
+      "crc32": "ffdc01f5",
+      "sha1": "700a66d840a2f31785f7e7c09fd9442a145f0b8d"
+    },
+    {
+      "name": "em_com-2022-08-29T09:01:57.817014-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661774524",
+      "size": "66766",
+      "md5": "d058d0f971cae97dcbae66c9f2f10aea",
+      "crc32": "2db3130c",
+      "sha1": "dcead8b83bf0e1f338bb1341d75c5b4e3b1f7633",
+      "format": "JSON"
+    },
+    {
+      "name": "em_com-2022-08-29T09:01:57.817014-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661774526",
+      "size": "171449",
+      "md5": "de4a03b6bdead805e7eb88831dcc7582",
+      "crc32": "2af97487",
+      "sha1": "c2423d0501f5e90451c90d1e34046b9646cb6c4b",
+      "format": "JSON"
+    },
+    {
+      "name": "em_com-2022-08-29T09:01:57.817014-03:00.jpg",
+      "source": "original",
+      "mtime": "1661774522",
+      "size": "339905",
+      "md5": "63792920b789c791616eaf4f57e7c6d1",
+      "crc32": "110b4d61",
+      "sha1": "4396304926cb2e3cc0b5e4b4c8469f71fd3a0b59",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "em_com-2022-08-29T09:01:57.817014-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661774528",
+      "size": "1449",
+      "md5": "1af9b2d9312e476f3578fbb01423b7d1",
+      "crc32": "b27bab6b",
+      "sha1": "14dbb4e131454c9f935fe82a7f27d3bd03e16224",
+      "format": "JSON"
+    },
+    {
+      "name": "em_com-2022-08-29T09:01:57.817014-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1661774531",
+      "size": "156815",
+      "md5": "b0fe3f95bd3212cb865c34bd9b7062d8",
+      "crc32": "8074c5a3",
+      "sha1": "74265277865bc2310add4048cc4ef464e7b15ae5",
+      "format": "JSON"
+    },
+    {
+      "name": "em_com-2022-08-29T09:01:57.817014-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "em_com-2022-08-29T09:01:57.817014-03:00.jpg",
+      "mtime": "1661774702",
+      "size": "9724",
+      "md5": "a64fbe459f24a8b081e6cc58c7a99032",
+      "crc32": "517c9bd0",
+      "sha1": "c39da8c7feedb5d0ef9f2e61c4193edfc4bfe703"
+    },
+    {
+      "name": "em_com-2022-08-29T11:11:03.581346-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661782269",
+      "size": "66651",
+      "md5": "9b4d4dc908b1bf51d08e89c97eabc05c",
+      "crc32": "1eb7bd4b",
+      "sha1": "e1c9f17c7b7088db2561808582d3bfd3aedbc68b",
+      "format": "JSON"
+    },
+    {
+      "name": "em_com-2022-08-29T11:11:03.581346-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661782294",
+      "size": "161258",
+      "md5": "930f2acc4c24844a114e90819bbe208f",
+      "crc32": "c9f89eb1",
+      "sha1": "fee7351fff2795170a3fe2fae6cd2fec6b36fd5b",
+      "format": "JSON"
+    },
+    {
+      "name": "em_com-2022-08-29T11:11:03.581346-03:00.jpg",
+      "source": "original",
+      "mtime": "1661782267",
+      "size": "349734",
+      "md5": "a2716127c60ce4e321d8814dc9830ba9",
+      "crc32": "a69b2705",
+      "sha1": "a80529fb56dc99ec603379fa757a5f456531df3a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "em_com-2022-08-29T11:11:03.581346-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661782301",
+      "size": "1450",
+      "md5": "caaf06debe0678526d4fbfab497772af",
+      "crc32": "b19f39e8",
+      "sha1": "24eed23da6f9fa79e4161e86b5f635589fd12294",
+      "format": "JSON"
+    },
+    {
+      "name": "em_com-2022-08-29T11:11:03.581346-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "em_com-2022-08-29T11:11:03.581346-03:00.jpg",
+      "mtime": "1661782367",
+      "size": "9717",
+      "md5": "9b91ae61296bd3959436bf1b35497334",
+      "crc32": "2225000a",
+      "sha1": "ac2c8067c8d86d01dff124a413706162160fbac7"
+    },
+    {
       "name": "em_com-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ed92fce6acdcfddf1990e0d2e47bc87375d78d5a",
-      "mtime": "1661695466",
-      "size": "83210",
-      "md5": "c1a605195036cb591c35b1086d4ddc72",
-      "crc32": "18bb9aca",
-      "sha1": "2808acef81cd16f1388a6d288692f5db17cf357d",
+      "btih": "977e0a6fc2afbb2b8392570d8c4e738fb58561bd",
+      "mtime": "1661782373",
+      "size": "86791",
+      "md5": "931f8ec0424d5210e524ea8d3a29b6e5",
+      "crc32": "14f8c716",
+      "sha1": "39cec06bc204b480ff60e7284c95ca2471ebc7c7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "em_com-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e97e01af867dd30ba560cf29f1da3a38",
+      "md5": "7078957ac1ac0ad8b867e288150f3599",
       "summation": "md5"
     },
     {
       "name": "em_com-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661695408",
-      "size": "507904",
-      "md5": "8d7dc72663412802efb65b46793b7ab2",
-      "crc32": "80b9cd48",
-      "sha1": "c7e8123998fff15b0b502647f04c5a80fdd3357f",
+      "mtime": "1661782304",
+      "size": "532480",
+      "md5": "81478d81de8f1468423e8de13e021dc3",
+      "crc32": "6f42c9b6",
+      "sha1": "d40dfedce3183b785419118dd2c8994f22506d81",
       "format": "Metadata"
     },
     {
@@ -4142,9 +4283,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 393,
-  "item_last_updated": 1661695466,
-  "item_size": 44478835,
+  "files_count": 410,
+  "item_last_updated": 1661782373,
+  "item_size": 46431090,
   "metadata": {
     "identifier": "em_com-2022",
     "collection": [
@@ -4162,7 +4303,7 @@
     "addeddate": "2022-08-04 04:55:27"
   },
   "server": "ia801401.us.archive.org",
-  "uniq": 1357270434,
+  "uniq": 990062598,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

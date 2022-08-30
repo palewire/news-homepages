@@ -1,5 +1,5 @@
 {
-  "created": 1661733077,
+  "created": 1661819872,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/8/items/thecut-2022",
@@ -1742,31 +1742,155 @@
       "sha1": "1751d6ee1dcfc736ba2928e2ea28ea79b689c84b"
     },
     {
+      "name": "thecut-2022-08-28T21:18:57.067647-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661735939",
+      "size": "38463",
+      "md5": "654b98468be0aff2de581c89c2f46408",
+      "crc32": "a56d9a2d",
+      "sha1": "5fd9c9968ed865394a0cadf853fcb35057cfde9b",
+      "format": "JSON"
+    },
+    {
+      "name": "thecut-2022-08-28T21:18:57.067647-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661735940",
+      "size": "27257",
+      "md5": "b2ce5acef0fb8647b957e6ddb8c99b34",
+      "crc32": "a85d4610",
+      "sha1": "75246bd58ffdebc1c75d59e02e11f183ca46ed34",
+      "format": "JSON"
+    },
+    {
+      "name": "thecut-2022-08-28T21:18:57.067647-04:00.jpg",
+      "source": "original",
+      "mtime": "1661735938",
+      "size": "265688",
+      "md5": "8b4c8f5129fc0637556666a23c6613a5",
+      "crc32": "9b24e1ce",
+      "sha1": "32d8e90bb3ca7229ba16fafd50d903d3471de77f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thecut-2022-08-28T21:18:57.067647-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661735942",
+      "size": "1459",
+      "md5": "5bbadd756c03f7e6b91c6925467f4076",
+      "crc32": "3bfff4c3",
+      "sha1": "465cacfe571b3385a1e40db5ecb216a414a2aaa4",
+      "format": "JSON"
+    },
+    {
+      "name": "thecut-2022-08-28T21:18:57.067647-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1661735943",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thecut-2022-08-28T21:18:57.067647-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thecut-2022-08-28T21:18:57.067647-04:00.jpg",
+      "mtime": "1661735991",
+      "size": "8317",
+      "md5": "e9e30bb99eae35bc1b7af4773f1878a5",
+      "crc32": "39b2bf1f",
+      "sha1": "b874c316f0e5e99e9efd96cb48d1bd0c0bb29c8d"
+    },
+    {
+      "name": "thecut-2022-08-29T09:02:50.589859-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661778178",
+      "size": "38353",
+      "md5": "5c8b9a3e0828a6c3e12c348c2e0a228a",
+      "crc32": "336a54c7",
+      "sha1": "dad16029569287055f65669d2be2b1b4bc4bf1df",
+      "format": "JSON"
+    },
+    {
+      "name": "thecut-2022-08-29T09:02:50.589859-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661778180",
+      "size": "27391",
+      "md5": "5c99364917c0c106099e8393d935a2b7",
+      "crc32": "a43e4635",
+      "sha1": "39bf7f79bb141bde61eb5a7e92b6cf0500e6fd24",
+      "format": "JSON"
+    },
+    {
+      "name": "thecut-2022-08-29T09:02:50.589859-04:00.jpg",
+      "source": "original",
+      "mtime": "1661778176",
+      "size": "192642",
+      "md5": "bc6bc0cbb12b338be1b02d871a140461",
+      "crc32": "2bfedf8b",
+      "sha1": "8832b5d1ddd9a9f07f533fcd0964caccc7a322db",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thecut-2022-08-29T09:02:50.589859-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661778182",
+      "size": "1450",
+      "md5": "7c011e0c4d4308cff75f8c7acf8e2a18",
+      "crc32": "3687d2fd",
+      "sha1": "5b345ca85b3013adde3f6be7fb1cec706ed9f083",
+      "format": "JSON"
+    },
+    {
+      "name": "thecut-2022-08-29T09:02:50.589859-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1661778184",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thecut-2022-08-29T09:02:50.589859-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thecut-2022-08-29T09:02:50.589859-04:00.jpg",
+      "mtime": "1661778231",
+      "size": "7984",
+      "md5": "dbf1b170ad5788aff0f37581ae67311f",
+      "crc32": "976a41cb",
+      "sha1": "c708bf3468bdcc3d38b4d33c6b16bc87824b063d"
+    },
+    {
       "name": "thecut-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e44ca95c7a20f24c70b6a5e43a4cd8780fe025c0",
-      "mtime": "1661691840",
-      "size": "36343",
-      "md5": "9d99fa02bda97eb3d294dbc22bda1f7c",
-      "crc32": "8e17e41b",
-      "sha1": "544ddf2324338732c79b1770f2b0a0e13b6eba8d",
+      "btih": "4c8d5218bdfb9a947b78fdd8e4996a3124a63a0b",
+      "mtime": "1661778235",
+      "size": "38829",
+      "md5": "066d4f8f5866111c46e10f23737e5abb",
+      "crc32": "49f893bd",
+      "sha1": "6d7d68f22b57aa6a1f8fc8e4adee17f2ea27eec0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thecut-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "adaf491c9a44d354f56c19c0592e1386",
+      "md5": "0cb13e03f14d59b3b65dc5c7196649a2",
       "summation": "md5"
     },
     {
       "name": "thecut-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661691791",
-      "size": "237568",
-      "md5": "2e90eb03605364614150b3e1a24e332a",
-      "crc32": "a5b849ba",
-      "sha1": "92b0cc404be58a6305cc3a370e2440edd71e36f0",
+      "mtime": "1661778188",
+      "size": "249856",
+      "md5": "75b54e992c65d15bf8f5d283449db12c",
+      "crc32": "f03c33af",
+      "sha1": "46aba9021c5c785f7372d6b791271e50e55301b1",
       "format": "Metadata"
     },
     {
@@ -1780,9 +1904,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 172,
-  "item_last_updated": 1661691840,
-  "item_size": 10306356,
+  "files_count": 184,
+  "item_last_updated": 1661778235,
+  "item_size": 10930538,
   "metadata": {
     "identifier": "thecut-2022",
     "collection": [
@@ -1805,7 +1929,7 @@
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
-  "uniq": 711482137,
+  "uniq": 561536032,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"
