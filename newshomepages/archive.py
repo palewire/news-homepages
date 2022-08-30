@@ -106,7 +106,7 @@ def _upload(data: dict, input_dir: str):
     internetarchive.upload(identifier, **kwargs)
 
     # Log them in our latest.json file
-    df = pd.read_csv("./latest.csv", parse_dates=["datetime"])
+    df = pd.read_csv("./newshomepages/sources/latest.csv", parse_dates=["datetime"])
     log_row = [
         data["handle"],
         now.astimezone(pytz.utc),
@@ -130,7 +130,7 @@ def _upload(data: dict, input_dir: str):
         df.loc[df.handle == data["handle"]] = log_row
     else:
         df.loc[len(df)] = log_row
-    df.sort_values("handle").to_csv("./latest.csv", index=False)
+    df.sort_values("handle").to_csv("./newshomepages/sources/latest.csv", index=False)
 
     # Dump them out
     url_list = []
