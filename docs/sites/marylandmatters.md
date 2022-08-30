@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 259 screenshots with the Internet Archive.
+The archiving routine has saved 261 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-28T10:59:13.976733-04:00.jpg">
+  <img src="https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-28T10:59:13.976733-04:00.jpg"
+     alt="Maryland Matters at 2022-08-28 10:59:25-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-28T10:59:13.976733-04:00.jpg">August 28 at 10:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-27T23:43:04.117104-04:00.jpg">
+  <img src="https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-27T23:43:04.117104-04:00.jpg"
+     alt="Maryland Matters at 2022-08-27 23:43:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-27T23:43:04.117104-04:00.jpg">August 27 at 11:43 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-27T10:53:16.109469-04:00.jpg">
   <img src="https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-27T10:53:16.109469-04:00.jpg"
      alt="Maryland Matters at 2022-08-27 10:53:22-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-22T10:11:22.875470-04:00.jpg">August 22 at 10:11 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-21T22:28:58.421155-04:00.jpg">
-  <img src="https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-21T22:28:58.421155-04:00.jpg"
-     alt="Maryland Matters at 2022-08-21 22:29:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-21T22:28:58.421155-04:00.jpg">August 21 at 10:29 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-21T10:06:34.526581-04:00.jpg">
-  <img src="https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-21T10:06:34.526581-04:00.jpg"
-     alt="Maryland Matters at 2022-08-21 10:06:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-21T10:06:34.526581-04:00.jpg">August 21 at 10:06 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 259 hyperlink lists with the Internet Archive.
+The archiving routine has saved 261 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 28 at 10:59 AM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-28T10:59:13.976733-04:00.hyperlinks.json) |
+| [August 27 at 11:43 PM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-27T23:43:04.117104-04:00.hyperlinks.json) |
 | [August 27 at 10:53 AM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-27T10:53:16.109469-04:00.hyperlinks.json) |
 | [August 26 at 11:39 PM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-26T23:39:36.374328-04:00.hyperlinks.json) |
 | [August 26 at 11:01 AM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-26T11:01:02.348504-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 24 at 11:02 AM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-24T11:02:35.945108-04:00.hyperlinks.json) |
 | [August 23 at 11:41 PM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-23T23:41:06.938538-04:00.hyperlinks.json) |
 | [August 23 at 10:56 AM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-23T10:56:07.078551-04:00.hyperlinks.json) |
-| [August 22 at 10:30 PM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-22T22:30:27.747484-04:00.hyperlinks.json) |
-| [August 22 at 10:11 AM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-22T10:11:22.875470-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 259 accessibility trees with the Internet Archive.
+The archiving routine has saved 261 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 28 at 10:59 AM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-28T10:59:13.976733-04:00.accessibility.json) |
+| [August 27 at 11:43 PM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-27T23:43:04.117104-04:00.accessibility.json) |
 | [August 27 at 10:53 AM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-27T10:53:16.109469-04:00.accessibility.json) |
 | [August 26 at 11:39 PM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-26T23:39:36.374328-04:00.accessibility.json) |
 | [August 26 at 11:01 AM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-26T11:01:02.348504-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 24 at 11:02 AM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-24T11:02:35.945108-04:00.accessibility.json) |
 | [August 23 at 11:41 PM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-23T23:41:06.938538-04:00.accessibility.json) |
 | [August 23 at 10:56 AM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-23T10:56:07.078551-04:00.accessibility.json) |
-| [August 22 at 10:30 PM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-22T22:30:27.747484-04:00.accessibility.json) |
-| [August 22 at 10:11 AM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-22T10:11:22.875470-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 69 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 71 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 28 at 10:59 AM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-28T10:59:13.976733-04:00.lighthouse.json) |
+| [August 27 at 11:43 PM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-27T23:43:04.117104-04:00.lighthouse.json) |
 | [August 27 at 10:53 AM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-27T10:53:16.109469-04:00.lighthouse.json) |
 | [August 26 at 11:39 PM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-26T23:39:36.374328-04:00.lighthouse.json) |
 | [August 26 at 11:01 AM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-26T11:01:02.348504-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 24 at 11:02 AM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-24T11:02:35.945108-04:00.lighthouse.json) |
 | [August 23 at 11:41 PM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-23T23:41:06.938538-04:00.lighthouse.json) |
 | [August 23 at 10:56 AM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-23T10:56:07.078551-04:00.lighthouse.json) |
-| [August 22 at 10:30 PM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-22T22:30:27.747484-04:00.lighthouse.json) |
-| [August 22 at 10:11 AM](https://archive.org/download/marylandmatters-2022/marylandmatters-2022-08-22T10:11:22.875470-04:00.lighthouse.json) |
 
 
 

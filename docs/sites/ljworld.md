@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 51 screenshots with the Internet Archive.
+The archiving routine has saved 53 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ljworld-2022/ljworld-2022-08-28T18:50:06.911411-05:00.jpg">
+  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-08-28T18:50:06.911411-05:00.jpg"
+     alt="Lawrence Journal-World at 2022-08-28 18:50:10-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-08-28T18:50:06.911411-05:00.jpg">August 28 at 6:50 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ljworld-2022/ljworld-2022-08-28T07:00:58.795704-05:00.jpg">
+  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-08-28T07:00:58.795704-05:00.jpg"
+     alt="Lawrence Journal-World at 2022-08-28 07:01:07-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-08-28T07:00:58.795704-05:00.jpg">August 28 at 7:01 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ljworld-2022/ljworld-2022-08-27T18:51:58.200965-05:00.jpg">
   <img src="https://archive.org/download/ljworld-2022/ljworld-2022-08-27T18:51:58.200965-05:00.jpg"
      alt="Lawrence Journal-World at 2022-08-27 18:52:06-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-08-23T06:58:24.851489-05:00.jpg">August 23 at 6:58 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ljworld-2022/ljworld-2022-08-22T18:59:59.644657-05:00.jpg">
-  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-08-22T18:59:59.644657-05:00.jpg"
-     alt="Lawrence Journal-World at 2022-08-22 19:00:00-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-08-22T18:59:59.644657-05:00.jpg">August 22 at 7:00 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ljworld-2022/ljworld-2022-08-22T06:59:02.087651-05:00.jpg">
-  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-08-22T06:59:02.087651-05:00.jpg"
-     alt="Lawrence Journal-World at 2022-08-22 06:59:03-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-08-22T06:59:02.087651-05:00.jpg">August 22 at 6:59 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 51 hyperlink lists with the Internet Archive.
+The archiving routine has saved 53 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 28 at 6:50 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-28T18:50:06.911411-05:00.hyperlinks.json) |
+| [August 28 at 7:01 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-28T07:00:58.795704-05:00.hyperlinks.json) |
 | [August 27 at 6:52 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-27T18:51:58.200965-05:00.hyperlinks.json) |
 | [August 27 at 6:55 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-27T06:55:15.396833-05:00.hyperlinks.json) |
 | [August 26 at 6:46 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-26T18:46:05.670730-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 25 at 7:04 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-25T07:04:10.085124-05:00.hyperlinks.json) |
 | [August 24 at 6:57 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-24T18:57:42.120100-05:00.hyperlinks.json) |
 | [August 24 at 6:54 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-24T06:54:09.803244-05:00.hyperlinks.json) |
-| [August 23 at 6:45 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-23T18:45:40.665270-05:00.hyperlinks.json) |
-| [August 23 at 6:58 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-23T06:58:24.851489-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 51 accessibility trees with the Internet Archive.
+The archiving routine has saved 53 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 28 at 6:50 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-28T18:50:06.911411-05:00.accessibility.json) |
+| [August 28 at 7:01 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-28T07:00:58.795704-05:00.accessibility.json) |
 | [August 27 at 6:52 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-27T18:51:58.200965-05:00.accessibility.json) |
 | [August 27 at 6:55 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-27T06:55:15.396833-05:00.accessibility.json) |
 | [August 26 at 6:46 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-26T18:46:05.670730-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 25 at 7:04 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-25T07:04:10.085124-05:00.accessibility.json) |
 | [August 24 at 6:57 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-24T18:57:42.120100-05:00.accessibility.json) |
 | [August 24 at 6:54 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-24T06:54:09.803244-05:00.accessibility.json) |
-| [August 23 at 6:45 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-23T18:45:40.665270-05:00.accessibility.json) |
-| [August 23 at 6:58 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-23T06:58:24.851489-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 28 at 6:50 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-28T18:50:06.911411-05:00.lighthouse.json) |
+| [August 28 at 7:01 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-28T07:00:58.795704-05:00.lighthouse.json) |
 | [August 27 at 6:52 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-27T18:51:58.200965-05:00.lighthouse.json) |
 | [August 27 at 6:55 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-27T06:55:15.396833-05:00.lighthouse.json) |
 | [August 26 at 6:46 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-26T18:46:05.670730-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 25 at 7:04 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-25T07:04:10.085124-05:00.lighthouse.json) |
 | [August 24 at 6:57 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-24T18:57:42.120100-05:00.lighthouse.json) |
 | [August 24 at 6:54 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-24T06:54:09.803244-05:00.lighthouse.json) |
-| [August 23 at 6:45 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-23T18:45:40.665270-05:00.lighthouse.json) |
-| [August 23 at 6:58 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-23T06:58:24.851489-05:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 66 screenshots with the Internet Archive.
+The archiving routine has saved 69 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-28T10:01:10.488264-03:00.jpg">
+  <img src="https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-28T10:01:10.488264-03:00.jpg"
+     alt="ISTOÉ at 2022-08-28 10:01:14-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-28T10:01:10.488264-03:00.jpg">August 28 at 10:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-28T09:06:40.594008-03:00.jpg">
+  <img src="https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-28T09:06:40.594008-03:00.jpg"
+     alt="ISTOÉ at 2022-08-28 09:06:42-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-28T09:06:40.594008-03:00.jpg">August 28 at 9:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-27T22:28:36.557526-03:00.jpg">
+  <img src="https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-27T22:28:36.557526-03:00.jpg"
+     alt="ISTOÉ at 2022-08-27 22:28:38-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-27T22:28:36.557526-03:00.jpg">August 27 at 10:28 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-27T09:56:55.388989-03:00.jpg">
   <img src="https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-27T09:56:55.388989-03:00.jpg"
      alt="ISTOÉ at 2022-08-27 09:56:57-03:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-24T09:56:37.748140-03:00.jpg">August 24 at 9:56 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-24T08:57:09.472429-03:00.jpg">
-  <img src="https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-24T08:57:09.472429-03:00.jpg"
-     alt="ISTOÉ at 2022-08-24 08:57:14-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-24T08:57:09.472429-03:00.jpg">August 24 at 8:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-23T22:09:47.458478-03:00.jpg">
-  <img src="https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-23T22:09:47.458478-03:00.jpg"
-     alt="ISTOÉ at 2022-08-23 22:09:48-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-23T22:09:47.458478-03:00.jpg">August 23 at 10:09 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-23T09:56:20.023941-03:00.jpg">
-  <img src="https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-23T09:56:20.023941-03:00.jpg"
-     alt="ISTOÉ at 2022-08-23 09:56:21-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-23T09:56:20.023941-03:00.jpg">August 23 at 9:56 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 66 hyperlink lists with the Internet Archive.
+The archiving routine has saved 69 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 28 at 10:01 AM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-28T10:01:10.488264-03:00.hyperlinks.json) |
+| [August 28 at 9:06 AM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-28T09:06:40.594008-03:00.hyperlinks.json) |
+| [August 27 at 10:28 PM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-27T22:28:36.557526-03:00.hyperlinks.json) |
 | [August 27 at 9:57 AM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-27T09:56:55.388989-03:00.hyperlinks.json) |
 | [August 27 at 8:58 AM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-27T08:58:08.740463-03:00.hyperlinks.json) |
 | [August 26 at 10:08 PM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-26T22:08:33.495065-03:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 25 at 10:15 PM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-25T22:15:17.072665-03:00.hyperlinks.json) |
 | [August 25 at 10:04 AM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-25T10:04:46.406576-03:00.hyperlinks.json) |
 | [August 25 at 9:08 AM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-25T09:08:11.498903-03:00.hyperlinks.json) |
-| [August 24 at 9:56 AM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-24T09:56:37.748140-03:00.hyperlinks.json) |
-| [August 24 at 8:57 AM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-24T08:57:09.472429-03:00.hyperlinks.json) |
-| [August 23 at 10:09 PM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-23T22:09:47.458478-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 66 accessibility trees with the Internet Archive.
+The archiving routine has saved 69 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 28 at 10:01 AM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-28T10:01:10.488264-03:00.accessibility.json) |
+| [August 28 at 9:06 AM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-28T09:06:40.594008-03:00.accessibility.json) |
+| [August 27 at 10:28 PM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-27T22:28:36.557526-03:00.accessibility.json) |
 | [August 27 at 9:56 AM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-27T09:56:55.388989-03:00.accessibility.json) |
 | [August 27 at 8:58 AM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-27T08:58:08.740463-03:00.accessibility.json) |
 | [August 26 at 10:08 PM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-26T22:08:33.495065-03:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 25 at 10:15 PM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-25T22:15:17.072665-03:00.accessibility.json) |
 | [August 25 at 10:04 AM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-25T10:04:46.406576-03:00.accessibility.json) |
 | [August 25 at 9:08 AM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-25T09:08:11.498903-03:00.accessibility.json) |
-| [August 24 at 9:56 AM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-24T09:56:37.748140-03:00.accessibility.json) |
-| [August 24 at 8:57 AM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-24T08:57:09.472429-03:00.accessibility.json) |
-| [August 23 at 10:09 PM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-23T22:09:47.458478-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 66 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 69 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 28 at 10:01 AM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-28T10:01:10.488264-03:00.lighthouse.json) |
+| [August 28 at 9:06 AM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-28T09:06:40.594008-03:00.lighthouse.json) |
+| [August 27 at 10:28 PM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-27T22:28:36.557526-03:00.lighthouse.json) |
 | [August 27 at 9:57 AM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-27T09:56:55.388989-03:00.lighthouse.json) |
 | [August 27 at 8:58 AM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-27T08:58:08.740463-03:00.lighthouse.json) |
 | [August 26 at 10:08 PM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-26T22:08:33.495065-03:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 26 at 9:02 AM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-26T09:02:34.652185-03:00.lighthouse.json) |
 | [August 25 at 10:15 PM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-25T22:15:17.072665-03:00.lighthouse.json) |
 | [August 25 at 10:04 AM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-25T10:04:46.406576-03:00.lighthouse.json) |
-| [August 25 at 9:08 AM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-25T09:08:11.498903-03:00.lighthouse.json) |
-| [August 24 at 9:56 AM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-24T09:56:37.748140-03:00.lighthouse.json) |
-| [August 24 at 8:57 AM](https://archive.org/download/revistaistoe-2022/revistaistoe-2022-08-24T08:57:09.472429-03:00.lighthouse.json) |
 
 
 

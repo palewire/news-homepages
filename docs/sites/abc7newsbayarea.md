@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 66 screenshots with the Internet Archive.
+The archiving routine has saved 68 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-28T06:59:29.333417-07:00.jpg">
+  <img src="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-28T06:59:29.333417-07:00.jpg"
+     alt="ABC7 News at 2022-08-28 06:59:31-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-28T06:59:29.333417-07:00.jpg">August 28 at 6:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-27T19:24:32.208132-07:00.jpg">
+  <img src="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-27T19:24:32.208132-07:00.jpg"
+     alt="ABC7 News at 2022-08-27 19:24:33-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-27T19:24:32.208132-07:00.jpg">August 27 at 7:24 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-27T06:56:26.223772-07:00.jpg">
   <img src="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-27T06:56:26.223772-07:00.jpg"
      alt="ABC7 News at 2022-08-27 06:56:29-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-22T06:01:42.919412-07:00.jpg">August 22 at 6:01 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-21T18:12:15.234129-07:00.jpg">
-  <img src="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-21T18:12:15.234129-07:00.jpg"
-     alt="ABC7 News at 2022-08-21 18:12:20-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-21T18:12:15.234129-07:00.jpg">August 21 at 6:12 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-21T06:05:30.706276-07:00.jpg">
-  <img src="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-21T06:05:30.706276-07:00.jpg"
-     alt="ABC7 News at 2022-08-21 06:05:33-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-21T06:05:30.706276-07:00.jpg">August 21 at 6:05 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 68 hyperlink lists with the Internet Archive.
+The archiving routine has saved 70 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 28 at 6:59 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-28T06:59:29.333417-07:00.hyperlinks.json) |
+| [August 27 at 7:24 PM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-27T19:24:32.208132-07:00.hyperlinks.json) |
 | [August 27 at 6:56 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-27T06:56:26.223772-07:00.hyperlinks.json) |
 | [August 26 at 7:19 PM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-26T19:18:52.219072-07:00.hyperlinks.json) |
 | [August 26 at 7:02 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-26T07:02:22.122107-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 24 at 6:57 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-24T06:57:06.425068-07:00.hyperlinks.json) |
 | [August 23 at 7:15 PM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-23T19:15:19.179548-07:00.hyperlinks.json) |
 | [August 23 at 6:58 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-23T06:58:33.528434-07:00.hyperlinks.json) |
-| [August 22 at 6:19 PM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-22T18:19:21.424155-07:00.hyperlinks.json) |
-| [August 22 at 6:01 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-22T06:01:42.919412-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 68 accessibility trees with the Internet Archive.
+The archiving routine has saved 70 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 28 at 6:59 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-28T06:59:29.333417-07:00.accessibility.json) |
+| [August 27 at 7:24 PM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-27T19:24:32.208132-07:00.accessibility.json) |
 | [August 27 at 6:56 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-27T06:56:26.223772-07:00.accessibility.json) |
 | [August 26 at 7:18 PM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-26T19:18:52.219072-07:00.accessibility.json) |
 | [August 26 at 7:02 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-26T07:02:22.122107-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 24 at 6:57 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-24T06:57:06.425068-07:00.accessibility.json) |
 | [August 23 at 7:15 PM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-23T19:15:19.179548-07:00.accessibility.json) |
 | [August 23 at 6:58 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-23T06:58:33.528434-07:00.accessibility.json) |
-| [August 22 at 6:19 PM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-22T18:19:21.424155-07:00.accessibility.json) |
-| [August 22 at 6:01 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-22T06:01:42.919412-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 68 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 70 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 28 at 6:59 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-28T06:59:29.333417-07:00.lighthouse.json) |
+| [August 27 at 7:24 PM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-27T19:24:32.208132-07:00.lighthouse.json) |
 | [August 27 at 6:56 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-27T06:56:26.223772-07:00.lighthouse.json) |
 | [August 26 at 7:19 PM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-26T19:18:52.219072-07:00.lighthouse.json) |
 | [August 26 at 7:02 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-26T07:02:22.122107-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 24 at 6:57 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-24T06:57:06.425068-07:00.lighthouse.json) |
 | [August 23 at 7:15 PM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-23T19:15:19.179548-07:00.lighthouse.json) |
 | [August 23 at 6:58 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-23T06:58:33.528434-07:00.lighthouse.json) |
-| [August 22 at 6:19 PM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-22T18:19:21.424155-07:00.lighthouse.json) |
-| [August 22 at 6:01 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-22T06:01:42.919412-07:00.lighthouse.json) |
 
 
 

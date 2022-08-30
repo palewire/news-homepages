@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 25 screenshots with the Internet Archive.
+The archiving routine has saved 27 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-28T08:01:05.544722-05:00.jpg">
+  <img src="https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-28T08:01:05.544722-05:00.jpg"
+     alt="Reporte Índigo at 2022-08-28 08:01:08-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-28T08:01:05.544722-05:00.jpg">August 28 at 8:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-27T20:29:10.701972-05:00.jpg">
+  <img src="https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-27T20:29:10.701972-05:00.jpg"
+     alt="Reporte Índigo at 2022-08-27 20:29:12-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-27T20:29:10.701972-05:00.jpg">August 27 at 8:29 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-27T07:56:57.070434-05:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-22T19:05:07.071350-05:00.jpg">August 22 at 7:05 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-22T07:03:48.293958-05:00.jpg">
-  <img src="https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-22T07:03:48.293958-05:00.jpg"
-     alt="Reporte Índigo at 2022-08-22 07:03:49-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-22T07:03:48.293958-05:00.jpg">August 22 at 7:03 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-21T18:58:42.127532-05:00.jpg">
-  <img src="https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-21T18:58:42.127532-05:00.jpg"
-     alt="Reporte Índigo at 2022-08-21 18:58:47-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-21T18:58:42.127532-05:00.jpg">August 21 at 6:58 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 25 hyperlink lists with the Internet Archive.
+The archiving routine has saved 27 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 28 at 8:01 AM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-28T08:01:05.544722-05:00.hyperlinks.json) |
+| [August 27 at 8:29 PM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-27T20:29:10.701972-05:00.hyperlinks.json) |
 | [August 27 at 7:57 AM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-27T07:56:57.070434-05:00.hyperlinks.json) |
 | [August 26 at 8:08 PM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-26T20:08:03.146897-05:00.hyperlinks.json) |
 | [August 26 at 8:02 AM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-26T08:02:25.288368-05:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 24 at 7:56 AM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-24T07:56:32.299626-05:00.hyperlinks.json) |
 | [August 23 at 8:09 PM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-23T20:09:27.991316-05:00.hyperlinks.json) |
 | [August 23 at 7:56 AM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-23T07:56:33.089532-05:00.hyperlinks.json) |
-| [August 23 at 7:03 AM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-23T07:03:27.099021-05:00.hyperlinks.json) |
-| [August 22 at 7:05 PM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-22T19:05:07.071350-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 25 accessibility trees with the Internet Archive.
+The archiving routine has saved 27 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 28 at 8:01 AM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-28T08:01:05.544722-05:00.accessibility.json) |
+| [August 27 at 8:29 PM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-27T20:29:10.701972-05:00.accessibility.json) |
 | [August 27 at 7:57 AM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-27T07:56:57.070434-05:00.accessibility.json) |
 | [August 26 at 8:08 PM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-26T20:08:03.146897-05:00.accessibility.json) |
 | [August 26 at 8:02 AM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-26T08:02:25.288368-05:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [August 24 at 7:56 AM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-24T07:56:32.299626-05:00.accessibility.json) |
 | [August 23 at 8:09 PM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-23T20:09:27.991316-05:00.accessibility.json) |
 | [August 23 at 7:56 AM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-23T07:56:33.089532-05:00.accessibility.json) |
-| [August 23 at 7:03 AM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-23T07:03:27.099021-05:00.accessibility.json) |
-| [August 22 at 7:05 PM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-22T19:05:07.071350-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 28 at 8:01 AM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-28T08:01:05.544722-05:00.lighthouse.json) |
+| [August 27 at 8:29 PM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-27T20:29:10.701972-05:00.lighthouse.json) |
 | [August 27 at 7:57 AM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-27T07:56:57.070434-05:00.lighthouse.json) |
 | [August 26 at 8:08 PM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-26T20:08:03.146897-05:00.lighthouse.json) |
 | [August 26 at 8:02 AM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-26T08:02:25.288368-05:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 24 at 7:56 AM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-24T07:56:32.299626-05:00.lighthouse.json) |
 | [August 23 at 8:09 PM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-23T20:09:27.991316-05:00.lighthouse.json) |
 | [August 23 at 7:56 AM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-23T07:56:33.089532-05:00.lighthouse.json) |
-| [August 23 at 7:03 AM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-23T07:03:27.099021-05:00.lighthouse.json) |
-| [August 22 at 7:05 PM](https://archive.org/download/reporte_indigo-2022/reporte_indigo-2022-08-22T19:05:07.071350-05:00.lighthouse.json) |
 
 
 

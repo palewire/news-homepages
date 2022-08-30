@@ -28,13 +28,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 10 screenshots with the Internet Archive.
+The archiving routine has saved 12 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/timeslive-2022/timeslive-2022-08-28T15:04:54.683477+02:00.jpg">
+  <img src="https://archive.org/download/timeslive-2022/timeslive-2022-08-28T15:04:54.683477+02:00.jpg"
+     alt="TimesLIVE at 2022-08-28 15:04:57+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/timeslive-2022/timeslive-2022-08-28T15:04:54.683477+02:00.jpg">August 28 at 3:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/timeslive-2022/timeslive-2022-08-28T03:31:41.304430+02:00.jpg">
+  <img src="https://archive.org/download/timeslive-2022/timeslive-2022-08-28T03:31:41.304430+02:00.jpg"
+     alt="TimesLIVE at 2022-08-28 03:31:42+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/timeslive-2022/timeslive-2022-08-28T03:31:41.304430+02:00.jpg">August 28 at 3:31 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/timeslive-2022/timeslive-2022-08-27T15:00:08.624572+02:00.jpg">
@@ -130,7 +148,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 10 hyperlink lists with the Internet Archive.
+The archiving routine has saved 12 hyperlink lists with the Internet Archive.
 
 
 
@@ -138,6 +156,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 28 at 3:05 PM](https://archive.org/download/timeslive-2022/timeslive-2022-08-28T15:04:54.683477+02:00.hyperlinks.json) |
+| [August 28 at 3:31 AM](https://archive.org/download/timeslive-2022/timeslive-2022-08-28T03:31:41.304430+02:00.hyperlinks.json) |
 | [August 27 at 3:00 PM](https://archive.org/download/timeslive-2022/timeslive-2022-08-27T15:00:08.624572+02:00.hyperlinks.json) |
 | [August 27 at 3:11 AM](https://archive.org/download/timeslive-2022/timeslive-2022-08-27T03:11:05.705629+02:00.hyperlinks.json) |
 | [August 26 at 3:04 PM](https://archive.org/download/timeslive-2022/timeslive-2022-08-26T15:04:30.774112+02:00.hyperlinks.json) |
@@ -146,13 +166,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 24 at 2:59 PM](https://archive.org/download/timeslive-2022/timeslive-2022-08-24T14:59:53.845219+02:00.hyperlinks.json) |
 | [August 24 at 3:13 AM](https://archive.org/download/timeslive-2022/timeslive-2022-08-24T03:13:03.632288+02:00.hyperlinks.json) |
 | [August 23 at 3:00 PM](https://archive.org/download/timeslive-2022/timeslive-2022-08-23T15:00:34.826386+02:00.hyperlinks.json) |
-| [August 23 at 3:26 AM](https://archive.org/download/timeslive-2022/timeslive-2022-08-23T03:26:34.839225+02:00.hyperlinks.json) |
-| [August 23 at 12:03 AM](https://archive.org/download/timeslive-2022/timeslive-2022-08-23T00:03:06.223321+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 10 accessibility trees with the Internet Archive.
+The archiving routine has saved 12 accessibility trees with the Internet Archive.
 
 
 
@@ -160,6 +178,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 28 at 3:04 PM](https://archive.org/download/timeslive-2022/timeslive-2022-08-28T15:04:54.683477+02:00.accessibility.json) |
+| [August 28 at 3:31 AM](https://archive.org/download/timeslive-2022/timeslive-2022-08-28T03:31:41.304430+02:00.accessibility.json) |
 | [August 27 at 3:00 PM](https://archive.org/download/timeslive-2022/timeslive-2022-08-27T15:00:08.624572+02:00.accessibility.json) |
 | [August 27 at 3:11 AM](https://archive.org/download/timeslive-2022/timeslive-2022-08-27T03:11:05.705629+02:00.accessibility.json) |
 | [August 26 at 3:04 PM](https://archive.org/download/timeslive-2022/timeslive-2022-08-26T15:04:30.774112+02:00.accessibility.json) |
@@ -168,14 +188,12 @@ Here are the 10 most recent accessibility trees.
 | [August 24 at 2:59 PM](https://archive.org/download/timeslive-2022/timeslive-2022-08-24T14:59:53.845219+02:00.accessibility.json) |
 | [August 24 at 3:13 AM](https://archive.org/download/timeslive-2022/timeslive-2022-08-24T03:13:03.632288+02:00.accessibility.json) |
 | [August 23 at 3:00 PM](https://archive.org/download/timeslive-2022/timeslive-2022-08-23T15:00:34.826386+02:00.accessibility.json) |
-| [August 23 at 3:26 AM](https://archive.org/download/timeslive-2022/timeslive-2022-08-23T03:26:34.839225+02:00.accessibility.json) |
-| [August 23 at 12:03 AM](https://archive.org/download/timeslive-2022/timeslive-2022-08-23T00:03:06.223321+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
 
 
 
@@ -183,6 +201,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 28 at 3:05 PM](https://archive.org/download/timeslive-2022/timeslive-2022-08-28T15:04:54.683477+02:00.lighthouse.json) |
+| [August 28 at 3:31 AM](https://archive.org/download/timeslive-2022/timeslive-2022-08-28T03:31:41.304430+02:00.lighthouse.json) |
 | [August 27 at 3:00 PM](https://archive.org/download/timeslive-2022/timeslive-2022-08-27T15:00:08.624572+02:00.lighthouse.json) |
 | [August 27 at 3:11 AM](https://archive.org/download/timeslive-2022/timeslive-2022-08-27T03:11:05.705629+02:00.lighthouse.json) |
 | [August 26 at 3:04 PM](https://archive.org/download/timeslive-2022/timeslive-2022-08-26T15:04:30.774112+02:00.lighthouse.json) |
@@ -191,8 +211,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 24 at 3:00 PM](https://archive.org/download/timeslive-2022/timeslive-2022-08-24T14:59:53.845219+02:00.lighthouse.json) |
 | [August 24 at 3:13 AM](https://archive.org/download/timeslive-2022/timeslive-2022-08-24T03:13:03.632288+02:00.lighthouse.json) |
 | [August 23 at 3:00 PM](https://archive.org/download/timeslive-2022/timeslive-2022-08-23T15:00:34.826386+02:00.lighthouse.json) |
-| [August 23 at 3:26 AM](https://archive.org/download/timeslive-2022/timeslive-2022-08-23T03:26:34.839225+02:00.lighthouse.json) |
-| [August 23 at 12:03 AM](https://archive.org/download/timeslive-2022/timeslive-2022-08-23T00:03:06.223321+02:00.lighthouse.json) |
 
 
 

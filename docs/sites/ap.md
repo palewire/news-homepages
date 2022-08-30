@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 238 screenshots with the Internet Archive.
+The archiving routine has saved 242 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ap-2022/ap-2022-08-28T18:49:11.466261-04:00.jpg">
+  <img src="https://archive.org/download/ap-2022/ap-2022-08-28T18:49:11.466261-04:00.jpg"
+     alt="Associated Press at 2022-08-28 18:49:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-08-28T18:49:11.466261-04:00.jpg">August 28 at 6:49 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ap-2022/ap-2022-08-28T17:16:38.240544-04:00.jpg">
+  <img src="https://archive.org/download/ap-2022/ap-2022-08-28T17:16:38.240544-04:00.jpg"
+     alt="Associated Press at 2022-08-28 17:16:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-08-28T17:16:38.240544-04:00.jpg">August 28 at 5:16 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ap-2022/ap-2022-08-28T08:56:16.974470-04:00.jpg">
+  <img src="https://archive.org/download/ap-2022/ap-2022-08-28T08:56:16.974470-04:00.jpg"
+     alt="Associated Press at 2022-08-28 08:56:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-08-28T08:56:16.974470-04:00.jpg">August 28 at 8:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ap-2022/ap-2022-08-28T06:52:21.462745-04:00.jpg">
+  <img src="https://archive.org/download/ap-2022/ap-2022-08-28T06:52:21.462745-04:00.jpg"
+     alt="Associated Press at 2022-08-28 06:52:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-08-28T06:52:21.462745-04:00.jpg">August 28 at 6:52 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ap-2022/ap-2022-08-27T18:51:58.716555-04:00.jpg">
   <img src="https://archive.org/download/ap-2022/ap-2022-08-27T18:51:58.716555-04:00.jpg"
      alt="Associated Press at 2022-08-27 18:52:03-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ap-2022/ap-2022-08-26T06:49:21.951746-04:00.jpg">August 26 at 6:49 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ap-2022/ap-2022-08-25T18:50:23.069828-04:00.jpg">
-  <img src="https://archive.org/download/ap-2022/ap-2022-08-25T18:50:23.069828-04:00.jpg"
-     alt="Associated Press at 2022-08-25 18:50:31-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-08-25T18:50:23.069828-04:00.jpg">August 25 at 6:50 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ap-2022/ap-2022-08-25T17:15:28.523387-04:00.jpg">
-  <img src="https://archive.org/download/ap-2022/ap-2022-08-25T17:15:28.523387-04:00.jpg"
-     alt="Associated Press at 2022-08-25 17:15:37-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-08-25T17:15:28.523387-04:00.jpg">August 25 at 5:15 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ap-2022/ap-2022-08-25T08:58:47.870243-04:00.jpg">
-  <img src="https://archive.org/download/ap-2022/ap-2022-08-25T08:58:47.870243-04:00.jpg"
-     alt="Associated Press at 2022-08-25 08:58:49-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-08-25T08:58:47.870243-04:00.jpg">August 25 at 8:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ap-2022/ap-2022-08-25T06:52:49.665756-04:00.jpg">
-  <img src="https://archive.org/download/ap-2022/ap-2022-08-25T06:52:49.665756-04:00.jpg"
-     alt="Associated Press at 2022-08-25 06:53:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-08-25T06:52:49.665756-04:00.jpg">August 25 at 6:53 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 210 hyperlink lists with the Internet Archive.
+The archiving routine has saved 214 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 28 at 6:49 PM](https://archive.org/download/ap-2022/ap-2022-08-28T18:49:11.466261-04:00.hyperlinks.json) |
+| [August 28 at 5:16 PM](https://archive.org/download/ap-2022/ap-2022-08-28T17:16:38.240544-04:00.hyperlinks.json) |
+| [August 28 at 8:56 AM](https://archive.org/download/ap-2022/ap-2022-08-28T08:56:16.974470-04:00.hyperlinks.json) |
+| [August 28 at 6:52 AM](https://archive.org/download/ap-2022/ap-2022-08-28T06:52:21.462745-04:00.hyperlinks.json) |
 | [August 27 at 6:52 PM](https://archive.org/download/ap-2022/ap-2022-08-27T18:51:58.716555-04:00.hyperlinks.json) |
 | [August 27 at 5:15 PM](https://archive.org/download/ap-2022/ap-2022-08-27T17:15:42.742707-04:00.hyperlinks.json) |
 | [August 27 at 8:52 AM](https://archive.org/download/ap-2022/ap-2022-08-27T08:52:25.719379-04:00.hyperlinks.json) |
 | [August 27 at 6:47 AM](https://archive.org/download/ap-2022/ap-2022-08-27T06:46:58.275696-04:00.hyperlinks.json) |
 | [August 26 at 6:48 PM](https://archive.org/download/ap-2022/ap-2022-08-26T18:48:49.258873-04:00.hyperlinks.json) |
 | [August 26 at 5:14 PM](https://archive.org/download/ap-2022/ap-2022-08-26T17:14:49.331931-04:00.hyperlinks.json) |
-| [August 26 at 8:55 AM](https://archive.org/download/ap-2022/ap-2022-08-26T08:55:36.915920-04:00.hyperlinks.json) |
-| [August 26 at 6:49 AM](https://archive.org/download/ap-2022/ap-2022-08-26T06:49:21.951746-04:00.hyperlinks.json) |
-| [August 25 at 6:50 PM](https://archive.org/download/ap-2022/ap-2022-08-25T18:50:23.069828-04:00.hyperlinks.json) |
-| [August 25 at 5:15 PM](https://archive.org/download/ap-2022/ap-2022-08-25T17:15:28.523387-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 228 accessibility trees with the Internet Archive.
+The archiving routine has saved 232 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 28 at 6:49 PM](https://archive.org/download/ap-2022/ap-2022-08-28T18:49:11.466261-04:00.accessibility.json) |
+| [August 28 at 5:16 PM](https://archive.org/download/ap-2022/ap-2022-08-28T17:16:38.240544-04:00.accessibility.json) |
+| [August 28 at 8:56 AM](https://archive.org/download/ap-2022/ap-2022-08-28T08:56:16.974470-04:00.accessibility.json) |
+| [August 28 at 6:52 AM](https://archive.org/download/ap-2022/ap-2022-08-28T06:52:21.462745-04:00.accessibility.json) |
 | [August 27 at 6:52 PM](https://archive.org/download/ap-2022/ap-2022-08-27T18:51:58.716555-04:00.accessibility.json) |
 | [August 27 at 5:15 PM](https://archive.org/download/ap-2022/ap-2022-08-27T17:15:42.742707-04:00.accessibility.json) |
 | [August 27 at 8:52 AM](https://archive.org/download/ap-2022/ap-2022-08-27T08:52:25.719379-04:00.accessibility.json) |
 | [August 27 at 6:47 AM](https://archive.org/download/ap-2022/ap-2022-08-27T06:46:58.275696-04:00.accessibility.json) |
 | [August 26 at 6:48 PM](https://archive.org/download/ap-2022/ap-2022-08-26T18:48:49.258873-04:00.accessibility.json) |
 | [August 26 at 5:14 PM](https://archive.org/download/ap-2022/ap-2022-08-26T17:14:49.331931-04:00.accessibility.json) |
-| [August 26 at 8:55 AM](https://archive.org/download/ap-2022/ap-2022-08-26T08:55:36.915920-04:00.accessibility.json) |
-| [August 26 at 6:49 AM](https://archive.org/download/ap-2022/ap-2022-08-26T06:49:21.951746-04:00.accessibility.json) |
-| [August 25 at 6:50 PM](https://archive.org/download/ap-2022/ap-2022-08-25T18:50:23.069828-04:00.accessibility.json) |
-| [August 25 at 5:15 PM](https://archive.org/download/ap-2022/ap-2022-08-25T17:15:28.523387-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 136 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 140 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 28 at 6:49 PM](https://archive.org/download/ap-2022/ap-2022-08-28T18:49:11.466261-04:00.lighthouse.json) |
+| [August 28 at 5:16 PM](https://archive.org/download/ap-2022/ap-2022-08-28T17:16:38.240544-04:00.lighthouse.json) |
+| [August 28 at 8:56 AM](https://archive.org/download/ap-2022/ap-2022-08-28T08:56:16.974470-04:00.lighthouse.json) |
+| [August 28 at 6:52 AM](https://archive.org/download/ap-2022/ap-2022-08-28T06:52:21.462745-04:00.lighthouse.json) |
 | [August 27 at 6:52 PM](https://archive.org/download/ap-2022/ap-2022-08-27T18:51:58.716555-04:00.lighthouse.json) |
 | [August 27 at 5:15 PM](https://archive.org/download/ap-2022/ap-2022-08-27T17:15:42.742707-04:00.lighthouse.json) |
 | [August 27 at 8:52 AM](https://archive.org/download/ap-2022/ap-2022-08-27T08:52:25.719379-04:00.lighthouse.json) |
 | [August 27 at 6:47 AM](https://archive.org/download/ap-2022/ap-2022-08-27T06:46:58.275696-04:00.lighthouse.json) |
 | [August 26 at 6:49 PM](https://archive.org/download/ap-2022/ap-2022-08-26T18:48:49.258873-04:00.lighthouse.json) |
 | [August 26 at 5:15 PM](https://archive.org/download/ap-2022/ap-2022-08-26T17:14:49.331931-04:00.lighthouse.json) |
-| [August 26 at 8:55 AM](https://archive.org/download/ap-2022/ap-2022-08-26T08:55:36.915920-04:00.lighthouse.json) |
-| [August 26 at 6:49 AM](https://archive.org/download/ap-2022/ap-2022-08-26T06:49:21.951746-04:00.lighthouse.json) |
-| [August 25 at 6:50 PM](https://archive.org/download/ap-2022/ap-2022-08-25T18:50:23.069828-04:00.lighthouse.json) |
-| [August 25 at 5:15 PM](https://archive.org/download/ap-2022/ap-2022-08-25T17:15:28.523387-04:00.lighthouse.json) |
 
 
 

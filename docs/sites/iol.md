@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 12 screenshots with the Internet Archive.
+The archiving routine has saved 14 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/iol-2022/iol-2022-08-29T01:48:38.440395+02:00.jpg">
+  <img src="https://archive.org/download/iol-2022/iol-2022-08-29T01:48:38.440395+02:00.jpg"
+     alt="Independent Online at 2022-08-29 01:48:48+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/iol-2022/iol-2022-08-29T01:48:38.440395+02:00.jpg">August 29 at 1:48 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/iol-2022/iol-2022-08-28T13:59:20.412230+02:00.jpg">
+  <img src="https://archive.org/download/iol-2022/iol-2022-08-28T13:59:20.412230+02:00.jpg"
+     alt="Independent Online at 2022-08-28 13:59:21+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/iol-2022/iol-2022-08-28T13:59:20.412230+02:00.jpg">August 28 at 1:59 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/iol-2022/iol-2022-08-28T01:50:17.419375+02:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/iol-2022/iol-2022-08-23T13:55:56.807637+02:00.jpg">August 23 at 1:55 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/iol-2022/iol-2022-08-23T01:58:06.221542+02:00.jpg">
-  <img src="https://archive.org/download/iol-2022/iol-2022-08-23T01:58:06.221542+02:00.jpg"
-     alt="Independent Online at 2022-08-23 01:58:07+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/iol-2022/iol-2022-08-23T01:58:06.221542+02:00.jpg">August 23 at 1:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/iol-2022/iol-2022-08-23T00:03:08.695218+02:00.jpg">
-  <img src="https://archive.org/download/iol-2022/iol-2022-08-23T00:03:08.695218+02:00.jpg"
-     alt="Independent Online at 2022-08-23 00:03:14+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/iol-2022/iol-2022-08-23T00:03:08.695218+02:00.jpg">August 23 at 12:03 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 12 hyperlink lists with the Internet Archive.
+The archiving routine has saved 14 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 29 at 1:48 AM](https://archive.org/download/iol-2022/iol-2022-08-29T01:48:38.440395+02:00.hyperlinks.json) |
+| [August 28 at 1:59 PM](https://archive.org/download/iol-2022/iol-2022-08-28T13:59:20.412230+02:00.hyperlinks.json) |
 | [August 28 at 1:50 AM](https://archive.org/download/iol-2022/iol-2022-08-28T01:50:17.419375+02:00.hyperlinks.json) |
 | [August 27 at 1:52 PM](https://archive.org/download/iol-2022/iol-2022-08-27T13:52:41.251825+02:00.hyperlinks.json) |
 | [August 27 at 1:45 AM](https://archive.org/download/iol-2022/iol-2022-08-27T01:45:13.051319+02:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 25 at 2:02 PM](https://archive.org/download/iol-2022/iol-2022-08-25T14:02:21.501730+02:00.hyperlinks.json) |
 | [August 25 at 1:55 AM](https://archive.org/download/iol-2022/iol-2022-08-25T01:55:30.859791+02:00.hyperlinks.json) |
 | [August 24 at 1:51 PM](https://archive.org/download/iol-2022/iol-2022-08-24T13:51:54.581073+02:00.hyperlinks.json) |
-| [August 24 at 1:44 AM](https://archive.org/download/iol-2022/iol-2022-08-24T01:43:56.589072+02:00.hyperlinks.json) |
-| [August 23 at 1:56 PM](https://archive.org/download/iol-2022/iol-2022-08-23T13:55:56.807637+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 12 accessibility trees with the Internet Archive.
+The archiving routine has saved 14 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 29 at 1:48 AM](https://archive.org/download/iol-2022/iol-2022-08-29T01:48:38.440395+02:00.accessibility.json) |
+| [August 28 at 1:59 PM](https://archive.org/download/iol-2022/iol-2022-08-28T13:59:20.412230+02:00.accessibility.json) |
 | [August 28 at 1:50 AM](https://archive.org/download/iol-2022/iol-2022-08-28T01:50:17.419375+02:00.accessibility.json) |
 | [August 27 at 1:52 PM](https://archive.org/download/iol-2022/iol-2022-08-27T13:52:41.251825+02:00.accessibility.json) |
 | [August 27 at 1:45 AM](https://archive.org/download/iol-2022/iol-2022-08-27T01:45:13.051319+02:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [August 25 at 2:02 PM](https://archive.org/download/iol-2022/iol-2022-08-25T14:02:21.501730+02:00.accessibility.json) |
 | [August 25 at 1:55 AM](https://archive.org/download/iol-2022/iol-2022-08-25T01:55:30.859791+02:00.accessibility.json) |
 | [August 24 at 1:51 PM](https://archive.org/download/iol-2022/iol-2022-08-24T13:51:54.581073+02:00.accessibility.json) |
-| [August 24 at 1:44 AM](https://archive.org/download/iol-2022/iol-2022-08-24T01:43:56.589072+02:00.accessibility.json) |
-| [August 23 at 1:56 PM](https://archive.org/download/iol-2022/iol-2022-08-23T13:55:56.807637+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 29 at 1:48 AM](https://archive.org/download/iol-2022/iol-2022-08-29T01:48:38.440395+02:00.lighthouse.json) |
+| [August 28 at 1:59 PM](https://archive.org/download/iol-2022/iol-2022-08-28T13:59:20.412230+02:00.lighthouse.json) |
 | [August 28 at 1:50 AM](https://archive.org/download/iol-2022/iol-2022-08-28T01:50:17.419375+02:00.lighthouse.json) |
 | [August 27 at 1:52 PM](https://archive.org/download/iol-2022/iol-2022-08-27T13:52:41.251825+02:00.lighthouse.json) |
 | [August 27 at 1:45 AM](https://archive.org/download/iol-2022/iol-2022-08-27T01:45:13.051319+02:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 25 at 2:02 PM](https://archive.org/download/iol-2022/iol-2022-08-25T14:02:21.501730+02:00.lighthouse.json) |
 | [August 25 at 1:55 AM](https://archive.org/download/iol-2022/iol-2022-08-25T01:55:30.859791+02:00.lighthouse.json) |
 | [August 24 at 1:52 PM](https://archive.org/download/iol-2022/iol-2022-08-24T13:51:54.581073+02:00.lighthouse.json) |
-| [August 24 at 1:44 AM](https://archive.org/download/iol-2022/iol-2022-08-24T01:43:56.589072+02:00.lighthouse.json) |
-| [August 23 at 1:56 PM](https://archive.org/download/iol-2022/iol-2022-08-23T13:55:56.807637+02:00.lighthouse.json) |
 
 
 

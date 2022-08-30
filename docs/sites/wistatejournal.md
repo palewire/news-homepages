@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 245 screenshots with the Internet Archive.
+The archiving routine has saved 247 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-28T09:05:42.284369-05:00.jpg">
+  <img src="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-28T09:05:42.284369-05:00.jpg"
+     alt="Wisconsin State Journal at 2022-08-28 09:05:43-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-28T09:05:42.284369-05:00.jpg">August 28 at 9:05 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-27T21:30:18.008346-05:00.jpg">
+  <img src="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-27T21:30:18.008346-05:00.jpg"
+     alt="Wisconsin State Journal at 2022-08-27 21:30:19-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-27T21:30:18.008346-05:00.jpg">August 27 at 9:30 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-27T09:01:46.592402-05:00.jpg">
   <img src="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-27T09:01:46.592402-05:00.jpg"
      alt="Wisconsin State Journal at 2022-08-27 09:01:47-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-22T08:08:01.785224-05:00.jpg">August 22 at 8:08 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-21T20:17:44.454898-05:00.jpg">
-  <img src="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-21T20:17:44.454898-05:00.jpg"
-     alt="Wisconsin State Journal at 2022-08-21 20:17:46-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-21T20:17:44.454898-05:00.jpg">August 21 at 8:17 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-21T08:11:27.545820-05:00.jpg">
-  <img src="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-21T08:11:27.545820-05:00.jpg"
-     alt="Wisconsin State Journal at 2022-08-21 08:11:34-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-21T08:11:27.545820-05:00.jpg">August 21 at 8:11 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 232 hyperlink lists with the Internet Archive.
+The archiving routine has saved 234 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 28 at 9:05 AM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-28T09:05:42.284369-05:00.hyperlinks.json) |
+| [August 27 at 9:30 PM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-27T21:30:18.008346-05:00.hyperlinks.json) |
 | [August 27 at 9:01 AM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-27T09:01:46.592402-05:00.hyperlinks.json) |
 | [August 26 at 9:24 PM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-26T21:24:11.841753-05:00.hyperlinks.json) |
 | [August 26 at 9:08 AM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-26T09:08:19.641849-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 24 at 9:03 AM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-24T09:03:18.143844-05:00.hyperlinks.json) |
 | [August 23 at 9:20 PM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-23T21:20:02.159568-05:00.hyperlinks.json) |
 | [August 23 at 9:04 AM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-23T09:03:56.081894-05:00.hyperlinks.json) |
-| [August 22 at 8:29 PM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-22T20:29:05.755205-05:00.hyperlinks.json) |
-| [August 22 at 8:08 AM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-22T08:08:01.785224-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 230 accessibility trees with the Internet Archive.
+The archiving routine has saved 232 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 28 at 9:05 AM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-28T09:05:42.284369-05:00.accessibility.json) |
+| [August 27 at 9:30 PM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-27T21:30:18.008346-05:00.accessibility.json) |
 | [August 27 at 9:01 AM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-27T09:01:46.592402-05:00.accessibility.json) |
 | [August 26 at 9:24 PM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-26T21:24:11.841753-05:00.accessibility.json) |
 | [August 26 at 9:08 AM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-26T09:08:19.641849-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 24 at 9:03 AM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-24T09:03:18.143844-05:00.accessibility.json) |
 | [August 23 at 9:20 PM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-23T21:20:02.159568-05:00.accessibility.json) |
 | [August 23 at 9:04 AM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-23T09:03:56.081894-05:00.accessibility.json) |
-| [August 22 at 8:29 PM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-22T20:29:05.755205-05:00.accessibility.json) |
-| [August 22 at 8:08 AM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-22T08:08:01.785224-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 72 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 74 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 28 at 9:05 AM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-28T09:05:42.284369-05:00.lighthouse.json) |
+| [August 27 at 9:30 PM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-27T21:30:18.008346-05:00.lighthouse.json) |
 | [August 27 at 9:01 AM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-27T09:01:46.592402-05:00.lighthouse.json) |
 | [August 26 at 9:24 PM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-26T21:24:11.841753-05:00.lighthouse.json) |
 | [August 26 at 9:08 AM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-26T09:08:19.641849-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 24 at 9:03 AM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-24T09:03:18.143844-05:00.lighthouse.json) |
 | [August 23 at 9:20 PM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-23T21:20:02.159568-05:00.lighthouse.json) |
 | [August 23 at 9:04 AM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-23T09:03:56.081894-05:00.lighthouse.json) |
-| [August 22 at 8:29 PM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-22T20:29:05.755205-05:00.lighthouse.json) |
-| [August 22 at 8:08 AM](https://archive.org/download/wistatejournal-2022/wistatejournal-2022-08-22T08:08:01.785224-05:00.lighthouse.json) |
 
 
 

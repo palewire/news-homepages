@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 196 screenshots with the Internet Archive.
+The archiving routine has saved 200 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/time-2022/time-2022-08-28T17:16:36.596462-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-08-28T17:16:36.596462-04:00.jpg"
+     alt="TIME at 2022-08-28 17:16:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/time-2022/time-2022-08-28T17:16:36.596462-04:00.jpg">August 28 at 5:16 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/time-2022/time-2022-08-28T09:04:56.640784-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-08-28T09:04:56.640784-04:00.jpg"
+     alt="TIME at 2022-08-28 09:04:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/time-2022/time-2022-08-28T09:04:56.640784-04:00.jpg">August 28 at 9:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/time-2022/time-2022-08-28T08:55:51.156280-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-08-28T08:55:51.156280-04:00.jpg"
+     alt="TIME at 2022-08-28 08:55:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/time-2022/time-2022-08-28T08:55:51.156280-04:00.jpg">August 28 at 8:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/time-2022/time-2022-08-27T21:31:53.709719-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-08-27T21:31:53.709719-04:00.jpg"
+     alt="TIME at 2022-08-27 21:32:00-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/time-2022/time-2022-08-27T21:31:53.709719-04:00.jpg">August 27 at 9:32 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/time-2022/time-2022-08-27T17:15:47.444361-04:00.jpg">
   <img src="https://archive.org/download/time-2022/time-2022-08-27T17:15:47.444361-04:00.jpg"
      alt="TIME at 2022-08-27 17:15:54-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/time-2022/time-2022-08-25T21:18:16.954099-04:00.jpg">August 25 at 9:18 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/time-2022/time-2022-08-25T17:15:27.946445-04:00.jpg">
-  <img src="https://archive.org/download/time-2022/time-2022-08-25T17:15:27.946445-04:00.jpg"
-     alt="TIME at 2022-08-25 17:15:34-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-08-25T17:15:27.946445-04:00.jpg">August 25 at 5:15 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/time-2022/time-2022-08-25T09:07:44.227667-04:00.jpg">
-  <img src="https://archive.org/download/time-2022/time-2022-08-25T09:07:44.227667-04:00.jpg"
-     alt="TIME at 2022-08-25 09:07:46-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-08-25T09:07:44.227667-04:00.jpg">August 25 at 9:07 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/time-2022/time-2022-08-25T08:59:15.834790-04:00.jpg">
-  <img src="https://archive.org/download/time-2022/time-2022-08-25T08:59:15.834790-04:00.jpg"
-     alt="TIME at 2022-08-25 08:59:37-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-08-25T08:59:15.834790-04:00.jpg">August 25 at 8:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/time-2022/time-2022-08-24T17:14:41.181053-04:00.jpg">
-  <img src="https://archive.org/download/time-2022/time-2022-08-24T17:14:41.181053-04:00.jpg"
-     alt="TIME at 2022-08-24 17:14:43-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-08-24T17:14:41.181053-04:00.jpg">August 24 at 5:14 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 193 hyperlink lists with the Internet Archive.
+The archiving routine has saved 197 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 28 at 5:16 PM](https://archive.org/download/time-2022/time-2022-08-28T17:16:36.596462-04:00.hyperlinks.json) |
+| [August 28 at 9:05 AM](https://archive.org/download/time-2022/time-2022-08-28T09:04:56.640784-04:00.hyperlinks.json) |
+| [August 28 at 8:56 AM](https://archive.org/download/time-2022/time-2022-08-28T08:55:51.156280-04:00.hyperlinks.json) |
+| [August 27 at 9:32 PM](https://archive.org/download/time-2022/time-2022-08-27T21:31:53.709719-04:00.hyperlinks.json) |
 | [August 27 at 5:15 PM](https://archive.org/download/time-2022/time-2022-08-27T17:15:47.444361-04:00.hyperlinks.json) |
 | [August 27 at 9:00 AM](https://archive.org/download/time-2022/time-2022-08-27T09:00:49.705192-04:00.hyperlinks.json) |
 | [August 27 at 8:53 AM](https://archive.org/download/time-2022/time-2022-08-27T08:52:58.519400-04:00.hyperlinks.json) |
 | [August 26 at 9:11 PM](https://archive.org/download/time-2022/time-2022-08-26T21:11:00.792010-04:00.hyperlinks.json) |
 | [August 26 at 5:14 PM](https://archive.org/download/time-2022/time-2022-08-26T17:14:31.367183-04:00.hyperlinks.json) |
 | [August 26 at 9:05 AM](https://archive.org/download/time-2022/time-2022-08-26T09:04:58.223607-04:00.hyperlinks.json) |
-| [August 26 at 8:55 AM](https://archive.org/download/time-2022/time-2022-08-26T08:55:44.125467-04:00.hyperlinks.json) |
-| [August 25 at 9:18 PM](https://archive.org/download/time-2022/time-2022-08-25T21:18:16.954099-04:00.hyperlinks.json) |
-| [August 25 at 5:15 PM](https://archive.org/download/time-2022/time-2022-08-25T17:15:27.946445-04:00.hyperlinks.json) |
-| [August 25 at 9:07 AM](https://archive.org/download/time-2022/time-2022-08-25T09:07:44.227667-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 196 accessibility trees with the Internet Archive.
+The archiving routine has saved 200 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 28 at 5:16 PM](https://archive.org/download/time-2022/time-2022-08-28T17:16:36.596462-04:00.accessibility.json) |
+| [August 28 at 9:05 AM](https://archive.org/download/time-2022/time-2022-08-28T09:04:56.640784-04:00.accessibility.json) |
+| [August 28 at 8:55 AM](https://archive.org/download/time-2022/time-2022-08-28T08:55:51.156280-04:00.accessibility.json) |
+| [August 27 at 9:32 PM](https://archive.org/download/time-2022/time-2022-08-27T21:31:53.709719-04:00.accessibility.json) |
 | [August 27 at 5:15 PM](https://archive.org/download/time-2022/time-2022-08-27T17:15:47.444361-04:00.accessibility.json) |
 | [August 27 at 9:00 AM](https://archive.org/download/time-2022/time-2022-08-27T09:00:49.705192-04:00.accessibility.json) |
 | [August 27 at 8:53 AM](https://archive.org/download/time-2022/time-2022-08-27T08:52:58.519400-04:00.accessibility.json) |
 | [August 26 at 9:11 PM](https://archive.org/download/time-2022/time-2022-08-26T21:11:00.792010-04:00.accessibility.json) |
 | [August 26 at 5:14 PM](https://archive.org/download/time-2022/time-2022-08-26T17:14:31.367183-04:00.accessibility.json) |
 | [August 26 at 9:05 AM](https://archive.org/download/time-2022/time-2022-08-26T09:04:58.223607-04:00.accessibility.json) |
-| [August 26 at 8:55 AM](https://archive.org/download/time-2022/time-2022-08-26T08:55:44.125467-04:00.accessibility.json) |
-| [August 25 at 9:18 PM](https://archive.org/download/time-2022/time-2022-08-25T21:18:16.954099-04:00.accessibility.json) |
-| [August 25 at 5:15 PM](https://archive.org/download/time-2022/time-2022-08-25T17:15:27.946445-04:00.accessibility.json) |
-| [August 25 at 9:07 AM](https://archive.org/download/time-2022/time-2022-08-25T09:07:44.227667-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 123 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 127 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 28 at 5:16 PM](https://archive.org/download/time-2022/time-2022-08-28T17:16:36.596462-04:00.lighthouse.json) |
+| [August 28 at 9:05 AM](https://archive.org/download/time-2022/time-2022-08-28T09:04:56.640784-04:00.lighthouse.json) |
+| [August 28 at 8:56 AM](https://archive.org/download/time-2022/time-2022-08-28T08:55:51.156280-04:00.lighthouse.json) |
+| [August 27 at 9:32 PM](https://archive.org/download/time-2022/time-2022-08-27T21:31:53.709719-04:00.lighthouse.json) |
 | [August 27 at 5:15 PM](https://archive.org/download/time-2022/time-2022-08-27T17:15:47.444361-04:00.lighthouse.json) |
 | [August 27 at 9:00 AM](https://archive.org/download/time-2022/time-2022-08-27T09:00:49.705192-04:00.lighthouse.json) |
 | [August 27 at 8:53 AM](https://archive.org/download/time-2022/time-2022-08-27T08:52:58.519400-04:00.lighthouse.json) |
 | [August 26 at 9:11 PM](https://archive.org/download/time-2022/time-2022-08-26T21:11:00.792010-04:00.lighthouse.json) |
 | [August 26 at 5:14 PM](https://archive.org/download/time-2022/time-2022-08-26T17:14:31.367183-04:00.lighthouse.json) |
 | [August 26 at 9:05 AM](https://archive.org/download/time-2022/time-2022-08-26T09:04:58.223607-04:00.lighthouse.json) |
-| [August 26 at 8:55 AM](https://archive.org/download/time-2022/time-2022-08-26T08:55:44.125467-04:00.lighthouse.json) |
-| [August 25 at 9:18 PM](https://archive.org/download/time-2022/time-2022-08-25T21:18:16.954099-04:00.lighthouse.json) |
-| [August 25 at 5:15 PM](https://archive.org/download/time-2022/time-2022-08-25T17:15:27.946445-04:00.lighthouse.json) |
-| [August 25 at 9:07 AM](https://archive.org/download/time-2022/time-2022-08-25T09:07:44.227667-04:00.lighthouse.json) |
 
 
 

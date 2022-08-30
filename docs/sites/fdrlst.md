@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 123 screenshots with the Internet Archive.
+The archiving routine has saved 126 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-08-28T19:46:39.990327-04:00.jpg">
+  <img src="https://archive.org/download/fdrlst-2022/fdrlst-2022-08-28T19:46:39.990327-04:00.jpg"
+     alt="Federalist at 2022-08-28 19:46:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-08-28T19:46:39.990327-04:00.jpg">August 28 at 7:46 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-08-28T14:29:51.570095-04:00.jpg">
+  <img src="https://archive.org/download/fdrlst-2022/fdrlst-2022-08-28T14:29:51.570095-04:00.jpg"
+     alt="Federalist at 2022-08-28 14:29:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-08-28T14:29:51.570095-04:00.jpg">August 28 at 2:29 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-08-28T07:56:14.788183-04:00.jpg">
+  <img src="https://archive.org/download/fdrlst-2022/fdrlst-2022-08-28T07:56:14.788183-04:00.jpg"
+     alt="Federalist at 2022-08-28 07:56:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-08-28T07:56:14.788183-04:00.jpg">August 28 at 7:56 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-08-27T19:48:15.155239-04:00.jpg">
   <img src="https://archive.org/download/fdrlst-2022/fdrlst-2022-08-27T19:48:15.155239-04:00.jpg"
      alt="Federalist at 2022-08-27 19:48:20-04:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-08-25T07:59:27.118296-04:00.jpg">August 25 at 7:59 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-08-24T19:53:52.233547-04:00.jpg">
-  <img src="https://archive.org/download/fdrlst-2022/fdrlst-2022-08-24T19:53:52.233547-04:00.jpg"
-     alt="Federalist at 2022-08-24 19:53:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-08-24T19:53:52.233547-04:00.jpg">August 24 at 7:53 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-08-24T14:37:08.152002-04:00.jpg">
-  <img src="https://archive.org/download/fdrlst-2022/fdrlst-2022-08-24T14:37:08.152002-04:00.jpg"
-     alt="Federalist at 2022-08-24 14:37:09-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-08-24T14:37:08.152002-04:00.jpg">August 24 at 2:37 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-08-24T07:49:13.402777-04:00.jpg">
-  <img src="https://archive.org/download/fdrlst-2022/fdrlst-2022-08-24T07:49:13.402777-04:00.jpg"
-     alt="Federalist at 2022-08-24 07:49:17-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fdrlst-2022/fdrlst-2022-08-24T07:49:13.402777-04:00.jpg">August 24 at 7:49 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 123 hyperlink lists with the Internet Archive.
+The archiving routine has saved 126 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 28 at 7:46 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-28T19:46:39.990327-04:00.hyperlinks.json) |
+| [August 28 at 2:29 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-28T14:29:51.570095-04:00.hyperlinks.json) |
+| [August 28 at 7:56 AM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-28T07:56:14.788183-04:00.hyperlinks.json) |
 | [August 27 at 7:48 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-27T19:48:15.155239-04:00.hyperlinks.json) |
 | [August 27 at 2:30 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-27T14:30:12.540754-04:00.hyperlinks.json) |
 | [August 27 at 7:50 AM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-27T07:50:24.264317-04:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 26 at 2:29 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-26T14:29:47.561198-04:00.hyperlinks.json) |
 | [August 26 at 7:55 AM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-26T07:55:08.010201-04:00.hyperlinks.json) |
 | [August 25 at 8:01 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-25T20:01:38.024407-04:00.hyperlinks.json) |
-| [August 25 at 2:28 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-25T14:28:27.941574-04:00.hyperlinks.json) |
-| [August 25 at 7:59 AM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-25T07:59:27.118296-04:00.hyperlinks.json) |
-| [August 24 at 7:53 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-24T19:53:52.233547-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 123 accessibility trees with the Internet Archive.
+The archiving routine has saved 126 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 28 at 7:46 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-28T19:46:39.990327-04:00.accessibility.json) |
+| [August 28 at 2:29 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-28T14:29:51.570095-04:00.accessibility.json) |
+| [August 28 at 7:56 AM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-28T07:56:14.788183-04:00.accessibility.json) |
 | [August 27 at 7:48 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-27T19:48:15.155239-04:00.accessibility.json) |
 | [August 27 at 2:30 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-27T14:30:12.540754-04:00.accessibility.json) |
 | [August 27 at 7:50 AM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-27T07:50:24.264317-04:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 26 at 2:29 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-26T14:29:47.561198-04:00.accessibility.json) |
 | [August 26 at 7:55 AM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-26T07:55:08.010201-04:00.accessibility.json) |
 | [August 25 at 8:01 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-25T20:01:38.024407-04:00.accessibility.json) |
-| [August 25 at 2:28 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-25T14:28:27.941574-04:00.accessibility.json) |
-| [August 25 at 7:59 AM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-25T07:59:27.118296-04:00.accessibility.json) |
-| [August 24 at 7:53 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-24T19:53:52.233547-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 105 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 108 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 28 at 7:46 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-28T19:46:39.990327-04:00.lighthouse.json) |
+| [August 28 at 2:29 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-28T14:29:51.570095-04:00.lighthouse.json) |
+| [August 28 at 7:56 AM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-28T07:56:14.788183-04:00.lighthouse.json) |
 | [August 27 at 7:48 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-27T19:48:15.155239-04:00.lighthouse.json) |
 | [August 27 at 2:30 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-27T14:30:12.540754-04:00.lighthouse.json) |
 | [August 27 at 7:50 AM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-27T07:50:24.264317-04:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 26 at 2:29 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-26T14:29:47.561198-04:00.lighthouse.json) |
 | [August 26 at 7:55 AM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-26T07:55:08.010201-04:00.lighthouse.json) |
 | [August 25 at 8:01 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-25T20:01:38.024407-04:00.lighthouse.json) |
-| [August 25 at 2:28 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-25T14:28:27.941574-04:00.lighthouse.json) |
-| [August 25 at 7:59 AM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-25T07:59:27.118296-04:00.lighthouse.json) |
-| [August 24 at 7:53 PM](https://archive.org/download/fdrlst-2022/fdrlst-2022-08-24T19:53:52.233547-04:00.lighthouse.json) |
 
 
 

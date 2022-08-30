@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 67 screenshots with the Internet Archive.
+The archiving routine has saved 69 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/blaw-2022/blaw-2022-08-28T18:50:41.129885-04:00.jpg">
+  <img src="https://archive.org/download/blaw-2022/blaw-2022-08-28T18:50:41.129885-04:00.jpg"
+     alt="Bloomberg Law at 2022-08-28 18:50:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/blaw-2022/blaw-2022-08-28T18:50:41.129885-04:00.jpg">August 28 at 6:50 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/blaw-2022/blaw-2022-08-28T06:53:47.910876-04:00.jpg">
+  <img src="https://archive.org/download/blaw-2022/blaw-2022-08-28T06:53:47.910876-04:00.jpg"
+     alt="Bloomberg Law at 2022-08-28 06:53:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/blaw-2022/blaw-2022-08-28T06:53:47.910876-04:00.jpg">August 28 at 6:53 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/blaw-2022/blaw-2022-08-27T18:53:46.348343-04:00.jpg">
   <img src="https://archive.org/download/blaw-2022/blaw-2022-08-27T18:53:46.348343-04:00.jpg"
      alt="Bloomberg Law at 2022-08-27 18:53:48-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/blaw-2022/blaw-2022-08-23T06:58:57.549304-04:00.jpg">August 23 at 6:58 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/blaw-2022/blaw-2022-08-22T18:56:09.774584-04:00.jpg">
-  <img src="https://archive.org/download/blaw-2022/blaw-2022-08-22T18:56:09.774584-04:00.jpg"
-     alt="Bloomberg Law at 2022-08-22 18:56:11-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/blaw-2022/blaw-2022-08-22T18:56:09.774584-04:00.jpg">August 22 at 6:56 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/blaw-2022/blaw-2022-08-22T06:55:14.834802-04:00.jpg">
-  <img src="https://archive.org/download/blaw-2022/blaw-2022-08-22T06:55:14.834802-04:00.jpg"
-     alt="Bloomberg Law at 2022-08-22 06:55:16-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/blaw-2022/blaw-2022-08-22T06:55:14.834802-04:00.jpg">August 22 at 6:55 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 67 hyperlink lists with the Internet Archive.
+The archiving routine has saved 69 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 28 at 6:50 PM](https://archive.org/download/blaw-2022/blaw-2022-08-28T18:50:41.129885-04:00.hyperlinks.json) |
+| [August 28 at 6:53 AM](https://archive.org/download/blaw-2022/blaw-2022-08-28T06:53:47.910876-04:00.hyperlinks.json) |
 | [August 27 at 6:53 PM](https://archive.org/download/blaw-2022/blaw-2022-08-27T18:53:46.348343-04:00.hyperlinks.json) |
 | [August 27 at 6:48 AM](https://archive.org/download/blaw-2022/blaw-2022-08-27T06:48:28.104909-04:00.hyperlinks.json) |
 | [August 26 at 6:50 PM](https://archive.org/download/blaw-2022/blaw-2022-08-26T18:50:37.016972-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 25 at 6:54 AM](https://archive.org/download/blaw-2022/blaw-2022-08-25T06:54:36.771709-04:00.hyperlinks.json) |
 | [August 24 at 6:54 PM](https://archive.org/download/blaw-2022/blaw-2022-08-24T18:54:28.952310-04:00.hyperlinks.json) |
 | [August 24 at 6:47 AM](https://archive.org/download/blaw-2022/blaw-2022-08-24T06:47:10.102442-04:00.hyperlinks.json) |
-| [August 23 at 6:57 PM](https://archive.org/download/blaw-2022/blaw-2022-08-23T18:57:27.117052-04:00.hyperlinks.json) |
-| [August 23 at 6:59 AM](https://archive.org/download/blaw-2022/blaw-2022-08-23T06:58:57.549304-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 67 accessibility trees with the Internet Archive.
+The archiving routine has saved 69 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 28 at 6:50 PM](https://archive.org/download/blaw-2022/blaw-2022-08-28T18:50:41.129885-04:00.accessibility.json) |
+| [August 28 at 6:53 AM](https://archive.org/download/blaw-2022/blaw-2022-08-28T06:53:47.910876-04:00.accessibility.json) |
 | [August 27 at 6:53 PM](https://archive.org/download/blaw-2022/blaw-2022-08-27T18:53:46.348343-04:00.accessibility.json) |
 | [August 27 at 6:48 AM](https://archive.org/download/blaw-2022/blaw-2022-08-27T06:48:28.104909-04:00.accessibility.json) |
 | [August 26 at 6:50 PM](https://archive.org/download/blaw-2022/blaw-2022-08-26T18:50:37.016972-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 25 at 6:54 AM](https://archive.org/download/blaw-2022/blaw-2022-08-25T06:54:36.771709-04:00.accessibility.json) |
 | [August 24 at 6:54 PM](https://archive.org/download/blaw-2022/blaw-2022-08-24T18:54:28.952310-04:00.accessibility.json) |
 | [August 24 at 6:47 AM](https://archive.org/download/blaw-2022/blaw-2022-08-24T06:47:10.102442-04:00.accessibility.json) |
-| [August 23 at 6:57 PM](https://archive.org/download/blaw-2022/blaw-2022-08-23T18:57:27.117052-04:00.accessibility.json) |
-| [August 23 at 6:59 AM](https://archive.org/download/blaw-2022/blaw-2022-08-23T06:58:57.549304-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 67 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 69 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 28 at 6:50 PM](https://archive.org/download/blaw-2022/blaw-2022-08-28T18:50:41.129885-04:00.lighthouse.json) |
+| [August 28 at 6:54 AM](https://archive.org/download/blaw-2022/blaw-2022-08-28T06:53:47.910876-04:00.lighthouse.json) |
 | [August 27 at 6:53 PM](https://archive.org/download/blaw-2022/blaw-2022-08-27T18:53:46.348343-04:00.lighthouse.json) |
 | [August 27 at 6:48 AM](https://archive.org/download/blaw-2022/blaw-2022-08-27T06:48:28.104909-04:00.lighthouse.json) |
 | [August 26 at 6:50 PM](https://archive.org/download/blaw-2022/blaw-2022-08-26T18:50:37.016972-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 25 at 6:54 AM](https://archive.org/download/blaw-2022/blaw-2022-08-25T06:54:36.771709-04:00.lighthouse.json) |
 | [August 24 at 6:54 PM](https://archive.org/download/blaw-2022/blaw-2022-08-24T18:54:28.952310-04:00.lighthouse.json) |
 | [August 24 at 6:47 AM](https://archive.org/download/blaw-2022/blaw-2022-08-24T06:47:10.102442-04:00.lighthouse.json) |
-| [August 23 at 6:57 PM](https://archive.org/download/blaw-2022/blaw-2022-08-23T18:57:27.117052-04:00.lighthouse.json) |
-| [August 23 at 6:59 AM](https://archive.org/download/blaw-2022/blaw-2022-08-23T06:58:57.549304-04:00.lighthouse.json) |
 
 
 

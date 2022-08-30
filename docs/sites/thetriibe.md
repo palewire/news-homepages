@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 215 screenshots with the Internet Archive.
+The archiving routine has saved 218 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-28T10:57:22.664100-05:00.jpg">
+  <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-28T10:57:22.664100-05:00.jpg"
+     alt="The TriiBE at 2022-08-28 10:57:24-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-28T10:57:22.664100-05:00.jpg">August 28 at 10:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-28T08:03:22.562132-05:00.jpg">
+  <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-28T08:03:22.562132-05:00.jpg"
+     alt="The TriiBE at 2022-08-28 08:03:26-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-28T08:03:22.562132-05:00.jpg">August 28 at 8:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-27T20:32:17.361905-05:00.jpg">
+  <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-27T20:32:17.361905-05:00.jpg"
+     alt="The TriiBE at 2022-08-27 20:32:19-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-27T20:32:17.361905-05:00.jpg">August 27 at 8:32 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-27T10:54:44.162462-05:00.jpg">
   <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-27T10:54:44.162462-05:00.jpg"
      alt="The TriiBE at 2022-08-27 10:54:45-05:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-24T11:07:19.897662-05:00.jpg">August 24 at 11:07 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-24T07:59:08.045399-05:00.jpg">
-  <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-24T07:59:08.045399-05:00.jpg"
-     alt="The TriiBE at 2022-08-24 07:59:10-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-24T07:59:08.045399-05:00.jpg">August 24 at 7:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-23T20:11:30.918121-05:00.jpg">
-  <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-23T20:11:30.918121-05:00.jpg"
-     alt="The TriiBE at 2022-08-23 20:11:32-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-23T20:11:30.918121-05:00.jpg">August 23 at 8:11 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-23T11:01:27.992503-05:00.jpg">
-  <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-23T11:01:27.992503-05:00.jpg"
-     alt="The TriiBE at 2022-08-23 11:01:29-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-23T11:01:27.992503-05:00.jpg">August 23 at 11:01 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 218 hyperlink lists with the Internet Archive.
+The archiving routine has saved 221 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 28 at 10:57 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-28T10:57:22.664100-05:00.hyperlinks.json) |
+| [August 28 at 8:03 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-28T08:03:22.562132-05:00.hyperlinks.json) |
+| [August 27 at 8:32 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-27T20:32:17.361905-05:00.hyperlinks.json) |
 | [August 27 at 10:54 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-27T10:54:44.162462-05:00.hyperlinks.json) |
 | [August 27 at 8:00 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-27T08:00:01.611254-05:00.hyperlinks.json) |
 | [August 26 at 8:11 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-26T20:11:28.586513-05:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 26 at 8:04 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-26T08:04:37.513901-05:00.hyperlinks.json) |
 | [August 25 at 8:18 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-25T20:18:04.170691-05:00.hyperlinks.json) |
 | [August 25 at 10:59 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-25T10:59:29.697447-05:00.hyperlinks.json) |
-| [August 25 at 8:08 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-25T08:07:48.939296-05:00.hyperlinks.json) |
-| [August 24 at 11:07 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-24T11:07:19.897662-05:00.hyperlinks.json) |
-| [August 24 at 7:59 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-24T07:59:08.045399-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 217 accessibility trees with the Internet Archive.
+The archiving routine has saved 220 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 28 at 10:57 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-28T10:57:22.664100-05:00.accessibility.json) |
+| [August 28 at 8:03 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-28T08:03:22.562132-05:00.accessibility.json) |
+| [August 27 at 8:32 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-27T20:32:17.361905-05:00.accessibility.json) |
 | [August 27 at 10:54 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-27T10:54:44.162462-05:00.accessibility.json) |
 | [August 26 at 8:11 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-26T20:11:28.586513-05:00.accessibility.json) |
 | [August 26 at 11:03 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-26T11:02:52.760032-05:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 25 at 8:18 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-25T20:18:04.170691-05:00.accessibility.json) |
 | [August 25 at 10:59 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-25T10:59:29.697447-05:00.accessibility.json) |
 | [August 25 at 8:08 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-25T08:07:48.939296-05:00.accessibility.json) |
-| [August 24 at 11:07 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-24T11:07:19.897662-05:00.accessibility.json) |
-| [August 24 at 7:59 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-24T07:59:08.045399-05:00.accessibility.json) |
-| [August 23 at 8:11 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-23T20:11:30.918121-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 104 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 107 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 28 at 10:57 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-28T10:57:22.664100-05:00.lighthouse.json) |
+| [August 28 at 8:03 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-28T08:03:22.562132-05:00.lighthouse.json) |
+| [August 27 at 8:32 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-27T20:32:17.361905-05:00.lighthouse.json) |
 | [August 27 at 10:54 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-27T10:54:44.162462-05:00.lighthouse.json) |
 | [August 27 at 8:00 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-27T08:00:01.611254-05:00.lighthouse.json) |
 | [August 26 at 8:11 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-26T20:11:28.586513-05:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 26 at 8:04 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-26T08:04:37.513901-05:00.lighthouse.json) |
 | [August 25 at 8:18 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-25T20:18:04.170691-05:00.lighthouse.json) |
 | [August 25 at 10:59 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-25T10:59:29.697447-05:00.lighthouse.json) |
-| [August 25 at 8:08 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-25T08:07:48.939296-05:00.lighthouse.json) |
-| [August 24 at 11:07 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-24T11:07:19.897662-05:00.lighthouse.json) |
-| [August 24 at 7:59 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-24T07:59:08.045399-05:00.lighthouse.json) |
 
 
 

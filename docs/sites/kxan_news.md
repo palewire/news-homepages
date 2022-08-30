@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 84 screenshots with the Internet Archive.
+The archiving routine has saved 86 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kxan_news-2022/kxan_news-2022-08-28T18:48:44.908975-05:00.jpg">
+  <img src="https://archive.org/download/kxan_news-2022/kxan_news-2022-08-28T18:48:44.908975-05:00.jpg"
+     alt="KXAN at 2022-08-28 18:48:50-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kxan_news-2022/kxan_news-2022-08-28T18:48:44.908975-05:00.jpg">August 28 at 6:48 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kxan_news-2022/kxan_news-2022-08-28T07:00:51.524828-05:00.jpg">
+  <img src="https://archive.org/download/kxan_news-2022/kxan_news-2022-08-28T07:00:51.524828-05:00.jpg"
+     alt="KXAN at 2022-08-28 07:00:53-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kxan_news-2022/kxan_news-2022-08-28T07:00:51.524828-05:00.jpg">August 28 at 7:00 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kxan_news-2022/kxan_news-2022-08-27T18:50:52.436816-05:00.jpg">
   <img src="https://archive.org/download/kxan_news-2022/kxan_news-2022-08-27T18:50:52.436816-05:00.jpg"
      alt="KXAN at 2022-08-27 18:51:04-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kxan_news-2022/kxan_news-2022-08-23T06:58:09.911319-05:00.jpg">August 23 at 6:58 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kxan_news-2022/kxan_news-2022-08-22T18:59:16.838720-05:00.jpg">
-  <img src="https://archive.org/download/kxan_news-2022/kxan_news-2022-08-22T18:59:16.838720-05:00.jpg"
-     alt="KXAN at 2022-08-22 18:59:20-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kxan_news-2022/kxan_news-2022-08-22T18:59:16.838720-05:00.jpg">August 22 at 6:59 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kxan_news-2022/kxan_news-2022-08-22T06:57:57.252751-05:00.jpg">
-  <img src="https://archive.org/download/kxan_news-2022/kxan_news-2022-08-22T06:57:57.252751-05:00.jpg"
-     alt="KXAN at 2022-08-22 06:58:00-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kxan_news-2022/kxan_news-2022-08-22T06:57:57.252751-05:00.jpg">August 22 at 6:58 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 84 hyperlink lists with the Internet Archive.
+The archiving routine has saved 86 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 28 at 6:48 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-28T18:48:44.908975-05:00.hyperlinks.json) |
+| [August 28 at 7:00 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-28T07:00:51.524828-05:00.hyperlinks.json) |
 | [August 27 at 6:51 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-27T18:50:52.436816-05:00.hyperlinks.json) |
 | [August 27 at 6:54 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-27T06:54:37.405803-05:00.hyperlinks.json) |
 | [August 26 at 6:45 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-26T18:45:34.197809-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 25 at 7:03 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-25T07:03:32.517977-05:00.hyperlinks.json) |
 | [August 24 at 6:56 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-24T18:56:11.394285-05:00.hyperlinks.json) |
 | [August 24 at 6:53 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-24T06:53:03.222498-05:00.hyperlinks.json) |
-| [August 23 at 6:45 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-23T18:45:08.942970-05:00.hyperlinks.json) |
-| [August 23 at 6:58 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-23T06:58:09.911319-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 84 accessibility trees with the Internet Archive.
+The archiving routine has saved 86 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 28 at 6:48 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-28T18:48:44.908975-05:00.accessibility.json) |
+| [August 28 at 7:00 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-28T07:00:51.524828-05:00.accessibility.json) |
 | [August 27 at 6:51 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-27T18:50:52.436816-05:00.accessibility.json) |
 | [August 27 at 6:54 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-27T06:54:37.405803-05:00.accessibility.json) |
 | [August 26 at 6:45 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-26T18:45:34.197809-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 25 at 7:03 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-25T07:03:32.517977-05:00.accessibility.json) |
 | [August 24 at 6:56 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-24T18:56:11.394285-05:00.accessibility.json) |
 | [August 24 at 6:53 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-24T06:53:03.222498-05:00.accessibility.json) |
-| [August 23 at 6:45 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-23T18:45:08.942970-05:00.accessibility.json) |
-| [August 23 at 6:58 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-23T06:58:09.911319-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 72 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 74 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 28 at 6:48 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-28T18:48:44.908975-05:00.lighthouse.json) |
+| [August 28 at 7:00 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-28T07:00:51.524828-05:00.lighthouse.json) |
 | [August 27 at 6:51 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-27T18:50:52.436816-05:00.lighthouse.json) |
 | [August 27 at 6:54 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-27T06:54:37.405803-05:00.lighthouse.json) |
 | [August 26 at 6:45 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-26T18:45:34.197809-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 25 at 7:03 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-25T07:03:32.517977-05:00.lighthouse.json) |
 | [August 24 at 6:56 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-24T18:56:11.394285-05:00.lighthouse.json) |
 | [August 24 at 6:53 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-24T06:53:03.222498-05:00.lighthouse.json) |
-| [August 23 at 6:45 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-23T18:45:08.942970-05:00.lighthouse.json) |
-| [August 23 at 6:58 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-23T06:58:09.911319-05:00.lighthouse.json) |
 
 
 

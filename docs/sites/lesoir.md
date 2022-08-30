@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 63 screenshots with the Internet Archive.
+The archiving routine has saved 65 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/lesoir-2022/lesoir-2022-08-28T16:58:31.742346+02:00.jpg">
+  <img src="https://archive.org/download/lesoir-2022/lesoir-2022-08-28T16:58:31.742346+02:00.jpg"
+     alt="Le Soir at 2022-08-28 16:58:36+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lesoir-2022/lesoir-2022-08-28T16:58:31.742346+02:00.jpg">August 28 at 4:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lesoir-2022/lesoir-2022-08-28T05:42:43.192737+02:00.jpg">
+  <img src="https://archive.org/download/lesoir-2022/lesoir-2022-08-28T05:42:43.192737+02:00.jpg"
+     alt="Le Soir at 2022-08-28 05:42:44+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lesoir-2022/lesoir-2022-08-28T05:42:43.192737+02:00.jpg">August 28 at 5:42 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/lesoir-2022/lesoir-2022-08-27T16:53:37.069660+02:00.jpg">
   <img src="https://archive.org/download/lesoir-2022/lesoir-2022-08-27T16:53:37.069660+02:00.jpg"
      alt="Le Soir at 2022-08-27 16:53:41+02:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lesoir-2022/lesoir-2022-08-22T16:11:02.867185+02:00.jpg">August 22 at 4:11 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lesoir-2022/lesoir-2022-08-22T04:28:27.540930+02:00.jpg">
-  <img src="https://archive.org/download/lesoir-2022/lesoir-2022-08-22T04:28:27.540930+02:00.jpg"
-     alt="Le Soir at 2022-08-22 04:28:31+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lesoir-2022/lesoir-2022-08-22T04:28:27.540930+02:00.jpg">August 22 at 4:28 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lesoir-2022/lesoir-2022-08-21T16:06:27.227730+02:00.jpg">
-  <img src="https://archive.org/download/lesoir-2022/lesoir-2022-08-21T16:06:27.227730+02:00.jpg"
-     alt="Le Soir at 2022-08-21 16:06:31+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lesoir-2022/lesoir-2022-08-21T16:06:27.227730+02:00.jpg">August 21 at 4:06 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 65 hyperlink lists with the Internet Archive.
+The archiving routine has saved 67 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 28 at 4:58 PM](https://archive.org/download/lesoir-2022/lesoir-2022-08-28T16:58:31.742346+02:00.hyperlinks.json) |
+| [August 28 at 5:42 AM](https://archive.org/download/lesoir-2022/lesoir-2022-08-28T05:42:43.192737+02:00.hyperlinks.json) |
 | [August 27 at 4:53 PM](https://archive.org/download/lesoir-2022/lesoir-2022-08-27T16:53:37.069660+02:00.hyperlinks.json) |
 | [August 27 at 5:38 AM](https://archive.org/download/lesoir-2022/lesoir-2022-08-27T05:38:52.079191+02:00.hyperlinks.json) |
 | [August 26 at 5:00 PM](https://archive.org/download/lesoir-2022/lesoir-2022-08-26T17:00:48.907320+02:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 24 at 5:02 PM](https://archive.org/download/lesoir-2022/lesoir-2022-08-24T17:02:51.702078+02:00.hyperlinks.json) |
 | [August 24 at 5:41 AM](https://archive.org/download/lesoir-2022/lesoir-2022-08-24T05:41:12.145472+02:00.hyperlinks.json) |
 | [August 23 at 4:55 PM](https://archive.org/download/lesoir-2022/lesoir-2022-08-23T16:55:38.135033+02:00.hyperlinks.json) |
-| [August 23 at 4:29 AM](https://archive.org/download/lesoir-2022/lesoir-2022-08-23T04:29:36.180122+02:00.hyperlinks.json) |
-| [August 22 at 4:11 PM](https://archive.org/download/lesoir-2022/lesoir-2022-08-22T16:11:02.867185+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 65 accessibility trees with the Internet Archive.
+The archiving routine has saved 67 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 28 at 4:58 PM](https://archive.org/download/lesoir-2022/lesoir-2022-08-28T16:58:31.742346+02:00.accessibility.json) |
+| [August 28 at 5:42 AM](https://archive.org/download/lesoir-2022/lesoir-2022-08-28T05:42:43.192737+02:00.accessibility.json) |
 | [August 27 at 4:53 PM](https://archive.org/download/lesoir-2022/lesoir-2022-08-27T16:53:37.069660+02:00.accessibility.json) |
 | [August 27 at 5:38 AM](https://archive.org/download/lesoir-2022/lesoir-2022-08-27T05:38:52.079191+02:00.accessibility.json) |
 | [August 26 at 5:00 PM](https://archive.org/download/lesoir-2022/lesoir-2022-08-26T17:00:48.907320+02:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 24 at 5:02 PM](https://archive.org/download/lesoir-2022/lesoir-2022-08-24T17:02:51.702078+02:00.accessibility.json) |
 | [August 24 at 5:41 AM](https://archive.org/download/lesoir-2022/lesoir-2022-08-24T05:41:12.145472+02:00.accessibility.json) |
 | [August 23 at 4:55 PM](https://archive.org/download/lesoir-2022/lesoir-2022-08-23T16:55:38.135033+02:00.accessibility.json) |
-| [August 23 at 4:29 AM](https://archive.org/download/lesoir-2022/lesoir-2022-08-23T04:29:36.180122+02:00.accessibility.json) |
-| [August 22 at 4:11 PM](https://archive.org/download/lesoir-2022/lesoir-2022-08-22T16:11:02.867185+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 65 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 67 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 28 at 4:58 PM](https://archive.org/download/lesoir-2022/lesoir-2022-08-28T16:58:31.742346+02:00.lighthouse.json) |
+| [August 28 at 5:42 AM](https://archive.org/download/lesoir-2022/lesoir-2022-08-28T05:42:43.192737+02:00.lighthouse.json) |
 | [August 27 at 4:53 PM](https://archive.org/download/lesoir-2022/lesoir-2022-08-27T16:53:37.069660+02:00.lighthouse.json) |
 | [August 27 at 5:39 AM](https://archive.org/download/lesoir-2022/lesoir-2022-08-27T05:38:52.079191+02:00.lighthouse.json) |
 | [August 26 at 5:00 PM](https://archive.org/download/lesoir-2022/lesoir-2022-08-26T17:00:48.907320+02:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 24 at 5:02 PM](https://archive.org/download/lesoir-2022/lesoir-2022-08-24T17:02:51.702078+02:00.lighthouse.json) |
 | [August 24 at 5:41 AM](https://archive.org/download/lesoir-2022/lesoir-2022-08-24T05:41:12.145472+02:00.lighthouse.json) |
 | [August 23 at 4:55 PM](https://archive.org/download/lesoir-2022/lesoir-2022-08-23T16:55:38.135033+02:00.lighthouse.json) |
-| [August 23 at 4:29 AM](https://archive.org/download/lesoir-2022/lesoir-2022-08-23T04:29:36.180122+02:00.lighthouse.json) |
-| [August 22 at 4:11 PM](https://archive.org/download/lesoir-2022/lesoir-2022-08-22T16:11:02.867185+02:00.lighthouse.json) |
 
 
 

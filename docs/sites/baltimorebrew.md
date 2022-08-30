@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 93 screenshots with the Internet Archive.
+The archiving routine has saved 95 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-28T18:51:14.345806-04:00.jpg">
+  <img src="https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-28T18:51:14.345806-04:00.jpg"
+     alt="Baltimore Brew at 2022-08-28 18:51:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-28T18:51:14.345806-04:00.jpg">August 28 at 6:51 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-28T06:54:31.236017-04:00.jpg">
+  <img src="https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-28T06:54:31.236017-04:00.jpg"
+     alt="Baltimore Brew at 2022-08-28 06:54:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-28T06:54:31.236017-04:00.jpg">August 28 at 6:54 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-27T18:53:55.111010-04:00.jpg">
   <img src="https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-27T18:53:55.111010-04:00.jpg"
      alt="Baltimore Brew at 2022-08-27 18:53:59-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-23T06:59:26.545884-04:00.jpg">August 23 at 6:59 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-22T18:55:49.651566-04:00.jpg">
-  <img src="https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-22T18:55:49.651566-04:00.jpg"
-     alt="Baltimore Brew at 2022-08-22 18:55:53-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-22T18:55:49.651566-04:00.jpg">August 22 at 6:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-22T06:55:24.598064-04:00.jpg">
-  <img src="https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-22T06:55:24.598064-04:00.jpg"
-     alt="Baltimore Brew at 2022-08-22 06:55:27-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-22T06:55:24.598064-04:00.jpg">August 22 at 6:55 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 94 hyperlink lists with the Internet Archive.
+The archiving routine has saved 96 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 28 at 6:51 PM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-28T18:51:14.345806-04:00.hyperlinks.json) |
+| [August 28 at 6:54 AM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-28T06:54:31.236017-04:00.hyperlinks.json) |
 | [August 27 at 6:54 PM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-27T18:53:55.111010-04:00.hyperlinks.json) |
 | [August 27 at 6:48 AM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-27T06:48:37.997141-04:00.hyperlinks.json) |
 | [August 26 at 6:51 PM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-26T18:51:47.295098-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 25 at 6:54 AM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-25T06:54:25.305907-04:00.hyperlinks.json) |
 | [August 24 at 6:54 PM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-24T18:54:27.858220-04:00.hyperlinks.json) |
 | [August 24 at 6:46 AM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-24T06:46:51.092703-04:00.hyperlinks.json) |
-| [August 23 at 6:57 PM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-23T18:57:06.283469-04:00.hyperlinks.json) |
-| [August 23 at 6:59 AM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-23T06:59:26.545884-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 94 accessibility trees with the Internet Archive.
+The archiving routine has saved 96 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 28 at 6:51 PM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-28T18:51:14.345806-04:00.accessibility.json) |
+| [August 28 at 6:54 AM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-28T06:54:31.236017-04:00.accessibility.json) |
 | [August 27 at 6:54 PM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-27T18:53:55.111010-04:00.accessibility.json) |
 | [August 27 at 6:48 AM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-27T06:48:37.997141-04:00.accessibility.json) |
 | [August 26 at 6:51 PM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-26T18:51:47.295098-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 25 at 6:54 AM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-25T06:54:25.305907-04:00.accessibility.json) |
 | [August 24 at 6:54 PM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-24T18:54:27.858220-04:00.accessibility.json) |
 | [August 24 at 6:46 AM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-24T06:46:51.092703-04:00.accessibility.json) |
-| [August 23 at 6:57 PM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-23T18:57:06.283469-04:00.accessibility.json) |
-| [August 23 at 6:59 AM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-23T06:59:26.545884-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 71 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 73 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 28 at 6:51 PM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-28T18:51:14.345806-04:00.lighthouse.json) |
+| [August 28 at 6:54 AM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-28T06:54:31.236017-04:00.lighthouse.json) |
 | [August 27 at 6:54 PM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-27T18:53:55.111010-04:00.lighthouse.json) |
 | [August 27 at 6:48 AM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-27T06:48:37.997141-04:00.lighthouse.json) |
 | [August 26 at 6:51 PM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-26T18:51:47.295098-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 25 at 6:54 AM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-25T06:54:25.305907-04:00.lighthouse.json) |
 | [August 24 at 6:54 PM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-24T18:54:27.858220-04:00.lighthouse.json) |
 | [August 24 at 6:47 AM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-24T06:46:51.092703-04:00.lighthouse.json) |
-| [August 23 at 6:57 PM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-23T18:57:06.283469-04:00.lighthouse.json) |
-| [August 23 at 6:59 AM](https://archive.org/download/baltimorebrew-2022/baltimorebrew-2022-08-23T06:59:26.545884-04:00.lighthouse.json) |
 
 
 

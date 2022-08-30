@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 81 screenshots with the Internet Archive.
+The archiving routine has saved 83 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/getfandom-2022/getfandom-2022-08-28T07:55:05.886948-07:00.jpg">
+  <img src="https://archive.org/download/getfandom-2022/getfandom-2022-08-28T07:55:05.886948-07:00.jpg"
+     alt="Fandom at 2022-08-28 07:55:08-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/getfandom-2022/getfandom-2022-08-28T07:55:05.886948-07:00.jpg">August 28 at 7:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/getfandom-2022/getfandom-2022-08-27T20:39:42.107918-07:00.jpg">
+  <img src="https://archive.org/download/getfandom-2022/getfandom-2022-08-27T20:39:42.107918-07:00.jpg"
+     alt="Fandom at 2022-08-27 20:39:45-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/getfandom-2022/getfandom-2022-08-27T20:39:42.107918-07:00.jpg">August 27 at 8:39 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/getfandom-2022/getfandom-2022-08-27T07:49:23.414299-07:00.jpg">
   <img src="https://archive.org/download/getfandom-2022/getfandom-2022-08-27T07:49:23.414299-07:00.jpg"
      alt="Fandom at 2022-08-27 07:49:31-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/getfandom-2022/getfandom-2022-08-22T07:08:00.655169-07:00.jpg">August 22 at 7:08 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/getfandom-2022/getfandom-2022-08-21T19:25:48.629206-07:00.jpg">
-  <img src="https://archive.org/download/getfandom-2022/getfandom-2022-08-21T19:25:48.629206-07:00.jpg"
-     alt="Fandom at 2022-08-21 19:25:50-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/getfandom-2022/getfandom-2022-08-21T19:25:48.629206-07:00.jpg">August 21 at 7:25 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/getfandom-2022/getfandom-2022-08-21T07:03:32.146615-07:00.jpg">
-  <img src="https://archive.org/download/getfandom-2022/getfandom-2022-08-21T07:03:32.146615-07:00.jpg"
-     alt="Fandom at 2022-08-21 07:03:33-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/getfandom-2022/getfandom-2022-08-21T07:03:32.146615-07:00.jpg">August 21 at 7:03 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 81 hyperlink lists with the Internet Archive.
+The archiving routine has saved 83 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 28 at 7:55 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-28T07:55:05.886948-07:00.hyperlinks.json) |
+| [August 27 at 8:39 PM](https://archive.org/download/getfandom-2022/getfandom-2022-08-27T20:39:42.107918-07:00.hyperlinks.json) |
 | [August 27 at 7:49 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-27T07:49:23.414299-07:00.hyperlinks.json) |
 | [August 26 at 8:36 PM](https://archive.org/download/getfandom-2022/getfandom-2022-08-26T20:35:57.684348-07:00.hyperlinks.json) |
 | [August 26 at 7:57 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-26T07:57:37.523433-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 24 at 7:59 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-24T07:58:54.709909-07:00.hyperlinks.json) |
 | [August 23 at 8:37 PM](https://archive.org/download/getfandom-2022/getfandom-2022-08-23T20:37:41.605046-07:00.hyperlinks.json) |
 | [August 23 at 7:51 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-23T07:51:49.391830-07:00.hyperlinks.json) |
-| [August 22 at 7:27 PM](https://archive.org/download/getfandom-2022/getfandom-2022-08-22T19:26:58.103227-07:00.hyperlinks.json) |
-| [August 22 at 7:08 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-22T07:08:00.655169-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 81 accessibility trees with the Internet Archive.
+The archiving routine has saved 83 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 28 at 7:55 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-28T07:55:05.886948-07:00.accessibility.json) |
+| [August 27 at 8:39 PM](https://archive.org/download/getfandom-2022/getfandom-2022-08-27T20:39:42.107918-07:00.accessibility.json) |
 | [August 27 at 7:49 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-27T07:49:23.414299-07:00.accessibility.json) |
 | [August 26 at 8:36 PM](https://archive.org/download/getfandom-2022/getfandom-2022-08-26T20:35:57.684348-07:00.accessibility.json) |
 | [August 26 at 7:57 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-26T07:57:37.523433-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 24 at 7:59 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-24T07:58:54.709909-07:00.accessibility.json) |
 | [August 23 at 8:37 PM](https://archive.org/download/getfandom-2022/getfandom-2022-08-23T20:37:41.605046-07:00.accessibility.json) |
 | [August 23 at 7:51 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-23T07:51:49.391830-07:00.accessibility.json) |
-| [August 22 at 7:27 PM](https://archive.org/download/getfandom-2022/getfandom-2022-08-22T19:26:58.103227-07:00.accessibility.json) |
-| [August 22 at 7:08 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-22T07:08:00.655169-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 69 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 71 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 28 at 7:55 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-28T07:55:05.886948-07:00.lighthouse.json) |
+| [August 27 at 8:39 PM](https://archive.org/download/getfandom-2022/getfandom-2022-08-27T20:39:42.107918-07:00.lighthouse.json) |
 | [August 27 at 7:49 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-27T07:49:23.414299-07:00.lighthouse.json) |
 | [August 26 at 8:36 PM](https://archive.org/download/getfandom-2022/getfandom-2022-08-26T20:35:57.684348-07:00.lighthouse.json) |
 | [August 26 at 7:57 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-26T07:57:37.523433-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 24 at 7:59 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-24T07:58:54.709909-07:00.lighthouse.json) |
 | [August 23 at 8:37 PM](https://archive.org/download/getfandom-2022/getfandom-2022-08-23T20:37:41.605046-07:00.lighthouse.json) |
 | [August 23 at 7:51 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-23T07:51:49.391830-07:00.lighthouse.json) |
-| [August 22 at 7:27 PM](https://archive.org/download/getfandom-2022/getfandom-2022-08-22T19:26:58.103227-07:00.lighthouse.json) |
-| [August 22 at 7:08 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-22T07:08:00.655169-07:00.lighthouse.json) |
 
 
 

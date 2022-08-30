@@ -28,13 +28,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 8 screenshots with the Internet Archive.
+The archiving routine has saved 10 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/amabhungane-2022/amabhungane-2022-08-28T15:59:13.717264+02:00.jpg">
+  <img src="https://archive.org/download/amabhungane-2022/amabhungane-2022-08-28T15:59:13.717264+02:00.jpg"
+     alt="amaBhungane at 2022-08-28 15:59:15+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/amabhungane-2022/amabhungane-2022-08-28T15:59:13.717264+02:00.jpg">August 28 at 3:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/amabhungane-2022/amabhungane-2022-08-28T04:24:18.587422+02:00.jpg">
+  <img src="https://archive.org/download/amabhungane-2022/amabhungane-2022-08-28T04:24:18.587422+02:00.jpg"
+     alt="amaBhungane at 2022-08-28 04:24:20+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/amabhungane-2022/amabhungane-2022-08-28T04:24:18.587422+02:00.jpg">August 28 at 4:24 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/amabhungane-2022/amabhungane-2022-08-27T15:56:04.354587+02:00.jpg">
@@ -112,7 +130,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 8 hyperlink lists with the Internet Archive.
+The archiving routine has saved 10 hyperlink lists with the Internet Archive.
 
 
 
@@ -120,6 +138,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 28 at 3:59 PM](https://archive.org/download/amabhungane-2022/amabhungane-2022-08-28T15:59:13.717264+02:00.hyperlinks.json) |
+| [August 28 at 4:24 AM](https://archive.org/download/amabhungane-2022/amabhungane-2022-08-28T04:24:18.587422+02:00.hyperlinks.json) |
 | [August 27 at 3:56 PM](https://archive.org/download/amabhungane-2022/amabhungane-2022-08-27T15:56:04.354587+02:00.hyperlinks.json) |
 | [August 27 at 4:18 AM](https://archive.org/download/amabhungane-2022/amabhungane-2022-08-27T04:18:51.885692+02:00.hyperlinks.json) |
 | [August 26 at 4:02 PM](https://archive.org/download/amabhungane-2022/amabhungane-2022-08-26T16:02:29.848152+02:00.hyperlinks.json) |
@@ -132,7 +152,7 @@ Here are the 10 most recent hyperlink lists.
 
 ### Accessibility
 
-The archiving routine has saved 8 accessibility trees with the Internet Archive.
+The archiving routine has saved 10 accessibility trees with the Internet Archive.
 
 
 
@@ -140,6 +160,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 28 at 3:59 PM](https://archive.org/download/amabhungane-2022/amabhungane-2022-08-28T15:59:13.717264+02:00.accessibility.json) |
+| [August 28 at 4:24 AM](https://archive.org/download/amabhungane-2022/amabhungane-2022-08-28T04:24:18.587422+02:00.accessibility.json) |
 | [August 27 at 3:56 PM](https://archive.org/download/amabhungane-2022/amabhungane-2022-08-27T15:56:04.354587+02:00.accessibility.json) |
 | [August 27 at 4:18 AM](https://archive.org/download/amabhungane-2022/amabhungane-2022-08-27T04:18:51.885692+02:00.accessibility.json) |
 | [August 26 at 4:02 PM](https://archive.org/download/amabhungane-2022/amabhungane-2022-08-26T16:02:29.848152+02:00.accessibility.json) |
@@ -153,7 +175,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 8 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
 
 
 
@@ -161,6 +183,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 28 at 3:59 PM](https://archive.org/download/amabhungane-2022/amabhungane-2022-08-28T15:59:13.717264+02:00.lighthouse.json) |
+| [August 28 at 4:24 AM](https://archive.org/download/amabhungane-2022/amabhungane-2022-08-28T04:24:18.587422+02:00.lighthouse.json) |
 | [August 27 at 3:56 PM](https://archive.org/download/amabhungane-2022/amabhungane-2022-08-27T15:56:04.354587+02:00.lighthouse.json) |
 | [August 27 at 4:18 AM](https://archive.org/download/amabhungane-2022/amabhungane-2022-08-27T04:18:51.885692+02:00.lighthouse.json) |
 | [August 26 at 4:02 PM](https://archive.org/download/amabhungane-2022/amabhungane-2022-08-26T16:02:29.848152+02:00.lighthouse.json) |

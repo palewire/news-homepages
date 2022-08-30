@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 25 screenshots with the Internet Archive.
+The archiving routine has saved 27 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/proceso-2022/proceso-2022-08-28T11:00:40.141667-05:00.jpg">
+  <img src="https://archive.org/download/proceso-2022/proceso-2022-08-28T11:00:40.141667-05:00.jpg"
+     alt="Proceso at 2022-08-28 11:00:41-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-28T11:00:40.141667-05:00.jpg">August 28 at 11:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/proceso-2022/proceso-2022-08-27T23:35:32.335906-05:00.jpg">
+  <img src="https://archive.org/download/proceso-2022/proceso-2022-08-27T23:35:32.335906-05:00.jpg"
+     alt="Proceso at 2022-08-27 23:35:33-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-27T23:35:32.335906-05:00.jpg">August 27 at 11:35 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/proceso-2022/proceso-2022-08-27T10:57:14.775464-05:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-22T10:02:25.834865-05:00.jpg">August 22 at 10:02 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/proceso-2022/proceso-2022-08-21T22:42:37.781933-05:00.jpg">
-  <img src="https://archive.org/download/proceso-2022/proceso-2022-08-21T22:42:37.781933-05:00.jpg"
-     alt="Proceso at 2022-08-21 22:42:39-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-21T22:42:37.781933-05:00.jpg">August 21 at 10:42 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/proceso-2022/proceso-2022-08-21T10:00:02.006514-05:00.jpg">
-  <img src="https://archive.org/download/proceso-2022/proceso-2022-08-21T10:00:02.006514-05:00.jpg"
-     alt="Proceso at 2022-08-21 10:00:04-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-21T10:00:02.006514-05:00.jpg">August 21 at 10:00 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 25 hyperlink lists with the Internet Archive.
+The archiving routine has saved 27 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 28 at 11:00 AM](https://archive.org/download/proceso-2022/proceso-2022-08-28T11:00:40.141667-05:00.hyperlinks.json) |
+| [August 27 at 11:35 PM](https://archive.org/download/proceso-2022/proceso-2022-08-27T23:35:32.335906-05:00.hyperlinks.json) |
 | [August 27 at 10:57 AM](https://archive.org/download/proceso-2022/proceso-2022-08-27T10:57:14.775464-05:00.hyperlinks.json) |
 | [August 26 at 11:35 PM](https://archive.org/download/proceso-2022/proceso-2022-08-26T23:35:34.048739-05:00.hyperlinks.json) |
 | [August 26 at 11:05 AM](https://archive.org/download/proceso-2022/proceso-2022-08-26T11:04:54.903339-05:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 24 at 11:00 AM](https://archive.org/download/proceso-2022/proceso-2022-08-24T10:59:57.688805-05:00.hyperlinks.json) |
 | [August 23 at 11:35 PM](https://archive.org/download/proceso-2022/proceso-2022-08-23T23:35:40.235328-05:00.hyperlinks.json) |
 | [August 23 at 11:04 AM](https://archive.org/download/proceso-2022/proceso-2022-08-23T11:04:00.401426-05:00.hyperlinks.json) |
-| [August 22 at 10:55 PM](https://archive.org/download/proceso-2022/proceso-2022-08-22T22:55:50.854805-05:00.hyperlinks.json) |
-| [August 22 at 10:02 AM](https://archive.org/download/proceso-2022/proceso-2022-08-22T10:02:25.834865-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 25 accessibility trees with the Internet Archive.
+The archiving routine has saved 27 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 28 at 11:00 AM](https://archive.org/download/proceso-2022/proceso-2022-08-28T11:00:40.141667-05:00.accessibility.json) |
+| [August 27 at 11:35 PM](https://archive.org/download/proceso-2022/proceso-2022-08-27T23:35:32.335906-05:00.accessibility.json) |
 | [August 27 at 10:57 AM](https://archive.org/download/proceso-2022/proceso-2022-08-27T10:57:14.775464-05:00.accessibility.json) |
 | [August 26 at 11:35 PM](https://archive.org/download/proceso-2022/proceso-2022-08-26T23:35:34.048739-05:00.accessibility.json) |
 | [August 26 at 11:04 AM](https://archive.org/download/proceso-2022/proceso-2022-08-26T11:04:54.903339-05:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [August 24 at 11:00 AM](https://archive.org/download/proceso-2022/proceso-2022-08-24T10:59:57.688805-05:00.accessibility.json) |
 | [August 23 at 11:35 PM](https://archive.org/download/proceso-2022/proceso-2022-08-23T23:35:40.235328-05:00.accessibility.json) |
 | [August 23 at 11:04 AM](https://archive.org/download/proceso-2022/proceso-2022-08-23T11:04:00.401426-05:00.accessibility.json) |
-| [August 22 at 10:55 PM](https://archive.org/download/proceso-2022/proceso-2022-08-22T22:55:50.854805-05:00.accessibility.json) |
-| [August 22 at 10:02 AM](https://archive.org/download/proceso-2022/proceso-2022-08-22T10:02:25.834865-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 28 at 11:00 AM](https://archive.org/download/proceso-2022/proceso-2022-08-28T11:00:40.141667-05:00.lighthouse.json) |
+| [August 27 at 11:35 PM](https://archive.org/download/proceso-2022/proceso-2022-08-27T23:35:32.335906-05:00.lighthouse.json) |
 | [August 27 at 10:57 AM](https://archive.org/download/proceso-2022/proceso-2022-08-27T10:57:14.775464-05:00.lighthouse.json) |
 | [August 26 at 11:35 PM](https://archive.org/download/proceso-2022/proceso-2022-08-26T23:35:34.048739-05:00.lighthouse.json) |
 | [August 26 at 11:05 AM](https://archive.org/download/proceso-2022/proceso-2022-08-26T11:04:54.903339-05:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 24 at 11:00 AM](https://archive.org/download/proceso-2022/proceso-2022-08-24T10:59:57.688805-05:00.lighthouse.json) |
 | [August 23 at 11:35 PM](https://archive.org/download/proceso-2022/proceso-2022-08-23T23:35:40.235328-05:00.lighthouse.json) |
 | [August 23 at 11:04 AM](https://archive.org/download/proceso-2022/proceso-2022-08-23T11:04:00.401426-05:00.lighthouse.json) |
-| [August 22 at 10:55 PM](https://archive.org/download/proceso-2022/proceso-2022-08-22T22:55:50.854805-05:00.lighthouse.json) |
-| [August 22 at 10:02 AM](https://archive.org/download/proceso-2022/proceso-2022-08-22T10:02:25.834865-05:00.lighthouse.json) |
 
 
 

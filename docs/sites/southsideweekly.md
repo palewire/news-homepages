@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 215 screenshots with the Internet Archive.
+The archiving routine has saved 218 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-28T10:57:05.517891-05:00.jpg">
+  <img src="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-28T10:57:05.517891-05:00.jpg"
+     alt="South Side Weekly at 2022-08-28 10:57:06-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-28T10:57:05.517891-05:00.jpg">August 28 at 10:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-28T08:02:07.257161-05:00.jpg">
+  <img src="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-28T08:02:07.257161-05:00.jpg"
+     alt="South Side Weekly at 2022-08-28 08:02:13-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-28T08:02:07.257161-05:00.jpg">August 28 at 8:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-27T20:29:11.158817-05:00.jpg">
+  <img src="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-27T20:29:11.158817-05:00.jpg"
+     alt="South Side Weekly at 2022-08-27 20:29:12-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-27T20:29:11.158817-05:00.jpg">August 27 at 8:29 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-27T10:54:27.337594-05:00.jpg">
   <img src="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-27T10:54:27.337594-05:00.jpg"
      alt="South Side Weekly at 2022-08-27 10:54:29-05:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-24T11:06:40.455708-05:00.jpg">August 24 at 11:06 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-24T07:56:44.448274-05:00.jpg">
-  <img src="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-24T07:56:44.448274-05:00.jpg"
-     alt="South Side Weekly at 2022-08-24 07:56:52-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-24T07:56:44.448274-05:00.jpg">August 24 at 7:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-23T20:09:07.243166-05:00.jpg">
-  <img src="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-23T20:09:07.243166-05:00.jpg"
-     alt="South Side Weekly at 2022-08-23 20:09:09-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-23T20:09:07.243166-05:00.jpg">August 23 at 8:09 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-23T11:01:34.021093-05:00.jpg">
-  <img src="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-23T11:01:34.021093-05:00.jpg"
-     alt="South Side Weekly at 2022-08-23 11:01:40-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-23T11:01:34.021093-05:00.jpg">August 23 at 11:01 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 216 hyperlink lists with the Internet Archive.
+The archiving routine has saved 219 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 28 at 10:57 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-28T10:57:05.517891-05:00.hyperlinks.json) |
+| [August 28 at 8:02 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-28T08:02:07.257161-05:00.hyperlinks.json) |
+| [August 27 at 8:29 PM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-27T20:29:11.158817-05:00.hyperlinks.json) |
 | [August 27 at 10:54 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-27T10:54:27.337594-05:00.hyperlinks.json) |
 | [August 27 at 7:57 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-27T07:57:52.034818-05:00.hyperlinks.json) |
 | [August 26 at 8:08 PM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-26T20:08:40.843159-05:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 26 at 8:01 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-26T08:01:47.212174-05:00.hyperlinks.json) |
 | [August 25 at 8:15 PM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-25T20:15:14.315489-05:00.hyperlinks.json) |
 | [August 25 at 10:59 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-25T10:59:26.608048-05:00.hyperlinks.json) |
-| [August 25 at 8:05 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-25T08:05:09.434170-05:00.hyperlinks.json) |
-| [August 24 at 11:06 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-24T11:06:40.455708-05:00.hyperlinks.json) |
-| [August 24 at 7:56 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-24T07:56:44.448274-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 216 accessibility trees with the Internet Archive.
+The archiving routine has saved 219 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 28 at 10:57 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-28T10:57:05.517891-05:00.accessibility.json) |
+| [August 28 at 8:02 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-28T08:02:07.257161-05:00.accessibility.json) |
+| [August 27 at 8:29 PM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-27T20:29:11.158817-05:00.accessibility.json) |
 | [August 27 at 10:54 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-27T10:54:27.337594-05:00.accessibility.json) |
 | [August 27 at 7:57 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-27T07:57:52.034818-05:00.accessibility.json) |
 | [August 26 at 8:08 PM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-26T20:08:40.843159-05:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 26 at 8:01 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-26T08:01:47.212174-05:00.accessibility.json) |
 | [August 25 at 8:15 PM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-25T20:15:14.315489-05:00.accessibility.json) |
 | [August 25 at 10:59 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-25T10:59:26.608048-05:00.accessibility.json) |
-| [August 25 at 8:05 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-25T08:05:09.434170-05:00.accessibility.json) |
-| [August 24 at 11:06 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-24T11:06:40.455708-05:00.accessibility.json) |
-| [August 24 at 7:56 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-24T07:56:44.448274-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 102 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 105 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 28 at 10:57 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-28T10:57:05.517891-05:00.lighthouse.json) |
+| [August 28 at 8:02 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-28T08:02:07.257161-05:00.lighthouse.json) |
+| [August 27 at 8:29 PM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-27T20:29:11.158817-05:00.lighthouse.json) |
 | [August 27 at 10:54 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-27T10:54:27.337594-05:00.lighthouse.json) |
 | [August 27 at 7:57 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-27T07:57:52.034818-05:00.lighthouse.json) |
 | [August 26 at 8:08 PM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-26T20:08:40.843159-05:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 26 at 8:01 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-26T08:01:47.212174-05:00.lighthouse.json) |
 | [August 25 at 8:15 PM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-25T20:15:14.315489-05:00.lighthouse.json) |
 | [August 25 at 10:59 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-25T10:59:26.608048-05:00.lighthouse.json) |
-| [August 25 at 8:05 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-25T08:05:09.434170-05:00.lighthouse.json) |
-| [August 24 at 11:06 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-24T11:06:40.455708-05:00.lighthouse.json) |
-| [August 24 at 7:56 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-08-24T07:56:44.448274-05:00.lighthouse.json) |
 
 
 

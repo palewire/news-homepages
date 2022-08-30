@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 67 screenshots with the Internet Archive.
+The archiving routine has saved 69 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-28T09:05:44.749227-07:00.jpg">
+  <img src="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-28T09:05:44.749227-07:00.jpg"
+     alt="Windows Central at 2022-08-28 09:05:50-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-28T09:05:44.749227-07:00.jpg">August 28 at 9:05 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T21:40:07.188622-07:00.jpg">
+  <img src="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T21:40:07.188622-07:00.jpg"
+     alt="Windows Central at 2022-08-27 21:40:08-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T21:40:07.188622-07:00.jpg">August 27 at 9:40 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T09:02:42.482866-07:00.jpg">
   <img src="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T09:02:42.482866-07:00.jpg"
      alt="Windows Central at 2022-08-27 09:02:54-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-22T08:06:58.834921-07:00.jpg">August 22 at 8:07 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-21T20:46:59.214655-07:00.jpg">
-  <img src="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-21T20:46:59.214655-07:00.jpg"
-     alt="Windows Central at 2022-08-21 20:47:01-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-21T20:46:59.214655-07:00.jpg">August 21 at 8:47 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-21T08:04:36.752971-07:00.jpg">
-  <img src="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-21T08:04:36.752971-07:00.jpg"
-     alt="Windows Central at 2022-08-21 08:04:40-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-21T08:04:36.752971-07:00.jpg">August 21 at 8:04 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 67 hyperlink lists with the Internet Archive.
+The archiving routine has saved 69 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 28 at 9:05 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-28T09:05:44.749227-07:00.hyperlinks.json) |
+| [August 27 at 9:40 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T21:40:07.188622-07:00.hyperlinks.json) |
 | [August 27 at 9:02 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T09:02:42.482866-07:00.hyperlinks.json) |
 | [August 26 at 9:40 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-26T21:40:28.547850-07:00.hyperlinks.json) |
 | [August 26 at 9:09 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-26T09:09:31.293550-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 24 at 9:05 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-24T09:05:34.877532-07:00.hyperlinks.json) |
 | [August 23 at 9:40 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-23T21:40:45.466432-07:00.hyperlinks.json) |
 | [August 23 at 9:10 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-23T09:09:57.888049-07:00.hyperlinks.json) |
-| [August 22 at 9:00 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-22T21:00:45.692133-07:00.hyperlinks.json) |
-| [August 22 at 8:07 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-22T08:06:58.834921-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 65 accessibility trees with the Internet Archive.
+The archiving routine has saved 67 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 28 at 9:05 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-28T09:05:44.749227-07:00.accessibility.json) |
+| [August 27 at 9:40 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T21:40:07.188622-07:00.accessibility.json) |
 | [August 27 at 9:02 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T09:02:42.482866-07:00.accessibility.json) |
 | [August 26 at 9:40 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-26T21:40:28.547850-07:00.accessibility.json) |
 | [August 26 at 9:09 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-26T09:09:31.293550-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 24 at 9:05 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-24T09:05:34.877532-07:00.accessibility.json) |
 | [August 23 at 9:40 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-23T21:40:45.466432-07:00.accessibility.json) |
 | [August 23 at 9:10 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-23T09:09:57.888049-07:00.accessibility.json) |
-| [August 22 at 9:00 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-22T21:00:45.692133-07:00.accessibility.json) |
-| [August 21 at 8:47 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-21T20:46:59.214655-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 66 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 68 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 28 at 9:05 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-28T09:05:44.749227-07:00.lighthouse.json) |
+| [August 27 at 9:40 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T21:40:07.188622-07:00.lighthouse.json) |
 | [August 27 at 9:03 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T09:02:42.482866-07:00.lighthouse.json) |
 | [August 26 at 9:40 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-26T21:40:28.547850-07:00.lighthouse.json) |
 | [August 26 at 9:09 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-26T09:09:31.293550-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 24 at 9:05 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-24T09:05:34.877532-07:00.lighthouse.json) |
 | [August 23 at 9:40 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-23T21:40:45.466432-07:00.lighthouse.json) |
 | [August 23 at 9:10 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-23T09:09:57.888049-07:00.lighthouse.json) |
-| [August 22 at 9:00 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-22T21:00:45.692133-07:00.lighthouse.json) |
-| [August 22 at 8:07 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-22T08:06:58.834921-07:00.lighthouse.json) |
 
 
 

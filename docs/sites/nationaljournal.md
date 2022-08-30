@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 108 screenshots with the Internet Archive.
+The archiving routine has saved 110 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-28T10:59:14.163256-04:00.jpg">
+  <img src="https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-28T10:59:14.163256-04:00.jpg"
+     alt="National Journal at 2022-08-28 10:59:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-28T10:59:14.163256-04:00.jpg">August 28 at 10:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-27T23:43:30.970526-04:00.jpg">
+  <img src="https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-27T23:43:30.970526-04:00.jpg"
+     alt="National Journal at 2022-08-27 23:43:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-27T23:43:30.970526-04:00.jpg">August 27 at 11:43 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-27T10:53:39.456316-04:00.jpg">
   <img src="https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-27T10:53:39.456316-04:00.jpg"
      alt="National Journal at 2022-08-27 10:53:42-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-22T10:12:28.772413-04:00.jpg">August 22 at 10:12 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-21T22:29:51.111506-04:00.jpg">
-  <img src="https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-21T22:29:51.111506-04:00.jpg"
-     alt="National Journal at 2022-08-21 22:29:56-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-21T22:29:51.111506-04:00.jpg">August 21 at 10:29 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-21T10:08:31.758363-04:00.jpg">
-  <img src="https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-21T10:08:31.758363-04:00.jpg"
-     alt="National Journal at 2022-08-21 10:08:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-21T10:08:31.758363-04:00.jpg">August 21 at 10:08 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 108 hyperlink lists with the Internet Archive.
+The archiving routine has saved 110 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 28 at 10:59 AM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-28T10:59:14.163256-04:00.hyperlinks.json) |
+| [August 27 at 11:43 PM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-27T23:43:30.970526-04:00.hyperlinks.json) |
 | [August 27 at 10:53 AM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-27T10:53:39.456316-04:00.hyperlinks.json) |
 | [August 26 at 11:40 PM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-26T23:40:22.412839-04:00.hyperlinks.json) |
 | [August 26 at 11:01 AM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-26T11:01:40.159792-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 24 at 11:03 AM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-24T11:03:30.825999-04:00.hyperlinks.json) |
 | [August 23 at 11:42 PM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-23T23:42:07.042133-04:00.hyperlinks.json) |
 | [August 23 at 10:55 AM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-23T10:55:48.253631-04:00.hyperlinks.json) |
-| [August 22 at 10:31 PM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-22T22:31:38.897478-04:00.hyperlinks.json) |
-| [August 22 at 10:12 AM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-22T10:12:28.772413-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 108 accessibility trees with the Internet Archive.
+The archiving routine has saved 110 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 28 at 10:59 AM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-28T10:59:14.163256-04:00.accessibility.json) |
+| [August 27 at 11:43 PM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-27T23:43:30.970526-04:00.accessibility.json) |
 | [August 27 at 10:53 AM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-27T10:53:39.456316-04:00.accessibility.json) |
 | [August 26 at 11:40 PM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-26T23:40:22.412839-04:00.accessibility.json) |
 | [August 26 at 11:01 AM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-26T11:01:40.159792-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 24 at 11:03 AM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-24T11:03:30.825999-04:00.accessibility.json) |
 | [August 23 at 11:42 PM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-23T23:42:07.042133-04:00.accessibility.json) |
 | [August 23 at 10:55 AM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-23T10:55:48.253631-04:00.accessibility.json) |
-| [August 22 at 10:31 PM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-22T22:31:38.897478-04:00.accessibility.json) |
-| [August 22 at 10:12 AM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-22T10:12:28.772413-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 69 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 71 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 28 at 10:59 AM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-28T10:59:14.163256-04:00.lighthouse.json) |
+| [August 27 at 11:43 PM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-27T23:43:30.970526-04:00.lighthouse.json) |
 | [August 27 at 10:53 AM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-27T10:53:39.456316-04:00.lighthouse.json) |
 | [August 26 at 11:40 PM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-26T23:40:22.412839-04:00.lighthouse.json) |
 | [August 26 at 11:01 AM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-26T11:01:40.159792-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 24 at 11:03 AM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-24T11:03:30.825999-04:00.lighthouse.json) |
 | [August 23 at 11:42 PM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-23T23:42:07.042133-04:00.lighthouse.json) |
 | [August 23 at 10:55 AM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-23T10:55:48.253631-04:00.lighthouse.json) |
-| [August 22 at 10:31 PM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-22T22:31:38.897478-04:00.lighthouse.json) |
-| [August 22 at 10:12 AM](https://archive.org/download/nationaljournal-2022/nationaljournal-2022-08-22T10:12:28.772413-04:00.lighthouse.json) |
 
 
 

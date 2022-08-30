@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 29 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-28T09:59:07.326500-04:00.jpg">
+  <img src="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-28T09:59:07.326500-04:00.jpg"
+     alt="Akron Beacon Journal at 2022-08-28 09:59:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-28T09:59:07.326500-04:00.jpg">August 28 at 9:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T22:24:16.231802-04:00.jpg">
+  <img src="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T22:24:16.231802-04:00.jpg"
+     alt="Akron Beacon Journal at 2022-08-27 22:24:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T22:24:16.231802-04:00.jpg">August 27 at 10:24 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T09:56:32.556948-04:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-22T09:01:28.827878-04:00.jpg">August 22 at 9:01 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-21T21:11:34.070619-04:00.jpg">
-  <img src="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-21T21:11:34.070619-04:00.jpg"
-     alt="Akron Beacon Journal at 2022-08-21 21:11:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-21T21:11:34.070619-04:00.jpg">August 21 at 9:11 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-21T09:05:10.195090-04:00.jpg">
-  <img src="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-21T09:05:10.195090-04:00.jpg"
-     alt="Akron Beacon Journal at 2022-08-21 09:05:11-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-21T09:05:10.195090-04:00.jpg">August 21 at 9:05 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 27 hyperlink lists with the Internet Archive.
+The archiving routine has saved 29 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 28 at 9:59 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-28T09:59:07.326500-04:00.hyperlinks.json) |
+| [August 27 at 10:24 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T22:24:16.231802-04:00.hyperlinks.json) |
 | [August 27 at 9:56 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T09:56:32.556948-04:00.hyperlinks.json) |
 | [August 26 at 10:19 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-26T22:19:23.450969-04:00.hyperlinks.json) |
 | [August 26 at 10:02 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-26T10:02:08.850206-04:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 24 at 9:57 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-24T09:57:13.856752-04:00.hyperlinks.json) |
 | [August 23 at 10:15 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-23T22:15:09.058036-04:00.hyperlinks.json) |
 | [August 23 at 9:59 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-23T09:59:01.195844-04:00.hyperlinks.json) |
-| [August 22 at 9:19 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-22T21:19:39.657393-04:00.hyperlinks.json) |
-| [August 22 at 9:01 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-22T09:01:28.827878-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 27 accessibility trees with the Internet Archive.
+The archiving routine has saved 29 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 28 at 9:59 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-28T09:59:07.326500-04:00.accessibility.json) |
+| [August 27 at 10:24 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T22:24:16.231802-04:00.accessibility.json) |
 | [August 27 at 9:56 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T09:56:32.556948-04:00.accessibility.json) |
 | [August 26 at 10:19 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-26T22:19:23.450969-04:00.accessibility.json) |
 | [August 26 at 10:02 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-26T10:02:08.850206-04:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [August 24 at 9:57 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-24T09:57:13.856752-04:00.accessibility.json) |
 | [August 23 at 10:15 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-23T22:15:09.058036-04:00.accessibility.json) |
 | [August 23 at 9:59 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-23T09:59:01.195844-04:00.accessibility.json) |
-| [August 22 at 9:19 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-22T21:19:39.657393-04:00.accessibility.json) |
-| [August 22 at 9:01 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-22T09:01:28.827878-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 28 at 9:59 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-28T09:59:07.326500-04:00.lighthouse.json) |
+| [August 27 at 10:24 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T22:24:16.231802-04:00.lighthouse.json) |
 | [August 27 at 9:56 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T09:56:32.556948-04:00.lighthouse.json) |
 | [August 26 at 10:19 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-26T22:19:23.450969-04:00.lighthouse.json) |
 | [August 26 at 10:02 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-26T10:02:08.850206-04:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 24 at 9:57 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-24T09:57:13.856752-04:00.lighthouse.json) |
 | [August 23 at 10:15 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-23T22:15:09.058036-04:00.lighthouse.json) |
 | [August 23 at 9:59 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-23T09:59:01.195844-04:00.lighthouse.json) |
-| [August 22 at 9:19 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-22T21:19:39.657393-04:00.lighthouse.json) |
-| [August 22 at 9:01 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-22T09:01:28.827878-04:00.lighthouse.json) |
 
 
 

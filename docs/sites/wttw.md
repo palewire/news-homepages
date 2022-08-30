@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 194 screenshots with the Internet Archive.
+The archiving routine has saved 197 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/wttw-2022/wttw-2022-08-28T11:05:38.585766-05:00.jpg">
+  <img src="https://archive.org/download/wttw-2022/wttw-2022-08-28T11:05:38.585766-05:00.jpg"
+     alt="WTTW at 2022-08-28 11:05:40-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wttw-2022/wttw-2022-08-28T11:05:38.585766-05:00.jpg">August 28 at 11:05 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wttw-2022/wttw-2022-08-28T10:57:07.109330-05:00.jpg">
+  <img src="https://archive.org/download/wttw-2022/wttw-2022-08-28T10:57:07.109330-05:00.jpg"
+     alt="WTTW at 2022-08-28 10:57:08-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wttw-2022/wttw-2022-08-28T10:57:07.109330-05:00.jpg">August 28 at 10:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wttw-2022/wttw-2022-08-27T23:40:07.441014-05:00.jpg">
+  <img src="https://archive.org/download/wttw-2022/wttw-2022-08-27T23:40:07.441014-05:00.jpg"
+     alt="WTTW at 2022-08-27 23:40:13-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wttw-2022/wttw-2022-08-27T23:40:07.441014-05:00.jpg">August 27 at 11:40 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/wttw-2022/wttw-2022-08-27T11:02:21.795834-05:00.jpg">
   <img src="https://archive.org/download/wttw-2022/wttw-2022-08-27T11:02:21.795834-05:00.jpg"
      alt="WTTW at 2022-08-27 11:02:24-05:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wttw-2022/wttw-2022-08-24T11:06:44.668819-05:00.jpg">August 24 at 11:06 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wttw-2022/wttw-2022-08-24T11:05:08.389800-05:00.jpg">
-  <img src="https://archive.org/download/wttw-2022/wttw-2022-08-24T11:05:08.389800-05:00.jpg"
-     alt="WTTW at 2022-08-24 11:05:15-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wttw-2022/wttw-2022-08-24T11:05:08.389800-05:00.jpg">August 24 at 11:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wttw-2022/wttw-2022-08-23T23:40:41.429427-05:00.jpg">
-  <img src="https://archive.org/download/wttw-2022/wttw-2022-08-23T23:40:41.429427-05:00.jpg"
-     alt="WTTW at 2022-08-23 23:40:46-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wttw-2022/wttw-2022-08-23T23:40:41.429427-05:00.jpg">August 23 at 11:40 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wttw-2022/wttw-2022-08-23T11:09:35.377763-05:00.jpg">
-  <img src="https://archive.org/download/wttw-2022/wttw-2022-08-23T11:09:35.377763-05:00.jpg"
-     alt="WTTW at 2022-08-23 11:09:37-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wttw-2022/wttw-2022-08-23T11:09:35.377763-05:00.jpg">August 23 at 11:09 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 195 hyperlink lists with the Internet Archive.
+The archiving routine has saved 198 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 28 at 11:05 AM](https://archive.org/download/wttw-2022/wttw-2022-08-28T11:05:38.585766-05:00.hyperlinks.json) |
+| [August 28 at 10:57 AM](https://archive.org/download/wttw-2022/wttw-2022-08-28T10:57:07.109330-05:00.hyperlinks.json) |
+| [August 27 at 11:40 PM](https://archive.org/download/wttw-2022/wttw-2022-08-27T23:40:07.441014-05:00.hyperlinks.json) |
 | [August 27 at 11:02 AM](https://archive.org/download/wttw-2022/wttw-2022-08-27T11:02:21.795834-05:00.hyperlinks.json) |
 | [August 27 at 10:54 AM](https://archive.org/download/wttw-2022/wttw-2022-08-27T10:54:10.733629-05:00.hyperlinks.json) |
 | [August 26 at 11:40 PM](https://archive.org/download/wttw-2022/wttw-2022-08-26T23:40:32.665704-05:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 26 at 11:03 AM](https://archive.org/download/wttw-2022/wttw-2022-08-26T11:02:54.858276-05:00.hyperlinks.json) |
 | [August 25 at 11:46 PM](https://archive.org/download/wttw-2022/wttw-2022-08-25T23:46:08.363144-05:00.hyperlinks.json) |
 | [August 25 at 11:07 AM](https://archive.org/download/wttw-2022/wttw-2022-08-25T11:07:51.049737-05:00.hyperlinks.json) |
-| [August 25 at 10:59 AM](https://archive.org/download/wttw-2022/wttw-2022-08-25T10:59:34.946747-05:00.hyperlinks.json) |
-| [August 24 at 11:06 AM](https://archive.org/download/wttw-2022/wttw-2022-08-24T11:06:44.668819-05:00.hyperlinks.json) |
-| [August 24 at 11:05 AM](https://archive.org/download/wttw-2022/wttw-2022-08-24T11:05:08.389800-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 194 accessibility trees with the Internet Archive.
+The archiving routine has saved 197 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 28 at 11:05 AM](https://archive.org/download/wttw-2022/wttw-2022-08-28T11:05:38.585766-05:00.accessibility.json) |
+| [August 28 at 10:57 AM](https://archive.org/download/wttw-2022/wttw-2022-08-28T10:57:07.109330-05:00.accessibility.json) |
+| [August 27 at 11:40 PM](https://archive.org/download/wttw-2022/wttw-2022-08-27T23:40:07.441014-05:00.accessibility.json) |
 | [August 27 at 11:02 AM](https://archive.org/download/wttw-2022/wttw-2022-08-27T11:02:21.795834-05:00.accessibility.json) |
 | [August 27 at 10:54 AM](https://archive.org/download/wttw-2022/wttw-2022-08-27T10:54:10.733629-05:00.accessibility.json) |
 | [August 26 at 11:40 PM](https://archive.org/download/wttw-2022/wttw-2022-08-26T23:40:32.665704-05:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 26 at 11:03 AM](https://archive.org/download/wttw-2022/wttw-2022-08-26T11:02:54.858276-05:00.accessibility.json) |
 | [August 25 at 11:46 PM](https://archive.org/download/wttw-2022/wttw-2022-08-25T23:46:08.363144-05:00.accessibility.json) |
 | [August 25 at 11:07 AM](https://archive.org/download/wttw-2022/wttw-2022-08-25T11:07:51.049737-05:00.accessibility.json) |
-| [August 25 at 10:59 AM](https://archive.org/download/wttw-2022/wttw-2022-08-25T10:59:34.946747-05:00.accessibility.json) |
-| [August 24 at 11:06 AM](https://archive.org/download/wttw-2022/wttw-2022-08-24T11:06:44.668819-05:00.accessibility.json) |
-| [August 24 at 11:05 AM](https://archive.org/download/wttw-2022/wttw-2022-08-24T11:05:08.389800-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 102 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 105 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 28 at 11:05 AM](https://archive.org/download/wttw-2022/wttw-2022-08-28T11:05:38.585766-05:00.lighthouse.json) |
+| [August 28 at 10:57 AM](https://archive.org/download/wttw-2022/wttw-2022-08-28T10:57:07.109330-05:00.lighthouse.json) |
+| [August 27 at 11:40 PM](https://archive.org/download/wttw-2022/wttw-2022-08-27T23:40:07.441014-05:00.lighthouse.json) |
 | [August 27 at 11:02 AM](https://archive.org/download/wttw-2022/wttw-2022-08-27T11:02:21.795834-05:00.lighthouse.json) |
 | [August 27 at 10:54 AM](https://archive.org/download/wttw-2022/wttw-2022-08-27T10:54:10.733629-05:00.lighthouse.json) |
 | [August 26 at 11:40 PM](https://archive.org/download/wttw-2022/wttw-2022-08-26T23:40:32.665704-05:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 26 at 11:03 AM](https://archive.org/download/wttw-2022/wttw-2022-08-26T11:02:54.858276-05:00.lighthouse.json) |
 | [August 25 at 11:46 PM](https://archive.org/download/wttw-2022/wttw-2022-08-25T23:46:08.363144-05:00.lighthouse.json) |
 | [August 25 at 11:08 AM](https://archive.org/download/wttw-2022/wttw-2022-08-25T11:07:51.049737-05:00.lighthouse.json) |
-| [August 25 at 10:59 AM](https://archive.org/download/wttw-2022/wttw-2022-08-25T10:59:34.946747-05:00.lighthouse.json) |
-| [August 24 at 11:06 AM](https://archive.org/download/wttw-2022/wttw-2022-08-24T11:06:44.668819-05:00.lighthouse.json) |
-| [August 24 at 11:05 AM](https://archive.org/download/wttw-2022/wttw-2022-08-24T11:05:08.389800-05:00.lighthouse.json) |
 
 
 

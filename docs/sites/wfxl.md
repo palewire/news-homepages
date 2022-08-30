@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 74 screenshots with the Internet Archive.
+The archiving routine has saved 76 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/wfxl-2022/wfxl-2022-08-28T10:05:14.848162-04:00.jpg">
+  <img src="https://archive.org/download/wfxl-2022/wfxl-2022-08-28T10:05:14.848162-04:00.jpg"
+     alt="Fox 31 WFXL-TV at 2022-08-28 10:05:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wfxl-2022/wfxl-2022-08-28T10:05:14.848162-04:00.jpg">August 28 at 10:05 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wfxl-2022/wfxl-2022-08-27T22:30:02.760209-04:00.jpg">
+  <img src="https://archive.org/download/wfxl-2022/wfxl-2022-08-27T22:30:02.760209-04:00.jpg"
+     alt="Fox 31 WFXL-TV at 2022-08-27 22:30:04-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wfxl-2022/wfxl-2022-08-27T22:30:02.760209-04:00.jpg">August 27 at 10:30 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/wfxl-2022/wfxl-2022-08-27T10:01:49.555634-04:00.jpg">
   <img src="https://archive.org/download/wfxl-2022/wfxl-2022-08-27T10:01:49.555634-04:00.jpg"
      alt="Fox 31 WFXL-TV at 2022-08-27 10:01:50-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wfxl-2022/wfxl-2022-08-21T21:17:35.086450-04:00.jpg">August 21 at 9:17 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wfxl-2022/wfxl-2022-08-21T09:11:04.967579-04:00.jpg">
-  <img src="https://archive.org/download/wfxl-2022/wfxl-2022-08-21T09:11:04.967579-04:00.jpg"
-     alt="Fox 31 WFXL-TV at 2022-08-21 09:11:06-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wfxl-2022/wfxl-2022-08-21T09:11:04.967579-04:00.jpg">August 21 at 9:11 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wfxl-2022/wfxl-2022-08-20T21:19:59.051413-04:00.jpg">
-  <img src="https://archive.org/download/wfxl-2022/wfxl-2022-08-20T21:19:59.051413-04:00.jpg"
-     alt="Fox 31 WFXL-TV at 2022-08-20 21:20:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wfxl-2022/wfxl-2022-08-20T21:19:59.051413-04:00.jpg">August 20 at 9:20 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 68 hyperlink lists with the Internet Archive.
+The archiving routine has saved 70 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 28 at 10:05 AM](https://archive.org/download/wfxl-2022/wfxl-2022-08-28T10:05:14.848162-04:00.hyperlinks.json) |
+| [August 27 at 10:30 PM](https://archive.org/download/wfxl-2022/wfxl-2022-08-27T22:30:02.760209-04:00.hyperlinks.json) |
 | [August 27 at 10:01 AM](https://archive.org/download/wfxl-2022/wfxl-2022-08-27T10:01:49.555634-04:00.hyperlinks.json) |
 | [August 26 at 10:23 PM](https://archive.org/download/wfxl-2022/wfxl-2022-08-26T22:23:31.447442-04:00.hyperlinks.json) |
 | [August 26 at 10:08 AM](https://archive.org/download/wfxl-2022/wfxl-2022-08-26T10:07:55.879825-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 24 at 10:02 AM](https://archive.org/download/wfxl-2022/wfxl-2022-08-24T10:02:41.863835-04:00.hyperlinks.json) |
 | [August 23 at 10:19 PM](https://archive.org/download/wfxl-2022/wfxl-2022-08-23T22:19:37.350380-04:00.hyperlinks.json) |
 | [August 23 at 10:03 AM](https://archive.org/download/wfxl-2022/wfxl-2022-08-23T10:03:47.833609-04:00.hyperlinks.json) |
-| [August 22 at 9:27 PM](https://archive.org/download/wfxl-2022/wfxl-2022-08-22T21:27:35.193744-04:00.hyperlinks.json) |
-| [August 22 at 9:07 AM](https://archive.org/download/wfxl-2022/wfxl-2022-08-22T09:07:47.686683-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 74 accessibility trees with the Internet Archive.
+The archiving routine has saved 76 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 28 at 10:05 AM](https://archive.org/download/wfxl-2022/wfxl-2022-08-28T10:05:14.848162-04:00.accessibility.json) |
+| [August 27 at 10:30 PM](https://archive.org/download/wfxl-2022/wfxl-2022-08-27T22:30:02.760209-04:00.accessibility.json) |
 | [August 27 at 10:01 AM](https://archive.org/download/wfxl-2022/wfxl-2022-08-27T10:01:49.555634-04:00.accessibility.json) |
 | [August 26 at 10:23 PM](https://archive.org/download/wfxl-2022/wfxl-2022-08-26T22:23:31.447442-04:00.accessibility.json) |
 | [August 26 at 10:07 AM](https://archive.org/download/wfxl-2022/wfxl-2022-08-26T10:07:55.879825-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 24 at 10:02 AM](https://archive.org/download/wfxl-2022/wfxl-2022-08-24T10:02:41.863835-04:00.accessibility.json) |
 | [August 23 at 10:19 PM](https://archive.org/download/wfxl-2022/wfxl-2022-08-23T22:19:37.350380-04:00.accessibility.json) |
 | [August 22 at 9:27 PM](https://archive.org/download/wfxl-2022/wfxl-2022-08-22T21:27:35.193744-04:00.accessibility.json) |
-| [August 22 at 9:07 AM](https://archive.org/download/wfxl-2022/wfxl-2022-08-22T09:07:47.686683-04:00.accessibility.json) |
-| [August 21 at 9:17 PM](https://archive.org/download/wfxl-2022/wfxl-2022-08-21T21:17:35.086450-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 71 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 73 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 28 at 10:05 AM](https://archive.org/download/wfxl-2022/wfxl-2022-08-28T10:05:14.848162-04:00.lighthouse.json) |
+| [August 27 at 10:30 PM](https://archive.org/download/wfxl-2022/wfxl-2022-08-27T22:30:02.760209-04:00.lighthouse.json) |
 | [August 27 at 10:01 AM](https://archive.org/download/wfxl-2022/wfxl-2022-08-27T10:01:49.555634-04:00.lighthouse.json) |
 | [August 26 at 10:23 PM](https://archive.org/download/wfxl-2022/wfxl-2022-08-26T22:23:31.447442-04:00.lighthouse.json) |
 | [August 26 at 10:08 AM](https://archive.org/download/wfxl-2022/wfxl-2022-08-26T10:07:55.879825-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 24 at 10:02 AM](https://archive.org/download/wfxl-2022/wfxl-2022-08-24T10:02:41.863835-04:00.lighthouse.json) |
 | [August 23 at 10:19 PM](https://archive.org/download/wfxl-2022/wfxl-2022-08-23T22:19:37.350380-04:00.lighthouse.json) |
 | [August 23 at 10:03 AM](https://archive.org/download/wfxl-2022/wfxl-2022-08-23T10:03:47.833609-04:00.lighthouse.json) |
-| [August 22 at 9:27 PM](https://archive.org/download/wfxl-2022/wfxl-2022-08-22T21:27:35.193744-04:00.lighthouse.json) |
-| [August 22 at 9:07 AM](https://archive.org/download/wfxl-2022/wfxl-2022-08-22T09:07:47.686683-04:00.lighthouse.json) |
 
 
 

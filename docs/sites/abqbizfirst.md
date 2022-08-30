@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 79 screenshots with the Internet Archive.
+The archiving routine has saved 81 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-28T07:59:06.348606-06:00.jpg">
+  <img src="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-28T07:59:06.348606-06:00.jpg"
+     alt="Albuquerque Business First at 2022-08-28 07:59:09-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-28T07:59:06.348606-06:00.jpg">August 28 at 7:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-27T20:24:44.148405-06:00.jpg">
+  <img src="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-27T20:24:44.148405-06:00.jpg"
+     alt="Albuquerque Business First at 2022-08-27 20:24:45-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-27T20:24:44.148405-06:00.jpg">August 27 at 8:24 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-27T07:56:53.120249-06:00.jpg">
   <img src="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-27T07:56:53.120249-06:00.jpg"
      alt="Albuquerque Business First at 2022-08-27 07:56:55-06:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-22T07:01:27.775513-06:00.jpg">August 22 at 7:01 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-21T19:12:13.087679-06:00.jpg">
-  <img src="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-21T19:12:13.087679-06:00.jpg"
-     alt="Albuquerque Business First at 2022-08-21 19:12:15-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-21T19:12:13.087679-06:00.jpg">August 21 at 7:12 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-21T07:04:48.185890-06:00.jpg">
-  <img src="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-21T07:04:48.185890-06:00.jpg"
-     alt="Albuquerque Business First at 2022-08-21 07:04:52-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-21T07:04:48.185890-06:00.jpg">August 21 at 7:04 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 82 hyperlink lists with the Internet Archive.
+The archiving routine has saved 84 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 28 at 7:59 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-28T07:59:06.348606-06:00.hyperlinks.json) |
+| [August 27 at 8:24 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-27T20:24:44.148405-06:00.hyperlinks.json) |
 | [August 27 at 7:56 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-27T07:56:53.120249-06:00.hyperlinks.json) |
 | [August 26 at 8:19 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-26T20:19:41.695564-06:00.hyperlinks.json) |
 | [August 26 at 8:02 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-26T08:02:31.695848-06:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 24 at 7:57 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-24T07:57:32.761671-06:00.hyperlinks.json) |
 | [August 23 at 8:14 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-23T20:14:48.389872-06:00.hyperlinks.json) |
 | [August 23 at 7:58 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-23T07:58:37.367170-06:00.hyperlinks.json) |
-| [August 22 at 7:20 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-22T19:20:07.096319-06:00.hyperlinks.json) |
-| [August 22 at 7:01 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-22T07:01:27.775513-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 82 accessibility trees with the Internet Archive.
+The archiving routine has saved 84 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 28 at 7:59 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-28T07:59:06.348606-06:00.accessibility.json) |
+| [August 27 at 8:24 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-27T20:24:44.148405-06:00.accessibility.json) |
 | [August 27 at 7:56 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-27T07:56:53.120249-06:00.accessibility.json) |
 | [August 26 at 8:19 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-26T20:19:41.695564-06:00.accessibility.json) |
 | [August 26 at 8:02 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-26T08:02:31.695848-06:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 24 at 7:57 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-24T07:57:32.761671-06:00.accessibility.json) |
 | [August 23 at 8:14 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-23T20:14:48.389872-06:00.accessibility.json) |
 | [August 23 at 7:58 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-23T07:58:37.367170-06:00.accessibility.json) |
-| [August 22 at 7:20 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-22T19:20:07.096319-06:00.accessibility.json) |
-| [August 22 at 7:01 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-22T07:01:27.775513-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 72 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 74 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 28 at 7:59 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-28T07:59:06.348606-06:00.lighthouse.json) |
+| [August 27 at 8:24 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-27T20:24:44.148405-06:00.lighthouse.json) |
 | [August 27 at 7:56 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-27T07:56:53.120249-06:00.lighthouse.json) |
 | [August 26 at 8:19 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-26T20:19:41.695564-06:00.lighthouse.json) |
 | [August 26 at 8:02 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-26T08:02:31.695848-06:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 24 at 7:57 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-24T07:57:32.761671-06:00.lighthouse.json) |
 | [August 23 at 8:14 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-23T20:14:48.389872-06:00.lighthouse.json) |
 | [August 23 at 7:58 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-23T07:58:37.367170-06:00.lighthouse.json) |
-| [August 22 at 7:20 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-22T19:20:07.096319-06:00.lighthouse.json) |
-| [August 22 at 7:01 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-22T07:01:27.775513-06:00.lighthouse.json) |
 
 
 

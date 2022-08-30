@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 69 screenshots with the Internet Archive.
+The archiving routine has saved 71 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/theblock__-2022/theblock__-2022-08-28T09:02:57.401557-04:00.jpg">
+  <img src="https://archive.org/download/theblock__-2022/theblock__-2022-08-28T09:02:57.401557-04:00.jpg"
+     alt="Block at 2022-08-28 09:03:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theblock__-2022/theblock__-2022-08-28T09:02:57.401557-04:00.jpg">August 28 at 9:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theblock__-2022/theblock__-2022-08-27T21:30:18.903809-04:00.jpg">
+  <img src="https://archive.org/download/theblock__-2022/theblock__-2022-08-27T21:30:18.903809-04:00.jpg"
+     alt="Block at 2022-08-27 21:30:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theblock__-2022/theblock__-2022-08-27T21:30:18.903809-04:00.jpg">August 27 at 9:30 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/theblock__-2022/theblock__-2022-08-27T08:58:20.867277-04:00.jpg">
   <img src="https://archive.org/download/theblock__-2022/theblock__-2022-08-27T08:58:20.867277-04:00.jpg"
      alt="Block at 2022-08-27 08:58:25-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theblock__-2022/theblock__-2022-08-22T09:05:00.477395-04:00.jpg">August 22 at 9:05 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theblock__-2022/theblock__-2022-08-21T21:14:41.742492-04:00.jpg">
-  <img src="https://archive.org/download/theblock__-2022/theblock__-2022-08-21T21:14:41.742492-04:00.jpg"
-     alt="Block at 2022-08-21 21:14:43-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theblock__-2022/theblock__-2022-08-21T21:14:41.742492-04:00.jpg">August 21 at 9:14 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theblock__-2022/theblock__-2022-08-21T09:08:11.182809-04:00.jpg">
-  <img src="https://archive.org/download/theblock__-2022/theblock__-2022-08-21T09:08:11.182809-04:00.jpg"
-     alt="Block at 2022-08-21 09:08:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theblock__-2022/theblock__-2022-08-21T09:08:11.182809-04:00.jpg">August 21 at 9:08 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 70 hyperlink lists with the Internet Archive.
+The archiving routine has saved 72 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 28 at 9:03 AM](https://archive.org/download/theblock__-2022/theblock__-2022-08-28T09:02:57.401557-04:00.hyperlinks.json) |
+| [August 27 at 9:30 PM](https://archive.org/download/theblock__-2022/theblock__-2022-08-27T21:30:18.903809-04:00.hyperlinks.json) |
 | [August 27 at 8:58 AM](https://archive.org/download/theblock__-2022/theblock__-2022-08-27T08:58:20.867277-04:00.hyperlinks.json) |
 | [August 26 at 9:10 PM](https://archive.org/download/theblock__-2022/theblock__-2022-08-26T21:10:10.175209-04:00.hyperlinks.json) |
 | [August 26 at 9:03 AM](https://archive.org/download/theblock__-2022/theblock__-2022-08-26T09:03:01.916508-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 24 at 8:58 AM](https://archive.org/download/theblock__-2022/theblock__-2022-08-24T08:58:46.014947-04:00.hyperlinks.json) |
 | [August 23 at 9:10 PM](https://archive.org/download/theblock__-2022/theblock__-2022-08-23T21:10:41.320203-04:00.hyperlinks.json) |
 | [August 23 at 8:58 AM](https://archive.org/download/theblock__-2022/theblock__-2022-08-23T08:58:28.128810-04:00.hyperlinks.json) |
-| [August 22 at 9:24 PM](https://archive.org/download/theblock__-2022/theblock__-2022-08-22T21:24:33.889036-04:00.hyperlinks.json) |
-| [August 22 at 9:05 AM](https://archive.org/download/theblock__-2022/theblock__-2022-08-22T09:05:00.477395-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 70 accessibility trees with the Internet Archive.
+The archiving routine has saved 72 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 28 at 9:03 AM](https://archive.org/download/theblock__-2022/theblock__-2022-08-28T09:02:57.401557-04:00.accessibility.json) |
+| [August 27 at 9:30 PM](https://archive.org/download/theblock__-2022/theblock__-2022-08-27T21:30:18.903809-04:00.accessibility.json) |
 | [August 27 at 8:58 AM](https://archive.org/download/theblock__-2022/theblock__-2022-08-27T08:58:20.867277-04:00.accessibility.json) |
 | [August 26 at 9:10 PM](https://archive.org/download/theblock__-2022/theblock__-2022-08-26T21:10:10.175209-04:00.accessibility.json) |
 | [August 26 at 9:03 AM](https://archive.org/download/theblock__-2022/theblock__-2022-08-26T09:03:01.916508-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 24 at 8:58 AM](https://archive.org/download/theblock__-2022/theblock__-2022-08-24T08:58:46.014947-04:00.accessibility.json) |
 | [August 23 at 9:10 PM](https://archive.org/download/theblock__-2022/theblock__-2022-08-23T21:10:41.320203-04:00.accessibility.json) |
 | [August 23 at 8:58 AM](https://archive.org/download/theblock__-2022/theblock__-2022-08-23T08:58:28.128810-04:00.accessibility.json) |
-| [August 22 at 9:24 PM](https://archive.org/download/theblock__-2022/theblock__-2022-08-22T21:24:33.889036-04:00.accessibility.json) |
-| [August 22 at 9:05 AM](https://archive.org/download/theblock__-2022/theblock__-2022-08-22T09:05:00.477395-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 70 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 72 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 28 at 9:03 AM](https://archive.org/download/theblock__-2022/theblock__-2022-08-28T09:02:57.401557-04:00.lighthouse.json) |
+| [August 27 at 9:30 PM](https://archive.org/download/theblock__-2022/theblock__-2022-08-27T21:30:18.903809-04:00.lighthouse.json) |
 | [August 27 at 8:58 AM](https://archive.org/download/theblock__-2022/theblock__-2022-08-27T08:58:20.867277-04:00.lighthouse.json) |
 | [August 26 at 9:10 PM](https://archive.org/download/theblock__-2022/theblock__-2022-08-26T21:10:10.175209-04:00.lighthouse.json) |
 | [August 26 at 9:03 AM](https://archive.org/download/theblock__-2022/theblock__-2022-08-26T09:03:01.916508-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 24 at 8:58 AM](https://archive.org/download/theblock__-2022/theblock__-2022-08-24T08:58:46.014947-04:00.lighthouse.json) |
 | [August 23 at 9:10 PM](https://archive.org/download/theblock__-2022/theblock__-2022-08-23T21:10:41.320203-04:00.lighthouse.json) |
 | [August 23 at 8:58 AM](https://archive.org/download/theblock__-2022/theblock__-2022-08-23T08:58:28.128810-04:00.lighthouse.json) |
-| [August 22 at 9:24 PM](https://archive.org/download/theblock__-2022/theblock__-2022-08-22T21:24:33.889036-04:00.lighthouse.json) |
-| [August 22 at 9:05 AM](https://archive.org/download/theblock__-2022/theblock__-2022-08-22T09:05:00.477395-04:00.lighthouse.json) |
 
 
 
