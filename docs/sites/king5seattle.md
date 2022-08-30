@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         80
     </td>
     <td style="text-align: right;">
-        579
+        590
     </td>
   </tr>
 
@@ -193,10 +193,10 @@ The median score for each category, along with how it ranks in comparison to the
         Best practices
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        83
+        67
     </td>
     <td style="text-align: right;">
-        419
+        753
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        27
+        30
     </td>
     <td style="text-align: right;">
-        416
+        382
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         78
     </td>
     <td style="text-align: right;">
-        718
+        730
     </td>
   </tr>
 

@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         92
     </td>
     <td style="text-align: right;">
-        194
+        201
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        63
+        64
     </td>
     <td style="text-align: right;">
-        97
+        95
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         89
     </td>
     <td style="text-align: right;">
-        412
+        419
     </td>
   </tr>
 

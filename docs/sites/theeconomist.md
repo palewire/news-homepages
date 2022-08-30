@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         11
     </td>
     <td style="text-align: right;">
-        765
+        778
     </td>
   </tr>
 

@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         81
     </td>
     <td style="text-align: right;">
-        534
+        544
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        35
+        31
     </td>
     <td style="text-align: right;">
-        305
+        370
     </td>
   </tr>
 
@@ -217,10 +217,10 @@ The median score for each category, along with how it ranks in comparison to the
         SEO
     </td>
     <td style="text-align: right; background-color: green; color: white;">
-        92
+        91
     </td>
     <td style="text-align: right;">
-        274
+        281
     </td>
   </tr>
 

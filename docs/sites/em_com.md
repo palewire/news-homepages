@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         57
     </td>
     <td style="text-align: right;">
-        812
+        825
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         22
     </td>
     <td style="text-align: right;">
-        534
+        541
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         73
     </td>
     <td style="text-align: right;">
-        804
+        816
     </td>
   </tr>
 
