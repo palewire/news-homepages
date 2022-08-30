@@ -7,6 +7,7 @@ from pathlib import Path
 
 import click
 import internetarchive
+import pandas as pd
 import pytz
 from retry import retry
 from rich import print
@@ -104,13 +105,38 @@ def _upload(data: dict, input_dir: str):
     # Upload it
     internetarchive.upload(identifier, **kwargs)
 
-    # Figure out file URLs
+    # Log them in our latest.json file
+    df = pd.read_csv("./latest.csv", parse_dates=["datetime"])
+    log_row = [
+        data["handle"],
+        now.astimezone(pytz.utc),
+        f"https://archive.org/download/{identifier}/{handle}-{now_iso}.jpg"
+        if image_path.exists()
+        else None,
+        f"https://archive.org/download/{identifier}/{handle}-{now_iso}.accessibility.json"
+        if a11y_path.exists()
+        else None,
+        f"https://archive.org/download/{identifier}/{handle}-{now_iso}.hyperlinks.json"
+        if hyperlinks_path.exists()
+        else None,
+        f"https://archive.org/download/{identifier}/{handle}-{now_iso}.lighthouse.json"
+        if lighthouse_path.exists()
+        else None,
+        f"https://archive.org/download/{identifier}/{handle}-{now_iso}.wayback.json"
+        if wayback_path.exists()
+        else None,
+    ]
+    if data["handle"] in list(df.handle):
+        df.loc[df.handle == data["handle"]] = log_row
+    else:
+        df.loc[len(df)] = log_row
+    df.sort_values("handle").to_csv("./latest.csv", index=False)
+
+    # Dump them out
     url_list = []
     for key in file_dict.keys():
         url = f"https://archive.org/download/{identifier}/{key}"
         url_list.append(url)
-
-    # Dump them out
     click.echo(json.dumps(url_list, indent=2))
 
 
