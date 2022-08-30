@@ -72,6 +72,6 @@ runs:
         git config --global user.email "actions@github.com"
         git config pull.rebase false
         git pull origin $GITHUB_REF
-        git add ./latest.csv
+        git add ./newshomepages/sources/latest.csv
         git commit -m "Latest archive" --author="palewire <palewire@users.noreply.github.com>" && git push || true
       shell: bash
