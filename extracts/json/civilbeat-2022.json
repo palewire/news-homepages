@@ -1,5 +1,10 @@
 {
-  "created": 1661814702,
+  "civilbeat-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1661904645,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/20/items/civilbeat-2022",
@@ -5666,31 +5671,155 @@
       "sha1": "222c9a8497a7d21a45257d1434943621910ab2c7"
     },
     {
+      "name": "civilbeat-2022-08-30T01:03:09.515922-10:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661857394",
+      "size": "32228",
+      "md5": "9dd0642e5cee754aeceada0268972d1f",
+      "crc32": "4b4add64",
+      "sha1": "4d100ec60cc6b56795f9383977fe727b9158d287",
+      "format": "JSON"
+    },
+    {
+      "name": "civilbeat-2022-08-30T01:03:09.515922-10:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661857396",
+      "size": "58325",
+      "md5": "490a0e0d241b61906fdbc7c742255ef3",
+      "crc32": "c5068dad",
+      "sha1": "76e681c62f674218ddc753434ce8620b83275f3b",
+      "format": "JSON"
+    },
+    {
+      "name": "civilbeat-2022-08-30T01:03:09.515922-10:00.jpg",
+      "source": "original",
+      "mtime": "1661857393",
+      "size": "275490",
+      "md5": "88fc24d64706e01e4d6f2c48de400642",
+      "crc32": "b1815c31",
+      "sha1": "3bc615a2f590506396ddd1d95df29ca9fb80f938",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "civilbeat-2022-08-30T01:03:09.515922-10:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661857397",
+      "size": "1486",
+      "md5": "854bff2a95c793c9c798b98acf6c28eb",
+      "crc32": "e3be50ba",
+      "sha1": "e44f67121cbaed3c2818971b7d78b587b79cdccb",
+      "format": "JSON"
+    },
+    {
+      "name": "civilbeat-2022-08-30T01:03:09.515922-10:00.wayback.json",
+      "source": "original",
+      "mtime": "1661857399",
+      "size": "231",
+      "md5": "d41b1a57e34fe318f9dd77a47f1b5ec0",
+      "crc32": "fb06cc79",
+      "sha1": "1734376a872bc5cb489c5c07bf1b5d26f9dc00c8",
+      "format": "JSON"
+    },
+    {
+      "name": "civilbeat-2022-08-30T01:03:09.515922-10:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "civilbeat-2022-08-30T01:03:09.515922-10:00.jpg",
+      "mtime": "1661857458",
+      "size": "9484",
+      "md5": "a36508fe6151829dc0815bbb7c7c59c9",
+      "crc32": "8c399b48",
+      "sha1": "bb8283fcc85ec46b3765e2f948d79bf913ecf48c"
+    },
+    {
+      "name": "civilbeat-2022-08-30T13:03:04.753767-10:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661900590",
+      "size": "32031",
+      "md5": "481f44e18cb8e4e75037adec43963f72",
+      "crc32": "64b3c624",
+      "sha1": "79116a52fad8294b42398fba3d931e1f625ee0fc",
+      "format": "JSON"
+    },
+    {
+      "name": "civilbeat-2022-08-30T13:03:04.753767-10:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661900592",
+      "size": "58713",
+      "md5": "fe716f1c3dd579f1ce57a37bbfc4f758",
+      "crc32": "4ed5e20d",
+      "sha1": "d035a4719f0d8ae1806ab080c04ec11a92ccdec7",
+      "format": "JSON"
+    },
+    {
+      "name": "civilbeat-2022-08-30T13:03:04.753767-10:00.jpg",
+      "source": "original",
+      "mtime": "1661900589",
+      "size": "275469",
+      "md5": "d263e530bbbb9f6a5244539e7fd09305",
+      "crc32": "4b7cfc9c",
+      "sha1": "12b92a134120be769853741e331922009fca16b0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "civilbeat-2022-08-30T13:03:04.753767-10:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661900594",
+      "size": "1486",
+      "md5": "2699b48d4fac7e13b7c6dc64743d3532",
+      "crc32": "5d230bf2",
+      "sha1": "8e0b45669a3687bc12909089ad02a8b333c33d3f",
+      "format": "JSON"
+    },
+    {
+      "name": "civilbeat-2022-08-30T13:03:04.753767-10:00.wayback.json",
+      "source": "original",
+      "mtime": "1661900595",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "civilbeat-2022-08-30T13:03:04.753767-10:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "civilbeat-2022-08-30T13:03:04.753767-10:00.jpg",
+      "mtime": "1661900658",
+      "size": "9487",
+      "md5": "8c0e4f4480ea89fdcba8e8ce9b295fb6",
+      "crc32": "e33c83b4",
+      "sha1": "20f537f12210e99f0c0cde15b0df54343a5e9813"
+    },
+    {
       "name": "civilbeat-2022_archive.torrent",
       "source": "metadata",
-      "btih": "69a4db39683e57d53a60366232334eb9b8884f30",
-      "mtime": "1661814345",
-      "size": "116639",
-      "md5": "151015517ae7f7c7ccc4f2c0083ee436",
-      "crc32": "e4ddee25",
-      "sha1": "537959cbff1cdb7649af117167ba50118aeca996",
+      "btih": "d3b6204b8918d51ccac704e01ce22c015e700453",
+      "mtime": "1661900664",
+      "size": "119161",
+      "md5": "f21c32eb30410a4211fc6cfd9d3f09e0",
+      "crc32": "f45d948d",
+      "sha1": "695626e27e541a02ab35c0f0f83f00652a8346c4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "civilbeat-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1d5d93bb1df4c7b98befaa5ee7311bce",
+      "md5": "1ffa83c01233e4656b50a29f15f00f6f",
       "summation": "md5"
     },
     {
       "name": "civilbeat-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661813936",
-      "size": "692224",
-      "md5": "0ad8e4d741d15c91ee493695cfd1869b",
-      "crc32": "cb737c6b",
-      "sha1": "c8faf700860d4a900ae5e3a1182309fd525b35d4",
+      "mtime": "1661900600",
+      "size": "704512",
+      "md5": "dfdeaae18fb97f16cd4ea5c68fc0c94c",
+      "crc32": "194237db",
+      "sha1": "223560062e82409c35876a8c90b00c1ccb672b4b",
       "format": "Metadata"
     },
     {
@@ -5704,9 +5833,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 549,
-  "item_last_updated": 1661814345,
-  "item_size": 38950086,
+  "files_count": 561,
+  "item_last_updated": 1661900664,
+  "item_size": 39719528,
   "metadata": {
     "identifier": "civilbeat-2022",
     "collection": [
@@ -5723,10 +5852,10 @@
     "publicdate": "2022-07-09 03:57:02",
     "addeddate": "2022-07-09 03:57:02"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 113733110,
+  "server": "ia601405.us.archive.org",
+  "uniq": 1263496753,
   "workable_servers": [
-    "ia801405.us.archive.org",
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1661815498,
+  "created": 1661900657,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/9/items/chesbayjournal-2022",
@@ -5654,31 +5654,155 @@
       "sha1": "61d455a8593ad60e7afe8b669425f493e8c237a7"
     },
     {
+      "name": "chesbayjournal-2022-08-30T07:03:52.171664-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661857437",
+      "size": "13448",
+      "md5": "41419b5a42397095899542d0f2090f4b",
+      "crc32": "b906cba2",
+      "sha1": "aacece92c1c3191bd7f8c4bec97c17537966bf61",
+      "format": "JSON"
+    },
+    {
+      "name": "chesbayjournal-2022-08-30T07:03:52.171664-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661857438",
+      "size": "19427",
+      "md5": "3d4a53bb0e49035c5adc87529f4d4984",
+      "crc32": "574b5687",
+      "sha1": "755d96c40d6490616f4cc53bc3e19412e2ee8bad",
+      "format": "JSON"
+    },
+    {
+      "name": "chesbayjournal-2022-08-30T07:03:52.171664-04:00.jpg",
+      "source": "original",
+      "mtime": "1661857435",
+      "size": "427827",
+      "md5": "a941113789ad1e7086ab818d4901cdec",
+      "crc32": "4bc2273a",
+      "sha1": "a117c0f5ffc663f91bb2befbc7594bc7661f51a4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesbayjournal-2022-08-30T07:03:52.171664-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661857440",
+      "size": "1495",
+      "md5": "8c86b7594eba4a8b72561d830c4c86c4",
+      "crc32": "89f7ef5e",
+      "sha1": "8a00086b0fb11274fcad61490618b02f303ba78f",
+      "format": "JSON"
+    },
+    {
+      "name": "chesbayjournal-2022-08-30T07:03:52.171664-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1661857441",
+      "size": "16392",
+      "md5": "16d07a3a5f92cccedea42940e9777005",
+      "crc32": "e8759852",
+      "sha1": "c9cf1b919fd44beb8e4a5a996b65b2ebebb71a51",
+      "format": "JSON"
+    },
+    {
+      "name": "chesbayjournal-2022-08-30T07:03:52.171664-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesbayjournal-2022-08-30T07:03:52.171664-04:00.jpg",
+      "mtime": "1661857497",
+      "size": "9799",
+      "md5": "5b339e1dba8ee95b3eeeceb6d855cc6f",
+      "crc32": "ab6c9496",
+      "sha1": "755fef9489a82fd34b71e9b4d0c8e41937465d91"
+    },
+    {
+      "name": "chesbayjournal-2022-08-30T19:02:54.978967-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661900581",
+      "size": "13450",
+      "md5": "a77d75972d07ee332c7ed153111a96ac",
+      "crc32": "17211522",
+      "sha1": "e48f59902f899092c9293ef7715cdb2486366ac1",
+      "format": "JSON"
+    },
+    {
+      "name": "chesbayjournal-2022-08-30T19:02:54.978967-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661900583",
+      "size": "19427",
+      "md5": "aec7249ba684c6c21da46aa045c30a2d",
+      "crc32": "1469bf26",
+      "sha1": "6ecdb128a9042380b623b74b55e86e1703d7f351",
+      "format": "JSON"
+    },
+    {
+      "name": "chesbayjournal-2022-08-30T19:02:54.978967-04:00.jpg",
+      "source": "original",
+      "mtime": "1661900580",
+      "size": "427687",
+      "md5": "83e1ab9b83a9b6192f9f392325728169",
+      "crc32": "8d9e78e6",
+      "sha1": "7c516fb689eb5fa2cd1fa4123d4938f9d60feb17",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesbayjournal-2022-08-30T19:02:54.978967-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661900585",
+      "size": "1494",
+      "md5": "51b80625d741f225f8a1b55784e1d0a3",
+      "crc32": "13b81ba9",
+      "sha1": "48252d82f8d8c201b7b996110d94b82485247a77",
+      "format": "JSON"
+    },
+    {
+      "name": "chesbayjournal-2022-08-30T19:02:54.978967-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1661900586",
+      "size": "16412",
+      "md5": "3436bd61ebff6b6596314cb307a8b37c",
+      "crc32": "405d2b04",
+      "sha1": "fd79ec1f0828c8b3646740b3dea1dadf1505d535",
+      "format": "JSON"
+    },
+    {
+      "name": "chesbayjournal-2022-08-30T19:02:54.978967-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesbayjournal-2022-08-30T19:02:54.978967-04:00.jpg",
+      "mtime": "1661900644",
+      "size": "9817",
+      "md5": "f836786119a578401500a59ef75a54c8",
+      "crc32": "c1dd8704",
+      "sha1": "79b5ceb91d5d5f9aa50bf6578cb6802f35578e15"
+    },
+    {
       "name": "chesbayjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "427b489fd841985cbb4a076fddcb3ab9ae7f5ec0",
-      "mtime": "1661815449",
-      "size": "119368",
-      "md5": "99901a58eeb125dfdb43104a5e9e3992",
-      "crc32": "ff774ac6",
-      "sha1": "bb074c328b865d7034fea3d4884f5af9e72e05f4",
+      "btih": "04249086096668ce57f01ad17e16119f560f5a4a",
+      "mtime": "1661900650",
+      "size": "121974",
+      "md5": "fda7aa0daf8a541feb8b39065c590878",
+      "crc32": "16b65295",
+      "sha1": "d9a4e2b1f574af91acc17dc03a2ef09624d56ccc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chesbayjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d311311787618635ad5838d7544b8be0",
+      "md5": "e3c9064153b926f49df0b08d4585fd00",
       "summation": "md5"
     },
     {
       "name": "chesbayjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661813998",
-      "size": "692224",
-      "md5": "2e855251887d815baf4de0818227d4c8",
-      "crc32": "9e743ce1",
-      "sha1": "817ba00a3760480fa450623358651563100ecf98",
+      "mtime": "1661900591",
+      "size": "712704",
+      "md5": "847301d4dab31a7dc854a78c75f20a5b",
+      "crc32": "429d57c2",
+      "sha1": "7fc9b01cc290be288eb5b7f2b4b1d42ca128b2b2",
       "format": "Metadata"
     },
     {
@@ -5692,9 +5816,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 548,
-  "item_last_updated": 1661815449,
-  "item_size": 43554111,
+  "files_count": 560,
+  "item_last_updated": 1661900650,
+  "item_size": 44553872,
   "metadata": {
     "identifier": "chesbayjournal-2022",
     "collection": [
@@ -5711,10 +5835,10 @@
     "publicdate": "2022-07-09 03:56:13",
     "addeddate": "2022-07-09 03:56:13"
   },
-  "server": "ia802500.us.archive.org",
-  "uniq": 849119521,
+  "server": "ia902500.us.archive.org",
+  "uniq": 405178315,
   "workable_servers": [
-    "ia802500.us.archive.org",
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

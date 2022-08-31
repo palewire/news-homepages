@@ -1,10 +1,5 @@
 {
-  "bellingcat-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1661817937,
+  "created": 1661872707,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/4/items/bellingcat-2022",
@@ -6299,31 +6294,217 @@
       "sha1": "be2ed651ba6efcd32bd6a59f07646f5a7d791a43"
     },
     {
+      "name": "bellingcat-2022-08-30T03:27:20.062085+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661826443",
+      "size": "15048",
+      "md5": "0acb5ca329f1fbc10a94d24a6301b1fc",
+      "crc32": "e5b6bc85",
+      "sha1": "8e0f33616c46162db74b2afa47780ee56a2caccb",
+      "format": "JSON"
+    },
+    {
+      "name": "bellingcat-2022-08-30T03:27:20.062085+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661826445",
+      "size": "15288",
+      "md5": "94174984484da16d7d2915e4dd5bbe65",
+      "crc32": "dd2e4e23",
+      "sha1": "aaea2560ce617677631268c2bfc55539b1455c3b",
+      "format": "JSON"
+    },
+    {
+      "name": "bellingcat-2022-08-30T03:27:20.062085+01:00.jpg",
+      "source": "original",
+      "mtime": "1661826441",
+      "size": "306058",
+      "md5": "c700645281d327f5253598470511914c",
+      "crc32": "26ddc6ef",
+      "sha1": "f5fe4ec6323bef85fec306116039bc54e0e40710",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bellingcat-2022-08-30T03:27:20.062085+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661826446",
+      "size": "1486",
+      "md5": "92910126aee7c584ffe6f8b171974b36",
+      "crc32": "89e05474",
+      "sha1": "fe274bda680f207376fbb1f2c263f42ef6d97ec3",
+      "format": "JSON"
+    },
+    {
+      "name": "bellingcat-2022-08-30T03:27:20.062085+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1661826447",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "bellingcat-2022-08-30T03:27:20.062085+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bellingcat-2022-08-30T03:27:20.062085+01:00.jpg",
+      "mtime": "1661826507",
+      "size": "9830",
+      "md5": "d605cc4c5a9cd29fe95af20b0c3a0f07",
+      "crc32": "90b3b39f",
+      "sha1": "be2ed651ba6efcd32bd6a59f07646f5a7d791a43"
+    },
+    {
+      "name": "bellingcat-2022-08-30T10:19:03.072523+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661851149",
+      "size": "15048",
+      "md5": "0acb5ca329f1fbc10a94d24a6301b1fc",
+      "crc32": "e5b6bc85",
+      "sha1": "8e0f33616c46162db74b2afa47780ee56a2caccb",
+      "format": "JSON"
+    },
+    {
+      "name": "bellingcat-2022-08-30T10:19:03.072523+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661851150",
+      "size": "15288",
+      "md5": "94174984484da16d7d2915e4dd5bbe65",
+      "crc32": "dd2e4e23",
+      "sha1": "aaea2560ce617677631268c2bfc55539b1455c3b",
+      "format": "JSON"
+    },
+    {
+      "name": "bellingcat-2022-08-30T10:19:03.072523+01:00.jpg",
+      "source": "original",
+      "mtime": "1661851147",
+      "size": "306058",
+      "md5": "c700645281d327f5253598470511914c",
+      "crc32": "26ddc6ef",
+      "sha1": "f5fe4ec6323bef85fec306116039bc54e0e40710",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bellingcat-2022-08-30T10:19:03.072523+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661851152",
+      "size": "1486",
+      "md5": "b6fffbdfc27b5d15004064d5a6fd942b",
+      "crc32": "7e35d4ed",
+      "sha1": "00d1c820ea336f674a3f56cb6dad101e8054e3f4",
+      "format": "JSON"
+    },
+    {
+      "name": "bellingcat-2022-08-30T10:19:03.072523+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1661851153",
+      "size": "8748",
+      "md5": "5790cebe41c6c640a7654ef532b14cab",
+      "crc32": "35301228",
+      "sha1": "6e6f87dbdbf2c8cff7edefec20f6210132305414",
+      "format": "JSON"
+    },
+    {
+      "name": "bellingcat-2022-08-30T10:19:03.072523+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bellingcat-2022-08-30T10:19:03.072523+01:00.jpg",
+      "mtime": "1661851205",
+      "size": "9830",
+      "md5": "d605cc4c5a9cd29fe95af20b0c3a0f07",
+      "crc32": "90b3b39f",
+      "sha1": "be2ed651ba6efcd32bd6a59f07646f5a7d791a43"
+    },
+    {
+      "name": "bellingcat-2022-08-30T16:17:08.696116+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661872632",
+      "size": "15048",
+      "md5": "0acb5ca329f1fbc10a94d24a6301b1fc",
+      "crc32": "e5b6bc85",
+      "sha1": "8e0f33616c46162db74b2afa47780ee56a2caccb",
+      "format": "JSON"
+    },
+    {
+      "name": "bellingcat-2022-08-30T16:17:08.696116+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661872634",
+      "size": "15288",
+      "md5": "94174984484da16d7d2915e4dd5bbe65",
+      "crc32": "dd2e4e23",
+      "sha1": "aaea2560ce617677631268c2bfc55539b1455c3b",
+      "format": "JSON"
+    },
+    {
+      "name": "bellingcat-2022-08-30T16:17:08.696116+01:00.jpg",
+      "source": "original",
+      "mtime": "1661872630",
+      "size": "306058",
+      "md5": "c700645281d327f5253598470511914c",
+      "crc32": "26ddc6ef",
+      "sha1": "f5fe4ec6323bef85fec306116039bc54e0e40710",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bellingcat-2022-08-30T16:17:08.696116+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661872636",
+      "size": "1484",
+      "md5": "bf5cb9857562fe1710fe432e32bdfa65",
+      "crc32": "299c614f",
+      "sha1": "b46321c48cb4cae49c12ee67c2c0b8a5b03b858b",
+      "format": "JSON"
+    },
+    {
+      "name": "bellingcat-2022-08-30T16:17:08.696116+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1661872638",
+      "size": "8745",
+      "md5": "fe7e95df8c37d6ad49efee5a42f213f4",
+      "crc32": "1cbf41b7",
+      "sha1": "7a35ab9a515224745facdea38c7bf6f6181b277d",
+      "format": "JSON"
+    },
+    {
+      "name": "bellingcat-2022-08-30T16:17:08.696116+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bellingcat-2022-08-30T16:17:08.696116+01:00.jpg",
+      "mtime": "1661872691",
+      "size": "9830",
+      "md5": "d605cc4c5a9cd29fe95af20b0c3a0f07",
+      "crc32": "90b3b39f",
+      "sha1": "be2ed651ba6efcd32bd6a59f07646f5a7d791a43"
+    },
+    {
       "name": "bellingcat-2022_archive.torrent",
       "source": "metadata",
-      "btih": "de446d2e47bddbd1a0df79443b584fc20d92fbdc",
-      "mtime": "1661782001",
-      "size": "130102",
-      "md5": "14c426472f6991c1e84588d6b23fea29",
-      "crc32": "7a953229",
-      "sha1": "ac9409bb69cc1d315d06308a5d323a5dd964b1b6",
+      "btih": "bc5b0f9ec2501a345f12685b69d487b1b5c8e6fb",
+      "mtime": "1661872697",
+      "size": "133915",
+      "md5": "38ff03ae27c4da542d7eed27d84e7682",
+      "crc32": "7e228b6d",
+      "sha1": "c2f93d7d99a5b59aa56ce984c8a2422de9718789",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bellingcat-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "62487236dbd1c387ac68b7fc280e41aa",
+      "md5": "95b0066bcc75bb9027ae2c32e5cda8a3",
       "summation": "md5"
     },
     {
       "name": "bellingcat-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661781948",
-      "size": "770048",
-      "md5": "0c76782e3f9bc11a28957cddd56a2994",
-      "crc32": "007ca58d",
-      "sha1": "d17ce4800c9ccc1666781873140f24a48d1044c9",
+      "mtime": "1661872641",
+      "size": "790528",
+      "md5": "0102694df514f6f2029701c3a7aa2067",
+      "crc32": "7c2f7063",
+      "sha1": "d0cd4a76d97d78d9dbd0b078c2ae9f688f975bdc",
       "format": "Metadata"
     },
     {
@@ -6337,9 +6518,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 610,
-  "item_last_updated": 1661782001,
-  "item_size": 42075265,
+  "files_count": 628,
+  "item_last_updated": 1661872697,
+  "item_size": 43160381,
   "metadata": {
     "identifier": "bellingcat-2022",
     "collection": [
@@ -6356,10 +6537,10 @@
     "publicdate": "2022-07-10 04:03:21",
     "addeddate": "2022-07-10 04:03:21"
   },
-  "server": "ia801504.us.archive.org",
-  "uniq": 1706094376,
+  "server": "ia601504.us.archive.org",
+  "uniq": 963971539,
   "workable_servers": [
-    "ia801504.us.archive.org",
-    "ia601504.us.archive.org"
+    "ia601504.us.archive.org",
+    "ia801504.us.archive.org"
   ]
 }
