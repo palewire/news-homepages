@@ -31,7 +31,8 @@ def cli():
 
 @cli.command()
 @click.option("-y", "--year", "year", default=CURRENT_YEAR)
-def download_items(year: str):
+@click.option("--site", "site", default=None)
+def download_items(year: str, site: str = None):
     """Download the full list of Internet Archive items as JSON."""
     print(
         f"Extracting {year} metadata for the Internet Archive collection {IA_COLLECTION}"
@@ -41,9 +42,12 @@ def download_items(year: str):
         json.dump(collection.item_metadata, fh, indent=2)
 
     # Go get all the items in the collection from that year
-    item_list = internetarchive.search_items(
-        f"collection:{IA_COLLECTION} AND identifier:(*-{year})"
-    ).iter_as_items()
+
+    if site:
+        search = f"collection:{IA_COLLECTION} AND identifier:({site}-{year})"
+    else:
+        search = f"collection:{IA_COLLECTION} AND identifier:(*-{year})"
+    item_list = internetarchive.search_items(search).iter_as_items()
     for item in track(item_list):
         # Save it locally
         with open(utils.EXTRACT_DIR / "json" / f"{item.identifier}.json", "w") as fh:
