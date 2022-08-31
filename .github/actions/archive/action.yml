@@ -64,3 +64,16 @@ runs:
         name: archive
         path: _dist
         if-no-files-found: error
+
+    - id: commit
+      name: Commit
+      run: |
+        mkdir -p newshomepages/sources/latest/
+        cp _dist/${{ inputs.source }}.json newshomepages/sources/latest/
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git config pull.rebase false
+        git pull origin $GITHUB_REF
+        git add ./newshomepages/sources/latest/${{ inputs.source }}.json
+        git commit -m "Archive latest ${{ inputs.source }}.json" --author="palewire <palewire@users.noreply.github.com>" && git push || true
+      shell: bash
