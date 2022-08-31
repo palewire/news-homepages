@@ -180,11 +180,11 @@ The median score for each category, along with how it ranks in comparison to the
     <td>
         Accessibility
     </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        86
+    <td style="text-align: right; background-color: green; color: white;">
+        91
     </td>
     <td style="text-align: right;">
-        406
+        223
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         83
     </td>
     <td style="text-align: right;">
-        424
+        411
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        58
+        62
     </td>
     <td style="text-align: right;">
-        126
+        110
     </td>
   </tr>
 
@@ -216,11 +216,11 @@ The median score for each category, along with how it ranks in comparison to the
     <td>
         SEO
     </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        88
+    <td style="text-align: right; background-color: green; color: white;">
+        91
     </td>
     <td style="text-align: right;">
-        447
+        281
     </td>
   </tr>
 
