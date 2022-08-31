@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 876 news sites.
+The most recent homepages captured from 877 news sites.
 
 <div class="latest-parent">
 
@@ -7160,6 +7160,15 @@ The most recent homepages captured from 876 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/ukrinform.html">Ukrinform</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/unherd.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/unherd.jpg"
+     alt="UnHerd"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/unherd.html">UnHerd</a></p>
 </div>
 
 <div class="latest-child">
