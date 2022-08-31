@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 5 screenshots with the Internet Archive.
+The archiving routine has saved 9 screenshots with the Internet Archive.
 
 
 
@@ -37,55 +37,91 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-28T09:01:49.511942-04:00.jpg">
-  <img src="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-28T09:01:49.511942-04:00.jpg"
-     alt="Spotlight DC at 2022-08-28 09:01:51-04:00 local time"
+ <a href="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-30T09:11:48.238100-04:00.jpg">
+  <img src="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-30T09:11:48.238100-04:00.jpg"
+     alt="Spotlight DC at 2022-08-30 02:11:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-28T09:01:49.511942-04:00.jpg">August 28 at 9:01 AM</a></p>
+ <p><a href="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-30T09:11:48.238100-04:00.jpg">August 30 at 2:11 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-29T21:17:00.896988-04:00.jpg">
+  <img src="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-29T21:17:00.896988-04:00.jpg"
+     alt="Spotlight DC at 2022-08-29 14:17:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-29T21:17:00.896988-04:00.jpg">August 29 at 2:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-29T09:01:22.754557-04:00.jpg">
+  <img src="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-29T09:01:22.754557-04:00.jpg"
+     alt="Spotlight DC at 2022-08-29 02:01:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-29T09:01:22.754557-04:00.jpg">August 29 at 2:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-28T21:16:16.525038-04:00.jpg">
+  <img src="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-28T21:16:16.525038-04:00.jpg"
+     alt="Spotlight DC at 2022-08-28 14:16:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-28T21:16:16.525038-04:00.jpg">August 28 at 2:16 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-28T09:01:49.511942-04:00.jpg">
+  <img src="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-28T09:01:49.511942-04:00.jpg"
+     alt="Spotlight DC at 2022-08-28 02:01:51-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-28T09:01:49.511942-04:00.jpg">August 28 at 2:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-27T21:29:15.652704-04:00.jpg">
   <img src="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-27T21:29:15.652704-04:00.jpg"
-     alt="Spotlight DC at 2022-08-27 21:29:16-04:00 local time"
+     alt="Spotlight DC at 2022-08-27 14:29:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-27T21:29:15.652704-04:00.jpg">August 27 at 9:29 PM</a></p>
+ <p><a href="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-27T21:29:15.652704-04:00.jpg">August 27 at 2:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-27T08:57:13.047647-04:00.jpg">
   <img src="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-27T08:57:13.047647-04:00.jpg"
-     alt="Spotlight DC at 2022-08-27 08:57:14-04:00 local time"
+     alt="Spotlight DC at 2022-08-27 01:57:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-27T08:57:13.047647-04:00.jpg">August 27 at 8:57 AM</a></p>
+ <p><a href="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-27T08:57:13.047647-04:00.jpg">August 27 at 1:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-26T21:08:06.086938-04:00.jpg">
   <img src="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-26T21:08:06.086938-04:00.jpg"
-     alt="Spotlight DC at 2022-08-26 21:08:07-04:00 local time"
+     alt="Spotlight DC at 2022-08-26 14:08:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-26T21:08:06.086938-04:00.jpg">August 26 at 9:08 PM</a></p>
+ <p><a href="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-26T21:08:06.086938-04:00.jpg">August 26 at 2:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-26T09:01:02.630448-04:00.jpg">
   <img src="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-26T09:01:02.630448-04:00.jpg"
-     alt="Spotlight DC at 2022-08-26 09:01:08-04:00 local time"
+     alt="Spotlight DC at 2022-08-26 02:01:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-26T09:01:02.630448-04:00.jpg">August 26 at 9:01 AM</a></p>
+ <p><a href="https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-26T09:01:02.630448-04:00.jpg">August 26 at 2:01 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 5 hyperlink lists with the Internet Archive.
+The archiving routine has saved 9 hyperlink lists with the Internet Archive.
 
 
 
@@ -93,16 +129,20 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 9:01 AM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-28T09:01:49.511942-04:00.hyperlinks.json) |
-| [August 27 at 9:29 PM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-27T21:29:15.652704-04:00.hyperlinks.json) |
-| [August 27 at 8:57 AM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-27T08:57:13.047647-04:00.hyperlinks.json) |
-| [August 26 at 9:08 PM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-26T21:08:06.086938-04:00.hyperlinks.json) |
-| [August 26 at 9:01 AM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-26T09:01:02.630448-04:00.hyperlinks.json) |
+| [August 30 at 2:11 AM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-30T09:11:48.238100-04:00.hyperlinks.json) |
+| [August 29 at 2:17 PM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-29T21:17:00.896988-04:00.hyperlinks.json) |
+| [August 29 at 2:01 AM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-29T09:01:22.754557-04:00.hyperlinks.json) |
+| [August 28 at 2:16 PM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-28T21:16:16.525038-04:00.hyperlinks.json) |
+| [August 28 at 2:01 AM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-28T09:01:49.511942-04:00.hyperlinks.json) |
+| [August 27 at 2:29 PM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-27T21:29:15.652704-04:00.hyperlinks.json) |
+| [August 27 at 1:57 AM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-27T08:57:13.047647-04:00.hyperlinks.json) |
+| [August 26 at 2:08 PM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-26T21:08:06.086938-04:00.hyperlinks.json) |
+| [August 26 at 2:01 AM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-26T09:01:02.630448-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 5 accessibility trees with the Internet Archive.
+The archiving routine has saved 9 accessibility trees with the Internet Archive.
 
 
 
@@ -110,17 +150,21 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 9:01 AM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-28T09:01:49.511942-04:00.accessibility.json) |
-| [August 27 at 9:29 PM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-27T21:29:15.652704-04:00.accessibility.json) |
-| [August 27 at 8:57 AM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-27T08:57:13.047647-04:00.accessibility.json) |
-| [August 26 at 9:08 PM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-26T21:08:06.086938-04:00.accessibility.json) |
-| [August 26 at 9:01 AM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-26T09:01:02.630448-04:00.accessibility.json) |
+| [August 30 at 2:11 AM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-30T09:11:48.238100-04:00.accessibility.json) |
+| [August 29 at 2:17 PM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-29T21:17:00.896988-04:00.accessibility.json) |
+| [August 29 at 2:01 AM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-29T09:01:22.754557-04:00.accessibility.json) |
+| [August 28 at 2:16 PM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-28T21:16:16.525038-04:00.accessibility.json) |
+| [August 28 at 2:01 AM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-28T09:01:49.511942-04:00.accessibility.json) |
+| [August 27 at 2:29 PM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-27T21:29:15.652704-04:00.accessibility.json) |
+| [August 27 at 1:57 AM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-27T08:57:13.047647-04:00.accessibility.json) |
+| [August 26 at 2:08 PM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-26T21:08:06.086938-04:00.accessibility.json) |
+| [August 26 at 2:01 AM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-26T09:01:02.630448-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 5 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
 
 
 
@@ -128,11 +172,15 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 9:01 AM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-28T09:01:49.511942-04:00.lighthouse.json) |
-| [August 27 at 9:29 PM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-27T21:29:15.652704-04:00.lighthouse.json) |
-| [August 27 at 8:57 AM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-27T08:57:13.047647-04:00.lighthouse.json) |
-| [August 26 at 9:08 PM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-26T21:08:06.086938-04:00.lighthouse.json) |
-| [August 26 at 9:01 AM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-26T09:01:02.630448-04:00.lighthouse.json) |
+| [August 30 at 2:11 AM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-30T09:11:48.238100-04:00.lighthouse.json) |
+| [August 29 at 2:17 PM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-29T21:17:00.896988-04:00.lighthouse.json) |
+| [August 29 at 2:01 AM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-29T09:01:22.754557-04:00.lighthouse.json) |
+| [August 28 at 2:16 PM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-28T21:16:16.525038-04:00.lighthouse.json) |
+| [August 28 at 2:01 AM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-28T09:01:49.511942-04:00.lighthouse.json) |
+| [August 27 at 2:29 PM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-27T21:29:15.652704-04:00.lighthouse.json) |
+| [August 27 at 1:57 AM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-27T08:57:13.047647-04:00.lighthouse.json) |
+| [August 26 at 2:08 PM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-26T21:08:06.086938-04:00.lighthouse.json) |
+| [August 26 at 2:01 AM](https://archive.org/download/spotlight4dc-2022/spotlight4dc-2022-08-26T09:01:02.630448-04:00.lighthouse.json) |
 
 
 

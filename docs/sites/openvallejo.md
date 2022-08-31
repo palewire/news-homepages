@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 111 screenshots with the Internet Archive.
+The archiving routine has saved 115 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-28T05:59:02.941827-07:00.jpg">
-  <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-28T05:59:02.941827-07:00.jpg"
-     alt="Open Vallejo at 2022-08-28 05:59:04-07:00 local time"
+ <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-30T06:09:03.323623-07:00.jpg">
+  <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-30T06:09:03.323623-07:00.jpg"
+     alt="Open Vallejo at 2022-08-29 23:09:07-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-28T05:59:02.941827-07:00.jpg">August 28 at 5:59 AM</a></p>
+ <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-30T06:09:03.323623-07:00.jpg">August 29 at 11:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-29T18:15:21.190799-07:00.jpg">
+  <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-29T18:15:21.190799-07:00.jpg"
+     alt="Open Vallejo at 2022-08-29 11:15:22-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-29T18:15:21.190799-07:00.jpg">August 29 at 11:15 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-29T05:59:37.408996-07:00.jpg">
+  <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-29T05:59:37.408996-07:00.jpg"
+     alt="Open Vallejo at 2022-08-28 22:59:41-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-29T05:59:37.408996-07:00.jpg">August 28 at 10:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-28T18:15:08.679326-07:00.jpg">
+  <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-28T18:15:08.679326-07:00.jpg"
+     alt="Open Vallejo at 2022-08-28 11:15:09-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-28T18:15:08.679326-07:00.jpg">August 28 at 11:15 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-28T05:59:02.941827-07:00.jpg">
+  <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-28T05:59:02.941827-07:00.jpg"
+     alt="Open Vallejo at 2022-08-27 22:59:04-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-28T05:59:02.941827-07:00.jpg">August 27 at 10:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-27T18:26:56.430888-07:00.jpg">
   <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-27T18:26:56.430888-07:00.jpg"
-     alt="Open Vallejo at 2022-08-27 18:26:58-07:00 local time"
+     alt="Open Vallejo at 2022-08-27 11:26:58-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-27T18:26:56.430888-07:00.jpg">August 27 at 6:26 PM</a></p>
+ <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-27T18:26:56.430888-07:00.jpg">August 27 at 11:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-27T05:55:42.658518-07:00.jpg">
   <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-27T05:55:42.658518-07:00.jpg"
-     alt="Open Vallejo at 2022-08-27 05:55:46-07:00 local time"
+     alt="Open Vallejo at 2022-08-26 22:55:46-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-27T05:55:42.658518-07:00.jpg">August 27 at 5:55 AM</a></p>
+ <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-27T05:55:42.658518-07:00.jpg">August 26 at 10:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-26T18:06:17.199422-07:00.jpg">
   <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-26T18:06:17.199422-07:00.jpg"
-     alt="Open Vallejo at 2022-08-26 18:06:19-07:00 local time"
+     alt="Open Vallejo at 2022-08-26 11:06:19-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-26T18:06:17.199422-07:00.jpg">August 26 at 6:06 PM</a></p>
+ <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-26T18:06:17.199422-07:00.jpg">August 26 at 11:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-26T05:59:17.088915-07:00.jpg">
   <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-26T05:59:17.088915-07:00.jpg"
-     alt="Open Vallejo at 2022-08-26 05:59:18-07:00 local time"
+     alt="Open Vallejo at 2022-08-25 22:59:18-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-26T05:59:17.088915-07:00.jpg">August 26 at 5:59 AM</a></p>
+ <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-26T05:59:17.088915-07:00.jpg">August 25 at 10:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-25T18:13:38.200464-07:00.jpg">
   <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-25T18:13:38.200464-07:00.jpg"
-     alt="Open Vallejo at 2022-08-25 18:13:42-07:00 local time"
+     alt="Open Vallejo at 2022-08-25 11:13:42-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-25T18:13:38.200464-07:00.jpg">August 25 at 6:13 PM</a></p>
+ <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-25T18:13:38.200464-07:00.jpg">August 25 at 11:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-25T06:03:09.538846-07:00.jpg">
   <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-25T06:03:09.538846-07:00.jpg"
-     alt="Open Vallejo at 2022-08-25 06:03:21-07:00 local time"
+     alt="Open Vallejo at 2022-08-24 23:03:21-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-25T06:03:09.538846-07:00.jpg">August 25 at 6:03 AM</a></p>
+ <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-25T06:03:09.538846-07:00.jpg">August 24 at 11:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-24T05:55:31.010582-07:00.jpg">
   <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-24T05:55:31.010582-07:00.jpg"
-     alt="Open Vallejo at 2022-08-24 05:55:32-07:00 local time"
+     alt="Open Vallejo at 2022-08-23 22:55:32-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-24T05:55:31.010582-07:00.jpg">August 24 at 5:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-23T18:07:54.776856-07:00.jpg">
-  <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-23T18:07:54.776856-07:00.jpg"
-     alt="Open Vallejo at 2022-08-23 18:07:59-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-23T18:07:54.776856-07:00.jpg">August 23 at 6:07 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-23T05:55:01.711521-07:00.jpg">
-  <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-23T05:55:01.711521-07:00.jpg"
-     alt="Open Vallejo at 2022-08-23 05:55:03-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-23T05:55:01.711521-07:00.jpg">August 23 at 5:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-23T05:02:25.987845-07:00.jpg">
-  <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-23T05:02:25.987845-07:00.jpg"
-     alt="Open Vallejo at 2022-08-23 05:02:30-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-23T05:02:25.987845-07:00.jpg">August 23 at 5:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-22T17:03:18.515576-07:00.jpg">
-  <img src="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-22T17:03:18.515576-07:00.jpg"
-     alt="Open Vallejo at 2022-08-22 17:03:19-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-22T17:03:18.515576-07:00.jpg">August 22 at 5:03 PM</a></p>
+ <p><a href="https://archive.org/download/openvallejo-2022/openvallejo-2022-08-24T05:55:31.010582-07:00.jpg">August 23 at 10:55 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 112 hyperlink lists with the Internet Archive.
+The archiving routine has saved 116 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 5:59 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-28T05:59:02.941827-07:00.hyperlinks.json) |
-| [August 27 at 6:27 PM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-27T18:26:56.430888-07:00.hyperlinks.json) |
-| [August 27 at 5:55 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-27T05:55:42.658518-07:00.hyperlinks.json) |
-| [August 26 at 6:06 PM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-26T18:06:17.199422-07:00.hyperlinks.json) |
-| [August 26 at 5:59 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-26T05:59:17.088915-07:00.hyperlinks.json) |
-| [August 25 at 6:13 PM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-25T18:13:38.200464-07:00.hyperlinks.json) |
-| [August 25 at 6:03 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-25T06:03:09.538846-07:00.hyperlinks.json) |
-| [August 24 at 5:55 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-24T05:55:31.010582-07:00.hyperlinks.json) |
-| [August 23 at 6:08 PM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-23T18:07:54.776856-07:00.hyperlinks.json) |
-| [August 23 at 5:55 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-23T05:55:01.711521-07:00.hyperlinks.json) |
+| [August 29 at 11:09 PM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-30T06:09:03.323623-07:00.hyperlinks.json) |
+| [August 29 at 11:15 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-29T18:15:21.190799-07:00.hyperlinks.json) |
+| [August 28 at 10:59 PM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-29T05:59:37.408996-07:00.hyperlinks.json) |
+| [August 28 at 11:15 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-28T18:15:08.679326-07:00.hyperlinks.json) |
+| [August 27 at 10:59 PM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-28T05:59:02.941827-07:00.hyperlinks.json) |
+| [August 27 at 11:27 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-27T18:26:56.430888-07:00.hyperlinks.json) |
+| [August 26 at 10:55 PM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-27T05:55:42.658518-07:00.hyperlinks.json) |
+| [August 26 at 11:06 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-26T18:06:17.199422-07:00.hyperlinks.json) |
+| [August 25 at 10:59 PM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-26T05:59:17.088915-07:00.hyperlinks.json) |
+| [August 25 at 11:13 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-25T18:13:38.200464-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 112 accessibility trees with the Internet Archive.
+The archiving routine has saved 116 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 5:59 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-28T05:59:02.941827-07:00.accessibility.json) |
-| [August 27 at 6:26 PM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-27T18:26:56.430888-07:00.accessibility.json) |
-| [August 27 at 5:55 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-27T05:55:42.658518-07:00.accessibility.json) |
-| [August 26 at 6:06 PM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-26T18:06:17.199422-07:00.accessibility.json) |
-| [August 26 at 5:59 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-26T05:59:17.088915-07:00.accessibility.json) |
-| [August 25 at 6:13 PM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-25T18:13:38.200464-07:00.accessibility.json) |
-| [August 25 at 6:03 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-25T06:03:09.538846-07:00.accessibility.json) |
-| [August 24 at 5:55 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-24T05:55:31.010582-07:00.accessibility.json) |
-| [August 23 at 6:08 PM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-23T18:07:54.776856-07:00.accessibility.json) |
-| [August 23 at 5:55 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-23T05:55:01.711521-07:00.accessibility.json) |
+| [August 29 at 11:09 PM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-30T06:09:03.323623-07:00.accessibility.json) |
+| [August 29 at 11:15 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-29T18:15:21.190799-07:00.accessibility.json) |
+| [August 28 at 10:59 PM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-29T05:59:37.408996-07:00.accessibility.json) |
+| [August 28 at 11:15 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-28T18:15:08.679326-07:00.accessibility.json) |
+| [August 27 at 10:59 PM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-28T05:59:02.941827-07:00.accessibility.json) |
+| [August 27 at 11:26 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-27T18:26:56.430888-07:00.accessibility.json) |
+| [August 26 at 10:55 PM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-27T05:55:42.658518-07:00.accessibility.json) |
+| [August 26 at 11:06 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-26T18:06:17.199422-07:00.accessibility.json) |
+| [August 25 at 10:59 PM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-26T05:59:17.088915-07:00.accessibility.json) |
+| [August 25 at 11:13 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-25T18:13:38.200464-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 73 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 77 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 5:59 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-28T05:59:02.941827-07:00.lighthouse.json) |
-| [August 27 at 6:27 PM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-27T18:26:56.430888-07:00.lighthouse.json) |
-| [August 27 at 5:55 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-27T05:55:42.658518-07:00.lighthouse.json) |
-| [August 26 at 6:06 PM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-26T18:06:17.199422-07:00.lighthouse.json) |
-| [August 26 at 5:59 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-26T05:59:17.088915-07:00.lighthouse.json) |
-| [August 25 at 6:13 PM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-25T18:13:38.200464-07:00.lighthouse.json) |
-| [August 25 at 6:03 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-25T06:03:09.538846-07:00.lighthouse.json) |
-| [August 24 at 5:55 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-24T05:55:31.010582-07:00.lighthouse.json) |
-| [August 23 at 6:08 PM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-23T18:07:54.776856-07:00.lighthouse.json) |
-| [August 23 at 5:55 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-23T05:55:01.711521-07:00.lighthouse.json) |
+| [August 29 at 11:09 PM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-30T06:09:03.323623-07:00.lighthouse.json) |
+| [August 29 at 11:15 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-29T18:15:21.190799-07:00.lighthouse.json) |
+| [August 28 at 10:59 PM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-29T05:59:37.408996-07:00.lighthouse.json) |
+| [August 28 at 11:15 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-28T18:15:08.679326-07:00.lighthouse.json) |
+| [August 27 at 10:59 PM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-28T05:59:02.941827-07:00.lighthouse.json) |
+| [August 27 at 11:27 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-27T18:26:56.430888-07:00.lighthouse.json) |
+| [August 26 at 10:55 PM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-27T05:55:42.658518-07:00.lighthouse.json) |
+| [August 26 at 11:06 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-26T18:06:17.199422-07:00.lighthouse.json) |
+| [August 25 at 10:59 PM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-26T05:59:17.088915-07:00.lighthouse.json) |
+| [August 25 at 11:13 AM](https://archive.org/download/openvallejo-2022/openvallejo-2022-08-25T18:13:38.200464-07:00.lighthouse.json) |
 
 
 

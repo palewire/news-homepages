@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 166 screenshots with the Internet Archive.
+The archiving routine has saved 170 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/sludge-2022/sludge-2022-08-28T12:01:54.908807-04:00.jpg">
-  <img src="https://archive.org/download/sludge-2022/sludge-2022-08-28T12:01:54.908807-04:00.jpg"
-     alt="Sludge at 2022-08-28 12:01:56-04:00 local time"
+ <a href="https://archive.org/download/sludge-2022/sludge-2022-08-30T12:35:52.248980-04:00.jpg">
+  <img src="https://archive.org/download/sludge-2022/sludge-2022-08-30T12:35:52.248980-04:00.jpg"
+     alt="Sludge at 2022-08-30 05:35:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sludge-2022/sludge-2022-08-28T12:01:54.908807-04:00.jpg">August 28 at 12:01 PM</a></p>
+ <p><a href="https://archive.org/download/sludge-2022/sludge-2022-08-30T12:35:52.248980-04:00.jpg">August 30 at 5:35 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sludge-2022/sludge-2022-08-30T00:55:52.868019-04:00.jpg">
+  <img src="https://archive.org/download/sludge-2022/sludge-2022-08-30T00:55:52.868019-04:00.jpg"
+     alt="Sludge at 2022-08-29 17:55:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sludge-2022/sludge-2022-08-30T00:55:52.868019-04:00.jpg">August 29 at 5:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sludge-2022/sludge-2022-08-29T12:17:34.859175-04:00.jpg">
+  <img src="https://archive.org/download/sludge-2022/sludge-2022-08-29T12:17:34.859175-04:00.jpg"
+     alt="Sludge at 2022-08-29 05:17:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sludge-2022/sludge-2022-08-29T12:17:34.859175-04:00.jpg">August 29 at 5:17 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sludge-2022/sludge-2022-08-29T00:41:03.360808-04:00.jpg">
+  <img src="https://archive.org/download/sludge-2022/sludge-2022-08-29T00:41:03.360808-04:00.jpg"
+     alt="Sludge at 2022-08-28 17:41:04-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sludge-2022/sludge-2022-08-29T00:41:03.360808-04:00.jpg">August 28 at 5:41 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sludge-2022/sludge-2022-08-28T12:01:54.908807-04:00.jpg">
+  <img src="https://archive.org/download/sludge-2022/sludge-2022-08-28T12:01:54.908807-04:00.jpg"
+     alt="Sludge at 2022-08-28 05:01:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sludge-2022/sludge-2022-08-28T12:01:54.908807-04:00.jpg">August 28 at 5:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sludge-2022/sludge-2022-08-28T00:37:03.805570-04:00.jpg">
   <img src="https://archive.org/download/sludge-2022/sludge-2022-08-28T00:37:03.805570-04:00.jpg"
-     alt="Sludge at 2022-08-28 00:37:05-04:00 local time"
+     alt="Sludge at 2022-08-27 17:37:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sludge-2022/sludge-2022-08-28T00:37:03.805570-04:00.jpg">August 28 at 12:37 AM</a></p>
+ <p><a href="https://archive.org/download/sludge-2022/sludge-2022-08-28T00:37:03.805570-04:00.jpg">August 27 at 5:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sludge-2022/sludge-2022-08-27T11:58:40.093179-04:00.jpg">
   <img src="https://archive.org/download/sludge-2022/sludge-2022-08-27T11:58:40.093179-04:00.jpg"
-     alt="Sludge at 2022-08-27 11:58:44-04:00 local time"
+     alt="Sludge at 2022-08-27 04:58:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sludge-2022/sludge-2022-08-27T11:58:40.093179-04:00.jpg">August 27 at 11:58 AM</a></p>
+ <p><a href="https://archive.org/download/sludge-2022/sludge-2022-08-27T11:58:40.093179-04:00.jpg">August 27 at 4:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sludge-2022/sludge-2022-08-27T00:37:52.390128-04:00.jpg">
   <img src="https://archive.org/download/sludge-2022/sludge-2022-08-27T00:37:52.390128-04:00.jpg"
-     alt="Sludge at 2022-08-27 00:37:53-04:00 local time"
+     alt="Sludge at 2022-08-26 17:37:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sludge-2022/sludge-2022-08-27T00:37:52.390128-04:00.jpg">August 27 at 12:37 AM</a></p>
+ <p><a href="https://archive.org/download/sludge-2022/sludge-2022-08-27T00:37:52.390128-04:00.jpg">August 26 at 5:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sludge-2022/sludge-2022-08-26T12:06:43.119438-04:00.jpg">
   <img src="https://archive.org/download/sludge-2022/sludge-2022-08-26T12:06:43.119438-04:00.jpg"
-     alt="Sludge at 2022-08-26 12:06:44-04:00 local time"
+     alt="Sludge at 2022-08-26 05:06:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sludge-2022/sludge-2022-08-26T12:06:43.119438-04:00.jpg">August 26 at 12:06 PM</a></p>
+ <p><a href="https://archive.org/download/sludge-2022/sludge-2022-08-26T12:06:43.119438-04:00.jpg">August 26 at 5:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sludge-2022/sludge-2022-08-26T00:42:18.930656-04:00.jpg">
   <img src="https://archive.org/download/sludge-2022/sludge-2022-08-26T00:42:18.930656-04:00.jpg"
-     alt="Sludge at 2022-08-26 00:42:21-04:00 local time"
+     alt="Sludge at 2022-08-25 17:42:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sludge-2022/sludge-2022-08-26T00:42:18.930656-04:00.jpg">August 26 at 12:42 AM</a></p>
+ <p><a href="https://archive.org/download/sludge-2022/sludge-2022-08-26T00:42:18.930656-04:00.jpg">August 25 at 5:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sludge-2022/sludge-2022-08-25T12:04:42.223078-04:00.jpg">
   <img src="https://archive.org/download/sludge-2022/sludge-2022-08-25T12:04:42.223078-04:00.jpg"
-     alt="Sludge at 2022-08-25 12:04:51-04:00 local time"
+     alt="Sludge at 2022-08-25 05:04:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sludge-2022/sludge-2022-08-25T12:04:42.223078-04:00.jpg">August 25 at 12:04 PM</a></p>
+ <p><a href="https://archive.org/download/sludge-2022/sludge-2022-08-25T12:04:42.223078-04:00.jpg">August 25 at 5:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sludge-2022/sludge-2022-08-24T12:01:46.441538-04:00.jpg">
   <img src="https://archive.org/download/sludge-2022/sludge-2022-08-24T12:01:46.441538-04:00.jpg"
-     alt="Sludge at 2022-08-24 12:01:50-04:00 local time"
+     alt="Sludge at 2022-08-24 05:01:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sludge-2022/sludge-2022-08-24T12:01:46.441538-04:00.jpg">August 24 at 12:01 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sludge-2022/sludge-2022-08-24T00:37:17.475845-04:00.jpg">
-  <img src="https://archive.org/download/sludge-2022/sludge-2022-08-24T00:37:17.475845-04:00.jpg"
-     alt="Sludge at 2022-08-24 00:37:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sludge-2022/sludge-2022-08-24T00:37:17.475845-04:00.jpg">August 24 at 12:37 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sludge-2022/sludge-2022-08-23T12:05:42.954324-04:00.jpg">
-  <img src="https://archive.org/download/sludge-2022/sludge-2022-08-23T12:05:42.954324-04:00.jpg"
-     alt="Sludge at 2022-08-23 12:05:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sludge-2022/sludge-2022-08-23T12:05:42.954324-04:00.jpg">August 23 at 12:05 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sludge-2022/sludge-2022-08-22T23:57:21.483290-04:00.jpg">
-  <img src="https://archive.org/download/sludge-2022/sludge-2022-08-22T23:57:21.483290-04:00.jpg"
-     alt="Sludge at 2022-08-22 23:57:25-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sludge-2022/sludge-2022-08-22T23:57:21.483290-04:00.jpg">August 22 at 11:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sludge-2022/sludge-2022-08-22T11:03:52.625404-04:00.jpg">
-  <img src="https://archive.org/download/sludge-2022/sludge-2022-08-22T11:03:52.625404-04:00.jpg"
-     alt="Sludge at 2022-08-22 11:03:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sludge-2022/sludge-2022-08-22T11:03:52.625404-04:00.jpg">August 22 at 11:03 AM</a></p>
+ <p><a href="https://archive.org/download/sludge-2022/sludge-2022-08-24T12:01:46.441538-04:00.jpg">August 24 at 5:01 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 168 hyperlink lists with the Internet Archive.
+The archiving routine has saved 172 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 12:02 PM](https://archive.org/download/sludge-2022/sludge-2022-08-28T12:01:54.908807-04:00.hyperlinks.json) |
-| [August 28 at 12:37 AM](https://archive.org/download/sludge-2022/sludge-2022-08-28T00:37:03.805570-04:00.hyperlinks.json) |
-| [August 27 at 11:58 AM](https://archive.org/download/sludge-2022/sludge-2022-08-27T11:58:40.093179-04:00.hyperlinks.json) |
-| [August 27 at 12:37 AM](https://archive.org/download/sludge-2022/sludge-2022-08-27T00:37:52.390128-04:00.hyperlinks.json) |
-| [August 26 at 12:06 PM](https://archive.org/download/sludge-2022/sludge-2022-08-26T12:06:43.119438-04:00.hyperlinks.json) |
-| [August 26 at 12:42 AM](https://archive.org/download/sludge-2022/sludge-2022-08-26T00:42:18.930656-04:00.hyperlinks.json) |
-| [August 25 at 12:04 PM](https://archive.org/download/sludge-2022/sludge-2022-08-25T12:04:42.223078-04:00.hyperlinks.json) |
-| [August 24 at 12:01 PM](https://archive.org/download/sludge-2022/sludge-2022-08-24T12:01:46.441538-04:00.hyperlinks.json) |
-| [August 24 at 12:37 AM](https://archive.org/download/sludge-2022/sludge-2022-08-24T00:37:17.475845-04:00.hyperlinks.json) |
-| [August 23 at 12:05 PM](https://archive.org/download/sludge-2022/sludge-2022-08-23T12:05:42.954324-04:00.hyperlinks.json) |
+| [August 30 at 5:36 AM](https://archive.org/download/sludge-2022/sludge-2022-08-30T12:35:52.248980-04:00.hyperlinks.json) |
+| [August 29 at 5:55 PM](https://archive.org/download/sludge-2022/sludge-2022-08-30T00:55:52.868019-04:00.hyperlinks.json) |
+| [August 29 at 5:17 AM](https://archive.org/download/sludge-2022/sludge-2022-08-29T12:17:34.859175-04:00.hyperlinks.json) |
+| [August 28 at 5:41 PM](https://archive.org/download/sludge-2022/sludge-2022-08-29T00:41:03.360808-04:00.hyperlinks.json) |
+| [August 28 at 5:02 AM](https://archive.org/download/sludge-2022/sludge-2022-08-28T12:01:54.908807-04:00.hyperlinks.json) |
+| [August 27 at 5:37 PM](https://archive.org/download/sludge-2022/sludge-2022-08-28T00:37:03.805570-04:00.hyperlinks.json) |
+| [August 27 at 4:58 AM](https://archive.org/download/sludge-2022/sludge-2022-08-27T11:58:40.093179-04:00.hyperlinks.json) |
+| [August 26 at 5:37 PM](https://archive.org/download/sludge-2022/sludge-2022-08-27T00:37:52.390128-04:00.hyperlinks.json) |
+| [August 26 at 5:06 AM](https://archive.org/download/sludge-2022/sludge-2022-08-26T12:06:43.119438-04:00.hyperlinks.json) |
+| [August 25 at 5:42 PM](https://archive.org/download/sludge-2022/sludge-2022-08-26T00:42:18.930656-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 169 accessibility trees with the Internet Archive.
+The archiving routine has saved 173 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 12:01 PM](https://archive.org/download/sludge-2022/sludge-2022-08-28T12:01:54.908807-04:00.accessibility.json) |
-| [August 28 at 12:37 AM](https://archive.org/download/sludge-2022/sludge-2022-08-28T00:37:03.805570-04:00.accessibility.json) |
-| [August 27 at 11:58 AM](https://archive.org/download/sludge-2022/sludge-2022-08-27T11:58:40.093179-04:00.accessibility.json) |
-| [August 27 at 12:37 AM](https://archive.org/download/sludge-2022/sludge-2022-08-27T00:37:52.390128-04:00.accessibility.json) |
-| [August 26 at 12:06 PM](https://archive.org/download/sludge-2022/sludge-2022-08-26T12:06:43.119438-04:00.accessibility.json) |
-| [August 26 at 12:42 AM](https://archive.org/download/sludge-2022/sludge-2022-08-26T00:42:18.930656-04:00.accessibility.json) |
-| [August 25 at 12:04 PM](https://archive.org/download/sludge-2022/sludge-2022-08-25T12:04:42.223078-04:00.accessibility.json) |
-| [August 24 at 12:01 PM](https://archive.org/download/sludge-2022/sludge-2022-08-24T12:01:46.441538-04:00.accessibility.json) |
-| [August 24 at 12:37 AM](https://archive.org/download/sludge-2022/sludge-2022-08-24T00:37:17.475845-04:00.accessibility.json) |
-| [August 23 at 12:05 PM](https://archive.org/download/sludge-2022/sludge-2022-08-23T12:05:42.954324-04:00.accessibility.json) |
+| [August 30 at 5:35 AM](https://archive.org/download/sludge-2022/sludge-2022-08-30T12:35:52.248980-04:00.accessibility.json) |
+| [August 29 at 5:55 PM](https://archive.org/download/sludge-2022/sludge-2022-08-30T00:55:52.868019-04:00.accessibility.json) |
+| [August 29 at 5:17 AM](https://archive.org/download/sludge-2022/sludge-2022-08-29T12:17:34.859175-04:00.accessibility.json) |
+| [August 28 at 5:41 PM](https://archive.org/download/sludge-2022/sludge-2022-08-29T00:41:03.360808-04:00.accessibility.json) |
+| [August 28 at 5:01 AM](https://archive.org/download/sludge-2022/sludge-2022-08-28T12:01:54.908807-04:00.accessibility.json) |
+| [August 27 at 5:37 PM](https://archive.org/download/sludge-2022/sludge-2022-08-28T00:37:03.805570-04:00.accessibility.json) |
+| [August 27 at 4:58 AM](https://archive.org/download/sludge-2022/sludge-2022-08-27T11:58:40.093179-04:00.accessibility.json) |
+| [August 26 at 5:37 PM](https://archive.org/download/sludge-2022/sludge-2022-08-27T00:37:52.390128-04:00.accessibility.json) |
+| [August 26 at 5:06 AM](https://archive.org/download/sludge-2022/sludge-2022-08-26T12:06:43.119438-04:00.accessibility.json) |
+| [August 25 at 5:42 PM](https://archive.org/download/sludge-2022/sludge-2022-08-26T00:42:18.930656-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 72 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 76 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 12:02 PM](https://archive.org/download/sludge-2022/sludge-2022-08-28T12:01:54.908807-04:00.lighthouse.json) |
-| [August 28 at 12:37 AM](https://archive.org/download/sludge-2022/sludge-2022-08-28T00:37:03.805570-04:00.lighthouse.json) |
-| [August 27 at 11:58 AM](https://archive.org/download/sludge-2022/sludge-2022-08-27T11:58:40.093179-04:00.lighthouse.json) |
-| [August 27 at 12:37 AM](https://archive.org/download/sludge-2022/sludge-2022-08-27T00:37:52.390128-04:00.lighthouse.json) |
-| [August 26 at 12:06 PM](https://archive.org/download/sludge-2022/sludge-2022-08-26T12:06:43.119438-04:00.lighthouse.json) |
-| [August 26 at 12:42 AM](https://archive.org/download/sludge-2022/sludge-2022-08-26T00:42:18.930656-04:00.lighthouse.json) |
-| [August 25 at 12:04 PM](https://archive.org/download/sludge-2022/sludge-2022-08-25T12:04:42.223078-04:00.lighthouse.json) |
-| [August 24 at 12:01 PM](https://archive.org/download/sludge-2022/sludge-2022-08-24T12:01:46.441538-04:00.lighthouse.json) |
-| [August 24 at 12:37 AM](https://archive.org/download/sludge-2022/sludge-2022-08-24T00:37:17.475845-04:00.lighthouse.json) |
-| [August 23 at 12:05 PM](https://archive.org/download/sludge-2022/sludge-2022-08-23T12:05:42.954324-04:00.lighthouse.json) |
+| [August 30 at 5:36 AM](https://archive.org/download/sludge-2022/sludge-2022-08-30T12:35:52.248980-04:00.lighthouse.json) |
+| [August 29 at 5:55 PM](https://archive.org/download/sludge-2022/sludge-2022-08-30T00:55:52.868019-04:00.lighthouse.json) |
+| [August 29 at 5:17 AM](https://archive.org/download/sludge-2022/sludge-2022-08-29T12:17:34.859175-04:00.lighthouse.json) |
+| [August 28 at 5:41 PM](https://archive.org/download/sludge-2022/sludge-2022-08-29T00:41:03.360808-04:00.lighthouse.json) |
+| [August 28 at 5:02 AM](https://archive.org/download/sludge-2022/sludge-2022-08-28T12:01:54.908807-04:00.lighthouse.json) |
+| [August 27 at 5:37 PM](https://archive.org/download/sludge-2022/sludge-2022-08-28T00:37:03.805570-04:00.lighthouse.json) |
+| [August 27 at 4:58 AM](https://archive.org/download/sludge-2022/sludge-2022-08-27T11:58:40.093179-04:00.lighthouse.json) |
+| [August 26 at 5:37 PM](https://archive.org/download/sludge-2022/sludge-2022-08-27T00:37:52.390128-04:00.lighthouse.json) |
+| [August 26 at 5:06 AM](https://archive.org/download/sludge-2022/sludge-2022-08-26T12:06:43.119438-04:00.lighthouse.json) |
+| [August 25 at 5:42 PM](https://archive.org/download/sludge-2022/sludge-2022-08-26T00:42:18.930656-04:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 49 screenshots with the Internet Archive.
+The archiving routine has saved 55 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-28T19:48:28.466189-04:00.jpg">
-  <img src="https://archive.org/download/justthenews-2022/justthenews-2022-08-28T19:48:28.466189-04:00.jpg"
-     alt="Just the News at 2022-08-28 19:48:31-04:00 local time"
+ <a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-30T20:00:48.692098-04:00.jpg">
+  <img src="https://archive.org/download/justthenews-2022/justthenews-2022-08-30T20:00:48.692098-04:00.jpg"
+     alt="Just the News at 2022-08-30 13:00:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-28T19:48:28.466189-04:00.jpg">August 28 at 7:48 PM</a></p>
+ <p><a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-30T20:00:48.692098-04:00.jpg">August 30 at 1:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-30T14:32:24.505952-04:00.jpg">
+  <img src="https://archive.org/download/justthenews-2022/justthenews-2022-08-30T14:32:24.505952-04:00.jpg"
+     alt="Just the News at 2022-08-30 07:32:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-30T14:32:24.505952-04:00.jpg">August 30 at 7:32 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-30T08:08:05.456460-04:00.jpg">
+  <img src="https://archive.org/download/justthenews-2022/justthenews-2022-08-30T08:08:05.456460-04:00.jpg"
+     alt="Just the News at 2022-08-30 01:08:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-30T08:08:05.456460-04:00.jpg">August 30 at 1:08 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-29T19:52:19.075454-04:00.jpg">
+  <img src="https://archive.org/download/justthenews-2022/justthenews-2022-08-29T19:52:19.075454-04:00.jpg"
+     alt="Just the News at 2022-08-29 12:52:22-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-29T19:52:19.075454-04:00.jpg">August 29 at 12:52 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-29T14:55:00.681138-04:00.jpg">
+  <img src="https://archive.org/download/justthenews-2022/justthenews-2022-08-29T14:55:00.681138-04:00.jpg"
+     alt="Just the News at 2022-08-29 07:55:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-29T14:55:00.681138-04:00.jpg">August 29 at 7:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-29T07:57:15.578510-04:00.jpg">
+  <img src="https://archive.org/download/justthenews-2022/justthenews-2022-08-29T07:57:15.578510-04:00.jpg"
+     alt="Just the News at 2022-08-29 00:57:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-29T07:57:15.578510-04:00.jpg">August 29 at 12:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-28T19:48:28.466189-04:00.jpg">
+  <img src="https://archive.org/download/justthenews-2022/justthenews-2022-08-28T19:48:28.466189-04:00.jpg"
+     alt="Just the News at 2022-08-28 12:48:31-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-28T19:48:28.466189-04:00.jpg">August 28 at 12:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-28T14:30:04.731053-04:00.jpg">
   <img src="https://archive.org/download/justthenews-2022/justthenews-2022-08-28T14:30:04.731053-04:00.jpg"
-     alt="Just the News at 2022-08-28 14:30:06-04:00 local time"
+     alt="Just the News at 2022-08-28 07:30:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-28T14:30:04.731053-04:00.jpg">August 28 at 2:30 PM</a></p>
+ <p><a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-28T14:30:04.731053-04:00.jpg">August 28 at 7:30 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-28T07:58:48.294575-04:00.jpg">
   <img src="https://archive.org/download/justthenews-2022/justthenews-2022-08-28T07:58:48.294575-04:00.jpg"
-     alt="Just the News at 2022-08-28 07:58:56-04:00 local time"
+     alt="Just the News at 2022-08-28 00:58:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-28T07:58:48.294575-04:00.jpg">August 28 at 7:58 AM</a></p>
+ <p><a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-28T07:58:48.294575-04:00.jpg">August 28 at 12:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-27T19:50:14.547235-04:00.jpg">
   <img src="https://archive.org/download/justthenews-2022/justthenews-2022-08-27T19:50:14.547235-04:00.jpg"
-     alt="Just the News at 2022-08-27 19:50:17-04:00 local time"
+     alt="Just the News at 2022-08-27 12:50:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-27T19:50:14.547235-04:00.jpg">August 27 at 7:50 PM</a></p>
+ <p><a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-27T19:50:14.547235-04:00.jpg">August 27 at 12:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-27T14:31:20.972323-04:00.jpg">
   <img src="https://archive.org/download/justthenews-2022/justthenews-2022-08-27T14:31:20.972323-04:00.jpg"
-     alt="Just the News at 2022-08-27 14:31:22-04:00 local time"
+     alt="Just the News at 2022-08-27 07:31:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-27T14:31:20.972323-04:00.jpg">August 27 at 2:31 PM</a></p>
+ <p><a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-27T14:31:20.972323-04:00.jpg">August 27 at 7:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-27T07:53:28.258931-04:00.jpg">
   <img src="https://archive.org/download/justthenews-2022/justthenews-2022-08-27T07:53:28.258931-04:00.jpg"
-     alt="Just the News at 2022-08-27 07:53:29-04:00 local time"
+     alt="Just the News at 2022-08-27 00:53:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-27T07:53:28.258931-04:00.jpg">August 27 at 7:53 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-26T19:44:46.835393-04:00.jpg">
-  <img src="https://archive.org/download/justthenews-2022/justthenews-2022-08-26T19:44:46.835393-04:00.jpg"
-     alt="Just the News at 2022-08-26 19:44:50-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-26T19:44:46.835393-04:00.jpg">August 26 at 7:44 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-26T14:29:18.224097-04:00.jpg">
-  <img src="https://archive.org/download/justthenews-2022/justthenews-2022-08-26T14:29:18.224097-04:00.jpg"
-     alt="Just the News at 2022-08-26 14:29:20-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-26T14:29:18.224097-04:00.jpg">August 26 at 2:29 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-26T07:57:53.529449-04:00.jpg">
-  <img src="https://archive.org/download/justthenews-2022/justthenews-2022-08-26T07:57:53.529449-04:00.jpg"
-     alt="Just the News at 2022-08-26 07:57:55-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-26T07:57:53.529449-04:00.jpg">August 26 at 7:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-25T20:02:56.163582-04:00.jpg">
-  <img src="https://archive.org/download/justthenews-2022/justthenews-2022-08-25T20:02:56.163582-04:00.jpg"
-     alt="Just the News at 2022-08-25 20:03:01-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-25T20:02:56.163582-04:00.jpg">August 25 at 8:03 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-25T14:29:07.533851-04:00.jpg">
-  <img src="https://archive.org/download/justthenews-2022/justthenews-2022-08-25T14:29:07.533851-04:00.jpg"
-     alt="Just the News at 2022-08-25 14:29:13-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-25T14:29:07.533851-04:00.jpg">August 25 at 2:29 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-25T08:02:47.398771-04:00.jpg">
-  <img src="https://archive.org/download/justthenews-2022/justthenews-2022-08-25T08:02:47.398771-04:00.jpg"
-     alt="Just the News at 2022-08-25 08:02:52-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-25T08:02:47.398771-04:00.jpg">August 25 at 8:02 AM</a></p>
+ <p><a href="https://archive.org/download/justthenews-2022/justthenews-2022-08-27T07:53:28.258931-04:00.jpg">August 27 at 12:53 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 48 hyperlink lists with the Internet Archive.
+The archiving routine has saved 54 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 7:48 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-28T19:48:28.466189-04:00.hyperlinks.json) |
-| [August 28 at 2:30 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-28T14:30:04.731053-04:00.hyperlinks.json) |
-| [August 28 at 7:58 AM](https://archive.org/download/justthenews-2022/justthenews-2022-08-28T07:58:48.294575-04:00.hyperlinks.json) |
-| [August 27 at 7:50 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-27T19:50:14.547235-04:00.hyperlinks.json) |
-| [August 27 at 2:31 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-27T14:31:20.972323-04:00.hyperlinks.json) |
-| [August 27 at 7:53 AM](https://archive.org/download/justthenews-2022/justthenews-2022-08-27T07:53:28.258931-04:00.hyperlinks.json) |
-| [August 26 at 7:44 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-26T19:44:46.835393-04:00.hyperlinks.json) |
-| [August 26 at 2:29 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-26T14:29:18.224097-04:00.hyperlinks.json) |
-| [August 26 at 7:57 AM](https://archive.org/download/justthenews-2022/justthenews-2022-08-26T07:57:53.529449-04:00.hyperlinks.json) |
-| [August 25 at 8:03 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-25T20:02:56.163582-04:00.hyperlinks.json) |
+| [August 30 at 1:00 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-30T20:00:48.692098-04:00.hyperlinks.json) |
+| [August 30 at 7:32 AM](https://archive.org/download/justthenews-2022/justthenews-2022-08-30T14:32:24.505952-04:00.hyperlinks.json) |
+| [August 30 at 1:08 AM](https://archive.org/download/justthenews-2022/justthenews-2022-08-30T08:08:05.456460-04:00.hyperlinks.json) |
+| [August 29 at 12:52 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-29T19:52:19.075454-04:00.hyperlinks.json) |
+| [August 29 at 7:55 AM](https://archive.org/download/justthenews-2022/justthenews-2022-08-29T14:55:00.681138-04:00.hyperlinks.json) |
+| [August 29 at 12:57 AM](https://archive.org/download/justthenews-2022/justthenews-2022-08-29T07:57:15.578510-04:00.hyperlinks.json) |
+| [August 28 at 12:48 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-28T19:48:28.466189-04:00.hyperlinks.json) |
+| [August 28 at 7:30 AM](https://archive.org/download/justthenews-2022/justthenews-2022-08-28T14:30:04.731053-04:00.hyperlinks.json) |
+| [August 28 at 12:58 AM](https://archive.org/download/justthenews-2022/justthenews-2022-08-28T07:58:48.294575-04:00.hyperlinks.json) |
+| [August 27 at 12:50 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-27T19:50:14.547235-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 43 accessibility trees with the Internet Archive.
+The archiving routine has saved 49 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 7:48 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-28T19:48:28.466189-04:00.accessibility.json) |
-| [August 28 at 2:30 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-28T14:30:04.731053-04:00.accessibility.json) |
-| [August 28 at 7:58 AM](https://archive.org/download/justthenews-2022/justthenews-2022-08-28T07:58:48.294575-04:00.accessibility.json) |
-| [August 27 at 7:50 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-27T19:50:14.547235-04:00.accessibility.json) |
-| [August 27 at 2:31 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-27T14:31:20.972323-04:00.accessibility.json) |
-| [August 27 at 7:53 AM](https://archive.org/download/justthenews-2022/justthenews-2022-08-27T07:53:28.258931-04:00.accessibility.json) |
-| [August 26 at 7:44 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-26T19:44:46.835393-04:00.accessibility.json) |
-| [August 26 at 2:29 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-26T14:29:18.224097-04:00.accessibility.json) |
-| [August 26 at 7:57 AM](https://archive.org/download/justthenews-2022/justthenews-2022-08-26T07:57:53.529449-04:00.accessibility.json) |
-| [August 25 at 8:03 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-25T20:02:56.163582-04:00.accessibility.json) |
+| [August 30 at 1:00 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-30T20:00:48.692098-04:00.accessibility.json) |
+| [August 30 at 7:32 AM](https://archive.org/download/justthenews-2022/justthenews-2022-08-30T14:32:24.505952-04:00.accessibility.json) |
+| [August 30 at 1:08 AM](https://archive.org/download/justthenews-2022/justthenews-2022-08-30T08:08:05.456460-04:00.accessibility.json) |
+| [August 29 at 12:52 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-29T19:52:19.075454-04:00.accessibility.json) |
+| [August 29 at 7:55 AM](https://archive.org/download/justthenews-2022/justthenews-2022-08-29T14:55:00.681138-04:00.accessibility.json) |
+| [August 29 at 12:57 AM](https://archive.org/download/justthenews-2022/justthenews-2022-08-29T07:57:15.578510-04:00.accessibility.json) |
+| [August 28 at 12:48 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-28T19:48:28.466189-04:00.accessibility.json) |
+| [August 28 at 7:30 AM](https://archive.org/download/justthenews-2022/justthenews-2022-08-28T14:30:04.731053-04:00.accessibility.json) |
+| [August 28 at 12:58 AM](https://archive.org/download/justthenews-2022/justthenews-2022-08-28T07:58:48.294575-04:00.accessibility.json) |
+| [August 27 at 12:50 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-27T19:50:14.547235-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 7:48 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-28T19:48:28.466189-04:00.lighthouse.json) |
-| [August 28 at 2:30 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-28T14:30:04.731053-04:00.lighthouse.json) |
-| [August 28 at 7:59 AM](https://archive.org/download/justthenews-2022/justthenews-2022-08-28T07:58:48.294575-04:00.lighthouse.json) |
-| [August 27 at 7:50 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-27T19:50:14.547235-04:00.lighthouse.json) |
-| [August 27 at 2:31 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-27T14:31:20.972323-04:00.lighthouse.json) |
-| [August 27 at 7:53 AM](https://archive.org/download/justthenews-2022/justthenews-2022-08-27T07:53:28.258931-04:00.lighthouse.json) |
-| [August 26 at 7:45 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-26T19:44:46.835393-04:00.lighthouse.json) |
-| [August 26 at 2:29 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-26T14:29:18.224097-04:00.lighthouse.json) |
-| [August 26 at 7:57 AM](https://archive.org/download/justthenews-2022/justthenews-2022-08-26T07:57:53.529449-04:00.lighthouse.json) |
-| [August 25 at 8:03 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-25T20:02:56.163582-04:00.lighthouse.json) |
+| [August 30 at 1:00 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-30T20:00:48.692098-04:00.lighthouse.json) |
+| [August 30 at 7:32 AM](https://archive.org/download/justthenews-2022/justthenews-2022-08-30T14:32:24.505952-04:00.lighthouse.json) |
+| [August 30 at 1:08 AM](https://archive.org/download/justthenews-2022/justthenews-2022-08-30T08:08:05.456460-04:00.lighthouse.json) |
+| [August 29 at 12:52 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-29T19:52:19.075454-04:00.lighthouse.json) |
+| [August 29 at 7:55 AM](https://archive.org/download/justthenews-2022/justthenews-2022-08-29T14:55:00.681138-04:00.lighthouse.json) |
+| [August 29 at 12:57 AM](https://archive.org/download/justthenews-2022/justthenews-2022-08-29T07:57:15.578510-04:00.lighthouse.json) |
+| [August 28 at 12:48 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-28T19:48:28.466189-04:00.lighthouse.json) |
+| [August 28 at 7:30 AM](https://archive.org/download/justthenews-2022/justthenews-2022-08-28T14:30:04.731053-04:00.lighthouse.json) |
+| [August 28 at 12:59 AM](https://archive.org/download/justthenews-2022/justthenews-2022-08-28T07:58:48.294575-04:00.lighthouse.json) |
+| [August 27 at 12:50 PM](https://archive.org/download/justthenews-2022/justthenews-2022-08-27T19:50:14.547235-04:00.lighthouse.json) |
 
 
 

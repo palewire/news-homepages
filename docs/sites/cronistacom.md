@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 39 screenshots with the Internet Archive.
+The archiving routine has saved 43 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-28T19:53:31.274349-03:00.jpg">
-  <img src="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-28T19:53:31.274349-03:00.jpg"
-     alt="Cronista at 2022-08-28 19:53:34-03:00 local time"
+ <a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-30T20:03:31.587398-03:00.jpg">
+  <img src="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-30T20:03:31.587398-03:00.jpg"
+     alt="Cronista at 2022-08-30 13:03:34-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-28T19:53:31.274349-03:00.jpg">August 28 at 7:53 PM</a></p>
+ <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-30T20:03:31.587398-03:00.jpg">August 30 at 1:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-30T08:03:09.524249-03:00.jpg">
+  <img src="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-30T08:03:09.524249-03:00.jpg"
+     alt="Cronista at 2022-08-30 01:03:12-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-30T08:03:09.524249-03:00.jpg">August 30 at 1:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-29T20:00:47.655798-03:00.jpg">
+  <img src="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-29T20:00:47.655798-03:00.jpg"
+     alt="Cronista at 2022-08-29 13:00:50-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-29T20:00:47.655798-03:00.jpg">August 29 at 1:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-29T07:56:03.985542-03:00.jpg">
+  <img src="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-29T07:56:03.985542-03:00.jpg"
+     alt="Cronista at 2022-08-29 00:56:06-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-29T07:56:03.985542-03:00.jpg">August 29 at 12:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-28T19:53:31.274349-03:00.jpg">
+  <img src="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-28T19:53:31.274349-03:00.jpg"
+     alt="Cronista at 2022-08-28 12:53:34-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-28T19:53:31.274349-03:00.jpg">August 28 at 12:53 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-28T07:55:40.780029-03:00.jpg">
   <img src="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-28T07:55:40.780029-03:00.jpg"
-     alt="Cronista at 2022-08-28 07:55:42-03:00 local time"
+     alt="Cronista at 2022-08-28 00:55:42-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-28T07:55:40.780029-03:00.jpg">August 28 at 7:55 AM</a></p>
+ <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-28T07:55:40.780029-03:00.jpg">August 28 at 12:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-27T19:55:51.315276-03:00.jpg">
   <img src="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-27T19:55:51.315276-03:00.jpg"
-     alt="Cronista at 2022-08-27 19:55:54-03:00 local time"
+     alt="Cronista at 2022-08-27 12:55:54-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-27T19:55:51.315276-03:00.jpg">August 27 at 7:55 PM</a></p>
+ <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-27T19:55:51.315276-03:00.jpg">August 27 at 12:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-27T07:50:01.484982-03:00.jpg">
   <img src="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-27T07:50:01.484982-03:00.jpg"
-     alt="Cronista at 2022-08-27 07:50:03-03:00 local time"
+     alt="Cronista at 2022-08-27 00:50:03-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-27T07:50:01.484982-03:00.jpg">August 27 at 7:50 AM</a></p>
+ <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-27T07:50:01.484982-03:00.jpg">August 27 at 12:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-26T19:52:52.427104-03:00.jpg">
   <img src="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-26T19:52:52.427104-03:00.jpg"
-     alt="Cronista at 2022-08-26 19:52:56-03:00 local time"
+     alt="Cronista at 2022-08-26 12:52:56-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-26T19:52:52.427104-03:00.jpg">August 26 at 7:52 PM</a></p>
+ <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-26T19:52:52.427104-03:00.jpg">August 26 at 12:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-26T07:52:24.570401-03:00.jpg">
   <img src="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-26T07:52:24.570401-03:00.jpg"
-     alt="Cronista at 2022-08-26 07:52:27-03:00 local time"
+     alt="Cronista at 2022-08-26 00:52:27-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-26T07:52:24.570401-03:00.jpg">August 26 at 7:52 AM</a></p>
+ <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-26T07:52:24.570401-03:00.jpg">August 26 at 12:52 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-25T19:53:23.089331-03:00.jpg">
   <img src="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-25T19:53:23.089331-03:00.jpg"
-     alt="Cronista at 2022-08-25 19:53:28-03:00 local time"
+     alt="Cronista at 2022-08-25 12:53:28-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-25T19:53:23.089331-03:00.jpg">August 25 at 7:53 PM</a></p>
+ <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-25T19:53:23.089331-03:00.jpg">August 25 at 12:53 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-25T07:56:09.628875-03:00.jpg">
   <img src="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-25T07:56:09.628875-03:00.jpg"
-     alt="Cronista at 2022-08-25 07:56:15-03:00 local time"
+     alt="Cronista at 2022-08-25 00:56:15-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-25T07:56:09.628875-03:00.jpg">August 25 at 7:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-24T19:57:03.346125-03:00.jpg">
-  <img src="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-24T19:57:03.346125-03:00.jpg"
-     alt="Cronista at 2022-08-24 19:57:05-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-24T19:57:03.346125-03:00.jpg">August 24 at 7:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-24T07:49:10.346223-03:00.jpg">
-  <img src="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-24T07:49:10.346223-03:00.jpg"
-     alt="Cronista at 2022-08-24 07:49:16-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-24T07:49:10.346223-03:00.jpg">August 24 at 7:49 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-23T19:59:45.480973-03:00.jpg">
-  <img src="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-23T19:59:45.480973-03:00.jpg"
-     alt="Cronista at 2022-08-23 19:59:47-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-23T19:59:45.480973-03:00.jpg">August 23 at 7:59 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-23T08:01:08.848274-03:00.jpg">
-  <img src="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-23T08:01:08.848274-03:00.jpg"
-     alt="Cronista at 2022-08-23 08:01:11-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-23T08:01:08.848274-03:00.jpg">August 23 at 8:01 AM</a></p>
+ <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-25T07:56:09.628875-03:00.jpg">August 25 at 12:56 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 39 hyperlink lists with the Internet Archive.
+The archiving routine has saved 43 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 7:53 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-28T19:53:31.274349-03:00.hyperlinks.json) |
-| [August 28 at 7:55 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-28T07:55:40.780029-03:00.hyperlinks.json) |
-| [August 27 at 7:55 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-27T19:55:51.315276-03:00.hyperlinks.json) |
-| [August 27 at 7:50 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-27T07:50:01.484982-03:00.hyperlinks.json) |
-| [August 26 at 7:52 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-26T19:52:52.427104-03:00.hyperlinks.json) |
-| [August 26 at 7:52 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-26T07:52:24.570401-03:00.hyperlinks.json) |
-| [August 25 at 7:53 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-25T19:53:23.089331-03:00.hyperlinks.json) |
-| [August 25 at 7:56 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-25T07:56:09.628875-03:00.hyperlinks.json) |
-| [August 24 at 7:57 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-24T19:57:03.346125-03:00.hyperlinks.json) |
-| [August 24 at 7:49 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-24T07:49:10.346223-03:00.hyperlinks.json) |
+| [August 30 at 1:03 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-30T20:03:31.587398-03:00.hyperlinks.json) |
+| [August 30 at 1:03 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-30T08:03:09.524249-03:00.hyperlinks.json) |
+| [August 29 at 1:00 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-29T20:00:47.655798-03:00.hyperlinks.json) |
+| [August 29 at 12:56 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-29T07:56:03.985542-03:00.hyperlinks.json) |
+| [August 28 at 12:53 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-28T19:53:31.274349-03:00.hyperlinks.json) |
+| [August 28 at 12:55 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-28T07:55:40.780029-03:00.hyperlinks.json) |
+| [August 27 at 12:55 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-27T19:55:51.315276-03:00.hyperlinks.json) |
+| [August 27 at 12:50 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-27T07:50:01.484982-03:00.hyperlinks.json) |
+| [August 26 at 12:52 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-26T19:52:52.427104-03:00.hyperlinks.json) |
+| [August 26 at 12:52 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-26T07:52:24.570401-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 39 accessibility trees with the Internet Archive.
+The archiving routine has saved 43 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 7:53 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-28T19:53:31.274349-03:00.accessibility.json) |
-| [August 28 at 7:55 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-28T07:55:40.780029-03:00.accessibility.json) |
-| [August 27 at 7:55 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-27T19:55:51.315276-03:00.accessibility.json) |
-| [August 27 at 7:50 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-27T07:50:01.484982-03:00.accessibility.json) |
-| [August 26 at 7:52 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-26T19:52:52.427104-03:00.accessibility.json) |
-| [August 26 at 7:52 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-26T07:52:24.570401-03:00.accessibility.json) |
-| [August 25 at 7:53 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-25T19:53:23.089331-03:00.accessibility.json) |
-| [August 25 at 7:56 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-25T07:56:09.628875-03:00.accessibility.json) |
-| [August 24 at 7:57 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-24T19:57:03.346125-03:00.accessibility.json) |
-| [August 24 at 7:49 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-24T07:49:10.346223-03:00.accessibility.json) |
+| [August 30 at 1:03 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-30T20:03:31.587398-03:00.accessibility.json) |
+| [August 30 at 1:03 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-30T08:03:09.524249-03:00.accessibility.json) |
+| [August 29 at 1:00 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-29T20:00:47.655798-03:00.accessibility.json) |
+| [August 29 at 12:56 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-29T07:56:03.985542-03:00.accessibility.json) |
+| [August 28 at 12:53 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-28T19:53:31.274349-03:00.accessibility.json) |
+| [August 28 at 12:55 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-28T07:55:40.780029-03:00.accessibility.json) |
+| [August 27 at 12:55 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-27T19:55:51.315276-03:00.accessibility.json) |
+| [August 27 at 12:50 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-27T07:50:01.484982-03:00.accessibility.json) |
+| [August 26 at 12:52 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-26T19:52:52.427104-03:00.accessibility.json) |
+| [August 26 at 12:52 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-26T07:52:24.570401-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 7:53 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-28T19:53:31.274349-03:00.lighthouse.json) |
-| [August 28 at 7:55 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-28T07:55:40.780029-03:00.lighthouse.json) |
-| [August 27 at 7:55 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-27T19:55:51.315276-03:00.lighthouse.json) |
-| [August 27 at 7:50 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-27T07:50:01.484982-03:00.lighthouse.json) |
-| [August 26 at 7:53 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-26T19:52:52.427104-03:00.lighthouse.json) |
-| [August 26 at 7:52 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-26T07:52:24.570401-03:00.lighthouse.json) |
-| [August 25 at 7:53 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-25T19:53:23.089331-03:00.lighthouse.json) |
-| [August 25 at 7:56 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-25T07:56:09.628875-03:00.lighthouse.json) |
-| [August 24 at 7:57 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-24T19:57:03.346125-03:00.lighthouse.json) |
-| [August 24 at 7:49 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-24T07:49:10.346223-03:00.lighthouse.json) |
+| [August 30 at 1:03 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-30T20:03:31.587398-03:00.lighthouse.json) |
+| [August 30 at 1:03 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-30T08:03:09.524249-03:00.lighthouse.json) |
+| [August 29 at 1:00 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-29T20:00:47.655798-03:00.lighthouse.json) |
+| [August 29 at 12:56 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-29T07:56:03.985542-03:00.lighthouse.json) |
+| [August 28 at 12:53 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-28T19:53:31.274349-03:00.lighthouse.json) |
+| [August 28 at 12:55 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-28T07:55:40.780029-03:00.lighthouse.json) |
+| [August 27 at 12:55 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-27T19:55:51.315276-03:00.lighthouse.json) |
+| [August 27 at 12:50 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-27T07:50:01.484982-03:00.lighthouse.json) |
+| [August 26 at 12:53 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-26T19:52:52.427104-03:00.lighthouse.json) |
+| [August 26 at 12:52 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-26T07:52:24.570401-03:00.lighthouse.json) |
 
 
 

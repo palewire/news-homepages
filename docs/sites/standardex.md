@@ -234,8 +234,91 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 30 screenshots with the Internet Archive.
+The archiving routine has saved 34 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/standardex.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
@@ -243,180 +326,429 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/standardex-2022/standardex-2022-08-28T10:02:09.474607-06:00.jpg">
-  <img src="https://archive.org/download/standardex-2022/standardex-2022-08-28T10:02:09.474607-06:00.jpg"
-     alt="Ogden Standard-Examiner at 2022-08-28 10:02:13-06:00 local time"
+ <a href="https://archive.org/download/standardex-2022/standardex-2022-08-30T10:35:17.924940-06:00.jpg">
+  <img src="https://archive.org/download/standardex-2022/standardex-2022-08-30T10:35:17.924940-06:00.jpg"
+     alt="Ogden Standard-Examiner at 2022-08-30 03:35:20-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/standardex-2022/standardex-2022-08-28T10:02:09.474607-06:00.jpg">August 28 at 10:02 AM</a></p>
+ <p><a href="https://archive.org/download/standardex-2022/standardex-2022-08-30T10:35:17.924940-06:00.jpg">August 30 at 3:35 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/standardex-2022/standardex-2022-08-29T22:56:12.646017-06:00.jpg">
+  <img src="https://archive.org/download/standardex-2022/standardex-2022-08-29T22:56:12.646017-06:00.jpg"
+     alt="Ogden Standard-Examiner at 2022-08-29 15:56:14-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/standardex-2022/standardex-2022-08-29T22:56:12.646017-06:00.jpg">August 29 at 3:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/standardex-2022/standardex-2022-08-29T10:17:36.889106-06:00.jpg">
+  <img src="https://archive.org/download/standardex-2022/standardex-2022-08-29T10:17:36.889106-06:00.jpg"
+     alt="Ogden Standard-Examiner at 2022-08-29 03:17:39-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/standardex-2022/standardex-2022-08-29T10:17:36.889106-06:00.jpg">August 29 at 3:17 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/standardex-2022/standardex-2022-08-28T22:40:15.042847-06:00.jpg">
+  <img src="https://archive.org/download/standardex-2022/standardex-2022-08-28T22:40:15.042847-06:00.jpg"
+     alt="Ogden Standard-Examiner at 2022-08-28 15:40:16-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/standardex-2022/standardex-2022-08-28T22:40:15.042847-06:00.jpg">August 28 at 3:40 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/standardex-2022/standardex-2022-08-28T10:02:09.474607-06:00.jpg">
+  <img src="https://archive.org/download/standardex-2022/standardex-2022-08-28T10:02:09.474607-06:00.jpg"
+     alt="Ogden Standard-Examiner at 2022-08-28 03:02:13-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/standardex-2022/standardex-2022-08-28T10:02:09.474607-06:00.jpg">August 28 at 3:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/standardex-2022/standardex-2022-08-27T22:36:35.010448-06:00.jpg">
   <img src="https://archive.org/download/standardex-2022/standardex-2022-08-27T22:36:35.010448-06:00.jpg"
-     alt="Ogden Standard-Examiner at 2022-08-27 22:36:36-06:00 local time"
+     alt="Ogden Standard-Examiner at 2022-08-27 15:36:36-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/standardex-2022/standardex-2022-08-27T22:36:35.010448-06:00.jpg">August 27 at 10:36 PM</a></p>
+ <p><a href="https://archive.org/download/standardex-2022/standardex-2022-08-27T22:36:35.010448-06:00.jpg">August 27 at 3:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/standardex-2022/standardex-2022-08-27T09:58:36.623480-06:00.jpg">
   <img src="https://archive.org/download/standardex-2022/standardex-2022-08-27T09:58:36.623480-06:00.jpg"
-     alt="Ogden Standard-Examiner at 2022-08-27 09:58:40-06:00 local time"
+     alt="Ogden Standard-Examiner at 2022-08-27 02:58:40-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/standardex-2022/standardex-2022-08-27T09:58:36.623480-06:00.jpg">August 27 at 9:58 AM</a></p>
+ <p><a href="https://archive.org/download/standardex-2022/standardex-2022-08-27T09:58:36.623480-06:00.jpg">August 27 at 2:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/standardex-2022/standardex-2022-08-26T22:37:28.219827-06:00.jpg">
   <img src="https://archive.org/download/standardex-2022/standardex-2022-08-26T22:37:28.219827-06:00.jpg"
-     alt="Ogden Standard-Examiner at 2022-08-26 22:37:30-06:00 local time"
+     alt="Ogden Standard-Examiner at 2022-08-26 15:37:30-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/standardex-2022/standardex-2022-08-26T22:37:28.219827-06:00.jpg">August 26 at 10:37 PM</a></p>
+ <p><a href="https://archive.org/download/standardex-2022/standardex-2022-08-26T22:37:28.219827-06:00.jpg">August 26 at 3:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/standardex-2022/standardex-2022-08-26T10:05:53.886171-06:00.jpg">
   <img src="https://archive.org/download/standardex-2022/standardex-2022-08-26T10:05:53.886171-06:00.jpg"
-     alt="Ogden Standard-Examiner at 2022-08-26 10:05:56-06:00 local time"
+     alt="Ogden Standard-Examiner at 2022-08-26 03:05:56-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/standardex-2022/standardex-2022-08-26T10:05:53.886171-06:00.jpg">August 26 at 10:05 AM</a></p>
+ <p><a href="https://archive.org/download/standardex-2022/standardex-2022-08-26T10:05:53.886171-06:00.jpg">August 26 at 3:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/standardex-2022/standardex-2022-08-25T22:42:23.128883-06:00.jpg">
   <img src="https://archive.org/download/standardex-2022/standardex-2022-08-25T22:42:23.128883-06:00.jpg"
-     alt="Ogden Standard-Examiner at 2022-08-25 22:42:26-06:00 local time"
+     alt="Ogden Standard-Examiner at 2022-08-25 15:42:26-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/standardex-2022/standardex-2022-08-25T22:42:23.128883-06:00.jpg">August 25 at 10:42 PM</a></p>
+ <p><a href="https://archive.org/download/standardex-2022/standardex-2022-08-25T22:42:23.128883-06:00.jpg">August 25 at 3:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/standardex-2022/standardex-2022-08-25T10:04:28.224019-06:00.jpg">
   <img src="https://archive.org/download/standardex-2022/standardex-2022-08-25T10:04:28.224019-06:00.jpg"
-     alt="Ogden Standard-Examiner at 2022-08-25 10:04:30-06:00 local time"
+     alt="Ogden Standard-Examiner at 2022-08-25 03:04:30-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/standardex-2022/standardex-2022-08-25T10:04:28.224019-06:00.jpg">August 25 at 10:04 AM</a></p>
+ <p><a href="https://archive.org/download/standardex-2022/standardex-2022-08-25T10:04:28.224019-06:00.jpg">August 25 at 3:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/standardex-2022/standardex-2022-08-24T10:01:50.957648-06:00.jpg">
   <img src="https://archive.org/download/standardex-2022/standardex-2022-08-24T10:01:50.957648-06:00.jpg"
-     alt="Ogden Standard-Examiner at 2022-08-24 10:01:52-06:00 local time"
+     alt="Ogden Standard-Examiner at 2022-08-24 03:01:52-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/standardex-2022/standardex-2022-08-24T10:01:50.957648-06:00.jpg">August 24 at 10:01 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/standardex-2022/standardex-2022-08-23T22:37:23.577267-06:00.jpg">
-  <img src="https://archive.org/download/standardex-2022/standardex-2022-08-23T22:37:23.577267-06:00.jpg"
-     alt="Ogden Standard-Examiner at 2022-08-23 22:37:26-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/standardex-2022/standardex-2022-08-23T22:37:23.577267-06:00.jpg">August 23 at 10:37 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/standardex-2022/standardex-2022-08-23T10:05:30.870264-06:00.jpg">
-  <img src="https://archive.org/download/standardex-2022/standardex-2022-08-23T10:05:30.870264-06:00.jpg"
-     alt="Ogden Standard-Examiner at 2022-08-23 10:05:32-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/standardex-2022/standardex-2022-08-23T10:05:30.870264-06:00.jpg">August 23 at 10:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/standardex-2022/standardex-2022-08-22T21:57:52.486031-06:00.jpg">
-  <img src="https://archive.org/download/standardex-2022/standardex-2022-08-22T21:57:52.486031-06:00.jpg"
-     alt="Ogden Standard-Examiner at 2022-08-22 21:57:53-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/standardex-2022/standardex-2022-08-22T21:57:52.486031-06:00.jpg">August 22 at 9:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/standardex-2022/standardex-2022-08-22T09:04:00.670021-06:00.jpg">
-  <img src="https://archive.org/download/standardex-2022/standardex-2022-08-22T09:04:00.670021-06:00.jpg"
-     alt="Ogden Standard-Examiner at 2022-08-22 09:04:03-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/standardex-2022/standardex-2022-08-22T09:04:00.670021-06:00.jpg">August 22 at 9:04 AM</a></p>
+ <p><a href="https://archive.org/download/standardex-2022/standardex-2022-08-24T10:01:50.957648-06:00.jpg">August 24 at 3:01 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 30 hyperlink lists with the Internet Archive.
+The archiving routine has saved 34 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/standardex.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 10:02 AM](https://archive.org/download/standardex-2022/standardex-2022-08-28T10:02:09.474607-06:00.hyperlinks.json) |
-| [August 27 at 10:36 PM](https://archive.org/download/standardex-2022/standardex-2022-08-27T22:36:35.010448-06:00.hyperlinks.json) |
-| [August 27 at 9:58 AM](https://archive.org/download/standardex-2022/standardex-2022-08-27T09:58:36.623480-06:00.hyperlinks.json) |
-| [August 26 at 10:37 PM](https://archive.org/download/standardex-2022/standardex-2022-08-26T22:37:28.219827-06:00.hyperlinks.json) |
-| [August 26 at 10:06 AM](https://archive.org/download/standardex-2022/standardex-2022-08-26T10:05:53.886171-06:00.hyperlinks.json) |
-| [August 25 at 10:42 PM](https://archive.org/download/standardex-2022/standardex-2022-08-25T22:42:23.128883-06:00.hyperlinks.json) |
-| [August 25 at 10:04 AM](https://archive.org/download/standardex-2022/standardex-2022-08-25T10:04:28.224019-06:00.hyperlinks.json) |
-| [August 24 at 10:01 AM](https://archive.org/download/standardex-2022/standardex-2022-08-24T10:01:50.957648-06:00.hyperlinks.json) |
-| [August 23 at 10:37 PM](https://archive.org/download/standardex-2022/standardex-2022-08-23T22:37:23.577267-06:00.hyperlinks.json) |
-| [August 23 at 10:05 AM](https://archive.org/download/standardex-2022/standardex-2022-08-23T10:05:30.870264-06:00.hyperlinks.json) |
+| [August 30 at 3:35 AM](https://archive.org/download/standardex-2022/standardex-2022-08-30T10:35:17.924940-06:00.hyperlinks.json) |
+| [August 29 at 3:56 PM](https://archive.org/download/standardex-2022/standardex-2022-08-29T22:56:12.646017-06:00.hyperlinks.json) |
+| [August 29 at 3:17 AM](https://archive.org/download/standardex-2022/standardex-2022-08-29T10:17:36.889106-06:00.hyperlinks.json) |
+| [August 28 at 3:40 PM](https://archive.org/download/standardex-2022/standardex-2022-08-28T22:40:15.042847-06:00.hyperlinks.json) |
+| [August 28 at 3:02 AM](https://archive.org/download/standardex-2022/standardex-2022-08-28T10:02:09.474607-06:00.hyperlinks.json) |
+| [August 27 at 3:36 PM](https://archive.org/download/standardex-2022/standardex-2022-08-27T22:36:35.010448-06:00.hyperlinks.json) |
+| [August 27 at 2:58 AM](https://archive.org/download/standardex-2022/standardex-2022-08-27T09:58:36.623480-06:00.hyperlinks.json) |
+| [August 26 at 3:37 PM](https://archive.org/download/standardex-2022/standardex-2022-08-26T22:37:28.219827-06:00.hyperlinks.json) |
+| [August 26 at 3:06 AM](https://archive.org/download/standardex-2022/standardex-2022-08-26T10:05:53.886171-06:00.hyperlinks.json) |
+| [August 25 at 3:42 PM](https://archive.org/download/standardex-2022/standardex-2022-08-25T22:42:23.128883-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 30 accessibility trees with the Internet Archive.
+The archiving routine has saved 34 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/standardex.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 10:02 AM](https://archive.org/download/standardex-2022/standardex-2022-08-28T10:02:09.474607-06:00.accessibility.json) |
-| [August 27 at 10:36 PM](https://archive.org/download/standardex-2022/standardex-2022-08-27T22:36:35.010448-06:00.accessibility.json) |
-| [August 27 at 9:58 AM](https://archive.org/download/standardex-2022/standardex-2022-08-27T09:58:36.623480-06:00.accessibility.json) |
-| [August 26 at 10:37 PM](https://archive.org/download/standardex-2022/standardex-2022-08-26T22:37:28.219827-06:00.accessibility.json) |
-| [August 26 at 10:05 AM](https://archive.org/download/standardex-2022/standardex-2022-08-26T10:05:53.886171-06:00.accessibility.json) |
-| [August 25 at 10:42 PM](https://archive.org/download/standardex-2022/standardex-2022-08-25T22:42:23.128883-06:00.accessibility.json) |
-| [August 25 at 10:04 AM](https://archive.org/download/standardex-2022/standardex-2022-08-25T10:04:28.224019-06:00.accessibility.json) |
-| [August 24 at 10:01 AM](https://archive.org/download/standardex-2022/standardex-2022-08-24T10:01:50.957648-06:00.accessibility.json) |
-| [August 23 at 10:37 PM](https://archive.org/download/standardex-2022/standardex-2022-08-23T22:37:23.577267-06:00.accessibility.json) |
-| [August 23 at 10:05 AM](https://archive.org/download/standardex-2022/standardex-2022-08-23T10:05:30.870264-06:00.accessibility.json) |
+| [August 30 at 3:35 AM](https://archive.org/download/standardex-2022/standardex-2022-08-30T10:35:17.924940-06:00.accessibility.json) |
+| [August 29 at 3:56 PM](https://archive.org/download/standardex-2022/standardex-2022-08-29T22:56:12.646017-06:00.accessibility.json) |
+| [August 29 at 3:17 AM](https://archive.org/download/standardex-2022/standardex-2022-08-29T10:17:36.889106-06:00.accessibility.json) |
+| [August 28 at 3:40 PM](https://archive.org/download/standardex-2022/standardex-2022-08-28T22:40:15.042847-06:00.accessibility.json) |
+| [August 28 at 3:02 AM](https://archive.org/download/standardex-2022/standardex-2022-08-28T10:02:09.474607-06:00.accessibility.json) |
+| [August 27 at 3:36 PM](https://archive.org/download/standardex-2022/standardex-2022-08-27T22:36:35.010448-06:00.accessibility.json) |
+| [August 27 at 2:58 AM](https://archive.org/download/standardex-2022/standardex-2022-08-27T09:58:36.623480-06:00.accessibility.json) |
+| [August 26 at 3:37 PM](https://archive.org/download/standardex-2022/standardex-2022-08-26T22:37:28.219827-06:00.accessibility.json) |
+| [August 26 at 3:05 AM](https://archive.org/download/standardex-2022/standardex-2022-08-26T10:05:53.886171-06:00.accessibility.json) |
+| [August 25 at 3:42 PM](https://archive.org/download/standardex-2022/standardex-2022-08-25T22:42:23.128883-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/standardex.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 10:02 AM](https://archive.org/download/standardex-2022/standardex-2022-08-28T10:02:09.474607-06:00.lighthouse.json) |
-| [August 27 at 10:36 PM](https://archive.org/download/standardex-2022/standardex-2022-08-27T22:36:35.010448-06:00.lighthouse.json) |
-| [August 27 at 9:58 AM](https://archive.org/download/standardex-2022/standardex-2022-08-27T09:58:36.623480-06:00.lighthouse.json) |
-| [August 26 at 10:37 PM](https://archive.org/download/standardex-2022/standardex-2022-08-26T22:37:28.219827-06:00.lighthouse.json) |
-| [August 26 at 10:06 AM](https://archive.org/download/standardex-2022/standardex-2022-08-26T10:05:53.886171-06:00.lighthouse.json) |
-| [August 25 at 10:42 PM](https://archive.org/download/standardex-2022/standardex-2022-08-25T22:42:23.128883-06:00.lighthouse.json) |
-| [August 25 at 10:04 AM](https://archive.org/download/standardex-2022/standardex-2022-08-25T10:04:28.224019-06:00.lighthouse.json) |
-| [August 24 at 10:01 AM](https://archive.org/download/standardex-2022/standardex-2022-08-24T10:01:50.957648-06:00.lighthouse.json) |
-| [August 23 at 10:37 PM](https://archive.org/download/standardex-2022/standardex-2022-08-23T22:37:23.577267-06:00.lighthouse.json) |
-| [August 23 at 10:05 AM](https://archive.org/download/standardex-2022/standardex-2022-08-23T10:05:30.870264-06:00.lighthouse.json) |
+| [August 30 at 3:35 AM](https://archive.org/download/standardex-2022/standardex-2022-08-30T10:35:17.924940-06:00.lighthouse.json) |
+| [August 29 at 3:56 PM](https://archive.org/download/standardex-2022/standardex-2022-08-29T22:56:12.646017-06:00.lighthouse.json) |
+| [August 29 at 3:17 AM](https://archive.org/download/standardex-2022/standardex-2022-08-29T10:17:36.889106-06:00.lighthouse.json) |
+| [August 28 at 3:40 PM](https://archive.org/download/standardex-2022/standardex-2022-08-28T22:40:15.042847-06:00.lighthouse.json) |
+| [August 28 at 3:02 AM](https://archive.org/download/standardex-2022/standardex-2022-08-28T10:02:09.474607-06:00.lighthouse.json) |
+| [August 27 at 3:36 PM](https://archive.org/download/standardex-2022/standardex-2022-08-27T22:36:35.010448-06:00.lighthouse.json) |
+| [August 27 at 2:58 AM](https://archive.org/download/standardex-2022/standardex-2022-08-27T09:58:36.623480-06:00.lighthouse.json) |
+| [August 26 at 3:37 PM](https://archive.org/download/standardex-2022/standardex-2022-08-26T22:37:28.219827-06:00.lighthouse.json) |
+| [August 26 at 3:06 AM](https://archive.org/download/standardex-2022/standardex-2022-08-26T10:05:53.886171-06:00.lighthouse.json) |
+| [August 25 at 3:42 PM](https://archive.org/download/standardex-2022/standardex-2022-08-25T22:42:23.128883-06:00.lighthouse.json) |
 
 
 

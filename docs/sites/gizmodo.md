@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 124 screenshots with the Internet Archive.
+The archiving routine has saved 128 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-28T07:55:19.478424-07:00.jpg">
-  <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-28T07:55:19.478424-07:00.jpg"
-     alt="Gizmodo at 2022-08-28 07:55:22-07:00 local time"
+ <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-30T08:30:24.353925-07:00.jpg">
+  <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-30T08:30:24.353925-07:00.jpg"
+     alt="Gizmodo at 2022-08-30 01:30:29-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-28T07:55:19.478424-07:00.jpg">August 28 at 7:55 AM</a></p>
+ <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-30T08:30:24.353925-07:00.jpg">August 30 at 1:30 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-29T20:51:54.922786-07:00.jpg">
+  <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-29T20:51:54.922786-07:00.jpg"
+     alt="Gizmodo at 2022-08-29 13:51:58-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-29T20:51:54.922786-07:00.jpg">August 29 at 1:51 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-29T08:06:32.022947-07:00.jpg">
+  <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-29T08:06:32.022947-07:00.jpg"
+     alt="Gizmodo at 2022-08-29 01:06:40-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-29T08:06:32.022947-07:00.jpg">August 29 at 1:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-28T20:43:23.245682-07:00.jpg">
+  <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-28T20:43:23.245682-07:00.jpg"
+     alt="Gizmodo at 2022-08-28 13:43:30-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-28T20:43:23.245682-07:00.jpg">August 28 at 1:43 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-28T07:55:19.478424-07:00.jpg">
+  <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-28T07:55:19.478424-07:00.jpg"
+     alt="Gizmodo at 2022-08-28 00:55:22-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-28T07:55:19.478424-07:00.jpg">August 28 at 12:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-27T20:40:04.952784-07:00.jpg">
   <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-27T20:40:04.952784-07:00.jpg"
-     alt="Gizmodo at 2022-08-27 20:40:09-07:00 local time"
+     alt="Gizmodo at 2022-08-27 13:40:09-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-27T20:40:04.952784-07:00.jpg">August 27 at 8:40 PM</a></p>
+ <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-27T20:40:04.952784-07:00.jpg">August 27 at 1:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-27T07:50:08.322047-07:00.jpg">
   <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-27T07:50:08.322047-07:00.jpg"
-     alt="Gizmodo at 2022-08-27 07:50:11-07:00 local time"
+     alt="Gizmodo at 2022-08-27 00:50:11-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-27T07:50:08.322047-07:00.jpg">August 27 at 7:50 AM</a></p>
+ <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-27T07:50:08.322047-07:00.jpg">August 27 at 12:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-26T20:35:42.797841-07:00.jpg">
   <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-26T20:35:42.797841-07:00.jpg"
-     alt="Gizmodo at 2022-08-26 20:35:44-07:00 local time"
+     alt="Gizmodo at 2022-08-26 13:35:44-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-26T20:35:42.797841-07:00.jpg">August 26 at 8:35 PM</a></p>
+ <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-26T20:35:42.797841-07:00.jpg">August 26 at 1:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-26T07:57:17.805055-07:00.jpg">
   <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-26T07:57:17.805055-07:00.jpg"
-     alt="Gizmodo at 2022-08-26 07:57:22-07:00 local time"
+     alt="Gizmodo at 2022-08-26 00:57:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-26T07:57:17.805055-07:00.jpg">August 26 at 7:57 AM</a></p>
+ <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-26T07:57:17.805055-07:00.jpg">August 26 at 12:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-25T20:42:33.686314-07:00.jpg">
   <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-25T20:42:33.686314-07:00.jpg"
-     alt="Gizmodo at 2022-08-25 20:42:35-07:00 local time"
+     alt="Gizmodo at 2022-08-25 13:42:35-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-25T20:42:33.686314-07:00.jpg">August 25 at 8:42 PM</a></p>
+ <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-25T20:42:33.686314-07:00.jpg">August 25 at 1:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-25T08:00:04.357276-07:00.jpg">
   <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-25T08:00:04.357276-07:00.jpg"
-     alt="Gizmodo at 2022-08-25 08:00:12-07:00 local time"
+     alt="Gizmodo at 2022-08-25 01:00:12-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-25T08:00:04.357276-07:00.jpg">August 25 at 8:00 AM</a></p>
+ <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-25T08:00:04.357276-07:00.jpg">August 25 at 1:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-24T07:58:54.651993-07:00.jpg">
   <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-24T07:58:54.651993-07:00.jpg"
-     alt="Gizmodo at 2022-08-24 07:59:00-07:00 local time"
+     alt="Gizmodo at 2022-08-24 00:59:00-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-24T07:58:54.651993-07:00.jpg">August 24 at 7:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-23T20:38:04.911103-07:00.jpg">
-  <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-23T20:38:04.911103-07:00.jpg"
-     alt="Gizmodo at 2022-08-23 20:38:06-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-23T20:38:04.911103-07:00.jpg">August 23 at 8:38 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-23T07:52:54.341258-07:00.jpg">
-  <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-23T07:52:54.341258-07:00.jpg"
-     alt="Gizmodo at 2022-08-23 07:52:58-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-23T07:52:54.341258-07:00.jpg">August 23 at 7:52 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-22T19:28:09.518132-07:00.jpg">
-  <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-22T19:28:09.518132-07:00.jpg"
-     alt="Gizmodo at 2022-08-22 19:28:17-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-22T19:28:09.518132-07:00.jpg">August 22 at 7:28 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-22T07:06:37.041933-07:00.jpg">
-  <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-22T07:06:37.041933-07:00.jpg"
-     alt="Gizmodo at 2022-08-22 07:06:44-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-22T07:06:37.041933-07:00.jpg">August 22 at 7:06 AM</a></p>
+ <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-24T07:58:54.651993-07:00.jpg">August 24 at 12:59 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 86 hyperlink lists with the Internet Archive.
+The archiving routine has saved 90 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 7:55 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-28T07:55:19.478424-07:00.hyperlinks.json) |
-| [August 27 at 8:40 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-27T20:40:04.952784-07:00.hyperlinks.json) |
-| [August 27 at 7:50 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-27T07:50:08.322047-07:00.hyperlinks.json) |
-| [August 26 at 8:35 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-26T20:35:42.797841-07:00.hyperlinks.json) |
-| [August 26 at 7:57 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-26T07:57:17.805055-07:00.hyperlinks.json) |
-| [August 25 at 8:42 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-25T20:42:33.686314-07:00.hyperlinks.json) |
-| [August 25 at 8:00 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-25T08:00:04.357276-07:00.hyperlinks.json) |
-| [August 24 at 7:59 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-24T07:58:54.651993-07:00.hyperlinks.json) |
-| [August 23 at 8:38 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-23T20:38:04.911103-07:00.hyperlinks.json) |
-| [August 23 at 7:53 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-23T07:52:54.341258-07:00.hyperlinks.json) |
+| [August 30 at 1:30 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-30T08:30:24.353925-07:00.hyperlinks.json) |
+| [August 29 at 1:52 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-29T20:51:54.922786-07:00.hyperlinks.json) |
+| [August 29 at 1:06 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-29T08:06:32.022947-07:00.hyperlinks.json) |
+| [August 28 at 1:43 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-28T20:43:23.245682-07:00.hyperlinks.json) |
+| [August 28 at 12:55 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-28T07:55:19.478424-07:00.hyperlinks.json) |
+| [August 27 at 1:40 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-27T20:40:04.952784-07:00.hyperlinks.json) |
+| [August 27 at 12:50 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-27T07:50:08.322047-07:00.hyperlinks.json) |
+| [August 26 at 1:35 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-26T20:35:42.797841-07:00.hyperlinks.json) |
+| [August 26 at 12:57 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-26T07:57:17.805055-07:00.hyperlinks.json) |
+| [August 25 at 1:42 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-25T20:42:33.686314-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 96 accessibility trees with the Internet Archive.
+The archiving routine has saved 100 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 7:55 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-28T07:55:19.478424-07:00.accessibility.json) |
-| [August 27 at 8:40 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-27T20:40:04.952784-07:00.accessibility.json) |
-| [August 27 at 7:50 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-27T07:50:08.322047-07:00.accessibility.json) |
-| [August 26 at 8:35 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-26T20:35:42.797841-07:00.accessibility.json) |
-| [August 26 at 7:57 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-26T07:57:17.805055-07:00.accessibility.json) |
-| [August 25 at 8:42 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-25T20:42:33.686314-07:00.accessibility.json) |
-| [August 25 at 8:00 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-25T08:00:04.357276-07:00.accessibility.json) |
-| [August 24 at 7:59 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-24T07:58:54.651993-07:00.accessibility.json) |
-| [August 23 at 8:38 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-23T20:38:04.911103-07:00.accessibility.json) |
-| [August 23 at 7:53 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-23T07:52:54.341258-07:00.accessibility.json) |
+| [August 30 at 1:30 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-30T08:30:24.353925-07:00.accessibility.json) |
+| [August 29 at 1:52 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-29T20:51:54.922786-07:00.accessibility.json) |
+| [August 29 at 1:06 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-29T08:06:32.022947-07:00.accessibility.json) |
+| [August 28 at 1:43 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-28T20:43:23.245682-07:00.accessibility.json) |
+| [August 28 at 12:55 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-28T07:55:19.478424-07:00.accessibility.json) |
+| [August 27 at 1:40 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-27T20:40:04.952784-07:00.accessibility.json) |
+| [August 27 at 12:50 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-27T07:50:08.322047-07:00.accessibility.json) |
+| [August 26 at 1:35 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-26T20:35:42.797841-07:00.accessibility.json) |
+| [August 26 at 12:57 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-26T07:57:17.805055-07:00.accessibility.json) |
+| [August 25 at 1:42 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-25T20:42:33.686314-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 72 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 76 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 7:55 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-28T07:55:19.478424-07:00.lighthouse.json) |
-| [August 27 at 8:40 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-27T20:40:04.952784-07:00.lighthouse.json) |
-| [August 27 at 7:50 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-27T07:50:08.322047-07:00.lighthouse.json) |
-| [August 26 at 8:35 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-26T20:35:42.797841-07:00.lighthouse.json) |
-| [August 26 at 7:57 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-26T07:57:17.805055-07:00.lighthouse.json) |
-| [August 25 at 8:42 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-25T20:42:33.686314-07:00.lighthouse.json) |
-| [August 25 at 8:00 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-25T08:00:04.357276-07:00.lighthouse.json) |
-| [August 24 at 7:59 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-24T07:58:54.651993-07:00.lighthouse.json) |
-| [August 23 at 8:38 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-23T20:38:04.911103-07:00.lighthouse.json) |
-| [August 23 at 7:53 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-23T07:52:54.341258-07:00.lighthouse.json) |
+| [August 30 at 1:30 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-30T08:30:24.353925-07:00.lighthouse.json) |
+| [August 29 at 1:52 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-29T20:51:54.922786-07:00.lighthouse.json) |
+| [August 29 at 1:06 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-29T08:06:32.022947-07:00.lighthouse.json) |
+| [August 28 at 1:43 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-28T20:43:23.245682-07:00.lighthouse.json) |
+| [August 28 at 12:55 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-28T07:55:19.478424-07:00.lighthouse.json) |
+| [August 27 at 1:40 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-27T20:40:04.952784-07:00.lighthouse.json) |
+| [August 27 at 12:50 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-27T07:50:08.322047-07:00.lighthouse.json) |
+| [August 26 at 1:35 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-26T20:35:42.797841-07:00.lighthouse.json) |
+| [August 26 at 12:57 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-26T07:57:17.805055-07:00.lighthouse.json) |
+| [August 25 at 1:42 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-25T20:42:33.686314-07:00.lighthouse.json) |
 
 
 

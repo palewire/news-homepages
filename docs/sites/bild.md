@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 37 screenshots with the Internet Archive.
+The archiving routine has saved 41 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/bild-2022/bild-2022-08-29T00:50:26.623543+02:00.jpg">
-  <img src="https://archive.org/download/bild-2022/bild-2022-08-29T00:50:26.623543+02:00.jpg"
-     alt="Bild at 2022-08-29 00:50:29+02:00 local time"
+ <a href="https://archive.org/download/bild-2022/bild-2022-08-31T01:00:58.454782+02:00.jpg">
+  <img src="https://archive.org/download/bild-2022/bild-2022-08-31T01:00:58.454782+02:00.jpg"
+     alt="Bild at 2022-08-30 18:01:01+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bild-2022/bild-2022-08-29T00:50:26.623543+02:00.jpg">August 29 at 12:50 AM</a></p>
+ <p><a href="https://archive.org/download/bild-2022/bild-2022-08-31T01:00:58.454782+02:00.jpg">August 30 at 6:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bild-2022/bild-2022-08-30T13:00:58.339636+02:00.jpg">
+  <img src="https://archive.org/download/bild-2022/bild-2022-08-30T13:00:58.339636+02:00.jpg"
+     alt="Bild at 2022-08-30 06:01:01+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bild-2022/bild-2022-08-30T13:00:58.339636+02:00.jpg">August 30 at 6:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bild-2022/bild-2022-08-30T00:58:43.385765+02:00.jpg">
+  <img src="https://archive.org/download/bild-2022/bild-2022-08-30T00:58:43.385765+02:00.jpg"
+     alt="Bild at 2022-08-29 17:58:46+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bild-2022/bild-2022-08-30T00:58:43.385765+02:00.jpg">August 29 at 5:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bild-2022/bild-2022-08-29T12:53:27.757718+02:00.jpg">
+  <img src="https://archive.org/download/bild-2022/bild-2022-08-29T12:53:27.757718+02:00.jpg"
+     alt="Bild at 2022-08-29 05:53:32+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bild-2022/bild-2022-08-29T12:53:27.757718+02:00.jpg">August 29 at 5:53 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bild-2022/bild-2022-08-29T00:50:26.623543+02:00.jpg">
+  <img src="https://archive.org/download/bild-2022/bild-2022-08-29T00:50:26.623543+02:00.jpg"
+     alt="Bild at 2022-08-28 17:50:29+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bild-2022/bild-2022-08-29T00:50:26.623543+02:00.jpg">August 28 at 5:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bild-2022/bild-2022-08-28T12:54:09.347379+02:00.jpg">
   <img src="https://archive.org/download/bild-2022/bild-2022-08-28T12:54:09.347379+02:00.jpg"
-     alt="Bild at 2022-08-28 12:54:11+02:00 local time"
+     alt="Bild at 2022-08-28 05:54:11+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bild-2022/bild-2022-08-28T12:54:09.347379+02:00.jpg">August 28 at 12:54 PM</a></p>
+ <p><a href="https://archive.org/download/bild-2022/bild-2022-08-28T12:54:09.347379+02:00.jpg">August 28 at 5:54 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bild-2022/bild-2022-08-28T00:54:04.102540+02:00.jpg">
   <img src="https://archive.org/download/bild-2022/bild-2022-08-28T00:54:04.102540+02:00.jpg"
-     alt="Bild at 2022-08-28 00:54:07+02:00 local time"
+     alt="Bild at 2022-08-27 17:54:07+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bild-2022/bild-2022-08-28T00:54:04.102540+02:00.jpg">August 28 at 12:54 AM</a></p>
+ <p><a href="https://archive.org/download/bild-2022/bild-2022-08-28T00:54:04.102540+02:00.jpg">August 27 at 5:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bild-2022/bild-2022-08-27T12:48:04.523969+02:00.jpg">
   <img src="https://archive.org/download/bild-2022/bild-2022-08-27T12:48:04.523969+02:00.jpg"
-     alt="Bild at 2022-08-27 12:48:07+02:00 local time"
+     alt="Bild at 2022-08-27 05:48:07+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bild-2022/bild-2022-08-27T12:48:04.523969+02:00.jpg">August 27 at 12:48 PM</a></p>
+ <p><a href="https://archive.org/download/bild-2022/bild-2022-08-27T12:48:04.523969+02:00.jpg">August 27 at 5:48 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bild-2022/bild-2022-08-27T00:50:20.884861+02:00.jpg">
   <img src="https://archive.org/download/bild-2022/bild-2022-08-27T00:50:20.884861+02:00.jpg"
-     alt="Bild at 2022-08-27 00:50:28+02:00 local time"
+     alt="Bild at 2022-08-26 17:50:28+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bild-2022/bild-2022-08-27T00:50:20.884861+02:00.jpg">August 27 at 12:50 AM</a></p>
+ <p><a href="https://archive.org/download/bild-2022/bild-2022-08-27T00:50:20.884861+02:00.jpg">August 26 at 5:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bild-2022/bild-2022-08-26T12:50:12.772029+02:00.jpg">
   <img src="https://archive.org/download/bild-2022/bild-2022-08-26T12:50:12.772029+02:00.jpg"
-     alt="Bild at 2022-08-26 12:50:15+02:00 local time"
+     alt="Bild at 2022-08-26 05:50:15+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bild-2022/bild-2022-08-26T12:50:12.772029+02:00.jpg">August 26 at 12:50 PM</a></p>
+ <p><a href="https://archive.org/download/bild-2022/bild-2022-08-26T12:50:12.772029+02:00.jpg">August 26 at 5:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bild-2022/bild-2022-08-26T00:51:54.768295+02:00.jpg">
   <img src="https://archive.org/download/bild-2022/bild-2022-08-26T00:51:54.768295+02:00.jpg"
-     alt="Bild at 2022-08-26 00:52:00+02:00 local time"
+     alt="Bild at 2022-08-25 17:52:00+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bild-2022/bild-2022-08-26T00:51:54.768295+02:00.jpg">August 26 at 12:52 AM</a></p>
+ <p><a href="https://archive.org/download/bild-2022/bild-2022-08-26T00:51:54.768295+02:00.jpg">August 25 at 5:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bild-2022/bild-2022-08-25T12:54:36.904727+02:00.jpg">
   <img src="https://archive.org/download/bild-2022/bild-2022-08-25T12:54:36.904727+02:00.jpg"
-     alt="Bild at 2022-08-25 12:54:38+02:00 local time"
+     alt="Bild at 2022-08-25 05:54:38+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bild-2022/bild-2022-08-25T12:54:36.904727+02:00.jpg">August 25 at 12:54 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bild-2022/bild-2022-08-25T00:54:25.282650+02:00.jpg">
-  <img src="https://archive.org/download/bild-2022/bild-2022-08-25T00:54:25.282650+02:00.jpg"
-     alt="Bild at 2022-08-25 00:54:26+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bild-2022/bild-2022-08-25T00:54:25.282650+02:00.jpg">August 25 at 12:54 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bild-2022/bild-2022-08-24T12:47:02.432550+02:00.jpg">
-  <img src="https://archive.org/download/bild-2022/bild-2022-08-24T12:47:02.432550+02:00.jpg"
-     alt="Bild at 2022-08-24 12:47:04+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bild-2022/bild-2022-08-24T12:47:02.432550+02:00.jpg">August 24 at 12:47 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bild-2022/bild-2022-08-24T00:57:15.391379+02:00.jpg">
-  <img src="https://archive.org/download/bild-2022/bild-2022-08-24T00:57:15.391379+02:00.jpg"
-     alt="Bild at 2022-08-24 00:57:16+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bild-2022/bild-2022-08-24T00:57:15.391379+02:00.jpg">August 24 at 12:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bild-2022/bild-2022-08-23T12:58:30.489345+02:00.jpg">
-  <img src="https://archive.org/download/bild-2022/bild-2022-08-23T12:58:30.489345+02:00.jpg"
-     alt="Bild at 2022-08-23 12:58:33+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bild-2022/bild-2022-08-23T12:58:30.489345+02:00.jpg">August 23 at 12:58 PM</a></p>
+ <p><a href="https://archive.org/download/bild-2022/bild-2022-08-25T12:54:36.904727+02:00.jpg">August 25 at 5:54 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 37 hyperlink lists with the Internet Archive.
+The archiving routine has saved 41 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 29 at 12:50 AM](https://archive.org/download/bild-2022/bild-2022-08-29T00:50:26.623543+02:00.hyperlinks.json) |
-| [August 28 at 12:54 PM](https://archive.org/download/bild-2022/bild-2022-08-28T12:54:09.347379+02:00.hyperlinks.json) |
-| [August 28 at 12:54 AM](https://archive.org/download/bild-2022/bild-2022-08-28T00:54:04.102540+02:00.hyperlinks.json) |
-| [August 27 at 12:48 PM](https://archive.org/download/bild-2022/bild-2022-08-27T12:48:04.523969+02:00.hyperlinks.json) |
-| [August 27 at 12:50 AM](https://archive.org/download/bild-2022/bild-2022-08-27T00:50:20.884861+02:00.hyperlinks.json) |
-| [August 26 at 12:50 PM](https://archive.org/download/bild-2022/bild-2022-08-26T12:50:12.772029+02:00.hyperlinks.json) |
-| [August 26 at 12:52 AM](https://archive.org/download/bild-2022/bild-2022-08-26T00:51:54.768295+02:00.hyperlinks.json) |
-| [August 25 at 12:54 PM](https://archive.org/download/bild-2022/bild-2022-08-25T12:54:36.904727+02:00.hyperlinks.json) |
-| [August 25 at 12:54 AM](https://archive.org/download/bild-2022/bild-2022-08-25T00:54:25.282650+02:00.hyperlinks.json) |
-| [August 24 at 12:47 PM](https://archive.org/download/bild-2022/bild-2022-08-24T12:47:02.432550+02:00.hyperlinks.json) |
+| [August 30 at 6:01 PM](https://archive.org/download/bild-2022/bild-2022-08-31T01:00:58.454782+02:00.hyperlinks.json) |
+| [August 30 at 6:01 AM](https://archive.org/download/bild-2022/bild-2022-08-30T13:00:58.339636+02:00.hyperlinks.json) |
+| [August 29 at 5:58 PM](https://archive.org/download/bild-2022/bild-2022-08-30T00:58:43.385765+02:00.hyperlinks.json) |
+| [August 29 at 5:53 AM](https://archive.org/download/bild-2022/bild-2022-08-29T12:53:27.757718+02:00.hyperlinks.json) |
+| [August 28 at 5:50 PM](https://archive.org/download/bild-2022/bild-2022-08-29T00:50:26.623543+02:00.hyperlinks.json) |
+| [August 28 at 5:54 AM](https://archive.org/download/bild-2022/bild-2022-08-28T12:54:09.347379+02:00.hyperlinks.json) |
+| [August 27 at 5:54 PM](https://archive.org/download/bild-2022/bild-2022-08-28T00:54:04.102540+02:00.hyperlinks.json) |
+| [August 27 at 5:48 AM](https://archive.org/download/bild-2022/bild-2022-08-27T12:48:04.523969+02:00.hyperlinks.json) |
+| [August 26 at 5:50 PM](https://archive.org/download/bild-2022/bild-2022-08-27T00:50:20.884861+02:00.hyperlinks.json) |
+| [August 26 at 5:50 AM](https://archive.org/download/bild-2022/bild-2022-08-26T12:50:12.772029+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 37 accessibility trees with the Internet Archive.
+The archiving routine has saved 41 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 29 at 12:50 AM](https://archive.org/download/bild-2022/bild-2022-08-29T00:50:26.623543+02:00.accessibility.json) |
-| [August 28 at 12:54 PM](https://archive.org/download/bild-2022/bild-2022-08-28T12:54:09.347379+02:00.accessibility.json) |
-| [August 28 at 12:54 AM](https://archive.org/download/bild-2022/bild-2022-08-28T00:54:04.102540+02:00.accessibility.json) |
-| [August 27 at 12:48 PM](https://archive.org/download/bild-2022/bild-2022-08-27T12:48:04.523969+02:00.accessibility.json) |
-| [August 27 at 12:50 AM](https://archive.org/download/bild-2022/bild-2022-08-27T00:50:20.884861+02:00.accessibility.json) |
-| [August 26 at 12:50 PM](https://archive.org/download/bild-2022/bild-2022-08-26T12:50:12.772029+02:00.accessibility.json) |
-| [August 26 at 12:52 AM](https://archive.org/download/bild-2022/bild-2022-08-26T00:51:54.768295+02:00.accessibility.json) |
-| [August 25 at 12:54 PM](https://archive.org/download/bild-2022/bild-2022-08-25T12:54:36.904727+02:00.accessibility.json) |
-| [August 25 at 12:54 AM](https://archive.org/download/bild-2022/bild-2022-08-25T00:54:25.282650+02:00.accessibility.json) |
-| [August 24 at 12:47 PM](https://archive.org/download/bild-2022/bild-2022-08-24T12:47:02.432550+02:00.accessibility.json) |
+| [August 30 at 6:01 PM](https://archive.org/download/bild-2022/bild-2022-08-31T01:00:58.454782+02:00.accessibility.json) |
+| [August 30 at 6:01 AM](https://archive.org/download/bild-2022/bild-2022-08-30T13:00:58.339636+02:00.accessibility.json) |
+| [August 29 at 5:58 PM](https://archive.org/download/bild-2022/bild-2022-08-30T00:58:43.385765+02:00.accessibility.json) |
+| [August 29 at 5:53 AM](https://archive.org/download/bild-2022/bild-2022-08-29T12:53:27.757718+02:00.accessibility.json) |
+| [August 28 at 5:50 PM](https://archive.org/download/bild-2022/bild-2022-08-29T00:50:26.623543+02:00.accessibility.json) |
+| [August 28 at 5:54 AM](https://archive.org/download/bild-2022/bild-2022-08-28T12:54:09.347379+02:00.accessibility.json) |
+| [August 27 at 5:54 PM](https://archive.org/download/bild-2022/bild-2022-08-28T00:54:04.102540+02:00.accessibility.json) |
+| [August 27 at 5:48 AM](https://archive.org/download/bild-2022/bild-2022-08-27T12:48:04.523969+02:00.accessibility.json) |
+| [August 26 at 5:50 PM](https://archive.org/download/bild-2022/bild-2022-08-27T00:50:20.884861+02:00.accessibility.json) |
+| [August 26 at 5:50 AM](https://archive.org/download/bild-2022/bild-2022-08-26T12:50:12.772029+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 37 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 41 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 29 at 12:50 AM](https://archive.org/download/bild-2022/bild-2022-08-29T00:50:26.623543+02:00.lighthouse.json) |
-| [August 28 at 12:54 PM](https://archive.org/download/bild-2022/bild-2022-08-28T12:54:09.347379+02:00.lighthouse.json) |
-| [August 28 at 12:54 AM](https://archive.org/download/bild-2022/bild-2022-08-28T00:54:04.102540+02:00.lighthouse.json) |
-| [August 27 at 12:48 PM](https://archive.org/download/bild-2022/bild-2022-08-27T12:48:04.523969+02:00.lighthouse.json) |
-| [August 27 at 12:50 AM](https://archive.org/download/bild-2022/bild-2022-08-27T00:50:20.884861+02:00.lighthouse.json) |
-| [August 26 at 12:50 PM](https://archive.org/download/bild-2022/bild-2022-08-26T12:50:12.772029+02:00.lighthouse.json) |
-| [August 26 at 12:52 AM](https://archive.org/download/bild-2022/bild-2022-08-26T00:51:54.768295+02:00.lighthouse.json) |
-| [August 25 at 12:54 PM](https://archive.org/download/bild-2022/bild-2022-08-25T12:54:36.904727+02:00.lighthouse.json) |
-| [August 25 at 12:54 AM](https://archive.org/download/bild-2022/bild-2022-08-25T00:54:25.282650+02:00.lighthouse.json) |
-| [August 24 at 12:47 PM](https://archive.org/download/bild-2022/bild-2022-08-24T12:47:02.432550+02:00.lighthouse.json) |
+| [August 30 at 6:01 PM](https://archive.org/download/bild-2022/bild-2022-08-31T01:00:58.454782+02:00.lighthouse.json) |
+| [August 30 at 6:01 AM](https://archive.org/download/bild-2022/bild-2022-08-30T13:00:58.339636+02:00.lighthouse.json) |
+| [August 29 at 5:58 PM](https://archive.org/download/bild-2022/bild-2022-08-30T00:58:43.385765+02:00.lighthouse.json) |
+| [August 29 at 5:53 AM](https://archive.org/download/bild-2022/bild-2022-08-29T12:53:27.757718+02:00.lighthouse.json) |
+| [August 28 at 5:50 PM](https://archive.org/download/bild-2022/bild-2022-08-29T00:50:26.623543+02:00.lighthouse.json) |
+| [August 28 at 5:54 AM](https://archive.org/download/bild-2022/bild-2022-08-28T12:54:09.347379+02:00.lighthouse.json) |
+| [August 27 at 5:54 PM](https://archive.org/download/bild-2022/bild-2022-08-28T00:54:04.102540+02:00.lighthouse.json) |
+| [August 27 at 5:48 AM](https://archive.org/download/bild-2022/bild-2022-08-27T12:48:04.523969+02:00.lighthouse.json) |
+| [August 26 at 5:50 PM](https://archive.org/download/bild-2022/bild-2022-08-27T00:50:20.884861+02:00.lighthouse.json) |
+| [August 26 at 5:50 AM](https://archive.org/download/bild-2022/bild-2022-08-26T12:50:12.772029+02:00.lighthouse.json) |
 
 
 

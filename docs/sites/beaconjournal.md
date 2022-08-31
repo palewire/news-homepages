@@ -234,8 +234,91 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 33 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/beaconjournal.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
@@ -243,180 +326,429 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-28T09:59:07.326500-04:00.jpg">
-  <img src="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-28T09:59:07.326500-04:00.jpg"
-     alt="Akron Beacon Journal at 2022-08-28 09:59:08-04:00 local time"
+ <a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-30T11:17:11.559303-04:00.jpg">
+  <img src="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-30T11:17:11.559303-04:00.jpg"
+     alt="Akron Beacon Journal at 2022-08-30 04:17:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-28T09:59:07.326500-04:00.jpg">August 28 at 9:59 AM</a></p>
+ <p><a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-30T11:17:11.559303-04:00.jpg">August 30 at 4:17 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-29T22:27:01.244536-04:00.jpg">
+  <img src="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-29T22:27:01.244536-04:00.jpg"
+     alt="Akron Beacon Journal at 2022-08-29 15:27:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-29T22:27:01.244536-04:00.jpg">August 29 at 3:27 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-29T10:05:24.556360-04:00.jpg">
+  <img src="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-29T10:05:24.556360-04:00.jpg"
+     alt="Akron Beacon Journal at 2022-08-29 03:05:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-29T10:05:24.556360-04:00.jpg">August 29 at 3:05 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-28T22:22:35.063738-04:00.jpg">
+  <img src="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-28T22:22:35.063738-04:00.jpg"
+     alt="Akron Beacon Journal at 2022-08-28 15:22:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-28T22:22:35.063738-04:00.jpg">August 28 at 3:22 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-28T09:59:07.326500-04:00.jpg">
+  <img src="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-28T09:59:07.326500-04:00.jpg"
+     alt="Akron Beacon Journal at 2022-08-28 02:59:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-28T09:59:07.326500-04:00.jpg">August 28 at 2:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T22:24:16.231802-04:00.jpg">
   <img src="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T22:24:16.231802-04:00.jpg"
-     alt="Akron Beacon Journal at 2022-08-27 22:24:18-04:00 local time"
+     alt="Akron Beacon Journal at 2022-08-27 15:24:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T22:24:16.231802-04:00.jpg">August 27 at 10:24 PM</a></p>
+ <p><a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T22:24:16.231802-04:00.jpg">August 27 at 3:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T09:56:32.556948-04:00.jpg">
   <img src="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T09:56:32.556948-04:00.jpg"
-     alt="Akron Beacon Journal at 2022-08-27 09:56:34-04:00 local time"
+     alt="Akron Beacon Journal at 2022-08-27 02:56:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T09:56:32.556948-04:00.jpg">August 27 at 9:56 AM</a></p>
+ <p><a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T09:56:32.556948-04:00.jpg">August 27 at 2:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-26T22:19:23.450969-04:00.jpg">
   <img src="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-26T22:19:23.450969-04:00.jpg"
-     alt="Akron Beacon Journal at 2022-08-26 22:19:24-04:00 local time"
+     alt="Akron Beacon Journal at 2022-08-26 15:19:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-26T22:19:23.450969-04:00.jpg">August 26 at 10:19 PM</a></p>
+ <p><a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-26T22:19:23.450969-04:00.jpg">August 26 at 3:19 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-26T10:02:08.850206-04:00.jpg">
   <img src="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-26T10:02:08.850206-04:00.jpg"
-     alt="Akron Beacon Journal at 2022-08-26 10:02:10-04:00 local time"
+     alt="Akron Beacon Journal at 2022-08-26 03:02:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-26T10:02:08.850206-04:00.jpg">August 26 at 10:02 AM</a></p>
+ <p><a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-26T10:02:08.850206-04:00.jpg">August 26 at 3:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-25T22:21:25.275728-04:00.jpg">
   <img src="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-25T22:21:25.275728-04:00.jpg"
-     alt="Akron Beacon Journal at 2022-08-25 22:21:27-04:00 local time"
+     alt="Akron Beacon Journal at 2022-08-25 15:21:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-25T22:21:25.275728-04:00.jpg">August 25 at 10:21 PM</a></p>
+ <p><a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-25T22:21:25.275728-04:00.jpg">August 25 at 3:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-25T10:51:50.884538-04:00.jpg">
   <img src="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-25T10:51:50.884538-04:00.jpg"
-     alt="Akron Beacon Journal at 2022-08-25 10:51:52-04:00 local time"
+     alt="Akron Beacon Journal at 2022-08-25 03:51:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-25T10:51:50.884538-04:00.jpg">August 25 at 10:51 AM</a></p>
+ <p><a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-25T10:51:50.884538-04:00.jpg">August 25 at 3:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-24T09:57:13.856752-04:00.jpg">
   <img src="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-24T09:57:13.856752-04:00.jpg"
-     alt="Akron Beacon Journal at 2022-08-24 09:57:16-04:00 local time"
+     alt="Akron Beacon Journal at 2022-08-24 02:57:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-24T09:57:13.856752-04:00.jpg">August 24 at 9:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-23T22:15:09.058036-04:00.jpg">
-  <img src="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-23T22:15:09.058036-04:00.jpg"
-     alt="Akron Beacon Journal at 2022-08-23 22:15:10-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-23T22:15:09.058036-04:00.jpg">August 23 at 10:15 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-23T09:59:01.195844-04:00.jpg">
-  <img src="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-23T09:59:01.195844-04:00.jpg"
-     alt="Akron Beacon Journal at 2022-08-23 09:59:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-23T09:59:01.195844-04:00.jpg">August 23 at 9:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-22T21:19:39.657393-04:00.jpg">
-  <img src="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-22T21:19:39.657393-04:00.jpg"
-     alt="Akron Beacon Journal at 2022-08-22 21:19:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-22T21:19:39.657393-04:00.jpg">August 22 at 9:19 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-22T09:01:28.827878-04:00.jpg">
-  <img src="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-22T09:01:28.827878-04:00.jpg"
-     alt="Akron Beacon Journal at 2022-08-22 09:01:30-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-22T09:01:28.827878-04:00.jpg">August 22 at 9:01 AM</a></p>
+ <p><a href="https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-24T09:57:13.856752-04:00.jpg">August 24 at 2:57 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 29 hyperlink lists with the Internet Archive.
+The archiving routine has saved 33 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/beaconjournal.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 9:59 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-28T09:59:07.326500-04:00.hyperlinks.json) |
-| [August 27 at 10:24 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T22:24:16.231802-04:00.hyperlinks.json) |
-| [August 27 at 9:56 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T09:56:32.556948-04:00.hyperlinks.json) |
-| [August 26 at 10:19 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-26T22:19:23.450969-04:00.hyperlinks.json) |
-| [August 26 at 10:02 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-26T10:02:08.850206-04:00.hyperlinks.json) |
-| [August 25 at 10:21 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-25T22:21:25.275728-04:00.hyperlinks.json) |
-| [August 25 at 10:51 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-25T10:51:50.884538-04:00.hyperlinks.json) |
-| [August 24 at 9:57 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-24T09:57:13.856752-04:00.hyperlinks.json) |
-| [August 23 at 10:15 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-23T22:15:09.058036-04:00.hyperlinks.json) |
-| [August 23 at 9:59 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-23T09:59:01.195844-04:00.hyperlinks.json) |
+| [August 30 at 4:17 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-30T11:17:11.559303-04:00.hyperlinks.json) |
+| [August 29 at 3:27 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-29T22:27:01.244536-04:00.hyperlinks.json) |
+| [August 29 at 3:05 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-29T10:05:24.556360-04:00.hyperlinks.json) |
+| [August 28 at 3:22 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-28T22:22:35.063738-04:00.hyperlinks.json) |
+| [August 28 at 2:59 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-28T09:59:07.326500-04:00.hyperlinks.json) |
+| [August 27 at 3:24 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T22:24:16.231802-04:00.hyperlinks.json) |
+| [August 27 at 2:56 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T09:56:32.556948-04:00.hyperlinks.json) |
+| [August 26 at 3:19 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-26T22:19:23.450969-04:00.hyperlinks.json) |
+| [August 26 at 3:02 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-26T10:02:08.850206-04:00.hyperlinks.json) |
+| [August 25 at 3:21 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-25T22:21:25.275728-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 29 accessibility trees with the Internet Archive.
+The archiving routine has saved 33 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/beaconjournal.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 9:59 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-28T09:59:07.326500-04:00.accessibility.json) |
-| [August 27 at 10:24 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T22:24:16.231802-04:00.accessibility.json) |
-| [August 27 at 9:56 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T09:56:32.556948-04:00.accessibility.json) |
-| [August 26 at 10:19 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-26T22:19:23.450969-04:00.accessibility.json) |
-| [August 26 at 10:02 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-26T10:02:08.850206-04:00.accessibility.json) |
-| [August 25 at 10:21 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-25T22:21:25.275728-04:00.accessibility.json) |
-| [August 25 at 10:51 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-25T10:51:50.884538-04:00.accessibility.json) |
-| [August 24 at 9:57 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-24T09:57:13.856752-04:00.accessibility.json) |
-| [August 23 at 10:15 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-23T22:15:09.058036-04:00.accessibility.json) |
-| [August 23 at 9:59 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-23T09:59:01.195844-04:00.accessibility.json) |
+| [August 30 at 4:17 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-30T11:17:11.559303-04:00.accessibility.json) |
+| [August 29 at 3:27 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-29T22:27:01.244536-04:00.accessibility.json) |
+| [August 29 at 3:05 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-29T10:05:24.556360-04:00.accessibility.json) |
+| [August 28 at 3:22 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-28T22:22:35.063738-04:00.accessibility.json) |
+| [August 28 at 2:59 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-28T09:59:07.326500-04:00.accessibility.json) |
+| [August 27 at 3:24 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T22:24:16.231802-04:00.accessibility.json) |
+| [August 27 at 2:56 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T09:56:32.556948-04:00.accessibility.json) |
+| [August 26 at 3:19 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-26T22:19:23.450969-04:00.accessibility.json) |
+| [August 26 at 3:02 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-26T10:02:08.850206-04:00.accessibility.json) |
+| [August 25 at 3:21 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-25T22:21:25.275728-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/beaconjournal.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 9:59 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-28T09:59:07.326500-04:00.lighthouse.json) |
-| [August 27 at 10:24 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T22:24:16.231802-04:00.lighthouse.json) |
-| [August 27 at 9:56 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T09:56:32.556948-04:00.lighthouse.json) |
-| [August 26 at 10:19 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-26T22:19:23.450969-04:00.lighthouse.json) |
-| [August 26 at 10:02 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-26T10:02:08.850206-04:00.lighthouse.json) |
-| [August 25 at 10:21 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-25T22:21:25.275728-04:00.lighthouse.json) |
-| [August 25 at 10:51 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-25T10:51:50.884538-04:00.lighthouse.json) |
-| [August 24 at 9:57 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-24T09:57:13.856752-04:00.lighthouse.json) |
-| [August 23 at 10:15 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-23T22:15:09.058036-04:00.lighthouse.json) |
-| [August 23 at 9:59 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-23T09:59:01.195844-04:00.lighthouse.json) |
+| [August 30 at 4:17 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-30T11:17:11.559303-04:00.lighthouse.json) |
+| [August 29 at 3:27 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-29T22:27:01.244536-04:00.lighthouse.json) |
+| [August 29 at 3:05 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-29T10:05:24.556360-04:00.lighthouse.json) |
+| [August 28 at 3:22 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-28T22:22:35.063738-04:00.lighthouse.json) |
+| [August 28 at 2:59 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-28T09:59:07.326500-04:00.lighthouse.json) |
+| [August 27 at 3:24 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T22:24:16.231802-04:00.lighthouse.json) |
+| [August 27 at 2:56 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-27T09:56:32.556948-04:00.lighthouse.json) |
+| [August 26 at 3:19 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-26T22:19:23.450969-04:00.lighthouse.json) |
+| [August 26 at 3:02 AM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-26T10:02:08.850206-04:00.lighthouse.json) |
+| [August 25 at 3:21 PM](https://archive.org/download/beaconjournal-2022/beaconjournal-2022-08-25T22:21:25.275728-04:00.lighthouse.json) |
 
 
 

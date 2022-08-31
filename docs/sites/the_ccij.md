@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 5 screenshots with the Internet Archive.
+The archiving routine has saved 9 screenshots with the Internet Archive.
 
 
 
@@ -37,55 +37,91 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-28T11:02:23.409464-05:00.jpg">
-  <img src="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-28T11:02:23.409464-05:00.jpg"
-     alt="InvestigateMidwest at 2022-08-28 11:02:25-05:00 local time"
+ <a href="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-30T11:37:00.259221-05:00.jpg">
+  <img src="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-30T11:37:00.259221-05:00.jpg"
+     alt="InvestigateMidwest at 2022-08-30 04:37:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-28T11:02:23.409464-05:00.jpg">August 28 at 11:02 AM</a></p>
+ <p><a href="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-30T11:37:00.259221-05:00.jpg">August 30 at 4:37 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-29T23:57:20.054324-05:00.jpg">
+  <img src="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-29T23:57:20.054324-05:00.jpg"
+     alt="InvestigateMidwest at 2022-08-29 16:57:22-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-29T23:57:20.054324-05:00.jpg">August 29 at 4:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-29T11:17:29.759032-05:00.jpg">
+  <img src="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-29T11:17:29.759032-05:00.jpg"
+     alt="InvestigateMidwest at 2022-08-29 04:17:31-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-29T11:17:29.759032-05:00.jpg">August 29 at 4:17 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-28T23:40:56.443103-05:00.jpg">
+  <img src="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-28T23:40:56.443103-05:00.jpg"
+     alt="InvestigateMidwest at 2022-08-28 16:40:58-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-28T23:40:56.443103-05:00.jpg">August 28 at 4:40 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-28T11:02:23.409464-05:00.jpg">
+  <img src="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-28T11:02:23.409464-05:00.jpg"
+     alt="InvestigateMidwest at 2022-08-28 04:02:25-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-28T11:02:23.409464-05:00.jpg">August 28 at 4:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-27T23:38:20.244732-05:00.jpg">
   <img src="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-27T23:38:20.244732-05:00.jpg"
-     alt="InvestigateMidwest at 2022-08-27 23:38:21-05:00 local time"
+     alt="InvestigateMidwest at 2022-08-27 16:38:21-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-27T23:38:20.244732-05:00.jpg">August 27 at 11:38 PM</a></p>
+ <p><a href="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-27T23:38:20.244732-05:00.jpg">August 27 at 4:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-27T11:00:21.166720-05:00.jpg">
   <img src="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-27T11:00:21.166720-05:00.jpg"
-     alt="InvestigateMidwest at 2022-08-27 11:00:22-05:00 local time"
+     alt="InvestigateMidwest at 2022-08-27 04:00:22-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-27T11:00:21.166720-05:00.jpg">August 27 at 11:00 AM</a></p>
+ <p><a href="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-27T11:00:21.166720-05:00.jpg">August 27 at 4:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-26T23:38:31.041613-05:00.jpg">
   <img src="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-26T23:38:31.041613-05:00.jpg"
-     alt="InvestigateMidwest at 2022-08-26 23:38:32-05:00 local time"
+     alt="InvestigateMidwest at 2022-08-26 16:38:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-26T23:38:31.041613-05:00.jpg">August 26 at 11:38 PM</a></p>
+ <p><a href="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-26T23:38:31.041613-05:00.jpg">August 26 at 4:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-26T11:06:47.808866-05:00.jpg">
   <img src="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-26T11:06:47.808866-05:00.jpg"
-     alt="InvestigateMidwest at 2022-08-26 11:06:53-05:00 local time"
+     alt="InvestigateMidwest at 2022-08-26 04:06:53-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-26T11:06:47.808866-05:00.jpg">August 26 at 11:06 AM</a></p>
+ <p><a href="https://archive.org/download/the_ccij-2022/the_ccij-2022-08-26T11:06:47.808866-05:00.jpg">August 26 at 4:06 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 5 hyperlink lists with the Internet Archive.
+The archiving routine has saved 9 hyperlink lists with the Internet Archive.
 
 
 
@@ -93,16 +129,20 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 11:02 AM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-28T11:02:23.409464-05:00.hyperlinks.json) |
-| [August 27 at 11:38 PM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-27T23:38:20.244732-05:00.hyperlinks.json) |
-| [August 27 at 11:00 AM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-27T11:00:21.166720-05:00.hyperlinks.json) |
-| [August 26 at 11:38 PM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-26T23:38:31.041613-05:00.hyperlinks.json) |
-| [August 26 at 11:07 AM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-26T11:06:47.808866-05:00.hyperlinks.json) |
+| [August 30 at 4:37 AM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-30T11:37:00.259221-05:00.hyperlinks.json) |
+| [August 29 at 4:57 PM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-29T23:57:20.054324-05:00.hyperlinks.json) |
+| [August 29 at 4:17 AM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-29T11:17:29.759032-05:00.hyperlinks.json) |
+| [August 28 at 4:41 PM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-28T23:40:56.443103-05:00.hyperlinks.json) |
+| [August 28 at 4:02 AM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-28T11:02:23.409464-05:00.hyperlinks.json) |
+| [August 27 at 4:38 PM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-27T23:38:20.244732-05:00.hyperlinks.json) |
+| [August 27 at 4:00 AM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-27T11:00:21.166720-05:00.hyperlinks.json) |
+| [August 26 at 4:38 PM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-26T23:38:31.041613-05:00.hyperlinks.json) |
+| [August 26 at 4:07 AM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-26T11:06:47.808866-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 5 accessibility trees with the Internet Archive.
+The archiving routine has saved 9 accessibility trees with the Internet Archive.
 
 
 
@@ -110,17 +150,21 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 11:02 AM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-28T11:02:23.409464-05:00.accessibility.json) |
-| [August 27 at 11:38 PM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-27T23:38:20.244732-05:00.accessibility.json) |
-| [August 27 at 11:00 AM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-27T11:00:21.166720-05:00.accessibility.json) |
-| [August 26 at 11:38 PM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-26T23:38:31.041613-05:00.accessibility.json) |
-| [August 26 at 11:07 AM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-26T11:06:47.808866-05:00.accessibility.json) |
+| [August 30 at 4:37 AM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-30T11:37:00.259221-05:00.accessibility.json) |
+| [August 29 at 4:57 PM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-29T23:57:20.054324-05:00.accessibility.json) |
+| [August 29 at 4:17 AM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-29T11:17:29.759032-05:00.accessibility.json) |
+| [August 28 at 4:41 PM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-28T23:40:56.443103-05:00.accessibility.json) |
+| [August 28 at 4:02 AM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-28T11:02:23.409464-05:00.accessibility.json) |
+| [August 27 at 4:38 PM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-27T23:38:20.244732-05:00.accessibility.json) |
+| [August 27 at 4:00 AM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-27T11:00:21.166720-05:00.accessibility.json) |
+| [August 26 at 4:38 PM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-26T23:38:31.041613-05:00.accessibility.json) |
+| [August 26 at 4:07 AM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-26T11:06:47.808866-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 5 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
 
 
 
@@ -128,11 +172,15 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 11:02 AM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-28T11:02:23.409464-05:00.lighthouse.json) |
-| [August 27 at 11:38 PM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-27T23:38:20.244732-05:00.lighthouse.json) |
-| [August 27 at 11:00 AM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-27T11:00:21.166720-05:00.lighthouse.json) |
-| [August 26 at 11:38 PM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-26T23:38:31.041613-05:00.lighthouse.json) |
-| [August 26 at 11:07 AM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-26T11:06:47.808866-05:00.lighthouse.json) |
+| [August 30 at 4:37 AM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-30T11:37:00.259221-05:00.lighthouse.json) |
+| [August 29 at 4:57 PM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-29T23:57:20.054324-05:00.lighthouse.json) |
+| [August 29 at 4:17 AM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-29T11:17:29.759032-05:00.lighthouse.json) |
+| [August 28 at 4:41 PM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-28T23:40:56.443103-05:00.lighthouse.json) |
+| [August 28 at 4:02 AM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-28T11:02:23.409464-05:00.lighthouse.json) |
+| [August 27 at 4:38 PM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-27T23:38:20.244732-05:00.lighthouse.json) |
+| [August 27 at 4:00 AM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-27T11:00:21.166720-05:00.lighthouse.json) |
+| [August 26 at 4:38 PM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-26T23:38:31.041613-05:00.lighthouse.json) |
+| [August 26 at 4:07 AM](https://archive.org/download/the_ccij-2022/the_ccij-2022-08-26T11:06:47.808866-05:00.lighthouse.json) |
 
 
 

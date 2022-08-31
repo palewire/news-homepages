@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 54 screenshots with the Internet Archive.
+The archiving routine has saved 58 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-28T10:05:02.909614-04:00.jpg">
-  <img src="https://archive.org/download/wnyt-2022/wnyt-2022-08-28T10:05:02.909614-04:00.jpg"
-     alt="WNYT NewsChannel 13 at 2022-08-28 10:05:04-04:00 local time"
+ <a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-30T11:24:05.477745-04:00.jpg">
+  <img src="https://archive.org/download/wnyt-2022/wnyt-2022-08-30T11:24:05.477745-04:00.jpg"
+     alt="WNYT NewsChannel 13 at 2022-08-30 04:24:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-28T10:05:02.909614-04:00.jpg">August 28 at 10:05 AM</a></p>
+ <p><a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-30T11:24:05.477745-04:00.jpg">August 30 at 4:24 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-29T22:32:48.502736-04:00.jpg">
+  <img src="https://archive.org/download/wnyt-2022/wnyt-2022-08-29T22:32:48.502736-04:00.jpg"
+     alt="WNYT NewsChannel 13 at 2022-08-29 15:32:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-29T22:32:48.502736-04:00.jpg">August 29 at 3:32 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-29T10:12:55.335257-04:00.jpg">
+  <img src="https://archive.org/download/wnyt-2022/wnyt-2022-08-29T10:12:55.335257-04:00.jpg"
+     alt="WNYT NewsChannel 13 at 2022-08-29 03:12:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-29T10:12:55.335257-04:00.jpg">August 29 at 3:12 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-28T22:28:31.461672-04:00.jpg">
+  <img src="https://archive.org/download/wnyt-2022/wnyt-2022-08-28T22:28:31.461672-04:00.jpg"
+     alt="WNYT NewsChannel 13 at 2022-08-28 15:28:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-28T22:28:31.461672-04:00.jpg">August 28 at 3:28 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-28T10:05:02.909614-04:00.jpg">
+  <img src="https://archive.org/download/wnyt-2022/wnyt-2022-08-28T10:05:02.909614-04:00.jpg"
+     alt="WNYT NewsChannel 13 at 2022-08-28 03:05:04-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-28T10:05:02.909614-04:00.jpg">August 28 at 3:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-27T22:29:37.722801-04:00.jpg">
   <img src="https://archive.org/download/wnyt-2022/wnyt-2022-08-27T22:29:37.722801-04:00.jpg"
-     alt="WNYT NewsChannel 13 at 2022-08-27 22:29:39-04:00 local time"
+     alt="WNYT NewsChannel 13 at 2022-08-27 15:29:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-27T22:29:37.722801-04:00.jpg">August 27 at 10:29 PM</a></p>
+ <p><a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-27T22:29:37.722801-04:00.jpg">August 27 at 3:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-27T10:01:44.556807-04:00.jpg">
   <img src="https://archive.org/download/wnyt-2022/wnyt-2022-08-27T10:01:44.556807-04:00.jpg"
-     alt="WNYT NewsChannel 13 at 2022-08-27 10:01:46-04:00 local time"
+     alt="WNYT NewsChannel 13 at 2022-08-27 03:01:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-27T10:01:44.556807-04:00.jpg">August 27 at 10:01 AM</a></p>
+ <p><a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-27T10:01:44.556807-04:00.jpg">August 27 at 3:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-26T22:24:06.867890-04:00.jpg">
   <img src="https://archive.org/download/wnyt-2022/wnyt-2022-08-26T22:24:06.867890-04:00.jpg"
-     alt="WNYT NewsChannel 13 at 2022-08-26 22:24:08-04:00 local time"
+     alt="WNYT NewsChannel 13 at 2022-08-26 15:24:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-26T22:24:06.867890-04:00.jpg">August 26 at 10:24 PM</a></p>
+ <p><a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-26T22:24:06.867890-04:00.jpg">August 26 at 3:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-26T10:07:38.680139-04:00.jpg">
   <img src="https://archive.org/download/wnyt-2022/wnyt-2022-08-26T10:07:38.680139-04:00.jpg"
-     alt="WNYT NewsChannel 13 at 2022-08-26 10:07:42-04:00 local time"
+     alt="WNYT NewsChannel 13 at 2022-08-26 03:07:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-26T10:07:38.680139-04:00.jpg">August 26 at 10:07 AM</a></p>
+ <p><a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-26T10:07:38.680139-04:00.jpg">August 26 at 3:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-25T22:26:14.837030-04:00.jpg">
   <img src="https://archive.org/download/wnyt-2022/wnyt-2022-08-25T22:26:14.837030-04:00.jpg"
-     alt="WNYT NewsChannel 13 at 2022-08-25 22:26:16-04:00 local time"
+     alt="WNYT NewsChannel 13 at 2022-08-25 15:26:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-25T22:26:14.837030-04:00.jpg">August 25 at 10:26 PM</a></p>
+ <p><a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-25T22:26:14.837030-04:00.jpg">August 25 at 3:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-25T10:57:17.918467-04:00.jpg">
   <img src="https://archive.org/download/wnyt-2022/wnyt-2022-08-25T10:57:17.918467-04:00.jpg"
-     alt="WNYT NewsChannel 13 at 2022-08-25 10:57:25-04:00 local time"
+     alt="WNYT NewsChannel 13 at 2022-08-25 03:57:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-25T10:57:17.918467-04:00.jpg">August 25 at 10:57 AM</a></p>
+ <p><a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-25T10:57:17.918467-04:00.jpg">August 25 at 3:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-24T10:02:53.269423-04:00.jpg">
   <img src="https://archive.org/download/wnyt-2022/wnyt-2022-08-24T10:02:53.269423-04:00.jpg"
-     alt="WNYT NewsChannel 13 at 2022-08-24 10:03:00-04:00 local time"
+     alt="WNYT NewsChannel 13 at 2022-08-24 03:03:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-24T10:02:53.269423-04:00.jpg">August 24 at 10:03 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-23T22:20:41.774663-04:00.jpg">
-  <img src="https://archive.org/download/wnyt-2022/wnyt-2022-08-23T22:20:41.774663-04:00.jpg"
-     alt="WNYT NewsChannel 13 at 2022-08-23 22:20:43-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-23T22:20:41.774663-04:00.jpg">August 23 at 10:20 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-23T10:03:49.739629-04:00.jpg">
-  <img src="https://archive.org/download/wnyt-2022/wnyt-2022-08-23T10:03:49.739629-04:00.jpg"
-     alt="WNYT NewsChannel 13 at 2022-08-23 10:03:53-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-23T10:03:49.739629-04:00.jpg">August 23 at 10:03 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-22T21:29:16.295573-04:00.jpg">
-  <img src="https://archive.org/download/wnyt-2022/wnyt-2022-08-22T21:29:16.295573-04:00.jpg"
-     alt="WNYT NewsChannel 13 at 2022-08-22 21:29:17-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-22T21:29:16.295573-04:00.jpg">August 22 at 9:29 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-22T09:09:05.020880-04:00.jpg">
-  <img src="https://archive.org/download/wnyt-2022/wnyt-2022-08-22T09:09:05.020880-04:00.jpg"
-     alt="WNYT NewsChannel 13 at 2022-08-22 09:09:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-22T09:09:05.020880-04:00.jpg">August 22 at 9:09 AM</a></p>
+ <p><a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-24T10:02:53.269423-04:00.jpg">August 24 at 3:03 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 51 hyperlink lists with the Internet Archive.
+The archiving routine has saved 55 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 10:05 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-28T10:05:02.909614-04:00.hyperlinks.json) |
-| [August 27 at 10:29 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-27T22:29:37.722801-04:00.hyperlinks.json) |
-| [August 27 at 10:01 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-27T10:01:44.556807-04:00.hyperlinks.json) |
-| [August 26 at 10:24 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-26T22:24:06.867890-04:00.hyperlinks.json) |
-| [August 26 at 10:07 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-26T10:07:38.680139-04:00.hyperlinks.json) |
-| [August 25 at 10:26 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-25T22:26:14.837030-04:00.hyperlinks.json) |
-| [August 25 at 10:57 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-25T10:57:17.918467-04:00.hyperlinks.json) |
-| [August 24 at 10:03 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-24T10:02:53.269423-04:00.hyperlinks.json) |
-| [August 23 at 10:20 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-23T22:20:41.774663-04:00.hyperlinks.json) |
-| [August 23 at 10:03 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-23T10:03:49.739629-04:00.hyperlinks.json) |
+| [August 30 at 4:24 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-30T11:24:05.477745-04:00.hyperlinks.json) |
+| [August 29 at 3:32 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-29T22:32:48.502736-04:00.hyperlinks.json) |
+| [August 29 at 3:13 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-29T10:12:55.335257-04:00.hyperlinks.json) |
+| [August 28 at 3:28 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-28T22:28:31.461672-04:00.hyperlinks.json) |
+| [August 28 at 3:05 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-28T10:05:02.909614-04:00.hyperlinks.json) |
+| [August 27 at 3:29 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-27T22:29:37.722801-04:00.hyperlinks.json) |
+| [August 27 at 3:01 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-27T10:01:44.556807-04:00.hyperlinks.json) |
+| [August 26 at 3:24 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-26T22:24:06.867890-04:00.hyperlinks.json) |
+| [August 26 at 3:07 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-26T10:07:38.680139-04:00.hyperlinks.json) |
+| [August 25 at 3:26 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-25T22:26:14.837030-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 54 accessibility trees with the Internet Archive.
+The archiving routine has saved 58 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 10:05 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-28T10:05:02.909614-04:00.accessibility.json) |
-| [August 27 at 10:29 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-27T22:29:37.722801-04:00.accessibility.json) |
-| [August 27 at 10:01 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-27T10:01:44.556807-04:00.accessibility.json) |
-| [August 26 at 10:24 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-26T22:24:06.867890-04:00.accessibility.json) |
-| [August 26 at 10:07 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-26T10:07:38.680139-04:00.accessibility.json) |
-| [August 25 at 10:26 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-25T22:26:14.837030-04:00.accessibility.json) |
-| [August 25 at 10:57 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-25T10:57:17.918467-04:00.accessibility.json) |
-| [August 24 at 10:03 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-24T10:02:53.269423-04:00.accessibility.json) |
-| [August 23 at 10:20 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-23T22:20:41.774663-04:00.accessibility.json) |
-| [August 23 at 10:03 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-23T10:03:49.739629-04:00.accessibility.json) |
+| [August 30 at 4:24 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-30T11:24:05.477745-04:00.accessibility.json) |
+| [August 29 at 3:32 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-29T22:32:48.502736-04:00.accessibility.json) |
+| [August 29 at 3:12 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-29T10:12:55.335257-04:00.accessibility.json) |
+| [August 28 at 3:28 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-28T22:28:31.461672-04:00.accessibility.json) |
+| [August 28 at 3:05 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-28T10:05:02.909614-04:00.accessibility.json) |
+| [August 27 at 3:29 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-27T22:29:37.722801-04:00.accessibility.json) |
+| [August 27 at 3:01 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-27T10:01:44.556807-04:00.accessibility.json) |
+| [August 26 at 3:24 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-26T22:24:06.867890-04:00.accessibility.json) |
+| [August 26 at 3:07 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-26T10:07:38.680139-04:00.accessibility.json) |
+| [August 25 at 3:26 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-25T22:26:14.837030-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 59 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 10:05 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-28T10:05:02.909614-04:00.lighthouse.json) |
-| [August 27 at 10:29 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-27T22:29:37.722801-04:00.lighthouse.json) |
-| [August 27 at 10:01 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-27T10:01:44.556807-04:00.lighthouse.json) |
-| [August 26 at 10:24 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-26T22:24:06.867890-04:00.lighthouse.json) |
-| [August 26 at 10:07 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-26T10:07:38.680139-04:00.lighthouse.json) |
-| [August 25 at 10:26 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-25T22:26:14.837030-04:00.lighthouse.json) |
-| [August 25 at 10:57 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-25T10:57:17.918467-04:00.lighthouse.json) |
-| [August 24 at 10:03 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-24T10:02:53.269423-04:00.lighthouse.json) |
-| [August 23 at 10:20 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-23T22:20:41.774663-04:00.lighthouse.json) |
-| [August 23 at 10:03 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-23T10:03:49.739629-04:00.lighthouse.json) |
+| [August 30 at 4:24 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-30T11:24:05.477745-04:00.lighthouse.json) |
+| [August 29 at 3:32 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-29T22:32:48.502736-04:00.lighthouse.json) |
+| [August 29 at 3:13 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-29T10:12:55.335257-04:00.lighthouse.json) |
+| [August 28 at 3:28 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-28T22:28:31.461672-04:00.lighthouse.json) |
+| [August 28 at 3:05 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-28T10:05:02.909614-04:00.lighthouse.json) |
+| [August 27 at 3:29 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-27T22:29:37.722801-04:00.lighthouse.json) |
+| [August 27 at 3:01 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-27T10:01:44.556807-04:00.lighthouse.json) |
+| [August 26 at 3:24 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-26T22:24:06.867890-04:00.lighthouse.json) |
+| [August 26 at 3:07 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-26T10:07:38.680139-04:00.lighthouse.json) |
+| [August 25 at 3:26 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-25T22:26:14.837030-04:00.lighthouse.json) |
 
 
 

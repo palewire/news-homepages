@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 179 screenshots with the Internet Archive.
+The archiving routine has saved 185 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/rfi-2022/rfi-2022-08-28T15:00:59.928007+02:00.jpg">
-  <img src="https://archive.org/download/rfi-2022/rfi-2022-08-28T15:00:59.928007+02:00.jpg"
-     alt="RFI at 2022-08-28 15:01:04+02:00 local time"
+ <a href="https://archive.org/download/rfi-2022/rfi-2022-08-30T15:11:22.565298+02:00.jpg">
+  <img src="https://archive.org/download/rfi-2022/rfi-2022-08-30T15:11:22.565298+02:00.jpg"
+     alt="RFI at 2022-08-30 08:11:30+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rfi-2022/rfi-2022-08-28T15:00:59.928007+02:00.jpg">August 28 at 3:01 PM</a></p>
+ <p><a href="https://archive.org/download/rfi-2022/rfi-2022-08-30T15:11:22.565298+02:00.jpg">August 30 at 8:11 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rfi-2022/rfi-2022-08-30T10:16:58.254138+02:00.jpg">
+  <img src="https://archive.org/download/rfi-2022/rfi-2022-08-30T10:16:58.254138+02:00.jpg"
+     alt="RFI at 2022-08-30 03:17:06+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rfi-2022/rfi-2022-08-30T10:16:58.254138+02:00.jpg">August 30 at 3:17 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rfi-2022/rfi-2022-08-30T03:17:19.068445+02:00.jpg">
+  <img src="https://archive.org/download/rfi-2022/rfi-2022-08-30T03:17:19.068445+02:00.jpg"
+     alt="RFI at 2022-08-29 20:17:20+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rfi-2022/rfi-2022-08-30T03:17:19.068445+02:00.jpg">August 29 at 8:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rfi-2022/rfi-2022-08-29T15:01:24.487249+02:00.jpg">
+  <img src="https://archive.org/download/rfi-2022/rfi-2022-08-29T15:01:24.487249+02:00.jpg"
+     alt="RFI at 2022-08-29 08:01:26+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rfi-2022/rfi-2022-08-29T15:01:24.487249+02:00.jpg">August 29 at 8:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rfi-2022/rfi-2022-08-29T10:14:27.711694+02:00.jpg">
+  <img src="https://archive.org/download/rfi-2022/rfi-2022-08-29T10:14:27.711694+02:00.jpg"
+     alt="RFI at 2022-08-29 03:14:40+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rfi-2022/rfi-2022-08-29T10:14:27.711694+02:00.jpg">August 29 at 3:14 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rfi-2022/rfi-2022-08-29T03:16:19.689090+02:00.jpg">
+  <img src="https://archive.org/download/rfi-2022/rfi-2022-08-29T03:16:19.689090+02:00.jpg"
+     alt="RFI at 2022-08-28 20:16:21+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rfi-2022/rfi-2022-08-29T03:16:19.689090+02:00.jpg">August 28 at 8:16 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rfi-2022/rfi-2022-08-28T15:00:59.928007+02:00.jpg">
+  <img src="https://archive.org/download/rfi-2022/rfi-2022-08-28T15:00:59.928007+02:00.jpg"
+     alt="RFI at 2022-08-28 08:01:04+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rfi-2022/rfi-2022-08-28T15:00:59.928007+02:00.jpg">August 28 at 8:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rfi-2022/rfi-2022-08-28T10:15:04.524931+02:00.jpg">
   <img src="https://archive.org/download/rfi-2022/rfi-2022-08-28T10:15:04.524931+02:00.jpg"
-     alt="RFI at 2022-08-28 10:15:05+02:00 local time"
+     alt="RFI at 2022-08-28 03:15:05+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rfi-2022/rfi-2022-08-28T10:15:04.524931+02:00.jpg">August 28 at 10:15 AM</a></p>
+ <p><a href="https://archive.org/download/rfi-2022/rfi-2022-08-28T10:15:04.524931+02:00.jpg">August 28 at 3:15 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rfi-2022/rfi-2022-08-28T03:28:36.044183+02:00.jpg">
   <img src="https://archive.org/download/rfi-2022/rfi-2022-08-28T03:28:36.044183+02:00.jpg"
-     alt="RFI at 2022-08-28 03:28:46+02:00 local time"
+     alt="RFI at 2022-08-27 20:28:46+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rfi-2022/rfi-2022-08-28T03:28:36.044183+02:00.jpg">August 28 at 3:28 AM</a></p>
+ <p><a href="https://archive.org/download/rfi-2022/rfi-2022-08-28T03:28:36.044183+02:00.jpg">August 27 at 8:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rfi-2022/rfi-2022-08-27T14:56:53.325558+02:00.jpg">
   <img src="https://archive.org/download/rfi-2022/rfi-2022-08-27T14:56:53.325558+02:00.jpg"
-     alt="RFI at 2022-08-27 14:56:55+02:00 local time"
+     alt="RFI at 2022-08-27 07:56:55+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rfi-2022/rfi-2022-08-27T14:56:53.325558+02:00.jpg">August 27 at 2:56 PM</a></p>
+ <p><a href="https://archive.org/download/rfi-2022/rfi-2022-08-27T14:56:53.325558+02:00.jpg">August 27 at 7:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rfi-2022/rfi-2022-08-27T10:12:59.700991+02:00.jpg">
   <img src="https://archive.org/download/rfi-2022/rfi-2022-08-27T10:12:59.700991+02:00.jpg"
-     alt="RFI at 2022-08-27 10:13:01+02:00 local time"
+     alt="RFI at 2022-08-27 03:13:01+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rfi-2022/rfi-2022-08-27T10:12:59.700991+02:00.jpg">August 27 at 10:13 AM</a></p>
+ <p><a href="https://archive.org/download/rfi-2022/rfi-2022-08-27T10:12:59.700991+02:00.jpg">August 27 at 3:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rfi-2022/rfi-2022-08-27T03:08:34.774369+02:00.jpg">
   <img src="https://archive.org/download/rfi-2022/rfi-2022-08-27T03:08:34.774369+02:00.jpg"
-     alt="RFI at 2022-08-27 03:08:36+02:00 local time"
+     alt="RFI at 2022-08-26 20:08:36+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rfi-2022/rfi-2022-08-27T03:08:34.774369+02:00.jpg">August 27 at 3:08 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rfi-2022/rfi-2022-08-26T15:01:07.758681+02:00.jpg">
-  <img src="https://archive.org/download/rfi-2022/rfi-2022-08-26T15:01:07.758681+02:00.jpg"
-     alt="RFI at 2022-08-26 15:01:09+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rfi-2022/rfi-2022-08-26T15:01:07.758681+02:00.jpg">August 26 at 3:01 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rfi-2022/rfi-2022-08-26T10:16:19.534399+02:00.jpg">
-  <img src="https://archive.org/download/rfi-2022/rfi-2022-08-26T10:16:19.534399+02:00.jpg"
-     alt="RFI at 2022-08-26 10:16:21+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rfi-2022/rfi-2022-08-26T10:16:19.534399+02:00.jpg">August 26 at 10:16 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rfi-2022/rfi-2022-08-26T03:15:11.749755+02:00.jpg">
-  <img src="https://archive.org/download/rfi-2022/rfi-2022-08-26T03:15:11.749755+02:00.jpg"
-     alt="RFI at 2022-08-26 03:15:13+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rfi-2022/rfi-2022-08-26T03:15:11.749755+02:00.jpg">August 26 at 3:15 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rfi-2022/rfi-2022-08-25T15:05:44.789176+02:00.jpg">
-  <img src="https://archive.org/download/rfi-2022/rfi-2022-08-25T15:05:44.789176+02:00.jpg"
-     alt="RFI at 2022-08-25 15:05:45+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rfi-2022/rfi-2022-08-25T15:05:44.789176+02:00.jpg">August 25 at 3:05 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rfi-2022/rfi-2022-08-24T14:57:28.361286+02:00.jpg">
-  <img src="https://archive.org/download/rfi-2022/rfi-2022-08-24T14:57:28.361286+02:00.jpg"
-     alt="RFI at 2022-08-24 14:57:29+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rfi-2022/rfi-2022-08-24T14:57:28.361286+02:00.jpg">August 24 at 2:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rfi-2022/rfi-2022-08-24T10:13:06.016334+02:00.jpg">
-  <img src="https://archive.org/download/rfi-2022/rfi-2022-08-24T10:13:06.016334+02:00.jpg"
-     alt="RFI at 2022-08-24 10:13:10+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rfi-2022/rfi-2022-08-24T10:13:06.016334+02:00.jpg">August 24 at 10:13 AM</a></p>
+ <p><a href="https://archive.org/download/rfi-2022/rfi-2022-08-27T03:08:34.774369+02:00.jpg">August 26 at 8:08 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 179 hyperlink lists with the Internet Archive.
+The archiving routine has saved 185 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 3:01 PM](https://archive.org/download/rfi-2022/rfi-2022-08-28T15:00:59.928007+02:00.hyperlinks.json) |
-| [August 28 at 10:15 AM](https://archive.org/download/rfi-2022/rfi-2022-08-28T10:15:04.524931+02:00.hyperlinks.json) |
-| [August 28 at 3:28 AM](https://archive.org/download/rfi-2022/rfi-2022-08-28T03:28:36.044183+02:00.hyperlinks.json) |
-| [August 27 at 2:56 PM](https://archive.org/download/rfi-2022/rfi-2022-08-27T14:56:53.325558+02:00.hyperlinks.json) |
-| [August 27 at 10:13 AM](https://archive.org/download/rfi-2022/rfi-2022-08-27T10:12:59.700991+02:00.hyperlinks.json) |
-| [August 27 at 3:08 AM](https://archive.org/download/rfi-2022/rfi-2022-08-27T03:08:34.774369+02:00.hyperlinks.json) |
-| [August 26 at 3:01 PM](https://archive.org/download/rfi-2022/rfi-2022-08-26T15:01:07.758681+02:00.hyperlinks.json) |
-| [August 26 at 10:16 AM](https://archive.org/download/rfi-2022/rfi-2022-08-26T10:16:19.534399+02:00.hyperlinks.json) |
-| [August 26 at 3:15 AM](https://archive.org/download/rfi-2022/rfi-2022-08-26T03:15:11.749755+02:00.hyperlinks.json) |
-| [August 25 at 3:05 PM](https://archive.org/download/rfi-2022/rfi-2022-08-25T15:05:44.789176+02:00.hyperlinks.json) |
+| [August 30 at 8:11 AM](https://archive.org/download/rfi-2022/rfi-2022-08-30T15:11:22.565298+02:00.hyperlinks.json) |
+| [August 30 at 3:17 AM](https://archive.org/download/rfi-2022/rfi-2022-08-30T10:16:58.254138+02:00.hyperlinks.json) |
+| [August 29 at 8:17 PM](https://archive.org/download/rfi-2022/rfi-2022-08-30T03:17:19.068445+02:00.hyperlinks.json) |
+| [August 29 at 8:01 AM](https://archive.org/download/rfi-2022/rfi-2022-08-29T15:01:24.487249+02:00.hyperlinks.json) |
+| [August 29 at 3:14 AM](https://archive.org/download/rfi-2022/rfi-2022-08-29T10:14:27.711694+02:00.hyperlinks.json) |
+| [August 28 at 8:16 PM](https://archive.org/download/rfi-2022/rfi-2022-08-29T03:16:19.689090+02:00.hyperlinks.json) |
+| [August 28 at 8:01 AM](https://archive.org/download/rfi-2022/rfi-2022-08-28T15:00:59.928007+02:00.hyperlinks.json) |
+| [August 28 at 3:15 AM](https://archive.org/download/rfi-2022/rfi-2022-08-28T10:15:04.524931+02:00.hyperlinks.json) |
+| [August 27 at 8:28 PM](https://archive.org/download/rfi-2022/rfi-2022-08-28T03:28:36.044183+02:00.hyperlinks.json) |
+| [August 27 at 7:56 AM](https://archive.org/download/rfi-2022/rfi-2022-08-27T14:56:53.325558+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 179 accessibility trees with the Internet Archive.
+The archiving routine has saved 185 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 3:01 PM](https://archive.org/download/rfi-2022/rfi-2022-08-28T15:00:59.928007+02:00.accessibility.json) |
-| [August 28 at 10:15 AM](https://archive.org/download/rfi-2022/rfi-2022-08-28T10:15:04.524931+02:00.accessibility.json) |
-| [August 28 at 3:28 AM](https://archive.org/download/rfi-2022/rfi-2022-08-28T03:28:36.044183+02:00.accessibility.json) |
-| [August 27 at 2:56 PM](https://archive.org/download/rfi-2022/rfi-2022-08-27T14:56:53.325558+02:00.accessibility.json) |
-| [August 27 at 10:13 AM](https://archive.org/download/rfi-2022/rfi-2022-08-27T10:12:59.700991+02:00.accessibility.json) |
-| [August 27 at 3:08 AM](https://archive.org/download/rfi-2022/rfi-2022-08-27T03:08:34.774369+02:00.accessibility.json) |
-| [August 26 at 3:01 PM](https://archive.org/download/rfi-2022/rfi-2022-08-26T15:01:07.758681+02:00.accessibility.json) |
-| [August 26 at 10:16 AM](https://archive.org/download/rfi-2022/rfi-2022-08-26T10:16:19.534399+02:00.accessibility.json) |
-| [August 26 at 3:15 AM](https://archive.org/download/rfi-2022/rfi-2022-08-26T03:15:11.749755+02:00.accessibility.json) |
-| [August 25 at 3:05 PM](https://archive.org/download/rfi-2022/rfi-2022-08-25T15:05:44.789176+02:00.accessibility.json) |
+| [August 30 at 8:11 AM](https://archive.org/download/rfi-2022/rfi-2022-08-30T15:11:22.565298+02:00.accessibility.json) |
+| [August 30 at 3:17 AM](https://archive.org/download/rfi-2022/rfi-2022-08-30T10:16:58.254138+02:00.accessibility.json) |
+| [August 29 at 8:17 PM](https://archive.org/download/rfi-2022/rfi-2022-08-30T03:17:19.068445+02:00.accessibility.json) |
+| [August 29 at 8:01 AM](https://archive.org/download/rfi-2022/rfi-2022-08-29T15:01:24.487249+02:00.accessibility.json) |
+| [August 29 at 3:14 AM](https://archive.org/download/rfi-2022/rfi-2022-08-29T10:14:27.711694+02:00.accessibility.json) |
+| [August 28 at 8:16 PM](https://archive.org/download/rfi-2022/rfi-2022-08-29T03:16:19.689090+02:00.accessibility.json) |
+| [August 28 at 8:01 AM](https://archive.org/download/rfi-2022/rfi-2022-08-28T15:00:59.928007+02:00.accessibility.json) |
+| [August 28 at 3:15 AM](https://archive.org/download/rfi-2022/rfi-2022-08-28T10:15:04.524931+02:00.accessibility.json) |
+| [August 27 at 8:28 PM](https://archive.org/download/rfi-2022/rfi-2022-08-28T03:28:36.044183+02:00.accessibility.json) |
+| [August 27 at 7:56 AM](https://archive.org/download/rfi-2022/rfi-2022-08-27T14:56:53.325558+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 106 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 112 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 3:01 PM](https://archive.org/download/rfi-2022/rfi-2022-08-28T15:00:59.928007+02:00.lighthouse.json) |
-| [August 28 at 10:15 AM](https://archive.org/download/rfi-2022/rfi-2022-08-28T10:15:04.524931+02:00.lighthouse.json) |
-| [August 28 at 3:28 AM](https://archive.org/download/rfi-2022/rfi-2022-08-28T03:28:36.044183+02:00.lighthouse.json) |
-| [August 27 at 2:57 PM](https://archive.org/download/rfi-2022/rfi-2022-08-27T14:56:53.325558+02:00.lighthouse.json) |
-| [August 27 at 10:13 AM](https://archive.org/download/rfi-2022/rfi-2022-08-27T10:12:59.700991+02:00.lighthouse.json) |
-| [August 27 at 3:08 AM](https://archive.org/download/rfi-2022/rfi-2022-08-27T03:08:34.774369+02:00.lighthouse.json) |
-| [August 26 at 3:01 PM](https://archive.org/download/rfi-2022/rfi-2022-08-26T15:01:07.758681+02:00.lighthouse.json) |
-| [August 26 at 10:16 AM](https://archive.org/download/rfi-2022/rfi-2022-08-26T10:16:19.534399+02:00.lighthouse.json) |
-| [August 26 at 3:15 AM](https://archive.org/download/rfi-2022/rfi-2022-08-26T03:15:11.749755+02:00.lighthouse.json) |
-| [August 25 at 3:05 PM](https://archive.org/download/rfi-2022/rfi-2022-08-25T15:05:44.789176+02:00.lighthouse.json) |
+| [August 30 at 8:11 AM](https://archive.org/download/rfi-2022/rfi-2022-08-30T15:11:22.565298+02:00.lighthouse.json) |
+| [August 30 at 3:17 AM](https://archive.org/download/rfi-2022/rfi-2022-08-30T10:16:58.254138+02:00.lighthouse.json) |
+| [August 29 at 8:17 PM](https://archive.org/download/rfi-2022/rfi-2022-08-30T03:17:19.068445+02:00.lighthouse.json) |
+| [August 29 at 8:01 AM](https://archive.org/download/rfi-2022/rfi-2022-08-29T15:01:24.487249+02:00.lighthouse.json) |
+| [August 29 at 3:14 AM](https://archive.org/download/rfi-2022/rfi-2022-08-29T10:14:27.711694+02:00.lighthouse.json) |
+| [August 28 at 8:16 PM](https://archive.org/download/rfi-2022/rfi-2022-08-29T03:16:19.689090+02:00.lighthouse.json) |
+| [August 28 at 8:01 AM](https://archive.org/download/rfi-2022/rfi-2022-08-28T15:00:59.928007+02:00.lighthouse.json) |
+| [August 28 at 3:15 AM](https://archive.org/download/rfi-2022/rfi-2022-08-28T10:15:04.524931+02:00.lighthouse.json) |
+| [August 27 at 8:28 PM](https://archive.org/download/rfi-2022/rfi-2022-08-28T03:28:36.044183+02:00.lighthouse.json) |
+| [August 27 at 7:57 AM](https://archive.org/download/rfi-2022/rfi-2022-08-27T14:56:53.325558+02:00.lighthouse.json) |
 
 
 

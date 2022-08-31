@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 308 screenshots with the Internet Archive.
+The archiving routine has saved 314 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-28T14:29:41.110617-04:00.jpg">
-  <img src="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-28T14:29:41.110617-04:00.jpg"
-     alt="Washington Examiner at 2022-08-28 14:29:43-04:00 local time"
+ <a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-30T14:32:52.473296-04:00.jpg">
+  <img src="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-30T14:32:52.473296-04:00.jpg"
+     alt="Washington Examiner at 2022-08-30 07:33:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-28T14:29:41.110617-04:00.jpg">August 28 at 2:29 PM</a></p>
+ <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-30T14:32:52.473296-04:00.jpg">August 30 at 7:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-30T11:22:21.376423-04:00.jpg">
+  <img src="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-30T11:22:21.376423-04:00.jpg"
+     alt="Washington Examiner at 2022-08-30 04:22:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-30T11:22:21.376423-04:00.jpg">August 30 at 4:22 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-29T22:30:53.465035-04:00.jpg">
+  <img src="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-29T22:30:53.465035-04:00.jpg"
+     alt="Washington Examiner at 2022-08-29 15:30:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-29T22:30:53.465035-04:00.jpg">August 29 at 3:30 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-29T14:55:00.546592-04:00.jpg">
+  <img src="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-29T14:55:00.546592-04:00.jpg"
+     alt="Washington Examiner at 2022-08-29 07:55:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-29T14:55:00.546592-04:00.jpg">August 29 at 7:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-29T10:09:16.886190-04:00.jpg">
+  <img src="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-29T10:09:16.886190-04:00.jpg"
+     alt="Washington Examiner at 2022-08-29 03:09:22-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-29T10:09:16.886190-04:00.jpg">August 29 at 3:09 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-28T22:26:43.270445-04:00.jpg">
+  <img src="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-28T22:26:43.270445-04:00.jpg"
+     alt="Washington Examiner at 2022-08-28 15:26:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-28T22:26:43.270445-04:00.jpg">August 28 at 3:26 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-28T14:29:41.110617-04:00.jpg">
+  <img src="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-28T14:29:41.110617-04:00.jpg"
+     alt="Washington Examiner at 2022-08-28 07:29:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-28T14:29:41.110617-04:00.jpg">August 28 at 7:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-28T10:02:59.018615-04:00.jpg">
   <img src="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-28T10:02:59.018615-04:00.jpg"
-     alt="Washington Examiner at 2022-08-28 10:03:01-04:00 local time"
+     alt="Washington Examiner at 2022-08-28 03:03:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-28T10:02:59.018615-04:00.jpg">August 28 at 10:03 AM</a></p>
+ <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-28T10:02:59.018615-04:00.jpg">August 28 at 3:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-27T22:28:25.713118-04:00.jpg">
   <img src="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-27T22:28:25.713118-04:00.jpg"
-     alt="Washington Examiner at 2022-08-27 22:28:26-04:00 local time"
+     alt="Washington Examiner at 2022-08-27 15:28:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-27T22:28:25.713118-04:00.jpg">August 27 at 10:28 PM</a></p>
+ <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-27T22:28:25.713118-04:00.jpg">August 27 at 3:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-27T14:30:21.391509-04:00.jpg">
   <img src="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-27T14:30:21.391509-04:00.jpg"
-     alt="Washington Examiner at 2022-08-27 14:30:23-04:00 local time"
+     alt="Washington Examiner at 2022-08-27 07:30:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-27T14:30:21.391509-04:00.jpg">August 27 at 2:30 PM</a></p>
+ <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-27T14:30:21.391509-04:00.jpg">August 27 at 7:30 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-27T09:59:33.454330-04:00.jpg">
   <img src="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-27T09:59:33.454330-04:00.jpg"
-     alt="Washington Examiner at 2022-08-27 09:59:41-04:00 local time"
+     alt="Washington Examiner at 2022-08-27 02:59:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-27T09:59:33.454330-04:00.jpg">August 27 at 9:59 AM</a></p>
+ <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-27T09:59:33.454330-04:00.jpg">August 27 at 2:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-26T22:22:14.908321-04:00.jpg">
   <img src="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-26T22:22:14.908321-04:00.jpg"
-     alt="Washington Examiner at 2022-08-26 22:22:22-04:00 local time"
+     alt="Washington Examiner at 2022-08-26 15:22:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-26T22:22:14.908321-04:00.jpg">August 26 at 10:22 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-26T14:28:58.376891-04:00.jpg">
-  <img src="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-26T14:28:58.376891-04:00.jpg"
-     alt="Washington Examiner at 2022-08-26 14:29:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-26T14:28:58.376891-04:00.jpg">August 26 at 2:29 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-26T10:06:02.778956-04:00.jpg">
-  <img src="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-26T10:06:02.778956-04:00.jpg"
-     alt="Washington Examiner at 2022-08-26 10:06:09-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-26T10:06:02.778956-04:00.jpg">August 26 at 10:06 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-25T22:24:36.983501-04:00.jpg">
-  <img src="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-25T22:24:36.983501-04:00.jpg"
-     alt="Washington Examiner at 2022-08-25 22:24:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-25T22:24:36.983501-04:00.jpg">August 25 at 10:24 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-25T14:28:13.864111-04:00.jpg">
-  <img src="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-25T14:28:13.864111-04:00.jpg"
-     alt="Washington Examiner at 2022-08-25 14:28:38-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-25T14:28:13.864111-04:00.jpg">August 25 at 2:28 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-25T10:55:19.517341-04:00.jpg">
-  <img src="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-25T10:55:19.517341-04:00.jpg"
-     alt="Washington Examiner at 2022-08-25 10:55:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-25T10:55:19.517341-04:00.jpg">August 25 at 10:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-24T14:36:43.870448-04:00.jpg">
-  <img src="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-24T14:36:43.870448-04:00.jpg"
-     alt="Washington Examiner at 2022-08-24 14:36:45-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-24T14:36:43.870448-04:00.jpg">August 24 at 2:36 PM</a></p>
+ <p><a href="https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-26T22:22:14.908321-04:00.jpg">August 26 at 3:22 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 306 hyperlink lists with the Internet Archive.
+The archiving routine has saved 312 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 2:29 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-28T14:29:41.110617-04:00.hyperlinks.json) |
-| [August 28 at 10:03 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-28T10:02:59.018615-04:00.hyperlinks.json) |
-| [August 27 at 10:28 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-27T22:28:25.713118-04:00.hyperlinks.json) |
-| [August 27 at 2:30 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-27T14:30:21.391509-04:00.hyperlinks.json) |
-| [August 27 at 9:59 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-27T09:59:33.454330-04:00.hyperlinks.json) |
-| [August 26 at 10:22 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-26T22:22:14.908321-04:00.hyperlinks.json) |
-| [August 26 at 2:29 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-26T14:28:58.376891-04:00.hyperlinks.json) |
-| [August 26 at 10:06 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-26T10:06:02.778956-04:00.hyperlinks.json) |
-| [August 25 at 10:24 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-25T22:24:36.983501-04:00.hyperlinks.json) |
-| [August 25 at 2:28 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-25T14:28:13.864111-04:00.hyperlinks.json) |
+| [August 30 at 7:33 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-30T14:32:52.473296-04:00.hyperlinks.json) |
+| [August 30 at 4:22 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-30T11:22:21.376423-04:00.hyperlinks.json) |
+| [August 29 at 3:30 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-29T22:30:53.465035-04:00.hyperlinks.json) |
+| [August 29 at 7:55 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-29T14:55:00.546592-04:00.hyperlinks.json) |
+| [August 29 at 3:09 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-29T10:09:16.886190-04:00.hyperlinks.json) |
+| [August 28 at 3:26 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-28T22:26:43.270445-04:00.hyperlinks.json) |
+| [August 28 at 7:29 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-28T14:29:41.110617-04:00.hyperlinks.json) |
+| [August 28 at 3:03 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-28T10:02:59.018615-04:00.hyperlinks.json) |
+| [August 27 at 3:28 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-27T22:28:25.713118-04:00.hyperlinks.json) |
+| [August 27 at 7:30 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-27T14:30:21.391509-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 306 accessibility trees with the Internet Archive.
+The archiving routine has saved 312 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 2:29 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-28T14:29:41.110617-04:00.accessibility.json) |
-| [August 28 at 10:03 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-28T10:02:59.018615-04:00.accessibility.json) |
-| [August 27 at 10:28 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-27T22:28:25.713118-04:00.accessibility.json) |
-| [August 27 at 2:30 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-27T14:30:21.391509-04:00.accessibility.json) |
-| [August 27 at 9:59 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-27T09:59:33.454330-04:00.accessibility.json) |
-| [August 26 at 10:22 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-26T22:22:14.908321-04:00.accessibility.json) |
-| [August 26 at 2:29 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-26T14:28:58.376891-04:00.accessibility.json) |
-| [August 26 at 10:06 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-26T10:06:02.778956-04:00.accessibility.json) |
-| [August 25 at 10:24 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-25T22:24:36.983501-04:00.accessibility.json) |
-| [August 25 at 2:28 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-25T14:28:13.864111-04:00.accessibility.json) |
+| [August 30 at 7:33 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-30T14:32:52.473296-04:00.accessibility.json) |
+| [August 30 at 4:22 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-30T11:22:21.376423-04:00.accessibility.json) |
+| [August 29 at 3:30 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-29T22:30:53.465035-04:00.accessibility.json) |
+| [August 29 at 7:55 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-29T14:55:00.546592-04:00.accessibility.json) |
+| [August 29 at 3:09 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-29T10:09:16.886190-04:00.accessibility.json) |
+| [August 28 at 3:26 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-28T22:26:43.270445-04:00.accessibility.json) |
+| [August 28 at 7:29 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-28T14:29:41.110617-04:00.accessibility.json) |
+| [August 28 at 3:03 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-28T10:02:59.018615-04:00.accessibility.json) |
+| [August 27 at 3:28 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-27T22:28:25.713118-04:00.accessibility.json) |
+| [August 27 at 7:30 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-27T14:30:21.391509-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 106 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 112 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 2:29 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-28T14:29:41.110617-04:00.lighthouse.json) |
-| [August 28 at 10:03 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-28T10:02:59.018615-04:00.lighthouse.json) |
-| [August 27 at 10:28 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-27T22:28:25.713118-04:00.lighthouse.json) |
-| [August 27 at 2:30 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-27T14:30:21.391509-04:00.lighthouse.json) |
-| [August 27 at 9:59 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-27T09:59:33.454330-04:00.lighthouse.json) |
-| [August 26 at 10:22 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-26T22:22:14.908321-04:00.lighthouse.json) |
-| [August 26 at 2:29 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-26T14:28:58.376891-04:00.lighthouse.json) |
-| [August 26 at 10:06 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-26T10:06:02.778956-04:00.lighthouse.json) |
-| [August 25 at 10:24 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-25T22:24:36.983501-04:00.lighthouse.json) |
-| [August 25 at 2:28 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-25T14:28:13.864111-04:00.lighthouse.json) |
+| [August 30 at 7:33 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-30T14:32:52.473296-04:00.lighthouse.json) |
+| [August 30 at 4:22 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-30T11:22:21.376423-04:00.lighthouse.json) |
+| [August 29 at 3:30 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-29T22:30:53.465035-04:00.lighthouse.json) |
+| [August 29 at 7:55 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-29T14:55:00.546592-04:00.lighthouse.json) |
+| [August 29 at 3:09 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-29T10:09:16.886190-04:00.lighthouse.json) |
+| [August 28 at 3:26 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-28T22:26:43.270445-04:00.lighthouse.json) |
+| [August 28 at 7:29 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-28T14:29:41.110617-04:00.lighthouse.json) |
+| [August 28 at 3:03 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-28T10:02:59.018615-04:00.lighthouse.json) |
+| [August 27 at 3:28 PM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-27T22:28:25.713118-04:00.lighthouse.json) |
+| [August 27 at 7:30 AM](https://archive.org/download/dcexaminer-2022/dcexaminer-2022-08-27T14:30:21.391509-04:00.lighthouse.json) |
 
 
 

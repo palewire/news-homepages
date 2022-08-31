@@ -234,8 +234,91 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 33 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/reductress.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
@@ -243,180 +326,429 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/reductress-2022/reductress-2022-08-28T09:00:54.270308-04:00.jpg">
-  <img src="https://archive.org/download/reductress-2022/reductress-2022-08-28T09:00:54.270308-04:00.jpg"
-     alt="Reductress at 2022-08-28 09:00:59-04:00 local time"
+ <a href="https://archive.org/download/reductress-2022/reductress-2022-08-30T09:10:43.968306-04:00.jpg">
+  <img src="https://archive.org/download/reductress-2022/reductress-2022-08-30T09:10:43.968306-04:00.jpg"
+     alt="Reductress at 2022-08-30 02:10:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reductress-2022/reductress-2022-08-28T09:00:54.270308-04:00.jpg">August 28 at 9:00 AM</a></p>
+ <p><a href="https://archive.org/download/reductress-2022/reductress-2022-08-30T09:10:43.968306-04:00.jpg">August 30 at 2:10 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reductress-2022/reductress-2022-08-29T21:16:55.246402-04:00.jpg">
+  <img src="https://archive.org/download/reductress-2022/reductress-2022-08-29T21:16:55.246402-04:00.jpg"
+     alt="Reductress at 2022-08-29 14:16:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reductress-2022/reductress-2022-08-29T21:16:55.246402-04:00.jpg">August 29 at 2:16 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reductress-2022/reductress-2022-08-29T09:01:00.350584-04:00.jpg">
+  <img src="https://archive.org/download/reductress-2022/reductress-2022-08-29T09:01:00.350584-04:00.jpg"
+     alt="Reductress at 2022-08-29 02:01:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reductress-2022/reductress-2022-08-29T09:01:00.350584-04:00.jpg">August 29 at 2:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reductress-2022/reductress-2022-08-28T21:16:05.330455-04:00.jpg">
+  <img src="https://archive.org/download/reductress-2022/reductress-2022-08-28T21:16:05.330455-04:00.jpg"
+     alt="Reductress at 2022-08-28 14:16:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reductress-2022/reductress-2022-08-28T21:16:05.330455-04:00.jpg">August 28 at 2:16 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reductress-2022/reductress-2022-08-28T09:00:54.270308-04:00.jpg">
+  <img src="https://archive.org/download/reductress-2022/reductress-2022-08-28T09:00:54.270308-04:00.jpg"
+     alt="Reductress at 2022-08-28 02:00:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reductress-2022/reductress-2022-08-28T09:00:54.270308-04:00.jpg">August 28 at 2:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reductress-2022/reductress-2022-08-27T21:28:46.116059-04:00.jpg">
   <img src="https://archive.org/download/reductress-2022/reductress-2022-08-27T21:28:46.116059-04:00.jpg"
-     alt="Reductress at 2022-08-27 21:28:48-04:00 local time"
+     alt="Reductress at 2022-08-27 14:28:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reductress-2022/reductress-2022-08-27T21:28:46.116059-04:00.jpg">August 27 at 9:28 PM</a></p>
+ <p><a href="https://archive.org/download/reductress-2022/reductress-2022-08-27T21:28:46.116059-04:00.jpg">August 27 at 2:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reductress-2022/reductress-2022-08-27T08:57:35.627994-04:00.jpg">
   <img src="https://archive.org/download/reductress-2022/reductress-2022-08-27T08:57:35.627994-04:00.jpg"
-     alt="Reductress at 2022-08-27 08:57:36-04:00 local time"
+     alt="Reductress at 2022-08-27 01:57:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reductress-2022/reductress-2022-08-27T08:57:35.627994-04:00.jpg">August 27 at 8:57 AM</a></p>
+ <p><a href="https://archive.org/download/reductress-2022/reductress-2022-08-27T08:57:35.627994-04:00.jpg">August 27 at 1:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reductress-2022/reductress-2022-08-26T21:08:33.832995-04:00.jpg">
   <img src="https://archive.org/download/reductress-2022/reductress-2022-08-26T21:08:33.832995-04:00.jpg"
-     alt="Reductress at 2022-08-26 21:08:35-04:00 local time"
+     alt="Reductress at 2022-08-26 14:08:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reductress-2022/reductress-2022-08-26T21:08:33.832995-04:00.jpg">August 26 at 9:08 PM</a></p>
+ <p><a href="https://archive.org/download/reductress-2022/reductress-2022-08-26T21:08:33.832995-04:00.jpg">August 26 at 2:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reductress-2022/reductress-2022-08-26T09:00:51.427010-04:00.jpg">
   <img src="https://archive.org/download/reductress-2022/reductress-2022-08-26T09:00:51.427010-04:00.jpg"
-     alt="Reductress at 2022-08-26 09:00:53-04:00 local time"
+     alt="Reductress at 2022-08-26 02:00:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reductress-2022/reductress-2022-08-26T09:00:51.427010-04:00.jpg">August 26 at 9:00 AM</a></p>
+ <p><a href="https://archive.org/download/reductress-2022/reductress-2022-08-26T09:00:51.427010-04:00.jpg">August 26 at 2:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reductress-2022/reductress-2022-08-25T21:13:50.983143-04:00.jpg">
   <img src="https://archive.org/download/reductress-2022/reductress-2022-08-25T21:13:50.983143-04:00.jpg"
-     alt="Reductress at 2022-08-25 21:13:53-04:00 local time"
+     alt="Reductress at 2022-08-25 14:13:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reductress-2022/reductress-2022-08-25T21:13:50.983143-04:00.jpg">August 25 at 9:13 PM</a></p>
+ <p><a href="https://archive.org/download/reductress-2022/reductress-2022-08-25T21:13:50.983143-04:00.jpg">August 25 at 2:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reductress-2022/reductress-2022-08-25T09:03:51.665089-04:00.jpg">
   <img src="https://archive.org/download/reductress-2022/reductress-2022-08-25T09:03:51.665089-04:00.jpg"
-     alt="Reductress at 2022-08-25 09:03:53-04:00 local time"
+     alt="Reductress at 2022-08-25 02:03:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reductress-2022/reductress-2022-08-25T09:03:51.665089-04:00.jpg">August 25 at 9:03 AM</a></p>
+ <p><a href="https://archive.org/download/reductress-2022/reductress-2022-08-25T09:03:51.665089-04:00.jpg">August 25 at 2:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reductress-2022/reductress-2022-08-24T08:55:01.884998-04:00.jpg">
   <img src="https://archive.org/download/reductress-2022/reductress-2022-08-24T08:55:01.884998-04:00.jpg"
-     alt="Reductress at 2022-08-24 08:55:04-04:00 local time"
+     alt="Reductress at 2022-08-24 01:55:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reductress-2022/reductress-2022-08-24T08:55:01.884998-04:00.jpg">August 24 at 8:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/reductress-2022/reductress-2022-08-23T21:07:24.469051-04:00.jpg">
-  <img src="https://archive.org/download/reductress-2022/reductress-2022-08-23T21:07:24.469051-04:00.jpg"
-     alt="Reductress at 2022-08-23 21:07:26-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reductress-2022/reductress-2022-08-23T21:07:24.469051-04:00.jpg">August 23 at 9:07 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/reductress-2022/reductress-2022-08-23T08:56:13.069585-04:00.jpg">
-  <img src="https://archive.org/download/reductress-2022/reductress-2022-08-23T08:56:13.069585-04:00.jpg"
-     alt="Reductress at 2022-08-23 08:56:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reductress-2022/reductress-2022-08-23T08:56:13.069585-04:00.jpg">August 23 at 8:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/reductress-2022/reductress-2022-08-23T08:03:42.782862-04:00.jpg">
-  <img src="https://archive.org/download/reductress-2022/reductress-2022-08-23T08:03:42.782862-04:00.jpg"
-     alt="Reductress at 2022-08-23 08:03:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reductress-2022/reductress-2022-08-23T08:03:42.782862-04:00.jpg">August 23 at 8:03 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/reductress-2022/reductress-2022-08-22T20:04:32.212793-04:00.jpg">
-  <img src="https://archive.org/download/reductress-2022/reductress-2022-08-22T20:04:32.212793-04:00.jpg"
-     alt="Reductress at 2022-08-22 20:04:34-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reductress-2022/reductress-2022-08-22T20:04:32.212793-04:00.jpg">August 22 at 8:04 PM</a></p>
+ <p><a href="https://archive.org/download/reductress-2022/reductress-2022-08-24T08:55:01.884998-04:00.jpg">August 24 at 1:55 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 29 hyperlink lists with the Internet Archive.
+The archiving routine has saved 33 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/reductress.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 9:01 AM](https://archive.org/download/reductress-2022/reductress-2022-08-28T09:00:54.270308-04:00.hyperlinks.json) |
-| [August 27 at 9:28 PM](https://archive.org/download/reductress-2022/reductress-2022-08-27T21:28:46.116059-04:00.hyperlinks.json) |
-| [August 27 at 8:57 AM](https://archive.org/download/reductress-2022/reductress-2022-08-27T08:57:35.627994-04:00.hyperlinks.json) |
-| [August 26 at 9:08 PM](https://archive.org/download/reductress-2022/reductress-2022-08-26T21:08:33.832995-04:00.hyperlinks.json) |
-| [August 26 at 9:00 AM](https://archive.org/download/reductress-2022/reductress-2022-08-26T09:00:51.427010-04:00.hyperlinks.json) |
-| [August 25 at 9:13 PM](https://archive.org/download/reductress-2022/reductress-2022-08-25T21:13:50.983143-04:00.hyperlinks.json) |
-| [August 25 at 9:03 AM](https://archive.org/download/reductress-2022/reductress-2022-08-25T09:03:51.665089-04:00.hyperlinks.json) |
-| [August 24 at 8:55 AM](https://archive.org/download/reductress-2022/reductress-2022-08-24T08:55:01.884998-04:00.hyperlinks.json) |
-| [August 23 at 9:07 PM](https://archive.org/download/reductress-2022/reductress-2022-08-23T21:07:24.469051-04:00.hyperlinks.json) |
-| [August 23 at 8:56 AM](https://archive.org/download/reductress-2022/reductress-2022-08-23T08:56:13.069585-04:00.hyperlinks.json) |
+| [August 30 at 2:10 AM](https://archive.org/download/reductress-2022/reductress-2022-08-30T09:10:43.968306-04:00.hyperlinks.json) |
+| [August 29 at 2:17 PM](https://archive.org/download/reductress-2022/reductress-2022-08-29T21:16:55.246402-04:00.hyperlinks.json) |
+| [August 29 at 2:01 AM](https://archive.org/download/reductress-2022/reductress-2022-08-29T09:01:00.350584-04:00.hyperlinks.json) |
+| [August 28 at 2:16 PM](https://archive.org/download/reductress-2022/reductress-2022-08-28T21:16:05.330455-04:00.hyperlinks.json) |
+| [August 28 at 2:01 AM](https://archive.org/download/reductress-2022/reductress-2022-08-28T09:00:54.270308-04:00.hyperlinks.json) |
+| [August 27 at 2:28 PM](https://archive.org/download/reductress-2022/reductress-2022-08-27T21:28:46.116059-04:00.hyperlinks.json) |
+| [August 27 at 1:57 AM](https://archive.org/download/reductress-2022/reductress-2022-08-27T08:57:35.627994-04:00.hyperlinks.json) |
+| [August 26 at 2:08 PM](https://archive.org/download/reductress-2022/reductress-2022-08-26T21:08:33.832995-04:00.hyperlinks.json) |
+| [August 26 at 2:00 AM](https://archive.org/download/reductress-2022/reductress-2022-08-26T09:00:51.427010-04:00.hyperlinks.json) |
+| [August 25 at 2:13 PM](https://archive.org/download/reductress-2022/reductress-2022-08-25T21:13:50.983143-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 29 accessibility trees with the Internet Archive.
+The archiving routine has saved 33 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/reductress.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 9:01 AM](https://archive.org/download/reductress-2022/reductress-2022-08-28T09:00:54.270308-04:00.accessibility.json) |
-| [August 27 at 9:28 PM](https://archive.org/download/reductress-2022/reductress-2022-08-27T21:28:46.116059-04:00.accessibility.json) |
-| [August 27 at 8:57 AM](https://archive.org/download/reductress-2022/reductress-2022-08-27T08:57:35.627994-04:00.accessibility.json) |
-| [August 26 at 9:08 PM](https://archive.org/download/reductress-2022/reductress-2022-08-26T21:08:33.832995-04:00.accessibility.json) |
-| [August 26 at 9:00 AM](https://archive.org/download/reductress-2022/reductress-2022-08-26T09:00:51.427010-04:00.accessibility.json) |
-| [August 25 at 9:13 PM](https://archive.org/download/reductress-2022/reductress-2022-08-25T21:13:50.983143-04:00.accessibility.json) |
-| [August 25 at 9:03 AM](https://archive.org/download/reductress-2022/reductress-2022-08-25T09:03:51.665089-04:00.accessibility.json) |
-| [August 24 at 8:55 AM](https://archive.org/download/reductress-2022/reductress-2022-08-24T08:55:01.884998-04:00.accessibility.json) |
-| [August 23 at 9:07 PM](https://archive.org/download/reductress-2022/reductress-2022-08-23T21:07:24.469051-04:00.accessibility.json) |
-| [August 23 at 8:56 AM](https://archive.org/download/reductress-2022/reductress-2022-08-23T08:56:13.069585-04:00.accessibility.json) |
+| [August 30 at 2:10 AM](https://archive.org/download/reductress-2022/reductress-2022-08-30T09:10:43.968306-04:00.accessibility.json) |
+| [August 29 at 2:16 PM](https://archive.org/download/reductress-2022/reductress-2022-08-29T21:16:55.246402-04:00.accessibility.json) |
+| [August 29 at 2:01 AM](https://archive.org/download/reductress-2022/reductress-2022-08-29T09:01:00.350584-04:00.accessibility.json) |
+| [August 28 at 2:16 PM](https://archive.org/download/reductress-2022/reductress-2022-08-28T21:16:05.330455-04:00.accessibility.json) |
+| [August 28 at 2:01 AM](https://archive.org/download/reductress-2022/reductress-2022-08-28T09:00:54.270308-04:00.accessibility.json) |
+| [August 27 at 2:28 PM](https://archive.org/download/reductress-2022/reductress-2022-08-27T21:28:46.116059-04:00.accessibility.json) |
+| [August 27 at 1:57 AM](https://archive.org/download/reductress-2022/reductress-2022-08-27T08:57:35.627994-04:00.accessibility.json) |
+| [August 26 at 2:08 PM](https://archive.org/download/reductress-2022/reductress-2022-08-26T21:08:33.832995-04:00.accessibility.json) |
+| [August 26 at 2:00 AM](https://archive.org/download/reductress-2022/reductress-2022-08-26T09:00:51.427010-04:00.accessibility.json) |
+| [August 25 at 2:13 PM](https://archive.org/download/reductress-2022/reductress-2022-08-25T21:13:50.983143-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/reductress.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 9:01 AM](https://archive.org/download/reductress-2022/reductress-2022-08-28T09:00:54.270308-04:00.lighthouse.json) |
-| [August 27 at 9:28 PM](https://archive.org/download/reductress-2022/reductress-2022-08-27T21:28:46.116059-04:00.lighthouse.json) |
-| [August 27 at 8:57 AM](https://archive.org/download/reductress-2022/reductress-2022-08-27T08:57:35.627994-04:00.lighthouse.json) |
-| [August 26 at 9:08 PM](https://archive.org/download/reductress-2022/reductress-2022-08-26T21:08:33.832995-04:00.lighthouse.json) |
-| [August 26 at 9:00 AM](https://archive.org/download/reductress-2022/reductress-2022-08-26T09:00:51.427010-04:00.lighthouse.json) |
-| [August 25 at 9:13 PM](https://archive.org/download/reductress-2022/reductress-2022-08-25T21:13:50.983143-04:00.lighthouse.json) |
-| [August 25 at 9:03 AM](https://archive.org/download/reductress-2022/reductress-2022-08-25T09:03:51.665089-04:00.lighthouse.json) |
-| [August 24 at 8:55 AM](https://archive.org/download/reductress-2022/reductress-2022-08-24T08:55:01.884998-04:00.lighthouse.json) |
-| [August 23 at 9:07 PM](https://archive.org/download/reductress-2022/reductress-2022-08-23T21:07:24.469051-04:00.lighthouse.json) |
-| [August 23 at 8:56 AM](https://archive.org/download/reductress-2022/reductress-2022-08-23T08:56:13.069585-04:00.lighthouse.json) |
+| [August 30 at 2:10 AM](https://archive.org/download/reductress-2022/reductress-2022-08-30T09:10:43.968306-04:00.lighthouse.json) |
+| [August 29 at 2:17 PM](https://archive.org/download/reductress-2022/reductress-2022-08-29T21:16:55.246402-04:00.lighthouse.json) |
+| [August 29 at 2:01 AM](https://archive.org/download/reductress-2022/reductress-2022-08-29T09:01:00.350584-04:00.lighthouse.json) |
+| [August 28 at 2:16 PM](https://archive.org/download/reductress-2022/reductress-2022-08-28T21:16:05.330455-04:00.lighthouse.json) |
+| [August 28 at 2:01 AM](https://archive.org/download/reductress-2022/reductress-2022-08-28T09:00:54.270308-04:00.lighthouse.json) |
+| [August 27 at 2:28 PM](https://archive.org/download/reductress-2022/reductress-2022-08-27T21:28:46.116059-04:00.lighthouse.json) |
+| [August 27 at 1:57 AM](https://archive.org/download/reductress-2022/reductress-2022-08-27T08:57:35.627994-04:00.lighthouse.json) |
+| [August 26 at 2:08 PM](https://archive.org/download/reductress-2022/reductress-2022-08-26T21:08:33.832995-04:00.lighthouse.json) |
+| [August 26 at 2:00 AM](https://archive.org/download/reductress-2022/reductress-2022-08-26T09:00:51.427010-04:00.lighthouse.json) |
+| [August 25 at 2:13 PM](https://archive.org/download/reductress-2022/reductress-2022-08-25T21:13:50.983143-04:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 111 screenshots with the Internet Archive.
+The archiving routine has saved 115 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-28T06:01:22.677412-07:00.jpg">
-  <img src="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-28T06:01:22.677412-07:00.jpg"
-     alt="Spokesman-Review at 2022-08-28 06:01:30-07:00 local time"
+ <a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-30T06:10:58.662268-07:00.jpg">
+  <img src="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-30T06:10:58.662268-07:00.jpg"
+     alt="Spokesman-Review at 2022-08-29 23:11:02-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-28T06:01:22.677412-07:00.jpg">August 28 at 6:01 AM</a></p>
+ <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-30T06:10:58.662268-07:00.jpg">August 29 at 11:11 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-29T18:17:27.457755-07:00.jpg">
+  <img src="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-29T18:17:27.457755-07:00.jpg"
+     alt="Spokesman-Review at 2022-08-29 11:17:29-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-29T18:17:27.457755-07:00.jpg">August 29 at 11:17 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-29T06:00:57.988488-07:00.jpg">
+  <img src="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-29T06:00:57.988488-07:00.jpg"
+     alt="Spokesman-Review at 2022-08-28 23:01:15-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-29T06:00:57.988488-07:00.jpg">August 28 at 11:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-28T18:16:25.973914-07:00.jpg">
+  <img src="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-28T18:16:25.973914-07:00.jpg"
+     alt="Spokesman-Review at 2022-08-28 11:16:27-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-28T18:16:25.973914-07:00.jpg">August 28 at 11:16 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-28T06:01:22.677412-07:00.jpg">
+  <img src="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-28T06:01:22.677412-07:00.jpg"
+     alt="Spokesman-Review at 2022-08-27 23:01:30-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-28T06:01:22.677412-07:00.jpg">August 27 at 11:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-27T18:28:24.182330-07:00.jpg">
   <img src="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-27T18:28:24.182330-07:00.jpg"
-     alt="Spokesman-Review at 2022-08-27 18:28:26-07:00 local time"
+     alt="Spokesman-Review at 2022-08-27 11:28:26-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-27T18:28:24.182330-07:00.jpg">August 27 at 6:28 PM</a></p>
+ <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-27T18:28:24.182330-07:00.jpg">August 27 at 11:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-27T05:57:06.340202-07:00.jpg">
   <img src="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-27T05:57:06.340202-07:00.jpg"
-     alt="Spokesman-Review at 2022-08-27 05:57:08-07:00 local time"
+     alt="Spokesman-Review at 2022-08-26 22:57:08-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-27T05:57:06.340202-07:00.jpg">August 27 at 5:57 AM</a></p>
+ <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-27T05:57:06.340202-07:00.jpg">August 26 at 10:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-26T18:08:12.235811-07:00.jpg">
   <img src="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-26T18:08:12.235811-07:00.jpg"
-     alt="Spokesman-Review at 2022-08-26 18:08:14-07:00 local time"
+     alt="Spokesman-Review at 2022-08-26 11:08:14-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-26T18:08:12.235811-07:00.jpg">August 26 at 6:08 PM</a></p>
+ <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-26T18:08:12.235811-07:00.jpg">August 26 at 11:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-26T06:00:57.155609-07:00.jpg">
   <img src="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-26T06:00:57.155609-07:00.jpg"
-     alt="Spokesman-Review at 2022-08-26 06:01:05-07:00 local time"
+     alt="Spokesman-Review at 2022-08-25 23:01:05-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-26T06:00:57.155609-07:00.jpg">August 26 at 6:01 AM</a></p>
+ <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-26T06:00:57.155609-07:00.jpg">August 25 at 11:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-25T18:15:28.857710-07:00.jpg">
   <img src="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-25T18:15:28.857710-07:00.jpg"
-     alt="Spokesman-Review at 2022-08-25 18:15:30-07:00 local time"
+     alt="Spokesman-Review at 2022-08-25 11:15:30-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-25T18:15:28.857710-07:00.jpg">August 25 at 6:15 PM</a></p>
+ <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-25T18:15:28.857710-07:00.jpg">August 25 at 11:15 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-25T06:04:52.243869-07:00.jpg">
   <img src="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-25T06:04:52.243869-07:00.jpg"
-     alt="Spokesman-Review at 2022-08-25 06:04:55-07:00 local time"
+     alt="Spokesman-Review at 2022-08-24 23:04:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-25T06:04:52.243869-07:00.jpg">August 25 at 6:04 AM</a></p>
+ <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-25T06:04:52.243869-07:00.jpg">August 24 at 11:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-24T05:57:05.914122-07:00.jpg">
   <img src="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-24T05:57:05.914122-07:00.jpg"
-     alt="Spokesman-Review at 2022-08-24 05:57:07-07:00 local time"
+     alt="Spokesman-Review at 2022-08-23 22:57:07-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-24T05:57:05.914122-07:00.jpg">August 24 at 5:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-23T18:09:03.482812-07:00.jpg">
-  <img src="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-23T18:09:03.482812-07:00.jpg"
-     alt="Spokesman-Review at 2022-08-23 18:09:05-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-23T18:09:03.482812-07:00.jpg">August 23 at 6:09 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-23T05:56:33.334036-07:00.jpg">
-  <img src="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-23T05:56:33.334036-07:00.jpg"
-     alt="Spokesman-Review at 2022-08-23 05:56:35-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-23T05:56:33.334036-07:00.jpg">August 23 at 5:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-22T18:21:54.443678-07:00.jpg">
-  <img src="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-22T18:21:54.443678-07:00.jpg"
-     alt="Spokesman-Review at 2022-08-22 18:21:56-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-22T18:21:54.443678-07:00.jpg">August 22 at 6:21 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-22T06:03:42.930263-07:00.jpg">
-  <img src="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-22T06:03:42.930263-07:00.jpg"
-     alt="Spokesman-Review at 2022-08-22 06:03:45-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-22T06:03:42.930263-07:00.jpg">August 22 at 6:03 AM</a></p>
+ <p><a href="https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-24T05:57:05.914122-07:00.jpg">August 23 at 10:57 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 112 hyperlink lists with the Internet Archive.
+The archiving routine has saved 116 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 6:01 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-28T06:01:22.677412-07:00.hyperlinks.json) |
-| [August 27 at 6:28 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-27T18:28:24.182330-07:00.hyperlinks.json) |
-| [August 27 at 5:57 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-27T05:57:06.340202-07:00.hyperlinks.json) |
-| [August 26 at 6:08 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-26T18:08:12.235811-07:00.hyperlinks.json) |
-| [August 26 at 6:01 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-26T06:00:57.155609-07:00.hyperlinks.json) |
-| [August 25 at 6:15 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-25T18:15:28.857710-07:00.hyperlinks.json) |
-| [August 25 at 6:04 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-25T06:04:52.243869-07:00.hyperlinks.json) |
-| [August 24 at 5:57 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-24T05:57:05.914122-07:00.hyperlinks.json) |
-| [August 23 at 6:09 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-23T18:09:03.482812-07:00.hyperlinks.json) |
-| [August 23 at 5:56 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-23T05:56:33.334036-07:00.hyperlinks.json) |
+| [August 29 at 11:11 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-30T06:10:58.662268-07:00.hyperlinks.json) |
+| [August 29 at 11:17 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-29T18:17:27.457755-07:00.hyperlinks.json) |
+| [August 28 at 11:01 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-29T06:00:57.988488-07:00.hyperlinks.json) |
+| [August 28 at 11:16 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-28T18:16:25.973914-07:00.hyperlinks.json) |
+| [August 27 at 11:01 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-28T06:01:22.677412-07:00.hyperlinks.json) |
+| [August 27 at 11:28 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-27T18:28:24.182330-07:00.hyperlinks.json) |
+| [August 26 at 10:57 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-27T05:57:06.340202-07:00.hyperlinks.json) |
+| [August 26 at 11:08 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-26T18:08:12.235811-07:00.hyperlinks.json) |
+| [August 25 at 11:01 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-26T06:00:57.155609-07:00.hyperlinks.json) |
+| [August 25 at 11:15 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-25T18:15:28.857710-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 112 accessibility trees with the Internet Archive.
+The archiving routine has saved 116 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 6:01 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-28T06:01:22.677412-07:00.accessibility.json) |
-| [August 27 at 6:28 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-27T18:28:24.182330-07:00.accessibility.json) |
-| [August 27 at 5:57 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-27T05:57:06.340202-07:00.accessibility.json) |
-| [August 26 at 6:08 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-26T18:08:12.235811-07:00.accessibility.json) |
-| [August 26 at 6:01 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-26T06:00:57.155609-07:00.accessibility.json) |
-| [August 25 at 6:15 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-25T18:15:28.857710-07:00.accessibility.json) |
-| [August 25 at 6:04 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-25T06:04:52.243869-07:00.accessibility.json) |
-| [August 24 at 5:57 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-24T05:57:05.914122-07:00.accessibility.json) |
-| [August 23 at 6:09 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-23T18:09:03.482812-07:00.accessibility.json) |
-| [August 23 at 5:56 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-23T05:56:33.334036-07:00.accessibility.json) |
+| [August 29 at 11:11 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-30T06:10:58.662268-07:00.accessibility.json) |
+| [August 29 at 11:17 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-29T18:17:27.457755-07:00.accessibility.json) |
+| [August 28 at 11:01 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-29T06:00:57.988488-07:00.accessibility.json) |
+| [August 28 at 11:16 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-28T18:16:25.973914-07:00.accessibility.json) |
+| [August 27 at 11:01 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-28T06:01:22.677412-07:00.accessibility.json) |
+| [August 27 at 11:28 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-27T18:28:24.182330-07:00.accessibility.json) |
+| [August 26 at 10:57 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-27T05:57:06.340202-07:00.accessibility.json) |
+| [August 26 at 11:08 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-26T18:08:12.235811-07:00.accessibility.json) |
+| [August 25 at 11:01 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-26T06:00:57.155609-07:00.accessibility.json) |
+| [August 25 at 11:15 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-25T18:15:28.857710-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 73 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 77 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 6:01 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-28T06:01:22.677412-07:00.lighthouse.json) |
-| [August 27 at 6:28 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-27T18:28:24.182330-07:00.lighthouse.json) |
-| [August 27 at 5:57 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-27T05:57:06.340202-07:00.lighthouse.json) |
-| [August 26 at 6:08 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-26T18:08:12.235811-07:00.lighthouse.json) |
-| [August 26 at 6:01 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-26T06:00:57.155609-07:00.lighthouse.json) |
-| [August 25 at 6:15 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-25T18:15:28.857710-07:00.lighthouse.json) |
-| [August 25 at 6:05 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-25T06:04:52.243869-07:00.lighthouse.json) |
-| [August 24 at 5:57 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-24T05:57:05.914122-07:00.lighthouse.json) |
-| [August 23 at 6:09 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-23T18:09:03.482812-07:00.lighthouse.json) |
-| [August 23 at 5:56 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-23T05:56:33.334036-07:00.lighthouse.json) |
+| [August 29 at 11:11 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-30T06:10:58.662268-07:00.lighthouse.json) |
+| [August 29 at 11:17 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-29T18:17:27.457755-07:00.lighthouse.json) |
+| [August 28 at 11:01 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-29T06:00:57.988488-07:00.lighthouse.json) |
+| [August 28 at 11:16 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-28T18:16:25.973914-07:00.lighthouse.json) |
+| [August 27 at 11:01 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-28T06:01:22.677412-07:00.lighthouse.json) |
+| [August 27 at 11:28 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-27T18:28:24.182330-07:00.lighthouse.json) |
+| [August 26 at 10:57 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-27T05:57:06.340202-07:00.lighthouse.json) |
+| [August 26 at 11:08 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-26T18:08:12.235811-07:00.lighthouse.json) |
+| [August 25 at 11:01 PM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-26T06:00:57.155609-07:00.lighthouse.json) |
+| [August 25 at 11:15 AM](https://archive.org/download/spokesmanreview-2022/spokesmanreview-2022-08-25T18:15:28.857710-07:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 70 screenshots with the Internet Archive.
+The archiving routine has saved 74 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-28T20:41:30.814249+05:45.jpg">
-  <img src="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-28T20:41:30.814249+05:45.jpg"
-     alt="Karobar Daily at 2022-08-28 20:41:33+05:45 local time"
+ <a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-30T21:19:57.192542+05:45.jpg">
+  <img src="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-30T21:19:57.192542+05:45.jpg"
+     alt="Karobar Daily at 2022-08-30 14:20:01+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-28T20:41:30.814249+05:45.jpg">August 28 at 8:41 PM</a></p>
+ <p><a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-30T21:19:57.192542+05:45.jpg">August 30 at 2:20 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-30T09:39:12.605091+05:45.jpg">
+  <img src="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-30T09:39:12.605091+05:45.jpg"
+     alt="Karobar Daily at 2022-08-30 02:39:16+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-30T09:39:12.605091+05:45.jpg">August 30 at 2:39 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-29T20:53:45.542297+05:45.jpg">
+  <img src="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-29T20:53:45.542297+05:45.jpg"
+     alt="Karobar Daily at 2022-08-29 13:53:48+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-29T20:53:45.542297+05:45.jpg">August 29 at 1:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-29T09:29:27.703520+05:45.jpg">
+  <img src="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-29T09:29:27.703520+05:45.jpg"
+     alt="Karobar Daily at 2022-08-29 02:29:29+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-29T09:29:27.703520+05:45.jpg">August 29 at 2:29 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-28T20:41:30.814249+05:45.jpg">
+  <img src="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-28T20:41:30.814249+05:45.jpg"
+     alt="Karobar Daily at 2022-08-28 13:41:33+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-28T20:41:30.814249+05:45.jpg">August 28 at 1:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-28T09:26:30.103331+05:45.jpg">
   <img src="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-28T09:26:30.103331+05:45.jpg"
-     alt="Karobar Daily at 2022-08-28 09:26:31+05:45 local time"
+     alt="Karobar Daily at 2022-08-28 02:26:31+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-28T09:26:30.103331+05:45.jpg">August 28 at 9:26 AM</a></p>
+ <p><a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-28T09:26:30.103331+05:45.jpg">August 28 at 2:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-27T20:36:05.080673+05:45.jpg">
   <img src="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-27T20:36:05.080673+05:45.jpg"
-     alt="Karobar Daily at 2022-08-27 20:36:09+05:45 local time"
+     alt="Karobar Daily at 2022-08-27 13:36:09+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-27T20:36:05.080673+05:45.jpg">August 27 at 8:36 PM</a></p>
+ <p><a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-27T20:36:05.080673+05:45.jpg">August 27 at 1:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-27T09:22:39.612618+05:45.jpg">
   <img src="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-27T09:22:39.612618+05:45.jpg"
-     alt="Karobar Daily at 2022-08-27 09:22:41+05:45 local time"
+     alt="Karobar Daily at 2022-08-27 02:22:41+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-27T09:22:39.612618+05:45.jpg">August 27 at 9:22 AM</a></p>
+ <p><a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-27T09:22:39.612618+05:45.jpg">August 27 at 2:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-26T20:44:12.109245+05:45.jpg">
   <img src="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-26T20:44:12.109245+05:45.jpg"
-     alt="Karobar Daily at 2022-08-26 20:44:14+05:45 local time"
+     alt="Karobar Daily at 2022-08-26 13:44:14+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-26T20:44:12.109245+05:45.jpg">August 26 at 8:44 PM</a></p>
+ <p><a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-26T20:44:12.109245+05:45.jpg">August 26 at 1:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-26T09:29:27.457468+05:45.jpg">
   <img src="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-26T09:29:27.457468+05:45.jpg"
-     alt="Karobar Daily at 2022-08-26 09:29:29+05:45 local time"
+     alt="Karobar Daily at 2022-08-26 02:29:29+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-26T09:29:27.457468+05:45.jpg">August 26 at 9:29 AM</a></p>
+ <p><a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-26T09:29:27.457468+05:45.jpg">August 26 at 2:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-25T20:47:02.857171+05:45.jpg">
   <img src="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-25T20:47:02.857171+05:45.jpg"
-     alt="Karobar Daily at 2022-08-25 20:47:12+05:45 local time"
+     alt="Karobar Daily at 2022-08-25 13:47:12+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-25T20:47:02.857171+05:45.jpg">August 25 at 8:47 PM</a></p>
+ <p><a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-25T20:47:02.857171+05:45.jpg">August 25 at 1:47 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-24T20:45:56.850508+05:45.jpg">
   <img src="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-24T20:45:56.850508+05:45.jpg"
-     alt="Karobar Daily at 2022-08-24 20:45:58+05:45 local time"
+     alt="Karobar Daily at 2022-08-24 13:45:58+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-24T20:45:56.850508+05:45.jpg">August 24 at 8:45 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-24T09:24:29.790718+05:45.jpg">
-  <img src="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-24T09:24:29.790718+05:45.jpg"
-     alt="Karobar Daily at 2022-08-24 09:24:32+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-24T09:24:29.790718+05:45.jpg">August 24 at 9:24 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-23T20:39:09.058788+05:45.jpg">
-  <img src="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-23T20:39:09.058788+05:45.jpg"
-     alt="Karobar Daily at 2022-08-23 20:39:15+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-23T20:39:09.058788+05:45.jpg">August 23 at 8:39 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-23T08:13:34.922892+05:45.jpg">
-  <img src="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-23T08:13:34.922892+05:45.jpg"
-     alt="Karobar Daily at 2022-08-23 08:13:36+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-23T08:13:34.922892+05:45.jpg">August 23 at 8:13 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-22T19:54:17.826759+05:45.jpg">
-  <img src="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-22T19:54:17.826759+05:45.jpg"
-     alt="Karobar Daily at 2022-08-22 19:54:27+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-22T19:54:17.826759+05:45.jpg">August 22 at 7:54 PM</a></p>
+ <p><a href="https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-24T20:45:56.850508+05:45.jpg">August 24 at 1:45 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 70 hyperlink lists with the Internet Archive.
+The archiving routine has saved 74 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 8:41 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-28T20:41:30.814249+05:45.hyperlinks.json) |
-| [August 28 at 9:26 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-28T09:26:30.103331+05:45.hyperlinks.json) |
-| [August 27 at 8:36 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-27T20:36:05.080673+05:45.hyperlinks.json) |
-| [August 27 at 9:22 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-27T09:22:39.612618+05:45.hyperlinks.json) |
-| [August 26 at 8:44 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-26T20:44:12.109245+05:45.hyperlinks.json) |
-| [August 26 at 9:29 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-26T09:29:27.457468+05:45.hyperlinks.json) |
-| [August 25 at 8:47 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-25T20:47:02.857171+05:45.hyperlinks.json) |
-| [August 24 at 8:46 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-24T20:45:56.850508+05:45.hyperlinks.json) |
-| [August 24 at 9:24 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-24T09:24:29.790718+05:45.hyperlinks.json) |
-| [August 23 at 8:39 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-23T20:39:09.058788+05:45.hyperlinks.json) |
+| [August 30 at 2:20 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-30T21:19:57.192542+05:45.hyperlinks.json) |
+| [August 30 at 2:39 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-30T09:39:12.605091+05:45.hyperlinks.json) |
+| [August 29 at 1:53 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-29T20:53:45.542297+05:45.hyperlinks.json) |
+| [August 29 at 2:29 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-29T09:29:27.703520+05:45.hyperlinks.json) |
+| [August 28 at 1:41 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-28T20:41:30.814249+05:45.hyperlinks.json) |
+| [August 28 at 2:26 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-28T09:26:30.103331+05:45.hyperlinks.json) |
+| [August 27 at 1:36 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-27T20:36:05.080673+05:45.hyperlinks.json) |
+| [August 27 at 2:22 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-27T09:22:39.612618+05:45.hyperlinks.json) |
+| [August 26 at 1:44 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-26T20:44:12.109245+05:45.hyperlinks.json) |
+| [August 26 at 2:29 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-26T09:29:27.457468+05:45.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 70 accessibility trees with the Internet Archive.
+The archiving routine has saved 74 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 8:41 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-28T20:41:30.814249+05:45.accessibility.json) |
-| [August 28 at 9:26 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-28T09:26:30.103331+05:45.accessibility.json) |
-| [August 27 at 8:36 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-27T20:36:05.080673+05:45.accessibility.json) |
-| [August 27 at 9:22 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-27T09:22:39.612618+05:45.accessibility.json) |
-| [August 26 at 8:44 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-26T20:44:12.109245+05:45.accessibility.json) |
-| [August 26 at 9:29 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-26T09:29:27.457468+05:45.accessibility.json) |
-| [August 25 at 8:47 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-25T20:47:02.857171+05:45.accessibility.json) |
-| [August 24 at 8:46 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-24T20:45:56.850508+05:45.accessibility.json) |
-| [August 24 at 9:24 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-24T09:24:29.790718+05:45.accessibility.json) |
-| [August 23 at 8:39 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-23T20:39:09.058788+05:45.accessibility.json) |
+| [August 30 at 2:20 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-30T21:19:57.192542+05:45.accessibility.json) |
+| [August 30 at 2:39 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-30T09:39:12.605091+05:45.accessibility.json) |
+| [August 29 at 1:53 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-29T20:53:45.542297+05:45.accessibility.json) |
+| [August 29 at 2:29 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-29T09:29:27.703520+05:45.accessibility.json) |
+| [August 28 at 1:41 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-28T20:41:30.814249+05:45.accessibility.json) |
+| [August 28 at 2:26 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-28T09:26:30.103331+05:45.accessibility.json) |
+| [August 27 at 1:36 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-27T20:36:05.080673+05:45.accessibility.json) |
+| [August 27 at 2:22 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-27T09:22:39.612618+05:45.accessibility.json) |
+| [August 26 at 1:44 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-26T20:44:12.109245+05:45.accessibility.json) |
+| [August 26 at 2:29 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-26T09:29:27.457468+05:45.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 70 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 74 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 8:41 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-28T20:41:30.814249+05:45.lighthouse.json) |
-| [August 28 at 9:26 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-28T09:26:30.103331+05:45.lighthouse.json) |
-| [August 27 at 8:36 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-27T20:36:05.080673+05:45.lighthouse.json) |
-| [August 27 at 9:22 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-27T09:22:39.612618+05:45.lighthouse.json) |
-| [August 26 at 8:44 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-26T20:44:12.109245+05:45.lighthouse.json) |
-| [August 26 at 9:29 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-26T09:29:27.457468+05:45.lighthouse.json) |
-| [August 25 at 8:47 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-25T20:47:02.857171+05:45.lighthouse.json) |
-| [August 24 at 8:46 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-24T20:45:56.850508+05:45.lighthouse.json) |
-| [August 24 at 9:24 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-24T09:24:29.790718+05:45.lighthouse.json) |
-| [August 23 at 8:39 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-23T20:39:09.058788+05:45.lighthouse.json) |
+| [August 30 at 2:20 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-30T21:19:57.192542+05:45.lighthouse.json) |
+| [August 30 at 2:39 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-30T09:39:12.605091+05:45.lighthouse.json) |
+| [August 29 at 1:53 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-29T20:53:45.542297+05:45.lighthouse.json) |
+| [August 29 at 2:29 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-29T09:29:27.703520+05:45.lighthouse.json) |
+| [August 28 at 1:41 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-28T20:41:30.814249+05:45.lighthouse.json) |
+| [August 28 at 2:26 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-28T09:26:30.103331+05:45.lighthouse.json) |
+| [August 27 at 1:36 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-27T20:36:05.080673+05:45.lighthouse.json) |
+| [August 27 at 2:22 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-27T09:22:39.612618+05:45.lighthouse.json) |
+| [August 26 at 1:44 PM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-26T20:44:12.109245+05:45.lighthouse.json) |
+| [August 26 at 2:29 AM](https://archive.org/download/karobar_daily-2022/karobar_daily-2022-08-26T09:29:27.457468+05:45.lighthouse.json) |
 
 
 

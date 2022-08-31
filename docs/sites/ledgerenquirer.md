@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 81 screenshots with the Internet Archive.
+The archiving routine has saved 85 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-28T19:50:18.878229-04:00.jpg">
-  <img src="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-28T19:50:18.878229-04:00.jpg"
-     alt="The Ledger-Enquirer at 2022-08-28 19:50:21-04:00 local time"
+ <a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-30T20:03:16.909138-04:00.jpg">
+  <img src="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-30T20:03:16.909138-04:00.jpg"
+     alt="The Ledger-Enquirer at 2022-08-30 13:03:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-28T19:50:18.878229-04:00.jpg">August 28 at 7:50 PM</a></p>
+ <p><a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-30T20:03:16.909138-04:00.jpg">August 30 at 1:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-30T08:11:38.250482-04:00.jpg">
+  <img src="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-30T08:11:38.250482-04:00.jpg"
+     alt="The Ledger-Enquirer at 2022-08-30 01:11:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-30T08:11:38.250482-04:00.jpg">August 30 at 1:11 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-29T19:53:38.793860-04:00.jpg">
+  <img src="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-29T19:53:38.793860-04:00.jpg"
+     alt="The Ledger-Enquirer at 2022-08-29 12:53:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-29T19:53:38.793860-04:00.jpg">August 29 at 12:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-29T07:59:52.266656-04:00.jpg">
+  <img src="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-29T07:59:52.266656-04:00.jpg"
+     alt="The Ledger-Enquirer at 2022-08-29 00:59:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-29T07:59:52.266656-04:00.jpg">August 29 at 12:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-28T19:50:18.878229-04:00.jpg">
+  <img src="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-28T19:50:18.878229-04:00.jpg"
+     alt="The Ledger-Enquirer at 2022-08-28 12:50:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-28T19:50:18.878229-04:00.jpg">August 28 at 12:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-28T08:01:10.334344-04:00.jpg">
   <img src="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-28T08:01:10.334344-04:00.jpg"
-     alt="The Ledger-Enquirer at 2022-08-28 08:01:13-04:00 local time"
+     alt="The Ledger-Enquirer at 2022-08-28 01:01:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-28T08:01:10.334344-04:00.jpg">August 28 at 8:01 AM</a></p>
+ <p><a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-28T08:01:10.334344-04:00.jpg">August 28 at 1:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-27T19:51:57.359616-04:00.jpg">
   <img src="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-27T19:51:57.359616-04:00.jpg"
-     alt="The Ledger-Enquirer at 2022-08-27 19:52:08-04:00 local time"
+     alt="The Ledger-Enquirer at 2022-08-27 12:52:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-27T19:51:57.359616-04:00.jpg">August 27 at 7:52 PM</a></p>
+ <p><a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-27T19:51:57.359616-04:00.jpg">August 27 at 12:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-27T07:54:34.521812-04:00.jpg">
   <img src="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-27T07:54:34.521812-04:00.jpg"
-     alt="The Ledger-Enquirer at 2022-08-27 07:54:38-04:00 local time"
+     alt="The Ledger-Enquirer at 2022-08-27 00:54:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-27T07:54:34.521812-04:00.jpg">August 27 at 7:54 AM</a></p>
+ <p><a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-27T07:54:34.521812-04:00.jpg">August 27 at 12:54 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-26T19:46:19.921258-04:00.jpg">
   <img src="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-26T19:46:19.921258-04:00.jpg"
-     alt="The Ledger-Enquirer at 2022-08-26 19:46:26-04:00 local time"
+     alt="The Ledger-Enquirer at 2022-08-26 12:46:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-26T19:46:19.921258-04:00.jpg">August 26 at 7:46 PM</a></p>
+ <p><a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-26T19:46:19.921258-04:00.jpg">August 26 at 12:46 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-26T07:59:35.112847-04:00.jpg">
   <img src="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-26T07:59:35.112847-04:00.jpg"
-     alt="The Ledger-Enquirer at 2022-08-26 07:59:36-04:00 local time"
+     alt="The Ledger-Enquirer at 2022-08-26 00:59:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-26T07:59:35.112847-04:00.jpg">August 26 at 7:59 AM</a></p>
+ <p><a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-26T07:59:35.112847-04:00.jpg">August 26 at 12:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-25T20:06:07.100372-04:00.jpg">
   <img src="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-25T20:06:07.100372-04:00.jpg"
-     alt="The Ledger-Enquirer at 2022-08-25 20:06:08-04:00 local time"
+     alt="The Ledger-Enquirer at 2022-08-25 13:06:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-25T20:06:07.100372-04:00.jpg">August 25 at 8:06 PM</a></p>
+ <p><a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-25T20:06:07.100372-04:00.jpg">August 25 at 1:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-25T08:04:12.762485-04:00.jpg">
   <img src="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-25T08:04:12.762485-04:00.jpg"
-     alt="The Ledger-Enquirer at 2022-08-25 08:04:14-04:00 local time"
+     alt="The Ledger-Enquirer at 2022-08-25 01:04:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-25T08:04:12.762485-04:00.jpg">August 25 at 8:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-24T19:57:16.714344-04:00.jpg">
-  <img src="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-24T19:57:16.714344-04:00.jpg"
-     alt="The Ledger-Enquirer at 2022-08-24 19:57:20-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-24T19:57:16.714344-04:00.jpg">August 24 at 7:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-24T07:54:29.234800-04:00.jpg">
-  <img src="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-24T07:54:29.234800-04:00.jpg"
-     alt="The Ledger-Enquirer at 2022-08-24 07:54:32-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-24T07:54:29.234800-04:00.jpg">August 24 at 7:54 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-23T19:46:25.454936-04:00.jpg">
-  <img src="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-23T19:46:25.454936-04:00.jpg"
-     alt="The Ledger-Enquirer at 2022-08-23 19:46:26-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-23T19:46:25.454936-04:00.jpg">August 23 at 7:46 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-23T07:57:45.421513-04:00.jpg">
-  <img src="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-23T07:57:45.421513-04:00.jpg"
-     alt="The Ledger-Enquirer at 2022-08-23 07:57:47-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-23T07:57:45.421513-04:00.jpg">August 23 at 7:57 AM</a></p>
+ <p><a href="https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-25T08:04:12.762485-04:00.jpg">August 25 at 1:04 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 81 hyperlink lists with the Internet Archive.
+The archiving routine has saved 85 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 7:50 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-28T19:50:18.878229-04:00.hyperlinks.json) |
-| [August 28 at 8:01 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-28T08:01:10.334344-04:00.hyperlinks.json) |
-| [August 27 at 7:52 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-27T19:51:57.359616-04:00.hyperlinks.json) |
-| [August 27 at 7:54 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-27T07:54:34.521812-04:00.hyperlinks.json) |
-| [August 26 at 7:46 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-26T19:46:19.921258-04:00.hyperlinks.json) |
-| [August 26 at 7:59 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-26T07:59:35.112847-04:00.hyperlinks.json) |
-| [August 25 at 8:06 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-25T20:06:07.100372-04:00.hyperlinks.json) |
-| [August 25 at 8:04 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-25T08:04:12.762485-04:00.hyperlinks.json) |
-| [August 24 at 7:57 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-24T19:57:16.714344-04:00.hyperlinks.json) |
-| [August 24 at 7:54 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-24T07:54:29.234800-04:00.hyperlinks.json) |
+| [August 30 at 1:03 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-30T20:03:16.909138-04:00.hyperlinks.json) |
+| [August 30 at 1:11 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-30T08:11:38.250482-04:00.hyperlinks.json) |
+| [August 29 at 12:53 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-29T19:53:38.793860-04:00.hyperlinks.json) |
+| [August 29 at 12:59 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-29T07:59:52.266656-04:00.hyperlinks.json) |
+| [August 28 at 12:50 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-28T19:50:18.878229-04:00.hyperlinks.json) |
+| [August 28 at 1:01 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-28T08:01:10.334344-04:00.hyperlinks.json) |
+| [August 27 at 12:52 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-27T19:51:57.359616-04:00.hyperlinks.json) |
+| [August 27 at 12:54 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-27T07:54:34.521812-04:00.hyperlinks.json) |
+| [August 26 at 12:46 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-26T19:46:19.921258-04:00.hyperlinks.json) |
+| [August 26 at 12:59 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-26T07:59:35.112847-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 81 accessibility trees with the Internet Archive.
+The archiving routine has saved 85 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 7:50 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-28T19:50:18.878229-04:00.accessibility.json) |
-| [August 28 at 8:01 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-28T08:01:10.334344-04:00.accessibility.json) |
-| [August 27 at 7:52 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-27T19:51:57.359616-04:00.accessibility.json) |
-| [August 27 at 7:54 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-27T07:54:34.521812-04:00.accessibility.json) |
-| [August 26 at 7:46 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-26T19:46:19.921258-04:00.accessibility.json) |
-| [August 26 at 7:59 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-26T07:59:35.112847-04:00.accessibility.json) |
-| [August 25 at 8:06 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-25T20:06:07.100372-04:00.accessibility.json) |
-| [August 25 at 8:04 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-25T08:04:12.762485-04:00.accessibility.json) |
-| [August 24 at 7:57 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-24T19:57:16.714344-04:00.accessibility.json) |
-| [August 24 at 7:54 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-24T07:54:29.234800-04:00.accessibility.json) |
+| [August 30 at 1:03 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-30T20:03:16.909138-04:00.accessibility.json) |
+| [August 30 at 1:11 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-30T08:11:38.250482-04:00.accessibility.json) |
+| [August 29 at 12:53 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-29T19:53:38.793860-04:00.accessibility.json) |
+| [August 29 at 12:59 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-29T07:59:52.266656-04:00.accessibility.json) |
+| [August 28 at 12:50 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-28T19:50:18.878229-04:00.accessibility.json) |
+| [August 28 at 1:01 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-28T08:01:10.334344-04:00.accessibility.json) |
+| [August 27 at 12:52 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-27T19:51:57.359616-04:00.accessibility.json) |
+| [August 27 at 12:54 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-27T07:54:34.521812-04:00.accessibility.json) |
+| [August 26 at 12:46 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-26T19:46:19.921258-04:00.accessibility.json) |
+| [August 26 at 12:59 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-26T07:59:35.112847-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 74 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 78 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 7:50 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-28T19:50:18.878229-04:00.lighthouse.json) |
-| [August 28 at 8:01 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-28T08:01:10.334344-04:00.lighthouse.json) |
-| [August 27 at 7:52 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-27T19:51:57.359616-04:00.lighthouse.json) |
-| [August 27 at 7:54 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-27T07:54:34.521812-04:00.lighthouse.json) |
-| [August 26 at 7:46 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-26T19:46:19.921258-04:00.lighthouse.json) |
-| [August 26 at 7:59 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-26T07:59:35.112847-04:00.lighthouse.json) |
-| [August 25 at 8:06 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-25T20:06:07.100372-04:00.lighthouse.json) |
-| [August 25 at 8:04 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-25T08:04:12.762485-04:00.lighthouse.json) |
-| [August 24 at 7:57 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-24T19:57:16.714344-04:00.lighthouse.json) |
-| [August 24 at 7:54 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-24T07:54:29.234800-04:00.lighthouse.json) |
+| [August 30 at 1:03 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-30T20:03:16.909138-04:00.lighthouse.json) |
+| [August 30 at 1:11 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-30T08:11:38.250482-04:00.lighthouse.json) |
+| [August 29 at 12:53 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-29T19:53:38.793860-04:00.lighthouse.json) |
+| [August 29 at 1:00 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-29T07:59:52.266656-04:00.lighthouse.json) |
+| [August 28 at 12:50 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-28T19:50:18.878229-04:00.lighthouse.json) |
+| [August 28 at 1:01 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-28T08:01:10.334344-04:00.lighthouse.json) |
+| [August 27 at 12:52 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-27T19:51:57.359616-04:00.lighthouse.json) |
+| [August 27 at 12:54 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-27T07:54:34.521812-04:00.lighthouse.json) |
+| [August 26 at 12:46 PM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-26T19:46:19.921258-04:00.lighthouse.json) |
+| [August 26 at 12:59 AM](https://archive.org/download/ledgerenquirer-2022/ledgerenquirer-2022-08-26T07:59:35.112847-04:00.lighthouse.json) |
 
 
 

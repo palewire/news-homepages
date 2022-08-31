@@ -234,8 +234,91 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 33 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/yediotahronot.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
@@ -243,180 +326,429 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-28T17:05:22.277315+03:00.jpg">
-  <img src="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-28T17:05:22.277315+03:00.jpg"
-     alt="Yedioth Ahronoth at 2022-08-28 17:05:24+03:00 local time"
+ <a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-30T18:24:19.455931+03:00.jpg">
+  <img src="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-30T18:24:19.455931+03:00.jpg"
+     alt="Yedioth Ahronoth at 2022-08-30 11:24:21+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-28T17:05:22.277315+03:00.jpg">August 28 at 5:05 PM</a></p>
+ <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-30T18:24:19.455931+03:00.jpg">August 30 at 11:24 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-30T05:33:22.965654+03:00.jpg">
+  <img src="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-30T05:33:22.965654+03:00.jpg"
+     alt="Yedioth Ahronoth at 2022-08-29 22:33:26+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-30T05:33:22.965654+03:00.jpg">August 29 at 10:33 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-29T17:12:30.181919+03:00.jpg">
+  <img src="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-29T17:12:30.181919+03:00.jpg"
+     alt="Yedioth Ahronoth at 2022-08-29 10:12:32+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-29T17:12:30.181919+03:00.jpg">August 29 at 10:12 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-29T05:28:57.301485+03:00.jpg">
+  <img src="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-29T05:28:57.301485+03:00.jpg"
+     alt="Yedioth Ahronoth at 2022-08-28 22:28:58+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-29T05:28:57.301485+03:00.jpg">August 28 at 10:28 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-28T17:05:22.277315+03:00.jpg">
+  <img src="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-28T17:05:22.277315+03:00.jpg"
+     alt="Yedioth Ahronoth at 2022-08-28 10:05:24+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-28T17:05:22.277315+03:00.jpg">August 28 at 10:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-28T05:30:32.892313+03:00.jpg">
   <img src="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-28T05:30:32.892313+03:00.jpg"
-     alt="Yedioth Ahronoth at 2022-08-28 05:30:34+03:00 local time"
+     alt="Yedioth Ahronoth at 2022-08-27 22:30:34+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-28T05:30:32.892313+03:00.jpg">August 28 at 5:30 AM</a></p>
+ <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-28T05:30:32.892313+03:00.jpg">August 27 at 10:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-27T17:01:25.028332+03:00.jpg">
   <img src="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-27T17:01:25.028332+03:00.jpg"
-     alt="Yedioth Ahronoth at 2022-08-27 17:01:27+03:00 local time"
+     alt="Yedioth Ahronoth at 2022-08-27 10:01:27+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-27T17:01:25.028332+03:00.jpg">August 27 at 5:01 PM</a></p>
+ <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-27T17:01:25.028332+03:00.jpg">August 27 at 10:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-27T05:23:58.211103+03:00.jpg">
   <img src="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-27T05:23:58.211103+03:00.jpg"
-     alt="Yedioth Ahronoth at 2022-08-27 05:23:59+03:00 local time"
+     alt="Yedioth Ahronoth at 2022-08-26 22:23:59+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-27T05:23:58.211103+03:00.jpg">August 27 at 5:23 AM</a></p>
+ <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-27T05:23:58.211103+03:00.jpg">August 26 at 10:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-26T17:08:23.974797+03:00.jpg">
   <img src="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-26T17:08:23.974797+03:00.jpg"
-     alt="Yedioth Ahronoth at 2022-08-26 17:08:25+03:00 local time"
+     alt="Yedioth Ahronoth at 2022-08-26 10:08:25+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-26T17:08:23.974797+03:00.jpg">August 26 at 5:08 PM</a></p>
+ <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-26T17:08:23.974797+03:00.jpg">August 26 at 10:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-26T05:26:41.559704+03:00.jpg">
   <img src="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-26T05:26:41.559704+03:00.jpg"
-     alt="Yedioth Ahronoth at 2022-08-26 05:26:43+03:00 local time"
+     alt="Yedioth Ahronoth at 2022-08-25 22:26:43+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-26T05:26:41.559704+03:00.jpg">August 26 at 5:26 AM</a></p>
+ <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-26T05:26:41.559704+03:00.jpg">August 25 at 10:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-25T17:59:20.538203+03:00.jpg">
   <img src="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-25T17:59:20.538203+03:00.jpg"
-     alt="Yedioth Ahronoth at 2022-08-25 17:59:23+03:00 local time"
+     alt="Yedioth Ahronoth at 2022-08-25 10:59:23+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-25T17:59:20.538203+03:00.jpg">August 25 at 5:59 PM</a></p>
+ <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-25T17:59:20.538203+03:00.jpg">August 25 at 10:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-24T17:03:24.338417+03:00.jpg">
   <img src="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-24T17:03:24.338417+03:00.jpg"
-     alt="Yedioth Ahronoth at 2022-08-24 17:03:27+03:00 local time"
+     alt="Yedioth Ahronoth at 2022-08-24 10:03:27+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-24T17:03:24.338417+03:00.jpg">August 24 at 5:03 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-24T05:20:42.506420+03:00.jpg">
-  <img src="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-24T05:20:42.506420+03:00.jpg"
-     alt="Yedioth Ahronoth at 2022-08-24 05:20:44+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-24T05:20:42.506420+03:00.jpg">August 24 at 5:20 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-23T17:05:06.306381+03:00.jpg">
-  <img src="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-23T17:05:06.306381+03:00.jpg"
-     alt="Yedioth Ahronoth at 2022-08-23 17:05:08+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-23T17:05:06.306381+03:00.jpg">August 23 at 5:05 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-23T04:29:07.831746+03:00.jpg">
-  <img src="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-23T04:29:07.831746+03:00.jpg"
-     alt="Yedioth Ahronoth at 2022-08-23 04:29:09+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-23T04:29:07.831746+03:00.jpg">August 23 at 4:29 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-22T16:08:42.451830+03:00.jpg">
-  <img src="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-22T16:08:42.451830+03:00.jpg"
-     alt="Yedioth Ahronoth at 2022-08-22 16:08:44+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-22T16:08:42.451830+03:00.jpg">August 22 at 4:08 PM</a></p>
+ <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-24T17:03:24.338417+03:00.jpg">August 24 at 10:03 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 29 hyperlink lists with the Internet Archive.
+The archiving routine has saved 33 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/yediotahronot.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 5:05 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-28T17:05:22.277315+03:00.hyperlinks.json) |
-| [August 28 at 5:30 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-28T05:30:32.892313+03:00.hyperlinks.json) |
-| [August 27 at 5:01 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-27T17:01:25.028332+03:00.hyperlinks.json) |
-| [August 27 at 5:24 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-27T05:23:58.211103+03:00.hyperlinks.json) |
-| [August 26 at 5:08 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-26T17:08:23.974797+03:00.hyperlinks.json) |
-| [August 26 at 5:26 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-26T05:26:41.559704+03:00.hyperlinks.json) |
-| [August 25 at 5:59 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-25T17:59:20.538203+03:00.hyperlinks.json) |
-| [August 24 at 5:03 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-24T17:03:24.338417+03:00.hyperlinks.json) |
-| [August 24 at 5:20 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-24T05:20:42.506420+03:00.hyperlinks.json) |
-| [August 23 at 5:05 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-23T17:05:06.306381+03:00.hyperlinks.json) |
+| [August 30 at 11:24 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-30T18:24:19.455931+03:00.hyperlinks.json) |
+| [August 29 at 10:33 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-30T05:33:22.965654+03:00.hyperlinks.json) |
+| [August 29 at 10:12 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-29T17:12:30.181919+03:00.hyperlinks.json) |
+| [August 28 at 10:29 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-29T05:28:57.301485+03:00.hyperlinks.json) |
+| [August 28 at 10:05 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-28T17:05:22.277315+03:00.hyperlinks.json) |
+| [August 27 at 10:30 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-28T05:30:32.892313+03:00.hyperlinks.json) |
+| [August 27 at 10:01 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-27T17:01:25.028332+03:00.hyperlinks.json) |
+| [August 26 at 10:24 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-27T05:23:58.211103+03:00.hyperlinks.json) |
+| [August 26 at 10:08 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-26T17:08:23.974797+03:00.hyperlinks.json) |
+| [August 25 at 10:26 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-26T05:26:41.559704+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 29 accessibility trees with the Internet Archive.
+The archiving routine has saved 33 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/yediotahronot.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 5:05 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-28T17:05:22.277315+03:00.accessibility.json) |
-| [August 28 at 5:30 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-28T05:30:32.892313+03:00.accessibility.json) |
-| [August 27 at 5:01 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-27T17:01:25.028332+03:00.accessibility.json) |
-| [August 27 at 5:24 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-27T05:23:58.211103+03:00.accessibility.json) |
-| [August 26 at 5:08 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-26T17:08:23.974797+03:00.accessibility.json) |
-| [August 26 at 5:26 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-26T05:26:41.559704+03:00.accessibility.json) |
-| [August 25 at 5:59 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-25T17:59:20.538203+03:00.accessibility.json) |
-| [August 24 at 5:03 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-24T17:03:24.338417+03:00.accessibility.json) |
-| [August 24 at 5:20 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-24T05:20:42.506420+03:00.accessibility.json) |
-| [August 23 at 5:05 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-23T17:05:06.306381+03:00.accessibility.json) |
+| [August 30 at 11:24 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-30T18:24:19.455931+03:00.accessibility.json) |
+| [August 29 at 10:33 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-30T05:33:22.965654+03:00.accessibility.json) |
+| [August 29 at 10:12 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-29T17:12:30.181919+03:00.accessibility.json) |
+| [August 28 at 10:28 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-29T05:28:57.301485+03:00.accessibility.json) |
+| [August 28 at 10:05 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-28T17:05:22.277315+03:00.accessibility.json) |
+| [August 27 at 10:30 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-28T05:30:32.892313+03:00.accessibility.json) |
+| [August 27 at 10:01 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-27T17:01:25.028332+03:00.accessibility.json) |
+| [August 26 at 10:24 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-27T05:23:58.211103+03:00.accessibility.json) |
+| [August 26 at 10:08 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-26T17:08:23.974797+03:00.accessibility.json) |
+| [August 25 at 10:26 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-26T05:26:41.559704+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/yediotahronot.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 5:05 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-28T17:05:22.277315+03:00.lighthouse.json) |
-| [August 28 at 5:30 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-28T05:30:32.892313+03:00.lighthouse.json) |
-| [August 27 at 5:01 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-27T17:01:25.028332+03:00.lighthouse.json) |
-| [August 27 at 5:24 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-27T05:23:58.211103+03:00.lighthouse.json) |
-| [August 26 at 5:08 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-26T17:08:23.974797+03:00.lighthouse.json) |
-| [August 26 at 5:26 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-26T05:26:41.559704+03:00.lighthouse.json) |
-| [August 25 at 5:59 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-25T17:59:20.538203+03:00.lighthouse.json) |
-| [August 24 at 5:03 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-24T17:03:24.338417+03:00.lighthouse.json) |
-| [August 24 at 5:20 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-24T05:20:42.506420+03:00.lighthouse.json) |
-| [August 23 at 5:05 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-23T17:05:06.306381+03:00.lighthouse.json) |
+| [August 30 at 11:24 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-30T18:24:19.455931+03:00.lighthouse.json) |
+| [August 29 at 10:33 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-30T05:33:22.965654+03:00.lighthouse.json) |
+| [August 29 at 10:12 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-29T17:12:30.181919+03:00.lighthouse.json) |
+| [August 28 at 10:29 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-29T05:28:57.301485+03:00.lighthouse.json) |
+| [August 28 at 10:05 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-28T17:05:22.277315+03:00.lighthouse.json) |
+| [August 27 at 10:30 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-28T05:30:32.892313+03:00.lighthouse.json) |
+| [August 27 at 10:01 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-27T17:01:25.028332+03:00.lighthouse.json) |
+| [August 26 at 10:24 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-27T05:23:58.211103+03:00.lighthouse.json) |
+| [August 26 at 10:08 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-26T17:08:23.974797+03:00.lighthouse.json) |
+| [August 25 at 10:26 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-26T05:26:41.559704+03:00.lighthouse.json) |
 
 
 

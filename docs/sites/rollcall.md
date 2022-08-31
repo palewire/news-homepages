@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 109 screenshots with the Internet Archive.
+The archiving routine has saved 113 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-28T12:01:05.710899-04:00.jpg">
-  <img src="https://archive.org/download/rollcall-2022/rollcall-2022-08-28T12:01:05.710899-04:00.jpg"
-     alt="Roll Call at 2022-08-28 12:01:07-04:00 local time"
+ <a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-30T12:35:59.419781-04:00.jpg">
+  <img src="https://archive.org/download/rollcall-2022/rollcall-2022-08-30T12:35:59.419781-04:00.jpg"
+     alt="Roll Call at 2022-08-30 05:36:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-28T12:01:05.710899-04:00.jpg">August 28 at 12:01 PM</a></p>
+ <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-30T12:35:59.419781-04:00.jpg">August 30 at 5:36 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-30T00:54:17.202865-04:00.jpg">
+  <img src="https://archive.org/download/rollcall-2022/rollcall-2022-08-30T00:54:17.202865-04:00.jpg"
+     alt="Roll Call at 2022-08-29 17:54:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-30T00:54:17.202865-04:00.jpg">August 29 at 5:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-29T12:17:14.865621-04:00.jpg">
+  <img src="https://archive.org/download/rollcall-2022/rollcall-2022-08-29T12:17:14.865621-04:00.jpg"
+     alt="Roll Call at 2022-08-29 05:17:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-29T12:17:14.865621-04:00.jpg">August 29 at 5:17 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-29T00:39:25.417758-04:00.jpg">
+  <img src="https://archive.org/download/rollcall-2022/rollcall-2022-08-29T00:39:25.417758-04:00.jpg"
+     alt="Roll Call at 2022-08-28 17:39:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-29T00:39:25.417758-04:00.jpg">August 28 at 5:39 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-28T12:01:05.710899-04:00.jpg">
+  <img src="https://archive.org/download/rollcall-2022/rollcall-2022-08-28T12:01:05.710899-04:00.jpg"
+     alt="Roll Call at 2022-08-28 05:01:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-28T12:01:05.710899-04:00.jpg">August 28 at 5:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-28T00:34:48.033606-04:00.jpg">
   <img src="https://archive.org/download/rollcall-2022/rollcall-2022-08-28T00:34:48.033606-04:00.jpg"
-     alt="Roll Call at 2022-08-28 00:34:52-04:00 local time"
+     alt="Roll Call at 2022-08-27 17:34:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-28T00:34:48.033606-04:00.jpg">August 28 at 12:34 AM</a></p>
+ <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-28T00:34:48.033606-04:00.jpg">August 27 at 5:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-27T11:57:38.061690-04:00.jpg">
   <img src="https://archive.org/download/rollcall-2022/rollcall-2022-08-27T11:57:38.061690-04:00.jpg"
-     alt="Roll Call at 2022-08-27 11:57:42-04:00 local time"
+     alt="Roll Call at 2022-08-27 04:57:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-27T11:57:38.061690-04:00.jpg">August 27 at 11:57 AM</a></p>
+ <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-27T11:57:38.061690-04:00.jpg">August 27 at 4:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-27T00:36:01.685751-04:00.jpg">
   <img src="https://archive.org/download/rollcall-2022/rollcall-2022-08-27T00:36:01.685751-04:00.jpg"
-     alt="Roll Call at 2022-08-27 00:36:03-04:00 local time"
+     alt="Roll Call at 2022-08-26 17:36:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-27T00:36:01.685751-04:00.jpg">August 27 at 12:36 AM</a></p>
+ <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-27T00:36:01.685751-04:00.jpg">August 26 at 5:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-26T12:04:49.753431-04:00.jpg">
   <img src="https://archive.org/download/rollcall-2022/rollcall-2022-08-26T12:04:49.753431-04:00.jpg"
-     alt="Roll Call at 2022-08-26 12:04:53-04:00 local time"
+     alt="Roll Call at 2022-08-26 05:04:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-26T12:04:49.753431-04:00.jpg">August 26 at 12:04 PM</a></p>
+ <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-26T12:04:49.753431-04:00.jpg">August 26 at 5:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-26T00:40:42.751761-04:00.jpg">
   <img src="https://archive.org/download/rollcall-2022/rollcall-2022-08-26T00:40:42.751761-04:00.jpg"
-     alt="Roll Call at 2022-08-26 00:40:46-04:00 local time"
+     alt="Roll Call at 2022-08-25 17:40:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-26T00:40:42.751761-04:00.jpg">August 26 at 12:40 AM</a></p>
+ <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-26T00:40:42.751761-04:00.jpg">August 25 at 5:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-25T12:01:58.840584-04:00.jpg">
   <img src="https://archive.org/download/rollcall-2022/rollcall-2022-08-25T12:01:58.840584-04:00.jpg"
-     alt="Roll Call at 2022-08-25 12:02:03-04:00 local time"
+     alt="Roll Call at 2022-08-25 05:02:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-25T12:01:58.840584-04:00.jpg">August 25 at 12:02 PM</a></p>
+ <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-25T12:01:58.840584-04:00.jpg">August 25 at 5:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-24T12:00:21.991086-04:00.jpg">
   <img src="https://archive.org/download/rollcall-2022/rollcall-2022-08-24T12:00:21.991086-04:00.jpg"
-     alt="Roll Call at 2022-08-24 12:00:26-04:00 local time"
+     alt="Roll Call at 2022-08-24 05:00:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-24T12:00:21.991086-04:00.jpg">August 24 at 12:00 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-24T00:35:26.825293-04:00.jpg">
-  <img src="https://archive.org/download/rollcall-2022/rollcall-2022-08-24T00:35:26.825293-04:00.jpg"
-     alt="Roll Call at 2022-08-24 00:35:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-24T00:35:26.825293-04:00.jpg">August 24 at 12:35 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-23T12:04:00.548660-04:00.jpg">
-  <img src="https://archive.org/download/rollcall-2022/rollcall-2022-08-23T12:04:00.548660-04:00.jpg"
-     alt="Roll Call at 2022-08-23 12:04:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-23T12:04:00.548660-04:00.jpg">August 23 at 12:04 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-22T23:55:59.211532-04:00.jpg">
-  <img src="https://archive.org/download/rollcall-2022/rollcall-2022-08-22T23:55:59.211532-04:00.jpg"
-     alt="Roll Call at 2022-08-22 23:56:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-22T23:55:59.211532-04:00.jpg">August 22 at 11:56 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-22T11:02:41.366726-04:00.jpg">
-  <img src="https://archive.org/download/rollcall-2022/rollcall-2022-08-22T11:02:41.366726-04:00.jpg"
-     alt="Roll Call at 2022-08-22 11:02:45-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-22T11:02:41.366726-04:00.jpg">August 22 at 11:02 AM</a></p>
+ <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-24T12:00:21.991086-04:00.jpg">August 24 at 5:00 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 87 hyperlink lists with the Internet Archive.
+The archiving routine has saved 91 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 12:01 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-28T12:01:05.710899-04:00.hyperlinks.json) |
-| [August 28 at 12:34 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-28T00:34:48.033606-04:00.hyperlinks.json) |
-| [August 27 at 11:57 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-27T11:57:38.061690-04:00.hyperlinks.json) |
-| [August 27 at 12:36 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-27T00:36:01.685751-04:00.hyperlinks.json) |
-| [August 26 at 12:04 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-26T12:04:49.753431-04:00.hyperlinks.json) |
-| [August 26 at 12:40 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-26T00:40:42.751761-04:00.hyperlinks.json) |
-| [August 25 at 12:02 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-25T12:01:58.840584-04:00.hyperlinks.json) |
-| [August 24 at 12:00 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-24T12:00:21.991086-04:00.hyperlinks.json) |
-| [August 24 at 12:35 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-24T00:35:26.825293-04:00.hyperlinks.json) |
-| [August 23 at 12:04 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-23T12:04:00.548660-04:00.hyperlinks.json) |
+| [August 30 at 5:36 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-30T12:35:59.419781-04:00.hyperlinks.json) |
+| [August 29 at 5:54 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-30T00:54:17.202865-04:00.hyperlinks.json) |
+| [August 29 at 5:17 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-29T12:17:14.865621-04:00.hyperlinks.json) |
+| [August 28 at 5:39 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-29T00:39:25.417758-04:00.hyperlinks.json) |
+| [August 28 at 5:01 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-28T12:01:05.710899-04:00.hyperlinks.json) |
+| [August 27 at 5:34 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-28T00:34:48.033606-04:00.hyperlinks.json) |
+| [August 27 at 4:57 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-27T11:57:38.061690-04:00.hyperlinks.json) |
+| [August 26 at 5:36 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-27T00:36:01.685751-04:00.hyperlinks.json) |
+| [August 26 at 5:04 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-26T12:04:49.753431-04:00.hyperlinks.json) |
+| [August 25 at 5:40 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-26T00:40:42.751761-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 108 accessibility trees with the Internet Archive.
+The archiving routine has saved 112 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 12:01 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-28T12:01:05.710899-04:00.accessibility.json) |
-| [August 28 at 12:34 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-28T00:34:48.033606-04:00.accessibility.json) |
-| [August 27 at 11:57 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-27T11:57:38.061690-04:00.accessibility.json) |
-| [August 27 at 12:36 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-27T00:36:01.685751-04:00.accessibility.json) |
-| [August 26 at 12:04 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-26T12:04:49.753431-04:00.accessibility.json) |
-| [August 26 at 12:40 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-26T00:40:42.751761-04:00.accessibility.json) |
-| [August 25 at 12:02 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-25T12:01:58.840584-04:00.accessibility.json) |
-| [August 24 at 12:00 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-24T12:00:21.991086-04:00.accessibility.json) |
-| [August 24 at 12:35 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-24T00:35:26.825293-04:00.accessibility.json) |
-| [August 22 at 11:56 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-22T23:55:59.211532-04:00.accessibility.json) |
+| [August 30 at 5:36 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-30T12:35:59.419781-04:00.accessibility.json) |
+| [August 29 at 5:54 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-30T00:54:17.202865-04:00.accessibility.json) |
+| [August 29 at 5:17 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-29T12:17:14.865621-04:00.accessibility.json) |
+| [August 28 at 5:39 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-29T00:39:25.417758-04:00.accessibility.json) |
+| [August 28 at 5:01 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-28T12:01:05.710899-04:00.accessibility.json) |
+| [August 27 at 5:34 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-28T00:34:48.033606-04:00.accessibility.json) |
+| [August 27 at 4:57 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-27T11:57:38.061690-04:00.accessibility.json) |
+| [August 26 at 5:36 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-27T00:36:01.685751-04:00.accessibility.json) |
+| [August 26 at 5:04 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-26T12:04:49.753431-04:00.accessibility.json) |
+| [August 25 at 5:40 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-26T00:40:42.751761-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 72 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 76 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 12:01 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-28T12:01:05.710899-04:00.lighthouse.json) |
-| [August 28 at 12:34 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-28T00:34:48.033606-04:00.lighthouse.json) |
-| [August 27 at 11:57 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-27T11:57:38.061690-04:00.lighthouse.json) |
-| [August 27 at 12:36 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-27T00:36:01.685751-04:00.lighthouse.json) |
-| [August 26 at 12:04 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-26T12:04:49.753431-04:00.lighthouse.json) |
-| [August 26 at 12:40 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-26T00:40:42.751761-04:00.lighthouse.json) |
-| [August 25 at 12:02 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-25T12:01:58.840584-04:00.lighthouse.json) |
-| [August 24 at 12:00 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-24T12:00:21.991086-04:00.lighthouse.json) |
-| [August 24 at 12:35 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-24T00:35:26.825293-04:00.lighthouse.json) |
-| [August 23 at 12:04 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-23T12:04:00.548660-04:00.lighthouse.json) |
+| [August 30 at 5:36 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-30T12:35:59.419781-04:00.lighthouse.json) |
+| [August 29 at 5:54 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-30T00:54:17.202865-04:00.lighthouse.json) |
+| [August 29 at 5:17 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-29T12:17:14.865621-04:00.lighthouse.json) |
+| [August 28 at 5:39 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-29T00:39:25.417758-04:00.lighthouse.json) |
+| [August 28 at 5:01 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-28T12:01:05.710899-04:00.lighthouse.json) |
+| [August 27 at 5:34 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-28T00:34:48.033606-04:00.lighthouse.json) |
+| [August 27 at 4:57 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-27T11:57:38.061690-04:00.lighthouse.json) |
+| [August 26 at 5:36 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-27T00:36:01.685751-04:00.lighthouse.json) |
+| [August 26 at 5:04 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-26T12:04:49.753431-04:00.lighthouse.json) |
+| [August 25 at 5:40 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-26T00:40:42.751761-04:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 179 screenshots with the Internet Archive.
+The archiving routine has saved 183 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-28T19:47:04.480791-04:00.jpg">
-  <img src="https://archive.org/download/icijorg-2022/icijorg-2022-08-28T19:47:04.480791-04:00.jpg"
-     alt="ICIJ at 2022-08-28 19:47:05-04:00 local time"
+ <a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-30T19:59:34.002454-04:00.jpg">
+  <img src="https://archive.org/download/icijorg-2022/icijorg-2022-08-30T19:59:34.002454-04:00.jpg"
+     alt="ICIJ at 2022-08-30 12:59:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-28T19:47:04.480791-04:00.jpg">August 28 at 7:47 PM</a></p>
+ <p><a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-30T19:59:34.002454-04:00.jpg">August 30 at 12:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-30T08:07:29.089969-04:00.jpg">
+  <img src="https://archive.org/download/icijorg-2022/icijorg-2022-08-30T08:07:29.089969-04:00.jpg"
+     alt="ICIJ at 2022-08-30 01:07:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-30T08:07:29.089969-04:00.jpg">August 30 at 1:07 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-29T19:49:59.901772-04:00.jpg">
+  <img src="https://archive.org/download/icijorg-2022/icijorg-2022-08-29T19:49:59.901772-04:00.jpg"
+     alt="ICIJ at 2022-08-29 12:50:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-29T19:49:59.901772-04:00.jpg">August 29 at 12:50 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-29T07:56:17.967490-04:00.jpg">
+  <img src="https://archive.org/download/icijorg-2022/icijorg-2022-08-29T07:56:17.967490-04:00.jpg"
+     alt="ICIJ at 2022-08-29 00:56:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-29T07:56:17.967490-04:00.jpg">August 29 at 12:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-28T19:47:04.480791-04:00.jpg">
+  <img src="https://archive.org/download/icijorg-2022/icijorg-2022-08-28T19:47:04.480791-04:00.jpg"
+     alt="ICIJ at 2022-08-28 12:47:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-28T19:47:04.480791-04:00.jpg">August 28 at 12:47 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-28T07:58:30.041084-04:00.jpg">
   <img src="https://archive.org/download/icijorg-2022/icijorg-2022-08-28T07:58:30.041084-04:00.jpg"
-     alt="ICIJ at 2022-08-28 07:58:43-04:00 local time"
+     alt="ICIJ at 2022-08-28 00:58:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-28T07:58:30.041084-04:00.jpg">August 28 at 7:58 AM</a></p>
+ <p><a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-28T07:58:30.041084-04:00.jpg">August 28 at 12:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-27T19:48:28.201340-04:00.jpg">
   <img src="https://archive.org/download/icijorg-2022/icijorg-2022-08-27T19:48:28.201340-04:00.jpg"
-     alt="ICIJ at 2022-08-27 19:48:51-04:00 local time"
+     alt="ICIJ at 2022-08-27 12:48:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-27T19:48:28.201340-04:00.jpg">August 27 at 7:48 PM</a></p>
+ <p><a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-27T19:48:28.201340-04:00.jpg">August 27 at 12:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-27T07:52:34.683195-04:00.jpg">
   <img src="https://archive.org/download/icijorg-2022/icijorg-2022-08-27T07:52:34.683195-04:00.jpg"
-     alt="ICIJ at 2022-08-27 07:52:39-04:00 local time"
+     alt="ICIJ at 2022-08-27 00:52:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-27T07:52:34.683195-04:00.jpg">August 27 at 7:52 AM</a></p>
+ <p><a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-27T07:52:34.683195-04:00.jpg">August 27 at 12:52 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-26T19:43:12.228583-04:00.jpg">
   <img src="https://archive.org/download/icijorg-2022/icijorg-2022-08-26T19:43:12.228583-04:00.jpg"
-     alt="ICIJ at 2022-08-26 19:43:14-04:00 local time"
+     alt="ICIJ at 2022-08-26 12:43:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-26T19:43:12.228583-04:00.jpg">August 26 at 7:43 PM</a></p>
+ <p><a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-26T19:43:12.228583-04:00.jpg">August 26 at 12:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-26T07:56:42.088745-04:00.jpg">
   <img src="https://archive.org/download/icijorg-2022/icijorg-2022-08-26T07:56:42.088745-04:00.jpg"
-     alt="ICIJ at 2022-08-26 07:56:43-04:00 local time"
+     alt="ICIJ at 2022-08-26 00:56:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-26T07:56:42.088745-04:00.jpg">August 26 at 7:56 AM</a></p>
+ <p><a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-26T07:56:42.088745-04:00.jpg">August 26 at 12:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-25T20:01:10.134272-04:00.jpg">
   <img src="https://archive.org/download/icijorg-2022/icijorg-2022-08-25T20:01:10.134272-04:00.jpg"
-     alt="ICIJ at 2022-08-25 20:01:15-04:00 local time"
+     alt="ICIJ at 2022-08-25 13:01:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-25T20:01:10.134272-04:00.jpg">August 25 at 8:01 PM</a></p>
+ <p><a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-25T20:01:10.134272-04:00.jpg">August 25 at 1:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-25T08:00:51.580591-04:00.jpg">
   <img src="https://archive.org/download/icijorg-2022/icijorg-2022-08-25T08:00:51.580591-04:00.jpg"
-     alt="ICIJ at 2022-08-25 08:00:53-04:00 local time"
+     alt="ICIJ at 2022-08-25 01:00:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-25T08:00:51.580591-04:00.jpg">August 25 at 8:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-24T19:54:03.346912-04:00.jpg">
-  <img src="https://archive.org/download/icijorg-2022/icijorg-2022-08-24T19:54:03.346912-04:00.jpg"
-     alt="ICIJ at 2022-08-24 19:54:10-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-24T19:54:03.346912-04:00.jpg">August 24 at 7:54 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-24T07:51:02.605530-04:00.jpg">
-  <img src="https://archive.org/download/icijorg-2022/icijorg-2022-08-24T07:51:02.605530-04:00.jpg"
-     alt="ICIJ at 2022-08-24 07:51:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-24T07:51:02.605530-04:00.jpg">August 24 at 7:51 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-23T19:42:24.002875-04:00.jpg">
-  <img src="https://archive.org/download/icijorg-2022/icijorg-2022-08-23T19:42:24.002875-04:00.jpg"
-     alt="ICIJ at 2022-08-23 19:42:28-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-23T19:42:24.002875-04:00.jpg">August 23 at 7:42 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-23T07:55:59.782714-04:00.jpg">
-  <img src="https://archive.org/download/icijorg-2022/icijorg-2022-08-23T07:55:59.782714-04:00.jpg"
-     alt="ICIJ at 2022-08-23 07:56:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-23T07:55:59.782714-04:00.jpg">August 23 at 7:56 AM</a></p>
+ <p><a href="https://archive.org/download/icijorg-2022/icijorg-2022-08-25T08:00:51.580591-04:00.jpg">August 25 at 1:00 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 181 hyperlink lists with the Internet Archive.
+The archiving routine has saved 185 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 7:47 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-28T19:47:04.480791-04:00.hyperlinks.json) |
-| [August 28 at 7:58 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-28T07:58:30.041084-04:00.hyperlinks.json) |
-| [August 27 at 7:48 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-27T19:48:28.201340-04:00.hyperlinks.json) |
-| [August 27 at 7:52 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-27T07:52:34.683195-04:00.hyperlinks.json) |
-| [August 26 at 7:43 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-26T19:43:12.228583-04:00.hyperlinks.json) |
-| [August 26 at 7:56 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-26T07:56:42.088745-04:00.hyperlinks.json) |
-| [August 25 at 8:01 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-25T20:01:10.134272-04:00.hyperlinks.json) |
-| [August 25 at 8:00 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-25T08:00:51.580591-04:00.hyperlinks.json) |
-| [August 24 at 7:54 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-24T19:54:03.346912-04:00.hyperlinks.json) |
-| [August 24 at 7:51 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-24T07:51:02.605530-04:00.hyperlinks.json) |
+| [August 30 at 12:59 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-30T19:59:34.002454-04:00.hyperlinks.json) |
+| [August 30 at 1:07 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-30T08:07:29.089969-04:00.hyperlinks.json) |
+| [August 29 at 12:50 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-29T19:49:59.901772-04:00.hyperlinks.json) |
+| [August 29 at 12:56 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-29T07:56:17.967490-04:00.hyperlinks.json) |
+| [August 28 at 12:47 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-28T19:47:04.480791-04:00.hyperlinks.json) |
+| [August 28 at 12:58 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-28T07:58:30.041084-04:00.hyperlinks.json) |
+| [August 27 at 12:48 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-27T19:48:28.201340-04:00.hyperlinks.json) |
+| [August 27 at 12:52 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-27T07:52:34.683195-04:00.hyperlinks.json) |
+| [August 26 at 12:43 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-26T19:43:12.228583-04:00.hyperlinks.json) |
+| [August 26 at 12:56 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-26T07:56:42.088745-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 181 accessibility trees with the Internet Archive.
+The archiving routine has saved 185 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 7:47 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-28T19:47:04.480791-04:00.accessibility.json) |
-| [August 28 at 7:58 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-28T07:58:30.041084-04:00.accessibility.json) |
-| [August 27 at 7:48 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-27T19:48:28.201340-04:00.accessibility.json) |
-| [August 27 at 7:52 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-27T07:52:34.683195-04:00.accessibility.json) |
-| [August 26 at 7:43 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-26T19:43:12.228583-04:00.accessibility.json) |
-| [August 26 at 7:56 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-26T07:56:42.088745-04:00.accessibility.json) |
-| [August 25 at 8:01 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-25T20:01:10.134272-04:00.accessibility.json) |
-| [August 25 at 8:00 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-25T08:00:51.580591-04:00.accessibility.json) |
-| [August 24 at 7:54 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-24T19:54:03.346912-04:00.accessibility.json) |
-| [August 24 at 7:51 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-24T07:51:02.605530-04:00.accessibility.json) |
+| [August 30 at 12:59 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-30T19:59:34.002454-04:00.accessibility.json) |
+| [August 30 at 1:07 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-30T08:07:29.089969-04:00.accessibility.json) |
+| [August 29 at 12:50 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-29T19:49:59.901772-04:00.accessibility.json) |
+| [August 29 at 12:56 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-29T07:56:17.967490-04:00.accessibility.json) |
+| [August 28 at 12:47 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-28T19:47:04.480791-04:00.accessibility.json) |
+| [August 28 at 12:58 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-28T07:58:30.041084-04:00.accessibility.json) |
+| [August 27 at 12:48 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-27T19:48:28.201340-04:00.accessibility.json) |
+| [August 27 at 12:52 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-27T07:52:34.683195-04:00.accessibility.json) |
+| [August 26 at 12:43 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-26T19:43:12.228583-04:00.accessibility.json) |
+| [August 26 at 12:56 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-26T07:56:42.088745-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 74 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 78 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 7:47 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-28T19:47:04.480791-04:00.lighthouse.json) |
-| [August 28 at 7:58 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-28T07:58:30.041084-04:00.lighthouse.json) |
-| [August 27 at 7:48 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-27T19:48:28.201340-04:00.lighthouse.json) |
-| [August 27 at 7:52 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-27T07:52:34.683195-04:00.lighthouse.json) |
-| [August 26 at 7:43 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-26T19:43:12.228583-04:00.lighthouse.json) |
-| [August 26 at 7:56 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-26T07:56:42.088745-04:00.lighthouse.json) |
-| [August 25 at 8:01 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-25T20:01:10.134272-04:00.lighthouse.json) |
-| [August 25 at 8:00 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-25T08:00:51.580591-04:00.lighthouse.json) |
-| [August 24 at 7:54 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-24T19:54:03.346912-04:00.lighthouse.json) |
-| [August 24 at 7:51 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-24T07:51:02.605530-04:00.lighthouse.json) |
+| [August 30 at 12:59 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-30T19:59:34.002454-04:00.lighthouse.json) |
+| [August 30 at 1:07 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-30T08:07:29.089969-04:00.lighthouse.json) |
+| [August 29 at 12:50 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-29T19:49:59.901772-04:00.lighthouse.json) |
+| [August 29 at 12:56 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-29T07:56:17.967490-04:00.lighthouse.json) |
+| [August 28 at 12:47 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-28T19:47:04.480791-04:00.lighthouse.json) |
+| [August 28 at 12:58 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-28T07:58:30.041084-04:00.lighthouse.json) |
+| [August 27 at 12:48 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-27T19:48:28.201340-04:00.lighthouse.json) |
+| [August 27 at 12:52 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-27T07:52:34.683195-04:00.lighthouse.json) |
+| [August 26 at 12:43 PM](https://archive.org/download/icijorg-2022/icijorg-2022-08-26T19:43:12.228583-04:00.lighthouse.json) |
+| [August 26 at 12:56 AM](https://archive.org/download/icijorg-2022/icijorg-2022-08-26T07:56:42.088745-04:00.lighthouse.json) |
 
 
 

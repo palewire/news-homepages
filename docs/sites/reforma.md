@@ -234,8 +234,91 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 31 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/reforma.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
@@ -243,180 +326,429 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/reforma-2022/reforma-2022-08-28T08:01:01.786766-05:00.jpg">
-  <img src="https://archive.org/download/reforma-2022/reforma-2022-08-28T08:01:01.786766-05:00.jpg"
-     alt="Reforma at 2022-08-28 08:01:04-05:00 local time"
+ <a href="https://archive.org/download/reforma-2022/reforma-2022-08-30T08:10:58.161312-05:00.jpg">
+  <img src="https://archive.org/download/reforma-2022/reforma-2022-08-30T08:10:58.161312-05:00.jpg"
+     alt="Reforma at 2022-08-30 01:11:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reforma-2022/reforma-2022-08-28T08:01:01.786766-05:00.jpg">August 28 at 8:01 AM</a></p>
+ <p><a href="https://archive.org/download/reforma-2022/reforma-2022-08-30T08:10:58.161312-05:00.jpg">August 30 at 1:11 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reforma-2022/reforma-2022-08-29T20:17:45.604564-05:00.jpg">
+  <img src="https://archive.org/download/reforma-2022/reforma-2022-08-29T20:17:45.604564-05:00.jpg"
+     alt="Reforma at 2022-08-29 13:17:46-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reforma-2022/reforma-2022-08-29T20:17:45.604564-05:00.jpg">August 29 at 1:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reforma-2022/reforma-2022-08-29T08:01:20.645095-05:00.jpg">
+  <img src="https://archive.org/download/reforma-2022/reforma-2022-08-29T08:01:20.645095-05:00.jpg"
+     alt="Reforma at 2022-08-29 01:01:23-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reforma-2022/reforma-2022-08-29T08:01:20.645095-05:00.jpg">August 29 at 1:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reforma-2022/reforma-2022-08-28T20:16:10.781185-05:00.jpg">
+  <img src="https://archive.org/download/reforma-2022/reforma-2022-08-28T20:16:10.781185-05:00.jpg"
+     alt="Reforma at 2022-08-28 13:16:12-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reforma-2022/reforma-2022-08-28T20:16:10.781185-05:00.jpg">August 28 at 1:16 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reforma-2022/reforma-2022-08-28T08:01:01.786766-05:00.jpg">
+  <img src="https://archive.org/download/reforma-2022/reforma-2022-08-28T08:01:01.786766-05:00.jpg"
+     alt="Reforma at 2022-08-28 01:01:04-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reforma-2022/reforma-2022-08-28T08:01:01.786766-05:00.jpg">August 28 at 1:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reforma-2022/reforma-2022-08-27T20:28:36.357096-05:00.jpg">
   <img src="https://archive.org/download/reforma-2022/reforma-2022-08-27T20:28:36.357096-05:00.jpg"
-     alt="Reforma at 2022-08-27 20:28:38-05:00 local time"
+     alt="Reforma at 2022-08-27 13:28:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reforma-2022/reforma-2022-08-27T20:28:36.357096-05:00.jpg">August 27 at 8:28 PM</a></p>
+ <p><a href="https://archive.org/download/reforma-2022/reforma-2022-08-27T20:28:36.357096-05:00.jpg">August 27 at 1:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reforma-2022/reforma-2022-08-27T07:57:02.388371-05:00.jpg">
   <img src="https://archive.org/download/reforma-2022/reforma-2022-08-27T07:57:02.388371-05:00.jpg"
-     alt="Reforma at 2022-08-27 07:57:07-05:00 local time"
+     alt="Reforma at 2022-08-27 00:57:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reforma-2022/reforma-2022-08-27T07:57:02.388371-05:00.jpg">August 27 at 7:57 AM</a></p>
+ <p><a href="https://archive.org/download/reforma-2022/reforma-2022-08-27T07:57:02.388371-05:00.jpg">August 27 at 12:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reforma-2022/reforma-2022-08-26T20:06:18.986982-05:00.jpg">
   <img src="https://archive.org/download/reforma-2022/reforma-2022-08-26T20:06:18.986982-05:00.jpg"
-     alt="Reforma at 2022-08-26 20:06:20-05:00 local time"
+     alt="Reforma at 2022-08-26 13:06:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reforma-2022/reforma-2022-08-26T20:06:18.986982-05:00.jpg">August 26 at 8:06 PM</a></p>
+ <p><a href="https://archive.org/download/reforma-2022/reforma-2022-08-26T20:06:18.986982-05:00.jpg">August 26 at 1:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reforma-2022/reforma-2022-08-26T08:00:56.362226-05:00.jpg">
   <img src="https://archive.org/download/reforma-2022/reforma-2022-08-26T08:00:56.362226-05:00.jpg"
-     alt="Reforma at 2022-08-26 08:00:59-05:00 local time"
+     alt="Reforma at 2022-08-26 01:00:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reforma-2022/reforma-2022-08-26T08:00:56.362226-05:00.jpg">August 26 at 8:00 AM</a></p>
+ <p><a href="https://archive.org/download/reforma-2022/reforma-2022-08-26T08:00:56.362226-05:00.jpg">August 26 at 1:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reforma-2022/reforma-2022-08-25T20:15:42.649252-05:00.jpg">
   <img src="https://archive.org/download/reforma-2022/reforma-2022-08-25T20:15:42.649252-05:00.jpg"
-     alt="Reforma at 2022-08-25 20:15:44-05:00 local time"
+     alt="Reforma at 2022-08-25 13:15:44-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reforma-2022/reforma-2022-08-25T20:15:42.649252-05:00.jpg">August 25 at 8:15 PM</a></p>
+ <p><a href="https://archive.org/download/reforma-2022/reforma-2022-08-25T20:15:42.649252-05:00.jpg">August 25 at 1:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reforma-2022/reforma-2022-08-25T08:04:50.404286-05:00.jpg">
   <img src="https://archive.org/download/reforma-2022/reforma-2022-08-25T08:04:50.404286-05:00.jpg"
-     alt="Reforma at 2022-08-25 08:04:53-05:00 local time"
+     alt="Reforma at 2022-08-25 01:04:53-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reforma-2022/reforma-2022-08-25T08:04:50.404286-05:00.jpg">August 25 at 8:04 AM</a></p>
+ <p><a href="https://archive.org/download/reforma-2022/reforma-2022-08-25T08:04:50.404286-05:00.jpg">August 25 at 1:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reforma-2022/reforma-2022-08-24T07:56:42.541608-05:00.jpg">
   <img src="https://archive.org/download/reforma-2022/reforma-2022-08-24T07:56:42.541608-05:00.jpg"
-     alt="Reforma at 2022-08-24 07:56:46-05:00 local time"
+     alt="Reforma at 2022-08-24 00:56:46-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reforma-2022/reforma-2022-08-24T07:56:42.541608-05:00.jpg">August 24 at 7:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/reforma-2022/reforma-2022-08-23T20:09:41.839050-05:00.jpg">
-  <img src="https://archive.org/download/reforma-2022/reforma-2022-08-23T20:09:41.839050-05:00.jpg"
-     alt="Reforma at 2022-08-23 20:09:43-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reforma-2022/reforma-2022-08-23T20:09:41.839050-05:00.jpg">August 23 at 8:09 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/reforma-2022/reforma-2022-08-23T07:56:15.606067-05:00.jpg">
-  <img src="https://archive.org/download/reforma-2022/reforma-2022-08-23T07:56:15.606067-05:00.jpg"
-     alt="Reforma at 2022-08-23 07:56:17-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reforma-2022/reforma-2022-08-23T07:56:15.606067-05:00.jpg">August 23 at 7:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/reforma-2022/reforma-2022-08-23T07:03:08.599507-05:00.jpg">
-  <img src="https://archive.org/download/reforma-2022/reforma-2022-08-23T07:03:08.599507-05:00.jpg"
-     alt="Reforma at 2022-08-23 07:03:11-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reforma-2022/reforma-2022-08-23T07:03:08.599507-05:00.jpg">August 23 at 7:03 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/reforma-2022/reforma-2022-08-22T19:04:36.651461-05:00.jpg">
-  <img src="https://archive.org/download/reforma-2022/reforma-2022-08-22T19:04:36.651461-05:00.jpg"
-     alt="Reforma at 2022-08-22 19:04:39-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reforma-2022/reforma-2022-08-22T19:04:36.651461-05:00.jpg">August 22 at 7:04 PM</a></p>
+ <p><a href="https://archive.org/download/reforma-2022/reforma-2022-08-24T07:56:42.541608-05:00.jpg">August 24 at 12:56 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 27 hyperlink lists with the Internet Archive.
+The archiving routine has saved 31 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/reforma.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 8:01 AM](https://archive.org/download/reforma-2022/reforma-2022-08-28T08:01:01.786766-05:00.hyperlinks.json) |
-| [August 27 at 8:28 PM](https://archive.org/download/reforma-2022/reforma-2022-08-27T20:28:36.357096-05:00.hyperlinks.json) |
-| [August 27 at 7:57 AM](https://archive.org/download/reforma-2022/reforma-2022-08-27T07:57:02.388371-05:00.hyperlinks.json) |
-| [August 26 at 8:06 PM](https://archive.org/download/reforma-2022/reforma-2022-08-26T20:06:18.986982-05:00.hyperlinks.json) |
-| [August 26 at 8:01 AM](https://archive.org/download/reforma-2022/reforma-2022-08-26T08:00:56.362226-05:00.hyperlinks.json) |
-| [August 25 at 8:15 PM](https://archive.org/download/reforma-2022/reforma-2022-08-25T20:15:42.649252-05:00.hyperlinks.json) |
-| [August 25 at 8:04 AM](https://archive.org/download/reforma-2022/reforma-2022-08-25T08:04:50.404286-05:00.hyperlinks.json) |
-| [August 24 at 7:56 AM](https://archive.org/download/reforma-2022/reforma-2022-08-24T07:56:42.541608-05:00.hyperlinks.json) |
-| [August 23 at 8:09 PM](https://archive.org/download/reforma-2022/reforma-2022-08-23T20:09:41.839050-05:00.hyperlinks.json) |
-| [August 23 at 7:56 AM](https://archive.org/download/reforma-2022/reforma-2022-08-23T07:56:15.606067-05:00.hyperlinks.json) |
+| [August 30 at 1:11 AM](https://archive.org/download/reforma-2022/reforma-2022-08-30T08:10:58.161312-05:00.hyperlinks.json) |
+| [August 29 at 1:17 PM](https://archive.org/download/reforma-2022/reforma-2022-08-29T20:17:45.604564-05:00.hyperlinks.json) |
+| [August 29 at 1:01 AM](https://archive.org/download/reforma-2022/reforma-2022-08-29T08:01:20.645095-05:00.hyperlinks.json) |
+| [August 28 at 1:16 PM](https://archive.org/download/reforma-2022/reforma-2022-08-28T20:16:10.781185-05:00.hyperlinks.json) |
+| [August 28 at 1:01 AM](https://archive.org/download/reforma-2022/reforma-2022-08-28T08:01:01.786766-05:00.hyperlinks.json) |
+| [August 27 at 1:28 PM](https://archive.org/download/reforma-2022/reforma-2022-08-27T20:28:36.357096-05:00.hyperlinks.json) |
+| [August 27 at 12:57 AM](https://archive.org/download/reforma-2022/reforma-2022-08-27T07:57:02.388371-05:00.hyperlinks.json) |
+| [August 26 at 1:06 PM](https://archive.org/download/reforma-2022/reforma-2022-08-26T20:06:18.986982-05:00.hyperlinks.json) |
+| [August 26 at 1:01 AM](https://archive.org/download/reforma-2022/reforma-2022-08-26T08:00:56.362226-05:00.hyperlinks.json) |
+| [August 25 at 1:15 PM](https://archive.org/download/reforma-2022/reforma-2022-08-25T20:15:42.649252-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 27 accessibility trees with the Internet Archive.
+The archiving routine has saved 31 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/reforma.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 8:01 AM](https://archive.org/download/reforma-2022/reforma-2022-08-28T08:01:01.786766-05:00.accessibility.json) |
-| [August 27 at 8:28 PM](https://archive.org/download/reforma-2022/reforma-2022-08-27T20:28:36.357096-05:00.accessibility.json) |
-| [August 27 at 7:57 AM](https://archive.org/download/reforma-2022/reforma-2022-08-27T07:57:02.388371-05:00.accessibility.json) |
-| [August 26 at 8:06 PM](https://archive.org/download/reforma-2022/reforma-2022-08-26T20:06:18.986982-05:00.accessibility.json) |
-| [August 26 at 8:01 AM](https://archive.org/download/reforma-2022/reforma-2022-08-26T08:00:56.362226-05:00.accessibility.json) |
-| [August 25 at 8:15 PM](https://archive.org/download/reforma-2022/reforma-2022-08-25T20:15:42.649252-05:00.accessibility.json) |
-| [August 25 at 8:04 AM](https://archive.org/download/reforma-2022/reforma-2022-08-25T08:04:50.404286-05:00.accessibility.json) |
-| [August 24 at 7:56 AM](https://archive.org/download/reforma-2022/reforma-2022-08-24T07:56:42.541608-05:00.accessibility.json) |
-| [August 23 at 8:09 PM](https://archive.org/download/reforma-2022/reforma-2022-08-23T20:09:41.839050-05:00.accessibility.json) |
-| [August 23 at 7:56 AM](https://archive.org/download/reforma-2022/reforma-2022-08-23T07:56:15.606067-05:00.accessibility.json) |
+| [August 30 at 1:11 AM](https://archive.org/download/reforma-2022/reforma-2022-08-30T08:10:58.161312-05:00.accessibility.json) |
+| [August 29 at 1:17 PM](https://archive.org/download/reforma-2022/reforma-2022-08-29T20:17:45.604564-05:00.accessibility.json) |
+| [August 29 at 1:01 AM](https://archive.org/download/reforma-2022/reforma-2022-08-29T08:01:20.645095-05:00.accessibility.json) |
+| [August 28 at 1:16 PM](https://archive.org/download/reforma-2022/reforma-2022-08-28T20:16:10.781185-05:00.accessibility.json) |
+| [August 28 at 1:01 AM](https://archive.org/download/reforma-2022/reforma-2022-08-28T08:01:01.786766-05:00.accessibility.json) |
+| [August 27 at 1:28 PM](https://archive.org/download/reforma-2022/reforma-2022-08-27T20:28:36.357096-05:00.accessibility.json) |
+| [August 27 at 12:57 AM](https://archive.org/download/reforma-2022/reforma-2022-08-27T07:57:02.388371-05:00.accessibility.json) |
+| [August 26 at 1:06 PM](https://archive.org/download/reforma-2022/reforma-2022-08-26T20:06:18.986982-05:00.accessibility.json) |
+| [August 26 at 1:01 AM](https://archive.org/download/reforma-2022/reforma-2022-08-26T08:00:56.362226-05:00.accessibility.json) |
+| [August 25 at 1:15 PM](https://archive.org/download/reforma-2022/reforma-2022-08-25T20:15:42.649252-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/reforma.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 8:01 AM](https://archive.org/download/reforma-2022/reforma-2022-08-28T08:01:01.786766-05:00.lighthouse.json) |
-| [August 27 at 8:28 PM](https://archive.org/download/reforma-2022/reforma-2022-08-27T20:28:36.357096-05:00.lighthouse.json) |
-| [August 27 at 7:57 AM](https://archive.org/download/reforma-2022/reforma-2022-08-27T07:57:02.388371-05:00.lighthouse.json) |
-| [August 26 at 8:06 PM](https://archive.org/download/reforma-2022/reforma-2022-08-26T20:06:18.986982-05:00.lighthouse.json) |
-| [August 26 at 8:01 AM](https://archive.org/download/reforma-2022/reforma-2022-08-26T08:00:56.362226-05:00.lighthouse.json) |
-| [August 25 at 8:15 PM](https://archive.org/download/reforma-2022/reforma-2022-08-25T20:15:42.649252-05:00.lighthouse.json) |
-| [August 25 at 8:04 AM](https://archive.org/download/reforma-2022/reforma-2022-08-25T08:04:50.404286-05:00.lighthouse.json) |
-| [August 24 at 7:56 AM](https://archive.org/download/reforma-2022/reforma-2022-08-24T07:56:42.541608-05:00.lighthouse.json) |
-| [August 23 at 8:09 PM](https://archive.org/download/reforma-2022/reforma-2022-08-23T20:09:41.839050-05:00.lighthouse.json) |
-| [August 23 at 7:56 AM](https://archive.org/download/reforma-2022/reforma-2022-08-23T07:56:15.606067-05:00.lighthouse.json) |
+| [August 30 at 1:11 AM](https://archive.org/download/reforma-2022/reforma-2022-08-30T08:10:58.161312-05:00.lighthouse.json) |
+| [August 29 at 1:17 PM](https://archive.org/download/reforma-2022/reforma-2022-08-29T20:17:45.604564-05:00.lighthouse.json) |
+| [August 29 at 1:01 AM](https://archive.org/download/reforma-2022/reforma-2022-08-29T08:01:20.645095-05:00.lighthouse.json) |
+| [August 28 at 1:16 PM](https://archive.org/download/reforma-2022/reforma-2022-08-28T20:16:10.781185-05:00.lighthouse.json) |
+| [August 28 at 1:01 AM](https://archive.org/download/reforma-2022/reforma-2022-08-28T08:01:01.786766-05:00.lighthouse.json) |
+| [August 27 at 1:28 PM](https://archive.org/download/reforma-2022/reforma-2022-08-27T20:28:36.357096-05:00.lighthouse.json) |
+| [August 27 at 12:57 AM](https://archive.org/download/reforma-2022/reforma-2022-08-27T07:57:02.388371-05:00.lighthouse.json) |
+| [August 26 at 1:06 PM](https://archive.org/download/reforma-2022/reforma-2022-08-26T20:06:18.986982-05:00.lighthouse.json) |
+| [August 26 at 1:01 AM](https://archive.org/download/reforma-2022/reforma-2022-08-26T08:00:56.362226-05:00.lighthouse.json) |
+| [August 25 at 1:15 PM](https://archive.org/download/reforma-2022/reforma-2022-08-25T20:15:42.649252-05:00.lighthouse.json) |
 
 
 

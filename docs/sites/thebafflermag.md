@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 124 screenshots with the Internet Archive.
+The archiving routine has saved 130 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T14:28:51.981135-04:00.jpg">
-  <img src="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T14:28:51.981135-04:00.jpg"
-     alt="Baffler at 2022-08-28 14:28:55-04:00 local time"
+ <a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-30T14:35:34.210422-04:00.jpg">
+  <img src="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-30T14:35:34.210422-04:00.jpg"
+     alt="Baffler at 2022-08-30 07:35:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T14:28:51.981135-04:00.jpg">August 28 at 2:28 PM</a></p>
+ <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-30T14:35:34.210422-04:00.jpg">August 30 at 7:35 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-30T12:38:15.787114-04:00.jpg">
+  <img src="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-30T12:38:15.787114-04:00.jpg"
+     alt="Baffler at 2022-08-30 05:38:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-30T12:38:15.787114-04:00.jpg">August 30 at 5:38 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-30T00:58:40.169210-04:00.jpg">
+  <img src="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-30T00:58:40.169210-04:00.jpg"
+     alt="Baffler at 2022-08-29 17:58:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-30T00:58:40.169210-04:00.jpg">August 29 at 5:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-29T14:29:47.253272-04:00.jpg">
+  <img src="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-29T14:29:47.253272-04:00.jpg"
+     alt="Baffler at 2022-08-29 07:29:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-29T14:29:47.253272-04:00.jpg">August 29 at 7:29 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-29T12:18:31.476765-04:00.jpg">
+  <img src="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-29T12:18:31.476765-04:00.jpg"
+     alt="Baffler at 2022-08-29 05:18:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-29T12:18:31.476765-04:00.jpg">August 29 at 5:18 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-29T00:41:41.934641-04:00.jpg">
+  <img src="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-29T00:41:41.934641-04:00.jpg"
+     alt="Baffler at 2022-08-28 17:41:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-29T00:41:41.934641-04:00.jpg">August 28 at 5:41 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T14:28:51.981135-04:00.jpg">
+  <img src="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T14:28:51.981135-04:00.jpg"
+     alt="Baffler at 2022-08-28 07:28:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T14:28:51.981135-04:00.jpg">August 28 at 7:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T12:03:38.544856-04:00.jpg">
   <img src="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T12:03:38.544856-04:00.jpg"
-     alt="Baffler at 2022-08-28 12:03:40-04:00 local time"
+     alt="Baffler at 2022-08-28 05:03:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T12:03:38.544856-04:00.jpg">August 28 at 12:03 PM</a></p>
+ <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T12:03:38.544856-04:00.jpg">August 28 at 5:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T00:38:20.114597-04:00.jpg">
   <img src="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T00:38:20.114597-04:00.jpg"
-     alt="Baffler at 2022-08-28 00:38:21-04:00 local time"
+     alt="Baffler at 2022-08-27 17:38:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T00:38:20.114597-04:00.jpg">August 28 at 12:38 AM</a></p>
+ <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T00:38:20.114597-04:00.jpg">August 27 at 5:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-27T14:29:26.820166-04:00.jpg">
   <img src="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-27T14:29:26.820166-04:00.jpg"
-     alt="Baffler at 2022-08-27 14:29:28-04:00 local time"
+     alt="Baffler at 2022-08-27 07:29:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-27T14:29:26.820166-04:00.jpg">August 27 at 2:29 PM</a></p>
+ <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-27T14:29:26.820166-04:00.jpg">August 27 at 7:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-27T12:00:26.092604-04:00.jpg">
   <img src="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-27T12:00:26.092604-04:00.jpg"
-     alt="Baffler at 2022-08-27 12:00:28-04:00 local time"
+     alt="Baffler at 2022-08-27 05:00:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-27T12:00:26.092604-04:00.jpg">August 27 at 12:00 PM</a></p>
+ <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-27T12:00:26.092604-04:00.jpg">August 27 at 5:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-27T00:38:40.348567-04:00.jpg">
   <img src="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-27T00:38:40.348567-04:00.jpg"
-     alt="Baffler at 2022-08-27 00:38:41-04:00 local time"
+     alt="Baffler at 2022-08-26 17:38:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-27T00:38:40.348567-04:00.jpg">August 27 at 12:38 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-26T14:23:07.178230-04:00.jpg">
-  <img src="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-26T14:23:07.178230-04:00.jpg"
-     alt="Baffler at 2022-08-26 14:23:09-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-26T14:23:07.178230-04:00.jpg">August 26 at 2:23 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-26T12:07:01.210025-04:00.jpg">
-  <img src="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-26T12:07:01.210025-04:00.jpg"
-     alt="Baffler at 2022-08-26 12:07:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-26T12:07:01.210025-04:00.jpg">August 26 at 12:07 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-26T00:43:01.614978-04:00.jpg">
-  <img src="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-26T00:43:01.614978-04:00.jpg"
-     alt="Baffler at 2022-08-26 00:43:03-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-26T00:43:01.614978-04:00.jpg">August 26 at 12:43 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-25T14:27:38.281460-04:00.jpg">
-  <img src="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-25T14:27:38.281460-04:00.jpg"
-     alt="Baffler at 2022-08-25 14:27:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-25T14:27:38.281460-04:00.jpg">August 25 at 2:27 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-25T12:04:34.006269-04:00.jpg">
-  <img src="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-25T12:04:34.006269-04:00.jpg"
-     alt="Baffler at 2022-08-25 12:04:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-25T12:04:34.006269-04:00.jpg">August 25 at 12:04 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-24T14:38:39.528846-04:00.jpg">
-  <img src="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-24T14:38:39.528846-04:00.jpg"
-     alt="Baffler at 2022-08-24 14:38:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-24T14:38:39.528846-04:00.jpg">August 24 at 2:38 PM</a></p>
+ <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-27T00:38:40.348567-04:00.jpg">August 26 at 5:38 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 124 hyperlink lists with the Internet Archive.
+The archiving routine has saved 130 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 2:28 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T14:28:51.981135-04:00.hyperlinks.json) |
-| [August 28 at 12:03 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T12:03:38.544856-04:00.hyperlinks.json) |
-| [August 28 at 12:38 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T00:38:20.114597-04:00.hyperlinks.json) |
-| [August 27 at 2:29 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-27T14:29:26.820166-04:00.hyperlinks.json) |
-| [August 27 at 12:00 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-27T12:00:26.092604-04:00.hyperlinks.json) |
-| [August 27 at 12:38 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-27T00:38:40.348567-04:00.hyperlinks.json) |
-| [August 26 at 2:23 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-26T14:23:07.178230-04:00.hyperlinks.json) |
-| [August 26 at 12:07 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-26T12:07:01.210025-04:00.hyperlinks.json) |
-| [August 26 at 12:43 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-26T00:43:01.614978-04:00.hyperlinks.json) |
-| [August 25 at 2:27 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-25T14:27:38.281460-04:00.hyperlinks.json) |
+| [August 30 at 7:35 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-30T14:35:34.210422-04:00.hyperlinks.json) |
+| [August 30 at 5:38 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-30T12:38:15.787114-04:00.hyperlinks.json) |
+| [August 29 at 5:58 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-30T00:58:40.169210-04:00.hyperlinks.json) |
+| [August 29 at 7:29 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-29T14:29:47.253272-04:00.hyperlinks.json) |
+| [August 29 at 5:18 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-29T12:18:31.476765-04:00.hyperlinks.json) |
+| [August 28 at 5:41 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-29T00:41:41.934641-04:00.hyperlinks.json) |
+| [August 28 at 7:28 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T14:28:51.981135-04:00.hyperlinks.json) |
+| [August 28 at 5:03 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T12:03:38.544856-04:00.hyperlinks.json) |
+| [August 27 at 5:38 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T00:38:20.114597-04:00.hyperlinks.json) |
+| [August 27 at 7:29 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-27T14:29:26.820166-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 124 accessibility trees with the Internet Archive.
+The archiving routine has saved 130 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 2:28 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T14:28:51.981135-04:00.accessibility.json) |
-| [August 28 at 12:03 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T12:03:38.544856-04:00.accessibility.json) |
-| [August 28 at 12:38 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T00:38:20.114597-04:00.accessibility.json) |
-| [August 27 at 2:29 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-27T14:29:26.820166-04:00.accessibility.json) |
-| [August 27 at 12:00 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-27T12:00:26.092604-04:00.accessibility.json) |
-| [August 27 at 12:38 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-27T00:38:40.348567-04:00.accessibility.json) |
-| [August 26 at 2:23 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-26T14:23:07.178230-04:00.accessibility.json) |
-| [August 26 at 12:07 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-26T12:07:01.210025-04:00.accessibility.json) |
-| [August 26 at 12:43 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-26T00:43:01.614978-04:00.accessibility.json) |
-| [August 25 at 2:27 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-25T14:27:38.281460-04:00.accessibility.json) |
+| [August 30 at 7:35 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-30T14:35:34.210422-04:00.accessibility.json) |
+| [August 30 at 5:38 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-30T12:38:15.787114-04:00.accessibility.json) |
+| [August 29 at 5:58 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-30T00:58:40.169210-04:00.accessibility.json) |
+| [August 29 at 7:29 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-29T14:29:47.253272-04:00.accessibility.json) |
+| [August 29 at 5:18 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-29T12:18:31.476765-04:00.accessibility.json) |
+| [August 28 at 5:41 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-29T00:41:41.934641-04:00.accessibility.json) |
+| [August 28 at 7:28 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T14:28:51.981135-04:00.accessibility.json) |
+| [August 28 at 5:03 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T12:03:38.544856-04:00.accessibility.json) |
+| [August 27 at 5:38 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T00:38:20.114597-04:00.accessibility.json) |
+| [August 27 at 7:29 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-27T14:29:26.820166-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 107 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 113 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 2:29 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T14:28:51.981135-04:00.lighthouse.json) |
-| [August 28 at 12:03 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T12:03:38.544856-04:00.lighthouse.json) |
-| [August 28 at 12:38 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T00:38:20.114597-04:00.lighthouse.json) |
-| [August 27 at 2:29 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-27T14:29:26.820166-04:00.lighthouse.json) |
-| [August 27 at 12:00 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-27T12:00:26.092604-04:00.lighthouse.json) |
-| [August 27 at 12:38 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-27T00:38:40.348567-04:00.lighthouse.json) |
-| [August 26 at 2:23 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-26T14:23:07.178230-04:00.lighthouse.json) |
-| [August 26 at 12:07 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-26T12:07:01.210025-04:00.lighthouse.json) |
-| [August 26 at 12:43 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-26T00:43:01.614978-04:00.lighthouse.json) |
-| [August 25 at 2:27 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-25T14:27:38.281460-04:00.lighthouse.json) |
+| [August 30 at 7:35 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-30T14:35:34.210422-04:00.lighthouse.json) |
+| [August 30 at 5:38 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-30T12:38:15.787114-04:00.lighthouse.json) |
+| [August 29 at 5:58 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-30T00:58:40.169210-04:00.lighthouse.json) |
+| [August 29 at 7:29 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-29T14:29:47.253272-04:00.lighthouse.json) |
+| [August 29 at 5:18 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-29T12:18:31.476765-04:00.lighthouse.json) |
+| [August 28 at 5:41 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-29T00:41:41.934641-04:00.lighthouse.json) |
+| [August 28 at 7:29 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T14:28:51.981135-04:00.lighthouse.json) |
+| [August 28 at 5:03 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T12:03:38.544856-04:00.lighthouse.json) |
+| [August 27 at 5:38 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-28T00:38:20.114597-04:00.lighthouse.json) |
+| [August 27 at 7:29 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-27T14:29:26.820166-04:00.lighthouse.json) |
 
 
 

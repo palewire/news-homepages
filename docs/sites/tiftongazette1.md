@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 80 screenshots with the Internet Archive.
+The archiving routine has saved 84 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-28T09:05:14.548479-04:00.jpg">
-  <img src="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-28T09:05:14.548479-04:00.jpg"
-     alt="Tifton Gazette at 2022-08-28 09:05:18-04:00 local time"
+ <a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-30T09:15:19.775093-04:00.jpg">
+  <img src="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-30T09:15:19.775093-04:00.jpg"
+     alt="Tifton Gazette at 2022-08-30 02:15:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-28T09:05:14.548479-04:00.jpg">August 28 at 9:05 AM</a></p>
+ <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-30T09:15:19.775093-04:00.jpg">August 30 at 2:15 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-29T21:20:34.525043-04:00.jpg">
+  <img src="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-29T21:20:34.525043-04:00.jpg"
+     alt="Tifton Gazette at 2022-08-29 14:20:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-29T21:20:34.525043-04:00.jpg">August 29 at 2:20 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-29T09:04:20.364179-04:00.jpg">
+  <img src="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-29T09:04:20.364179-04:00.jpg"
+     alt="Tifton Gazette at 2022-08-29 02:04:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-29T09:04:20.364179-04:00.jpg">August 29 at 2:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-28T21:20:22.422390-04:00.jpg">
+  <img src="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-28T21:20:22.422390-04:00.jpg"
+     alt="Tifton Gazette at 2022-08-28 14:20:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-28T21:20:22.422390-04:00.jpg">August 28 at 2:20 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-28T09:05:14.548479-04:00.jpg">
+  <img src="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-28T09:05:14.548479-04:00.jpg"
+     alt="Tifton Gazette at 2022-08-28 02:05:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-28T09:05:14.548479-04:00.jpg">August 28 at 2:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-27T21:32:16.029394-04:00.jpg">
   <img src="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-27T21:32:16.029394-04:00.jpg"
-     alt="Tifton Gazette at 2022-08-27 21:32:17-04:00 local time"
+     alt="Tifton Gazette at 2022-08-27 14:32:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-27T21:32:16.029394-04:00.jpg">August 27 at 9:32 PM</a></p>
+ <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-27T21:32:16.029394-04:00.jpg">August 27 at 2:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-27T08:59:57.865795-04:00.jpg">
   <img src="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-27T08:59:57.865795-04:00.jpg"
-     alt="Tifton Gazette at 2022-08-27 09:00:03-04:00 local time"
+     alt="Tifton Gazette at 2022-08-27 02:00:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-27T08:59:57.865795-04:00.jpg">August 27 at 9:00 AM</a></p>
+ <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-27T08:59:57.865795-04:00.jpg">August 27 at 2:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-26T21:11:14.786866-04:00.jpg">
   <img src="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-26T21:11:14.786866-04:00.jpg"
-     alt="Tifton Gazette at 2022-08-26 21:11:16-04:00 local time"
+     alt="Tifton Gazette at 2022-08-26 14:11:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-26T21:11:14.786866-04:00.jpg">August 26 at 9:11 PM</a></p>
+ <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-26T21:11:14.786866-04:00.jpg">August 26 at 2:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-26T09:04:39.889629-04:00.jpg">
   <img src="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-26T09:04:39.889629-04:00.jpg"
-     alt="Tifton Gazette at 2022-08-26 09:04:49-04:00 local time"
+     alt="Tifton Gazette at 2022-08-26 02:04:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-26T09:04:39.889629-04:00.jpg">August 26 at 9:04 AM</a></p>
+ <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-26T09:04:39.889629-04:00.jpg">August 26 at 2:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-25T21:19:13.098158-04:00.jpg">
   <img src="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-25T21:19:13.098158-04:00.jpg"
-     alt="Tifton Gazette at 2022-08-25 21:19:14-04:00 local time"
+     alt="Tifton Gazette at 2022-08-25 14:19:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-25T21:19:13.098158-04:00.jpg">August 25 at 9:19 PM</a></p>
+ <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-25T21:19:13.098158-04:00.jpg">August 25 at 2:19 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-25T09:07:05.624733-04:00.jpg">
   <img src="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-25T09:07:05.624733-04:00.jpg"
-     alt="Tifton Gazette at 2022-08-25 09:07:09-04:00 local time"
+     alt="Tifton Gazette at 2022-08-25 02:07:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-25T09:07:05.624733-04:00.jpg">August 25 at 9:07 AM</a></p>
+ <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-25T09:07:05.624733-04:00.jpg">August 25 at 2:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-24T08:59:56.844243-04:00.jpg">
   <img src="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-24T08:59:56.844243-04:00.jpg"
-     alt="Tifton Gazette at 2022-08-24 09:00:00-04:00 local time"
+     alt="Tifton Gazette at 2022-08-24 02:00:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-24T08:59:56.844243-04:00.jpg">August 24 at 9:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-23T21:11:39.999278-04:00.jpg">
-  <img src="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-23T21:11:39.999278-04:00.jpg"
-     alt="Tifton Gazette at 2022-08-23 21:11:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-23T21:11:39.999278-04:00.jpg">August 23 at 9:11 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-23T08:59:41.617532-04:00.jpg">
-  <img src="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-23T08:59:41.617532-04:00.jpg"
-     alt="Tifton Gazette at 2022-08-23 08:59:43-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-23T08:59:41.617532-04:00.jpg">August 23 at 8:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-22T21:26:10.804101-04:00.jpg">
-  <img src="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-22T21:26:10.804101-04:00.jpg"
-     alt="Tifton Gazette at 2022-08-22 21:26:12-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-22T21:26:10.804101-04:00.jpg">August 22 at 9:26 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-22T09:06:48.992228-04:00.jpg">
-  <img src="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-22T09:06:48.992228-04:00.jpg"
-     alt="Tifton Gazette at 2022-08-22 09:06:50-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-22T09:06:48.992228-04:00.jpg">August 22 at 9:06 AM</a></p>
+ <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-24T08:59:56.844243-04:00.jpg">August 24 at 2:00 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 54 hyperlink lists with the Internet Archive.
+The archiving routine has saved 58 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 9:05 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-28T09:05:14.548479-04:00.hyperlinks.json) |
-| [August 27 at 9:32 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-27T21:32:16.029394-04:00.hyperlinks.json) |
-| [August 27 at 9:00 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-27T08:59:57.865795-04:00.hyperlinks.json) |
-| [August 26 at 9:11 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-26T21:11:14.786866-04:00.hyperlinks.json) |
-| [August 26 at 9:04 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-26T09:04:39.889629-04:00.hyperlinks.json) |
-| [August 25 at 9:19 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-25T21:19:13.098158-04:00.hyperlinks.json) |
-| [August 25 at 9:07 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-25T09:07:05.624733-04:00.hyperlinks.json) |
-| [August 24 at 9:00 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-24T08:59:56.844243-04:00.hyperlinks.json) |
-| [August 23 at 8:59 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-23T08:59:41.617532-04:00.hyperlinks.json) |
-| [August 21 at 9:18 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-21T21:18:08.000130-04:00.hyperlinks.json) |
+| [August 30 at 2:15 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-30T09:15:19.775093-04:00.hyperlinks.json) |
+| [August 29 at 2:20 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-29T21:20:34.525043-04:00.hyperlinks.json) |
+| [August 29 at 2:04 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-29T09:04:20.364179-04:00.hyperlinks.json) |
+| [August 28 at 2:20 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-28T21:20:22.422390-04:00.hyperlinks.json) |
+| [August 28 at 2:05 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-28T09:05:14.548479-04:00.hyperlinks.json) |
+| [August 27 at 2:32 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-27T21:32:16.029394-04:00.hyperlinks.json) |
+| [August 27 at 2:00 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-27T08:59:57.865795-04:00.hyperlinks.json) |
+| [August 26 at 2:11 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-26T21:11:14.786866-04:00.hyperlinks.json) |
+| [August 26 at 2:04 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-26T09:04:39.889629-04:00.hyperlinks.json) |
+| [August 25 at 2:19 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-25T21:19:13.098158-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 61 accessibility trees with the Internet Archive.
+The archiving routine has saved 65 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 9:05 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-28T09:05:14.548479-04:00.accessibility.json) |
-| [August 27 at 9:32 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-27T21:32:16.029394-04:00.accessibility.json) |
-| [August 27 at 9:00 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-27T08:59:57.865795-04:00.accessibility.json) |
-| [August 26 at 9:11 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-26T21:11:14.786866-04:00.accessibility.json) |
-| [August 26 at 9:04 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-26T09:04:39.889629-04:00.accessibility.json) |
-| [August 25 at 9:19 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-25T21:19:13.098158-04:00.accessibility.json) |
-| [August 25 at 9:07 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-25T09:07:05.624733-04:00.accessibility.json) |
-| [August 23 at 9:11 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-23T21:11:39.999278-04:00.accessibility.json) |
-| [August 22 at 9:06 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-22T09:06:48.992228-04:00.accessibility.json) |
-| [August 21 at 9:18 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-21T21:18:08.000130-04:00.accessibility.json) |
+| [August 30 at 2:15 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-30T09:15:19.775093-04:00.accessibility.json) |
+| [August 29 at 2:20 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-29T21:20:34.525043-04:00.accessibility.json) |
+| [August 29 at 2:04 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-29T09:04:20.364179-04:00.accessibility.json) |
+| [August 28 at 2:20 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-28T21:20:22.422390-04:00.accessibility.json) |
+| [August 28 at 2:05 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-28T09:05:14.548479-04:00.accessibility.json) |
+| [August 27 at 2:32 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-27T21:32:16.029394-04:00.accessibility.json) |
+| [August 27 at 2:00 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-27T08:59:57.865795-04:00.accessibility.json) |
+| [August 26 at 2:11 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-26T21:11:14.786866-04:00.accessibility.json) |
+| [August 26 at 2:04 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-26T09:04:39.889629-04:00.accessibility.json) |
+| [August 25 at 2:19 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-25T21:19:13.098158-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 74 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 78 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 9:05 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-28T09:05:14.548479-04:00.lighthouse.json) |
-| [August 27 at 9:32 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-27T21:32:16.029394-04:00.lighthouse.json) |
-| [August 27 at 9:00 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-27T08:59:57.865795-04:00.lighthouse.json) |
-| [August 26 at 9:11 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-26T21:11:14.786866-04:00.lighthouse.json) |
-| [August 26 at 9:04 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-26T09:04:39.889629-04:00.lighthouse.json) |
-| [August 25 at 9:19 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-25T21:19:13.098158-04:00.lighthouse.json) |
-| [August 25 at 9:07 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-25T09:07:05.624733-04:00.lighthouse.json) |
-| [August 24 at 9:00 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-24T08:59:56.844243-04:00.lighthouse.json) |
-| [August 23 at 9:11 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-23T21:11:39.999278-04:00.lighthouse.json) |
-| [August 23 at 8:59 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-23T08:59:41.617532-04:00.lighthouse.json) |
+| [August 30 at 2:15 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-30T09:15:19.775093-04:00.lighthouse.json) |
+| [August 29 at 2:20 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-29T21:20:34.525043-04:00.lighthouse.json) |
+| [August 29 at 2:04 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-29T09:04:20.364179-04:00.lighthouse.json) |
+| [August 28 at 2:20 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-28T21:20:22.422390-04:00.lighthouse.json) |
+| [August 28 at 2:05 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-28T09:05:14.548479-04:00.lighthouse.json) |
+| [August 27 at 2:32 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-27T21:32:16.029394-04:00.lighthouse.json) |
+| [August 27 at 2:00 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-27T08:59:57.865795-04:00.lighthouse.json) |
+| [August 26 at 2:11 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-26T21:11:14.786866-04:00.lighthouse.json) |
+| [August 26 at 2:04 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-26T09:04:39.889629-04:00.lighthouse.json) |
+| [August 25 at 2:19 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-25T21:19:13.098158-04:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 121 screenshots with the Internet Archive.
+The archiving routine has saved 127 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-28T14:28:36.963217-04:00.jpg">
-  <img src="https://archive.org/download/atlblog-2022/atlblog-2022-08-28T14:28:36.963217-04:00.jpg"
-     alt="Above the Law at 2022-08-28 14:28:38-04:00 local time"
+ <a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-30T14:33:18.268208-04:00.jpg">
+  <img src="https://archive.org/download/atlblog-2022/atlblog-2022-08-30T14:33:18.268208-04:00.jpg"
+     alt="Above the Law at 2022-08-30 07:33:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-28T14:28:36.963217-04:00.jpg">August 28 at 2:28 PM</a></p>
+ <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-30T14:33:18.268208-04:00.jpg">August 30 at 7:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-30T11:16:49.910810-04:00.jpg">
+  <img src="https://archive.org/download/atlblog-2022/atlblog-2022-08-30T11:16:49.910810-04:00.jpg"
+     alt="Above the Law at 2022-08-30 04:17:04-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-30T11:16:49.910810-04:00.jpg">August 30 at 4:17 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-29T22:27:08.282802-04:00.jpg">
+  <img src="https://archive.org/download/atlblog-2022/atlblog-2022-08-29T22:27:08.282802-04:00.jpg"
+     alt="Above the Law at 2022-08-29 15:27:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-29T22:27:08.282802-04:00.jpg">August 29 at 3:27 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-29T14:28:35.255345-04:00.jpg">
+  <img src="https://archive.org/download/atlblog-2022/atlblog-2022-08-29T14:28:35.255345-04:00.jpg"
+     alt="Above the Law at 2022-08-29 07:28:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-29T14:28:35.255345-04:00.jpg">August 29 at 7:28 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-29T10:05:35.647928-04:00.jpg">
+  <img src="https://archive.org/download/atlblog-2022/atlblog-2022-08-29T10:05:35.647928-04:00.jpg"
+     alt="Above the Law at 2022-08-29 03:05:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-29T10:05:35.647928-04:00.jpg">August 29 at 3:05 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-28T22:22:57.943730-04:00.jpg">
+  <img src="https://archive.org/download/atlblog-2022/atlblog-2022-08-28T22:22:57.943730-04:00.jpg"
+     alt="Above the Law at 2022-08-28 15:23:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-28T22:22:57.943730-04:00.jpg">August 28 at 3:23 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-28T14:28:36.963217-04:00.jpg">
+  <img src="https://archive.org/download/atlblog-2022/atlblog-2022-08-28T14:28:36.963217-04:00.jpg"
+     alt="Above the Law at 2022-08-28 07:28:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-28T14:28:36.963217-04:00.jpg">August 28 at 7:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-28T09:59:36.265892-04:00.jpg">
   <img src="https://archive.org/download/atlblog-2022/atlblog-2022-08-28T09:59:36.265892-04:00.jpg"
-     alt="Above the Law at 2022-08-28 09:59:40-04:00 local time"
+     alt="Above the Law at 2022-08-28 02:59:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-28T09:59:36.265892-04:00.jpg">August 28 at 9:59 AM</a></p>
+ <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-28T09:59:36.265892-04:00.jpg">August 28 at 2:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-27T22:25:05.092261-04:00.jpg">
   <img src="https://archive.org/download/atlblog-2022/atlblog-2022-08-27T22:25:05.092261-04:00.jpg"
-     alt="Above the Law at 2022-08-27 22:25:09-04:00 local time"
+     alt="Above the Law at 2022-08-27 15:25:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-27T22:25:05.092261-04:00.jpg">August 27 at 10:25 PM</a></p>
+ <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-27T22:25:05.092261-04:00.jpg">August 27 at 3:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-27T14:28:36.931583-04:00.jpg">
   <img src="https://archive.org/download/atlblog-2022/atlblog-2022-08-27T14:28:36.931583-04:00.jpg"
-     alt="Above the Law at 2022-08-27 14:28:42-04:00 local time"
+     alt="Above the Law at 2022-08-27 07:28:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-27T14:28:36.931583-04:00.jpg">August 27 at 2:28 PM</a></p>
+ <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-27T14:28:36.931583-04:00.jpg">August 27 at 7:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-27T09:56:11.906696-04:00.jpg">
   <img src="https://archive.org/download/atlblog-2022/atlblog-2022-08-27T09:56:11.906696-04:00.jpg"
-     alt="Above the Law at 2022-08-27 09:56:16-04:00 local time"
+     alt="Above the Law at 2022-08-27 02:56:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-27T09:56:11.906696-04:00.jpg">August 27 at 9:56 AM</a></p>
+ <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-27T09:56:11.906696-04:00.jpg">August 27 at 2:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-26T22:19:17.800984-04:00.jpg">
   <img src="https://archive.org/download/atlblog-2022/atlblog-2022-08-26T22:19:17.800984-04:00.jpg"
-     alt="Above the Law at 2022-08-26 22:19:22-04:00 local time"
+     alt="Above the Law at 2022-08-26 15:19:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-26T22:19:17.800984-04:00.jpg">August 26 at 10:19 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-26T14:22:05.890246-04:00.jpg">
-  <img src="https://archive.org/download/atlblog-2022/atlblog-2022-08-26T14:22:05.890246-04:00.jpg"
-     alt="Above the Law at 2022-08-26 14:22:10-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-26T14:22:05.890246-04:00.jpg">August 26 at 2:22 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-26T10:02:58.365576-04:00.jpg">
-  <img src="https://archive.org/download/atlblog-2022/atlblog-2022-08-26T10:02:58.365576-04:00.jpg"
-     alt="Above the Law at 2022-08-26 10:03:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-26T10:02:58.365576-04:00.jpg">August 26 at 10:03 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-25T22:21:18.639618-04:00.jpg">
-  <img src="https://archive.org/download/atlblog-2022/atlblog-2022-08-25T22:21:18.639618-04:00.jpg"
-     alt="Above the Law at 2022-08-25 22:21:20-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-25T22:21:18.639618-04:00.jpg">August 25 at 10:21 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-25T14:26:54.426255-04:00.jpg">
-  <img src="https://archive.org/download/atlblog-2022/atlblog-2022-08-25T14:26:54.426255-04:00.jpg"
-     alt="Above the Law at 2022-08-25 14:26:55-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-25T14:26:54.426255-04:00.jpg">August 25 at 2:26 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-25T10:51:35.231687-04:00.jpg">
-  <img src="https://archive.org/download/atlblog-2022/atlblog-2022-08-25T10:51:35.231687-04:00.jpg"
-     alt="Above the Law at 2022-08-25 10:51:36-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-25T10:51:35.231687-04:00.jpg">August 25 at 10:51 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-24T14:38:07.757279-04:00.jpg">
-  <img src="https://archive.org/download/atlblog-2022/atlblog-2022-08-24T14:38:07.757279-04:00.jpg"
-     alt="Above the Law at 2022-08-24 14:38:11-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-24T14:38:07.757279-04:00.jpg">August 24 at 2:38 PM</a></p>
+ <p><a href="https://archive.org/download/atlblog-2022/atlblog-2022-08-26T22:19:17.800984-04:00.jpg">August 26 at 3:19 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 123 hyperlink lists with the Internet Archive.
+The archiving routine has saved 129 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 2:28 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-28T14:28:36.963217-04:00.hyperlinks.json) |
-| [August 28 at 9:59 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-28T09:59:36.265892-04:00.hyperlinks.json) |
-| [August 27 at 10:25 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-27T22:25:05.092261-04:00.hyperlinks.json) |
-| [August 27 at 2:28 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-27T14:28:36.931583-04:00.hyperlinks.json) |
-| [August 27 at 9:56 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-27T09:56:11.906696-04:00.hyperlinks.json) |
-| [August 26 at 10:19 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-26T22:19:17.800984-04:00.hyperlinks.json) |
-| [August 26 at 2:22 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-26T14:22:05.890246-04:00.hyperlinks.json) |
-| [August 26 at 10:03 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-26T10:02:58.365576-04:00.hyperlinks.json) |
-| [August 25 at 10:21 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-25T22:21:18.639618-04:00.hyperlinks.json) |
-| [August 25 at 2:26 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-25T14:26:54.426255-04:00.hyperlinks.json) |
+| [August 30 at 7:33 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-30T14:33:18.268208-04:00.hyperlinks.json) |
+| [August 30 at 4:17 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-30T11:16:49.910810-04:00.hyperlinks.json) |
+| [August 29 at 3:27 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-29T22:27:08.282802-04:00.hyperlinks.json) |
+| [August 29 at 7:28 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-29T14:28:35.255345-04:00.hyperlinks.json) |
+| [August 29 at 3:05 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-29T10:05:35.647928-04:00.hyperlinks.json) |
+| [August 28 at 3:23 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-28T22:22:57.943730-04:00.hyperlinks.json) |
+| [August 28 at 7:28 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-28T14:28:36.963217-04:00.hyperlinks.json) |
+| [August 28 at 2:59 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-28T09:59:36.265892-04:00.hyperlinks.json) |
+| [August 27 at 3:25 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-27T22:25:05.092261-04:00.hyperlinks.json) |
+| [August 27 at 7:28 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-27T14:28:36.931583-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 123 accessibility trees with the Internet Archive.
+The archiving routine has saved 129 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 2:28 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-28T14:28:36.963217-04:00.accessibility.json) |
-| [August 28 at 9:59 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-28T09:59:36.265892-04:00.accessibility.json) |
-| [August 27 at 10:25 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-27T22:25:05.092261-04:00.accessibility.json) |
-| [August 27 at 2:28 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-27T14:28:36.931583-04:00.accessibility.json) |
-| [August 27 at 9:56 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-27T09:56:11.906696-04:00.accessibility.json) |
-| [August 26 at 10:19 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-26T22:19:17.800984-04:00.accessibility.json) |
-| [August 26 at 2:22 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-26T14:22:05.890246-04:00.accessibility.json) |
-| [August 26 at 10:03 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-26T10:02:58.365576-04:00.accessibility.json) |
-| [August 25 at 10:21 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-25T22:21:18.639618-04:00.accessibility.json) |
-| [August 25 at 2:26 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-25T14:26:54.426255-04:00.accessibility.json) |
+| [August 30 at 7:33 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-30T14:33:18.268208-04:00.accessibility.json) |
+| [August 30 at 4:17 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-30T11:16:49.910810-04:00.accessibility.json) |
+| [August 29 at 3:27 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-29T22:27:08.282802-04:00.accessibility.json) |
+| [August 29 at 7:28 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-29T14:28:35.255345-04:00.accessibility.json) |
+| [August 29 at 3:05 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-29T10:05:35.647928-04:00.accessibility.json) |
+| [August 28 at 3:23 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-28T22:22:57.943730-04:00.accessibility.json) |
+| [August 28 at 7:28 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-28T14:28:36.963217-04:00.accessibility.json) |
+| [August 28 at 2:59 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-28T09:59:36.265892-04:00.accessibility.json) |
+| [August 27 at 3:25 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-27T22:25:05.092261-04:00.accessibility.json) |
+| [August 27 at 7:28 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-27T14:28:36.931583-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 109 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 115 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 2:28 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-28T14:28:36.963217-04:00.lighthouse.json) |
-| [August 28 at 9:59 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-28T09:59:36.265892-04:00.lighthouse.json) |
-| [August 27 at 10:25 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-27T22:25:05.092261-04:00.lighthouse.json) |
-| [August 27 at 2:28 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-27T14:28:36.931583-04:00.lighthouse.json) |
-| [August 27 at 9:56 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-27T09:56:11.906696-04:00.lighthouse.json) |
-| [August 26 at 10:19 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-26T22:19:17.800984-04:00.lighthouse.json) |
-| [August 26 at 2:22 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-26T14:22:05.890246-04:00.lighthouse.json) |
-| [August 26 at 10:03 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-26T10:02:58.365576-04:00.lighthouse.json) |
-| [August 25 at 10:21 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-25T22:21:18.639618-04:00.lighthouse.json) |
-| [August 25 at 2:27 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-25T14:26:54.426255-04:00.lighthouse.json) |
+| [August 30 at 7:33 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-30T14:33:18.268208-04:00.lighthouse.json) |
+| [August 30 at 4:17 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-30T11:16:49.910810-04:00.lighthouse.json) |
+| [August 29 at 3:27 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-29T22:27:08.282802-04:00.lighthouse.json) |
+| [August 29 at 7:28 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-29T14:28:35.255345-04:00.lighthouse.json) |
+| [August 29 at 3:05 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-29T10:05:35.647928-04:00.lighthouse.json) |
+| [August 28 at 3:23 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-28T22:22:57.943730-04:00.lighthouse.json) |
+| [August 28 at 7:28 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-28T14:28:36.963217-04:00.lighthouse.json) |
+| [August 28 at 2:59 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-28T09:59:36.265892-04:00.lighthouse.json) |
+| [August 27 at 3:25 PM](https://archive.org/download/atlblog-2022/atlblog-2022-08-27T22:25:05.092261-04:00.lighthouse.json) |
+| [August 27 at 7:28 AM](https://archive.org/download/atlblog-2022/atlblog-2022-08-27T14:28:36.931583-04:00.lighthouse.json) |
 
 
 

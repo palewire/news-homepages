@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 86 screenshots with the Internet Archive.
+The archiving routine has saved 90 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-28T08:05:19.424888-05:00.jpg">
-  <img src="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-28T08:05:19.424888-05:00.jpg"
-     alt="Tyler Morning Telegraph at 2022-08-28 08:05:23-05:00 local time"
+ <a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-30T08:15:07.961152-05:00.jpg">
+  <img src="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-30T08:15:07.961152-05:00.jpg"
+     alt="Tyler Morning Telegraph at 2022-08-30 01:15:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-28T08:05:19.424888-05:00.jpg">August 28 at 8:05 AM</a></p>
+ <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-30T08:15:07.961152-05:00.jpg">August 30 at 1:15 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-29T20:20:33.026700-05:00.jpg">
+  <img src="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-29T20:20:33.026700-05:00.jpg"
+     alt="Tyler Morning Telegraph at 2022-08-29 13:20:34-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-29T20:20:33.026700-05:00.jpg">August 29 at 1:20 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-29T08:04:38.055950-05:00.jpg">
+  <img src="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-29T08:04:38.055950-05:00.jpg"
+     alt="Tyler Morning Telegraph at 2022-08-29 01:04:43-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-29T08:04:38.055950-05:00.jpg">August 29 at 1:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-28T20:19:50.871638-05:00.jpg">
+  <img src="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-28T20:19:50.871638-05:00.jpg"
+     alt="Tyler Morning Telegraph at 2022-08-28 13:19:55-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-28T20:19:50.871638-05:00.jpg">August 28 at 1:19 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-28T08:05:19.424888-05:00.jpg">
+  <img src="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-28T08:05:19.424888-05:00.jpg"
+     alt="Tyler Morning Telegraph at 2022-08-28 01:05:23-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-28T08:05:19.424888-05:00.jpg">August 28 at 1:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-27T20:33:07.102761-05:00.jpg">
   <img src="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-27T20:33:07.102761-05:00.jpg"
-     alt="Tyler Morning Telegraph at 2022-08-27 20:33:09-05:00 local time"
+     alt="Tyler Morning Telegraph at 2022-08-27 13:33:09-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-27T20:33:07.102761-05:00.jpg">August 27 at 8:33 PM</a></p>
+ <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-27T20:33:07.102761-05:00.jpg">August 27 at 1:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-27T08:00:01.861828-05:00.jpg">
   <img src="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-27T08:00:01.861828-05:00.jpg"
-     alt="Tyler Morning Telegraph at 2022-08-27 08:00:05-05:00 local time"
+     alt="Tyler Morning Telegraph at 2022-08-27 01:00:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-27T08:00:01.861828-05:00.jpg">August 27 at 8:00 AM</a></p>
+ <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-27T08:00:01.861828-05:00.jpg">August 27 at 1:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-26T20:11:22.880323-05:00.jpg">
   <img src="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-26T20:11:22.880323-05:00.jpg"
-     alt="Tyler Morning Telegraph at 2022-08-26 20:11:24-05:00 local time"
+     alt="Tyler Morning Telegraph at 2022-08-26 13:11:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-26T20:11:22.880323-05:00.jpg">August 26 at 8:11 PM</a></p>
+ <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-26T20:11:22.880323-05:00.jpg">August 26 at 1:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-26T08:04:19.664744-05:00.jpg">
   <img src="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-26T08:04:19.664744-05:00.jpg"
-     alt="Tyler Morning Telegraph at 2022-08-26 08:04:23-05:00 local time"
+     alt="Tyler Morning Telegraph at 2022-08-26 01:04:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-26T08:04:19.664744-05:00.jpg">August 26 at 8:04 AM</a></p>
+ <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-26T08:04:19.664744-05:00.jpg">August 26 at 1:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-25T20:19:28.383492-05:00.jpg">
   <img src="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-25T20:19:28.383492-05:00.jpg"
-     alt="Tyler Morning Telegraph at 2022-08-25 20:19:29-05:00 local time"
+     alt="Tyler Morning Telegraph at 2022-08-25 13:19:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-25T20:19:28.383492-05:00.jpg">August 25 at 8:19 PM</a></p>
+ <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-25T20:19:28.383492-05:00.jpg">August 25 at 1:19 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-25T08:09:17.230857-05:00.jpg">
   <img src="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-25T08:09:17.230857-05:00.jpg"
-     alt="Tyler Morning Telegraph at 2022-08-25 08:09:21-05:00 local time"
+     alt="Tyler Morning Telegraph at 2022-08-25 01:09:21-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-25T08:09:17.230857-05:00.jpg">August 25 at 8:09 AM</a></p>
+ <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-25T08:09:17.230857-05:00.jpg">August 25 at 1:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-24T07:59:59.658944-05:00.jpg">
   <img src="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-24T07:59:59.658944-05:00.jpg"
-     alt="Tyler Morning Telegraph at 2022-08-24 08:00:04-05:00 local time"
+     alt="Tyler Morning Telegraph at 2022-08-24 01:00:04-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-24T07:59:59.658944-05:00.jpg">August 24 at 8:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-23T20:12:23.989663-05:00.jpg">
-  <img src="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-23T20:12:23.989663-05:00.jpg"
-     alt="Tyler Morning Telegraph at 2022-08-23 20:12:26-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-23T20:12:23.989663-05:00.jpg">August 23 at 8:12 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-23T08:00:56.489140-05:00.jpg">
-  <img src="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-23T08:00:56.489140-05:00.jpg"
-     alt="Tyler Morning Telegraph at 2022-08-23 08:01:01-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-23T08:00:56.489140-05:00.jpg">August 23 at 8:01 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-22T20:26:46.821517-05:00.jpg">
-  <img src="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-22T20:26:46.821517-05:00.jpg"
-     alt="Tyler Morning Telegraph at 2022-08-22 20:26:48-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-22T20:26:46.821517-05:00.jpg">August 22 at 8:26 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-22T08:06:47.566720-05:00.jpg">
-  <img src="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-22T08:06:47.566720-05:00.jpg"
-     alt="Tyler Morning Telegraph at 2022-08-22 08:06:51-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-22T08:06:47.566720-05:00.jpg">August 22 at 8:06 AM</a></p>
+ <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-24T07:59:59.658944-05:00.jpg">August 24 at 1:00 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 74 hyperlink lists with the Internet Archive.
+The archiving routine has saved 78 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 8:05 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-28T08:05:19.424888-05:00.hyperlinks.json) |
-| [August 27 at 8:33 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-27T20:33:07.102761-05:00.hyperlinks.json) |
-| [August 27 at 8:00 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-27T08:00:01.861828-05:00.hyperlinks.json) |
-| [August 26 at 8:11 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-26T20:11:22.880323-05:00.hyperlinks.json) |
-| [August 26 at 8:04 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-26T08:04:19.664744-05:00.hyperlinks.json) |
-| [August 25 at 8:19 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-25T20:19:28.383492-05:00.hyperlinks.json) |
-| [August 25 at 8:09 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-25T08:09:17.230857-05:00.hyperlinks.json) |
-| [August 24 at 8:00 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-24T07:59:59.658944-05:00.hyperlinks.json) |
-| [August 23 at 8:12 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-23T20:12:23.989663-05:00.hyperlinks.json) |
-| [August 23 at 8:01 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-23T08:00:56.489140-05:00.hyperlinks.json) |
+| [August 30 at 1:15 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-30T08:15:07.961152-05:00.hyperlinks.json) |
+| [August 29 at 1:20 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-29T20:20:33.026700-05:00.hyperlinks.json) |
+| [August 29 at 1:04 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-29T08:04:38.055950-05:00.hyperlinks.json) |
+| [August 28 at 1:19 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-28T20:19:50.871638-05:00.hyperlinks.json) |
+| [August 28 at 1:05 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-28T08:05:19.424888-05:00.hyperlinks.json) |
+| [August 27 at 1:33 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-27T20:33:07.102761-05:00.hyperlinks.json) |
+| [August 27 at 1:00 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-27T08:00:01.861828-05:00.hyperlinks.json) |
+| [August 26 at 1:11 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-26T20:11:22.880323-05:00.hyperlinks.json) |
+| [August 26 at 1:04 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-26T08:04:19.664744-05:00.hyperlinks.json) |
+| [August 25 at 1:19 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-25T20:19:28.383492-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 75 accessibility trees with the Internet Archive.
+The archiving routine has saved 79 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 8:05 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-28T08:05:19.424888-05:00.accessibility.json) |
-| [August 27 at 8:33 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-27T20:33:07.102761-05:00.accessibility.json) |
-| [August 27 at 8:00 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-27T08:00:01.861828-05:00.accessibility.json) |
-| [August 26 at 8:11 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-26T20:11:22.880323-05:00.accessibility.json) |
-| [August 26 at 8:04 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-26T08:04:19.664744-05:00.accessibility.json) |
-| [August 25 at 8:19 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-25T20:19:28.383492-05:00.accessibility.json) |
-| [August 25 at 8:09 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-25T08:09:17.230857-05:00.accessibility.json) |
-| [August 24 at 8:00 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-24T07:59:59.658944-05:00.accessibility.json) |
-| [August 23 at 8:12 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-23T20:12:23.989663-05:00.accessibility.json) |
-| [August 23 at 8:01 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-23T08:00:56.489140-05:00.accessibility.json) |
+| [August 30 at 1:15 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-30T08:15:07.961152-05:00.accessibility.json) |
+| [August 29 at 1:20 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-29T20:20:33.026700-05:00.accessibility.json) |
+| [August 29 at 1:04 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-29T08:04:38.055950-05:00.accessibility.json) |
+| [August 28 at 1:19 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-28T20:19:50.871638-05:00.accessibility.json) |
+| [August 28 at 1:05 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-28T08:05:19.424888-05:00.accessibility.json) |
+| [August 27 at 1:33 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-27T20:33:07.102761-05:00.accessibility.json) |
+| [August 27 at 1:00 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-27T08:00:01.861828-05:00.accessibility.json) |
+| [August 26 at 1:11 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-26T20:11:22.880323-05:00.accessibility.json) |
+| [August 26 at 1:04 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-26T08:04:19.664744-05:00.accessibility.json) |
+| [August 25 at 1:19 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-25T20:19:28.383492-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 74 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 78 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 8:05 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-28T08:05:19.424888-05:00.lighthouse.json) |
-| [August 27 at 8:33 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-27T20:33:07.102761-05:00.lighthouse.json) |
-| [August 27 at 8:00 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-27T08:00:01.861828-05:00.lighthouse.json) |
-| [August 26 at 8:11 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-26T20:11:22.880323-05:00.lighthouse.json) |
-| [August 26 at 8:04 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-26T08:04:19.664744-05:00.lighthouse.json) |
-| [August 25 at 8:19 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-25T20:19:28.383492-05:00.lighthouse.json) |
-| [August 25 at 8:09 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-25T08:09:17.230857-05:00.lighthouse.json) |
-| [August 24 at 8:00 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-24T07:59:59.658944-05:00.lighthouse.json) |
-| [August 23 at 8:12 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-23T20:12:23.989663-05:00.lighthouse.json) |
-| [August 23 at 8:01 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-23T08:00:56.489140-05:00.lighthouse.json) |
+| [August 30 at 1:15 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-30T08:15:07.961152-05:00.lighthouse.json) |
+| [August 29 at 1:20 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-29T20:20:33.026700-05:00.lighthouse.json) |
+| [August 29 at 1:04 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-29T08:04:38.055950-05:00.lighthouse.json) |
+| [August 28 at 1:20 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-28T20:19:50.871638-05:00.lighthouse.json) |
+| [August 28 at 1:05 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-28T08:05:19.424888-05:00.lighthouse.json) |
+| [August 27 at 1:33 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-27T20:33:07.102761-05:00.lighthouse.json) |
+| [August 27 at 1:00 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-27T08:00:01.861828-05:00.lighthouse.json) |
+| [August 26 at 1:11 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-26T20:11:22.880323-05:00.lighthouse.json) |
+| [August 26 at 1:04 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-26T08:04:19.664744-05:00.lighthouse.json) |
+| [August 25 at 1:19 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-08-25T20:19:28.383492-05:00.lighthouse.json) |
 
 
 

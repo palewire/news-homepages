@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 19 screenshots with the Internet Archive.
+The archiving routine has saved 23 screenshots with the Internet Archive.
 
 
 
@@ -243,118 +243,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-28T09:01:49.153831-04:00.jpg">
-  <img src="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-28T09:01:49.153831-04:00.jpg"
-     alt="Task & Purpose at 2022-08-28 09:01:51-04:00 local time"
+ <a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-30T09:13:03.928901-04:00.jpg">
+  <img src="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-30T09:13:03.928901-04:00.jpg"
+     alt="Task & Purpose at 2022-08-30 02:13:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-28T09:01:49.153831-04:00.jpg">August 28 at 9:01 AM</a></p>
+ <p><a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-30T09:13:03.928901-04:00.jpg">August 30 at 2:13 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-29T21:19:18.376786-04:00.jpg">
+  <img src="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-29T21:19:18.376786-04:00.jpg"
+     alt="Task & Purpose at 2022-08-29 14:19:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-29T21:19:18.376786-04:00.jpg">August 29 at 2:19 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-29T09:01:49.734122-04:00.jpg">
+  <img src="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-29T09:01:49.734122-04:00.jpg"
+     alt="Task & Purpose at 2022-08-29 02:01:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-29T09:01:49.734122-04:00.jpg">August 29 at 2:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-28T21:17:51.464036-04:00.jpg">
+  <img src="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-28T21:17:51.464036-04:00.jpg"
+     alt="Task & Purpose at 2022-08-28 14:17:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-28T21:17:51.464036-04:00.jpg">August 28 at 2:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-28T09:01:49.153831-04:00.jpg">
+  <img src="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-28T09:01:49.153831-04:00.jpg"
+     alt="Task & Purpose at 2022-08-28 02:01:51-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-28T09:01:49.153831-04:00.jpg">August 28 at 2:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-27T21:30:12.711275-04:00.jpg">
   <img src="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-27T21:30:12.711275-04:00.jpg"
-     alt="Task & Purpose at 2022-08-27 21:30:14-04:00 local time"
+     alt="Task & Purpose at 2022-08-27 14:30:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-27T21:30:12.711275-04:00.jpg">August 27 at 9:30 PM</a></p>
+ <p><a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-27T21:30:12.711275-04:00.jpg">August 27 at 2:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-27T08:58:37.463823-04:00.jpg">
   <img src="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-27T08:58:37.463823-04:00.jpg"
-     alt="Task & Purpose at 2022-08-27 08:58:38-04:00 local time"
+     alt="Task & Purpose at 2022-08-27 01:58:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-27T08:58:37.463823-04:00.jpg">August 27 at 8:58 AM</a></p>
+ <p><a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-27T08:58:37.463823-04:00.jpg">August 27 at 1:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-26T21:08:43.661752-04:00.jpg">
   <img src="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-26T21:08:43.661752-04:00.jpg"
-     alt="Task & Purpose at 2022-08-26 21:08:45-04:00 local time"
+     alt="Task & Purpose at 2022-08-26 14:08:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-26T21:08:43.661752-04:00.jpg">August 26 at 9:08 PM</a></p>
+ <p><a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-26T21:08:43.661752-04:00.jpg">August 26 at 2:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-26T09:02:11.709288-04:00.jpg">
   <img src="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-26T09:02:11.709288-04:00.jpg"
-     alt="Task & Purpose at 2022-08-26 09:02:13-04:00 local time"
+     alt="Task & Purpose at 2022-08-26 02:02:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-26T09:02:11.709288-04:00.jpg">August 26 at 9:02 AM</a></p>
+ <p><a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-26T09:02:11.709288-04:00.jpg">August 26 at 2:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-25T21:16:12.796738-04:00.jpg">
   <img src="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-25T21:16:12.796738-04:00.jpg"
-     alt="Task & Purpose at 2022-08-25 21:16:14-04:00 local time"
+     alt="Task & Purpose at 2022-08-25 14:16:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-25T21:16:12.796738-04:00.jpg">August 25 at 9:16 PM</a></p>
+ <p><a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-25T21:16:12.796738-04:00.jpg">August 25 at 2:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-25T09:05:21.373669-04:00.jpg">
   <img src="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-25T09:05:21.373669-04:00.jpg"
-     alt="Task & Purpose at 2022-08-25 09:05:24-04:00 local time"
+     alt="Task & Purpose at 2022-08-25 02:05:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-25T09:05:21.373669-04:00.jpg">August 25 at 9:05 AM</a></p>
+ <p><a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-25T09:05:21.373669-04:00.jpg">August 25 at 2:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-24T08:56:59.331782-04:00.jpg">
   <img src="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-24T08:56:59.331782-04:00.jpg"
-     alt="Task & Purpose at 2022-08-24 08:57:02-04:00 local time"
+     alt="Task & Purpose at 2022-08-24 01:57:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-24T08:56:59.331782-04:00.jpg">August 24 at 8:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-23T21:10:19.238332-04:00.jpg">
-  <img src="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-23T21:10:19.238332-04:00.jpg"
-     alt="Task & Purpose at 2022-08-23 21:10:20-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-23T21:10:19.238332-04:00.jpg">August 23 at 9:10 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-23T08:58:10.395250-04:00.jpg">
-  <img src="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-23T08:58:10.395250-04:00.jpg"
-     alt="Task & Purpose at 2022-08-23 08:58:12-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-23T08:58:10.395250-04:00.jpg">August 23 at 8:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-22T21:23:19.991366-04:00.jpg">
-  <img src="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-22T21:23:19.991366-04:00.jpg"
-     alt="Task & Purpose at 2022-08-22 21:23:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-22T21:23:19.991366-04:00.jpg">August 22 at 9:23 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-22T09:05:02.359131-04:00.jpg">
-  <img src="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-22T09:05:02.359131-04:00.jpg"
-     alt="Task & Purpose at 2022-08-22 09:05:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-22T09:05:02.359131-04:00.jpg">August 22 at 9:05 AM</a></p>
+ <p><a href="https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-24T08:56:59.331782-04:00.jpg">August 24 at 1:57 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 21 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,21 +362,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 9:01 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-28T09:01:49.153831-04:00.hyperlinks.json) |
-| [August 27 at 9:30 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-27T21:30:12.711275-04:00.hyperlinks.json) |
-| [August 27 at 8:58 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-27T08:58:37.463823-04:00.hyperlinks.json) |
-| [August 26 at 9:08 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-26T21:08:43.661752-04:00.hyperlinks.json) |
-| [August 26 at 9:02 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-26T09:02:11.709288-04:00.hyperlinks.json) |
-| [August 25 at 9:16 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-25T21:16:12.796738-04:00.hyperlinks.json) |
-| [August 25 at 9:05 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-25T09:05:21.373669-04:00.hyperlinks.json) |
-| [August 23 at 9:10 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-23T21:10:19.238332-04:00.hyperlinks.json) |
-| [August 23 at 8:58 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-23T08:58:10.395250-04:00.hyperlinks.json) |
-| [August 22 at 9:23 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-22T21:23:19.991366-04:00.hyperlinks.json) |
+| [August 30 at 2:13 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-30T09:13:03.928901-04:00.hyperlinks.json) |
+| [August 29 at 2:19 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-29T21:19:18.376786-04:00.hyperlinks.json) |
+| [August 29 at 2:01 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-29T09:01:49.734122-04:00.hyperlinks.json) |
+| [August 28 at 2:17 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-28T21:17:51.464036-04:00.hyperlinks.json) |
+| [August 28 at 2:01 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-28T09:01:49.153831-04:00.hyperlinks.json) |
+| [August 27 at 2:30 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-27T21:30:12.711275-04:00.hyperlinks.json) |
+| [August 27 at 1:58 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-27T08:58:37.463823-04:00.hyperlinks.json) |
+| [August 26 at 2:08 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-26T21:08:43.661752-04:00.hyperlinks.json) |
+| [August 26 at 2:02 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-26T09:02:11.709288-04:00.hyperlinks.json) |
+| [August 25 at 2:16 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-25T21:16:12.796738-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 19 accessibility trees with the Internet Archive.
+The archiving routine has saved 23 accessibility trees with the Internet Archive.
 
 
 
@@ -384,22 +384,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 9:01 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-28T09:01:49.153831-04:00.accessibility.json) |
-| [August 27 at 9:30 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-27T21:30:12.711275-04:00.accessibility.json) |
-| [August 27 at 8:58 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-27T08:58:37.463823-04:00.accessibility.json) |
-| [August 26 at 9:08 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-26T21:08:43.661752-04:00.accessibility.json) |
-| [August 26 at 9:02 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-26T09:02:11.709288-04:00.accessibility.json) |
-| [August 25 at 9:16 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-25T21:16:12.796738-04:00.accessibility.json) |
-| [August 25 at 9:05 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-25T09:05:21.373669-04:00.accessibility.json) |
-| [August 24 at 8:57 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-24T08:56:59.331782-04:00.accessibility.json) |
-| [August 23 at 9:10 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-23T21:10:19.238332-04:00.accessibility.json) |
-| [August 23 at 8:58 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-23T08:58:10.395250-04:00.accessibility.json) |
+| [August 30 at 2:13 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-30T09:13:03.928901-04:00.accessibility.json) |
+| [August 29 at 2:19 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-29T21:19:18.376786-04:00.accessibility.json) |
+| [August 29 at 2:01 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-29T09:01:49.734122-04:00.accessibility.json) |
+| [August 28 at 2:17 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-28T21:17:51.464036-04:00.accessibility.json) |
+| [August 28 at 2:01 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-28T09:01:49.153831-04:00.accessibility.json) |
+| [August 27 at 2:30 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-27T21:30:12.711275-04:00.accessibility.json) |
+| [August 27 at 1:58 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-27T08:58:37.463823-04:00.accessibility.json) |
+| [August 26 at 2:08 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-26T21:08:43.661752-04:00.accessibility.json) |
+| [August 26 at 2:02 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-26T09:02:11.709288-04:00.accessibility.json) |
+| [August 25 at 2:16 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-25T21:16:12.796738-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,16 +407,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 9:01 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-28T09:01:49.153831-04:00.lighthouse.json) |
-| [August 27 at 9:30 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-27T21:30:12.711275-04:00.lighthouse.json) |
-| [August 27 at 8:58 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-27T08:58:37.463823-04:00.lighthouse.json) |
-| [August 26 at 9:08 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-26T21:08:43.661752-04:00.lighthouse.json) |
-| [August 26 at 9:02 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-26T09:02:11.709288-04:00.lighthouse.json) |
-| [August 25 at 9:16 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-25T21:16:12.796738-04:00.lighthouse.json) |
-| [August 25 at 9:05 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-25T09:05:21.373669-04:00.lighthouse.json) |
-| [August 24 at 8:57 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-24T08:56:59.331782-04:00.lighthouse.json) |
-| [August 23 at 9:10 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-23T21:10:19.238332-04:00.lighthouse.json) |
-| [August 23 at 8:58 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-23T08:58:10.395250-04:00.lighthouse.json) |
+| [August 30 at 2:13 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-30T09:13:03.928901-04:00.lighthouse.json) |
+| [August 29 at 2:19 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-29T21:19:18.376786-04:00.lighthouse.json) |
+| [August 29 at 2:01 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-29T09:01:49.734122-04:00.lighthouse.json) |
+| [August 28 at 2:17 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-28T21:17:51.464036-04:00.lighthouse.json) |
+| [August 28 at 2:01 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-28T09:01:49.153831-04:00.lighthouse.json) |
+| [August 27 at 2:30 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-27T21:30:12.711275-04:00.lighthouse.json) |
+| [August 27 at 1:58 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-27T08:58:37.463823-04:00.lighthouse.json) |
+| [August 26 at 2:08 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-26T21:08:43.661752-04:00.lighthouse.json) |
+| [August 26 at 2:02 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-26T09:02:11.709288-04:00.lighthouse.json) |
+| [August 25 at 2:16 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-08-25T21:16:12.796738-04:00.lighthouse.json) |
 
 
 

@@ -234,8 +234,91 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 33 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/bosbizjournal.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
@@ -243,180 +326,429 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-28T10:01:15.465339-04:00.jpg">
-  <img src="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-28T10:01:15.465339-04:00.jpg"
-     alt="Boston Business Journal at 2022-08-28 10:01:17-04:00 local time"
+ <a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-30T11:19:40.971854-04:00.jpg">
+  <img src="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-30T11:19:40.971854-04:00.jpg"
+     alt="Boston Business Journal at 2022-08-30 04:19:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-28T10:01:15.465339-04:00.jpg">August 28 at 10:01 AM</a></p>
+ <p><a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-30T11:19:40.971854-04:00.jpg">August 30 at 4:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-29T22:28:44.105659-04:00.jpg">
+  <img src="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-29T22:28:44.105659-04:00.jpg"
+     alt="Boston Business Journal at 2022-08-29 15:28:45-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-29T22:28:44.105659-04:00.jpg">August 29 at 3:28 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-29T10:07:23.630853-04:00.jpg">
+  <img src="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-29T10:07:23.630853-04:00.jpg"
+     alt="Boston Business Journal at 2022-08-29 03:07:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-29T10:07:23.630853-04:00.jpg">August 29 at 3:07 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-28T22:24:34.458039-04:00.jpg">
+  <img src="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-28T22:24:34.458039-04:00.jpg"
+     alt="Boston Business Journal at 2022-08-28 15:24:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-28T22:24:34.458039-04:00.jpg">August 28 at 3:24 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-28T10:01:15.465339-04:00.jpg">
+  <img src="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-28T10:01:15.465339-04:00.jpg"
+     alt="Boston Business Journal at 2022-08-28 03:01:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-28T10:01:15.465339-04:00.jpg">August 28 at 3:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-27T22:26:43.144270-04:00.jpg">
   <img src="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-27T22:26:43.144270-04:00.jpg"
-     alt="Boston Business Journal at 2022-08-27 22:26:44-04:00 local time"
+     alt="Boston Business Journal at 2022-08-27 15:26:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-27T22:26:43.144270-04:00.jpg">August 27 at 10:26 PM</a></p>
+ <p><a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-27T22:26:43.144270-04:00.jpg">August 27 at 3:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-27T09:58:00.233409-04:00.jpg">
   <img src="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-27T09:58:00.233409-04:00.jpg"
-     alt="Boston Business Journal at 2022-08-27 09:58:01-04:00 local time"
+     alt="Boston Business Journal at 2022-08-27 02:58:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-27T09:58:00.233409-04:00.jpg">August 27 at 9:58 AM</a></p>
+ <p><a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-27T09:58:00.233409-04:00.jpg">August 27 at 2:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-26T22:21:18.237783-04:00.jpg">
   <img src="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-26T22:21:18.237783-04:00.jpg"
-     alt="Boston Business Journal at 2022-08-26 22:21:19-04:00 local time"
+     alt="Boston Business Journal at 2022-08-26 15:21:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-26T22:21:18.237783-04:00.jpg">August 26 at 10:21 PM</a></p>
+ <p><a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-26T22:21:18.237783-04:00.jpg">August 26 at 3:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-26T10:03:44.051002-04:00.jpg">
   <img src="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-26T10:03:44.051002-04:00.jpg"
-     alt="Boston Business Journal at 2022-08-26 10:03:46-04:00 local time"
+     alt="Boston Business Journal at 2022-08-26 03:03:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-26T10:03:44.051002-04:00.jpg">August 26 at 10:03 AM</a></p>
+ <p><a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-26T10:03:44.051002-04:00.jpg">August 26 at 3:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-25T22:23:03.478455-04:00.jpg">
   <img src="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-25T22:23:03.478455-04:00.jpg"
-     alt="Boston Business Journal at 2022-08-25 22:23:05-04:00 local time"
+     alt="Boston Business Journal at 2022-08-25 15:23:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-25T22:23:03.478455-04:00.jpg">August 25 at 10:23 PM</a></p>
+ <p><a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-25T22:23:03.478455-04:00.jpg">August 25 at 3:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-25T10:53:19.461571-04:00.jpg">
   <img src="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-25T10:53:19.461571-04:00.jpg"
-     alt="Boston Business Journal at 2022-08-25 10:53:21-04:00 local time"
+     alt="Boston Business Journal at 2022-08-25 03:53:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-25T10:53:19.461571-04:00.jpg">August 25 at 10:53 AM</a></p>
+ <p><a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-25T10:53:19.461571-04:00.jpg">August 25 at 3:53 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-24T09:58:55.869712-04:00.jpg">
   <img src="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-24T09:58:55.869712-04:00.jpg"
-     alt="Boston Business Journal at 2022-08-24 09:58:58-04:00 local time"
+     alt="Boston Business Journal at 2022-08-24 02:58:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-24T09:58:55.869712-04:00.jpg">August 24 at 9:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-23T22:16:13.817793-04:00.jpg">
-  <img src="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-23T22:16:13.817793-04:00.jpg"
-     alt="Boston Business Journal at 2022-08-23 22:16:15-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-23T22:16:13.817793-04:00.jpg">August 23 at 10:16 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-23T10:00:23.182535-04:00.jpg">
-  <img src="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-23T10:00:23.182535-04:00.jpg"
-     alt="Boston Business Journal at 2022-08-23 10:00:26-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-23T10:00:23.182535-04:00.jpg">August 23 at 10:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-22T21:21:28.316029-04:00.jpg">
-  <img src="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-22T21:21:28.316029-04:00.jpg"
-     alt="Boston Business Journal at 2022-08-22 21:21:30-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-22T21:21:28.316029-04:00.jpg">August 22 at 9:21 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-22T09:03:29.560753-04:00.jpg">
-  <img src="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-22T09:03:29.560753-04:00.jpg"
-     alt="Boston Business Journal at 2022-08-22 09:03:31-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-22T09:03:29.560753-04:00.jpg">August 22 at 9:03 AM</a></p>
+ <p><a href="https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-24T09:58:55.869712-04:00.jpg">August 24 at 2:58 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 29 hyperlink lists with the Internet Archive.
+The archiving routine has saved 33 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/bosbizjournal.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 10:01 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-28T10:01:15.465339-04:00.hyperlinks.json) |
-| [August 27 at 10:26 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-27T22:26:43.144270-04:00.hyperlinks.json) |
-| [August 27 at 9:58 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-27T09:58:00.233409-04:00.hyperlinks.json) |
-| [August 26 at 10:21 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-26T22:21:18.237783-04:00.hyperlinks.json) |
-| [August 26 at 10:03 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-26T10:03:44.051002-04:00.hyperlinks.json) |
-| [August 25 at 10:23 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-25T22:23:03.478455-04:00.hyperlinks.json) |
-| [August 25 at 10:53 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-25T10:53:19.461571-04:00.hyperlinks.json) |
-| [August 24 at 9:59 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-24T09:58:55.869712-04:00.hyperlinks.json) |
-| [August 23 at 10:16 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-23T22:16:13.817793-04:00.hyperlinks.json) |
-| [August 23 at 10:00 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-23T10:00:23.182535-04:00.hyperlinks.json) |
+| [August 30 at 4:19 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-30T11:19:40.971854-04:00.hyperlinks.json) |
+| [August 29 at 3:28 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-29T22:28:44.105659-04:00.hyperlinks.json) |
+| [August 29 at 3:07 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-29T10:07:23.630853-04:00.hyperlinks.json) |
+| [August 28 at 3:24 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-28T22:24:34.458039-04:00.hyperlinks.json) |
+| [August 28 at 3:01 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-28T10:01:15.465339-04:00.hyperlinks.json) |
+| [August 27 at 3:26 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-27T22:26:43.144270-04:00.hyperlinks.json) |
+| [August 27 at 2:58 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-27T09:58:00.233409-04:00.hyperlinks.json) |
+| [August 26 at 3:21 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-26T22:21:18.237783-04:00.hyperlinks.json) |
+| [August 26 at 3:03 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-26T10:03:44.051002-04:00.hyperlinks.json) |
+| [August 25 at 3:23 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-25T22:23:03.478455-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 29 accessibility trees with the Internet Archive.
+The archiving routine has saved 33 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/bosbizjournal.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 10:01 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-28T10:01:15.465339-04:00.accessibility.json) |
-| [August 27 at 10:26 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-27T22:26:43.144270-04:00.accessibility.json) |
-| [August 27 at 9:58 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-27T09:58:00.233409-04:00.accessibility.json) |
-| [August 26 at 10:21 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-26T22:21:18.237783-04:00.accessibility.json) |
-| [August 26 at 10:03 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-26T10:03:44.051002-04:00.accessibility.json) |
-| [August 25 at 10:23 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-25T22:23:03.478455-04:00.accessibility.json) |
-| [August 25 at 10:53 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-25T10:53:19.461571-04:00.accessibility.json) |
-| [August 24 at 9:59 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-24T09:58:55.869712-04:00.accessibility.json) |
-| [August 23 at 10:16 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-23T22:16:13.817793-04:00.accessibility.json) |
-| [August 23 at 10:00 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-23T10:00:23.182535-04:00.accessibility.json) |
+| [August 30 at 4:19 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-30T11:19:40.971854-04:00.accessibility.json) |
+| [August 29 at 3:28 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-29T22:28:44.105659-04:00.accessibility.json) |
+| [August 29 at 3:07 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-29T10:07:23.630853-04:00.accessibility.json) |
+| [August 28 at 3:24 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-28T22:24:34.458039-04:00.accessibility.json) |
+| [August 28 at 3:01 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-28T10:01:15.465339-04:00.accessibility.json) |
+| [August 27 at 3:26 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-27T22:26:43.144270-04:00.accessibility.json) |
+| [August 27 at 2:58 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-27T09:58:00.233409-04:00.accessibility.json) |
+| [August 26 at 3:21 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-26T22:21:18.237783-04:00.accessibility.json) |
+| [August 26 at 3:03 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-26T10:03:44.051002-04:00.accessibility.json) |
+| [August 25 at 3:23 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-25T22:23:03.478455-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/bosbizjournal.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 10:01 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-28T10:01:15.465339-04:00.lighthouse.json) |
-| [August 27 at 10:26 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-27T22:26:43.144270-04:00.lighthouse.json) |
-| [August 27 at 9:58 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-27T09:58:00.233409-04:00.lighthouse.json) |
-| [August 26 at 10:21 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-26T22:21:18.237783-04:00.lighthouse.json) |
-| [August 26 at 10:03 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-26T10:03:44.051002-04:00.lighthouse.json) |
-| [August 25 at 10:23 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-25T22:23:03.478455-04:00.lighthouse.json) |
-| [August 25 at 10:53 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-25T10:53:19.461571-04:00.lighthouse.json) |
-| [August 24 at 9:59 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-24T09:58:55.869712-04:00.lighthouse.json) |
-| [August 23 at 10:16 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-23T22:16:13.817793-04:00.lighthouse.json) |
-| [August 23 at 10:00 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-23T10:00:23.182535-04:00.lighthouse.json) |
+| [August 30 at 4:19 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-30T11:19:40.971854-04:00.lighthouse.json) |
+| [August 29 at 3:28 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-29T22:28:44.105659-04:00.lighthouse.json) |
+| [August 29 at 3:07 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-29T10:07:23.630853-04:00.lighthouse.json) |
+| [August 28 at 3:24 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-28T22:24:34.458039-04:00.lighthouse.json) |
+| [August 28 at 3:01 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-28T10:01:15.465339-04:00.lighthouse.json) |
+| [August 27 at 3:26 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-27T22:26:43.144270-04:00.lighthouse.json) |
+| [August 27 at 2:58 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-27T09:58:00.233409-04:00.lighthouse.json) |
+| [August 26 at 3:21 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-26T22:21:18.237783-04:00.lighthouse.json) |
+| [August 26 at 3:03 AM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-26T10:03:44.051002-04:00.lighthouse.json) |
+| [August 25 at 3:23 PM](https://archive.org/download/bosbizjournal-2022/bosbizjournal-2022-08-25T22:23:03.478455-04:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 66 screenshots with the Internet Archive.
+The archiving routine has saved 72 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-28T11:57:21.067061-03:00.jpg">
-  <img src="https://archive.org/download/lancenet-2022/lancenet-2022-08-28T11:57:21.067061-03:00.jpg"
-     alt="Lance at 2022-08-28 11:57:24-03:00 local time"
+ <a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-30T12:34:43.323360-03:00.jpg">
+  <img src="https://archive.org/download/lancenet-2022/lancenet-2022-08-30T12:34:43.323360-03:00.jpg"
+     alt="Lance at 2022-08-30 05:34:49-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-28T11:57:21.067061-03:00.jpg">August 28 at 11:57 AM</a></p>
+ <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-30T12:34:43.323360-03:00.jpg">August 30 at 5:34 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-30T09:14:48.280446-03:00.jpg">
+  <img src="https://archive.org/download/lancenet-2022/lancenet-2022-08-30T09:14:48.280446-03:00.jpg"
+     alt="Lance at 2022-08-30 02:14:51-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-30T09:14:48.280446-03:00.jpg">August 30 at 2:14 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-30T00:54:47.918980-03:00.jpg">
+  <img src="https://archive.org/download/lancenet-2022/lancenet-2022-08-30T00:54:47.918980-03:00.jpg"
+     alt="Lance at 2022-08-29 17:54:49-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-30T00:54:47.918980-03:00.jpg">August 29 at 5:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-29T12:08:18.181458-03:00.jpg">
+  <img src="https://archive.org/download/lancenet-2022/lancenet-2022-08-29T12:08:18.181458-03:00.jpg"
+     alt="Lance at 2022-08-29 05:08:20-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-29T12:08:18.181458-03:00.jpg">August 29 at 5:08 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-29T09:02:56.627347-03:00.jpg">
+  <img src="https://archive.org/download/lancenet-2022/lancenet-2022-08-29T09:02:56.627347-03:00.jpg"
+     alt="Lance at 2022-08-29 02:02:58-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-29T09:02:56.627347-03:00.jpg">August 29 at 2:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-29T00:44:27.787907-03:00.jpg">
+  <img src="https://archive.org/download/lancenet-2022/lancenet-2022-08-29T00:44:27.787907-03:00.jpg"
+     alt="Lance at 2022-08-28 17:44:29-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-29T00:44:27.787907-03:00.jpg">August 28 at 5:44 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-28T11:57:21.067061-03:00.jpg">
+  <img src="https://archive.org/download/lancenet-2022/lancenet-2022-08-28T11:57:21.067061-03:00.jpg"
+     alt="Lance at 2022-08-28 04:57:24-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-28T11:57:21.067061-03:00.jpg">August 28 at 4:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-28T09:05:03.576570-03:00.jpg">
   <img src="https://archive.org/download/lancenet-2022/lancenet-2022-08-28T09:05:03.576570-03:00.jpg"
-     alt="Lance at 2022-08-28 09:05:11-03:00 local time"
+     alt="Lance at 2022-08-28 02:05:11-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-28T09:05:03.576570-03:00.jpg">August 28 at 9:05 AM</a></p>
+ <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-28T09:05:03.576570-03:00.jpg">August 28 at 2:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-28T00:42:25.791611-03:00.jpg">
   <img src="https://archive.org/download/lancenet-2022/lancenet-2022-08-28T00:42:25.791611-03:00.jpg"
-     alt="Lance at 2022-08-28 00:42:26-03:00 local time"
+     alt="Lance at 2022-08-27 17:42:26-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-28T00:42:25.791611-03:00.jpg">August 28 at 12:42 AM</a></p>
+ <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-28T00:42:25.791611-03:00.jpg">August 27 at 5:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-27T11:51:58.240966-03:00.jpg">
   <img src="https://archive.org/download/lancenet-2022/lancenet-2022-08-27T11:51:58.240966-03:00.jpg"
-     alt="Lance at 2022-08-27 11:52:02-03:00 local time"
+     alt="Lance at 2022-08-27 04:52:02-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-27T11:51:58.240966-03:00.jpg">August 27 at 11:52 AM</a></p>
+ <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-27T11:51:58.240966-03:00.jpg">August 27 at 4:52 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-27T08:57:58.962914-03:00.jpg">
   <img src="https://archive.org/download/lancenet-2022/lancenet-2022-08-27T08:57:58.962914-03:00.jpg"
-     alt="Lance at 2022-08-27 08:58:02-03:00 local time"
+     alt="Lance at 2022-08-27 01:58:02-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-27T08:57:58.962914-03:00.jpg">August 27 at 8:58 AM</a></p>
+ <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-27T08:57:58.962914-03:00.jpg">August 27 at 1:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-27T00:38:14.994787-03:00.jpg">
   <img src="https://archive.org/download/lancenet-2022/lancenet-2022-08-27T00:38:14.994787-03:00.jpg"
-     alt="Lance at 2022-08-27 00:38:19-03:00 local time"
+     alt="Lance at 2022-08-26 17:38:19-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-27T00:38:14.994787-03:00.jpg">August 27 at 12:38 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-26T11:59:33.002708-03:00.jpg">
-  <img src="https://archive.org/download/lancenet-2022/lancenet-2022-08-26T11:59:33.002708-03:00.jpg"
-     alt="Lance at 2022-08-26 11:59:36-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-26T11:59:33.002708-03:00.jpg">August 26 at 11:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-26T09:02:17.860956-03:00.jpg">
-  <img src="https://archive.org/download/lancenet-2022/lancenet-2022-08-26T09:02:17.860956-03:00.jpg"
-     alt="Lance at 2022-08-26 09:02:20-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-26T09:02:17.860956-03:00.jpg">August 26 at 9:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-26T00:44:31.176386-03:00.jpg">
-  <img src="https://archive.org/download/lancenet-2022/lancenet-2022-08-26T00:44:31.176386-03:00.jpg"
-     alt="Lance at 2022-08-26 00:44:34-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-26T00:44:31.176386-03:00.jpg">August 26 at 12:44 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-25T12:02:14.430552-03:00.jpg">
-  <img src="https://archive.org/download/lancenet-2022/lancenet-2022-08-25T12:02:14.430552-03:00.jpg"
-     alt="Lance at 2022-08-25 12:02:15-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-25T12:02:14.430552-03:00.jpg">August 25 at 12:02 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-25T09:06:48.587440-03:00.jpg">
-  <img src="https://archive.org/download/lancenet-2022/lancenet-2022-08-25T09:06:48.587440-03:00.jpg"
-     alt="Lance at 2022-08-25 09:06:55-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-25T09:06:48.587440-03:00.jpg">August 25 at 9:06 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-24T12:02:12.845497-03:00.jpg">
-  <img src="https://archive.org/download/lancenet-2022/lancenet-2022-08-24T12:02:12.845497-03:00.jpg"
-     alt="Lance at 2022-08-24 12:02:14-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-24T12:02:12.845497-03:00.jpg">August 24 at 12:02 PM</a></p>
+ <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-08-27T00:38:14.994787-03:00.jpg">August 26 at 5:38 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 66 hyperlink lists with the Internet Archive.
+The archiving routine has saved 72 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 11:57 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-28T11:57:21.067061-03:00.hyperlinks.json) |
-| [August 28 at 9:05 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-28T09:05:03.576570-03:00.hyperlinks.json) |
-| [August 28 at 12:42 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-28T00:42:25.791611-03:00.hyperlinks.json) |
-| [August 27 at 11:52 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-27T11:51:58.240966-03:00.hyperlinks.json) |
-| [August 27 at 8:58 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-27T08:57:58.962914-03:00.hyperlinks.json) |
-| [August 27 at 12:38 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-27T00:38:14.994787-03:00.hyperlinks.json) |
-| [August 26 at 11:59 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-26T11:59:33.002708-03:00.hyperlinks.json) |
-| [August 26 at 9:02 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-26T09:02:17.860956-03:00.hyperlinks.json) |
-| [August 26 at 12:44 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-26T00:44:31.176386-03:00.hyperlinks.json) |
-| [August 25 at 12:02 PM](https://archive.org/download/lancenet-2022/lancenet-2022-08-25T12:02:14.430552-03:00.hyperlinks.json) |
+| [August 30 at 5:34 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-30T12:34:43.323360-03:00.hyperlinks.json) |
+| [August 30 at 2:14 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-30T09:14:48.280446-03:00.hyperlinks.json) |
+| [August 29 at 5:54 PM](https://archive.org/download/lancenet-2022/lancenet-2022-08-30T00:54:47.918980-03:00.hyperlinks.json) |
+| [August 29 at 5:08 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-29T12:08:18.181458-03:00.hyperlinks.json) |
+| [August 29 at 2:03 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-29T09:02:56.627347-03:00.hyperlinks.json) |
+| [August 28 at 5:44 PM](https://archive.org/download/lancenet-2022/lancenet-2022-08-29T00:44:27.787907-03:00.hyperlinks.json) |
+| [August 28 at 4:57 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-28T11:57:21.067061-03:00.hyperlinks.json) |
+| [August 28 at 2:05 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-28T09:05:03.576570-03:00.hyperlinks.json) |
+| [August 27 at 5:42 PM](https://archive.org/download/lancenet-2022/lancenet-2022-08-28T00:42:25.791611-03:00.hyperlinks.json) |
+| [August 27 at 4:52 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-27T11:51:58.240966-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 66 accessibility trees with the Internet Archive.
+The archiving routine has saved 72 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 11:57 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-28T11:57:21.067061-03:00.accessibility.json) |
-| [August 28 at 9:05 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-28T09:05:03.576570-03:00.accessibility.json) |
-| [August 28 at 12:42 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-28T00:42:25.791611-03:00.accessibility.json) |
-| [August 27 at 11:52 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-27T11:51:58.240966-03:00.accessibility.json) |
-| [August 27 at 8:58 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-27T08:57:58.962914-03:00.accessibility.json) |
-| [August 27 at 12:38 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-27T00:38:14.994787-03:00.accessibility.json) |
-| [August 26 at 11:59 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-26T11:59:33.002708-03:00.accessibility.json) |
-| [August 26 at 9:02 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-26T09:02:17.860956-03:00.accessibility.json) |
-| [August 26 at 12:44 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-26T00:44:31.176386-03:00.accessibility.json) |
-| [August 25 at 12:02 PM](https://archive.org/download/lancenet-2022/lancenet-2022-08-25T12:02:14.430552-03:00.accessibility.json) |
+| [August 30 at 5:34 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-30T12:34:43.323360-03:00.accessibility.json) |
+| [August 30 at 2:14 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-30T09:14:48.280446-03:00.accessibility.json) |
+| [August 29 at 5:54 PM](https://archive.org/download/lancenet-2022/lancenet-2022-08-30T00:54:47.918980-03:00.accessibility.json) |
+| [August 29 at 5:08 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-29T12:08:18.181458-03:00.accessibility.json) |
+| [August 29 at 2:02 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-29T09:02:56.627347-03:00.accessibility.json) |
+| [August 28 at 5:44 PM](https://archive.org/download/lancenet-2022/lancenet-2022-08-29T00:44:27.787907-03:00.accessibility.json) |
+| [August 28 at 4:57 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-28T11:57:21.067061-03:00.accessibility.json) |
+| [August 28 at 2:05 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-28T09:05:03.576570-03:00.accessibility.json) |
+| [August 27 at 5:42 PM](https://archive.org/download/lancenet-2022/lancenet-2022-08-28T00:42:25.791611-03:00.accessibility.json) |
+| [August 27 at 4:52 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-27T11:51:58.240966-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 66 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 72 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 11:57 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-28T11:57:21.067061-03:00.lighthouse.json) |
-| [August 28 at 9:05 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-28T09:05:03.576570-03:00.lighthouse.json) |
-| [August 28 at 12:42 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-28T00:42:25.791611-03:00.lighthouse.json) |
-| [August 27 at 11:52 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-27T11:51:58.240966-03:00.lighthouse.json) |
-| [August 27 at 8:58 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-27T08:57:58.962914-03:00.lighthouse.json) |
-| [August 27 at 12:38 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-27T00:38:14.994787-03:00.lighthouse.json) |
-| [August 26 at 11:59 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-26T11:59:33.002708-03:00.lighthouse.json) |
-| [August 26 at 9:02 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-26T09:02:17.860956-03:00.lighthouse.json) |
-| [August 26 at 12:44 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-26T00:44:31.176386-03:00.lighthouse.json) |
-| [August 25 at 12:02 PM](https://archive.org/download/lancenet-2022/lancenet-2022-08-25T12:02:14.430552-03:00.lighthouse.json) |
+| [August 30 at 5:34 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-30T12:34:43.323360-03:00.lighthouse.json) |
+| [August 30 at 2:14 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-30T09:14:48.280446-03:00.lighthouse.json) |
+| [August 29 at 5:54 PM](https://archive.org/download/lancenet-2022/lancenet-2022-08-30T00:54:47.918980-03:00.lighthouse.json) |
+| [August 29 at 5:08 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-29T12:08:18.181458-03:00.lighthouse.json) |
+| [August 29 at 2:03 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-29T09:02:56.627347-03:00.lighthouse.json) |
+| [August 28 at 5:44 PM](https://archive.org/download/lancenet-2022/lancenet-2022-08-29T00:44:27.787907-03:00.lighthouse.json) |
+| [August 28 at 4:57 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-28T11:57:21.067061-03:00.lighthouse.json) |
+| [August 28 at 2:05 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-28T09:05:03.576570-03:00.lighthouse.json) |
+| [August 27 at 5:42 PM](https://archive.org/download/lancenet-2022/lancenet-2022-08-28T00:42:25.791611-03:00.lighthouse.json) |
+| [August 27 at 4:52 AM](https://archive.org/download/lancenet-2022/lancenet-2022-08-27T11:51:58.240966-03:00.lighthouse.json) |
 
 
 

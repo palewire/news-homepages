@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 84 screenshots with the Internet Archive.
+The archiving routine has saved 88 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-28T06:04:27.506368-07:00.jpg">
-  <img src="https://archive.org/download/thewrap-2022/thewrap-2022-08-28T06:04:27.506368-07:00.jpg"
-     alt="Wrap at 2022-08-28 06:04:31-07:00 local time"
+ <a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-30T06:15:48.897553-07:00.jpg">
+  <img src="https://archive.org/download/thewrap-2022/thewrap-2022-08-30T06:15:48.897553-07:00.jpg"
+     alt="Wrap at 2022-08-29 23:15:53-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-28T06:04:27.506368-07:00.jpg">August 28 at 6:04 AM</a></p>
+ <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-30T06:15:48.897553-07:00.jpg">August 29 at 11:15 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-29T18:21:10.437507-07:00.jpg">
+  <img src="https://archive.org/download/thewrap-2022/thewrap-2022-08-29T18:21:10.437507-07:00.jpg"
+     alt="Wrap at 2022-08-29 11:21:11-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-29T18:21:10.437507-07:00.jpg">August 29 at 11:21 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-29T06:05:05.568912-07:00.jpg">
+  <img src="https://archive.org/download/thewrap-2022/thewrap-2022-08-29T06:05:05.568912-07:00.jpg"
+     alt="Wrap at 2022-08-28 23:05:10-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-29T06:05:05.568912-07:00.jpg">August 28 at 11:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-28T18:19:45.492275-07:00.jpg">
+  <img src="https://archive.org/download/thewrap-2022/thewrap-2022-08-28T18:19:45.492275-07:00.jpg"
+     alt="Wrap at 2022-08-28 11:19:47-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-28T18:19:45.492275-07:00.jpg">August 28 at 11:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-28T06:04:27.506368-07:00.jpg">
+  <img src="https://archive.org/download/thewrap-2022/thewrap-2022-08-28T06:04:27.506368-07:00.jpg"
+     alt="Wrap at 2022-08-27 23:04:31-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-28T06:04:27.506368-07:00.jpg">August 27 at 11:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-27T18:32:03.980598-07:00.jpg">
   <img src="https://archive.org/download/thewrap-2022/thewrap-2022-08-27T18:32:03.980598-07:00.jpg"
-     alt="Wrap at 2022-08-27 18:32:05-07:00 local time"
+     alt="Wrap at 2022-08-27 11:32:05-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-27T18:32:03.980598-07:00.jpg">August 27 at 6:32 PM</a></p>
+ <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-27T18:32:03.980598-07:00.jpg">August 27 at 11:32 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-27T06:00:01.474367-07:00.jpg">
   <img src="https://archive.org/download/thewrap-2022/thewrap-2022-08-27T06:00:01.474367-07:00.jpg"
-     alt="Wrap at 2022-08-27 06:00:05-07:00 local time"
+     alt="Wrap at 2022-08-26 23:00:05-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-27T06:00:01.474367-07:00.jpg">August 27 at 6:00 AM</a></p>
+ <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-27T06:00:01.474367-07:00.jpg">August 26 at 11:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-26T18:11:08.036285-07:00.jpg">
   <img src="https://archive.org/download/thewrap-2022/thewrap-2022-08-26T18:11:08.036285-07:00.jpg"
-     alt="Wrap at 2022-08-26 18:11:10-07:00 local time"
+     alt="Wrap at 2022-08-26 11:11:10-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-26T18:11:08.036285-07:00.jpg">August 26 at 6:11 PM</a></p>
+ <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-26T18:11:08.036285-07:00.jpg">August 26 at 11:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-26T06:04:38.179078-07:00.jpg">
   <img src="https://archive.org/download/thewrap-2022/thewrap-2022-08-26T06:04:38.179078-07:00.jpg"
-     alt="Wrap at 2022-08-26 06:04:44-07:00 local time"
+     alt="Wrap at 2022-08-25 23:04:44-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-26T06:04:38.179078-07:00.jpg">August 26 at 6:04 AM</a></p>
+ <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-26T06:04:38.179078-07:00.jpg">August 25 at 11:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-25T18:18:19.051400-07:00.jpg">
   <img src="https://archive.org/download/thewrap-2022/thewrap-2022-08-25T18:18:19.051400-07:00.jpg"
-     alt="Wrap at 2022-08-25 18:18:21-07:00 local time"
+     alt="Wrap at 2022-08-25 11:18:21-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-25T18:18:19.051400-07:00.jpg">August 25 at 6:18 PM</a></p>
+ <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-25T18:18:19.051400-07:00.jpg">August 25 at 11:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-25T06:07:56.864585-07:00.jpg">
   <img src="https://archive.org/download/thewrap-2022/thewrap-2022-08-25T06:07:56.864585-07:00.jpg"
-     alt="Wrap at 2022-08-25 06:08:00-07:00 local time"
+     alt="Wrap at 2022-08-24 23:08:00-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-25T06:07:56.864585-07:00.jpg">August 25 at 6:08 AM</a></p>
+ <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-25T06:07:56.864585-07:00.jpg">August 24 at 11:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-24T05:59:16.573719-07:00.jpg">
   <img src="https://archive.org/download/thewrap-2022/thewrap-2022-08-24T05:59:16.573719-07:00.jpg"
-     alt="Wrap at 2022-08-24 05:59:20-07:00 local time"
+     alt="Wrap at 2022-08-23 22:59:20-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-24T05:59:16.573719-07:00.jpg">August 24 at 5:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-23T18:12:28.933025-07:00.jpg">
-  <img src="https://archive.org/download/thewrap-2022/thewrap-2022-08-23T18:12:28.933025-07:00.jpg"
-     alt="Wrap at 2022-08-23 18:12:36-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-23T18:12:28.933025-07:00.jpg">August 23 at 6:12 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-23T06:00:03.763366-07:00.jpg">
-  <img src="https://archive.org/download/thewrap-2022/thewrap-2022-08-23T06:00:03.763366-07:00.jpg"
-     alt="Wrap at 2022-08-23 06:00:10-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-23T06:00:03.763366-07:00.jpg">August 23 at 6:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-22T18:26:10.455308-07:00.jpg">
-  <img src="https://archive.org/download/thewrap-2022/thewrap-2022-08-22T18:26:10.455308-07:00.jpg"
-     alt="Wrap at 2022-08-22 18:26:12-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-22T18:26:10.455308-07:00.jpg">August 22 at 6:26 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-22T06:06:22.802633-07:00.jpg">
-  <img src="https://archive.org/download/thewrap-2022/thewrap-2022-08-22T06:06:22.802633-07:00.jpg"
-     alt="Wrap at 2022-08-22 06:06:25-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-22T06:06:22.802633-07:00.jpg">August 22 at 6:06 AM</a></p>
+ <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-24T05:59:16.573719-07:00.jpg">August 23 at 10:59 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 83 hyperlink lists with the Internet Archive.
+The archiving routine has saved 87 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 6:04 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-28T06:04:27.506368-07:00.hyperlinks.json) |
-| [August 27 at 6:32 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-27T18:32:03.980598-07:00.hyperlinks.json) |
-| [August 27 at 6:00 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-27T06:00:01.474367-07:00.hyperlinks.json) |
-| [August 26 at 6:11 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-26T18:11:08.036285-07:00.hyperlinks.json) |
-| [August 26 at 6:04 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-26T06:04:38.179078-07:00.hyperlinks.json) |
-| [August 25 at 6:18 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-25T18:18:19.051400-07:00.hyperlinks.json) |
-| [August 25 at 6:08 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-25T06:07:56.864585-07:00.hyperlinks.json) |
-| [August 24 at 5:59 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-24T05:59:16.573719-07:00.hyperlinks.json) |
-| [August 23 at 6:12 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-23T18:12:28.933025-07:00.hyperlinks.json) |
-| [August 23 at 6:00 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-23T06:00:03.763366-07:00.hyperlinks.json) |
+| [August 29 at 11:15 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-30T06:15:48.897553-07:00.hyperlinks.json) |
+| [August 29 at 11:21 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-29T18:21:10.437507-07:00.hyperlinks.json) |
+| [August 28 at 11:05 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-29T06:05:05.568912-07:00.hyperlinks.json) |
+| [August 28 at 11:19 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-28T18:19:45.492275-07:00.hyperlinks.json) |
+| [August 27 at 11:04 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-28T06:04:27.506368-07:00.hyperlinks.json) |
+| [August 27 at 11:32 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-27T18:32:03.980598-07:00.hyperlinks.json) |
+| [August 26 at 11:00 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-27T06:00:01.474367-07:00.hyperlinks.json) |
+| [August 26 at 11:11 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-26T18:11:08.036285-07:00.hyperlinks.json) |
+| [August 25 at 11:04 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-26T06:04:38.179078-07:00.hyperlinks.json) |
+| [August 25 at 11:18 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-25T18:18:19.051400-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 86 accessibility trees with the Internet Archive.
+The archiving routine has saved 90 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 6:04 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-28T06:04:27.506368-07:00.accessibility.json) |
-| [August 27 at 6:32 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-27T18:32:03.980598-07:00.accessibility.json) |
-| [August 27 at 6:00 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-27T06:00:01.474367-07:00.accessibility.json) |
-| [August 26 at 6:11 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-26T18:11:08.036285-07:00.accessibility.json) |
-| [August 26 at 6:04 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-26T06:04:38.179078-07:00.accessibility.json) |
-| [August 25 at 6:18 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-25T18:18:19.051400-07:00.accessibility.json) |
-| [August 25 at 6:08 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-25T06:07:56.864585-07:00.accessibility.json) |
-| [August 24 at 5:59 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-24T05:59:16.573719-07:00.accessibility.json) |
-| [August 23 at 6:12 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-23T18:12:28.933025-07:00.accessibility.json) |
-| [August 23 at 6:00 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-23T06:00:03.763366-07:00.accessibility.json) |
+| [August 29 at 11:15 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-30T06:15:48.897553-07:00.accessibility.json) |
+| [August 29 at 11:21 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-29T18:21:10.437507-07:00.accessibility.json) |
+| [August 28 at 11:05 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-29T06:05:05.568912-07:00.accessibility.json) |
+| [August 28 at 11:19 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-28T18:19:45.492275-07:00.accessibility.json) |
+| [August 27 at 11:04 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-28T06:04:27.506368-07:00.accessibility.json) |
+| [August 27 at 11:32 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-27T18:32:03.980598-07:00.accessibility.json) |
+| [August 26 at 11:00 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-27T06:00:01.474367-07:00.accessibility.json) |
+| [August 26 at 11:11 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-26T18:11:08.036285-07:00.accessibility.json) |
+| [August 25 at 11:04 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-26T06:04:38.179078-07:00.accessibility.json) |
+| [August 25 at 11:18 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-25T18:18:19.051400-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 74 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 78 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 6:04 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-28T06:04:27.506368-07:00.lighthouse.json) |
-| [August 27 at 6:32 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-27T18:32:03.980598-07:00.lighthouse.json) |
-| [August 27 at 6:00 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-27T06:00:01.474367-07:00.lighthouse.json) |
-| [August 26 at 6:11 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-26T18:11:08.036285-07:00.lighthouse.json) |
-| [August 26 at 6:04 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-26T06:04:38.179078-07:00.lighthouse.json) |
-| [August 25 at 6:18 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-25T18:18:19.051400-07:00.lighthouse.json) |
-| [August 25 at 6:08 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-25T06:07:56.864585-07:00.lighthouse.json) |
-| [August 24 at 5:59 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-24T05:59:16.573719-07:00.lighthouse.json) |
-| [August 23 at 6:12 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-23T18:12:28.933025-07:00.lighthouse.json) |
-| [August 23 at 6:00 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-23T06:00:03.763366-07:00.lighthouse.json) |
+| [August 29 at 11:15 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-30T06:15:48.897553-07:00.lighthouse.json) |
+| [August 29 at 11:21 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-29T18:21:10.437507-07:00.lighthouse.json) |
+| [August 28 at 11:05 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-29T06:05:05.568912-07:00.lighthouse.json) |
+| [August 28 at 11:19 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-28T18:19:45.492275-07:00.lighthouse.json) |
+| [August 27 at 11:04 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-28T06:04:27.506368-07:00.lighthouse.json) |
+| [August 27 at 11:32 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-27T18:32:03.980598-07:00.lighthouse.json) |
+| [August 26 at 11:00 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-27T06:00:01.474367-07:00.lighthouse.json) |
+| [August 26 at 11:11 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-26T18:11:08.036285-07:00.lighthouse.json) |
+| [August 25 at 11:04 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-26T06:04:38.179078-07:00.lighthouse.json) |
+| [August 25 at 11:18 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-25T18:18:19.051400-07:00.lighthouse.json) |
 
 
 

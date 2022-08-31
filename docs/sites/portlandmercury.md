@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 87 screenshots with the Internet Archive.
+The archiving routine has saved 91 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-28T09:00:04.456353-07:00.jpg">
-  <img src="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-28T09:00:04.456353-07:00.jpg"
-     alt="Portland Mercury at 2022-08-28 09:00:11-07:00 local time"
+ <a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-30T09:33:08.883805-07:00.jpg">
+  <img src="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-30T09:33:08.883805-07:00.jpg"
+     alt="Portland Mercury at 2022-08-30 02:33:10-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-28T09:00:04.456353-07:00.jpg">August 28 at 9:00 AM</a></p>
+ <p><a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-30T09:33:08.883805-07:00.jpg">August 30 at 2:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-29T21:54:09.766605-07:00.jpg">
+  <img src="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-29T21:54:09.766605-07:00.jpg"
+     alt="Portland Mercury at 2022-08-29 14:54:11-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-29T21:54:09.766605-07:00.jpg">August 29 at 2:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-29T09:14:21.011735-07:00.jpg">
+  <img src="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-29T09:14:21.011735-07:00.jpg"
+     alt="Portland Mercury at 2022-08-29 02:14:24-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-29T09:14:21.011735-07:00.jpg">August 29 at 2:14 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-28T21:39:10.677434-07:00.jpg">
+  <img src="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-28T21:39:10.677434-07:00.jpg"
+     alt="Portland Mercury at 2022-08-28 14:39:12-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-28T21:39:10.677434-07:00.jpg">August 28 at 2:39 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-28T09:00:04.456353-07:00.jpg">
+  <img src="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-28T09:00:04.456353-07:00.jpg"
+     alt="Portland Mercury at 2022-08-28 02:00:11-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-28T09:00:04.456353-07:00.jpg">August 28 at 2:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-27T21:35:34.567705-07:00.jpg">
   <img src="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-27T21:35:34.567705-07:00.jpg"
-     alt="Portland Mercury at 2022-08-27 21:35:35-07:00 local time"
+     alt="Portland Mercury at 2022-08-27 14:35:35-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-27T21:35:34.567705-07:00.jpg">August 27 at 9:35 PM</a></p>
+ <p><a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-27T21:35:34.567705-07:00.jpg">August 27 at 2:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-27T08:56:51.844938-07:00.jpg">
   <img src="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-27T08:56:51.844938-07:00.jpg"
-     alt="Portland Mercury at 2022-08-27 08:56:53-07:00 local time"
+     alt="Portland Mercury at 2022-08-27 01:56:53-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-27T08:56:51.844938-07:00.jpg">August 27 at 8:56 AM</a></p>
+ <p><a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-27T08:56:51.844938-07:00.jpg">August 27 at 1:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-26T21:35:34.894112-07:00.jpg">
   <img src="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-26T21:35:34.894112-07:00.jpg"
-     alt="Portland Mercury at 2022-08-26 21:35:36-07:00 local time"
+     alt="Portland Mercury at 2022-08-26 14:35:36-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-26T21:35:34.894112-07:00.jpg">August 26 at 9:35 PM</a></p>
+ <p><a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-26T21:35:34.894112-07:00.jpg">August 26 at 2:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-26T09:04:26.359665-07:00.jpg">
   <img src="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-26T09:04:26.359665-07:00.jpg"
-     alt="Portland Mercury at 2022-08-26 09:04:29-07:00 local time"
+     alt="Portland Mercury at 2022-08-26 02:04:29-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-26T09:04:26.359665-07:00.jpg">August 26 at 9:04 AM</a></p>
+ <p><a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-26T09:04:26.359665-07:00.jpg">August 26 at 2:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-25T09:03:01.486663-07:00.jpg">
   <img src="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-25T09:03:01.486663-07:00.jpg"
-     alt="Portland Mercury at 2022-08-25 09:03:02-07:00 local time"
+     alt="Portland Mercury at 2022-08-25 02:03:02-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-25T09:03:01.486663-07:00.jpg">August 25 at 9:03 AM</a></p>
+ <p><a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-25T09:03:01.486663-07:00.jpg">August 25 at 2:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-24T08:59:54.313055-07:00.jpg">
   <img src="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-24T08:59:54.313055-07:00.jpg"
-     alt="Portland Mercury at 2022-08-24 08:59:57-07:00 local time"
+     alt="Portland Mercury at 2022-08-24 01:59:57-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-24T08:59:54.313055-07:00.jpg">August 24 at 8:59 AM</a></p>
+ <p><a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-24T08:59:54.313055-07:00.jpg">August 24 at 1:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-23T21:35:33.250861-07:00.jpg">
   <img src="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-23T21:35:33.250861-07:00.jpg"
-     alt="Portland Mercury at 2022-08-23 21:35:37-07:00 local time"
+     alt="Portland Mercury at 2022-08-23 14:35:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-23T21:35:33.250861-07:00.jpg">August 23 at 9:35 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-23T09:04:00.234759-07:00.jpg">
-  <img src="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-23T09:04:00.234759-07:00.jpg"
-     alt="Portland Mercury at 2022-08-23 09:04:01-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-23T09:04:00.234759-07:00.jpg">August 23 at 9:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-22T20:53:43.429988-07:00.jpg">
-  <img src="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-22T20:53:43.429988-07:00.jpg"
-     alt="Portland Mercury at 2022-08-22 20:53:48-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-22T20:53:43.429988-07:00.jpg">August 22 at 8:53 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-22T08:00:29.263245-07:00.jpg">
-  <img src="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-22T08:00:29.263245-07:00.jpg"
-     alt="Portland Mercury at 2022-08-22 08:00:34-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-22T08:00:29.263245-07:00.jpg">August 22 at 8:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-21T20:40:52.374170-07:00.jpg">
-  <img src="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-21T20:40:52.374170-07:00.jpg"
-     alt="Portland Mercury at 2022-08-21 20:40:54-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-21T20:40:52.374170-07:00.jpg">August 21 at 8:40 PM</a></p>
+ <p><a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-23T21:35:33.250861-07:00.jpg">August 23 at 2:35 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 94 hyperlink lists with the Internet Archive.
+The archiving routine has saved 98 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 9:00 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-28T09:00:04.456353-07:00.hyperlinks.json) |
-| [August 27 at 9:35 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-27T21:35:34.567705-07:00.hyperlinks.json) |
-| [August 27 at 8:56 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-27T08:56:51.844938-07:00.hyperlinks.json) |
-| [August 26 at 9:35 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-26T21:35:34.894112-07:00.hyperlinks.json) |
-| [August 26 at 9:04 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-26T09:04:26.359665-07:00.hyperlinks.json) |
-| [August 25 at 9:40 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-25T21:40:52.717110-07:00.hyperlinks.json) |
-| [August 25 at 9:03 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-25T09:03:01.486663-07:00.hyperlinks.json) |
-| [August 24 at 9:00 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-24T08:59:54.313055-07:00.hyperlinks.json) |
-| [August 23 at 9:35 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-23T21:35:33.250861-07:00.hyperlinks.json) |
-| [August 23 at 9:04 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-23T09:04:00.234759-07:00.hyperlinks.json) |
+| [August 30 at 2:33 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-30T09:33:08.883805-07:00.hyperlinks.json) |
+| [August 29 at 2:54 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-29T21:54:09.766605-07:00.hyperlinks.json) |
+| [August 29 at 2:14 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-29T09:14:21.011735-07:00.hyperlinks.json) |
+| [August 28 at 2:39 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-28T21:39:10.677434-07:00.hyperlinks.json) |
+| [August 28 at 2:00 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-28T09:00:04.456353-07:00.hyperlinks.json) |
+| [August 27 at 2:35 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-27T21:35:34.567705-07:00.hyperlinks.json) |
+| [August 27 at 1:56 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-27T08:56:51.844938-07:00.hyperlinks.json) |
+| [August 26 at 2:35 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-26T21:35:34.894112-07:00.hyperlinks.json) |
+| [August 26 at 2:04 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-26T09:04:26.359665-07:00.hyperlinks.json) |
+| [August 25 at 2:40 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-25T21:40:52.717110-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 101 accessibility trees with the Internet Archive.
+The archiving routine has saved 105 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 9:00 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-28T09:00:04.456353-07:00.accessibility.json) |
-| [August 27 at 9:35 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-27T21:35:34.567705-07:00.accessibility.json) |
-| [August 27 at 8:56 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-27T08:56:51.844938-07:00.accessibility.json) |
-| [August 26 at 9:35 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-26T21:35:34.894112-07:00.accessibility.json) |
-| [August 26 at 9:04 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-26T09:04:26.359665-07:00.accessibility.json) |
-| [August 25 at 9:40 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-25T21:40:52.717110-07:00.accessibility.json) |
-| [August 25 at 9:03 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-25T09:03:01.486663-07:00.accessibility.json) |
-| [August 24 at 8:59 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-24T08:59:54.313055-07:00.accessibility.json) |
-| [August 23 at 9:35 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-23T21:35:33.250861-07:00.accessibility.json) |
-| [August 23 at 9:04 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-23T09:04:00.234759-07:00.accessibility.json) |
+| [August 30 at 2:33 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-30T09:33:08.883805-07:00.accessibility.json) |
+| [August 29 at 2:54 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-29T21:54:09.766605-07:00.accessibility.json) |
+| [August 29 at 2:14 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-29T09:14:21.011735-07:00.accessibility.json) |
+| [August 28 at 2:39 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-28T21:39:10.677434-07:00.accessibility.json) |
+| [August 28 at 2:00 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-28T09:00:04.456353-07:00.accessibility.json) |
+| [August 27 at 2:35 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-27T21:35:34.567705-07:00.accessibility.json) |
+| [August 27 at 1:56 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-27T08:56:51.844938-07:00.accessibility.json) |
+| [August 26 at 2:35 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-26T21:35:34.894112-07:00.accessibility.json) |
+| [August 26 at 2:04 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-26T09:04:26.359665-07:00.accessibility.json) |
+| [August 25 at 2:40 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-25T21:40:52.717110-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 71 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 75 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 9:00 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-28T09:00:04.456353-07:00.lighthouse.json) |
-| [August 27 at 9:35 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-27T21:35:34.567705-07:00.lighthouse.json) |
-| [August 27 at 8:56 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-27T08:56:51.844938-07:00.lighthouse.json) |
-| [August 26 at 9:35 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-26T21:35:34.894112-07:00.lighthouse.json) |
-| [August 26 at 9:04 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-26T09:04:26.359665-07:00.lighthouse.json) |
-| [August 25 at 9:40 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-25T21:40:52.717110-07:00.lighthouse.json) |
-| [August 25 at 9:03 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-25T09:03:01.486663-07:00.lighthouse.json) |
-| [August 24 at 9:00 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-24T08:59:54.313055-07:00.lighthouse.json) |
-| [August 23 at 9:35 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-23T21:35:33.250861-07:00.lighthouse.json) |
-| [August 23 at 9:04 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-23T09:04:00.234759-07:00.lighthouse.json) |
+| [August 30 at 2:33 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-30T09:33:08.883805-07:00.lighthouse.json) |
+| [August 29 at 2:54 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-29T21:54:09.766605-07:00.lighthouse.json) |
+| [August 29 at 2:14 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-29T09:14:21.011735-07:00.lighthouse.json) |
+| [August 28 at 2:39 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-28T21:39:10.677434-07:00.lighthouse.json) |
+| [August 28 at 2:00 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-28T09:00:04.456353-07:00.lighthouse.json) |
+| [August 27 at 2:35 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-27T21:35:34.567705-07:00.lighthouse.json) |
+| [August 27 at 1:56 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-27T08:56:51.844938-07:00.lighthouse.json) |
+| [August 26 at 2:35 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-26T21:35:34.894112-07:00.lighthouse.json) |
+| [August 26 at 2:04 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-26T09:04:26.359665-07:00.lighthouse.json) |
+| [August 25 at 2:40 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-25T21:40:52.717110-07:00.lighthouse.json) |
 
 
 

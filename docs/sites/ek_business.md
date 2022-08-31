@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 70 screenshots with the Internet Archive.
+The archiving routine has saved 74 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-28T19:47:59.635168+05:45.jpg">
-  <img src="https://archive.org/download/ek_business-2022/ek_business-2022-08-28T19:47:59.635168+05:45.jpg"
-     alt="Ekantipur at 2022-08-28 19:48:09+05:45 local time"
+ <a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-30T21:07:19.922840+05:45.jpg">
+  <img src="https://archive.org/download/ek_business-2022/ek_business-2022-08-30T21:07:19.922840+05:45.jpg"
+     alt="Ekantipur at 2022-08-30 14:07:24+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-28T19:47:59.635168+05:45.jpg">August 28 at 7:48 PM</a></p>
+ <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-30T21:07:19.922840+05:45.jpg">August 30 at 2:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-30T08:16:29.264407+05:45.jpg">
+  <img src="https://archive.org/download/ek_business-2022/ek_business-2022-08-30T08:16:29.264407+05:45.jpg"
+     alt="Ekantipur at 2022-08-30 01:16:32+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-30T08:16:29.264407+05:45.jpg">August 30 at 1:16 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-29T19:54:27.597360+05:45.jpg">
+  <img src="https://archive.org/download/ek_business-2022/ek_business-2022-08-29T19:54:27.597360+05:45.jpg"
+     alt="Ekantipur at 2022-08-29 12:54:31+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-29T19:54:27.597360+05:45.jpg">August 29 at 12:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-29T08:10:59.564751+05:45.jpg">
+  <img src="https://archive.org/download/ek_business-2022/ek_business-2022-08-29T08:10:59.564751+05:45.jpg"
+     alt="Ekantipur at 2022-08-29 01:11:04+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-29T08:10:59.564751+05:45.jpg">August 29 at 1:11 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-28T19:47:59.635168+05:45.jpg">
+  <img src="https://archive.org/download/ek_business-2022/ek_business-2022-08-28T19:47:59.635168+05:45.jpg"
+     alt="Ekantipur at 2022-08-28 12:48:09+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-28T19:47:59.635168+05:45.jpg">August 28 at 12:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-28T08:13:31.249661+05:45.jpg">
   <img src="https://archive.org/download/ek_business-2022/ek_business-2022-08-28T08:13:31.249661+05:45.jpg"
-     alt="Ekantipur at 2022-08-28 08:13:33+05:45 local time"
+     alt="Ekantipur at 2022-08-28 01:13:33+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-28T08:13:31.249661+05:45.jpg">August 28 at 8:13 AM</a></p>
+ <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-28T08:13:31.249661+05:45.jpg">August 28 at 1:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-27T19:44:55.379111+05:45.jpg">
   <img src="https://archive.org/download/ek_business-2022/ek_business-2022-08-27T19:44:55.379111+05:45.jpg"
-     alt="Ekantipur at 2022-08-27 19:44:58+05:45 local time"
+     alt="Ekantipur at 2022-08-27 12:44:58+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-27T19:44:55.379111+05:45.jpg">August 27 at 7:44 PM</a></p>
+ <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-27T19:44:55.379111+05:45.jpg">August 27 at 12:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-27T08:07:04.385630+05:45.jpg">
   <img src="https://archive.org/download/ek_business-2022/ek_business-2022-08-27T08:07:04.385630+05:45.jpg"
-     alt="Ekantipur at 2022-08-27 08:07:06+05:45 local time"
+     alt="Ekantipur at 2022-08-27 01:07:06+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-27T08:07:04.385630+05:45.jpg">August 27 at 8:07 AM</a></p>
+ <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-27T08:07:04.385630+05:45.jpg">August 27 at 1:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-26T19:50:52.097270+05:45.jpg">
   <img src="https://archive.org/download/ek_business-2022/ek_business-2022-08-26T19:50:52.097270+05:45.jpg"
-     alt="Ekantipur at 2022-08-26 19:50:57+05:45 local time"
+     alt="Ekantipur at 2022-08-26 12:50:57+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-26T19:50:52.097270+05:45.jpg">August 26 at 7:50 PM</a></p>
+ <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-26T19:50:52.097270+05:45.jpg">August 26 at 12:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-26T08:10:00.630690+05:45.jpg">
   <img src="https://archive.org/download/ek_business-2022/ek_business-2022-08-26T08:10:00.630690+05:45.jpg"
-     alt="Ekantipur at 2022-08-26 08:10:08+05:45 local time"
+     alt="Ekantipur at 2022-08-26 01:10:08+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-26T08:10:00.630690+05:45.jpg">August 26 at 8:10 AM</a></p>
+ <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-26T08:10:00.630690+05:45.jpg">August 26 at 1:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-25T20:42:32.804263+05:45.jpg">
   <img src="https://archive.org/download/ek_business-2022/ek_business-2022-08-25T20:42:32.804263+05:45.jpg"
-     alt="Ekantipur at 2022-08-25 20:42:37+05:45 local time"
+     alt="Ekantipur at 2022-08-25 13:42:37+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-25T20:42:32.804263+05:45.jpg">August 25 at 8:42 PM</a></p>
+ <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-25T20:42:32.804263+05:45.jpg">August 25 at 1:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-24T19:46:30.903232+05:45.jpg">
   <img src="https://archive.org/download/ek_business-2022/ek_business-2022-08-24T19:46:30.903232+05:45.jpg"
-     alt="Ekantipur at 2022-08-24 19:46:34+05:45 local time"
+     alt="Ekantipur at 2022-08-24 12:46:34+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-24T19:46:30.903232+05:45.jpg">August 24 at 7:46 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-24T08:04:29.465260+05:45.jpg">
-  <img src="https://archive.org/download/ek_business-2022/ek_business-2022-08-24T08:04:29.465260+05:45.jpg"
-     alt="Ekantipur at 2022-08-24 08:04:32+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-24T08:04:29.465260+05:45.jpg">August 24 at 8:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-23T19:47:39.814484+05:45.jpg">
-  <img src="https://archive.org/download/ek_business-2022/ek_business-2022-08-23T19:47:39.814484+05:45.jpg"
-     alt="Ekantipur at 2022-08-23 19:47:44+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-23T19:47:39.814484+05:45.jpg">August 23 at 7:47 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-23T08:10:43.547814+05:45.jpg">
-  <img src="https://archive.org/download/ek_business-2022/ek_business-2022-08-23T08:10:43.547814+05:45.jpg"
-     alt="Ekantipur at 2022-08-23 08:10:46+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-23T08:10:43.547814+05:45.jpg">August 23 at 8:10 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-22T19:52:09.395958+05:45.jpg">
-  <img src="https://archive.org/download/ek_business-2022/ek_business-2022-08-22T19:52:09.395958+05:45.jpg"
-     alt="Ekantipur at 2022-08-22 19:52:15+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-22T19:52:09.395958+05:45.jpg">August 22 at 7:52 PM</a></p>
+ <p><a href="https://archive.org/download/ek_business-2022/ek_business-2022-08-24T19:46:30.903232+05:45.jpg">August 24 at 12:46 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 70 hyperlink lists with the Internet Archive.
+The archiving routine has saved 74 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 7:48 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-28T19:47:59.635168+05:45.hyperlinks.json) |
-| [August 28 at 8:13 AM](https://archive.org/download/ek_business-2022/ek_business-2022-08-28T08:13:31.249661+05:45.hyperlinks.json) |
-| [August 27 at 7:45 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-27T19:44:55.379111+05:45.hyperlinks.json) |
-| [August 27 at 8:07 AM](https://archive.org/download/ek_business-2022/ek_business-2022-08-27T08:07:04.385630+05:45.hyperlinks.json) |
-| [August 26 at 7:51 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-26T19:50:52.097270+05:45.hyperlinks.json) |
-| [August 26 at 8:10 AM](https://archive.org/download/ek_business-2022/ek_business-2022-08-26T08:10:00.630690+05:45.hyperlinks.json) |
-| [August 25 at 8:42 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-25T20:42:32.804263+05:45.hyperlinks.json) |
-| [August 24 at 7:46 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-24T19:46:30.903232+05:45.hyperlinks.json) |
-| [August 24 at 8:04 AM](https://archive.org/download/ek_business-2022/ek_business-2022-08-24T08:04:29.465260+05:45.hyperlinks.json) |
-| [August 23 at 7:47 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-23T19:47:39.814484+05:45.hyperlinks.json) |
+| [August 30 at 2:07 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-30T21:07:19.922840+05:45.hyperlinks.json) |
+| [August 30 at 1:16 AM](https://archive.org/download/ek_business-2022/ek_business-2022-08-30T08:16:29.264407+05:45.hyperlinks.json) |
+| [August 29 at 12:54 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-29T19:54:27.597360+05:45.hyperlinks.json) |
+| [August 29 at 1:11 AM](https://archive.org/download/ek_business-2022/ek_business-2022-08-29T08:10:59.564751+05:45.hyperlinks.json) |
+| [August 28 at 12:48 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-28T19:47:59.635168+05:45.hyperlinks.json) |
+| [August 28 at 1:13 AM](https://archive.org/download/ek_business-2022/ek_business-2022-08-28T08:13:31.249661+05:45.hyperlinks.json) |
+| [August 27 at 12:45 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-27T19:44:55.379111+05:45.hyperlinks.json) |
+| [August 27 at 1:07 AM](https://archive.org/download/ek_business-2022/ek_business-2022-08-27T08:07:04.385630+05:45.hyperlinks.json) |
+| [August 26 at 12:51 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-26T19:50:52.097270+05:45.hyperlinks.json) |
+| [August 26 at 1:10 AM](https://archive.org/download/ek_business-2022/ek_business-2022-08-26T08:10:00.630690+05:45.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 70 accessibility trees with the Internet Archive.
+The archiving routine has saved 74 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 7:48 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-28T19:47:59.635168+05:45.accessibility.json) |
-| [August 28 at 8:13 AM](https://archive.org/download/ek_business-2022/ek_business-2022-08-28T08:13:31.249661+05:45.accessibility.json) |
-| [August 27 at 7:45 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-27T19:44:55.379111+05:45.accessibility.json) |
-| [August 27 at 8:07 AM](https://archive.org/download/ek_business-2022/ek_business-2022-08-27T08:07:04.385630+05:45.accessibility.json) |
-| [August 26 at 7:51 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-26T19:50:52.097270+05:45.accessibility.json) |
-| [August 26 at 8:10 AM](https://archive.org/download/ek_business-2022/ek_business-2022-08-26T08:10:00.630690+05:45.accessibility.json) |
-| [August 25 at 8:42 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-25T20:42:32.804263+05:45.accessibility.json) |
-| [August 24 at 7:46 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-24T19:46:30.903232+05:45.accessibility.json) |
-| [August 24 at 8:04 AM](https://archive.org/download/ek_business-2022/ek_business-2022-08-24T08:04:29.465260+05:45.accessibility.json) |
-| [August 23 at 7:47 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-23T19:47:39.814484+05:45.accessibility.json) |
+| [August 30 at 2:07 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-30T21:07:19.922840+05:45.accessibility.json) |
+| [August 30 at 1:16 AM](https://archive.org/download/ek_business-2022/ek_business-2022-08-30T08:16:29.264407+05:45.accessibility.json) |
+| [August 29 at 12:54 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-29T19:54:27.597360+05:45.accessibility.json) |
+| [August 29 at 1:11 AM](https://archive.org/download/ek_business-2022/ek_business-2022-08-29T08:10:59.564751+05:45.accessibility.json) |
+| [August 28 at 12:48 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-28T19:47:59.635168+05:45.accessibility.json) |
+| [August 28 at 1:13 AM](https://archive.org/download/ek_business-2022/ek_business-2022-08-28T08:13:31.249661+05:45.accessibility.json) |
+| [August 27 at 12:45 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-27T19:44:55.379111+05:45.accessibility.json) |
+| [August 27 at 1:07 AM](https://archive.org/download/ek_business-2022/ek_business-2022-08-27T08:07:04.385630+05:45.accessibility.json) |
+| [August 26 at 12:51 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-26T19:50:52.097270+05:45.accessibility.json) |
+| [August 26 at 1:10 AM](https://archive.org/download/ek_business-2022/ek_business-2022-08-26T08:10:00.630690+05:45.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 70 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 74 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 7:48 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-28T19:47:59.635168+05:45.lighthouse.json) |
-| [August 28 at 8:13 AM](https://archive.org/download/ek_business-2022/ek_business-2022-08-28T08:13:31.249661+05:45.lighthouse.json) |
-| [August 27 at 7:45 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-27T19:44:55.379111+05:45.lighthouse.json) |
-| [August 27 at 8:07 AM](https://archive.org/download/ek_business-2022/ek_business-2022-08-27T08:07:04.385630+05:45.lighthouse.json) |
-| [August 26 at 7:51 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-26T19:50:52.097270+05:45.lighthouse.json) |
-| [August 26 at 8:10 AM](https://archive.org/download/ek_business-2022/ek_business-2022-08-26T08:10:00.630690+05:45.lighthouse.json) |
-| [August 25 at 8:42 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-25T20:42:32.804263+05:45.lighthouse.json) |
-| [August 24 at 7:46 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-24T19:46:30.903232+05:45.lighthouse.json) |
-| [August 24 at 8:04 AM](https://archive.org/download/ek_business-2022/ek_business-2022-08-24T08:04:29.465260+05:45.lighthouse.json) |
-| [August 23 at 7:47 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-23T19:47:39.814484+05:45.lighthouse.json) |
+| [August 30 at 2:07 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-30T21:07:19.922840+05:45.lighthouse.json) |
+| [August 30 at 1:16 AM](https://archive.org/download/ek_business-2022/ek_business-2022-08-30T08:16:29.264407+05:45.lighthouse.json) |
+| [August 29 at 12:54 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-29T19:54:27.597360+05:45.lighthouse.json) |
+| [August 29 at 1:11 AM](https://archive.org/download/ek_business-2022/ek_business-2022-08-29T08:10:59.564751+05:45.lighthouse.json) |
+| [August 28 at 12:48 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-28T19:47:59.635168+05:45.lighthouse.json) |
+| [August 28 at 1:13 AM](https://archive.org/download/ek_business-2022/ek_business-2022-08-28T08:13:31.249661+05:45.lighthouse.json) |
+| [August 27 at 12:45 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-27T19:44:55.379111+05:45.lighthouse.json) |
+| [August 27 at 1:07 AM](https://archive.org/download/ek_business-2022/ek_business-2022-08-27T08:07:04.385630+05:45.lighthouse.json) |
+| [August 26 at 12:51 PM](https://archive.org/download/ek_business-2022/ek_business-2022-08-26T19:50:52.097270+05:45.lighthouse.json) |
+| [August 26 at 1:10 AM](https://archive.org/download/ek_business-2022/ek_business-2022-08-26T08:10:00.630690+05:45.lighthouse.json) |
 
 
 

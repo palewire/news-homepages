@@ -234,8 +234,91 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 31 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/proceso.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
@@ -243,180 +326,429 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/proceso-2022/proceso-2022-08-28T11:00:40.141667-05:00.jpg">
-  <img src="https://archive.org/download/proceso-2022/proceso-2022-08-28T11:00:40.141667-05:00.jpg"
-     alt="Proceso at 2022-08-28 11:00:41-05:00 local time"
+ <a href="https://archive.org/download/proceso-2022/proceso-2022-08-30T11:33:14.188814-05:00.jpg">
+  <img src="https://archive.org/download/proceso-2022/proceso-2022-08-30T11:33:14.188814-05:00.jpg"
+     alt="Proceso at 2022-08-30 04:33:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-28T11:00:40.141667-05:00.jpg">August 28 at 11:00 AM</a></p>
+ <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-30T11:33:14.188814-05:00.jpg">August 30 at 4:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/proceso-2022/proceso-2022-08-29T23:53:57.237325-05:00.jpg">
+  <img src="https://archive.org/download/proceso-2022/proceso-2022-08-29T23:53:57.237325-05:00.jpg"
+     alt="Proceso at 2022-08-29 16:54:00-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-29T23:53:57.237325-05:00.jpg">August 29 at 4:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/proceso-2022/proceso-2022-08-29T11:14:22.154442-05:00.jpg">
+  <img src="https://archive.org/download/proceso-2022/proceso-2022-08-29T11:14:22.154442-05:00.jpg"
+     alt="Proceso at 2022-08-29 04:14:25-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-29T11:14:22.154442-05:00.jpg">August 29 at 4:14 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/proceso-2022/proceso-2022-08-28T23:38:59.193108-05:00.jpg">
+  <img src="https://archive.org/download/proceso-2022/proceso-2022-08-28T23:38:59.193108-05:00.jpg"
+     alt="Proceso at 2022-08-28 16:39:01-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-28T23:38:59.193108-05:00.jpg">August 28 at 4:39 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/proceso-2022/proceso-2022-08-28T11:00:40.141667-05:00.jpg">
+  <img src="https://archive.org/download/proceso-2022/proceso-2022-08-28T11:00:40.141667-05:00.jpg"
+     alt="Proceso at 2022-08-28 04:00:41-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-28T11:00:40.141667-05:00.jpg">August 28 at 4:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/proceso-2022/proceso-2022-08-27T23:35:32.335906-05:00.jpg">
   <img src="https://archive.org/download/proceso-2022/proceso-2022-08-27T23:35:32.335906-05:00.jpg"
-     alt="Proceso at 2022-08-27 23:35:33-05:00 local time"
+     alt="Proceso at 2022-08-27 16:35:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-27T23:35:32.335906-05:00.jpg">August 27 at 11:35 PM</a></p>
+ <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-27T23:35:32.335906-05:00.jpg">August 27 at 4:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/proceso-2022/proceso-2022-08-27T10:57:14.775464-05:00.jpg">
   <img src="https://archive.org/download/proceso-2022/proceso-2022-08-27T10:57:14.775464-05:00.jpg"
-     alt="Proceso at 2022-08-27 10:57:19-05:00 local time"
+     alt="Proceso at 2022-08-27 03:57:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-27T10:57:14.775464-05:00.jpg">August 27 at 10:57 AM</a></p>
+ <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-27T10:57:14.775464-05:00.jpg">August 27 at 3:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/proceso-2022/proceso-2022-08-26T23:35:34.048739-05:00.jpg">
   <img src="https://archive.org/download/proceso-2022/proceso-2022-08-26T23:35:34.048739-05:00.jpg"
-     alt="Proceso at 2022-08-26 23:35:35-05:00 local time"
+     alt="Proceso at 2022-08-26 16:35:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-26T23:35:34.048739-05:00.jpg">August 26 at 11:35 PM</a></p>
+ <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-26T23:35:34.048739-05:00.jpg">August 26 at 4:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/proceso-2022/proceso-2022-08-26T11:04:54.903339-05:00.jpg">
   <img src="https://archive.org/download/proceso-2022/proceso-2022-08-26T11:04:54.903339-05:00.jpg"
-     alt="Proceso at 2022-08-26 11:04:57-05:00 local time"
+     alt="Proceso at 2022-08-26 04:04:57-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-26T11:04:54.903339-05:00.jpg">August 26 at 11:04 AM</a></p>
+ <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-26T11:04:54.903339-05:00.jpg">August 26 at 4:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/proceso-2022/proceso-2022-08-25T23:40:33.877924-05:00.jpg">
   <img src="https://archive.org/download/proceso-2022/proceso-2022-08-25T23:40:33.877924-05:00.jpg"
-     alt="Proceso at 2022-08-25 23:40:38-05:00 local time"
+     alt="Proceso at 2022-08-25 16:40:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-25T23:40:33.877924-05:00.jpg">August 25 at 11:40 PM</a></p>
+ <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-25T23:40:33.877924-05:00.jpg">August 25 at 4:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/proceso-2022/proceso-2022-08-25T11:02:04.618750-05:00.jpg">
   <img src="https://archive.org/download/proceso-2022/proceso-2022-08-25T11:02:04.618750-05:00.jpg"
-     alt="Proceso at 2022-08-25 11:02:10-05:00 local time"
+     alt="Proceso at 2022-08-25 04:02:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-25T11:02:04.618750-05:00.jpg">August 25 at 11:02 AM</a></p>
+ <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-25T11:02:04.618750-05:00.jpg">August 25 at 4:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/proceso-2022/proceso-2022-08-24T10:59:57.688805-05:00.jpg">
   <img src="https://archive.org/download/proceso-2022/proceso-2022-08-24T10:59:57.688805-05:00.jpg"
-     alt="Proceso at 2022-08-24 10:59:59-05:00 local time"
+     alt="Proceso at 2022-08-24 03:59:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-24T10:59:57.688805-05:00.jpg">August 24 at 10:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/proceso-2022/proceso-2022-08-23T23:35:40.235328-05:00.jpg">
-  <img src="https://archive.org/download/proceso-2022/proceso-2022-08-23T23:35:40.235328-05:00.jpg"
-     alt="Proceso at 2022-08-23 23:35:41-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-23T23:35:40.235328-05:00.jpg">August 23 at 11:35 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/proceso-2022/proceso-2022-08-23T11:04:00.401426-05:00.jpg">
-  <img src="https://archive.org/download/proceso-2022/proceso-2022-08-23T11:04:00.401426-05:00.jpg"
-     alt="Proceso at 2022-08-23 11:04:04-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-23T11:04:00.401426-05:00.jpg">August 23 at 11:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/proceso-2022/proceso-2022-08-22T22:55:50.854805-05:00.jpg">
-  <img src="https://archive.org/download/proceso-2022/proceso-2022-08-22T22:55:50.854805-05:00.jpg"
-     alt="Proceso at 2022-08-22 22:55:52-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-22T22:55:50.854805-05:00.jpg">August 22 at 10:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/proceso-2022/proceso-2022-08-22T10:02:25.834865-05:00.jpg">
-  <img src="https://archive.org/download/proceso-2022/proceso-2022-08-22T10:02:25.834865-05:00.jpg"
-     alt="Proceso at 2022-08-22 10:02:27-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-22T10:02:25.834865-05:00.jpg">August 22 at 10:02 AM</a></p>
+ <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-24T10:59:57.688805-05:00.jpg">August 24 at 3:59 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 27 hyperlink lists with the Internet Archive.
+The archiving routine has saved 31 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/proceso.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 11:00 AM](https://archive.org/download/proceso-2022/proceso-2022-08-28T11:00:40.141667-05:00.hyperlinks.json) |
-| [August 27 at 11:35 PM](https://archive.org/download/proceso-2022/proceso-2022-08-27T23:35:32.335906-05:00.hyperlinks.json) |
-| [August 27 at 10:57 AM](https://archive.org/download/proceso-2022/proceso-2022-08-27T10:57:14.775464-05:00.hyperlinks.json) |
-| [August 26 at 11:35 PM](https://archive.org/download/proceso-2022/proceso-2022-08-26T23:35:34.048739-05:00.hyperlinks.json) |
-| [August 26 at 11:05 AM](https://archive.org/download/proceso-2022/proceso-2022-08-26T11:04:54.903339-05:00.hyperlinks.json) |
-| [August 25 at 11:40 PM](https://archive.org/download/proceso-2022/proceso-2022-08-25T23:40:33.877924-05:00.hyperlinks.json) |
-| [August 25 at 11:02 AM](https://archive.org/download/proceso-2022/proceso-2022-08-25T11:02:04.618750-05:00.hyperlinks.json) |
-| [August 24 at 11:00 AM](https://archive.org/download/proceso-2022/proceso-2022-08-24T10:59:57.688805-05:00.hyperlinks.json) |
-| [August 23 at 11:35 PM](https://archive.org/download/proceso-2022/proceso-2022-08-23T23:35:40.235328-05:00.hyperlinks.json) |
-| [August 23 at 11:04 AM](https://archive.org/download/proceso-2022/proceso-2022-08-23T11:04:00.401426-05:00.hyperlinks.json) |
+| [August 30 at 4:33 AM](https://archive.org/download/proceso-2022/proceso-2022-08-30T11:33:14.188814-05:00.hyperlinks.json) |
+| [August 29 at 4:54 PM](https://archive.org/download/proceso-2022/proceso-2022-08-29T23:53:57.237325-05:00.hyperlinks.json) |
+| [August 29 at 4:14 AM](https://archive.org/download/proceso-2022/proceso-2022-08-29T11:14:22.154442-05:00.hyperlinks.json) |
+| [August 28 at 4:39 PM](https://archive.org/download/proceso-2022/proceso-2022-08-28T23:38:59.193108-05:00.hyperlinks.json) |
+| [August 28 at 4:00 AM](https://archive.org/download/proceso-2022/proceso-2022-08-28T11:00:40.141667-05:00.hyperlinks.json) |
+| [August 27 at 4:35 PM](https://archive.org/download/proceso-2022/proceso-2022-08-27T23:35:32.335906-05:00.hyperlinks.json) |
+| [August 27 at 3:57 AM](https://archive.org/download/proceso-2022/proceso-2022-08-27T10:57:14.775464-05:00.hyperlinks.json) |
+| [August 26 at 4:35 PM](https://archive.org/download/proceso-2022/proceso-2022-08-26T23:35:34.048739-05:00.hyperlinks.json) |
+| [August 26 at 4:05 AM](https://archive.org/download/proceso-2022/proceso-2022-08-26T11:04:54.903339-05:00.hyperlinks.json) |
+| [August 25 at 4:40 PM](https://archive.org/download/proceso-2022/proceso-2022-08-25T23:40:33.877924-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 27 accessibility trees with the Internet Archive.
+The archiving routine has saved 31 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/proceso.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 11:00 AM](https://archive.org/download/proceso-2022/proceso-2022-08-28T11:00:40.141667-05:00.accessibility.json) |
-| [August 27 at 11:35 PM](https://archive.org/download/proceso-2022/proceso-2022-08-27T23:35:32.335906-05:00.accessibility.json) |
-| [August 27 at 10:57 AM](https://archive.org/download/proceso-2022/proceso-2022-08-27T10:57:14.775464-05:00.accessibility.json) |
-| [August 26 at 11:35 PM](https://archive.org/download/proceso-2022/proceso-2022-08-26T23:35:34.048739-05:00.accessibility.json) |
-| [August 26 at 11:04 AM](https://archive.org/download/proceso-2022/proceso-2022-08-26T11:04:54.903339-05:00.accessibility.json) |
-| [August 25 at 11:40 PM](https://archive.org/download/proceso-2022/proceso-2022-08-25T23:40:33.877924-05:00.accessibility.json) |
-| [August 25 at 11:02 AM](https://archive.org/download/proceso-2022/proceso-2022-08-25T11:02:04.618750-05:00.accessibility.json) |
-| [August 24 at 11:00 AM](https://archive.org/download/proceso-2022/proceso-2022-08-24T10:59:57.688805-05:00.accessibility.json) |
-| [August 23 at 11:35 PM](https://archive.org/download/proceso-2022/proceso-2022-08-23T23:35:40.235328-05:00.accessibility.json) |
-| [August 23 at 11:04 AM](https://archive.org/download/proceso-2022/proceso-2022-08-23T11:04:00.401426-05:00.accessibility.json) |
+| [August 30 at 4:33 AM](https://archive.org/download/proceso-2022/proceso-2022-08-30T11:33:14.188814-05:00.accessibility.json) |
+| [August 29 at 4:54 PM](https://archive.org/download/proceso-2022/proceso-2022-08-29T23:53:57.237325-05:00.accessibility.json) |
+| [August 29 at 4:14 AM](https://archive.org/download/proceso-2022/proceso-2022-08-29T11:14:22.154442-05:00.accessibility.json) |
+| [August 28 at 4:39 PM](https://archive.org/download/proceso-2022/proceso-2022-08-28T23:38:59.193108-05:00.accessibility.json) |
+| [August 28 at 4:00 AM](https://archive.org/download/proceso-2022/proceso-2022-08-28T11:00:40.141667-05:00.accessibility.json) |
+| [August 27 at 4:35 PM](https://archive.org/download/proceso-2022/proceso-2022-08-27T23:35:32.335906-05:00.accessibility.json) |
+| [August 27 at 3:57 AM](https://archive.org/download/proceso-2022/proceso-2022-08-27T10:57:14.775464-05:00.accessibility.json) |
+| [August 26 at 4:35 PM](https://archive.org/download/proceso-2022/proceso-2022-08-26T23:35:34.048739-05:00.accessibility.json) |
+| [August 26 at 4:04 AM](https://archive.org/download/proceso-2022/proceso-2022-08-26T11:04:54.903339-05:00.accessibility.json) |
+| [August 25 at 4:40 PM](https://archive.org/download/proceso-2022/proceso-2022-08-25T23:40:33.877924-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/proceso.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 11:00 AM](https://archive.org/download/proceso-2022/proceso-2022-08-28T11:00:40.141667-05:00.lighthouse.json) |
-| [August 27 at 11:35 PM](https://archive.org/download/proceso-2022/proceso-2022-08-27T23:35:32.335906-05:00.lighthouse.json) |
-| [August 27 at 10:57 AM](https://archive.org/download/proceso-2022/proceso-2022-08-27T10:57:14.775464-05:00.lighthouse.json) |
-| [August 26 at 11:35 PM](https://archive.org/download/proceso-2022/proceso-2022-08-26T23:35:34.048739-05:00.lighthouse.json) |
-| [August 26 at 11:05 AM](https://archive.org/download/proceso-2022/proceso-2022-08-26T11:04:54.903339-05:00.lighthouse.json) |
-| [August 25 at 11:40 PM](https://archive.org/download/proceso-2022/proceso-2022-08-25T23:40:33.877924-05:00.lighthouse.json) |
-| [August 25 at 11:02 AM](https://archive.org/download/proceso-2022/proceso-2022-08-25T11:02:04.618750-05:00.lighthouse.json) |
-| [August 24 at 11:00 AM](https://archive.org/download/proceso-2022/proceso-2022-08-24T10:59:57.688805-05:00.lighthouse.json) |
-| [August 23 at 11:35 PM](https://archive.org/download/proceso-2022/proceso-2022-08-23T23:35:40.235328-05:00.lighthouse.json) |
-| [August 23 at 11:04 AM](https://archive.org/download/proceso-2022/proceso-2022-08-23T11:04:00.401426-05:00.lighthouse.json) |
+| [August 30 at 4:33 AM](https://archive.org/download/proceso-2022/proceso-2022-08-30T11:33:14.188814-05:00.lighthouse.json) |
+| [August 29 at 4:54 PM](https://archive.org/download/proceso-2022/proceso-2022-08-29T23:53:57.237325-05:00.lighthouse.json) |
+| [August 29 at 4:14 AM](https://archive.org/download/proceso-2022/proceso-2022-08-29T11:14:22.154442-05:00.lighthouse.json) |
+| [August 28 at 4:39 PM](https://archive.org/download/proceso-2022/proceso-2022-08-28T23:38:59.193108-05:00.lighthouse.json) |
+| [August 28 at 4:00 AM](https://archive.org/download/proceso-2022/proceso-2022-08-28T11:00:40.141667-05:00.lighthouse.json) |
+| [August 27 at 4:35 PM](https://archive.org/download/proceso-2022/proceso-2022-08-27T23:35:32.335906-05:00.lighthouse.json) |
+| [August 27 at 3:57 AM](https://archive.org/download/proceso-2022/proceso-2022-08-27T10:57:14.775464-05:00.lighthouse.json) |
+| [August 26 at 4:35 PM](https://archive.org/download/proceso-2022/proceso-2022-08-26T23:35:34.048739-05:00.lighthouse.json) |
+| [August 26 at 4:05 AM](https://archive.org/download/proceso-2022/proceso-2022-08-26T11:04:54.903339-05:00.lighthouse.json) |
+| [August 25 at 4:40 PM](https://archive.org/download/proceso-2022/proceso-2022-08-25T23:40:33.877924-05:00.lighthouse.json) |
 
 
 

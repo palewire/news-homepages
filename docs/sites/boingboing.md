@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 149 screenshots with the Internet Archive.
+The archiving routine has saved 153 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-28T15:50:43.019616-07:00.jpg">
-  <img src="https://archive.org/download/boingboing-2022/boingboing-2022-08-28T15:50:43.019616-07:00.jpg"
-     alt="Boing Boing at 2022-08-28 15:50:48-07:00 local time"
+ <a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-30T16:01:04.139995-07:00.jpg">
+  <img src="https://archive.org/download/boingboing-2022/boingboing-2022-08-30T16:01:04.139995-07:00.jpg"
+     alt="Boing Boing at 2022-08-30 09:01:09-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-28T15:50:43.019616-07:00.jpg">August 28 at 3:50 PM</a></p>
+ <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-30T16:01:04.139995-07:00.jpg">August 30 at 9:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-30T04:01:42.675653-07:00.jpg">
+  <img src="https://archive.org/download/boingboing-2022/boingboing-2022-08-30T04:01:42.675653-07:00.jpg"
+     alt="Boing Boing at 2022-08-29 21:01:46-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-30T04:01:42.675653-07:00.jpg">August 29 at 9:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-29T15:57:13.549936-07:00.jpg">
+  <img src="https://archive.org/download/boingboing-2022/boingboing-2022-08-29T15:57:13.549936-07:00.jpg"
+     alt="Boing Boing at 2022-08-29 08:57:21-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-29T15:57:13.549936-07:00.jpg">August 29 at 8:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-29T03:53:12.389232-07:00.jpg">
+  <img src="https://archive.org/download/boingboing-2022/boingboing-2022-08-29T03:53:12.389232-07:00.jpg"
+     alt="Boing Boing at 2022-08-28 20:53:18-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-29T03:53:12.389232-07:00.jpg">August 28 at 8:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-28T15:50:43.019616-07:00.jpg">
+  <img src="https://archive.org/download/boingboing-2022/boingboing-2022-08-28T15:50:43.019616-07:00.jpg"
+     alt="Boing Boing at 2022-08-28 08:50:48-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-28T15:50:43.019616-07:00.jpg">August 28 at 8:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-28T03:54:06.433972-07:00.jpg">
   <img src="https://archive.org/download/boingboing-2022/boingboing-2022-08-28T03:54:06.433972-07:00.jpg"
-     alt="Boing Boing at 2022-08-28 03:54:09-07:00 local time"
+     alt="Boing Boing at 2022-08-27 20:54:09-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-28T03:54:06.433972-07:00.jpg">August 28 at 3:54 AM</a></p>
+ <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-28T03:54:06.433972-07:00.jpg">August 27 at 8:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-27T15:53:49.543581-07:00.jpg">
   <img src="https://archive.org/download/boingboing-2022/boingboing-2022-08-27T15:53:49.543581-07:00.jpg"
-     alt="Boing Boing at 2022-08-27 15:53:54-07:00 local time"
+     alt="Boing Boing at 2022-08-27 08:53:54-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-27T15:53:49.543581-07:00.jpg">August 27 at 3:53 PM</a></p>
+ <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-27T15:53:49.543581-07:00.jpg">August 27 at 8:53 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-27T03:47:59.899894-07:00.jpg">
   <img src="https://archive.org/download/boingboing-2022/boingboing-2022-08-27T03:47:59.899894-07:00.jpg"
-     alt="Boing Boing at 2022-08-27 03:48:04-07:00 local time"
+     alt="Boing Boing at 2022-08-26 20:48:04-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-27T03:47:59.899894-07:00.jpg">August 27 at 3:48 AM</a></p>
+ <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-27T03:47:59.899894-07:00.jpg">August 26 at 8:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-26T15:50:29.289817-07:00.jpg">
   <img src="https://archive.org/download/boingboing-2022/boingboing-2022-08-26T15:50:29.289817-07:00.jpg"
-     alt="Boing Boing at 2022-08-26 15:50:33-07:00 local time"
+     alt="Boing Boing at 2022-08-26 08:50:33-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-26T15:50:29.289817-07:00.jpg">August 26 at 3:50 PM</a></p>
+ <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-26T15:50:29.289817-07:00.jpg">August 26 at 8:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-26T03:50:46.217190-07:00.jpg">
   <img src="https://archive.org/download/boingboing-2022/boingboing-2022-08-26T03:50:46.217190-07:00.jpg"
-     alt="Boing Boing at 2022-08-26 03:50:49-07:00 local time"
+     alt="Boing Boing at 2022-08-25 20:50:49-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-26T03:50:46.217190-07:00.jpg">August 26 at 3:50 AM</a></p>
+ <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-26T03:50:46.217190-07:00.jpg">August 25 at 8:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-25T15:51:43.012074-07:00.jpg">
   <img src="https://archive.org/download/boingboing-2022/boingboing-2022-08-25T15:51:43.012074-07:00.jpg"
-     alt="Boing Boing at 2022-08-25 15:51:48-07:00 local time"
+     alt="Boing Boing at 2022-08-25 08:51:48-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-25T15:51:43.012074-07:00.jpg">August 25 at 3:51 PM</a></p>
+ <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-25T15:51:43.012074-07:00.jpg">August 25 at 8:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-25T03:54:47.039952-07:00.jpg">
   <img src="https://archive.org/download/boingboing-2022/boingboing-2022-08-25T03:54:47.039952-07:00.jpg"
-     alt="Boing Boing at 2022-08-25 03:54:59-07:00 local time"
+     alt="Boing Boing at 2022-08-24 20:54:59-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-25T03:54:47.039952-07:00.jpg">August 25 at 3:54 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-24T15:54:15.744605-07:00.jpg">
-  <img src="https://archive.org/download/boingboing-2022/boingboing-2022-08-24T15:54:15.744605-07:00.jpg"
-     alt="Boing Boing at 2022-08-24 15:54:22-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-24T15:54:15.744605-07:00.jpg">August 24 at 3:54 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-24T03:47:15.794578-07:00.jpg">
-  <img src="https://archive.org/download/boingboing-2022/boingboing-2022-08-24T03:47:15.794578-07:00.jpg"
-     alt="Boing Boing at 2022-08-24 03:47:32-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-24T03:47:15.794578-07:00.jpg">August 24 at 3:47 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-23T15:57:18.673120-07:00.jpg">
-  <img src="https://archive.org/download/boingboing-2022/boingboing-2022-08-23T15:57:18.673120-07:00.jpg"
-     alt="Boing Boing at 2022-08-23 15:57:23-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-23T15:57:18.673120-07:00.jpg">August 23 at 3:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-23T03:58:41.534366-07:00.jpg">
-  <img src="https://archive.org/download/boingboing-2022/boingboing-2022-08-23T03:58:41.534366-07:00.jpg"
-     alt="Boing Boing at 2022-08-23 03:58:48-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-23T03:58:41.534366-07:00.jpg">August 23 at 3:58 AM</a></p>
+ <p><a href="https://archive.org/download/boingboing-2022/boingboing-2022-08-25T03:54:47.039952-07:00.jpg">August 24 at 8:54 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 124 hyperlink lists with the Internet Archive.
+The archiving routine has saved 128 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 3:50 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-28T15:50:43.019616-07:00.hyperlinks.json) |
-| [August 28 at 3:54 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-28T03:54:06.433972-07:00.hyperlinks.json) |
-| [August 27 at 3:53 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-27T15:53:49.543581-07:00.hyperlinks.json) |
-| [August 27 at 3:48 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-27T03:47:59.899894-07:00.hyperlinks.json) |
-| [August 26 at 3:50 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-26T15:50:29.289817-07:00.hyperlinks.json) |
-| [August 26 at 3:50 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-26T03:50:46.217190-07:00.hyperlinks.json) |
-| [August 25 at 3:51 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-25T15:51:43.012074-07:00.hyperlinks.json) |
-| [August 25 at 3:55 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-25T03:54:47.039952-07:00.hyperlinks.json) |
-| [August 24 at 3:54 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-24T15:54:15.744605-07:00.hyperlinks.json) |
-| [August 24 at 3:47 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-24T03:47:15.794578-07:00.hyperlinks.json) |
+| [August 30 at 9:01 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-30T16:01:04.139995-07:00.hyperlinks.json) |
+| [August 29 at 9:01 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-30T04:01:42.675653-07:00.hyperlinks.json) |
+| [August 29 at 8:57 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-29T15:57:13.549936-07:00.hyperlinks.json) |
+| [August 28 at 8:53 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-29T03:53:12.389232-07:00.hyperlinks.json) |
+| [August 28 at 8:50 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-28T15:50:43.019616-07:00.hyperlinks.json) |
+| [August 27 at 8:54 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-28T03:54:06.433972-07:00.hyperlinks.json) |
+| [August 27 at 8:53 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-27T15:53:49.543581-07:00.hyperlinks.json) |
+| [August 26 at 8:48 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-27T03:47:59.899894-07:00.hyperlinks.json) |
+| [August 26 at 8:50 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-26T15:50:29.289817-07:00.hyperlinks.json) |
+| [August 25 at 8:50 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-26T03:50:46.217190-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 119 accessibility trees with the Internet Archive.
+The archiving routine has saved 123 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 3:50 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-28T15:50:43.019616-07:00.accessibility.json) |
-| [August 28 at 3:54 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-28T03:54:06.433972-07:00.accessibility.json) |
-| [August 27 at 3:53 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-27T15:53:49.543581-07:00.accessibility.json) |
-| [August 27 at 3:48 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-27T03:47:59.899894-07:00.accessibility.json) |
-| [August 26 at 3:50 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-26T15:50:29.289817-07:00.accessibility.json) |
-| [August 26 at 3:50 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-26T03:50:46.217190-07:00.accessibility.json) |
-| [August 25 at 3:51 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-25T15:51:43.012074-07:00.accessibility.json) |
-| [August 25 at 3:55 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-25T03:54:47.039952-07:00.accessibility.json) |
-| [August 24 at 3:54 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-24T15:54:15.744605-07:00.accessibility.json) |
-| [August 24 at 3:47 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-24T03:47:15.794578-07:00.accessibility.json) |
+| [August 30 at 9:01 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-30T16:01:04.139995-07:00.accessibility.json) |
+| [August 29 at 9:01 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-30T04:01:42.675653-07:00.accessibility.json) |
+| [August 29 at 8:57 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-29T15:57:13.549936-07:00.accessibility.json) |
+| [August 28 at 8:53 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-29T03:53:12.389232-07:00.accessibility.json) |
+| [August 28 at 8:50 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-28T15:50:43.019616-07:00.accessibility.json) |
+| [August 27 at 8:54 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-28T03:54:06.433972-07:00.accessibility.json) |
+| [August 27 at 8:53 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-27T15:53:49.543581-07:00.accessibility.json) |
+| [August 26 at 8:48 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-27T03:47:59.899894-07:00.accessibility.json) |
+| [August 26 at 8:50 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-26T15:50:29.289817-07:00.accessibility.json) |
+| [August 25 at 8:50 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-26T03:50:46.217190-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 74 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 78 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 3:50 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-28T15:50:43.019616-07:00.lighthouse.json) |
-| [August 28 at 3:54 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-28T03:54:06.433972-07:00.lighthouse.json) |
-| [August 27 at 3:53 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-27T15:53:49.543581-07:00.lighthouse.json) |
-| [August 27 at 3:48 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-27T03:47:59.899894-07:00.lighthouse.json) |
-| [August 26 at 3:50 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-26T15:50:29.289817-07:00.lighthouse.json) |
-| [August 26 at 3:50 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-26T03:50:46.217190-07:00.lighthouse.json) |
-| [August 25 at 3:51 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-25T15:51:43.012074-07:00.lighthouse.json) |
-| [August 25 at 3:55 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-25T03:54:47.039952-07:00.lighthouse.json) |
-| [August 24 at 3:54 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-24T15:54:15.744605-07:00.lighthouse.json) |
-| [August 24 at 3:47 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-24T03:47:15.794578-07:00.lighthouse.json) |
+| [August 30 at 9:01 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-30T16:01:04.139995-07:00.lighthouse.json) |
+| [August 29 at 9:01 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-30T04:01:42.675653-07:00.lighthouse.json) |
+| [August 29 at 8:57 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-29T15:57:13.549936-07:00.lighthouse.json) |
+| [August 28 at 8:53 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-29T03:53:12.389232-07:00.lighthouse.json) |
+| [August 28 at 8:50 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-28T15:50:43.019616-07:00.lighthouse.json) |
+| [August 27 at 8:54 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-28T03:54:06.433972-07:00.lighthouse.json) |
+| [August 27 at 8:53 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-27T15:53:49.543581-07:00.lighthouse.json) |
+| [August 26 at 8:48 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-27T03:47:59.899894-07:00.lighthouse.json) |
+| [August 26 at 8:50 AM](https://archive.org/download/boingboing-2022/boingboing-2022-08-26T15:50:29.289817-07:00.lighthouse.json) |
+| [August 25 at 8:50 PM](https://archive.org/download/boingboing-2022/boingboing-2022-08-26T03:50:46.217190-07:00.lighthouse.json) |
 
 
 

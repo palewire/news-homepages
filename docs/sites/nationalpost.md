@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 160 screenshots with the Internet Archive.
+The archiving routine has saved 164 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-28T10:59:12.253240-04:00.jpg">
-  <img src="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-28T10:59:12.253240-04:00.jpg"
-     alt="National Post at 2022-08-28 10:59:17-04:00 local time"
+ <a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-30T11:37:11.827340-04:00.jpg">
+  <img src="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-30T11:37:11.827340-04:00.jpg"
+     alt="National Post at 2022-08-30 04:37:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-28T10:59:12.253240-04:00.jpg">August 28 at 10:59 AM</a></p>
+ <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-30T11:37:11.827340-04:00.jpg">August 30 at 4:37 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-29T23:57:09.260548-04:00.jpg">
+  <img src="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-29T23:57:09.260548-04:00.jpg"
+     alt="National Post at 2022-08-29 16:57:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-29T23:57:09.260548-04:00.jpg">August 29 at 4:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-29T11:12:00.905493-04:00.jpg">
+  <img src="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-29T11:12:00.905493-04:00.jpg"
+     alt="National Post at 2022-08-29 04:12:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-29T11:12:00.905493-04:00.jpg">August 29 at 4:12 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-28T23:48:00.668035-04:00.jpg">
+  <img src="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-28T23:48:00.668035-04:00.jpg"
+     alt="National Post at 2022-08-28 16:48:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-28T23:48:00.668035-04:00.jpg">August 28 at 4:48 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-28T10:59:12.253240-04:00.jpg">
+  <img src="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-28T10:59:12.253240-04:00.jpg"
+     alt="National Post at 2022-08-28 03:59:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-28T10:59:12.253240-04:00.jpg">August 28 at 3:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-27T23:44:30.887827-04:00.jpg">
   <img src="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-27T23:44:30.887827-04:00.jpg"
-     alt="National Post at 2022-08-27 23:44:36-04:00 local time"
+     alt="National Post at 2022-08-27 16:44:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-27T23:44:30.887827-04:00.jpg">August 27 at 11:44 PM</a></p>
+ <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-27T23:44:30.887827-04:00.jpg">August 27 at 4:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-27T10:54:53.641997-04:00.jpg">
   <img src="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-27T10:54:53.641997-04:00.jpg"
-     alt="National Post at 2022-08-27 10:55:15-04:00 local time"
+     alt="National Post at 2022-08-27 03:55:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-27T10:54:53.641997-04:00.jpg">August 27 at 10:55 AM</a></p>
+ <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-27T10:54:53.641997-04:00.jpg">August 27 at 3:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-26T23:40:26.010069-04:00.jpg">
   <img src="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-26T23:40:26.010069-04:00.jpg"
-     alt="National Post at 2022-08-26 23:40:27-04:00 local time"
+     alt="National Post at 2022-08-26 16:40:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-26T23:40:26.010069-04:00.jpg">August 26 at 11:40 PM</a></p>
+ <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-26T23:40:26.010069-04:00.jpg">August 26 at 4:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-26T11:02:35.702013-04:00.jpg">
   <img src="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-26T11:02:35.702013-04:00.jpg"
-     alt="National Post at 2022-08-26 11:02:39-04:00 local time"
+     alt="National Post at 2022-08-26 04:02:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-26T11:02:35.702013-04:00.jpg">August 26 at 11:02 AM</a></p>
+ <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-26T11:02:35.702013-04:00.jpg">August 26 at 4:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-25T23:46:45.230445-04:00.jpg">
   <img src="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-25T23:46:45.230445-04:00.jpg"
-     alt="National Post at 2022-08-25 23:46:46-04:00 local time"
+     alt="National Post at 2022-08-25 16:46:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-25T23:46:45.230445-04:00.jpg">August 25 at 11:46 PM</a></p>
+ <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-25T23:46:45.230445-04:00.jpg">August 25 at 4:46 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-25T11:03:52.555985-04:00.jpg">
   <img src="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-25T11:03:52.555985-04:00.jpg"
-     alt="National Post at 2022-08-25 11:04:00-04:00 local time"
+     alt="National Post at 2022-08-25 04:04:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-25T11:03:52.555985-04:00.jpg">August 25 at 11:04 AM</a></p>
+ <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-25T11:03:52.555985-04:00.jpg">August 25 at 4:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-24T11:03:39.575746-04:00.jpg">
   <img src="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-24T11:03:39.575746-04:00.jpg"
-     alt="National Post at 2022-08-24 11:03:44-04:00 local time"
+     alt="National Post at 2022-08-24 04:03:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-24T11:03:39.575746-04:00.jpg">August 24 at 11:03 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-23T23:42:30.624510-04:00.jpg">
-  <img src="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-23T23:42:30.624510-04:00.jpg"
-     alt="National Post at 2022-08-23 23:42:31-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-23T23:42:30.624510-04:00.jpg">August 23 at 11:42 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-23T10:55:55.322501-04:00.jpg">
-  <img src="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-23T10:55:55.322501-04:00.jpg"
-     alt="National Post at 2022-08-23 10:56:01-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-23T10:55:55.322501-04:00.jpg">August 23 at 10:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-22T22:32:20.930785-04:00.jpg">
-  <img src="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-22T22:32:20.930785-04:00.jpg"
-     alt="National Post at 2022-08-22 22:32:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-22T22:32:20.930785-04:00.jpg">August 22 at 10:32 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-22T10:12:40.917296-04:00.jpg">
-  <img src="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-22T10:12:40.917296-04:00.jpg"
-     alt="National Post at 2022-08-22 10:12:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-22T10:12:40.917296-04:00.jpg">August 22 at 10:12 AM</a></p>
+ <p><a href="https://archive.org/download/nationalpost-2022/nationalpost-2022-08-24T11:03:39.575746-04:00.jpg">August 24 at 4:03 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 160 hyperlink lists with the Internet Archive.
+The archiving routine has saved 164 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 28 at 10:59 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-28T10:59:12.253240-04:00.hyperlinks.json) |
-| [August 27 at 11:44 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-27T23:44:30.887827-04:00.hyperlinks.json) |
-| [August 27 at 10:55 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-27T10:54:53.641997-04:00.hyperlinks.json) |
-| [August 26 at 11:40 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-26T23:40:26.010069-04:00.hyperlinks.json) |
-| [August 26 at 11:02 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-26T11:02:35.702013-04:00.hyperlinks.json) |
-| [August 25 at 11:46 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-25T23:46:45.230445-04:00.hyperlinks.json) |
-| [August 25 at 11:04 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-25T11:03:52.555985-04:00.hyperlinks.json) |
-| [August 23 at 11:42 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-23T23:42:30.624510-04:00.hyperlinks.json) |
-| [August 23 at 10:56 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-23T10:55:55.322501-04:00.hyperlinks.json) |
-| [August 22 at 10:32 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-22T22:32:20.930785-04:00.hyperlinks.json) |
+| [August 30 at 4:37 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-30T11:37:11.827340-04:00.hyperlinks.json) |
+| [August 29 at 4:57 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-29T23:57:09.260548-04:00.hyperlinks.json) |
+| [August 29 at 4:12 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-29T11:12:00.905493-04:00.hyperlinks.json) |
+| [August 28 at 4:48 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-28T23:48:00.668035-04:00.hyperlinks.json) |
+| [August 28 at 3:59 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-28T10:59:12.253240-04:00.hyperlinks.json) |
+| [August 27 at 4:44 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-27T23:44:30.887827-04:00.hyperlinks.json) |
+| [August 27 at 3:55 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-27T10:54:53.641997-04:00.hyperlinks.json) |
+| [August 26 at 4:40 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-26T23:40:26.010069-04:00.hyperlinks.json) |
+| [August 26 at 4:02 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-26T11:02:35.702013-04:00.hyperlinks.json) |
+| [August 25 at 4:46 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-25T23:46:45.230445-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 162 accessibility trees with the Internet Archive.
+The archiving routine has saved 166 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 28 at 10:59 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-28T10:59:12.253240-04:00.accessibility.json) |
-| [August 27 at 11:44 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-27T23:44:30.887827-04:00.accessibility.json) |
-| [August 27 at 10:55 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-27T10:54:53.641997-04:00.accessibility.json) |
-| [August 26 at 11:40 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-26T23:40:26.010069-04:00.accessibility.json) |
-| [August 26 at 11:02 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-26T11:02:35.702013-04:00.accessibility.json) |
-| [August 25 at 11:46 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-25T23:46:45.230445-04:00.accessibility.json) |
-| [August 25 at 11:04 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-25T11:03:52.555985-04:00.accessibility.json) |
-| [August 23 at 11:42 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-23T23:42:30.624510-04:00.accessibility.json) |
-| [August 23 at 10:56 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-23T10:55:55.322501-04:00.accessibility.json) |
-| [August 22 at 10:32 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-22T22:32:20.930785-04:00.accessibility.json) |
+| [August 30 at 4:37 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-30T11:37:11.827340-04:00.accessibility.json) |
+| [August 29 at 4:57 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-29T23:57:09.260548-04:00.accessibility.json) |
+| [August 29 at 4:12 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-29T11:12:00.905493-04:00.accessibility.json) |
+| [August 28 at 4:48 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-28T23:48:00.668035-04:00.accessibility.json) |
+| [August 28 at 3:59 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-28T10:59:12.253240-04:00.accessibility.json) |
+| [August 27 at 4:44 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-27T23:44:30.887827-04:00.accessibility.json) |
+| [August 27 at 3:55 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-27T10:54:53.641997-04:00.accessibility.json) |
+| [August 26 at 4:40 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-26T23:40:26.010069-04:00.accessibility.json) |
+| [August 26 at 4:02 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-26T11:02:35.702013-04:00.accessibility.json) |
+| [August 25 at 4:46 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-25T23:46:45.230445-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 71 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 75 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 28 at 10:59 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-28T10:59:12.253240-04:00.lighthouse.json) |
-| [August 27 at 11:44 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-27T23:44:30.887827-04:00.lighthouse.json) |
-| [August 27 at 10:55 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-27T10:54:53.641997-04:00.lighthouse.json) |
-| [August 26 at 11:40 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-26T23:40:26.010069-04:00.lighthouse.json) |
-| [August 26 at 11:02 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-26T11:02:35.702013-04:00.lighthouse.json) |
-| [August 25 at 11:46 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-25T23:46:45.230445-04:00.lighthouse.json) |
-| [August 25 at 11:04 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-25T11:03:52.555985-04:00.lighthouse.json) |
-| [August 24 at 11:03 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-24T11:03:39.575746-04:00.lighthouse.json) |
-| [August 23 at 11:42 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-23T23:42:30.624510-04:00.lighthouse.json) |
-| [August 23 at 10:56 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-23T10:55:55.322501-04:00.lighthouse.json) |
+| [August 30 at 4:37 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-30T11:37:11.827340-04:00.lighthouse.json) |
+| [August 29 at 4:57 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-29T23:57:09.260548-04:00.lighthouse.json) |
+| [August 29 at 4:12 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-29T11:12:00.905493-04:00.lighthouse.json) |
+| [August 28 at 4:48 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-28T23:48:00.668035-04:00.lighthouse.json) |
+| [August 28 at 3:59 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-28T10:59:12.253240-04:00.lighthouse.json) |
+| [August 27 at 4:44 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-27T23:44:30.887827-04:00.lighthouse.json) |
+| [August 27 at 3:55 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-27T10:54:53.641997-04:00.lighthouse.json) |
+| [August 26 at 4:40 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-26T23:40:26.010069-04:00.lighthouse.json) |
+| [August 26 at 4:02 AM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-26T11:02:35.702013-04:00.lighthouse.json) |
+| [August 25 at 4:46 PM](https://archive.org/download/nationalpost-2022/nationalpost-2022-08-25T23:46:45.230445-04:00.lighthouse.json) |
 
 
 
