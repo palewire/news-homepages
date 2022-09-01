@@ -1,8 +1,13 @@
 {
-  "created": 1661901030,
+  "created": 1661991197,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/25/items/el_universal_mx-2022",
+  "el_universal_mx-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -23628,31 +23633,155 @@
       "sha1": "f927bd1168acf4d6de94491234dd3051c386fa80"
     },
     {
+      "name": "el_universal_mx-2022-08-31T06:00:26.407705-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661943666",
+      "size": "45699",
+      "md5": "2901324d826bab51e39b863b31b85d7e",
+      "crc32": "a63fa94f",
+      "sha1": "7058bda627423fcbfec20829b8dc3cff32a2edbb",
+      "format": "JSON"
+    },
+    {
+      "name": "el_universal_mx-2022-08-31T06:00:26.407705-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661943668",
+      "size": "55905",
+      "md5": "0be45db8d6cebdbc7a14300120d1fcba",
+      "crc32": "3d514476",
+      "sha1": "c79309ebd10ecee0731905c504251f2c804d795a",
+      "format": "JSON"
+    },
+    {
+      "name": "el_universal_mx-2022-08-31T06:00:26.407705-05:00.jpg",
+      "source": "original",
+      "mtime": "1661943664",
+      "size": "317177",
+      "md5": "a7d29776131b830cfa7bde277615359a",
+      "crc32": "2f0809e0",
+      "sha1": "d292f44c86122cf74893fd35d2a0ae8fb8227f26",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "el_universal_mx-2022-08-31T06:00:26.407705-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661943670",
+      "size": "1585",
+      "md5": "82af8950ce8c4e8a26f085f64362f666",
+      "crc32": "3b01ea6f",
+      "sha1": "317949b4fa6777cb45041df1fdc997a971669604",
+      "format": "JSON"
+    },
+    {
+      "name": "el_universal_mx-2022-08-31T06:00:26.407705-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1661943672",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "el_universal_mx-2022-08-31T06:00:26.407705-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "el_universal_mx-2022-08-31T06:00:26.407705-05:00.jpg",
+      "mtime": "1661943938",
+      "size": "11071",
+      "md5": "06c00d3bc77b0c26864d2d6e8c95011c",
+      "crc32": "1847ced8",
+      "sha1": "ae4a99ceb74d1ec62e2c1829c8f30224d12659d5"
+    },
+    {
+      "name": "el_universal_mx-2022-08-31T17:58:54.597341-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661986759",
+      "size": "55070",
+      "md5": "958f3d0c7062de7c81f1c38e601ed43d",
+      "crc32": "b7080745",
+      "sha1": "211133b231792fe08e75fc2eb47f6723b873189a",
+      "format": "JSON"
+    },
+    {
+      "name": "el_universal_mx-2022-08-31T17:58:54.597341-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661986763",
+      "size": "60973",
+      "md5": "bb2cf026d4f1727d9b6bdbe085de7e50",
+      "crc32": "444717bf",
+      "sha1": "815caed1fc112532b8c16062fdb0afef3c9e6a7d",
+      "format": "JSON"
+    },
+    {
+      "name": "el_universal_mx-2022-08-31T17:58:54.597341-05:00.jpg",
+      "source": "original",
+      "mtime": "1661986756",
+      "size": "339643",
+      "md5": "cb8e7861d53b7aa6ef996375f3e47d06",
+      "crc32": "9daae2aa",
+      "sha1": "c09aab2588c5c5f8343d5cc77e9014dfb1e50538",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "el_universal_mx-2022-08-31T17:58:54.597341-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661986765",
+      "size": "1581",
+      "md5": "7da397fbdc6d71e6b45db1912953e9fc",
+      "crc32": "63feabc8",
+      "sha1": "5a2ba5016af06a1120c4de9dcd04d52a495d4d93",
+      "format": "JSON"
+    },
+    {
+      "name": "el_universal_mx-2022-08-31T17:58:54.597341-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1661986767",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "el_universal_mx-2022-08-31T17:58:54.597341-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "el_universal_mx-2022-08-31T17:58:54.597341-05:00.jpg",
+      "mtime": "1661986866",
+      "size": "10374",
+      "md5": "d060f7f74380b527d4712d2b25ae533d",
+      "crc32": "b06fca78",
+      "sha1": "dedc81fe089bca8a9bbb8b541e02164ef570d2ec"
+    },
+    {
       "name": "el_universal_mx-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5b598fdbd560a30ba9f90f09f67f5e10e4e88d55",
-      "mtime": "1661900995",
-      "size": "494211",
-      "md5": "5a650fe909c48f7fcb08ee706fdcd7f9",
-      "crc32": "367ce2d4",
-      "sha1": "1fcffdc9f898704401bc452fa3426dd515ec219c",
+      "btih": "065d21ed552a0e68d17990d54f662db98edf72c2",
+      "mtime": "1661986950",
+      "size": "496827",
+      "md5": "56b5c34610fb4d64f9509e66898f884a",
+      "crc32": "c8381db7",
+      "sha1": "ae24cb09c089793f097336e5d3c0eb3bc99c38f2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "el_universal_mx-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8145ab68dc3cd45b6f056a4dcde287e5",
+      "md5": "8a8bff8d17c5bf25e07d18135d5d04e8",
       "summation": "md5"
     },
     {
       "name": "el_universal_mx-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661900748",
-      "size": "2666496",
-      "md5": "e87f973efb152ba778d583c0babb368b",
-      "crc32": "dec5d042",
-      "sha1": "f762b4d275596718aa71bf0365e6cfa71e948887",
+      "mtime": "1661986771",
+      "size": "2682880",
+      "md5": "2fb9b6ba56616e69339efeab72bfef24",
+      "crc32": "830bbe11",
+      "sha1": "91fbe8d40848a3791604b9bd1bd192641b4b688d",
       "format": "Metadata"
     },
     {
@@ -23666,9 +23795,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2260,
-  "item_last_updated": 1661900995,
-  "item_size": 230048780,
+  "files_count": 2272,
+  "item_last_updated": 1661986950,
+  "item_size": 230967262,
   "metadata": {
     "identifier": "el_universal_mx-2022",
     "collection": [
@@ -23686,7 +23815,7 @@
     "addeddate": "2022-04-15 20:40:16"
   },
   "server": "ia802507.us.archive.org",
-  "uniq": 1747462749,
+  "uniq": 1324752615,
   "workable_servers": [
     "ia802507.us.archive.org",
     "ia902507.us.archive.org"
