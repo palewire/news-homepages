@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-30T11:22:57.978533-04:00.jpg">
   <img src="https://archive.org/download/enquirer-2022/enquirer-2022-08-30T11:22:57.978533-04:00.jpg"
-     alt="Cincinnati Enquirer at 2022-08-30 04:23:00-04:00 local time"
+     alt="Cincinnati Enquirer at 2022-08-30 11:23:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-30T11:22:57.978533-04:00.jpg">August 30 at 4:23 AM</a></p>
+ <p><a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-30T11:22:57.978533-04:00.jpg">August 30 at 11:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-29T22:32:41.625227-04:00.jpg">
   <img src="https://archive.org/download/enquirer-2022/enquirer-2022-08-29T22:32:41.625227-04:00.jpg"
-     alt="Cincinnati Enquirer at 2022-08-29 15:32:43-04:00 local time"
+     alt="Cincinnati Enquirer at 2022-08-29 22:32:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-29T22:32:41.625227-04:00.jpg">August 29 at 3:32 PM</a></p>
+ <p><a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-29T22:32:41.625227-04:00.jpg">August 29 at 10:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-29T10:11:27.387171-04:00.jpg">
   <img src="https://archive.org/download/enquirer-2022/enquirer-2022-08-29T10:11:27.387171-04:00.jpg"
-     alt="Cincinnati Enquirer at 2022-08-29 03:11:30-04:00 local time"
+     alt="Cincinnati Enquirer at 2022-08-29 10:11:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-29T10:11:27.387171-04:00.jpg">August 29 at 3:11 AM</a></p>
+ <p><a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-29T10:11:27.387171-04:00.jpg">August 29 at 10:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-28T22:27:43.060319-04:00.jpg">
   <img src="https://archive.org/download/enquirer-2022/enquirer-2022-08-28T22:27:43.060319-04:00.jpg"
-     alt="Cincinnati Enquirer at 2022-08-28 15:27:44-04:00 local time"
+     alt="Cincinnati Enquirer at 2022-08-28 22:27:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-28T22:27:43.060319-04:00.jpg">August 28 at 3:27 PM</a></p>
+ <p><a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-28T22:27:43.060319-04:00.jpg">August 28 at 10:27 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-28T10:04:02.602896-04:00.jpg">
   <img src="https://archive.org/download/enquirer-2022/enquirer-2022-08-28T10:04:02.602896-04:00.jpg"
-     alt="Cincinnati Enquirer at 2022-08-28 03:04:04-04:00 local time"
+     alt="Cincinnati Enquirer at 2022-08-28 10:04:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-28T10:04:02.602896-04:00.jpg">August 28 at 3:04 AM</a></p>
+ <p><a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-28T10:04:02.602896-04:00.jpg">August 28 at 10:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-27T22:29:23.442549-04:00.jpg">
   <img src="https://archive.org/download/enquirer-2022/enquirer-2022-08-27T22:29:23.442549-04:00.jpg"
-     alt="Cincinnati Enquirer at 2022-08-27 15:29:28-04:00 local time"
+     alt="Cincinnati Enquirer at 2022-08-27 22:29:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-27T22:29:23.442549-04:00.jpg">August 27 at 3:29 PM</a></p>
+ <p><a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-27T22:29:23.442549-04:00.jpg">August 27 at 10:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-27T10:01:13.712378-04:00.jpg">
   <img src="https://archive.org/download/enquirer-2022/enquirer-2022-08-27T10:01:13.712378-04:00.jpg"
-     alt="Cincinnati Enquirer at 2022-08-27 03:01:15-04:00 local time"
+     alt="Cincinnati Enquirer at 2022-08-27 10:01:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-27T10:01:13.712378-04:00.jpg">August 27 at 3:01 AM</a></p>
+ <p><a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-27T10:01:13.712378-04:00.jpg">August 27 at 10:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-26T22:23:23.819313-04:00.jpg">
   <img src="https://archive.org/download/enquirer-2022/enquirer-2022-08-26T22:23:23.819313-04:00.jpg"
-     alt="Cincinnati Enquirer at 2022-08-26 15:23:25-04:00 local time"
+     alt="Cincinnati Enquirer at 2022-08-26 22:23:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-26T22:23:23.819313-04:00.jpg">August 26 at 3:23 PM</a></p>
+ <p><a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-26T22:23:23.819313-04:00.jpg">August 26 at 10:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-26T10:08:05.038823-04:00.jpg">
   <img src="https://archive.org/download/enquirer-2022/enquirer-2022-08-26T10:08:05.038823-04:00.jpg"
-     alt="Cincinnati Enquirer at 2022-08-26 03:08:08-04:00 local time"
+     alt="Cincinnati Enquirer at 2022-08-26 10:08:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-26T10:08:05.038823-04:00.jpg">August 26 at 3:08 AM</a></p>
+ <p><a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-26T10:08:05.038823-04:00.jpg">August 26 at 10:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-25T22:26:50.539517-04:00.jpg">
   <img src="https://archive.org/download/enquirer-2022/enquirer-2022-08-25T22:26:50.539517-04:00.jpg"
-     alt="Cincinnati Enquirer at 2022-08-25 15:26:52-04:00 local time"
+     alt="Cincinnati Enquirer at 2022-08-25 22:26:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-25T22:26:50.539517-04:00.jpg">August 25 at 3:26 PM</a></p>
+ <p><a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-25T22:26:50.539517-04:00.jpg">August 25 at 10:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-25T10:57:33.242271-04:00.jpg">
   <img src="https://archive.org/download/enquirer-2022/enquirer-2022-08-25T10:57:33.242271-04:00.jpg"
-     alt="Cincinnati Enquirer at 2022-08-25 03:57:40-04:00 local time"
+     alt="Cincinnati Enquirer at 2022-08-25 10:57:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-25T10:57:33.242271-04:00.jpg">August 25 at 3:57 AM</a></p>
+ <p><a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-25T10:57:33.242271-04:00.jpg">August 25 at 10:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-24T10:02:23.522955-04:00.jpg">
   <img src="https://archive.org/download/enquirer-2022/enquirer-2022-08-24T10:02:23.522955-04:00.jpg"
-     alt="Cincinnati Enquirer at 2022-08-24 03:02:25-04:00 local time"
+     alt="Cincinnati Enquirer at 2022-08-24 10:02:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-24T10:02:23.522955-04:00.jpg">August 24 at 3:02 AM</a></p>
+ <p><a href="https://archive.org/download/enquirer-2022/enquirer-2022-08-24T10:02:23.522955-04:00.jpg">August 24 at 10:02 AM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 4:23 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-30T11:22:57.978533-04:00.hyperlinks.json) |
-| [August 29 at 3:32 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-29T22:32:41.625227-04:00.hyperlinks.json) |
-| [August 29 at 3:11 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-29T10:11:27.387171-04:00.hyperlinks.json) |
-| [August 28 at 3:27 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-28T22:27:43.060319-04:00.hyperlinks.json) |
-| [August 28 at 3:04 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-28T10:04:02.602896-04:00.hyperlinks.json) |
-| [August 27 at 3:29 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-27T22:29:23.442549-04:00.hyperlinks.json) |
-| [August 27 at 3:01 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-27T10:01:13.712378-04:00.hyperlinks.json) |
-| [August 26 at 3:23 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-26T22:23:23.819313-04:00.hyperlinks.json) |
-| [August 26 at 3:08 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-26T10:08:05.038823-04:00.hyperlinks.json) |
-| [August 25 at 3:26 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-25T22:26:50.539517-04:00.hyperlinks.json) |
+| [August 30 at 11:23 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-30T11:22:57.978533-04:00.hyperlinks.json) |
+| [August 29 at 10:32 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-29T22:32:41.625227-04:00.hyperlinks.json) |
+| [August 29 at 10:11 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-29T10:11:27.387171-04:00.hyperlinks.json) |
+| [August 28 at 10:27 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-28T22:27:43.060319-04:00.hyperlinks.json) |
+| [August 28 at 10:04 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-28T10:04:02.602896-04:00.hyperlinks.json) |
+| [August 27 at 10:29 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-27T22:29:23.442549-04:00.hyperlinks.json) |
+| [August 27 at 10:01 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-27T10:01:13.712378-04:00.hyperlinks.json) |
+| [August 26 at 10:23 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-26T22:23:23.819313-04:00.hyperlinks.json) |
+| [August 26 at 10:08 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-26T10:08:05.038823-04:00.hyperlinks.json) |
+| [August 25 at 10:26 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-25T22:26:50.539517-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 4:23 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-30T11:22:57.978533-04:00.accessibility.json) |
-| [August 29 at 3:32 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-29T22:32:41.625227-04:00.accessibility.json) |
-| [August 29 at 3:11 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-29T10:11:27.387171-04:00.accessibility.json) |
-| [August 28 at 3:27 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-28T22:27:43.060319-04:00.accessibility.json) |
-| [August 28 at 3:04 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-28T10:04:02.602896-04:00.accessibility.json) |
-| [August 27 at 3:29 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-27T22:29:23.442549-04:00.accessibility.json) |
-| [August 27 at 3:01 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-27T10:01:13.712378-04:00.accessibility.json) |
-| [August 26 at 3:23 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-26T22:23:23.819313-04:00.accessibility.json) |
-| [August 26 at 3:08 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-26T10:08:05.038823-04:00.accessibility.json) |
-| [August 25 at 3:26 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-25T22:26:50.539517-04:00.accessibility.json) |
+| [August 30 at 11:23 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-30T11:22:57.978533-04:00.accessibility.json) |
+| [August 29 at 10:32 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-29T22:32:41.625227-04:00.accessibility.json) |
+| [August 29 at 10:11 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-29T10:11:27.387171-04:00.accessibility.json) |
+| [August 28 at 10:27 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-28T22:27:43.060319-04:00.accessibility.json) |
+| [August 28 at 10:04 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-28T10:04:02.602896-04:00.accessibility.json) |
+| [August 27 at 10:29 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-27T22:29:23.442549-04:00.accessibility.json) |
+| [August 27 at 10:01 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-27T10:01:13.712378-04:00.accessibility.json) |
+| [August 26 at 10:23 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-26T22:23:23.819313-04:00.accessibility.json) |
+| [August 26 at 10:08 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-26T10:08:05.038823-04:00.accessibility.json) |
+| [August 25 at 10:26 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-25T22:26:50.539517-04:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 4:23 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-30T11:22:57.978533-04:00.lighthouse.json) |
-| [August 29 at 3:32 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-29T22:32:41.625227-04:00.lighthouse.json) |
-| [August 29 at 3:11 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-29T10:11:27.387171-04:00.lighthouse.json) |
-| [August 28 at 3:27 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-28T22:27:43.060319-04:00.lighthouse.json) |
-| [August 28 at 3:04 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-28T10:04:02.602896-04:00.lighthouse.json) |
-| [August 27 at 3:29 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-27T22:29:23.442549-04:00.lighthouse.json) |
-| [August 27 at 3:01 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-27T10:01:13.712378-04:00.lighthouse.json) |
-| [August 26 at 3:23 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-26T22:23:23.819313-04:00.lighthouse.json) |
-| [August 26 at 3:08 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-26T10:08:05.038823-04:00.lighthouse.json) |
-| [August 25 at 3:26 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-25T22:26:50.539517-04:00.lighthouse.json) |
+| [August 30 at 11:23 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-30T11:22:57.978533-04:00.lighthouse.json) |
+| [August 29 at 10:32 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-29T22:32:41.625227-04:00.lighthouse.json) |
+| [August 29 at 10:11 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-29T10:11:27.387171-04:00.lighthouse.json) |
+| [August 28 at 10:27 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-28T22:27:43.060319-04:00.lighthouse.json) |
+| [August 28 at 10:04 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-28T10:04:02.602896-04:00.lighthouse.json) |
+| [August 27 at 10:29 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-27T22:29:23.442549-04:00.lighthouse.json) |
+| [August 27 at 10:01 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-27T10:01:13.712378-04:00.lighthouse.json) |
+| [August 26 at 10:23 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-26T22:23:23.819313-04:00.lighthouse.json) |
+| [August 26 at 10:08 AM](https://archive.org/download/enquirer-2022/enquirer-2022-08-26T10:08:05.038823-04:00.lighthouse.json) |
+| [August 25 at 10:26 PM](https://archive.org/download/enquirer-2022/enquirer-2022-08-25T22:26:50.539517-04:00.lighthouse.json) |
 
 
 

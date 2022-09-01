@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-30T12:16:39.863043-03:00.jpg">
   <img src="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-30T12:16:39.863043-03:00.jpg"
-     alt="Agência Amazônia at 2022-08-30 05:16:42-03:00 local time"
+     alt="Agência Amazônia at 2022-08-30 12:16:42-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-30T12:16:39.863043-03:00.jpg">August 30 at 5:16 AM</a></p>
+ <p><a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-30T12:16:39.863043-03:00.jpg">August 30 at 12:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-30T09:15:17.585821-03:00.jpg">
   <img src="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-30T09:15:17.585821-03:00.jpg"
-     alt="Agência Amazônia at 2022-08-30 02:15:18-03:00 local time"
+     alt="Agência Amazônia at 2022-08-30 09:15:18-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-30T09:15:17.585821-03:00.jpg">August 30 at 2:15 AM</a></p>
+ <p><a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-30T09:15:17.585821-03:00.jpg">August 30 at 9:15 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T23:26:51.927936-03:00.jpg">
   <img src="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T23:26:51.927936-03:00.jpg"
-     alt="Agência Amazônia at 2022-08-29 16:26:55-03:00 local time"
+     alt="Agência Amazônia at 2022-08-29 23:26:55-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T23:26:51.927936-03:00.jpg">August 29 at 4:26 PM</a></p>
+ <p><a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T23:26:51.927936-03:00.jpg">August 29 at 11:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T11:05:35.756093-03:00.jpg">
   <img src="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T11:05:35.756093-03:00.jpg"
-     alt="Agência Amazônia at 2022-08-29 04:05:37-03:00 local time"
+     alt="Agência Amazônia at 2022-08-29 11:05:37-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T11:05:35.756093-03:00.jpg">August 29 at 4:05 AM</a></p>
+ <p><a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T11:05:35.756093-03:00.jpg">August 29 at 11:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T09:01:53.100279-03:00.jpg">
   <img src="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T09:01:53.100279-03:00.jpg"
-     alt="Agência Amazônia at 2022-08-29 02:01:54-03:00 local time"
+     alt="Agência Amazônia at 2022-08-29 09:01:54-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T09:01:53.100279-03:00.jpg">August 29 at 2:01 AM</a></p>
+ <p><a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T09:01:53.100279-03:00.jpg">August 29 at 9:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T23:23:01.036392-03:00.jpg">
   <img src="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T23:23:01.036392-03:00.jpg"
-     alt="Agência Amazônia at 2022-08-28 16:23:02-03:00 local time"
+     alt="Agência Amazônia at 2022-08-28 23:23:02-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T23:23:01.036392-03:00.jpg">August 28 at 4:23 PM</a></p>
+ <p><a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T23:23:01.036392-03:00.jpg">August 28 at 11:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T10:59:07.586207-03:00.jpg">
   <img src="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T10:59:07.586207-03:00.jpg"
-     alt="Agência Amazônia at 2022-08-28 03:59:09-03:00 local time"
+     alt="Agência Amazônia at 2022-08-28 10:59:09-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T10:59:07.586207-03:00.jpg">August 28 at 3:59 AM</a></p>
+ <p><a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T10:59:07.586207-03:00.jpg">August 28 at 10:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T09:04:04.870485-03:00.jpg">
   <img src="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T09:04:04.870485-03:00.jpg"
-     alt="Agência Amazônia at 2022-08-28 02:04:08-03:00 local time"
+     alt="Agência Amazônia at 2022-08-28 09:04:08-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T09:04:04.870485-03:00.jpg">August 28 at 2:04 AM</a></p>
+ <p><a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T09:04:04.870485-03:00.jpg">August 28 at 9:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-27T23:24:16.541478-03:00.jpg">
   <img src="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-27T23:24:16.541478-03:00.jpg"
-     alt="Agência Amazônia at 2022-08-27 16:24:18-03:00 local time"
+     alt="Agência Amazônia at 2022-08-27 23:24:18-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-27T23:24:16.541478-03:00.jpg">August 27 at 4:24 PM</a></p>
+ <p><a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-27T23:24:16.541478-03:00.jpg">August 27 at 11:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-27T10:56:09.313415-03:00.jpg">
   <img src="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-27T10:56:09.313415-03:00.jpg"
-     alt="Agência Amazônia at 2022-08-27 03:56:11-03:00 local time"
+     alt="Agência Amazônia at 2022-08-27 10:56:11-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-27T10:56:09.313415-03:00.jpg">August 27 at 3:56 AM</a></p>
+ <p><a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-27T10:56:09.313415-03:00.jpg">August 27 at 10:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-27T08:57:10.289614-03:00.jpg">
   <img src="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-27T08:57:10.289614-03:00.jpg"
-     alt="Agência Amazônia at 2022-08-27 01:57:11-03:00 local time"
+     alt="Agência Amazônia at 2022-08-27 08:57:11-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-27T08:57:10.289614-03:00.jpg">August 27 at 1:57 AM</a></p>
+ <p><a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-27T08:57:10.289614-03:00.jpg">August 27 at 8:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-26T23:18:54.010007-03:00.jpg">
   <img src="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-26T23:18:54.010007-03:00.jpg"
-     alt="Agência Amazônia at 2022-08-26 16:18:57-03:00 local time"
+     alt="Agência Amazônia at 2022-08-26 23:18:57-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-26T23:18:54.010007-03:00.jpg">August 26 at 4:18 PM</a></p>
+ <p><a href="https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-26T23:18:54.010007-03:00.jpg">August 26 at 11:18 PM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 5:16 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-30T12:16:39.863043-03:00.hyperlinks.json) |
-| [August 30 at 2:15 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-30T09:15:17.585821-03:00.hyperlinks.json) |
-| [August 29 at 4:26 PM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T23:26:51.927936-03:00.hyperlinks.json) |
-| [August 29 at 4:05 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T11:05:35.756093-03:00.hyperlinks.json) |
-| [August 29 at 2:01 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T09:01:53.100279-03:00.hyperlinks.json) |
-| [August 28 at 4:23 PM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T23:23:01.036392-03:00.hyperlinks.json) |
-| [August 28 at 3:59 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T10:59:07.586207-03:00.hyperlinks.json) |
-| [August 28 at 2:04 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T09:04:04.870485-03:00.hyperlinks.json) |
-| [August 27 at 4:24 PM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-27T23:24:16.541478-03:00.hyperlinks.json) |
-| [August 27 at 3:56 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-27T10:56:09.313415-03:00.hyperlinks.json) |
+| [August 30 at 12:16 PM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-30T12:16:39.863043-03:00.hyperlinks.json) |
+| [August 30 at 9:15 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-30T09:15:17.585821-03:00.hyperlinks.json) |
+| [August 29 at 11:26 PM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T23:26:51.927936-03:00.hyperlinks.json) |
+| [August 29 at 11:05 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T11:05:35.756093-03:00.hyperlinks.json) |
+| [August 29 at 9:01 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T09:01:53.100279-03:00.hyperlinks.json) |
+| [August 28 at 11:23 PM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T23:23:01.036392-03:00.hyperlinks.json) |
+| [August 28 at 10:59 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T10:59:07.586207-03:00.hyperlinks.json) |
+| [August 28 at 9:04 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T09:04:04.870485-03:00.hyperlinks.json) |
+| [August 27 at 11:24 PM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-27T23:24:16.541478-03:00.hyperlinks.json) |
+| [August 27 at 10:56 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-27T10:56:09.313415-03:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 5:16 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-30T12:16:39.863043-03:00.accessibility.json) |
-| [August 30 at 2:15 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-30T09:15:17.585821-03:00.accessibility.json) |
-| [August 29 at 4:26 PM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T23:26:51.927936-03:00.accessibility.json) |
-| [August 29 at 4:05 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T11:05:35.756093-03:00.accessibility.json) |
-| [August 29 at 2:01 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T09:01:53.100279-03:00.accessibility.json) |
-| [August 28 at 4:23 PM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T23:23:01.036392-03:00.accessibility.json) |
-| [August 28 at 3:59 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T10:59:07.586207-03:00.accessibility.json) |
-| [August 28 at 2:04 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T09:04:04.870485-03:00.accessibility.json) |
-| [August 27 at 4:24 PM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-27T23:24:16.541478-03:00.accessibility.json) |
-| [August 27 at 3:56 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-27T10:56:09.313415-03:00.accessibility.json) |
+| [August 30 at 12:16 PM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-30T12:16:39.863043-03:00.accessibility.json) |
+| [August 30 at 9:15 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-30T09:15:17.585821-03:00.accessibility.json) |
+| [August 29 at 11:26 PM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T23:26:51.927936-03:00.accessibility.json) |
+| [August 29 at 11:05 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T11:05:35.756093-03:00.accessibility.json) |
+| [August 29 at 9:01 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T09:01:53.100279-03:00.accessibility.json) |
+| [August 28 at 11:23 PM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T23:23:01.036392-03:00.accessibility.json) |
+| [August 28 at 10:59 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T10:59:07.586207-03:00.accessibility.json) |
+| [August 28 at 9:04 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T09:04:04.870485-03:00.accessibility.json) |
+| [August 27 at 11:24 PM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-27T23:24:16.541478-03:00.accessibility.json) |
+| [August 27 at 10:56 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-27T10:56:09.313415-03:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 5:16 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-30T12:16:39.863043-03:00.lighthouse.json) |
-| [August 30 at 2:15 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-30T09:15:17.585821-03:00.lighthouse.json) |
-| [August 29 at 4:26 PM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T23:26:51.927936-03:00.lighthouse.json) |
-| [August 29 at 4:05 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T11:05:35.756093-03:00.lighthouse.json) |
-| [August 29 at 2:01 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T09:01:53.100279-03:00.lighthouse.json) |
-| [August 28 at 4:23 PM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T23:23:01.036392-03:00.lighthouse.json) |
-| [August 28 at 3:59 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T10:59:07.586207-03:00.lighthouse.json) |
-| [August 28 at 2:04 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T09:04:04.870485-03:00.lighthouse.json) |
-| [August 27 at 4:24 PM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-27T23:24:16.541478-03:00.lighthouse.json) |
-| [August 27 at 3:56 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-27T10:56:09.313415-03:00.lighthouse.json) |
+| [August 30 at 12:16 PM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-30T12:16:39.863043-03:00.lighthouse.json) |
+| [August 30 at 9:15 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-30T09:15:17.585821-03:00.lighthouse.json) |
+| [August 29 at 11:26 PM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T23:26:51.927936-03:00.lighthouse.json) |
+| [August 29 at 11:05 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T11:05:35.756093-03:00.lighthouse.json) |
+| [August 29 at 9:01 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-29T09:01:53.100279-03:00.lighthouse.json) |
+| [August 28 at 11:23 PM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T23:23:01.036392-03:00.lighthouse.json) |
+| [August 28 at 10:59 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T10:59:07.586207-03:00.lighthouse.json) |
+| [August 28 at 9:04 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-28T09:04:04.870485-03:00.lighthouse.json) |
+| [August 27 at 11:24 PM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-27T23:24:16.541478-03:00.lighthouse.json) |
+| [August 27 at 10:56 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-08-27T10:56:09.313415-03:00.lighthouse.json) |
 
 
 

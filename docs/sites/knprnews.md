@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-30T08:34:39.422235-07:00.jpg">
   <img src="https://archive.org/download/knprnews-2022/knprnews-2022-08-30T08:34:39.422235-07:00.jpg"
-     alt="Nevada Public Radio at 2022-08-30 01:34:41-07:00 local time"
+     alt="Nevada Public Radio at 2022-08-30 08:34:41-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-30T08:34:39.422235-07:00.jpg">August 30 at 1:34 AM</a></p>
+ <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-30T08:34:39.422235-07:00.jpg">August 30 at 8:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-29T20:54:02.679719-07:00.jpg">
   <img src="https://archive.org/download/knprnews-2022/knprnews-2022-08-29T20:54:02.679719-07:00.jpg"
-     alt="Nevada Public Radio at 2022-08-29 13:54:04-07:00 local time"
+     alt="Nevada Public Radio at 2022-08-29 20:54:04-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-29T20:54:02.679719-07:00.jpg">August 29 at 1:54 PM</a></p>
+ <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-29T20:54:02.679719-07:00.jpg">August 29 at 8:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-29T08:08:21.406031-07:00.jpg">
   <img src="https://archive.org/download/knprnews-2022/knprnews-2022-08-29T08:08:21.406031-07:00.jpg"
-     alt="Nevada Public Radio at 2022-08-29 01:08:23-07:00 local time"
+     alt="Nevada Public Radio at 2022-08-29 08:08:23-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-29T08:08:21.406031-07:00.jpg">August 29 at 1:08 AM</a></p>
+ <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-29T08:08:21.406031-07:00.jpg">August 29 at 8:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-28T20:44:00.967972-07:00.jpg">
   <img src="https://archive.org/download/knprnews-2022/knprnews-2022-08-28T20:44:00.967972-07:00.jpg"
-     alt="Nevada Public Radio at 2022-08-28 13:44:08-07:00 local time"
+     alt="Nevada Public Radio at 2022-08-28 20:44:08-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-28T20:44:00.967972-07:00.jpg">August 28 at 1:44 PM</a></p>
+ <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-28T20:44:00.967972-07:00.jpg">August 28 at 8:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-28T07:56:56.589427-07:00.jpg">
   <img src="https://archive.org/download/knprnews-2022/knprnews-2022-08-28T07:56:56.589427-07:00.jpg"
-     alt="Nevada Public Radio at 2022-08-28 00:57:00-07:00 local time"
+     alt="Nevada Public Radio at 2022-08-28 07:57:00-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-28T07:56:56.589427-07:00.jpg">August 28 at 12:57 AM</a></p>
+ <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-28T07:56:56.589427-07:00.jpg">August 28 at 7:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-27T20:41:16.009295-07:00.jpg">
   <img src="https://archive.org/download/knprnews-2022/knprnews-2022-08-27T20:41:16.009295-07:00.jpg"
-     alt="Nevada Public Radio at 2022-08-27 13:41:18-07:00 local time"
+     alt="Nevada Public Radio at 2022-08-27 20:41:18-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-27T20:41:16.009295-07:00.jpg">August 27 at 1:41 PM</a></p>
+ <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-27T20:41:16.009295-07:00.jpg">August 27 at 8:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-27T07:51:58.303519-07:00.jpg">
   <img src="https://archive.org/download/knprnews-2022/knprnews-2022-08-27T07:51:58.303519-07:00.jpg"
-     alt="Nevada Public Radio at 2022-08-27 00:51:59-07:00 local time"
+     alt="Nevada Public Radio at 2022-08-27 07:51:59-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-27T07:51:58.303519-07:00.jpg">August 27 at 12:51 AM</a></p>
+ <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-27T07:51:58.303519-07:00.jpg">August 27 at 7:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-26T20:37:35.291440-07:00.jpg">
   <img src="https://archive.org/download/knprnews-2022/knprnews-2022-08-26T20:37:35.291440-07:00.jpg"
-     alt="Nevada Public Radio at 2022-08-26 13:37:37-07:00 local time"
+     alt="Nevada Public Radio at 2022-08-26 20:37:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-26T20:37:35.291440-07:00.jpg">August 26 at 1:37 PM</a></p>
+ <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-26T20:37:35.291440-07:00.jpg">August 26 at 8:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-26T07:59:03.952459-07:00.jpg">
   <img src="https://archive.org/download/knprnews-2022/knprnews-2022-08-26T07:59:03.952459-07:00.jpg"
-     alt="Nevada Public Radio at 2022-08-26 00:59:05-07:00 local time"
+     alt="Nevada Public Radio at 2022-08-26 07:59:05-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-26T07:59:03.952459-07:00.jpg">August 26 at 12:59 AM</a></p>
+ <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-26T07:59:03.952459-07:00.jpg">August 26 at 7:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-25T20:44:24.225419-07:00.jpg">
   <img src="https://archive.org/download/knprnews-2022/knprnews-2022-08-25T20:44:24.225419-07:00.jpg"
-     alt="Nevada Public Radio at 2022-08-25 13:44:25-07:00 local time"
+     alt="Nevada Public Radio at 2022-08-25 20:44:25-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-25T20:44:24.225419-07:00.jpg">August 25 at 1:44 PM</a></p>
+ <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-25T20:44:24.225419-07:00.jpg">August 25 at 8:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-25T08:01:53.233889-07:00.jpg">
   <img src="https://archive.org/download/knprnews-2022/knprnews-2022-08-25T08:01:53.233889-07:00.jpg"
-     alt="Nevada Public Radio at 2022-08-25 01:01:55-07:00 local time"
+     alt="Nevada Public Radio at 2022-08-25 08:01:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-25T08:01:53.233889-07:00.jpg">August 25 at 1:01 AM</a></p>
+ <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-25T08:01:53.233889-07:00.jpg">August 25 at 8:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-24T08:01:08.579800-07:00.jpg">
   <img src="https://archive.org/download/knprnews-2022/knprnews-2022-08-24T08:01:08.579800-07:00.jpg"
-     alt="Nevada Public Radio at 2022-08-24 01:01:11-07:00 local time"
+     alt="Nevada Public Radio at 2022-08-24 08:01:11-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-24T08:01:08.579800-07:00.jpg">August 24 at 1:01 AM</a></p>
+ <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-24T08:01:08.579800-07:00.jpg">August 24 at 8:01 AM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 1:34 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-30T08:34:39.422235-07:00.hyperlinks.json) |
-| [August 29 at 1:54 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-29T20:54:02.679719-07:00.hyperlinks.json) |
-| [August 29 at 1:08 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-29T08:08:21.406031-07:00.hyperlinks.json) |
-| [August 28 at 1:44 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-28T20:44:00.967972-07:00.hyperlinks.json) |
-| [August 28 at 12:57 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-28T07:56:56.589427-07:00.hyperlinks.json) |
-| [August 27 at 1:41 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-27T20:41:16.009295-07:00.hyperlinks.json) |
-| [August 27 at 12:52 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-27T07:51:58.303519-07:00.hyperlinks.json) |
-| [August 26 at 1:37 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-26T20:37:35.291440-07:00.hyperlinks.json) |
-| [August 26 at 12:59 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-26T07:59:03.952459-07:00.hyperlinks.json) |
-| [August 25 at 1:44 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-25T20:44:24.225419-07:00.hyperlinks.json) |
+| [August 30 at 8:34 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-30T08:34:39.422235-07:00.hyperlinks.json) |
+| [August 29 at 8:54 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-29T20:54:02.679719-07:00.hyperlinks.json) |
+| [August 29 at 8:08 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-29T08:08:21.406031-07:00.hyperlinks.json) |
+| [August 28 at 8:44 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-28T20:44:00.967972-07:00.hyperlinks.json) |
+| [August 28 at 7:57 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-28T07:56:56.589427-07:00.hyperlinks.json) |
+| [August 27 at 8:41 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-27T20:41:16.009295-07:00.hyperlinks.json) |
+| [August 27 at 7:52 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-27T07:51:58.303519-07:00.hyperlinks.json) |
+| [August 26 at 8:37 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-26T20:37:35.291440-07:00.hyperlinks.json) |
+| [August 26 at 7:59 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-26T07:59:03.952459-07:00.hyperlinks.json) |
+| [August 25 at 8:44 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-25T20:44:24.225419-07:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 1:34 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-30T08:34:39.422235-07:00.accessibility.json) |
-| [August 29 at 1:54 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-29T20:54:02.679719-07:00.accessibility.json) |
-| [August 29 at 1:08 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-29T08:08:21.406031-07:00.accessibility.json) |
-| [August 28 at 1:44 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-28T20:44:00.967972-07:00.accessibility.json) |
-| [August 28 at 12:57 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-28T07:56:56.589427-07:00.accessibility.json) |
-| [August 27 at 1:41 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-27T20:41:16.009295-07:00.accessibility.json) |
-| [August 27 at 12:52 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-27T07:51:58.303519-07:00.accessibility.json) |
-| [August 26 at 1:37 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-26T20:37:35.291440-07:00.accessibility.json) |
-| [August 26 at 12:59 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-26T07:59:03.952459-07:00.accessibility.json) |
-| [August 25 at 1:44 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-25T20:44:24.225419-07:00.accessibility.json) |
+| [August 30 at 8:34 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-30T08:34:39.422235-07:00.accessibility.json) |
+| [August 29 at 8:54 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-29T20:54:02.679719-07:00.accessibility.json) |
+| [August 29 at 8:08 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-29T08:08:21.406031-07:00.accessibility.json) |
+| [August 28 at 8:44 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-28T20:44:00.967972-07:00.accessibility.json) |
+| [August 28 at 7:57 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-28T07:56:56.589427-07:00.accessibility.json) |
+| [August 27 at 8:41 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-27T20:41:16.009295-07:00.accessibility.json) |
+| [August 27 at 7:52 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-27T07:51:58.303519-07:00.accessibility.json) |
+| [August 26 at 8:37 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-26T20:37:35.291440-07:00.accessibility.json) |
+| [August 26 at 7:59 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-26T07:59:03.952459-07:00.accessibility.json) |
+| [August 25 at 8:44 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-25T20:44:24.225419-07:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 1:34 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-30T08:34:39.422235-07:00.lighthouse.json) |
-| [August 29 at 1:54 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-29T20:54:02.679719-07:00.lighthouse.json) |
-| [August 29 at 1:08 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-29T08:08:21.406031-07:00.lighthouse.json) |
-| [August 28 at 1:44 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-28T20:44:00.967972-07:00.lighthouse.json) |
-| [August 28 at 12:57 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-28T07:56:56.589427-07:00.lighthouse.json) |
-| [August 27 at 1:41 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-27T20:41:16.009295-07:00.lighthouse.json) |
-| [August 27 at 12:52 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-27T07:51:58.303519-07:00.lighthouse.json) |
-| [August 26 at 1:37 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-26T20:37:35.291440-07:00.lighthouse.json) |
-| [August 26 at 12:59 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-26T07:59:03.952459-07:00.lighthouse.json) |
-| [August 25 at 1:44 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-25T20:44:24.225419-07:00.lighthouse.json) |
+| [August 30 at 8:34 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-30T08:34:39.422235-07:00.lighthouse.json) |
+| [August 29 at 8:54 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-29T20:54:02.679719-07:00.lighthouse.json) |
+| [August 29 at 8:08 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-29T08:08:21.406031-07:00.lighthouse.json) |
+| [August 28 at 8:44 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-28T20:44:00.967972-07:00.lighthouse.json) |
+| [August 28 at 7:57 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-28T07:56:56.589427-07:00.lighthouse.json) |
+| [August 27 at 8:41 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-27T20:41:16.009295-07:00.lighthouse.json) |
+| [August 27 at 7:52 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-27T07:51:58.303519-07:00.lighthouse.json) |
+| [August 26 at 8:37 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-26T20:37:35.291440-07:00.lighthouse.json) |
+| [August 26 at 7:59 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-26T07:59:03.952459-07:00.lighthouse.json) |
+| [August 25 at 8:44 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-25T20:44:24.225419-07:00.lighthouse.json) |
 
 
 

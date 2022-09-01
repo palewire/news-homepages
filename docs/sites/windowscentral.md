@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-30T09:39:35.713427-07:00.jpg">
   <img src="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-30T09:39:35.713427-07:00.jpg"
-     alt="Windows Central at 2022-08-30 02:39:41-07:00 local time"
+     alt="Windows Central at 2022-08-30 09:39:41-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-30T09:39:35.713427-07:00.jpg">August 30 at 2:39 AM</a></p>
+ <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-30T09:39:35.713427-07:00.jpg">August 30 at 9:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-29T21:59:52.875192-07:00.jpg">
   <img src="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-29T21:59:52.875192-07:00.jpg"
-     alt="Windows Central at 2022-08-29 14:59:59-07:00 local time"
+     alt="Windows Central at 2022-08-29 21:59:59-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-29T21:59:52.875192-07:00.jpg">August 29 at 2:59 PM</a></p>
+ <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-29T21:59:52.875192-07:00.jpg">August 29 at 9:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-29T09:20:31.111650-07:00.jpg">
   <img src="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-29T09:20:31.111650-07:00.jpg"
-     alt="Windows Central at 2022-08-29 02:20:35-07:00 local time"
+     alt="Windows Central at 2022-08-29 09:20:35-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-29T09:20:31.111650-07:00.jpg">August 29 at 2:20 AM</a></p>
+ <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-29T09:20:31.111650-07:00.jpg">August 29 at 9:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-28T21:43:47.253798-07:00.jpg">
   <img src="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-28T21:43:47.253798-07:00.jpg"
-     alt="Windows Central at 2022-08-28 14:43:53-07:00 local time"
+     alt="Windows Central at 2022-08-28 21:43:53-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-28T21:43:47.253798-07:00.jpg">August 28 at 2:43 PM</a></p>
+ <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-28T21:43:47.253798-07:00.jpg">August 28 at 9:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-28T09:05:44.749227-07:00.jpg">
   <img src="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-28T09:05:44.749227-07:00.jpg"
-     alt="Windows Central at 2022-08-28 02:05:50-07:00 local time"
+     alt="Windows Central at 2022-08-28 09:05:50-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-28T09:05:44.749227-07:00.jpg">August 28 at 2:05 AM</a></p>
+ <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-28T09:05:44.749227-07:00.jpg">August 28 at 9:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T21:40:07.188622-07:00.jpg">
   <img src="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T21:40:07.188622-07:00.jpg"
-     alt="Windows Central at 2022-08-27 14:40:08-07:00 local time"
+     alt="Windows Central at 2022-08-27 21:40:08-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T21:40:07.188622-07:00.jpg">August 27 at 2:40 PM</a></p>
+ <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T21:40:07.188622-07:00.jpg">August 27 at 9:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T09:02:42.482866-07:00.jpg">
   <img src="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T09:02:42.482866-07:00.jpg"
-     alt="Windows Central at 2022-08-27 02:02:54-07:00 local time"
+     alt="Windows Central at 2022-08-27 09:02:54-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T09:02:42.482866-07:00.jpg">August 27 at 2:02 AM</a></p>
+ <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T09:02:42.482866-07:00.jpg">August 27 at 9:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-26T21:40:28.547850-07:00.jpg">
   <img src="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-26T21:40:28.547850-07:00.jpg"
-     alt="Windows Central at 2022-08-26 14:40:32-07:00 local time"
+     alt="Windows Central at 2022-08-26 21:40:32-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-26T21:40:28.547850-07:00.jpg">August 26 at 2:40 PM</a></p>
+ <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-26T21:40:28.547850-07:00.jpg">August 26 at 9:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-26T09:09:31.293550-07:00.jpg">
   <img src="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-26T09:09:31.293550-07:00.jpg"
-     alt="Windows Central at 2022-08-26 02:09:36-07:00 local time"
+     alt="Windows Central at 2022-08-26 09:09:36-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-26T09:09:31.293550-07:00.jpg">August 26 at 2:09 AM</a></p>
+ <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-26T09:09:31.293550-07:00.jpg">August 26 at 9:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-25T21:45:37.857204-07:00.jpg">
   <img src="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-25T21:45:37.857204-07:00.jpg"
-     alt="Windows Central at 2022-08-25 14:45:39-07:00 local time"
+     alt="Windows Central at 2022-08-25 21:45:39-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-25T21:45:37.857204-07:00.jpg">August 25 at 2:45 PM</a></p>
+ <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-25T21:45:37.857204-07:00.jpg">August 25 at 9:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-25T09:07:51.245284-07:00.jpg">
   <img src="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-25T09:07:51.245284-07:00.jpg"
-     alt="Windows Central at 2022-08-25 02:07:55-07:00 local time"
+     alt="Windows Central at 2022-08-25 09:07:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-25T09:07:51.245284-07:00.jpg">August 25 at 2:07 AM</a></p>
+ <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-25T09:07:51.245284-07:00.jpg">August 25 at 9:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-24T09:05:34.877532-07:00.jpg">
   <img src="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-24T09:05:34.877532-07:00.jpg"
-     alt="Windows Central at 2022-08-24 02:05:43-07:00 local time"
+     alt="Windows Central at 2022-08-24 09:05:43-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-24T09:05:34.877532-07:00.jpg">August 24 at 2:05 AM</a></p>
+ <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-24T09:05:34.877532-07:00.jpg">August 24 at 9:05 AM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 2:39 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-30T09:39:35.713427-07:00.hyperlinks.json) |
-| [August 29 at 3:00 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-29T21:59:52.875192-07:00.hyperlinks.json) |
-| [August 29 at 2:20 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-29T09:20:31.111650-07:00.hyperlinks.json) |
-| [August 28 at 2:43 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-28T21:43:47.253798-07:00.hyperlinks.json) |
-| [August 28 at 2:05 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-28T09:05:44.749227-07:00.hyperlinks.json) |
-| [August 27 at 2:40 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T21:40:07.188622-07:00.hyperlinks.json) |
-| [August 27 at 2:02 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T09:02:42.482866-07:00.hyperlinks.json) |
-| [August 26 at 2:40 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-26T21:40:28.547850-07:00.hyperlinks.json) |
-| [August 26 at 2:09 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-26T09:09:31.293550-07:00.hyperlinks.json) |
-| [August 25 at 2:45 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-25T21:45:37.857204-07:00.hyperlinks.json) |
+| [August 30 at 9:39 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-30T09:39:35.713427-07:00.hyperlinks.json) |
+| [August 29 at 10:00 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-29T21:59:52.875192-07:00.hyperlinks.json) |
+| [August 29 at 9:20 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-29T09:20:31.111650-07:00.hyperlinks.json) |
+| [August 28 at 9:43 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-28T21:43:47.253798-07:00.hyperlinks.json) |
+| [August 28 at 9:05 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-28T09:05:44.749227-07:00.hyperlinks.json) |
+| [August 27 at 9:40 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T21:40:07.188622-07:00.hyperlinks.json) |
+| [August 27 at 9:02 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T09:02:42.482866-07:00.hyperlinks.json) |
+| [August 26 at 9:40 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-26T21:40:28.547850-07:00.hyperlinks.json) |
+| [August 26 at 9:09 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-26T09:09:31.293550-07:00.hyperlinks.json) |
+| [August 25 at 9:45 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-25T21:45:37.857204-07:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 2:39 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-30T09:39:35.713427-07:00.accessibility.json) |
-| [August 29 at 3:00 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-29T21:59:52.875192-07:00.accessibility.json) |
-| [August 29 at 2:20 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-29T09:20:31.111650-07:00.accessibility.json) |
-| [August 28 at 2:43 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-28T21:43:47.253798-07:00.accessibility.json) |
-| [August 28 at 2:05 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-28T09:05:44.749227-07:00.accessibility.json) |
-| [August 27 at 2:40 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T21:40:07.188622-07:00.accessibility.json) |
-| [August 27 at 2:02 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T09:02:42.482866-07:00.accessibility.json) |
-| [August 26 at 2:40 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-26T21:40:28.547850-07:00.accessibility.json) |
-| [August 26 at 2:09 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-26T09:09:31.293550-07:00.accessibility.json) |
-| [August 25 at 2:45 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-25T21:45:37.857204-07:00.accessibility.json) |
+| [August 30 at 9:39 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-30T09:39:35.713427-07:00.accessibility.json) |
+| [August 29 at 10:00 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-29T21:59:52.875192-07:00.accessibility.json) |
+| [August 29 at 9:20 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-29T09:20:31.111650-07:00.accessibility.json) |
+| [August 28 at 9:43 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-28T21:43:47.253798-07:00.accessibility.json) |
+| [August 28 at 9:05 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-28T09:05:44.749227-07:00.accessibility.json) |
+| [August 27 at 9:40 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T21:40:07.188622-07:00.accessibility.json) |
+| [August 27 at 9:02 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T09:02:42.482866-07:00.accessibility.json) |
+| [August 26 at 9:40 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-26T21:40:28.547850-07:00.accessibility.json) |
+| [August 26 at 9:09 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-26T09:09:31.293550-07:00.accessibility.json) |
+| [August 25 at 9:45 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-25T21:45:37.857204-07:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 2:39 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-30T09:39:35.713427-07:00.lighthouse.json) |
-| [August 29 at 3:00 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-29T21:59:52.875192-07:00.lighthouse.json) |
-| [August 29 at 2:20 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-29T09:20:31.111650-07:00.lighthouse.json) |
-| [August 28 at 2:43 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-28T21:43:47.253798-07:00.lighthouse.json) |
-| [August 28 at 2:05 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-28T09:05:44.749227-07:00.lighthouse.json) |
-| [August 27 at 2:40 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T21:40:07.188622-07:00.lighthouse.json) |
-| [August 27 at 2:03 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T09:02:42.482866-07:00.lighthouse.json) |
-| [August 26 at 2:40 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-26T21:40:28.547850-07:00.lighthouse.json) |
-| [August 26 at 2:09 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-26T09:09:31.293550-07:00.lighthouse.json) |
-| [August 25 at 2:45 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-25T21:45:37.857204-07:00.lighthouse.json) |
+| [August 30 at 9:39 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-30T09:39:35.713427-07:00.lighthouse.json) |
+| [August 29 at 10:00 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-29T21:59:52.875192-07:00.lighthouse.json) |
+| [August 29 at 9:20 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-29T09:20:31.111650-07:00.lighthouse.json) |
+| [August 28 at 9:43 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-28T21:43:47.253798-07:00.lighthouse.json) |
+| [August 28 at 9:05 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-28T09:05:44.749227-07:00.lighthouse.json) |
+| [August 27 at 9:40 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T21:40:07.188622-07:00.lighthouse.json) |
+| [August 27 at 9:03 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-27T09:02:42.482866-07:00.lighthouse.json) |
+| [August 26 at 9:40 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-26T21:40:28.547850-07:00.lighthouse.json) |
+| [August 26 at 9:09 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-26T09:09:31.293550-07:00.lighthouse.json) |
+| [August 25 at 9:45 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-25T21:45:37.857204-07:00.lighthouse.json) |
 
 
 

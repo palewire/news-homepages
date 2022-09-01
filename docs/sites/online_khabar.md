@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-30T18:53:30.464640+05:45.jpg">
   <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-30T18:53:30.464640+05:45.jpg"
-     alt="Online Khabar at 2022-08-30 11:53:40+05:45 local time"
+     alt="Online Khabar at 2022-08-30 18:53:40+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-30T18:53:30.464640+05:45.jpg">August 30 at 11:53 AM</a></p>
+ <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-30T18:53:30.464640+05:45.jpg">August 30 at 6:53 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-30T07:00:15.139553+05:45.jpg">
   <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-30T07:00:15.139553+05:45.jpg"
-     alt="Online Khabar at 2022-08-30 00:00:17+05:45 local time"
+     alt="Online Khabar at 2022-08-30 07:00:17+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-30T07:00:15.139553+05:45.jpg">August 30 at 12:00 AM</a></p>
+ <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-30T07:00:15.139553+05:45.jpg">August 30 at 7:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-29T18:44:52.569168+05:45.jpg">
   <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-29T18:44:52.569168+05:45.jpg"
-     alt="Online Khabar at 2022-08-29 11:44:56+05:45 local time"
+     alt="Online Khabar at 2022-08-29 18:44:56+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-29T18:44:52.569168+05:45.jpg">August 29 at 11:44 AM</a></p>
+ <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-29T18:44:52.569168+05:45.jpg">August 29 at 6:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-29T06:59:43.925043+05:45.jpg">
   <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-29T06:59:43.925043+05:45.jpg"
-     alt="Online Khabar at 2022-08-28 23:59:48+05:45 local time"
+     alt="Online Khabar at 2022-08-29 06:59:48+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-29T06:59:43.925043+05:45.jpg">August 28 at 11:59 PM</a></p>
+ <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-29T06:59:43.925043+05:45.jpg">August 29 at 6:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-28T18:44:03.972906+05:45.jpg">
   <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-28T18:44:03.972906+05:45.jpg"
-     alt="Online Khabar at 2022-08-28 11:44:08+05:45 local time"
+     alt="Online Khabar at 2022-08-28 18:44:08+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-28T18:44:03.972906+05:45.jpg">August 28 at 11:44 AM</a></p>
+ <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-28T18:44:03.972906+05:45.jpg">August 28 at 6:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-28T07:12:07.001356+05:45.jpg">
   <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-28T07:12:07.001356+05:45.jpg"
-     alt="Online Khabar at 2022-08-28 00:12:08+05:45 local time"
+     alt="Online Khabar at 2022-08-28 07:12:08+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-28T07:12:07.001356+05:45.jpg">August 28 at 12:12 AM</a></p>
+ <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-28T07:12:07.001356+05:45.jpg">August 28 at 7:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-27T18:40:17.952462+05:45.jpg">
   <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-27T18:40:17.952462+05:45.jpg"
-     alt="Online Khabar at 2022-08-27 11:40:23+05:45 local time"
+     alt="Online Khabar at 2022-08-27 18:40:23+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-27T18:40:17.952462+05:45.jpg">August 27 at 11:40 AM</a></p>
+ <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-27T18:40:17.952462+05:45.jpg">August 27 at 6:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-27T06:51:30.535479+05:45.jpg">
   <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-27T06:51:30.535479+05:45.jpg"
-     alt="Online Khabar at 2022-08-26 23:51:32+05:45 local time"
+     alt="Online Khabar at 2022-08-27 06:51:32+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-27T06:51:30.535479+05:45.jpg">August 26 at 11:51 PM</a></p>
+ <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-27T06:51:30.535479+05:45.jpg">August 27 at 6:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T18:45:02.836998+05:45.jpg">
   <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T18:45:02.836998+05:45.jpg"
-     alt="Online Khabar at 2022-08-26 11:45:08+05:45 local time"
+     alt="Online Khabar at 2022-08-26 18:45:08+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T18:45:02.836998+05:45.jpg">August 26 at 11:45 AM</a></p>
+ <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T18:45:02.836998+05:45.jpg">August 26 at 6:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T06:58:22.023819+05:45.jpg">
   <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T06:58:22.023819+05:45.jpg"
-     alt="Online Khabar at 2022-08-25 23:58:23+05:45 local time"
+     alt="Online Khabar at 2022-08-26 06:58:23+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T06:58:22.023819+05:45.jpg">August 25 at 11:58 PM</a></p>
+ <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T06:58:22.023819+05:45.jpg">August 26 at 6:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-25T18:47:59.397071+05:45.jpg">
   <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-25T18:47:59.397071+05:45.jpg"
-     alt="Online Khabar at 2022-08-25 11:48:04+05:45 local time"
+     alt="Online Khabar at 2022-08-25 18:48:04+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-25T18:47:59.397071+05:45.jpg">August 25 at 11:48 AM</a></p>
+ <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-25T18:47:59.397071+05:45.jpg">August 25 at 6:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-24T18:40:04.365252+05:45.jpg">
   <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-24T18:40:04.365252+05:45.jpg"
-     alt="Online Khabar at 2022-08-24 11:40:11+05:45 local time"
+     alt="Online Khabar at 2022-08-24 18:40:11+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-24T18:40:04.365252+05:45.jpg">August 24 at 11:40 AM</a></p>
+ <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-08-24T18:40:04.365252+05:45.jpg">August 24 at 6:40 PM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 11:53 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-30T18:53:30.464640+05:45.hyperlinks.json) |
-| [August 30 at 12:00 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-30T07:00:15.139553+05:45.hyperlinks.json) |
-| [August 29 at 11:44 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-29T18:44:52.569168+05:45.hyperlinks.json) |
-| [August 28 at 11:59 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-29T06:59:43.925043+05:45.hyperlinks.json) |
-| [August 28 at 11:44 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-28T18:44:03.972906+05:45.hyperlinks.json) |
-| [August 28 at 12:12 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-28T07:12:07.001356+05:45.hyperlinks.json) |
-| [August 27 at 11:40 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-27T18:40:17.952462+05:45.hyperlinks.json) |
-| [August 26 at 11:51 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-27T06:51:30.535479+05:45.hyperlinks.json) |
-| [August 26 at 11:45 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T18:45:02.836998+05:45.hyperlinks.json) |
-| [August 25 at 11:58 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T06:58:22.023819+05:45.hyperlinks.json) |
+| [August 30 at 6:53 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-30T18:53:30.464640+05:45.hyperlinks.json) |
+| [August 30 at 7:00 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-30T07:00:15.139553+05:45.hyperlinks.json) |
+| [August 29 at 6:44 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-29T18:44:52.569168+05:45.hyperlinks.json) |
+| [August 29 at 6:59 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-29T06:59:43.925043+05:45.hyperlinks.json) |
+| [August 28 at 6:44 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-28T18:44:03.972906+05:45.hyperlinks.json) |
+| [August 28 at 7:12 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-28T07:12:07.001356+05:45.hyperlinks.json) |
+| [August 27 at 6:40 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-27T18:40:17.952462+05:45.hyperlinks.json) |
+| [August 27 at 6:51 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-27T06:51:30.535479+05:45.hyperlinks.json) |
+| [August 26 at 6:45 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T18:45:02.836998+05:45.hyperlinks.json) |
+| [August 26 at 6:58 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T06:58:22.023819+05:45.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 11:53 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-30T18:53:30.464640+05:45.accessibility.json) |
-| [August 30 at 12:00 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-30T07:00:15.139553+05:45.accessibility.json) |
-| [August 29 at 11:44 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-29T18:44:52.569168+05:45.accessibility.json) |
-| [August 28 at 11:59 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-29T06:59:43.925043+05:45.accessibility.json) |
-| [August 28 at 11:44 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-28T18:44:03.972906+05:45.accessibility.json) |
-| [August 28 at 12:12 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-28T07:12:07.001356+05:45.accessibility.json) |
-| [August 27 at 11:40 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-27T18:40:17.952462+05:45.accessibility.json) |
-| [August 26 at 11:51 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-27T06:51:30.535479+05:45.accessibility.json) |
-| [August 26 at 11:45 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T18:45:02.836998+05:45.accessibility.json) |
-| [August 25 at 11:58 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T06:58:22.023819+05:45.accessibility.json) |
+| [August 30 at 6:53 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-30T18:53:30.464640+05:45.accessibility.json) |
+| [August 30 at 7:00 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-30T07:00:15.139553+05:45.accessibility.json) |
+| [August 29 at 6:44 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-29T18:44:52.569168+05:45.accessibility.json) |
+| [August 29 at 6:59 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-29T06:59:43.925043+05:45.accessibility.json) |
+| [August 28 at 6:44 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-28T18:44:03.972906+05:45.accessibility.json) |
+| [August 28 at 7:12 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-28T07:12:07.001356+05:45.accessibility.json) |
+| [August 27 at 6:40 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-27T18:40:17.952462+05:45.accessibility.json) |
+| [August 27 at 6:51 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-27T06:51:30.535479+05:45.accessibility.json) |
+| [August 26 at 6:45 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T18:45:02.836998+05:45.accessibility.json) |
+| [August 26 at 6:58 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T06:58:22.023819+05:45.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 11:53 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-30T18:53:30.464640+05:45.lighthouse.json) |
-| [August 30 at 12:00 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-30T07:00:15.139553+05:45.lighthouse.json) |
-| [August 29 at 11:45 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-29T18:44:52.569168+05:45.lighthouse.json) |
-| [August 28 at 11:59 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-29T06:59:43.925043+05:45.lighthouse.json) |
-| [August 28 at 11:44 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-28T18:44:03.972906+05:45.lighthouse.json) |
-| [August 28 at 12:12 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-28T07:12:07.001356+05:45.lighthouse.json) |
-| [August 27 at 11:40 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-27T18:40:17.952462+05:45.lighthouse.json) |
-| [August 26 at 11:51 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-27T06:51:30.535479+05:45.lighthouse.json) |
-| [August 26 at 11:45 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T18:45:02.836998+05:45.lighthouse.json) |
-| [August 25 at 11:58 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T06:58:22.023819+05:45.lighthouse.json) |
+| [August 30 at 6:53 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-30T18:53:30.464640+05:45.lighthouse.json) |
+| [August 30 at 7:00 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-30T07:00:15.139553+05:45.lighthouse.json) |
+| [August 29 at 6:45 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-29T18:44:52.569168+05:45.lighthouse.json) |
+| [August 29 at 6:59 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-29T06:59:43.925043+05:45.lighthouse.json) |
+| [August 28 at 6:44 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-28T18:44:03.972906+05:45.lighthouse.json) |
+| [August 28 at 7:12 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-28T07:12:07.001356+05:45.lighthouse.json) |
+| [August 27 at 6:40 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-27T18:40:17.952462+05:45.lighthouse.json) |
+| [August 27 at 6:51 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-27T06:51:30.535479+05:45.lighthouse.json) |
+| [August 26 at 6:45 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T18:45:02.836998+05:45.lighthouse.json) |
+| [August 26 at 6:58 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-08-26T06:58:22.023819+05:45.lighthouse.json) |
 
 
 

@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-30T18:00:32.391050-05:00.jpg">
   <img src="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-30T18:00:32.391050-05:00.jpg"
-     alt="Austin Chronicle at 2022-08-30 11:00:35-05:00 local time"
+     alt="Austin Chronicle at 2022-08-30 18:00:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-30T18:00:32.391050-05:00.jpg">August 30 at 11:00 AM</a></p>
+ <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-30T18:00:32.391050-05:00.jpg">August 30 at 6:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-30T06:00:44.391822-05:00.jpg">
   <img src="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-30T06:00:44.391822-05:00.jpg"
-     alt="Austin Chronicle at 2022-08-29 23:00:49-05:00 local time"
+     alt="Austin Chronicle at 2022-08-30 06:00:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-30T06:00:44.391822-05:00.jpg">August 29 at 11:00 PM</a></p>
+ <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-30T06:00:44.391822-05:00.jpg">August 30 at 6:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-29T17:56:32.571613-05:00.jpg">
   <img src="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-29T17:56:32.571613-05:00.jpg"
-     alt="Austin Chronicle at 2022-08-29 10:56:40-05:00 local time"
+     alt="Austin Chronicle at 2022-08-29 17:56:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-29T17:56:32.571613-05:00.jpg">August 29 at 10:56 AM</a></p>
+ <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-29T17:56:32.571613-05:00.jpg">August 29 at 5:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-29T05:51:49.223407-05:00.jpg">
   <img src="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-29T05:51:49.223407-05:00.jpg"
-     alt="Austin Chronicle at 2022-08-28 22:51:53-05:00 local time"
+     alt="Austin Chronicle at 2022-08-29 05:51:53-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-29T05:51:49.223407-05:00.jpg">August 28 at 10:51 PM</a></p>
+ <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-29T05:51:49.223407-05:00.jpg">August 29 at 5:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-28T17:50:45.255476-05:00.jpg">
   <img src="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-28T17:50:45.255476-05:00.jpg"
-     alt="Austin Chronicle at 2022-08-28 10:50:48-05:00 local time"
+     alt="Austin Chronicle at 2022-08-28 17:50:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-28T17:50:45.255476-05:00.jpg">August 28 at 10:50 AM</a></p>
+ <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-28T17:50:45.255476-05:00.jpg">August 28 at 5:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-28T05:51:58.846792-05:00.jpg">
   <img src="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-28T05:51:58.846792-05:00.jpg"
-     alt="Austin Chronicle at 2022-08-27 22:52:09-05:00 local time"
+     alt="Austin Chronicle at 2022-08-28 05:52:09-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-28T05:51:58.846792-05:00.jpg">August 27 at 10:52 PM</a></p>
+ <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-28T05:51:58.846792-05:00.jpg">August 28 at 5:52 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-27T17:51:57.444935-05:00.jpg">
   <img src="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-27T17:51:57.444935-05:00.jpg"
-     alt="Austin Chronicle at 2022-08-27 10:51:59-05:00 local time"
+     alt="Austin Chronicle at 2022-08-27 17:51:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-27T17:51:57.444935-05:00.jpg">August 27 at 10:51 AM</a></p>
+ <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-27T17:51:57.444935-05:00.jpg">August 27 at 5:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-27T05:46:19.719375-05:00.jpg">
   <img src="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-27T05:46:19.719375-05:00.jpg"
-     alt="Austin Chronicle at 2022-08-26 22:46:21-05:00 local time"
+     alt="Austin Chronicle at 2022-08-27 05:46:21-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-27T05:46:19.719375-05:00.jpg">August 26 at 10:46 PM</a></p>
+ <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-27T05:46:19.719375-05:00.jpg">August 27 at 5:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-26T17:49:35.518666-05:00.jpg">
   <img src="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-26T17:49:35.518666-05:00.jpg"
-     alt="Austin Chronicle at 2022-08-26 10:49:36-05:00 local time"
+     alt="Austin Chronicle at 2022-08-26 17:49:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-26T17:49:35.518666-05:00.jpg">August 26 at 10:49 AM</a></p>
+ <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-26T17:49:35.518666-05:00.jpg">August 26 at 5:49 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-26T05:48:37.204193-05:00.jpg">
   <img src="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-26T05:48:37.204193-05:00.jpg"
-     alt="Austin Chronicle at 2022-08-25 22:48:41-05:00 local time"
+     alt="Austin Chronicle at 2022-08-26 05:48:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-26T05:48:37.204193-05:00.jpg">August 25 at 10:48 PM</a></p>
+ <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-26T05:48:37.204193-05:00.jpg">August 26 at 5:48 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-25T17:51:15.157382-05:00.jpg">
   <img src="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-25T17:51:15.157382-05:00.jpg"
-     alt="Austin Chronicle at 2022-08-25 10:51:16-05:00 local time"
+     alt="Austin Chronicle at 2022-08-25 17:51:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-25T17:51:15.157382-05:00.jpg">August 25 at 10:51 AM</a></p>
+ <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-25T17:51:15.157382-05:00.jpg">August 25 at 5:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-25T05:53:24.830531-05:00.jpg">
   <img src="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-25T05:53:24.830531-05:00.jpg"
-     alt="Austin Chronicle at 2022-08-24 22:53:26-05:00 local time"
+     alt="Austin Chronicle at 2022-08-25 05:53:26-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-25T05:53:24.830531-05:00.jpg">August 24 at 10:53 PM</a></p>
+ <p><a href="https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-25T05:53:24.830531-05:00.jpg">August 25 at 5:53 AM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 11:00 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-30T18:00:32.391050-05:00.hyperlinks.json) |
-| [August 29 at 11:00 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-30T06:00:44.391822-05:00.hyperlinks.json) |
-| [August 29 at 10:56 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-29T17:56:32.571613-05:00.hyperlinks.json) |
-| [August 28 at 10:51 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-29T05:51:49.223407-05:00.hyperlinks.json) |
-| [August 28 at 10:50 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-28T17:50:45.255476-05:00.hyperlinks.json) |
-| [August 27 at 10:52 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-28T05:51:58.846792-05:00.hyperlinks.json) |
-| [August 27 at 10:52 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-27T17:51:57.444935-05:00.hyperlinks.json) |
-| [August 26 at 10:46 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-27T05:46:19.719375-05:00.hyperlinks.json) |
-| [August 26 at 10:49 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-26T17:49:35.518666-05:00.hyperlinks.json) |
-| [August 25 at 10:48 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-26T05:48:37.204193-05:00.hyperlinks.json) |
+| [August 30 at 6:00 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-30T18:00:32.391050-05:00.hyperlinks.json) |
+| [August 30 at 6:00 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-30T06:00:44.391822-05:00.hyperlinks.json) |
+| [August 29 at 5:56 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-29T17:56:32.571613-05:00.hyperlinks.json) |
+| [August 29 at 5:51 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-29T05:51:49.223407-05:00.hyperlinks.json) |
+| [August 28 at 5:50 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-28T17:50:45.255476-05:00.hyperlinks.json) |
+| [August 28 at 5:52 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-28T05:51:58.846792-05:00.hyperlinks.json) |
+| [August 27 at 5:52 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-27T17:51:57.444935-05:00.hyperlinks.json) |
+| [August 27 at 5:46 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-27T05:46:19.719375-05:00.hyperlinks.json) |
+| [August 26 at 5:49 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-26T17:49:35.518666-05:00.hyperlinks.json) |
+| [August 26 at 5:48 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-26T05:48:37.204193-05:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 11:00 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-30T18:00:32.391050-05:00.accessibility.json) |
-| [August 29 at 11:00 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-30T06:00:44.391822-05:00.accessibility.json) |
-| [August 29 at 10:56 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-29T17:56:32.571613-05:00.accessibility.json) |
-| [August 28 at 10:51 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-29T05:51:49.223407-05:00.accessibility.json) |
-| [August 28 at 10:50 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-28T17:50:45.255476-05:00.accessibility.json) |
-| [August 27 at 10:52 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-28T05:51:58.846792-05:00.accessibility.json) |
-| [August 27 at 10:52 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-27T17:51:57.444935-05:00.accessibility.json) |
-| [August 26 at 10:46 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-27T05:46:19.719375-05:00.accessibility.json) |
-| [August 26 at 10:49 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-26T17:49:35.518666-05:00.accessibility.json) |
-| [August 25 at 10:48 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-26T05:48:37.204193-05:00.accessibility.json) |
+| [August 30 at 6:00 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-30T18:00:32.391050-05:00.accessibility.json) |
+| [August 30 at 6:00 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-30T06:00:44.391822-05:00.accessibility.json) |
+| [August 29 at 5:56 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-29T17:56:32.571613-05:00.accessibility.json) |
+| [August 29 at 5:51 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-29T05:51:49.223407-05:00.accessibility.json) |
+| [August 28 at 5:50 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-28T17:50:45.255476-05:00.accessibility.json) |
+| [August 28 at 5:52 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-28T05:51:58.846792-05:00.accessibility.json) |
+| [August 27 at 5:52 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-27T17:51:57.444935-05:00.accessibility.json) |
+| [August 27 at 5:46 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-27T05:46:19.719375-05:00.accessibility.json) |
+| [August 26 at 5:49 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-26T17:49:35.518666-05:00.accessibility.json) |
+| [August 26 at 5:48 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-26T05:48:37.204193-05:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 11:00 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-30T18:00:32.391050-05:00.lighthouse.json) |
-| [August 29 at 11:00 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-30T06:00:44.391822-05:00.lighthouse.json) |
-| [August 29 at 10:56 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-29T17:56:32.571613-05:00.lighthouse.json) |
-| [August 28 at 10:51 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-29T05:51:49.223407-05:00.lighthouse.json) |
-| [August 28 at 10:50 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-28T17:50:45.255476-05:00.lighthouse.json) |
-| [August 27 at 10:52 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-28T05:51:58.846792-05:00.lighthouse.json) |
-| [August 27 at 10:52 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-27T17:51:57.444935-05:00.lighthouse.json) |
-| [August 26 at 10:46 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-27T05:46:19.719375-05:00.lighthouse.json) |
-| [August 26 at 10:49 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-26T17:49:35.518666-05:00.lighthouse.json) |
-| [August 25 at 10:48 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-26T05:48:37.204193-05:00.lighthouse.json) |
+| [August 30 at 6:00 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-30T18:00:32.391050-05:00.lighthouse.json) |
+| [August 30 at 6:00 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-30T06:00:44.391822-05:00.lighthouse.json) |
+| [August 29 at 5:56 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-29T17:56:32.571613-05:00.lighthouse.json) |
+| [August 29 at 5:51 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-29T05:51:49.223407-05:00.lighthouse.json) |
+| [August 28 at 5:50 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-28T17:50:45.255476-05:00.lighthouse.json) |
+| [August 28 at 5:52 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-28T05:51:58.846792-05:00.lighthouse.json) |
+| [August 27 at 5:52 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-27T17:51:57.444935-05:00.lighthouse.json) |
+| [August 27 at 5:46 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-27T05:46:19.719375-05:00.lighthouse.json) |
+| [August 26 at 5:49 PM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-26T17:49:35.518666-05:00.lighthouse.json) |
+| [August 26 at 5:48 AM](https://archive.org/download/austinchronicle-2022/austinchronicle-2022-08-26T05:48:37.204193-05:00.lighthouse.json) |
 
 
 

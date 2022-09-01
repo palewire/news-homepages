@@ -245,109 +245,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-30T09:12:45.031585-04:00.jpg">
   <img src="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-30T09:12:45.031585-04:00.jpg"
-     alt="Study Finds at 2022-08-30 02:12:48-04:00 local time"
+     alt="Study Finds at 2022-08-30 09:12:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-30T09:12:45.031585-04:00.jpg">August 30 at 2:12 AM</a></p>
+ <p><a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-30T09:12:45.031585-04:00.jpg">August 30 at 9:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-29T21:17:56.635939-04:00.jpg">
   <img src="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-29T21:17:56.635939-04:00.jpg"
-     alt="Study Finds at 2022-08-29 14:17:58-04:00 local time"
+     alt="Study Finds at 2022-08-29 21:17:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-29T21:17:56.635939-04:00.jpg">August 29 at 2:17 PM</a></p>
+ <p><a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-29T21:17:56.635939-04:00.jpg">August 29 at 9:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-29T09:02:10.012954-04:00.jpg">
   <img src="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-29T09:02:10.012954-04:00.jpg"
-     alt="Study Finds at 2022-08-29 02:02:11-04:00 local time"
+     alt="Study Finds at 2022-08-29 09:02:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-29T09:02:10.012954-04:00.jpg">August 29 at 2:02 AM</a></p>
+ <p><a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-29T09:02:10.012954-04:00.jpg">August 29 at 9:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-28T21:17:42.104467-04:00.jpg">
   <img src="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-28T21:17:42.104467-04:00.jpg"
-     alt="Study Finds at 2022-08-28 14:17:43-04:00 local time"
+     alt="Study Finds at 2022-08-28 21:17:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-28T21:17:42.104467-04:00.jpg">August 28 at 2:17 PM</a></p>
+ <p><a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-28T21:17:42.104467-04:00.jpg">August 28 at 9:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-28T09:01:20.689202-04:00.jpg">
   <img src="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-28T09:01:20.689202-04:00.jpg"
-     alt="Study Finds at 2022-08-28 02:01:22-04:00 local time"
+     alt="Study Finds at 2022-08-28 09:01:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-28T09:01:20.689202-04:00.jpg">August 28 at 2:01 AM</a></p>
+ <p><a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-28T09:01:20.689202-04:00.jpg">August 28 at 9:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-27T21:30:01.808680-04:00.jpg">
   <img src="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-27T21:30:01.808680-04:00.jpg"
-     alt="Study Finds at 2022-08-27 14:30:03-04:00 local time"
+     alt="Study Finds at 2022-08-27 21:30:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-27T21:30:01.808680-04:00.jpg">August 27 at 2:30 PM</a></p>
+ <p><a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-27T21:30:01.808680-04:00.jpg">August 27 at 9:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-27T08:58:17.674304-04:00.jpg">
   <img src="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-27T08:58:17.674304-04:00.jpg"
-     alt="Study Finds at 2022-08-27 01:58:19-04:00 local time"
+     alt="Study Finds at 2022-08-27 08:58:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-27T08:58:17.674304-04:00.jpg">August 27 at 1:58 AM</a></p>
+ <p><a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-27T08:58:17.674304-04:00.jpg">August 27 at 8:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-26T21:09:10.405148-04:00.jpg">
   <img src="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-26T21:09:10.405148-04:00.jpg"
-     alt="Study Finds at 2022-08-26 14:09:11-04:00 local time"
+     alt="Study Finds at 2022-08-26 21:09:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-26T21:09:10.405148-04:00.jpg">August 26 at 2:09 PM</a></p>
+ <p><a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-26T21:09:10.405148-04:00.jpg">August 26 at 9:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-26T09:01:52.014245-04:00.jpg">
   <img src="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-26T09:01:52.014245-04:00.jpg"
-     alt="Study Finds at 2022-08-26 02:01:53-04:00 local time"
+     alt="Study Finds at 2022-08-26 09:01:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-26T09:01:52.014245-04:00.jpg">August 26 at 2:01 AM</a></p>
+ <p><a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-26T09:01:52.014245-04:00.jpg">August 26 at 9:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-25T21:15:08.795586-04:00.jpg">
   <img src="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-25T21:15:08.795586-04:00.jpg"
-     alt="Study Finds at 2022-08-25 14:15:10-04:00 local time"
+     alt="Study Finds at 2022-08-25 21:15:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-25T21:15:08.795586-04:00.jpg">August 25 at 2:15 PM</a></p>
+ <p><a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-25T21:15:08.795586-04:00.jpg">August 25 at 9:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-25T09:04:52.041946-04:00.jpg">
   <img src="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-25T09:04:52.041946-04:00.jpg"
-     alt="Study Finds at 2022-08-25 02:04:53-04:00 local time"
+     alt="Study Finds at 2022-08-25 09:04:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-25T09:04:52.041946-04:00.jpg">August 25 at 2:04 AM</a></p>
+ <p><a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-25T09:04:52.041946-04:00.jpg">August 25 at 9:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-24T08:57:24.026151-04:00.jpg">
   <img src="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-24T08:57:24.026151-04:00.jpg"
-     alt="Study Finds at 2022-08-24 01:57:25-04:00 local time"
+     alt="Study Finds at 2022-08-24 08:57:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-24T08:57:24.026151-04:00.jpg">August 24 at 1:57 AM</a></p>
+ <p><a href="https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-24T08:57:24.026151-04:00.jpg">August 24 at 8:57 AM</a></p>
 </div>
 
 </div>
@@ -362,16 +362,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 2:12 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-30T09:12:45.031585-04:00.hyperlinks.json) |
-| [August 29 at 2:18 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-29T21:17:56.635939-04:00.hyperlinks.json) |
-| [August 29 at 2:02 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-29T09:02:10.012954-04:00.hyperlinks.json) |
-| [August 28 at 2:17 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-28T21:17:42.104467-04:00.hyperlinks.json) |
-| [August 28 at 2:01 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-28T09:01:20.689202-04:00.hyperlinks.json) |
-| [August 27 at 2:30 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-27T21:30:01.808680-04:00.hyperlinks.json) |
-| [August 27 at 1:58 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-27T08:58:17.674304-04:00.hyperlinks.json) |
-| [August 26 at 2:09 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-26T21:09:10.405148-04:00.hyperlinks.json) |
-| [August 26 at 2:01 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-26T09:01:52.014245-04:00.hyperlinks.json) |
-| [August 25 at 2:15 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-25T21:15:08.795586-04:00.hyperlinks.json) |
+| [August 30 at 9:12 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-30T09:12:45.031585-04:00.hyperlinks.json) |
+| [August 29 at 9:18 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-29T21:17:56.635939-04:00.hyperlinks.json) |
+| [August 29 at 9:02 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-29T09:02:10.012954-04:00.hyperlinks.json) |
+| [August 28 at 9:17 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-28T21:17:42.104467-04:00.hyperlinks.json) |
+| [August 28 at 9:01 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-28T09:01:20.689202-04:00.hyperlinks.json) |
+| [August 27 at 9:30 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-27T21:30:01.808680-04:00.hyperlinks.json) |
+| [August 27 at 8:58 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-27T08:58:17.674304-04:00.hyperlinks.json) |
+| [August 26 at 9:09 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-26T21:09:10.405148-04:00.hyperlinks.json) |
+| [August 26 at 9:01 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-26T09:01:52.014245-04:00.hyperlinks.json) |
+| [August 25 at 9:15 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-25T21:15:08.795586-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -384,16 +384,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 2:12 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-30T09:12:45.031585-04:00.accessibility.json) |
-| [August 29 at 2:18 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-29T21:17:56.635939-04:00.accessibility.json) |
-| [August 29 at 2:02 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-29T09:02:10.012954-04:00.accessibility.json) |
-| [August 28 at 2:17 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-28T21:17:42.104467-04:00.accessibility.json) |
-| [August 28 at 2:01 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-28T09:01:20.689202-04:00.accessibility.json) |
-| [August 27 at 2:30 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-27T21:30:01.808680-04:00.accessibility.json) |
-| [August 27 at 1:58 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-27T08:58:17.674304-04:00.accessibility.json) |
-| [August 26 at 2:09 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-26T21:09:10.405148-04:00.accessibility.json) |
-| [August 26 at 2:01 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-26T09:01:52.014245-04:00.accessibility.json) |
-| [August 25 at 2:15 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-25T21:15:08.795586-04:00.accessibility.json) |
+| [August 30 at 9:12 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-30T09:12:45.031585-04:00.accessibility.json) |
+| [August 29 at 9:18 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-29T21:17:56.635939-04:00.accessibility.json) |
+| [August 29 at 9:02 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-29T09:02:10.012954-04:00.accessibility.json) |
+| [August 28 at 9:17 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-28T21:17:42.104467-04:00.accessibility.json) |
+| [August 28 at 9:01 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-28T09:01:20.689202-04:00.accessibility.json) |
+| [August 27 at 9:30 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-27T21:30:01.808680-04:00.accessibility.json) |
+| [August 27 at 8:58 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-27T08:58:17.674304-04:00.accessibility.json) |
+| [August 26 at 9:09 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-26T21:09:10.405148-04:00.accessibility.json) |
+| [August 26 at 9:01 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-26T09:01:52.014245-04:00.accessibility.json) |
+| [August 25 at 9:15 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-25T21:15:08.795586-04:00.accessibility.json) |
 
 
 
@@ -407,16 +407,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 2:12 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-30T09:12:45.031585-04:00.lighthouse.json) |
-| [August 29 at 2:18 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-29T21:17:56.635939-04:00.lighthouse.json) |
-| [August 29 at 2:02 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-29T09:02:10.012954-04:00.lighthouse.json) |
-| [August 28 at 2:17 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-28T21:17:42.104467-04:00.lighthouse.json) |
-| [August 28 at 2:01 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-28T09:01:20.689202-04:00.lighthouse.json) |
-| [August 27 at 2:30 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-27T21:30:01.808680-04:00.lighthouse.json) |
-| [August 27 at 1:58 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-27T08:58:17.674304-04:00.lighthouse.json) |
-| [August 26 at 2:09 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-26T21:09:10.405148-04:00.lighthouse.json) |
-| [August 26 at 2:01 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-26T09:01:52.014245-04:00.lighthouse.json) |
-| [August 25 at 2:15 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-25T21:15:08.795586-04:00.lighthouse.json) |
+| [August 30 at 9:12 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-30T09:12:45.031585-04:00.lighthouse.json) |
+| [August 29 at 9:18 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-29T21:17:56.635939-04:00.lighthouse.json) |
+| [August 29 at 9:02 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-29T09:02:10.012954-04:00.lighthouse.json) |
+| [August 28 at 9:17 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-28T21:17:42.104467-04:00.lighthouse.json) |
+| [August 28 at 9:01 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-28T09:01:20.689202-04:00.lighthouse.json) |
+| [August 27 at 9:30 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-27T21:30:01.808680-04:00.lighthouse.json) |
+| [August 27 at 8:58 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-27T08:58:17.674304-04:00.lighthouse.json) |
+| [August 26 at 9:09 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-26T21:09:10.405148-04:00.lighthouse.json) |
+| [August 26 at 9:01 AM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-26T09:01:52.014245-04:00.lighthouse.json) |
+| [August 25 at 9:15 PM](https://archive.org/download/studyfindsorg-2022/studyfindsorg-2022-08-25T21:15:08.795586-04:00.lighthouse.json) |
 
 
 

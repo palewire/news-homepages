@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-30T21:04:04.791384-03:00.jpg">
   <img src="https://archive.org/download/lanacion-2022/lanacion-2022-08-30T21:04:04.791384-03:00.jpg"
-     alt="La Nacion at 2022-08-30 14:04:05-03:00 local time"
+     alt="La Nacion at 2022-08-30 21:04:05-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-30T21:04:04.791384-03:00.jpg">August 30 at 2:04 PM</a></p>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-30T21:04:04.791384-03:00.jpg">August 30 at 9:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-30T09:10:05.712201-03:00.jpg">
   <img src="https://archive.org/download/lanacion-2022/lanacion-2022-08-30T09:10:05.712201-03:00.jpg"
-     alt="La Nacion at 2022-08-30 02:10:09-03:00 local time"
+     alt="La Nacion at 2022-08-30 09:10:09-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-30T09:10:05.712201-03:00.jpg">August 30 at 2:10 AM</a></p>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-30T09:10:05.712201-03:00.jpg">August 30 at 9:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-29T20:53:35.662321-03:00.jpg">
   <img src="https://archive.org/download/lanacion-2022/lanacion-2022-08-29T20:53:35.662321-03:00.jpg"
-     alt="La Nacion at 2022-08-29 13:53:38-03:00 local time"
+     alt="La Nacion at 2022-08-29 20:53:38-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-29T20:53:35.662321-03:00.jpg">August 29 at 1:53 PM</a></p>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-29T20:53:35.662321-03:00.jpg">August 29 at 8:53 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-29T08:58:47.465989-03:00.jpg">
   <img src="https://archive.org/download/lanacion-2022/lanacion-2022-08-29T08:58:47.465989-03:00.jpg"
-     alt="La Nacion at 2022-08-29 01:58:50-03:00 local time"
+     alt="La Nacion at 2022-08-29 08:58:50-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-29T08:58:47.465989-03:00.jpg">August 29 at 1:58 AM</a></p>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-29T08:58:47.465989-03:00.jpg">August 29 at 8:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-28T20:50:10.307047-03:00.jpg">
   <img src="https://archive.org/download/lanacion-2022/lanacion-2022-08-28T20:50:10.307047-03:00.jpg"
-     alt="La Nacion at 2022-08-28 13:50:14-03:00 local time"
+     alt="La Nacion at 2022-08-28 20:50:14-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-28T20:50:10.307047-03:00.jpg">August 28 at 1:50 PM</a></p>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-28T20:50:10.307047-03:00.jpg">August 28 at 8:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-28T09:00:33.205555-03:00.jpg">
   <img src="https://archive.org/download/lanacion-2022/lanacion-2022-08-28T09:00:33.205555-03:00.jpg"
-     alt="La Nacion at 2022-08-28 02:00:36-03:00 local time"
+     alt="La Nacion at 2022-08-28 09:00:36-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-28T09:00:33.205555-03:00.jpg">August 28 at 2:00 AM</a></p>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-28T09:00:33.205555-03:00.jpg">August 28 at 9:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-27T20:51:53.449167-03:00.jpg">
   <img src="https://archive.org/download/lanacion-2022/lanacion-2022-08-27T20:51:53.449167-03:00.jpg"
-     alt="La Nacion at 2022-08-27 13:51:55-03:00 local time"
+     alt="La Nacion at 2022-08-27 20:51:55-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-27T20:51:53.449167-03:00.jpg">August 27 at 1:51 PM</a></p>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-27T20:51:53.449167-03:00.jpg">August 27 at 8:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-27T08:55:17.286999-03:00.jpg">
   <img src="https://archive.org/download/lanacion-2022/lanacion-2022-08-27T08:55:17.286999-03:00.jpg"
-     alt="La Nacion at 2022-08-27 01:55:20-03:00 local time"
+     alt="La Nacion at 2022-08-27 08:55:20-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-27T08:55:17.286999-03:00.jpg">August 27 at 1:55 AM</a></p>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-27T08:55:17.286999-03:00.jpg">August 27 at 8:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-26T20:46:28.892634-03:00.jpg">
   <img src="https://archive.org/download/lanacion-2022/lanacion-2022-08-26T20:46:28.892634-03:00.jpg"
-     alt="La Nacion at 2022-08-26 13:46:31-03:00 local time"
+     alt="La Nacion at 2022-08-26 20:46:31-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-26T20:46:28.892634-03:00.jpg">August 26 at 1:46 PM</a></p>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-26T20:46:28.892634-03:00.jpg">August 26 at 8:46 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-26T08:58:42.267991-03:00.jpg">
   <img src="https://archive.org/download/lanacion-2022/lanacion-2022-08-26T08:58:42.267991-03:00.jpg"
-     alt="La Nacion at 2022-08-26 01:58:45-03:00 local time"
+     alt="La Nacion at 2022-08-26 08:58:45-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-26T08:58:42.267991-03:00.jpg">August 26 at 1:58 AM</a></p>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-26T08:58:42.267991-03:00.jpg">August 26 at 8:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-25T21:05:12.319749-03:00.jpg">
   <img src="https://archive.org/download/lanacion-2022/lanacion-2022-08-25T21:05:12.319749-03:00.jpg"
-     alt="La Nacion at 2022-08-25 14:05:13-03:00 local time"
+     alt="La Nacion at 2022-08-25 21:05:13-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-25T21:05:12.319749-03:00.jpg">August 25 at 2:05 PM</a></p>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-25T21:05:12.319749-03:00.jpg">August 25 at 9:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-25T09:03:59.738068-03:00.jpg">
   <img src="https://archive.org/download/lanacion-2022/lanacion-2022-08-25T09:03:59.738068-03:00.jpg"
-     alt="La Nacion at 2022-08-25 02:04:01-03:00 local time"
+     alt="La Nacion at 2022-08-25 09:04:01-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-25T09:03:59.738068-03:00.jpg">August 25 at 2:04 AM</a></p>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-25T09:03:59.738068-03:00.jpg">August 25 at 9:04 AM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 2:04 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-30T21:04:04.791384-03:00.hyperlinks.json) |
-| [August 30 at 2:10 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-30T09:10:05.712201-03:00.hyperlinks.json) |
-| [August 29 at 1:53 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-29T20:53:35.662321-03:00.hyperlinks.json) |
-| [August 29 at 1:58 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-29T08:58:47.465989-03:00.hyperlinks.json) |
-| [August 28 at 1:50 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-28T20:50:10.307047-03:00.hyperlinks.json) |
-| [August 28 at 2:00 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-28T09:00:33.205555-03:00.hyperlinks.json) |
-| [August 27 at 1:51 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-27T20:51:53.449167-03:00.hyperlinks.json) |
-| [August 27 at 1:55 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-27T08:55:17.286999-03:00.hyperlinks.json) |
-| [August 26 at 1:46 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-26T20:46:28.892634-03:00.hyperlinks.json) |
-| [August 26 at 1:58 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-26T08:58:42.267991-03:00.hyperlinks.json) |
+| [August 30 at 9:04 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-30T21:04:04.791384-03:00.hyperlinks.json) |
+| [August 30 at 9:10 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-30T09:10:05.712201-03:00.hyperlinks.json) |
+| [August 29 at 8:53 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-29T20:53:35.662321-03:00.hyperlinks.json) |
+| [August 29 at 8:58 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-29T08:58:47.465989-03:00.hyperlinks.json) |
+| [August 28 at 8:50 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-28T20:50:10.307047-03:00.hyperlinks.json) |
+| [August 28 at 9:00 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-28T09:00:33.205555-03:00.hyperlinks.json) |
+| [August 27 at 8:51 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-27T20:51:53.449167-03:00.hyperlinks.json) |
+| [August 27 at 8:55 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-27T08:55:17.286999-03:00.hyperlinks.json) |
+| [August 26 at 8:46 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-26T20:46:28.892634-03:00.hyperlinks.json) |
+| [August 26 at 8:58 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-26T08:58:42.267991-03:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 2:04 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-30T21:04:04.791384-03:00.accessibility.json) |
-| [August 30 at 2:10 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-30T09:10:05.712201-03:00.accessibility.json) |
-| [August 29 at 1:53 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-29T20:53:35.662321-03:00.accessibility.json) |
-| [August 29 at 1:58 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-29T08:58:47.465989-03:00.accessibility.json) |
-| [August 28 at 1:50 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-28T20:50:10.307047-03:00.accessibility.json) |
-| [August 28 at 2:00 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-28T09:00:33.205555-03:00.accessibility.json) |
-| [August 27 at 1:51 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-27T20:51:53.449167-03:00.accessibility.json) |
-| [August 27 at 1:55 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-27T08:55:17.286999-03:00.accessibility.json) |
-| [August 26 at 1:46 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-26T20:46:28.892634-03:00.accessibility.json) |
-| [August 26 at 1:58 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-26T08:58:42.267991-03:00.accessibility.json) |
+| [August 30 at 9:04 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-30T21:04:04.791384-03:00.accessibility.json) |
+| [August 30 at 9:10 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-30T09:10:05.712201-03:00.accessibility.json) |
+| [August 29 at 8:53 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-29T20:53:35.662321-03:00.accessibility.json) |
+| [August 29 at 8:58 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-29T08:58:47.465989-03:00.accessibility.json) |
+| [August 28 at 8:50 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-28T20:50:10.307047-03:00.accessibility.json) |
+| [August 28 at 9:00 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-28T09:00:33.205555-03:00.accessibility.json) |
+| [August 27 at 8:51 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-27T20:51:53.449167-03:00.accessibility.json) |
+| [August 27 at 8:55 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-27T08:55:17.286999-03:00.accessibility.json) |
+| [August 26 at 8:46 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-26T20:46:28.892634-03:00.accessibility.json) |
+| [August 26 at 8:58 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-26T08:58:42.267991-03:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 2:04 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-30T21:04:04.791384-03:00.lighthouse.json) |
-| [August 30 at 2:10 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-30T09:10:05.712201-03:00.lighthouse.json) |
-| [August 29 at 1:53 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-29T20:53:35.662321-03:00.lighthouse.json) |
-| [August 29 at 1:58 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-29T08:58:47.465989-03:00.lighthouse.json) |
-| [August 28 at 1:50 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-28T20:50:10.307047-03:00.lighthouse.json) |
-| [August 28 at 2:00 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-28T09:00:33.205555-03:00.lighthouse.json) |
-| [August 27 at 1:52 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-27T20:51:53.449167-03:00.lighthouse.json) |
-| [August 27 at 1:55 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-27T08:55:17.286999-03:00.lighthouse.json) |
-| [August 26 at 1:46 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-26T20:46:28.892634-03:00.lighthouse.json) |
-| [August 26 at 1:58 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-26T08:58:42.267991-03:00.lighthouse.json) |
+| [August 30 at 9:04 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-30T21:04:04.791384-03:00.lighthouse.json) |
+| [August 30 at 9:10 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-30T09:10:05.712201-03:00.lighthouse.json) |
+| [August 29 at 8:53 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-29T20:53:35.662321-03:00.lighthouse.json) |
+| [August 29 at 8:58 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-29T08:58:47.465989-03:00.lighthouse.json) |
+| [August 28 at 8:50 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-28T20:50:10.307047-03:00.lighthouse.json) |
+| [August 28 at 9:00 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-28T09:00:33.205555-03:00.lighthouse.json) |
+| [August 27 at 8:52 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-27T20:51:53.449167-03:00.lighthouse.json) |
+| [August 27 at 8:55 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-27T08:55:17.286999-03:00.lighthouse.json) |
+| [August 26 at 8:46 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-26T20:46:28.892634-03:00.lighthouse.json) |
+| [August 26 at 8:58 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-26T08:58:42.267991-03:00.lighthouse.json) |
 
 
 

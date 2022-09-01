@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-30T14:34:31.729593-04:00.jpg">
   <img src="https://archive.org/download/jacobin-2022/jacobin-2022-08-30T14:34:31.729593-04:00.jpg"
-     alt="Jacobin at 2022-08-30 07:34:41-04:00 local time"
+     alt="Jacobin at 2022-08-30 14:34:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-30T14:34:31.729593-04:00.jpg">August 30 at 7:34 AM</a></p>
+ <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-30T14:34:31.729593-04:00.jpg">August 30 at 2:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-30T11:34:07.077196-04:00.jpg">
   <img src="https://archive.org/download/jacobin-2022/jacobin-2022-08-30T11:34:07.077196-04:00.jpg"
-     alt="Jacobin at 2022-08-30 04:34:12-04:00 local time"
+     alt="Jacobin at 2022-08-30 11:34:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-30T11:34:07.077196-04:00.jpg">August 30 at 4:34 AM</a></p>
+ <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-30T11:34:07.077196-04:00.jpg">August 30 at 11:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-29T23:53:48.128765-04:00.jpg">
   <img src="https://archive.org/download/jacobin-2022/jacobin-2022-08-29T23:53:48.128765-04:00.jpg"
-     alt="Jacobin at 2022-08-29 16:54:01-04:00 local time"
+     alt="Jacobin at 2022-08-29 23:54:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-29T23:53:48.128765-04:00.jpg">August 29 at 4:54 PM</a></p>
+ <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-29T23:53:48.128765-04:00.jpg">August 29 at 11:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-29T14:28:39.761251-04:00.jpg">
   <img src="https://archive.org/download/jacobin-2022/jacobin-2022-08-29T14:28:39.761251-04:00.jpg"
-     alt="Jacobin at 2022-08-29 07:28:52-04:00 local time"
+     alt="Jacobin at 2022-08-29 14:28:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-29T14:28:39.761251-04:00.jpg">August 29 at 7:28 AM</a></p>
+ <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-29T14:28:39.761251-04:00.jpg">August 29 at 2:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-29T11:08:17.860330-04:00.jpg">
   <img src="https://archive.org/download/jacobin-2022/jacobin-2022-08-29T11:08:17.860330-04:00.jpg"
-     alt="Jacobin at 2022-08-29 04:08:19-04:00 local time"
+     alt="Jacobin at 2022-08-29 11:08:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-29T11:08:17.860330-04:00.jpg">August 29 at 4:08 AM</a></p>
+ <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-29T11:08:17.860330-04:00.jpg">August 29 at 11:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-28T23:44:51.920950-04:00.jpg">
   <img src="https://archive.org/download/jacobin-2022/jacobin-2022-08-28T23:44:51.920950-04:00.jpg"
-     alt="Jacobin at 2022-08-28 16:45:07-04:00 local time"
+     alt="Jacobin at 2022-08-28 23:45:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-28T23:44:51.920950-04:00.jpg">August 28 at 4:45 PM</a></p>
+ <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-28T23:44:51.920950-04:00.jpg">August 28 at 11:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-28T14:29:04.970161-04:00.jpg">
   <img src="https://archive.org/download/jacobin-2022/jacobin-2022-08-28T14:29:04.970161-04:00.jpg"
-     alt="Jacobin at 2022-08-28 07:29:06-04:00 local time"
+     alt="Jacobin at 2022-08-28 14:29:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-28T14:29:04.970161-04:00.jpg">August 28 at 7:29 AM</a></p>
+ <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-28T14:29:04.970161-04:00.jpg">August 28 at 2:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-28T10:57:13.979407-04:00.jpg">
   <img src="https://archive.org/download/jacobin-2022/jacobin-2022-08-28T10:57:13.979407-04:00.jpg"
-     alt="Jacobin at 2022-08-28 03:57:18-04:00 local time"
+     alt="Jacobin at 2022-08-28 10:57:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-28T10:57:13.979407-04:00.jpg">August 28 at 3:57 AM</a></p>
+ <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-28T10:57:13.979407-04:00.jpg">August 28 at 10:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-27T23:41:44.204351-04:00.jpg">
   <img src="https://archive.org/download/jacobin-2022/jacobin-2022-08-27T23:41:44.204351-04:00.jpg"
-     alt="Jacobin at 2022-08-27 16:41:45-04:00 local time"
+     alt="Jacobin at 2022-08-27 23:41:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-27T23:41:44.204351-04:00.jpg">August 27 at 4:41 PM</a></p>
+ <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-27T23:41:44.204351-04:00.jpg">August 27 at 11:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-27T14:29:09.108707-04:00.jpg">
   <img src="https://archive.org/download/jacobin-2022/jacobin-2022-08-27T14:29:09.108707-04:00.jpg"
-     alt="Jacobin at 2022-08-27 07:29:10-04:00 local time"
+     alt="Jacobin at 2022-08-27 14:29:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-27T14:29:09.108707-04:00.jpg">August 27 at 7:29 AM</a></p>
+ <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-27T14:29:09.108707-04:00.jpg">August 27 at 2:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-27T10:51:27.184355-04:00.jpg">
   <img src="https://archive.org/download/jacobin-2022/jacobin-2022-08-27T10:51:27.184355-04:00.jpg"
-     alt="Jacobin at 2022-08-27 03:51:33-04:00 local time"
+     alt="Jacobin at 2022-08-27 10:51:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-27T10:51:27.184355-04:00.jpg">August 27 at 3:51 AM</a></p>
+ <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-27T10:51:27.184355-04:00.jpg">August 27 at 10:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-26T23:38:18.429427-04:00.jpg">
   <img src="https://archive.org/download/jacobin-2022/jacobin-2022-08-26T23:38:18.429427-04:00.jpg"
-     alt="Jacobin at 2022-08-26 16:38:19-04:00 local time"
+     alt="Jacobin at 2022-08-26 23:38:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-26T23:38:18.429427-04:00.jpg">August 26 at 4:38 PM</a></p>
+ <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-08-26T23:38:18.429427-04:00.jpg">August 26 at 11:38 PM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 7:34 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-30T14:34:31.729593-04:00.hyperlinks.json) |
-| [August 30 at 4:34 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-30T11:34:07.077196-04:00.hyperlinks.json) |
-| [August 29 at 4:54 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-29T23:53:48.128765-04:00.hyperlinks.json) |
-| [August 29 at 7:29 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-29T14:28:39.761251-04:00.hyperlinks.json) |
-| [August 29 at 4:08 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-29T11:08:17.860330-04:00.hyperlinks.json) |
-| [August 28 at 4:45 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-28T23:44:51.920950-04:00.hyperlinks.json) |
-| [August 28 at 7:29 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-28T14:29:04.970161-04:00.hyperlinks.json) |
-| [August 28 at 3:57 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-28T10:57:13.979407-04:00.hyperlinks.json) |
-| [August 27 at 4:41 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-27T23:41:44.204351-04:00.hyperlinks.json) |
-| [August 27 at 7:29 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-27T14:29:09.108707-04:00.hyperlinks.json) |
+| [August 30 at 2:34 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-30T14:34:31.729593-04:00.hyperlinks.json) |
+| [August 30 at 11:34 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-30T11:34:07.077196-04:00.hyperlinks.json) |
+| [August 29 at 11:54 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-29T23:53:48.128765-04:00.hyperlinks.json) |
+| [August 29 at 2:29 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-29T14:28:39.761251-04:00.hyperlinks.json) |
+| [August 29 at 11:08 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-29T11:08:17.860330-04:00.hyperlinks.json) |
+| [August 28 at 11:45 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-28T23:44:51.920950-04:00.hyperlinks.json) |
+| [August 28 at 2:29 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-28T14:29:04.970161-04:00.hyperlinks.json) |
+| [August 28 at 10:57 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-28T10:57:13.979407-04:00.hyperlinks.json) |
+| [August 27 at 11:41 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-27T23:41:44.204351-04:00.hyperlinks.json) |
+| [August 27 at 2:29 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-27T14:29:09.108707-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 7:34 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-30T14:34:31.729593-04:00.accessibility.json) |
-| [August 30 at 4:34 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-30T11:34:07.077196-04:00.accessibility.json) |
-| [August 29 at 4:54 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-29T23:53:48.128765-04:00.accessibility.json) |
-| [August 29 at 7:28 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-29T14:28:39.761251-04:00.accessibility.json) |
-| [August 29 at 4:08 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-29T11:08:17.860330-04:00.accessibility.json) |
-| [August 28 at 4:45 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-28T23:44:51.920950-04:00.accessibility.json) |
-| [August 28 at 7:29 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-28T14:29:04.970161-04:00.accessibility.json) |
-| [August 28 at 3:57 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-28T10:57:13.979407-04:00.accessibility.json) |
-| [August 27 at 4:41 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-27T23:41:44.204351-04:00.accessibility.json) |
-| [August 27 at 7:29 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-27T14:29:09.108707-04:00.accessibility.json) |
+| [August 30 at 2:34 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-30T14:34:31.729593-04:00.accessibility.json) |
+| [August 30 at 11:34 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-30T11:34:07.077196-04:00.accessibility.json) |
+| [August 29 at 11:54 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-29T23:53:48.128765-04:00.accessibility.json) |
+| [August 29 at 2:28 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-29T14:28:39.761251-04:00.accessibility.json) |
+| [August 29 at 11:08 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-29T11:08:17.860330-04:00.accessibility.json) |
+| [August 28 at 11:45 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-28T23:44:51.920950-04:00.accessibility.json) |
+| [August 28 at 2:29 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-28T14:29:04.970161-04:00.accessibility.json) |
+| [August 28 at 10:57 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-28T10:57:13.979407-04:00.accessibility.json) |
+| [August 27 at 11:41 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-27T23:41:44.204351-04:00.accessibility.json) |
+| [August 27 at 2:29 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-27T14:29:09.108707-04:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 7:34 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-30T14:34:31.729593-04:00.lighthouse.json) |
-| [August 30 at 4:34 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-30T11:34:07.077196-04:00.lighthouse.json) |
-| [August 29 at 4:54 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-29T23:53:48.128765-04:00.lighthouse.json) |
-| [August 29 at 7:29 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-29T14:28:39.761251-04:00.lighthouse.json) |
-| [August 29 at 4:08 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-29T11:08:17.860330-04:00.lighthouse.json) |
-| [August 28 at 4:45 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-28T23:44:51.920950-04:00.lighthouse.json) |
-| [August 28 at 7:29 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-28T14:29:04.970161-04:00.lighthouse.json) |
-| [August 28 at 3:57 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-28T10:57:13.979407-04:00.lighthouse.json) |
-| [August 27 at 4:41 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-27T23:41:44.204351-04:00.lighthouse.json) |
-| [August 27 at 7:29 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-27T14:29:09.108707-04:00.lighthouse.json) |
+| [August 30 at 2:34 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-30T14:34:31.729593-04:00.lighthouse.json) |
+| [August 30 at 11:34 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-30T11:34:07.077196-04:00.lighthouse.json) |
+| [August 29 at 11:54 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-29T23:53:48.128765-04:00.lighthouse.json) |
+| [August 29 at 2:29 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-29T14:28:39.761251-04:00.lighthouse.json) |
+| [August 29 at 11:08 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-29T11:08:17.860330-04:00.lighthouse.json) |
+| [August 28 at 11:45 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-28T23:44:51.920950-04:00.lighthouse.json) |
+| [August 28 at 2:29 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-28T14:29:04.970161-04:00.lighthouse.json) |
+| [August 28 at 10:57 AM](https://archive.org/download/jacobin-2022/jacobin-2022-08-28T10:57:13.979407-04:00.lighthouse.json) |
+| [August 27 at 11:41 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-27T23:41:44.204351-04:00.lighthouse.json) |
+| [August 27 at 2:29 PM](https://archive.org/download/jacobin-2022/jacobin-2022-08-27T14:29:09.108707-04:00.lighthouse.json) |
 
 
 

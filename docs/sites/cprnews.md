@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-30T17:03:04.625484-06:00.jpg">
   <img src="https://archive.org/download/cprnews-2022/cprnews-2022-08-30T17:03:04.625484-06:00.jpg"
-     alt="Colorado Public Radio at 2022-08-30 10:03:07-06:00 local time"
+     alt="Colorado Public Radio at 2022-08-30 17:03:07-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-30T17:03:04.625484-06:00.jpg">August 30 at 10:03 AM</a></p>
+ <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-30T17:03:04.625484-06:00.jpg">August 30 at 5:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-30T05:03:00.331461-06:00.jpg">
   <img src="https://archive.org/download/cprnews-2022/cprnews-2022-08-30T05:03:00.331461-06:00.jpg"
-     alt="Colorado Public Radio at 2022-08-29 22:03:03-06:00 local time"
+     alt="Colorado Public Radio at 2022-08-30 05:03:03-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-30T05:03:00.331461-06:00.jpg">August 29 at 10:03 PM</a></p>
+ <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-30T05:03:00.331461-06:00.jpg">August 30 at 5:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-29T16:59:57.632841-06:00.jpg">
   <img src="https://archive.org/download/cprnews-2022/cprnews-2022-08-29T16:59:57.632841-06:00.jpg"
-     alt="Colorado Public Radio at 2022-08-29 10:00:09-06:00 local time"
+     alt="Colorado Public Radio at 2022-08-29 17:00:09-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-29T16:59:57.632841-06:00.jpg">August 29 at 10:00 AM</a></p>
+ <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-29T16:59:57.632841-06:00.jpg">August 29 at 5:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-29T04:54:56.322407-06:00.jpg">
   <img src="https://archive.org/download/cprnews-2022/cprnews-2022-08-29T04:54:56.322407-06:00.jpg"
-     alt="Colorado Public Radio at 2022-08-28 21:54:58-06:00 local time"
+     alt="Colorado Public Radio at 2022-08-29 04:54:58-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-29T04:54:56.322407-06:00.jpg">August 28 at 9:54 PM</a></p>
+ <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-29T04:54:56.322407-06:00.jpg">August 29 at 4:54 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-28T16:52:24.883561-06:00.jpg">
   <img src="https://archive.org/download/cprnews-2022/cprnews-2022-08-28T16:52:24.883561-06:00.jpg"
-     alt="Colorado Public Radio at 2022-08-28 09:52:27-06:00 local time"
+     alt="Colorado Public Radio at 2022-08-28 16:52:27-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-28T16:52:24.883561-06:00.jpg">August 28 at 9:52 AM</a></p>
+ <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-28T16:52:24.883561-06:00.jpg">August 28 at 4:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-28T04:56:27.899396-06:00.jpg">
   <img src="https://archive.org/download/cprnews-2022/cprnews-2022-08-28T04:56:27.899396-06:00.jpg"
-     alt="Colorado Public Radio at 2022-08-27 21:56:30-06:00 local time"
+     alt="Colorado Public Radio at 2022-08-28 04:56:30-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-28T04:56:27.899396-06:00.jpg">August 27 at 9:56 PM</a></p>
+ <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-28T04:56:27.899396-06:00.jpg">August 28 at 4:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-27T16:55:46.125094-06:00.jpg">
   <img src="https://archive.org/download/cprnews-2022/cprnews-2022-08-27T16:55:46.125094-06:00.jpg"
-     alt="Colorado Public Radio at 2022-08-27 09:55:49-06:00 local time"
+     alt="Colorado Public Radio at 2022-08-27 16:55:49-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-27T16:55:46.125094-06:00.jpg">August 27 at 9:55 AM</a></p>
+ <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-27T16:55:46.125094-06:00.jpg">August 27 at 4:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-27T04:50:25.935320-06:00.jpg">
   <img src="https://archive.org/download/cprnews-2022/cprnews-2022-08-27T04:50:25.935320-06:00.jpg"
-     alt="Colorado Public Radio at 2022-08-26 21:50:28-06:00 local time"
+     alt="Colorado Public Radio at 2022-08-27 04:50:28-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-27T04:50:25.935320-06:00.jpg">August 26 at 9:50 PM</a></p>
+ <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-27T04:50:25.935320-06:00.jpg">August 27 at 4:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-26T16:52:38.930985-06:00.jpg">
   <img src="https://archive.org/download/cprnews-2022/cprnews-2022-08-26T16:52:38.930985-06:00.jpg"
-     alt="Colorado Public Radio at 2022-08-26 09:52:41-06:00 local time"
+     alt="Colorado Public Radio at 2022-08-26 16:52:41-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-26T16:52:38.930985-06:00.jpg">August 26 at 9:52 AM</a></p>
+ <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-26T16:52:38.930985-06:00.jpg">August 26 at 4:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-26T04:52:37.094761-06:00.jpg">
   <img src="https://archive.org/download/cprnews-2022/cprnews-2022-08-26T04:52:37.094761-06:00.jpg"
-     alt="Colorado Public Radio at 2022-08-25 21:52:39-06:00 local time"
+     alt="Colorado Public Radio at 2022-08-26 04:52:39-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-26T04:52:37.094761-06:00.jpg">August 25 at 9:52 PM</a></p>
+ <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-26T04:52:37.094761-06:00.jpg">August 26 at 4:52 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-25T16:53:07.630053-06:00.jpg">
   <img src="https://archive.org/download/cprnews-2022/cprnews-2022-08-25T16:53:07.630053-06:00.jpg"
-     alt="Colorado Public Radio at 2022-08-25 09:53:09-06:00 local time"
+     alt="Colorado Public Radio at 2022-08-25 16:53:09-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-25T16:53:07.630053-06:00.jpg">August 25 at 9:53 AM</a></p>
+ <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-25T16:53:07.630053-06:00.jpg">August 25 at 4:53 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-25T04:56:51.634197-06:00.jpg">
   <img src="https://archive.org/download/cprnews-2022/cprnews-2022-08-25T04:56:51.634197-06:00.jpg"
-     alt="Colorado Public Radio at 2022-08-24 21:56:52-06:00 local time"
+     alt="Colorado Public Radio at 2022-08-25 04:56:52-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-25T04:56:51.634197-06:00.jpg">August 24 at 9:56 PM</a></p>
+ <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-25T04:56:51.634197-06:00.jpg">August 25 at 4:56 AM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 10:03 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-30T17:03:04.625484-06:00.hyperlinks.json) |
-| [August 29 at 10:03 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-30T05:03:00.331461-06:00.hyperlinks.json) |
-| [August 29 at 10:00 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-29T16:59:57.632841-06:00.hyperlinks.json) |
-| [August 28 at 9:55 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-29T04:54:56.322407-06:00.hyperlinks.json) |
-| [August 28 at 9:52 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-28T16:52:24.883561-06:00.hyperlinks.json) |
-| [August 27 at 9:56 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-28T04:56:27.899396-06:00.hyperlinks.json) |
-| [August 27 at 9:55 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-27T16:55:46.125094-06:00.hyperlinks.json) |
-| [August 26 at 9:50 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-27T04:50:25.935320-06:00.hyperlinks.json) |
-| [August 26 at 9:52 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-26T16:52:38.930985-06:00.hyperlinks.json) |
-| [August 25 at 9:52 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-26T04:52:37.094761-06:00.hyperlinks.json) |
+| [August 30 at 5:03 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-30T17:03:04.625484-06:00.hyperlinks.json) |
+| [August 30 at 5:03 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-30T05:03:00.331461-06:00.hyperlinks.json) |
+| [August 29 at 5:00 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-29T16:59:57.632841-06:00.hyperlinks.json) |
+| [August 29 at 4:55 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-29T04:54:56.322407-06:00.hyperlinks.json) |
+| [August 28 at 4:52 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-28T16:52:24.883561-06:00.hyperlinks.json) |
+| [August 28 at 4:56 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-28T04:56:27.899396-06:00.hyperlinks.json) |
+| [August 27 at 4:55 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-27T16:55:46.125094-06:00.hyperlinks.json) |
+| [August 27 at 4:50 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-27T04:50:25.935320-06:00.hyperlinks.json) |
+| [August 26 at 4:52 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-26T16:52:38.930985-06:00.hyperlinks.json) |
+| [August 26 at 4:52 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-26T04:52:37.094761-06:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 10:03 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-30T17:03:04.625484-06:00.accessibility.json) |
-| [August 29 at 10:03 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-30T05:03:00.331461-06:00.accessibility.json) |
-| [August 29 at 10:00 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-29T16:59:57.632841-06:00.accessibility.json) |
-| [August 28 at 9:55 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-29T04:54:56.322407-06:00.accessibility.json) |
-| [August 28 at 9:52 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-28T16:52:24.883561-06:00.accessibility.json) |
-| [August 27 at 9:56 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-28T04:56:27.899396-06:00.accessibility.json) |
-| [August 27 at 9:55 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-27T16:55:46.125094-06:00.accessibility.json) |
-| [August 26 at 9:50 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-27T04:50:25.935320-06:00.accessibility.json) |
-| [August 26 at 9:52 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-26T16:52:38.930985-06:00.accessibility.json) |
-| [August 25 at 9:52 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-26T04:52:37.094761-06:00.accessibility.json) |
+| [August 30 at 5:03 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-30T17:03:04.625484-06:00.accessibility.json) |
+| [August 30 at 5:03 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-30T05:03:00.331461-06:00.accessibility.json) |
+| [August 29 at 5:00 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-29T16:59:57.632841-06:00.accessibility.json) |
+| [August 29 at 4:55 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-29T04:54:56.322407-06:00.accessibility.json) |
+| [August 28 at 4:52 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-28T16:52:24.883561-06:00.accessibility.json) |
+| [August 28 at 4:56 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-28T04:56:27.899396-06:00.accessibility.json) |
+| [August 27 at 4:55 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-27T16:55:46.125094-06:00.accessibility.json) |
+| [August 27 at 4:50 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-27T04:50:25.935320-06:00.accessibility.json) |
+| [August 26 at 4:52 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-26T16:52:38.930985-06:00.accessibility.json) |
+| [August 26 at 4:52 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-26T04:52:37.094761-06:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 10:03 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-30T17:03:04.625484-06:00.lighthouse.json) |
-| [August 29 at 10:03 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-30T05:03:00.331461-06:00.lighthouse.json) |
-| [August 29 at 10:00 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-29T16:59:57.632841-06:00.lighthouse.json) |
-| [August 28 at 9:55 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-29T04:54:56.322407-06:00.lighthouse.json) |
-| [August 28 at 9:52 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-28T16:52:24.883561-06:00.lighthouse.json) |
-| [August 27 at 9:56 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-28T04:56:27.899396-06:00.lighthouse.json) |
-| [August 27 at 9:55 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-27T16:55:46.125094-06:00.lighthouse.json) |
-| [August 26 at 9:50 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-27T04:50:25.935320-06:00.lighthouse.json) |
-| [August 26 at 9:52 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-26T16:52:38.930985-06:00.lighthouse.json) |
-| [August 25 at 9:52 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-26T04:52:37.094761-06:00.lighthouse.json) |
+| [August 30 at 5:03 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-30T17:03:04.625484-06:00.lighthouse.json) |
+| [August 30 at 5:03 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-30T05:03:00.331461-06:00.lighthouse.json) |
+| [August 29 at 5:00 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-29T16:59:57.632841-06:00.lighthouse.json) |
+| [August 29 at 4:55 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-29T04:54:56.322407-06:00.lighthouse.json) |
+| [August 28 at 4:52 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-28T16:52:24.883561-06:00.lighthouse.json) |
+| [August 28 at 4:56 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-28T04:56:27.899396-06:00.lighthouse.json) |
+| [August 27 at 4:55 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-27T16:55:46.125094-06:00.lighthouse.json) |
+| [August 27 at 4:50 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-27T04:50:25.935320-06:00.lighthouse.json) |
+| [August 26 at 4:52 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-26T16:52:38.930985-06:00.lighthouse.json) |
+| [August 26 at 4:52 AM](https://archive.org/download/cprnews-2022/cprnews-2022-08-26T04:52:37.094761-06:00.lighthouse.json) |
 
 
 

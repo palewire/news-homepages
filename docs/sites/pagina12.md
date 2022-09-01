@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-30T12:38:35.305167-03:00.jpg">
   <img src="https://archive.org/download/pagina12-2022/pagina12-2022-08-30T12:38:35.305167-03:00.jpg"
-     alt="Página/12 at 2022-08-30 05:38:38-03:00 local time"
+     alt="Página/12 at 2022-08-30 12:38:38-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-30T12:38:35.305167-03:00.jpg">August 30 at 5:38 AM</a></p>
+ <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-30T12:38:35.305167-03:00.jpg">August 30 at 12:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-30T00:57:56.637505-03:00.jpg">
   <img src="https://archive.org/download/pagina12-2022/pagina12-2022-08-30T00:57:56.637505-03:00.jpg"
-     alt="Página/12 at 2022-08-29 17:57:58-03:00 local time"
+     alt="Página/12 at 2022-08-30 00:57:58-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-30T00:57:56.637505-03:00.jpg">August 29 at 5:57 PM</a></p>
+ <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-30T00:57:56.637505-03:00.jpg">August 30 at 12:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-29T12:13:23.667453-03:00.jpg">
   <img src="https://archive.org/download/pagina12-2022/pagina12-2022-08-29T12:13:23.667453-03:00.jpg"
-     alt="Página/12 at 2022-08-29 05:13:25-03:00 local time"
+     alt="Página/12 at 2022-08-29 12:13:25-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-29T12:13:23.667453-03:00.jpg">August 29 at 5:13 AM</a></p>
+ <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-29T12:13:23.667453-03:00.jpg">August 29 at 12:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-29T00:48:40.302446-03:00.jpg">
   <img src="https://archive.org/download/pagina12-2022/pagina12-2022-08-29T00:48:40.302446-03:00.jpg"
-     alt="Página/12 at 2022-08-28 17:48:41-03:00 local time"
+     alt="Página/12 at 2022-08-29 00:48:41-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-29T00:48:40.302446-03:00.jpg">August 28 at 5:48 PM</a></p>
+ <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-29T00:48:40.302446-03:00.jpg">August 29 at 12:48 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-28T12:01:17.182523-03:00.jpg">
   <img src="https://archive.org/download/pagina12-2022/pagina12-2022-08-28T12:01:17.182523-03:00.jpg"
-     alt="Página/12 at 2022-08-28 05:01:19-03:00 local time"
+     alt="Página/12 at 2022-08-28 12:01:19-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-28T12:01:17.182523-03:00.jpg">August 28 at 5:01 AM</a></p>
+ <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-28T12:01:17.182523-03:00.jpg">August 28 at 12:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-28T00:45:10.607002-03:00.jpg">
   <img src="https://archive.org/download/pagina12-2022/pagina12-2022-08-28T00:45:10.607002-03:00.jpg"
-     alt="Página/12 at 2022-08-27 17:45:13-03:00 local time"
+     alt="Página/12 at 2022-08-28 00:45:13-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-28T00:45:10.607002-03:00.jpg">August 27 at 5:45 PM</a></p>
+ <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-28T00:45:10.607002-03:00.jpg">August 28 at 12:45 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-27T11:55:41.242076-03:00.jpg">
   <img src="https://archive.org/download/pagina12-2022/pagina12-2022-08-27T11:55:41.242076-03:00.jpg"
-     alt="Página/12 at 2022-08-27 04:55:47-03:00 local time"
+     alt="Página/12 at 2022-08-27 11:55:47-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-27T11:55:41.242076-03:00.jpg">August 27 at 4:55 AM</a></p>
+ <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-27T11:55:41.242076-03:00.jpg">August 27 at 11:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-27T00:41:30.416640-03:00.jpg">
   <img src="https://archive.org/download/pagina12-2022/pagina12-2022-08-27T00:41:30.416640-03:00.jpg"
-     alt="Página/12 at 2022-08-26 17:41:33-03:00 local time"
+     alt="Página/12 at 2022-08-27 00:41:33-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-27T00:41:30.416640-03:00.jpg">August 26 at 5:41 PM</a></p>
+ <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-27T00:41:30.416640-03:00.jpg">August 27 at 12:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-26T12:04:19.052698-03:00.jpg">
   <img src="https://archive.org/download/pagina12-2022/pagina12-2022-08-26T12:04:19.052698-03:00.jpg"
-     alt="Página/12 at 2022-08-26 05:04:21-03:00 local time"
+     alt="Página/12 at 2022-08-26 12:04:21-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-26T12:04:19.052698-03:00.jpg">August 26 at 5:04 AM</a></p>
+ <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-26T12:04:19.052698-03:00.jpg">August 26 at 12:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-26T00:48:08.068150-03:00.jpg">
   <img src="https://archive.org/download/pagina12-2022/pagina12-2022-08-26T00:48:08.068150-03:00.jpg"
-     alt="Página/12 at 2022-08-25 17:48:09-03:00 local time"
+     alt="Página/12 at 2022-08-26 00:48:09-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-26T00:48:08.068150-03:00.jpg">August 25 at 5:48 PM</a></p>
+ <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-26T00:48:08.068150-03:00.jpg">August 26 at 12:48 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-25T12:05:30.257766-03:00.jpg">
   <img src="https://archive.org/download/pagina12-2022/pagina12-2022-08-25T12:05:30.257766-03:00.jpg"
-     alt="Página/12 at 2022-08-25 05:05:35-03:00 local time"
+     alt="Página/12 at 2022-08-25 12:05:35-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-25T12:05:30.257766-03:00.jpg">August 25 at 5:05 AM</a></p>
+ <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-25T12:05:30.257766-03:00.jpg">August 25 at 12:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-24T12:04:30.555653-03:00.jpg">
   <img src="https://archive.org/download/pagina12-2022/pagina12-2022-08-24T12:04:30.555653-03:00.jpg"
-     alt="Página/12 at 2022-08-24 05:04:33-03:00 local time"
+     alt="Página/12 at 2022-08-24 12:04:33-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-24T12:04:30.555653-03:00.jpg">August 24 at 5:04 AM</a></p>
+ <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-24T12:04:30.555653-03:00.jpg">August 24 at 12:04 PM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 5:38 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-30T12:38:35.305167-03:00.hyperlinks.json) |
-| [August 29 at 5:58 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-30T00:57:56.637505-03:00.hyperlinks.json) |
-| [August 29 at 5:13 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-29T12:13:23.667453-03:00.hyperlinks.json) |
-| [August 28 at 5:48 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-29T00:48:40.302446-03:00.hyperlinks.json) |
-| [August 28 at 5:01 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-28T12:01:17.182523-03:00.hyperlinks.json) |
-| [August 27 at 5:45 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-28T00:45:10.607002-03:00.hyperlinks.json) |
-| [August 27 at 4:55 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-27T11:55:41.242076-03:00.hyperlinks.json) |
-| [August 26 at 5:41 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-27T00:41:30.416640-03:00.hyperlinks.json) |
-| [August 26 at 5:04 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-26T12:04:19.052698-03:00.hyperlinks.json) |
-| [August 25 at 5:48 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-26T00:48:08.068150-03:00.hyperlinks.json) |
+| [August 30 at 12:38 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-30T12:38:35.305167-03:00.hyperlinks.json) |
+| [August 30 at 12:58 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-30T00:57:56.637505-03:00.hyperlinks.json) |
+| [August 29 at 12:13 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-29T12:13:23.667453-03:00.hyperlinks.json) |
+| [August 29 at 12:48 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-29T00:48:40.302446-03:00.hyperlinks.json) |
+| [August 28 at 12:01 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-28T12:01:17.182523-03:00.hyperlinks.json) |
+| [August 28 at 12:45 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-28T00:45:10.607002-03:00.hyperlinks.json) |
+| [August 27 at 11:55 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-27T11:55:41.242076-03:00.hyperlinks.json) |
+| [August 27 at 12:41 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-27T00:41:30.416640-03:00.hyperlinks.json) |
+| [August 26 at 12:04 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-26T12:04:19.052698-03:00.hyperlinks.json) |
+| [August 26 at 12:48 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-26T00:48:08.068150-03:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 5:38 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-30T12:38:35.305167-03:00.accessibility.json) |
-| [August 29 at 5:58 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-30T00:57:56.637505-03:00.accessibility.json) |
-| [August 29 at 5:13 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-29T12:13:23.667453-03:00.accessibility.json) |
-| [August 28 at 5:48 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-29T00:48:40.302446-03:00.accessibility.json) |
-| [August 28 at 5:01 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-28T12:01:17.182523-03:00.accessibility.json) |
-| [August 27 at 5:45 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-28T00:45:10.607002-03:00.accessibility.json) |
-| [August 27 at 4:55 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-27T11:55:41.242076-03:00.accessibility.json) |
-| [August 26 at 5:41 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-27T00:41:30.416640-03:00.accessibility.json) |
-| [August 26 at 5:04 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-26T12:04:19.052698-03:00.accessibility.json) |
-| [August 25 at 5:48 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-26T00:48:08.068150-03:00.accessibility.json) |
+| [August 30 at 12:38 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-30T12:38:35.305167-03:00.accessibility.json) |
+| [August 30 at 12:58 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-30T00:57:56.637505-03:00.accessibility.json) |
+| [August 29 at 12:13 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-29T12:13:23.667453-03:00.accessibility.json) |
+| [August 29 at 12:48 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-29T00:48:40.302446-03:00.accessibility.json) |
+| [August 28 at 12:01 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-28T12:01:17.182523-03:00.accessibility.json) |
+| [August 28 at 12:45 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-28T00:45:10.607002-03:00.accessibility.json) |
+| [August 27 at 11:55 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-27T11:55:41.242076-03:00.accessibility.json) |
+| [August 27 at 12:41 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-27T00:41:30.416640-03:00.accessibility.json) |
+| [August 26 at 12:04 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-26T12:04:19.052698-03:00.accessibility.json) |
+| [August 26 at 12:48 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-26T00:48:08.068150-03:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 5:38 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-30T12:38:35.305167-03:00.lighthouse.json) |
-| [August 29 at 5:58 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-30T00:57:56.637505-03:00.lighthouse.json) |
-| [August 29 at 5:13 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-29T12:13:23.667453-03:00.lighthouse.json) |
-| [August 28 at 5:48 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-29T00:48:40.302446-03:00.lighthouse.json) |
-| [August 28 at 5:01 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-28T12:01:17.182523-03:00.lighthouse.json) |
-| [August 27 at 5:45 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-28T00:45:10.607002-03:00.lighthouse.json) |
-| [August 27 at 4:55 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-27T11:55:41.242076-03:00.lighthouse.json) |
-| [August 26 at 5:41 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-27T00:41:30.416640-03:00.lighthouse.json) |
-| [August 26 at 5:04 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-26T12:04:19.052698-03:00.lighthouse.json) |
-| [August 25 at 5:48 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-26T00:48:08.068150-03:00.lighthouse.json) |
+| [August 30 at 12:38 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-30T12:38:35.305167-03:00.lighthouse.json) |
+| [August 30 at 12:58 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-30T00:57:56.637505-03:00.lighthouse.json) |
+| [August 29 at 12:13 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-29T12:13:23.667453-03:00.lighthouse.json) |
+| [August 29 at 12:48 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-29T00:48:40.302446-03:00.lighthouse.json) |
+| [August 28 at 12:01 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-28T12:01:17.182523-03:00.lighthouse.json) |
+| [August 28 at 12:45 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-28T00:45:10.607002-03:00.lighthouse.json) |
+| [August 27 at 11:55 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-27T11:55:41.242076-03:00.lighthouse.json) |
+| [August 27 at 12:41 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-27T00:41:30.416640-03:00.lighthouse.json) |
+| [August 26 at 12:04 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-26T12:04:19.052698-03:00.lighthouse.json) |
+| [August 26 at 12:48 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-26T00:48:08.068150-03:00.lighthouse.json) |
 
 
 

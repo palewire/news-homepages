@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-31T02:58:49.788102+03:00.jpg">
   <img src="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-31T02:58:49.788102+03:00.jpg"
-     alt="Haaretz at 2022-08-30 19:58:52+03:00 local time"
+     alt="Haaretz at 2022-08-31 02:58:52+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-31T02:58:49.788102+03:00.jpg">August 30 at 7:58 PM</a></p>
+ <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-31T02:58:49.788102+03:00.jpg">August 31 at 2:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-30T15:07:18.554357+03:00.jpg">
   <img src="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-30T15:07:18.554357+03:00.jpg"
-     alt="Haaretz at 2022-08-30 08:07:20+03:00 local time"
+     alt="Haaretz at 2022-08-30 15:07:20+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-30T15:07:18.554357+03:00.jpg">August 30 at 8:07 AM</a></p>
+ <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-30T15:07:18.554357+03:00.jpg">August 30 at 3:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-30T02:50:56.197767+03:00.jpg">
   <img src="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-30T02:50:56.197767+03:00.jpg"
-     alt="Haaretz at 2022-08-29 19:50:59+03:00 local time"
+     alt="Haaretz at 2022-08-30 02:50:59+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-30T02:50:56.197767+03:00.jpg">August 29 at 7:50 PM</a></p>
+ <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-30T02:50:56.197767+03:00.jpg">August 30 at 2:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-29T14:56:10.537063+03:00.jpg">
   <img src="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-29T14:56:10.537063+03:00.jpg"
-     alt="Haaretz at 2022-08-29 07:56:12+03:00 local time"
+     alt="Haaretz at 2022-08-29 14:56:12+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-29T14:56:10.537063+03:00.jpg">August 29 at 7:56 AM</a></p>
+ <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-29T14:56:10.537063+03:00.jpg">August 29 at 2:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-29T02:47:27.562676+03:00.jpg">
   <img src="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-29T02:47:27.562676+03:00.jpg"
-     alt="Haaretz at 2022-08-28 19:47:32+03:00 local time"
+     alt="Haaretz at 2022-08-29 02:47:32+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-29T02:47:27.562676+03:00.jpg">August 28 at 7:47 PM</a></p>
+ <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-29T02:47:27.562676+03:00.jpg">August 29 at 2:47 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-28T14:57:17.269922+03:00.jpg">
   <img src="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-28T14:57:17.269922+03:00.jpg"
-     alt="Haaretz at 2022-08-28 07:57:20+03:00 local time"
+     alt="Haaretz at 2022-08-28 14:57:20+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-28T14:57:17.269922+03:00.jpg">August 28 at 7:57 AM</a></p>
+ <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-28T14:57:17.269922+03:00.jpg">August 28 at 2:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-28T02:48:27.814559+03:00.jpg">
   <img src="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-28T02:48:27.814559+03:00.jpg"
-     alt="Haaretz at 2022-08-27 19:48:29+03:00 local time"
+     alt="Haaretz at 2022-08-28 02:48:29+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-28T02:48:27.814559+03:00.jpg">August 27 at 7:48 PM</a></p>
+ <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-28T02:48:27.814559+03:00.jpg">August 28 at 2:48 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-27T14:52:27.863663+03:00.jpg">
   <img src="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-27T14:52:27.863663+03:00.jpg"
-     alt="Haaretz at 2022-08-27 07:52:29+03:00 local time"
+     alt="Haaretz at 2022-08-27 14:52:29+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-27T14:52:27.863663+03:00.jpg">August 27 at 7:52 AM</a></p>
+ <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-27T14:52:27.863663+03:00.jpg">August 27 at 2:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-27T02:43:26.563994+03:00.jpg">
   <img src="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-27T02:43:26.563994+03:00.jpg"
-     alt="Haaretz at 2022-08-26 19:43:28+03:00 local time"
+     alt="Haaretz at 2022-08-27 02:43:28+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-27T02:43:26.563994+03:00.jpg">August 26 at 7:43 PM</a></p>
+ <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-27T02:43:26.563994+03:00.jpg">August 27 at 2:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-26T14:55:43.989969+03:00.jpg">
   <img src="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-26T14:55:43.989969+03:00.jpg"
-     alt="Haaretz at 2022-08-26 07:55:45+03:00 local time"
+     alt="Haaretz at 2022-08-26 14:55:45+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-26T14:55:43.989969+03:00.jpg">August 26 at 7:55 AM</a></p>
+ <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-26T14:55:43.989969+03:00.jpg">August 26 at 2:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-26T03:01:08.630866+03:00.jpg">
   <img src="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-26T03:01:08.630866+03:00.jpg"
-     alt="Haaretz at 2022-08-25 20:01:11+03:00 local time"
+     alt="Haaretz at 2022-08-26 03:01:11+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-26T03:01:08.630866+03:00.jpg">August 25 at 8:01 PM</a></p>
+ <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-26T03:01:08.630866+03:00.jpg">August 26 at 3:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-25T15:00:49.679463+03:00.jpg">
   <img src="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-25T15:00:49.679463+03:00.jpg"
-     alt="Haaretz at 2022-08-25 08:00:51+03:00 local time"
+     alt="Haaretz at 2022-08-25 15:00:51+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-25T15:00:49.679463+03:00.jpg">August 25 at 8:00 AM</a></p>
+ <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-25T15:00:49.679463+03:00.jpg">August 25 at 3:00 PM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 7:58 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-31T02:58:49.788102+03:00.hyperlinks.json) |
-| [August 30 at 8:07 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-30T15:07:18.554357+03:00.hyperlinks.json) |
-| [August 29 at 7:51 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-30T02:50:56.197767+03:00.hyperlinks.json) |
-| [August 29 at 7:56 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-29T14:56:10.537063+03:00.hyperlinks.json) |
-| [August 28 at 7:47 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-29T02:47:27.562676+03:00.hyperlinks.json) |
-| [August 28 at 7:57 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-28T14:57:17.269922+03:00.hyperlinks.json) |
-| [August 27 at 7:48 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-28T02:48:27.814559+03:00.hyperlinks.json) |
-| [August 27 at 7:52 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-27T14:52:27.863663+03:00.hyperlinks.json) |
-| [August 26 at 7:43 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-27T02:43:26.563994+03:00.hyperlinks.json) |
-| [August 26 at 7:55 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-26T14:55:43.989969+03:00.hyperlinks.json) |
+| [August 31 at 2:58 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-31T02:58:49.788102+03:00.hyperlinks.json) |
+| [August 30 at 3:07 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-30T15:07:18.554357+03:00.hyperlinks.json) |
+| [August 30 at 2:51 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-30T02:50:56.197767+03:00.hyperlinks.json) |
+| [August 29 at 2:56 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-29T14:56:10.537063+03:00.hyperlinks.json) |
+| [August 29 at 2:47 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-29T02:47:27.562676+03:00.hyperlinks.json) |
+| [August 28 at 2:57 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-28T14:57:17.269922+03:00.hyperlinks.json) |
+| [August 28 at 2:48 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-28T02:48:27.814559+03:00.hyperlinks.json) |
+| [August 27 at 2:52 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-27T14:52:27.863663+03:00.hyperlinks.json) |
+| [August 27 at 2:43 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-27T02:43:26.563994+03:00.hyperlinks.json) |
+| [August 26 at 2:55 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-26T14:55:43.989969+03:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 7:58 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-31T02:58:49.788102+03:00.accessibility.json) |
-| [August 30 at 8:07 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-30T15:07:18.554357+03:00.accessibility.json) |
-| [August 29 at 7:51 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-30T02:50:56.197767+03:00.accessibility.json) |
-| [August 29 at 7:56 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-29T14:56:10.537063+03:00.accessibility.json) |
-| [August 28 at 7:47 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-29T02:47:27.562676+03:00.accessibility.json) |
-| [August 28 at 7:57 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-28T14:57:17.269922+03:00.accessibility.json) |
-| [August 27 at 7:48 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-28T02:48:27.814559+03:00.accessibility.json) |
-| [August 27 at 7:52 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-27T14:52:27.863663+03:00.accessibility.json) |
-| [August 26 at 7:43 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-27T02:43:26.563994+03:00.accessibility.json) |
-| [August 26 at 7:55 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-26T14:55:43.989969+03:00.accessibility.json) |
+| [August 31 at 2:58 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-31T02:58:49.788102+03:00.accessibility.json) |
+| [August 30 at 3:07 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-30T15:07:18.554357+03:00.accessibility.json) |
+| [August 30 at 2:51 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-30T02:50:56.197767+03:00.accessibility.json) |
+| [August 29 at 2:56 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-29T14:56:10.537063+03:00.accessibility.json) |
+| [August 29 at 2:47 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-29T02:47:27.562676+03:00.accessibility.json) |
+| [August 28 at 2:57 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-28T14:57:17.269922+03:00.accessibility.json) |
+| [August 28 at 2:48 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-28T02:48:27.814559+03:00.accessibility.json) |
+| [August 27 at 2:52 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-27T14:52:27.863663+03:00.accessibility.json) |
+| [August 27 at 2:43 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-27T02:43:26.563994+03:00.accessibility.json) |
+| [August 26 at 2:55 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-26T14:55:43.989969+03:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 7:58 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-31T02:58:49.788102+03:00.lighthouse.json) |
-| [August 30 at 8:07 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-30T15:07:18.554357+03:00.lighthouse.json) |
-| [August 29 at 7:51 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-30T02:50:56.197767+03:00.lighthouse.json) |
-| [August 29 at 7:56 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-29T14:56:10.537063+03:00.lighthouse.json) |
-| [August 28 at 7:47 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-29T02:47:27.562676+03:00.lighthouse.json) |
-| [August 28 at 7:57 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-28T14:57:17.269922+03:00.lighthouse.json) |
-| [August 27 at 7:48 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-28T02:48:27.814559+03:00.lighthouse.json) |
-| [August 27 at 7:52 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-27T14:52:27.863663+03:00.lighthouse.json) |
-| [August 26 at 7:43 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-27T02:43:26.563994+03:00.lighthouse.json) |
-| [August 26 at 7:55 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-26T14:55:43.989969+03:00.lighthouse.json) |
+| [August 31 at 2:58 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-31T02:58:49.788102+03:00.lighthouse.json) |
+| [August 30 at 3:07 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-30T15:07:18.554357+03:00.lighthouse.json) |
+| [August 30 at 2:51 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-30T02:50:56.197767+03:00.lighthouse.json) |
+| [August 29 at 2:56 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-29T14:56:10.537063+03:00.lighthouse.json) |
+| [August 29 at 2:47 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-29T02:47:27.562676+03:00.lighthouse.json) |
+| [August 28 at 2:57 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-28T14:57:17.269922+03:00.lighthouse.json) |
+| [August 28 at 2:48 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-28T02:48:27.814559+03:00.lighthouse.json) |
+| [August 27 at 2:52 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-27T14:52:27.863663+03:00.lighthouse.json) |
+| [August 27 at 2:43 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-27T02:43:26.563994+03:00.lighthouse.json) |
+| [August 26 at 2:55 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-26T14:55:43.989969+03:00.lighthouse.json) |
 
 
 

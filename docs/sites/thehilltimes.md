@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-30T12:36:50.515892-04:00.jpg">
   <img src="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-30T12:36:50.515892-04:00.jpg"
-     alt="The Hill Times at 2022-08-30 05:37:07-04:00 local time"
+     alt="The Hill Times at 2022-08-30 12:37:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-30T12:36:50.515892-04:00.jpg">August 30 at 5:37 AM</a></p>
+ <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-30T12:36:50.515892-04:00.jpg">August 30 at 12:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-30T00:57:57.351885-04:00.jpg">
   <img src="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-30T00:57:57.351885-04:00.jpg"
-     alt="The Hill Times at 2022-08-29 17:57:59-04:00 local time"
+     alt="The Hill Times at 2022-08-30 00:57:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-30T00:57:57.351885-04:00.jpg">August 29 at 5:57 PM</a></p>
+ <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-30T00:57:57.351885-04:00.jpg">August 30 at 12:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-29T12:18:46.206359-04:00.jpg">
   <img src="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-29T12:18:46.206359-04:00.jpg"
-     alt="The Hill Times at 2022-08-29 05:18:47-04:00 local time"
+     alt="The Hill Times at 2022-08-29 12:18:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-29T12:18:46.206359-04:00.jpg">August 29 at 5:18 AM</a></p>
+ <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-29T12:18:46.206359-04:00.jpg">August 29 at 12:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-29T00:42:08.872102-04:00.jpg">
   <img src="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-29T00:42:08.872102-04:00.jpg"
-     alt="The Hill Times at 2022-08-28 17:42:10-04:00 local time"
+     alt="The Hill Times at 2022-08-29 00:42:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-29T00:42:08.872102-04:00.jpg">August 28 at 5:42 PM</a></p>
+ <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-29T00:42:08.872102-04:00.jpg">August 29 at 12:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-28T12:03:54.187183-04:00.jpg">
   <img src="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-28T12:03:54.187183-04:00.jpg"
-     alt="The Hill Times at 2022-08-28 05:03:56-04:00 local time"
+     alt="The Hill Times at 2022-08-28 12:03:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-28T12:03:54.187183-04:00.jpg">August 28 at 5:03 AM</a></p>
+ <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-28T12:03:54.187183-04:00.jpg">August 28 at 12:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-28T00:38:23.203833-04:00.jpg">
   <img src="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-28T00:38:23.203833-04:00.jpg"
-     alt="The Hill Times at 2022-08-27 17:38:25-04:00 local time"
+     alt="The Hill Times at 2022-08-28 00:38:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-28T00:38:23.203833-04:00.jpg">August 27 at 5:38 PM</a></p>
+ <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-28T00:38:23.203833-04:00.jpg">August 28 at 12:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-27T12:00:24.384742-04:00.jpg">
   <img src="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-27T12:00:24.384742-04:00.jpg"
-     alt="The Hill Times at 2022-08-27 05:00:26-04:00 local time"
+     alt="The Hill Times at 2022-08-27 12:00:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-27T12:00:24.384742-04:00.jpg">August 27 at 5:00 AM</a></p>
+ <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-27T12:00:24.384742-04:00.jpg">August 27 at 12:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-27T00:38:58.505635-04:00.jpg">
   <img src="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-27T00:38:58.505635-04:00.jpg"
-     alt="The Hill Times at 2022-08-26 17:38:59-04:00 local time"
+     alt="The Hill Times at 2022-08-27 00:38:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-27T00:38:58.505635-04:00.jpg">August 26 at 5:38 PM</a></p>
+ <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-27T00:38:58.505635-04:00.jpg">August 27 at 12:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-26T12:08:23.503248-04:00.jpg">
   <img src="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-26T12:08:23.503248-04:00.jpg"
-     alt="The Hill Times at 2022-08-26 05:08:24-04:00 local time"
+     alt="The Hill Times at 2022-08-26 12:08:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-26T12:08:23.503248-04:00.jpg">August 26 at 5:08 AM</a></p>
+ <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-26T12:08:23.503248-04:00.jpg">August 26 at 12:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-26T00:43:55.928635-04:00.jpg">
   <img src="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-26T00:43:55.928635-04:00.jpg"
-     alt="The Hill Times at 2022-08-25 17:44:02-04:00 local time"
+     alt="The Hill Times at 2022-08-26 00:44:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-26T00:43:55.928635-04:00.jpg">August 25 at 5:44 PM</a></p>
+ <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-26T00:43:55.928635-04:00.jpg">August 26 at 12:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-25T12:05:53.180504-04:00.jpg">
   <img src="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-25T12:05:53.180504-04:00.jpg"
-     alt="The Hill Times at 2022-08-25 05:05:54-04:00 local time"
+     alt="The Hill Times at 2022-08-25 12:05:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-25T12:05:53.180504-04:00.jpg">August 25 at 5:05 AM</a></p>
+ <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-25T12:05:53.180504-04:00.jpg">August 25 at 12:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-24T12:02:36.173302-04:00.jpg">
   <img src="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-24T12:02:36.173302-04:00.jpg"
-     alt="The Hill Times at 2022-08-24 05:02:41-04:00 local time"
+     alt="The Hill Times at 2022-08-24 12:02:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-24T12:02:36.173302-04:00.jpg">August 24 at 5:02 AM</a></p>
+ <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-24T12:02:36.173302-04:00.jpg">August 24 at 12:02 PM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 5:37 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-30T12:36:50.515892-04:00.hyperlinks.json) |
-| [August 29 at 5:58 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-30T00:57:57.351885-04:00.hyperlinks.json) |
-| [August 29 at 5:18 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-29T12:18:46.206359-04:00.hyperlinks.json) |
-| [August 28 at 5:42 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-29T00:42:08.872102-04:00.hyperlinks.json) |
-| [August 28 at 5:03 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-28T12:03:54.187183-04:00.hyperlinks.json) |
-| [August 27 at 5:38 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-28T00:38:23.203833-04:00.hyperlinks.json) |
-| [August 27 at 5:00 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-27T12:00:24.384742-04:00.hyperlinks.json) |
-| [August 26 at 5:39 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-27T00:38:58.505635-04:00.hyperlinks.json) |
-| [August 26 at 5:08 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-26T12:08:23.503248-04:00.hyperlinks.json) |
-| [August 25 at 5:44 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-26T00:43:55.928635-04:00.hyperlinks.json) |
+| [August 30 at 12:37 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-30T12:36:50.515892-04:00.hyperlinks.json) |
+| [August 30 at 12:58 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-30T00:57:57.351885-04:00.hyperlinks.json) |
+| [August 29 at 12:18 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-29T12:18:46.206359-04:00.hyperlinks.json) |
+| [August 29 at 12:42 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-29T00:42:08.872102-04:00.hyperlinks.json) |
+| [August 28 at 12:03 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-28T12:03:54.187183-04:00.hyperlinks.json) |
+| [August 28 at 12:38 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-28T00:38:23.203833-04:00.hyperlinks.json) |
+| [August 27 at 12:00 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-27T12:00:24.384742-04:00.hyperlinks.json) |
+| [August 27 at 12:39 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-27T00:38:58.505635-04:00.hyperlinks.json) |
+| [August 26 at 12:08 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-26T12:08:23.503248-04:00.hyperlinks.json) |
+| [August 26 at 12:44 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-26T00:43:55.928635-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 5:37 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-30T12:36:50.515892-04:00.accessibility.json) |
-| [August 29 at 5:58 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-30T00:57:57.351885-04:00.accessibility.json) |
-| [August 29 at 5:18 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-29T12:18:46.206359-04:00.accessibility.json) |
-| [August 28 at 5:42 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-29T00:42:08.872102-04:00.accessibility.json) |
-| [August 28 at 5:03 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-28T12:03:54.187183-04:00.accessibility.json) |
-| [August 27 at 5:38 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-28T00:38:23.203833-04:00.accessibility.json) |
-| [August 27 at 5:00 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-27T12:00:24.384742-04:00.accessibility.json) |
-| [August 26 at 5:39 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-27T00:38:58.505635-04:00.accessibility.json) |
-| [August 26 at 5:08 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-26T12:08:23.503248-04:00.accessibility.json) |
-| [August 25 at 5:44 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-26T00:43:55.928635-04:00.accessibility.json) |
+| [August 30 at 12:37 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-30T12:36:50.515892-04:00.accessibility.json) |
+| [August 30 at 12:58 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-30T00:57:57.351885-04:00.accessibility.json) |
+| [August 29 at 12:18 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-29T12:18:46.206359-04:00.accessibility.json) |
+| [August 29 at 12:42 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-29T00:42:08.872102-04:00.accessibility.json) |
+| [August 28 at 12:03 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-28T12:03:54.187183-04:00.accessibility.json) |
+| [August 28 at 12:38 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-28T00:38:23.203833-04:00.accessibility.json) |
+| [August 27 at 12:00 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-27T12:00:24.384742-04:00.accessibility.json) |
+| [August 27 at 12:39 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-27T00:38:58.505635-04:00.accessibility.json) |
+| [August 26 at 12:08 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-26T12:08:23.503248-04:00.accessibility.json) |
+| [August 26 at 12:44 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-26T00:43:55.928635-04:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 5:37 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-30T12:36:50.515892-04:00.lighthouse.json) |
-| [August 29 at 5:58 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-30T00:57:57.351885-04:00.lighthouse.json) |
-| [August 29 at 5:18 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-29T12:18:46.206359-04:00.lighthouse.json) |
-| [August 28 at 5:42 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-29T00:42:08.872102-04:00.lighthouse.json) |
-| [August 28 at 5:04 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-28T12:03:54.187183-04:00.lighthouse.json) |
-| [August 27 at 5:38 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-28T00:38:23.203833-04:00.lighthouse.json) |
-| [August 27 at 5:00 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-27T12:00:24.384742-04:00.lighthouse.json) |
-| [August 26 at 5:39 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-27T00:38:58.505635-04:00.lighthouse.json) |
-| [August 26 at 5:08 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-26T12:08:23.503248-04:00.lighthouse.json) |
-| [August 25 at 5:44 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-26T00:43:55.928635-04:00.lighthouse.json) |
+| [August 30 at 12:37 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-30T12:36:50.515892-04:00.lighthouse.json) |
+| [August 30 at 12:58 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-30T00:57:57.351885-04:00.lighthouse.json) |
+| [August 29 at 12:18 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-29T12:18:46.206359-04:00.lighthouse.json) |
+| [August 29 at 12:42 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-29T00:42:08.872102-04:00.lighthouse.json) |
+| [August 28 at 12:04 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-28T12:03:54.187183-04:00.lighthouse.json) |
+| [August 28 at 12:38 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-28T00:38:23.203833-04:00.lighthouse.json) |
+| [August 27 at 12:00 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-27T12:00:24.384742-04:00.lighthouse.json) |
+| [August 27 at 12:39 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-27T00:38:58.505635-04:00.lighthouse.json) |
+| [August 26 at 12:08 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-26T12:08:23.503248-04:00.lighthouse.json) |
+| [August 26 at 12:44 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-26T00:43:55.928635-04:00.lighthouse.json) |
 
 
 

@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-30T17:58:49.332788-05:00.jpg">
   <img src="https://archive.org/download/19thnews-2022/19thnews-2022-08-30T17:58:49.332788-05:00.jpg"
-     alt="19th at 2022-08-30 10:58:52-05:00 local time"
+     alt="19th at 2022-08-30 17:58:52-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-30T17:58:49.332788-05:00.jpg">August 30 at 10:58 AM</a></p>
+ <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-30T17:58:49.332788-05:00.jpg">August 30 at 5:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-30T05:59:08.264313-05:00.jpg">
   <img src="https://archive.org/download/19thnews-2022/19thnews-2022-08-30T05:59:08.264313-05:00.jpg"
-     alt="19th at 2022-08-29 22:59:09-05:00 local time"
+     alt="19th at 2022-08-30 05:59:09-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-30T05:59:08.264313-05:00.jpg">August 29 at 10:59 PM</a></p>
+ <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-30T05:59:08.264313-05:00.jpg">August 30 at 5:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-29T17:55:05.521286-05:00.jpg">
   <img src="https://archive.org/download/19thnews-2022/19thnews-2022-08-29T17:55:05.521286-05:00.jpg"
-     alt="19th at 2022-08-29 10:55:12-05:00 local time"
+     alt="19th at 2022-08-29 17:55:12-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-29T17:55:05.521286-05:00.jpg">August 29 at 10:55 AM</a></p>
+ <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-29T17:55:05.521286-05:00.jpg">August 29 at 5:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-29T05:51:45.234546-05:00.jpg">
   <img src="https://archive.org/download/19thnews-2022/19thnews-2022-08-29T05:51:45.234546-05:00.jpg"
-     alt="19th at 2022-08-28 22:51:51-05:00 local time"
+     alt="19th at 2022-08-29 05:51:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-29T05:51:45.234546-05:00.jpg">August 28 at 10:51 PM</a></p>
+ <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-29T05:51:45.234546-05:00.jpg">August 29 at 5:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-28T17:48:51.462434-05:00.jpg">
   <img src="https://archive.org/download/19thnews-2022/19thnews-2022-08-28T17:48:51.462434-05:00.jpg"
-     alt="19th at 2022-08-28 10:48:57-05:00 local time"
+     alt="19th at 2022-08-28 17:48:57-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-28T17:48:51.462434-05:00.jpg">August 28 at 10:48 AM</a></p>
+ <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-28T17:48:51.462434-05:00.jpg">August 28 at 5:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-27T17:51:56.695271-05:00.jpg">
   <img src="https://archive.org/download/19thnews-2022/19thnews-2022-08-27T17:51:56.695271-05:00.jpg"
-     alt="19th at 2022-08-27 10:52:00-05:00 local time"
+     alt="19th at 2022-08-27 17:52:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-27T17:51:56.695271-05:00.jpg">August 27 at 10:52 AM</a></p>
+ <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-27T17:51:56.695271-05:00.jpg">August 27 at 5:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-27T05:46:45.282707-05:00.jpg">
   <img src="https://archive.org/download/19thnews-2022/19thnews-2022-08-27T05:46:45.282707-05:00.jpg"
-     alt="19th at 2022-08-26 22:46:48-05:00 local time"
+     alt="19th at 2022-08-27 05:46:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-27T05:46:45.282707-05:00.jpg">August 26 at 10:46 PM</a></p>
+ <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-27T05:46:45.282707-05:00.jpg">August 27 at 5:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-26T17:49:19.418801-05:00.jpg">
   <img src="https://archive.org/download/19thnews-2022/19thnews-2022-08-26T17:49:19.418801-05:00.jpg"
-     alt="19th at 2022-08-26 10:49:25-05:00 local time"
+     alt="19th at 2022-08-26 17:49:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-26T17:49:19.418801-05:00.jpg">August 26 at 10:49 AM</a></p>
+ <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-26T17:49:19.418801-05:00.jpg">August 26 at 5:49 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-26T05:49:00.334322-05:00.jpg">
   <img src="https://archive.org/download/19thnews-2022/19thnews-2022-08-26T05:49:00.334322-05:00.jpg"
-     alt="19th at 2022-08-25 22:49:07-05:00 local time"
+     alt="19th at 2022-08-26 05:49:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-26T05:49:00.334322-05:00.jpg">August 25 at 10:49 PM</a></p>
+ <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-26T05:49:00.334322-05:00.jpg">August 26 at 5:49 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-25T17:50:21.010767-05:00.jpg">
   <img src="https://archive.org/download/19thnews-2022/19thnews-2022-08-25T17:50:21.010767-05:00.jpg"
-     alt="19th at 2022-08-25 10:50:23-05:00 local time"
+     alt="19th at 2022-08-25 17:50:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-25T17:50:21.010767-05:00.jpg">August 25 at 10:50 AM</a></p>
+ <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-25T17:50:21.010767-05:00.jpg">August 25 at 5:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-25T05:52:48.270245-05:00.jpg">
   <img src="https://archive.org/download/19thnews-2022/19thnews-2022-08-25T05:52:48.270245-05:00.jpg"
-     alt="19th at 2022-08-24 22:52:49-05:00 local time"
+     alt="19th at 2022-08-25 05:52:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-25T05:52:48.270245-05:00.jpg">August 24 at 10:52 PM</a></p>
+ <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-25T05:52:48.270245-05:00.jpg">August 25 at 5:52 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-24T17:52:33.817546-05:00.jpg">
   <img src="https://archive.org/download/19thnews-2022/19thnews-2022-08-24T17:52:33.817546-05:00.jpg"
-     alt="19th at 2022-08-24 10:52:50-05:00 local time"
+     alt="19th at 2022-08-24 17:52:50-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-24T17:52:33.817546-05:00.jpg">August 24 at 10:52 AM</a></p>
+ <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-08-24T17:52:33.817546-05:00.jpg">August 24 at 5:52 PM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 10:58 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-30T17:58:49.332788-05:00.hyperlinks.json) |
-| [August 29 at 10:59 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-30T05:59:08.264313-05:00.hyperlinks.json) |
-| [August 29 at 10:55 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-29T17:55:05.521286-05:00.hyperlinks.json) |
-| [August 28 at 10:51 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-29T05:51:45.234546-05:00.hyperlinks.json) |
-| [August 28 at 10:49 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-28T17:48:51.462434-05:00.hyperlinks.json) |
-| [August 27 at 10:52 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-28T05:52:10.836468-05:00.hyperlinks.json) |
-| [August 27 at 10:52 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-27T17:51:56.695271-05:00.hyperlinks.json) |
-| [August 26 at 10:46 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-27T05:46:45.282707-05:00.hyperlinks.json) |
-| [August 26 at 10:49 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-26T17:49:19.418801-05:00.hyperlinks.json) |
-| [August 25 at 10:49 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-26T05:49:00.334322-05:00.hyperlinks.json) |
+| [August 30 at 5:58 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-30T17:58:49.332788-05:00.hyperlinks.json) |
+| [August 30 at 5:59 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-30T05:59:08.264313-05:00.hyperlinks.json) |
+| [August 29 at 5:55 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-29T17:55:05.521286-05:00.hyperlinks.json) |
+| [August 29 at 5:51 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-29T05:51:45.234546-05:00.hyperlinks.json) |
+| [August 28 at 5:49 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-28T17:48:51.462434-05:00.hyperlinks.json) |
+| [August 28 at 5:52 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-28T05:52:10.836468-05:00.hyperlinks.json) |
+| [August 27 at 5:52 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-27T17:51:56.695271-05:00.hyperlinks.json) |
+| [August 27 at 5:46 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-27T05:46:45.282707-05:00.hyperlinks.json) |
+| [August 26 at 5:49 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-26T17:49:19.418801-05:00.hyperlinks.json) |
+| [August 26 at 5:49 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-26T05:49:00.334322-05:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 10:58 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-30T17:58:49.332788-05:00.accessibility.json) |
-| [August 29 at 10:59 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-30T05:59:08.264313-05:00.accessibility.json) |
-| [August 29 at 10:55 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-29T17:55:05.521286-05:00.accessibility.json) |
-| [August 28 at 10:51 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-29T05:51:45.234546-05:00.accessibility.json) |
-| [August 28 at 10:48 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-28T17:48:51.462434-05:00.accessibility.json) |
-| [August 27 at 10:52 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-28T05:52:10.836468-05:00.accessibility.json) |
-| [August 27 at 10:52 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-27T17:51:56.695271-05:00.accessibility.json) |
-| [August 26 at 10:46 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-27T05:46:45.282707-05:00.accessibility.json) |
-| [August 26 at 10:49 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-26T17:49:19.418801-05:00.accessibility.json) |
-| [August 25 at 10:49 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-26T05:49:00.334322-05:00.accessibility.json) |
+| [August 30 at 5:58 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-30T17:58:49.332788-05:00.accessibility.json) |
+| [August 30 at 5:59 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-30T05:59:08.264313-05:00.accessibility.json) |
+| [August 29 at 5:55 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-29T17:55:05.521286-05:00.accessibility.json) |
+| [August 29 at 5:51 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-29T05:51:45.234546-05:00.accessibility.json) |
+| [August 28 at 5:48 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-28T17:48:51.462434-05:00.accessibility.json) |
+| [August 28 at 5:52 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-28T05:52:10.836468-05:00.accessibility.json) |
+| [August 27 at 5:52 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-27T17:51:56.695271-05:00.accessibility.json) |
+| [August 27 at 5:46 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-27T05:46:45.282707-05:00.accessibility.json) |
+| [August 26 at 5:49 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-26T17:49:19.418801-05:00.accessibility.json) |
+| [August 26 at 5:49 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-26T05:49:00.334322-05:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 10:58 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-30T17:58:49.332788-05:00.lighthouse.json) |
-| [August 29 at 10:59 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-30T05:59:08.264313-05:00.lighthouse.json) |
-| [August 29 at 10:55 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-29T17:55:05.521286-05:00.lighthouse.json) |
-| [August 28 at 10:51 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-29T05:51:45.234546-05:00.lighthouse.json) |
-| [August 28 at 10:49 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-28T17:48:51.462434-05:00.lighthouse.json) |
-| [August 27 at 10:52 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-28T05:52:10.836468-05:00.lighthouse.json) |
-| [August 27 at 10:52 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-27T17:51:56.695271-05:00.lighthouse.json) |
-| [August 26 at 10:46 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-27T05:46:45.282707-05:00.lighthouse.json) |
-| [August 26 at 10:49 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-26T17:49:19.418801-05:00.lighthouse.json) |
-| [August 25 at 10:49 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-26T05:49:00.334322-05:00.lighthouse.json) |
+| [August 30 at 5:58 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-30T17:58:49.332788-05:00.lighthouse.json) |
+| [August 30 at 5:59 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-30T05:59:08.264313-05:00.lighthouse.json) |
+| [August 29 at 5:55 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-29T17:55:05.521286-05:00.lighthouse.json) |
+| [August 29 at 5:51 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-29T05:51:45.234546-05:00.lighthouse.json) |
+| [August 28 at 5:49 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-28T17:48:51.462434-05:00.lighthouse.json) |
+| [August 28 at 5:52 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-28T05:52:10.836468-05:00.lighthouse.json) |
+| [August 27 at 5:52 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-27T17:51:56.695271-05:00.lighthouse.json) |
+| [August 27 at 5:46 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-27T05:46:45.282707-05:00.lighthouse.json) |
+| [August 26 at 5:49 PM](https://archive.org/download/19thnews-2022/19thnews-2022-08-26T17:49:19.418801-05:00.lighthouse.json) |
+| [August 26 at 5:49 AM](https://archive.org/download/19thnews-2022/19thnews-2022-08-26T05:49:00.334322-05:00.lighthouse.json) |
 
 
 

@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/sdut-2022/sdut-2022-08-30T11:35:56.647735-07:00.jpg">
   <img src="https://archive.org/download/sdut-2022/sdut-2022-08-30T11:35:56.647735-07:00.jpg"
-     alt="San Diego Union Tribune at 2022-08-30 04:36:24-07:00 local time"
+     alt="San Diego Union Tribune at 2022-08-30 11:36:24-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sdut-2022/sdut-2022-08-30T11:35:56.647735-07:00.jpg">August 30 at 4:36 AM</a></p>
+ <p><a href="https://archive.org/download/sdut-2022/sdut-2022-08-30T11:35:56.647735-07:00.jpg">August 30 at 11:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sdut-2022/sdut-2022-08-30T09:35:33.913493-07:00.jpg">
   <img src="https://archive.org/download/sdut-2022/sdut-2022-08-30T09:35:33.913493-07:00.jpg"
-     alt="San Diego Union Tribune at 2022-08-30 02:35:43-07:00 local time"
+     alt="San Diego Union Tribune at 2022-08-30 09:35:43-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sdut-2022/sdut-2022-08-30T09:35:33.913493-07:00.jpg">August 30 at 2:35 AM</a></p>
+ <p><a href="https://archive.org/download/sdut-2022/sdut-2022-08-30T09:35:33.913493-07:00.jpg">August 30 at 9:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sdut-2022/sdut-2022-08-29T21:56:00.916049-07:00.jpg">
   <img src="https://archive.org/download/sdut-2022/sdut-2022-08-29T21:56:00.916049-07:00.jpg"
-     alt="San Diego Union Tribune at 2022-08-29 14:56:02-07:00 local time"
+     alt="San Diego Union Tribune at 2022-08-29 21:56:02-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sdut-2022/sdut-2022-08-29T21:56:00.916049-07:00.jpg">August 29 at 2:56 PM</a></p>
+ <p><a href="https://archive.org/download/sdut-2022/sdut-2022-08-29T21:56:00.916049-07:00.jpg">August 29 at 9:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sdut-2022/sdut-2022-08-29T11:30:48.229511-07:00.jpg">
   <img src="https://archive.org/download/sdut-2022/sdut-2022-08-29T11:30:48.229511-07:00.jpg"
-     alt="San Diego Union Tribune at 2022-08-29 04:30:50-07:00 local time"
+     alt="San Diego Union Tribune at 2022-08-29 11:30:50-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sdut-2022/sdut-2022-08-29T11:30:48.229511-07:00.jpg">August 29 at 4:30 AM</a></p>
+ <p><a href="https://archive.org/download/sdut-2022/sdut-2022-08-29T11:30:48.229511-07:00.jpg">August 29 at 11:30 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sdut-2022/sdut-2022-08-29T09:16:05.281054-07:00.jpg">
   <img src="https://archive.org/download/sdut-2022/sdut-2022-08-29T09:16:05.281054-07:00.jpg"
-     alt="San Diego Union Tribune at 2022-08-29 02:16:07-07:00 local time"
+     alt="San Diego Union Tribune at 2022-08-29 09:16:07-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sdut-2022/sdut-2022-08-29T09:16:05.281054-07:00.jpg">August 29 at 2:16 AM</a></p>
+ <p><a href="https://archive.org/download/sdut-2022/sdut-2022-08-29T09:16:05.281054-07:00.jpg">August 29 at 9:16 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sdut-2022/sdut-2022-08-28T21:41:00.849055-07:00.jpg">
   <img src="https://archive.org/download/sdut-2022/sdut-2022-08-28T21:41:00.849055-07:00.jpg"
-     alt="San Diego Union Tribune at 2022-08-28 14:41:01-07:00 local time"
+     alt="San Diego Union Tribune at 2022-08-28 21:41:01-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sdut-2022/sdut-2022-08-28T21:41:00.849055-07:00.jpg">August 28 at 2:41 PM</a></p>
+ <p><a href="https://archive.org/download/sdut-2022/sdut-2022-08-28T21:41:00.849055-07:00.jpg">August 28 at 9:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sdut-2022/sdut-2022-08-28T11:31:20.277745-07:00.jpg">
   <img src="https://archive.org/download/sdut-2022/sdut-2022-08-28T11:31:20.277745-07:00.jpg"
-     alt="San Diego Union Tribune at 2022-08-28 04:31:31-07:00 local time"
+     alt="San Diego Union Tribune at 2022-08-28 11:31:31-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sdut-2022/sdut-2022-08-28T11:31:20.277745-07:00.jpg">August 28 at 4:31 AM</a></p>
+ <p><a href="https://archive.org/download/sdut-2022/sdut-2022-08-28T11:31:20.277745-07:00.jpg">August 28 at 11:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sdut-2022/sdut-2022-08-28T09:01:48.198831-07:00.jpg">
   <img src="https://archive.org/download/sdut-2022/sdut-2022-08-28T09:01:48.198831-07:00.jpg"
-     alt="San Diego Union Tribune at 2022-08-28 02:02:01-07:00 local time"
+     alt="San Diego Union Tribune at 2022-08-28 09:02:01-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sdut-2022/sdut-2022-08-28T09:01:48.198831-07:00.jpg">August 28 at 2:02 AM</a></p>
+ <p><a href="https://archive.org/download/sdut-2022/sdut-2022-08-28T09:01:48.198831-07:00.jpg">August 28 at 9:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sdut-2022/sdut-2022-08-27T21:36:42.721834-07:00.jpg">
   <img src="https://archive.org/download/sdut-2022/sdut-2022-08-27T21:36:42.721834-07:00.jpg"
-     alt="San Diego Union Tribune at 2022-08-27 14:36:44-07:00 local time"
+     alt="San Diego Union Tribune at 2022-08-27 21:36:44-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sdut-2022/sdut-2022-08-27T21:36:42.721834-07:00.jpg">August 27 at 2:36 PM</a></p>
+ <p><a href="https://archive.org/download/sdut-2022/sdut-2022-08-27T21:36:42.721834-07:00.jpg">August 27 at 9:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sdut-2022/sdut-2022-08-27T11:40:30.764881-07:00.jpg">
   <img src="https://archive.org/download/sdut-2022/sdut-2022-08-27T11:40:30.764881-07:00.jpg"
-     alt="San Diego Union Tribune at 2022-08-27 04:40:32-07:00 local time"
+     alt="San Diego Union Tribune at 2022-08-27 11:40:32-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sdut-2022/sdut-2022-08-27T11:40:30.764881-07:00.jpg">August 27 at 4:40 AM</a></p>
+ <p><a href="https://archive.org/download/sdut-2022/sdut-2022-08-27T11:40:30.764881-07:00.jpg">August 27 at 11:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sdut-2022/sdut-2022-08-27T08:58:40.589942-07:00.jpg">
   <img src="https://archive.org/download/sdut-2022/sdut-2022-08-27T08:58:40.589942-07:00.jpg"
-     alt="San Diego Union Tribune at 2022-08-27 01:58:47-07:00 local time"
+     alt="San Diego Union Tribune at 2022-08-27 08:58:47-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sdut-2022/sdut-2022-08-27T08:58:40.589942-07:00.jpg">August 27 at 1:58 AM</a></p>
+ <p><a href="https://archive.org/download/sdut-2022/sdut-2022-08-27T08:58:40.589942-07:00.jpg">August 27 at 8:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sdut-2022/sdut-2022-08-26T21:37:15.308418-07:00.jpg">
   <img src="https://archive.org/download/sdut-2022/sdut-2022-08-26T21:37:15.308418-07:00.jpg"
-     alt="San Diego Union Tribune at 2022-08-26 14:37:17-07:00 local time"
+     alt="San Diego Union Tribune at 2022-08-26 21:37:17-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sdut-2022/sdut-2022-08-26T21:37:15.308418-07:00.jpg">August 26 at 2:37 PM</a></p>
+ <p><a href="https://archive.org/download/sdut-2022/sdut-2022-08-26T21:37:15.308418-07:00.jpg">August 26 at 9:37 PM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 4:36 AM](https://archive.org/download/sdut-2022/sdut-2022-08-30T11:35:56.647735-07:00.hyperlinks.json) |
-| [August 30 at 2:35 AM](https://archive.org/download/sdut-2022/sdut-2022-08-30T09:35:33.913493-07:00.hyperlinks.json) |
-| [August 29 at 2:56 PM](https://archive.org/download/sdut-2022/sdut-2022-08-29T21:56:00.916049-07:00.hyperlinks.json) |
-| [August 29 at 4:30 AM](https://archive.org/download/sdut-2022/sdut-2022-08-29T11:30:48.229511-07:00.hyperlinks.json) |
-| [August 29 at 2:16 AM](https://archive.org/download/sdut-2022/sdut-2022-08-29T09:16:05.281054-07:00.hyperlinks.json) |
-| [August 28 at 2:41 PM](https://archive.org/download/sdut-2022/sdut-2022-08-28T21:41:00.849055-07:00.hyperlinks.json) |
-| [August 28 at 4:31 AM](https://archive.org/download/sdut-2022/sdut-2022-08-28T11:31:20.277745-07:00.hyperlinks.json) |
-| [August 28 at 2:02 AM](https://archive.org/download/sdut-2022/sdut-2022-08-28T09:01:48.198831-07:00.hyperlinks.json) |
-| [August 27 at 2:36 PM](https://archive.org/download/sdut-2022/sdut-2022-08-27T21:36:42.721834-07:00.hyperlinks.json) |
-| [August 27 at 4:40 AM](https://archive.org/download/sdut-2022/sdut-2022-08-27T11:40:30.764881-07:00.hyperlinks.json) |
+| [August 30 at 11:36 AM](https://archive.org/download/sdut-2022/sdut-2022-08-30T11:35:56.647735-07:00.hyperlinks.json) |
+| [August 30 at 9:35 AM](https://archive.org/download/sdut-2022/sdut-2022-08-30T09:35:33.913493-07:00.hyperlinks.json) |
+| [August 29 at 9:56 PM](https://archive.org/download/sdut-2022/sdut-2022-08-29T21:56:00.916049-07:00.hyperlinks.json) |
+| [August 29 at 11:30 AM](https://archive.org/download/sdut-2022/sdut-2022-08-29T11:30:48.229511-07:00.hyperlinks.json) |
+| [August 29 at 9:16 AM](https://archive.org/download/sdut-2022/sdut-2022-08-29T09:16:05.281054-07:00.hyperlinks.json) |
+| [August 28 at 9:41 PM](https://archive.org/download/sdut-2022/sdut-2022-08-28T21:41:00.849055-07:00.hyperlinks.json) |
+| [August 28 at 11:31 AM](https://archive.org/download/sdut-2022/sdut-2022-08-28T11:31:20.277745-07:00.hyperlinks.json) |
+| [August 28 at 9:02 AM](https://archive.org/download/sdut-2022/sdut-2022-08-28T09:01:48.198831-07:00.hyperlinks.json) |
+| [August 27 at 9:36 PM](https://archive.org/download/sdut-2022/sdut-2022-08-27T21:36:42.721834-07:00.hyperlinks.json) |
+| [August 27 at 11:40 AM](https://archive.org/download/sdut-2022/sdut-2022-08-27T11:40:30.764881-07:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 4:36 AM](https://archive.org/download/sdut-2022/sdut-2022-08-30T11:35:56.647735-07:00.accessibility.json) |
-| [August 30 at 2:35 AM](https://archive.org/download/sdut-2022/sdut-2022-08-30T09:35:33.913493-07:00.accessibility.json) |
-| [August 29 at 2:56 PM](https://archive.org/download/sdut-2022/sdut-2022-08-29T21:56:00.916049-07:00.accessibility.json) |
-| [August 29 at 4:30 AM](https://archive.org/download/sdut-2022/sdut-2022-08-29T11:30:48.229511-07:00.accessibility.json) |
-| [August 29 at 2:16 AM](https://archive.org/download/sdut-2022/sdut-2022-08-29T09:16:05.281054-07:00.accessibility.json) |
-| [August 28 at 2:41 PM](https://archive.org/download/sdut-2022/sdut-2022-08-28T21:41:00.849055-07:00.accessibility.json) |
-| [August 28 at 4:31 AM](https://archive.org/download/sdut-2022/sdut-2022-08-28T11:31:20.277745-07:00.accessibility.json) |
-| [August 28 at 2:02 AM](https://archive.org/download/sdut-2022/sdut-2022-08-28T09:01:48.198831-07:00.accessibility.json) |
-| [August 27 at 2:36 PM](https://archive.org/download/sdut-2022/sdut-2022-08-27T21:36:42.721834-07:00.accessibility.json) |
-| [August 27 at 4:40 AM](https://archive.org/download/sdut-2022/sdut-2022-08-27T11:40:30.764881-07:00.accessibility.json) |
+| [August 30 at 11:36 AM](https://archive.org/download/sdut-2022/sdut-2022-08-30T11:35:56.647735-07:00.accessibility.json) |
+| [August 30 at 9:35 AM](https://archive.org/download/sdut-2022/sdut-2022-08-30T09:35:33.913493-07:00.accessibility.json) |
+| [August 29 at 9:56 PM](https://archive.org/download/sdut-2022/sdut-2022-08-29T21:56:00.916049-07:00.accessibility.json) |
+| [August 29 at 11:30 AM](https://archive.org/download/sdut-2022/sdut-2022-08-29T11:30:48.229511-07:00.accessibility.json) |
+| [August 29 at 9:16 AM](https://archive.org/download/sdut-2022/sdut-2022-08-29T09:16:05.281054-07:00.accessibility.json) |
+| [August 28 at 9:41 PM](https://archive.org/download/sdut-2022/sdut-2022-08-28T21:41:00.849055-07:00.accessibility.json) |
+| [August 28 at 11:31 AM](https://archive.org/download/sdut-2022/sdut-2022-08-28T11:31:20.277745-07:00.accessibility.json) |
+| [August 28 at 9:02 AM](https://archive.org/download/sdut-2022/sdut-2022-08-28T09:01:48.198831-07:00.accessibility.json) |
+| [August 27 at 9:36 PM](https://archive.org/download/sdut-2022/sdut-2022-08-27T21:36:42.721834-07:00.accessibility.json) |
+| [August 27 at 11:40 AM](https://archive.org/download/sdut-2022/sdut-2022-08-27T11:40:30.764881-07:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 4:36 AM](https://archive.org/download/sdut-2022/sdut-2022-08-30T11:35:56.647735-07:00.lighthouse.json) |
-| [August 30 at 2:35 AM](https://archive.org/download/sdut-2022/sdut-2022-08-30T09:35:33.913493-07:00.lighthouse.json) |
-| [August 29 at 2:56 PM](https://archive.org/download/sdut-2022/sdut-2022-08-29T21:56:00.916049-07:00.lighthouse.json) |
-| [August 29 at 4:30 AM](https://archive.org/download/sdut-2022/sdut-2022-08-29T11:30:48.229511-07:00.lighthouse.json) |
-| [August 29 at 2:16 AM](https://archive.org/download/sdut-2022/sdut-2022-08-29T09:16:05.281054-07:00.lighthouse.json) |
-| [August 28 at 2:41 PM](https://archive.org/download/sdut-2022/sdut-2022-08-28T21:41:00.849055-07:00.lighthouse.json) |
-| [August 28 at 4:31 AM](https://archive.org/download/sdut-2022/sdut-2022-08-28T11:31:20.277745-07:00.lighthouse.json) |
-| [August 28 at 2:02 AM](https://archive.org/download/sdut-2022/sdut-2022-08-28T09:01:48.198831-07:00.lighthouse.json) |
-| [August 27 at 2:36 PM](https://archive.org/download/sdut-2022/sdut-2022-08-27T21:36:42.721834-07:00.lighthouse.json) |
-| [August 27 at 4:40 AM](https://archive.org/download/sdut-2022/sdut-2022-08-27T11:40:30.764881-07:00.lighthouse.json) |
+| [August 30 at 11:36 AM](https://archive.org/download/sdut-2022/sdut-2022-08-30T11:35:56.647735-07:00.lighthouse.json) |
+| [August 30 at 9:35 AM](https://archive.org/download/sdut-2022/sdut-2022-08-30T09:35:33.913493-07:00.lighthouse.json) |
+| [August 29 at 9:56 PM](https://archive.org/download/sdut-2022/sdut-2022-08-29T21:56:00.916049-07:00.lighthouse.json) |
+| [August 29 at 11:30 AM](https://archive.org/download/sdut-2022/sdut-2022-08-29T11:30:48.229511-07:00.lighthouse.json) |
+| [August 29 at 9:16 AM](https://archive.org/download/sdut-2022/sdut-2022-08-29T09:16:05.281054-07:00.lighthouse.json) |
+| [August 28 at 9:41 PM](https://archive.org/download/sdut-2022/sdut-2022-08-28T21:41:00.849055-07:00.lighthouse.json) |
+| [August 28 at 11:31 AM](https://archive.org/download/sdut-2022/sdut-2022-08-28T11:31:20.277745-07:00.lighthouse.json) |
+| [August 28 at 9:02 AM](https://archive.org/download/sdut-2022/sdut-2022-08-28T09:01:48.198831-07:00.lighthouse.json) |
+| [August 27 at 9:36 PM](https://archive.org/download/sdut-2022/sdut-2022-08-27T21:36:42.721834-07:00.lighthouse.json) |
+| [August 27 at 11:40 AM](https://archive.org/download/sdut-2022/sdut-2022-08-27T11:40:30.764881-07:00.lighthouse.json) |
 
 
 

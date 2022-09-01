@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-30T19:37:29.316747+03:00.jpg">
   <img src="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-30T19:37:29.316747+03:00.jpg"
-     alt="Ukrinform at 2022-08-30 12:37:38+03:00 local time"
+     alt="Ukrinform at 2022-08-30 19:37:38+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-30T19:37:29.316747+03:00.jpg">August 30 at 12:37 PM</a></p>
+ <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-30T19:37:29.316747+03:00.jpg">August 30 at 7:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-30T07:58:42.183029+03:00.jpg">
   <img src="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-30T07:58:42.183029+03:00.jpg"
-     alt="Ukrinform at 2022-08-30 00:58:43+03:00 local time"
+     alt="Ukrinform at 2022-08-30 07:58:43+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-30T07:58:42.183029+03:00.jpg">August 30 at 12:58 AM</a></p>
+ <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-30T07:58:42.183029+03:00.jpg">August 30 at 7:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-29T19:19:29.597727+03:00.jpg">
   <img src="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-29T19:19:29.597727+03:00.jpg"
-     alt="Ukrinform at 2022-08-29 12:19:31+03:00 local time"
+     alt="Ukrinform at 2022-08-29 19:19:31+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-29T19:19:29.597727+03:00.jpg">August 29 at 12:19 PM</a></p>
+ <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-29T19:19:29.597727+03:00.jpg">August 29 at 7:19 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-29T07:42:41.349292+03:00.jpg">
   <img src="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-29T07:42:41.349292+03:00.jpg"
-     alt="Ukrinform at 2022-08-29 00:42:42+03:00 local time"
+     alt="Ukrinform at 2022-08-29 07:42:42+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-29T07:42:41.349292+03:00.jpg">August 29 at 12:42 AM</a></p>
+ <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-29T07:42:41.349292+03:00.jpg">August 29 at 7:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-28T19:04:12.118858+03:00.jpg">
   <img src="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-28T19:04:12.118858+03:00.jpg"
-     alt="Ukrinform at 2022-08-28 12:04:13+03:00 local time"
+     alt="Ukrinform at 2022-08-28 19:04:13+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-28T19:04:12.118858+03:00.jpg">August 28 at 12:04 PM</a></p>
+ <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-28T19:04:12.118858+03:00.jpg">August 28 at 7:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-28T07:38:29.137398+03:00.jpg">
   <img src="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-28T07:38:29.137398+03:00.jpg"
-     alt="Ukrinform at 2022-08-28 00:38:30+03:00 local time"
+     alt="Ukrinform at 2022-08-28 07:38:30+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-28T07:38:29.137398+03:00.jpg">August 28 at 12:38 AM</a></p>
+ <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-28T07:38:29.137398+03:00.jpg">August 28 at 7:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-27T19:01:25.611586+03:00.jpg">
   <img src="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-27T19:01:25.611586+03:00.jpg"
-     alt="Ukrinform at 2022-08-27 12:01:37+03:00 local time"
+     alt="Ukrinform at 2022-08-27 19:01:37+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-27T19:01:25.611586+03:00.jpg">August 27 at 12:01 PM</a></p>
+ <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-27T19:01:25.611586+03:00.jpg">August 27 at 7:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-27T07:39:15.895912+03:00.jpg">
   <img src="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-27T07:39:15.895912+03:00.jpg"
-     alt="Ukrinform at 2022-08-27 00:39:17+03:00 local time"
+     alt="Ukrinform at 2022-08-27 07:39:17+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-27T07:39:15.895912+03:00.jpg">August 27 at 12:39 AM</a></p>
+ <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-27T07:39:15.895912+03:00.jpg">August 27 at 7:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-26T19:08:35.977706+03:00.jpg">
   <img src="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-26T19:08:35.977706+03:00.jpg"
-     alt="Ukrinform at 2022-08-26 12:08:52+03:00 local time"
+     alt="Ukrinform at 2022-08-26 19:08:52+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-26T19:08:35.977706+03:00.jpg">August 26 at 12:08 PM</a></p>
+ <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-26T19:08:35.977706+03:00.jpg">August 26 at 7:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-26T07:44:38.042845+03:00.jpg">
   <img src="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-26T07:44:38.042845+03:00.jpg"
-     alt="Ukrinform at 2022-08-26 00:44:40+03:00 local time"
+     alt="Ukrinform at 2022-08-26 07:44:40+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-26T07:44:38.042845+03:00.jpg">August 26 at 12:44 AM</a></p>
+ <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-26T07:44:38.042845+03:00.jpg">August 26 at 7:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-25T19:06:45.897970+03:00.jpg">
   <img src="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-25T19:06:45.897970+03:00.jpg"
-     alt="Ukrinform at 2022-08-25 12:06:54+03:00 local time"
+     alt="Ukrinform at 2022-08-25 19:06:54+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-25T19:06:45.897970+03:00.jpg">August 25 at 12:06 PM</a></p>
+ <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-25T19:06:45.897970+03:00.jpg">August 25 at 7:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-24T19:03:25.510436+03:00.jpg">
   <img src="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-24T19:03:25.510436+03:00.jpg"
-     alt="Ukrinform at 2022-08-24 12:03:35+03:00 local time"
+     alt="Ukrinform at 2022-08-24 19:03:35+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-24T19:03:25.510436+03:00.jpg">August 24 at 12:03 PM</a></p>
+ <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-24T19:03:25.510436+03:00.jpg">August 24 at 7:03 PM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 12:37 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-30T19:37:29.316747+03:00.hyperlinks.json) |
-| [August 30 at 12:58 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-30T07:58:42.183029+03:00.hyperlinks.json) |
-| [August 29 at 12:19 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-29T19:19:29.597727+03:00.hyperlinks.json) |
-| [August 29 at 12:42 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-29T07:42:41.349292+03:00.hyperlinks.json) |
-| [August 28 at 12:04 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-28T19:04:12.118858+03:00.hyperlinks.json) |
-| [August 28 at 12:38 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-28T07:38:29.137398+03:00.hyperlinks.json) |
-| [August 27 at 12:01 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-27T19:01:25.611586+03:00.hyperlinks.json) |
-| [August 27 at 12:39 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-27T07:39:15.895912+03:00.hyperlinks.json) |
-| [August 26 at 12:08 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-26T19:08:35.977706+03:00.hyperlinks.json) |
-| [August 26 at 12:44 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-26T07:44:38.042845+03:00.hyperlinks.json) |
+| [August 30 at 7:37 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-30T19:37:29.316747+03:00.hyperlinks.json) |
+| [August 30 at 7:58 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-30T07:58:42.183029+03:00.hyperlinks.json) |
+| [August 29 at 7:19 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-29T19:19:29.597727+03:00.hyperlinks.json) |
+| [August 29 at 7:42 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-29T07:42:41.349292+03:00.hyperlinks.json) |
+| [August 28 at 7:04 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-28T19:04:12.118858+03:00.hyperlinks.json) |
+| [August 28 at 7:38 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-28T07:38:29.137398+03:00.hyperlinks.json) |
+| [August 27 at 7:01 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-27T19:01:25.611586+03:00.hyperlinks.json) |
+| [August 27 at 7:39 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-27T07:39:15.895912+03:00.hyperlinks.json) |
+| [August 26 at 7:08 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-26T19:08:35.977706+03:00.hyperlinks.json) |
+| [August 26 at 7:44 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-26T07:44:38.042845+03:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 12:37 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-30T19:37:29.316747+03:00.accessibility.json) |
-| [August 30 at 12:58 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-30T07:58:42.183029+03:00.accessibility.json) |
-| [August 29 at 12:19 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-29T19:19:29.597727+03:00.accessibility.json) |
-| [August 29 at 12:42 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-29T07:42:41.349292+03:00.accessibility.json) |
-| [August 28 at 12:04 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-28T19:04:12.118858+03:00.accessibility.json) |
-| [August 28 at 12:38 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-28T07:38:29.137398+03:00.accessibility.json) |
-| [August 27 at 12:01 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-27T19:01:25.611586+03:00.accessibility.json) |
-| [August 27 at 12:39 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-27T07:39:15.895912+03:00.accessibility.json) |
-| [August 26 at 12:08 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-26T19:08:35.977706+03:00.accessibility.json) |
-| [August 26 at 12:44 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-26T07:44:38.042845+03:00.accessibility.json) |
+| [August 30 at 7:37 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-30T19:37:29.316747+03:00.accessibility.json) |
+| [August 30 at 7:58 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-30T07:58:42.183029+03:00.accessibility.json) |
+| [August 29 at 7:19 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-29T19:19:29.597727+03:00.accessibility.json) |
+| [August 29 at 7:42 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-29T07:42:41.349292+03:00.accessibility.json) |
+| [August 28 at 7:04 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-28T19:04:12.118858+03:00.accessibility.json) |
+| [August 28 at 7:38 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-28T07:38:29.137398+03:00.accessibility.json) |
+| [August 27 at 7:01 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-27T19:01:25.611586+03:00.accessibility.json) |
+| [August 27 at 7:39 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-27T07:39:15.895912+03:00.accessibility.json) |
+| [August 26 at 7:08 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-26T19:08:35.977706+03:00.accessibility.json) |
+| [August 26 at 7:44 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-26T07:44:38.042845+03:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 12:37 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-30T19:37:29.316747+03:00.lighthouse.json) |
-| [August 30 at 12:58 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-30T07:58:42.183029+03:00.lighthouse.json) |
-| [August 29 at 12:19 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-29T19:19:29.597727+03:00.lighthouse.json) |
-| [August 29 at 12:42 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-29T07:42:41.349292+03:00.lighthouse.json) |
-| [August 28 at 12:04 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-28T19:04:12.118858+03:00.lighthouse.json) |
-| [August 28 at 12:38 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-28T07:38:29.137398+03:00.lighthouse.json) |
-| [August 27 at 12:01 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-27T19:01:25.611586+03:00.lighthouse.json) |
-| [August 27 at 12:39 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-27T07:39:15.895912+03:00.lighthouse.json) |
-| [August 26 at 12:08 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-26T19:08:35.977706+03:00.lighthouse.json) |
-| [August 26 at 12:44 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-26T07:44:38.042845+03:00.lighthouse.json) |
+| [August 30 at 7:37 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-30T19:37:29.316747+03:00.lighthouse.json) |
+| [August 30 at 7:58 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-30T07:58:42.183029+03:00.lighthouse.json) |
+| [August 29 at 7:19 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-29T19:19:29.597727+03:00.lighthouse.json) |
+| [August 29 at 7:42 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-29T07:42:41.349292+03:00.lighthouse.json) |
+| [August 28 at 7:04 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-28T19:04:12.118858+03:00.lighthouse.json) |
+| [August 28 at 7:38 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-28T07:38:29.137398+03:00.lighthouse.json) |
+| [August 27 at 7:01 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-27T19:01:25.611586+03:00.lighthouse.json) |
+| [August 27 at 7:39 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-27T07:39:15.895912+03:00.lighthouse.json) |
+| [August 26 at 7:08 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-26T19:08:35.977706+03:00.lighthouse.json) |
+| [August 26 at 7:44 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-26T07:44:38.042845+03:00.lighthouse.json) |
 
 
 

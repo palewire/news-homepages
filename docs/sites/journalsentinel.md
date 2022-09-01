@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-30T10:34:24.030559-05:00.jpg">
   <img src="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-30T10:34:24.030559-05:00.jpg"
-     alt="Milwaukee Journal Sentinel at 2022-08-30 03:34:31-05:00 local time"
+     alt="Milwaukee Journal Sentinel at 2022-08-30 10:34:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-30T10:34:24.030559-05:00.jpg">August 30 at 3:34 AM</a></p>
+ <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-30T10:34:24.030559-05:00.jpg">August 30 at 10:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-29T22:53:59.750424-05:00.jpg">
   <img src="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-29T22:53:59.750424-05:00.jpg"
-     alt="Milwaukee Journal Sentinel at 2022-08-29 15:54:02-05:00 local time"
+     alt="Milwaukee Journal Sentinel at 2022-08-29 22:54:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-29T22:53:59.750424-05:00.jpg">August 29 at 3:54 PM</a></p>
+ <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-29T22:53:59.750424-05:00.jpg">August 29 at 10:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-29T10:08:25.666609-05:00.jpg">
   <img src="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-29T10:08:25.666609-05:00.jpg"
-     alt="Milwaukee Journal Sentinel at 2022-08-29 03:08:34-05:00 local time"
+     alt="Milwaukee Journal Sentinel at 2022-08-29 10:08:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-29T10:08:25.666609-05:00.jpg">August 29 at 3:08 AM</a></p>
+ <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-29T10:08:25.666609-05:00.jpg">August 29 at 10:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-28T22:44:26.880722-05:00.jpg">
   <img src="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-28T22:44:26.880722-05:00.jpg"
-     alt="Milwaukee Journal Sentinel at 2022-08-28 15:44:33-05:00 local time"
+     alt="Milwaukee Journal Sentinel at 2022-08-28 22:44:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-28T22:44:26.880722-05:00.jpg">August 28 at 3:44 PM</a></p>
+ <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-28T22:44:26.880722-05:00.jpg">August 28 at 10:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-28T09:56:34.214117-05:00.jpg">
   <img src="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-28T09:56:34.214117-05:00.jpg"
-     alt="Milwaukee Journal Sentinel at 2022-08-28 02:56:40-05:00 local time"
+     alt="Milwaukee Journal Sentinel at 2022-08-28 09:56:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-28T09:56:34.214117-05:00.jpg">August 28 at 2:56 AM</a></p>
+ <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-28T09:56:34.214117-05:00.jpg">August 28 at 9:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-27T22:41:20.031545-05:00.jpg">
   <img src="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-27T22:41:20.031545-05:00.jpg"
-     alt="Milwaukee Journal Sentinel at 2022-08-27 15:41:26-05:00 local time"
+     alt="Milwaukee Journal Sentinel at 2022-08-27 22:41:26-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-27T22:41:20.031545-05:00.jpg">August 27 at 3:41 PM</a></p>
+ <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-27T22:41:20.031545-05:00.jpg">August 27 at 10:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-27T09:51:10.922729-05:00.jpg">
   <img src="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-27T09:51:10.922729-05:00.jpg"
-     alt="Milwaukee Journal Sentinel at 2022-08-27 02:51:22-05:00 local time"
+     alt="Milwaukee Journal Sentinel at 2022-08-27 09:51:22-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-27T09:51:10.922729-05:00.jpg">August 27 at 2:51 AM</a></p>
+ <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-27T09:51:10.922729-05:00.jpg">August 27 at 9:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-26T22:37:24.275383-05:00.jpg">
   <img src="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-26T22:37:24.275383-05:00.jpg"
-     alt="Milwaukee Journal Sentinel at 2022-08-26 15:37:36-05:00 local time"
+     alt="Milwaukee Journal Sentinel at 2022-08-26 22:37:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-26T22:37:24.275383-05:00.jpg">August 26 at 3:37 PM</a></p>
+ <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-26T22:37:24.275383-05:00.jpg">August 26 at 10:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-26T09:59:51.065248-05:00.jpg">
   <img src="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-26T09:59:51.065248-05:00.jpg"
-     alt="Milwaukee Journal Sentinel at 2022-08-26 02:59:56-05:00 local time"
+     alt="Milwaukee Journal Sentinel at 2022-08-26 09:59:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-26T09:59:51.065248-05:00.jpg">August 26 at 2:59 AM</a></p>
+ <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-26T09:59:51.065248-05:00.jpg">August 26 at 9:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-25T22:44:58.254422-05:00.jpg">
   <img src="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-25T22:44:58.254422-05:00.jpg"
-     alt="Milwaukee Journal Sentinel at 2022-08-25 15:44:59-05:00 local time"
+     alt="Milwaukee Journal Sentinel at 2022-08-25 22:44:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-25T22:44:58.254422-05:00.jpg">August 25 at 3:44 PM</a></p>
+ <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-25T22:44:58.254422-05:00.jpg">August 25 at 10:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-25T10:01:18.855561-05:00.jpg">
   <img src="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-25T10:01:18.855561-05:00.jpg"
-     alt="Milwaukee Journal Sentinel at 2022-08-25 03:01:30-05:00 local time"
+     alt="Milwaukee Journal Sentinel at 2022-08-25 10:01:30-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-25T10:01:18.855561-05:00.jpg">August 25 at 3:01 AM</a></p>
+ <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-25T10:01:18.855561-05:00.jpg">August 25 at 10:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-24T10:01:26.312639-05:00.jpg">
   <img src="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-24T10:01:26.312639-05:00.jpg"
-     alt="Milwaukee Journal Sentinel at 2022-08-24 03:01:45-05:00 local time"
+     alt="Milwaukee Journal Sentinel at 2022-08-24 10:01:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-24T10:01:26.312639-05:00.jpg">August 24 at 3:01 AM</a></p>
+ <p><a href="https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-24T10:01:26.312639-05:00.jpg">August 24 at 10:01 AM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 3:34 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-30T10:34:24.030559-05:00.hyperlinks.json) |
-| [August 29 at 3:54 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-29T22:53:59.750424-05:00.hyperlinks.json) |
-| [August 29 at 3:08 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-29T10:08:25.666609-05:00.hyperlinks.json) |
-| [August 28 at 3:44 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-28T22:44:26.880722-05:00.hyperlinks.json) |
-| [August 28 at 2:56 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-28T09:56:34.214117-05:00.hyperlinks.json) |
-| [August 27 at 3:41 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-27T22:41:20.031545-05:00.hyperlinks.json) |
-| [August 27 at 2:51 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-27T09:51:10.922729-05:00.hyperlinks.json) |
-| [August 26 at 3:37 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-26T22:37:24.275383-05:00.hyperlinks.json) |
-| [August 26 at 2:59 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-26T09:59:51.065248-05:00.hyperlinks.json) |
-| [August 25 at 3:45 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-25T22:44:58.254422-05:00.hyperlinks.json) |
+| [August 30 at 10:34 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-30T10:34:24.030559-05:00.hyperlinks.json) |
+| [August 29 at 10:54 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-29T22:53:59.750424-05:00.hyperlinks.json) |
+| [August 29 at 10:08 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-29T10:08:25.666609-05:00.hyperlinks.json) |
+| [August 28 at 10:44 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-28T22:44:26.880722-05:00.hyperlinks.json) |
+| [August 28 at 9:56 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-28T09:56:34.214117-05:00.hyperlinks.json) |
+| [August 27 at 10:41 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-27T22:41:20.031545-05:00.hyperlinks.json) |
+| [August 27 at 9:51 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-27T09:51:10.922729-05:00.hyperlinks.json) |
+| [August 26 at 10:37 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-26T22:37:24.275383-05:00.hyperlinks.json) |
+| [August 26 at 9:59 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-26T09:59:51.065248-05:00.hyperlinks.json) |
+| [August 25 at 10:45 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-25T22:44:58.254422-05:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 3:34 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-30T10:34:24.030559-05:00.accessibility.json) |
-| [August 29 at 3:54 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-29T22:53:59.750424-05:00.accessibility.json) |
-| [August 29 at 3:08 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-29T10:08:25.666609-05:00.accessibility.json) |
-| [August 28 at 3:44 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-28T22:44:26.880722-05:00.accessibility.json) |
-| [August 28 at 2:56 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-28T09:56:34.214117-05:00.accessibility.json) |
-| [August 27 at 3:41 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-27T22:41:20.031545-05:00.accessibility.json) |
-| [August 27 at 2:51 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-27T09:51:10.922729-05:00.accessibility.json) |
-| [August 26 at 3:37 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-26T22:37:24.275383-05:00.accessibility.json) |
-| [August 26 at 2:59 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-26T09:59:51.065248-05:00.accessibility.json) |
-| [August 25 at 3:45 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-25T22:44:58.254422-05:00.accessibility.json) |
+| [August 30 at 10:34 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-30T10:34:24.030559-05:00.accessibility.json) |
+| [August 29 at 10:54 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-29T22:53:59.750424-05:00.accessibility.json) |
+| [August 29 at 10:08 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-29T10:08:25.666609-05:00.accessibility.json) |
+| [August 28 at 10:44 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-28T22:44:26.880722-05:00.accessibility.json) |
+| [August 28 at 9:56 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-28T09:56:34.214117-05:00.accessibility.json) |
+| [August 27 at 10:41 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-27T22:41:20.031545-05:00.accessibility.json) |
+| [August 27 at 9:51 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-27T09:51:10.922729-05:00.accessibility.json) |
+| [August 26 at 10:37 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-26T22:37:24.275383-05:00.accessibility.json) |
+| [August 26 at 9:59 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-26T09:59:51.065248-05:00.accessibility.json) |
+| [August 25 at 10:45 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-25T22:44:58.254422-05:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 3:34 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-30T10:34:24.030559-05:00.lighthouse.json) |
-| [August 29 at 3:54 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-29T22:53:59.750424-05:00.lighthouse.json) |
-| [August 29 at 3:08 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-29T10:08:25.666609-05:00.lighthouse.json) |
-| [August 28 at 3:44 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-28T22:44:26.880722-05:00.lighthouse.json) |
-| [August 28 at 2:56 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-28T09:56:34.214117-05:00.lighthouse.json) |
-| [August 27 at 3:41 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-27T22:41:20.031545-05:00.lighthouse.json) |
-| [August 27 at 2:51 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-27T09:51:10.922729-05:00.lighthouse.json) |
-| [August 26 at 3:37 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-26T22:37:24.275383-05:00.lighthouse.json) |
-| [August 26 at 3:00 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-26T09:59:51.065248-05:00.lighthouse.json) |
-| [August 25 at 3:45 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-25T22:44:58.254422-05:00.lighthouse.json) |
+| [August 30 at 10:34 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-30T10:34:24.030559-05:00.lighthouse.json) |
+| [August 29 at 10:54 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-29T22:53:59.750424-05:00.lighthouse.json) |
+| [August 29 at 10:08 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-29T10:08:25.666609-05:00.lighthouse.json) |
+| [August 28 at 10:44 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-28T22:44:26.880722-05:00.lighthouse.json) |
+| [August 28 at 9:56 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-28T09:56:34.214117-05:00.lighthouse.json) |
+| [August 27 at 10:41 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-27T22:41:20.031545-05:00.lighthouse.json) |
+| [August 27 at 9:51 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-27T09:51:10.922729-05:00.lighthouse.json) |
+| [August 26 at 10:37 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-26T22:37:24.275383-05:00.lighthouse.json) |
+| [August 26 at 10:00 AM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-26T09:59:51.065248-05:00.lighthouse.json) |
+| [August 25 at 10:45 PM](https://archive.org/download/journalsentinel-2022/journalsentinel-2022-08-25T22:44:58.254422-05:00.lighthouse.json) |
 
 
 

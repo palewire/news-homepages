@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-30T10:36:34.023303-05:00.jpg">
   <img src="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-30T10:36:34.023303-05:00.jpg"
-     alt="Midland Reporter-Telegram at 2022-08-30 03:36:35-05:00 local time"
+     alt="Midland Reporter-Telegram at 2022-08-30 10:36:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-30T10:36:34.023303-05:00.jpg">August 30 at 3:36 AM</a></p>
+ <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-30T10:36:34.023303-05:00.jpg">August 30 at 10:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-29T22:55:58.050665-05:00.jpg">
   <img src="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-29T22:55:58.050665-05:00.jpg"
-     alt="Midland Reporter-Telegram at 2022-08-29 15:56:02-05:00 local time"
+     alt="Midland Reporter-Telegram at 2022-08-29 22:56:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-29T22:55:58.050665-05:00.jpg">August 29 at 3:56 PM</a></p>
+ <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-29T22:55:58.050665-05:00.jpg">August 29 at 10:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-29T10:12:51.591686-05:00.jpg">
   <img src="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-29T10:12:51.591686-05:00.jpg"
-     alt="Midland Reporter-Telegram at 2022-08-29 03:12:54-05:00 local time"
+     alt="Midland Reporter-Telegram at 2022-08-29 10:12:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-29T10:12:51.591686-05:00.jpg">August 29 at 3:12 AM</a></p>
+ <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-29T10:12:51.591686-05:00.jpg">August 29 at 10:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-28T22:46:28.554085-05:00.jpg">
   <img src="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-28T22:46:28.554085-05:00.jpg"
-     alt="Midland Reporter-Telegram at 2022-08-28 15:46:30-05:00 local time"
+     alt="Midland Reporter-Telegram at 2022-08-28 22:46:30-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-28T22:46:28.554085-05:00.jpg">August 28 at 3:46 PM</a></p>
+ <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-28T22:46:28.554085-05:00.jpg">August 28 at 10:46 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-28T09:59:10.754289-05:00.jpg">
   <img src="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-28T09:59:10.754289-05:00.jpg"
-     alt="Midland Reporter-Telegram at 2022-08-28 02:59:11-05:00 local time"
+     alt="Midland Reporter-Telegram at 2022-08-28 09:59:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-28T09:59:10.754289-05:00.jpg">August 28 at 2:59 AM</a></p>
+ <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-28T09:59:10.754289-05:00.jpg">August 28 at 9:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-27T22:43:52.920014-05:00.jpg">
   <img src="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-27T22:43:52.920014-05:00.jpg"
-     alt="Midland Reporter-Telegram at 2022-08-27 15:43:54-05:00 local time"
+     alt="Midland Reporter-Telegram at 2022-08-27 22:43:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-27T22:43:52.920014-05:00.jpg">August 27 at 3:43 PM</a></p>
+ <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-27T22:43:52.920014-05:00.jpg">August 27 at 10:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-27T09:53:44.581940-05:00.jpg">
   <img src="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-27T09:53:44.581940-05:00.jpg"
-     alt="Midland Reporter-Telegram at 2022-08-27 02:53:49-05:00 local time"
+     alt="Midland Reporter-Telegram at 2022-08-27 09:53:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-27T09:53:44.581940-05:00.jpg">August 27 at 2:53 AM</a></p>
+ <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-27T09:53:44.581940-05:00.jpg">August 27 at 9:53 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-26T22:39:57.931625-05:00.jpg">
   <img src="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-26T22:39:57.931625-05:00.jpg"
-     alt="Midland Reporter-Telegram at 2022-08-26 15:39:59-05:00 local time"
+     alt="Midland Reporter-Telegram at 2022-08-26 22:39:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-26T22:39:57.931625-05:00.jpg">August 26 at 3:39 PM</a></p>
+ <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-26T22:39:57.931625-05:00.jpg">August 26 at 10:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-26T10:02:23.061447-05:00.jpg">
   <img src="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-26T10:02:23.061447-05:00.jpg"
-     alt="Midland Reporter-Telegram at 2022-08-26 03:02:24-05:00 local time"
+     alt="Midland Reporter-Telegram at 2022-08-26 10:02:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-26T10:02:23.061447-05:00.jpg">August 26 at 3:02 AM</a></p>
+ <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-26T10:02:23.061447-05:00.jpg">August 26 at 10:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-25T22:46:51.980310-05:00.jpg">
   <img src="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-25T22:46:51.980310-05:00.jpg"
-     alt="Midland Reporter-Telegram at 2022-08-25 15:46:53-05:00 local time"
+     alt="Midland Reporter-Telegram at 2022-08-25 22:46:53-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-25T22:46:51.980310-05:00.jpg">August 25 at 3:46 PM</a></p>
+ <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-25T22:46:51.980310-05:00.jpg">August 25 at 10:46 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-25T10:04:03.709858-05:00.jpg">
   <img src="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-25T10:04:03.709858-05:00.jpg"
-     alt="Midland Reporter-Telegram at 2022-08-25 03:04:07-05:00 local time"
+     alt="Midland Reporter-Telegram at 2022-08-25 10:04:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-25T10:04:03.709858-05:00.jpg">August 25 at 3:04 AM</a></p>
+ <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-25T10:04:03.709858-05:00.jpg">August 25 at 10:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-24T10:04:20.689190-05:00.jpg">
   <img src="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-24T10:04:20.689190-05:00.jpg"
-     alt="Midland Reporter-Telegram at 2022-08-24 03:04:21-05:00 local time"
+     alt="Midland Reporter-Telegram at 2022-08-24 10:04:21-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-24T10:04:20.689190-05:00.jpg">August 24 at 3:04 AM</a></p>
+ <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-24T10:04:20.689190-05:00.jpg">August 24 at 10:04 AM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 3:36 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-30T10:36:34.023303-05:00.hyperlinks.json) |
-| [August 29 at 3:56 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-29T22:55:58.050665-05:00.hyperlinks.json) |
-| [August 29 at 3:12 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-29T10:12:51.591686-05:00.hyperlinks.json) |
-| [August 28 at 3:46 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-28T22:46:28.554085-05:00.hyperlinks.json) |
-| [August 28 at 2:59 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-28T09:59:10.754289-05:00.hyperlinks.json) |
-| [August 27 at 3:43 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-27T22:43:52.920014-05:00.hyperlinks.json) |
-| [August 27 at 2:53 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-27T09:53:44.581940-05:00.hyperlinks.json) |
-| [August 26 at 3:40 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-26T22:39:57.931625-05:00.hyperlinks.json) |
-| [August 26 at 3:02 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-26T10:02:23.061447-05:00.hyperlinks.json) |
-| [August 25 at 3:46 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-25T22:46:51.980310-05:00.hyperlinks.json) |
+| [August 30 at 10:36 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-30T10:36:34.023303-05:00.hyperlinks.json) |
+| [August 29 at 10:56 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-29T22:55:58.050665-05:00.hyperlinks.json) |
+| [August 29 at 10:12 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-29T10:12:51.591686-05:00.hyperlinks.json) |
+| [August 28 at 10:46 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-28T22:46:28.554085-05:00.hyperlinks.json) |
+| [August 28 at 9:59 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-28T09:59:10.754289-05:00.hyperlinks.json) |
+| [August 27 at 10:43 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-27T22:43:52.920014-05:00.hyperlinks.json) |
+| [August 27 at 9:53 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-27T09:53:44.581940-05:00.hyperlinks.json) |
+| [August 26 at 10:40 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-26T22:39:57.931625-05:00.hyperlinks.json) |
+| [August 26 at 10:02 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-26T10:02:23.061447-05:00.hyperlinks.json) |
+| [August 25 at 10:46 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-25T22:46:51.980310-05:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 3:36 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-30T10:36:34.023303-05:00.accessibility.json) |
-| [August 29 at 3:56 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-29T22:55:58.050665-05:00.accessibility.json) |
-| [August 29 at 3:12 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-29T10:12:51.591686-05:00.accessibility.json) |
-| [August 28 at 3:46 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-28T22:46:28.554085-05:00.accessibility.json) |
-| [August 28 at 2:59 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-28T09:59:10.754289-05:00.accessibility.json) |
-| [August 27 at 3:43 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-27T22:43:52.920014-05:00.accessibility.json) |
-| [August 27 at 2:53 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-27T09:53:44.581940-05:00.accessibility.json) |
-| [August 26 at 3:40 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-26T22:39:57.931625-05:00.accessibility.json) |
-| [August 26 at 3:02 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-26T10:02:23.061447-05:00.accessibility.json) |
-| [August 25 at 3:46 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-25T22:46:51.980310-05:00.accessibility.json) |
+| [August 30 at 10:36 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-30T10:36:34.023303-05:00.accessibility.json) |
+| [August 29 at 10:56 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-29T22:55:58.050665-05:00.accessibility.json) |
+| [August 29 at 10:12 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-29T10:12:51.591686-05:00.accessibility.json) |
+| [August 28 at 10:46 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-28T22:46:28.554085-05:00.accessibility.json) |
+| [August 28 at 9:59 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-28T09:59:10.754289-05:00.accessibility.json) |
+| [August 27 at 10:43 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-27T22:43:52.920014-05:00.accessibility.json) |
+| [August 27 at 9:53 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-27T09:53:44.581940-05:00.accessibility.json) |
+| [August 26 at 10:40 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-26T22:39:57.931625-05:00.accessibility.json) |
+| [August 26 at 10:02 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-26T10:02:23.061447-05:00.accessibility.json) |
+| [August 25 at 10:46 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-25T22:46:51.980310-05:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 3:36 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-30T10:36:34.023303-05:00.lighthouse.json) |
-| [August 29 at 3:56 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-29T22:55:58.050665-05:00.lighthouse.json) |
-| [August 29 at 3:12 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-29T10:12:51.591686-05:00.lighthouse.json) |
-| [August 28 at 3:46 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-28T22:46:28.554085-05:00.lighthouse.json) |
-| [August 28 at 2:59 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-28T09:59:10.754289-05:00.lighthouse.json) |
-| [August 27 at 3:43 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-27T22:43:52.920014-05:00.lighthouse.json) |
-| [August 27 at 2:53 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-27T09:53:44.581940-05:00.lighthouse.json) |
-| [August 26 at 3:40 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-26T22:39:57.931625-05:00.lighthouse.json) |
-| [August 26 at 3:02 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-26T10:02:23.061447-05:00.lighthouse.json) |
-| [August 25 at 3:46 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-25T22:46:51.980310-05:00.lighthouse.json) |
+| [August 30 at 10:36 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-30T10:36:34.023303-05:00.lighthouse.json) |
+| [August 29 at 10:56 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-29T22:55:58.050665-05:00.lighthouse.json) |
+| [August 29 at 10:12 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-29T10:12:51.591686-05:00.lighthouse.json) |
+| [August 28 at 10:46 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-28T22:46:28.554085-05:00.lighthouse.json) |
+| [August 28 at 9:59 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-28T09:59:10.754289-05:00.lighthouse.json) |
+| [August 27 at 10:43 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-27T22:43:52.920014-05:00.lighthouse.json) |
+| [August 27 at 9:53 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-27T09:53:44.581940-05:00.lighthouse.json) |
+| [August 26 at 10:40 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-26T22:39:57.931625-05:00.lighthouse.json) |
+| [August 26 at 10:02 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-26T10:02:23.061447-05:00.lighthouse.json) |
+| [August 25 at 10:46 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-25T22:46:51.980310-05:00.lighthouse.json) |
 
 
 

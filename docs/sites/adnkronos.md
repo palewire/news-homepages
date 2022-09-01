@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-31T00:58:41.019550+02:00.jpg">
   <img src="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-31T00:58:41.019550+02:00.jpg"
-     alt="Adnkronos at 2022-08-30 17:58:48+02:00 local time"
+     alt="Adnkronos at 2022-08-31 00:58:48+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-31T00:58:41.019550+02:00.jpg">August 30 at 5:58 PM</a></p>
+ <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-31T00:58:41.019550+02:00.jpg">August 31 at 12:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-30T12:59:04.125747+02:00.jpg">
   <img src="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-30T12:59:04.125747+02:00.jpg"
-     alt="Adnkronos at 2022-08-30 05:59:07+02:00 local time"
+     alt="Adnkronos at 2022-08-30 12:59:07+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-30T12:59:04.125747+02:00.jpg">August 30 at 5:59 AM</a></p>
+ <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-30T12:59:04.125747+02:00.jpg">August 30 at 12:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-30T00:55:05.655011+02:00.jpg">
   <img src="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-30T00:55:05.655011+02:00.jpg"
-     alt="Adnkronos at 2022-08-29 17:55:13+02:00 local time"
+     alt="Adnkronos at 2022-08-30 00:55:13+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-30T00:55:05.655011+02:00.jpg">August 29 at 5:55 PM</a></p>
+ <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-30T00:55:05.655011+02:00.jpg">August 30 at 12:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-29T12:52:05.281312+02:00.jpg">
   <img src="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-29T12:52:05.281312+02:00.jpg"
-     alt="Adnkronos at 2022-08-29 05:52:06+02:00 local time"
+     alt="Adnkronos at 2022-08-29 12:52:06+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-29T12:52:05.281312+02:00.jpg">August 29 at 5:52 AM</a></p>
+ <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-29T12:52:05.281312+02:00.jpg">August 29 at 12:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-29T00:49:34.362887+02:00.jpg">
   <img src="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-29T00:49:34.362887+02:00.jpg"
-     alt="Adnkronos at 2022-08-28 17:49:37+02:00 local time"
+     alt="Adnkronos at 2022-08-29 00:49:37+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-29T00:49:34.362887+02:00.jpg">August 28 at 5:49 PM</a></p>
+ <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-29T00:49:34.362887+02:00.jpg">August 29 at 12:49 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-28T12:52:21.119726+02:00.jpg">
   <img src="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-28T12:52:21.119726+02:00.jpg"
-     alt="Adnkronos at 2022-08-28 05:52:22+02:00 local time"
+     alt="Adnkronos at 2022-08-28 12:52:22+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-28T12:52:21.119726+02:00.jpg">August 28 at 5:52 AM</a></p>
+ <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-28T12:52:21.119726+02:00.jpg">August 28 at 12:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-28T00:51:55.894511+02:00.jpg">
   <img src="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-28T00:51:55.894511+02:00.jpg"
-     alt="Adnkronos at 2022-08-27 17:51:59+02:00 local time"
+     alt="Adnkronos at 2022-08-28 00:51:59+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-28T00:51:55.894511+02:00.jpg">August 27 at 5:51 PM</a></p>
+ <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-28T00:51:55.894511+02:00.jpg">August 28 at 12:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-27T12:46:18.582247+02:00.jpg">
   <img src="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-27T12:46:18.582247+02:00.jpg"
-     alt="Adnkronos at 2022-08-27 05:46:22+02:00 local time"
+     alt="Adnkronos at 2022-08-27 12:46:22+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-27T12:46:18.582247+02:00.jpg">August 27 at 5:46 AM</a></p>
+ <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-27T12:46:18.582247+02:00.jpg">August 27 at 12:46 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-27T00:49:00.090782+02:00.jpg">
   <img src="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-27T00:49:00.090782+02:00.jpg"
-     alt="Adnkronos at 2022-08-26 17:49:03+02:00 local time"
+     alt="Adnkronos at 2022-08-27 00:49:03+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-27T00:49:00.090782+02:00.jpg">August 26 at 5:49 PM</a></p>
+ <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-27T00:49:00.090782+02:00.jpg">August 27 at 12:49 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-26T12:48:44.946032+02:00.jpg">
   <img src="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-26T12:48:44.946032+02:00.jpg"
-     alt="Adnkronos at 2022-08-26 05:48:48+02:00 local time"
+     alt="Adnkronos at 2022-08-26 12:48:48+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-26T12:48:44.946032+02:00.jpg">August 26 at 5:48 AM</a></p>
+ <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-26T12:48:44.946032+02:00.jpg">August 26 at 12:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-26T00:50:06.881620+02:00.jpg">
   <img src="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-26T00:50:06.881620+02:00.jpg"
-     alt="Adnkronos at 2022-08-25 17:50:08+02:00 local time"
+     alt="Adnkronos at 2022-08-26 00:50:08+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-26T00:50:06.881620+02:00.jpg">August 25 at 5:50 PM</a></p>
+ <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-26T00:50:06.881620+02:00.jpg">August 26 at 12:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-25T12:52:35.341320+02:00.jpg">
   <img src="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-25T12:52:35.341320+02:00.jpg"
-     alt="Adnkronos at 2022-08-25 05:52:37+02:00 local time"
+     alt="Adnkronos at 2022-08-25 12:52:37+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-25T12:52:35.341320+02:00.jpg">August 25 at 5:52 AM</a></p>
+ <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-25T12:52:35.341320+02:00.jpg">August 25 at 12:52 PM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 5:58 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-31T00:58:41.019550+02:00.hyperlinks.json) |
-| [August 30 at 5:59 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-30T12:59:04.125747+02:00.hyperlinks.json) |
-| [August 29 at 5:55 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-30T00:55:05.655011+02:00.hyperlinks.json) |
-| [August 29 at 5:52 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-29T12:52:05.281312+02:00.hyperlinks.json) |
-| [August 28 at 5:49 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-29T00:49:34.362887+02:00.hyperlinks.json) |
-| [August 28 at 5:52 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-28T12:52:21.119726+02:00.hyperlinks.json) |
-| [August 27 at 5:52 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-28T00:51:55.894511+02:00.hyperlinks.json) |
-| [August 27 at 5:46 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-27T12:46:18.582247+02:00.hyperlinks.json) |
-| [August 26 at 5:49 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-27T00:49:00.090782+02:00.hyperlinks.json) |
-| [August 26 at 5:48 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-26T12:48:44.946032+02:00.hyperlinks.json) |
+| [August 31 at 12:58 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-31T00:58:41.019550+02:00.hyperlinks.json) |
+| [August 30 at 12:59 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-30T12:59:04.125747+02:00.hyperlinks.json) |
+| [August 30 at 12:55 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-30T00:55:05.655011+02:00.hyperlinks.json) |
+| [August 29 at 12:52 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-29T12:52:05.281312+02:00.hyperlinks.json) |
+| [August 29 at 12:49 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-29T00:49:34.362887+02:00.hyperlinks.json) |
+| [August 28 at 12:52 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-28T12:52:21.119726+02:00.hyperlinks.json) |
+| [August 28 at 12:52 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-28T00:51:55.894511+02:00.hyperlinks.json) |
+| [August 27 at 12:46 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-27T12:46:18.582247+02:00.hyperlinks.json) |
+| [August 27 at 12:49 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-27T00:49:00.090782+02:00.hyperlinks.json) |
+| [August 26 at 12:48 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-26T12:48:44.946032+02:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 5:58 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-31T00:58:41.019550+02:00.accessibility.json) |
-| [August 30 at 5:59 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-30T12:59:04.125747+02:00.accessibility.json) |
-| [August 29 at 5:55 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-30T00:55:05.655011+02:00.accessibility.json) |
-| [August 29 at 5:52 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-29T12:52:05.281312+02:00.accessibility.json) |
-| [August 28 at 5:49 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-29T00:49:34.362887+02:00.accessibility.json) |
-| [August 28 at 5:52 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-28T12:52:21.119726+02:00.accessibility.json) |
-| [August 27 at 5:52 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-28T00:51:55.894511+02:00.accessibility.json) |
-| [August 27 at 5:46 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-27T12:46:18.582247+02:00.accessibility.json) |
-| [August 26 at 5:49 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-27T00:49:00.090782+02:00.accessibility.json) |
-| [August 26 at 5:48 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-26T12:48:44.946032+02:00.accessibility.json) |
+| [August 31 at 12:58 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-31T00:58:41.019550+02:00.accessibility.json) |
+| [August 30 at 12:59 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-30T12:59:04.125747+02:00.accessibility.json) |
+| [August 30 at 12:55 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-30T00:55:05.655011+02:00.accessibility.json) |
+| [August 29 at 12:52 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-29T12:52:05.281312+02:00.accessibility.json) |
+| [August 29 at 12:49 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-29T00:49:34.362887+02:00.accessibility.json) |
+| [August 28 at 12:52 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-28T12:52:21.119726+02:00.accessibility.json) |
+| [August 28 at 12:52 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-28T00:51:55.894511+02:00.accessibility.json) |
+| [August 27 at 12:46 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-27T12:46:18.582247+02:00.accessibility.json) |
+| [August 27 at 12:49 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-27T00:49:00.090782+02:00.accessibility.json) |
+| [August 26 at 12:48 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-26T12:48:44.946032+02:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 5:58 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-31T00:58:41.019550+02:00.lighthouse.json) |
-| [August 30 at 5:59 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-30T12:59:04.125747+02:00.lighthouse.json) |
-| [August 29 at 5:55 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-30T00:55:05.655011+02:00.lighthouse.json) |
-| [August 29 at 5:52 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-29T12:52:05.281312+02:00.lighthouse.json) |
-| [August 28 at 5:49 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-29T00:49:34.362887+02:00.lighthouse.json) |
-| [August 28 at 5:52 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-28T12:52:21.119726+02:00.lighthouse.json) |
-| [August 27 at 5:52 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-28T00:51:55.894511+02:00.lighthouse.json) |
-| [August 27 at 5:46 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-27T12:46:18.582247+02:00.lighthouse.json) |
-| [August 26 at 5:49 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-27T00:49:00.090782+02:00.lighthouse.json) |
-| [August 26 at 5:48 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-26T12:48:44.946032+02:00.lighthouse.json) |
+| [August 31 at 12:58 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-31T00:58:41.019550+02:00.lighthouse.json) |
+| [August 30 at 12:59 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-30T12:59:04.125747+02:00.lighthouse.json) |
+| [August 30 at 12:55 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-30T00:55:05.655011+02:00.lighthouse.json) |
+| [August 29 at 12:52 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-29T12:52:05.281312+02:00.lighthouse.json) |
+| [August 29 at 12:49 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-29T00:49:34.362887+02:00.lighthouse.json) |
+| [August 28 at 12:52 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-28T12:52:21.119726+02:00.lighthouse.json) |
+| [August 28 at 12:52 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-28T00:51:55.894511+02:00.lighthouse.json) |
+| [August 27 at 12:46 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-27T12:46:18.582247+02:00.lighthouse.json) |
+| [August 27 at 12:49 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-27T00:49:00.090782+02:00.lighthouse.json) |
+| [August 26 at 12:48 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-26T12:48:44.946032+02:00.lighthouse.json) |
 
 
 

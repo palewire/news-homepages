@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-30T12:35:04.681987-04:00.jpg">
   <img src="https://archive.org/download/statejournal-2022/statejournal-2022-08-30T12:35:04.681987-04:00.jpg"
-     alt="Frankfort State Journal at 2022-08-30 05:35:08-04:00 local time"
+     alt="Frankfort State Journal at 2022-08-30 12:35:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-30T12:35:04.681987-04:00.jpg">August 30 at 5:35 AM</a></p>
+ <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-30T12:35:04.681987-04:00.jpg">August 30 at 12:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-30T00:56:08.009009-04:00.jpg">
   <img src="https://archive.org/download/statejournal-2022/statejournal-2022-08-30T00:56:08.009009-04:00.jpg"
-     alt="Frankfort State Journal at 2022-08-29 17:56:14-04:00 local time"
+     alt="Frankfort State Journal at 2022-08-30 00:56:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-30T00:56:08.009009-04:00.jpg">August 29 at 5:56 PM</a></p>
+ <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-30T00:56:08.009009-04:00.jpg">August 30 at 12:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-29T12:17:45.752116-04:00.jpg">
   <img src="https://archive.org/download/statejournal-2022/statejournal-2022-08-29T12:17:45.752116-04:00.jpg"
-     alt="Frankfort State Journal at 2022-08-29 05:17:52-04:00 local time"
+     alt="Frankfort State Journal at 2022-08-29 12:17:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-29T12:17:45.752116-04:00.jpg">August 29 at 5:17 AM</a></p>
+ <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-29T12:17:45.752116-04:00.jpg">August 29 at 12:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-29T00:40:16.805163-04:00.jpg">
   <img src="https://archive.org/download/statejournal-2022/statejournal-2022-08-29T00:40:16.805163-04:00.jpg"
-     alt="Frankfort State Journal at 2022-08-28 17:40:19-04:00 local time"
+     alt="Frankfort State Journal at 2022-08-29 00:40:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-29T00:40:16.805163-04:00.jpg">August 28 at 5:40 PM</a></p>
+ <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-29T00:40:16.805163-04:00.jpg">August 29 at 12:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-28T12:02:36.836708-04:00.jpg">
   <img src="https://archive.org/download/statejournal-2022/statejournal-2022-08-28T12:02:36.836708-04:00.jpg"
-     alt="Frankfort State Journal at 2022-08-28 05:02:40-04:00 local time"
+     alt="Frankfort State Journal at 2022-08-28 12:02:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-28T12:02:36.836708-04:00.jpg">August 28 at 5:02 AM</a></p>
+ <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-28T12:02:36.836708-04:00.jpg">August 28 at 12:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-28T00:37:17.409943-04:00.jpg">
   <img src="https://archive.org/download/statejournal-2022/statejournal-2022-08-28T00:37:17.409943-04:00.jpg"
-     alt="Frankfort State Journal at 2022-08-27 17:37:20-04:00 local time"
+     alt="Frankfort State Journal at 2022-08-28 00:37:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-28T00:37:17.409943-04:00.jpg">August 27 at 5:37 PM</a></p>
+ <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-28T00:37:17.409943-04:00.jpg">August 28 at 12:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-27T11:58:39.407533-04:00.jpg">
   <img src="https://archive.org/download/statejournal-2022/statejournal-2022-08-27T11:58:39.407533-04:00.jpg"
-     alt="Frankfort State Journal at 2022-08-27 04:58:43-04:00 local time"
+     alt="Frankfort State Journal at 2022-08-27 11:58:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-27T11:58:39.407533-04:00.jpg">August 27 at 4:58 AM</a></p>
+ <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-27T11:58:39.407533-04:00.jpg">August 27 at 11:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-27T00:37:38.496157-04:00.jpg">
   <img src="https://archive.org/download/statejournal-2022/statejournal-2022-08-27T00:37:38.496157-04:00.jpg"
-     alt="Frankfort State Journal at 2022-08-26 17:37:42-04:00 local time"
+     alt="Frankfort State Journal at 2022-08-27 00:37:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-27T00:37:38.496157-04:00.jpg">August 26 at 5:37 PM</a></p>
+ <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-27T00:37:38.496157-04:00.jpg">August 27 at 12:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-26T12:06:20.740600-04:00.jpg">
   <img src="https://archive.org/download/statejournal-2022/statejournal-2022-08-26T12:06:20.740600-04:00.jpg"
-     alt="Frankfort State Journal at 2022-08-26 05:06:23-04:00 local time"
+     alt="Frankfort State Journal at 2022-08-26 12:06:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-26T12:06:20.740600-04:00.jpg">August 26 at 5:06 AM</a></p>
+ <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-26T12:06:20.740600-04:00.jpg">August 26 at 12:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-26T00:42:18.231410-04:00.jpg">
   <img src="https://archive.org/download/statejournal-2022/statejournal-2022-08-26T00:42:18.231410-04:00.jpg"
-     alt="Frankfort State Journal at 2022-08-25 17:42:21-04:00 local time"
+     alt="Frankfort State Journal at 2022-08-26 00:42:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-26T00:42:18.231410-04:00.jpg">August 25 at 5:42 PM</a></p>
+ <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-26T00:42:18.231410-04:00.jpg">August 26 at 12:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-25T12:03:59.623795-04:00.jpg">
   <img src="https://archive.org/download/statejournal-2022/statejournal-2022-08-25T12:03:59.623795-04:00.jpg"
-     alt="Frankfort State Journal at 2022-08-25 05:04:02-04:00 local time"
+     alt="Frankfort State Journal at 2022-08-25 12:04:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-25T12:03:59.623795-04:00.jpg">August 25 at 5:04 AM</a></p>
+ <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-25T12:03:59.623795-04:00.jpg">August 25 at 12:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-24T12:02:03.524683-04:00.jpg">
   <img src="https://archive.org/download/statejournal-2022/statejournal-2022-08-24T12:02:03.524683-04:00.jpg"
-     alt="Frankfort State Journal at 2022-08-24 05:02:06-04:00 local time"
+     alt="Frankfort State Journal at 2022-08-24 12:02:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-24T12:02:03.524683-04:00.jpg">August 24 at 5:02 AM</a></p>
+ <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-24T12:02:03.524683-04:00.jpg">August 24 at 12:02 PM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 5:35 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-30T12:35:04.681987-04:00.hyperlinks.json) |
-| [August 29 at 5:56 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-30T00:56:08.009009-04:00.hyperlinks.json) |
-| [August 29 at 5:17 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-29T12:17:45.752116-04:00.hyperlinks.json) |
-| [August 28 at 5:40 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-29T00:40:16.805163-04:00.hyperlinks.json) |
-| [August 28 at 5:02 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-28T12:02:36.836708-04:00.hyperlinks.json) |
-| [August 27 at 5:37 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-28T00:37:17.409943-04:00.hyperlinks.json) |
-| [August 27 at 4:58 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-27T11:58:39.407533-04:00.hyperlinks.json) |
-| [August 26 at 5:37 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-27T00:37:38.496157-04:00.hyperlinks.json) |
-| [August 26 at 5:06 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-26T12:06:20.740600-04:00.hyperlinks.json) |
-| [August 25 at 5:42 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-26T00:42:18.231410-04:00.hyperlinks.json) |
+| [August 30 at 12:35 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-30T12:35:04.681987-04:00.hyperlinks.json) |
+| [August 30 at 12:56 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-30T00:56:08.009009-04:00.hyperlinks.json) |
+| [August 29 at 12:17 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-29T12:17:45.752116-04:00.hyperlinks.json) |
+| [August 29 at 12:40 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-29T00:40:16.805163-04:00.hyperlinks.json) |
+| [August 28 at 12:02 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-28T12:02:36.836708-04:00.hyperlinks.json) |
+| [August 28 at 12:37 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-28T00:37:17.409943-04:00.hyperlinks.json) |
+| [August 27 at 11:58 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-27T11:58:39.407533-04:00.hyperlinks.json) |
+| [August 27 at 12:37 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-27T00:37:38.496157-04:00.hyperlinks.json) |
+| [August 26 at 12:06 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-26T12:06:20.740600-04:00.hyperlinks.json) |
+| [August 26 at 12:42 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-26T00:42:18.231410-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 5:35 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-30T12:35:04.681987-04:00.accessibility.json) |
-| [August 29 at 5:56 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-30T00:56:08.009009-04:00.accessibility.json) |
-| [August 29 at 5:17 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-29T12:17:45.752116-04:00.accessibility.json) |
-| [August 28 at 5:40 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-29T00:40:16.805163-04:00.accessibility.json) |
-| [August 28 at 5:02 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-28T12:02:36.836708-04:00.accessibility.json) |
-| [August 27 at 5:37 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-28T00:37:17.409943-04:00.accessibility.json) |
-| [August 27 at 4:58 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-27T11:58:39.407533-04:00.accessibility.json) |
-| [August 26 at 5:37 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-27T00:37:38.496157-04:00.accessibility.json) |
-| [August 26 at 5:06 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-26T12:06:20.740600-04:00.accessibility.json) |
-| [August 25 at 5:42 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-26T00:42:18.231410-04:00.accessibility.json) |
+| [August 30 at 12:35 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-30T12:35:04.681987-04:00.accessibility.json) |
+| [August 30 at 12:56 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-30T00:56:08.009009-04:00.accessibility.json) |
+| [August 29 at 12:17 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-29T12:17:45.752116-04:00.accessibility.json) |
+| [August 29 at 12:40 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-29T00:40:16.805163-04:00.accessibility.json) |
+| [August 28 at 12:02 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-28T12:02:36.836708-04:00.accessibility.json) |
+| [August 28 at 12:37 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-28T00:37:17.409943-04:00.accessibility.json) |
+| [August 27 at 11:58 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-27T11:58:39.407533-04:00.accessibility.json) |
+| [August 27 at 12:37 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-27T00:37:38.496157-04:00.accessibility.json) |
+| [August 26 at 12:06 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-26T12:06:20.740600-04:00.accessibility.json) |
+| [August 26 at 12:42 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-26T00:42:18.231410-04:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 5:35 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-30T12:35:04.681987-04:00.lighthouse.json) |
-| [August 29 at 5:56 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-30T00:56:08.009009-04:00.lighthouse.json) |
-| [August 29 at 5:17 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-29T12:17:45.752116-04:00.lighthouse.json) |
-| [August 28 at 5:40 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-29T00:40:16.805163-04:00.lighthouse.json) |
-| [August 28 at 5:02 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-28T12:02:36.836708-04:00.lighthouse.json) |
-| [August 27 at 5:37 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-28T00:37:17.409943-04:00.lighthouse.json) |
-| [August 27 at 4:58 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-27T11:58:39.407533-04:00.lighthouse.json) |
-| [August 26 at 5:37 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-27T00:37:38.496157-04:00.lighthouse.json) |
-| [August 26 at 5:06 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-26T12:06:20.740600-04:00.lighthouse.json) |
-| [August 25 at 5:42 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-26T00:42:18.231410-04:00.lighthouse.json) |
+| [August 30 at 12:35 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-30T12:35:04.681987-04:00.lighthouse.json) |
+| [August 30 at 12:56 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-30T00:56:08.009009-04:00.lighthouse.json) |
+| [August 29 at 12:17 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-29T12:17:45.752116-04:00.lighthouse.json) |
+| [August 29 at 12:40 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-29T00:40:16.805163-04:00.lighthouse.json) |
+| [August 28 at 12:02 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-28T12:02:36.836708-04:00.lighthouse.json) |
+| [August 28 at 12:37 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-28T00:37:17.409943-04:00.lighthouse.json) |
+| [August 27 at 11:58 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-27T11:58:39.407533-04:00.lighthouse.json) |
+| [August 27 at 12:37 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-27T00:37:38.496157-04:00.lighthouse.json) |
+| [August 26 at 12:06 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-26T12:06:20.740600-04:00.lighthouse.json) |
+| [August 26 at 12:42 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-26T00:42:18.231410-04:00.lighthouse.json) |
 
 
 

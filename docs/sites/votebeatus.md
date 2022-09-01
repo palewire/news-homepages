@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-30T09:15:27.067862-04:00.jpg">
   <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-30T09:15:27.067862-04:00.jpg"
-     alt="Votebeat at 2022-08-30 02:15:33-04:00 local time"
+     alt="Votebeat at 2022-08-30 09:15:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-30T09:15:27.067862-04:00.jpg">August 30 at 2:15 AM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-30T09:15:27.067862-04:00.jpg">August 30 at 9:15 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-29T21:21:40.385187-04:00.jpg">
   <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-29T21:21:40.385187-04:00.jpg"
-     alt="Votebeat at 2022-08-29 14:21:42-04:00 local time"
+     alt="Votebeat at 2022-08-29 21:21:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-29T21:21:40.385187-04:00.jpg">August 29 at 2:21 PM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-29T21:21:40.385187-04:00.jpg">August 29 at 9:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-29T09:04:43.482448-04:00.jpg">
   <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-29T09:04:43.482448-04:00.jpg"
-     alt="Votebeat at 2022-08-29 02:05:01-04:00 local time"
+     alt="Votebeat at 2022-08-29 09:05:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-29T09:04:43.482448-04:00.jpg">August 29 at 2:05 AM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-29T09:04:43.482448-04:00.jpg">August 29 at 9:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-28T21:20:56.368631-04:00.jpg">
   <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-28T21:20:56.368631-04:00.jpg"
-     alt="Votebeat at 2022-08-28 14:20:57-04:00 local time"
+     alt="Votebeat at 2022-08-28 21:20:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-28T21:20:56.368631-04:00.jpg">August 28 at 2:20 PM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-28T21:20:56.368631-04:00.jpg">August 28 at 9:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-28T09:04:55.974822-04:00.jpg">
   <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-28T09:04:55.974822-04:00.jpg"
-     alt="Votebeat at 2022-08-28 02:05:03-04:00 local time"
+     alt="Votebeat at 2022-08-28 09:05:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-28T09:04:55.974822-04:00.jpg">August 28 at 2:05 AM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-28T09:04:55.974822-04:00.jpg">August 28 at 9:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-27T21:33:10.076691-04:00.jpg">
   <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-27T21:33:10.076691-04:00.jpg"
-     alt="Votebeat at 2022-08-27 14:33:11-04:00 local time"
+     alt="Votebeat at 2022-08-27 21:33:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-27T21:33:10.076691-04:00.jpg">August 27 at 2:33 PM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-27T21:33:10.076691-04:00.jpg">August 27 at 9:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-27T09:00:53.045556-04:00.jpg">
   <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-27T09:00:53.045556-04:00.jpg"
-     alt="Votebeat at 2022-08-27 02:00:59-04:00 local time"
+     alt="Votebeat at 2022-08-27 09:00:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-27T09:00:53.045556-04:00.jpg">August 27 at 2:00 AM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-27T09:00:53.045556-04:00.jpg">August 27 at 9:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-26T21:12:35.103985-04:00.jpg">
   <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-26T21:12:35.103985-04:00.jpg"
-     alt="Votebeat at 2022-08-26 14:12:37-04:00 local time"
+     alt="Votebeat at 2022-08-26 21:12:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-26T21:12:35.103985-04:00.jpg">August 26 at 2:12 PM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-26T21:12:35.103985-04:00.jpg">August 26 at 9:12 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-26T09:06:07.140670-04:00.jpg">
   <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-26T09:06:07.140670-04:00.jpg"
-     alt="Votebeat at 2022-08-26 02:06:16-04:00 local time"
+     alt="Votebeat at 2022-08-26 09:06:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-26T09:06:07.140670-04:00.jpg">August 26 at 2:06 AM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-26T09:06:07.140670-04:00.jpg">August 26 at 9:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-25T21:19:28.060116-04:00.jpg">
   <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-25T21:19:28.060116-04:00.jpg"
-     alt="Votebeat at 2022-08-25 14:19:30-04:00 local time"
+     alt="Votebeat at 2022-08-25 21:19:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-25T21:19:28.060116-04:00.jpg">August 25 at 2:19 PM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-25T21:19:28.060116-04:00.jpg">August 25 at 9:19 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-25T09:08:49.916919-04:00.jpg">
   <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-25T09:08:49.916919-04:00.jpg"
-     alt="Votebeat at 2022-08-25 02:08:57-04:00 local time"
+     alt="Votebeat at 2022-08-25 09:08:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-25T09:08:49.916919-04:00.jpg">August 25 at 2:08 AM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-25T09:08:49.916919-04:00.jpg">August 25 at 9:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-24T09:00:02.921846-04:00.jpg">
   <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-24T09:00:02.921846-04:00.jpg"
-     alt="Votebeat at 2022-08-24 02:00:11-04:00 local time"
+     alt="Votebeat at 2022-08-24 09:00:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-24T09:00:02.921846-04:00.jpg">August 24 at 2:00 AM</a></p>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-24T09:00:02.921846-04:00.jpg">August 24 at 9:00 AM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 2:15 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-30T09:15:27.067862-04:00.hyperlinks.json) |
-| [August 29 at 2:21 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-29T21:21:40.385187-04:00.hyperlinks.json) |
-| [August 29 at 2:05 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-29T09:04:43.482448-04:00.hyperlinks.json) |
-| [August 28 at 2:21 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-28T21:20:56.368631-04:00.hyperlinks.json) |
-| [August 28 at 2:05 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-28T09:04:55.974822-04:00.hyperlinks.json) |
-| [August 27 at 2:33 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-27T21:33:10.076691-04:00.hyperlinks.json) |
-| [August 27 at 2:01 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-27T09:00:53.045556-04:00.hyperlinks.json) |
-| [August 26 at 2:12 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-26T21:12:35.103985-04:00.hyperlinks.json) |
-| [August 26 at 2:06 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-26T09:06:07.140670-04:00.hyperlinks.json) |
-| [August 25 at 2:19 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-25T21:19:28.060116-04:00.hyperlinks.json) |
+| [August 30 at 9:15 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-30T09:15:27.067862-04:00.hyperlinks.json) |
+| [August 29 at 9:21 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-29T21:21:40.385187-04:00.hyperlinks.json) |
+| [August 29 at 9:05 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-29T09:04:43.482448-04:00.hyperlinks.json) |
+| [August 28 at 9:21 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-28T21:20:56.368631-04:00.hyperlinks.json) |
+| [August 28 at 9:05 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-28T09:04:55.974822-04:00.hyperlinks.json) |
+| [August 27 at 9:33 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-27T21:33:10.076691-04:00.hyperlinks.json) |
+| [August 27 at 9:01 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-27T09:00:53.045556-04:00.hyperlinks.json) |
+| [August 26 at 9:12 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-26T21:12:35.103985-04:00.hyperlinks.json) |
+| [August 26 at 9:06 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-26T09:06:07.140670-04:00.hyperlinks.json) |
+| [August 25 at 9:19 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-25T21:19:28.060116-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 2:15 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-30T09:15:27.067862-04:00.accessibility.json) |
-| [August 29 at 2:21 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-29T21:21:40.385187-04:00.accessibility.json) |
-| [August 29 at 2:05 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-29T09:04:43.482448-04:00.accessibility.json) |
-| [August 28 at 2:20 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-28T21:20:56.368631-04:00.accessibility.json) |
-| [August 28 at 2:05 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-28T09:04:55.974822-04:00.accessibility.json) |
-| [August 27 at 2:33 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-27T21:33:10.076691-04:00.accessibility.json) |
-| [August 27 at 2:01 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-27T09:00:53.045556-04:00.accessibility.json) |
-| [August 26 at 2:12 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-26T21:12:35.103985-04:00.accessibility.json) |
-| [August 26 at 2:06 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-26T09:06:07.140670-04:00.accessibility.json) |
-| [August 25 at 2:19 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-25T21:19:28.060116-04:00.accessibility.json) |
+| [August 30 at 9:15 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-30T09:15:27.067862-04:00.accessibility.json) |
+| [August 29 at 9:21 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-29T21:21:40.385187-04:00.accessibility.json) |
+| [August 29 at 9:05 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-29T09:04:43.482448-04:00.accessibility.json) |
+| [August 28 at 9:20 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-28T21:20:56.368631-04:00.accessibility.json) |
+| [August 28 at 9:05 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-28T09:04:55.974822-04:00.accessibility.json) |
+| [August 27 at 9:33 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-27T21:33:10.076691-04:00.accessibility.json) |
+| [August 27 at 9:01 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-27T09:00:53.045556-04:00.accessibility.json) |
+| [August 26 at 9:12 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-26T21:12:35.103985-04:00.accessibility.json) |
+| [August 26 at 9:06 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-26T09:06:07.140670-04:00.accessibility.json) |
+| [August 25 at 9:19 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-25T21:19:28.060116-04:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 2:15 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-30T09:15:27.067862-04:00.lighthouse.json) |
-| [August 29 at 2:21 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-29T21:21:40.385187-04:00.lighthouse.json) |
-| [August 29 at 2:05 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-29T09:04:43.482448-04:00.lighthouse.json) |
-| [August 28 at 2:21 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-28T21:20:56.368631-04:00.lighthouse.json) |
-| [August 28 at 2:05 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-28T09:04:55.974822-04:00.lighthouse.json) |
-| [August 27 at 2:33 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-27T21:33:10.076691-04:00.lighthouse.json) |
-| [August 27 at 2:01 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-27T09:00:53.045556-04:00.lighthouse.json) |
-| [August 26 at 2:12 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-26T21:12:35.103985-04:00.lighthouse.json) |
-| [August 26 at 2:06 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-26T09:06:07.140670-04:00.lighthouse.json) |
-| [August 25 at 2:19 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-25T21:19:28.060116-04:00.lighthouse.json) |
+| [August 30 at 9:15 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-30T09:15:27.067862-04:00.lighthouse.json) |
+| [August 29 at 9:21 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-29T21:21:40.385187-04:00.lighthouse.json) |
+| [August 29 at 9:05 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-29T09:04:43.482448-04:00.lighthouse.json) |
+| [August 28 at 9:21 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-28T21:20:56.368631-04:00.lighthouse.json) |
+| [August 28 at 9:05 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-28T09:04:55.974822-04:00.lighthouse.json) |
+| [August 27 at 9:33 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-27T21:33:10.076691-04:00.lighthouse.json) |
+| [August 27 at 9:01 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-27T09:00:53.045556-04:00.lighthouse.json) |
+| [August 26 at 9:12 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-26T21:12:35.103985-04:00.lighthouse.json) |
+| [August 26 at 9:06 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-26T09:06:07.140670-04:00.lighthouse.json) |
+| [August 25 at 9:19 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-25T21:19:28.060116-04:00.lighthouse.json) |
 
 
 

@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/estadao-2022/estadao-2022-08-30T20:04:47.664107-03:00.jpg">
   <img src="https://archive.org/download/estadao-2022/estadao-2022-08-30T20:04:47.664107-03:00.jpg"
-     alt="Estadão at 2022-08-30 13:04:51-03:00 local time"
+     alt="Estadão at 2022-08-30 20:04:51-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/estadao-2022/estadao-2022-08-30T20:04:47.664107-03:00.jpg">August 30 at 1:04 PM</a></p>
+ <p><a href="https://archive.org/download/estadao-2022/estadao-2022-08-30T20:04:47.664107-03:00.jpg">August 30 at 8:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/estadao-2022/estadao-2022-08-30T09:14:47.575333-03:00.jpg">
   <img src="https://archive.org/download/estadao-2022/estadao-2022-08-30T09:14:47.575333-03:00.jpg"
-     alt="Estadão at 2022-08-30 02:14:49-03:00 local time"
+     alt="Estadão at 2022-08-30 09:14:49-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/estadao-2022/estadao-2022-08-30T09:14:47.575333-03:00.jpg">August 30 at 2:14 AM</a></p>
+ <p><a href="https://archive.org/download/estadao-2022/estadao-2022-08-30T09:14:47.575333-03:00.jpg">August 30 at 9:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/estadao-2022/estadao-2022-08-30T08:05:59.699386-03:00.jpg">
   <img src="https://archive.org/download/estadao-2022/estadao-2022-08-30T08:05:59.699386-03:00.jpg"
-     alt="Estadão at 2022-08-30 01:06:04-03:00 local time"
+     alt="Estadão at 2022-08-30 08:06:04-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/estadao-2022/estadao-2022-08-30T08:05:59.699386-03:00.jpg">August 30 at 1:06 AM</a></p>
+ <p><a href="https://archive.org/download/estadao-2022/estadao-2022-08-30T08:05:59.699386-03:00.jpg">August 30 at 8:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/estadao-2022/estadao-2022-08-29T20:01:53.914544-03:00.jpg">
   <img src="https://archive.org/download/estadao-2022/estadao-2022-08-29T20:01:53.914544-03:00.jpg"
-     alt="Estadão at 2022-08-29 13:01:55-03:00 local time"
+     alt="Estadão at 2022-08-29 20:01:55-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/estadao-2022/estadao-2022-08-29T20:01:53.914544-03:00.jpg">August 29 at 1:01 PM</a></p>
+ <p><a href="https://archive.org/download/estadao-2022/estadao-2022-08-29T20:01:53.914544-03:00.jpg">August 29 at 8:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/estadao-2022/estadao-2022-08-29T09:02:24.938511-03:00.jpg">
   <img src="https://archive.org/download/estadao-2022/estadao-2022-08-29T09:02:24.938511-03:00.jpg"
-     alt="Estadão at 2022-08-29 02:02:26-03:00 local time"
+     alt="Estadão at 2022-08-29 09:02:26-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/estadao-2022/estadao-2022-08-29T09:02:24.938511-03:00.jpg">August 29 at 2:02 AM</a></p>
+ <p><a href="https://archive.org/download/estadao-2022/estadao-2022-08-29T09:02:24.938511-03:00.jpg">August 29 at 9:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/estadao-2022/estadao-2022-08-29T07:57:22.740075-03:00.jpg">
   <img src="https://archive.org/download/estadao-2022/estadao-2022-08-29T07:57:22.740075-03:00.jpg"
-     alt="Estadão at 2022-08-29 00:57:25-03:00 local time"
+     alt="Estadão at 2022-08-29 07:57:25-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/estadao-2022/estadao-2022-08-29T07:57:22.740075-03:00.jpg">August 29 at 12:57 AM</a></p>
+ <p><a href="https://archive.org/download/estadao-2022/estadao-2022-08-29T07:57:22.740075-03:00.jpg">August 29 at 7:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/estadao-2022/estadao-2022-08-28T19:54:50.882177-03:00.jpg">
   <img src="https://archive.org/download/estadao-2022/estadao-2022-08-28T19:54:50.882177-03:00.jpg"
-     alt="Estadão at 2022-08-28 12:54:55-03:00 local time"
+     alt="Estadão at 2022-08-28 19:54:55-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/estadao-2022/estadao-2022-08-28T19:54:50.882177-03:00.jpg">August 28 at 12:54 PM</a></p>
+ <p><a href="https://archive.org/download/estadao-2022/estadao-2022-08-28T19:54:50.882177-03:00.jpg">August 28 at 7:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/estadao-2022/estadao-2022-08-28T09:05:03.185552-03:00.jpg">
   <img src="https://archive.org/download/estadao-2022/estadao-2022-08-28T09:05:03.185552-03:00.jpg"
-     alt="Estadão at 2022-08-28 02:05:04-03:00 local time"
+     alt="Estadão at 2022-08-28 09:05:04-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/estadao-2022/estadao-2022-08-28T09:05:03.185552-03:00.jpg">August 28 at 2:05 AM</a></p>
+ <p><a href="https://archive.org/download/estadao-2022/estadao-2022-08-28T09:05:03.185552-03:00.jpg">August 28 at 9:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/estadao-2022/estadao-2022-08-28T07:57:19.053850-03:00.jpg">
   <img src="https://archive.org/download/estadao-2022/estadao-2022-08-28T07:57:19.053850-03:00.jpg"
-     alt="Estadão at 2022-08-28 00:57:22-03:00 local time"
+     alt="Estadão at 2022-08-28 07:57:22-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/estadao-2022/estadao-2022-08-28T07:57:19.053850-03:00.jpg">August 28 at 12:57 AM</a></p>
+ <p><a href="https://archive.org/download/estadao-2022/estadao-2022-08-28T07:57:19.053850-03:00.jpg">August 28 at 7:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/estadao-2022/estadao-2022-08-27T19:58:07.117485-03:00.jpg">
   <img src="https://archive.org/download/estadao-2022/estadao-2022-08-27T19:58:07.117485-03:00.jpg"
-     alt="Estadão at 2022-08-27 12:58:09-03:00 local time"
+     alt="Estadão at 2022-08-27 19:58:09-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/estadao-2022/estadao-2022-08-27T19:58:07.117485-03:00.jpg">August 27 at 12:58 PM</a></p>
+ <p><a href="https://archive.org/download/estadao-2022/estadao-2022-08-27T19:58:07.117485-03:00.jpg">August 27 at 7:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/estadao-2022/estadao-2022-08-27T08:57:33.911626-03:00.jpg">
   <img src="https://archive.org/download/estadao-2022/estadao-2022-08-27T08:57:33.911626-03:00.jpg"
-     alt="Estadão at 2022-08-27 01:57:36-03:00 local time"
+     alt="Estadão at 2022-08-27 08:57:36-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/estadao-2022/estadao-2022-08-27T08:57:33.911626-03:00.jpg">August 27 at 1:57 AM</a></p>
+ <p><a href="https://archive.org/download/estadao-2022/estadao-2022-08-27T08:57:33.911626-03:00.jpg">August 27 at 8:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/estadao-2022/estadao-2022-08-27T07:52:02.577061-03:00.jpg">
   <img src="https://archive.org/download/estadao-2022/estadao-2022-08-27T07:52:02.577061-03:00.jpg"
-     alt="Estadão at 2022-08-27 00:52:06-03:00 local time"
+     alt="Estadão at 2022-08-27 07:52:06-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/estadao-2022/estadao-2022-08-27T07:52:02.577061-03:00.jpg">August 27 at 12:52 AM</a></p>
+ <p><a href="https://archive.org/download/estadao-2022/estadao-2022-08-27T07:52:02.577061-03:00.jpg">August 27 at 7:52 AM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 1:04 PM](https://archive.org/download/estadao-2022/estadao-2022-08-30T20:04:47.664107-03:00.hyperlinks.json) |
-| [August 30 at 2:14 AM](https://archive.org/download/estadao-2022/estadao-2022-08-30T09:14:47.575333-03:00.hyperlinks.json) |
-| [August 30 at 1:06 AM](https://archive.org/download/estadao-2022/estadao-2022-08-30T08:05:59.699386-03:00.hyperlinks.json) |
-| [August 29 at 1:01 PM](https://archive.org/download/estadao-2022/estadao-2022-08-29T20:01:53.914544-03:00.hyperlinks.json) |
-| [August 29 at 2:02 AM](https://archive.org/download/estadao-2022/estadao-2022-08-29T09:02:24.938511-03:00.hyperlinks.json) |
-| [August 29 at 12:57 AM](https://archive.org/download/estadao-2022/estadao-2022-08-29T07:57:22.740075-03:00.hyperlinks.json) |
-| [August 28 at 12:54 PM](https://archive.org/download/estadao-2022/estadao-2022-08-28T19:54:50.882177-03:00.hyperlinks.json) |
-| [August 28 at 2:05 AM](https://archive.org/download/estadao-2022/estadao-2022-08-28T09:05:03.185552-03:00.hyperlinks.json) |
-| [August 28 at 12:57 AM](https://archive.org/download/estadao-2022/estadao-2022-08-28T07:57:19.053850-03:00.hyperlinks.json) |
-| [August 27 at 12:58 PM](https://archive.org/download/estadao-2022/estadao-2022-08-27T19:58:07.117485-03:00.hyperlinks.json) |
+| [August 30 at 8:04 PM](https://archive.org/download/estadao-2022/estadao-2022-08-30T20:04:47.664107-03:00.hyperlinks.json) |
+| [August 30 at 9:14 AM](https://archive.org/download/estadao-2022/estadao-2022-08-30T09:14:47.575333-03:00.hyperlinks.json) |
+| [August 30 at 8:06 AM](https://archive.org/download/estadao-2022/estadao-2022-08-30T08:05:59.699386-03:00.hyperlinks.json) |
+| [August 29 at 8:01 PM](https://archive.org/download/estadao-2022/estadao-2022-08-29T20:01:53.914544-03:00.hyperlinks.json) |
+| [August 29 at 9:02 AM](https://archive.org/download/estadao-2022/estadao-2022-08-29T09:02:24.938511-03:00.hyperlinks.json) |
+| [August 29 at 7:57 AM](https://archive.org/download/estadao-2022/estadao-2022-08-29T07:57:22.740075-03:00.hyperlinks.json) |
+| [August 28 at 7:54 PM](https://archive.org/download/estadao-2022/estadao-2022-08-28T19:54:50.882177-03:00.hyperlinks.json) |
+| [August 28 at 9:05 AM](https://archive.org/download/estadao-2022/estadao-2022-08-28T09:05:03.185552-03:00.hyperlinks.json) |
+| [August 28 at 7:57 AM](https://archive.org/download/estadao-2022/estadao-2022-08-28T07:57:19.053850-03:00.hyperlinks.json) |
+| [August 27 at 7:58 PM](https://archive.org/download/estadao-2022/estadao-2022-08-27T19:58:07.117485-03:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 1:04 PM](https://archive.org/download/estadao-2022/estadao-2022-08-30T20:04:47.664107-03:00.accessibility.json) |
-| [August 30 at 2:14 AM](https://archive.org/download/estadao-2022/estadao-2022-08-30T09:14:47.575333-03:00.accessibility.json) |
-| [August 30 at 1:06 AM](https://archive.org/download/estadao-2022/estadao-2022-08-30T08:05:59.699386-03:00.accessibility.json) |
-| [August 29 at 1:01 PM](https://archive.org/download/estadao-2022/estadao-2022-08-29T20:01:53.914544-03:00.accessibility.json) |
-| [August 29 at 2:02 AM](https://archive.org/download/estadao-2022/estadao-2022-08-29T09:02:24.938511-03:00.accessibility.json) |
-| [August 29 at 12:57 AM](https://archive.org/download/estadao-2022/estadao-2022-08-29T07:57:22.740075-03:00.accessibility.json) |
-| [August 28 at 12:54 PM](https://archive.org/download/estadao-2022/estadao-2022-08-28T19:54:50.882177-03:00.accessibility.json) |
-| [August 28 at 2:05 AM](https://archive.org/download/estadao-2022/estadao-2022-08-28T09:05:03.185552-03:00.accessibility.json) |
-| [August 28 at 12:57 AM](https://archive.org/download/estadao-2022/estadao-2022-08-28T07:57:19.053850-03:00.accessibility.json) |
-| [August 27 at 12:58 PM](https://archive.org/download/estadao-2022/estadao-2022-08-27T19:58:07.117485-03:00.accessibility.json) |
+| [August 30 at 8:04 PM](https://archive.org/download/estadao-2022/estadao-2022-08-30T20:04:47.664107-03:00.accessibility.json) |
+| [August 30 at 9:14 AM](https://archive.org/download/estadao-2022/estadao-2022-08-30T09:14:47.575333-03:00.accessibility.json) |
+| [August 30 at 8:06 AM](https://archive.org/download/estadao-2022/estadao-2022-08-30T08:05:59.699386-03:00.accessibility.json) |
+| [August 29 at 8:01 PM](https://archive.org/download/estadao-2022/estadao-2022-08-29T20:01:53.914544-03:00.accessibility.json) |
+| [August 29 at 9:02 AM](https://archive.org/download/estadao-2022/estadao-2022-08-29T09:02:24.938511-03:00.accessibility.json) |
+| [August 29 at 7:57 AM](https://archive.org/download/estadao-2022/estadao-2022-08-29T07:57:22.740075-03:00.accessibility.json) |
+| [August 28 at 7:54 PM](https://archive.org/download/estadao-2022/estadao-2022-08-28T19:54:50.882177-03:00.accessibility.json) |
+| [August 28 at 9:05 AM](https://archive.org/download/estadao-2022/estadao-2022-08-28T09:05:03.185552-03:00.accessibility.json) |
+| [August 28 at 7:57 AM](https://archive.org/download/estadao-2022/estadao-2022-08-28T07:57:19.053850-03:00.accessibility.json) |
+| [August 27 at 7:58 PM](https://archive.org/download/estadao-2022/estadao-2022-08-27T19:58:07.117485-03:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 1:04 PM](https://archive.org/download/estadao-2022/estadao-2022-08-30T20:04:47.664107-03:00.lighthouse.json) |
-| [August 30 at 2:14 AM](https://archive.org/download/estadao-2022/estadao-2022-08-30T09:14:47.575333-03:00.lighthouse.json) |
-| [August 30 at 1:06 AM](https://archive.org/download/estadao-2022/estadao-2022-08-30T08:05:59.699386-03:00.lighthouse.json) |
-| [August 29 at 1:02 PM](https://archive.org/download/estadao-2022/estadao-2022-08-29T20:01:53.914544-03:00.lighthouse.json) |
-| [August 29 at 2:02 AM](https://archive.org/download/estadao-2022/estadao-2022-08-29T09:02:24.938511-03:00.lighthouse.json) |
-| [August 29 at 12:57 AM](https://archive.org/download/estadao-2022/estadao-2022-08-29T07:57:22.740075-03:00.lighthouse.json) |
-| [August 28 at 12:54 PM](https://archive.org/download/estadao-2022/estadao-2022-08-28T19:54:50.882177-03:00.lighthouse.json) |
-| [August 28 at 2:05 AM](https://archive.org/download/estadao-2022/estadao-2022-08-28T09:05:03.185552-03:00.lighthouse.json) |
-| [August 28 at 12:57 AM](https://archive.org/download/estadao-2022/estadao-2022-08-28T07:57:19.053850-03:00.lighthouse.json) |
-| [August 27 at 12:58 PM](https://archive.org/download/estadao-2022/estadao-2022-08-27T19:58:07.117485-03:00.lighthouse.json) |
+| [August 30 at 8:04 PM](https://archive.org/download/estadao-2022/estadao-2022-08-30T20:04:47.664107-03:00.lighthouse.json) |
+| [August 30 at 9:14 AM](https://archive.org/download/estadao-2022/estadao-2022-08-30T09:14:47.575333-03:00.lighthouse.json) |
+| [August 30 at 8:06 AM](https://archive.org/download/estadao-2022/estadao-2022-08-30T08:05:59.699386-03:00.lighthouse.json) |
+| [August 29 at 8:02 PM](https://archive.org/download/estadao-2022/estadao-2022-08-29T20:01:53.914544-03:00.lighthouse.json) |
+| [August 29 at 9:02 AM](https://archive.org/download/estadao-2022/estadao-2022-08-29T09:02:24.938511-03:00.lighthouse.json) |
+| [August 29 at 7:57 AM](https://archive.org/download/estadao-2022/estadao-2022-08-29T07:57:22.740075-03:00.lighthouse.json) |
+| [August 28 at 7:54 PM](https://archive.org/download/estadao-2022/estadao-2022-08-28T19:54:50.882177-03:00.lighthouse.json) |
+| [August 28 at 9:05 AM](https://archive.org/download/estadao-2022/estadao-2022-08-28T09:05:03.185552-03:00.lighthouse.json) |
+| [August 28 at 7:57 AM](https://archive.org/download/estadao-2022/estadao-2022-08-28T07:57:19.053850-03:00.lighthouse.json) |
+| [August 27 at 7:58 PM](https://archive.org/download/estadao-2022/estadao-2022-08-27T19:58:07.117485-03:00.lighthouse.json) |
 
 
 

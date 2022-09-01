@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-30T20:00:57.549440-04:00.jpg">
   <img src="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-30T20:00:57.549440-04:00.jpg"
-     alt="WFPL at 2022-08-30 13:01:01-04:00 local time"
+     alt="WFPL at 2022-08-30 20:01:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-30T20:00:57.549440-04:00.jpg">August 30 at 1:01 PM</a></p>
+ <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-30T20:00:57.549440-04:00.jpg">August 30 at 8:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-30T08:09:57.664025-04:00.jpg">
   <img src="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-30T08:09:57.664025-04:00.jpg"
-     alt="WFPL at 2022-08-30 01:10:03-04:00 local time"
+     alt="WFPL at 2022-08-30 08:10:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-30T08:09:57.664025-04:00.jpg">August 30 at 1:10 AM</a></p>
+ <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-30T08:09:57.664025-04:00.jpg">August 30 at 8:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-29T19:51:56.534485-04:00.jpg">
   <img src="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-29T19:51:56.534485-04:00.jpg"
-     alt="WFPL at 2022-08-29 12:52:04-04:00 local time"
+     alt="WFPL at 2022-08-29 19:52:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-29T19:51:56.534485-04:00.jpg">August 29 at 12:52 PM</a></p>
+ <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-29T19:51:56.534485-04:00.jpg">August 29 at 7:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-29T07:58:21.854439-04:00.jpg">
   <img src="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-29T07:58:21.854439-04:00.jpg"
-     alt="WFPL at 2022-08-29 00:58:30-04:00 local time"
+     alt="WFPL at 2022-08-29 07:58:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-29T07:58:21.854439-04:00.jpg">August 29 at 12:58 AM</a></p>
+ <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-29T07:58:21.854439-04:00.jpg">August 29 at 7:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-28T19:48:31.098136-04:00.jpg">
   <img src="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-28T19:48:31.098136-04:00.jpg"
-     alt="WFPL at 2022-08-28 12:48:34-04:00 local time"
+     alt="WFPL at 2022-08-28 19:48:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-28T19:48:31.098136-04:00.jpg">August 28 at 12:48 PM</a></p>
+ <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-28T19:48:31.098136-04:00.jpg">August 28 at 7:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-28T08:00:04.008479-04:00.jpg">
   <img src="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-28T08:00:04.008479-04:00.jpg"
-     alt="WFPL at 2022-08-28 01:00:07-04:00 local time"
+     alt="WFPL at 2022-08-28 08:00:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-28T08:00:04.008479-04:00.jpg">August 28 at 1:00 AM</a></p>
+ <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-28T08:00:04.008479-04:00.jpg">August 28 at 8:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-27T19:50:04.765166-04:00.jpg">
   <img src="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-27T19:50:04.765166-04:00.jpg"
-     alt="WFPL at 2022-08-27 12:50:06-04:00 local time"
+     alt="WFPL at 2022-08-27 19:50:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-27T19:50:04.765166-04:00.jpg">August 27 at 12:50 PM</a></p>
+ <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-27T19:50:04.765166-04:00.jpg">August 27 at 7:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-27T07:53:59.417988-04:00.jpg">
   <img src="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-27T07:53:59.417988-04:00.jpg"
-     alt="WFPL at 2022-08-27 00:54:02-04:00 local time"
+     alt="WFPL at 2022-08-27 07:54:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-27T07:53:59.417988-04:00.jpg">August 27 at 12:54 AM</a></p>
+ <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-27T07:53:59.417988-04:00.jpg">August 27 at 7:54 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-26T19:45:17.857745-04:00.jpg">
   <img src="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-26T19:45:17.857745-04:00.jpg"
-     alt="WFPL at 2022-08-26 12:45:21-04:00 local time"
+     alt="WFPL at 2022-08-26 19:45:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-26T19:45:17.857745-04:00.jpg">August 26 at 12:45 PM</a></p>
+ <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-26T19:45:17.857745-04:00.jpg">August 26 at 7:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-26T07:57:31.651611-04:00.jpg">
   <img src="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-26T07:57:31.651611-04:00.jpg"
-     alt="WFPL at 2022-08-26 00:57:34-04:00 local time"
+     alt="WFPL at 2022-08-26 07:57:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-26T07:57:31.651611-04:00.jpg">August 26 at 12:57 AM</a></p>
+ <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-26T07:57:31.651611-04:00.jpg">August 26 at 7:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-25T20:03:29.811891-04:00.jpg">
   <img src="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-25T20:03:29.811891-04:00.jpg"
-     alt="WFPL at 2022-08-25 13:03:33-04:00 local time"
+     alt="WFPL at 2022-08-25 20:03:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-25T20:03:29.811891-04:00.jpg">August 25 at 1:03 PM</a></p>
+ <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-25T20:03:29.811891-04:00.jpg">August 25 at 8:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-25T08:02:54.900843-04:00.jpg">
   <img src="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-25T08:02:54.900843-04:00.jpg"
-     alt="WFPL at 2022-08-25 01:02:56-04:00 local time"
+     alt="WFPL at 2022-08-25 08:02:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-25T08:02:54.900843-04:00.jpg">August 25 at 1:02 AM</a></p>
+ <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-25T08:02:54.900843-04:00.jpg">August 25 at 8:02 AM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 1:01 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-30T20:00:57.549440-04:00.hyperlinks.json) |
-| [August 30 at 1:10 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-30T08:09:57.664025-04:00.hyperlinks.json) |
-| [August 29 at 12:52 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-29T19:51:56.534485-04:00.hyperlinks.json) |
-| [August 29 at 12:58 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-29T07:58:21.854439-04:00.hyperlinks.json) |
-| [August 28 at 12:48 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-28T19:48:31.098136-04:00.hyperlinks.json) |
-| [August 28 at 1:00 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-28T08:00:04.008479-04:00.hyperlinks.json) |
-| [August 27 at 12:50 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-27T19:50:04.765166-04:00.hyperlinks.json) |
-| [August 27 at 12:54 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-27T07:53:59.417988-04:00.hyperlinks.json) |
-| [August 26 at 12:45 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-26T19:45:17.857745-04:00.hyperlinks.json) |
-| [August 26 at 12:57 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-26T07:57:31.651611-04:00.hyperlinks.json) |
+| [August 30 at 8:01 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-30T20:00:57.549440-04:00.hyperlinks.json) |
+| [August 30 at 8:10 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-30T08:09:57.664025-04:00.hyperlinks.json) |
+| [August 29 at 7:52 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-29T19:51:56.534485-04:00.hyperlinks.json) |
+| [August 29 at 7:58 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-29T07:58:21.854439-04:00.hyperlinks.json) |
+| [August 28 at 7:48 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-28T19:48:31.098136-04:00.hyperlinks.json) |
+| [August 28 at 8:00 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-28T08:00:04.008479-04:00.hyperlinks.json) |
+| [August 27 at 7:50 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-27T19:50:04.765166-04:00.hyperlinks.json) |
+| [August 27 at 7:54 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-27T07:53:59.417988-04:00.hyperlinks.json) |
+| [August 26 at 7:45 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-26T19:45:17.857745-04:00.hyperlinks.json) |
+| [August 26 at 7:57 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-26T07:57:31.651611-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 1:01 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-30T20:00:57.549440-04:00.accessibility.json) |
-| [August 30 at 1:10 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-30T08:09:57.664025-04:00.accessibility.json) |
-| [August 29 at 12:52 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-29T19:51:56.534485-04:00.accessibility.json) |
-| [August 29 at 12:58 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-29T07:58:21.854439-04:00.accessibility.json) |
-| [August 28 at 12:48 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-28T19:48:31.098136-04:00.accessibility.json) |
-| [August 28 at 1:00 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-28T08:00:04.008479-04:00.accessibility.json) |
-| [August 27 at 12:50 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-27T19:50:04.765166-04:00.accessibility.json) |
-| [August 27 at 12:54 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-27T07:53:59.417988-04:00.accessibility.json) |
-| [August 26 at 12:45 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-26T19:45:17.857745-04:00.accessibility.json) |
-| [August 26 at 12:57 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-26T07:57:31.651611-04:00.accessibility.json) |
+| [August 30 at 8:01 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-30T20:00:57.549440-04:00.accessibility.json) |
+| [August 30 at 8:10 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-30T08:09:57.664025-04:00.accessibility.json) |
+| [August 29 at 7:52 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-29T19:51:56.534485-04:00.accessibility.json) |
+| [August 29 at 7:58 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-29T07:58:21.854439-04:00.accessibility.json) |
+| [August 28 at 7:48 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-28T19:48:31.098136-04:00.accessibility.json) |
+| [August 28 at 8:00 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-28T08:00:04.008479-04:00.accessibility.json) |
+| [August 27 at 7:50 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-27T19:50:04.765166-04:00.accessibility.json) |
+| [August 27 at 7:54 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-27T07:53:59.417988-04:00.accessibility.json) |
+| [August 26 at 7:45 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-26T19:45:17.857745-04:00.accessibility.json) |
+| [August 26 at 7:57 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-26T07:57:31.651611-04:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 1:01 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-30T20:00:57.549440-04:00.lighthouse.json) |
-| [August 30 at 1:10 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-30T08:09:57.664025-04:00.lighthouse.json) |
-| [August 29 at 12:52 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-29T19:51:56.534485-04:00.lighthouse.json) |
-| [August 29 at 12:58 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-29T07:58:21.854439-04:00.lighthouse.json) |
-| [August 28 at 12:48 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-28T19:48:31.098136-04:00.lighthouse.json) |
-| [August 28 at 1:00 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-28T08:00:04.008479-04:00.lighthouse.json) |
-| [August 27 at 12:50 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-27T19:50:04.765166-04:00.lighthouse.json) |
-| [August 27 at 12:54 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-27T07:53:59.417988-04:00.lighthouse.json) |
-| [August 26 at 12:45 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-26T19:45:17.857745-04:00.lighthouse.json) |
-| [August 26 at 12:57 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-26T07:57:31.651611-04:00.lighthouse.json) |
+| [August 30 at 8:01 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-30T20:00:57.549440-04:00.lighthouse.json) |
+| [August 30 at 8:10 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-30T08:09:57.664025-04:00.lighthouse.json) |
+| [August 29 at 7:52 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-29T19:51:56.534485-04:00.lighthouse.json) |
+| [August 29 at 7:58 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-29T07:58:21.854439-04:00.lighthouse.json) |
+| [August 28 at 7:48 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-28T19:48:31.098136-04:00.lighthouse.json) |
+| [August 28 at 8:00 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-28T08:00:04.008479-04:00.lighthouse.json) |
+| [August 27 at 7:50 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-27T19:50:04.765166-04:00.lighthouse.json) |
+| [August 27 at 7:54 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-27T07:53:59.417988-04:00.lighthouse.json) |
+| [August 26 at 7:45 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-26T19:45:17.857745-04:00.lighthouse.json) |
+| [August 26 at 7:57 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-26T07:57:31.651611-04:00.lighthouse.json) |
 
 
 

@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-30T14:34:35.704222-04:00.jpg">
   <img src="https://archive.org/download/theintercept-2022/theintercept-2022-08-30T14:34:35.704222-04:00.jpg"
-     alt="Intercept at 2022-08-30 07:34:39-04:00 local time"
+     alt="Intercept at 2022-08-30 14:34:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-30T14:34:35.704222-04:00.jpg">August 30 at 7:34 AM</a></p>
+ <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-30T14:34:35.704222-04:00.jpg">August 30 at 2:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-30T12:36:41.053548-04:00.jpg">
   <img src="https://archive.org/download/theintercept-2022/theintercept-2022-08-30T12:36:41.053548-04:00.jpg"
-     alt="Intercept at 2022-08-30 05:36:48-04:00 local time"
+     alt="Intercept at 2022-08-30 12:36:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-30T12:36:41.053548-04:00.jpg">August 30 at 5:36 AM</a></p>
+ <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-30T12:36:41.053548-04:00.jpg">August 30 at 12:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-30T00:58:09.692223-04:00.jpg">
   <img src="https://archive.org/download/theintercept-2022/theintercept-2022-08-30T00:58:09.692223-04:00.jpg"
-     alt="Intercept at 2022-08-29 17:58:11-04:00 local time"
+     alt="Intercept at 2022-08-30 00:58:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-30T00:58:09.692223-04:00.jpg">August 29 at 5:58 PM</a></p>
+ <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-30T00:58:09.692223-04:00.jpg">August 30 at 12:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-29T14:29:24.358638-04:00.jpg">
   <img src="https://archive.org/download/theintercept-2022/theintercept-2022-08-29T14:29:24.358638-04:00.jpg"
-     alt="Intercept at 2022-08-29 07:29:30-04:00 local time"
+     alt="Intercept at 2022-08-29 14:29:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-29T14:29:24.358638-04:00.jpg">August 29 at 7:29 AM</a></p>
+ <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-29T14:29:24.358638-04:00.jpg">August 29 at 2:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-29T12:18:25.611822-04:00.jpg">
   <img src="https://archive.org/download/theintercept-2022/theintercept-2022-08-29T12:18:25.611822-04:00.jpg"
-     alt="Intercept at 2022-08-29 05:18:27-04:00 local time"
+     alt="Intercept at 2022-08-29 12:18:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-29T12:18:25.611822-04:00.jpg">August 29 at 5:18 AM</a></p>
+ <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-29T12:18:25.611822-04:00.jpg">August 29 at 12:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-29T00:42:06.587834-04:00.jpg">
   <img src="https://archive.org/download/theintercept-2022/theintercept-2022-08-29T00:42:06.587834-04:00.jpg"
-     alt="Intercept at 2022-08-28 17:42:13-04:00 local time"
+     alt="Intercept at 2022-08-29 00:42:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-29T00:42:06.587834-04:00.jpg">August 28 at 5:42 PM</a></p>
+ <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-29T00:42:06.587834-04:00.jpg">August 29 at 12:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-28T14:29:14.083270-04:00.jpg">
   <img src="https://archive.org/download/theintercept-2022/theintercept-2022-08-28T14:29:14.083270-04:00.jpg"
-     alt="Intercept at 2022-08-28 07:29:20-04:00 local time"
+     alt="Intercept at 2022-08-28 14:29:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-28T14:29:14.083270-04:00.jpg">August 28 at 7:29 AM</a></p>
+ <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-28T14:29:14.083270-04:00.jpg">August 28 at 2:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-28T12:04:07.800903-04:00.jpg">
   <img src="https://archive.org/download/theintercept-2022/theintercept-2022-08-28T12:04:07.800903-04:00.jpg"
-     alt="Intercept at 2022-08-28 05:04:13-04:00 local time"
+     alt="Intercept at 2022-08-28 12:04:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-28T12:04:07.800903-04:00.jpg">August 28 at 5:04 AM</a></p>
+ <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-28T12:04:07.800903-04:00.jpg">August 28 at 12:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-28T00:38:21.105922-04:00.jpg">
   <img src="https://archive.org/download/theintercept-2022/theintercept-2022-08-28T00:38:21.105922-04:00.jpg"
-     alt="Intercept at 2022-08-27 17:38:22-04:00 local time"
+     alt="Intercept at 2022-08-28 00:38:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-28T00:38:21.105922-04:00.jpg">August 27 at 5:38 PM</a></p>
+ <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-28T00:38:21.105922-04:00.jpg">August 28 at 12:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-27T14:29:59.616857-04:00.jpg">
   <img src="https://archive.org/download/theintercept-2022/theintercept-2022-08-27T14:29:59.616857-04:00.jpg"
-     alt="Intercept at 2022-08-27 07:30:00-04:00 local time"
+     alt="Intercept at 2022-08-27 14:30:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-27T14:29:59.616857-04:00.jpg">August 27 at 7:30 AM</a></p>
+ <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-27T14:29:59.616857-04:00.jpg">August 27 at 2:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-27T12:00:31.167630-04:00.jpg">
   <img src="https://archive.org/download/theintercept-2022/theintercept-2022-08-27T12:00:31.167630-04:00.jpg"
-     alt="Intercept at 2022-08-27 05:00:33-04:00 local time"
+     alt="Intercept at 2022-08-27 12:00:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-27T12:00:31.167630-04:00.jpg">August 27 at 5:00 AM</a></p>
+ <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-27T12:00:31.167630-04:00.jpg">August 27 at 12:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-27T00:38:47.160101-04:00.jpg">
   <img src="https://archive.org/download/theintercept-2022/theintercept-2022-08-27T00:38:47.160101-04:00.jpg"
-     alt="Intercept at 2022-08-26 17:38:49-04:00 local time"
+     alt="Intercept at 2022-08-27 00:38:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-27T00:38:47.160101-04:00.jpg">August 26 at 5:38 PM</a></p>
+ <p><a href="https://archive.org/download/theintercept-2022/theintercept-2022-08-27T00:38:47.160101-04:00.jpg">August 27 at 12:38 AM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 7:34 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-30T14:34:35.704222-04:00.hyperlinks.json) |
-| [August 30 at 5:36 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-30T12:36:41.053548-04:00.hyperlinks.json) |
-| [August 29 at 5:58 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-30T00:58:09.692223-04:00.hyperlinks.json) |
-| [August 29 at 7:29 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-29T14:29:24.358638-04:00.hyperlinks.json) |
-| [August 29 at 5:18 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-29T12:18:25.611822-04:00.hyperlinks.json) |
-| [August 28 at 5:42 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-29T00:42:06.587834-04:00.hyperlinks.json) |
-| [August 28 at 7:29 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-28T14:29:14.083270-04:00.hyperlinks.json) |
-| [August 28 at 5:04 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-28T12:04:07.800903-04:00.hyperlinks.json) |
-| [August 27 at 5:38 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-28T00:38:21.105922-04:00.hyperlinks.json) |
-| [August 27 at 7:30 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-27T14:29:59.616857-04:00.hyperlinks.json) |
+| [August 30 at 2:34 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-30T14:34:35.704222-04:00.hyperlinks.json) |
+| [August 30 at 12:36 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-30T12:36:41.053548-04:00.hyperlinks.json) |
+| [August 30 at 12:58 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-30T00:58:09.692223-04:00.hyperlinks.json) |
+| [August 29 at 2:29 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-29T14:29:24.358638-04:00.hyperlinks.json) |
+| [August 29 at 12:18 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-29T12:18:25.611822-04:00.hyperlinks.json) |
+| [August 29 at 12:42 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-29T00:42:06.587834-04:00.hyperlinks.json) |
+| [August 28 at 2:29 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-28T14:29:14.083270-04:00.hyperlinks.json) |
+| [August 28 at 12:04 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-28T12:04:07.800903-04:00.hyperlinks.json) |
+| [August 28 at 12:38 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-28T00:38:21.105922-04:00.hyperlinks.json) |
+| [August 27 at 2:30 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-27T14:29:59.616857-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 7:34 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-30T14:34:35.704222-04:00.accessibility.json) |
-| [August 30 at 5:36 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-30T12:36:41.053548-04:00.accessibility.json) |
-| [August 29 at 5:58 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-30T00:58:09.692223-04:00.accessibility.json) |
-| [August 29 at 7:29 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-29T14:29:24.358638-04:00.accessibility.json) |
-| [August 29 at 5:18 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-29T12:18:25.611822-04:00.accessibility.json) |
-| [August 28 at 5:42 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-29T00:42:06.587834-04:00.accessibility.json) |
-| [August 28 at 7:29 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-28T14:29:14.083270-04:00.accessibility.json) |
-| [August 28 at 5:04 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-28T12:04:07.800903-04:00.accessibility.json) |
-| [August 27 at 5:38 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-28T00:38:21.105922-04:00.accessibility.json) |
-| [August 27 at 7:30 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-27T14:29:59.616857-04:00.accessibility.json) |
+| [August 30 at 2:34 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-30T14:34:35.704222-04:00.accessibility.json) |
+| [August 30 at 12:36 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-30T12:36:41.053548-04:00.accessibility.json) |
+| [August 30 at 12:58 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-30T00:58:09.692223-04:00.accessibility.json) |
+| [August 29 at 2:29 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-29T14:29:24.358638-04:00.accessibility.json) |
+| [August 29 at 12:18 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-29T12:18:25.611822-04:00.accessibility.json) |
+| [August 29 at 12:42 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-29T00:42:06.587834-04:00.accessibility.json) |
+| [August 28 at 2:29 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-28T14:29:14.083270-04:00.accessibility.json) |
+| [August 28 at 12:04 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-28T12:04:07.800903-04:00.accessibility.json) |
+| [August 28 at 12:38 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-28T00:38:21.105922-04:00.accessibility.json) |
+| [August 27 at 2:30 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-27T14:29:59.616857-04:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 7:34 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-30T14:34:35.704222-04:00.lighthouse.json) |
-| [August 30 at 5:36 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-30T12:36:41.053548-04:00.lighthouse.json) |
-| [August 29 at 5:58 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-30T00:58:09.692223-04:00.lighthouse.json) |
-| [August 29 at 7:29 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-29T14:29:24.358638-04:00.lighthouse.json) |
-| [August 29 at 5:18 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-29T12:18:25.611822-04:00.lighthouse.json) |
-| [August 28 at 5:42 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-29T00:42:06.587834-04:00.lighthouse.json) |
-| [August 28 at 7:29 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-28T14:29:14.083270-04:00.lighthouse.json) |
-| [August 28 at 5:04 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-28T12:04:07.800903-04:00.lighthouse.json) |
-| [August 27 at 5:38 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-28T00:38:21.105922-04:00.lighthouse.json) |
-| [August 27 at 7:30 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-27T14:29:59.616857-04:00.lighthouse.json) |
+| [August 30 at 2:34 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-30T14:34:35.704222-04:00.lighthouse.json) |
+| [August 30 at 12:36 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-30T12:36:41.053548-04:00.lighthouse.json) |
+| [August 30 at 12:58 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-30T00:58:09.692223-04:00.lighthouse.json) |
+| [August 29 at 2:29 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-29T14:29:24.358638-04:00.lighthouse.json) |
+| [August 29 at 12:18 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-29T12:18:25.611822-04:00.lighthouse.json) |
+| [August 29 at 12:42 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-29T00:42:06.587834-04:00.lighthouse.json) |
+| [August 28 at 2:29 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-28T14:29:14.083270-04:00.lighthouse.json) |
+| [August 28 at 12:04 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-28T12:04:07.800903-04:00.lighthouse.json) |
+| [August 28 at 12:38 AM](https://archive.org/download/theintercept-2022/theintercept-2022-08-28T00:38:21.105922-04:00.lighthouse.json) |
+| [August 27 at 2:30 PM](https://archive.org/download/theintercept-2022/theintercept-2022-08-27T14:29:59.616857-04:00.lighthouse.json) |
 
 
 

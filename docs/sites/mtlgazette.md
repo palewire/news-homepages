@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-30T11:36:47.150658-04:00.jpg">
   <img src="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-30T11:36:47.150658-04:00.jpg"
-     alt="Montreal Gazette at 2022-08-30 04:36:48-04:00 local time"
+     alt="Montreal Gazette at 2022-08-30 11:36:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-30T11:36:47.150658-04:00.jpg">August 30 at 4:36 AM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-30T11:36:47.150658-04:00.jpg">August 30 at 11:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-29T23:56:05.171373-04:00.jpg">
   <img src="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-29T23:56:05.171373-04:00.jpg"
-     alt="Montreal Gazette at 2022-08-29 16:56:08-04:00 local time"
+     alt="Montreal Gazette at 2022-08-29 23:56:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-29T23:56:05.171373-04:00.jpg">August 29 at 4:56 PM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-29T23:56:05.171373-04:00.jpg">August 29 at 11:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-29T11:10:12.847966-04:00.jpg">
   <img src="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-29T11:10:12.847966-04:00.jpg"
-     alt="Montreal Gazette at 2022-08-29 04:10:19-04:00 local time"
+     alt="Montreal Gazette at 2022-08-29 11:10:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-29T11:10:12.847966-04:00.jpg">August 29 at 4:10 AM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-29T11:10:12.847966-04:00.jpg">August 29 at 11:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-28T23:47:15.052336-04:00.jpg">
   <img src="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-28T23:47:15.052336-04:00.jpg"
-     alt="Montreal Gazette at 2022-08-28 16:47:20-04:00 local time"
+     alt="Montreal Gazette at 2022-08-28 23:47:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-28T23:47:15.052336-04:00.jpg">August 28 at 4:47 PM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-28T23:47:15.052336-04:00.jpg">August 28 at 11:47 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-28T10:58:22.236308-04:00.jpg">
   <img src="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-28T10:58:22.236308-04:00.jpg"
-     alt="Montreal Gazette at 2022-08-28 03:58:29-04:00 local time"
+     alt="Montreal Gazette at 2022-08-28 10:58:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-28T10:58:22.236308-04:00.jpg">August 28 at 3:58 AM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-28T10:58:22.236308-04:00.jpg">August 28 at 10:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-27T23:43:13.438835-04:00.jpg">
   <img src="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-27T23:43:13.438835-04:00.jpg"
-     alt="Montreal Gazette at 2022-08-27 16:43:15-04:00 local time"
+     alt="Montreal Gazette at 2022-08-27 23:43:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-27T23:43:13.438835-04:00.jpg">August 27 at 4:43 PM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-27T23:43:13.438835-04:00.jpg">August 27 at 11:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-27T10:53:13.284944-04:00.jpg">
   <img src="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-27T10:53:13.284944-04:00.jpg"
-     alt="Montreal Gazette at 2022-08-27 03:53:20-04:00 local time"
+     alt="Montreal Gazette at 2022-08-27 10:53:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-27T10:53:13.284944-04:00.jpg">August 27 at 3:53 AM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-27T10:53:13.284944-04:00.jpg">August 27 at 10:53 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-26T23:39:58.093271-04:00.jpg">
   <img src="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-26T23:39:58.093271-04:00.jpg"
-     alt="Montreal Gazette at 2022-08-26 16:39:59-04:00 local time"
+     alt="Montreal Gazette at 2022-08-26 23:39:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-26T23:39:58.093271-04:00.jpg">August 26 at 4:39 PM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-26T23:39:58.093271-04:00.jpg">August 26 at 11:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-26T11:01:02.083124-04:00.jpg">
   <img src="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-26T11:01:02.083124-04:00.jpg"
-     alt="Montreal Gazette at 2022-08-26 04:01:07-04:00 local time"
+     alt="Montreal Gazette at 2022-08-26 11:01:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-26T11:01:02.083124-04:00.jpg">August 26 at 4:01 AM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-26T11:01:02.083124-04:00.jpg">August 26 at 11:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-25T23:46:32.218326-04:00.jpg">
   <img src="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-25T23:46:32.218326-04:00.jpg"
-     alt="Montreal Gazette at 2022-08-25 16:46:34-04:00 local time"
+     alt="Montreal Gazette at 2022-08-25 23:46:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-25T23:46:32.218326-04:00.jpg">August 25 at 4:46 PM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-25T23:46:32.218326-04:00.jpg">August 25 at 11:46 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-25T11:03:51.112224-04:00.jpg">
   <img src="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-25T11:03:51.112224-04:00.jpg"
-     alt="Montreal Gazette at 2022-08-25 04:03:52-04:00 local time"
+     alt="Montreal Gazette at 2022-08-25 11:03:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-25T11:03:51.112224-04:00.jpg">August 25 at 4:03 AM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-25T11:03:51.112224-04:00.jpg">August 25 at 11:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-24T11:03:12.730989-04:00.jpg">
   <img src="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-24T11:03:12.730989-04:00.jpg"
-     alt="Montreal Gazette at 2022-08-24 04:03:14-04:00 local time"
+     alt="Montreal Gazette at 2022-08-24 11:03:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-24T11:03:12.730989-04:00.jpg">August 24 at 4:03 AM</a></p>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-24T11:03:12.730989-04:00.jpg">August 24 at 11:03 AM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 4:36 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-30T11:36:47.150658-04:00.hyperlinks.json) |
-| [August 29 at 4:56 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-29T23:56:05.171373-04:00.hyperlinks.json) |
-| [August 29 at 4:10 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-29T11:10:12.847966-04:00.hyperlinks.json) |
-| [August 28 at 4:47 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-28T23:47:15.052336-04:00.hyperlinks.json) |
-| [August 28 at 3:58 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-28T10:58:22.236308-04:00.hyperlinks.json) |
-| [August 27 at 4:43 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-27T23:43:13.438835-04:00.hyperlinks.json) |
-| [August 27 at 3:53 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-27T10:53:13.284944-04:00.hyperlinks.json) |
-| [August 26 at 4:40 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-26T23:39:58.093271-04:00.hyperlinks.json) |
-| [August 26 at 4:01 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-26T11:01:02.083124-04:00.hyperlinks.json) |
-| [August 25 at 4:46 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-25T23:46:32.218326-04:00.hyperlinks.json) |
+| [August 30 at 11:36 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-30T11:36:47.150658-04:00.hyperlinks.json) |
+| [August 29 at 11:56 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-29T23:56:05.171373-04:00.hyperlinks.json) |
+| [August 29 at 11:10 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-29T11:10:12.847966-04:00.hyperlinks.json) |
+| [August 28 at 11:47 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-28T23:47:15.052336-04:00.hyperlinks.json) |
+| [August 28 at 10:58 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-28T10:58:22.236308-04:00.hyperlinks.json) |
+| [August 27 at 11:43 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-27T23:43:13.438835-04:00.hyperlinks.json) |
+| [August 27 at 10:53 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-27T10:53:13.284944-04:00.hyperlinks.json) |
+| [August 26 at 11:40 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-26T23:39:58.093271-04:00.hyperlinks.json) |
+| [August 26 at 11:01 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-26T11:01:02.083124-04:00.hyperlinks.json) |
+| [August 25 at 11:46 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-25T23:46:32.218326-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 4:36 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-30T11:36:47.150658-04:00.accessibility.json) |
-| [August 29 at 4:56 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-29T23:56:05.171373-04:00.accessibility.json) |
-| [August 29 at 4:10 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-29T11:10:12.847966-04:00.accessibility.json) |
-| [August 28 at 4:47 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-28T23:47:15.052336-04:00.accessibility.json) |
-| [August 28 at 3:58 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-28T10:58:22.236308-04:00.accessibility.json) |
-| [August 27 at 4:43 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-27T23:43:13.438835-04:00.accessibility.json) |
-| [August 27 at 3:53 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-27T10:53:13.284944-04:00.accessibility.json) |
-| [August 26 at 4:40 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-26T23:39:58.093271-04:00.accessibility.json) |
-| [August 26 at 4:01 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-26T11:01:02.083124-04:00.accessibility.json) |
-| [August 25 at 4:46 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-25T23:46:32.218326-04:00.accessibility.json) |
+| [August 30 at 11:36 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-30T11:36:47.150658-04:00.accessibility.json) |
+| [August 29 at 11:56 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-29T23:56:05.171373-04:00.accessibility.json) |
+| [August 29 at 11:10 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-29T11:10:12.847966-04:00.accessibility.json) |
+| [August 28 at 11:47 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-28T23:47:15.052336-04:00.accessibility.json) |
+| [August 28 at 10:58 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-28T10:58:22.236308-04:00.accessibility.json) |
+| [August 27 at 11:43 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-27T23:43:13.438835-04:00.accessibility.json) |
+| [August 27 at 10:53 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-27T10:53:13.284944-04:00.accessibility.json) |
+| [August 26 at 11:40 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-26T23:39:58.093271-04:00.accessibility.json) |
+| [August 26 at 11:01 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-26T11:01:02.083124-04:00.accessibility.json) |
+| [August 25 at 11:46 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-25T23:46:32.218326-04:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 4:36 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-30T11:36:47.150658-04:00.lighthouse.json) |
-| [August 29 at 4:56 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-29T23:56:05.171373-04:00.lighthouse.json) |
-| [August 29 at 4:10 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-29T11:10:12.847966-04:00.lighthouse.json) |
-| [August 28 at 4:47 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-28T23:47:15.052336-04:00.lighthouse.json) |
-| [August 28 at 3:58 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-28T10:58:22.236308-04:00.lighthouse.json) |
-| [August 27 at 4:43 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-27T23:43:13.438835-04:00.lighthouse.json) |
-| [August 27 at 3:53 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-27T10:53:13.284944-04:00.lighthouse.json) |
-| [August 26 at 4:40 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-26T23:39:58.093271-04:00.lighthouse.json) |
-| [August 26 at 4:01 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-26T11:01:02.083124-04:00.lighthouse.json) |
-| [August 25 at 4:46 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-25T23:46:32.218326-04:00.lighthouse.json) |
+| [August 30 at 11:36 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-30T11:36:47.150658-04:00.lighthouse.json) |
+| [August 29 at 11:56 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-29T23:56:05.171373-04:00.lighthouse.json) |
+| [August 29 at 11:10 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-29T11:10:12.847966-04:00.lighthouse.json) |
+| [August 28 at 11:47 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-28T23:47:15.052336-04:00.lighthouse.json) |
+| [August 28 at 10:58 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-28T10:58:22.236308-04:00.lighthouse.json) |
+| [August 27 at 11:43 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-27T23:43:13.438835-04:00.lighthouse.json) |
+| [August 27 at 10:53 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-27T10:53:13.284944-04:00.lighthouse.json) |
+| [August 26 at 11:40 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-26T23:39:58.093271-04:00.lighthouse.json) |
+| [August 26 at 11:01 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-26T11:01:02.083124-04:00.lighthouse.json) |
+| [August 25 at 11:46 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-08-25T23:46:32.218326-04:00.lighthouse.json) |
 
 
 

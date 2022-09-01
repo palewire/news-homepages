@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-30T12:33:28.661027-04:00.jpg">
   <img src="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-30T12:33:28.661027-04:00.jpg"
-     alt="Pittsburgh Post-Gazette at 2022-08-30 05:33:30-04:00 local time"
+     alt="Pittsburgh Post-Gazette at 2022-08-30 12:33:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-30T12:33:28.661027-04:00.jpg">August 30 at 5:33 AM</a></p>
+ <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-30T12:33:28.661027-04:00.jpg">August 30 at 12:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-30T00:54:12.485518-04:00.jpg">
   <img src="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-30T00:54:12.485518-04:00.jpg"
-     alt="Pittsburgh Post-Gazette at 2022-08-29 17:54:15-04:00 local time"
+     alt="Pittsburgh Post-Gazette at 2022-08-30 00:54:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-30T00:54:12.485518-04:00.jpg">August 29 at 5:54 PM</a></p>
+ <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-30T00:54:12.485518-04:00.jpg">August 30 at 12:54 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-29T12:14:15.819678-04:00.jpg">
   <img src="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-29T12:14:15.819678-04:00.jpg"
-     alt="Pittsburgh Post-Gazette at 2022-08-29 05:14:19-04:00 local time"
+     alt="Pittsburgh Post-Gazette at 2022-08-29 12:14:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-29T12:14:15.819678-04:00.jpg">August 29 at 5:14 AM</a></p>
+ <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-29T12:14:15.819678-04:00.jpg">August 29 at 12:14 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-29T00:38:44.843951-04:00.jpg">
   <img src="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-29T00:38:44.843951-04:00.jpg"
-     alt="Pittsburgh Post-Gazette at 2022-08-28 17:38:46-04:00 local time"
+     alt="Pittsburgh Post-Gazette at 2022-08-29 00:38:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-29T00:38:44.843951-04:00.jpg">August 28 at 5:38 PM</a></p>
+ <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-29T00:38:44.843951-04:00.jpg">August 29 at 12:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-28T12:00:41.391432-04:00.jpg">
   <img src="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-28T12:00:41.391432-04:00.jpg"
-     alt="Pittsburgh Post-Gazette at 2022-08-28 05:00:46-04:00 local time"
+     alt="Pittsburgh Post-Gazette at 2022-08-28 12:00:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-28T12:00:41.391432-04:00.jpg">August 28 at 5:00 AM</a></p>
+ <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-28T12:00:41.391432-04:00.jpg">August 28 at 12:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-28T00:35:03.643234-04:00.jpg">
   <img src="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-28T00:35:03.643234-04:00.jpg"
-     alt="Pittsburgh Post-Gazette at 2022-08-27 17:35:05-04:00 local time"
+     alt="Pittsburgh Post-Gazette at 2022-08-28 00:35:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-28T00:35:03.643234-04:00.jpg">August 27 at 5:35 PM</a></p>
+ <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-28T00:35:03.643234-04:00.jpg">August 28 at 12:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-27T11:56:51.877043-04:00.jpg">
   <img src="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-27T11:56:51.877043-04:00.jpg"
-     alt="Pittsburgh Post-Gazette at 2022-08-27 04:56:53-04:00 local time"
+     alt="Pittsburgh Post-Gazette at 2022-08-27 11:56:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-27T11:56:51.877043-04:00.jpg">August 27 at 4:56 AM</a></p>
+ <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-27T11:56:51.877043-04:00.jpg">August 27 at 11:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-27T00:36:22.619300-04:00.jpg">
   <img src="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-27T00:36:22.619300-04:00.jpg"
-     alt="Pittsburgh Post-Gazette at 2022-08-26 17:36:23-04:00 local time"
+     alt="Pittsburgh Post-Gazette at 2022-08-27 00:36:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-27T00:36:22.619300-04:00.jpg">August 26 at 5:36 PM</a></p>
+ <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-27T00:36:22.619300-04:00.jpg">August 27 at 12:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-26T12:02:53.015015-04:00.jpg">
   <img src="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-26T12:02:53.015015-04:00.jpg"
-     alt="Pittsburgh Post-Gazette at 2022-08-26 05:02:58-04:00 local time"
+     alt="Pittsburgh Post-Gazette at 2022-08-26 12:02:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-26T12:02:53.015015-04:00.jpg">August 26 at 5:02 AM</a></p>
+ <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-26T12:02:53.015015-04:00.jpg">August 26 at 12:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-26T00:40:37.192466-04:00.jpg">
   <img src="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-26T00:40:37.192466-04:00.jpg"
-     alt="Pittsburgh Post-Gazette at 2022-08-25 17:40:42-04:00 local time"
+     alt="Pittsburgh Post-Gazette at 2022-08-26 00:40:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-26T00:40:37.192466-04:00.jpg">August 25 at 5:40 PM</a></p>
+ <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-26T00:40:37.192466-04:00.jpg">August 26 at 12:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-25T12:02:51.956093-04:00.jpg">
   <img src="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-25T12:02:51.956093-04:00.jpg"
-     alt="Pittsburgh Post-Gazette at 2022-08-25 05:02:53-04:00 local time"
+     alt="Pittsburgh Post-Gazette at 2022-08-25 12:02:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-25T12:02:51.956093-04:00.jpg">August 25 at 5:02 AM</a></p>
+ <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-25T12:02:51.956093-04:00.jpg">August 25 at 12:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-24T11:59:24.835099-04:00.jpg">
   <img src="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-24T11:59:24.835099-04:00.jpg"
-     alt="Pittsburgh Post-Gazette at 2022-08-24 04:59:26-04:00 local time"
+     alt="Pittsburgh Post-Gazette at 2022-08-24 11:59:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-24T11:59:24.835099-04:00.jpg">August 24 at 4:59 AM</a></p>
+ <p><a href="https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-24T11:59:24.835099-04:00.jpg">August 24 at 11:59 AM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 5:33 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-30T12:33:28.661027-04:00.hyperlinks.json) |
-| [August 29 at 5:54 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-30T00:54:12.485518-04:00.hyperlinks.json) |
-| [August 29 at 5:14 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-29T12:14:15.819678-04:00.hyperlinks.json) |
-| [August 28 at 5:38 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-29T00:38:44.843951-04:00.hyperlinks.json) |
-| [August 28 at 5:00 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-28T12:00:41.391432-04:00.hyperlinks.json) |
-| [August 27 at 5:35 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-28T00:35:03.643234-04:00.hyperlinks.json) |
-| [August 27 at 4:56 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-27T11:56:51.877043-04:00.hyperlinks.json) |
-| [August 26 at 5:36 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-27T00:36:22.619300-04:00.hyperlinks.json) |
-| [August 26 at 5:03 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-26T12:02:53.015015-04:00.hyperlinks.json) |
-| [August 25 at 5:40 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-26T00:40:37.192466-04:00.hyperlinks.json) |
+| [August 30 at 12:33 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-30T12:33:28.661027-04:00.hyperlinks.json) |
+| [August 30 at 12:54 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-30T00:54:12.485518-04:00.hyperlinks.json) |
+| [August 29 at 12:14 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-29T12:14:15.819678-04:00.hyperlinks.json) |
+| [August 29 at 12:38 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-29T00:38:44.843951-04:00.hyperlinks.json) |
+| [August 28 at 12:00 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-28T12:00:41.391432-04:00.hyperlinks.json) |
+| [August 28 at 12:35 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-28T00:35:03.643234-04:00.hyperlinks.json) |
+| [August 27 at 11:56 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-27T11:56:51.877043-04:00.hyperlinks.json) |
+| [August 27 at 12:36 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-27T00:36:22.619300-04:00.hyperlinks.json) |
+| [August 26 at 12:03 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-26T12:02:53.015015-04:00.hyperlinks.json) |
+| [August 26 at 12:40 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-26T00:40:37.192466-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 5:33 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-30T12:33:28.661027-04:00.accessibility.json) |
-| [August 29 at 5:54 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-30T00:54:12.485518-04:00.accessibility.json) |
-| [August 29 at 5:14 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-29T12:14:15.819678-04:00.accessibility.json) |
-| [August 28 at 5:38 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-29T00:38:44.843951-04:00.accessibility.json) |
-| [August 28 at 5:00 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-28T12:00:41.391432-04:00.accessibility.json) |
-| [August 27 at 5:35 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-28T00:35:03.643234-04:00.accessibility.json) |
-| [August 27 at 4:56 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-27T11:56:51.877043-04:00.accessibility.json) |
-| [August 26 at 5:36 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-27T00:36:22.619300-04:00.accessibility.json) |
-| [August 26 at 5:03 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-26T12:02:53.015015-04:00.accessibility.json) |
-| [August 25 at 5:40 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-26T00:40:37.192466-04:00.accessibility.json) |
+| [August 30 at 12:33 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-30T12:33:28.661027-04:00.accessibility.json) |
+| [August 30 at 12:54 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-30T00:54:12.485518-04:00.accessibility.json) |
+| [August 29 at 12:14 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-29T12:14:15.819678-04:00.accessibility.json) |
+| [August 29 at 12:38 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-29T00:38:44.843951-04:00.accessibility.json) |
+| [August 28 at 12:00 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-28T12:00:41.391432-04:00.accessibility.json) |
+| [August 28 at 12:35 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-28T00:35:03.643234-04:00.accessibility.json) |
+| [August 27 at 11:56 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-27T11:56:51.877043-04:00.accessibility.json) |
+| [August 27 at 12:36 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-27T00:36:22.619300-04:00.accessibility.json) |
+| [August 26 at 12:03 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-26T12:02:53.015015-04:00.accessibility.json) |
+| [August 26 at 12:40 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-26T00:40:37.192466-04:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 5:33 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-30T12:33:28.661027-04:00.lighthouse.json) |
-| [August 29 at 5:54 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-30T00:54:12.485518-04:00.lighthouse.json) |
-| [August 29 at 5:14 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-29T12:14:15.819678-04:00.lighthouse.json) |
-| [August 28 at 5:38 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-29T00:38:44.843951-04:00.lighthouse.json) |
-| [August 28 at 5:00 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-28T12:00:41.391432-04:00.lighthouse.json) |
-| [August 27 at 5:35 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-28T00:35:03.643234-04:00.lighthouse.json) |
-| [August 27 at 4:56 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-27T11:56:51.877043-04:00.lighthouse.json) |
-| [August 26 at 5:36 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-27T00:36:22.619300-04:00.lighthouse.json) |
-| [August 26 at 5:03 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-26T12:02:53.015015-04:00.lighthouse.json) |
-| [August 25 at 5:40 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-26T00:40:37.192466-04:00.lighthouse.json) |
+| [August 30 at 12:33 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-30T12:33:28.661027-04:00.lighthouse.json) |
+| [August 30 at 12:54 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-30T00:54:12.485518-04:00.lighthouse.json) |
+| [August 29 at 12:14 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-29T12:14:15.819678-04:00.lighthouse.json) |
+| [August 29 at 12:38 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-29T00:38:44.843951-04:00.lighthouse.json) |
+| [August 28 at 12:00 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-28T12:00:41.391432-04:00.lighthouse.json) |
+| [August 28 at 12:35 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-28T00:35:03.643234-04:00.lighthouse.json) |
+| [August 27 at 11:56 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-27T11:56:51.877043-04:00.lighthouse.json) |
+| [August 27 at 12:36 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-27T00:36:22.619300-04:00.lighthouse.json) |
+| [August 26 at 12:03 PM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-26T12:02:53.015015-04:00.lighthouse.json) |
+| [August 26 at 12:40 AM](https://archive.org/download/pittsburghpg-2022/pittsburghpg-2022-08-26T00:40:37.192466-04:00.lighthouse.json) |
 
 
 

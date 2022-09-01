@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/newshour-2022/newshour-2022-08-30T17:53:10.248262-04:00.jpg">
   <img src="https://archive.org/download/newshour-2022/newshour-2022-08-30T17:53:10.248262-04:00.jpg"
-     alt="PBS News Hour at 2022-08-30 10:53:11-04:00 local time"
+     alt="PBS News Hour at 2022-08-30 17:53:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-30T17:53:10.248262-04:00.jpg">August 30 at 10:53 AM</a></p>
+ <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-30T17:53:10.248262-04:00.jpg">August 30 at 5:53 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newshour-2022/newshour-2022-08-30T17:18:19.022247-04:00.jpg">
   <img src="https://archive.org/download/newshour-2022/newshour-2022-08-30T17:18:19.022247-04:00.jpg"
-     alt="PBS News Hour at 2022-08-30 10:18:26-04:00 local time"
+     alt="PBS News Hour at 2022-08-30 17:18:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-30T17:18:19.022247-04:00.jpg">August 30 at 10:18 AM</a></p>
+ <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-30T17:18:19.022247-04:00.jpg">August 30 at 5:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newshour-2022/newshour-2022-08-30T09:16:33.052237-04:00.jpg">
   <img src="https://archive.org/download/newshour-2022/newshour-2022-08-30T09:16:33.052237-04:00.jpg"
-     alt="PBS News Hour at 2022-08-30 02:16:34-04:00 local time"
+     alt="PBS News Hour at 2022-08-30 09:16:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-30T09:16:33.052237-04:00.jpg">August 30 at 2:16 AM</a></p>
+ <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-30T09:16:33.052237-04:00.jpg">August 30 at 9:16 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newshour-2022/newshour-2022-08-30T09:07:27.809782-04:00.jpg">
   <img src="https://archive.org/download/newshour-2022/newshour-2022-08-30T09:07:27.809782-04:00.jpg"
-     alt="PBS News Hour at 2022-08-30 02:07:36-04:00 local time"
+     alt="PBS News Hour at 2022-08-30 09:07:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-30T09:07:27.809782-04:00.jpg">August 30 at 2:07 AM</a></p>
+ <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-30T09:07:27.809782-04:00.jpg">August 30 at 9:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newshour-2022/newshour-2022-08-29T21:16:11.638390-04:00.jpg">
   <img src="https://archive.org/download/newshour-2022/newshour-2022-08-29T21:16:11.638390-04:00.jpg"
-     alt="PBS News Hour at 2022-08-29 14:16:12-04:00 local time"
+     alt="PBS News Hour at 2022-08-29 21:16:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-29T21:16:11.638390-04:00.jpg">August 29 at 2:16 PM</a></p>
+ <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-29T21:16:11.638390-04:00.jpg">August 29 at 9:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newshour-2022/newshour-2022-08-29T17:15:21.258113-04:00.jpg">
   <img src="https://archive.org/download/newshour-2022/newshour-2022-08-29T17:15:21.258113-04:00.jpg"
-     alt="PBS News Hour at 2022-08-29 10:15:38-04:00 local time"
+     alt="PBS News Hour at 2022-08-29 17:15:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-29T17:15:21.258113-04:00.jpg">August 29 at 10:15 AM</a></p>
+ <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-29T17:15:21.258113-04:00.jpg">August 29 at 5:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newshour-2022/newshour-2022-08-29T08:59:23.280381-04:00.jpg">
   <img src="https://archive.org/download/newshour-2022/newshour-2022-08-29T08:59:23.280381-04:00.jpg"
-     alt="PBS News Hour at 2022-08-29 01:59:24-04:00 local time"
+     alt="PBS News Hour at 2022-08-29 08:59:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-29T08:59:23.280381-04:00.jpg">August 29 at 1:59 AM</a></p>
+ <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-29T08:59:23.280381-04:00.jpg">August 29 at 8:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newshour-2022/newshour-2022-08-29T08:56:07.788840-04:00.jpg">
   <img src="https://archive.org/download/newshour-2022/newshour-2022-08-29T08:56:07.788840-04:00.jpg"
-     alt="PBS News Hour at 2022-08-29 01:56:10-04:00 local time"
+     alt="PBS News Hour at 2022-08-29 08:56:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-29T08:56:07.788840-04:00.jpg">August 29 at 1:56 AM</a></p>
+ <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-29T08:56:07.788840-04:00.jpg">August 29 at 8:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newshour-2022/newshour-2022-08-28T21:14:15.043335-04:00.jpg">
   <img src="https://archive.org/download/newshour-2022/newshour-2022-08-28T21:14:15.043335-04:00.jpg"
-     alt="PBS News Hour at 2022-08-28 14:14:37-04:00 local time"
+     alt="PBS News Hour at 2022-08-28 21:14:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-28T21:14:15.043335-04:00.jpg">August 28 at 2:14 PM</a></p>
+ <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-28T21:14:15.043335-04:00.jpg">August 28 at 9:14 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newshour-2022/newshour-2022-08-28T17:16:17.131964-04:00.jpg">
   <img src="https://archive.org/download/newshour-2022/newshour-2022-08-28T17:16:17.131964-04:00.jpg"
-     alt="PBS News Hour at 2022-08-28 10:16:19-04:00 local time"
+     alt="PBS News Hour at 2022-08-28 17:16:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-28T17:16:17.131964-04:00.jpg">August 28 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-28T17:16:17.131964-04:00.jpg">August 28 at 5:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newshour-2022/newshour-2022-08-28T08:59:20.722692-04:00.jpg">
   <img src="https://archive.org/download/newshour-2022/newshour-2022-08-28T08:59:20.722692-04:00.jpg"
-     alt="PBS News Hour at 2022-08-28 01:59:22-04:00 local time"
+     alt="PBS News Hour at 2022-08-28 08:59:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-28T08:59:20.722692-04:00.jpg">August 28 at 1:59 AM</a></p>
+ <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-28T08:59:20.722692-04:00.jpg">August 28 at 8:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newshour-2022/newshour-2022-08-28T08:56:26.989157-04:00.jpg">
   <img src="https://archive.org/download/newshour-2022/newshour-2022-08-28T08:56:26.989157-04:00.jpg"
-     alt="PBS News Hour at 2022-08-28 01:56:33-04:00 local time"
+     alt="PBS News Hour at 2022-08-28 08:56:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-28T08:56:26.989157-04:00.jpg">August 28 at 1:56 AM</a></p>
+ <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-28T08:56:26.989157-04:00.jpg">August 28 at 8:56 AM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 10:53 AM](https://archive.org/download/newshour-2022/newshour-2022-08-30T17:53:10.248262-04:00.hyperlinks.json) |
-| [August 30 at 10:18 AM](https://archive.org/download/newshour-2022/newshour-2022-08-30T17:18:19.022247-04:00.hyperlinks.json) |
-| [August 30 at 2:16 AM](https://archive.org/download/newshour-2022/newshour-2022-08-30T09:16:33.052237-04:00.hyperlinks.json) |
-| [August 30 at 2:07 AM](https://archive.org/download/newshour-2022/newshour-2022-08-30T09:07:27.809782-04:00.hyperlinks.json) |
-| [August 29 at 2:16 PM](https://archive.org/download/newshour-2022/newshour-2022-08-29T21:16:11.638390-04:00.hyperlinks.json) |
-| [August 29 at 10:15 AM](https://archive.org/download/newshour-2022/newshour-2022-08-29T17:15:21.258113-04:00.hyperlinks.json) |
-| [August 29 at 1:59 AM](https://archive.org/download/newshour-2022/newshour-2022-08-29T08:59:23.280381-04:00.hyperlinks.json) |
-| [August 29 at 1:56 AM](https://archive.org/download/newshour-2022/newshour-2022-08-29T08:56:07.788840-04:00.hyperlinks.json) |
-| [August 28 at 2:14 PM](https://archive.org/download/newshour-2022/newshour-2022-08-28T21:14:15.043335-04:00.hyperlinks.json) |
-| [August 28 at 10:16 AM](https://archive.org/download/newshour-2022/newshour-2022-08-28T17:16:17.131964-04:00.hyperlinks.json) |
+| [August 30 at 5:53 PM](https://archive.org/download/newshour-2022/newshour-2022-08-30T17:53:10.248262-04:00.hyperlinks.json) |
+| [August 30 at 5:18 PM](https://archive.org/download/newshour-2022/newshour-2022-08-30T17:18:19.022247-04:00.hyperlinks.json) |
+| [August 30 at 9:16 AM](https://archive.org/download/newshour-2022/newshour-2022-08-30T09:16:33.052237-04:00.hyperlinks.json) |
+| [August 30 at 9:07 AM](https://archive.org/download/newshour-2022/newshour-2022-08-30T09:07:27.809782-04:00.hyperlinks.json) |
+| [August 29 at 9:16 PM](https://archive.org/download/newshour-2022/newshour-2022-08-29T21:16:11.638390-04:00.hyperlinks.json) |
+| [August 29 at 5:15 PM](https://archive.org/download/newshour-2022/newshour-2022-08-29T17:15:21.258113-04:00.hyperlinks.json) |
+| [August 29 at 8:59 AM](https://archive.org/download/newshour-2022/newshour-2022-08-29T08:59:23.280381-04:00.hyperlinks.json) |
+| [August 29 at 8:56 AM](https://archive.org/download/newshour-2022/newshour-2022-08-29T08:56:07.788840-04:00.hyperlinks.json) |
+| [August 28 at 9:14 PM](https://archive.org/download/newshour-2022/newshour-2022-08-28T21:14:15.043335-04:00.hyperlinks.json) |
+| [August 28 at 5:16 PM](https://archive.org/download/newshour-2022/newshour-2022-08-28T17:16:17.131964-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 10:53 AM](https://archive.org/download/newshour-2022/newshour-2022-08-30T17:53:10.248262-04:00.accessibility.json) |
-| [August 30 at 10:18 AM](https://archive.org/download/newshour-2022/newshour-2022-08-30T17:18:19.022247-04:00.accessibility.json) |
-| [August 30 at 2:16 AM](https://archive.org/download/newshour-2022/newshour-2022-08-30T09:16:33.052237-04:00.accessibility.json) |
-| [August 30 at 2:07 AM](https://archive.org/download/newshour-2022/newshour-2022-08-30T09:07:27.809782-04:00.accessibility.json) |
-| [August 29 at 2:16 PM](https://archive.org/download/newshour-2022/newshour-2022-08-29T21:16:11.638390-04:00.accessibility.json) |
-| [August 29 at 10:15 AM](https://archive.org/download/newshour-2022/newshour-2022-08-29T17:15:21.258113-04:00.accessibility.json) |
-| [August 29 at 1:59 AM](https://archive.org/download/newshour-2022/newshour-2022-08-29T08:59:23.280381-04:00.accessibility.json) |
-| [August 29 at 1:56 AM](https://archive.org/download/newshour-2022/newshour-2022-08-29T08:56:07.788840-04:00.accessibility.json) |
-| [August 28 at 2:14 PM](https://archive.org/download/newshour-2022/newshour-2022-08-28T21:14:15.043335-04:00.accessibility.json) |
-| [August 28 at 10:16 AM](https://archive.org/download/newshour-2022/newshour-2022-08-28T17:16:17.131964-04:00.accessibility.json) |
+| [August 30 at 5:53 PM](https://archive.org/download/newshour-2022/newshour-2022-08-30T17:53:10.248262-04:00.accessibility.json) |
+| [August 30 at 5:18 PM](https://archive.org/download/newshour-2022/newshour-2022-08-30T17:18:19.022247-04:00.accessibility.json) |
+| [August 30 at 9:16 AM](https://archive.org/download/newshour-2022/newshour-2022-08-30T09:16:33.052237-04:00.accessibility.json) |
+| [August 30 at 9:07 AM](https://archive.org/download/newshour-2022/newshour-2022-08-30T09:07:27.809782-04:00.accessibility.json) |
+| [August 29 at 9:16 PM](https://archive.org/download/newshour-2022/newshour-2022-08-29T21:16:11.638390-04:00.accessibility.json) |
+| [August 29 at 5:15 PM](https://archive.org/download/newshour-2022/newshour-2022-08-29T17:15:21.258113-04:00.accessibility.json) |
+| [August 29 at 8:59 AM](https://archive.org/download/newshour-2022/newshour-2022-08-29T08:59:23.280381-04:00.accessibility.json) |
+| [August 29 at 8:56 AM](https://archive.org/download/newshour-2022/newshour-2022-08-29T08:56:07.788840-04:00.accessibility.json) |
+| [August 28 at 9:14 PM](https://archive.org/download/newshour-2022/newshour-2022-08-28T21:14:15.043335-04:00.accessibility.json) |
+| [August 28 at 5:16 PM](https://archive.org/download/newshour-2022/newshour-2022-08-28T17:16:17.131964-04:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 10:53 AM](https://archive.org/download/newshour-2022/newshour-2022-08-30T17:53:10.248262-04:00.lighthouse.json) |
-| [August 30 at 10:18 AM](https://archive.org/download/newshour-2022/newshour-2022-08-30T17:18:19.022247-04:00.lighthouse.json) |
-| [August 30 at 2:16 AM](https://archive.org/download/newshour-2022/newshour-2022-08-30T09:16:33.052237-04:00.lighthouse.json) |
-| [August 30 at 2:07 AM](https://archive.org/download/newshour-2022/newshour-2022-08-30T09:07:27.809782-04:00.lighthouse.json) |
-| [August 29 at 2:16 PM](https://archive.org/download/newshour-2022/newshour-2022-08-29T21:16:11.638390-04:00.lighthouse.json) |
-| [August 29 at 10:15 AM](https://archive.org/download/newshour-2022/newshour-2022-08-29T17:15:21.258113-04:00.lighthouse.json) |
-| [August 29 at 1:59 AM](https://archive.org/download/newshour-2022/newshour-2022-08-29T08:59:23.280381-04:00.lighthouse.json) |
-| [August 29 at 1:56 AM](https://archive.org/download/newshour-2022/newshour-2022-08-29T08:56:07.788840-04:00.lighthouse.json) |
-| [August 28 at 2:14 PM](https://archive.org/download/newshour-2022/newshour-2022-08-28T21:14:15.043335-04:00.lighthouse.json) |
-| [August 28 at 10:16 AM](https://archive.org/download/newshour-2022/newshour-2022-08-28T17:16:17.131964-04:00.lighthouse.json) |
+| [August 30 at 5:53 PM](https://archive.org/download/newshour-2022/newshour-2022-08-30T17:53:10.248262-04:00.lighthouse.json) |
+| [August 30 at 5:18 PM](https://archive.org/download/newshour-2022/newshour-2022-08-30T17:18:19.022247-04:00.lighthouse.json) |
+| [August 30 at 9:16 AM](https://archive.org/download/newshour-2022/newshour-2022-08-30T09:16:33.052237-04:00.lighthouse.json) |
+| [August 30 at 9:07 AM](https://archive.org/download/newshour-2022/newshour-2022-08-30T09:07:27.809782-04:00.lighthouse.json) |
+| [August 29 at 9:16 PM](https://archive.org/download/newshour-2022/newshour-2022-08-29T21:16:11.638390-04:00.lighthouse.json) |
+| [August 29 at 5:15 PM](https://archive.org/download/newshour-2022/newshour-2022-08-29T17:15:21.258113-04:00.lighthouse.json) |
+| [August 29 at 8:59 AM](https://archive.org/download/newshour-2022/newshour-2022-08-29T08:59:23.280381-04:00.lighthouse.json) |
+| [August 29 at 8:56 AM](https://archive.org/download/newshour-2022/newshour-2022-08-29T08:56:07.788840-04:00.lighthouse.json) |
+| [August 28 at 9:14 PM](https://archive.org/download/newshour-2022/newshour-2022-08-28T21:14:15.043335-04:00.lighthouse.json) |
+| [August 28 at 5:16 PM](https://archive.org/download/newshour-2022/newshour-2022-08-28T17:16:17.131964-04:00.lighthouse.json) |
 
 
 

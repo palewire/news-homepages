@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T18:59:25.112883-05:00.jpg">
   <img src="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T18:59:25.112883-05:00.jpg"
-     alt="Austin Weekly News at 2022-08-30 11:59:26-05:00 local time"
+     alt="Austin Weekly News at 2022-08-30 18:59:26-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T18:59:25.112883-05:00.jpg">August 30 at 11:59 AM</a></p>
+ <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T18:59:25.112883-05:00.jpg">August 30 at 6:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T11:30:05.258117-05:00.jpg">
   <img src="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T11:30:05.258117-05:00.jpg"
-     alt="Austin Weekly News at 2022-08-30 04:30:07-05:00 local time"
+     alt="Austin Weekly News at 2022-08-30 11:30:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T11:30:05.258117-05:00.jpg">August 30 at 4:30 AM</a></p>
+ <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T11:30:05.258117-05:00.jpg">August 30 at 11:30 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T07:06:34.334167-05:00.jpg">
   <img src="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T07:06:34.334167-05:00.jpg"
-     alt="Austin Weekly News at 2022-08-30 00:06:44-05:00 local time"
+     alt="Austin Weekly News at 2022-08-30 07:06:44-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T07:06:34.334167-05:00.jpg">August 30 at 12:06 AM</a></p>
+ <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T07:06:34.334167-05:00.jpg">August 30 at 7:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T18:50:13.943559-05:00.jpg">
   <img src="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T18:50:13.943559-05:00.jpg"
-     alt="Austin Weekly News at 2022-08-29 11:50:19-05:00 local time"
+     alt="Austin Weekly News at 2022-08-29 18:50:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T18:50:13.943559-05:00.jpg">August 29 at 11:50 AM</a></p>
+ <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T18:50:13.943559-05:00.jpg">August 29 at 6:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T11:12:15.859301-05:00.jpg">
   <img src="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T11:12:15.859301-05:00.jpg"
-     alt="Austin Weekly News at 2022-08-29 04:12:17-05:00 local time"
+     alt="Austin Weekly News at 2022-08-29 11:12:17-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T11:12:15.859301-05:00.jpg">August 29 at 4:12 AM</a></p>
+ <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T11:12:15.859301-05:00.jpg">August 29 at 11:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T06:56:06.146894-05:00.jpg">
   <img src="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T06:56:06.146894-05:00.jpg"
-     alt="Austin Weekly News at 2022-08-28 23:56:34-05:00 local time"
+     alt="Austin Weekly News at 2022-08-29 06:56:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T06:56:06.146894-05:00.jpg">August 28 at 11:56 PM</a></p>
+ <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T06:56:06.146894-05:00.jpg">August 29 at 6:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T18:46:42.101227-05:00.jpg">
   <img src="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T18:46:42.101227-05:00.jpg"
-     alt="Austin Weekly News at 2022-08-28 11:46:45-05:00 local time"
+     alt="Austin Weekly News at 2022-08-28 18:46:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T18:46:42.101227-05:00.jpg">August 28 at 11:46 AM</a></p>
+ <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T18:46:42.101227-05:00.jpg">August 28 at 6:46 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T10:56:16.624786-05:00.jpg">
   <img src="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T10:56:16.624786-05:00.jpg"
-     alt="Austin Weekly News at 2022-08-28 03:56:18-05:00 local time"
+     alt="Austin Weekly News at 2022-08-28 10:56:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T10:56:16.624786-05:00.jpg">August 28 at 3:56 AM</a></p>
+ <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T10:56:16.624786-05:00.jpg">August 28 at 10:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T06:57:30.731523-05:00.jpg">
   <img src="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T06:57:30.731523-05:00.jpg"
-     alt="Austin Weekly News at 2022-08-27 23:57:32-05:00 local time"
+     alt="Austin Weekly News at 2022-08-28 06:57:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T06:57:30.731523-05:00.jpg">August 27 at 11:57 PM</a></p>
+ <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T06:57:30.731523-05:00.jpg">August 28 at 6:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-27T18:48:41.520304-05:00.jpg">
   <img src="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-27T18:48:41.520304-05:00.jpg"
-     alt="Austin Weekly News at 2022-08-27 11:48:46-05:00 local time"
+     alt="Austin Weekly News at 2022-08-27 18:48:46-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-27T18:48:41.520304-05:00.jpg">August 27 at 11:48 AM</a></p>
+ <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-27T18:48:41.520304-05:00.jpg">August 27 at 6:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-27T10:53:58.478480-05:00.jpg">
   <img src="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-27T10:53:58.478480-05:00.jpg"
-     alt="Austin Weekly News at 2022-08-27 03:54:02-05:00 local time"
+     alt="Austin Weekly News at 2022-08-27 10:54:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-27T10:53:58.478480-05:00.jpg">August 27 at 3:54 AM</a></p>
+ <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-27T10:53:58.478480-05:00.jpg">August 27 at 10:54 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-27T06:51:08.636023-05:00.jpg">
   <img src="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-27T06:51:08.636023-05:00.jpg"
-     alt="Austin Weekly News at 2022-08-26 23:51:10-05:00 local time"
+     alt="Austin Weekly News at 2022-08-27 06:51:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-27T06:51:08.636023-05:00.jpg">August 26 at 11:51 PM</a></p>
+ <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-27T06:51:08.636023-05:00.jpg">August 27 at 6:51 AM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 11:59 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T18:59:25.112883-05:00.hyperlinks.json) |
-| [August 30 at 4:30 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T11:30:05.258117-05:00.hyperlinks.json) |
-| [August 30 at 12:06 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T07:06:34.334167-05:00.hyperlinks.json) |
-| [August 29 at 11:50 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T18:50:13.943559-05:00.hyperlinks.json) |
-| [August 29 at 4:12 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T11:12:15.859301-05:00.hyperlinks.json) |
-| [August 28 at 11:56 PM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T06:56:06.146894-05:00.hyperlinks.json) |
-| [August 28 at 11:46 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T18:46:42.101227-05:00.hyperlinks.json) |
-| [August 28 at 3:56 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T10:56:16.624786-05:00.hyperlinks.json) |
-| [August 27 at 11:57 PM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T06:57:30.731523-05:00.hyperlinks.json) |
-| [August 27 at 11:48 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-27T18:48:41.520304-05:00.hyperlinks.json) |
+| [August 30 at 6:59 PM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T18:59:25.112883-05:00.hyperlinks.json) |
+| [August 30 at 11:30 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T11:30:05.258117-05:00.hyperlinks.json) |
+| [August 30 at 7:06 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T07:06:34.334167-05:00.hyperlinks.json) |
+| [August 29 at 6:50 PM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T18:50:13.943559-05:00.hyperlinks.json) |
+| [August 29 at 11:12 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T11:12:15.859301-05:00.hyperlinks.json) |
+| [August 29 at 6:56 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T06:56:06.146894-05:00.hyperlinks.json) |
+| [August 28 at 6:46 PM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T18:46:42.101227-05:00.hyperlinks.json) |
+| [August 28 at 10:56 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T10:56:16.624786-05:00.hyperlinks.json) |
+| [August 28 at 6:57 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T06:57:30.731523-05:00.hyperlinks.json) |
+| [August 27 at 6:48 PM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-27T18:48:41.520304-05:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 11:59 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T18:59:25.112883-05:00.accessibility.json) |
-| [August 30 at 4:30 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T11:30:05.258117-05:00.accessibility.json) |
-| [August 30 at 12:06 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T07:06:34.334167-05:00.accessibility.json) |
-| [August 29 at 11:50 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T18:50:13.943559-05:00.accessibility.json) |
-| [August 29 at 4:12 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T11:12:15.859301-05:00.accessibility.json) |
-| [August 28 at 11:56 PM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T06:56:06.146894-05:00.accessibility.json) |
-| [August 28 at 11:46 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T18:46:42.101227-05:00.accessibility.json) |
-| [August 28 at 3:56 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T10:56:16.624786-05:00.accessibility.json) |
-| [August 27 at 11:57 PM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T06:57:30.731523-05:00.accessibility.json) |
-| [August 27 at 11:48 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-27T18:48:41.520304-05:00.accessibility.json) |
+| [August 30 at 6:59 PM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T18:59:25.112883-05:00.accessibility.json) |
+| [August 30 at 11:30 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T11:30:05.258117-05:00.accessibility.json) |
+| [August 30 at 7:06 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T07:06:34.334167-05:00.accessibility.json) |
+| [August 29 at 6:50 PM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T18:50:13.943559-05:00.accessibility.json) |
+| [August 29 at 11:12 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T11:12:15.859301-05:00.accessibility.json) |
+| [August 29 at 6:56 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T06:56:06.146894-05:00.accessibility.json) |
+| [August 28 at 6:46 PM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T18:46:42.101227-05:00.accessibility.json) |
+| [August 28 at 10:56 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T10:56:16.624786-05:00.accessibility.json) |
+| [August 28 at 6:57 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T06:57:30.731523-05:00.accessibility.json) |
+| [August 27 at 6:48 PM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-27T18:48:41.520304-05:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 11:59 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T18:59:25.112883-05:00.lighthouse.json) |
-| [August 30 at 4:30 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T11:30:05.258117-05:00.lighthouse.json) |
-| [August 30 at 12:06 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T07:06:34.334167-05:00.lighthouse.json) |
-| [August 29 at 11:50 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T18:50:13.943559-05:00.lighthouse.json) |
-| [August 29 at 4:12 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T11:12:15.859301-05:00.lighthouse.json) |
-| [August 28 at 11:56 PM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T06:56:06.146894-05:00.lighthouse.json) |
-| [August 28 at 11:46 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T18:46:42.101227-05:00.lighthouse.json) |
-| [August 28 at 3:56 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T10:56:16.624786-05:00.lighthouse.json) |
-| [August 27 at 11:57 PM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T06:57:30.731523-05:00.lighthouse.json) |
-| [August 27 at 11:48 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-27T18:48:41.520304-05:00.lighthouse.json) |
+| [August 30 at 6:59 PM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T18:59:25.112883-05:00.lighthouse.json) |
+| [August 30 at 11:30 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T11:30:05.258117-05:00.lighthouse.json) |
+| [August 30 at 7:06 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-30T07:06:34.334167-05:00.lighthouse.json) |
+| [August 29 at 6:50 PM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T18:50:13.943559-05:00.lighthouse.json) |
+| [August 29 at 11:12 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T11:12:15.859301-05:00.lighthouse.json) |
+| [August 29 at 6:56 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-29T06:56:06.146894-05:00.lighthouse.json) |
+| [August 28 at 6:46 PM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T18:46:42.101227-05:00.lighthouse.json) |
+| [August 28 at 10:56 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T10:56:16.624786-05:00.lighthouse.json) |
+| [August 28 at 6:57 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-28T06:57:30.731523-05:00.lighthouse.json) |
+| [August 27 at 6:48 PM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-08-27T18:48:41.520304-05:00.lighthouse.json) |
 
 
 

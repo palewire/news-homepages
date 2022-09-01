@@ -245,109 +245,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-30T17:21:57.352643+02:00.jpg">
   <img src="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-30T17:21:57.352643+02:00.jpg"
-     alt="Daily Maverick at 2022-08-30 10:22:01+02:00 local time"
+     alt="Daily Maverick at 2022-08-30 17:22:01+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-30T17:21:57.352643+02:00.jpg">August 30 at 10:22 AM</a></p>
+ <p><a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-30T17:21:57.352643+02:00.jpg">August 30 at 5:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-30T04:30:10.934057+02:00.jpg">
   <img src="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-30T04:30:10.934057+02:00.jpg"
-     alt="Daily Maverick at 2022-08-29 21:30:12+02:00 local time"
+     alt="Daily Maverick at 2022-08-30 04:30:12+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-30T04:30:10.934057+02:00.jpg">August 29 at 9:30 PM</a></p>
+ <p><a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-30T04:30:10.934057+02:00.jpg">August 30 at 4:30 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-29T16:09:30.133201+02:00.jpg">
   <img src="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-29T16:09:30.133201+02:00.jpg"
-     alt="Daily Maverick at 2022-08-29 09:09:33+02:00 local time"
+     alt="Daily Maverick at 2022-08-29 16:09:33+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-29T16:09:30.133201+02:00.jpg">August 29 at 9:09 AM</a></p>
+ <p><a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-29T16:09:30.133201+02:00.jpg">August 29 at 4:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-29T04:24:53.073751+02:00.jpg">
   <img src="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-29T04:24:53.073751+02:00.jpg"
-     alt="Daily Maverick at 2022-08-28 21:24:55+02:00 local time"
+     alt="Daily Maverick at 2022-08-29 04:24:55+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-29T04:24:53.073751+02:00.jpg">August 28 at 9:24 PM</a></p>
+ <p><a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-29T04:24:53.073751+02:00.jpg">August 29 at 4:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-28T16:03:49.093534+02:00.jpg">
   <img src="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-28T16:03:49.093534+02:00.jpg"
-     alt="Daily Maverick at 2022-08-28 09:03:51+02:00 local time"
+     alt="Daily Maverick at 2022-08-28 16:03:51+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-28T16:03:49.093534+02:00.jpg">August 28 at 9:03 AM</a></p>
+ <p><a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-28T16:03:49.093534+02:00.jpg">August 28 at 4:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-28T04:28:29.216950+02:00.jpg">
   <img src="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-28T04:28:29.216950+02:00.jpg"
-     alt="Daily Maverick at 2022-08-27 21:28:31+02:00 local time"
+     alt="Daily Maverick at 2022-08-28 04:28:31+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-28T04:28:29.216950+02:00.jpg">August 27 at 9:28 PM</a></p>
+ <p><a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-28T04:28:29.216950+02:00.jpg">August 28 at 4:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-27T15:59:39.101330+02:00.jpg">
   <img src="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-27T15:59:39.101330+02:00.jpg"
-     alt="Daily Maverick at 2022-08-27 08:59:40+02:00 local time"
+     alt="Daily Maverick at 2022-08-27 15:59:40+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-27T15:59:39.101330+02:00.jpg">August 27 at 8:59 AM</a></p>
+ <p><a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-27T15:59:39.101330+02:00.jpg">August 27 at 3:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-27T04:22:35.666819+02:00.jpg">
   <img src="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-27T04:22:35.666819+02:00.jpg"
-     alt="Daily Maverick at 2022-08-26 21:22:36+02:00 local time"
+     alt="Daily Maverick at 2022-08-27 04:22:36+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-27T04:22:35.666819+02:00.jpg">August 26 at 9:22 PM</a></p>
+ <p><a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-27T04:22:35.666819+02:00.jpg">August 27 at 4:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-26T16:06:59.781255+02:00.jpg">
   <img src="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-26T16:06:59.781255+02:00.jpg"
-     alt="Daily Maverick at 2022-08-26 09:07:02+02:00 local time"
+     alt="Daily Maverick at 2022-08-26 16:07:02+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-26T16:06:59.781255+02:00.jpg">August 26 at 9:07 AM</a></p>
+ <p><a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-26T16:06:59.781255+02:00.jpg">August 26 at 4:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-26T04:24:28.637907+02:00.jpg">
   <img src="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-26T04:24:28.637907+02:00.jpg"
-     alt="Daily Maverick at 2022-08-25 21:24:30+02:00 local time"
+     alt="Daily Maverick at 2022-08-26 04:24:30+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-26T04:24:28.637907+02:00.jpg">August 25 at 9:24 PM</a></p>
+ <p><a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-26T04:24:28.637907+02:00.jpg">August 26 at 4:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-25T16:56:02.381151+02:00.jpg">
   <img src="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-25T16:56:02.381151+02:00.jpg"
-     alt="Daily Maverick at 2022-08-25 09:56:03+02:00 local time"
+     alt="Daily Maverick at 2022-08-25 16:56:03+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-25T16:56:02.381151+02:00.jpg">August 25 at 9:56 AM</a></p>
+ <p><a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-25T16:56:02.381151+02:00.jpg">August 25 at 4:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-24T16:00:39.144669+02:00.jpg">
   <img src="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-24T16:00:39.144669+02:00.jpg"
-     alt="Daily Maverick at 2022-08-24 09:00:40+02:00 local time"
+     alt="Daily Maverick at 2022-08-24 16:00:40+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-24T16:00:39.144669+02:00.jpg">August 24 at 9:00 AM</a></p>
+ <p><a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-24T16:00:39.144669+02:00.jpg">August 24 at 4:00 PM</a></p>
 </div>
 
 </div>
@@ -362,16 +362,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 10:22 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-30T17:21:57.352643+02:00.hyperlinks.json) |
-| [August 29 at 9:30 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-30T04:30:10.934057+02:00.hyperlinks.json) |
-| [August 29 at 9:09 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-29T16:09:30.133201+02:00.hyperlinks.json) |
-| [August 28 at 9:24 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-29T04:24:53.073751+02:00.hyperlinks.json) |
-| [August 28 at 9:03 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-28T16:03:49.093534+02:00.hyperlinks.json) |
-| [August 27 at 9:28 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-28T04:28:29.216950+02:00.hyperlinks.json) |
-| [August 27 at 8:59 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-27T15:59:39.101330+02:00.hyperlinks.json) |
-| [August 26 at 9:22 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-27T04:22:35.666819+02:00.hyperlinks.json) |
-| [August 26 at 9:07 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-26T16:06:59.781255+02:00.hyperlinks.json) |
-| [August 25 at 9:24 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-26T04:24:28.637907+02:00.hyperlinks.json) |
+| [August 30 at 5:22 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-30T17:21:57.352643+02:00.hyperlinks.json) |
+| [August 30 at 4:30 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-30T04:30:10.934057+02:00.hyperlinks.json) |
+| [August 29 at 4:09 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-29T16:09:30.133201+02:00.hyperlinks.json) |
+| [August 29 at 4:24 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-29T04:24:53.073751+02:00.hyperlinks.json) |
+| [August 28 at 4:03 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-28T16:03:49.093534+02:00.hyperlinks.json) |
+| [August 28 at 4:28 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-28T04:28:29.216950+02:00.hyperlinks.json) |
+| [August 27 at 3:59 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-27T15:59:39.101330+02:00.hyperlinks.json) |
+| [August 27 at 4:22 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-27T04:22:35.666819+02:00.hyperlinks.json) |
+| [August 26 at 4:07 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-26T16:06:59.781255+02:00.hyperlinks.json) |
+| [August 26 at 4:24 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-26T04:24:28.637907+02:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -384,16 +384,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 10:22 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-30T17:21:57.352643+02:00.accessibility.json) |
-| [August 29 at 9:30 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-30T04:30:10.934057+02:00.accessibility.json) |
-| [August 29 at 9:09 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-29T16:09:30.133201+02:00.accessibility.json) |
-| [August 28 at 9:24 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-29T04:24:53.073751+02:00.accessibility.json) |
-| [August 28 at 9:03 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-28T16:03:49.093534+02:00.accessibility.json) |
-| [August 27 at 9:28 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-28T04:28:29.216950+02:00.accessibility.json) |
-| [August 27 at 8:59 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-27T15:59:39.101330+02:00.accessibility.json) |
-| [August 26 at 9:22 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-27T04:22:35.666819+02:00.accessibility.json) |
-| [August 26 at 9:07 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-26T16:06:59.781255+02:00.accessibility.json) |
-| [August 25 at 9:24 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-26T04:24:28.637907+02:00.accessibility.json) |
+| [August 30 at 5:22 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-30T17:21:57.352643+02:00.accessibility.json) |
+| [August 30 at 4:30 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-30T04:30:10.934057+02:00.accessibility.json) |
+| [August 29 at 4:09 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-29T16:09:30.133201+02:00.accessibility.json) |
+| [August 29 at 4:24 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-29T04:24:53.073751+02:00.accessibility.json) |
+| [August 28 at 4:03 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-28T16:03:49.093534+02:00.accessibility.json) |
+| [August 28 at 4:28 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-28T04:28:29.216950+02:00.accessibility.json) |
+| [August 27 at 3:59 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-27T15:59:39.101330+02:00.accessibility.json) |
+| [August 27 at 4:22 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-27T04:22:35.666819+02:00.accessibility.json) |
+| [August 26 at 4:07 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-26T16:06:59.781255+02:00.accessibility.json) |
+| [August 26 at 4:24 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-26T04:24:28.637907+02:00.accessibility.json) |
 
 
 
@@ -407,16 +407,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 10:22 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-30T17:21:57.352643+02:00.lighthouse.json) |
-| [August 29 at 9:30 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-30T04:30:10.934057+02:00.lighthouse.json) |
-| [August 29 at 9:09 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-29T16:09:30.133201+02:00.lighthouse.json) |
-| [August 28 at 9:24 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-29T04:24:53.073751+02:00.lighthouse.json) |
-| [August 28 at 9:03 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-28T16:03:49.093534+02:00.lighthouse.json) |
-| [August 27 at 9:28 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-28T04:28:29.216950+02:00.lighthouse.json) |
-| [August 27 at 8:59 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-27T15:59:39.101330+02:00.lighthouse.json) |
-| [August 26 at 9:22 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-27T04:22:35.666819+02:00.lighthouse.json) |
-| [August 26 at 9:07 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-26T16:06:59.781255+02:00.lighthouse.json) |
-| [August 25 at 9:24 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-26T04:24:28.637907+02:00.lighthouse.json) |
+| [August 30 at 5:22 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-30T17:21:57.352643+02:00.lighthouse.json) |
+| [August 30 at 4:30 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-30T04:30:10.934057+02:00.lighthouse.json) |
+| [August 29 at 4:09 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-29T16:09:30.133201+02:00.lighthouse.json) |
+| [August 29 at 4:24 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-29T04:24:53.073751+02:00.lighthouse.json) |
+| [August 28 at 4:03 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-28T16:03:49.093534+02:00.lighthouse.json) |
+| [August 28 at 4:28 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-28T04:28:29.216950+02:00.lighthouse.json) |
+| [August 27 at 3:59 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-27T15:59:39.101330+02:00.lighthouse.json) |
+| [August 27 at 4:22 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-27T04:22:35.666819+02:00.lighthouse.json) |
+| [August 26 at 4:07 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-26T16:06:59.781255+02:00.lighthouse.json) |
+| [August 26 at 4:24 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-26T04:24:28.637907+02:00.lighthouse.json) |
 
 
 

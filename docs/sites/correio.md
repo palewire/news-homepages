@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/correio-2022/correio-2022-08-30T12:20:30.601337-03:00.jpg">
   <img src="https://archive.org/download/correio-2022/correio-2022-08-30T12:20:30.601337-03:00.jpg"
-     alt="Correio Braziliense at 2022-08-30 05:20:35-03:00 local time"
+     alt="Correio Braziliense at 2022-08-30 12:20:35-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/correio-2022/correio-2022-08-30T12:20:30.601337-03:00.jpg">August 30 at 5:20 AM</a></p>
+ <p><a href="https://archive.org/download/correio-2022/correio-2022-08-30T12:20:30.601337-03:00.jpg">August 30 at 12:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/correio-2022/correio-2022-08-30T09:14:56.455381-03:00.jpg">
   <img src="https://archive.org/download/correio-2022/correio-2022-08-30T09:14:56.455381-03:00.jpg"
-     alt="Correio Braziliense at 2022-08-30 02:15:00-03:00 local time"
+     alt="Correio Braziliense at 2022-08-30 09:15:00-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/correio-2022/correio-2022-08-30T09:14:56.455381-03:00.jpg">August 30 at 2:15 AM</a></p>
+ <p><a href="https://archive.org/download/correio-2022/correio-2022-08-30T09:14:56.455381-03:00.jpg">August 30 at 9:15 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/correio-2022/correio-2022-08-29T23:29:06.359078-03:00.jpg">
   <img src="https://archive.org/download/correio-2022/correio-2022-08-29T23:29:06.359078-03:00.jpg"
-     alt="Correio Braziliense at 2022-08-29 16:29:12-03:00 local time"
+     alt="Correio Braziliense at 2022-08-29 23:29:12-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/correio-2022/correio-2022-08-29T23:29:06.359078-03:00.jpg">August 29 at 4:29 PM</a></p>
+ <p><a href="https://archive.org/download/correio-2022/correio-2022-08-29T23:29:06.359078-03:00.jpg">August 29 at 11:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/correio-2022/correio-2022-08-29T11:07:24.018842-03:00.jpg">
   <img src="https://archive.org/download/correio-2022/correio-2022-08-29T11:07:24.018842-03:00.jpg"
-     alt="Correio Braziliense at 2022-08-29 04:07:25-03:00 local time"
+     alt="Correio Braziliense at 2022-08-29 11:07:25-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/correio-2022/correio-2022-08-29T11:07:24.018842-03:00.jpg">August 29 at 4:07 AM</a></p>
+ <p><a href="https://archive.org/download/correio-2022/correio-2022-08-29T11:07:24.018842-03:00.jpg">August 29 at 11:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/correio-2022/correio-2022-08-29T09:01:54.587422-03:00.jpg">
   <img src="https://archive.org/download/correio-2022/correio-2022-08-29T09:01:54.587422-03:00.jpg"
-     alt="Correio Braziliense at 2022-08-29 02:01:56-03:00 local time"
+     alt="Correio Braziliense at 2022-08-29 09:01:56-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/correio-2022/correio-2022-08-29T09:01:54.587422-03:00.jpg">August 29 at 2:01 AM</a></p>
+ <p><a href="https://archive.org/download/correio-2022/correio-2022-08-29T09:01:54.587422-03:00.jpg">August 29 at 9:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/correio-2022/correio-2022-08-28T23:24:41.980359-03:00.jpg">
   <img src="https://archive.org/download/correio-2022/correio-2022-08-28T23:24:41.980359-03:00.jpg"
-     alt="Correio Braziliense at 2022-08-28 16:24:43-03:00 local time"
+     alt="Correio Braziliense at 2022-08-28 23:24:43-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/correio-2022/correio-2022-08-28T23:24:41.980359-03:00.jpg">August 28 at 4:24 PM</a></p>
+ <p><a href="https://archive.org/download/correio-2022/correio-2022-08-28T23:24:41.980359-03:00.jpg">August 28 at 11:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/correio-2022/correio-2022-08-28T11:01:01.238581-03:00.jpg">
   <img src="https://archive.org/download/correio-2022/correio-2022-08-28T11:01:01.238581-03:00.jpg"
-     alt="Correio Braziliense at 2022-08-28 04:01:03-03:00 local time"
+     alt="Correio Braziliense at 2022-08-28 11:01:03-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/correio-2022/correio-2022-08-28T11:01:01.238581-03:00.jpg">August 28 at 4:01 AM</a></p>
+ <p><a href="https://archive.org/download/correio-2022/correio-2022-08-28T11:01:01.238581-03:00.jpg">August 28 at 11:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/correio-2022/correio-2022-08-28T09:03:56.860074-03:00.jpg">
   <img src="https://archive.org/download/correio-2022/correio-2022-08-28T09:03:56.860074-03:00.jpg"
-     alt="Correio Braziliense at 2022-08-28 02:04:00-03:00 local time"
+     alt="Correio Braziliense at 2022-08-28 09:04:00-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/correio-2022/correio-2022-08-28T09:03:56.860074-03:00.jpg">August 28 at 2:04 AM</a></p>
+ <p><a href="https://archive.org/download/correio-2022/correio-2022-08-28T09:03:56.860074-03:00.jpg">August 28 at 9:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/correio-2022/correio-2022-08-27T23:26:06.916476-03:00.jpg">
   <img src="https://archive.org/download/correio-2022/correio-2022-08-27T23:26:06.916476-03:00.jpg"
-     alt="Correio Braziliense at 2022-08-27 16:26:08-03:00 local time"
+     alt="Correio Braziliense at 2022-08-27 23:26:08-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/correio-2022/correio-2022-08-27T23:26:06.916476-03:00.jpg">August 27 at 4:26 PM</a></p>
+ <p><a href="https://archive.org/download/correio-2022/correio-2022-08-27T23:26:06.916476-03:00.jpg">August 27 at 11:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/correio-2022/correio-2022-08-27T10:57:49.583589-03:00.jpg">
   <img src="https://archive.org/download/correio-2022/correio-2022-08-27T10:57:49.583589-03:00.jpg"
-     alt="Correio Braziliense at 2022-08-27 03:57:53-03:00 local time"
+     alt="Correio Braziliense at 2022-08-27 10:57:53-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/correio-2022/correio-2022-08-27T10:57:49.583589-03:00.jpg">August 27 at 3:57 AM</a></p>
+ <p><a href="https://archive.org/download/correio-2022/correio-2022-08-27T10:57:49.583589-03:00.jpg">August 27 at 10:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/correio-2022/correio-2022-08-27T08:57:13.729816-03:00.jpg">
   <img src="https://archive.org/download/correio-2022/correio-2022-08-27T08:57:13.729816-03:00.jpg"
-     alt="Correio Braziliense at 2022-08-27 01:57:17-03:00 local time"
+     alt="Correio Braziliense at 2022-08-27 08:57:17-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/correio-2022/correio-2022-08-27T08:57:13.729816-03:00.jpg">August 27 at 1:57 AM</a></p>
+ <p><a href="https://archive.org/download/correio-2022/correio-2022-08-27T08:57:13.729816-03:00.jpg">August 27 at 8:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/correio-2022/correio-2022-08-26T23:21:44.977274-03:00.jpg">
   <img src="https://archive.org/download/correio-2022/correio-2022-08-26T23:21:44.977274-03:00.jpg"
-     alt="Correio Braziliense at 2022-08-26 16:21:46-03:00 local time"
+     alt="Correio Braziliense at 2022-08-26 23:21:46-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/correio-2022/correio-2022-08-26T23:21:44.977274-03:00.jpg">August 26 at 4:21 PM</a></p>
+ <p><a href="https://archive.org/download/correio-2022/correio-2022-08-26T23:21:44.977274-03:00.jpg">August 26 at 11:21 PM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 5:20 AM](https://archive.org/download/correio-2022/correio-2022-08-30T12:20:30.601337-03:00.hyperlinks.json) |
-| [August 30 at 2:15 AM](https://archive.org/download/correio-2022/correio-2022-08-30T09:14:56.455381-03:00.hyperlinks.json) |
-| [August 29 at 4:29 PM](https://archive.org/download/correio-2022/correio-2022-08-29T23:29:06.359078-03:00.hyperlinks.json) |
-| [August 29 at 4:07 AM](https://archive.org/download/correio-2022/correio-2022-08-29T11:07:24.018842-03:00.hyperlinks.json) |
-| [August 29 at 2:02 AM](https://archive.org/download/correio-2022/correio-2022-08-29T09:01:54.587422-03:00.hyperlinks.json) |
-| [August 28 at 4:24 PM](https://archive.org/download/correio-2022/correio-2022-08-28T23:24:41.980359-03:00.hyperlinks.json) |
-| [August 28 at 4:01 AM](https://archive.org/download/correio-2022/correio-2022-08-28T11:01:01.238581-03:00.hyperlinks.json) |
-| [August 28 at 2:04 AM](https://archive.org/download/correio-2022/correio-2022-08-28T09:03:56.860074-03:00.hyperlinks.json) |
-| [August 27 at 4:26 PM](https://archive.org/download/correio-2022/correio-2022-08-27T23:26:06.916476-03:00.hyperlinks.json) |
-| [August 27 at 3:57 AM](https://archive.org/download/correio-2022/correio-2022-08-27T10:57:49.583589-03:00.hyperlinks.json) |
+| [August 30 at 12:20 PM](https://archive.org/download/correio-2022/correio-2022-08-30T12:20:30.601337-03:00.hyperlinks.json) |
+| [August 30 at 9:15 AM](https://archive.org/download/correio-2022/correio-2022-08-30T09:14:56.455381-03:00.hyperlinks.json) |
+| [August 29 at 11:29 PM](https://archive.org/download/correio-2022/correio-2022-08-29T23:29:06.359078-03:00.hyperlinks.json) |
+| [August 29 at 11:07 AM](https://archive.org/download/correio-2022/correio-2022-08-29T11:07:24.018842-03:00.hyperlinks.json) |
+| [August 29 at 9:02 AM](https://archive.org/download/correio-2022/correio-2022-08-29T09:01:54.587422-03:00.hyperlinks.json) |
+| [August 28 at 11:24 PM](https://archive.org/download/correio-2022/correio-2022-08-28T23:24:41.980359-03:00.hyperlinks.json) |
+| [August 28 at 11:01 AM](https://archive.org/download/correio-2022/correio-2022-08-28T11:01:01.238581-03:00.hyperlinks.json) |
+| [August 28 at 9:04 AM](https://archive.org/download/correio-2022/correio-2022-08-28T09:03:56.860074-03:00.hyperlinks.json) |
+| [August 27 at 11:26 PM](https://archive.org/download/correio-2022/correio-2022-08-27T23:26:06.916476-03:00.hyperlinks.json) |
+| [August 27 at 10:57 AM](https://archive.org/download/correio-2022/correio-2022-08-27T10:57:49.583589-03:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 5:20 AM](https://archive.org/download/correio-2022/correio-2022-08-30T12:20:30.601337-03:00.accessibility.json) |
-| [August 30 at 2:15 AM](https://archive.org/download/correio-2022/correio-2022-08-30T09:14:56.455381-03:00.accessibility.json) |
-| [August 29 at 4:29 PM](https://archive.org/download/correio-2022/correio-2022-08-29T23:29:06.359078-03:00.accessibility.json) |
-| [August 29 at 4:07 AM](https://archive.org/download/correio-2022/correio-2022-08-29T11:07:24.018842-03:00.accessibility.json) |
-| [August 29 at 2:01 AM](https://archive.org/download/correio-2022/correio-2022-08-29T09:01:54.587422-03:00.accessibility.json) |
-| [August 28 at 4:24 PM](https://archive.org/download/correio-2022/correio-2022-08-28T23:24:41.980359-03:00.accessibility.json) |
-| [August 28 at 4:01 AM](https://archive.org/download/correio-2022/correio-2022-08-28T11:01:01.238581-03:00.accessibility.json) |
-| [August 28 at 2:04 AM](https://archive.org/download/correio-2022/correio-2022-08-28T09:03:56.860074-03:00.accessibility.json) |
-| [August 27 at 4:26 PM](https://archive.org/download/correio-2022/correio-2022-08-27T23:26:06.916476-03:00.accessibility.json) |
-| [August 27 at 3:57 AM](https://archive.org/download/correio-2022/correio-2022-08-27T10:57:49.583589-03:00.accessibility.json) |
+| [August 30 at 12:20 PM](https://archive.org/download/correio-2022/correio-2022-08-30T12:20:30.601337-03:00.accessibility.json) |
+| [August 30 at 9:15 AM](https://archive.org/download/correio-2022/correio-2022-08-30T09:14:56.455381-03:00.accessibility.json) |
+| [August 29 at 11:29 PM](https://archive.org/download/correio-2022/correio-2022-08-29T23:29:06.359078-03:00.accessibility.json) |
+| [August 29 at 11:07 AM](https://archive.org/download/correio-2022/correio-2022-08-29T11:07:24.018842-03:00.accessibility.json) |
+| [August 29 at 9:01 AM](https://archive.org/download/correio-2022/correio-2022-08-29T09:01:54.587422-03:00.accessibility.json) |
+| [August 28 at 11:24 PM](https://archive.org/download/correio-2022/correio-2022-08-28T23:24:41.980359-03:00.accessibility.json) |
+| [August 28 at 11:01 AM](https://archive.org/download/correio-2022/correio-2022-08-28T11:01:01.238581-03:00.accessibility.json) |
+| [August 28 at 9:04 AM](https://archive.org/download/correio-2022/correio-2022-08-28T09:03:56.860074-03:00.accessibility.json) |
+| [August 27 at 11:26 PM](https://archive.org/download/correio-2022/correio-2022-08-27T23:26:06.916476-03:00.accessibility.json) |
+| [August 27 at 10:57 AM](https://archive.org/download/correio-2022/correio-2022-08-27T10:57:49.583589-03:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 5:20 AM](https://archive.org/download/correio-2022/correio-2022-08-30T12:20:30.601337-03:00.lighthouse.json) |
-| [August 30 at 2:15 AM](https://archive.org/download/correio-2022/correio-2022-08-30T09:14:56.455381-03:00.lighthouse.json) |
-| [August 29 at 4:29 PM](https://archive.org/download/correio-2022/correio-2022-08-29T23:29:06.359078-03:00.lighthouse.json) |
-| [August 29 at 4:07 AM](https://archive.org/download/correio-2022/correio-2022-08-29T11:07:24.018842-03:00.lighthouse.json) |
-| [August 29 at 2:02 AM](https://archive.org/download/correio-2022/correio-2022-08-29T09:01:54.587422-03:00.lighthouse.json) |
-| [August 28 at 4:24 PM](https://archive.org/download/correio-2022/correio-2022-08-28T23:24:41.980359-03:00.lighthouse.json) |
-| [August 28 at 4:01 AM](https://archive.org/download/correio-2022/correio-2022-08-28T11:01:01.238581-03:00.lighthouse.json) |
-| [August 28 at 2:04 AM](https://archive.org/download/correio-2022/correio-2022-08-28T09:03:56.860074-03:00.lighthouse.json) |
-| [August 27 at 4:26 PM](https://archive.org/download/correio-2022/correio-2022-08-27T23:26:06.916476-03:00.lighthouse.json) |
-| [August 27 at 3:57 AM](https://archive.org/download/correio-2022/correio-2022-08-27T10:57:49.583589-03:00.lighthouse.json) |
+| [August 30 at 12:20 PM](https://archive.org/download/correio-2022/correio-2022-08-30T12:20:30.601337-03:00.lighthouse.json) |
+| [August 30 at 9:15 AM](https://archive.org/download/correio-2022/correio-2022-08-30T09:14:56.455381-03:00.lighthouse.json) |
+| [August 29 at 11:29 PM](https://archive.org/download/correio-2022/correio-2022-08-29T23:29:06.359078-03:00.lighthouse.json) |
+| [August 29 at 11:07 AM](https://archive.org/download/correio-2022/correio-2022-08-29T11:07:24.018842-03:00.lighthouse.json) |
+| [August 29 at 9:02 AM](https://archive.org/download/correio-2022/correio-2022-08-29T09:01:54.587422-03:00.lighthouse.json) |
+| [August 28 at 11:24 PM](https://archive.org/download/correio-2022/correio-2022-08-28T23:24:41.980359-03:00.lighthouse.json) |
+| [August 28 at 11:01 AM](https://archive.org/download/correio-2022/correio-2022-08-28T11:01:01.238581-03:00.lighthouse.json) |
+| [August 28 at 9:04 AM](https://archive.org/download/correio-2022/correio-2022-08-28T09:03:56.860074-03:00.lighthouse.json) |
+| [August 27 at 11:26 PM](https://archive.org/download/correio-2022/correio-2022-08-27T23:26:06.916476-03:00.lighthouse.json) |
+| [August 27 at 10:57 AM](https://archive.org/download/correio-2022/correio-2022-08-27T10:57:49.583589-03:00.lighthouse.json) |
 
 
 

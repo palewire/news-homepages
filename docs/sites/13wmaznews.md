@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-30T18:58:42.506941-04:00.jpg">
   <img src="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-30T18:58:42.506941-04:00.jpg"
-     alt="13WMAZ News at 2022-08-30 11:58:47-04:00 local time"
+     alt="13WMAZ News at 2022-08-30 18:58:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-30T18:58:42.506941-04:00.jpg">August 30 at 11:58 AM</a></p>
+ <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-30T18:58:42.506941-04:00.jpg">August 30 at 6:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-30T06:59:25.810860-04:00.jpg">
   <img src="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-30T06:59:25.810860-04:00.jpg"
-     alt="13WMAZ News at 2022-08-29 23:59:30-04:00 local time"
+     alt="13WMAZ News at 2022-08-30 06:59:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-30T06:59:25.810860-04:00.jpg">August 29 at 11:59 PM</a></p>
+ <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-30T06:59:25.810860-04:00.jpg">August 30 at 6:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-29T18:55:05.894363-04:00.jpg">
   <img src="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-29T18:55:05.894363-04:00.jpg"
-     alt="13WMAZ News at 2022-08-29 11:55:20-04:00 local time"
+     alt="13WMAZ News at 2022-08-29 18:55:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-29T18:55:05.894363-04:00.jpg">August 29 at 11:55 AM</a></p>
+ <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-29T18:55:05.894363-04:00.jpg">August 29 at 6:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-29T06:51:59.922420-04:00.jpg">
   <img src="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-29T06:51:59.922420-04:00.jpg"
-     alt="13WMAZ News at 2022-08-28 23:52:08-04:00 local time"
+     alt="13WMAZ News at 2022-08-29 06:52:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-29T06:51:59.922420-04:00.jpg">August 28 at 11:52 PM</a></p>
+ <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-29T06:51:59.922420-04:00.jpg">August 29 at 6:52 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-28T18:49:09.436148-04:00.jpg">
   <img src="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-28T18:49:09.436148-04:00.jpg"
-     alt="13WMAZ News at 2022-08-28 11:49:14-04:00 local time"
+     alt="13WMAZ News at 2022-08-28 18:49:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-28T18:49:09.436148-04:00.jpg">August 28 at 11:49 AM</a></p>
+ <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-28T18:49:09.436148-04:00.jpg">August 28 at 6:49 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-28T06:52:02.203461-04:00.jpg">
   <img src="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-28T06:52:02.203461-04:00.jpg"
-     alt="13WMAZ News at 2022-08-27 23:52:06-04:00 local time"
+     alt="13WMAZ News at 2022-08-28 06:52:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-28T06:52:02.203461-04:00.jpg">August 27 at 11:52 PM</a></p>
+ <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-28T06:52:02.203461-04:00.jpg">August 28 at 6:52 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-27T18:52:11.876101-04:00.jpg">
   <img src="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-27T18:52:11.876101-04:00.jpg"
-     alt="13WMAZ News at 2022-08-27 11:52:15-04:00 local time"
+     alt="13WMAZ News at 2022-08-27 18:52:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-27T18:52:11.876101-04:00.jpg">August 27 at 11:52 AM</a></p>
+ <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-27T18:52:11.876101-04:00.jpg">August 27 at 6:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-27T06:46:49.504345-04:00.jpg">
   <img src="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-27T06:46:49.504345-04:00.jpg"
-     alt="13WMAZ News at 2022-08-26 23:46:52-04:00 local time"
+     alt="13WMAZ News at 2022-08-27 06:46:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-27T06:46:49.504345-04:00.jpg">August 26 at 11:46 PM</a></p>
+ <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-27T06:46:49.504345-04:00.jpg">August 27 at 6:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-26T18:49:13.832955-04:00.jpg">
   <img src="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-26T18:49:13.832955-04:00.jpg"
-     alt="13WMAZ News at 2022-08-26 11:49:17-04:00 local time"
+     alt="13WMAZ News at 2022-08-26 18:49:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-26T18:49:13.832955-04:00.jpg">August 26 at 11:49 AM</a></p>
+ <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-26T18:49:13.832955-04:00.jpg">August 26 at 6:49 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-26T06:49:27.791408-04:00.jpg">
   <img src="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-26T06:49:27.791408-04:00.jpg"
-     alt="13WMAZ News at 2022-08-25 23:49:30-04:00 local time"
+     alt="13WMAZ News at 2022-08-26 06:49:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-26T06:49:27.791408-04:00.jpg">August 25 at 11:49 PM</a></p>
+ <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-26T06:49:27.791408-04:00.jpg">August 26 at 6:49 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-25T18:50:13.836983-04:00.jpg">
   <img src="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-25T18:50:13.836983-04:00.jpg"
-     alt="13WMAZ News at 2022-08-25 11:50:18-04:00 local time"
+     alt="13WMAZ News at 2022-08-25 18:50:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-25T18:50:13.836983-04:00.jpg">August 25 at 11:50 AM</a></p>
+ <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-25T18:50:13.836983-04:00.jpg">August 25 at 6:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-25T06:52:47.516573-04:00.jpg">
   <img src="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-25T06:52:47.516573-04:00.jpg"
-     alt="13WMAZ News at 2022-08-24 23:52:53-04:00 local time"
+     alt="13WMAZ News at 2022-08-25 06:52:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-25T06:52:47.516573-04:00.jpg">August 24 at 11:52 PM</a></p>
+ <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-25T06:52:47.516573-04:00.jpg">August 25 at 6:52 AM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 30 at 11:58 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-30T18:58:42.506941-04:00.hyperlinks.json) |
-| [August 29 at 11:59 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-30T06:59:25.810860-04:00.hyperlinks.json) |
-| [August 29 at 11:55 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-29T18:55:05.894363-04:00.hyperlinks.json) |
-| [August 28 at 11:52 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-29T06:51:59.922420-04:00.hyperlinks.json) |
-| [August 28 at 11:49 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-28T18:49:09.436148-04:00.hyperlinks.json) |
-| [August 27 at 11:52 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-28T06:52:02.203461-04:00.hyperlinks.json) |
-| [August 27 at 11:52 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-27T18:52:11.876101-04:00.hyperlinks.json) |
-| [August 26 at 11:46 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-27T06:46:49.504345-04:00.hyperlinks.json) |
-| [August 26 at 11:49 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-26T18:49:13.832955-04:00.hyperlinks.json) |
-| [August 25 at 11:49 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-26T06:49:27.791408-04:00.hyperlinks.json) |
+| [August 30 at 6:58 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-30T18:58:42.506941-04:00.hyperlinks.json) |
+| [August 30 at 6:59 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-30T06:59:25.810860-04:00.hyperlinks.json) |
+| [August 29 at 6:55 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-29T18:55:05.894363-04:00.hyperlinks.json) |
+| [August 29 at 6:52 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-29T06:51:59.922420-04:00.hyperlinks.json) |
+| [August 28 at 6:49 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-28T18:49:09.436148-04:00.hyperlinks.json) |
+| [August 28 at 6:52 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-28T06:52:02.203461-04:00.hyperlinks.json) |
+| [August 27 at 6:52 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-27T18:52:11.876101-04:00.hyperlinks.json) |
+| [August 27 at 6:46 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-27T06:46:49.504345-04:00.hyperlinks.json) |
+| [August 26 at 6:49 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-26T18:49:13.832955-04:00.hyperlinks.json) |
+| [August 26 at 6:49 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-26T06:49:27.791408-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 30 at 11:58 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-30T18:58:42.506941-04:00.accessibility.json) |
-| [August 29 at 11:59 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-30T06:59:25.810860-04:00.accessibility.json) |
-| [August 29 at 11:55 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-29T18:55:05.894363-04:00.accessibility.json) |
-| [August 28 at 11:52 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-29T06:51:59.922420-04:00.accessibility.json) |
-| [August 28 at 11:49 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-28T18:49:09.436148-04:00.accessibility.json) |
-| [August 27 at 11:52 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-28T06:52:02.203461-04:00.accessibility.json) |
-| [August 27 at 11:52 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-27T18:52:11.876101-04:00.accessibility.json) |
-| [August 26 at 11:46 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-27T06:46:49.504345-04:00.accessibility.json) |
-| [August 26 at 11:49 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-26T18:49:13.832955-04:00.accessibility.json) |
-| [August 25 at 11:49 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-26T06:49:27.791408-04:00.accessibility.json) |
+| [August 30 at 6:58 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-30T18:58:42.506941-04:00.accessibility.json) |
+| [August 30 at 6:59 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-30T06:59:25.810860-04:00.accessibility.json) |
+| [August 29 at 6:55 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-29T18:55:05.894363-04:00.accessibility.json) |
+| [August 29 at 6:52 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-29T06:51:59.922420-04:00.accessibility.json) |
+| [August 28 at 6:49 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-28T18:49:09.436148-04:00.accessibility.json) |
+| [August 28 at 6:52 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-28T06:52:02.203461-04:00.accessibility.json) |
+| [August 27 at 6:52 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-27T18:52:11.876101-04:00.accessibility.json) |
+| [August 27 at 6:46 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-27T06:46:49.504345-04:00.accessibility.json) |
+| [August 26 at 6:49 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-26T18:49:13.832955-04:00.accessibility.json) |
+| [August 26 at 6:49 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-26T06:49:27.791408-04:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 30 at 11:58 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-30T18:58:42.506941-04:00.lighthouse.json) |
-| [August 29 at 11:59 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-30T06:59:25.810860-04:00.lighthouse.json) |
-| [August 29 at 11:55 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-29T18:55:05.894363-04:00.lighthouse.json) |
-| [August 28 at 11:52 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-29T06:51:59.922420-04:00.lighthouse.json) |
-| [August 28 at 11:49 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-28T18:49:09.436148-04:00.lighthouse.json) |
-| [August 27 at 11:52 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-28T06:52:02.203461-04:00.lighthouse.json) |
-| [August 27 at 11:52 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-27T18:52:11.876101-04:00.lighthouse.json) |
-| [August 26 at 11:46 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-27T06:46:49.504345-04:00.lighthouse.json) |
-| [August 26 at 11:49 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-26T18:49:13.832955-04:00.lighthouse.json) |
-| [August 25 at 11:49 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-26T06:49:27.791408-04:00.lighthouse.json) |
+| [August 30 at 6:58 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-30T18:58:42.506941-04:00.lighthouse.json) |
+| [August 30 at 6:59 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-30T06:59:25.810860-04:00.lighthouse.json) |
+| [August 29 at 6:55 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-29T18:55:05.894363-04:00.lighthouse.json) |
+| [August 29 at 6:52 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-29T06:51:59.922420-04:00.lighthouse.json) |
+| [August 28 at 6:49 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-28T18:49:09.436148-04:00.lighthouse.json) |
+| [August 28 at 6:52 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-28T06:52:02.203461-04:00.lighthouse.json) |
+| [August 27 at 6:52 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-27T18:52:11.876101-04:00.lighthouse.json) |
+| [August 27 at 6:46 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-27T06:46:49.504345-04:00.lighthouse.json) |
+| [August 26 at 6:49 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-26T18:49:13.832955-04:00.lighthouse.json) |
+| [August 26 at 6:49 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-26T06:49:27.791408-04:00.lighthouse.json) |
 
 
 
