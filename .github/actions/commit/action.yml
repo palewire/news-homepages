@@ -4,6 +4,10 @@ description: Save the latest screenshots to the repository
 runs:
   using: "composite"
   steps:
+    - id: install
+      name: Install Python dependencies
+      uses: ./.github/actions/install
+
     - id: configure-github
       name: Configure GitHub
       run: |
