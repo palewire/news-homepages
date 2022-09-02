@@ -40,7 +40,7 @@ runs:
       shell: bash
 
     - id: git-add
-      name: Git add
+      name: Git add latest images
       run: git add ./latest-screenshots/*.jpg
       shell: bash
 
@@ -50,8 +50,11 @@ runs:
       shell: bash
 
     - id: git-add-archive
-      name: Git add
-      run: git add ./newshomepages/sources/latest/*.json
+      name: Git add latest files
+      run: |
+        pipenv run python -m newshomepages.extract latest-files
+        git add ./newshomepages/sources/latest/*.json
+        git add ./extracts/csv/latest-files.csv
       shell: bash
 
     - id: git-commit-archive

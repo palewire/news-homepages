@@ -55,6 +55,11 @@ jobs:
         name: Install
         uses: ./.github/actions/install
 
+      - id: get-latest-files
+        name: Consolidate latest files
+        run: pipenv run python -m newshomepages.extract latest-files;
+        shell: bash
+
       - id: consolidate-files
         name: Consolidate Internet Archive metadata
         run: pipenv run python -m newshomepages.extract consolidate;

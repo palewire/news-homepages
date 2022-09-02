@@ -30,6 +30,34 @@ def cli():
 
 
 @cli.command()
+def latest_files():
+    """Parse and consolidate the latest files for each site."""
+    # Get all the JSON files
+    latest_dir = utils.SOURCES_PATH / "latest"
+    json_list = sorted(list(latest_dir.glob("*.json")))
+    print(f"Parsing {len(json_list)} archive artifacts")
+
+    # Loop through them all ...
+    row_list = []
+    for f in track(json_list):
+        # ... pulling out the data we want
+        data = json.load(open(f))
+        row = dict(handle=f.stem)
+        row["datetime"] = utils.parse_archive_url(data[0])["timestamp"]
+        artifact_urls = utils.parse_archive_artifact(data)
+        row.update(artifact_urls)
+        row_list.append(row)
+
+    # Load it into a dataframe
+    df = pd.DataFrame(row_list).sort_values("handle")
+
+    # Write it out
+    output_path = utils.EXTRACT_DIR / "csv" / "latest-files.csv"
+    print(f":pencil: Writing {len(df)} rows to {output_path}")
+    df.to_csv(output_path, index=False)
+
+
+@cli.command()
 @click.option("-y", "--year", "year", default=CURRENT_YEAR)
 @click.option("--site", "site", default=None)
 def download_items(year: str, site: str = None):

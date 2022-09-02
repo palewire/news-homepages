@@ -22,7 +22,7 @@ DOCS_DIR = THIS_DIR.parent / "docs"
 ANALYSIS_DIR = THIS_DIR.parent / "_analysis"
 
 
-def parse_archive_url(url):
+def parse_archive_url(url: str):
     """Parse the handle and timestamp from an archive.org URL."""
     o = urlparse(url)
     path_list = o.path.split("/")
@@ -31,6 +31,31 @@ def parse_archive_url(url):
     time_string = time_string = path_list[-1].replace(f"{handle}-", "").split(".")[0]
     timestamp = datetime.fromisoformat(time_string)
     return dict(identifier=identifier, handle=handle, timestamp=timestamp)
+
+
+def parse_archive_artifact(url_list: typing.List) -> typing.Dict:
+    """Parse the archive artifacts saved as JSON during our update runs."""
+    d = dict(
+        screenshot_url=None,
+        hyperlinks_url=None,
+        accessibility_url=None,
+        lighthouse_url=None,
+        wayback_url=None,
+    )
+    for url in url_list:
+        if url.endswith(".jpg"):
+            d["screenshot_url"] = url
+        elif "accessibility" in url:
+            d["accessibility_url"] = url
+        elif "hyperlinks" in url:
+            d["hyperlinks_url"] = url
+        elif "lighthouse" in url:
+            d["lighthouse_url"] = url
+        elif "wayback" in url:
+            d["wayback_url"] = url
+        else:
+            raise ValueError(url)
+    return d
 
 
 def get_user_agent() -> str:
