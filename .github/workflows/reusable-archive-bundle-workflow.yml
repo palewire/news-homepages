@@ -158,7 +158,7 @@ jobs:
     name: Commit to GitHub
     runs-on: ubuntu-latest
     timeout-minutes: 60
-    needs: [jpg]
+    needs: [archive]
     steps:
       - id: checkout
         name: Checkout

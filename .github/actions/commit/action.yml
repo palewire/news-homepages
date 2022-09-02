@@ -30,6 +30,11 @@ runs:
         name: screenshots
         path: ./latest-screenshots
 
+    - uses: actions/download-artifact@v3
+      with:
+        name: archive
+        path: ./newshomepages/sources/latest/
+
     - name: Git status
       run: git status
       shell: bash
@@ -42,4 +47,14 @@ runs:
     - id: git-commit
       name: Git commit
       run: git commit -m "Latest screenshots" --author="palewire <palewire@users.noreply.github.com>" && git push || true
+      shell: bash
+
+    - id: git-add-archive
+      name: Git add
+      run: git add ./newshomepages/sources/latest/*.json
+      shell: bash
+
+    - id: git-commit-archive
+      name: Git commit
+      run: git commit -m "Latest archive.org urls" --author="palewire <palewire@users.noreply.github.com>" && git push || true
       shell: bash
