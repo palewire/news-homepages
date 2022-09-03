@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 94 screenshots with the Internet Archive.
+The archiving routine has saved 97 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-31T11:08:41.606044-05:00.jpg">
+  <img src="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-31T11:08:41.606044-05:00.jpg"
+     alt="Telemundo Chicago at 2022-08-31 11:08:48-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-31T11:08:41.606044-05:00.jpg">August 31 at 11:08 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-31T08:14:14.622076-05:00.jpg">
+  <img src="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-31T08:14:14.622076-05:00.jpg"
+     alt="Telemundo Chicago at 2022-08-31 08:14:19-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-31T08:14:14.622076-05:00.jpg">August 31 at 8:14 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-30T20:28:00.507145-05:00.jpg">
+  <img src="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-30T20:28:00.507145-05:00.jpg"
+     alt="Telemundo Chicago at 2022-08-30 20:28:02-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-30T20:28:00.507145-05:00.jpg">August 30 at 8:28 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-30T11:30:18.190221-05:00.jpg">
   <img src="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-30T11:30:18.190221-05:00.jpg"
      alt="Telemundo Chicago at 2022-08-30 11:30:23-05:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-27T20:30:20.495268-05:00.jpg">August 27 at 8:30 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-27T10:54:30.026825-05:00.jpg">
-  <img src="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-27T10:54:30.026825-05:00.jpg"
-     alt="Telemundo Chicago at 2022-08-27 10:54:31-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-27T10:54:30.026825-05:00.jpg">August 27 at 10:54 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-27T07:58:26.822730-05:00.jpg">
-  <img src="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-27T07:58:26.822730-05:00.jpg"
-     alt="Telemundo Chicago at 2022-08-27 07:58:31-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-27T07:58:26.822730-05:00.jpg">August 27 at 7:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-26T11:03:05.974606-05:00.jpg">
-  <img src="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-26T11:03:05.974606-05:00.jpg"
-     alt="Telemundo Chicago at 2022-08-26 11:03:06-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-26T11:03:05.974606-05:00.jpg">August 26 at 11:03 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 96 hyperlink lists with the Internet Archive.
+The archiving routine has saved 99 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 31 at 11:08 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-31T11:08:41.606044-05:00.hyperlinks.json) |
+| [August 31 at 8:14 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-31T08:14:14.622076-05:00.hyperlinks.json) |
+| [August 30 at 8:28 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-30T20:28:00.507145-05:00.hyperlinks.json) |
 | [August 30 at 11:30 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-30T11:30:18.190221-05:00.hyperlinks.json) |
 | [August 30 at 8:13 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-30T08:13:32.062345-05:00.hyperlinks.json) |
 | [August 29 at 8:18 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-29T20:18:32.343541-05:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 29 at 8:03 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-29T08:02:57.742279-05:00.hyperlinks.json) |
 | [August 28 at 8:17 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-28T20:17:54.477504-05:00.hyperlinks.json) |
 | [August 28 at 10:56 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-28T10:56:29.391068-05:00.hyperlinks.json) |
-| [August 28 at 8:03 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-28T08:03:02.411619-05:00.hyperlinks.json) |
-| [August 27 at 8:30 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-27T20:30:20.495268-05:00.hyperlinks.json) |
-| [August 27 at 10:54 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-27T10:54:30.026825-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 96 accessibility trees with the Internet Archive.
+The archiving routine has saved 99 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 31 at 11:08 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-31T11:08:41.606044-05:00.accessibility.json) |
+| [August 31 at 8:14 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-31T08:14:14.622076-05:00.accessibility.json) |
+| [August 30 at 8:28 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-30T20:28:00.507145-05:00.accessibility.json) |
 | [August 30 at 11:30 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-30T11:30:18.190221-05:00.accessibility.json) |
 | [August 30 at 8:13 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-30T08:13:32.062345-05:00.accessibility.json) |
 | [August 29 at 8:18 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-29T20:18:32.343541-05:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 29 at 8:03 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-29T08:02:57.742279-05:00.accessibility.json) |
 | [August 28 at 8:17 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-28T20:17:54.477504-05:00.accessibility.json) |
 | [August 28 at 10:56 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-28T10:56:29.391068-05:00.accessibility.json) |
-| [August 28 at 8:03 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-28T08:03:02.411619-05:00.accessibility.json) |
-| [August 27 at 8:30 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-27T20:30:20.495268-05:00.accessibility.json) |
-| [August 27 at 10:54 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-27T10:54:30.026825-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 96 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 99 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 31 at 11:08 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-31T11:08:41.606044-05:00.lighthouse.json) |
+| [August 31 at 8:14 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-31T08:14:14.622076-05:00.lighthouse.json) |
+| [August 30 at 8:28 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-30T20:28:00.507145-05:00.lighthouse.json) |
 | [August 30 at 11:30 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-30T11:30:18.190221-05:00.lighthouse.json) |
 | [August 30 at 8:13 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-30T08:13:32.062345-05:00.lighthouse.json) |
 | [August 29 at 8:18 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-29T20:18:32.343541-05:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 29 at 8:03 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-29T08:02:57.742279-05:00.lighthouse.json) |
 | [August 28 at 8:18 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-28T20:17:54.477504-05:00.lighthouse.json) |
 | [August 28 at 10:56 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-28T10:56:29.391068-05:00.lighthouse.json) |
-| [August 28 at 8:03 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-28T08:03:02.411619-05:00.lighthouse.json) |
-| [August 27 at 8:30 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-27T20:30:20.495268-05:00.lighthouse.json) |
-| [August 27 at 10:54 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-27T10:54:30.026825-05:00.lighthouse.json) |
 
 
 

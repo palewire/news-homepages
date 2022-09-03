@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 72 screenshots with the Internet Archive.
+The archiving routine has saved 74 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-31T11:09:42.058033-04:00.jpg">
+  <img src="https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-31T11:09:42.058033-04:00.jpg"
+     alt="McGill Daily at 2022-08-31 11:09:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-31T11:09:42.058033-04:00.jpg">August 31 at 11:09 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-30T23:49:35.628435-04:00.jpg">
+  <img src="https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-30T23:49:35.628435-04:00.jpg"
+     alt="McGill Daily at 2022-08-30 23:49:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-30T23:49:35.628435-04:00.jpg">August 30 at 11:49 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-30T11:37:18.436466-04:00.jpg">
   <img src="https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-30T11:37:18.436466-04:00.jpg"
      alt="McGill Daily at 2022-08-30 11:37:21-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-25T23:46:30.900803-04:00.jpg">August 25 at 11:46 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-25T11:03:02.203098-04:00.jpg">
-  <img src="https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-25T11:03:02.203098-04:00.jpg"
-     alt="McGill Daily at 2022-08-25 11:03:03-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-25T11:03:02.203098-04:00.jpg">August 25 at 11:03 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-24T11:02:31.298786-04:00.jpg">
-  <img src="https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-24T11:02:31.298786-04:00.jpg"
-     alt="McGill Daily at 2022-08-24 11:02:33-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-24T11:02:31.298786-04:00.jpg">August 24 at 11:02 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 72 hyperlink lists with the Internet Archive.
+The archiving routine has saved 74 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 31 at 11:09 AM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-31T11:09:42.058033-04:00.hyperlinks.json) |
+| [August 30 at 11:49 PM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-30T23:49:35.628435-04:00.hyperlinks.json) |
 | [August 30 at 11:37 AM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-30T11:37:18.436466-04:00.hyperlinks.json) |
 | [August 29 at 11:56 PM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-29T23:56:33.222476-04:00.hyperlinks.json) |
 | [August 29 at 11:10 AM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-29T11:10:07.302423-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 27 at 11:43 PM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-27T23:42:57.927315-04:00.hyperlinks.json) |
 | [August 27 at 10:53 AM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-27T10:53:23.327918-04:00.hyperlinks.json) |
 | [August 26 at 11:39 PM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-26T23:39:03.822211-04:00.hyperlinks.json) |
-| [August 26 at 11:01 AM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-26T11:01:11.240209-04:00.hyperlinks.json) |
-| [August 25 at 11:46 PM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-25T23:46:30.900803-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 72 accessibility trees with the Internet Archive.
+The archiving routine has saved 74 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 31 at 11:09 AM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-31T11:09:42.058033-04:00.accessibility.json) |
+| [August 30 at 11:49 PM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-30T23:49:35.628435-04:00.accessibility.json) |
 | [August 30 at 11:37 AM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-30T11:37:18.436466-04:00.accessibility.json) |
 | [August 29 at 11:56 PM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-29T23:56:33.222476-04:00.accessibility.json) |
 | [August 29 at 11:10 AM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-29T11:10:07.302423-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 27 at 11:43 PM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-27T23:42:57.927315-04:00.accessibility.json) |
 | [August 27 at 10:53 AM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-27T10:53:23.327918-04:00.accessibility.json) |
 | [August 26 at 11:39 PM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-26T23:39:03.822211-04:00.accessibility.json) |
-| [August 26 at 11:01 AM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-26T11:01:11.240209-04:00.accessibility.json) |
-| [August 25 at 11:46 PM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-25T23:46:30.900803-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 72 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 74 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 31 at 11:09 AM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-31T11:09:42.058033-04:00.lighthouse.json) |
+| [August 30 at 11:49 PM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-30T23:49:35.628435-04:00.lighthouse.json) |
 | [August 30 at 11:37 AM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-30T11:37:18.436466-04:00.lighthouse.json) |
 | [August 29 at 11:56 PM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-29T23:56:33.222476-04:00.lighthouse.json) |
 | [August 29 at 11:10 AM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-29T11:10:07.302423-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 27 at 11:43 PM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-27T23:42:57.927315-04:00.lighthouse.json) |
 | [August 27 at 10:53 AM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-27T10:53:23.327918-04:00.lighthouse.json) |
 | [August 26 at 11:39 PM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-26T23:39:03.822211-04:00.lighthouse.json) |
-| [August 26 at 11:01 AM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-26T11:01:11.240209-04:00.lighthouse.json) |
-| [August 25 at 11:46 PM](https://archive.org/download/mcgilldaily-2022/mcgilldaily-2022-08-25T23:46:30.900803-04:00.lighthouse.json) |
 
 
 

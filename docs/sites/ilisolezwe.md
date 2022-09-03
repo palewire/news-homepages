@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 18 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-31T17:08:14.188183+02:00.jpg">
+  <img src="https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-31T17:08:14.188183+02:00.jpg"
+     alt="I'solezwe lesiXhosa at 2022-08-31 17:08:15+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-31T17:08:14.188183+02:00.jpg">August 31 at 5:08 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-31T05:48:42.922358+02:00.jpg">
+  <img src="https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-31T05:48:42.922358+02:00.jpg"
+     alt="I'solezwe lesiXhosa at 2022-08-31 05:48:44+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-31T05:48:42.922358+02:00.jpg">August 31 at 5:48 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-30T17:33:14.383371+02:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-26T05:44:05.129217+02:00.jpg">August 26 at 5:44 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-25T17:01:57.851770+02:00.jpg">
-  <img src="https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-25T17:01:57.851770+02:00.jpg"
-     alt="I'solezwe lesiXhosa at 2022-08-25 17:01:59+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-25T17:01:57.851770+02:00.jpg">August 25 at 5:01 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-24T17:01:04.598342+02:00.jpg">
-  <img src="https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-24T17:01:04.598342+02:00.jpg"
-     alt="I'solezwe lesiXhosa at 2022-08-24 17:01:06+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-24T17:01:04.598342+02:00.jpg">August 24 at 5:01 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 16 hyperlink lists with the Internet Archive.
+The archiving routine has saved 18 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 31 at 5:08 PM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-31T17:08:14.188183+02:00.hyperlinks.json) |
+| [August 31 at 5:48 AM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-31T05:48:42.922358+02:00.hyperlinks.json) |
 | [August 30 at 5:33 PM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-30T17:33:14.383371+02:00.hyperlinks.json) |
 | [August 30 at 5:54 AM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-30T05:54:03.505557+02:00.hyperlinks.json) |
 | [August 29 at 5:08 PM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-29T17:08:23.692862+02:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 28 at 5:41 AM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-28T05:41:17.837919+02:00.hyperlinks.json) |
 | [August 27 at 4:51 PM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-27T16:51:26.017764+02:00.hyperlinks.json) |
 | [August 27 at 5:37 AM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-27T05:37:26.160473+02:00.hyperlinks.json) |
-| [August 26 at 4:59 PM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-26T16:59:47.050481+02:00.hyperlinks.json) |
-| [August 26 at 5:44 AM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-26T05:44:05.129217+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 16 accessibility trees with the Internet Archive.
+The archiving routine has saved 18 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 31 at 5:08 PM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-31T17:08:14.188183+02:00.accessibility.json) |
+| [August 31 at 5:48 AM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-31T05:48:42.922358+02:00.accessibility.json) |
 | [August 30 at 5:33 PM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-30T17:33:14.383371+02:00.accessibility.json) |
 | [August 30 at 5:54 AM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-30T05:54:03.505557+02:00.accessibility.json) |
 | [August 29 at 5:08 PM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-29T17:08:23.692862+02:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [August 28 at 5:41 AM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-28T05:41:17.837919+02:00.accessibility.json) |
 | [August 27 at 4:51 PM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-27T16:51:26.017764+02:00.accessibility.json) |
 | [August 27 at 5:37 AM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-27T05:37:26.160473+02:00.accessibility.json) |
-| [August 26 at 4:59 PM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-26T16:59:47.050481+02:00.accessibility.json) |
-| [August 26 at 5:44 AM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-26T05:44:05.129217+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 31 at 5:08 PM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-31T17:08:14.188183+02:00.lighthouse.json) |
+| [August 31 at 5:48 AM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-31T05:48:42.922358+02:00.lighthouse.json) |
 | [August 30 at 5:33 PM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-30T17:33:14.383371+02:00.lighthouse.json) |
 | [August 30 at 5:54 AM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-30T05:54:03.505557+02:00.lighthouse.json) |
 | [August 29 at 5:08 PM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-29T17:08:23.692862+02:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 28 at 5:41 AM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-28T05:41:17.837919+02:00.lighthouse.json) |
 | [August 27 at 4:51 PM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-27T16:51:26.017764+02:00.lighthouse.json) |
 | [August 27 at 5:37 AM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-27T05:37:26.160473+02:00.lighthouse.json) |
-| [August 26 at 4:59 PM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-26T16:59:47.050481+02:00.lighthouse.json) |
-| [August 26 at 5:44 AM](https://archive.org/download/ilisolezwe-2022/ilisolezwe-2022-08-26T05:44:05.129217+02:00.lighthouse.json) |
 
 
 

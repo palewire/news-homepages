@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 74 screenshots with the Internet Archive.
+The archiving routine has saved 76 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/lokpath-2022/lokpath-2022-08-31T20:53:47.054559+05:45.jpg">
+  <img src="https://archive.org/download/lokpath-2022/lokpath-2022-08-31T20:53:47.054559+05:45.jpg"
+     alt="Lokpath at 2022-08-31 20:53:49+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lokpath-2022/lokpath-2022-08-31T20:53:47.054559+05:45.jpg">August 31 at 8:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lokpath-2022/lokpath-2022-08-31T09:34:54.547478+05:45.jpg">
+  <img src="https://archive.org/download/lokpath-2022/lokpath-2022-08-31T09:34:54.547478+05:45.jpg"
+     alt="Lokpath at 2022-08-31 09:34:55+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lokpath-2022/lokpath-2022-08-31T09:34:54.547478+05:45.jpg">August 31 at 9:34 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/lokpath-2022/lokpath-2022-08-30T21:20:34.247206+05:45.jpg">
   <img src="https://archive.org/download/lokpath-2022/lokpath-2022-08-30T21:20:34.247206+05:45.jpg"
      alt="Lokpath at 2022-08-30 21:20:37+05:45 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lokpath-2022/lokpath-2022-08-26T09:30:49.373653+05:45.jpg">August 26 at 9:31 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lokpath-2022/lokpath-2022-08-25T20:47:45.596277+05:45.jpg">
-  <img src="https://archive.org/download/lokpath-2022/lokpath-2022-08-25T20:47:45.596277+05:45.jpg"
-     alt="Lokpath at 2022-08-25 20:47:55+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lokpath-2022/lokpath-2022-08-25T20:47:45.596277+05:45.jpg">August 25 at 8:47 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lokpath-2022/lokpath-2022-08-24T20:47:59.069925+05:45.jpg">
-  <img src="https://archive.org/download/lokpath-2022/lokpath-2022-08-24T20:47:59.069925+05:45.jpg"
-     alt="Lokpath at 2022-08-24 20:48:03+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lokpath-2022/lokpath-2022-08-24T20:47:59.069925+05:45.jpg">August 24 at 8:48 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 74 hyperlink lists with the Internet Archive.
+The archiving routine has saved 76 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 31 at 8:53 PM](https://archive.org/download/lokpath-2022/lokpath-2022-08-31T20:53:47.054559+05:45.hyperlinks.json) |
+| [August 31 at 9:34 AM](https://archive.org/download/lokpath-2022/lokpath-2022-08-31T09:34:54.547478+05:45.hyperlinks.json) |
 | [August 30 at 9:20 PM](https://archive.org/download/lokpath-2022/lokpath-2022-08-30T21:20:34.247206+05:45.hyperlinks.json) |
 | [August 30 at 9:40 AM](https://archive.org/download/lokpath-2022/lokpath-2022-08-30T09:40:46.047960+05:45.hyperlinks.json) |
 | [August 29 at 8:55 PM](https://archive.org/download/lokpath-2022/lokpath-2022-08-29T20:55:16.736902+05:45.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 28 at 9:28 AM](https://archive.org/download/lokpath-2022/lokpath-2022-08-28T09:28:19.045771+05:45.hyperlinks.json) |
 | [August 27 at 8:38 PM](https://archive.org/download/lokpath-2022/lokpath-2022-08-27T20:37:54.876383+05:45.hyperlinks.json) |
 | [August 27 at 9:24 AM](https://archive.org/download/lokpath-2022/lokpath-2022-08-27T09:23:52.033357+05:45.hyperlinks.json) |
-| [August 26 at 8:46 PM](https://archive.org/download/lokpath-2022/lokpath-2022-08-26T20:46:39.642375+05:45.hyperlinks.json) |
-| [August 26 at 9:31 AM](https://archive.org/download/lokpath-2022/lokpath-2022-08-26T09:30:49.373653+05:45.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 73 accessibility trees with the Internet Archive.
+The archiving routine has saved 75 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 31 at 8:53 PM](https://archive.org/download/lokpath-2022/lokpath-2022-08-31T20:53:47.054559+05:45.accessibility.json) |
+| [August 31 at 9:34 AM](https://archive.org/download/lokpath-2022/lokpath-2022-08-31T09:34:54.547478+05:45.accessibility.json) |
 | [August 30 at 9:20 PM](https://archive.org/download/lokpath-2022/lokpath-2022-08-30T21:20:34.247206+05:45.accessibility.json) |
 | [August 30 at 9:40 AM](https://archive.org/download/lokpath-2022/lokpath-2022-08-30T09:40:46.047960+05:45.accessibility.json) |
 | [August 29 at 8:55 PM](https://archive.org/download/lokpath-2022/lokpath-2022-08-29T20:55:16.736902+05:45.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 28 at 9:28 AM](https://archive.org/download/lokpath-2022/lokpath-2022-08-28T09:28:19.045771+05:45.accessibility.json) |
 | [August 27 at 8:37 PM](https://archive.org/download/lokpath-2022/lokpath-2022-08-27T20:37:54.876383+05:45.accessibility.json) |
 | [August 27 at 9:24 AM](https://archive.org/download/lokpath-2022/lokpath-2022-08-27T09:23:52.033357+05:45.accessibility.json) |
-| [August 26 at 8:46 PM](https://archive.org/download/lokpath-2022/lokpath-2022-08-26T20:46:39.642375+05:45.accessibility.json) |
-| [August 26 at 9:31 AM](https://archive.org/download/lokpath-2022/lokpath-2022-08-26T09:30:49.373653+05:45.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 74 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 76 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 31 at 8:53 PM](https://archive.org/download/lokpath-2022/lokpath-2022-08-31T20:53:47.054559+05:45.lighthouse.json) |
+| [August 31 at 9:35 AM](https://archive.org/download/lokpath-2022/lokpath-2022-08-31T09:34:54.547478+05:45.lighthouse.json) |
 | [August 30 at 9:20 PM](https://archive.org/download/lokpath-2022/lokpath-2022-08-30T21:20:34.247206+05:45.lighthouse.json) |
 | [August 30 at 9:40 AM](https://archive.org/download/lokpath-2022/lokpath-2022-08-30T09:40:46.047960+05:45.lighthouse.json) |
 | [August 29 at 8:55 PM](https://archive.org/download/lokpath-2022/lokpath-2022-08-29T20:55:16.736902+05:45.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 28 at 9:28 AM](https://archive.org/download/lokpath-2022/lokpath-2022-08-28T09:28:19.045771+05:45.lighthouse.json) |
 | [August 27 at 8:38 PM](https://archive.org/download/lokpath-2022/lokpath-2022-08-27T20:37:54.876383+05:45.lighthouse.json) |
 | [August 27 at 9:24 AM](https://archive.org/download/lokpath-2022/lokpath-2022-08-27T09:23:52.033357+05:45.lighthouse.json) |
-| [August 26 at 8:46 PM](https://archive.org/download/lokpath-2022/lokpath-2022-08-26T20:46:39.642375+05:45.lighthouse.json) |
-| [August 26 at 9:31 AM](https://archive.org/download/lokpath-2022/lokpath-2022-08-26T09:30:49.373653+05:45.lighthouse.json) |
 
 
 

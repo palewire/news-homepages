@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 73 screenshots with the Internet Archive.
+The archiving routine has saved 76 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,6 +120,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-31T12:12:17.458374-03:00.jpg">
+  <img src="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-31T12:12:17.458374-03:00.jpg"
+     alt="O Antagonista at 2022-08-31 12:12:18-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-31T12:12:17.458374-03:00.jpg">August 31 at 12:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-31T09:04:26.420027-03:00.jpg">
+  <img src="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-31T09:04:26.420027-03:00.jpg"
+     alt="O Antagonista at 2022-08-31 09:04:29-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-31T09:04:26.420027-03:00.jpg">August 31 at 9:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-31T00:53:34.979324-03:00.jpg">
+  <img src="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-31T00:53:34.979324-03:00.jpg"
+     alt="O Antagonista at 2022-08-31 00:53:39-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-31T00:53:34.979324-03:00.jpg">August 31 at 12:53 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-30T12:38:48.609326-03:00.jpg">
   <img src="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-30T12:38:48.609326-03:00.jpg"
      alt="O Antagonista at 2022-08-30 12:38:52-03:00 local time"
@@ -200,38 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-28T00:44:22.668233-03:00.jpg">August 28 at 12:44 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-27T11:54:36.642820-03:00.jpg">
-  <img src="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-27T11:54:36.642820-03:00.jpg"
-     alt="O Antagonista at 2022-08-27 11:54:40-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-27T11:54:36.642820-03:00.jpg">August 27 at 11:54 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-27T08:57:52.444711-03:00.jpg">
-  <img src="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-27T08:57:52.444711-03:00.jpg"
-     alt="O Antagonista at 2022-08-27 08:57:55-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-27T08:57:52.444711-03:00.jpg">August 27 at 8:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-27T00:41:21.183010-03:00.jpg">
-  <img src="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-27T00:41:21.183010-03:00.jpg"
-     alt="O Antagonista at 2022-08-27 00:41:24-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-27T00:41:21.183010-03:00.jpg">August 27 at 12:41 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 73 hyperlink lists with the Internet Archive.
+The archiving routine has saved 76 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 31 at 12:12 PM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-31T12:12:17.458374-03:00.hyperlinks.json) |
+| [August 31 at 9:04 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-31T09:04:26.420027-03:00.hyperlinks.json) |
+| [August 31 at 12:53 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-31T00:53:34.979324-03:00.hyperlinks.json) |
 | [August 30 at 12:38 PM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-30T12:38:48.609326-03:00.hyperlinks.json) |
 | [August 30 at 9:14 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-30T09:14:46.685323-03:00.hyperlinks.json) |
 | [August 30 at 12:58 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-30T00:58:21.302790-03:00.hyperlinks.json) |
@@ -329,14 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 29 at 9:03 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-29T09:02:58.735538-03:00.hyperlinks.json) |
 | [August 29 at 12:48 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-29T00:48:16.346281-03:00.hyperlinks.json) |
 | [August 28 at 12:00 PM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-28T12:00:29.053034-03:00.hyperlinks.json) |
-| [August 28 at 9:04 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-28T09:04:37.582101-03:00.hyperlinks.json) |
-| [August 28 at 12:44 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-28T00:44:22.668233-03:00.hyperlinks.json) |
-| [August 27 at 11:54 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-27T11:54:36.642820-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 73 accessibility trees with the Internet Archive.
+The archiving routine has saved 76 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 31 at 12:12 PM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-31T12:12:17.458374-03:00.accessibility.json) |
+| [August 31 at 9:04 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-31T09:04:26.420027-03:00.accessibility.json) |
+| [August 31 at 12:53 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-31T00:53:34.979324-03:00.accessibility.json) |
 | [August 30 at 12:38 PM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-30T12:38:48.609326-03:00.accessibility.json) |
 | [August 30 at 9:14 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-30T09:14:46.685323-03:00.accessibility.json) |
 | [August 30 at 12:58 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-30T00:58:21.302790-03:00.accessibility.json) |
@@ -434,9 +437,6 @@ Here are the 10 most recent accessibility trees.
 | [August 29 at 9:03 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-29T09:02:58.735538-03:00.accessibility.json) |
 | [August 29 at 12:48 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-29T00:48:16.346281-03:00.accessibility.json) |
 | [August 28 at 12:00 PM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-28T12:00:29.053034-03:00.accessibility.json) |
-| [August 28 at 9:04 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-28T09:04:37.582101-03:00.accessibility.json) |
-| [August 28 at 12:44 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-28T00:44:22.668233-03:00.accessibility.json) |
-| [August 27 at 11:54 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-27T11:54:36.642820-03:00.accessibility.json) |
 
 
 

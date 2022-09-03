@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 105 screenshots with the Internet Archive.
+The archiving routine has saved 107 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/prismreports-2022/prismreports-2022-08-31T09:10:09.520363-07:00.jpg">
+  <img src="https://archive.org/download/prismreports-2022/prismreports-2022-08-31T09:10:09.520363-07:00.jpg"
+     alt="Prism at 2022-08-31 09:10:13-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prismreports-2022/prismreports-2022-08-31T09:10:09.520363-07:00.jpg">August 31 at 9:10 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prismreports-2022/prismreports-2022-08-30T21:50:01.610846-07:00.jpg">
+  <img src="https://archive.org/download/prismreports-2022/prismreports-2022-08-30T21:50:01.610846-07:00.jpg"
+     alt="Prism at 2022-08-30 21:50:05-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prismreports-2022/prismreports-2022-08-30T21:50:01.610846-07:00.jpg">August 30 at 9:50 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/prismreports-2022/prismreports-2022-08-30T09:33:56.079327-07:00.jpg">
   <img src="https://archive.org/download/prismreports-2022/prismreports-2022-08-30T09:33:56.079327-07:00.jpg"
      alt="Prism at 2022-08-30 09:33:59-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/prismreports-2022/prismreports-2022-08-25T21:40:39.497364-07:00.jpg">August 25 at 9:40 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/prismreports-2022/prismreports-2022-08-25T09:02:56.832571-07:00.jpg">
-  <img src="https://archive.org/download/prismreports-2022/prismreports-2022-08-25T09:02:56.832571-07:00.jpg"
-     alt="Prism at 2022-08-25 09:03:05-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/prismreports-2022/prismreports-2022-08-25T09:02:56.832571-07:00.jpg">August 25 at 9:03 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/prismreports-2022/prismreports-2022-08-24T08:59:35.544295-07:00.jpg">
-  <img src="https://archive.org/download/prismreports-2022/prismreports-2022-08-24T08:59:35.544295-07:00.jpg"
-     alt="Prism at 2022-08-24 08:59:36-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/prismreports-2022/prismreports-2022-08-24T08:59:35.544295-07:00.jpg">August 24 at 8:59 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 105 hyperlink lists with the Internet Archive.
+The archiving routine has saved 107 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 31 at 9:10 AM](https://archive.org/download/prismreports-2022/prismreports-2022-08-31T09:10:09.520363-07:00.hyperlinks.json) |
+| [August 30 at 9:50 PM](https://archive.org/download/prismreports-2022/prismreports-2022-08-30T21:50:01.610846-07:00.hyperlinks.json) |
 | [August 30 at 9:34 AM](https://archive.org/download/prismreports-2022/prismreports-2022-08-30T09:33:56.079327-07:00.hyperlinks.json) |
 | [August 29 at 9:54 PM](https://archive.org/download/prismreports-2022/prismreports-2022-08-29T21:54:06.375208-07:00.hyperlinks.json) |
 | [August 29 at 9:14 AM](https://archive.org/download/prismreports-2022/prismreports-2022-08-29T09:14:13.309990-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 27 at 9:35 PM](https://archive.org/download/prismreports-2022/prismreports-2022-08-27T21:35:11.063803-07:00.hyperlinks.json) |
 | [August 27 at 8:57 AM](https://archive.org/download/prismreports-2022/prismreports-2022-08-27T08:57:17.258459-07:00.hyperlinks.json) |
 | [August 26 at 9:35 PM](https://archive.org/download/prismreports-2022/prismreports-2022-08-26T21:35:48.667588-07:00.hyperlinks.json) |
-| [August 26 at 9:04 AM](https://archive.org/download/prismreports-2022/prismreports-2022-08-26T09:04:09.627449-07:00.hyperlinks.json) |
-| [August 25 at 9:40 PM](https://archive.org/download/prismreports-2022/prismreports-2022-08-25T21:40:39.497364-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 105 accessibility trees with the Internet Archive.
+The archiving routine has saved 107 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 31 at 9:10 AM](https://archive.org/download/prismreports-2022/prismreports-2022-08-31T09:10:09.520363-07:00.accessibility.json) |
+| [August 30 at 9:50 PM](https://archive.org/download/prismreports-2022/prismreports-2022-08-30T21:50:01.610846-07:00.accessibility.json) |
 | [August 30 at 9:34 AM](https://archive.org/download/prismreports-2022/prismreports-2022-08-30T09:33:56.079327-07:00.accessibility.json) |
 | [August 29 at 9:54 PM](https://archive.org/download/prismreports-2022/prismreports-2022-08-29T21:54:06.375208-07:00.accessibility.json) |
 | [August 29 at 9:14 AM](https://archive.org/download/prismreports-2022/prismreports-2022-08-29T09:14:13.309990-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 27 at 9:35 PM](https://archive.org/download/prismreports-2022/prismreports-2022-08-27T21:35:11.063803-07:00.accessibility.json) |
 | [August 27 at 8:57 AM](https://archive.org/download/prismreports-2022/prismreports-2022-08-27T08:57:17.258459-07:00.accessibility.json) |
 | [August 26 at 9:35 PM](https://archive.org/download/prismreports-2022/prismreports-2022-08-26T21:35:48.667588-07:00.accessibility.json) |
-| [August 26 at 9:04 AM](https://archive.org/download/prismreports-2022/prismreports-2022-08-26T09:04:09.627449-07:00.accessibility.json) |
-| [August 25 at 9:40 PM](https://archive.org/download/prismreports-2022/prismreports-2022-08-25T21:40:39.497364-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 75 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 77 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 31 at 9:10 AM](https://archive.org/download/prismreports-2022/prismreports-2022-08-31T09:10:09.520363-07:00.lighthouse.json) |
+| [August 30 at 9:50 PM](https://archive.org/download/prismreports-2022/prismreports-2022-08-30T21:50:01.610846-07:00.lighthouse.json) |
 | [August 30 at 9:34 AM](https://archive.org/download/prismreports-2022/prismreports-2022-08-30T09:33:56.079327-07:00.lighthouse.json) |
 | [August 29 at 9:54 PM](https://archive.org/download/prismreports-2022/prismreports-2022-08-29T21:54:06.375208-07:00.lighthouse.json) |
 | [August 29 at 9:14 AM](https://archive.org/download/prismreports-2022/prismreports-2022-08-29T09:14:13.309990-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 27 at 9:35 PM](https://archive.org/download/prismreports-2022/prismreports-2022-08-27T21:35:11.063803-07:00.lighthouse.json) |
 | [August 27 at 8:57 AM](https://archive.org/download/prismreports-2022/prismreports-2022-08-27T08:57:17.258459-07:00.lighthouse.json) |
 | [August 26 at 9:35 PM](https://archive.org/download/prismreports-2022/prismreports-2022-08-26T21:35:48.667588-07:00.lighthouse.json) |
-| [August 26 at 9:04 AM](https://archive.org/download/prismreports-2022/prismreports-2022-08-26T09:04:09.627449-07:00.lighthouse.json) |
-| [August 25 at 9:40 PM](https://archive.org/download/prismreports-2022/prismreports-2022-08-25T21:40:39.497364-07:00.lighthouse.json) |
 
 
 

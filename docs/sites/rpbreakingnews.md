@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 69 screenshots with the Internet Archive.
+The archiving routine has saved 71 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-31T21:41:14.965107+05:30.jpg">
+  <img src="https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-31T21:41:14.965107+05:30.jpg"
+     alt="Rajasthan Patrika at 2022-08-31 21:41:27+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-31T21:41:14.965107+05:30.jpg">August 31 at 9:41 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-31T10:20:12.084265+05:30.jpg">
+  <img src="https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-31T10:20:12.084265+05:30.jpg"
+     alt="Rajasthan Patrika at 2022-08-31 10:20:18+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-31T10:20:12.084265+05:30.jpg">August 31 at 10:20 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-30T22:05:29.384899+05:30.jpg">
   <img src="https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-30T22:05:29.384899+05:30.jpg"
      alt="Rajasthan Patrika at 2022-08-30 22:05:35+05:30 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-26T10:11:02.466616+05:30.jpg">August 26 at 10:11 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-25T21:32:22.545519+05:30.jpg">
-  <img src="https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-25T21:32:22.545519+05:30.jpg"
-     alt="Rajasthan Patrika at 2022-08-25 21:32:30+05:30 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-25T21:32:22.545519+05:30.jpg">August 25 at 9:32 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-24T21:31:01.965049+05:30.jpg">
-  <img src="https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-24T21:31:01.965049+05:30.jpg"
-     alt="Rajasthan Patrika at 2022-08-24 21:31:11+05:30 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-24T21:31:01.965049+05:30.jpg">August 24 at 9:31 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 69 hyperlink lists with the Internet Archive.
+The archiving routine has saved 71 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 31 at 9:41 PM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-31T21:41:14.965107+05:30.hyperlinks.json) |
+| [August 31 at 10:20 AM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-31T10:20:12.084265+05:30.hyperlinks.json) |
 | [August 30 at 10:05 PM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-30T22:05:29.384899+05:30.hyperlinks.json) |
 | [August 30 at 10:26 AM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-30T10:25:55.072295+05:30.hyperlinks.json) |
 | [August 29 at 9:46 PM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-29T21:46:23.898420+05:30.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 28 at 10:06 AM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-28T10:06:46.956463+05:30.hyperlinks.json) |
 | [August 27 at 9:28 PM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-27T21:28:36.595332+05:30.hyperlinks.json) |
 | [August 27 at 10:08 AM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-27T10:07:56.710993+05:30.hyperlinks.json) |
-| [August 26 at 9:35 PM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-26T21:35:26.641595+05:30.hyperlinks.json) |
-| [August 26 at 10:11 AM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-26T10:11:02.466616+05:30.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 69 accessibility trees with the Internet Archive.
+The archiving routine has saved 71 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 31 at 9:41 PM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-31T21:41:14.965107+05:30.accessibility.json) |
+| [August 31 at 10:20 AM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-31T10:20:12.084265+05:30.accessibility.json) |
 | [August 30 at 10:05 PM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-30T22:05:29.384899+05:30.accessibility.json) |
 | [August 30 at 10:25 AM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-30T10:25:55.072295+05:30.accessibility.json) |
 | [August 29 at 9:46 PM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-29T21:46:23.898420+05:30.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 28 at 10:06 AM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-28T10:06:46.956463+05:30.accessibility.json) |
 | [August 27 at 9:28 PM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-27T21:28:36.595332+05:30.accessibility.json) |
 | [August 27 at 10:07 AM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-27T10:07:56.710993+05:30.accessibility.json) |
-| [August 26 at 9:35 PM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-26T21:35:26.641595+05:30.accessibility.json) |
-| [August 26 at 10:11 AM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-26T10:11:02.466616+05:30.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 69 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 71 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 31 at 9:41 PM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-31T21:41:14.965107+05:30.lighthouse.json) |
+| [August 31 at 10:20 AM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-31T10:20:12.084265+05:30.lighthouse.json) |
 | [August 30 at 10:05 PM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-30T22:05:29.384899+05:30.lighthouse.json) |
 | [August 30 at 10:26 AM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-30T10:25:55.072295+05:30.lighthouse.json) |
 | [August 29 at 9:46 PM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-29T21:46:23.898420+05:30.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 28 at 10:06 AM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-28T10:06:46.956463+05:30.lighthouse.json) |
 | [August 27 at 9:28 PM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-27T21:28:36.595332+05:30.lighthouse.json) |
 | [August 27 at 10:08 AM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-27T10:07:56.710993+05:30.lighthouse.json) |
-| [August 26 at 9:35 PM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-26T21:35:26.641595+05:30.lighthouse.json) |
-| [August 26 at 10:11 AM](https://archive.org/download/rpbreakingnews-2022/rpbreakingnews-2022-08-26T10:11:02.466616+05:30.lighthouse.json) |
 
 
 

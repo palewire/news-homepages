@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 76 screenshots with the Internet Archive.
+The archiving routine has saved 78 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/macrumors-2022/macrumors-2022-08-31T19:54:04.010309-04:00.jpg">
+  <img src="https://archive.org/download/macrumors-2022/macrumors-2022-08-31T19:54:04.010309-04:00.jpg"
+     alt="MacRumors at 2022-08-31 19:54:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/macrumors-2022/macrumors-2022-08-31T19:54:04.010309-04:00.jpg">August 31 at 7:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/macrumors-2022/macrumors-2022-08-31T09:06:40.156268-04:00.jpg">
+  <img src="https://archive.org/download/macrumors-2022/macrumors-2022-08-31T09:06:40.156268-04:00.jpg"
+     alt="MacRumors at 2022-08-31 09:06:45-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/macrumors-2022/macrumors-2022-08-31T09:06:40.156268-04:00.jpg">August 31 at 9:06 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/macrumors-2022/macrumors-2022-08-30T20:04:02.770662-04:00.jpg">
   <img src="https://archive.org/download/macrumors-2022/macrumors-2022-08-30T20:04:02.770662-04:00.jpg"
      alt="MacRumors at 2022-08-30 20:04:09-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/macrumors-2022/macrumors-2022-08-26T07:59:09.846516-04:00.jpg">August 26 at 7:59 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/macrumors-2022/macrumors-2022-08-25T20:05:30.791365-04:00.jpg">
-  <img src="https://archive.org/download/macrumors-2022/macrumors-2022-08-25T20:05:30.791365-04:00.jpg"
-     alt="MacRumors at 2022-08-25 20:05:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/macrumors-2022/macrumors-2022-08-25T20:05:30.791365-04:00.jpg">August 25 at 8:05 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/macrumors-2022/macrumors-2022-08-25T08:03:59.800300-04:00.jpg">
-  <img src="https://archive.org/download/macrumors-2022/macrumors-2022-08-25T08:03:59.800300-04:00.jpg"
-     alt="MacRumors at 2022-08-25 08:04:01-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/macrumors-2022/macrumors-2022-08-25T08:03:59.800300-04:00.jpg">August 25 at 8:04 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 67 hyperlink lists with the Internet Archive.
+The archiving routine has saved 69 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 31 at 7:54 PM](https://archive.org/download/macrumors-2022/macrumors-2022-08-31T19:54:04.010309-04:00.hyperlinks.json) |
+| [August 31 at 9:06 AM](https://archive.org/download/macrumors-2022/macrumors-2022-08-31T09:06:40.156268-04:00.hyperlinks.json) |
 | [August 30 at 8:04 PM](https://archive.org/download/macrumors-2022/macrumors-2022-08-30T20:04:02.770662-04:00.hyperlinks.json) |
 | [August 30 at 8:13 AM](https://archive.org/download/macrumors-2022/macrumors-2022-08-30T08:13:28.703232-04:00.hyperlinks.json) |
 | [August 29 at 7:54 PM](https://archive.org/download/macrumors-2022/macrumors-2022-08-29T19:54:07.235774-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 28 at 8:00 AM](https://archive.org/download/macrumors-2022/macrumors-2022-08-28T08:00:54.553218-04:00.hyperlinks.json) |
 | [August 27 at 7:52 PM](https://archive.org/download/macrumors-2022/macrumors-2022-08-27T19:52:00.487152-04:00.hyperlinks.json) |
 | [August 27 at 7:55 AM](https://archive.org/download/macrumors-2022/macrumors-2022-08-27T07:55:24.827045-04:00.hyperlinks.json) |
-| [August 26 at 7:47 PM](https://archive.org/download/macrumors-2022/macrumors-2022-08-26T19:47:02.659345-04:00.hyperlinks.json) |
-| [August 26 at 7:59 AM](https://archive.org/download/macrumors-2022/macrumors-2022-08-26T07:59:09.846516-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 75 accessibility trees with the Internet Archive.
+The archiving routine has saved 77 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 31 at 7:54 PM](https://archive.org/download/macrumors-2022/macrumors-2022-08-31T19:54:04.010309-04:00.accessibility.json) |
+| [August 31 at 9:06 AM](https://archive.org/download/macrumors-2022/macrumors-2022-08-31T09:06:40.156268-04:00.accessibility.json) |
 | [August 30 at 8:04 PM](https://archive.org/download/macrumors-2022/macrumors-2022-08-30T20:04:02.770662-04:00.accessibility.json) |
 | [August 30 at 8:13 AM](https://archive.org/download/macrumors-2022/macrumors-2022-08-30T08:13:28.703232-04:00.accessibility.json) |
 | [August 29 at 7:54 PM](https://archive.org/download/macrumors-2022/macrumors-2022-08-29T19:54:07.235774-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 28 at 8:00 AM](https://archive.org/download/macrumors-2022/macrumors-2022-08-28T08:00:54.553218-04:00.accessibility.json) |
 | [August 27 at 7:52 PM](https://archive.org/download/macrumors-2022/macrumors-2022-08-27T19:52:00.487152-04:00.accessibility.json) |
 | [August 27 at 7:55 AM](https://archive.org/download/macrumors-2022/macrumors-2022-08-27T07:55:24.827045-04:00.accessibility.json) |
-| [August 26 at 7:47 PM](https://archive.org/download/macrumors-2022/macrumors-2022-08-26T19:47:02.659345-04:00.accessibility.json) |
-| [August 26 at 7:59 AM](https://archive.org/download/macrumors-2022/macrumors-2022-08-26T07:59:09.846516-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 76 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 78 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 31 at 7:54 PM](https://archive.org/download/macrumors-2022/macrumors-2022-08-31T19:54:04.010309-04:00.lighthouse.json) |
+| [August 31 at 9:06 AM](https://archive.org/download/macrumors-2022/macrumors-2022-08-31T09:06:40.156268-04:00.lighthouse.json) |
 | [August 30 at 8:04 PM](https://archive.org/download/macrumors-2022/macrumors-2022-08-30T20:04:02.770662-04:00.lighthouse.json) |
 | [August 30 at 8:13 AM](https://archive.org/download/macrumors-2022/macrumors-2022-08-30T08:13:28.703232-04:00.lighthouse.json) |
 | [August 29 at 7:54 PM](https://archive.org/download/macrumors-2022/macrumors-2022-08-29T19:54:07.235774-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 28 at 8:01 AM](https://archive.org/download/macrumors-2022/macrumors-2022-08-28T08:00:54.553218-04:00.lighthouse.json) |
 | [August 27 at 7:52 PM](https://archive.org/download/macrumors-2022/macrumors-2022-08-27T19:52:00.487152-04:00.lighthouse.json) |
 | [August 27 at 7:55 AM](https://archive.org/download/macrumors-2022/macrumors-2022-08-27T07:55:24.827045-04:00.lighthouse.json) |
-| [August 26 at 7:47 PM](https://archive.org/download/macrumors-2022/macrumors-2022-08-26T19:47:02.659345-04:00.lighthouse.json) |
-| [August 26 at 7:59 AM](https://archive.org/download/macrumors-2022/macrumors-2022-08-26T07:59:09.846516-04:00.lighthouse.json) |
 
 
 

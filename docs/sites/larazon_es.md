@@ -291,7 +291,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 66 hyperlink lists with the Internet Archive.
+The archiving routine has saved 68 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -382,6 +382,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 31 at 5:08 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-31T17:08:15.145963+02:00.hyperlinks.json) |
+| [August 31 at 5:48 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-31T05:48:36.794946+02:00.hyperlinks.json) |
 | [August 30 at 5:34 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-30T17:34:43.777536+02:00.hyperlinks.json) |
 | [August 30 at 5:54 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-30T05:54:05.849056+02:00.hyperlinks.json) |
 | [August 29 at 5:08 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-29T17:08:39.354316+02:00.hyperlinks.json) |
@@ -390,8 +392,6 @@ Here are the 10 most recent hyperlink lists.
 | [August 28 at 5:41 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-28T05:41:41.898895+02:00.hyperlinks.json) |
 | [August 27 at 4:52 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-27T16:51:59.083551+02:00.hyperlinks.json) |
 | [August 27 at 5:38 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-27T05:38:13.902515+02:00.hyperlinks.json) |
-| [August 26 at 4:59 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-26T16:59:50.073603+02:00.hyperlinks.json) |
-| [August 26 at 5:46 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-26T05:45:58.177024+02:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -414,7 +414,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 66 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 68 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -505,6 +505,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 31 at 5:08 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-31T17:08:15.145963+02:00.lighthouse.json) |
+| [August 31 at 5:48 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-31T05:48:36.794946+02:00.lighthouse.json) |
 | [August 30 at 5:34 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-30T17:34:43.777536+02:00.lighthouse.json) |
 | [August 30 at 5:54 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-30T05:54:05.849056+02:00.lighthouse.json) |
 | [August 29 at 5:08 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-29T17:08:39.354316+02:00.lighthouse.json) |
@@ -513,8 +515,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 28 at 5:41 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-28T05:41:41.898895+02:00.lighthouse.json) |
 | [August 27 at 4:52 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-27T16:51:59.083551+02:00.lighthouse.json) |
 | [August 27 at 5:38 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-27T05:38:13.902515+02:00.lighthouse.json) |
-| [August 26 at 4:59 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-26T16:59:50.073603+02:00.lighthouse.json) |
-| [August 26 at 5:46 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-26T05:45:58.177024+02:00.lighthouse.json) |
 
 
 

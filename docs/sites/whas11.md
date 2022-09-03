@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 60 screenshots with the Internet Archive.
+The archiving routine has saved 62 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/whas11-2022/whas11-2022-08-31T11:04:00.881263-04:00.jpg">
+  <img src="https://archive.org/download/whas11-2022/whas11-2022-08-31T11:04:00.881263-04:00.jpg"
+     alt="WHAS11 News at 2022-08-31 11:04:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/whas11-2022/whas11-2022-08-31T11:04:00.881263-04:00.jpg">August 31 at 11:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/whas11-2022/whas11-2022-08-30T22:28:03.985758-04:00.jpg">
+  <img src="https://archive.org/download/whas11-2022/whas11-2022-08-30T22:28:03.985758-04:00.jpg"
+     alt="WHAS11 News at 2022-08-30 22:28:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/whas11-2022/whas11-2022-08-30T22:28:03.985758-04:00.jpg">August 30 at 10:28 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/whas11-2022/whas11-2022-08-30T11:24:14.588222-04:00.jpg">
   <img src="https://archive.org/download/whas11-2022/whas11-2022-08-30T11:24:14.588222-04:00.jpg"
      alt="WHAS11 News at 2022-08-30 11:24:17-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/whas11-2022/whas11-2022-08-25T22:26:30.047300-04:00.jpg">August 25 at 10:26 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/whas11-2022/whas11-2022-08-25T10:57:22.711027-04:00.jpg">
-  <img src="https://archive.org/download/whas11-2022/whas11-2022-08-25T10:57:22.711027-04:00.jpg"
-     alt="WHAS11 News at 2022-08-25 10:57:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/whas11-2022/whas11-2022-08-25T10:57:22.711027-04:00.jpg">August 25 at 10:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/whas11-2022/whas11-2022-08-24T10:03:13.563986-04:00.jpg">
-  <img src="https://archive.org/download/whas11-2022/whas11-2022-08-24T10:03:13.563986-04:00.jpg"
-     alt="WHAS11 News at 2022-08-24 10:03:16-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/whas11-2022/whas11-2022-08-24T10:03:13.563986-04:00.jpg">August 24 at 10:03 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 59 hyperlink lists with the Internet Archive.
+The archiving routine has saved 61 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 31 at 11:04 AM](https://archive.org/download/whas11-2022/whas11-2022-08-31T11:04:00.881263-04:00.hyperlinks.json) |
+| [August 30 at 10:28 PM](https://archive.org/download/whas11-2022/whas11-2022-08-30T22:28:03.985758-04:00.hyperlinks.json) |
 | [August 30 at 11:24 AM](https://archive.org/download/whas11-2022/whas11-2022-08-30T11:24:14.588222-04:00.hyperlinks.json) |
 | [August 29 at 10:33 PM](https://archive.org/download/whas11-2022/whas11-2022-08-29T22:33:14.767116-04:00.hyperlinks.json) |
 | [August 29 at 10:11 AM](https://archive.org/download/whas11-2022/whas11-2022-08-29T10:11:14.559447-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 27 at 10:29 PM](https://archive.org/download/whas11-2022/whas11-2022-08-27T22:29:22.449678-04:00.hyperlinks.json) |
 | [August 27 at 10:01 AM](https://archive.org/download/whas11-2022/whas11-2022-08-27T10:01:42.008728-04:00.hyperlinks.json) |
 | [August 26 at 10:24 PM](https://archive.org/download/whas11-2022/whas11-2022-08-26T22:24:05.670718-04:00.hyperlinks.json) |
-| [August 26 at 10:08 AM](https://archive.org/download/whas11-2022/whas11-2022-08-26T10:08:19.095257-04:00.hyperlinks.json) |
-| [August 25 at 10:26 PM](https://archive.org/download/whas11-2022/whas11-2022-08-25T22:26:30.047300-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 61 accessibility trees with the Internet Archive.
+The archiving routine has saved 63 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 31 at 11:04 AM](https://archive.org/download/whas11-2022/whas11-2022-08-31T11:04:00.881263-04:00.accessibility.json) |
+| [August 30 at 10:28 PM](https://archive.org/download/whas11-2022/whas11-2022-08-30T22:28:03.985758-04:00.accessibility.json) |
 | [August 30 at 11:24 AM](https://archive.org/download/whas11-2022/whas11-2022-08-30T11:24:14.588222-04:00.accessibility.json) |
 | [August 29 at 10:33 PM](https://archive.org/download/whas11-2022/whas11-2022-08-29T22:33:14.767116-04:00.accessibility.json) |
 | [August 29 at 10:11 AM](https://archive.org/download/whas11-2022/whas11-2022-08-29T10:11:14.559447-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 27 at 10:29 PM](https://archive.org/download/whas11-2022/whas11-2022-08-27T22:29:22.449678-04:00.accessibility.json) |
 | [August 27 at 10:01 AM](https://archive.org/download/whas11-2022/whas11-2022-08-27T10:01:42.008728-04:00.accessibility.json) |
 | [August 26 at 10:24 PM](https://archive.org/download/whas11-2022/whas11-2022-08-26T22:24:05.670718-04:00.accessibility.json) |
-| [August 26 at 10:08 AM](https://archive.org/download/whas11-2022/whas11-2022-08-26T10:08:19.095257-04:00.accessibility.json) |
-| [August 25 at 10:26 PM](https://archive.org/download/whas11-2022/whas11-2022-08-25T22:26:30.047300-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 61 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 63 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 31 at 11:04 AM](https://archive.org/download/whas11-2022/whas11-2022-08-31T11:04:00.881263-04:00.lighthouse.json) |
+| [August 30 at 10:28 PM](https://archive.org/download/whas11-2022/whas11-2022-08-30T22:28:03.985758-04:00.lighthouse.json) |
 | [August 30 at 11:24 AM](https://archive.org/download/whas11-2022/whas11-2022-08-30T11:24:14.588222-04:00.lighthouse.json) |
 | [August 29 at 10:33 PM](https://archive.org/download/whas11-2022/whas11-2022-08-29T22:33:14.767116-04:00.lighthouse.json) |
 | [August 29 at 10:11 AM](https://archive.org/download/whas11-2022/whas11-2022-08-29T10:11:14.559447-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 27 at 10:29 PM](https://archive.org/download/whas11-2022/whas11-2022-08-27T22:29:22.449678-04:00.lighthouse.json) |
 | [August 27 at 10:01 AM](https://archive.org/download/whas11-2022/whas11-2022-08-27T10:01:42.008728-04:00.lighthouse.json) |
 | [August 26 at 10:24 PM](https://archive.org/download/whas11-2022/whas11-2022-08-26T22:24:05.670718-04:00.lighthouse.json) |
-| [August 26 at 10:08 AM](https://archive.org/download/whas11-2022/whas11-2022-08-26T10:08:19.095257-04:00.lighthouse.json) |
-| [August 25 at 10:26 PM](https://archive.org/download/whas11-2022/whas11-2022-08-25T22:26:30.047300-04:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 44 screenshots with the Internet Archive.
+The archiving routine has saved 46 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-08-31T20:53:31.709392-03:00.jpg">
+  <img src="https://archive.org/download/laprensaar-2022/laprensaar-2022-08-31T20:53:31.709392-03:00.jpg"
+     alt="La Prensa at 2022-08-31 20:53:36-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-08-31T20:53:31.709392-03:00.jpg">August 31 at 8:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-08-31T10:04:00.032413-03:00.jpg">
+  <img src="https://archive.org/download/laprensaar-2022/laprensaar-2022-08-31T10:04:00.032413-03:00.jpg"
+     alt="La Prensa at 2022-08-31 10:04:03-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-08-31T10:04:00.032413-03:00.jpg">August 31 at 10:04 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-08-30T21:03:17.475996-03:00.jpg">
   <img src="https://archive.org/download/laprensaar-2022/laprensaar-2022-08-30T21:03:17.475996-03:00.jpg"
      alt="La Prensa at 2022-08-30 21:03:20-03:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-08-26T08:58:41.701560-03:00.jpg">August 26 at 8:58 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-08-25T21:04:48.875432-03:00.jpg">
-  <img src="https://archive.org/download/laprensaar-2022/laprensaar-2022-08-25T21:04:48.875432-03:00.jpg"
-     alt="La Prensa at 2022-08-25 21:04:52-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-08-25T21:04:48.875432-03:00.jpg">August 25 at 9:04 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-08-25T09:03:15.772949-03:00.jpg">
-  <img src="https://archive.org/download/laprensaar-2022/laprensaar-2022-08-25T09:03:15.772949-03:00.jpg"
-     alt="La Prensa at 2022-08-25 09:03:22-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/laprensaar-2022/laprensaar-2022-08-25T09:03:15.772949-03:00.jpg">August 25 at 9:03 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 44 hyperlink lists with the Internet Archive.
+The archiving routine has saved 46 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 31 at 8:53 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-31T20:53:31.709392-03:00.hyperlinks.json) |
+| [August 31 at 10:04 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-31T10:04:00.032413-03:00.hyperlinks.json) |
 | [August 30 at 9:03 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-30T21:03:17.475996-03:00.hyperlinks.json) |
 | [August 30 at 9:09 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-30T09:09:49.429156-03:00.hyperlinks.json) |
 | [August 29 at 8:53 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-29T20:53:40.739658-03:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 28 at 9:00 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-28T09:00:25.547389-03:00.hyperlinks.json) |
 | [August 27 at 8:52 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-27T20:52:07.413641-03:00.hyperlinks.json) |
 | [August 27 at 8:54 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-27T08:54:22.382623-03:00.hyperlinks.json) |
-| [August 26 at 8:47 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-26T20:47:24.199726-03:00.hyperlinks.json) |
-| [August 26 at 8:58 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-26T08:58:41.701560-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 44 accessibility trees with the Internet Archive.
+The archiving routine has saved 46 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 31 at 8:53 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-31T20:53:31.709392-03:00.accessibility.json) |
+| [August 31 at 10:04 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-31T10:04:00.032413-03:00.accessibility.json) |
 | [August 30 at 9:03 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-30T21:03:17.475996-03:00.accessibility.json) |
 | [August 30 at 9:09 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-30T09:09:49.429156-03:00.accessibility.json) |
 | [August 29 at 8:53 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-29T20:53:40.739658-03:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 28 at 9:00 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-28T09:00:25.547389-03:00.accessibility.json) |
 | [August 27 at 8:52 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-27T20:52:07.413641-03:00.accessibility.json) |
 | [August 27 at 8:54 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-27T08:54:22.382623-03:00.accessibility.json) |
-| [August 26 at 8:47 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-26T20:47:24.199726-03:00.accessibility.json) |
-| [August 26 at 8:58 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-26T08:58:41.701560-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 31 at 8:53 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-31T20:53:31.709392-03:00.lighthouse.json) |
+| [August 31 at 10:04 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-31T10:04:00.032413-03:00.lighthouse.json) |
 | [August 30 at 9:03 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-30T21:03:17.475996-03:00.lighthouse.json) |
 | [August 30 at 9:09 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-30T09:09:49.429156-03:00.lighthouse.json) |
 | [August 29 at 8:53 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-29T20:53:40.739658-03:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 28 at 9:00 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-28T09:00:25.547389-03:00.lighthouse.json) |
 | [August 27 at 8:52 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-27T20:52:07.413641-03:00.lighthouse.json) |
 | [August 27 at 8:54 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-27T08:54:22.382623-03:00.lighthouse.json) |
-| [August 26 at 8:47 PM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-26T20:47:24.199726-03:00.lighthouse.json) |
-| [August 26 at 8:58 AM](https://archive.org/download/laprensaar-2022/laprensaar-2022-08-26T08:58:41.701560-03:00.lighthouse.json) |
 
 
 

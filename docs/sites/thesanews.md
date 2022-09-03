@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 18 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thesanews-2022/thesanews-2022-08-31T15:15:56.830570+02:00.jpg">
+  <img src="https://archive.org/download/thesanews-2022/thesanews-2022-08-31T15:15:56.830570+02:00.jpg"
+     alt="The South African at 2022-08-31 15:16:03+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thesanews-2022/thesanews-2022-08-31T15:15:56.830570+02:00.jpg">August 31 at 3:16 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thesanews-2022/thesanews-2022-08-31T03:28:05.854303+02:00.jpg">
+  <img src="https://archive.org/download/thesanews-2022/thesanews-2022-08-31T03:28:05.854303+02:00.jpg"
+     alt="The South African at 2022-08-31 03:28:08+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thesanews-2022/thesanews-2022-08-31T03:28:05.854303+02:00.jpg">August 31 at 3:28 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thesanews-2022/thesanews-2022-08-30T15:13:17.094960+02:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thesanews-2022/thesanews-2022-08-26T03:18:28.958061+02:00.jpg">August 26 at 3:18 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thesanews-2022/thesanews-2022-08-25T15:06:35.716206+02:00.jpg">
-  <img src="https://archive.org/download/thesanews-2022/thesanews-2022-08-25T15:06:35.716206+02:00.jpg"
-     alt="The South African at 2022-08-25 15:06:38+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thesanews-2022/thesanews-2022-08-25T15:06:35.716206+02:00.jpg">August 25 at 3:06 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thesanews-2022/thesanews-2022-08-24T14:59:04.167969+02:00.jpg">
-  <img src="https://archive.org/download/thesanews-2022/thesanews-2022-08-24T14:59:04.167969+02:00.jpg"
-     alt="The South African at 2022-08-24 14:59:06+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thesanews-2022/thesanews-2022-08-24T14:59:04.167969+02:00.jpg">August 24 at 2:59 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 16 hyperlink lists with the Internet Archive.
+The archiving routine has saved 18 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 31 at 3:16 PM](https://archive.org/download/thesanews-2022/thesanews-2022-08-31T15:15:56.830570+02:00.hyperlinks.json) |
+| [August 31 at 3:28 AM](https://archive.org/download/thesanews-2022/thesanews-2022-08-31T03:28:05.854303+02:00.hyperlinks.json) |
 | [August 30 at 3:13 PM](https://archive.org/download/thesanews-2022/thesanews-2022-08-30T15:13:17.094960+02:00.hyperlinks.json) |
 | [August 30 at 3:19 AM](https://archive.org/download/thesanews-2022/thesanews-2022-08-30T03:19:49.743681+02:00.hyperlinks.json) |
 | [August 29 at 3:04 PM](https://archive.org/download/thesanews-2022/thesanews-2022-08-29T15:04:29.392249+02:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 28 at 3:30 AM](https://archive.org/download/thesanews-2022/thesanews-2022-08-28T03:30:54.538417+02:00.hyperlinks.json) |
 | [August 27 at 3:00 PM](https://archive.org/download/thesanews-2022/thesanews-2022-08-27T15:00:07.069692+02:00.hyperlinks.json) |
 | [August 27 at 3:10 AM](https://archive.org/download/thesanews-2022/thesanews-2022-08-27T03:10:15.682643+02:00.hyperlinks.json) |
-| [August 26 at 3:03 PM](https://archive.org/download/thesanews-2022/thesanews-2022-08-26T15:03:32.762489+02:00.hyperlinks.json) |
-| [August 26 at 3:18 AM](https://archive.org/download/thesanews-2022/thesanews-2022-08-26T03:18:28.958061+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 16 accessibility trees with the Internet Archive.
+The archiving routine has saved 18 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 31 at 3:16 PM](https://archive.org/download/thesanews-2022/thesanews-2022-08-31T15:15:56.830570+02:00.accessibility.json) |
+| [August 31 at 3:28 AM](https://archive.org/download/thesanews-2022/thesanews-2022-08-31T03:28:05.854303+02:00.accessibility.json) |
 | [August 30 at 3:13 PM](https://archive.org/download/thesanews-2022/thesanews-2022-08-30T15:13:17.094960+02:00.accessibility.json) |
 | [August 30 at 3:19 AM](https://archive.org/download/thesanews-2022/thesanews-2022-08-30T03:19:49.743681+02:00.accessibility.json) |
 | [August 29 at 3:04 PM](https://archive.org/download/thesanews-2022/thesanews-2022-08-29T15:04:29.392249+02:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [August 28 at 3:30 AM](https://archive.org/download/thesanews-2022/thesanews-2022-08-28T03:30:54.538417+02:00.accessibility.json) |
 | [August 27 at 3:00 PM](https://archive.org/download/thesanews-2022/thesanews-2022-08-27T15:00:07.069692+02:00.accessibility.json) |
 | [August 27 at 3:10 AM](https://archive.org/download/thesanews-2022/thesanews-2022-08-27T03:10:15.682643+02:00.accessibility.json) |
-| [August 26 at 3:03 PM](https://archive.org/download/thesanews-2022/thesanews-2022-08-26T15:03:32.762489+02:00.accessibility.json) |
-| [August 26 at 3:18 AM](https://archive.org/download/thesanews-2022/thesanews-2022-08-26T03:18:28.958061+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 31 at 3:16 PM](https://archive.org/download/thesanews-2022/thesanews-2022-08-31T15:15:56.830570+02:00.lighthouse.json) |
+| [August 31 at 3:28 AM](https://archive.org/download/thesanews-2022/thesanews-2022-08-31T03:28:05.854303+02:00.lighthouse.json) |
 | [August 30 at 3:13 PM](https://archive.org/download/thesanews-2022/thesanews-2022-08-30T15:13:17.094960+02:00.lighthouse.json) |
 | [August 30 at 3:19 AM](https://archive.org/download/thesanews-2022/thesanews-2022-08-30T03:19:49.743681+02:00.lighthouse.json) |
 | [August 29 at 3:04 PM](https://archive.org/download/thesanews-2022/thesanews-2022-08-29T15:04:29.392249+02:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 28 at 3:31 AM](https://archive.org/download/thesanews-2022/thesanews-2022-08-28T03:30:54.538417+02:00.lighthouse.json) |
 | [August 27 at 3:00 PM](https://archive.org/download/thesanews-2022/thesanews-2022-08-27T15:00:07.069692+02:00.lighthouse.json) |
 | [August 27 at 3:10 AM](https://archive.org/download/thesanews-2022/thesanews-2022-08-27T03:10:15.682643+02:00.lighthouse.json) |
-| [August 26 at 3:03 PM](https://archive.org/download/thesanews-2022/thesanews-2022-08-26T15:03:32.762489+02:00.lighthouse.json) |
-| [August 26 at 3:18 AM](https://archive.org/download/thesanews-2022/thesanews-2022-08-26T03:18:28.958061+02:00.lighthouse.json) |
 
 
 

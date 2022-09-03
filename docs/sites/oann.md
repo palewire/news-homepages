@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 311 screenshots with the Internet Archive.
+The archiving routine has saved 314 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/oann-2022/oann-2022-08-31T14:34:45.969539-04:00.jpg">
+  <img src="https://archive.org/download/oann-2022/oann-2022-08-31T14:34:45.969539-04:00.jpg"
+     alt="One America News Network at 2022-08-31 14:34:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-08-31T14:34:45.969539-04:00.jpg">August 31 at 2:34 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oann-2022/oann-2022-08-31T09:10:11.190673-04:00.jpg">
+  <img src="https://archive.org/download/oann-2022/oann-2022-08-31T09:10:11.190673-04:00.jpg"
+     alt="One America News Network at 2022-08-31 09:10:20-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-08-31T09:10:11.190673-04:00.jpg">August 31 at 9:10 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oann-2022/oann-2022-08-30T21:23:23.616010-04:00.jpg">
+  <img src="https://archive.org/download/oann-2022/oann-2022-08-30T21:23:23.616010-04:00.jpg"
+     alt="One America News Network at 2022-08-30 21:23:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-08-30T21:23:23.616010-04:00.jpg">August 30 at 9:23 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/oann-2022/oann-2022-08-30T14:32:24.875724-04:00.jpg">
   <img src="https://archive.org/download/oann-2022/oann-2022-08-30T14:32:24.875724-04:00.jpg"
      alt="One America News Network at 2022-08-30 14:32:29-04:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/oann-2022/oann-2022-08-27T21:26:40.761521-04:00.jpg">August 27 at 9:26 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/oann-2022/oann-2022-08-27T14:31:11.673664-04:00.jpg">
-  <img src="https://archive.org/download/oann-2022/oann-2022-08-27T14:31:11.673664-04:00.jpg"
-     alt="One America News Network at 2022-08-27 14:31:31-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-08-27T14:31:11.673664-04:00.jpg">August 27 at 2:31 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/oann-2022/oann-2022-08-27T08:55:16.124233-04:00.jpg">
-  <img src="https://archive.org/download/oann-2022/oann-2022-08-27T08:55:16.124233-04:00.jpg"
-     alt="One America News Network at 2022-08-27 08:55:26-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-08-27T08:55:16.124233-04:00.jpg">August 27 at 8:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/oann-2022/oann-2022-08-26T21:06:16.756090-04:00.jpg">
-  <img src="https://archive.org/download/oann-2022/oann-2022-08-26T21:06:16.756090-04:00.jpg"
-     alt="One America News Network at 2022-08-26 21:06:18-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-08-26T21:06:16.756090-04:00.jpg">August 26 at 9:06 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 247 hyperlink lists with the Internet Archive.
+The archiving routine has saved 250 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 31 at 2:34 PM](https://archive.org/download/oann-2022/oann-2022-08-31T14:34:45.969539-04:00.hyperlinks.json) |
+| [August 31 at 9:10 AM](https://archive.org/download/oann-2022/oann-2022-08-31T09:10:11.190673-04:00.hyperlinks.json) |
+| [August 30 at 9:23 PM](https://archive.org/download/oann-2022/oann-2022-08-30T21:23:23.616010-04:00.hyperlinks.json) |
 | [August 30 at 2:32 PM](https://archive.org/download/oann-2022/oann-2022-08-30T14:32:24.875724-04:00.hyperlinks.json) |
 | [August 30 at 9:09 AM](https://archive.org/download/oann-2022/oann-2022-08-30T09:08:52.973744-04:00.hyperlinks.json) |
 | [August 29 at 9:15 PM](https://archive.org/download/oann-2022/oann-2022-08-29T21:15:29.782073-04:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 29 at 8:59 AM](https://archive.org/download/oann-2022/oann-2022-08-29T08:59:16.491612-04:00.hyperlinks.json) |
 | [August 28 at 9:14 PM](https://archive.org/download/oann-2022/oann-2022-08-28T21:14:41.421681-04:00.hyperlinks.json) |
 | [August 28 at 2:31 PM](https://archive.org/download/oann-2022/oann-2022-08-28T14:30:43.029187-04:00.hyperlinks.json) |
-| [August 28 at 8:59 AM](https://archive.org/download/oann-2022/oann-2022-08-28T08:59:26.971794-04:00.hyperlinks.json) |
-| [August 27 at 9:26 PM](https://archive.org/download/oann-2022/oann-2022-08-27T21:26:40.761521-04:00.hyperlinks.json) |
-| [August 27 at 2:31 PM](https://archive.org/download/oann-2022/oann-2022-08-27T14:31:11.673664-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 231 accessibility trees with the Internet Archive.
+The archiving routine has saved 234 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 31 at 2:34 PM](https://archive.org/download/oann-2022/oann-2022-08-31T14:34:45.969539-04:00.accessibility.json) |
+| [August 31 at 9:10 AM](https://archive.org/download/oann-2022/oann-2022-08-31T09:10:11.190673-04:00.accessibility.json) |
+| [August 30 at 9:23 PM](https://archive.org/download/oann-2022/oann-2022-08-30T21:23:23.616010-04:00.accessibility.json) |
 | [August 30 at 2:32 PM](https://archive.org/download/oann-2022/oann-2022-08-30T14:32:24.875724-04:00.accessibility.json) |
 | [August 30 at 9:09 AM](https://archive.org/download/oann-2022/oann-2022-08-30T09:08:52.973744-04:00.accessibility.json) |
 | [August 29 at 9:15 PM](https://archive.org/download/oann-2022/oann-2022-08-29T21:15:29.782073-04:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 29 at 8:59 AM](https://archive.org/download/oann-2022/oann-2022-08-29T08:59:16.491612-04:00.accessibility.json) |
 | [August 28 at 9:14 PM](https://archive.org/download/oann-2022/oann-2022-08-28T21:14:41.421681-04:00.accessibility.json) |
 | [August 28 at 2:31 PM](https://archive.org/download/oann-2022/oann-2022-08-28T14:30:43.029187-04:00.accessibility.json) |
-| [August 28 at 8:59 AM](https://archive.org/download/oann-2022/oann-2022-08-28T08:59:26.971794-04:00.accessibility.json) |
-| [August 27 at 9:26 PM](https://archive.org/download/oann-2022/oann-2022-08-27T21:26:40.761521-04:00.accessibility.json) |
-| [August 27 at 2:31 PM](https://archive.org/download/oann-2022/oann-2022-08-27T14:31:11.673664-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 82 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 85 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 31 at 2:34 PM](https://archive.org/download/oann-2022/oann-2022-08-31T14:34:45.969539-04:00.lighthouse.json) |
+| [August 31 at 9:10 AM](https://archive.org/download/oann-2022/oann-2022-08-31T09:10:11.190673-04:00.lighthouse.json) |
+| [August 30 at 9:23 PM](https://archive.org/download/oann-2022/oann-2022-08-30T21:23:23.616010-04:00.lighthouse.json) |
 | [August 30 at 2:32 PM](https://archive.org/download/oann-2022/oann-2022-08-30T14:32:24.875724-04:00.lighthouse.json) |
 | [August 30 at 9:09 AM](https://archive.org/download/oann-2022/oann-2022-08-30T09:08:52.973744-04:00.lighthouse.json) |
 | [August 29 at 9:15 PM](https://archive.org/download/oann-2022/oann-2022-08-29T21:15:29.782073-04:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 29 at 8:59 AM](https://archive.org/download/oann-2022/oann-2022-08-29T08:59:16.491612-04:00.lighthouse.json) |
 | [August 28 at 9:14 PM](https://archive.org/download/oann-2022/oann-2022-08-28T21:14:41.421681-04:00.lighthouse.json) |
 | [August 28 at 2:31 PM](https://archive.org/download/oann-2022/oann-2022-08-28T14:30:43.029187-04:00.lighthouse.json) |
-| [August 28 at 8:59 AM](https://archive.org/download/oann-2022/oann-2022-08-28T08:59:26.971794-04:00.lighthouse.json) |
-| [August 27 at 9:26 PM](https://archive.org/download/oann-2022/oann-2022-08-27T21:26:40.761521-04:00.lighthouse.json) |
-| [August 27 at 2:31 PM](https://archive.org/download/oann-2022/oann-2022-08-27T14:31:11.673664-04:00.lighthouse.json) |
 
 
 

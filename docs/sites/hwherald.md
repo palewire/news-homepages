@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 135 screenshots with the Internet Archive.
+The archiving routine has saved 138 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/hwherald-2022/hwherald-2022-08-31T11:08:14.548088-05:00.jpg">
+  <img src="https://archive.org/download/hwherald-2022/hwherald-2022-08-31T11:08:14.548088-05:00.jpg"
+     alt="Harvey World Herald at 2022-08-31 11:08:18-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-08-31T11:08:14.548088-05:00.jpg">August 31 at 11:08 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hwherald-2022/hwherald-2022-08-31T10:06:51.024102-05:00.jpg">
+  <img src="https://archive.org/download/hwherald-2022/hwherald-2022-08-31T10:06:51.024102-05:00.jpg"
+     alt="Harvey World Herald at 2022-08-31 10:06:54-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-08-31T10:06:51.024102-05:00.jpg">August 31 at 10:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hwherald-2022/hwherald-2022-08-30T22:46:17.720422-05:00.jpg">
+  <img src="https://archive.org/download/hwherald-2022/hwherald-2022-08-30T22:46:17.720422-05:00.jpg"
+     alt="Harvey World Herald at 2022-08-30 22:46:23-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-08-30T22:46:17.720422-05:00.jpg">August 30 at 10:46 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/hwherald-2022/hwherald-2022-08-30T11:29:58.338705-05:00.jpg">
   <img src="https://archive.org/download/hwherald-2022/hwherald-2022-08-30T11:29:58.338705-05:00.jpg"
      alt="Harvey World Herald at 2022-08-30 11:30:04-05:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-08-27T22:41:44.564475-05:00.jpg">August 27 at 10:41 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/hwherald-2022/hwherald-2022-08-27T10:54:17.492739-05:00.jpg">
-  <img src="https://archive.org/download/hwherald-2022/hwherald-2022-08-27T10:54:17.492739-05:00.jpg"
-     alt="Harvey World Herald at 2022-08-27 10:54:19-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-08-27T10:54:17.492739-05:00.jpg">August 27 at 10:54 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/hwherald-2022/hwherald-2022-08-27T09:51:35.333467-05:00.jpg">
-  <img src="https://archive.org/download/hwherald-2022/hwherald-2022-08-27T09:51:35.333467-05:00.jpg"
-     alt="Harvey World Herald at 2022-08-27 09:51:38-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-08-27T09:51:35.333467-05:00.jpg">August 27 at 9:51 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/hwherald-2022/hwherald-2022-08-26T22:36:09.651923-05:00.jpg">
-  <img src="https://archive.org/download/hwherald-2022/hwherald-2022-08-26T22:36:09.651923-05:00.jpg"
-     alt="Harvey World Herald at 2022-08-26 22:36:23-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hwherald-2022/hwherald-2022-08-26T22:36:09.651923-05:00.jpg">August 26 at 10:36 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 136 hyperlink lists with the Internet Archive.
+The archiving routine has saved 139 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 31 at 11:08 AM](https://archive.org/download/hwherald-2022/hwherald-2022-08-31T11:08:14.548088-05:00.hyperlinks.json) |
+| [August 31 at 10:06 AM](https://archive.org/download/hwherald-2022/hwherald-2022-08-31T10:06:51.024102-05:00.hyperlinks.json) |
+| [August 30 at 10:46 PM](https://archive.org/download/hwherald-2022/hwherald-2022-08-30T22:46:17.720422-05:00.hyperlinks.json) |
 | [August 30 at 11:30 AM](https://archive.org/download/hwherald-2022/hwherald-2022-08-30T11:29:58.338705-05:00.hyperlinks.json) |
 | [August 30 at 10:33 AM](https://archive.org/download/hwherald-2022/hwherald-2022-08-30T10:32:45.962514-05:00.hyperlinks.json) |
 | [August 29 at 10:54 PM](https://archive.org/download/hwherald-2022/hwherald-2022-08-29T22:54:00.402326-05:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 29 at 10:07 AM](https://archive.org/download/hwherald-2022/hwherald-2022-08-29T10:07:01.799430-05:00.hyperlinks.json) |
 | [August 28 at 10:44 PM](https://archive.org/download/hwherald-2022/hwherald-2022-08-28T22:44:01.920332-05:00.hyperlinks.json) |
 | [August 28 at 10:56 AM](https://archive.org/download/hwherald-2022/hwherald-2022-08-28T10:56:26.791670-05:00.hyperlinks.json) |
-| [August 28 at 9:55 AM](https://archive.org/download/hwherald-2022/hwherald-2022-08-28T09:55:04.548564-05:00.hyperlinks.json) |
-| [August 27 at 10:41 PM](https://archive.org/download/hwherald-2022/hwherald-2022-08-27T22:41:44.564475-05:00.hyperlinks.json) |
-| [August 27 at 10:54 AM](https://archive.org/download/hwherald-2022/hwherald-2022-08-27T10:54:17.492739-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 136 accessibility trees with the Internet Archive.
+The archiving routine has saved 139 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 31 at 11:08 AM](https://archive.org/download/hwherald-2022/hwherald-2022-08-31T11:08:14.548088-05:00.accessibility.json) |
+| [August 31 at 10:06 AM](https://archive.org/download/hwherald-2022/hwherald-2022-08-31T10:06:51.024102-05:00.accessibility.json) |
+| [August 30 at 10:46 PM](https://archive.org/download/hwherald-2022/hwherald-2022-08-30T22:46:17.720422-05:00.accessibility.json) |
 | [August 30 at 11:30 AM](https://archive.org/download/hwherald-2022/hwherald-2022-08-30T11:29:58.338705-05:00.accessibility.json) |
 | [August 30 at 10:33 AM](https://archive.org/download/hwherald-2022/hwherald-2022-08-30T10:32:45.962514-05:00.accessibility.json) |
 | [August 29 at 10:54 PM](https://archive.org/download/hwherald-2022/hwherald-2022-08-29T22:54:00.402326-05:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 29 at 10:07 AM](https://archive.org/download/hwherald-2022/hwherald-2022-08-29T10:07:01.799430-05:00.accessibility.json) |
 | [August 28 at 10:44 PM](https://archive.org/download/hwherald-2022/hwherald-2022-08-28T22:44:01.920332-05:00.accessibility.json) |
 | [August 28 at 10:56 AM](https://archive.org/download/hwherald-2022/hwherald-2022-08-28T10:56:26.791670-05:00.accessibility.json) |
-| [August 28 at 9:55 AM](https://archive.org/download/hwherald-2022/hwherald-2022-08-28T09:55:04.548564-05:00.accessibility.json) |
-| [August 27 at 10:41 PM](https://archive.org/download/hwherald-2022/hwherald-2022-08-27T22:41:44.564475-05:00.accessibility.json) |
-| [August 27 at 10:54 AM](https://archive.org/download/hwherald-2022/hwherald-2022-08-27T10:54:17.492739-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 107 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 110 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 31 at 11:08 AM](https://archive.org/download/hwherald-2022/hwherald-2022-08-31T11:08:14.548088-05:00.lighthouse.json) |
+| [August 31 at 10:07 AM](https://archive.org/download/hwherald-2022/hwherald-2022-08-31T10:06:51.024102-05:00.lighthouse.json) |
+| [August 30 at 10:46 PM](https://archive.org/download/hwherald-2022/hwherald-2022-08-30T22:46:17.720422-05:00.lighthouse.json) |
 | [August 30 at 11:30 AM](https://archive.org/download/hwherald-2022/hwherald-2022-08-30T11:29:58.338705-05:00.lighthouse.json) |
 | [August 30 at 10:33 AM](https://archive.org/download/hwherald-2022/hwherald-2022-08-30T10:32:45.962514-05:00.lighthouse.json) |
 | [August 29 at 10:54 PM](https://archive.org/download/hwherald-2022/hwherald-2022-08-29T22:54:00.402326-05:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 29 at 10:07 AM](https://archive.org/download/hwherald-2022/hwherald-2022-08-29T10:07:01.799430-05:00.lighthouse.json) |
 | [August 28 at 10:44 PM](https://archive.org/download/hwherald-2022/hwherald-2022-08-28T22:44:01.920332-05:00.lighthouse.json) |
 | [August 28 at 10:56 AM](https://archive.org/download/hwherald-2022/hwherald-2022-08-28T10:56:26.791670-05:00.lighthouse.json) |
-| [August 28 at 9:55 AM](https://archive.org/download/hwherald-2022/hwherald-2022-08-28T09:55:04.548564-05:00.lighthouse.json) |
-| [August 27 at 10:41 PM](https://archive.org/download/hwherald-2022/hwherald-2022-08-27T22:41:44.564475-05:00.lighthouse.json) |
-| [August 27 at 10:54 AM](https://archive.org/download/hwherald-2022/hwherald-2022-08-27T10:54:17.492739-05:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 134 screenshots with the Internet Archive.
+The archiving routine has saved 137 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-31T18:12:17.411811+03:00.jpg">
+  <img src="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-31T18:12:17.411811+03:00.jpg"
+     alt="Novaya Gazeta at 2022-08-31 18:12:19+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-31T18:12:17.411811+03:00.jpg">August 31 at 6:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-31T08:41:09.108696+03:00.jpg">
+  <img src="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-31T08:41:09.108696+03:00.jpg"
+     alt="Novaya Gazeta at 2022-08-31 08:41:10+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-31T08:41:09.108696+03:00.jpg">August 31 at 8:41 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-31T06:51:18.325282+03:00.jpg">
+  <img src="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-31T06:51:18.325282+03:00.jpg"
+     alt="Novaya Gazeta at 2022-08-31 06:51:20+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-31T06:51:18.325282+03:00.jpg">August 31 at 6:51 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-31T01:05:43.091255+03:00.jpg">
   <img src="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-31T01:05:43.091255+03:00.jpg"
      alt="Novaya Gazeta at 2022-08-31 01:05:44+03:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-28T08:20:58.788387+03:00.jpg">August 28 at 8:21 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-28T06:45:01.174337+03:00.jpg">
-  <img src="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-28T06:45:01.174337+03:00.jpg"
-     alt="Novaya Gazeta at 2022-08-28 06:45:02+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-28T06:45:01.174337+03:00.jpg">August 28 at 6:45 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-27T17:54:37.491556+03:00.jpg">
-  <img src="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-27T17:54:37.491556+03:00.jpg"
-     alt="Novaya Gazeta at 2022-08-27 17:54:44+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-27T17:54:37.491556+03:00.jpg">August 27 at 5:54 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-27T08:25:47.195219+03:00.jpg">
-  <img src="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-27T08:25:47.195219+03:00.jpg"
-     alt="Novaya Gazeta at 2022-08-27 08:25:48+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-27T08:25:47.195219+03:00.jpg">August 27 at 8:25 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 134 hyperlink lists with the Internet Archive.
+The archiving routine has saved 137 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 31 at 6:12 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-31T18:12:17.411811+03:00.hyperlinks.json) |
+| [August 31 at 8:41 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-31T08:41:09.108696+03:00.hyperlinks.json) |
+| [August 31 at 6:51 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-31T06:51:18.325282+03:00.hyperlinks.json) |
 | [August 31 at 1:05 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-31T01:05:43.091255+03:00.hyperlinks.json) |
 | [August 30 at 6:38 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-30T18:38:02.119608+03:00.hyperlinks.json) |
 | [August 30 at 8:39 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-30T08:39:38.934667+03:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 29 at 6:11 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-29T18:11:53.611158+03:00.hyperlinks.json) |
 | [August 29 at 8:38 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-29T08:38:30.378678+03:00.hyperlinks.json) |
 | [August 29 at 6:47 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-29T06:47:24.507496+03:00.hyperlinks.json) |
-| [August 28 at 6:00 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-28T18:00:39.890435+03:00.hyperlinks.json) |
-| [August 28 at 8:21 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-28T08:20:58.788387+03:00.hyperlinks.json) |
-| [August 28 at 6:45 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-28T06:45:01.174337+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 134 accessibility trees with the Internet Archive.
+The archiving routine has saved 137 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 31 at 6:12 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-31T18:12:17.411811+03:00.accessibility.json) |
+| [August 31 at 8:41 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-31T08:41:09.108696+03:00.accessibility.json) |
+| [August 31 at 6:51 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-31T06:51:18.325282+03:00.accessibility.json) |
 | [August 31 at 1:05 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-31T01:05:43.091255+03:00.accessibility.json) |
 | [August 30 at 6:38 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-30T18:38:02.119608+03:00.accessibility.json) |
 | [August 30 at 8:39 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-30T08:39:38.934667+03:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 29 at 6:11 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-29T18:11:53.611158+03:00.accessibility.json) |
 | [August 29 at 8:38 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-29T08:38:30.378678+03:00.accessibility.json) |
 | [August 29 at 6:47 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-29T06:47:24.507496+03:00.accessibility.json) |
-| [August 28 at 6:00 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-28T18:00:39.890435+03:00.accessibility.json) |
-| [August 28 at 8:21 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-28T08:20:58.788387+03:00.accessibility.json) |
-| [August 28 at 6:45 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-28T06:45:01.174337+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 112 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 115 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 31 at 6:12 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-31T18:12:17.411811+03:00.lighthouse.json) |
+| [August 31 at 8:41 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-31T08:41:09.108696+03:00.lighthouse.json) |
+| [August 31 at 6:51 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-31T06:51:18.325282+03:00.lighthouse.json) |
 | [August 31 at 1:05 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-31T01:05:43.091255+03:00.lighthouse.json) |
 | [August 30 at 6:38 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-30T18:38:02.119608+03:00.lighthouse.json) |
 | [August 30 at 8:39 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-30T08:39:38.934667+03:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 29 at 6:12 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-29T18:11:53.611158+03:00.lighthouse.json) |
 | [August 29 at 8:38 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-29T08:38:30.378678+03:00.lighthouse.json) |
 | [August 29 at 6:47 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-29T06:47:24.507496+03:00.lighthouse.json) |
-| [August 28 at 6:00 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-28T18:00:39.890435+03:00.lighthouse.json) |
-| [August 28 at 8:21 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-28T08:20:58.788387+03:00.lighthouse.json) |
-| [August 28 at 6:45 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-28T06:45:01.174337+03:00.lighthouse.json) |
 
 
 

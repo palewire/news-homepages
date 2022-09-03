@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 28 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/simple_flying-2022/simple_flying-2022-08-31T10:18:55.516075+01:00.jpg">
+  <img src="https://archive.org/download/simple_flying-2022/simple_flying-2022-08-31T10:18:55.516075+01:00.jpg"
+     alt="Simple Flying at 2022-08-31 10:18:57+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/simple_flying-2022/simple_flying-2022-08-31T10:18:55.516075+01:00.jpg">August 31 at 10:18 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/simple_flying-2022/simple_flying-2022-08-31T05:51:44.987554+01:00.jpg">
+  <img src="https://archive.org/download/simple_flying-2022/simple_flying-2022-08-31T05:51:44.987554+01:00.jpg"
+     alt="Simple Flying at 2022-08-31 05:51:46+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/simple_flying-2022/simple_flying-2022-08-31T05:51:44.987554+01:00.jpg">August 31 at 5:51 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/simple_flying-2022/simple_flying-2022-08-30T17:35:03.885759+01:00.jpg">
@@ -332,36 +350,104 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/simple_flying-2022/simple_flying-2022-08-27T16:58:38.706864+01:00.jpg">August 27 at 4:58 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/simple_flying-2022/simple_flying-2022-08-27T10:15:12.212145+01:00.jpg">
-  <img src="https://archive.org/download/simple_flying-2022/simple_flying-2022-08-27T10:15:12.212145+01:00.jpg"
-     alt="Simple Flying at 2022-08-27 10:15:14+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/simple_flying-2022/simple_flying-2022-08-27T10:15:12.212145+01:00.jpg">August 27 at 10:15 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/simple_flying-2022/simple_flying-2022-08-27T05:37:30.510498+01:00.jpg">
-  <img src="https://archive.org/download/simple_flying-2022/simple_flying-2022-08-27T05:37:30.510498+01:00.jpg"
-     alt="Simple Flying at 2022-08-27 05:37:31+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/simple_flying-2022/simple_flying-2022-08-27T05:37:30.510498+01:00.jpg">August 27 at 5:37 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 28 hyperlink lists with the Internet Archive.
+The archiving routine has saved 31 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/simple_flying.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 31 at 5:12 PM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-31T17:11:58.946505+01:00.hyperlinks.json) |
+| [August 31 at 10:19 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-31T10:18:55.516075+01:00.hyperlinks.json) |
+| [August 31 at 5:51 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-31T05:51:44.987554+01:00.hyperlinks.json) |
 | [August 30 at 5:35 PM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-30T17:35:03.885759+01:00.hyperlinks.json) |
 | [August 30 at 10:18 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-30T10:18:33.644235+01:00.hyperlinks.json) |
 | [August 30 at 5:56 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-30T05:56:42.446120+01:00.hyperlinks.json) |
@@ -369,21 +455,104 @@ Here are the 10 most recent hyperlink lists.
 | [August 29 at 10:16 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-29T10:16:09.114475+01:00.hyperlinks.json) |
 | [August 29 at 5:41 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-29T05:41:05.368761+01:00.hyperlinks.json) |
 | [August 28 at 5:02 PM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-28T17:02:04.511220+01:00.hyperlinks.json) |
-| [August 28 at 10:18 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-28T10:18:04.579066+01:00.hyperlinks.json) |
-| [August 28 at 5:36 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-28T05:36:35.003768+01:00.hyperlinks.json) |
-| [August 27 at 4:58 PM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-27T16:58:38.706864+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 28 accessibility trees with the Internet Archive.
+The archiving routine has saved 31 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/simple_flying.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 31 at 5:12 PM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-31T17:11:58.946505+01:00.accessibility.json) |
+| [August 31 at 10:18 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-31T10:18:55.516075+01:00.accessibility.json) |
+| [August 31 at 5:51 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-31T05:51:44.987554+01:00.accessibility.json) |
 | [August 30 at 5:35 PM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-30T17:35:03.885759+01:00.accessibility.json) |
 | [August 30 at 10:18 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-30T10:18:33.644235+01:00.accessibility.json) |
 | [August 30 at 5:56 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-30T05:56:42.446120+01:00.accessibility.json) |
@@ -391,22 +560,105 @@ Here are the 10 most recent accessibility trees.
 | [August 29 at 10:16 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-29T10:16:09.114475+01:00.accessibility.json) |
 | [August 29 at 5:41 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-29T05:41:05.368761+01:00.accessibility.json) |
 | [August 28 at 5:02 PM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-28T17:02:04.511220+01:00.accessibility.json) |
-| [August 28 at 10:18 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-28T10:18:04.579066+01:00.accessibility.json) |
-| [August 28 at 5:36 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-28T05:36:35.003768+01:00.accessibility.json) |
-| [August 27 at 4:58 PM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-27T16:58:38.706864+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/simple_flying.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 31 at 5:12 PM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-31T17:11:58.946505+01:00.lighthouse.json) |
+| [August 31 at 10:19 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-31T10:18:55.516075+01:00.lighthouse.json) |
+| [August 31 at 5:51 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-31T05:51:44.987554+01:00.lighthouse.json) |
 | [August 30 at 5:35 PM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-30T17:35:03.885759+01:00.lighthouse.json) |
 | [August 30 at 10:18 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-30T10:18:33.644235+01:00.lighthouse.json) |
 | [August 30 at 5:56 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-30T05:56:42.446120+01:00.lighthouse.json) |
@@ -414,9 +666,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 29 at 10:16 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-29T10:16:09.114475+01:00.lighthouse.json) |
 | [August 29 at 5:41 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-29T05:41:05.368761+01:00.lighthouse.json) |
 | [August 28 at 5:02 PM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-28T17:02:04.511220+01:00.lighthouse.json) |
-| [August 28 at 10:18 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-28T10:18:04.579066+01:00.lighthouse.json) |
-| [August 28 at 5:36 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-28T05:36:35.003768+01:00.lighthouse.json) |
-| [August 27 at 4:58 PM](https://archive.org/download/simple_flying-2022/simple_flying-2022-08-27T16:58:38.706864+01:00.lighthouse.json) |
 
 
 

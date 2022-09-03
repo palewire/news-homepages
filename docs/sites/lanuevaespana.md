@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 66 screenshots with the Internet Archive.
+The archiving routine has saved 68 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-31T17:08:56.032116+02:00.jpg">
+  <img src="https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-31T17:08:56.032116+02:00.jpg"
+     alt="La Nueva España at 2022-08-31 17:09:02+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-31T17:08:56.032116+02:00.jpg">August 31 at 5:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-31T05:49:15.921387+02:00.jpg">
+  <img src="https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-31T05:49:15.921387+02:00.jpg"
+     alt="La Nueva España at 2022-08-31 05:49:20+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-31T05:49:15.921387+02:00.jpg">August 31 at 5:49 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-30T17:34:57.327729+02:00.jpg">
   <img src="https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-30T17:34:57.327729+02:00.jpg"
      alt="La Nueva España at 2022-08-30 17:35:04+02:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-26T05:44:56.467440+02:00.jpg">August 26 at 5:45 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-25T17:01:50.068737+02:00.jpg">
-  <img src="https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-25T17:01:50.068737+02:00.jpg"
-     alt="La Nueva España at 2022-08-25 17:02:01+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-25T17:01:50.068737+02:00.jpg">August 25 at 5:02 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-24T17:00:46.502467+02:00.jpg">
-  <img src="https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-24T17:00:46.502467+02:00.jpg"
-     alt="La Nueva España at 2022-08-24 17:00:48+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-24T17:00:46.502467+02:00.jpg">August 24 at 5:00 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 66 hyperlink lists with the Internet Archive.
+The archiving routine has saved 68 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 31 at 5:09 PM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-31T17:08:56.032116+02:00.hyperlinks.json) |
+| [August 31 at 5:49 AM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-31T05:49:15.921387+02:00.hyperlinks.json) |
 | [August 30 at 5:35 PM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-30T17:34:57.327729+02:00.hyperlinks.json) |
 | [August 30 at 5:54 AM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-30T05:54:49.482429+02:00.hyperlinks.json) |
 | [August 29 at 5:12 PM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-29T17:12:19.807923+02:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 28 at 5:41 AM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-28T05:41:49.630836+02:00.hyperlinks.json) |
 | [August 27 at 4:51 PM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-27T16:51:25.620128+02:00.hyperlinks.json) |
 | [August 27 at 5:38 AM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-27T05:38:27.479363+02:00.hyperlinks.json) |
-| [August 26 at 4:59 PM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-26T16:59:10.715255+02:00.hyperlinks.json) |
-| [August 26 at 5:45 AM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-26T05:44:56.467440+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 66 accessibility trees with the Internet Archive.
+The archiving routine has saved 68 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 31 at 5:09 PM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-31T17:08:56.032116+02:00.accessibility.json) |
+| [August 31 at 5:49 AM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-31T05:49:15.921387+02:00.accessibility.json) |
 | [August 30 at 5:35 PM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-30T17:34:57.327729+02:00.accessibility.json) |
 | [August 30 at 5:54 AM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-30T05:54:49.482429+02:00.accessibility.json) |
 | [August 29 at 5:12 PM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-29T17:12:19.807923+02:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 28 at 5:41 AM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-28T05:41:49.630836+02:00.accessibility.json) |
 | [August 27 at 4:51 PM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-27T16:51:25.620128+02:00.accessibility.json) |
 | [August 27 at 5:38 AM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-27T05:38:27.479363+02:00.accessibility.json) |
-| [August 26 at 4:59 PM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-26T16:59:10.715255+02:00.accessibility.json) |
-| [August 26 at 5:45 AM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-26T05:44:56.467440+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 66 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 68 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 31 at 5:09 PM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-31T17:08:56.032116+02:00.lighthouse.json) |
+| [August 31 at 5:49 AM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-31T05:49:15.921387+02:00.lighthouse.json) |
 | [August 30 at 5:35 PM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-30T17:34:57.327729+02:00.lighthouse.json) |
 | [August 30 at 5:54 AM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-30T05:54:49.482429+02:00.lighthouse.json) |
 | [August 29 at 5:12 PM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-29T17:12:19.807923+02:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 28 at 5:42 AM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-28T05:41:49.630836+02:00.lighthouse.json) |
 | [August 27 at 4:51 PM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-27T16:51:25.620128+02:00.lighthouse.json) |
 | [August 27 at 5:38 AM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-27T05:38:27.479363+02:00.lighthouse.json) |
-| [August 26 at 4:59 PM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-26T16:59:10.715255+02:00.lighthouse.json) |
-| [August 26 at 5:45 AM](https://archive.org/download/lanuevaespana-2022/lanuevaespana-2022-08-26T05:44:56.467440+02:00.lighthouse.json) |
 
 
 

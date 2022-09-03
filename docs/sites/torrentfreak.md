@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 74 screenshots with the Internet Archive.
+The archiving routine has saved 76 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-31T09:14:27.654876-07:00.jpg">
+  <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-31T09:14:27.654876-07:00.jpg"
+     alt="TorrentFreak at 2022-08-31 09:14:29-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-31T09:14:27.654876-07:00.jpg">August 31 at 9:14 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-30T21:53:31.189766-07:00.jpg">
+  <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-30T21:53:31.189766-07:00.jpg"
+     alt="TorrentFreak at 2022-08-30 21:53:33-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-30T21:53:31.189766-07:00.jpg">August 30 at 9:53 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-30T09:38:53.877507-07:00.jpg">
   <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-30T09:38:53.877507-07:00.jpg"
      alt="TorrentFreak at 2022-08-30 09:38:59-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-25T21:44:50.437421-07:00.jpg">August 25 at 9:44 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-25T09:06:21.851663-07:00.jpg">
-  <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-25T09:06:21.851663-07:00.jpg"
-     alt="TorrentFreak at 2022-08-25 09:06:23-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-25T09:06:21.851663-07:00.jpg">August 25 at 9:06 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-24T09:03:18.024388-07:00.jpg">
-  <img src="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-24T09:03:18.024388-07:00.jpg"
-     alt="TorrentFreak at 2022-08-24 09:03:20-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-24T09:03:18.024388-07:00.jpg">August 24 at 9:03 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 74 hyperlink lists with the Internet Archive.
+The archiving routine has saved 76 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 31 at 9:14 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-31T09:14:27.654876-07:00.hyperlinks.json) |
+| [August 30 at 9:53 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-30T21:53:31.189766-07:00.hyperlinks.json) |
 | [August 30 at 9:39 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-30T09:38:53.877507-07:00.hyperlinks.json) |
 | [August 29 at 9:58 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-29T21:58:19.229857-07:00.hyperlinks.json) |
 | [August 29 at 9:19 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-29T09:19:17.070567-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 27 at 9:38 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-27T21:38:26.765342-07:00.hyperlinks.json) |
 | [August 27 at 9:00 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-27T09:00:28.912221-07:00.hyperlinks.json) |
 | [August 26 at 9:38 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-26T21:38:48.091737-07:00.hyperlinks.json) |
-| [August 26 at 9:08 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-26T09:08:26.854338-07:00.hyperlinks.json) |
-| [August 25 at 9:44 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-25T21:44:50.437421-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 74 accessibility trees with the Internet Archive.
+The archiving routine has saved 76 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 31 at 9:14 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-31T09:14:27.654876-07:00.accessibility.json) |
+| [August 30 at 9:53 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-30T21:53:31.189766-07:00.accessibility.json) |
 | [August 30 at 9:39 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-30T09:38:53.877507-07:00.accessibility.json) |
 | [August 29 at 9:58 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-29T21:58:19.229857-07:00.accessibility.json) |
 | [August 29 at 9:19 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-29T09:19:17.070567-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 27 at 9:38 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-27T21:38:26.765342-07:00.accessibility.json) |
 | [August 27 at 9:00 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-27T09:00:28.912221-07:00.accessibility.json) |
 | [August 26 at 9:38 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-26T21:38:48.091737-07:00.accessibility.json) |
-| [August 26 at 9:08 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-26T09:08:26.854338-07:00.accessibility.json) |
-| [August 25 at 9:44 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-25T21:44:50.437421-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 74 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 76 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 31 at 9:14 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-31T09:14:27.654876-07:00.lighthouse.json) |
+| [August 30 at 9:53 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-30T21:53:31.189766-07:00.lighthouse.json) |
 | [August 30 at 9:39 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-30T09:38:53.877507-07:00.lighthouse.json) |
 | [August 29 at 9:58 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-29T21:58:19.229857-07:00.lighthouse.json) |
 | [August 29 at 9:19 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-29T09:19:17.070567-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 27 at 9:38 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-27T21:38:26.765342-07:00.lighthouse.json) |
 | [August 27 at 9:00 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-27T09:00:28.912221-07:00.lighthouse.json) |
 | [August 26 at 9:38 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-26T21:38:48.091737-07:00.lighthouse.json) |
-| [August 26 at 9:08 AM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-26T09:08:26.854338-07:00.lighthouse.json) |
-| [August 25 at 9:44 PM](https://archive.org/download/torrentfreak-2022/torrentfreak-2022-08-25T21:44:50.437421-07:00.lighthouse.json) |
 
 
 

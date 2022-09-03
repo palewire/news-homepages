@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 107 screenshots with the Internet Archive.
+The archiving routine has saved 109 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-08-31T16:49:56.870730-07:00.jpg">
+  <img src="https://archive.org/download/indiancountry-2022/indiancountry-2022-08-31T16:49:56.870730-07:00.jpg"
+     alt="Indian Country Today at 2022-08-31 16:50:03-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-08-31T16:49:56.870730-07:00.jpg">August 31 at 4:50 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-08-31T06:01:53.450256-07:00.jpg">
+  <img src="https://archive.org/download/indiancountry-2022/indiancountry-2022-08-31T06:01:53.450256-07:00.jpg"
+     alt="Indian Country Today at 2022-08-31 06:01:55-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-08-31T06:01:53.450256-07:00.jpg">August 31 at 6:01 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-08-30T16:59:21.498698-07:00.jpg">
   <img src="https://archive.org/download/indiancountry-2022/indiancountry-2022-08-30T16:59:21.498698-07:00.jpg"
      alt="Indian Country Today at 2022-08-30 16:59:25-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-08-26T04:56:25.777348-07:00.jpg">August 26 at 4:56 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-08-25T17:01:37.616530-07:00.jpg">
-  <img src="https://archive.org/download/indiancountry-2022/indiancountry-2022-08-25T17:01:37.616530-07:00.jpg"
-     alt="Indian Country Today at 2022-08-25 17:01:40-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-08-25T17:01:37.616530-07:00.jpg">August 25 at 5:01 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-08-25T05:01:18.639454-07:00.jpg">
-  <img src="https://archive.org/download/indiancountry-2022/indiancountry-2022-08-25T05:01:18.639454-07:00.jpg"
-     alt="Indian Country Today at 2022-08-25 05:01:20-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/indiancountry-2022/indiancountry-2022-08-25T05:01:18.639454-07:00.jpg">August 25 at 5:01 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 107 hyperlink lists with the Internet Archive.
+The archiving routine has saved 109 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 31 at 4:50 PM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-31T16:49:56.870730-07:00.hyperlinks.json) |
+| [August 31 at 6:01 AM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-31T06:01:53.450256-07:00.hyperlinks.json) |
 | [August 30 at 4:59 PM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-30T16:59:21.498698-07:00.hyperlinks.json) |
 | [August 30 at 5:07 AM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-30T05:07:48.257801-07:00.hyperlinks.json) |
 | [August 29 at 4:50 PM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-29T16:50:22.720024-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 28 at 4:58 AM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-28T04:58:35.186032-07:00.hyperlinks.json) |
 | [August 27 at 4:48 PM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-27T16:48:16.589485-07:00.hyperlinks.json) |
 | [August 27 at 4:53 AM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-27T04:52:56.614235-07:00.hyperlinks.json) |
-| [August 26 at 4:43 PM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-26T16:43:27.677129-07:00.hyperlinks.json) |
-| [August 26 at 4:56 AM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-26T04:56:25.777348-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 107 accessibility trees with the Internet Archive.
+The archiving routine has saved 109 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 31 at 4:50 PM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-31T16:49:56.870730-07:00.accessibility.json) |
+| [August 31 at 6:01 AM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-31T06:01:53.450256-07:00.accessibility.json) |
 | [August 30 at 4:59 PM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-30T16:59:21.498698-07:00.accessibility.json) |
 | [August 30 at 5:07 AM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-30T05:07:48.257801-07:00.accessibility.json) |
 | [August 29 at 4:50 PM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-29T16:50:22.720024-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 28 at 4:58 AM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-28T04:58:35.186032-07:00.accessibility.json) |
 | [August 27 at 4:48 PM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-27T16:48:16.589485-07:00.accessibility.json) |
 | [August 27 at 4:53 AM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-27T04:52:56.614235-07:00.accessibility.json) |
-| [August 26 at 4:43 PM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-26T16:43:27.677129-07:00.accessibility.json) |
-| [August 26 at 4:56 AM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-26T04:56:25.777348-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 78 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 80 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 31 at 4:50 PM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-31T16:49:56.870730-07:00.lighthouse.json) |
+| [August 31 at 6:02 AM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-31T06:01:53.450256-07:00.lighthouse.json) |
 | [August 30 at 4:59 PM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-30T16:59:21.498698-07:00.lighthouse.json) |
 | [August 30 at 5:07 AM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-30T05:07:48.257801-07:00.lighthouse.json) |
 | [August 29 at 4:50 PM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-29T16:50:22.720024-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 28 at 4:58 AM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-28T04:58:35.186032-07:00.lighthouse.json) |
 | [August 27 at 4:48 PM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-27T16:48:16.589485-07:00.lighthouse.json) |
 | [August 27 at 4:53 AM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-27T04:52:56.614235-07:00.lighthouse.json) |
-| [August 26 at 4:43 PM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-26T16:43:27.677129-07:00.lighthouse.json) |
-| [August 26 at 4:56 AM](https://archive.org/download/indiancountry-2022/indiancountry-2022-08-26T04:56:25.777348-07:00.lighthouse.json) |
 
 
 

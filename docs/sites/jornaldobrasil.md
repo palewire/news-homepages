@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 75 screenshots with the Internet Archive.
+The archiving routine has saved 78 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-31T20:52:12.055040-03:00.jpg">
+  <img src="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-31T20:52:12.055040-03:00.jpg"
+     alt="Jornal do Brasil at 2022-08-31 20:52:13-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-31T20:52:12.055040-03:00.jpg">August 31 at 8:52 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-31T10:03:57.551838-03:00.jpg">
+  <img src="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-31T10:03:57.551838-03:00.jpg"
+     alt="Jornal do Brasil at 2022-08-31 10:04:01-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-31T10:03:57.551838-03:00.jpg">August 31 at 10:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-31T09:04:10.251762-03:00.jpg">
+  <img src="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-31T09:04:10.251762-03:00.jpg"
+     alt="Jornal do Brasil at 2022-08-31 09:04:14-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-31T09:04:10.251762-03:00.jpg">August 31 at 9:04 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-30T21:00:49.894748-03:00.jpg">
   <img src="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-30T21:00:49.894748-03:00.jpg"
      alt="Jornal do Brasil at 2022-08-30 21:00:53-03:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-28T08:59:00.184713-03:00.jpg">August 28 at 8:59 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-27T20:50:44.999687-03:00.jpg">
-  <img src="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-27T20:50:44.999687-03:00.jpg"
-     alt="Jornal do Brasil at 2022-08-27 20:50:47-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-27T20:50:44.999687-03:00.jpg">August 27 at 8:50 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-27T08:58:11.255136-03:00.jpg">
-  <img src="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-27T08:58:11.255136-03:00.jpg"
-     alt="Jornal do Brasil at 2022-08-27 08:58:12-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-27T08:58:11.255136-03:00.jpg">August 27 at 8:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-27T08:53:57.078002-03:00.jpg">
-  <img src="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-27T08:53:57.078002-03:00.jpg"
-     alt="Jornal do Brasil at 2022-08-27 08:54:00-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-27T08:53:57.078002-03:00.jpg">August 27 at 8:54 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 75 hyperlink lists with the Internet Archive.
+The archiving routine has saved 78 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 31 at 8:52 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-31T20:52:12.055040-03:00.hyperlinks.json) |
+| [August 31 at 10:04 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-31T10:03:57.551838-03:00.hyperlinks.json) |
+| [August 31 at 9:04 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-31T09:04:10.251762-03:00.hyperlinks.json) |
 | [August 30 at 9:00 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-30T21:00:49.894748-03:00.hyperlinks.json) |
 | [August 30 at 9:15 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-30T09:14:56.667949-03:00.hyperlinks.json) |
 | [August 30 at 9:08 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-30T09:08:13.304971-03:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 29 at 9:02 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-29T09:02:33.937189-03:00.hyperlinks.json) |
 | [August 29 at 8:57 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-29T08:57:30.929490-03:00.hyperlinks.json) |
 | [August 28 at 8:48 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-28T20:48:26.575523-03:00.hyperlinks.json) |
-| [August 28 at 9:05 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-28T09:05:03.347401-03:00.hyperlinks.json) |
-| [August 28 at 8:59 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-28T08:59:00.184713-03:00.hyperlinks.json) |
-| [August 27 at 8:50 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-27T20:50:44.999687-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 75 accessibility trees with the Internet Archive.
+The archiving routine has saved 78 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 31 at 8:52 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-31T20:52:12.055040-03:00.accessibility.json) |
+| [August 31 at 10:04 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-31T10:03:57.551838-03:00.accessibility.json) |
+| [August 31 at 9:04 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-31T09:04:10.251762-03:00.accessibility.json) |
 | [August 30 at 9:00 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-30T21:00:49.894748-03:00.accessibility.json) |
 | [August 30 at 9:14 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-30T09:14:56.667949-03:00.accessibility.json) |
 | [August 30 at 9:08 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-30T09:08:13.304971-03:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 29 at 9:02 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-29T09:02:33.937189-03:00.accessibility.json) |
 | [August 29 at 8:57 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-29T08:57:30.929490-03:00.accessibility.json) |
 | [August 28 at 8:48 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-28T20:48:26.575523-03:00.accessibility.json) |
-| [August 28 at 9:05 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-28T09:05:03.347401-03:00.accessibility.json) |
-| [August 28 at 8:59 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-28T08:59:00.184713-03:00.accessibility.json) |
-| [August 27 at 8:50 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-27T20:50:44.999687-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 75 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 78 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 31 at 8:52 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-31T20:52:12.055040-03:00.lighthouse.json) |
+| [August 31 at 10:04 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-31T10:03:57.551838-03:00.lighthouse.json) |
+| [August 31 at 9:04 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-31T09:04:10.251762-03:00.lighthouse.json) |
 | [August 30 at 9:00 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-30T21:00:49.894748-03:00.lighthouse.json) |
 | [August 30 at 9:15 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-30T09:14:56.667949-03:00.lighthouse.json) |
 | [August 30 at 9:08 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-30T09:08:13.304971-03:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 29 at 9:02 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-29T09:02:33.937189-03:00.lighthouse.json) |
 | [August 29 at 8:57 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-29T08:57:30.929490-03:00.lighthouse.json) |
 | [August 28 at 8:48 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-28T20:48:26.575523-03:00.lighthouse.json) |
-| [August 28 at 9:05 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-28T09:05:03.347401-03:00.lighthouse.json) |
-| [August 28 at 8:59 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-28T08:59:00.184713-03:00.lighthouse.json) |
-| [August 27 at 8:50 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-27T20:50:44.999687-03:00.lighthouse.json) |
 
 
 

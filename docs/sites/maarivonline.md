@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 38 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-09-01T02:53:42.734651+03:00.jpg">
+  <img src="https://archive.org/download/maarivonline-2022/maarivonline-2022-09-01T02:53:42.734651+03:00.jpg"
+     alt="Maariv at 2022-09-01 02:53:50+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-09-01T02:53:42.734651+03:00.jpg">September 1 at 2:53 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T16:05:49.862893+03:00.jpg">
+  <img src="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T16:05:49.862893+03:00.jpg"
+     alt="Maariv at 2022-08-31 16:05:56+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T16:05:49.862893+03:00.jpg">August 31 at 4:05 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T03:03:33.287944+03:00.jpg">
   <img src="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T03:03:33.287944+03:00.jpg"
      alt="Maariv at 2022-08-31 03:03:34+03:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-26T14:59:29.161317+03:00.jpg">August 26 at 2:59 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-26T03:05:27.518290+03:00.jpg">
-  <img src="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-26T03:05:27.518290+03:00.jpg"
-     alt="Maariv at 2022-08-26 03:05:28+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-26T03:05:27.518290+03:00.jpg">August 26 at 3:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-25T15:05:17.015824+03:00.jpg">
-  <img src="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-25T15:05:17.015824+03:00.jpg"
-     alt="Maariv at 2022-08-25 15:05:18+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-25T15:05:17.015824+03:00.jpg">August 25 at 3:05 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 33 hyperlink lists with the Internet Archive.
+The archiving routine has saved 35 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 1 at 2:53 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-01T02:53:42.734651+03:00.hyperlinks.json) |
+| [August 31 at 4:06 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T16:05:49.862893+03:00.hyperlinks.json) |
 | [August 31 at 3:03 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T03:03:33.287944+03:00.hyperlinks.json) |
 | [August 30 at 3:10 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-30T15:10:36.482747+03:00.hyperlinks.json) |
 | [August 30 at 2:53 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-30T02:53:51.757708+03:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 28 at 3:02 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-28T15:02:07.291234+03:00.hyperlinks.json) |
 | [August 28 at 2:51 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-28T02:51:53.731660+03:00.hyperlinks.json) |
 | [August 27 at 2:55 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-27T14:55:38.155616+03:00.hyperlinks.json) |
-| [August 27 at 2:46 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-27T02:46:51.850384+03:00.hyperlinks.json) |
-| [August 26 at 2:59 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-26T14:59:29.161317+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 24 accessibility trees with the Internet Archive.
+The archiving routine has saved 26 accessibility trees with the Internet Archive.
 
 
 
@@ -550,6 +550,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 1 at 2:53 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-01T02:53:42.734651+03:00.accessibility.json) |
+| [August 31 at 4:05 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T16:05:49.862893+03:00.accessibility.json) |
 | [August 31 at 3:03 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T03:03:33.287944+03:00.accessibility.json) |
 | [August 30 at 3:10 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-30T15:10:36.482747+03:00.accessibility.json) |
 | [August 30 at 2:53 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-30T02:53:51.757708+03:00.accessibility.json) |
@@ -558,14 +560,12 @@ Here are the 10 most recent accessibility trees.
 | [August 28 at 3:02 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-28T15:02:07.291234+03:00.accessibility.json) |
 | [August 28 at 2:51 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-28T02:51:53.731660+03:00.accessibility.json) |
 | [August 27 at 2:55 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-27T14:55:38.155616+03:00.accessibility.json) |
-| [August 27 at 2:46 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-27T02:46:51.850384+03:00.accessibility.json) |
-| [August 26 at 2:59 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-26T14:59:29.161317+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 36 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 38 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -656,6 +656,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 1 at 2:53 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-01T02:53:42.734651+03:00.lighthouse.json) |
+| [August 31 at 4:06 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T16:05:49.862893+03:00.lighthouse.json) |
 | [August 31 at 3:03 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T03:03:33.287944+03:00.lighthouse.json) |
 | [August 30 at 3:10 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-30T15:10:36.482747+03:00.lighthouse.json) |
 | [August 30 at 2:54 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-30T02:53:51.757708+03:00.lighthouse.json) |
@@ -664,8 +666,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 28 at 3:02 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-28T15:02:07.291234+03:00.lighthouse.json) |
 | [August 28 at 2:52 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-28T02:51:53.731660+03:00.lighthouse.json) |
 | [August 27 at 2:55 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-27T14:55:38.155616+03:00.lighthouse.json) |
-| [August 27 at 2:46 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-27T02:46:51.850384+03:00.lighthouse.json) |
-| [August 26 at 2:59 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-26T14:59:29.161317+03:00.lighthouse.json) |
 
 
 

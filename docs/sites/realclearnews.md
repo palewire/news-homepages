@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 52 screenshots with the Internet Archive.
+The archiving routine has saved 54 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,6 +120,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-08-31T09:11:30.897449-04:00.jpg">
+  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-08-31T09:11:30.897449-04:00.jpg"
+     alt="Real Clear Politics at 2022-08-31 09:11:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-08-31T09:11:30.897449-04:00.jpg">August 31 at 9:11 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-08-30T21:23:22.520793-04:00.jpg">
+  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-08-30T21:23:22.520793-04:00.jpg"
+     alt="Real Clear Politics at 2022-08-30 21:23:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-08-30T21:23:22.520793-04:00.jpg">August 30 at 9:23 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-08-30T09:10:40.486030-04:00.jpg">
   <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-08-30T09:10:40.486030-04:00.jpg"
      alt="Real Clear Politics at 2022-08-30 09:10:43-04:00 local time"
@@ -209,29 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-08-25T21:13:25.720774-04:00.jpg">August 25 at 9:13 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-08-25T09:03:20.189645-04:00.jpg">
-  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-08-25T09:03:20.189645-04:00.jpg"
-     alt="Real Clear Politics at 2022-08-25 09:03:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-08-25T09:03:20.189645-04:00.jpg">August 25 at 9:03 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-08-24T08:55:06.552018-04:00.jpg">
-  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-08-24T08:55:06.552018-04:00.jpg"
-     alt="Real Clear Politics at 2022-08-24 08:55:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-08-24T08:55:06.552018-04:00.jpg">August 24 at 8:55 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 52 hyperlink lists with the Internet Archive.
+The archiving routine has saved 54 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 31 at 9:11 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-31T09:11:30.897449-04:00.hyperlinks.json) |
+| [August 30 at 9:23 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-30T21:23:22.520793-04:00.hyperlinks.json) |
 | [August 30 at 9:10 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-30T09:10:40.486030-04:00.hyperlinks.json) |
 | [August 29 at 9:15 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-29T21:15:35.839804-04:00.hyperlinks.json) |
 | [August 29 at 8:59 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-29T08:59:11.564572-04:00.hyperlinks.json) |
@@ -330,13 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 27 at 9:26 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-27T21:26:39.222421-04:00.hyperlinks.json) |
 | [August 27 at 8:56 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-27T08:56:15.033945-04:00.hyperlinks.json) |
 | [August 26 at 9:06 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-26T21:06:37.661211-04:00.hyperlinks.json) |
-| [August 26 at 9:00 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-26T09:00:02.157505-04:00.hyperlinks.json) |
-| [August 25 at 9:13 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-25T21:13:25.720774-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 52 accessibility trees with the Internet Archive.
+The archiving routine has saved 54 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 31 at 9:11 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-31T09:11:30.897449-04:00.accessibility.json) |
+| [August 30 at 9:23 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-30T21:23:22.520793-04:00.accessibility.json) |
 | [August 30 at 9:10 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-30T09:10:40.486030-04:00.accessibility.json) |
 | [August 29 at 9:15 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-29T21:15:35.839804-04:00.accessibility.json) |
 | [August 29 at 8:59 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-29T08:59:11.564572-04:00.accessibility.json) |
@@ -435,8 +437,6 @@ Here are the 10 most recent accessibility trees.
 | [August 27 at 9:26 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-27T21:26:39.222421-04:00.accessibility.json) |
 | [August 27 at 8:56 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-27T08:56:15.033945-04:00.accessibility.json) |
 | [August 26 at 9:06 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-26T21:06:37.661211-04:00.accessibility.json) |
-| [August 26 at 9:00 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-26T09:00:02.157505-04:00.accessibility.json) |
-| [August 25 at 9:13 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-25T21:13:25.720774-04:00.accessibility.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 142 screenshots with the Internet Archive.
+The archiving routine has saved 144 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-31T08:11:05.874096-07:00.jpg">
+  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-31T08:11:05.874096-07:00.jpg"
+     alt="NBC Bay Area at 2022-08-31 08:11:11-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-31T08:11:05.874096-07:00.jpg">August 31 at 8:11 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-30T20:50:40.411669-07:00.jpg">
+  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-30T20:50:40.411669-07:00.jpg"
+     alt="NBC Bay Area at 2022-08-30 20:50:41-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-30T20:50:40.411669-07:00.jpg">August 30 at 8:50 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-30T08:37:18.353697-07:00.jpg">
   <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-30T08:37:18.353697-07:00.jpg"
      alt="NBC Bay Area at 2022-08-30 08:37:19-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-25T20:46:52.486278-07:00.jpg">August 25 at 8:46 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-25T08:04:04.620057-07:00.jpg">
-  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-25T08:04:04.620057-07:00.jpg"
-     alt="NBC Bay Area at 2022-08-25 08:04:06-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-25T08:04:04.620057-07:00.jpg">August 25 at 8:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-24T08:03:54.627327-07:00.jpg">
-  <img src="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-24T08:03:54.627327-07:00.jpg"
-     alt="NBC Bay Area at 2022-08-24 08:03:56-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-24T08:03:54.627327-07:00.jpg">August 24 at 8:03 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 143 hyperlink lists with the Internet Archive.
+The archiving routine has saved 145 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 31 at 8:11 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-31T08:11:05.874096-07:00.hyperlinks.json) |
+| [August 30 at 8:50 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-30T20:50:40.411669-07:00.hyperlinks.json) |
 | [August 30 at 8:37 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-30T08:37:18.353697-07:00.hyperlinks.json) |
 | [August 29 at 8:57 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-29T20:56:57.956137-07:00.hyperlinks.json) |
 | [August 29 at 8:12 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-29T08:12:05.131578-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 27 at 8:44 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-27T20:44:18.233960-07:00.hyperlinks.json) |
 | [August 27 at 7:54 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-27T07:54:27.733054-07:00.hyperlinks.json) |
 | [August 26 at 8:40 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-26T20:40:51.268364-07:00.hyperlinks.json) |
-| [August 26 at 8:02 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-26T08:01:59.810882-07:00.hyperlinks.json) |
-| [August 25 at 8:46 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-25T20:46:52.486278-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 143 accessibility trees with the Internet Archive.
+The archiving routine has saved 145 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 31 at 8:11 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-31T08:11:05.874096-07:00.accessibility.json) |
+| [August 30 at 8:50 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-30T20:50:40.411669-07:00.accessibility.json) |
 | [August 30 at 8:37 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-30T08:37:18.353697-07:00.accessibility.json) |
 | [August 29 at 8:57 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-29T20:56:57.956137-07:00.accessibility.json) |
 | [August 29 at 8:12 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-29T08:12:05.131578-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 27 at 8:44 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-27T20:44:18.233960-07:00.accessibility.json) |
 | [August 27 at 7:54 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-27T07:54:27.733054-07:00.accessibility.json) |
 | [August 26 at 8:40 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-26T20:40:51.268364-07:00.accessibility.json) |
-| [August 26 at 8:02 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-26T08:01:59.810882-07:00.accessibility.json) |
-| [August 25 at 8:46 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-25T20:46:52.486278-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 75 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 77 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 31 at 8:11 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-31T08:11:05.874096-07:00.lighthouse.json) |
+| [August 30 at 8:50 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-30T20:50:40.411669-07:00.lighthouse.json) |
 | [August 30 at 8:37 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-30T08:37:18.353697-07:00.lighthouse.json) |
 | [August 29 at 8:57 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-29T20:56:57.956137-07:00.lighthouse.json) |
 | [August 29 at 8:12 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-29T08:12:05.131578-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 27 at 8:44 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-27T20:44:18.233960-07:00.lighthouse.json) |
 | [August 27 at 7:54 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-27T07:54:27.733054-07:00.lighthouse.json) |
 | [August 26 at 8:41 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-26T20:40:51.268364-07:00.lighthouse.json) |
-| [August 26 at 8:02 AM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-26T08:01:59.810882-07:00.lighthouse.json) |
-| [August 25 at 8:46 PM](https://archive.org/download/nbcbayarea-2022/nbcbayarea-2022-08-25T20:46:52.486278-07:00.lighthouse.json) |
 
 
 

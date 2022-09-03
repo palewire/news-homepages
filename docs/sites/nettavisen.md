@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 86 screenshots with the Internet Archive.
+The archiving routine has saved 88 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-09-01T01:55:08.048776+02:00.jpg">
+  <img src="https://archive.org/download/nettavisen-2022/nettavisen-2022-09-01T01:55:08.048776+02:00.jpg"
+     alt="Nettavisen at 2022-09-01 01:55:12+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-09-01T01:55:08.048776+02:00.jpg">September 1 at 1:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-08-31T15:07:26.618191+02:00.jpg">
+  <img src="https://archive.org/download/nettavisen-2022/nettavisen-2022-08-31T15:07:26.618191+02:00.jpg"
+     alt="Nettavisen at 2022-08-31 15:07:33+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-08-31T15:07:26.618191+02:00.jpg">August 31 at 3:07 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-08-31T02:05:30.283762+02:00.jpg">
   <img src="https://archive.org/download/nettavisen-2022/nettavisen-2022-08-31T02:05:30.283762+02:00.jpg"
      alt="Nettavisen at 2022-08-31 02:05:34+02:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-08-26T14:00:32.011793+02:00.jpg">August 26 at 2:00 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-08-26T02:07:11.870872+02:00.jpg">
-  <img src="https://archive.org/download/nettavisen-2022/nettavisen-2022-08-26T02:07:11.870872+02:00.jpg"
-     alt="Nettavisen at 2022-08-26 02:07:19+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-08-26T02:07:11.870872+02:00.jpg">August 26 at 2:07 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-08-25T14:05:15.255205+02:00.jpg">
-  <img src="https://archive.org/download/nettavisen-2022/nettavisen-2022-08-25T14:05:15.255205+02:00.jpg"
-     alt="Nettavisen at 2022-08-25 14:05:16+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-08-25T14:05:15.255205+02:00.jpg">August 25 at 2:05 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 86 hyperlink lists with the Internet Archive.
+The archiving routine has saved 88 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 1 at 1:55 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-09-01T01:55:08.048776+02:00.hyperlinks.json) |
+| [August 31 at 3:07 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-31T15:07:26.618191+02:00.hyperlinks.json) |
 | [August 31 at 2:05 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-31T02:05:30.283762+02:00.hyperlinks.json) |
 | [August 30 at 2:12 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-30T14:12:32.313198+02:00.hyperlinks.json) |
 | [August 30 at 1:55 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-30T01:55:10.652063+02:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 28 at 2:02 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-28T14:02:38.712467+02:00.hyperlinks.json) |
 | [August 28 at 1:53 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-28T01:53:32.764125+02:00.hyperlinks.json) |
 | [August 27 at 1:57 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-27T13:57:13.168802+02:00.hyperlinks.json) |
-| [August 27 at 1:48 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-27T01:48:12.679212+02:00.hyperlinks.json) |
-| [August 26 at 2:00 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-26T14:00:32.011793+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 86 accessibility trees with the Internet Archive.
+The archiving routine has saved 88 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 1 at 1:55 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-09-01T01:55:08.048776+02:00.accessibility.json) |
+| [August 31 at 3:07 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-31T15:07:26.618191+02:00.accessibility.json) |
 | [August 31 at 2:05 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-31T02:05:30.283762+02:00.accessibility.json) |
 | [August 30 at 2:12 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-30T14:12:32.313198+02:00.accessibility.json) |
 | [August 30 at 1:55 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-30T01:55:10.652063+02:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 28 at 2:02 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-28T14:02:38.712467+02:00.accessibility.json) |
 | [August 28 at 1:53 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-28T01:53:32.764125+02:00.accessibility.json) |
 | [August 27 at 1:57 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-27T13:57:13.168802+02:00.accessibility.json) |
-| [August 27 at 1:48 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-27T01:48:12.679212+02:00.accessibility.json) |
-| [August 26 at 2:00 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-26T14:00:32.011793+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 78 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 80 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 1 at 1:55 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-09-01T01:55:08.048776+02:00.lighthouse.json) |
+| [August 31 at 3:07 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-31T15:07:26.618191+02:00.lighthouse.json) |
 | [August 31 at 2:05 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-31T02:05:30.283762+02:00.lighthouse.json) |
 | [August 30 at 2:12 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-30T14:12:32.313198+02:00.lighthouse.json) |
 | [August 30 at 1:55 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-30T01:55:10.652063+02:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 28 at 2:02 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-28T14:02:38.712467+02:00.lighthouse.json) |
 | [August 28 at 1:53 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-28T01:53:32.764125+02:00.lighthouse.json) |
 | [August 27 at 1:57 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-27T13:57:13.168802+02:00.lighthouse.json) |
-| [August 27 at 1:48 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-27T01:48:12.679212+02:00.lighthouse.json) |
-| [August 26 at 2:00 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-26T14:00:32.011793+02:00.lighthouse.json) |
 
 
 

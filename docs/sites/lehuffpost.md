@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 313 screenshots with the Internet Archive.
+The archiving routine has saved 316 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-09-01T01:53:37.065215+02:00.jpg">
+  <img src="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-09-01T01:53:37.065215+02:00.jpg"
+     alt="Le Huffington Post at 2022-09-01 01:53:55+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-09-01T01:53:37.065215+02:00.jpg">September 1 at 1:53 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-31T15:06:10.948873+02:00.jpg">
+  <img src="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-31T15:06:10.948873+02:00.jpg"
+     alt="Le Huffington Post at 2022-08-31 15:06:32+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-31T15:06:10.948873+02:00.jpg">August 31 at 3:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-31T10:14:37.691832+02:00.jpg">
+  <img src="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-31T10:14:37.691832+02:00.jpg"
+     alt="Le Huffington Post at 2022-08-31 10:14:46+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-31T10:14:37.691832+02:00.jpg">August 31 at 10:14 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-31T02:03:05.449131+02:00.jpg">
   <img src="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-31T02:03:05.449131+02:00.jpg"
      alt="Le Huffington Post at 2022-08-31 02:03:12+02:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-28T10:15:02.281661+02:00.jpg">August 28 at 10:15 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-28T01:52:00.385761+02:00.jpg">
-  <img src="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-28T01:52:00.385761+02:00.jpg"
-     alt="Le Huffington Post at 2022-08-28 01:52:07+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-28T01:52:00.385761+02:00.jpg">August 28 at 1:52 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-27T13:55:18.083303+02:00.jpg">
-  <img src="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-27T13:55:18.083303+02:00.jpg"
-     alt="Le Huffington Post at 2022-08-27 13:55:28+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-27T13:55:18.083303+02:00.jpg">August 27 at 1:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-27T10:13:13.204360+02:00.jpg">
-  <img src="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-27T10:13:13.204360+02:00.jpg"
-     alt="Le Huffington Post at 2022-08-27 10:13:21+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-27T10:13:13.204360+02:00.jpg">August 27 at 10:13 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 315 hyperlink lists with the Internet Archive.
+The archiving routine has saved 318 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 1 at 1:53 AM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-09-01T01:53:37.065215+02:00.hyperlinks.json) |
+| [August 31 at 3:06 PM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-31T15:06:10.948873+02:00.hyperlinks.json) |
+| [August 31 at 10:14 AM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-31T10:14:37.691832+02:00.hyperlinks.json) |
 | [August 31 at 2:03 AM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-31T02:03:05.449131+02:00.hyperlinks.json) |
 | [August 30 at 2:10 PM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-30T14:10:08.351210+02:00.hyperlinks.json) |
 | [August 30 at 10:16 AM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-30T10:16:43.988192+02:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 29 at 1:59 PM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-29T13:59:32.957089+02:00.hyperlinks.json) |
 | [August 29 at 10:14 AM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-29T10:14:34.121260+02:00.hyperlinks.json) |
 | [August 29 at 1:50 AM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-29T01:50:22.942690+02:00.hyperlinks.json) |
-| [August 28 at 2:01 PM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-28T14:00:49.758814+02:00.hyperlinks.json) |
-| [August 28 at 10:15 AM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-28T10:15:02.281661+02:00.hyperlinks.json) |
-| [August 28 at 1:52 AM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-28T01:52:00.385761+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 315 accessibility trees with the Internet Archive.
+The archiving routine has saved 318 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 1 at 1:53 AM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-09-01T01:53:37.065215+02:00.accessibility.json) |
+| [August 31 at 3:06 PM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-31T15:06:10.948873+02:00.accessibility.json) |
+| [August 31 at 10:14 AM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-31T10:14:37.691832+02:00.accessibility.json) |
 | [August 31 at 2:03 AM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-31T02:03:05.449131+02:00.accessibility.json) |
 | [August 30 at 2:10 PM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-30T14:10:08.351210+02:00.accessibility.json) |
 | [August 30 at 10:16 AM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-30T10:16:43.988192+02:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 29 at 1:59 PM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-29T13:59:32.957089+02:00.accessibility.json) |
 | [August 29 at 10:14 AM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-29T10:14:34.121260+02:00.accessibility.json) |
 | [August 29 at 1:50 AM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-29T01:50:22.942690+02:00.accessibility.json) |
-| [August 28 at 2:00 PM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-28T14:00:49.758814+02:00.accessibility.json) |
-| [August 28 at 10:15 AM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-28T10:15:02.281661+02:00.accessibility.json) |
-| [August 28 at 1:52 AM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-28T01:52:00.385761+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 114 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 117 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 1 at 1:54 AM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-09-01T01:53:37.065215+02:00.lighthouse.json) |
+| [August 31 at 3:06 PM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-31T15:06:10.948873+02:00.lighthouse.json) |
+| [August 31 at 10:14 AM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-31T10:14:37.691832+02:00.lighthouse.json) |
 | [August 31 at 2:03 AM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-31T02:03:05.449131+02:00.lighthouse.json) |
 | [August 30 at 2:10 PM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-30T14:10:08.351210+02:00.lighthouse.json) |
 | [August 30 at 10:16 AM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-30T10:16:43.988192+02:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 29 at 1:59 PM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-29T13:59:32.957089+02:00.lighthouse.json) |
 | [August 29 at 10:14 AM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-29T10:14:34.121260+02:00.lighthouse.json) |
 | [August 29 at 1:50 AM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-29T01:50:22.942690+02:00.lighthouse.json) |
-| [August 28 at 2:01 PM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-28T14:00:49.758814+02:00.lighthouse.json) |
-| [August 28 at 10:15 AM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-28T10:15:02.281661+02:00.lighthouse.json) |
-| [August 28 at 1:52 AM](https://archive.org/download/lehuffpost-2022/lehuffpost-2022-08-28T01:52:00.385761+02:00.lighthouse.json) |
 
 
 
