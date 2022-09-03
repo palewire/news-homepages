@@ -1,5 +1,5 @@
 {
-  "created": 1661990881,
+  "created": 1662162930,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/12/items/capitolnewsil-2022",
@@ -5914,31 +5914,269 @@
       "sha1": "a66b3cf9d8369aa3b212d99118fd99fc81f9b49f"
     },
     {
+      "name": "capitolnewsil-2022-09-01T06:01:44.537818-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662030114",
+      "size": "10557",
+      "md5": "bfc270b36015c29ecd3ab64343bbf01b",
+      "crc32": "2eef9340",
+      "sha1": "6ba36633e701ad316d08f837a3f6f01efc2ed67d",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-09-01T06:01:44.537818-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662030117",
+      "size": "7109",
+      "md5": "bd41fdd2aeac298abdac628def5fa86e",
+      "crc32": "a8916748",
+      "sha1": "2652b613d09d79232d73740719019732f89e61df",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-09-01T06:01:44.537818-05:00.jpg",
+      "source": "original",
+      "mtime": "1662030112",
+      "size": "317681",
+      "md5": "9c0a5726985d8050bfba4bc3319d1097",
+      "crc32": "8daf8a5c",
+      "sha1": "f2fddc9fd099f268241cef3e3a9ef386ba4d7edb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capitolnewsil-2022-09-01T06:01:44.537818-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662030118",
+      "size": "1576",
+      "md5": "c401063149ab0f44618c43e55f95616e",
+      "crc32": "9e6ffad3",
+      "sha1": "ec1d2b23660b728acde00228620b903229a695ec",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-09-01T06:01:44.537818-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662030120",
+      "size": "11947",
+      "md5": "6b86fd5825b68e3da0c174188e65a975",
+      "crc32": "eae4e52d",
+      "sha1": "07c3628f0e19999809d0fce76ba1241540ba019d",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-09-01T06:01:44.537818-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capitolnewsil-2022-09-01T06:01:44.537818-05:00.jpg",
+      "mtime": "1662030206",
+      "size": "9950",
+      "md5": "c873ea175bd56952f8ab026a42f99026",
+      "crc32": "fd0752c9",
+      "sha1": "b959972f6fc571668ec43e9c00b5b86753634ff2"
+    },
+    {
+      "name": "capitolnewsil-2022-09-01T17:59:41.321504-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662073200",
+      "size": "10747",
+      "md5": "7d0f566c1433754e054ab7c4adefa6a5",
+      "crc32": "cd451110",
+      "sha1": "37199d70643a1764f655890fcfa1897af7a40de5",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-09-01T17:59:41.321504-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662073212",
+      "size": "6835",
+      "md5": "190e34105f8ce432274f0c4039d038e7",
+      "crc32": "023c1014",
+      "sha1": "465cc20fdd920855681487b6630ab623d85b23de",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-09-01T17:59:41.321504-05:00.jpg",
+      "source": "original",
+      "mtime": "1662073191",
+      "size": "308339",
+      "md5": "188f38f4e6da7b311a9c9ab5d5b1f736",
+      "crc32": "ce40fe8c",
+      "sha1": "a2ae50115dd44d889083e8039cf3376a1ea1b9fd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capitolnewsil-2022-09-01T17:59:41.321504-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662073224",
+      "size": "1576",
+      "md5": "1ee029392aed0f2b6676ac799ddd04e0",
+      "crc32": "8ddd5b93",
+      "sha1": "d36c95aa6afb8015a6be997afa1b5d3d5ef20052",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-09-01T17:59:41.321504-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662073236",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-09-01T17:59:41.321504-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capitolnewsil-2022-09-01T17:59:41.321504-05:00.jpg",
+      "mtime": "1662073293",
+      "size": "9903",
+      "md5": "df66edcf1ffbc15c42a0b8756d890bce",
+      "crc32": "b97f6468",
+      "sha1": "b53d23a0ce001576c848fa7fdce148b855a06939"
+    },
+    {
+      "name": "capitolnewsil-2022-09-02T05:57:42.972127-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662116266",
+      "size": "10760",
+      "md5": "a99e2d6b8a14e776db450165cc98259a",
+      "crc32": "5c8c4de6",
+      "sha1": "7d3569e5139fb90495e263a1c0fd6ff6eddaccf2",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-09-02T05:57:42.972127-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662116268",
+      "size": "6827",
+      "md5": "8fe21c47d3243143d44124d1c29bd8bd",
+      "crc32": "941fa02c",
+      "sha1": "066d090ca66093c9932041f995b384f068cbf5a9",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-09-02T05:57:42.972127-05:00.jpg",
+      "source": "original",
+      "mtime": "1662116264",
+      "size": "314119",
+      "md5": "3fb2988a15237a3b9c48459155ac2720",
+      "crc32": "372ad7c1",
+      "sha1": "5c466b8d0e1887664d2d0aff24333f5eeb817ea1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capitolnewsil-2022-09-02T05:57:42.972127-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662116270",
+      "size": "1576",
+      "md5": "ea30673cf8788397a9c30ff2b1e13588",
+      "crc32": "3979f29e",
+      "sha1": "a8848ab5a67357be65563c79efc9aedab14f21dd",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-09-02T05:57:42.972127-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662116271",
+      "size": "416",
+      "md5": "ea1c0933648923927be23fadfc80e535",
+      "crc32": "bd3bae3d",
+      "sha1": "77c8dd6a27cf6bae02a0ce6e07392d2e78784d77",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-09-02T05:57:42.972127-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capitolnewsil-2022-09-02T05:57:42.972127-05:00.jpg",
+      "mtime": "1662116326",
+      "size": "10079",
+      "md5": "76fc6ad1fd21a7c4879492cff9b31ae5",
+      "crc32": "6ef3e748",
+      "sha1": "e611b69d42158cd2d3fe164dfa963f221c695a83"
+    },
+    {
+      "name": "capitolnewsil-2022-09-02T18:54:19.314916-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662162865",
+      "size": "11048",
+      "md5": "2ec58874b5ea4fca2d045b3646a04d4a",
+      "crc32": "fc903fbb",
+      "sha1": "6bd26fb1d9f295a9237b671089a5c81421a50e44",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-09-02T18:54:19.314916-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662162867",
+      "size": "6986",
+      "md5": "99c566a37ef2a2e4ae813535ef8a6dec",
+      "crc32": "9d6a1dfc",
+      "sha1": "055d581e7b94d7a2a112e862932f08a48df14850",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-09-02T18:54:19.314916-05:00.jpg",
+      "source": "original",
+      "mtime": "1662162863",
+      "size": "336116",
+      "md5": "1209259fdfbdc1a1ccb46e30734c72ad",
+      "crc32": "36351da4",
+      "sha1": "d50560e481fe29f258ae58839a668ee88e9440ec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capitolnewsil-2022-09-02T18:54:19.314916-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662162868",
+      "size": "1576",
+      "md5": "56d3d87044d463a1c0013853912d99ff",
+      "crc32": "392cc76c",
+      "sha1": "ef9f6f7057c5a9c342daf1bec4ac9db6d5bb268b",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-09-02T18:54:19.314916-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capitolnewsil-2022-09-02T18:54:19.314916-05:00.jpg",
+      "mtime": "1662162919",
+      "size": "10084",
+      "md5": "5c8b38ee79b6d2a62bb035d54284efb2",
+      "crc32": "8eb5f8f8",
+      "sha1": "a45d0dc36e74db67926e4aff75c96f9add036333"
+    },
+    {
       "name": "capitolnewsil-2022_archive.torrent",
       "source": "metadata",
-      "btih": "43908cb856f0419b499c69c87fa2433eb6597e94",
-      "mtime": "1661986619",
-      "size": "123888",
-      "md5": "7ab5d3d5b98d3fefd277f4f7f0d98aa6",
-      "crc32": "c182fcef",
-      "sha1": "4acbdcbd32c8ac307ff101d461c327856ec3ba21",
+      "btih": "fcb908cb78ffc58b3302c6c0024c8a4a65cec437",
+      "mtime": "1662162925",
+      "size": "128817",
+      "md5": "8637e8c2aa9bfc9fb1f5c5a45b3dcaea",
+      "crc32": "0544fabc",
+      "sha1": "ada7b9817308023d564168d9643e60c101396c65",
       "format": "Archive BitTorrent"
     },
     {
       "name": "capitolnewsil-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7912611f4200f00c32b67280ea140ca9",
+      "md5": "9575b3ecfedfdd951ee6fefcddccb139",
       "summation": "md5"
     },
     {
       "name": "capitolnewsil-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661986546",
-      "size": "724992",
-      "md5": "11dc93f387d2e2479a965d8a242cb243",
-      "crc32": "d4b12ad2",
-      "sha1": "b4e70ca4c7d6a3474e3b37dc83ec2bdf1b3a2d61",
+      "mtime": "1662162871",
+      "size": "753664",
+      "md5": "a34cc72e4d6e13e8d0d6571fb578658c",
+      "crc32": "ebcdfab3",
+      "sha1": "de106c9a94c8fa8197f5685d268ce66bee802391",
       "format": "Metadata"
     },
     {
@@ -5952,9 +6190,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 573,
-  "item_last_updated": 1661986619,
-  "item_size": 39478735,
+  "files_count": 596,
+  "item_last_updated": 1662162925,
+  "item_size": 40918345,
   "metadata": {
     "identifier": "capitolnewsil-2022",
     "collection": [
@@ -5972,7 +6210,7 @@
     "addeddate": "2022-07-09 03:56:30"
   },
   "server": "ia801505.us.archive.org",
-  "uniq": 78725848,
+  "uniq": 210135262,
   "workable_servers": [
     "ia801505.us.archive.org",
     "ia601505.us.archive.org"

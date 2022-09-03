@@ -7,7 +7,7 @@ orphan: true
 
 # English
 
-The most recent homepages from 690 news sites in this language.
+The most recent homepages from 691 news sites in this language.
 
 <div class="latest-parent">
 
@@ -4251,6 +4251,15 @@ The most recent homepages from 690 news sites in this language.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/pagesix.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pagesix.jpg"
+     alt="Page Six"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/pagesix.html">Page Six</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/newshour.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newshour.jpg"
      alt="PBS News Hour"
@@ -6704,6 +6713,7 @@ The most recent homepages from 690 news sites in this language.
 |[Ottumwa Courier](https://palewi.re/docs/news-homepages/sites/ottumwacourier.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ottumwacourier.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ottumwacourier.xml)|
 |[Outlier Media](https://palewi.re/docs/news-homepages/sites/media_outlier.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/media_outlier.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/media_outlier.xml)|
 |[Oxpeckers](https://palewi.re/docs/news-homepages/sites/oxciej.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oxciej.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/oxciej.xml)|
+|[Page Six](https://palewi.re/docs/news-homepages/sites/pagesix.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pagesix.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pagesix.xml)|
 |[PBS News Hour](https://palewi.re/docs/news-homepages/sites/newshour.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newshour.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newshour.xml)|
 |[Peninsula Press](https://palewi.re/docs/news-homepages/sites/peninsupress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/peninsupress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/peninsupress.xml)|
 |[People](https://palewi.re/docs/news-homepages/sites/people.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/people.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/people.xml)|

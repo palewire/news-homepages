@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 877 news sites.
+The most recent homepages captured from 878 news sites.
 
 <div class="latest-parent">
 
@@ -5486,6 +5486,15 @@ The most recent homepages captured from 877 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/oxciej.html">Oxpeckers</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/pagesix.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pagesix.jpg"
+     alt="Page Six"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/pagesix.html">Page Six</a></p>
 </div>
 
 <div class="latest-child">

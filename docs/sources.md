@@ -3,7 +3,7 @@
 
 # Sites
 
-The archiving routine is currently capturing 877 sites.
+The archiving routine is currently capturing 878 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -618,6 +618,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Ottumwa Courier](https://palewi.re/docs/news-homepages/sites/ottumwacourier.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ottumwacourier.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ottumwacourier.xml)|
 |[Outlier Media](https://palewi.re/docs/news-homepages/sites/media_outlier.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/media_outlier.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/media_outlier.xml)|
 |[Oxpeckers](https://palewi.re/docs/news-homepages/sites/oxciej.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oxciej.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/oxciej.xml)|
+|[Page Six](https://palewi.re/docs/news-homepages/sites/pagesix.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pagesix.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pagesix.xml)|
 |[Paris Review](https://palewi.re/docs/news-homepages/sites/parisreview.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/parisreview.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/parisreview.xml)|
 |[PBS News Hour](https://palewi.re/docs/news-homepages/sites/newshour.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newshour.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newshour.xml)|
 |[Peninsula Press](https://palewi.re/docs/news-homepages/sites/peninsupress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/peninsupress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/peninsupress.xml)|
