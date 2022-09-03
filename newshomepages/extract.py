@@ -2,6 +2,7 @@ import csv
 import json
 import os
 import pathlib
+import pytz
 import time
 from json.decoder import JSONDecodeError
 from datetime import datetime
@@ -48,7 +49,8 @@ def latest_files(init: bool = False):
         except JSONDecodeError:
             continue
         row = dict(handle=f.stem)
-        row["datetime"] = utils.parse_archive_url(data[0])["timestamp"]
+        metadata = utils.parse_archive_url(data[0])
+        row["datetime"] = metadata["timestamp"].astimezone(pytz.utc)
         artifact_urls = utils.parse_archive_artifact(data)
         row.update(artifact_urls)
         row_list.append(row)

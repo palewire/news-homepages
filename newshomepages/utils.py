@@ -28,7 +28,7 @@ def parse_archive_url(url: str):
     path_list = o.path.split("/")
     identifier = path_list[-2]
     handle = identifier[:-5]
-    time_string = time_string = path_list[-1].replace(f"{handle}-", "").split(".")[0]
+    time_string = ".".join(path_list[-1].replace(f"{handle}-", "").split(".")[:2])
     timestamp = datetime.fromisoformat(time_string)
     return dict(identifier=identifier, handle=handle, timestamp=timestamp)
 
