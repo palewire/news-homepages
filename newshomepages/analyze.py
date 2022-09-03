@@ -78,16 +78,12 @@ def drudge():
     too_much = links_df.n >= n * .5
     links_df.loc[too_much, 'is_story'] = False
 
-    # Filter down to stories
-    story_df = links_df[links_df.is_story].copy()
-
     # Parse out the domain
-    story_df['domain'] = story_df.url.apply(lambda x: f"{tldextract.extract(x).domain}.{tldextract.extract(x).suffix}")
+    links_df['domain'] = links_df.url.apply(lambda x: f"{tldextract.extract(x).domain}.{tldextract.extract(x).suffix}")
 
     # Write the result
     (
-        story_df.sort_values(["earliest_date", "text"], ascending=[False, True])
-            .drop(["is_story"], axis=1)
+        links_df.sort_values(["domain", "earliest_date", "text"], ascending=[True, False, True])
             .to_csv(utils.EXTRACT_DIR / "csv" / "drudge-hyperlinks-analysis.csv", index=False)
     )
 
