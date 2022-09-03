@@ -31,7 +31,8 @@ def cli():
 
 
 @cli.command()
-def latest_files():
+@click.option("--init", is_flag=True, default=False)
+def latest_files(init: bool = False):
     """Parse and consolidate the latest files for each site."""
     # Get all the JSON files
     latest_dir = utils.SOURCES_PATH / "latest"
@@ -53,12 +54,22 @@ def latest_files():
         row_list.append(row)
 
     # Load it into a dataframe
-    df = pd.DataFrame(row_list).sort_values("handle")
+    new_df = pd.DataFrame(row_list).sort_values("handle").set_index("handle")
+
+    # Update the existing dataframe
+    csv_path = utils.EXTRACT_DIR / "csv" / "latest-files.csv"
+    if not init:
+        old_df = pd.read_csv(csv_path, parse_dates=["datetime"], index_col="handle")
+        old_df.update(new_df)
+        out_df = old_df
+    # Unless the --init flag was passed
+    else:
+        out_df = new_df
 
     # Write it out
-    output_path = utils.EXTRACT_DIR / "csv" / "latest-files.csv"
-    print(f":pencil: Writing {len(df)} rows to {output_path}")
-    df.to_csv(output_path, index=False)
+    print(f":pencil: Writing {len(out_df)} rows to {csv_path}")
+    out_df.to_csv(csv_path)
+
 
 
 @cli.command()
