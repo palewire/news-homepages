@@ -62,15 +62,14 @@ def latest_files(init: bool = False):
     csv_path = utils.EXTRACT_DIR / "csv" / "latest-files.csv"
     if not init:
         old_df = pd.read_csv(csv_path, parse_dates=["datetime"], index_col="handle")
-        old_df.update(new_df)
-        out_df = old_df
+        out_df = pd.concat([old_df[~old_df.index.isin(new_df.index)], new_df])
     # Unless the --init flag was passed
     else:
         out_df = new_df
 
     # Write it out
     print(f":pencil: Writing {len(out_df)} rows to {csv_path}")
-    out_df.to_csv(csv_path)
+    out_df.sort_values("handle").to_csv(csv_path)
 
 
 
