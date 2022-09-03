@@ -1,3 +1,32 @@
 ## Drudge Report ranking
 
 {{ total_sites }}, {{ total_urls }}, {{ links_per_day }} per day, {{ days }} days
+
+<table class="colwidths-auto docutils align-default">
+ <thead>
+  <tr>
+    <th class="head">Rank</th>
+    <th class="head">Site</th>
+    <th class="head" style="text-align: right;">Articles</th>
+    <th class="head" style="text-align: right;">Share</th>
+  </tr>
+ </thead>
+ <tbody>
+  {% for obj in site_list %}
+  <tr>
+    <td>{{ obj.rank }}</td>
+    <td>
+        <a href="https://{{ obj.domain }}/">
+            {{ obj.domain }}
+        </a>
+    </td>
+    <td style="text-align: right;">
+        {{ obj.n }}
+    </td>
+    <td style="text-align: right;">
+        {% if obj.percent < 0.1 %}<0.1%{% else %}{{ obj.percent }}%{% endif %}
+    </td>
+  </tr>
+  {% endfor %}
+ </tbody>
+</table>

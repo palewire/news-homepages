@@ -67,10 +67,10 @@ def drudge_ranking():
             .reset_index()
             .sort_values("n", ascending=False)
     )
+    domain_df['percent'] = round((domain_df.n / domain_df.n.sum()) * 100, 1)
 
-    # Merge with our site, where we have a match
-    site_df = utils.get_site_df()
-    merged_df = domain_df.merge(site_df, on="domain", how="left")
+    # Rank
+    domain_df['rank'] = domain_df.n.rank(ascending=False, method="min").astype(int)
 
     # Create the page
     context = dict(
@@ -78,7 +78,7 @@ def drudge_ranking():
         total_urls=domain_df.n.sum(),
         days=len(links_df.groupby("earliest_date").url.size()),
         links_per_day=links_df.groupby("earliest_date").url.size().rename("n").reset_index().n.mean(),
-        site_list=merged_df.sort_values("n", ascending=False),
+        site_list=domain_df.sort_values("n", ascending=False).to_dict(orient="records"),
     )
     _write_template("drudge.md", context)
 
