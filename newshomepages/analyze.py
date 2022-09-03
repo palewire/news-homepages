@@ -36,18 +36,26 @@ def drudge():
     )
 
     # Trim the strings
-    df['text'] = df.text.str.strip()
+    df['text'] = (
+        df.text.str.strip()
+            .str.replace('\s{2,}', ' ', regex=True)
+            .str.replace('\n', ' ')
+    )
     df['url'] = df.url.str.strip()
 
     # Guess links with `storysniffer`
     sniffer = storysniffer.StorySniffer()
-    links_df = df.groupby(["text", "url"]).agg({
-        "handle": "size",
-        "date": "min"
-    }).rename(columns={
-        "handle": "n",
-        "date": "earliest_date"
-    }).reset_index()
+    links_df = (
+        df.sort_values("date")
+            .drop_duplicates(["url"], keep="first")
+            .groupby(["text", "url"]).agg({
+                "handle": "size",
+                "date": "min"
+            }).rename(columns={
+                "handle": "n",
+                "date": "earliest_date"
+            }).reset_index()
+    )
     links_df['is_story'] = links_df.apply(lambda x: sniffer.guess(x['url'], text=x['text']), axis=1)
 
     # Make some corrections

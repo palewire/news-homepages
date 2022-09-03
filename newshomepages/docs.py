@@ -34,6 +34,44 @@ def latest_screenshots():
 
 
 @cli.command()
+def drudge_ranking():
+    """Create page ranking sites by appearance on drudgereport.com."""
+    # Get the data
+    links_df = pd.read_csv(
+        utils.EXTRACT_DIR / "csv" / "drudge-hyperlinks-analysis.csv",
+        usecols=[
+            'domain',
+            'text',
+            'url',
+            'earliest_date',
+            'is_story',
+        ],
+        dtype={
+            'domain': str,
+            'text': str,
+            'url': str,
+            'is_story': bool,
+        },
+        parse_dates=["earliest_date"]
+    )
+
+    # Filter down to stories
+    story_df = links_df[links_df.is_story]
+    assert len(story_df.url.unique()) == len(story_df)
+
+    # Total up domains
+    domain_df = (
+        story_df.groupby("domain")
+            .size()
+            .rename("n")
+            .reset_index()
+            .sort_values("n", ascending=False)
+    )
+
+    
+
+
+@cli.command()
 def accessibility_ranking():
     """Create page ranking sites by Lighthouse accessibility score."""
     # Get the data
