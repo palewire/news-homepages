@@ -3,6 +3,7 @@ import json
 import os
 import pathlib
 import time
+from json.decoder import JSONDecodeError
 from datetime import datetime
 from urllib.parse import urlparse
 
@@ -41,7 +42,10 @@ def latest_files():
     row_list = []
     for f in track(json_list):
         # ... pulling out the data we want
-        data = json.load(open(f))
+        try:
+            data = json.load(open(f))
+        except JSONDecodeError:
+            continue
         row = dict(handle=f.stem)
         row["datetime"] = utils.parse_archive_url(data[0])["timestamp"]
         artifact_urls = utils.parse_archive_artifact(data)
