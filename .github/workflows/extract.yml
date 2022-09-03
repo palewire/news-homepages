@@ -76,6 +76,14 @@ jobs:
         name: Install
         uses: ./.github/actions/install
 
+      - id: get-latest
+        name: Get latest data
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git config pull.rebase false
+          git pull origin $GITHUB_REF
+
       - id: download-lighthouse
         name: Download Lighthouse files
         run: pipenv run python -m newshomepages.extract download-lighthouse --days=7 --output-path=./extracts/csv/lighthouse-sample.csv;
@@ -84,9 +92,6 @@ jobs:
       - id: commit
         name: Commit
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git config pull.rebase false
           git pull origin $GITHUB_REF
           git add ./extracts
           git commit -m "Update Lighthouse sample" --author="palewire <palewire@users.noreply.github.com>" && git push || true
@@ -105,17 +110,22 @@ jobs:
         name: Install
         uses: ./.github/actions/install
 
-      - id: download-lighthouse
-        name: Download Lighthouse files
+      - id: get-latest
+        name: Get latest data
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git config pull.rebase false
+          git pull origin $GITHUB_REF
+
+      - id: download-drudge
+        name: Download Drudge hyperlink lists
         run: pipenv run python -m newshomepages.extract download-hyperlinks --site=drudge --days=90 --output-path=./extracts/csv/drudge-hyperlinks-sample.csv;
         shell: bash
 
       - id: commit
         name: Commit
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git config pull.rebase false
           git pull origin $GITHUB_REF
           git add ./extracts
           git commit -m "Update Drudge hyperlinks sample" --author="palewire <palewire@users.noreply.github.com>" && git push || true
