@@ -49,10 +49,8 @@ def drudge():
         df.sort_values("date")
             .drop_duplicates(["url"], keep="first")
             .groupby(["text", "url"]).agg({
-                "handle": "size",
                 "date": "min"
             }).rename(columns={
-                "handle": "n",
                 "date": "earliest_date"
             }).reset_index()
     )
@@ -69,7 +67,8 @@ def drudge():
     whitelist = [
         "\.(substack|theankler|commonsense|thedispatch).(com|news)/p/",
         "^https://time.com/\d{5,}/*",
-        "^https://*.studyfinds.org/*.{5,}",
+        "^https://studyfinds.org/*.{5,}",
+        "^https://www.studyfinds.org/*.{5,}",
         "^https://*.bbc.com/news/*.{5,}",
         "^https://www.jpost.com/breaking-news/*.{5,}",
         "^https://www.jpost.com/[a-z]{5,}/*.{5,}",
@@ -81,10 +80,14 @@ def drudge():
     for s in whitelist:
         links_df.loc[links_df.url.str.contains(s, regex=True), 'is_story'] = True
 
+    # Cut anything that doesn't start with http
+    links_df.loc[~links_df.url.str.startswith("http"), 'is_story'] = False
+
     # Cut anything that appears too much
     n = len(df.file_name.unique())
-    too_much = links_df.n >= n * .5
-    links_df.loc[too_much, 'is_story'] = False
+    url_counts = df.groupby("url").size().rename("n").reset_index()
+    too_much = url_counts[url_counts.n >= n * .5]
+    links_df.loc[links_df.url.isin(too_much.url), 'is_story'] = False
 
     # Parse out the domain
     links_df['domain'] = links_df.url.apply(lambda x: f"{tldextract.extract(x).domain}.{tldextract.extract(x).suffix}")
