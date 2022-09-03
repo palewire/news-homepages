@@ -9,6 +9,7 @@ import iso639
 import iso3166
 import pandas as pd
 import pytz
+import tldextract
 
 # Set paths for key files
 THIS_DIR = Path(__file__).parent.absolute()
@@ -85,6 +86,7 @@ def get_site_df() -> pd.DataFrame:
         else:
             return []
 
+    df["domain"] = df.url.apply(lambda x: f"{tldextract.extract(x).domain}.{tldextract.extract(x).suffix}")
     df["bundle_list"] = df.apply(_split_bundle, axis=1)
     df["country_name"] = df.country.apply(lambda x: iso3166.countries.get(x).name)
     df["language_name"] = df.language.apply(
