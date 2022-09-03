@@ -272,7 +272,7 @@ def download_lighthouse(
 
     if days:
         cutoff_date = filtered_df["date"].max() - pd.Timedelta(days=int(days))
-        filtered_df = filtered_df[filtered_df["date"] > cutoff_date].copy()
+        filtered_df = filtered_df[filtered_df["date"] >= cutoff_date].copy()
         print(f"Trimming to last {days} days")
 
     # See how many files we don't have yet
