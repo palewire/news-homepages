@@ -1,5 +1,5 @@
 {
-  "created": 1661972981,
+  "created": 1662162045,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/4/items/vanityfair-2022",
@@ -6290,31 +6290,279 @@
       "sha1": "3bc2b8421dbef8109ab6ce2023bf428c69c50922"
     },
     {
+      "name": "vanityfair-2022-08-31T21:19:41.069608-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661995188",
+      "size": "34240",
+      "md5": "5580bd6a8102bcda1218b1e1fe6b79be",
+      "crc32": "b0c285c5",
+      "sha1": "0df6e347b73d5f9f239a4a542d2ffab2d8c72188",
+      "format": "JSON"
+    },
+    {
+      "name": "vanityfair-2022-08-31T21:19:41.069608-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661995190",
+      "size": "20913",
+      "md5": "7b18dd57ef1f478e6becd8a4baf8e243",
+      "crc32": "fded765a",
+      "sha1": "826126297d676c8a4679d52b2fdaf7dabb97b99a",
+      "format": "JSON"
+    },
+    {
+      "name": "vanityfair-2022-08-31T21:19:41.069608-04:00.jpg",
+      "source": "original",
+      "mtime": "1661995186",
+      "size": "275867",
+      "md5": "2e0f706a9d86db37c06f212425335564",
+      "crc32": "57296b1f",
+      "sha1": "a2ab87e018691710f85a5378beed5350708da563",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vanityfair-2022-08-31T21:19:41.069608-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661995192",
+      "size": "1486",
+      "md5": "4d91117eb0a2ef56dc20b81d2bc94924",
+      "crc32": "84f7eebd",
+      "sha1": "7cbf33e069e986d4b83967f07b3d65c0ff990328",
+      "format": "JSON"
+    },
+    {
+      "name": "vanityfair-2022-08-31T21:19:41.069608-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1661995194",
+      "size": "88981",
+      "md5": "20d006ae1124705f61393607030e6084",
+      "crc32": "0a4a93c1",
+      "sha1": "507055f1fbfa0a2f41af4b8beac797a7245de272",
+      "format": "JSON"
+    },
+    {
+      "name": "vanityfair-2022-08-31T21:19:41.069608-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vanityfair-2022-08-31T21:19:41.069608-04:00.jpg",
+      "mtime": "1661995252",
+      "size": "9383",
+      "md5": "b1981e56525bf220ba5dc2b1862e1201",
+      "crc32": "c6ae66f1",
+      "sha1": "3799db3d9f3ed696cf21227f4648d2101332e701"
+    },
+    {
+      "name": "vanityfair-2022-09-01T09:17:17.606230-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662038240",
+      "size": "32327",
+      "md5": "75d274b0bbed0d8f47394db73c9953d4",
+      "crc32": "64b037e1",
+      "sha1": "3280b2cc1e13e34f0eed9bc77c2d2c38f8f041ed",
+      "format": "JSON"
+    },
+    {
+      "name": "vanityfair-2022-09-01T09:17:17.606230-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662038242",
+      "size": "20174",
+      "md5": "503a70d6937033f022fe79e060274952",
+      "crc32": "2a7f97ca",
+      "sha1": "a5e4ec0b8168cc968bbc08323a2546b46053634a",
+      "format": "JSON"
+    },
+    {
+      "name": "vanityfair-2022-09-01T09:17:17.606230-04:00.jpg",
+      "source": "original",
+      "mtime": "1662038239",
+      "size": "235957",
+      "md5": "e8e4dd72f3e69cade5a8f8edd50b2413",
+      "crc32": "00af4d69",
+      "sha1": "660436da5f5b272d3a7a8484c97cae14c6d87088",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vanityfair-2022-09-01T09:17:17.606230-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662038243",
+      "size": "1486",
+      "md5": "27ad905d8db0da30f3d4fe0ad2af3b97",
+      "crc32": "5ee751e3",
+      "sha1": "21ac7848b55125c42d68f33c89f30f25c1a4bd06",
+      "format": "JSON"
+    },
+    {
+      "name": "vanityfair-2022-09-01T09:17:17.606230-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662038245",
+      "size": "131870",
+      "md5": "b3e2686d54937d079e9c12405a7c4994",
+      "crc32": "b6347e2f",
+      "sha1": "88bc89bb4dc4b817b1fcabcb4518d63861495fbe",
+      "format": "JSON"
+    },
+    {
+      "name": "vanityfair-2022-09-01T09:17:17.606230-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vanityfair-2022-09-01T09:17:17.606230-04:00.jpg",
+      "mtime": "1662038309",
+      "size": "8925",
+      "md5": "9ba22ab81deb92cd09c3bb0a7aa15d3e",
+      "crc32": "e9c5eba6",
+      "sha1": "d99f929fcdb09c813f9a80e7d60f3650ad54ce56"
+    },
+    {
+      "name": "vanityfair-2022-09-01T21:21:19.991566-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662081688",
+      "size": "33852",
+      "md5": "6847ff825532aa00fc5f0fdcb9c25787",
+      "crc32": "f4dd9d81",
+      "sha1": "a617b9b77e2ff511365da0808c36242bcf384893",
+      "format": "JSON"
+    },
+    {
+      "name": "vanityfair-2022-09-01T21:21:19.991566-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662081690",
+      "size": "20010",
+      "md5": "72cbb5879587005650069628f970986f",
+      "crc32": "ae01a878",
+      "sha1": "4b81d258b681bf089c341acc752b2ace2c450108",
+      "format": "JSON"
+    },
+    {
+      "name": "vanityfair-2022-09-01T21:21:19.991566-04:00.jpg",
+      "source": "original",
+      "mtime": "1662081687",
+      "size": "280915",
+      "md5": "e5251e63c3f019455795376aa8249b9a",
+      "crc32": "be82881c",
+      "sha1": "8783e3e367454cf5898942baf1fe2e6497a49ac9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vanityfair-2022-09-01T21:21:19.991566-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662081692",
+      "size": "1486",
+      "md5": "8b37627c993308ad679e1b17a0585d2c",
+      "crc32": "f4b2d1fb",
+      "sha1": "4b69bc0f3489561a01362978c590e8f636df8555",
+      "format": "JSON"
+    },
+    {
+      "name": "vanityfair-2022-09-01T21:21:19.991566-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662081693",
+      "size": "86846",
+      "md5": "0b0d25cd417057782515320d2aa8f559",
+      "crc32": "370700b3",
+      "sha1": "052f2956c2dc587d67e5f897e7d1fa3f8cac651b",
+      "format": "JSON"
+    },
+    {
+      "name": "vanityfair-2022-09-01T21:21:19.991566-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vanityfair-2022-09-01T21:21:19.991566-04:00.jpg",
+      "mtime": "1662081750",
+      "size": "9315",
+      "md5": "b3cdec0cf5a0ca3984ce34d96125cc75",
+      "crc32": "df50cb7a",
+      "sha1": "c03c4caddad3a9e485fb39fdeb79528cad291ca4"
+    },
+    {
+      "name": "vanityfair-2022-09-02T09:08:52.463414-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662124142",
+      "size": "32598",
+      "md5": "3ae7dd4d0afea303796f0e73289dbaee",
+      "crc32": "4f5d9cbe",
+      "sha1": "30b8165476fa9eeb24456b9a99e6e0434c8fe479",
+      "format": "JSON"
+    },
+    {
+      "name": "vanityfair-2022-09-02T09:08:52.463414-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662124143",
+      "size": "21164",
+      "md5": "e35195eb40593e4517751654837e3dd3",
+      "crc32": "09209099",
+      "sha1": "9a6df65f70d5764fa57767549ca32c1e486ca64b",
+      "format": "JSON"
+    },
+    {
+      "name": "vanityfair-2022-09-02T09:08:52.463414-04:00.jpg",
+      "source": "original",
+      "mtime": "1662124134",
+      "size": "252337",
+      "md5": "34b5f174325b0eaf7b33ec3616b769eb",
+      "crc32": "0ad76e08",
+      "sha1": "8aa587f02710b0f85c1fa24c9406e390451acd03",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vanityfair-2022-09-02T09:08:52.463414-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662124146",
+      "size": "1486",
+      "md5": "2bf25f1062ec21b87ff0f89a7eb7af1a",
+      "crc32": "49a39ce1",
+      "sha1": "fbd1c6ddeea6132ae97240f99257cfb0b2e81dab",
+      "format": "JSON"
+    },
+    {
+      "name": "vanityfair-2022-09-02T09:08:52.463414-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662124148",
+      "size": "103",
+      "md5": "42fb2da53b32a1efbd2ec67f8a6a85a3",
+      "crc32": "0fc1b230",
+      "sha1": "2e653bd98514fb0488e89c5734592ec9395dc043",
+      "format": "JSON"
+    },
+    {
+      "name": "vanityfair-2022-09-02T09:08:52.463414-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vanityfair-2022-09-02T09:08:52.463414-04:00.jpg",
+      "mtime": "1662124205",
+      "size": "8968",
+      "md5": "675eb63b36347bdef480c1f49e016da4",
+      "crc32": "732413cc",
+      "sha1": "53d1654c7c46ea1ca665aae6581c742fcd73c4d1"
+    },
+    {
       "name": "vanityfair-2022_archive.torrent",
       "source": "metadata",
-      "btih": "316203bc1e7ff0f90e687c53238e0c2ff4fce5ca",
-      "mtime": "1661952068",
-      "size": "129978",
-      "md5": "c1888957f924016a2303263b07a6f7f6",
-      "crc32": "d1990333",
-      "sha1": "72b06008bf164237ec464d176a61c91361359250",
+      "btih": "0125578170997f36cf12592fe7210a93a8cba67a",
+      "mtime": "1662124215",
+      "size": "135093",
+      "md5": "5223a6533e1327c51251228a8c2ff277",
+      "crc32": "0250ce1f",
+      "sha1": "5fe16d86cd8db6382b7e0ad1173d84f314c6005c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vanityfair-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4d50c40f55b5721f9f48ce536e1b3254",
+      "md5": "9f58196a73bbe0f767f9066aef0ef123",
       "summation": "md5"
     },
     {
       "name": "vanityfair-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661951935",
-      "size": "765952",
-      "md5": "af81e3f4d92f5b26b2ea87c5cd4d57b0",
-      "crc32": "14281a9e",
-      "sha1": "adbc81cc194dd142781d0d9133402901771dc7ab",
+      "mtime": "1662124153",
+      "size": "790528",
+      "md5": "60d52895f795e4ca6ada866366d5e14e",
+      "crc32": "1be3bd62",
+      "sha1": "f960f721af4266e82a29961897aa3c017700ffbb",
       "format": "Metadata"
     },
     {
@@ -6328,9 +6576,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 609,
-  "item_last_updated": 1661952068,
-  "item_size": 44670772,
+  "files_count": 633,
+  "item_last_updated": 1662124215,
+  "item_size": 46311152,
   "metadata": {
     "identifier": "vanityfair-2022",
     "collection": [
@@ -6348,7 +6596,7 @@
     "addeddate": "2022-07-04 21:47:44"
   },
   "server": "ia601401.us.archive.org",
-  "uniq": 2128579427,
+  "uniq": 1668554569,
   "workable_servers": [
     "ia601401.us.archive.org",
     "ia801401.us.archive.org"

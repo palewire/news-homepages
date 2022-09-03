@@ -1,11 +1,10 @@
 {
-  "created": 1661991069,
+  "created": 1662163886,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dailysunsa-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
+    "url": "https://www.dailysun.co.za",
+    "job_id": "spn2-fa782dd8fee7e522e05b2b461c7f0bc336481f4e"
   },
   "dir": "/21/items/dailysunsa-2022",
   "files": [
@@ -1075,31 +1074,279 @@
       "sha1": "6bacb89766df86bb552115278d0b8f8cc91c0c58"
     },
     {
+      "name": "dailysunsa-2022-09-01T04:28:58.274190+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661999341",
+      "size": "23786",
+      "md5": "d46871e1c517dbcae023c7721e1adac0",
+      "crc32": "0b3f32cc",
+      "sha1": "6f2c4d85c32e3437cfd899b706a6507a8a5238dd",
+      "format": "JSON"
+    },
+    {
+      "name": "dailysunsa-2022-09-01T04:28:58.274190+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661999344",
+      "size": "59148",
+      "md5": "6b3d73f64166ea79f7b4c4d86abc3513",
+      "crc32": "37a53f49",
+      "sha1": "58f126bb0c2c0ba513334cb2fefb3f26cb65f2aa",
+      "format": "JSON"
+    },
+    {
+      "name": "dailysunsa-2022-09-01T04:28:58.274190+02:00.jpg",
+      "source": "original",
+      "mtime": "1661999340",
+      "size": "255416",
+      "md5": "6b5a271343accf5274c50460ee3a7b06",
+      "crc32": "ae5e1dda",
+      "sha1": "f046935d0783baea5da592ce9cb6a9382280fddc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailysunsa-2022-09-01T04:28:58.274190+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661999346",
+      "size": "1480",
+      "md5": "819f9d0d39bb382aabddd2c5b25269cc",
+      "crc32": "5d01fac1",
+      "sha1": "d06b09f7c878dc66bf87ec78c0074f40dc944d58",
+      "format": "JSON"
+    },
+    {
+      "name": "dailysunsa-2022-09-01T04:28:58.274190+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1661999348",
+      "size": "292",
+      "md5": "02be1bd0d27f4d9c5e22e5e864e677f2",
+      "crc32": "6aa1920d",
+      "sha1": "e58cb1d2ffb7005c1771e1f87a4b724465effc7f",
+      "format": "JSON"
+    },
+    {
+      "name": "dailysunsa-2022-09-01T04:28:58.274190+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailysunsa-2022-09-01T04:28:58.274190+02:00.jpg",
+      "mtime": "1661999400",
+      "size": "10037",
+      "md5": "fcacc38807d8b6e3b6ab3afd9e9fde58",
+      "crc32": "1029c3ef",
+      "sha1": "0db1893893162cb51a21474025b5fb124595c892"
+    },
+    {
+      "name": "dailysunsa-2022-09-01T17:10:51.123627+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662045056",
+      "size": "24162",
+      "md5": "0aa73c52b60ee9c8842fa8a80cbeb90b",
+      "crc32": "66ab0b39",
+      "sha1": "4dd5f0dd2d79a506f082b04e214e5a0ec2de029a",
+      "format": "JSON"
+    },
+    {
+      "name": "dailysunsa-2022-09-01T17:10:51.123627+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662045058",
+      "size": "59207",
+      "md5": "ac446a32247e0b9cf7405a79693bead3",
+      "crc32": "abd3d771",
+      "sha1": "2d540e07256834d631ad5828281e9d46d51b1ceb",
+      "format": "JSON"
+    },
+    {
+      "name": "dailysunsa-2022-09-01T17:10:51.123627+02:00.jpg",
+      "source": "original",
+      "mtime": "1662045055",
+      "size": "239831",
+      "md5": "f618a9fda32554f0e50c3ea0b10ee5d8",
+      "crc32": "48c803c4",
+      "sha1": "96896ed08c6e6a3b97d2e4cdef358fd1cc4a8116",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailysunsa-2022-09-01T17:10:51.123627+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662045059",
+      "size": "1489",
+      "md5": "c81b6a1c2feda2bcc48656b411bba3d1",
+      "crc32": "e3c2e844",
+      "sha1": "15de7a0d2e904d512934e4e0c22c1eeb48c98f53",
+      "format": "JSON"
+    },
+    {
+      "name": "dailysunsa-2022-09-01T17:10:51.123627+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1662045060",
+      "size": "62077",
+      "md5": "c0e290660aa73e840d70c67f5b86ab61",
+      "crc32": "5a98d3c1",
+      "sha1": "559dc7e1dba0488966ea40737e07817620607428",
+      "format": "JSON"
+    },
+    {
+      "name": "dailysunsa-2022-09-01T17:10:51.123627+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailysunsa-2022-09-01T17:10:51.123627+02:00.jpg",
+      "mtime": "1662045113",
+      "size": "9773",
+      "md5": "85cb0c4f848f8b070234cf3de3b1930a",
+      "crc32": "7e78c84e",
+      "sha1": "17f85f397f22dcc96b0db24528c658d1d0d5b327"
+    },
+    {
+      "name": "dailysunsa-2022-09-02T04:33:58.762277+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662086041",
+      "size": "24728",
+      "md5": "b919d0ded7db48a304e14f648ea2251b",
+      "crc32": "1afdb161",
+      "sha1": "3a9e9895946109414eba1f1483c000e6093d91a3",
+      "format": "JSON"
+    },
+    {
+      "name": "dailysunsa-2022-09-02T04:33:58.762277+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662086043",
+      "size": "59791",
+      "md5": "bca57438e625902af4a463c8ef3897af",
+      "crc32": "ddb99d7a",
+      "sha1": "dc820714532773eab8d7ad9117bce82e13655589",
+      "format": "JSON"
+    },
+    {
+      "name": "dailysunsa-2022-09-02T04:33:58.762277+02:00.jpg",
+      "source": "original",
+      "mtime": "1662086040",
+      "size": "234557",
+      "md5": "b6b57efa729b8319a18fae9d92d1df50",
+      "crc32": "5742f714",
+      "sha1": "0bb92044cf44faa307f335ff6e435cef495de461",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailysunsa-2022-09-02T04:33:58.762277+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662086044",
+      "size": "1489",
+      "md5": "50da1b53c9ff32a93a681e06e586acf5",
+      "crc32": "e7e1b985",
+      "sha1": "5eedef64a05e5a70179dc9d70970c0d1fc4e4920",
+      "format": "JSON"
+    },
+    {
+      "name": "dailysunsa-2022-09-02T04:33:58.762277+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1662086046",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "dailysunsa-2022-09-02T04:33:58.762277+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailysunsa-2022-09-02T04:33:58.762277+02:00.jpg",
+      "mtime": "1662086102",
+      "size": "9759",
+      "md5": "90b5480f1afafb4bf61e9541728b6a4c",
+      "crc32": "61eb2a2d",
+      "sha1": "b56e475c329c42ab4c600a8d6c090ebf83fa2b91"
+    },
+    {
+      "name": "dailysunsa-2022-09-02T17:02:10.674594+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662130935",
+      "size": "23450",
+      "md5": "c5cdb2b9fa5ccc63c305eba47db7c19b",
+      "crc32": "8f56d059",
+      "sha1": "c88cd85251193cc3b4a3e004f5935b129fe18275",
+      "format": "JSON"
+    },
+    {
+      "name": "dailysunsa-2022-09-02T17:02:10.674594+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662130937",
+      "size": "59431",
+      "md5": "1e499fba2a35ac732fd9ebca5276ca82",
+      "crc32": "b4e3e5dd",
+      "sha1": "df06633a71b3bb623c17867a0a9e0dea17726f06",
+      "format": "JSON"
+    },
+    {
+      "name": "dailysunsa-2022-09-02T17:02:10.674594+02:00.jpg",
+      "source": "original",
+      "mtime": "1662130933",
+      "size": "247272",
+      "md5": "66b3b6535b39b6b25e530a24e2416f16",
+      "crc32": "20164451",
+      "sha1": "f102ca4a626213a53f397e3c6d345e6590c7805a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailysunsa-2022-09-02T17:02:10.674594+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662130939",
+      "size": "1480",
+      "md5": "60f19d04c798292c3129c007ea22a878",
+      "crc32": "10356c54",
+      "sha1": "8f1f388b0ac984ae9616cd5b78e06c468393bc83",
+      "format": "JSON"
+    },
+    {
+      "name": "dailysunsa-2022-09-02T17:02:10.674594+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1662130941",
+      "size": "102",
+      "md5": "a1db5a9221cb919bd4a3c0e50012dfb8",
+      "crc32": "5db4d35b",
+      "sha1": "ffb2f706a587f6081e1bdf83b9e09c39d4fb1b64",
+      "format": "JSON"
+    },
+    {
+      "name": "dailysunsa-2022-09-02T17:02:10.674594+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailysunsa-2022-09-02T17:02:10.674594+02:00.jpg",
+      "mtime": "1662131073",
+      "size": "10116",
+      "md5": "611965fc76f1ad6b931251a560e7068e",
+      "crc32": "68fc72b4",
+      "sha1": "4b3917c42e722b0b4c9f13d30c5c56ec93b8983f"
+    },
+    {
       "name": "dailysunsa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "28350db2baac6ac089498326d9bad467148264f9",
-      "mtime": "1661958257",
-      "size": "23279",
-      "md5": "31183b94da8dd845184db0cf38cbb904",
-      "crc32": "c536ca75",
-      "sha1": "8ebd3c07ee87af268cd69eaaff84e3669e4e8105",
+      "btih": "7446a5c715c6449423d584a8e50edb242c91a040",
+      "mtime": "1662131081",
+      "size": "28371",
+      "md5": "23aa9c65e0bb8fd8403e20c1d5999701",
+      "crc32": "7917a6bb",
+      "sha1": "c22f83af58f561cd523aa34af7092df198ada3a9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailysunsa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7d9a8e4fa0c37febc28ce5686101ddf4",
+      "md5": "1a5c34e4df386f8955496d2d4a971f4c",
       "summation": "md5"
     },
     {
       "name": "dailysunsa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661958141",
-      "size": "155648",
-      "md5": "3a484332393cb3f1c28cec11506d1727",
-      "crc32": "302ca2a8",
-      "sha1": "fb265afad8a645509166535b2f1ae8d049503037",
+      "mtime": "1662131011",
+      "size": "184320",
+      "md5": "7038f0a552414b1d940cf3943e6ff238",
+      "crc32": "51592b68",
+      "sha1": "d48544bae4056189c319cc7d6dc7562b8ca47a23",
       "format": "Metadata"
     },
     {
@@ -1113,9 +1360,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 107,
-  "item_last_updated": 1661958257,
-  "item_size": 6649108,
+  "files_count": 131,
+  "item_last_updated": 1662131081,
+  "item_size": 8101947,
   "metadata": {
     "identifier": "dailysunsa-2022",
     "collection": [
@@ -1133,7 +1380,7 @@
     "addeddate": "2022-08-23 02:24:31"
   },
   "server": "ia801508.us.archive.org",
-  "uniq": 1408419411,
+  "uniq": 601474257,
   "workable_servers": [
     "ia801508.us.archive.org",
     "ia601508.us.archive.org"

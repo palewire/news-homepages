@@ -1,5 +1,5 @@
 {
-  "created": 1661989907,
+  "created": 1662163164,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/22/items/foreignpolicy-2022",
@@ -8484,31 +8484,279 @@
       "sha1": "a866aff08455ef368f85ae586cb939f1d78b6f6b"
     },
     {
+      "name": "foreignpolicy-2022-09-01T08:08:26.015444-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662034114",
+      "size": "57940",
+      "md5": "5b08bd5066791d52691309fd3516e8aa",
+      "crc32": "fbc389ba",
+      "sha1": "6c85ada42b10f8be346ad52ca87a7d58e832aece",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-09-01T08:08:26.015444-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662034116",
+      "size": "43472",
+      "md5": "4f85f91d0b700584a0dae74adb033e6a",
+      "crc32": "b0526f75",
+      "sha1": "97d9934cc45b84f1f8eadae79bde3be38ab3deaf",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-09-01T08:08:26.015444-04:00.jpg",
+      "source": "original",
+      "mtime": "1662034113",
+      "size": "333480",
+      "md5": "ccb5aef7bef199236812545741b5548f",
+      "crc32": "f812c2cc",
+      "sha1": "5eeaec24c3d7da2f21a7f41c192dc3f7a813f322",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foreignpolicy-2022-09-01T08:08:26.015444-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662034117",
+      "size": "1486",
+      "md5": "3f8b45b243bda8b234ee41e08bbbe8fa",
+      "crc32": "76aeb837",
+      "sha1": "6cf8f1c05f23ce9011335b348808804a63d88be1",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-09-01T08:08:26.015444-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662034119",
+      "size": "102",
+      "md5": "88c2a318064b92ac722b1ea8bd7b621f",
+      "crc32": "a5af92f2",
+      "sha1": "4d89bccfa1a2f3c03054be26838de43ca150e1b6",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-09-01T08:08:26.015444-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foreignpolicy-2022-09-01T08:08:26.015444-04:00.jpg",
+      "mtime": "1662034195",
+      "size": "9784",
+      "md5": "d5ca608a7372d7a013387e5f8552fc17",
+      "crc32": "c5e1c332",
+      "sha1": "4e5bf968401880767290ac72811d482985932f3f"
+    },
+    {
+      "name": "foreignpolicy-2022-09-01T19:56:59.979894-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662076629",
+      "size": "54313",
+      "md5": "579e15cad60ef8668bf43c4a09ce6212",
+      "crc32": "aea31564",
+      "sha1": "c59100886cab2f8c69d3558dca0b1a37ef50a8d8",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-09-01T19:56:59.979894-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662076631",
+      "size": "41637",
+      "md5": "ee127f54014a6ed246a03bbf0f4bbb5a",
+      "crc32": "cbbba4cb",
+      "sha1": "dd3c2846a5d7a6fa73e33972c98f6d72e3aa4f71",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-09-01T19:56:59.979894-04:00.jpg",
+      "source": "original",
+      "mtime": "1662076627",
+      "size": "363960",
+      "md5": "d4d93e73fcc1153c467640af91da5889",
+      "crc32": "59883e2a",
+      "sha1": "7c15b25aea1710599512f8c7e15fd19941f49093",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foreignpolicy-2022-09-01T19:56:59.979894-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662076633",
+      "size": "1485",
+      "md5": "76f47b3dbf571aeea8290d063805f5de",
+      "crc32": "e123580f",
+      "sha1": "1b0d11a5de38e08bb0efb32d35de92419b690fad",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-09-01T19:56:59.979894-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662076634",
+      "size": "28622",
+      "md5": "3ad0a9b1a6daacd9f6c9d824eb9836e5",
+      "crc32": "d02a926f",
+      "sha1": "d0e03554ef42aeab87c47507566ae4e0070fa567",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-09-01T19:56:59.979894-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foreignpolicy-2022-09-01T19:56:59.979894-04:00.jpg",
+      "mtime": "1662076696",
+      "size": "10295",
+      "md5": "8427943ea4095449a3c2b7eb0b09629d",
+      "crc32": "38553dc0",
+      "sha1": "e4e26debbb24ea3a3523eff829da8cf0d605e402"
+    },
+    {
+      "name": "foreignpolicy-2022-09-02T07:59:26.742072-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662119973",
+      "size": "54624",
+      "md5": "ecedb620a7a53d9ea774cd2a61b17cbb",
+      "crc32": "893e2eb1",
+      "sha1": "9c3099a9e13e2a55cc37050189347983f59f532e",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-09-02T07:59:26.742072-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662119974",
+      "size": "41231",
+      "md5": "6de45b4276a49a0cc5cf65259dfeacbe",
+      "crc32": "1541bd3c",
+      "sha1": "a214bd98d09e3ec94e3a5f07ec0ca3da37d36070",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-09-02T07:59:26.742072-04:00.jpg",
+      "source": "original",
+      "mtime": "1662119971",
+      "size": "369609",
+      "md5": "ed12c2825e3dbb42ef53e447299cb95f",
+      "crc32": "b891dcac",
+      "sha1": "c8bbed30575eb8bb0945336d12b06c9e89429afd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foreignpolicy-2022-09-02T07:59:26.742072-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662119976",
+      "size": "1486",
+      "md5": "3543d11cbbde8cb6d1942e1ef9dfb1c7",
+      "crc32": "1e184ce6",
+      "sha1": "eb4bcd7e90bec5fff280270a3037e7131e4a7b81",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-09-02T07:59:26.742072-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662119977",
+      "size": "59156",
+      "md5": "555281b6baf963ff3741b14f601436c2",
+      "crc32": "f63e6634",
+      "sha1": "3b26dbca0c5fa77e6b27956cf83585848239bd82",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-09-02T07:59:26.742072-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foreignpolicy-2022-09-02T07:59:26.742072-04:00.jpg",
+      "mtime": "1662120044",
+      "size": "10409",
+      "md5": "41a84129457735183a3ccf20a0213e07",
+      "crc32": "6d41a15f",
+      "sha1": "5da0cd9fb76d54f65f0828685b35b19328efbb8d"
+    },
+    {
+      "name": "foreignpolicy-2022-09-02T19:57:34.093930-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662163061",
+      "size": "55620",
+      "md5": "e51529034c98358bb58bf0d24dfa7164",
+      "crc32": "5d47ca51",
+      "sha1": "d05b19f5d1f746fd403462f42de8c451592b1c49",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-09-02T19:57:34.093930-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662163063",
+      "size": "42229",
+      "md5": "a09bb2d6c9bfef41f394788994a107a8",
+      "crc32": "20bd21d8",
+      "sha1": "b71b074522ece8ce735505429d09197f2b162d6b",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-09-02T19:57:34.093930-04:00.jpg",
+      "source": "original",
+      "mtime": "1662163059",
+      "size": "374834",
+      "md5": "39b4b042e80957f84ce7b69e63b5ea06",
+      "crc32": "87a92761",
+      "sha1": "67d2762e5f54dac87e410002637f422008aefbed",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foreignpolicy-2022-09-02T19:57:34.093930-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662163065",
+      "size": "1485",
+      "md5": "7f0fdfcdc717a48fcac5ee7041a155ed",
+      "crc32": "9cb34176",
+      "sha1": "ba61339e56017f28ecbddbe4bd7b691db3cce554",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-09-02T19:57:34.093930-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662163066",
+      "size": "102",
+      "md5": "88c2a318064b92ac722b1ea8bd7b621f",
+      "crc32": "a5af92f2",
+      "sha1": "4d89bccfa1a2f3c03054be26838de43ca150e1b6",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-09-02T19:57:34.093930-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foreignpolicy-2022-09-02T19:57:34.093930-04:00.jpg",
+      "mtime": "1662163140",
+      "size": "10694",
+      "md5": "e62e7b84b242d631bb58ee07310cc80f",
+      "crc32": "9e79555e",
+      "sha1": "50d7b3f92b7957acf347e0c49c029ca357f02ff1"
+    },
+    {
       "name": "foreignpolicy-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e1f30a3df96b8487b049bcf5300c68d1610d063a",
-      "mtime": "1661989897",
-      "size": "177508",
-      "md5": "145a0538655e12d6074e1917d9cd9620",
-      "crc32": "fa92fb8d",
-      "sha1": "7b7e4910ec0058b481d3ac8094ffa0e7c969517d",
+      "btih": "70f79b69416d06300f4386c5250cd0bef3d49d92",
+      "mtime": "1662163148",
+      "size": "182676",
+      "md5": "484ec209b638396d4d3ae5e64f6c3efa",
+      "crc32": "4c15eedd",
+      "sha1": "62e28006209e35d9c61efe9673560110c4525d95",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foreignpolicy-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "392eb82dea4078bcb154db165b785844",
+      "md5": "29c90d1996334b11b9be76b8abb9e5bc",
       "summation": "md5"
     },
     {
       "name": "foreignpolicy-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661989810",
-      "size": "995328",
-      "md5": "9d713237dd9c3ec4c04555e8bfccbce6",
-      "crc32": "65ba4dc9",
-      "sha1": "52bca6c61b375a923f9bcae98aaf3071c795e7d8",
+      "mtime": "1662163075",
+      "size": "1028096",
+      "md5": "937f6dce6b1066057f224d14fc453fd4",
+      "crc32": "355af291",
+      "sha1": "967fec98392cdde0f67dec790db0ce413253bebe",
       "format": "Metadata"
     },
     {
@@ -8522,9 +8770,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 817,
-  "item_last_updated": 1661989897,
-  "item_size": 83559034,
+  "files_count": 841,
+  "item_last_updated": 1662163148,
+  "item_size": 85565025,
   "metadata": {
     "identifier": "foreignpolicy-2022",
     "collection": [
@@ -8542,7 +8790,7 @@
     "addeddate": "2022-06-19 23:24:15"
   },
   "server": "ia601401.us.archive.org",
-  "uniq": 1685071663,
+  "uniq": 1359108052,
   "workable_servers": [
     "ia601401.us.archive.org",
     "ia801401.us.archive.org"
