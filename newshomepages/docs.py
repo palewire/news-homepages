@@ -68,7 +68,19 @@ def drudge_ranking():
             .sort_values("n", ascending=False)
     )
 
-    
+    # Merge with our site, where we have a match
+    site_df = utils.get_site_df()
+    merged_df = domain_df.merge(site_df, on="domain", how="left")
+
+    # Create the page
+    context = dict(
+        total_sites=len(domain_df),
+        total_urls=domain_df.n.sum(),
+        days=len(links_df.groupby("earliest_date").url.size()),
+        links_per_day=links_df.groupby("earliest_date").url.size().rename("n").reset_index().n.mean(),
+        site_list=merged_df.sort_values("n", ascending=False),
+    )
+    _write_template("drudge.md", context)
 
 
 @cli.command()
