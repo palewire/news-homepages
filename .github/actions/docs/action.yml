@@ -23,6 +23,11 @@ runs:
       run: pipenv run python -m newshomepages.docs performance-ranking;
       shell: bash
 
+    - id: drudge-ranking
+      name: Update Drudge ranking
+      run: pipenv run python -m newshomepages.docs drudge-ranking;
+      shell: bash
+
     - id: source-list
       name: Update source list
       run: pipenv run python -m newshomepages.docs source-list;
