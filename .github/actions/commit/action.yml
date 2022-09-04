@@ -1,6 +1,20 @@
 name: Commit
 description: Save the latest screenshots to the repository
 
+inputs:
+  download-items-command:
+    description: The command to use when downloading items
+    required: true
+  access-key:
+    description: An API key with permission to post to archive.org
+    required: true
+  secret-key:
+    description: An API secret with permission to post to archive.org
+    required: true
+  collection:
+    description: The identifier of the target archive.org collection
+    required: true
+
 runs:
   using: "composite"
   steps:
@@ -16,17 +30,9 @@ runs:
         git config pull.rebase false
       shell: bash
 
-    - name: Git status
-      run: git status
-      shell: bash
-
     - id: git-pull
       name: Git pull
       run: git pull origin $GITHUB_REF
-      shell: bash
-
-    - name: Git status
-      run: git status
       shell: bash
 
     - uses: actions/download-artifact@v3
@@ -38,10 +44,6 @@ runs:
       with:
         name: archive
         path: ./newshomepages/sources/latest/
-
-    - name: Git status
-      run: git status
-      shell: bash
 
     - id: git-add
       name: Git add latest images
@@ -59,9 +61,39 @@ runs:
       shell: bash
 
     - id: git-commit-archive
-      name: Git commit
+      name: Git latest files
       run: |
         git add ./newshomepages/sources/latest/*.json
         git add ./extracts/csv/*.csv
         git commit -m "Latest archive.org urls" --author="palewire <palewire@users.noreply.github.com>" && git push || true
+      shell: bash
+
+    - id: download-items
+      name: Download archive.org items
+      run: pipenv run python -m newshomepages.extract download-items ${{ inputs.download-items-command }}
+      shell: bash
+      env:
+        IA_ACCESS_KEY: ${{ inputs.access-key }}
+        IA_SECRET_KEY: ${{ inputs.secret-key }}
+        IA_COLLECTION:  ${{ inputs.collection }}
+
+    - id: git-commit-items
+      name: Commit archive.org items
+      run: |
+          git pull origin $GITHUB_REF
+          git add ./extracts
+          git commit -m "Update archive.org items" --author="palewire <palewire@users.noreply.github.com>" && git push || true
+      shell: bash
+
+    - id: consolidate-files
+      name: Consolidate Internet Archive metadata
+      run: pipenv run python -m newshomepages.extract consolidate;
+      shell: bash
+
+    - id: git-commit-extracts
+      name: Commit archive.org items
+      run: |
+          git pull origin $GITHUB_REF
+          git add ./extracts
+          git commit -m "Consolidate extracts" --author="palewire <palewire@users.noreply.github.com>" && git push || true
       shell: bash

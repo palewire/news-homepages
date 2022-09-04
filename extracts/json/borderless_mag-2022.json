@@ -1,5 +1,5 @@
 {
-  "created": 1662162766,
+  "created": 1662288775,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/2/items/borderless_mag-2022",
@@ -1422,31 +1422,341 @@
       "sha1": "752ab2b0ed256af6d8b578d626f5ae299571aa7a"
     },
     {
+      "name": "borderless_mag-2022-09-03T05:51:08.755311-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662202271",
+      "size": "1102",
+      "md5": "7a947f2531bcf4d44f3b1ddf81f24862",
+      "crc32": "221158c5",
+      "sha1": "83cc34d6d25a61aac0e2f3cfe501ffd201538330",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-03T05:51:08.755311-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662202273",
+      "size": "26649",
+      "md5": "5d749b32c1fe35ea7264d20e42f9cf5d",
+      "crc32": "38ecb267",
+      "sha1": "5cd9d1cdfeed6ba2e6c82d558ef0d0f4eab93e9a",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-03T05:51:08.755311-05:00.jpg",
+      "source": "original",
+      "mtime": "1662202270",
+      "size": "259517",
+      "md5": "fab757c04610d6ad487414d89120808e",
+      "crc32": "ec7b8846",
+      "sha1": "3b9f6648de6c0cf36134ac144958f556c7e0dcb4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "borderless_mag-2022-09-03T05:51:08.755311-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662202275",
+      "size": "1486",
+      "md5": "b2f9e540c2ba247b68a578dde899ca3e",
+      "crc32": "a88593d4",
+      "sha1": "cec7fb2801cc68827a59b4f957c31dcb5eef447b",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-03T05:51:08.755311-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662202276",
+      "size": "10500",
+      "md5": "b61b0fc35a1f0b592477c8eea7cef9ec",
+      "crc32": "d4360884",
+      "sha1": "a0eba3d494ff31479e0cf1aa5b1eee6d93b5063b",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-03T05:51:08.755311-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "borderless_mag-2022-09-03T05:51:08.755311-05:00.jpg",
+      "mtime": "1662202321",
+      "size": "9794",
+      "md5": "300ae7e8fb99f9ec450a932584f7ad21",
+      "crc32": "fcd8783d",
+      "sha1": "193cc330cf0d203889dc33ef626efb8a0c086594"
+    },
+    {
+      "name": "borderless_mag-2022-09-03T07:10:44.510553-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662207048",
+      "size": "1102",
+      "md5": "7a947f2531bcf4d44f3b1ddf81f24862",
+      "crc32": "221158c5",
+      "sha1": "83cc34d6d25a61aac0e2f3cfe501ffd201538330",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-03T07:10:44.510553-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662207049",
+      "size": "26649",
+      "md5": "5d749b32c1fe35ea7264d20e42f9cf5d",
+      "crc32": "38ecb267",
+      "sha1": "5cd9d1cdfeed6ba2e6c82d558ef0d0f4eab93e9a",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-03T07:10:44.510553-05:00.jpg",
+      "source": "original",
+      "mtime": "1662207046",
+      "size": "259517",
+      "md5": "fab757c04610d6ad487414d89120808e",
+      "crc32": "ec7b8846",
+      "sha1": "3b9f6648de6c0cf36134ac144958f556c7e0dcb4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "borderless_mag-2022-09-03T07:10:44.510553-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662207050",
+      "size": "1486",
+      "md5": "b2f9e540c2ba247b68a578dde899ca3e",
+      "crc32": "a88593d4",
+      "sha1": "cec7fb2801cc68827a59b4f957c31dcb5eef447b",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-03T07:10:44.510553-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662207052",
+      "size": "10500",
+      "md5": "b61b0fc35a1f0b592477c8eea7cef9ec",
+      "crc32": "d4360884",
+      "sha1": "a0eba3d494ff31479e0cf1aa5b1eee6d93b5063b",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-03T07:10:44.510553-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "borderless_mag-2022-09-03T07:10:44.510553-05:00.jpg",
+      "mtime": "1662207101",
+      "size": "9794",
+      "md5": "300ae7e8fb99f9ec450a932584f7ad21",
+      "crc32": "fcd8783d",
+      "sha1": "193cc330cf0d203889dc33ef626efb8a0c086594"
+    },
+    {
+      "name": "borderless_mag-2022-09-03T10:58:10.712155-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662220694",
+      "size": "1089",
+      "md5": "35ba5fff1b4e84c17c4d397b48225f01",
+      "crc32": "aa51cc25",
+      "sha1": "ffd3075e6008320fb735d0613f0e74ad53ca5a06",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-03T10:58:10.712155-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662220695",
+      "size": "25947",
+      "md5": "01854d309ebffaed3e48626a35068364",
+      "crc32": "85acb278",
+      "sha1": "586cbc61f28509450082ad648b2eb87e50fc5785",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-03T10:58:10.712155-05:00.jpg",
+      "source": "original",
+      "mtime": "1662220692",
+      "size": "259517",
+      "md5": "fab757c04610d6ad487414d89120808e",
+      "crc32": "ec7b8846",
+      "sha1": "3b9f6648de6c0cf36134ac144958f556c7e0dcb4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "borderless_mag-2022-09-03T10:58:10.712155-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662220697",
+      "size": "1485",
+      "md5": "c2a65fe2beedcafd87e522d19e07e4ff",
+      "crc32": "7d83a8b4",
+      "sha1": "e3b13927e9e70a931f2d7c5996ea523fb2f2e308",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-03T10:58:10.712155-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662220698",
+      "size": "10635",
+      "md5": "2774b9d4b0f00d2b84326d89325d7f80",
+      "crc32": "2709fa1f",
+      "sha1": "1ef79af8b47e27e8911c5c05daff727cd78c7b81",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-03T10:58:10.712155-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "borderless_mag-2022-09-03T10:58:10.712155-05:00.jpg",
+      "mtime": "1662220747",
+      "size": "9794",
+      "md5": "300ae7e8fb99f9ec450a932584f7ad21",
+      "crc32": "fcd8783d",
+      "sha1": "193cc330cf0d203889dc33ef626efb8a0c086594"
+    },
+    {
+      "name": "borderless_mag-2022-09-03T17:54:50.772521-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662245696",
+      "size": "1110",
+      "md5": "a8e82c5a1fabf11f4d0ddcde35163eb3",
+      "crc32": "1fefd074",
+      "sha1": "9d8c4f548ee8d7fab5ad4c6a2edf06aea62e180a",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-03T17:54:50.772521-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662245698",
+      "size": "26649",
+      "md5": "2540bee586000160bbf2ef8593c8ddaa",
+      "crc32": "7be5dfa6",
+      "sha1": "0c19865115d7f0b357f921277b1496dab74603f9",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-03T17:54:50.772521-05:00.jpg",
+      "source": "original",
+      "mtime": "1662245695",
+      "size": "264502",
+      "md5": "cc87ff97500e8106b613ad6ab1fc094a",
+      "crc32": "43489100",
+      "sha1": "7a3be86e04ca5ae53f6ae8949f24681c33ce2fb5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "borderless_mag-2022-09-03T17:54:50.772521-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662245699",
+      "size": "1486",
+      "md5": "18a54dc92c3f9da737b439aa3c5e4353",
+      "crc32": "ff7fc3e6",
+      "sha1": "7e749b8a1f3e8609540895f427578943dfaaa394",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-03T17:54:50.772521-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662245701",
+      "size": "10708",
+      "md5": "3df5e4214e42f26e156f9e493a2996a4",
+      "crc32": "179dcd83",
+      "sha1": "ada4e5cc8b306b6e7b98d8afdd502d9ae4b2a9ad",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-03T17:54:50.772521-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "borderless_mag-2022-09-03T17:54:50.772521-05:00.jpg",
+      "mtime": "1662245754",
+      "size": "9102",
+      "md5": "df8a6a17e7ad325e5d2ef2f76c3faef3",
+      "crc32": "fd153f75",
+      "sha1": "de5954fe144b9f5b87d76da13dfbaf82db258094"
+    },
+    {
+      "name": "borderless_mag-2022-09-04T05:51:53.183938-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662288715",
+      "size": "1045",
+      "md5": "378e548afdb6c09679e11ea9cc52463f",
+      "crc32": "b6e47f37",
+      "sha1": "af14f309a438545052a9b23fca2c76e95a70a51a",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-04T05:51:53.183938-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662288716",
+      "size": "25947",
+      "md5": "816d0c9ee7356f148778090f26639b58",
+      "crc32": "b6682ea4",
+      "sha1": "0b6bb8f08119397bc3ea3c19d421eb57dbe125f0",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-04T05:51:53.183938-05:00.jpg",
+      "source": "original",
+      "mtime": "1662288714",
+      "size": "259482",
+      "md5": "ad2aa15eed3446546cbaa6e4f67042de",
+      "crc32": "e9d7a29c",
+      "sha1": "6a79e833348e266602081d56e2c89c99a1f278fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "borderless_mag-2022-09-04T05:51:53.183938-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662288718",
+      "size": "1485",
+      "md5": "a15aae94443a570aae876dd625b5769c",
+      "crc32": "076fa187",
+      "sha1": "3771bd09c2d70ba1c3399af8d1d4f8461e412cd0",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-04T05:51:53.183938-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662288719",
+      "size": "10732",
+      "md5": "2b97d9982ddbb6036a85faa48977fc80",
+      "crc32": "543f7e39",
+      "sha1": "585d918c7de495d59673e2012c1f899a6afdd3fc",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-04T05:51:53.183938-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "borderless_mag-2022-09-04T05:51:53.183938-05:00.jpg",
+      "mtime": "1662288766",
+      "size": "9826",
+      "md5": "fa08b20ee386515c1f503ca47512ee22",
+      "crc32": "fa0d1bd8",
+      "sha1": "d33c3da76cadaefea4a70450f4ae68c7c3942ee7"
+    },
+    {
       "name": "borderless_mag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cf41b6f5ffea1c12dd54464f9edf4dd349f4c6cd",
-      "mtime": "1662162761",
-      "size": "31020",
-      "md5": "38ed93a087e878fdd01fb2ef8f28752c",
-      "crc32": "bab4e5b2",
-      "sha1": "5357d25f4eb291d0a883af3813d0b3504f482017",
+      "btih": "46c00c1749c777e09d82a2e6c9ca925b8ce30640",
+      "mtime": "1662288770",
+      "size": "37490",
+      "md5": "3da167df62ae3422e75155cdeedfe0f8",
+      "crc32": "d208f365",
+      "sha1": "1dbe874e203e1a38378bf110018eb6c95635c957",
       "format": "Archive BitTorrent"
     },
     {
       "name": "borderless_mag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7be39cfdac5d41bb1673e0dbd62862b9",
+      "md5": "33b71b958a0e61a10b06aca9fa858d9a",
       "summation": "md5"
     },
     {
       "name": "borderless_mag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662162715",
-      "size": "196608",
-      "md5": "89cbb9f7712b0ae5680b389e6c9b3b4e",
-      "crc32": "f4cb7c5e",
-      "sha1": "1bd06b23f47262148143a55caf3ff5e4843ec3a4",
+      "mtime": "1662288722",
+      "size": "233472",
+      "md5": "f36cf298fe7cb72055c98895111a83d8",
+      "crc32": "a50fb5f2",
+      "sha1": "e8d34e3af905aa85fc31eece82669fe93e02b9c6",
       "format": "Metadata"
     },
     {
@@ -1460,9 +1770,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 141,
-  "item_last_updated": 1662162761,
-  "item_size": 7648561,
+  "files_count": 171,
+  "item_last_updated": 1662288770,
+  "item_size": 9240532,
   "metadata": {
     "identifier": "borderless_mag-2022",
     "collection": [
@@ -1480,7 +1790,7 @@
     "addeddate": "2022-08-26 16:01:47"
   },
   "server": "ia801509.us.archive.org",
-  "uniq": 457317988,
+  "uniq": 971757333,
   "workable_servers": [
     "ia801509.us.archive.org",
     "ia601509.us.archive.org"

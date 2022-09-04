@@ -167,6 +167,11 @@ jobs:
       - id: commit
         name: Commit
         uses: ./.github/actions/commit
+        env:
+          download-items-command: "--country=${{ inputs.country }}"
+          api-key: ${{ secrets.IA_ACCESS_KEY }}
+          secret-key: ${{ secrets.IA_SECRET_KEY }}
+          collection:  ${{ secrets.IA_COLLECTION }}
 
       - id: update-docs
         name: Update docs

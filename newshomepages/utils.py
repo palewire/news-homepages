@@ -191,6 +191,30 @@ def get_country(code: str) -> typing.Dict:
         raise ValueError(f"The country {code.upper()} could not be found")
 
 
+def batch(li: typing.List, n: int):
+    """Yield n number of sequential chunks from l."""
+    d, r = divmod(len(li), n)
+    for i in range(n):
+        si = (d + 1) * (i if i < r else r) + d * (0 if i < r else i - r)
+        yield li[si : si + (d + 1 if i < r else d)]
+
+
+def get_sites_in_batch(batch_number: int, batches: int = 6) -> typing.List[typing.Dict]:
+    """Get all the sites in the provided batch.
+
+    Args:
+        batch_number (int): The number of the batch to pull.
+        batches (int): The total number of batches.
+
+    Returns a list of site dictionaries.
+    """
+    site_list = get_site_list()
+    batch_list = list(batch(site_list, batches))
+    if batch_number - 1 not in range(batches):
+        raise ValueError("Batch number not found")
+    return batch_list[batch_number - 1]
+
+
 def get_sites_in_bundle(slug: str) -> typing.List[typing.Dict]:
     """Get all the sites in the provided bundle.
 

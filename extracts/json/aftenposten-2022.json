@@ -1,5 +1,5 @@
 {
-  "created": 1662162645,
+  "created": 1662288650,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/11/items/aftenposten-2022",
@@ -5218,31 +5218,279 @@
       "sha1": "411b0e32e2fab679a7944db91ba731f4fae3ebf2"
     },
     {
+      "name": "aftenposten-2022-09-03T12:49:29.102019+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662202175",
+      "size": "31024",
+      "md5": "2f3d66a33aeefe4b96c101cd845e01aa",
+      "crc32": "dd7773d9",
+      "sha1": "47c0c2aef402b77e881c44013f0d3c1a106c0479",
+      "format": "JSON"
+    },
+    {
+      "name": "aftenposten-2022-09-03T12:49:29.102019+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662202177",
+      "size": "31513",
+      "md5": "e5b00808396b879f0adc6bdfdf73733d",
+      "crc32": "0b759014",
+      "sha1": "b83aeb6d604bcb5fda74fb85d3ed7ee83caa00b4",
+      "format": "JSON"
+    },
+    {
+      "name": "aftenposten-2022-09-03T12:49:29.102019+02:00.jpg",
+      "source": "original",
+      "mtime": "1662202173",
+      "size": "278084",
+      "md5": "76be0eb97cf74175b9f6740a306cee0b",
+      "crc32": "cc728f5b",
+      "sha1": "610c2038aff77224ca11f365cdd61c372a4b303b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aftenposten-2022-09-03T12:49:29.102019+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662202178",
+      "size": "1494",
+      "md5": "59da16bef31b0d54f727ef6abd64fc78",
+      "crc32": "1e0bcc2c",
+      "sha1": "dbabe762aa09383c583abbf0667699647f566499",
+      "format": "JSON"
+    },
+    {
+      "name": "aftenposten-2022-09-03T12:49:29.102019+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1662202180",
+      "size": "36960",
+      "md5": "6f71a0d6aa5816aac73a48f26acd39b7",
+      "crc32": "8d35b139",
+      "sha1": "5a8e34c1cfa10d903366d6849172b3615d899131",
+      "format": "JSON"
+    },
+    {
+      "name": "aftenposten-2022-09-03T12:49:29.102019+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aftenposten-2022-09-03T12:49:29.102019+02:00.jpg",
+      "mtime": "1662202232",
+      "size": "9733",
+      "md5": "4a189de00a30f5645a207edaf265d00c",
+      "crc32": "9c38426b",
+      "sha1": "e67c30076255c44a133657b0ccebbdc56b938dd6"
+    },
+    {
+      "name": "aftenposten-2022-09-03T14:08:17.586867+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662206906",
+      "size": "31024",
+      "md5": "2f3d66a33aeefe4b96c101cd845e01aa",
+      "crc32": "dd7773d9",
+      "sha1": "47c0c2aef402b77e881c44013f0d3c1a106c0479",
+      "format": "JSON"
+    },
+    {
+      "name": "aftenposten-2022-09-03T14:08:17.586867+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662206909",
+      "size": "31513",
+      "md5": "e5b00808396b879f0adc6bdfdf73733d",
+      "crc32": "0b759014",
+      "sha1": "b83aeb6d604bcb5fda74fb85d3ed7ee83caa00b4",
+      "format": "JSON"
+    },
+    {
+      "name": "aftenposten-2022-09-03T14:08:17.586867+02:00.jpg",
+      "source": "original",
+      "mtime": "1662206904",
+      "size": "278084",
+      "md5": "76be0eb97cf74175b9f6740a306cee0b",
+      "crc32": "cc728f5b",
+      "sha1": "610c2038aff77224ca11f365cdd61c372a4b303b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aftenposten-2022-09-03T14:08:17.586867+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662206910",
+      "size": "1494",
+      "md5": "59da16bef31b0d54f727ef6abd64fc78",
+      "crc32": "1e0bcc2c",
+      "sha1": "dbabe762aa09383c583abbf0667699647f566499",
+      "format": "JSON"
+    },
+    {
+      "name": "aftenposten-2022-09-03T14:08:17.586867+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1662206912",
+      "size": "36960",
+      "md5": "6f71a0d6aa5816aac73a48f26acd39b7",
+      "crc32": "8d35b139",
+      "sha1": "5a8e34c1cfa10d903366d6849172b3615d899131",
+      "format": "JSON"
+    },
+    {
+      "name": "aftenposten-2022-09-03T14:08:17.586867+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aftenposten-2022-09-03T14:08:17.586867+02:00.jpg",
+      "mtime": "1662206973",
+      "size": "9733",
+      "md5": "4a189de00a30f5645a207edaf265d00c",
+      "crc32": "9c38426b",
+      "sha1": "e67c30076255c44a133657b0ccebbdc56b938dd6"
+    },
+    {
+      "name": "aftenposten-2022-09-04T00:53:00.601598+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662245587",
+      "size": "32589",
+      "md5": "80899b16f2d2a70a5ea0d39b6057a355",
+      "crc32": "cba1621b",
+      "sha1": "551a425a2879f5f455eda54b59d93d614a8a2514",
+      "format": "JSON"
+    },
+    {
+      "name": "aftenposten-2022-09-04T00:53:00.601598+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662245590",
+      "size": "33281",
+      "md5": "b1a3b6bef054671ce0012955e028c7e1",
+      "crc32": "81cb7d57",
+      "sha1": "c3e9a79232ea537a20ffba4a0c09a6e048b4539e",
+      "format": "JSON"
+    },
+    {
+      "name": "aftenposten-2022-09-04T00:53:00.601598+02:00.jpg",
+      "source": "original",
+      "mtime": "1662245585",
+      "size": "267412",
+      "md5": "504fad3f18474039efbaa93a569a3141",
+      "crc32": "2980ea80",
+      "sha1": "05b005a5fbae07d0c7567078a6f6645a27f5d2be",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aftenposten-2022-09-04T00:53:00.601598+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662245594",
+      "size": "1494",
+      "md5": "e0a81bd14ce03db68b9280515162749b",
+      "crc32": "8de65bae",
+      "sha1": "1489cd7545357793d0031899839930c5eabb2fe9",
+      "format": "JSON"
+    },
+    {
+      "name": "aftenposten-2022-09-04T00:53:00.601598+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1662245598",
+      "size": "44703",
+      "md5": "2e241d7c97e8c35da098295184fc50b3",
+      "crc32": "87e3f7d2",
+      "sha1": "5f5f8dc55fdb43ee793f6cd5076f6a00356b9033",
+      "format": "JSON"
+    },
+    {
+      "name": "aftenposten-2022-09-04T00:53:00.601598+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aftenposten-2022-09-04T00:53:00.601598+02:00.jpg",
+      "mtime": "1662245651",
+      "size": "9298",
+      "md5": "c972d5dd2e5ea618adb2903082d0ff32",
+      "crc32": "12709d5f",
+      "sha1": "83731830038ae9dbfb7e059768ceacca91c6ad42"
+    },
+    {
+      "name": "aftenposten-2022-09-04T12:49:26.332039+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662288572",
+      "size": "32035",
+      "md5": "936849e8496c4e23bbb4b5a6aba87f87",
+      "crc32": "3d8518d9",
+      "sha1": "3175141bffe21c9638cad607dc9e07265b1fb47b",
+      "format": "JSON"
+    },
+    {
+      "name": "aftenposten-2022-09-04T12:49:26.332039+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662288573",
+      "size": "33895",
+      "md5": "8997213a88c7006abbcc7f1c7b375a0b",
+      "crc32": "975c89f7",
+      "sha1": "355da216bd2d6d22fc997e7aca08743fa41bbbf2",
+      "format": "JSON"
+    },
+    {
+      "name": "aftenposten-2022-09-04T12:49:26.332039+02:00.jpg",
+      "source": "original",
+      "mtime": "1662288570",
+      "size": "215179",
+      "md5": "fd00f99b7443440a6dc7f853ae838d22",
+      "crc32": "cbd37056",
+      "sha1": "7db34e2429405624a094646778b9115d772bceec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aftenposten-2022-09-04T12:49:26.332039+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662288575",
+      "size": "1495",
+      "md5": "77cd1b7aac6b1acd09053f9e36513232",
+      "crc32": "3ac02d52",
+      "sha1": "1a644ffe6d618b64afa2be6f45a8b19f9e7bca1e",
+      "format": "JSON"
+    },
+    {
+      "name": "aftenposten-2022-09-04T12:49:26.332039+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1662288577",
+      "size": "44116",
+      "md5": "6e0910504b30f178832638e2325c37c1",
+      "crc32": "218efe0d",
+      "sha1": "86b0ddbaf42cbad32729ac57805abf7bcc53403c",
+      "format": "JSON"
+    },
+    {
+      "name": "aftenposten-2022-09-04T12:49:26.332039+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aftenposten-2022-09-04T12:49:26.332039+02:00.jpg",
+      "mtime": "1662288636",
+      "size": "8834",
+      "md5": "8891d62b7f095d4541a7c4ec584959b8",
+      "crc32": "232dfd38",
+      "sha1": "2879ce5074301040b14851afa3b21586b3e96e76"
+    },
+    {
       "name": "aftenposten-2022_archive.torrent",
       "source": "metadata",
-      "btih": "efe0a3a43398f00e4933319ca01666ecc0680db4",
-      "mtime": "1662162630",
-      "size": "108683",
-      "md5": "458be414cfb63287a6e8788e542cddfa",
-      "crc32": "fdbf9fce",
-      "sha1": "016973d15d9ceeb50c86eba8f8c6b86ed2bff63e",
+      "btih": "31950034b962b3b9e4dde5c9999da82e9cdaaefd",
+      "mtime": "1662288641",
+      "size": "113803",
+      "md5": "1f7b310cd9c13d9dff6df778f9737121",
+      "crc32": "a9716e01",
+      "sha1": "717bc63701adb0b8dd7cb03a2965634fb0b775f3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aftenposten-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "836c3f1119991460c5d86dbca1651a36",
+      "md5": "ec6dc0816e0a071d31deb22485b1990c",
       "summation": "md5"
     },
     {
       "name": "aftenposten-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662162577",
-      "size": "651264",
-      "md5": "f6ec6e174fc2e8ec6b93af4f0ccc16d4",
-      "crc32": "367cffce",
-      "sha1": "4d512a0ffc59990ccba334edd626fe10e5ed60f1",
+      "mtime": "1662288582",
+      "size": "679936",
+      "md5": "a1134360aaadd3cce7252e8ad4c40b10",
+      "crc32": "3b759c8f",
+      "sha1": "f38bbfa5dd5d0f55c76ca12b07336b31af112ef9",
       "format": "Metadata"
     },
     {
@@ -5256,9 +5504,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 507,
-  "item_last_updated": 1662162630,
-  "item_size": 32977170,
+  "files_count": 531,
+  "item_last_updated": 1662288641,
+  "item_size": 34512909,
   "metadata": {
     "identifier": "aftenposten-2022",
     "collection": [
@@ -5276,7 +5524,7 @@
     "addeddate": "2022-07-20 11:37:13"
   },
   "server": "ia801507.us.archive.org",
-  "uniq": 1648039840,
+  "uniq": 1592023564,
   "workable_servers": [
     "ia801507.us.archive.org",
     "ia601507.us.archive.org"

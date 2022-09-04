@@ -80,12 +80,14 @@ def latest_files(init: bool = False):
 @click.option("--country", "country", default=None)
 @click.option("--language", "language", default=None)
 @click.option("--bundle", "bundle", default=None)
+@click.option("--batch", "batch", default=None)
 def download_items(
     year: str,
     site: str = None,
     country: str = None,
     language: str = None,
     bundle: str = None,
+    batch: str = None
 ):
     """Download the full list of Internet Archive items as JSON."""
     print(
@@ -122,6 +124,10 @@ def download_items(
             [_save_item(i) for i in _site_search(obj)]
     elif bundle:
         site_list = utils.get_sites_in_bundle(bundle)
+        for obj in site_list:
+            [_save_item(i) for i in _site_search(obj)]
+    elif batch:
+        site_list = utils.get_sites_in_batch(int(batch))
         for obj in site_list:
             [_save_item(i) for i in _site_search(obj)]
     else:

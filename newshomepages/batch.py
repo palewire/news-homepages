@@ -18,7 +18,7 @@ def cli():
 def sites_by_batch(batch: str, batches: str):
     """Print site handles in the provided batch as a JSON list."""
     site_list = utils.get_site_list()
-    batch_list = list(_batch(site_list, int(batches)))
+    batch_list = list(utils.batch(site_list, int(batches)))
     if int(batch) - 1 not in range(int(batches)):
         raise ValueError("Batch number not found")
     _dump(batch_list[int(batch) - 1])
@@ -45,14 +45,6 @@ def _dump(site_list: typing.List):
     handle_list = [s["handle"].lower() for s in site_list]
     data = json.dumps(handle_list, indent=2)
     click.echo(data)
-
-
-def _batch(li: typing.List, n: int):
-    """Yield n number of sequential chunks from l."""
-    d, r = divmod(len(li), n)
-    for i in range(n):
-        si = (d + 1) * (i if i < r else r) + d * (0 if i < r else i - r)
-        yield li[si : si + (d + 1 if i < r else d)]
 
 
 if __name__ == "__main__":
