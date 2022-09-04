@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 87 screenshots with the Internet Archive.
+The archiving routine has saved 91 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/dn_no-2022/dn_no-2022-09-01T00:58:25.422770+02:00.jpg">
-  <img src="https://archive.org/download/dn_no-2022/dn_no-2022-09-01T00:58:25.422770+02:00.jpg"
-     alt="Dagens Næringsliv at 2022-09-01 00:58:32+02:00 local time"
+ <a href="https://archive.org/download/dn_no-2022/dn_no-2022-09-03T01:55:21.921746+02:00.jpg">
+  <img src="https://archive.org/download/dn_no-2022/dn_no-2022-09-03T01:55:21.921746+02:00.jpg"
+     alt="Dagens Næringsliv at 2022-09-02 18:55:25+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-09-01T00:58:25.422770+02:00.jpg">September 1 at 12:58 AM</a></p>
+ <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-09-03T01:55:21.921746+02:00.jpg">September 2 at 6:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dn_no-2022/dn_no-2022-09-02T13:00:59.152401+02:00.jpg">
+  <img src="https://archive.org/download/dn_no-2022/dn_no-2022-09-02T13:00:59.152401+02:00.jpg"
+     alt="Dagens Næringsliv at 2022-09-02 06:01:06+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-09-02T13:00:59.152401+02:00.jpg">September 2 at 6:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dn_no-2022/dn_no-2022-09-02T01:03:51.529011+02:00.jpg">
+  <img src="https://archive.org/download/dn_no-2022/dn_no-2022-09-02T01:03:51.529011+02:00.jpg"
+     alt="Dagens Næringsliv at 2022-09-01 18:04:10+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-09-02T01:03:51.529011+02:00.jpg">September 1 at 6:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dn_no-2022/dn_no-2022-09-01T13:05:43.772575+02:00.jpg">
+  <img src="https://archive.org/download/dn_no-2022/dn_no-2022-09-01T13:05:43.772575+02:00.jpg"
+     alt="Dagens Næringsliv at 2022-09-01 06:05:52+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-09-01T13:05:43.772575+02:00.jpg">September 1 at 6:05 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dn_no-2022/dn_no-2022-09-01T00:58:25.422770+02:00.jpg">
+  <img src="https://archive.org/download/dn_no-2022/dn_no-2022-09-01T00:58:25.422770+02:00.jpg"
+     alt="Dagens Næringsliv at 2022-08-31 17:58:32+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-09-01T00:58:25.422770+02:00.jpg">August 31 at 5:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-31T13:00:34.362314+02:00.jpg">
   <img src="https://archive.org/download/dn_no-2022/dn_no-2022-08-31T13:00:34.362314+02:00.jpg"
-     alt="Dagens Næringsliv at 2022-08-31 13:00:37+02:00 local time"
+     alt="Dagens Næringsliv at 2022-08-31 06:00:37+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-31T13:00:34.362314+02:00.jpg">August 31 at 1:00 PM</a></p>
+ <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-31T13:00:34.362314+02:00.jpg">August 31 at 6:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-31T01:05:24.292500+02:00.jpg">
   <img src="https://archive.org/download/dn_no-2022/dn_no-2022-08-31T01:05:24.292500+02:00.jpg"
-     alt="Dagens Næringsliv at 2022-08-31 01:05:29+02:00 local time"
+     alt="Dagens Næringsliv at 2022-08-30 18:05:29+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-31T01:05:24.292500+02:00.jpg">August 31 at 1:05 AM</a></p>
+ <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-31T01:05:24.292500+02:00.jpg">August 30 at 6:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-30T13:05:11.451789+02:00.jpg">
   <img src="https://archive.org/download/dn_no-2022/dn_no-2022-08-30T13:05:11.451789+02:00.jpg"
-     alt="Dagens Næringsliv at 2022-08-30 13:05:13+02:00 local time"
+     alt="Dagens Næringsliv at 2022-08-30 06:05:13+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-30T13:05:11.451789+02:00.jpg">August 30 at 1:05 PM</a></p>
+ <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-30T13:05:11.451789+02:00.jpg">August 30 at 6:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-30T01:01:01.194411+02:00.jpg">
   <img src="https://archive.org/download/dn_no-2022/dn_no-2022-08-30T01:01:01.194411+02:00.jpg"
-     alt="Dagens Næringsliv at 2022-08-30 01:01:06+02:00 local time"
+     alt="Dagens Næringsliv at 2022-08-29 18:01:06+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-30T01:01:01.194411+02:00.jpg">August 30 at 1:01 AM</a></p>
+ <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-30T01:01:01.194411+02:00.jpg">August 29 at 6:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-29T12:56:28.788910+02:00.jpg">
   <img src="https://archive.org/download/dn_no-2022/dn_no-2022-08-29T12:56:28.788910+02:00.jpg"
-     alt="Dagens Næringsliv at 2022-08-29 12:56:33+02:00 local time"
+     alt="Dagens Næringsliv at 2022-08-29 05:56:33+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-29T12:56:28.788910+02:00.jpg">August 29 at 12:56 PM</a></p>
+ <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-29T12:56:28.788910+02:00.jpg">August 29 at 5:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-29T00:53:51.777013+02:00.jpg">
   <img src="https://archive.org/download/dn_no-2022/dn_no-2022-08-29T00:53:51.777013+02:00.jpg"
-     alt="Dagens Næringsliv at 2022-08-29 00:54:03+02:00 local time"
+     alt="Dagens Næringsliv at 2022-08-28 17:54:03+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-29T00:53:51.777013+02:00.jpg">August 29 at 12:54 AM</a></p>
+ <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-29T00:53:51.777013+02:00.jpg">August 28 at 5:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-28T12:58:12.554492+02:00.jpg">
   <img src="https://archive.org/download/dn_no-2022/dn_no-2022-08-28T12:58:12.554492+02:00.jpg"
-     alt="Dagens Næringsliv at 2022-08-28 12:58:22+02:00 local time"
+     alt="Dagens Næringsliv at 2022-08-28 05:58:22+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-28T12:58:12.554492+02:00.jpg">August 28 at 12:58 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-28T00:57:35.795333+02:00.jpg">
-  <img src="https://archive.org/download/dn_no-2022/dn_no-2022-08-28T00:57:35.795333+02:00.jpg"
-     alt="Dagens Næringsliv at 2022-08-28 00:57:46+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-28T00:57:35.795333+02:00.jpg">August 28 at 12:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-27T12:51:41.502756+02:00.jpg">
-  <img src="https://archive.org/download/dn_no-2022/dn_no-2022-08-27T12:51:41.502756+02:00.jpg"
-     alt="Dagens Næringsliv at 2022-08-27 12:51:44+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-27T12:51:41.502756+02:00.jpg">August 27 at 12:51 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-27T00:53:54.267857+02:00.jpg">
-  <img src="https://archive.org/download/dn_no-2022/dn_no-2022-08-27T00:53:54.267857+02:00.jpg"
-     alt="Dagens Næringsliv at 2022-08-27 00:53:58+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-27T00:53:54.267857+02:00.jpg">August 27 at 12:53 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-26T12:54:18.706398+02:00.jpg">
-  <img src="https://archive.org/download/dn_no-2022/dn_no-2022-08-26T12:54:18.706398+02:00.jpg"
-     alt="Dagens Næringsliv at 2022-08-26 12:54:22+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-26T12:54:18.706398+02:00.jpg">August 26 at 12:54 PM</a></p>
+ <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-28T12:58:12.554492+02:00.jpg">August 28 at 5:58 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 87 hyperlink lists with the Internet Archive.
+The archiving routine has saved 91 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 1 at 12:58 AM](https://archive.org/download/dn_no-2022/dn_no-2022-09-01T00:58:25.422770+02:00.hyperlinks.json) |
-| [August 31 at 1:00 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-31T13:00:34.362314+02:00.hyperlinks.json) |
-| [August 31 at 1:05 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-31T01:05:24.292500+02:00.hyperlinks.json) |
-| [August 30 at 1:05 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-30T13:05:11.451789+02:00.hyperlinks.json) |
-| [August 30 at 1:01 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-30T01:01:01.194411+02:00.hyperlinks.json) |
-| [August 29 at 12:56 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-29T12:56:28.788910+02:00.hyperlinks.json) |
-| [August 29 at 12:54 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-29T00:53:51.777013+02:00.hyperlinks.json) |
-| [August 28 at 12:58 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-28T12:58:12.554492+02:00.hyperlinks.json) |
-| [August 28 at 12:57 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-28T00:57:35.795333+02:00.hyperlinks.json) |
-| [August 27 at 12:51 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-27T12:51:41.502756+02:00.hyperlinks.json) |
+| [September 2 at 6:55 PM](https://archive.org/download/dn_no-2022/dn_no-2022-09-03T01:55:21.921746+02:00.hyperlinks.json) |
+| [September 2 at 6:01 AM](https://archive.org/download/dn_no-2022/dn_no-2022-09-02T13:00:59.152401+02:00.hyperlinks.json) |
+| [September 1 at 6:04 PM](https://archive.org/download/dn_no-2022/dn_no-2022-09-02T01:03:51.529011+02:00.hyperlinks.json) |
+| [September 1 at 6:05 AM](https://archive.org/download/dn_no-2022/dn_no-2022-09-01T13:05:43.772575+02:00.hyperlinks.json) |
+| [August 31 at 5:58 PM](https://archive.org/download/dn_no-2022/dn_no-2022-09-01T00:58:25.422770+02:00.hyperlinks.json) |
+| [August 31 at 6:00 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-31T13:00:34.362314+02:00.hyperlinks.json) |
+| [August 30 at 6:05 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-31T01:05:24.292500+02:00.hyperlinks.json) |
+| [August 30 at 6:05 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-30T13:05:11.451789+02:00.hyperlinks.json) |
+| [August 29 at 6:01 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-30T01:01:01.194411+02:00.hyperlinks.json) |
+| [August 29 at 5:56 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-29T12:56:28.788910+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 87 accessibility trees with the Internet Archive.
+The archiving routine has saved 91 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 1 at 12:58 AM](https://archive.org/download/dn_no-2022/dn_no-2022-09-01T00:58:25.422770+02:00.accessibility.json) |
-| [August 31 at 1:00 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-31T13:00:34.362314+02:00.accessibility.json) |
-| [August 31 at 1:05 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-31T01:05:24.292500+02:00.accessibility.json) |
-| [August 30 at 1:05 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-30T13:05:11.451789+02:00.accessibility.json) |
-| [August 30 at 1:01 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-30T01:01:01.194411+02:00.accessibility.json) |
-| [August 29 at 12:56 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-29T12:56:28.788910+02:00.accessibility.json) |
-| [August 29 at 12:54 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-29T00:53:51.777013+02:00.accessibility.json) |
-| [August 28 at 12:58 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-28T12:58:12.554492+02:00.accessibility.json) |
-| [August 28 at 12:57 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-28T00:57:35.795333+02:00.accessibility.json) |
-| [August 27 at 12:51 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-27T12:51:41.502756+02:00.accessibility.json) |
+| [September 2 at 6:55 PM](https://archive.org/download/dn_no-2022/dn_no-2022-09-03T01:55:21.921746+02:00.accessibility.json) |
+| [September 2 at 6:01 AM](https://archive.org/download/dn_no-2022/dn_no-2022-09-02T13:00:59.152401+02:00.accessibility.json) |
+| [September 1 at 6:04 PM](https://archive.org/download/dn_no-2022/dn_no-2022-09-02T01:03:51.529011+02:00.accessibility.json) |
+| [September 1 at 6:05 AM](https://archive.org/download/dn_no-2022/dn_no-2022-09-01T13:05:43.772575+02:00.accessibility.json) |
+| [August 31 at 5:58 PM](https://archive.org/download/dn_no-2022/dn_no-2022-09-01T00:58:25.422770+02:00.accessibility.json) |
+| [August 31 at 6:00 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-31T13:00:34.362314+02:00.accessibility.json) |
+| [August 30 at 6:05 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-31T01:05:24.292500+02:00.accessibility.json) |
+| [August 30 at 6:05 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-30T13:05:11.451789+02:00.accessibility.json) |
+| [August 29 at 6:01 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-30T01:01:01.194411+02:00.accessibility.json) |
+| [August 29 at 5:56 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-29T12:56:28.788910+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 79 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 83 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 1 at 12:58 AM](https://archive.org/download/dn_no-2022/dn_no-2022-09-01T00:58:25.422770+02:00.lighthouse.json) |
-| [August 31 at 1:00 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-31T13:00:34.362314+02:00.lighthouse.json) |
-| [August 31 at 1:05 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-31T01:05:24.292500+02:00.lighthouse.json) |
-| [August 30 at 1:05 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-30T13:05:11.451789+02:00.lighthouse.json) |
-| [August 30 at 1:01 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-30T01:01:01.194411+02:00.lighthouse.json) |
-| [August 29 at 12:56 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-29T12:56:28.788910+02:00.lighthouse.json) |
-| [August 29 at 12:54 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-29T00:53:51.777013+02:00.lighthouse.json) |
-| [August 28 at 12:58 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-28T12:58:12.554492+02:00.lighthouse.json) |
-| [August 28 at 12:57 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-28T00:57:35.795333+02:00.lighthouse.json) |
-| [August 27 at 12:51 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-27T12:51:41.502756+02:00.lighthouse.json) |
+| [September 2 at 6:55 PM](https://archive.org/download/dn_no-2022/dn_no-2022-09-03T01:55:21.921746+02:00.lighthouse.json) |
+| [September 2 at 6:01 AM](https://archive.org/download/dn_no-2022/dn_no-2022-09-02T13:00:59.152401+02:00.lighthouse.json) |
+| [September 1 at 6:04 PM](https://archive.org/download/dn_no-2022/dn_no-2022-09-02T01:03:51.529011+02:00.lighthouse.json) |
+| [September 1 at 6:05 AM](https://archive.org/download/dn_no-2022/dn_no-2022-09-01T13:05:43.772575+02:00.lighthouse.json) |
+| [August 31 at 5:58 PM](https://archive.org/download/dn_no-2022/dn_no-2022-09-01T00:58:25.422770+02:00.lighthouse.json) |
+| [August 31 at 6:00 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-31T13:00:34.362314+02:00.lighthouse.json) |
+| [August 30 at 6:05 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-31T01:05:24.292500+02:00.lighthouse.json) |
+| [August 30 at 6:05 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-30T13:05:11.451789+02:00.lighthouse.json) |
+| [August 29 at 6:01 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-30T01:01:01.194411+02:00.lighthouse.json) |
+| [August 29 at 5:56 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-29T12:56:28.788910+02:00.lighthouse.json) |
 
 
 

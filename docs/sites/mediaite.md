@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 17 screenshots with the Internet Archive.
+The archiving routine has saved 21 screenshots with the Internet Archive.
 
 
 
@@ -243,118 +243,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-31T19:54:35.182973-04:00.jpg">
-  <img src="https://archive.org/download/mediaite-2022/mediaite-2022-08-31T19:54:35.182973-04:00.jpg"
-     alt="Mediaite at 2022-08-31 19:54:38-04:00 local time"
+ <a href="https://archive.org/download/mediaite-2022/mediaite-2022-09-02T20:02:12.211426-04:00.jpg">
+  <img src="https://archive.org/download/mediaite-2022/mediaite-2022-09-02T20:02:12.211426-04:00.jpg"
+     alt="Mediaite at 2022-09-02 13:02:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-31T19:54:35.182973-04:00.jpg">August 31 at 7:54 PM</a></p>
+ <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-09-02T20:02:12.211426-04:00.jpg">September 2 at 1:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mediaite-2022/mediaite-2022-09-02T08:04:51.979228-04:00.jpg">
+  <img src="https://archive.org/download/mediaite-2022/mediaite-2022-09-02T08:04:51.979228-04:00.jpg"
+     alt="Mediaite at 2022-09-02 01:04:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-09-02T08:04:51.979228-04:00.jpg">September 2 at 1:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mediaite-2022/mediaite-2022-09-01T20:01:40.462489-04:00.jpg">
+  <img src="https://archive.org/download/mediaite-2022/mediaite-2022-09-01T20:01:40.462489-04:00.jpg"
+     alt="Mediaite at 2022-09-01 13:01:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-09-01T20:01:40.462489-04:00.jpg">September 1 at 1:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mediaite-2022/mediaite-2022-09-01T08:14:25.495349-04:00.jpg">
+  <img src="https://archive.org/download/mediaite-2022/mediaite-2022-09-01T08:14:25.495349-04:00.jpg"
+     alt="Mediaite at 2022-09-01 01:14:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-09-01T08:14:25.495349-04:00.jpg">September 1 at 1:14 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-31T19:54:35.182973-04:00.jpg">
+  <img src="https://archive.org/download/mediaite-2022/mediaite-2022-08-31T19:54:35.182973-04:00.jpg"
+     alt="Mediaite at 2022-08-31 12:54:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-31T19:54:35.182973-04:00.jpg">August 31 at 12:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-31T09:05:56.618397-04:00.jpg">
   <img src="https://archive.org/download/mediaite-2022/mediaite-2022-08-31T09:05:56.618397-04:00.jpg"
-     alt="Mediaite at 2022-08-31 09:05:58-04:00 local time"
+     alt="Mediaite at 2022-08-31 02:05:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-31T09:05:56.618397-04:00.jpg">August 31 at 9:05 AM</a></p>
+ <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-31T09:05:56.618397-04:00.jpg">August 31 at 2:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-30T20:04:15.187213-04:00.jpg">
   <img src="https://archive.org/download/mediaite-2022/mediaite-2022-08-30T20:04:15.187213-04:00.jpg"
-     alt="Mediaite at 2022-08-30 20:04:17-04:00 local time"
+     alt="Mediaite at 2022-08-30 13:04:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-30T20:04:15.187213-04:00.jpg">August 30 at 8:04 PM</a></p>
+ <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-30T20:04:15.187213-04:00.jpg">August 30 at 1:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-30T08:11:20.848559-04:00.jpg">
   <img src="https://archive.org/download/mediaite-2022/mediaite-2022-08-30T08:11:20.848559-04:00.jpg"
-     alt="Mediaite at 2022-08-30 08:11:22-04:00 local time"
+     alt="Mediaite at 2022-08-30 01:11:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-30T08:11:20.848559-04:00.jpg">August 30 at 8:11 AM</a></p>
+ <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-30T08:11:20.848559-04:00.jpg">August 30 at 1:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-29T19:54:06.577757-04:00.jpg">
   <img src="https://archive.org/download/mediaite-2022/mediaite-2022-08-29T19:54:06.577757-04:00.jpg"
-     alt="Mediaite at 2022-08-29 19:54:08-04:00 local time"
+     alt="Mediaite at 2022-08-29 12:54:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-29T19:54:06.577757-04:00.jpg">August 29 at 7:54 PM</a></p>
+ <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-29T19:54:06.577757-04:00.jpg">August 29 at 12:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-29T08:00:51.078000-04:00.jpg">
   <img src="https://archive.org/download/mediaite-2022/mediaite-2022-08-29T08:00:51.078000-04:00.jpg"
-     alt="Mediaite at 2022-08-29 08:00:52-04:00 local time"
+     alt="Mediaite at 2022-08-29 01:00:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-29T08:00:51.078000-04:00.jpg">August 29 at 8:00 AM</a></p>
+ <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-29T08:00:51.078000-04:00.jpg">August 29 at 1:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-28T19:50:54.105807-04:00.jpg">
   <img src="https://archive.org/download/mediaite-2022/mediaite-2022-08-28T19:50:54.105807-04:00.jpg"
-     alt="Mediaite at 2022-08-28 19:50:55-04:00 local time"
+     alt="Mediaite at 2022-08-28 12:50:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-28T19:50:54.105807-04:00.jpg">August 28 at 7:50 PM</a></p>
+ <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-28T19:50:54.105807-04:00.jpg">August 28 at 12:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-28T08:02:23.315451-04:00.jpg">
   <img src="https://archive.org/download/mediaite-2022/mediaite-2022-08-28T08:02:23.315451-04:00.jpg"
-     alt="Mediaite at 2022-08-28 08:02:25-04:00 local time"
+     alt="Mediaite at 2022-08-28 01:02:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-28T08:02:23.315451-04:00.jpg">August 28 at 8:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-27T19:52:20.042638-04:00.jpg">
-  <img src="https://archive.org/download/mediaite-2022/mediaite-2022-08-27T19:52:20.042638-04:00.jpg"
-     alt="Mediaite at 2022-08-27 19:52:22-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-27T19:52:20.042638-04:00.jpg">August 27 at 7:52 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-27T07:55:31.796289-04:00.jpg">
-  <img src="https://archive.org/download/mediaite-2022/mediaite-2022-08-27T07:55:31.796289-04:00.jpg"
-     alt="Mediaite at 2022-08-27 07:55:33-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-27T07:55:31.796289-04:00.jpg">August 27 at 7:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-26T19:46:48.998505-04:00.jpg">
-  <img src="https://archive.org/download/mediaite-2022/mediaite-2022-08-26T19:46:48.998505-04:00.jpg"
-     alt="Mediaite at 2022-08-26 19:46:51-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-26T19:46:48.998505-04:00.jpg">August 26 at 7:46 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-26T08:00:14.675025-04:00.jpg">
-  <img src="https://archive.org/download/mediaite-2022/mediaite-2022-08-26T08:00:14.675025-04:00.jpg"
-     alt="Mediaite at 2022-08-26 08:00:15-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-26T08:00:14.675025-04:00.jpg">August 26 at 8:00 AM</a></p>
+ <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-08-28T08:02:23.315451-04:00.jpg">August 28 at 1:02 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 21 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,21 +362,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 31 at 7:54 PM](https://archive.org/download/mediaite-2022/mediaite-2022-08-31T19:54:35.182973-04:00.hyperlinks.json) |
-| [August 31 at 9:06 AM](https://archive.org/download/mediaite-2022/mediaite-2022-08-31T09:05:56.618397-04:00.hyperlinks.json) |
-| [August 30 at 8:04 PM](https://archive.org/download/mediaite-2022/mediaite-2022-08-30T20:04:15.187213-04:00.hyperlinks.json) |
-| [August 30 at 8:11 AM](https://archive.org/download/mediaite-2022/mediaite-2022-08-30T08:11:20.848559-04:00.hyperlinks.json) |
-| [August 29 at 7:54 PM](https://archive.org/download/mediaite-2022/mediaite-2022-08-29T19:54:06.577757-04:00.hyperlinks.json) |
-| [August 29 at 8:00 AM](https://archive.org/download/mediaite-2022/mediaite-2022-08-29T08:00:51.078000-04:00.hyperlinks.json) |
-| [August 28 at 7:50 PM](https://archive.org/download/mediaite-2022/mediaite-2022-08-28T19:50:54.105807-04:00.hyperlinks.json) |
-| [August 28 at 8:02 AM](https://archive.org/download/mediaite-2022/mediaite-2022-08-28T08:02:23.315451-04:00.hyperlinks.json) |
-| [August 27 at 7:52 PM](https://archive.org/download/mediaite-2022/mediaite-2022-08-27T19:52:20.042638-04:00.hyperlinks.json) |
-| [August 27 at 7:55 AM](https://archive.org/download/mediaite-2022/mediaite-2022-08-27T07:55:31.796289-04:00.hyperlinks.json) |
+| [September 2 at 1:02 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-02T20:02:12.211426-04:00.hyperlinks.json) |
+| [September 2 at 1:04 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-02T08:04:51.979228-04:00.hyperlinks.json) |
+| [September 1 at 1:01 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-01T20:01:40.462489-04:00.hyperlinks.json) |
+| [September 1 at 1:14 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-01T08:14:25.495349-04:00.hyperlinks.json) |
+| [August 31 at 12:54 PM](https://archive.org/download/mediaite-2022/mediaite-2022-08-31T19:54:35.182973-04:00.hyperlinks.json) |
+| [August 31 at 2:06 AM](https://archive.org/download/mediaite-2022/mediaite-2022-08-31T09:05:56.618397-04:00.hyperlinks.json) |
+| [August 30 at 1:04 PM](https://archive.org/download/mediaite-2022/mediaite-2022-08-30T20:04:15.187213-04:00.hyperlinks.json) |
+| [August 30 at 1:11 AM](https://archive.org/download/mediaite-2022/mediaite-2022-08-30T08:11:20.848559-04:00.hyperlinks.json) |
+| [August 29 at 12:54 PM](https://archive.org/download/mediaite-2022/mediaite-2022-08-29T19:54:06.577757-04:00.hyperlinks.json) |
+| [August 29 at 1:00 AM](https://archive.org/download/mediaite-2022/mediaite-2022-08-29T08:00:51.078000-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 17 accessibility trees with the Internet Archive.
+The archiving routine has saved 21 accessibility trees with the Internet Archive.
 
 
 
@@ -384,22 +384,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 31 at 7:54 PM](https://archive.org/download/mediaite-2022/mediaite-2022-08-31T19:54:35.182973-04:00.accessibility.json) |
-| [August 31 at 9:05 AM](https://archive.org/download/mediaite-2022/mediaite-2022-08-31T09:05:56.618397-04:00.accessibility.json) |
-| [August 30 at 8:04 PM](https://archive.org/download/mediaite-2022/mediaite-2022-08-30T20:04:15.187213-04:00.accessibility.json) |
-| [August 30 at 8:11 AM](https://archive.org/download/mediaite-2022/mediaite-2022-08-30T08:11:20.848559-04:00.accessibility.json) |
-| [August 29 at 7:54 PM](https://archive.org/download/mediaite-2022/mediaite-2022-08-29T19:54:06.577757-04:00.accessibility.json) |
-| [August 29 at 8:00 AM](https://archive.org/download/mediaite-2022/mediaite-2022-08-29T08:00:51.078000-04:00.accessibility.json) |
-| [August 28 at 7:50 PM](https://archive.org/download/mediaite-2022/mediaite-2022-08-28T19:50:54.105807-04:00.accessibility.json) |
-| [August 28 at 8:02 AM](https://archive.org/download/mediaite-2022/mediaite-2022-08-28T08:02:23.315451-04:00.accessibility.json) |
-| [August 27 at 7:52 PM](https://archive.org/download/mediaite-2022/mediaite-2022-08-27T19:52:20.042638-04:00.accessibility.json) |
-| [August 27 at 7:55 AM](https://archive.org/download/mediaite-2022/mediaite-2022-08-27T07:55:31.796289-04:00.accessibility.json) |
+| [September 2 at 1:02 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-02T20:02:12.211426-04:00.accessibility.json) |
+| [September 2 at 1:04 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-02T08:04:51.979228-04:00.accessibility.json) |
+| [September 1 at 1:01 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-01T20:01:40.462489-04:00.accessibility.json) |
+| [September 1 at 1:14 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-01T08:14:25.495349-04:00.accessibility.json) |
+| [August 31 at 12:54 PM](https://archive.org/download/mediaite-2022/mediaite-2022-08-31T19:54:35.182973-04:00.accessibility.json) |
+| [August 31 at 2:05 AM](https://archive.org/download/mediaite-2022/mediaite-2022-08-31T09:05:56.618397-04:00.accessibility.json) |
+| [August 30 at 1:04 PM](https://archive.org/download/mediaite-2022/mediaite-2022-08-30T20:04:15.187213-04:00.accessibility.json) |
+| [August 30 at 1:11 AM](https://archive.org/download/mediaite-2022/mediaite-2022-08-30T08:11:20.848559-04:00.accessibility.json) |
+| [August 29 at 12:54 PM](https://archive.org/download/mediaite-2022/mediaite-2022-08-29T19:54:06.577757-04:00.accessibility.json) |
+| [August 29 at 1:00 AM](https://archive.org/download/mediaite-2022/mediaite-2022-08-29T08:00:51.078000-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 21 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,16 +407,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 31 at 7:54 PM](https://archive.org/download/mediaite-2022/mediaite-2022-08-31T19:54:35.182973-04:00.lighthouse.json) |
-| [August 31 at 9:06 AM](https://archive.org/download/mediaite-2022/mediaite-2022-08-31T09:05:56.618397-04:00.lighthouse.json) |
-| [August 30 at 8:04 PM](https://archive.org/download/mediaite-2022/mediaite-2022-08-30T20:04:15.187213-04:00.lighthouse.json) |
-| [August 30 at 8:11 AM](https://archive.org/download/mediaite-2022/mediaite-2022-08-30T08:11:20.848559-04:00.lighthouse.json) |
-| [August 29 at 7:54 PM](https://archive.org/download/mediaite-2022/mediaite-2022-08-29T19:54:06.577757-04:00.lighthouse.json) |
-| [August 29 at 8:00 AM](https://archive.org/download/mediaite-2022/mediaite-2022-08-29T08:00:51.078000-04:00.lighthouse.json) |
-| [August 28 at 7:50 PM](https://archive.org/download/mediaite-2022/mediaite-2022-08-28T19:50:54.105807-04:00.lighthouse.json) |
-| [August 28 at 8:02 AM](https://archive.org/download/mediaite-2022/mediaite-2022-08-28T08:02:23.315451-04:00.lighthouse.json) |
-| [August 27 at 7:52 PM](https://archive.org/download/mediaite-2022/mediaite-2022-08-27T19:52:20.042638-04:00.lighthouse.json) |
-| [August 27 at 7:55 AM](https://archive.org/download/mediaite-2022/mediaite-2022-08-27T07:55:31.796289-04:00.lighthouse.json) |
+| [September 2 at 1:02 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-02T20:02:12.211426-04:00.lighthouse.json) |
+| [September 2 at 1:04 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-02T08:04:51.979228-04:00.lighthouse.json) |
+| [September 1 at 1:01 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-01T20:01:40.462489-04:00.lighthouse.json) |
+| [September 1 at 1:14 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-01T08:14:25.495349-04:00.lighthouse.json) |
+| [August 31 at 12:54 PM](https://archive.org/download/mediaite-2022/mediaite-2022-08-31T19:54:35.182973-04:00.lighthouse.json) |
+| [August 31 at 2:06 AM](https://archive.org/download/mediaite-2022/mediaite-2022-08-31T09:05:56.618397-04:00.lighthouse.json) |
+| [August 30 at 1:04 PM](https://archive.org/download/mediaite-2022/mediaite-2022-08-30T20:04:15.187213-04:00.lighthouse.json) |
+| [August 30 at 1:11 AM](https://archive.org/download/mediaite-2022/mediaite-2022-08-30T08:11:20.848559-04:00.lighthouse.json) |
+| [August 29 at 12:54 PM](https://archive.org/download/mediaite-2022/mediaite-2022-08-29T19:54:06.577757-04:00.lighthouse.json) |
+| [August 29 at 1:00 AM](https://archive.org/download/mediaite-2022/mediaite-2022-08-29T08:00:51.078000-04:00.lighthouse.json) |
 
 
 

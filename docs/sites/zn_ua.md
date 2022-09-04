@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 337 screenshots with the Internet Archive.
+The archiving routine has saved 341 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-31T19:16:12.313516+03:00.jpg">
-  <img src="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-31T19:16:12.313516+03:00.jpg"
-     alt="ZN.UA at 2022-08-31 19:16:24+03:00 local time"
+ <a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-09-02T19:21:31.018222+03:00.jpg">
+  <img src="https://archive.org/download/zn_ua-2022/zn_ua-2022-09-02T19:21:31.018222+03:00.jpg"
+     alt="ZN.UA at 2022-09-02 12:21:56+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-31T19:16:12.313516+03:00.jpg">August 31 at 7:16 PM</a></p>
+ <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-09-02T19:21:31.018222+03:00.jpg">September 2 at 12:21 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-09-02T07:53:12.686345+03:00.jpg">
+  <img src="https://archive.org/download/zn_ua-2022/zn_ua-2022-09-02T07:53:12.686345+03:00.jpg"
+     alt="ZN.UA at 2022-09-02 00:53:18+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-09-02T07:53:12.686345+03:00.jpg">September 2 at 12:53 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-09-01T19:44:55.791820+03:00.jpg">
+  <img src="https://archive.org/download/zn_ua-2022/zn_ua-2022-09-01T19:44:55.791820+03:00.jpg"
+     alt="ZN.UA at 2022-09-01 12:45:06+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-09-01T19:44:55.791820+03:00.jpg">September 1 at 12:45 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-09-01T07:46:57.826912+03:00.jpg">
+  <img src="https://archive.org/download/zn_ua-2022/zn_ua-2022-09-01T07:46:57.826912+03:00.jpg"
+     alt="ZN.UA at 2022-09-01 00:47:07+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-09-01T07:46:57.826912+03:00.jpg">September 1 at 12:47 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-31T19:16:12.313516+03:00.jpg">
+  <img src="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-31T19:16:12.313516+03:00.jpg"
+     alt="ZN.UA at 2022-08-31 12:16:24+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-31T19:16:12.313516+03:00.jpg">August 31 at 12:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-31T07:55:35.970586+03:00.jpg">
   <img src="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-31T07:55:35.970586+03:00.jpg"
-     alt="ZN.UA at 2022-08-31 07:55:47+03:00 local time"
+     alt="ZN.UA at 2022-08-31 00:55:47+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-31T07:55:35.970586+03:00.jpg">August 31 at 7:55 AM</a></p>
+ <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-31T07:55:35.970586+03:00.jpg">August 31 at 12:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-30T19:39:38.339184+03:00.jpg">
   <img src="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-30T19:39:38.339184+03:00.jpg"
-     alt="ZN.UA at 2022-08-30 19:39:51+03:00 local time"
+     alt="ZN.UA at 2022-08-30 12:39:51+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-30T19:39:38.339184+03:00.jpg">August 30 at 7:39 PM</a></p>
+ <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-30T19:39:38.339184+03:00.jpg">August 30 at 12:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-30T08:00:47.284406+03:00.jpg">
   <img src="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-30T08:00:47.284406+03:00.jpg"
-     alt="ZN.UA at 2022-08-30 08:00:48+03:00 local time"
+     alt="ZN.UA at 2022-08-30 01:00:48+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-30T08:00:47.284406+03:00.jpg">August 30 at 8:00 AM</a></p>
+ <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-30T08:00:47.284406+03:00.jpg">August 30 at 1:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-29T19:22:12.034306+03:00.jpg">
   <img src="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-29T19:22:12.034306+03:00.jpg"
-     alt="ZN.UA at 2022-08-29 19:22:35+03:00 local time"
+     alt="ZN.UA at 2022-08-29 12:22:35+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-29T19:22:12.034306+03:00.jpg">August 29 at 7:22 PM</a></p>
+ <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-29T19:22:12.034306+03:00.jpg">August 29 at 12:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-29T07:44:14.556395+03:00.jpg">
   <img src="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-29T07:44:14.556395+03:00.jpg"
-     alt="ZN.UA at 2022-08-29 07:44:16+03:00 local time"
+     alt="ZN.UA at 2022-08-29 00:44:16+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-29T07:44:14.556395+03:00.jpg">August 29 at 7:44 AM</a></p>
+ <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-29T07:44:14.556395+03:00.jpg">August 29 at 12:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-28T19:05:40.081295+03:00.jpg">
   <img src="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-28T19:05:40.081295+03:00.jpg"
-     alt="ZN.UA at 2022-08-28 19:05:51+03:00 local time"
+     alt="ZN.UA at 2022-08-28 12:05:51+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-28T19:05:40.081295+03:00.jpg">August 28 at 7:05 PM</a></p>
+ <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-28T19:05:40.081295+03:00.jpg">August 28 at 12:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-28T07:41:03.240281+03:00.jpg">
   <img src="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-28T07:41:03.240281+03:00.jpg"
-     alt="ZN.UA at 2022-08-28 07:41:16+03:00 local time"
+     alt="ZN.UA at 2022-08-28 00:41:16+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-28T07:41:03.240281+03:00.jpg">August 28 at 7:41 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-27T19:02:21.818782+03:00.jpg">
-  <img src="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-27T19:02:21.818782+03:00.jpg"
-     alt="ZN.UA at 2022-08-27 19:02:23+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-27T19:02:21.818782+03:00.jpg">August 27 at 7:02 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-27T07:42:03.800937+03:00.jpg">
-  <img src="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-27T07:42:03.800937+03:00.jpg"
-     alt="ZN.UA at 2022-08-27 07:42:04+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-27T07:42:03.800937+03:00.jpg">August 27 at 7:42 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-26T19:10:18.004179+03:00.jpg">
-  <img src="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-26T19:10:18.004179+03:00.jpg"
-     alt="ZN.UA at 2022-08-26 19:10:46+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-26T19:10:18.004179+03:00.jpg">August 26 at 7:10 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-26T07:46:39.271349+03:00.jpg">
-  <img src="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-26T07:46:39.271349+03:00.jpg"
-     alt="ZN.UA at 2022-08-26 07:46:40+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-26T07:46:39.271349+03:00.jpg">August 26 at 7:46 AM</a></p>
+ <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-08-28T07:41:03.240281+03:00.jpg">August 28 at 12:41 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 322 hyperlink lists with the Internet Archive.
+The archiving routine has saved 326 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 31 at 7:16 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-31T19:16:12.313516+03:00.hyperlinks.json) |
-| [August 31 at 7:55 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-31T07:55:35.970586+03:00.hyperlinks.json) |
-| [August 30 at 7:39 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-30T19:39:38.339184+03:00.hyperlinks.json) |
-| [August 30 at 8:00 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-30T08:00:47.284406+03:00.hyperlinks.json) |
-| [August 29 at 7:22 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-29T19:22:12.034306+03:00.hyperlinks.json) |
-| [August 29 at 7:44 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-29T07:44:14.556395+03:00.hyperlinks.json) |
-| [August 28 at 7:05 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-28T19:05:40.081295+03:00.hyperlinks.json) |
-| [August 28 at 7:41 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-28T07:41:03.240281+03:00.hyperlinks.json) |
-| [August 27 at 7:02 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-27T19:02:21.818782+03:00.hyperlinks.json) |
-| [August 27 at 7:42 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-27T07:42:03.800937+03:00.hyperlinks.json) |
+| [September 2 at 12:22 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-02T19:21:31.018222+03:00.hyperlinks.json) |
+| [September 2 at 12:53 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-02T07:53:12.686345+03:00.hyperlinks.json) |
+| [September 1 at 12:45 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-01T19:44:55.791820+03:00.hyperlinks.json) |
+| [September 1 at 12:47 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-01T07:46:57.826912+03:00.hyperlinks.json) |
+| [August 31 at 12:16 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-31T19:16:12.313516+03:00.hyperlinks.json) |
+| [August 31 at 12:55 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-31T07:55:35.970586+03:00.hyperlinks.json) |
+| [August 30 at 12:39 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-30T19:39:38.339184+03:00.hyperlinks.json) |
+| [August 30 at 1:00 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-30T08:00:47.284406+03:00.hyperlinks.json) |
+| [August 29 at 12:22 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-29T19:22:12.034306+03:00.hyperlinks.json) |
+| [August 29 at 12:44 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-29T07:44:14.556395+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 323 accessibility trees with the Internet Archive.
+The archiving routine has saved 327 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 31 at 7:16 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-31T19:16:12.313516+03:00.accessibility.json) |
-| [August 31 at 7:55 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-31T07:55:35.970586+03:00.accessibility.json) |
-| [August 30 at 7:39 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-30T19:39:38.339184+03:00.accessibility.json) |
-| [August 30 at 8:00 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-30T08:00:47.284406+03:00.accessibility.json) |
-| [August 29 at 7:22 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-29T19:22:12.034306+03:00.accessibility.json) |
-| [August 29 at 7:44 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-29T07:44:14.556395+03:00.accessibility.json) |
-| [August 28 at 7:05 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-28T19:05:40.081295+03:00.accessibility.json) |
-| [August 28 at 7:41 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-28T07:41:03.240281+03:00.accessibility.json) |
-| [August 27 at 7:02 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-27T19:02:21.818782+03:00.accessibility.json) |
-| [August 27 at 7:42 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-27T07:42:03.800937+03:00.accessibility.json) |
+| [September 2 at 12:21 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-02T19:21:31.018222+03:00.accessibility.json) |
+| [September 2 at 12:53 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-02T07:53:12.686345+03:00.accessibility.json) |
+| [September 1 at 12:45 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-01T19:44:55.791820+03:00.accessibility.json) |
+| [September 1 at 12:47 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-01T07:46:57.826912+03:00.accessibility.json) |
+| [August 31 at 12:16 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-31T19:16:12.313516+03:00.accessibility.json) |
+| [August 31 at 12:55 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-31T07:55:35.970586+03:00.accessibility.json) |
+| [August 30 at 12:39 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-30T19:39:38.339184+03:00.accessibility.json) |
+| [August 30 at 1:00 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-30T08:00:47.284406+03:00.accessibility.json) |
+| [August 29 at 12:22 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-29T19:22:12.034306+03:00.accessibility.json) |
+| [August 29 at 12:44 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-29T07:44:14.556395+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 78 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 82 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 31 at 7:16 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-31T19:16:12.313516+03:00.lighthouse.json) |
-| [August 31 at 7:55 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-31T07:55:35.970586+03:00.lighthouse.json) |
-| [August 30 at 7:39 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-30T19:39:38.339184+03:00.lighthouse.json) |
-| [August 30 at 8:00 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-30T08:00:47.284406+03:00.lighthouse.json) |
-| [August 29 at 7:22 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-29T19:22:12.034306+03:00.lighthouse.json) |
-| [August 29 at 7:44 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-29T07:44:14.556395+03:00.lighthouse.json) |
-| [August 28 at 7:05 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-28T19:05:40.081295+03:00.lighthouse.json) |
-| [August 28 at 7:41 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-28T07:41:03.240281+03:00.lighthouse.json) |
-| [August 27 at 7:02 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-27T19:02:21.818782+03:00.lighthouse.json) |
-| [August 27 at 7:42 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-27T07:42:03.800937+03:00.lighthouse.json) |
+| [September 2 at 12:22 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-02T19:21:31.018222+03:00.lighthouse.json) |
+| [September 2 at 12:53 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-02T07:53:12.686345+03:00.lighthouse.json) |
+| [September 1 at 12:45 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-01T19:44:55.791820+03:00.lighthouse.json) |
+| [September 1 at 12:47 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-01T07:46:57.826912+03:00.lighthouse.json) |
+| [August 31 at 12:16 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-31T19:16:12.313516+03:00.lighthouse.json) |
+| [August 31 at 12:55 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-31T07:55:35.970586+03:00.lighthouse.json) |
+| [August 30 at 12:39 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-30T19:39:38.339184+03:00.lighthouse.json) |
+| [August 30 at 1:00 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-30T08:00:47.284406+03:00.lighthouse.json) |
+| [August 29 at 12:22 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-29T19:22:12.034306+03:00.lighthouse.json) |
+| [August 29 at 12:44 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-08-29T07:44:14.556395+03:00.lighthouse.json) |
 
 
 

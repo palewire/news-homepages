@@ -234,8 +234,91 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 26 screenshots with the Internet Archive.
+The archiving routine has saved 32 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/levernews.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
@@ -243,180 +326,429 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/levernews-2022/levernews-2022-08-31T17:53:45.408508-06:00.jpg">
-  <img src="https://archive.org/download/levernews-2022/levernews-2022-08-31T17:53:45.408508-06:00.jpg"
-     alt="Lever at 2022-08-31 17:53:46-06:00 local time"
+ <a href="https://archive.org/download/levernews-2022/levernews-2022-09-02T18:01:31.751927-06:00.jpg">
+  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-02T18:01:31.751927-06:00.jpg"
+     alt="Lever at 2022-09-02 11:01:33-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/levernews-2022/levernews-2022-08-31T17:53:45.408508-06:00.jpg">August 31 at 5:53 PM</a></p>
+ <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-02T18:01:31.751927-06:00.jpg">September 2 at 11:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/levernews-2022/levernews-2022-09-02T12:30:10.311150-06:00.jpg">
+  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-02T12:30:10.311150-06:00.jpg"
+     alt="Lever at 2022-09-02 05:30:12-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-02T12:30:10.311150-06:00.jpg">September 2 at 5:30 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/levernews-2022/levernews-2022-09-02T06:04:24.319737-06:00.jpg">
+  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-02T06:04:24.319737-06:00.jpg"
+     alt="Lever at 2022-09-01 23:04:27-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-02T06:04:24.319737-06:00.jpg">September 1 at 11:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/levernews-2022/levernews-2022-09-01T18:01:41.306324-06:00.jpg">
+  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-01T18:01:41.306324-06:00.jpg"
+     alt="Lever at 2022-09-01 11:01:42-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-01T18:01:41.306324-06:00.jpg">September 1 at 11:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/levernews-2022/levernews-2022-09-01T12:31:23.135244-06:00.jpg">
+  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-01T12:31:23.135244-06:00.jpg"
+     alt="Lever at 2022-09-01 05:31:24-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-01T12:31:23.135244-06:00.jpg">September 1 at 5:31 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/levernews-2022/levernews-2022-09-01T06:14:18.112652-06:00.jpg">
+  <img src="https://archive.org/download/levernews-2022/levernews-2022-09-01T06:14:18.112652-06:00.jpg"
+     alt="Lever at 2022-08-31 23:14:22-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/levernews-2022/levernews-2022-09-01T06:14:18.112652-06:00.jpg">August 31 at 11:14 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/levernews-2022/levernews-2022-08-31T17:53:45.408508-06:00.jpg">
+  <img src="https://archive.org/download/levernews-2022/levernews-2022-08-31T17:53:45.408508-06:00.jpg"
+     alt="Lever at 2022-08-31 10:53:46-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/levernews-2022/levernews-2022-08-31T17:53:45.408508-06:00.jpg">August 31 at 10:53 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/levernews-2022/levernews-2022-08-31T12:36:04.537394-06:00.jpg">
   <img src="https://archive.org/download/levernews-2022/levernews-2022-08-31T12:36:04.537394-06:00.jpg"
-     alt="Lever at 2022-08-31 12:36:09-06:00 local time"
+     alt="Lever at 2022-08-31 05:36:09-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/levernews-2022/levernews-2022-08-31T12:36:04.537394-06:00.jpg">August 31 at 12:36 PM</a></p>
+ <p><a href="https://archive.org/download/levernews-2022/levernews-2022-08-31T12:36:04.537394-06:00.jpg">August 31 at 5:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/levernews-2022/levernews-2022-08-31T07:06:52.115166-06:00.jpg">
   <img src="https://archive.org/download/levernews-2022/levernews-2022-08-31T07:06:52.115166-06:00.jpg"
-     alt="Lever at 2022-08-31 07:06:53-06:00 local time"
+     alt="Lever at 2022-08-31 00:06:53-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/levernews-2022/levernews-2022-08-31T07:06:52.115166-06:00.jpg">August 31 at 7:06 AM</a></p>
+ <p><a href="https://archive.org/download/levernews-2022/levernews-2022-08-31T07:06:52.115166-06:00.jpg">August 31 at 12:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/levernews-2022/levernews-2022-08-30T18:03:05.988446-06:00.jpg">
   <img src="https://archive.org/download/levernews-2022/levernews-2022-08-30T18:03:05.988446-06:00.jpg"
-     alt="Lever at 2022-08-30 18:03:07-06:00 local time"
+     alt="Lever at 2022-08-30 11:03:07-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/levernews-2022/levernews-2022-08-30T18:03:05.988446-06:00.jpg">August 30 at 6:03 PM</a></p>
+ <p><a href="https://archive.org/download/levernews-2022/levernews-2022-08-30T18:03:05.988446-06:00.jpg">August 30 at 11:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/levernews-2022/levernews-2022-08-30T12:34:29.551259-06:00.jpg">
   <img src="https://archive.org/download/levernews-2022/levernews-2022-08-30T12:34:29.551259-06:00.jpg"
-     alt="Lever at 2022-08-30 12:34:31-06:00 local time"
+     alt="Lever at 2022-08-30 05:34:31-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/levernews-2022/levernews-2022-08-30T12:34:29.551259-06:00.jpg">August 30 at 12:34 PM</a></p>
+ <p><a href="https://archive.org/download/levernews-2022/levernews-2022-08-30T12:34:29.551259-06:00.jpg">August 30 at 5:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/levernews-2022/levernews-2022-08-30T06:10:25.696573-06:00.jpg">
   <img src="https://archive.org/download/levernews-2022/levernews-2022-08-30T06:10:25.696573-06:00.jpg"
-     alt="Lever at 2022-08-30 06:10:29-06:00 local time"
+     alt="Lever at 2022-08-29 23:10:29-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/levernews-2022/levernews-2022-08-30T06:10:25.696573-06:00.jpg">August 30 at 6:10 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/levernews-2022/levernews-2022-08-29T17:53:42.063156-06:00.jpg">
-  <img src="https://archive.org/download/levernews-2022/levernews-2022-08-29T17:53:42.063156-06:00.jpg"
-     alt="Lever at 2022-08-29 17:53:44-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/levernews-2022/levernews-2022-08-29T17:53:42.063156-06:00.jpg">August 29 at 5:53 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/levernews-2022/levernews-2022-08-29T12:29:09.891508-06:00.jpg">
-  <img src="https://archive.org/download/levernews-2022/levernews-2022-08-29T12:29:09.891508-06:00.jpg"
-     alt="Lever at 2022-08-29 12:29:11-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/levernews-2022/levernews-2022-08-29T12:29:09.891508-06:00.jpg">August 29 at 12:29 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/levernews-2022/levernews-2022-08-29T05:59:23.422111-06:00.jpg">
-  <img src="https://archive.org/download/levernews-2022/levernews-2022-08-29T05:59:23.422111-06:00.jpg"
-     alt="Lever at 2022-08-29 05:59:25-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/levernews-2022/levernews-2022-08-29T05:59:23.422111-06:00.jpg">August 29 at 5:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/levernews-2022/levernews-2022-08-28T17:50:25.268379-06:00.jpg">
-  <img src="https://archive.org/download/levernews-2022/levernews-2022-08-28T17:50:25.268379-06:00.jpg"
-     alt="Lever at 2022-08-28 17:50:27-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/levernews-2022/levernews-2022-08-28T17:50:25.268379-06:00.jpg">August 28 at 5:50 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/levernews-2022/levernews-2022-08-28T12:28:49.991381-06:00.jpg">
-  <img src="https://archive.org/download/levernews-2022/levernews-2022-08-28T12:28:49.991381-06:00.jpg"
-     alt="Lever at 2022-08-28 12:28:53-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/levernews-2022/levernews-2022-08-28T12:28:49.991381-06:00.jpg">August 28 at 12:28 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/levernews-2022/levernews-2022-08-28T06:00:48.952191-06:00.jpg">
-  <img src="https://archive.org/download/levernews-2022/levernews-2022-08-28T06:00:48.952191-06:00.jpg"
-     alt="Lever at 2022-08-28 06:00:50-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/levernews-2022/levernews-2022-08-28T06:00:48.952191-06:00.jpg">August 28 at 6:00 AM</a></p>
+ <p><a href="https://archive.org/download/levernews-2022/levernews-2022-08-30T06:10:25.696573-06:00.jpg">August 29 at 11:10 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 26 hyperlink lists with the Internet Archive.
+The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/levernews.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 31 at 5:53 PM](https://archive.org/download/levernews-2022/levernews-2022-08-31T17:53:45.408508-06:00.hyperlinks.json) |
-| [August 31 at 12:36 PM](https://archive.org/download/levernews-2022/levernews-2022-08-31T12:36:04.537394-06:00.hyperlinks.json) |
-| [August 31 at 7:06 AM](https://archive.org/download/levernews-2022/levernews-2022-08-31T07:06:52.115166-06:00.hyperlinks.json) |
-| [August 30 at 6:03 PM](https://archive.org/download/levernews-2022/levernews-2022-08-30T18:03:05.988446-06:00.hyperlinks.json) |
-| [August 30 at 12:34 PM](https://archive.org/download/levernews-2022/levernews-2022-08-30T12:34:29.551259-06:00.hyperlinks.json) |
-| [August 30 at 6:10 AM](https://archive.org/download/levernews-2022/levernews-2022-08-30T06:10:25.696573-06:00.hyperlinks.json) |
-| [August 29 at 5:53 PM](https://archive.org/download/levernews-2022/levernews-2022-08-29T17:53:42.063156-06:00.hyperlinks.json) |
-| [August 29 at 12:29 PM](https://archive.org/download/levernews-2022/levernews-2022-08-29T12:29:09.891508-06:00.hyperlinks.json) |
-| [August 29 at 5:59 AM](https://archive.org/download/levernews-2022/levernews-2022-08-29T05:59:23.422111-06:00.hyperlinks.json) |
-| [August 28 at 5:50 PM](https://archive.org/download/levernews-2022/levernews-2022-08-28T17:50:25.268379-06:00.hyperlinks.json) |
+| [September 2 at 11:01 AM](https://archive.org/download/levernews-2022/levernews-2022-09-02T18:01:31.751927-06:00.hyperlinks.json) |
+| [September 2 at 5:30 AM](https://archive.org/download/levernews-2022/levernews-2022-09-02T12:30:10.311150-06:00.hyperlinks.json) |
+| [September 1 at 11:04 PM](https://archive.org/download/levernews-2022/levernews-2022-09-02T06:04:24.319737-06:00.hyperlinks.json) |
+| [September 1 at 11:01 AM](https://archive.org/download/levernews-2022/levernews-2022-09-01T18:01:41.306324-06:00.hyperlinks.json) |
+| [September 1 at 5:31 AM](https://archive.org/download/levernews-2022/levernews-2022-09-01T12:31:23.135244-06:00.hyperlinks.json) |
+| [August 31 at 11:14 PM](https://archive.org/download/levernews-2022/levernews-2022-09-01T06:14:18.112652-06:00.hyperlinks.json) |
+| [August 31 at 10:53 AM](https://archive.org/download/levernews-2022/levernews-2022-08-31T17:53:45.408508-06:00.hyperlinks.json) |
+| [August 31 at 5:36 AM](https://archive.org/download/levernews-2022/levernews-2022-08-31T12:36:04.537394-06:00.hyperlinks.json) |
+| [August 31 at 12:06 AM](https://archive.org/download/levernews-2022/levernews-2022-08-31T07:06:52.115166-06:00.hyperlinks.json) |
+| [August 30 at 11:03 AM](https://archive.org/download/levernews-2022/levernews-2022-08-30T18:03:05.988446-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 26 accessibility trees with the Internet Archive.
+The archiving routine has saved 32 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/levernews.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 31 at 5:53 PM](https://archive.org/download/levernews-2022/levernews-2022-08-31T17:53:45.408508-06:00.accessibility.json) |
-| [August 31 at 12:36 PM](https://archive.org/download/levernews-2022/levernews-2022-08-31T12:36:04.537394-06:00.accessibility.json) |
-| [August 31 at 7:06 AM](https://archive.org/download/levernews-2022/levernews-2022-08-31T07:06:52.115166-06:00.accessibility.json) |
-| [August 30 at 6:03 PM](https://archive.org/download/levernews-2022/levernews-2022-08-30T18:03:05.988446-06:00.accessibility.json) |
-| [August 30 at 12:34 PM](https://archive.org/download/levernews-2022/levernews-2022-08-30T12:34:29.551259-06:00.accessibility.json) |
-| [August 30 at 6:10 AM](https://archive.org/download/levernews-2022/levernews-2022-08-30T06:10:25.696573-06:00.accessibility.json) |
-| [August 29 at 5:53 PM](https://archive.org/download/levernews-2022/levernews-2022-08-29T17:53:42.063156-06:00.accessibility.json) |
-| [August 29 at 12:29 PM](https://archive.org/download/levernews-2022/levernews-2022-08-29T12:29:09.891508-06:00.accessibility.json) |
-| [August 29 at 5:59 AM](https://archive.org/download/levernews-2022/levernews-2022-08-29T05:59:23.422111-06:00.accessibility.json) |
-| [August 28 at 5:50 PM](https://archive.org/download/levernews-2022/levernews-2022-08-28T17:50:25.268379-06:00.accessibility.json) |
+| [September 2 at 11:01 AM](https://archive.org/download/levernews-2022/levernews-2022-09-02T18:01:31.751927-06:00.accessibility.json) |
+| [September 2 at 5:30 AM](https://archive.org/download/levernews-2022/levernews-2022-09-02T12:30:10.311150-06:00.accessibility.json) |
+| [September 1 at 11:04 PM](https://archive.org/download/levernews-2022/levernews-2022-09-02T06:04:24.319737-06:00.accessibility.json) |
+| [September 1 at 11:01 AM](https://archive.org/download/levernews-2022/levernews-2022-09-01T18:01:41.306324-06:00.accessibility.json) |
+| [September 1 at 5:31 AM](https://archive.org/download/levernews-2022/levernews-2022-09-01T12:31:23.135244-06:00.accessibility.json) |
+| [August 31 at 11:14 PM](https://archive.org/download/levernews-2022/levernews-2022-09-01T06:14:18.112652-06:00.accessibility.json) |
+| [August 31 at 10:53 AM](https://archive.org/download/levernews-2022/levernews-2022-08-31T17:53:45.408508-06:00.accessibility.json) |
+| [August 31 at 5:36 AM](https://archive.org/download/levernews-2022/levernews-2022-08-31T12:36:04.537394-06:00.accessibility.json) |
+| [August 31 at 12:06 AM](https://archive.org/download/levernews-2022/levernews-2022-08-31T07:06:52.115166-06:00.accessibility.json) |
+| [August 30 at 11:03 AM](https://archive.org/download/levernews-2022/levernews-2022-08-30T18:03:05.988446-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/levernews.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 31 at 5:53 PM](https://archive.org/download/levernews-2022/levernews-2022-08-31T17:53:45.408508-06:00.lighthouse.json) |
-| [August 31 at 12:36 PM](https://archive.org/download/levernews-2022/levernews-2022-08-31T12:36:04.537394-06:00.lighthouse.json) |
-| [August 31 at 7:06 AM](https://archive.org/download/levernews-2022/levernews-2022-08-31T07:06:52.115166-06:00.lighthouse.json) |
-| [August 30 at 6:03 PM](https://archive.org/download/levernews-2022/levernews-2022-08-30T18:03:05.988446-06:00.lighthouse.json) |
-| [August 30 at 12:34 PM](https://archive.org/download/levernews-2022/levernews-2022-08-30T12:34:29.551259-06:00.lighthouse.json) |
-| [August 30 at 6:10 AM](https://archive.org/download/levernews-2022/levernews-2022-08-30T06:10:25.696573-06:00.lighthouse.json) |
-| [August 29 at 5:53 PM](https://archive.org/download/levernews-2022/levernews-2022-08-29T17:53:42.063156-06:00.lighthouse.json) |
-| [August 29 at 12:29 PM](https://archive.org/download/levernews-2022/levernews-2022-08-29T12:29:09.891508-06:00.lighthouse.json) |
-| [August 29 at 5:59 AM](https://archive.org/download/levernews-2022/levernews-2022-08-29T05:59:23.422111-06:00.lighthouse.json) |
-| [August 28 at 5:50 PM](https://archive.org/download/levernews-2022/levernews-2022-08-28T17:50:25.268379-06:00.lighthouse.json) |
+| [September 2 at 11:01 AM](https://archive.org/download/levernews-2022/levernews-2022-09-02T18:01:31.751927-06:00.lighthouse.json) |
+| [September 2 at 5:30 AM](https://archive.org/download/levernews-2022/levernews-2022-09-02T12:30:10.311150-06:00.lighthouse.json) |
+| [September 1 at 11:04 PM](https://archive.org/download/levernews-2022/levernews-2022-09-02T06:04:24.319737-06:00.lighthouse.json) |
+| [September 1 at 11:01 AM](https://archive.org/download/levernews-2022/levernews-2022-09-01T18:01:41.306324-06:00.lighthouse.json) |
+| [September 1 at 5:31 AM](https://archive.org/download/levernews-2022/levernews-2022-09-01T12:31:23.135244-06:00.lighthouse.json) |
+| [August 31 at 11:14 PM](https://archive.org/download/levernews-2022/levernews-2022-09-01T06:14:18.112652-06:00.lighthouse.json) |
+| [August 31 at 10:53 AM](https://archive.org/download/levernews-2022/levernews-2022-08-31T17:53:45.408508-06:00.lighthouse.json) |
+| [August 31 at 5:36 AM](https://archive.org/download/levernews-2022/levernews-2022-08-31T12:36:04.537394-06:00.lighthouse.json) |
+| [August 31 at 12:06 AM](https://archive.org/download/levernews-2022/levernews-2022-08-31T07:06:52.115166-06:00.lighthouse.json) |
+| [August 30 at 11:03 AM](https://archive.org/download/levernews-2022/levernews-2022-08-30T18:03:05.988446-06:00.lighthouse.json) |
 
 
 

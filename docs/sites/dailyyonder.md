@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 105 screenshots with the Internet Archive.
+The archiving routine has saved 109 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-31T11:01:15.644774-04:00.jpg">
-  <img src="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-31T11:01:15.644774-04:00.jpg"
-     alt="Daily Yonder at 2022-08-31 11:01:21-04:00 local time"
+ <a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-02T11:02:18.120107-04:00.jpg">
+  <img src="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-02T11:02:18.120107-04:00.jpg"
+     alt="Daily Yonder at 2022-09-02 04:02:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-31T11:01:15.644774-04:00.jpg">August 31 at 11:01 AM</a></p>
+ <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-02T11:02:18.120107-04:00.jpg">September 2 at 4:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-01T22:30:50.426816-04:00.jpg">
+  <img src="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-01T22:30:50.426816-04:00.jpg"
+     alt="Daily Yonder at 2022-09-01 15:30:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-01T22:30:50.426816-04:00.jpg">September 1 at 3:30 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-01T11:09:51.078232-04:00.jpg">
+  <img src="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-01T11:09:51.078232-04:00.jpg"
+     alt="Daily Yonder at 2022-09-01 04:09:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-01T11:09:51.078232-04:00.jpg">September 1 at 4:09 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-31T22:29:41.539885-04:00.jpg">
+  <img src="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-31T22:29:41.539885-04:00.jpg"
+     alt="Daily Yonder at 2022-08-31 15:29:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-31T22:29:41.539885-04:00.jpg">August 31 at 3:29 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-31T11:01:15.644774-04:00.jpg">
+  <img src="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-31T11:01:15.644774-04:00.jpg"
+     alt="Daily Yonder at 2022-08-31 04:01:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-31T11:01:15.644774-04:00.jpg">August 31 at 4:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-30T22:26:34.420737-04:00.jpg">
   <img src="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-30T22:26:34.420737-04:00.jpg"
-     alt="Daily Yonder at 2022-08-30 22:26:35-04:00 local time"
+     alt="Daily Yonder at 2022-08-30 15:26:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-30T22:26:34.420737-04:00.jpg">August 30 at 10:26 PM</a></p>
+ <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-30T22:26:34.420737-04:00.jpg">August 30 at 3:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-30T11:22:31.207971-04:00.jpg">
   <img src="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-30T11:22:31.207971-04:00.jpg"
-     alt="Daily Yonder at 2022-08-30 11:22:34-04:00 local time"
+     alt="Daily Yonder at 2022-08-30 04:22:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-30T11:22:31.207971-04:00.jpg">August 30 at 11:22 AM</a></p>
+ <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-30T11:22:31.207971-04:00.jpg">August 30 at 4:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-29T22:30:33.722844-04:00.jpg">
   <img src="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-29T22:30:33.722844-04:00.jpg"
-     alt="Daily Yonder at 2022-08-29 22:30:36-04:00 local time"
+     alt="Daily Yonder at 2022-08-29 15:30:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-29T22:30:33.722844-04:00.jpg">August 29 at 10:30 PM</a></p>
+ <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-29T22:30:33.722844-04:00.jpg">August 29 at 3:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-29T10:09:25.340064-04:00.jpg">
   <img src="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-29T10:09:25.340064-04:00.jpg"
-     alt="Daily Yonder at 2022-08-29 10:09:37-04:00 local time"
+     alt="Daily Yonder at 2022-08-29 03:09:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-29T10:09:25.340064-04:00.jpg">August 29 at 10:09 AM</a></p>
+ <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-29T10:09:25.340064-04:00.jpg">August 29 at 3:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-28T22:26:24.957832-04:00.jpg">
   <img src="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-28T22:26:24.957832-04:00.jpg"
-     alt="Daily Yonder at 2022-08-28 22:26:26-04:00 local time"
+     alt="Daily Yonder at 2022-08-28 15:26:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-28T22:26:24.957832-04:00.jpg">August 28 at 10:26 PM</a></p>
+ <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-28T22:26:24.957832-04:00.jpg">August 28 at 3:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-28T10:03:14.543697-04:00.jpg">
   <img src="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-28T10:03:14.543697-04:00.jpg"
-     alt="Daily Yonder at 2022-08-28 10:03:18-04:00 local time"
+     alt="Daily Yonder at 2022-08-28 03:03:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-28T10:03:14.543697-04:00.jpg">August 28 at 10:03 AM</a></p>
+ <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-28T10:03:14.543697-04:00.jpg">August 28 at 3:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-27T22:28:00.081196-04:00.jpg">
   <img src="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-27T22:28:00.081196-04:00.jpg"
-     alt="Daily Yonder at 2022-08-27 22:28:01-04:00 local time"
+     alt="Daily Yonder at 2022-08-27 15:28:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-27T22:28:00.081196-04:00.jpg">August 27 at 10:28 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-27T09:59:23.548512-04:00.jpg">
-  <img src="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-27T09:59:23.548512-04:00.jpg"
-     alt="Daily Yonder at 2022-08-27 09:59:32-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-27T09:59:23.548512-04:00.jpg">August 27 at 9:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-26T22:21:55.069319-04:00.jpg">
-  <img src="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-26T22:21:55.069319-04:00.jpg"
-     alt="Daily Yonder at 2022-08-26 22:21:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-26T22:21:55.069319-04:00.jpg">August 26 at 10:21 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-26T10:05:57.264547-04:00.jpg">
-  <img src="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-26T10:05:57.264547-04:00.jpg"
-     alt="Daily Yonder at 2022-08-26 10:06:01-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-26T10:05:57.264547-04:00.jpg">August 26 at 10:06 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-25T22:24:50.896422-04:00.jpg">
-  <img src="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-25T22:24:50.896422-04:00.jpg"
-     alt="Daily Yonder at 2022-08-25 22:24:52-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-25T22:24:50.896422-04:00.jpg">August 25 at 10:24 PM</a></p>
+ <p><a href="https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-27T22:28:00.081196-04:00.jpg">August 27 at 3:28 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 107 hyperlink lists with the Internet Archive.
+The archiving routine has saved 111 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 31 at 11:01 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-31T11:01:15.644774-04:00.hyperlinks.json) |
-| [August 30 at 10:26 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-30T22:26:34.420737-04:00.hyperlinks.json) |
-| [August 30 at 11:22 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-30T11:22:31.207971-04:00.hyperlinks.json) |
-| [August 29 at 10:30 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-29T22:30:33.722844-04:00.hyperlinks.json) |
-| [August 29 at 10:09 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-29T10:09:25.340064-04:00.hyperlinks.json) |
-| [August 28 at 10:26 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-28T22:26:24.957832-04:00.hyperlinks.json) |
-| [August 28 at 10:03 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-28T10:03:14.543697-04:00.hyperlinks.json) |
-| [August 27 at 10:28 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-27T22:28:00.081196-04:00.hyperlinks.json) |
-| [August 27 at 9:59 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-27T09:59:23.548512-04:00.hyperlinks.json) |
-| [August 26 at 10:22 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-26T22:21:55.069319-04:00.hyperlinks.json) |
+| [September 2 at 4:02 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-02T11:02:18.120107-04:00.hyperlinks.json) |
+| [September 1 at 3:30 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-01T22:30:50.426816-04:00.hyperlinks.json) |
+| [September 1 at 4:09 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-01T11:09:51.078232-04:00.hyperlinks.json) |
+| [August 31 at 3:29 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-31T22:29:41.539885-04:00.hyperlinks.json) |
+| [August 31 at 4:01 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-31T11:01:15.644774-04:00.hyperlinks.json) |
+| [August 30 at 3:26 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-30T22:26:34.420737-04:00.hyperlinks.json) |
+| [August 30 at 4:22 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-30T11:22:31.207971-04:00.hyperlinks.json) |
+| [August 29 at 3:30 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-29T22:30:33.722844-04:00.hyperlinks.json) |
+| [August 29 at 3:09 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-29T10:09:25.340064-04:00.hyperlinks.json) |
+| [August 28 at 3:26 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-28T22:26:24.957832-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 107 accessibility trees with the Internet Archive.
+The archiving routine has saved 111 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 31 at 11:01 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-31T11:01:15.644774-04:00.accessibility.json) |
-| [August 30 at 10:26 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-30T22:26:34.420737-04:00.accessibility.json) |
-| [August 30 at 11:22 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-30T11:22:31.207971-04:00.accessibility.json) |
-| [August 29 at 10:30 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-29T22:30:33.722844-04:00.accessibility.json) |
-| [August 29 at 10:09 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-29T10:09:25.340064-04:00.accessibility.json) |
-| [August 28 at 10:26 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-28T22:26:24.957832-04:00.accessibility.json) |
-| [August 28 at 10:03 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-28T10:03:14.543697-04:00.accessibility.json) |
-| [August 27 at 10:28 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-27T22:28:00.081196-04:00.accessibility.json) |
-| [August 27 at 9:59 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-27T09:59:23.548512-04:00.accessibility.json) |
-| [August 26 at 10:21 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-26T22:21:55.069319-04:00.accessibility.json) |
+| [September 2 at 4:02 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-02T11:02:18.120107-04:00.accessibility.json) |
+| [September 1 at 3:30 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-01T22:30:50.426816-04:00.accessibility.json) |
+| [September 1 at 4:09 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-01T11:09:51.078232-04:00.accessibility.json) |
+| [August 31 at 3:29 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-31T22:29:41.539885-04:00.accessibility.json) |
+| [August 31 at 4:01 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-31T11:01:15.644774-04:00.accessibility.json) |
+| [August 30 at 3:26 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-30T22:26:34.420737-04:00.accessibility.json) |
+| [August 30 at 4:22 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-30T11:22:31.207971-04:00.accessibility.json) |
+| [August 29 at 3:30 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-29T22:30:33.722844-04:00.accessibility.json) |
+| [August 29 at 3:09 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-29T10:09:25.340064-04:00.accessibility.json) |
+| [August 28 at 3:26 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-28T22:26:24.957832-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 77 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 81 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 31 at 11:01 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-31T11:01:15.644774-04:00.lighthouse.json) |
-| [August 30 at 10:26 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-30T22:26:34.420737-04:00.lighthouse.json) |
-| [August 30 at 11:22 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-30T11:22:31.207971-04:00.lighthouse.json) |
-| [August 29 at 10:30 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-29T22:30:33.722844-04:00.lighthouse.json) |
-| [August 29 at 10:09 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-29T10:09:25.340064-04:00.lighthouse.json) |
-| [August 28 at 10:26 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-28T22:26:24.957832-04:00.lighthouse.json) |
-| [August 28 at 10:03 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-28T10:03:14.543697-04:00.lighthouse.json) |
-| [August 27 at 10:28 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-27T22:28:00.081196-04:00.lighthouse.json) |
-| [August 27 at 9:59 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-27T09:59:23.548512-04:00.lighthouse.json) |
-| [August 26 at 10:22 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-26T22:21:55.069319-04:00.lighthouse.json) |
+| [September 2 at 4:02 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-02T11:02:18.120107-04:00.lighthouse.json) |
+| [September 1 at 3:30 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-01T22:30:50.426816-04:00.lighthouse.json) |
+| [September 1 at 4:09 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-09-01T11:09:51.078232-04:00.lighthouse.json) |
+| [August 31 at 3:29 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-31T22:29:41.539885-04:00.lighthouse.json) |
+| [August 31 at 4:01 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-31T11:01:15.644774-04:00.lighthouse.json) |
+| [August 30 at 3:26 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-30T22:26:34.420737-04:00.lighthouse.json) |
+| [August 30 at 4:22 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-30T11:22:31.207971-04:00.lighthouse.json) |
+| [August 29 at 3:30 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-29T22:30:33.722844-04:00.lighthouse.json) |
+| [August 29 at 3:09 AM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-29T10:09:25.340064-04:00.lighthouse.json) |
+| [August 28 at 3:26 PM](https://archive.org/download/dailyyonder-2022/dailyyonder-2022-08-28T22:26:24.957832-04:00.lighthouse.json) |
 
 
 

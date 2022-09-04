@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 35 screenshots with the Internet Archive.
+The archiving routine has saved 39 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,140 +326,223 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-31T09:00:36.355266-06:00.jpg">
-  <img src="https://archive.org/download/csgazette-2022/csgazette-2022-08-31T09:00:36.355266-06:00.jpg"
-     alt="Colorado Springs Gazette at 2022-08-31 09:00:38-06:00 local time"
+ <a href="https://archive.org/download/csgazette-2022/csgazette-2022-09-02T09:00:54.000450-06:00.jpg">
+  <img src="https://archive.org/download/csgazette-2022/csgazette-2022-09-02T09:00:54.000450-06:00.jpg"
+     alt="Colorado Springs Gazette at 2022-09-02 02:00:56-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-31T09:00:36.355266-06:00.jpg">August 31 at 9:00 AM</a></p>
+ <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-09-02T09:00:54.000450-06:00.jpg">September 2 at 2:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/csgazette-2022/csgazette-2022-09-01T20:28:36.958046-06:00.jpg">
+  <img src="https://archive.org/download/csgazette-2022/csgazette-2022-09-01T20:28:36.958046-06:00.jpg"
+     alt="Colorado Springs Gazette at 2022-09-01 13:28:39-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-09-01T20:28:36.958046-06:00.jpg">September 1 at 1:28 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/csgazette-2022/csgazette-2022-09-01T09:10:01.172123-06:00.jpg">
+  <img src="https://archive.org/download/csgazette-2022/csgazette-2022-09-01T09:10:01.172123-06:00.jpg"
+     alt="Colorado Springs Gazette at 2022-09-01 02:10:04-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-09-01T09:10:01.172123-06:00.jpg">September 1 at 2:10 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-31T20:28:30.245081-06:00.jpg">
+  <img src="https://archive.org/download/csgazette-2022/csgazette-2022-08-31T20:28:30.245081-06:00.jpg"
+     alt="Colorado Springs Gazette at 2022-08-31 13:28:31-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-31T20:28:30.245081-06:00.jpg">August 31 at 1:28 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-31T09:00:36.355266-06:00.jpg">
+  <img src="https://archive.org/download/csgazette-2022/csgazette-2022-08-31T09:00:36.355266-06:00.jpg"
+     alt="Colorado Springs Gazette at 2022-08-31 02:00:38-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-31T09:00:36.355266-06:00.jpg">August 31 at 2:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-30T20:25:11.384859-06:00.jpg">
   <img src="https://archive.org/download/csgazette-2022/csgazette-2022-08-30T20:25:11.384859-06:00.jpg"
-     alt="Colorado Springs Gazette at 2022-08-30 20:25:13-06:00 local time"
+     alt="Colorado Springs Gazette at 2022-08-30 13:25:13-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-30T20:25:11.384859-06:00.jpg">August 30 at 8:25 PM</a></p>
+ <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-30T20:25:11.384859-06:00.jpg">August 30 at 1:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-30T09:20:30.437705-06:00.jpg">
   <img src="https://archive.org/download/csgazette-2022/csgazette-2022-08-30T09:20:30.437705-06:00.jpg"
-     alt="Colorado Springs Gazette at 2022-08-30 09:20:32-06:00 local time"
+     alt="Colorado Springs Gazette at 2022-08-30 02:20:32-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-30T09:20:30.437705-06:00.jpg">August 30 at 9:20 AM</a></p>
+ <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-30T09:20:30.437705-06:00.jpg">August 30 at 2:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-29T20:30:14.153330-06:00.jpg">
   <img src="https://archive.org/download/csgazette-2022/csgazette-2022-08-29T20:30:14.153330-06:00.jpg"
-     alt="Colorado Springs Gazette at 2022-08-29 20:30:16-06:00 local time"
+     alt="Colorado Springs Gazette at 2022-08-29 13:30:16-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-29T20:30:14.153330-06:00.jpg">August 29 at 8:30 PM</a></p>
+ <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-29T20:30:14.153330-06:00.jpg">August 29 at 1:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-29T08:07:28.106186-06:00.jpg">
   <img src="https://archive.org/download/csgazette-2022/csgazette-2022-08-29T08:07:28.106186-06:00.jpg"
-     alt="Colorado Springs Gazette at 2022-08-29 08:07:32-06:00 local time"
+     alt="Colorado Springs Gazette at 2022-08-29 01:07:32-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-29T08:07:28.106186-06:00.jpg">August 29 at 8:07 AM</a></p>
+ <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-29T08:07:28.106186-06:00.jpg">August 29 at 1:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-28T20:24:23.618147-06:00.jpg">
   <img src="https://archive.org/download/csgazette-2022/csgazette-2022-08-28T20:24:23.618147-06:00.jpg"
-     alt="Colorado Springs Gazette at 2022-08-28 20:24:25-06:00 local time"
+     alt="Colorado Springs Gazette at 2022-08-28 13:24:25-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-28T20:24:23.618147-06:00.jpg">August 28 at 8:24 PM</a></p>
+ <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-28T20:24:23.618147-06:00.jpg">August 28 at 1:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-28T08:00:59.187183-06:00.jpg">
   <img src="https://archive.org/download/csgazette-2022/csgazette-2022-08-28T08:00:59.187183-06:00.jpg"
-     alt="Colorado Springs Gazette at 2022-08-28 08:01:02-06:00 local time"
+     alt="Colorado Springs Gazette at 2022-08-28 01:01:02-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-28T08:00:59.187183-06:00.jpg">August 28 at 8:01 AM</a></p>
+ <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-28T08:00:59.187183-06:00.jpg">August 28 at 1:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-27T20:27:14.515832-06:00.jpg">
   <img src="https://archive.org/download/csgazette-2022/csgazette-2022-08-27T20:27:14.515832-06:00.jpg"
-     alt="Colorado Springs Gazette at 2022-08-27 20:27:17-06:00 local time"
+     alt="Colorado Springs Gazette at 2022-08-27 13:27:17-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-27T20:27:14.515832-06:00.jpg">August 27 at 8:27 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-27T07:58:17.265047-06:00.jpg">
-  <img src="https://archive.org/download/csgazette-2022/csgazette-2022-08-27T07:58:17.265047-06:00.jpg"
-     alt="Colorado Springs Gazette at 2022-08-27 07:58:19-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-27T07:58:17.265047-06:00.jpg">August 27 at 7:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-26T20:21:56.766150-06:00.jpg">
-  <img src="https://archive.org/download/csgazette-2022/csgazette-2022-08-26T20:21:56.766150-06:00.jpg"
-     alt="Colorado Springs Gazette at 2022-08-26 20:21:58-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-26T20:21:56.766150-06:00.jpg">August 26 at 8:21 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-26T08:04:59.953359-06:00.jpg">
-  <img src="https://archive.org/download/csgazette-2022/csgazette-2022-08-26T08:04:59.953359-06:00.jpg"
-     alt="Colorado Springs Gazette at 2022-08-26 08:05:03-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-26T08:04:59.953359-06:00.jpg">August 26 at 8:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-25T20:24:26.924601-06:00.jpg">
-  <img src="https://archive.org/download/csgazette-2022/csgazette-2022-08-25T20:24:26.924601-06:00.jpg"
-     alt="Colorado Springs Gazette at 2022-08-25 20:24:28-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-25T20:24:26.924601-06:00.jpg">August 25 at 8:24 PM</a></p>
+ <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-27T20:27:14.515832-06:00.jpg">August 27 at 1:27 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 28 hyperlink lists with the Internet Archive.
+The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/csgazette.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 31 at 9:00 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-31T09:00:36.355266-06:00.hyperlinks.json) |
-| [August 30 at 8:25 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-30T20:25:11.384859-06:00.hyperlinks.json) |
-| [August 30 at 9:20 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-30T09:20:30.437705-06:00.hyperlinks.json) |
-| [August 29 at 8:30 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-29T20:30:14.153330-06:00.hyperlinks.json) |
-| [August 29 at 8:07 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-29T08:07:28.106186-06:00.hyperlinks.json) |
-| [August 28 at 8:24 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-28T20:24:23.618147-06:00.hyperlinks.json) |
-| [August 28 at 8:01 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-28T08:00:59.187183-06:00.hyperlinks.json) |
-| [August 27 at 8:27 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-27T20:27:14.515832-06:00.hyperlinks.json) |
-| [August 27 at 7:58 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-27T07:58:17.265047-06:00.hyperlinks.json) |
-| [August 26 at 8:22 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-26T20:21:56.766150-06:00.hyperlinks.json) |
+| [September 2 at 2:01 AM](https://archive.org/download/csgazette-2022/csgazette-2022-09-02T09:00:54.000450-06:00.hyperlinks.json) |
+| [September 1 at 1:28 PM](https://archive.org/download/csgazette-2022/csgazette-2022-09-01T20:28:36.958046-06:00.hyperlinks.json) |
+| [September 1 at 2:10 AM](https://archive.org/download/csgazette-2022/csgazette-2022-09-01T09:10:01.172123-06:00.hyperlinks.json) |
+| [August 31 at 1:28 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-31T20:28:30.245081-06:00.hyperlinks.json) |
+| [August 31 at 2:00 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-31T09:00:36.355266-06:00.hyperlinks.json) |
+| [August 30 at 1:25 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-30T20:25:11.384859-06:00.hyperlinks.json) |
+| [August 30 at 2:20 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-30T09:20:30.437705-06:00.hyperlinks.json) |
+| [August 29 at 1:30 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-29T20:30:14.153330-06:00.hyperlinks.json) |
+| [August 29 at 1:07 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-29T08:07:28.106186-06:00.hyperlinks.json) |
+| [August 28 at 1:24 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-28T20:24:23.618147-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 24 accessibility trees with the Internet Archive.
+The archiving routine has saved 28 accessibility trees with the Internet Archive.
 
 
 
@@ -467,22 +550,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 31 at 9:00 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-31T09:00:36.355266-06:00.accessibility.json) |
-| [August 30 at 8:25 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-30T20:25:11.384859-06:00.accessibility.json) |
-| [August 30 at 9:20 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-30T09:20:30.437705-06:00.accessibility.json) |
-| [August 29 at 8:30 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-29T20:30:14.153330-06:00.accessibility.json) |
-| [August 29 at 8:07 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-29T08:07:28.106186-06:00.accessibility.json) |
-| [August 28 at 8:24 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-28T20:24:23.618147-06:00.accessibility.json) |
-| [August 28 at 8:01 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-28T08:00:59.187183-06:00.accessibility.json) |
-| [August 27 at 8:27 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-27T20:27:14.515832-06:00.accessibility.json) |
-| [August 27 at 7:58 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-27T07:58:17.265047-06:00.accessibility.json) |
-| [August 26 at 8:21 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-26T20:21:56.766150-06:00.accessibility.json) |
+| [September 2 at 2:01 AM](https://archive.org/download/csgazette-2022/csgazette-2022-09-02T09:00:54.000450-06:00.accessibility.json) |
+| [September 1 at 1:28 PM](https://archive.org/download/csgazette-2022/csgazette-2022-09-01T20:28:36.958046-06:00.accessibility.json) |
+| [September 1 at 2:10 AM](https://archive.org/download/csgazette-2022/csgazette-2022-09-01T09:10:01.172123-06:00.accessibility.json) |
+| [August 31 at 1:28 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-31T20:28:30.245081-06:00.accessibility.json) |
+| [August 31 at 2:00 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-31T09:00:36.355266-06:00.accessibility.json) |
+| [August 30 at 1:25 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-30T20:25:11.384859-06:00.accessibility.json) |
+| [August 30 at 2:20 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-30T09:20:30.437705-06:00.accessibility.json) |
+| [August 29 at 1:30 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-29T20:30:14.153330-06:00.accessibility.json) |
+| [August 29 at 1:07 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-29T08:07:28.106186-06:00.accessibility.json) |
+| [August 28 at 1:24 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-28T20:24:23.618147-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -490,16 +573,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 31 at 9:00 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-31T09:00:36.355266-06:00.lighthouse.json) |
-| [August 30 at 8:25 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-30T20:25:11.384859-06:00.lighthouse.json) |
-| [August 30 at 9:20 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-30T09:20:30.437705-06:00.lighthouse.json) |
-| [August 29 at 8:30 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-29T20:30:14.153330-06:00.lighthouse.json) |
-| [August 29 at 8:07 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-29T08:07:28.106186-06:00.lighthouse.json) |
-| [August 28 at 8:24 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-28T20:24:23.618147-06:00.lighthouse.json) |
-| [August 28 at 8:01 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-28T08:00:59.187183-06:00.lighthouse.json) |
-| [August 27 at 8:27 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-27T20:27:14.515832-06:00.lighthouse.json) |
-| [August 27 at 7:58 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-27T07:58:17.265047-06:00.lighthouse.json) |
-| [August 26 at 8:22 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-26T20:21:56.766150-06:00.lighthouse.json) |
+| [September 2 at 2:01 AM](https://archive.org/download/csgazette-2022/csgazette-2022-09-02T09:00:54.000450-06:00.lighthouse.json) |
+| [September 1 at 1:28 PM](https://archive.org/download/csgazette-2022/csgazette-2022-09-01T20:28:36.958046-06:00.lighthouse.json) |
+| [September 1 at 2:10 AM](https://archive.org/download/csgazette-2022/csgazette-2022-09-01T09:10:01.172123-06:00.lighthouse.json) |
+| [August 31 at 1:28 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-31T20:28:30.245081-06:00.lighthouse.json) |
+| [August 31 at 2:00 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-31T09:00:36.355266-06:00.lighthouse.json) |
+| [August 30 at 1:25 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-30T20:25:11.384859-06:00.lighthouse.json) |
+| [August 30 at 2:20 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-30T09:20:30.437705-06:00.lighthouse.json) |
+| [August 29 at 1:30 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-29T20:30:14.153330-06:00.lighthouse.json) |
+| [August 29 at 1:07 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-29T08:07:28.106186-06:00.lighthouse.json) |
+| [August 28 at 1:24 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-28T20:24:23.618147-06:00.lighthouse.json) |
 
 
 

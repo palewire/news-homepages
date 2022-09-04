@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 421 screenshots with the Internet Archive.
+The archiving routine has saved 427 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/ft-2022/ft-2022-08-31T16:05:30.454845+01:00.jpg">
-  <img src="https://archive.org/download/ft-2022/ft-2022-08-31T16:05:30.454845+01:00.jpg"
-     alt="Financial Times at 2022-08-31 16:05:33+01:00 local time"
+ <a href="https://archive.org/download/ft-2022/ft-2022-09-02T16:05:18.332072+01:00.jpg">
+  <img src="https://archive.org/download/ft-2022/ft-2022-09-02T16:05:18.332072+01:00.jpg"
+     alt="Financial Times at 2022-09-02 09:05:47+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-08-31T16:05:30.454845+01:00.jpg">August 31 at 4:05 PM</a></p>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-09-02T16:05:18.332072+01:00.jpg">September 2 at 9:05 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ft-2022/ft-2022-09-02T10:19:16.310170+01:00.jpg">
+  <img src="https://archive.org/download/ft-2022/ft-2022-09-02T10:19:16.310170+01:00.jpg"
+     alt="Financial Times at 2022-09-02 03:19:18+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-09-02T10:19:16.310170+01:00.jpg">September 2 at 3:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ft-2022/ft-2022-09-02T04:46:49.339296+01:00.jpg">
+  <img src="https://archive.org/download/ft-2022/ft-2022-09-02T04:46:49.339296+01:00.jpg"
+     alt="Financial Times at 2022-09-01 21:47:18+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-09-02T04:46:49.339296+01:00.jpg">September 1 at 9:47 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ft-2022/ft-2022-09-01T16:19:17.822219+01:00.jpg">
+  <img src="https://archive.org/download/ft-2022/ft-2022-09-01T16:19:17.822219+01:00.jpg"
+     alt="Financial Times at 2022-09-01 09:19:38+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-09-01T16:19:17.822219+01:00.jpg">September 1 at 9:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ft-2022/ft-2022-09-01T10:19:23.380615+01:00.jpg">
+  <img src="https://archive.org/download/ft-2022/ft-2022-09-01T10:19:23.380615+01:00.jpg"
+     alt="Financial Times at 2022-09-01 03:19:36+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-09-01T10:19:23.380615+01:00.jpg">September 1 at 3:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ft-2022/ft-2022-09-01T04:43:59.117610+01:00.jpg">
+  <img src="https://archive.org/download/ft-2022/ft-2022-09-01T04:43:59.117610+01:00.jpg"
+     alt="Financial Times at 2022-08-31 21:44:01+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-09-01T04:43:59.117610+01:00.jpg">August 31 at 9:44 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ft-2022/ft-2022-08-31T16:05:30.454845+01:00.jpg">
+  <img src="https://archive.org/download/ft-2022/ft-2022-08-31T16:05:30.454845+01:00.jpg"
+     alt="Financial Times at 2022-08-31 09:05:33+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-08-31T16:05:30.454845+01:00.jpg">August 31 at 9:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ft-2022/ft-2022-08-31T10:18:53.059247+01:00.jpg">
   <img src="https://archive.org/download/ft-2022/ft-2022-08-31T10:18:53.059247+01:00.jpg"
-     alt="Financial Times at 2022-08-31 10:18:55+01:00 local time"
+     alt="Financial Times at 2022-08-31 03:18:55+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-08-31T10:18:53.059247+01:00.jpg">August 31 at 10:18 AM</a></p>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-08-31T10:18:53.059247+01:00.jpg">August 31 at 3:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ft-2022/ft-2022-08-31T04:46:18.240189+01:00.jpg">
   <img src="https://archive.org/download/ft-2022/ft-2022-08-31T04:46:18.240189+01:00.jpg"
-     alt="Financial Times at 2022-08-31 04:46:20+01:00 local time"
+     alt="Financial Times at 2022-08-30 21:46:20+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-08-31T04:46:18.240189+01:00.jpg">August 31 at 4:46 AM</a></p>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-08-31T04:46:18.240189+01:00.jpg">August 30 at 9:46 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ft-2022/ft-2022-08-30T16:25:43.971359+01:00.jpg">
   <img src="https://archive.org/download/ft-2022/ft-2022-08-30T16:25:43.971359+01:00.jpg"
-     alt="Financial Times at 2022-08-30 16:25:58+01:00 local time"
+     alt="Financial Times at 2022-08-30 09:25:58+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-08-30T16:25:43.971359+01:00.jpg">August 30 at 4:25 PM</a></p>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-08-30T16:25:43.971359+01:00.jpg">August 30 at 9:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ft-2022/ft-2022-08-30T10:18:28.038417+01:00.jpg">
   <img src="https://archive.org/download/ft-2022/ft-2022-08-30T10:18:28.038417+01:00.jpg"
-     alt="Financial Times at 2022-08-30 10:18:36+01:00 local time"
+     alt="Financial Times at 2022-08-30 03:18:36+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-08-30T10:18:28.038417+01:00.jpg">August 30 at 10:18 AM</a></p>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-08-30T10:18:28.038417+01:00.jpg">August 30 at 3:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ft-2022/ft-2022-08-30T04:51:59.353624+01:00.jpg">
   <img src="https://archive.org/download/ft-2022/ft-2022-08-30T04:51:59.353624+01:00.jpg"
-     alt="Financial Times at 2022-08-30 04:52:01+01:00 local time"
+     alt="Financial Times at 2022-08-29 21:52:01+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-08-30T04:51:59.353624+01:00.jpg">August 30 at 4:52 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ft-2022/ft-2022-08-29T16:07:02.327402+01:00.jpg">
-  <img src="https://archive.org/download/ft-2022/ft-2022-08-29T16:07:02.327402+01:00.jpg"
-     alt="Financial Times at 2022-08-29 16:07:14+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-08-29T16:07:02.327402+01:00.jpg">August 29 at 4:07 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ft-2022/ft-2022-08-29T10:15:49.082921+01:00.jpg">
-  <img src="https://archive.org/download/ft-2022/ft-2022-08-29T10:15:49.082921+01:00.jpg"
-     alt="Financial Times at 2022-08-29 10:15:51+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-08-29T10:15:49.082921+01:00.jpg">August 29 at 10:15 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ft-2022/ft-2022-08-29T04:42:53.517936+01:00.jpg">
-  <img src="https://archive.org/download/ft-2022/ft-2022-08-29T04:42:53.517936+01:00.jpg"
-     alt="Financial Times at 2022-08-29 04:43:02+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-08-29T04:42:53.517936+01:00.jpg">August 29 at 4:43 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ft-2022/ft-2022-08-28T15:54:54.252248+01:00.jpg">
-  <img src="https://archive.org/download/ft-2022/ft-2022-08-28T15:54:54.252248+01:00.jpg"
-     alt="Financial Times at 2022-08-28 15:55:04+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-08-28T15:54:54.252248+01:00.jpg">August 28 at 3:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ft-2022/ft-2022-08-28T10:17:54.129362+01:00.jpg">
-  <img src="https://archive.org/download/ft-2022/ft-2022-08-28T10:17:54.129362+01:00.jpg"
-     alt="Financial Times at 2022-08-28 10:18:03+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-08-28T10:17:54.129362+01:00.jpg">August 28 at 10:18 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ft-2022/ft-2022-08-28T04:39:34.547955+01:00.jpg">
-  <img src="https://archive.org/download/ft-2022/ft-2022-08-28T04:39:34.547955+01:00.jpg"
-     alt="Financial Times at 2022-08-28 04:39:36+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-08-28T04:39:34.547955+01:00.jpg">August 28 at 4:39 AM</a></p>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-08-30T04:51:59.353624+01:00.jpg">August 29 at 9:52 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 407 hyperlink lists with the Internet Archive.
+The archiving routine has saved 413 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 31 at 4:05 PM](https://archive.org/download/ft-2022/ft-2022-08-31T16:05:30.454845+01:00.hyperlinks.json) |
-| [August 31 at 10:18 AM](https://archive.org/download/ft-2022/ft-2022-08-31T10:18:53.059247+01:00.hyperlinks.json) |
-| [August 31 at 4:46 AM](https://archive.org/download/ft-2022/ft-2022-08-31T04:46:18.240189+01:00.hyperlinks.json) |
-| [August 30 at 4:26 PM](https://archive.org/download/ft-2022/ft-2022-08-30T16:25:43.971359+01:00.hyperlinks.json) |
-| [August 30 at 10:18 AM](https://archive.org/download/ft-2022/ft-2022-08-30T10:18:28.038417+01:00.hyperlinks.json) |
-| [August 30 at 4:52 AM](https://archive.org/download/ft-2022/ft-2022-08-30T04:51:59.353624+01:00.hyperlinks.json) |
-| [August 29 at 4:07 PM](https://archive.org/download/ft-2022/ft-2022-08-29T16:07:02.327402+01:00.hyperlinks.json) |
-| [August 29 at 10:15 AM](https://archive.org/download/ft-2022/ft-2022-08-29T10:15:49.082921+01:00.hyperlinks.json) |
-| [August 29 at 4:43 AM](https://archive.org/download/ft-2022/ft-2022-08-29T04:42:53.517936+01:00.hyperlinks.json) |
-| [August 28 at 3:55 PM](https://archive.org/download/ft-2022/ft-2022-08-28T15:54:54.252248+01:00.hyperlinks.json) |
+| [September 2 at 9:05 AM](https://archive.org/download/ft-2022/ft-2022-09-02T16:05:18.332072+01:00.hyperlinks.json) |
+| [September 2 at 3:19 AM](https://archive.org/download/ft-2022/ft-2022-09-02T10:19:16.310170+01:00.hyperlinks.json) |
+| [September 1 at 9:47 PM](https://archive.org/download/ft-2022/ft-2022-09-02T04:46:49.339296+01:00.hyperlinks.json) |
+| [September 1 at 9:19 AM](https://archive.org/download/ft-2022/ft-2022-09-01T16:19:17.822219+01:00.hyperlinks.json) |
+| [September 1 at 3:19 AM](https://archive.org/download/ft-2022/ft-2022-09-01T10:19:23.380615+01:00.hyperlinks.json) |
+| [August 31 at 9:44 PM](https://archive.org/download/ft-2022/ft-2022-09-01T04:43:59.117610+01:00.hyperlinks.json) |
+| [August 31 at 9:05 AM](https://archive.org/download/ft-2022/ft-2022-08-31T16:05:30.454845+01:00.hyperlinks.json) |
+| [August 31 at 3:18 AM](https://archive.org/download/ft-2022/ft-2022-08-31T10:18:53.059247+01:00.hyperlinks.json) |
+| [August 30 at 9:46 PM](https://archive.org/download/ft-2022/ft-2022-08-31T04:46:18.240189+01:00.hyperlinks.json) |
+| [August 30 at 9:26 AM](https://archive.org/download/ft-2022/ft-2022-08-30T16:25:43.971359+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 408 accessibility trees with the Internet Archive.
+The archiving routine has saved 414 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 31 at 4:05 PM](https://archive.org/download/ft-2022/ft-2022-08-31T16:05:30.454845+01:00.accessibility.json) |
-| [August 31 at 10:18 AM](https://archive.org/download/ft-2022/ft-2022-08-31T10:18:53.059247+01:00.accessibility.json) |
-| [August 31 at 4:46 AM](https://archive.org/download/ft-2022/ft-2022-08-31T04:46:18.240189+01:00.accessibility.json) |
-| [August 30 at 4:26 PM](https://archive.org/download/ft-2022/ft-2022-08-30T16:25:43.971359+01:00.accessibility.json) |
-| [August 30 at 10:18 AM](https://archive.org/download/ft-2022/ft-2022-08-30T10:18:28.038417+01:00.accessibility.json) |
-| [August 30 at 4:52 AM](https://archive.org/download/ft-2022/ft-2022-08-30T04:51:59.353624+01:00.accessibility.json) |
-| [August 29 at 4:07 PM](https://archive.org/download/ft-2022/ft-2022-08-29T16:07:02.327402+01:00.accessibility.json) |
-| [August 29 at 10:15 AM](https://archive.org/download/ft-2022/ft-2022-08-29T10:15:49.082921+01:00.accessibility.json) |
-| [August 29 at 4:43 AM](https://archive.org/download/ft-2022/ft-2022-08-29T04:42:53.517936+01:00.accessibility.json) |
-| [August 28 at 3:55 PM](https://archive.org/download/ft-2022/ft-2022-08-28T15:54:54.252248+01:00.accessibility.json) |
+| [September 2 at 9:05 AM](https://archive.org/download/ft-2022/ft-2022-09-02T16:05:18.332072+01:00.accessibility.json) |
+| [September 2 at 3:19 AM](https://archive.org/download/ft-2022/ft-2022-09-02T10:19:16.310170+01:00.accessibility.json) |
+| [September 1 at 9:47 PM](https://archive.org/download/ft-2022/ft-2022-09-02T04:46:49.339296+01:00.accessibility.json) |
+| [September 1 at 9:19 AM](https://archive.org/download/ft-2022/ft-2022-09-01T16:19:17.822219+01:00.accessibility.json) |
+| [September 1 at 3:19 AM](https://archive.org/download/ft-2022/ft-2022-09-01T10:19:23.380615+01:00.accessibility.json) |
+| [August 31 at 9:44 PM](https://archive.org/download/ft-2022/ft-2022-09-01T04:43:59.117610+01:00.accessibility.json) |
+| [August 31 at 9:05 AM](https://archive.org/download/ft-2022/ft-2022-08-31T16:05:30.454845+01:00.accessibility.json) |
+| [August 31 at 3:18 AM](https://archive.org/download/ft-2022/ft-2022-08-31T10:18:53.059247+01:00.accessibility.json) |
+| [August 30 at 9:46 PM](https://archive.org/download/ft-2022/ft-2022-08-31T04:46:18.240189+01:00.accessibility.json) |
+| [August 30 at 9:26 AM](https://archive.org/download/ft-2022/ft-2022-08-30T16:25:43.971359+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 114 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 120 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 31 at 4:05 PM](https://archive.org/download/ft-2022/ft-2022-08-31T16:05:30.454845+01:00.lighthouse.json) |
-| [August 31 at 10:19 AM](https://archive.org/download/ft-2022/ft-2022-08-31T10:18:53.059247+01:00.lighthouse.json) |
-| [August 31 at 4:46 AM](https://archive.org/download/ft-2022/ft-2022-08-31T04:46:18.240189+01:00.lighthouse.json) |
-| [August 30 at 4:26 PM](https://archive.org/download/ft-2022/ft-2022-08-30T16:25:43.971359+01:00.lighthouse.json) |
-| [August 30 at 10:18 AM](https://archive.org/download/ft-2022/ft-2022-08-30T10:18:28.038417+01:00.lighthouse.json) |
-| [August 30 at 4:52 AM](https://archive.org/download/ft-2022/ft-2022-08-30T04:51:59.353624+01:00.lighthouse.json) |
-| [August 29 at 4:07 PM](https://archive.org/download/ft-2022/ft-2022-08-29T16:07:02.327402+01:00.lighthouse.json) |
-| [August 29 at 10:15 AM](https://archive.org/download/ft-2022/ft-2022-08-29T10:15:49.082921+01:00.lighthouse.json) |
-| [August 29 at 4:43 AM](https://archive.org/download/ft-2022/ft-2022-08-29T04:42:53.517936+01:00.lighthouse.json) |
-| [August 28 at 3:55 PM](https://archive.org/download/ft-2022/ft-2022-08-28T15:54:54.252248+01:00.lighthouse.json) |
+| [September 2 at 9:05 AM](https://archive.org/download/ft-2022/ft-2022-09-02T16:05:18.332072+01:00.lighthouse.json) |
+| [September 2 at 3:19 AM](https://archive.org/download/ft-2022/ft-2022-09-02T10:19:16.310170+01:00.lighthouse.json) |
+| [September 1 at 9:47 PM](https://archive.org/download/ft-2022/ft-2022-09-02T04:46:49.339296+01:00.lighthouse.json) |
+| [September 1 at 9:19 AM](https://archive.org/download/ft-2022/ft-2022-09-01T16:19:17.822219+01:00.lighthouse.json) |
+| [September 1 at 3:19 AM](https://archive.org/download/ft-2022/ft-2022-09-01T10:19:23.380615+01:00.lighthouse.json) |
+| [August 31 at 9:44 PM](https://archive.org/download/ft-2022/ft-2022-09-01T04:43:59.117610+01:00.lighthouse.json) |
+| [August 31 at 9:05 AM](https://archive.org/download/ft-2022/ft-2022-08-31T16:05:30.454845+01:00.lighthouse.json) |
+| [August 31 at 3:19 AM](https://archive.org/download/ft-2022/ft-2022-08-31T10:18:53.059247+01:00.lighthouse.json) |
+| [August 30 at 9:46 PM](https://archive.org/download/ft-2022/ft-2022-08-31T04:46:18.240189+01:00.lighthouse.json) |
+| [August 30 at 9:26 AM](https://archive.org/download/ft-2022/ft-2022-08-30T16:25:43.971359+01:00.lighthouse.json) |
 
 
 

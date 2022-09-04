@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 266 screenshots with the Internet Archive.
+The archiving routine has saved 269 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-31T11:04:42.612508-04:00.jpg">
-  <img src="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-31T11:04:42.612508-04:00.jpg"
-     alt="Frederick News-Post at 2022-08-31 11:04:44-04:00 local time"
+ <a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-09-02T11:05:00.994688-04:00.jpg">
+  <img src="https://archive.org/download/frednewspost-2022/frednewspost-2022-09-02T11:05:00.994688-04:00.jpg"
+     alt="Frederick News-Post at 2022-09-02 04:05:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-31T11:04:42.612508-04:00.jpg">August 31 at 11:04 AM</a></p>
+ <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-09-02T11:05:00.994688-04:00.jpg">September 2 at 4:05 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-09-01T11:19:20.892121-04:00.jpg">
+  <img src="https://archive.org/download/frednewspost-2022/frednewspost-2022-09-01T11:19:20.892121-04:00.jpg"
+     alt="Frederick News-Post at 2022-09-01 04:19:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-09-01T11:19:20.892121-04:00.jpg">September 1 at 4:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-31T23:43:58.376600-04:00.jpg">
+  <img src="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-31T23:43:58.376600-04:00.jpg"
+     alt="Frederick News-Post at 2022-08-31 16:43:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-31T23:43:58.376600-04:00.jpg">August 31 at 4:43 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-31T11:04:42.612508-04:00.jpg">
+  <img src="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-31T11:04:42.612508-04:00.jpg"
+     alt="Frederick News-Post at 2022-08-31 04:04:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-31T11:04:42.612508-04:00.jpg">August 31 at 4:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-30T23:46:15.096059-04:00.jpg">
   <img src="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-30T23:46:15.096059-04:00.jpg"
-     alt="Frederick News-Post at 2022-08-30 23:46:21-04:00 local time"
+     alt="Frederick News-Post at 2022-08-30 16:46:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-30T23:46:15.096059-04:00.jpg">August 30 at 11:46 PM</a></p>
+ <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-30T23:46:15.096059-04:00.jpg">August 30 at 4:46 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-30T11:26:00.026239-04:00.jpg">
   <img src="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-30T11:26:00.026239-04:00.jpg"
-     alt="Frederick News-Post at 2022-08-30 11:26:18-04:00 local time"
+     alt="Frederick News-Post at 2022-08-30 04:26:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-30T11:26:00.026239-04:00.jpg">August 30 at 11:26 AM</a></p>
+ <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-30T11:26:00.026239-04:00.jpg">August 30 at 4:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-29T23:51:53.519898-04:00.jpg">
   <img src="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-29T23:51:53.519898-04:00.jpg"
-     alt="Frederick News-Post at 2022-08-29 23:52:02-04:00 local time"
+     alt="Frederick News-Post at 2022-08-29 16:52:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-29T23:51:53.519898-04:00.jpg">August 29 at 11:52 PM</a></p>
+ <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-29T23:51:53.519898-04:00.jpg">August 29 at 4:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-29T11:07:08.577085-04:00.jpg">
   <img src="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-29T11:07:08.577085-04:00.jpg"
-     alt="Frederick News-Post at 2022-08-29 11:07:16-04:00 local time"
+     alt="Frederick News-Post at 2022-08-29 04:07:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-29T11:07:08.577085-04:00.jpg">August 29 at 11:07 AM</a></p>
+ <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-29T11:07:08.577085-04:00.jpg">August 29 at 4:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-28T23:42:55.254287-04:00.jpg">
   <img src="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-28T23:42:55.254287-04:00.jpg"
-     alt="Frederick News-Post at 2022-08-28 23:42:56-04:00 local time"
+     alt="Frederick News-Post at 2022-08-28 16:42:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-28T23:42:55.254287-04:00.jpg">August 28 at 11:42 PM</a></p>
+ <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-28T23:42:55.254287-04:00.jpg">August 28 at 4:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-28T10:54:34.874172-04:00.jpg">
   <img src="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-28T10:54:34.874172-04:00.jpg"
-     alt="Frederick News-Post at 2022-08-28 10:54:44-04:00 local time"
+     alt="Frederick News-Post at 2022-08-28 03:54:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-28T10:54:34.874172-04:00.jpg">August 28 at 10:54 AM</a></p>
+ <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-28T10:54:34.874172-04:00.jpg">August 28 at 3:54 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-27T23:39:46.248412-04:00.jpg">
   <img src="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-27T23:39:46.248412-04:00.jpg"
-     alt="Frederick News-Post at 2022-08-27 23:39:47-04:00 local time"
+     alt="Frederick News-Post at 2022-08-27 16:39:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-27T23:39:46.248412-04:00.jpg">August 27 at 11:39 PM</a></p>
+ <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-27T23:39:46.248412-04:00.jpg">August 27 at 4:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-27T10:50:07.060483-04:00.jpg">
   <img src="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-27T10:50:07.060483-04:00.jpg"
-     alt="Frederick News-Post at 2022-08-27 10:50:12-04:00 local time"
+     alt="Frederick News-Post at 2022-08-27 03:50:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-27T10:50:07.060483-04:00.jpg">August 27 at 10:50 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-26T23:35:44.310271-04:00.jpg">
-  <img src="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-26T23:35:44.310271-04:00.jpg"
-     alt="Frederick News-Post at 2022-08-26 23:35:46-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-26T23:35:44.310271-04:00.jpg">August 26 at 11:35 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-26T10:58:10.356353-04:00.jpg">
-  <img src="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-26T10:58:10.356353-04:00.jpg"
-     alt="Frederick News-Post at 2022-08-26 10:58:17-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-26T10:58:10.356353-04:00.jpg">August 26 at 10:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-25T23:42:55.423362-04:00.jpg">
-  <img src="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-25T23:42:55.423362-04:00.jpg"
-     alt="Frederick News-Post at 2022-08-25 23:42:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-25T23:42:55.423362-04:00.jpg">August 25 at 11:42 PM</a></p>
+ <p><a href="https://archive.org/download/frednewspost-2022/frednewspost-2022-08-27T10:50:07.060483-04:00.jpg">August 27 at 3:50 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 264 hyperlink lists with the Internet Archive.
+The archiving routine has saved 268 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 31 at 11:04 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-31T11:04:42.612508-04:00.hyperlinks.json) |
-| [August 30 at 11:46 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-30T23:46:15.096059-04:00.hyperlinks.json) |
-| [August 30 at 11:26 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-30T11:26:00.026239-04:00.hyperlinks.json) |
-| [August 29 at 11:52 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-29T23:51:53.519898-04:00.hyperlinks.json) |
-| [August 29 at 11:07 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-29T11:07:08.577085-04:00.hyperlinks.json) |
-| [August 28 at 11:43 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-28T23:42:55.254287-04:00.hyperlinks.json) |
-| [August 28 at 10:54 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-28T10:54:34.874172-04:00.hyperlinks.json) |
-| [August 27 at 11:39 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-27T23:39:46.248412-04:00.hyperlinks.json) |
-| [August 27 at 10:50 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-27T10:50:07.060483-04:00.hyperlinks.json) |
-| [August 26 at 11:35 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-26T23:35:44.310271-04:00.hyperlinks.json) |
+| [September 2 at 4:05 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-09-02T11:05:00.994688-04:00.hyperlinks.json) |
+| [September 1 at 4:46 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-09-01T23:46:50.363383-04:00.hyperlinks.json) |
+| [September 1 at 4:19 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-09-01T11:19:20.892121-04:00.hyperlinks.json) |
+| [August 31 at 4:44 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-31T23:43:58.376600-04:00.hyperlinks.json) |
+| [August 31 at 4:04 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-31T11:04:42.612508-04:00.hyperlinks.json) |
+| [August 30 at 4:46 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-30T23:46:15.096059-04:00.hyperlinks.json) |
+| [August 30 at 4:26 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-30T11:26:00.026239-04:00.hyperlinks.json) |
+| [August 29 at 4:52 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-29T23:51:53.519898-04:00.hyperlinks.json) |
+| [August 29 at 4:07 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-29T11:07:08.577085-04:00.hyperlinks.json) |
+| [August 28 at 4:43 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-28T23:42:55.254287-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 265 accessibility trees with the Internet Archive.
+The archiving routine has saved 269 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 31 at 11:04 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-31T11:04:42.612508-04:00.accessibility.json) |
-| [August 30 at 11:46 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-30T23:46:15.096059-04:00.accessibility.json) |
-| [August 30 at 11:26 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-30T11:26:00.026239-04:00.accessibility.json) |
-| [August 29 at 11:52 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-29T23:51:53.519898-04:00.accessibility.json) |
-| [August 29 at 11:07 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-29T11:07:08.577085-04:00.accessibility.json) |
-| [August 28 at 11:42 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-28T23:42:55.254287-04:00.accessibility.json) |
-| [August 28 at 10:54 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-28T10:54:34.874172-04:00.accessibility.json) |
-| [August 27 at 11:39 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-27T23:39:46.248412-04:00.accessibility.json) |
-| [August 27 at 10:50 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-27T10:50:07.060483-04:00.accessibility.json) |
-| [August 26 at 11:35 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-26T23:35:44.310271-04:00.accessibility.json) |
+| [September 2 at 4:05 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-09-02T11:05:00.994688-04:00.accessibility.json) |
+| [September 1 at 4:46 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-09-01T23:46:50.363383-04:00.accessibility.json) |
+| [September 1 at 4:19 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-09-01T11:19:20.892121-04:00.accessibility.json) |
+| [August 31 at 4:44 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-31T23:43:58.376600-04:00.accessibility.json) |
+| [August 31 at 4:04 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-31T11:04:42.612508-04:00.accessibility.json) |
+| [August 30 at 4:46 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-30T23:46:15.096059-04:00.accessibility.json) |
+| [August 30 at 4:26 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-30T11:26:00.026239-04:00.accessibility.json) |
+| [August 29 at 4:52 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-29T23:51:53.519898-04:00.accessibility.json) |
+| [August 29 at 4:07 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-29T11:07:08.577085-04:00.accessibility.json) |
+| [August 28 at 4:42 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-28T23:42:55.254287-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 77 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 81 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 31 at 11:04 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-31T11:04:42.612508-04:00.lighthouse.json) |
-| [August 30 at 11:46 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-30T23:46:15.096059-04:00.lighthouse.json) |
-| [August 30 at 11:26 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-30T11:26:00.026239-04:00.lighthouse.json) |
-| [August 29 at 11:52 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-29T23:51:53.519898-04:00.lighthouse.json) |
-| [August 29 at 11:07 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-29T11:07:08.577085-04:00.lighthouse.json) |
-| [August 28 at 11:43 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-28T23:42:55.254287-04:00.lighthouse.json) |
-| [August 28 at 10:54 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-28T10:54:34.874172-04:00.lighthouse.json) |
-| [August 27 at 11:39 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-27T23:39:46.248412-04:00.lighthouse.json) |
-| [August 27 at 10:50 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-27T10:50:07.060483-04:00.lighthouse.json) |
-| [August 26 at 11:35 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-26T23:35:44.310271-04:00.lighthouse.json) |
+| [September 2 at 4:05 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-09-02T11:05:00.994688-04:00.lighthouse.json) |
+| [September 1 at 4:46 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-09-01T23:46:50.363383-04:00.lighthouse.json) |
+| [September 1 at 4:19 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-09-01T11:19:20.892121-04:00.lighthouse.json) |
+| [August 31 at 4:44 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-31T23:43:58.376600-04:00.lighthouse.json) |
+| [August 31 at 4:04 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-31T11:04:42.612508-04:00.lighthouse.json) |
+| [August 30 at 4:46 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-30T23:46:15.096059-04:00.lighthouse.json) |
+| [August 30 at 4:26 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-30T11:26:00.026239-04:00.lighthouse.json) |
+| [August 29 at 4:52 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-29T23:51:53.519898-04:00.lighthouse.json) |
+| [August 29 at 4:07 AM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-29T11:07:08.577085-04:00.lighthouse.json) |
+| [August 28 at 4:43 PM](https://archive.org/download/frednewspost-2022/frednewspost-2022-08-28T23:42:55.254287-04:00.lighthouse.json) |
 
 
 

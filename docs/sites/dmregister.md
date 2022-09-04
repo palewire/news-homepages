@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 283 screenshots with the Internet Archive.
+The archiving routine has saved 288 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-31T17:59:11.708973-05:00.jpg">
-  <img src="https://archive.org/download/dmregister-2022/dmregister-2022-08-31T17:59:11.708973-05:00.jpg"
-     alt="Des Moines Register at 2022-08-31 17:59:18-05:00 local time"
+ <a href="https://archive.org/download/dmregister-2022/dmregister-2022-09-02T18:55:10.559719-05:00.jpg">
+  <img src="https://archive.org/download/dmregister-2022/dmregister-2022-09-02T18:55:10.559719-05:00.jpg"
+     alt="Des Moines Register at 2022-09-02 11:55:12-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-31T17:59:11.708973-05:00.jpg">August 31 at 5:59 PM</a></p>
+ <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-09-02T18:55:10.559719-05:00.jpg">September 2 at 11:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dmregister-2022/dmregister-2022-09-02T11:12:12.890741-05:00.jpg">
+  <img src="https://archive.org/download/dmregister-2022/dmregister-2022-09-02T11:12:12.890741-05:00.jpg"
+     alt="Des Moines Register at 2022-09-02 04:12:27-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-09-02T11:12:12.890741-05:00.jpg">September 2 at 4:12 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dmregister-2022/dmregister-2022-09-02T06:01:26.777668-05:00.jpg">
+  <img src="https://archive.org/download/dmregister-2022/dmregister-2022-09-02T06:01:26.777668-05:00.jpg"
+     alt="Des Moines Register at 2022-09-01 23:01:28-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-09-02T06:01:26.777668-05:00.jpg">September 1 at 11:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dmregister-2022/dmregister-2022-09-01T18:03:47.729806-05:00.jpg">
+  <img src="https://archive.org/download/dmregister-2022/dmregister-2022-09-01T18:03:47.729806-05:00.jpg"
+     alt="Des Moines Register at 2022-09-01 11:04:09-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-09-01T18:03:47.729806-05:00.jpg">September 1 at 11:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dmregister-2022/dmregister-2022-09-01T06:06:24.012680-05:00.jpg">
+  <img src="https://archive.org/download/dmregister-2022/dmregister-2022-09-01T06:06:24.012680-05:00.jpg"
+     alt="Des Moines Register at 2022-08-31 23:06:30-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-09-01T06:06:24.012680-05:00.jpg">August 31 at 11:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-31T17:59:11.708973-05:00.jpg">
+  <img src="https://archive.org/download/dmregister-2022/dmregister-2022-08-31T17:59:11.708973-05:00.jpg"
+     alt="Des Moines Register at 2022-08-31 10:59:18-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-31T17:59:11.708973-05:00.jpg">August 31 at 10:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-31T11:17:19.024535-05:00.jpg">
   <img src="https://archive.org/download/dmregister-2022/dmregister-2022-08-31T11:17:19.024535-05:00.jpg"
-     alt="Des Moines Register at 2022-08-31 11:17:26-05:00 local time"
+     alt="Des Moines Register at 2022-08-31 04:17:26-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-31T11:17:19.024535-05:00.jpg">August 31 at 11:17 AM</a></p>
+ <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-31T11:17:19.024535-05:00.jpg">August 31 at 4:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-31T06:00:39.981069-05:00.jpg">
   <img src="https://archive.org/download/dmregister-2022/dmregister-2022-08-31T06:00:39.981069-05:00.jpg"
-     alt="Des Moines Register at 2022-08-31 06:00:45-05:00 local time"
+     alt="Des Moines Register at 2022-08-30 23:00:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-31T06:00:39.981069-05:00.jpg">August 31 at 6:00 AM</a></p>
+ <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-31T06:00:39.981069-05:00.jpg">August 30 at 11:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-30T18:04:29.477440-05:00.jpg">
   <img src="https://archive.org/download/dmregister-2022/dmregister-2022-08-30T18:04:29.477440-05:00.jpg"
-     alt="Des Moines Register at 2022-08-30 18:04:35-05:00 local time"
+     alt="Des Moines Register at 2022-08-30 11:04:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-30T18:04:29.477440-05:00.jpg">August 30 at 6:04 PM</a></p>
+ <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-30T18:04:29.477440-05:00.jpg">August 30 at 11:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-30T06:05:07.265093-05:00.jpg">
   <img src="https://archive.org/download/dmregister-2022/dmregister-2022-08-30T06:05:07.265093-05:00.jpg"
-     alt="Des Moines Register at 2022-08-30 06:05:09-05:00 local time"
+     alt="Des Moines Register at 2022-08-29 23:05:09-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-30T06:05:07.265093-05:00.jpg">August 30 at 6:05 AM</a></p>
+ <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-30T06:05:07.265093-05:00.jpg">August 29 at 11:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-29T18:00:55.527618-05:00.jpg">
   <img src="https://archive.org/download/dmregister-2022/dmregister-2022-08-29T18:00:55.527618-05:00.jpg"
-     alt="Des Moines Register at 2022-08-29 18:01:01-05:00 local time"
+     alt="Des Moines Register at 2022-08-29 11:01:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-29T18:00:55.527618-05:00.jpg">August 29 at 6:01 PM</a></p>
+ <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-29T18:00:55.527618-05:00.jpg">August 29 at 11:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-29T11:21:14.459427-05:00.jpg">
   <img src="https://archive.org/download/dmregister-2022/dmregister-2022-08-29T11:21:14.459427-05:00.jpg"
-     alt="Des Moines Register at 2022-08-29 11:21:21-05:00 local time"
+     alt="Des Moines Register at 2022-08-29 04:21:21-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-29T11:21:14.459427-05:00.jpg">August 29 at 11:21 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-29T05:56:47.941834-05:00.jpg">
-  <img src="https://archive.org/download/dmregister-2022/dmregister-2022-08-29T05:56:47.941834-05:00.jpg"
-     alt="Des Moines Register at 2022-08-29 05:57:06-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-29T05:56:47.941834-05:00.jpg">August 29 at 5:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-28T17:53:57.433887-05:00.jpg">
-  <img src="https://archive.org/download/dmregister-2022/dmregister-2022-08-28T17:53:57.433887-05:00.jpg"
-     alt="Des Moines Register at 2022-08-28 17:53:59-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-28T17:53:57.433887-05:00.jpg">August 28 at 5:53 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-28T05:58:21.294953-05:00.jpg">
-  <img src="https://archive.org/download/dmregister-2022/dmregister-2022-08-28T05:58:21.294953-05:00.jpg"
-     alt="Des Moines Register at 2022-08-28 05:58:26-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-28T05:58:21.294953-05:00.jpg">August 28 at 5:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-27T17:58:06.560701-05:00.jpg">
-  <img src="https://archive.org/download/dmregister-2022/dmregister-2022-08-27T17:58:06.560701-05:00.jpg"
-     alt="Des Moines Register at 2022-08-27 17:58:13-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-27T17:58:06.560701-05:00.jpg">August 27 at 5:58 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-27T05:51:52.296244-05:00.jpg">
-  <img src="https://archive.org/download/dmregister-2022/dmregister-2022-08-27T05:51:52.296244-05:00.jpg"
-     alt="Des Moines Register at 2022-08-27 05:51:57-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-27T05:51:52.296244-05:00.jpg">August 27 at 5:51 AM</a></p>
+ <p><a href="https://archive.org/download/dmregister-2022/dmregister-2022-08-29T11:21:14.459427-05:00.jpg">August 29 at 4:21 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 272 hyperlink lists with the Internet Archive.
+The archiving routine has saved 277 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 31 at 5:59 PM](https://archive.org/download/dmregister-2022/dmregister-2022-08-31T17:59:11.708973-05:00.hyperlinks.json) |
-| [August 31 at 11:17 AM](https://archive.org/download/dmregister-2022/dmregister-2022-08-31T11:17:19.024535-05:00.hyperlinks.json) |
-| [August 31 at 6:00 AM](https://archive.org/download/dmregister-2022/dmregister-2022-08-31T06:00:39.981069-05:00.hyperlinks.json) |
-| [August 30 at 6:04 PM](https://archive.org/download/dmregister-2022/dmregister-2022-08-30T18:04:29.477440-05:00.hyperlinks.json) |
-| [August 30 at 6:05 AM](https://archive.org/download/dmregister-2022/dmregister-2022-08-30T06:05:07.265093-05:00.hyperlinks.json) |
-| [August 29 at 6:01 PM](https://archive.org/download/dmregister-2022/dmregister-2022-08-29T18:00:55.527618-05:00.hyperlinks.json) |
-| [August 29 at 11:21 AM](https://archive.org/download/dmregister-2022/dmregister-2022-08-29T11:21:14.459427-05:00.hyperlinks.json) |
-| [August 29 at 5:57 AM](https://archive.org/download/dmregister-2022/dmregister-2022-08-29T05:56:47.941834-05:00.hyperlinks.json) |
-| [August 28 at 5:54 PM](https://archive.org/download/dmregister-2022/dmregister-2022-08-28T17:53:57.433887-05:00.hyperlinks.json) |
-| [August 28 at 5:58 AM](https://archive.org/download/dmregister-2022/dmregister-2022-08-28T05:58:21.294953-05:00.hyperlinks.json) |
+| [September 2 at 11:55 AM](https://archive.org/download/dmregister-2022/dmregister-2022-09-02T18:55:10.559719-05:00.hyperlinks.json) |
+| [September 2 at 4:12 AM](https://archive.org/download/dmregister-2022/dmregister-2022-09-02T11:12:12.890741-05:00.hyperlinks.json) |
+| [September 1 at 11:01 PM](https://archive.org/download/dmregister-2022/dmregister-2022-09-02T06:01:26.777668-05:00.hyperlinks.json) |
+| [September 1 at 11:04 AM](https://archive.org/download/dmregister-2022/dmregister-2022-09-01T18:03:47.729806-05:00.hyperlinks.json) |
+| [August 31 at 11:06 PM](https://archive.org/download/dmregister-2022/dmregister-2022-09-01T06:06:24.012680-05:00.hyperlinks.json) |
+| [August 31 at 10:59 AM](https://archive.org/download/dmregister-2022/dmregister-2022-08-31T17:59:11.708973-05:00.hyperlinks.json) |
+| [August 31 at 4:17 AM](https://archive.org/download/dmregister-2022/dmregister-2022-08-31T11:17:19.024535-05:00.hyperlinks.json) |
+| [August 30 at 11:00 PM](https://archive.org/download/dmregister-2022/dmregister-2022-08-31T06:00:39.981069-05:00.hyperlinks.json) |
+| [August 30 at 11:04 AM](https://archive.org/download/dmregister-2022/dmregister-2022-08-30T18:04:29.477440-05:00.hyperlinks.json) |
+| [August 29 at 11:05 PM](https://archive.org/download/dmregister-2022/dmregister-2022-08-30T06:05:07.265093-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 275 accessibility trees with the Internet Archive.
+The archiving routine has saved 280 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 31 at 5:59 PM](https://archive.org/download/dmregister-2022/dmregister-2022-08-31T17:59:11.708973-05:00.accessibility.json) |
-| [August 31 at 11:17 AM](https://archive.org/download/dmregister-2022/dmregister-2022-08-31T11:17:19.024535-05:00.accessibility.json) |
-| [August 31 at 6:00 AM](https://archive.org/download/dmregister-2022/dmregister-2022-08-31T06:00:39.981069-05:00.accessibility.json) |
-| [August 30 at 6:04 PM](https://archive.org/download/dmregister-2022/dmregister-2022-08-30T18:04:29.477440-05:00.accessibility.json) |
-| [August 30 at 6:05 AM](https://archive.org/download/dmregister-2022/dmregister-2022-08-30T06:05:07.265093-05:00.accessibility.json) |
-| [August 29 at 6:01 PM](https://archive.org/download/dmregister-2022/dmregister-2022-08-29T18:00:55.527618-05:00.accessibility.json) |
-| [August 29 at 11:21 AM](https://archive.org/download/dmregister-2022/dmregister-2022-08-29T11:21:14.459427-05:00.accessibility.json) |
-| [August 29 at 5:57 AM](https://archive.org/download/dmregister-2022/dmregister-2022-08-29T05:56:47.941834-05:00.accessibility.json) |
-| [August 28 at 5:54 PM](https://archive.org/download/dmregister-2022/dmregister-2022-08-28T17:53:57.433887-05:00.accessibility.json) |
-| [August 28 at 5:58 AM](https://archive.org/download/dmregister-2022/dmregister-2022-08-28T05:58:21.294953-05:00.accessibility.json) |
+| [September 2 at 11:55 AM](https://archive.org/download/dmregister-2022/dmregister-2022-09-02T18:55:10.559719-05:00.accessibility.json) |
+| [September 2 at 4:12 AM](https://archive.org/download/dmregister-2022/dmregister-2022-09-02T11:12:12.890741-05:00.accessibility.json) |
+| [September 1 at 11:01 PM](https://archive.org/download/dmregister-2022/dmregister-2022-09-02T06:01:26.777668-05:00.accessibility.json) |
+| [September 1 at 11:04 AM](https://archive.org/download/dmregister-2022/dmregister-2022-09-01T18:03:47.729806-05:00.accessibility.json) |
+| [August 31 at 11:06 PM](https://archive.org/download/dmregister-2022/dmregister-2022-09-01T06:06:24.012680-05:00.accessibility.json) |
+| [August 31 at 10:59 AM](https://archive.org/download/dmregister-2022/dmregister-2022-08-31T17:59:11.708973-05:00.accessibility.json) |
+| [August 31 at 4:17 AM](https://archive.org/download/dmregister-2022/dmregister-2022-08-31T11:17:19.024535-05:00.accessibility.json) |
+| [August 30 at 11:00 PM](https://archive.org/download/dmregister-2022/dmregister-2022-08-31T06:00:39.981069-05:00.accessibility.json) |
+| [August 30 at 11:04 AM](https://archive.org/download/dmregister-2022/dmregister-2022-08-30T18:04:29.477440-05:00.accessibility.json) |
+| [August 29 at 11:05 PM](https://archive.org/download/dmregister-2022/dmregister-2022-08-30T06:05:07.265093-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 95 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 100 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 31 at 5:59 PM](https://archive.org/download/dmregister-2022/dmregister-2022-08-31T17:59:11.708973-05:00.lighthouse.json) |
-| [August 31 at 11:17 AM](https://archive.org/download/dmregister-2022/dmregister-2022-08-31T11:17:19.024535-05:00.lighthouse.json) |
-| [August 31 at 6:00 AM](https://archive.org/download/dmregister-2022/dmregister-2022-08-31T06:00:39.981069-05:00.lighthouse.json) |
-| [August 30 at 6:04 PM](https://archive.org/download/dmregister-2022/dmregister-2022-08-30T18:04:29.477440-05:00.lighthouse.json) |
-| [August 30 at 6:05 AM](https://archive.org/download/dmregister-2022/dmregister-2022-08-30T06:05:07.265093-05:00.lighthouse.json) |
-| [August 29 at 6:01 PM](https://archive.org/download/dmregister-2022/dmregister-2022-08-29T18:00:55.527618-05:00.lighthouse.json) |
-| [August 29 at 11:21 AM](https://archive.org/download/dmregister-2022/dmregister-2022-08-29T11:21:14.459427-05:00.lighthouse.json) |
-| [August 29 at 5:57 AM](https://archive.org/download/dmregister-2022/dmregister-2022-08-29T05:56:47.941834-05:00.lighthouse.json) |
-| [August 28 at 5:54 PM](https://archive.org/download/dmregister-2022/dmregister-2022-08-28T17:53:57.433887-05:00.lighthouse.json) |
-| [August 28 at 5:58 AM](https://archive.org/download/dmregister-2022/dmregister-2022-08-28T05:58:21.294953-05:00.lighthouse.json) |
+| [September 2 at 11:55 AM](https://archive.org/download/dmregister-2022/dmregister-2022-09-02T18:55:10.559719-05:00.lighthouse.json) |
+| [September 2 at 4:12 AM](https://archive.org/download/dmregister-2022/dmregister-2022-09-02T11:12:12.890741-05:00.lighthouse.json) |
+| [September 1 at 11:01 PM](https://archive.org/download/dmregister-2022/dmregister-2022-09-02T06:01:26.777668-05:00.lighthouse.json) |
+| [September 1 at 11:04 AM](https://archive.org/download/dmregister-2022/dmregister-2022-09-01T18:03:47.729806-05:00.lighthouse.json) |
+| [August 31 at 11:06 PM](https://archive.org/download/dmregister-2022/dmregister-2022-09-01T06:06:24.012680-05:00.lighthouse.json) |
+| [August 31 at 10:59 AM](https://archive.org/download/dmregister-2022/dmregister-2022-08-31T17:59:11.708973-05:00.lighthouse.json) |
+| [August 31 at 4:17 AM](https://archive.org/download/dmregister-2022/dmregister-2022-08-31T11:17:19.024535-05:00.lighthouse.json) |
+| [August 30 at 11:00 PM](https://archive.org/download/dmregister-2022/dmregister-2022-08-31T06:00:39.981069-05:00.lighthouse.json) |
+| [August 30 at 11:04 AM](https://archive.org/download/dmregister-2022/dmregister-2022-08-30T18:04:29.477440-05:00.lighthouse.json) |
+| [August 29 at 11:05 PM](https://archive.org/download/dmregister-2022/dmregister-2022-08-30T06:05:07.265093-05:00.lighthouse.json) |
 
 
 

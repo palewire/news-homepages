@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 35 screenshots with the Internet Archive.
+The archiving routine has saved 39 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,163 +326,329 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-31T16:49:52.449152-07:00.jpg">
-  <img src="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-31T16:49:52.449152-07:00.jpg"
-     alt="Little Green Footballs at 2022-08-31 16:49:53-07:00 local time"
+ <a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-09-02T16:57:17.415086-07:00.jpg">
+  <img src="https://archive.org/download/green_footballs-2022/green_footballs-2022-09-02T16:57:17.415086-07:00.jpg"
+     alt="Little Green Footballs at 2022-09-02 09:57:21-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-31T16:49:52.449152-07:00.jpg">August 31 at 4:49 PM</a></p>
+ <p><a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-09-02T16:57:17.415086-07:00.jpg">September 2 at 9:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-09-02T05:01:18.457775-07:00.jpg">
+  <img src="https://archive.org/download/green_footballs-2022/green_footballs-2022-09-02T05:01:18.457775-07:00.jpg"
+     alt="Little Green Footballs at 2022-09-01 22:01:23-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-09-02T05:01:18.457775-07:00.jpg">September 1 at 10:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-09-01T16:56:59.573050-07:00.jpg">
+  <img src="https://archive.org/download/green_footballs-2022/green_footballs-2022-09-01T16:56:59.573050-07:00.jpg"
+     alt="Little Green Footballs at 2022-09-01 09:57:05-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-09-01T16:56:59.573050-07:00.jpg">September 1 at 9:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-09-01T05:09:15.010461-07:00.jpg">
+  <img src="https://archive.org/download/green_footballs-2022/green_footballs-2022-09-01T05:09:15.010461-07:00.jpg"
+     alt="Little Green Footballs at 2022-08-31 22:09:20-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-09-01T05:09:15.010461-07:00.jpg">August 31 at 10:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-31T16:49:52.449152-07:00.jpg">
+  <img src="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-31T16:49:52.449152-07:00.jpg"
+     alt="Little Green Footballs at 2022-08-31 09:49:53-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-31T16:49:52.449152-07:00.jpg">August 31 at 9:49 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-31T06:01:47.952366-07:00.jpg">
   <img src="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-31T06:01:47.952366-07:00.jpg"
-     alt="Little Green Footballs at 2022-08-31 06:01:50-07:00 local time"
+     alt="Little Green Footballs at 2022-08-30 23:01:50-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-31T06:01:47.952366-07:00.jpg">August 31 at 6:01 AM</a></p>
+ <p><a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-31T06:01:47.952366-07:00.jpg">August 30 at 11:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-30T16:59:20.948051-07:00.jpg">
   <img src="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-30T16:59:20.948051-07:00.jpg"
-     alt="Little Green Footballs at 2022-08-30 16:59:23-07:00 local time"
+     alt="Little Green Footballs at 2022-08-30 09:59:23-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-30T16:59:20.948051-07:00.jpg">August 30 at 4:59 PM</a></p>
+ <p><a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-30T16:59:20.948051-07:00.jpg">August 30 at 9:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-30T05:06:18.966037-07:00.jpg">
   <img src="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-30T05:06:18.966037-07:00.jpg"
-     alt="Little Green Footballs at 2022-08-30 05:06:25-07:00 local time"
+     alt="Little Green Footballs at 2022-08-29 22:06:25-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-30T05:06:18.966037-07:00.jpg">August 30 at 5:06 AM</a></p>
+ <p><a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-30T05:06:18.966037-07:00.jpg">August 29 at 10:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-29T16:51:21.739650-07:00.jpg">
   <img src="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-29T16:51:21.739650-07:00.jpg"
-     alt="Little Green Footballs at 2022-08-29 16:51:24-07:00 local time"
+     alt="Little Green Footballs at 2022-08-29 09:51:24-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-29T16:51:21.739650-07:00.jpg">August 29 at 4:51 PM</a></p>
+ <p><a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-29T16:51:21.739650-07:00.jpg">August 29 at 9:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-29T04:56:19.052140-07:00.jpg">
   <img src="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-29T04:56:19.052140-07:00.jpg"
-     alt="Little Green Footballs at 2022-08-29 04:56:21-07:00 local time"
+     alt="Little Green Footballs at 2022-08-28 21:56:21-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-29T04:56:19.052140-07:00.jpg">August 29 at 4:56 AM</a></p>
+ <p><a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-29T04:56:19.052140-07:00.jpg">August 28 at 9:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-28T16:47:04.501509-07:00.jpg">
   <img src="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-28T16:47:04.501509-07:00.jpg"
-     alt="Little Green Footballs at 2022-08-28 16:47:07-07:00 local time"
+     alt="Little Green Footballs at 2022-08-28 09:47:07-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-28T16:47:04.501509-07:00.jpg">August 28 at 4:47 PM</a></p>
+ <p><a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-28T16:47:04.501509-07:00.jpg">August 28 at 9:47 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-28T04:57:19.707792-07:00.jpg">
   <img src="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-28T04:57:19.707792-07:00.jpg"
-     alt="Little Green Footballs at 2022-08-28 04:57:21-07:00 local time"
+     alt="Little Green Footballs at 2022-08-27 21:57:21-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-28T04:57:19.707792-07:00.jpg">August 28 at 4:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-27T16:48:38.158741-07:00.jpg">
-  <img src="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-27T16:48:38.158741-07:00.jpg"
-     alt="Little Green Footballs at 2022-08-27 16:48:40-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-27T16:48:38.158741-07:00.jpg">August 27 at 4:48 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-27T04:51:44.024627-07:00.jpg">
-  <img src="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-27T04:51:44.024627-07:00.jpg"
-     alt="Little Green Footballs at 2022-08-27 04:51:45-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-27T04:51:44.024627-07:00.jpg">August 27 at 4:51 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-26T16:43:39.836516-07:00.jpg">
-  <img src="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-26T16:43:39.836516-07:00.jpg"
-     alt="Little Green Footballs at 2022-08-26 16:43:41-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-26T16:43:39.836516-07:00.jpg">August 26 at 4:43 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-26T04:56:28.027096-07:00.jpg">
-  <img src="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-26T04:56:28.027096-07:00.jpg"
-     alt="Little Green Footballs at 2022-08-26 04:56:31-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-26T04:56:28.027096-07:00.jpg">August 26 at 4:56 AM</a></p>
+ <p><a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-08-28T04:57:19.707792-07:00.jpg">August 27 at 9:57 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 30 hyperlink lists with the Internet Archive.
+The archiving routine has saved 34 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/green_footballs.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 31 at 4:49 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-31T16:49:52.449152-07:00.hyperlinks.json) |
-| [August 31 at 6:01 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-31T06:01:47.952366-07:00.hyperlinks.json) |
-| [August 30 at 4:59 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-30T16:59:20.948051-07:00.hyperlinks.json) |
-| [August 30 at 5:06 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-30T05:06:18.966037-07:00.hyperlinks.json) |
-| [August 29 at 4:51 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-29T16:51:21.739650-07:00.hyperlinks.json) |
-| [August 29 at 4:56 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-29T04:56:19.052140-07:00.hyperlinks.json) |
-| [August 28 at 4:47 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-28T16:47:04.501509-07:00.hyperlinks.json) |
-| [August 28 at 4:57 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-28T04:57:19.707792-07:00.hyperlinks.json) |
-| [August 27 at 4:48 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-27T16:48:38.158741-07:00.hyperlinks.json) |
-| [August 27 at 4:51 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-27T04:51:44.024627-07:00.hyperlinks.json) |
+| [September 2 at 9:57 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-09-02T16:57:17.415086-07:00.hyperlinks.json) |
+| [September 1 at 10:01 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-09-02T05:01:18.457775-07:00.hyperlinks.json) |
+| [September 1 at 9:57 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-09-01T16:56:59.573050-07:00.hyperlinks.json) |
+| [August 31 at 10:09 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-09-01T05:09:15.010461-07:00.hyperlinks.json) |
+| [August 31 at 9:49 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-31T16:49:52.449152-07:00.hyperlinks.json) |
+| [August 30 at 11:01 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-31T06:01:47.952366-07:00.hyperlinks.json) |
+| [August 30 at 9:59 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-30T16:59:20.948051-07:00.hyperlinks.json) |
+| [August 29 at 10:06 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-30T05:06:18.966037-07:00.hyperlinks.json) |
+| [August 29 at 9:51 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-29T16:51:21.739650-07:00.hyperlinks.json) |
+| [August 28 at 9:56 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-29T04:56:19.052140-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 28 accessibility trees with the Internet Archive.
+The archiving routine has saved 32 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/green_footballs.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 31 at 4:49 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-31T16:49:52.449152-07:00.accessibility.json) |
-| [August 31 at 6:01 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-31T06:01:47.952366-07:00.accessibility.json) |
-| [August 30 at 4:59 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-30T16:59:20.948051-07:00.accessibility.json) |
-| [August 30 at 5:06 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-30T05:06:18.966037-07:00.accessibility.json) |
-| [August 29 at 4:51 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-29T16:51:21.739650-07:00.accessibility.json) |
-| [August 29 at 4:56 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-29T04:56:19.052140-07:00.accessibility.json) |
-| [August 28 at 4:47 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-28T16:47:04.501509-07:00.accessibility.json) |
-| [August 28 at 4:57 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-28T04:57:19.707792-07:00.accessibility.json) |
-| [August 27 at 4:48 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-27T16:48:38.158741-07:00.accessibility.json) |
-| [August 27 at 4:51 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-27T04:51:44.024627-07:00.accessibility.json) |
+| [September 2 at 9:57 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-09-02T16:57:17.415086-07:00.accessibility.json) |
+| [September 1 at 10:01 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-09-02T05:01:18.457775-07:00.accessibility.json) |
+| [September 1 at 9:57 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-09-01T16:56:59.573050-07:00.accessibility.json) |
+| [August 31 at 10:09 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-09-01T05:09:15.010461-07:00.accessibility.json) |
+| [August 31 at 9:49 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-31T16:49:52.449152-07:00.accessibility.json) |
+| [August 30 at 11:01 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-31T06:01:47.952366-07:00.accessibility.json) |
+| [August 30 at 9:59 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-30T16:59:20.948051-07:00.accessibility.json) |
+| [August 29 at 10:06 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-30T05:06:18.966037-07:00.accessibility.json) |
+| [August 29 at 9:51 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-29T16:51:21.739650-07:00.accessibility.json) |
+| [August 28 at 9:56 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-29T04:56:19.052140-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -573,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 31 at 4:49 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-31T16:49:52.449152-07:00.lighthouse.json) |
-| [August 31 at 6:01 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-31T06:01:47.952366-07:00.lighthouse.json) |
-| [August 30 at 4:59 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-30T16:59:20.948051-07:00.lighthouse.json) |
-| [August 30 at 5:06 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-30T05:06:18.966037-07:00.lighthouse.json) |
-| [August 29 at 4:51 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-29T16:51:21.739650-07:00.lighthouse.json) |
-| [August 29 at 4:56 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-29T04:56:19.052140-07:00.lighthouse.json) |
-| [August 28 at 4:47 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-28T16:47:04.501509-07:00.lighthouse.json) |
-| [August 28 at 4:57 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-28T04:57:19.707792-07:00.lighthouse.json) |
-| [August 27 at 4:48 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-27T16:48:38.158741-07:00.lighthouse.json) |
-| [August 27 at 4:51 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-27T04:51:44.024627-07:00.lighthouse.json) |
+| [September 2 at 9:57 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-09-02T16:57:17.415086-07:00.lighthouse.json) |
+| [September 1 at 10:01 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-09-02T05:01:18.457775-07:00.lighthouse.json) |
+| [September 1 at 9:57 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-09-01T16:56:59.573050-07:00.lighthouse.json) |
+| [August 31 at 10:09 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-09-01T05:09:15.010461-07:00.lighthouse.json) |
+| [August 31 at 9:49 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-31T16:49:52.449152-07:00.lighthouse.json) |
+| [August 30 at 11:01 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-31T06:01:47.952366-07:00.lighthouse.json) |
+| [August 30 at 9:59 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-30T16:59:20.948051-07:00.lighthouse.json) |
+| [August 29 at 10:06 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-30T05:06:18.966037-07:00.lighthouse.json) |
+| [August 29 at 9:51 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-29T16:51:21.739650-07:00.lighthouse.json) |
+| [August 28 at 9:56 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-08-29T04:56:19.052140-07:00.lighthouse.json) |
 
 
 

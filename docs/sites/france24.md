@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 318 screenshots with the Internet Archive.
+The archiving routine has saved 324 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/france24-2022/france24-2022-09-01T01:50:30.460453+02:00.jpg">
-  <img src="https://archive.org/download/france24-2022/france24-2022-09-01T01:50:30.460453+02:00.jpg"
-     alt="FRANCE 24 at 2022-09-01 01:50:37+02:00 local time"
+ <a href="https://archive.org/download/france24-2022/france24-2022-09-03T01:57:23.898705+02:00.jpg">
+  <img src="https://archive.org/download/france24-2022/france24-2022-09-03T01:57:23.898705+02:00.jpg"
+     alt="FRANCE 24 at 2022-09-02 18:57:30+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24-2022/france24-2022-09-01T01:50:30.460453+02:00.jpg">September 1 at 1:50 AM</a></p>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-09-03T01:57:23.898705+02:00.jpg">September 2 at 6:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24-2022/france24-2022-09-02T14:00:42.707546+02:00.jpg">
+  <img src="https://archive.org/download/france24-2022/france24-2022-09-02T14:00:42.707546+02:00.jpg"
+     alt="FRANCE 24 at 2022-09-02 07:01:05+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-09-02T14:00:42.707546+02:00.jpg">September 2 at 7:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24-2022/france24-2022-09-02T10:16:09.138252+02:00.jpg">
+  <img src="https://archive.org/download/france24-2022/france24-2022-09-02T10:16:09.138252+02:00.jpg"
+     alt="FRANCE 24 at 2022-09-02 03:16:21+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-09-02T10:16:09.138252+02:00.jpg">September 2 at 3:16 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24-2022/france24-2022-09-02T01:57:44.868169+02:00.jpg">
+  <img src="https://archive.org/download/france24-2022/france24-2022-09-02T01:57:44.868169+02:00.jpg"
+     alt="FRANCE 24 at 2022-09-01 18:58:07+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-09-02T01:57:44.868169+02:00.jpg">September 1 at 6:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24-2022/france24-2022-09-01T14:08:57.659572+02:00.jpg">
+  <img src="https://archive.org/download/france24-2022/france24-2022-09-01T14:08:57.659572+02:00.jpg"
+     alt="FRANCE 24 at 2022-09-01 07:09:01+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-09-01T14:08:57.659572+02:00.jpg">September 1 at 7:09 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24-2022/france24-2022-09-01T10:16:27.777650+02:00.jpg">
+  <img src="https://archive.org/download/france24-2022/france24-2022-09-01T10:16:27.777650+02:00.jpg"
+     alt="FRANCE 24 at 2022-09-01 03:16:34+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-09-01T10:16:27.777650+02:00.jpg">September 1 at 3:16 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24-2022/france24-2022-09-01T01:50:30.460453+02:00.jpg">
+  <img src="https://archive.org/download/france24-2022/france24-2022-09-01T01:50:30.460453+02:00.jpg"
+     alt="FRANCE 24 at 2022-08-31 18:50:37+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-09-01T01:50:30.460453+02:00.jpg">August 31 at 6:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/france24-2022/france24-2022-08-31T15:00:18.984280+02:00.jpg">
   <img src="https://archive.org/download/france24-2022/france24-2022-08-31T15:00:18.984280+02:00.jpg"
-     alt="FRANCE 24 at 2022-08-31 15:00:29+02:00 local time"
+     alt="FRANCE 24 at 2022-08-31 08:00:29+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24-2022/france24-2022-08-31T15:00:18.984280+02:00.jpg">August 31 at 3:00 PM</a></p>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-08-31T15:00:18.984280+02:00.jpg">August 31 at 8:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/france24-2022/france24-2022-08-31T10:14:28.736203+02:00.jpg">
   <img src="https://archive.org/download/france24-2022/france24-2022-08-31T10:14:28.736203+02:00.jpg"
-     alt="FRANCE 24 at 2022-08-31 10:14:37+02:00 local time"
+     alt="FRANCE 24 at 2022-08-31 03:14:37+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24-2022/france24-2022-08-31T10:14:28.736203+02:00.jpg">August 31 at 10:14 AM</a></p>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-08-31T10:14:28.736203+02:00.jpg">August 31 at 3:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/france24-2022/france24-2022-08-31T01:58:34.616942+02:00.jpg">
   <img src="https://archive.org/download/france24-2022/france24-2022-08-31T01:58:34.616942+02:00.jpg"
-     alt="FRANCE 24 at 2022-08-31 01:58:36+02:00 local time"
+     alt="FRANCE 24 at 2022-08-30 18:58:36+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24-2022/france24-2022-08-31T01:58:34.616942+02:00.jpg">August 31 at 1:58 AM</a></p>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-08-31T01:58:34.616942+02:00.jpg">August 30 at 6:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/france24-2022/france24-2022-08-30T14:06:37.960260+02:00.jpg">
   <img src="https://archive.org/download/france24-2022/france24-2022-08-30T14:06:37.960260+02:00.jpg"
-     alt="FRANCE 24 at 2022-08-30 14:06:39+02:00 local time"
+     alt="FRANCE 24 at 2022-08-30 07:06:39+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24-2022/france24-2022-08-30T14:06:37.960260+02:00.jpg">August 30 at 2:06 PM</a></p>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-08-30T14:06:37.960260+02:00.jpg">August 30 at 7:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/france24-2022/france24-2022-08-30T10:16:56.589764+02:00.jpg">
   <img src="https://archive.org/download/france24-2022/france24-2022-08-30T10:16:56.589764+02:00.jpg"
-     alt="FRANCE 24 at 2022-08-30 10:17:04+02:00 local time"
+     alt="FRANCE 24 at 2022-08-30 03:17:04+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24-2022/france24-2022-08-30T10:16:56.589764+02:00.jpg">August 30 at 10:17 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/france24-2022/france24-2022-08-30T01:50:21.503036+02:00.jpg">
-  <img src="https://archive.org/download/france24-2022/france24-2022-08-30T01:50:21.503036+02:00.jpg"
-     alt="FRANCE 24 at 2022-08-30 01:50:27+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/france24-2022/france24-2022-08-30T01:50:21.503036+02:00.jpg">August 30 at 1:50 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/france24-2022/france24-2022-08-29T13:55:43.953145+02:00.jpg">
-  <img src="https://archive.org/download/france24-2022/france24-2022-08-29T13:55:43.953145+02:00.jpg"
-     alt="FRANCE 24 at 2022-08-29 13:55:50+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/france24-2022/france24-2022-08-29T13:55:43.953145+02:00.jpg">August 29 at 1:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/france24-2022/france24-2022-08-29T10:14:27.580243+02:00.jpg">
-  <img src="https://archive.org/download/france24-2022/france24-2022-08-29T10:14:27.580243+02:00.jpg"
-     alt="FRANCE 24 at 2022-08-29 10:14:33+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/france24-2022/france24-2022-08-29T10:14:27.580243+02:00.jpg">August 29 at 10:14 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/france24-2022/france24-2022-08-29T01:46:58.356066+02:00.jpg">
-  <img src="https://archive.org/download/france24-2022/france24-2022-08-29T01:46:58.356066+02:00.jpg"
-     alt="FRANCE 24 at 2022-08-29 01:47:00+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/france24-2022/france24-2022-08-29T01:46:58.356066+02:00.jpg">August 29 at 1:47 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/france24-2022/france24-2022-08-28T13:57:27.481285+02:00.jpg">
-  <img src="https://archive.org/download/france24-2022/france24-2022-08-28T13:57:27.481285+02:00.jpg"
-     alt="FRANCE 24 at 2022-08-28 13:57:36+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/france24-2022/france24-2022-08-28T13:57:27.481285+02:00.jpg">August 28 at 1:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/france24-2022/france24-2022-08-28T10:14:52.677600+02:00.jpg">
-  <img src="https://archive.org/download/france24-2022/france24-2022-08-28T10:14:52.677600+02:00.jpg"
-     alt="FRANCE 24 at 2022-08-28 10:14:58+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/france24-2022/france24-2022-08-28T10:14:52.677600+02:00.jpg">August 28 at 10:14 AM</a></p>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-08-30T10:16:56.589764+02:00.jpg">August 30 at 3:17 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 318 hyperlink lists with the Internet Archive.
+The archiving routine has saved 324 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 1 at 1:50 AM](https://archive.org/download/france24-2022/france24-2022-09-01T01:50:30.460453+02:00.hyperlinks.json) |
-| [August 31 at 3:00 PM](https://archive.org/download/france24-2022/france24-2022-08-31T15:00:18.984280+02:00.hyperlinks.json) |
-| [August 31 at 10:14 AM](https://archive.org/download/france24-2022/france24-2022-08-31T10:14:28.736203+02:00.hyperlinks.json) |
-| [August 31 at 1:58 AM](https://archive.org/download/france24-2022/france24-2022-08-31T01:58:34.616942+02:00.hyperlinks.json) |
-| [August 30 at 2:06 PM](https://archive.org/download/france24-2022/france24-2022-08-30T14:06:37.960260+02:00.hyperlinks.json) |
-| [August 30 at 10:17 AM](https://archive.org/download/france24-2022/france24-2022-08-30T10:16:56.589764+02:00.hyperlinks.json) |
-| [August 30 at 1:50 AM](https://archive.org/download/france24-2022/france24-2022-08-30T01:50:21.503036+02:00.hyperlinks.json) |
-| [August 29 at 1:55 PM](https://archive.org/download/france24-2022/france24-2022-08-29T13:55:43.953145+02:00.hyperlinks.json) |
-| [August 29 at 10:14 AM](https://archive.org/download/france24-2022/france24-2022-08-29T10:14:27.580243+02:00.hyperlinks.json) |
-| [August 29 at 1:47 AM](https://archive.org/download/france24-2022/france24-2022-08-29T01:46:58.356066+02:00.hyperlinks.json) |
+| [September 2 at 6:57 PM](https://archive.org/download/france24-2022/france24-2022-09-03T01:57:23.898705+02:00.hyperlinks.json) |
+| [September 2 at 7:01 AM](https://archive.org/download/france24-2022/france24-2022-09-02T14:00:42.707546+02:00.hyperlinks.json) |
+| [September 2 at 3:16 AM](https://archive.org/download/france24-2022/france24-2022-09-02T10:16:09.138252+02:00.hyperlinks.json) |
+| [September 1 at 6:58 PM](https://archive.org/download/france24-2022/france24-2022-09-02T01:57:44.868169+02:00.hyperlinks.json) |
+| [September 1 at 7:09 AM](https://archive.org/download/france24-2022/france24-2022-09-01T14:08:57.659572+02:00.hyperlinks.json) |
+| [September 1 at 3:16 AM](https://archive.org/download/france24-2022/france24-2022-09-01T10:16:27.777650+02:00.hyperlinks.json) |
+| [August 31 at 6:50 PM](https://archive.org/download/france24-2022/france24-2022-09-01T01:50:30.460453+02:00.hyperlinks.json) |
+| [August 31 at 8:00 AM](https://archive.org/download/france24-2022/france24-2022-08-31T15:00:18.984280+02:00.hyperlinks.json) |
+| [August 31 at 3:14 AM](https://archive.org/download/france24-2022/france24-2022-08-31T10:14:28.736203+02:00.hyperlinks.json) |
+| [August 30 at 6:58 PM](https://archive.org/download/france24-2022/france24-2022-08-31T01:58:34.616942+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 318 accessibility trees with the Internet Archive.
+The archiving routine has saved 324 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 1 at 1:50 AM](https://archive.org/download/france24-2022/france24-2022-09-01T01:50:30.460453+02:00.accessibility.json) |
-| [August 31 at 3:00 PM](https://archive.org/download/france24-2022/france24-2022-08-31T15:00:18.984280+02:00.accessibility.json) |
-| [August 31 at 10:14 AM](https://archive.org/download/france24-2022/france24-2022-08-31T10:14:28.736203+02:00.accessibility.json) |
-| [August 31 at 1:58 AM](https://archive.org/download/france24-2022/france24-2022-08-31T01:58:34.616942+02:00.accessibility.json) |
-| [August 30 at 2:06 PM](https://archive.org/download/france24-2022/france24-2022-08-30T14:06:37.960260+02:00.accessibility.json) |
-| [August 30 at 10:17 AM](https://archive.org/download/france24-2022/france24-2022-08-30T10:16:56.589764+02:00.accessibility.json) |
-| [August 30 at 1:50 AM](https://archive.org/download/france24-2022/france24-2022-08-30T01:50:21.503036+02:00.accessibility.json) |
-| [August 29 at 1:55 PM](https://archive.org/download/france24-2022/france24-2022-08-29T13:55:43.953145+02:00.accessibility.json) |
-| [August 29 at 10:14 AM](https://archive.org/download/france24-2022/france24-2022-08-29T10:14:27.580243+02:00.accessibility.json) |
-| [August 29 at 1:47 AM](https://archive.org/download/france24-2022/france24-2022-08-29T01:46:58.356066+02:00.accessibility.json) |
+| [September 2 at 6:57 PM](https://archive.org/download/france24-2022/france24-2022-09-03T01:57:23.898705+02:00.accessibility.json) |
+| [September 2 at 7:01 AM](https://archive.org/download/france24-2022/france24-2022-09-02T14:00:42.707546+02:00.accessibility.json) |
+| [September 2 at 3:16 AM](https://archive.org/download/france24-2022/france24-2022-09-02T10:16:09.138252+02:00.accessibility.json) |
+| [September 1 at 6:58 PM](https://archive.org/download/france24-2022/france24-2022-09-02T01:57:44.868169+02:00.accessibility.json) |
+| [September 1 at 7:09 AM](https://archive.org/download/france24-2022/france24-2022-09-01T14:08:57.659572+02:00.accessibility.json) |
+| [September 1 at 3:16 AM](https://archive.org/download/france24-2022/france24-2022-09-01T10:16:27.777650+02:00.accessibility.json) |
+| [August 31 at 6:50 PM](https://archive.org/download/france24-2022/france24-2022-09-01T01:50:30.460453+02:00.accessibility.json) |
+| [August 31 at 8:00 AM](https://archive.org/download/france24-2022/france24-2022-08-31T15:00:18.984280+02:00.accessibility.json) |
+| [August 31 at 3:14 AM](https://archive.org/download/france24-2022/france24-2022-08-31T10:14:28.736203+02:00.accessibility.json) |
+| [August 30 at 6:58 PM](https://archive.org/download/france24-2022/france24-2022-08-31T01:58:34.616942+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 116 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 122 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 1 at 1:50 AM](https://archive.org/download/france24-2022/france24-2022-09-01T01:50:30.460453+02:00.lighthouse.json) |
-| [August 31 at 3:00 PM](https://archive.org/download/france24-2022/france24-2022-08-31T15:00:18.984280+02:00.lighthouse.json) |
-| [August 31 at 10:14 AM](https://archive.org/download/france24-2022/france24-2022-08-31T10:14:28.736203+02:00.lighthouse.json) |
-| [August 31 at 1:58 AM](https://archive.org/download/france24-2022/france24-2022-08-31T01:58:34.616942+02:00.lighthouse.json) |
-| [August 30 at 2:06 PM](https://archive.org/download/france24-2022/france24-2022-08-30T14:06:37.960260+02:00.lighthouse.json) |
-| [August 30 at 10:17 AM](https://archive.org/download/france24-2022/france24-2022-08-30T10:16:56.589764+02:00.lighthouse.json) |
-| [August 30 at 1:50 AM](https://archive.org/download/france24-2022/france24-2022-08-30T01:50:21.503036+02:00.lighthouse.json) |
-| [August 29 at 1:55 PM](https://archive.org/download/france24-2022/france24-2022-08-29T13:55:43.953145+02:00.lighthouse.json) |
-| [August 29 at 10:14 AM](https://archive.org/download/france24-2022/france24-2022-08-29T10:14:27.580243+02:00.lighthouse.json) |
-| [August 29 at 1:47 AM](https://archive.org/download/france24-2022/france24-2022-08-29T01:46:58.356066+02:00.lighthouse.json) |
+| [September 2 at 6:57 PM](https://archive.org/download/france24-2022/france24-2022-09-03T01:57:23.898705+02:00.lighthouse.json) |
+| [September 2 at 7:01 AM](https://archive.org/download/france24-2022/france24-2022-09-02T14:00:42.707546+02:00.lighthouse.json) |
+| [September 2 at 3:16 AM](https://archive.org/download/france24-2022/france24-2022-09-02T10:16:09.138252+02:00.lighthouse.json) |
+| [September 1 at 6:58 PM](https://archive.org/download/france24-2022/france24-2022-09-02T01:57:44.868169+02:00.lighthouse.json) |
+| [September 1 at 7:09 AM](https://archive.org/download/france24-2022/france24-2022-09-01T14:08:57.659572+02:00.lighthouse.json) |
+| [September 1 at 3:16 AM](https://archive.org/download/france24-2022/france24-2022-09-01T10:16:27.777650+02:00.lighthouse.json) |
+| [August 31 at 6:50 PM](https://archive.org/download/france24-2022/france24-2022-09-01T01:50:30.460453+02:00.lighthouse.json) |
+| [August 31 at 8:00 AM](https://archive.org/download/france24-2022/france24-2022-08-31T15:00:18.984280+02:00.lighthouse.json) |
+| [August 31 at 3:14 AM](https://archive.org/download/france24-2022/france24-2022-08-31T10:14:28.736203+02:00.lighthouse.json) |
+| [August 30 at 6:58 PM](https://archive.org/download/france24-2022/france24-2022-08-31T01:58:34.616942+02:00.lighthouse.json) |
 
 
 
