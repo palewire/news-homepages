@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/newsmax-2022/newsmax-2022-09-02T14:31:22.328592-04:00.jpg">
   <img src="https://archive.org/download/newsmax-2022/newsmax-2022-09-02T14:31:22.328592-04:00.jpg"
-     alt="Newsmax at 2022-09-02 07:31:41-04:00 local time"
+     alt="Newsmax at 2022-09-02 14:31:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-09-02T14:31:22.328592-04:00.jpg">September 2 at 7:31 AM</a></p>
+ <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-09-02T14:31:22.328592-04:00.jpg">September 2 at 2:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsmax-2022/newsmax-2022-09-02T11:11:08.396455-04:00.jpg">
   <img src="https://archive.org/download/newsmax-2022/newsmax-2022-09-02T11:11:08.396455-04:00.jpg"
-     alt="Newsmax at 2022-09-02 04:11:12-04:00 local time"
+     alt="Newsmax at 2022-09-02 11:11:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-09-02T11:11:08.396455-04:00.jpg">September 2 at 4:11 AM</a></p>
+ <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-09-02T11:11:08.396455-04:00.jpg">September 2 at 11:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsmax-2022/newsmax-2022-09-01T23:54:03.669284-04:00.jpg">
   <img src="https://archive.org/download/newsmax-2022/newsmax-2022-09-01T23:54:03.669284-04:00.jpg"
-     alt="Newsmax at 2022-09-01 16:54:08-04:00 local time"
+     alt="Newsmax at 2022-09-01 23:54:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-09-01T23:54:03.669284-04:00.jpg">September 1 at 4:54 PM</a></p>
+ <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-09-01T23:54:03.669284-04:00.jpg">September 1 at 11:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsmax-2022/newsmax-2022-09-01T14:42:44.039431-04:00.jpg">
   <img src="https://archive.org/download/newsmax-2022/newsmax-2022-09-01T14:42:44.039431-04:00.jpg"
-     alt="Newsmax at 2022-09-01 07:42:45-04:00 local time"
+     alt="Newsmax at 2022-09-01 14:42:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-09-01T14:42:44.039431-04:00.jpg">September 1 at 7:42 AM</a></p>
+ <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-09-01T14:42:44.039431-04:00.jpg">September 1 at 2:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsmax-2022/newsmax-2022-09-01T11:31:42.518557-04:00.jpg">
   <img src="https://archive.org/download/newsmax-2022/newsmax-2022-09-01T11:31:42.518557-04:00.jpg"
-     alt="Newsmax at 2022-09-01 04:31:49-04:00 local time"
+     alt="Newsmax at 2022-09-01 11:31:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-09-01T11:31:42.518557-04:00.jpg">September 1 at 4:31 AM</a></p>
+ <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-09-01T11:31:42.518557-04:00.jpg">September 1 at 11:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsmax-2022/newsmax-2022-08-31T23:49:19.737137-04:00.jpg">
   <img src="https://archive.org/download/newsmax-2022/newsmax-2022-08-31T23:49:19.737137-04:00.jpg"
-     alt="Newsmax at 2022-08-31 16:49:21-04:00 local time"
+     alt="Newsmax at 2022-08-31 23:49:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-08-31T23:49:19.737137-04:00.jpg">August 31 at 4:49 PM</a></p>
+ <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-08-31T23:49:19.737137-04:00.jpg">August 31 at 11:49 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsmax-2022/newsmax-2022-08-31T14:35:53.985723-04:00.jpg">
   <img src="https://archive.org/download/newsmax-2022/newsmax-2022-08-31T14:35:53.985723-04:00.jpg"
-     alt="Newsmax at 2022-08-31 07:36:02-04:00 local time"
+     alt="Newsmax at 2022-08-31 14:36:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-08-31T14:35:53.985723-04:00.jpg">August 31 at 7:36 AM</a></p>
+ <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-08-31T14:35:53.985723-04:00.jpg">August 31 at 2:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsmax-2022/newsmax-2022-08-31T11:11:10.447771-04:00.jpg">
   <img src="https://archive.org/download/newsmax-2022/newsmax-2022-08-31T11:11:10.447771-04:00.jpg"
-     alt="Newsmax at 2022-08-31 04:11:16-04:00 local time"
+     alt="Newsmax at 2022-08-31 11:11:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-08-31T11:11:10.447771-04:00.jpg">August 31 at 4:11 AM</a></p>
+ <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-08-31T11:11:10.447771-04:00.jpg">August 31 at 11:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsmax-2022/newsmax-2022-08-30T23:51:08.725248-04:00.jpg">
   <img src="https://archive.org/download/newsmax-2022/newsmax-2022-08-30T23:51:08.725248-04:00.jpg"
-     alt="Newsmax at 2022-08-30 16:51:10-04:00 local time"
+     alt="Newsmax at 2022-08-30 23:51:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-08-30T23:51:08.725248-04:00.jpg">August 30 at 4:51 PM</a></p>
+ <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-08-30T23:51:08.725248-04:00.jpg">August 30 at 11:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsmax-2022/newsmax-2022-08-30T14:32:29.393547-04:00.jpg">
   <img src="https://archive.org/download/newsmax-2022/newsmax-2022-08-30T14:32:29.393547-04:00.jpg"
-     alt="Newsmax at 2022-08-30 07:32:31-04:00 local time"
+     alt="Newsmax at 2022-08-30 14:32:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-08-30T14:32:29.393547-04:00.jpg">August 30 at 7:32 AM</a></p>
+ <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-08-30T14:32:29.393547-04:00.jpg">August 30 at 2:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsmax-2022/newsmax-2022-08-30T11:38:22.265997-04:00.jpg">
   <img src="https://archive.org/download/newsmax-2022/newsmax-2022-08-30T11:38:22.265997-04:00.jpg"
-     alt="Newsmax at 2022-08-30 04:38:30-04:00 local time"
+     alt="Newsmax at 2022-08-30 11:38:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-08-30T11:38:22.265997-04:00.jpg">August 30 at 4:38 AM</a></p>
+ <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-08-30T11:38:22.265997-04:00.jpg">August 30 at 11:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsmax-2022/newsmax-2022-08-29T23:57:50.035557-04:00.jpg">
   <img src="https://archive.org/download/newsmax-2022/newsmax-2022-08-29T23:57:50.035557-04:00.jpg"
-     alt="Newsmax at 2022-08-29 16:57:51-04:00 local time"
+     alt="Newsmax at 2022-08-29 23:57:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-08-29T23:57:50.035557-04:00.jpg">August 29 at 4:57 PM</a></p>
+ <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-08-29T23:57:50.035557-04:00.jpg">August 29 at 11:57 PM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 7:31 AM](https://archive.org/download/newsmax-2022/newsmax-2022-09-02T14:31:22.328592-04:00.hyperlinks.json) |
-| [September 2 at 4:11 AM](https://archive.org/download/newsmax-2022/newsmax-2022-09-02T11:11:08.396455-04:00.hyperlinks.json) |
-| [September 1 at 4:54 PM](https://archive.org/download/newsmax-2022/newsmax-2022-09-01T23:54:03.669284-04:00.hyperlinks.json) |
-| [September 1 at 7:42 AM](https://archive.org/download/newsmax-2022/newsmax-2022-09-01T14:42:44.039431-04:00.hyperlinks.json) |
-| [September 1 at 4:31 AM](https://archive.org/download/newsmax-2022/newsmax-2022-09-01T11:31:42.518557-04:00.hyperlinks.json) |
-| [August 31 at 4:49 PM](https://archive.org/download/newsmax-2022/newsmax-2022-08-31T23:49:19.737137-04:00.hyperlinks.json) |
-| [August 31 at 7:36 AM](https://archive.org/download/newsmax-2022/newsmax-2022-08-31T14:35:53.985723-04:00.hyperlinks.json) |
-| [August 31 at 4:11 AM](https://archive.org/download/newsmax-2022/newsmax-2022-08-31T11:11:10.447771-04:00.hyperlinks.json) |
-| [August 30 at 4:51 PM](https://archive.org/download/newsmax-2022/newsmax-2022-08-30T23:51:08.725248-04:00.hyperlinks.json) |
-| [August 30 at 7:32 AM](https://archive.org/download/newsmax-2022/newsmax-2022-08-30T14:32:29.393547-04:00.hyperlinks.json) |
+| [September 2 at 2:31 PM](https://archive.org/download/newsmax-2022/newsmax-2022-09-02T14:31:22.328592-04:00.hyperlinks.json) |
+| [September 2 at 11:11 AM](https://archive.org/download/newsmax-2022/newsmax-2022-09-02T11:11:08.396455-04:00.hyperlinks.json) |
+| [September 1 at 11:54 PM](https://archive.org/download/newsmax-2022/newsmax-2022-09-01T23:54:03.669284-04:00.hyperlinks.json) |
+| [September 1 at 2:42 PM](https://archive.org/download/newsmax-2022/newsmax-2022-09-01T14:42:44.039431-04:00.hyperlinks.json) |
+| [September 1 at 11:31 AM](https://archive.org/download/newsmax-2022/newsmax-2022-09-01T11:31:42.518557-04:00.hyperlinks.json) |
+| [August 31 at 11:49 PM](https://archive.org/download/newsmax-2022/newsmax-2022-08-31T23:49:19.737137-04:00.hyperlinks.json) |
+| [August 31 at 2:36 PM](https://archive.org/download/newsmax-2022/newsmax-2022-08-31T14:35:53.985723-04:00.hyperlinks.json) |
+| [August 31 at 11:11 AM](https://archive.org/download/newsmax-2022/newsmax-2022-08-31T11:11:10.447771-04:00.hyperlinks.json) |
+| [August 30 at 11:51 PM](https://archive.org/download/newsmax-2022/newsmax-2022-08-30T23:51:08.725248-04:00.hyperlinks.json) |
+| [August 30 at 2:32 PM](https://archive.org/download/newsmax-2022/newsmax-2022-08-30T14:32:29.393547-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 7:31 AM](https://archive.org/download/newsmax-2022/newsmax-2022-09-02T14:31:22.328592-04:00.accessibility.json) |
-| [September 2 at 4:11 AM](https://archive.org/download/newsmax-2022/newsmax-2022-09-02T11:11:08.396455-04:00.accessibility.json) |
-| [September 1 at 4:54 PM](https://archive.org/download/newsmax-2022/newsmax-2022-09-01T23:54:03.669284-04:00.accessibility.json) |
-| [September 1 at 7:42 AM](https://archive.org/download/newsmax-2022/newsmax-2022-09-01T14:42:44.039431-04:00.accessibility.json) |
-| [September 1 at 4:31 AM](https://archive.org/download/newsmax-2022/newsmax-2022-09-01T11:31:42.518557-04:00.accessibility.json) |
-| [August 31 at 4:49 PM](https://archive.org/download/newsmax-2022/newsmax-2022-08-31T23:49:19.737137-04:00.accessibility.json) |
-| [August 31 at 7:36 AM](https://archive.org/download/newsmax-2022/newsmax-2022-08-31T14:35:53.985723-04:00.accessibility.json) |
-| [August 31 at 4:11 AM](https://archive.org/download/newsmax-2022/newsmax-2022-08-31T11:11:10.447771-04:00.accessibility.json) |
-| [August 30 at 4:51 PM](https://archive.org/download/newsmax-2022/newsmax-2022-08-30T23:51:08.725248-04:00.accessibility.json) |
-| [August 30 at 7:32 AM](https://archive.org/download/newsmax-2022/newsmax-2022-08-30T14:32:29.393547-04:00.accessibility.json) |
+| [September 2 at 2:31 PM](https://archive.org/download/newsmax-2022/newsmax-2022-09-02T14:31:22.328592-04:00.accessibility.json) |
+| [September 2 at 11:11 AM](https://archive.org/download/newsmax-2022/newsmax-2022-09-02T11:11:08.396455-04:00.accessibility.json) |
+| [September 1 at 11:54 PM](https://archive.org/download/newsmax-2022/newsmax-2022-09-01T23:54:03.669284-04:00.accessibility.json) |
+| [September 1 at 2:42 PM](https://archive.org/download/newsmax-2022/newsmax-2022-09-01T14:42:44.039431-04:00.accessibility.json) |
+| [September 1 at 11:31 AM](https://archive.org/download/newsmax-2022/newsmax-2022-09-01T11:31:42.518557-04:00.accessibility.json) |
+| [August 31 at 11:49 PM](https://archive.org/download/newsmax-2022/newsmax-2022-08-31T23:49:19.737137-04:00.accessibility.json) |
+| [August 31 at 2:36 PM](https://archive.org/download/newsmax-2022/newsmax-2022-08-31T14:35:53.985723-04:00.accessibility.json) |
+| [August 31 at 11:11 AM](https://archive.org/download/newsmax-2022/newsmax-2022-08-31T11:11:10.447771-04:00.accessibility.json) |
+| [August 30 at 11:51 PM](https://archive.org/download/newsmax-2022/newsmax-2022-08-30T23:51:08.725248-04:00.accessibility.json) |
+| [August 30 at 2:32 PM](https://archive.org/download/newsmax-2022/newsmax-2022-08-30T14:32:29.393547-04:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 7:31 AM](https://archive.org/download/newsmax-2022/newsmax-2022-09-02T14:31:22.328592-04:00.lighthouse.json) |
-| [September 2 at 4:11 AM](https://archive.org/download/newsmax-2022/newsmax-2022-09-02T11:11:08.396455-04:00.lighthouse.json) |
-| [September 1 at 4:54 PM](https://archive.org/download/newsmax-2022/newsmax-2022-09-01T23:54:03.669284-04:00.lighthouse.json) |
-| [September 1 at 7:42 AM](https://archive.org/download/newsmax-2022/newsmax-2022-09-01T14:42:44.039431-04:00.lighthouse.json) |
-| [September 1 at 4:31 AM](https://archive.org/download/newsmax-2022/newsmax-2022-09-01T11:31:42.518557-04:00.lighthouse.json) |
-| [August 31 at 4:49 PM](https://archive.org/download/newsmax-2022/newsmax-2022-08-31T23:49:19.737137-04:00.lighthouse.json) |
-| [August 31 at 7:36 AM](https://archive.org/download/newsmax-2022/newsmax-2022-08-31T14:35:53.985723-04:00.lighthouse.json) |
-| [August 31 at 4:11 AM](https://archive.org/download/newsmax-2022/newsmax-2022-08-31T11:11:10.447771-04:00.lighthouse.json) |
-| [August 30 at 4:51 PM](https://archive.org/download/newsmax-2022/newsmax-2022-08-30T23:51:08.725248-04:00.lighthouse.json) |
-| [August 30 at 7:32 AM](https://archive.org/download/newsmax-2022/newsmax-2022-08-30T14:32:29.393547-04:00.lighthouse.json) |
+| [September 2 at 2:31 PM](https://archive.org/download/newsmax-2022/newsmax-2022-09-02T14:31:22.328592-04:00.lighthouse.json) |
+| [September 2 at 11:11 AM](https://archive.org/download/newsmax-2022/newsmax-2022-09-02T11:11:08.396455-04:00.lighthouse.json) |
+| [September 1 at 11:54 PM](https://archive.org/download/newsmax-2022/newsmax-2022-09-01T23:54:03.669284-04:00.lighthouse.json) |
+| [September 1 at 2:42 PM](https://archive.org/download/newsmax-2022/newsmax-2022-09-01T14:42:44.039431-04:00.lighthouse.json) |
+| [September 1 at 11:31 AM](https://archive.org/download/newsmax-2022/newsmax-2022-09-01T11:31:42.518557-04:00.lighthouse.json) |
+| [August 31 at 11:49 PM](https://archive.org/download/newsmax-2022/newsmax-2022-08-31T23:49:19.737137-04:00.lighthouse.json) |
+| [August 31 at 2:36 PM](https://archive.org/download/newsmax-2022/newsmax-2022-08-31T14:35:53.985723-04:00.lighthouse.json) |
+| [August 31 at 11:11 AM](https://archive.org/download/newsmax-2022/newsmax-2022-08-31T11:11:10.447771-04:00.lighthouse.json) |
+| [August 30 at 11:51 PM](https://archive.org/download/newsmax-2022/newsmax-2022-08-30T23:51:08.725248-04:00.lighthouse.json) |
+| [August 30 at 2:32 PM](https://archive.org/download/newsmax-2022/newsmax-2022-08-30T14:32:29.393547-04:00.lighthouse.json) |
 
 
 

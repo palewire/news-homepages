@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-09-02T12:20:33.866905-04:00.jpg">
   <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-09-02T12:20:33.866905-04:00.jpg"
-     alt="VT Digger at 2022-09-02 05:20:37-04:00 local time"
+     alt="VT Digger at 2022-09-02 12:20:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-09-02T12:20:33.866905-04:00.jpg">September 2 at 5:20 AM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-09-02T12:20:33.866905-04:00.jpg">September 2 at 12:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-09-02T00:52:53.380429-04:00.jpg">
   <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-09-02T00:52:53.380429-04:00.jpg"
-     alt="VT Digger at 2022-09-01 17:53:03-04:00 local time"
+     alt="VT Digger at 2022-09-02 00:53:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-09-02T00:52:53.380429-04:00.jpg">September 1 at 5:53 PM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-09-02T00:52:53.380429-04:00.jpg">September 2 at 12:53 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-09-01T12:44:36.977104-04:00.jpg">
   <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-09-01T12:44:36.977104-04:00.jpg"
-     alt="VT Digger at 2022-09-01 05:44:44-04:00 local time"
+     alt="VT Digger at 2022-09-01 12:44:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-09-01T12:44:36.977104-04:00.jpg">September 1 at 5:44 AM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-09-01T12:44:36.977104-04:00.jpg">September 1 at 12:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-09-01T00:47:03.167358-04:00.jpg">
   <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-09-01T00:47:03.167358-04:00.jpg"
-     alt="VT Digger at 2022-08-31 17:47:20-04:00 local time"
+     alt="VT Digger at 2022-09-01 00:47:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-09-01T00:47:03.167358-04:00.jpg">August 31 at 5:47 PM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-09-01T00:47:03.167358-04:00.jpg">September 1 at 12:47 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-31T12:15:20.160222-04:00.jpg">
   <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-31T12:15:20.160222-04:00.jpg"
-     alt="VT Digger at 2022-08-31 05:15:27-04:00 local time"
+     alt="VT Digger at 2022-08-31 12:15:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-31T12:15:20.160222-04:00.jpg">August 31 at 5:15 AM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-31T12:15:20.160222-04:00.jpg">August 31 at 12:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-31T00:54:55.166509-04:00.jpg">
   <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-31T00:54:55.166509-04:00.jpg"
-     alt="VT Digger at 2022-08-30 17:55:02-04:00 local time"
+     alt="VT Digger at 2022-08-31 00:55:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-31T00:54:55.166509-04:00.jpg">August 30 at 5:55 PM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-31T00:54:55.166509-04:00.jpg">August 31 at 12:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-30T12:39:11.224897-04:00.jpg">
   <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-30T12:39:11.224897-04:00.jpg"
-     alt="VT Digger at 2022-08-30 05:39:17-04:00 local time"
+     alt="VT Digger at 2022-08-30 12:39:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-30T12:39:11.224897-04:00.jpg">August 30 at 5:39 AM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-30T12:39:11.224897-04:00.jpg">August 30 at 12:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-30T01:00:16.204862-04:00.jpg">
   <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-30T01:00:16.204862-04:00.jpg"
-     alt="VT Digger at 2022-08-29 18:00:17-04:00 local time"
+     alt="VT Digger at 2022-08-30 01:00:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-30T01:00:16.204862-04:00.jpg">August 29 at 6:00 PM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-30T01:00:16.204862-04:00.jpg">August 30 at 1:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-29T12:20:39.842721-04:00.jpg">
   <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-29T12:20:39.842721-04:00.jpg"
-     alt="VT Digger at 2022-08-29 05:21:08-04:00 local time"
+     alt="VT Digger at 2022-08-29 12:21:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-29T12:20:39.842721-04:00.jpg">August 29 at 5:21 AM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-29T12:20:39.842721-04:00.jpg">August 29 at 12:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-29T00:43:30.825139-04:00.jpg">
   <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-29T00:43:30.825139-04:00.jpg"
-     alt="VT Digger at 2022-08-28 17:43:48-04:00 local time"
+     alt="VT Digger at 2022-08-29 00:43:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-29T00:43:30.825139-04:00.jpg">August 28 at 5:43 PM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-29T00:43:30.825139-04:00.jpg">August 29 at 12:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-28T12:06:06.754811-04:00.jpg">
   <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-28T12:06:06.754811-04:00.jpg"
-     alt="VT Digger at 2022-08-28 05:06:14-04:00 local time"
+     alt="VT Digger at 2022-08-28 12:06:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-28T12:06:06.754811-04:00.jpg">August 28 at 5:06 AM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-28T12:06:06.754811-04:00.jpg">August 28 at 12:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-28T00:40:18.276692-04:00.jpg">
   <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-28T00:40:18.276692-04:00.jpg"
-     alt="VT Digger at 2022-08-27 17:40:26-04:00 local time"
+     alt="VT Digger at 2022-08-28 00:40:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-28T00:40:18.276692-04:00.jpg">August 27 at 5:40 PM</a></p>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-28T00:40:18.276692-04:00.jpg">August 28 at 12:40 AM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 5:20 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-09-02T12:20:33.866905-04:00.hyperlinks.json) |
-| [September 1 at 5:53 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-09-02T00:52:53.380429-04:00.hyperlinks.json) |
-| [September 1 at 5:44 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-09-01T12:44:36.977104-04:00.hyperlinks.json) |
-| [August 31 at 5:47 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-09-01T00:47:03.167358-04:00.hyperlinks.json) |
-| [August 31 at 5:15 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-31T12:15:20.160222-04:00.hyperlinks.json) |
-| [August 30 at 5:55 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-31T00:54:55.166509-04:00.hyperlinks.json) |
-| [August 30 at 5:39 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-30T12:39:11.224897-04:00.hyperlinks.json) |
-| [August 29 at 6:00 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-30T01:00:16.204862-04:00.hyperlinks.json) |
-| [August 29 at 5:21 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-29T12:20:39.842721-04:00.hyperlinks.json) |
-| [August 28 at 5:43 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-29T00:43:30.825139-04:00.hyperlinks.json) |
+| [September 2 at 12:20 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-09-02T12:20:33.866905-04:00.hyperlinks.json) |
+| [September 2 at 12:53 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-09-02T00:52:53.380429-04:00.hyperlinks.json) |
+| [September 1 at 12:44 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-09-01T12:44:36.977104-04:00.hyperlinks.json) |
+| [September 1 at 12:47 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-09-01T00:47:03.167358-04:00.hyperlinks.json) |
+| [August 31 at 12:15 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-31T12:15:20.160222-04:00.hyperlinks.json) |
+| [August 31 at 12:55 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-31T00:54:55.166509-04:00.hyperlinks.json) |
+| [August 30 at 12:39 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-30T12:39:11.224897-04:00.hyperlinks.json) |
+| [August 30 at 1:00 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-30T01:00:16.204862-04:00.hyperlinks.json) |
+| [August 29 at 12:21 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-29T12:20:39.842721-04:00.hyperlinks.json) |
+| [August 29 at 12:43 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-29T00:43:30.825139-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 5:20 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-09-02T12:20:33.866905-04:00.accessibility.json) |
-| [September 1 at 5:53 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-09-02T00:52:53.380429-04:00.accessibility.json) |
-| [September 1 at 5:44 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-09-01T12:44:36.977104-04:00.accessibility.json) |
-| [August 31 at 5:47 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-09-01T00:47:03.167358-04:00.accessibility.json) |
-| [August 31 at 5:15 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-31T12:15:20.160222-04:00.accessibility.json) |
-| [August 30 at 5:55 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-31T00:54:55.166509-04:00.accessibility.json) |
-| [August 30 at 5:39 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-30T12:39:11.224897-04:00.accessibility.json) |
-| [August 29 at 6:00 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-30T01:00:16.204862-04:00.accessibility.json) |
-| [August 29 at 5:21 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-29T12:20:39.842721-04:00.accessibility.json) |
-| [August 28 at 5:43 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-29T00:43:30.825139-04:00.accessibility.json) |
+| [September 2 at 12:20 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-09-02T12:20:33.866905-04:00.accessibility.json) |
+| [September 2 at 12:53 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-09-02T00:52:53.380429-04:00.accessibility.json) |
+| [September 1 at 12:44 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-09-01T12:44:36.977104-04:00.accessibility.json) |
+| [September 1 at 12:47 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-09-01T00:47:03.167358-04:00.accessibility.json) |
+| [August 31 at 12:15 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-31T12:15:20.160222-04:00.accessibility.json) |
+| [August 31 at 12:55 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-31T00:54:55.166509-04:00.accessibility.json) |
+| [August 30 at 12:39 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-30T12:39:11.224897-04:00.accessibility.json) |
+| [August 30 at 1:00 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-30T01:00:16.204862-04:00.accessibility.json) |
+| [August 29 at 12:21 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-29T12:20:39.842721-04:00.accessibility.json) |
+| [August 29 at 12:43 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-29T00:43:30.825139-04:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 5:20 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-09-02T12:20:33.866905-04:00.lighthouse.json) |
-| [September 1 at 5:53 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-09-02T00:52:53.380429-04:00.lighthouse.json) |
-| [September 1 at 5:44 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-09-01T12:44:36.977104-04:00.lighthouse.json) |
-| [August 31 at 5:47 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-09-01T00:47:03.167358-04:00.lighthouse.json) |
-| [August 31 at 5:15 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-31T12:15:20.160222-04:00.lighthouse.json) |
-| [August 30 at 5:55 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-31T00:54:55.166509-04:00.lighthouse.json) |
-| [August 30 at 5:39 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-30T12:39:11.224897-04:00.lighthouse.json) |
-| [August 29 at 6:00 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-30T01:00:16.204862-04:00.lighthouse.json) |
-| [August 29 at 5:21 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-29T12:20:39.842721-04:00.lighthouse.json) |
-| [August 28 at 5:43 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-29T00:43:30.825139-04:00.lighthouse.json) |
+| [September 2 at 12:20 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-09-02T12:20:33.866905-04:00.lighthouse.json) |
+| [September 2 at 12:53 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-09-02T00:52:53.380429-04:00.lighthouse.json) |
+| [September 1 at 12:44 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-09-01T12:44:36.977104-04:00.lighthouse.json) |
+| [September 1 at 12:47 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-09-01T00:47:03.167358-04:00.lighthouse.json) |
+| [August 31 at 12:15 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-31T12:15:20.160222-04:00.lighthouse.json) |
+| [August 31 at 12:55 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-31T00:54:55.166509-04:00.lighthouse.json) |
+| [August 30 at 12:39 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-30T12:39:11.224897-04:00.lighthouse.json) |
+| [August 30 at 1:00 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-30T01:00:16.204862-04:00.lighthouse.json) |
+| [August 29 at 12:21 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-29T12:20:39.842721-04:00.lighthouse.json) |
+| [August 29 at 12:43 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-29T00:43:30.825139-04:00.lighthouse.json) |
 
 
 

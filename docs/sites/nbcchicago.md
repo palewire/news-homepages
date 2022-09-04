@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-02T11:23:00.523893-05:00.jpg">
   <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-02T11:23:00.523893-05:00.jpg"
-     alt="NBC Chicago at 2022-09-02 04:23:01-05:00 local time"
+     alt="NBC Chicago at 2022-09-02 11:23:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-02T11:23:00.523893-05:00.jpg">September 2 at 4:23 AM</a></p>
+ <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-02T11:23:00.523893-05:00.jpg">September 2 at 11:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-02T10:10:23.609090-05:00.jpg">
   <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-02T10:10:23.609090-05:00.jpg"
-     alt="NBC Chicago at 2022-09-02 03:10:33-05:00 local time"
+     alt="NBC Chicago at 2022-09-02 10:10:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-02T10:10:23.609090-05:00.jpg">September 2 at 3:10 AM</a></p>
+ <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-02T10:10:23.609090-05:00.jpg">September 2 at 10:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T22:51:16.379204-05:00.jpg">
   <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T22:51:16.379204-05:00.jpg"
-     alt="NBC Chicago at 2022-09-01 15:51:22-05:00 local time"
+     alt="NBC Chicago at 2022-09-01 22:51:22-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T22:51:16.379204-05:00.jpg">September 1 at 3:51 PM</a></p>
+ <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T22:51:16.379204-05:00.jpg">September 1 at 10:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T11:32:50.319063-05:00.jpg">
   <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T11:32:50.319063-05:00.jpg"
-     alt="NBC Chicago at 2022-09-01 04:32:58-05:00 local time"
+     alt="NBC Chicago at 2022-09-01 11:32:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T11:32:50.319063-05:00.jpg">September 1 at 4:32 AM</a></p>
+ <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T11:32:50.319063-05:00.jpg">September 1 at 11:32 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T10:31:26.956795-05:00.jpg">
   <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T10:31:26.956795-05:00.jpg"
-     alt="NBC Chicago at 2022-09-01 03:31:47-05:00 local time"
+     alt="NBC Chicago at 2022-09-01 10:31:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T10:31:26.956795-05:00.jpg">September 1 at 3:31 AM</a></p>
+ <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T10:31:26.956795-05:00.jpg">September 1 at 10:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T22:47:56.476547-05:00.jpg">
   <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T22:47:56.476547-05:00.jpg"
-     alt="NBC Chicago at 2022-08-31 15:48:04-05:00 local time"
+     alt="NBC Chicago at 2022-08-31 22:48:04-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T22:47:56.476547-05:00.jpg">August 31 at 3:48 PM</a></p>
+ <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T22:47:56.476547-05:00.jpg">August 31 at 10:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T11:08:36.541506-05:00.jpg">
   <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T11:08:36.541506-05:00.jpg"
-     alt="NBC Chicago at 2022-08-31 04:08:37-05:00 local time"
+     alt="NBC Chicago at 2022-08-31 11:08:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T11:08:36.541506-05:00.jpg">August 31 at 4:08 AM</a></p>
+ <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T11:08:36.541506-05:00.jpg">August 31 at 11:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T10:11:28.491830-05:00.jpg">
   <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T10:11:28.491830-05:00.jpg"
-     alt="NBC Chicago at 2022-08-31 03:11:30-05:00 local time"
+     alt="NBC Chicago at 2022-08-31 10:11:30-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T10:11:28.491830-05:00.jpg">August 31 at 3:11 AM</a></p>
+ <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T10:11:28.491830-05:00.jpg">August 31 at 10:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-30T22:50:36.412383-05:00.jpg">
   <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-30T22:50:36.412383-05:00.jpg"
-     alt="NBC Chicago at 2022-08-30 15:50:42-05:00 local time"
+     alt="NBC Chicago at 2022-08-30 22:50:42-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-30T22:50:36.412383-05:00.jpg">August 30 at 3:50 PM</a></p>
+ <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-30T22:50:36.412383-05:00.jpg">August 30 at 10:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-30T11:29:57.557457-05:00.jpg">
   <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-30T11:29:57.557457-05:00.jpg"
-     alt="NBC Chicago at 2022-08-30 04:29:59-05:00 local time"
+     alt="NBC Chicago at 2022-08-30 11:29:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-30T11:29:57.557457-05:00.jpg">August 30 at 4:29 AM</a></p>
+ <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-30T11:29:57.557457-05:00.jpg">August 30 at 11:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-30T10:36:50.887136-05:00.jpg">
   <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-30T10:36:50.887136-05:00.jpg"
-     alt="NBC Chicago at 2022-08-30 03:36:59-05:00 local time"
+     alt="NBC Chicago at 2022-08-30 10:36:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-30T10:36:50.887136-05:00.jpg">August 30 at 3:36 AM</a></p>
+ <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-30T10:36:50.887136-05:00.jpg">August 30 at 10:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-29T22:57:30.141739-05:00.jpg">
   <img src="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-29T22:57:30.141739-05:00.jpg"
-     alt="NBC Chicago at 2022-08-29 15:57:31-05:00 local time"
+     alt="NBC Chicago at 2022-08-29 22:57:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-29T22:57:30.141739-05:00.jpg">August 29 at 3:57 PM</a></p>
+ <p><a href="https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-29T22:57:30.141739-05:00.jpg">August 29 at 10:57 PM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 4:23 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-02T11:23:00.523893-05:00.hyperlinks.json) |
-| [September 2 at 3:10 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-02T10:10:23.609090-05:00.hyperlinks.json) |
-| [September 1 at 3:51 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T22:51:16.379204-05:00.hyperlinks.json) |
-| [September 1 at 4:33 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T11:32:50.319063-05:00.hyperlinks.json) |
-| [September 1 at 3:31 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T10:31:26.956795-05:00.hyperlinks.json) |
-| [August 31 at 3:48 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T22:47:56.476547-05:00.hyperlinks.json) |
-| [August 31 at 4:08 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T11:08:36.541506-05:00.hyperlinks.json) |
-| [August 31 at 3:11 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T10:11:28.491830-05:00.hyperlinks.json) |
-| [August 30 at 3:50 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-30T22:50:36.412383-05:00.hyperlinks.json) |
-| [August 30 at 4:30 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-30T11:29:57.557457-05:00.hyperlinks.json) |
+| [September 2 at 11:23 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-02T11:23:00.523893-05:00.hyperlinks.json) |
+| [September 2 at 10:10 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-02T10:10:23.609090-05:00.hyperlinks.json) |
+| [September 1 at 10:51 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T22:51:16.379204-05:00.hyperlinks.json) |
+| [September 1 at 11:33 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T11:32:50.319063-05:00.hyperlinks.json) |
+| [September 1 at 10:31 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T10:31:26.956795-05:00.hyperlinks.json) |
+| [August 31 at 10:48 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T22:47:56.476547-05:00.hyperlinks.json) |
+| [August 31 at 11:08 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T11:08:36.541506-05:00.hyperlinks.json) |
+| [August 31 at 10:11 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T10:11:28.491830-05:00.hyperlinks.json) |
+| [August 30 at 10:50 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-30T22:50:36.412383-05:00.hyperlinks.json) |
+| [August 30 at 11:30 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-30T11:29:57.557457-05:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 4:23 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-02T11:23:00.523893-05:00.accessibility.json) |
-| [September 2 at 3:10 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-02T10:10:23.609090-05:00.accessibility.json) |
-| [September 1 at 3:51 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T22:51:16.379204-05:00.accessibility.json) |
-| [September 1 at 4:33 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T11:32:50.319063-05:00.accessibility.json) |
-| [September 1 at 3:31 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T10:31:26.956795-05:00.accessibility.json) |
-| [August 31 at 3:48 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T22:47:56.476547-05:00.accessibility.json) |
-| [August 31 at 4:08 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T11:08:36.541506-05:00.accessibility.json) |
-| [August 31 at 3:11 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T10:11:28.491830-05:00.accessibility.json) |
-| [August 30 at 3:50 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-30T22:50:36.412383-05:00.accessibility.json) |
-| [August 30 at 4:30 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-30T11:29:57.557457-05:00.accessibility.json) |
+| [September 2 at 11:23 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-02T11:23:00.523893-05:00.accessibility.json) |
+| [September 2 at 10:10 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-02T10:10:23.609090-05:00.accessibility.json) |
+| [September 1 at 10:51 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T22:51:16.379204-05:00.accessibility.json) |
+| [September 1 at 11:33 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T11:32:50.319063-05:00.accessibility.json) |
+| [September 1 at 10:31 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T10:31:26.956795-05:00.accessibility.json) |
+| [August 31 at 10:48 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T22:47:56.476547-05:00.accessibility.json) |
+| [August 31 at 11:08 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T11:08:36.541506-05:00.accessibility.json) |
+| [August 31 at 10:11 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T10:11:28.491830-05:00.accessibility.json) |
+| [August 30 at 10:50 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-30T22:50:36.412383-05:00.accessibility.json) |
+| [August 30 at 11:30 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-30T11:29:57.557457-05:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 4:23 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-02T11:23:00.523893-05:00.lighthouse.json) |
-| [September 2 at 3:10 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-02T10:10:23.609090-05:00.lighthouse.json) |
-| [September 1 at 3:51 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T22:51:16.379204-05:00.lighthouse.json) |
-| [September 1 at 4:33 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T11:32:50.319063-05:00.lighthouse.json) |
-| [September 1 at 3:31 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T10:31:26.956795-05:00.lighthouse.json) |
-| [August 31 at 3:48 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T22:47:56.476547-05:00.lighthouse.json) |
-| [August 31 at 4:08 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T11:08:36.541506-05:00.lighthouse.json) |
-| [August 31 at 3:11 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T10:11:28.491830-05:00.lighthouse.json) |
-| [August 30 at 3:50 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-30T22:50:36.412383-05:00.lighthouse.json) |
-| [August 30 at 4:30 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-30T11:29:57.557457-05:00.lighthouse.json) |
+| [September 2 at 11:23 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-02T11:23:00.523893-05:00.lighthouse.json) |
+| [September 2 at 10:10 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-02T10:10:23.609090-05:00.lighthouse.json) |
+| [September 1 at 10:51 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T22:51:16.379204-05:00.lighthouse.json) |
+| [September 1 at 11:33 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T11:32:50.319063-05:00.lighthouse.json) |
+| [September 1 at 10:31 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-09-01T10:31:26.956795-05:00.lighthouse.json) |
+| [August 31 at 10:48 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T22:47:56.476547-05:00.lighthouse.json) |
+| [August 31 at 11:08 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T11:08:36.541506-05:00.lighthouse.json) |
+| [August 31 at 10:11 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-31T10:11:28.491830-05:00.lighthouse.json) |
+| [August 30 at 10:50 PM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-30T22:50:36.412383-05:00.lighthouse.json) |
+| [August 30 at 11:30 AM](https://archive.org/download/nbcchicago-2022/nbcchicago-2022-08-30T11:29:57.557457-05:00.lighthouse.json) |
 
 
 

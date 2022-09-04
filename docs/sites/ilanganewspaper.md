@@ -245,109 +245,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-03T01:58:22.039152+02:00.jpg">
   <img src="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-03T01:58:22.039152+02:00.jpg"
-     alt="Ilanga at 2022-09-02 18:58:24+02:00 local time"
+     alt="Ilanga at 2022-09-03 01:58:24+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-03T01:58:22.039152+02:00.jpg">September 2 at 6:58 PM</a></p>
+ <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-03T01:58:22.039152+02:00.jpg">September 3 at 1:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-02T14:01:43.933281+02:00.jpg">
   <img src="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-02T14:01:43.933281+02:00.jpg"
-     alt="Ilanga at 2022-09-02 07:01:45+02:00 local time"
+     alt="Ilanga at 2022-09-02 14:01:45+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-02T14:01:43.933281+02:00.jpg">September 2 at 7:01 AM</a></p>
+ <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-02T14:01:43.933281+02:00.jpg">September 2 at 2:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-02T01:57:40.947609+02:00.jpg">
   <img src="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-02T01:57:40.947609+02:00.jpg"
-     alt="Ilanga at 2022-09-01 18:57:41+02:00 local time"
+     alt="Ilanga at 2022-09-02 01:57:41+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-02T01:57:40.947609+02:00.jpg">September 1 at 6:57 PM</a></p>
+ <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-02T01:57:40.947609+02:00.jpg">September 2 at 1:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-01T14:10:19.092315+02:00.jpg">
   <img src="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-01T14:10:19.092315+02:00.jpg"
-     alt="Ilanga at 2022-09-01 07:10:22+02:00 local time"
+     alt="Ilanga at 2022-09-01 14:10:22+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-01T14:10:19.092315+02:00.jpg">September 1 at 7:10 AM</a></p>
+ <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-01T14:10:19.092315+02:00.jpg">September 1 at 2:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-01T01:49:37.273609+02:00.jpg">
   <img src="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-01T01:49:37.273609+02:00.jpg"
-     alt="Ilanga at 2022-08-31 18:49:38+02:00 local time"
+     alt="Ilanga at 2022-09-01 01:49:38+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-01T01:49:37.273609+02:00.jpg">August 31 at 6:49 PM</a></p>
+ <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-01T01:49:37.273609+02:00.jpg">September 1 at 1:49 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-31T15:01:45.625914+02:00.jpg">
   <img src="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-31T15:01:45.625914+02:00.jpg"
-     alt="Ilanga at 2022-08-31 08:01:47+02:00 local time"
+     alt="Ilanga at 2022-08-31 15:01:47+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-31T15:01:45.625914+02:00.jpg">August 31 at 8:01 AM</a></p>
+ <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-31T15:01:45.625914+02:00.jpg">August 31 at 3:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-31T01:59:26.237177+02:00.jpg">
   <img src="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-31T01:59:26.237177+02:00.jpg"
-     alt="Ilanga at 2022-08-30 18:59:27+02:00 local time"
+     alt="Ilanga at 2022-08-31 01:59:27+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-31T01:59:26.237177+02:00.jpg">August 30 at 6:59 PM</a></p>
+ <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-31T01:59:26.237177+02:00.jpg">August 31 at 1:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-30T14:07:34.261533+02:00.jpg">
   <img src="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-30T14:07:34.261533+02:00.jpg"
-     alt="Ilanga at 2022-08-30 07:07:36+02:00 local time"
+     alt="Ilanga at 2022-08-30 14:07:36+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-30T14:07:34.261533+02:00.jpg">August 30 at 7:07 AM</a></p>
+ <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-30T14:07:34.261533+02:00.jpg">August 30 at 2:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-30T01:49:58.788662+02:00.jpg">
   <img src="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-30T01:49:58.788662+02:00.jpg"
-     alt="Ilanga at 2022-08-29 18:50:01+02:00 local time"
+     alt="Ilanga at 2022-08-30 01:50:01+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-30T01:49:58.788662+02:00.jpg">August 29 at 6:50 PM</a></p>
+ <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-30T01:49:58.788662+02:00.jpg">August 30 at 1:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-29T13:57:01.801743+02:00.jpg">
   <img src="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-29T13:57:01.801743+02:00.jpg"
-     alt="Ilanga at 2022-08-29 06:57:02+02:00 local time"
+     alt="Ilanga at 2022-08-29 13:57:02+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-29T13:57:01.801743+02:00.jpg">August 29 at 6:57 AM</a></p>
+ <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-29T13:57:01.801743+02:00.jpg">August 29 at 1:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-29T01:46:42.067361+02:00.jpg">
   <img src="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-29T01:46:42.067361+02:00.jpg"
-     alt="Ilanga at 2022-08-28 18:46:44+02:00 local time"
+     alt="Ilanga at 2022-08-29 01:46:44+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-29T01:46:42.067361+02:00.jpg">August 28 at 6:46 PM</a></p>
+ <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-29T01:46:42.067361+02:00.jpg">August 29 at 1:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-28T13:58:13.474262+02:00.jpg">
   <img src="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-28T13:58:13.474262+02:00.jpg"
-     alt="Ilanga at 2022-08-28 06:58:15+02:00 local time"
+     alt="Ilanga at 2022-08-28 13:58:15+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-28T13:58:13.474262+02:00.jpg">August 28 at 6:58 AM</a></p>
+ <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-28T13:58:13.474262+02:00.jpg">August 28 at 1:58 PM</a></p>
 </div>
 
 </div>
@@ -362,16 +362,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 6:58 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-03T01:58:22.039152+02:00.hyperlinks.json) |
-| [September 2 at 7:01 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-02T14:01:43.933281+02:00.hyperlinks.json) |
-| [September 1 at 6:57 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-02T01:57:40.947609+02:00.hyperlinks.json) |
-| [September 1 at 7:10 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-01T14:10:19.092315+02:00.hyperlinks.json) |
-| [August 31 at 6:49 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-01T01:49:37.273609+02:00.hyperlinks.json) |
-| [August 31 at 8:01 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-31T15:01:45.625914+02:00.hyperlinks.json) |
-| [August 30 at 6:59 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-31T01:59:26.237177+02:00.hyperlinks.json) |
-| [August 30 at 7:07 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-30T14:07:34.261533+02:00.hyperlinks.json) |
-| [August 29 at 6:50 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-30T01:49:58.788662+02:00.hyperlinks.json) |
-| [August 29 at 6:57 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-29T13:57:01.801743+02:00.hyperlinks.json) |
+| [September 3 at 1:58 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-03T01:58:22.039152+02:00.hyperlinks.json) |
+| [September 2 at 2:01 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-02T14:01:43.933281+02:00.hyperlinks.json) |
+| [September 2 at 1:57 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-02T01:57:40.947609+02:00.hyperlinks.json) |
+| [September 1 at 2:10 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-01T14:10:19.092315+02:00.hyperlinks.json) |
+| [September 1 at 1:49 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-01T01:49:37.273609+02:00.hyperlinks.json) |
+| [August 31 at 3:01 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-31T15:01:45.625914+02:00.hyperlinks.json) |
+| [August 31 at 1:59 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-31T01:59:26.237177+02:00.hyperlinks.json) |
+| [August 30 at 2:07 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-30T14:07:34.261533+02:00.hyperlinks.json) |
+| [August 30 at 1:50 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-30T01:49:58.788662+02:00.hyperlinks.json) |
+| [August 29 at 1:57 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-29T13:57:01.801743+02:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -384,16 +384,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 6:58 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-03T01:58:22.039152+02:00.accessibility.json) |
-| [September 2 at 7:01 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-02T14:01:43.933281+02:00.accessibility.json) |
-| [September 1 at 6:57 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-02T01:57:40.947609+02:00.accessibility.json) |
-| [September 1 at 7:10 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-01T14:10:19.092315+02:00.accessibility.json) |
-| [August 31 at 6:49 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-01T01:49:37.273609+02:00.accessibility.json) |
-| [August 31 at 8:01 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-31T15:01:45.625914+02:00.accessibility.json) |
-| [August 30 at 6:59 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-31T01:59:26.237177+02:00.accessibility.json) |
-| [August 30 at 7:07 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-30T14:07:34.261533+02:00.accessibility.json) |
-| [August 29 at 6:50 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-30T01:49:58.788662+02:00.accessibility.json) |
-| [August 29 at 6:57 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-29T13:57:01.801743+02:00.accessibility.json) |
+| [September 3 at 1:58 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-03T01:58:22.039152+02:00.accessibility.json) |
+| [September 2 at 2:01 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-02T14:01:43.933281+02:00.accessibility.json) |
+| [September 2 at 1:57 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-02T01:57:40.947609+02:00.accessibility.json) |
+| [September 1 at 2:10 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-01T14:10:19.092315+02:00.accessibility.json) |
+| [September 1 at 1:49 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-01T01:49:37.273609+02:00.accessibility.json) |
+| [August 31 at 3:01 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-31T15:01:45.625914+02:00.accessibility.json) |
+| [August 31 at 1:59 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-31T01:59:26.237177+02:00.accessibility.json) |
+| [August 30 at 2:07 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-30T14:07:34.261533+02:00.accessibility.json) |
+| [August 30 at 1:50 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-30T01:49:58.788662+02:00.accessibility.json) |
+| [August 29 at 1:57 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-29T13:57:01.801743+02:00.accessibility.json) |
 
 
 
@@ -407,16 +407,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 6:58 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-03T01:58:22.039152+02:00.lighthouse.json) |
-| [September 2 at 7:01 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-02T14:01:43.933281+02:00.lighthouse.json) |
-| [September 1 at 6:57 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-02T01:57:40.947609+02:00.lighthouse.json) |
-| [September 1 at 7:10 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-01T14:10:19.092315+02:00.lighthouse.json) |
-| [August 31 at 6:49 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-01T01:49:37.273609+02:00.lighthouse.json) |
-| [August 31 at 8:01 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-31T15:01:45.625914+02:00.lighthouse.json) |
-| [August 30 at 6:59 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-31T01:59:26.237177+02:00.lighthouse.json) |
-| [August 30 at 7:07 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-30T14:07:34.261533+02:00.lighthouse.json) |
-| [August 29 at 6:50 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-30T01:49:58.788662+02:00.lighthouse.json) |
-| [August 29 at 6:57 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-29T13:57:01.801743+02:00.lighthouse.json) |
+| [September 3 at 1:58 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-03T01:58:22.039152+02:00.lighthouse.json) |
+| [September 2 at 2:01 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-02T14:01:43.933281+02:00.lighthouse.json) |
+| [September 2 at 1:57 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-02T01:57:40.947609+02:00.lighthouse.json) |
+| [September 1 at 2:10 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-01T14:10:19.092315+02:00.lighthouse.json) |
+| [September 1 at 1:49 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-01T01:49:37.273609+02:00.lighthouse.json) |
+| [August 31 at 3:01 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-31T15:01:45.625914+02:00.lighthouse.json) |
+| [August 31 at 1:59 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-31T01:59:26.237177+02:00.lighthouse.json) |
+| [August 30 at 2:07 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-30T14:07:34.261533+02:00.lighthouse.json) |
+| [August 30 at 1:50 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-30T01:49:58.788662+02:00.lighthouse.json) |
+| [August 29 at 1:57 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-08-29T13:57:01.801743+02:00.lighthouse.json) |
 
 
 

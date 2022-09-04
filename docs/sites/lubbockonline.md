@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-02T10:09:26.304365-05:00.jpg">
   <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-02T10:09:26.304365-05:00.jpg"
-     alt="Lubbock Avalanche-Journal at 2022-09-02 03:09:34-05:00 local time"
+     alt="Lubbock Avalanche-Journal at 2022-09-02 10:09:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-02T10:09:26.304365-05:00.jpg">September 2 at 3:09 AM</a></p>
+ <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-02T10:09:26.304365-05:00.jpg">September 2 at 10:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-01T22:51:28.845155-05:00.jpg">
   <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-01T22:51:28.845155-05:00.jpg"
-     alt="Lubbock Avalanche-Journal at 2022-09-01 15:51:35-05:00 local time"
+     alt="Lubbock Avalanche-Journal at 2022-09-01 22:51:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-01T22:51:28.845155-05:00.jpg">September 1 at 3:51 PM</a></p>
+ <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-01T22:51:28.845155-05:00.jpg">September 1 at 10:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-01T10:30:33.529938-05:00.jpg">
   <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-01T10:30:33.529938-05:00.jpg"
-     alt="Lubbock Avalanche-Journal at 2022-09-01 03:30:39-05:00 local time"
+     alt="Lubbock Avalanche-Journal at 2022-09-01 10:30:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-01T10:30:33.529938-05:00.jpg">September 1 at 3:30 AM</a></p>
+ <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-01T10:30:33.529938-05:00.jpg">September 1 at 10:30 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-31T22:47:04.365783-05:00.jpg">
   <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-31T22:47:04.365783-05:00.jpg"
-     alt="Lubbock Avalanche-Journal at 2022-08-31 15:47:05-05:00 local time"
+     alt="Lubbock Avalanche-Journal at 2022-08-31 22:47:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-31T22:47:04.365783-05:00.jpg">August 31 at 3:47 PM</a></p>
+ <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-31T22:47:04.365783-05:00.jpg">August 31 at 10:47 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-31T10:09:13.306229-05:00.jpg">
   <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-31T10:09:13.306229-05:00.jpg"
-     alt="Lubbock Avalanche-Journal at 2022-08-31 03:09:15-05:00 local time"
+     alt="Lubbock Avalanche-Journal at 2022-08-31 10:09:15-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-31T10:09:13.306229-05:00.jpg">August 31 at 3:09 AM</a></p>
+ <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-31T10:09:13.306229-05:00.jpg">August 31 at 10:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-30T22:50:21.513829-05:00.jpg">
   <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-30T22:50:21.513829-05:00.jpg"
-     alt="Lubbock Avalanche-Journal at 2022-08-30 15:50:22-05:00 local time"
+     alt="Lubbock Avalanche-Journal at 2022-08-30 22:50:22-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-30T22:50:21.513829-05:00.jpg">August 30 at 3:50 PM</a></p>
+ <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-30T22:50:21.513829-05:00.jpg">August 30 at 10:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-30T10:35:44.011097-05:00.jpg">
   <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-30T10:35:44.011097-05:00.jpg"
-     alt="Lubbock Avalanche-Journal at 2022-08-30 03:35:47-05:00 local time"
+     alt="Lubbock Avalanche-Journal at 2022-08-30 10:35:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-30T10:35:44.011097-05:00.jpg">August 30 at 3:35 AM</a></p>
+ <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-30T10:35:44.011097-05:00.jpg">August 30 at 10:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-29T22:56:55.252397-05:00.jpg">
   <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-29T22:56:55.252397-05:00.jpg"
-     alt="Lubbock Avalanche-Journal at 2022-08-29 15:56:56-05:00 local time"
+     alt="Lubbock Avalanche-Journal at 2022-08-29 22:56:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-29T22:56:55.252397-05:00.jpg">August 29 at 3:56 PM</a></p>
+ <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-29T22:56:55.252397-05:00.jpg">August 29 at 10:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-29T10:10:28.365801-05:00.jpg">
   <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-29T10:10:28.365801-05:00.jpg"
-     alt="Lubbock Avalanche-Journal at 2022-08-29 03:10:32-05:00 local time"
+     alt="Lubbock Avalanche-Journal at 2022-08-29 10:10:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-29T10:10:28.365801-05:00.jpg">August 29 at 3:10 AM</a></p>
+ <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-29T10:10:28.365801-05:00.jpg">August 29 at 10:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-28T22:45:38.713157-05:00.jpg">
   <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-28T22:45:38.713157-05:00.jpg"
-     alt="Lubbock Avalanche-Journal at 2022-08-28 15:45:40-05:00 local time"
+     alt="Lubbock Avalanche-Journal at 2022-08-28 22:45:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-28T22:45:38.713157-05:00.jpg">August 28 at 3:45 PM</a></p>
+ <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-28T22:45:38.713157-05:00.jpg">August 28 at 10:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-28T09:58:22.570069-05:00.jpg">
   <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-28T09:58:22.570069-05:00.jpg"
-     alt="Lubbock Avalanche-Journal at 2022-08-28 02:58:27-05:00 local time"
+     alt="Lubbock Avalanche-Journal at 2022-08-28 09:58:27-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-28T09:58:22.570069-05:00.jpg">August 28 at 2:58 AM</a></p>
+ <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-28T09:58:22.570069-05:00.jpg">August 28 at 9:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-27T22:43:26.329101-05:00.jpg">
   <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-27T22:43:26.329101-05:00.jpg"
-     alt="Lubbock Avalanche-Journal at 2022-08-27 15:43:30-05:00 local time"
+     alt="Lubbock Avalanche-Journal at 2022-08-27 22:43:30-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-27T22:43:26.329101-05:00.jpg">August 27 at 3:43 PM</a></p>
+ <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-27T22:43:26.329101-05:00.jpg">August 27 at 10:43 PM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 3:09 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-02T10:09:26.304365-05:00.hyperlinks.json) |
-| [September 1 at 3:51 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-01T22:51:28.845155-05:00.hyperlinks.json) |
-| [September 1 at 3:30 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-01T10:30:33.529938-05:00.hyperlinks.json) |
-| [August 31 at 3:47 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-31T22:47:04.365783-05:00.hyperlinks.json) |
-| [August 31 at 3:09 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-31T10:09:13.306229-05:00.hyperlinks.json) |
-| [August 30 at 3:50 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-30T22:50:21.513829-05:00.hyperlinks.json) |
-| [August 30 at 3:35 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-30T10:35:44.011097-05:00.hyperlinks.json) |
-| [August 29 at 3:57 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-29T22:56:55.252397-05:00.hyperlinks.json) |
-| [August 29 at 3:10 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-29T10:10:28.365801-05:00.hyperlinks.json) |
-| [August 28 at 3:45 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-28T22:45:38.713157-05:00.hyperlinks.json) |
+| [September 2 at 10:09 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-02T10:09:26.304365-05:00.hyperlinks.json) |
+| [September 1 at 10:51 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-01T22:51:28.845155-05:00.hyperlinks.json) |
+| [September 1 at 10:30 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-01T10:30:33.529938-05:00.hyperlinks.json) |
+| [August 31 at 10:47 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-31T22:47:04.365783-05:00.hyperlinks.json) |
+| [August 31 at 10:09 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-31T10:09:13.306229-05:00.hyperlinks.json) |
+| [August 30 at 10:50 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-30T22:50:21.513829-05:00.hyperlinks.json) |
+| [August 30 at 10:35 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-30T10:35:44.011097-05:00.hyperlinks.json) |
+| [August 29 at 10:57 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-29T22:56:55.252397-05:00.hyperlinks.json) |
+| [August 29 at 10:10 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-29T10:10:28.365801-05:00.hyperlinks.json) |
+| [August 28 at 10:45 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-28T22:45:38.713157-05:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 3:09 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-02T10:09:26.304365-05:00.accessibility.json) |
-| [September 1 at 3:51 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-01T22:51:28.845155-05:00.accessibility.json) |
-| [September 1 at 3:30 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-01T10:30:33.529938-05:00.accessibility.json) |
-| [August 31 at 3:47 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-31T22:47:04.365783-05:00.accessibility.json) |
-| [August 31 at 3:09 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-31T10:09:13.306229-05:00.accessibility.json) |
-| [August 30 at 3:50 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-30T22:50:21.513829-05:00.accessibility.json) |
-| [August 30 at 3:35 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-30T10:35:44.011097-05:00.accessibility.json) |
-| [August 29 at 3:56 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-29T22:56:55.252397-05:00.accessibility.json) |
-| [August 29 at 3:10 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-29T10:10:28.365801-05:00.accessibility.json) |
-| [August 28 at 3:45 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-28T22:45:38.713157-05:00.accessibility.json) |
+| [September 2 at 10:09 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-02T10:09:26.304365-05:00.accessibility.json) |
+| [September 1 at 10:51 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-01T22:51:28.845155-05:00.accessibility.json) |
+| [September 1 at 10:30 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-01T10:30:33.529938-05:00.accessibility.json) |
+| [August 31 at 10:47 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-31T22:47:04.365783-05:00.accessibility.json) |
+| [August 31 at 10:09 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-31T10:09:13.306229-05:00.accessibility.json) |
+| [August 30 at 10:50 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-30T22:50:21.513829-05:00.accessibility.json) |
+| [August 30 at 10:35 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-30T10:35:44.011097-05:00.accessibility.json) |
+| [August 29 at 10:56 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-29T22:56:55.252397-05:00.accessibility.json) |
+| [August 29 at 10:10 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-29T10:10:28.365801-05:00.accessibility.json) |
+| [August 28 at 10:45 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-28T22:45:38.713157-05:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 3:09 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-02T10:09:26.304365-05:00.lighthouse.json) |
-| [September 1 at 3:51 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-01T22:51:28.845155-05:00.lighthouse.json) |
-| [September 1 at 3:30 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-01T10:30:33.529938-05:00.lighthouse.json) |
-| [August 31 at 3:47 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-31T22:47:04.365783-05:00.lighthouse.json) |
-| [August 31 at 3:09 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-31T10:09:13.306229-05:00.lighthouse.json) |
-| [August 30 at 3:50 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-30T22:50:21.513829-05:00.lighthouse.json) |
-| [August 30 at 3:35 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-30T10:35:44.011097-05:00.lighthouse.json) |
-| [August 29 at 3:57 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-29T22:56:55.252397-05:00.lighthouse.json) |
-| [August 29 at 3:10 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-29T10:10:28.365801-05:00.lighthouse.json) |
-| [August 28 at 3:45 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-28T22:45:38.713157-05:00.lighthouse.json) |
+| [September 2 at 10:09 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-02T10:09:26.304365-05:00.lighthouse.json) |
+| [September 1 at 10:51 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-01T22:51:28.845155-05:00.lighthouse.json) |
+| [September 1 at 10:30 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-09-01T10:30:33.529938-05:00.lighthouse.json) |
+| [August 31 at 10:47 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-31T22:47:04.365783-05:00.lighthouse.json) |
+| [August 31 at 10:09 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-31T10:09:13.306229-05:00.lighthouse.json) |
+| [August 30 at 10:50 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-30T22:50:21.513829-05:00.lighthouse.json) |
+| [August 30 at 10:35 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-30T10:35:44.011097-05:00.lighthouse.json) |
+| [August 29 at 10:57 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-29T22:56:55.252397-05:00.lighthouse.json) |
+| [August 29 at 10:10 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-29T10:10:28.365801-05:00.lighthouse.json) |
+| [August 28 at 10:45 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-28T22:45:38.713157-05:00.lighthouse.json) |
 
 
 

@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-09-02T11:09:40.512762-04:00.jpg">
   <img src="https://archive.org/download/michigandaily-2022/michigandaily-2022-09-02T11:09:40.512762-04:00.jpg"
-     alt="Michigan Daily at 2022-09-02 04:09:46-04:00 local time"
+     alt="Michigan Daily at 2022-09-02 11:09:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-09-02T11:09:40.512762-04:00.jpg">September 2 at 4:09 AM</a></p>
+ <p><a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-09-02T11:09:40.512762-04:00.jpg">September 2 at 11:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-09-01T23:51:34.146124-04:00.jpg">
   <img src="https://archive.org/download/michigandaily-2022/michigandaily-2022-09-01T23:51:34.146124-04:00.jpg"
-     alt="Michigan Daily at 2022-09-01 16:51:39-04:00 local time"
+     alt="Michigan Daily at 2022-09-01 23:51:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-09-01T23:51:34.146124-04:00.jpg">September 1 at 4:51 PM</a></p>
+ <p><a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-09-01T23:51:34.146124-04:00.jpg">September 1 at 11:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-09-01T11:30:09.543008-04:00.jpg">
   <img src="https://archive.org/download/michigandaily-2022/michigandaily-2022-09-01T11:30:09.543008-04:00.jpg"
-     alt="Michigan Daily at 2022-09-01 04:30:16-04:00 local time"
+     alt="Michigan Daily at 2022-09-01 11:30:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-09-01T11:30:09.543008-04:00.jpg">September 1 at 4:30 AM</a></p>
+ <p><a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-09-01T11:30:09.543008-04:00.jpg">September 1 at 11:30 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-31T23:48:22.031664-04:00.jpg">
   <img src="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-31T23:48:22.031664-04:00.jpg"
-     alt="Michigan Daily at 2022-08-31 16:48:23-04:00 local time"
+     alt="Michigan Daily at 2022-08-31 23:48:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-31T23:48:22.031664-04:00.jpg">August 31 at 4:48 PM</a></p>
+ <p><a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-31T23:48:22.031664-04:00.jpg">August 31 at 11:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-31T11:10:42.805948-04:00.jpg">
   <img src="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-31T11:10:42.805948-04:00.jpg"
-     alt="Michigan Daily at 2022-08-31 04:10:45-04:00 local time"
+     alt="Michigan Daily at 2022-08-31 11:10:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-31T11:10:42.805948-04:00.jpg">August 31 at 4:10 AM</a></p>
+ <p><a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-31T11:10:42.805948-04:00.jpg">August 31 at 11:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-30T23:49:44.842031-04:00.jpg">
   <img src="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-30T23:49:44.842031-04:00.jpg"
-     alt="Michigan Daily at 2022-08-30 16:49:46-04:00 local time"
+     alt="Michigan Daily at 2022-08-30 23:49:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-30T23:49:44.842031-04:00.jpg">August 30 at 4:49 PM</a></p>
+ <p><a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-30T23:49:44.842031-04:00.jpg">August 30 at 11:49 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-30T11:36:36.260374-04:00.jpg">
   <img src="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-30T11:36:36.260374-04:00.jpg"
-     alt="Michigan Daily at 2022-08-30 04:36:40-04:00 local time"
+     alt="Michigan Daily at 2022-08-30 11:36:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-30T11:36:36.260374-04:00.jpg">August 30 at 4:36 AM</a></p>
+ <p><a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-30T11:36:36.260374-04:00.jpg">August 30 at 11:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-29T23:56:52.738237-04:00.jpg">
   <img src="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-29T23:56:52.738237-04:00.jpg"
-     alt="Michigan Daily at 2022-08-29 16:56:53-04:00 local time"
+     alt="Michigan Daily at 2022-08-29 23:56:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-29T23:56:52.738237-04:00.jpg">August 29 at 4:56 PM</a></p>
+ <p><a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-29T23:56:52.738237-04:00.jpg">August 29 at 11:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-29T11:10:03.314943-04:00.jpg">
   <img src="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-29T11:10:03.314943-04:00.jpg"
-     alt="Michigan Daily at 2022-08-29 04:10:05-04:00 local time"
+     alt="Michigan Daily at 2022-08-29 11:10:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-29T11:10:03.314943-04:00.jpg">August 29 at 4:10 AM</a></p>
+ <p><a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-29T11:10:03.314943-04:00.jpg">August 29 at 11:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-28T23:46:35.565673-04:00.jpg">
   <img src="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-28T23:46:35.565673-04:00.jpg"
-     alt="Michigan Daily at 2022-08-28 16:46:36-04:00 local time"
+     alt="Michigan Daily at 2022-08-28 23:46:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-28T23:46:35.565673-04:00.jpg">August 28 at 4:46 PM</a></p>
+ <p><a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-28T23:46:35.565673-04:00.jpg">August 28 at 11:46 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-28T10:58:31.320434-04:00.jpg">
   <img src="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-28T10:58:31.320434-04:00.jpg"
-     alt="Michigan Daily at 2022-08-28 03:58:34-04:00 local time"
+     alt="Michigan Daily at 2022-08-28 10:58:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-28T10:58:31.320434-04:00.jpg">August 28 at 3:58 AM</a></p>
+ <p><a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-28T10:58:31.320434-04:00.jpg">August 28 at 10:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-27T23:43:04.057684-04:00.jpg">
   <img src="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-27T23:43:04.057684-04:00.jpg"
-     alt="Michigan Daily at 2022-08-27 16:43:08-04:00 local time"
+     alt="Michigan Daily at 2022-08-27 23:43:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-27T23:43:04.057684-04:00.jpg">August 27 at 4:43 PM</a></p>
+ <p><a href="https://archive.org/download/michigandaily-2022/michigandaily-2022-08-27T23:43:04.057684-04:00.jpg">August 27 at 11:43 PM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 4:09 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-09-02T11:09:40.512762-04:00.hyperlinks.json) |
-| [September 1 at 4:51 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-09-01T23:51:34.146124-04:00.hyperlinks.json) |
-| [September 1 at 4:30 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-09-01T11:30:09.543008-04:00.hyperlinks.json) |
-| [August 31 at 4:48 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-31T23:48:22.031664-04:00.hyperlinks.json) |
-| [August 31 at 4:10 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-31T11:10:42.805948-04:00.hyperlinks.json) |
-| [August 30 at 4:49 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-30T23:49:44.842031-04:00.hyperlinks.json) |
-| [August 30 at 4:36 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-30T11:36:36.260374-04:00.hyperlinks.json) |
-| [August 29 at 4:56 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-29T23:56:52.738237-04:00.hyperlinks.json) |
-| [August 29 at 4:10 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-29T11:10:03.314943-04:00.hyperlinks.json) |
-| [August 28 at 4:46 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-28T23:46:35.565673-04:00.hyperlinks.json) |
+| [September 2 at 11:09 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-09-02T11:09:40.512762-04:00.hyperlinks.json) |
+| [September 1 at 11:51 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-09-01T23:51:34.146124-04:00.hyperlinks.json) |
+| [September 1 at 11:30 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-09-01T11:30:09.543008-04:00.hyperlinks.json) |
+| [August 31 at 11:48 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-31T23:48:22.031664-04:00.hyperlinks.json) |
+| [August 31 at 11:10 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-31T11:10:42.805948-04:00.hyperlinks.json) |
+| [August 30 at 11:49 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-30T23:49:44.842031-04:00.hyperlinks.json) |
+| [August 30 at 11:36 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-30T11:36:36.260374-04:00.hyperlinks.json) |
+| [August 29 at 11:56 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-29T23:56:52.738237-04:00.hyperlinks.json) |
+| [August 29 at 11:10 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-29T11:10:03.314943-04:00.hyperlinks.json) |
+| [August 28 at 11:46 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-28T23:46:35.565673-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 4:09 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-09-02T11:09:40.512762-04:00.accessibility.json) |
-| [September 1 at 4:51 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-09-01T23:51:34.146124-04:00.accessibility.json) |
-| [September 1 at 4:30 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-09-01T11:30:09.543008-04:00.accessibility.json) |
-| [August 31 at 4:48 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-31T23:48:22.031664-04:00.accessibility.json) |
-| [August 31 at 4:10 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-31T11:10:42.805948-04:00.accessibility.json) |
-| [August 30 at 4:49 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-30T23:49:44.842031-04:00.accessibility.json) |
-| [August 30 at 4:36 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-30T11:36:36.260374-04:00.accessibility.json) |
-| [August 29 at 4:56 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-29T23:56:52.738237-04:00.accessibility.json) |
-| [August 29 at 4:10 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-29T11:10:03.314943-04:00.accessibility.json) |
-| [August 28 at 4:46 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-28T23:46:35.565673-04:00.accessibility.json) |
+| [September 2 at 11:09 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-09-02T11:09:40.512762-04:00.accessibility.json) |
+| [September 1 at 11:51 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-09-01T23:51:34.146124-04:00.accessibility.json) |
+| [September 1 at 11:30 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-09-01T11:30:09.543008-04:00.accessibility.json) |
+| [August 31 at 11:48 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-31T23:48:22.031664-04:00.accessibility.json) |
+| [August 31 at 11:10 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-31T11:10:42.805948-04:00.accessibility.json) |
+| [August 30 at 11:49 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-30T23:49:44.842031-04:00.accessibility.json) |
+| [August 30 at 11:36 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-30T11:36:36.260374-04:00.accessibility.json) |
+| [August 29 at 11:56 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-29T23:56:52.738237-04:00.accessibility.json) |
+| [August 29 at 11:10 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-29T11:10:03.314943-04:00.accessibility.json) |
+| [August 28 at 11:46 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-28T23:46:35.565673-04:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 4:09 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-09-02T11:09:40.512762-04:00.lighthouse.json) |
-| [September 1 at 4:51 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-09-01T23:51:34.146124-04:00.lighthouse.json) |
-| [September 1 at 4:30 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-09-01T11:30:09.543008-04:00.lighthouse.json) |
-| [August 31 at 4:48 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-31T23:48:22.031664-04:00.lighthouse.json) |
-| [August 31 at 4:10 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-31T11:10:42.805948-04:00.lighthouse.json) |
-| [August 30 at 4:49 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-30T23:49:44.842031-04:00.lighthouse.json) |
-| [August 30 at 4:36 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-30T11:36:36.260374-04:00.lighthouse.json) |
-| [August 29 at 4:56 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-29T23:56:52.738237-04:00.lighthouse.json) |
-| [August 29 at 4:10 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-29T11:10:03.314943-04:00.lighthouse.json) |
-| [August 28 at 4:46 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-28T23:46:35.565673-04:00.lighthouse.json) |
+| [September 2 at 11:09 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-09-02T11:09:40.512762-04:00.lighthouse.json) |
+| [September 1 at 11:51 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-09-01T23:51:34.146124-04:00.lighthouse.json) |
+| [September 1 at 11:30 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-09-01T11:30:09.543008-04:00.lighthouse.json) |
+| [August 31 at 11:48 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-31T23:48:22.031664-04:00.lighthouse.json) |
+| [August 31 at 11:10 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-31T11:10:42.805948-04:00.lighthouse.json) |
+| [August 30 at 11:49 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-30T23:49:44.842031-04:00.lighthouse.json) |
+| [August 30 at 11:36 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-30T11:36:36.260374-04:00.lighthouse.json) |
+| [August 29 at 11:56 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-29T23:56:52.738237-04:00.lighthouse.json) |
+| [August 29 at 11:10 AM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-29T11:10:03.314943-04:00.lighthouse.json) |
+| [August 28 at 11:46 PM](https://archive.org/download/michigandaily-2022/michigandaily-2022-08-28T23:46:35.565673-04:00.lighthouse.json) |
 
 
 

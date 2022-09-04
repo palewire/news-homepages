@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 70 screenshots with the Internet Archive.
+The archiving routine has saved 74 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-02T18:55:27.209342-05:00.jpg">
-  <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-02T18:55:27.209342-05:00.jpg"
-     alt="Daily Nebraskan at 2022-09-02 11:55:30-05:00 local time"
+ <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-04T05:54:15.148621-05:00.jpg">
+  <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-04T05:54:15.148621-05:00.jpg"
+     alt="Daily Nebraskan at 2022-09-04 05:54:17-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-02T18:55:27.209342-05:00.jpg">September 2 at 11:55 AM</a></p>
+ <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-04T05:54:15.148621-05:00.jpg">September 4 at 5:54 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-03T17:57:11.253338-05:00.jpg">
+  <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-03T17:57:11.253338-05:00.jpg"
+     alt="Daily Nebraskan at 2022-09-03 17:57:14-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-03T17:57:11.253338-05:00.jpg">September 3 at 5:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-03T07:12:35.132604-05:00.jpg">
+  <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-03T07:12:35.132604-05:00.jpg"
+     alt="Daily Nebraskan at 2022-09-03 07:12:36-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-03T07:12:35.132604-05:00.jpg">September 3 at 7:12 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-03T05:53:53.276012-05:00.jpg">
+  <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-03T05:53:53.276012-05:00.jpg"
+     alt="Daily Nebraskan at 2022-09-03 05:53:57-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-03T05:53:53.276012-05:00.jpg">September 3 at 5:53 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-02T18:55:27.209342-05:00.jpg">
+  <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-02T18:55:27.209342-05:00.jpg"
+     alt="Daily Nebraskan at 2022-09-02 18:55:30-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-02T18:55:27.209342-05:00.jpg">September 2 at 6:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-02T06:00:11.424069-05:00.jpg">
   <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-02T06:00:11.424069-05:00.jpg"
-     alt="Daily Nebraskan at 2022-09-01 23:00:14-05:00 local time"
+     alt="Daily Nebraskan at 2022-09-02 06:00:14-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-02T06:00:11.424069-05:00.jpg">September 1 at 11:00 PM</a></p>
+ <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-02T06:00:11.424069-05:00.jpg">September 2 at 6:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-01T18:02:20.092664-05:00.jpg">
   <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-01T18:02:20.092664-05:00.jpg"
-     alt="Daily Nebraskan at 2022-09-01 11:02:34-05:00 local time"
+     alt="Daily Nebraskan at 2022-09-01 18:02:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-01T18:02:20.092664-05:00.jpg">September 1 at 11:02 AM</a></p>
+ <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-01T18:02:20.092664-05:00.jpg">September 1 at 6:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-01T06:04:06.434034-05:00.jpg">
   <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-01T06:04:06.434034-05:00.jpg"
-     alt="Daily Nebraskan at 2022-08-31 23:04:09-05:00 local time"
+     alt="Daily Nebraskan at 2022-09-01 06:04:09-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-01T06:04:06.434034-05:00.jpg">August 31 at 11:04 PM</a></p>
+ <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-09-01T06:04:06.434034-05:00.jpg">September 1 at 6:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-31T17:57:13.081407-05:00.jpg">
   <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-31T17:57:13.081407-05:00.jpg"
-     alt="Daily Nebraskan at 2022-08-31 10:57:16-05:00 local time"
+     alt="Daily Nebraskan at 2022-08-31 17:57:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-31T17:57:13.081407-05:00.jpg">August 31 at 10:57 AM</a></p>
+ <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-31T17:57:13.081407-05:00.jpg">August 31 at 5:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-31T05:58:37.000591-05:00.jpg">
   <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-31T05:58:37.000591-05:00.jpg"
-     alt="Daily Nebraskan at 2022-08-30 22:58:39-05:00 local time"
+     alt="Daily Nebraskan at 2022-08-31 05:58:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-31T05:58:37.000591-05:00.jpg">August 30 at 10:58 PM</a></p>
+ <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-31T05:58:37.000591-05:00.jpg">August 31 at 5:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-30T18:03:53.256766-05:00.jpg">
   <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-30T18:03:53.256766-05:00.jpg"
-     alt="Daily Nebraskan at 2022-08-30 11:03:56-05:00 local time"
+     alt="Daily Nebraskan at 2022-08-30 18:03:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-30T18:03:53.256766-05:00.jpg">August 30 at 11:03 AM</a></p>
+ <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-30T18:03:53.256766-05:00.jpg">August 30 at 6:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-30T06:03:27.112865-05:00.jpg">
   <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-30T06:03:27.112865-05:00.jpg"
-     alt="Daily Nebraskan at 2022-08-29 23:03:30-05:00 local time"
+     alt="Daily Nebraskan at 2022-08-30 06:03:30-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-30T06:03:27.112865-05:00.jpg">August 29 at 11:03 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-29T18:00:04.682798-05:00.jpg">
-  <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-29T18:00:04.682798-05:00.jpg"
-     alt="Daily Nebraskan at 2022-08-29 11:00:07-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-29T18:00:04.682798-05:00.jpg">August 29 at 11:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-29T05:55:51.594515-05:00.jpg">
-  <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-29T05:55:51.594515-05:00.jpg"
-     alt="Daily Nebraskan at 2022-08-28 22:55:58-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-29T05:55:51.594515-05:00.jpg">August 28 at 10:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-28T17:53:13.012549-05:00.jpg">
-  <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-28T17:53:13.012549-05:00.jpg"
-     alt="Daily Nebraskan at 2022-08-28 10:53:24-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-28T17:53:13.012549-05:00.jpg">August 28 at 10:53 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-28T05:55:49.299803-05:00.jpg">
-  <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-28T05:55:49.299803-05:00.jpg"
-     alt="Daily Nebraskan at 2022-08-27 22:55:52-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-28T05:55:49.299803-05:00.jpg">August 27 at 10:55 PM</a></p>
+ <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-30T06:03:27.112865-05:00.jpg">August 30 at 6:03 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 71 hyperlink lists with the Internet Archive.
+The archiving routine has saved 75 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 11:55 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-02T18:55:27.209342-05:00.hyperlinks.json) |
-| [September 1 at 11:00 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-02T06:00:11.424069-05:00.hyperlinks.json) |
-| [September 1 at 11:02 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-01T18:02:20.092664-05:00.hyperlinks.json) |
-| [August 31 at 11:04 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-01T06:04:06.434034-05:00.hyperlinks.json) |
-| [August 31 at 10:57 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-31T17:57:13.081407-05:00.hyperlinks.json) |
-| [August 30 at 10:58 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-31T05:58:37.000591-05:00.hyperlinks.json) |
-| [August 30 at 11:03 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-30T18:03:53.256766-05:00.hyperlinks.json) |
-| [August 29 at 11:03 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-30T06:03:27.112865-05:00.hyperlinks.json) |
-| [August 29 at 11:00 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-29T18:00:04.682798-05:00.hyperlinks.json) |
-| [August 28 at 10:56 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-29T05:55:51.594515-05:00.hyperlinks.json) |
+| [September 4 at 5:54 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-04T05:54:15.148621-05:00.hyperlinks.json) |
+| [September 3 at 5:57 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-03T17:57:11.253338-05:00.hyperlinks.json) |
+| [September 3 at 7:12 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-03T07:12:35.132604-05:00.hyperlinks.json) |
+| [September 3 at 5:54 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-03T05:53:53.276012-05:00.hyperlinks.json) |
+| [September 2 at 6:55 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-02T18:55:27.209342-05:00.hyperlinks.json) |
+| [September 2 at 6:00 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-02T06:00:11.424069-05:00.hyperlinks.json) |
+| [September 1 at 6:02 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-01T18:02:20.092664-05:00.hyperlinks.json) |
+| [September 1 at 6:04 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-01T06:04:06.434034-05:00.hyperlinks.json) |
+| [August 31 at 5:57 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-31T17:57:13.081407-05:00.hyperlinks.json) |
+| [August 31 at 5:58 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-31T05:58:37.000591-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 71 accessibility trees with the Internet Archive.
+The archiving routine has saved 75 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 11:55 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-02T18:55:27.209342-05:00.accessibility.json) |
-| [September 1 at 11:00 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-02T06:00:11.424069-05:00.accessibility.json) |
-| [September 1 at 11:02 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-01T18:02:20.092664-05:00.accessibility.json) |
-| [August 31 at 11:04 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-01T06:04:06.434034-05:00.accessibility.json) |
-| [August 31 at 10:57 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-31T17:57:13.081407-05:00.accessibility.json) |
-| [August 30 at 10:58 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-31T05:58:37.000591-05:00.accessibility.json) |
-| [August 30 at 11:03 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-30T18:03:53.256766-05:00.accessibility.json) |
-| [August 29 at 11:03 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-30T06:03:27.112865-05:00.accessibility.json) |
-| [August 29 at 11:00 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-29T18:00:04.682798-05:00.accessibility.json) |
-| [August 28 at 10:55 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-29T05:55:51.594515-05:00.accessibility.json) |
+| [September 4 at 5:54 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-04T05:54:15.148621-05:00.accessibility.json) |
+| [September 3 at 5:57 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-03T17:57:11.253338-05:00.accessibility.json) |
+| [September 3 at 7:12 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-03T07:12:35.132604-05:00.accessibility.json) |
+| [September 3 at 5:53 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-03T05:53:53.276012-05:00.accessibility.json) |
+| [September 2 at 6:55 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-02T18:55:27.209342-05:00.accessibility.json) |
+| [September 2 at 6:00 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-02T06:00:11.424069-05:00.accessibility.json) |
+| [September 1 at 6:02 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-01T18:02:20.092664-05:00.accessibility.json) |
+| [September 1 at 6:04 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-01T06:04:06.434034-05:00.accessibility.json) |
+| [August 31 at 5:57 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-31T17:57:13.081407-05:00.accessibility.json) |
+| [August 31 at 5:58 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-31T05:58:37.000591-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 71 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 75 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 11:55 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-02T18:55:27.209342-05:00.lighthouse.json) |
-| [September 1 at 11:00 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-02T06:00:11.424069-05:00.lighthouse.json) |
-| [September 1 at 11:03 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-01T18:02:20.092664-05:00.lighthouse.json) |
-| [August 31 at 11:04 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-01T06:04:06.434034-05:00.lighthouse.json) |
-| [August 31 at 10:57 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-31T17:57:13.081407-05:00.lighthouse.json) |
-| [August 30 at 10:58 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-31T05:58:37.000591-05:00.lighthouse.json) |
-| [August 30 at 11:04 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-30T18:03:53.256766-05:00.lighthouse.json) |
-| [August 29 at 11:03 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-30T06:03:27.112865-05:00.lighthouse.json) |
-| [August 29 at 11:00 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-29T18:00:04.682798-05:00.lighthouse.json) |
-| [August 28 at 10:56 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-29T05:55:51.594515-05:00.lighthouse.json) |
+| [September 4 at 5:54 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-04T05:54:15.148621-05:00.lighthouse.json) |
+| [September 3 at 5:57 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-03T17:57:11.253338-05:00.lighthouse.json) |
+| [September 3 at 7:12 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-03T07:12:35.132604-05:00.lighthouse.json) |
+| [September 3 at 5:54 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-03T05:53:53.276012-05:00.lighthouse.json) |
+| [September 2 at 6:55 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-02T18:55:27.209342-05:00.lighthouse.json) |
+| [September 2 at 6:00 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-02T06:00:11.424069-05:00.lighthouse.json) |
+| [September 1 at 6:03 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-01T18:02:20.092664-05:00.lighthouse.json) |
+| [September 1 at 6:04 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-09-01T06:04:06.434034-05:00.lighthouse.json) |
+| [August 31 at 5:57 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-31T17:57:13.081407-05:00.lighthouse.json) |
+| [August 31 at 5:58 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-31T05:58:37.000591-05:00.lighthouse.json) |
 
 
 

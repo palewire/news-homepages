@@ -245,109 +245,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-02T18:20:06.442188+02:00.jpg">
   <img src="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-02T18:20:06.442188+02:00.jpg"
-     alt="Vrye Weekblad at 2022-09-02 11:20:09+02:00 local time"
+     alt="Vrye Weekblad at 2022-09-02 18:20:09+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-02T18:20:06.442188+02:00.jpg">September 2 at 11:20 AM</a></p>
+ <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-02T18:20:06.442188+02:00.jpg">September 2 at 6:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-02T06:52:13.714206+02:00.jpg">
   <img src="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-02T06:52:13.714206+02:00.jpg"
-     alt="Vrye Weekblad at 2022-09-01 23:52:18+02:00 local time"
+     alt="Vrye Weekblad at 2022-09-02 06:52:18+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-02T06:52:13.714206+02:00.jpg">September 1 at 11:52 PM</a></p>
+ <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-02T06:52:13.714206+02:00.jpg">September 2 at 6:52 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-01T18:45:16.016588+02:00.jpg">
   <img src="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-01T18:45:16.016588+02:00.jpg"
-     alt="Vrye Weekblad at 2022-09-01 11:45:17+02:00 local time"
+     alt="Vrye Weekblad at 2022-09-01 18:45:17+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-01T18:45:16.016588+02:00.jpg">September 1 at 11:45 AM</a></p>
+ <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-01T18:45:16.016588+02:00.jpg">September 1 at 6:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-01T06:47:00.286913+02:00.jpg">
   <img src="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-01T06:47:00.286913+02:00.jpg"
-     alt="Vrye Weekblad at 2022-08-31 23:47:01+02:00 local time"
+     alt="Vrye Weekblad at 2022-09-01 06:47:01+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-01T06:47:00.286913+02:00.jpg">August 31 at 11:47 PM</a></p>
+ <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-01T06:47:00.286913+02:00.jpg">September 1 at 6:47 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-31T18:15:10.450347+02:00.jpg">
   <img src="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-31T18:15:10.450347+02:00.jpg"
-     alt="Vrye Weekblad at 2022-08-31 11:15:12+02:00 local time"
+     alt="Vrye Weekblad at 2022-08-31 18:15:12+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-31T18:15:10.450347+02:00.jpg">August 31 at 11:15 AM</a></p>
+ <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-31T18:15:10.450347+02:00.jpg">August 31 at 6:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-31T06:54:38.017640+02:00.jpg">
   <img src="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-31T06:54:38.017640+02:00.jpg"
-     alt="Vrye Weekblad at 2022-08-30 23:54:39+02:00 local time"
+     alt="Vrye Weekblad at 2022-08-31 06:54:39+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-31T06:54:38.017640+02:00.jpg">August 30 at 11:54 PM</a></p>
+ <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-31T06:54:38.017640+02:00.jpg">August 31 at 6:54 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-30T18:39:00.807917+02:00.jpg">
   <img src="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-30T18:39:00.807917+02:00.jpg"
-     alt="Vrye Weekblad at 2022-08-30 11:39:03+02:00 local time"
+     alt="Vrye Weekblad at 2022-08-30 18:39:03+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-30T18:39:00.807917+02:00.jpg">August 30 at 11:39 AM</a></p>
+ <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-30T18:39:00.807917+02:00.jpg">August 30 at 6:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-30T06:59:58.017478+02:00.jpg">
   <img src="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-30T06:59:58.017478+02:00.jpg"
-     alt="Vrye Weekblad at 2022-08-30 00:00:00+02:00 local time"
+     alt="Vrye Weekblad at 2022-08-30 07:00:00+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-30T06:59:58.017478+02:00.jpg">August 30 at 12:00 AM</a></p>
+ <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-30T06:59:58.017478+02:00.jpg">August 30 at 7:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-29T18:20:38.213891+02:00.jpg">
   <img src="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-29T18:20:38.213891+02:00.jpg"
-     alt="Vrye Weekblad at 2022-08-29 11:20:44+02:00 local time"
+     alt="Vrye Weekblad at 2022-08-29 18:20:44+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-29T18:20:38.213891+02:00.jpg">August 29 at 11:20 AM</a></p>
+ <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-29T18:20:38.213891+02:00.jpg">August 29 at 6:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-29T06:43:30.501216+02:00.jpg">
   <img src="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-29T06:43:30.501216+02:00.jpg"
-     alt="Vrye Weekblad at 2022-08-28 23:43:32+02:00 local time"
+     alt="Vrye Weekblad at 2022-08-29 06:43:32+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-29T06:43:30.501216+02:00.jpg">August 28 at 11:43 PM</a></p>
+ <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-29T06:43:30.501216+02:00.jpg">August 29 at 6:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-28T18:05:34.475003+02:00.jpg">
   <img src="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-28T18:05:34.475003+02:00.jpg"
-     alt="Vrye Weekblad at 2022-08-28 11:05:36+02:00 local time"
+     alt="Vrye Weekblad at 2022-08-28 18:05:36+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-28T18:05:34.475003+02:00.jpg">August 28 at 11:05 AM</a></p>
+ <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-28T18:05:34.475003+02:00.jpg">August 28 at 6:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-28T06:40:17.172367+02:00.jpg">
   <img src="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-28T06:40:17.172367+02:00.jpg"
-     alt="Vrye Weekblad at 2022-08-27 23:40:20+02:00 local time"
+     alt="Vrye Weekblad at 2022-08-28 06:40:20+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-28T06:40:17.172367+02:00.jpg">August 27 at 11:40 PM</a></p>
+ <p><a href="https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-28T06:40:17.172367+02:00.jpg">August 28 at 6:40 AM</a></p>
 </div>
 
 </div>
@@ -362,16 +362,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 11:20 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-02T18:20:06.442188+02:00.hyperlinks.json) |
-| [September 1 at 11:52 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-02T06:52:13.714206+02:00.hyperlinks.json) |
-| [September 1 at 11:45 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-01T18:45:16.016588+02:00.hyperlinks.json) |
-| [August 31 at 11:47 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-01T06:47:00.286913+02:00.hyperlinks.json) |
-| [August 31 at 11:15 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-31T18:15:10.450347+02:00.hyperlinks.json) |
-| [August 30 at 11:54 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-31T06:54:38.017640+02:00.hyperlinks.json) |
-| [August 30 at 11:39 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-30T18:39:00.807917+02:00.hyperlinks.json) |
-| [August 30 at 12:00 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-30T06:59:58.017478+02:00.hyperlinks.json) |
-| [August 29 at 11:20 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-29T18:20:38.213891+02:00.hyperlinks.json) |
-| [August 28 at 11:43 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-29T06:43:30.501216+02:00.hyperlinks.json) |
+| [September 2 at 6:20 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-02T18:20:06.442188+02:00.hyperlinks.json) |
+| [September 2 at 6:52 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-02T06:52:13.714206+02:00.hyperlinks.json) |
+| [September 1 at 6:45 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-01T18:45:16.016588+02:00.hyperlinks.json) |
+| [September 1 at 6:47 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-01T06:47:00.286913+02:00.hyperlinks.json) |
+| [August 31 at 6:15 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-31T18:15:10.450347+02:00.hyperlinks.json) |
+| [August 31 at 6:54 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-31T06:54:38.017640+02:00.hyperlinks.json) |
+| [August 30 at 6:39 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-30T18:39:00.807917+02:00.hyperlinks.json) |
+| [August 30 at 7:00 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-30T06:59:58.017478+02:00.hyperlinks.json) |
+| [August 29 at 6:20 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-29T18:20:38.213891+02:00.hyperlinks.json) |
+| [August 29 at 6:43 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-29T06:43:30.501216+02:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -384,16 +384,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 11:20 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-02T18:20:06.442188+02:00.accessibility.json) |
-| [September 1 at 11:52 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-02T06:52:13.714206+02:00.accessibility.json) |
-| [September 1 at 11:45 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-01T18:45:16.016588+02:00.accessibility.json) |
-| [August 31 at 11:47 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-01T06:47:00.286913+02:00.accessibility.json) |
-| [August 31 at 11:15 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-31T18:15:10.450347+02:00.accessibility.json) |
-| [August 30 at 11:54 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-31T06:54:38.017640+02:00.accessibility.json) |
-| [August 30 at 11:39 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-30T18:39:00.807917+02:00.accessibility.json) |
-| [August 30 at 12:00 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-30T06:59:58.017478+02:00.accessibility.json) |
-| [August 29 at 11:20 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-29T18:20:38.213891+02:00.accessibility.json) |
-| [August 28 at 11:43 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-29T06:43:30.501216+02:00.accessibility.json) |
+| [September 2 at 6:20 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-02T18:20:06.442188+02:00.accessibility.json) |
+| [September 2 at 6:52 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-02T06:52:13.714206+02:00.accessibility.json) |
+| [September 1 at 6:45 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-01T18:45:16.016588+02:00.accessibility.json) |
+| [September 1 at 6:47 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-01T06:47:00.286913+02:00.accessibility.json) |
+| [August 31 at 6:15 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-31T18:15:10.450347+02:00.accessibility.json) |
+| [August 31 at 6:54 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-31T06:54:38.017640+02:00.accessibility.json) |
+| [August 30 at 6:39 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-30T18:39:00.807917+02:00.accessibility.json) |
+| [August 30 at 7:00 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-30T06:59:58.017478+02:00.accessibility.json) |
+| [August 29 at 6:20 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-29T18:20:38.213891+02:00.accessibility.json) |
+| [August 29 at 6:43 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-29T06:43:30.501216+02:00.accessibility.json) |
 
 
 
@@ -407,16 +407,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 11:20 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-02T18:20:06.442188+02:00.lighthouse.json) |
-| [September 1 at 11:52 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-02T06:52:13.714206+02:00.lighthouse.json) |
-| [September 1 at 11:45 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-01T18:45:16.016588+02:00.lighthouse.json) |
-| [August 31 at 11:47 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-01T06:47:00.286913+02:00.lighthouse.json) |
-| [August 31 at 11:15 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-31T18:15:10.450347+02:00.lighthouse.json) |
-| [August 30 at 11:54 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-31T06:54:38.017640+02:00.lighthouse.json) |
-| [August 30 at 11:39 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-30T18:39:00.807917+02:00.lighthouse.json) |
-| [August 30 at 12:00 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-30T06:59:58.017478+02:00.lighthouse.json) |
-| [August 29 at 11:20 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-29T18:20:38.213891+02:00.lighthouse.json) |
-| [August 28 at 11:43 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-29T06:43:30.501216+02:00.lighthouse.json) |
+| [September 2 at 6:20 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-02T18:20:06.442188+02:00.lighthouse.json) |
+| [September 2 at 6:52 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-02T06:52:13.714206+02:00.lighthouse.json) |
+| [September 1 at 6:45 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-01T18:45:16.016588+02:00.lighthouse.json) |
+| [September 1 at 6:47 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-09-01T06:47:00.286913+02:00.lighthouse.json) |
+| [August 31 at 6:15 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-31T18:15:10.450347+02:00.lighthouse.json) |
+| [August 31 at 6:54 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-31T06:54:38.017640+02:00.lighthouse.json) |
+| [August 30 at 6:39 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-30T18:39:00.807917+02:00.lighthouse.json) |
+| [August 30 at 7:00 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-30T06:59:58.017478+02:00.lighthouse.json) |
+| [August 29 at 6:20 PM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-29T18:20:38.213891+02:00.lighthouse.json) |
+| [August 29 at 6:43 AM](https://archive.org/download/vryeweekblad-2022/vryeweekblad-2022-08-29T06:43:30.501216+02:00.lighthouse.json) |
 
 
 

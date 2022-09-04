@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 108 screenshots with the Internet Archive.
+The archiving routine has saved 113 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/news_letter-2022/news_letter-2022-09-02T14:01:46.414853+01:00.jpg">
-  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-09-02T14:01:46.414853+01:00.jpg"
-     alt="Belfast News Letter at 2022-09-02 07:01:51+01:00 local time"
+ <a href="https://archive.org/download/news_letter-2022/news_letter-2022-09-04T10:13:17.232440+01:00.jpg">
+  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-09-04T10:13:17.232440+01:00.jpg"
+     alt="Belfast News Letter at 2022-09-04 10:13:23+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-09-02T14:01:46.414853+01:00.jpg">September 2 at 7:01 AM</a></p>
+ <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-09-04T10:13:17.232440+01:00.jpg">September 4 at 10:13 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news_letter-2022/news_letter-2022-09-04T02:11:57.755769+01:00.jpg">
+  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-09-04T02:11:57.755769+01:00.jpg"
+     alt="Belfast News Letter at 2022-09-04 02:12:05+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-09-04T02:11:57.755769+01:00.jpg">September 4 at 2:12 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news_letter-2022/news_letter-2022-09-03T14:09:54.109700+01:00.jpg">
+  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-09-03T14:09:54.109700+01:00.jpg"
+     alt="Belfast News Letter at 2022-09-03 14:10:00+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-09-03T14:09:54.109700+01:00.jpg">September 3 at 2:10 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news_letter-2022/news_letter-2022-09-03T10:13:22.323325+01:00.jpg">
+  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-09-03T10:13:22.323325+01:00.jpg"
+     alt="Belfast News Letter at 2022-09-03 10:13:27+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-09-03T10:13:22.323325+01:00.jpg">September 3 at 10:13 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news_letter-2022/news_letter-2022-09-03T02:20:45.760957+01:00.jpg">
+  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-09-03T02:20:45.760957+01:00.jpg"
+     alt="Belfast News Letter at 2022-09-03 02:20:47+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-09-03T02:20:45.760957+01:00.jpg">September 3 at 2:20 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news_letter-2022/news_letter-2022-09-02T14:01:46.414853+01:00.jpg">
+  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-09-02T14:01:46.414853+01:00.jpg"
+     alt="Belfast News Letter at 2022-09-02 14:01:51+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-09-02T14:01:46.414853+01:00.jpg">September 2 at 2:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/news_letter-2022/news_letter-2022-09-02T10:19:19.040619+01:00.jpg">
   <img src="https://archive.org/download/news_letter-2022/news_letter-2022-09-02T10:19:19.040619+01:00.jpg"
-     alt="Belfast News Letter at 2022-09-02 03:19:26+01:00 local time"
+     alt="Belfast News Letter at 2022-09-02 10:19:26+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-09-02T10:19:19.040619+01:00.jpg">September 2 at 3:19 AM</a></p>
+ <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-09-02T10:19:19.040619+01:00.jpg">September 2 at 10:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/news_letter-2022/news_letter-2022-09-02T02:15:39.911282+01:00.jpg">
   <img src="https://archive.org/download/news_letter-2022/news_letter-2022-09-02T02:15:39.911282+01:00.jpg"
-     alt="Belfast News Letter at 2022-09-01 19:15:44+01:00 local time"
+     alt="Belfast News Letter at 2022-09-02 02:15:44+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-09-02T02:15:39.911282+01:00.jpg">September 1 at 7:15 PM</a></p>
+ <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-09-02T02:15:39.911282+01:00.jpg">September 2 at 2:15 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/news_letter-2022/news_letter-2022-09-01T14:10:07.747479+01:00.jpg">
   <img src="https://archive.org/download/news_letter-2022/news_letter-2022-09-01T14:10:07.747479+01:00.jpg"
-     alt="Belfast News Letter at 2022-09-01 07:10:12+01:00 local time"
+     alt="Belfast News Letter at 2022-09-01 14:10:12+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-09-01T14:10:07.747479+01:00.jpg">September 1 at 7:10 AM</a></p>
+ <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-09-01T14:10:07.747479+01:00.jpg">September 1 at 2:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/news_letter-2022/news_letter-2022-09-01T10:19:11.885944+01:00.jpg">
   <img src="https://archive.org/download/news_letter-2022/news_letter-2022-09-01T10:19:11.885944+01:00.jpg"
-     alt="Belfast News Letter at 2022-09-01 03:19:13+01:00 local time"
+     alt="Belfast News Letter at 2022-09-01 10:19:13+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-09-01T10:19:11.885944+01:00.jpg">September 1 at 3:19 AM</a></p>
+ <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-09-01T10:19:11.885944+01:00.jpg">September 1 at 10:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/news_letter-2022/news_letter-2022-09-01T02:13:53.239945+01:00.jpg">
   <img src="https://archive.org/download/news_letter-2022/news_letter-2022-09-01T02:13:53.239945+01:00.jpg"
-     alt="Belfast News Letter at 2022-08-31 19:13:56+01:00 local time"
+     alt="Belfast News Letter at 2022-09-01 02:13:56+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-09-01T02:13:53.239945+01:00.jpg">August 31 at 7:13 PM</a></p>
+ <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-09-01T02:13:53.239945+01:00.jpg">September 1 at 2:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-31T14:10:01.504460+01:00.jpg">
   <img src="https://archive.org/download/news_letter-2022/news_letter-2022-08-31T14:10:01.504460+01:00.jpg"
-     alt="Belfast News Letter at 2022-08-31 07:10:05+01:00 local time"
+     alt="Belfast News Letter at 2022-08-31 14:10:05+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-31T14:10:01.504460+01:00.jpg">August 31 at 7:10 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-31T10:18:55.055666+01:00.jpg">
-  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-08-31T10:18:55.055666+01:00.jpg"
-     alt="Belfast News Letter at 2022-08-31 03:18:58+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-31T10:18:55.055666+01:00.jpg">August 31 at 3:18 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-31T02:23:37.521832+01:00.jpg">
-  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-08-31T02:23:37.521832+01:00.jpg"
-     alt="Belfast News Letter at 2022-08-30 19:23:39+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-31T02:23:37.521832+01:00.jpg">August 30 at 7:23 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-30T14:07:35.812952+01:00.jpg">
-  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-08-30T14:07:35.812952+01:00.jpg"
-     alt="Belfast News Letter at 2022-08-30 07:07:39+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-30T14:07:35.812952+01:00.jpg">August 30 at 7:07 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-30T10:18:34.192358+01:00.jpg">
-  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-08-30T10:18:34.192358+01:00.jpg"
-     alt="Belfast News Letter at 2022-08-30 03:18:46+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-30T10:18:34.192358+01:00.jpg">August 30 at 3:18 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-30T02:15:42.494017+01:00.jpg">
-  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-08-30T02:15:42.494017+01:00.jpg"
-     alt="Belfast News Letter at 2022-08-29 19:15:44+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-30T02:15:42.494017+01:00.jpg">August 29 at 7:15 PM</a></p>
+ <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-31T14:10:01.504460+01:00.jpg">August 31 at 2:10 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 97 hyperlink lists with the Internet Archive.
+The archiving routine has saved 102 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 7:01 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-02T14:01:46.414853+01:00.hyperlinks.json) |
-| [September 2 at 3:19 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-02T10:19:19.040619+01:00.hyperlinks.json) |
-| [September 1 at 7:15 PM](https://archive.org/download/news_letter-2022/news_letter-2022-09-02T02:15:39.911282+01:00.hyperlinks.json) |
-| [September 1 at 7:10 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-01T14:10:07.747479+01:00.hyperlinks.json) |
-| [September 1 at 3:19 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-01T10:19:11.885944+01:00.hyperlinks.json) |
-| [August 31 at 7:14 PM](https://archive.org/download/news_letter-2022/news_letter-2022-09-01T02:13:53.239945+01:00.hyperlinks.json) |
-| [August 31 at 7:10 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-31T14:10:01.504460+01:00.hyperlinks.json) |
-| [August 31 at 3:19 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-31T10:18:55.055666+01:00.hyperlinks.json) |
-| [August 30 at 7:23 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-31T02:23:37.521832+01:00.hyperlinks.json) |
-| [August 30 at 7:07 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-30T14:07:35.812952+01:00.hyperlinks.json) |
+| [September 4 at 10:13 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-04T10:13:17.232440+01:00.hyperlinks.json) |
+| [September 4 at 2:12 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-04T02:11:57.755769+01:00.hyperlinks.json) |
+| [September 3 at 2:10 PM](https://archive.org/download/news_letter-2022/news_letter-2022-09-03T14:09:54.109700+01:00.hyperlinks.json) |
+| [September 3 at 10:13 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-03T10:13:22.323325+01:00.hyperlinks.json) |
+| [September 3 at 2:20 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-03T02:20:45.760957+01:00.hyperlinks.json) |
+| [September 2 at 2:01 PM](https://archive.org/download/news_letter-2022/news_letter-2022-09-02T14:01:46.414853+01:00.hyperlinks.json) |
+| [September 2 at 10:19 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-02T10:19:19.040619+01:00.hyperlinks.json) |
+| [September 2 at 2:15 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-02T02:15:39.911282+01:00.hyperlinks.json) |
+| [September 1 at 2:10 PM](https://archive.org/download/news_letter-2022/news_letter-2022-09-01T14:10:07.747479+01:00.hyperlinks.json) |
+| [September 1 at 10:19 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-01T10:19:11.885944+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 104 accessibility trees with the Internet Archive.
+The archiving routine has saved 109 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 7:01 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-02T14:01:46.414853+01:00.accessibility.json) |
-| [September 2 at 3:19 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-02T10:19:19.040619+01:00.accessibility.json) |
-| [September 1 at 7:15 PM](https://archive.org/download/news_letter-2022/news_letter-2022-09-02T02:15:39.911282+01:00.accessibility.json) |
-| [September 1 at 7:10 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-01T14:10:07.747479+01:00.accessibility.json) |
-| [September 1 at 3:19 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-01T10:19:11.885944+01:00.accessibility.json) |
-| [August 31 at 7:13 PM](https://archive.org/download/news_letter-2022/news_letter-2022-09-01T02:13:53.239945+01:00.accessibility.json) |
-| [August 31 at 7:10 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-31T14:10:01.504460+01:00.accessibility.json) |
-| [August 31 at 3:19 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-31T10:18:55.055666+01:00.accessibility.json) |
-| [August 30 at 7:23 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-31T02:23:37.521832+01:00.accessibility.json) |
-| [August 30 at 7:07 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-30T14:07:35.812952+01:00.accessibility.json) |
+| [September 4 at 10:13 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-04T10:13:17.232440+01:00.accessibility.json) |
+| [September 4 at 2:12 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-04T02:11:57.755769+01:00.accessibility.json) |
+| [September 3 at 2:10 PM](https://archive.org/download/news_letter-2022/news_letter-2022-09-03T14:09:54.109700+01:00.accessibility.json) |
+| [September 3 at 10:13 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-03T10:13:22.323325+01:00.accessibility.json) |
+| [September 3 at 2:20 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-03T02:20:45.760957+01:00.accessibility.json) |
+| [September 2 at 2:01 PM](https://archive.org/download/news_letter-2022/news_letter-2022-09-02T14:01:46.414853+01:00.accessibility.json) |
+| [September 2 at 10:19 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-02T10:19:19.040619+01:00.accessibility.json) |
+| [September 2 at 2:15 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-02T02:15:39.911282+01:00.accessibility.json) |
+| [September 1 at 2:10 PM](https://archive.org/download/news_letter-2022/news_letter-2022-09-01T14:10:07.747479+01:00.accessibility.json) |
+| [September 1 at 10:19 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-01T10:19:11.885944+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 103 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 7:01 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-02T14:01:46.414853+01:00.lighthouse.json) |
-| [September 2 at 3:19 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-02T10:19:19.040619+01:00.lighthouse.json) |
-| [September 1 at 7:15 PM](https://archive.org/download/news_letter-2022/news_letter-2022-09-02T02:15:39.911282+01:00.lighthouse.json) |
-| [September 1 at 7:10 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-01T14:10:07.747479+01:00.lighthouse.json) |
-| [September 1 at 3:19 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-01T10:19:11.885944+01:00.lighthouse.json) |
-| [August 31 at 7:14 PM](https://archive.org/download/news_letter-2022/news_letter-2022-09-01T02:13:53.239945+01:00.lighthouse.json) |
-| [August 31 at 7:10 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-31T14:10:01.504460+01:00.lighthouse.json) |
-| [August 31 at 3:19 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-31T10:18:55.055666+01:00.lighthouse.json) |
-| [August 30 at 7:23 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-31T02:23:37.521832+01:00.lighthouse.json) |
-| [August 30 at 7:07 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-30T14:07:35.812952+01:00.lighthouse.json) |
+| [September 4 at 10:13 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-04T10:13:17.232440+01:00.lighthouse.json) |
+| [September 4 at 2:12 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-04T02:11:57.755769+01:00.lighthouse.json) |
+| [September 3 at 2:10 PM](https://archive.org/download/news_letter-2022/news_letter-2022-09-03T14:09:54.109700+01:00.lighthouse.json) |
+| [September 3 at 10:13 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-03T10:13:22.323325+01:00.lighthouse.json) |
+| [September 3 at 2:20 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-03T02:20:45.760957+01:00.lighthouse.json) |
+| [September 2 at 2:01 PM](https://archive.org/download/news_letter-2022/news_letter-2022-09-02T14:01:46.414853+01:00.lighthouse.json) |
+| [September 2 at 10:19 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-02T10:19:19.040619+01:00.lighthouse.json) |
+| [September 2 at 2:15 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-02T02:15:39.911282+01:00.lighthouse.json) |
+| [September 1 at 2:10 PM](https://archive.org/download/news_letter-2022/news_letter-2022-09-01T14:10:07.747479+01:00.lighthouse.json) |
+| [September 1 at 10:19 AM](https://archive.org/download/news_letter-2022/news_letter-2022-09-01T10:19:11.885944+01:00.lighthouse.json) |
 
 
 

@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-02T19:16:21.771080+03:00.jpg">
   <img src="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-02T19:16:21.771080+03:00.jpg"
-     alt="Segodnya at 2022-09-02 12:16:23+03:00 local time"
+     alt="Segodnya at 2022-09-02 19:16:23+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-02T19:16:21.771080+03:00.jpg">September 2 at 12:16 PM</a></p>
+ <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-02T19:16:21.771080+03:00.jpg">September 2 at 7:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-02T07:48:36.161306+03:00.jpg">
   <img src="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-02T07:48:36.161306+03:00.jpg"
-     alt="Segodnya at 2022-09-02 00:48:39+03:00 local time"
+     alt="Segodnya at 2022-09-02 07:48:39+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-02T07:48:36.161306+03:00.jpg">September 2 at 12:48 AM</a></p>
+ <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-02T07:48:36.161306+03:00.jpg">September 2 at 7:48 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-01T19:40:04.073761+03:00.jpg">
   <img src="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-01T19:40:04.073761+03:00.jpg"
-     alt="Segodnya at 2022-09-01 12:40:11+03:00 local time"
+     alt="Segodnya at 2022-09-01 19:40:11+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-01T19:40:04.073761+03:00.jpg">September 1 at 12:40 PM</a></p>
+ <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-01T19:40:04.073761+03:00.jpg">September 1 at 7:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-01T07:43:19.053070+03:00.jpg">
   <img src="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-01T07:43:19.053070+03:00.jpg"
-     alt="Segodnya at 2022-09-01 00:43:24+03:00 local time"
+     alt="Segodnya at 2022-09-01 07:43:24+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-01T07:43:19.053070+03:00.jpg">September 1 at 12:43 AM</a></p>
+ <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-01T07:43:19.053070+03:00.jpg">September 1 at 7:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-31T19:11:25.022327+03:00.jpg">
   <img src="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-31T19:11:25.022327+03:00.jpg"
-     alt="Segodnya at 2022-08-31 12:11:29+03:00 local time"
+     alt="Segodnya at 2022-08-31 19:11:29+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-31T19:11:25.022327+03:00.jpg">August 31 at 12:11 PM</a></p>
+ <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-31T19:11:25.022327+03:00.jpg">August 31 at 7:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-31T07:50:54.914304+03:00.jpg">
   <img src="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-31T07:50:54.914304+03:00.jpg"
-     alt="Segodnya at 2022-08-31 00:50:56+03:00 local time"
+     alt="Segodnya at 2022-08-31 07:50:56+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-31T07:50:54.914304+03:00.jpg">August 31 at 12:50 AM</a></p>
+ <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-31T07:50:54.914304+03:00.jpg">August 31 at 7:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-30T19:35:58.945104+03:00.jpg">
   <img src="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-30T19:35:58.945104+03:00.jpg"
-     alt="Segodnya at 2022-08-30 12:36:06+03:00 local time"
+     alt="Segodnya at 2022-08-30 19:36:06+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-30T19:35:58.945104+03:00.jpg">August 30 at 12:36 PM</a></p>
+ <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-30T19:35:58.945104+03:00.jpg">August 30 at 7:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-30T07:55:58.356702+03:00.jpg">
   <img src="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-30T07:55:58.356702+03:00.jpg"
-     alt="Segodnya at 2022-08-30 00:56:09+03:00 local time"
+     alt="Segodnya at 2022-08-30 07:56:09+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-30T07:55:58.356702+03:00.jpg">August 30 at 12:56 AM</a></p>
+ <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-30T07:55:58.356702+03:00.jpg">August 30 at 7:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-29T19:16:23.415108+03:00.jpg">
   <img src="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-29T19:16:23.415108+03:00.jpg"
-     alt="Segodnya at 2022-08-29 12:16:27+03:00 local time"
+     alt="Segodnya at 2022-08-29 19:16:27+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-29T19:16:23.415108+03:00.jpg">August 29 at 12:16 PM</a></p>
+ <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-29T19:16:23.415108+03:00.jpg">August 29 at 7:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-29T07:41:00.903937+03:00.jpg">
   <img src="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-29T07:41:00.903937+03:00.jpg"
-     alt="Segodnya at 2022-08-29 00:41:10+03:00 local time"
+     alt="Segodnya at 2022-08-29 07:41:10+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-29T07:41:00.903937+03:00.jpg">August 29 at 12:41 AM</a></p>
+ <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-29T07:41:00.903937+03:00.jpg">August 29 at 7:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-28T19:02:36.332480+03:00.jpg">
   <img src="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-28T19:02:36.332480+03:00.jpg"
-     alt="Segodnya at 2022-08-28 12:02:37+03:00 local time"
+     alt="Segodnya at 2022-08-28 19:02:37+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-28T19:02:36.332480+03:00.jpg">August 28 at 12:02 PM</a></p>
+ <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-28T19:02:36.332480+03:00.jpg">August 28 at 7:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-28T07:36:31.510315+03:00.jpg">
   <img src="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-28T07:36:31.510315+03:00.jpg"
-     alt="Segodnya at 2022-08-28 00:36:33+03:00 local time"
+     alt="Segodnya at 2022-08-28 07:36:33+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-28T07:36:31.510315+03:00.jpg">August 28 at 12:36 AM</a></p>
+ <p><a href="https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-28T07:36:31.510315+03:00.jpg">August 28 at 7:36 AM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 12:16 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-02T19:16:21.771080+03:00.hyperlinks.json) |
-| [September 2 at 12:48 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-02T07:48:36.161306+03:00.hyperlinks.json) |
-| [September 1 at 12:40 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-01T19:40:04.073761+03:00.hyperlinks.json) |
-| [September 1 at 12:43 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-01T07:43:19.053070+03:00.hyperlinks.json) |
-| [August 31 at 12:11 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-31T19:11:25.022327+03:00.hyperlinks.json) |
-| [August 31 at 12:51 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-31T07:50:54.914304+03:00.hyperlinks.json) |
-| [August 30 at 12:36 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-30T19:35:58.945104+03:00.hyperlinks.json) |
-| [August 30 at 12:56 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-30T07:55:58.356702+03:00.hyperlinks.json) |
-| [August 29 at 12:16 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-29T19:16:23.415108+03:00.hyperlinks.json) |
-| [August 29 at 12:41 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-29T07:41:00.903937+03:00.hyperlinks.json) |
+| [September 2 at 7:16 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-02T19:16:21.771080+03:00.hyperlinks.json) |
+| [September 2 at 7:48 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-02T07:48:36.161306+03:00.hyperlinks.json) |
+| [September 1 at 7:40 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-01T19:40:04.073761+03:00.hyperlinks.json) |
+| [September 1 at 7:43 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-01T07:43:19.053070+03:00.hyperlinks.json) |
+| [August 31 at 7:11 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-31T19:11:25.022327+03:00.hyperlinks.json) |
+| [August 31 at 7:51 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-31T07:50:54.914304+03:00.hyperlinks.json) |
+| [August 30 at 7:36 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-30T19:35:58.945104+03:00.hyperlinks.json) |
+| [August 30 at 7:56 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-30T07:55:58.356702+03:00.hyperlinks.json) |
+| [August 29 at 7:16 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-29T19:16:23.415108+03:00.hyperlinks.json) |
+| [August 29 at 7:41 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-29T07:41:00.903937+03:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 12:16 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-02T19:16:21.771080+03:00.accessibility.json) |
-| [September 2 at 12:48 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-02T07:48:36.161306+03:00.accessibility.json) |
-| [September 1 at 12:40 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-01T19:40:04.073761+03:00.accessibility.json) |
-| [September 1 at 12:43 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-01T07:43:19.053070+03:00.accessibility.json) |
-| [August 31 at 12:11 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-31T19:11:25.022327+03:00.accessibility.json) |
-| [August 31 at 12:50 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-31T07:50:54.914304+03:00.accessibility.json) |
-| [August 30 at 12:36 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-30T19:35:58.945104+03:00.accessibility.json) |
-| [August 30 at 12:56 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-30T07:55:58.356702+03:00.accessibility.json) |
-| [August 29 at 12:16 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-29T19:16:23.415108+03:00.accessibility.json) |
-| [August 29 at 12:41 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-29T07:41:00.903937+03:00.accessibility.json) |
+| [September 2 at 7:16 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-02T19:16:21.771080+03:00.accessibility.json) |
+| [September 2 at 7:48 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-02T07:48:36.161306+03:00.accessibility.json) |
+| [September 1 at 7:40 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-01T19:40:04.073761+03:00.accessibility.json) |
+| [September 1 at 7:43 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-01T07:43:19.053070+03:00.accessibility.json) |
+| [August 31 at 7:11 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-31T19:11:25.022327+03:00.accessibility.json) |
+| [August 31 at 7:50 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-31T07:50:54.914304+03:00.accessibility.json) |
+| [August 30 at 7:36 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-30T19:35:58.945104+03:00.accessibility.json) |
+| [August 30 at 7:56 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-30T07:55:58.356702+03:00.accessibility.json) |
+| [August 29 at 7:16 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-29T19:16:23.415108+03:00.accessibility.json) |
+| [August 29 at 7:41 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-29T07:41:00.903937+03:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 12:16 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-02T19:16:21.771080+03:00.lighthouse.json) |
-| [September 2 at 12:48 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-02T07:48:36.161306+03:00.lighthouse.json) |
-| [September 1 at 12:40 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-01T19:40:04.073761+03:00.lighthouse.json) |
-| [September 1 at 12:43 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-01T07:43:19.053070+03:00.lighthouse.json) |
-| [August 31 at 12:11 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-31T19:11:25.022327+03:00.lighthouse.json) |
-| [August 31 at 12:51 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-31T07:50:54.914304+03:00.lighthouse.json) |
-| [August 30 at 12:36 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-30T19:35:58.945104+03:00.lighthouse.json) |
-| [August 30 at 12:56 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-30T07:55:58.356702+03:00.lighthouse.json) |
-| [August 29 at 12:16 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-29T19:16:23.415108+03:00.lighthouse.json) |
-| [August 29 at 12:41 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-29T07:41:00.903937+03:00.lighthouse.json) |
+| [September 2 at 7:16 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-02T19:16:21.771080+03:00.lighthouse.json) |
+| [September 2 at 7:48 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-02T07:48:36.161306+03:00.lighthouse.json) |
+| [September 1 at 7:40 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-01T19:40:04.073761+03:00.lighthouse.json) |
+| [September 1 at 7:43 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-09-01T07:43:19.053070+03:00.lighthouse.json) |
+| [August 31 at 7:11 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-31T19:11:25.022327+03:00.lighthouse.json) |
+| [August 31 at 7:51 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-31T07:50:54.914304+03:00.lighthouse.json) |
+| [August 30 at 7:36 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-30T19:35:58.945104+03:00.lighthouse.json) |
+| [August 30 at 7:56 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-30T07:55:58.356702+03:00.lighthouse.json) |
+| [August 29 at 7:16 PM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-29T19:16:23.415108+03:00.lighthouse.json) |
+| [August 29 at 7:41 AM](https://archive.org/download/segodnya_online-2022/segodnya_online-2022-08-29T07:41:00.903937+03:00.lighthouse.json) |
 
 
 

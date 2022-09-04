@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/newsday-2022/newsday-2022-09-02T09:01:51.303574-04:00.jpg">
   <img src="https://archive.org/download/newsday-2022/newsday-2022-09-02T09:01:51.303574-04:00.jpg"
-     alt="Newsday at 2022-09-02 02:02:01-04:00 local time"
+     alt="Newsday at 2022-09-02 09:02:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsday-2022/newsday-2022-09-02T09:01:51.303574-04:00.jpg">September 2 at 2:02 AM</a></p>
+ <p><a href="https://archive.org/download/newsday-2022/newsday-2022-09-02T09:01:51.303574-04:00.jpg">September 2 at 9:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsday-2022/newsday-2022-09-01T21:15:23.845673-04:00.jpg">
   <img src="https://archive.org/download/newsday-2022/newsday-2022-09-01T21:15:23.845673-04:00.jpg"
-     alt="Newsday at 2022-09-01 14:15:28-04:00 local time"
+     alt="Newsday at 2022-09-01 21:15:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsday-2022/newsday-2022-09-01T21:15:23.845673-04:00.jpg">September 1 at 2:15 PM</a></p>
+ <p><a href="https://archive.org/download/newsday-2022/newsday-2022-09-01T21:15:23.845673-04:00.jpg">September 1 at 9:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsday-2022/newsday-2022-09-01T09:09:16.011108-04:00.jpg">
   <img src="https://archive.org/download/newsday-2022/newsday-2022-09-01T09:09:16.011108-04:00.jpg"
-     alt="Newsday at 2022-09-01 02:09:20-04:00 local time"
+     alt="Newsday at 2022-09-01 09:09:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsday-2022/newsday-2022-09-01T09:09:16.011108-04:00.jpg">September 1 at 2:09 AM</a></p>
+ <p><a href="https://archive.org/download/newsday-2022/newsday-2022-09-01T09:09:16.011108-04:00.jpg">September 1 at 9:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsday-2022/newsday-2022-08-31T21:13:08.433830-04:00.jpg">
   <img src="https://archive.org/download/newsday-2022/newsday-2022-08-31T21:13:08.433830-04:00.jpg"
-     alt="Newsday at 2022-08-31 14:13:10-04:00 local time"
+     alt="Newsday at 2022-08-31 21:13:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsday-2022/newsday-2022-08-31T21:13:08.433830-04:00.jpg">August 31 at 2:13 PM</a></p>
+ <p><a href="https://archive.org/download/newsday-2022/newsday-2022-08-31T21:13:08.433830-04:00.jpg">August 31 at 9:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsday-2022/newsday-2022-08-31T09:10:07.245661-04:00.jpg">
   <img src="https://archive.org/download/newsday-2022/newsday-2022-08-31T09:10:07.245661-04:00.jpg"
-     alt="Newsday at 2022-08-31 02:10:11-04:00 local time"
+     alt="Newsday at 2022-08-31 09:10:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsday-2022/newsday-2022-08-31T09:10:07.245661-04:00.jpg">August 31 at 2:10 AM</a></p>
+ <p><a href="https://archive.org/download/newsday-2022/newsday-2022-08-31T09:10:07.245661-04:00.jpg">August 31 at 9:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsday-2022/newsday-2022-08-30T21:23:20.473233-04:00.jpg">
   <img src="https://archive.org/download/newsday-2022/newsday-2022-08-30T21:23:20.473233-04:00.jpg"
-     alt="Newsday at 2022-08-30 14:23:25-04:00 local time"
+     alt="Newsday at 2022-08-30 21:23:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsday-2022/newsday-2022-08-30T21:23:20.473233-04:00.jpg">August 30 at 2:23 PM</a></p>
+ <p><a href="https://archive.org/download/newsday-2022/newsday-2022-08-30T21:23:20.473233-04:00.jpg">August 30 at 9:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsday-2022/newsday-2022-08-30T09:07:19.809438-04:00.jpg">
   <img src="https://archive.org/download/newsday-2022/newsday-2022-08-30T09:07:19.809438-04:00.jpg"
-     alt="Newsday at 2022-08-30 02:07:27-04:00 local time"
+     alt="Newsday at 2022-08-30 09:07:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsday-2022/newsday-2022-08-30T09:07:19.809438-04:00.jpg">August 30 at 2:07 AM</a></p>
+ <p><a href="https://archive.org/download/newsday-2022/newsday-2022-08-30T09:07:19.809438-04:00.jpg">August 30 at 9:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsday-2022/newsday-2022-08-29T21:15:39.870633-04:00.jpg">
   <img src="https://archive.org/download/newsday-2022/newsday-2022-08-29T21:15:39.870633-04:00.jpg"
-     alt="Newsday at 2022-08-29 14:15:44-04:00 local time"
+     alt="Newsday at 2022-08-29 21:15:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsday-2022/newsday-2022-08-29T21:15:39.870633-04:00.jpg">August 29 at 2:15 PM</a></p>
+ <p><a href="https://archive.org/download/newsday-2022/newsday-2022-08-29T21:15:39.870633-04:00.jpg">August 29 at 9:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsday-2022/newsday-2022-08-29T08:58:53.013306-04:00.jpg">
   <img src="https://archive.org/download/newsday-2022/newsday-2022-08-29T08:58:53.013306-04:00.jpg"
-     alt="Newsday at 2022-08-29 01:58:56-04:00 local time"
+     alt="Newsday at 2022-08-29 08:58:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsday-2022/newsday-2022-08-29T08:58:53.013306-04:00.jpg">August 29 at 1:58 AM</a></p>
+ <p><a href="https://archive.org/download/newsday-2022/newsday-2022-08-29T08:58:53.013306-04:00.jpg">August 29 at 8:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsday-2022/newsday-2022-08-28T21:14:22.357767-04:00.jpg">
   <img src="https://archive.org/download/newsday-2022/newsday-2022-08-28T21:14:22.357767-04:00.jpg"
-     alt="Newsday at 2022-08-28 14:14:26-04:00 local time"
+     alt="Newsday at 2022-08-28 21:14:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsday-2022/newsday-2022-08-28T21:14:22.357767-04:00.jpg">August 28 at 2:14 PM</a></p>
+ <p><a href="https://archive.org/download/newsday-2022/newsday-2022-08-28T21:14:22.357767-04:00.jpg">August 28 at 9:14 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsday-2022/newsday-2022-08-28T08:59:04.841024-04:00.jpg">
   <img src="https://archive.org/download/newsday-2022/newsday-2022-08-28T08:59:04.841024-04:00.jpg"
-     alt="Newsday at 2022-08-28 01:59:08-04:00 local time"
+     alt="Newsday at 2022-08-28 08:59:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsday-2022/newsday-2022-08-28T08:59:04.841024-04:00.jpg">August 28 at 1:59 AM</a></p>
+ <p><a href="https://archive.org/download/newsday-2022/newsday-2022-08-28T08:59:04.841024-04:00.jpg">August 28 at 8:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsday-2022/newsday-2022-08-27T21:26:58.135993-04:00.jpg">
   <img src="https://archive.org/download/newsday-2022/newsday-2022-08-27T21:26:58.135993-04:00.jpg"
-     alt="Newsday at 2022-08-27 14:26:59-04:00 local time"
+     alt="Newsday at 2022-08-27 21:26:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsday-2022/newsday-2022-08-27T21:26:58.135993-04:00.jpg">August 27 at 2:26 PM</a></p>
+ <p><a href="https://archive.org/download/newsday-2022/newsday-2022-08-27T21:26:58.135993-04:00.jpg">August 27 at 9:26 PM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 2:02 AM](https://archive.org/download/newsday-2022/newsday-2022-09-02T09:01:51.303574-04:00.hyperlinks.json) |
-| [September 1 at 2:15 PM](https://archive.org/download/newsday-2022/newsday-2022-09-01T21:15:23.845673-04:00.hyperlinks.json) |
-| [September 1 at 2:09 AM](https://archive.org/download/newsday-2022/newsday-2022-09-01T09:09:16.011108-04:00.hyperlinks.json) |
-| [August 31 at 2:13 PM](https://archive.org/download/newsday-2022/newsday-2022-08-31T21:13:08.433830-04:00.hyperlinks.json) |
-| [August 31 at 2:10 AM](https://archive.org/download/newsday-2022/newsday-2022-08-31T09:10:07.245661-04:00.hyperlinks.json) |
-| [August 30 at 2:23 PM](https://archive.org/download/newsday-2022/newsday-2022-08-30T21:23:20.473233-04:00.hyperlinks.json) |
-| [August 30 at 2:07 AM](https://archive.org/download/newsday-2022/newsday-2022-08-30T09:07:19.809438-04:00.hyperlinks.json) |
-| [August 29 at 2:15 PM](https://archive.org/download/newsday-2022/newsday-2022-08-29T21:15:39.870633-04:00.hyperlinks.json) |
-| [August 29 at 1:59 AM](https://archive.org/download/newsday-2022/newsday-2022-08-29T08:58:53.013306-04:00.hyperlinks.json) |
-| [August 28 at 2:14 PM](https://archive.org/download/newsday-2022/newsday-2022-08-28T21:14:22.357767-04:00.hyperlinks.json) |
+| [September 2 at 9:02 AM](https://archive.org/download/newsday-2022/newsday-2022-09-02T09:01:51.303574-04:00.hyperlinks.json) |
+| [September 1 at 9:15 PM](https://archive.org/download/newsday-2022/newsday-2022-09-01T21:15:23.845673-04:00.hyperlinks.json) |
+| [September 1 at 9:09 AM](https://archive.org/download/newsday-2022/newsday-2022-09-01T09:09:16.011108-04:00.hyperlinks.json) |
+| [August 31 at 9:13 PM](https://archive.org/download/newsday-2022/newsday-2022-08-31T21:13:08.433830-04:00.hyperlinks.json) |
+| [August 31 at 9:10 AM](https://archive.org/download/newsday-2022/newsday-2022-08-31T09:10:07.245661-04:00.hyperlinks.json) |
+| [August 30 at 9:23 PM](https://archive.org/download/newsday-2022/newsday-2022-08-30T21:23:20.473233-04:00.hyperlinks.json) |
+| [August 30 at 9:07 AM](https://archive.org/download/newsday-2022/newsday-2022-08-30T09:07:19.809438-04:00.hyperlinks.json) |
+| [August 29 at 9:15 PM](https://archive.org/download/newsday-2022/newsday-2022-08-29T21:15:39.870633-04:00.hyperlinks.json) |
+| [August 29 at 8:59 AM](https://archive.org/download/newsday-2022/newsday-2022-08-29T08:58:53.013306-04:00.hyperlinks.json) |
+| [August 28 at 9:14 PM](https://archive.org/download/newsday-2022/newsday-2022-08-28T21:14:22.357767-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 2:02 AM](https://archive.org/download/newsday-2022/newsday-2022-09-02T09:01:51.303574-04:00.accessibility.json) |
-| [September 1 at 2:15 PM](https://archive.org/download/newsday-2022/newsday-2022-09-01T21:15:23.845673-04:00.accessibility.json) |
-| [September 1 at 2:09 AM](https://archive.org/download/newsday-2022/newsday-2022-09-01T09:09:16.011108-04:00.accessibility.json) |
-| [August 31 at 2:13 PM](https://archive.org/download/newsday-2022/newsday-2022-08-31T21:13:08.433830-04:00.accessibility.json) |
-| [August 31 at 2:10 AM](https://archive.org/download/newsday-2022/newsday-2022-08-31T09:10:07.245661-04:00.accessibility.json) |
-| [August 30 at 2:23 PM](https://archive.org/download/newsday-2022/newsday-2022-08-30T21:23:20.473233-04:00.accessibility.json) |
-| [August 30 at 2:07 AM](https://archive.org/download/newsday-2022/newsday-2022-08-30T09:07:19.809438-04:00.accessibility.json) |
-| [August 29 at 2:15 PM](https://archive.org/download/newsday-2022/newsday-2022-08-29T21:15:39.870633-04:00.accessibility.json) |
-| [August 29 at 1:58 AM](https://archive.org/download/newsday-2022/newsday-2022-08-29T08:58:53.013306-04:00.accessibility.json) |
-| [August 28 at 2:14 PM](https://archive.org/download/newsday-2022/newsday-2022-08-28T21:14:22.357767-04:00.accessibility.json) |
+| [September 2 at 9:02 AM](https://archive.org/download/newsday-2022/newsday-2022-09-02T09:01:51.303574-04:00.accessibility.json) |
+| [September 1 at 9:15 PM](https://archive.org/download/newsday-2022/newsday-2022-09-01T21:15:23.845673-04:00.accessibility.json) |
+| [September 1 at 9:09 AM](https://archive.org/download/newsday-2022/newsday-2022-09-01T09:09:16.011108-04:00.accessibility.json) |
+| [August 31 at 9:13 PM](https://archive.org/download/newsday-2022/newsday-2022-08-31T21:13:08.433830-04:00.accessibility.json) |
+| [August 31 at 9:10 AM](https://archive.org/download/newsday-2022/newsday-2022-08-31T09:10:07.245661-04:00.accessibility.json) |
+| [August 30 at 9:23 PM](https://archive.org/download/newsday-2022/newsday-2022-08-30T21:23:20.473233-04:00.accessibility.json) |
+| [August 30 at 9:07 AM](https://archive.org/download/newsday-2022/newsday-2022-08-30T09:07:19.809438-04:00.accessibility.json) |
+| [August 29 at 9:15 PM](https://archive.org/download/newsday-2022/newsday-2022-08-29T21:15:39.870633-04:00.accessibility.json) |
+| [August 29 at 8:58 AM](https://archive.org/download/newsday-2022/newsday-2022-08-29T08:58:53.013306-04:00.accessibility.json) |
+| [August 28 at 9:14 PM](https://archive.org/download/newsday-2022/newsday-2022-08-28T21:14:22.357767-04:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 2:02 AM](https://archive.org/download/newsday-2022/newsday-2022-09-02T09:01:51.303574-04:00.lighthouse.json) |
-| [September 1 at 2:15 PM](https://archive.org/download/newsday-2022/newsday-2022-09-01T21:15:23.845673-04:00.lighthouse.json) |
-| [September 1 at 2:09 AM](https://archive.org/download/newsday-2022/newsday-2022-09-01T09:09:16.011108-04:00.lighthouse.json) |
-| [August 31 at 2:13 PM](https://archive.org/download/newsday-2022/newsday-2022-08-31T21:13:08.433830-04:00.lighthouse.json) |
-| [August 31 at 2:10 AM](https://archive.org/download/newsday-2022/newsday-2022-08-31T09:10:07.245661-04:00.lighthouse.json) |
-| [August 30 at 2:23 PM](https://archive.org/download/newsday-2022/newsday-2022-08-30T21:23:20.473233-04:00.lighthouse.json) |
-| [August 30 at 2:07 AM](https://archive.org/download/newsday-2022/newsday-2022-08-30T09:07:19.809438-04:00.lighthouse.json) |
-| [August 29 at 2:15 PM](https://archive.org/download/newsday-2022/newsday-2022-08-29T21:15:39.870633-04:00.lighthouse.json) |
-| [August 29 at 1:59 AM](https://archive.org/download/newsday-2022/newsday-2022-08-29T08:58:53.013306-04:00.lighthouse.json) |
-| [August 28 at 2:14 PM](https://archive.org/download/newsday-2022/newsday-2022-08-28T21:14:22.357767-04:00.lighthouse.json) |
+| [September 2 at 9:02 AM](https://archive.org/download/newsday-2022/newsday-2022-09-02T09:01:51.303574-04:00.lighthouse.json) |
+| [September 1 at 9:15 PM](https://archive.org/download/newsday-2022/newsday-2022-09-01T21:15:23.845673-04:00.lighthouse.json) |
+| [September 1 at 9:09 AM](https://archive.org/download/newsday-2022/newsday-2022-09-01T09:09:16.011108-04:00.lighthouse.json) |
+| [August 31 at 9:13 PM](https://archive.org/download/newsday-2022/newsday-2022-08-31T21:13:08.433830-04:00.lighthouse.json) |
+| [August 31 at 9:10 AM](https://archive.org/download/newsday-2022/newsday-2022-08-31T09:10:07.245661-04:00.lighthouse.json) |
+| [August 30 at 9:23 PM](https://archive.org/download/newsday-2022/newsday-2022-08-30T21:23:20.473233-04:00.lighthouse.json) |
+| [August 30 at 9:07 AM](https://archive.org/download/newsday-2022/newsday-2022-08-30T09:07:19.809438-04:00.lighthouse.json) |
+| [August 29 at 9:15 PM](https://archive.org/download/newsday-2022/newsday-2022-08-29T21:15:39.870633-04:00.lighthouse.json) |
+| [August 29 at 8:59 AM](https://archive.org/download/newsday-2022/newsday-2022-08-29T08:58:53.013306-04:00.lighthouse.json) |
+| [August 28 at 9:14 PM](https://archive.org/download/newsday-2022/newsday-2022-08-28T21:14:22.357767-04:00.lighthouse.json) |
 
 
 

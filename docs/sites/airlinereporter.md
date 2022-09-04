@@ -234,8 +234,91 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 31 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/airlinereporter.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
@@ -243,180 +326,429 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-02T16:49:30.653407-07:00.jpg">
-  <img src="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-02T16:49:30.653407-07:00.jpg"
-     alt="Airline Reporter at 2022-09-02 09:49:32-07:00 local time"
+ <a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-04T03:49:34.903927-07:00.jpg">
+  <img src="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-04T03:49:34.903927-07:00.jpg"
+     alt="Airline Reporter at 2022-09-04 03:49:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-02T16:49:30.653407-07:00.jpg">September 2 at 9:49 AM</a></p>
+ <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-04T03:49:34.903927-07:00.jpg">September 4 at 3:49 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-03T15:53:01.068116-07:00.jpg">
+  <img src="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-03T15:53:01.068116-07:00.jpg"
+     alt="Airline Reporter at 2022-09-03 15:53:04-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-03T15:53:01.068116-07:00.jpg">September 3 at 3:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-03T05:08:34.580090-07:00.jpg">
+  <img src="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-03T05:08:34.580090-07:00.jpg"
+     alt="Airline Reporter at 2022-09-03 05:08:36-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-03T05:08:34.580090-07:00.jpg">September 3 at 5:08 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-03T03:50:15.644888-07:00.jpg">
+  <img src="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-03T03:50:15.644888-07:00.jpg"
+     alt="Airline Reporter at 2022-09-03 03:50:17-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-03T03:50:15.644888-07:00.jpg">September 3 at 3:50 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-02T16:49:30.653407-07:00.jpg">
+  <img src="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-02T16:49:30.653407-07:00.jpg"
+     alt="Airline Reporter at 2022-09-02 16:49:32-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-02T16:49:30.653407-07:00.jpg">September 2 at 4:49 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-02T03:55:23.016315-07:00.jpg">
   <img src="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-02T03:55:23.016315-07:00.jpg"
-     alt="Airline Reporter at 2022-09-01 20:55:25-07:00 local time"
+     alt="Airline Reporter at 2022-09-02 03:55:25-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-02T03:55:23.016315-07:00.jpg">September 1 at 8:55 PM</a></p>
+ <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-02T03:55:23.016315-07:00.jpg">September 2 at 3:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-01T15:55:36.623227-07:00.jpg">
   <img src="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-01T15:55:36.623227-07:00.jpg"
-     alt="Airline Reporter at 2022-09-01 08:55:46-07:00 local time"
+     alt="Airline Reporter at 2022-09-01 15:55:46-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-01T15:55:36.623227-07:00.jpg">September 1 at 8:55 AM</a></p>
+ <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-01T15:55:36.623227-07:00.jpg">September 1 at 3:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-01T03:59:45.259910-07:00.jpg">
   <img src="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-01T03:59:45.259910-07:00.jpg"
-     alt="Airline Reporter at 2022-08-31 20:59:49-07:00 local time"
+     alt="Airline Reporter at 2022-09-01 03:59:49-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-01T03:59:45.259910-07:00.jpg">August 31 at 8:59 PM</a></p>
+ <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-01T03:59:45.259910-07:00.jpg">September 1 at 3:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-31T15:53:07.717588-07:00.jpg">
   <img src="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-31T15:53:07.717588-07:00.jpg"
-     alt="Airline Reporter at 2022-08-31 08:53:11-07:00 local time"
+     alt="Airline Reporter at 2022-08-31 15:53:11-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-31T15:53:07.717588-07:00.jpg">August 31 at 8:53 AM</a></p>
+ <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-31T15:53:07.717588-07:00.jpg">August 31 at 3:53 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-31T03:54:25.921604-07:00.jpg">
   <img src="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-31T03:54:25.921604-07:00.jpg"
-     alt="Airline Reporter at 2022-08-30 20:54:29-07:00 local time"
+     alt="Airline Reporter at 2022-08-31 03:54:29-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-31T03:54:25.921604-07:00.jpg">August 30 at 8:54 PM</a></p>
+ <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-31T03:54:25.921604-07:00.jpg">August 31 at 3:54 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-30T15:59:10.669581-07:00.jpg">
   <img src="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-30T15:59:10.669581-07:00.jpg"
-     alt="Airline Reporter at 2022-08-30 08:59:12-07:00 local time"
+     alt="Airline Reporter at 2022-08-30 15:59:12-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-30T15:59:10.669581-07:00.jpg">August 30 at 8:59 AM</a></p>
+ <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-30T15:59:10.669581-07:00.jpg">August 30 at 3:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-30T03:58:45.144985-07:00.jpg">
   <img src="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-30T03:58:45.144985-07:00.jpg"
-     alt="Airline Reporter at 2022-08-29 20:58:47-07:00 local time"
+     alt="Airline Reporter at 2022-08-30 03:58:47-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-30T03:58:45.144985-07:00.jpg">August 29 at 8:58 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-29T15:55:05.450029-07:00.jpg">
-  <img src="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-29T15:55:05.450029-07:00.jpg"
-     alt="Airline Reporter at 2022-08-29 08:55:11-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-29T15:55:05.450029-07:00.jpg">August 29 at 8:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-29T03:51:31.649774-07:00.jpg">
-  <img src="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-29T03:51:31.649774-07:00.jpg"
-     alt="Airline Reporter at 2022-08-28 20:51:33-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-29T03:51:31.649774-07:00.jpg">August 28 at 8:51 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-28T15:49:15.597286-07:00.jpg">
-  <img src="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-28T15:49:15.597286-07:00.jpg"
-     alt="Airline Reporter at 2022-08-28 08:49:17-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-28T15:49:15.597286-07:00.jpg">August 28 at 8:49 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-28T03:51:57.042467-07:00.jpg">
-  <img src="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-28T03:51:57.042467-07:00.jpg"
-     alt="Airline Reporter at 2022-08-27 20:51:59-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-28T03:51:57.042467-07:00.jpg">August 27 at 8:51 PM</a></p>
+ <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-30T03:58:45.144985-07:00.jpg">August 30 at 3:58 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 27 hyperlink lists with the Internet Archive.
+The archiving routine has saved 31 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/airlinereporter.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 9:49 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-02T16:49:30.653407-07:00.hyperlinks.json) |
-| [September 1 at 8:55 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-02T03:55:23.016315-07:00.hyperlinks.json) |
-| [September 1 at 8:56 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-01T15:55:36.623227-07:00.hyperlinks.json) |
-| [August 31 at 8:59 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-01T03:59:45.259910-07:00.hyperlinks.json) |
-| [August 31 at 8:53 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-31T15:53:07.717588-07:00.hyperlinks.json) |
-| [August 30 at 8:54 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-31T03:54:25.921604-07:00.hyperlinks.json) |
-| [August 30 at 8:59 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-30T15:59:10.669581-07:00.hyperlinks.json) |
-| [August 29 at 8:58 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-30T03:58:45.144985-07:00.hyperlinks.json) |
-| [August 29 at 8:55 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-29T15:55:05.450029-07:00.hyperlinks.json) |
-| [August 28 at 8:51 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-29T03:51:31.649774-07:00.hyperlinks.json) |
+| [September 4 at 3:49 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-04T03:49:34.903927-07:00.hyperlinks.json) |
+| [September 3 at 3:53 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-03T15:53:01.068116-07:00.hyperlinks.json) |
+| [September 3 at 5:08 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-03T05:08:34.580090-07:00.hyperlinks.json) |
+| [September 3 at 3:50 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-03T03:50:15.644888-07:00.hyperlinks.json) |
+| [September 2 at 4:49 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-02T16:49:30.653407-07:00.hyperlinks.json) |
+| [September 2 at 3:55 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-02T03:55:23.016315-07:00.hyperlinks.json) |
+| [September 1 at 3:56 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-01T15:55:36.623227-07:00.hyperlinks.json) |
+| [September 1 at 3:59 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-01T03:59:45.259910-07:00.hyperlinks.json) |
+| [August 31 at 3:53 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-31T15:53:07.717588-07:00.hyperlinks.json) |
+| [August 31 at 3:54 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-31T03:54:25.921604-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 27 accessibility trees with the Internet Archive.
+The archiving routine has saved 31 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/airlinereporter.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 9:49 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-02T16:49:30.653407-07:00.accessibility.json) |
-| [September 1 at 8:55 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-02T03:55:23.016315-07:00.accessibility.json) |
-| [September 1 at 8:55 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-01T15:55:36.623227-07:00.accessibility.json) |
-| [August 31 at 8:59 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-01T03:59:45.259910-07:00.accessibility.json) |
-| [August 31 at 8:53 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-31T15:53:07.717588-07:00.accessibility.json) |
-| [August 30 at 8:54 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-31T03:54:25.921604-07:00.accessibility.json) |
-| [August 30 at 8:59 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-30T15:59:10.669581-07:00.accessibility.json) |
-| [August 29 at 8:58 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-30T03:58:45.144985-07:00.accessibility.json) |
-| [August 29 at 8:55 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-29T15:55:05.450029-07:00.accessibility.json) |
-| [August 28 at 8:51 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-29T03:51:31.649774-07:00.accessibility.json) |
+| [September 4 at 3:49 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-04T03:49:34.903927-07:00.accessibility.json) |
+| [September 3 at 3:53 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-03T15:53:01.068116-07:00.accessibility.json) |
+| [September 3 at 5:08 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-03T05:08:34.580090-07:00.accessibility.json) |
+| [September 3 at 3:50 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-03T03:50:15.644888-07:00.accessibility.json) |
+| [September 2 at 4:49 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-02T16:49:30.653407-07:00.accessibility.json) |
+| [September 2 at 3:55 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-02T03:55:23.016315-07:00.accessibility.json) |
+| [September 1 at 3:55 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-01T15:55:36.623227-07:00.accessibility.json) |
+| [September 1 at 3:59 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-01T03:59:45.259910-07:00.accessibility.json) |
+| [August 31 at 3:53 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-31T15:53:07.717588-07:00.accessibility.json) |
+| [August 31 at 3:54 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-31T03:54:25.921604-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/airlinereporter.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 9:49 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-02T16:49:30.653407-07:00.lighthouse.json) |
-| [September 1 at 8:55 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-02T03:55:23.016315-07:00.lighthouse.json) |
-| [September 1 at 8:56 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-01T15:55:36.623227-07:00.lighthouse.json) |
-| [August 31 at 8:59 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-01T03:59:45.259910-07:00.lighthouse.json) |
-| [August 31 at 8:53 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-31T15:53:07.717588-07:00.lighthouse.json) |
-| [August 30 at 8:54 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-31T03:54:25.921604-07:00.lighthouse.json) |
-| [August 30 at 8:59 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-30T15:59:10.669581-07:00.lighthouse.json) |
-| [August 29 at 8:58 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-30T03:58:45.144985-07:00.lighthouse.json) |
-| [August 29 at 8:55 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-29T15:55:05.450029-07:00.lighthouse.json) |
-| [August 28 at 8:51 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-29T03:51:31.649774-07:00.lighthouse.json) |
+| [September 4 at 3:49 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-04T03:49:34.903927-07:00.lighthouse.json) |
+| [September 3 at 3:53 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-03T15:53:01.068116-07:00.lighthouse.json) |
+| [September 3 at 5:08 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-03T05:08:34.580090-07:00.lighthouse.json) |
+| [September 3 at 3:50 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-03T03:50:15.644888-07:00.lighthouse.json) |
+| [September 2 at 4:49 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-02T16:49:30.653407-07:00.lighthouse.json) |
+| [September 2 at 3:55 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-02T03:55:23.016315-07:00.lighthouse.json) |
+| [September 1 at 3:56 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-01T15:55:36.623227-07:00.lighthouse.json) |
+| [September 1 at 3:59 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-01T03:59:45.259910-07:00.lighthouse.json) |
+| [August 31 at 3:53 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-31T15:53:07.717588-07:00.lighthouse.json) |
+| [August 31 at 3:54 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-08-31T03:54:25.921604-07:00.lighthouse.json) |
 
 
 

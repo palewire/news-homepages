@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-02T08:00:14.824455-04:00.jpg">
   <img src="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-02T08:00:14.824455-04:00.jpg"
-     alt="FiveThirtyEight at 2022-09-02 01:00:15-04:00 local time"
+     alt="FiveThirtyEight at 2022-09-02 08:00:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-02T08:00:14.824455-04:00.jpg">September 2 at 1:00 AM</a></p>
+ <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-02T08:00:14.824455-04:00.jpg">September 2 at 8:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-01T19:57:29.051510-04:00.jpg">
   <img src="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-01T19:57:29.051510-04:00.jpg"
-     alt="FiveThirtyEight at 2022-09-01 12:57:32-04:00 local time"
+     alt="FiveThirtyEight at 2022-09-01 19:57:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-01T19:57:29.051510-04:00.jpg">September 1 at 12:57 PM</a></p>
+ <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-01T19:57:29.051510-04:00.jpg">September 1 at 7:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-01T08:08:07.622077-04:00.jpg">
   <img src="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-01T08:08:07.622077-04:00.jpg"
-     alt="FiveThirtyEight at 2022-09-01 01:08:09-04:00 local time"
+     alt="FiveThirtyEight at 2022-09-01 08:08:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-01T08:08:07.622077-04:00.jpg">September 1 at 1:08 AM</a></p>
+ <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-01T08:08:07.622077-04:00.jpg">September 1 at 8:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-31T19:49:55.481984-04:00.jpg">
   <img src="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-31T19:49:55.481984-04:00.jpg"
-     alt="FiveThirtyEight at 2022-08-31 12:50:13-04:00 local time"
+     alt="FiveThirtyEight at 2022-08-31 19:50:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-31T19:49:55.481984-04:00.jpg">August 31 at 12:50 PM</a></p>
+ <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-31T19:49:55.481984-04:00.jpg">August 31 at 7:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-31T09:00:06.064297-04:00.jpg">
   <img src="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-31T09:00:06.064297-04:00.jpg"
-     alt="FiveThirtyEight at 2022-08-31 02:00:14-04:00 local time"
+     alt="FiveThirtyEight at 2022-08-31 09:00:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-31T09:00:06.064297-04:00.jpg">August 31 at 2:00 AM</a></p>
+ <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-31T09:00:06.064297-04:00.jpg">August 31 at 9:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-30T19:58:35.500526-04:00.jpg">
   <img src="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-30T19:58:35.500526-04:00.jpg"
-     alt="FiveThirtyEight at 2022-08-30 12:58:40-04:00 local time"
+     alt="FiveThirtyEight at 2022-08-30 19:58:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-30T19:58:35.500526-04:00.jpg">August 30 at 12:58 PM</a></p>
+ <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-30T19:58:35.500526-04:00.jpg">August 30 at 7:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-30T08:05:59.788539-04:00.jpg">
   <img src="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-30T08:05:59.788539-04:00.jpg"
-     alt="FiveThirtyEight at 2022-08-30 01:06:05-04:00 local time"
+     alt="FiveThirtyEight at 2022-08-30 08:06:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-30T08:05:59.788539-04:00.jpg">August 30 at 1:06 AM</a></p>
+ <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-30T08:05:59.788539-04:00.jpg">August 30 at 8:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-29T19:50:02.400082-04:00.jpg">
   <img src="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-29T19:50:02.400082-04:00.jpg"
-     alt="FiveThirtyEight at 2022-08-29 12:50:09-04:00 local time"
+     alt="FiveThirtyEight at 2022-08-29 19:50:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-29T19:50:02.400082-04:00.jpg">August 29 at 12:50 PM</a></p>
+ <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-29T19:50:02.400082-04:00.jpg">August 29 at 7:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-29T07:54:34.098258-04:00.jpg">
   <img src="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-29T07:54:34.098258-04:00.jpg"
-     alt="FiveThirtyEight at 2022-08-29 00:54:42-04:00 local time"
+     alt="FiveThirtyEight at 2022-08-29 07:54:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-29T07:54:34.098258-04:00.jpg">August 29 at 12:54 AM</a></p>
+ <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-29T07:54:34.098258-04:00.jpg">August 29 at 7:54 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-28T19:47:28.136487-04:00.jpg">
   <img src="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-28T19:47:28.136487-04:00.jpg"
-     alt="FiveThirtyEight at 2022-08-28 12:47:32-04:00 local time"
+     alt="FiveThirtyEight at 2022-08-28 19:47:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-28T19:47:28.136487-04:00.jpg">August 28 at 12:47 PM</a></p>
+ <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-28T19:47:28.136487-04:00.jpg">August 28 at 7:47 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-28T07:56:42.417866-04:00.jpg">
   <img src="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-28T07:56:42.417866-04:00.jpg"
-     alt="FiveThirtyEight at 2022-08-28 00:56:44-04:00 local time"
+     alt="FiveThirtyEight at 2022-08-28 07:56:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-28T07:56:42.417866-04:00.jpg">August 28 at 12:56 AM</a></p>
+ <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-28T07:56:42.417866-04:00.jpg">August 28 at 7:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-27T19:48:13.284238-04:00.jpg">
   <img src="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-27T19:48:13.284238-04:00.jpg"
-     alt="FiveThirtyEight at 2022-08-27 12:48:16-04:00 local time"
+     alt="FiveThirtyEight at 2022-08-27 19:48:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-27T19:48:13.284238-04:00.jpg">August 27 at 12:48 PM</a></p>
+ <p><a href="https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-27T19:48:13.284238-04:00.jpg">August 27 at 7:48 PM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 12:57 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-02T19:57:15.125720-04:00.hyperlinks.json) |
-| [September 2 at 1:00 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-02T08:00:14.824455-04:00.hyperlinks.json) |
-| [September 1 at 12:57 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-01T19:57:29.051510-04:00.hyperlinks.json) |
-| [September 1 at 1:08 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-01T08:08:07.622077-04:00.hyperlinks.json) |
-| [August 31 at 12:50 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-31T19:49:55.481984-04:00.hyperlinks.json) |
-| [August 31 at 2:00 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-31T09:00:06.064297-04:00.hyperlinks.json) |
-| [August 30 at 12:58 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-30T19:58:35.500526-04:00.hyperlinks.json) |
-| [August 30 at 1:06 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-30T08:05:59.788539-04:00.hyperlinks.json) |
-| [August 29 at 12:50 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-29T19:50:02.400082-04:00.hyperlinks.json) |
-| [August 29 at 12:54 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-29T07:54:34.098258-04:00.hyperlinks.json) |
+| [September 2 at 7:57 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-02T19:57:15.125720-04:00.hyperlinks.json) |
+| [September 2 at 8:00 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-02T08:00:14.824455-04:00.hyperlinks.json) |
+| [September 1 at 7:57 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-01T19:57:29.051510-04:00.hyperlinks.json) |
+| [September 1 at 8:08 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-01T08:08:07.622077-04:00.hyperlinks.json) |
+| [August 31 at 7:50 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-31T19:49:55.481984-04:00.hyperlinks.json) |
+| [August 31 at 9:00 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-31T09:00:06.064297-04:00.hyperlinks.json) |
+| [August 30 at 7:58 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-30T19:58:35.500526-04:00.hyperlinks.json) |
+| [August 30 at 8:06 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-30T08:05:59.788539-04:00.hyperlinks.json) |
+| [August 29 at 7:50 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-29T19:50:02.400082-04:00.hyperlinks.json) |
+| [August 29 at 7:54 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-29T07:54:34.098258-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 12:57 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-02T19:57:15.125720-04:00.accessibility.json) |
-| [September 2 at 1:00 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-02T08:00:14.824455-04:00.accessibility.json) |
-| [September 1 at 12:57 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-01T19:57:29.051510-04:00.accessibility.json) |
-| [September 1 at 1:08 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-01T08:08:07.622077-04:00.accessibility.json) |
-| [August 31 at 12:50 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-31T19:49:55.481984-04:00.accessibility.json) |
-| [August 31 at 2:00 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-31T09:00:06.064297-04:00.accessibility.json) |
-| [August 30 at 12:58 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-30T19:58:35.500526-04:00.accessibility.json) |
-| [August 30 at 1:06 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-30T08:05:59.788539-04:00.accessibility.json) |
-| [August 29 at 12:50 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-29T19:50:02.400082-04:00.accessibility.json) |
-| [August 29 at 12:54 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-29T07:54:34.098258-04:00.accessibility.json) |
+| [September 2 at 7:57 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-02T19:57:15.125720-04:00.accessibility.json) |
+| [September 2 at 8:00 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-02T08:00:14.824455-04:00.accessibility.json) |
+| [September 1 at 7:57 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-01T19:57:29.051510-04:00.accessibility.json) |
+| [September 1 at 8:08 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-01T08:08:07.622077-04:00.accessibility.json) |
+| [August 31 at 7:50 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-31T19:49:55.481984-04:00.accessibility.json) |
+| [August 31 at 9:00 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-31T09:00:06.064297-04:00.accessibility.json) |
+| [August 30 at 7:58 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-30T19:58:35.500526-04:00.accessibility.json) |
+| [August 30 at 8:06 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-30T08:05:59.788539-04:00.accessibility.json) |
+| [August 29 at 7:50 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-29T19:50:02.400082-04:00.accessibility.json) |
+| [August 29 at 7:54 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-29T07:54:34.098258-04:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 12:57 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-02T19:57:15.125720-04:00.lighthouse.json) |
-| [September 2 at 1:00 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-02T08:00:14.824455-04:00.lighthouse.json) |
-| [September 1 at 12:57 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-01T19:57:29.051510-04:00.lighthouse.json) |
-| [September 1 at 1:08 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-01T08:08:07.622077-04:00.lighthouse.json) |
-| [August 31 at 12:50 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-31T19:49:55.481984-04:00.lighthouse.json) |
-| [August 31 at 2:00 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-31T09:00:06.064297-04:00.lighthouse.json) |
-| [August 30 at 12:58 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-30T19:58:35.500526-04:00.lighthouse.json) |
-| [August 30 at 1:06 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-30T08:05:59.788539-04:00.lighthouse.json) |
-| [August 29 at 12:50 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-29T19:50:02.400082-04:00.lighthouse.json) |
-| [August 29 at 12:54 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-29T07:54:34.098258-04:00.lighthouse.json) |
+| [September 2 at 7:57 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-02T19:57:15.125720-04:00.lighthouse.json) |
+| [September 2 at 8:00 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-02T08:00:14.824455-04:00.lighthouse.json) |
+| [September 1 at 7:57 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-01T19:57:29.051510-04:00.lighthouse.json) |
+| [September 1 at 8:08 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-09-01T08:08:07.622077-04:00.lighthouse.json) |
+| [August 31 at 7:50 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-31T19:49:55.481984-04:00.lighthouse.json) |
+| [August 31 at 9:00 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-31T09:00:06.064297-04:00.lighthouse.json) |
+| [August 30 at 7:58 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-30T19:58:35.500526-04:00.lighthouse.json) |
+| [August 30 at 8:06 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-30T08:05:59.788539-04:00.lighthouse.json) |
+| [August 29 at 7:50 PM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-29T19:50:02.400082-04:00.lighthouse.json) |
+| [August 29 at 7:54 AM](https://archive.org/download/fivethirtyeight-2022/fivethirtyeight-2022-08-29T07:54:34.098258-04:00.lighthouse.json) |
 
 
 

@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/politifact-2022/politifact-2022-09-02T09:03:33.233426-04:00.jpg">
   <img src="https://archive.org/download/politifact-2022/politifact-2022-09-02T09:03:33.233426-04:00.jpg"
-     alt="Politifact  at 2022-09-02 02:03:37-04:00 local time"
+     alt="Politifact  at 2022-09-02 09:03:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/politifact-2022/politifact-2022-09-02T09:03:33.233426-04:00.jpg">September 2 at 2:03 AM</a></p>
+ <p><a href="https://archive.org/download/politifact-2022/politifact-2022-09-02T09:03:33.233426-04:00.jpg">September 2 at 9:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/politifact-2022/politifact-2022-09-01T21:15:25.923285-04:00.jpg">
   <img src="https://archive.org/download/politifact-2022/politifact-2022-09-01T21:15:25.923285-04:00.jpg"
-     alt="Politifact  at 2022-09-01 14:15:30-04:00 local time"
+     alt="Politifact  at 2022-09-01 21:15:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/politifact-2022/politifact-2022-09-01T21:15:25.923285-04:00.jpg">September 1 at 2:15 PM</a></p>
+ <p><a href="https://archive.org/download/politifact-2022/politifact-2022-09-01T21:15:25.923285-04:00.jpg">September 1 at 9:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/politifact-2022/politifact-2022-09-01T09:11:48.855721-04:00.jpg">
   <img src="https://archive.org/download/politifact-2022/politifact-2022-09-01T09:11:48.855721-04:00.jpg"
-     alt="Politifact  at 2022-09-01 02:11:55-04:00 local time"
+     alt="Politifact  at 2022-09-01 09:11:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/politifact-2022/politifact-2022-09-01T09:11:48.855721-04:00.jpg">September 1 at 2:11 AM</a></p>
+ <p><a href="https://archive.org/download/politifact-2022/politifact-2022-09-01T09:11:48.855721-04:00.jpg">September 1 at 9:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/politifact-2022/politifact-2022-08-31T21:13:18.562476-04:00.jpg">
   <img src="https://archive.org/download/politifact-2022/politifact-2022-08-31T21:13:18.562476-04:00.jpg"
-     alt="Politifact  at 2022-08-31 14:13:22-04:00 local time"
+     alt="Politifact  at 2022-08-31 21:13:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/politifact-2022/politifact-2022-08-31T21:13:18.562476-04:00.jpg">August 31 at 2:13 PM</a></p>
+ <p><a href="https://archive.org/download/politifact-2022/politifact-2022-08-31T21:13:18.562476-04:00.jpg">August 31 at 9:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/politifact-2022/politifact-2022-08-31T09:10:59.916115-04:00.jpg">
   <img src="https://archive.org/download/politifact-2022/politifact-2022-08-31T09:10:59.916115-04:00.jpg"
-     alt="Politifact  at 2022-08-31 02:11:06-04:00 local time"
+     alt="Politifact  at 2022-08-31 09:11:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/politifact-2022/politifact-2022-08-31T09:10:59.916115-04:00.jpg">August 31 at 2:11 AM</a></p>
+ <p><a href="https://archive.org/download/politifact-2022/politifact-2022-08-31T09:10:59.916115-04:00.jpg">August 31 at 9:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/politifact-2022/politifact-2022-08-30T21:23:36.211005-04:00.jpg">
   <img src="https://archive.org/download/politifact-2022/politifact-2022-08-30T21:23:36.211005-04:00.jpg"
-     alt="Politifact  at 2022-08-30 14:23:37-04:00 local time"
+     alt="Politifact  at 2022-08-30 21:23:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/politifact-2022/politifact-2022-08-30T21:23:36.211005-04:00.jpg">August 30 at 2:23 PM</a></p>
+ <p><a href="https://archive.org/download/politifact-2022/politifact-2022-08-30T21:23:36.211005-04:00.jpg">August 30 at 9:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/politifact-2022/politifact-2022-08-30T09:09:13.979365-04:00.jpg">
   <img src="https://archive.org/download/politifact-2022/politifact-2022-08-30T09:09:13.979365-04:00.jpg"
-     alt="Politifact  at 2022-08-30 02:09:21-04:00 local time"
+     alt="Politifact  at 2022-08-30 09:09:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/politifact-2022/politifact-2022-08-30T09:09:13.979365-04:00.jpg">August 30 at 2:09 AM</a></p>
+ <p><a href="https://archive.org/download/politifact-2022/politifact-2022-08-30T09:09:13.979365-04:00.jpg">August 30 at 9:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/politifact-2022/politifact-2022-08-29T21:15:15.090263-04:00.jpg">
   <img src="https://archive.org/download/politifact-2022/politifact-2022-08-29T21:15:15.090263-04:00.jpg"
-     alt="Politifact  at 2022-08-29 14:15:16-04:00 local time"
+     alt="Politifact  at 2022-08-29 21:15:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/politifact-2022/politifact-2022-08-29T21:15:15.090263-04:00.jpg">August 29 at 2:15 PM</a></p>
+ <p><a href="https://archive.org/download/politifact-2022/politifact-2022-08-29T21:15:15.090263-04:00.jpg">August 29 at 9:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/politifact-2022/politifact-2022-08-29T08:58:59.257305-04:00.jpg">
   <img src="https://archive.org/download/politifact-2022/politifact-2022-08-29T08:58:59.257305-04:00.jpg"
-     alt="Politifact  at 2022-08-29 01:59:04-04:00 local time"
+     alt="Politifact  at 2022-08-29 08:59:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/politifact-2022/politifact-2022-08-29T08:58:59.257305-04:00.jpg">August 29 at 1:59 AM</a></p>
+ <p><a href="https://archive.org/download/politifact-2022/politifact-2022-08-29T08:58:59.257305-04:00.jpg">August 29 at 8:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/politifact-2022/politifact-2022-08-28T21:15:08.548914-04:00.jpg">
   <img src="https://archive.org/download/politifact-2022/politifact-2022-08-28T21:15:08.548914-04:00.jpg"
-     alt="Politifact  at 2022-08-28 14:15:09-04:00 local time"
+     alt="Politifact  at 2022-08-28 21:15:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/politifact-2022/politifact-2022-08-28T21:15:08.548914-04:00.jpg">August 28 at 2:15 PM</a></p>
+ <p><a href="https://archive.org/download/politifact-2022/politifact-2022-08-28T21:15:08.548914-04:00.jpg">August 28 at 9:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/politifact-2022/politifact-2022-08-28T08:59:30.703423-04:00.jpg">
   <img src="https://archive.org/download/politifact-2022/politifact-2022-08-28T08:59:30.703423-04:00.jpg"
-     alt="Politifact  at 2022-08-28 01:59:37-04:00 local time"
+     alt="Politifact  at 2022-08-28 08:59:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/politifact-2022/politifact-2022-08-28T08:59:30.703423-04:00.jpg">August 28 at 1:59 AM</a></p>
+ <p><a href="https://archive.org/download/politifact-2022/politifact-2022-08-28T08:59:30.703423-04:00.jpg">August 28 at 8:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/politifact-2022/politifact-2022-08-27T21:27:32.564630-04:00.jpg">
   <img src="https://archive.org/download/politifact-2022/politifact-2022-08-27T21:27:32.564630-04:00.jpg"
-     alt="Politifact  at 2022-08-27 14:27:34-04:00 local time"
+     alt="Politifact  at 2022-08-27 21:27:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/politifact-2022/politifact-2022-08-27T21:27:32.564630-04:00.jpg">August 27 at 2:27 PM</a></p>
+ <p><a href="https://archive.org/download/politifact-2022/politifact-2022-08-27T21:27:32.564630-04:00.jpg">August 27 at 9:27 PM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 2:03 AM](https://archive.org/download/politifact-2022/politifact-2022-09-02T09:03:33.233426-04:00.hyperlinks.json) |
-| [September 1 at 2:15 PM](https://archive.org/download/politifact-2022/politifact-2022-09-01T21:15:25.923285-04:00.hyperlinks.json) |
-| [September 1 at 2:12 AM](https://archive.org/download/politifact-2022/politifact-2022-09-01T09:11:48.855721-04:00.hyperlinks.json) |
-| [August 31 at 2:13 PM](https://archive.org/download/politifact-2022/politifact-2022-08-31T21:13:18.562476-04:00.hyperlinks.json) |
-| [August 31 at 2:11 AM](https://archive.org/download/politifact-2022/politifact-2022-08-31T09:10:59.916115-04:00.hyperlinks.json) |
-| [August 30 at 2:23 PM](https://archive.org/download/politifact-2022/politifact-2022-08-30T21:23:36.211005-04:00.hyperlinks.json) |
-| [August 30 at 2:09 AM](https://archive.org/download/politifact-2022/politifact-2022-08-30T09:09:13.979365-04:00.hyperlinks.json) |
-| [August 29 at 2:15 PM](https://archive.org/download/politifact-2022/politifact-2022-08-29T21:15:15.090263-04:00.hyperlinks.json) |
-| [August 29 at 1:59 AM](https://archive.org/download/politifact-2022/politifact-2022-08-29T08:58:59.257305-04:00.hyperlinks.json) |
-| [August 28 at 2:15 PM](https://archive.org/download/politifact-2022/politifact-2022-08-28T21:15:08.548914-04:00.hyperlinks.json) |
+| [September 2 at 9:03 AM](https://archive.org/download/politifact-2022/politifact-2022-09-02T09:03:33.233426-04:00.hyperlinks.json) |
+| [September 1 at 9:15 PM](https://archive.org/download/politifact-2022/politifact-2022-09-01T21:15:25.923285-04:00.hyperlinks.json) |
+| [September 1 at 9:12 AM](https://archive.org/download/politifact-2022/politifact-2022-09-01T09:11:48.855721-04:00.hyperlinks.json) |
+| [August 31 at 9:13 PM](https://archive.org/download/politifact-2022/politifact-2022-08-31T21:13:18.562476-04:00.hyperlinks.json) |
+| [August 31 at 9:11 AM](https://archive.org/download/politifact-2022/politifact-2022-08-31T09:10:59.916115-04:00.hyperlinks.json) |
+| [August 30 at 9:23 PM](https://archive.org/download/politifact-2022/politifact-2022-08-30T21:23:36.211005-04:00.hyperlinks.json) |
+| [August 30 at 9:09 AM](https://archive.org/download/politifact-2022/politifact-2022-08-30T09:09:13.979365-04:00.hyperlinks.json) |
+| [August 29 at 9:15 PM](https://archive.org/download/politifact-2022/politifact-2022-08-29T21:15:15.090263-04:00.hyperlinks.json) |
+| [August 29 at 8:59 AM](https://archive.org/download/politifact-2022/politifact-2022-08-29T08:58:59.257305-04:00.hyperlinks.json) |
+| [August 28 at 9:15 PM](https://archive.org/download/politifact-2022/politifact-2022-08-28T21:15:08.548914-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 2:03 AM](https://archive.org/download/politifact-2022/politifact-2022-09-02T09:03:33.233426-04:00.accessibility.json) |
-| [September 1 at 2:15 PM](https://archive.org/download/politifact-2022/politifact-2022-09-01T21:15:25.923285-04:00.accessibility.json) |
-| [September 1 at 2:11 AM](https://archive.org/download/politifact-2022/politifact-2022-09-01T09:11:48.855721-04:00.accessibility.json) |
-| [August 31 at 2:13 PM](https://archive.org/download/politifact-2022/politifact-2022-08-31T21:13:18.562476-04:00.accessibility.json) |
-| [August 31 at 2:11 AM](https://archive.org/download/politifact-2022/politifact-2022-08-31T09:10:59.916115-04:00.accessibility.json) |
-| [August 30 at 2:23 PM](https://archive.org/download/politifact-2022/politifact-2022-08-30T21:23:36.211005-04:00.accessibility.json) |
-| [August 30 at 2:09 AM](https://archive.org/download/politifact-2022/politifact-2022-08-30T09:09:13.979365-04:00.accessibility.json) |
-| [August 29 at 2:15 PM](https://archive.org/download/politifact-2022/politifact-2022-08-29T21:15:15.090263-04:00.accessibility.json) |
-| [August 29 at 1:59 AM](https://archive.org/download/politifact-2022/politifact-2022-08-29T08:58:59.257305-04:00.accessibility.json) |
-| [August 28 at 2:15 PM](https://archive.org/download/politifact-2022/politifact-2022-08-28T21:15:08.548914-04:00.accessibility.json) |
+| [September 2 at 9:03 AM](https://archive.org/download/politifact-2022/politifact-2022-09-02T09:03:33.233426-04:00.accessibility.json) |
+| [September 1 at 9:15 PM](https://archive.org/download/politifact-2022/politifact-2022-09-01T21:15:25.923285-04:00.accessibility.json) |
+| [September 1 at 9:11 AM](https://archive.org/download/politifact-2022/politifact-2022-09-01T09:11:48.855721-04:00.accessibility.json) |
+| [August 31 at 9:13 PM](https://archive.org/download/politifact-2022/politifact-2022-08-31T21:13:18.562476-04:00.accessibility.json) |
+| [August 31 at 9:11 AM](https://archive.org/download/politifact-2022/politifact-2022-08-31T09:10:59.916115-04:00.accessibility.json) |
+| [August 30 at 9:23 PM](https://archive.org/download/politifact-2022/politifact-2022-08-30T21:23:36.211005-04:00.accessibility.json) |
+| [August 30 at 9:09 AM](https://archive.org/download/politifact-2022/politifact-2022-08-30T09:09:13.979365-04:00.accessibility.json) |
+| [August 29 at 9:15 PM](https://archive.org/download/politifact-2022/politifact-2022-08-29T21:15:15.090263-04:00.accessibility.json) |
+| [August 29 at 8:59 AM](https://archive.org/download/politifact-2022/politifact-2022-08-29T08:58:59.257305-04:00.accessibility.json) |
+| [August 28 at 9:15 PM](https://archive.org/download/politifact-2022/politifact-2022-08-28T21:15:08.548914-04:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 2:03 AM](https://archive.org/download/politifact-2022/politifact-2022-09-02T09:03:33.233426-04:00.lighthouse.json) |
-| [September 1 at 2:15 PM](https://archive.org/download/politifact-2022/politifact-2022-09-01T21:15:25.923285-04:00.lighthouse.json) |
-| [September 1 at 2:12 AM](https://archive.org/download/politifact-2022/politifact-2022-09-01T09:11:48.855721-04:00.lighthouse.json) |
-| [August 31 at 2:13 PM](https://archive.org/download/politifact-2022/politifact-2022-08-31T21:13:18.562476-04:00.lighthouse.json) |
-| [August 31 at 2:11 AM](https://archive.org/download/politifact-2022/politifact-2022-08-31T09:10:59.916115-04:00.lighthouse.json) |
-| [August 30 at 2:23 PM](https://archive.org/download/politifact-2022/politifact-2022-08-30T21:23:36.211005-04:00.lighthouse.json) |
-| [August 30 at 2:09 AM](https://archive.org/download/politifact-2022/politifact-2022-08-30T09:09:13.979365-04:00.lighthouse.json) |
-| [August 29 at 2:15 PM](https://archive.org/download/politifact-2022/politifact-2022-08-29T21:15:15.090263-04:00.lighthouse.json) |
-| [August 29 at 1:59 AM](https://archive.org/download/politifact-2022/politifact-2022-08-29T08:58:59.257305-04:00.lighthouse.json) |
-| [August 28 at 2:15 PM](https://archive.org/download/politifact-2022/politifact-2022-08-28T21:15:08.548914-04:00.lighthouse.json) |
+| [September 2 at 9:03 AM](https://archive.org/download/politifact-2022/politifact-2022-09-02T09:03:33.233426-04:00.lighthouse.json) |
+| [September 1 at 9:15 PM](https://archive.org/download/politifact-2022/politifact-2022-09-01T21:15:25.923285-04:00.lighthouse.json) |
+| [September 1 at 9:12 AM](https://archive.org/download/politifact-2022/politifact-2022-09-01T09:11:48.855721-04:00.lighthouse.json) |
+| [August 31 at 9:13 PM](https://archive.org/download/politifact-2022/politifact-2022-08-31T21:13:18.562476-04:00.lighthouse.json) |
+| [August 31 at 9:11 AM](https://archive.org/download/politifact-2022/politifact-2022-08-31T09:10:59.916115-04:00.lighthouse.json) |
+| [August 30 at 9:23 PM](https://archive.org/download/politifact-2022/politifact-2022-08-30T21:23:36.211005-04:00.lighthouse.json) |
+| [August 30 at 9:09 AM](https://archive.org/download/politifact-2022/politifact-2022-08-30T09:09:13.979365-04:00.lighthouse.json) |
+| [August 29 at 9:15 PM](https://archive.org/download/politifact-2022/politifact-2022-08-29T21:15:15.090263-04:00.lighthouse.json) |
+| [August 29 at 8:59 AM](https://archive.org/download/politifact-2022/politifact-2022-08-29T08:58:59.257305-04:00.lighthouse.json) |
+| [August 28 at 9:15 PM](https://archive.org/download/politifact-2022/politifact-2022-08-28T21:15:08.548914-04:00.lighthouse.json) |
 
 
 

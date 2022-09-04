@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-02T18:57:05.816283-05:00.jpg">
   <img src="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-02T18:57:05.816283-05:00.jpg"
-     alt="Fort Worth Report at 2022-09-02 11:57:09-05:00 local time"
+     alt="Fort Worth Report at 2022-09-02 18:57:09-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-02T18:57:05.816283-05:00.jpg">September 2 at 11:57 AM</a></p>
+ <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-02T18:57:05.816283-05:00.jpg">September 2 at 6:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-02T06:59:38.329050-05:00.jpg">
   <img src="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-02T06:59:38.329050-05:00.jpg"
-     alt="Fort Worth Report at 2022-09-01 23:59:41-05:00 local time"
+     alt="Fort Worth Report at 2022-09-02 06:59:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-02T06:59:38.329050-05:00.jpg">September 1 at 11:59 PM</a></p>
+ <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-02T06:59:38.329050-05:00.jpg">September 2 at 6:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-01T18:57:22.593186-05:00.jpg">
   <img src="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-01T18:57:22.593186-05:00.jpg"
-     alt="Fort Worth Report at 2022-09-01 11:57:24-05:00 local time"
+     alt="Fort Worth Report at 2022-09-01 18:57:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-01T18:57:22.593186-05:00.jpg">September 1 at 11:57 AM</a></p>
+ <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-01T18:57:22.593186-05:00.jpg">September 1 at 6:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-01T07:08:38.107130-05:00.jpg">
   <img src="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-01T07:08:38.107130-05:00.jpg"
-     alt="Fort Worth Report at 2022-09-01 00:08:46-05:00 local time"
+     alt="Fort Worth Report at 2022-09-01 07:08:46-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-01T07:08:38.107130-05:00.jpg">September 1 at 12:08 AM</a></p>
+ <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-01T07:08:38.107130-05:00.jpg">September 1 at 7:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-31T18:49:33.281419-05:00.jpg">
   <img src="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-31T18:49:33.281419-05:00.jpg"
-     alt="Fort Worth Report at 2022-08-31 11:49:42-05:00 local time"
+     alt="Fort Worth Report at 2022-08-31 18:49:42-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-31T18:49:33.281419-05:00.jpg">August 31 at 11:49 AM</a></p>
+ <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-31T18:49:33.281419-05:00.jpg">August 31 at 6:49 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-31T08:01:20.916265-05:00.jpg">
   <img src="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-31T08:01:20.916265-05:00.jpg"
-     alt="Fort Worth Report at 2022-08-31 01:01:27-05:00 local time"
+     alt="Fort Worth Report at 2022-08-31 08:01:27-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-31T08:01:20.916265-05:00.jpg">August 31 at 1:01 AM</a></p>
+ <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-31T08:01:20.916265-05:00.jpg">August 31 at 8:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-30T18:59:24.375774-05:00.jpg">
   <img src="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-30T18:59:24.375774-05:00.jpg"
-     alt="Fort Worth Report at 2022-08-30 11:59:25-05:00 local time"
+     alt="Fort Worth Report at 2022-08-30 18:59:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-30T18:59:24.375774-05:00.jpg">August 30 at 11:59 AM</a></p>
+ <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-30T18:59:24.375774-05:00.jpg">August 30 at 6:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-30T07:06:24.751745-05:00.jpg">
   <img src="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-30T07:06:24.751745-05:00.jpg"
-     alt="Fort Worth Report at 2022-08-30 00:06:30-05:00 local time"
+     alt="Fort Worth Report at 2022-08-30 07:06:30-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-30T07:06:24.751745-05:00.jpg">August 30 at 12:06 AM</a></p>
+ <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-30T07:06:24.751745-05:00.jpg">August 30 at 7:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-29T18:50:13.954253-05:00.jpg">
   <img src="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-29T18:50:13.954253-05:00.jpg"
-     alt="Fort Worth Report at 2022-08-29 11:50:15-05:00 local time"
+     alt="Fort Worth Report at 2022-08-29 18:50:15-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-29T18:50:13.954253-05:00.jpg">August 29 at 11:50 AM</a></p>
+ <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-29T18:50:13.954253-05:00.jpg">August 29 at 6:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-29T06:54:54.112665-05:00.jpg">
   <img src="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-29T06:54:54.112665-05:00.jpg"
-     alt="Fort Worth Report at 2022-08-28 23:54:56-05:00 local time"
+     alt="Fort Worth Report at 2022-08-29 06:54:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-29T06:54:54.112665-05:00.jpg">August 28 at 11:54 PM</a></p>
+ <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-29T06:54:54.112665-05:00.jpg">August 29 at 6:54 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-28T18:46:40.675983-05:00.jpg">
   <img src="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-28T18:46:40.675983-05:00.jpg"
-     alt="Fort Worth Report at 2022-08-28 11:46:45-05:00 local time"
+     alt="Fort Worth Report at 2022-08-28 18:46:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-28T18:46:40.675983-05:00.jpg">August 28 at 11:46 AM</a></p>
+ <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-28T18:46:40.675983-05:00.jpg">August 28 at 6:46 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-28T06:57:35.248794-05:00.jpg">
   <img src="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-28T06:57:35.248794-05:00.jpg"
-     alt="Fort Worth Report at 2022-08-27 23:57:38-05:00 local time"
+     alt="Fort Worth Report at 2022-08-28 06:57:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-28T06:57:35.248794-05:00.jpg">August 27 at 11:57 PM</a></p>
+ <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-28T06:57:35.248794-05:00.jpg">August 28 at 6:57 AM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 11:57 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-02T18:57:05.816283-05:00.hyperlinks.json) |
-| [September 1 at 11:59 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-02T06:59:38.329050-05:00.hyperlinks.json) |
-| [September 1 at 11:57 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-01T18:57:22.593186-05:00.hyperlinks.json) |
-| [September 1 at 12:08 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-01T07:08:38.107130-05:00.hyperlinks.json) |
-| [August 31 at 11:49 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-31T18:49:33.281419-05:00.hyperlinks.json) |
-| [August 31 at 1:01 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-31T08:01:20.916265-05:00.hyperlinks.json) |
-| [August 30 at 11:59 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-30T18:59:24.375774-05:00.hyperlinks.json) |
-| [August 30 at 12:06 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-30T07:06:24.751745-05:00.hyperlinks.json) |
-| [August 29 at 11:50 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-29T18:50:13.954253-05:00.hyperlinks.json) |
-| [August 28 at 11:55 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-29T06:54:54.112665-05:00.hyperlinks.json) |
+| [September 2 at 6:57 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-02T18:57:05.816283-05:00.hyperlinks.json) |
+| [September 2 at 6:59 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-02T06:59:38.329050-05:00.hyperlinks.json) |
+| [September 1 at 6:57 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-01T18:57:22.593186-05:00.hyperlinks.json) |
+| [September 1 at 7:08 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-01T07:08:38.107130-05:00.hyperlinks.json) |
+| [August 31 at 6:49 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-31T18:49:33.281419-05:00.hyperlinks.json) |
+| [August 31 at 8:01 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-31T08:01:20.916265-05:00.hyperlinks.json) |
+| [August 30 at 6:59 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-30T18:59:24.375774-05:00.hyperlinks.json) |
+| [August 30 at 7:06 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-30T07:06:24.751745-05:00.hyperlinks.json) |
+| [August 29 at 6:50 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-29T18:50:13.954253-05:00.hyperlinks.json) |
+| [August 29 at 6:55 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-29T06:54:54.112665-05:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 11:57 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-02T18:57:05.816283-05:00.accessibility.json) |
-| [September 1 at 11:59 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-02T06:59:38.329050-05:00.accessibility.json) |
-| [September 1 at 11:57 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-01T18:57:22.593186-05:00.accessibility.json) |
-| [September 1 at 12:08 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-01T07:08:38.107130-05:00.accessibility.json) |
-| [August 31 at 11:49 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-31T18:49:33.281419-05:00.accessibility.json) |
-| [August 31 at 1:01 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-31T08:01:20.916265-05:00.accessibility.json) |
-| [August 30 at 11:59 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-30T18:59:24.375774-05:00.accessibility.json) |
-| [August 30 at 12:06 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-30T07:06:24.751745-05:00.accessibility.json) |
-| [August 29 at 11:50 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-29T18:50:13.954253-05:00.accessibility.json) |
-| [August 28 at 11:54 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-29T06:54:54.112665-05:00.accessibility.json) |
+| [September 2 at 6:57 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-02T18:57:05.816283-05:00.accessibility.json) |
+| [September 2 at 6:59 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-02T06:59:38.329050-05:00.accessibility.json) |
+| [September 1 at 6:57 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-01T18:57:22.593186-05:00.accessibility.json) |
+| [September 1 at 7:08 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-01T07:08:38.107130-05:00.accessibility.json) |
+| [August 31 at 6:49 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-31T18:49:33.281419-05:00.accessibility.json) |
+| [August 31 at 8:01 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-31T08:01:20.916265-05:00.accessibility.json) |
+| [August 30 at 6:59 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-30T18:59:24.375774-05:00.accessibility.json) |
+| [August 30 at 7:06 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-30T07:06:24.751745-05:00.accessibility.json) |
+| [August 29 at 6:50 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-29T18:50:13.954253-05:00.accessibility.json) |
+| [August 29 at 6:54 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-29T06:54:54.112665-05:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 11:57 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-02T18:57:05.816283-05:00.lighthouse.json) |
-| [September 1 at 11:59 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-02T06:59:38.329050-05:00.lighthouse.json) |
-| [September 1 at 11:57 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-01T18:57:22.593186-05:00.lighthouse.json) |
-| [September 1 at 12:08 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-01T07:08:38.107130-05:00.lighthouse.json) |
-| [August 31 at 11:49 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-31T18:49:33.281419-05:00.lighthouse.json) |
-| [August 31 at 1:01 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-31T08:01:20.916265-05:00.lighthouse.json) |
-| [August 30 at 11:59 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-30T18:59:24.375774-05:00.lighthouse.json) |
-| [August 30 at 12:06 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-30T07:06:24.751745-05:00.lighthouse.json) |
-| [August 29 at 11:50 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-29T18:50:13.954253-05:00.lighthouse.json) |
-| [August 28 at 11:55 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-29T06:54:54.112665-05:00.lighthouse.json) |
+| [September 2 at 6:57 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-02T18:57:05.816283-05:00.lighthouse.json) |
+| [September 2 at 6:59 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-02T06:59:38.329050-05:00.lighthouse.json) |
+| [September 1 at 6:57 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-01T18:57:22.593186-05:00.lighthouse.json) |
+| [September 1 at 7:08 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-09-01T07:08:38.107130-05:00.lighthouse.json) |
+| [August 31 at 6:49 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-31T18:49:33.281419-05:00.lighthouse.json) |
+| [August 31 at 8:01 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-31T08:01:20.916265-05:00.lighthouse.json) |
+| [August 30 at 6:59 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-30T18:59:24.375774-05:00.lighthouse.json) |
+| [August 30 at 7:06 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-30T07:06:24.751745-05:00.lighthouse.json) |
+| [August 29 at 6:50 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-29T18:50:13.954253-05:00.lighthouse.json) |
+| [August 29 at 6:55 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-29T06:54:54.112665-05:00.lighthouse.json) |
 
 
 

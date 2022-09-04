@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-02T06:01:59.123540-07:00.jpg">
   <img src="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-02T06:01:59.123540-07:00.jpg"
-     alt="Oregon Capital Chronicle at 2022-09-01 23:02:05-07:00 local time"
+     alt="Oregon Capital Chronicle at 2022-09-02 06:02:05-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-02T06:01:59.123540-07:00.jpg">September 1 at 11:02 PM</a></p>
+ <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-02T06:01:59.123540-07:00.jpg">September 2 at 6:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-01T18:15:54.409084-07:00.jpg">
   <img src="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-01T18:15:54.409084-07:00.jpg"
-     alt="Oregon Capital Chronicle at 2022-09-01 11:15:56-07:00 local time"
+     alt="Oregon Capital Chronicle at 2022-09-01 18:15:56-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-01T18:15:54.409084-07:00.jpg">September 1 at 11:15 AM</a></p>
+ <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-01T18:15:54.409084-07:00.jpg">September 1 at 6:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-01T06:11:48.415177-07:00.jpg">
   <img src="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-01T06:11:48.415177-07:00.jpg"
-     alt="Oregon Capital Chronicle at 2022-08-31 23:12:08-07:00 local time"
+     alt="Oregon Capital Chronicle at 2022-09-01 06:12:08-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-01T06:11:48.415177-07:00.jpg">August 31 at 11:12 PM</a></p>
+ <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-01T06:11:48.415177-07:00.jpg">September 1 at 6:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-31T18:13:10.332923-07:00.jpg">
   <img src="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-31T18:13:10.332923-07:00.jpg"
-     alt="Oregon Capital Chronicle at 2022-08-31 11:13:12-07:00 local time"
+     alt="Oregon Capital Chronicle at 2022-08-31 18:13:12-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-31T18:13:10.332923-07:00.jpg">August 31 at 11:13 AM</a></p>
+ <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-31T18:13:10.332923-07:00.jpg">August 31 at 6:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-31T06:10:56.237810-07:00.jpg">
   <img src="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-31T06:10:56.237810-07:00.jpg"
-     alt="Oregon Capital Chronicle at 2022-08-30 23:10:59-07:00 local time"
+     alt="Oregon Capital Chronicle at 2022-08-31 06:10:59-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-31T06:10:56.237810-07:00.jpg">August 30 at 11:10 PM</a></p>
+ <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-31T06:10:56.237810-07:00.jpg">August 31 at 6:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-30T18:24:26.432985-07:00.jpg">
   <img src="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-30T18:24:26.432985-07:00.jpg"
-     alt="Oregon Capital Chronicle at 2022-08-30 11:24:29-07:00 local time"
+     alt="Oregon Capital Chronicle at 2022-08-30 18:24:29-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-30T18:24:26.432985-07:00.jpg">August 30 at 11:24 AM</a></p>
+ <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-30T18:24:26.432985-07:00.jpg">August 30 at 6:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-30T06:09:28.945227-07:00.jpg">
   <img src="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-30T06:09:28.945227-07:00.jpg"
-     alt="Oregon Capital Chronicle at 2022-08-29 23:09:33-07:00 local time"
+     alt="Oregon Capital Chronicle at 2022-08-30 06:09:33-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-30T06:09:28.945227-07:00.jpg">August 29 at 11:09 PM</a></p>
+ <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-30T06:09:28.945227-07:00.jpg">August 30 at 6:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-29T18:16:43.894980-07:00.jpg">
   <img src="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-29T18:16:43.894980-07:00.jpg"
-     alt="Oregon Capital Chronicle at 2022-08-29 11:16:45-07:00 local time"
+     alt="Oregon Capital Chronicle at 2022-08-29 18:16:45-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-29T18:16:43.894980-07:00.jpg">August 29 at 11:16 AM</a></p>
+ <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-29T18:16:43.894980-07:00.jpg">August 29 at 6:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-29T05:59:06.919408-07:00.jpg">
   <img src="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-29T05:59:06.919408-07:00.jpg"
-     alt="Oregon Capital Chronicle at 2022-08-28 22:59:10-07:00 local time"
+     alt="Oregon Capital Chronicle at 2022-08-29 05:59:10-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-29T05:59:06.919408-07:00.jpg">August 28 at 10:59 PM</a></p>
+ <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-29T05:59:06.919408-07:00.jpg">August 29 at 5:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-28T18:14:43.640604-07:00.jpg">
   <img src="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-28T18:14:43.640604-07:00.jpg"
-     alt="Oregon Capital Chronicle at 2022-08-28 11:14:45-07:00 local time"
+     alt="Oregon Capital Chronicle at 2022-08-28 18:14:45-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-28T18:14:43.640604-07:00.jpg">August 28 at 11:14 AM</a></p>
+ <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-28T18:14:43.640604-07:00.jpg">August 28 at 6:14 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-28T05:59:37.192207-07:00.jpg">
   <img src="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-28T05:59:37.192207-07:00.jpg"
-     alt="Oregon Capital Chronicle at 2022-08-27 22:59:38-07:00 local time"
+     alt="Oregon Capital Chronicle at 2022-08-28 05:59:38-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-28T05:59:37.192207-07:00.jpg">August 27 at 10:59 PM</a></p>
+ <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-28T05:59:37.192207-07:00.jpg">August 28 at 5:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-27T18:27:34.752644-07:00.jpg">
   <img src="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-27T18:27:34.752644-07:00.jpg"
-     alt="Oregon Capital Chronicle at 2022-08-27 11:27:36-07:00 local time"
+     alt="Oregon Capital Chronicle at 2022-08-27 18:27:36-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-27T18:27:34.752644-07:00.jpg">August 27 at 11:27 AM</a></p>
+ <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-27T18:27:34.752644-07:00.jpg">August 27 at 6:27 PM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 1 at 11:02 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-02T06:01:59.123540-07:00.hyperlinks.json) |
-| [September 1 at 11:15 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-01T18:15:54.409084-07:00.hyperlinks.json) |
-| [August 31 at 11:12 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-01T06:11:48.415177-07:00.hyperlinks.json) |
-| [August 31 at 11:13 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-31T18:13:10.332923-07:00.hyperlinks.json) |
-| [August 30 at 11:11 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-31T06:10:56.237810-07:00.hyperlinks.json) |
-| [August 30 at 11:24 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-30T18:24:26.432985-07:00.hyperlinks.json) |
-| [August 29 at 11:09 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-30T06:09:28.945227-07:00.hyperlinks.json) |
-| [August 29 at 11:16 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-29T18:16:43.894980-07:00.hyperlinks.json) |
-| [August 28 at 10:59 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-29T05:59:06.919408-07:00.hyperlinks.json) |
-| [August 28 at 11:14 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-28T18:14:43.640604-07:00.hyperlinks.json) |
+| [September 2 at 6:02 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-02T06:01:59.123540-07:00.hyperlinks.json) |
+| [September 1 at 6:15 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-01T18:15:54.409084-07:00.hyperlinks.json) |
+| [September 1 at 6:12 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-01T06:11:48.415177-07:00.hyperlinks.json) |
+| [August 31 at 6:13 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-31T18:13:10.332923-07:00.hyperlinks.json) |
+| [August 31 at 6:11 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-31T06:10:56.237810-07:00.hyperlinks.json) |
+| [August 30 at 6:24 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-30T18:24:26.432985-07:00.hyperlinks.json) |
+| [August 30 at 6:09 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-30T06:09:28.945227-07:00.hyperlinks.json) |
+| [August 29 at 6:16 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-29T18:16:43.894980-07:00.hyperlinks.json) |
+| [August 29 at 5:59 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-29T05:59:06.919408-07:00.hyperlinks.json) |
+| [August 28 at 6:14 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-28T18:14:43.640604-07:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 1 at 11:02 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-02T06:01:59.123540-07:00.accessibility.json) |
-| [September 1 at 11:15 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-01T18:15:54.409084-07:00.accessibility.json) |
-| [August 31 at 11:12 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-01T06:11:48.415177-07:00.accessibility.json) |
-| [August 31 at 11:13 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-31T18:13:10.332923-07:00.accessibility.json) |
-| [August 30 at 11:11 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-31T06:10:56.237810-07:00.accessibility.json) |
-| [August 30 at 11:24 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-30T18:24:26.432985-07:00.accessibility.json) |
-| [August 29 at 11:09 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-30T06:09:28.945227-07:00.accessibility.json) |
-| [August 29 at 11:16 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-29T18:16:43.894980-07:00.accessibility.json) |
-| [August 28 at 10:59 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-29T05:59:06.919408-07:00.accessibility.json) |
-| [August 28 at 11:14 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-28T18:14:43.640604-07:00.accessibility.json) |
+| [September 2 at 6:02 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-02T06:01:59.123540-07:00.accessibility.json) |
+| [September 1 at 6:15 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-01T18:15:54.409084-07:00.accessibility.json) |
+| [September 1 at 6:12 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-01T06:11:48.415177-07:00.accessibility.json) |
+| [August 31 at 6:13 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-31T18:13:10.332923-07:00.accessibility.json) |
+| [August 31 at 6:11 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-31T06:10:56.237810-07:00.accessibility.json) |
+| [August 30 at 6:24 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-30T18:24:26.432985-07:00.accessibility.json) |
+| [August 30 at 6:09 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-30T06:09:28.945227-07:00.accessibility.json) |
+| [August 29 at 6:16 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-29T18:16:43.894980-07:00.accessibility.json) |
+| [August 29 at 5:59 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-29T05:59:06.919408-07:00.accessibility.json) |
+| [August 28 at 6:14 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-28T18:14:43.640604-07:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 1 at 11:02 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-02T06:01:59.123540-07:00.lighthouse.json) |
-| [September 1 at 11:16 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-01T18:15:54.409084-07:00.lighthouse.json) |
-| [August 31 at 11:12 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-01T06:11:48.415177-07:00.lighthouse.json) |
-| [August 31 at 11:13 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-31T18:13:10.332923-07:00.lighthouse.json) |
-| [August 30 at 11:11 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-31T06:10:56.237810-07:00.lighthouse.json) |
-| [August 30 at 11:24 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-30T18:24:26.432985-07:00.lighthouse.json) |
-| [August 29 at 11:09 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-30T06:09:28.945227-07:00.lighthouse.json) |
-| [August 29 at 11:16 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-29T18:16:43.894980-07:00.lighthouse.json) |
-| [August 28 at 10:59 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-29T05:59:06.919408-07:00.lighthouse.json) |
-| [August 28 at 11:14 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-28T18:14:43.640604-07:00.lighthouse.json) |
+| [September 2 at 6:02 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-02T06:01:59.123540-07:00.lighthouse.json) |
+| [September 1 at 6:16 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-01T18:15:54.409084-07:00.lighthouse.json) |
+| [September 1 at 6:12 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-09-01T06:11:48.415177-07:00.lighthouse.json) |
+| [August 31 at 6:13 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-31T18:13:10.332923-07:00.lighthouse.json) |
+| [August 31 at 6:11 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-31T06:10:56.237810-07:00.lighthouse.json) |
+| [August 30 at 6:24 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-30T18:24:26.432985-07:00.lighthouse.json) |
+| [August 30 at 6:09 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-30T06:09:28.945227-07:00.lighthouse.json) |
+| [August 29 at 6:16 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-29T18:16:43.894980-07:00.lighthouse.json) |
+| [August 29 at 5:59 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-29T05:59:06.919408-07:00.lighthouse.json) |
+| [August 28 at 6:14 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-08-28T18:14:43.640604-07:00.lighthouse.json) |
 
 
 

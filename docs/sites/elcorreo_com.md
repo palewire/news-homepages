@@ -245,46 +245,46 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-30T17:37:35.599128+02:00.jpg">
   <img src="https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-30T17:37:35.599128+02:00.jpg"
-     alt="El Correo at 2022-07-30 10:37:37+02:00 local time"
+     alt="El Correo at 2022-07-30 17:37:37+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-30T17:37:35.599128+02:00.jpg">July 30 at 10:37 AM</a></p>
+ <p><a href="https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-30T17:37:35.599128+02:00.jpg">July 30 at 5:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-30T04:37:07.599254+02:00.jpg">
   <img src="https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-30T04:37:07.599254+02:00.jpg"
-     alt="El Correo at 2022-07-29 21:37:09+02:00 local time"
+     alt="El Correo at 2022-07-30 04:37:09+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-30T04:37:07.599254+02:00.jpg">July 29 at 9:37 PM</a></p>
+ <p><a href="https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-30T04:37:07.599254+02:00.jpg">July 30 at 4:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-29T16:36:56.905055+02:00.jpg">
   <img src="https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-29T16:36:56.905055+02:00.jpg"
-     alt="El Correo at 2022-07-29 09:36:58+02:00 local time"
+     alt="El Correo at 2022-07-29 16:36:58+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-29T16:36:56.905055+02:00.jpg">July 29 at 9:36 AM</a></p>
+ <p><a href="https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-29T16:36:56.905055+02:00.jpg">July 29 at 4:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-29T04:34:08.746946+02:00.jpg">
   <img src="https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-29T04:34:08.746946+02:00.jpg"
-     alt="El Correo at 2022-07-28 21:34:10+02:00 local time"
+     alt="El Correo at 2022-07-29 04:34:10+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-29T04:34:08.746946+02:00.jpg">July 28 at 9:34 PM</a></p>
+ <p><a href="https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-29T04:34:08.746946+02:00.jpg">July 29 at 4:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-28T20:53:22.455597+02:00.jpg">
   <img src="https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-28T20:53:22.455597+02:00.jpg"
-     alt="El Correo at 2022-07-28 13:53:28+02:00 local time"
+     alt="El Correo at 2022-07-28 20:53:28+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-28T20:53:22.455597+02:00.jpg">July 28 at 1:53 PM</a></p>
+ <p><a href="https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-28T20:53:22.455597+02:00.jpg">July 28 at 8:53 PM</a></p>
 </div>
 
 </div>
@@ -382,16 +382,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 10:02 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-02T17:02:32.088536+02:00.hyperlinks.json) |
-| [September 1 at 9:30 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-02T04:30:51.510691+02:00.hyperlinks.json) |
-| [September 1 at 10:11 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-01T17:11:55.270171+02:00.hyperlinks.json) |
-| [August 31 at 9:29 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-01T04:29:46.528714+02:00.hyperlinks.json) |
-| [August 31 at 10:01 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-31T17:01:32.976730+02:00.hyperlinks.json) |
-| [August 30 at 9:26 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-31T04:26:32.181383+02:00.hyperlinks.json) |
-| [August 30 at 10:23 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-30T17:23:33.174084+02:00.hyperlinks.json) |
-| [August 29 at 9:31 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-30T04:31:44.610061+02:00.hyperlinks.json) |
-| [August 29 at 9:10 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-29T16:10:07.543769+02:00.hyperlinks.json) |
-| [August 28 at 9:26 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-29T04:26:31.342690+02:00.hyperlinks.json) |
+| [September 2 at 5:02 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-02T17:02:32.088536+02:00.hyperlinks.json) |
+| [September 2 at 4:30 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-02T04:30:51.510691+02:00.hyperlinks.json) |
+| [September 1 at 5:11 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-01T17:11:55.270171+02:00.hyperlinks.json) |
+| [September 1 at 4:29 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-01T04:29:46.528714+02:00.hyperlinks.json) |
+| [August 31 at 5:01 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-31T17:01:32.976730+02:00.hyperlinks.json) |
+| [August 31 at 4:26 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-31T04:26:32.181383+02:00.hyperlinks.json) |
+| [August 30 at 5:23 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-30T17:23:33.174084+02:00.hyperlinks.json) |
+| [August 30 at 4:31 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-30T04:31:44.610061+02:00.hyperlinks.json) |
+| [August 29 at 4:10 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-29T16:10:07.543769+02:00.hyperlinks.json) |
+| [August 29 at 4:26 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-29T04:26:31.342690+02:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -404,11 +404,11 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 30 at 10:37 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-30T17:37:35.599128+02:00.accessibility.json) |
-| [July 29 at 9:37 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-30T04:37:07.599254+02:00.accessibility.json) |
-| [July 29 at 9:36 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-29T16:36:56.905055+02:00.accessibility.json) |
-| [July 28 at 9:34 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-29T04:34:08.746946+02:00.accessibility.json) |
-| [July 28 at 1:53 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-28T20:53:22.455597+02:00.accessibility.json) |
+| [July 30 at 5:37 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-30T17:37:35.599128+02:00.accessibility.json) |
+| [July 30 at 4:37 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-30T04:37:07.599254+02:00.accessibility.json) |
+| [July 29 at 4:36 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-29T16:36:56.905055+02:00.accessibility.json) |
+| [July 29 at 4:34 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-29T04:34:08.746946+02:00.accessibility.json) |
+| [July 28 at 8:53 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-07-28T20:53:22.455597+02:00.accessibility.json) |
 
 
 
@@ -505,16 +505,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 10:02 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-02T17:02:32.088536+02:00.lighthouse.json) |
-| [September 1 at 9:30 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-02T04:30:51.510691+02:00.lighthouse.json) |
-| [September 1 at 10:12 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-01T17:11:55.270171+02:00.lighthouse.json) |
-| [August 31 at 9:29 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-01T04:29:46.528714+02:00.lighthouse.json) |
-| [August 31 at 10:01 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-31T17:01:32.976730+02:00.lighthouse.json) |
-| [August 30 at 9:26 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-31T04:26:32.181383+02:00.lighthouse.json) |
-| [August 30 at 10:23 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-30T17:23:33.174084+02:00.lighthouse.json) |
-| [August 29 at 9:31 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-30T04:31:44.610061+02:00.lighthouse.json) |
-| [August 29 at 9:10 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-29T16:10:07.543769+02:00.lighthouse.json) |
-| [August 28 at 9:26 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-29T04:26:31.342690+02:00.lighthouse.json) |
+| [September 2 at 5:02 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-02T17:02:32.088536+02:00.lighthouse.json) |
+| [September 2 at 4:30 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-02T04:30:51.510691+02:00.lighthouse.json) |
+| [September 1 at 5:12 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-01T17:11:55.270171+02:00.lighthouse.json) |
+| [September 1 at 4:29 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-01T04:29:46.528714+02:00.lighthouse.json) |
+| [August 31 at 5:01 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-31T17:01:32.976730+02:00.lighthouse.json) |
+| [August 31 at 4:26 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-31T04:26:32.181383+02:00.lighthouse.json) |
+| [August 30 at 5:23 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-30T17:23:33.174084+02:00.lighthouse.json) |
+| [August 30 at 4:31 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-30T04:31:44.610061+02:00.lighthouse.json) |
+| [August 29 at 4:10 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-29T16:10:07.543769+02:00.lighthouse.json) |
+| [August 29 at 4:26 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-29T04:26:31.342690+02:00.lighthouse.json) |
 
 
 

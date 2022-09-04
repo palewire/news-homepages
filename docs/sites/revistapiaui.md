@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T13:16:07.024529-03:00.jpg">
   <img src="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T13:16:07.024529-03:00.jpg"
-     alt="revista piauí at 2022-09-02 06:16:11-03:00 local time"
+     alt="revista piauí at 2022-09-02 13:16:11-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T13:16:07.024529-03:00.jpg">September 2 at 6:16 AM</a></p>
+ <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T13:16:07.024529-03:00.jpg">September 2 at 1:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T09:09:05.799206-03:00.jpg">
   <img src="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T09:09:05.799206-03:00.jpg"
-     alt="revista piauí at 2022-09-02 02:09:08-03:00 local time"
+     alt="revista piauí at 2022-09-02 09:09:08-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T09:09:05.799206-03:00.jpg">September 2 at 2:09 AM</a></p>
+ <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T09:09:05.799206-03:00.jpg">September 2 at 9:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T01:45:37.165047-03:00.jpg">
   <img src="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T01:45:37.165047-03:00.jpg"
-     alt="revista piauí at 2022-09-01 18:45:43-03:00 local time"
+     alt="revista piauí at 2022-09-02 01:45:43-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T01:45:37.165047-03:00.jpg">September 1 at 6:45 PM</a></p>
+ <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T01:45:37.165047-03:00.jpg">September 2 at 1:45 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T13:37:56.966333-03:00.jpg">
   <img src="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T13:37:56.966333-03:00.jpg"
-     alt="revista piauí at 2022-09-01 06:38:05-03:00 local time"
+     alt="revista piauí at 2022-09-01 13:38:05-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T13:37:56.966333-03:00.jpg">September 1 at 6:38 AM</a></p>
+ <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T13:37:56.966333-03:00.jpg">September 1 at 1:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T09:24:25.580269-03:00.jpg">
   <img src="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T09:24:25.580269-03:00.jpg"
-     alt="revista piauí at 2022-09-01 02:24:27-03:00 local time"
+     alt="revista piauí at 2022-09-01 09:24:27-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T09:24:25.580269-03:00.jpg">September 1 at 2:24 AM</a></p>
+ <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T09:24:25.580269-03:00.jpg">September 1 at 9:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T01:41:02.529222-03:00.jpg">
   <img src="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T01:41:02.529222-03:00.jpg"
-     alt="revista piauí at 2022-08-31 18:41:04-03:00 local time"
+     alt="revista piauí at 2022-09-01 01:41:04-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T01:41:02.529222-03:00.jpg">August 31 at 6:41 PM</a></p>
+ <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T01:41:02.529222-03:00.jpg">September 1 at 1:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T13:10:21.524282-03:00.jpg">
   <img src="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T13:10:21.524282-03:00.jpg"
-     alt="revista piauí at 2022-08-31 06:10:24-03:00 local time"
+     alt="revista piauí at 2022-08-31 13:10:24-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T13:10:21.524282-03:00.jpg">August 31 at 6:10 AM</a></p>
+ <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T13:10:21.524282-03:00.jpg">August 31 at 1:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T09:04:18.910023-03:00.jpg">
   <img src="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T09:04:18.910023-03:00.jpg"
-     alt="revista piauí at 2022-08-31 02:04:20-03:00 local time"
+     alt="revista piauí at 2022-08-31 09:04:20-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T09:04:18.910023-03:00.jpg">August 31 at 2:04 AM</a></p>
+ <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T09:04:18.910023-03:00.jpg">August 31 at 9:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T01:49:56.217162-03:00.jpg">
   <img src="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T01:49:56.217162-03:00.jpg"
-     alt="revista piauí at 2022-08-30 18:49:57-03:00 local time"
+     alt="revista piauí at 2022-08-31 01:49:57-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T01:49:56.217162-03:00.jpg">August 30 at 6:49 PM</a></p>
+ <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T01:49:56.217162-03:00.jpg">August 31 at 1:49 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-30T13:33:40.699747-03:00.jpg">
   <img src="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-30T13:33:40.699747-03:00.jpg"
-     alt="revista piauí at 2022-08-30 06:33:42-03:00 local time"
+     alt="revista piauí at 2022-08-30 13:33:42-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-30T13:33:40.699747-03:00.jpg">August 30 at 6:33 AM</a></p>
+ <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-30T13:33:40.699747-03:00.jpg">August 30 at 1:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-30T09:18:36.887741-03:00.jpg">
   <img src="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-30T09:18:36.887741-03:00.jpg"
-     alt="revista piauí at 2022-08-30 02:18:38-03:00 local time"
+     alt="revista piauí at 2022-08-30 09:18:38-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-30T09:18:36.887741-03:00.jpg">August 30 at 2:18 AM</a></p>
+ <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-30T09:18:36.887741-03:00.jpg">August 30 at 9:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-30T01:54:18.207844-03:00.jpg">
   <img src="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-30T01:54:18.207844-03:00.jpg"
-     alt="revista piauí at 2022-08-29 18:54:23-03:00 local time"
+     alt="revista piauí at 2022-08-30 01:54:23-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-30T01:54:18.207844-03:00.jpg">August 29 at 6:54 PM</a></p>
+ <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-30T01:54:18.207844-03:00.jpg">August 30 at 1:54 AM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 6:16 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T13:16:07.024529-03:00.hyperlinks.json) |
-| [September 2 at 2:09 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T09:09:05.799206-03:00.hyperlinks.json) |
-| [September 1 at 6:45 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T01:45:37.165047-03:00.hyperlinks.json) |
-| [September 1 at 6:38 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T13:37:56.966333-03:00.hyperlinks.json) |
-| [September 1 at 2:24 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T09:24:25.580269-03:00.hyperlinks.json) |
-| [August 31 at 6:41 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T01:41:02.529222-03:00.hyperlinks.json) |
-| [August 31 at 6:10 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T13:10:21.524282-03:00.hyperlinks.json) |
-| [August 31 at 2:04 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T09:04:18.910023-03:00.hyperlinks.json) |
-| [August 30 at 6:49 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T01:49:56.217162-03:00.hyperlinks.json) |
-| [August 30 at 6:33 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-30T13:33:40.699747-03:00.hyperlinks.json) |
+| [September 2 at 1:16 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T13:16:07.024529-03:00.hyperlinks.json) |
+| [September 2 at 9:09 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T09:09:05.799206-03:00.hyperlinks.json) |
+| [September 2 at 1:45 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T01:45:37.165047-03:00.hyperlinks.json) |
+| [September 1 at 1:38 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T13:37:56.966333-03:00.hyperlinks.json) |
+| [September 1 at 9:24 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T09:24:25.580269-03:00.hyperlinks.json) |
+| [September 1 at 1:41 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T01:41:02.529222-03:00.hyperlinks.json) |
+| [August 31 at 1:10 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T13:10:21.524282-03:00.hyperlinks.json) |
+| [August 31 at 9:04 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T09:04:18.910023-03:00.hyperlinks.json) |
+| [August 31 at 1:49 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T01:49:56.217162-03:00.hyperlinks.json) |
+| [August 30 at 1:33 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-30T13:33:40.699747-03:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 6:16 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T13:16:07.024529-03:00.accessibility.json) |
-| [September 2 at 2:09 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T09:09:05.799206-03:00.accessibility.json) |
-| [September 1 at 6:45 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T01:45:37.165047-03:00.accessibility.json) |
-| [September 1 at 6:38 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T13:37:56.966333-03:00.accessibility.json) |
-| [September 1 at 2:24 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T09:24:25.580269-03:00.accessibility.json) |
-| [August 31 at 6:41 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T01:41:02.529222-03:00.accessibility.json) |
-| [August 31 at 6:10 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T13:10:21.524282-03:00.accessibility.json) |
-| [August 31 at 2:04 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T09:04:18.910023-03:00.accessibility.json) |
-| [August 30 at 6:49 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T01:49:56.217162-03:00.accessibility.json) |
-| [August 30 at 6:33 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-30T13:33:40.699747-03:00.accessibility.json) |
+| [September 2 at 1:16 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T13:16:07.024529-03:00.accessibility.json) |
+| [September 2 at 9:09 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T09:09:05.799206-03:00.accessibility.json) |
+| [September 2 at 1:45 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T01:45:37.165047-03:00.accessibility.json) |
+| [September 1 at 1:38 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T13:37:56.966333-03:00.accessibility.json) |
+| [September 1 at 9:24 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T09:24:25.580269-03:00.accessibility.json) |
+| [September 1 at 1:41 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T01:41:02.529222-03:00.accessibility.json) |
+| [August 31 at 1:10 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T13:10:21.524282-03:00.accessibility.json) |
+| [August 31 at 9:04 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T09:04:18.910023-03:00.accessibility.json) |
+| [August 31 at 1:49 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T01:49:56.217162-03:00.accessibility.json) |
+| [August 30 at 1:33 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-30T13:33:40.699747-03:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 6:16 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T13:16:07.024529-03:00.lighthouse.json) |
-| [September 2 at 2:09 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T09:09:05.799206-03:00.lighthouse.json) |
-| [September 1 at 6:45 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T01:45:37.165047-03:00.lighthouse.json) |
-| [September 1 at 6:38 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T13:37:56.966333-03:00.lighthouse.json) |
-| [September 1 at 2:24 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T09:24:25.580269-03:00.lighthouse.json) |
-| [August 31 at 6:41 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T01:41:02.529222-03:00.lighthouse.json) |
-| [August 31 at 6:10 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T13:10:21.524282-03:00.lighthouse.json) |
-| [August 31 at 2:04 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T09:04:18.910023-03:00.lighthouse.json) |
-| [August 30 at 6:50 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T01:49:56.217162-03:00.lighthouse.json) |
-| [August 30 at 6:33 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-30T13:33:40.699747-03:00.lighthouse.json) |
+| [September 2 at 1:16 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T13:16:07.024529-03:00.lighthouse.json) |
+| [September 2 at 9:09 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T09:09:05.799206-03:00.lighthouse.json) |
+| [September 2 at 1:45 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T01:45:37.165047-03:00.lighthouse.json) |
+| [September 1 at 1:38 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T13:37:56.966333-03:00.lighthouse.json) |
+| [September 1 at 9:24 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T09:24:25.580269-03:00.lighthouse.json) |
+| [September 1 at 1:41 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-01T01:41:02.529222-03:00.lighthouse.json) |
+| [August 31 at 1:10 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T13:10:21.524282-03:00.lighthouse.json) |
+| [August 31 at 9:04 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T09:04:18.910023-03:00.lighthouse.json) |
+| [August 31 at 1:50 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-31T01:49:56.217162-03:00.lighthouse.json) |
+| [August 30 at 1:33 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-30T13:33:40.699747-03:00.lighthouse.json) |
 
 
 

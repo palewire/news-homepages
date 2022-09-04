@@ -245,109 +245,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/iol-2022/iol-2022-09-03T01:59:29.763795+02:00.jpg">
   <img src="https://archive.org/download/iol-2022/iol-2022-09-03T01:59:29.763795+02:00.jpg"
-     alt="Independent Online at 2022-09-02 18:59:31+02:00 local time"
+     alt="Independent Online at 2022-09-03 01:59:31+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iol-2022/iol-2022-09-03T01:59:29.763795+02:00.jpg">September 2 at 6:59 PM</a></p>
+ <p><a href="https://archive.org/download/iol-2022/iol-2022-09-03T01:59:29.763795+02:00.jpg">September 3 at 1:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/iol-2022/iol-2022-09-02T14:01:57.291110+02:00.jpg">
   <img src="https://archive.org/download/iol-2022/iol-2022-09-02T14:01:57.291110+02:00.jpg"
-     alt="Independent Online at 2022-09-02 07:02:00+02:00 local time"
+     alt="Independent Online at 2022-09-02 14:02:00+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iol-2022/iol-2022-09-02T14:01:57.291110+02:00.jpg">September 2 at 7:02 AM</a></p>
+ <p><a href="https://archive.org/download/iol-2022/iol-2022-09-02T14:01:57.291110+02:00.jpg">September 2 at 2:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/iol-2022/iol-2022-09-02T01:59:20.235629+02:00.jpg">
   <img src="https://archive.org/download/iol-2022/iol-2022-09-02T01:59:20.235629+02:00.jpg"
-     alt="Independent Online at 2022-09-01 18:59:21+02:00 local time"
+     alt="Independent Online at 2022-09-02 01:59:21+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iol-2022/iol-2022-09-02T01:59:20.235629+02:00.jpg">September 1 at 6:59 PM</a></p>
+ <p><a href="https://archive.org/download/iol-2022/iol-2022-09-02T01:59:20.235629+02:00.jpg">September 2 at 1:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/iol-2022/iol-2022-09-01T14:12:28.232970+02:00.jpg">
   <img src="https://archive.org/download/iol-2022/iol-2022-09-01T14:12:28.232970+02:00.jpg"
-     alt="Independent Online at 2022-09-01 07:12:29+02:00 local time"
+     alt="Independent Online at 2022-09-01 14:12:29+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iol-2022/iol-2022-09-01T14:12:28.232970+02:00.jpg">September 1 at 7:12 AM</a></p>
+ <p><a href="https://archive.org/download/iol-2022/iol-2022-09-01T14:12:28.232970+02:00.jpg">September 1 at 2:12 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/iol-2022/iol-2022-09-01T01:51:05.741605+02:00.jpg">
   <img src="https://archive.org/download/iol-2022/iol-2022-09-01T01:51:05.741605+02:00.jpg"
-     alt="Independent Online at 2022-08-31 18:51:08+02:00 local time"
+     alt="Independent Online at 2022-09-01 01:51:08+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iol-2022/iol-2022-09-01T01:51:05.741605+02:00.jpg">August 31 at 6:51 PM</a></p>
+ <p><a href="https://archive.org/download/iol-2022/iol-2022-09-01T01:51:05.741605+02:00.jpg">September 1 at 1:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/iol-2022/iol-2022-08-31T15:01:40.603627+02:00.jpg">
   <img src="https://archive.org/download/iol-2022/iol-2022-08-31T15:01:40.603627+02:00.jpg"
-     alt="Independent Online at 2022-08-31 08:01:42+02:00 local time"
+     alt="Independent Online at 2022-08-31 15:01:42+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iol-2022/iol-2022-08-31T15:01:40.603627+02:00.jpg">August 31 at 8:01 AM</a></p>
+ <p><a href="https://archive.org/download/iol-2022/iol-2022-08-31T15:01:40.603627+02:00.jpg">August 31 at 3:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/iol-2022/iol-2022-08-31T01:59:21.450830+02:00.jpg">
   <img src="https://archive.org/download/iol-2022/iol-2022-08-31T01:59:21.450830+02:00.jpg"
-     alt="Independent Online at 2022-08-30 18:59:23+02:00 local time"
+     alt="Independent Online at 2022-08-31 01:59:23+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iol-2022/iol-2022-08-31T01:59:21.450830+02:00.jpg">August 30 at 6:59 PM</a></p>
+ <p><a href="https://archive.org/download/iol-2022/iol-2022-08-31T01:59:21.450830+02:00.jpg">August 31 at 1:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/iol-2022/iol-2022-08-30T14:07:52.891784+02:00.jpg">
   <img src="https://archive.org/download/iol-2022/iol-2022-08-30T14:07:52.891784+02:00.jpg"
-     alt="Independent Online at 2022-08-30 07:07:54+02:00 local time"
+     alt="Independent Online at 2022-08-30 14:07:54+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iol-2022/iol-2022-08-30T14:07:52.891784+02:00.jpg">August 30 at 7:07 AM</a></p>
+ <p><a href="https://archive.org/download/iol-2022/iol-2022-08-30T14:07:52.891784+02:00.jpg">August 30 at 2:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/iol-2022/iol-2022-08-30T01:51:55.371336+02:00.jpg">
   <img src="https://archive.org/download/iol-2022/iol-2022-08-30T01:51:55.371336+02:00.jpg"
-     alt="Independent Online at 2022-08-29 18:51:57+02:00 local time"
+     alt="Independent Online at 2022-08-30 01:51:57+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iol-2022/iol-2022-08-30T01:51:55.371336+02:00.jpg">August 29 at 6:51 PM</a></p>
+ <p><a href="https://archive.org/download/iol-2022/iol-2022-08-30T01:51:55.371336+02:00.jpg">August 30 at 1:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/iol-2022/iol-2022-08-29T13:56:24.733432+02:00.jpg">
   <img src="https://archive.org/download/iol-2022/iol-2022-08-29T13:56:24.733432+02:00.jpg"
-     alt="Independent Online at 2022-08-29 06:56:26+02:00 local time"
+     alt="Independent Online at 2022-08-29 13:56:26+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iol-2022/iol-2022-08-29T13:56:24.733432+02:00.jpg">August 29 at 6:56 AM</a></p>
+ <p><a href="https://archive.org/download/iol-2022/iol-2022-08-29T13:56:24.733432+02:00.jpg">August 29 at 1:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/iol-2022/iol-2022-08-29T01:48:38.440395+02:00.jpg">
   <img src="https://archive.org/download/iol-2022/iol-2022-08-29T01:48:38.440395+02:00.jpg"
-     alt="Independent Online at 2022-08-28 18:48:48+02:00 local time"
+     alt="Independent Online at 2022-08-29 01:48:48+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iol-2022/iol-2022-08-29T01:48:38.440395+02:00.jpg">August 28 at 6:48 PM</a></p>
+ <p><a href="https://archive.org/download/iol-2022/iol-2022-08-29T01:48:38.440395+02:00.jpg">August 29 at 1:48 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/iol-2022/iol-2022-08-28T13:59:20.412230+02:00.jpg">
   <img src="https://archive.org/download/iol-2022/iol-2022-08-28T13:59:20.412230+02:00.jpg"
-     alt="Independent Online at 2022-08-28 06:59:21+02:00 local time"
+     alt="Independent Online at 2022-08-28 13:59:21+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iol-2022/iol-2022-08-28T13:59:20.412230+02:00.jpg">August 28 at 6:59 AM</a></p>
+ <p><a href="https://archive.org/download/iol-2022/iol-2022-08-28T13:59:20.412230+02:00.jpg">August 28 at 1:59 PM</a></p>
 </div>
 
 </div>
@@ -362,16 +362,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 6:59 PM](https://archive.org/download/iol-2022/iol-2022-09-03T01:59:29.763795+02:00.hyperlinks.json) |
-| [September 2 at 7:02 AM](https://archive.org/download/iol-2022/iol-2022-09-02T14:01:57.291110+02:00.hyperlinks.json) |
-| [September 1 at 6:59 PM](https://archive.org/download/iol-2022/iol-2022-09-02T01:59:20.235629+02:00.hyperlinks.json) |
-| [September 1 at 7:12 AM](https://archive.org/download/iol-2022/iol-2022-09-01T14:12:28.232970+02:00.hyperlinks.json) |
-| [August 31 at 6:51 PM](https://archive.org/download/iol-2022/iol-2022-09-01T01:51:05.741605+02:00.hyperlinks.json) |
-| [August 31 at 8:01 AM](https://archive.org/download/iol-2022/iol-2022-08-31T15:01:40.603627+02:00.hyperlinks.json) |
-| [August 30 at 6:59 PM](https://archive.org/download/iol-2022/iol-2022-08-31T01:59:21.450830+02:00.hyperlinks.json) |
-| [August 30 at 7:07 AM](https://archive.org/download/iol-2022/iol-2022-08-30T14:07:52.891784+02:00.hyperlinks.json) |
-| [August 29 at 6:52 PM](https://archive.org/download/iol-2022/iol-2022-08-30T01:51:55.371336+02:00.hyperlinks.json) |
-| [August 29 at 6:56 AM](https://archive.org/download/iol-2022/iol-2022-08-29T13:56:24.733432+02:00.hyperlinks.json) |
+| [September 3 at 1:59 AM](https://archive.org/download/iol-2022/iol-2022-09-03T01:59:29.763795+02:00.hyperlinks.json) |
+| [September 2 at 2:02 PM](https://archive.org/download/iol-2022/iol-2022-09-02T14:01:57.291110+02:00.hyperlinks.json) |
+| [September 2 at 1:59 AM](https://archive.org/download/iol-2022/iol-2022-09-02T01:59:20.235629+02:00.hyperlinks.json) |
+| [September 1 at 2:12 PM](https://archive.org/download/iol-2022/iol-2022-09-01T14:12:28.232970+02:00.hyperlinks.json) |
+| [September 1 at 1:51 AM](https://archive.org/download/iol-2022/iol-2022-09-01T01:51:05.741605+02:00.hyperlinks.json) |
+| [August 31 at 3:01 PM](https://archive.org/download/iol-2022/iol-2022-08-31T15:01:40.603627+02:00.hyperlinks.json) |
+| [August 31 at 1:59 AM](https://archive.org/download/iol-2022/iol-2022-08-31T01:59:21.450830+02:00.hyperlinks.json) |
+| [August 30 at 2:07 PM](https://archive.org/download/iol-2022/iol-2022-08-30T14:07:52.891784+02:00.hyperlinks.json) |
+| [August 30 at 1:52 AM](https://archive.org/download/iol-2022/iol-2022-08-30T01:51:55.371336+02:00.hyperlinks.json) |
+| [August 29 at 1:56 PM](https://archive.org/download/iol-2022/iol-2022-08-29T13:56:24.733432+02:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -384,16 +384,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 6:59 PM](https://archive.org/download/iol-2022/iol-2022-09-03T01:59:29.763795+02:00.accessibility.json) |
-| [September 2 at 7:02 AM](https://archive.org/download/iol-2022/iol-2022-09-02T14:01:57.291110+02:00.accessibility.json) |
-| [September 1 at 6:59 PM](https://archive.org/download/iol-2022/iol-2022-09-02T01:59:20.235629+02:00.accessibility.json) |
-| [September 1 at 7:12 AM](https://archive.org/download/iol-2022/iol-2022-09-01T14:12:28.232970+02:00.accessibility.json) |
-| [August 31 at 6:51 PM](https://archive.org/download/iol-2022/iol-2022-09-01T01:51:05.741605+02:00.accessibility.json) |
-| [August 31 at 8:01 AM](https://archive.org/download/iol-2022/iol-2022-08-31T15:01:40.603627+02:00.accessibility.json) |
-| [August 30 at 6:59 PM](https://archive.org/download/iol-2022/iol-2022-08-31T01:59:21.450830+02:00.accessibility.json) |
-| [August 30 at 7:07 AM](https://archive.org/download/iol-2022/iol-2022-08-30T14:07:52.891784+02:00.accessibility.json) |
-| [August 29 at 6:52 PM](https://archive.org/download/iol-2022/iol-2022-08-30T01:51:55.371336+02:00.accessibility.json) |
-| [August 29 at 6:56 AM](https://archive.org/download/iol-2022/iol-2022-08-29T13:56:24.733432+02:00.accessibility.json) |
+| [September 3 at 1:59 AM](https://archive.org/download/iol-2022/iol-2022-09-03T01:59:29.763795+02:00.accessibility.json) |
+| [September 2 at 2:02 PM](https://archive.org/download/iol-2022/iol-2022-09-02T14:01:57.291110+02:00.accessibility.json) |
+| [September 2 at 1:59 AM](https://archive.org/download/iol-2022/iol-2022-09-02T01:59:20.235629+02:00.accessibility.json) |
+| [September 1 at 2:12 PM](https://archive.org/download/iol-2022/iol-2022-09-01T14:12:28.232970+02:00.accessibility.json) |
+| [September 1 at 1:51 AM](https://archive.org/download/iol-2022/iol-2022-09-01T01:51:05.741605+02:00.accessibility.json) |
+| [August 31 at 3:01 PM](https://archive.org/download/iol-2022/iol-2022-08-31T15:01:40.603627+02:00.accessibility.json) |
+| [August 31 at 1:59 AM](https://archive.org/download/iol-2022/iol-2022-08-31T01:59:21.450830+02:00.accessibility.json) |
+| [August 30 at 2:07 PM](https://archive.org/download/iol-2022/iol-2022-08-30T14:07:52.891784+02:00.accessibility.json) |
+| [August 30 at 1:52 AM](https://archive.org/download/iol-2022/iol-2022-08-30T01:51:55.371336+02:00.accessibility.json) |
+| [August 29 at 1:56 PM](https://archive.org/download/iol-2022/iol-2022-08-29T13:56:24.733432+02:00.accessibility.json) |
 
 
 
@@ -407,16 +407,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 6:59 PM](https://archive.org/download/iol-2022/iol-2022-09-03T01:59:29.763795+02:00.lighthouse.json) |
-| [September 2 at 7:02 AM](https://archive.org/download/iol-2022/iol-2022-09-02T14:01:57.291110+02:00.lighthouse.json) |
-| [September 1 at 6:59 PM](https://archive.org/download/iol-2022/iol-2022-09-02T01:59:20.235629+02:00.lighthouse.json) |
-| [September 1 at 7:12 AM](https://archive.org/download/iol-2022/iol-2022-09-01T14:12:28.232970+02:00.lighthouse.json) |
-| [August 31 at 6:51 PM](https://archive.org/download/iol-2022/iol-2022-09-01T01:51:05.741605+02:00.lighthouse.json) |
-| [August 31 at 8:01 AM](https://archive.org/download/iol-2022/iol-2022-08-31T15:01:40.603627+02:00.lighthouse.json) |
-| [August 30 at 6:59 PM](https://archive.org/download/iol-2022/iol-2022-08-31T01:59:21.450830+02:00.lighthouse.json) |
-| [August 30 at 7:07 AM](https://archive.org/download/iol-2022/iol-2022-08-30T14:07:52.891784+02:00.lighthouse.json) |
-| [August 29 at 6:52 PM](https://archive.org/download/iol-2022/iol-2022-08-30T01:51:55.371336+02:00.lighthouse.json) |
-| [August 29 at 6:56 AM](https://archive.org/download/iol-2022/iol-2022-08-29T13:56:24.733432+02:00.lighthouse.json) |
+| [September 3 at 1:59 AM](https://archive.org/download/iol-2022/iol-2022-09-03T01:59:29.763795+02:00.lighthouse.json) |
+| [September 2 at 2:02 PM](https://archive.org/download/iol-2022/iol-2022-09-02T14:01:57.291110+02:00.lighthouse.json) |
+| [September 2 at 1:59 AM](https://archive.org/download/iol-2022/iol-2022-09-02T01:59:20.235629+02:00.lighthouse.json) |
+| [September 1 at 2:12 PM](https://archive.org/download/iol-2022/iol-2022-09-01T14:12:28.232970+02:00.lighthouse.json) |
+| [September 1 at 1:51 AM](https://archive.org/download/iol-2022/iol-2022-09-01T01:51:05.741605+02:00.lighthouse.json) |
+| [August 31 at 3:01 PM](https://archive.org/download/iol-2022/iol-2022-08-31T15:01:40.603627+02:00.lighthouse.json) |
+| [August 31 at 1:59 AM](https://archive.org/download/iol-2022/iol-2022-08-31T01:59:21.450830+02:00.lighthouse.json) |
+| [August 30 at 2:07 PM](https://archive.org/download/iol-2022/iol-2022-08-30T14:07:52.891784+02:00.lighthouse.json) |
+| [August 30 at 1:52 AM](https://archive.org/download/iol-2022/iol-2022-08-30T01:51:55.371336+02:00.lighthouse.json) |
+| [August 29 at 1:56 PM](https://archive.org/download/iol-2022/iol-2022-08-29T13:56:24.733432+02:00.lighthouse.json) |
 
 
 

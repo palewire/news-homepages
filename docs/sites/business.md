@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/business-2022/business-2022-09-02T17:16:54.407893-04:00.jpg">
   <img src="https://archive.org/download/business-2022/business-2022-09-02T17:16:54.407893-04:00.jpg"
-     alt="Bloomberg at 2022-09-02 10:16:58-04:00 local time"
+     alt="Bloomberg at 2022-09-02 17:16:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-09-02T17:16:54.407893-04:00.jpg">September 2 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/business-2022/business-2022-09-02T17:16:54.407893-04:00.jpg">September 2 at 5:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/business-2022/business-2022-09-02T11:00:53.839677-04:00.jpg">
   <img src="https://archive.org/download/business-2022/business-2022-09-02T11:00:53.839677-04:00.jpg"
-     alt="Bloomberg at 2022-09-02 04:00:56-04:00 local time"
+     alt="Bloomberg at 2022-09-02 11:00:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-09-02T11:00:53.839677-04:00.jpg">September 2 at 4:00 AM</a></p>
+ <p><a href="https://archive.org/download/business-2022/business-2022-09-02T11:00:53.839677-04:00.jpg">September 2 at 11:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/business-2022/business-2022-09-02T09:09:29.652427-04:00.jpg">
   <img src="https://archive.org/download/business-2022/business-2022-09-02T09:09:29.652427-04:00.jpg"
-     alt="Bloomberg at 2022-09-02 02:09:41-04:00 local time"
+     alt="Bloomberg at 2022-09-02 09:09:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-09-02T09:09:29.652427-04:00.jpg">September 2 at 2:09 AM</a></p>
+ <p><a href="https://archive.org/download/business-2022/business-2022-09-02T09:09:29.652427-04:00.jpg">September 2 at 9:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/business-2022/business-2022-09-01T22:29:25.587149-04:00.jpg">
   <img src="https://archive.org/download/business-2022/business-2022-09-01T22:29:25.587149-04:00.jpg"
-     alt="Bloomberg at 2022-09-01 15:29:27-04:00 local time"
+     alt="Bloomberg at 2022-09-01 22:29:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-09-01T22:29:25.587149-04:00.jpg">September 1 at 3:29 PM</a></p>
+ <p><a href="https://archive.org/download/business-2022/business-2022-09-01T22:29:25.587149-04:00.jpg">September 1 at 10:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/business-2022/business-2022-09-01T17:16:25.696939-04:00.jpg">
   <img src="https://archive.org/download/business-2022/business-2022-09-01T17:16:25.696939-04:00.jpg"
-     alt="Bloomberg at 2022-09-01 10:16:31-04:00 local time"
+     alt="Bloomberg at 2022-09-01 17:16:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-09-01T17:16:25.696939-04:00.jpg">September 1 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/business-2022/business-2022-09-01T17:16:25.696939-04:00.jpg">September 1 at 5:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/business-2022/business-2022-09-01T11:08:17.546777-04:00.jpg">
   <img src="https://archive.org/download/business-2022/business-2022-09-01T11:08:17.546777-04:00.jpg"
-     alt="Bloomberg at 2022-09-01 04:08:19-04:00 local time"
+     alt="Bloomberg at 2022-09-01 11:08:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-09-01T11:08:17.546777-04:00.jpg">September 1 at 4:08 AM</a></p>
+ <p><a href="https://archive.org/download/business-2022/business-2022-09-01T11:08:17.546777-04:00.jpg">September 1 at 11:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/business-2022/business-2022-09-01T09:18:19.053596-04:00.jpg">
   <img src="https://archive.org/download/business-2022/business-2022-09-01T09:18:19.053596-04:00.jpg"
-     alt="Bloomberg at 2022-09-01 02:18:25-04:00 local time"
+     alt="Bloomberg at 2022-09-01 09:18:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-09-01T09:18:19.053596-04:00.jpg">September 1 at 2:18 AM</a></p>
+ <p><a href="https://archive.org/download/business-2022/business-2022-09-01T09:18:19.053596-04:00.jpg">September 1 at 9:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/business-2022/business-2022-08-31T22:28:03.656649-04:00.jpg">
   <img src="https://archive.org/download/business-2022/business-2022-08-31T22:28:03.656649-04:00.jpg"
-     alt="Bloomberg at 2022-08-31 15:28:04-04:00 local time"
+     alt="Bloomberg at 2022-08-31 22:28:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-08-31T22:28:03.656649-04:00.jpg">August 31 at 3:28 PM</a></p>
+ <p><a href="https://archive.org/download/business-2022/business-2022-08-31T22:28:03.656649-04:00.jpg">August 31 at 10:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/business-2022/business-2022-08-31T17:16:30.522960-04:00.jpg">
   <img src="https://archive.org/download/business-2022/business-2022-08-31T17:16:30.522960-04:00.jpg"
-     alt="Bloomberg at 2022-08-31 10:16:36-04:00 local time"
+     alt="Bloomberg at 2022-08-31 17:16:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-08-31T17:16:30.522960-04:00.jpg">August 31 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/business-2022/business-2022-08-31T17:16:30.522960-04:00.jpg">August 31 at 5:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/business-2022/business-2022-08-31T10:59:51.933843-04:00.jpg">
   <img src="https://archive.org/download/business-2022/business-2022-08-31T10:59:51.933843-04:00.jpg"
-     alt="Bloomberg at 2022-08-31 03:59:53-04:00 local time"
+     alt="Bloomberg at 2022-08-31 10:59:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-08-31T10:59:51.933843-04:00.jpg">August 31 at 3:59 AM</a></p>
+ <p><a href="https://archive.org/download/business-2022/business-2022-08-31T10:59:51.933843-04:00.jpg">August 31 at 10:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/business-2022/business-2022-08-31T09:08:36.587373-04:00.jpg">
   <img src="https://archive.org/download/business-2022/business-2022-08-31T09:08:36.587373-04:00.jpg"
-     alt="Bloomberg at 2022-08-31 02:08:42-04:00 local time"
+     alt="Bloomberg at 2022-08-31 09:08:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-08-31T09:08:36.587373-04:00.jpg">August 31 at 2:08 AM</a></p>
+ <p><a href="https://archive.org/download/business-2022/business-2022-08-31T09:08:36.587373-04:00.jpg">August 31 at 9:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/business-2022/business-2022-08-30T22:24:28.640203-04:00.jpg">
   <img src="https://archive.org/download/business-2022/business-2022-08-30T22:24:28.640203-04:00.jpg"
-     alt="Bloomberg at 2022-08-30 15:24:38-04:00 local time"
+     alt="Bloomberg at 2022-08-30 22:24:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-08-30T22:24:28.640203-04:00.jpg">August 30 at 3:24 PM</a></p>
+ <p><a href="https://archive.org/download/business-2022/business-2022-08-30T22:24:28.640203-04:00.jpg">August 30 at 10:24 PM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 10:17 AM](https://archive.org/download/business-2022/business-2022-09-02T17:16:54.407893-04:00.hyperlinks.json) |
-| [September 2 at 4:00 AM](https://archive.org/download/business-2022/business-2022-09-02T11:00:53.839677-04:00.hyperlinks.json) |
-| [September 2 at 2:09 AM](https://archive.org/download/business-2022/business-2022-09-02T09:09:29.652427-04:00.hyperlinks.json) |
-| [September 1 at 3:29 PM](https://archive.org/download/business-2022/business-2022-09-01T22:29:25.587149-04:00.hyperlinks.json) |
-| [September 1 at 10:16 AM](https://archive.org/download/business-2022/business-2022-09-01T17:16:25.696939-04:00.hyperlinks.json) |
-| [September 1 at 4:08 AM](https://archive.org/download/business-2022/business-2022-09-01T11:08:17.546777-04:00.hyperlinks.json) |
-| [September 1 at 2:18 AM](https://archive.org/download/business-2022/business-2022-09-01T09:18:19.053596-04:00.hyperlinks.json) |
-| [August 31 at 3:28 PM](https://archive.org/download/business-2022/business-2022-08-31T22:28:03.656649-04:00.hyperlinks.json) |
-| [August 31 at 10:16 AM](https://archive.org/download/business-2022/business-2022-08-31T17:16:30.522960-04:00.hyperlinks.json) |
-| [August 31 at 3:59 AM](https://archive.org/download/business-2022/business-2022-08-31T10:59:51.933843-04:00.hyperlinks.json) |
+| [September 2 at 5:17 PM](https://archive.org/download/business-2022/business-2022-09-02T17:16:54.407893-04:00.hyperlinks.json) |
+| [September 2 at 11:00 AM](https://archive.org/download/business-2022/business-2022-09-02T11:00:53.839677-04:00.hyperlinks.json) |
+| [September 2 at 9:09 AM](https://archive.org/download/business-2022/business-2022-09-02T09:09:29.652427-04:00.hyperlinks.json) |
+| [September 1 at 10:29 PM](https://archive.org/download/business-2022/business-2022-09-01T22:29:25.587149-04:00.hyperlinks.json) |
+| [September 1 at 5:16 PM](https://archive.org/download/business-2022/business-2022-09-01T17:16:25.696939-04:00.hyperlinks.json) |
+| [September 1 at 11:08 AM](https://archive.org/download/business-2022/business-2022-09-01T11:08:17.546777-04:00.hyperlinks.json) |
+| [September 1 at 9:18 AM](https://archive.org/download/business-2022/business-2022-09-01T09:18:19.053596-04:00.hyperlinks.json) |
+| [August 31 at 10:28 PM](https://archive.org/download/business-2022/business-2022-08-31T22:28:03.656649-04:00.hyperlinks.json) |
+| [August 31 at 5:16 PM](https://archive.org/download/business-2022/business-2022-08-31T17:16:30.522960-04:00.hyperlinks.json) |
+| [August 31 at 10:59 AM](https://archive.org/download/business-2022/business-2022-08-31T10:59:51.933843-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 10:17 AM](https://archive.org/download/business-2022/business-2022-09-02T17:16:54.407893-04:00.accessibility.json) |
-| [September 2 at 4:00 AM](https://archive.org/download/business-2022/business-2022-09-02T11:00:53.839677-04:00.accessibility.json) |
-| [September 2 at 2:09 AM](https://archive.org/download/business-2022/business-2022-09-02T09:09:29.652427-04:00.accessibility.json) |
-| [September 1 at 3:29 PM](https://archive.org/download/business-2022/business-2022-09-01T22:29:25.587149-04:00.accessibility.json) |
-| [September 1 at 10:16 AM](https://archive.org/download/business-2022/business-2022-09-01T17:16:25.696939-04:00.accessibility.json) |
-| [September 1 at 4:08 AM](https://archive.org/download/business-2022/business-2022-09-01T11:08:17.546777-04:00.accessibility.json) |
-| [September 1 at 2:18 AM](https://archive.org/download/business-2022/business-2022-09-01T09:18:19.053596-04:00.accessibility.json) |
-| [August 31 at 3:28 PM](https://archive.org/download/business-2022/business-2022-08-31T22:28:03.656649-04:00.accessibility.json) |
-| [August 31 at 10:16 AM](https://archive.org/download/business-2022/business-2022-08-31T17:16:30.522960-04:00.accessibility.json) |
-| [August 31 at 3:59 AM](https://archive.org/download/business-2022/business-2022-08-31T10:59:51.933843-04:00.accessibility.json) |
+| [September 2 at 5:17 PM](https://archive.org/download/business-2022/business-2022-09-02T17:16:54.407893-04:00.accessibility.json) |
+| [September 2 at 11:00 AM](https://archive.org/download/business-2022/business-2022-09-02T11:00:53.839677-04:00.accessibility.json) |
+| [September 2 at 9:09 AM](https://archive.org/download/business-2022/business-2022-09-02T09:09:29.652427-04:00.accessibility.json) |
+| [September 1 at 10:29 PM](https://archive.org/download/business-2022/business-2022-09-01T22:29:25.587149-04:00.accessibility.json) |
+| [September 1 at 5:16 PM](https://archive.org/download/business-2022/business-2022-09-01T17:16:25.696939-04:00.accessibility.json) |
+| [September 1 at 11:08 AM](https://archive.org/download/business-2022/business-2022-09-01T11:08:17.546777-04:00.accessibility.json) |
+| [September 1 at 9:18 AM](https://archive.org/download/business-2022/business-2022-09-01T09:18:19.053596-04:00.accessibility.json) |
+| [August 31 at 10:28 PM](https://archive.org/download/business-2022/business-2022-08-31T22:28:03.656649-04:00.accessibility.json) |
+| [August 31 at 5:16 PM](https://archive.org/download/business-2022/business-2022-08-31T17:16:30.522960-04:00.accessibility.json) |
+| [August 31 at 10:59 AM](https://archive.org/download/business-2022/business-2022-08-31T10:59:51.933843-04:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 10:17 AM](https://archive.org/download/business-2022/business-2022-09-02T17:16:54.407893-04:00.lighthouse.json) |
-| [September 2 at 4:01 AM](https://archive.org/download/business-2022/business-2022-09-02T11:00:53.839677-04:00.lighthouse.json) |
-| [September 2 at 2:09 AM](https://archive.org/download/business-2022/business-2022-09-02T09:09:29.652427-04:00.lighthouse.json) |
-| [September 1 at 3:29 PM](https://archive.org/download/business-2022/business-2022-09-01T22:29:25.587149-04:00.lighthouse.json) |
-| [September 1 at 10:16 AM](https://archive.org/download/business-2022/business-2022-09-01T17:16:25.696939-04:00.lighthouse.json) |
-| [September 1 at 4:08 AM](https://archive.org/download/business-2022/business-2022-09-01T11:08:17.546777-04:00.lighthouse.json) |
-| [September 1 at 2:18 AM](https://archive.org/download/business-2022/business-2022-09-01T09:18:19.053596-04:00.lighthouse.json) |
-| [August 31 at 3:28 PM](https://archive.org/download/business-2022/business-2022-08-31T22:28:03.656649-04:00.lighthouse.json) |
-| [August 31 at 10:16 AM](https://archive.org/download/business-2022/business-2022-08-31T17:16:30.522960-04:00.lighthouse.json) |
-| [August 31 at 3:59 AM](https://archive.org/download/business-2022/business-2022-08-31T10:59:51.933843-04:00.lighthouse.json) |
+| [September 2 at 5:17 PM](https://archive.org/download/business-2022/business-2022-09-02T17:16:54.407893-04:00.lighthouse.json) |
+| [September 2 at 11:01 AM](https://archive.org/download/business-2022/business-2022-09-02T11:00:53.839677-04:00.lighthouse.json) |
+| [September 2 at 9:09 AM](https://archive.org/download/business-2022/business-2022-09-02T09:09:29.652427-04:00.lighthouse.json) |
+| [September 1 at 10:29 PM](https://archive.org/download/business-2022/business-2022-09-01T22:29:25.587149-04:00.lighthouse.json) |
+| [September 1 at 5:16 PM](https://archive.org/download/business-2022/business-2022-09-01T17:16:25.696939-04:00.lighthouse.json) |
+| [September 1 at 11:08 AM](https://archive.org/download/business-2022/business-2022-09-01T11:08:17.546777-04:00.lighthouse.json) |
+| [September 1 at 9:18 AM](https://archive.org/download/business-2022/business-2022-09-01T09:18:19.053596-04:00.lighthouse.json) |
+| [August 31 at 10:28 PM](https://archive.org/download/business-2022/business-2022-08-31T22:28:03.656649-04:00.lighthouse.json) |
+| [August 31 at 5:16 PM](https://archive.org/download/business-2022/business-2022-08-31T17:16:30.522960-04:00.lighthouse.json) |
+| [August 31 at 10:59 AM](https://archive.org/download/business-2022/business-2022-08-31T10:59:51.933843-04:00.lighthouse.json) |
 
 
 
