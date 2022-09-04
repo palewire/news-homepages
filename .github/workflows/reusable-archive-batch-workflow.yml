@@ -175,5 +175,3 @@ jobs:
           api-key: ${{ secrets.PALEWIRE_DOCS_AWS_ACCESS_KEY_ID }}
           api-secret-access-key: ${{ secrets.PALEWIRE_DOCS_AWS_SECRET_ACCESS_KEY }}
           bucket: ${{ secrets.PALEWIRE_DOCS_AWS_BUCKET }}
-          source_dir: docs/_build/html/
-          destination_dir: news-homepages
