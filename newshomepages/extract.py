@@ -116,19 +116,19 @@ def download_items(
         [_save_item(i) for i in _site_search(obj)]
     elif country:
         site_list = utils.get_sites_in_country(country)
-        for obj in site_list:
+        for obj in track(site_list):
             [_save_item(i) for i in _site_search(obj)]
     elif language:
         site_list = utils.get_sites_in_language(language)
-        for obj in site_list:
+        for obj in track(site_list):
             [_save_item(i) for i in _site_search(obj)]
     elif bundle:
         site_list = utils.get_sites_in_bundle(bundle)
-        for obj in site_list:
+        for obj in track(site_list):
             [_save_item(i) for i in _site_search(obj)]
     elif batch:
         site_list = utils.get_sites_in_batch(int(batch))
-        for obj in site_list:
+        for obj in track(site_list):
             [_save_item(i) for i in _site_search(obj)]
     else:
         search = f"collection:{IA_COLLECTION} AND identifier:(*-{year})"
