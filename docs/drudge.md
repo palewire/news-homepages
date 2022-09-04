@@ -3,9 +3,9 @@
 
 # Drudge Report ranking
 
-As part of its archiving routine, our system routinely archives [The Drudge Report](https://palewi.re/docs/news-homepages/sites/drudge.html), a news aggregator focused on Beltway politics, celebrity scandals, extreme weather and other catastrophes of American life.
+As part of its archiving routine, our system routinely captures [The Drudge Report](https://palewi.re/docs/news-homepages/sites/drudge.html), a news aggregator focused on Beltway politics, celebrity scandal, extreme weather and other catastrophes of American life.
 
-Over the last 90 days, Drudge's homepage has featured 5,526 stories on 363 different sites. This page ranks domains to show which domains appeared the most in that period. The list updates daily.
+Over the last 90 days, Drudge's homepage has featured 5,526 stories on 363 different sites. This page ranks domains by how often they appeared in that period. The list updates daily.
 
 <table class="colwidths-auto docutils align-default">
  <thead>
