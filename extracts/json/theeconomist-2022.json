@@ -1,6 +1,6 @@
 {
-  "conflict": 1662282804,
-  "created": 1662282804,
+  "conflict": 1662296318,
+  "created": 1662296318,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/32/items/theeconomist-2022",
@@ -7749,31 +7749,93 @@
       "sha1": "6666a3611789ccd63681f4d13ef6aecb3fa34620"
     },
     {
+      "name": "theeconomist-2022-09-04T10:13:18.574351+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662282802",
+      "size": "19959",
+      "md5": "9e78ae874d9f1b498ecd0429f02ed2aa",
+      "crc32": "aed366aa",
+      "sha1": "cc35c59fb4fd7ff842ca4c87792318763fb4d24e",
+      "format": "JSON"
+    },
+    {
+      "name": "theeconomist-2022-09-04T10:13:18.574351+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662282803",
+      "size": "19934",
+      "md5": "d58639f6bc399ec5a9f08542fded62df",
+      "crc32": "3e1f5275",
+      "sha1": "d0bb2e09be165d205661f569fe806dc36f71fd6d",
+      "format": "JSON"
+    },
+    {
+      "name": "theeconomist-2022-09-04T10:13:18.574351+01:00.jpg",
+      "source": "original",
+      "mtime": "1662282800",
+      "size": "234561",
+      "md5": "9db0a64eeb5696b94f78ecce259b2a17",
+      "crc32": "de5bf505",
+      "sha1": "d05ef3c17e081c8e03b240e3e62819d57d92dbdc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theeconomist-2022-09-04T10:13:18.574351+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662282805",
+      "size": "1477",
+      "md5": "f74ece482234ed923217961a9d5190dd",
+      "crc32": "141961ef",
+      "sha1": "d744b41571ae492af64ffe3088036f44592f8624",
+      "format": "JSON"
+    },
+    {
+      "name": "theeconomist-2022-09-04T10:13:18.574351+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1662282807",
+      "size": "85045",
+      "md5": "d54e03944b553b280cc915fc9f457543",
+      "crc32": "3641fd4b",
+      "sha1": "2435d1ab306806939c9a2b4037bfcf3a29d778c4",
+      "format": "JSON"
+    },
+    {
+      "name": "theeconomist-2022-09-04T10:13:18.574351+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theeconomist-2022-09-04T10:13:18.574351+01:00.jpg",
+      "mtime": "1662282866",
+      "size": "8411",
+      "md5": "8fca6e788a05ef54439c3381ac84c274",
+      "crc32": "802f954a",
+      "sha1": "8e90e080df8150de6d2790e74904e71787fca7ac"
+    },
+    {
       "name": "theeconomist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b21b56591d0787d6437367dd569515d5bf81d962",
-      "mtime": "1662254230",
-      "size": "161291",
-      "md5": "2a93db3b4cd23684f702196ad52e7f13",
-      "crc32": "0cc2b08f",
-      "sha1": "13725cf2b6b6474e086d730cad5985bd0795ae6a",
+      "btih": "12891708b6a97cc09f643800aadb171b5d3a00cd",
+      "mtime": "1662282872",
+      "size": "162582",
+      "md5": "5241f23acd74993780d8cbb845dff6ec",
+      "crc32": "d6d254df",
+      "sha1": "ba9ff49162a13f2558ec49ac39718e8b69b1dd84",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theeconomist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2fc296f04481b373d11f522bea7390b9",
+      "md5": "fe46647c993d850e883bb76e3d9efdfd",
       "summation": "md5"
     },
     {
       "name": "theeconomist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662254169",
-      "size": "946176",
-      "md5": "89c28636d9c8372f5554d936c6c90175",
-      "crc32": "9f8cb392",
-      "sha1": "0347f86c95f2e4f89ed12cb0ef1449f60c00682b",
+      "mtime": "1662282812",
+      "size": "950272",
+      "md5": "b9ad60cc86fa154e8e436c553fc406d1",
+      "crc32": "27fc7724",
+      "sha1": "f66eb709022c9b6c743802a8920c9330b3e54e95",
       "format": "Metadata"
     },
     {
@@ -7787,9 +7849,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 750,
-  "item_last_updated": 1662254230,
-  "item_size": 51280484,
+  "files_count": 756,
+  "item_last_updated": 1662282872,
+  "item_size": 51655258,
   "metadata": {
     "identifier": "theeconomist-2022",
     "collection": [
@@ -7811,7 +7873,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3393505627,
+      "task_id": 3393592356,
       "cmd": "archive.php",
       "priority": -5,
       "wait_admin": 1,
@@ -7819,7 +7881,7 @@
       "status": "running"
     },
     {
-      "task_id": 3393505721,
+      "task_id": 3393592418,
       "cmd": "archive.php",
       "priority": -5,
       "wait_admin": 0,
@@ -7827,7 +7889,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 278523878,
+  "uniq": 1932903202,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]
