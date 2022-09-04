@@ -1,5 +1,6 @@
 {
-  "created": 1662149321,
+  "conflict": 1662282820,
+  "created": 1662282820,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/16/items/thesun-2022",
@@ -19540,31 +19541,279 @@
       "sha1": "baa0b9111b63263de01335ad76d4112ed12f0836"
     },
     {
+      "name": "thesun-2022-09-03T02:26:30.584947+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662168393",
+      "size": "86621",
+      "md5": "f7e35d39972f583ae8874b909f4d1197",
+      "crc32": "46699023",
+      "sha1": "bfd1d0e9b7cd5df87c21e165b58dd6a912eb1388",
+      "format": "JSON"
+    },
+    {
+      "name": "thesun-2022-09-03T02:26:30.584947+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662168395",
+      "size": "101903",
+      "md5": "11069f4e9cab605f0ee1e48d4bebf29c",
+      "crc32": "d6f33c5d",
+      "sha1": "e2c459ae8a0b284c8743f3d3962accc8b5232b7e",
+      "format": "JSON"
+    },
+    {
+      "name": "thesun-2022-09-03T02:26:30.584947+01:00.jpg",
+      "source": "original",
+      "mtime": "1662168392",
+      "size": "333873",
+      "md5": "a4b968416e27b865d56ea0bcbbe4c329",
+      "crc32": "5b4554a0",
+      "sha1": "1f94a5f2325566782c1ec04a01dfecbe321a0a38",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thesun-2022-09-03T02:26:30.584947+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662168397",
+      "size": "1476",
+      "md5": "d9e5a96d27b7f9edb3cd632fb5de4478",
+      "crc32": "6ab1743b",
+      "sha1": "55b136ea9d6174a17570a1b2ba175799834f93d9",
+      "format": "JSON"
+    },
+    {
+      "name": "thesun-2022-09-03T02:26:30.584947+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1662168398",
+      "size": "79001",
+      "md5": "83077adbe9313cb87ec0f04c95b610c0",
+      "crc32": "a00af008",
+      "sha1": "7f8b5818e358a0d818065abaff9804a286c6062c",
+      "format": "JSON"
+    },
+    {
+      "name": "thesun-2022-09-03T02:26:30.584947+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thesun-2022-09-03T02:26:30.584947+01:00.jpg",
+      "mtime": "1662168498",
+      "size": "10774",
+      "md5": "1579d1bd50e24b49420711ef648a6069",
+      "crc32": "590d698c",
+      "sha1": "d130b25b883f7a332bb6401c4de2a24a810c44c4"
+    },
+    {
+      "name": "thesun-2022-09-03T10:13:19.093607+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662196403",
+      "size": "84129",
+      "md5": "d40f3e8c2454fa739e2233fb914937b7",
+      "crc32": "83323644",
+      "sha1": "48c78ffa1c89e5e95fdbbb4ae363abbd94cd92bc",
+      "format": "JSON"
+    },
+    {
+      "name": "thesun-2022-09-03T10:13:19.093607+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662196404",
+      "size": "99351",
+      "md5": "8e854fb6e7bf20eda876864c975275b7",
+      "crc32": "5c9262b5",
+      "sha1": "34df55dbe5424d6a13814c710aa8f3619c9c286f",
+      "format": "JSON"
+    },
+    {
+      "name": "thesun-2022-09-03T10:13:19.093607+01:00.jpg",
+      "source": "original",
+      "mtime": "1662196401",
+      "size": "331145",
+      "md5": "b75f61ef0201d89350c68d61f15869da",
+      "crc32": "7af9320a",
+      "sha1": "df53ab02e165c78a679632ec41266604849eeb7b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thesun-2022-09-03T10:13:19.093607+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662196406",
+      "size": "1477",
+      "md5": "430e05f0541993916186dc473472d624",
+      "crc32": "21afe5d7",
+      "sha1": "c1dd9a6c76a586aef3ec8a34866c96d56b948c8f",
+      "format": "JSON"
+    },
+    {
+      "name": "thesun-2022-09-03T10:13:19.093607+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1662196408",
+      "size": "93079",
+      "md5": "a6f717f3b18bef2ce62071d645fb7184",
+      "crc32": "042d9963",
+      "sha1": "67825b3bcfec6e293475cab543a1029de48f3a58",
+      "format": "JSON"
+    },
+    {
+      "name": "thesun-2022-09-03T10:13:19.093607+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thesun-2022-09-03T10:13:19.093607+01:00.jpg",
+      "mtime": "1662196500",
+      "size": "10846",
+      "md5": "a7ad0922b3eeac2da107b4da09546171",
+      "crc32": "b012135d",
+      "sha1": "7d0a13d510253114665f314868237af45fe5ee51"
+    },
+    {
+      "name": "thesun-2022-09-03T14:14:33.826866+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662210876",
+      "size": "79112",
+      "md5": "0663a0dad4073aba8b1d391c6038fc38",
+      "crc32": "e6d56047",
+      "sha1": "cc85d62d8d5338f048fd3fed569e4c33d5f91683",
+      "format": "JSON"
+    },
+    {
+      "name": "thesun-2022-09-03T14:14:33.826866+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662210877",
+      "size": "93961",
+      "md5": "edbf42ca296ccc3e0e4298303b1ebfa5",
+      "crc32": "69f6349b",
+      "sha1": "3738f9f7d0cb764536a75ff3bb157b860d5688a1",
+      "format": "JSON"
+    },
+    {
+      "name": "thesun-2022-09-03T14:14:33.826866+01:00.jpg",
+      "source": "original",
+      "mtime": "1662210875",
+      "size": "275354",
+      "md5": "90b055d2a8b70080b1936ee815dd580d",
+      "crc32": "81242ad0",
+      "sha1": "f2b4fb01657547677225269aab07b23b45507bdb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thesun-2022-09-03T14:14:33.826866+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662210879",
+      "size": "1477",
+      "md5": "587ca42391b8a3e0921afdecaf22ae6b",
+      "crc32": "27a633e5",
+      "sha1": "e0f79ecc57ff79d5d272c95ced5bbf8099de51c9",
+      "format": "JSON"
+    },
+    {
+      "name": "thesun-2022-09-03T14:14:33.826866+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1662210880",
+      "size": "91225",
+      "md5": "10e6a45946dd495a1ba9a8ff7c0624f4",
+      "crc32": "4eae9ad1",
+      "sha1": "8629d7f990646adc848f784063833182a69e1d4c",
+      "format": "JSON"
+    },
+    {
+      "name": "thesun-2022-09-03T14:14:33.826866+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thesun-2022-09-03T14:14:33.826866+01:00.jpg",
+      "mtime": "1662210962",
+      "size": "10649",
+      "md5": "a4592f1ed72a0f482fd875b0e410989a",
+      "crc32": "d87eb292",
+      "sha1": "e96daa6d1a28e6965b1128839721f5e7472e7c15"
+    },
+    {
+      "name": "thesun-2022-09-04T02:17:20.023814+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662254243",
+      "size": "83219",
+      "md5": "9cc9a9e912f9aaadb4ef3192dc231a25",
+      "crc32": "2c674870",
+      "sha1": "ad6dc11ef28ea1f5765ba71e698cb9134d8ff92c",
+      "format": "JSON"
+    },
+    {
+      "name": "thesun-2022-09-04T02:17:20.023814+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662254245",
+      "size": "100302",
+      "md5": "bee2db895789f9feee43a4b50457d740",
+      "crc32": "7ecd185b",
+      "sha1": "d288c685a7b329a566d147c4e4805d65c4892e45",
+      "format": "JSON"
+    },
+    {
+      "name": "thesun-2022-09-04T02:17:20.023814+01:00.jpg",
+      "source": "original",
+      "mtime": "1662254241",
+      "size": "312783",
+      "md5": "56469dee8af5f8d49dd3f7fdc136d666",
+      "crc32": "6760522a",
+      "sha1": "fb22b65c8e43cd2a87311e1ab03c24f6501593cd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thesun-2022-09-04T02:17:20.023814+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662254246",
+      "size": "1474",
+      "md5": "f51df915c1937ad7bf880f1e7d2b6580",
+      "crc32": "cfa4c10f",
+      "sha1": "81aafd91cbb3d239c12244400d1778cda07f86e1",
+      "format": "JSON"
+    },
+    {
+      "name": "thesun-2022-09-04T02:17:20.023814+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1662254248",
+      "size": "231",
+      "md5": "9c7a1b3222cd89ac37a8a777a497ff46",
+      "crc32": "a06cb1d1",
+      "sha1": "4e8be85e644e92277c0ba1c57ab2abbf5671a71c",
+      "format": "JSON"
+    },
+    {
+      "name": "thesun-2022-09-04T02:17:20.023814+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thesun-2022-09-04T02:17:20.023814+01:00.jpg",
+      "mtime": "1662254332",
+      "size": "10833",
+      "md5": "c003d0096d3515f439148529edb633ca",
+      "crc32": "2a85893d",
+      "sha1": "9181ffa37da9d81cda864cacc76731cf762f2efc"
+    },
+    {
       "name": "thesun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4888fc858dc773fbd40a31cd3790aaa94878b063",
-      "mtime": "1662124262",
-      "size": "394572",
-      "md5": "064476936cdbfa8da262cf7e1d127854",
-      "crc32": "521996fd",
-      "sha1": "5dfd876e8dbd49acd30725885438f10a583b1550",
+      "btih": "381a2934a6ae63e7f1b228fde85f3802c8f695bf",
+      "mtime": "1662254361",
+      "size": "399596",
+      "md5": "013636ecc847f6e47d62825d70c04a71",
+      "crc32": "77fd941a",
+      "sha1": "ba1d4b6b17a675185eedda17c813d4415a30b3f2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thesun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "55bbd4df484b52566d0ab55bb4e6b03c",
+      "md5": "e1fd8cfa39f6cc311117af1c5238859e",
       "summation": "md5"
     },
     {
       "name": "thesun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662124145",
-      "size": "2203648",
-      "md5": "36fd42f37fa9e11f14a752fbfd506ec1",
-      "crc32": "2e9a8555",
-      "sha1": "f84230407be7b4419a98372bdf39cb3fc504187c",
+      "mtime": "1662254253",
+      "size": "2236416",
+      "md5": "1e73352f34fa6dc8c5cebdfc90abc415",
+      "crc32": "c9f318d1",
+      "sha1": "db2b0a4c57eb2c8f5060a905f80fddc2f22238a2",
       "format": "Metadata"
     },
     {
@@ -19578,9 +19827,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1873,
-  "item_last_updated": 1662124262,
-  "item_size": 224922077,
+  "files_count": 1897,
+  "item_last_updated": 1662254361,
+  "item_size": 227254164,
   "metadata": {
     "identifier": "thesun-2022",
     "collection": [
@@ -19597,10 +19846,21 @@
     "publicdate": "2022-03-23 08:04:03",
     "addeddate": "2022-03-23 08:04:03"
   },
-  "server": "ia802508.us.archive.org",
-  "uniq": 1006865930,
+  "pending_tasks": true,
+  "server": "ia902508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3393505793,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1216594944,
   "workable_servers": [
-    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }
