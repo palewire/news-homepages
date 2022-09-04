@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 167 screenshots with the Internet Archive.
+The archiving routine has saved 173 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T16:01:21.513575+01:00.jpg">
-  <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T16:01:21.513575+01:00.jpg"
-     alt="Daily Mirror at 2022-08-31 16:01:30+01:00 local time"
+ <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-09-02T16:02:12.939410+01:00.jpg">
+  <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-09-02T16:02:12.939410+01:00.jpg"
+     alt="Daily Mirror at 2022-09-02 09:02:35+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T16:01:21.513575+01:00.jpg">August 31 at 4:01 PM</a></p>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-09-02T16:02:12.939410+01:00.jpg">September 2 at 9:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-09-02T10:19:21.596663+01:00.jpg">
+  <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-09-02T10:19:21.596663+01:00.jpg"
+     alt="Daily Mirror at 2022-09-02 03:19:39+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-09-02T10:19:21.596663+01:00.jpg">September 2 at 3:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-09-02T03:32:10.134320+01:00.jpg">
+  <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-09-02T03:32:10.134320+01:00.jpg"
+     alt="Daily Mirror at 2022-09-01 20:32:27+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-09-02T03:32:10.134320+01:00.jpg">September 1 at 8:32 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-09-01T16:13:06.394746+01:00.jpg">
+  <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-09-01T16:13:06.394746+01:00.jpg"
+     alt="Daily Mirror at 2022-09-01 09:13:23+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-09-01T16:13:06.394746+01:00.jpg">September 1 at 9:13 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-09-01T10:19:25.463855+01:00.jpg">
+  <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-09-01T10:19:25.463855+01:00.jpg"
+     alt="Daily Mirror at 2022-09-01 03:19:32+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-09-01T10:19:25.463855+01:00.jpg">September 1 at 3:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-09-01T03:29:28.636447+01:00.jpg">
+  <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-09-01T03:29:28.636447+01:00.jpg"
+     alt="Daily Mirror at 2022-08-31 20:29:30+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-09-01T03:29:28.636447+01:00.jpg">August 31 at 8:29 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T16:01:21.513575+01:00.jpg">
+  <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T16:01:21.513575+01:00.jpg"
+     alt="Daily Mirror at 2022-08-31 09:01:30+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T16:01:21.513575+01:00.jpg">August 31 at 9:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T10:18:55.282703+01:00.jpg">
   <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T10:18:55.282703+01:00.jpg"
-     alt="Daily Mirror at 2022-08-31 10:19:00+01:00 local time"
+     alt="Daily Mirror at 2022-08-31 03:19:00+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T10:18:55.282703+01:00.jpg">August 31 at 10:19 AM</a></p>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T10:18:55.282703+01:00.jpg">August 31 at 3:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T03:26:39.286005+01:00.jpg">
   <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T03:26:39.286005+01:00.jpg"
-     alt="Daily Mirror at 2022-08-31 03:26:52+01:00 local time"
+     alt="Daily Mirror at 2022-08-30 20:26:52+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T03:26:39.286005+01:00.jpg">August 31 at 3:26 AM</a></p>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T03:26:39.286005+01:00.jpg">August 30 at 8:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-30T16:22:14.586196+01:00.jpg">
   <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-30T16:22:14.586196+01:00.jpg"
-     alt="Daily Mirror at 2022-08-30 16:22:29+01:00 local time"
+     alt="Daily Mirror at 2022-08-30 09:22:29+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-30T16:22:14.586196+01:00.jpg">August 30 at 4:22 PM</a></p>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-30T16:22:14.586196+01:00.jpg">August 30 at 9:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-30T10:18:34.899224+01:00.jpg">
   <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-30T10:18:34.899224+01:00.jpg"
-     alt="Daily Mirror at 2022-08-30 10:18:39+01:00 local time"
+     alt="Daily Mirror at 2022-08-30 03:18:39+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-30T10:18:34.899224+01:00.jpg">August 30 at 10:18 AM</a></p>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-30T10:18:34.899224+01:00.jpg">August 30 at 3:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-30T03:30:03.587658+01:00.jpg">
   <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-30T03:30:03.587658+01:00.jpg"
-     alt="Daily Mirror at 2022-08-30 03:30:10+01:00 local time"
+     alt="Daily Mirror at 2022-08-29 20:30:10+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-30T03:30:03.587658+01:00.jpg">August 30 at 3:30 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-29T15:09:15.097893+01:00.jpg">
-  <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-29T15:09:15.097893+01:00.jpg"
-     alt="Daily Mirror at 2022-08-29 15:09:16+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-29T15:09:15.097893+01:00.jpg">August 29 at 3:09 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-29T10:16:09.858899+01:00.jpg">
-  <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-29T10:16:09.858899+01:00.jpg"
-     alt="Daily Mirror at 2022-08-29 10:16:16+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-29T10:16:09.858899+01:00.jpg">August 29 at 10:16 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-29T03:26:20.174805+01:00.jpg">
-  <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-29T03:26:20.174805+01:00.jpg"
-     alt="Daily Mirror at 2022-08-29 03:26:22+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-29T03:26:20.174805+01:00.jpg">August 29 at 3:26 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-28T15:03:20.637470+01:00.jpg">
-  <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-28T15:03:20.637470+01:00.jpg"
-     alt="Daily Mirror at 2022-08-28 15:03:25+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-28T15:03:20.637470+01:00.jpg">August 28 at 3:03 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-28T10:17:54.060368+01:00.jpg">
-  <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-28T10:17:54.060368+01:00.jpg"
-     alt="Daily Mirror at 2022-08-28 10:17:58+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-28T10:17:54.060368+01:00.jpg">August 28 at 10:17 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-28T03:27:44.106648+01:00.jpg">
-  <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-28T03:27:44.106648+01:00.jpg"
-     alt="Daily Mirror at 2022-08-28 03:27:46+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-28T03:27:44.106648+01:00.jpg">August 28 at 3:27 AM</a></p>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-30T03:30:03.587658+01:00.jpg">August 29 at 8:30 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 164 hyperlink lists with the Internet Archive.
+The archiving routine has saved 170 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 31 at 4:01 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T16:01:21.513575+01:00.hyperlinks.json) |
-| [August 31 at 10:19 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T10:18:55.282703+01:00.hyperlinks.json) |
-| [August 31 at 3:26 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T03:26:39.286005+01:00.hyperlinks.json) |
-| [August 30 at 4:22 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-30T16:22:14.586196+01:00.hyperlinks.json) |
-| [August 30 at 10:18 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-30T10:18:34.899224+01:00.hyperlinks.json) |
-| [August 30 at 3:30 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-30T03:30:03.587658+01:00.hyperlinks.json) |
-| [August 29 at 3:09 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-29T15:09:15.097893+01:00.hyperlinks.json) |
-| [August 29 at 10:16 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-29T10:16:09.858899+01:00.hyperlinks.json) |
-| [August 29 at 3:26 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-29T03:26:20.174805+01:00.hyperlinks.json) |
-| [August 28 at 3:03 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-28T15:03:20.637470+01:00.hyperlinks.json) |
+| [September 2 at 9:02 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-09-02T16:02:12.939410+01:00.hyperlinks.json) |
+| [September 2 at 3:19 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-09-02T10:19:21.596663+01:00.hyperlinks.json) |
+| [September 1 at 8:32 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-09-02T03:32:10.134320+01:00.hyperlinks.json) |
+| [September 1 at 9:13 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-09-01T16:13:06.394746+01:00.hyperlinks.json) |
+| [September 1 at 3:19 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-09-01T10:19:25.463855+01:00.hyperlinks.json) |
+| [August 31 at 8:29 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-09-01T03:29:28.636447+01:00.hyperlinks.json) |
+| [August 31 at 9:01 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T16:01:21.513575+01:00.hyperlinks.json) |
+| [August 31 at 3:19 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T10:18:55.282703+01:00.hyperlinks.json) |
+| [August 30 at 8:26 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T03:26:39.286005+01:00.hyperlinks.json) |
+| [August 30 at 9:22 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-30T16:22:14.586196+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 167 accessibility trees with the Internet Archive.
+The archiving routine has saved 173 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 31 at 4:01 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T16:01:21.513575+01:00.accessibility.json) |
-| [August 31 at 10:19 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T10:18:55.282703+01:00.accessibility.json) |
-| [August 31 at 3:26 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T03:26:39.286005+01:00.accessibility.json) |
-| [August 30 at 4:22 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-30T16:22:14.586196+01:00.accessibility.json) |
-| [August 30 at 10:18 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-30T10:18:34.899224+01:00.accessibility.json) |
-| [August 30 at 3:30 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-30T03:30:03.587658+01:00.accessibility.json) |
-| [August 29 at 3:09 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-29T15:09:15.097893+01:00.accessibility.json) |
-| [August 29 at 10:16 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-29T10:16:09.858899+01:00.accessibility.json) |
-| [August 29 at 3:26 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-29T03:26:20.174805+01:00.accessibility.json) |
-| [August 28 at 3:03 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-28T15:03:20.637470+01:00.accessibility.json) |
+| [September 2 at 9:02 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-09-02T16:02:12.939410+01:00.accessibility.json) |
+| [September 2 at 3:19 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-09-02T10:19:21.596663+01:00.accessibility.json) |
+| [September 1 at 8:32 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-09-02T03:32:10.134320+01:00.accessibility.json) |
+| [September 1 at 9:13 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-09-01T16:13:06.394746+01:00.accessibility.json) |
+| [September 1 at 3:19 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-09-01T10:19:25.463855+01:00.accessibility.json) |
+| [August 31 at 8:29 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-09-01T03:29:28.636447+01:00.accessibility.json) |
+| [August 31 at 9:01 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T16:01:21.513575+01:00.accessibility.json) |
+| [August 31 at 3:19 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T10:18:55.282703+01:00.accessibility.json) |
+| [August 30 at 8:26 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T03:26:39.286005+01:00.accessibility.json) |
+| [August 30 at 9:22 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-30T16:22:14.586196+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 114 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 120 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 31 at 4:01 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T16:01:21.513575+01:00.lighthouse.json) |
-| [August 31 at 10:19 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T10:18:55.282703+01:00.lighthouse.json) |
-| [August 31 at 3:26 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T03:26:39.286005+01:00.lighthouse.json) |
-| [August 30 at 4:22 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-30T16:22:14.586196+01:00.lighthouse.json) |
-| [August 30 at 10:18 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-30T10:18:34.899224+01:00.lighthouse.json) |
-| [August 30 at 3:30 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-30T03:30:03.587658+01:00.lighthouse.json) |
-| [August 29 at 3:09 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-29T15:09:15.097893+01:00.lighthouse.json) |
-| [August 29 at 10:16 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-29T10:16:09.858899+01:00.lighthouse.json) |
-| [August 29 at 3:26 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-29T03:26:20.174805+01:00.lighthouse.json) |
-| [August 28 at 3:03 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-28T15:03:20.637470+01:00.lighthouse.json) |
+| [September 2 at 9:02 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-09-02T16:02:12.939410+01:00.lighthouse.json) |
+| [September 2 at 3:19 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-09-02T10:19:21.596663+01:00.lighthouse.json) |
+| [September 1 at 8:32 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-09-02T03:32:10.134320+01:00.lighthouse.json) |
+| [September 1 at 9:13 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-09-01T16:13:06.394746+01:00.lighthouse.json) |
+| [September 1 at 3:19 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-09-01T10:19:25.463855+01:00.lighthouse.json) |
+| [August 31 at 8:29 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-09-01T03:29:28.636447+01:00.lighthouse.json) |
+| [August 31 at 9:01 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T16:01:21.513575+01:00.lighthouse.json) |
+| [August 31 at 3:19 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T10:18:55.282703+01:00.lighthouse.json) |
+| [August 30 at 8:26 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-31T03:26:39.286005+01:00.lighthouse.json) |
+| [August 30 at 9:22 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-30T16:22:14.586196+01:00.lighthouse.json) |
 
 
 

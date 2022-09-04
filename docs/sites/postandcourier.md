@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 151 screenshots with the Internet Archive.
+The archiving routine has saved 155 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-31T12:09:24.126629-04:00.jpg">
-  <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-31T12:09:24.126629-04:00.jpg"
-     alt="Post and Courier at 2022-08-31 12:09:35-04:00 local time"
+ <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-09-02T12:13:53.005078-04:00.jpg">
+  <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-09-02T12:13:53.005078-04:00.jpg"
+     alt="Post and Courier at 2022-09-02 05:14:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-31T12:09:24.126629-04:00.jpg">August 31 at 12:09 PM</a></p>
+ <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-09-02T12:13:53.005078-04:00.jpg">September 2 at 5:14 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-09-02T00:45:37.012846-04:00.jpg">
+  <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-09-02T00:45:37.012846-04:00.jpg"
+     alt="Post and Courier at 2022-09-01 17:45:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-09-02T00:45:37.012846-04:00.jpg">September 1 at 5:45 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-09-01T12:37:15.261145-04:00.jpg">
+  <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-09-01T12:37:15.261145-04:00.jpg"
+     alt="Post and Courier at 2022-09-01 05:37:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-09-01T12:37:15.261145-04:00.jpg">September 1 at 5:37 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-09-01T00:40:58.984362-04:00.jpg">
+  <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-09-01T00:40:58.984362-04:00.jpg"
+     alt="Post and Courier at 2022-08-31 17:41:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-09-01T00:40:58.984362-04:00.jpg">August 31 at 5:41 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-31T12:09:24.126629-04:00.jpg">
+  <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-31T12:09:24.126629-04:00.jpg"
+     alt="Post and Courier at 2022-08-31 05:09:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-31T12:09:24.126629-04:00.jpg">August 31 at 5:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-31T00:49:22.305388-04:00.jpg">
   <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-31T00:49:22.305388-04:00.jpg"
-     alt="Post and Courier at 2022-08-31 00:49:23-04:00 local time"
+     alt="Post and Courier at 2022-08-30 17:49:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-31T00:49:22.305388-04:00.jpg">August 31 at 12:49 AM</a></p>
+ <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-31T00:49:22.305388-04:00.jpg">August 30 at 5:49 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-30T12:33:06.682330-04:00.jpg">
   <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-30T12:33:06.682330-04:00.jpg"
-     alt="Post and Courier at 2022-08-30 12:33:08-04:00 local time"
+     alt="Post and Courier at 2022-08-30 05:33:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-30T12:33:06.682330-04:00.jpg">August 30 at 12:33 PM</a></p>
+ <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-30T12:33:06.682330-04:00.jpg">August 30 at 5:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-30T00:53:54.851920-04:00.jpg">
   <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-30T00:53:54.851920-04:00.jpg"
-     alt="Post and Courier at 2022-08-30 00:53:56-04:00 local time"
+     alt="Post and Courier at 2022-08-29 17:53:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-30T00:53:54.851920-04:00.jpg">August 30 at 12:53 AM</a></p>
+ <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-30T00:53:54.851920-04:00.jpg">August 29 at 5:53 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-29T12:14:23.207269-04:00.jpg">
   <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-29T12:14:23.207269-04:00.jpg"
-     alt="Post and Courier at 2022-08-29 12:14:29-04:00 local time"
+     alt="Post and Courier at 2022-08-29 05:14:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-29T12:14:23.207269-04:00.jpg">August 29 at 12:14 PM</a></p>
+ <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-29T12:14:23.207269-04:00.jpg">August 29 at 5:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-29T00:38:43.585889-04:00.jpg">
   <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-29T00:38:43.585889-04:00.jpg"
-     alt="Post and Courier at 2022-08-29 00:38:45-04:00 local time"
+     alt="Post and Courier at 2022-08-28 17:38:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-29T00:38:43.585889-04:00.jpg">August 29 at 12:38 AM</a></p>
+ <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-29T00:38:43.585889-04:00.jpg">August 28 at 5:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-28T12:00:41.863206-04:00.jpg">
   <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-28T12:00:41.863206-04:00.jpg"
-     alt="Post and Courier at 2022-08-28 12:00:44-04:00 local time"
+     alt="Post and Courier at 2022-08-28 05:00:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-28T12:00:41.863206-04:00.jpg">August 28 at 12:00 PM</a></p>
+ <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-28T12:00:41.863206-04:00.jpg">August 28 at 5:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-28T00:35:02.598922-04:00.jpg">
   <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-28T00:35:02.598922-04:00.jpg"
-     alt="Post and Courier at 2022-08-28 00:35:04-04:00 local time"
+     alt="Post and Courier at 2022-08-27 17:35:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-28T00:35:02.598922-04:00.jpg">August 28 at 12:35 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-27T11:56:51.432440-04:00.jpg">
-  <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-27T11:56:51.432440-04:00.jpg"
-     alt="Post and Courier at 2022-08-27 11:56:56-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-27T11:56:51.432440-04:00.jpg">August 27 at 11:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-27T00:35:59.290171-04:00.jpg">
-  <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-27T00:35:59.290171-04:00.jpg"
-     alt="Post and Courier at 2022-08-27 00:36:03-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-27T00:35:59.290171-04:00.jpg">August 27 at 12:36 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-26T12:04:16.717600-04:00.jpg">
-  <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-26T12:04:16.717600-04:00.jpg"
-     alt="Post and Courier at 2022-08-26 12:04:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-26T12:04:16.717600-04:00.jpg">August 26 at 12:04 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-26T00:40:33.894265-04:00.jpg">
-  <img src="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-26T00:40:33.894265-04:00.jpg"
-     alt="Post and Courier at 2022-08-26 00:40:36-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-26T00:40:33.894265-04:00.jpg">August 26 at 12:40 AM</a></p>
+ <p><a href="https://archive.org/download/postandcourier-2022/postandcourier-2022-08-28T00:35:02.598922-04:00.jpg">August 27 at 5:35 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 152 hyperlink lists with the Internet Archive.
+The archiving routine has saved 156 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 31 at 12:09 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-31T12:09:24.126629-04:00.hyperlinks.json) |
-| [August 31 at 12:49 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-31T00:49:22.305388-04:00.hyperlinks.json) |
-| [August 30 at 12:33 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-30T12:33:06.682330-04:00.hyperlinks.json) |
-| [August 30 at 12:54 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-30T00:53:54.851920-04:00.hyperlinks.json) |
-| [August 29 at 12:14 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-29T12:14:23.207269-04:00.hyperlinks.json) |
-| [August 29 at 12:38 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-29T00:38:43.585889-04:00.hyperlinks.json) |
-| [August 28 at 12:00 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-28T12:00:41.863206-04:00.hyperlinks.json) |
-| [August 28 at 12:35 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-28T00:35:02.598922-04:00.hyperlinks.json) |
-| [August 27 at 11:56 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-27T11:56:51.432440-04:00.hyperlinks.json) |
-| [August 27 at 12:36 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-27T00:35:59.290171-04:00.hyperlinks.json) |
+| [September 2 at 5:14 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-09-02T12:13:53.005078-04:00.hyperlinks.json) |
+| [September 1 at 5:45 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-09-02T00:45:37.012846-04:00.hyperlinks.json) |
+| [September 1 at 5:37 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-09-01T12:37:15.261145-04:00.hyperlinks.json) |
+| [August 31 at 5:41 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-09-01T00:40:58.984362-04:00.hyperlinks.json) |
+| [August 31 at 5:09 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-31T12:09:24.126629-04:00.hyperlinks.json) |
+| [August 30 at 5:49 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-31T00:49:22.305388-04:00.hyperlinks.json) |
+| [August 30 at 5:33 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-30T12:33:06.682330-04:00.hyperlinks.json) |
+| [August 29 at 5:54 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-30T00:53:54.851920-04:00.hyperlinks.json) |
+| [August 29 at 5:14 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-29T12:14:23.207269-04:00.hyperlinks.json) |
+| [August 28 at 5:38 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-29T00:38:43.585889-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 152 accessibility trees with the Internet Archive.
+The archiving routine has saved 156 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 31 at 12:09 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-31T12:09:24.126629-04:00.accessibility.json) |
-| [August 31 at 12:49 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-31T00:49:22.305388-04:00.accessibility.json) |
-| [August 30 at 12:33 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-30T12:33:06.682330-04:00.accessibility.json) |
-| [August 30 at 12:53 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-30T00:53:54.851920-04:00.accessibility.json) |
-| [August 29 at 12:14 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-29T12:14:23.207269-04:00.accessibility.json) |
-| [August 29 at 12:38 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-29T00:38:43.585889-04:00.accessibility.json) |
-| [August 28 at 12:00 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-28T12:00:41.863206-04:00.accessibility.json) |
-| [August 28 at 12:35 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-28T00:35:02.598922-04:00.accessibility.json) |
-| [August 27 at 11:56 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-27T11:56:51.432440-04:00.accessibility.json) |
-| [August 27 at 12:36 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-27T00:35:59.290171-04:00.accessibility.json) |
+| [September 2 at 5:14 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-09-02T12:13:53.005078-04:00.accessibility.json) |
+| [September 1 at 5:45 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-09-02T00:45:37.012846-04:00.accessibility.json) |
+| [September 1 at 5:37 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-09-01T12:37:15.261145-04:00.accessibility.json) |
+| [August 31 at 5:41 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-09-01T00:40:58.984362-04:00.accessibility.json) |
+| [August 31 at 5:09 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-31T12:09:24.126629-04:00.accessibility.json) |
+| [August 30 at 5:49 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-31T00:49:22.305388-04:00.accessibility.json) |
+| [August 30 at 5:33 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-30T12:33:06.682330-04:00.accessibility.json) |
+| [August 29 at 5:53 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-30T00:53:54.851920-04:00.accessibility.json) |
+| [August 29 at 5:14 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-29T12:14:23.207269-04:00.accessibility.json) |
+| [August 28 at 5:38 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-29T00:38:43.585889-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 77 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 80 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 31 at 12:09 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-31T12:09:24.126629-04:00.lighthouse.json) |
-| [August 31 at 12:49 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-31T00:49:22.305388-04:00.lighthouse.json) |
-| [August 30 at 12:33 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-30T12:33:06.682330-04:00.lighthouse.json) |
-| [August 30 at 12:54 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-30T00:53:54.851920-04:00.lighthouse.json) |
-| [August 29 at 12:14 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-29T12:14:23.207269-04:00.lighthouse.json) |
-| [August 29 at 12:38 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-29T00:38:43.585889-04:00.lighthouse.json) |
-| [August 28 at 12:00 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-28T12:00:41.863206-04:00.lighthouse.json) |
-| [August 28 at 12:35 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-28T00:35:02.598922-04:00.lighthouse.json) |
-| [August 27 at 11:57 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-27T11:56:51.432440-04:00.lighthouse.json) |
-| [August 27 at 12:36 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-27T00:35:59.290171-04:00.lighthouse.json) |
+| [September 2 at 5:14 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-09-02T12:13:53.005078-04:00.lighthouse.json) |
+| [September 1 at 5:45 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-09-02T00:45:37.012846-04:00.lighthouse.json) |
+| [August 31 at 5:41 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-09-01T00:40:58.984362-04:00.lighthouse.json) |
+| [August 31 at 5:09 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-31T12:09:24.126629-04:00.lighthouse.json) |
+| [August 30 at 5:49 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-31T00:49:22.305388-04:00.lighthouse.json) |
+| [August 30 at 5:33 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-30T12:33:06.682330-04:00.lighthouse.json) |
+| [August 29 at 5:54 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-30T00:53:54.851920-04:00.lighthouse.json) |
+| [August 29 at 5:14 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-29T12:14:23.207269-04:00.lighthouse.json) |
+| [August 28 at 5:38 PM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-29T00:38:43.585889-04:00.lighthouse.json) |
+| [August 28 at 5:00 AM](https://archive.org/download/postandcourier-2022/postandcourier-2022-08-28T12:00:41.863206-04:00.lighthouse.json) |
 
 
 

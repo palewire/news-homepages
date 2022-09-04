@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 194 screenshots with the Internet Archive.
+The archiving routine has saved 199 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-31T11:17:08.719070-05:00.jpg">
-  <img src="https://archive.org/download/sltimes-2022/sltimes-2022-08-31T11:17:08.719070-05:00.jpg"
-     alt="Storm Lake Times at 2022-08-31 11:17:10-05:00 local time"
+ <a href="https://archive.org/download/sltimes-2022/sltimes-2022-09-02T11:13:26.215437-05:00.jpg">
+  <img src="https://archive.org/download/sltimes-2022/sltimes-2022-09-02T11:13:26.215437-05:00.jpg"
+     alt="Storm Lake Times at 2022-09-02 04:13:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-31T11:17:08.719070-05:00.jpg">August 31 at 11:17 AM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-09-02T11:13:26.215437-05:00.jpg">September 2 at 4:13 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sltimes-2022/sltimes-2022-09-02T08:06:21.290699-05:00.jpg">
+  <img src="https://archive.org/download/sltimes-2022/sltimes-2022-09-02T08:06:21.290699-05:00.jpg"
+     alt="Storm Lake Times at 2022-09-02 01:06:26-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-09-02T08:06:21.290699-05:00.jpg">September 2 at 1:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sltimes-2022/sltimes-2022-09-01T20:17:50.738426-05:00.jpg">
+  <img src="https://archive.org/download/sltimes-2022/sltimes-2022-09-01T20:17:50.738426-05:00.jpg"
+     alt="Storm Lake Times at 2022-09-01 13:18:01-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-09-01T20:17:50.738426-05:00.jpg">September 1 at 1:18 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sltimes-2022/sltimes-2022-09-01T08:13:19.199865-05:00.jpg">
+  <img src="https://archive.org/download/sltimes-2022/sltimes-2022-09-01T08:13:19.199865-05:00.jpg"
+     alt="Storm Lake Times at 2022-09-01 01:13:27-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-09-01T08:13:19.199865-05:00.jpg">September 1 at 1:13 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-31T20:15:04.570888-05:00.jpg">
+  <img src="https://archive.org/download/sltimes-2022/sltimes-2022-08-31T20:15:04.570888-05:00.jpg"
+     alt="Storm Lake Times at 2022-08-31 13:15:06-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-31T20:15:04.570888-05:00.jpg">August 31 at 1:15 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-31T11:17:08.719070-05:00.jpg">
+  <img src="https://archive.org/download/sltimes-2022/sltimes-2022-08-31T11:17:08.719070-05:00.jpg"
+     alt="Storm Lake Times at 2022-08-31 04:17:10-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-31T11:17:08.719070-05:00.jpg">August 31 at 4:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-31T08:12:48.897687-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-08-31T08:12:48.897687-05:00.jpg"
-     alt="Storm Lake Times at 2022-08-31 08:13:00-05:00 local time"
+     alt="Storm Lake Times at 2022-08-31 01:13:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-31T08:12:48.897687-05:00.jpg">August 31 at 8:13 AM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-31T08:12:48.897687-05:00.jpg">August 31 at 1:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-30T20:26:37.761486-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-08-30T20:26:37.761486-05:00.jpg"
-     alt="Storm Lake Times at 2022-08-30 20:26:38-05:00 local time"
+     alt="Storm Lake Times at 2022-08-30 13:26:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-30T20:26:37.761486-05:00.jpg">August 30 at 8:26 PM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-30T20:26:37.761486-05:00.jpg">August 30 at 1:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-30T08:11:03.096273-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-08-30T08:11:03.096273-05:00.jpg"
-     alt="Storm Lake Times at 2022-08-30 08:11:09-05:00 local time"
+     alt="Storm Lake Times at 2022-08-30 01:11:09-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-30T08:11:03.096273-05:00.jpg">August 30 at 8:11 AM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-30T08:11:03.096273-05:00.jpg">August 30 at 1:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-29T20:16:58.420631-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-08-29T20:16:58.420631-05:00.jpg"
-     alt="Storm Lake Times at 2022-08-29 20:17:00-05:00 local time"
+     alt="Storm Lake Times at 2022-08-29 13:17:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-29T20:16:58.420631-05:00.jpg">August 29 at 8:17 PM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-29T20:16:58.420631-05:00.jpg">August 29 at 1:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-29T11:21:47.103018-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-08-29T11:21:47.103018-05:00.jpg"
-     alt="Storm Lake Times at 2022-08-29 11:21:51-05:00 local time"
+     alt="Storm Lake Times at 2022-08-29 04:21:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-29T11:21:47.103018-05:00.jpg">August 29 at 11:21 AM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-29T11:21:47.103018-05:00.jpg">August 29 at 4:21 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-29T08:01:26.404604-05:00.jpg">
   <img src="https://archive.org/download/sltimes-2022/sltimes-2022-08-29T08:01:26.404604-05:00.jpg"
-     alt="Storm Lake Times at 2022-08-29 08:01:30-05:00 local time"
+     alt="Storm Lake Times at 2022-08-29 01:01:30-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-29T08:01:26.404604-05:00.jpg">August 29 at 8:01 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-28T20:16:09.421477-05:00.jpg">
-  <img src="https://archive.org/download/sltimes-2022/sltimes-2022-08-28T20:16:09.421477-05:00.jpg"
-     alt="Storm Lake Times at 2022-08-28 20:16:11-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-28T20:16:09.421477-05:00.jpg">August 28 at 8:16 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-28T08:01:08.980047-05:00.jpg">
-  <img src="https://archive.org/download/sltimes-2022/sltimes-2022-08-28T08:01:08.980047-05:00.jpg"
-     alt="Storm Lake Times at 2022-08-28 08:01:13-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-28T08:01:08.980047-05:00.jpg">August 28 at 8:01 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-27T20:28:29.849837-05:00.jpg">
-  <img src="https://archive.org/download/sltimes-2022/sltimes-2022-08-27T20:28:29.849837-05:00.jpg"
-     alt="Storm Lake Times at 2022-08-27 20:28:31-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-27T20:28:29.849837-05:00.jpg">August 27 at 8:28 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-27T07:57:47.594336-05:00.jpg">
-  <img src="https://archive.org/download/sltimes-2022/sltimes-2022-08-27T07:57:47.594336-05:00.jpg"
-     alt="Storm Lake Times at 2022-08-27 07:57:51-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-27T07:57:47.594336-05:00.jpg">August 27 at 7:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-26T20:08:19.726168-05:00.jpg">
-  <img src="https://archive.org/download/sltimes-2022/sltimes-2022-08-26T20:08:19.726168-05:00.jpg"
-     alt="Storm Lake Times at 2022-08-26 20:08:21-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-26T20:08:19.726168-05:00.jpg">August 26 at 8:08 PM</a></p>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-08-29T08:01:26.404604-05:00.jpg">August 29 at 1:01 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 197 hyperlink lists with the Internet Archive.
+The archiving routine has saved 202 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 31 at 11:17 AM](https://archive.org/download/sltimes-2022/sltimes-2022-08-31T11:17:08.719070-05:00.hyperlinks.json) |
-| [August 31 at 8:13 AM](https://archive.org/download/sltimes-2022/sltimes-2022-08-31T08:12:48.897687-05:00.hyperlinks.json) |
-| [August 30 at 8:26 PM](https://archive.org/download/sltimes-2022/sltimes-2022-08-30T20:26:37.761486-05:00.hyperlinks.json) |
-| [August 30 at 8:11 AM](https://archive.org/download/sltimes-2022/sltimes-2022-08-30T08:11:03.096273-05:00.hyperlinks.json) |
-| [August 29 at 8:17 PM](https://archive.org/download/sltimes-2022/sltimes-2022-08-29T20:16:58.420631-05:00.hyperlinks.json) |
-| [August 29 at 11:21 AM](https://archive.org/download/sltimes-2022/sltimes-2022-08-29T11:21:47.103018-05:00.hyperlinks.json) |
-| [August 29 at 8:01 AM](https://archive.org/download/sltimes-2022/sltimes-2022-08-29T08:01:26.404604-05:00.hyperlinks.json) |
-| [August 28 at 8:16 PM](https://archive.org/download/sltimes-2022/sltimes-2022-08-28T20:16:09.421477-05:00.hyperlinks.json) |
-| [August 28 at 8:01 AM](https://archive.org/download/sltimes-2022/sltimes-2022-08-28T08:01:08.980047-05:00.hyperlinks.json) |
-| [August 27 at 8:28 PM](https://archive.org/download/sltimes-2022/sltimes-2022-08-27T20:28:29.849837-05:00.hyperlinks.json) |
+| [September 2 at 4:13 AM](https://archive.org/download/sltimes-2022/sltimes-2022-09-02T11:13:26.215437-05:00.hyperlinks.json) |
+| [September 2 at 1:06 AM](https://archive.org/download/sltimes-2022/sltimes-2022-09-02T08:06:21.290699-05:00.hyperlinks.json) |
+| [September 1 at 1:18 PM](https://archive.org/download/sltimes-2022/sltimes-2022-09-01T20:17:50.738426-05:00.hyperlinks.json) |
+| [September 1 at 1:13 AM](https://archive.org/download/sltimes-2022/sltimes-2022-09-01T08:13:19.199865-05:00.hyperlinks.json) |
+| [August 31 at 1:15 PM](https://archive.org/download/sltimes-2022/sltimes-2022-08-31T20:15:04.570888-05:00.hyperlinks.json) |
+| [August 31 at 4:17 AM](https://archive.org/download/sltimes-2022/sltimes-2022-08-31T11:17:08.719070-05:00.hyperlinks.json) |
+| [August 31 at 1:13 AM](https://archive.org/download/sltimes-2022/sltimes-2022-08-31T08:12:48.897687-05:00.hyperlinks.json) |
+| [August 30 at 1:26 PM](https://archive.org/download/sltimes-2022/sltimes-2022-08-30T20:26:37.761486-05:00.hyperlinks.json) |
+| [August 30 at 1:11 AM](https://archive.org/download/sltimes-2022/sltimes-2022-08-30T08:11:03.096273-05:00.hyperlinks.json) |
+| [August 29 at 1:17 PM](https://archive.org/download/sltimes-2022/sltimes-2022-08-29T20:16:58.420631-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 197 accessibility trees with the Internet Archive.
+The archiving routine has saved 202 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 31 at 11:17 AM](https://archive.org/download/sltimes-2022/sltimes-2022-08-31T11:17:08.719070-05:00.accessibility.json) |
-| [August 31 at 8:13 AM](https://archive.org/download/sltimes-2022/sltimes-2022-08-31T08:12:48.897687-05:00.accessibility.json) |
-| [August 30 at 8:26 PM](https://archive.org/download/sltimes-2022/sltimes-2022-08-30T20:26:37.761486-05:00.accessibility.json) |
-| [August 30 at 8:11 AM](https://archive.org/download/sltimes-2022/sltimes-2022-08-30T08:11:03.096273-05:00.accessibility.json) |
-| [August 29 at 8:17 PM](https://archive.org/download/sltimes-2022/sltimes-2022-08-29T20:16:58.420631-05:00.accessibility.json) |
-| [August 29 at 11:21 AM](https://archive.org/download/sltimes-2022/sltimes-2022-08-29T11:21:47.103018-05:00.accessibility.json) |
-| [August 29 at 8:01 AM](https://archive.org/download/sltimes-2022/sltimes-2022-08-29T08:01:26.404604-05:00.accessibility.json) |
-| [August 28 at 8:16 PM](https://archive.org/download/sltimes-2022/sltimes-2022-08-28T20:16:09.421477-05:00.accessibility.json) |
-| [August 28 at 8:01 AM](https://archive.org/download/sltimes-2022/sltimes-2022-08-28T08:01:08.980047-05:00.accessibility.json) |
-| [August 27 at 8:28 PM](https://archive.org/download/sltimes-2022/sltimes-2022-08-27T20:28:29.849837-05:00.accessibility.json) |
+| [September 2 at 4:13 AM](https://archive.org/download/sltimes-2022/sltimes-2022-09-02T11:13:26.215437-05:00.accessibility.json) |
+| [September 2 at 1:06 AM](https://archive.org/download/sltimes-2022/sltimes-2022-09-02T08:06:21.290699-05:00.accessibility.json) |
+| [September 1 at 1:18 PM](https://archive.org/download/sltimes-2022/sltimes-2022-09-01T20:17:50.738426-05:00.accessibility.json) |
+| [September 1 at 1:13 AM](https://archive.org/download/sltimes-2022/sltimes-2022-09-01T08:13:19.199865-05:00.accessibility.json) |
+| [August 31 at 1:15 PM](https://archive.org/download/sltimes-2022/sltimes-2022-08-31T20:15:04.570888-05:00.accessibility.json) |
+| [August 31 at 4:17 AM](https://archive.org/download/sltimes-2022/sltimes-2022-08-31T11:17:08.719070-05:00.accessibility.json) |
+| [August 31 at 1:13 AM](https://archive.org/download/sltimes-2022/sltimes-2022-08-31T08:12:48.897687-05:00.accessibility.json) |
+| [August 30 at 1:26 PM](https://archive.org/download/sltimes-2022/sltimes-2022-08-30T20:26:37.761486-05:00.accessibility.json) |
+| [August 30 at 1:11 AM](https://archive.org/download/sltimes-2022/sltimes-2022-08-30T08:11:03.096273-05:00.accessibility.json) |
+| [August 29 at 1:17 PM](https://archive.org/download/sltimes-2022/sltimes-2022-08-29T20:16:58.420631-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 95 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 100 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 31 at 11:17 AM](https://archive.org/download/sltimes-2022/sltimes-2022-08-31T11:17:08.719070-05:00.lighthouse.json) |
-| [August 31 at 8:13 AM](https://archive.org/download/sltimes-2022/sltimes-2022-08-31T08:12:48.897687-05:00.lighthouse.json) |
-| [August 30 at 8:26 PM](https://archive.org/download/sltimes-2022/sltimes-2022-08-30T20:26:37.761486-05:00.lighthouse.json) |
-| [August 30 at 8:11 AM](https://archive.org/download/sltimes-2022/sltimes-2022-08-30T08:11:03.096273-05:00.lighthouse.json) |
-| [August 29 at 8:17 PM](https://archive.org/download/sltimes-2022/sltimes-2022-08-29T20:16:58.420631-05:00.lighthouse.json) |
-| [August 29 at 11:21 AM](https://archive.org/download/sltimes-2022/sltimes-2022-08-29T11:21:47.103018-05:00.lighthouse.json) |
-| [August 29 at 8:01 AM](https://archive.org/download/sltimes-2022/sltimes-2022-08-29T08:01:26.404604-05:00.lighthouse.json) |
-| [August 28 at 8:16 PM](https://archive.org/download/sltimes-2022/sltimes-2022-08-28T20:16:09.421477-05:00.lighthouse.json) |
-| [August 28 at 8:01 AM](https://archive.org/download/sltimes-2022/sltimes-2022-08-28T08:01:08.980047-05:00.lighthouse.json) |
-| [August 27 at 8:28 PM](https://archive.org/download/sltimes-2022/sltimes-2022-08-27T20:28:29.849837-05:00.lighthouse.json) |
+| [September 2 at 4:13 AM](https://archive.org/download/sltimes-2022/sltimes-2022-09-02T11:13:26.215437-05:00.lighthouse.json) |
+| [September 2 at 1:06 AM](https://archive.org/download/sltimes-2022/sltimes-2022-09-02T08:06:21.290699-05:00.lighthouse.json) |
+| [September 1 at 1:18 PM](https://archive.org/download/sltimes-2022/sltimes-2022-09-01T20:17:50.738426-05:00.lighthouse.json) |
+| [September 1 at 1:13 AM](https://archive.org/download/sltimes-2022/sltimes-2022-09-01T08:13:19.199865-05:00.lighthouse.json) |
+| [August 31 at 1:15 PM](https://archive.org/download/sltimes-2022/sltimes-2022-08-31T20:15:04.570888-05:00.lighthouse.json) |
+| [August 31 at 4:17 AM](https://archive.org/download/sltimes-2022/sltimes-2022-08-31T11:17:08.719070-05:00.lighthouse.json) |
+| [August 31 at 1:13 AM](https://archive.org/download/sltimes-2022/sltimes-2022-08-31T08:12:48.897687-05:00.lighthouse.json) |
+| [August 30 at 1:26 PM](https://archive.org/download/sltimes-2022/sltimes-2022-08-30T20:26:37.761486-05:00.lighthouse.json) |
+| [August 30 at 1:11 AM](https://archive.org/download/sltimes-2022/sltimes-2022-08-30T08:11:03.096273-05:00.lighthouse.json) |
+| [August 29 at 1:17 PM](https://archive.org/download/sltimes-2022/sltimes-2022-08-29T20:16:58.420631-05:00.lighthouse.json) |
 
 
 

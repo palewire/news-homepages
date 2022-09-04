@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 186 screenshots with the Internet Archive.
+The archiving routine has saved 190 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-31T19:53:56.805620-04:00.jpg">
-  <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-31T19:53:56.805620-04:00.jpg"
-     alt="Marshall Project at 2022-08-31 19:54:15-04:00 local time"
+ <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-09-02T20:01:43.899924-04:00.jpg">
+  <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-09-02T20:01:43.899924-04:00.jpg"
+     alt="Marshall Project at 2022-09-02 13:01:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-31T19:53:56.805620-04:00.jpg">August 31 at 7:54 PM</a></p>
+ <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-09-02T20:01:43.899924-04:00.jpg">September 2 at 1:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-09-02T08:04:46.420404-04:00.jpg">
+  <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-09-02T08:04:46.420404-04:00.jpg"
+     alt="Marshall Project at 2022-09-02 01:04:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-09-02T08:04:46.420404-04:00.jpg">September 2 at 1:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-09-01T20:01:03.093695-04:00.jpg">
+  <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-09-01T20:01:03.093695-04:00.jpg"
+     alt="Marshall Project at 2022-09-01 13:01:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-09-01T20:01:03.093695-04:00.jpg">September 1 at 1:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-09-01T08:13:35.645768-04:00.jpg">
+  <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-09-01T08:13:35.645768-04:00.jpg"
+     alt="Marshall Project at 2022-09-01 01:13:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-09-01T08:13:35.645768-04:00.jpg">September 1 at 1:13 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-31T19:53:56.805620-04:00.jpg">
+  <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-31T19:53:56.805620-04:00.jpg"
+     alt="Marshall Project at 2022-08-31 12:54:15-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-31T19:53:56.805620-04:00.jpg">August 31 at 12:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-31T09:05:49.146420-04:00.jpg">
   <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-31T09:05:49.146420-04:00.jpg"
-     alt="Marshall Project at 2022-08-31 09:06:05-04:00 local time"
+     alt="Marshall Project at 2022-08-31 02:06:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-31T09:05:49.146420-04:00.jpg">August 31 at 9:06 AM</a></p>
+ <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-31T09:05:49.146420-04:00.jpg">August 31 at 2:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-30T20:03:18.905215-04:00.jpg">
   <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-30T20:03:18.905215-04:00.jpg"
-     alt="Marshall Project at 2022-08-30 20:03:25-04:00 local time"
+     alt="Marshall Project at 2022-08-30 13:03:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-30T20:03:18.905215-04:00.jpg">August 30 at 8:03 PM</a></p>
+ <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-30T20:03:18.905215-04:00.jpg">August 30 at 1:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-30T08:12:11.909255-04:00.jpg">
   <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-30T08:12:11.909255-04:00.jpg"
-     alt="Marshall Project at 2022-08-30 08:12:19-04:00 local time"
+     alt="Marshall Project at 2022-08-30 01:12:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-30T08:12:11.909255-04:00.jpg">August 30 at 8:12 AM</a></p>
+ <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-30T08:12:11.909255-04:00.jpg">August 30 at 1:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-29T19:55:12.244232-04:00.jpg">
   <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-29T19:55:12.244232-04:00.jpg"
-     alt="Marshall Project at 2022-08-29 19:55:20-04:00 local time"
+     alt="Marshall Project at 2022-08-29 12:55:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-29T19:55:12.244232-04:00.jpg">August 29 at 7:55 PM</a></p>
+ <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-29T19:55:12.244232-04:00.jpg">August 29 at 12:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-29T07:59:55.215175-04:00.jpg">
   <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-29T07:59:55.215175-04:00.jpg"
-     alt="Marshall Project at 2022-08-29 08:00:01-04:00 local time"
+     alt="Marshall Project at 2022-08-29 01:00:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-29T07:59:55.215175-04:00.jpg">August 29 at 8:00 AM</a></p>
+ <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-29T07:59:55.215175-04:00.jpg">August 29 at 1:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-28T19:50:16.963073-04:00.jpg">
   <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-28T19:50:16.963073-04:00.jpg"
-     alt="Marshall Project at 2022-08-28 19:50:23-04:00 local time"
+     alt="Marshall Project at 2022-08-28 12:50:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-28T19:50:16.963073-04:00.jpg">August 28 at 7:50 PM</a></p>
+ <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-28T19:50:16.963073-04:00.jpg">August 28 at 12:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-28T08:02:06.818980-04:00.jpg">
   <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-28T08:02:06.818980-04:00.jpg"
-     alt="Marshall Project at 2022-08-28 08:02:13-04:00 local time"
+     alt="Marshall Project at 2022-08-28 01:02:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-28T08:02:06.818980-04:00.jpg">August 28 at 8:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-27T19:51:57.290140-04:00.jpg">
-  <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-27T19:51:57.290140-04:00.jpg"
-     alt="Marshall Project at 2022-08-27 19:52:13-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-27T19:51:57.290140-04:00.jpg">August 27 at 7:52 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-27T07:55:57.929849-04:00.jpg">
-  <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-27T07:55:57.929849-04:00.jpg"
-     alt="Marshall Project at 2022-08-27 07:56:10-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-27T07:55:57.929849-04:00.jpg">August 27 at 7:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-26T19:47:26.486683-04:00.jpg">
-  <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-26T19:47:26.486683-04:00.jpg"
-     alt="Marshall Project at 2022-08-26 19:47:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-26T19:47:26.486683-04:00.jpg">August 26 at 7:47 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-26T07:59:18.523688-04:00.jpg">
-  <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-26T07:59:18.523688-04:00.jpg"
-     alt="Marshall Project at 2022-08-26 07:59:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-26T07:59:18.523688-04:00.jpg">August 26 at 7:59 AM</a></p>
+ <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-08-28T08:02:06.818980-04:00.jpg">August 28 at 1:02 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 188 hyperlink lists with the Internet Archive.
+The archiving routine has saved 192 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 31 at 7:54 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-31T19:53:56.805620-04:00.hyperlinks.json) |
-| [August 31 at 9:06 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-31T09:05:49.146420-04:00.hyperlinks.json) |
-| [August 30 at 8:03 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-30T20:03:18.905215-04:00.hyperlinks.json) |
-| [August 30 at 8:12 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-30T08:12:11.909255-04:00.hyperlinks.json) |
-| [August 29 at 7:55 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-29T19:55:12.244232-04:00.hyperlinks.json) |
-| [August 29 at 8:00 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-29T07:59:55.215175-04:00.hyperlinks.json) |
-| [August 28 at 7:50 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-28T19:50:16.963073-04:00.hyperlinks.json) |
-| [August 28 at 8:02 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-28T08:02:06.818980-04:00.hyperlinks.json) |
-| [August 27 at 7:52 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-27T19:51:57.290140-04:00.hyperlinks.json) |
-| [August 27 at 7:56 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-27T07:55:57.929849-04:00.hyperlinks.json) |
+| [September 2 at 1:01 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-09-02T20:01:43.899924-04:00.hyperlinks.json) |
+| [September 2 at 1:04 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-09-02T08:04:46.420404-04:00.hyperlinks.json) |
+| [September 1 at 1:01 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-09-01T20:01:03.093695-04:00.hyperlinks.json) |
+| [September 1 at 1:13 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-09-01T08:13:35.645768-04:00.hyperlinks.json) |
+| [August 31 at 12:54 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-31T19:53:56.805620-04:00.hyperlinks.json) |
+| [August 31 at 2:06 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-31T09:05:49.146420-04:00.hyperlinks.json) |
+| [August 30 at 1:03 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-30T20:03:18.905215-04:00.hyperlinks.json) |
+| [August 30 at 1:12 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-30T08:12:11.909255-04:00.hyperlinks.json) |
+| [August 29 at 12:55 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-29T19:55:12.244232-04:00.hyperlinks.json) |
+| [August 29 at 1:00 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-29T07:59:55.215175-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 188 accessibility trees with the Internet Archive.
+The archiving routine has saved 192 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 31 at 7:54 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-31T19:53:56.805620-04:00.accessibility.json) |
-| [August 31 at 9:06 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-31T09:05:49.146420-04:00.accessibility.json) |
-| [August 30 at 8:03 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-30T20:03:18.905215-04:00.accessibility.json) |
-| [August 30 at 8:12 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-30T08:12:11.909255-04:00.accessibility.json) |
-| [August 29 at 7:55 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-29T19:55:12.244232-04:00.accessibility.json) |
-| [August 29 at 8:00 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-29T07:59:55.215175-04:00.accessibility.json) |
-| [August 28 at 7:50 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-28T19:50:16.963073-04:00.accessibility.json) |
-| [August 28 at 8:02 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-28T08:02:06.818980-04:00.accessibility.json) |
-| [August 27 at 7:52 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-27T19:51:57.290140-04:00.accessibility.json) |
-| [August 27 at 7:56 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-27T07:55:57.929849-04:00.accessibility.json) |
+| [September 2 at 1:01 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-09-02T20:01:43.899924-04:00.accessibility.json) |
+| [September 2 at 1:04 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-09-02T08:04:46.420404-04:00.accessibility.json) |
+| [September 1 at 1:01 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-09-01T20:01:03.093695-04:00.accessibility.json) |
+| [September 1 at 1:13 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-09-01T08:13:35.645768-04:00.accessibility.json) |
+| [August 31 at 12:54 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-31T19:53:56.805620-04:00.accessibility.json) |
+| [August 31 at 2:06 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-31T09:05:49.146420-04:00.accessibility.json) |
+| [August 30 at 1:03 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-30T20:03:18.905215-04:00.accessibility.json) |
+| [August 30 at 1:12 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-30T08:12:11.909255-04:00.accessibility.json) |
+| [August 29 at 12:55 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-29T19:55:12.244232-04:00.accessibility.json) |
+| [August 29 at 1:00 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-29T07:59:55.215175-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 79 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 83 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 31 at 7:54 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-31T19:53:56.805620-04:00.lighthouse.json) |
-| [August 31 at 9:06 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-31T09:05:49.146420-04:00.lighthouse.json) |
-| [August 30 at 8:03 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-30T20:03:18.905215-04:00.lighthouse.json) |
-| [August 30 at 8:12 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-30T08:12:11.909255-04:00.lighthouse.json) |
-| [August 29 at 7:55 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-29T19:55:12.244232-04:00.lighthouse.json) |
-| [August 29 at 8:00 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-29T07:59:55.215175-04:00.lighthouse.json) |
-| [August 28 at 7:50 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-28T19:50:16.963073-04:00.lighthouse.json) |
-| [August 28 at 8:02 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-28T08:02:06.818980-04:00.lighthouse.json) |
-| [August 27 at 7:52 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-27T19:51:57.290140-04:00.lighthouse.json) |
-| [August 27 at 7:56 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-27T07:55:57.929849-04:00.lighthouse.json) |
+| [September 2 at 1:01 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-09-02T20:01:43.899924-04:00.lighthouse.json) |
+| [September 2 at 1:04 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-09-02T08:04:46.420404-04:00.lighthouse.json) |
+| [September 1 at 1:01 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-09-01T20:01:03.093695-04:00.lighthouse.json) |
+| [September 1 at 1:13 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-09-01T08:13:35.645768-04:00.lighthouse.json) |
+| [August 31 at 12:54 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-31T19:53:56.805620-04:00.lighthouse.json) |
+| [August 31 at 2:06 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-31T09:05:49.146420-04:00.lighthouse.json) |
+| [August 30 at 1:03 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-30T20:03:18.905215-04:00.lighthouse.json) |
+| [August 30 at 1:12 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-30T08:12:11.909255-04:00.lighthouse.json) |
+| [August 29 at 12:55 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-29T19:55:12.244232-04:00.lighthouse.json) |
+| [August 29 at 1:00 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-08-29T07:59:55.215175-04:00.lighthouse.json) |
 
 
 

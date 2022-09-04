@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 187 screenshots with the Internet Archive.
+The archiving routine has saved 191 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-31T09:13:55.336472-07:00.jpg">
-  <img src="https://archive.org/download/techmeme-2022/techmeme-2022-08-31T09:13:55.336472-07:00.jpg"
-     alt="TechMeme at 2022-08-31 09:14:00-07:00 local time"
+ <a href="https://archive.org/download/techmeme-2022/techmeme-2022-09-02T09:18:07.082266-07:00.jpg">
+  <img src="https://archive.org/download/techmeme-2022/techmeme-2022-09-02T09:18:07.082266-07:00.jpg"
+     alt="TechMeme at 2022-09-02 02:18:20-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-31T09:13:55.336472-07:00.jpg">August 31 at 9:14 AM</a></p>
+ <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-09-02T09:18:07.082266-07:00.jpg">September 2 at 2:18 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/techmeme-2022/techmeme-2022-09-01T21:49:34.053853-07:00.jpg">
+  <img src="https://archive.org/download/techmeme-2022/techmeme-2022-09-01T21:49:34.053853-07:00.jpg"
+     alt="TechMeme at 2022-09-01 14:49:43-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-09-01T21:49:34.053853-07:00.jpg">September 1 at 2:49 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/techmeme-2022/techmeme-2022-09-01T09:40:26.803985-07:00.jpg">
+  <img src="https://archive.org/download/techmeme-2022/techmeme-2022-09-01T09:40:26.803985-07:00.jpg"
+     alt="TechMeme at 2022-09-01 02:40:42-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-09-01T09:40:26.803985-07:00.jpg">September 1 at 2:40 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-31T21:43:23.582332-07:00.jpg">
+  <img src="https://archive.org/download/techmeme-2022/techmeme-2022-08-31T21:43:23.582332-07:00.jpg"
+     alt="TechMeme at 2022-08-31 14:43:30-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-31T21:43:23.582332-07:00.jpg">August 31 at 2:43 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-31T09:13:55.336472-07:00.jpg">
+  <img src="https://archive.org/download/techmeme-2022/techmeme-2022-08-31T09:13:55.336472-07:00.jpg"
+     alt="TechMeme at 2022-08-31 02:14:00-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-31T09:13:55.336472-07:00.jpg">August 31 at 2:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-30T21:51:57.772205-07:00.jpg">
   <img src="https://archive.org/download/techmeme-2022/techmeme-2022-08-30T21:51:57.772205-07:00.jpg"
-     alt="TechMeme at 2022-08-30 21:52:17-07:00 local time"
+     alt="TechMeme at 2022-08-30 14:52:17-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-30T21:51:57.772205-07:00.jpg">August 30 at 9:52 PM</a></p>
+ <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-30T21:51:57.772205-07:00.jpg">August 30 at 2:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-30T09:38:04.405490-07:00.jpg">
   <img src="https://archive.org/download/techmeme-2022/techmeme-2022-08-30T09:38:04.405490-07:00.jpg"
-     alt="TechMeme at 2022-08-30 09:38:20-07:00 local time"
+     alt="TechMeme at 2022-08-30 02:38:20-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-30T09:38:04.405490-07:00.jpg">August 30 at 9:38 AM</a></p>
+ <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-30T09:38:04.405490-07:00.jpg">August 30 at 2:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-29T21:56:00.959060-07:00.jpg">
   <img src="https://archive.org/download/techmeme-2022/techmeme-2022-08-29T21:56:00.959060-07:00.jpg"
-     alt="TechMeme at 2022-08-29 21:56:02-07:00 local time"
+     alt="TechMeme at 2022-08-29 14:56:02-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-29T21:56:00.959060-07:00.jpg">August 29 at 9:56 PM</a></p>
+ <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-29T21:56:00.959060-07:00.jpg">August 29 at 2:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-29T09:17:30.298088-07:00.jpg">
   <img src="https://archive.org/download/techmeme-2022/techmeme-2022-08-29T09:17:30.298088-07:00.jpg"
-     alt="TechMeme at 2022-08-29 09:17:37-07:00 local time"
+     alt="TechMeme at 2022-08-29 02:17:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-29T09:17:30.298088-07:00.jpg">August 29 at 9:17 AM</a></p>
+ <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-29T09:17:30.298088-07:00.jpg">August 29 at 2:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-28T21:40:57.770358-07:00.jpg">
   <img src="https://archive.org/download/techmeme-2022/techmeme-2022-08-28T21:40:57.770358-07:00.jpg"
-     alt="TechMeme at 2022-08-28 21:41:04-07:00 local time"
+     alt="TechMeme at 2022-08-28 14:41:04-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-28T21:40:57.770358-07:00.jpg">August 28 at 9:41 PM</a></p>
+ <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-28T21:40:57.770358-07:00.jpg">August 28 at 2:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-28T09:02:48.413752-07:00.jpg">
   <img src="https://archive.org/download/techmeme-2022/techmeme-2022-08-28T09:02:48.413752-07:00.jpg"
-     alt="TechMeme at 2022-08-28 09:03:01-07:00 local time"
+     alt="TechMeme at 2022-08-28 02:03:01-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-28T09:02:48.413752-07:00.jpg">August 28 at 9:03 AM</a></p>
+ <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-28T09:02:48.413752-07:00.jpg">August 28 at 2:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-27T21:37:29.854634-07:00.jpg">
   <img src="https://archive.org/download/techmeme-2022/techmeme-2022-08-27T21:37:29.854634-07:00.jpg"
-     alt="TechMeme at 2022-08-27 21:37:38-07:00 local time"
+     alt="TechMeme at 2022-08-27 14:37:38-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-27T21:37:29.854634-07:00.jpg">August 27 at 9:37 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-27T08:59:17.448887-07:00.jpg">
-  <img src="https://archive.org/download/techmeme-2022/techmeme-2022-08-27T08:59:17.448887-07:00.jpg"
-     alt="TechMeme at 2022-08-27 08:59:19-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-27T08:59:17.448887-07:00.jpg">August 27 at 8:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-26T21:38:39.483833-07:00.jpg">
-  <img src="https://archive.org/download/techmeme-2022/techmeme-2022-08-26T21:38:39.483833-07:00.jpg"
-     alt="TechMeme at 2022-08-26 21:38:47-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-26T21:38:39.483833-07:00.jpg">August 26 at 9:38 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-26T09:06:05.117857-07:00.jpg">
-  <img src="https://archive.org/download/techmeme-2022/techmeme-2022-08-26T09:06:05.117857-07:00.jpg"
-     alt="TechMeme at 2022-08-26 09:06:10-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-26T09:06:05.117857-07:00.jpg">August 26 at 9:06 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-25T21:43:02.249547-07:00.jpg">
-  <img src="https://archive.org/download/techmeme-2022/techmeme-2022-08-25T21:43:02.249547-07:00.jpg"
-     alt="TechMeme at 2022-08-25 21:43:04-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-25T21:43:02.249547-07:00.jpg">August 25 at 9:43 PM</a></p>
+ <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-27T21:37:29.854634-07:00.jpg">August 27 at 2:37 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 188 hyperlink lists with the Internet Archive.
+The archiving routine has saved 192 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 31 at 9:14 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-31T09:13:55.336472-07:00.hyperlinks.json) |
-| [August 30 at 9:52 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-30T21:51:57.772205-07:00.hyperlinks.json) |
-| [August 30 at 9:38 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-30T09:38:04.405490-07:00.hyperlinks.json) |
-| [August 29 at 9:56 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-29T21:56:00.959060-07:00.hyperlinks.json) |
-| [August 29 at 9:17 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-29T09:17:30.298088-07:00.hyperlinks.json) |
-| [August 28 at 9:41 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-28T21:40:57.770358-07:00.hyperlinks.json) |
-| [August 28 at 9:03 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-28T09:02:48.413752-07:00.hyperlinks.json) |
-| [August 27 at 9:37 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-27T21:37:29.854634-07:00.hyperlinks.json) |
-| [August 27 at 8:59 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-27T08:59:17.448887-07:00.hyperlinks.json) |
-| [August 26 at 9:38 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-26T21:38:39.483833-07:00.hyperlinks.json) |
+| [September 2 at 2:18 AM](https://archive.org/download/techmeme-2022/techmeme-2022-09-02T09:18:07.082266-07:00.hyperlinks.json) |
+| [September 1 at 2:49 PM](https://archive.org/download/techmeme-2022/techmeme-2022-09-01T21:49:34.053853-07:00.hyperlinks.json) |
+| [September 1 at 2:40 AM](https://archive.org/download/techmeme-2022/techmeme-2022-09-01T09:40:26.803985-07:00.hyperlinks.json) |
+| [August 31 at 2:43 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-31T21:43:23.582332-07:00.hyperlinks.json) |
+| [August 31 at 2:14 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-31T09:13:55.336472-07:00.hyperlinks.json) |
+| [August 30 at 2:52 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-30T21:51:57.772205-07:00.hyperlinks.json) |
+| [August 30 at 2:38 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-30T09:38:04.405490-07:00.hyperlinks.json) |
+| [August 29 at 2:56 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-29T21:56:00.959060-07:00.hyperlinks.json) |
+| [August 29 at 2:17 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-29T09:17:30.298088-07:00.hyperlinks.json) |
+| [August 28 at 2:41 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-28T21:40:57.770358-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 188 accessibility trees with the Internet Archive.
+The archiving routine has saved 192 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 31 at 9:14 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-31T09:13:55.336472-07:00.accessibility.json) |
-| [August 30 at 9:52 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-30T21:51:57.772205-07:00.accessibility.json) |
-| [August 30 at 9:38 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-30T09:38:04.405490-07:00.accessibility.json) |
-| [August 29 at 9:56 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-29T21:56:00.959060-07:00.accessibility.json) |
-| [August 29 at 9:17 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-29T09:17:30.298088-07:00.accessibility.json) |
-| [August 28 at 9:41 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-28T21:40:57.770358-07:00.accessibility.json) |
-| [August 28 at 9:03 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-28T09:02:48.413752-07:00.accessibility.json) |
-| [August 27 at 9:37 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-27T21:37:29.854634-07:00.accessibility.json) |
-| [August 27 at 8:59 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-27T08:59:17.448887-07:00.accessibility.json) |
-| [August 26 at 9:38 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-26T21:38:39.483833-07:00.accessibility.json) |
+| [September 2 at 2:18 AM](https://archive.org/download/techmeme-2022/techmeme-2022-09-02T09:18:07.082266-07:00.accessibility.json) |
+| [September 1 at 2:49 PM](https://archive.org/download/techmeme-2022/techmeme-2022-09-01T21:49:34.053853-07:00.accessibility.json) |
+| [September 1 at 2:40 AM](https://archive.org/download/techmeme-2022/techmeme-2022-09-01T09:40:26.803985-07:00.accessibility.json) |
+| [August 31 at 2:43 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-31T21:43:23.582332-07:00.accessibility.json) |
+| [August 31 at 2:14 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-31T09:13:55.336472-07:00.accessibility.json) |
+| [August 30 at 2:52 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-30T21:51:57.772205-07:00.accessibility.json) |
+| [August 30 at 2:38 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-30T09:38:04.405490-07:00.accessibility.json) |
+| [August 29 at 2:56 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-29T21:56:00.959060-07:00.accessibility.json) |
+| [August 29 at 2:17 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-29T09:17:30.298088-07:00.accessibility.json) |
+| [August 28 at 2:41 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-28T21:40:57.770358-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 79 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 83 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 31 at 9:14 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-31T09:13:55.336472-07:00.lighthouse.json) |
-| [August 30 at 9:52 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-30T21:51:57.772205-07:00.lighthouse.json) |
-| [August 30 at 9:38 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-30T09:38:04.405490-07:00.lighthouse.json) |
-| [August 29 at 9:56 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-29T21:56:00.959060-07:00.lighthouse.json) |
-| [August 29 at 9:17 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-29T09:17:30.298088-07:00.lighthouse.json) |
-| [August 28 at 9:41 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-28T21:40:57.770358-07:00.lighthouse.json) |
-| [August 28 at 9:03 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-28T09:02:48.413752-07:00.lighthouse.json) |
-| [August 27 at 9:37 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-27T21:37:29.854634-07:00.lighthouse.json) |
-| [August 27 at 8:59 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-27T08:59:17.448887-07:00.lighthouse.json) |
-| [August 26 at 9:38 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-26T21:38:39.483833-07:00.lighthouse.json) |
+| [September 2 at 2:18 AM](https://archive.org/download/techmeme-2022/techmeme-2022-09-02T09:18:07.082266-07:00.lighthouse.json) |
+| [September 1 at 2:50 PM](https://archive.org/download/techmeme-2022/techmeme-2022-09-01T21:49:34.053853-07:00.lighthouse.json) |
+| [September 1 at 2:40 AM](https://archive.org/download/techmeme-2022/techmeme-2022-09-01T09:40:26.803985-07:00.lighthouse.json) |
+| [August 31 at 2:43 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-31T21:43:23.582332-07:00.lighthouse.json) |
+| [August 31 at 2:14 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-31T09:13:55.336472-07:00.lighthouse.json) |
+| [August 30 at 2:52 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-30T21:51:57.772205-07:00.lighthouse.json) |
+| [August 30 at 2:38 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-30T09:38:04.405490-07:00.lighthouse.json) |
+| [August 29 at 2:56 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-29T21:56:00.959060-07:00.lighthouse.json) |
+| [August 29 at 2:17 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-29T09:17:30.298088-07:00.lighthouse.json) |
+| [August 28 at 2:41 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-28T21:40:57.770358-07:00.lighthouse.json) |
 
 
 

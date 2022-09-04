@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 173 screenshots with the Internet Archive.
+The archiving routine has saved 177 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-31T16:15:08.490386+03:00.jpg">
-  <img src="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-31T16:15:08.490386+03:00.jpg"
-     alt="Public Source at 2022-08-31 16:15:18+03:00 local time"
+ <a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-02T16:06:42.263991+03:00.jpg">
+  <img src="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-02T16:06:42.263991+03:00.jpg"
+     alt="Public Source at 2022-09-02 09:06:43+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-31T16:15:08.490386+03:00.jpg">August 31 at 4:15 PM</a></p>
+ <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-02T16:06:42.263991+03:00.jpg">September 2 at 9:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-02T04:19:34.339925+03:00.jpg">
+  <img src="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-02T04:19:34.339925+03:00.jpg"
+     alt="Public Source at 2022-09-01 21:19:36+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-02T04:19:34.339925+03:00.jpg">September 1 at 9:19 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-01T16:15:13.468397+03:00.jpg">
+  <img src="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-01T16:15:13.468397+03:00.jpg"
+     alt="Public Source at 2022-09-01 09:15:34+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-01T16:15:13.468397+03:00.jpg">September 1 at 9:15 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-01T04:18:23.680128+03:00.jpg">
+  <img src="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-01T04:18:23.680128+03:00.jpg"
+     alt="Public Source at 2022-08-31 21:18:24+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-01T04:18:23.680128+03:00.jpg">August 31 at 9:18 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-31T16:15:08.490386+03:00.jpg">
+  <img src="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-31T16:15:08.490386+03:00.jpg"
+     alt="Public Source at 2022-08-31 09:15:18+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-31T16:15:08.490386+03:00.jpg">August 31 at 9:15 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-31T04:28:05.805328+03:00.jpg">
   <img src="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-31T04:28:05.805328+03:00.jpg"
-     alt="Public Source at 2022-08-31 04:28:07+03:00 local time"
+     alt="Public Source at 2022-08-30 21:28:07+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-31T04:28:05.805328+03:00.jpg">August 31 at 4:28 AM</a></p>
+ <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-31T04:28:05.805328+03:00.jpg">August 30 at 9:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-30T16:13:38.392029+03:00.jpg">
   <img src="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-30T16:13:38.392029+03:00.jpg"
-     alt="Public Source at 2022-08-30 16:13:42+03:00 local time"
+     alt="Public Source at 2022-08-30 09:13:42+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-30T16:13:38.392029+03:00.jpg">August 30 at 4:13 PM</a></p>
+ <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-30T16:13:38.392029+03:00.jpg">August 30 at 9:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-30T04:20:11.146148+03:00.jpg">
   <img src="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-30T04:20:11.146148+03:00.jpg"
-     alt="Public Source at 2022-08-30 04:20:12+03:00 local time"
+     alt="Public Source at 2022-08-29 21:20:12+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-30T04:20:11.146148+03:00.jpg">August 30 at 4:20 AM</a></p>
+ <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-30T04:20:11.146148+03:00.jpg">August 29 at 9:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-29T16:04:25.293674+03:00.jpg">
   <img src="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-29T16:04:25.293674+03:00.jpg"
-     alt="Public Source at 2022-08-29 16:04:26+03:00 local time"
+     alt="Public Source at 2022-08-29 09:04:26+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-29T16:04:25.293674+03:00.jpg">August 29 at 4:04 PM</a></p>
+ <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-29T16:04:25.293674+03:00.jpg">August 29 at 9:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-29T04:19:32.145010+03:00.jpg">
   <img src="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-29T04:19:32.145010+03:00.jpg"
-     alt="Public Source at 2022-08-29 04:19:33+03:00 local time"
+     alt="Public Source at 2022-08-28 21:19:33+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-29T04:19:32.145010+03:00.jpg">August 29 at 4:19 AM</a></p>
+ <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-29T04:19:32.145010+03:00.jpg">August 28 at 9:19 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-28T16:03:01.831570+03:00.jpg">
   <img src="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-28T16:03:01.831570+03:00.jpg"
-     alt="Public Source at 2022-08-28 16:03:07+03:00 local time"
+     alt="Public Source at 2022-08-28 09:03:07+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-28T16:03:01.831570+03:00.jpg">August 28 at 4:03 PM</a></p>
+ <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-28T16:03:01.831570+03:00.jpg">August 28 at 9:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-28T04:30:56.570282+03:00.jpg">
   <img src="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-28T04:30:56.570282+03:00.jpg"
-     alt="Public Source at 2022-08-28 04:30:58+03:00 local time"
+     alt="Public Source at 2022-08-27 21:30:58+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-28T04:30:56.570282+03:00.jpg">August 28 at 4:30 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-27T15:59:36.849403+03:00.jpg">
-  <img src="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-27T15:59:36.849403+03:00.jpg"
-     alt="Public Source at 2022-08-27 15:59:38+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-27T15:59:36.849403+03:00.jpg">August 27 at 3:59 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-27T04:10:24.928102+03:00.jpg">
-  <img src="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-27T04:10:24.928102+03:00.jpg"
-     alt="Public Source at 2022-08-27 04:10:26+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-27T04:10:24.928102+03:00.jpg">August 27 at 4:10 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-26T16:04:20.883918+03:00.jpg">
-  <img src="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-26T16:04:20.883918+03:00.jpg"
-     alt="Public Source at 2022-08-26 16:04:24+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-26T16:04:20.883918+03:00.jpg">August 26 at 4:04 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-26T04:17:03.947724+03:00.jpg">
-  <img src="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-26T04:17:03.947724+03:00.jpg"
-     alt="Public Source at 2022-08-26 04:17:05+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-26T04:17:03.947724+03:00.jpg">August 26 at 4:17 AM</a></p>
+ <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-28T04:30:56.570282+03:00.jpg">August 27 at 9:30 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 175 hyperlink lists with the Internet Archive.
+The archiving routine has saved 179 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 31 at 4:15 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-31T16:15:08.490386+03:00.hyperlinks.json) |
-| [August 31 at 4:28 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-31T04:28:05.805328+03:00.hyperlinks.json) |
-| [August 30 at 4:13 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-30T16:13:38.392029+03:00.hyperlinks.json) |
-| [August 30 at 4:20 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-30T04:20:11.146148+03:00.hyperlinks.json) |
-| [August 29 at 4:04 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-29T16:04:25.293674+03:00.hyperlinks.json) |
-| [August 29 at 4:19 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-29T04:19:32.145010+03:00.hyperlinks.json) |
-| [August 28 at 4:03 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-28T16:03:01.831570+03:00.hyperlinks.json) |
-| [August 28 at 4:31 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-28T04:30:56.570282+03:00.hyperlinks.json) |
-| [August 27 at 3:59 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-27T15:59:36.849403+03:00.hyperlinks.json) |
-| [August 27 at 4:10 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-27T04:10:24.928102+03:00.hyperlinks.json) |
+| [September 2 at 9:06 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-02T16:06:42.263991+03:00.hyperlinks.json) |
+| [September 1 at 9:19 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-02T04:19:34.339925+03:00.hyperlinks.json) |
+| [September 1 at 9:15 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-01T16:15:13.468397+03:00.hyperlinks.json) |
+| [August 31 at 9:18 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-01T04:18:23.680128+03:00.hyperlinks.json) |
+| [August 31 at 9:15 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-31T16:15:08.490386+03:00.hyperlinks.json) |
+| [August 30 at 9:28 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-31T04:28:05.805328+03:00.hyperlinks.json) |
+| [August 30 at 9:13 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-30T16:13:38.392029+03:00.hyperlinks.json) |
+| [August 29 at 9:20 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-30T04:20:11.146148+03:00.hyperlinks.json) |
+| [August 29 at 9:04 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-29T16:04:25.293674+03:00.hyperlinks.json) |
+| [August 28 at 9:19 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-29T04:19:32.145010+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 175 accessibility trees with the Internet Archive.
+The archiving routine has saved 179 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 31 at 4:15 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-31T16:15:08.490386+03:00.accessibility.json) |
-| [August 31 at 4:28 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-31T04:28:05.805328+03:00.accessibility.json) |
-| [August 30 at 4:13 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-30T16:13:38.392029+03:00.accessibility.json) |
-| [August 30 at 4:20 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-30T04:20:11.146148+03:00.accessibility.json) |
-| [August 29 at 4:04 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-29T16:04:25.293674+03:00.accessibility.json) |
-| [August 29 at 4:19 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-29T04:19:32.145010+03:00.accessibility.json) |
-| [August 28 at 4:03 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-28T16:03:01.831570+03:00.accessibility.json) |
-| [August 28 at 4:30 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-28T04:30:56.570282+03:00.accessibility.json) |
-| [August 27 at 3:59 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-27T15:59:36.849403+03:00.accessibility.json) |
-| [August 27 at 4:10 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-27T04:10:24.928102+03:00.accessibility.json) |
+| [September 2 at 9:06 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-02T16:06:42.263991+03:00.accessibility.json) |
+| [September 1 at 9:19 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-02T04:19:34.339925+03:00.accessibility.json) |
+| [September 1 at 9:15 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-01T16:15:13.468397+03:00.accessibility.json) |
+| [August 31 at 9:18 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-01T04:18:23.680128+03:00.accessibility.json) |
+| [August 31 at 9:15 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-31T16:15:08.490386+03:00.accessibility.json) |
+| [August 30 at 9:28 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-31T04:28:05.805328+03:00.accessibility.json) |
+| [August 30 at 9:13 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-30T16:13:38.392029+03:00.accessibility.json) |
+| [August 29 at 9:20 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-30T04:20:11.146148+03:00.accessibility.json) |
+| [August 29 at 9:04 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-29T16:04:25.293674+03:00.accessibility.json) |
+| [August 28 at 9:19 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-29T04:19:32.145010+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 80 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 84 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 31 at 4:15 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-31T16:15:08.490386+03:00.lighthouse.json) |
-| [August 31 at 4:28 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-31T04:28:05.805328+03:00.lighthouse.json) |
-| [August 30 at 4:13 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-30T16:13:38.392029+03:00.lighthouse.json) |
-| [August 30 at 4:20 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-30T04:20:11.146148+03:00.lighthouse.json) |
-| [August 29 at 4:04 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-29T16:04:25.293674+03:00.lighthouse.json) |
-| [August 29 at 4:19 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-29T04:19:32.145010+03:00.lighthouse.json) |
-| [August 28 at 4:03 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-28T16:03:01.831570+03:00.lighthouse.json) |
-| [August 28 at 4:31 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-28T04:30:56.570282+03:00.lighthouse.json) |
-| [August 27 at 3:59 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-27T15:59:36.849403+03:00.lighthouse.json) |
-| [August 27 at 4:10 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-27T04:10:24.928102+03:00.lighthouse.json) |
+| [September 2 at 9:06 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-02T16:06:42.263991+03:00.lighthouse.json) |
+| [September 1 at 9:19 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-02T04:19:34.339925+03:00.lighthouse.json) |
+| [September 1 at 9:15 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-01T16:15:13.468397+03:00.lighthouse.json) |
+| [August 31 at 9:18 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-01T04:18:23.680128+03:00.lighthouse.json) |
+| [August 31 at 9:15 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-31T16:15:08.490386+03:00.lighthouse.json) |
+| [August 30 at 9:28 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-31T04:28:05.805328+03:00.lighthouse.json) |
+| [August 30 at 9:13 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-30T16:13:38.392029+03:00.lighthouse.json) |
+| [August 29 at 9:20 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-30T04:20:11.146148+03:00.lighthouse.json) |
+| [August 29 at 9:04 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-29T16:04:25.293674+03:00.lighthouse.json) |
+| [August 28 at 9:19 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-29T04:19:32.145010+03:00.lighthouse.json) |
 
 
 

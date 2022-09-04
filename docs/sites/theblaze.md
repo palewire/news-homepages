@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 318 screenshots with the Internet Archive.
+The archiving routine has saved 324 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-31T14:35:59.947661-04:00.jpg">
-  <img src="https://archive.org/download/theblaze-2022/theblaze-2022-08-31T14:35:59.947661-04:00.jpg"
-     alt="Blaze at 2022-08-31 14:36:01-04:00 local time"
+ <a href="https://archive.org/download/theblaze-2022/theblaze-2022-09-02T14:32:49.111229-04:00.jpg">
+  <img src="https://archive.org/download/theblaze-2022/theblaze-2022-09-02T14:32:49.111229-04:00.jpg"
+     alt="Blaze at 2022-09-02 07:32:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-31T14:35:59.947661-04:00.jpg">August 31 at 2:36 PM</a></p>
+ <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-09-02T14:32:49.111229-04:00.jpg">September 2 at 7:32 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theblaze-2022/theblaze-2022-09-02T12:17:54.673791-04:00.jpg">
+  <img src="https://archive.org/download/theblaze-2022/theblaze-2022-09-02T12:17:54.673791-04:00.jpg"
+     alt="Blaze at 2022-09-02 05:18:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-09-02T12:17:54.673791-04:00.jpg">September 2 at 5:18 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theblaze-2022/theblaze-2022-09-02T00:49:38.166655-04:00.jpg">
+  <img src="https://archive.org/download/theblaze-2022/theblaze-2022-09-02T00:49:38.166655-04:00.jpg"
+     alt="Blaze at 2022-09-01 17:50:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-09-02T00:49:38.166655-04:00.jpg">September 1 at 5:50 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theblaze-2022/theblaze-2022-09-01T14:42:21.691335-04:00.jpg">
+  <img src="https://archive.org/download/theblaze-2022/theblaze-2022-09-01T14:42:21.691335-04:00.jpg"
+     alt="Blaze at 2022-09-01 07:42:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-09-01T14:42:21.691335-04:00.jpg">September 1 at 7:42 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theblaze-2022/theblaze-2022-09-01T12:41:04.490073-04:00.jpg">
+  <img src="https://archive.org/download/theblaze-2022/theblaze-2022-09-01T12:41:04.490073-04:00.jpg"
+     alt="Blaze at 2022-09-01 05:41:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-09-01T12:41:04.490073-04:00.jpg">September 1 at 5:41 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theblaze-2022/theblaze-2022-09-01T00:45:04.934964-04:00.jpg">
+  <img src="https://archive.org/download/theblaze-2022/theblaze-2022-09-01T00:45:04.934964-04:00.jpg"
+     alt="Blaze at 2022-08-31 17:45:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-09-01T00:45:04.934964-04:00.jpg">August 31 at 5:45 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-31T14:35:59.947661-04:00.jpg">
+  <img src="https://archive.org/download/theblaze-2022/theblaze-2022-08-31T14:35:59.947661-04:00.jpg"
+     alt="Blaze at 2022-08-31 07:36:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-31T14:35:59.947661-04:00.jpg">August 31 at 7:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-31T12:13:57.841334-04:00.jpg">
   <img src="https://archive.org/download/theblaze-2022/theblaze-2022-08-31T12:13:57.841334-04:00.jpg"
-     alt="Blaze at 2022-08-31 12:14:07-04:00 local time"
+     alt="Blaze at 2022-08-31 05:14:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-31T12:13:57.841334-04:00.jpg">August 31 at 12:14 PM</a></p>
+ <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-31T12:13:57.841334-04:00.jpg">August 31 at 5:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-31T00:52:45.525745-04:00.jpg">
   <img src="https://archive.org/download/theblaze-2022/theblaze-2022-08-31T00:52:45.525745-04:00.jpg"
-     alt="Blaze at 2022-08-31 00:52:46-04:00 local time"
+     alt="Blaze at 2022-08-30 17:52:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-31T00:52:45.525745-04:00.jpg">August 31 at 12:52 AM</a></p>
+ <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-31T00:52:45.525745-04:00.jpg">August 30 at 5:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-30T14:32:28.699699-04:00.jpg">
   <img src="https://archive.org/download/theblaze-2022/theblaze-2022-08-30T14:32:28.699699-04:00.jpg"
-     alt="Blaze at 2022-08-30 14:32:30-04:00 local time"
+     alt="Blaze at 2022-08-30 07:32:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-30T14:32:28.699699-04:00.jpg">August 30 at 2:32 PM</a></p>
+ <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-30T14:32:28.699699-04:00.jpg">August 30 at 7:32 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-30T12:37:47.289261-04:00.jpg">
   <img src="https://archive.org/download/theblaze-2022/theblaze-2022-08-30T12:37:47.289261-04:00.jpg"
-     alt="Blaze at 2022-08-30 12:37:57-04:00 local time"
+     alt="Blaze at 2022-08-30 05:37:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-30T12:37:47.289261-04:00.jpg">August 30 at 12:37 PM</a></p>
+ <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-30T12:37:47.289261-04:00.jpg">August 30 at 5:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-30T00:58:09.743225-04:00.jpg">
   <img src="https://archive.org/download/theblaze-2022/theblaze-2022-08-30T00:58:09.743225-04:00.jpg"
-     alt="Blaze at 2022-08-30 00:58:11-04:00 local time"
+     alt="Blaze at 2022-08-29 17:58:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-30T00:58:09.743225-04:00.jpg">August 30 at 12:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-29T14:55:08.271330-04:00.jpg">
-  <img src="https://archive.org/download/theblaze-2022/theblaze-2022-08-29T14:55:08.271330-04:00.jpg"
-     alt="Blaze at 2022-08-29 14:55:15-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-29T14:55:08.271330-04:00.jpg">August 29 at 2:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-29T12:18:31.140758-04:00.jpg">
-  <img src="https://archive.org/download/theblaze-2022/theblaze-2022-08-29T12:18:31.140758-04:00.jpg"
-     alt="Blaze at 2022-08-29 12:18:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-29T12:18:31.140758-04:00.jpg">August 29 at 12:18 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-29T00:42:02.621486-04:00.jpg">
-  <img src="https://archive.org/download/theblaze-2022/theblaze-2022-08-29T00:42:02.621486-04:00.jpg"
-     alt="Blaze at 2022-08-29 00:42:12-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-29T00:42:02.621486-04:00.jpg">August 29 at 12:42 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-28T14:30:10.757025-04:00.jpg">
-  <img src="https://archive.org/download/theblaze-2022/theblaze-2022-08-28T14:30:10.757025-04:00.jpg"
-     alt="Blaze at 2022-08-28 14:30:12-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-28T14:30:10.757025-04:00.jpg">August 28 at 2:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-28T12:03:37.625894-04:00.jpg">
-  <img src="https://archive.org/download/theblaze-2022/theblaze-2022-08-28T12:03:37.625894-04:00.jpg"
-     alt="Blaze at 2022-08-28 12:03:48-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-28T12:03:37.625894-04:00.jpg">August 28 at 12:03 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-28T00:39:10.741155-04:00.jpg">
-  <img src="https://archive.org/download/theblaze-2022/theblaze-2022-08-28T00:39:10.741155-04:00.jpg"
-     alt="Blaze at 2022-08-28 00:39:16-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-28T00:39:10.741155-04:00.jpg">August 28 at 12:39 AM</a></p>
+ <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-30T00:58:09.743225-04:00.jpg">August 29 at 5:58 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 304 hyperlink lists with the Internet Archive.
+The archiving routine has saved 310 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 31 at 2:36 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-31T14:35:59.947661-04:00.hyperlinks.json) |
-| [August 31 at 12:14 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-31T12:13:57.841334-04:00.hyperlinks.json) |
-| [August 31 at 12:52 AM](https://archive.org/download/theblaze-2022/theblaze-2022-08-31T00:52:45.525745-04:00.hyperlinks.json) |
-| [August 30 at 2:32 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-30T14:32:28.699699-04:00.hyperlinks.json) |
-| [August 30 at 12:38 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-30T12:37:47.289261-04:00.hyperlinks.json) |
-| [August 30 at 12:58 AM](https://archive.org/download/theblaze-2022/theblaze-2022-08-30T00:58:09.743225-04:00.hyperlinks.json) |
-| [August 29 at 2:55 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-29T14:55:08.271330-04:00.hyperlinks.json) |
-| [August 29 at 12:18 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-29T12:18:31.140758-04:00.hyperlinks.json) |
-| [August 29 at 12:42 AM](https://archive.org/download/theblaze-2022/theblaze-2022-08-29T00:42:02.621486-04:00.hyperlinks.json) |
-| [August 28 at 2:30 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-28T14:30:10.757025-04:00.hyperlinks.json) |
+| [September 2 at 7:32 AM](https://archive.org/download/theblaze-2022/theblaze-2022-09-02T14:32:49.111229-04:00.hyperlinks.json) |
+| [September 2 at 5:18 AM](https://archive.org/download/theblaze-2022/theblaze-2022-09-02T12:17:54.673791-04:00.hyperlinks.json) |
+| [September 1 at 5:50 PM](https://archive.org/download/theblaze-2022/theblaze-2022-09-02T00:49:38.166655-04:00.hyperlinks.json) |
+| [September 1 at 7:42 AM](https://archive.org/download/theblaze-2022/theblaze-2022-09-01T14:42:21.691335-04:00.hyperlinks.json) |
+| [September 1 at 5:41 AM](https://archive.org/download/theblaze-2022/theblaze-2022-09-01T12:41:04.490073-04:00.hyperlinks.json) |
+| [August 31 at 5:45 PM](https://archive.org/download/theblaze-2022/theblaze-2022-09-01T00:45:04.934964-04:00.hyperlinks.json) |
+| [August 31 at 7:36 AM](https://archive.org/download/theblaze-2022/theblaze-2022-08-31T14:35:59.947661-04:00.hyperlinks.json) |
+| [August 31 at 5:14 AM](https://archive.org/download/theblaze-2022/theblaze-2022-08-31T12:13:57.841334-04:00.hyperlinks.json) |
+| [August 30 at 5:52 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-31T00:52:45.525745-04:00.hyperlinks.json) |
+| [August 30 at 7:32 AM](https://archive.org/download/theblaze-2022/theblaze-2022-08-30T14:32:28.699699-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 309 accessibility trees with the Internet Archive.
+The archiving routine has saved 315 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 31 at 2:36 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-31T14:35:59.947661-04:00.accessibility.json) |
-| [August 31 at 12:14 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-31T12:13:57.841334-04:00.accessibility.json) |
-| [August 31 at 12:52 AM](https://archive.org/download/theblaze-2022/theblaze-2022-08-31T00:52:45.525745-04:00.accessibility.json) |
-| [August 30 at 2:32 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-30T14:32:28.699699-04:00.accessibility.json) |
-| [August 30 at 12:37 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-30T12:37:47.289261-04:00.accessibility.json) |
-| [August 30 at 12:58 AM](https://archive.org/download/theblaze-2022/theblaze-2022-08-30T00:58:09.743225-04:00.accessibility.json) |
-| [August 29 at 2:55 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-29T14:55:08.271330-04:00.accessibility.json) |
-| [August 29 at 12:18 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-29T12:18:31.140758-04:00.accessibility.json) |
-| [August 29 at 12:42 AM](https://archive.org/download/theblaze-2022/theblaze-2022-08-29T00:42:02.621486-04:00.accessibility.json) |
-| [August 28 at 2:30 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-28T14:30:10.757025-04:00.accessibility.json) |
+| [September 2 at 7:32 AM](https://archive.org/download/theblaze-2022/theblaze-2022-09-02T14:32:49.111229-04:00.accessibility.json) |
+| [September 2 at 5:18 AM](https://archive.org/download/theblaze-2022/theblaze-2022-09-02T12:17:54.673791-04:00.accessibility.json) |
+| [September 1 at 5:50 PM](https://archive.org/download/theblaze-2022/theblaze-2022-09-02T00:49:38.166655-04:00.accessibility.json) |
+| [September 1 at 7:42 AM](https://archive.org/download/theblaze-2022/theblaze-2022-09-01T14:42:21.691335-04:00.accessibility.json) |
+| [September 1 at 5:41 AM](https://archive.org/download/theblaze-2022/theblaze-2022-09-01T12:41:04.490073-04:00.accessibility.json) |
+| [August 31 at 5:45 PM](https://archive.org/download/theblaze-2022/theblaze-2022-09-01T00:45:04.934964-04:00.accessibility.json) |
+| [August 31 at 7:36 AM](https://archive.org/download/theblaze-2022/theblaze-2022-08-31T14:35:59.947661-04:00.accessibility.json) |
+| [August 31 at 5:14 AM](https://archive.org/download/theblaze-2022/theblaze-2022-08-31T12:13:57.841334-04:00.accessibility.json) |
+| [August 30 at 5:52 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-31T00:52:45.525745-04:00.accessibility.json) |
+| [August 30 at 7:32 AM](https://archive.org/download/theblaze-2022/theblaze-2022-08-30T14:32:28.699699-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 116 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 122 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 31 at 2:36 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-31T14:35:59.947661-04:00.lighthouse.json) |
-| [August 31 at 12:14 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-31T12:13:57.841334-04:00.lighthouse.json) |
-| [August 31 at 12:52 AM](https://archive.org/download/theblaze-2022/theblaze-2022-08-31T00:52:45.525745-04:00.lighthouse.json) |
-| [August 30 at 2:32 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-30T14:32:28.699699-04:00.lighthouse.json) |
-| [August 30 at 12:38 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-30T12:37:47.289261-04:00.lighthouse.json) |
-| [August 30 at 12:58 AM](https://archive.org/download/theblaze-2022/theblaze-2022-08-30T00:58:09.743225-04:00.lighthouse.json) |
-| [August 29 at 2:55 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-29T14:55:08.271330-04:00.lighthouse.json) |
-| [August 29 at 12:18 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-29T12:18:31.140758-04:00.lighthouse.json) |
-| [August 29 at 12:42 AM](https://archive.org/download/theblaze-2022/theblaze-2022-08-29T00:42:02.621486-04:00.lighthouse.json) |
-| [August 28 at 2:30 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-28T14:30:10.757025-04:00.lighthouse.json) |
+| [September 2 at 7:32 AM](https://archive.org/download/theblaze-2022/theblaze-2022-09-02T14:32:49.111229-04:00.lighthouse.json) |
+| [September 2 at 5:18 AM](https://archive.org/download/theblaze-2022/theblaze-2022-09-02T12:17:54.673791-04:00.lighthouse.json) |
+| [September 1 at 5:50 PM](https://archive.org/download/theblaze-2022/theblaze-2022-09-02T00:49:38.166655-04:00.lighthouse.json) |
+| [September 1 at 7:42 AM](https://archive.org/download/theblaze-2022/theblaze-2022-09-01T14:42:21.691335-04:00.lighthouse.json) |
+| [September 1 at 5:41 AM](https://archive.org/download/theblaze-2022/theblaze-2022-09-01T12:41:04.490073-04:00.lighthouse.json) |
+| [August 31 at 5:45 PM](https://archive.org/download/theblaze-2022/theblaze-2022-09-01T00:45:04.934964-04:00.lighthouse.json) |
+| [August 31 at 7:36 AM](https://archive.org/download/theblaze-2022/theblaze-2022-08-31T14:35:59.947661-04:00.lighthouse.json) |
+| [August 31 at 5:14 AM](https://archive.org/download/theblaze-2022/theblaze-2022-08-31T12:13:57.841334-04:00.lighthouse.json) |
+| [August 30 at 5:52 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-31T00:52:45.525745-04:00.lighthouse.json) |
+| [August 30 at 7:32 AM](https://archive.org/download/theblaze-2022/theblaze-2022-08-30T14:32:28.699699-04:00.lighthouse.json) |
 
 
 

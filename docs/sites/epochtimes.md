@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 55 screenshots with the Internet Archive.
+The archiving routine has saved 61 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T18:58:33.364164-04:00.jpg">
-  <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T18:58:33.364164-04:00.jpg"
-     alt="Epoch Times at 2022-08-31 18:58:35-04:00 local time"
+ <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-09-02T19:56:13.928142-04:00.jpg">
+  <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-09-02T19:56:13.928142-04:00.jpg"
+     alt="Epoch Times at 2022-09-02 12:56:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T18:58:33.364164-04:00.jpg">August 31 at 6:58 PM</a></p>
+ <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-09-02T19:56:13.928142-04:00.jpg">September 2 at 12:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-09-02T14:31:45.947963-04:00.jpg">
+  <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-09-02T14:31:45.947963-04:00.jpg"
+     alt="Epoch Times at 2022-09-02 07:31:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-09-02T14:31:45.947963-04:00.jpg">September 2 at 7:31 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-09-02T07:01:37.278294-04:00.jpg">
+  <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-09-02T07:01:37.278294-04:00.jpg"
+     alt="Epoch Times at 2022-09-02 00:01:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-09-02T07:01:37.278294-04:00.jpg">September 2 at 12:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-09-01T19:04:09.449819-04:00.jpg">
+  <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-09-01T19:04:09.449819-04:00.jpg"
+     alt="Epoch Times at 2022-09-01 12:04:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-09-01T19:04:09.449819-04:00.jpg">September 1 at 12:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-09-01T14:42:30.504817-04:00.jpg">
+  <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-09-01T14:42:30.504817-04:00.jpg"
+     alt="Epoch Times at 2022-09-01 07:42:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-09-01T14:42:30.504817-04:00.jpg">September 1 at 7:42 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-09-01T07:06:00.727213-04:00.jpg">
+  <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-09-01T07:06:00.727213-04:00.jpg"
+     alt="Epoch Times at 2022-09-01 00:06:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-09-01T07:06:00.727213-04:00.jpg">September 1 at 12:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T18:58:33.364164-04:00.jpg">
+  <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T18:58:33.364164-04:00.jpg"
+     alt="Epoch Times at 2022-08-31 11:58:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T18:58:33.364164-04:00.jpg">August 31 at 11:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T14:34:24.283547-04:00.jpg">
   <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T14:34:24.283547-04:00.jpg"
-     alt="Epoch Times at 2022-08-31 14:34:31-04:00 local time"
+     alt="Epoch Times at 2022-08-31 07:34:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T14:34:24.283547-04:00.jpg">August 31 at 2:34 PM</a></p>
+ <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T14:34:24.283547-04:00.jpg">August 31 at 7:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T07:00:58.832672-04:00.jpg">
   <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T07:00:58.832672-04:00.jpg"
-     alt="Epoch Times at 2022-08-31 07:01:02-04:00 local time"
+     alt="Epoch Times at 2022-08-31 00:01:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T07:00:58.832672-04:00.jpg">August 31 at 7:01 AM</a></p>
+ <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T07:00:58.832672-04:00.jpg">August 31 at 12:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-30T19:04:52.819870-04:00.jpg">
   <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-30T19:04:52.819870-04:00.jpg"
-     alt="Epoch Times at 2022-08-30 19:04:56-04:00 local time"
+     alt="Epoch Times at 2022-08-30 12:04:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-30T19:04:52.819870-04:00.jpg">August 30 at 7:04 PM</a></p>
+ <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-30T19:04:52.819870-04:00.jpg">August 30 at 12:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-30T14:32:43.032115-04:00.jpg">
   <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-30T14:32:43.032115-04:00.jpg"
-     alt="Epoch Times at 2022-08-30 14:32:45-04:00 local time"
+     alt="Epoch Times at 2022-08-30 07:32:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-30T14:32:43.032115-04:00.jpg">August 30 at 2:32 PM</a></p>
+ <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-30T14:32:43.032115-04:00.jpg">August 30 at 7:32 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-30T07:05:12.228207-04:00.jpg">
   <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-30T07:05:12.228207-04:00.jpg"
-     alt="Epoch Times at 2022-08-30 07:05:16-04:00 local time"
+     alt="Epoch Times at 2022-08-30 00:05:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-30T07:05:12.228207-04:00.jpg">August 30 at 7:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-29T19:01:10.716546-04:00.jpg">
-  <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-29T19:01:10.716546-04:00.jpg"
-     alt="Epoch Times at 2022-08-29 19:01:16-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-29T19:01:10.716546-04:00.jpg">August 29 at 7:01 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-29T14:55:39.035748-04:00.jpg">
-  <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-29T14:55:39.035748-04:00.jpg"
-     alt="Epoch Times at 2022-08-29 14:55:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-29T14:55:39.035748-04:00.jpg">August 29 at 2:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-29T06:57:23.524759-04:00.jpg">
-  <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-29T06:57:23.524759-04:00.jpg"
-     alt="Epoch Times at 2022-08-29 06:57:25-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-29T06:57:23.524759-04:00.jpg">August 29 at 6:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-28T18:53:56.537916-04:00.jpg">
-  <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-28T18:53:56.537916-04:00.jpg"
-     alt="Epoch Times at 2022-08-28 18:53:58-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-28T18:53:56.537916-04:00.jpg">August 28 at 6:53 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-28T14:30:15.609361-04:00.jpg">
-  <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-28T14:30:15.609361-04:00.jpg"
-     alt="Epoch Times at 2022-08-28 14:30:17-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-28T14:30:15.609361-04:00.jpg">August 28 at 2:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-28T06:57:12.255816-04:00.jpg">
-  <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-28T06:57:12.255816-04:00.jpg"
-     alt="Epoch Times at 2022-08-28 06:57:13-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-28T06:57:12.255816-04:00.jpg">August 28 at 6:57 AM</a></p>
+ <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-30T07:05:12.228207-04:00.jpg">August 30 at 12:05 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 55 hyperlink lists with the Internet Archive.
+The archiving routine has saved 61 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 31 at 6:58 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T18:58:33.364164-04:00.hyperlinks.json) |
-| [August 31 at 2:34 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T14:34:24.283547-04:00.hyperlinks.json) |
-| [August 31 at 7:01 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T07:00:58.832672-04:00.hyperlinks.json) |
-| [August 30 at 7:05 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-30T19:04:52.819870-04:00.hyperlinks.json) |
-| [August 30 at 2:32 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-30T14:32:43.032115-04:00.hyperlinks.json) |
-| [August 30 at 7:05 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-30T07:05:12.228207-04:00.hyperlinks.json) |
-| [August 29 at 7:01 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-29T19:01:10.716546-04:00.hyperlinks.json) |
-| [August 29 at 2:55 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-29T14:55:39.035748-04:00.hyperlinks.json) |
-| [August 29 at 6:57 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-29T06:57:23.524759-04:00.hyperlinks.json) |
-| [August 28 at 6:54 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-28T18:53:56.537916-04:00.hyperlinks.json) |
+| [September 2 at 12:56 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-02T19:56:13.928142-04:00.hyperlinks.json) |
+| [September 2 at 7:31 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-02T14:31:45.947963-04:00.hyperlinks.json) |
+| [September 2 at 12:01 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-02T07:01:37.278294-04:00.hyperlinks.json) |
+| [September 1 at 12:04 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-01T19:04:09.449819-04:00.hyperlinks.json) |
+| [September 1 at 7:42 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-01T14:42:30.504817-04:00.hyperlinks.json) |
+| [September 1 at 12:06 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-01T07:06:00.727213-04:00.hyperlinks.json) |
+| [August 31 at 11:58 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T18:58:33.364164-04:00.hyperlinks.json) |
+| [August 31 at 7:34 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T14:34:24.283547-04:00.hyperlinks.json) |
+| [August 31 at 12:01 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T07:00:58.832672-04:00.hyperlinks.json) |
+| [August 30 at 12:05 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-30T19:04:52.819870-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 55 accessibility trees with the Internet Archive.
+The archiving routine has saved 61 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 31 at 6:58 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T18:58:33.364164-04:00.accessibility.json) |
-| [August 31 at 2:34 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T14:34:24.283547-04:00.accessibility.json) |
-| [August 31 at 7:01 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T07:00:58.832672-04:00.accessibility.json) |
-| [August 30 at 7:04 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-30T19:04:52.819870-04:00.accessibility.json) |
-| [August 30 at 2:32 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-30T14:32:43.032115-04:00.accessibility.json) |
-| [August 30 at 7:05 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-30T07:05:12.228207-04:00.accessibility.json) |
-| [August 29 at 7:01 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-29T19:01:10.716546-04:00.accessibility.json) |
-| [August 29 at 2:55 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-29T14:55:39.035748-04:00.accessibility.json) |
-| [August 29 at 6:57 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-29T06:57:23.524759-04:00.accessibility.json) |
-| [August 28 at 6:53 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-28T18:53:56.537916-04:00.accessibility.json) |
+| [September 2 at 12:56 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-02T19:56:13.928142-04:00.accessibility.json) |
+| [September 2 at 7:31 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-02T14:31:45.947963-04:00.accessibility.json) |
+| [September 2 at 12:01 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-02T07:01:37.278294-04:00.accessibility.json) |
+| [September 1 at 12:04 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-01T19:04:09.449819-04:00.accessibility.json) |
+| [September 1 at 7:42 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-01T14:42:30.504817-04:00.accessibility.json) |
+| [September 1 at 12:06 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-01T07:06:00.727213-04:00.accessibility.json) |
+| [August 31 at 11:58 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T18:58:33.364164-04:00.accessibility.json) |
+| [August 31 at 7:34 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T14:34:24.283547-04:00.accessibility.json) |
+| [August 31 at 12:01 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T07:00:58.832672-04:00.accessibility.json) |
+| [August 30 at 12:04 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-30T19:04:52.819870-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 61 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 31 at 6:58 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T18:58:33.364164-04:00.lighthouse.json) |
-| [August 31 at 2:34 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T14:34:24.283547-04:00.lighthouse.json) |
-| [August 31 at 7:01 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T07:00:58.832672-04:00.lighthouse.json) |
-| [August 30 at 7:05 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-30T19:04:52.819870-04:00.lighthouse.json) |
-| [August 30 at 2:32 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-30T14:32:43.032115-04:00.lighthouse.json) |
-| [August 30 at 7:05 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-30T07:05:12.228207-04:00.lighthouse.json) |
-| [August 29 at 7:01 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-29T19:01:10.716546-04:00.lighthouse.json) |
-| [August 29 at 2:55 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-29T14:55:39.035748-04:00.lighthouse.json) |
-| [August 29 at 6:57 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-29T06:57:23.524759-04:00.lighthouse.json) |
-| [August 28 at 6:54 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-28T18:53:56.537916-04:00.lighthouse.json) |
+| [September 2 at 12:56 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-02T19:56:13.928142-04:00.lighthouse.json) |
+| [September 2 at 7:31 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-02T14:31:45.947963-04:00.lighthouse.json) |
+| [September 2 at 12:01 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-02T07:01:37.278294-04:00.lighthouse.json) |
+| [September 1 at 12:04 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-01T19:04:09.449819-04:00.lighthouse.json) |
+| [September 1 at 7:42 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-01T14:42:30.504817-04:00.lighthouse.json) |
+| [September 1 at 12:06 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-09-01T07:06:00.727213-04:00.lighthouse.json) |
+| [August 31 at 11:58 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T18:58:33.364164-04:00.lighthouse.json) |
+| [August 31 at 7:34 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T14:34:24.283547-04:00.lighthouse.json) |
+| [August 31 at 12:01 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-31T07:00:58.832672-04:00.lighthouse.json) |
+| [August 30 at 12:05 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-30T19:04:52.819870-04:00.lighthouse.json) |
 
 
 

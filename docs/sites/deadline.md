@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 91 screenshots with the Internet Archive.
+The archiving routine has saved 95 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/deadline-2022/deadline-2022-08-31T15:57:22.196042-07:00.jpg">
-  <img src="https://archive.org/download/deadline-2022/deadline-2022-08-31T15:57:22.196042-07:00.jpg"
-     alt="Deadline at 2022-08-31 15:57:23-07:00 local time"
+ <a href="https://archive.org/download/deadline-2022/deadline-2022-09-02T16:55:33.195238-07:00.jpg">
+  <img src="https://archive.org/download/deadline-2022/deadline-2022-09-02T16:55:33.195238-07:00.jpg"
+     alt="Deadline at 2022-09-02 09:55:36-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/deadline-2022/deadline-2022-08-31T15:57:22.196042-07:00.jpg">August 31 at 3:57 PM</a></p>
+ <p><a href="https://archive.org/download/deadline-2022/deadline-2022-09-02T16:55:33.195238-07:00.jpg">September 2 at 9:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/deadline-2022/deadline-2022-09-02T03:59:17.312253-07:00.jpg">
+  <img src="https://archive.org/download/deadline-2022/deadline-2022-09-02T03:59:17.312253-07:00.jpg"
+     alt="Deadline at 2022-09-01 20:59:18-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/deadline-2022/deadline-2022-09-02T03:59:17.312253-07:00.jpg">September 1 at 8:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/deadline-2022/deadline-2022-09-01T16:02:48.599399-07:00.jpg">
+  <img src="https://archive.org/download/deadline-2022/deadline-2022-09-01T16:02:48.599399-07:00.jpg"
+     alt="Deadline at 2022-09-01 09:02:57-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/deadline-2022/deadline-2022-09-01T16:02:48.599399-07:00.jpg">September 1 at 9:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/deadline-2022/deadline-2022-09-01T04:03:59.529788-07:00.jpg">
+  <img src="https://archive.org/download/deadline-2022/deadline-2022-09-01T04:03:59.529788-07:00.jpg"
+     alt="Deadline at 2022-08-31 21:04:02-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/deadline-2022/deadline-2022-09-01T04:03:59.529788-07:00.jpg">August 31 at 9:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/deadline-2022/deadline-2022-08-31T15:57:22.196042-07:00.jpg">
+  <img src="https://archive.org/download/deadline-2022/deadline-2022-08-31T15:57:22.196042-07:00.jpg"
+     alt="Deadline at 2022-08-31 08:57:23-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/deadline-2022/deadline-2022-08-31T15:57:22.196042-07:00.jpg">August 31 at 8:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/deadline-2022/deadline-2022-08-31T03:59:11.288467-07:00.jpg">
   <img src="https://archive.org/download/deadline-2022/deadline-2022-08-31T03:59:11.288467-07:00.jpg"
-     alt="Deadline at 2022-08-31 03:59:15-07:00 local time"
+     alt="Deadline at 2022-08-30 20:59:15-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/deadline-2022/deadline-2022-08-31T03:59:11.288467-07:00.jpg">August 31 at 3:59 AM</a></p>
+ <p><a href="https://archive.org/download/deadline-2022/deadline-2022-08-31T03:59:11.288467-07:00.jpg">August 30 at 8:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/deadline-2022/deadline-2022-08-30T16:04:53.128189-07:00.jpg">
   <img src="https://archive.org/download/deadline-2022/deadline-2022-08-30T16:04:53.128189-07:00.jpg"
-     alt="Deadline at 2022-08-30 16:04:55-07:00 local time"
+     alt="Deadline at 2022-08-30 09:04:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/deadline-2022/deadline-2022-08-30T16:04:53.128189-07:00.jpg">August 30 at 4:04 PM</a></p>
+ <p><a href="https://archive.org/download/deadline-2022/deadline-2022-08-30T16:04:53.128189-07:00.jpg">August 30 at 9:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/deadline-2022/deadline-2022-08-30T04:03:08.532909-07:00.jpg">
   <img src="https://archive.org/download/deadline-2022/deadline-2022-08-30T04:03:08.532909-07:00.jpg"
-     alt="Deadline at 2022-08-30 04:03:12-07:00 local time"
+     alt="Deadline at 2022-08-29 21:03:12-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/deadline-2022/deadline-2022-08-30T04:03:08.532909-07:00.jpg">August 30 at 4:03 AM</a></p>
+ <p><a href="https://archive.org/download/deadline-2022/deadline-2022-08-30T04:03:08.532909-07:00.jpg">August 29 at 9:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/deadline-2022/deadline-2022-08-29T16:00:31.737378-07:00.jpg">
   <img src="https://archive.org/download/deadline-2022/deadline-2022-08-29T16:00:31.737378-07:00.jpg"
-     alt="Deadline at 2022-08-29 16:00:35-07:00 local time"
+     alt="Deadline at 2022-08-29 09:00:35-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/deadline-2022/deadline-2022-08-29T16:00:31.737378-07:00.jpg">August 29 at 4:00 PM</a></p>
+ <p><a href="https://archive.org/download/deadline-2022/deadline-2022-08-29T16:00:31.737378-07:00.jpg">August 29 at 9:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/deadline-2022/deadline-2022-08-29T03:56:19.319870-07:00.jpg">
   <img src="https://archive.org/download/deadline-2022/deadline-2022-08-29T03:56:19.319870-07:00.jpg"
-     alt="Deadline at 2022-08-29 03:56:23-07:00 local time"
+     alt="Deadline at 2022-08-28 20:56:23-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/deadline-2022/deadline-2022-08-29T03:56:19.319870-07:00.jpg">August 29 at 3:56 AM</a></p>
+ <p><a href="https://archive.org/download/deadline-2022/deadline-2022-08-29T03:56:19.319870-07:00.jpg">August 28 at 8:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/deadline-2022/deadline-2022-08-28T15:53:13.720430-07:00.jpg">
   <img src="https://archive.org/download/deadline-2022/deadline-2022-08-28T15:53:13.720430-07:00.jpg"
-     alt="Deadline at 2022-08-28 15:53:15-07:00 local time"
+     alt="Deadline at 2022-08-28 08:53:15-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/deadline-2022/deadline-2022-08-28T15:53:13.720430-07:00.jpg">August 28 at 3:53 PM</a></p>
+ <p><a href="https://archive.org/download/deadline-2022/deadline-2022-08-28T15:53:13.720430-07:00.jpg">August 28 at 8:53 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/deadline-2022/deadline-2022-08-28T03:55:51.294513-07:00.jpg">
   <img src="https://archive.org/download/deadline-2022/deadline-2022-08-28T03:55:51.294513-07:00.jpg"
-     alt="Deadline at 2022-08-28 03:56:03-07:00 local time"
+     alt="Deadline at 2022-08-27 20:56:03-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/deadline-2022/deadline-2022-08-28T03:55:51.294513-07:00.jpg">August 28 at 3:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/deadline-2022/deadline-2022-08-27T15:57:24.176464-07:00.jpg">
-  <img src="https://archive.org/download/deadline-2022/deadline-2022-08-27T15:57:24.176464-07:00.jpg"
-     alt="Deadline at 2022-08-27 15:57:25-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/deadline-2022/deadline-2022-08-27T15:57:24.176464-07:00.jpg">August 27 at 3:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/deadline-2022/deadline-2022-08-27T03:51:36.707238-07:00.jpg">
-  <img src="https://archive.org/download/deadline-2022/deadline-2022-08-27T03:51:36.707238-07:00.jpg"
-     alt="Deadline at 2022-08-27 03:51:39-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/deadline-2022/deadline-2022-08-27T03:51:36.707238-07:00.jpg">August 27 at 3:51 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/deadline-2022/deadline-2022-08-26T15:52:59.515739-07:00.jpg">
-  <img src="https://archive.org/download/deadline-2022/deadline-2022-08-26T15:52:59.515739-07:00.jpg"
-     alt="Deadline at 2022-08-26 15:53:04-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/deadline-2022/deadline-2022-08-26T15:52:59.515739-07:00.jpg">August 26 at 3:53 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/deadline-2022/deadline-2022-08-26T03:53:11.068376-07:00.jpg">
-  <img src="https://archive.org/download/deadline-2022/deadline-2022-08-26T03:53:11.068376-07:00.jpg"
-     alt="Deadline at 2022-08-26 03:53:14-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/deadline-2022/deadline-2022-08-26T03:53:11.068376-07:00.jpg">August 26 at 3:53 AM</a></p>
+ <p><a href="https://archive.org/download/deadline-2022/deadline-2022-08-28T03:55:51.294513-07:00.jpg">August 27 at 8:56 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 85 hyperlink lists with the Internet Archive.
+The archiving routine has saved 89 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 31 at 3:57 PM](https://archive.org/download/deadline-2022/deadline-2022-08-31T15:57:22.196042-07:00.hyperlinks.json) |
-| [August 31 at 3:59 AM](https://archive.org/download/deadline-2022/deadline-2022-08-31T03:59:11.288467-07:00.hyperlinks.json) |
-| [August 30 at 4:04 PM](https://archive.org/download/deadline-2022/deadline-2022-08-30T16:04:53.128189-07:00.hyperlinks.json) |
-| [August 30 at 4:03 AM](https://archive.org/download/deadline-2022/deadline-2022-08-30T04:03:08.532909-07:00.hyperlinks.json) |
-| [August 29 at 4:00 PM](https://archive.org/download/deadline-2022/deadline-2022-08-29T16:00:31.737378-07:00.hyperlinks.json) |
-| [August 29 at 3:56 AM](https://archive.org/download/deadline-2022/deadline-2022-08-29T03:56:19.319870-07:00.hyperlinks.json) |
-| [August 28 at 3:53 PM](https://archive.org/download/deadline-2022/deadline-2022-08-28T15:53:13.720430-07:00.hyperlinks.json) |
-| [August 28 at 3:56 AM](https://archive.org/download/deadline-2022/deadline-2022-08-28T03:55:51.294513-07:00.hyperlinks.json) |
-| [August 27 at 3:57 PM](https://archive.org/download/deadline-2022/deadline-2022-08-27T15:57:24.176464-07:00.hyperlinks.json) |
-| [August 27 at 3:51 AM](https://archive.org/download/deadline-2022/deadline-2022-08-27T03:51:36.707238-07:00.hyperlinks.json) |
+| [September 2 at 9:55 AM](https://archive.org/download/deadline-2022/deadline-2022-09-02T16:55:33.195238-07:00.hyperlinks.json) |
+| [September 1 at 8:59 PM](https://archive.org/download/deadline-2022/deadline-2022-09-02T03:59:17.312253-07:00.hyperlinks.json) |
+| [September 1 at 9:03 AM](https://archive.org/download/deadline-2022/deadline-2022-09-01T16:02:48.599399-07:00.hyperlinks.json) |
+| [August 31 at 9:04 PM](https://archive.org/download/deadline-2022/deadline-2022-09-01T04:03:59.529788-07:00.hyperlinks.json) |
+| [August 31 at 8:57 AM](https://archive.org/download/deadline-2022/deadline-2022-08-31T15:57:22.196042-07:00.hyperlinks.json) |
+| [August 30 at 8:59 PM](https://archive.org/download/deadline-2022/deadline-2022-08-31T03:59:11.288467-07:00.hyperlinks.json) |
+| [August 30 at 9:04 AM](https://archive.org/download/deadline-2022/deadline-2022-08-30T16:04:53.128189-07:00.hyperlinks.json) |
+| [August 29 at 9:03 PM](https://archive.org/download/deadline-2022/deadline-2022-08-30T04:03:08.532909-07:00.hyperlinks.json) |
+| [August 29 at 9:00 AM](https://archive.org/download/deadline-2022/deadline-2022-08-29T16:00:31.737378-07:00.hyperlinks.json) |
+| [August 28 at 8:56 PM](https://archive.org/download/deadline-2022/deadline-2022-08-29T03:56:19.319870-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 91 accessibility trees with the Internet Archive.
+The archiving routine has saved 95 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 31 at 3:57 PM](https://archive.org/download/deadline-2022/deadline-2022-08-31T15:57:22.196042-07:00.accessibility.json) |
-| [August 31 at 3:59 AM](https://archive.org/download/deadline-2022/deadline-2022-08-31T03:59:11.288467-07:00.accessibility.json) |
-| [August 30 at 4:04 PM](https://archive.org/download/deadline-2022/deadline-2022-08-30T16:04:53.128189-07:00.accessibility.json) |
-| [August 30 at 4:03 AM](https://archive.org/download/deadline-2022/deadline-2022-08-30T04:03:08.532909-07:00.accessibility.json) |
-| [August 29 at 4:00 PM](https://archive.org/download/deadline-2022/deadline-2022-08-29T16:00:31.737378-07:00.accessibility.json) |
-| [August 29 at 3:56 AM](https://archive.org/download/deadline-2022/deadline-2022-08-29T03:56:19.319870-07:00.accessibility.json) |
-| [August 28 at 3:53 PM](https://archive.org/download/deadline-2022/deadline-2022-08-28T15:53:13.720430-07:00.accessibility.json) |
-| [August 28 at 3:56 AM](https://archive.org/download/deadline-2022/deadline-2022-08-28T03:55:51.294513-07:00.accessibility.json) |
-| [August 27 at 3:57 PM](https://archive.org/download/deadline-2022/deadline-2022-08-27T15:57:24.176464-07:00.accessibility.json) |
-| [August 27 at 3:51 AM](https://archive.org/download/deadline-2022/deadline-2022-08-27T03:51:36.707238-07:00.accessibility.json) |
+| [September 2 at 9:55 AM](https://archive.org/download/deadline-2022/deadline-2022-09-02T16:55:33.195238-07:00.accessibility.json) |
+| [September 1 at 8:59 PM](https://archive.org/download/deadline-2022/deadline-2022-09-02T03:59:17.312253-07:00.accessibility.json) |
+| [September 1 at 9:03 AM](https://archive.org/download/deadline-2022/deadline-2022-09-01T16:02:48.599399-07:00.accessibility.json) |
+| [August 31 at 9:04 PM](https://archive.org/download/deadline-2022/deadline-2022-09-01T04:03:59.529788-07:00.accessibility.json) |
+| [August 31 at 8:57 AM](https://archive.org/download/deadline-2022/deadline-2022-08-31T15:57:22.196042-07:00.accessibility.json) |
+| [August 30 at 8:59 PM](https://archive.org/download/deadline-2022/deadline-2022-08-31T03:59:11.288467-07:00.accessibility.json) |
+| [August 30 at 9:04 AM](https://archive.org/download/deadline-2022/deadline-2022-08-30T16:04:53.128189-07:00.accessibility.json) |
+| [August 29 at 9:03 PM](https://archive.org/download/deadline-2022/deadline-2022-08-30T04:03:08.532909-07:00.accessibility.json) |
+| [August 29 at 9:00 AM](https://archive.org/download/deadline-2022/deadline-2022-08-29T16:00:31.737378-07:00.accessibility.json) |
+| [August 28 at 8:56 PM](https://archive.org/download/deadline-2022/deadline-2022-08-29T03:56:19.319870-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 79 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 83 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 31 at 3:57 PM](https://archive.org/download/deadline-2022/deadline-2022-08-31T15:57:22.196042-07:00.lighthouse.json) |
-| [August 31 at 3:59 AM](https://archive.org/download/deadline-2022/deadline-2022-08-31T03:59:11.288467-07:00.lighthouse.json) |
-| [August 30 at 4:05 PM](https://archive.org/download/deadline-2022/deadline-2022-08-30T16:04:53.128189-07:00.lighthouse.json) |
-| [August 30 at 4:03 AM](https://archive.org/download/deadline-2022/deadline-2022-08-30T04:03:08.532909-07:00.lighthouse.json) |
-| [August 29 at 4:00 PM](https://archive.org/download/deadline-2022/deadline-2022-08-29T16:00:31.737378-07:00.lighthouse.json) |
-| [August 29 at 3:56 AM](https://archive.org/download/deadline-2022/deadline-2022-08-29T03:56:19.319870-07:00.lighthouse.json) |
-| [August 28 at 3:53 PM](https://archive.org/download/deadline-2022/deadline-2022-08-28T15:53:13.720430-07:00.lighthouse.json) |
-| [August 28 at 3:56 AM](https://archive.org/download/deadline-2022/deadline-2022-08-28T03:55:51.294513-07:00.lighthouse.json) |
-| [August 27 at 3:57 PM](https://archive.org/download/deadline-2022/deadline-2022-08-27T15:57:24.176464-07:00.lighthouse.json) |
-| [August 27 at 3:51 AM](https://archive.org/download/deadline-2022/deadline-2022-08-27T03:51:36.707238-07:00.lighthouse.json) |
+| [September 2 at 9:55 AM](https://archive.org/download/deadline-2022/deadline-2022-09-02T16:55:33.195238-07:00.lighthouse.json) |
+| [September 1 at 8:59 PM](https://archive.org/download/deadline-2022/deadline-2022-09-02T03:59:17.312253-07:00.lighthouse.json) |
+| [September 1 at 9:03 AM](https://archive.org/download/deadline-2022/deadline-2022-09-01T16:02:48.599399-07:00.lighthouse.json) |
+| [August 31 at 9:04 PM](https://archive.org/download/deadline-2022/deadline-2022-09-01T04:03:59.529788-07:00.lighthouse.json) |
+| [August 31 at 8:57 AM](https://archive.org/download/deadline-2022/deadline-2022-08-31T15:57:22.196042-07:00.lighthouse.json) |
+| [August 30 at 8:59 PM](https://archive.org/download/deadline-2022/deadline-2022-08-31T03:59:11.288467-07:00.lighthouse.json) |
+| [August 30 at 9:05 AM](https://archive.org/download/deadline-2022/deadline-2022-08-30T16:04:53.128189-07:00.lighthouse.json) |
+| [August 29 at 9:03 PM](https://archive.org/download/deadline-2022/deadline-2022-08-30T04:03:08.532909-07:00.lighthouse.json) |
+| [August 29 at 9:00 AM](https://archive.org/download/deadline-2022/deadline-2022-08-29T16:00:31.737378-07:00.lighthouse.json) |
+| [August 28 at 8:56 PM](https://archive.org/download/deadline-2022/deadline-2022-08-29T03:56:19.319870-07:00.lighthouse.json) |
 
 
 

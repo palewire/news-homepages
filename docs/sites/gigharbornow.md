@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 107 screenshots with the Internet Archive.
+The archiving routine has saved 111 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-31T08:06:16.867529-07:00.jpg">
-  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-31T08:06:16.867529-07:00.jpg"
-     alt="Gig Harbor Now at 2022-08-31 08:06:21-07:00 local time"
+ <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-09-02T08:06:55.416874-07:00.jpg">
+  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-09-02T08:06:55.416874-07:00.jpg"
+     alt="Gig Harbor Now at 2022-09-02 01:06:58-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-31T08:06:16.867529-07:00.jpg">August 31 at 8:06 AM</a></p>
+ <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-09-02T08:06:55.416874-07:00.jpg">September 2 at 1:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-09-01T20:46:49.781258-07:00.jpg">
+  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-09-01T20:46:49.781258-07:00.jpg"
+     alt="Gig Harbor Now at 2022-09-01 13:46:53-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-09-01T20:46:49.781258-07:00.jpg">September 1 at 1:46 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-09-01T08:19:21.716653-07:00.jpg">
+  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-09-01T08:19:21.716653-07:00.jpg"
+     alt="Gig Harbor Now at 2022-09-01 01:19:26-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-09-01T08:19:21.716653-07:00.jpg">September 1 at 1:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-31T20:44:01.359186-07:00.jpg">
+  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-31T20:44:01.359186-07:00.jpg"
+     alt="Gig Harbor Now at 2022-08-31 13:44:06-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-31T20:44:01.359186-07:00.jpg">August 31 at 1:44 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-31T08:06:16.867529-07:00.jpg">
+  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-31T08:06:16.867529-07:00.jpg"
+     alt="Gig Harbor Now at 2022-08-31 01:06:21-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-31T08:06:16.867529-07:00.jpg">August 31 at 1:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-30T20:46:26.515667-07:00.jpg">
   <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-30T20:46:26.515667-07:00.jpg"
-     alt="Gig Harbor Now at 2022-08-30 20:46:31-07:00 local time"
+     alt="Gig Harbor Now at 2022-08-30 13:46:31-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-30T20:46:26.515667-07:00.jpg">August 30 at 8:46 PM</a></p>
+ <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-30T20:46:26.515667-07:00.jpg">August 30 at 1:46 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-30T08:27:48.152797-07:00.jpg">
   <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-30T08:27:48.152797-07:00.jpg"
-     alt="Gig Harbor Now at 2022-08-30 08:27:52-07:00 local time"
+     alt="Gig Harbor Now at 2022-08-30 01:27:52-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-30T08:27:48.152797-07:00.jpg">August 30 at 8:27 AM</a></p>
+ <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-30T08:27:48.152797-07:00.jpg">August 30 at 1:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-29T20:52:19.871683-07:00.jpg">
   <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-29T20:52:19.871683-07:00.jpg"
-     alt="Gig Harbor Now at 2022-08-29 20:52:21-07:00 local time"
+     alt="Gig Harbor Now at 2022-08-29 13:52:21-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-29T20:52:19.871683-07:00.jpg">August 29 at 8:52 PM</a></p>
+ <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-29T20:52:19.871683-07:00.jpg">August 29 at 1:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-29T08:06:23.784004-07:00.jpg">
   <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-29T08:06:23.784004-07:00.jpg"
-     alt="Gig Harbor Now at 2022-08-29 08:06:27-07:00 local time"
+     alt="Gig Harbor Now at 2022-08-29 01:06:27-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-29T08:06:23.784004-07:00.jpg">August 29 at 8:06 AM</a></p>
+ <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-29T08:06:23.784004-07:00.jpg">August 29 at 1:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-28T20:42:25.996042-07:00.jpg">
   <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-28T20:42:25.996042-07:00.jpg"
-     alt="Gig Harbor Now at 2022-08-28 20:42:28-07:00 local time"
+     alt="Gig Harbor Now at 2022-08-28 13:42:28-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-28T20:42:25.996042-07:00.jpg">August 28 at 8:42 PM</a></p>
+ <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-28T20:42:25.996042-07:00.jpg">August 28 at 1:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-28T07:54:32.459552-07:00.jpg">
   <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-28T07:54:32.459552-07:00.jpg"
-     alt="Gig Harbor Now at 2022-08-28 07:54:37-07:00 local time"
+     alt="Gig Harbor Now at 2022-08-28 00:54:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-28T07:54:32.459552-07:00.jpg">August 28 at 7:54 AM</a></p>
+ <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-28T07:54:32.459552-07:00.jpg">August 28 at 12:54 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-27T20:39:42.330777-07:00.jpg">
   <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-27T20:39:42.330777-07:00.jpg"
-     alt="Gig Harbor Now at 2022-08-27 20:39:51-07:00 local time"
+     alt="Gig Harbor Now at 2022-08-27 13:39:51-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-27T20:39:42.330777-07:00.jpg">August 27 at 8:39 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-27T07:49:48.195541-07:00.jpg">
-  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-27T07:49:48.195541-07:00.jpg"
-     alt="Gig Harbor Now at 2022-08-27 07:49:52-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-27T07:49:48.195541-07:00.jpg">August 27 at 7:49 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-26T20:36:34.209978-07:00.jpg">
-  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-26T20:36:34.209978-07:00.jpg"
-     alt="Gig Harbor Now at 2022-08-26 20:36:37-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-26T20:36:34.209978-07:00.jpg">August 26 at 8:36 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-26T07:57:08.485448-07:00.jpg">
-  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-26T07:57:08.485448-07:00.jpg"
-     alt="Gig Harbor Now at 2022-08-26 07:57:12-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-26T07:57:08.485448-07:00.jpg">August 26 at 7:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-25T20:42:44.934137-07:00.jpg">
-  <img src="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-25T20:42:44.934137-07:00.jpg"
-     alt="Gig Harbor Now at 2022-08-25 20:42:49-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-25T20:42:44.934137-07:00.jpg">August 25 at 8:42 PM</a></p>
+ <p><a href="https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-27T20:39:42.330777-07:00.jpg">August 27 at 1:39 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 107 hyperlink lists with the Internet Archive.
+The archiving routine has saved 111 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 31 at 8:06 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-31T08:06:16.867529-07:00.hyperlinks.json) |
-| [August 30 at 8:46 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-30T20:46:26.515667-07:00.hyperlinks.json) |
-| [August 30 at 8:27 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-30T08:27:48.152797-07:00.hyperlinks.json) |
-| [August 29 at 8:52 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-29T20:52:19.871683-07:00.hyperlinks.json) |
-| [August 29 at 8:06 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-29T08:06:23.784004-07:00.hyperlinks.json) |
-| [August 28 at 8:42 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-28T20:42:25.996042-07:00.hyperlinks.json) |
-| [August 28 at 7:54 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-28T07:54:32.459552-07:00.hyperlinks.json) |
-| [August 27 at 8:39 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-27T20:39:42.330777-07:00.hyperlinks.json) |
-| [August 27 at 7:49 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-27T07:49:48.195541-07:00.hyperlinks.json) |
-| [August 26 at 8:36 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-26T20:36:34.209978-07:00.hyperlinks.json) |
+| [September 2 at 1:07 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-09-02T08:06:55.416874-07:00.hyperlinks.json) |
+| [September 1 at 1:46 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-09-01T20:46:49.781258-07:00.hyperlinks.json) |
+| [September 1 at 1:19 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-09-01T08:19:21.716653-07:00.hyperlinks.json) |
+| [August 31 at 1:44 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-31T20:44:01.359186-07:00.hyperlinks.json) |
+| [August 31 at 1:06 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-31T08:06:16.867529-07:00.hyperlinks.json) |
+| [August 30 at 1:46 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-30T20:46:26.515667-07:00.hyperlinks.json) |
+| [August 30 at 1:27 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-30T08:27:48.152797-07:00.hyperlinks.json) |
+| [August 29 at 1:52 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-29T20:52:19.871683-07:00.hyperlinks.json) |
+| [August 29 at 1:06 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-29T08:06:23.784004-07:00.hyperlinks.json) |
+| [August 28 at 1:42 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-28T20:42:25.996042-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 105 accessibility trees with the Internet Archive.
+The archiving routine has saved 109 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 31 at 8:06 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-31T08:06:16.867529-07:00.accessibility.json) |
-| [August 30 at 8:46 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-30T20:46:26.515667-07:00.accessibility.json) |
-| [August 30 at 8:27 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-30T08:27:48.152797-07:00.accessibility.json) |
-| [August 29 at 8:52 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-29T20:52:19.871683-07:00.accessibility.json) |
-| [August 29 at 8:06 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-29T08:06:23.784004-07:00.accessibility.json) |
-| [August 28 at 8:42 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-28T20:42:25.996042-07:00.accessibility.json) |
-| [August 28 at 7:54 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-28T07:54:32.459552-07:00.accessibility.json) |
-| [August 27 at 8:39 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-27T20:39:42.330777-07:00.accessibility.json) |
-| [August 27 at 7:49 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-27T07:49:48.195541-07:00.accessibility.json) |
-| [August 26 at 8:36 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-26T20:36:34.209978-07:00.accessibility.json) |
+| [September 2 at 1:07 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-09-02T08:06:55.416874-07:00.accessibility.json) |
+| [September 1 at 1:46 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-09-01T20:46:49.781258-07:00.accessibility.json) |
+| [September 1 at 1:19 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-09-01T08:19:21.716653-07:00.accessibility.json) |
+| [August 31 at 1:44 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-31T20:44:01.359186-07:00.accessibility.json) |
+| [August 31 at 1:06 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-31T08:06:16.867529-07:00.accessibility.json) |
+| [August 30 at 1:46 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-30T20:46:26.515667-07:00.accessibility.json) |
+| [August 30 at 1:27 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-30T08:27:48.152797-07:00.accessibility.json) |
+| [August 29 at 1:52 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-29T20:52:19.871683-07:00.accessibility.json) |
+| [August 29 at 1:06 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-29T08:06:23.784004-07:00.accessibility.json) |
+| [August 28 at 1:42 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-28T20:42:25.996042-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 77 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 81 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 31 at 8:06 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-31T08:06:16.867529-07:00.lighthouse.json) |
-| [August 30 at 8:46 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-30T20:46:26.515667-07:00.lighthouse.json) |
-| [August 30 at 8:27 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-30T08:27:48.152797-07:00.lighthouse.json) |
-| [August 29 at 8:52 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-29T20:52:19.871683-07:00.lighthouse.json) |
-| [August 29 at 8:06 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-29T08:06:23.784004-07:00.lighthouse.json) |
-| [August 28 at 8:42 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-28T20:42:25.996042-07:00.lighthouse.json) |
-| [August 28 at 7:54 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-28T07:54:32.459552-07:00.lighthouse.json) |
-| [August 27 at 8:39 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-27T20:39:42.330777-07:00.lighthouse.json) |
-| [August 27 at 7:49 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-27T07:49:48.195541-07:00.lighthouse.json) |
-| [August 26 at 8:36 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-26T20:36:34.209978-07:00.lighthouse.json) |
+| [September 2 at 1:07 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-09-02T08:06:55.416874-07:00.lighthouse.json) |
+| [September 1 at 1:46 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-09-01T20:46:49.781258-07:00.lighthouse.json) |
+| [September 1 at 1:19 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-09-01T08:19:21.716653-07:00.lighthouse.json) |
+| [August 31 at 1:44 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-31T20:44:01.359186-07:00.lighthouse.json) |
+| [August 31 at 1:06 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-31T08:06:16.867529-07:00.lighthouse.json) |
+| [August 30 at 1:46 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-30T20:46:26.515667-07:00.lighthouse.json) |
+| [August 30 at 1:27 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-30T08:27:48.152797-07:00.lighthouse.json) |
+| [August 29 at 1:52 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-29T20:52:19.871683-07:00.lighthouse.json) |
+| [August 29 at 1:06 AM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-29T08:06:23.784004-07:00.lighthouse.json) |
+| [August 28 at 1:42 PM](https://archive.org/download/gigharbornow-2022/gigharbornow-2022-08-28T20:42:25.996042-07:00.lighthouse.json) |
 
 
 

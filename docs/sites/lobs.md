@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 186 screenshots with the Internet Archive.
+The archiving routine has saved 192 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/lobs-2022/lobs-2022-08-31T17:09:13.812183+02:00.jpg">
-  <img src="https://archive.org/download/lobs-2022/lobs-2022-08-31T17:09:13.812183+02:00.jpg"
-     alt="L’Obs at 2022-08-31 17:09:16+02:00 local time"
+ <a href="https://archive.org/download/lobs-2022/lobs-2022-09-02T17:10:10.592030+02:00.jpg">
+  <img src="https://archive.org/download/lobs-2022/lobs-2022-09-02T17:10:10.592030+02:00.jpg"
+     alt="L’Obs at 2022-09-02 10:10:14+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lobs-2022/lobs-2022-08-31T17:09:13.812183+02:00.jpg">August 31 at 5:09 PM</a></p>
+ <p><a href="https://archive.org/download/lobs-2022/lobs-2022-09-02T17:10:10.592030+02:00.jpg">September 2 at 10:10 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lobs-2022/lobs-2022-09-02T10:16:00.684870+02:00.jpg">
+  <img src="https://archive.org/download/lobs-2022/lobs-2022-09-02T10:16:00.684870+02:00.jpg"
+     alt="L’Obs at 2022-09-02 03:16:02+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lobs-2022/lobs-2022-09-02T10:16:00.684870+02:00.jpg">September 2 at 3:16 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lobs-2022/lobs-2022-09-02T05:52:09.201843+02:00.jpg">
+  <img src="https://archive.org/download/lobs-2022/lobs-2022-09-02T05:52:09.201843+02:00.jpg"
+     alt="L’Obs at 2022-09-01 22:52:16+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lobs-2022/lobs-2022-09-02T05:52:09.201843+02:00.jpg">September 1 at 10:52 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lobs-2022/lobs-2022-09-01T17:30:09.138923+02:00.jpg">
+  <img src="https://archive.org/download/lobs-2022/lobs-2022-09-01T17:30:09.138923+02:00.jpg"
+     alt="L’Obs at 2022-09-01 10:30:14+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lobs-2022/lobs-2022-09-01T17:30:09.138923+02:00.jpg">September 1 at 10:30 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lobs-2022/lobs-2022-09-01T10:16:07.081474+02:00.jpg">
+  <img src="https://archive.org/download/lobs-2022/lobs-2022-09-01T10:16:07.081474+02:00.jpg"
+     alt="L’Obs at 2022-09-01 03:16:21+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lobs-2022/lobs-2022-09-01T10:16:07.081474+02:00.jpg">September 1 at 3:16 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lobs-2022/lobs-2022-09-01T05:47:09.195849+02:00.jpg">
+  <img src="https://archive.org/download/lobs-2022/lobs-2022-09-01T05:47:09.195849+02:00.jpg"
+     alt="L’Obs at 2022-08-31 22:47:10+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lobs-2022/lobs-2022-09-01T05:47:09.195849+02:00.jpg">August 31 at 10:47 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lobs-2022/lobs-2022-08-31T17:09:13.812183+02:00.jpg">
+  <img src="https://archive.org/download/lobs-2022/lobs-2022-08-31T17:09:13.812183+02:00.jpg"
+     alt="L’Obs at 2022-08-31 10:09:16+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lobs-2022/lobs-2022-08-31T17:09:13.812183+02:00.jpg">August 31 at 10:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lobs-2022/lobs-2022-08-31T10:14:44.830484+02:00.jpg">
   <img src="https://archive.org/download/lobs-2022/lobs-2022-08-31T10:14:44.830484+02:00.jpg"
-     alt="L’Obs at 2022-08-31 10:14:51+02:00 local time"
+     alt="L’Obs at 2022-08-31 03:14:51+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lobs-2022/lobs-2022-08-31T10:14:44.830484+02:00.jpg">August 31 at 10:14 AM</a></p>
+ <p><a href="https://archive.org/download/lobs-2022/lobs-2022-08-31T10:14:44.830484+02:00.jpg">August 31 at 3:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lobs-2022/lobs-2022-08-31T05:49:37.237737+02:00.jpg">
   <img src="https://archive.org/download/lobs-2022/lobs-2022-08-31T05:49:37.237737+02:00.jpg"
-     alt="L’Obs at 2022-08-31 05:49:39+02:00 local time"
+     alt="L’Obs at 2022-08-30 22:49:39+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lobs-2022/lobs-2022-08-31T05:49:37.237737+02:00.jpg">August 31 at 5:49 AM</a></p>
+ <p><a href="https://archive.org/download/lobs-2022/lobs-2022-08-31T05:49:37.237737+02:00.jpg">August 30 at 10:49 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lobs-2022/lobs-2022-08-30T17:34:53.928961+02:00.jpg">
   <img src="https://archive.org/download/lobs-2022/lobs-2022-08-30T17:34:53.928961+02:00.jpg"
-     alt="L’Obs at 2022-08-30 17:35:04+02:00 local time"
+     alt="L’Obs at 2022-08-30 10:35:04+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lobs-2022/lobs-2022-08-30T17:34:53.928961+02:00.jpg">August 30 at 5:35 PM</a></p>
+ <p><a href="https://archive.org/download/lobs-2022/lobs-2022-08-30T17:34:53.928961+02:00.jpg">August 30 at 10:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lobs-2022/lobs-2022-08-30T10:16:51.690252+02:00.jpg">
   <img src="https://archive.org/download/lobs-2022/lobs-2022-08-30T10:16:51.690252+02:00.jpg"
-     alt="L’Obs at 2022-08-30 10:16:53+02:00 local time"
+     alt="L’Obs at 2022-08-30 03:16:53+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lobs-2022/lobs-2022-08-30T10:16:51.690252+02:00.jpg">August 30 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/lobs-2022/lobs-2022-08-30T10:16:51.690252+02:00.jpg">August 30 at 3:16 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lobs-2022/lobs-2022-08-30T05:55:47.210614+02:00.jpg">
   <img src="https://archive.org/download/lobs-2022/lobs-2022-08-30T05:55:47.210614+02:00.jpg"
-     alt="L’Obs at 2022-08-30 05:55:58+02:00 local time"
+     alt="L’Obs at 2022-08-29 22:55:58+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lobs-2022/lobs-2022-08-30T05:55:47.210614+02:00.jpg">August 30 at 5:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lobs-2022/lobs-2022-08-29T17:10:09.066486+02:00.jpg">
-  <img src="https://archive.org/download/lobs-2022/lobs-2022-08-29T17:10:09.066486+02:00.jpg"
-     alt="L’Obs at 2022-08-29 17:10:10+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lobs-2022/lobs-2022-08-29T17:10:09.066486+02:00.jpg">August 29 at 5:10 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lobs-2022/lobs-2022-08-29T10:14:31.970911+02:00.jpg">
-  <img src="https://archive.org/download/lobs-2022/lobs-2022-08-29T10:14:31.970911+02:00.jpg"
-     alt="L’Obs at 2022-08-29 10:14:33+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lobs-2022/lobs-2022-08-29T10:14:31.970911+02:00.jpg">August 29 at 10:14 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lobs-2022/lobs-2022-08-29T05:45:50.402595+02:00.jpg">
-  <img src="https://archive.org/download/lobs-2022/lobs-2022-08-29T05:45:50.402595+02:00.jpg"
-     alt="L’Obs at 2022-08-29 05:45:51+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lobs-2022/lobs-2022-08-29T05:45:50.402595+02:00.jpg">August 29 at 5:45 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lobs-2022/lobs-2022-08-28T16:58:38.821432+02:00.jpg">
-  <img src="https://archive.org/download/lobs-2022/lobs-2022-08-28T16:58:38.821432+02:00.jpg"
-     alt="L’Obs at 2022-08-28 16:58:46+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lobs-2022/lobs-2022-08-28T16:58:38.821432+02:00.jpg">August 28 at 4:58 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lobs-2022/lobs-2022-08-28T10:14:44.127760+02:00.jpg">
-  <img src="https://archive.org/download/lobs-2022/lobs-2022-08-28T10:14:44.127760+02:00.jpg"
-     alt="L’Obs at 2022-08-28 10:14:46+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lobs-2022/lobs-2022-08-28T10:14:44.127760+02:00.jpg">August 28 at 10:14 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lobs-2022/lobs-2022-08-28T05:42:45.988533+02:00.jpg">
-  <img src="https://archive.org/download/lobs-2022/lobs-2022-08-28T05:42:45.988533+02:00.jpg"
-     alt="L’Obs at 2022-08-28 05:42:47+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lobs-2022/lobs-2022-08-28T05:42:45.988533+02:00.jpg">August 28 at 5:42 AM</a></p>
+ <p><a href="https://archive.org/download/lobs-2022/lobs-2022-08-30T05:55:47.210614+02:00.jpg">August 29 at 10:55 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 186 hyperlink lists with the Internet Archive.
+The archiving routine has saved 192 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 31 at 5:09 PM](https://archive.org/download/lobs-2022/lobs-2022-08-31T17:09:13.812183+02:00.hyperlinks.json) |
-| [August 31 at 10:14 AM](https://archive.org/download/lobs-2022/lobs-2022-08-31T10:14:44.830484+02:00.hyperlinks.json) |
-| [August 31 at 5:49 AM](https://archive.org/download/lobs-2022/lobs-2022-08-31T05:49:37.237737+02:00.hyperlinks.json) |
-| [August 30 at 5:35 PM](https://archive.org/download/lobs-2022/lobs-2022-08-30T17:34:53.928961+02:00.hyperlinks.json) |
-| [August 30 at 10:16 AM](https://archive.org/download/lobs-2022/lobs-2022-08-30T10:16:51.690252+02:00.hyperlinks.json) |
-| [August 30 at 5:56 AM](https://archive.org/download/lobs-2022/lobs-2022-08-30T05:55:47.210614+02:00.hyperlinks.json) |
-| [August 29 at 5:10 PM](https://archive.org/download/lobs-2022/lobs-2022-08-29T17:10:09.066486+02:00.hyperlinks.json) |
-| [August 29 at 10:14 AM](https://archive.org/download/lobs-2022/lobs-2022-08-29T10:14:31.970911+02:00.hyperlinks.json) |
-| [August 29 at 5:45 AM](https://archive.org/download/lobs-2022/lobs-2022-08-29T05:45:50.402595+02:00.hyperlinks.json) |
-| [August 28 at 4:58 PM](https://archive.org/download/lobs-2022/lobs-2022-08-28T16:58:38.821432+02:00.hyperlinks.json) |
+| [September 2 at 10:10 AM](https://archive.org/download/lobs-2022/lobs-2022-09-02T17:10:10.592030+02:00.hyperlinks.json) |
+| [September 2 at 3:16 AM](https://archive.org/download/lobs-2022/lobs-2022-09-02T10:16:00.684870+02:00.hyperlinks.json) |
+| [September 1 at 10:52 PM](https://archive.org/download/lobs-2022/lobs-2022-09-02T05:52:09.201843+02:00.hyperlinks.json) |
+| [September 1 at 10:30 AM](https://archive.org/download/lobs-2022/lobs-2022-09-01T17:30:09.138923+02:00.hyperlinks.json) |
+| [September 1 at 3:16 AM](https://archive.org/download/lobs-2022/lobs-2022-09-01T10:16:07.081474+02:00.hyperlinks.json) |
+| [August 31 at 10:47 PM](https://archive.org/download/lobs-2022/lobs-2022-09-01T05:47:09.195849+02:00.hyperlinks.json) |
+| [August 31 at 10:09 AM](https://archive.org/download/lobs-2022/lobs-2022-08-31T17:09:13.812183+02:00.hyperlinks.json) |
+| [August 31 at 3:14 AM](https://archive.org/download/lobs-2022/lobs-2022-08-31T10:14:44.830484+02:00.hyperlinks.json) |
+| [August 30 at 10:49 PM](https://archive.org/download/lobs-2022/lobs-2022-08-31T05:49:37.237737+02:00.hyperlinks.json) |
+| [August 30 at 10:35 AM](https://archive.org/download/lobs-2022/lobs-2022-08-30T17:34:53.928961+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 186 accessibility trees with the Internet Archive.
+The archiving routine has saved 192 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 31 at 5:09 PM](https://archive.org/download/lobs-2022/lobs-2022-08-31T17:09:13.812183+02:00.accessibility.json) |
-| [August 31 at 10:14 AM](https://archive.org/download/lobs-2022/lobs-2022-08-31T10:14:44.830484+02:00.accessibility.json) |
-| [August 31 at 5:49 AM](https://archive.org/download/lobs-2022/lobs-2022-08-31T05:49:37.237737+02:00.accessibility.json) |
-| [August 30 at 5:35 PM](https://archive.org/download/lobs-2022/lobs-2022-08-30T17:34:53.928961+02:00.accessibility.json) |
-| [August 30 at 10:16 AM](https://archive.org/download/lobs-2022/lobs-2022-08-30T10:16:51.690252+02:00.accessibility.json) |
-| [August 30 at 5:55 AM](https://archive.org/download/lobs-2022/lobs-2022-08-30T05:55:47.210614+02:00.accessibility.json) |
-| [August 29 at 5:10 PM](https://archive.org/download/lobs-2022/lobs-2022-08-29T17:10:09.066486+02:00.accessibility.json) |
-| [August 29 at 10:14 AM](https://archive.org/download/lobs-2022/lobs-2022-08-29T10:14:31.970911+02:00.accessibility.json) |
-| [August 29 at 5:45 AM](https://archive.org/download/lobs-2022/lobs-2022-08-29T05:45:50.402595+02:00.accessibility.json) |
-| [August 28 at 4:58 PM](https://archive.org/download/lobs-2022/lobs-2022-08-28T16:58:38.821432+02:00.accessibility.json) |
+| [September 2 at 10:10 AM](https://archive.org/download/lobs-2022/lobs-2022-09-02T17:10:10.592030+02:00.accessibility.json) |
+| [September 2 at 3:16 AM](https://archive.org/download/lobs-2022/lobs-2022-09-02T10:16:00.684870+02:00.accessibility.json) |
+| [September 1 at 10:52 PM](https://archive.org/download/lobs-2022/lobs-2022-09-02T05:52:09.201843+02:00.accessibility.json) |
+| [September 1 at 10:30 AM](https://archive.org/download/lobs-2022/lobs-2022-09-01T17:30:09.138923+02:00.accessibility.json) |
+| [September 1 at 3:16 AM](https://archive.org/download/lobs-2022/lobs-2022-09-01T10:16:07.081474+02:00.accessibility.json) |
+| [August 31 at 10:47 PM](https://archive.org/download/lobs-2022/lobs-2022-09-01T05:47:09.195849+02:00.accessibility.json) |
+| [August 31 at 10:09 AM](https://archive.org/download/lobs-2022/lobs-2022-08-31T17:09:13.812183+02:00.accessibility.json) |
+| [August 31 at 3:14 AM](https://archive.org/download/lobs-2022/lobs-2022-08-31T10:14:44.830484+02:00.accessibility.json) |
+| [August 30 at 10:49 PM](https://archive.org/download/lobs-2022/lobs-2022-08-31T05:49:37.237737+02:00.accessibility.json) |
+| [August 30 at 10:35 AM](https://archive.org/download/lobs-2022/lobs-2022-08-30T17:34:53.928961+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 114 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 120 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 31 at 5:09 PM](https://archive.org/download/lobs-2022/lobs-2022-08-31T17:09:13.812183+02:00.lighthouse.json) |
-| [August 31 at 10:14 AM](https://archive.org/download/lobs-2022/lobs-2022-08-31T10:14:44.830484+02:00.lighthouse.json) |
-| [August 31 at 5:49 AM](https://archive.org/download/lobs-2022/lobs-2022-08-31T05:49:37.237737+02:00.lighthouse.json) |
-| [August 30 at 5:35 PM](https://archive.org/download/lobs-2022/lobs-2022-08-30T17:34:53.928961+02:00.lighthouse.json) |
-| [August 30 at 10:16 AM](https://archive.org/download/lobs-2022/lobs-2022-08-30T10:16:51.690252+02:00.lighthouse.json) |
-| [August 30 at 5:56 AM](https://archive.org/download/lobs-2022/lobs-2022-08-30T05:55:47.210614+02:00.lighthouse.json) |
-| [August 29 at 5:10 PM](https://archive.org/download/lobs-2022/lobs-2022-08-29T17:10:09.066486+02:00.lighthouse.json) |
-| [August 29 at 10:14 AM](https://archive.org/download/lobs-2022/lobs-2022-08-29T10:14:31.970911+02:00.lighthouse.json) |
-| [August 29 at 5:45 AM](https://archive.org/download/lobs-2022/lobs-2022-08-29T05:45:50.402595+02:00.lighthouse.json) |
-| [August 28 at 4:58 PM](https://archive.org/download/lobs-2022/lobs-2022-08-28T16:58:38.821432+02:00.lighthouse.json) |
+| [September 2 at 10:10 AM](https://archive.org/download/lobs-2022/lobs-2022-09-02T17:10:10.592030+02:00.lighthouse.json) |
+| [September 2 at 3:16 AM](https://archive.org/download/lobs-2022/lobs-2022-09-02T10:16:00.684870+02:00.lighthouse.json) |
+| [September 1 at 10:52 PM](https://archive.org/download/lobs-2022/lobs-2022-09-02T05:52:09.201843+02:00.lighthouse.json) |
+| [September 1 at 10:30 AM](https://archive.org/download/lobs-2022/lobs-2022-09-01T17:30:09.138923+02:00.lighthouse.json) |
+| [September 1 at 3:16 AM](https://archive.org/download/lobs-2022/lobs-2022-09-01T10:16:07.081474+02:00.lighthouse.json) |
+| [August 31 at 10:47 PM](https://archive.org/download/lobs-2022/lobs-2022-09-01T05:47:09.195849+02:00.lighthouse.json) |
+| [August 31 at 10:09 AM](https://archive.org/download/lobs-2022/lobs-2022-08-31T17:09:13.812183+02:00.lighthouse.json) |
+| [August 31 at 3:14 AM](https://archive.org/download/lobs-2022/lobs-2022-08-31T10:14:44.830484+02:00.lighthouse.json) |
+| [August 30 at 10:49 PM](https://archive.org/download/lobs-2022/lobs-2022-08-31T05:49:37.237737+02:00.lighthouse.json) |
+| [August 30 at 10:35 AM](https://archive.org/download/lobs-2022/lobs-2022-08-30T17:34:53.928961+02:00.lighthouse.json) |
 
 
 

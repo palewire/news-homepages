@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 17 screenshots with the Internet Archive.
+The archiving routine has saved 21 screenshots with the Internet Archive.
 
 
 
@@ -243,118 +243,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-31T15:11:10.108052+02:00.jpg">
-  <img src="https://archive.org/download/oxciej-2022/oxciej-2022-08-31T15:11:10.108052+02:00.jpg"
-     alt="Oxpeckers at 2022-08-31 15:11:12+02:00 local time"
+ <a href="https://archive.org/download/oxciej-2022/oxciej-2022-09-02T15:01:45.452660+02:00.jpg">
+  <img src="https://archive.org/download/oxciej-2022/oxciej-2022-09-02T15:01:45.452660+02:00.jpg"
+     alt="Oxpeckers at 2022-09-02 08:01:52+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-31T15:11:10.108052+02:00.jpg">August 31 at 3:11 PM</a></p>
+ <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-09-02T15:01:45.452660+02:00.jpg">September 2 at 8:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oxciej-2022/oxciej-2022-09-02T03:16:28.060985+02:00.jpg">
+  <img src="https://archive.org/download/oxciej-2022/oxciej-2022-09-02T03:16:28.060985+02:00.jpg"
+     alt="Oxpeckers at 2022-09-01 20:16:29+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-09-02T03:16:28.060985+02:00.jpg">September 1 at 8:16 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oxciej-2022/oxciej-2022-09-01T15:12:01.544811+02:00.jpg">
+  <img src="https://archive.org/download/oxciej-2022/oxciej-2022-09-01T15:12:01.544811+02:00.jpg"
+     alt="Oxpeckers at 2022-09-01 08:12:11+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-09-01T15:12:01.544811+02:00.jpg">September 1 at 8:12 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oxciej-2022/oxciej-2022-09-01T03:13:27.451950+02:00.jpg">
+  <img src="https://archive.org/download/oxciej-2022/oxciej-2022-09-01T03:13:27.451950+02:00.jpg"
+     alt="Oxpeckers at 2022-08-31 20:13:29+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-09-01T03:13:27.451950+02:00.jpg">August 31 at 8:13 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-31T15:11:10.108052+02:00.jpg">
+  <img src="https://archive.org/download/oxciej-2022/oxciej-2022-08-31T15:11:10.108052+02:00.jpg"
+     alt="Oxpeckers at 2022-08-31 08:11:12+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-31T15:11:10.108052+02:00.jpg">August 31 at 8:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-31T03:23:23.693830+02:00.jpg">
   <img src="https://archive.org/download/oxciej-2022/oxciej-2022-08-31T03:23:23.693830+02:00.jpg"
-     alt="Oxpeckers at 2022-08-31 03:23:25+02:00 local time"
+     alt="Oxpeckers at 2022-08-30 20:23:25+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-31T03:23:23.693830+02:00.jpg">August 31 at 3:23 AM</a></p>
+ <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-31T03:23:23.693830+02:00.jpg">August 30 at 8:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-30T15:08:48.275914+02:00.jpg">
   <img src="https://archive.org/download/oxciej-2022/oxciej-2022-08-30T15:08:48.275914+02:00.jpg"
-     alt="Oxpeckers at 2022-08-30 15:08:50+02:00 local time"
+     alt="Oxpeckers at 2022-08-30 08:08:50+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-30T15:08:48.275914+02:00.jpg">August 30 at 3:08 PM</a></p>
+ <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-30T15:08:48.275914+02:00.jpg">August 30 at 8:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-30T03:15:15.755316+02:00.jpg">
   <img src="https://archive.org/download/oxciej-2022/oxciej-2022-08-30T03:15:15.755316+02:00.jpg"
-     alt="Oxpeckers at 2022-08-30 03:15:17+02:00 local time"
+     alt="Oxpeckers at 2022-08-29 20:15:17+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-30T03:15:15.755316+02:00.jpg">August 30 at 3:15 AM</a></p>
+ <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-30T03:15:15.755316+02:00.jpg">August 29 at 8:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-29T14:59:03.835163+02:00.jpg">
   <img src="https://archive.org/download/oxciej-2022/oxciej-2022-08-29T14:59:03.835163+02:00.jpg"
-     alt="Oxpeckers at 2022-08-29 14:59:06+02:00 local time"
+     alt="Oxpeckers at 2022-08-29 07:59:06+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-29T14:59:03.835163+02:00.jpg">August 29 at 2:59 PM</a></p>
+ <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-29T14:59:03.835163+02:00.jpg">August 29 at 7:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-29T03:14:44.057834+02:00.jpg">
   <img src="https://archive.org/download/oxciej-2022/oxciej-2022-08-29T03:14:44.057834+02:00.jpg"
-     alt="Oxpeckers at 2022-08-29 03:14:45+02:00 local time"
+     alt="Oxpeckers at 2022-08-28 20:14:45+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-29T03:14:44.057834+02:00.jpg">August 29 at 3:14 AM</a></p>
+ <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-29T03:14:44.057834+02:00.jpg">August 28 at 8:14 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-28T14:59:27.101668+02:00.jpg">
   <img src="https://archive.org/download/oxciej-2022/oxciej-2022-08-28T14:59:27.101668+02:00.jpg"
-     alt="Oxpeckers at 2022-08-28 14:59:28+02:00 local time"
+     alt="Oxpeckers at 2022-08-28 07:59:28+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-28T14:59:27.101668+02:00.jpg">August 28 at 2:59 PM</a></p>
+ <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-28T14:59:27.101668+02:00.jpg">August 28 at 7:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-28T03:26:41.517837+02:00.jpg">
   <img src="https://archive.org/download/oxciej-2022/oxciej-2022-08-28T03:26:41.517837+02:00.jpg"
-     alt="Oxpeckers at 2022-08-28 03:26:43+02:00 local time"
+     alt="Oxpeckers at 2022-08-27 20:26:43+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-28T03:26:41.517837+02:00.jpg">August 28 at 3:26 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-27T14:55:19.953093+02:00.jpg">
-  <img src="https://archive.org/download/oxciej-2022/oxciej-2022-08-27T14:55:19.953093+02:00.jpg"
-     alt="Oxpeckers at 2022-08-27 14:55:22+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-27T14:55:19.953093+02:00.jpg">August 27 at 2:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-27T03:06:31.496333+02:00.jpg">
-  <img src="https://archive.org/download/oxciej-2022/oxciej-2022-08-27T03:06:31.496333+02:00.jpg"
-     alt="Oxpeckers at 2022-08-27 03:06:33+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-27T03:06:31.496333+02:00.jpg">August 27 at 3:06 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-26T14:59:43.326397+02:00.jpg">
-  <img src="https://archive.org/download/oxciej-2022/oxciej-2022-08-26T14:59:43.326397+02:00.jpg"
-     alt="Oxpeckers at 2022-08-26 14:59:44+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-26T14:59:43.326397+02:00.jpg">August 26 at 2:59 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-26T03:13:30.728863+02:00.jpg">
-  <img src="https://archive.org/download/oxciej-2022/oxciej-2022-08-26T03:13:30.728863+02:00.jpg"
-     alt="Oxpeckers at 2022-08-26 03:13:32+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-26T03:13:30.728863+02:00.jpg">August 26 at 3:13 AM</a></p>
+ <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-08-28T03:26:41.517837+02:00.jpg">August 27 at 8:26 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 21 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,21 +362,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 31 at 3:11 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-31T15:11:10.108052+02:00.hyperlinks.json) |
-| [August 31 at 3:23 AM](https://archive.org/download/oxciej-2022/oxciej-2022-08-31T03:23:23.693830+02:00.hyperlinks.json) |
-| [August 30 at 3:08 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-30T15:08:48.275914+02:00.hyperlinks.json) |
-| [August 30 at 3:15 AM](https://archive.org/download/oxciej-2022/oxciej-2022-08-30T03:15:15.755316+02:00.hyperlinks.json) |
-| [August 29 at 2:59 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-29T14:59:03.835163+02:00.hyperlinks.json) |
-| [August 29 at 3:14 AM](https://archive.org/download/oxciej-2022/oxciej-2022-08-29T03:14:44.057834+02:00.hyperlinks.json) |
-| [August 28 at 2:59 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-28T14:59:27.101668+02:00.hyperlinks.json) |
-| [August 28 at 3:26 AM](https://archive.org/download/oxciej-2022/oxciej-2022-08-28T03:26:41.517837+02:00.hyperlinks.json) |
-| [August 27 at 2:55 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-27T14:55:19.953093+02:00.hyperlinks.json) |
-| [August 27 at 3:06 AM](https://archive.org/download/oxciej-2022/oxciej-2022-08-27T03:06:31.496333+02:00.hyperlinks.json) |
+| [September 2 at 8:01 AM](https://archive.org/download/oxciej-2022/oxciej-2022-09-02T15:01:45.452660+02:00.hyperlinks.json) |
+| [September 1 at 8:16 PM](https://archive.org/download/oxciej-2022/oxciej-2022-09-02T03:16:28.060985+02:00.hyperlinks.json) |
+| [September 1 at 8:12 AM](https://archive.org/download/oxciej-2022/oxciej-2022-09-01T15:12:01.544811+02:00.hyperlinks.json) |
+| [August 31 at 8:13 PM](https://archive.org/download/oxciej-2022/oxciej-2022-09-01T03:13:27.451950+02:00.hyperlinks.json) |
+| [August 31 at 8:11 AM](https://archive.org/download/oxciej-2022/oxciej-2022-08-31T15:11:10.108052+02:00.hyperlinks.json) |
+| [August 30 at 8:23 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-31T03:23:23.693830+02:00.hyperlinks.json) |
+| [August 30 at 8:08 AM](https://archive.org/download/oxciej-2022/oxciej-2022-08-30T15:08:48.275914+02:00.hyperlinks.json) |
+| [August 29 at 8:15 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-30T03:15:15.755316+02:00.hyperlinks.json) |
+| [August 29 at 7:59 AM](https://archive.org/download/oxciej-2022/oxciej-2022-08-29T14:59:03.835163+02:00.hyperlinks.json) |
+| [August 28 at 8:14 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-29T03:14:44.057834+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 17 accessibility trees with the Internet Archive.
+The archiving routine has saved 21 accessibility trees with the Internet Archive.
 
 
 
@@ -384,22 +384,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 31 at 3:11 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-31T15:11:10.108052+02:00.accessibility.json) |
-| [August 31 at 3:23 AM](https://archive.org/download/oxciej-2022/oxciej-2022-08-31T03:23:23.693830+02:00.accessibility.json) |
-| [August 30 at 3:08 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-30T15:08:48.275914+02:00.accessibility.json) |
-| [August 30 at 3:15 AM](https://archive.org/download/oxciej-2022/oxciej-2022-08-30T03:15:15.755316+02:00.accessibility.json) |
-| [August 29 at 2:59 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-29T14:59:03.835163+02:00.accessibility.json) |
-| [August 29 at 3:14 AM](https://archive.org/download/oxciej-2022/oxciej-2022-08-29T03:14:44.057834+02:00.accessibility.json) |
-| [August 28 at 2:59 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-28T14:59:27.101668+02:00.accessibility.json) |
-| [August 28 at 3:26 AM](https://archive.org/download/oxciej-2022/oxciej-2022-08-28T03:26:41.517837+02:00.accessibility.json) |
-| [August 27 at 2:55 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-27T14:55:19.953093+02:00.accessibility.json) |
-| [August 27 at 3:06 AM](https://archive.org/download/oxciej-2022/oxciej-2022-08-27T03:06:31.496333+02:00.accessibility.json) |
+| [September 2 at 8:01 AM](https://archive.org/download/oxciej-2022/oxciej-2022-09-02T15:01:45.452660+02:00.accessibility.json) |
+| [September 1 at 8:16 PM](https://archive.org/download/oxciej-2022/oxciej-2022-09-02T03:16:28.060985+02:00.accessibility.json) |
+| [September 1 at 8:12 AM](https://archive.org/download/oxciej-2022/oxciej-2022-09-01T15:12:01.544811+02:00.accessibility.json) |
+| [August 31 at 8:13 PM](https://archive.org/download/oxciej-2022/oxciej-2022-09-01T03:13:27.451950+02:00.accessibility.json) |
+| [August 31 at 8:11 AM](https://archive.org/download/oxciej-2022/oxciej-2022-08-31T15:11:10.108052+02:00.accessibility.json) |
+| [August 30 at 8:23 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-31T03:23:23.693830+02:00.accessibility.json) |
+| [August 30 at 8:08 AM](https://archive.org/download/oxciej-2022/oxciej-2022-08-30T15:08:48.275914+02:00.accessibility.json) |
+| [August 29 at 8:15 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-30T03:15:15.755316+02:00.accessibility.json) |
+| [August 29 at 7:59 AM](https://archive.org/download/oxciej-2022/oxciej-2022-08-29T14:59:03.835163+02:00.accessibility.json) |
+| [August 28 at 8:14 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-29T03:14:44.057834+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 21 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,16 +407,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 31 at 3:11 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-31T15:11:10.108052+02:00.lighthouse.json) |
-| [August 31 at 3:23 AM](https://archive.org/download/oxciej-2022/oxciej-2022-08-31T03:23:23.693830+02:00.lighthouse.json) |
-| [August 30 at 3:08 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-30T15:08:48.275914+02:00.lighthouse.json) |
-| [August 30 at 3:15 AM](https://archive.org/download/oxciej-2022/oxciej-2022-08-30T03:15:15.755316+02:00.lighthouse.json) |
-| [August 29 at 2:59 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-29T14:59:03.835163+02:00.lighthouse.json) |
-| [August 29 at 3:14 AM](https://archive.org/download/oxciej-2022/oxciej-2022-08-29T03:14:44.057834+02:00.lighthouse.json) |
-| [August 28 at 2:59 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-28T14:59:27.101668+02:00.lighthouse.json) |
-| [August 28 at 3:26 AM](https://archive.org/download/oxciej-2022/oxciej-2022-08-28T03:26:41.517837+02:00.lighthouse.json) |
-| [August 27 at 2:55 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-27T14:55:19.953093+02:00.lighthouse.json) |
-| [August 27 at 3:06 AM](https://archive.org/download/oxciej-2022/oxciej-2022-08-27T03:06:31.496333+02:00.lighthouse.json) |
+| [September 2 at 8:01 AM](https://archive.org/download/oxciej-2022/oxciej-2022-09-02T15:01:45.452660+02:00.lighthouse.json) |
+| [September 1 at 8:16 PM](https://archive.org/download/oxciej-2022/oxciej-2022-09-02T03:16:28.060985+02:00.lighthouse.json) |
+| [September 1 at 8:12 AM](https://archive.org/download/oxciej-2022/oxciej-2022-09-01T15:12:01.544811+02:00.lighthouse.json) |
+| [August 31 at 8:13 PM](https://archive.org/download/oxciej-2022/oxciej-2022-09-01T03:13:27.451950+02:00.lighthouse.json) |
+| [August 31 at 8:11 AM](https://archive.org/download/oxciej-2022/oxciej-2022-08-31T15:11:10.108052+02:00.lighthouse.json) |
+| [August 30 at 8:23 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-31T03:23:23.693830+02:00.lighthouse.json) |
+| [August 30 at 8:08 AM](https://archive.org/download/oxciej-2022/oxciej-2022-08-30T15:08:48.275914+02:00.lighthouse.json) |
+| [August 29 at 8:15 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-30T03:15:15.755316+02:00.lighthouse.json) |
+| [August 29 at 7:59 AM](https://archive.org/download/oxciej-2022/oxciej-2022-08-29T14:59:03.835163+02:00.lighthouse.json) |
+| [August 28 at 8:14 PM](https://archive.org/download/oxciej-2022/oxciej-2022-08-29T03:14:44.057834+02:00.lighthouse.json) |
 
 
 

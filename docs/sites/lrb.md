@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 40 screenshots with the Internet Archive.
+The archiving routine has saved 46 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/lrb-2022/lrb-2022-09-01T00:53:37.621516+01:00.jpg">
-  <img src="https://archive.org/download/lrb-2022/lrb-2022-09-01T00:53:37.621516+01:00.jpg"
-     alt="London Review of Books at 2022-09-01 00:53:40+01:00 local time"
+ <a href="https://archive.org/download/lrb-2022/lrb-2022-09-03T01:00:37.594168+01:00.jpg">
+  <img src="https://archive.org/download/lrb-2022/lrb-2022-09-03T01:00:37.594168+01:00.jpg"
+     alt="London Review of Books at 2022-09-02 18:00:41+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lrb-2022/lrb-2022-09-01T00:53:37.621516+01:00.jpg">September 1 at 12:53 AM</a></p>
+ <p><a href="https://archive.org/download/lrb-2022/lrb-2022-09-03T01:00:37.594168+01:00.jpg">September 2 at 6:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lrb-2022/lrb-2022-09-02T13:05:26.819309+01:00.jpg">
+  <img src="https://archive.org/download/lrb-2022/lrb-2022-09-02T13:05:26.819309+01:00.jpg"
+     alt="London Review of Books at 2022-09-02 06:05:34+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lrb-2022/lrb-2022-09-02T13:05:26.819309+01:00.jpg">September 2 at 6:05 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lrb-2022/lrb-2022-09-02T10:19:42.615921+01:00.jpg">
+  <img src="https://archive.org/download/lrb-2022/lrb-2022-09-02T10:19:42.615921+01:00.jpg"
+     alt="London Review of Books at 2022-09-02 03:19:44+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lrb-2022/lrb-2022-09-02T10:19:42.615921+01:00.jpg">September 2 at 3:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lrb-2022/lrb-2022-09-02T01:01:33.405223+01:00.jpg">
+  <img src="https://archive.org/download/lrb-2022/lrb-2022-09-02T01:01:33.405223+01:00.jpg"
+     alt="London Review of Books at 2022-09-01 18:01:36+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lrb-2022/lrb-2022-09-02T01:01:33.405223+01:00.jpg">September 1 at 6:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lrb-2022/lrb-2022-09-01T13:12:19.608955+01:00.jpg">
+  <img src="https://archive.org/download/lrb-2022/lrb-2022-09-01T13:12:19.608955+01:00.jpg"
+     alt="London Review of Books at 2022-09-01 06:12:21+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lrb-2022/lrb-2022-09-01T13:12:19.608955+01:00.jpg">September 1 at 6:12 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lrb-2022/lrb-2022-09-01T10:19:16.638738+01:00.jpg">
+  <img src="https://archive.org/download/lrb-2022/lrb-2022-09-01T10:19:16.638738+01:00.jpg"
+     alt="London Review of Books at 2022-09-01 03:19:18+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lrb-2022/lrb-2022-09-01T10:19:16.638738+01:00.jpg">September 1 at 3:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lrb-2022/lrb-2022-09-01T00:53:37.621516+01:00.jpg">
+  <img src="https://archive.org/download/lrb-2022/lrb-2022-09-01T00:53:37.621516+01:00.jpg"
+     alt="London Review of Books at 2022-08-31 17:53:40+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lrb-2022/lrb-2022-09-01T00:53:37.621516+01:00.jpg">August 31 at 5:53 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lrb-2022/lrb-2022-08-31T14:05:48.308999+01:00.jpg">
   <img src="https://archive.org/download/lrb-2022/lrb-2022-08-31T14:05:48.308999+01:00.jpg"
-     alt="London Review of Books at 2022-08-31 14:05:50+01:00 local time"
+     alt="London Review of Books at 2022-08-31 07:05:50+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lrb-2022/lrb-2022-08-31T14:05:48.308999+01:00.jpg">August 31 at 2:05 PM</a></p>
+ <p><a href="https://archive.org/download/lrb-2022/lrb-2022-08-31T14:05:48.308999+01:00.jpg">August 31 at 7:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lrb-2022/lrb-2022-08-31T10:18:57.421550+01:00.jpg">
   <img src="https://archive.org/download/lrb-2022/lrb-2022-08-31T10:18:57.421550+01:00.jpg"
-     alt="London Review of Books at 2022-08-31 10:18:58+01:00 local time"
+     alt="London Review of Books at 2022-08-31 03:18:58+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lrb-2022/lrb-2022-08-31T10:18:57.421550+01:00.jpg">August 31 at 10:18 AM</a></p>
+ <p><a href="https://archive.org/download/lrb-2022/lrb-2022-08-31T10:18:57.421550+01:00.jpg">August 31 at 3:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lrb-2022/lrb-2022-08-31T01:03:28.009135+01:00.jpg">
   <img src="https://archive.org/download/lrb-2022/lrb-2022-08-31T01:03:28.009135+01:00.jpg"
-     alt="London Review of Books at 2022-08-31 01:03:29+01:00 local time"
+     alt="London Review of Books at 2022-08-30 18:03:29+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lrb-2022/lrb-2022-08-31T01:03:28.009135+01:00.jpg">August 31 at 1:03 AM</a></p>
+ <p><a href="https://archive.org/download/lrb-2022/lrb-2022-08-31T01:03:28.009135+01:00.jpg">August 30 at 6:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lrb-2022/lrb-2022-08-30T13:10:56.665891+01:00.jpg">
   <img src="https://archive.org/download/lrb-2022/lrb-2022-08-30T13:10:56.665891+01:00.jpg"
-     alt="London Review of Books at 2022-08-30 13:10:59+01:00 local time"
+     alt="London Review of Books at 2022-08-30 06:10:59+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lrb-2022/lrb-2022-08-30T13:10:56.665891+01:00.jpg">August 30 at 1:10 PM</a></p>
+ <p><a href="https://archive.org/download/lrb-2022/lrb-2022-08-30T13:10:56.665891+01:00.jpg">August 30 at 6:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lrb-2022/lrb-2022-08-30T10:19:11.948619+01:00.jpg">
   <img src="https://archive.org/download/lrb-2022/lrb-2022-08-30T10:19:11.948619+01:00.jpg"
-     alt="London Review of Books at 2022-08-30 10:19:13+01:00 local time"
+     alt="London Review of Books at 2022-08-30 03:19:13+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lrb-2022/lrb-2022-08-30T10:19:11.948619+01:00.jpg">August 30 at 10:19 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lrb-2022/lrb-2022-08-30T00:53:55.740228+01:00.jpg">
-  <img src="https://archive.org/download/lrb-2022/lrb-2022-08-30T00:53:55.740228+01:00.jpg"
-     alt="London Review of Books at 2022-08-30 00:53:59+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lrb-2022/lrb-2022-08-30T00:53:55.740228+01:00.jpg">August 30 at 12:53 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lrb-2022/lrb-2022-08-29T13:00:10.117306+01:00.jpg">
-  <img src="https://archive.org/download/lrb-2022/lrb-2022-08-29T13:00:10.117306+01:00.jpg"
-     alt="London Review of Books at 2022-08-29 13:00:12+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lrb-2022/lrb-2022-08-29T13:00:10.117306+01:00.jpg">August 29 at 1:00 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lrb-2022/lrb-2022-08-29T10:16:22.856884+01:00.jpg">
-  <img src="https://archive.org/download/lrb-2022/lrb-2022-08-29T10:16:22.856884+01:00.jpg"
-     alt="London Review of Books at 2022-08-29 10:16:26+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lrb-2022/lrb-2022-08-29T10:16:22.856884+01:00.jpg">August 29 at 10:16 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lrb-2022/lrb-2022-08-29T00:50:26.833288+01:00.jpg">
-  <img src="https://archive.org/download/lrb-2022/lrb-2022-08-29T00:50:26.833288+01:00.jpg"
-     alt="London Review of Books at 2022-08-29 00:50:29+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lrb-2022/lrb-2022-08-29T00:50:26.833288+01:00.jpg">August 29 at 12:50 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lrb-2022/lrb-2022-08-28T13:02:23.828205+01:00.jpg">
-  <img src="https://archive.org/download/lrb-2022/lrb-2022-08-28T13:02:23.828205+01:00.jpg"
-     alt="London Review of Books at 2022-08-28 13:02:25+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lrb-2022/lrb-2022-08-28T13:02:23.828205+01:00.jpg">August 28 at 1:02 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lrb-2022/lrb-2022-08-28T10:17:53.961635+01:00.jpg">
-  <img src="https://archive.org/download/lrb-2022/lrb-2022-08-28T10:17:53.961635+01:00.jpg"
-     alt="London Review of Books at 2022-08-28 10:17:55+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lrb-2022/lrb-2022-08-28T10:17:53.961635+01:00.jpg">August 28 at 10:17 AM</a></p>
+ <p><a href="https://archive.org/download/lrb-2022/lrb-2022-08-30T10:19:11.948619+01:00.jpg">August 30 at 3:19 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 40 hyperlink lists with the Internet Archive.
+The archiving routine has saved 46 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 1 at 12:53 AM](https://archive.org/download/lrb-2022/lrb-2022-09-01T00:53:37.621516+01:00.hyperlinks.json) |
-| [August 31 at 2:05 PM](https://archive.org/download/lrb-2022/lrb-2022-08-31T14:05:48.308999+01:00.hyperlinks.json) |
-| [August 31 at 10:19 AM](https://archive.org/download/lrb-2022/lrb-2022-08-31T10:18:57.421550+01:00.hyperlinks.json) |
-| [August 31 at 1:03 AM](https://archive.org/download/lrb-2022/lrb-2022-08-31T01:03:28.009135+01:00.hyperlinks.json) |
-| [August 30 at 1:11 PM](https://archive.org/download/lrb-2022/lrb-2022-08-30T13:10:56.665891+01:00.hyperlinks.json) |
-| [August 30 at 10:19 AM](https://archive.org/download/lrb-2022/lrb-2022-08-30T10:19:11.948619+01:00.hyperlinks.json) |
-| [August 30 at 12:54 AM](https://archive.org/download/lrb-2022/lrb-2022-08-30T00:53:55.740228+01:00.hyperlinks.json) |
-| [August 29 at 1:00 PM](https://archive.org/download/lrb-2022/lrb-2022-08-29T13:00:10.117306+01:00.hyperlinks.json) |
-| [August 29 at 10:16 AM](https://archive.org/download/lrb-2022/lrb-2022-08-29T10:16:22.856884+01:00.hyperlinks.json) |
-| [August 29 at 12:50 AM](https://archive.org/download/lrb-2022/lrb-2022-08-29T00:50:26.833288+01:00.hyperlinks.json) |
+| [September 2 at 6:00 PM](https://archive.org/download/lrb-2022/lrb-2022-09-03T01:00:37.594168+01:00.hyperlinks.json) |
+| [September 2 at 6:05 AM](https://archive.org/download/lrb-2022/lrb-2022-09-02T13:05:26.819309+01:00.hyperlinks.json) |
+| [September 2 at 3:19 AM](https://archive.org/download/lrb-2022/lrb-2022-09-02T10:19:42.615921+01:00.hyperlinks.json) |
+| [September 1 at 6:01 PM](https://archive.org/download/lrb-2022/lrb-2022-09-02T01:01:33.405223+01:00.hyperlinks.json) |
+| [September 1 at 6:12 AM](https://archive.org/download/lrb-2022/lrb-2022-09-01T13:12:19.608955+01:00.hyperlinks.json) |
+| [September 1 at 3:19 AM](https://archive.org/download/lrb-2022/lrb-2022-09-01T10:19:16.638738+01:00.hyperlinks.json) |
+| [August 31 at 5:53 PM](https://archive.org/download/lrb-2022/lrb-2022-09-01T00:53:37.621516+01:00.hyperlinks.json) |
+| [August 31 at 7:05 AM](https://archive.org/download/lrb-2022/lrb-2022-08-31T14:05:48.308999+01:00.hyperlinks.json) |
+| [August 31 at 3:19 AM](https://archive.org/download/lrb-2022/lrb-2022-08-31T10:18:57.421550+01:00.hyperlinks.json) |
+| [August 30 at 6:03 PM](https://archive.org/download/lrb-2022/lrb-2022-08-31T01:03:28.009135+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 40 accessibility trees with the Internet Archive.
+The archiving routine has saved 46 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 1 at 12:53 AM](https://archive.org/download/lrb-2022/lrb-2022-09-01T00:53:37.621516+01:00.accessibility.json) |
-| [August 31 at 2:05 PM](https://archive.org/download/lrb-2022/lrb-2022-08-31T14:05:48.308999+01:00.accessibility.json) |
-| [August 31 at 10:19 AM](https://archive.org/download/lrb-2022/lrb-2022-08-31T10:18:57.421550+01:00.accessibility.json) |
-| [August 31 at 1:03 AM](https://archive.org/download/lrb-2022/lrb-2022-08-31T01:03:28.009135+01:00.accessibility.json) |
-| [August 30 at 1:11 PM](https://archive.org/download/lrb-2022/lrb-2022-08-30T13:10:56.665891+01:00.accessibility.json) |
-| [August 30 at 10:19 AM](https://archive.org/download/lrb-2022/lrb-2022-08-30T10:19:11.948619+01:00.accessibility.json) |
-| [August 30 at 12:54 AM](https://archive.org/download/lrb-2022/lrb-2022-08-30T00:53:55.740228+01:00.accessibility.json) |
-| [August 29 at 1:00 PM](https://archive.org/download/lrb-2022/lrb-2022-08-29T13:00:10.117306+01:00.accessibility.json) |
-| [August 29 at 10:16 AM](https://archive.org/download/lrb-2022/lrb-2022-08-29T10:16:22.856884+01:00.accessibility.json) |
-| [August 29 at 12:50 AM](https://archive.org/download/lrb-2022/lrb-2022-08-29T00:50:26.833288+01:00.accessibility.json) |
+| [September 2 at 6:00 PM](https://archive.org/download/lrb-2022/lrb-2022-09-03T01:00:37.594168+01:00.accessibility.json) |
+| [September 2 at 6:05 AM](https://archive.org/download/lrb-2022/lrb-2022-09-02T13:05:26.819309+01:00.accessibility.json) |
+| [September 2 at 3:19 AM](https://archive.org/download/lrb-2022/lrb-2022-09-02T10:19:42.615921+01:00.accessibility.json) |
+| [September 1 at 6:01 PM](https://archive.org/download/lrb-2022/lrb-2022-09-02T01:01:33.405223+01:00.accessibility.json) |
+| [September 1 at 6:12 AM](https://archive.org/download/lrb-2022/lrb-2022-09-01T13:12:19.608955+01:00.accessibility.json) |
+| [September 1 at 3:19 AM](https://archive.org/download/lrb-2022/lrb-2022-09-01T10:19:16.638738+01:00.accessibility.json) |
+| [August 31 at 5:53 PM](https://archive.org/download/lrb-2022/lrb-2022-09-01T00:53:37.621516+01:00.accessibility.json) |
+| [August 31 at 7:05 AM](https://archive.org/download/lrb-2022/lrb-2022-08-31T14:05:48.308999+01:00.accessibility.json) |
+| [August 31 at 3:19 AM](https://archive.org/download/lrb-2022/lrb-2022-08-31T10:18:57.421550+01:00.accessibility.json) |
+| [August 30 at 6:03 PM](https://archive.org/download/lrb-2022/lrb-2022-08-31T01:03:28.009135+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 1 at 12:53 AM](https://archive.org/download/lrb-2022/lrb-2022-09-01T00:53:37.621516+01:00.lighthouse.json) |
-| [August 31 at 2:05 PM](https://archive.org/download/lrb-2022/lrb-2022-08-31T14:05:48.308999+01:00.lighthouse.json) |
-| [August 31 at 10:19 AM](https://archive.org/download/lrb-2022/lrb-2022-08-31T10:18:57.421550+01:00.lighthouse.json) |
-| [August 31 at 1:03 AM](https://archive.org/download/lrb-2022/lrb-2022-08-31T01:03:28.009135+01:00.lighthouse.json) |
-| [August 30 at 1:11 PM](https://archive.org/download/lrb-2022/lrb-2022-08-30T13:10:56.665891+01:00.lighthouse.json) |
-| [August 30 at 10:19 AM](https://archive.org/download/lrb-2022/lrb-2022-08-30T10:19:11.948619+01:00.lighthouse.json) |
-| [August 30 at 12:54 AM](https://archive.org/download/lrb-2022/lrb-2022-08-30T00:53:55.740228+01:00.lighthouse.json) |
-| [August 29 at 1:00 PM](https://archive.org/download/lrb-2022/lrb-2022-08-29T13:00:10.117306+01:00.lighthouse.json) |
-| [August 29 at 10:16 AM](https://archive.org/download/lrb-2022/lrb-2022-08-29T10:16:22.856884+01:00.lighthouse.json) |
-| [August 29 at 12:50 AM](https://archive.org/download/lrb-2022/lrb-2022-08-29T00:50:26.833288+01:00.lighthouse.json) |
+| [September 2 at 6:00 PM](https://archive.org/download/lrb-2022/lrb-2022-09-03T01:00:37.594168+01:00.lighthouse.json) |
+| [September 2 at 6:05 AM](https://archive.org/download/lrb-2022/lrb-2022-09-02T13:05:26.819309+01:00.lighthouse.json) |
+| [September 2 at 3:19 AM](https://archive.org/download/lrb-2022/lrb-2022-09-02T10:19:42.615921+01:00.lighthouse.json) |
+| [September 1 at 6:01 PM](https://archive.org/download/lrb-2022/lrb-2022-09-02T01:01:33.405223+01:00.lighthouse.json) |
+| [September 1 at 6:12 AM](https://archive.org/download/lrb-2022/lrb-2022-09-01T13:12:19.608955+01:00.lighthouse.json) |
+| [September 1 at 3:19 AM](https://archive.org/download/lrb-2022/lrb-2022-09-01T10:19:16.638738+01:00.lighthouse.json) |
+| [August 31 at 5:53 PM](https://archive.org/download/lrb-2022/lrb-2022-09-01T00:53:37.621516+01:00.lighthouse.json) |
+| [August 31 at 7:05 AM](https://archive.org/download/lrb-2022/lrb-2022-08-31T14:05:48.308999+01:00.lighthouse.json) |
+| [August 31 at 3:19 AM](https://archive.org/download/lrb-2022/lrb-2022-08-31T10:18:57.421550+01:00.lighthouse.json) |
+| [August 30 at 6:03 PM](https://archive.org/download/lrb-2022/lrb-2022-08-31T01:03:28.009135+01:00.lighthouse.json) |
 
 
 
