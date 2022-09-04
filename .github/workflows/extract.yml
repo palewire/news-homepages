@@ -118,7 +118,12 @@ jobs:
           git config pull.rebase false
           git pull origin $GITHUB_REF
 
-      - id: download-drudge
+      - id: download-drudge-items
+        name: Download Drudge items
+        run: pipenv run python -m newshomepages.extract download-items --site=drudge
+        shell: bash
+
+      - id: download-drudge-hyperlinks
         name: Download Drudge hyperlink lists
         run: pipenv run python -m newshomepages.extract download-hyperlinks --site=drudge --days=90 --output-path=./extracts/csv/drudge-hyperlinks-sample.csv;
         shell: bash
