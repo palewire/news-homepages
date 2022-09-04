@@ -167,7 +167,7 @@ jobs:
       - id: commit
         name: Commit
         uses: ./.github/actions/commit
-        env:
+        with:
           download-items-command: "--country=${{ inputs.country }}"
           access-key: ${{ secrets.IA_ACCESS_KEY }}
           secret-key: ${{ secrets.IA_SECRET_KEY }}
