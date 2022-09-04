@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 163 screenshots with the Internet Archive.
+The archiving routine has saved 168 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T18:56:07.667838-05:00.jpg">
-  <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T18:56:07.667838-05:00.jpg"
-     alt="Evanston RoundTable at 2022-09-02 11:56:15-05:00 local time"
+ <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-04T05:54:56.379935-05:00.jpg">
+  <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-04T05:54:56.379935-05:00.jpg"
+     alt="Evanston RoundTable at 2022-09-04 05:54:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T18:56:07.667838-05:00.jpg">September 2 at 11:56 AM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-04T05:54:56.379935-05:00.jpg">September 4 at 5:54 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-03T17:59:12.299569-05:00.jpg">
+  <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-03T17:59:12.299569-05:00.jpg"
+     alt="Evanston RoundTable at 2022-09-03 17:59:14-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-03T17:59:12.299569-05:00.jpg">September 3 at 5:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-03T10:58:18.243210-05:00.jpg">
+  <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-03T10:58:18.243210-05:00.jpg"
+     alt="Evanston RoundTable at 2022-09-03 10:58:20-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-03T10:58:18.243210-05:00.jpg">September 3 at 10:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-03T07:13:56.516510-05:00.jpg">
+  <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-03T07:13:56.516510-05:00.jpg"
+     alt="Evanston RoundTable at 2022-09-03 07:13:58-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-03T07:13:56.516510-05:00.jpg">September 3 at 7:13 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-03T05:55:21.232822-05:00.jpg">
+  <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-03T05:55:21.232822-05:00.jpg"
+     alt="Evanston RoundTable at 2022-09-03 05:55:29-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-03T05:55:21.232822-05:00.jpg">September 3 at 5:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T18:56:07.667838-05:00.jpg">
+  <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T18:56:07.667838-05:00.jpg"
+     alt="Evanston RoundTable at 2022-09-02 18:56:15-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T18:56:07.667838-05:00.jpg">September 2 at 6:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T11:22:32.359616-05:00.jpg">
   <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T11:22:32.359616-05:00.jpg"
-     alt="Evanston RoundTable at 2022-09-02 04:22:36-05:00 local time"
+     alt="Evanston RoundTable at 2022-09-02 11:22:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T11:22:32.359616-05:00.jpg">September 2 at 4:22 AM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T11:22:32.359616-05:00.jpg">September 2 at 11:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T06:00:52.893434-05:00.jpg">
   <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T06:00:52.893434-05:00.jpg"
-     alt="Evanston RoundTable at 2022-09-01 23:00:59-05:00 local time"
+     alt="Evanston RoundTable at 2022-09-02 06:00:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T06:00:52.893434-05:00.jpg">September 1 at 11:00 PM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T06:00:52.893434-05:00.jpg">September 2 at 6:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-01T18:04:32.470895-05:00.jpg">
   <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-01T18:04:32.470895-05:00.jpg"
-     alt="Evanston RoundTable at 2022-09-01 11:04:51-05:00 local time"
+     alt="Evanston RoundTable at 2022-09-01 18:04:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-01T18:04:32.470895-05:00.jpg">September 1 at 11:04 AM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-01T18:04:32.470895-05:00.jpg">September 1 at 6:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-01T11:31:59.057465-05:00.jpg">
   <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-01T11:31:59.057465-05:00.jpg"
-     alt="Evanston RoundTable at 2022-09-01 04:32:16-05:00 local time"
+     alt="Evanston RoundTable at 2022-09-01 11:32:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-01T11:31:59.057465-05:00.jpg">September 1 at 4:32 AM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-01T11:31:59.057465-05:00.jpg">September 1 at 11:32 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-01T06:06:29.489024-05:00.jpg">
   <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-01T06:06:29.489024-05:00.jpg"
-     alt="Evanston RoundTable at 2022-08-31 23:06:34-05:00 local time"
+     alt="Evanston RoundTable at 2022-09-01 06:06:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-01T06:06:29.489024-05:00.jpg">August 31 at 11:06 PM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-09-01T06:06:29.489024-05:00.jpg">September 1 at 6:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-31T17:58:48.304474-05:00.jpg">
   <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-31T17:58:48.304474-05:00.jpg"
-     alt="Evanston RoundTable at 2022-08-31 10:58:51-05:00 local time"
+     alt="Evanston RoundTable at 2022-08-31 17:58:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-31T17:58:48.304474-05:00.jpg">August 31 at 10:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-31T11:07:55.161186-05:00.jpg">
-  <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-31T11:07:55.161186-05:00.jpg"
-     alt="Evanston RoundTable at 2022-08-31 04:08:02-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-31T11:07:55.161186-05:00.jpg">August 31 at 4:08 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-31T06:01:05.299046-05:00.jpg">
-  <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-31T06:01:05.299046-05:00.jpg"
-     alt="Evanston RoundTable at 2022-08-30 23:01:09-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-31T06:01:05.299046-05:00.jpg">August 30 at 11:01 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-30T18:05:11.929493-05:00.jpg">
-  <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-30T18:05:11.929493-05:00.jpg"
-     alt="Evanston RoundTable at 2022-08-30 11:05:19-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-30T18:05:11.929493-05:00.jpg">August 30 at 11:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-30T11:30:13.660481-05:00.jpg">
-  <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-30T11:30:13.660481-05:00.jpg"
-     alt="Evanston RoundTable at 2022-08-30 04:30:18-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-30T11:30:13.660481-05:00.jpg">August 30 at 4:30 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-30T06:05:10.695977-05:00.jpg">
-  <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-30T06:05:10.695977-05:00.jpg"
-     alt="Evanston RoundTable at 2022-08-29 23:05:16-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-30T06:05:10.695977-05:00.jpg">August 29 at 11:05 PM</a></p>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-31T17:58:48.304474-05:00.jpg">August 31 at 5:58 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 164 hyperlink lists with the Internet Archive.
+The archiving routine has saved 169 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 11:56 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T18:56:07.667838-05:00.hyperlinks.json) |
-| [September 2 at 4:22 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T11:22:32.359616-05:00.hyperlinks.json) |
-| [September 1 at 11:01 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T06:00:52.893434-05:00.hyperlinks.json) |
-| [September 1 at 11:05 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-01T18:04:32.470895-05:00.hyperlinks.json) |
-| [September 1 at 4:32 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-01T11:31:59.057465-05:00.hyperlinks.json) |
-| [August 31 at 11:06 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-01T06:06:29.489024-05:00.hyperlinks.json) |
-| [August 31 at 10:58 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-31T17:58:48.304474-05:00.hyperlinks.json) |
-| [August 31 at 4:08 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-31T11:07:55.161186-05:00.hyperlinks.json) |
-| [August 30 at 11:01 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-31T06:01:05.299046-05:00.hyperlinks.json) |
-| [August 30 at 11:05 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-30T18:05:11.929493-05:00.hyperlinks.json) |
+| [September 4 at 5:55 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-04T05:54:56.379935-05:00.hyperlinks.json) |
+| [September 3 at 5:59 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-03T17:59:12.299569-05:00.hyperlinks.json) |
+| [September 3 at 10:58 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-03T10:58:18.243210-05:00.hyperlinks.json) |
+| [September 3 at 7:14 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-03T07:13:56.516510-05:00.hyperlinks.json) |
+| [September 3 at 5:55 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-03T05:55:21.232822-05:00.hyperlinks.json) |
+| [September 2 at 6:56 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T18:56:07.667838-05:00.hyperlinks.json) |
+| [September 2 at 11:22 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T11:22:32.359616-05:00.hyperlinks.json) |
+| [September 2 at 6:01 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T06:00:52.893434-05:00.hyperlinks.json) |
+| [September 1 at 6:05 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-01T18:04:32.470895-05:00.hyperlinks.json) |
+| [September 1 at 11:32 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-01T11:31:59.057465-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 164 accessibility trees with the Internet Archive.
+The archiving routine has saved 169 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 11:56 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T18:56:07.667838-05:00.accessibility.json) |
-| [September 2 at 4:22 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T11:22:32.359616-05:00.accessibility.json) |
-| [September 1 at 11:01 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T06:00:52.893434-05:00.accessibility.json) |
-| [September 1 at 11:05 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-01T18:04:32.470895-05:00.accessibility.json) |
-| [September 1 at 4:32 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-01T11:31:59.057465-05:00.accessibility.json) |
-| [August 31 at 11:06 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-01T06:06:29.489024-05:00.accessibility.json) |
-| [August 31 at 10:58 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-31T17:58:48.304474-05:00.accessibility.json) |
-| [August 31 at 4:08 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-31T11:07:55.161186-05:00.accessibility.json) |
-| [August 30 at 11:01 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-31T06:01:05.299046-05:00.accessibility.json) |
-| [August 30 at 11:05 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-30T18:05:11.929493-05:00.accessibility.json) |
+| [September 4 at 5:54 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-04T05:54:56.379935-05:00.accessibility.json) |
+| [September 3 at 5:59 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-03T17:59:12.299569-05:00.accessibility.json) |
+| [September 3 at 10:58 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-03T10:58:18.243210-05:00.accessibility.json) |
+| [September 3 at 7:14 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-03T07:13:56.516510-05:00.accessibility.json) |
+| [September 3 at 5:55 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-03T05:55:21.232822-05:00.accessibility.json) |
+| [September 2 at 6:56 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T18:56:07.667838-05:00.accessibility.json) |
+| [September 2 at 11:22 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T11:22:32.359616-05:00.accessibility.json) |
+| [September 2 at 6:01 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T06:00:52.893434-05:00.accessibility.json) |
+| [September 1 at 6:05 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-01T18:04:32.470895-05:00.accessibility.json) |
+| [September 1 at 11:32 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-01T11:31:59.057465-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 121 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 126 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 11:56 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T18:56:07.667838-05:00.lighthouse.json) |
-| [September 2 at 4:22 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T11:22:32.359616-05:00.lighthouse.json) |
-| [September 1 at 11:01 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T06:00:52.893434-05:00.lighthouse.json) |
-| [September 1 at 11:05 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-01T18:04:32.470895-05:00.lighthouse.json) |
-| [September 1 at 4:32 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-01T11:31:59.057465-05:00.lighthouse.json) |
-| [August 31 at 11:06 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-01T06:06:29.489024-05:00.lighthouse.json) |
-| [August 31 at 10:58 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-31T17:58:48.304474-05:00.lighthouse.json) |
-| [August 31 at 4:08 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-31T11:07:55.161186-05:00.lighthouse.json) |
-| [August 30 at 11:01 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-31T06:01:05.299046-05:00.lighthouse.json) |
-| [August 30 at 11:05 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-30T18:05:11.929493-05:00.lighthouse.json) |
+| [September 4 at 5:55 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-04T05:54:56.379935-05:00.lighthouse.json) |
+| [September 3 at 5:59 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-03T17:59:12.299569-05:00.lighthouse.json) |
+| [September 3 at 10:58 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-03T10:58:18.243210-05:00.lighthouse.json) |
+| [September 3 at 7:14 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-03T07:13:56.516510-05:00.lighthouse.json) |
+| [September 3 at 5:55 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-03T05:55:21.232822-05:00.lighthouse.json) |
+| [September 2 at 6:56 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T18:56:07.667838-05:00.lighthouse.json) |
+| [September 2 at 11:22 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T11:22:32.359616-05:00.lighthouse.json) |
+| [September 2 at 6:01 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-02T06:00:52.893434-05:00.lighthouse.json) |
+| [September 1 at 6:05 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-01T18:04:32.470895-05:00.lighthouse.json) |
+| [September 1 at 11:32 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-01T11:31:59.057465-05:00.lighthouse.json) |
 
 
 

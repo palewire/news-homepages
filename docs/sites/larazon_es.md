@@ -245,46 +245,46 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/larazon_es-2022/larazon_es-2022-07-30T17:42:49.267584+02:00.jpg">
   <img src="https://archive.org/download/larazon_es-2022/larazon_es-2022-07-30T17:42:49.267584+02:00.jpg"
-     alt="La Razón at 2022-07-30 10:42:51+02:00 local time"
+     alt="La Razón at 2022-07-30 17:42:51+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/larazon_es-2022/larazon_es-2022-07-30T17:42:49.267584+02:00.jpg">July 30 at 10:42 AM</a></p>
+ <p><a href="https://archive.org/download/larazon_es-2022/larazon_es-2022-07-30T17:42:49.267584+02:00.jpg">July 30 at 5:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/larazon_es-2022/larazon_es-2022-07-30T04:42:44.031500+02:00.jpg">
   <img src="https://archive.org/download/larazon_es-2022/larazon_es-2022-07-30T04:42:44.031500+02:00.jpg"
-     alt="La Razón at 2022-07-29 21:42:46+02:00 local time"
+     alt="La Razón at 2022-07-30 04:42:46+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/larazon_es-2022/larazon_es-2022-07-30T04:42:44.031500+02:00.jpg">July 29 at 9:42 PM</a></p>
+ <p><a href="https://archive.org/download/larazon_es-2022/larazon_es-2022-07-30T04:42:44.031500+02:00.jpg">July 30 at 4:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/larazon_es-2022/larazon_es-2022-07-29T16:42:17.620929+02:00.jpg">
   <img src="https://archive.org/download/larazon_es-2022/larazon_es-2022-07-29T16:42:17.620929+02:00.jpg"
-     alt="La Razón at 2022-07-29 09:42:19+02:00 local time"
+     alt="La Razón at 2022-07-29 16:42:19+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/larazon_es-2022/larazon_es-2022-07-29T16:42:17.620929+02:00.jpg">July 29 at 9:42 AM</a></p>
+ <p><a href="https://archive.org/download/larazon_es-2022/larazon_es-2022-07-29T16:42:17.620929+02:00.jpg">July 29 at 4:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/larazon_es-2022/larazon_es-2022-07-29T04:38:50.441257+02:00.jpg">
   <img src="https://archive.org/download/larazon_es-2022/larazon_es-2022-07-29T04:38:50.441257+02:00.jpg"
-     alt="La Razón at 2022-07-28 21:38:51+02:00 local time"
+     alt="La Razón at 2022-07-29 04:38:51+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/larazon_es-2022/larazon_es-2022-07-29T04:38:50.441257+02:00.jpg">July 28 at 9:38 PM</a></p>
+ <p><a href="https://archive.org/download/larazon_es-2022/larazon_es-2022-07-29T04:38:50.441257+02:00.jpg">July 29 at 4:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/larazon_es-2022/larazon_es-2022-07-28T20:53:39.132518+02:00.jpg">
   <img src="https://archive.org/download/larazon_es-2022/larazon_es-2022-07-28T20:53:39.132518+02:00.jpg"
-     alt="La Razón at 2022-07-28 13:53:44+02:00 local time"
+     alt="La Razón at 2022-07-28 20:53:44+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/larazon_es-2022/larazon_es-2022-07-28T20:53:39.132518+02:00.jpg">July 28 at 1:53 PM</a></p>
+ <p><a href="https://archive.org/download/larazon_es-2022/larazon_es-2022-07-28T20:53:39.132518+02:00.jpg">July 28 at 8:53 PM</a></p>
 </div>
 
 </div>
@@ -382,16 +382,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 10:08 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-09-02T17:08:25.545778+02:00.hyperlinks.json) |
-| [September 1 at 10:49 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-09-02T05:48:55.772678+02:00.hyperlinks.json) |
-| [September 1 at 10:28 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-09-01T17:28:02.483196+02:00.hyperlinks.json) |
-| [August 31 at 10:45 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-09-01T05:45:35.692566+02:00.hyperlinks.json) |
-| [August 31 at 10:08 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-31T17:08:15.145963+02:00.hyperlinks.json) |
-| [August 30 at 10:48 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-31T05:48:36.794946+02:00.hyperlinks.json) |
-| [August 30 at 10:34 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-30T17:34:43.777536+02:00.hyperlinks.json) |
-| [August 29 at 10:54 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-30T05:54:05.849056+02:00.hyperlinks.json) |
-| [August 29 at 10:08 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-29T17:08:39.354316+02:00.hyperlinks.json) |
-| [August 28 at 10:45 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-29T05:45:09.997356+02:00.hyperlinks.json) |
+| [September 2 at 5:08 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-09-02T17:08:25.545778+02:00.hyperlinks.json) |
+| [September 2 at 5:49 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-09-02T05:48:55.772678+02:00.hyperlinks.json) |
+| [September 1 at 5:28 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-09-01T17:28:02.483196+02:00.hyperlinks.json) |
+| [September 1 at 5:45 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-09-01T05:45:35.692566+02:00.hyperlinks.json) |
+| [August 31 at 5:08 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-31T17:08:15.145963+02:00.hyperlinks.json) |
+| [August 31 at 5:48 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-31T05:48:36.794946+02:00.hyperlinks.json) |
+| [August 30 at 5:34 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-30T17:34:43.777536+02:00.hyperlinks.json) |
+| [August 30 at 5:54 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-30T05:54:05.849056+02:00.hyperlinks.json) |
+| [August 29 at 5:08 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-29T17:08:39.354316+02:00.hyperlinks.json) |
+| [August 29 at 5:45 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-29T05:45:09.997356+02:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -404,11 +404,11 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [July 30 at 10:42 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-07-30T17:42:49.267584+02:00.accessibility.json) |
-| [July 29 at 9:42 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-07-30T04:42:44.031500+02:00.accessibility.json) |
-| [July 29 at 9:42 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-07-29T16:42:17.620929+02:00.accessibility.json) |
-| [July 28 at 9:38 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-07-29T04:38:50.441257+02:00.accessibility.json) |
-| [July 28 at 1:53 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-07-28T20:53:39.132518+02:00.accessibility.json) |
+| [July 30 at 5:42 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-07-30T17:42:49.267584+02:00.accessibility.json) |
+| [July 30 at 4:42 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-07-30T04:42:44.031500+02:00.accessibility.json) |
+| [July 29 at 4:42 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-07-29T16:42:17.620929+02:00.accessibility.json) |
+| [July 29 at 4:38 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-07-29T04:38:50.441257+02:00.accessibility.json) |
+| [July 28 at 8:53 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-07-28T20:53:39.132518+02:00.accessibility.json) |
 
 
 
@@ -505,16 +505,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 10:08 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-09-02T17:08:25.545778+02:00.lighthouse.json) |
-| [September 1 at 10:49 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-09-02T05:48:55.772678+02:00.lighthouse.json) |
-| [September 1 at 10:28 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-09-01T17:28:02.483196+02:00.lighthouse.json) |
-| [August 31 at 10:45 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-09-01T05:45:35.692566+02:00.lighthouse.json) |
-| [August 31 at 10:08 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-31T17:08:15.145963+02:00.lighthouse.json) |
-| [August 30 at 10:48 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-31T05:48:36.794946+02:00.lighthouse.json) |
-| [August 30 at 10:34 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-30T17:34:43.777536+02:00.lighthouse.json) |
-| [August 29 at 10:54 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-30T05:54:05.849056+02:00.lighthouse.json) |
-| [August 29 at 10:08 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-29T17:08:39.354316+02:00.lighthouse.json) |
-| [August 28 at 10:45 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-29T05:45:09.997356+02:00.lighthouse.json) |
+| [September 2 at 5:08 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-09-02T17:08:25.545778+02:00.lighthouse.json) |
+| [September 2 at 5:49 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-09-02T05:48:55.772678+02:00.lighthouse.json) |
+| [September 1 at 5:28 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-09-01T17:28:02.483196+02:00.lighthouse.json) |
+| [September 1 at 5:45 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-09-01T05:45:35.692566+02:00.lighthouse.json) |
+| [August 31 at 5:08 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-31T17:08:15.145963+02:00.lighthouse.json) |
+| [August 31 at 5:48 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-31T05:48:36.794946+02:00.lighthouse.json) |
+| [August 30 at 5:34 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-30T17:34:43.777536+02:00.lighthouse.json) |
+| [August 30 at 5:54 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-30T05:54:05.849056+02:00.lighthouse.json) |
+| [August 29 at 5:08 PM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-29T17:08:39.354316+02:00.lighthouse.json) |
+| [August 29 at 5:45 AM](https://archive.org/download/larazon_es-2022/larazon_es-2022-08-29T05:45:09.997356+02:00.lighthouse.json) |
 
 
 

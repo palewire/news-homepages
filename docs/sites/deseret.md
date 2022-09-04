@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 41 screenshots with the Internet Archive.
+The archiving routine has saved 45 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/deseret-2022/deseret-2022-09-02T17:55:44.351443-06:00.jpg">
-  <img src="https://archive.org/download/deseret-2022/deseret-2022-09-02T17:55:44.351443-06:00.jpg"
-     alt="Deseret News at 2022-09-02 10:55:49-06:00 local time"
+ <a href="https://archive.org/download/deseret-2022/deseret-2022-09-04T04:54:36.937667-06:00.jpg">
+  <img src="https://archive.org/download/deseret-2022/deseret-2022-09-04T04:54:36.937667-06:00.jpg"
+     alt="Deseret News at 2022-09-04 04:54:40-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/deseret-2022/deseret-2022-09-02T17:55:44.351443-06:00.jpg">September 2 at 10:55 AM</a></p>
+ <p><a href="https://archive.org/download/deseret-2022/deseret-2022-09-04T04:54:36.937667-06:00.jpg">September 4 at 4:54 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/deseret-2022/deseret-2022-09-03T16:58:53.742513-06:00.jpg">
+  <img src="https://archive.org/download/deseret-2022/deseret-2022-09-03T16:58:53.742513-06:00.jpg"
+     alt="Deseret News at 2022-09-03 16:58:59-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/deseret-2022/deseret-2022-09-03T16:58:53.742513-06:00.jpg">September 3 at 4:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/deseret-2022/deseret-2022-09-03T06:12:37.512305-06:00.jpg">
+  <img src="https://archive.org/download/deseret-2022/deseret-2022-09-03T06:12:37.512305-06:00.jpg"
+     alt="Deseret News at 2022-09-03 06:12:41-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/deseret-2022/deseret-2022-09-03T06:12:37.512305-06:00.jpg">September 3 at 6:12 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/deseret-2022/deseret-2022-09-03T04:54:05.567407-06:00.jpg">
+  <img src="https://archive.org/download/deseret-2022/deseret-2022-09-03T04:54:05.567407-06:00.jpg"
+     alt="Deseret News at 2022-09-03 04:54:10-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/deseret-2022/deseret-2022-09-03T04:54:05.567407-06:00.jpg">September 3 at 4:54 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/deseret-2022/deseret-2022-09-02T17:55:44.351443-06:00.jpg">
+  <img src="https://archive.org/download/deseret-2022/deseret-2022-09-02T17:55:44.351443-06:00.jpg"
+     alt="Deseret News at 2022-09-02 17:55:49-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/deseret-2022/deseret-2022-09-02T17:55:44.351443-06:00.jpg">September 2 at 5:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/deseret-2022/deseret-2022-09-02T05:00:51.272029-06:00.jpg">
   <img src="https://archive.org/download/deseret-2022/deseret-2022-09-02T05:00:51.272029-06:00.jpg"
-     alt="Deseret News at 2022-09-01 22:00:53-06:00 local time"
+     alt="Deseret News at 2022-09-02 05:00:53-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/deseret-2022/deseret-2022-09-02T05:00:51.272029-06:00.jpg">September 1 at 10:00 PM</a></p>
+ <p><a href="https://archive.org/download/deseret-2022/deseret-2022-09-02T05:00:51.272029-06:00.jpg">September 2 at 5:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/deseret-2022/deseret-2022-09-01T17:03:43.922339-06:00.jpg">
   <img src="https://archive.org/download/deseret-2022/deseret-2022-09-01T17:03:43.922339-06:00.jpg"
-     alt="Deseret News at 2022-09-01 10:04:04-06:00 local time"
+     alt="Deseret News at 2022-09-01 17:04:04-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/deseret-2022/deseret-2022-09-01T17:03:43.922339-06:00.jpg">September 1 at 10:04 AM</a></p>
+ <p><a href="https://archive.org/download/deseret-2022/deseret-2022-09-01T17:03:43.922339-06:00.jpg">September 1 at 5:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/deseret-2022/deseret-2022-09-01T05:05:45.379826-06:00.jpg">
   <img src="https://archive.org/download/deseret-2022/deseret-2022-09-01T05:05:45.379826-06:00.jpg"
-     alt="Deseret News at 2022-08-31 22:05:48-06:00 local time"
+     alt="Deseret News at 2022-09-01 05:05:48-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/deseret-2022/deseret-2022-09-01T05:05:45.379826-06:00.jpg">August 31 at 10:05 PM</a></p>
+ <p><a href="https://archive.org/download/deseret-2022/deseret-2022-09-01T05:05:45.379826-06:00.jpg">September 1 at 5:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/deseret-2022/deseret-2022-08-31T16:58:18.193041-06:00.jpg">
   <img src="https://archive.org/download/deseret-2022/deseret-2022-08-31T16:58:18.193041-06:00.jpg"
-     alt="Deseret News at 2022-08-31 09:58:21-06:00 local time"
+     alt="Deseret News at 2022-08-31 16:58:21-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/deseret-2022/deseret-2022-08-31T16:58:18.193041-06:00.jpg">August 31 at 9:58 AM</a></p>
+ <p><a href="https://archive.org/download/deseret-2022/deseret-2022-08-31T16:58:18.193041-06:00.jpg">August 31 at 4:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/deseret-2022/deseret-2022-08-31T04:59:39.691506-06:00.jpg">
   <img src="https://archive.org/download/deseret-2022/deseret-2022-08-31T04:59:39.691506-06:00.jpg"
-     alt="Deseret News at 2022-08-30 21:59:42-06:00 local time"
+     alt="Deseret News at 2022-08-31 04:59:42-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/deseret-2022/deseret-2022-08-31T04:59:39.691506-06:00.jpg">August 30 at 9:59 PM</a></p>
+ <p><a href="https://archive.org/download/deseret-2022/deseret-2022-08-31T04:59:39.691506-06:00.jpg">August 31 at 4:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/deseret-2022/deseret-2022-08-30T17:05:30.989725-06:00.jpg">
   <img src="https://archive.org/download/deseret-2022/deseret-2022-08-30T17:05:30.989725-06:00.jpg"
-     alt="Deseret News at 2022-08-30 10:05:32-06:00 local time"
+     alt="Deseret News at 2022-08-30 17:05:32-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/deseret-2022/deseret-2022-08-30T17:05:30.989725-06:00.jpg">August 30 at 10:05 AM</a></p>
+ <p><a href="https://archive.org/download/deseret-2022/deseret-2022-08-30T17:05:30.989725-06:00.jpg">August 30 at 5:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/deseret-2022/deseret-2022-08-30T05:05:52.160141-06:00.jpg">
   <img src="https://archive.org/download/deseret-2022/deseret-2022-08-30T05:05:52.160141-06:00.jpg"
-     alt="Deseret News at 2022-08-29 22:05:53-06:00 local time"
+     alt="Deseret News at 2022-08-30 05:05:53-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/deseret-2022/deseret-2022-08-30T05:05:52.160141-06:00.jpg">August 29 at 10:05 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/deseret-2022/deseret-2022-08-29T17:01:17.849604-06:00.jpg">
-  <img src="https://archive.org/download/deseret-2022/deseret-2022-08-29T17:01:17.849604-06:00.jpg"
-     alt="Deseret News at 2022-08-29 10:01:24-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/deseret-2022/deseret-2022-08-29T17:01:17.849604-06:00.jpg">August 29 at 10:01 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/deseret-2022/deseret-2022-08-29T04:57:02.701649-06:00.jpg">
-  <img src="https://archive.org/download/deseret-2022/deseret-2022-08-29T04:57:02.701649-06:00.jpg"
-     alt="Deseret News at 2022-08-28 21:57:08-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/deseret-2022/deseret-2022-08-29T04:57:02.701649-06:00.jpg">August 28 at 9:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/deseret-2022/deseret-2022-08-28T16:54:45.280852-06:00.jpg">
-  <img src="https://archive.org/download/deseret-2022/deseret-2022-08-28T16:54:45.280852-06:00.jpg"
-     alt="Deseret News at 2022-08-28 09:54:47-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/deseret-2022/deseret-2022-08-28T16:54:45.280852-06:00.jpg">August 28 at 9:54 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/deseret-2022/deseret-2022-08-28T04:58:21.278528-06:00.jpg">
-  <img src="https://archive.org/download/deseret-2022/deseret-2022-08-28T04:58:21.278528-06:00.jpg"
-     alt="Deseret News at 2022-08-27 21:58:23-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/deseret-2022/deseret-2022-08-28T04:58:21.278528-06:00.jpg">August 27 at 9:58 PM</a></p>
+ <p><a href="https://archive.org/download/deseret-2022/deseret-2022-08-30T05:05:52.160141-06:00.jpg">August 30 at 5:05 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 41 hyperlink lists with the Internet Archive.
+The archiving routine has saved 45 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 10:55 AM](https://archive.org/download/deseret-2022/deseret-2022-09-02T17:55:44.351443-06:00.hyperlinks.json) |
-| [September 1 at 10:00 PM](https://archive.org/download/deseret-2022/deseret-2022-09-02T05:00:51.272029-06:00.hyperlinks.json) |
-| [September 1 at 10:04 AM](https://archive.org/download/deseret-2022/deseret-2022-09-01T17:03:43.922339-06:00.hyperlinks.json) |
-| [August 31 at 10:05 PM](https://archive.org/download/deseret-2022/deseret-2022-09-01T05:05:45.379826-06:00.hyperlinks.json) |
-| [August 31 at 9:58 AM](https://archive.org/download/deseret-2022/deseret-2022-08-31T16:58:18.193041-06:00.hyperlinks.json) |
-| [August 30 at 9:59 PM](https://archive.org/download/deseret-2022/deseret-2022-08-31T04:59:39.691506-06:00.hyperlinks.json) |
-| [August 30 at 10:05 AM](https://archive.org/download/deseret-2022/deseret-2022-08-30T17:05:30.989725-06:00.hyperlinks.json) |
-| [August 29 at 10:05 PM](https://archive.org/download/deseret-2022/deseret-2022-08-30T05:05:52.160141-06:00.hyperlinks.json) |
-| [August 29 at 10:01 AM](https://archive.org/download/deseret-2022/deseret-2022-08-29T17:01:17.849604-06:00.hyperlinks.json) |
-| [August 28 at 9:57 PM](https://archive.org/download/deseret-2022/deseret-2022-08-29T04:57:02.701649-06:00.hyperlinks.json) |
+| [September 4 at 4:54 AM](https://archive.org/download/deseret-2022/deseret-2022-09-04T04:54:36.937667-06:00.hyperlinks.json) |
+| [September 3 at 4:59 PM](https://archive.org/download/deseret-2022/deseret-2022-09-03T16:58:53.742513-06:00.hyperlinks.json) |
+| [September 3 at 6:12 AM](https://archive.org/download/deseret-2022/deseret-2022-09-03T06:12:37.512305-06:00.hyperlinks.json) |
+| [September 3 at 4:54 AM](https://archive.org/download/deseret-2022/deseret-2022-09-03T04:54:05.567407-06:00.hyperlinks.json) |
+| [September 2 at 5:55 PM](https://archive.org/download/deseret-2022/deseret-2022-09-02T17:55:44.351443-06:00.hyperlinks.json) |
+| [September 2 at 5:00 AM](https://archive.org/download/deseret-2022/deseret-2022-09-02T05:00:51.272029-06:00.hyperlinks.json) |
+| [September 1 at 5:04 PM](https://archive.org/download/deseret-2022/deseret-2022-09-01T17:03:43.922339-06:00.hyperlinks.json) |
+| [September 1 at 5:05 AM](https://archive.org/download/deseret-2022/deseret-2022-09-01T05:05:45.379826-06:00.hyperlinks.json) |
+| [August 31 at 4:58 PM](https://archive.org/download/deseret-2022/deseret-2022-08-31T16:58:18.193041-06:00.hyperlinks.json) |
+| [August 31 at 4:59 AM](https://archive.org/download/deseret-2022/deseret-2022-08-31T04:59:39.691506-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 41 accessibility trees with the Internet Archive.
+The archiving routine has saved 45 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 10:55 AM](https://archive.org/download/deseret-2022/deseret-2022-09-02T17:55:44.351443-06:00.accessibility.json) |
-| [September 1 at 10:00 PM](https://archive.org/download/deseret-2022/deseret-2022-09-02T05:00:51.272029-06:00.accessibility.json) |
-| [September 1 at 10:04 AM](https://archive.org/download/deseret-2022/deseret-2022-09-01T17:03:43.922339-06:00.accessibility.json) |
-| [August 31 at 10:05 PM](https://archive.org/download/deseret-2022/deseret-2022-09-01T05:05:45.379826-06:00.accessibility.json) |
-| [August 31 at 9:58 AM](https://archive.org/download/deseret-2022/deseret-2022-08-31T16:58:18.193041-06:00.accessibility.json) |
-| [August 30 at 9:59 PM](https://archive.org/download/deseret-2022/deseret-2022-08-31T04:59:39.691506-06:00.accessibility.json) |
-| [August 30 at 10:05 AM](https://archive.org/download/deseret-2022/deseret-2022-08-30T17:05:30.989725-06:00.accessibility.json) |
-| [August 29 at 10:05 PM](https://archive.org/download/deseret-2022/deseret-2022-08-30T05:05:52.160141-06:00.accessibility.json) |
-| [August 29 at 10:01 AM](https://archive.org/download/deseret-2022/deseret-2022-08-29T17:01:17.849604-06:00.accessibility.json) |
-| [August 28 at 9:57 PM](https://archive.org/download/deseret-2022/deseret-2022-08-29T04:57:02.701649-06:00.accessibility.json) |
+| [September 4 at 4:54 AM](https://archive.org/download/deseret-2022/deseret-2022-09-04T04:54:36.937667-06:00.accessibility.json) |
+| [September 3 at 4:59 PM](https://archive.org/download/deseret-2022/deseret-2022-09-03T16:58:53.742513-06:00.accessibility.json) |
+| [September 3 at 6:12 AM](https://archive.org/download/deseret-2022/deseret-2022-09-03T06:12:37.512305-06:00.accessibility.json) |
+| [September 3 at 4:54 AM](https://archive.org/download/deseret-2022/deseret-2022-09-03T04:54:05.567407-06:00.accessibility.json) |
+| [September 2 at 5:55 PM](https://archive.org/download/deseret-2022/deseret-2022-09-02T17:55:44.351443-06:00.accessibility.json) |
+| [September 2 at 5:00 AM](https://archive.org/download/deseret-2022/deseret-2022-09-02T05:00:51.272029-06:00.accessibility.json) |
+| [September 1 at 5:04 PM](https://archive.org/download/deseret-2022/deseret-2022-09-01T17:03:43.922339-06:00.accessibility.json) |
+| [September 1 at 5:05 AM](https://archive.org/download/deseret-2022/deseret-2022-09-01T05:05:45.379826-06:00.accessibility.json) |
+| [August 31 at 4:58 PM](https://archive.org/download/deseret-2022/deseret-2022-08-31T16:58:18.193041-06:00.accessibility.json) |
+| [August 31 at 4:59 AM](https://archive.org/download/deseret-2022/deseret-2022-08-31T04:59:39.691506-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 41 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 10:55 AM](https://archive.org/download/deseret-2022/deseret-2022-09-02T17:55:44.351443-06:00.lighthouse.json) |
-| [September 1 at 10:00 PM](https://archive.org/download/deseret-2022/deseret-2022-09-02T05:00:51.272029-06:00.lighthouse.json) |
-| [September 1 at 10:04 AM](https://archive.org/download/deseret-2022/deseret-2022-09-01T17:03:43.922339-06:00.lighthouse.json) |
-| [August 31 at 10:05 PM](https://archive.org/download/deseret-2022/deseret-2022-09-01T05:05:45.379826-06:00.lighthouse.json) |
-| [August 31 at 9:58 AM](https://archive.org/download/deseret-2022/deseret-2022-08-31T16:58:18.193041-06:00.lighthouse.json) |
-| [August 30 at 9:59 PM](https://archive.org/download/deseret-2022/deseret-2022-08-31T04:59:39.691506-06:00.lighthouse.json) |
-| [August 30 at 10:05 AM](https://archive.org/download/deseret-2022/deseret-2022-08-30T17:05:30.989725-06:00.lighthouse.json) |
-| [August 29 at 10:05 PM](https://archive.org/download/deseret-2022/deseret-2022-08-30T05:05:52.160141-06:00.lighthouse.json) |
-| [August 29 at 10:01 AM](https://archive.org/download/deseret-2022/deseret-2022-08-29T17:01:17.849604-06:00.lighthouse.json) |
-| [August 28 at 9:57 PM](https://archive.org/download/deseret-2022/deseret-2022-08-29T04:57:02.701649-06:00.lighthouse.json) |
+| [September 4 at 4:54 AM](https://archive.org/download/deseret-2022/deseret-2022-09-04T04:54:36.937667-06:00.lighthouse.json) |
+| [September 3 at 4:59 PM](https://archive.org/download/deseret-2022/deseret-2022-09-03T16:58:53.742513-06:00.lighthouse.json) |
+| [September 3 at 6:12 AM](https://archive.org/download/deseret-2022/deseret-2022-09-03T06:12:37.512305-06:00.lighthouse.json) |
+| [September 3 at 4:54 AM](https://archive.org/download/deseret-2022/deseret-2022-09-03T04:54:05.567407-06:00.lighthouse.json) |
+| [September 2 at 5:55 PM](https://archive.org/download/deseret-2022/deseret-2022-09-02T17:55:44.351443-06:00.lighthouse.json) |
+| [September 2 at 5:00 AM](https://archive.org/download/deseret-2022/deseret-2022-09-02T05:00:51.272029-06:00.lighthouse.json) |
+| [September 1 at 5:04 PM](https://archive.org/download/deseret-2022/deseret-2022-09-01T17:03:43.922339-06:00.lighthouse.json) |
+| [September 1 at 5:05 AM](https://archive.org/download/deseret-2022/deseret-2022-09-01T05:05:45.379826-06:00.lighthouse.json) |
+| [August 31 at 4:58 PM](https://archive.org/download/deseret-2022/deseret-2022-08-31T16:58:18.193041-06:00.lighthouse.json) |
+| [August 31 at 4:59 AM](https://archive.org/download/deseret-2022/deseret-2022-08-31T04:59:39.691506-06:00.lighthouse.json) |
 
 
 

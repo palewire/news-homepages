@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 975 screenshots with the Internet Archive.
+The archiving routine has saved 980 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-02T17:16:29.670702-04:00.jpg">
-  <img src="https://archive.org/download/nytimes-2022/nytimes-2022-09-02T17:16:29.670702-04:00.jpg"
-     alt="New York Times at 2022-09-02 10:16:55-04:00 local time"
+ <a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-03T23:47:10.805754-04:00.jpg">
+  <img src="https://archive.org/download/nytimes-2022/nytimes-2022-09-03T23:47:10.805754-04:00.jpg"
+     alt="New York Times at 2022-09-03 23:47:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-02T17:16:29.670702-04:00.jpg">September 2 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-03T23:47:10.805754-04:00.jpg">September 3 at 11:47 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-03T17:17:31.110357-04:00.jpg">
+  <img src="https://archive.org/download/nytimes-2022/nytimes-2022-09-03T17:17:31.110357-04:00.jpg"
+     alt="New York Times at 2022-09-03 17:17:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-03T17:17:31.110357-04:00.jpg">September 3 at 5:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-03T11:06:05.122830-04:00.jpg">
+  <img src="https://archive.org/download/nytimes-2022/nytimes-2022-09-03T11:06:05.122830-04:00.jpg"
+     alt="New York Times at 2022-09-03 11:06:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-03T11:06:05.122830-04:00.jpg">September 3 at 11:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-03T09:04:46.241982-04:00.jpg">
+  <img src="https://archive.org/download/nytimes-2022/nytimes-2022-09-03T09:04:46.241982-04:00.jpg"
+     alt="New York Times at 2022-09-03 09:04:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-03T09:04:46.241982-04:00.jpg">September 3 at 9:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-02T23:52:20.115691-04:00.jpg">
+  <img src="https://archive.org/download/nytimes-2022/nytimes-2022-09-02T23:52:20.115691-04:00.jpg"
+     alt="New York Times at 2022-09-02 23:52:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-02T23:52:20.115691-04:00.jpg">September 2 at 11:52 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-02T17:16:29.670702-04:00.jpg">
+  <img src="https://archive.org/download/nytimes-2022/nytimes-2022-09-02T17:16:29.670702-04:00.jpg"
+     alt="New York Times at 2022-09-02 17:16:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-02T17:16:29.670702-04:00.jpg">September 2 at 5:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-02T11:11:53.371176-04:00.jpg">
   <img src="https://archive.org/download/nytimes-2022/nytimes-2022-09-02T11:11:53.371176-04:00.jpg"
-     alt="New York Times at 2022-09-02 04:12:16-04:00 local time"
+     alt="New York Times at 2022-09-02 11:12:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-02T11:11:53.371176-04:00.jpg">September 2 at 4:12 AM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-02T11:11:53.371176-04:00.jpg">September 2 at 11:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-02T09:09:32.000439-04:00.jpg">
   <img src="https://archive.org/download/nytimes-2022/nytimes-2022-09-02T09:09:32.000439-04:00.jpg"
-     alt="New York Times at 2022-09-02 02:09:34-04:00 local time"
+     alt="New York Times at 2022-09-02 09:09:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-02T09:09:32.000439-04:00.jpg">September 2 at 2:09 AM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-02T09:09:32.000439-04:00.jpg">September 2 at 9:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-01T23:53:06.417122-04:00.jpg">
   <img src="https://archive.org/download/nytimes-2022/nytimes-2022-09-01T23:53:06.417122-04:00.jpg"
-     alt="New York Times at 2022-09-01 16:53:08-04:00 local time"
+     alt="New York Times at 2022-09-01 23:53:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-01T23:53:06.417122-04:00.jpg">September 1 at 4:53 PM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-01T23:53:06.417122-04:00.jpg">September 1 at 11:53 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-01T17:16:25.510150-04:00.jpg">
   <img src="https://archive.org/download/nytimes-2022/nytimes-2022-09-01T17:16:25.510150-04:00.jpg"
-     alt="New York Times at 2022-09-01 10:16:27-04:00 local time"
+     alt="New York Times at 2022-09-01 17:16:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-01T17:16:25.510150-04:00.jpg">September 1 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-01T17:16:25.510150-04:00.jpg">September 1 at 5:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-01T11:31:57.978548-04:00.jpg">
   <img src="https://archive.org/download/nytimes-2022/nytimes-2022-09-01T11:31:57.978548-04:00.jpg"
-     alt="New York Times at 2022-09-01 04:31:59-04:00 local time"
+     alt="New York Times at 2022-09-01 11:31:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-01T11:31:57.978548-04:00.jpg">September 1 at 4:31 AM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-01T11:31:57.978548-04:00.jpg">September 1 at 11:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-01T09:18:49.175806-04:00.jpg">
   <img src="https://archive.org/download/nytimes-2022/nytimes-2022-09-01T09:18:49.175806-04:00.jpg"
-     alt="New York Times at 2022-09-01 02:19:13-04:00 local time"
+     alt="New York Times at 2022-09-01 09:19:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-01T09:18:49.175806-04:00.jpg">September 1 at 2:19 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nytimes-2022/nytimes-2022-08-31T23:48:52.422965-04:00.jpg">
-  <img src="https://archive.org/download/nytimes-2022/nytimes-2022-08-31T23:48:52.422965-04:00.jpg"
-     alt="New York Times at 2022-08-31 16:48:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-08-31T23:48:52.422965-04:00.jpg">August 31 at 4:48 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nytimes-2022/nytimes-2022-08-31T17:16:33.413392-04:00.jpg">
-  <img src="https://archive.org/download/nytimes-2022/nytimes-2022-08-31T17:16:33.413392-04:00.jpg"
-     alt="New York Times at 2022-08-31 10:16:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-08-31T17:16:33.413392-04:00.jpg">August 31 at 10:16 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nytimes-2022/nytimes-2022-08-31T11:11:33.174340-04:00.jpg">
-  <img src="https://archive.org/download/nytimes-2022/nytimes-2022-08-31T11:11:33.174340-04:00.jpg"
-     alt="New York Times at 2022-08-31 04:11:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-08-31T11:11:33.174340-04:00.jpg">August 31 at 4:11 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nytimes-2022/nytimes-2022-08-31T09:08:46.903127-04:00.jpg">
-  <img src="https://archive.org/download/nytimes-2022/nytimes-2022-08-31T09:08:46.903127-04:00.jpg"
-     alt="New York Times at 2022-08-31 02:08:48-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-08-31T09:08:46.903127-04:00.jpg">August 31 at 2:08 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nytimes-2022/nytimes-2022-08-30T23:51:46.179229-04:00.jpg">
-  <img src="https://archive.org/download/nytimes-2022/nytimes-2022-08-30T23:51:46.179229-04:00.jpg"
-     alt="New York Times at 2022-08-30 16:51:48-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-08-30T23:51:46.179229-04:00.jpg">August 30 at 4:51 PM</a></p>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-09-01T09:18:49.175806-04:00.jpg">September 1 at 9:19 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 913 hyperlink lists with the Internet Archive.
+The archiving routine has saved 918 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 10:16 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-02T17:16:29.670702-04:00.hyperlinks.json) |
-| [September 2 at 4:12 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-02T11:11:53.371176-04:00.hyperlinks.json) |
-| [September 2 at 2:09 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-02T09:09:32.000439-04:00.hyperlinks.json) |
-| [September 1 at 4:53 PM](https://archive.org/download/nytimes-2022/nytimes-2022-09-01T23:53:06.417122-04:00.hyperlinks.json) |
-| [September 1 at 10:16 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-01T17:16:25.510150-04:00.hyperlinks.json) |
-| [September 1 at 4:32 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-01T11:31:57.978548-04:00.hyperlinks.json) |
-| [September 1 at 2:19 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-01T09:18:49.175806-04:00.hyperlinks.json) |
-| [August 31 at 4:48 PM](https://archive.org/download/nytimes-2022/nytimes-2022-08-31T23:48:52.422965-04:00.hyperlinks.json) |
-| [August 31 at 10:16 AM](https://archive.org/download/nytimes-2022/nytimes-2022-08-31T17:16:33.413392-04:00.hyperlinks.json) |
-| [August 31 at 4:11 AM](https://archive.org/download/nytimes-2022/nytimes-2022-08-31T11:11:33.174340-04:00.hyperlinks.json) |
+| [September 3 at 11:47 PM](https://archive.org/download/nytimes-2022/nytimes-2022-09-03T23:47:10.805754-04:00.hyperlinks.json) |
+| [September 3 at 5:17 PM](https://archive.org/download/nytimes-2022/nytimes-2022-09-03T17:17:31.110357-04:00.hyperlinks.json) |
+| [September 3 at 11:06 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-03T11:06:05.122830-04:00.hyperlinks.json) |
+| [September 3 at 9:04 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-03T09:04:46.241982-04:00.hyperlinks.json) |
+| [September 2 at 11:52 PM](https://archive.org/download/nytimes-2022/nytimes-2022-09-02T23:52:20.115691-04:00.hyperlinks.json) |
+| [September 2 at 5:16 PM](https://archive.org/download/nytimes-2022/nytimes-2022-09-02T17:16:29.670702-04:00.hyperlinks.json) |
+| [September 2 at 11:12 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-02T11:11:53.371176-04:00.hyperlinks.json) |
+| [September 2 at 9:09 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-02T09:09:32.000439-04:00.hyperlinks.json) |
+| [September 1 at 11:53 PM](https://archive.org/download/nytimes-2022/nytimes-2022-09-01T23:53:06.417122-04:00.hyperlinks.json) |
+| [September 1 at 5:16 PM](https://archive.org/download/nytimes-2022/nytimes-2022-09-01T17:16:25.510150-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 919 accessibility trees with the Internet Archive.
+The archiving routine has saved 924 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 10:16 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-02T17:16:29.670702-04:00.accessibility.json) |
-| [September 2 at 4:12 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-02T11:11:53.371176-04:00.accessibility.json) |
-| [September 2 at 2:09 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-02T09:09:32.000439-04:00.accessibility.json) |
-| [September 1 at 4:53 PM](https://archive.org/download/nytimes-2022/nytimes-2022-09-01T23:53:06.417122-04:00.accessibility.json) |
-| [September 1 at 10:16 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-01T17:16:25.510150-04:00.accessibility.json) |
-| [September 1 at 4:32 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-01T11:31:57.978548-04:00.accessibility.json) |
-| [September 1 at 2:19 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-01T09:18:49.175806-04:00.accessibility.json) |
-| [August 31 at 4:48 PM](https://archive.org/download/nytimes-2022/nytimes-2022-08-31T23:48:52.422965-04:00.accessibility.json) |
-| [August 31 at 10:16 AM](https://archive.org/download/nytimes-2022/nytimes-2022-08-31T17:16:33.413392-04:00.accessibility.json) |
-| [August 31 at 4:11 AM](https://archive.org/download/nytimes-2022/nytimes-2022-08-31T11:11:33.174340-04:00.accessibility.json) |
+| [September 3 at 11:47 PM](https://archive.org/download/nytimes-2022/nytimes-2022-09-03T23:47:10.805754-04:00.accessibility.json) |
+| [September 3 at 5:17 PM](https://archive.org/download/nytimes-2022/nytimes-2022-09-03T17:17:31.110357-04:00.accessibility.json) |
+| [September 3 at 11:06 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-03T11:06:05.122830-04:00.accessibility.json) |
+| [September 3 at 9:04 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-03T09:04:46.241982-04:00.accessibility.json) |
+| [September 2 at 11:52 PM](https://archive.org/download/nytimes-2022/nytimes-2022-09-02T23:52:20.115691-04:00.accessibility.json) |
+| [September 2 at 5:16 PM](https://archive.org/download/nytimes-2022/nytimes-2022-09-02T17:16:29.670702-04:00.accessibility.json) |
+| [September 2 at 11:12 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-02T11:11:53.371176-04:00.accessibility.json) |
+| [September 2 at 9:09 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-02T09:09:32.000439-04:00.accessibility.json) |
+| [September 1 at 11:53 PM](https://archive.org/download/nytimes-2022/nytimes-2022-09-01T23:53:06.417122-04:00.accessibility.json) |
+| [September 1 at 5:16 PM](https://archive.org/download/nytimes-2022/nytimes-2022-09-01T17:16:25.510150-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 158 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 163 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 10:17 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-02T17:16:29.670702-04:00.lighthouse.json) |
-| [September 2 at 4:12 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-02T11:11:53.371176-04:00.lighthouse.json) |
-| [September 2 at 2:09 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-02T09:09:32.000439-04:00.lighthouse.json) |
-| [September 1 at 4:53 PM](https://archive.org/download/nytimes-2022/nytimes-2022-09-01T23:53:06.417122-04:00.lighthouse.json) |
-| [September 1 at 10:16 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-01T17:16:25.510150-04:00.lighthouse.json) |
-| [September 1 at 4:32 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-01T11:31:57.978548-04:00.lighthouse.json) |
-| [September 1 at 2:19 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-01T09:18:49.175806-04:00.lighthouse.json) |
-| [August 31 at 4:49 PM](https://archive.org/download/nytimes-2022/nytimes-2022-08-31T23:48:52.422965-04:00.lighthouse.json) |
-| [August 31 at 10:16 AM](https://archive.org/download/nytimes-2022/nytimes-2022-08-31T17:16:33.413392-04:00.lighthouse.json) |
-| [August 31 at 4:11 AM](https://archive.org/download/nytimes-2022/nytimes-2022-08-31T11:11:33.174340-04:00.lighthouse.json) |
+| [September 3 at 11:47 PM](https://archive.org/download/nytimes-2022/nytimes-2022-09-03T23:47:10.805754-04:00.lighthouse.json) |
+| [September 3 at 5:17 PM](https://archive.org/download/nytimes-2022/nytimes-2022-09-03T17:17:31.110357-04:00.lighthouse.json) |
+| [September 3 at 11:06 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-03T11:06:05.122830-04:00.lighthouse.json) |
+| [September 3 at 9:04 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-03T09:04:46.241982-04:00.lighthouse.json) |
+| [September 2 at 11:52 PM](https://archive.org/download/nytimes-2022/nytimes-2022-09-02T23:52:20.115691-04:00.lighthouse.json) |
+| [September 2 at 5:17 PM](https://archive.org/download/nytimes-2022/nytimes-2022-09-02T17:16:29.670702-04:00.lighthouse.json) |
+| [September 2 at 11:12 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-02T11:11:53.371176-04:00.lighthouse.json) |
+| [September 2 at 9:09 AM](https://archive.org/download/nytimes-2022/nytimes-2022-09-02T09:09:32.000439-04:00.lighthouse.json) |
+| [September 1 at 11:53 PM](https://archive.org/download/nytimes-2022/nytimes-2022-09-01T23:53:06.417122-04:00.lighthouse.json) |
+| [September 1 at 5:16 PM](https://archive.org/download/nytimes-2022/nytimes-2022-09-01T17:16:25.510150-04:00.lighthouse.json) |
 
 
 

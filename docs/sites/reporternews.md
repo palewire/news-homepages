@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/reporternews-2022/reporternews-2022-09-02T08:03:38.721240-05:00.jpg">
   <img src="https://archive.org/download/reporternews-2022/reporternews-2022-09-02T08:03:38.721240-05:00.jpg"
-     alt="Abilene Reporter News at 2022-09-02 01:03:45-05:00 local time"
+     alt="Abilene Reporter News at 2022-09-02 08:03:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-09-02T08:03:38.721240-05:00.jpg">September 2 at 1:03 AM</a></p>
+ <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-09-02T08:03:38.721240-05:00.jpg">September 2 at 8:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reporternews-2022/reporternews-2022-09-01T20:17:54.976011-05:00.jpg">
   <img src="https://archive.org/download/reporternews-2022/reporternews-2022-09-01T20:17:54.976011-05:00.jpg"
-     alt="Abilene Reporter News at 2022-09-01 13:18:06-05:00 local time"
+     alt="Abilene Reporter News at 2022-09-01 20:18:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-09-01T20:17:54.976011-05:00.jpg">September 1 at 1:18 PM</a></p>
+ <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-09-01T20:17:54.976011-05:00.jpg">September 1 at 8:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reporternews-2022/reporternews-2022-09-01T08:13:19.043727-05:00.jpg">
   <img src="https://archive.org/download/reporternews-2022/reporternews-2022-09-01T08:13:19.043727-05:00.jpg"
-     alt="Abilene Reporter News at 2022-09-01 01:13:22-05:00 local time"
+     alt="Abilene Reporter News at 2022-09-01 08:13:22-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-09-01T08:13:19.043727-05:00.jpg">September 1 at 1:13 AM</a></p>
+ <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-09-01T08:13:19.043727-05:00.jpg">September 1 at 8:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reporternews-2022/reporternews-2022-08-31T20:15:49.838327-05:00.jpg">
   <img src="https://archive.org/download/reporternews-2022/reporternews-2022-08-31T20:15:49.838327-05:00.jpg"
-     alt="Abilene Reporter News at 2022-08-31 13:15:51-05:00 local time"
+     alt="Abilene Reporter News at 2022-08-31 20:15:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-08-31T20:15:49.838327-05:00.jpg">August 31 at 1:15 PM</a></p>
+ <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-08-31T20:15:49.838327-05:00.jpg">August 31 at 8:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reporternews-2022/reporternews-2022-08-31T08:13:08.561121-05:00.jpg">
   <img src="https://archive.org/download/reporternews-2022/reporternews-2022-08-31T08:13:08.561121-05:00.jpg"
-     alt="Abilene Reporter News at 2022-08-31 01:13:21-05:00 local time"
+     alt="Abilene Reporter News at 2022-08-31 08:13:21-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-08-31T08:13:08.561121-05:00.jpg">August 31 at 1:13 AM</a></p>
+ <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-08-31T08:13:08.561121-05:00.jpg">August 31 at 8:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reporternews-2022/reporternews-2022-08-30T20:25:46.412429-05:00.jpg">
   <img src="https://archive.org/download/reporternews-2022/reporternews-2022-08-30T20:25:46.412429-05:00.jpg"
-     alt="Abilene Reporter News at 2022-08-30 13:25:48-05:00 local time"
+     alt="Abilene Reporter News at 2022-08-30 20:25:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-08-30T20:25:46.412429-05:00.jpg">August 30 at 1:25 PM</a></p>
+ <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-08-30T20:25:46.412429-05:00.jpg">August 30 at 8:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reporternews-2022/reporternews-2022-08-30T08:11:26.962154-05:00.jpg">
   <img src="https://archive.org/download/reporternews-2022/reporternews-2022-08-30T08:11:26.962154-05:00.jpg"
-     alt="Abilene Reporter News at 2022-08-30 01:11:31-05:00 local time"
+     alt="Abilene Reporter News at 2022-08-30 08:11:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-08-30T08:11:26.962154-05:00.jpg">August 30 at 1:11 AM</a></p>
+ <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-08-30T08:11:26.962154-05:00.jpg">August 30 at 8:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reporternews-2022/reporternews-2022-08-29T20:17:03.493086-05:00.jpg">
   <img src="https://archive.org/download/reporternews-2022/reporternews-2022-08-29T20:17:03.493086-05:00.jpg"
-     alt="Abilene Reporter News at 2022-08-29 13:17:09-05:00 local time"
+     alt="Abilene Reporter News at 2022-08-29 20:17:09-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-08-29T20:17:03.493086-05:00.jpg">August 29 at 1:17 PM</a></p>
+ <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-08-29T20:17:03.493086-05:00.jpg">August 29 at 8:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reporternews-2022/reporternews-2022-08-29T08:01:21.539358-05:00.jpg">
   <img src="https://archive.org/download/reporternews-2022/reporternews-2022-08-29T08:01:21.539358-05:00.jpg"
-     alt="Abilene Reporter News at 2022-08-29 01:01:28-05:00 local time"
+     alt="Abilene Reporter News at 2022-08-29 08:01:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-08-29T08:01:21.539358-05:00.jpg">August 29 at 1:01 AM</a></p>
+ <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-08-29T08:01:21.539358-05:00.jpg">August 29 at 8:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reporternews-2022/reporternews-2022-08-28T20:16:05.081085-05:00.jpg">
   <img src="https://archive.org/download/reporternews-2022/reporternews-2022-08-28T20:16:05.081085-05:00.jpg"
-     alt="Abilene Reporter News at 2022-08-28 13:16:07-05:00 local time"
+     alt="Abilene Reporter News at 2022-08-28 20:16:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-08-28T20:16:05.081085-05:00.jpg">August 28 at 1:16 PM</a></p>
+ <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-08-28T20:16:05.081085-05:00.jpg">August 28 at 8:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reporternews-2022/reporternews-2022-08-28T08:01:46.773800-05:00.jpg">
   <img src="https://archive.org/download/reporternews-2022/reporternews-2022-08-28T08:01:46.773800-05:00.jpg"
-     alt="Abilene Reporter News at 2022-08-28 01:01:52-05:00 local time"
+     alt="Abilene Reporter News at 2022-08-28 08:01:52-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-08-28T08:01:46.773800-05:00.jpg">August 28 at 1:01 AM</a></p>
+ <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-08-28T08:01:46.773800-05:00.jpg">August 28 at 8:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reporternews-2022/reporternews-2022-08-27T20:29:08.857414-05:00.jpg">
   <img src="https://archive.org/download/reporternews-2022/reporternews-2022-08-27T20:29:08.857414-05:00.jpg"
-     alt="Abilene Reporter News at 2022-08-27 13:29:10-05:00 local time"
+     alt="Abilene Reporter News at 2022-08-27 20:29:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-08-27T20:29:08.857414-05:00.jpg">August 27 at 1:29 PM</a></p>
+ <p><a href="https://archive.org/download/reporternews-2022/reporternews-2022-08-27T20:29:08.857414-05:00.jpg">August 27 at 8:29 PM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 1:03 AM](https://archive.org/download/reporternews-2022/reporternews-2022-09-02T08:03:38.721240-05:00.hyperlinks.json) |
-| [September 1 at 1:18 PM](https://archive.org/download/reporternews-2022/reporternews-2022-09-01T20:17:54.976011-05:00.hyperlinks.json) |
-| [September 1 at 1:13 AM](https://archive.org/download/reporternews-2022/reporternews-2022-09-01T08:13:19.043727-05:00.hyperlinks.json) |
-| [August 31 at 1:15 PM](https://archive.org/download/reporternews-2022/reporternews-2022-08-31T20:15:49.838327-05:00.hyperlinks.json) |
-| [August 31 at 1:13 AM](https://archive.org/download/reporternews-2022/reporternews-2022-08-31T08:13:08.561121-05:00.hyperlinks.json) |
-| [August 30 at 1:25 PM](https://archive.org/download/reporternews-2022/reporternews-2022-08-30T20:25:46.412429-05:00.hyperlinks.json) |
-| [August 30 at 1:11 AM](https://archive.org/download/reporternews-2022/reporternews-2022-08-30T08:11:26.962154-05:00.hyperlinks.json) |
-| [August 29 at 1:17 PM](https://archive.org/download/reporternews-2022/reporternews-2022-08-29T20:17:03.493086-05:00.hyperlinks.json) |
-| [August 29 at 1:01 AM](https://archive.org/download/reporternews-2022/reporternews-2022-08-29T08:01:21.539358-05:00.hyperlinks.json) |
-| [August 28 at 1:16 PM](https://archive.org/download/reporternews-2022/reporternews-2022-08-28T20:16:05.081085-05:00.hyperlinks.json) |
+| [September 2 at 8:03 AM](https://archive.org/download/reporternews-2022/reporternews-2022-09-02T08:03:38.721240-05:00.hyperlinks.json) |
+| [September 1 at 8:18 PM](https://archive.org/download/reporternews-2022/reporternews-2022-09-01T20:17:54.976011-05:00.hyperlinks.json) |
+| [September 1 at 8:13 AM](https://archive.org/download/reporternews-2022/reporternews-2022-09-01T08:13:19.043727-05:00.hyperlinks.json) |
+| [August 31 at 8:15 PM](https://archive.org/download/reporternews-2022/reporternews-2022-08-31T20:15:49.838327-05:00.hyperlinks.json) |
+| [August 31 at 8:13 AM](https://archive.org/download/reporternews-2022/reporternews-2022-08-31T08:13:08.561121-05:00.hyperlinks.json) |
+| [August 30 at 8:25 PM](https://archive.org/download/reporternews-2022/reporternews-2022-08-30T20:25:46.412429-05:00.hyperlinks.json) |
+| [August 30 at 8:11 AM](https://archive.org/download/reporternews-2022/reporternews-2022-08-30T08:11:26.962154-05:00.hyperlinks.json) |
+| [August 29 at 8:17 PM](https://archive.org/download/reporternews-2022/reporternews-2022-08-29T20:17:03.493086-05:00.hyperlinks.json) |
+| [August 29 at 8:01 AM](https://archive.org/download/reporternews-2022/reporternews-2022-08-29T08:01:21.539358-05:00.hyperlinks.json) |
+| [August 28 at 8:16 PM](https://archive.org/download/reporternews-2022/reporternews-2022-08-28T20:16:05.081085-05:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 1:03 AM](https://archive.org/download/reporternews-2022/reporternews-2022-09-02T08:03:38.721240-05:00.accessibility.json) |
-| [September 1 at 1:18 PM](https://archive.org/download/reporternews-2022/reporternews-2022-09-01T20:17:54.976011-05:00.accessibility.json) |
-| [September 1 at 1:13 AM](https://archive.org/download/reporternews-2022/reporternews-2022-09-01T08:13:19.043727-05:00.accessibility.json) |
-| [August 31 at 1:15 PM](https://archive.org/download/reporternews-2022/reporternews-2022-08-31T20:15:49.838327-05:00.accessibility.json) |
-| [August 31 at 1:13 AM](https://archive.org/download/reporternews-2022/reporternews-2022-08-31T08:13:08.561121-05:00.accessibility.json) |
-| [August 30 at 1:25 PM](https://archive.org/download/reporternews-2022/reporternews-2022-08-30T20:25:46.412429-05:00.accessibility.json) |
-| [August 30 at 1:11 AM](https://archive.org/download/reporternews-2022/reporternews-2022-08-30T08:11:26.962154-05:00.accessibility.json) |
-| [August 29 at 1:17 PM](https://archive.org/download/reporternews-2022/reporternews-2022-08-29T20:17:03.493086-05:00.accessibility.json) |
-| [August 29 at 1:01 AM](https://archive.org/download/reporternews-2022/reporternews-2022-08-29T08:01:21.539358-05:00.accessibility.json) |
-| [August 28 at 1:16 PM](https://archive.org/download/reporternews-2022/reporternews-2022-08-28T20:16:05.081085-05:00.accessibility.json) |
+| [September 2 at 8:03 AM](https://archive.org/download/reporternews-2022/reporternews-2022-09-02T08:03:38.721240-05:00.accessibility.json) |
+| [September 1 at 8:18 PM](https://archive.org/download/reporternews-2022/reporternews-2022-09-01T20:17:54.976011-05:00.accessibility.json) |
+| [September 1 at 8:13 AM](https://archive.org/download/reporternews-2022/reporternews-2022-09-01T08:13:19.043727-05:00.accessibility.json) |
+| [August 31 at 8:15 PM](https://archive.org/download/reporternews-2022/reporternews-2022-08-31T20:15:49.838327-05:00.accessibility.json) |
+| [August 31 at 8:13 AM](https://archive.org/download/reporternews-2022/reporternews-2022-08-31T08:13:08.561121-05:00.accessibility.json) |
+| [August 30 at 8:25 PM](https://archive.org/download/reporternews-2022/reporternews-2022-08-30T20:25:46.412429-05:00.accessibility.json) |
+| [August 30 at 8:11 AM](https://archive.org/download/reporternews-2022/reporternews-2022-08-30T08:11:26.962154-05:00.accessibility.json) |
+| [August 29 at 8:17 PM](https://archive.org/download/reporternews-2022/reporternews-2022-08-29T20:17:03.493086-05:00.accessibility.json) |
+| [August 29 at 8:01 AM](https://archive.org/download/reporternews-2022/reporternews-2022-08-29T08:01:21.539358-05:00.accessibility.json) |
+| [August 28 at 8:16 PM](https://archive.org/download/reporternews-2022/reporternews-2022-08-28T20:16:05.081085-05:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 1:03 AM](https://archive.org/download/reporternews-2022/reporternews-2022-09-02T08:03:38.721240-05:00.lighthouse.json) |
-| [September 1 at 1:18 PM](https://archive.org/download/reporternews-2022/reporternews-2022-09-01T20:17:54.976011-05:00.lighthouse.json) |
-| [September 1 at 1:13 AM](https://archive.org/download/reporternews-2022/reporternews-2022-09-01T08:13:19.043727-05:00.lighthouse.json) |
-| [August 31 at 1:15 PM](https://archive.org/download/reporternews-2022/reporternews-2022-08-31T20:15:49.838327-05:00.lighthouse.json) |
-| [August 31 at 1:13 AM](https://archive.org/download/reporternews-2022/reporternews-2022-08-31T08:13:08.561121-05:00.lighthouse.json) |
-| [August 30 at 1:25 PM](https://archive.org/download/reporternews-2022/reporternews-2022-08-30T20:25:46.412429-05:00.lighthouse.json) |
-| [August 30 at 1:11 AM](https://archive.org/download/reporternews-2022/reporternews-2022-08-30T08:11:26.962154-05:00.lighthouse.json) |
-| [August 29 at 1:17 PM](https://archive.org/download/reporternews-2022/reporternews-2022-08-29T20:17:03.493086-05:00.lighthouse.json) |
-| [August 29 at 1:01 AM](https://archive.org/download/reporternews-2022/reporternews-2022-08-29T08:01:21.539358-05:00.lighthouse.json) |
-| [August 28 at 1:16 PM](https://archive.org/download/reporternews-2022/reporternews-2022-08-28T20:16:05.081085-05:00.lighthouse.json) |
+| [September 2 at 8:03 AM](https://archive.org/download/reporternews-2022/reporternews-2022-09-02T08:03:38.721240-05:00.lighthouse.json) |
+| [September 1 at 8:18 PM](https://archive.org/download/reporternews-2022/reporternews-2022-09-01T20:17:54.976011-05:00.lighthouse.json) |
+| [September 1 at 8:13 AM](https://archive.org/download/reporternews-2022/reporternews-2022-09-01T08:13:19.043727-05:00.lighthouse.json) |
+| [August 31 at 8:15 PM](https://archive.org/download/reporternews-2022/reporternews-2022-08-31T20:15:49.838327-05:00.lighthouse.json) |
+| [August 31 at 8:13 AM](https://archive.org/download/reporternews-2022/reporternews-2022-08-31T08:13:08.561121-05:00.lighthouse.json) |
+| [August 30 at 8:25 PM](https://archive.org/download/reporternews-2022/reporternews-2022-08-30T20:25:46.412429-05:00.lighthouse.json) |
+| [August 30 at 8:11 AM](https://archive.org/download/reporternews-2022/reporternews-2022-08-30T08:11:26.962154-05:00.lighthouse.json) |
+| [August 29 at 8:17 PM](https://archive.org/download/reporternews-2022/reporternews-2022-08-29T20:17:03.493086-05:00.lighthouse.json) |
+| [August 29 at 8:01 AM](https://archive.org/download/reporternews-2022/reporternews-2022-08-29T08:01:21.539358-05:00.lighthouse.json) |
+| [August 28 at 8:16 PM](https://archive.org/download/reporternews-2022/reporternews-2022-08-28T20:16:05.081085-05:00.lighthouse.json) |
 
 
 

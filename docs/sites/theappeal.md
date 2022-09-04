@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/theappeal-2022/theappeal-2022-09-02T12:18:40.641085-04:00.jpg">
   <img src="https://archive.org/download/theappeal-2022/theappeal-2022-09-02T12:18:40.641085-04:00.jpg"
-     alt="Appeal at 2022-09-02 05:18:43-04:00 local time"
+     alt="Appeal at 2022-09-02 12:18:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-09-02T12:18:40.641085-04:00.jpg">September 2 at 5:18 AM</a></p>
+ <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-09-02T12:18:40.641085-04:00.jpg">September 2 at 12:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theappeal-2022/theappeal-2022-09-02T00:49:00.024596-04:00.jpg">
   <img src="https://archive.org/download/theappeal-2022/theappeal-2022-09-02T00:49:00.024596-04:00.jpg"
-     alt="Appeal at 2022-09-01 17:49:04-04:00 local time"
+     alt="Appeal at 2022-09-02 00:49:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-09-02T00:49:00.024596-04:00.jpg">September 1 at 5:49 PM</a></p>
+ <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-09-02T00:49:00.024596-04:00.jpg">September 2 at 12:49 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theappeal-2022/theappeal-2022-09-01T12:40:06.759071-04:00.jpg">
   <img src="https://archive.org/download/theappeal-2022/theappeal-2022-09-01T12:40:06.759071-04:00.jpg"
-     alt="Appeal at 2022-09-01 05:40:16-04:00 local time"
+     alt="Appeal at 2022-09-01 12:40:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-09-01T12:40:06.759071-04:00.jpg">September 1 at 5:40 AM</a></p>
+ <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-09-01T12:40:06.759071-04:00.jpg">September 1 at 12:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theappeal-2022/theappeal-2022-09-01T00:44:09.713684-04:00.jpg">
   <img src="https://archive.org/download/theappeal-2022/theappeal-2022-09-01T00:44:09.713684-04:00.jpg"
-     alt="Appeal at 2022-08-31 17:44:11-04:00 local time"
+     alt="Appeal at 2022-09-01 00:44:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-09-01T00:44:09.713684-04:00.jpg">August 31 at 5:44 PM</a></p>
+ <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-09-01T00:44:09.713684-04:00.jpg">September 1 at 12:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-31T12:12:59.094149-04:00.jpg">
   <img src="https://archive.org/download/theappeal-2022/theappeal-2022-08-31T12:12:59.094149-04:00.jpg"
-     alt="Appeal at 2022-08-31 05:13:10-04:00 local time"
+     alt="Appeal at 2022-08-31 12:13:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-31T12:12:59.094149-04:00.jpg">August 31 at 5:13 AM</a></p>
+ <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-31T12:12:59.094149-04:00.jpg">August 31 at 12:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-31T00:52:08.585222-04:00.jpg">
   <img src="https://archive.org/download/theappeal-2022/theappeal-2022-08-31T00:52:08.585222-04:00.jpg"
-     alt="Appeal at 2022-08-30 17:52:10-04:00 local time"
+     alt="Appeal at 2022-08-31 00:52:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-31T00:52:08.585222-04:00.jpg">August 30 at 5:52 PM</a></p>
+ <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-31T00:52:08.585222-04:00.jpg">August 31 at 12:52 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-30T12:37:04.722506-04:00.jpg">
   <img src="https://archive.org/download/theappeal-2022/theappeal-2022-08-30T12:37:04.722506-04:00.jpg"
-     alt="Appeal at 2022-08-30 05:37:08-04:00 local time"
+     alt="Appeal at 2022-08-30 12:37:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-30T12:37:04.722506-04:00.jpg">August 30 at 5:37 AM</a></p>
+ <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-30T12:37:04.722506-04:00.jpg">August 30 at 12:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-30T00:58:10.657879-04:00.jpg">
   <img src="https://archive.org/download/theappeal-2022/theappeal-2022-08-30T00:58:10.657879-04:00.jpg"
-     alt="Appeal at 2022-08-29 17:58:13-04:00 local time"
+     alt="Appeal at 2022-08-30 00:58:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-30T00:58:10.657879-04:00.jpg">August 29 at 5:58 PM</a></p>
+ <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-30T00:58:10.657879-04:00.jpg">August 30 at 12:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-29T12:17:36.752833-04:00.jpg">
   <img src="https://archive.org/download/theappeal-2022/theappeal-2022-08-29T12:17:36.752833-04:00.jpg"
-     alt="Appeal at 2022-08-29 05:17:39-04:00 local time"
+     alt="Appeal at 2022-08-29 12:17:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-29T12:17:36.752833-04:00.jpg">August 29 at 5:17 AM</a></p>
+ <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-29T12:17:36.752833-04:00.jpg">August 29 at 12:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-29T00:41:48.730436-04:00.jpg">
   <img src="https://archive.org/download/theappeal-2022/theappeal-2022-08-29T00:41:48.730436-04:00.jpg"
-     alt="Appeal at 2022-08-28 17:41:50-04:00 local time"
+     alt="Appeal at 2022-08-29 00:41:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-29T00:41:48.730436-04:00.jpg">August 28 at 5:41 PM</a></p>
+ <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-29T00:41:48.730436-04:00.jpg">August 29 at 12:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-28T12:03:16.323344-04:00.jpg">
   <img src="https://archive.org/download/theappeal-2022/theappeal-2022-08-28T12:03:16.323344-04:00.jpg"
-     alt="Appeal at 2022-08-28 05:03:20-04:00 local time"
+     alt="Appeal at 2022-08-28 12:03:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-28T12:03:16.323344-04:00.jpg">August 28 at 5:03 AM</a></p>
+ <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-28T12:03:16.323344-04:00.jpg">August 28 at 12:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-28T00:38:23.781616-04:00.jpg">
   <img src="https://archive.org/download/theappeal-2022/theappeal-2022-08-28T00:38:23.781616-04:00.jpg"
-     alt="Appeal at 2022-08-27 17:38:28-04:00 local time"
+     alt="Appeal at 2022-08-28 00:38:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-28T00:38:23.781616-04:00.jpg">August 27 at 5:38 PM</a></p>
+ <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-28T00:38:23.781616-04:00.jpg">August 28 at 12:38 AM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 5:18 AM](https://archive.org/download/theappeal-2022/theappeal-2022-09-02T12:18:40.641085-04:00.hyperlinks.json) |
-| [September 1 at 5:49 PM](https://archive.org/download/theappeal-2022/theappeal-2022-09-02T00:49:00.024596-04:00.hyperlinks.json) |
-| [September 1 at 5:40 AM](https://archive.org/download/theappeal-2022/theappeal-2022-09-01T12:40:06.759071-04:00.hyperlinks.json) |
-| [August 31 at 5:44 PM](https://archive.org/download/theappeal-2022/theappeal-2022-09-01T00:44:09.713684-04:00.hyperlinks.json) |
-| [August 31 at 5:13 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-31T12:12:59.094149-04:00.hyperlinks.json) |
-| [August 30 at 5:52 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-31T00:52:08.585222-04:00.hyperlinks.json) |
-| [August 30 at 5:37 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-30T12:37:04.722506-04:00.hyperlinks.json) |
-| [August 29 at 5:58 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-30T00:58:10.657879-04:00.hyperlinks.json) |
-| [August 29 at 5:17 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-29T12:17:36.752833-04:00.hyperlinks.json) |
-| [August 28 at 5:41 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-29T00:41:48.730436-04:00.hyperlinks.json) |
+| [September 2 at 12:18 PM](https://archive.org/download/theappeal-2022/theappeal-2022-09-02T12:18:40.641085-04:00.hyperlinks.json) |
+| [September 2 at 12:49 AM](https://archive.org/download/theappeal-2022/theappeal-2022-09-02T00:49:00.024596-04:00.hyperlinks.json) |
+| [September 1 at 12:40 PM](https://archive.org/download/theappeal-2022/theappeal-2022-09-01T12:40:06.759071-04:00.hyperlinks.json) |
+| [September 1 at 12:44 AM](https://archive.org/download/theappeal-2022/theappeal-2022-09-01T00:44:09.713684-04:00.hyperlinks.json) |
+| [August 31 at 12:13 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-31T12:12:59.094149-04:00.hyperlinks.json) |
+| [August 31 at 12:52 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-31T00:52:08.585222-04:00.hyperlinks.json) |
+| [August 30 at 12:37 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-30T12:37:04.722506-04:00.hyperlinks.json) |
+| [August 30 at 12:58 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-30T00:58:10.657879-04:00.hyperlinks.json) |
+| [August 29 at 12:17 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-29T12:17:36.752833-04:00.hyperlinks.json) |
+| [August 29 at 12:41 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-29T00:41:48.730436-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 5:18 AM](https://archive.org/download/theappeal-2022/theappeal-2022-09-02T12:18:40.641085-04:00.accessibility.json) |
-| [September 1 at 5:49 PM](https://archive.org/download/theappeal-2022/theappeal-2022-09-02T00:49:00.024596-04:00.accessibility.json) |
-| [September 1 at 5:40 AM](https://archive.org/download/theappeal-2022/theappeal-2022-09-01T12:40:06.759071-04:00.accessibility.json) |
-| [August 31 at 5:44 PM](https://archive.org/download/theappeal-2022/theappeal-2022-09-01T00:44:09.713684-04:00.accessibility.json) |
-| [August 31 at 5:13 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-31T12:12:59.094149-04:00.accessibility.json) |
-| [August 30 at 5:52 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-31T00:52:08.585222-04:00.accessibility.json) |
-| [August 30 at 5:37 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-30T12:37:04.722506-04:00.accessibility.json) |
-| [August 29 at 5:58 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-30T00:58:10.657879-04:00.accessibility.json) |
-| [August 29 at 5:17 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-29T12:17:36.752833-04:00.accessibility.json) |
-| [August 28 at 5:41 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-29T00:41:48.730436-04:00.accessibility.json) |
+| [September 2 at 12:18 PM](https://archive.org/download/theappeal-2022/theappeal-2022-09-02T12:18:40.641085-04:00.accessibility.json) |
+| [September 2 at 12:49 AM](https://archive.org/download/theappeal-2022/theappeal-2022-09-02T00:49:00.024596-04:00.accessibility.json) |
+| [September 1 at 12:40 PM](https://archive.org/download/theappeal-2022/theappeal-2022-09-01T12:40:06.759071-04:00.accessibility.json) |
+| [September 1 at 12:44 AM](https://archive.org/download/theappeal-2022/theappeal-2022-09-01T00:44:09.713684-04:00.accessibility.json) |
+| [August 31 at 12:13 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-31T12:12:59.094149-04:00.accessibility.json) |
+| [August 31 at 12:52 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-31T00:52:08.585222-04:00.accessibility.json) |
+| [August 30 at 12:37 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-30T12:37:04.722506-04:00.accessibility.json) |
+| [August 30 at 12:58 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-30T00:58:10.657879-04:00.accessibility.json) |
+| [August 29 at 12:17 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-29T12:17:36.752833-04:00.accessibility.json) |
+| [August 29 at 12:41 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-29T00:41:48.730436-04:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 5:18 AM](https://archive.org/download/theappeal-2022/theappeal-2022-09-02T12:18:40.641085-04:00.lighthouse.json) |
-| [September 1 at 5:49 PM](https://archive.org/download/theappeal-2022/theappeal-2022-09-02T00:49:00.024596-04:00.lighthouse.json) |
-| [September 1 at 5:40 AM](https://archive.org/download/theappeal-2022/theappeal-2022-09-01T12:40:06.759071-04:00.lighthouse.json) |
-| [August 31 at 5:44 PM](https://archive.org/download/theappeal-2022/theappeal-2022-09-01T00:44:09.713684-04:00.lighthouse.json) |
-| [August 31 at 5:13 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-31T12:12:59.094149-04:00.lighthouse.json) |
-| [August 30 at 5:52 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-31T00:52:08.585222-04:00.lighthouse.json) |
-| [August 30 at 5:37 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-30T12:37:04.722506-04:00.lighthouse.json) |
-| [August 29 at 5:58 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-30T00:58:10.657879-04:00.lighthouse.json) |
-| [August 29 at 5:17 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-29T12:17:36.752833-04:00.lighthouse.json) |
-| [August 28 at 5:41 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-29T00:41:48.730436-04:00.lighthouse.json) |
+| [September 2 at 12:18 PM](https://archive.org/download/theappeal-2022/theappeal-2022-09-02T12:18:40.641085-04:00.lighthouse.json) |
+| [September 2 at 12:49 AM](https://archive.org/download/theappeal-2022/theappeal-2022-09-02T00:49:00.024596-04:00.lighthouse.json) |
+| [September 1 at 12:40 PM](https://archive.org/download/theappeal-2022/theappeal-2022-09-01T12:40:06.759071-04:00.lighthouse.json) |
+| [September 1 at 12:44 AM](https://archive.org/download/theappeal-2022/theappeal-2022-09-01T00:44:09.713684-04:00.lighthouse.json) |
+| [August 31 at 12:13 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-31T12:12:59.094149-04:00.lighthouse.json) |
+| [August 31 at 12:52 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-31T00:52:08.585222-04:00.lighthouse.json) |
+| [August 30 at 12:37 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-30T12:37:04.722506-04:00.lighthouse.json) |
+| [August 30 at 12:58 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-30T00:58:10.657879-04:00.lighthouse.json) |
+| [August 29 at 12:17 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-29T12:17:36.752833-04:00.lighthouse.json) |
+| [August 29 at 12:41 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-29T00:41:48.730436-04:00.lighthouse.json) |
 
 
 

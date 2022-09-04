@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-02T20:02:34.451650-04:00.jpg">
   <img src="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-02T20:02:34.451650-04:00.jpg"
-     alt="Mississippi Today at 2022-09-02 13:02:37-04:00 local time"
+     alt="Mississippi Today at 2022-09-02 20:02:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-02T20:02:34.451650-04:00.jpg">September 2 at 1:02 PM</a></p>
+ <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-02T20:02:34.451650-04:00.jpg">September 2 at 8:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-02T08:05:37.784836-04:00.jpg">
   <img src="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-02T08:05:37.784836-04:00.jpg"
-     alt="Mississippi Today at 2022-09-02 01:05:42-04:00 local time"
+     alt="Mississippi Today at 2022-09-02 08:05:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-02T08:05:37.784836-04:00.jpg">September 2 at 1:05 AM</a></p>
+ <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-02T08:05:37.784836-04:00.jpg">September 2 at 8:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-01T20:01:54.194529-04:00.jpg">
   <img src="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-01T20:01:54.194529-04:00.jpg"
-     alt="Mississippi Today at 2022-09-01 13:01:58-04:00 local time"
+     alt="Mississippi Today at 2022-09-01 20:01:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-01T20:01:54.194529-04:00.jpg">September 1 at 1:01 PM</a></p>
+ <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-01T20:01:54.194529-04:00.jpg">September 1 at 8:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-01T08:14:02.931002-04:00.jpg">
   <img src="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-01T08:14:02.931002-04:00.jpg"
-     alt="Mississippi Today at 2022-09-01 01:14:11-04:00 local time"
+     alt="Mississippi Today at 2022-09-01 08:14:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-01T08:14:02.931002-04:00.jpg">September 1 at 1:14 AM</a></p>
+ <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-01T08:14:02.931002-04:00.jpg">September 1 at 8:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-31T19:54:54.288501-04:00.jpg">
   <img src="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-31T19:54:54.288501-04:00.jpg"
-     alt="Mississippi Today at 2022-08-31 12:54:58-04:00 local time"
+     alt="Mississippi Today at 2022-08-31 19:54:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-31T19:54:54.288501-04:00.jpg">August 31 at 12:54 PM</a></p>
+ <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-31T19:54:54.288501-04:00.jpg">August 31 at 7:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-31T09:06:09.838475-04:00.jpg">
   <img src="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-31T09:06:09.838475-04:00.jpg"
-     alt="Mississippi Today at 2022-08-31 02:06:11-04:00 local time"
+     alt="Mississippi Today at 2022-08-31 09:06:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-31T09:06:09.838475-04:00.jpg">August 31 at 2:06 AM</a></p>
+ <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-31T09:06:09.838475-04:00.jpg">August 31 at 9:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-30T20:03:16.945037-04:00.jpg">
   <img src="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-30T20:03:16.945037-04:00.jpg"
-     alt="Mississippi Today at 2022-08-30 13:03:22-04:00 local time"
+     alt="Mississippi Today at 2022-08-30 20:03:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-30T20:03:16.945037-04:00.jpg">August 30 at 1:03 PM</a></p>
+ <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-30T20:03:16.945037-04:00.jpg">August 30 at 8:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-30T08:12:13.775582-04:00.jpg">
   <img src="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-30T08:12:13.775582-04:00.jpg"
-     alt="Mississippi Today at 2022-08-30 01:12:17-04:00 local time"
+     alt="Mississippi Today at 2022-08-30 08:12:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-30T08:12:13.775582-04:00.jpg">August 30 at 1:12 AM</a></p>
+ <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-30T08:12:13.775582-04:00.jpg">August 30 at 8:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-29T19:55:49.251618-04:00.jpg">
   <img src="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-29T19:55:49.251618-04:00.jpg"
-     alt="Mississippi Today at 2022-08-29 12:55:52-04:00 local time"
+     alt="Mississippi Today at 2022-08-29 19:55:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-29T19:55:49.251618-04:00.jpg">August 29 at 12:55 PM</a></p>
+ <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-29T19:55:49.251618-04:00.jpg">August 29 at 7:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-29T08:00:24.557353-04:00.jpg">
   <img src="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-29T08:00:24.557353-04:00.jpg"
-     alt="Mississippi Today at 2022-08-29 01:00:28-04:00 local time"
+     alt="Mississippi Today at 2022-08-29 08:00:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-29T08:00:24.557353-04:00.jpg">August 29 at 1:00 AM</a></p>
+ <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-29T08:00:24.557353-04:00.jpg">August 29 at 8:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-28T19:51:16.722953-04:00.jpg">
   <img src="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-28T19:51:16.722953-04:00.jpg"
-     alt="Mississippi Today at 2022-08-28 12:51:19-04:00 local time"
+     alt="Mississippi Today at 2022-08-28 19:51:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-28T19:51:16.722953-04:00.jpg">August 28 at 12:51 PM</a></p>
+ <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-28T19:51:16.722953-04:00.jpg">August 28 at 7:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-28T08:02:41.610421-04:00.jpg">
   <img src="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-28T08:02:41.610421-04:00.jpg"
-     alt="Mississippi Today at 2022-08-28 01:02:45-04:00 local time"
+     alt="Mississippi Today at 2022-08-28 08:02:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-28T08:02:41.610421-04:00.jpg">August 28 at 1:02 AM</a></p>
+ <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-28T08:02:41.610421-04:00.jpg">August 28 at 8:02 AM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 1:02 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-02T20:02:34.451650-04:00.hyperlinks.json) |
-| [September 2 at 1:05 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-02T08:05:37.784836-04:00.hyperlinks.json) |
-| [September 1 at 1:02 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-01T20:01:54.194529-04:00.hyperlinks.json) |
-| [September 1 at 1:14 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-01T08:14:02.931002-04:00.hyperlinks.json) |
-| [August 31 at 12:55 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-31T19:54:54.288501-04:00.hyperlinks.json) |
-| [August 31 at 2:06 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-31T09:06:09.838475-04:00.hyperlinks.json) |
-| [August 30 at 1:03 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-30T20:03:16.945037-04:00.hyperlinks.json) |
-| [August 30 at 1:12 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-30T08:12:13.775582-04:00.hyperlinks.json) |
-| [August 29 at 12:56 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-29T19:55:49.251618-04:00.hyperlinks.json) |
-| [August 29 at 1:00 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-29T08:00:24.557353-04:00.hyperlinks.json) |
+| [September 2 at 8:02 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-02T20:02:34.451650-04:00.hyperlinks.json) |
+| [September 2 at 8:05 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-02T08:05:37.784836-04:00.hyperlinks.json) |
+| [September 1 at 8:02 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-01T20:01:54.194529-04:00.hyperlinks.json) |
+| [September 1 at 8:14 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-01T08:14:02.931002-04:00.hyperlinks.json) |
+| [August 31 at 7:55 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-31T19:54:54.288501-04:00.hyperlinks.json) |
+| [August 31 at 9:06 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-31T09:06:09.838475-04:00.hyperlinks.json) |
+| [August 30 at 8:03 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-30T20:03:16.945037-04:00.hyperlinks.json) |
+| [August 30 at 8:12 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-30T08:12:13.775582-04:00.hyperlinks.json) |
+| [August 29 at 7:56 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-29T19:55:49.251618-04:00.hyperlinks.json) |
+| [August 29 at 8:00 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-29T08:00:24.557353-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 1:02 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-02T20:02:34.451650-04:00.accessibility.json) |
-| [September 2 at 1:05 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-02T08:05:37.784836-04:00.accessibility.json) |
-| [September 1 at 1:02 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-01T20:01:54.194529-04:00.accessibility.json) |
-| [September 1 at 1:14 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-01T08:14:02.931002-04:00.accessibility.json) |
-| [August 31 at 12:55 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-31T19:54:54.288501-04:00.accessibility.json) |
-| [August 31 at 2:06 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-31T09:06:09.838475-04:00.accessibility.json) |
-| [August 30 at 1:03 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-30T20:03:16.945037-04:00.accessibility.json) |
-| [August 30 at 1:12 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-30T08:12:13.775582-04:00.accessibility.json) |
-| [August 29 at 12:55 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-29T19:55:49.251618-04:00.accessibility.json) |
-| [August 29 at 1:00 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-29T08:00:24.557353-04:00.accessibility.json) |
+| [September 2 at 8:02 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-02T20:02:34.451650-04:00.accessibility.json) |
+| [September 2 at 8:05 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-02T08:05:37.784836-04:00.accessibility.json) |
+| [September 1 at 8:02 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-01T20:01:54.194529-04:00.accessibility.json) |
+| [September 1 at 8:14 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-01T08:14:02.931002-04:00.accessibility.json) |
+| [August 31 at 7:55 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-31T19:54:54.288501-04:00.accessibility.json) |
+| [August 31 at 9:06 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-31T09:06:09.838475-04:00.accessibility.json) |
+| [August 30 at 8:03 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-30T20:03:16.945037-04:00.accessibility.json) |
+| [August 30 at 8:12 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-30T08:12:13.775582-04:00.accessibility.json) |
+| [August 29 at 7:55 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-29T19:55:49.251618-04:00.accessibility.json) |
+| [August 29 at 8:00 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-29T08:00:24.557353-04:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 1:02 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-02T20:02:34.451650-04:00.lighthouse.json) |
-| [September 2 at 1:05 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-02T08:05:37.784836-04:00.lighthouse.json) |
-| [September 1 at 1:02 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-01T20:01:54.194529-04:00.lighthouse.json) |
-| [September 1 at 1:14 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-01T08:14:02.931002-04:00.lighthouse.json) |
-| [August 31 at 12:55 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-31T19:54:54.288501-04:00.lighthouse.json) |
-| [August 31 at 2:06 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-31T09:06:09.838475-04:00.lighthouse.json) |
-| [August 30 at 1:03 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-30T20:03:16.945037-04:00.lighthouse.json) |
-| [August 30 at 1:12 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-30T08:12:13.775582-04:00.lighthouse.json) |
-| [August 29 at 12:56 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-29T19:55:49.251618-04:00.lighthouse.json) |
-| [August 29 at 1:00 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-29T08:00:24.557353-04:00.lighthouse.json) |
+| [September 2 at 8:02 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-02T20:02:34.451650-04:00.lighthouse.json) |
+| [September 2 at 8:05 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-02T08:05:37.784836-04:00.lighthouse.json) |
+| [September 1 at 8:02 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-01T20:01:54.194529-04:00.lighthouse.json) |
+| [September 1 at 8:14 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-09-01T08:14:02.931002-04:00.lighthouse.json) |
+| [August 31 at 7:55 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-31T19:54:54.288501-04:00.lighthouse.json) |
+| [August 31 at 9:06 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-31T09:06:09.838475-04:00.lighthouse.json) |
+| [August 30 at 8:03 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-30T20:03:16.945037-04:00.lighthouse.json) |
+| [August 30 at 8:12 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-30T08:12:13.775582-04:00.lighthouse.json) |
+| [August 29 at 7:56 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-29T19:55:49.251618-04:00.lighthouse.json) |
+| [August 29 at 8:00 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-29T08:00:24.557353-04:00.lighthouse.json) |
 
 
 

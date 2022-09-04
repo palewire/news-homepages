@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-09-03T03:01:05.307560+03:00.jpg">
   <img src="https://archive.org/download/maarivonline-2022/maarivonline-2022-09-03T03:01:05.307560+03:00.jpg"
-     alt="Maariv at 2022-09-02 20:01:09+03:00 local time"
+     alt="Maariv at 2022-09-03 03:01:09+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-09-03T03:01:05.307560+03:00.jpg">September 2 at 8:01 PM</a></p>
+ <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-09-03T03:01:05.307560+03:00.jpg">September 3 at 3:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-09-02T15:04:26.547417+03:00.jpg">
   <img src="https://archive.org/download/maarivonline-2022/maarivonline-2022-09-02T15:04:26.547417+03:00.jpg"
-     alt="Maariv at 2022-09-02 08:04:29+03:00 local time"
+     alt="Maariv at 2022-09-02 15:04:29+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-09-02T15:04:26.547417+03:00.jpg">September 2 at 8:04 AM</a></p>
+ <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-09-02T15:04:26.547417+03:00.jpg">September 2 at 3:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-09-02T03:01:38.030698+03:00.jpg">
   <img src="https://archive.org/download/maarivonline-2022/maarivonline-2022-09-02T03:01:38.030698+03:00.jpg"
-     alt="Maariv at 2022-09-01 20:01:40+03:00 local time"
+     alt="Maariv at 2022-09-02 03:01:40+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-09-02T03:01:38.030698+03:00.jpg">September 1 at 8:01 PM</a></p>
+ <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-09-02T03:01:38.030698+03:00.jpg">September 2 at 3:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-09-01T15:16:25.467349+03:00.jpg">
   <img src="https://archive.org/download/maarivonline-2022/maarivonline-2022-09-01T15:16:25.467349+03:00.jpg"
-     alt="Maariv at 2022-09-01 08:16:28+03:00 local time"
+     alt="Maariv at 2022-09-01 15:16:28+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-09-01T15:16:25.467349+03:00.jpg">September 1 at 8:16 AM</a></p>
+ <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-09-01T15:16:25.467349+03:00.jpg">September 1 at 3:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-09-01T02:53:42.734651+03:00.jpg">
   <img src="https://archive.org/download/maarivonline-2022/maarivonline-2022-09-01T02:53:42.734651+03:00.jpg"
-     alt="Maariv at 2022-08-31 19:53:50+03:00 local time"
+     alt="Maariv at 2022-09-01 02:53:50+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-09-01T02:53:42.734651+03:00.jpg">August 31 at 7:53 PM</a></p>
+ <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-09-01T02:53:42.734651+03:00.jpg">September 1 at 2:53 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T16:05:49.862893+03:00.jpg">
   <img src="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T16:05:49.862893+03:00.jpg"
-     alt="Maariv at 2022-08-31 09:05:56+03:00 local time"
+     alt="Maariv at 2022-08-31 16:05:56+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T16:05:49.862893+03:00.jpg">August 31 at 9:05 AM</a></p>
+ <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T16:05:49.862893+03:00.jpg">August 31 at 4:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T03:03:33.287944+03:00.jpg">
   <img src="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T03:03:33.287944+03:00.jpg"
-     alt="Maariv at 2022-08-30 20:03:34+03:00 local time"
+     alt="Maariv at 2022-08-31 03:03:34+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T03:03:33.287944+03:00.jpg">August 30 at 8:03 PM</a></p>
+ <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T03:03:33.287944+03:00.jpg">August 31 at 3:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-30T15:10:36.482747+03:00.jpg">
   <img src="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-30T15:10:36.482747+03:00.jpg"
-     alt="Maariv at 2022-08-30 08:10:39+03:00 local time"
+     alt="Maariv at 2022-08-30 15:10:39+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-30T15:10:36.482747+03:00.jpg">August 30 at 8:10 AM</a></p>
+ <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-30T15:10:36.482747+03:00.jpg">August 30 at 3:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-30T02:53:51.757708+03:00.jpg">
   <img src="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-30T02:53:51.757708+03:00.jpg"
-     alt="Maariv at 2022-08-29 19:53:56+03:00 local time"
+     alt="Maariv at 2022-08-30 02:53:56+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-30T02:53:51.757708+03:00.jpg">August 29 at 7:53 PM</a></p>
+ <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-30T02:53:51.757708+03:00.jpg">August 30 at 2:53 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-29T14:59:18.473360+03:00.jpg">
   <img src="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-29T14:59:18.473360+03:00.jpg"
-     alt="Maariv at 2022-08-29 07:59:22+03:00 local time"
+     alt="Maariv at 2022-08-29 14:59:22+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-29T14:59:18.473360+03:00.jpg">August 29 at 7:59 AM</a></p>
+ <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-29T14:59:18.473360+03:00.jpg">August 29 at 2:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-29T02:50:32.037492+03:00.jpg">
   <img src="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-29T02:50:32.037492+03:00.jpg"
-     alt="Maariv at 2022-08-28 19:50:34+03:00 local time"
+     alt="Maariv at 2022-08-29 02:50:34+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-29T02:50:32.037492+03:00.jpg">August 28 at 7:50 PM</a></p>
+ <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-29T02:50:32.037492+03:00.jpg">August 29 at 2:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-28T15:02:07.291234+03:00.jpg">
   <img src="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-28T15:02:07.291234+03:00.jpg"
-     alt="Maariv at 2022-08-28 08:02:10+03:00 local time"
+     alt="Maariv at 2022-08-28 15:02:10+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-28T15:02:07.291234+03:00.jpg">August 28 at 8:02 AM</a></p>
+ <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-28T15:02:07.291234+03:00.jpg">August 28 at 3:02 PM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 8:01 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-03T03:01:05.307560+03:00.hyperlinks.json) |
-| [September 2 at 8:04 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-02T15:04:26.547417+03:00.hyperlinks.json) |
-| [September 1 at 8:01 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-02T03:01:38.030698+03:00.hyperlinks.json) |
-| [September 1 at 8:16 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-01T15:16:25.467349+03:00.hyperlinks.json) |
-| [August 31 at 7:53 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-01T02:53:42.734651+03:00.hyperlinks.json) |
-| [August 31 at 9:06 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T16:05:49.862893+03:00.hyperlinks.json) |
-| [August 30 at 8:03 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T03:03:33.287944+03:00.hyperlinks.json) |
-| [August 30 at 8:10 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-30T15:10:36.482747+03:00.hyperlinks.json) |
-| [August 29 at 7:53 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-30T02:53:51.757708+03:00.hyperlinks.json) |
-| [August 29 at 7:59 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-29T14:59:18.473360+03:00.hyperlinks.json) |
+| [September 3 at 3:01 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-03T03:01:05.307560+03:00.hyperlinks.json) |
+| [September 2 at 3:04 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-02T15:04:26.547417+03:00.hyperlinks.json) |
+| [September 2 at 3:01 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-02T03:01:38.030698+03:00.hyperlinks.json) |
+| [September 1 at 3:16 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-01T15:16:25.467349+03:00.hyperlinks.json) |
+| [September 1 at 2:53 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-01T02:53:42.734651+03:00.hyperlinks.json) |
+| [August 31 at 4:06 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T16:05:49.862893+03:00.hyperlinks.json) |
+| [August 31 at 3:03 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T03:03:33.287944+03:00.hyperlinks.json) |
+| [August 30 at 3:10 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-30T15:10:36.482747+03:00.hyperlinks.json) |
+| [August 30 at 2:53 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-30T02:53:51.757708+03:00.hyperlinks.json) |
+| [August 29 at 2:59 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-29T14:59:18.473360+03:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -550,16 +550,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 8:01 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-03T03:01:05.307560+03:00.accessibility.json) |
-| [September 2 at 8:04 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-02T15:04:26.547417+03:00.accessibility.json) |
-| [September 1 at 8:01 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-02T03:01:38.030698+03:00.accessibility.json) |
-| [September 1 at 8:16 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-01T15:16:25.467349+03:00.accessibility.json) |
-| [August 31 at 7:53 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-01T02:53:42.734651+03:00.accessibility.json) |
-| [August 31 at 9:05 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T16:05:49.862893+03:00.accessibility.json) |
-| [August 30 at 8:03 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T03:03:33.287944+03:00.accessibility.json) |
-| [August 30 at 8:10 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-30T15:10:36.482747+03:00.accessibility.json) |
-| [August 29 at 7:53 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-30T02:53:51.757708+03:00.accessibility.json) |
-| [August 29 at 7:59 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-29T14:59:18.473360+03:00.accessibility.json) |
+| [September 3 at 3:01 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-03T03:01:05.307560+03:00.accessibility.json) |
+| [September 2 at 3:04 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-02T15:04:26.547417+03:00.accessibility.json) |
+| [September 2 at 3:01 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-02T03:01:38.030698+03:00.accessibility.json) |
+| [September 1 at 3:16 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-01T15:16:25.467349+03:00.accessibility.json) |
+| [September 1 at 2:53 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-01T02:53:42.734651+03:00.accessibility.json) |
+| [August 31 at 4:05 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T16:05:49.862893+03:00.accessibility.json) |
+| [August 31 at 3:03 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T03:03:33.287944+03:00.accessibility.json) |
+| [August 30 at 3:10 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-30T15:10:36.482747+03:00.accessibility.json) |
+| [August 30 at 2:53 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-30T02:53:51.757708+03:00.accessibility.json) |
+| [August 29 at 2:59 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-29T14:59:18.473360+03:00.accessibility.json) |
 
 
 
@@ -656,16 +656,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 8:01 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-03T03:01:05.307560+03:00.lighthouse.json) |
-| [September 2 at 8:04 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-02T15:04:26.547417+03:00.lighthouse.json) |
-| [September 1 at 8:01 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-02T03:01:38.030698+03:00.lighthouse.json) |
-| [September 1 at 8:16 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-01T15:16:25.467349+03:00.lighthouse.json) |
-| [August 31 at 7:53 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-01T02:53:42.734651+03:00.lighthouse.json) |
-| [August 31 at 9:06 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T16:05:49.862893+03:00.lighthouse.json) |
-| [August 30 at 8:03 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T03:03:33.287944+03:00.lighthouse.json) |
-| [August 30 at 8:10 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-30T15:10:36.482747+03:00.lighthouse.json) |
-| [August 29 at 7:54 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-30T02:53:51.757708+03:00.lighthouse.json) |
-| [August 29 at 7:59 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-29T14:59:18.473360+03:00.lighthouse.json) |
+| [September 3 at 3:01 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-03T03:01:05.307560+03:00.lighthouse.json) |
+| [September 2 at 3:04 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-02T15:04:26.547417+03:00.lighthouse.json) |
+| [September 2 at 3:01 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-02T03:01:38.030698+03:00.lighthouse.json) |
+| [September 1 at 3:16 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-01T15:16:25.467349+03:00.lighthouse.json) |
+| [September 1 at 2:53 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-09-01T02:53:42.734651+03:00.lighthouse.json) |
+| [August 31 at 4:06 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T16:05:49.862893+03:00.lighthouse.json) |
+| [August 31 at 3:03 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-31T03:03:33.287944+03:00.lighthouse.json) |
+| [August 30 at 3:10 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-30T15:10:36.482747+03:00.lighthouse.json) |
+| [August 30 at 2:54 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-30T02:53:51.757708+03:00.lighthouse.json) |
+| [August 29 at 2:59 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-29T14:59:18.473360+03:00.lighthouse.json) |
 
 
 

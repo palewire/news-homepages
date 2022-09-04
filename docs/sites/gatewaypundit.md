@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-02T13:32:01.328469-05:00.jpg">
   <img src="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-02T13:32:01.328469-05:00.jpg"
-     alt="Gateway Pundit at 2022-09-02 06:32:10-05:00 local time"
+     alt="Gateway Pundit at 2022-09-02 13:32:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-02T13:32:01.328469-05:00.jpg">September 2 at 6:32 AM</a></p>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-02T13:32:01.328469-05:00.jpg">September 2 at 1:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-02T10:05:19.659028-05:00.jpg">
   <img src="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-02T10:05:19.659028-05:00.jpg"
-     alt="Gateway Pundit at 2022-09-02 03:05:24-05:00 local time"
+     alt="Gateway Pundit at 2022-09-02 10:05:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-02T10:05:19.659028-05:00.jpg">September 2 at 3:05 AM</a></p>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-02T10:05:19.659028-05:00.jpg">September 2 at 10:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T22:47:36.660565-05:00.jpg">
   <img src="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T22:47:36.660565-05:00.jpg"
-     alt="Gateway Pundit at 2022-09-01 15:47:40-05:00 local time"
+     alt="Gateway Pundit at 2022-09-01 22:47:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T22:47:36.660565-05:00.jpg">September 1 at 3:47 PM</a></p>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T22:47:36.660565-05:00.jpg">September 1 at 10:47 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T13:42:21.081179-05:00.jpg">
   <img src="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T13:42:21.081179-05:00.jpg"
-     alt="Gateway Pundit at 2022-09-01 06:42:23-05:00 local time"
+     alt="Gateway Pundit at 2022-09-01 13:42:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T13:42:21.081179-05:00.jpg">September 1 at 6:42 AM</a></p>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T13:42:21.081179-05:00.jpg">September 1 at 1:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T10:19:20.713153-05:00.jpg">
   <img src="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T10:19:20.713153-05:00.jpg"
-     alt="Gateway Pundit at 2022-09-01 03:19:25-05:00 local time"
+     alt="Gateway Pundit at 2022-09-01 10:19:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T10:19:20.713153-05:00.jpg">September 1 at 3:19 AM</a></p>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T10:19:20.713153-05:00.jpg">September 1 at 10:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T22:43:32.183466-05:00.jpg">
   <img src="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T22:43:32.183466-05:00.jpg"
-     alt="Gateway Pundit at 2022-08-31 15:43:39-05:00 local time"
+     alt="Gateway Pundit at 2022-08-31 22:43:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T22:43:32.183466-05:00.jpg">August 31 at 3:43 PM</a></p>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T22:43:32.183466-05:00.jpg">August 31 at 10:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T13:34:35.264247-05:00.jpg">
   <img src="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T13:34:35.264247-05:00.jpg"
-     alt="Gateway Pundit at 2022-08-31 06:34:53-05:00 local time"
+     alt="Gateway Pundit at 2022-08-31 13:34:53-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T13:34:35.264247-05:00.jpg">August 31 at 6:34 AM</a></p>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T13:34:35.264247-05:00.jpg">August 31 at 1:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T10:05:17.915081-05:00.jpg">
   <img src="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T10:05:17.915081-05:00.jpg"
-     alt="Gateway Pundit at 2022-08-31 03:05:34-05:00 local time"
+     alt="Gateway Pundit at 2022-08-31 10:05:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T10:05:17.915081-05:00.jpg">August 31 at 3:05 AM</a></p>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T10:05:17.915081-05:00.jpg">August 31 at 10:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-30T22:47:09.235350-05:00.jpg">
   <img src="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-30T22:47:09.235350-05:00.jpg"
-     alt="Gateway Pundit at 2022-08-30 15:47:10-05:00 local time"
+     alt="Gateway Pundit at 2022-08-30 22:47:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-30T22:47:09.235350-05:00.jpg">August 30 at 3:47 PM</a></p>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-30T22:47:09.235350-05:00.jpg">August 30 at 10:47 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-30T13:32:48.160659-05:00.jpg">
   <img src="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-30T13:32:48.160659-05:00.jpg"
-     alt="Gateway Pundit at 2022-08-30 06:32:54-05:00 local time"
+     alt="Gateway Pundit at 2022-08-30 13:32:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-30T13:32:48.160659-05:00.jpg">August 30 at 6:32 AM</a></p>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-30T13:32:48.160659-05:00.jpg">August 30 at 1:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-30T10:26:03.642927-05:00.jpg">
   <img src="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-30T10:26:03.642927-05:00.jpg"
-     alt="Gateway Pundit at 2022-08-30 03:26:08-05:00 local time"
+     alt="Gateway Pundit at 2022-08-30 10:26:08-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-30T10:26:03.642927-05:00.jpg">August 30 at 3:26 AM</a></p>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-30T10:26:03.642927-05:00.jpg">August 30 at 10:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-29T22:52:47.434882-05:00.jpg">
   <img src="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-29T22:52:47.434882-05:00.jpg"
-     alt="Gateway Pundit at 2022-08-29 15:52:48-05:00 local time"
+     alt="Gateway Pundit at 2022-08-29 22:52:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-29T22:52:47.434882-05:00.jpg">August 29 at 3:52 PM</a></p>
+ <p><a href="https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-29T22:52:47.434882-05:00.jpg">August 29 at 10:52 PM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 6:32 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-02T13:32:01.328469-05:00.hyperlinks.json) |
-| [September 2 at 3:05 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-02T10:05:19.659028-05:00.hyperlinks.json) |
-| [September 1 at 3:47 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T22:47:36.660565-05:00.hyperlinks.json) |
-| [September 1 at 6:42 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T13:42:21.081179-05:00.hyperlinks.json) |
-| [September 1 at 3:19 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T10:19:20.713153-05:00.hyperlinks.json) |
-| [August 31 at 3:43 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T22:43:32.183466-05:00.hyperlinks.json) |
-| [August 31 at 6:34 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T13:34:35.264247-05:00.hyperlinks.json) |
-| [August 31 at 3:05 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T10:05:17.915081-05:00.hyperlinks.json) |
-| [August 30 at 3:47 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-30T22:47:09.235350-05:00.hyperlinks.json) |
-| [August 30 at 6:32 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-30T13:32:48.160659-05:00.hyperlinks.json) |
+| [September 2 at 1:32 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-02T13:32:01.328469-05:00.hyperlinks.json) |
+| [September 2 at 10:05 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-02T10:05:19.659028-05:00.hyperlinks.json) |
+| [September 1 at 10:47 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T22:47:36.660565-05:00.hyperlinks.json) |
+| [September 1 at 1:42 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T13:42:21.081179-05:00.hyperlinks.json) |
+| [September 1 at 10:19 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T10:19:20.713153-05:00.hyperlinks.json) |
+| [August 31 at 10:43 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T22:43:32.183466-05:00.hyperlinks.json) |
+| [August 31 at 1:34 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T13:34:35.264247-05:00.hyperlinks.json) |
+| [August 31 at 10:05 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T10:05:17.915081-05:00.hyperlinks.json) |
+| [August 30 at 10:47 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-30T22:47:09.235350-05:00.hyperlinks.json) |
+| [August 30 at 1:32 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-30T13:32:48.160659-05:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 6:32 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-02T13:32:01.328469-05:00.accessibility.json) |
-| [September 2 at 3:05 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-02T10:05:19.659028-05:00.accessibility.json) |
-| [September 1 at 3:47 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T22:47:36.660565-05:00.accessibility.json) |
-| [September 1 at 6:42 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T13:42:21.081179-05:00.accessibility.json) |
-| [September 1 at 3:19 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T10:19:20.713153-05:00.accessibility.json) |
-| [August 31 at 3:43 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T22:43:32.183466-05:00.accessibility.json) |
-| [August 31 at 6:34 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T13:34:35.264247-05:00.accessibility.json) |
-| [August 31 at 3:05 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T10:05:17.915081-05:00.accessibility.json) |
-| [August 30 at 3:47 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-30T22:47:09.235350-05:00.accessibility.json) |
-| [August 30 at 6:32 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-30T13:32:48.160659-05:00.accessibility.json) |
+| [September 2 at 1:32 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-02T13:32:01.328469-05:00.accessibility.json) |
+| [September 2 at 10:05 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-02T10:05:19.659028-05:00.accessibility.json) |
+| [September 1 at 10:47 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T22:47:36.660565-05:00.accessibility.json) |
+| [September 1 at 1:42 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T13:42:21.081179-05:00.accessibility.json) |
+| [September 1 at 10:19 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T10:19:20.713153-05:00.accessibility.json) |
+| [August 31 at 10:43 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T22:43:32.183466-05:00.accessibility.json) |
+| [August 31 at 1:34 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T13:34:35.264247-05:00.accessibility.json) |
+| [August 31 at 10:05 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T10:05:17.915081-05:00.accessibility.json) |
+| [August 30 at 10:47 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-30T22:47:09.235350-05:00.accessibility.json) |
+| [August 30 at 1:32 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-30T13:32:48.160659-05:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 6:32 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-02T13:32:01.328469-05:00.lighthouse.json) |
-| [September 2 at 3:05 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-02T10:05:19.659028-05:00.lighthouse.json) |
-| [September 1 at 3:47 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T22:47:36.660565-05:00.lighthouse.json) |
-| [September 1 at 6:42 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T13:42:21.081179-05:00.lighthouse.json) |
-| [September 1 at 3:19 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T10:19:20.713153-05:00.lighthouse.json) |
-| [August 31 at 3:43 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T22:43:32.183466-05:00.lighthouse.json) |
-| [August 31 at 6:34 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T13:34:35.264247-05:00.lighthouse.json) |
-| [August 31 at 3:05 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T10:05:17.915081-05:00.lighthouse.json) |
-| [August 30 at 3:47 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-30T22:47:09.235350-05:00.lighthouse.json) |
-| [August 30 at 6:32 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-30T13:32:48.160659-05:00.lighthouse.json) |
+| [September 2 at 1:32 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-02T13:32:01.328469-05:00.lighthouse.json) |
+| [September 2 at 10:05 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-02T10:05:19.659028-05:00.lighthouse.json) |
+| [September 1 at 10:47 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T22:47:36.660565-05:00.lighthouse.json) |
+| [September 1 at 1:42 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T13:42:21.081179-05:00.lighthouse.json) |
+| [September 1 at 10:19 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-09-01T10:19:20.713153-05:00.lighthouse.json) |
+| [August 31 at 10:43 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T22:43:32.183466-05:00.lighthouse.json) |
+| [August 31 at 1:34 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T13:34:35.264247-05:00.lighthouse.json) |
+| [August 31 at 10:05 AM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-31T10:05:17.915081-05:00.lighthouse.json) |
+| [August 30 at 10:47 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-30T22:47:09.235350-05:00.lighthouse.json) |
+| [August 30 at 1:32 PM](https://archive.org/download/gatewaypundit-2022/gatewaypundit-2022-08-30T13:32:48.160659-05:00.lighthouse.json) |
 
 
 

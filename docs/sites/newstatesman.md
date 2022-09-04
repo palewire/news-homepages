@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 49 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-03T01:03:32.040520+01:00.jpg">
-  <img src="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-03T01:03:32.040520+01:00.jpg"
-     alt="New Statesman at 2022-09-02 18:03:35+01:00 local time"
+ <a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-04T00:52:00.460460+01:00.jpg">
+  <img src="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-04T00:52:00.460460+01:00.jpg"
+     alt="New Statesman at 2022-09-04 00:52:03+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-03T01:03:32.040520+01:00.jpg">September 2 at 6:03 PM</a></p>
+ <p><a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-04T00:52:00.460460+01:00.jpg">September 4 at 12:52 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-03T13:06:07.291121+01:00.jpg">
+  <img src="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-03T13:06:07.291121+01:00.jpg"
+     alt="New Statesman at 2022-09-03 13:06:10+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-03T13:06:07.291121+01:00.jpg">September 3 at 1:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-03T10:13:17.416753+01:00.jpg">
+  <img src="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-03T10:13:17.416753+01:00.jpg"
+     alt="New Statesman at 2022-09-03 10:13:19+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-03T10:13:17.416753+01:00.jpg">September 3 at 10:13 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-03T01:03:32.040520+01:00.jpg">
+  <img src="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-03T01:03:32.040520+01:00.jpg"
+     alt="New Statesman at 2022-09-03 01:03:35+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-03T01:03:32.040520+01:00.jpg">September 3 at 1:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T13:06:34.330591+01:00.jpg">
   <img src="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T13:06:34.330591+01:00.jpg"
-     alt="New Statesman at 2022-09-02 06:06:37+01:00 local time"
+     alt="New Statesman at 2022-09-02 13:06:37+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T13:06:34.330591+01:00.jpg">September 2 at 6:06 AM</a></p>
+ <p><a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T13:06:34.330591+01:00.jpg">September 2 at 1:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T10:19:20.450914+01:00.jpg">
   <img src="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T10:19:20.450914+01:00.jpg"
-     alt="New Statesman at 2022-09-02 03:19:23+01:00 local time"
+     alt="New Statesman at 2022-09-02 10:19:23+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T10:19:20.450914+01:00.jpg">September 2 at 3:19 AM</a></p>
+ <p><a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T10:19:20.450914+01:00.jpg">September 2 at 10:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T01:03:10.340659+01:00.jpg">
   <img src="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T01:03:10.340659+01:00.jpg"
-     alt="New Statesman at 2022-09-01 18:03:13+01:00 local time"
+     alt="New Statesman at 2022-09-02 01:03:13+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T01:03:10.340659+01:00.jpg">September 1 at 6:03 PM</a></p>
+ <p><a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T01:03:10.340659+01:00.jpg">September 2 at 1:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T13:15:28.195664+01:00.jpg">
   <img src="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T13:15:28.195664+01:00.jpg"
-     alt="New Statesman at 2022-09-01 06:15:30+01:00 local time"
+     alt="New Statesman at 2022-09-01 13:15:30+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T13:15:28.195664+01:00.jpg">September 1 at 6:15 AM</a></p>
+ <p><a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T13:15:28.195664+01:00.jpg">September 1 at 1:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T10:19:18.282654+01:00.jpg">
   <img src="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T10:19:18.282654+01:00.jpg"
-     alt="New Statesman at 2022-09-01 03:19:19+01:00 local time"
+     alt="New Statesman at 2022-09-01 10:19:19+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T10:19:18.282654+01:00.jpg">September 1 at 3:19 AM</a></p>
+ <p><a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T10:19:18.282654+01:00.jpg">September 1 at 10:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T00:55:32.157576+01:00.jpg">
   <img src="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T00:55:32.157576+01:00.jpg"
-     alt="New Statesman at 2022-08-31 17:55:38+01:00 local time"
+     alt="New Statesman at 2022-09-01 00:55:38+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T00:55:32.157576+01:00.jpg">August 31 at 5:55 PM</a></p>
+ <p><a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T00:55:32.157576+01:00.jpg">September 1 at 12:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-08-31T14:08:37.396579+01:00.jpg">
   <img src="https://archive.org/download/newstatesman-2022/newstatesman-2022-08-31T14:08:37.396579+01:00.jpg"
-     alt="New Statesman at 2022-08-31 07:08:46+01:00 local time"
+     alt="New Statesman at 2022-08-31 14:08:46+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-08-31T14:08:37.396579+01:00.jpg">August 31 at 7:08 AM</a></p>
+ <p><a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-08-31T14:08:37.396579+01:00.jpg">August 31 at 2:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-08-31T10:19:08.079143+01:00.jpg">
   <img src="https://archive.org/download/newstatesman-2022/newstatesman-2022-08-31T10:19:08.079143+01:00.jpg"
-     alt="New Statesman at 2022-08-31 03:19:11+01:00 local time"
+     alt="New Statesman at 2022-08-31 10:19:11+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-08-31T10:19:08.079143+01:00.jpg">August 31 at 3:19 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-08-31T01:05:18.927958+01:00.jpg">
-  <img src="https://archive.org/download/newstatesman-2022/newstatesman-2022-08-31T01:05:18.927958+01:00.jpg"
-     alt="New Statesman at 2022-08-30 18:05:22+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-08-31T01:05:18.927958+01:00.jpg">August 30 at 6:05 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-08-30T13:12:53.017410+01:00.jpg">
-  <img src="https://archive.org/download/newstatesman-2022/newstatesman-2022-08-30T13:12:53.017410+01:00.jpg"
-     alt="New Statesman at 2022-08-30 06:13:00+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-08-30T13:12:53.017410+01:00.jpg">August 30 at 6:13 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-08-30T10:18:28.162507+01:00.jpg">
-  <img src="https://archive.org/download/newstatesman-2022/newstatesman-2022-08-30T10:18:28.162507+01:00.jpg"
-     alt="New Statesman at 2022-08-30 03:18:30+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-08-30T10:18:28.162507+01:00.jpg">August 30 at 3:18 AM</a></p>
+ <p><a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-08-31T10:19:08.079143+01:00.jpg">August 31 at 10:19 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 46 hyperlink lists with the Internet Archive.
+The archiving routine has saved 49 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 6:03 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-03T01:03:32.040520+01:00.hyperlinks.json) |
-| [September 2 at 6:06 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T13:06:34.330591+01:00.hyperlinks.json) |
-| [September 2 at 3:19 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T10:19:20.450914+01:00.hyperlinks.json) |
-| [September 1 at 6:03 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T01:03:10.340659+01:00.hyperlinks.json) |
-| [September 1 at 6:15 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T13:15:28.195664+01:00.hyperlinks.json) |
-| [September 1 at 3:19 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T10:19:18.282654+01:00.hyperlinks.json) |
-| [August 31 at 5:55 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T00:55:32.157576+01:00.hyperlinks.json) |
-| [August 31 at 7:08 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-08-31T14:08:37.396579+01:00.hyperlinks.json) |
-| [August 31 at 3:19 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-08-31T10:19:08.079143+01:00.hyperlinks.json) |
-| [August 30 at 6:05 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-08-31T01:05:18.927958+01:00.hyperlinks.json) |
+| [September 4 at 12:52 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-04T00:52:00.460460+01:00.hyperlinks.json) |
+| [September 3 at 1:06 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-03T13:06:07.291121+01:00.hyperlinks.json) |
+| [September 3 at 10:13 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-03T10:13:17.416753+01:00.hyperlinks.json) |
+| [September 3 at 1:03 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-03T01:03:32.040520+01:00.hyperlinks.json) |
+| [September 2 at 1:06 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T13:06:34.330591+01:00.hyperlinks.json) |
+| [September 2 at 10:19 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T10:19:20.450914+01:00.hyperlinks.json) |
+| [September 2 at 1:03 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T01:03:10.340659+01:00.hyperlinks.json) |
+| [September 1 at 1:15 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T13:15:28.195664+01:00.hyperlinks.json) |
+| [September 1 at 10:19 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T10:19:18.282654+01:00.hyperlinks.json) |
+| [September 1 at 12:55 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T00:55:32.157576+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 46 accessibility trees with the Internet Archive.
+The archiving routine has saved 49 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 6:03 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-03T01:03:32.040520+01:00.accessibility.json) |
-| [September 2 at 6:06 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T13:06:34.330591+01:00.accessibility.json) |
-| [September 2 at 3:19 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T10:19:20.450914+01:00.accessibility.json) |
-| [September 1 at 6:03 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T01:03:10.340659+01:00.accessibility.json) |
-| [September 1 at 6:15 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T13:15:28.195664+01:00.accessibility.json) |
-| [September 1 at 3:19 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T10:19:18.282654+01:00.accessibility.json) |
-| [August 31 at 5:55 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T00:55:32.157576+01:00.accessibility.json) |
-| [August 31 at 7:08 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-08-31T14:08:37.396579+01:00.accessibility.json) |
-| [August 31 at 3:19 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-08-31T10:19:08.079143+01:00.accessibility.json) |
-| [August 30 at 6:05 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-08-31T01:05:18.927958+01:00.accessibility.json) |
+| [September 4 at 12:52 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-04T00:52:00.460460+01:00.accessibility.json) |
+| [September 3 at 1:06 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-03T13:06:07.291121+01:00.accessibility.json) |
+| [September 3 at 10:13 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-03T10:13:17.416753+01:00.accessibility.json) |
+| [September 3 at 1:03 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-03T01:03:32.040520+01:00.accessibility.json) |
+| [September 2 at 1:06 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T13:06:34.330591+01:00.accessibility.json) |
+| [September 2 at 10:19 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T10:19:20.450914+01:00.accessibility.json) |
+| [September 2 at 1:03 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T01:03:10.340659+01:00.accessibility.json) |
+| [September 1 at 1:15 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T13:15:28.195664+01:00.accessibility.json) |
+| [September 1 at 10:19 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T10:19:18.282654+01:00.accessibility.json) |
+| [September 1 at 12:55 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T00:55:32.157576+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 6:03 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-03T01:03:32.040520+01:00.lighthouse.json) |
-| [September 2 at 6:06 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T13:06:34.330591+01:00.lighthouse.json) |
-| [September 2 at 3:19 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T10:19:20.450914+01:00.lighthouse.json) |
-| [September 1 at 6:03 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T01:03:10.340659+01:00.lighthouse.json) |
-| [September 1 at 6:15 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T13:15:28.195664+01:00.lighthouse.json) |
-| [September 1 at 3:19 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T10:19:18.282654+01:00.lighthouse.json) |
-| [August 31 at 5:55 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T00:55:32.157576+01:00.lighthouse.json) |
-| [August 31 at 7:08 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-08-31T14:08:37.396579+01:00.lighthouse.json) |
-| [August 31 at 3:19 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-08-31T10:19:08.079143+01:00.lighthouse.json) |
-| [August 30 at 6:05 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-08-31T01:05:18.927958+01:00.lighthouse.json) |
+| [September 4 at 12:52 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-04T00:52:00.460460+01:00.lighthouse.json) |
+| [September 3 at 1:06 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-03T13:06:07.291121+01:00.lighthouse.json) |
+| [September 3 at 10:13 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-03T10:13:17.416753+01:00.lighthouse.json) |
+| [September 3 at 1:03 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-03T01:03:32.040520+01:00.lighthouse.json) |
+| [September 2 at 1:06 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T13:06:34.330591+01:00.lighthouse.json) |
+| [September 2 at 10:19 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T10:19:20.450914+01:00.lighthouse.json) |
+| [September 2 at 1:03 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-02T01:03:10.340659+01:00.lighthouse.json) |
+| [September 1 at 1:15 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T13:15:28.195664+01:00.lighthouse.json) |
+| [September 1 at 10:19 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T10:19:18.282654+01:00.lighthouse.json) |
+| [September 1 at 12:55 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-09-01T00:55:32.157576+01:00.lighthouse.json) |
 
 
 

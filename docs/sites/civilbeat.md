@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 113 screenshots with the Internet Archive.
+The archiving routine has saved 117 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,118 +326,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-02T13:53:44.206460-10:00.jpg">
-  <img src="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-02T13:53:44.206460-10:00.jpg"
-     alt="Honolulu Civil Beat at 2022-09-02 06:53:59-10:00 local time"
+ <a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-04T00:53:01.073929-10:00.jpg">
+  <img src="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-04T00:53:01.073929-10:00.jpg"
+     alt="Honolulu Civil Beat at 2022-09-04 00:53:04-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-02T13:53:44.206460-10:00.jpg">September 2 at 6:53 AM</a></p>
+ <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-04T00:53:01.073929-10:00.jpg">September 4 at 12:53 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-03T12:57:14.393738-10:00.jpg">
+  <img src="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-03T12:57:14.393738-10:00.jpg"
+     alt="Honolulu Civil Beat at 2022-09-03 12:57:17-10:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-03T12:57:14.393738-10:00.jpg">September 3 at 12:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-03T02:11:39.415916-10:00.jpg">
+  <img src="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-03T02:11:39.415916-10:00.jpg"
+     alt="Honolulu Civil Beat at 2022-09-03 02:11:40-10:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-03T02:11:39.415916-10:00.jpg">September 3 at 2:11 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-03T00:52:53.594164-10:00.jpg">
+  <img src="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-03T00:52:53.594164-10:00.jpg"
+     alt="Honolulu Civil Beat at 2022-09-03 00:52:55-10:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-03T00:52:53.594164-10:00.jpg">September 3 at 12:52 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-02T13:53:44.206460-10:00.jpg">
+  <img src="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-02T13:53:44.206460-10:00.jpg"
+     alt="Honolulu Civil Beat at 2022-09-02 13:53:59-10:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-02T13:53:44.206460-10:00.jpg">September 2 at 1:53 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-02T00:59:21.826734-10:00.jpg">
   <img src="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-02T00:59:21.826734-10:00.jpg"
-     alt="Honolulu Civil Beat at 2022-09-01 17:59:28-10:00 local time"
+     alt="Honolulu Civil Beat at 2022-09-02 00:59:28-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-02T00:59:21.826734-10:00.jpg">September 1 at 5:59 PM</a></p>
+ <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-02T00:59:21.826734-10:00.jpg">September 2 at 12:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-01T13:00:41.819128-10:00.jpg">
   <img src="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-01T13:00:41.819128-10:00.jpg"
-     alt="Honolulu Civil Beat at 2022-09-01 06:01:00-10:00 local time"
+     alt="Honolulu Civil Beat at 2022-09-01 13:01:00-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-01T13:00:41.819128-10:00.jpg">September 1 at 6:01 AM</a></p>
+ <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-01T13:00:41.819128-10:00.jpg">September 1 at 1:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-01T01:03:52.193191-10:00.jpg">
   <img src="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-01T01:03:52.193191-10:00.jpg"
-     alt="Honolulu Civil Beat at 2022-08-31 18:03:56-10:00 local time"
+     alt="Honolulu Civil Beat at 2022-09-01 01:03:56-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-01T01:03:52.193191-10:00.jpg">August 31 at 6:03 PM</a></p>
+ <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-09-01T01:03:52.193191-10:00.jpg">September 1 at 1:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-08-31T12:56:13.548434-10:00.jpg">
   <img src="https://archive.org/download/civilbeat-2022/civilbeat-2022-08-31T12:56:13.548434-10:00.jpg"
-     alt="Honolulu Civil Beat at 2022-08-31 05:56:16-10:00 local time"
+     alt="Honolulu Civil Beat at 2022-08-31 12:56:16-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-08-31T12:56:13.548434-10:00.jpg">August 31 at 5:56 AM</a></p>
+ <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-08-31T12:56:13.548434-10:00.jpg">August 31 at 12:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-08-31T00:58:35.622959-10:00.jpg">
   <img src="https://archive.org/download/civilbeat-2022/civilbeat-2022-08-31T00:58:35.622959-10:00.jpg"
-     alt="Honolulu Civil Beat at 2022-08-30 17:58:37-10:00 local time"
+     alt="Honolulu Civil Beat at 2022-08-31 00:58:37-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-08-31T00:58:35.622959-10:00.jpg">August 30 at 5:58 PM</a></p>
+ <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-08-31T00:58:35.622959-10:00.jpg">August 31 at 12:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-08-30T13:03:04.753767-10:00.jpg">
   <img src="https://archive.org/download/civilbeat-2022/civilbeat-2022-08-30T13:03:04.753767-10:00.jpg"
-     alt="Honolulu Civil Beat at 2022-08-30 06:03:09-10:00 local time"
+     alt="Honolulu Civil Beat at 2022-08-30 13:03:09-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-08-30T13:03:04.753767-10:00.jpg">August 30 at 6:03 AM</a></p>
+ <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-08-30T13:03:04.753767-10:00.jpg">August 30 at 1:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-08-30T01:03:09.515922-10:00.jpg">
   <img src="https://archive.org/download/civilbeat-2022/civilbeat-2022-08-30T01:03:09.515922-10:00.jpg"
-     alt="Honolulu Civil Beat at 2022-08-29 18:03:13-10:00 local time"
+     alt="Honolulu Civil Beat at 2022-08-30 01:03:13-10:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-08-30T01:03:09.515922-10:00.jpg">August 29 at 6:03 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-08-29T12:58:37.282659-10:00.jpg">
-  <img src="https://archive.org/download/civilbeat-2022/civilbeat-2022-08-29T12:58:37.282659-10:00.jpg"
-     alt="Honolulu Civil Beat at 2022-08-29 05:58:46-10:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-08-29T12:58:37.282659-10:00.jpg">August 29 at 5:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-08-29T00:55:15.987671-10:00.jpg">
-  <img src="https://archive.org/download/civilbeat-2022/civilbeat-2022-08-29T00:55:15.987671-10:00.jpg"
-     alt="Honolulu Civil Beat at 2022-08-28 17:55:17-10:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-08-29T00:55:15.987671-10:00.jpg">August 28 at 5:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-08-28T12:53:00.631715-10:00.jpg">
-  <img src="https://archive.org/download/civilbeat-2022/civilbeat-2022-08-28T12:53:00.631715-10:00.jpg"
-     alt="Honolulu Civil Beat at 2022-08-28 05:53:01-10:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-08-28T12:53:00.631715-10:00.jpg">August 28 at 5:53 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-08-28T00:56:01.958045-10:00.jpg">
-  <img src="https://archive.org/download/civilbeat-2022/civilbeat-2022-08-28T00:56:01.958045-10:00.jpg"
-     alt="Honolulu Civil Beat at 2022-08-27 17:56:03-10:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-08-28T00:56:01.958045-10:00.jpg">August 27 at 5:56 PM</a></p>
+ <p><a href="https://archive.org/download/civilbeat-2022/civilbeat-2022-08-30T01:03:09.515922-10:00.jpg">August 30 at 1:03 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 113 hyperlink lists with the Internet Archive.
+The archiving routine has saved 117 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 6:54 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-02T13:53:44.206460-10:00.hyperlinks.json) |
-| [September 1 at 5:59 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-02T00:59:21.826734-10:00.hyperlinks.json) |
-| [September 1 at 6:01 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-01T13:00:41.819128-10:00.hyperlinks.json) |
-| [August 31 at 6:04 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-01T01:03:52.193191-10:00.hyperlinks.json) |
-| [August 31 at 5:56 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-08-31T12:56:13.548434-10:00.hyperlinks.json) |
-| [August 30 at 5:58 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-08-31T00:58:35.622959-10:00.hyperlinks.json) |
-| [August 30 at 6:03 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-08-30T13:03:04.753767-10:00.hyperlinks.json) |
-| [August 29 at 6:03 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-08-30T01:03:09.515922-10:00.hyperlinks.json) |
-| [August 29 at 5:58 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-08-29T12:58:37.282659-10:00.hyperlinks.json) |
-| [August 28 at 5:55 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-08-29T00:55:15.987671-10:00.hyperlinks.json) |
+| [September 4 at 12:53 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-04T00:53:01.073929-10:00.hyperlinks.json) |
+| [September 3 at 12:57 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-03T12:57:14.393738-10:00.hyperlinks.json) |
+| [September 3 at 2:11 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-03T02:11:39.415916-10:00.hyperlinks.json) |
+| [September 3 at 12:52 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-03T00:52:53.594164-10:00.hyperlinks.json) |
+| [September 2 at 1:54 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-02T13:53:44.206460-10:00.hyperlinks.json) |
+| [September 2 at 12:59 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-02T00:59:21.826734-10:00.hyperlinks.json) |
+| [September 1 at 1:01 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-01T13:00:41.819128-10:00.hyperlinks.json) |
+| [September 1 at 1:04 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-01T01:03:52.193191-10:00.hyperlinks.json) |
+| [August 31 at 12:56 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-08-31T12:56:13.548434-10:00.hyperlinks.json) |
+| [August 31 at 12:58 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-08-31T00:58:35.622959-10:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 113 accessibility trees with the Internet Archive.
+The archiving routine has saved 117 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 6:54 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-02T13:53:44.206460-10:00.accessibility.json) |
-| [September 1 at 5:59 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-02T00:59:21.826734-10:00.accessibility.json) |
-| [September 1 at 6:01 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-01T13:00:41.819128-10:00.accessibility.json) |
-| [August 31 at 6:03 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-01T01:03:52.193191-10:00.accessibility.json) |
-| [August 31 at 5:56 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-08-31T12:56:13.548434-10:00.accessibility.json) |
-| [August 30 at 5:58 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-08-31T00:58:35.622959-10:00.accessibility.json) |
-| [August 30 at 6:03 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-08-30T13:03:04.753767-10:00.accessibility.json) |
-| [August 29 at 6:03 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-08-30T01:03:09.515922-10:00.accessibility.json) |
-| [August 29 at 5:58 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-08-29T12:58:37.282659-10:00.accessibility.json) |
-| [August 28 at 5:55 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-08-29T00:55:15.987671-10:00.accessibility.json) |
+| [September 4 at 12:53 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-04T00:53:01.073929-10:00.accessibility.json) |
+| [September 3 at 12:57 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-03T12:57:14.393738-10:00.accessibility.json) |
+| [September 3 at 2:11 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-03T02:11:39.415916-10:00.accessibility.json) |
+| [September 3 at 12:52 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-03T00:52:53.594164-10:00.accessibility.json) |
+| [September 2 at 1:54 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-02T13:53:44.206460-10:00.accessibility.json) |
+| [September 2 at 12:59 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-02T00:59:21.826734-10:00.accessibility.json) |
+| [September 1 at 1:01 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-01T13:00:41.819128-10:00.accessibility.json) |
+| [September 1 at 1:03 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-01T01:03:52.193191-10:00.accessibility.json) |
+| [August 31 at 12:56 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-08-31T12:56:13.548434-10:00.accessibility.json) |
+| [August 31 at 12:58 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-08-31T00:58:35.622959-10:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 83 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 87 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 6:54 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-02T13:53:44.206460-10:00.lighthouse.json) |
-| [September 1 at 5:59 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-02T00:59:21.826734-10:00.lighthouse.json) |
-| [September 1 at 6:01 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-01T13:00:41.819128-10:00.lighthouse.json) |
-| [August 31 at 6:04 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-01T01:03:52.193191-10:00.lighthouse.json) |
-| [August 31 at 5:56 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-08-31T12:56:13.548434-10:00.lighthouse.json) |
-| [August 30 at 5:58 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-08-31T00:58:35.622959-10:00.lighthouse.json) |
-| [August 30 at 6:03 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-08-30T13:03:04.753767-10:00.lighthouse.json) |
-| [August 29 at 6:03 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-08-30T01:03:09.515922-10:00.lighthouse.json) |
-| [August 29 at 5:58 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-08-29T12:58:37.282659-10:00.lighthouse.json) |
-| [August 28 at 5:55 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-08-29T00:55:15.987671-10:00.lighthouse.json) |
+| [September 4 at 12:53 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-04T00:53:01.073929-10:00.lighthouse.json) |
+| [September 3 at 12:57 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-03T12:57:14.393738-10:00.lighthouse.json) |
+| [September 3 at 2:11 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-03T02:11:39.415916-10:00.lighthouse.json) |
+| [September 3 at 12:53 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-03T00:52:53.594164-10:00.lighthouse.json) |
+| [September 2 at 1:54 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-02T13:53:44.206460-10:00.lighthouse.json) |
+| [September 2 at 12:59 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-02T00:59:21.826734-10:00.lighthouse.json) |
+| [September 1 at 1:01 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-01T13:00:41.819128-10:00.lighthouse.json) |
+| [September 1 at 1:04 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-09-01T01:03:52.193191-10:00.lighthouse.json) |
+| [August 31 at 12:56 PM](https://archive.org/download/civilbeat-2022/civilbeat-2022-08-31T12:56:13.548434-10:00.lighthouse.json) |
+| [August 31 at 12:58 AM](https://archive.org/download/civilbeat-2022/civilbeat-2022-08-31T00:58:35.622959-10:00.lighthouse.json) |
 
 
 

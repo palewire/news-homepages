@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-09-03T03:00:24.059122+03:00.jpg">
   <img src="https://archive.org/download/kyivpost-2022/kyivpost-2022-09-03T03:00:24.059122+03:00.jpg"
-     alt="KyivPost at 2022-09-02 20:00:25+03:00 local time"
+     alt="KyivPost at 2022-09-03 03:00:25+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-09-03T03:00:24.059122+03:00.jpg">September 2 at 8:00 PM</a></p>
+ <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-09-03T03:00:24.059122+03:00.jpg">September 3 at 3:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-09-02T15:03:40.015672+03:00.jpg">
   <img src="https://archive.org/download/kyivpost-2022/kyivpost-2022-09-02T15:03:40.015672+03:00.jpg"
-     alt="KyivPost at 2022-09-02 08:03:57+03:00 local time"
+     alt="KyivPost at 2022-09-02 15:03:57+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-09-02T15:03:40.015672+03:00.jpg">September 2 at 8:03 AM</a></p>
+ <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-09-02T15:03:40.015672+03:00.jpg">September 2 at 3:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-09-02T02:59:03.975915+03:00.jpg">
   <img src="https://archive.org/download/kyivpost-2022/kyivpost-2022-09-02T02:59:03.975915+03:00.jpg"
-     alt="KyivPost at 2022-09-01 19:59:06+03:00 local time"
+     alt="KyivPost at 2022-09-02 02:59:06+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-09-02T02:59:03.975915+03:00.jpg">September 1 at 7:59 PM</a></p>
+ <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-09-02T02:59:03.975915+03:00.jpg">September 2 at 2:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-09-01T15:12:39.339926+03:00.jpg">
   <img src="https://archive.org/download/kyivpost-2022/kyivpost-2022-09-01T15:12:39.339926+03:00.jpg"
-     alt="KyivPost at 2022-09-01 08:12:41+03:00 local time"
+     alt="KyivPost at 2022-09-01 15:12:41+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-09-01T15:12:39.339926+03:00.jpg">September 1 at 8:12 AM</a></p>
+ <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-09-01T15:12:39.339926+03:00.jpg">September 1 at 3:12 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-09-01T02:51:57.775776+03:00.jpg">
   <img src="https://archive.org/download/kyivpost-2022/kyivpost-2022-09-01T02:51:57.775776+03:00.jpg"
-     alt="KyivPost at 2022-08-31 19:52:03+03:00 local time"
+     alt="KyivPost at 2022-09-01 02:52:03+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-09-01T02:51:57.775776+03:00.jpg">August 31 at 7:52 PM</a></p>
+ <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-09-01T02:51:57.775776+03:00.jpg">September 1 at 2:52 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-31T16:03:50.157621+03:00.jpg">
   <img src="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-31T16:03:50.157621+03:00.jpg"
-     alt="KyivPost at 2022-08-31 09:03:57+03:00 local time"
+     alt="KyivPost at 2022-08-31 16:03:57+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-31T16:03:50.157621+03:00.jpg">August 31 at 9:03 AM</a></p>
+ <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-31T16:03:50.157621+03:00.jpg">August 31 at 4:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-31T03:01:20.223516+03:00.jpg">
   <img src="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-31T03:01:20.223516+03:00.jpg"
-     alt="KyivPost at 2022-08-30 20:01:27+03:00 local time"
+     alt="KyivPost at 2022-08-31 03:01:27+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-31T03:01:20.223516+03:00.jpg">August 30 at 8:01 PM</a></p>
+ <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-31T03:01:20.223516+03:00.jpg">August 31 at 3:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-30T15:10:33.712836+03:00.jpg">
   <img src="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-30T15:10:33.712836+03:00.jpg"
-     alt="KyivPost at 2022-08-30 08:10:40+03:00 local time"
+     alt="KyivPost at 2022-08-30 15:10:40+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-30T15:10:33.712836+03:00.jpg">August 30 at 8:10 AM</a></p>
+ <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-30T15:10:33.712836+03:00.jpg">August 30 at 3:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-30T02:53:30.603617+03:00.jpg">
   <img src="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-30T02:53:30.603617+03:00.jpg"
-     alt="KyivPost at 2022-08-29 19:53:39+03:00 local time"
+     alt="KyivPost at 2022-08-30 02:53:39+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-30T02:53:30.603617+03:00.jpg">August 29 at 7:53 PM</a></p>
+ <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-30T02:53:30.603617+03:00.jpg">August 30 at 2:53 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-29T14:58:49.608444+03:00.jpg">
   <img src="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-29T14:58:49.608444+03:00.jpg"
-     alt="KyivPost at 2022-08-29 07:58:58+03:00 local time"
+     alt="KyivPost at 2022-08-29 14:58:58+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-29T14:58:49.608444+03:00.jpg">August 29 at 7:58 AM</a></p>
+ <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-29T14:58:49.608444+03:00.jpg">August 29 at 2:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-29T02:49:38.116123+03:00.jpg">
   <img src="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-29T02:49:38.116123+03:00.jpg"
-     alt="KyivPost at 2022-08-28 19:49:44+03:00 local time"
+     alt="KyivPost at 2022-08-29 02:49:44+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-29T02:49:38.116123+03:00.jpg">August 28 at 7:49 PM</a></p>
+ <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-29T02:49:38.116123+03:00.jpg">August 29 at 2:49 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-28T15:00:24.058250+03:00.jpg">
   <img src="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-28T15:00:24.058250+03:00.jpg"
-     alt="KyivPost at 2022-08-28 08:00:30+03:00 local time"
+     alt="KyivPost at 2022-08-28 15:00:30+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-28T15:00:24.058250+03:00.jpg">August 28 at 8:00 AM</a></p>
+ <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-28T15:00:24.058250+03:00.jpg">August 28 at 3:00 PM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 8:00 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-03T03:00:24.059122+03:00.hyperlinks.json) |
-| [September 2 at 8:04 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-02T15:03:40.015672+03:00.hyperlinks.json) |
-| [September 1 at 7:59 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-02T02:59:03.975915+03:00.hyperlinks.json) |
-| [September 1 at 8:12 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-01T15:12:39.339926+03:00.hyperlinks.json) |
-| [August 31 at 7:52 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-01T02:51:57.775776+03:00.hyperlinks.json) |
-| [August 31 at 9:04 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-31T16:03:50.157621+03:00.hyperlinks.json) |
-| [August 30 at 8:01 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-31T03:01:20.223516+03:00.hyperlinks.json) |
-| [August 30 at 8:10 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-30T15:10:33.712836+03:00.hyperlinks.json) |
-| [August 29 at 7:53 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-30T02:53:30.603617+03:00.hyperlinks.json) |
-| [August 29 at 7:59 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-29T14:58:49.608444+03:00.hyperlinks.json) |
+| [September 3 at 3:00 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-03T03:00:24.059122+03:00.hyperlinks.json) |
+| [September 2 at 3:04 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-02T15:03:40.015672+03:00.hyperlinks.json) |
+| [September 2 at 2:59 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-02T02:59:03.975915+03:00.hyperlinks.json) |
+| [September 1 at 3:12 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-01T15:12:39.339926+03:00.hyperlinks.json) |
+| [September 1 at 2:52 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-01T02:51:57.775776+03:00.hyperlinks.json) |
+| [August 31 at 4:04 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-31T16:03:50.157621+03:00.hyperlinks.json) |
+| [August 31 at 3:01 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-31T03:01:20.223516+03:00.hyperlinks.json) |
+| [August 30 at 3:10 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-30T15:10:33.712836+03:00.hyperlinks.json) |
+| [August 30 at 2:53 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-30T02:53:30.603617+03:00.hyperlinks.json) |
+| [August 29 at 2:59 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-29T14:58:49.608444+03:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 8:00 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-03T03:00:24.059122+03:00.accessibility.json) |
-| [September 2 at 8:03 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-02T15:03:40.015672+03:00.accessibility.json) |
-| [September 1 at 7:59 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-02T02:59:03.975915+03:00.accessibility.json) |
-| [September 1 at 8:12 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-01T15:12:39.339926+03:00.accessibility.json) |
-| [August 31 at 7:52 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-01T02:51:57.775776+03:00.accessibility.json) |
-| [August 31 at 9:03 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-31T16:03:50.157621+03:00.accessibility.json) |
-| [August 30 at 8:01 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-31T03:01:20.223516+03:00.accessibility.json) |
-| [August 30 at 8:10 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-30T15:10:33.712836+03:00.accessibility.json) |
-| [August 29 at 7:53 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-30T02:53:30.603617+03:00.accessibility.json) |
-| [August 29 at 7:59 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-29T14:58:49.608444+03:00.accessibility.json) |
+| [September 3 at 3:00 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-03T03:00:24.059122+03:00.accessibility.json) |
+| [September 2 at 3:03 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-02T15:03:40.015672+03:00.accessibility.json) |
+| [September 2 at 2:59 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-02T02:59:03.975915+03:00.accessibility.json) |
+| [September 1 at 3:12 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-01T15:12:39.339926+03:00.accessibility.json) |
+| [September 1 at 2:52 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-01T02:51:57.775776+03:00.accessibility.json) |
+| [August 31 at 4:03 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-31T16:03:50.157621+03:00.accessibility.json) |
+| [August 31 at 3:01 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-31T03:01:20.223516+03:00.accessibility.json) |
+| [August 30 at 3:10 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-30T15:10:33.712836+03:00.accessibility.json) |
+| [August 30 at 2:53 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-30T02:53:30.603617+03:00.accessibility.json) |
+| [August 29 at 2:59 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-29T14:58:49.608444+03:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 8:00 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-03T03:00:24.059122+03:00.lighthouse.json) |
-| [September 2 at 8:04 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-02T15:03:40.015672+03:00.lighthouse.json) |
-| [September 1 at 7:59 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-02T02:59:03.975915+03:00.lighthouse.json) |
-| [September 1 at 8:12 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-01T15:12:39.339926+03:00.lighthouse.json) |
-| [August 31 at 7:52 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-01T02:51:57.775776+03:00.lighthouse.json) |
-| [August 31 at 9:04 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-31T16:03:50.157621+03:00.lighthouse.json) |
-| [August 30 at 8:01 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-31T03:01:20.223516+03:00.lighthouse.json) |
-| [August 30 at 8:10 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-30T15:10:33.712836+03:00.lighthouse.json) |
-| [August 29 at 7:53 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-30T02:53:30.603617+03:00.lighthouse.json) |
-| [August 29 at 7:59 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-29T14:58:49.608444+03:00.lighthouse.json) |
+| [September 3 at 3:00 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-03T03:00:24.059122+03:00.lighthouse.json) |
+| [September 2 at 3:04 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-02T15:03:40.015672+03:00.lighthouse.json) |
+| [September 2 at 2:59 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-02T02:59:03.975915+03:00.lighthouse.json) |
+| [September 1 at 3:12 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-01T15:12:39.339926+03:00.lighthouse.json) |
+| [September 1 at 2:52 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-09-01T02:51:57.775776+03:00.lighthouse.json) |
+| [August 31 at 4:04 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-31T16:03:50.157621+03:00.lighthouse.json) |
+| [August 31 at 3:01 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-31T03:01:20.223516+03:00.lighthouse.json) |
+| [August 30 at 3:10 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-30T15:10:33.712836+03:00.lighthouse.json) |
+| [August 30 at 2:53 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-30T02:53:30.603617+03:00.lighthouse.json) |
+| [August 29 at 2:59 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-29T14:58:49.608444+03:00.lighthouse.json) |
 
 
 

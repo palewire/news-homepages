@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-09-02T18:21:28.853205+02:00.jpg">
   <img src="https://archive.org/download/zeitonline-2022/zeitonline-2022-09-02T18:21:28.853205+02:00.jpg"
-     alt="Zeit at 2022-09-02 11:21:32+02:00 local time"
+     alt="Zeit at 2022-09-02 18:21:32+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-09-02T18:21:28.853205+02:00.jpg">September 2 at 11:21 AM</a></p>
+ <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-09-02T18:21:28.853205+02:00.jpg">September 2 at 6:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-09-02T06:53:16.796298+02:00.jpg">
   <img src="https://archive.org/download/zeitonline-2022/zeitonline-2022-09-02T06:53:16.796298+02:00.jpg"
-     alt="Zeit at 2022-09-01 23:53:27+02:00 local time"
+     alt="Zeit at 2022-09-02 06:53:27+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-09-02T06:53:16.796298+02:00.jpg">September 1 at 11:53 PM</a></p>
+ <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-09-02T06:53:16.796298+02:00.jpg">September 2 at 6:53 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-09-01T18:45:13.596571+02:00.jpg">
   <img src="https://archive.org/download/zeitonline-2022/zeitonline-2022-09-01T18:45:13.596571+02:00.jpg"
-     alt="Zeit at 2022-09-01 11:45:16+02:00 local time"
+     alt="Zeit at 2022-09-01 18:45:16+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-09-01T18:45:13.596571+02:00.jpg">September 1 at 11:45 AM</a></p>
+ <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-09-01T18:45:13.596571+02:00.jpg">September 1 at 6:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-09-01T06:46:49.184238+02:00.jpg">
   <img src="https://archive.org/download/zeitonline-2022/zeitonline-2022-09-01T06:46:49.184238+02:00.jpg"
-     alt="Zeit at 2022-08-31 23:46:50+02:00 local time"
+     alt="Zeit at 2022-09-01 06:46:50+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-09-01T06:46:49.184238+02:00.jpg">August 31 at 11:46 PM</a></p>
+ <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-09-01T06:46:49.184238+02:00.jpg">September 1 at 6:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-31T18:16:15.298983+02:00.jpg">
   <img src="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-31T18:16:15.298983+02:00.jpg"
-     alt="Zeit at 2022-08-31 11:16:16+02:00 local time"
+     alt="Zeit at 2022-08-31 18:16:16+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-31T18:16:15.298983+02:00.jpg">August 31 at 11:16 AM</a></p>
+ <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-31T18:16:15.298983+02:00.jpg">August 31 at 6:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-31T06:54:57.785594+02:00.jpg">
   <img src="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-31T06:54:57.785594+02:00.jpg"
-     alt="Zeit at 2022-08-30 23:54:59+02:00 local time"
+     alt="Zeit at 2022-08-31 06:54:59+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-31T06:54:57.785594+02:00.jpg">August 30 at 11:54 PM</a></p>
+ <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-31T06:54:57.785594+02:00.jpg">August 31 at 6:54 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-30T18:40:25.797088+02:00.jpg">
   <img src="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-30T18:40:25.797088+02:00.jpg"
-     alt="Zeit at 2022-08-30 11:40:28+02:00 local time"
+     alt="Zeit at 2022-08-30 18:40:28+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-30T18:40:25.797088+02:00.jpg">August 30 at 11:40 AM</a></p>
+ <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-30T18:40:25.797088+02:00.jpg">August 30 at 6:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-30T07:00:18.387574+02:00.jpg">
   <img src="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-30T07:00:18.387574+02:00.jpg"
-     alt="Zeit at 2022-08-30 00:00:22+02:00 local time"
+     alt="Zeit at 2022-08-30 07:00:22+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-30T07:00:18.387574+02:00.jpg">August 30 at 12:00 AM</a></p>
+ <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-30T07:00:18.387574+02:00.jpg">August 30 at 7:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-29T18:21:50.658925+02:00.jpg">
   <img src="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-29T18:21:50.658925+02:00.jpg"
-     alt="Zeit at 2022-08-29 11:21:54+02:00 local time"
+     alt="Zeit at 2022-08-29 18:21:54+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-29T18:21:50.658925+02:00.jpg">August 29 at 11:21 AM</a></p>
+ <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-29T18:21:50.658925+02:00.jpg">August 29 at 6:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-29T06:44:21.849829+02:00.jpg">
   <img src="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-29T06:44:21.849829+02:00.jpg"
-     alt="Zeit at 2022-08-28 23:44:23+02:00 local time"
+     alt="Zeit at 2022-08-29 06:44:23+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-29T06:44:21.849829+02:00.jpg">August 28 at 11:44 PM</a></p>
+ <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-29T06:44:21.849829+02:00.jpg">August 29 at 6:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-28T18:05:41.630778+02:00.jpg">
   <img src="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-28T18:05:41.630778+02:00.jpg"
-     alt="Zeit at 2022-08-28 11:05:49+02:00 local time"
+     alt="Zeit at 2022-08-28 18:05:49+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-28T18:05:41.630778+02:00.jpg">August 28 at 11:05 AM</a></p>
+ <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-28T18:05:41.630778+02:00.jpg">August 28 at 6:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-28T06:40:48.758079+02:00.jpg">
   <img src="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-28T06:40:48.758079+02:00.jpg"
-     alt="Zeit at 2022-08-27 23:40:50+02:00 local time"
+     alt="Zeit at 2022-08-28 06:40:50+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-28T06:40:48.758079+02:00.jpg">August 27 at 11:40 PM</a></p>
+ <p><a href="https://archive.org/download/zeitonline-2022/zeitonline-2022-08-28T06:40:48.758079+02:00.jpg">August 28 at 6:40 AM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 11:21 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-02T18:21:28.853205+02:00.hyperlinks.json) |
-| [September 1 at 11:53 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-02T06:53:16.796298+02:00.hyperlinks.json) |
-| [September 1 at 11:45 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-01T18:45:13.596571+02:00.hyperlinks.json) |
-| [August 31 at 11:46 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-01T06:46:49.184238+02:00.hyperlinks.json) |
-| [August 31 at 11:16 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-31T18:16:15.298983+02:00.hyperlinks.json) |
-| [August 30 at 11:55 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-31T06:54:57.785594+02:00.hyperlinks.json) |
-| [August 30 at 11:40 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-30T18:40:25.797088+02:00.hyperlinks.json) |
-| [August 30 at 12:00 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-30T07:00:18.387574+02:00.hyperlinks.json) |
-| [August 29 at 11:21 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-29T18:21:50.658925+02:00.hyperlinks.json) |
-| [August 28 at 11:44 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-29T06:44:21.849829+02:00.hyperlinks.json) |
+| [September 2 at 6:21 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-02T18:21:28.853205+02:00.hyperlinks.json) |
+| [September 2 at 6:53 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-02T06:53:16.796298+02:00.hyperlinks.json) |
+| [September 1 at 6:45 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-01T18:45:13.596571+02:00.hyperlinks.json) |
+| [September 1 at 6:46 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-01T06:46:49.184238+02:00.hyperlinks.json) |
+| [August 31 at 6:16 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-31T18:16:15.298983+02:00.hyperlinks.json) |
+| [August 31 at 6:55 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-31T06:54:57.785594+02:00.hyperlinks.json) |
+| [August 30 at 6:40 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-30T18:40:25.797088+02:00.hyperlinks.json) |
+| [August 30 at 7:00 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-30T07:00:18.387574+02:00.hyperlinks.json) |
+| [August 29 at 6:21 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-29T18:21:50.658925+02:00.hyperlinks.json) |
+| [August 29 at 6:44 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-29T06:44:21.849829+02:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 11:21 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-02T18:21:28.853205+02:00.accessibility.json) |
-| [September 1 at 11:53 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-02T06:53:16.796298+02:00.accessibility.json) |
-| [September 1 at 11:45 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-01T18:45:13.596571+02:00.accessibility.json) |
-| [August 31 at 11:46 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-01T06:46:49.184238+02:00.accessibility.json) |
-| [August 31 at 11:16 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-31T18:16:15.298983+02:00.accessibility.json) |
-| [August 30 at 11:55 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-31T06:54:57.785594+02:00.accessibility.json) |
-| [August 30 at 11:40 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-30T18:40:25.797088+02:00.accessibility.json) |
-| [August 30 at 12:00 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-30T07:00:18.387574+02:00.accessibility.json) |
-| [August 29 at 11:21 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-29T18:21:50.658925+02:00.accessibility.json) |
-| [August 28 at 11:44 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-29T06:44:21.849829+02:00.accessibility.json) |
+| [September 2 at 6:21 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-02T18:21:28.853205+02:00.accessibility.json) |
+| [September 2 at 6:53 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-02T06:53:16.796298+02:00.accessibility.json) |
+| [September 1 at 6:45 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-01T18:45:13.596571+02:00.accessibility.json) |
+| [September 1 at 6:46 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-01T06:46:49.184238+02:00.accessibility.json) |
+| [August 31 at 6:16 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-31T18:16:15.298983+02:00.accessibility.json) |
+| [August 31 at 6:55 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-31T06:54:57.785594+02:00.accessibility.json) |
+| [August 30 at 6:40 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-30T18:40:25.797088+02:00.accessibility.json) |
+| [August 30 at 7:00 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-30T07:00:18.387574+02:00.accessibility.json) |
+| [August 29 at 6:21 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-29T18:21:50.658925+02:00.accessibility.json) |
+| [August 29 at 6:44 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-29T06:44:21.849829+02:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 11:21 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-02T18:21:28.853205+02:00.lighthouse.json) |
-| [September 1 at 11:53 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-02T06:53:16.796298+02:00.lighthouse.json) |
-| [September 1 at 11:45 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-01T18:45:13.596571+02:00.lighthouse.json) |
-| [August 31 at 11:46 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-01T06:46:49.184238+02:00.lighthouse.json) |
-| [August 31 at 11:16 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-31T18:16:15.298983+02:00.lighthouse.json) |
-| [August 30 at 11:55 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-31T06:54:57.785594+02:00.lighthouse.json) |
-| [August 30 at 11:40 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-30T18:40:25.797088+02:00.lighthouse.json) |
-| [August 30 at 12:00 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-30T07:00:18.387574+02:00.lighthouse.json) |
-| [August 29 at 11:21 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-29T18:21:50.658925+02:00.lighthouse.json) |
-| [August 28 at 11:44 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-29T06:44:21.849829+02:00.lighthouse.json) |
+| [September 2 at 6:21 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-02T18:21:28.853205+02:00.lighthouse.json) |
+| [September 2 at 6:53 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-02T06:53:16.796298+02:00.lighthouse.json) |
+| [September 1 at 6:45 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-01T18:45:13.596571+02:00.lighthouse.json) |
+| [September 1 at 6:46 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-09-01T06:46:49.184238+02:00.lighthouse.json) |
+| [August 31 at 6:16 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-31T18:16:15.298983+02:00.lighthouse.json) |
+| [August 31 at 6:55 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-31T06:54:57.785594+02:00.lighthouse.json) |
+| [August 30 at 6:40 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-30T18:40:25.797088+02:00.lighthouse.json) |
+| [August 30 at 7:00 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-30T07:00:18.387574+02:00.lighthouse.json) |
+| [August 29 at 6:21 PM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-29T18:21:50.658925+02:00.lighthouse.json) |
+| [August 29 at 6:44 AM](https://archive.org/download/zeitonline-2022/zeitonline-2022-08-29T06:44:21.849829+02:00.lighthouse.json) |
 
 
 

@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/atarde-2022/atarde-2022-09-02T11:57:33.619884-03:00.jpg">
   <img src="https://archive.org/download/atarde-2022/atarde-2022-09-02T11:57:33.619884-03:00.jpg"
-     alt="Jornal A Tarde at 2022-09-02 04:57:37-03:00 local time"
+     alt="Jornal A Tarde at 2022-09-02 11:57:37-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/atarde-2022/atarde-2022-09-02T11:57:33.619884-03:00.jpg">September 2 at 4:57 AM</a></p>
+ <p><a href="https://archive.org/download/atarde-2022/atarde-2022-09-02T11:57:33.619884-03:00.jpg">September 2 at 11:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/atarde-2022/atarde-2022-09-02T09:07:36.166127-03:00.jpg">
   <img src="https://archive.org/download/atarde-2022/atarde-2022-09-02T09:07:36.166127-03:00.jpg"
-     alt="Jornal A Tarde at 2022-09-02 02:07:41-03:00 local time"
+     alt="Jornal A Tarde at 2022-09-02 09:07:41-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/atarde-2022/atarde-2022-09-02T09:07:36.166127-03:00.jpg">September 2 at 2:07 AM</a></p>
+ <p><a href="https://archive.org/download/atarde-2022/atarde-2022-09-02T09:07:36.166127-03:00.jpg">September 2 at 9:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/atarde-2022/atarde-2022-09-01T23:26:41.295323-03:00.jpg">
   <img src="https://archive.org/download/atarde-2022/atarde-2022-09-01T23:26:41.295323-03:00.jpg"
-     alt="Jornal A Tarde at 2022-09-01 16:26:43-03:00 local time"
+     alt="Jornal A Tarde at 2022-09-01 23:26:43-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/atarde-2022/atarde-2022-09-01T23:26:41.295323-03:00.jpg">September 1 at 4:26 PM</a></p>
+ <p><a href="https://archive.org/download/atarde-2022/atarde-2022-09-01T23:26:41.295323-03:00.jpg">September 1 at 11:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/atarde-2022/atarde-2022-09-01T12:05:41.501480-03:00.jpg">
   <img src="https://archive.org/download/atarde-2022/atarde-2022-09-01T12:05:41.501480-03:00.jpg"
-     alt="Jornal A Tarde at 2022-09-01 05:05:46-03:00 local time"
+     alt="Jornal A Tarde at 2022-09-01 12:05:46-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/atarde-2022/atarde-2022-09-01T12:05:41.501480-03:00.jpg">September 1 at 5:05 AM</a></p>
+ <p><a href="https://archive.org/download/atarde-2022/atarde-2022-09-01T12:05:41.501480-03:00.jpg">September 1 at 12:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/atarde-2022/atarde-2022-09-01T09:16:01.769009-03:00.jpg">
   <img src="https://archive.org/download/atarde-2022/atarde-2022-09-01T09:16:01.769009-03:00.jpg"
-     alt="Jornal A Tarde at 2022-09-01 02:16:05-03:00 local time"
+     alt="Jornal A Tarde at 2022-09-01 09:16:05-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/atarde-2022/atarde-2022-09-01T09:16:01.769009-03:00.jpg">September 1 at 2:16 AM</a></p>
+ <p><a href="https://archive.org/download/atarde-2022/atarde-2022-09-01T09:16:01.769009-03:00.jpg">September 1 at 9:16 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/atarde-2022/atarde-2022-08-31T23:26:22.804140-03:00.jpg">
   <img src="https://archive.org/download/atarde-2022/atarde-2022-08-31T23:26:22.804140-03:00.jpg"
-     alt="Jornal A Tarde at 2022-08-31 16:26:24-03:00 local time"
+     alt="Jornal A Tarde at 2022-08-31 23:26:24-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/atarde-2022/atarde-2022-08-31T23:26:22.804140-03:00.jpg">August 31 at 4:26 PM</a></p>
+ <p><a href="https://archive.org/download/atarde-2022/atarde-2022-08-31T23:26:22.804140-03:00.jpg">August 31 at 11:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/atarde-2022/atarde-2022-08-31T11:56:40.582867-03:00.jpg">
   <img src="https://archive.org/download/atarde-2022/atarde-2022-08-31T11:56:40.582867-03:00.jpg"
-     alt="Jornal A Tarde at 2022-08-31 04:56:42-03:00 local time"
+     alt="Jornal A Tarde at 2022-08-31 11:56:42-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/atarde-2022/atarde-2022-08-31T11:56:40.582867-03:00.jpg">August 31 at 4:56 AM</a></p>
+ <p><a href="https://archive.org/download/atarde-2022/atarde-2022-08-31T11:56:40.582867-03:00.jpg">August 31 at 11:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/atarde-2022/atarde-2022-08-31T09:04:35.614336-03:00.jpg">
   <img src="https://archive.org/download/atarde-2022/atarde-2022-08-31T09:04:35.614336-03:00.jpg"
-     alt="Jornal A Tarde at 2022-08-31 02:04:39-03:00 local time"
+     alt="Jornal A Tarde at 2022-08-31 09:04:39-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/atarde-2022/atarde-2022-08-31T09:04:35.614336-03:00.jpg">August 31 at 2:04 AM</a></p>
+ <p><a href="https://archive.org/download/atarde-2022/atarde-2022-08-31T09:04:35.614336-03:00.jpg">August 31 at 9:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/atarde-2022/atarde-2022-08-30T23:22:47.301577-03:00.jpg">
   <img src="https://archive.org/download/atarde-2022/atarde-2022-08-30T23:22:47.301577-03:00.jpg"
-     alt="Jornal A Tarde at 2022-08-30 16:22:49-03:00 local time"
+     alt="Jornal A Tarde at 2022-08-30 23:22:49-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/atarde-2022/atarde-2022-08-30T23:22:47.301577-03:00.jpg">August 30 at 4:22 PM</a></p>
+ <p><a href="https://archive.org/download/atarde-2022/atarde-2022-08-30T23:22:47.301577-03:00.jpg">August 30 at 11:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/atarde-2022/atarde-2022-08-30T12:16:48.180999-03:00.jpg">
   <img src="https://archive.org/download/atarde-2022/atarde-2022-08-30T12:16:48.180999-03:00.jpg"
-     alt="Jornal A Tarde at 2022-08-30 05:16:50-03:00 local time"
+     alt="Jornal A Tarde at 2022-08-30 12:16:50-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/atarde-2022/atarde-2022-08-30T12:16:48.180999-03:00.jpg">August 30 at 5:16 AM</a></p>
+ <p><a href="https://archive.org/download/atarde-2022/atarde-2022-08-30T12:16:48.180999-03:00.jpg">August 30 at 12:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/atarde-2022/atarde-2022-08-30T09:14:45.549800-03:00.jpg">
   <img src="https://archive.org/download/atarde-2022/atarde-2022-08-30T09:14:45.549800-03:00.jpg"
-     alt="Jornal A Tarde at 2022-08-30 02:14:49-03:00 local time"
+     alt="Jornal A Tarde at 2022-08-30 09:14:49-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/atarde-2022/atarde-2022-08-30T09:14:45.549800-03:00.jpg">August 30 at 2:14 AM</a></p>
+ <p><a href="https://archive.org/download/atarde-2022/atarde-2022-08-30T09:14:45.549800-03:00.jpg">August 30 at 9:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/atarde-2022/atarde-2022-08-29T23:27:08.063146-03:00.jpg">
   <img src="https://archive.org/download/atarde-2022/atarde-2022-08-29T23:27:08.063146-03:00.jpg"
-     alt="Jornal A Tarde at 2022-08-29 16:27:09-03:00 local time"
+     alt="Jornal A Tarde at 2022-08-29 23:27:09-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/atarde-2022/atarde-2022-08-29T23:27:08.063146-03:00.jpg">August 29 at 4:27 PM</a></p>
+ <p><a href="https://archive.org/download/atarde-2022/atarde-2022-08-29T23:27:08.063146-03:00.jpg">August 29 at 11:27 PM</a></p>
 </div>
 
 </div>
@@ -528,16 +528,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 4:57 AM](https://archive.org/download/atarde-2022/atarde-2022-09-02T11:57:33.619884-03:00.hyperlinks.json) |
-| [September 2 at 2:07 AM](https://archive.org/download/atarde-2022/atarde-2022-09-02T09:07:36.166127-03:00.hyperlinks.json) |
-| [September 1 at 4:26 PM](https://archive.org/download/atarde-2022/atarde-2022-09-01T23:26:41.295323-03:00.hyperlinks.json) |
-| [September 1 at 5:05 AM](https://archive.org/download/atarde-2022/atarde-2022-09-01T12:05:41.501480-03:00.hyperlinks.json) |
-| [September 1 at 2:16 AM](https://archive.org/download/atarde-2022/atarde-2022-09-01T09:16:01.769009-03:00.hyperlinks.json) |
-| [August 31 at 4:26 PM](https://archive.org/download/atarde-2022/atarde-2022-08-31T23:26:22.804140-03:00.hyperlinks.json) |
-| [August 31 at 4:56 AM](https://archive.org/download/atarde-2022/atarde-2022-08-31T11:56:40.582867-03:00.hyperlinks.json) |
-| [August 31 at 2:04 AM](https://archive.org/download/atarde-2022/atarde-2022-08-31T09:04:35.614336-03:00.hyperlinks.json) |
-| [August 30 at 4:22 PM](https://archive.org/download/atarde-2022/atarde-2022-08-30T23:22:47.301577-03:00.hyperlinks.json) |
-| [August 30 at 5:16 AM](https://archive.org/download/atarde-2022/atarde-2022-08-30T12:16:48.180999-03:00.hyperlinks.json) |
+| [September 2 at 11:57 AM](https://archive.org/download/atarde-2022/atarde-2022-09-02T11:57:33.619884-03:00.hyperlinks.json) |
+| [September 2 at 9:07 AM](https://archive.org/download/atarde-2022/atarde-2022-09-02T09:07:36.166127-03:00.hyperlinks.json) |
+| [September 1 at 11:26 PM](https://archive.org/download/atarde-2022/atarde-2022-09-01T23:26:41.295323-03:00.hyperlinks.json) |
+| [September 1 at 12:05 PM](https://archive.org/download/atarde-2022/atarde-2022-09-01T12:05:41.501480-03:00.hyperlinks.json) |
+| [September 1 at 9:16 AM](https://archive.org/download/atarde-2022/atarde-2022-09-01T09:16:01.769009-03:00.hyperlinks.json) |
+| [August 31 at 11:26 PM](https://archive.org/download/atarde-2022/atarde-2022-08-31T23:26:22.804140-03:00.hyperlinks.json) |
+| [August 31 at 11:56 AM](https://archive.org/download/atarde-2022/atarde-2022-08-31T11:56:40.582867-03:00.hyperlinks.json) |
+| [August 31 at 9:04 AM](https://archive.org/download/atarde-2022/atarde-2022-08-31T09:04:35.614336-03:00.hyperlinks.json) |
+| [August 30 at 11:22 PM](https://archive.org/download/atarde-2022/atarde-2022-08-30T23:22:47.301577-03:00.hyperlinks.json) |
+| [August 30 at 12:16 PM](https://archive.org/download/atarde-2022/atarde-2022-08-30T12:16:48.180999-03:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -633,16 +633,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 4:57 AM](https://archive.org/download/atarde-2022/atarde-2022-09-02T11:57:33.619884-03:00.accessibility.json) |
-| [September 2 at 2:07 AM](https://archive.org/download/atarde-2022/atarde-2022-09-02T09:07:36.166127-03:00.accessibility.json) |
-| [September 1 at 4:26 PM](https://archive.org/download/atarde-2022/atarde-2022-09-01T23:26:41.295323-03:00.accessibility.json) |
-| [September 1 at 5:05 AM](https://archive.org/download/atarde-2022/atarde-2022-09-01T12:05:41.501480-03:00.accessibility.json) |
-| [September 1 at 2:16 AM](https://archive.org/download/atarde-2022/atarde-2022-09-01T09:16:01.769009-03:00.accessibility.json) |
-| [August 31 at 4:26 PM](https://archive.org/download/atarde-2022/atarde-2022-08-31T23:26:22.804140-03:00.accessibility.json) |
-| [August 31 at 4:56 AM](https://archive.org/download/atarde-2022/atarde-2022-08-31T11:56:40.582867-03:00.accessibility.json) |
-| [August 31 at 2:04 AM](https://archive.org/download/atarde-2022/atarde-2022-08-31T09:04:35.614336-03:00.accessibility.json) |
-| [August 30 at 4:22 PM](https://archive.org/download/atarde-2022/atarde-2022-08-30T23:22:47.301577-03:00.accessibility.json) |
-| [August 30 at 5:16 AM](https://archive.org/download/atarde-2022/atarde-2022-08-30T12:16:48.180999-03:00.accessibility.json) |
+| [September 2 at 11:57 AM](https://archive.org/download/atarde-2022/atarde-2022-09-02T11:57:33.619884-03:00.accessibility.json) |
+| [September 2 at 9:07 AM](https://archive.org/download/atarde-2022/atarde-2022-09-02T09:07:36.166127-03:00.accessibility.json) |
+| [September 1 at 11:26 PM](https://archive.org/download/atarde-2022/atarde-2022-09-01T23:26:41.295323-03:00.accessibility.json) |
+| [September 1 at 12:05 PM](https://archive.org/download/atarde-2022/atarde-2022-09-01T12:05:41.501480-03:00.accessibility.json) |
+| [September 1 at 9:16 AM](https://archive.org/download/atarde-2022/atarde-2022-09-01T09:16:01.769009-03:00.accessibility.json) |
+| [August 31 at 11:26 PM](https://archive.org/download/atarde-2022/atarde-2022-08-31T23:26:22.804140-03:00.accessibility.json) |
+| [August 31 at 11:56 AM](https://archive.org/download/atarde-2022/atarde-2022-08-31T11:56:40.582867-03:00.accessibility.json) |
+| [August 31 at 9:04 AM](https://archive.org/download/atarde-2022/atarde-2022-08-31T09:04:35.614336-03:00.accessibility.json) |
+| [August 30 at 11:22 PM](https://archive.org/download/atarde-2022/atarde-2022-08-30T23:22:47.301577-03:00.accessibility.json) |
+| [August 30 at 12:16 PM](https://archive.org/download/atarde-2022/atarde-2022-08-30T12:16:48.180999-03:00.accessibility.json) |
 
 
 
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 4:57 AM](https://archive.org/download/atarde-2022/atarde-2022-09-02T11:57:33.619884-03:00.lighthouse.json) |
-| [September 2 at 2:07 AM](https://archive.org/download/atarde-2022/atarde-2022-09-02T09:07:36.166127-03:00.lighthouse.json) |
-| [September 1 at 4:26 PM](https://archive.org/download/atarde-2022/atarde-2022-09-01T23:26:41.295323-03:00.lighthouse.json) |
-| [September 1 at 5:05 AM](https://archive.org/download/atarde-2022/atarde-2022-09-01T12:05:41.501480-03:00.lighthouse.json) |
-| [September 1 at 2:16 AM](https://archive.org/download/atarde-2022/atarde-2022-09-01T09:16:01.769009-03:00.lighthouse.json) |
-| [August 31 at 4:26 PM](https://archive.org/download/atarde-2022/atarde-2022-08-31T23:26:22.804140-03:00.lighthouse.json) |
-| [August 31 at 4:56 AM](https://archive.org/download/atarde-2022/atarde-2022-08-31T11:56:40.582867-03:00.lighthouse.json) |
-| [August 31 at 2:04 AM](https://archive.org/download/atarde-2022/atarde-2022-08-31T09:04:35.614336-03:00.lighthouse.json) |
-| [August 30 at 4:22 PM](https://archive.org/download/atarde-2022/atarde-2022-08-30T23:22:47.301577-03:00.lighthouse.json) |
-| [August 30 at 5:16 AM](https://archive.org/download/atarde-2022/atarde-2022-08-30T12:16:48.180999-03:00.lighthouse.json) |
+| [September 2 at 11:57 AM](https://archive.org/download/atarde-2022/atarde-2022-09-02T11:57:33.619884-03:00.lighthouse.json) |
+| [September 2 at 9:07 AM](https://archive.org/download/atarde-2022/atarde-2022-09-02T09:07:36.166127-03:00.lighthouse.json) |
+| [September 1 at 11:26 PM](https://archive.org/download/atarde-2022/atarde-2022-09-01T23:26:41.295323-03:00.lighthouse.json) |
+| [September 1 at 12:05 PM](https://archive.org/download/atarde-2022/atarde-2022-09-01T12:05:41.501480-03:00.lighthouse.json) |
+| [September 1 at 9:16 AM](https://archive.org/download/atarde-2022/atarde-2022-09-01T09:16:01.769009-03:00.lighthouse.json) |
+| [August 31 at 11:26 PM](https://archive.org/download/atarde-2022/atarde-2022-08-31T23:26:22.804140-03:00.lighthouse.json) |
+| [August 31 at 11:56 AM](https://archive.org/download/atarde-2022/atarde-2022-08-31T11:56:40.582867-03:00.lighthouse.json) |
+| [August 31 at 9:04 AM](https://archive.org/download/atarde-2022/atarde-2022-08-31T09:04:35.614336-03:00.lighthouse.json) |
+| [August 30 at 11:22 PM](https://archive.org/download/atarde-2022/atarde-2022-08-30T23:22:47.301577-03:00.lighthouse.json) |
+| [August 30 at 12:16 PM](https://archive.org/download/atarde-2022/atarde-2022-08-30T12:16:48.180999-03:00.lighthouse.json) |
 
 
 

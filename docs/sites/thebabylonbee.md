@@ -328,109 +328,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-02T09:05:51.017544-04:00.jpg">
   <img src="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-02T09:05:51.017544-04:00.jpg"
-     alt="Babylon Bee at 2022-09-02 02:05:52-04:00 local time"
+     alt="Babylon Bee at 2022-09-02 09:05:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-02T09:05:51.017544-04:00.jpg">September 2 at 2:05 AM</a></p>
+ <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-02T09:05:51.017544-04:00.jpg">September 2 at 9:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-01T21:19:44.588560-04:00.jpg">
   <img src="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-01T21:19:44.588560-04:00.jpg"
-     alt="Babylon Bee at 2022-09-01 14:19:49-04:00 local time"
+     alt="Babylon Bee at 2022-09-01 21:19:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-01T21:19:44.588560-04:00.jpg">September 1 at 2:19 PM</a></p>
+ <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-01T21:19:44.588560-04:00.jpg">September 1 at 9:19 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-01T09:14:58.392564-04:00.jpg">
   <img src="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-01T09:14:58.392564-04:00.jpg"
-     alt="Babylon Bee at 2022-09-01 02:15:00-04:00 local time"
+     alt="Babylon Bee at 2022-09-01 09:15:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-01T09:14:58.392564-04:00.jpg">September 1 at 2:15 AM</a></p>
+ <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-01T09:14:58.392564-04:00.jpg">September 1 at 9:15 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-31T21:16:47.624611-04:00.jpg">
   <img src="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-31T21:16:47.624611-04:00.jpg"
-     alt="Babylon Bee at 2022-08-31 14:16:49-04:00 local time"
+     alt="Babylon Bee at 2022-08-31 21:16:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-31T21:16:47.624611-04:00.jpg">August 31 at 2:16 PM</a></p>
+ <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-31T21:16:47.624611-04:00.jpg">August 31 at 9:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-31T09:14:05.347242-04:00.jpg">
   <img src="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-31T09:14:05.347242-04:00.jpg"
-     alt="Babylon Bee at 2022-08-31 02:14:06-04:00 local time"
+     alt="Babylon Bee at 2022-08-31 09:14:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-31T09:14:05.347242-04:00.jpg">August 31 at 2:14 AM</a></p>
+ <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-31T09:14:05.347242-04:00.jpg">August 31 at 9:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-30T21:28:50.048282-04:00.jpg">
   <img src="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-30T21:28:50.048282-04:00.jpg"
-     alt="Babylon Bee at 2022-08-30 14:28:51-04:00 local time"
+     alt="Babylon Bee at 2022-08-30 21:28:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-30T21:28:50.048282-04:00.jpg">August 30 at 2:28 PM</a></p>
+ <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-30T21:28:50.048282-04:00.jpg">August 30 at 9:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-30T09:13:28.511273-04:00.jpg">
   <img src="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-30T09:13:28.511273-04:00.jpg"
-     alt="Babylon Bee at 2022-08-30 02:13:33-04:00 local time"
+     alt="Babylon Bee at 2022-08-30 09:13:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-30T09:13:28.511273-04:00.jpg">August 30 at 2:13 AM</a></p>
+ <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-30T09:13:28.511273-04:00.jpg">August 30 at 9:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-29T21:18:37.810156-04:00.jpg">
   <img src="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-29T21:18:37.810156-04:00.jpg"
-     alt="Babylon Bee at 2022-08-29 14:18:39-04:00 local time"
+     alt="Babylon Bee at 2022-08-29 21:18:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-29T21:18:37.810156-04:00.jpg">August 29 at 2:18 PM</a></p>
+ <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-29T21:18:37.810156-04:00.jpg">August 29 at 9:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-29T09:02:57.140031-04:00.jpg">
   <img src="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-29T09:02:57.140031-04:00.jpg"
-     alt="Babylon Bee at 2022-08-29 02:03:03-04:00 local time"
+     alt="Babylon Bee at 2022-08-29 09:03:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-29T09:02:57.140031-04:00.jpg">August 29 at 2:03 AM</a></p>
+ <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-29T09:02:57.140031-04:00.jpg">August 29 at 9:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-28T21:18:06.669316-04:00.jpg">
   <img src="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-28T21:18:06.669316-04:00.jpg"
-     alt="Babylon Bee at 2022-08-28 14:18:08-04:00 local time"
+     alt="Babylon Bee at 2022-08-28 21:18:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-28T21:18:06.669316-04:00.jpg">August 28 at 2:18 PM</a></p>
+ <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-28T21:18:06.669316-04:00.jpg">August 28 at 9:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-28T09:03:18.709736-04:00.jpg">
   <img src="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-28T09:03:18.709736-04:00.jpg"
-     alt="Babylon Bee at 2022-08-28 02:03:22-04:00 local time"
+     alt="Babylon Bee at 2022-08-28 09:03:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-28T09:03:18.709736-04:00.jpg">August 28 at 2:03 AM</a></p>
+ <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-28T09:03:18.709736-04:00.jpg">August 28 at 9:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-27T21:30:54.637535-04:00.jpg">
   <img src="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-27T21:30:54.637535-04:00.jpg"
-     alt="Babylon Bee at 2022-08-27 14:30:55-04:00 local time"
+     alt="Babylon Bee at 2022-08-27 21:30:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-27T21:30:54.637535-04:00.jpg">August 27 at 2:30 PM</a></p>
+ <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-27T21:30:54.637535-04:00.jpg">August 27 at 9:30 PM</a></p>
 </div>
 
 </div>
@@ -445,16 +445,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 2 at 2:05 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-02T09:05:51.017544-04:00.hyperlinks.json) |
-| [September 1 at 2:19 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-01T21:19:44.588560-04:00.hyperlinks.json) |
-| [September 1 at 2:15 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-01T09:14:58.392564-04:00.hyperlinks.json) |
-| [August 31 at 2:16 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-31T21:16:47.624611-04:00.hyperlinks.json) |
-| [August 14 at 4:13 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-14T23:13:55.025622-04:00.hyperlinks.json) |
-| [August 14 at 6:04 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-14T13:04:25.499416-04:00.hyperlinks.json) |
-| [August 13 at 6:05 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-14T01:05:35.583701-04:00.hyperlinks.json) |
-| [August 13 at 9:45 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-13T16:45:19.251547-04:00.hyperlinks.json) |
-| [August 12 at 3:16 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-12T22:16:00.457382-04:00.hyperlinks.json) |
-| [August 12 at 5:24 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-12T12:23:56.564616-04:00.hyperlinks.json) |
+| [September 2 at 9:05 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-02T09:05:51.017544-04:00.hyperlinks.json) |
+| [September 1 at 9:19 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-01T21:19:44.588560-04:00.hyperlinks.json) |
+| [September 1 at 9:15 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-01T09:14:58.392564-04:00.hyperlinks.json) |
+| [August 31 at 9:16 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-31T21:16:47.624611-04:00.hyperlinks.json) |
+| [August 14 at 11:13 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-14T23:13:55.025622-04:00.hyperlinks.json) |
+| [August 14 at 1:04 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-14T13:04:25.499416-04:00.hyperlinks.json) |
+| [August 14 at 1:05 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-14T01:05:35.583701-04:00.hyperlinks.json) |
+| [August 13 at 4:45 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-13T16:45:19.251547-04:00.hyperlinks.json) |
+| [August 12 at 10:16 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-12T22:16:00.457382-04:00.hyperlinks.json) |
+| [August 12 at 12:24 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-12T12:23:56.564616-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -467,16 +467,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 2 at 2:05 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-02T09:05:51.017544-04:00.accessibility.json) |
-| [September 1 at 2:19 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-01T21:19:44.588560-04:00.accessibility.json) |
-| [September 1 at 2:15 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-01T09:14:58.392564-04:00.accessibility.json) |
-| [August 31 at 2:16 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-31T21:16:47.624611-04:00.accessibility.json) |
-| [August 14 at 4:13 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-14T23:13:55.025622-04:00.accessibility.json) |
-| [August 14 at 6:04 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-14T13:04:25.499416-04:00.accessibility.json) |
-| [August 13 at 6:05 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-14T01:05:35.583701-04:00.accessibility.json) |
-| [August 13 at 9:45 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-13T16:45:19.251547-04:00.accessibility.json) |
-| [August 12 at 3:16 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-12T22:16:00.457382-04:00.accessibility.json) |
-| [August 12 at 5:24 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-12T12:23:56.564616-04:00.accessibility.json) |
+| [September 2 at 9:05 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-02T09:05:51.017544-04:00.accessibility.json) |
+| [September 1 at 9:19 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-01T21:19:44.588560-04:00.accessibility.json) |
+| [September 1 at 9:15 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-01T09:14:58.392564-04:00.accessibility.json) |
+| [August 31 at 9:16 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-31T21:16:47.624611-04:00.accessibility.json) |
+| [August 14 at 11:13 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-14T23:13:55.025622-04:00.accessibility.json) |
+| [August 14 at 1:04 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-14T13:04:25.499416-04:00.accessibility.json) |
+| [August 14 at 1:05 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-14T01:05:35.583701-04:00.accessibility.json) |
+| [August 13 at 4:45 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-13T16:45:19.251547-04:00.accessibility.json) |
+| [August 12 at 10:16 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-12T22:16:00.457382-04:00.accessibility.json) |
+| [August 12 at 12:24 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-12T12:23:56.564616-04:00.accessibility.json) |
 
 
 
@@ -573,16 +573,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 2 at 2:05 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-02T09:05:51.017544-04:00.lighthouse.json) |
-| [September 1 at 2:19 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-01T21:19:44.588560-04:00.lighthouse.json) |
-| [September 1 at 2:15 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-01T09:14:58.392564-04:00.lighthouse.json) |
-| [August 31 at 2:17 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-31T21:16:47.624611-04:00.lighthouse.json) |
-| [August 31 at 2:14 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-31T09:14:05.347242-04:00.lighthouse.json) |
-| [August 30 at 2:28 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-30T21:28:50.048282-04:00.lighthouse.json) |
-| [August 30 at 2:13 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-30T09:13:28.511273-04:00.lighthouse.json) |
-| [August 29 at 2:18 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-29T21:18:37.810156-04:00.lighthouse.json) |
-| [August 29 at 2:03 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-29T09:02:57.140031-04:00.lighthouse.json) |
-| [August 28 at 2:18 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-28T21:18:06.669316-04:00.lighthouse.json) |
+| [September 2 at 9:05 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-02T09:05:51.017544-04:00.lighthouse.json) |
+| [September 1 at 9:19 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-01T21:19:44.588560-04:00.lighthouse.json) |
+| [September 1 at 9:15 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-01T09:14:58.392564-04:00.lighthouse.json) |
+| [August 31 at 9:17 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-31T21:16:47.624611-04:00.lighthouse.json) |
+| [August 31 at 9:14 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-31T09:14:05.347242-04:00.lighthouse.json) |
+| [August 30 at 9:28 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-30T21:28:50.048282-04:00.lighthouse.json) |
+| [August 30 at 9:13 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-30T09:13:28.511273-04:00.lighthouse.json) |
+| [August 29 at 9:18 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-29T21:18:37.810156-04:00.lighthouse.json) |
+| [August 29 at 9:03 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-29T09:02:57.140031-04:00.lighthouse.json) |
+| [August 28 at 9:18 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-28T21:18:06.669316-04:00.lighthouse.json) |
 
 
 
