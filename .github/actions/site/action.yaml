@@ -1,0 +1,38 @@
+name: Site
+description: Update the homepages.news website
+
+inputs:
+  api-key:
+    description: An API key with permission to upload to Amazon S3
+    required: true
+  api-secret-access-key:
+    description: A secret access key with permission to upload to Amazon S3
+    required: true
+  bucket:
+    description: The Amazon S3 bucket where the site should be uploaded
+    required: true
+
+runs:
+  using: "composite"
+  steps:
+    - id: update-docs
+      name: Update docs
+      uses: ./.github/actions/docs
+
+    - id: update-rss
+      name: Update RSS
+      uses: ./.github/actions/rss
+
+    - id: build-docs
+      uses: ammaraskar/sphinx-action@master
+      with:
+        docs-folder: "docs/"
+
+    - id: upload-docs
+      uses: shallwefootball/s3-upload-action@master
+      with:
+        aws_key_id: ${{ inputs.api-key }}
+        aws_secret_access_key: ${{ inputs.api-secret-access-key }}
+        aws_bucket: ${{ inputs.bucket }}
+        source_dir: docs/_build/html/
+        destination_dir: news-homepages

@@ -20,22 +20,10 @@ jobs:
 
       - id: update-docs
         name: Update docs
-        uses: ./.github/actions/docs
-
-      - id: update-rss
-        name: Update RSS
-        uses: ./.github/actions/rss
-
-      - id: build-docs
-        uses: ammaraskar/sphinx-action@master
+        uses: ./.github/actions/site
         with:
-          docs-folder: "docs/"
-
-      - id: upload-docs
-        uses: shallwefootball/s3-upload-action@master
-        with:
-          aws_key_id: ${{ secrets.PALEWIRE_DOCS_AWS_ACCESS_KEY_ID }}
-          aws_secret_access_key: ${{ secrets.PALEWIRE_DOCS_AWS_SECRET_ACCESS_KEY }}
-          aws_bucket: ${{ secrets.PALEWIRE_DOCS_AWS_BUCKET }}
+          api-key: ${{ secrets.PALEWIRE_DOCS_AWS_ACCESS_KEY_ID }}
+          api-secret-access-key: ${{ secrets.PALEWIRE_DOCS_AWS_SECRET_ACCESS_KEY }}
+          bucket: ${{ secrets.PALEWIRE_DOCS_AWS_BUCKET }}
           source_dir: docs/_build/html/
           destination_dir: news-homepages
