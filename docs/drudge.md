@@ -13,7 +13,7 @@ Over the last 90 days, Drudge's homepage has featured 5,526 stories on 363 diffe
     <th class="head">Rank</th>
     <th class="head">Site</th>
     <th class="head" style="text-align: right;">Stories</th>
-    <th class="head" style="text-align: right;">Percentage</th>
+    <th class="head" style="text-align: right;">Percent</th>
   </tr>
  </thead>
  <tbody>
