@@ -1,10 +1,5 @@
 {
-  "aristeguionline-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1662301799,
+  "created": 1662332095,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/19/items/aristeguionline-2022",
@@ -2553,31 +2548,93 @@
       "sha1": "39f6f0c57e00b46abbfc4d6a53d09ea8d0e33c20"
     },
     {
+      "name": "aristeguionline-2022-09-04T17:53:23.282626-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662332010",
+      "size": "67387",
+      "md5": "1d8ff8a36661b17ec2ef33173229be08",
+      "crc32": "e8bae4e5",
+      "sha1": "981db2f1d847bd12770622b20a8fa0c80d199f5e",
+      "format": "JSON"
+    },
+    {
+      "name": "aristeguionline-2022-09-04T17:53:23.282626-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662332011",
+      "size": "49659",
+      "md5": "1be0accd0645c8857efa9fe035211d77",
+      "crc32": "c6890a21",
+      "sha1": "e4cb419b541edc717479c09cca2abccd9f6153af",
+      "format": "JSON"
+    },
+    {
+      "name": "aristeguionline-2022-09-04T17:53:23.282626-05:00.jpg",
+      "source": "original",
+      "mtime": "1662332008",
+      "size": "257910",
+      "md5": "c2b0a5a1c5ce27e081f91eb3992e95df",
+      "crc32": "cfeeddd4",
+      "sha1": "ae7818b33aa3118d1b5d6490fd872b0247f2b109",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aristeguionline-2022-09-04T17:53:23.282626-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662332014",
+      "size": "1522",
+      "md5": "3dc1031768c7f358b28182f02f365414",
+      "crc32": "444098a0",
+      "sha1": "e54ad381e673e341d54f2a017c5df1838d89db1d",
+      "format": "JSON"
+    },
+    {
+      "name": "aristeguionline-2022-09-04T17:53:23.282626-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662332016",
+      "size": "32897",
+      "md5": "ff92bb34a3cb5df29027fba272292eae",
+      "crc32": "ca95f5aa",
+      "sha1": "f33968f6d1adb25c1a06924dd90e119ef60a4d95",
+      "format": "JSON"
+    },
+    {
+      "name": "aristeguionline-2022-09-04T17:53:23.282626-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aristeguionline-2022-09-04T17:53:23.282626-05:00.jpg",
+      "mtime": "1662332075",
+      "size": "9954",
+      "md5": "bcb00cbf1c6e1f8cec9f1c1d7da607b8",
+      "crc32": "25e5f9dd",
+      "sha1": "01dbfe5b3ad3e3de34d8c655254d409f2337abd0"
+    },
+    {
       "name": "aristeguionline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5e5df043cc090aa326472bee7584779cf76ca1a7",
-      "mtime": "1662288656",
-      "size": "54970",
-      "md5": "97ff8c92864a227986aa8328c1078e75",
-      "crc32": "fcaea6e0",
-      "sha1": "921c1c388557779aeed0b19765c83383e97f6808",
+      "btih": "031971ee8c96f7c7970200aeaf1e3c8b1007675a",
+      "mtime": "1662332080",
+      "size": "56259",
+      "md5": "0935b0f58e0c1e5949aa3261452bd8b5",
+      "crc32": "6c278c7b",
+      "sha1": "39e6773f5bdc7382e56879e88deed2cb6051c4e6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aristeguionline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1e635688fe130b1bb9d45440a49ba040",
+      "md5": "b5ad6a7715f554d34d69452388f55da6",
       "summation": "md5"
     },
     {
       "name": "aristeguionline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662288605",
-      "size": "335872",
-      "md5": "5665d92694b199f8f23803593f466a26",
-      "crc32": "ca15ecde",
-      "sha1": "a7735f7c9be10332a0ec4b23d56ebf1546db189e",
+      "mtime": "1662332020",
+      "size": "344064",
+      "md5": "6f68b4a35aafc9c4334b0b4ee4c3b631",
+      "crc32": "60c3bb18",
+      "sha1": "d7feafa0226c76fc9064a8366e106bd2fc66af8e",
       "format": "Metadata"
     },
     {
@@ -2591,9 +2648,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 250,
-  "item_last_updated": 1662288656,
-  "item_size": 17924535,
+  "files_count": 256,
+  "item_last_updated": 1662332080,
+  "item_size": 18353345,
   "metadata": {
     "identifier": "aristeguionline-2022",
     "collection": [
@@ -2611,7 +2668,7 @@
     "addeddate": "2022-08-16 17:11:11"
   },
   "server": "ia801405.us.archive.org",
-  "uniq": 88280782,
+  "uniq": 167608404,
   "workable_servers": [
     "ia801405.us.archive.org",
     "ia601405.us.archive.org"

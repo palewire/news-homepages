@@ -1,12 +1,8 @@
 {
-  "created": 1662302271,
+  "created": 1662332404,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/3/items/discovery-2022",
-  "discovery-2022": {
-    "url": "https://www.discovery.com/",
-    "job_id": "spn2-1b498b0559fdcd25d4d4986550f2d1e990699e3b"
-  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -6846,31 +6842,93 @@
       "sha1": "bd5073ade8c01c8f1d0f5ea407bc0421b830d5e2"
     },
     {
+      "name": "discovery-2022-09-04T18:58:48.730646-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662332333",
+      "size": "11588",
+      "md5": "b6eba5c7ab3033309d0155b21de84316",
+      "crc32": "46f2357e",
+      "sha1": "f7e3dc303aef27834ec80a5b4413810e8f150e4f",
+      "format": "JSON"
+    },
+    {
+      "name": "discovery-2022-09-04T18:58:48.730646-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662332334",
+      "size": "54589",
+      "md5": "37001a353c3d54ec40cd456913fd8ef8",
+      "crc32": "6492e520",
+      "sha1": "c7d45eb8dbc2ec6825fcfc83a712f12e79d7750e",
+      "format": "JSON"
+    },
+    {
+      "name": "discovery-2022-09-04T18:58:48.730646-04:00.jpg",
+      "source": "original",
+      "mtime": "1662332330",
+      "size": "236986",
+      "md5": "1e28b8bc59f388ab8a8a9fe23c84dedd",
+      "crc32": "9112f856",
+      "sha1": "e4707a4f6b4ea35466ee4c6e6806735fb72af5a4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "discovery-2022-09-04T18:58:48.730646-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662332336",
+      "size": "1486",
+      "md5": "611b90042f98fd86b43045b4cf7682f4",
+      "crc32": "f434d368",
+      "sha1": "dbb90d40b741a9e7d2ffd6f49ee2111394ac6a95",
+      "format": "JSON"
+    },
+    {
+      "name": "discovery-2022-09-04T18:58:48.730646-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662332338",
+      "size": "35081",
+      "md5": "6da85aa25b4599f58c6583129da88a7a",
+      "crc32": "d8f13fe3",
+      "sha1": "a1192f521f8a8d95c039b809f17d73920766c33f",
+      "format": "JSON"
+    },
+    {
+      "name": "discovery-2022-09-04T18:58:48.730646-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "discovery-2022-09-04T18:58:48.730646-04:00.jpg",
+      "mtime": "1662332389",
+      "size": "10390",
+      "md5": "5492707c55a86bdf2f2d1a82413fa9fa",
+      "crc32": "e2dedb4d",
+      "sha1": "48b369bafd5c9d334ef0f5fbbaf4a562ca0f87ba"
+    },
+    {
       "name": "discovery-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6932a3570d60af117f5699b30675b288c8e4a7b7",
-      "mtime": "1662288982",
-      "size": "140383",
-      "md5": "3e93868034a646b60b58d8e3bef3068f",
-      "crc32": "1c71f254",
-      "sha1": "f9e35693305ae12d02bb9251a96d9d4a1db6f8b5",
+      "btih": "c4e57346b4b7f4cfe1758ddd0f215008eb260fe8",
+      "mtime": "1662332396",
+      "size": "141657",
+      "md5": "089630beb5e51e8a701027b11811db66",
+      "crc32": "e157a0e7",
+      "sha1": "a6ad39e69a5c1f0fc1318b21d60521dd95c2ee83",
       "format": "Archive BitTorrent"
     },
     {
       "name": "discovery-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fa4dc877df73381564962488456dce6b",
+      "md5": "4ad2a271f960010d3beed3d97775c950",
       "summation": "md5"
     },
     {
       "name": "discovery-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662288925",
-      "size": "827392",
-      "md5": "12027b799cae6b9cc7fc681e7bbbd776",
-      "crc32": "0743f9d2",
-      "sha1": "8c10d30d8a2cca2620370c6d25afc77c64983ee3",
+      "mtime": "1662332341",
+      "size": "831488",
+      "md5": "9dfb26b961f4aad98e7d2c3dc11792dc",
+      "crc32": "28983b21",
+      "sha1": "4155bf3daf4adb8b0a4fb1169042af7fea76b165",
       "format": "Metadata"
     },
     {
@@ -6884,9 +6942,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 662,
-  "item_last_updated": 1662288982,
-  "item_size": 42503464,
+  "files_count": 668,
+  "item_last_updated": 1662332396,
+  "item_size": 42858954,
   "metadata": {
     "identifier": "discovery-2022",
     "collection": [
@@ -6903,10 +6961,10 @@
     "publicdate": "2022-07-04 20:47:49",
     "addeddate": "2022-07-04 20:47:49"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 464314711,
+  "server": "ia601500.us.archive.org",
+  "uniq": 1145772839,
   "workable_servers": [
-    "ia801500.us.archive.org",
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }

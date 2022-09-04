@@ -1,5 +1,5 @@
 {
-  "created": 1662288689,
+  "created": 1662332086,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/27/items/albany_herald-2022",
@@ -5302,31 +5302,93 @@
       "sha1": "a3c236be1dd854ca59cd0ea3812573d5016dfb26"
     },
     {
+      "name": "albany_herald-2022-09-04T18:53:16.721267-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662332004",
+      "size": "79917",
+      "md5": "d6106b00daaeb386eb768a4434f47446",
+      "crc32": "183470c6",
+      "sha1": "b31ba55be53458d22e184f00df98a73ee481a517",
+      "format": "JSON"
+    },
+    {
+      "name": "albany_herald-2022-09-04T18:53:16.721267-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662332006",
+      "size": "134460",
+      "md5": "1db1ca34e2d22a321f905349e76118c6",
+      "crc32": "4d2578ae",
+      "sha1": "8348d3ddf3a4f3ad61047b090e7d2bcff5d455e6",
+      "format": "JSON"
+    },
+    {
+      "name": "albany_herald-2022-09-04T18:53:16.721267-04:00.jpg",
+      "source": "original",
+      "mtime": "1662332002",
+      "size": "254532",
+      "md5": "79d28a639fedea11344595b2d14f2f27",
+      "crc32": "e24d7a32",
+      "sha1": "ed09b04001665816a823578028aecbedacdd2fb0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "albany_herald-2022-09-04T18:53:16.721267-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662332008",
+      "size": "1510",
+      "md5": "a783db7e164c9ecd71b1528d69376815",
+      "crc32": "3bc2a4a0",
+      "sha1": "70701d941bb487dbc801d986ab293dd21a247c14",
+      "format": "JSON"
+    },
+    {
+      "name": "albany_herald-2022-09-04T18:53:16.721267-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662332010",
+      "size": "136453",
+      "md5": "3abec42afb2b9fe3dd0ed0c0268731d5",
+      "crc32": "fb76cc0f",
+      "sha1": "1cbfc043b0481af5a78ee8eeec7870d5c993525f",
+      "format": "JSON"
+    },
+    {
+      "name": "albany_herald-2022-09-04T18:53:16.721267-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "albany_herald-2022-09-04T18:53:16.721267-04:00.jpg",
+      "mtime": "1662332067",
+      "size": "10777",
+      "md5": "d55e5abd4e01262dfb93b2979a6da23b",
+      "crc32": "dadccc21",
+      "sha1": "74afaee0e6defad8d74bde04c9792a5efb68f541"
+    },
+    {
       "name": "albany_herald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9729166dd212f4d15d59e45f22cca6fc788414ed",
-      "mtime": "1662288673",
-      "size": "112393",
-      "md5": "ea7964d0329529a5508a5d7f851dd345",
-      "crc32": "9e6bd9bc",
-      "sha1": "aa290a9e48b779cbfa0f6b7be70747e2acca8cdd",
+      "btih": "e954bbb6c8c015bda6c9f3e2baac717d274b142d",
+      "mtime": "1662332073",
+      "size": "113693",
+      "md5": "e67c19d14c95c5c5e9ce3c4cb0fa7f5a",
+      "crc32": "6a72c32a",
+      "sha1": "40ad53d848bf6bf0ae37288b1c1a3edb8d167315",
       "format": "Archive BitTorrent"
     },
     {
       "name": "albany_herald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "047660b6074291fd8927503277b28739",
+      "md5": "a38d839b96571829ee3826a09d4e9c3d",
       "summation": "md5"
     },
     {
       "name": "albany_herald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662288609",
-      "size": "659456",
-      "md5": "8391bdb4b9f5e0104b4692d256006dea",
-      "crc32": "eda8f654",
-      "sha1": "82c5cccb6a50416f2ec87a86f3fca07fa8d78e75",
+      "mtime": "1662332012",
+      "size": "667648",
+      "md5": "95d36828a94e51fc3814f0716a4e57e1",
+      "crc32": "a5a98fca",
+      "sha1": "e6a365ba8aa45f3a06ebb0dd65cab338c1d03aa9",
       "format": "Metadata"
     },
     {
@@ -5340,9 +5402,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 515,
-  "item_last_updated": 1662288673,
-  "item_size": 54470035,
+  "files_count": 521,
+  "item_last_updated": 1662332073,
+  "item_size": 55097176,
   "metadata": {
     "identifier": "albany_herald-2022",
     "collection": [
@@ -5359,10 +5421,10 @@
     "publicdate": "2022-07-20 23:30:34",
     "addeddate": "2022-07-20 23:30:34"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 584060502,
+  "server": "ia601406.us.archive.org",
+  "uniq": 830595307,
   "workable_servers": [
-    "ia801406.us.archive.org",
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

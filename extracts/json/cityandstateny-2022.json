@@ -1,10 +1,5 @@
 {
-  "cityandstateny-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1662302116,
+  "created": 1662332290,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/15/items/cityandstateny-2022",
@@ -4093,31 +4088,93 @@
       "sha1": "aaedb25abd979ed3aebfd63182e940e0644b64a5"
     },
     {
+      "name": "cityandstateny-2022-09-04T18:57:01.513117-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662332225",
+      "size": "28927",
+      "md5": "315b3366cb25131a027191828ecabb1c",
+      "crc32": "7bf24cfb",
+      "sha1": "90927e178ab7f15e73060359186ca62e2e5e8cd6",
+      "format": "JSON"
+    },
+    {
+      "name": "cityandstateny-2022-09-04T18:57:01.513117-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662332226",
+      "size": "29217",
+      "md5": "d5f3e04e807f4a8849e859c2ae9f1005",
+      "crc32": "7f7996bd",
+      "sha1": "3c42fc1bab8210533194a7d52513c2b5d1df2246",
+      "format": "JSON"
+    },
+    {
+      "name": "cityandstateny-2022-09-04T18:57:01.513117-04:00.jpg",
+      "source": "original",
+      "mtime": "1662332223",
+      "size": "333371",
+      "md5": "d27f2fa65dfa783546666a1857d72f83",
+      "crc32": "78b6b923",
+      "sha1": "b4c97f2447d47dbe37791417dd22ba74c76b9281",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cityandstateny-2022-09-04T18:57:01.513117-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662332228",
+      "size": "1531",
+      "md5": "98f89aeec549edf6f067a596aa829717",
+      "crc32": "35d656cc",
+      "sha1": "a1f8822d4c0100fc6b919a40a3e3336f4b159f1d",
+      "format": "JSON"
+    },
+    {
+      "name": "cityandstateny-2022-09-04T18:57:01.513117-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662332230",
+      "size": "14306",
+      "md5": "615873f19f4f9f9e1f89e60634ee9932",
+      "crc32": "c6c2ad8c",
+      "sha1": "5ed46e28dc8fbe8fbb5377349b4100b3cb18c381",
+      "format": "JSON"
+    },
+    {
+      "name": "cityandstateny-2022-09-04T18:57:01.513117-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cityandstateny-2022-09-04T18:57:01.513117-04:00.jpg",
+      "mtime": "1662332279",
+      "size": "10060",
+      "md5": "3f90acfeaa4f69eb2c65bfcc2a1fb282",
+      "crc32": "95dabc80",
+      "sha1": "aaedb25abd979ed3aebfd63182e940e0644b64a5"
+    },
+    {
       "name": "cityandstateny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bc225afe4d18c3f440b3bb99285956417c17e69d",
-      "mtime": "1662288892",
-      "size": "86949",
-      "md5": "fba678b76670c8c449f9c8087908c249",
-      "crc32": "a5f026da",
-      "sha1": "1c0d70d3e0d715f9fb67d87616104f9b53b27fe0",
+      "btih": "553fcad811b53ed65d5ef9555094a6bc8924edaa",
+      "mtime": "1662332284",
+      "size": "88253",
+      "md5": "81cb27b60b1c7e0f1e315a6a32d37ab2",
+      "crc32": "252d7b3f",
+      "sha1": "6a87a3dc8a39ccf4b7a48d60ac3856720c3e3fe1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cityandstateny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2b0c46b1d6d5e658f6318310810d29bb",
+      "md5": "9fd72018b6069b21bb19d82dd694d63c",
       "summation": "md5"
     },
     {
       "name": "cityandstateny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662288839",
-      "size": "524288",
-      "md5": "6c2cca4387462bfaa7e0dc1017e75107",
-      "crc32": "6fad8f08",
-      "sha1": "097e69ac0e58e513ec03a8f621c980519d32dd11",
+      "mtime": "1662332233",
+      "size": "528384",
+      "md5": "1a5b28ef318e8b78a71f78edb0262928",
+      "crc32": "071828c7",
+      "sha1": "e710b317c2a46221551e67243d9b0a6c92f4d577",
       "format": "Metadata"
     },
     {
@@ -4131,9 +4188,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 399,
-  "item_last_updated": 1662288892,
-  "item_size": 26936820,
+  "files_count": 405,
+  "item_last_updated": 1662332284,
+  "item_size": 27359632,
   "metadata": {
     "identifier": "cityandstateny-2022",
     "collection": [
@@ -4150,10 +4207,10 @@
     "publicdate": "2022-08-02 23:21:27",
     "addeddate": "2022-08-02 23:21:27"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 566438887,
+  "server": "ia902502.us.archive.org",
+  "uniq": 1052912196,
   "workable_servers": [
-    "ia802502.us.archive.org",
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }

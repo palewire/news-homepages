@@ -1,23 +1,8 @@
 {
-  "created": 1662302331,
+  "created": 1662332446,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/2/items/estadao-2022",
-  "estadao-2022": {
-    "url": "https://www.estadao.com.br/",
-    "job_id": "spn2-c3943d0c4be61826537691fb7699bb77f6f5449a",
-    "status": "success",
-    "counters": {
-      "outlinks": 70,
-      "embeds": 149
-    },
-    "outlinks": [],
-    "timestamp": "20220904104615",
-    "duration_sec": 12.968,
-    "original_url": "https://www.estadao.com.br/",
-    "http_status": 200,
-    "resources": []
-  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -5655,31 +5640,83 @@
       "sha1": "b995e7073cf7dfffae07abf86723f6cde8f3e832"
     },
     {
+      "name": "estadao-2022-09-04T19:59:14.749035-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662332361",
+      "size": "73382",
+      "md5": "5b8caf477f7a1fc43c348402fe069035",
+      "crc32": "bcc25b7e",
+      "sha1": "0bd136d3483a39f0748cfad812289132a59ef27e",
+      "format": "JSON"
+    },
+    {
+      "name": "estadao-2022-09-04T19:59:14.749035-03:00.jpg",
+      "source": "original",
+      "mtime": "1662332359",
+      "size": "347702",
+      "md5": "884aee99f25a84729c65d2b5ac50c090",
+      "crc32": "100642f2",
+      "sha1": "501c7558231a2cd625b866488e362a27895ac0d9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "estadao-2022-09-04T19:59:14.749035-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662332367",
+      "size": "1492",
+      "md5": "82a757677e8c94f7ab57aa0906cae293",
+      "crc32": "ea5961b7",
+      "sha1": "7a5580a36eb483c4c55650e5d9ecffe6a0f467fd",
+      "format": "JSON"
+    },
+    {
+      "name": "estadao-2022-09-04T19:59:14.749035-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1662332369",
+      "size": "33780",
+      "md5": "229418165b94337cf5de5c66dcdbafe5",
+      "crc32": "dd41477e",
+      "sha1": "e5c11330d4bb674c98e818352281390adccdc995",
+      "format": "JSON"
+    },
+    {
+      "name": "estadao-2022-09-04T19:59:14.749035-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "estadao-2022-09-04T19:59:14.749035-03:00.jpg",
+      "mtime": "1662332429",
+      "size": "10649",
+      "md5": "9ab42db9d58c50e4182b236f39089f91",
+      "crc32": "bd59998d",
+      "sha1": "8dce2b6e7e08fb4f472ceebeec6915bd1783356f"
+    },
+    {
       "name": "estadao-2022_archive.torrent",
       "source": "metadata",
-      "btih": "43975bc23b35c17704bebd7018ccdd522bbb4f20",
-      "mtime": "1662292924",
-      "size": "115945",
-      "md5": "e2d265391be563f787e50edbd54f7c82",
-      "crc32": "b8ae6055",
-      "sha1": "af2953f20a627db3c65790e0f298651c6e8de340",
+      "btih": "20191ec7b5ef4f543ab9b80376b027fa0caa25d9",
+      "mtime": "1662332437",
+      "size": "116994",
+      "md5": "2c78079dce2ad5e9afc11860b2546ea7",
+      "crc32": "470437da",
+      "sha1": "a086885d3c8dc84784fe46f17e61e6fcecc60717",
       "format": "Archive BitTorrent"
     },
     {
       "name": "estadao-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "216cdc0eec8e65f620253a76de3e7cdd",
+      "md5": "d91c0df8a6312ad94fac5f3263b19420",
       "summation": "md5"
     },
     {
       "name": "estadao-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662292858",
-      "size": "708608",
-      "md5": "d937075bb929fc581916f44a713d33cd",
-      "crc32": "76047a83",
-      "sha1": "bd1c7852474bfbee0b1b6463b6cd4acd7414b060",
+      "mtime": "1662332374",
+      "size": "712704",
+      "md5": "023cac363d158e8c34a76227b93b870e",
+      "crc32": "9be9dc09",
+      "sha1": "9915c85e5f152ade3cb8c6b114733b05fcd5ccf0",
       "format": "Metadata"
     },
     {
@@ -5693,9 +5730,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 549,
-  "item_last_updated": 1662292924,
-  "item_size": 47209196,
+  "files_count": 554,
+  "item_last_updated": 1662332437,
+  "item_size": 47681346,
   "metadata": {
     "identifier": "estadao-2022",
     "collection": [
@@ -5712,10 +5749,10 @@
     "publicdate": "2022-08-02 23:24:26",
     "addeddate": "2022-08-02 23:24:26"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 2056878574,
+  "server": "ia601508.us.archive.org",
+  "uniq": 154622919,
   "workable_servers": [
-    "ia801508.us.archive.org",
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

@@ -1,10 +1,5 @@
 {
-  "capitolnewsil-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1662302102,
+  "created": 1662332263,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/12/items/capitolnewsil-2022",
@@ -6405,31 +6400,93 @@
       "sha1": "2888bdbe9af150f79c398a73e8eb33f96420a652"
     },
     {
+      "name": "capitolnewsil-2022-09-04T17:56:18.253706-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662332184",
+      "size": "11614",
+      "md5": "9e43c834a71d258385ff0f3b08db2222",
+      "crc32": "c2ef35a3",
+      "sha1": "5ab413f8e02784b8338a757746f2412161242ed5",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-09-04T17:56:18.253706-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662332186",
+      "size": "6986",
+      "md5": "99c566a37ef2a2e4ae813535ef8a6dec",
+      "crc32": "9d6a1dfc",
+      "sha1": "055d581e7b94d7a2a112e862932f08a48df14850",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-09-04T17:56:18.253706-05:00.jpg",
+      "source": "original",
+      "mtime": "1662332182",
+      "size": "349897",
+      "md5": "1284ef4c9a6aebda96face07518e0623",
+      "crc32": "60ea340f",
+      "sha1": "1300788c0f6cdeb6a6fdce2dc2dbd0bea20148ad",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capitolnewsil-2022-09-04T17:56:18.253706-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662332187",
+      "size": "1575",
+      "md5": "5835afa37a8530496c3b5d69e804738b",
+      "crc32": "35862238",
+      "sha1": "777623b7fc3bd12ad1df82478f24ad100643eb68",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-09-04T17:56:18.253706-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662332189",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-09-04T17:56:18.253706-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capitolnewsil-2022-09-04T17:56:18.253706-05:00.jpg",
+      "mtime": "1662332244",
+      "size": "10150",
+      "md5": "676f316159359f0f28be92f5731c79da",
+      "crc32": "0f4abd93",
+      "sha1": "b116bbd0bfa00e8ba42a1e3dceeada10e6ee2d9d"
+    },
+    {
       "name": "capitolnewsil-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5862a61ddfc22f007ab1c257384053906a59946d",
-      "mtime": "1662288798",
-      "size": "133981",
-      "md5": "3ee3c01ac79601b479e3ddc36dc81072",
-      "crc32": "b40a88c3",
-      "sha1": "a146770230521e82e52c56642318e401d457643c",
+      "btih": "e48a29a39c368c754935e9a9f0667414b8730736",
+      "mtime": "1662332252",
+      "size": "135276",
+      "md5": "e014934b1b3c5873e0ad8e3cadea1fcb",
+      "crc32": "8b67e526",
+      "sha1": "cad50a5ec86c99eab7e6fd4cc0f789ae2a50cd39",
       "format": "Archive BitTorrent"
     },
     {
       "name": "capitolnewsil-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "72fc78bbde8996a156da75c6e31ffe72",
+      "md5": "132ada689206b7b4cbdb6c161cdb70b6",
       "summation": "md5"
     },
     {
       "name": "capitolnewsil-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662288737",
-      "size": "782336",
-      "md5": "6723e3373fa6cc35c5562128f79c972e",
-      "crc32": "ce437833",
-      "sha1": "242acbd0fca72e2581d5b21ba15e4703d7b898fd",
+      "mtime": "1662332192",
+      "size": "794624",
+      "md5": "ee9726a72574c200fa39f7b75837a420",
+      "crc32": "9561642f",
+      "sha1": "f68a085c052fddcbd016c153ef1a6875e3b5126f",
       "format": "Metadata"
     },
     {
@@ -6443,9 +6500,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 620,
-  "item_last_updated": 1662288798,
-  "item_size": 42455579,
+  "files_count": 626,
+  "item_last_updated": 1662332252,
+  "item_size": 42849586,
   "metadata": {
     "identifier": "capitolnewsil-2022",
     "collection": [
@@ -6462,10 +6519,10 @@
     "publicdate": "2022-07-09 03:56:30",
     "addeddate": "2022-07-09 03:56:30"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 1215550738,
+  "server": "ia601505.us.archive.org",
+  "uniq": 980586043,
   "workable_servers": [
-    "ia801505.us.archive.org",
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }
