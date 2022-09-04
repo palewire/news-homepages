@@ -1,14 +1,19 @@
-## Drudge Report ranking
+```{include} _templates/nav.html
+```
 
-363, 5526, 66.08045977011494 per day, 87 days
+# Drudge Report ranking
+
+As part of its archiving routine, our system routinely archives [The Drudge Report](https://palewi.re/docs/news-homepages/sites/drudge.html), a news aggregator focused on Beltway politics, celebrity scandals, extreme weather and other catastrophes of American life.
+
+Over the last 90 days, Drudge's homepage has featured 5,526 stories on 363 different sites. This page ranks domains to show which domains appeared the most in that period. The list updates daily.
 
 <table class="colwidths-auto docutils align-default">
  <thead>
   <tr>
     <th class="head">Rank</th>
     <th class="head">Site</th>
-    <th class="head" style="text-align: right;">Articles</th>
-    <th class="head" style="text-align: right;">Share</th>
+    <th class="head" style="text-align: right;">Stories</th>
+    <th class="head" style="text-align: right;">Percentage</th>
   </tr>
  </thead>
  <tbody>

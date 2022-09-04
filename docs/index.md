@@ -14,6 +14,7 @@ An open-source archive that gathers, saves, shares and analyzes news homepages
 latest
 accessibility
 performance
+drudge
 extracts
 ```
 
