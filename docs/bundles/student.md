@@ -7,7 +7,7 @@ orphan: true
 
 # Student
 
-The most recent homepages from 7 news sites in this bundle.
+The most recent homepages from 8 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -66,6 +66,15 @@ The most recent homepages from 7 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/thepearlpost.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thepearlpost.jpg"
+     alt="Pearl Post"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/thepearlpost.html">Pearl Post</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/uwogazette.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/uwogazette.jpg"
      alt="Western Gazette"
@@ -95,4 +104,5 @@ The most recent homepages from 7 news sites in this bundle.
 |[DePaulia](https://palewi.re/docs/news-homepages/sites/thedepaulia.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedepaulia.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thedepaulia.xml)|
 |[Grady Newsource](https://palewi.re/docs/news-homepages/sites/gradynewsource.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gradynewsource.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gradynewsource.xml)|
 |[McGill Daily](https://palewi.re/docs/news-homepages/sites/mcgilldaily.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mcgilldaily.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mcgilldaily.xml)|
+|[Pearl Post](https://palewi.re/docs/news-homepages/sites/thepearlpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thepearlpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thepearlpost.xml)|
 |[Western Gazette](https://palewi.re/docs/news-homepages/sites/uwogazette.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/uwogazette.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/uwogazette.xml)|
