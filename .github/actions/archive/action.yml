@@ -64,23 +64,3 @@ runs:
         name: archive
         path: _dist
         if-no-files-found: error
-
-    - id: download-item
-      name: Download archive.org item
-      run: pipenv run python -m newshomepages.extract download-items --site=${{ inputs.source }}
-      shell: bash
-      env:
-        IA_ACCESS_KEY: ${{ inputs.access-key }}
-        IA_SECRET_KEY: ${{ inputs.secret-key }}
-        IA_COLLECTION:  ${{ inputs.collection }}
-
-    - id: commit
-      name: Commit
-      run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git config pull.rebase false
-          git pull origin $GITHUB_REF
-          git add ./extracts
-          git commit -m "Update ${{ inputs.source }} archive.org item" --author="palewire <palewire@users.noreply.github.com>" && git push || true
-      shell: bash
