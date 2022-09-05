@@ -354,7 +354,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 62 hyperlink lists with the Internet Archive.
+The archiving routine has saved 67 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -445,16 +445,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 4 at 10:27 PM](https://archive.org/download/andscape-2022/andscape-2022-09-04T22:27:44.855092-04:00.hyperlinks.json) |
+| [September 4 at 10:02 AM](https://archive.org/download/andscape-2022/andscape-2022-09-04T10:02:14.959537-04:00.hyperlinks.json) |
+| [September 3 at 10:26 PM](https://archive.org/download/andscape-2022/andscape-2022-09-03T22:26:50.305444-04:00.hyperlinks.json) |
+| [September 3 at 10:52 AM](https://archive.org/download/andscape-2022/andscape-2022-09-03T10:52:43.851454-04:00.hyperlinks.json) |
+| [September 2 at 10:26 PM](https://archive.org/download/andscape-2022/andscape-2022-09-02T22:26:03.796816-04:00.hyperlinks.json) |
 | [September 2 at 10:57 AM](https://archive.org/download/andscape-2022/andscape-2022-09-02T10:57:15.036415-04:00.hyperlinks.json) |
 | [September 1 at 10:26 PM](https://archive.org/download/andscape-2022/andscape-2022-09-01T22:26:56.495582-04:00.hyperlinks.json) |
 | [September 1 at 11:05 AM](https://archive.org/download/andscape-2022/andscape-2022-09-01T11:05:53.862683-04:00.hyperlinks.json) |
 | [August 31 at 10:26 PM](https://archive.org/download/andscape-2022/andscape-2022-08-31T22:26:18.681500-04:00.hyperlinks.json) |
 | [August 31 at 10:56 AM](https://archive.org/download/andscape-2022/andscape-2022-08-31T10:56:32.340960-04:00.hyperlinks.json) |
-| [August 30 at 10:23 PM](https://archive.org/download/andscape-2022/andscape-2022-08-30T22:23:08.516777-04:00.hyperlinks.json) |
-| [August 30 at 11:17 AM](https://archive.org/download/andscape-2022/andscape-2022-08-30T11:17:08.119494-04:00.hyperlinks.json) |
-| [August 29 at 10:26 PM](https://archive.org/download/andscape-2022/andscape-2022-08-29T22:26:45.451612-04:00.hyperlinks.json) |
-| [August 29 at 10:05 AM](https://archive.org/download/andscape-2022/andscape-2022-08-29T10:05:38.251442-04:00.hyperlinks.json) |
-| [August 28 at 10:22 PM](https://archive.org/download/andscape-2022/andscape-2022-08-28T22:22:31.623653-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -482,7 +482,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 63 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 68 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -573,16 +573,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 4 at 10:27 PM](https://archive.org/download/andscape-2022/andscape-2022-09-04T22:27:44.855092-04:00.lighthouse.json) |
+| [September 4 at 10:02 AM](https://archive.org/download/andscape-2022/andscape-2022-09-04T10:02:14.959537-04:00.lighthouse.json) |
+| [September 3 at 10:26 PM](https://archive.org/download/andscape-2022/andscape-2022-09-03T22:26:50.305444-04:00.lighthouse.json) |
+| [September 3 at 10:52 AM](https://archive.org/download/andscape-2022/andscape-2022-09-03T10:52:43.851454-04:00.lighthouse.json) |
+| [September 2 at 10:26 PM](https://archive.org/download/andscape-2022/andscape-2022-09-02T22:26:03.796816-04:00.lighthouse.json) |
 | [September 2 at 10:57 AM](https://archive.org/download/andscape-2022/andscape-2022-09-02T10:57:15.036415-04:00.lighthouse.json) |
 | [September 1 at 10:26 PM](https://archive.org/download/andscape-2022/andscape-2022-09-01T22:26:56.495582-04:00.lighthouse.json) |
 | [September 1 at 11:05 AM](https://archive.org/download/andscape-2022/andscape-2022-09-01T11:05:53.862683-04:00.lighthouse.json) |
 | [August 31 at 10:26 PM](https://archive.org/download/andscape-2022/andscape-2022-08-31T22:26:18.681500-04:00.lighthouse.json) |
 | [August 31 at 10:56 AM](https://archive.org/download/andscape-2022/andscape-2022-08-31T10:56:32.340960-04:00.lighthouse.json) |
-| [August 30 at 10:23 PM](https://archive.org/download/andscape-2022/andscape-2022-08-30T22:23:08.516777-04:00.lighthouse.json) |
-| [August 30 at 11:17 AM](https://archive.org/download/andscape-2022/andscape-2022-08-30T11:17:08.119494-04:00.lighthouse.json) |
-| [August 29 at 10:26 PM](https://archive.org/download/andscape-2022/andscape-2022-08-29T22:26:45.451612-04:00.lighthouse.json) |
-| [August 29 at 10:05 AM](https://archive.org/download/andscape-2022/andscape-2022-08-29T10:05:38.251442-04:00.lighthouse.json) |
-| [August 28 at 10:22 PM](https://archive.org/download/andscape-2022/andscape-2022-08-28T22:22:31.623653-04:00.lighthouse.json) |
 
 
 

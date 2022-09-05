@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 260 screenshots with the Internet Archive.
+The archiving routine has saved 265 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,51 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/wncn-2022/wncn-2022-09-04T22:33:08.859315-04:00.jpg">
+  <img src="https://archive.org/download/wncn-2022/wncn-2022-09-04T22:33:08.859315-04:00.jpg"
+     alt="CBS 17 at 2022-09-04 22:33:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wncn-2022/wncn-2022-09-04T22:33:08.859315-04:00.jpg">September 4 at 10:33 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wncn-2022/wncn-2022-09-04T10:48:35.007083-04:00.jpg">
+  <img src="https://archive.org/download/wncn-2022/wncn-2022-09-04T10:48:35.007083-04:00.jpg"
+     alt="CBS 17 at 2022-09-04 10:48:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wncn-2022/wncn-2022-09-04T10:48:35.007083-04:00.jpg">September 4 at 10:48 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wncn-2022/wncn-2022-09-03T22:32:34.091334-04:00.jpg">
+  <img src="https://archive.org/download/wncn-2022/wncn-2022-09-03T22:32:34.091334-04:00.jpg"
+     alt="CBS 17 at 2022-09-03 22:32:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wncn-2022/wncn-2022-09-03T22:32:34.091334-04:00.jpg">September 3 at 10:32 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wncn-2022/wncn-2022-09-03T10:58:40.536371-04:00.jpg">
+  <img src="https://archive.org/download/wncn-2022/wncn-2022-09-03T10:58:40.536371-04:00.jpg"
+     alt="CBS 17 at 2022-09-03 10:59:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wncn-2022/wncn-2022-09-03T10:58:40.536371-04:00.jpg">September 3 at 10:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wncn-2022/wncn-2022-09-02T22:31:06.267529-04:00.jpg">
+  <img src="https://archive.org/download/wncn-2022/wncn-2022-09-02T22:31:06.267529-04:00.jpg"
+     alt="CBS 17 at 2022-09-02 22:31:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wncn-2022/wncn-2022-09-02T22:31:06.267529-04:00.jpg">September 2 at 10:31 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/wncn-2022/wncn-2022-09-02T11:03:51.875075-04:00.jpg">
   <img src="https://archive.org/download/wncn-2022/wncn-2022-09-02T11:03:51.875075-04:00.jpg"
      alt="CBS 17 at 2022-09-02 11:03:54-04:00 local time"
@@ -388,56 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wncn-2022/wncn-2022-08-30T11:24:05.441316-04:00.jpg">August 30 at 11:24 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wncn-2022/wncn-2022-08-29T22:32:33.634234-04:00.jpg">
-  <img src="https://archive.org/download/wncn-2022/wncn-2022-08-29T22:32:33.634234-04:00.jpg"
-     alt="CBS 17 at 2022-08-29 22:32:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wncn-2022/wncn-2022-08-29T22:32:33.634234-04:00.jpg">August 29 at 10:32 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wncn-2022/wncn-2022-08-29T10:11:24.504373-04:00.jpg">
-  <img src="https://archive.org/download/wncn-2022/wncn-2022-08-29T10:11:24.504373-04:00.jpg"
-     alt="CBS 17 at 2022-08-29 10:11:30-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wncn-2022/wncn-2022-08-29T10:11:24.504373-04:00.jpg">August 29 at 10:11 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wncn-2022/wncn-2022-08-28T22:28:09.682024-04:00.jpg">
-  <img src="https://archive.org/download/wncn-2022/wncn-2022-08-28T22:28:09.682024-04:00.jpg"
-     alt="CBS 17 at 2022-08-28 22:28:11-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wncn-2022/wncn-2022-08-28T22:28:09.682024-04:00.jpg">August 28 at 10:28 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wncn-2022/wncn-2022-08-28T10:04:56.775829-04:00.jpg">
-  <img src="https://archive.org/download/wncn-2022/wncn-2022-08-28T10:04:56.775829-04:00.jpg"
-     alt="CBS 17 at 2022-08-28 10:05:06-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wncn-2022/wncn-2022-08-28T10:04:56.775829-04:00.jpg">August 28 at 10:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wncn-2022/wncn-2022-08-27T22:29:31.234944-04:00.jpg">
-  <img src="https://archive.org/download/wncn-2022/wncn-2022-08-27T22:29:31.234944-04:00.jpg"
-     alt="CBS 17 at 2022-08-27 22:29:37-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wncn-2022/wncn-2022-08-27T22:29:31.234944-04:00.jpg">August 27 at 10:29 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 260 hyperlink lists with the Internet Archive.
+The archiving routine has saved 265 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 4 at 10:33 PM](https://archive.org/download/wncn-2022/wncn-2022-09-04T22:33:08.859315-04:00.hyperlinks.json) |
+| [September 4 at 10:48 AM](https://archive.org/download/wncn-2022/wncn-2022-09-04T10:48:35.007083-04:00.hyperlinks.json) |
+| [September 3 at 10:32 PM](https://archive.org/download/wncn-2022/wncn-2022-09-03T22:32:34.091334-04:00.hyperlinks.json) |
+| [September 3 at 10:59 AM](https://archive.org/download/wncn-2022/wncn-2022-09-03T10:58:40.536371-04:00.hyperlinks.json) |
+| [September 2 at 10:31 PM](https://archive.org/download/wncn-2022/wncn-2022-09-02T22:31:06.267529-04:00.hyperlinks.json) |
 | [September 2 at 11:04 AM](https://archive.org/download/wncn-2022/wncn-2022-09-02T11:03:51.875075-04:00.hyperlinks.json) |
 | [September 1 at 10:33 PM](https://archive.org/download/wncn-2022/wncn-2022-09-01T22:33:42.260675-04:00.hyperlinks.json) |
 | [September 1 at 11:13 AM](https://archive.org/download/wncn-2022/wncn-2022-09-01T11:13:46.391762-04:00.hyperlinks.json) |
 | [August 31 at 10:31 PM](https://archive.org/download/wncn-2022/wncn-2022-08-31T22:30:54.550636-04:00.hyperlinks.json) |
 | [August 31 at 11:03 AM](https://archive.org/download/wncn-2022/wncn-2022-08-31T11:03:31.097321-04:00.hyperlinks.json) |
-| [August 30 at 10:28 PM](https://archive.org/download/wncn-2022/wncn-2022-08-30T22:27:57.268596-04:00.hyperlinks.json) |
-| [August 30 at 11:24 AM](https://archive.org/download/wncn-2022/wncn-2022-08-30T11:24:05.441316-04:00.hyperlinks.json) |
-| [August 29 at 10:32 PM](https://archive.org/download/wncn-2022/wncn-2022-08-29T22:32:33.634234-04:00.hyperlinks.json) |
-| [August 29 at 10:11 AM](https://archive.org/download/wncn-2022/wncn-2022-08-29T10:11:24.504373-04:00.hyperlinks.json) |
-| [August 28 at 10:28 PM](https://archive.org/download/wncn-2022/wncn-2022-08-28T22:28:09.682024-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 262 accessibility trees with the Internet Archive.
+The archiving routine has saved 267 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 4 at 10:33 PM](https://archive.org/download/wncn-2022/wncn-2022-09-04T22:33:08.859315-04:00.accessibility.json) |
+| [September 4 at 10:48 AM](https://archive.org/download/wncn-2022/wncn-2022-09-04T10:48:35.007083-04:00.accessibility.json) |
+| [September 3 at 10:32 PM](https://archive.org/download/wncn-2022/wncn-2022-09-03T22:32:34.091334-04:00.accessibility.json) |
+| [September 3 at 10:59 AM](https://archive.org/download/wncn-2022/wncn-2022-09-03T10:58:40.536371-04:00.accessibility.json) |
+| [September 2 at 10:31 PM](https://archive.org/download/wncn-2022/wncn-2022-09-02T22:31:06.267529-04:00.accessibility.json) |
 | [September 2 at 11:03 AM](https://archive.org/download/wncn-2022/wncn-2022-09-02T11:03:51.875075-04:00.accessibility.json) |
 | [September 1 at 10:33 PM](https://archive.org/download/wncn-2022/wncn-2022-09-01T22:33:42.260675-04:00.accessibility.json) |
 | [September 1 at 11:13 AM](https://archive.org/download/wncn-2022/wncn-2022-09-01T11:13:46.391762-04:00.accessibility.json) |
 | [August 31 at 10:30 PM](https://archive.org/download/wncn-2022/wncn-2022-08-31T22:30:54.550636-04:00.accessibility.json) |
 | [August 31 at 11:03 AM](https://archive.org/download/wncn-2022/wncn-2022-08-31T11:03:31.097321-04:00.accessibility.json) |
-| [August 30 at 10:28 PM](https://archive.org/download/wncn-2022/wncn-2022-08-30T22:27:57.268596-04:00.accessibility.json) |
-| [August 30 at 11:24 AM](https://archive.org/download/wncn-2022/wncn-2022-08-30T11:24:05.441316-04:00.accessibility.json) |
-| [August 29 at 10:32 PM](https://archive.org/download/wncn-2022/wncn-2022-08-29T22:32:33.634234-04:00.accessibility.json) |
-| [August 29 at 10:11 AM](https://archive.org/download/wncn-2022/wncn-2022-08-29T10:11:24.504373-04:00.accessibility.json) |
-| [August 28 at 10:28 PM](https://archive.org/download/wncn-2022/wncn-2022-08-28T22:28:09.682024-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 83 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 88 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 4 at 10:33 PM](https://archive.org/download/wncn-2022/wncn-2022-09-04T22:33:08.859315-04:00.lighthouse.json) |
+| [September 4 at 10:48 AM](https://archive.org/download/wncn-2022/wncn-2022-09-04T10:48:35.007083-04:00.lighthouse.json) |
+| [September 3 at 10:32 PM](https://archive.org/download/wncn-2022/wncn-2022-09-03T22:32:34.091334-04:00.lighthouse.json) |
+| [September 3 at 10:59 AM](https://archive.org/download/wncn-2022/wncn-2022-09-03T10:58:40.536371-04:00.lighthouse.json) |
+| [September 2 at 10:31 PM](https://archive.org/download/wncn-2022/wncn-2022-09-02T22:31:06.267529-04:00.lighthouse.json) |
 | [September 2 at 11:04 AM](https://archive.org/download/wncn-2022/wncn-2022-09-02T11:03:51.875075-04:00.lighthouse.json) |
 | [September 1 at 10:33 PM](https://archive.org/download/wncn-2022/wncn-2022-09-01T22:33:42.260675-04:00.lighthouse.json) |
 | [September 1 at 11:13 AM](https://archive.org/download/wncn-2022/wncn-2022-09-01T11:13:46.391762-04:00.lighthouse.json) |
 | [August 31 at 10:31 PM](https://archive.org/download/wncn-2022/wncn-2022-08-31T22:30:54.550636-04:00.lighthouse.json) |
 | [August 31 at 11:03 AM](https://archive.org/download/wncn-2022/wncn-2022-08-31T11:03:31.097321-04:00.lighthouse.json) |
-| [August 30 at 10:28 PM](https://archive.org/download/wncn-2022/wncn-2022-08-30T22:27:57.268596-04:00.lighthouse.json) |
-| [August 30 at 11:24 AM](https://archive.org/download/wncn-2022/wncn-2022-08-30T11:24:05.441316-04:00.lighthouse.json) |
-| [August 29 at 10:32 PM](https://archive.org/download/wncn-2022/wncn-2022-08-29T22:32:33.634234-04:00.lighthouse.json) |
-| [August 29 at 10:11 AM](https://archive.org/download/wncn-2022/wncn-2022-08-29T10:11:24.504373-04:00.lighthouse.json) |
-| [August 28 at 10:28 PM](https://archive.org/download/wncn-2022/wncn-2022-08-28T22:28:09.682024-04:00.lighthouse.json) |
 
 
 
