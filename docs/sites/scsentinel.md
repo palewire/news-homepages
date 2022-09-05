@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 120 screenshots with the Internet Archive.
+The archiving routine has saved 125 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,51 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-09-04T21:52:59.690575-07:00.jpg">
+  <img src="https://archive.org/download/scsentinel-2022/scsentinel-2022-09-04T21:52:59.690575-07:00.jpg"
+     alt="Santa Cruz Sentinel at 2022-09-04 21:53:03-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-09-04T21:52:59.690575-07:00.jpg">September 4 at 9:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-09-04T09:45:21.206411-07:00.jpg">
+  <img src="https://archive.org/download/scsentinel-2022/scsentinel-2022-09-04T09:45:21.206411-07:00.jpg"
+     alt="Santa Cruz Sentinel at 2022-09-04 09:45:25-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-09-04T09:45:21.206411-07:00.jpg">September 4 at 9:45 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-09-03T21:41:17.757664-07:00.jpg">
+  <img src="https://archive.org/download/scsentinel-2022/scsentinel-2022-09-03T21:41:17.757664-07:00.jpg"
+     alt="Santa Cruz Sentinel at 2022-09-03 21:41:23-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-09-03T21:41:17.757664-07:00.jpg">September 3 at 9:41 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-09-03T09:03:40.778210-07:00.jpg">
+  <img src="https://archive.org/download/scsentinel-2022/scsentinel-2022-09-03T09:03:40.778210-07:00.jpg"
+     alt="Santa Cruz Sentinel at 2022-09-03 09:03:45-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-09-03T09:03:40.778210-07:00.jpg">September 3 at 9:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-09-02T21:43:02.869704-07:00.jpg">
+  <img src="https://archive.org/download/scsentinel-2022/scsentinel-2022-09-02T21:43:02.869704-07:00.jpg"
+     alt="Santa Cruz Sentinel at 2022-09-02 21:43:04-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-09-02T21:43:02.869704-07:00.jpg">September 2 at 9:43 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-09-02T09:16:16.663907-07:00.jpg">
   <img src="https://archive.org/download/scsentinel-2022/scsentinel-2022-09-02T09:16:16.663907-07:00.jpg"
      alt="Santa Cruz Sentinel at 2022-09-02 09:16:26-07:00 local time"
@@ -388,56 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-30T09:35:14.753686-07:00.jpg">August 30 at 9:35 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-29T21:56:16.588351-07:00.jpg">
-  <img src="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-29T21:56:16.588351-07:00.jpg"
-     alt="Santa Cruz Sentinel at 2022-08-29 21:56:21-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-29T21:56:16.588351-07:00.jpg">August 29 at 9:56 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-29T09:15:54.735415-07:00.jpg">
-  <img src="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-29T09:15:54.735415-07:00.jpg"
-     alt="Santa Cruz Sentinel at 2022-08-29 09:15:59-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-29T09:15:54.735415-07:00.jpg">August 29 at 9:15 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-28T21:40:38.432091-07:00.jpg">
-  <img src="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-28T21:40:38.432091-07:00.jpg"
-     alt="Santa Cruz Sentinel at 2022-08-28 21:40:42-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-28T21:40:38.432091-07:00.jpg">August 28 at 9:40 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-28T09:02:29.266057-07:00.jpg">
-  <img src="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-28T09:02:29.266057-07:00.jpg"
-     alt="Santa Cruz Sentinel at 2022-08-28 09:02:33-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-28T09:02:29.266057-07:00.jpg">August 28 at 9:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-27T21:37:01.503267-07:00.jpg">
-  <img src="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-27T21:37:01.503267-07:00.jpg"
-     alt="Santa Cruz Sentinel at 2022-08-27 21:37:03-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-27T21:37:01.503267-07:00.jpg">August 27 at 9:37 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 117 hyperlink lists with the Internet Archive.
+The archiving routine has saved 122 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 4 at 9:53 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-09-04T21:52:59.690575-07:00.hyperlinks.json) |
+| [September 4 at 9:45 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-09-04T09:45:21.206411-07:00.hyperlinks.json) |
+| [September 3 at 9:41 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-09-03T21:41:17.757664-07:00.hyperlinks.json) |
+| [September 3 at 9:03 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-09-03T09:03:40.778210-07:00.hyperlinks.json) |
+| [September 2 at 9:43 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-09-02T21:43:02.869704-07:00.hyperlinks.json) |
 | [September 2 at 9:16 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-09-02T09:16:16.663907-07:00.hyperlinks.json) |
 | [September 1 at 9:48 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-09-01T21:48:28.990015-07:00.hyperlinks.json) |
 | [September 1 at 9:40 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-09-01T09:40:13.657270-07:00.hyperlinks.json) |
 | [August 31 at 9:43 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-31T21:43:39.801296-07:00.hyperlinks.json) |
 | [August 31 at 9:12 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-31T09:12:41.344914-07:00.hyperlinks.json) |
-| [August 30 at 9:51 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-30T21:51:39.643366-07:00.hyperlinks.json) |
-| [August 30 at 9:35 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-30T09:35:14.753686-07:00.hyperlinks.json) |
-| [August 29 at 9:56 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-29T21:56:16.588351-07:00.hyperlinks.json) |
-| [August 29 at 9:16 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-29T09:15:54.735415-07:00.hyperlinks.json) |
-| [August 28 at 9:40 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-28T21:40:38.432091-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 120 accessibility trees with the Internet Archive.
+The archiving routine has saved 125 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 4 at 9:53 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-09-04T21:52:59.690575-07:00.accessibility.json) |
+| [September 4 at 9:45 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-09-04T09:45:21.206411-07:00.accessibility.json) |
+| [September 3 at 9:41 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-09-03T21:41:17.757664-07:00.accessibility.json) |
+| [September 3 at 9:03 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-09-03T09:03:40.778210-07:00.accessibility.json) |
+| [September 2 at 9:43 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-09-02T21:43:02.869704-07:00.accessibility.json) |
 | [September 2 at 9:16 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-09-02T09:16:16.663907-07:00.accessibility.json) |
 | [September 1 at 9:48 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-09-01T21:48:28.990015-07:00.accessibility.json) |
 | [September 1 at 9:40 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-09-01T09:40:13.657270-07:00.accessibility.json) |
 | [August 31 at 9:43 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-31T21:43:39.801296-07:00.accessibility.json) |
 | [August 31 at 9:12 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-31T09:12:41.344914-07:00.accessibility.json) |
-| [August 30 at 9:51 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-30T21:51:39.643366-07:00.accessibility.json) |
-| [August 30 at 9:35 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-30T09:35:14.753686-07:00.accessibility.json) |
-| [August 29 at 9:56 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-29T21:56:16.588351-07:00.accessibility.json) |
-| [August 29 at 9:16 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-29T09:15:54.735415-07:00.accessibility.json) |
-| [August 28 at 9:40 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-28T21:40:38.432091-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 82 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 87 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 4 at 9:53 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-09-04T21:52:59.690575-07:00.lighthouse.json) |
+| [September 4 at 9:45 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-09-04T09:45:21.206411-07:00.lighthouse.json) |
+| [September 3 at 9:41 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-09-03T21:41:17.757664-07:00.lighthouse.json) |
+| [September 3 at 9:03 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-09-03T09:03:40.778210-07:00.lighthouse.json) |
+| [September 2 at 9:43 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-09-02T21:43:02.869704-07:00.lighthouse.json) |
 | [September 2 at 9:16 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-09-02T09:16:16.663907-07:00.lighthouse.json) |
 | [September 1 at 9:49 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-09-01T21:48:28.990015-07:00.lighthouse.json) |
 | [September 1 at 9:40 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-09-01T09:40:13.657270-07:00.lighthouse.json) |
 | [August 31 at 9:43 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-31T21:43:39.801296-07:00.lighthouse.json) |
 | [August 31 at 9:12 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-31T09:12:41.344914-07:00.lighthouse.json) |
-| [August 30 at 9:51 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-30T21:51:39.643366-07:00.lighthouse.json) |
-| [August 30 at 9:35 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-30T09:35:14.753686-07:00.lighthouse.json) |
-| [August 29 at 9:56 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-29T21:56:16.588351-07:00.lighthouse.json) |
-| [August 29 at 9:16 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-29T09:15:54.735415-07:00.lighthouse.json) |
-| [August 28 at 9:40 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-28T21:40:38.432091-07:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 229 screenshots with the Internet Archive.
+The archiving routine has saved 230 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 229 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-05T00:57:04.527862-04:00.jpg">
+  <img src="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-05T00:57:04.527862-04:00.jpg"
+     alt="Washington Post at 2022-09-05 00:57:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-05T00:57:04.527862-04:00.jpg">September 5 at 12:57 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-04T17:23:55.515114-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-02T09:09:34.830292-04:00.jpg">September 2 at 9:09 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-02T00:52:23.384777-04:00.jpg">
-  <img src="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-02T00:52:23.384777-04:00.jpg"
-     alt="Washington Post at 2022-09-02 00:52:28-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-02T00:52:23.384777-04:00.jpg">September 2 at 12:52 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 228 hyperlink lists with the Internet Archive.
+The archiving routine has saved 229 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 5 at 12:57 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-05T00:57:04.527862-04:00.hyperlinks.json) |
 | [September 4 at 5:24 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-04T17:23:55.515114-04:00.hyperlinks.json) |
 | [September 4 at 12:49 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-04T12:49:05.678177-04:00.hyperlinks.json) |
 | [September 4 at 9:01 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-04T09:01:40.624428-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 3 at 9:05 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-03T09:05:07.686687-04:00.hyperlinks.json) |
 | [September 3 at 12:45 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-03T00:45:30.228273-04:00.hyperlinks.json) |
 | [September 2 at 5:16 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-02T17:16:49.658799-04:00.hyperlinks.json) |
-| [September 2 at 12:20 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-02T12:20:15.081552-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 217 accessibility trees with the Internet Archive.
+The archiving routine has saved 218 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 5 at 12:57 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-05T00:57:04.527862-04:00.accessibility.json) |
 | [September 4 at 5:24 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-04T17:23:55.515114-04:00.accessibility.json) |
 | [September 4 at 12:49 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-04T12:49:05.678177-04:00.accessibility.json) |
 | [September 4 at 9:01 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-04T09:01:40.624428-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 3 at 9:05 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-03T09:05:07.686687-04:00.accessibility.json) |
 | [September 3 at 12:45 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-03T00:45:30.228273-04:00.accessibility.json) |
 | [September 2 at 5:16 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-02T17:16:49.658799-04:00.accessibility.json) |
-| [September 2 at 12:20 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-02T12:20:15.081552-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 169 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 170 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 12:57 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-05T00:57:04.527862-04:00.lighthouse.json) |
 | [September 4 at 5:24 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-04T17:23:55.515114-04:00.lighthouse.json) |
 | [September 4 at 12:49 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-04T12:49:05.678177-04:00.lighthouse.json) |
 | [September 4 at 9:01 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-04T09:01:40.624428-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 3 at 9:05 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-03T09:05:07.686687-04:00.lighthouse.json) |
 | [September 3 at 12:45 AM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-03T00:45:30.228273-04:00.lighthouse.json) |
 | [September 2 at 5:16 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-02T17:16:49.658799-04:00.lighthouse.json) |
-| [September 2 at 12:20 PM](https://archive.org/download/washingtonpost-2022/washingtonpost-2022-09-02T12:20:15.081552-04:00.lighthouse.json) |
 
 
 

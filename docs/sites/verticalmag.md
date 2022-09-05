@@ -234,13 +234,58 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 25 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-09-05T00:55:44.993717-04:00.jpg">
+  <img src="https://archive.org/download/verticalmag-2022/verticalmag-2022-09-05T00:55:44.993717-04:00.jpg"
+     alt="Vertical at 2022-09-05 00:55:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-09-05T00:55:44.993717-04:00.jpg">September 5 at 12:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-09-04T12:49:09.928250-04:00.jpg">
+  <img src="https://archive.org/download/verticalmag-2022/verticalmag-2022-09-04T12:49:09.928250-04:00.jpg"
+     alt="Vertical at 2022-09-04 12:49:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-09-04T12:49:09.928250-04:00.jpg">September 4 at 12:49 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-09-04T00:45:18.904905-04:00.jpg">
+  <img src="https://archive.org/download/verticalmag-2022/verticalmag-2022-09-04T00:45:18.904905-04:00.jpg"
+     alt="Vertical at 2022-09-04 00:45:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-09-04T00:45:18.904905-04:00.jpg">September 4 at 12:45 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-09-03T12:05:39.665592-04:00.jpg">
+  <img src="https://archive.org/download/verticalmag-2022/verticalmag-2022-09-03T12:05:39.665592-04:00.jpg"
+     alt="Vertical at 2022-09-03 12:05:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-09-03T12:05:39.665592-04:00.jpg">September 3 at 12:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-09-03T00:46:01.085163-04:00.jpg">
+  <img src="https://archive.org/download/verticalmag-2022/verticalmag-2022-09-03T00:46:01.085163-04:00.jpg"
+     alt="Vertical at 2022-09-03 00:46:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-09-03T00:46:01.085163-04:00.jpg">September 3 at 12:46 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-09-02T12:20:38.008969-04:00.jpg">
@@ -305,56 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-08-30T12:38:28.133063-04:00.jpg">August 30 at 12:38 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-08-30T00:59:13.644765-04:00.jpg">
-  <img src="https://archive.org/download/verticalmag-2022/verticalmag-2022-08-30T00:59:13.644765-04:00.jpg"
-     alt="Vertical at 2022-08-30 00:59:15-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-08-30T00:59:13.644765-04:00.jpg">August 30 at 12:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-08-29T12:19:39.561960-04:00.jpg">
-  <img src="https://archive.org/download/verticalmag-2022/verticalmag-2022-08-29T12:19:39.561960-04:00.jpg"
-     alt="Vertical at 2022-08-29 12:19:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-08-29T12:19:39.561960-04:00.jpg">August 29 at 12:19 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-08-29T00:43:30.242210-04:00.jpg">
-  <img src="https://archive.org/download/verticalmag-2022/verticalmag-2022-08-29T00:43:30.242210-04:00.jpg"
-     alt="Vertical at 2022-08-29 00:43:31-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-08-29T00:43:30.242210-04:00.jpg">August 29 at 12:43 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-08-28T12:04:47.244606-04:00.jpg">
-  <img src="https://archive.org/download/verticalmag-2022/verticalmag-2022-08-28T12:04:47.244606-04:00.jpg"
-     alt="Vertical at 2022-08-28 12:04:51-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-08-28T12:04:47.244606-04:00.jpg">August 28 at 12:04 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-08-28T00:39:33.064297-04:00.jpg">
-  <img src="https://archive.org/download/verticalmag-2022/verticalmag-2022-08-28T00:39:33.064297-04:00.jpg"
-     alt="Vertical at 2022-08-28 00:39:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-08-28T00:39:33.064297-04:00.jpg">August 28 at 12:39 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 25 hyperlink lists with the Internet Archive.
+The archiving routine has saved 30 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,21 +362,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 5 at 12:55 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-05T00:55:44.993717-04:00.hyperlinks.json) |
+| [September 4 at 12:49 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-04T12:49:09.928250-04:00.hyperlinks.json) |
+| [September 4 at 12:45 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-04T00:45:18.904905-04:00.hyperlinks.json) |
+| [September 3 at 12:05 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-03T12:05:39.665592-04:00.hyperlinks.json) |
+| [September 3 at 12:46 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-03T00:46:01.085163-04:00.hyperlinks.json) |
 | [September 2 at 12:20 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-02T12:20:38.008969-04:00.hyperlinks.json) |
 | [September 2 at 12:52 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-02T00:52:13.706817-04:00.hyperlinks.json) |
 | [September 1 at 12:42 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-01T12:42:48.781685-04:00.hyperlinks.json) |
 | [September 1 at 12:46 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-01T00:46:25.023525-04:00.hyperlinks.json) |
 | [August 31 at 12:15 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-08-31T12:14:54.418639-04:00.hyperlinks.json) |
-| [August 31 at 12:54 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-08-31T00:54:42.629238-04:00.hyperlinks.json) |
-| [August 30 at 12:38 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-08-30T12:38:28.133063-04:00.hyperlinks.json) |
-| [August 30 at 12:59 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-08-30T00:59:13.644765-04:00.hyperlinks.json) |
-| [August 29 at 12:19 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-08-29T12:19:39.561960-04:00.hyperlinks.json) |
-| [August 29 at 12:43 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-08-29T00:43:30.242210-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 25 accessibility trees with the Internet Archive.
+The archiving routine has saved 30 accessibility trees with the Internet Archive.
 
 
 
@@ -384,22 +384,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 5 at 12:55 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-05T00:55:44.993717-04:00.accessibility.json) |
+| [September 4 at 12:49 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-04T12:49:09.928250-04:00.accessibility.json) |
+| [September 4 at 12:45 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-04T00:45:18.904905-04:00.accessibility.json) |
+| [September 3 at 12:05 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-03T12:05:39.665592-04:00.accessibility.json) |
+| [September 3 at 12:46 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-03T00:46:01.085163-04:00.accessibility.json) |
 | [September 2 at 12:20 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-02T12:20:38.008969-04:00.accessibility.json) |
 | [September 2 at 12:52 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-02T00:52:13.706817-04:00.accessibility.json) |
 | [September 1 at 12:42 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-01T12:42:48.781685-04:00.accessibility.json) |
 | [September 1 at 12:46 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-01T00:46:25.023525-04:00.accessibility.json) |
 | [August 31 at 12:15 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-08-31T12:14:54.418639-04:00.accessibility.json) |
-| [August 31 at 12:54 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-08-31T00:54:42.629238-04:00.accessibility.json) |
-| [August 30 at 12:38 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-08-30T12:38:28.133063-04:00.accessibility.json) |
-| [August 30 at 12:59 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-08-30T00:59:13.644765-04:00.accessibility.json) |
-| [August 29 at 12:19 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-08-29T12:19:39.561960-04:00.accessibility.json) |
-| [August 29 at 12:43 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-08-29T00:43:30.242210-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,16 +407,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 12:55 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-05T00:55:44.993717-04:00.lighthouse.json) |
+| [September 4 at 12:49 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-04T12:49:09.928250-04:00.lighthouse.json) |
+| [September 4 at 12:45 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-04T00:45:18.904905-04:00.lighthouse.json) |
+| [September 3 at 12:05 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-03T12:05:39.665592-04:00.lighthouse.json) |
+| [September 3 at 12:46 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-03T00:46:01.085163-04:00.lighthouse.json) |
 | [September 2 at 12:20 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-02T12:20:38.008969-04:00.lighthouse.json) |
 | [September 2 at 12:52 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-02T00:52:13.706817-04:00.lighthouse.json) |
 | [September 1 at 12:42 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-01T12:42:48.781685-04:00.lighthouse.json) |
 | [September 1 at 12:46 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-01T00:46:25.023525-04:00.lighthouse.json) |
 | [August 31 at 12:15 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-08-31T12:14:54.418639-04:00.lighthouse.json) |
-| [August 31 at 12:54 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-08-31T00:54:42.629238-04:00.lighthouse.json) |
-| [August 30 at 12:38 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-08-30T12:38:28.133063-04:00.lighthouse.json) |
-| [August 30 at 12:59 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-08-30T00:59:13.644765-04:00.lighthouse.json) |
-| [August 29 at 12:19 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-08-29T12:19:39.561960-04:00.lighthouse.json) |
-| [August 29 at 12:43 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-08-29T00:43:30.242210-04:00.lighthouse.json) |
 
 
 
