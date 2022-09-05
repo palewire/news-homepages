@@ -542,7 +542,7 @@ Here are the 10 most recent hyperlink lists.
 
 ### Accessibility
 
-The archiving routine has saved 393 accessibility trees with the Internet Archive.
+The archiving routine has saved 394 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 5 at 5:20 AM](https://archive.org/download/knockdotla-2022/knockdotla-2022-09-05T05:20:38.097785-07:00.accessibility.json) |
 | [September 4 at 4:54 PM](https://archive.org/download/knockdotla-2022/knockdotla-2022-09-04T16:54:21.249936-07:00.accessibility.json) |
 | [September 4 at 4:56 AM](https://archive.org/download/knockdotla-2022/knockdotla-2022-09-04T04:56:02.011455-07:00.accessibility.json) |
 | [September 3 at 4:48 PM](https://archive.org/download/knockdotla-2022/knockdotla-2022-09-03T16:48:17.083506-07:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 2 at 11:33 AM](https://archive.org/download/knockdotla-2022/knockdotla-2022-09-02T11:33:37.062984-07:00.accessibility.json) |
 | [September 2 at 5:03 AM](https://archive.org/download/knockdotla-2022/knockdotla-2022-09-02T05:02:45.890615-07:00.accessibility.json) |
 | [September 1 at 4:59 PM](https://archive.org/download/knockdotla-2022/knockdotla-2022-09-01T16:59:28.529187-07:00.accessibility.json) |
-| [September 1 at 11:33 AM](https://archive.org/download/knockdotla-2022/knockdotla-2022-09-01T11:33:08.541618-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 127 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 128 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 5:20 AM](https://archive.org/download/knockdotla-2022/knockdotla-2022-09-05T05:20:38.097785-07:00.lighthouse.json) |
 | [September 4 at 4:54 PM](https://archive.org/download/knockdotla-2022/knockdotla-2022-09-04T16:54:21.249936-07:00.lighthouse.json) |
 | [September 4 at 4:56 AM](https://archive.org/download/knockdotla-2022/knockdotla-2022-09-04T04:56:02.011455-07:00.lighthouse.json) |
 | [September 3 at 4:48 PM](https://archive.org/download/knockdotla-2022/knockdotla-2022-09-03T16:48:17.083506-07:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 2 at 11:33 AM](https://archive.org/download/knockdotla-2022/knockdotla-2022-09-02T11:33:37.062984-07:00.lighthouse.json) |
 | [September 2 at 5:03 AM](https://archive.org/download/knockdotla-2022/knockdotla-2022-09-02T05:02:45.890615-07:00.lighthouse.json) |
 | [September 1 at 4:59 PM](https://archive.org/download/knockdotla-2022/knockdotla-2022-09-01T16:59:28.529187-07:00.lighthouse.json) |
-| [September 1 at 11:33 AM](https://archive.org/download/knockdotla-2022/knockdotla-2022-09-01T11:33:08.541618-07:00.lighthouse.json) |
 
 
 
