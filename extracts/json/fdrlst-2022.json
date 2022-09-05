@@ -1,13 +1,8 @@
 {
-  "created": 1662379664,
+  "created": 1662403168,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/31/items/fdrlst-2022",
-  "fdrlst-2022": {
-    "url": "https://thefederalist.com/",
-    "job_id": "spn2-d5318ba095687c1a15b300a7aff83d5042806728",
-    "message": "The same snapshot had been made 28 minutes, 41 seconds ago. You can make new capture of this URL after 45 minutes."
-  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -8447,31 +8442,82 @@
       "sha1": "b081a64709b766c3643c6cd9ab00f508df93c4c7"
     },
     {
+      "name": "fdrlst-2022-09-05T14:36:40.127840-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662403007",
+      "size": "31638",
+      "md5": "f872ecd52f116c0d44e95c1acf84932e",
+      "crc32": "3662ebd1",
+      "sha1": "b0bd29a8381454dd3a7bb545f6c2ca9ee20d5c11",
+      "format": "JSON"
+    },
+    {
+      "name": "fdrlst-2022-09-05T14:36:40.127840-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662403009",
+      "size": "43506",
+      "md5": "b9d327df5593d63e9bbb04838977c0d4",
+      "crc32": "1f1c329c",
+      "sha1": "508dd76bf31f077cd5d2251fb4d9c697f4f7d8d9",
+      "format": "JSON"
+    },
+    {
+      "name": "fdrlst-2022-09-05T14:36:40.127840-04:00.jpg",
+      "source": "original",
+      "mtime": "1662403005",
+      "size": "235997",
+      "md5": "843ddb5d610801524f5ef73934b6ef99",
+      "crc32": "1d465406",
+      "sha1": "7e402dccbe223b8f7635719f10973c3d3858fa60",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fdrlst-2022-09-05T14:36:40.127840-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662403011",
+      "size": "1477",
+      "md5": "8401ea30d44607c87a559532017b03dc",
+      "crc32": "61f778af",
+      "sha1": "d6cbf500f2113be7a32eb929f9a692c3105867c1",
+      "format": "JSON"
+    },
+    {
+      "name": "fdrlst-2022-09-05T14:36:40.127840-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662403015",
+      "size": "233",
+      "md5": "5b4f02b55a4b444b279a542c6180af4f",
+      "crc32": "4157eb04",
+      "sha1": "5e9b120270d4c53ba54f1d371fbd614c23fe9759",
+      "format": "JSON"
+    },
+    {
       "name": "fdrlst-2022_archive.torrent",
       "source": "metadata",
-      "btih": "01c809367d806a5eb7745f6d74b83f1c9e717c8d",
-      "mtime": "1662375916",
-      "size": "170721",
-      "md5": "98a56fe5cb327f7127349711e9cacfbf",
-      "crc32": "bf9a3a94",
-      "sha1": "b333267943da13d66b38b0304e79815986822c0f",
+      "btih": "50ed52d8f843791f6120c630a5190dabaf256de2",
+      "mtime": "1662403162",
+      "size": "171772",
+      "md5": "90a4dec24c52ccf0d757ca5f658c15ef",
+      "crc32": "0b58c0e4",
+      "sha1": "2047813fb8152a4a38f9376d7a257bceb9c973e0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fdrlst-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4fb43832435da2b7ca72cbab984da99c",
+      "md5": "09da9bae634378da4930f38fb8f8cefb",
       "summation": "md5"
     },
     {
       "name": "fdrlst-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662375853",
-      "size": "1028096",
-      "md5": "d53af7b88ee6cf6cf08b120be4dcf520",
-      "crc32": "bda0dad7",
-      "sha1": "2480a1b8168748239602ffdd9c65776e5f45c08c",
+      "mtime": "1662403118",
+      "size": "1036288",
+      "md5": "55aee2ddf9cfb5a8f880844d796f3710",
+      "crc32": "cddf69e5",
+      "sha1": "4233d33646b6ef846732b92ed5f38e67d3cd0300",
       "format": "Metadata"
     },
     {
@@ -8485,9 +8531,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 818,
-  "item_last_updated": 1662375916,
-  "item_size": 49291947,
+  "files_count": 823,
+  "item_last_updated": 1662403162,
+  "item_size": 49614041,
   "metadata": {
     "identifier": "fdrlst-2022",
     "collection": [
@@ -8504,10 +8550,29 @@
     "publicdate": "2022-07-17 15:03:19",
     "addeddate": "2022-07-17 15:03:19"
   },
+  "pending_tasks": true,
   "server": "ia902500.us.archive.org",
-  "uniq": 1597735647,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3394575323,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3394576746,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1686773528,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia902500.us.archive.org"
   ]
 }
