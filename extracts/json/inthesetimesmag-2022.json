@@ -1,5 +1,5 @@
 {
-  "created": 1662349479,
+  "created": 1662394635,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/5/items/inthesetimesmag-2022",
@@ -8950,31 +8950,93 @@
       "sha1": "29d3c1b646e7ae823446411e48b8e4dcb1d5ab00"
     },
     {
+      "name": "inthesetimesmag-2022-09-05T11:15:32.935657-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662394542",
+      "size": "11851",
+      "md5": "804dac84ee38155fa6ef8fba51938d36",
+      "crc32": "52be257a",
+      "sha1": "01d46d5723bffe26ac7990dae2df4c59a11269e9",
+      "format": "JSON"
+    },
+    {
+      "name": "inthesetimesmag-2022-09-05T11:15:32.935657-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662394544",
+      "size": "10500",
+      "md5": "dd5f89781bfecd29113c07afdaed7404",
+      "crc32": "b9c28922",
+      "sha1": "9e0a8c0281a36efe409316736b7203e01ef6cc60",
+      "format": "JSON"
+    },
+    {
+      "name": "inthesetimesmag-2022-09-05T11:15:32.935657-05:00.jpg",
+      "source": "original",
+      "mtime": "1662394537",
+      "size": "276418",
+      "md5": "7e182f965e650e123287f5b9a3b3884c",
+      "crc32": "ca9bf677",
+      "sha1": "945f065206eeb05868b9dd84078132d10cfeee49",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "inthesetimesmag-2022-09-05T11:15:32.935657-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662394546",
+      "size": "1477",
+      "md5": "0aaa301331ffff31a120b612d9aef850",
+      "crc32": "2ea6b338",
+      "sha1": "b9df333c1e049751a3e74d31adf0834529f00537",
+      "format": "JSON"
+    },
+    {
+      "name": "inthesetimesmag-2022-09-05T11:15:32.935657-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662394548",
+      "size": "8574",
+      "md5": "2359c66c42cb408ab004fd05c71cf876",
+      "crc32": "4aadef10",
+      "sha1": "0508b5d77b60e15d89b9e1539f81700c21654132",
+      "format": "JSON"
+    },
+    {
+      "name": "inthesetimesmag-2022-09-05T11:15:32.935657-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "inthesetimesmag-2022-09-05T11:15:32.935657-05:00.jpg",
+      "mtime": "1662394609",
+      "size": "10414",
+      "md5": "cc8d348d46262895765ab7471feef47d",
+      "crc32": "93a3768c",
+      "sha1": "29d3c1b646e7ae823446411e48b8e4dcb1d5ab00"
+    },
+    {
       "name": "inthesetimesmag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "368088e8bfb1d1805e0237f3353ec62af86c9ce9",
-      "mtime": "1662349472",
-      "size": "188424",
-      "md5": "4e39bb050b7fd0da9621b348d556e32a",
-      "crc32": "bfae5b1b",
-      "sha1": "0965afad13074a35e12d411dabda90bbd139029d",
+      "btih": "496e8231baeeb90439a642b9468626dd0b2d32cb",
+      "mtime": "1662394623",
+      "size": "189733",
+      "md5": "9152f38b547e519da14a98309f79f4f3",
+      "crc32": "1034bf04",
+      "sha1": "cdef56e052bdac5fdc9e6399e834d6e9f7da6831",
       "format": "Archive BitTorrent"
     },
     {
       "name": "inthesetimesmag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bcdb013b7f03b88438238583b67485c3",
+      "md5": "7ffb5c3f129c4e9103539497aa59a5be",
       "summation": "md5"
     },
     {
       "name": "inthesetimesmag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662349405",
-      "size": "1089536",
-      "md5": "38cb422bfd08d44f0443e3b17978255a",
-      "crc32": "22c817bd",
-      "sha1": "e3f05aa7a1413057bcdce01bafd1fe0e81074a88",
+      "mtime": "1662394553",
+      "size": "1101824",
+      "md5": "3e56720027b29313bf025ea345119d1c",
+      "crc32": "11789f0d",
+      "sha1": "9c8084be9fcecb752f7ac9cb2fa9cc499f430804",
       "format": "Metadata"
     },
     {
@@ -8988,9 +9050,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 866,
-  "item_last_updated": 1662349472,
-  "item_size": 50812297,
+  "files_count": 872,
+  "item_last_updated": 1662394623,
+  "item_size": 51145128,
   "metadata": {
     "identifier": "inthesetimesmag-2022",
     "collection": [
@@ -9007,10 +9069,53 @@
     "publicdate": "2022-07-09 04:00:31",
     "addeddate": "2022-07-09 04:00:31"
   },
+  "pending_tasks": true,
   "server": "ia902500.us.archive.org",
-  "uniq": 2131756328,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3394573164,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3394573200,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3394573238,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3394573276,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3394573310,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 708764009,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia902500.us.archive.org"
   ]
 }
