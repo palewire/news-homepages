@@ -1,5 +1,6 @@
 {
-  "created": 1662321906,
+  "conflict": 1662344604,
+  "created": 1662344604,
   "d1": "ia903007.us.archive.org",
   "d2": "ia803007.us.archive.org",
   "dir": "/16/items/latimes-2022",
@@ -34259,21 +34260,32 @@
       "format": "JSON"
     },
     {
+      "name": "latimes-2022-09-04T13:02:40.299808-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "latimes-2022-09-04T13:02:40.299808-07:00.jpg",
+      "mtime": "1662321924",
+      "size": "9044",
+      "md5": "4520b8b94a8d0f889ec411b529534d79",
+      "crc32": "9a79085e",
+      "sha1": "da1bad5bcaf199f1a9a4e9a62962c3a730050998"
+    },
+    {
       "name": "latimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ecaca5c172854db24d1a20b000e39658e55e841d",
-      "mtime": "1662321894",
-      "size": "689556",
-      "md5": "2fd0d0849d3ce91b39fe916cde8753aa",
-      "crc32": "2da4e458",
-      "sha1": "a5e492990d0f279730cff60ccdd36abf3b408910",
+      "btih": "32e820f5509e8af1cfcc9a0f2099acb5a0ff9fd6",
+      "mtime": "1662322009",
+      "size": "689759",
+      "md5": "50fa78d19ddbd3f8b89d1d29cdb92c07",
+      "crc32": "99b4b152",
+      "sha1": "cbe6d60b1c3b1660a33540b29e66171e618941a3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "latimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "75b43c0fc1dd879249ad2fe75ff3ab8a",
+      "md5": "202a4b0f5761687a7ba9b35b884d341c",
       "summation": "md5"
     },
     {
@@ -34297,9 +34309,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 3283,
-  "item_last_updated": 1662321894,
-  "item_size": 307412678,
+  "files_count": 3284,
+  "item_last_updated": 1662322009,
+  "item_size": 307421925,
   "metadata": {
     "identifier": "latimes-2022",
     "collection": [
@@ -34321,15 +34333,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3393781676,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3393987528,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     }
   ],
-  "uniq": 988194862,
+  "uniq": 1811709412,
   "workable_servers": [
     "ia903007.us.archive.org"
   ]
