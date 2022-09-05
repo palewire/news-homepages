@@ -1,5 +1,5 @@
 {
-  "created": 1662375827,
+  "created": 1662419024,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/22/items/coloradosun-2022",
@@ -2908,31 +2908,93 @@
       "sha1": "41b68b93b9cb136b8eb62696d57d429f06320b21"
     },
     {
+      "name": "coloradosun-2022-09-05T17:02:20.429571-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662418948",
+      "size": "28139",
+      "md5": "687e83399bc7a3faf69fec54284b685d",
+      "crc32": "9f3ab6c2",
+      "sha1": "48ed1d0af911e2ab55d103ac36c6b68a520150d9",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradosun-2022-09-05T17:02:20.429571-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662418951",
+      "size": "42369",
+      "md5": "884a8f2072bcd323729af02b98911f0e",
+      "crc32": "b89b5e02",
+      "sha1": "a7d8bc18fdcaaffc935fac7e7663b1e635a93d97",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradosun-2022-09-05T17:02:20.429571-06:00.jpg",
+      "source": "original",
+      "mtime": "1662418945",
+      "size": "264073",
+      "md5": "9507f3d758b3c7427454f62cd40a38ef",
+      "crc32": "d65ec995",
+      "sha1": "f7362615fa6c14ad296d1ab2d24b3fe7c48d0a9e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coloradosun-2022-09-05T17:02:20.429571-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662418953",
+      "size": "1468",
+      "md5": "70f3c165258928c85f510ebf962a153a",
+      "crc32": "64bede46",
+      "sha1": "ea1b43300aeb46e32a7e141bbd92a2f33d83e033",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradosun-2022-09-05T17:02:20.429571-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1662418955",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradosun-2022-09-05T17:02:20.429571-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coloradosun-2022-09-05T17:02:20.429571-06:00.jpg",
+      "mtime": "1662419013",
+      "size": "10192",
+      "md5": "6e652376fe822dde77a69e7627e2e2f0",
+      "crc32": "f54d7593",
+      "sha1": "192aa9cea7e234d79328030e7a18d6acb96cf5c9"
+    },
+    {
       "name": "coloradosun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ece1d61999254586e327ac10bf74fb56b0609f35",
-      "mtime": "1662375816",
-      "size": "61332",
-      "md5": "611e29a42fba64b89de533298771af46",
-      "crc32": "dc3a6c3b",
-      "sha1": "4a2244c2e4a4b21f0ff35268936f7a69f07a0bdc",
+      "btih": "f92f44de2dc5610ffe1eab05d4b0cdf53cb55ebc",
+      "mtime": "1662419016",
+      "size": "62616",
+      "md5": "8d4533423ae78354ace58705a45be507",
+      "crc32": "f601625c",
+      "sha1": "d0913fce82a5076fc834b9d70dc14984c4bcbd94",
       "format": "Archive BitTorrent"
     },
     {
       "name": "coloradosun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9a90fb7bacc8d8c5df1b27f3da71a354",
+      "md5": "139f8c38867af3d49fc2002da26f36e2",
       "summation": "md5"
     },
     {
       "name": "coloradosun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662375766",
-      "size": "376832",
-      "md5": "844e0850507f9788d53c5dd4908edd23",
-      "crc32": "f0fbda60",
-      "sha1": "72cd04ed350dfad8592860b270710a8e5bdbe314",
+      "mtime": "1662418961",
+      "size": "385024",
+      "md5": "2847064409c7c2ff8703cc05ed6abc59",
+      "crc32": "9be822b4",
+      "sha1": "38edc60edc680c8b3ea411f71b1e805e27724837",
       "format": "Metadata"
     },
     {
@@ -2946,9 +3008,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 285,
-  "item_last_updated": 1662375816,
-  "item_size": 17710308,
+  "files_count": 291,
+  "item_last_updated": 1662419016,
+  "item_size": 18066227,
   "metadata": {
     "identifier": "coloradosun-2022",
     "collection": [
@@ -2965,10 +3027,10 @@
     "publicdate": "2022-08-13 23:50:43",
     "addeddate": "2022-08-13 23:50:43"
   },
-  "server": "ia601504.us.archive.org",
-  "uniq": 801483669,
+  "server": "ia801504.us.archive.org",
+  "uniq": 185641096,
   "workable_servers": [
-    "ia601504.us.archive.org",
-    "ia801504.us.archive.org"
+    "ia801504.us.archive.org",
+    "ia601504.us.archive.org"
   ]
 }

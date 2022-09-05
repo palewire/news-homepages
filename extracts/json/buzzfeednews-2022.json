@@ -1,5 +1,5 @@
 {
-  "created": 1662375762,
+  "created": 1662418958,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/4/items/buzzfeednews-2022",
@@ -9274,31 +9274,93 @@
       "sha1": "15ca1e12f16ea3a8e3d3988ae3aaec5087aad1ab"
     },
     {
+      "name": "buzzfeednews-2022-09-05T19:00:46.835179-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662418849",
+      "size": "29610",
+      "md5": "09a7a7eab84641a2e3cd0dba6248d7e3",
+      "crc32": "6a9ae9fc",
+      "sha1": "a611007dc3addaaa6e1a76c5cc581cec12e09da3",
+      "format": "JSON"
+    },
+    {
+      "name": "buzzfeednews-2022-09-05T19:00:46.835179-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662418851",
+      "size": "42413",
+      "md5": "e78db9967ba316881e6605013592b1f0",
+      "crc32": "7cf0e76b",
+      "sha1": "b6d8a8de4d83c2842412eb8a20b477aa655fd49d",
+      "format": "JSON"
+    },
+    {
+      "name": "buzzfeednews-2022-09-05T19:00:46.835179-04:00.jpg",
+      "source": "original",
+      "mtime": "1662418848",
+      "size": "347397",
+      "md5": "2cc3d03f5ff09f573ee89ea550c01301",
+      "crc32": "fbb3a577",
+      "sha1": "aa944fb1b21a0df696d8ba022385fd728c49f5cc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "buzzfeednews-2022-09-05T19:00:46.835179-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662418853",
+      "size": "1504",
+      "md5": "e65707e85922e6812acc4f90d3066b05",
+      "crc32": "ebaa21a0",
+      "sha1": "5015b36862b3f269a57fd6644f666eed1a1187e1",
+      "format": "JSON"
+    },
+    {
+      "name": "buzzfeednews-2022-09-05T19:00:46.835179-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662418854",
+      "size": "236",
+      "md5": "617b71f6f4ff89fec0c49d6354ac59ed",
+      "crc32": "b99d44f5",
+      "sha1": "c1f25654bc3a804a4e5faa6c4321a146d16cff6d",
+      "format": "JSON"
+    },
+    {
+      "name": "buzzfeednews-2022-09-05T19:00:46.835179-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "buzzfeednews-2022-09-05T19:00:46.835179-04:00.jpg",
+      "mtime": "1662418923",
+      "size": "10321",
+      "md5": "224136aa1d4b1ac345d2129a7b99aa89",
+      "crc32": "c15b9caa",
+      "sha1": "7d3d3b87f30d00ecf19f8146de07b9ab5ca6889d"
+    },
+    {
       "name": "buzzfeednews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7d809bb7bed0dfd1831bdcae4f5dc32cac898651",
-      "mtime": "1662375741",
-      "size": "192871",
-      "md5": "8210d116b482525b93ea9d71325bb56d",
-      "crc32": "ec69a1b8",
-      "sha1": "fdc2718d23d54c1c23517611dc45b4ba08d4a064",
+      "btih": "afeb9e8abc4d1a8af4d8c7d553ca3311a2956a50",
+      "mtime": "1662418939",
+      "size": "194161",
+      "md5": "4f4a26d92aef1b2f066c6e3d68c8778b",
+      "crc32": "bb2c10e2",
+      "sha1": "7c304844c115b6db433f30e016114eba8fd8c617",
       "format": "Archive BitTorrent"
     },
     {
       "name": "buzzfeednews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9dc27f809ce54e548897a24d2ddbdda2",
+      "md5": "0c51547ef764b91f94c7dc7f8c3956e2",
       "summation": "md5"
     },
     {
       "name": "buzzfeednews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662375655",
-      "size": "1097728",
-      "md5": "cb28042f8db4e8b780332099fc878a34",
-      "crc32": "8770ff08",
-      "sha1": "514077ecc7fc8dac4b310527cd6037d4e6cc3ae3",
+      "mtime": "1662418867",
+      "size": "1105920",
+      "md5": "a8a494ce8a8a68e754100022a124fa4a",
+      "crc32": "b16fa26a",
+      "sha1": "734e158c2d70c3b716d30703199bec1ef85fefef",
       "format": "Metadata"
     },
     {
@@ -9312,9 +9374,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 894,
-  "item_last_updated": 1662375741,
-  "item_size": 78553047,
+  "files_count": 900,
+  "item_last_updated": 1662418939,
+  "item_size": 78994010,
   "metadata": {
     "identifier": "buzzfeednews-2022",
     "collection": [
@@ -9332,7 +9394,7 @@
     "addeddate": "2022-06-19 23:23:22"
   },
   "server": "ia801409.us.archive.org",
-  "uniq": 1817591084,
+  "uniq": 1076302284,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"

@@ -1,12 +1,7 @@
 {
-  "created": 1662379578,
+  "created": 1662419237,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
-  "deadspin-2022": {
-    "message": "This URL has been already captured 10 times today. Please try again tomorrow. Please email us at \"info@archive.org\" if you would like to discuss this more.",
-    "status": "error",
-    "status_ext": "error:too-many-daily-captures"
-  },
   "dir": "/33/items/deadspin-2022",
   "files": [
     {
@@ -6669,31 +6664,93 @@
       "sha1": "f69d17629cc79342a2c64a7dbbef45e0a010dc32"
     },
     {
+      "name": "deadspin-2022-09-05T19:04:39.690403-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662419086",
+      "size": "41166",
+      "md5": "112b62bdbaca4b6919e6b2bb5d30310a",
+      "crc32": "f4addbc3",
+      "sha1": "a82b558437173e739edd804c2b25bd1d84c13402",
+      "format": "JSON"
+    },
+    {
+      "name": "deadspin-2022-09-05T19:04:39.690403-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662419088",
+      "size": "18393",
+      "md5": "d3370275054cf564eccbb41dbcf2560f",
+      "crc32": "8730edc1",
+      "sha1": "e80dbd4d0b765a4dd43388a4aa646ac6d0f03fd9",
+      "format": "JSON"
+    },
+    {
+      "name": "deadspin-2022-09-05T19:04:39.690403-04:00.jpg",
+      "source": "original",
+      "mtime": "1662419084",
+      "size": "285131",
+      "md5": "e369401d17ed66afc21505c798f49ee3",
+      "crc32": "aec0675d",
+      "sha1": "316fb1f2b92ec65e56a278b4952d5ff545d87dc4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "deadspin-2022-09-05T19:04:39.690403-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662419090",
+      "size": "1441",
+      "md5": "c54aef778a787e75ad176080ec2c1acc",
+      "crc32": "c8c7272a",
+      "sha1": "1af37fc1157e982a9ff9a652a97eecadc1ba5951",
+      "format": "JSON"
+    },
+    {
+      "name": "deadspin-2022-09-05T19:04:39.690403-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662419095",
+      "size": "246",
+      "md5": "9b1c459305d22be4f348d9b51f103735",
+      "crc32": "eb1ec439",
+      "sha1": "9d7e3a787ae71345fc6d3ce63418403441d1644a",
+      "format": "JSON"
+    },
+    {
+      "name": "deadspin-2022-09-05T19:04:39.690403-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "deadspin-2022-09-05T19:04:39.690403-04:00.jpg",
+      "mtime": "1662419204",
+      "size": "10690",
+      "md5": "02cd02c2c5caa273a3e63885d2603808",
+      "crc32": "9f35559e",
+      "sha1": "86fbd625e65bf0c0a300339241b5946dd11329c6"
+    },
+    {
       "name": "deadspin-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d80ecd515125c30b62420a3e6fe66f94700ac092",
-      "mtime": "1662375942",
-      "size": "136248",
-      "md5": "353e63ba76385207d7265ec8eb10f708",
-      "crc32": "c559b372",
-      "sha1": "90232e93ca8773dfece7757d1a4d4cc8a0196e26",
+      "btih": "ff24ae4437b61baefb07611fbebcf19dac20604d",
+      "mtime": "1662419224",
+      "size": "137494",
+      "md5": "af669c32f0e51dc82aa8ca6833d64a01",
+      "crc32": "97503832",
+      "sha1": "3fa3620b1201f741cb5655a57eaec96c0e480cf8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "deadspin-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "301c13b2014735919510645559abc347",
+      "md5": "e14e86086512ca6ef731b1523565c081",
       "summation": "md5"
     },
     {
       "name": "deadspin-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662375882",
-      "size": "794624",
-      "md5": "cdddf70d1d7b7d9abe7e9cca513a13c2",
-      "crc32": "127e9591",
-      "sha1": "c92870c75e12f8738fd96133603e5f03623a6022",
+      "mtime": "1662419110",
+      "size": "802816",
+      "md5": "1985f56687e7fb2fc0bffa780a99276c",
+      "crc32": "58c73954",
+      "sha1": "330672ea89fd70e04666800fa6045ff9e77c6f55",
       "format": "Metadata"
     },
     {
@@ -6707,9 +6764,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 644,
-  "item_last_updated": 1662375942,
-  "item_size": 50605208,
+  "files_count": 650,
+  "item_last_updated": 1662419224,
+  "item_size": 50971713,
   "metadata": {
     "identifier": "deadspin-2022",
     "collection": [
@@ -6727,7 +6784,7 @@
     "addeddate": "2022-07-04 20:47:14"
   },
   "server": "ia902507.us.archive.org",
-  "uniq": 705353553,
+  "uniq": 95054365,
   "workable_servers": [
     "ia902507.us.archive.org",
     "ia802507.us.archive.org"

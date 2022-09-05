@@ -1,5 +1,10 @@
 {
-  "created": 1662375722,
+  "aug_chronicle-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1662421984,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/9/items/aug_chronicle-2022",
@@ -5528,31 +5533,93 @@
       "sha1": "4a858c5253e64e52df9c364ea6868ab743099159"
     },
     {
+      "name": "aug_chronicle-2022-09-05T19:00:24.362684-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662418836",
+      "size": "23242",
+      "md5": "24d7edab96dd6f8c75a7d80b7922b825",
+      "crc32": "aecb3a97",
+      "sha1": "7b39df4ff10a719911db4173b6aa034b90a0e229",
+      "format": "JSON"
+    },
+    {
+      "name": "aug_chronicle-2022-09-05T19:00:24.362684-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662418842",
+      "size": "40725",
+      "md5": "a5a46e54af6e016a49dda5df81518bf5",
+      "crc32": "3d69c980",
+      "sha1": "209ec9c4807560654113ca7d669f567e4aca55bd",
+      "format": "JSON"
+    },
+    {
+      "name": "aug_chronicle-2022-09-05T19:00:24.362684-04:00.jpg",
+      "source": "original",
+      "mtime": "1662418834",
+      "size": "232834",
+      "md5": "b08fbcfa664f4b6a27a2b82474ec1502",
+      "crc32": "a932d92a",
+      "sha1": "1a70c169ce064aa975cdc9884818f94ef29cb703",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aug_chronicle-2022-09-05T19:00:24.362684-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662418848",
+      "size": "1549",
+      "md5": "2a55eeb71a918f0b2ad6e191f43a0606",
+      "crc32": "0503dd74",
+      "sha1": "7b24b4ef6cd9ef23bc27e57c8a63678efb44f171",
+      "format": "JSON"
+    },
+    {
+      "name": "aug_chronicle-2022-09-05T19:00:24.362684-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662418849",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "aug_chronicle-2022-09-05T19:00:24.362684-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aug_chronicle-2022-09-05T19:00:24.362684-04:00.jpg",
+      "mtime": "1662418903",
+      "size": "8915",
+      "md5": "3d1babdd4e1a43122b3e016f91a6229c",
+      "crc32": "b82c5f5b",
+      "sha1": "06aa716f5a1b834ca98cd53769a17e868fd6997f"
+    },
+    {
       "name": "aug_chronicle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6e3ccadbbf08198d80dd0e1ce37009cdcead5ad9",
-      "mtime": "1662375714",
-      "size": "116205",
-      "md5": "c0e90b75bfdf4b81ce8a72f5133f6aa8",
-      "crc32": "ae696090",
-      "sha1": "bee3e426b89a5c31a910000697b47dba60ab8205",
+      "btih": "1770d48423ade053285eb4a0e2ea66c8ac4b5925",
+      "mtime": "1662418909",
+      "size": "117480",
+      "md5": "61c4238bd854d8f5ad429cce2849b4bb",
+      "crc32": "73c06de3",
+      "sha1": "cb05b1c4c9bb2be2c1e10b3a40ee198ef5a7002b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aug_chronicle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e58a5c645479e92f150039f7a5612c7c",
+      "md5": "482ae9e4df0cd2961c3abe0ee77d5af3",
       "summation": "md5"
     },
     {
       "name": "aug_chronicle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662375652",
-      "size": "688128",
-      "md5": "cbc05adcc19a9cadbd7a36dadcc3fcad",
-      "crc32": "d0124382",
-      "sha1": "5bd3617b520c8e670b5321b5466f36563923b978",
+      "mtime": "1662418854",
+      "size": "692224",
+      "md5": "d16da4b07306d17854fc25e9512e4493",
+      "crc32": "6bcaee03",
+      "sha1": "23eca36ea61c6b175ea13d7497c04599830c195d",
       "format": "Metadata"
     },
     {
@@ -5566,9 +5633,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 537,
-  "item_last_updated": 1662375714,
-  "item_size": 35843837,
+  "files_count": 543,
+  "item_last_updated": 1662418909,
+  "item_size": 36156675,
   "metadata": {
     "identifier": "aug_chronicle-2022",
     "collection": [
@@ -5586,7 +5653,7 @@
     "addeddate": "2022-07-20 23:30:16"
   },
   "server": "ia801504.us.archive.org",
-  "uniq": 338976900,
+  "uniq": 452848706,
   "workable_servers": [
     "ia801504.us.archive.org",
     "ia601504.us.archive.org"

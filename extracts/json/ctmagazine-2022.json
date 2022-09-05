@@ -1,10 +1,5 @@
 {
-  "created": 1662379529,
-  "ctmagazine-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "created": 1662419135,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/25/items/ctmagazine-2022",
@@ -1685,31 +1680,82 @@
       "sha1": "b233eca0417ae696613e2cf142dc2c3507b58c18"
     },
     {
+      "name": "ctmagazine-2022-09-05T18:02:27.868784-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662418957",
+      "size": "25733",
+      "md5": "7ecedefb04c9373e712a87cd421b36cf",
+      "crc32": "6284b6b2",
+      "sha1": "5670cd859a4e7569937a565ba7c91774e2b9fc11",
+      "format": "JSON"
+    },
+    {
+      "name": "ctmagazine-2022-09-05T18:02:27.868784-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662418958",
+      "size": "25745",
+      "md5": "8c50df6c0c0167a73a9d113ec459c12e",
+      "crc32": "0c06eb86",
+      "sha1": "e293777e910ce189c3b524e3a15800b44a68bf73",
+      "format": "JSON"
+    },
+    {
+      "name": "ctmagazine-2022-09-05T18:02:27.868784-05:00.jpg",
+      "source": "original",
+      "mtime": "1662418950",
+      "size": "238638",
+      "md5": "357106cbfeec899271aa8a97d489d1ed",
+      "crc32": "c8edd842",
+      "sha1": "c72287dbe5aff2c050c1df09648cecd8b29377b4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ctmagazine-2022-09-05T18:02:27.868784-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662418960",
+      "size": "1555",
+      "md5": "15365f0df6adff40074dc4e10be96366",
+      "crc32": "22f5d092",
+      "sha1": "1eabcfd36496418589d3d90bbdf6610880b50f05",
+      "format": "JSON"
+    },
+    {
+      "name": "ctmagazine-2022-09-05T18:02:27.868784-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662418962",
+      "size": "27766",
+      "md5": "7283b7ba56eb1d797afa1f5412eee0d8",
+      "crc32": "9f0b5526",
+      "sha1": "ae9d48ae4488bcfe2c9a031cfca21367d649daaa",
+      "format": "JSON"
+    },
+    {
       "name": "ctmagazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fdf3ece1ab26f243f0222e8ea1cb90c9913f2966",
-      "mtime": "1662375854",
-      "size": "35747",
-      "md5": "0a9c78511ea842255855e1451e1f5253",
-      "crc32": "b4cb5b6f",
-      "sha1": "0bdc64b3639057917296d1352f94800a47592d85",
+      "btih": "e6b30f2c67cd3946c3c025ed8c7abcd4e98733c4",
+      "mtime": "1662419123",
+      "size": "36820",
+      "md5": "d880281584c60266da10fe36cee1ec42",
+      "crc32": "0d6cd508",
+      "sha1": "84f5518b245f1ae5cd7be9e35164699dcc775950",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ctmagazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fcd7060bf55afe773d8e327a067bf5c3",
+      "md5": "aab0efc0e0a3289bbef79a50ac3a2eef",
       "summation": "md5"
     },
     {
       "name": "ctmagazine-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662375788",
-      "size": "229376",
-      "md5": "f0867e61ba5eb17e466b8410a199844f",
-      "crc32": "857d0236",
-      "sha1": "e22554102d89bf2078931cb87e880d1c6b3de804",
+      "mtime": "1662419085",
+      "size": "237568",
+      "md5": "fa0243d22c21e946cbdafb2cf40c564d",
+      "crc32": "82b41ea9",
+      "sha1": "1f826c9ce68077bed56830053bfcd1cee36eefe1",
       "format": "Metadata"
     },
     {
@@ -1723,9 +1769,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 166,
-  "item_last_updated": 1662375854,
-  "item_size": 9390017,
+  "files_count": 171,
+  "item_last_updated": 1662419123,
+  "item_size": 9718719,
   "metadata": {
     "identifier": "ctmagazine-2022",
     "collection": [
@@ -1742,10 +1788,21 @@
     "publicdate": "2022-08-23 23:00:18",
     "addeddate": "2022-08-23 23:00:18"
   },
-  "server": "ia801407.us.archive.org",
-  "uniq": 371544424,
+  "pending_tasks": true,
+  "server": "ia601407.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3394731647,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1937170852,
   "workable_servers": [
-    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }
