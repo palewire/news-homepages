@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 80 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 81 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 9:24 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-09-05T09:24:36.068853-03:00.lighthouse.json) |
 | [September 4 at 11:27 PM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-09-04T23:27:22.650882-03:00.lighthouse.json) |
 | [September 4 at 11:02 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-09-04T11:02:38.434215-03:00.lighthouse.json) |
 | [September 4 at 9:00 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-09-04T09:00:14.876694-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 2 at 11:26 PM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-09-02T23:26:07.506119-03:00.lighthouse.json) |
 | [September 2 at 11:57 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-09-02T11:57:47.791590-03:00.lighthouse.json) |
 | [September 2 at 9:07 AM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-09-02T09:07:32.085380-03:00.lighthouse.json) |
-| [September 1 at 11:27 PM](https://archive.org/download/amazoniaagencia-2022/amazoniaagencia-2022-09-01T23:27:24.533728-03:00.lighthouse.json) |
 
 
 

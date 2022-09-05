@@ -437,7 +437,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 90 hyperlink lists with the Internet Archive.
+The archiving routine has saved 91 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 5 at 9:24 AM](https://archive.org/download/atarde-2022/atarde-2022-09-05T09:24:38.765394-03:00.hyperlinks.json) |
 | [September 4 at 11:27 PM](https://archive.org/download/atarde-2022/atarde-2022-09-04T23:27:22.134095-03:00.hyperlinks.json) |
 | [September 4 at 11:02 AM](https://archive.org/download/atarde-2022/atarde-2022-09-04T11:02:03.300580-03:00.hyperlinks.json) |
 | [September 4 at 9:00 AM](https://archive.org/download/atarde-2022/atarde-2022-09-04T09:00:30.356738-03:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 2 at 11:26 PM](https://archive.org/download/atarde-2022/atarde-2022-09-02T23:26:08.148181-03:00.hyperlinks.json) |
 | [September 2 at 11:57 AM](https://archive.org/download/atarde-2022/atarde-2022-09-02T11:57:33.619884-03:00.hyperlinks.json) |
 | [September 2 at 9:07 AM](https://archive.org/download/atarde-2022/atarde-2022-09-02T09:07:36.166127-03:00.hyperlinks.json) |
-| [September 1 at 11:26 PM](https://archive.org/download/atarde-2022/atarde-2022-09-01T23:26:41.295323-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 90 accessibility trees with the Internet Archive.
+The archiving routine has saved 91 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 5 at 9:24 AM](https://archive.org/download/atarde-2022/atarde-2022-09-05T09:24:38.765394-03:00.accessibility.json) |
 | [September 4 at 11:27 PM](https://archive.org/download/atarde-2022/atarde-2022-09-04T23:27:22.134095-03:00.accessibility.json) |
 | [September 4 at 11:02 AM](https://archive.org/download/atarde-2022/atarde-2022-09-04T11:02:03.300580-03:00.accessibility.json) |
 | [September 4 at 9:00 AM](https://archive.org/download/atarde-2022/atarde-2022-09-04T09:00:30.356738-03:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 2 at 11:26 PM](https://archive.org/download/atarde-2022/atarde-2022-09-02T23:26:08.148181-03:00.accessibility.json) |
 | [September 2 at 11:57 AM](https://archive.org/download/atarde-2022/atarde-2022-09-02T11:57:33.619884-03:00.accessibility.json) |
 | [September 2 at 9:07 AM](https://archive.org/download/atarde-2022/atarde-2022-09-02T09:07:36.166127-03:00.accessibility.json) |
-| [September 1 at 11:26 PM](https://archive.org/download/atarde-2022/atarde-2022-09-01T23:26:41.295323-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 90 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 91 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 9:24 AM](https://archive.org/download/atarde-2022/atarde-2022-09-05T09:24:38.765394-03:00.lighthouse.json) |
 | [September 4 at 11:27 PM](https://archive.org/download/atarde-2022/atarde-2022-09-04T23:27:22.134095-03:00.lighthouse.json) |
 | [September 4 at 11:02 AM](https://archive.org/download/atarde-2022/atarde-2022-09-04T11:02:03.300580-03:00.lighthouse.json) |
 | [September 4 at 9:00 AM](https://archive.org/download/atarde-2022/atarde-2022-09-04T09:00:30.356738-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 2 at 11:26 PM](https://archive.org/download/atarde-2022/atarde-2022-09-02T23:26:08.148181-03:00.lighthouse.json) |
 | [September 2 at 11:57 AM](https://archive.org/download/atarde-2022/atarde-2022-09-02T11:57:33.619884-03:00.lighthouse.json) |
 | [September 2 at 9:07 AM](https://archive.org/download/atarde-2022/atarde-2022-09-02T09:07:36.166127-03:00.lighthouse.json) |
-| [September 1 at 11:26 PM](https://archive.org/download/atarde-2022/atarde-2022-09-01T23:26:41.295323-03:00.lighthouse.json) |
 
 
 

@@ -437,7 +437,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 62 hyperlink lists with the Internet Archive.
+The archiving routine has saved 63 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 5 at 9:24 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-09-05T09:24:22.543656-03:00.hyperlinks.json) |
 | [September 5 at 8:01 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-09-05T08:01:38.121511-03:00.hyperlinks.json) |
 | [September 4 at 7:57 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-09-04T19:57:43.901353-03:00.hyperlinks.json) |
 | [September 4 at 9:00 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-09-04T09:00:21.145291-03:00.hyperlinks.json) |
@@ -537,7 +538,6 @@ Here are the 10 most recent hyperlink lists.
 | [September 3 at 9:11 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-09-03T09:11:02.917481-03:00.hyperlinks.json) |
 | [September 3 at 7:52 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-09-03T07:52:20.320076-03:00.hyperlinks.json) |
 | [September 2 at 8:53 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-09-02T20:53:28.503939-03:00.hyperlinks.json) |
-| [September 2 at 9:07 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-09-02T09:07:33.061524-03:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 82 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 83 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 9:24 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-09-05T09:24:22.543656-03:00.lighthouse.json) |
 | [September 5 at 8:01 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-09-05T08:01:38.121511-03:00.lighthouse.json) |
 | [September 4 at 7:57 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-09-04T19:57:43.901353-03:00.lighthouse.json) |
 | [September 4 at 9:00 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-09-04T09:00:21.145291-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 3 at 9:11 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-09-03T09:11:02.917481-03:00.lighthouse.json) |
 | [September 3 at 7:52 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-09-03T07:52:20.320076-03:00.lighthouse.json) |
 | [September 2 at 8:53 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-09-02T20:53:28.503939-03:00.lighthouse.json) |
-| [September 2 at 9:07 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-09-02T09:07:33.061524-03:00.lighthouse.json) |
 
 
 

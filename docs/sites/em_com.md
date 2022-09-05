@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 88 screenshots with the Internet Archive.
+The archiving routine has saved 89 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 88 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/em_com-2022/em_com-2022-09-05T09:24:32.300371-03:00.jpg">
+  <img src="https://archive.org/download/em_com-2022/em_com-2022-09-05T09:24:32.300371-03:00.jpg"
+     alt="Estado de Minas at 2022-09-05 09:24:37-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/em_com-2022/em_com-2022-09-05T09:24:32.300371-03:00.jpg">September 5 at 9:24 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/em_com-2022/em_com-2022-09-04T23:33:11.525919-03:00.jpg">
@@ -422,15 +431,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/em_com-2022/em_com-2022-09-01T12:12:01.531422-03:00.jpg">September 1 at 12:12 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/em_com-2022/em_com-2022-09-01T09:17:05.515019-03:00.jpg">
-  <img src="https://archive.org/download/em_com-2022/em_com-2022-09-01T09:17:05.515019-03:00.jpg"
-     alt="Estado de Minas at 2022-09-01 09:17:07-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/em_com-2022/em_com-2022-09-01T09:17:05.515019-03:00.jpg">September 1 at 9:17 AM</a></p>
 </div>
 
 </div>
@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 87 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 88 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 9:24 AM](https://archive.org/download/em_com-2022/em_com-2022-09-05T09:24:32.300371-03:00.lighthouse.json) |
 | [September 4 at 11:33 PM](https://archive.org/download/em_com-2022/em_com-2022-09-04T23:33:11.525919-03:00.lighthouse.json) |
 | [September 4 at 11:48 AM](https://archive.org/download/em_com-2022/em_com-2022-09-04T11:48:19.854110-03:00.lighthouse.json) |
 | [September 4 at 9:00 AM](https://archive.org/download/em_com-2022/em_com-2022-09-04T09:00:24.601014-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 2 at 11:30 PM](https://archive.org/download/em_com-2022/em_com-2022-09-02T23:30:39.975337-03:00.lighthouse.json) |
 | [September 2 at 12:02 PM](https://archive.org/download/em_com-2022/em_com-2022-09-02T12:02:50.728815-03:00.lighthouse.json) |
 | [September 2 at 9:08 AM](https://archive.org/download/em_com-2022/em_com-2022-09-02T09:07:57.126157-03:00.lighthouse.json) |
-| [September 1 at 11:31 PM](https://archive.org/download/em_com-2022/em_com-2022-09-01T23:31:44.802613-03:00.lighthouse.json) |
 
 
 

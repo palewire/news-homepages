@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 91 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 92 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 9:24 AM](https://archive.org/download/diariope-2022/diariope-2022-09-05T09:24:30.056279-03:00.lighthouse.json) |
 | [September 5 at 8:04 AM](https://archive.org/download/diariope-2022/diariope-2022-09-05T08:04:32.415501-03:00.lighthouse.json) |
 | [September 4 at 7:59 PM](https://archive.org/download/diariope-2022/diariope-2022-09-04T19:59:19.163037-03:00.lighthouse.json) |
 | [September 4 at 9:00 AM](https://archive.org/download/diariope-2022/diariope-2022-09-04T09:00:51.563952-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 3 at 9:13 AM](https://archive.org/download/diariope-2022/diariope-2022-09-03T09:13:16.388947-03:00.lighthouse.json) |
 | [September 3 at 7:55 AM](https://archive.org/download/diariope-2022/diariope-2022-09-03T07:54:54.300613-03:00.lighthouse.json) |
 | [September 2 at 8:55 PM](https://archive.org/download/diariope-2022/diariope-2022-09-02T20:55:22.049406-03:00.lighthouse.json) |
-| [September 2 at 9:07 AM](https://archive.org/download/diariope-2022/diariope-2022-09-02T09:07:49.149487-03:00.lighthouse.json) |
 
 
 

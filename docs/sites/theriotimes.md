@@ -437,7 +437,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 90 hyperlink lists with the Internet Archive.
+The archiving routine has saved 91 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 5 at 9:25 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-09-05T09:25:52.561142-03:00.hyperlinks.json) |
 | [September 4 at 10:25 PM](https://archive.org/download/theriotimes-2022/theriotimes-2022-09-04T22:25:30.747816-03:00.hyperlinks.json) |
 | [September 4 at 9:59 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-09-04T09:59:19.786221-03:00.hyperlinks.json) |
 | [September 4 at 9:02 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-09-04T09:01:58.080138-03:00.hyperlinks.json) |
@@ -537,7 +538,6 @@ Here are the 10 most recent hyperlink lists.
 | [September 2 at 10:24 PM](https://archive.org/download/theriotimes-2022/theriotimes-2022-09-02T22:24:51.759190-03:00.hyperlinks.json) |
 | [September 2 at 10:07 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-09-02T10:06:57.764484-03:00.hyperlinks.json) |
 | [September 2 at 9:09 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-09-02T09:08:57.152697-03:00.hyperlinks.json) |
-| [September 1 at 10:19 PM](https://archive.org/download/theriotimes-2022/theriotimes-2022-09-01T22:19:26.648937-03:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 59 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 60 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 9:25 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-09-05T09:25:52.561142-03:00.lighthouse.json) |
 | [September 4 at 10:25 PM](https://archive.org/download/theriotimes-2022/theriotimes-2022-09-04T22:25:30.747816-03:00.lighthouse.json) |
 | [September 4 at 9:59 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-09-04T09:59:19.786221-03:00.lighthouse.json) |
 | [September 4 at 9:02 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-09-04T09:01:58.080138-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 2 at 10:24 PM](https://archive.org/download/theriotimes-2022/theriotimes-2022-09-02T22:24:51.759190-03:00.lighthouse.json) |
 | [September 2 at 10:07 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-09-02T10:06:57.764484-03:00.lighthouse.json) |
 | [September 2 at 9:09 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-09-02T09:08:57.152697-03:00.lighthouse.json) |
-| [September 1 at 10:19 PM](https://archive.org/download/theriotimes-2022/theriotimes-2022-09-01T22:19:26.648937-03:00.lighthouse.json) |
 
 
 

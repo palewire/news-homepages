@@ -437,7 +437,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 75 hyperlink lists with the Internet Archive.
+The archiving routine has saved 76 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 5 at 9:24 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-09-05T09:24:23.551226-03:00.hyperlinks.json) |
 | [September 4 at 11:32 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-09-04T23:32:14.810125-03:00.hyperlinks.json) |
 | [September 4 at 11:33 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-09-04T11:33:11.711002-03:00.hyperlinks.json) |
 | [September 4 at 9:00 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-09-04T09:00:27.475307-03:00.hyperlinks.json) |
@@ -537,7 +538,6 @@ Here are the 10 most recent hyperlink lists.
 | [September 2 at 11:29 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-09-02T23:29:28.848086-03:00.hyperlinks.json) |
 | [September 2 at 12:03 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-09-02T12:02:59.049098-03:00.hyperlinks.json) |
 | [September 2 at 9:07 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-09-02T09:07:32.534107-03:00.hyperlinks.json) |
-| [September 1 at 11:31 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-09-01T23:31:03.350298-03:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 75 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 76 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 9:24 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-09-05T09:24:23.551226-03:00.lighthouse.json) |
 | [September 4 at 11:32 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-09-04T23:32:14.810125-03:00.lighthouse.json) |
 | [September 4 at 11:33 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-09-04T11:33:11.711002-03:00.lighthouse.json) |
 | [September 4 at 9:00 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-09-04T09:00:27.475307-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 2 at 11:29 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-09-02T23:29:28.848086-03:00.lighthouse.json) |
 | [September 2 at 12:03 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-09-02T12:02:59.049098-03:00.lighthouse.json) |
 | [September 2 at 9:07 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-09-02T09:07:32.534107-03:00.lighthouse.json) |
-| [September 1 at 11:31 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-09-01T23:31:03.350298-03:00.lighthouse.json) |
 
 
 

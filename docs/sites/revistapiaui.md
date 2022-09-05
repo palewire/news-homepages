@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 80 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 81 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 9:26 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-05T09:26:07.627726-03:00.lighthouse.json) |
 | [September 5 at 1:51 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-05T01:50:58.606414-03:00.lighthouse.json) |
 | [September 4 at 1:45 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-04T13:45:08.040581-03:00.lighthouse.json) |
 | [September 4 at 9:02 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-04T09:02:07.850752-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 3 at 1:41 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-03T01:41:03.089449-03:00.lighthouse.json) |
 | [September 2 at 1:16 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T13:16:07.024529-03:00.lighthouse.json) |
 | [September 2 at 9:09 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T09:09:05.799206-03:00.lighthouse.json) |
-| [September 2 at 1:45 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-09-02T01:45:37.165047-03:00.lighthouse.json) |
 
 
 

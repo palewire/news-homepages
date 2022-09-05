@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 88 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 89 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 9:24 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-09-05T09:24:47.716001-03:00.lighthouse.json) |
 | [September 5 at 12:41 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-09-05T00:41:07.724824-03:00.lighthouse.json) |
 | [September 4 at 1:32 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-09-04T13:32:35.031211-03:00.lighthouse.json) |
 | [September 4 at 9:00 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-09-04T09:00:33.809519-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 3 at 12:47 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-09-03T00:47:39.375402-03:00.lighthouse.json) |
 | [September 2 at 12:05 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-09-02T12:05:10.636354-03:00.lighthouse.json) |
 | [September 2 at 9:07 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-09-02T09:07:35.416140-03:00.lighthouse.json) |
-| [September 2 at 12:47 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-09-02T00:47:33.219410-03:00.lighthouse.json) |
 
 
 

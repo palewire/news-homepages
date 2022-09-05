@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 80 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 81 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 9:26 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-05T09:26:12.163907-03:00.lighthouse.json) |
 | [September 5 at 1:53 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-05T01:53:35.844267-03:00.lighthouse.json) |
 | [September 4 at 1:45 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-04T13:45:29.919827-03:00.lighthouse.json) |
 | [September 4 at 9:02 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-04T09:02:14.146471-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 3 at 1:42 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-03T01:42:39.824369-03:00.lighthouse.json) |
 | [September 2 at 1:16 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-02T13:16:05.565718-03:00.lighthouse.json) |
 | [September 2 at 9:08 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-02T09:08:38.337045-03:00.lighthouse.json) |
-| [September 2 at 1:48 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-02T01:48:10.437238-03:00.lighthouse.json) |
 
 
 

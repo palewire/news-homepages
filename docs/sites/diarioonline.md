@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 84 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 85 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 9:24 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-09-05T09:24:14.036771-03:00.lighthouse.json) |
 | [September 4 at 11:31 PM](https://archive.org/download/diarioonline-2022/diarioonline-2022-09-04T23:31:24.630478-03:00.lighthouse.json) |
 | [September 4 at 11:32 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-09-04T11:32:42.030398-03:00.lighthouse.json) |
 | [September 4 at 9:00 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-09-04T09:00:15.553306-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 2 at 11:30 PM](https://archive.org/download/diarioonline-2022/diarioonline-2022-09-02T23:29:56.407688-03:00.lighthouse.json) |
 | [September 2 at 12:02 PM](https://archive.org/download/diarioonline-2022/diarioonline-2022-09-02T12:02:12.828407-03:00.lighthouse.json) |
 | [September 2 at 9:07 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-09-02T09:07:33.698367-03:00.lighthouse.json) |
-| [September 1 at 11:31 PM](https://archive.org/download/diarioonline-2022/diarioonline-2022-09-01T23:31:08.645823-03:00.lighthouse.json) |
 
 
 

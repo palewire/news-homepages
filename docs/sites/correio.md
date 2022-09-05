@@ -437,7 +437,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 90 hyperlink lists with the Internet Archive.
+The archiving routine has saved 91 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 5 at 9:24 AM](https://archive.org/download/correio-2022/correio-2022-09-05T09:24:20.459429-03:00.hyperlinks.json) |
 | [September 4 at 11:30 PM](https://archive.org/download/correio-2022/correio-2022-09-04T23:30:00.753163-03:00.hyperlinks.json) |
 | [September 4 at 11:17 AM](https://archive.org/download/correio-2022/correio-2022-09-04T11:17:16.036313-03:00.hyperlinks.json) |
 | [September 4 at 9:00 AM](https://archive.org/download/correio-2022/correio-2022-09-04T09:00:28.076585-03:00.hyperlinks.json) |
@@ -537,7 +538,6 @@ Here are the 10 most recent hyperlink lists.
 | [September 2 at 11:28 PM](https://archive.org/download/correio-2022/correio-2022-09-02T23:28:25.841041-03:00.hyperlinks.json) |
 | [September 2 at 12:00 PM](https://archive.org/download/correio-2022/correio-2022-09-02T12:00:16.715382-03:00.hyperlinks.json) |
 | [September 2 at 9:07 AM](https://archive.org/download/correio-2022/correio-2022-09-02T09:07:48.564356-03:00.hyperlinks.json) |
-| [September 1 at 11:28 PM](https://archive.org/download/correio-2022/correio-2022-09-01T23:28:51.279865-03:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 90 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 91 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 9:24 AM](https://archive.org/download/correio-2022/correio-2022-09-05T09:24:20.459429-03:00.lighthouse.json) |
 | [September 4 at 11:30 PM](https://archive.org/download/correio-2022/correio-2022-09-04T23:30:00.753163-03:00.lighthouse.json) |
 | [September 4 at 11:17 AM](https://archive.org/download/correio-2022/correio-2022-09-04T11:17:16.036313-03:00.lighthouse.json) |
 | [September 4 at 9:00 AM](https://archive.org/download/correio-2022/correio-2022-09-04T09:00:28.076585-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 2 at 11:28 PM](https://archive.org/download/correio-2022/correio-2022-09-02T23:28:25.841041-03:00.lighthouse.json) |
 | [September 2 at 12:00 PM](https://archive.org/download/correio-2022/correio-2022-09-02T12:00:16.715382-03:00.lighthouse.json) |
 | [September 2 at 9:07 AM](https://archive.org/download/correio-2022/correio-2022-09-02T09:07:48.564356-03:00.lighthouse.json) |
-| [September 1 at 11:28 PM](https://archive.org/download/correio-2022/correio-2022-09-01T23:28:51.279865-03:00.lighthouse.json) |
 
 
 

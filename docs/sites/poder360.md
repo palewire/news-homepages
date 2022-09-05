@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 81 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 82 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 9:25 AM](https://archive.org/download/poder360-2022/poder360-2022-09-05T09:25:37.875423-03:00.lighthouse.json) |
 | [September 4 at 10:20 PM](https://archive.org/download/poder360-2022/poder360-2022-09-04T22:20:35.269458-03:00.lighthouse.json) |
 | [September 4 at 9:55 AM](https://archive.org/download/poder360-2022/poder360-2022-09-04T09:55:12.277130-03:00.lighthouse.json) |
 | [September 4 at 9:01 AM](https://archive.org/download/poder360-2022/poder360-2022-09-04T09:01:12.358040-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 2 at 10:21 PM](https://archive.org/download/poder360-2022/poder360-2022-09-02T22:21:10.140976-03:00.lighthouse.json) |
 | [September 2 at 10:03 AM](https://archive.org/download/poder360-2022/poder360-2022-09-02T10:03:02.883281-03:00.lighthouse.json) |
 | [September 2 at 9:08 AM](https://archive.org/download/poder360-2022/poder360-2022-09-02T09:08:32.189103-03:00.lighthouse.json) |
-| [September 1 at 10:15 PM](https://archive.org/download/poder360-2022/poder360-2022-09-01T22:15:39.668811-03:00.lighthouse.json) |
 
 
 

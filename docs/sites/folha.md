@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 92 screenshots with the Internet Archive.
+The archiving routine has saved 93 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 92 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/folha-2022/folha-2022-09-05T09:24:29.651177-03:00.jpg">
+  <img src="https://archive.org/download/folha-2022/folha-2022-09-05T09:24:29.651177-03:00.jpg"
+     alt="Folha de S.Paulo at 2022-09-05 09:24:35-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/folha-2022/folha-2022-09-05T09:24:29.651177-03:00.jpg">September 5 at 9:24 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/folha-2022/folha-2022-09-05T00:40:50.495808-03:00.jpg">
@@ -422,15 +431,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/folha-2022/folha-2022-09-01T12:20:44.126713-03:00.jpg">September 1 at 12:20 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/folha-2022/folha-2022-09-01T09:17:04.176426-03:00.jpg">
-  <img src="https://archive.org/download/folha-2022/folha-2022-09-01T09:17:04.176426-03:00.jpg"
-     alt="Folha de S.Paulo at 2022-09-01 09:17:06-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/folha-2022/folha-2022-09-01T09:17:04.176426-03:00.jpg">September 1 at 9:17 AM</a></p>
 </div>
 
 </div>
@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 93 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 94 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 9:24 AM](https://archive.org/download/folha-2022/folha-2022-09-05T09:24:29.651177-03:00.lighthouse.json) |
 | [September 5 at 12:41 AM](https://archive.org/download/folha-2022/folha-2022-09-05T00:40:50.495808-03:00.lighthouse.json) |
 | [September 4 at 1:32 PM](https://archive.org/download/folha-2022/folha-2022-09-04T13:32:34.175350-03:00.lighthouse.json) |
 | [September 4 at 9:00 AM](https://archive.org/download/folha-2022/folha-2022-09-04T09:00:25.652105-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 3 at 12:49 AM](https://archive.org/download/folha-2022/folha-2022-09-03T00:49:19.545174-03:00.lighthouse.json) |
 | [September 2 at 12:05 PM](https://archive.org/download/folha-2022/folha-2022-09-02T12:05:50.874123-03:00.lighthouse.json) |
 | [September 2 at 9:07 AM](https://archive.org/download/folha-2022/folha-2022-09-02T09:07:28.958695-03:00.lighthouse.json) |
-| [September 2 at 12:47 AM](https://archive.org/download/folha-2022/folha-2022-09-02T00:47:06.216538-03:00.lighthouse.json) |
 
 
 

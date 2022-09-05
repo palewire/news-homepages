@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 94 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 95 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 9:24 AM](https://archive.org/download/estadao-2022/estadao-2022-09-05T09:24:15.981643-03:00.lighthouse.json) |
 | [September 5 at 8:05 AM](https://archive.org/download/estadao-2022/estadao-2022-09-05T08:05:09.320130-03:00.lighthouse.json) |
 | [September 4 at 7:59 PM](https://archive.org/download/estadao-2022/estadao-2022-09-04T19:59:14.749035-03:00.lighthouse.json) |
 | [September 4 at 9:00 AM](https://archive.org/download/estadao-2022/estadao-2022-09-04T09:00:28.678900-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 3 at 9:13 AM](https://archive.org/download/estadao-2022/estadao-2022-09-03T09:13:38.596457-03:00.lighthouse.json) |
 | [September 3 at 7:55 AM](https://archive.org/download/estadao-2022/estadao-2022-09-03T07:54:58.494857-03:00.lighthouse.json) |
 | [September 2 at 8:57 PM](https://archive.org/download/estadao-2022/estadao-2022-09-02T20:57:11.032010-03:00.lighthouse.json) |
-| [September 2 at 9:07 AM](https://archive.org/download/estadao-2022/estadao-2022-09-02T09:07:45.568110-03:00.lighthouse.json) |
 
 
 

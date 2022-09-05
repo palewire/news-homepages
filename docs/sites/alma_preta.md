@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 81 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 82 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 9:24 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-09-05T09:24:20.286154-03:00.lighthouse.json) |
 | [September 5 at 7:58 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-09-05T07:58:34.744346-03:00.lighthouse.json) |
 | [September 4 at 7:53 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-09-04T19:53:38.853411-03:00.lighthouse.json) |
 | [September 4 at 9:00 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-09-04T09:00:16.162351-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 3 at 9:09 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-09-03T09:09:07.493723-03:00.lighthouse.json) |
 | [September 2 at 8:49 PM](https://archive.org/download/alma_preta-2022/alma_preta-2022-09-02T20:49:19.182907-03:00.lighthouse.json) |
 | [September 2 at 9:08 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-09-02T09:07:49.501666-03:00.lighthouse.json) |
-| [September 2 at 7:55 AM](https://archive.org/download/alma_preta-2022/alma_preta-2022-09-02T07:55:31.863908-03:00.lighthouse.json) |
 
 
 
