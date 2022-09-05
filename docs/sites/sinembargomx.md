@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 41 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,51 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-04T20:22:43.417396-05:00.jpg">
+  <img src="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-04T20:22:43.417396-05:00.jpg"
+     alt="SinEmbargo at 2022-09-04 20:22:45-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-04T20:22:43.417396-05:00.jpg">September 4 at 8:22 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-04T07:56:45.282582-05:00.jpg">
+  <img src="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-04T07:56:45.282582-05:00.jpg"
+     alt="SinEmbargo at 2022-09-04 07:56:50-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-04T07:56:45.282582-05:00.jpg">September 4 at 7:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-03T20:14:39.196841-05:00.jpg">
+  <img src="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-03T20:14:39.196841-05:00.jpg"
+     alt="SinEmbargo at 2022-09-03 20:14:40-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-03T20:14:39.196841-05:00.jpg">September 3 at 8:14 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-03T08:11:34.294510-05:00.jpg">
+  <img src="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-03T08:11:34.294510-05:00.jpg"
+     alt="SinEmbargo at 2022-09-03 08:11:37-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-03T08:11:34.294510-05:00.jpg">September 3 at 8:11 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-02T20:22:42.017691-05:00.jpg">
+  <img src="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-02T20:22:42.017691-05:00.jpg"
+     alt="SinEmbargo at 2022-09-02 20:22:43-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-02T20:22:42.017691-05:00.jpg">September 2 at 8:22 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-02T08:05:20.299501-05:00.jpg">
   <img src="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-02T08:05:20.299501-05:00.jpg"
      alt="SinEmbargo at 2022-09-02 08:05:22-05:00 local time"
@@ -388,56 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-30T08:11:05.645584-05:00.jpg">August 30 at 8:11 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-29T20:16:51.815760-05:00.jpg">
-  <img src="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-29T20:16:51.815760-05:00.jpg"
-     alt="SinEmbargo at 2022-08-29 20:16:53-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-29T20:16:51.815760-05:00.jpg">August 29 at 8:16 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-29T08:00:57.621523-05:00.jpg">
-  <img src="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-29T08:00:57.621523-05:00.jpg"
-     alt="SinEmbargo at 2022-08-29 08:00:59-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-29T08:00:57.621523-05:00.jpg">August 29 at 8:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-28T20:16:53.062472-05:00.jpg">
-  <img src="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-28T20:16:53.062472-05:00.jpg"
-     alt="SinEmbargo at 2022-08-28 20:16:54-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-28T20:16:53.062472-05:00.jpg">August 28 at 8:16 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-28T08:01:13.716913-05:00.jpg">
-  <img src="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-28T08:01:13.716913-05:00.jpg"
-     alt="SinEmbargo at 2022-08-28 08:01:16-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-28T08:01:13.716913-05:00.jpg">August 28 at 8:01 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-27T20:28:41.350577-05:00.jpg">
-  <img src="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-27T20:28:41.350577-05:00.jpg"
-     alt="SinEmbargo at 2022-08-27 20:28:43-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-27T20:28:41.350577-05:00.jpg">August 27 at 8:28 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 36 hyperlink lists with the Internet Archive.
+The archiving routine has saved 41 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 4 at 8:22 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-04T20:22:43.417396-05:00.hyperlinks.json) |
+| [September 4 at 7:56 AM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-04T07:56:45.282582-05:00.hyperlinks.json) |
+| [September 3 at 8:14 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-03T20:14:39.196841-05:00.hyperlinks.json) |
+| [September 3 at 8:11 AM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-03T08:11:34.294510-05:00.hyperlinks.json) |
+| [September 2 at 8:22 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-02T20:22:42.017691-05:00.hyperlinks.json) |
 | [September 2 at 8:05 AM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-02T08:05:20.299501-05:00.hyperlinks.json) |
 | [September 1 at 8:18 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-01T20:18:17.810405-05:00.hyperlinks.json) |
 | [September 1 at 8:12 AM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-01T08:12:40.635885-05:00.hyperlinks.json) |
 | [August 31 at 8:15 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-31T20:15:14.313848-05:00.hyperlinks.json) |
 | [August 31 at 8:12 AM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-31T08:12:22.031056-05:00.hyperlinks.json) |
-| [August 30 at 8:25 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-30T20:25:44.390848-05:00.hyperlinks.json) |
-| [August 30 at 8:11 AM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-30T08:11:05.645584-05:00.hyperlinks.json) |
-| [August 29 at 8:16 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-29T20:16:51.815760-05:00.hyperlinks.json) |
-| [August 29 at 8:01 AM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-29T08:00:57.621523-05:00.hyperlinks.json) |
-| [August 28 at 8:16 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-28T20:16:53.062472-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 36 accessibility trees with the Internet Archive.
+The archiving routine has saved 41 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 4 at 8:22 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-04T20:22:43.417396-05:00.accessibility.json) |
+| [September 4 at 7:56 AM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-04T07:56:45.282582-05:00.accessibility.json) |
+| [September 3 at 8:14 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-03T20:14:39.196841-05:00.accessibility.json) |
+| [September 3 at 8:11 AM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-03T08:11:34.294510-05:00.accessibility.json) |
+| [September 2 at 8:22 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-02T20:22:42.017691-05:00.accessibility.json) |
 | [September 2 at 8:05 AM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-02T08:05:20.299501-05:00.accessibility.json) |
 | [September 1 at 8:18 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-01T20:18:17.810405-05:00.accessibility.json) |
 | [September 1 at 8:12 AM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-01T08:12:40.635885-05:00.accessibility.json) |
 | [August 31 at 8:15 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-31T20:15:14.313848-05:00.accessibility.json) |
 | [August 31 at 8:12 AM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-31T08:12:22.031056-05:00.accessibility.json) |
-| [August 30 at 8:25 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-30T20:25:44.390848-05:00.accessibility.json) |
-| [August 30 at 8:11 AM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-30T08:11:05.645584-05:00.accessibility.json) |
-| [August 29 at 8:16 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-29T20:16:51.815760-05:00.accessibility.json) |
-| [August 29 at 8:01 AM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-29T08:00:57.621523-05:00.accessibility.json) |
-| [August 28 at 8:16 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-28T20:16:53.062472-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 36 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 41 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 4 at 8:22 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-04T20:22:43.417396-05:00.lighthouse.json) |
+| [September 4 at 7:56 AM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-04T07:56:45.282582-05:00.lighthouse.json) |
+| [September 3 at 8:14 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-03T20:14:39.196841-05:00.lighthouse.json) |
+| [September 3 at 8:11 AM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-03T08:11:34.294510-05:00.lighthouse.json) |
+| [September 2 at 8:22 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-02T20:22:42.017691-05:00.lighthouse.json) |
 | [September 2 at 8:05 AM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-02T08:05:20.299501-05:00.lighthouse.json) |
 | [September 1 at 8:18 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-01T20:18:17.810405-05:00.lighthouse.json) |
 | [September 1 at 8:12 AM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-09-01T08:12:40.635885-05:00.lighthouse.json) |
 | [August 31 at 8:15 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-31T20:15:14.313848-05:00.lighthouse.json) |
 | [August 31 at 8:12 AM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-31T08:12:22.031056-05:00.lighthouse.json) |
-| [August 30 at 8:25 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-30T20:25:44.390848-05:00.lighthouse.json) |
-| [August 30 at 8:11 AM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-30T08:11:05.645584-05:00.lighthouse.json) |
-| [August 29 at 8:16 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-29T20:16:51.815760-05:00.lighthouse.json) |
-| [August 29 at 8:01 AM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-29T08:00:57.621523-05:00.lighthouse.json) |
-| [August 28 at 8:16 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-08-28T20:16:53.062472-05:00.lighthouse.json) |
 
 
 

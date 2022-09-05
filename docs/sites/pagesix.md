@@ -28,13 +28,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 4 screenshots with the Internet Archive.
+The archiving routine has saved 6 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-04T21:20:25.890286-04:00.jpg">
+  <img src="https://archive.org/download/pagesix-2022/pagesix-2022-09-04T21:20:25.890286-04:00.jpg"
+     alt="Page Six at 2022-09-04 21:20:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-04T21:20:25.890286-04:00.jpg">September 4 at 9:20 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-04T08:54:15.332074-04:00.jpg">
+  <img src="https://archive.org/download/pagesix-2022/pagesix-2022-09-04T08:54:15.332074-04:00.jpg"
+     alt="Page Six at 2022-09-04 08:54:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-04T08:54:15.332074-04:00.jpg">September 4 at 8:54 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pagesix-2022/pagesix-2022-09-03T21:12:00.731405-04:00.jpg">
@@ -76,7 +94,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 4 hyperlink lists with the Internet Archive.
+The archiving routine has saved 6 hyperlink lists with the Internet Archive.
 
 
 
@@ -84,6 +102,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 4 at 9:20 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-04T21:20:25.890286-04:00.hyperlinks.json) |
+| [September 4 at 8:54 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-04T08:54:15.332074-04:00.hyperlinks.json) |
 | [September 3 at 9:12 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-03T21:12:00.731405-04:00.hyperlinks.json) |
 | [September 3 at 9:10 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-03T09:10:41.611588-04:00.hyperlinks.json) |
 | [September 2 at 9:21 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-02T21:20:57.667344-04:00.hyperlinks.json) |
@@ -92,7 +112,7 @@ Here are the 10 most recent hyperlink lists.
 
 ### Accessibility
 
-The archiving routine has saved 4 accessibility trees with the Internet Archive.
+The archiving routine has saved 6 accessibility trees with the Internet Archive.
 
 
 
@@ -100,6 +120,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 4 at 9:20 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-04T21:20:25.890286-04:00.accessibility.json) |
+| [September 4 at 8:54 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-04T08:54:15.332074-04:00.accessibility.json) |
 | [September 3 at 9:12 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-03T21:12:00.731405-04:00.accessibility.json) |
 | [September 3 at 9:10 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-03T09:10:41.611588-04:00.accessibility.json) |
 | [September 2 at 9:21 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-02T21:20:57.667344-04:00.accessibility.json) |
@@ -109,7 +131,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 4 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 6 Lighthouse audits with the Internet Archive.
 
 
 
@@ -117,6 +139,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 4 at 9:20 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-04T21:20:25.890286-04:00.lighthouse.json) |
+| [September 4 at 8:54 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-04T08:54:15.332074-04:00.lighthouse.json) |
 | [September 3 at 9:12 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-03T21:12:00.731405-04:00.lighthouse.json) |
 | [September 3 at 9:10 AM](https://archive.org/download/pagesix-2022/pagesix-2022-09-03T09:10:41.611588-04:00.lighthouse.json) |
 | [September 2 at 9:21 PM](https://archive.org/download/pagesix-2022/pagesix-2022-09-02T21:20:57.667344-04:00.lighthouse.json) |
