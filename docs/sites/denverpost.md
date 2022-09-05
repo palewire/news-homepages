@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 39 screenshots with the Internet Archive.
+The archiving routine has saved 44 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,51 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/denverpost-2022/denverpost-2022-09-04T20:31:05.391131-06:00.jpg">
+  <img src="https://archive.org/download/denverpost-2022/denverpost-2022-09-04T20:31:05.391131-06:00.jpg"
+     alt="Denver Post at 2022-09-04 20:31:07-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/denverpost-2022/denverpost-2022-09-04T20:31:05.391131-06:00.jpg">September 4 at 8:31 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/denverpost-2022/denverpost-2022-09-04T08:32:54.366958-06:00.jpg">
+  <img src="https://archive.org/download/denverpost-2022/denverpost-2022-09-04T08:32:54.366958-06:00.jpg"
+     alt="Denver Post at 2022-09-04 08:32:56-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/denverpost-2022/denverpost-2022-09-04T08:32:54.366958-06:00.jpg">September 4 at 8:32 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/denverpost-2022/denverpost-2022-09-03T20:30:20.600429-06:00.jpg">
+  <img src="https://archive.org/download/denverpost-2022/denverpost-2022-09-03T20:30:20.600429-06:00.jpg"
+     alt="Denver Post at 2022-09-03 20:30:23-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/denverpost-2022/denverpost-2022-09-03T20:30:20.600429-06:00.jpg">September 3 at 8:30 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/denverpost-2022/denverpost-2022-09-03T08:56:47.418574-06:00.jpg">
+  <img src="https://archive.org/download/denverpost-2022/denverpost-2022-09-03T08:56:47.418574-06:00.jpg"
+     alt="Denver Post at 2022-09-03 08:56:52-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/denverpost-2022/denverpost-2022-09-03T08:56:47.418574-06:00.jpg">September 3 at 8:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/denverpost-2022/denverpost-2022-09-02T20:29:50.425758-06:00.jpg">
+  <img src="https://archive.org/download/denverpost-2022/denverpost-2022-09-02T20:29:50.425758-06:00.jpg"
+     alt="Denver Post at 2022-09-02 20:29:51-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/denverpost-2022/denverpost-2022-09-02T20:29:50.425758-06:00.jpg">September 2 at 8:29 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/denverpost-2022/denverpost-2022-09-02T09:02:58.306544-06:00.jpg">
   <img src="https://archive.org/download/denverpost-2022/denverpost-2022-09-02T09:02:58.306544-06:00.jpg"
      alt="Denver Post at 2022-09-02 09:03:01-06:00 local time"
@@ -388,56 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/denverpost-2022/denverpost-2022-08-30T09:22:17.850232-06:00.jpg">August 30 at 9:22 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/denverpost-2022/denverpost-2022-08-29T20:30:56.137211-06:00.jpg">
-  <img src="https://archive.org/download/denverpost-2022/denverpost-2022-08-29T20:30:56.137211-06:00.jpg"
-     alt="Denver Post at 2022-08-29 20:30:57-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/denverpost-2022/denverpost-2022-08-29T20:30:56.137211-06:00.jpg">August 29 at 8:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/denverpost-2022/denverpost-2022-08-29T08:09:14.708449-06:00.jpg">
-  <img src="https://archive.org/download/denverpost-2022/denverpost-2022-08-29T08:09:14.708449-06:00.jpg"
-     alt="Denver Post at 2022-08-29 08:09:17-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/denverpost-2022/denverpost-2022-08-29T08:09:14.708449-06:00.jpg">August 29 at 8:09 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/denverpost-2022/denverpost-2022-08-28T20:25:58.982157-06:00.jpg">
-  <img src="https://archive.org/download/denverpost-2022/denverpost-2022-08-28T20:25:58.982157-06:00.jpg"
-     alt="Denver Post at 2022-08-28 20:26:02-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/denverpost-2022/denverpost-2022-08-28T20:25:58.982157-06:00.jpg">August 28 at 8:26 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/denverpost-2022/denverpost-2022-08-28T08:03:04.123587-06:00.jpg">
-  <img src="https://archive.org/download/denverpost-2022/denverpost-2022-08-28T08:03:04.123587-06:00.jpg"
-     alt="Denver Post at 2022-08-28 08:03:06-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/denverpost-2022/denverpost-2022-08-28T08:03:04.123587-06:00.jpg">August 28 at 8:03 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/denverpost-2022/denverpost-2022-08-27T20:28:26.135297-06:00.jpg">
-  <img src="https://archive.org/download/denverpost-2022/denverpost-2022-08-27T20:28:26.135297-06:00.jpg"
-     alt="Denver Post at 2022-08-27 20:28:27-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/denverpost-2022/denverpost-2022-08-27T20:28:26.135297-06:00.jpg">August 27 at 8:28 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 39 hyperlink lists with the Internet Archive.
+The archiving routine has saved 44 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 4 at 8:31 PM](https://archive.org/download/denverpost-2022/denverpost-2022-09-04T20:31:05.391131-06:00.hyperlinks.json) |
+| [September 4 at 8:33 AM](https://archive.org/download/denverpost-2022/denverpost-2022-09-04T08:32:54.366958-06:00.hyperlinks.json) |
+| [September 3 at 8:30 PM](https://archive.org/download/denverpost-2022/denverpost-2022-09-03T20:30:20.600429-06:00.hyperlinks.json) |
+| [September 3 at 8:56 AM](https://archive.org/download/denverpost-2022/denverpost-2022-09-03T08:56:47.418574-06:00.hyperlinks.json) |
+| [September 2 at 8:29 PM](https://archive.org/download/denverpost-2022/denverpost-2022-09-02T20:29:50.425758-06:00.hyperlinks.json) |
 | [September 2 at 9:03 AM](https://archive.org/download/denverpost-2022/denverpost-2022-09-02T09:02:58.306544-06:00.hyperlinks.json) |
 | [September 1 at 8:31 PM](https://archive.org/download/denverpost-2022/denverpost-2022-09-01T20:31:06.669675-06:00.hyperlinks.json) |
 | [September 1 at 9:10 AM](https://archive.org/download/denverpost-2022/denverpost-2022-09-01T09:10:47.056288-06:00.hyperlinks.json) |
 | [August 31 at 8:29 PM](https://archive.org/download/denverpost-2022/denverpost-2022-08-31T20:29:20.453321-06:00.hyperlinks.json) |
 | [August 31 at 9:01 AM](https://archive.org/download/denverpost-2022/denverpost-2022-08-31T09:01:30.658004-06:00.hyperlinks.json) |
-| [August 30 at 8:26 PM](https://archive.org/download/denverpost-2022/denverpost-2022-08-30T20:26:18.996599-06:00.hyperlinks.json) |
-| [August 30 at 9:22 AM](https://archive.org/download/denverpost-2022/denverpost-2022-08-30T09:22:17.850232-06:00.hyperlinks.json) |
-| [August 29 at 8:31 PM](https://archive.org/download/denverpost-2022/denverpost-2022-08-29T20:30:56.137211-06:00.hyperlinks.json) |
-| [August 29 at 8:09 AM](https://archive.org/download/denverpost-2022/denverpost-2022-08-29T08:09:14.708449-06:00.hyperlinks.json) |
-| [August 28 at 8:26 PM](https://archive.org/download/denverpost-2022/denverpost-2022-08-28T20:25:58.982157-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 39 accessibility trees with the Internet Archive.
+The archiving routine has saved 44 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 4 at 8:31 PM](https://archive.org/download/denverpost-2022/denverpost-2022-09-04T20:31:05.391131-06:00.accessibility.json) |
+| [September 4 at 8:32 AM](https://archive.org/download/denverpost-2022/denverpost-2022-09-04T08:32:54.366958-06:00.accessibility.json) |
+| [September 3 at 8:30 PM](https://archive.org/download/denverpost-2022/denverpost-2022-09-03T20:30:20.600429-06:00.accessibility.json) |
+| [September 3 at 8:56 AM](https://archive.org/download/denverpost-2022/denverpost-2022-09-03T08:56:47.418574-06:00.accessibility.json) |
+| [September 2 at 8:29 PM](https://archive.org/download/denverpost-2022/denverpost-2022-09-02T20:29:50.425758-06:00.accessibility.json) |
 | [September 2 at 9:03 AM](https://archive.org/download/denverpost-2022/denverpost-2022-09-02T09:02:58.306544-06:00.accessibility.json) |
 | [September 1 at 8:31 PM](https://archive.org/download/denverpost-2022/denverpost-2022-09-01T20:31:06.669675-06:00.accessibility.json) |
 | [September 1 at 9:10 AM](https://archive.org/download/denverpost-2022/denverpost-2022-09-01T09:10:47.056288-06:00.accessibility.json) |
 | [August 31 at 8:29 PM](https://archive.org/download/denverpost-2022/denverpost-2022-08-31T20:29:20.453321-06:00.accessibility.json) |
 | [August 31 at 9:01 AM](https://archive.org/download/denverpost-2022/denverpost-2022-08-31T09:01:30.658004-06:00.accessibility.json) |
-| [August 30 at 8:26 PM](https://archive.org/download/denverpost-2022/denverpost-2022-08-30T20:26:18.996599-06:00.accessibility.json) |
-| [August 30 at 9:22 AM](https://archive.org/download/denverpost-2022/denverpost-2022-08-30T09:22:17.850232-06:00.accessibility.json) |
-| [August 29 at 8:30 PM](https://archive.org/download/denverpost-2022/denverpost-2022-08-29T20:30:56.137211-06:00.accessibility.json) |
-| [August 29 at 8:09 AM](https://archive.org/download/denverpost-2022/denverpost-2022-08-29T08:09:14.708449-06:00.accessibility.json) |
-| [August 28 at 8:26 PM](https://archive.org/download/denverpost-2022/denverpost-2022-08-28T20:25:58.982157-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 4 at 8:31 PM](https://archive.org/download/denverpost-2022/denverpost-2022-09-04T20:31:05.391131-06:00.lighthouse.json) |
+| [September 4 at 8:33 AM](https://archive.org/download/denverpost-2022/denverpost-2022-09-04T08:32:54.366958-06:00.lighthouse.json) |
+| [September 3 at 8:30 PM](https://archive.org/download/denverpost-2022/denverpost-2022-09-03T20:30:20.600429-06:00.lighthouse.json) |
+| [September 3 at 8:56 AM](https://archive.org/download/denverpost-2022/denverpost-2022-09-03T08:56:47.418574-06:00.lighthouse.json) |
+| [September 2 at 8:29 PM](https://archive.org/download/denverpost-2022/denverpost-2022-09-02T20:29:50.425758-06:00.lighthouse.json) |
 | [September 2 at 9:03 AM](https://archive.org/download/denverpost-2022/denverpost-2022-09-02T09:02:58.306544-06:00.lighthouse.json) |
 | [September 1 at 8:31 PM](https://archive.org/download/denverpost-2022/denverpost-2022-09-01T20:31:06.669675-06:00.lighthouse.json) |
 | [September 1 at 9:10 AM](https://archive.org/download/denverpost-2022/denverpost-2022-09-01T09:10:47.056288-06:00.lighthouse.json) |
 | [August 31 at 8:29 PM](https://archive.org/download/denverpost-2022/denverpost-2022-08-31T20:29:20.453321-06:00.lighthouse.json) |
 | [August 31 at 9:01 AM](https://archive.org/download/denverpost-2022/denverpost-2022-08-31T09:01:30.658004-06:00.lighthouse.json) |
-| [August 30 at 8:26 PM](https://archive.org/download/denverpost-2022/denverpost-2022-08-30T20:26:18.996599-06:00.lighthouse.json) |
-| [August 30 at 9:22 AM](https://archive.org/download/denverpost-2022/denverpost-2022-08-30T09:22:17.850232-06:00.lighthouse.json) |
-| [August 29 at 8:31 PM](https://archive.org/download/denverpost-2022/denverpost-2022-08-29T20:30:56.137211-06:00.lighthouse.json) |
-| [August 29 at 8:09 AM](https://archive.org/download/denverpost-2022/denverpost-2022-08-29T08:09:14.708449-06:00.lighthouse.json) |
-| [August 28 at 8:26 PM](https://archive.org/download/denverpost-2022/denverpost-2022-08-28T20:25:58.982157-06:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 220 screenshots with the Internet Archive.
+The archiving routine has saved 223 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-05T06:01:46.667179-05:00.jpg">
+  <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-05T06:01:46.667179-05:00.jpg"
+     alt="Chicago Reader at 2022-09-05 06:01:51-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-05T06:01:46.667179-05:00.jpg">September 5 at 6:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-04T17:56:59.364948-05:00.jpg">
+  <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-04T17:56:59.364948-05:00.jpg"
+     alt="Chicago Reader at 2022-09-04 17:57:05-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-04T17:56:59.364948-05:00.jpg">September 4 at 5:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-04T11:40:52.773912-05:00.jpg">
+  <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-04T11:40:52.773912-05:00.jpg"
+     alt="Chicago Reader at 2022-09-04 11:40:54-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-04T11:40:52.773912-05:00.jpg">September 4 at 11:40 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-04T05:53:33.404515-05:00.jpg">
   <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-04T05:53:33.404515-05:00.jpg"
      alt="Chicago Reader at 2022-09-04 05:53:40-05:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-01T18:01:09.280095-05:00.jpg">September 1 at 6:01 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-01T11:31:48.940070-05:00.jpg">
-  <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-01T11:31:48.940070-05:00.jpg"
-     alt="Chicago Reader at 2022-09-01 11:32:09-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-01T11:31:48.940070-05:00.jpg">September 1 at 11:32 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-01T06:03:41.492887-05:00.jpg">
-  <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-01T06:03:41.492887-05:00.jpg"
-     alt="Chicago Reader at 2022-09-01 06:03:46-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-01T06:03:41.492887-05:00.jpg">September 1 at 6:03 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-31T17:56:59.227123-05:00.jpg">
-  <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-31T17:56:59.227123-05:00.jpg"
-     alt="Chicago Reader at 2022-08-31 17:57:16-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-31T17:56:59.227123-05:00.jpg">August 31 at 5:57 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 220 hyperlink lists with the Internet Archive.
+The archiving routine has saved 223 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 5 at 6:01 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-05T06:01:46.667179-05:00.hyperlinks.json) |
+| [September 4 at 5:57 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-04T17:56:59.364948-05:00.hyperlinks.json) |
+| [September 4 at 11:40 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-04T11:40:52.773912-05:00.hyperlinks.json) |
 | [September 4 at 5:53 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-04T05:53:33.404515-05:00.hyperlinks.json) |
 | [September 3 at 5:57 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-03T17:57:26.587429-05:00.hyperlinks.json) |
 | [September 3 at 10:58 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-03T10:58:45.775738-05:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 3 at 5:53 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-03T05:53:06.453991-05:00.hyperlinks.json) |
 | [September 2 at 6:53 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-02T18:53:31.492892-05:00.hyperlinks.json) |
 | [September 2 at 11:22 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-02T11:22:23.394147-05:00.hyperlinks.json) |
-| [September 2 at 5:59 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-02T05:59:19.897316-05:00.hyperlinks.json) |
-| [September 1 at 6:02 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-01T18:01:09.280095-05:00.hyperlinks.json) |
-| [September 1 at 11:32 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-01T11:31:48.940070-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 219 accessibility trees with the Internet Archive.
+The archiving routine has saved 222 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 5 at 6:01 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-05T06:01:46.667179-05:00.accessibility.json) |
+| [September 4 at 5:57 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-04T17:56:59.364948-05:00.accessibility.json) |
+| [September 4 at 11:40 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-04T11:40:52.773912-05:00.accessibility.json) |
 | [September 4 at 5:53 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-04T05:53:33.404515-05:00.accessibility.json) |
 | [September 3 at 5:57 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-03T17:57:26.587429-05:00.accessibility.json) |
 | [September 3 at 10:58 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-03T10:58:45.775738-05:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 3 at 5:53 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-03T05:53:06.453991-05:00.accessibility.json) |
 | [September 2 at 6:53 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-02T18:53:31.492892-05:00.accessibility.json) |
 | [September 2 at 11:22 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-02T11:22:23.394147-05:00.accessibility.json) |
-| [September 2 at 5:59 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-02T05:59:19.897316-05:00.accessibility.json) |
-| [September 1 at 6:01 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-01T18:01:09.280095-05:00.accessibility.json) |
-| [September 1 at 11:32 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-01T11:31:48.940070-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 126 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 129 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 6:01 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-05T06:01:46.667179-05:00.lighthouse.json) |
+| [September 4 at 5:57 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-04T17:56:59.364948-05:00.lighthouse.json) |
+| [September 4 at 11:40 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-04T11:40:52.773912-05:00.lighthouse.json) |
 | [September 4 at 5:53 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-04T05:53:33.404515-05:00.lighthouse.json) |
 | [September 3 at 5:57 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-03T17:57:26.587429-05:00.lighthouse.json) |
 | [September 3 at 10:58 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-03T10:58:45.775738-05:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 3 at 5:53 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-03T05:53:06.453991-05:00.lighthouse.json) |
 | [September 2 at 6:53 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-02T18:53:31.492892-05:00.lighthouse.json) |
 | [September 2 at 11:22 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-02T11:22:23.394147-05:00.lighthouse.json) |
-| [September 2 at 5:59 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-02T05:59:19.897316-05:00.lighthouse.json) |
-| [September 1 at 6:02 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-01T18:01:09.280095-05:00.lighthouse.json) |
-| [September 1 at 11:32 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-09-01T11:31:48.940070-05:00.lighthouse.json) |
 
 
 

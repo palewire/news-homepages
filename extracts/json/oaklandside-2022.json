@@ -1,5 +1,5 @@
 {
-  "created": 1662155647,
+  "created": 1662340934,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/30/items/oaklandside-2022",
@@ -13836,31 +13836,341 @@
       "sha1": "254a9833397eabd40d503ae14f6ac248120a0fc1"
     },
     {
+      "name": "oaklandside-2022-09-02T18:20:53.023708-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662168057",
+      "size": "30762",
+      "md5": "ebf1716f56c216f183b030158c518c06",
+      "crc32": "60604235",
+      "sha1": "686c0c411b3fe17de0d2c9bdee60a7fade22373e",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-09-02T18:20:53.023708-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662168059",
+      "size": "27572",
+      "md5": "c217e3d6151cd0a0540be7123d790070",
+      "crc32": "3f4a7563",
+      "sha1": "d25cd84e7a40b71b87b819e84acb8d2ec416aeda",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-09-02T18:20:53.023708-07:00.jpg",
+      "source": "original",
+      "mtime": "1662168054",
+      "size": "284382",
+      "md5": "e89b8390d416310f17d6a9daa06f20b5",
+      "crc32": "bcab4068",
+      "sha1": "0b043640f3f762a0c8ce0e921d509f4604412eec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oaklandside-2022-09-02T18:20:53.023708-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662168061",
+      "size": "1468",
+      "md5": "c8a17d2d3690cb03903e094a44584e17",
+      "crc32": "826e47eb",
+      "sha1": "f4afbcfd8e06c66c1fa21b864e2cf261eb1acd2b",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-09-02T18:20:53.023708-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662168062",
+      "size": "52046",
+      "md5": "652b8b6eb91a97937dc0e0044644c362",
+      "crc32": "310a9006",
+      "sha1": "cd82badd034e0c6a6272f341e7825705f1568309",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-09-02T18:20:53.023708-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oaklandside-2022-09-02T18:20:53.023708-07:00.jpg",
+      "mtime": "1662168144",
+      "size": "10199",
+      "md5": "cc44f6146149d2257f61a9a1f08140b9",
+      "crc32": "49af79d3",
+      "sha1": "c7e82208a140545580e17e7aa9dca9cb17298b72"
+    },
+    {
+      "name": "oaklandside-2022-09-03T06:10:00.589172-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662210604",
+      "size": "31062",
+      "md5": "ac9973c1ef89eda4fbfa7faaa24ad8c2",
+      "crc32": "3a6c192c",
+      "sha1": "4446f979ad9313feeee10463b911665ac8515ca8",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-09-03T06:10:00.589172-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662210606",
+      "size": "27572",
+      "md5": "c217e3d6151cd0a0540be7123d790070",
+      "crc32": "3f4a7563",
+      "sha1": "d25cd84e7a40b71b87b819e84acb8d2ec416aeda",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-09-03T06:10:00.589172-07:00.jpg",
+      "source": "original",
+      "mtime": "1662210602",
+      "size": "284382",
+      "md5": "e89b8390d416310f17d6a9daa06f20b5",
+      "crc32": "bcab4068",
+      "sha1": "0b043640f3f762a0c8ce0e921d509f4604412eec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oaklandside-2022-09-03T06:10:00.589172-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662210608",
+      "size": "1468",
+      "md5": "1d871eb803389fc64590e6ffa6509386",
+      "crc32": "fc58c8e3",
+      "sha1": "6668ebb56f4ba1e989ed1895a0f4a0a279c60ec7",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-09-03T06:10:00.589172-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662210609",
+      "size": "43745",
+      "md5": "36661c5f3f685c54f1361341a4f303e8",
+      "crc32": "e005e803",
+      "sha1": "acc7c1cfe4c150d2cb8ee9905a0e264e390d5b7e",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-09-03T06:10:00.589172-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oaklandside-2022-09-03T06:10:00.589172-07:00.jpg",
+      "mtime": "1662210689",
+      "size": "10199",
+      "md5": "cc44f6146149d2257f61a9a1f08140b9",
+      "crc32": "49af79d3",
+      "sha1": "c7e82208a140545580e17e7aa9dca9cb17298b72"
+    },
+    {
+      "name": "oaklandside-2022-09-03T18:11:55.550478-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662253920",
+      "size": "31062",
+      "md5": "5bf478f743a05c487f50088052e1031c",
+      "crc32": "b8a3d77e",
+      "sha1": "34afed375cc998ca77741e2c4a717ad88802e18e",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-09-03T18:11:55.550478-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662253923",
+      "size": "27572",
+      "md5": "c217e3d6151cd0a0540be7123d790070",
+      "crc32": "3f4a7563",
+      "sha1": "d25cd84e7a40b71b87b819e84acb8d2ec416aeda",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-09-03T18:11:55.550478-07:00.jpg",
+      "source": "original",
+      "mtime": "1662253918",
+      "size": "284382",
+      "md5": "e89b8390d416310f17d6a9daa06f20b5",
+      "crc32": "bcab4068",
+      "sha1": "0b043640f3f762a0c8ce0e921d509f4604412eec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oaklandside-2022-09-03T18:11:55.550478-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662253926",
+      "size": "1468",
+      "md5": "981f6a413c5122157312125902d7ffed",
+      "crc32": "c04373bf",
+      "sha1": "de44eda967d97f3d0aa09a5bd4154d6e153219da",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-09-03T18:11:55.550478-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662253930",
+      "size": "40281",
+      "md5": "b2f8613fad43f3966270d18137fdecc1",
+      "crc32": "02e94b8d",
+      "sha1": "282a7f66a95decc19a4abb4e3a668802ae99199f",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-09-03T18:11:55.550478-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oaklandside-2022-09-03T18:11:55.550478-07:00.jpg",
+      "mtime": "1662254053",
+      "size": "10199",
+      "md5": "cc44f6146149d2257f61a9a1f08140b9",
+      "crc32": "49af79d3",
+      "sha1": "c7e82208a140545580e17e7aa9dca9cb17298b72"
+    },
+    {
+      "name": "oaklandside-2022-09-04T05:54:38.462284-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662296087",
+      "size": "30964",
+      "md5": "a43c19ba87669c8e32bfb49983470c94",
+      "crc32": "c947db1b",
+      "sha1": "0fb87b82a830e3eee9ac9205cbb34c1c2ab28f1f",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-09-04T05:54:38.462284-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662296089",
+      "size": "27572",
+      "md5": "c217e3d6151cd0a0540be7123d790070",
+      "crc32": "3f4a7563",
+      "sha1": "d25cd84e7a40b71b87b819e84acb8d2ec416aeda",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-09-04T05:54:38.462284-07:00.jpg",
+      "source": "original",
+      "mtime": "1662296085",
+      "size": "284382",
+      "md5": "e89b8390d416310f17d6a9daa06f20b5",
+      "crc32": "bcab4068",
+      "sha1": "0b043640f3f762a0c8ce0e921d509f4604412eec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oaklandside-2022-09-04T05:54:38.462284-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662296090",
+      "size": "1468",
+      "md5": "1cad452bf694d31870d1b04cc47ef3ee",
+      "crc32": "3ad6b603",
+      "sha1": "8b930bd6f68ce6534b7dc5950be685cb0df2baa9",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-09-04T05:54:38.462284-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662296092",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-09-04T05:54:38.462284-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oaklandside-2022-09-04T05:54:38.462284-07:00.jpg",
+      "mtime": "1662296159",
+      "size": "10199",
+      "md5": "cc44f6146149d2257f61a9a1f08140b9",
+      "crc32": "49af79d3",
+      "sha1": "c7e82208a140545580e17e7aa9dca9cb17298b72"
+    },
+    {
+      "name": "oaklandside-2022-09-04T18:20:27.408519-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662340831",
+      "size": "30964",
+      "md5": "a43c19ba87669c8e32bfb49983470c94",
+      "crc32": "c947db1b",
+      "sha1": "0fb87b82a830e3eee9ac9205cbb34c1c2ab28f1f",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-09-04T18:20:27.408519-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662340833",
+      "size": "27572",
+      "md5": "c217e3d6151cd0a0540be7123d790070",
+      "crc32": "3f4a7563",
+      "sha1": "d25cd84e7a40b71b87b819e84acb8d2ec416aeda",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-09-04T18:20:27.408519-07:00.jpg",
+      "source": "original",
+      "mtime": "1662340829",
+      "size": "284382",
+      "md5": "e89b8390d416310f17d6a9daa06f20b5",
+      "crc32": "bcab4068",
+      "sha1": "0b043640f3f762a0c8ce0e921d509f4604412eec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oaklandside-2022-09-04T18:20:27.408519-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662340835",
+      "size": "1465",
+      "md5": "c3e108e26ebda88902cff010ca99ba2a",
+      "crc32": "7288be74",
+      "sha1": "bea2bb28d59b95e870f5abf23a655d0697cf0c80",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-09-04T18:20:27.408519-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662340837",
+      "size": "44098",
+      "md5": "20c3be5241ea022d2ff5393d22c92e7b",
+      "crc32": "27c84871",
+      "sha1": "ac35f224d377bcc576ee63513c1c02767ee556fa",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-09-04T18:20:27.408519-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oaklandside-2022-09-04T18:20:27.408519-07:00.jpg",
+      "mtime": "1662340904",
+      "size": "10199",
+      "md5": "cc44f6146149d2257f61a9a1f08140b9",
+      "crc32": "49af79d3",
+      "sha1": "c7e82208a140545580e17e7aa9dca9cb17298b72"
+    },
+    {
       "name": "oaklandside-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cce973c6d7f070057f244aa0fd068f14d6f5042b",
-      "mtime": "1662123848",
-      "size": "284705",
-      "md5": "d1b4659a464f91d55294a2866d7b081c",
-      "crc32": "2d86c75a",
-      "sha1": "2bbf7f2a7c7364cdd649dd13fd97090d7dfb5598",
+      "btih": "80a069e163319b0fa2be79769568fd989626cb15",
+      "mtime": "1662340922",
+      "size": "291113",
+      "md5": "c58b20ef3aa1b8488c036fa15ced2e23",
+      "crc32": "2c554f1b",
+      "sha1": "691a7a3a72bf08a4d9cc25a6ae13578b6e11be2f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oaklandside-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "17afa4f53e33bcac8af813805c62366a",
+      "md5": "dfd0d33fbd36f277869e5bbc183d8fe8",
       "summation": "md5"
     },
     {
       "name": "oaklandside-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662123751",
-      "size": "1576960",
-      "md5": "7cd876c62109ea39f7c9185a50db8287",
-      "crc32": "0e2cce94",
-      "sha1": "e0c4642c23c284fcfe29cd7e8123346c687e7aba",
+      "mtime": "1662340842",
+      "size": "1613824",
+      "md5": "afa8d4511ffc54d10aca20c687e19945",
+      "crc32": "f9443116",
+      "sha1": "4f39c92ff76bf723c752a91ecaeb21e9885a0866",
       "format": "Metadata"
     },
     {
@@ -13874,9 +14184,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1327,
-  "item_last_updated": 1662123848,
-  "item_size": 125755557,
+  "files_count": 1357,
+  "item_last_updated": 1662340922,
+  "item_size": 127752117,
   "metadata": {
     "identifier": "oaklandside-2022",
     "collection": [
@@ -13893,10 +14203,10 @@
     "publicdate": "2022-03-23 02:09:27",
     "addeddate": "2022-03-23 02:09:27"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 622171348,
+  "server": "ia902503.us.archive.org",
+  "uniq": 843420173,
   "workable_servers": [
-    "ia802503.us.archive.org",
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1662163118,
+  "created": 1662335622,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/25/items/houstonchron-2022",
@@ -6424,31 +6424,279 @@
       "sha1": "b9315ff0516a8516483cb520e7beeb5eed8e5f29"
     },
     {
+      "name": "houstonchron-2022-09-03T07:01:30.057929-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662206495",
+      "size": "67303",
+      "md5": "168dc9ae535b8ddf3792749f1e4c155f",
+      "crc32": "6a263019",
+      "sha1": "33da6adfb3f708a3c22815479f173630418b4519",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-09-03T07:01:30.057929-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662206496",
+      "size": "80480",
+      "md5": "cdda0a773cd544385997eadd90d1b203",
+      "crc32": "21b21e2a",
+      "sha1": "db1d58a453ab4ed4d94a21edc4dae746f3018c73",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-09-03T07:01:30.057929-05:00.jpg",
+      "source": "original",
+      "mtime": "1662206493",
+      "size": "336495",
+      "md5": "e9e77629f2fa4e2f80b35d7c596969e1",
+      "crc32": "031f2c30",
+      "sha1": "1de9ba5938ea724ce09be6f984072467ec2f7280",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "houstonchron-2022-09-03T07:01:30.057929-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662206498",
+      "size": "1549",
+      "md5": "8119f06b756f84d83502bb985b8b01d5",
+      "crc32": "cfb668e9",
+      "sha1": "9039f0b1ddd9a570f420b65bf0ee6a7521c67edb",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-09-03T07:01:30.057929-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662206499",
+      "size": "90185",
+      "md5": "41728750c99268d00f07e706e6cf8b43",
+      "crc32": "a000a49c",
+      "sha1": "d27f1404698d15b264f831f41f73e3fb9e97152c",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-09-03T07:01:30.057929-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "houstonchron-2022-09-03T07:01:30.057929-05:00.jpg",
+      "mtime": "1662206561",
+      "size": "10686",
+      "md5": "eb0e3ee4261f25c2cb3e607c0199b4e1",
+      "crc32": "7a9f3cdf",
+      "sha1": "306c871889fb30473ac530280fe4dad9a0c2b41f"
+    },
+    {
+      "name": "houstonchron-2022-09-03T18:45:42.321754-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662248750",
+      "size": "68121",
+      "md5": "c6892bdce0161492436aa9a2d988d88a",
+      "crc32": "bc0fa8af",
+      "sha1": "caec4ed3a0eb802bb6041ba2e8312b531bd4efff",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-09-03T18:45:42.321754-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662248752",
+      "size": "81474",
+      "md5": "7bfc1a44f88350c8c5d15199bdb2026a",
+      "crc32": "b7e2c754",
+      "sha1": "267f7d1cad673459162eb780bc8fe7be65e358b4",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-09-03T18:45:42.321754-05:00.jpg",
+      "source": "original",
+      "mtime": "1662248749",
+      "size": "333178",
+      "md5": "bd03cd2163b564113989afe2a45c64fa",
+      "crc32": "bad90ccb",
+      "sha1": "917ebbdfdb421aee975a9c69716785bace8f6294",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "houstonchron-2022-09-03T18:45:42.321754-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662248754",
+      "size": "1549",
+      "md5": "58071d57b0ab6cd482c747f5a22f4c2a",
+      "crc32": "6c4bd26d",
+      "sha1": "285c6549a754c51dfe253832612765b04503f6d3",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-09-03T18:45:42.321754-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662248756",
+      "size": "52123",
+      "md5": "08825e708938b8d170939a11083987fb",
+      "crc32": "a0daa2ed",
+      "sha1": "36c9e4c343a40db576df1c68adb3cbe5881a5745",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-09-03T18:45:42.321754-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "houstonchron-2022-09-03T18:45:42.321754-05:00.jpg",
+      "mtime": "1662248810",
+      "size": "10719",
+      "md5": "9e49a4aba7f703b47302e332199a4336",
+      "crc32": "f4093159",
+      "sha1": "44edd1e2c3380e5a5258a3a543152d49d2eaca68"
+    },
+    {
+      "name": "houstonchron-2022-09-04T06:54:34.916705-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662292480",
+      "size": "67185",
+      "md5": "dd553c60b5c0a33e22cb581353c22905",
+      "crc32": "91716707",
+      "sha1": "f99ce0e595f747ada99760fe59a9c2edc20b41a2",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-09-04T06:54:34.916705-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662292482",
+      "size": "81194",
+      "md5": "e327413208f7974941e8df38c271f5d1",
+      "crc32": "cc1c7284",
+      "sha1": "b81b458fca1c4490c49ebba81de9883bae4bbcb6",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-09-04T06:54:34.916705-05:00.jpg",
+      "source": "original",
+      "mtime": "1662292478",
+      "size": "333801",
+      "md5": "30c9fa0e7953921334e75793f223c189",
+      "crc32": "03492632",
+      "sha1": "c2294c66bb3b3287d1ca5b6010a5831d26cc978b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "houstonchron-2022-09-04T06:54:34.916705-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662292483",
+      "size": "1549",
+      "md5": "131777a46a0f705a9584a2f171c5e688",
+      "crc32": "5ef77af2",
+      "sha1": "0d24579a84037565cf8059da95c68c1b5c8a96eb",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-09-04T06:54:34.916705-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662292485",
+      "size": "52886",
+      "md5": "e4f783f54edfdb4f50424b5abf7fd3b0",
+      "crc32": "e1c6dcec",
+      "sha1": "fd25c30cc34eb8c29cb7368cdcfbb6b6e78e3c26",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-09-04T06:54:34.916705-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "houstonchron-2022-09-04T06:54:34.916705-05:00.jpg",
+      "mtime": "1662292544",
+      "size": "10819",
+      "md5": "bfa0412124b5474a22cc11a8739b4462",
+      "crc32": "a4881e2b",
+      "sha1": "475d1c87929610caa1797a6d49f1f5a8cdbdafa7"
+    },
+    {
+      "name": "houstonchron-2022-09-04T18:52:04.767885-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662335532",
+      "size": "66844",
+      "md5": "6aa2aad868811b434c7f74afa1c3fef1",
+      "crc32": "a123621e",
+      "sha1": "89b1051299c3f1a9efeed7b6ceecb12c5285bd97",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-09-04T18:52:04.767885-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662335534",
+      "size": "80939",
+      "md5": "4632e2cae578b847bbe0ccc1be72cb7c",
+      "crc32": "c52f8655",
+      "sha1": "754f97ac37f26239b43b371245ca867c674c824a",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-09-04T18:52:04.767885-05:00.jpg",
+      "source": "original",
+      "mtime": "1662335528",
+      "size": "325287",
+      "md5": "7b84114e5d0f1686da8a16775900e577",
+      "crc32": "77517db9",
+      "sha1": "4890e687d81d1440667bc6493a68cf50ab21aadb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "houstonchron-2022-09-04T18:52:04.767885-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662335535",
+      "size": "1549",
+      "md5": "1345f13c76e3ad421f6b23799ae77427",
+      "crc32": "aa79a0cd",
+      "sha1": "3f08ccc491ecc13c421171e74e8a333c6c9b9bfe",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-09-04T18:52:04.767885-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662335537",
+      "size": "98855",
+      "md5": "c50d40b9d125e82ea22bfe2293107f7d",
+      "crc32": "04a9597e",
+      "sha1": "382dec00ceaf959b2b53bb1c4e884709611cb222",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-09-04T18:52:04.767885-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "houstonchron-2022-09-04T18:52:04.767885-05:00.jpg",
+      "mtime": "1662335603",
+      "size": "10527",
+      "md5": "bac6be8f36818e042df3bcf5e2c11d46",
+      "crc32": "b67193e2",
+      "sha1": "da79e81bc0ff9ef50dcfb683cc7ade21b0ec8505"
+    },
+    {
       "name": "houstonchron-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e89a366456bc890b010d19ea9fc79c6da16242d3",
-      "mtime": "1662163111",
-      "size": "134649",
-      "md5": "efd3f55aee8b2c27f774cd5fed518c0d",
-      "crc32": "935cd830",
-      "sha1": "0047c6c1254905735cb505aa19f0c3efdc9bbf11",
+      "btih": "0f9d922ea679492563d2633069e20cbf7ca1eccb",
+      "mtime": "1662335609",
+      "size": "139817",
+      "md5": "89a8c8ef371cac70136c3edf4322898d",
+      "crc32": "af361301",
+      "sha1": "99d78ea76d5285fcf63e38843bec6aae4ce0ee28",
       "format": "Archive BitTorrent"
     },
     {
       "name": "houstonchron-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "025f11786360ec3f9ad77cbad2ebb3a7",
+      "md5": "dd528fbeb3e581c57029b3632eb40ff1",
       "summation": "md5"
     },
     {
       "name": "houstonchron-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662163053",
-      "size": "778240",
-      "md5": "8da2ce669d5ad62bc9a5f8774d106edd",
-      "crc32": "cda5a120",
-      "sha1": "7ad452ea314f49fd6a0f751818ddf08e3382dbc8",
+      "mtime": "1662335542",
+      "size": "815104",
+      "md5": "714cc705f0e62f8e1739c0c52cdfc6bc",
+      "crc32": "cdfd42cc",
+      "sha1": "bf84aab9dfda3fcaef81583c1f91bc972405ca7e",
       "format": "Metadata"
     },
     {
@@ -6462,9 +6710,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 622,
-  "item_last_updated": 1662163111,
-  "item_size": 60218430,
+  "files_count": 646,
+  "item_last_updated": 1662335609,
+  "item_size": 62525759,
   "metadata": {
     "identifier": "houstonchron-2022",
     "collection": [
@@ -6482,7 +6730,7 @@
     "addeddate": "2022-07-04 21:54:16"
   },
   "server": "ia601400.us.archive.org",
-  "uniq": 1389845773,
+  "uniq": 241038685,
   "workable_servers": [
     "ia601400.us.archive.org",
     "ia801400.us.archive.org"

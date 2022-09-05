@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 95 screenshots with the Internet Archive.
+The archiving routine has saved 100 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,51 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-05T00:55:16.013250-04:00.jpg">
+  <img src="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-05T00:55:16.013250-04:00.jpg"
+     alt="Vogue at 2022-09-05 00:55:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-05T00:55:16.013250-04:00.jpg">September 5 at 12:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-04T12:48:20.758110-04:00.jpg">
+  <img src="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-04T12:48:20.758110-04:00.jpg"
+     alt="Vogue at 2022-09-04 12:48:25-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-04T12:48:20.758110-04:00.jpg">September 4 at 12:48 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-04T00:44:44.646659-04:00.jpg">
+  <img src="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-04T00:44:44.646659-04:00.jpg"
+     alt="Vogue at 2022-09-04 00:44:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-04T00:44:44.646659-04:00.jpg">September 4 at 12:44 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-03T12:07:30.307572-04:00.jpg">
+  <img src="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-03T12:07:30.307572-04:00.jpg"
+     alt="Vogue at 2022-09-03 12:07:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-03T12:07:30.307572-04:00.jpg">September 3 at 12:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-03T00:45:48.197020-04:00.jpg">
+  <img src="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-03T00:45:48.197020-04:00.jpg"
+     alt="Vogue at 2022-09-03 00:45:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-03T00:45:48.197020-04:00.jpg">September 3 at 12:45 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-02T12:20:45.966301-04:00.jpg">
   <img src="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-02T12:20:45.966301-04:00.jpg"
      alt="Vogue at 2022-09-02 12:20:47-04:00 local time"
@@ -388,56 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-30T12:39:35.261829-04:00.jpg">August 30 at 12:39 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-30T01:00:12.783753-04:00.jpg">
-  <img src="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-30T01:00:12.783753-04:00.jpg"
-     alt="Vogue at 2022-08-30 01:00:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-30T01:00:12.783753-04:00.jpg">August 30 at 1:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-29T12:19:40.690894-04:00.jpg">
-  <img src="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-29T12:19:40.690894-04:00.jpg"
-     alt="Vogue at 2022-08-29 12:19:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-29T12:19:40.690894-04:00.jpg">August 29 at 12:19 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-29T00:43:10.968000-04:00.jpg">
-  <img src="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-29T00:43:10.968000-04:00.jpg"
-     alt="Vogue at 2022-08-29 00:43:12-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-29T00:43:10.968000-04:00.jpg">August 29 at 12:43 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-28T12:04:56.667986-04:00.jpg">
-  <img src="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-28T12:04:56.667986-04:00.jpg"
-     alt="Vogue at 2022-08-28 12:05:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-28T12:04:56.667986-04:00.jpg">August 28 at 12:05 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-28T00:40:01.014935-04:00.jpg">
-  <img src="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-28T00:40:01.014935-04:00.jpg"
-     alt="Vogue at 2022-08-28 00:40:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-28T00:40:01.014935-04:00.jpg">August 28 at 12:40 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 94 hyperlink lists with the Internet Archive.
+The archiving routine has saved 99 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 5 at 12:55 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-05T00:55:16.013250-04:00.hyperlinks.json) |
+| [September 4 at 12:48 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-04T12:48:20.758110-04:00.hyperlinks.json) |
+| [September 4 at 12:44 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-04T00:44:44.646659-04:00.hyperlinks.json) |
+| [September 3 at 12:07 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-03T12:07:30.307572-04:00.hyperlinks.json) |
+| [September 3 at 12:45 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-03T00:45:48.197020-04:00.hyperlinks.json) |
 | [September 2 at 12:20 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-02T12:20:45.966301-04:00.hyperlinks.json) |
 | [September 2 at 12:52 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-02T00:52:04.585716-04:00.hyperlinks.json) |
 | [September 1 at 12:42 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-01T12:42:29.325316-04:00.hyperlinks.json) |
 | [September 1 at 12:46 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-01T00:46:49.651964-04:00.hyperlinks.json) |
 | [August 31 at 12:15 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-31T12:15:10.923598-04:00.hyperlinks.json) |
-| [August 31 at 12:54 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-31T00:54:28.833400-04:00.hyperlinks.json) |
-| [August 30 at 12:39 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-30T12:39:35.261829-04:00.hyperlinks.json) |
-| [August 30 at 1:00 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-30T01:00:12.783753-04:00.hyperlinks.json) |
-| [August 29 at 12:19 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-29T12:19:40.690894-04:00.hyperlinks.json) |
-| [August 29 at 12:43 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-29T00:43:10.968000-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 95 accessibility trees with the Internet Archive.
+The archiving routine has saved 100 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 5 at 12:55 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-05T00:55:16.013250-04:00.accessibility.json) |
+| [September 4 at 12:48 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-04T12:48:20.758110-04:00.accessibility.json) |
+| [September 4 at 12:44 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-04T00:44:44.646659-04:00.accessibility.json) |
+| [September 3 at 12:07 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-03T12:07:30.307572-04:00.accessibility.json) |
+| [September 3 at 12:45 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-03T00:45:48.197020-04:00.accessibility.json) |
 | [September 2 at 12:20 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-02T12:20:45.966301-04:00.accessibility.json) |
 | [September 2 at 12:52 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-02T00:52:04.585716-04:00.accessibility.json) |
 | [September 1 at 12:42 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-01T12:42:29.325316-04:00.accessibility.json) |
 | [September 1 at 12:46 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-01T00:46:49.651964-04:00.accessibility.json) |
 | [August 31 at 12:15 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-31T12:15:10.923598-04:00.accessibility.json) |
-| [August 31 at 12:54 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-31T00:54:28.833400-04:00.accessibility.json) |
-| [August 30 at 12:39 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-30T12:39:35.261829-04:00.accessibility.json) |
-| [August 30 at 1:00 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-30T01:00:12.783753-04:00.accessibility.json) |
-| [August 29 at 12:19 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-29T12:19:40.690894-04:00.accessibility.json) |
-| [August 29 at 12:43 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-29T00:43:10.968000-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 83 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 88 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 12:55 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-05T00:55:16.013250-04:00.lighthouse.json) |
+| [September 4 at 12:48 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-04T12:48:20.758110-04:00.lighthouse.json) |
+| [September 4 at 12:44 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-04T00:44:44.646659-04:00.lighthouse.json) |
+| [September 3 at 12:07 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-03T12:07:30.307572-04:00.lighthouse.json) |
+| [September 3 at 12:45 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-03T00:45:48.197020-04:00.lighthouse.json) |
 | [September 2 at 12:20 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-02T12:20:45.966301-04:00.lighthouse.json) |
 | [September 2 at 12:52 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-02T00:52:04.585716-04:00.lighthouse.json) |
 | [September 1 at 12:42 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-01T12:42:29.325316-04:00.lighthouse.json) |
 | [September 1 at 12:46 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-01T00:46:49.651964-04:00.lighthouse.json) |
 | [August 31 at 12:15 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-31T12:15:10.923598-04:00.lighthouse.json) |
-| [August 31 at 12:54 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-31T00:54:28.833400-04:00.lighthouse.json) |
-| [August 30 at 12:39 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-30T12:39:35.261829-04:00.lighthouse.json) |
-| [August 30 at 1:00 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-30T01:00:12.783753-04:00.lighthouse.json) |
-| [August 29 at 12:19 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-29T12:19:40.690894-04:00.lighthouse.json) |
-| [August 29 at 12:43 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-29T00:43:10.968000-04:00.lighthouse.json) |
 
 
 

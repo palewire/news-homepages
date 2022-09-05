@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 129 screenshots with the Internet Archive.
+The archiving routine has saved 134 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,51 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-04T21:20:36.587661-04:00.jpg">
+  <img src="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-04T21:20:36.587661-04:00.jpg"
+     alt="Philadelphia Inquirer at 2022-09-04 21:20:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-04T21:20:36.587661-04:00.jpg">September 4 at 9:20 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-04T08:54:54.161721-04:00.jpg">
+  <img src="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-04T08:54:54.161721-04:00.jpg"
+     alt="Philadelphia Inquirer at 2022-09-04 08:54:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-04T08:54:54.161721-04:00.jpg">September 4 at 8:54 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-03T21:12:46.970473-04:00.jpg">
+  <img src="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-03T21:12:46.970473-04:00.jpg"
+     alt="Philadelphia Inquirer at 2022-09-03 21:12:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-03T21:12:46.970473-04:00.jpg">September 3 at 9:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-03T09:11:13.873867-04:00.jpg">
+  <img src="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-03T09:11:13.873867-04:00.jpg"
+     alt="Philadelphia Inquirer at 2022-09-03 09:11:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-03T09:11:13.873867-04:00.jpg">September 3 at 9:11 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-02T21:21:33.978663-04:00.jpg">
+  <img src="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-02T21:21:33.978663-04:00.jpg"
+     alt="Philadelphia Inquirer at 2022-09-02 21:21:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-02T21:21:33.978663-04:00.jpg">September 2 at 9:21 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-02T09:01:51.892248-04:00.jpg">
   <img src="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-02T09:01:51.892248-04:00.jpg"
      alt="Philadelphia Inquirer at 2022-09-02 09:01:57-04:00 local time"
@@ -388,56 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-30T09:09:28.805092-04:00.jpg">August 30 at 9:09 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-29T21:15:41.651704-04:00.jpg">
-  <img src="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-29T21:15:41.651704-04:00.jpg"
-     alt="Philadelphia Inquirer at 2022-08-29 21:15:43-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-29T21:15:41.651704-04:00.jpg">August 29 at 9:15 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-29T08:59:58.329589-04:00.jpg">
-  <img src="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-29T08:59:58.329589-04:00.jpg"
-     alt="Philadelphia Inquirer at 2022-08-29 09:00:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-29T08:59:58.329589-04:00.jpg">August 29 at 9:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-28T21:14:34.641516-04:00.jpg">
-  <img src="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-28T21:14:34.641516-04:00.jpg"
-     alt="Philadelphia Inquirer at 2022-08-28 21:14:36-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-28T21:14:34.641516-04:00.jpg">August 28 at 9:14 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-28T08:59:27.634847-04:00.jpg">
-  <img src="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-28T08:59:27.634847-04:00.jpg"
-     alt="Philadelphia Inquirer at 2022-08-28 08:59:31-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-28T08:59:27.634847-04:00.jpg">August 28 at 8:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-27T21:26:48.556378-04:00.jpg">
-  <img src="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-27T21:26:48.556378-04:00.jpg"
-     alt="Philadelphia Inquirer at 2022-08-27 21:26:50-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-27T21:26:48.556378-04:00.jpg">August 27 at 9:26 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 126 hyperlink lists with the Internet Archive.
+The archiving routine has saved 131 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 4 at 9:20 PM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-04T21:20:36.587661-04:00.hyperlinks.json) |
+| [September 4 at 8:55 AM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-04T08:54:54.161721-04:00.hyperlinks.json) |
+| [September 3 at 9:12 PM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-03T21:12:46.970473-04:00.hyperlinks.json) |
+| [September 3 at 9:11 AM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-03T09:11:13.873867-04:00.hyperlinks.json) |
+| [September 2 at 9:21 PM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-02T21:21:33.978663-04:00.hyperlinks.json) |
 | [September 2 at 9:02 AM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-02T09:01:51.892248-04:00.hyperlinks.json) |
 | [September 1 at 9:15 PM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-01T21:15:49.910087-04:00.hyperlinks.json) |
 | [September 1 at 9:11 AM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-01T09:11:00.917672-04:00.hyperlinks.json) |
 | [August 31 at 9:13 PM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-31T21:12:59.768731-04:00.hyperlinks.json) |
 | [August 31 at 9:10 AM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-31T09:10:35.517511-04:00.hyperlinks.json) |
-| [August 30 at 9:24 PM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-30T21:23:52.283830-04:00.hyperlinks.json) |
-| [August 30 at 9:09 AM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-30T09:09:28.805092-04:00.hyperlinks.json) |
-| [August 29 at 9:15 PM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-29T21:15:41.651704-04:00.hyperlinks.json) |
-| [August 29 at 9:00 AM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-29T08:59:58.329589-04:00.hyperlinks.json) |
-| [August 28 at 9:14 PM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-28T21:14:34.641516-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 130 accessibility trees with the Internet Archive.
+The archiving routine has saved 135 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 4 at 9:20 PM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-04T21:20:36.587661-04:00.accessibility.json) |
+| [September 4 at 8:54 AM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-04T08:54:54.161721-04:00.accessibility.json) |
+| [September 3 at 9:12 PM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-03T21:12:46.970473-04:00.accessibility.json) |
+| [September 3 at 9:11 AM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-03T09:11:13.873867-04:00.accessibility.json) |
+| [September 2 at 9:21 PM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-02T21:21:33.978663-04:00.accessibility.json) |
 | [September 2 at 9:01 AM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-02T09:01:51.892248-04:00.accessibility.json) |
 | [September 1 at 9:15 PM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-01T21:15:49.910087-04:00.accessibility.json) |
 | [September 1 at 9:11 AM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-01T09:11:00.917672-04:00.accessibility.json) |
 | [August 31 at 9:13 PM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-31T21:12:59.768731-04:00.accessibility.json) |
 | [August 31 at 9:10 AM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-31T09:10:35.517511-04:00.accessibility.json) |
-| [August 30 at 9:24 PM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-30T21:23:52.283830-04:00.accessibility.json) |
-| [August 30 at 9:09 AM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-30T09:09:28.805092-04:00.accessibility.json) |
-| [August 29 at 9:15 PM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-29T21:15:41.651704-04:00.accessibility.json) |
-| [August 29 at 9:00 AM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-29T08:59:58.329589-04:00.accessibility.json) |
-| [August 28 at 9:14 PM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-28T21:14:34.641516-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 81 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 86 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 4 at 9:20 PM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-04T21:20:36.587661-04:00.lighthouse.json) |
+| [September 4 at 8:55 AM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-04T08:54:54.161721-04:00.lighthouse.json) |
+| [September 3 at 9:12 PM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-03T21:12:46.970473-04:00.lighthouse.json) |
+| [September 3 at 9:11 AM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-03T09:11:13.873867-04:00.lighthouse.json) |
+| [September 2 at 9:21 PM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-02T21:21:33.978663-04:00.lighthouse.json) |
 | [September 2 at 9:02 AM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-02T09:01:51.892248-04:00.lighthouse.json) |
 | [September 1 at 9:16 PM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-01T21:15:49.910087-04:00.lighthouse.json) |
 | [September 1 at 9:11 AM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-09-01T09:11:00.917672-04:00.lighthouse.json) |
 | [August 31 at 9:13 PM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-31T21:12:59.768731-04:00.lighthouse.json) |
 | [August 30 at 9:24 PM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-30T21:23:52.283830-04:00.lighthouse.json) |
-| [August 29 at 9:15 PM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-29T21:15:41.651704-04:00.lighthouse.json) |
-| [August 29 at 9:00 AM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-29T08:59:58.329589-04:00.lighthouse.json) |
-| [August 28 at 9:14 PM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-28T21:14:34.641516-04:00.lighthouse.json) |
-| [August 28 at 8:59 AM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-28T08:59:27.634847-04:00.lighthouse.json) |
-| [August 27 at 9:26 PM](https://archive.org/download/phillyinquirer-2022/phillyinquirer-2022-08-27T21:26:48.556378-04:00.lighthouse.json) |
 
 
 

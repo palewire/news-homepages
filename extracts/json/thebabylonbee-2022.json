@@ -1,5 +1,5 @@
 {
-  "created": 1662165381,
+  "created": 1662341329,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/9/items/thebabylonbee-2022",
@@ -2940,31 +2940,341 @@
       "sha1": "7e86775304e2996cd1a00b7772cf124508b8cb25"
     },
     {
+      "name": "thebabylonbee-2022-09-02T21:24:40.798912-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662168284",
+      "size": "26009",
+      "md5": "38bb3e99f1bdf6898dbaceeac6d8b23a",
+      "crc32": "2bd58ed3",
+      "sha1": "4f0c306900610b249db6163c7bb398c54598a4ea",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-09-02T21:24:40.798912-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662168286",
+      "size": "23223",
+      "md5": "b6079209627f7d59453e54d6bc297fee",
+      "crc32": "836117ce",
+      "sha1": "6bde9ae758654195ae09cbf4cca82f5304123e43",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-09-02T21:24:40.798912-04:00.jpg",
+      "source": "original",
+      "mtime": "1662168282",
+      "size": "318850",
+      "md5": "0427648183e6b7016289098b046ee2cc",
+      "crc32": "9d475430",
+      "sha1": "bb0d7a9ce2562fdbf3b3d07f37b1584a48ee17af",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thebabylonbee-2022-09-02T21:24:40.798912-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662168287",
+      "size": "1459",
+      "md5": "496d08b20e6dc36960ea8e86723035d2",
+      "crc32": "05f889d9",
+      "sha1": "840ef520cde86c337062fdf78479fc5c0283c829",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-09-02T21:24:40.798912-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662168289",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-09-02T21:24:40.798912-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thebabylonbee-2022-09-02T21:24:40.798912-04:00.jpg",
+      "mtime": "1662168343",
+      "size": "10440",
+      "md5": "a234ecd43769ae7c6aa77e4ccf9d159c",
+      "crc32": "7510a203",
+      "sha1": "cfae2d6800437820e98528f66be0a37722b61a9e"
+    },
+    {
+      "name": "thebabylonbee-2022-09-03T09:15:00.348830-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662210905",
+      "size": "26040",
+      "md5": "8ab038d438987793df2c4ab1de22bee2",
+      "crc32": "b925d6db",
+      "sha1": "380f2ccf56d7ec1d711944d34e2ce33427cac84c",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-09-03T09:15:00.348830-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662210908",
+      "size": "23148",
+      "md5": "1f6d242d062bae395fe7a47091209a00",
+      "crc32": "74841dbf",
+      "sha1": "15b784050122e7182512192a3236d8df81b7f12f",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-09-03T09:15:00.348830-04:00.jpg",
+      "source": "original",
+      "mtime": "1662210903",
+      "size": "320834",
+      "md5": "c370ca707ffe2b2f5a9c78508db097e2",
+      "crc32": "f330420d",
+      "sha1": "9314c3fc443aa23000a8b946f82905fb1bf2d33b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thebabylonbee-2022-09-03T09:15:00.348830-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662210910",
+      "size": "1459",
+      "md5": "5dda3daa3fa486b55aa30a01ea84d75e",
+      "crc32": "a765efb4",
+      "sha1": "c4234b091fceeb810b7ed1e84e60df410301d406",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-09-03T09:15:00.348830-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662210911",
+      "size": "36728",
+      "md5": "6c9d8fbc016d679cc0f01e6908c35e2c",
+      "crc32": "04805adc",
+      "sha1": "9f18b0e603d1a98b781753f68fb75ff2ebc470ff",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-09-03T09:15:00.348830-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thebabylonbee-2022-09-03T09:15:00.348830-04:00.jpg",
+      "mtime": "1662211008",
+      "size": "10408",
+      "md5": "07ff50bfd6d6c6c6d0924a4ad7e75794",
+      "crc32": "00a1b9d9",
+      "sha1": "1f9bada57b99d1a670b587ab820b5768f6e9a779"
+    },
+    {
+      "name": "thebabylonbee-2022-09-03T21:15:49.132372-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662254153",
+      "size": "26061",
+      "md5": "abb31be714ff3207220830700d089164",
+      "crc32": "7f21bfe3",
+      "sha1": "8878dd4821b8bf024c1438a113c8c53954cf36dc",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-09-03T21:15:49.132372-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662254155",
+      "size": "23323",
+      "md5": "ec654b95d1bdfc5e2cc0058b3cf13648",
+      "crc32": "be6d3402",
+      "sha1": "cf8263dbdab63cf3f7475160864edbefbf5f9064",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-09-03T21:15:49.132372-04:00.jpg",
+      "source": "original",
+      "mtime": "1662254150",
+      "size": "324745",
+      "md5": "f3e1e3c7b908d86a30916c3ac4a27a49",
+      "crc32": "c56e8921",
+      "sha1": "34d2d73c1cb56c783603dd16922c13216d67e7e3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thebabylonbee-2022-09-03T21:15:49.132372-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662254156",
+      "size": "1459",
+      "md5": "1bb038046cc7f65d73cb0983a059457d",
+      "crc32": "2bbdc0fe",
+      "sha1": "451c65630c662f37abe6e31630c36923ac7da433",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-09-03T21:15:49.132372-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662254158",
+      "size": "33484",
+      "md5": "88c621eb0b98fd771381a3fce9abbc8d",
+      "crc32": "9ff1a837",
+      "sha1": "3821ca672534ad965f304295fa62629bc74bb168",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-09-03T21:15:49.132372-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thebabylonbee-2022-09-03T21:15:49.132372-04:00.jpg",
+      "mtime": "1662254208",
+      "size": "10321",
+      "md5": "a096cc456c8b35bb80038a6cb4b43bf5",
+      "crc32": "5f3abc18",
+      "sha1": "ae47a89917c2e37595a44271c752b47c789f8582"
+    },
+    {
+      "name": "thebabylonbee-2022-09-04T08:58:24.745477-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662296310",
+      "size": "26122",
+      "md5": "a1d8edd61d811ed4c8f5008097ff65de",
+      "crc32": "c0cd23fd",
+      "sha1": "c7d0450f4fb4ed7734c366f475f5cb74048df5d8",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-09-04T08:58:24.745477-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662296311",
+      "size": "23354",
+      "md5": "95e23b4a2dad8137971cac3dae96beb3",
+      "crc32": "ada3b3eb",
+      "sha1": "aac6749fd29122e2458c222a1e25704049f3badd",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-09-04T08:58:24.745477-04:00.jpg",
+      "source": "original",
+      "mtime": "1662296308",
+      "size": "327376",
+      "md5": "5e39384b160af1ebf258001d1a26ef8f",
+      "crc32": "23eb41ef",
+      "sha1": "a69f0f6f8c17dacd93aeda3ab36ed22d72b9d43c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thebabylonbee-2022-09-04T08:58:24.745477-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662296313",
+      "size": "1459",
+      "md5": "05d16b54faa6a6258c24a5325eb0225d",
+      "crc32": "1dfd4c6c",
+      "sha1": "2d3738e061c538526e7e8cc468554ec3b1253026",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-09-04T08:58:24.745477-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662296315",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-09-04T08:58:24.745477-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thebabylonbee-2022-09-04T08:58:24.745477-04:00.jpg",
+      "mtime": "1662296362",
+      "size": "10331",
+      "md5": "ca7c7f42026e975ac3c38d7fd33b531b",
+      "crc32": "d67c4f52",
+      "sha1": "614824f6da5ffdf8f0e5926d1eb502b295839429"
+    },
+    {
+      "name": "thebabylonbee-2022-09-04T21:25:36.854310-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662341139",
+      "size": "26230",
+      "md5": "f7c625caf3262a8d04014d9b39eb6c68",
+      "crc32": "d9886638",
+      "sha1": "27cc29f96c1de551a794d4830770bcf3022e8b53",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-09-04T21:25:36.854310-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662341140",
+      "size": "23335",
+      "md5": "3b082af442a6ac38902e6c90aadeccf8",
+      "crc32": "8cebf73c",
+      "sha1": "89d789b8f7c201ab7b6e268f2162d5e569366b36",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-09-04T21:25:36.854310-04:00.jpg",
+      "source": "original",
+      "mtime": "1662341137",
+      "size": "318024",
+      "md5": "b2e39b4a8f153eaf290fdb7340c3b0a6",
+      "crc32": "887ea6da",
+      "sha1": "eb30294722e02e3f0b73c59d1cb9d455f0a1b613",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thebabylonbee-2022-09-04T21:25:36.854310-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662341141",
+      "size": "1459",
+      "md5": "771c9486ad25e3c2ef45bb2f00d2acf9",
+      "crc32": "225e82d5",
+      "sha1": "ca7e64ad930a819a8a6d0fa860bb2a8646e5760c",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-09-04T21:25:36.854310-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662341143",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-09-04T21:25:36.854310-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thebabylonbee-2022-09-04T21:25:36.854310-04:00.jpg",
+      "mtime": "1662341318",
+      "size": "10207",
+      "md5": "f57d985f61d54a11b8cb90443db43f40",
+      "crc32": "5e7fa0c5",
+      "sha1": "11fba73054819c84921220474b90541c076d7db4"
+    },
+    {
       "name": "thebabylonbee-2022_archive.torrent",
       "source": "metadata",
-      "btih": "19cd416f0545b6208b7de977c40f63852d39c275",
-      "mtime": "1662124148",
-      "size": "61969",
-      "md5": "fcee546a3fe1c9b6cb54c17414b1aa80",
-      "crc32": "b0dec9c1",
-      "sha1": "26640e0a0121ab3d65f9d22b4cba51207d837ee7",
+      "btih": "c517ab529c3a71739b1973d578c29db7827551eb",
+      "mtime": "1662341321",
+      "size": "68433",
+      "md5": "817b76759b35a369a6f3f771c03afdb4",
+      "crc32": "52a59729",
+      "sha1": "58f714d70f7418ed737446dc5aacfa7e2543557e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thebabylonbee-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e8a491e4c7a0f6b467e159cff84ae287",
+      "md5": "6d210f6f2abb0a69d1408f5f00326182",
       "summation": "md5"
     },
     {
       "name": "thebabylonbee-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662123963",
-      "size": "364544",
-      "md5": "7eea5ba410a4dee3a177ed32418aac85",
-      "crc32": "5d54e319",
-      "sha1": "6a22d234eaffeecc99b1daa6a4243392dca1ac03",
+      "mtime": "1662341147",
+      "size": "401408",
+      "md5": "cd11bed4cfbb7b6e839ec4ee7a26cac0",
+      "crc32": "ab71742f",
+      "sha1": "9556b64fb23e7436b134e7082d68b2599449d166",
       "format": "Metadata"
     },
     {
@@ -2978,9 +3288,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 286,
-  "item_last_updated": 1662124148,
-  "item_size": 21556410,
+  "files_count": 316,
+  "item_last_updated": 1662341321,
+  "item_size": 23586232,
   "metadata": {
     "identifier": "thebabylonbee-2022",
     "collection": [
@@ -2997,14 +3307,10 @@
     "publicdate": "2022-08-05 14:11:17",
     "addeddate": "2022-08-05 14:11:17"
   },
-  "server": "ia601407.us.archive.org",
-  "thebabylonbee-2022": {
-    "url": "https://babylonbee.com/",
-    "job_id": "spn2-c13889e239963b9dbe05d50a489b9a2e27e31fa9"
-  },
-  "uniq": 909347682,
+  "server": "ia801407.us.archive.org",
+  "uniq": 1669224087,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia801407.us.archive.org",
+    "ia601407.us.archive.org"
   ]
 }

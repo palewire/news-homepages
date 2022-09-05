@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 126 screenshots with the Internet Archive.
+The archiving routine has saved 128 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/expressnews-2022/expressnews-2022-09-05T06:04:38.949544-05:00.jpg">
+  <img src="https://archive.org/download/expressnews-2022/expressnews-2022-09-05T06:04:38.949544-05:00.jpg"
+     alt="San Antonio Express-News at 2022-09-05 06:04:47-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-09-05T06:04:38.949544-05:00.jpg">September 5 at 6:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/expressnews-2022/expressnews-2022-09-04T17:59:56.387449-05:00.jpg">
+  <img src="https://archive.org/download/expressnews-2022/expressnews-2022-09-04T17:59:56.387449-05:00.jpg"
+     alt="San Antonio Express-News at 2022-09-04 17:59:59-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-09-04T17:59:56.387449-05:00.jpg">September 4 at 5:59 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/expressnews-2022/expressnews-2022-09-04T05:55:25.154279-05:00.jpg">
   <img src="https://archive.org/download/expressnews-2022/expressnews-2022-09-04T05:55:25.154279-05:00.jpg"
      alt="San Antonio Express-News at 2022-09-04 05:55:27-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-08-30T18:05:11.965378-05:00.jpg">August 30 at 6:05 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/expressnews-2022/expressnews-2022-08-30T06:05:55.858011-05:00.jpg">
-  <img src="https://archive.org/download/expressnews-2022/expressnews-2022-08-30T06:05:55.858011-05:00.jpg"
-     alt="San Antonio Express-News at 2022-08-30 06:06:04-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-08-30T06:05:55.858011-05:00.jpg">August 30 at 6:06 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/expressnews-2022/expressnews-2022-08-29T18:02:04.606860-05:00.jpg">
-  <img src="https://archive.org/download/expressnews-2022/expressnews-2022-08-29T18:02:04.606860-05:00.jpg"
-     alt="San Antonio Express-News at 2022-08-29 18:02:16-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/expressnews-2022/expressnews-2022-08-29T18:02:04.606860-05:00.jpg">August 29 at 6:02 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 126 hyperlink lists with the Internet Archive.
+The archiving routine has saved 128 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 5 at 6:04 AM](https://archive.org/download/expressnews-2022/expressnews-2022-09-05T06:04:38.949544-05:00.hyperlinks.json) |
+| [September 4 at 6:00 PM](https://archive.org/download/expressnews-2022/expressnews-2022-09-04T17:59:56.387449-05:00.hyperlinks.json) |
 | [September 4 at 5:55 AM](https://archive.org/download/expressnews-2022/expressnews-2022-09-04T05:55:25.154279-05:00.hyperlinks.json) |
 | [September 3 at 5:59 PM](https://archive.org/download/expressnews-2022/expressnews-2022-09-03T17:58:52.170577-05:00.hyperlinks.json) |
 | [September 3 at 7:14 AM](https://archive.org/download/expressnews-2022/expressnews-2022-09-03T07:14:42.944199-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 1 at 6:05 PM](https://archive.org/download/expressnews-2022/expressnews-2022-09-01T18:04:37.292577-05:00.hyperlinks.json) |
 | [September 1 at 6:06 AM](https://archive.org/download/expressnews-2022/expressnews-2022-09-01T06:06:15.853393-05:00.hyperlinks.json) |
 | [August 31 at 5:59 PM](https://archive.org/download/expressnews-2022/expressnews-2022-08-31T17:59:43.136553-05:00.hyperlinks.json) |
-| [August 31 at 6:00 AM](https://archive.org/download/expressnews-2022/expressnews-2022-08-31T06:00:09.708267-05:00.hyperlinks.json) |
-| [August 30 at 6:05 PM](https://archive.org/download/expressnews-2022/expressnews-2022-08-30T18:05:11.965378-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 126 accessibility trees with the Internet Archive.
+The archiving routine has saved 128 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 5 at 6:04 AM](https://archive.org/download/expressnews-2022/expressnews-2022-09-05T06:04:38.949544-05:00.accessibility.json) |
+| [September 4 at 6:00 PM](https://archive.org/download/expressnews-2022/expressnews-2022-09-04T17:59:56.387449-05:00.accessibility.json) |
 | [September 4 at 5:55 AM](https://archive.org/download/expressnews-2022/expressnews-2022-09-04T05:55:25.154279-05:00.accessibility.json) |
 | [September 3 at 5:58 PM](https://archive.org/download/expressnews-2022/expressnews-2022-09-03T17:58:52.170577-05:00.accessibility.json) |
 | [September 3 at 7:14 AM](https://archive.org/download/expressnews-2022/expressnews-2022-09-03T07:14:42.944199-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 1 at 6:05 PM](https://archive.org/download/expressnews-2022/expressnews-2022-09-01T18:04:37.292577-05:00.accessibility.json) |
 | [September 1 at 6:06 AM](https://archive.org/download/expressnews-2022/expressnews-2022-09-01T06:06:15.853393-05:00.accessibility.json) |
 | [August 31 at 5:59 PM](https://archive.org/download/expressnews-2022/expressnews-2022-08-31T17:59:43.136553-05:00.accessibility.json) |
-| [August 31 at 6:00 AM](https://archive.org/download/expressnews-2022/expressnews-2022-08-31T06:00:09.708267-05:00.accessibility.json) |
-| [August 30 at 6:05 PM](https://archive.org/download/expressnews-2022/expressnews-2022-08-30T18:05:11.965378-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 86 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 88 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 6:04 AM](https://archive.org/download/expressnews-2022/expressnews-2022-09-05T06:04:38.949544-05:00.lighthouse.json) |
+| [September 4 at 6:00 PM](https://archive.org/download/expressnews-2022/expressnews-2022-09-04T17:59:56.387449-05:00.lighthouse.json) |
 | [September 4 at 5:55 AM](https://archive.org/download/expressnews-2022/expressnews-2022-09-04T05:55:25.154279-05:00.lighthouse.json) |
 | [September 3 at 5:59 PM](https://archive.org/download/expressnews-2022/expressnews-2022-09-03T17:58:52.170577-05:00.lighthouse.json) |
 | [September 3 at 7:14 AM](https://archive.org/download/expressnews-2022/expressnews-2022-09-03T07:14:42.944199-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 1 at 6:05 PM](https://archive.org/download/expressnews-2022/expressnews-2022-09-01T18:04:37.292577-05:00.lighthouse.json) |
 | [September 1 at 6:06 AM](https://archive.org/download/expressnews-2022/expressnews-2022-09-01T06:06:15.853393-05:00.lighthouse.json) |
 | [August 31 at 5:59 PM](https://archive.org/download/expressnews-2022/expressnews-2022-08-31T17:59:43.136553-05:00.lighthouse.json) |
-| [August 31 at 6:00 AM](https://archive.org/download/expressnews-2022/expressnews-2022-08-31T06:00:09.708267-05:00.lighthouse.json) |
-| [August 30 at 6:05 PM](https://archive.org/download/expressnews-2022/expressnews-2022-08-30T18:05:11.965378-05:00.lighthouse.json) |
 
 
 

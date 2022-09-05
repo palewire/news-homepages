@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 82 screenshots with the Internet Archive.
+The archiving routine has saved 89 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,69 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-04T23:28:06.022526-03:00.jpg">
+  <img src="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-04T23:28:06.022526-03:00.jpg"
+     alt="Agência Brasil at 2022-09-04 23:28:07-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-04T23:28:06.022526-03:00.jpg">September 4 at 11:28 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-04T11:02:14.784573-03:00.jpg">
+  <img src="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-04T11:02:14.784573-03:00.jpg"
+     alt="Agência Brasil at 2022-09-04 11:02:16-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-04T11:02:14.784573-03:00.jpg">September 4 at 11:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-04T09:00:41.322950-03:00.jpg">
+  <img src="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-04T09:00:41.322950-03:00.jpg"
+     alt="Agência Brasil at 2022-09-04 09:00:45-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-04T09:00:41.322950-03:00.jpg">September 4 at 9:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-03T23:27:05.501296-03:00.jpg">
+  <img src="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-03T23:27:05.501296-03:00.jpg"
+     alt="Agência Brasil at 2022-09-03 23:27:07-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-03T23:27:05.501296-03:00.jpg">September 3 at 11:27 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-03T11:51:52.141871-03:00.jpg">
+  <img src="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-03T11:51:52.141871-03:00.jpg"
+     alt="Agência Brasil at 2022-09-03 11:51:54-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-03T11:51:52.141871-03:00.jpg">September 3 at 11:51 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-03T09:14:41.023669-03:00.jpg">
+  <img src="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-03T09:14:41.023669-03:00.jpg"
+     alt="Agência Brasil at 2022-09-03 09:14:54-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-03T09:14:41.023669-03:00.jpg">September 3 at 9:14 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-02T23:26:29.719439-03:00.jpg">
+  <img src="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-02T23:26:29.719439-03:00.jpg"
+     alt="Agência Brasil at 2022-09-02 23:26:30-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-02T23:26:29.719439-03:00.jpg">September 2 at 11:26 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-02T11:57:25.118319-03:00.jpg">
   <img src="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-02T11:57:25.118319-03:00.jpg"
      alt="Agência Brasil at 2022-09-02 11:57:29-03:00 local time"
@@ -370,74 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-01T09:16:21.916597-03:00.jpg">September 1 at 9:16 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-31T23:25:49.350412-03:00.jpg">
-  <img src="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-31T23:25:49.350412-03:00.jpg"
-     alt="Agência Brasil at 2022-08-31 23:25:50-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-31T23:25:49.350412-03:00.jpg">August 31 at 11:25 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-31T11:55:59.140599-03:00.jpg">
-  <img src="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-31T11:55:59.140599-03:00.jpg"
-     alt="Agência Brasil at 2022-08-31 11:56:01-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-31T11:55:59.140599-03:00.jpg">August 31 at 11:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-31T09:04:13.984659-03:00.jpg">
-  <img src="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-31T09:04:13.984659-03:00.jpg"
-     alt="Agência Brasil at 2022-08-31 09:04:18-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-31T09:04:13.984659-03:00.jpg">August 31 at 9:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-30T23:22:42.880533-03:00.jpg">
-  <img src="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-30T23:22:42.880533-03:00.jpg"
-     alt="Agência Brasil at 2022-08-30 23:22:44-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-30T23:22:42.880533-03:00.jpg">August 30 at 11:22 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-30T12:16:51.210900-03:00.jpg">
-  <img src="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-30T12:16:51.210900-03:00.jpg"
-     alt="Agência Brasil at 2022-08-30 12:16:55-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-30T12:16:51.210900-03:00.jpg">August 30 at 12:16 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-30T09:14:41.283987-03:00.jpg">
-  <img src="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-30T09:14:41.283987-03:00.jpg"
-     alt="Agência Brasil at 2022-08-30 09:14:45-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-30T09:14:41.283987-03:00.jpg">August 30 at 9:14 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-29T23:28:12.676293-03:00.jpg">
-  <img src="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-29T23:28:12.676293-03:00.jpg"
-     alt="Agência Brasil at 2022-08-29 23:28:17-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-29T23:28:12.676293-03:00.jpg">August 29 at 11:28 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 83 hyperlink lists with the Internet Archive.
+The archiving routine has saved 90 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 4 at 11:28 PM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-04T23:28:06.022526-03:00.hyperlinks.json) |
+| [September 4 at 11:02 AM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-04T11:02:14.784573-03:00.hyperlinks.json) |
+| [September 4 at 9:00 AM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-04T09:00:41.322950-03:00.hyperlinks.json) |
+| [September 3 at 11:27 PM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-03T23:27:05.501296-03:00.hyperlinks.json) |
+| [September 3 at 11:51 AM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-03T11:51:52.141871-03:00.hyperlinks.json) |
+| [September 3 at 9:14 AM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-03T09:14:41.023669-03:00.hyperlinks.json) |
+| [September 2 at 11:26 PM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-02T23:26:29.719439-03:00.hyperlinks.json) |
 | [September 2 at 11:57 AM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-02T11:57:25.118319-03:00.hyperlinks.json) |
 | [September 2 at 9:07 AM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-02T09:07:32.237053-03:00.hyperlinks.json) |
 | [September 1 at 11:27 PM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-01T23:27:20.773295-03:00.hyperlinks.json) |
-| [September 1 at 12:05 PM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-01T12:05:25.511801-03:00.hyperlinks.json) |
-| [September 1 at 9:16 AM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-01T09:16:21.916597-03:00.hyperlinks.json) |
-| [August 31 at 11:25 PM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-31T23:25:49.350412-03:00.hyperlinks.json) |
-| [August 31 at 11:56 AM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-31T11:55:59.140599-03:00.hyperlinks.json) |
-| [August 31 at 9:04 AM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-31T09:04:13.984659-03:00.hyperlinks.json) |
-| [August 30 at 11:22 PM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-30T23:22:42.880533-03:00.hyperlinks.json) |
-| [August 30 at 12:16 PM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-30T12:16:51.210900-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 83 accessibility trees with the Internet Archive.
+The archiving routine has saved 90 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 4 at 11:28 PM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-04T23:28:06.022526-03:00.accessibility.json) |
+| [September 4 at 11:02 AM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-04T11:02:14.784573-03:00.accessibility.json) |
+| [September 4 at 9:00 AM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-04T09:00:41.322950-03:00.accessibility.json) |
+| [September 3 at 11:27 PM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-03T23:27:05.501296-03:00.accessibility.json) |
+| [September 3 at 11:51 AM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-03T11:51:52.141871-03:00.accessibility.json) |
+| [September 3 at 9:14 AM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-03T09:14:41.023669-03:00.accessibility.json) |
+| [September 2 at 11:26 PM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-02T23:26:29.719439-03:00.accessibility.json) |
 | [September 2 at 11:57 AM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-02T11:57:25.118319-03:00.accessibility.json) |
 | [September 2 at 9:07 AM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-02T09:07:32.237053-03:00.accessibility.json) |
 | [September 1 at 11:27 PM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-01T23:27:20.773295-03:00.accessibility.json) |
-| [September 1 at 12:05 PM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-01T12:05:25.511801-03:00.accessibility.json) |
-| [September 1 at 9:16 AM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-01T09:16:21.916597-03:00.accessibility.json) |
-| [August 31 at 11:25 PM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-31T23:25:49.350412-03:00.accessibility.json) |
-| [August 31 at 11:56 AM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-31T11:55:59.140599-03:00.accessibility.json) |
-| [August 31 at 9:04 AM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-31T09:04:13.984659-03:00.accessibility.json) |
-| [August 30 at 11:22 PM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-30T23:22:42.880533-03:00.accessibility.json) |
-| [August 30 at 12:16 PM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-30T12:16:51.210900-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 83 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 91 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 9:24 AM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-05T09:24:13.013882-03:00.lighthouse.json) |
+| [September 4 at 11:28 PM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-04T23:28:06.022526-03:00.lighthouse.json) |
+| [September 4 at 11:02 AM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-04T11:02:14.784573-03:00.lighthouse.json) |
+| [September 4 at 9:00 AM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-04T09:00:41.322950-03:00.lighthouse.json) |
+| [September 3 at 11:27 PM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-03T23:27:05.501296-03:00.lighthouse.json) |
+| [September 3 at 11:51 AM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-03T11:51:52.141871-03:00.lighthouse.json) |
+| [September 3 at 9:14 AM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-03T09:14:41.023669-03:00.lighthouse.json) |
+| [September 2 at 11:26 PM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-02T23:26:29.719439-03:00.lighthouse.json) |
 | [September 2 at 11:57 AM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-02T11:57:25.118319-03:00.lighthouse.json) |
 | [September 2 at 9:07 AM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-02T09:07:32.237053-03:00.lighthouse.json) |
-| [September 1 at 11:27 PM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-01T23:27:20.773295-03:00.lighthouse.json) |
-| [September 1 at 12:05 PM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-01T12:05:25.511801-03:00.lighthouse.json) |
-| [September 1 at 9:16 AM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-09-01T09:16:21.916597-03:00.lighthouse.json) |
-| [August 31 at 11:25 PM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-31T23:25:49.350412-03:00.lighthouse.json) |
-| [August 31 at 11:56 AM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-31T11:55:59.140599-03:00.lighthouse.json) |
-| [August 31 at 9:04 AM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-31T09:04:13.984659-03:00.lighthouse.json) |
-| [August 30 at 11:22 PM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-30T23:22:42.880533-03:00.lighthouse.json) |
-| [August 30 at 12:17 PM](https://archive.org/download/agenciabrasil-2022/agenciabrasil-2022-08-30T12:16:51.210900-03:00.lighthouse.json) |
 
 
 

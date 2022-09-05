@@ -1,5 +1,5 @@
 {
-  "created": 1662163404,
+  "created": 1662335857,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/31/items/lacrossetribune-2022",
@@ -12074,31 +12074,279 @@
       "sha1": "227df68b67a5845075cbb94909692ac671c542af"
     },
     {
+      "name": "lacrossetribune-2022-09-03T07:03:37.706403-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662206621",
+      "size": "28178",
+      "md5": "3e53ae81405849212899265ab708fe17",
+      "crc32": "47d9c71d",
+      "sha1": "c6811c63dd8c34e85f4d7ee97c729127acb01531",
+      "format": "JSON"
+    },
+    {
+      "name": "lacrossetribune-2022-09-03T07:03:37.706403-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662206622",
+      "size": "87963",
+      "md5": "ca603b48945920ee714c5d817d833dad",
+      "crc32": "a976f4fa",
+      "sha1": "a29519a3b7157159573dacc9f87bae98f8331315",
+      "format": "JSON"
+    },
+    {
+      "name": "lacrossetribune-2022-09-03T07:03:37.706403-05:00.jpg",
+      "source": "original",
+      "mtime": "1662206619",
+      "size": "336065",
+      "md5": "fae64f77e110d528f1ab9228c8c605c5",
+      "crc32": "139b89eb",
+      "sha1": "fd48599e1bed4b100a8f32e817aa7bf0af2882c7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lacrossetribune-2022-09-03T07:03:37.706403-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662206625",
+      "size": "1504",
+      "md5": "2c55dd8cb70cb2d7aed3be074eea978e",
+      "crc32": "500e392e",
+      "sha1": "7c93fc7f1c945a09bc12060f96be82b979422c5c",
+      "format": "JSON"
+    },
+    {
+      "name": "lacrossetribune-2022-09-03T07:03:37.706403-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662206627",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lacrossetribune-2022-09-03T07:03:37.706403-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lacrossetribune-2022-09-03T07:03:37.706403-05:00.jpg",
+      "mtime": "1662206695",
+      "size": "12228",
+      "md5": "4360ef8f4951d45ea09c4f22e81f13b1",
+      "crc32": "8bf225cf",
+      "sha1": "848558d72836c1e3ff065265e08390dba6b52927"
+    },
+    {
+      "name": "lacrossetribune-2022-09-03T18:48:17.701444-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662248912",
+      "size": "26370",
+      "md5": "9604cc7aaaf9e6e9224ac44723b44003",
+      "crc32": "4129baae",
+      "sha1": "7355b9984ba81560c8ef8bcdb73398d6d6f211da",
+      "format": "JSON"
+    },
+    {
+      "name": "lacrossetribune-2022-09-03T18:48:17.701444-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662248914",
+      "size": "83252",
+      "md5": "fdd1424520f3ffbea04a634f887426bd",
+      "crc32": "27ded5b9",
+      "sha1": "103e65ab281434e1a22dd7b82551d9238ba20465",
+      "format": "JSON"
+    },
+    {
+      "name": "lacrossetribune-2022-09-03T18:48:17.701444-05:00.jpg",
+      "source": "original",
+      "mtime": "1662248910",
+      "size": "288928",
+      "md5": "2af10e1b7ad2c73d7f7e070b479f2f19",
+      "crc32": "a8bae0e2",
+      "sha1": "9d9bb0a19e213f2f1b5479d3ed22a8e32a2fd056",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lacrossetribune-2022-09-03T18:48:17.701444-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662248916",
+      "size": "1504",
+      "md5": "bb05a434bd16d8ea5a48be40c7a4e6a2",
+      "crc32": "85af9cdd",
+      "sha1": "884148fc23a8e7526f16a891aa894973cd085c32",
+      "format": "JSON"
+    },
+    {
+      "name": "lacrossetribune-2022-09-03T18:48:17.701444-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662248917",
+      "size": "60838",
+      "md5": "b42079cecd1dd1e3568936024639723a",
+      "crc32": "20202425",
+      "sha1": "e61e454b0c956d366dee7676e0349257ac132feb",
+      "format": "JSON"
+    },
+    {
+      "name": "lacrossetribune-2022-09-03T18:48:17.701444-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lacrossetribune-2022-09-03T18:48:17.701444-05:00.jpg",
+      "mtime": "1662248987",
+      "size": "11807",
+      "md5": "afbe88b314df74eeee5ff2faebf55e07",
+      "crc32": "22b4deaa",
+      "sha1": "81df0947f3eb7276dd9c55eac5d0b00f7a51dfba"
+    },
+    {
+      "name": "lacrossetribune-2022-09-04T06:56:44.626151-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662292609",
+      "size": "27828",
+      "md5": "028a67b6dabe15338c17ca544255e372",
+      "crc32": "21c04c91",
+      "sha1": "bc116c7020ed04006e4d6b737fb5622aa42c99bd",
+      "format": "JSON"
+    },
+    {
+      "name": "lacrossetribune-2022-09-04T06:56:44.626151-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662292612",
+      "size": "87100",
+      "md5": "341d0353090a9d0ff63998f33acad141",
+      "crc32": "a20d8843",
+      "sha1": "e8544fa776e464f0a8e1f7823274e96351de0608",
+      "format": "JSON"
+    },
+    {
+      "name": "lacrossetribune-2022-09-04T06:56:44.626151-05:00.jpg",
+      "source": "original",
+      "mtime": "1662292606",
+      "size": "290741",
+      "md5": "3a86e850bc987ca70b7319040b42b4ef",
+      "crc32": "bfb8ff26",
+      "sha1": "7c95f8cfbac6b453587f7a45e608e9885bce5c4c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lacrossetribune-2022-09-04T06:56:44.626151-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662292614",
+      "size": "1504",
+      "md5": "d14b65caffbd12c7c1a67fb190b64c8c",
+      "crc32": "f49b4873",
+      "sha1": "f88537915df621bb8dc787b1ee20273e39f0cc73",
+      "format": "JSON"
+    },
+    {
+      "name": "lacrossetribune-2022-09-04T06:56:44.626151-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662292616",
+      "size": "54257",
+      "md5": "0b5a15e52e31dc3b596285d3703b637e",
+      "crc32": "02780df3",
+      "sha1": "b5553bed1ddda3e6fecadb4711cbe439927d0a6e",
+      "format": "JSON"
+    },
+    {
+      "name": "lacrossetribune-2022-09-04T06:56:44.626151-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lacrossetribune-2022-09-04T06:56:44.626151-05:00.jpg",
+      "mtime": "1662292681",
+      "size": "12148",
+      "md5": "b68ab63a33b606f5b40583654e2dc502",
+      "crc32": "3a0947bb",
+      "sha1": "926ceddcb6937486583a56e66eee33298929ccc3"
+    },
+    {
+      "name": "lacrossetribune-2022-09-04T18:55:35.350508-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662335749",
+      "size": "26673",
+      "md5": "6b45d89b96051c3c8ad66a56b1a490ce",
+      "crc32": "5d0e8c45",
+      "sha1": "bd6ada75a68aa036bbef66f8546cc4803095979e",
+      "format": "JSON"
+    },
+    {
+      "name": "lacrossetribune-2022-09-04T18:55:35.350508-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662335751",
+      "size": "83515",
+      "md5": "652aed489953a2fcaca35bd368233a6d",
+      "crc32": "cff87d85",
+      "sha1": "1a93ecd89d2b3834744275462af7a6fe4f39072b",
+      "format": "JSON"
+    },
+    {
+      "name": "lacrossetribune-2022-09-04T18:55:35.350508-05:00.jpg",
+      "source": "original",
+      "mtime": "1662335748",
+      "size": "308181",
+      "md5": "22a3f5114dbb87af6fac266d295feb33",
+      "crc32": "4df0395d",
+      "sha1": "c144545e994792afc2b1c82ff80fc5b634de0789",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lacrossetribune-2022-09-04T18:55:35.350508-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662335752",
+      "size": "1504",
+      "md5": "18697a41cc77a9265da25bd3a7a687bf",
+      "crc32": "5f79b2e8",
+      "sha1": "85e74a80f1b08f4afacd3b5dccada0aa2443ff7e",
+      "format": "JSON"
+    },
+    {
+      "name": "lacrossetribune-2022-09-04T18:55:35.350508-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662335754",
+      "size": "56114",
+      "md5": "8cb18c36cbf1d6d6d86d1989474ac1e5",
+      "crc32": "eefdb481",
+      "sha1": "575fbeebdbd71cb35654e7ff2b69700491d6460c",
+      "format": "JSON"
+    },
+    {
+      "name": "lacrossetribune-2022-09-04T18:55:35.350508-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lacrossetribune-2022-09-04T18:55:35.350508-05:00.jpg",
+      "mtime": "1662335825",
+      "size": "12238",
+      "md5": "965bdee574b621205612d0a2f078e171",
+      "crc32": "5b594b63",
+      "sha1": "26f1968effb221b69386128193cf66bcc2f898a7"
+    },
+    {
       "name": "lacrossetribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "77b989fad04530144ac162e8a6aae168a50194c6",
-      "mtime": "1662163395",
-      "size": "253667",
-      "md5": "d500f3760f0143e9828223997ec77956",
-      "crc32": "03a2dfd9",
-      "sha1": "078f668935cd5231104822a175d01d42e913a06a",
+      "btih": "9d103f1c52a5c1c28dfde262613a9f6fbccfb549",
+      "mtime": "1662335848",
+      "size": "258905",
+      "md5": "3e1184e5241478d1ab0312bc419c01f6",
+      "crc32": "800dbae0",
+      "sha1": "c121a0702f9a39fefe696ef62539b8611b0c43f9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lacrossetribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9b5176647498cc21eea2f728425a269d",
+      "md5": "f1c952a4776b1a6bda7768c1bcf106a7",
       "summation": "md5"
     },
     {
       "name": "lacrossetribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662163298",
-      "size": "1392640",
-      "md5": "ac1705b59d0b930f605b0aa134f5bef7",
-      "crc32": "9fe968a2",
-      "sha1": "36131e950855386d758fca8d197e77ec40938691",
+      "mtime": "1662335759",
+      "size": "1421312",
+      "md5": "47e1464f7f350c9a71e80e6a61e493ce",
+      "crc32": "228b1f8c",
+      "sha1": "31ae49828adb243af99deb45153b394c30590a7a",
       "format": "Metadata"
     },
     {
@@ -12112,9 +12360,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1159,
-  "item_last_updated": 1662163395,
-  "item_size": 114775974,
+  "files_count": 1183,
+  "item_last_updated": 1662335848,
+  "item_size": 116710526,
   "metadata": {
     "identifier": "lacrossetribune-2022",
     "collection": [
@@ -12132,7 +12380,7 @@
     "addeddate": "2022-03-23 23:06:48"
   },
   "server": "ia802508.us.archive.org",
-  "uniq": 1187218599,
+  "uniq": 988735546,
   "workable_servers": [
     "ia802508.us.archive.org",
     "ia902508.us.archive.org"

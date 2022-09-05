@@ -234,13 +234,141 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 34 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/themendovoice.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-04T18:25:37.433955-07:00.jpg">
+  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-04T18:25:37.433955-07:00.jpg"
+     alt="Mendoncino Voice at 2022-09-04 18:25:39-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-04T18:25:37.433955-07:00.jpg">September 4 at 6:25 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-04T05:59:37.144834-07:00.jpg">
+  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-04T05:59:37.144834-07:00.jpg"
+     alt="Mendoncino Voice at 2022-09-04 05:59:38-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-04T05:59:37.144834-07:00.jpg">September 4 at 5:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-03T18:16:02.681857-07:00.jpg">
+  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-03T18:16:02.681857-07:00.jpg"
+     alt="Mendoncino Voice at 2022-09-03 18:16:07-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-03T18:16:02.681857-07:00.jpg">September 3 at 6:16 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-03T06:13:48.008470-07:00.jpg">
+  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-03T06:13:48.008470-07:00.jpg"
+     alt="Mendoncino Voice at 2022-09-03 06:13:53-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-03T06:13:48.008470-07:00.jpg">September 3 at 6:13 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-02T18:25:26.409133-07:00.jpg">
+  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-02T18:25:26.409133-07:00.jpg"
+     alt="Mendoncino Voice at 2022-09-02 18:25:27-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-02T18:25:26.409133-07:00.jpg">September 2 at 6:25 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-02T06:07:32.207365-07:00.jpg">
@@ -305,118 +433,322 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-08-30T06:13:04.694615-07:00.jpg">August 30 at 6:13 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-08-29T18:18:50.044730-07:00.jpg">
-  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-08-29T18:18:50.044730-07:00.jpg"
-     alt="Mendoncino Voice at 2022-08-29 18:18:51-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-08-29T18:18:50.044730-07:00.jpg">August 29 at 6:18 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-08-29T06:02:50.446064-07:00.jpg">
-  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-08-29T06:02:50.446064-07:00.jpg"
-     alt="Mendoncino Voice at 2022-08-29 06:02:53-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-08-29T06:02:50.446064-07:00.jpg">August 29 at 6:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-08-28T18:17:53.342418-07:00.jpg">
-  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-08-28T18:17:53.342418-07:00.jpg"
-     alt="Mendoncino Voice at 2022-08-28 18:17:55-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-08-28T18:17:53.342418-07:00.jpg">August 28 at 6:17 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-08-28T06:03:04.189548-07:00.jpg">
-  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-08-28T06:03:04.189548-07:00.jpg"
-     alt="Mendoncino Voice at 2022-08-28 06:03:08-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-08-28T06:03:04.189548-07:00.jpg">August 28 at 6:03 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-08-27T18:30:26.682130-07:00.jpg">
-  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-08-27T18:30:26.682130-07:00.jpg"
-     alt="Mendoncino Voice at 2022-08-27 18:30:30-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-08-27T18:30:26.682130-07:00.jpg">August 27 at 6:30 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 29 hyperlink lists with the Internet Archive.
+The archiving routine has saved 34 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/themendovoice.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 4 at 6:25 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-04T18:25:37.433955-07:00.hyperlinks.json) |
+| [September 4 at 5:59 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-04T05:59:37.144834-07:00.hyperlinks.json) |
+| [September 3 at 6:16 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-03T18:16:02.681857-07:00.hyperlinks.json) |
+| [September 3 at 6:13 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-03T06:13:48.008470-07:00.hyperlinks.json) |
+| [September 2 at 6:25 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-02T18:25:26.409133-07:00.hyperlinks.json) |
 | [September 2 at 6:07 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-02T06:07:32.207365-07:00.hyperlinks.json) |
 | [September 1 at 6:20 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-01T18:19:59.658868-07:00.hyperlinks.json) |
 | [September 1 at 6:15 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-01T06:15:43.247825-07:00.hyperlinks.json) |
 | [August 31 at 6:17 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-08-31T18:17:34.515179-07:00.hyperlinks.json) |
 | [August 31 at 6:15 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-08-31T06:15:04.956783-07:00.hyperlinks.json) |
-| [August 30 at 6:28 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-08-30T18:28:16.653084-07:00.hyperlinks.json) |
-| [August 30 at 6:13 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-08-30T06:13:04.694615-07:00.hyperlinks.json) |
-| [August 29 at 6:18 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-08-29T18:18:50.044730-07:00.hyperlinks.json) |
-| [August 29 at 6:02 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-08-29T06:02:50.446064-07:00.hyperlinks.json) |
-| [August 28 at 6:17 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-08-28T18:17:53.342418-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 29 accessibility trees with the Internet Archive.
+The archiving routine has saved 34 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/themendovoice.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 4 at 6:25 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-04T18:25:37.433955-07:00.accessibility.json) |
+| [September 4 at 5:59 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-04T05:59:37.144834-07:00.accessibility.json) |
+| [September 3 at 6:16 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-03T18:16:02.681857-07:00.accessibility.json) |
+| [September 3 at 6:13 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-03T06:13:48.008470-07:00.accessibility.json) |
+| [September 2 at 6:25 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-02T18:25:26.409133-07:00.accessibility.json) |
 | [September 2 at 6:07 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-02T06:07:32.207365-07:00.accessibility.json) |
 | [September 1 at 6:20 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-01T18:19:59.658868-07:00.accessibility.json) |
 | [September 1 at 6:15 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-01T06:15:43.247825-07:00.accessibility.json) |
 | [August 31 at 6:17 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-08-31T18:17:34.515179-07:00.accessibility.json) |
 | [August 31 at 6:15 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-08-31T06:15:04.956783-07:00.accessibility.json) |
-| [August 30 at 6:28 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-08-30T18:28:16.653084-07:00.accessibility.json) |
-| [August 30 at 6:13 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-08-30T06:13:04.694615-07:00.accessibility.json) |
-| [August 29 at 6:18 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-08-29T18:18:50.044730-07:00.accessibility.json) |
-| [August 29 at 6:02 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-08-29T06:02:50.446064-07:00.accessibility.json) |
-| [August 28 at 6:17 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-08-28T18:17:53.342418-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/themendovoice.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 4 at 6:25 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-04T18:25:37.433955-07:00.lighthouse.json) |
+| [September 4 at 5:59 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-04T05:59:37.144834-07:00.lighthouse.json) |
+| [September 3 at 6:16 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-03T18:16:02.681857-07:00.lighthouse.json) |
+| [September 3 at 6:13 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-03T06:13:48.008470-07:00.lighthouse.json) |
+| [September 2 at 6:25 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-02T18:25:26.409133-07:00.lighthouse.json) |
 | [September 2 at 6:07 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-02T06:07:32.207365-07:00.lighthouse.json) |
 | [September 1 at 6:20 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-01T18:19:59.658868-07:00.lighthouse.json) |
 | [September 1 at 6:15 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-01T06:15:43.247825-07:00.lighthouse.json) |
 | [August 31 at 6:17 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-08-31T18:17:34.515179-07:00.lighthouse.json) |
 | [August 31 at 6:15 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-08-31T06:15:04.956783-07:00.lighthouse.json) |
-| [August 30 at 6:28 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-08-30T18:28:16.653084-07:00.lighthouse.json) |
-| [August 30 at 6:13 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-08-30T06:13:04.694615-07:00.lighthouse.json) |
-| [August 29 at 6:18 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-08-29T18:18:50.044730-07:00.lighthouse.json) |
-| [August 29 at 6:02 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-08-29T06:02:50.446064-07:00.lighthouse.json) |
-| [August 28 at 6:18 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-08-28T18:17:53.342418-07:00.lighthouse.json) |
 
 
 

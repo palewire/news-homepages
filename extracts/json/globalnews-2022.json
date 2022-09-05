@@ -1,5 +1,5 @@
 {
-  "created": 1662164182,
+  "created": 1662349361,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/23/items/globalnews-2022",
@@ -7208,31 +7208,341 @@
       "sha1": "f91414b78cc6d8f0ca1eedffa2b110656f26f0b6"
     },
     {
+      "name": "globalnews-2022-09-02T23:47:34.846888-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662176859",
+      "size": "24546",
+      "md5": "8e374d8503bfdb87786137e8cf1c49d4",
+      "crc32": "3698b608",
+      "sha1": "6540dc1965903a26264985f0ed0b86745fc1053e",
+      "format": "JSON"
+    },
+    {
+      "name": "globalnews-2022-09-02T23:47:34.846888-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662176861",
+      "size": "84932",
+      "md5": "a08eabcb74471132321447beaba1bec7",
+      "crc32": "3a3ca1a1",
+      "sha1": "374f18d2f805cd245313b2689072773e497eb178",
+      "format": "JSON"
+    },
+    {
+      "name": "globalnews-2022-09-02T23:47:34.846888-04:00.jpg",
+      "source": "original",
+      "mtime": "1662176856",
+      "size": "318489",
+      "md5": "352fe1f7a76865e193ef43b4eb5742b8",
+      "crc32": "3c69cbb0",
+      "sha1": "bba50d9c21286f8bfb39d6c57af24f1536ba888b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "globalnews-2022-09-02T23:47:34.846888-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662176865",
+      "size": "1444",
+      "md5": "044159585551267c2e44ca82fa33724b",
+      "crc32": "77a01f81",
+      "sha1": "22e219947cc49c831b9750557dea1dccf63f205a",
+      "format": "JSON"
+    },
+    {
+      "name": "globalnews-2022-09-02T23:47:34.846888-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662176868",
+      "size": "139356",
+      "md5": "4994fc2af7a480f161da18c6ffffcedf",
+      "crc32": "23dbd581",
+      "sha1": "278382af241131c3303661504f4b6b4ef4f2695f",
+      "format": "JSON"
+    },
+    {
+      "name": "globalnews-2022-09-02T23:47:34.846888-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "globalnews-2022-09-02T23:47:34.846888-04:00.jpg",
+      "mtime": "1662176926",
+      "size": "10970",
+      "md5": "5ec568f0779a76effc3c9428de363dbf",
+      "crc32": "35a5a5a2",
+      "sha1": "63af62e3d3f2e9f9f4af1660ebf37077af3e3dfd"
+    },
+    {
+      "name": "globalnews-2022-09-03T11:00:36.484268-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662217243",
+      "size": "24363",
+      "md5": "5503fd9035c9793a210ae2997b4872e1",
+      "crc32": "9d25fe5f",
+      "sha1": "31393ed873b30c99784b6fbd7b83ca04b2b06e68",
+      "format": "JSON"
+    },
+    {
+      "name": "globalnews-2022-09-03T11:00:36.484268-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662217245",
+      "size": "84267",
+      "md5": "520b7c45ea724bb8adb0b346a752d7ae",
+      "crc32": "4dbe1a92",
+      "sha1": "af01417eee24c73e8449f45f9354d5bfb9a51d47",
+      "format": "JSON"
+    },
+    {
+      "name": "globalnews-2022-09-03T11:00:36.484268-04:00.jpg",
+      "source": "original",
+      "mtime": "1662217242",
+      "size": "307721",
+      "md5": "a566dd4957b450e93fab7eb6ba24295f",
+      "crc32": "c7b38fe8",
+      "sha1": "33e6a80690feab07dff295d3c7644b24efc6e3eb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "globalnews-2022-09-03T11:00:36.484268-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662217247",
+      "size": "1444",
+      "md5": "e41bc75dbe7015fdf3db35ff4f1503f3",
+      "crc32": "a9783ab6",
+      "sha1": "9af391d5dffb3efbb9a078275e7d375f9d60c817",
+      "format": "JSON"
+    },
+    {
+      "name": "globalnews-2022-09-03T11:00:36.484268-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662217248",
+      "size": "134189",
+      "md5": "ab559cbba71ca10bd5d08be3f98a59f2",
+      "crc32": "675093b8",
+      "sha1": "4041af38f233f2c64499604fbace65d577d3585d",
+      "format": "JSON"
+    },
+    {
+      "name": "globalnews-2022-09-03T11:00:36.484268-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "globalnews-2022-09-03T11:00:36.484268-04:00.jpg",
+      "mtime": "1662217306",
+      "size": "10825",
+      "md5": "d1aa5e26cf0ac4f5b53f521e28eb7412",
+      "crc32": "23461e19",
+      "sha1": "c6d31f64d6e353d29247286c348e3eab62c95de0"
+    },
+    {
+      "name": "globalnews-2022-09-03T23:41:52.572492-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662262919",
+      "size": "24993",
+      "md5": "f00b389cb0204312bdf976d532817396",
+      "crc32": "06eaf095",
+      "sha1": "8d29e061aa772f9049ea4d13e2f2a9aafe1264e8",
+      "format": "JSON"
+    },
+    {
+      "name": "globalnews-2022-09-03T23:41:52.572492-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662262921",
+      "size": "85562",
+      "md5": "1d812b1fa5d6e95ed9d0660ef0ba4130",
+      "crc32": "d96806b5",
+      "sha1": "8b4dfd1b25a4410173c135b5ab1e7eebd96423d0",
+      "format": "JSON"
+    },
+    {
+      "name": "globalnews-2022-09-03T23:41:52.572492-04:00.jpg",
+      "source": "original",
+      "mtime": "1662262918",
+      "size": "343536",
+      "md5": "f9a3d72657e48dee2a54d0850f970c6d",
+      "crc32": "f043c9c7",
+      "sha1": "1f544c767176adc1db75a532b83d84203b6f8973",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "globalnews-2022-09-03T23:41:52.572492-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662262923",
+      "size": "1444",
+      "md5": "903908b122602e8a4f34fa7efd7ac2a3",
+      "crc32": "10ad12d8",
+      "sha1": "7231df92aa049c4e5c5bf579915f1117eaaf1bce",
+      "format": "JSON"
+    },
+    {
+      "name": "globalnews-2022-09-03T23:41:52.572492-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662262924",
+      "size": "98",
+      "md5": "74060d12f65e6911f01152ad68048ab4",
+      "crc32": "ee1a8a1d",
+      "sha1": "9b31da912ccd965658f3318329b23b4e2838a22f",
+      "format": "JSON"
+    },
+    {
+      "name": "globalnews-2022-09-03T23:41:52.572492-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "globalnews-2022-09-03T23:41:52.572492-04:00.jpg",
+      "mtime": "1662262979",
+      "size": "11317",
+      "md5": "a07040dece7e7f54f6029efb18f8c838",
+      "crc32": "f079ae83",
+      "sha1": "4a7092a536dd8d663762e7866eb8cf27a45406f3"
+    },
+    {
+      "name": "globalnews-2022-09-04T12:32:38.747959-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662309166",
+      "size": "24885",
+      "md5": "97d6810b39f0e42e419af4c49eca0fb1",
+      "crc32": "353597e4",
+      "sha1": "fdc69a029020a21fd4d318616968345856c5c989",
+      "format": "JSON"
+    },
+    {
+      "name": "globalnews-2022-09-04T12:32:38.747959-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662309167",
+      "size": "84676",
+      "md5": "c5b44dfa3741750199ee318e33c95479",
+      "crc32": "a70e451c",
+      "sha1": "b67ae1e1468f70d2c97d441af4a1a6761fd8d9fa",
+      "format": "JSON"
+    },
+    {
+      "name": "globalnews-2022-09-04T12:32:38.747959-04:00.jpg",
+      "source": "original",
+      "mtime": "1662309164",
+      "size": "340763",
+      "md5": "0a9c9d789e55380cf3242e6bcf31f5f5",
+      "crc32": "eaea415e",
+      "sha1": "4ea1e1e4c4cadad7129d1e22a103b5d12ce8db02",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "globalnews-2022-09-04T12:32:38.747959-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662309169",
+      "size": "1443",
+      "md5": "a87433f30b8a9a1b51b47b4f3faedafd",
+      "crc32": "b174d694",
+      "sha1": "0433561c2905c20d26d873874cd6fa45063fac24",
+      "format": "JSON"
+    },
+    {
+      "name": "globalnews-2022-09-04T12:32:38.747959-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662309171",
+      "size": "184044",
+      "md5": "c1ac3a67b2c6ae99cf06ee8d8888dc95",
+      "crc32": "171c8ad5",
+      "sha1": "0ef500e0f22504d3408567ff9204e083b753b01a",
+      "format": "JSON"
+    },
+    {
+      "name": "globalnews-2022-09-04T12:32:38.747959-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "globalnews-2022-09-04T12:32:38.747959-04:00.jpg",
+      "mtime": "1662309224",
+      "size": "11250",
+      "md5": "4ccfa92ebdc2224b7246972afa0f4444",
+      "crc32": "df96acc3",
+      "sha1": "2a0d79ea059d53f8ffa8fae3cdb0b68701a96f95"
+    },
+    {
+      "name": "globalnews-2022-09-04T23:41:01.488500-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662349269",
+      "size": "24972",
+      "md5": "5cee22f3b9419b05e3896e982d6b9146",
+      "crc32": "5e9c12a5",
+      "sha1": "584f589dd7e1a13704703e08911e3895b041e0ea",
+      "format": "JSON"
+    },
+    {
+      "name": "globalnews-2022-09-04T23:41:01.488500-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662349271",
+      "size": "86416",
+      "md5": "e12c6873c798cf47c3b7839810f73a7b",
+      "crc32": "28d359a8",
+      "sha1": "9dc0a0c16640ead9c10232f3b8bd29874c119c96",
+      "format": "JSON"
+    },
+    {
+      "name": "globalnews-2022-09-04T23:41:01.488500-04:00.jpg",
+      "source": "original",
+      "mtime": "1662349267",
+      "size": "313106",
+      "md5": "1c43ae2f8f45fa7d6fca276620478ecd",
+      "crc32": "1c48e72d",
+      "sha1": "06b414e59d5f279378ae6cecf27eb180d5666325",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "globalnews-2022-09-04T23:41:01.488500-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662349272",
+      "size": "1438",
+      "md5": "fcbfc6a24aeff3be8e5940c1a575fe7a",
+      "crc32": "a635f1d9",
+      "sha1": "2155e83dfe4e2a64c7f37f87995dd071b78c9b0c",
+      "format": "JSON"
+    },
+    {
+      "name": "globalnews-2022-09-04T23:41:01.488500-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662349274",
+      "size": "147598",
+      "md5": "35b39a0daa73046460c563b6b40c204a",
+      "crc32": "03232b6a",
+      "sha1": "d465c0814ba6a44676bdba00d5de51fb0bb473d6",
+      "format": "JSON"
+    },
+    {
+      "name": "globalnews-2022-09-04T23:41:01.488500-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "globalnews-2022-09-04T23:41:01.488500-04:00.jpg",
+      "mtime": "1662349332",
+      "size": "10800",
+      "md5": "b5968333c7520696840aee6cc956e33e",
+      "crc32": "823745ab",
+      "sha1": "8db8030bd9ce3a12b3af3b5a9dc55fe360c30fa2"
+    },
+    {
       "name": "globalnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "95b2722dbb0bd6225f6a90c2ae8f682361f6dd24",
-      "mtime": "1662131269",
-      "size": "148863",
-      "md5": "638b932ef4513c5937795b9ad5e392f3",
-      "crc32": "87afdfd2",
-      "sha1": "f8c0e015fbc92494cf1184dc951b9cb9c923a310",
+      "btih": "326bab389cab3e55e3a08b764388743e0acf7a30",
+      "mtime": "1662349340",
+      "size": "155264",
+      "md5": "a13936d4d79bd094ac087db418f8a582",
+      "crc32": "d4b42198",
+      "sha1": "6fbf1b01d9efcbc399ea00cedb9c3d8e5924d529",
       "format": "Archive BitTorrent"
     },
     {
       "name": "globalnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "09a02cd6f2ceafe796b47b8b5b7460d1",
+      "md5": "598e51b9f3368a0f7265f20f22005ac1",
       "summation": "md5"
     },
     {
       "name": "globalnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662131198",
-      "size": "851968",
-      "md5": "ecf1caac4ea7fb0a0480ebacb5babb2b",
-      "crc32": "d195f5d3",
-      "sha1": "9f6e3ca24c73cb6f5a18af6cef91137d11825a72",
+      "mtime": "1662349279",
+      "size": "888832",
+      "md5": "6aa82341fd0800eac65dcf66dd5a9b3c",
+      "crc32": "ca73d93d",
+      "sha1": "f7d109a338c49df2ac2b3eaded7dc31a78af5e43",
       "format": "Metadata"
     },
     {
@@ -7246,13 +7556,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 695,
-  "globalnews-2022": {
-    "url": "https://globalnews.ca/",
-    "job_id": "spn2-24f4b0ddb41f7eec2710f31b130749d2331bed38"
-  },
-  "item_last_updated": 1662131269,
-  "item_size": 69062550,
+  "files_count": 725,
+  "item_last_updated": 1662349340,
+  "item_size": 71946702,
   "metadata": {
     "identifier": "globalnews-2022",
     "collection": [
@@ -7269,10 +7575,10 @@
     "publicdate": "2022-06-30 22:35:53",
     "addeddate": "2022-06-30 22:35:53"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 784389668,
+  "server": "ia601508.us.archive.org",
+  "uniq": 2061529674,
   "workable_servers": [
-    "ia801508.us.archive.org",
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

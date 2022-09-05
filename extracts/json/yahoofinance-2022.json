@@ -1,5 +1,5 @@
 {
-  "created": 1662147684,
+  "created": 1662345269,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/14/items/yahoofinance-2022",
@@ -1256,31 +1256,341 @@
       "sha1": "09887602f49f80dd42fa85c412d4360abd5c2adc"
     },
     {
+      "name": "yahoofinance-2022-09-02T22:31:40.126712-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662172303",
+      "size": "81988",
+      "md5": "8db13e38357fb6ebfd0694f9513c757b",
+      "crc32": "82e9a5be",
+      "sha1": "90a818a61cfc9edb124c2cef65737ad682443c08",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-09-02T22:31:40.126712-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662172305",
+      "size": "39358",
+      "md5": "4f43d00566276537ac20a3640a717967",
+      "crc32": "d973c732",
+      "sha1": "92256a9a5aa83aa9a9e5b740db99fbd8876a2687",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-09-02T22:31:40.126712-04:00.jpg",
+      "source": "original",
+      "mtime": "1662172301",
+      "size": "258649",
+      "md5": "cbec528a59849212e29c6a38974a9c73",
+      "crc32": "4365625c",
+      "sha1": "ff72428e7d857dd72c71f7a90685623f344f0e67",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoofinance-2022-09-02T22:31:40.126712-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662172306",
+      "size": "1485",
+      "md5": "3e9d84690a4006b842b7f4f2bdb15b75",
+      "crc32": "c4e482de",
+      "sha1": "8c926e9e2a21956605b5cd34273ceebcacc4143a",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-09-02T22:31:40.126712-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662172308",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-09-02T22:31:40.126712-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoofinance-2022-09-02T22:31:40.126712-04:00.jpg",
+      "mtime": "1662172359",
+      "size": "9391",
+      "md5": "f8b09f4fa60efe73d171f0d99af83839",
+      "crc32": "5c68d852",
+      "sha1": "e84d3798bd7f9e77c958f865b3c59239f10ae96a"
+    },
+    {
+      "name": "yahoofinance-2022-09-03T10:58:42.804060-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662217125",
+      "size": "39672",
+      "md5": "2d14e42c8b8c93b282fb22de601aa3a9",
+      "crc32": "f753af6f",
+      "sha1": "7bcab9db13e103fb57faa7610e7822b40765701d",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-09-03T10:58:42.804060-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662217127",
+      "size": "22717",
+      "md5": "1dac7ce73a0f81b4c19c203201bd33c8",
+      "crc32": "b52b2b2e",
+      "sha1": "d3f8e7b8a5334ca9a88b84a81d6d3662d3af5dde",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-09-03T10:58:42.804060-04:00.jpg",
+      "source": "original",
+      "mtime": "1662217124",
+      "size": "267420",
+      "md5": "e83462a52aff282015672b725bc361c9",
+      "crc32": "5dd4bf62",
+      "sha1": "9f2fd1a33627fb2b7af2f59af927a010969732bc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoofinance-2022-09-03T10:58:42.804060-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662217129",
+      "size": "1486",
+      "md5": "8ae10657b7e464f14e87e3649cb95bd4",
+      "crc32": "a866e19e",
+      "sha1": "361a7a1d5e18452bb37bb8093af0d0596be129ec",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-09-03T10:58:42.804060-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662217130",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-09-03T10:58:42.804060-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoofinance-2022-09-03T10:58:42.804060-04:00.jpg",
+      "mtime": "1662217192",
+      "size": "9287",
+      "md5": "bd52b339436eae7ef3d5a26d359e304a",
+      "crc32": "c0b459a5",
+      "sha1": "d3fd75fbaad7bb298581ffde7ee1d4f6257e3834"
+    },
+    {
+      "name": "yahoofinance-2022-09-03T22:32:23.423922-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662258746",
+      "size": "41391",
+      "md5": "d793b39d1b77a56c84b7326ce19046eb",
+      "crc32": "b62e5008",
+      "sha1": "d9819194a62574503fcea6a4e008196248416017",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-09-03T22:32:23.423922-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662258748",
+      "size": "36086",
+      "md5": "e8fa66687244dd5bfa20319efd3cfa05",
+      "crc32": "ac7befe0",
+      "sha1": "7b1a5a0f6a19d32a578b291f7287f111f9238255",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-09-03T22:32:23.423922-04:00.jpg",
+      "source": "original",
+      "mtime": "1662258745",
+      "size": "259134",
+      "md5": "d0edabaefab5085507de86ed38f4779d",
+      "crc32": "1353608e",
+      "sha1": "b656484c940bb49e89bb5bcdf473c8c4e6157ea8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoofinance-2022-09-03T22:32:23.423922-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662258749",
+      "size": "1486",
+      "md5": "74ce9f0911b84708eb6f400bff38bc75",
+      "crc32": "05ff3682",
+      "sha1": "7b407b814ccda533d889f4a260fc16710946e8b2",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-09-03T22:32:23.423922-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662258751",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-09-03T22:32:23.423922-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoofinance-2022-09-03T22:32:23.423922-04:00.jpg",
+      "mtime": "1662258796",
+      "size": "9083",
+      "md5": "5cc2909adf1379d1f7ccb011d0ece3d7",
+      "crc32": "8b579b3c",
+      "sha1": "e92a282ee8feb04e79348bda7829f2a26df67486"
+    },
+    {
+      "name": "yahoofinance-2022-09-04T10:48:20.809684-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662302904",
+      "size": "86953",
+      "md5": "ec04fc60d84b69ba27acd0375710d382",
+      "crc32": "8f6db1aa",
+      "sha1": "2a9222c3f0e04ff5bf8aada93197cb1118fa60e2",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-09-04T10:48:20.809684-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662302906",
+      "size": "36743",
+      "md5": "3094f29263d69c06d6dfabf68b4bf545",
+      "crc32": "a84bad98",
+      "sha1": "a1ed4229decf52f70d8a864b47638b504477bc71",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-09-04T10:48:20.809684-04:00.jpg",
+      "source": "original",
+      "mtime": "1662302903",
+      "size": "262902",
+      "md5": "a2928eac016c0a27e2b239240749c306",
+      "crc32": "7e564cb4",
+      "sha1": "a09997b658584aba890ef728e7c831a98645abe1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoofinance-2022-09-04T10:48:20.809684-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662302907",
+      "size": "1486",
+      "md5": "faf760fa48f6c2e10621336027a7a727",
+      "crc32": "9c62676d",
+      "sha1": "af1813bad4b37fc7451761e21add614f8c8e3d41",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-09-04T10:48:20.809684-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662302909",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-09-04T10:48:20.809684-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoofinance-2022-09-04T10:48:20.809684-04:00.jpg",
+      "mtime": "1662302953",
+      "size": "9270",
+      "md5": "264267a87dbe7484fda5361dcf3564de",
+      "crc32": "ce3ed8b6",
+      "sha1": "a7b900f3f116ac693b1ad56135f938661485a43e"
+    },
+    {
+      "name": "yahoofinance-2022-09-04T22:33:22.433888-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662345205",
+      "size": "39634",
+      "md5": "7722e19c794643912898a52b380dbb34",
+      "crc32": "57c9a187",
+      "sha1": "a662e14456d77b991e3c9c9ae861fbc0d89b012e",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-09-04T22:33:22.433888-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662345207",
+      "size": "40238",
+      "md5": "c6ac872cb27013f42a9e86236c92bfd6",
+      "crc32": "36dcb08f",
+      "sha1": "78fcee761e9a30d6d8ac9dabe96ed248c50537a4",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-09-04T22:33:22.433888-04:00.jpg",
+      "source": "original",
+      "mtime": "1662345204",
+      "size": "261757",
+      "md5": "edfae0ff19b5fb2820c3d1a77acc5eb7",
+      "crc32": "fd3f2fff",
+      "sha1": "5b7d3d7c239014adc0e4fba4c6808323044c08ff",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoofinance-2022-09-04T22:33:22.433888-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662345208",
+      "size": "1486",
+      "md5": "945935a3e117271e3cb3f8f81c45cf19",
+      "crc32": "00205e41",
+      "sha1": "3abb0817065353f5a61bbd5b875abecf023db3c0",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-09-04T22:33:22.433888-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662345210",
+      "size": "96840",
+      "md5": "87c47f0dac7d235651a8e0027ddb0c93",
+      "crc32": "f28887a0",
+      "sha1": "ae293e327c85430146e2c44f548fbf7c6f2b6719",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-09-04T22:33:22.433888-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoofinance-2022-09-04T22:33:22.433888-04:00.jpg",
+      "mtime": "1662345259",
+      "size": "9358",
+      "md5": "08bc843a606efa06703c74ea7e29edef",
+      "crc32": "6af329fd",
+      "sha1": "9c6cae29764e0f93c7971b0045efc7676d8d5b4c"
+    },
+    {
       "name": "yahoofinance-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c903f6ca3a45864ca616a486f2c8e3f1aca8cdfe",
-      "mtime": "1662131322",
-      "size": "27421",
-      "md5": "d56800832dcb12f8eb5552ba548b241e",
-      "crc32": "0584da2f",
-      "sha1": "1d74e0ad592cf88a1343da592a06e9d119d6ecfe",
+      "btih": "066932db227f866131f300abe684e2403bad960e",
+      "mtime": "1662345263",
+      "size": "33828",
+      "md5": "acda8982c1ea3b6b37175d951ad393a1",
+      "crc32": "f5440153",
+      "sha1": "7bc5de706cbc4d17e2ca50d93ff28adc8b8a2e15",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yahoofinance-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4024391ee28800a3c34ba1c76d3e2757",
+      "md5": "cd3d31c9be325a510d0b663ce37f2973",
       "summation": "md5"
     },
     {
       "name": "yahoofinance-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662131152",
-      "size": "176128",
-      "md5": "356310a4e2c47de427f5ec9ec421c379",
-      "crc32": "aeeaafc7",
-      "sha1": "b9e3b6c15eed36c32e73627d1448b51810664375",
+      "mtime": "1662345215",
+      "size": "217088",
+      "md5": "9e0cbd105da569534e837b2d9376c0cc",
+      "crc32": "d28d752d",
+      "sha1": "daa264cb61d578e92b1d1d884fd5ecd065ed7744",
       "format": "Metadata"
     },
     {
@@ -1294,9 +1604,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 125,
-  "item_last_updated": 1662131322,
-  "item_size": 8970531,
+  "files_count": 155,
+  "item_last_updated": 1662345263,
+  "item_size": 10944006,
   "metadata": {
     "identifier": "yahoofinance-2022",
     "collection": [
@@ -1314,7 +1624,7 @@
     "addeddate": "2022-08-23 14:05:03"
   },
   "server": "ia601401.us.archive.org",
-  "uniq": 1288333077,
+  "uniq": 1684733565,
   "workable_servers": [
     "ia601401.us.archive.org",
     "ia801401.us.archive.org"

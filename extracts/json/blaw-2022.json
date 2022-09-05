@@ -1,10 +1,5 @@
 {
-  "blaw-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1662301881,
+  "created": 1662375745,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/7/items/blaw-2022",
@@ -4947,31 +4942,155 @@
       "sha1": "dfff27cfdf19714a874aee68651654a5876d4cf2"
     },
     {
+      "name": "blaw-2022-09-04T18:55:25.694194-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662332134",
+      "size": "17645",
+      "md5": "894ae6c0fdf4a2d30bdab8588663500c",
+      "crc32": "a632ad5f",
+      "sha1": "b559d39a00d19e128a631d6be645cf8e9d710516",
+      "format": "JSON"
+    },
+    {
+      "name": "blaw-2022-09-04T18:55:25.694194-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662332135",
+      "size": "24785",
+      "md5": "e2514d689c730c9320f050ced2634ec2",
+      "crc32": "0e3e341c",
+      "sha1": "db4f120a92a342a510daaecc831df3825aab5566",
+      "format": "JSON"
+    },
+    {
+      "name": "blaw-2022-09-04T18:55:25.694194-04:00.jpg",
+      "source": "original",
+      "mtime": "1662332132",
+      "size": "284371",
+      "md5": "03c393984680dc51e33d918399fae51a",
+      "crc32": "c8fa87c7",
+      "sha1": "dc8e7f78e291ff2b976aec91970602b198e69ac9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "blaw-2022-09-04T18:55:25.694194-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662332137",
+      "size": "1522",
+      "md5": "14a42342e335172305f20a5ca0826218",
+      "crc32": "604b3d87",
+      "sha1": "8b77e223cfa152f79a8ca0feda0a515bc8493206",
+      "format": "JSON"
+    },
+    {
+      "name": "blaw-2022-09-04T18:55:25.694194-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662332138",
+      "size": "298",
+      "md5": "d4c8e4dd6139b9fef2674e7533a8b651",
+      "crc32": "0288b4d7",
+      "sha1": "2ad000f4681af5b7d787017ca75b5e9db8fe8683",
+      "format": "JSON"
+    },
+    {
+      "name": "blaw-2022-09-04T18:55:25.694194-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "blaw-2022-09-04T18:55:25.694194-04:00.jpg",
+      "mtime": "1662332192",
+      "size": "9323",
+      "md5": "df3507cf7b0e75b915843a01e7c0c1ec",
+      "crc32": "2a74156f",
+      "sha1": "dfff27cfdf19714a874aee68651654a5876d4cf2"
+    },
+    {
+      "name": "blaw-2022-09-05T07:00:08.555673-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662375613",
+      "size": "17645",
+      "md5": "894ae6c0fdf4a2d30bdab8588663500c",
+      "crc32": "a632ad5f",
+      "sha1": "b559d39a00d19e128a631d6be645cf8e9d710516",
+      "format": "JSON"
+    },
+    {
+      "name": "blaw-2022-09-05T07:00:08.555673-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662375616",
+      "size": "24785",
+      "md5": "904daed545e4a2ee5270efb9de819f11",
+      "crc32": "83f4ff86",
+      "sha1": "9952eb370cedb04dd5cf9c36fb817eb118aaba26",
+      "format": "JSON"
+    },
+    {
+      "name": "blaw-2022-09-05T07:00:08.555673-04:00.jpg",
+      "source": "original",
+      "mtime": "1662375611",
+      "size": "284371",
+      "md5": "03c393984680dc51e33d918399fae51a",
+      "crc32": "c8fa87c7",
+      "sha1": "dc8e7f78e291ff2b976aec91970602b198e69ac9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "blaw-2022-09-05T07:00:08.555673-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662375617",
+      "size": "1522",
+      "md5": "74c1e43566583a8f97c26aaeb6d76606",
+      "crc32": "a563d27c",
+      "sha1": "8859336844591a42883bafc8e7624a43d8a1681a",
+      "format": "JSON"
+    },
+    {
+      "name": "blaw-2022-09-05T07:00:08.555673-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662375619",
+      "size": "28940",
+      "md5": "8603f4c8d99e247a7b63aa5d498be227",
+      "crc32": "6829dbc3",
+      "sha1": "52fefac31f41fc099c8b65ba469c72d13b4d8ed4",
+      "format": "JSON"
+    },
+    {
+      "name": "blaw-2022-09-05T07:00:08.555673-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "blaw-2022-09-05T07:00:08.555673-04:00.jpg",
+      "mtime": "1662375727",
+      "size": "9323",
+      "md5": "df3507cf7b0e75b915843a01e7c0c1ec",
+      "crc32": "2a74156f",
+      "sha1": "dfff27cfdf19714a874aee68651654a5876d4cf2"
+    },
+    {
       "name": "blaw-2022_archive.torrent",
       "source": "metadata",
-      "btih": "25abd35ffd62621579ba86762c6910e2c0d57abd",
-      "mtime": "1662288737",
-      "size": "99713",
-      "md5": "92081c3abe3bae49bf05e670408baef2",
-      "crc32": "95f4a171",
-      "sha1": "0c77a74061c042b27c936fad4d3684fb6f3623e1",
+      "btih": "82bfbb149c65e0f6f20169707811dd620394eb99",
+      "mtime": "1662375733",
+      "size": "102197",
+      "md5": "6df6f9f67b4e428663c4b811a99be4dc",
+      "crc32": "65f9e7c2",
+      "sha1": "f9bfdf4ef26e0e5ceb2035942f5d7042f550cd7c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "blaw-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4fcf3edba924fbfdc2a5a0a73f6411d9",
+      "md5": "9105da00b3a1b3e73614fb99605c8505",
       "summation": "md5"
     },
     {
       "name": "blaw-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662288681",
-      "size": "610304",
-      "md5": "6aeaf771baa3eebb7721adc0717cdeca",
-      "crc32": "28be18a5",
-      "sha1": "fa3fc6c26880d599018354923868139db0b102a0",
+      "mtime": "1662375659",
+      "size": "634880",
+      "md5": "fcd7c2c67c9690d8473895428425138f",
+      "crc32": "0925b864",
+      "sha1": "0f5c3df3c8d5535e2aeb2a8a243abed83f6a9a35",
       "format": "Metadata"
     },
     {
@@ -4985,9 +5104,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 481,
-  "item_last_updated": 1662288737,
-  "item_size": 30486272,
+  "files_count": 493,
+  "item_last_updated": 1662375733,
+  "item_size": 31217862,
   "metadata": {
     "identifier": "blaw-2022",
     "collection": [
@@ -5005,7 +5124,7 @@
     "addeddate": "2022-07-25 23:09:00"
   },
   "server": "ia801507.us.archive.org",
-  "uniq": 910509690,
+  "uniq": 1370367889,
   "workable_servers": [
     "ia801507.us.archive.org",
     "ia601507.us.archive.org"

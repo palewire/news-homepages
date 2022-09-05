@@ -1,5 +1,5 @@
 {
-  "created": 1662131320,
+  "created": 1662349448,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/4/items/ilisolezwe-2022",
@@ -1380,31 +1380,341 @@
       "sha1": "035243273a6db0be194f32ec96bc628eb2a09d12"
     },
     {
+      "name": "ilisolezwe-2022-09-03T05:49:14.764504+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662176957",
+      "size": "23677",
+      "md5": "d581754efc3685b94d7925270c7238a2",
+      "crc32": "53d22fa9",
+      "sha1": "22a4d61dcb27fda411cd4641ef4fe0e05f1230dd",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-09-03T05:49:14.764504+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662176958",
+      "size": "19483",
+      "md5": "049b9480a26b5bdb251ea806e1d8a3e0",
+      "crc32": "bc0c00a0",
+      "sha1": "aa20d7bc6db4eb4512a2b02086c3704428d86da4",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-09-03T05:49:14.764504+02:00.jpg",
+      "source": "original",
+      "mtime": "1662176955",
+      "size": "275256",
+      "md5": "9978787bfdc5fbd364f12eae729a95ba",
+      "crc32": "bd801af6",
+      "sha1": "4506d57cd1486e5d07992c1a3cc0842ee461f56d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ilisolezwe-2022-09-03T05:49:14.764504+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662176960",
+      "size": "1576",
+      "md5": "a138b04e01aa6e17654959ba78c54743",
+      "crc32": "558b464a",
+      "sha1": "a17523ca26d6a82adaf0d9ea3f756031abf7e32f",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-09-03T05:49:14.764504+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1662176964",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-09-03T05:49:14.764504+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ilisolezwe-2022-09-03T05:49:14.764504+02:00.jpg",
+      "mtime": "1662177009",
+      "size": "10479",
+      "md5": "033d47a376a41e9f80c9497f5115208e",
+      "crc32": "43349060",
+      "sha1": "c3d2105f0265249d3477dff73359dd1b1988bd1f"
+    },
+    {
+      "name": "ilisolezwe-2022-09-03T17:01:40.310965+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662217309",
+      "size": "23611",
+      "md5": "901c020df11d99c68a50b9bb16a0c590",
+      "crc32": "85fbeb9c",
+      "sha1": "e0709dcc506f06cf61ec0e34bba25756bfd78dc8",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-09-03T17:01:40.310965+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662217311",
+      "size": "19564",
+      "md5": "f5bc953efa32813ade59f2860819a87e",
+      "crc32": "d97a898a",
+      "sha1": "b6c915aad6b9224fe32c8d616236502f7203e6f1",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-09-03T17:01:40.310965+02:00.jpg",
+      "source": "original",
+      "mtime": "1662217304",
+      "size": "277761",
+      "md5": "f49641c3703cd6a1dcd0f6dcbadc91ed",
+      "crc32": "2a453fec",
+      "sha1": "9af8822f1d1142138ffe898fff4b46d38ac59a05",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ilisolezwe-2022-09-03T17:01:40.310965+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662217312",
+      "size": "1575",
+      "md5": "9ef090c9541e07530a67b6bdb903872b",
+      "crc32": "928dd250",
+      "sha1": "bfc4d92877effaac66d06130bd168a845d416252",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-09-03T17:01:40.310965+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1662217316",
+      "size": "17625",
+      "md5": "6e4b0c7da9fdd6f386e3b221fa8a463c",
+      "crc32": "dd562796",
+      "sha1": "32029e85083edb6e761c6d1b26f10e55536f1921",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-09-03T17:01:40.310965+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ilisolezwe-2022-09-03T17:01:40.310965+02:00.jpg",
+      "mtime": "1662217412",
+      "size": "10542",
+      "md5": "6a2dbe2e4d4755af5037a45d6f697b1e",
+      "crc32": "9659d557",
+      "sha1": "5a1934879e5dfe1297867474c081261806cf9b1d"
+    },
+    {
+      "name": "ilisolezwe-2022-09-04T05:43:57.254208+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662263040",
+      "size": "23613",
+      "md5": "d8673b7c2a1b10db86eb95124d7450e4",
+      "crc32": "96b7e78a",
+      "sha1": "b8f3086e51401d21da82c4489b4d8eaa564cc0d7",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-09-04T05:43:57.254208+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662263041",
+      "size": "19562",
+      "md5": "e54818d027d011491c6fc5609845e24d",
+      "crc32": "9ffc0ba6",
+      "sha1": "74b3f81480d6422855447c9904655643955bcedc",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-09-04T05:43:57.254208+02:00.jpg",
+      "source": "original",
+      "mtime": "1662263038",
+      "size": "277938",
+      "md5": "caf1ecd746c73ec2f951c9f15dc81123",
+      "crc32": "c149b5d2",
+      "sha1": "7fe48435f357c83aae6eed5b2b307a7418659ad5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ilisolezwe-2022-09-04T05:43:57.254208+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662263043",
+      "size": "1576",
+      "md5": "748534063452750797565009455ee78a",
+      "crc32": "fb3c1beb",
+      "sha1": "79c4a27a6f3006bbd90a80a42e6a9623fa0475c3",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-09-04T05:43:57.254208+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1662263044",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-09-04T05:43:57.254208+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ilisolezwe-2022-09-04T05:43:57.254208+02:00.jpg",
+      "mtime": "1662263091",
+      "size": "10561",
+      "md5": "b414ec95e9c6680294611b5fa26c5715",
+      "crc32": "7982489d",
+      "sha1": "339bd246d335bd324b3b0d251eb7f4abd8579644"
+    },
+    {
+      "name": "ilisolezwe-2022-09-04T18:34:27.558829+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662309271",
+      "size": "23388",
+      "md5": "47b7524f490bf9a81d2c1cf66f97a498",
+      "crc32": "95d9d328",
+      "sha1": "7c082cd269a17f53717b02f9636748e6f0282759",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-09-04T18:34:27.558829+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662309273",
+      "size": "19475",
+      "md5": "6a813777ca6dd2fadd310d6fc42c462a",
+      "crc32": "7ef73a68",
+      "sha1": "6ae58b9704ecc4fa8a0d07b42097992782e77c79",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-09-04T18:34:27.558829+02:00.jpg",
+      "source": "original",
+      "mtime": "1662309270",
+      "size": "274618",
+      "md5": "92e097eb5c3d021a8ab6d067aad23fb0",
+      "crc32": "61621abd",
+      "sha1": "f706a175fa1c9b1b391acb1f63f55cef55573283",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ilisolezwe-2022-09-04T18:34:27.558829+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662309274",
+      "size": "1575",
+      "md5": "4b9b5207b52e58875385a9a577b12ddf",
+      "crc32": "14cfd1f8",
+      "sha1": "7512108ed3c1a1ce0f9983828dee8d506fe92c2f",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-09-04T18:34:27.558829+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1662309276",
+      "size": "16752",
+      "md5": "5f1a1e1ef5b55ac8779f1610034f2672",
+      "crc32": "3151157b",
+      "sha1": "6b807fb2cffe4d26dec3f90a1395c5f014782dd0",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-09-04T18:34:27.558829+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ilisolezwe-2022-09-04T18:34:27.558829+02:00.jpg",
+      "mtime": "1662309322",
+      "size": "10538",
+      "md5": "e5999e4c79523052d7373cd572ab70fe",
+      "crc32": "714ba106",
+      "sha1": "4a00804ab3a75adbad3b3a86cc96a34219a3ac81"
+    },
+    {
+      "name": "ilisolezwe-2022-09-05T05:42:57.684193+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662349386",
+      "size": "23309",
+      "md5": "34397acb41e94dae317e18de23592454",
+      "crc32": "a2846662",
+      "sha1": "c0e05d7e3e34f404dbf92d0ac01c68d056b32e8e",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-09-05T05:42:57.684193+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662349388",
+      "size": "19561",
+      "md5": "3c645ae1cafc3cf4fe01cf649f69ebab",
+      "crc32": "319ccb95",
+      "sha1": "0bfe3248e24a66e8566eec26df86d54f33e116bd",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-09-05T05:42:57.684193+02:00.jpg",
+      "source": "original",
+      "mtime": "1662349379",
+      "size": "274559",
+      "md5": "d750858517ec4343f874d89846b115a2",
+      "crc32": "e63d02e1",
+      "sha1": "8b50754b31848194946dc341c3b7e33729b4282a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ilisolezwe-2022-09-05T05:42:57.684193+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662349389",
+      "size": "1576",
+      "md5": "cba95bce7bba8a295f773f2b22a829e8",
+      "crc32": "6779de7f",
+      "sha1": "bd7cbe5232873997f6b32e72ebcaea0860fbfa80",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-09-05T05:42:57.684193+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1662349391",
+      "size": "16576",
+      "md5": "ab2f3696fb4f0b23995bccf3ac3d2cc5",
+      "crc32": "e65928fd",
+      "sha1": "994687fc8868b8d5bc0ef2398a4d022de90440ba",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-09-05T05:42:57.684193+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ilisolezwe-2022-09-05T05:42:57.684193+02:00.jpg",
+      "mtime": "1662349438",
+      "size": "10542",
+      "md5": "4d2c37ccf23f49839f8bed317941fd8a",
+      "crc32": "46d6d3b2",
+      "sha1": "5915fe7f3b8b40956b086009b433747f4515d8db"
+    },
+    {
       "name": "ilisolezwe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e17c7dbf03087a00a73d26c857edb132f690c5d1",
-      "mtime": "1662131309",
-      "size": "29633",
-      "md5": "21b50759cc85526454c566f1723c95b0",
-      "crc32": "a835fb97",
-      "sha1": "b143fd8efb73e3d587585912e98ceb2072ffa602",
+      "btih": "9e7d5e16852ef192852c338986f034639a0b8cb3",
+      "mtime": "1662349441",
+      "size": "35989",
+      "md5": "055369dbf8a0cd25070296700c9821a9",
+      "crc32": "6578ca7a",
+      "sha1": "529a5c004c924821d3b488a94de5fa3523f7a9da",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ilisolezwe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2565ae7123b252da7d96cd2ea6badd6d",
+      "md5": "982bbdd1b53fa95228934a26d27380ef",
       "summation": "md5"
     },
     {
       "name": "ilisolezwe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662131245",
-      "size": "192512",
-      "md5": "55df064b8b96a3002d2211b7f85457d5",
-      "crc32": "74b352b1",
-      "sha1": "6f66ba59b98165402a6bc3611ba18e9c63fd07b2",
+      "mtime": "1662349395",
+      "size": "229376",
+      "md5": "084d2005f1c510869b4076b9a2d31bf3",
+      "crc32": "8745b6c5",
+      "sha1": "eff60532c95996c5692e4e143e5211ce9d9805c4",
       "format": "Metadata"
     },
     {
@@ -1418,9 +1728,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 137,
-  "item_last_updated": 1662131309,
-  "item_size": 7645432,
+  "files_count": 167,
+  "item_last_updated": 1662349441,
+  "item_size": 9395924,
   "metadata": {
     "identifier": "ilisolezwe-2022",
     "collection": [
@@ -1438,7 +1748,7 @@
     "addeddate": "2022-08-22 22:03:21"
   },
   "server": "ia801509.us.archive.org",
-  "uniq": 1759511038,
+  "uniq": 644800954,
   "workable_servers": [
     "ia801509.us.archive.org",
     "ia601509.us.archive.org"

@@ -1,20 +1,5 @@
 {
-  "created": 1662163830,
-  "crikey_news-2022": {
-    "url": "https://www.crikey.com.au/",
-    "job_id": "spn2-d2ff7531d639d39179c1c110e1711cc1ca504f70",
-    "status": "success",
-    "counters": {
-      "outlinks": 70,
-      "embeds": 101
-    },
-    "outlinks": [],
-    "timestamp": "20220902124114",
-    "duration_sec": 8.748,
-    "original_url": "https://www.crikey.com.au/",
-    "http_status": 200,
-    "resources": []
-  },
+  "created": 1662345045,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/4/items/crikey_news-2022",
@@ -1395,31 +1380,341 @@
       "sha1": "c562eb91386d21617c72c86525730725d3cd166d"
     },
     {
+      "name": "crikey_news-2022-09-03T12:28:07.465530+10:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662172092",
+      "size": "50005",
+      "md5": "a9bde783f9faad63dc8b07ce89f359b7",
+      "crc32": "bcaa9489",
+      "sha1": "6a6da0beea6a0b41d758215ae7d8e4bc316b4310",
+      "format": "JSON"
+    },
+    {
+      "name": "crikey_news-2022-09-03T12:28:07.465530+10:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662172094",
+      "size": "44442",
+      "md5": "8f0e9b59b53328dc0b1f11c05ca65ce5",
+      "crc32": "d9c39382",
+      "sha1": "4c90dd4085cff95b80bc0e90cfc5de5503f6bce4",
+      "format": "JSON"
+    },
+    {
+      "name": "crikey_news-2022-09-03T12:28:07.465530+10:00.jpg",
+      "source": "original",
+      "mtime": "1662172089",
+      "size": "381044",
+      "md5": "64e56023b35a2fdc704e62d5aa737ab4",
+      "crc32": "1deedebd",
+      "sha1": "38f73be3787ca99826d35611e3495d09a0844116",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "crikey_news-2022-09-03T12:28:07.465530+10:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662172097",
+      "size": "1486",
+      "md5": "53204386a38ab086e58af91bf03406fb",
+      "crc32": "e39e057b",
+      "sha1": "91a731a8e841e0d34af342d6ea92fa6334a468e5",
+      "format": "JSON"
+    },
+    {
+      "name": "crikey_news-2022-09-03T12:28:07.465530+10:00.wayback.json",
+      "source": "original",
+      "mtime": "1662172098",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "crikey_news-2022-09-03T12:28:07.465530+10:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "crikey_news-2022-09-03T12:28:07.465530+10:00.jpg",
+      "mtime": "1662172147",
+      "size": "10591",
+      "md5": "240a59746c9c356165f9714266461b54",
+      "crc32": "43e5184d",
+      "sha1": "8569ab514143689b0a3da92958edf62a117ff219"
+    },
+    {
+      "name": "crikey_news-2022-09-04T00:55:17.593124+10:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662216921",
+      "size": "50079",
+      "md5": "7af677f38315d285840a382f4055e9d0",
+      "crc32": "648e563c",
+      "sha1": "83d22b24c67c95129267d58bcd3fed3680d926a4",
+      "format": "JSON"
+    },
+    {
+      "name": "crikey_news-2022-09-04T00:55:17.593124+10:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662216923",
+      "size": "44579",
+      "md5": "b190eb7e8aed80de7886705e81c10086",
+      "crc32": "58129966",
+      "sha1": "77483ac1c4b50a34ca44408bbeb6782b9a530bed",
+      "format": "JSON"
+    },
+    {
+      "name": "crikey_news-2022-09-04T00:55:17.593124+10:00.jpg",
+      "source": "original",
+      "mtime": "1662216920",
+      "size": "384108",
+      "md5": "23f2ca105fa0c03d338a45da4bced960",
+      "crc32": "b2d94220",
+      "sha1": "1adcf320b7bc17866a8bc3b44bd942bf2e45954f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "crikey_news-2022-09-04T00:55:17.593124+10:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662216926",
+      "size": "1486",
+      "md5": "e78a1faacc747d5b51a4d9fd991363fb",
+      "crc32": "75a31c1c",
+      "sha1": "25e5a98f5da1f526f49ef20ac9410cc1a63ad262",
+      "format": "JSON"
+    },
+    {
+      "name": "crikey_news-2022-09-04T00:55:17.593124+10:00.wayback.json",
+      "source": "original",
+      "mtime": "1662216928",
+      "size": "21537",
+      "md5": "5774cc7349636a0a2002197a0b2daebe",
+      "crc32": "968fe572",
+      "sha1": "86bd0b20bcc2212ed687c0b631de2bfefb1c42dc",
+      "format": "JSON"
+    },
+    {
+      "name": "crikey_news-2022-09-04T00:55:17.593124+10:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "crikey_news-2022-09-04T00:55:17.593124+10:00.jpg",
+      "mtime": "1662216975",
+      "size": "10597",
+      "md5": "a3327511067eed89f06f74620c92a008",
+      "crc32": "6d4a1830",
+      "sha1": "060fd99aca2a9818f69953f0fda47aeeed635a79"
+    },
+    {
+      "name": "crikey_news-2022-09-04T12:29:36.640824+10:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662258579",
+      "size": "50256",
+      "md5": "4bc6b58e161881dafb4d6b832411b571",
+      "crc32": "e9e56ee4",
+      "sha1": "32f07ac61271dbb980dfd76ba3b235caf0972870",
+      "format": "JSON"
+    },
+    {
+      "name": "crikey_news-2022-09-04T12:29:36.640824+10:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662258581",
+      "size": "44695",
+      "md5": "fc516da6a3cbb281434bb8bedc3e053a",
+      "crc32": "75ad9f1e",
+      "sha1": "b803361e50a38643df54faf3f93b607f4682f215",
+      "format": "JSON"
+    },
+    {
+      "name": "crikey_news-2022-09-04T12:29:36.640824+10:00.jpg",
+      "source": "original",
+      "mtime": "1662258578",
+      "size": "378121",
+      "md5": "a993bdca44ea6c4dd7b08750bfe06d64",
+      "crc32": "905d48b2",
+      "sha1": "ce909112e280b9507e6e5defd8daf63d5ab03e8d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "crikey_news-2022-09-04T12:29:36.640824+10:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662258583",
+      "size": "1486",
+      "md5": "c3aae9c4f9939f4f0039044cff166aab",
+      "crc32": "f77b9bbc",
+      "sha1": "232fb72e6ddd3a5fac27bfbd3e5551dc39e42f80",
+      "format": "JSON"
+    },
+    {
+      "name": "crikey_news-2022-09-04T12:29:36.640824+10:00.wayback.json",
+      "source": "original",
+      "mtime": "1662258585",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "crikey_news-2022-09-04T12:29:36.640824+10:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "crikey_news-2022-09-04T12:29:36.640824+10:00.jpg",
+      "mtime": "1662258691",
+      "size": "10568",
+      "md5": "07edcb2776045e3e1fce420e334c99b5",
+      "crc32": "a6e98c85",
+      "sha1": "00266538d2fcf5ed6af1b2880ed2f41ca7d38ead"
+    },
+    {
+      "name": "crikey_news-2022-09-05T00:17:19.439235+10:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662301042",
+      "size": "49928",
+      "md5": "1a121f6691258d841a4d7d34652e0724",
+      "crc32": "800d0d46",
+      "sha1": "9a394f821a4dff4ec5a73c85d1d602f34fbf8654",
+      "format": "JSON"
+    },
+    {
+      "name": "crikey_news-2022-09-05T00:17:19.439235+10:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662301045",
+      "size": "44423",
+      "md5": "0c1b7be5fba183b24ad1448bd910b1bb",
+      "crc32": "d8886cee",
+      "sha1": "6f715da206c3c61599a3f5220ff38c05bb5f91bf",
+      "format": "JSON"
+    },
+    {
+      "name": "crikey_news-2022-09-05T00:17:19.439235+10:00.jpg",
+      "source": "original",
+      "mtime": "1662301041",
+      "size": "378128",
+      "md5": "18d91f07d02496bfdac285712ea3f9b5",
+      "crc32": "498430b1",
+      "sha1": "65594526a88f16ec9adb8e233e4784372ba46cf6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "crikey_news-2022-09-05T00:17:19.439235+10:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662301047",
+      "size": "1486",
+      "md5": "381d50e8bed1bf7217b2384590fdf020",
+      "crc32": "e307d16a",
+      "sha1": "efb029a67ae867d8831f4ce5971aeb111c6794f7",
+      "format": "JSON"
+    },
+    {
+      "name": "crikey_news-2022-09-05T00:17:19.439235+10:00.wayback.json",
+      "source": "original",
+      "mtime": "1662301049",
+      "size": "17569",
+      "md5": "02afb69353a791b59ce317cb72f535cf",
+      "crc32": "f8091d9a",
+      "sha1": "dc74c23e31fbb2b65cf53cbba4f09b375af992c8",
+      "format": "JSON"
+    },
+    {
+      "name": "crikey_news-2022-09-05T00:17:19.439235+10:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "crikey_news-2022-09-05T00:17:19.439235+10:00.jpg",
+      "mtime": "1662301098",
+      "size": "10570",
+      "md5": "a8917b71efd39e2338dcb884f404c395",
+      "crc32": "3b51b653",
+      "sha1": "728a9969ebf389a58887de07ba1b670b97baaeac"
+    },
+    {
+      "name": "crikey_news-2022-09-05T12:29:39.084704+10:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662344982",
+      "size": "50368",
+      "md5": "d1187892a961f9fd1be08580260a51f7",
+      "crc32": "f5447bac",
+      "sha1": "585d1b35507b61a796e7ed3bf124b42a2f082326",
+      "format": "JSON"
+    },
+    {
+      "name": "crikey_news-2022-09-05T12:29:39.084704+10:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662344984",
+      "size": "44297",
+      "md5": "0e5d1a40d159ef24b51c734abc4e1c0f",
+      "crc32": "adddffae",
+      "sha1": "ce4602c4c9eaec14b0c33ced5dc7f3f95bec6be3",
+      "format": "JSON"
+    },
+    {
+      "name": "crikey_news-2022-09-05T12:29:39.084704+10:00.jpg",
+      "source": "original",
+      "mtime": "1662344980",
+      "size": "377353",
+      "md5": "734e08fb4899d6b8bb8a453d92a9043c",
+      "crc32": "0e7a63ef",
+      "sha1": "b1ff8b4d779af1f48a17b3bea63456a8678ad700",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "crikey_news-2022-09-05T12:29:39.084704+10:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662344985",
+      "size": "1482",
+      "md5": "57548fe46845e629d7b69fd8f6a16e18",
+      "crc32": "ad3b8f22",
+      "sha1": "a89c9d883a0a5733434dfc29ed2f76df4e3bae13",
+      "format": "JSON"
+    },
+    {
+      "name": "crikey_news-2022-09-05T12:29:39.084704+10:00.wayback.json",
+      "source": "original",
+      "mtime": "1662344987",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "crikey_news-2022-09-05T12:29:39.084704+10:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "crikey_news-2022-09-05T12:29:39.084704+10:00.jpg",
+      "mtime": "1662345036",
+      "size": "10590",
+      "md5": "4ea3e79d966eda40a212d5938df752cb",
+      "crc32": "df778518",
+      "sha1": "f29044ae7a0b69c68be5f871eee8042e709c35d1"
+    },
+    {
       "name": "crikey_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5fec073f876da8e38cbaa40c6649648f3820f8a5",
-      "mtime": "1662130905",
-      "size": "29884",
-      "md5": "e68930a0b19f48c6d0f5563bb066e2df",
-      "crc32": "b8cc5dac",
-      "sha1": "39778319f71deab71ba8369789cd4df944ee11c9",
+      "btih": "49f3ab1e1abbc78da2a2ae30d62e48d20d4e5692",
+      "mtime": "1662345039",
+      "size": "36288",
+      "md5": "9eb4b78453d0cb6fc055f3c5b82e828c",
+      "crc32": "b713a326",
+      "sha1": "d4161faafec2549e8ce9f9ac7f6c84cb172009d7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "crikey_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4acd6c263295403f96546e0cd7280dcf",
+      "md5": "97c577a45ebc9dfcc0b2389b5c5f4e99",
       "summation": "md5"
     },
     {
       "name": "crikey_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662130845",
-      "size": "192512",
-      "md5": "903866c16d189477a21cc58af57eb109",
-      "crc32": "3fcbba2e",
-      "sha1": "f2cb6e2e3f4b96be6e5ca5fc3acf5fb64f27b55d",
+      "mtime": "1662344993",
+      "size": "229376",
+      "md5": "fcba8f879b56de5db814283962cf360a",
+      "crc32": "647e13ea",
+      "sha1": "abd5bd6601b01958ad351649b13db0982c300b07",
       "format": "Metadata"
     },
     {
@@ -1433,9 +1728,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 137,
-  "item_last_updated": 1662130905,
-  "item_size": 10557461,
+  "files_count": 167,
+  "item_last_updated": 1662345039,
+  "item_size": 13072609,
   "metadata": {
     "identifier": "crikey_news-2022",
     "collection": [
@@ -1453,7 +1748,7 @@
     "addeddate": "2022-08-22 21:50:34"
   },
   "server": "ia601506.us.archive.org",
-  "uniq": 986113192,
+  "uniq": 1573434275,
   "workable_servers": [
     "ia601506.us.archive.org",
     "ia801506.us.archive.org"

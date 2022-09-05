@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 90 screenshots with the Internet Archive.
+The archiving routine has saved 94 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-04T19:52:21.442318-04:00.jpg">
+  <img src="https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-04T19:52:21.442318-04:00.jpg"
+     alt="Fox 5 Atlanta at 2022-09-04 19:52:25-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-04T19:52:21.442318-04:00.jpg">September 4 at 7:52 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-04T07:54:10.397177-04:00.jpg">
+  <img src="https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-04T07:54:10.397177-04:00.jpg"
+     alt="Fox 5 Atlanta at 2022-09-04 07:54:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-04T07:54:10.397177-04:00.jpg">September 4 at 7:54 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-03T19:46:28.002947-04:00.jpg">
+  <img src="https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-03T19:46:28.002947-04:00.jpg"
+     alt="Fox 5 Atlanta at 2022-09-03 19:46:31-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-03T19:46:28.002947-04:00.jpg">September 3 at 7:46 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-03T08:00:12.436585-04:00.jpg">
+  <img src="https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-03T08:00:12.436585-04:00.jpg"
+     alt="Fox 5 Atlanta at 2022-09-03 08:00:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-03T08:00:12.436585-04:00.jpg">September 3 at 8:00 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-02T19:57:15.060235-04:00.jpg">
   <img src="https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-02T19:57:15.060235-04:00.jpg"
      alt="Fox 5 Atlanta at 2022-09-02 19:57:19-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-30T08:06:58.871290-04:00.jpg">August 30 at 8:07 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-29T19:50:11.259897-04:00.jpg">
-  <img src="https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-29T19:50:11.259897-04:00.jpg"
-     alt="Fox 5 Atlanta at 2022-08-29 19:50:16-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-29T19:50:11.259897-04:00.jpg">August 29 at 7:50 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-29T08:14:22.773290-04:00.jpg">
-  <img src="https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-29T08:14:22.773290-04:00.jpg"
-     alt="Fox 5 Atlanta at 2022-08-29 08:14:29-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-29T08:14:22.773290-04:00.jpg">August 29 at 8:14 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-28T19:46:55.119613-04:00.jpg">
-  <img src="https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-28T19:46:55.119613-04:00.jpg"
-     alt="Fox 5 Atlanta at 2022-08-28 19:46:56-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-28T19:46:55.119613-04:00.jpg">August 28 at 7:46 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-28T07:57:05.982768-04:00.jpg">
-  <img src="https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-28T07:57:05.982768-04:00.jpg"
-     alt="Fox 5 Atlanta at 2022-08-28 07:57:09-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-28T07:57:05.982768-04:00.jpg">August 28 at 7:57 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 90 hyperlink lists with the Internet Archive.
+The archiving routine has saved 94 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 4 at 7:52 PM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-04T19:52:21.442318-04:00.hyperlinks.json) |
+| [September 4 at 7:54 AM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-04T07:54:10.397177-04:00.hyperlinks.json) |
+| [September 3 at 7:46 PM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-03T19:46:28.002947-04:00.hyperlinks.json) |
+| [September 3 at 8:00 AM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-03T08:00:12.436585-04:00.hyperlinks.json) |
 | [September 2 at 7:57 PM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-02T19:57:15.060235-04:00.hyperlinks.json) |
 | [September 2 at 7:59 AM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-02T07:59:27.162267-04:00.hyperlinks.json) |
 | [September 1 at 7:57 PM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-01T19:57:46.519124-04:00.hyperlinks.json) |
 | [September 1 at 8:08 AM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-01T08:08:50.617872-04:00.hyperlinks.json) |
 | [August 31 at 7:49 PM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-31T19:49:38.960981-04:00.hyperlinks.json) |
 | [August 31 at 9:00 AM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-31T09:00:21.675124-04:00.hyperlinks.json) |
-| [August 30 at 7:58 PM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-30T19:58:48.836289-04:00.hyperlinks.json) |
-| [August 30 at 8:07 AM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-30T08:06:58.871290-04:00.hyperlinks.json) |
-| [August 29 at 7:50 PM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-29T19:50:11.259897-04:00.hyperlinks.json) |
-| [August 29 at 8:14 AM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-29T08:14:22.773290-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 90 accessibility trees with the Internet Archive.
+The archiving routine has saved 94 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 4 at 7:52 PM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-04T19:52:21.442318-04:00.accessibility.json) |
+| [September 4 at 7:54 AM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-04T07:54:10.397177-04:00.accessibility.json) |
+| [September 3 at 7:46 PM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-03T19:46:28.002947-04:00.accessibility.json) |
+| [September 3 at 8:00 AM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-03T08:00:12.436585-04:00.accessibility.json) |
 | [September 2 at 7:57 PM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-02T19:57:15.060235-04:00.accessibility.json) |
 | [September 2 at 7:59 AM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-02T07:59:27.162267-04:00.accessibility.json) |
 | [September 1 at 7:57 PM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-01T19:57:46.519124-04:00.accessibility.json) |
 | [September 1 at 8:08 AM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-01T08:08:50.617872-04:00.accessibility.json) |
 | [August 31 at 7:49 PM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-31T19:49:38.960981-04:00.accessibility.json) |
 | [August 31 at 9:00 AM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-31T09:00:21.675124-04:00.accessibility.json) |
-| [August 30 at 7:58 PM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-30T19:58:48.836289-04:00.accessibility.json) |
-| [August 30 at 8:07 AM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-30T08:06:58.871290-04:00.accessibility.json) |
-| [August 29 at 7:50 PM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-29T19:50:11.259897-04:00.accessibility.json) |
-| [August 29 at 8:14 AM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-29T08:14:22.773290-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 83 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 87 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 4 at 7:52 PM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-04T19:52:21.442318-04:00.lighthouse.json) |
+| [September 4 at 7:54 AM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-04T07:54:10.397177-04:00.lighthouse.json) |
+| [September 3 at 7:46 PM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-03T19:46:28.002947-04:00.lighthouse.json) |
+| [September 3 at 8:00 AM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-03T08:00:12.436585-04:00.lighthouse.json) |
 | [September 2 at 7:57 PM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-02T19:57:15.060235-04:00.lighthouse.json) |
 | [September 2 at 7:59 AM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-02T07:59:27.162267-04:00.lighthouse.json) |
 | [September 1 at 7:57 PM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-01T19:57:46.519124-04:00.lighthouse.json) |
 | [September 1 at 8:08 AM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-09-01T08:08:50.617872-04:00.lighthouse.json) |
 | [August 31 at 7:49 PM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-31T19:49:38.960981-04:00.lighthouse.json) |
 | [August 31 at 9:00 AM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-31T09:00:21.675124-04:00.lighthouse.json) |
-| [August 30 at 7:58 PM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-30T19:58:48.836289-04:00.lighthouse.json) |
-| [August 30 at 8:07 AM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-30T08:06:58.871290-04:00.lighthouse.json) |
-| [August 29 at 7:50 PM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-29T19:50:11.259897-04:00.lighthouse.json) |
-| [August 29 at 8:14 AM](https://archive.org/download/fox5atlanta-2022/fox5atlanta-2022-08-29T08:14:22.773290-04:00.lighthouse.json) |
 
 
 

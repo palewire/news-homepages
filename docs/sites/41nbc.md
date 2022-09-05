@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 94 screenshots with the Internet Archive.
+The archiving routine has saved 96 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/41nbc-2022/41nbc-2022-09-05T06:58:16.336417-04:00.jpg">
+  <img src="https://archive.org/download/41nbc-2022/41nbc-2022-09-05T06:58:16.336417-04:00.jpg"
+     alt="41NBC / WMGT at 2022-09-05 06:58:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-09-05T06:58:16.336417-04:00.jpg">September 5 at 6:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/41nbc-2022/41nbc-2022-09-04T18:53:23.917191-04:00.jpg">
+  <img src="https://archive.org/download/41nbc-2022/41nbc-2022-09-04T18:53:23.917191-04:00.jpg"
+     alt="41NBC / WMGT at 2022-09-04 18:53:25-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-09-04T18:53:23.917191-04:00.jpg">September 4 at 6:53 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/41nbc-2022/41nbc-2022-09-04T06:50:09.079492-04:00.jpg">
   <img src="https://archive.org/download/41nbc-2022/41nbc-2022-09-04T06:50:09.079492-04:00.jpg"
      alt="41NBC / WMGT at 2022-09-04 06:50:15-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-31T06:55:03.414876-04:00.jpg">August 31 at 6:55 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-30T18:58:42.282661-04:00.jpg">
-  <img src="https://archive.org/download/41nbc-2022/41nbc-2022-08-30T18:58:42.282661-04:00.jpg"
-     alt="41NBC / WMGT at 2022-08-30 18:58:46-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-30T18:58:42.282661-04:00.jpg">August 30 at 6:58 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-30T06:59:25.461573-04:00.jpg">
-  <img src="https://archive.org/download/41nbc-2022/41nbc-2022-08-30T06:59:25.461573-04:00.jpg"
-     alt="41NBC / WMGT at 2022-08-30 06:59:29-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-30T06:59:25.461573-04:00.jpg">August 30 at 6:59 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 81 hyperlink lists with the Internet Archive.
+The archiving routine has saved 83 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 5 at 6:58 AM](https://archive.org/download/41nbc-2022/41nbc-2022-09-05T06:58:16.336417-04:00.hyperlinks.json) |
+| [September 4 at 6:53 PM](https://archive.org/download/41nbc-2022/41nbc-2022-09-04T18:53:23.917191-04:00.hyperlinks.json) |
 | [September 4 at 6:50 AM](https://archive.org/download/41nbc-2022/41nbc-2022-09-04T06:50:09.079492-04:00.hyperlinks.json) |
 | [September 3 at 6:53 PM](https://archive.org/download/41nbc-2022/41nbc-2022-09-03T18:52:56.950028-04:00.hyperlinks.json) |
 | [September 3 at 8:07 AM](https://archive.org/download/41nbc-2022/41nbc-2022-09-03T08:07:36.890633-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 2 at 6:56 AM](https://archive.org/download/41nbc-2022/41nbc-2022-09-02T06:56:03.054246-04:00.hyperlinks.json) |
 | [September 1 at 6:57 PM](https://archive.org/download/41nbc-2022/41nbc-2022-09-01T18:56:37.858353-04:00.hyperlinks.json) |
 | [September 1 at 6:59 AM](https://archive.org/download/41nbc-2022/41nbc-2022-09-01T06:59:30.631298-04:00.hyperlinks.json) |
-| [August 31 at 6:53 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-31T18:53:00.473609-04:00.hyperlinks.json) |
-| [August 31 at 6:55 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-31T06:55:03.414876-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 75 accessibility trees with the Internet Archive.
+The archiving routine has saved 77 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 5 at 6:58 AM](https://archive.org/download/41nbc-2022/41nbc-2022-09-05T06:58:16.336417-04:00.accessibility.json) |
+| [September 4 at 6:53 PM](https://archive.org/download/41nbc-2022/41nbc-2022-09-04T18:53:23.917191-04:00.accessibility.json) |
 | [September 4 at 6:50 AM](https://archive.org/download/41nbc-2022/41nbc-2022-09-04T06:50:09.079492-04:00.accessibility.json) |
 | [September 3 at 6:53 PM](https://archive.org/download/41nbc-2022/41nbc-2022-09-03T18:52:56.950028-04:00.accessibility.json) |
 | [September 3 at 8:07 AM](https://archive.org/download/41nbc-2022/41nbc-2022-09-03T08:07:36.890633-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 2 at 6:56 AM](https://archive.org/download/41nbc-2022/41nbc-2022-09-02T06:56:03.054246-04:00.accessibility.json) |
 | [September 1 at 6:56 PM](https://archive.org/download/41nbc-2022/41nbc-2022-09-01T18:56:37.858353-04:00.accessibility.json) |
 | [September 1 at 6:59 AM](https://archive.org/download/41nbc-2022/41nbc-2022-09-01T06:59:30.631298-04:00.accessibility.json) |
-| [August 31 at 6:53 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-31T18:53:00.473609-04:00.accessibility.json) |
-| [August 31 at 6:55 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-31T06:55:03.414876-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 87 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 89 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 6:58 AM](https://archive.org/download/41nbc-2022/41nbc-2022-09-05T06:58:16.336417-04:00.lighthouse.json) |
+| [September 4 at 6:53 PM](https://archive.org/download/41nbc-2022/41nbc-2022-09-04T18:53:23.917191-04:00.lighthouse.json) |
 | [September 4 at 6:50 AM](https://archive.org/download/41nbc-2022/41nbc-2022-09-04T06:50:09.079492-04:00.lighthouse.json) |
 | [September 3 at 6:53 PM](https://archive.org/download/41nbc-2022/41nbc-2022-09-03T18:52:56.950028-04:00.lighthouse.json) |
 | [September 3 at 8:07 AM](https://archive.org/download/41nbc-2022/41nbc-2022-09-03T08:07:36.890633-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 2 at 6:56 AM](https://archive.org/download/41nbc-2022/41nbc-2022-09-02T06:56:03.054246-04:00.lighthouse.json) |
 | [September 1 at 6:57 PM](https://archive.org/download/41nbc-2022/41nbc-2022-09-01T18:56:37.858353-04:00.lighthouse.json) |
 | [September 1 at 6:59 AM](https://archive.org/download/41nbc-2022/41nbc-2022-09-01T06:59:30.631298-04:00.lighthouse.json) |
-| [August 31 at 6:53 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-31T18:53:00.473609-04:00.lighthouse.json) |
-| [August 31 at 6:55 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-31T06:55:03.414876-04:00.lighthouse.json) |
 
 
 

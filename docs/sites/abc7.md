@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 407 screenshots with the Internet Archive.
+The archiving routine has saved 409 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/abc7-2022/abc7-2022-09-05T03:57:49.468883-07:00.jpg">
+  <img src="https://archive.org/download/abc7-2022/abc7-2022-09-05T03:57:49.468883-07:00.jpg"
+     alt="ABC7 at 2022-09-05 03:57:51-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abc7-2022/abc7-2022-09-05T03:57:49.468883-07:00.jpg">September 5 at 3:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/abc7-2022/abc7-2022-09-04T15:53:34.761641-07:00.jpg">
+  <img src="https://archive.org/download/abc7-2022/abc7-2022-09-04T15:53:34.761641-07:00.jpg"
+     alt="ABC7 at 2022-09-04 15:53:36-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abc7-2022/abc7-2022-09-04T15:53:34.761641-07:00.jpg">September 4 at 3:53 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/abc7-2022/abc7-2022-09-04T03:49:34.934905-07:00.jpg">
   <img src="https://archive.org/download/abc7-2022/abc7-2022-09-04T03:49:34.934905-07:00.jpg"
      alt="ABC7 at 2022-09-04 03:49:36-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/abc7-2022/abc7-2022-09-01T11:33:09.143125-07:00.jpg">September 1 at 11:33 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/abc7-2022/abc7-2022-09-01T03:59:54.234157-07:00.jpg">
-  <img src="https://archive.org/download/abc7-2022/abc7-2022-09-01T03:59:54.234157-07:00.jpg"
-     alt="ABC7 at 2022-09-01 04:00:04-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abc7-2022/abc7-2022-09-01T03:59:54.234157-07:00.jpg">September 1 at 4:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/abc7-2022/abc7-2022-08-31T15:52:47.447237-07:00.jpg">
-  <img src="https://archive.org/download/abc7-2022/abc7-2022-08-31T15:52:47.447237-07:00.jpg"
-     alt="ABC7 at 2022-08-31 15:52:55-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abc7-2022/abc7-2022-08-31T15:52:47.447237-07:00.jpg">August 31 at 3:52 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 392 hyperlink lists with the Internet Archive.
+The archiving routine has saved 394 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 5 at 3:57 AM](https://archive.org/download/abc7-2022/abc7-2022-09-05T03:57:49.468883-07:00.hyperlinks.json) |
+| [September 4 at 3:53 PM](https://archive.org/download/abc7-2022/abc7-2022-09-04T15:53:34.761641-07:00.hyperlinks.json) |
 | [September 4 at 3:49 AM](https://archive.org/download/abc7-2022/abc7-2022-09-04T03:49:34.934905-07:00.hyperlinks.json) |
 | [September 3 at 3:53 PM](https://archive.org/download/abc7-2022/abc7-2022-09-03T15:53:08.779882-07:00.hyperlinks.json) |
 | [September 3 at 11:38 AM](https://archive.org/download/abc7-2022/abc7-2022-09-03T11:38:02.643696-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 2 at 4:49 PM](https://archive.org/download/abc7-2022/abc7-2022-09-02T16:49:25.601912-07:00.hyperlinks.json) |
 | [September 2 at 11:32 AM](https://archive.org/download/abc7-2022/abc7-2022-09-02T11:32:42.174796-07:00.hyperlinks.json) |
 | [September 2 at 3:55 AM](https://archive.org/download/abc7-2022/abc7-2022-09-02T03:55:17.097858-07:00.hyperlinks.json) |
-| [September 1 at 3:56 PM](https://archive.org/download/abc7-2022/abc7-2022-09-01T15:55:39.361284-07:00.hyperlinks.json) |
-| [September 1 at 11:33 AM](https://archive.org/download/abc7-2022/abc7-2022-09-01T11:33:09.143125-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 396 accessibility trees with the Internet Archive.
+The archiving routine has saved 398 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 5 at 3:57 AM](https://archive.org/download/abc7-2022/abc7-2022-09-05T03:57:49.468883-07:00.accessibility.json) |
+| [September 4 at 3:53 PM](https://archive.org/download/abc7-2022/abc7-2022-09-04T15:53:34.761641-07:00.accessibility.json) |
 | [September 4 at 3:49 AM](https://archive.org/download/abc7-2022/abc7-2022-09-04T03:49:34.934905-07:00.accessibility.json) |
 | [September 3 at 3:53 PM](https://archive.org/download/abc7-2022/abc7-2022-09-03T15:53:08.779882-07:00.accessibility.json) |
 | [September 3 at 11:38 AM](https://archive.org/download/abc7-2022/abc7-2022-09-03T11:38:02.643696-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 2 at 4:49 PM](https://archive.org/download/abc7-2022/abc7-2022-09-02T16:49:25.601912-07:00.accessibility.json) |
 | [September 2 at 11:32 AM](https://archive.org/download/abc7-2022/abc7-2022-09-02T11:32:42.174796-07:00.accessibility.json) |
 | [September 2 at 3:55 AM](https://archive.org/download/abc7-2022/abc7-2022-09-02T03:55:17.097858-07:00.accessibility.json) |
-| [September 1 at 3:55 PM](https://archive.org/download/abc7-2022/abc7-2022-09-01T15:55:39.361284-07:00.accessibility.json) |
-| [September 1 at 11:33 AM](https://archive.org/download/abc7-2022/abc7-2022-09-01T11:33:09.143125-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 126 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 128 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 3:57 AM](https://archive.org/download/abc7-2022/abc7-2022-09-05T03:57:49.468883-07:00.lighthouse.json) |
+| [September 4 at 3:53 PM](https://archive.org/download/abc7-2022/abc7-2022-09-04T15:53:34.761641-07:00.lighthouse.json) |
 | [September 4 at 3:49 AM](https://archive.org/download/abc7-2022/abc7-2022-09-04T03:49:34.934905-07:00.lighthouse.json) |
 | [September 3 at 3:53 PM](https://archive.org/download/abc7-2022/abc7-2022-09-03T15:53:08.779882-07:00.lighthouse.json) |
 | [September 3 at 11:38 AM](https://archive.org/download/abc7-2022/abc7-2022-09-03T11:38:02.643696-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 2 at 4:49 PM](https://archive.org/download/abc7-2022/abc7-2022-09-02T16:49:25.601912-07:00.lighthouse.json) |
 | [September 2 at 11:32 AM](https://archive.org/download/abc7-2022/abc7-2022-09-02T11:32:42.174796-07:00.lighthouse.json) |
 | [September 2 at 3:55 AM](https://archive.org/download/abc7-2022/abc7-2022-09-02T03:55:17.097858-07:00.lighthouse.json) |
-| [September 1 at 3:56 PM](https://archive.org/download/abc7-2022/abc7-2022-09-01T15:55:39.361284-07:00.lighthouse.json) |
-| [September 1 at 11:33 AM](https://archive.org/download/abc7-2022/abc7-2022-09-01T11:33:09.143125-07:00.lighthouse.json) |
 
 
 
