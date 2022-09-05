@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 45 screenshots with the Internet Archive.
+The archiving routine has saved 46 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 45 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/coloradosun-2022/coloradosun-2022-09-05T05:02:03.909947-06:00.jpg">
+  <img src="https://archive.org/download/coloradosun-2022/coloradosun-2022-09-05T05:02:03.909947-06:00.jpg"
+     alt="Colorado Sun at 2022-09-05 05:02:06-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/coloradosun-2022/coloradosun-2022-09-05T05:02:03.909947-06:00.jpg">September 5 at 5:02 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/coloradosun-2022/coloradosun-2022-09-04T16:57:18.190330-06:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/coloradosun-2022/coloradosun-2022-08-31T04:58:35.670648-06:00.jpg">August 31 at 4:58 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/coloradosun-2022/coloradosun-2022-08-30T17:03:03.503216-06:00.jpg">
-  <img src="https://archive.org/download/coloradosun-2022/coloradosun-2022-08-30T17:03:03.503216-06:00.jpg"
-     alt="Colorado Sun at 2022-08-30 17:03:06-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/coloradosun-2022/coloradosun-2022-08-30T17:03:03.503216-06:00.jpg">August 30 at 5:03 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 46 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 5 at 5:02 AM](https://archive.org/download/coloradosun-2022/coloradosun-2022-09-05T05:02:03.909947-06:00.hyperlinks.json) |
 | [September 4 at 4:57 PM](https://archive.org/download/coloradosun-2022/coloradosun-2022-09-04T16:57:18.190330-06:00.hyperlinks.json) |
 | [September 4 at 4:53 AM](https://archive.org/download/coloradosun-2022/coloradosun-2022-09-04T04:53:04.228048-06:00.hyperlinks.json) |
 | [September 3 at 4:57 PM](https://archive.org/download/coloradosun-2022/coloradosun-2022-09-03T16:57:21.174457-06:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 2 at 4:59 AM](https://archive.org/download/coloradosun-2022/coloradosun-2022-09-02T04:59:06.603614-06:00.hyperlinks.json) |
 | [September 1 at 5:01 PM](https://archive.org/download/coloradosun-2022/coloradosun-2022-09-01T17:00:42.495896-06:00.hyperlinks.json) |
 | [September 1 at 5:04 AM](https://archive.org/download/coloradosun-2022/coloradosun-2022-09-01T05:04:04.782213-06:00.hyperlinks.json) |
-| [August 31 at 4:56 PM](https://archive.org/download/coloradosun-2022/coloradosun-2022-08-31T16:56:25.092445-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 46 accessibility trees with the Internet Archive.
+The archiving routine has saved 47 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 5 at 5:02 AM](https://archive.org/download/coloradosun-2022/coloradosun-2022-09-05T05:02:03.909947-06:00.accessibility.json) |
 | [September 4 at 4:57 PM](https://archive.org/download/coloradosun-2022/coloradosun-2022-09-04T16:57:18.190330-06:00.accessibility.json) |
 | [September 4 at 4:53 AM](https://archive.org/download/coloradosun-2022/coloradosun-2022-09-04T04:53:04.228048-06:00.accessibility.json) |
 | [September 3 at 4:57 PM](https://archive.org/download/coloradosun-2022/coloradosun-2022-09-03T16:57:21.174457-06:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 2 at 4:59 AM](https://archive.org/download/coloradosun-2022/coloradosun-2022-09-02T04:59:06.603614-06:00.accessibility.json) |
 | [September 1 at 5:01 PM](https://archive.org/download/coloradosun-2022/coloradosun-2022-09-01T17:00:42.495896-06:00.accessibility.json) |
 | [September 1 at 5:04 AM](https://archive.org/download/coloradosun-2022/coloradosun-2022-09-01T05:04:04.782213-06:00.accessibility.json) |
-| [August 31 at 4:56 PM](https://archive.org/download/coloradosun-2022/coloradosun-2022-08-31T16:56:25.092445-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 5:02 AM](https://archive.org/download/coloradosun-2022/coloradosun-2022-09-05T05:02:03.909947-06:00.lighthouse.json) |
 | [September 4 at 4:57 PM](https://archive.org/download/coloradosun-2022/coloradosun-2022-09-04T16:57:18.190330-06:00.lighthouse.json) |
 | [September 4 at 4:53 AM](https://archive.org/download/coloradosun-2022/coloradosun-2022-09-04T04:53:04.228048-06:00.lighthouse.json) |
 | [September 3 at 4:57 PM](https://archive.org/download/coloradosun-2022/coloradosun-2022-09-03T16:57:21.174457-06:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 2 at 4:59 AM](https://archive.org/download/coloradosun-2022/coloradosun-2022-09-02T04:59:06.603614-06:00.lighthouse.json) |
 | [September 1 at 5:01 PM](https://archive.org/download/coloradosun-2022/coloradosun-2022-09-01T17:00:42.495896-06:00.lighthouse.json) |
 | [September 1 at 5:04 AM](https://archive.org/download/coloradosun-2022/coloradosun-2022-09-01T05:04:04.782213-06:00.lighthouse.json) |
-| [August 31 at 4:56 PM](https://archive.org/download/coloradosun-2022/coloradosun-2022-08-31T16:56:25.092445-06:00.lighthouse.json) |
 
 
 
