@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 135 screenshots with the Internet Archive.
+The archiving routine has saved 142 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,69 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/newscientist-2022/newscientist-2022-09-05T04:46:01.282906+01:00.jpg">
+  <img src="https://archive.org/download/newscientist-2022/newscientist-2022-09-05T04:46:01.282906+01:00.jpg"
+     alt="New Scientist at 2022-09-05 04:46:06+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-09-05T04:46:01.282906+01:00.jpg">September 5 at 4:46 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newscientist-2022/newscientist-2022-09-04T17:38:50.406114+01:00.jpg">
+  <img src="https://archive.org/download/newscientist-2022/newscientist-2022-09-04T17:38:50.406114+01:00.jpg"
+     alt="New Scientist at 2022-09-04 17:38:56+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-09-04T17:38:50.406114+01:00.jpg">September 4 at 5:38 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newscientist-2022/newscientist-2022-09-04T10:13:17.525550+01:00.jpg">
+  <img src="https://archive.org/download/newscientist-2022/newscientist-2022-09-04T10:13:17.525550+01:00.jpg"
+     alt="New Scientist at 2022-09-04 10:13:19+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-09-04T10:13:17.525550+01:00.jpg">September 4 at 10:13 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newscientist-2022/newscientist-2022-09-04T04:46:03.188515+01:00.jpg">
+  <img src="https://archive.org/download/newscientist-2022/newscientist-2022-09-04T04:46:03.188515+01:00.jpg"
+     alt="New Scientist at 2022-09-04 04:46:04+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-09-04T04:46:03.188515+01:00.jpg">September 4 at 4:46 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newscientist-2022/newscientist-2022-09-03T16:05:05.376963+01:00.jpg">
+  <img src="https://archive.org/download/newscientist-2022/newscientist-2022-09-03T16:05:05.376963+01:00.jpg"
+     alt="New Scientist at 2022-09-03 16:05:07+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-09-03T16:05:05.376963+01:00.jpg">September 3 at 4:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newscientist-2022/newscientist-2022-09-03T10:13:24.429125+01:00.jpg">
+  <img src="https://archive.org/download/newscientist-2022/newscientist-2022-09-03T10:13:24.429125+01:00.jpg"
+     alt="New Scientist at 2022-09-03 10:13:41+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-09-03T10:13:24.429125+01:00.jpg">September 3 at 10:13 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newscientist-2022/newscientist-2022-09-03T04:52:07.927908+01:00.jpg">
+  <img src="https://archive.org/download/newscientist-2022/newscientist-2022-09-03T04:52:07.927908+01:00.jpg"
+     alt="New Scientist at 2022-09-03 04:52:09+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-09-03T04:52:07.927908+01:00.jpg">September 3 at 4:52 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/newscientist-2022/newscientist-2022-09-02T16:11:35.583703+01:00.jpg">
   <img src="https://archive.org/download/newscientist-2022/newscientist-2022-09-02T16:11:35.583703+01:00.jpg"
      alt="New Scientist at 2022-09-02 16:11:37+01:00 local time"
@@ -370,74 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-09-01T10:19:26.020229+01:00.jpg">September 1 at 10:19 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/newscientist-2022/newscientist-2022-09-01T04:48:50.932725+01:00.jpg">
-  <img src="https://archive.org/download/newscientist-2022/newscientist-2022-09-01T04:48:50.932725+01:00.jpg"
-     alt="New Scientist at 2022-09-01 04:48:53+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-09-01T04:48:50.932725+01:00.jpg">September 1 at 4:48 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newscientist-2022/newscientist-2022-08-31T16:11:22.467367+01:00.jpg">
-  <img src="https://archive.org/download/newscientist-2022/newscientist-2022-08-31T16:11:22.467367+01:00.jpg"
-     alt="New Scientist at 2022-08-31 16:11:24+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-08-31T16:11:22.467367+01:00.jpg">August 31 at 4:11 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newscientist-2022/newscientist-2022-08-31T10:19:22.396716+01:00.jpg">
-  <img src="https://archive.org/download/newscientist-2022/newscientist-2022-08-31T10:19:22.396716+01:00.jpg"
-     alt="New Scientist at 2022-08-31 10:19:27+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-08-31T10:19:22.396716+01:00.jpg">August 31 at 10:19 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newscientist-2022/newscientist-2022-08-31T04:52:01.240292+01:00.jpg">
-  <img src="https://archive.org/download/newscientist-2022/newscientist-2022-08-31T04:52:01.240292+01:00.jpg"
-     alt="New Scientist at 2022-08-31 04:52:02+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-08-31T04:52:01.240292+01:00.jpg">August 31 at 4:52 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newscientist-2022/newscientist-2022-08-30T16:37:23.226093+01:00.jpg">
-  <img src="https://archive.org/download/newscientist-2022/newscientist-2022-08-30T16:37:23.226093+01:00.jpg"
-     alt="New Scientist at 2022-08-30 16:37:28+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-08-30T16:37:23.226093+01:00.jpg">August 30 at 4:37 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newscientist-2022/newscientist-2022-08-30T10:18:29.202990+01:00.jpg">
-  <img src="https://archive.org/download/newscientist-2022/newscientist-2022-08-30T10:18:29.202990+01:00.jpg"
-     alt="New Scientist at 2022-08-30 10:18:31+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-08-30T10:18:29.202990+01:00.jpg">August 30 at 10:18 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newscientist-2022/newscientist-2022-08-30T04:58:01.871828+01:00.jpg">
-  <img src="https://archive.org/download/newscientist-2022/newscientist-2022-08-30T04:58:01.871828+01:00.jpg"
-     alt="New Scientist at 2022-08-30 04:58:07+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newscientist-2022/newscientist-2022-08-30T04:58:01.871828+01:00.jpg">August 30 at 4:58 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 134 hyperlink lists with the Internet Archive.
+The archiving routine has saved 141 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 5 at 4:46 AM](https://archive.org/download/newscientist-2022/newscientist-2022-09-05T04:46:01.282906+01:00.hyperlinks.json) |
+| [September 4 at 5:39 PM](https://archive.org/download/newscientist-2022/newscientist-2022-09-04T17:38:50.406114+01:00.hyperlinks.json) |
+| [September 4 at 10:13 AM](https://archive.org/download/newscientist-2022/newscientist-2022-09-04T10:13:17.525550+01:00.hyperlinks.json) |
+| [September 4 at 4:46 AM](https://archive.org/download/newscientist-2022/newscientist-2022-09-04T04:46:03.188515+01:00.hyperlinks.json) |
+| [September 3 at 4:05 PM](https://archive.org/download/newscientist-2022/newscientist-2022-09-03T16:05:05.376963+01:00.hyperlinks.json) |
+| [September 3 at 10:13 AM](https://archive.org/download/newscientist-2022/newscientist-2022-09-03T10:13:24.429125+01:00.hyperlinks.json) |
+| [September 3 at 4:52 AM](https://archive.org/download/newscientist-2022/newscientist-2022-09-03T04:52:07.927908+01:00.hyperlinks.json) |
 | [September 2 at 4:11 PM](https://archive.org/download/newscientist-2022/newscientist-2022-09-02T16:11:35.583703+01:00.hyperlinks.json) |
 | [September 2 at 10:19 AM](https://archive.org/download/newscientist-2022/newscientist-2022-09-02T10:19:10.513483+01:00.hyperlinks.json) |
 | [September 2 at 4:51 AM](https://archive.org/download/newscientist-2022/newscientist-2022-09-02T04:50:54.132312+01:00.hyperlinks.json) |
-| [September 1 at 4:32 PM](https://archive.org/download/newscientist-2022/newscientist-2022-09-01T16:32:02.429774+01:00.hyperlinks.json) |
-| [September 1 at 10:19 AM](https://archive.org/download/newscientist-2022/newscientist-2022-09-01T10:19:26.020229+01:00.hyperlinks.json) |
-| [September 1 at 4:48 AM](https://archive.org/download/newscientist-2022/newscientist-2022-09-01T04:48:50.932725+01:00.hyperlinks.json) |
-| [August 31 at 4:11 PM](https://archive.org/download/newscientist-2022/newscientist-2022-08-31T16:11:22.467367+01:00.hyperlinks.json) |
-| [August 31 at 10:19 AM](https://archive.org/download/newscientist-2022/newscientist-2022-08-31T10:19:22.396716+01:00.hyperlinks.json) |
-| [August 31 at 4:52 AM](https://archive.org/download/newscientist-2022/newscientist-2022-08-31T04:52:01.240292+01:00.hyperlinks.json) |
-| [August 30 at 4:37 PM](https://archive.org/download/newscientist-2022/newscientist-2022-08-30T16:37:23.226093+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 135 accessibility trees with the Internet Archive.
+The archiving routine has saved 142 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 5 at 4:46 AM](https://archive.org/download/newscientist-2022/newscientist-2022-09-05T04:46:01.282906+01:00.accessibility.json) |
+| [September 4 at 5:38 PM](https://archive.org/download/newscientist-2022/newscientist-2022-09-04T17:38:50.406114+01:00.accessibility.json) |
+| [September 4 at 10:13 AM](https://archive.org/download/newscientist-2022/newscientist-2022-09-04T10:13:17.525550+01:00.accessibility.json) |
+| [September 4 at 4:46 AM](https://archive.org/download/newscientist-2022/newscientist-2022-09-04T04:46:03.188515+01:00.accessibility.json) |
+| [September 3 at 4:05 PM](https://archive.org/download/newscientist-2022/newscientist-2022-09-03T16:05:05.376963+01:00.accessibility.json) |
+| [September 3 at 10:13 AM](https://archive.org/download/newscientist-2022/newscientist-2022-09-03T10:13:24.429125+01:00.accessibility.json) |
+| [September 3 at 4:52 AM](https://archive.org/download/newscientist-2022/newscientist-2022-09-03T04:52:07.927908+01:00.accessibility.json) |
 | [September 2 at 4:11 PM](https://archive.org/download/newscientist-2022/newscientist-2022-09-02T16:11:35.583703+01:00.accessibility.json) |
 | [September 2 at 10:19 AM](https://archive.org/download/newscientist-2022/newscientist-2022-09-02T10:19:10.513483+01:00.accessibility.json) |
 | [September 2 at 4:51 AM](https://archive.org/download/newscientist-2022/newscientist-2022-09-02T04:50:54.132312+01:00.accessibility.json) |
-| [September 1 at 4:32 PM](https://archive.org/download/newscientist-2022/newscientist-2022-09-01T16:32:02.429774+01:00.accessibility.json) |
-| [September 1 at 10:19 AM](https://archive.org/download/newscientist-2022/newscientist-2022-09-01T10:19:26.020229+01:00.accessibility.json) |
-| [September 1 at 4:48 AM](https://archive.org/download/newscientist-2022/newscientist-2022-09-01T04:48:50.932725+01:00.accessibility.json) |
-| [August 31 at 4:11 PM](https://archive.org/download/newscientist-2022/newscientist-2022-08-31T16:11:22.467367+01:00.accessibility.json) |
-| [August 31 at 10:19 AM](https://archive.org/download/newscientist-2022/newscientist-2022-08-31T10:19:22.396716+01:00.accessibility.json) |
-| [August 31 at 4:52 AM](https://archive.org/download/newscientist-2022/newscientist-2022-08-31T04:52:01.240292+01:00.accessibility.json) |
-| [August 30 at 4:37 PM](https://archive.org/download/newscientist-2022/newscientist-2022-08-30T16:37:23.226093+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 96 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 103 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 4:46 AM](https://archive.org/download/newscientist-2022/newscientist-2022-09-05T04:46:01.282906+01:00.lighthouse.json) |
+| [September 4 at 5:39 PM](https://archive.org/download/newscientist-2022/newscientist-2022-09-04T17:38:50.406114+01:00.lighthouse.json) |
+| [September 4 at 10:13 AM](https://archive.org/download/newscientist-2022/newscientist-2022-09-04T10:13:17.525550+01:00.lighthouse.json) |
+| [September 4 at 4:46 AM](https://archive.org/download/newscientist-2022/newscientist-2022-09-04T04:46:03.188515+01:00.lighthouse.json) |
+| [September 3 at 4:05 PM](https://archive.org/download/newscientist-2022/newscientist-2022-09-03T16:05:05.376963+01:00.lighthouse.json) |
+| [September 3 at 10:13 AM](https://archive.org/download/newscientist-2022/newscientist-2022-09-03T10:13:24.429125+01:00.lighthouse.json) |
+| [September 3 at 4:52 AM](https://archive.org/download/newscientist-2022/newscientist-2022-09-03T04:52:07.927908+01:00.lighthouse.json) |
 | [September 2 at 4:11 PM](https://archive.org/download/newscientist-2022/newscientist-2022-09-02T16:11:35.583703+01:00.lighthouse.json) |
 | [September 2 at 10:19 AM](https://archive.org/download/newscientist-2022/newscientist-2022-09-02T10:19:10.513483+01:00.lighthouse.json) |
 | [September 2 at 4:51 AM](https://archive.org/download/newscientist-2022/newscientist-2022-09-02T04:50:54.132312+01:00.lighthouse.json) |
-| [September 1 at 4:32 PM](https://archive.org/download/newscientist-2022/newscientist-2022-09-01T16:32:02.429774+01:00.lighthouse.json) |
-| [September 1 at 10:19 AM](https://archive.org/download/newscientist-2022/newscientist-2022-09-01T10:19:26.020229+01:00.lighthouse.json) |
-| [September 1 at 4:48 AM](https://archive.org/download/newscientist-2022/newscientist-2022-09-01T04:48:50.932725+01:00.lighthouse.json) |
-| [August 31 at 4:11 PM](https://archive.org/download/newscientist-2022/newscientist-2022-08-31T16:11:22.467367+01:00.lighthouse.json) |
-| [August 31 at 10:19 AM](https://archive.org/download/newscientist-2022/newscientist-2022-08-31T10:19:22.396716+01:00.lighthouse.json) |
-| [August 31 at 4:52 AM](https://archive.org/download/newscientist-2022/newscientist-2022-08-31T04:52:01.240292+01:00.lighthouse.json) |
-| [August 30 at 4:37 PM](https://archive.org/download/newscientist-2022/newscientist-2022-08-30T16:37:23.226093+01:00.lighthouse.json) |
 
 
 

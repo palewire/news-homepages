@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 180 screenshots with the Internet Archive.
+The archiving routine has saved 185 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,51 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-04T23:45:01.282546-04:00.jpg">
+  <img src="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-04T23:45:01.282546-04:00.jpg"
+     alt="Mountain State Spotlight at 2022-09-04 23:45:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-04T23:45:01.282546-04:00.jpg">September 4 at 11:45 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-04T12:38:50.037997-04:00.jpg">
+  <img src="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-04T12:38:50.037997-04:00.jpg"
+     alt="Mountain State Spotlight at 2022-09-04 12:38:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-04T12:38:50.037997-04:00.jpg">September 4 at 12:38 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-03T23:45:13.477188-04:00.jpg">
+  <img src="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-03T23:45:13.477188-04:00.jpg"
+     alt="Mountain State Spotlight at 2022-09-03 23:45:20-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-03T23:45:13.477188-04:00.jpg">September 3 at 11:45 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-03T11:04:28.296726-04:00.jpg">
+  <img src="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-03T11:04:28.296726-04:00.jpg"
+     alt="Mountain State Spotlight at 2022-09-03 11:04:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-03T11:04:28.296726-04:00.jpg">September 3 at 11:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-02T23:51:30.724344-04:00.jpg">
+  <img src="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-02T23:51:30.724344-04:00.jpg"
+     alt="Mountain State Spotlight at 2022-09-02 23:51:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-02T23:51:30.724344-04:00.jpg">September 2 at 11:51 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-02T11:10:28.607328-04:00.jpg">
   <img src="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-02T11:10:28.607328-04:00.jpg"
      alt="Mountain State Spotlight at 2022-09-02 11:10:30-04:00 local time"
@@ -388,56 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-30T11:37:18.507558-04:00.jpg">August 30 at 11:37 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-29T23:56:01.559988-04:00.jpg">
-  <img src="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-29T23:56:01.559988-04:00.jpg"
-     alt="Mountain State Spotlight at 2022-08-29 23:56:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-29T23:56:01.559988-04:00.jpg">August 29 at 11:56 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-29T11:11:04.343227-04:00.jpg">
-  <img src="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-29T11:11:04.343227-04:00.jpg"
-     alt="Mountain State Spotlight at 2022-08-29 11:11:06-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-29T11:11:04.343227-04:00.jpg">August 29 at 11:11 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-28T23:46:26.766651-04:00.jpg">
-  <img src="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-28T23:46:26.766651-04:00.jpg"
-     alt="Mountain State Spotlight at 2022-08-28 23:46:28-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-28T23:46:26.766651-04:00.jpg">August 28 at 11:46 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-28T10:59:10.538332-04:00.jpg">
-  <img src="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-28T10:59:10.538332-04:00.jpg"
-     alt="Mountain State Spotlight at 2022-08-28 10:59:11-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-28T10:59:10.538332-04:00.jpg">August 28 at 10:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-27T23:43:12.866516-04:00.jpg">
-  <img src="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-27T23:43:12.866516-04:00.jpg"
-     alt="Mountain State Spotlight at 2022-08-27 23:43:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-27T23:43:12.866516-04:00.jpg">August 27 at 11:43 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 182 hyperlink lists with the Internet Archive.
+The archiving routine has saved 187 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 4 at 11:45 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-04T23:45:01.282546-04:00.hyperlinks.json) |
+| [September 4 at 12:38 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-04T12:38:50.037997-04:00.hyperlinks.json) |
+| [September 3 at 11:45 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-03T23:45:13.477188-04:00.hyperlinks.json) |
+| [September 3 at 11:04 AM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-03T11:04:28.296726-04:00.hyperlinks.json) |
+| [September 2 at 11:51 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-02T23:51:30.724344-04:00.hyperlinks.json) |
 | [September 2 at 11:10 AM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-02T11:10:28.607328-04:00.hyperlinks.json) |
 | [September 1 at 11:51 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-01T23:51:06.717839-04:00.hyperlinks.json) |
 | [September 1 at 11:30 AM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-01T11:30:08.120442-04:00.hyperlinks.json) |
 | [August 31 at 11:48 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-31T23:48:04.389317-04:00.hyperlinks.json) |
 | [August 31 at 11:11 AM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-31T11:11:01.237084-04:00.hyperlinks.json) |
-| [August 30 at 11:50 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-30T23:50:35.999961-04:00.hyperlinks.json) |
-| [August 30 at 11:37 AM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-30T11:37:18.507558-04:00.hyperlinks.json) |
-| [August 29 at 11:56 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-29T23:56:01.559988-04:00.hyperlinks.json) |
-| [August 29 at 11:11 AM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-29T11:11:04.343227-04:00.hyperlinks.json) |
-| [August 28 at 11:46 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-28T23:46:26.766651-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 182 accessibility trees with the Internet Archive.
+The archiving routine has saved 187 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 4 at 11:45 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-04T23:45:01.282546-04:00.accessibility.json) |
+| [September 4 at 12:38 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-04T12:38:50.037997-04:00.accessibility.json) |
+| [September 3 at 11:45 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-03T23:45:13.477188-04:00.accessibility.json) |
+| [September 3 at 11:04 AM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-03T11:04:28.296726-04:00.accessibility.json) |
+| [September 2 at 11:51 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-02T23:51:30.724344-04:00.accessibility.json) |
 | [September 2 at 11:10 AM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-02T11:10:28.607328-04:00.accessibility.json) |
 | [September 1 at 11:51 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-01T23:51:06.717839-04:00.accessibility.json) |
 | [September 1 at 11:30 AM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-01T11:30:08.120442-04:00.accessibility.json) |
 | [August 31 at 11:48 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-31T23:48:04.389317-04:00.accessibility.json) |
 | [August 31 at 11:11 AM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-31T11:11:01.237084-04:00.accessibility.json) |
-| [August 30 at 11:50 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-30T23:50:35.999961-04:00.accessibility.json) |
-| [August 30 at 11:37 AM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-30T11:37:18.507558-04:00.accessibility.json) |
-| [August 29 at 11:56 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-29T23:56:01.559988-04:00.accessibility.json) |
-| [August 29 at 11:11 AM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-29T11:11:04.343227-04:00.accessibility.json) |
-| [August 28 at 11:46 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-28T23:46:26.766651-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 81 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 86 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 4 at 11:45 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-04T23:45:01.282546-04:00.lighthouse.json) |
+| [September 4 at 12:38 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-04T12:38:50.037997-04:00.lighthouse.json) |
+| [September 3 at 11:45 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-03T23:45:13.477188-04:00.lighthouse.json) |
+| [September 3 at 11:04 AM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-03T11:04:28.296726-04:00.lighthouse.json) |
+| [September 2 at 11:51 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-02T23:51:30.724344-04:00.lighthouse.json) |
 | [September 2 at 11:10 AM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-02T11:10:28.607328-04:00.lighthouse.json) |
 | [September 1 at 11:51 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-01T23:51:06.717839-04:00.lighthouse.json) |
 | [September 1 at 11:30 AM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-09-01T11:30:08.120442-04:00.lighthouse.json) |
 | [August 31 at 11:48 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-31T23:48:04.389317-04:00.lighthouse.json) |
 | [August 31 at 11:11 AM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-31T11:11:01.237084-04:00.lighthouse.json) |
-| [August 30 at 11:50 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-30T23:50:35.999961-04:00.lighthouse.json) |
-| [August 30 at 11:37 AM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-30T11:37:18.507558-04:00.lighthouse.json) |
-| [August 29 at 11:56 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-29T23:56:01.559988-04:00.lighthouse.json) |
-| [August 29 at 11:11 AM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-29T11:11:04.343227-04:00.lighthouse.json) |
-| [August 28 at 11:46 PM](https://archive.org/download/mtnstspotlight-2022/mtnstspotlight-2022-08-28T23:46:26.766651-04:00.lighthouse.json) |
 
 
 

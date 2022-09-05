@@ -234,13 +234,58 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 22 screenshots with the Internet Archive.
+The archiving routine has saved 27 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-05T05:44:40.233211+02:00.jpg">
+  <img src="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-05T05:44:40.233211+02:00.jpg"
+     alt="Mail & Guardian at 2022-09-05 05:44:42+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-05T05:44:40.233211+02:00.jpg">September 5 at 5:44 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-04T18:38:18.618449+02:00.jpg">
+  <img src="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-04T18:38:18.618449+02:00.jpg"
+     alt="Mail & Guardian at 2022-09-04 18:38:21+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-04T18:38:18.618449+02:00.jpg">September 4 at 6:38 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-04T05:45:43.474249+02:00.jpg">
+  <img src="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-04T05:45:43.474249+02:00.jpg"
+     alt="Mail & Guardian at 2022-09-04 05:45:44+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-04T05:45:43.474249+02:00.jpg">September 4 at 5:45 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-03T17:04:05.649782+02:00.jpg">
+  <img src="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-03T17:04:05.649782+02:00.jpg"
+     alt="Mail & Guardian at 2022-09-03 17:04:08+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-03T17:04:05.649782+02:00.jpg">September 3 at 5:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-03T05:50:53.245887+02:00.jpg">
+  <img src="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-03T05:50:53.245887+02:00.jpg"
+     alt="Mail & Guardian at 2022-09-03 05:50:54+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-03T05:50:53.245887+02:00.jpg">September 3 at 5:50 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-02T17:10:31.306808+02:00.jpg">
@@ -305,56 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-30T17:36:04.717682+02:00.jpg">August 30 at 5:36 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-30T05:55:55.562901+02:00.jpg">
-  <img src="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-30T05:55:55.562901+02:00.jpg"
-     alt="Mail & Guardian at 2022-08-30 05:55:56+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-30T05:55:55.562901+02:00.jpg">August 30 at 5:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-29T17:13:24.355231+02:00.jpg">
-  <img src="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-29T17:13:24.355231+02:00.jpg"
-     alt="Mail & Guardian at 2022-08-29 17:13:27+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-29T17:13:24.355231+02:00.jpg">August 29 at 5:13 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-29T05:45:41.250012+02:00.jpg">
-  <img src="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-29T05:45:41.250012+02:00.jpg"
-     alt="Mail & Guardian at 2022-08-29 05:45:42+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-29T05:45:41.250012+02:00.jpg">August 29 at 5:45 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-28T16:58:32.103795+02:00.jpg">
-  <img src="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-28T16:58:32.103795+02:00.jpg"
-     alt="Mail & Guardian at 2022-08-28 16:58:34+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-28T16:58:32.103795+02:00.jpg">August 28 at 4:58 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-28T05:43:27.808829+02:00.jpg">
-  <img src="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-28T05:43:27.808829+02:00.jpg"
-     alt="Mail & Guardian at 2022-08-28 05:43:29+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-28T05:43:27.808829+02:00.jpg">August 28 at 5:43 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 22 hyperlink lists with the Internet Archive.
+The archiving routine has saved 27 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,21 +362,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 5 at 5:44 AM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-05T05:44:40.233211+02:00.hyperlinks.json) |
+| [September 4 at 6:38 PM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-04T18:38:18.618449+02:00.hyperlinks.json) |
+| [September 4 at 5:45 AM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-04T05:45:43.474249+02:00.hyperlinks.json) |
+| [September 3 at 5:04 PM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-03T17:04:05.649782+02:00.hyperlinks.json) |
+| [September 3 at 5:50 AM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-03T05:50:53.245887+02:00.hyperlinks.json) |
 | [September 2 at 5:10 PM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-02T17:10:31.306808+02:00.hyperlinks.json) |
 | [September 2 at 5:50 AM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-02T05:50:53.411104+02:00.hyperlinks.json) |
 | [September 1 at 5:31 PM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-01T17:31:00.672191+02:00.hyperlinks.json) |
 | [September 1 at 5:47 AM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-01T05:47:40.652086+02:00.hyperlinks.json) |
 | [August 31 at 5:09 PM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-31T17:09:02.881105+02:00.hyperlinks.json) |
-| [August 31 at 5:49 AM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-31T05:49:45.213998+02:00.hyperlinks.json) |
-| [August 30 at 5:36 PM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-30T17:36:04.717682+02:00.hyperlinks.json) |
-| [August 30 at 5:55 AM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-30T05:55:55.562901+02:00.hyperlinks.json) |
-| [August 29 at 5:13 PM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-29T17:13:24.355231+02:00.hyperlinks.json) |
-| [August 29 at 5:45 AM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-29T05:45:41.250012+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 22 accessibility trees with the Internet Archive.
+The archiving routine has saved 27 accessibility trees with the Internet Archive.
 
 
 
@@ -384,22 +384,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 5 at 5:44 AM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-05T05:44:40.233211+02:00.accessibility.json) |
+| [September 4 at 6:38 PM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-04T18:38:18.618449+02:00.accessibility.json) |
+| [September 4 at 5:45 AM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-04T05:45:43.474249+02:00.accessibility.json) |
+| [September 3 at 5:04 PM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-03T17:04:05.649782+02:00.accessibility.json) |
+| [September 3 at 5:50 AM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-03T05:50:53.245887+02:00.accessibility.json) |
 | [September 2 at 5:10 PM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-02T17:10:31.306808+02:00.accessibility.json) |
 | [September 2 at 5:50 AM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-02T05:50:53.411104+02:00.accessibility.json) |
 | [September 1 at 5:31 PM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-01T17:31:00.672191+02:00.accessibility.json) |
 | [September 1 at 5:47 AM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-01T05:47:40.652086+02:00.accessibility.json) |
 | [August 31 at 5:09 PM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-31T17:09:02.881105+02:00.accessibility.json) |
-| [August 31 at 5:49 AM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-31T05:49:45.213998+02:00.accessibility.json) |
-| [August 30 at 5:36 PM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-30T17:36:04.717682+02:00.accessibility.json) |
-| [August 30 at 5:55 AM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-30T05:55:55.562901+02:00.accessibility.json) |
-| [August 29 at 5:13 PM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-29T17:13:24.355231+02:00.accessibility.json) |
-| [August 29 at 5:45 AM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-29T05:45:41.250012+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,16 +407,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 5:44 AM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-05T05:44:40.233211+02:00.lighthouse.json) |
+| [September 4 at 6:38 PM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-04T18:38:18.618449+02:00.lighthouse.json) |
+| [September 4 at 5:45 AM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-04T05:45:43.474249+02:00.lighthouse.json) |
+| [September 3 at 5:04 PM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-03T17:04:05.649782+02:00.lighthouse.json) |
+| [September 3 at 5:50 AM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-03T05:50:53.245887+02:00.lighthouse.json) |
 | [September 2 at 5:10 PM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-02T17:10:31.306808+02:00.lighthouse.json) |
 | [September 2 at 5:51 AM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-02T05:50:53.411104+02:00.lighthouse.json) |
 | [September 1 at 5:31 PM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-01T17:31:00.672191+02:00.lighthouse.json) |
 | [September 1 at 5:47 AM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-09-01T05:47:40.652086+02:00.lighthouse.json) |
 | [August 31 at 5:09 PM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-31T17:09:02.881105+02:00.lighthouse.json) |
-| [August 31 at 5:49 AM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-31T05:49:45.213998+02:00.lighthouse.json) |
-| [August 30 at 5:36 PM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-30T17:36:04.717682+02:00.lighthouse.json) |
-| [August 30 at 5:56 AM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-30T05:55:55.562901+02:00.lighthouse.json) |
-| [August 29 at 5:13 PM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-29T17:13:24.355231+02:00.lighthouse.json) |
-| [August 29 at 5:45 AM](https://archive.org/download/mailandguardian-2022/mailandguardian-2022-08-29T05:45:41.250012+02:00.lighthouse.json) |
 
 
 

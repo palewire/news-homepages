@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 394 screenshots with the Internet Archive.
+The archiving routine has saved 400 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,60 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kpbs-2022/kpbs-2022-09-04T20:42:56.578300-07:00.jpg">
+  <img src="https://archive.org/download/kpbs-2022/kpbs-2022-09-04T20:42:56.578300-07:00.jpg"
+     alt="KPBS at 2022-09-04 20:43:05-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-09-04T20:42:56.578300-07:00.jpg">September 4 at 8:43 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpbs-2022/kpbs-2022-09-04T09:35:52.036995-07:00.jpg">
+  <img src="https://archive.org/download/kpbs-2022/kpbs-2022-09-04T09:35:52.036995-07:00.jpg"
+     alt="KPBS at 2022-09-04 09:35:54-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-09-04T09:35:52.036995-07:00.jpg">September 4 at 9:35 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpbs-2022/kpbs-2022-09-03T20:43:57.999736-07:00.jpg">
+  <img src="https://archive.org/download/kpbs-2022/kpbs-2022-09-03T20:43:57.999736-07:00.jpg"
+     alt="KPBS at 2022-09-03 20:43:59-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-09-03T20:43:57.999736-07:00.jpg">September 3 at 8:43 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpbs-2022/kpbs-2022-09-03T11:38:07.199753-07:00.jpg">
+  <img src="https://archive.org/download/kpbs-2022/kpbs-2022-09-03T11:38:07.199753-07:00.jpg"
+     alt="KPBS at 2022-09-03 11:38:09-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-09-03T11:38:07.199753-07:00.jpg">September 3 at 11:38 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpbs-2022/kpbs-2022-09-03T08:03:29.171772-07:00.jpg">
+  <img src="https://archive.org/download/kpbs-2022/kpbs-2022-09-03T08:03:29.171772-07:00.jpg"
+     alt="KPBS at 2022-09-03 08:03:37-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-09-03T08:03:29.171772-07:00.jpg">September 3 at 8:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpbs-2022/kpbs-2022-09-02T20:48:41.013218-07:00.jpg">
+  <img src="https://archive.org/download/kpbs-2022/kpbs-2022-09-02T20:48:41.013218-07:00.jpg"
+     alt="KPBS at 2022-09-02 20:48:48-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-09-02T20:48:41.013218-07:00.jpg">September 2 at 8:48 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kpbs-2022/kpbs-2022-09-02T11:32:54.618078-07:00.jpg">
   <img src="https://archive.org/download/kpbs-2022/kpbs-2022-09-02T11:32:54.618078-07:00.jpg"
      alt="KPBS at 2022-09-02 11:33:12-07:00 local time"
@@ -379,65 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-08-31T20:45:11.125912-07:00.jpg">August 31 at 8:45 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kpbs-2022/kpbs-2022-08-31T11:37:56.932291-07:00.jpg">
-  <img src="https://archive.org/download/kpbs-2022/kpbs-2022-08-31T11:37:56.932291-07:00.jpg"
-     alt="KPBS at 2022-08-31 11:38:05-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-08-31T11:37:56.932291-07:00.jpg">August 31 at 11:38 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kpbs-2022/kpbs-2022-08-31T08:07:24.039160-07:00.jpg">
-  <img src="https://archive.org/download/kpbs-2022/kpbs-2022-08-31T08:07:24.039160-07:00.jpg"
-     alt="KPBS at 2022-08-31 08:07:33-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-08-31T08:07:24.039160-07:00.jpg">August 31 at 8:07 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kpbs-2022/kpbs-2022-08-30T20:48:22.163905-07:00.jpg">
-  <img src="https://archive.org/download/kpbs-2022/kpbs-2022-08-30T20:48:22.163905-07:00.jpg"
-     alt="KPBS at 2022-08-30 20:48:24-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-08-30T20:48:22.163905-07:00.jpg">August 30 at 8:48 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kpbs-2022/kpbs-2022-08-30T11:36:02.989246-07:00.jpg">
-  <img src="https://archive.org/download/kpbs-2022/kpbs-2022-08-30T11:36:02.989246-07:00.jpg"
-     alt="KPBS at 2022-08-30 11:36:20-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-08-30T11:36:02.989246-07:00.jpg">August 30 at 11:36 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kpbs-2022/kpbs-2022-08-30T08:33:36.906262-07:00.jpg">
-  <img src="https://archive.org/download/kpbs-2022/kpbs-2022-08-30T08:33:36.906262-07:00.jpg"
-     alt="KPBS at 2022-08-30 08:33:58-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-08-30T08:33:36.906262-07:00.jpg">August 30 at 8:33 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kpbs-2022/kpbs-2022-08-29T20:53:46.419560-07:00.jpg">
-  <img src="https://archive.org/download/kpbs-2022/kpbs-2022-08-29T20:53:46.419560-07:00.jpg"
-     alt="KPBS at 2022-08-29 20:53:48-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-08-29T20:53:46.419560-07:00.jpg">August 29 at 8:53 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 383 hyperlink lists with the Internet Archive.
+The archiving routine has saved 389 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 4 at 8:43 PM](https://archive.org/download/kpbs-2022/kpbs-2022-09-04T20:42:56.578300-07:00.hyperlinks.json) |
+| [September 4 at 9:35 AM](https://archive.org/download/kpbs-2022/kpbs-2022-09-04T09:35:52.036995-07:00.hyperlinks.json) |
+| [September 3 at 8:44 PM](https://archive.org/download/kpbs-2022/kpbs-2022-09-03T20:43:57.999736-07:00.hyperlinks.json) |
+| [September 3 at 11:38 AM](https://archive.org/download/kpbs-2022/kpbs-2022-09-03T11:38:07.199753-07:00.hyperlinks.json) |
+| [September 3 at 8:03 AM](https://archive.org/download/kpbs-2022/kpbs-2022-09-03T08:03:29.171772-07:00.hyperlinks.json) |
+| [September 2 at 8:48 PM](https://archive.org/download/kpbs-2022/kpbs-2022-09-02T20:48:41.013218-07:00.hyperlinks.json) |
 | [September 2 at 11:33 AM](https://archive.org/download/kpbs-2022/kpbs-2022-09-02T11:32:54.618078-07:00.hyperlinks.json) |
 | [September 2 at 8:08 AM](https://archive.org/download/kpbs-2022/kpbs-2022-09-02T08:08:17.504720-07:00.hyperlinks.json) |
 | [September 1 at 8:49 PM](https://archive.org/download/kpbs-2022/kpbs-2022-09-01T20:49:13.589351-07:00.hyperlinks.json) |
 | [September 1 at 11:33 AM](https://archive.org/download/kpbs-2022/kpbs-2022-09-01T11:33:28.990935-07:00.hyperlinks.json) |
-| [September 1 at 8:29 AM](https://archive.org/download/kpbs-2022/kpbs-2022-09-01T08:29:16.306976-07:00.hyperlinks.json) |
-| [August 31 at 8:45 PM](https://archive.org/download/kpbs-2022/kpbs-2022-08-31T20:45:11.125912-07:00.hyperlinks.json) |
-| [August 31 at 11:38 AM](https://archive.org/download/kpbs-2022/kpbs-2022-08-31T11:37:56.932291-07:00.hyperlinks.json) |
-| [August 31 at 8:07 AM](https://archive.org/download/kpbs-2022/kpbs-2022-08-31T08:07:24.039160-07:00.hyperlinks.json) |
-| [August 30 at 8:48 PM](https://archive.org/download/kpbs-2022/kpbs-2022-08-30T20:48:22.163905-07:00.hyperlinks.json) |
-| [August 30 at 11:36 AM](https://archive.org/download/kpbs-2022/kpbs-2022-08-30T11:36:02.989246-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 384 accessibility trees with the Internet Archive.
+The archiving routine has saved 390 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 4 at 8:43 PM](https://archive.org/download/kpbs-2022/kpbs-2022-09-04T20:42:56.578300-07:00.accessibility.json) |
+| [September 4 at 9:35 AM](https://archive.org/download/kpbs-2022/kpbs-2022-09-04T09:35:52.036995-07:00.accessibility.json) |
+| [September 3 at 8:44 PM](https://archive.org/download/kpbs-2022/kpbs-2022-09-03T20:43:57.999736-07:00.accessibility.json) |
+| [September 3 at 11:38 AM](https://archive.org/download/kpbs-2022/kpbs-2022-09-03T11:38:07.199753-07:00.accessibility.json) |
+| [September 3 at 8:03 AM](https://archive.org/download/kpbs-2022/kpbs-2022-09-03T08:03:29.171772-07:00.accessibility.json) |
+| [September 2 at 8:48 PM](https://archive.org/download/kpbs-2022/kpbs-2022-09-02T20:48:41.013218-07:00.accessibility.json) |
 | [September 2 at 11:33 AM](https://archive.org/download/kpbs-2022/kpbs-2022-09-02T11:32:54.618078-07:00.accessibility.json) |
 | [September 2 at 8:08 AM](https://archive.org/download/kpbs-2022/kpbs-2022-09-02T08:08:17.504720-07:00.accessibility.json) |
 | [September 1 at 8:49 PM](https://archive.org/download/kpbs-2022/kpbs-2022-09-01T20:49:13.589351-07:00.accessibility.json) |
 | [September 1 at 11:33 AM](https://archive.org/download/kpbs-2022/kpbs-2022-09-01T11:33:28.990935-07:00.accessibility.json) |
-| [September 1 at 8:29 AM](https://archive.org/download/kpbs-2022/kpbs-2022-09-01T08:29:16.306976-07:00.accessibility.json) |
-| [August 31 at 8:45 PM](https://archive.org/download/kpbs-2022/kpbs-2022-08-31T20:45:11.125912-07:00.accessibility.json) |
-| [August 31 at 11:38 AM](https://archive.org/download/kpbs-2022/kpbs-2022-08-31T11:37:56.932291-07:00.accessibility.json) |
-| [August 31 at 8:07 AM](https://archive.org/download/kpbs-2022/kpbs-2022-08-31T08:07:24.039160-07:00.accessibility.json) |
-| [August 30 at 8:48 PM](https://archive.org/download/kpbs-2022/kpbs-2022-08-30T20:48:22.163905-07:00.accessibility.json) |
-| [August 30 at 11:36 AM](https://archive.org/download/kpbs-2022/kpbs-2022-08-30T11:36:02.989246-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 119 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 125 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 4 at 8:43 PM](https://archive.org/download/kpbs-2022/kpbs-2022-09-04T20:42:56.578300-07:00.lighthouse.json) |
+| [September 4 at 9:36 AM](https://archive.org/download/kpbs-2022/kpbs-2022-09-04T09:35:52.036995-07:00.lighthouse.json) |
+| [September 3 at 8:44 PM](https://archive.org/download/kpbs-2022/kpbs-2022-09-03T20:43:57.999736-07:00.lighthouse.json) |
+| [September 3 at 11:38 AM](https://archive.org/download/kpbs-2022/kpbs-2022-09-03T11:38:07.199753-07:00.lighthouse.json) |
+| [September 3 at 8:03 AM](https://archive.org/download/kpbs-2022/kpbs-2022-09-03T08:03:29.171772-07:00.lighthouse.json) |
+| [September 2 at 8:48 PM](https://archive.org/download/kpbs-2022/kpbs-2022-09-02T20:48:41.013218-07:00.lighthouse.json) |
 | [September 2 at 11:33 AM](https://archive.org/download/kpbs-2022/kpbs-2022-09-02T11:32:54.618078-07:00.lighthouse.json) |
 | [September 2 at 8:08 AM](https://archive.org/download/kpbs-2022/kpbs-2022-09-02T08:08:17.504720-07:00.lighthouse.json) |
 | [September 1 at 8:49 PM](https://archive.org/download/kpbs-2022/kpbs-2022-09-01T20:49:13.589351-07:00.lighthouse.json) |
 | [September 1 at 11:33 AM](https://archive.org/download/kpbs-2022/kpbs-2022-09-01T11:33:28.990935-07:00.lighthouse.json) |
-| [September 1 at 8:29 AM](https://archive.org/download/kpbs-2022/kpbs-2022-09-01T08:29:16.306976-07:00.lighthouse.json) |
-| [August 31 at 8:45 PM](https://archive.org/download/kpbs-2022/kpbs-2022-08-31T20:45:11.125912-07:00.lighthouse.json) |
-| [August 31 at 11:38 AM](https://archive.org/download/kpbs-2022/kpbs-2022-08-31T11:37:56.932291-07:00.lighthouse.json) |
-| [August 31 at 8:07 AM](https://archive.org/download/kpbs-2022/kpbs-2022-08-31T08:07:24.039160-07:00.lighthouse.json) |
-| [August 30 at 8:48 PM](https://archive.org/download/kpbs-2022/kpbs-2022-08-30T20:48:22.163905-07:00.lighthouse.json) |
-| [August 30 at 11:36 AM](https://archive.org/download/kpbs-2022/kpbs-2022-08-30T11:36:02.989246-07:00.lighthouse.json) |
 
 
 
