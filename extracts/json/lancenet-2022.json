@@ -1,5 +1,5 @@
 {
-  "created": 1662349541,
+  "created": 1662380750,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/33/items/lancenet-2022",
@@ -5422,31 +5422,83 @@
       "sha1": "1b6dffe6423ff0aa097dd712c93b674b0bb00451"
     },
     {
+      "name": "lancenet-2022-09-05T09:24:25.841981-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662380670",
+      "size": "10293",
+      "md5": "fce887b4236bf116bd82e0aecc643fd6",
+      "crc32": "b6fd88c5",
+      "sha1": "a9259e6d8ee901137ba916ef908c4966fa905bb7",
+      "format": "JSON"
+    },
+    {
+      "name": "lancenet-2022-09-05T09:24:25.841981-03:00.jpg",
+      "source": "original",
+      "mtime": "1662380667",
+      "size": "294070",
+      "md5": "f7bd649222cb44762f340ac1dc2935a4",
+      "crc32": "994c5a04",
+      "sha1": "e14b12fb9c857e9ceaea6bfe9ce23a0e3717b6f9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lancenet-2022-09-05T09:24:25.841981-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662380672",
+      "size": "1459",
+      "md5": "65bcb784f1899a6bd8d5e037eaaa9d2e",
+      "crc32": "32b1b765",
+      "sha1": "51c52eae408c513d0de0b0a4906553e65a8bf8fe",
+      "format": "JSON"
+    },
+    {
+      "name": "lancenet-2022-09-05T09:24:25.841981-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1662380675",
+      "size": "108129",
+      "md5": "4bda5d2333b0561271c5e4305428cda1",
+      "crc32": "6d36efb7",
+      "sha1": "b3eec1f9cd030bbe29d52785a7ef4d79aad31b61",
+      "format": "JSON"
+    },
+    {
+      "name": "lancenet-2022-09-05T09:24:25.841981-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lancenet-2022-09-05T09:24:25.841981-03:00.jpg",
+      "mtime": "1662380736",
+      "size": "10528",
+      "md5": "8221315fe7e165ccb1f410728dfc1bc8",
+      "crc32": "84359516",
+      "sha1": "02d995ce1ed3579d9732f1e99efd4341e1d9db65"
+    },
+    {
       "name": "lancenet-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d9d2e3d16e7e79d037c24ec7cd62f15aa3c5ad29",
-      "mtime": "1662349531",
-      "size": "111689",
-      "md5": "0a8c01303dfda5a4fcb989cb235d49e7",
-      "crc32": "93e6a139",
-      "sha1": "99cb582ec176be76a2c188382bed576801cade20",
+      "btih": "7b0077be5016f4c952a1302c75f33d8b659eb7fd",
+      "mtime": "1662380744",
+      "size": "112747",
+      "md5": "83a4d21c08787a9280a0292e9d33caf7",
+      "crc32": "d2b8cf1a",
+      "sha1": "b4350fa125f91d6889ac661e8f012a5794befa3b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lancenet-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e1c1307399f0136f83d9f12db238a66d",
+      "md5": "1d685c3a9499f1a586f08f128dacf799",
       "summation": "md5"
     },
     {
       "name": "lancenet-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662349464",
-      "size": "684032",
-      "md5": "d0fa30a6581d058e006257b05605920a",
-      "crc32": "ff615036",
-      "sha1": "b66eab0c39e90d5d7a6f244179431aac77bb9bb9",
+      "mtime": "1662380681",
+      "size": "692224",
+      "md5": "0a9e710080f0ef71718229737c1398ff",
+      "crc32": "677cc093",
+      "sha1": "1d81ecb7ebf87a74fdb3c164514ec03bcb0dabc1",
       "format": "Metadata"
     },
     {
@@ -5460,9 +5512,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 528,
-  "item_last_updated": 1662349531,
-  "item_size": 34824525,
+  "files_count": 533,
+  "item_last_updated": 1662380744,
+  "item_size": 35258254,
   "metadata": {
     "identifier": "lancenet-2022",
     "collection": [
@@ -5479,10 +5531,10 @@
     "publicdate": "2022-08-04 04:55:32",
     "addeddate": "2022-08-04 04:55:32"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 1625754448,
+  "server": "ia601505.us.archive.org",
+  "uniq": 1729120309,
   "workable_servers": [
-    "ia801505.us.archive.org",
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }
