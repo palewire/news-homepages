@@ -65,7 +65,7 @@ runs:
       run: |
         git add ./newshomepages/sources/latest/*.json
         git add ./extracts/csv/*.csv
-        git commit -m "Latest archive.org urls" --author="palewire <palewire@users.noreply.github.com>" && git push || true
+        git commit -m "Latest archive.org urls" --author="palewire <palewire@users.noreply.github.com>"
         git pull origin $GITHUB_REF
       shell: bash
 
@@ -82,7 +82,7 @@ runs:
       name: Commit archive.org items
       run: |
           git add ./extracts
-          git commit -m "Update archive.org items" --author="palewire <palewire@users.noreply.github.com>" && git push || true
+          git commit -m "Update archive.org items" --author="palewire <palewire@users.noreply.github.com>"
           git pull origin $GITHUB_REF
       shell: bash
 
@@ -95,7 +95,7 @@ runs:
       name: Commit archive.org items
       run: |
           git add ./extracts
-          git commit -m "Consolidate extracts" --author="palewire <palewire@users.noreply.github.com>" && git push || true
+          git commit -m "Consolidate extracts" --author="palewire <palewire@users.noreply.github.com>"
           git pull origin $GITHUB_REF
       shell: bash
 
