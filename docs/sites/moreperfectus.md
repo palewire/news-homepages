@@ -437,7 +437,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 130 hyperlink lists with the Internet Archive.
+The archiving routine has saved 131 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 5 at 8:22 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-05T08:22:28.224131-04:00.hyperlinks.json) |
 | [September 4 at 7:55 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-04T19:55:42.230946-04:00.hyperlinks.json) |
 | [September 4 at 7:59 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-04T07:59:21.206138-04:00.hyperlinks.json) |
 | [September 3 at 7:50 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-03T19:50:34.635321-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 2 at 2:29 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-02T14:29:51.383283-04:00.hyperlinks.json) |
 | [September 2 at 8:05 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-02T08:05:51.137433-04:00.hyperlinks.json) |
 | [September 1 at 8:03 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-01T20:03:30.411611-04:00.hyperlinks.json) |
-| [September 1 at 2:31 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-01T14:31:01.864097-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 131 accessibility trees with the Internet Archive.
+The archiving routine has saved 132 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 5 at 8:22 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-05T08:22:28.224131-04:00.accessibility.json) |
 | [September 4 at 7:55 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-04T19:55:42.230946-04:00.accessibility.json) |
 | [September 4 at 7:59 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-04T07:59:21.206138-04:00.accessibility.json) |
 | [September 3 at 7:50 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-03T19:50:34.635321-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 2 at 2:29 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-02T14:29:51.383283-04:00.accessibility.json) |
 | [September 2 at 8:05 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-02T08:05:51.137433-04:00.accessibility.json) |
 | [September 1 at 8:03 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-01T20:03:30.411611-04:00.accessibility.json) |
-| [September 1 at 2:31 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-01T14:31:01.864097-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 129 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 130 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 8:22 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-05T08:22:28.224131-04:00.lighthouse.json) |
 | [September 4 at 7:55 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-04T19:55:42.230946-04:00.lighthouse.json) |
 | [September 4 at 7:59 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-04T07:59:21.206138-04:00.lighthouse.json) |
 | [September 3 at 7:50 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-03T19:50:34.635321-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 2 at 2:29 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-02T14:29:51.383283-04:00.lighthouse.json) |
 | [September 2 at 8:06 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-02T08:05:51.137433-04:00.lighthouse.json) |
 | [September 1 at 8:03 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-01T20:03:30.411611-04:00.lighthouse.json) |
-| [September 1 at 2:31 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-09-01T14:31:01.864097-04:00.lighthouse.json) |
 
 
 

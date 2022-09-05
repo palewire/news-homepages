@@ -542,7 +542,7 @@ Here are the 10 most recent hyperlink lists.
 
 ### Accessibility
 
-The archiving routine has saved 316 accessibility trees with the Internet Archive.
+The archiving routine has saved 317 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 5 at 8:24 AM](https://archive.org/download/nro-2022/nro-2022-09-05T08:24:00.604114-04:00.accessibility.json) |
 | [September 4 at 7:58 PM](https://archive.org/download/nro-2022/nro-2022-09-04T19:58:02.897526-04:00.accessibility.json) |
 | [September 4 at 7:59 AM](https://archive.org/download/nro-2022/nro-2022-09-04T07:59:46.068519-04:00.accessibility.json) |
 | [September 3 at 7:52 PM](https://archive.org/download/nro-2022/nro-2022-09-03T19:52:17.147031-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 2 at 2:31 PM](https://archive.org/download/nro-2022/nro-2022-09-02T14:31:48.426884-04:00.accessibility.json) |
 | [September 2 at 8:06 AM](https://archive.org/download/nro-2022/nro-2022-09-02T08:06:43.353800-04:00.accessibility.json) |
 | [September 1 at 8:03 PM](https://archive.org/download/nro-2022/nro-2022-09-01T20:03:04.917026-04:00.accessibility.json) |
-| [September 1 at 2:42 PM](https://archive.org/download/nro-2022/nro-2022-09-01T14:42:40.475836-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 129 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 130 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 8:24 AM](https://archive.org/download/nro-2022/nro-2022-09-05T08:24:00.604114-04:00.lighthouse.json) |
 | [September 4 at 7:58 PM](https://archive.org/download/nro-2022/nro-2022-09-04T19:58:02.897526-04:00.lighthouse.json) |
 | [September 4 at 7:59 AM](https://archive.org/download/nro-2022/nro-2022-09-04T07:59:46.068519-04:00.lighthouse.json) |
 | [September 3 at 7:52 PM](https://archive.org/download/nro-2022/nro-2022-09-03T19:52:17.147031-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 2 at 2:32 PM](https://archive.org/download/nro-2022/nro-2022-09-02T14:31:48.426884-04:00.lighthouse.json) |
 | [September 2 at 8:06 AM](https://archive.org/download/nro-2022/nro-2022-09-02T08:06:43.353800-04:00.lighthouse.json) |
 | [September 1 at 8:03 PM](https://archive.org/download/nro-2022/nro-2022-09-01T20:03:04.917026-04:00.lighthouse.json) |
-| [September 1 at 2:42 PM](https://archive.org/download/nro-2022/nro-2022-09-01T14:42:40.475836-04:00.lighthouse.json) |
 
 
 
