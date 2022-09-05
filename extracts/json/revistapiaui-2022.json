@@ -1,5 +1,5 @@
 {
-  "created": 1662135448,
+  "created": 1662353552,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/34/items/revistapiaui-2022",
@@ -4532,31 +4532,465 @@
       "sha1": "2d59e40e5058a16640f41454a91aa306d5d671da"
     },
     {
+      "name": "revistapiaui-2022-09-03T01:41:03.089449-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662180066",
+      "size": "21545",
+      "md5": "21cba6de294bae9d3b62f967831374df",
+      "crc32": "75b03b70",
+      "sha1": "cde387f4c768a50693b20c00f962cdc0cdfc36fb",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-09-03T01:41:03.089449-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662180068",
+      "size": "31441",
+      "md5": "3284949f8efa29212d39a3e09b3030ce",
+      "crc32": "62ad8044",
+      "sha1": "91c0cbce6f43cd85e8e48dbdbc2755e905431774",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-09-03T01:41:03.089449-03:00.jpg",
+      "source": "original",
+      "mtime": "1662180064",
+      "size": "211340",
+      "md5": "ac8438999518758448e50dfa3482584e",
+      "crc32": "d6341229",
+      "sha1": "f07ea1633cc2889844091970ded759f37793b4ce",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "revistapiaui-2022-09-03T01:41:03.089449-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662180069",
+      "size": "1531",
+      "md5": "44e1b5cd6fb5c7b053c41fb32ee61a93",
+      "crc32": "484f8013",
+      "sha1": "65979ae0812fcc23c2eb1d2e672fbbde96acd4d3",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-09-03T01:41:03.089449-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1662180070",
+      "size": "21260",
+      "md5": "ac0a6adfeb55c92cee6dbeee9ab3ca11",
+      "crc32": "b476b546",
+      "sha1": "2f7c5ca4ae916321096d7aaf04450af184c9b6ad",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-09-03T01:41:03.089449-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "revistapiaui-2022-09-03T01:41:03.089449-03:00.jpg",
+      "mtime": "1662180125",
+      "size": "8824",
+      "md5": "47232628b4cbc7856da87201d1140a99",
+      "crc32": "75701d23",
+      "sha1": "21c426e46770cb985216c03530294a015c5752bf"
+    },
+    {
+      "name": "revistapiaui-2022-09-03T09:15:51.954887-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662207355",
+      "size": "21651",
+      "md5": "338b583084cc9b222824cd927b5b856b",
+      "crc32": "ec25e543",
+      "sha1": "f232bb71732ccfba195f925b56b478c91080e06d",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-09-03T09:15:51.954887-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662207360",
+      "size": "30503",
+      "md5": "63069ce3358cd0aa5b13351c2568eaeb",
+      "crc32": "79ec7fca",
+      "sha1": "8d3116457d0a0bf7efaac9619486a4848ef9c3a2",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-09-03T09:15:51.954887-03:00.jpg",
+      "source": "original",
+      "mtime": "1662207353",
+      "size": "203680",
+      "md5": "386b5ad5be9441afccf1c358e404861d",
+      "crc32": "6525b394",
+      "sha1": "1d5d94cd16aaa569c3977dd8446f9965f50f7956",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "revistapiaui-2022-09-03T09:15:51.954887-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662207362",
+      "size": "1531",
+      "md5": "3ddec8348b74f33334bfe18e039a4f37",
+      "crc32": "5056e3d3",
+      "sha1": "c44954bb6928d25e8751125c25611cc89f6dbcfb",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-09-03T09:15:51.954887-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1662207364",
+      "size": "26773",
+      "md5": "34dfedab1573c303588264840a51414a",
+      "crc32": "2b5eca69",
+      "sha1": "4b029e2f6cb13061b3167b17b3bc50a710648944",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-09-03T09:15:51.954887-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "revistapiaui-2022-09-03T09:15:51.954887-03:00.jpg",
+      "mtime": "1662207421",
+      "size": "8693",
+      "md5": "74ce94ef9e7fbddc6f14cab838507962",
+      "crc32": "cfa9ab60",
+      "sha1": "022baf05331b3e2bccbd3a1c1dc383426bcbf119"
+    },
+    {
+      "name": "revistapiaui-2022-09-03T13:01:33.594089-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662220899",
+      "size": "21522",
+      "md5": "1948cb7aa3f72f65665f0b8770bd784e",
+      "crc32": "827492d0",
+      "sha1": "a1a3da70cea5cbd476c86c20eef698e2177a899d",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-09-03T13:01:33.594089-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662220902",
+      "size": "31350",
+      "md5": "8192350e977d54c94b9f4f1fb79c1a1d",
+      "crc32": "b885c9d1",
+      "sha1": "b25c1014c99af36967e23594bb131ef38a02fbe6",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-09-03T13:01:33.594089-03:00.jpg",
+      "source": "original",
+      "mtime": "1662220897",
+      "size": "203733",
+      "md5": "2bde64e871cee6fa9b925514af425c7a",
+      "crc32": "0b1cb1cc",
+      "sha1": "fe85fd1cb61d18e5971e8b5371dd01ed6c1cdda8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "revistapiaui-2022-09-03T13:01:33.594089-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662220905",
+      "size": "1530",
+      "md5": "867ccc573e3bcf77a2174d1ffd12c6f0",
+      "crc32": "ba31e487",
+      "sha1": "fa1fd17a9ebfbe4775718270d9237c200550793c",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-09-03T13:01:33.594089-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1662220906",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-09-03T13:01:33.594089-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "revistapiaui-2022-09-03T13:01:33.594089-03:00.jpg",
+      "mtime": "1662220977",
+      "size": "8684",
+      "md5": "7e3c6076c112be08ade37e314eefdcf8",
+      "crc32": "d64cb984",
+      "sha1": "6363d207f876e0ddb803c581a75ffb86b45dd691"
+    },
+    {
+      "name": "revistapiaui-2022-09-04T01:40:46.659091-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662266459",
+      "size": "21522",
+      "md5": "1948cb7aa3f72f65665f0b8770bd784e",
+      "crc32": "827492d0",
+      "sha1": "a1a3da70cea5cbd476c86c20eef698e2177a899d",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-09-04T01:40:46.659091-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662266460",
+      "size": "31441",
+      "md5": "3284949f8efa29212d39a3e09b3030ce",
+      "crc32": "62ad8044",
+      "sha1": "91c0cbce6f43cd85e8e48dbdbc2755e905431774",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-09-04T01:40:46.659091-03:00.jpg",
+      "source": "original",
+      "mtime": "1662266457",
+      "size": "211364",
+      "md5": "5e434008c9976673c63cddb396658c24",
+      "crc32": "70e4c9e0",
+      "sha1": "d14c995e0304f46d44bffb5ad2211ad070f2d38c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "revistapiaui-2022-09-04T01:40:46.659091-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662266461",
+      "size": "1531",
+      "md5": "f5a1e3c0c51deeea7d50c6c9d34eb42e",
+      "crc32": "b7850643",
+      "sha1": "6eabdb59d0188801bcd3b8f4b86cc5fad70b1367",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-09-04T01:40:46.659091-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1662266462",
+      "size": "20376",
+      "md5": "f04de26e332c15457d8bedb88f6d0d2e",
+      "crc32": "d2b9695a",
+      "sha1": "7e94b19ae37ca98f1184c7c48be749d72af25294",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-09-04T01:40:46.659091-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "revistapiaui-2022-09-04T01:40:46.659091-03:00.jpg",
+      "mtime": "1662266538",
+      "size": "8808",
+      "md5": "81702f7176793b722fd3f1c23e70744f",
+      "crc32": "f83e5203",
+      "sha1": "60359766c1c4fdb95e7b31df832797805bb2319d"
+    },
+    {
+      "name": "revistapiaui-2022-09-04T09:02:07.850752-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662292930",
+      "size": "20998",
+      "md5": "0ed08f03c645eb8f7005e169baef2b3d",
+      "crc32": "4aac4efb",
+      "sha1": "d92dba81b8ff353b23f510727f4eb6f8726e743d",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-09-04T09:02:07.850752-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662292931",
+      "size": "31350",
+      "md5": "8192350e977d54c94b9f4f1fb79c1a1d",
+      "crc32": "b885c9d1",
+      "sha1": "b25c1014c99af36967e23594bb131ef38a02fbe6",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-09-04T09:02:07.850752-03:00.jpg",
+      "source": "original",
+      "mtime": "1662292929",
+      "size": "203733",
+      "md5": "2bde64e871cee6fa9b925514af425c7a",
+      "crc32": "0b1cb1cc",
+      "sha1": "fe85fd1cb61d18e5971e8b5371dd01ed6c1cdda8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "revistapiaui-2022-09-04T09:02:07.850752-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662292933",
+      "size": "1531",
+      "md5": "716f0bd8da61caac3b6093ba9095bd96",
+      "crc32": "b4563889",
+      "sha1": "937db8301951f00d20d68f81168ad1cc1df8d97b",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-09-04T09:02:07.850752-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1662292934",
+      "size": "21942",
+      "md5": "9698b66f09c68bd4b620a57de1146060",
+      "crc32": "ffb61a49",
+      "sha1": "502af0beea57b16d1ef4aa951fbb6f067c1cc46b",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-09-04T09:02:07.850752-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "revistapiaui-2022-09-04T09:02:07.850752-03:00.jpg",
+      "mtime": "1662293002",
+      "size": "8684",
+      "md5": "7e3c6076c112be08ade37e314eefdcf8",
+      "crc32": "d64cb984",
+      "sha1": "6363d207f876e0ddb803c581a75ffb86b45dd691"
+    },
+    {
+      "name": "revistapiaui-2022-09-04T13:45:08.040581-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662309910",
+      "size": "21596",
+      "md5": "53bd511dddf8e7128c11d1b2e608244d",
+      "crc32": "13d042c9",
+      "sha1": "e2868127bd35f6537598aec3bfe635b3f6bbe44d",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-09-04T13:45:08.040581-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662309912",
+      "size": "31350",
+      "md5": "8192350e977d54c94b9f4f1fb79c1a1d",
+      "crc32": "b885c9d1",
+      "sha1": "b25c1014c99af36967e23594bb131ef38a02fbe6",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-09-04T13:45:08.040581-03:00.jpg",
+      "source": "original",
+      "mtime": "1662309909",
+      "size": "211364",
+      "md5": "5e434008c9976673c63cddb396658c24",
+      "crc32": "70e4c9e0",
+      "sha1": "d14c995e0304f46d44bffb5ad2211ad070f2d38c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "revistapiaui-2022-09-04T13:45:08.040581-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662309913",
+      "size": "1531",
+      "md5": "5bd8396af987d35f1bda0dedc7075684",
+      "crc32": "050979da",
+      "sha1": "0f201856e4dc27469c1d4733c42d4116b95bbe10",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-09-04T13:45:08.040581-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1662309914",
+      "size": "21620",
+      "md5": "b2067ec0b05661ea0b1a284f5190d0f4",
+      "crc32": "676d7676",
+      "sha1": "c09cd0e668a81f80e9e57d78f172c4693e0dc5d5",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-09-04T13:45:08.040581-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "revistapiaui-2022-09-04T13:45:08.040581-03:00.jpg",
+      "mtime": "1662309979",
+      "size": "8808",
+      "md5": "81702f7176793b722fd3f1c23e70744f",
+      "crc32": "f83e5203",
+      "sha1": "60359766c1c4fdb95e7b31df832797805bb2319d"
+    },
+    {
+      "name": "revistapiaui-2022-09-05T01:50:58.606414-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662353462",
+      "size": "21596",
+      "md5": "53bd511dddf8e7128c11d1b2e608244d",
+      "crc32": "13d042c9",
+      "sha1": "e2868127bd35f6537598aec3bfe635b3f6bbe44d",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-09-05T01:50:58.606414-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662353464",
+      "size": "31441",
+      "md5": "3284949f8efa29212d39a3e09b3030ce",
+      "crc32": "62ad8044",
+      "sha1": "91c0cbce6f43cd85e8e48dbdbc2755e905431774",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-09-05T01:50:58.606414-03:00.jpg",
+      "source": "original",
+      "mtime": "1662353460",
+      "size": "211364",
+      "md5": "5e434008c9976673c63cddb396658c24",
+      "crc32": "70e4c9e0",
+      "sha1": "d14c995e0304f46d44bffb5ad2211ad070f2d38c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "revistapiaui-2022-09-05T01:50:58.606414-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662353465",
+      "size": "1531",
+      "md5": "52a35342d7029d3bc76da92dc8e8b432",
+      "crc32": "6e3cf22f",
+      "sha1": "1a4a38c6aa1b564d764349442cc569570253eed2",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-09-05T01:50:58.606414-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1662353467",
+      "size": "27215",
+      "md5": "5ec19193e61c7c5b56b2a1927007d001",
+      "crc32": "54b13c4a",
+      "sha1": "4d493e32466eae12787e14e20519cb36b1a2e4d8",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-09-05T01:50:58.606414-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "revistapiaui-2022-09-05T01:50:58.606414-03:00.jpg",
+      "mtime": "1662353531",
+      "size": "8808",
+      "md5": "81702f7176793b722fd3f1c23e70744f",
+      "crc32": "f83e5203",
+      "sha1": "60359766c1c4fdb95e7b31df832797805bb2319d"
+    },
+    {
       "name": "revistapiaui-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9b3da291a2e3276b258f6a82268c0e488118e0da",
-      "mtime": "1662135441",
-      "size": "95090",
-      "md5": "06dcb9ff75196ae28871d172721385de",
-      "crc32": "5cc62733",
-      "sha1": "defb006821525328e96ee3cae673553660b839f8",
+      "btih": "54d97e14dfed054bd87c2b5d4288e3aea6d45d77",
+      "mtime": "1662353539",
+      "size": "104066",
+      "md5": "5e15548f2505e32f01ab7f83e1316dfc",
+      "crc32": "3273c06d",
+      "sha1": "39dd56bee06489ae0547db865c9602eea1a8b744",
       "format": "Archive BitTorrent"
     },
     {
       "name": "revistapiaui-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "42fa2371a1c4fa8b90d0a4b43441eeae",
+      "md5": "42c6614096507aa80fff63c90ac6f242",
       "summation": "md5"
     },
     {
       "name": "revistapiaui-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662135383",
-      "size": "581632",
-      "md5": "dc8364266989d64d0171610120a40b5d",
-      "crc32": "5e196d86",
-      "sha1": "59397fe3b99c78bd4b7dae89d0c21403d4048c81",
+      "mtime": "1662353470",
+      "size": "626688",
+      "md5": "b0e17600b4d48548fe31aa478def8da8",
+      "crc32": "6ec81e9c",
+      "sha1": "6c845cef8604c55a2ec83f9493d44639876421d9",
       "format": "Metadata"
     },
     {
@@ -4570,9 +5004,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 442,
-  "item_last_updated": 1662135441,
-  "item_size": 23763572,
+  "files_count": 484,
+  "item_last_updated": 1662353539,
+  "item_size": 25854901,
   "metadata": {
     "identifier": "revistapiaui-2022",
     "collection": [
@@ -4590,7 +5024,7 @@
     "addeddate": "2022-08-07 19:43:52"
   },
   "server": "ia601501.us.archive.org",
-  "uniq": 183792266,
+  "uniq": 1956327868,
   "workable_servers": [
     "ia601501.us.archive.org",
     "ia801501.us.archive.org"

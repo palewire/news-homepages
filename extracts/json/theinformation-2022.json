@@ -1,5 +1,5 @@
 {
-  "created": 1662160703,
+  "created": 1662353787,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/17/items/theinformation-2022",
@@ -7088,31 +7088,341 @@
       "sha1": "288434066d59f7e61252d37e090865232940549d"
     },
     {
+      "name": "theinformation-2022-09-02T21:44:14.362196-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662180257",
+      "size": "11068",
+      "md5": "9ad625db2f2aec83f45a3299f6658466",
+      "crc32": "e6f839eb",
+      "sha1": "6c634056106bc33e2080da07335d66fd522d9da5",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-09-02T21:44:14.362196-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662180259",
+      "size": "9382",
+      "md5": "b4f6df173e46c09ae4e3e698627b8461",
+      "crc32": "1d21adf4",
+      "sha1": "77a7128d52650bef86ccb4f4f89c1a0c5c6a9c4a",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-09-02T21:44:14.362196-07:00.jpg",
+      "source": "original",
+      "mtime": "1662180255",
+      "size": "170698",
+      "md5": "2c040ac1bd5b81b91d2aff7b1284037b",
+      "crc32": "b5bb1f3f",
+      "sha1": "4f7b0b4067f28934e535d6b0fe0b932ee44bb18a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theinformation-2022-09-02T21:44:14.362196-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662180261",
+      "size": "1530",
+      "md5": "f98d7fd6da0c61d672918af79c1020cc",
+      "crc32": "b664a815",
+      "sha1": "61fbcba0183e6037937a5a684461651dfd72b0ef",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-09-02T21:44:14.362196-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662180264",
+      "size": "15479",
+      "md5": "294f931f99322bba3e3a9fbca12bb474",
+      "crc32": "f14775fc",
+      "sha1": "c0a82812eca9fa716484f71f81e281d8c63834ba",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-09-02T21:44:14.362196-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theinformation-2022-09-02T21:44:14.362196-07:00.jpg",
+      "mtime": "1662180321",
+      "size": "8988",
+      "md5": "ce70f0c691c359ce088623d6748b3f94",
+      "crc32": "8760de3b",
+      "sha1": "b243e6c936677d0f47f56c0424ef9dc28b4785eb"
+    },
+    {
+      "name": "theinformation-2022-09-03T09:05:26.992296-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662221131",
+      "size": "11200",
+      "md5": "8f8cba6bf6ff5c5b07aa9ec072235e5b",
+      "crc32": "68611b14",
+      "sha1": "718165b7b2ee0252c1ee22e49fc2510b7609a7c4",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-09-03T09:05:26.992296-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662221134",
+      "size": "9382",
+      "md5": "b4f6df173e46c09ae4e3e698627b8461",
+      "crc32": "1d21adf4",
+      "sha1": "77a7128d52650bef86ccb4f4f89c1a0c5c6a9c4a",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-09-03T09:05:26.992296-07:00.jpg",
+      "source": "original",
+      "mtime": "1662221128",
+      "size": "170698",
+      "md5": "2c040ac1bd5b81b91d2aff7b1284037b",
+      "crc32": "b5bb1f3f",
+      "sha1": "4f7b0b4067f28934e535d6b0fe0b932ee44bb18a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theinformation-2022-09-03T09:05:26.992296-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662221136",
+      "size": "1531",
+      "md5": "1172f0d5ff27339388b74a8279ced70b",
+      "crc32": "d14cb48a",
+      "sha1": "1943de186731395da2708a232bddbae138a2e51d",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-09-03T09:05:26.992296-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662221138",
+      "size": "107",
+      "md5": "9504c39fb714a373e978df33e7e098fb",
+      "crc32": "c05931cb",
+      "sha1": "40c1c7213c31fea577ba62fbf4cd242c1e858acf",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-09-03T09:05:26.992296-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theinformation-2022-09-03T09:05:26.992296-07:00.jpg",
+      "mtime": "1662221196",
+      "size": "8988",
+      "md5": "ce70f0c691c359ce088623d6748b3f94",
+      "crc32": "8760de3b",
+      "sha1": "b243e6c936677d0f47f56c0424ef9dc28b4785eb"
+    },
+    {
+      "name": "theinformation-2022-09-03T21:42:59.602411-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662266583",
+      "size": "11220",
+      "md5": "5217e69534cb4f2beb587a24eab60e69",
+      "crc32": "e649260c",
+      "sha1": "c71d63a1e74a1cba91faeb22433c4858041549d3",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-09-03T21:42:59.602411-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662266585",
+      "size": "9383",
+      "md5": "9d5bf1a17067dc7f87a169d24d7ef628",
+      "crc32": "c7e106ed",
+      "sha1": "657dbaae0ec840b8ca858d878d667e4d5432848b",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-09-03T21:42:59.602411-07:00.jpg",
+      "source": "original",
+      "mtime": "1662266581",
+      "size": "170698",
+      "md5": "2c040ac1bd5b81b91d2aff7b1284037b",
+      "crc32": "b5bb1f3f",
+      "sha1": "4f7b0b4067f28934e535d6b0fe0b932ee44bb18a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theinformation-2022-09-03T21:42:59.602411-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662266586",
+      "size": "1531",
+      "md5": "da2ccde36741e7c30b94a2895430226f",
+      "crc32": "25a96004",
+      "sha1": "4494e6c9cfaec7b595dbc7e175fa9b6446ce200a",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-09-03T21:42:59.602411-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662266587",
+      "size": "15478",
+      "md5": "004fa2d47cf3fc21e668fa4ff00756f5",
+      "crc32": "a55a5ac1",
+      "sha1": "0e00e9dd6184d38fb643386a9148ecb46d2a9a4f",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-09-03T21:42:59.602411-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theinformation-2022-09-03T21:42:59.602411-07:00.jpg",
+      "mtime": "1662266770",
+      "size": "8988",
+      "md5": "ce70f0c691c359ce088623d6748b3f94",
+      "crc32": "8760de3b",
+      "sha1": "b243e6c936677d0f47f56c0424ef9dc28b4785eb"
+    },
+    {
+      "name": "theinformation-2022-09-04T09:47:45.941842-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662310068",
+      "size": "11196",
+      "md5": "3656ac1337cb355b65b95f0ddce88352",
+      "crc32": "7de20aa1",
+      "sha1": "67c9d5d4a1a1c246b4ff670432f1827bc4a93502",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-09-04T09:47:45.941842-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662310070",
+      "size": "9330",
+      "md5": "a18b605ceb94ac2685e07b6fee12da20",
+      "crc32": "6b528386",
+      "sha1": "c0222b800683a4a3890e414d0018608399b0163f",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-09-04T09:47:45.941842-07:00.jpg",
+      "source": "original",
+      "mtime": "1662310067",
+      "size": "166314",
+      "md5": "2475898e831453d37aea137971ab941e",
+      "crc32": "a8e1d00e",
+      "sha1": "ee21f056ce7d7e7a364994ae1d96c162de82bced",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theinformation-2022-09-04T09:47:45.941842-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662310071",
+      "size": "1531",
+      "md5": "c429224b385cf554e2d1d4d754a99b64",
+      "crc32": "87d05d64",
+      "sha1": "260c77ec640a3941ab519f00ebca17ce5a52284d",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-09-04T09:47:45.941842-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662310073",
+      "size": "15334",
+      "md5": "fe4c9d22e0542f7e377ecb2ba2f9cfb5",
+      "crc32": "9e602998",
+      "sha1": "0155002b666b15a2112f29e5f7a7ad51f77cc516",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-09-04T09:47:45.941842-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theinformation-2022-09-04T09:47:45.941842-07:00.jpg",
+      "mtime": "1662310134",
+      "size": "8886",
+      "md5": "7c8e256291e3e7a56c26083d86d91440",
+      "crc32": "bc368d05",
+      "sha1": "44269d8009183a77bb2b03b54b622f7596ef3313"
+    },
+    {
+      "name": "theinformation-2022-09-04T21:54:55.832364-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662353699",
+      "size": "11196",
+      "md5": "4f91c1a1986b688d27fd8f4141476d91",
+      "crc32": "f80c6215",
+      "sha1": "a4e8b9d3575dd2fedfcd0f9989bf74a306b1c73a",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-09-04T21:54:55.832364-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662353701",
+      "size": "9330",
+      "md5": "8fb5ba3c3622106042857c0d3da42973",
+      "crc32": "fdfbd2bd",
+      "sha1": "fc882376a6347910f9d0aee0a63dcac2d82a496d",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-09-04T21:54:55.832364-07:00.jpg",
+      "source": "original",
+      "mtime": "1662353697",
+      "size": "166314",
+      "md5": "2475898e831453d37aea137971ab941e",
+      "crc32": "a8e1d00e",
+      "sha1": "ee21f056ce7d7e7a364994ae1d96c162de82bced",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theinformation-2022-09-04T21:54:55.832364-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662353702",
+      "size": "1531",
+      "md5": "f766cd20023f6de2fa34458f89564980",
+      "crc32": "a8128c73",
+      "sha1": "b92b2df251ea91c2a9a8b0378f97421d9cf73d7e",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-09-04T21:54:55.832364-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662353704",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-09-04T21:54:55.832364-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theinformation-2022-09-04T21:54:55.832364-07:00.jpg",
+      "mtime": "1662353764",
+      "size": "8886",
+      "md5": "7c8e256291e3e7a56c26083d86d91440",
+      "crc32": "bc368d05",
+      "sha1": "44269d8009183a77bb2b03b54b622f7596ef3313"
+    },
+    {
       "name": "theinformation-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ee0e11342a9ff3b33be8b94a2611277e291613ca",
-      "mtime": "1662135642",
-      "size": "147855",
-      "md5": "818b7a83d7434713818edd45f980bd74",
-      "crc32": "adf2492a",
-      "sha1": "491a8384728649e954e6cb11228e4bef01a9a613",
+      "btih": "56e28120086a50da4e8bf971e1598ef93d40c8bd",
+      "mtime": "1662353774",
+      "size": "154301",
+      "md5": "78a1787c9d77c2e61a5d12d4d619202a",
+      "crc32": "b9c0198a",
+      "sha1": "c49ca85765b139ed03d71cefcc06906d79977950",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theinformation-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b911be9a382c37d770957fc728478fc5",
+      "md5": "3d344a907313662407d1cab058f59b8c",
       "summation": "md5"
     },
     {
       "name": "theinformation-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662135567",
-      "size": "856064",
-      "md5": "6cbb026f76da4ee3ad7d0e775c727b3f",
-      "crc32": "a3c237a6",
-      "sha1": "e55f54a22170aaaca82c658e01cd822b1c72ee99",
+      "mtime": "1662353709",
+      "size": "892928",
+      "md5": "819ba8a81cc1da66a8afbf00148fea06",
+      "crc32": "98b55d52",
+      "sha1": "bcf3c80ccd4097a6b47210b250bc97180e3162eb",
       "format": "Metadata"
     },
     {
@@ -7126,9 +7436,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 685,
-  "item_last_updated": 1662135642,
-  "item_size": 28585599,
+  "files_count": 715,
+  "item_last_updated": 1662353774,
+  "item_size": 29675308,
   "metadata": {
     "identifier": "theinformation-2022",
     "collection": [
@@ -7146,7 +7456,7 @@
     "addeddate": "2022-07-04 20:17:35"
   },
   "server": "ia801504.us.archive.org",
-  "uniq": 1496789448,
+  "uniq": 703230135,
   "workable_servers": [
     "ia801504.us.archive.org",
     "ia601504.us.archive.org"

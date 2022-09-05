@@ -1,5 +1,5 @@
 {
-  "created": 1662165741,
+  "created": 1662353949,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/33/items/wired-2022",
@@ -7074,31 +7074,341 @@
       "sha1": "1e2fd63d55e8a2cdaf5166f2658f80b84cdddd35"
     },
     {
+      "name": "wired-2022-09-02T21:45:51.356307-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662180354",
+      "size": "37066",
+      "md5": "4f24f1e8928eeb6aeb5640e8d6f5914b",
+      "crc32": "e86b0d79",
+      "sha1": "eda5880b4d5a8932aef9e029208fae3d99dbbc4d",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-09-02T21:45:51.356307-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662180356",
+      "size": "23643",
+      "md5": "b2379b3d88176a2411d5f91412699412",
+      "crc32": "dee2bcf7",
+      "sha1": "d766cda2316c26d55522d15432aff6a95d26bfb6",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-09-02T21:45:51.356307-07:00.jpg",
+      "source": "original",
+      "mtime": "1662180353",
+      "size": "263438",
+      "md5": "4620f607ef76f9d081c4bbb4d87eb79a",
+      "crc32": "a3358798",
+      "sha1": "62a9f10193e451a58857ce636556ec25c777ada8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wired-2022-09-02T21:45:51.356307-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662180360",
+      "size": "1441",
+      "md5": "67ff948b0ef090a2fd81db1a131b6d31",
+      "crc32": "9aa40e35",
+      "sha1": "1b93b4892935012b584cc0a27d34421c3e64854c",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-09-02T21:45:51.356307-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662180362",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-09-02T21:45:51.356307-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wired-2022-09-02T21:45:51.356307-07:00.jpg",
+      "mtime": "1662180420",
+      "size": "10057",
+      "md5": "317a1694c14e011bc56a4e76f53cabc7",
+      "crc32": "7270ce2a",
+      "sha1": "062b1d1eb30b0d3c7ff173024b9b51cdc9a39735"
+    },
+    {
+      "name": "wired-2022-09-03T09:07:16.966505-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662221243",
+      "size": "36932",
+      "md5": "4c6d7a23910decbf52b33930b9a9bf57",
+      "crc32": "f8223c0a",
+      "sha1": "768b42983216e9d0d6e91ea48ba23b6b1101d282",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-09-03T09:07:16.966505-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662221245",
+      "size": "22549",
+      "md5": "70ba09cc8daecc1f12108b81f0d95363",
+      "crc32": "e54fb04e",
+      "sha1": "116600bb8b929abb4fd5500d43a35dc54039d47a",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-09-03T09:07:16.966505-07:00.jpg",
+      "source": "original",
+      "mtime": "1662221241",
+      "size": "245753",
+      "md5": "ceed24fd78aea8a9a92eff39396a0612",
+      "crc32": "c06c1372",
+      "sha1": "0e33a18c2d614a4bfdd1933d8a0a9c7b8457ed8a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wired-2022-09-03T09:07:16.966505-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662221247",
+      "size": "1450",
+      "md5": "810883709362355a594b38a3ad018172",
+      "crc32": "a2319b95",
+      "sha1": "22371383d5a01088fc79ab186168c56c4d77b2de",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-09-03T09:07:16.966505-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662221250",
+      "size": "97165",
+      "md5": "e4a0b0582c5e723f48afe137eb1871ef",
+      "crc32": "4c4c8add",
+      "sha1": "caba08521e9430e557b2cf898f2025c3fa4c823a",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-09-03T09:07:16.966505-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wired-2022-09-03T09:07:16.966505-07:00.jpg",
+      "mtime": "1662221313",
+      "size": "9761",
+      "md5": "4e56a346e97cdad6a91e578410fd709a",
+      "crc32": "c81e2412",
+      "sha1": "f0dc08c4482a171da5d9d705cbdc88bda2426106"
+    },
+    {
+      "name": "wired-2022-09-03T21:45:10.567906-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662266713",
+      "size": "36987",
+      "md5": "3d31ed67642a983834dbdeff00ff30a2",
+      "crc32": "affcc779",
+      "sha1": "ae0c747bc9d079cf6ba79c1314a278428dff20b5",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-09-03T21:45:10.567906-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662266715",
+      "size": "23609",
+      "md5": "361cb03e9401e6d5594596bd029d08f5",
+      "crc32": "d2c3a284",
+      "sha1": "ed7b7e26bbd0c8f7277b4b98bb8ce64ac660716d",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-09-03T21:45:10.567906-07:00.jpg",
+      "source": "original",
+      "mtime": "1662266712",
+      "size": "274134",
+      "md5": "fd8c2e721e9d6c93c026163109964a8f",
+      "crc32": "c077eb1a",
+      "sha1": "462f1b7b732566620b5d1af03b6e9cf8a96dad13",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wired-2022-09-03T21:45:10.567906-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662266716",
+      "size": "1441",
+      "md5": "aa0d317d9930563cd9f5fb129cb4a04b",
+      "crc32": "04727f2f",
+      "sha1": "b231ca3ed6f463780d1822f965e5b03a33c0aa85",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-09-03T21:45:10.567906-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662266718",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-09-03T21:45:10.567906-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wired-2022-09-03T21:45:10.567906-07:00.jpg",
+      "mtime": "1662266775",
+      "size": "9918",
+      "md5": "e936ff9eba72b4132754e02a224edc89",
+      "crc32": "eae90d9c",
+      "sha1": "f524f4895722e5a0a475e1902b7a905e990b3ff8"
+    },
+    {
+      "name": "wired-2022-09-04T09:49:19.918153-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662310163",
+      "size": "36932",
+      "md5": "ac8cf4d1de628b1ecc5fb5552ef09272",
+      "crc32": "bea116a1",
+      "sha1": "b3d6bef3afae1818bc691fcfec8edb77714e6b55",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-09-04T09:49:19.918153-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662310164",
+      "size": "23612",
+      "md5": "88c9973a9da71fe6ac59f951271ff880",
+      "crc32": "ff9bec1c",
+      "sha1": "c6c0cdcaad0fae122fe54085cf3abcee38b67417",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-09-04T09:49:19.918153-07:00.jpg",
+      "source": "original",
+      "mtime": "1662310161",
+      "size": "270533",
+      "md5": "0fb3a9bd604c3d562c8d2e49002ad028",
+      "crc32": "5054b3f2",
+      "sha1": "81e274563cdb7210ee35cfc181207c9c47b92c43",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wired-2022-09-04T09:49:19.918153-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662310166",
+      "size": "1440",
+      "md5": "001a6a45e48e2615309380c04c7497f9",
+      "crc32": "798eef7a",
+      "sha1": "f94898c86bf05284b755e48e7b56da96cca1075e",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-09-04T09:49:19.918153-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662310168",
+      "size": "102250",
+      "md5": "6e38f30aa5412d93de6ba17293430f75",
+      "crc32": "c6f8938f",
+      "sha1": "b6e9e2386399b5c377723d478bbe7947eff07155",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-09-04T09:49:19.918153-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wired-2022-09-04T09:49:19.918153-07:00.jpg",
+      "mtime": "1662310223",
+      "size": "9872",
+      "md5": "7e9218de6307923248af6c4637d8d44d",
+      "crc32": "b65b9215",
+      "sha1": "74a9de439527d7df7d8e4d2a7a50eb597538f041"
+    },
+    {
+      "name": "wired-2022-09-04T21:57:37.540005-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662353860",
+      "size": "37014",
+      "md5": "2184d781c70a6afd4aaf07abc82d885f",
+      "crc32": "a88e956a",
+      "sha1": "f69f86b61bf8d447bf07a46d4354d601fc8da979",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-09-04T21:57:37.540005-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662353861",
+      "size": "23603",
+      "md5": "fcb3cf5fd179657cb1475276ab17c174",
+      "crc32": "90f5d658",
+      "sha1": "b9736accd3788ad20c38bbe66ffa3253e1c9ed8a",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-09-04T21:57:37.540005-07:00.jpg",
+      "source": "original",
+      "mtime": "1662353858",
+      "size": "275199",
+      "md5": "46f2e12b9dd3b8e6b33565dae3da1357",
+      "crc32": "181dafd3",
+      "sha1": "c747a21ba2fd0928357508764d5eff8ae3ae6b49",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wired-2022-09-04T21:57:37.540005-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662353863",
+      "size": "1445",
+      "md5": "b99e3c707f47bed0a262a4e407b01321",
+      "crc32": "2731d57a",
+      "sha1": "251c0929ceaca6b4cefce802568fe4fe544ea755",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-09-04T21:57:37.540005-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662353864",
+      "size": "120681",
+      "md5": "546403d1e20b9c6e87dc3245b63ea59e",
+      "crc32": "227283c4",
+      "sha1": "8a1982bcf0e0148ecffc7be301de19e83be56494",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-09-04T21:57:37.540005-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wired-2022-09-04T21:57:37.540005-07:00.jpg",
+      "mtime": "1662353931",
+      "size": "9956",
+      "md5": "8be539c51cc9013cdf375bdad88dc40c",
+      "crc32": "2cb2d608",
+      "sha1": "c4c7a0a73382cac04fb863add09c462a3525400b"
+    },
+    {
       "name": "wired-2022_archive.torrent",
       "source": "metadata",
-      "btih": "688a6c33822487616d78082ac44f23f7e14e3a74",
-      "mtime": "1662135771",
-      "size": "142663",
-      "md5": "e307447df4d4bf8852f7c17e872966a6",
-      "crc32": "726973f1",
-      "sha1": "a0133fc14e965e62c01e39b7d1eb3e860f49ecf6",
+      "btih": "95b8e5aa38978ee6c4aacc1339dacb8483377cb8",
+      "mtime": "1662353942",
+      "size": "148887",
+      "md5": "bdd1f394e2cd3fce6097b5476e020804",
+      "crc32": "e4de2055",
+      "sha1": "e7b079876ce4d60432f159d86745b331202cc5eb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wired-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "daabf75fbf52b34908a71849849699b9",
+      "md5": "4c23624db9b537d06d69401fc7172862",
       "summation": "md5"
     },
     {
       "name": "wired-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662135708",
-      "size": "843776",
-      "md5": "a41dca3cdf1b1cd07d7c34d650413188",
-      "crc32": "dd10361f",
-      "sha1": "235b79439f7bba2665e8cc2c9061592e431141c4",
+      "mtime": "1662353875",
+      "size": "880640",
+      "md5": "7b262d1bf2e7bdeaccad4ef5581fc4a9",
+      "crc32": "d0aed58e",
+      "sha1": "748cce4e3eca6569686a15e023171d15104ae112",
       "format": "Metadata"
     },
     {
@@ -7112,9 +7422,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 684,
-  "item_last_updated": 1662135771,
-  "item_size": 52645518,
+  "files_count": 714,
+  "item_last_updated": 1662353942,
+  "item_size": 54696891,
   "metadata": {
     "identifier": "wired-2022",
     "collection": [
@@ -7132,11 +7442,7 @@
     "addeddate": "2022-07-04 20:17:35"
   },
   "server": "ia801409.us.archive.org",
-  "uniq": 1560124634,
-  "wired-2022": {
-    "url": "https://www.wired.com/",
-    "job_id": "spn2-d0aed7183e533add4c5bcc1f6d23bf46eea506c3"
-  },
+  "uniq": 347577046,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"

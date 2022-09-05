@@ -1,5 +1,5 @@
 {
-  "created": 1662151065,
+  "created": 1662353876,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/29/items/ukrinform-2022",
@@ -15022,31 +15022,341 @@
       "sha1": "8fbbbdde58c69a65dfa2ab627481665801870aad"
     },
     {
+      "name": "ukrinform-2022-09-03T07:44:56.752027+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662180300",
+      "size": "60852",
+      "md5": "fafa1ab8c105cda6ed8229c1c4f8d1c3",
+      "crc32": "c8c4edbc",
+      "sha1": "069b6ab923e2990bddd3d0e981ba324a2cf06dbf",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-09-03T07:44:56.752027+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662180302",
+      "size": "57430",
+      "md5": "9184ee6248285bfcb6cd3473c5e9435e",
+      "crc32": "8abba486",
+      "sha1": "f45f6c745ac31851a677e0448975466c24f895d7",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-09-03T07:44:56.752027+03:00.jpg",
+      "source": "original",
+      "mtime": "1662180298",
+      "size": "319255",
+      "md5": "c8cb59d309de99c27d1aaf9467678d8b",
+      "crc32": "ffef1eff",
+      "sha1": "e942910ccedbcc20b36815b29019a8457a721480",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ukrinform-2022-09-03T07:44:56.752027+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662180304",
+      "size": "1474",
+      "md5": "5d164b3a926a55b3570e9cd35538f958",
+      "crc32": "7603647f",
+      "sha1": "afe012f1918771bb5e1c93167ec992cbb98e0549",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-09-03T07:44:56.752027+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1662180306",
+      "size": "26384",
+      "md5": "dace1891094fbe2990fcd9ef63dc9893",
+      "crc32": "eabb09f1",
+      "sha1": "8f67b63670c2989e7976a830bbd81b0cbdd26fa1",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-09-03T07:44:56.752027+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ukrinform-2022-09-03T07:44:56.752027+03:00.jpg",
+      "mtime": "1662180401",
+      "size": "9923",
+      "md5": "ccf12fe6ceba87f5a05e54ca6ae2137b",
+      "crc32": "03d07ba0",
+      "sha1": "25cec3cddca74cf7f3e9f59e4cbffae135fa9cca"
+    },
+    {
+      "name": "ukrinform-2022-09-03T19:05:35.873617+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662221140",
+      "size": "61968",
+      "md5": "f6375ff68d66d758caa44580e8321750",
+      "crc32": "c05ebaea",
+      "sha1": "92e9164d4575fea8bdd5d66a958e47ef0211ec9a",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-09-03T19:05:35.873617+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662221142",
+      "size": "57756",
+      "md5": "96b0f9bb72e361fabea02f022ec7a3e4",
+      "crc32": "ca93aff5",
+      "sha1": "c009de0086d6e29c6337d7706030a6a4a7756e00",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-09-03T19:05:35.873617+03:00.jpg",
+      "source": "original",
+      "mtime": "1662221137",
+      "size": "334731",
+      "md5": "3dda7a64e8bcac6dca244138b8409b6d",
+      "crc32": "5050a650",
+      "sha1": "5f3a8cfc0684a0cbcecb083ab65a4361ac1d16df",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ukrinform-2022-09-03T19:05:35.873617+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662221143",
+      "size": "1476",
+      "md5": "c6debe1ab40e2d837791f64992c0cdd8",
+      "crc32": "04eb6189",
+      "sha1": "074c003de7d8554746249da75d508f527d3f8577",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-09-03T19:05:35.873617+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1662221145",
+      "size": "27164",
+      "md5": "4b45190c8095c2061458cad3a19a0016",
+      "crc32": "6fb70704",
+      "sha1": "b8dda7a7f0d85c31f105c1ba75adbf63b9bf6dad",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-09-03T19:05:35.873617+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ukrinform-2022-09-03T19:05:35.873617+03:00.jpg",
+      "mtime": "1662221235",
+      "size": "10066",
+      "md5": "4f66f8844e16399fe18e2e80bd74cd3a",
+      "crc32": "65f91d63",
+      "sha1": "005dcfd0027dbcd4218847d3b347d37c0142b811"
+    },
+    {
+      "name": "ukrinform-2022-09-04T07:43:47.901015+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662266632",
+      "size": "61461",
+      "md5": "106cae9a713fb1e5631fe532cb2115b4",
+      "crc32": "aa077cc5",
+      "sha1": "53109809ddf7b3535a755b253af6d996927b99a4",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-09-04T07:43:47.901015+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662266636",
+      "size": "57022",
+      "md5": "90a7bd88d1452b2950fefcda24dbda88",
+      "crc32": "6d77db51",
+      "sha1": "1fa94dbc3032cba7ea256a5334dc1af9aa4f91ee",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-09-04T07:43:47.901015+03:00.jpg",
+      "source": "original",
+      "mtime": "1662266629",
+      "size": "299177",
+      "md5": "6d91a6a362effd0a99a5d36c926c94a0",
+      "crc32": "dde1f7bf",
+      "sha1": "f7873ba28e887377b983a5d63ed7608bf22c61c1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ukrinform-2022-09-04T07:43:47.901015+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662266638",
+      "size": "1477",
+      "md5": "e1ee5179bd8b9694e1cdf261d2ef2bb9",
+      "crc32": "bc94a922",
+      "sha1": "df4e49b48aed31dce3b727b9f9bee41a4c606668",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-09-04T07:43:47.901015+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1662266640",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-09-04T07:43:47.901015+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ukrinform-2022-09-04T07:43:47.901015+03:00.jpg",
+      "mtime": "1662266713",
+      "size": "9733",
+      "md5": "394ebeec51c0065c4fc1d8cb76794bf3",
+      "crc32": "55a11ef3",
+      "sha1": "85da605e7d94daa47cfb5129a5b454d5cd3dd7de"
+    },
+    {
+      "name": "ukrinform-2022-09-04T19:48:27.317435+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662310110",
+      "size": "63527",
+      "md5": "94b07a2077d3c8c76f1a897d3d1ac2bb",
+      "crc32": "dbb45358",
+      "sha1": "7fec015d6257e7e3a96dc8fb8ac1b9308d48289a",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-09-04T19:48:27.317435+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662310111",
+      "size": "58888",
+      "md5": "f55aaf7080627ea35ba92c13de824126",
+      "crc32": "2c884302",
+      "sha1": "d53e16759b72771f5a3ac4ec39912f652d24f934",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-09-04T19:48:27.317435+03:00.jpg",
+      "source": "original",
+      "mtime": "1662310108",
+      "size": "335498",
+      "md5": "fd1861d2bbf04d0f51cc1f5e42ecb020",
+      "crc32": "b5051b46",
+      "sha1": "1788e8cf2a8978e9d2e9f5903053f9c2c53ff965",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ukrinform-2022-09-04T19:48:27.317435+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662310113",
+      "size": "1474",
+      "md5": "358a367f305c86f8f59aee8e8ed047a3",
+      "crc32": "248cb289",
+      "sha1": "06238e15a7b3ff1cdd34f3327a9f305e46161659",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-09-04T19:48:27.317435+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1662310115",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-09-04T19:48:27.317435+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ukrinform-2022-09-04T19:48:27.317435+03:00.jpg",
+      "mtime": "1662310194",
+      "size": "9875",
+      "md5": "af0310dfc2f769bc4a25baf1bfae17c1",
+      "crc32": "30048e00",
+      "sha1": "f788b70b873b479c13d8b8e0d6528cfa3ea0736e"
+    },
+    {
+      "name": "ukrinform-2022-09-05T07:55:37.108673+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662353739",
+      "size": "64806",
+      "md5": "a45d62f3eb6ce347c6e6d216d3f3f57f",
+      "crc32": "47b9f79d",
+      "sha1": "ecca9cdd2555495e45b8beee5dd1ba08d6191e9a",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-09-05T07:55:37.108673+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662353741",
+      "size": "59494",
+      "md5": "b955e4cccb00e6d94fa3cbfd22b187db",
+      "crc32": "a02dc775",
+      "sha1": "c548a6f1e9fe2386623ff0c7c5ea9b159b256969",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-09-05T07:55:37.108673+03:00.jpg",
+      "source": "original",
+      "mtime": "1662353738",
+      "size": "307924",
+      "md5": "8852fa25d7cd7c53b5e6542260719ad8",
+      "crc32": "d8e9d6c0",
+      "sha1": "6cf0fc51590e6a9fd8784e2af3f41e24d1fd2e88",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ukrinform-2022-09-05T07:55:37.108673+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662353742",
+      "size": "1474",
+      "md5": "15018ff30a597bbafb31690cd6b38fb3",
+      "crc32": "9c600f25",
+      "sha1": "e9c3c94ce60bccd75845ae336b2060858f442a7c",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-09-05T07:55:37.108673+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1662353744",
+      "size": "27226",
+      "md5": "80c98f2acd6ff1dcdd10a973f514cfbb",
+      "crc32": "ed607ef4",
+      "sha1": "259f67db56c0d18a7153faf57c8795d07661aa9d",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-09-05T07:55:37.108673+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ukrinform-2022-09-05T07:55:37.108673+03:00.jpg",
+      "mtime": "1662353842",
+      "size": "9654",
+      "md5": "acca06cea943fd806741032f75a681ac",
+      "crc32": "db5e60c3",
+      "sha1": "507d6d76052a67cc37c099470bd374e72621acc1"
+    },
+    {
       "name": "ukrinform-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e9eaee41a3d88cdb3627178111ca9c163bd91e47",
-      "mtime": "1662135697",
-      "size": "306292",
-      "md5": "db66c701e9e785bddb59c61f82ccd28f",
-      "crc32": "d5ad65da",
-      "sha1": "4769fc684b84c7daa659661a62d921e5e37f6ee9",
+      "btih": "497de1a9c15575dd4527b9e8c113e7387f4346a0",
+      "mtime": "1662353860",
+      "size": "312654",
+      "md5": "7bfae2e93331a6383feb5ae63cdfb5fb",
+      "crc32": "9cafac15",
+      "sha1": "53112dca85dafeeb5600d621e012e4ec787d737c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ukrinform-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9cf43106b34c75bf7d4c33dab247a6e2",
+      "md5": "3ddd4d07f39a05a90aa1d61dd403e428",
       "summation": "md5"
     },
     {
       "name": "ukrinform-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662135602",
-      "size": "1699840",
-      "md5": "73a97c8599a654322a782a90071a5fc7",
-      "crc32": "643e900f",
-      "sha1": "e342ef0d14b0e6cebfe817246e81a3b977225bb2",
+      "mtime": "1662353758",
+      "size": "1740800",
+      "md5": "5123637be9b786d30d2444ee81ebfd39",
+      "crc32": "69f63e62",
+      "sha1": "c8a612f80af13ccf7204a45158255c8e6b94da24",
       "format": "Metadata"
     },
     {
@@ -15060,9 +15370,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1440,
-  "item_last_updated": 1662135697,
-  "item_size": 149197212,
+  "files_count": 1470,
+  "item_last_updated": 1662353860,
+  "item_size": 151582127,
   "metadata": {
     "identifier": "ukrinform-2022",
     "collection": [
@@ -15080,7 +15390,7 @@
     "addeddate": "2022-03-23 17:48:55"
   },
   "server": "ia601409.us.archive.org",
-  "uniq": 189918820,
+  "uniq": 87586174,
   "workable_servers": [
     "ia601409.us.archive.org",
     "ia801409.us.archive.org"
