@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 137 screenshots with the Internet Archive.
+The archiving routine has saved 142 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,51 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-09-04T18:27:30.734653-07:00.jpg">
+  <img src="https://archive.org/download/venturebeat-2022/venturebeat-2022-09-04T18:27:30.734653-07:00.jpg"
+     alt="VentureBeat at 2022-09-04 18:27:35-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-09-04T18:27:30.734653-07:00.jpg">September 4 at 6:27 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-09-04T06:01:02.533798-07:00.jpg">
+  <img src="https://archive.org/download/venturebeat-2022/venturebeat-2022-09-04T06:01:02.533798-07:00.jpg"
+     alt="VentureBeat at 2022-09-04 06:01:08-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-09-04T06:01:02.533798-07:00.jpg">September 4 at 6:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-09-03T18:17:39.982819-07:00.jpg">
+  <img src="https://archive.org/download/venturebeat-2022/venturebeat-2022-09-03T18:17:39.982819-07:00.jpg"
+     alt="VentureBeat at 2022-09-03 18:17:43-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-09-03T18:17:39.982819-07:00.jpg">September 3 at 6:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-09-03T06:15:40.164994-07:00.jpg">
+  <img src="https://archive.org/download/venturebeat-2022/venturebeat-2022-09-03T06:15:40.164994-07:00.jpg"
+     alt="VentureBeat at 2022-09-03 06:15:44-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-09-03T06:15:40.164994-07:00.jpg">September 3 at 6:15 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-09-02T18:27:07.432590-07:00.jpg">
+  <img src="https://archive.org/download/venturebeat-2022/venturebeat-2022-09-02T18:27:07.432590-07:00.jpg"
+     alt="VentureBeat at 2022-09-02 18:27:08-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-09-02T18:27:07.432590-07:00.jpg">September 2 at 6:27 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-09-02T06:08:55.325421-07:00.jpg">
   <img src="https://archive.org/download/venturebeat-2022/venturebeat-2022-09-02T06:08:55.325421-07:00.jpg"
      alt="VentureBeat at 2022-09-02 06:09:01-07:00 local time"
@@ -388,56 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-08-30T06:14:45.630422-07:00.jpg">August 30 at 6:14 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-08-29T18:21:18.107312-07:00.jpg">
-  <img src="https://archive.org/download/venturebeat-2022/venturebeat-2022-08-29T18:21:18.107312-07:00.jpg"
-     alt="VentureBeat at 2022-08-29 18:21:20-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-08-29T18:21:18.107312-07:00.jpg">August 29 at 6:21 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-08-29T06:05:43.234585-07:00.jpg">
-  <img src="https://archive.org/download/venturebeat-2022/venturebeat-2022-08-29T06:05:43.234585-07:00.jpg"
-     alt="VentureBeat at 2022-08-29 06:05:48-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-08-29T06:05:43.234585-07:00.jpg">August 29 at 6:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-08-28T18:21:26.664462-07:00.jpg">
-  <img src="https://archive.org/download/venturebeat-2022/venturebeat-2022-08-28T18:21:26.664462-07:00.jpg"
-     alt="VentureBeat at 2022-08-28 18:21:27-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-08-28T18:21:26.664462-07:00.jpg">August 28 at 6:21 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-08-28T06:05:38.654054-07:00.jpg">
-  <img src="https://archive.org/download/venturebeat-2022/venturebeat-2022-08-28T06:05:38.654054-07:00.jpg"
-     alt="VentureBeat at 2022-08-28 06:05:42-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-08-28T06:05:38.654054-07:00.jpg">August 28 at 6:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-08-27T18:32:16.105878-07:00.jpg">
-  <img src="https://archive.org/download/venturebeat-2022/venturebeat-2022-08-27T18:32:16.105878-07:00.jpg"
-     alt="VentureBeat at 2022-08-27 18:32:17-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/venturebeat-2022/venturebeat-2022-08-27T18:32:16.105878-07:00.jpg">August 27 at 6:32 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 138 hyperlink lists with the Internet Archive.
+The archiving routine has saved 143 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 4 at 6:27 PM](https://archive.org/download/venturebeat-2022/venturebeat-2022-09-04T18:27:30.734653-07:00.hyperlinks.json) |
+| [September 4 at 6:01 AM](https://archive.org/download/venturebeat-2022/venturebeat-2022-09-04T06:01:02.533798-07:00.hyperlinks.json) |
+| [September 3 at 6:17 PM](https://archive.org/download/venturebeat-2022/venturebeat-2022-09-03T18:17:39.982819-07:00.hyperlinks.json) |
+| [September 3 at 6:15 AM](https://archive.org/download/venturebeat-2022/venturebeat-2022-09-03T06:15:40.164994-07:00.hyperlinks.json) |
+| [September 2 at 6:27 PM](https://archive.org/download/venturebeat-2022/venturebeat-2022-09-02T18:27:07.432590-07:00.hyperlinks.json) |
 | [September 2 at 6:09 AM](https://archive.org/download/venturebeat-2022/venturebeat-2022-09-02T06:08:55.325421-07:00.hyperlinks.json) |
 | [September 1 at 6:21 PM](https://archive.org/download/venturebeat-2022/venturebeat-2022-09-01T18:21:22.970438-07:00.hyperlinks.json) |
 | [September 1 at 6:17 AM](https://archive.org/download/venturebeat-2022/venturebeat-2022-09-01T06:16:55.887799-07:00.hyperlinks.json) |
 | [August 31 at 6:21 PM](https://archive.org/download/venturebeat-2022/venturebeat-2022-08-31T18:21:05.477292-07:00.hyperlinks.json) |
 | [August 31 at 6:18 AM](https://archive.org/download/venturebeat-2022/venturebeat-2022-08-31T06:18:16.684552-07:00.hyperlinks.json) |
-| [August 30 at 6:30 PM](https://archive.org/download/venturebeat-2022/venturebeat-2022-08-30T18:30:34.507924-07:00.hyperlinks.json) |
-| [August 30 at 6:14 AM](https://archive.org/download/venturebeat-2022/venturebeat-2022-08-30T06:14:45.630422-07:00.hyperlinks.json) |
-| [August 29 at 6:21 PM](https://archive.org/download/venturebeat-2022/venturebeat-2022-08-29T18:21:18.107312-07:00.hyperlinks.json) |
-| [August 29 at 6:05 AM](https://archive.org/download/venturebeat-2022/venturebeat-2022-08-29T06:05:43.234585-07:00.hyperlinks.json) |
-| [August 28 at 6:21 PM](https://archive.org/download/venturebeat-2022/venturebeat-2022-08-28T18:21:26.664462-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 138 accessibility trees with the Internet Archive.
+The archiving routine has saved 143 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 4 at 6:27 PM](https://archive.org/download/venturebeat-2022/venturebeat-2022-09-04T18:27:30.734653-07:00.accessibility.json) |
+| [September 4 at 6:01 AM](https://archive.org/download/venturebeat-2022/venturebeat-2022-09-04T06:01:02.533798-07:00.accessibility.json) |
+| [September 3 at 6:17 PM](https://archive.org/download/venturebeat-2022/venturebeat-2022-09-03T18:17:39.982819-07:00.accessibility.json) |
+| [September 3 at 6:15 AM](https://archive.org/download/venturebeat-2022/venturebeat-2022-09-03T06:15:40.164994-07:00.accessibility.json) |
+| [September 2 at 6:27 PM](https://archive.org/download/venturebeat-2022/venturebeat-2022-09-02T18:27:07.432590-07:00.accessibility.json) |
 | [September 2 at 6:09 AM](https://archive.org/download/venturebeat-2022/venturebeat-2022-09-02T06:08:55.325421-07:00.accessibility.json) |
 | [September 1 at 6:21 PM](https://archive.org/download/venturebeat-2022/venturebeat-2022-09-01T18:21:22.970438-07:00.accessibility.json) |
 | [September 1 at 6:17 AM](https://archive.org/download/venturebeat-2022/venturebeat-2022-09-01T06:16:55.887799-07:00.accessibility.json) |
 | [August 31 at 6:21 PM](https://archive.org/download/venturebeat-2022/venturebeat-2022-08-31T18:21:05.477292-07:00.accessibility.json) |
 | [August 31 at 6:18 AM](https://archive.org/download/venturebeat-2022/venturebeat-2022-08-31T06:18:16.684552-07:00.accessibility.json) |
-| [August 30 at 6:30 PM](https://archive.org/download/venturebeat-2022/venturebeat-2022-08-30T18:30:34.507924-07:00.accessibility.json) |
-| [August 30 at 6:14 AM](https://archive.org/download/venturebeat-2022/venturebeat-2022-08-30T06:14:45.630422-07:00.accessibility.json) |
-| [August 29 at 6:21 PM](https://archive.org/download/venturebeat-2022/venturebeat-2022-08-29T18:21:18.107312-07:00.accessibility.json) |
-| [August 29 at 6:05 AM](https://archive.org/download/venturebeat-2022/venturebeat-2022-08-29T06:05:43.234585-07:00.accessibility.json) |
-| [August 28 at 6:21 PM](https://archive.org/download/venturebeat-2022/venturebeat-2022-08-28T18:21:26.664462-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 85 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 90 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 4 at 6:27 PM](https://archive.org/download/venturebeat-2022/venturebeat-2022-09-04T18:27:30.734653-07:00.lighthouse.json) |
+| [September 4 at 6:01 AM](https://archive.org/download/venturebeat-2022/venturebeat-2022-09-04T06:01:02.533798-07:00.lighthouse.json) |
+| [September 3 at 6:17 PM](https://archive.org/download/venturebeat-2022/venturebeat-2022-09-03T18:17:39.982819-07:00.lighthouse.json) |
+| [September 3 at 6:15 AM](https://archive.org/download/venturebeat-2022/venturebeat-2022-09-03T06:15:40.164994-07:00.lighthouse.json) |
+| [September 2 at 6:27 PM](https://archive.org/download/venturebeat-2022/venturebeat-2022-09-02T18:27:07.432590-07:00.lighthouse.json) |
 | [September 2 at 6:09 AM](https://archive.org/download/venturebeat-2022/venturebeat-2022-09-02T06:08:55.325421-07:00.lighthouse.json) |
 | [September 1 at 6:21 PM](https://archive.org/download/venturebeat-2022/venturebeat-2022-09-01T18:21:22.970438-07:00.lighthouse.json) |
 | [September 1 at 6:17 AM](https://archive.org/download/venturebeat-2022/venturebeat-2022-09-01T06:16:55.887799-07:00.lighthouse.json) |
 | [August 31 at 6:21 PM](https://archive.org/download/venturebeat-2022/venturebeat-2022-08-31T18:21:05.477292-07:00.lighthouse.json) |
 | [August 31 at 6:18 AM](https://archive.org/download/venturebeat-2022/venturebeat-2022-08-31T06:18:16.684552-07:00.lighthouse.json) |
-| [August 30 at 6:30 PM](https://archive.org/download/venturebeat-2022/venturebeat-2022-08-30T18:30:34.507924-07:00.lighthouse.json) |
-| [August 30 at 6:14 AM](https://archive.org/download/venturebeat-2022/venturebeat-2022-08-30T06:14:45.630422-07:00.lighthouse.json) |
-| [August 29 at 6:21 PM](https://archive.org/download/venturebeat-2022/venturebeat-2022-08-29T18:21:18.107312-07:00.lighthouse.json) |
-| [August 29 at 6:05 AM](https://archive.org/download/venturebeat-2022/venturebeat-2022-08-29T06:05:43.234585-07:00.lighthouse.json) |
-| [August 28 at 6:21 PM](https://archive.org/download/venturebeat-2022/venturebeat-2022-08-28T18:21:26.664462-07:00.lighthouse.json) |
 
 
 
