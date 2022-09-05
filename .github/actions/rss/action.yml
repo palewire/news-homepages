@@ -36,16 +36,6 @@ runs:
         git config pull.rebase false
       shell: bash
 
-    - id: git-status
-      name: Git status
-      run: git status
-      shell: bash
-
-    - id: git-pull
-      name: Git pull
-      run: git pull origin $GITHUB_REF
-      shell: bash
-
     - id: git-add
       name: Git add
       run: git add ./docs/_extra/rss
@@ -54,4 +44,14 @@ runs:
     - id: git-commit
       name: Git commit
       run: git commit -m "Update RSS" --author="palewire <palewire@users.noreply.github.com>" && git push || true
+      shell: bash
+
+    - id: git-pull
+      name: Git pull
+      run: git pull origin $GITHUB_REF
+      shell: bash
+
+    - id: git-push
+      name: Git push
+      run: git push || true
       shell: bash
