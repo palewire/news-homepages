@@ -1,5 +1,5 @@
 {
-  "created": 1662163181,
+  "created": 1662335732,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/26/items/jessicavalenti-2022",
@@ -2526,31 +2526,279 @@
       "sha1": "3887436f76d243c1fbe8168ad006b574359ee69f"
     },
     {
+      "name": "jessicavalenti-2022-09-03T08:02:14.605353-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662206539",
+      "size": "13201",
+      "md5": "d2eff2eb1949827aecafabb9727159f9",
+      "crc32": "e61ec289",
+      "sha1": "c85994cd251f3204da586b5667f1e11e293a5a25",
+      "format": "JSON"
+    },
+    {
+      "name": "jessicavalenti-2022-09-03T08:02:14.605353-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662206541",
+      "size": "10747",
+      "md5": "eff69ab4ae731195190d77eb71181587",
+      "crc32": "3e084d0d",
+      "sha1": "cfa6c771aa4ffcc82c63d4bc62c97efcadd745d5",
+      "format": "JSON"
+    },
+    {
+      "name": "jessicavalenti-2022-09-03T08:02:14.605353-04:00.jpg",
+      "source": "original",
+      "mtime": "1662206537",
+      "size": "222394",
+      "md5": "5991cb8751c137ed799c7f1e720a40ba",
+      "crc32": "420db4d6",
+      "sha1": "9dac9cfcf49c73c914cd6039a8d06d98fb2389e1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jessicavalenti-2022-09-03T08:02:14.605353-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662206543",
+      "size": "1504",
+      "md5": "f97b68ad383ef00ee50ca0def7569d5d",
+      "crc32": "2ffe3102",
+      "sha1": "95b69e5c851063d8c41ef31727bc1485b45efac2",
+      "format": "JSON"
+    },
+    {
+      "name": "jessicavalenti-2022-09-03T08:02:14.605353-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662206545",
+      "size": "9414",
+      "md5": "565c9658185a2a03390855bd6aa52044",
+      "crc32": "a4d413af",
+      "sha1": "19d874d892e68c63f1762d7761b4edf09920d147",
+      "format": "JSON"
+    },
+    {
+      "name": "jessicavalenti-2022-09-03T08:02:14.605353-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jessicavalenti-2022-09-03T08:02:14.605353-04:00.jpg",
+      "mtime": "1662206601",
+      "size": "8275",
+      "md5": "f56dad97843d62f05cd919e9d9361cb2",
+      "crc32": "c8ac314e",
+      "sha1": "31335f33bb99a9e07796839e7c98ff95b903e252"
+    },
+    {
+      "name": "jessicavalenti-2022-09-03T19:48:12.506514-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662248898",
+      "size": "13197",
+      "md5": "7c6ea6500f32b9239063f305af86e068",
+      "crc32": "e1bb89b0",
+      "sha1": "0490e57ccfc100e7ae2f29bfb2332b5cddab683e",
+      "format": "JSON"
+    },
+    {
+      "name": "jessicavalenti-2022-09-03T19:48:12.506514-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662248900",
+      "size": "10747",
+      "md5": "62c9bffba2fab1c447864b6ecf647751",
+      "crc32": "f88bfbe6",
+      "sha1": "f2b8bda56ce8c95fddec27e60143e2c74d424c3e",
+      "format": "JSON"
+    },
+    {
+      "name": "jessicavalenti-2022-09-03T19:48:12.506514-04:00.jpg",
+      "source": "original",
+      "mtime": "1662248895",
+      "size": "222073",
+      "md5": "7b43b85d83bc2bd992770aa91f34912d",
+      "crc32": "e3a8768b",
+      "sha1": "a16d325f5d6aefa7639afd7929eae05d86d9e199",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jessicavalenti-2022-09-03T19:48:12.506514-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662248902",
+      "size": "1504",
+      "md5": "966f35a86589514371b81bb7fdc898d2",
+      "crc32": "d2c22663",
+      "sha1": "b33228ccd4ec882a1be181667604a908963be02b",
+      "format": "JSON"
+    },
+    {
+      "name": "jessicavalenti-2022-09-03T19:48:12.506514-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662248903",
+      "size": "9413",
+      "md5": "a87067b2cc04b19cf6cb9b50542a95d9",
+      "crc32": "a069610d",
+      "sha1": "0b4c71c0629fa6d1494ea093a1737eef2290bca2",
+      "format": "JSON"
+    },
+    {
+      "name": "jessicavalenti-2022-09-03T19:48:12.506514-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jessicavalenti-2022-09-03T19:48:12.506514-04:00.jpg",
+      "mtime": "1662248955",
+      "size": "8285",
+      "md5": "a8ed11be48fce917bee4a67468d88a0a",
+      "crc32": "367b52b0",
+      "sha1": "6e09a3e05e109c2b8d40e40b2f81045c9145a637"
+    },
+    {
+      "name": "jessicavalenti-2022-09-04T07:55:07.024567-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662292511",
+      "size": "13197",
+      "md5": "19931f57c9f9b72dc367630e24d17903",
+      "crc32": "87b081ff",
+      "sha1": "ee03bb9c838e0f05a8e0340422ddebc7a24a11de",
+      "format": "JSON"
+    },
+    {
+      "name": "jessicavalenti-2022-09-04T07:55:07.024567-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662292513",
+      "size": "10747",
+      "md5": "bcaeeb4064a17b05d8cfe64dfeb97957",
+      "crc32": "3a24a081",
+      "sha1": "cc381adf84928538fb6f8988ace6f6808daa9d29",
+      "format": "JSON"
+    },
+    {
+      "name": "jessicavalenti-2022-09-04T07:55:07.024567-04:00.jpg",
+      "source": "original",
+      "mtime": "1662292510",
+      "size": "222001",
+      "md5": "5d949520e05cab2f672a727ee6036cfd",
+      "crc32": "4c82dbd5",
+      "sha1": "756e3ef985e9a3f26aa84083914e775591dc35e5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jessicavalenti-2022-09-04T07:55:07.024567-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662292514",
+      "size": "1504",
+      "md5": "5b7fabc85c8d7d5f6870e390294c377f",
+      "crc32": "b959c584",
+      "sha1": "9fe0456c6bb210074ce8b1384e8526decdba4cf1",
+      "format": "JSON"
+    },
+    {
+      "name": "jessicavalenti-2022-09-04T07:55:07.024567-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662292516",
+      "size": "9413",
+      "md5": "8b9d48da83b8730e1759d29bca2289db",
+      "crc32": "e54451c6",
+      "sha1": "03a7643b6b0afa706c76c2b91011da86d067b44d",
+      "format": "JSON"
+    },
+    {
+      "name": "jessicavalenti-2022-09-04T07:55:07.024567-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jessicavalenti-2022-09-04T07:55:07.024567-04:00.jpg",
+      "mtime": "1662292564",
+      "size": "8287",
+      "md5": "5111b4474f152bec15a88fa59f4948a1",
+      "crc32": "b2608c46",
+      "sha1": "32e884fc0371fd9d051dfe75b7fba355230fa3e3"
+    },
+    {
+      "name": "jessicavalenti-2022-09-04T19:54:13.865669-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662335656",
+      "size": "13197",
+      "md5": "2fc811b7fa8532be75132432df4e8a9b",
+      "crc32": "c319e21e",
+      "sha1": "fed7135f41b7cc105d7091c8ca3a5f44e83674f4",
+      "format": "JSON"
+    },
+    {
+      "name": "jessicavalenti-2022-09-04T19:54:13.865669-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662335658",
+      "size": "10747",
+      "md5": "59654b14c9b73ee3fd6560b4bde8523f",
+      "crc32": "bea24c60",
+      "sha1": "e2dbeed2653248228d4b15af7f404f1c5b947d97",
+      "format": "JSON"
+    },
+    {
+      "name": "jessicavalenti-2022-09-04T19:54:13.865669-04:00.jpg",
+      "source": "original",
+      "mtime": "1662335655",
+      "size": "222261",
+      "md5": "1ce0d020ef8ef51cdff7c0065aba7b88",
+      "crc32": "4b92addb",
+      "sha1": "c6cb7ce3ebf95f6aa9627752274e0b3612a97982",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jessicavalenti-2022-09-04T19:54:13.865669-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662335660",
+      "size": "1504",
+      "md5": "2b22f45e5ed0520d3c5fd7e29bd7d413",
+      "crc32": "1fa77f84",
+      "sha1": "da0e82c6d7c84be78a8071b0b668fba585ea28a1",
+      "format": "JSON"
+    },
+    {
+      "name": "jessicavalenti-2022-09-04T19:54:13.865669-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662335661",
+      "size": "9340",
+      "md5": "4df71e4771ef29f5d1f47aa6e4276172",
+      "crc32": "ee8a8e16",
+      "sha1": "5e17f95c61adb3adab8f8725e063ed116f448e62",
+      "format": "JSON"
+    },
+    {
+      "name": "jessicavalenti-2022-09-04T19:54:13.865669-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jessicavalenti-2022-09-04T19:54:13.865669-04:00.jpg",
+      "mtime": "1662335717",
+      "size": "8289",
+      "md5": "1ebf9efd45fedd78dcf1244ad6e4989b",
+      "crc32": "c978d60a",
+      "sha1": "d98d512249cd744ab3f7b08ba090cefa085b34f6"
+    },
+    {
       "name": "jessicavalenti-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2e9f609dde2605ad20feaee5fa1c8928bdf968b6",
-      "mtime": "1662163175",
-      "size": "54005",
-      "md5": "7a4c8ce828f48a8c2a454ea2e8d3441b",
-      "crc32": "014eee3e",
-      "sha1": "b2d9f894a7d2fb1fb8e64f92a449c947c9bf964d",
+      "btih": "0526472fa6ab49643eb3e8a9d3fd324ddd0308c9",
+      "mtime": "1662335722",
+      "size": "59173",
+      "md5": "d2c474e347997652103c68ff93a19bab",
+      "crc32": "1dfbcf54",
+      "sha1": "56d4b8f758f6251b32a0ee5829c153f1da3d4c7c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jessicavalenti-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "26a3ea82fa93eaba019dda18b6dd6660",
+      "md5": "53450ff55a19bb3441044ddb98eb49f9",
       "summation": "md5"
     },
     {
       "name": "jessicavalenti-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662163128",
-      "size": "335872",
-      "md5": "483c22284eff0143af56464a1db11f2c",
-      "crc32": "15e88c0e",
-      "sha1": "53e3050be85d4c9598435382cef5d429188869da",
+      "mtime": "1662335670",
+      "size": "364544",
+      "md5": "ff91d3a088a36be192de29e93c9af6a4",
+      "crc32": "bd8a5644",
+      "sha1": "42b2b6b83d14b69ad8ef386cfb0354b68c2b6b29",
       "format": "Metadata"
     },
     {
@@ -2564,9 +2812,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 248,
-  "item_last_updated": 1662163175,
-  "item_size": 10861663,
+  "files_count": 272,
+  "item_last_updated": 1662335722,
+  "item_size": 11956744,
   "metadata": {
     "identifier": "jessicavalenti-2022",
     "collection": [
@@ -2583,10 +2831,10 @@
     "publicdate": "2022-08-14 20:19:10",
     "addeddate": "2022-08-14 20:19:10"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 2037515058,
+  "server": "ia601403.us.archive.org",
+  "uniq": 1930264601,
   "workable_servers": [
-    "ia801403.us.archive.org",
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

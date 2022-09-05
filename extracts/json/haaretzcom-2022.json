@@ -1,5 +1,5 @@
 {
-  "created": 1662163125,
+  "created": 1662335569,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/17/items/haaretzcom-2022",
@@ -2518,31 +2518,279 @@
       "sha1": "df0e3b5cd13805c96157434fcea3d46052dfec61"
     },
     {
+      "name": "haaretzcom-2022-09-03T15:00:57.276477+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662206460",
+      "size": "140182",
+      "md5": "d8462596e4936f16eed05b9d4e912cc7",
+      "crc32": "d5468144",
+      "sha1": "c6bffa8d53d0b7a2ce2104966d49e443a5e2df6c",
+      "format": "JSON"
+    },
+    {
+      "name": "haaretzcom-2022-09-03T15:00:57.276477+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662206466",
+      "size": "104346",
+      "md5": "2674f20ccad2f41216f913cc05f6bd1a",
+      "crc32": "961a686e",
+      "sha1": "4e2d7ddff4e69639d3d95bf236505c6a23b8d711",
+      "format": "JSON"
+    },
+    {
+      "name": "haaretzcom-2022-09-03T15:00:57.276477+03:00.jpg",
+      "source": "original",
+      "mtime": "1662206458",
+      "size": "228509",
+      "md5": "1b939820d8f3637f166de824c968665b",
+      "crc32": "cb4cc9f8",
+      "sha1": "f22a54b05882209fad177f4b0e031cbd6b662939",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "haaretzcom-2022-09-03T15:00:57.276477+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662206468",
+      "size": "1485",
+      "md5": "52ef80b00c470b113eebaa6abe72db33",
+      "crc32": "3bbc7477",
+      "sha1": "5a5f6be4f17c4490767d2f06578fc767e0f377ec",
+      "format": "JSON"
+    },
+    {
+      "name": "haaretzcom-2022-09-03T15:00:57.276477+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1662206470",
+      "size": "77669",
+      "md5": "e75905afdfb8d32f96817b719039ba37",
+      "crc32": "d701e4e0",
+      "sha1": "3cc554ea1d7f0ff648ae51476b3eb21382e434c3",
+      "format": "JSON"
+    },
+    {
+      "name": "haaretzcom-2022-09-03T15:00:57.276477+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "haaretzcom-2022-09-03T15:00:57.276477+03:00.jpg",
+      "mtime": "1662206522",
+      "size": "9447",
+      "md5": "6ccc05d3b2321054c9d9ed1863fff39a",
+      "crc32": "a81e1fd6",
+      "sha1": "4b8dae589dc43f5c0d2490af9ddc386fc9b9cf2d"
+    },
+    {
+      "name": "haaretzcom-2022-09-04T02:46:12.823516+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662248777",
+      "size": "141143",
+      "md5": "dbc2c5b4967c0da2ef65b79e2d8a98cb",
+      "crc32": "e05bbf14",
+      "sha1": "556328a4825c2e1a62f5cc6645e555b43b21faaf",
+      "format": "JSON"
+    },
+    {
+      "name": "haaretzcom-2022-09-04T02:46:12.823516+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662248778",
+      "size": "102614",
+      "md5": "f1890d4776786144df9ff961311d98c6",
+      "crc32": "34eda9d5",
+      "sha1": "ae878c50cde26efa616fe644aad845696f2fe460",
+      "format": "JSON"
+    },
+    {
+      "name": "haaretzcom-2022-09-04T02:46:12.823516+03:00.jpg",
+      "source": "original",
+      "mtime": "1662248775",
+      "size": "236861",
+      "md5": "3584050a9bbbb1869f4861d29a8e0a5b",
+      "crc32": "f468bfbd",
+      "sha1": "40dff71107f60bec0678fd546aaf98b3b627e6cb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "haaretzcom-2022-09-04T02:46:12.823516+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662248783",
+      "size": "1485",
+      "md5": "1cd11d6969c307da3bdd16ac361d9fca",
+      "crc32": "9a1fc048",
+      "sha1": "26f46fdc945e5fea3fede53548652ced9ce68656",
+      "format": "JSON"
+    },
+    {
+      "name": "haaretzcom-2022-09-04T02:46:12.823516+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1662248785",
+      "size": "80870",
+      "md5": "bc4750fdc690ae4862c4f3f9937bb725",
+      "crc32": "07f14522",
+      "sha1": "70e0b780d58e1080a6e6f539b3d9065be9a783a7",
+      "format": "JSON"
+    },
+    {
+      "name": "haaretzcom-2022-09-04T02:46:12.823516+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "haaretzcom-2022-09-04T02:46:12.823516+03:00.jpg",
+      "mtime": "1662248836",
+      "size": "9658",
+      "md5": "88c64d612334544ac500bdac971e686d",
+      "crc32": "f1932ce8",
+      "sha1": "144dbda86879dbb45faa855b940e3df70ca02f66"
+    },
+    {
+      "name": "haaretzcom-2022-09-04T14:55:01.914831+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662292505",
+      "size": "144180",
+      "md5": "46a050a516cf3ba2050c99e9b998f129",
+      "crc32": "7cf8405b",
+      "sha1": "0f52b9f906a80b2ba7782e12fe95253b39473830",
+      "format": "JSON"
+    },
+    {
+      "name": "haaretzcom-2022-09-04T14:55:01.914831+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662292506",
+      "size": "106912",
+      "md5": "6d95857833b8b8a5d48cffa6d3ed4c0c",
+      "crc32": "151ed15b",
+      "sha1": "cc97bf48813dd7a0cb4eabd689b624641d500a27",
+      "format": "JSON"
+    },
+    {
+      "name": "haaretzcom-2022-09-04T14:55:01.914831+03:00.jpg",
+      "source": "original",
+      "mtime": "1662292504",
+      "size": "247557",
+      "md5": "f71963390c960a105a8a64a623e0bb48",
+      "crc32": "defd61ae",
+      "sha1": "c966a89f4f43a14a554fbb7bd2fdf62c94b80aeb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "haaretzcom-2022-09-04T14:55:01.914831+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662292508",
+      "size": "1486",
+      "md5": "171c657bb1948769da2cdaa843e3db29",
+      "crc32": "9e7c0b56",
+      "sha1": "a4ae43ab0f06830d5913b37d86539fb805d5a255",
+      "format": "JSON"
+    },
+    {
+      "name": "haaretzcom-2022-09-04T14:55:01.914831+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1662292509",
+      "size": "80269",
+      "md5": "8c550e83b698bfee676dc2568540af85",
+      "crc32": "7514c9e6",
+      "sha1": "1e23dc75236aa48364b337fe4ec2d74bde581a69",
+      "format": "JSON"
+    },
+    {
+      "name": "haaretzcom-2022-09-04T14:55:01.914831+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "haaretzcom-2022-09-04T14:55:01.914831+03:00.jpg",
+      "mtime": "1662292561",
+      "size": "9869",
+      "md5": "c2c19ab21ff230efa30ca40c986e8600",
+      "crc32": "8956ea15",
+      "sha1": "7cc1e660ef9347febe31b7686070e01a70780f1d"
+    },
+    {
+      "name": "haaretzcom-2022-09-05T02:51:37.050455+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662335500",
+      "size": "141784",
+      "md5": "2e3ed1adb0e07bcaaeab348847901b1d",
+      "crc32": "29c07c41",
+      "sha1": "c706c939082e0dd76417e2f3d5e60eb9cba11145",
+      "format": "JSON"
+    },
+    {
+      "name": "haaretzcom-2022-09-05T02:51:37.050455+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662335502",
+      "size": "106127",
+      "md5": "a5ffe43fc41b44e822c74d3a72beea0f",
+      "crc32": "d2cc34e4",
+      "sha1": "822795c27b2add0f328699ec12bd0938c0c086c8",
+      "format": "JSON"
+    },
+    {
+      "name": "haaretzcom-2022-09-05T02:51:37.050455+03:00.jpg",
+      "source": "original",
+      "mtime": "1662335499",
+      "size": "242965",
+      "md5": "f44b7d696e27c02c136b3e9910edecaf",
+      "crc32": "87a34e31",
+      "sha1": "986a8178b24e607e85c4e874a668bd3709704551",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "haaretzcom-2022-09-05T02:51:37.050455+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662335504",
+      "size": "1486",
+      "md5": "c72404bdc395b113e34317b45d7f7dd3",
+      "crc32": "14de32af",
+      "sha1": "2f87211f3cb92c3e0b684cf1ad600a37fdeb8709",
+      "format": "JSON"
+    },
+    {
+      "name": "haaretzcom-2022-09-05T02:51:37.050455+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1662335505",
+      "size": "78062",
+      "md5": "0630768c66e4980a46de689d7f6b1048",
+      "crc32": "bcd991a4",
+      "sha1": "05003f16ca585e185c7ce656bb826be0660358c7",
+      "format": "JSON"
+    },
+    {
+      "name": "haaretzcom-2022-09-05T02:51:37.050455+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "haaretzcom-2022-09-05T02:51:37.050455+03:00.jpg",
+      "mtime": "1662335558",
+      "size": "9746",
+      "md5": "d0a2501d73d8d358902de33c19175609",
+      "crc32": "385798e2",
+      "sha1": "af56534ea6fbb09e422753d772a7d2d698ccc193"
+    },
+    {
       "name": "haaretzcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "317d1b5edb8f274a6a4d806ed91266b442f37d46",
-      "mtime": "1662163120",
-      "size": "53289",
-      "md5": "2907abee783706547df7999b0df98c31",
-      "crc32": "362611a6",
-      "sha1": "5624e99ad15340258f5d414f34df7e019ee350d1",
+      "btih": "cfbbae095bcc4b316af32ad0ef9e949c4829b7b7",
+      "mtime": "1662335561",
+      "size": "58433",
+      "md5": "8a34663e338c5e43a87637a68b2a1fa1",
+      "crc32": "043b66a9",
+      "sha1": "a9db27d06512ff7a106dd5ffc2b4510c57ef47a4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "haaretzcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "44bcb380c64060a2df9e3c749bf6ae1b",
+      "md5": "49a02e2caba83a91c3222dc445acf041",
       "summation": "md5"
     },
     {
       "name": "haaretzcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662163070",
-      "size": "327680",
-      "md5": "0417e4f8db20dc8911d2094ffac53c33",
-      "crc32": "e1104573",
-      "sha1": "5a1ca3b9209a2f1077c34cf673418ff74527cdc6",
+      "mtime": "1662335511",
+      "size": "360448",
+      "md5": "76d5c41e75c36268fe9879c6660eee24",
+      "crc32": "ebb39d84",
+      "sha1": "ddc41177a08d021796be68c40da34e1119d24538",
       "format": "Metadata"
     },
     {
@@ -2556,9 +2804,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 247,
-  "item_last_updated": 1662163120,
-  "item_size": 22365551,
+  "files_count": 271,
+  "item_last_updated": 1662335561,
+  "item_size": 24708175,
   "metadata": {
     "identifier": "haaretzcom-2022",
     "collection": [
@@ -2576,7 +2824,7 @@
     "addeddate": "2022-08-13 23:57:56"
   },
   "server": "ia801406.us.archive.org",
-  "uniq": 1022199078,
+  "uniq": 82830367,
   "workable_servers": [
     "ia801406.us.archive.org",
     "ia601406.us.archive.org"
