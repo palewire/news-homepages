@@ -1,5 +1,5 @@
 {
-  "created": 1662353796,
+  "created": 1662369416,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/7/items/theipaper-2022",
@@ -3736,31 +3736,93 @@
       "sha1": "ffddf6dff9f35bede6273f4a034e28bc824a4b60"
     },
     {
+      "name": "theipaper-2022-09-05T10:15:52.216741+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662369357",
+      "size": "85693",
+      "md5": "44836e5b28778f39d2c8e989859c309b",
+      "crc32": "3d78a481",
+      "sha1": "b21c5d3e67f02e50f01ce777bd3fd8f3c246fccd",
+      "format": "JSON"
+    },
+    {
+      "name": "theipaper-2022-09-05T10:15:52.216741+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662369358",
+      "size": "71247",
+      "md5": "7c8b9a27a8e21bc86926266dee61acc5",
+      "crc32": "1e1f3ede",
+      "sha1": "002031f13bec12965d2588aa9153f817ffe7bb48",
+      "format": "JSON"
+    },
+    {
+      "name": "theipaper-2022-09-05T10:15:52.216741+01:00.jpg",
+      "source": "original",
+      "mtime": "1662369355",
+      "size": "297971",
+      "md5": "fd97311044150890fc804a36e0291163",
+      "crc32": "29f631c8",
+      "sha1": "c484dc14dd0174572b76d38ec083e36e0184461b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theipaper-2022-09-05T10:15:52.216741+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662369359",
+      "size": "1428",
+      "md5": "bb177e349783bea56f7b7c79e1230506",
+      "crc32": "d38ca56a",
+      "sha1": "4d4f4eebb9b73453b8c5e2a3fbf784583a754a72",
+      "format": "JSON"
+    },
+    {
+      "name": "theipaper-2022-09-05T10:15:52.216741+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1662369361",
+      "size": "22059",
+      "md5": "c7a4dbac99e50b7ad922bc33af8a7008",
+      "crc32": "80984b31",
+      "sha1": "1d4ffe40623213a0e06d5b5b0416abb14ec0f4ba",
+      "format": "JSON"
+    },
+    {
+      "name": "theipaper-2022-09-05T10:15:52.216741+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theipaper-2022-09-05T10:15:52.216741+01:00.jpg",
+      "mtime": "1662369408",
+      "size": "10273",
+      "md5": "5eb6e3479642375974b4ac5b44252944",
+      "crc32": "f59232b4",
+      "sha1": "604ccfba3961348c9136ef0dae90707a8e35cd1d"
+    },
+    {
       "name": "theipaper-2022_archive.torrent",
       "source": "metadata",
-      "btih": "38dc1cd6c409ec70865c90d9103af4a7e5f94ff7",
-      "mtime": "1662353787",
-      "size": "77922",
-      "md5": "ecd1b652cbb2defd0f675fe4d36d7f3f",
-      "crc32": "67daef61",
-      "sha1": "7b8d6a8bcad1c83227be2ccfb6a2391f29049f65",
+      "btih": "e91ac37538448d8566e34ec9358e4e125f3faba7",
+      "mtime": "1662369412",
+      "size": "79196",
+      "md5": "b07b23f46dae6953d17e701f31fc3eb4",
+      "crc32": "ce6bd842",
+      "sha1": "ad7bc49edcf19bceddb6d05e506d5de59e0f58b0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theipaper-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4242df6a3cfa3d39ad5ee87ca512354d",
+      "md5": "46aa82b32e87e46bc9226bd8ff1a9aff",
       "summation": "md5"
     },
     {
       "name": "theipaper-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662353732",
-      "size": "475136",
-      "md5": "53f62256e39c3dfb40f0afb859dde4c4",
-      "crc32": "c866d5a0",
-      "sha1": "e670cb63bf5d73be9912cd9e6031a567a7c49129",
+      "mtime": "1662369365",
+      "size": "483328",
+      "md5": "1df14f1964e935bd54496406228758b3",
+      "crc32": "47d68d03",
+      "sha1": "ff9c48069245bd9379d8b5c7a93cb95367186061",
       "format": "Metadata"
     },
     {
@@ -3774,9 +3836,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 365,
-  "item_last_updated": 1662353787,
-  "item_size": 29170689,
+  "files_count": 371,
+  "item_last_updated": 1662369412,
+  "item_size": 29668826,
   "metadata": {
     "identifier": "theipaper-2022",
     "collection": [
@@ -3793,10 +3855,10 @@
     "publicdate": "2022-08-15 06:48:06",
     "addeddate": "2022-08-15 06:48:06"
   },
-  "server": "ia601506.us.archive.org",
-  "uniq": 1071744833,
+  "server": "ia801506.us.archive.org",
+  "uniq": 252902725,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia801506.us.archive.org",
+    "ia601506.us.archive.org"
   ]
 }

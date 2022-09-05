@@ -1,5 +1,5 @@
 {
-  "created": 1662344998,
+  "created": 1662369483,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/3/items/bbc-2022",
@@ -20416,31 +20416,82 @@
       "sha1": "d9538392ddb2ea6983b139ca0a36967ac11d1edd"
     },
     {
+      "name": "bbc-2022-09-05T10:15:33.959170+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662369338",
+      "size": "24168",
+      "md5": "777d000cd106b456f8efe59b327355c5",
+      "crc32": "853f1d96",
+      "sha1": "25249ba1b41206dd2b5de3ef68f8b23b5b931074",
+      "format": "JSON"
+    },
+    {
+      "name": "bbc-2022-09-05T10:15:33.959170+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662369340",
+      "size": "26925",
+      "md5": "5c8115304d2d06a4b81c919dd87311b0",
+      "crc32": "2c721a12",
+      "sha1": "b93116d3888b6e5a05def1e29b5b667329833801",
+      "format": "JSON"
+    },
+    {
+      "name": "bbc-2022-09-05T10:15:33.959170+01:00.jpg",
+      "source": "original",
+      "mtime": "1662369336",
+      "size": "291038",
+      "md5": "9e9f69b7293a23d9724d44881cdf9cee",
+      "crc32": "c660ec81",
+      "sha1": "5af177acb8b37f4e5a566df81dbd4f01706e05b8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bbc-2022-09-05T10:15:33.959170+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662369342",
+      "size": "1467",
+      "md5": "e0691b14e56b03d078a17d0138ebc1b1",
+      "crc32": "bf654527",
+      "sha1": "aa1dd9c50ffae60abe079cc69bcd4ff08afcf1ee",
+      "format": "JSON"
+    },
+    {
+      "name": "bbc-2022-09-05T10:15:33.959170+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1662369344",
+      "size": "231",
+      "md5": "cdee14de267b6aa3235ecd6da38b802d",
+      "crc32": "ddff2eed",
+      "sha1": "1b3507ec80ab0e150235597ae5025146570c9874",
+      "format": "JSON"
+    },
+    {
       "name": "bbc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2e4550a7d6fef7a26a87b053c16fb81003caf183",
-      "mtime": "1662344985",
-      "size": "403647",
-      "md5": "164edf8a2c04720e59e7dab5863ecf70",
-      "crc32": "98837364",
-      "sha1": "c751136138a25e2c2a97be84dce5a65f8347fc4d",
+      "btih": "d9312cd5c43d25b6153ead6e34ce70ad81fc255b",
+      "mtime": "1662369476",
+      "size": "404683",
+      "md5": "f7dc3510ef17dc6a23546d1f00a0fee1",
+      "crc32": "dff17621",
+      "sha1": "cfceee67029073e2d26d08fd095c5a1b8fe29038",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bbc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7532fc4a0178ac5ed4b3c49335a2f5ce",
+      "md5": "5d69c069a9b588012801b883ff00fd64",
       "summation": "md5"
     },
     {
       "name": "bbc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662344876",
-      "size": "2293760",
-      "md5": "a5929d0f2c33b5843f91e3be6c85985f",
-      "crc32": "1cc23f56",
-      "sha1": "aa5bfa07b1998036ec3df95bc80fe3a6f97e3a56",
+      "mtime": "1662369372",
+      "size": "2301952",
+      "md5": "67bd8895dbad99d061e7a9469f259865",
+      "crc32": "73c11f20",
+      "sha1": "ae5858d6700cae698cae09569af668905d0a4495",
       "format": "Metadata"
     },
     {
@@ -20454,9 +20505,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1957,
-  "item_last_updated": 1662344985,
-  "item_size": 175715066,
+  "files_count": 1962,
+  "item_last_updated": 1662369476,
+  "item_size": 176068123,
   "metadata": {
     "identifier": "bbc-2022",
     "collection": [
@@ -20473,10 +20524,21 @@
     "publicdate": "2022-03-23 01:47:02",
     "addeddate": "2022-03-23 01:47:02"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 802405224,
+  "pending_tasks": true,
+  "server": "ia902502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3394242562,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 112887778,
   "workable_servers": [
-    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }
