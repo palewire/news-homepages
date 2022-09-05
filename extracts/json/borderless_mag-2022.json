@@ -1,5 +1,5 @@
 {
-  "created": 1662375684,
+  "created": 1662395478,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/2/items/borderless_mag-2022",
@@ -1918,31 +1918,93 @@
       "sha1": "c56bebe583903ad82bc163c7fc85c853fc7c4eee"
     },
     {
+      "name": "borderless_mag-2022-09-05T11:30:04.667161-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662395410",
+      "size": "1041",
+      "md5": "6f54e664f9c1c2fb944da6af5a6c2da3",
+      "crc32": "b40b939a",
+      "sha1": "2cfc0c6bebb49d02abc0dc360afceb814ab9d323",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-05T11:30:04.667161-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662395413",
+      "size": "25947",
+      "md5": "dbe59ef9b63b74daffd79f5c3762f7e1",
+      "crc32": "05fe96ab",
+      "sha1": "97a7c505d5ee07691485b519982cc35232508d93",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-05T11:30:04.667161-05:00.jpg",
+      "source": "original",
+      "mtime": "1662395407",
+      "size": "264018",
+      "md5": "4b4af0aaf796eb26ae5050eba89bb676",
+      "crc32": "f1efa643",
+      "sha1": "96d4d6dfb47e4a83af9985084247511499f82290",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "borderless_mag-2022-09-05T11:30:04.667161-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662395416",
+      "size": "1485",
+      "md5": "9e41de58606cad9b810a8396be60bf60",
+      "crc32": "33ae248a",
+      "sha1": "71f3fa135930560af6c13f1f11539cea90917a86",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-05T11:30:04.667161-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662395419",
+      "size": "10747",
+      "md5": "c456ee022dbb5fe22573e75b5b966b2c",
+      "crc32": "7b7d7597",
+      "sha1": "3e8d6f688fcb3138268e1fa51278cc0a9963201d",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-05T11:30:04.667161-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "borderless_mag-2022-09-05T11:30:04.667161-05:00.jpg",
+      "mtime": "1662395466",
+      "size": "9093",
+      "md5": "379ab1ffe4a28003f119786c71e90c21",
+      "crc32": "682fedb2",
+      "sha1": "c56bebe583903ad82bc163c7fc85c853fc7c4eee"
+    },
+    {
       "name": "borderless_mag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e783223e7e9ff5592a9c33c576227a7590e09c49",
-      "mtime": "1662375671",
-      "size": "41376",
-      "md5": "c937fe565098545dc2bef3f119a8f265",
-      "crc32": "032089bc",
-      "sha1": "0daf87200db10afe58488bd5c72528c156c8a4de",
+      "btih": "80e9fc6b39fd81957c30e62942c3d28464ae6828",
+      "mtime": "1662395470",
+      "size": "42658",
+      "md5": "4b9aa9f222fa662747bb78b2ae0cdce0",
+      "crc32": "5b924c63",
+      "sha1": "d8d4fa889da8b9d1632da51282c93cef08f801ea",
       "format": "Archive BitTorrent"
     },
     {
       "name": "borderless_mag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8d0a1de3629789c9591e1cf74d30e3c1",
+      "md5": "7c5726c013c6fe863c33569e2abb9a82",
       "summation": "md5"
     },
     {
       "name": "borderless_mag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662375620",
-      "size": "258048",
-      "md5": "424b83cd1222597ee0822cb17e583930",
-      "crc32": "5eccec8a",
-      "sha1": "100b108cf68a48f15c78ea35ba71a6a81ab2fb1a",
+      "mtime": "1662395423",
+      "size": "266240",
+      "md5": "8836139363c241d107a5745679f13691",
+      "crc32": "cd26fbd8",
+      "sha1": "d61bc691aa2cb36de117065216fe6a192a2b2c1d",
       "format": "Metadata"
     },
     {
@@ -1956,9 +2018,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 189,
-  "item_last_updated": 1662375671,
-  "item_size": 10159814,
+  "files_count": 195,
+  "item_last_updated": 1662395470,
+  "item_size": 10481619,
   "metadata": {
     "identifier": "borderless_mag-2022",
     "collection": [
@@ -1976,7 +2038,7 @@
     "addeddate": "2022-08-26 16:01:47"
   },
   "server": "ia801509.us.archive.org",
-  "uniq": 817819369,
+  "uniq": 268035061,
   "workable_servers": [
     "ia801509.us.archive.org",
     "ia601509.us.archive.org"
