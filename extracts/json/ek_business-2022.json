@@ -1,8 +1,12 @@
 {
-  "created": 1662345164,
+  "created": 1662391955,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/4/items/ek_business-2022",
+  "ek_business-2022": {
+    "url": "https://ekantipur.com/",
+    "job_id": "spn2-37d52f197cd0a04042ef7a5b0689f90d0601a6dc"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -5046,31 +5050,93 @@
       "sha1": "9f8b4360cb8938ab3724ed399c9cb3d1dd68155f"
     },
     {
+      "name": "ek_business-2022-09-05T20:11:25.688945+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1662387995",
+      "size": "137314",
+      "md5": "5cdc104659646d03294b50733040d6b0",
+      "crc32": "0f5818fc",
+      "sha1": "493f4b889c99010f2f4f190991c76a0847428228",
+      "format": "JSON"
+    },
+    {
+      "name": "ek_business-2022-09-05T20:11:25.688945+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662387996",
+      "size": "92348",
+      "md5": "16b8842fa65459278a33827a711c3d30",
+      "crc32": "6c6b4ca7",
+      "sha1": "3489fae8f8b8aaa4304076307110f474c4bcafbe",
+      "format": "JSON"
+    },
+    {
+      "name": "ek_business-2022-09-05T20:11:25.688945+05:45.jpg",
+      "source": "original",
+      "mtime": "1662387990",
+      "size": "237145",
+      "md5": "05927b82e0ce224bc2977bd970fc4318",
+      "crc32": "86435eb5",
+      "sha1": "153a9cd839f70ad8274d1d810866de855c599ece",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ek_business-2022-09-05T20:11:25.688945+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1662387998",
+      "size": "1447",
+      "md5": "c880fd94f0d6ce15834e10f74b246093",
+      "crc32": "8f3fd1a1",
+      "sha1": "b4ff0a3a7d127db63690e92854a60652e20f2267",
+      "format": "JSON"
+    },
+    {
+      "name": "ek_business-2022-09-05T20:11:25.688945+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1662388000",
+      "size": "98",
+      "md5": "9012256fede80fd9b8dc8bb206547bdc",
+      "crc32": "d858165d",
+      "sha1": "359cf995045935b1d99f1a2c8338684053886d91",
+      "format": "JSON"
+    },
+    {
+      "name": "ek_business-2022-09-05T20:11:25.688945+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ek_business-2022-09-05T20:11:25.688945+05:45.jpg",
+      "mtime": "1662388061",
+      "size": "9330",
+      "md5": "da4cd7bce09525186c87c611e7bc81e4",
+      "crc32": "3ca6e3c3",
+      "sha1": "ddcfbe4d05129f2336dcd36cd8a362aafdcccc5e"
+    },
+    {
       "name": "ek_business-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f422c814afa046a849cf551179ea46b9dbcc5b9e",
-      "mtime": "1662345157",
-      "size": "105907",
-      "md5": "a99013f9d9d8b28fbf4dabfc1b02d4db",
-      "crc32": "699b8a2b",
-      "sha1": "c913827c16a0a45b1d6c337acae9f7eaccdeca21",
+      "btih": "316af3140b5ca5f13c184d906f1293fe88d80611",
+      "mtime": "1662388070",
+      "size": "107190",
+      "md5": "ea43afb3dab1680cc0565e3ab3eddce2",
+      "crc32": "d4031c93",
+      "sha1": "f53efb650a07122516f4fe96de67a0c98058a927",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ek_business-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fa5c52e293d6f7a0d210073081b6c862",
+      "md5": "58e3cc796cc3007248911ada634d1c7c",
       "summation": "md5"
     },
     {
       "name": "ek_business-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662345095",
-      "size": "630784",
-      "md5": "4c6605b4d3e9bc15d02cb976364bcab6",
-      "crc32": "c085376e",
-      "sha1": "dbecef72909146dd3e1599f729870930e51a23a0",
+      "mtime": "1662388004",
+      "size": "643072",
+      "md5": "23d32310e681c0e00a774bbd8b0a7515",
+      "crc32": "384f9a4e",
+      "sha1": "6354e90293a2cd06d8e04e61343965c0834b6822",
       "format": "Metadata"
     },
     {
@@ -5084,9 +5150,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 491,
-  "item_last_updated": 1662345157,
-  "item_size": 45995165,
+  "files_count": 497,
+  "item_last_updated": 1662388070,
+  "item_size": 46486418,
   "metadata": {
     "identifier": "ek_business-2022",
     "collection": [
@@ -5103,10 +5169,10 @@
     "publicdate": "2022-07-24 20:37:50",
     "addeddate": "2022-07-24 20:37:50"
   },
-  "server": "ia801503.us.archive.org",
-  "uniq": 1128729195,
+  "server": "ia601503.us.archive.org",
+  "uniq": 963924194,
   "workable_servers": [
-    "ia801503.us.archive.org",
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }
