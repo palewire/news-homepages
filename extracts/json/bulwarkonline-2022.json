@@ -1,5 +1,5 @@
 {
-  "created": 1662332315,
+  "created": 1662375686,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/10/items/bulwarkonline-2022",
@@ -8308,31 +8308,93 @@
       "sha1": "23d3d6bd8efabed9966e5b5152ec4ac5d516b907"
     },
     {
+      "name": "bulwarkonline-2022-09-05T06:59:57.845153-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662375601",
+      "size": "8435",
+      "md5": "9992b858c1cf4c4b18d36b2878967216",
+      "crc32": "cba1de81",
+      "sha1": "f17675a628e77dbf4bc5f6fb5c8bc602acbf52d2",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-09-05T06:59:57.845153-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662375604",
+      "size": "7272",
+      "md5": "7f31ebe896b0213a7afb311f49d95ba9",
+      "crc32": "847c2285",
+      "sha1": "1d3c7db412634fc63c8ab68d20b752ef67027f84",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-09-05T06:59:57.845153-04:00.jpg",
+      "source": "original",
+      "mtime": "1662375599",
+      "size": "275105",
+      "md5": "2d29e9c1c29a3ec4517dd2896e525978",
+      "crc32": "4113b6de",
+      "sha1": "119add332fed4cd2ed45a541357d6afde7dceba9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bulwarkonline-2022-09-05T06:59:57.845153-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662375606",
+      "size": "1486",
+      "md5": "5e983c8fc04c88d9542d4fdea05df7d2",
+      "crc32": "7f79c3e6",
+      "sha1": "e547320791b0dccbad9be2ac4bf6985ee3dac783",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-09-05T06:59:57.845153-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662375608",
+      "size": "10295",
+      "md5": "b29559b9f30383fd683d7c7b6c98d532",
+      "crc32": "0baff3b3",
+      "sha1": "53dc5e51eed2db9e8170a1c90cda65cd7af12321",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-09-05T06:59:57.845153-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bulwarkonline-2022-09-05T06:59:57.845153-04:00.jpg",
+      "mtime": "1662375668",
+      "size": "10965",
+      "md5": "5bd2e2ecc3f8cedfb04bb95b3e431795",
+      "crc32": "7c144be0",
+      "sha1": "23d3d6bd8efabed9966e5b5152ec4ac5d516b907"
+    },
+    {
       "name": "bulwarkonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3445be96322ea1c3f59fd07c9ac6a502e36ac343",
-      "mtime": "1662332293",
-      "size": "173585",
-      "md5": "cebf36fdf4aa0bb57d75a00e87257121",
-      "crc32": "2427f925",
-      "sha1": "66f8c129a294614ddf47763b375c6f4d3807393f",
+      "btih": "d15577601ce934c02b77ff2029afd7998401747e",
+      "mtime": "1662375675",
+      "size": "174881",
+      "md5": "d5c564a6c756c403effd737f3f581c2f",
+      "crc32": "0d93ca6d",
+      "sha1": "2e24e363aa362ef2f9d0fed37417bb2bd3cebd22",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bulwarkonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f743ec4adb6673647b5b862c86ca8eef",
+      "md5": "8f9578609dffca4dcfaf206f69f71626",
       "summation": "md5"
     },
     {
       "name": "bulwarkonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662332228",
-      "size": "1019904",
-      "md5": "cae9614228f59ddc5f8865181e4c6e54",
-      "crc32": "5f755c1a",
-      "sha1": "69f60b703806aaf207a246391497108c9aff033e",
+      "mtime": "1662375611",
+      "size": "1028096",
+      "md5": "9774102f87773f6f1a3df54458ade5bc",
+      "crc32": "16a46377",
+      "sha1": "f10c92ec448a5d2b1545581fe6856a1096d2aee4",
       "format": "Metadata"
     },
     {
@@ -8346,9 +8408,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 805,
-  "item_last_updated": 1662332293,
-  "item_size": 49786860,
+  "files_count": 811,
+  "item_last_updated": 1662375675,
+  "item_size": 50109906,
   "metadata": {
     "identifier": "bulwarkonline-2022",
     "collection": [
@@ -8365,10 +8427,10 @@
     "publicdate": "2022-07-17 15:03:06",
     "addeddate": "2022-07-17 15:03:06"
   },
-  "server": "ia601406.us.archive.org",
-  "uniq": 340704039,
+  "server": "ia801406.us.archive.org",
+  "uniq": 2042527787,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia801406.us.archive.org",
+    "ia601406.us.archive.org"
   ]
 }

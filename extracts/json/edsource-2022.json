@@ -1,8 +1,13 @@
 {
-  "created": 1662332409,
+  "created": 1662379632,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/3/items/edsource-2022",
+  "edsource-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -6430,31 +6435,93 @@
       "sha1": "0024e94c8e47255d94b28a32b36885a5b5d81d13"
     },
     {
+      "name": "edsource-2022-09-05T04:04:28.507789-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662375882",
+      "size": "20869",
+      "md5": "20f8d8d6fb60ff38c484a407ab62d7ed",
+      "crc32": "d82fa237",
+      "sha1": "864fe693aebfdec9751718daff81ce47122d287e",
+      "format": "JSON"
+    },
+    {
+      "name": "edsource-2022-09-05T04:04:28.507789-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662375884",
+      "size": "27309",
+      "md5": "45092ca2472bfc82dd20111bdc17a3a9",
+      "crc32": "acf1d7e0",
+      "sha1": "369d85e4919024ec9c2bae781111b736eba15480",
+      "format": "JSON"
+    },
+    {
+      "name": "edsource-2022-09-05T04:04:28.507789-07:00.jpg",
+      "source": "original",
+      "mtime": "1662375880",
+      "size": "306764",
+      "md5": "3ea087a722130b232651a80682680e69",
+      "crc32": "dcf07bef",
+      "sha1": "d0902b9e31cc5b83d6ad56ec5ab664293d5fb2f9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "edsource-2022-09-05T04:04:28.507789-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662375886",
+      "size": "1441",
+      "md5": "7087f64670b913e183fb0b210f8b10d0",
+      "crc32": "5eb21a13",
+      "sha1": "1fc2bc123a0bff979b32126eb246fdea980d18fd",
+      "format": "JSON"
+    },
+    {
+      "name": "edsource-2022-09-05T04:04:28.507789-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662375888",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "edsource-2022-09-05T04:04:28.507789-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "edsource-2022-09-05T04:04:28.507789-07:00.jpg",
+      "mtime": "1662375943",
+      "size": "9526",
+      "md5": "6e7c4c9a3c8ec1f8142c31d5cecc4266",
+      "crc32": "c249901d",
+      "sha1": "0024e94c8e47255d94b28a32b36885a5b5d81d13"
+    },
+    {
       "name": "edsource-2022_archive.torrent",
       "source": "metadata",
-      "btih": "164399bc760f32a1c2885b5281e8b040ddb70a58",
-      "mtime": "1662332402",
-      "size": "131672",
-      "md5": "860964a11c0c7f5c02dd32ab3e94e8bc",
-      "crc32": "3e27f3d1",
-      "sha1": "33760d3a5d5a7838e209857d888a8bacf50910c0",
+      "btih": "2fb81828a3815d637849f3971f7d95112ddad7b8",
+      "mtime": "1662375949",
+      "size": "132937",
+      "md5": "e2cb3e69e15b7391004e194d87bbcdb9",
+      "crc32": "e917e702",
+      "sha1": "0c3a9302f955dc10eff03bb981fd43f597ebb574",
       "format": "Archive BitTorrent"
     },
     {
       "name": "edsource-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2f43158a0307fedb7006b210ce4774c3",
+      "md5": "c308b5df504c2e7935f2fa24ad90c04a",
       "summation": "md5"
     },
     {
       "name": "edsource-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662332342",
-      "size": "782336",
-      "md5": "c972ee0cdf50f5e0c422b9194063b7a8",
-      "crc32": "d9f73a39",
-      "sha1": "6936ff9c40c208261aed5d7ead55d4b475c9a5cb",
+      "mtime": "1662375893",
+      "size": "790528",
+      "md5": "31dcc73cd0b6bc7e3c7bf6ffdc624ddb",
+      "crc32": "1ac42e16",
+      "sha1": "08c4c3f384ebc0a88f79108da379f0d0cbbfdf02",
       "format": "Metadata"
     },
     {
@@ -6468,9 +6535,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 623,
-  "item_last_updated": 1662332402,
-  "item_size": 45464018,
+  "files_count": 629,
+  "item_last_updated": 1662375949,
+  "item_size": 45839586,
   "metadata": {
     "identifier": "edsource-2022",
     "collection": [
@@ -6487,10 +6554,10 @@
     "publicdate": "2022-07-09 03:58:15",
     "addeddate": "2022-07-09 03:58:15"
   },
-  "server": "ia902504.us.archive.org",
-  "uniq": 2123395603,
+  "server": "ia802504.us.archive.org",
+  "uniq": 463833718,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia802504.us.archive.org",
+    "ia902504.us.archive.org"
   ]
 }

@@ -1,8 +1,13 @@
 {
-  "created": 1662332481,
+  "created": 1662379664,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/31/items/fdrlst-2022",
+  "fdrlst-2022": {
+    "url": "https://thefederalist.com/",
+    "job_id": "spn2-d5318ba095687c1a15b300a7aff83d5042806728",
+    "message": "The same snapshot had been made 28 minutes, 41 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -8380,31 +8385,93 @@
       "sha1": "b081a64709b766c3643c6cd9ab00f508df93c4c7"
     },
     {
+      "name": "fdrlst-2022-09-05T07:03:56.009467-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662375844",
+      "size": "32380",
+      "md5": "9b197e129ef56aead92edcd6da5f24d9",
+      "crc32": "5dde783e",
+      "sha1": "c3c3a38a9b51fcd122c7ab245c09d5892cc19235",
+      "format": "JSON"
+    },
+    {
+      "name": "fdrlst-2022-09-05T07:03:56.009467-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662375846",
+      "size": "44531",
+      "md5": "712016c312e847a33b42cbd9145c938b",
+      "crc32": "32cfaecb",
+      "sha1": "dceedfca6de223cfab5ec868837f5948dba811c0",
+      "format": "JSON"
+    },
+    {
+      "name": "fdrlst-2022-09-05T07:03:56.009467-04:00.jpg",
+      "source": "original",
+      "mtime": "1662375842",
+      "size": "230515",
+      "md5": "28b78070a007e13a73e4c4a8b905282c",
+      "crc32": "ea6ad841",
+      "sha1": "18b3592ec2ab9f4fa7031c426e3b3b6637425804",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fdrlst-2022-09-05T07:03:56.009467-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662375848",
+      "size": "1477",
+      "md5": "c96c50ceb0f58223eae7bf2d8925430f",
+      "crc32": "fa123056",
+      "sha1": "cf0702b017556b98f6fb03470bd33039f357d546",
+      "format": "JSON"
+    },
+    {
+      "name": "fdrlst-2022-09-05T07:03:56.009467-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662375850",
+      "size": "233",
+      "md5": "fa1d25844590a4a5e0cf80f6f0590b20",
+      "crc32": "14b76cd6",
+      "sha1": "6c4cea9309628a75bad95ee041a913441c47cb2f",
+      "format": "JSON"
+    },
+    {
+      "name": "fdrlst-2022-09-05T07:03:56.009467-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fdrlst-2022-09-05T07:03:56.009467-04:00.jpg",
+      "mtime": "1662375906",
+      "size": "9612",
+      "md5": "1607cc6552b146747f570f3f983d9718",
+      "crc32": "3319756e",
+      "sha1": "b081a64709b766c3643c6cd9ab00f508df93c4c7"
+    },
+    {
       "name": "fdrlst-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1beb785075f4523049e8d59bb81b387d87f41152",
-      "mtime": "1662332474",
-      "size": "169488",
-      "md5": "6f4c2c6728a5b2a17aecb73e8c923e7f",
-      "crc32": "598dbf4e",
-      "sha1": "857f274d01283e24157b58a129367cfa3eebc8f0",
+      "btih": "01c809367d806a5eb7745f6d74b83f1c9e717c8d",
+      "mtime": "1662375916",
+      "size": "170721",
+      "md5": "98a56fe5cb327f7127349711e9cacfbf",
+      "crc32": "bf9a3a94",
+      "sha1": "b333267943da13d66b38b0304e79815986822c0f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fdrlst-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "059bde8a1d00bcfc827da2b19c16e641",
+      "md5": "4fb43832435da2b7ca72cbab984da99c",
       "summation": "md5"
     },
     {
       "name": "fdrlst-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662332414",
-      "size": "1019904",
-      "md5": "485c64f3b9325d0ef5eb899fc39150fe",
-      "crc32": "8a53b25b",
-      "sha1": "ed3d80883fe9cadefe503019a23e1b900da9cf45",
+      "mtime": "1662375853",
+      "size": "1028096",
+      "md5": "d53af7b88ee6cf6cf08b120be4dcf520",
+      "crc32": "bda0dad7",
+      "sha1": "2480a1b8168748239602ffdd9c65776e5f45c08c",
       "format": "Metadata"
     },
     {
@@ -8418,9 +8485,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 812,
-  "item_last_updated": 1662332474,
-  "item_size": 48963774,
+  "files_count": 818,
+  "item_last_updated": 1662375916,
+  "item_size": 49291947,
   "metadata": {
     "identifier": "fdrlst-2022",
     "collection": [
@@ -8438,7 +8505,7 @@
     "addeddate": "2022-07-17 15:03:19"
   },
   "server": "ia902500.us.archive.org",
-  "uniq": 1827120544,
+  "uniq": 1597735647,
   "workable_servers": [
     "ia902500.us.archive.org",
     "ia802500.us.archive.org"
