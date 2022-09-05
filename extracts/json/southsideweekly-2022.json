@@ -1,5 +1,5 @@
 {
-  "created": 1662156971,
+  "created": 1662341191,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/18/items/southsideweekly-2022",
@@ -11822,31 +11822,465 @@
       "sha1": "c654bdcd0586ecca65ad355fde7d05b5fb5daa89"
     },
     {
+      "name": "southsideweekly-2022-09-02T20:23:35.378618-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662168219",
+      "size": "19717",
+      "md5": "5fa5f299de6df06337d45a16867256bb",
+      "crc32": "313e79bd",
+      "sha1": "63e0c394bbeb64aa736c5df9e1c8067bd598373b",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-02T20:23:35.378618-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662168222",
+      "size": "29456",
+      "md5": "880d9833689bf8ef513a86dfb928024a",
+      "crc32": "e8387f0a",
+      "sha1": "74054d4bd654b1e646b57475d388f2247341dbeb",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-02T20:23:35.378618-05:00.jpg",
+      "source": "original",
+      "mtime": "1662168217",
+      "size": "281340",
+      "md5": "20a617e0d0cfc8ad94f8452120958cc8",
+      "crc32": "79259645",
+      "sha1": "627246359d10ccb13bf3165c5b4a4d9d73f9ac70",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "southsideweekly-2022-09-02T20:23:35.378618-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662168224",
+      "size": "1504",
+      "md5": "f3040d682130b56941eb5b7b48f3b491",
+      "crc32": "6408a1c0",
+      "sha1": "969c9735ff1e239acc5155145f2105b59b710825",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-02T20:23:35.378618-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662168226",
+      "size": "16008",
+      "md5": "6e0be05e62f0584a16f6e2c70d8ccaca",
+      "crc32": "3d258496",
+      "sha1": "6279ea35c7d7644049e1e83379fdd62255a52d5e",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-02T20:23:35.378618-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "southsideweekly-2022-09-02T20:23:35.378618-05:00.jpg",
+      "mtime": "1662168289",
+      "size": "9783",
+      "md5": "32c9d1e20e40cda4f935f8dcde812399",
+      "crc32": "4d988873",
+      "sha1": "e38cfc25ac4ac0e9caf519e0da880ecb2a3e949e"
+    },
+    {
+      "name": "southsideweekly-2022-09-03T08:12:23.777672-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662210751",
+      "size": "19885",
+      "md5": "222dadc928a1c602c80f1152b36716a3",
+      "crc32": "0645599a",
+      "sha1": "d2d67799256978660fe7d976f9d41bf221efee64",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-03T08:12:23.777672-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662210752",
+      "size": "29456",
+      "md5": "880d9833689bf8ef513a86dfb928024a",
+      "crc32": "e8387f0a",
+      "sha1": "74054d4bd654b1e646b57475d388f2247341dbeb",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-03T08:12:23.777672-05:00.jpg",
+      "source": "original",
+      "mtime": "1662210749",
+      "size": "281340",
+      "md5": "20a617e0d0cfc8ad94f8452120958cc8",
+      "crc32": "79259645",
+      "sha1": "627246359d10ccb13bf3165c5b4a4d9d73f9ac70",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "southsideweekly-2022-09-03T08:12:23.777672-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662210754",
+      "size": "1503",
+      "md5": "de3851c3d3b21e80a1bda1a89f4820f9",
+      "crc32": "5ffdefc3",
+      "sha1": "d0fd88e8963858b50fb2f4e00d18fa9fa5c7e36d",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-03T08:12:23.777672-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662210756",
+      "size": "16531",
+      "md5": "65751c3688eb0589a17d5452859a8702",
+      "crc32": "6226fb80",
+      "sha1": "080824f926d4fdc3dc25e602da6a2e0226ad2721",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-03T08:12:23.777672-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "southsideweekly-2022-09-03T08:12:23.777672-05:00.jpg",
+      "mtime": "1662210819",
+      "size": "9783",
+      "md5": "32c9d1e20e40cda4f935f8dcde812399",
+      "crc32": "4d988873",
+      "sha1": "e38cfc25ac4ac0e9caf519e0da880ecb2a3e949e"
+    },
+    {
+      "name": "southsideweekly-2022-09-03T10:59:00.843127-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662220744",
+      "size": "19885",
+      "md5": "222dadc928a1c602c80f1152b36716a3",
+      "crc32": "0645599a",
+      "sha1": "d2d67799256978660fe7d976f9d41bf221efee64",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-03T10:59:00.843127-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662220746",
+      "size": "29456",
+      "md5": "880d9833689bf8ef513a86dfb928024a",
+      "crc32": "e8387f0a",
+      "sha1": "74054d4bd654b1e646b57475d388f2247341dbeb",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-03T10:59:00.843127-05:00.jpg",
+      "source": "original",
+      "mtime": "1662220742",
+      "size": "281340",
+      "md5": "20a617e0d0cfc8ad94f8452120958cc8",
+      "crc32": "79259645",
+      "sha1": "627246359d10ccb13bf3165c5b4a4d9d73f9ac70",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "southsideweekly-2022-09-03T10:59:00.843127-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662220748",
+      "size": "1504",
+      "md5": "2de625cb734e8b34fa2c4a071372404d",
+      "crc32": "2189c35a",
+      "sha1": "de94bab9df81ee04d3828b966c154c15e0eece10",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-03T10:59:00.843127-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662220749",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-03T10:59:00.843127-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "southsideweekly-2022-09-03T10:59:00.843127-05:00.jpg",
+      "mtime": "1662220818",
+      "size": "9783",
+      "md5": "32c9d1e20e40cda4f935f8dcde812399",
+      "crc32": "4d988873",
+      "sha1": "e38cfc25ac4ac0e9caf519e0da880ecb2a3e949e"
+    },
+    {
+      "name": "southsideweekly-2022-09-03T20:14:01.627319-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662254047",
+      "size": "19813",
+      "md5": "4b1473a8428a421c6635b9e4900bb730",
+      "crc32": "14cd4610",
+      "sha1": "5818ea7a4c9132ce7df07aa654ff82f09c092b13",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-03T20:14:01.627319-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662254051",
+      "size": "29300",
+      "md5": "885a4c353c22705d0a0268576cc91164",
+      "crc32": "fb8e8ada",
+      "sha1": "cf370eeba832796b5ea82a4ff6df44d4f7f4b430",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-03T20:14:01.627319-05:00.jpg",
+      "source": "original",
+      "mtime": "1662254043",
+      "size": "254586",
+      "md5": "a42980591ef2fa38afee9e99a3d53923",
+      "crc32": "ddaaffa2",
+      "sha1": "ce0dba50cce799b312478807d1a25d607950b775",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "southsideweekly-2022-09-03T20:14:01.627319-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662254053",
+      "size": "1504",
+      "md5": "714df5b73768fafc688b73eed1021976",
+      "crc32": "2114bf3d",
+      "sha1": "b3f61d342ee99cf8aef003e734783c38190df1ab",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-03T20:14:01.627319-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662254055",
+      "size": "15000",
+      "md5": "ac64ad30ff350ec66d2b23a7237b659a",
+      "crc32": "245dd28c",
+      "sha1": "0d6a8d9e796e54b8cedaff18d869156b5e420e7b",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-03T20:14:01.627319-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "southsideweekly-2022-09-03T20:14:01.627319-05:00.jpg",
+      "mtime": "1662254128",
+      "size": "9374",
+      "md5": "beb6ea415af350ec9b5b8d17c80e9dbc",
+      "crc32": "86902a38",
+      "sha1": "a2083480a9c857d356f1fd311d6cd1357a751076"
+    },
+    {
+      "name": "southsideweekly-2022-09-04T07:58:10.180760-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662296300",
+      "size": "19645",
+      "md5": "f78e39f893ad23ef55d58a67234c9cb7",
+      "crc32": "bec47b60",
+      "sha1": "ef697a95295182f5361a1b4fb613b80a0abdab5d",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-04T07:58:10.180760-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662296302",
+      "size": "29300",
+      "md5": "885a4c353c22705d0a0268576cc91164",
+      "crc32": "fb8e8ada",
+      "sha1": "cf370eeba832796b5ea82a4ff6df44d4f7f4b430",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-04T07:58:10.180760-05:00.jpg",
+      "source": "original",
+      "mtime": "1662296298",
+      "size": "254586",
+      "md5": "a42980591ef2fa38afee9e99a3d53923",
+      "crc32": "ddaaffa2",
+      "sha1": "ce0dba50cce799b312478807d1a25d607950b775",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "southsideweekly-2022-09-04T07:58:10.180760-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662296303",
+      "size": "1503",
+      "md5": "fdd7f6442a2ec20584c2ae3fbbf810ac",
+      "crc32": "adeb3827",
+      "sha1": "41c9876600f9996b1580beaa59ffa055450b91c4",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-04T07:58:10.180760-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662296304",
+      "size": "15836",
+      "md5": "e12b3a9adf24323471f2dec8698e3d7e",
+      "crc32": "5e403f63",
+      "sha1": "f30e5cc455a7313c2c38da17df76f768fe4f5a1a",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-04T07:58:10.180760-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "southsideweekly-2022-09-04T07:58:10.180760-05:00.jpg",
+      "mtime": "1662296390",
+      "size": "9374",
+      "md5": "beb6ea415af350ec9b5b8d17c80e9dbc",
+      "crc32": "86902a38",
+      "sha1": "a2083480a9c857d356f1fd311d6cd1357a751076"
+    },
+    {
+      "name": "southsideweekly-2022-09-04T11:42:21.617298-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662309751",
+      "size": "19645",
+      "md5": "f78e39f893ad23ef55d58a67234c9cb7",
+      "crc32": "bec47b60",
+      "sha1": "ef697a95295182f5361a1b4fb613b80a0abdab5d",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-04T11:42:21.617298-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662309752",
+      "size": "29300",
+      "md5": "885a4c353c22705d0a0268576cc91164",
+      "crc32": "fb8e8ada",
+      "sha1": "cf370eeba832796b5ea82a4ff6df44d4f7f4b430",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-04T11:42:21.617298-05:00.jpg",
+      "source": "original",
+      "mtime": "1662309750",
+      "size": "254586",
+      "md5": "a42980591ef2fa38afee9e99a3d53923",
+      "crc32": "ddaaffa2",
+      "sha1": "ce0dba50cce799b312478807d1a25d607950b775",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "southsideweekly-2022-09-04T11:42:21.617298-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662309754",
+      "size": "1504",
+      "md5": "b24d7fd032879ff3cc1fe913163a725e",
+      "crc32": "694b3f49",
+      "sha1": "7a5c4ded232795629babb2439b4f521f2d177b28",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-04T11:42:21.617298-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662309755",
+      "size": "17318",
+      "md5": "b20ce7864f950511672f6c4837807cbc",
+      "crc32": "425245c3",
+      "sha1": "b1b5053b5484ce791540223762bf5c9507422d1c",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-04T11:42:21.617298-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "southsideweekly-2022-09-04T11:42:21.617298-05:00.jpg",
+      "mtime": "1662309826",
+      "size": "9374",
+      "md5": "beb6ea415af350ec9b5b8d17c80e9dbc",
+      "crc32": "86902a38",
+      "sha1": "a2083480a9c857d356f1fd311d6cd1357a751076"
+    },
+    {
+      "name": "southsideweekly-2022-09-04T20:23:07.721551-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662340991",
+      "size": "19645",
+      "md5": "f78e39f893ad23ef55d58a67234c9cb7",
+      "crc32": "bec47b60",
+      "sha1": "ef697a95295182f5361a1b4fb613b80a0abdab5d",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-04T20:23:07.721551-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662340992",
+      "size": "29297",
+      "md5": "c48337ec57af930b2c7d303a72f0434f",
+      "crc32": "29ee5a56",
+      "sha1": "c7edc93f1dff2049c49a57991dd9c5705a827b25",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-04T20:23:07.721551-05:00.jpg",
+      "source": "original",
+      "mtime": "1662340989",
+      "size": "254586",
+      "md5": "a42980591ef2fa38afee9e99a3d53923",
+      "crc32": "ddaaffa2",
+      "sha1": "ce0dba50cce799b312478807d1a25d607950b775",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "southsideweekly-2022-09-04T20:23:07.721551-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662340994",
+      "size": "1504",
+      "md5": "4e22a2fa2090810f6946b1c0988de353",
+      "crc32": "993402c7",
+      "sha1": "f7350ccb49212a9360c6ca3d52cf37b88a9d080e",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-04T20:23:07.721551-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662340996",
+      "size": "17253",
+      "md5": "7d4baac8adabeae753ef42019fc10c12",
+      "crc32": "430ad315",
+      "sha1": "d9d0f6c6e50b9c4642e5f49ef16f1f3652086730",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-04T20:23:07.721551-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "southsideweekly-2022-09-04T20:23:07.721551-05:00.jpg",
+      "mtime": "1662341078",
+      "size": "9374",
+      "md5": "beb6ea415af350ec9b5b8d17c80e9dbc",
+      "crc32": "86902a38",
+      "sha1": "a2083480a9c857d356f1fd311d6cd1357a751076"
+    },
+    {
       "name": "southsideweekly-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5bcd6634dcc8262a4dc5f4ba6bc6c2632790e94a",
-      "mtime": "1662135860",
-      "size": "248443",
-      "md5": "cce5e887a97ccc910886d2cf936bd953",
-      "crc32": "63b6bccb",
-      "sha1": "102833d236bd3c586b2ffe9cff9d1219ba361c0a",
+      "btih": "1a9b7e0ad7207464f0e8dbea749447da99e525cc",
+      "mtime": "1662341092",
+      "size": "257544",
+      "md5": "d9f77b920b4190d94b33a889963508f4",
+      "crc32": "57ee7811",
+      "sha1": "7105b874556a29fe874c13de12cbda7e8f7a2a3c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "southsideweekly-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f4e2628162d816d161ace0fe8570c808",
+      "md5": "f27f9077067c8453ce47c63f1ef5341c",
       "summation": "md5"
     },
     {
       "name": "southsideweekly-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662135773",
-      "size": "1400832",
-      "md5": "b43e0d797d5f1db7cd8a7238e77e44f1",
-      "crc32": "59058676",
-      "sha1": "0381656cd5ba039d7968c92520cdc1bee26cee80",
+      "mtime": "1662341001",
+      "size": "1454080",
+      "md5": "97660bd175347f1fd7c09fc09a8c6bce",
+      "crc32": "131b32e3",
+      "sha1": "3426d5cc4fe970fbdfedba97ddd6371fb5dbd086",
       "format": "Metadata"
     },
     {
@@ -11860,9 +12294,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1139,
-  "item_last_updated": 1662135860,
-  "item_size": 84798577,
+  "files_count": 1181,
+  "item_last_updated": 1662341092,
+  "item_size": 87242609,
   "metadata": {
     "identifier": "southsideweekly-2022",
     "collection": [
@@ -11880,7 +12314,7 @@
     "addeddate": "2022-06-19 23:28:17"
   },
   "server": "ia902502.us.archive.org",
-  "uniq": 953308616,
+  "uniq": 1513736913,
   "workable_servers": [
     "ia902502.us.archive.org",
     "ia802502.us.archive.org"
