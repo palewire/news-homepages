@@ -1,5 +1,5 @@
 {
-  "created": 1662418932,
+  "created": 1662461808,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/11/items/bostonglobe-2022",
@@ -8486,31 +8486,93 @@
       "sha1": "d8b3ec7daf94b96f99c9b64a16b4ed16d99e20e8"
     },
     {
+      "name": "bostonglobe-2022-09-06T06:54:54.973984-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662461706",
+      "size": "45712",
+      "md5": "9f08182bbb9a1d06339e6cde72b3cfc2",
+      "crc32": "547f48f7",
+      "sha1": "535bd098924ffa4ebec744479c628639b69f96b0",
+      "format": "JSON"
+    },
+    {
+      "name": "bostonglobe-2022-09-06T06:54:54.973984-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662461707",
+      "size": "57724",
+      "md5": "211e7a3ed83f7f80d1853333874fc84d",
+      "crc32": "10b7bc01",
+      "sha1": "1d3413890c44e47a8e2d77b075cc67cb634aff51",
+      "format": "JSON"
+    },
+    {
+      "name": "bostonglobe-2022-09-06T06:54:54.973984-04:00.jpg",
+      "source": "original",
+      "mtime": "1662461704",
+      "size": "433740",
+      "md5": "944fec5b0388d01fa677818d48a8916c",
+      "crc32": "e5ba1e7e",
+      "sha1": "c0643f0311314e1b2716a44133108c78096e1fc2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bostonglobe-2022-09-06T06:54:54.973984-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662461709",
+      "size": "1503",
+      "md5": "0e645499455c894e784863a531dcf460",
+      "crc32": "4f2c3ee9",
+      "sha1": "65e7fac7c4c4b9b55c4948ff59dc9c481c99ae94",
+      "format": "JSON"
+    },
+    {
+      "name": "bostonglobe-2022-09-06T06:54:54.973984-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662461711",
+      "size": "139348",
+      "md5": "eef4a8a4a01f52214b030103053ff7bc",
+      "crc32": "732cd841",
+      "sha1": "501d69aabd71b4bdfef4e0290c3d36029215944e",
+      "format": "JSON"
+    },
+    {
+      "name": "bostonglobe-2022-09-06T06:54:54.973984-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bostonglobe-2022-09-06T06:54:54.973984-04:00.jpg",
+      "mtime": "1662461781",
+      "size": "10802",
+      "md5": "5a5c9df8b97c2b388981ccf1732cd660",
+      "crc32": "7f352559",
+      "sha1": "a0570fd1e8cc733851e2d2568359f7a2b7f7a216"
+    },
+    {
       "name": "bostonglobe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7d619470b72f35e85a7dc1c3a2bc9ddc7c2f5d74",
-      "mtime": "1662418924",
-      "size": "176903",
-      "md5": "6e6a9d1f048c308b8a72d2d22d7dd17d",
-      "crc32": "08e22bb6",
-      "sha1": "16a1022ee83e5a061c14ee59b2999823ec763154",
+      "btih": "50f18574bce5015ede22b660ac9a200cfb80a828",
+      "mtime": "1662461791",
+      "size": "178210",
+      "md5": "5f4e65d3d42847810985724c648ad69d",
+      "crc32": "4a7d860f",
+      "sha1": "06d46ad876f1d9df8eecda05db08e40c4828d66c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bostonglobe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5c62bec9f43ba4703f2e526f5893ff1a",
+      "md5": "f1943bf5e92f6b60a619d68d26c64bf5",
       "summation": "md5"
     },
     {
       "name": "bostonglobe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662418842",
-      "size": "1011712",
-      "md5": "9af5069322bf28e7385ef3db49176195",
-      "crc32": "e5875666",
-      "sha1": "5ded1560132a74d39bffca82e0b4b62752e2b038",
+      "mtime": "1662461714",
+      "size": "1015808",
+      "md5": "613a7ea995d6689b821c33ff7fad7b5e",
+      "crc32": "75dc885f",
+      "sha1": "0793ae58921c3ec4c418ec829821a89183236bb7",
       "format": "Metadata"
     },
     {
@@ -8524,9 +8586,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 819,
-  "item_last_updated": 1662418924,
-  "item_size": 96493567,
+  "files_count": 825,
+  "item_last_updated": 1662461791,
+  "item_size": 97187799,
   "metadata": {
     "identifier": "bostonglobe-2022",
     "collection": [
@@ -8544,7 +8606,7 @@
     "addeddate": "2022-06-24 22:53:22"
   },
   "server": "ia601407.us.archive.org",
-  "uniq": 1596170586,
+  "uniq": 879307945,
   "workable_servers": [
     "ia601407.us.archive.org",
     "ia801407.us.archive.org"
