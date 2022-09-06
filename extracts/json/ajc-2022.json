@@ -1,14 +1,5 @@
 {
-  "ajc-2022": {
-    "url": "https://www.ajc.com/",
-    "job_id": "spn2-79b5a931038a920123ef49e0b5faf2f0fc635655",
-    "status": "error",
-    "resources": [],
-    "duration_sec": 0.647,
-    "status_ext": "error:job-failed",
-    "message": "Job failed."
-  },
-  "created": 1662391645,
+  "created": 1662428569,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/2/items/ajc-2022",
@@ -14003,31 +13994,155 @@
       "sha1": "d6d68ebe9fb8f3992b595c78a9a3d7c113a73b04"
     },
     {
+      "name": "ajc-2022-09-05T15:07:09.628473-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662404834",
+      "size": "29420",
+      "md5": "bbab4c99ed8e95c8d71922d4cd97484e",
+      "crc32": "354a39bb",
+      "sha1": "611a5c39bccd1b561fbd40cbc3c2a989614095ba",
+      "format": "JSON"
+    },
+    {
+      "name": "ajc-2022-09-05T15:07:09.628473-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662404836",
+      "size": "45308",
+      "md5": "16f0ab130068d8e4347cf33045ad3623",
+      "crc32": "b3ce5fb8",
+      "sha1": "3b2572e450bb331c98836ec6a3c53f4e922a3865",
+      "format": "JSON"
+    },
+    {
+      "name": "ajc-2022-09-05T15:07:09.628473-04:00.jpg",
+      "source": "original",
+      "mtime": "1662404831",
+      "size": "292114",
+      "md5": "7dc703fd048fe50232aac36662bbaa07",
+      "crc32": "f2fc440c",
+      "sha1": "f98805995ecb342842f5735512033e53111ab8e9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ajc-2022-09-05T15:07:09.628473-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662404838",
+      "size": "1432",
+      "md5": "a9dd16456945cbaded0b970677dfcc9e",
+      "crc32": "29949f74",
+      "sha1": "7c34aac5ef60c48f8d31655591808927a58dd08f",
+      "format": "JSON"
+    },
+    {
+      "name": "ajc-2022-09-05T15:07:09.628473-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662404841",
+      "size": "54972",
+      "md5": "8e384e27b9b32b49bb8bdc9b0f8f4717",
+      "crc32": "5e8fefff",
+      "sha1": "eeeeac5e818094a0ffae5072409e9aaf9533fce1",
+      "format": "JSON"
+    },
+    {
+      "name": "ajc-2022-09-05T15:07:09.628473-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ajc-2022-09-05T15:07:09.628473-04:00.jpg",
+      "mtime": "1662405606",
+      "size": "8611",
+      "md5": "f3e4b299e7b5e614700da36994e2d861",
+      "crc32": "37d5e86a",
+      "sha1": "22aa9f46e382726716b1dfc3c08687dd7098c3d4"
+    },
+    {
+      "name": "ajc-2022-09-05T21:40:41.440869-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662428451",
+      "size": "29698",
+      "md5": "f53759ca65e62e053d72773682676a6e",
+      "crc32": "10931510",
+      "sha1": "f681dc023d63f1d9c5b3962af0f5eb0a79320d61",
+      "format": "JSON"
+    },
+    {
+      "name": "ajc-2022-09-05T21:40:41.440869-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662428453",
+      "size": "44789",
+      "md5": "f9c276e14459a1f064b231174c286abe",
+      "crc32": "83d721b7",
+      "sha1": "82caad9f444f68c979b819471926a4dbedfe1808",
+      "format": "JSON"
+    },
+    {
+      "name": "ajc-2022-09-05T21:40:41.440869-04:00.jpg",
+      "source": "original",
+      "mtime": "1662428448",
+      "size": "306922",
+      "md5": "ad7f4a33aa16c863283c1c531cd103b0",
+      "crc32": "b0168471",
+      "sha1": "0a06fd9c533f1e6e368cd8c93abe427496686c4e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ajc-2022-09-05T21:40:41.440869-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662428455",
+      "size": "1432",
+      "md5": "67a3f50c41913e4f017f7eb415a7cf46",
+      "crc32": "17e82a18",
+      "sha1": "d65fd2718ab6e4793ec73157c80879513a1da9c7",
+      "format": "JSON"
+    },
+    {
+      "name": "ajc-2022-09-05T21:40:41.440869-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662428456",
+      "size": "51492",
+      "md5": "f26e335c00cf531c06796c7125857aaa",
+      "crc32": "fd1a3758",
+      "sha1": "cf7997bd43bf4ec7a0d43190777a32b7d1986b14",
+      "format": "JSON"
+    },
+    {
+      "name": "ajc-2022-09-05T21:40:41.440869-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ajc-2022-09-05T21:40:41.440869-04:00.jpg",
+      "mtime": "1662428536",
+      "size": "8852",
+      "md5": "30b80f73841021c36df7da27d8483dbd",
+      "crc32": "e4e8ea1d",
+      "sha1": "ab81e3e62019dd1725b55cd0dfb363f13b5a32b0"
+    },
+    {
       "name": "ajc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c0e8b7893aa371dabc8592a8dd548e67ef96e886",
-      "mtime": "1662387555",
-      "size": "278882",
-      "md5": "8b1bf468999f0cf9fb000ec12aa4824d",
-      "crc32": "097fcc97",
-      "sha1": "d1acb8efcdafc53b4efddd76dc7f137d85db50d6",
+      "btih": "181a7b90a47abc0cdfb294cb2b325ffaee8e8e08",
+      "mtime": "1662428556",
+      "size": "281336",
+      "md5": "e33fb2034e6b771f84276ecb083a180e",
+      "crc32": "a2ac48c0",
+      "sha1": "fc054b72f0bbc49b066b2e4b42242f99464149a3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ajc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "04464a819664cfe2e3a57148ecb4adfa",
+      "md5": "4f65f552d51182e4e8f1b53c21a4fa50",
       "summation": "md5"
     },
     {
       "name": "ajc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662387408",
-      "size": "1687552",
-      "md5": "5e46905e1823fe82b5a078813650f45d",
-      "crc32": "a8bd3214",
-      "sha1": "cf25c44d5a609518e5509ff02812825aef873c15",
+      "mtime": "1662428463",
+      "size": "1699840",
+      "md5": "8e87c0cb43751519b85a5d121df5c6d5",
+      "crc32": "1276bc84",
+      "sha1": "84a2f4ae8f4be526939da16cb830509bb22daaa0",
       "format": "Metadata"
     },
     {
@@ -14041,9 +14156,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1354,
-  "item_last_updated": 1662387555,
-  "item_size": 101023945,
+  "files_count": 1366,
+  "item_last_updated": 1662428556,
+  "item_size": 101913729,
   "metadata": {
     "identifier": "ajc-2022",
     "collection": [
@@ -14060,10 +14175,10 @@
     "publicdate": "2022-07-18 16:42:11",
     "addeddate": "2022-07-18 16:42:11"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 1943835791,
+  "server": "ia601505.us.archive.org",
+  "uniq": 2059067560,
   "workable_servers": [
-    "ia801505.us.archive.org",
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }
