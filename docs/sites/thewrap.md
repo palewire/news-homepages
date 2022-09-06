@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 99 screenshots with the Internet Archive.
+The archiving routine has saved 101 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thewrap-2022/thewrap-2022-09-05T18:29:51.201861-07:00.jpg">
+  <img src="https://archive.org/download/thewrap-2022/thewrap-2022-09-05T18:29:51.201861-07:00.jpg"
+     alt="Wrap at 2022-09-05 18:29:56-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-09-05T18:29:51.201861-07:00.jpg">September 5 at 6:29 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thewrap-2022/thewrap-2022-09-05T07:13:56.861554-07:00.jpg">
+  <img src="https://archive.org/download/thewrap-2022/thewrap-2022-09-05T07:13:56.861554-07:00.jpg"
+     alt="Wrap at 2022-09-05 07:14:04-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-09-05T07:13:56.861554-07:00.jpg">September 5 at 7:14 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thewrap-2022/thewrap-2022-09-04T18:27:13.687773-07:00.jpg">
   <img src="https://archive.org/download/thewrap-2022/thewrap-2022-09-04T18:27:13.687773-07:00.jpg"
      alt="Wrap at 2022-09-04 18:27:18-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-31T06:16:13.719006-07:00.jpg">August 31 at 6:16 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-30T18:30:20.383512-07:00.jpg">
-  <img src="https://archive.org/download/thewrap-2022/thewrap-2022-08-30T18:30:20.383512-07:00.jpg"
-     alt="Wrap at 2022-08-30 18:30:28-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-30T18:30:20.383512-07:00.jpg">August 30 at 6:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-30T06:15:48.897553-07:00.jpg">
-  <img src="https://archive.org/download/thewrap-2022/thewrap-2022-08-30T06:15:48.897553-07:00.jpg"
-     alt="Wrap at 2022-08-30 06:15:53-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thewrap-2022/thewrap-2022-08-30T06:15:48.897553-07:00.jpg">August 30 at 6:15 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 98 hyperlink lists with the Internet Archive.
+The archiving routine has saved 100 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 5 at 6:30 PM](https://archive.org/download/thewrap-2022/thewrap-2022-09-05T18:29:51.201861-07:00.hyperlinks.json) |
+| [September 5 at 7:14 AM](https://archive.org/download/thewrap-2022/thewrap-2022-09-05T07:13:56.861554-07:00.hyperlinks.json) |
 | [September 4 at 6:27 PM](https://archive.org/download/thewrap-2022/thewrap-2022-09-04T18:27:13.687773-07:00.hyperlinks.json) |
 | [September 4 at 5:59 AM](https://archive.org/download/thewrap-2022/thewrap-2022-09-04T05:59:33.466616-07:00.hyperlinks.json) |
 | [September 3 at 6:17 PM](https://archive.org/download/thewrap-2022/thewrap-2022-09-03T18:17:02.102027-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 2 at 6:08 AM](https://archive.org/download/thewrap-2022/thewrap-2022-09-02T06:07:57.083448-07:00.hyperlinks.json) |
 | [September 1 at 6:22 PM](https://archive.org/download/thewrap-2022/thewrap-2022-09-01T18:22:04.463822-07:00.hyperlinks.json) |
 | [September 1 at 6:16 AM](https://archive.org/download/thewrap-2022/thewrap-2022-09-01T06:16:15.679120-07:00.hyperlinks.json) |
-| [August 31 at 6:18 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-31T18:18:30.499228-07:00.hyperlinks.json) |
-| [August 31 at 6:16 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-31T06:16:13.719006-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 101 accessibility trees with the Internet Archive.
+The archiving routine has saved 103 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 5 at 6:29 PM](https://archive.org/download/thewrap-2022/thewrap-2022-09-05T18:29:51.201861-07:00.accessibility.json) |
+| [September 5 at 7:14 AM](https://archive.org/download/thewrap-2022/thewrap-2022-09-05T07:13:56.861554-07:00.accessibility.json) |
 | [September 4 at 6:27 PM](https://archive.org/download/thewrap-2022/thewrap-2022-09-04T18:27:13.687773-07:00.accessibility.json) |
 | [September 4 at 5:59 AM](https://archive.org/download/thewrap-2022/thewrap-2022-09-04T05:59:33.466616-07:00.accessibility.json) |
 | [September 3 at 6:17 PM](https://archive.org/download/thewrap-2022/thewrap-2022-09-03T18:17:02.102027-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 2 at 6:08 AM](https://archive.org/download/thewrap-2022/thewrap-2022-09-02T06:07:57.083448-07:00.accessibility.json) |
 | [September 1 at 6:22 PM](https://archive.org/download/thewrap-2022/thewrap-2022-09-01T18:22:04.463822-07:00.accessibility.json) |
 | [September 1 at 6:16 AM](https://archive.org/download/thewrap-2022/thewrap-2022-09-01T06:16:15.679120-07:00.accessibility.json) |
-| [August 31 at 6:18 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-31T18:18:30.499228-07:00.accessibility.json) |
-| [August 31 at 6:16 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-31T06:16:13.719006-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 89 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 91 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 6:30 PM](https://archive.org/download/thewrap-2022/thewrap-2022-09-05T18:29:51.201861-07:00.lighthouse.json) |
+| [September 5 at 7:14 AM](https://archive.org/download/thewrap-2022/thewrap-2022-09-05T07:13:56.861554-07:00.lighthouse.json) |
 | [September 4 at 6:27 PM](https://archive.org/download/thewrap-2022/thewrap-2022-09-04T18:27:13.687773-07:00.lighthouse.json) |
 | [September 4 at 5:59 AM](https://archive.org/download/thewrap-2022/thewrap-2022-09-04T05:59:33.466616-07:00.lighthouse.json) |
 | [September 3 at 6:17 PM](https://archive.org/download/thewrap-2022/thewrap-2022-09-03T18:17:02.102027-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 2 at 6:08 AM](https://archive.org/download/thewrap-2022/thewrap-2022-09-02T06:07:57.083448-07:00.lighthouse.json) |
 | [September 1 at 6:22 PM](https://archive.org/download/thewrap-2022/thewrap-2022-09-01T18:22:04.463822-07:00.lighthouse.json) |
 | [September 1 at 6:16 AM](https://archive.org/download/thewrap-2022/thewrap-2022-09-01T06:16:15.679120-07:00.lighthouse.json) |
-| [August 31 at 6:18 PM](https://archive.org/download/thewrap-2022/thewrap-2022-08-31T18:18:30.499228-07:00.lighthouse.json) |
-| [August 31 at 6:16 AM](https://archive.org/download/thewrap-2022/thewrap-2022-08-31T06:16:13.719006-07:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 34 screenshots with the Internet Archive.
+The archiving routine has saved 36 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/theweek-2022/theweek-2022-09-05T21:29:50.310223-04:00.jpg">
+  <img src="https://archive.org/download/theweek-2022/theweek-2022-09-05T21:29:50.310223-04:00.jpg"
+     alt="The Week at 2022-09-05 21:29:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theweek-2022/theweek-2022-09-05T21:29:50.310223-04:00.jpg">September 5 at 9:29 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theweek-2022/theweek-2022-09-05T10:14:22.118253-04:00.jpg">
+  <img src="https://archive.org/download/theweek-2022/theweek-2022-09-05T10:14:22.118253-04:00.jpg"
+     alt="The Week at 2022-09-05 10:14:25-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theweek-2022/theweek-2022-09-05T10:14:22.118253-04:00.jpg">September 5 at 10:14 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/theweek-2022/theweek-2022-09-04T21:25:17.107512-04:00.jpg">
   <img src="https://archive.org/download/theweek-2022/theweek-2022-09-04T21:25:17.107512-04:00.jpg"
      alt="The Week at 2022-09-04 21:25:19-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theweek-2022/theweek-2022-08-31T09:15:50.303929-04:00.jpg">August 31 at 9:16 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theweek-2022/theweek-2022-08-30T21:30:22.614842-04:00.jpg">
-  <img src="https://archive.org/download/theweek-2022/theweek-2022-08-30T21:30:22.614842-04:00.jpg"
-     alt="The Week at 2022-08-30 21:30:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theweek-2022/theweek-2022-08-30T21:30:22.614842-04:00.jpg">August 30 at 9:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theweek-2022/theweek-2022-08-30T09:14:19.850340-04:00.jpg">
-  <img src="https://archive.org/download/theweek-2022/theweek-2022-08-30T09:14:19.850340-04:00.jpg"
-     alt="The Week at 2022-08-30 09:14:22-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theweek-2022/theweek-2022-08-30T09:14:19.850340-04:00.jpg">August 30 at 9:14 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 34 hyperlink lists with the Internet Archive.
+The archiving routine has saved 36 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 5 at 9:29 PM](https://archive.org/download/theweek-2022/theweek-2022-09-05T21:29:50.310223-04:00.hyperlinks.json) |
+| [September 5 at 10:14 AM](https://archive.org/download/theweek-2022/theweek-2022-09-05T10:14:22.118253-04:00.hyperlinks.json) |
 | [September 4 at 9:25 PM](https://archive.org/download/theweek-2022/theweek-2022-09-04T21:25:17.107512-04:00.hyperlinks.json) |
 | [September 4 at 8:59 AM](https://archive.org/download/theweek-2022/theweek-2022-09-04T08:59:18.983014-04:00.hyperlinks.json) |
 | [September 3 at 9:16 PM](https://archive.org/download/theweek-2022/theweek-2022-09-03T21:16:12.846350-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 2 at 9:07 AM](https://archive.org/download/theweek-2022/theweek-2022-09-02T09:07:41.850680-04:00.hyperlinks.json) |
 | [September 1 at 9:21 PM](https://archive.org/download/theweek-2022/theweek-2022-09-01T21:21:28.436253-04:00.hyperlinks.json) |
 | [September 1 at 9:17 AM](https://archive.org/download/theweek-2022/theweek-2022-09-01T09:16:57.318497-04:00.hyperlinks.json) |
-| [August 31 at 9:18 PM](https://archive.org/download/theweek-2022/theweek-2022-08-31T21:18:38.927619-04:00.hyperlinks.json) |
-| [August 31 at 9:16 AM](https://archive.org/download/theweek-2022/theweek-2022-08-31T09:15:50.303929-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 34 accessibility trees with the Internet Archive.
+The archiving routine has saved 36 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 5 at 9:29 PM](https://archive.org/download/theweek-2022/theweek-2022-09-05T21:29:50.310223-04:00.accessibility.json) |
+| [September 5 at 10:14 AM](https://archive.org/download/theweek-2022/theweek-2022-09-05T10:14:22.118253-04:00.accessibility.json) |
 | [September 4 at 9:25 PM](https://archive.org/download/theweek-2022/theweek-2022-09-04T21:25:17.107512-04:00.accessibility.json) |
 | [September 4 at 8:59 AM](https://archive.org/download/theweek-2022/theweek-2022-09-04T08:59:18.983014-04:00.accessibility.json) |
 | [September 3 at 9:16 PM](https://archive.org/download/theweek-2022/theweek-2022-09-03T21:16:12.846350-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 2 at 9:07 AM](https://archive.org/download/theweek-2022/theweek-2022-09-02T09:07:41.850680-04:00.accessibility.json) |
 | [September 1 at 9:21 PM](https://archive.org/download/theweek-2022/theweek-2022-09-01T21:21:28.436253-04:00.accessibility.json) |
 | [September 1 at 9:17 AM](https://archive.org/download/theweek-2022/theweek-2022-09-01T09:16:57.318497-04:00.accessibility.json) |
-| [August 31 at 9:18 PM](https://archive.org/download/theweek-2022/theweek-2022-08-31T21:18:38.927619-04:00.accessibility.json) |
-| [August 31 at 9:16 AM](https://archive.org/download/theweek-2022/theweek-2022-08-31T09:15:50.303929-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 36 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 9:29 PM](https://archive.org/download/theweek-2022/theweek-2022-09-05T21:29:50.310223-04:00.lighthouse.json) |
+| [September 5 at 10:14 AM](https://archive.org/download/theweek-2022/theweek-2022-09-05T10:14:22.118253-04:00.lighthouse.json) |
 | [September 4 at 9:25 PM](https://archive.org/download/theweek-2022/theweek-2022-09-04T21:25:17.107512-04:00.lighthouse.json) |
 | [September 4 at 8:59 AM](https://archive.org/download/theweek-2022/theweek-2022-09-04T08:59:18.983014-04:00.lighthouse.json) |
 | [September 3 at 9:16 PM](https://archive.org/download/theweek-2022/theweek-2022-09-03T21:16:12.846350-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 2 at 9:07 AM](https://archive.org/download/theweek-2022/theweek-2022-09-02T09:07:41.850680-04:00.lighthouse.json) |
 | [September 1 at 9:21 PM](https://archive.org/download/theweek-2022/theweek-2022-09-01T21:21:28.436253-04:00.lighthouse.json) |
 | [September 1 at 9:17 AM](https://archive.org/download/theweek-2022/theweek-2022-09-01T09:16:57.318497-04:00.lighthouse.json) |
-| [August 31 at 9:18 PM](https://archive.org/download/theweek-2022/theweek-2022-08-31T21:18:38.927619-04:00.lighthouse.json) |
-| [August 31 at 9:16 AM](https://archive.org/download/theweek-2022/theweek-2022-08-31T09:15:50.303929-04:00.lighthouse.json) |
 
 
 

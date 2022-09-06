@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 127 screenshots with the Internet Archive.
+The archiving routine has saved 129 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-05T18:25:15.272787-07:00.jpg">
+  <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-05T18:25:15.272787-07:00.jpg"
+     alt="San José Spotlight at 2022-09-05 18:25:22-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-05T18:25:15.272787-07:00.jpg">September 5 at 6:25 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-05T07:10:44.564857-07:00.jpg">
+  <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-05T07:10:44.564857-07:00.jpg"
+     alt="San José Spotlight at 2022-09-05 07:10:50-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-05T07:10:44.564857-07:00.jpg">September 5 at 7:10 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-04T18:22:44.232254-07:00.jpg">
   <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-04T18:22:44.232254-07:00.jpg"
      alt="San José Spotlight at 2022-09-04 18:22:49-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-08-31T06:12:18.316994-07:00.jpg">August 31 at 6:12 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-08-30T18:25:52.208097-07:00.jpg">
-  <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-08-30T18:25:52.208097-07:00.jpg"
-     alt="San José Spotlight at 2022-08-30 18:25:54-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-08-30T18:25:52.208097-07:00.jpg">August 30 at 6:25 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-08-30T06:10:45.861351-07:00.jpg">
-  <img src="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-08-30T06:10:45.861351-07:00.jpg"
-     alt="San José Spotlight at 2022-08-30 06:10:48-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sjspotlight-2022/sjspotlight-2022-08-30T06:10:45.861351-07:00.jpg">August 30 at 6:10 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 127 hyperlink lists with the Internet Archive.
+The archiving routine has saved 129 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 5 at 6:25 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-05T18:25:15.272787-07:00.hyperlinks.json) |
+| [September 5 at 7:10 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-05T07:10:44.564857-07:00.hyperlinks.json) |
 | [September 4 at 6:22 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-04T18:22:44.232254-07:00.hyperlinks.json) |
 | [September 4 at 5:57 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-04T05:56:53.618598-07:00.hyperlinks.json) |
 | [September 3 at 6:14 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-03T18:13:56.528487-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 2 at 6:05 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-02T06:05:02.422210-07:00.hyperlinks.json) |
 | [September 1 at 6:17 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-01T18:17:49.832717-07:00.hyperlinks.json) |
 | [September 1 at 6:13 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-01T06:12:59.103479-07:00.hyperlinks.json) |
-| [August 31 at 6:16 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-08-31T18:15:53.060151-07:00.hyperlinks.json) |
-| [August 31 at 6:12 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-08-31T06:12:18.316994-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 127 accessibility trees with the Internet Archive.
+The archiving routine has saved 129 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 5 at 6:25 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-05T18:25:15.272787-07:00.accessibility.json) |
+| [September 5 at 7:10 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-05T07:10:44.564857-07:00.accessibility.json) |
 | [September 4 at 6:22 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-04T18:22:44.232254-07:00.accessibility.json) |
 | [September 4 at 5:56 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-04T05:56:53.618598-07:00.accessibility.json) |
 | [September 3 at 6:14 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-03T18:13:56.528487-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 2 at 6:05 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-02T06:05:02.422210-07:00.accessibility.json) |
 | [September 1 at 6:17 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-01T18:17:49.832717-07:00.accessibility.json) |
 | [September 1 at 6:13 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-01T06:12:59.103479-07:00.accessibility.json) |
-| [August 31 at 6:16 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-08-31T18:15:53.060151-07:00.accessibility.json) |
-| [August 31 at 6:12 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-08-31T06:12:18.316994-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 88 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 90 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 6:25 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-05T18:25:15.272787-07:00.lighthouse.json) |
+| [September 5 at 7:10 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-05T07:10:44.564857-07:00.lighthouse.json) |
 | [September 4 at 6:22 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-04T18:22:44.232254-07:00.lighthouse.json) |
 | [September 4 at 5:57 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-04T05:56:53.618598-07:00.lighthouse.json) |
 | [September 3 at 6:14 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-03T18:13:56.528487-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 2 at 6:05 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-02T06:05:02.422210-07:00.lighthouse.json) |
 | [September 1 at 6:17 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-01T18:17:49.832717-07:00.lighthouse.json) |
 | [September 1 at 6:13 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-09-01T06:12:59.103479-07:00.lighthouse.json) |
-| [August 31 at 6:16 PM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-08-31T18:15:53.060151-07:00.lighthouse.json) |
-| [August 31 at 6:12 AM](https://archive.org/download/sjspotlight-2022/sjspotlight-2022-08-31T06:12:18.316994-07:00.lighthouse.json) |
 
 
 

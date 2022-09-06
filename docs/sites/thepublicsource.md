@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 182 screenshots with the Internet Archive.
+The archiving routine has saved 184 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-06T04:27:29.171450+03:00.jpg">
+  <img src="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-06T04:27:29.171450+03:00.jpg"
+     alt="Public Source at 2022-09-06 04:27:38+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-06T04:27:29.171450+03:00.jpg">September 6 at 4:27 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-05T17:12:30.744792+03:00.jpg">
+  <img src="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-05T17:12:30.744792+03:00.jpg"
+     alt="Public Source at 2022-09-05 17:12:32+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-05T17:12:30.744792+03:00.jpg">September 5 at 5:12 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-05T04:25:04.614674+03:00.jpg">
   <img src="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-05T04:25:04.614674+03:00.jpg"
      alt="Public Source at 2022-09-05 04:25:06+03:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-31T16:15:08.490386+03:00.jpg">August 31 at 4:15 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-31T04:28:05.805328+03:00.jpg">
-  <img src="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-31T04:28:05.805328+03:00.jpg"
-     alt="Public Source at 2022-08-31 04:28:07+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-31T04:28:05.805328+03:00.jpg">August 31 at 4:28 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-30T16:13:38.392029+03:00.jpg">
-  <img src="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-30T16:13:38.392029+03:00.jpg"
-     alt="Public Source at 2022-08-30 16:13:42+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-30T16:13:38.392029+03:00.jpg">August 30 at 4:13 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 184 hyperlink lists with the Internet Archive.
+The archiving routine has saved 186 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 6 at 4:27 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-06T04:27:29.171450+03:00.hyperlinks.json) |
+| [September 5 at 5:12 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-05T17:12:30.744792+03:00.hyperlinks.json) |
 | [September 5 at 4:25 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-05T04:25:04.614674+03:00.hyperlinks.json) |
 | [September 4 at 3:59 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-04T15:59:49.654916+03:00.hyperlinks.json) |
 | [September 4 at 4:16 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-04T04:16:01.295298+03:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 2 at 4:06 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-02T16:06:42.263991+03:00.hyperlinks.json) |
 | [September 2 at 4:19 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-02T04:19:34.339925+03:00.hyperlinks.json) |
 | [September 1 at 4:15 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-01T16:15:13.468397+03:00.hyperlinks.json) |
-| [September 1 at 4:18 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-01T04:18:23.680128+03:00.hyperlinks.json) |
-| [August 31 at 4:15 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-31T16:15:08.490386+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 184 accessibility trees with the Internet Archive.
+The archiving routine has saved 186 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 6 at 4:27 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-06T04:27:29.171450+03:00.accessibility.json) |
+| [September 5 at 5:12 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-05T17:12:30.744792+03:00.accessibility.json) |
 | [September 5 at 4:25 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-05T04:25:04.614674+03:00.accessibility.json) |
 | [September 4 at 3:59 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-04T15:59:49.654916+03:00.accessibility.json) |
 | [September 4 at 4:16 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-04T04:16:01.295298+03:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 2 at 4:06 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-02T16:06:42.263991+03:00.accessibility.json) |
 | [September 2 at 4:19 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-02T04:19:34.339925+03:00.accessibility.json) |
 | [September 1 at 4:15 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-01T16:15:13.468397+03:00.accessibility.json) |
-| [September 1 at 4:18 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-01T04:18:23.680128+03:00.accessibility.json) |
-| [August 31 at 4:15 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-31T16:15:08.490386+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 89 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 91 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 6 at 4:27 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-06T04:27:29.171450+03:00.lighthouse.json) |
+| [September 5 at 5:12 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-05T17:12:30.744792+03:00.lighthouse.json) |
 | [September 5 at 4:25 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-05T04:25:04.614674+03:00.lighthouse.json) |
 | [September 4 at 3:59 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-04T15:59:49.654916+03:00.lighthouse.json) |
 | [September 4 at 4:16 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-04T04:16:01.295298+03:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 2 at 4:06 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-02T16:06:42.263991+03:00.lighthouse.json) |
 | [September 2 at 4:19 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-02T04:19:34.339925+03:00.lighthouse.json) |
 | [September 1 at 4:15 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-01T16:15:13.468397+03:00.lighthouse.json) |
-| [September 1 at 4:18 AM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-09-01T04:18:23.680128+03:00.lighthouse.json) |
-| [August 31 at 4:15 PM](https://archive.org/download/thepublicsource-2022/thepublicsource-2022-08-31T16:15:08.490386+03:00.lighthouse.json) |
 
 
 
