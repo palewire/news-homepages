@@ -1,10 +1,5 @@
 {
-  "cbs46-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1662391789,
+  "created": 1662431419,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/12/items/cbs46-2022",
@@ -5581,31 +5576,93 @@
       "sha1": "478cc752b02f5c2e2f50299924fa56e582287358"
     },
     {
+      "name": "cbs46-2022-09-05T22:27:27.282703-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662431256",
+      "size": "43280",
+      "md5": "7e3ea8c096c6917d9a45379492c8506b",
+      "crc32": "5750aa38",
+      "sha1": "8aaf0fc4f8b76260c0037fedc84fa2dc961b086a",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs46-2022-09-05T22:27:27.282703-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662431258",
+      "size": "20206",
+      "md5": "84c60716a8e2e86c9a801a6da995db65",
+      "crc32": "edee3bd3",
+      "sha1": "3a248408f68501f3711d009c8696f07d2fc9066f",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs46-2022-09-05T22:27:27.282703-04:00.jpg",
+      "source": "original",
+      "mtime": "1662431253",
+      "size": "378741",
+      "md5": "f351102e14f5374fae0275597ed1a6c2",
+      "crc32": "5909dc55",
+      "sha1": "7e1755404c4f0ed653a87c889fc043cb632c310a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbs46-2022-09-05T22:27:27.282703-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662431263",
+      "size": "1450",
+      "md5": "1b93e9a5342f336ada64a6bb8a130eed",
+      "crc32": "df16b66e",
+      "sha1": "901f44cd4577d6ffd7663a50486705ca3a263d46",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs46-2022-09-05T22:27:27.282703-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662431265",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs46-2022-09-05T22:27:27.282703-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbs46-2022-09-05T22:27:27.282703-04:00.jpg",
+      "mtime": "1662431351",
+      "size": "11206",
+      "md5": "3c6c3edb07b997b421ac7ad52348cd5e",
+      "crc32": "6b298876",
+      "sha1": "71e4dd99ad35231b5d25f47afa816ce2e86899b2"
+    },
+    {
       "name": "cbs46-2022_archive.torrent",
       "source": "metadata",
-      "btih": "890ffa9ce4a876c69278d22ce0e6c7139d62b119",
-      "mtime": "1662387909",
-      "size": "113392",
-      "md5": "6ae5875780fd17874226e3ad7d139ef4",
-      "crc32": "3eee1667",
-      "sha1": "a4b6a9d22e971a16061e9a3b23820291c1ea294b",
+      "btih": "3ff420eb8cd3b8b5f06cc8152985c84d012dff6f",
+      "mtime": "1662431375",
+      "size": "114640",
+      "md5": "611e2c6e9fe1adb7434961ec78404431",
+      "crc32": "b8930ebc",
+      "sha1": "1b5a52c95cf5e9c572c4173cd798c80e716df414",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cbs46-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ccf20ff1323b26bf5935efdd45dd4463",
+      "md5": "8ce2451ac66fe1b0e615b63e3cbb92d7",
       "summation": "md5"
     },
     {
       "name": "cbs46-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662387842",
-      "size": "688128",
-      "md5": "61551a0b321f230f420e4dd947e70024",
-      "crc32": "920ca5f5",
-      "sha1": "c028f71f3def68d489894198cf9bb455651174a6",
+      "mtime": "1662431269",
+      "size": "696320",
+      "md5": "95fc673084597fd7ed34b830c00360ea",
+      "crc32": "531e56fb",
+      "sha1": "4311381662ff25a00f9750fd5f08f0a88673bf7d",
       "format": "Metadata"
     },
     {
@@ -5619,9 +5676,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 542,
-  "item_last_updated": 1662387909,
-  "item_size": 46462853,
+  "files_count": 548,
+  "item_last_updated": 1662431375,
+  "item_size": 46927378,
   "metadata": {
     "identifier": "cbs46-2022",
     "collection": [
@@ -5638,10 +5695,10 @@
     "publicdate": "2022-07-20 23:30:54",
     "addeddate": "2022-07-20 23:30:54"
   },
-  "server": "ia902504.us.archive.org",
-  "uniq": 2000053175,
+  "server": "ia802504.us.archive.org",
+  "uniq": 964666808,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia802504.us.archive.org",
+    "ia902504.us.archive.org"
   ]
 }
