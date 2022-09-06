@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 278 screenshots with the Internet Archive.
+The archiving routine has saved 279 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 278 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-09-06T06:56:50.198188-04:00.jpg">
+  <img src="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-09-06T06:56:50.198188-04:00.jpg"
+     alt="Carolina Public Press at 2022-09-06 06:56:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-09-06T06:56:50.198188-04:00.jpg">September 6 at 6:56 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-09-05T19:02:19.908767-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-31T18:56:45.192313-04:00.jpg">August 31 at 6:57 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-31T06:58:33.029931-04:00.jpg">
-  <img src="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-31T06:58:33.029931-04:00.jpg"
-     alt="Carolina Public Press at 2022-08-31 06:59:01-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-31T06:58:33.029931-04:00.jpg">August 31 at 6:59 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 272 hyperlink lists with the Internet Archive.
+The archiving routine has saved 273 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 6 at 6:56 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-09-06T06:56:50.198188-04:00.hyperlinks.json) |
 | [September 5 at 7:02 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-09-05T19:02:19.908767-04:00.hyperlinks.json) |
 | [September 5 at 7:02 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-09-05T07:02:44.038817-04:00.hyperlinks.json) |
 | [September 4 at 6:57 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-09-04T18:57:44.921735-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 2 at 7:54 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-09-02T19:54:13.573088-04:00.hyperlinks.json) |
 | [September 2 at 6:59 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-09-02T06:59:35.059205-04:00.hyperlinks.json) |
 | [September 1 at 7:01 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-09-01T19:01:04.274569-04:00.hyperlinks.json) |
-| [September 1 at 7:04 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-09-01T07:03:56.155958-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 274 accessibility trees with the Internet Archive.
+The archiving routine has saved 275 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 6 at 6:56 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-09-06T06:56:50.198188-04:00.accessibility.json) |
 | [September 5 at 7:02 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-09-05T19:02:19.908767-04:00.accessibility.json) |
 | [September 5 at 7:02 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-09-05T07:02:44.038817-04:00.accessibility.json) |
 | [September 4 at 6:57 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-09-04T18:57:44.921735-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 2 at 7:54 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-09-02T19:54:13.573088-04:00.accessibility.json) |
 | [September 2 at 6:59 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-09-02T06:59:35.059205-04:00.accessibility.json) |
 | [September 1 at 7:01 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-09-01T19:01:04.274569-04:00.accessibility.json) |
-| [September 1 at 7:04 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-09-01T07:03:56.155958-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 89 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 90 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 6 at 6:57 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-09-06T06:56:50.198188-04:00.lighthouse.json) |
 | [September 5 at 7:02 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-09-05T19:02:19.908767-04:00.lighthouse.json) |
 | [September 5 at 7:02 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-09-05T07:02:44.038817-04:00.lighthouse.json) |
 | [September 4 at 6:57 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-09-04T18:57:44.921735-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 2 at 7:54 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-09-02T19:54:13.573088-04:00.lighthouse.json) |
 | [September 2 at 6:59 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-09-02T06:59:35.059205-04:00.lighthouse.json) |
 | [September 1 at 7:02 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-09-01T19:01:04.274569-04:00.lighthouse.json) |
-| [September 1 at 7:04 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-09-01T07:03:56.155958-04:00.lighthouse.json) |
 
 
 
