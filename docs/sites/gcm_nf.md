@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 172 screenshots with the Internet Archive.
+The archiving routine has saved 173 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 172 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-05T18:55:22.291934-05:00.jpg">
+  <img src="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-05T18:55:22.291934-05:00.jpg"
+     alt="Austin Weekly News at 2022-09-05 18:55:28-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-05T18:55:22.291934-05:00.jpg">September 5 at 6:55 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-05T11:30:13.370224-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-02T07:00:42.154748-05:00.jpg">September 2 at 7:00 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-01T18:57:48.697391-05:00.jpg">
-  <img src="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-01T18:57:48.697391-05:00.jpg"
-     alt="Austin Weekly News at 2022-09-01 18:57:49-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-01T18:57:48.697391-05:00.jpg">September 1 at 6:57 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 171 hyperlink lists with the Internet Archive.
+The archiving routine has saved 172 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 5 at 6:55 PM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-05T18:55:22.291934-05:00.hyperlinks.json) |
 | [September 5 at 11:30 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-05T11:30:13.370224-05:00.hyperlinks.json) |
 | [September 4 at 6:52 PM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-04T18:52:08.446811-05:00.hyperlinks.json) |
 | [September 4 at 11:41 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-04T11:41:36.223042-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 3 at 7:00 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-03T07:00:45.006071-05:00.hyperlinks.json) |
 | [September 2 at 6:57 PM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-02T18:57:41.927654-05:00.hyperlinks.json) |
 | [September 2 at 11:22 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-02T11:22:20.956575-05:00.hyperlinks.json) |
-| [September 2 at 7:00 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-02T07:00:42.154748-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 172 accessibility trees with the Internet Archive.
+The archiving routine has saved 173 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 5 at 6:55 PM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-05T18:55:22.291934-05:00.accessibility.json) |
 | [September 5 at 11:30 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-05T11:30:13.370224-05:00.accessibility.json) |
 | [September 5 at 7:17 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-05T07:17:12.702639-05:00.accessibility.json) |
 | [September 4 at 6:52 PM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-04T18:52:08.446811-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 3 at 10:58 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-03T10:58:05.013390-05:00.accessibility.json) |
 | [September 3 at 7:00 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-03T07:00:45.006071-05:00.accessibility.json) |
 | [September 2 at 6:57 PM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-02T18:57:41.927654-05:00.accessibility.json) |
-| [September 2 at 11:22 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-02T11:22:20.956575-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 129 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 130 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 6:55 PM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-05T18:55:22.291934-05:00.lighthouse.json) |
 | [September 5 at 11:30 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-05T11:30:13.370224-05:00.lighthouse.json) |
 | [September 5 at 7:17 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-05T07:17:12.702639-05:00.lighthouse.json) |
 | [September 4 at 6:52 PM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-04T18:52:08.446811-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 3 at 10:58 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-03T10:58:05.013390-05:00.lighthouse.json) |
 | [September 3 at 7:00 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-03T07:00:45.006071-05:00.lighthouse.json) |
 | [September 2 at 6:57 PM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-02T18:57:41.927654-05:00.lighthouse.json) |
-| [September 2 at 11:22 AM](https://archive.org/download/gcm_nf-2022/gcm_nf-2022-09-02T11:22:20.956575-05:00.lighthouse.json) |
 
 
 

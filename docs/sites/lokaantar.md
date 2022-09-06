@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 85 screenshots with the Internet Archive.
+The archiving routine has saved 87 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-09-06T05:44:43.963932+05:45.jpg">
+  <img src="https://archive.org/download/lokaantar-2022/lokaantar-2022-09-06T05:44:43.963932+05:45.jpg"
+     alt="Lokantar at 2022-09-06 05:44:44+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-09-06T05:44:43.963932+05:45.jpg">September 6 at 5:44 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-09-05T18:06:05.972528+05:45.jpg">
+  <img src="https://archive.org/download/lokaantar-2022/lokaantar-2022-09-05T18:06:05.972528+05:45.jpg"
+     alt="Lokantar at 2022-09-05 18:06:11+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-09-05T18:06:05.972528+05:45.jpg">September 5 at 6:06 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-09-05T05:40:41.725044+05:45.jpg">
   <img src="https://archive.org/download/lokaantar-2022/lokaantar-2022-09-05T05:40:41.725044+05:45.jpg"
      alt="Lokantar at 2022-09-05 05:40:46+05:45 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-31T18:51:07.703661+05:45.jpg">August 31 at 6:51 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-31T05:48:06.609631+05:45.jpg">
-  <img src="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-31T05:48:06.609631+05:45.jpg"
-     alt="Lokantar at 2022-08-31 05:48:11+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-31T05:48:06.609631+05:45.jpg">August 31 at 5:48 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-30T17:56:29.719233+05:45.jpg">
-  <img src="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-30T17:56:29.719233+05:45.jpg"
-     alt="Lokantar at 2022-08-30 17:56:34+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-30T17:56:29.719233+05:45.jpg">August 30 at 5:56 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 87 hyperlink lists with the Internet Archive.
+The archiving routine has saved 89 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 6 at 5:44 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-09-06T05:44:43.963932+05:45.hyperlinks.json) |
+| [September 5 at 6:06 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-09-05T18:06:05.972528+05:45.hyperlinks.json) |
 | [September 5 at 5:40 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-09-05T05:40:41.725044+05:45.hyperlinks.json) |
 | [September 4 at 5:42 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-09-04T17:42:26.456837+05:45.hyperlinks.json) |
 | [September 4 at 5:34 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-09-04T05:34:00.906185+05:45.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 2 at 5:49 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-09-02T17:49:32.706831+05:45.hyperlinks.json) |
 | [September 2 at 5:46 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-09-02T05:46:11.489383+05:45.hyperlinks.json) |
 | [September 1 at 5:58 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-09-01T17:58:04.836158+05:45.hyperlinks.json) |
-| [September 1 at 5:39 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-09-01T05:39:01.822824+05:45.hyperlinks.json) |
-| [August 31 at 6:51 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-31T18:51:07.703661+05:45.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 87 accessibility trees with the Internet Archive.
+The archiving routine has saved 89 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 6 at 5:44 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-09-06T05:44:43.963932+05:45.accessibility.json) |
+| [September 5 at 6:06 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-09-05T18:06:05.972528+05:45.accessibility.json) |
 | [September 5 at 5:40 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-09-05T05:40:41.725044+05:45.accessibility.json) |
 | [September 4 at 5:42 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-09-04T17:42:26.456837+05:45.accessibility.json) |
 | [September 4 at 5:34 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-09-04T05:34:00.906185+05:45.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 2 at 5:49 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-09-02T17:49:32.706831+05:45.accessibility.json) |
 | [September 2 at 5:46 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-09-02T05:46:11.489383+05:45.accessibility.json) |
 | [September 1 at 5:58 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-09-01T17:58:04.836158+05:45.accessibility.json) |
-| [September 1 at 5:39 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-09-01T05:39:01.822824+05:45.accessibility.json) |
-| [August 31 at 6:51 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-31T18:51:07.703661+05:45.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 87 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 89 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 6 at 5:44 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-09-06T05:44:43.963932+05:45.lighthouse.json) |
+| [September 5 at 6:06 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-09-05T18:06:05.972528+05:45.lighthouse.json) |
 | [September 5 at 5:40 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-09-05T05:40:41.725044+05:45.lighthouse.json) |
 | [September 4 at 5:42 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-09-04T17:42:26.456837+05:45.lighthouse.json) |
 | [September 4 at 5:34 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-09-04T05:34:00.906185+05:45.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 2 at 5:49 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-09-02T17:49:32.706831+05:45.lighthouse.json) |
 | [September 2 at 5:46 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-09-02T05:46:11.489383+05:45.lighthouse.json) |
 | [September 1 at 5:58 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-09-01T17:58:04.836158+05:45.lighthouse.json) |
-| [September 1 at 5:39 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-09-01T05:39:01.822824+05:45.lighthouse.json) |
-| [August 31 at 6:51 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-31T18:51:07.703661+05:45.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 131 screenshots with the Internet Archive.
+The archiving routine has saved 133 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ny1-2022/ny1-2022-09-05T20:00:53.263922-04:00.jpg">
+  <img src="https://archive.org/download/ny1-2022/ny1-2022-09-05T20:00:53.263922-04:00.jpg"
+     alt="NY1 at 2022-09-05 20:00:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ny1-2022/ny1-2022-09-05T20:00:53.263922-04:00.jpg">September 5 at 8:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ny1-2022/ny1-2022-09-05T08:24:04.315389-04:00.jpg">
+  <img src="https://archive.org/download/ny1-2022/ny1-2022-09-05T08:24:04.315389-04:00.jpg"
+     alt="NY1 at 2022-09-05 08:24:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ny1-2022/ny1-2022-09-05T08:24:04.315389-04:00.jpg">September 5 at 8:24 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ny1-2022/ny1-2022-09-04T19:57:46.765388-04:00.jpg">
   <img src="https://archive.org/download/ny1-2022/ny1-2022-09-04T19:57:46.765388-04:00.jpg"
      alt="NY1 at 2022-09-04 19:58:03-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ny1-2022/ny1-2022-08-31T09:08:14.081242-04:00.jpg">August 31 at 9:08 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ny1-2022/ny1-2022-08-30T20:05:28.872783-04:00.jpg">
-  <img src="https://archive.org/download/ny1-2022/ny1-2022-08-30T20:05:28.872783-04:00.jpg"
-     alt="NY1 at 2022-08-30 20:05:33-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ny1-2022/ny1-2022-08-30T20:05:28.872783-04:00.jpg">August 30 at 8:05 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ny1-2022/ny1-2022-08-30T08:13:36.284183-04:00.jpg">
-  <img src="https://archive.org/download/ny1-2022/ny1-2022-08-30T08:13:36.284183-04:00.jpg"
-     alt="NY1 at 2022-08-30 08:13:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ny1-2022/ny1-2022-08-30T08:13:36.284183-04:00.jpg">August 30 at 8:13 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 130 hyperlink lists with the Internet Archive.
+The archiving routine has saved 131 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 5 at 8:01 PM](https://archive.org/download/ny1-2022/ny1-2022-09-05T20:00:53.263922-04:00.hyperlinks.json) |
 | [September 4 at 7:58 PM](https://archive.org/download/ny1-2022/ny1-2022-09-04T19:57:46.765388-04:00.hyperlinks.json) |
 | [September 4 at 8:01 AM](https://archive.org/download/ny1-2022/ny1-2022-09-04T08:00:42.122594-04:00.hyperlinks.json) |
 | [September 3 at 7:52 PM](https://archive.org/download/ny1-2022/ny1-2022-09-03T19:51:59.095317-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 1 at 8:05 PM](https://archive.org/download/ny1-2022/ny1-2022-09-01T20:05:03.966449-04:00.hyperlinks.json) |
 | [September 1 at 8:16 AM](https://archive.org/download/ny1-2022/ny1-2022-09-01T08:15:59.681699-04:00.hyperlinks.json) |
 | [August 31 at 7:56 PM](https://archive.org/download/ny1-2022/ny1-2022-08-31T19:56:09.133328-04:00.hyperlinks.json) |
-| [August 31 at 9:08 AM](https://archive.org/download/ny1-2022/ny1-2022-08-31T09:08:14.081242-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 131 accessibility trees with the Internet Archive.
+The archiving routine has saved 133 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 5 at 8:00 PM](https://archive.org/download/ny1-2022/ny1-2022-09-05T20:00:53.263922-04:00.accessibility.json) |
+| [September 5 at 8:24 AM](https://archive.org/download/ny1-2022/ny1-2022-09-05T08:24:04.315389-04:00.accessibility.json) |
 | [September 4 at 7:58 PM](https://archive.org/download/ny1-2022/ny1-2022-09-04T19:57:46.765388-04:00.accessibility.json) |
 | [September 4 at 8:01 AM](https://archive.org/download/ny1-2022/ny1-2022-09-04T08:00:42.122594-04:00.accessibility.json) |
 | [September 3 at 7:52 PM](https://archive.org/download/ny1-2022/ny1-2022-09-03T19:51:59.095317-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 2 at 8:06 AM](https://archive.org/download/ny1-2022/ny1-2022-09-02T08:06:45.755716-04:00.accessibility.json) |
 | [September 1 at 8:05 PM](https://archive.org/download/ny1-2022/ny1-2022-09-01T20:05:03.966449-04:00.accessibility.json) |
 | [September 1 at 8:16 AM](https://archive.org/download/ny1-2022/ny1-2022-09-01T08:15:59.681699-04:00.accessibility.json) |
-| [August 31 at 7:56 PM](https://archive.org/download/ny1-2022/ny1-2022-08-31T19:56:09.133328-04:00.accessibility.json) |
-| [August 31 at 9:08 AM](https://archive.org/download/ny1-2022/ny1-2022-08-31T09:08:14.081242-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 88 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 90 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 5 at 8:01 PM](https://archive.org/download/ny1-2022/ny1-2022-09-05T20:00:53.263922-04:00.lighthouse.json) |
+| [September 5 at 8:24 AM](https://archive.org/download/ny1-2022/ny1-2022-09-05T08:24:04.315389-04:00.lighthouse.json) |
 | [September 4 at 7:58 PM](https://archive.org/download/ny1-2022/ny1-2022-09-04T19:57:46.765388-04:00.lighthouse.json) |
 | [September 4 at 8:01 AM](https://archive.org/download/ny1-2022/ny1-2022-09-04T08:00:42.122594-04:00.lighthouse.json) |
 | [September 3 at 7:52 PM](https://archive.org/download/ny1-2022/ny1-2022-09-03T19:51:59.095317-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 2 at 8:06 AM](https://archive.org/download/ny1-2022/ny1-2022-09-02T08:06:45.755716-04:00.lighthouse.json) |
 | [September 1 at 8:05 PM](https://archive.org/download/ny1-2022/ny1-2022-09-01T20:05:03.966449-04:00.lighthouse.json) |
 | [September 1 at 8:16 AM](https://archive.org/download/ny1-2022/ny1-2022-09-01T08:15:59.681699-04:00.lighthouse.json) |
-| [August 31 at 7:56 PM](https://archive.org/download/ny1-2022/ny1-2022-08-31T19:56:09.133328-04:00.lighthouse.json) |
-| [August 31 at 9:08 AM](https://archive.org/download/ny1-2022/ny1-2022-08-31T09:08:14.081242-04:00.lighthouse.json) |
 
 
 
