@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 110 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 111 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 12:18 PM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-09-07T12:18:39.496551-05:00.lighthouse.json) |
 | [September 7 at 7:40 AM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-09-07T07:39:54.930182-05:00.lighthouse.json) |
 | [September 6 at 7:10 PM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-09-06T19:10:32.019526-05:00.lighthouse.json) |
 | [September 6 at 7:01 AM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-09-06T07:00:57.416724-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 4 at 6:54 PM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-09-04T18:54:21.954101-05:00.lighthouse.json) |
 | [September 4 at 6:56 AM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-09-04T06:55:52.104671-05:00.lighthouse.json) |
 | [September 3 at 6:47 PM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-09-03T18:47:22.496635-05:00.lighthouse.json) |
-| [September 3 at 7:01 AM](https://archive.org/download/iowapublicradio-2022/iowapublicradio-2022-09-03T07:01:27.410818-05:00.lighthouse.json) |
 
 
 

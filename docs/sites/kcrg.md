@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 111 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 112 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 12:18 PM](https://archive.org/download/kcrg-2022/kcrg-2022-09-07T12:18:13.344013-05:00.lighthouse.json) |
 | [September 7 at 7:41 AM](https://archive.org/download/kcrg-2022/kcrg-2022-09-07T07:40:49.491223-05:00.lighthouse.json) |
 | [September 6 at 7:10 PM](https://archive.org/download/kcrg-2022/kcrg-2022-09-06T19:10:30.643645-05:00.lighthouse.json) |
 | [September 6 at 7:03 AM](https://archive.org/download/kcrg-2022/kcrg-2022-09-06T07:03:00.887593-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 4 at 6:54 PM](https://archive.org/download/kcrg-2022/kcrg-2022-09-04T18:54:22.366026-05:00.lighthouse.json) |
 | [September 4 at 6:56 AM](https://archive.org/download/kcrg-2022/kcrg-2022-09-04T06:56:01.256085-05:00.lighthouse.json) |
 | [September 3 at 6:47 PM](https://archive.org/download/kcrg-2022/kcrg-2022-09-03T18:47:24.633095-05:00.lighthouse.json) |
-| [September 3 at 7:02 AM](https://archive.org/download/kcrg-2022/kcrg-2022-09-03T07:02:22.006731-05:00.lighthouse.json) |
 
 
 
