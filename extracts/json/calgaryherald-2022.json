@@ -1,5 +1,22 @@
 {
-  "created": 1662518080,
+  "calgaryherald-2022": {
+    "url": "https://calgaryherald.com/",
+    "job_id": "spn2-b24aa93a2f6eaec86eeab6c2fe1e53849edc14d6",
+    "timestamp": "20220907143204",
+    "counters": {
+      "embeds": 2,
+      "outlinks": 0
+    },
+    "resources": [
+      "https://calgaryherald.com/",
+      "https://calgaryherald.com/favicon.ico"
+    ],
+    "status": "success",
+    "http_status": 403,
+    "duration_sec": 5.827,
+    "original_url": "https://calgaryherald.com/"
+  },
+  "created": 1662570757,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/2/items/calgaryherald-2022",
@@ -8180,31 +8197,93 @@
       "sha1": "a32779ae27985d6a98e196d766d6166948f15dce"
     },
     {
+      "name": "calgaryherald-2022-09-07T09:30:57.430563-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662564663",
+      "size": "66825",
+      "md5": "844faa962c72522f3b010eceaf95e517",
+      "crc32": "ac773fa0",
+      "sha1": "0d5058976637e609684b689ba762b33c940ae04a",
+      "format": "JSON"
+    },
+    {
+      "name": "calgaryherald-2022-09-07T09:30:57.430563-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662564666",
+      "size": "53614",
+      "md5": "0681c9b537f07c8b777eec1c8c3b3057",
+      "crc32": "f8a39019",
+      "sha1": "dc169bc7e77972d23f7a61f6055e1677150185ef",
+      "format": "JSON"
+    },
+    {
+      "name": "calgaryherald-2022-09-07T09:30:57.430563-06:00.jpg",
+      "source": "original",
+      "mtime": "1662564660",
+      "size": "288684",
+      "md5": "8541a1ec3a8a19bc9f68532588820f96",
+      "crc32": "df613d8c",
+      "sha1": "6e3a400406489fbdbed97a0370feb15414b30b7e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "calgaryherald-2022-09-07T09:30:57.430563-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662564668",
+      "size": "1486",
+      "md5": "06e8f1094f36e27ef5de8eeaf606403a",
+      "crc32": "7604aea7",
+      "sha1": "56be720b884280661d1e1e9644a4d3d2c87b8904",
+      "format": "JSON"
+    },
+    {
+      "name": "calgaryherald-2022-09-07T09:30:57.430563-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1662564670",
+      "size": "409",
+      "md5": "5d59184816b98b28a04725de28d5ce98",
+      "crc32": "3461958e",
+      "sha1": "82bc7360826239e68eec26e3e05b15a181ef1a64",
+      "format": "JSON"
+    },
+    {
+      "name": "calgaryherald-2022-09-07T09:30:57.430563-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "calgaryherald-2022-09-07T09:30:57.430563-06:00.jpg",
+      "mtime": "1662564741",
+      "size": "10122",
+      "md5": "e0ceca5ba57e4bfe0e15f461d2231b7d",
+      "crc32": "acfd05ae",
+      "sha1": "9e4d09fc26874c1d4fa965f100bec67253e18a60"
+    },
+    {
       "name": "calgaryherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1603d1e0760532638edf22516f078ecdd5d299ac",
-      "mtime": "1662518072",
-      "size": "171168",
-      "md5": "d2874918526beac05add82c964815b10",
-      "crc32": "b0388b6e",
-      "sha1": "d10fdfac680a67b6ceda4132dd8bd3640b1328d8",
+      "btih": "dac77dc3755a7b80c5fc5e8fc82f782812867371",
+      "mtime": "1662564758",
+      "size": "172464",
+      "md5": "33681abef7ec2da29e4311134279bcdd",
+      "crc32": "535f0612",
+      "sha1": "d487699edf095b7766f123df113ea3d0cde8046e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "calgaryherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ee443554913daa48e927c96691f4b295",
+      "md5": "f47ef614b8a2b1b4014172c1ef5d8dc8",
       "summation": "md5"
     },
     {
       "name": "calgaryherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662518011",
-      "size": "983040",
-      "md5": "ba25f678dc44b09889ce3c1b4d001d1b",
-      "crc32": "1d92906d",
-      "sha1": "02e780bdc0f6cac3ccfed888dea536c5fad4bd21",
+      "mtime": "1662564677",
+      "size": "987136",
+      "md5": "f39587c75a619c7ad29b9b0b6a73f41a",
+      "crc32": "2a482a72",
+      "sha1": "11d2ae29b6a8b4e899cf4877132b0e04f9c4c46f",
       "format": "Metadata"
     },
     {
@@ -8218,9 +8297,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 790,
-  "item_last_updated": 1662518072,
-  "item_size": 69275928,
+  "files_count": 796,
+  "item_last_updated": 1662564758,
+  "item_size": 69702460,
   "metadata": {
     "identifier": "calgaryherald-2022",
     "collection": [
@@ -8237,10 +8316,10 @@
     "publicdate": "2022-06-30 22:35:41",
     "addeddate": "2022-06-30 22:35:41"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 1990229132,
+  "server": "ia601405.us.archive.org",
+  "uniq": 2020485809,
   "workable_servers": [
-    "ia801405.us.archive.org",
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

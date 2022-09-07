@@ -1,5 +1,5 @@
 {
-  "created": 1662557711,
+  "created": 1662564553,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/33/items/agenciabrasil-2022",
@@ -5792,31 +5792,93 @@
       "sha1": "db3432f53676cc1d7fce2b103f8397a5af32cec7"
     },
     {
+      "name": "agenciabrasil-2022-09-07T12:27:44.471321-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662564477",
+      "size": "35264",
+      "md5": "f58330e6310d1654e227d057e0733d59",
+      "crc32": "9bd2e26f",
+      "sha1": "02fd3da12d42595523bfdb0bd3adb42ebbfa1443",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciabrasil-2022-09-07T12:27:44.471321-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662564479",
+      "size": "42448",
+      "md5": "a34dd648a1b0030e554ad615144456b1",
+      "crc32": "8a1244ac",
+      "sha1": "b0d682517bd92260bbdb1e25fb0a45c9cd826502",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciabrasil-2022-09-07T12:27:44.471321-03:00.jpg",
+      "source": "original",
+      "mtime": "1662564475",
+      "size": "291387",
+      "md5": "1d1072b09acf551ac8c205474d6575bc",
+      "crc32": "29a05aae",
+      "sha1": "372ba02a2c27b6554afbc5a83c9767d2acb9dc0a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "agenciabrasil-2022-09-07T12:27:44.471321-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662564480",
+      "size": "1549",
+      "md5": "9edd76fff980e8cb2ac431f4dcbcb83a",
+      "crc32": "b9286d9a",
+      "sha1": "8fa137a67783cededefcaa064423ad2f68c92326",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciabrasil-2022-09-07T12:27:44.471321-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1662564482",
+      "size": "24235",
+      "md5": "d7d704fa9ef44a9e53091923fb5ed4be",
+      "crc32": "98581b14",
+      "sha1": "cdd20ab039c74a7aabc6cac80fc048a241639c95",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciabrasil-2022-09-07T12:27:44.471321-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "agenciabrasil-2022-09-07T12:27:44.471321-03:00.jpg",
+      "mtime": "1662564537",
+      "size": "9577",
+      "md5": "c8fc63c447f959eafff7562984e1f6a3",
+      "crc32": "f281d4c6",
+      "sha1": "0a9175f0079933a1c40b17f1a2ad0fa1ab4c5197"
+    },
+    {
       "name": "agenciabrasil-2022_archive.torrent",
       "source": "metadata",
-      "btih": "084fa204aa326e87618dd58ab9a0b519ace94571",
-      "mtime": "1662557686",
-      "size": "121919",
-      "md5": "5b4a514cf4a807f20dab65455e185747",
-      "crc32": "1bc2a53d",
-      "sha1": "5d9f157354148d84db3d4249925883b31bf4fe07",
+      "btih": "0df552eb2155e621f2d9383e2eb43bf509d7e617",
+      "mtime": "1662564542",
+      "size": "123216",
+      "md5": "b3d52a24829482b8bde627fac78c0761",
+      "crc32": "cbb1f988",
+      "sha1": "3e2904221e877c93baceac71789bb00275d6d7bb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "agenciabrasil-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b9f4fba70b1338cf4168225a9012853f",
+      "md5": "c8a652c839e2c03dbde994f93a766deb",
       "summation": "md5"
     },
     {
       "name": "agenciabrasil-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662557612",
-      "size": "737280",
-      "md5": "78cc931bc6ce606124a76de464260fb6",
-      "crc32": "f9349681",
-      "sha1": "8bcec90fee5b02ba53d964610a6e50b6ff22d22a",
+      "mtime": "1662564488",
+      "size": "741376",
+      "md5": "4863c40013d7bbd8810dd97b92fd7722",
+      "crc32": "b4e15f97",
+      "sha1": "9292dbbe2cd8263c0a1ce7eab2dcfff4d22b1d3c",
       "format": "Metadata"
     },
     {
@@ -5830,9 +5892,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 564,
-  "item_last_updated": 1662557686,
-  "item_size": 34001947,
+  "files_count": 570,
+  "item_last_updated": 1662564542,
+  "item_size": 34411800,
   "metadata": {
     "identifier": "agenciabrasil-2022",
     "collection": [
@@ -5849,10 +5911,10 @@
     "publicdate": "2022-08-04 04:55:44",
     "addeddate": "2022-08-04 04:55:44"
   },
-  "server": "ia601405.us.archive.org",
-  "uniq": 134717199,
+  "server": "ia801405.us.archive.org",
+  "uniq": 1840903114,
   "workable_servers": [
-    "ia601405.us.archive.org",
-    "ia801405.us.archive.org"
+    "ia801405.us.archive.org",
+    "ia601405.us.archive.org"
   ]
 }

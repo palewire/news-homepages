@@ -1,5 +1,5 @@
 {
-  "created": 1662518310,
+  "created": 1662565014,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/26/items/enquirer-2022",
@@ -2930,31 +2930,93 @@
       "sha1": "f23465b8319a2d2e69d71103185b27bb054a232e"
     },
     {
+      "name": "enquirer-2022-09-07T11:35:23.333691-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662564931",
+      "size": "21324",
+      "md5": "bec9350667805f3db97f0da3fb1faea6",
+      "crc32": "7f063360",
+      "sha1": "4920770e9acb3c8d0463df6f2adf34314a22519c",
+      "format": "JSON"
+    },
+    {
+      "name": "enquirer-2022-09-07T11:35:23.333691-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662564933",
+      "size": "32406",
+      "md5": "bda391184dc21fac569f2b97510a7ef2",
+      "crc32": "9ebc24ec",
+      "sha1": "21e2218335f43f4114ff96d21bd1995b0327ef98",
+      "format": "JSON"
+    },
+    {
+      "name": "enquirer-2022-09-07T11:35:23.333691-04:00.jpg",
+      "source": "original",
+      "mtime": "1662564928",
+      "size": "277111",
+      "md5": "226bd973a6f8a1b27bb19e76531d4488",
+      "crc32": "70c16da9",
+      "sha1": "1259265fe0c82879ae732b0a1ff78076305ebee1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "enquirer-2022-09-07T11:35:23.333691-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662564936",
+      "size": "1495",
+      "md5": "530c615dc8f770aa9fa4a4e3eb60c095",
+      "crc32": "5d9844c7",
+      "sha1": "b9dfc3f83e298cb79efe027a19dc0b78995d0e5c",
+      "format": "JSON"
+    },
+    {
+      "name": "enquirer-2022-09-07T11:35:23.333691-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662564939",
+      "size": "119488",
+      "md5": "c07a73a55d22312d09542f82cc505445",
+      "crc32": "3f17b28f",
+      "sha1": "bd5c6a83ca632fbfe3063fd649e8ebd2ad242f8c",
+      "format": "JSON"
+    },
+    {
+      "name": "enquirer-2022-09-07T11:35:23.333691-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enquirer-2022-09-07T11:35:23.333691-04:00.jpg",
+      "mtime": "1662564996",
+      "size": "9428",
+      "md5": "08654f061ea7bfccee9b8f8607b4703e",
+      "crc32": "c05682d7",
+      "sha1": "f8d5e99ee774e9bac7d1c425c63665edb1620e5e"
+    },
+    {
       "name": "enquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8a687c7feb4ee42c44470bbcd08adf5cfa1e3439",
-      "mtime": "1662518299",
-      "size": "60916",
-      "md5": "80c194bf6132a4682a65e088049eb549",
-      "crc32": "8d9011f3",
-      "sha1": "80ef65ec9660031d026860b0e0412d9c18fe616c",
+      "btih": "8deb7826fb98b5bd76a19ec1d1b36014d9f6e8ee",
+      "mtime": "1662565002",
+      "size": "62184",
+      "md5": "2e0d17b2b2d27ae5ea96f46b86cfaf17",
+      "crc32": "746c611a",
+      "sha1": "12e83fc60edcd8bed319bda361dd254b7a3a02a0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "enquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7dda808cfac990097b637cdcafaba595",
+      "md5": "6d7c88c87be1f587712da06a25c6f45c",
       "summation": "md5"
     },
     {
       "name": "enquirer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662518237",
-      "size": "380928",
-      "md5": "a2eca5c783efc2ecd740136c01f261fc",
-      "crc32": "8311ec23",
-      "sha1": "e58a40c0ab1f2a9bcabc52873d77246ca0d59d47",
+      "mtime": "1662564946",
+      "size": "385024",
+      "md5": "74a0b7abfc8617b4d264693fd561e397",
+      "crc32": "70f244fe",
+      "sha1": "b115e6e0dc5c1f10db40cfd30fa166007a96f923",
       "format": "Metadata"
     },
     {
@@ -2968,9 +3030,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 287,
-  "item_last_updated": 1662518299,
-  "item_size": 18896343,
+  "files_count": 293,
+  "item_last_updated": 1662565002,
+  "item_size": 19362959,
   "metadata": {
     "identifier": "enquirer-2022",
     "collection": [
@@ -2987,10 +3049,10 @@
     "publicdate": "2022-08-14 06:45:31",
     "addeddate": "2022-08-14 06:45:31"
   },
-  "server": "ia601502.us.archive.org",
-  "uniq": 1507588293,
+  "server": "ia801502.us.archive.org",
+  "uniq": 1988263523,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia801502.us.archive.org",
+    "ia601502.us.archive.org"
   ]
 }
