@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 111 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 112 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 12:19 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-09-07T12:19:35.641458-05:00.lighthouse.json) |
 | [September 7 at 8:50 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-09-07T08:49:44.043597-05:00.lighthouse.json) |
 | [September 6 at 8:23 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-09-06T20:23:18.374412-05:00.lighthouse.json) |
 | [September 5 at 8:27 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-09-05T20:27:36.401240-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 4 at 7:57 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-09-04T07:57:51.778754-05:00.lighthouse.json) |
 | [September 3 at 8:16 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-09-03T20:15:58.706302-05:00.lighthouse.json) |
 | [September 3 at 8:13 AM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-09-03T08:13:27.530584-05:00.lighthouse.json) |
-| [September 2 at 8:24 PM](https://archive.org/download/telegraphherald-2022/telegraphherald-2022-09-02T20:24:43.125545-05:00.lighthouse.json) |
 
 
 
