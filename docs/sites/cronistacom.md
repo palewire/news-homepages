@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 56 screenshots with the Internet Archive.
+The archiving routine has saved 58 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-09-06T20:07:46.619650-03:00.jpg">
+  <img src="https://archive.org/download/cronistacom-2022/cronistacom-2022-09-06T20:07:46.619650-03:00.jpg"
+     alt="Cronista at 2022-09-06 20:07:49-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-09-06T20:07:46.619650-03:00.jpg">September 6 at 8:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-09-06T07:57:20.959605-03:00.jpg">
+  <img src="https://archive.org/download/cronistacom-2022/cronistacom-2022-09-06T07:57:20.959605-03:00.jpg"
+     alt="Cronista at 2022-09-06 07:57:25-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-09-06T07:57:20.959605-03:00.jpg">September 6 at 7:57 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-09-05T20:03:01.934625-03:00.jpg">
   <img src="https://archive.org/download/cronistacom-2022/cronistacom-2022-09-05T20:03:01.934625-03:00.jpg"
      alt="Cronista at 2022-09-05 20:03:05-03:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-09-01T20:01:56.865835-03:00.jpg">September 1 at 8:02 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-09-01T08:04:24.958372-03:00.jpg">
-  <img src="https://archive.org/download/cronistacom-2022/cronistacom-2022-09-01T08:04:24.958372-03:00.jpg"
-     alt="Cronista at 2022-09-01 08:04:27-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-09-01T08:04:24.958372-03:00.jpg">September 1 at 8:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-31T19:57:25.153261-03:00.jpg">
-  <img src="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-31T19:57:25.153261-03:00.jpg"
-     alt="Cronista at 2022-08-31 19:57:28-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-31T19:57:25.153261-03:00.jpg">August 31 at 7:57 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 56 hyperlink lists with the Internet Archive.
+The archiving routine has saved 58 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 6 at 8:07 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-06T20:07:46.619650-03:00.hyperlinks.json) |
+| [September 6 at 7:57 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-06T07:57:20.959605-03:00.hyperlinks.json) |
 | [September 5 at 8:03 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-05T20:03:01.934625-03:00.hyperlinks.json) |
 | [September 5 at 8:02 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-05T08:02:36.528836-03:00.hyperlinks.json) |
 | [September 4 at 7:57 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-04T19:57:24.179131-03:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 3 at 9:12 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-03T09:12:32.661027-03:00.hyperlinks.json) |
 | [September 3 at 7:53 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-03T07:53:44.916464-03:00.hyperlinks.json) |
 | [September 2 at 8:55 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-02T20:55:12.245345-03:00.hyperlinks.json) |
-| [September 2 at 7:59 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-02T07:59:29.588738-03:00.hyperlinks.json) |
-| [September 1 at 8:02 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-01T20:01:56.865835-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 56 accessibility trees with the Internet Archive.
+The archiving routine has saved 58 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 6 at 8:07 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-06T20:07:46.619650-03:00.accessibility.json) |
+| [September 6 at 7:57 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-06T07:57:20.959605-03:00.accessibility.json) |
 | [September 5 at 8:03 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-05T20:03:01.934625-03:00.accessibility.json) |
 | [September 5 at 8:02 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-05T08:02:36.528836-03:00.accessibility.json) |
 | [September 4 at 7:57 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-04T19:57:24.179131-03:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 3 at 9:12 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-03T09:12:32.661027-03:00.accessibility.json) |
 | [September 3 at 7:53 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-03T07:53:44.916464-03:00.accessibility.json) |
 | [September 2 at 8:55 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-02T20:55:12.245345-03:00.accessibility.json) |
-| [September 2 at 7:59 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-02T07:59:29.588738-03:00.accessibility.json) |
-| [September 1 at 8:02 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-01T20:01:56.865835-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 56 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 58 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 6 at 8:07 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-06T20:07:46.619650-03:00.lighthouse.json) |
+| [September 6 at 7:57 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-06T07:57:20.959605-03:00.lighthouse.json) |
 | [September 5 at 8:03 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-05T20:03:01.934625-03:00.lighthouse.json) |
 | [September 5 at 8:02 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-05T08:02:36.528836-03:00.lighthouse.json) |
 | [September 4 at 7:57 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-04T19:57:24.179131-03:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 3 at 9:12 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-03T09:12:32.661027-03:00.lighthouse.json) |
 | [September 3 at 7:53 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-03T07:53:44.916464-03:00.lighthouse.json) |
 | [September 2 at 8:55 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-02T20:55:12.245345-03:00.lighthouse.json) |
-| [September 2 at 7:59 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-02T07:59:29.588738-03:00.lighthouse.json) |
-| [September 1 at 8:02 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-09-01T20:01:56.865835-03:00.lighthouse.json) |
 
 
 

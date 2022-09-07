@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-06T18:08:48.722795-05:00.jpg">
+  <img src="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-06T18:08:48.722795-05:00.jpg"
+     alt="Christianity Today at 2022-09-06 18:08:52-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-06T18:08:48.722795-05:00.jpg">September 6 at 6:08 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-06T05:58:06.262038-05:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-01T18:01:34.128452-05:00.jpg">September 1 at 6:01 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-01T06:04:28.277722-05:00.jpg">
-  <img src="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-01T06:04:28.277722-05:00.jpg"
-     alt="Christianity Today at 2022-09-01 06:04:29-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-01T06:04:28.277722-05:00.jpg">September 1 at 6:04 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 29 hyperlink lists with the Internet Archive.
+The archiving routine has saved 30 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 6 at 6:08 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-06T18:08:48.722795-05:00.hyperlinks.json) |
 | [September 6 at 5:58 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-06T05:58:06.262038-05:00.hyperlinks.json) |
 | [September 5 at 6:02 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-05T18:02:27.868784-05:00.hyperlinks.json) |
 | [September 5 at 6:02 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-05T06:02:48.453617-05:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 3 at 7:13 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-03T07:13:01.097550-05:00.hyperlinks.json) |
 | [September 3 at 5:54 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-03T05:54:22.546713-05:00.hyperlinks.json) |
 | [September 2 at 6:55 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-02T18:55:33.144589-05:00.hyperlinks.json) |
-| [September 2 at 5:59 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-02T05:59:23.785391-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 29 accessibility trees with the Internet Archive.
+The archiving routine has saved 30 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 6 at 6:08 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-06T18:08:48.722795-05:00.accessibility.json) |
 | [September 6 at 5:58 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-06T05:58:06.262038-05:00.accessibility.json) |
 | [September 5 at 6:02 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-05T18:02:27.868784-05:00.accessibility.json) |
 | [September 5 at 6:02 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-05T06:02:48.453617-05:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 3 at 7:13 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-03T07:13:01.097550-05:00.accessibility.json) |
 | [September 3 at 5:54 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-03T05:54:22.546713-05:00.accessibility.json) |
 | [September 2 at 6:55 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-02T18:55:33.144589-05:00.accessibility.json) |
-| [September 2 at 5:59 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-02T05:59:23.785391-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 6 at 6:08 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-06T18:08:48.722795-05:00.lighthouse.json) |
 | [September 6 at 5:58 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-06T05:58:06.262038-05:00.lighthouse.json) |
 | [September 5 at 6:02 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-05T18:02:27.868784-05:00.lighthouse.json) |
 | [September 5 at 6:02 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-05T06:02:48.453617-05:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 3 at 7:13 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-03T07:13:01.097550-05:00.lighthouse.json) |
 | [September 3 at 5:54 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-03T05:54:22.546713-05:00.lighthouse.json) |
 | [September 2 at 6:55 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-02T18:55:33.144589-05:00.lighthouse.json) |
-| [September 2 at 5:59 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-02T05:59:23.785391-05:00.lighthouse.json) |
 
 
 

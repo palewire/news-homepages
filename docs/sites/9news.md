@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 49 screenshots with the Internet Archive.
+The archiving routine has saved 50 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 49 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/9news-2022/9news-2022-09-06T17:03:29.276055-06:00.jpg">
+  <img src="https://archive.org/download/9news-2022/9news-2022-09-06T17:03:29.276055-06:00.jpg"
+     alt="9NEWS Denver at 2022-09-06 17:03:32-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/9news-2022/9news-2022-09-06T17:03:29.276055-06:00.jpg">September 6 at 5:03 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/9news-2022/9news-2022-09-06T04:53:15.044218-06:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/9news-2022/9news-2022-09-01T16:55:36.595171-06:00.jpg">September 1 at 4:55 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/9news-2022/9news-2022-09-01T04:59:38.056174-06:00.jpg">
-  <img src="https://archive.org/download/9news-2022/9news-2022-09-01T04:59:38.056174-06:00.jpg"
-     alt="9NEWS Denver at 2022-09-01 04:59:45-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/9news-2022/9news-2022-09-01T04:59:38.056174-06:00.jpg">September 1 at 4:59 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 49 hyperlink lists with the Internet Archive.
+The archiving routine has saved 50 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 6 at 5:03 PM](https://archive.org/download/9news-2022/9news-2022-09-06T17:03:29.276055-06:00.hyperlinks.json) |
 | [September 6 at 4:53 AM](https://archive.org/download/9news-2022/9news-2022-09-06T04:53:15.044218-06:00.hyperlinks.json) |
 | [September 5 at 4:57 PM](https://archive.org/download/9news-2022/9news-2022-09-05T16:57:51.028784-06:00.hyperlinks.json) |
 | [September 5 at 4:57 AM](https://archive.org/download/9news-2022/9news-2022-09-05T04:57:41.332139-06:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 3 at 6:08 AM](https://archive.org/download/9news-2022/9news-2022-09-03T06:08:05.207071-06:00.hyperlinks.json) |
 | [September 3 at 4:49 AM](https://archive.org/download/9news-2022/9news-2022-09-03T04:49:44.651984-06:00.hyperlinks.json) |
 | [September 2 at 5:49 PM](https://archive.org/download/9news-2022/9news-2022-09-02T17:49:05.588564-06:00.hyperlinks.json) |
-| [September 2 at 4:55 AM](https://archive.org/download/9news-2022/9news-2022-09-02T04:55:18.411955-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 49 accessibility trees with the Internet Archive.
+The archiving routine has saved 50 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 6 at 5:03 PM](https://archive.org/download/9news-2022/9news-2022-09-06T17:03:29.276055-06:00.accessibility.json) |
 | [September 6 at 4:53 AM](https://archive.org/download/9news-2022/9news-2022-09-06T04:53:15.044218-06:00.accessibility.json) |
 | [September 5 at 4:57 PM](https://archive.org/download/9news-2022/9news-2022-09-05T16:57:51.028784-06:00.accessibility.json) |
 | [September 5 at 4:57 AM](https://archive.org/download/9news-2022/9news-2022-09-05T04:57:41.332139-06:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 3 at 6:08 AM](https://archive.org/download/9news-2022/9news-2022-09-03T06:08:05.207071-06:00.accessibility.json) |
 | [September 3 at 4:49 AM](https://archive.org/download/9news-2022/9news-2022-09-03T04:49:44.651984-06:00.accessibility.json) |
 | [September 2 at 5:49 PM](https://archive.org/download/9news-2022/9news-2022-09-02T17:49:05.588564-06:00.accessibility.json) |
-| [September 2 at 4:55 AM](https://archive.org/download/9news-2022/9news-2022-09-02T04:55:18.411955-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 6 at 5:03 PM](https://archive.org/download/9news-2022/9news-2022-09-06T17:03:29.276055-06:00.lighthouse.json) |
 | [September 6 at 4:53 AM](https://archive.org/download/9news-2022/9news-2022-09-06T04:53:15.044218-06:00.lighthouse.json) |
 | [September 5 at 4:57 PM](https://archive.org/download/9news-2022/9news-2022-09-05T16:57:51.028784-06:00.lighthouse.json) |
 | [September 5 at 4:57 AM](https://archive.org/download/9news-2022/9news-2022-09-05T04:57:41.332139-06:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 3 at 6:08 AM](https://archive.org/download/9news-2022/9news-2022-09-03T06:08:05.207071-06:00.lighthouse.json) |
 | [September 3 at 4:49 AM](https://archive.org/download/9news-2022/9news-2022-09-03T04:49:44.651984-06:00.lighthouse.json) |
 | [September 2 at 5:49 PM](https://archive.org/download/9news-2022/9news-2022-09-02T17:49:05.588564-06:00.lighthouse.json) |
-| [September 2 at 4:55 AM](https://archive.org/download/9news-2022/9news-2022-09-02T04:55:18.411955-06:00.lighthouse.json) |
 
 
 

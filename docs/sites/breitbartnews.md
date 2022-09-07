@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 335 screenshots with the Internet Archive.
+The archiving routine has saved 337 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-06T19:05:26.848228-04:00.jpg">
+  <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-06T19:05:26.848228-04:00.jpg"
+     alt="Breitbart at 2022-09-06 19:05:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-06T19:05:26.848228-04:00.jpg">September 6 at 7:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-06T06:55:04.870609-04:00.jpg">
+  <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-06T06:55:04.870609-04:00.jpg"
+     alt="Breitbart at 2022-09-06 06:55:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-06T06:55:04.870609-04:00.jpg">September 6 at 6:55 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-05T19:00:22.691851-04:00.jpg">
   <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-05T19:00:22.691851-04:00.jpg"
      alt="Breitbart at 2022-09-05 19:00:24-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-02T19:52:47.704996-04:00.jpg">September 2 at 7:52 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-02T14:32:25.563992-04:00.jpg">
-  <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-02T14:32:25.563992-04:00.jpg"
-     alt="Breitbart at 2022-09-02 14:32:36-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-02T14:32:25.563992-04:00.jpg">September 2 at 2:32 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-02T06:57:20.281569-04:00.jpg">
-  <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-02T06:57:20.281569-04:00.jpg"
-     alt="Breitbart at 2022-09-02 06:57:29-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-02T06:57:20.281569-04:00.jpg">September 2 at 6:57 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 332 hyperlink lists with the Internet Archive.
+The archiving routine has saved 334 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 6 at 7:05 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-06T19:05:26.848228-04:00.hyperlinks.json) |
+| [September 6 at 6:55 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-06T06:55:04.870609-04:00.hyperlinks.json) |
 | [September 5 at 7:00 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-05T19:00:22.691851-04:00.hyperlinks.json) |
 | [September 5 at 2:36 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-05T14:36:21.307174-04:00.hyperlinks.json) |
 | [September 5 at 7:00 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-05T07:00:27.451722-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 3 at 6:55 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-03T18:55:41.171453-04:00.hyperlinks.json) |
 | [September 3 at 2:30 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-03T14:30:33.418628-04:00.hyperlinks.json) |
 | [September 3 at 8:10 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-03T08:10:35.452793-04:00.hyperlinks.json) |
-| [September 3 at 6:51 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-03T06:51:14.527453-04:00.hyperlinks.json) |
-| [September 2 at 7:52 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-02T19:52:47.704996-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 328 accessibility trees with the Internet Archive.
+The archiving routine has saved 330 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 6 at 7:05 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-06T19:05:26.848228-04:00.accessibility.json) |
+| [September 6 at 6:55 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-06T06:55:04.870609-04:00.accessibility.json) |
 | [September 5 at 7:00 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-05T19:00:22.691851-04:00.accessibility.json) |
 | [September 5 at 2:36 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-05T14:36:21.307174-04:00.accessibility.json) |
 | [September 5 at 7:00 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-05T07:00:27.451722-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 3 at 6:55 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-03T18:55:41.171453-04:00.accessibility.json) |
 | [September 3 at 2:30 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-03T14:30:33.418628-04:00.accessibility.json) |
 | [September 3 at 8:10 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-03T08:10:35.452793-04:00.accessibility.json) |
-| [September 3 at 6:51 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-03T06:51:14.527453-04:00.accessibility.json) |
-| [September 2 at 7:52 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-02T19:52:47.704996-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 6 at 7:05 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-06T19:05:26.848228-04:00.lighthouse.json) |
+| [September 6 at 6:55 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-06T06:55:04.870609-04:00.lighthouse.json) |
 | [September 5 at 7:00 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-05T19:00:22.691851-04:00.lighthouse.json) |
 | [September 5 at 2:36 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-05T14:36:21.307174-04:00.lighthouse.json) |
 | [September 5 at 7:00 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-05T07:00:27.451722-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 3 at 6:55 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-03T18:55:41.171453-04:00.lighthouse.json) |
 | [September 3 at 2:30 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-03T14:30:33.418628-04:00.lighthouse.json) |
 | [September 3 at 8:10 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-03T08:10:35.452793-04:00.lighthouse.json) |
-| [September 3 at 6:51 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-03T06:51:14.527453-04:00.lighthouse.json) |
-| [September 2 at 7:53 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-09-02T19:52:47.704996-04:00.lighthouse.json) |
 
 
 
