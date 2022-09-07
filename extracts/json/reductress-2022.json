@@ -1,5 +1,5 @@
 {
-  "created": 1662427628,
+  "created": 1662515167,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/34/items/reductress-2022",
@@ -2868,31 +2868,93 @@
       "sha1": "fed3bc179f91770411a0d532e9868a8e549d4817"
     },
     {
+      "name": "reductress-2022-09-06T21:21:34.304895-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662513699",
+      "size": "20582",
+      "md5": "6776bc31978bd992220c4392c48849c5",
+      "crc32": "29a37de0",
+      "sha1": "c8db81bac70cf453456157833c55bb8f502f0c43",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-09-06T21:21:34.304895-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662513700",
+      "size": "20306",
+      "md5": "89bd4d1619f32be5f3bf6b1e5d5f20e6",
+      "crc32": "c3152561",
+      "sha1": "509262efdb5910a4346ec0bff245bfc09a5014ec",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-09-06T21:21:34.304895-04:00.jpg",
+      "source": "original",
+      "mtime": "1662513697",
+      "size": "346719",
+      "md5": "f0659d49c931de9741908ff4b39e4fae",
+      "crc32": "25ce6e4f",
+      "sha1": "9b9348339a5d0ec96af6e9486120ff53e7be10a6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reductress-2022-09-06T21:21:34.304895-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662513702",
+      "size": "1459",
+      "md5": "9101fa89b097da36c7698becea92a23b",
+      "crc32": "51756636",
+      "sha1": "469c272f1907c0b974d2daa5ca34d773153eed23",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-09-06T21:21:34.304895-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662513704",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-09-06T21:21:34.304895-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reductress-2022-09-06T21:21:34.304895-04:00.jpg",
+      "mtime": "1662513761",
+      "size": "11162",
+      "md5": "55903b26cd6a15a4826e90fb5f4bea92",
+      "crc32": "85726aa8",
+      "sha1": "6af66a54a639f937bd694895ea46c27b62199cda"
+    },
+    {
       "name": "reductress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6ba900ca13f7e774a2610449e88d8ef1ad5bb75a",
-      "mtime": "1662427619",
-      "size": "60246",
-      "md5": "6073b7dde99b955111368bd170601967",
-      "crc32": "5b84e3e7",
-      "sha1": "449a1a8f91e87741b00f4711baba436ba3d79734",
+      "btih": "be4118ed12f2ba287cdb7d51b46795de703f74c7",
+      "mtime": "1662513766",
+      "size": "61524",
+      "md5": "1414f7d826c4db916235d7fbbbff649d",
+      "crc32": "ce142ee2",
+      "sha1": "60923966f0e62d4344aaf23ae7d27967217d8089",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reductress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "38d19236cef77e4a37b41627799ac63c",
+      "md5": "ef4bc46c8ff2ff08ce012a04e053bb00",
       "summation": "md5"
     },
     {
       "name": "reductress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662427551",
-      "size": "372736",
-      "md5": "188da9196b532eafd8b1496bdbd0b187",
-      "crc32": "03e94577",
-      "sha1": "4e98f24a24d36c9b05706ba642f91a3f139ce924",
+      "mtime": "1662513707",
+      "size": "380928",
+      "md5": "2f043c12bba00f2e0691ceebff2f6e4b",
+      "crc32": "fb36c2e1",
+      "sha1": "02fd7a7f7a3bf90f49e1e037d91b38371bcef50d",
       "format": "Metadata"
     },
     {
@@ -2906,9 +2968,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 281,
-  "item_last_updated": 1662427619,
-  "item_size": 18114928,
+  "files_count": 287,
+  "item_last_updated": 1662513766,
+  "item_size": 18524828,
   "metadata": {
     "identifier": "reductress-2022",
     "collection": [
@@ -2925,8 +2987,13 @@
     "publicdate": "2022-08-15 01:29:39",
     "addeddate": "2022-08-15 01:29:39"
   },
+  "reductress-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia801502.us.archive.org",
-  "uniq": 1651884716,
+  "uniq": 709758042,
   "workable_servers": [
     "ia801502.us.archive.org",
     "ia601502.us.archive.org"

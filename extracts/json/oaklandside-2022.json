@@ -1,5 +1,6 @@
 {
-  "created": 1662427527,
+  "conflict": 1662514787,
+  "created": 1662514787,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/30/items/oaklandside-2022",
@@ -14270,31 +14271,78 @@
       "sha1": "c7e82208a140545580e17e7aa9dca9cb17298b72"
     },
     {
+      "name": "oaklandside-2022-09-06T18:19:23.270935-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662513568",
+      "size": "31007",
+      "md5": "c41c9351d2065caf8f1a634d65453ed8",
+      "crc32": "b71c68ca",
+      "sha1": "1117079647eae6074f83822419603b71b15dcd33",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-09-06T18:19:23.270935-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662513571",
+      "size": "27656",
+      "md5": "ee46a50162acd1109630b70c658d259a",
+      "crc32": "b4fa89d9",
+      "sha1": "65725690ae25427d5d7ba19d23101a4a790d61c6",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-09-06T18:19:23.270935-07:00.jpg",
+      "source": "original",
+      "mtime": "1662513565",
+      "size": "279468",
+      "md5": "6bd63cd8b82a67441fbe8401998d9860",
+      "crc32": "27c22c38",
+      "sha1": "56db00cfa8d42eeb952494e55ced55dd166ac2a7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oaklandside-2022-09-06T18:19:23.270935-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662513573",
+      "size": "1468",
+      "md5": "6ffaad7e903bd6f63184007929ecad65",
+      "crc32": "8c9fa6dc",
+      "sha1": "f75c83a5561878806ce34c013c246891db8da76f",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-09-06T18:19:23.270935-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oaklandside-2022-09-06T18:19:23.270935-07:00.jpg"
+    },
+    {
       "name": "oaklandside-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d296486402e35a2c3739981ef42673a4ec1d96b7",
-      "mtime": "1662427507",
-      "size": "293665",
-      "md5": "1d8b37d759276c652550cb7e084c6625",
-      "crc32": "3d4aec1b",
-      "sha1": "2f3130af955e64222267c7fa1f6d7fe9d410c655",
+      "btih": "78953c2bdddc3974c398a0c2a4b6e8964f08f331",
+      "mtime": "1662513630",
+      "size": "294532",
+      "md5": "5ffac85862900acd6377b44101f08887",
+      "crc32": "cd56912b",
+      "sha1": "cd658008e46a9512666d110abe96913029ce8e8f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oaklandside-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "59f464de24b2dd26be7ed74ba7d23cfc",
+      "md5": "0c63fadae26cb53554b66e406ed2c3dc",
       "summation": "md5"
     },
     {
       "name": "oaklandside-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662427410",
-      "size": "1630208",
-      "md5": "1580c1f9d8cf4bb0690dda54dc90235b",
-      "crc32": "69a6d73c",
-      "sha1": "c72619de44795786721d9d33a4f48b099f81adb7",
+      "mtime": "1662513578",
+      "size": "1634304",
+      "md5": "ce1c89eb437c12f9b7eccb07be0b46af",
+      "crc32": "4487e00d",
+      "sha1": "17efcc367de38570d40c9ceed2889b658955f267",
       "format": "Metadata"
     },
     {
@@ -14308,9 +14356,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1369,
-  "item_last_updated": 1662427507,
-  "item_size": 128560232,
+  "files_count": 1374,
+  "item_last_updated": 1662513630,
+  "item_size": 128904794,
   "metadata": {
     "identifier": "oaklandside-2022",
     "collection": [
@@ -14327,10 +14375,21 @@
     "publicdate": "2022-03-23 02:09:27",
     "addeddate": "2022-03-23 02:09:27"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 422983257,
+  "pending_tasks": true,
+  "server": "ia902503.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3395622893,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1743640331,
   "workable_servers": [
-    "ia802503.us.archive.org",
     "ia902503.us.archive.org"
   ]
 }
