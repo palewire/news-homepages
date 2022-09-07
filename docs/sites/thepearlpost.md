@@ -28,13 +28,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 6 screenshots with the Internet Archive.
+The archiving routine has saved 7 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-07T06:50:15.507842-07:00.jpg">
+  <img src="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-07T06:50:15.507842-07:00.jpg"
+     alt="Pearl Post at 2022-09-07 06:50:17-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-07T06:50:15.507842-07:00.jpg">September 7 at 6:50 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-06T18:23:45.441932-07:00.jpg">
@@ -94,7 +103,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 6 hyperlink lists with the Internet Archive.
+The archiving routine has saved 7 hyperlink lists with the Internet Archive.
 
 
 
@@ -102,6 +111,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 7 at 6:50 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-07T06:50:15.507842-07:00.hyperlinks.json) |
 | [September 6 at 6:23 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-06T18:23:45.441932-07:00.hyperlinks.json) |
 | [September 5 at 6:28 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-05T18:28:04.846437-07:00.hyperlinks.json) |
 | [September 5 at 7:12 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-05T07:12:36.213532-07:00.hyperlinks.json) |
@@ -112,7 +122,7 @@ Here are the 10 most recent hyperlink lists.
 
 ### Accessibility
 
-The archiving routine has saved 6 accessibility trees with the Internet Archive.
+The archiving routine has saved 7 accessibility trees with the Internet Archive.
 
 
 
@@ -120,6 +130,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 7 at 6:50 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-07T06:50:15.507842-07:00.accessibility.json) |
 | [September 6 at 6:23 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-06T18:23:45.441932-07:00.accessibility.json) |
 | [September 5 at 6:28 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-05T18:28:04.846437-07:00.accessibility.json) |
 | [September 5 at 7:12 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-05T07:12:36.213532-07:00.accessibility.json) |
@@ -131,7 +142,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 5 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 6 Lighthouse audits with the Internet Archive.
 
 
 
@@ -139,6 +150,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 6:50 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-07T06:50:15.507842-07:00.lighthouse.json) |
 | [September 6 at 6:23 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-06T18:23:45.441932-07:00.lighthouse.json) |
 | [September 5 at 6:28 PM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-05T18:28:04.846437-07:00.lighthouse.json) |
 | [September 5 at 7:12 AM](https://archive.org/download/thepearlpost-2022/thepearlpost-2022-09-05T07:12:36.213532-07:00.lighthouse.json) |

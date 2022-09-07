@@ -234,13 +234,105 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 30 screenshots with the Internet Archive.
+The archiving routine has saved 31 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/theaspentimes.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-07T07:50:36.411980-06:00.jpg">
+  <img src="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-07T07:50:36.411980-06:00.jpg"
+     alt="Aspen Times at 2022-09-07 07:50:41-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-07T07:50:36.411980-06:00.jpg">September 7 at 7:50 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-06T19:24:14.335793-06:00.jpg">
@@ -341,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-01T07:14:50.153157-06:00.jpg">September 1 at 7:14 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-08-31T19:16:31.988105-06:00.jpg">
-  <img src="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-08-31T19:16:31.988105-06:00.jpg"
-     alt="Aspen Times at 2022-08-31 19:16:33-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-08-31T19:16:31.988105-06:00.jpg">August 31 at 7:16 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 27 hyperlink lists with the Internet Archive.
+The archiving routine has saved 28 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +445,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 7 at 7:50 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-07T07:50:36.411980-06:00.hyperlinks.json) |
 | [September 6 at 7:24 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-06T19:24:14.335793-06:00.hyperlinks.json) |
 | [September 5 at 7:27 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-05T19:27:48.059484-06:00.hyperlinks.json) |
 | [September 5 at 8:12 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-05T08:12:21.792442-06:00.hyperlinks.json) |
@@ -371,19 +455,102 @@ Here are the 10 most recent hyperlink lists.
 | [September 3 at 7:13 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-03T07:13:47.743538-06:00.hyperlinks.json) |
 | [September 2 at 7:25 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-02T19:25:07.887381-06:00.hyperlinks.json) |
 | [September 2 at 7:06 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-02T07:06:05.120976-06:00.hyperlinks.json) |
-| [September 1 at 7:19 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-01T19:19:45.058393-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 30 accessibility trees with the Internet Archive.
+The archiving routine has saved 31 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/theaspentimes.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 7 at 7:50 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-07T07:50:36.411980-06:00.accessibility.json) |
 | [September 6 at 7:24 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-06T19:24:14.335793-06:00.accessibility.json) |
 | [September 5 at 7:27 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-05T19:27:48.059484-06:00.accessibility.json) |
 | [September 5 at 8:12 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-05T08:12:21.792442-06:00.accessibility.json) |
@@ -393,20 +560,103 @@ Here are the 10 most recent accessibility trees.
 | [September 3 at 7:13 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-03T07:13:47.743538-06:00.accessibility.json) |
 | [September 2 at 7:25 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-02T19:25:07.887381-06:00.accessibility.json) |
 | [September 2 at 7:06 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-02T07:06:05.120976-06:00.accessibility.json) |
-| [September 1 at 7:19 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-01T19:19:45.058393-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/theaspentimes.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 7:50 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-07T07:50:36.411980-06:00.lighthouse.json) |
 | [September 6 at 7:24 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-06T19:24:14.335793-06:00.lighthouse.json) |
 | [September 5 at 7:27 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-05T19:27:48.059484-06:00.lighthouse.json) |
 | [September 5 at 8:12 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-05T08:12:21.792442-06:00.lighthouse.json) |
@@ -416,7 +666,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 3 at 7:13 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-03T07:13:47.743538-06:00.lighthouse.json) |
 | [September 2 at 7:25 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-02T19:25:07.887381-06:00.lighthouse.json) |
 | [September 2 at 7:06 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-02T07:06:05.120976-06:00.lighthouse.json) |
-| [September 1 at 7:19 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-01T19:19:45.058393-06:00.lighthouse.json) |
 
 
 
