@@ -1,5 +1,5 @@
 {
-  "created": 1662553002,
+  "created": 1662571518,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/26/items/chicago_reader-2022",
@@ -11852,31 +11852,83 @@
       "sha1": "52b68d4afe6ef9315f7a32fcecb080c45fe17590"
     },
     {
+      "name": "chicago_reader-2022-09-07T12:19:33.667046-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662571176",
+      "size": "42914",
+      "md5": "c55fe45f425b8a3f1a1002315dd834bd",
+      "crc32": "5c81ac38",
+      "sha1": "943c7431ecaf5eecce8a9a5cab1fbcc9df3292df",
+      "format": "JSON"
+    },
+    {
+      "name": "chicago_reader-2022-09-07T12:19:33.667046-05:00.jpg",
+      "source": "original",
+      "mtime": "1662571174",
+      "size": "178323",
+      "md5": "e2226db00d4098c460ade56db2ae7409",
+      "crc32": "e078a7e0",
+      "sha1": "b2fbcfe727fad1fafd7ca1fc2acc103104c69e63",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chicago_reader-2022-09-07T12:19:33.667046-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662571177",
+      "size": "1486",
+      "md5": "97a713eff40bd4bde44251a88bd9f490",
+      "crc32": "22196583",
+      "sha1": "9349520fa3ffa5b3ddf7876403c1150e49bf63c9",
+      "format": "JSON"
+    },
+    {
+      "name": "chicago_reader-2022-09-07T12:19:33.667046-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662571179",
+      "size": "29065",
+      "md5": "9ba6310091c1a1fd18ecf1962b71b1d1",
+      "crc32": "ead2abef",
+      "sha1": "cdb57cc34a89b5e9ff9bf93076fe139dda749245",
+      "format": "JSON"
+    },
+    {
+      "name": "chicago_reader-2022-09-07T12:19:33.667046-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chicago_reader-2022-09-07T12:19:33.667046-05:00.jpg",
+      "mtime": "1662571292",
+      "size": "8680",
+      "md5": "e694fa7ffd41c777120b75c44b98f54b",
+      "crc32": "6c95417d",
+      "sha1": "f871d1d3867488b25aa4d42450acf19600ed5957"
+    },
+    {
       "name": "chicago_reader-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0a48ae911922869648c905e705c861172ec85582",
-      "mtime": "1662552984",
-      "size": "247383",
-      "md5": "ff8576fd98916c8cdbb7ef667803c1c8",
-      "crc32": "0505db58",
-      "sha1": "cd821537a9a09c4543bc3150426fb5b902d6d2c3",
+      "btih": "b85d5457a321f8f3ae7ebbc2dc8ab2d7cca26950",
+      "mtime": "1662571324",
+      "size": "248446",
+      "md5": "ffd58e69317ef21fc72206edf7bfc3a4",
+      "crc32": "5b3d319f",
+      "sha1": "1cda9ba8a0825a1ae34e899e48674ec7cedc262c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chicago_reader-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3f7b09b96620753ace87b6e47d6000d1",
+      "md5": "c374159b31bb936562c18c7c2471c404",
       "summation": "md5"
     },
     {
       "name": "chicago_reader-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662552861",
-      "size": "1413120",
-      "md5": "7a5556013c42b6f55ddf9581d0a854e0",
-      "crc32": "354b4f92",
-      "sha1": "61ffd6b3c4ffa48a9d1efede369d36126affcb51",
+      "mtime": "1662571195",
+      "size": "1417216",
+      "md5": "1c02554b125eac0c4619301392dad69f",
+      "crc32": "15b0cdcc",
+      "sha1": "0402b213f9ae8268493f0fba9cb8991574f30035",
       "format": "Metadata"
     },
     {
@@ -11890,9 +11942,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1143,
-  "item_last_updated": 1662552984,
-  "item_size": 70161288,
+  "files_count": 1148,
+  "item_last_updated": 1662571324,
+  "item_size": 70426915,
   "metadata": {
     "identifier": "chicago_reader-2022",
     "collection": [
@@ -11910,9 +11962,9 @@
     "addeddate": "2022-06-24 22:53:23"
   },
   "server": "ia801406.us.archive.org",
-  "uniq": 788768123,
+  "servers_unavailable": true,
+  "uniq": 338095799,
   "workable_servers": [
-    "ia801406.us.archive.org",
-    "ia601406.us.archive.org"
+    "ia801406.us.archive.org"
   ]
 }
