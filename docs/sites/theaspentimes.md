@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-06T19:24:14.335793-06:00.jpg">
+  <img src="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-06T19:24:14.335793-06:00.jpg"
+     alt="Aspen Times at 2022-09-06 19:24:15-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-06T19:24:14.335793-06:00.jpg">September 6 at 7:24 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-05T19:27:48.059484-06:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-08-31T19:16:31.988105-06:00.jpg">August 31 at 7:16 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-08-31T07:14:12.270247-06:00.jpg">
-  <img src="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-08-31T07:14:12.270247-06:00.jpg"
-     alt="Aspen Times at 2022-08-31 07:14:14-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theaspentimes-2022/theaspentimes-2022-08-31T07:14:12.270247-06:00.jpg">August 31 at 7:14 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 26 hyperlink lists with the Internet Archive.
+The archiving routine has saved 27 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 6 at 7:24 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-06T19:24:14.335793-06:00.hyperlinks.json) |
 | [September 5 at 7:27 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-05T19:27:48.059484-06:00.hyperlinks.json) |
 | [September 5 at 8:12 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-05T08:12:21.792442-06:00.hyperlinks.json) |
 | [September 4 at 7:25 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-04T19:24:57.279146-06:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 2 at 7:25 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-02T19:25:07.887381-06:00.hyperlinks.json) |
 | [September 2 at 7:06 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-02T07:06:05.120976-06:00.hyperlinks.json) |
 | [September 1 at 7:19 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-01T19:19:45.058393-06:00.hyperlinks.json) |
-| [September 1 at 7:14 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-01T07:14:50.153157-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 29 accessibility trees with the Internet Archive.
+The archiving routine has saved 30 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 6 at 7:24 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-06T19:24:14.335793-06:00.accessibility.json) |
 | [September 5 at 7:27 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-05T19:27:48.059484-06:00.accessibility.json) |
 | [September 5 at 8:12 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-05T08:12:21.792442-06:00.accessibility.json) |
 | [September 4 at 7:25 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-04T19:24:57.279146-06:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 2 at 7:25 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-02T19:25:07.887381-06:00.accessibility.json) |
 | [September 2 at 7:06 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-02T07:06:05.120976-06:00.accessibility.json) |
 | [September 1 at 7:19 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-01T19:19:45.058393-06:00.accessibility.json) |
-| [September 1 at 7:14 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-01T07:14:50.153157-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 6 at 7:24 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-06T19:24:14.335793-06:00.lighthouse.json) |
 | [September 5 at 7:27 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-05T19:27:48.059484-06:00.lighthouse.json) |
 | [September 5 at 8:12 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-05T08:12:21.792442-06:00.lighthouse.json) |
 | [September 4 at 7:25 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-04T19:24:57.279146-06:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 2 at 7:25 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-02T19:25:07.887381-06:00.lighthouse.json) |
 | [September 2 at 7:06 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-02T07:06:05.120976-06:00.lighthouse.json) |
 | [September 1 at 7:19 PM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-01T19:19:45.058393-06:00.lighthouse.json) |
-| [September 1 at 7:14 AM](https://archive.org/download/theaspentimes-2022/theaspentimes-2022-09-01T07:14:50.153157-06:00.lighthouse.json) |
 
 
 
