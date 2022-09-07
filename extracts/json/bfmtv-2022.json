@@ -1,5 +1,10 @@
 {
-  "created": 1662552988,
+  "bfmtv-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1662594725,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/34/items/bfmtv-2022",
@@ -7818,31 +7823,93 @@
       "sha1": "16f2d847ad4e17e52f6ee1e6c441196f53853ad4"
     },
     {
+      "name": "bfmtv-2022-09-08T00:59:45.910318+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662591592",
+      "size": "74229",
+      "md5": "83f70ad8baa71b04cbf80466d9f99816",
+      "crc32": "a2a81c17",
+      "sha1": "fb73d25bc5f68d09682afa5821ae848629c0502c",
+      "format": "JSON"
+    },
+    {
+      "name": "bfmtv-2022-09-08T00:59:45.910318+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662591593",
+      "size": "54424",
+      "md5": "8415b323ee11a3c138e187c94714b986",
+      "crc32": "b428beb2",
+      "sha1": "5c682b1171cd5cf37cf608817fc6672a0f8b8076",
+      "format": "JSON"
+    },
+    {
+      "name": "bfmtv-2022-09-08T00:59:45.910318+02:00.jpg",
+      "source": "original",
+      "mtime": "1662591590",
+      "size": "310102",
+      "md5": "467cf84ebf12aff4fde8e07247a0c867",
+      "crc32": "a37d7915",
+      "sha1": "06e64d93a99362548519ea052aa4c8bab81d02a2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bfmtv-2022-09-08T00:59:45.910318+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662591595",
+      "size": "1450",
+      "md5": "475fac5e25cf9e362d726c0b503f7707",
+      "crc32": "a6364415",
+      "sha1": "b82484f6ce539fa468b7746ef1a2fccff62e3a55",
+      "format": "JSON"
+    },
+    {
+      "name": "bfmtv-2022-09-08T00:59:45.910318+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1662591597",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "bfmtv-2022-09-08T00:59:45.910318+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bfmtv-2022-09-08T00:59:45.910318+02:00.jpg",
+      "mtime": "1662591769",
+      "size": "10842",
+      "md5": "5df26ba62712bd75f87a82695eb9836a",
+      "crc32": "70cb5bc8",
+      "sha1": "d15df57b1e2745f97cf66791f859bae6bd48da3b"
+    },
+    {
       "name": "bfmtv-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c5b52e246df9e6d27379852bf5fc6553eaa382e1",
-      "mtime": "1662552941",
-      "size": "158547",
-      "md5": "ca7253f84fbe9c4357745981fa5d75a3",
-      "crc32": "8c472d8b",
-      "sha1": "526598f6c3bf9960d0f99bb21281b3b0f429b1fc",
+      "btih": "a112a31580bcd8795d102c276e52bf7888555d4a",
+      "mtime": "1662591779",
+      "size": "159795",
+      "md5": "643fdb18e766b683b860b83c8bb624ba",
+      "crc32": "05e31186",
+      "sha1": "fe34fb47dd50af84e2ee6333895a1601dcf5759c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bfmtv-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "87f6dbe4bd05b037f40193b73e5a548c",
+      "md5": "660c307f0d9225289c7e11a947e4b48a",
       "summation": "md5"
     },
     {
       "name": "bfmtv-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662552819",
-      "size": "962560",
-      "md5": "afdb548cc2a7f018cd407bf340ba99f0",
-      "crc32": "3f1d6242",
-      "sha1": "0377eacf5a8d02947cb1b3a234486e7703588633",
+      "mtime": "1662591607",
+      "size": "970752",
+      "md5": "ecad2cc0c2316fe8d2324ea00bf4b2fe",
+      "crc32": "9aaa5261",
+      "sha1": "3a1075d21c93df10f6a7d97be9569a0a0f22fb7b",
       "format": "Metadata"
     },
     {
@@ -7856,9 +7923,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 759,
-  "item_last_updated": 1662552941,
-  "item_size": 63697190,
+  "files_count": 765,
+  "item_last_updated": 1662591779,
+  "item_size": 64157879,
   "metadata": {
     "identifier": "bfmtv-2022",
     "collection": [
@@ -7875,10 +7942,10 @@
     "publicdate": "2022-07-25 23:07:58",
     "addeddate": "2022-07-25 23:07:58"
   },
-  "server": "ia601404.us.archive.org",
-  "uniq": 311921944,
+  "server": "ia801404.us.archive.org",
+  "uniq": 1944322068,
   "workable_servers": [
-    "ia601404.us.archive.org",
-    "ia801404.us.archive.org"
+    "ia801404.us.archive.org",
+    "ia601404.us.archive.org"
   ]
 }
