@@ -1,5 +1,10 @@
 {
-  "created": 1662461891,
+  "coindesk-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1662509306,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/0/items/coindesk-2022",
@@ -5274,31 +5279,93 @@
       "sha1": "1f06c23d828398d2abb25232f32160a8d6cb9d53"
     },
     {
+      "name": "coindesk-2022-09-06T19:08:13.417182-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662505701",
+      "size": "79351",
+      "md5": "b0ceef56569301bd17ecfe55c515f348",
+      "crc32": "2eda9268",
+      "sha1": "8a7606d6cf54992fa9368d8e719ba86c1a5c9153",
+      "format": "JSON"
+    },
+    {
+      "name": "coindesk-2022-09-06T19:08:13.417182-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662505702",
+      "size": "245748",
+      "md5": "f6268e700c1ef99f0dcf9048bcc1c964",
+      "crc32": "cb6be9f4",
+      "sha1": "9fb9eb3124ce26f3fcfb656ea6644d0c43f11536",
+      "format": "JSON"
+    },
+    {
+      "name": "coindesk-2022-09-06T19:08:13.417182-04:00.jpg",
+      "source": "original",
+      "mtime": "1662505699",
+      "size": "292638",
+      "md5": "d91b43d74a634982e20ea4cdff12145f",
+      "crc32": "25ad0aa9",
+      "sha1": "bf361c6727645363c1af5556bed8a5ab0751726f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coindesk-2022-09-06T19:08:13.417182-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662505704",
+      "size": "1468",
+      "md5": "d7c23313e038284072b612d091ca7f3d",
+      "crc32": "3817b235",
+      "sha1": "8807f1be3b4b9e6c0add4c0acb68a32dfa7c7714",
+      "format": "JSON"
+    },
+    {
+      "name": "coindesk-2022-09-06T19:08:13.417182-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662505706",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "coindesk-2022-09-06T19:08:13.417182-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coindesk-2022-09-06T19:08:13.417182-04:00.jpg",
+      "mtime": "1662505772",
+      "size": "9953",
+      "md5": "066083913a264e6f62e5785a3070d450",
+      "crc32": "1c42d405",
+      "sha1": "257977904b6a60c1f6cd40384fe3f4709ed0f5ed"
+    },
+    {
       "name": "coindesk-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b5345e8373de3b3b938a74281eb5ddc9a36126a2",
-      "mtime": "1662461881",
-      "size": "108920",
-      "md5": "6110b4b2cbe84e73a47676bfbacb3f12",
-      "crc32": "e7fe474c",
-      "sha1": "eef43e84fca9efacdacce2bcfbe426a38e2f6a30",
+      "btih": "652c277d0ad9b9fa36a40ff56ecabc3c164c3cce",
+      "mtime": "1662505777",
+      "size": "110186",
+      "md5": "327ddb482ef880331969b5c85b6ee5d6",
+      "crc32": "8c8e1260",
+      "sha1": "86e673edd82e3329400a6af7e5f2f9d12cc0a62f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "coindesk-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8c7f602ad43be05701a47a5317d19afb",
+      "md5": "331d376c502c05d30d5f8cf591a3036f",
       "summation": "md5"
     },
     {
       "name": "coindesk-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662461815",
-      "size": "655360",
-      "md5": "2998992bc6a2b26115bbc9ed4e6525b8",
-      "crc32": "12520943",
-      "sha1": "ae62e2adee6e0bb64f0bbb651e7d0e30da2480c3",
+      "mtime": "1662505711",
+      "size": "663552",
+      "md5": "43b53890d43d1f07ff7f9a3f70cb270b",
+      "crc32": "672bdf9f",
+      "sha1": "72c7c8f35010ff696d432f75c4b4ccd4944eb6b2",
       "format": "Metadata"
     },
     {
@@ -5312,9 +5379,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 513,
-  "item_last_updated": 1662461881,
-  "item_size": 44985706,
+  "files_count": 519,
+  "item_last_updated": 1662505777,
+  "item_size": 45624524,
   "metadata": {
     "identifier": "coindesk-2022",
     "collection": [
@@ -5331,10 +5398,10 @@
     "publicdate": "2022-07-25 06:46:58",
     "addeddate": "2022-07-25 06:46:58"
   },
-  "server": "ia801509.us.archive.org",
-  "uniq": 1366826948,
+  "server": "ia601509.us.archive.org",
+  "uniq": 1633603409,
   "workable_servers": [
-    "ia801509.us.archive.org",
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }
