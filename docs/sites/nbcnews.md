@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 629 screenshots with the Internet Archive.
+The archiving routine has saved 631 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-09-07T17:15:50.201413-04:00.jpg">
+  <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-09-07T17:15:50.201413-04:00.jpg"
+     alt="NBC News at 2022-09-07 17:15:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-09-07T17:15:50.201413-04:00.jpg">September 7 at 5:15 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-09-07T09:54:02.072274-04:00.jpg">
+  <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-09-07T09:54:02.072274-04:00.jpg"
+     alt="NBC News at 2022-09-07 09:54:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-09-07T09:54:02.072274-04:00.jpg">September 7 at 9:54 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-09-07T08:44:28.326396-04:00.jpg">
   <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-09-07T08:44:28.326396-04:00.jpg"
      alt="NBC News at 2022-09-07 08:44:29-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-09-04T07:59:07.720435-04:00.jpg">September 4 at 7:59 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-09-03T19:50:49.104376-04:00.jpg">
-  <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-09-03T19:50:49.104376-04:00.jpg"
-     alt="NBC News at 2022-09-03 19:50:51-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-09-03T19:50:49.104376-04:00.jpg">September 3 at 7:50 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-09-03T17:17:26.912633-04:00.jpg">
-  <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-09-03T17:17:26.912633-04:00.jpg"
-     alt="NBC News at 2022-09-03 17:17:28-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-09-03T17:17:26.912633-04:00.jpg">September 3 at 5:17 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 610 hyperlink lists with the Internet Archive.
+The archiving routine has saved 612 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 7 at 5:15 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-07T17:15:50.201413-04:00.hyperlinks.json) |
+| [September 7 at 9:54 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-07T09:54:02.072274-04:00.hyperlinks.json) |
 | [September 7 at 8:44 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-07T08:44:28.326396-04:00.hyperlinks.json) |
 | [September 6 at 8:16 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-06T20:15:56.442387-04:00.hyperlinks.json) |
 | [September 6 at 5:19 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-06T17:18:48.576804-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 5 at 9:18 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-05T09:18:05.846905-04:00.hyperlinks.json) |
 | [September 4 at 7:58 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-04T19:58:30.361876-04:00.hyperlinks.json) |
 | [September 4 at 5:24 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-04T17:24:01.989806-04:00.hyperlinks.json) |
-| [September 4 at 9:01 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-04T09:01:09.084646-04:00.hyperlinks.json) |
-| [September 4 at 7:59 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-04T07:59:07.720435-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 612 accessibility trees with the Internet Archive.
+The archiving routine has saved 614 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 7 at 5:15 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-07T17:15:50.201413-04:00.accessibility.json) |
+| [September 7 at 9:54 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-07T09:54:02.072274-04:00.accessibility.json) |
 | [September 7 at 8:44 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-07T08:44:28.326396-04:00.accessibility.json) |
 | [September 6 at 5:19 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-06T17:18:48.576804-04:00.accessibility.json) |
 | [September 5 at 8:01 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-05T20:01:01.133831-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 5 at 8:23 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-05T08:23:08.034034-04:00.accessibility.json) |
 | [September 4 at 7:58 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-04T19:58:30.361876-04:00.accessibility.json) |
 | [September 4 at 5:24 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-04T17:24:01.989806-04:00.accessibility.json) |
-| [September 4 at 9:01 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-04T09:01:09.084646-04:00.accessibility.json) |
-| [September 4 at 7:59 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-04T07:59:07.720435-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 177 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 179 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 5:15 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-07T17:15:50.201413-04:00.lighthouse.json) |
+| [September 7 at 9:54 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-07T09:54:02.072274-04:00.lighthouse.json) |
 | [September 7 at 8:44 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-07T08:44:28.326396-04:00.lighthouse.json) |
 | [September 6 at 8:16 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-06T20:15:56.442387-04:00.lighthouse.json) |
 | [September 6 at 5:19 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-06T17:18:48.576804-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 5 at 9:18 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-05T09:18:05.846905-04:00.lighthouse.json) |
 | [September 5 at 8:23 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-05T08:23:08.034034-04:00.lighthouse.json) |
 | [September 4 at 7:58 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-04T19:58:30.361876-04:00.lighthouse.json) |
-| [September 4 at 5:24 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-04T17:24:01.989806-04:00.lighthouse.json) |
-| [September 4 at 9:01 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-09-04T09:01:09.084646-04:00.lighthouse.json) |
 
 
 
