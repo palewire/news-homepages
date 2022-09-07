@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 135 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 12:19 PM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-09-07T12:19:40.800217-05:00.lighthouse.json) |
 | [September 7 at 7:13 AM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-09-07T07:13:02.803401-05:00.lighthouse.json) |
 | [September 6 at 6:05 PM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-09-06T18:05:37.188112-05:00.lighthouse.json) |
 | [September 6 at 5:54 AM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-09-06T05:54:52.355159-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 4 at 5:55 PM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-09-04T17:55:06.937741-05:00.lighthouse.json) |
 | [September 4 at 11:41 AM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-09-04T11:41:05.331532-05:00.lighthouse.json) |
 | [September 4 at 5:51 AM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-09-04T05:51:09.547985-05:00.lighthouse.json) |
-| [September 3 at 5:55 PM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-09-03T17:54:56.709669-05:00.lighthouse.json) |
 
 
 

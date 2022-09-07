@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 135 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 12:21 PM](https://archive.org/download/wbez-2022/wbez-2022-09-07T12:21:20.774950-05:00.lighthouse.json) |
 | [September 7 at 10:35 AM](https://archive.org/download/wbez-2022/wbez-2022-09-07T10:35:08.785427-05:00.lighthouse.json) |
 | [September 6 at 9:37 PM](https://archive.org/download/wbez-2022/wbez-2022-09-06T21:37:36.783889-05:00.lighthouse.json) |
 | [September 5 at 9:32 PM](https://archive.org/download/wbez-2022/wbez-2022-09-05T21:31:56.686802-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 4 at 11:42 AM](https://archive.org/download/wbez-2022/wbez-2022-09-04T11:42:08.685007-05:00.lighthouse.json) |
 | [September 4 at 9:48 AM](https://archive.org/download/wbez-2022/wbez-2022-09-04T09:48:01.375792-05:00.lighthouse.json) |
 | [September 3 at 9:32 PM](https://archive.org/download/wbez-2022/wbez-2022-09-03T21:32:19.850487-05:00.lighthouse.json) |
-| [September 3 at 10:58 AM](https://archive.org/download/wbez-2022/wbez-2022-09-03T10:58:48.675770-05:00.lighthouse.json) |
 
 
 

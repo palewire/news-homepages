@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 135 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 12:20 PM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-09-07T12:19:59.328172-05:00.lighthouse.json) |
 | [September 7 at 10:31 AM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-09-07T10:30:54.736437-05:00.lighthouse.json) |
 | [September 6 at 9:33 PM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-09-06T21:33:11.117763-05:00.lighthouse.json) |
 | [September 5 at 9:27 PM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-09-05T21:27:20.450753-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 4 at 11:41 AM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-09-04T11:41:09.688593-05:00.lighthouse.json) |
 | [September 4 at 9:17 AM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-09-04T09:17:11.572050-05:00.lighthouse.json) |
 | [September 3 at 9:29 PM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-09-03T21:29:01.719626-05:00.lighthouse.json) |
-| [September 3 at 10:58 AM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-09-03T10:58:39.134010-05:00.lighthouse.json) |
 
 
 

@@ -542,7 +542,7 @@ Here are the 10 most recent hyperlink lists.
 
 ### Accessibility
 
-The archiving routine has saved 227 accessibility trees with the Internet Archive.
+The archiving routine has saved 228 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 7 at 12:22 PM](https://archive.org/download/suntimes-2022/suntimes-2022-09-07T12:21:48.612671-05:00.accessibility.json) |
 | [September 7 at 8:48 AM](https://archive.org/download/suntimes-2022/suntimes-2022-09-07T08:47:49.579777-05:00.accessibility.json) |
 | [September 6 at 8:21 PM](https://archive.org/download/suntimes-2022/suntimes-2022-09-06T20:21:32.366884-05:00.accessibility.json) |
 | [September 5 at 8:25 PM](https://archive.org/download/suntimes-2022/suntimes-2022-09-05T20:25:17.231946-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 4 at 11:42 AM](https://archive.org/download/suntimes-2022/suntimes-2022-09-04T11:42:11.946574-05:00.accessibility.json) |
 | [September 4 at 7:57 AM](https://archive.org/download/suntimes-2022/suntimes-2022-09-04T07:57:37.005684-05:00.accessibility.json) |
 | [September 3 at 8:14 PM](https://archive.org/download/suntimes-2022/suntimes-2022-09-03T20:14:47.305671-05:00.accessibility.json) |
-| [September 3 at 10:58 AM](https://archive.org/download/suntimes-2022/suntimes-2022-09-03T10:58:54.236952-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 135 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 12:22 PM](https://archive.org/download/suntimes-2022/suntimes-2022-09-07T12:21:48.612671-05:00.lighthouse.json) |
 | [September 7 at 8:48 AM](https://archive.org/download/suntimes-2022/suntimes-2022-09-07T08:47:49.579777-05:00.lighthouse.json) |
 | [September 6 at 8:21 PM](https://archive.org/download/suntimes-2022/suntimes-2022-09-06T20:21:32.366884-05:00.lighthouse.json) |
 | [September 5 at 8:25 PM](https://archive.org/download/suntimes-2022/suntimes-2022-09-05T20:25:17.231946-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 4 at 11:42 AM](https://archive.org/download/suntimes-2022/suntimes-2022-09-04T11:42:11.946574-05:00.lighthouse.json) |
 | [September 4 at 7:57 AM](https://archive.org/download/suntimes-2022/suntimes-2022-09-04T07:57:37.005684-05:00.lighthouse.json) |
 | [September 3 at 8:14 PM](https://archive.org/download/suntimes-2022/suntimes-2022-09-03T20:14:47.305671-05:00.lighthouse.json) |
-| [September 3 at 10:59 AM](https://archive.org/download/suntimes-2022/suntimes-2022-09-03T10:58:54.236952-05:00.lighthouse.json) |
 
 
 

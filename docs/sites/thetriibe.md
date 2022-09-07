@@ -437,7 +437,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 248 hyperlink lists with the Internet Archive.
+The archiving routine has saved 249 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 7 at 12:21 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-09-07T12:21:45.277672-05:00.hyperlinks.json) |
 | [September 7 at 8:53 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-09-07T08:52:47.441250-05:00.hyperlinks.json) |
 | [September 6 at 8:23 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-09-06T20:23:39.938526-05:00.hyperlinks.json) |
 | [September 5 at 8:27 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-09-05T20:27:37.536408-05:00.hyperlinks.json) |
@@ -537,7 +538,6 @@ Here are the 10 most recent hyperlink lists.
 | [September 4 at 11:42 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-09-04T11:42:35.122774-05:00.hyperlinks.json) |
 | [September 4 at 7:59 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-09-04T07:59:20.134531-05:00.hyperlinks.json) |
 | [September 3 at 8:16 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-09-03T20:16:08.595476-05:00.hyperlinks.json) |
-| [September 3 at 10:58 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-09-03T10:58:40.910667-05:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 135 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 12:21 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-09-07T12:21:45.277672-05:00.lighthouse.json) |
 | [September 7 at 8:53 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-09-07T08:52:47.441250-05:00.lighthouse.json) |
 | [September 6 at 8:23 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-09-06T20:23:39.938526-05:00.lighthouse.json) |
 | [September 5 at 8:27 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-09-05T20:27:37.536408-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 4 at 11:42 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-09-04T11:42:35.122774-05:00.lighthouse.json) |
 | [September 4 at 7:59 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-09-04T07:59:20.134531-05:00.lighthouse.json) |
 | [September 3 at 8:16 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-09-03T20:16:08.595476-05:00.lighthouse.json) |
-| [September 3 at 10:58 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-09-03T10:58:40.910667-05:00.lighthouse.json) |
 
 
 

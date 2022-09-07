@@ -542,7 +542,7 @@ Here are the 10 most recent hyperlink lists.
 
 ### Accessibility
 
-The archiving routine has saved 36 accessibility trees with the Internet Archive.
+The archiving routine has saved 37 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 7 at 12:21 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-07T12:21:22.645497-05:00.accessibility.json) |
 | [September 7 at 7:13 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-07T07:13:04.901519-05:00.accessibility.json) |
 | [September 6 at 6:05 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-06T18:05:27.344938-05:00.accessibility.json) |
 | [September 6 at 5:55 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-06T05:54:57.126392-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 4 at 5:55 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-04T17:55:09.092320-05:00.accessibility.json) |
 | [September 4 at 11:41 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-04T11:41:03.125236-05:00.accessibility.json) |
 | [September 4 at 5:51 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-04T05:51:53.183938-05:00.accessibility.json) |
-| [September 3 at 5:54 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-03T17:54:50.772521-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 36 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 37 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 12:21 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-07T12:21:22.645497-05:00.lighthouse.json) |
 | [September 7 at 7:13 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-07T07:13:04.901519-05:00.lighthouse.json) |
 | [September 6 at 6:05 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-06T18:05:27.344938-05:00.lighthouse.json) |
 | [September 6 at 5:55 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-06T05:54:57.126392-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 4 at 5:55 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-04T17:55:09.092320-05:00.lighthouse.json) |
 | [September 4 at 11:41 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-04T11:41:03.125236-05:00.lighthouse.json) |
 | [September 4 at 5:51 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-04T05:51:53.183938-05:00.lighthouse.json) |
-| [September 3 at 5:54 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-09-03T17:54:50.772521-05:00.lighthouse.json) |
 
 
 

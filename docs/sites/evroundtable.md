@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 135 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 12:19 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-07T12:19:36.363304-05:00.lighthouse.json) |
 | [September 7 at 7:18 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-07T07:17:44.385811-05:00.lighthouse.json) |
 | [September 6 at 6:11 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-06T18:10:49.997405-05:00.lighthouse.json) |
 | [September 6 at 5:59 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-06T05:59:11.924548-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 4 at 5:59 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-04T17:59:34.567214-05:00.lighthouse.json) |
 | [September 4 at 11:41 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-04T11:41:03.212164-05:00.lighthouse.json) |
 | [September 4 at 5:55 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-04T05:54:56.379935-05:00.lighthouse.json) |
-| [September 3 at 5:59 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-09-03T17:59:12.299569-05:00.lighthouse.json) |
 
 
 

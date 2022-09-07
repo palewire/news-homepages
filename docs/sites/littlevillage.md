@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 110 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 111 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 12:19 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-09-07T12:19:31.030234-05:00.lighthouse.json) |
 | [September 7 at 7:42 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-09-07T07:42:01.927343-05:00.lighthouse.json) |
 | [September 6 at 7:13 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-09-06T19:13:01.514180-05:00.lighthouse.json) |
 | [September 5 at 6:59 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-09-05T18:58:56.612268-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 4 at 6:58 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-09-04T06:58:42.512792-05:00.lighthouse.json) |
 | [September 3 at 6:49 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-09-03T18:49:26.109619-05:00.lighthouse.json) |
 | [September 3 at 7:04 AM](https://archive.org/download/littlevillage-2022/littlevillage-2022-09-03T07:03:54.375957-05:00.lighthouse.json) |
-| [September 2 at 7:00 PM](https://archive.org/download/littlevillage-2022/littlevillage-2022-09-02T19:00:28.022018-05:00.lighthouse.json) |
 
 
 

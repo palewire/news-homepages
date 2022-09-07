@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 117 screenshots with the Internet Archive.
+The archiving routine has saved 118 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 117 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-09-07T12:18:54.268280-05:00.jpg">
+  <img src="https://archive.org/download/cbschicago-2022/cbschicago-2022-09-07T12:18:54.268280-05:00.jpg"
+     alt="CBS Chicago at 2022-09-07 12:18:55-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-09-07T12:18:54.268280-05:00.jpg">September 7 at 12:18 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-09-07T10:31:06.992048-05:00.jpg">
@@ -422,15 +431,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-09-03T09:54:54.130764-05:00.jpg">September 3 at 9:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-09-02T21:27:46.508747-05:00.jpg">
-  <img src="https://archive.org/download/cbschicago-2022/cbschicago-2022-09-02T21:27:46.508747-05:00.jpg"
-     alt="CBS Chicago at 2022-09-02 21:27:49-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-09-02T21:27:46.508747-05:00.jpg">September 2 at 9:27 PM</a></p>
 </div>
 
 </div>
@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 118 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 119 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 12:18 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-09-07T12:18:54.268280-05:00.lighthouse.json) |
 | [September 7 at 10:31 AM](https://archive.org/download/cbschicago-2022/cbschicago-2022-09-07T10:31:06.992048-05:00.lighthouse.json) |
 | [September 6 at 9:33 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-09-06T21:33:13.408459-05:00.lighthouse.json) |
 | [September 5 at 9:27 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-09-05T21:27:26.242714-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 4 at 11:41 AM](https://archive.org/download/cbschicago-2022/cbschicago-2022-09-04T11:40:57.018565-05:00.lighthouse.json) |
 | [September 4 at 9:17 AM](https://archive.org/download/cbschicago-2022/cbschicago-2022-09-04T09:17:31.819437-05:00.lighthouse.json) |
 | [September 3 at 9:28 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-09-03T21:28:47.067000-05:00.lighthouse.json) |
-| [September 3 at 10:58 AM](https://archive.org/download/cbschicago-2022/cbschicago-2022-09-03T10:58:05.039358-05:00.lighthouse.json) |
 
 
 

@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 12:20 PM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-09-07T12:20:03.128448-05:00.lighthouse.json) |
 | [September 7 at 8:47 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-09-07T08:47:39.978830-05:00.lighthouse.json) |
 | [September 6 at 8:21 PM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-09-06T20:21:27.656277-05:00.lighthouse.json) |
 | [September 5 at 8:25 PM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-09-05T20:25:12.478215-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 4 at 11:42 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-09-04T11:42:21.617298-05:00.lighthouse.json) |
 | [September 4 at 7:58 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-09-04T07:58:10.180760-05:00.lighthouse.json) |
 | [September 3 at 8:14 PM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-09-03T20:14:01.627319-05:00.lighthouse.json) |
-| [September 3 at 10:59 AM](https://archive.org/download/southsideweekly-2022/southsideweekly-2022-09-03T10:59:00.843127-05:00.lighthouse.json) |
 
 
 

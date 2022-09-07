@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 209 screenshots with the Internet Archive.
+The archiving routine has saved 210 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 209 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sltimes-2022/sltimes-2022-09-07T12:18:52.267437-05:00.jpg">
+  <img src="https://archive.org/download/sltimes-2022/sltimes-2022-09-07T12:18:52.267437-05:00.jpg"
+     alt="Storm Lake Times at 2022-09-07 12:19:03-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-09-07T12:18:52.267437-05:00.jpg">September 7 at 12:19 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sltimes-2022/sltimes-2022-09-07T08:47:46.259063-05:00.jpg">
@@ -422,15 +431,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-09-02T11:13:26.215437-05:00.jpg">September 2 at 11:13 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sltimes-2022/sltimes-2022-09-02T08:06:21.290699-05:00.jpg">
-  <img src="https://archive.org/download/sltimes-2022/sltimes-2022-09-02T08:06:21.290699-05:00.jpg"
-     alt="Storm Lake Times at 2022-09-02 08:06:26-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sltimes-2022/sltimes-2022-09-02T08:06:21.290699-05:00.jpg">September 2 at 8:06 AM</a></p>
 </div>
 
 </div>
@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 110 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 111 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 12:19 PM](https://archive.org/download/sltimes-2022/sltimes-2022-09-07T12:18:52.267437-05:00.lighthouse.json) |
 | [September 7 at 8:48 AM](https://archive.org/download/sltimes-2022/sltimes-2022-09-07T08:47:46.259063-05:00.lighthouse.json) |
 | [September 6 at 8:22 PM](https://archive.org/download/sltimes-2022/sltimes-2022-09-06T20:21:54.698138-05:00.lighthouse.json) |
 | [September 5 at 8:25 PM](https://archive.org/download/sltimes-2022/sltimes-2022-09-05T20:25:33.020306-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 4 at 7:57 AM](https://archive.org/download/sltimes-2022/sltimes-2022-09-04T07:57:20.274242-05:00.lighthouse.json) |
 | [September 3 at 8:14 PM](https://archive.org/download/sltimes-2022/sltimes-2022-09-03T20:14:06.876098-05:00.lighthouse.json) |
 | [September 3 at 8:11 AM](https://archive.org/download/sltimes-2022/sltimes-2022-09-03T08:11:32.370963-05:00.lighthouse.json) |
-| [September 2 at 8:23 PM](https://archive.org/download/sltimes-2022/sltimes-2022-09-02T20:23:36.091298-05:00.lighthouse.json) |
 
 
 
