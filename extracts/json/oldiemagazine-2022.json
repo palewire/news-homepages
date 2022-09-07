@@ -1,5 +1,5 @@
 {
-  "created": 1662513630,
+  "created": 1662542298,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/31/items/oldiemagazine-2022",
@@ -3550,31 +3550,93 @@
       "sha1": "0c740be5e99854d264daa7044fd83f5a10f928b4"
     },
     {
+      "name": "oldiemagazine-2022-09-07T10:16:50.496192+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662542214",
+      "size": "12436",
+      "md5": "fcbf61bec88454cfa0952652d4195733",
+      "crc32": "71f47497",
+      "sha1": "11803bc810d23884a3c4e97249b54ebf870015aa",
+      "format": "JSON"
+    },
+    {
+      "name": "oldiemagazine-2022-09-07T10:16:50.496192+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662542216",
+      "size": "12400",
+      "md5": "4de10d5d89d1dc0256bbb22650acc2cc",
+      "crc32": "38b14c42",
+      "sha1": "64b785dff84a37747ef2b6bd08545d44576b28c0",
+      "format": "JSON"
+    },
+    {
+      "name": "oldiemagazine-2022-09-07T10:16:50.496192+01:00.jpg",
+      "source": "original",
+      "mtime": "1662542212",
+      "size": "100605",
+      "md5": "c9ad94eea64cc3237195802c5e071d8f",
+      "crc32": "25bc8577",
+      "sha1": "5b8b8b4d0492211abb6b66d3f0ab4dc3cfcc4f80",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oldiemagazine-2022-09-07T10:16:50.496192+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662542217",
+      "size": "1492",
+      "md5": "6e5d9c29827f2bcbfde88a184e748b43",
+      "crc32": "f71d2f0f",
+      "sha1": "38ad3a805f49917176ef881b4aae32d32cc250d5",
+      "format": "JSON"
+    },
+    {
+      "name": "oldiemagazine-2022-09-07T10:16:50.496192+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1662542219",
+      "size": "7296",
+      "md5": "68118f63eab59f754d4846657d094506",
+      "crc32": "35ddcdb2",
+      "sha1": "d1aa359bdae1a5faa7650faf54238a3b2182126f",
+      "format": "JSON"
+    },
+    {
+      "name": "oldiemagazine-2022-09-07T10:16:50.496192+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oldiemagazine-2022-09-07T10:16:50.496192+01:00.jpg",
+      "mtime": "1662542275",
+      "size": "8419",
+      "md5": "02c529c67a6660f521fa180fe0226378",
+      "crc32": "b4e96f31",
+      "sha1": "0c740be5e99854d264daa7044fd83f5a10f928b4"
+    },
+    {
       "name": "oldiemagazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c44c573bd90a9c05c86e1d335b8bbc924cef297b",
-      "mtime": "1662513623",
-      "size": "74652",
-      "md5": "4b16ce7af65b7064a53d34e65c6b2c2f",
-      "crc32": "75f0ef6e",
-      "sha1": "9c1651f1ce06b7a938a76cd18871037c35a12939",
+      "btih": "5d6d8a47e252df032012b94816e303ceedd11e94",
+      "mtime": "1662542288",
+      "size": "75948",
+      "md5": "569cd69a70f66902646b540590f434d9",
+      "crc32": "711b0a5a",
+      "sha1": "653c4c7d62bf92e8ed873fd16e808eb5f9500069",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oldiemagazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a87bfee27b1b159bce2b53a67af6ca92",
+      "md5": "ff45a79d6abb311ad865b06a93e2a0fc",
       "summation": "md5"
     },
     {
       "name": "oldiemagazine-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662513558",
-      "size": "454656",
-      "md5": "a42153778ca971ca832c576703babd40",
-      "crc32": "167d6af1",
-      "sha1": "3912f12aa395b5187c61d4d3abef2ac7a64cf6bc",
+      "mtime": "1662542222",
+      "size": "466944",
+      "md5": "6ab6067f5bd0938cd1a58716bf5ae05c",
+      "crc32": "da368c02",
+      "sha1": "8077b0590c669fd372f746438dd6612a673423ad",
       "format": "Metadata"
     },
     {
@@ -3588,9 +3650,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 347,
-  "item_last_updated": 1662513623,
-  "item_size": 8373234,
+  "files_count": 353,
+  "item_last_updated": 1662542288,
+  "item_size": 8529466,
   "metadata": {
     "identifier": "oldiemagazine-2022",
     "collection": [
@@ -3607,10 +3669,10 @@
     "publicdate": "2022-08-18 23:58:11",
     "addeddate": "2022-08-18 23:58:11"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 628127608,
+  "server": "ia601401.us.archive.org",
+  "uniq": 1789179333,
   "workable_servers": [
-    "ia801401.us.archive.org",
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

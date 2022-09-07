@@ -1,5 +1,5 @@
 {
-  "created": 1662526477,
+  "created": 1662542308,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/34/items/simple_flying-2022",
@@ -2990,31 +2990,93 @@
       "sha1": "16339ee971e2413598786e50821ab51c8d4b0b5b"
     },
     {
+      "name": "simple_flying-2022-09-07T10:16:59.679552+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662542223",
+      "size": "38742",
+      "md5": "cd95416a366d181cfe6c893bb9db4d25",
+      "crc32": "43110bb8",
+      "sha1": "df0a13dbb5a835e93be9db1bddb3569ebd00f054",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-09-07T10:16:59.679552+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662542224",
+      "size": "28721",
+      "md5": "1d53cf12069b033923db8a9350d8d140",
+      "crc32": "2d609f40",
+      "sha1": "0808c985f0d7c9aa582472b2cb80bc158866baf5",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-09-07T10:16:59.679552+01:00.jpg",
+      "source": "original",
+      "mtime": "1662542221",
+      "size": "250577",
+      "md5": "245fd4ca857f2b013d52efb9b40377fc",
+      "crc32": "1e88fda9",
+      "sha1": "256dda72257d57a5a16e7552f882c87694f351e7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "simple_flying-2022-09-07T10:16:59.679552+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662542229",
+      "size": "1476",
+      "md5": "00f8ebedc599f0d44f6ddfbe501d218d",
+      "crc32": "6ff7b601",
+      "sha1": "c1189ed7388b2aa78513c546c89ee008088e72df",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-09-07T10:16:59.679552+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1662542231",
+      "size": "56130",
+      "md5": "e0292a4ce16e896a627fd139fd50ff22",
+      "crc32": "9ab236c0",
+      "sha1": "6c04c3e2933a8ab950b50343b8f425d9b54aa460",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-09-07T10:16:59.679552+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "simple_flying-2022-09-07T10:16:59.679552+01:00.jpg",
+      "mtime": "1662542293",
+      "size": "9939",
+      "md5": "6c6a1153d7f810dbf2a6fc2278fc9375",
+      "crc32": "612bf29a",
+      "sha1": "a9de58f0a91ffa305294f1fd19795ec9eb6de9b2"
+    },
+    {
       "name": "simple_flying-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d45fa1296103a1468a542aaf4d2b20571a7609b0",
-      "mtime": "1662526472",
-      "size": "63601",
-      "md5": "655f874f2adc33e4561aacf59f1aeb8e",
-      "crc32": "b731d96c",
-      "sha1": "14b85d0d03e21149323fe969b07fe13351a87926",
+      "btih": "ed138171b640b0bbcf6f9097d6b2a2f3eac2a0f7",
+      "mtime": "1662542297",
+      "size": "64898",
+      "md5": "388b9aec42855f22d196a61afc621efe",
+      "crc32": "5b683f06",
+      "sha1": "9750e9ccfe93b6333cceaf17e21e6d23606ead41",
       "format": "Archive BitTorrent"
     },
     {
       "name": "simple_flying-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "18893309fd350c96e43acb804595d744",
+      "md5": "ffbdffb466b6905dcec70896264dbb3b",
       "summation": "md5"
     },
     {
       "name": "simple_flying-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662526418",
-      "size": "393216",
-      "md5": "77538b222637de27f2a067c218548896",
-      "crc32": "1a6a1fd1",
-      "sha1": "c0b0e78578b0906cc3ba845ec73ad01d5c262c53",
+      "mtime": "1662542242",
+      "size": "397312",
+      "md5": "8214a55d5692cde9ce786fb7f6a31abb",
+      "crc32": "dfcf95f9",
+      "sha1": "ea865a7f72b0b5b4b0916df9c916165cb73e9fa4",
       "format": "Metadata"
     },
     {
@@ -3028,9 +3090,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 293,
-  "item_last_updated": 1662526472,
-  "item_size": 17195761,
+  "files_count": 299,
+  "item_last_updated": 1662542297,
+  "item_size": 17586739,
   "metadata": {
     "identifier": "simple_flying-2022",
     "collection": [
@@ -3047,10 +3109,10 @@
     "publicdate": "2022-08-21 03:36:53",
     "addeddate": "2022-08-21 03:36:53"
   },
-  "server": "ia601506.us.archive.org",
-  "uniq": 1392346623,
+  "server": "ia801506.us.archive.org",
+  "uniq": 2075869660,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia801506.us.archive.org",
+    "ia601506.us.archive.org"
   ]
 }
