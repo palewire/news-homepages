@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 108 screenshots with the Internet Archive.
+The archiving routine has saved 111 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-06T22:56:52.883619-05:00.jpg">
+  <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-06T22:56:52.883619-05:00.jpg"
+     alt="mi wisconsin at 2022-09-06 22:56:54-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-06T22:56:52.883619-05:00.jpg">September 6 at 10:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-05T22:57:42.849073-05:00.jpg">
+  <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-05T22:57:42.849073-05:00.jpg"
+     alt="mi wisconsin at 2022-09-05 22:57:46-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-05T22:57:42.849073-05:00.jpg">September 5 at 10:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-05T11:19:01.855707-05:00.jpg">
+  <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-05T11:19:01.855707-05:00.jpg"
+     alt="mi wisconsin at 2022-09-05 11:19:03-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-05T11:19:01.855707-05:00.jpg">September 5 at 11:19 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-04T22:44:35.106100-05:00.jpg">
   <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-04T22:44:35.106100-05:00.jpg"
      alt="mi wisconsin at 2022-09-04 22:44:58-05:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-08-31T22:48:19.081592-05:00.jpg">August 31 at 10:48 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-08-31T10:10:17.345211-05:00.jpg">
-  <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-08-31T10:10:17.345211-05:00.jpg"
-     alt="mi wisconsin at 2022-08-31 10:10:26-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-08-31T10:10:17.345211-05:00.jpg">August 31 at 10:10 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-08-30T22:49:43.051819-05:00.jpg">
-  <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-08-30T22:49:43.051819-05:00.jpg"
-     alt="mi wisconsin at 2022-08-30 22:49:45-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-08-30T22:49:43.051819-05:00.jpg">August 30 at 10:49 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-08-30T10:36:39.601207-05:00.jpg">
-  <img src="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-08-30T10:36:39.601207-05:00.jpg"
-     alt="mi wisconsin at 2022-08-30 10:36:45-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/miwisconsin-2022/miwisconsin-2022-08-30T10:36:39.601207-05:00.jpg">August 30 at 10:36 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 108 hyperlink lists with the Internet Archive.
+The archiving routine has saved 111 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 6 at 10:56 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-06T22:56:52.883619-05:00.hyperlinks.json) |
+| [September 5 at 10:57 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-05T22:57:42.849073-05:00.hyperlinks.json) |
+| [September 5 at 11:19 AM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-05T11:19:01.855707-05:00.hyperlinks.json) |
 | [September 4 at 10:45 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-04T22:44:35.106100-05:00.hyperlinks.json) |
 | [September 4 at 11:38 AM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-04T11:38:42.892839-05:00.hyperlinks.json) |
 | [September 3 at 10:45 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-03T22:45:43.027503-05:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 2 at 10:50 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-02T22:50:45.412758-05:00.hyperlinks.json) |
 | [September 2 at 10:10 AM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-02T10:10:50.967273-05:00.hyperlinks.json) |
 | [September 1 at 10:50 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-01T22:50:45.612816-05:00.hyperlinks.json) |
-| [September 1 at 10:30 AM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-01T10:30:17.391680-05:00.hyperlinks.json) |
-| [August 31 at 10:48 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-08-31T22:48:19.081592-05:00.hyperlinks.json) |
-| [August 31 at 10:10 AM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-08-31T10:10:17.345211-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 108 accessibility trees with the Internet Archive.
+The archiving routine has saved 111 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 6 at 10:56 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-06T22:56:52.883619-05:00.accessibility.json) |
+| [September 5 at 10:57 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-05T22:57:42.849073-05:00.accessibility.json) |
+| [September 5 at 11:19 AM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-05T11:19:01.855707-05:00.accessibility.json) |
 | [September 4 at 10:44 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-04T22:44:35.106100-05:00.accessibility.json) |
 | [September 4 at 11:38 AM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-04T11:38:42.892839-05:00.accessibility.json) |
 | [September 3 at 10:45 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-03T22:45:43.027503-05:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 2 at 10:50 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-02T22:50:45.412758-05:00.accessibility.json) |
 | [September 2 at 10:10 AM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-02T10:10:50.967273-05:00.accessibility.json) |
 | [September 1 at 10:50 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-01T22:50:45.612816-05:00.accessibility.json) |
-| [September 1 at 10:30 AM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-01T10:30:17.391680-05:00.accessibility.json) |
-| [August 31 at 10:48 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-08-31T22:48:19.081592-05:00.accessibility.json) |
-| [August 31 at 10:10 AM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-08-31T10:10:17.345211-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 78 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 81 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 6 at 10:57 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-06T22:56:52.883619-05:00.lighthouse.json) |
+| [September 5 at 10:57 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-05T22:57:42.849073-05:00.lighthouse.json) |
+| [September 5 at 11:19 AM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-05T11:19:01.855707-05:00.lighthouse.json) |
 | [September 4 at 10:45 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-04T22:44:35.106100-05:00.lighthouse.json) |
 | [September 4 at 11:38 AM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-04T11:38:42.892839-05:00.lighthouse.json) |
 | [September 3 at 10:45 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-03T22:45:43.027503-05:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 2 at 10:50 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-02T22:50:45.412758-05:00.lighthouse.json) |
 | [September 2 at 10:10 AM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-02T10:10:50.967273-05:00.lighthouse.json) |
 | [September 1 at 10:50 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-01T22:50:45.612816-05:00.lighthouse.json) |
-| [September 1 at 10:30 AM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-09-01T10:30:17.391680-05:00.lighthouse.json) |
-| [August 31 at 10:48 PM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-08-31T22:48:19.081592-05:00.lighthouse.json) |
-| [August 31 at 10:10 AM](https://archive.org/download/miwisconsin-2022/miwisconsin-2022-08-31T10:10:17.345211-05:00.lighthouse.json) |
 
 
 

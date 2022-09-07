@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 179 screenshots with the Internet Archive.
+The archiving routine has saved 182 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-09-06T23:59:00.626837-04:00.jpg">
+  <img src="https://archive.org/download/okayplayer-2022/okayplayer-2022-09-06T23:59:00.626837-04:00.jpg"
+     alt="okayplayer at 2022-09-06 23:59:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-09-06T23:59:00.626837-04:00.jpg">September 6 at 11:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-09-05T23:59:27.187906-04:00.jpg">
+  <img src="https://archive.org/download/okayplayer-2022/okayplayer-2022-09-05T23:59:27.187906-04:00.jpg"
+     alt="okayplayer at 2022-09-05 23:59:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-09-05T23:59:27.187906-04:00.jpg">September 5 at 11:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-09-05T12:19:57.917640-04:00.jpg">
+  <img src="https://archive.org/download/okayplayer-2022/okayplayer-2022-09-05T12:19:57.917640-04:00.jpg"
+     alt="okayplayer at 2022-09-05 12:20:00-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-09-05T12:19:57.917640-04:00.jpg">September 5 at 12:20 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-09-04T23:47:12.345101-04:00.jpg">
   <img src="https://archive.org/download/okayplayer-2022/okayplayer-2022-09-04T23:47:12.345101-04:00.jpg"
      alt="okayplayer at 2022-09-04 23:47:13-04:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-08-31T23:48:53.370575-04:00.jpg">August 31 at 11:48 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-08-31T11:12:44.349724-04:00.jpg">
-  <img src="https://archive.org/download/okayplayer-2022/okayplayer-2022-08-31T11:12:44.349724-04:00.jpg"
-     alt="okayplayer at 2022-08-31 11:12:46-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-08-31T11:12:44.349724-04:00.jpg">August 31 at 11:12 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-08-30T23:51:30.809715-04:00.jpg">
-  <img src="https://archive.org/download/okayplayer-2022/okayplayer-2022-08-30T23:51:30.809715-04:00.jpg"
-     alt="okayplayer at 2022-08-30 23:51:32-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-08-30T23:51:30.809715-04:00.jpg">August 30 at 11:51 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-08-30T11:38:57.117629-04:00.jpg">
-  <img src="https://archive.org/download/okayplayer-2022/okayplayer-2022-08-30T11:38:57.117629-04:00.jpg"
-     alt="okayplayer at 2022-08-30 11:38:59-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-08-30T11:38:57.117629-04:00.jpg">August 30 at 11:38 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 182 hyperlink lists with the Internet Archive.
+The archiving routine has saved 185 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 6 at 11:59 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-06T23:59:00.626837-04:00.hyperlinks.json) |
+| [September 5 at 11:59 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-05T23:59:27.187906-04:00.hyperlinks.json) |
+| [September 5 at 12:20 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-05T12:19:57.917640-04:00.hyperlinks.json) |
 | [September 4 at 11:47 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-04T23:47:12.345101-04:00.hyperlinks.json) |
 | [September 4 at 12:40 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-04T12:40:22.726262-04:00.hyperlinks.json) |
 | [September 3 at 11:47 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-03T23:46:57.838318-04:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 2 at 11:52 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-02T23:52:16.726273-04:00.hyperlinks.json) |
 | [September 2 at 11:12 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-02T11:12:22.643740-04:00.hyperlinks.json) |
 | [September 1 at 11:52 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-01T23:52:43.448139-04:00.hyperlinks.json) |
-| [September 1 at 11:32 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-01T11:32:06.901003-04:00.hyperlinks.json) |
-| [August 31 at 11:48 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-31T23:48:53.370575-04:00.hyperlinks.json) |
-| [August 31 at 11:12 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-31T11:12:44.349724-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 182 accessibility trees with the Internet Archive.
+The archiving routine has saved 185 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 6 at 11:59 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-06T23:59:00.626837-04:00.accessibility.json) |
+| [September 5 at 11:59 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-05T23:59:27.187906-04:00.accessibility.json) |
+| [September 5 at 12:20 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-05T12:19:57.917640-04:00.accessibility.json) |
 | [September 4 at 11:47 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-04T23:47:12.345101-04:00.accessibility.json) |
 | [September 4 at 12:40 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-04T12:40:22.726262-04:00.accessibility.json) |
 | [September 3 at 11:47 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-03T23:46:57.838318-04:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 2 at 11:52 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-02T23:52:16.726273-04:00.accessibility.json) |
 | [September 2 at 11:12 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-02T11:12:22.643740-04:00.accessibility.json) |
 | [September 1 at 11:52 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-01T23:52:43.448139-04:00.accessibility.json) |
-| [September 1 at 11:32 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-01T11:32:06.901003-04:00.accessibility.json) |
-| [August 31 at 11:48 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-31T23:48:53.370575-04:00.accessibility.json) |
-| [August 31 at 11:12 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-31T11:12:44.349724-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 87 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 90 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 6 at 11:59 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-06T23:59:00.626837-04:00.lighthouse.json) |
+| [September 5 at 11:59 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-05T23:59:27.187906-04:00.lighthouse.json) |
+| [September 5 at 12:20 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-05T12:19:57.917640-04:00.lighthouse.json) |
 | [September 4 at 11:47 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-04T23:47:12.345101-04:00.lighthouse.json) |
 | [September 4 at 12:40 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-04T12:40:22.726262-04:00.lighthouse.json) |
 | [September 3 at 11:47 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-03T23:46:57.838318-04:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 2 at 11:52 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-02T23:52:16.726273-04:00.lighthouse.json) |
 | [September 2 at 11:12 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-02T11:12:22.643740-04:00.lighthouse.json) |
 | [September 1 at 11:52 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-01T23:52:43.448139-04:00.lighthouse.json) |
-| [September 1 at 11:32 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-09-01T11:32:06.901003-04:00.lighthouse.json) |
-| [August 31 at 11:49 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-31T23:48:53.370575-04:00.lighthouse.json) |
-| [August 31 at 11:12 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-31T11:12:44.349724-04:00.lighthouse.json) |
 
 
 
