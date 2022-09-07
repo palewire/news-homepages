@@ -1,5 +1,5 @@
 {
-  "created": 1662505605,
+  "created": 1662552780,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/34/items/aviationnews-2022",
@@ -2176,31 +2176,93 @@
       "sha1": "57223166c1e4969429e8b17c45e7916d55f187d9"
     },
     {
+      "name": "aviationnews-2022-09-07T08:11:30.506731-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662552699",
+      "size": "158996",
+      "md5": "02732003a958faedbd412a9c3e5e034a",
+      "crc32": "c6f0924b",
+      "sha1": "56e673e74ab697cfecd40b3701ab95e0930acc89",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-09-07T08:11:30.506731-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662552700",
+      "size": "261283",
+      "md5": "507807af7e85a1201cce4a8e9bb629e3",
+      "crc32": "67a10e98",
+      "sha1": "a70a479b5eaab3986a461faeaa29ee9057f9c23b",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-09-07T08:11:30.506731-04:00.jpg",
+      "source": "original",
+      "mtime": "1662552697",
+      "size": "119456",
+      "md5": "8edde7a42d7edb93ee2ff1f5f069e663",
+      "crc32": "32da0b23",
+      "sha1": "d5b5ceb1a72fb606f065a5d292b50267b0f9ca84",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationnews-2022-09-07T08:11:30.506731-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662552701",
+      "size": "1484",
+      "md5": "8ef771c4cfd6695f9984220d8cc45eb0",
+      "crc32": "1a6b4cae",
+      "sha1": "7ca997c816a5885c1222de47cdc2218133cac153",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-09-07T08:11:30.506731-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662552703",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-09-07T08:11:30.506731-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationnews-2022-09-07T08:11:30.506731-04:00.jpg",
+      "mtime": "1662552762",
+      "size": "7191",
+      "md5": "0263e86373fe5a7b359ea5068d6851c2",
+      "crc32": "f38ee680",
+      "sha1": "265c5da6f57a37df4cf5623a9c53893d0d5c3148"
+    },
+    {
       "name": "aviationnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a95627a4f1beceb7e6c57970ec3a53cd245fee71",
-      "mtime": "1662505599",
-      "size": "46746",
-      "md5": "e13e3e7862a3f9b2643d73b91b5e23bc",
-      "crc32": "b8a49b36",
-      "sha1": "12c1bf1b933ce50c1339d49f0015c1cb96e56a2d",
+      "btih": "db7212083a9e0b3a66a6ecc12857ddcae274f36e",
+      "mtime": "1662552767",
+      "size": "48037",
+      "md5": "29b2ef566a6c3bdd068506a2f1f54034",
+      "crc32": "16f90974",
+      "sha1": "93364cab6d472c574366d18dad5a19bf58435b91",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aviationnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ccd44e60a687f7ec8f0a90e3d7deaa3f",
+      "md5": "17b3d6db0ece6cb5ea8769fa1711c7c6",
       "summation": "md5"
     },
     {
       "name": "aviationnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662505548",
-      "size": "286720",
-      "md5": "e7ddc070ee154387cf987b6c950baf09",
-      "crc32": "2f329bad",
-      "sha1": "3d7a07f0b2dfe21d6b257458d769c7c106651d31",
+      "mtime": "1662552710",
+      "size": "294912",
+      "md5": "a35edb3f80b091bc9dc4cdc32c6cf847",
+      "crc32": "c079bfe1",
+      "sha1": "3c79f494d2174f55f9ed19022df428ba9e37bcf7",
       "format": "Metadata"
     },
     {
@@ -2214,9 +2276,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 214,
-  "item_last_updated": 1662505599,
-  "item_size": 20262734,
+  "files_count": 220,
+  "item_last_updated": 1662552767,
+  "item_size": 20820829,
   "metadata": {
     "identifier": "aviationnews-2022",
     "collection": [
@@ -2233,10 +2295,10 @@
     "publicdate": "2022-08-20 22:59:00",
     "addeddate": "2022-08-20 22:59:00"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 1343980980,
+  "server": "ia601508.us.archive.org",
+  "uniq": 1301452546,
   "workable_servers": [
-    "ia801508.us.archive.org",
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

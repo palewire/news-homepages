@@ -1,5 +1,5 @@
 {
-  "created": 1662505750,
+  "created": 1662553127,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/25/items/cnnbrasil-2022",
@@ -5328,31 +5328,93 @@
       "sha1": "dce371120ad19ca99656a747e7fa66ff593cc430"
     },
     {
+      "name": "cnnbrasil-2022-09-07T09:16:28.216196-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662553000",
+      "size": "68797",
+      "md5": "87d814083f43cd142cf99aa0823d1e9d",
+      "crc32": "d98d1bfd",
+      "sha1": "e2af51ae0c671fe3c2c6e3105720ee94ff9b5877",
+      "format": "JSON"
+    },
+    {
+      "name": "cnnbrasil-2022-09-07T09:16:28.216196-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662553003",
+      "size": "49805",
+      "md5": "30b0ec3f92d51fd9c7e06968c96a8e78",
+      "crc32": "42273f23",
+      "sha1": "28cec391bfb1f3d3cccc657dbcf41b8cbf925f81",
+      "format": "JSON"
+    },
+    {
+      "name": "cnnbrasil-2022-09-07T09:16:28.216196-03:00.jpg",
+      "source": "original",
+      "mtime": "1662552997",
+      "size": "307113",
+      "md5": "ad3ce981a31beb6eb6ef1557b9d867af",
+      "crc32": "02b63c0a",
+      "sha1": "6477dd7f4f9def7f9afd56c6c18efe7d428c7827",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cnnbrasil-2022-09-07T09:16:28.216196-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662553007",
+      "size": "1513",
+      "md5": "903015a60af604186a2cbfcd4d392d79",
+      "crc32": "b205a02c",
+      "sha1": "2e38d0d9b867bc7b2ee633aa6bb66e0121e192a8",
+      "format": "JSON"
+    },
+    {
+      "name": "cnnbrasil-2022-09-07T09:16:28.216196-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1662553011",
+      "size": "26912",
+      "md5": "e6e03fb5becd3d69664e5de87e8fac91",
+      "crc32": "4ce3e7e7",
+      "sha1": "e27c1104e97ac7ab74b7c9136e80a0f3f1a11945",
+      "format": "JSON"
+    },
+    {
+      "name": "cnnbrasil-2022-09-07T09:16:28.216196-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cnnbrasil-2022-09-07T09:16:28.216196-03:00.jpg",
+      "mtime": "1662553094",
+      "size": "10460",
+      "md5": "b28deff3026f5c0aee3f48e325fcf14a",
+      "crc32": "127b9213",
+      "sha1": "5abe92e8a8408d632059018ef196b3a0326fccee"
+    },
+    {
       "name": "cnnbrasil-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7f17972f0371b38bcab526b8a1d9aa2aefdb4904",
-      "mtime": "1662505744",
-      "size": "110481",
-      "md5": "fe88747bee759115a56bc6a6bfb4ebee",
-      "crc32": "b28e26ef",
-      "sha1": "22a72882bb8fe9abdc4c3617e2731215cd3f8b48",
+      "btih": "84944445a93c22b744adee55226d1cbc3db6dcd5",
+      "mtime": "1662553102",
+      "size": "111755",
+      "md5": "f22628db03383bc6555635431f80d07f",
+      "crc32": "4e208740",
+      "sha1": "555ddfb53d05b3e02950f313f4c7f2ac221601fd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cnnbrasil-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4064de79bde609115f4b1cc5dd29a1ef",
+      "md5": "5c1091f3ae2fae3759abc2d13cabc73f",
       "summation": "md5"
     },
     {
       "name": "cnnbrasil-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662505688",
-      "size": "675840",
-      "md5": "d456cf863cafcb76af71446e680b382d",
-      "crc32": "e0a407f7",
-      "sha1": "e9276d4aaff41128ade1b70429fe656ef8a7abf7",
+      "mtime": "1662553016",
+      "size": "684032",
+      "md5": "32ef079c007da0a38a5dfbd661a53fa7",
+      "crc32": "6ceb891b",
+      "sha1": "2fcfde79c912d3406af017c6c3fd28af897bf186",
       "format": "Metadata"
     },
     {
@@ -5366,9 +5428,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 519,
-  "item_last_updated": 1662505744,
-  "item_size": 39190762,
+  "files_count": 525,
+  "item_last_updated": 1662553102,
+  "item_size": 39664828,
   "metadata": {
     "identifier": "cnnbrasil-2022",
     "collection": [
@@ -5385,10 +5447,10 @@
     "publicdate": "2022-08-07 19:42:41",
     "addeddate": "2022-08-07 19:42:41"
   },
-  "server": "ia902501.us.archive.org",
-  "uniq": 1315317993,
+  "server": "ia802501.us.archive.org",
+  "uniq": 182309341,
   "workable_servers": [
-    "ia902501.us.archive.org",
-    "ia802501.us.archive.org"
+    "ia802501.us.archive.org",
+    "ia902501.us.archive.org"
   ]
 }
