@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 129 screenshots with the Internet Archive.
+The archiving routine has saved 130 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 129 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kvoa-2022/kvoa-2022-09-07T05:42:02.546438-07:00.jpg">
+  <img src="https://archive.org/download/kvoa-2022/kvoa-2022-09-07T05:42:02.546438-07:00.jpg"
+     alt="News 4 at 2022-09-07 05:42:14-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kvoa-2022/kvoa-2022-09-07T05:42:02.546438-07:00.jpg">September 7 at 5:42 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kvoa-2022/kvoa-2022-09-06T17:12:03.058712-07:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kvoa-2022/kvoa-2022-09-01T05:10:56.929932-07:00.jpg">September 1 at 5:11 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kvoa-2022/kvoa-2022-08-31T16:52:01.307345-07:00.jpg">
-  <img src="https://archive.org/download/kvoa-2022/kvoa-2022-08-31T16:52:01.307345-07:00.jpg"
-     alt="News 4 at 2022-08-31 16:52:03-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kvoa-2022/kvoa-2022-08-31T16:52:01.307345-07:00.jpg">August 31 at 4:52 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 112 hyperlink lists with the Internet Archive.
+The archiving routine has saved 113 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 7 at 5:42 AM](https://archive.org/download/kvoa-2022/kvoa-2022-09-07T05:42:02.546438-07:00.hyperlinks.json) |
 | [September 6 at 5:12 PM](https://archive.org/download/kvoa-2022/kvoa-2022-09-06T17:12:03.058712-07:00.hyperlinks.json) |
 | [September 6 at 5:03 AM](https://archive.org/download/kvoa-2022/kvoa-2022-09-06T05:03:01.733033-07:00.hyperlinks.json) |
 | [September 5 at 4:57 PM](https://archive.org/download/kvoa-2022/kvoa-2022-09-05T16:57:26.600539-07:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 3 at 5:03 AM](https://archive.org/download/kvoa-2022/kvoa-2022-09-03T05:03:01.064978-07:00.hyperlinks.json) |
 | [September 2 at 4:59 PM](https://archive.org/download/kvoa-2022/kvoa-2022-09-02T16:59:07.917908-07:00.hyperlinks.json) |
 | [September 2 at 5:03 AM](https://archive.org/download/kvoa-2022/kvoa-2022-09-02T05:03:44.461608-07:00.hyperlinks.json) |
-| [September 1 at 4:59 PM](https://archive.org/download/kvoa-2022/kvoa-2022-09-01T16:59:22.111806-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 111 accessibility trees with the Internet Archive.
+The archiving routine has saved 112 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 7 at 5:42 AM](https://archive.org/download/kvoa-2022/kvoa-2022-09-07T05:42:02.546438-07:00.accessibility.json) |
 | [September 6 at 5:12 PM](https://archive.org/download/kvoa-2022/kvoa-2022-09-06T17:12:03.058712-07:00.accessibility.json) |
 | [September 6 at 5:03 AM](https://archive.org/download/kvoa-2022/kvoa-2022-09-06T05:03:01.733033-07:00.accessibility.json) |
 | [September 5 at 4:57 PM](https://archive.org/download/kvoa-2022/kvoa-2022-09-05T16:57:26.600539-07:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 3 at 4:48 PM](https://archive.org/download/kvoa-2022/kvoa-2022-09-03T16:48:23.247007-07:00.accessibility.json) |
 | [September 3 at 5:03 AM](https://archive.org/download/kvoa-2022/kvoa-2022-09-03T05:03:01.064978-07:00.accessibility.json) |
 | [September 2 at 4:59 PM](https://archive.org/download/kvoa-2022/kvoa-2022-09-02T16:59:07.917908-07:00.accessibility.json) |
-| [September 2 at 5:03 AM](https://archive.org/download/kvoa-2022/kvoa-2022-09-02T05:03:44.461608-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 89 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 90 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 5:42 AM](https://archive.org/download/kvoa-2022/kvoa-2022-09-07T05:42:02.546438-07:00.lighthouse.json) |
 | [September 6 at 5:12 PM](https://archive.org/download/kvoa-2022/kvoa-2022-09-06T17:12:03.058712-07:00.lighthouse.json) |
 | [September 6 at 5:03 AM](https://archive.org/download/kvoa-2022/kvoa-2022-09-06T05:03:01.733033-07:00.lighthouse.json) |
 | [September 5 at 4:57 PM](https://archive.org/download/kvoa-2022/kvoa-2022-09-05T16:57:26.600539-07:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 3 at 4:48 PM](https://archive.org/download/kvoa-2022/kvoa-2022-09-03T16:48:23.247007-07:00.lighthouse.json) |
 | [September 3 at 5:03 AM](https://archive.org/download/kvoa-2022/kvoa-2022-09-03T05:03:01.064978-07:00.lighthouse.json) |
 | [September 2 at 4:59 PM](https://archive.org/download/kvoa-2022/kvoa-2022-09-02T16:59:07.917908-07:00.lighthouse.json) |
-| [September 2 at 5:03 AM](https://archive.org/download/kvoa-2022/kvoa-2022-09-02T05:03:44.461608-07:00.lighthouse.json) |
 
 
 
