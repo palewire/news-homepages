@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 178 screenshots with the Internet Archive.
+The archiving routine has saved 180 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-06T20:08:54.766497-04:00.jpg">
+  <img src="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-06T20:08:54.766497-04:00.jpg"
+     alt="Fortune at 2022-09-06 20:08:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-06T20:08:54.766497-04:00.jpg">September 6 at 8:08 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-06T07:59:16.828642-04:00.jpg">
+  <img src="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-06T07:59:16.828642-04:00.jpg"
+     alt="Fortune at 2022-09-06 07:59:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-06T07:59:16.828642-04:00.jpg">September 6 at 7:59 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-05T19:54:45.577171-04:00.jpg">
   <img src="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-05T19:54:45.577171-04:00.jpg"
      alt="Fortune at 2022-09-05 19:54:50-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-08-31T19:49:56.840194-04:00.jpg">August 31 at 7:50 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-08-31T09:00:11.892645-04:00.jpg">
-  <img src="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-08-31T09:00:11.892645-04:00.jpg"
-     alt="Fortune at 2022-08-31 09:00:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-08-31T09:00:11.892645-04:00.jpg">August 31 at 9:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-08-30T19:58:30.903531-04:00.jpg">
-  <img src="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-08-30T19:58:30.903531-04:00.jpg"
-     alt="Fortune at 2022-08-30 19:58:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-08-30T19:58:30.903531-04:00.jpg">August 30 at 7:58 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 181 hyperlink lists with the Internet Archive.
+The archiving routine has saved 183 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 6 at 8:09 PM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-06T20:08:54.766497-04:00.hyperlinks.json) |
+| [September 6 at 7:59 AM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-06T07:59:16.828642-04:00.hyperlinks.json) |
 | [September 5 at 7:54 PM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-05T19:54:45.577171-04:00.hyperlinks.json) |
 | [September 5 at 8:18 AM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-05T08:17:56.762304-04:00.hyperlinks.json) |
 | [September 4 at 7:51 PM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-04T19:51:49.581478-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 3 at 8:00 AM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-03T08:00:22.744388-04:00.hyperlinks.json) |
 | [September 2 at 7:57 PM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-02T19:57:12.603308-04:00.hyperlinks.json) |
 | [September 2 at 8:00 AM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-02T07:59:50.890209-04:00.hyperlinks.json) |
-| [September 1 at 7:57 PM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-01T19:57:11.446297-04:00.hyperlinks.json) |
-| [September 1 at 8:08 AM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-01T08:08:40.698480-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 179 accessibility trees with the Internet Archive.
+The archiving routine has saved 181 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 6 at 8:09 PM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-06T20:08:54.766497-04:00.accessibility.json) |
+| [September 6 at 7:59 AM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-06T07:59:16.828642-04:00.accessibility.json) |
 | [September 5 at 7:54 PM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-05T19:54:45.577171-04:00.accessibility.json) |
 | [September 5 at 8:18 AM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-05T08:17:56.762304-04:00.accessibility.json) |
 | [September 4 at 7:51 PM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-04T19:51:49.581478-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 3 at 8:00 AM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-03T08:00:22.744388-04:00.accessibility.json) |
 | [September 2 at 7:57 PM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-02T19:57:12.603308-04:00.accessibility.json) |
 | [September 2 at 7:59 AM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-02T07:59:50.890209-04:00.accessibility.json) |
-| [September 1 at 7:57 PM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-01T19:57:11.446297-04:00.accessibility.json) |
-| [September 1 at 8:08 AM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-01T08:08:40.698480-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 89 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 91 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 6 at 8:09 PM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-06T20:08:54.766497-04:00.lighthouse.json) |
+| [September 6 at 7:59 AM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-06T07:59:16.828642-04:00.lighthouse.json) |
 | [September 5 at 7:54 PM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-05T19:54:45.577171-04:00.lighthouse.json) |
 | [September 5 at 8:18 AM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-05T08:17:56.762304-04:00.lighthouse.json) |
 | [September 4 at 7:51 PM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-04T19:51:49.581478-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 3 at 8:00 AM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-03T08:00:22.744388-04:00.lighthouse.json) |
 | [September 2 at 7:57 PM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-02T19:57:12.603308-04:00.lighthouse.json) |
 | [September 2 at 8:00 AM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-02T07:59:50.890209-04:00.lighthouse.json) |
-| [September 1 at 7:57 PM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-01T19:57:11.446297-04:00.lighthouse.json) |
-| [September 1 at 8:08 AM](https://archive.org/download/fortunemagazine-2022/fortunemagazine-2022-09-01T08:08:40.698480-04:00.lighthouse.json) |
 
 
 

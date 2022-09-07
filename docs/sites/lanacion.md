@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 56 screenshots with the Internet Archive.
+The archiving routine has saved 58 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-06T21:13:04.763862-03:00.jpg">
+  <img src="https://archive.org/download/lanacion-2022/lanacion-2022-09-06T21:13:04.763862-03:00.jpg"
+     alt="La Nacion at 2022-09-06 21:13:09-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-06T21:13:04.763862-03:00.jpg">September 6 at 9:13 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-06T09:07:57.221910-03:00.jpg">
+  <img src="https://archive.org/download/lanacion-2022/lanacion-2022-09-06T09:07:57.221910-03:00.jpg"
+     alt="La Nacion at 2022-09-06 09:07:58-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-06T09:07:57.221910-03:00.jpg">September 6 at 9:07 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-05T20:59:12.327691-03:00.jpg">
   <img src="https://archive.org/download/lanacion-2022/lanacion-2022-09-05T20:59:12.327691-03:00.jpg"
      alt="La Nacion at 2022-09-05 20:59:15-03:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-01T09:13:21.769040-03:00.jpg">September 1 at 9:13 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-31T20:52:45.521196-03:00.jpg">
-  <img src="https://archive.org/download/lanacion-2022/lanacion-2022-08-31T20:52:45.521196-03:00.jpg"
-     alt="La Nacion at 2022-08-31 20:52:59-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-31T20:52:45.521196-03:00.jpg">August 31 at 8:52 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-31T10:04:20.301692-03:00.jpg">
-  <img src="https://archive.org/download/lanacion-2022/lanacion-2022-08-31T10:04:20.301692-03:00.jpg"
-     alt="La Nacion at 2022-08-31 10:04:27-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-31T10:04:20.301692-03:00.jpg">August 31 at 10:04 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 55 hyperlink lists with the Internet Archive.
+The archiving routine has saved 56 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 6 at 9:13 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-06T21:13:04.763862-03:00.hyperlinks.json) |
 | [September 5 at 8:59 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-05T20:59:12.327691-03:00.hyperlinks.json) |
 | [September 4 at 8:56 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-04T20:56:09.430107-03:00.hyperlinks.json) |
 | [September 4 at 8:57 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-04T08:57:42.068939-03:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 2 at 9:03 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-02T09:03:28.328406-03:00.hyperlinks.json) |
 | [September 1 at 9:01 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-01T21:01:21.052471-03:00.hyperlinks.json) |
 | [September 1 at 9:13 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-01T09:13:21.769040-03:00.hyperlinks.json) |
-| [August 31 at 8:53 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-31T20:52:45.521196-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 56 accessibility trees with the Internet Archive.
+The archiving routine has saved 58 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 6 at 9:13 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-06T21:13:04.763862-03:00.accessibility.json) |
+| [September 6 at 9:08 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-06T09:07:57.221910-03:00.accessibility.json) |
 | [September 5 at 8:59 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-05T20:59:12.327691-03:00.accessibility.json) |
 | [September 5 at 9:20 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-05T09:20:38.116117-03:00.accessibility.json) |
 | [September 4 at 8:56 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-04T20:56:09.430107-03:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 3 at 9:04 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-03T09:04:30.347837-03:00.accessibility.json) |
 | [September 2 at 9:00 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-02T21:00:18.401133-03:00.accessibility.json) |
 | [September 2 at 9:03 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-02T09:03:28.328406-03:00.accessibility.json) |
-| [September 1 at 9:01 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-01T21:01:21.052471-03:00.accessibility.json) |
-| [September 1 at 9:13 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-01T09:13:21.769040-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 56 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 57 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 6 at 9:13 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-06T21:13:04.763862-03:00.lighthouse.json) |
 | [September 5 at 8:59 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-05T20:59:12.327691-03:00.lighthouse.json) |
 | [September 5 at 9:20 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-05T09:20:38.116117-03:00.lighthouse.json) |
 | [September 4 at 8:56 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-04T20:56:09.430107-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 2 at 9:00 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-02T21:00:18.401133-03:00.lighthouse.json) |
 | [September 2 at 9:03 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-02T09:03:28.328406-03:00.lighthouse.json) |
 | [September 1 at 9:01 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-01T21:01:21.052471-03:00.lighthouse.json) |
-| [September 1 at 9:13 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-01T09:13:21.769040-03:00.lighthouse.json) |
 
 
 

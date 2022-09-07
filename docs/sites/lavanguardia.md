@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 78 screenshots with the Internet Archive.
+The archiving routine has saved 80 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-07T02:13:15.322612+02:00.jpg">
+  <img src="https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-07T02:13:15.322612+02:00.jpg"
+     alt="La Vanguardia at 2022-09-07 02:13:19+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-07T02:13:15.322612+02:00.jpg">September 7 at 2:13 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-06T14:03:57.963745+02:00.jpg">
+  <img src="https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-06T14:03:57.963745+02:00.jpg"
+     alt="La Vanguardia at 2022-09-06 14:04:02+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-06T14:03:57.963745+02:00.jpg">September 6 at 2:04 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-06T01:58:51.328800+02:00.jpg">
   <img src="https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-06T01:58:51.328800+02:00.jpg"
      alt="La Vanguardia at 2022-09-06 01:58:54+02:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-01T14:14:11.494741+02:00.jpg">September 1 at 2:14 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-01T01:53:10.757864+02:00.jpg">
-  <img src="https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-01T01:53:10.757864+02:00.jpg"
-     alt="La Vanguardia at 2022-09-01 01:53:14+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-01T01:53:10.757864+02:00.jpg">September 1 at 1:53 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-31T15:05:51.578563+02:00.jpg">
-  <img src="https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-31T15:05:51.578563+02:00.jpg"
-     alt="La Vanguardia at 2022-08-31 15:05:55+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-31T15:05:51.578563+02:00.jpg">August 31 at 3:05 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 77 hyperlink lists with the Internet Archive.
+The archiving routine has saved 79 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 7 at 2:13 AM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-07T02:13:15.322612+02:00.hyperlinks.json) |
+| [September 6 at 2:04 PM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-06T14:03:57.963745+02:00.hyperlinks.json) |
 | [September 6 at 1:58 AM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-06T01:58:51.328800+02:00.hyperlinks.json) |
 | [September 5 at 1:55 AM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-05T01:55:44.020912+02:00.hyperlinks.json) |
 | [September 4 at 1:57 PM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-04T13:57:34.411706+02:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 3 at 2:00 AM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-03T02:00:28.509599+02:00.hyperlinks.json) |
 | [September 2 at 2:04 PM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-02T14:04:07.648785+02:00.hyperlinks.json) |
 | [September 2 at 2:01 AM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-02T02:01:47.762361+02:00.hyperlinks.json) |
-| [September 1 at 2:14 PM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-01T14:14:11.494741+02:00.hyperlinks.json) |
-| [September 1 at 1:53 AM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-01T01:53:10.757864+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 80 accessibility trees with the Internet Archive.
+The archiving routine has saved 82 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 7 at 2:13 AM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-07T02:13:15.322612+02:00.accessibility.json) |
+| [September 6 at 2:04 PM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-06T14:03:57.963745+02:00.accessibility.json) |
 | [September 6 at 1:58 AM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-06T01:58:51.328800+02:00.accessibility.json) |
 | [September 5 at 2:21 PM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-05T14:20:50.200461+02:00.accessibility.json) |
 | [September 5 at 1:55 AM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-05T01:55:44.020912+02:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 3 at 2:04 PM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-03T14:04:21.859651+02:00.accessibility.json) |
 | [September 3 at 2:00 AM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-03T02:00:28.509599+02:00.accessibility.json) |
 | [September 2 at 2:04 PM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-02T14:04:07.648785+02:00.accessibility.json) |
-| [September 2 at 2:01 AM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-02T02:01:47.762361+02:00.accessibility.json) |
-| [September 1 at 2:14 PM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-01T14:14:11.494741+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 79 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 81 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 2:13 AM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-07T02:13:15.322612+02:00.lighthouse.json) |
+| [September 6 at 2:04 PM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-06T14:03:57.963745+02:00.lighthouse.json) |
 | [September 6 at 1:58 AM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-06T01:58:51.328800+02:00.lighthouse.json) |
 | [September 5 at 2:21 PM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-05T14:20:50.200461+02:00.lighthouse.json) |
 | [September 5 at 1:56 AM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-05T01:55:44.020912+02:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 3 at 2:04 PM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-03T14:04:21.859651+02:00.lighthouse.json) |
 | [September 3 at 2:00 AM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-03T02:00:28.509599+02:00.lighthouse.json) |
 | [September 2 at 2:04 PM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-02T14:04:07.648785+02:00.lighthouse.json) |
-| [September 2 at 2:01 AM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-02T02:01:47.762361+02:00.lighthouse.json) |
-| [September 1 at 2:14 PM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-09-01T14:14:11.494741+02:00.lighthouse.json) |
 
 
 
