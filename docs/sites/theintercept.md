@@ -437,7 +437,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 231 hyperlink lists with the Internet Archive.
+The archiving routine has saved 232 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 7 at 1:16 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-07T13:15:57.521310-04:00.hyperlinks.json) |
 | [September 7 at 12:56 AM](https://archive.org/download/theintercept-2022/theintercept-2022-09-07T00:55:54.737698-04:00.hyperlinks.json) |
 | [September 6 at 12:58 AM](https://archive.org/download/theintercept-2022/theintercept-2022-09-06T00:58:33.093868-04:00.hyperlinks.json) |
 | [September 5 at 2:32 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-05T14:31:58.148486-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 4 at 12:43 AM](https://archive.org/download/theintercept-2022/theintercept-2022-09-04T00:43:42.132772-04:00.hyperlinks.json) |
 | [September 3 at 2:29 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-03T14:29:17.571010-04:00.hyperlinks.json) |
 | [September 3 at 12:05 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-03T12:05:46.212865-04:00.hyperlinks.json) |
-| [September 3 at 12:44 AM](https://archive.org/download/theintercept-2022/theintercept-2022-09-03T00:43:55.684406-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 232 accessibility trees with the Internet Archive.
+The archiving routine has saved 233 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 7 at 1:15 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-07T13:15:57.521310-04:00.accessibility.json) |
 | [September 7 at 12:55 AM](https://archive.org/download/theintercept-2022/theintercept-2022-09-07T00:55:54.737698-04:00.accessibility.json) |
 | [September 6 at 12:58 AM](https://archive.org/download/theintercept-2022/theintercept-2022-09-06T00:58:33.093868-04:00.accessibility.json) |
 | [September 5 at 2:32 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-05T14:31:58.148486-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 4 at 12:43 AM](https://archive.org/download/theintercept-2022/theintercept-2022-09-04T00:43:42.132772-04:00.accessibility.json) |
 | [September 3 at 2:29 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-03T14:29:17.571010-04:00.accessibility.json) |
 | [September 3 at 12:05 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-03T12:05:46.212865-04:00.accessibility.json) |
-| [September 3 at 12:44 AM](https://archive.org/download/theintercept-2022/theintercept-2022-09-03T00:43:55.684406-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 1:16 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-07T13:15:57.521310-04:00.lighthouse.json) |
 | [September 7 at 12:56 AM](https://archive.org/download/theintercept-2022/theintercept-2022-09-07T00:55:54.737698-04:00.lighthouse.json) |
 | [September 6 at 12:58 AM](https://archive.org/download/theintercept-2022/theintercept-2022-09-06T00:58:33.093868-04:00.lighthouse.json) |
 | [September 5 at 2:32 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-05T14:31:58.148486-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 4 at 12:43 AM](https://archive.org/download/theintercept-2022/theintercept-2022-09-04T00:43:42.132772-04:00.lighthouse.json) |
 | [September 3 at 2:29 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-03T14:29:17.571010-04:00.lighthouse.json) |
 | [September 3 at 12:05 PM](https://archive.org/download/theintercept-2022/theintercept-2022-09-03T12:05:46.212865-04:00.lighthouse.json) |
-| [September 3 at 12:44 AM](https://archive.org/download/theintercept-2022/theintercept-2022-09-03T00:43:55.684406-04:00.lighthouse.json) |
 
 
 
