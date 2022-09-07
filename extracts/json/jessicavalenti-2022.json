@@ -1,5 +1,5 @@
 {
-  "created": 1662509507,
+  "created": 1662557946,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/26/items/jessicavalenti-2022",
@@ -3012,31 +3012,93 @@
       "sha1": "43be602bae9fefd341eb2346fe49e5a4f472d7e8"
     },
     {
+      "name": "jessicavalenti-2022-09-07T08:40:49.272491-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662554455",
+      "size": "13731",
+      "md5": "cac23313f224bd37a6e16b233da0510c",
+      "crc32": "7f705f1c",
+      "sha1": "778f4b0b0120cc1b01aed9c77a52037879804bc5",
+      "format": "JSON"
+    },
+    {
+      "name": "jessicavalenti-2022-09-07T08:40:49.272491-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662554456",
+      "size": "11016",
+      "md5": "d35cf56d2759e7595eaf6607e31551d7",
+      "crc32": "194fbcaf",
+      "sha1": "b513b3a15e38843a034275a7f2371eee58ecd70d",
+      "format": "JSON"
+    },
+    {
+      "name": "jessicavalenti-2022-09-07T08:40:49.272491-04:00.jpg",
+      "source": "original",
+      "mtime": "1662554453",
+      "size": "222750",
+      "md5": "b0deb7fbdaf8c57d43f40dae2043a507",
+      "crc32": "932d4a55",
+      "sha1": "533a963ac971161cc626444a119d4fa10bff5f04",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jessicavalenti-2022-09-07T08:40:49.272491-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662554458",
+      "size": "1504",
+      "md5": "355a483a8803be3572b0584a84e0bbf4",
+      "crc32": "ad2233f3",
+      "sha1": "735de6fcaa3dce9947ff7279d88dc24a65ae6a7d",
+      "format": "JSON"
+    },
+    {
+      "name": "jessicavalenti-2022-09-07T08:40:49.272491-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662554459",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "jessicavalenti-2022-09-07T08:40:49.272491-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jessicavalenti-2022-09-07T08:40:49.272491-04:00.jpg",
+      "mtime": "1662554513",
+      "size": "8301",
+      "md5": "9a22a31c0ced969676230ebe4a53e3f4",
+      "crc32": "cec0c600",
+      "sha1": "f8e3eb8672a6333fba8dce0f66dd794a3a98732b"
+    },
+    {
       "name": "jessicavalenti-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e4712fdf2011d5e8f606ae275be2ee9bf5469c40",
-      "mtime": "1662509496",
-      "size": "64123",
-      "md5": "c0d98f119836b7e2a7482459f4e1523c",
-      "crc32": "adf85ebd",
-      "sha1": "0544888ec09e1af19a6552bd3b411c436a1eb571",
+      "btih": "ac7c5566fa5901b9306077718a15bfa85c56222f",
+      "mtime": "1662554519",
+      "size": "65424",
+      "md5": "d75e7763d078ebb02f5e4307f84e4faf",
+      "crc32": "e4145771",
+      "sha1": "af629869d62486cf4653ea13d0b4e7331a7ae0d4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jessicavalenti-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "893b74a8277ac1a3e3f0a92dd693dd10",
+      "md5": "6a4c97ce184ab3a092ab5505dc80c81a",
       "summation": "md5"
     },
     {
       "name": "jessicavalenti-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662509443",
-      "size": "393216",
-      "md5": "0eff098641904c5baf28cce1a6ae574d",
-      "crc32": "d7103278",
-      "sha1": "f1997faef1bf7c4359d8e30386250955da946bed",
+      "mtime": "1662554464",
+      "size": "405504",
+      "md5": "d95278ae89a17e08b07360b2d2f782a4",
+      "crc32": "4b3ebe80",
+      "sha1": "87243f617c539672b3a7083f6c2b569738bc094c",
       "format": "Metadata"
     },
     {
@@ -3050,9 +3112,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 295,
-  "item_last_updated": 1662509496,
-  "item_size": 13032711,
+  "files_count": 301,
+  "item_last_updated": 1662554519,
+  "item_size": 13303804,
+  "jessicavalenti-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "jessicavalenti-2022",
     "collection": [
@@ -3070,7 +3137,7 @@
     "addeddate": "2022-08-14 20:19:10"
   },
   "server": "ia801403.us.archive.org",
-  "uniq": 2013114298,
+  "uniq": 1033683030,
   "workable_servers": [
     "ia801403.us.archive.org",
     "ia601403.us.archive.org"

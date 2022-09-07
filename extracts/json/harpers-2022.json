@@ -1,5 +1,5 @@
 {
-  "created": 1662509475,
+  "created": 1662557876,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/31/items/harpers-2022",
@@ -8430,31 +8430,93 @@
       "sha1": "70bd692270935b2ef704fe5c344f54d87d87ccf2"
     },
     {
+      "name": "harpers-2022-09-07T08:32:26.506407-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662553960",
+      "size": "64",
+      "md5": "7ecae99616d4d650954f4199e487a165",
+      "crc32": "8ba0f891",
+      "sha1": "e37f0c3aa8a3683c0eca8b3652bb286e169a298d",
+      "format": "JSON"
+    },
+    {
+      "name": "harpers-2022-09-07T08:32:26.506407-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662553962",
+      "size": "128373",
+      "md5": "21c77796a2e3f62c4e855e668f8bbfa2",
+      "crc32": "fcf705be",
+      "sha1": "cac8e32e0d6793641656e72c6c4c0da5d5e9fa89",
+      "format": "JSON"
+    },
+    {
+      "name": "harpers-2022-09-07T08:32:26.506407-04:00.jpg",
+      "source": "original",
+      "mtime": "1662553959",
+      "size": "204087",
+      "md5": "e23311d31d39327397d04ae563a759c2",
+      "crc32": "9d6c12dd",
+      "sha1": "47d68e09cb8de3f484e5530bf99450a6417434b8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "harpers-2022-09-07T08:32:26.506407-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662553963",
+      "size": "1429",
+      "md5": "d9d78f3c291a35aceb8a4a4feadecef6",
+      "crc32": "c95b751d",
+      "sha1": "531e722c180532efd44677ca4f0c43ec2c00b222",
+      "format": "JSON"
+    },
+    {
+      "name": "harpers-2022-09-07T08:32:26.506407-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662553965",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "harpers-2022-09-07T08:32:26.506407-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "harpers-2022-09-07T08:32:26.506407-04:00.jpg",
+      "mtime": "1662554045",
+      "size": "8254",
+      "md5": "d1c8b551eb75b0c1e29f04598f43f431",
+      "crc32": "13d908ce",
+      "sha1": "70bd692270935b2ef704fe5c344f54d87d87ccf2"
+    },
+    {
       "name": "harpers-2022_archive.torrent",
       "source": "metadata",
-      "btih": "74984034079477c67c69222e9a78bbf59f5680e2",
-      "mtime": "1662509443",
-      "size": "171126",
-      "md5": "6dc4402a1ff62bb38c19635f8f84c0e2",
-      "crc32": "439e43d2",
-      "sha1": "46655d62acfab3af2c2a23ddfb48f5a78fb33749",
+      "btih": "89d1131ef3f5b5b0968b77415c6fa268ec93801c",
+      "mtime": "1662554064",
+      "size": "172383",
+      "md5": "026fb52a3f29b9c94b03ef69ad1aa33c",
+      "crc32": "5e5de9f3",
+      "sha1": "7cb8429f379155fc7f720aa192f9d5288760c521",
       "format": "Archive BitTorrent"
     },
     {
       "name": "harpers-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6f1321ffeb354c340646e7a5ebd88fd1",
+      "md5": "94f986d766827775624a6c2f970b989a",
       "summation": "md5"
     },
     {
       "name": "harpers-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662509362",
-      "size": "1003520",
-      "md5": "264852d883a0962174c5f5eeadbd93be",
-      "crc32": "a35a80ec",
-      "sha1": "13f4ce358be1881580855920c347de2886522973",
+      "mtime": "1662553971",
+      "size": "1011712",
+      "md5": "b8445d464219c8542cd7cf88cabc65e1",
+      "crc32": "c1fa925a",
+      "sha1": "6ab80d2b62ccf5e108186128d47b8c4dc0bc6613",
       "format": "Metadata"
     },
     {
@@ -8468,9 +8530,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 814,
-  "item_last_updated": 1662509443,
-  "item_size": 68235859,
+  "files_count": 820,
+  "harpers-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1662554064,
+  "item_size": 68587717,
   "metadata": {
     "identifier": "harpers-2022",
     "collection": [
@@ -8488,7 +8555,7 @@
     "addeddate": "2022-06-24 22:56:16"
   },
   "server": "ia601502.us.archive.org",
-  "uniq": 762574833,
+  "uniq": 656561782,
   "workable_servers": [
     "ia601502.us.archive.org",
     "ia801502.us.archive.org"

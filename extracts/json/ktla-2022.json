@@ -1,5 +1,5 @@
 {
-  "created": 1662509615,
+  "created": 1662558019,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/0/items/ktla-2022",
@@ -18198,31 +18198,93 @@
       "sha1": "ec43d373ef9ddd60ce08e8f8db2dc6c1795ac631"
     },
     {
+      "name": "ktla-2022-09-07T05:41:21.163318-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662554485",
+      "size": "41601",
+      "md5": "fde0f669eec01e1d684baadbacdc7a0b",
+      "crc32": "d18e8995",
+      "sha1": "eca5a5659c5a66598dc0f316b260f42ba343fe3f",
+      "format": "JSON"
+    },
+    {
+      "name": "ktla-2022-09-07T05:41:21.163318-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662554486",
+      "size": "76901",
+      "md5": "f7a2bc24c83877ca417a56c4b8aea30b",
+      "crc32": "c9364ba8",
+      "sha1": "c16eada95547ad932725de62b8ead5a52c4c7b63",
+      "format": "JSON"
+    },
+    {
+      "name": "ktla-2022-09-07T05:41:21.163318-07:00.jpg",
+      "source": "original",
+      "mtime": "1662554482",
+      "size": "334506",
+      "md5": "c84ef2abf229724490b69fbae6acc807",
+      "crc32": "09edecd9",
+      "sha1": "bfae5ebb2e52e5433a05927b491fe27688810c48",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ktla-2022-09-07T05:41:21.163318-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662554488",
+      "size": "1402",
+      "md5": "f458d39dabf28c48356815a04402ef4f",
+      "crc32": "0280a9b7",
+      "sha1": "52a9200e1476561616ea852457cd725225a39d6d",
+      "format": "JSON"
+    },
+    {
+      "name": "ktla-2022-09-07T05:41:21.163318-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662554489",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ktla-2022-09-07T05:41:21.163318-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ktla-2022-09-07T05:41:21.163318-07:00.jpg",
+      "mtime": "1662554639",
+      "size": "10411",
+      "md5": "8eaf38df77621bb16b205426d7dcdd09",
+      "crc32": "572e5e8f",
+      "sha1": "1ed99a048cbb3c22de726bbb74963c05d2f0f154"
+    },
+    {
       "name": "ktla-2022_archive.torrent",
       "source": "metadata",
-      "btih": "29b02abc2b378e27441c2ba6b3f7b5f51bcee3f1",
-      "mtime": "1662509598",
-      "size": "363243",
-      "md5": "1124e451defaf86af93795f41fe023d0",
-      "crc32": "8be2a2a0",
-      "sha1": "b94b6636903e217bbac3461f4fa41e1150d780b6",
+      "btih": "44b8e3cb19819cc03654f9d9450e55dca6fc6d65",
+      "mtime": "1662554673",
+      "size": "364485",
+      "md5": "5f2cc2c1a173d0cb5ef28685fecb58a2",
+      "crc32": "f2d7c8bf",
+      "sha1": "2e35c3b24ff61c6376fdd28798a8fc911e39e62c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ktla-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1f16435d66a9dbed3c229896fbf7a7a1",
+      "md5": "899753a0c1b4b8c4f0e72f40972d7315",
       "summation": "md5"
     },
     {
       "name": "ktla-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662509482",
-      "size": "2072576",
-      "md5": "863e59300521360f82bb36e4f914b5fc",
-      "crc32": "b52e5eba",
-      "sha1": "fbd5c43e4775b2f4da2ec36a0a8443913ab0f326",
+      "mtime": "1662554495",
+      "size": "2080768",
+      "md5": "babcb46ba9714be3e1b04cf553b6c73a",
+      "crc32": "7420eedd",
+      "sha1": "4e35f4c3f7ffdda27a66480c15c3e5fdbfe0a3eb",
       "format": "Metadata"
     },
     {
@@ -18236,9 +18298,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1747,
-  "item_last_updated": 1662509598,
-  "item_size": 180949311,
+  "files_count": 1753,
+  "item_last_updated": 1662554673,
+  "item_size": 181423768,
+  "ktla-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "ktla-2022",
     "collection": [
@@ -18255,10 +18322,10 @@
     "publicdate": "2022-03-23 02:07:50",
     "addeddate": "2022-03-23 02:07:50"
   },
-  "server": "ia802500.us.archive.org",
-  "uniq": 907312784,
+  "server": "ia902500.us.archive.org",
+  "uniq": 908695330,
   "workable_servers": [
-    "ia802500.us.archive.org",
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

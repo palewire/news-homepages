@@ -1,5 +1,5 @@
 {
-  "created": 1662509850,
+  "created": 1662554700,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/4/items/miamiherald-2022",
@@ -6798,31 +6798,93 @@
       "sha1": "98578a1c20344c8d7b0ad2ad5d81f9c002023ef7"
     },
     {
+      "name": "miamiherald-2022-09-07T08:43:22.414876-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662554614",
+      "size": "458",
+      "md5": "4a51229681adf431ec5a97d3aaa60788",
+      "crc32": "b5243429",
+      "sha1": "dc486c6157a8ede1f8558901d584054bdc638558",
+      "format": "JSON"
+    },
+    {
+      "name": "miamiherald-2022-09-07T08:43:22.414876-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662554616",
+      "size": "47208",
+      "md5": "a38099813f6ccdd2bb7c1d1dfd8f9a41",
+      "crc32": "47d0d014",
+      "sha1": "d667d0caec318d77570669c7a88d3738952e8095",
+      "format": "JSON"
+    },
+    {
+      "name": "miamiherald-2022-09-07T08:43:22.414876-04:00.jpg",
+      "source": "original",
+      "mtime": "1662554613",
+      "size": "293403",
+      "md5": "02e26ac95845d33667077f910503b943",
+      "crc32": "9c6a25a8",
+      "sha1": "71c8401de19568f4fc558d18ba09ca7d1eaa2e3c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "miamiherald-2022-09-07T08:43:22.414876-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662554618",
+      "size": "1501",
+      "md5": "e12108adca48faaefbea8ab3c3682b43",
+      "crc32": "f4d3a67c",
+      "sha1": "2b88307cba3ed1d8b2d0fa23c6922a9b1accbc95",
+      "format": "JSON"
+    },
+    {
+      "name": "miamiherald-2022-09-07T08:43:22.414876-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662554620",
+      "size": "124279",
+      "md5": "2a2d1e75d242298238366d8e4452e35c",
+      "crc32": "b474c79a",
+      "sha1": "4d028dc7cf37e6c1974a099a59479c57314bb595",
+      "format": "JSON"
+    },
+    {
+      "name": "miamiherald-2022-09-07T08:43:22.414876-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "miamiherald-2022-09-07T08:43:22.414876-04:00.jpg",
+      "mtime": "1662554681",
+      "size": "10700",
+      "md5": "d6e34a3357997a1d3e6b34f43b672b13",
+      "crc32": "9c43e80a",
+      "sha1": "adf27e18671c32e6f20b01d751e1eef03d744aaa"
+    },
+    {
       "name": "miamiherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "458d0523d0762319247c3b0d2b6f6fe560dcbde8",
-      "mtime": "1662509819",
-      "size": "140383",
-      "md5": "addbaffa333a4450d498b228fdb57a5d",
-      "crc32": "e6640330",
-      "sha1": "63ce9d6e2f7e20dddb925060aa2d8a16bd96a3ba",
+      "btih": "3282f9a221c427f0ab6030fa9a60eefe4cc37885",
+      "mtime": "1662554689",
+      "size": "141668",
+      "md5": "1b17fb5656032ea30bd6745c695aa8bd",
+      "crc32": "d5d26e43",
+      "sha1": "bba91e051e7bb2449f9a6c1020816b9db11a1000",
       "format": "Archive BitTorrent"
     },
     {
       "name": "miamiherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c55681df69cf3b1f0f8e6c68e81bc4db",
+      "md5": "0095d174e89742861b8b3a844339bce3",
       "summation": "md5"
     },
     {
       "name": "miamiherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662509651",
-      "size": "815104",
-      "md5": "1aa7e6b345cf9ba09508c56d6252c2f0",
-      "crc32": "7a1dd088",
-      "sha1": "c0772c3e3c5eae86f41a3418f4a58635e5e71f19",
+      "mtime": "1662554625",
+      "size": "827392",
+      "md5": "49f53109ffb71ab0350215cd1094f13a",
+      "crc32": "753fd61a",
+      "sha1": "45d128fce9fd32c9b1010b0d9e92b9f8b1374bbf",
       "format": "Metadata"
     },
     {
@@ -6836,9 +6898,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 657,
-  "item_last_updated": 1662509819,
-  "item_size": 45459825,
+  "files_count": 663,
+  "item_last_updated": 1662554689,
+  "item_size": 45950947,
   "metadata": {
     "identifier": "miamiherald-2022",
     "collection": [
@@ -6856,7 +6918,7 @@
     "addeddate": "2022-06-24 22:58:26"
   },
   "server": "ia801403.us.archive.org",
-  "uniq": 970603320,
+  "uniq": 1110823342,
   "workable_servers": [
     "ia801403.us.archive.org",
     "ia601403.us.archive.org"

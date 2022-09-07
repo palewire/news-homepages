@@ -1,5 +1,5 @@
 {
-  "created": 1662509690,
+  "created": 1662558192,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/28/items/minnpost-2022",
@@ -13178,31 +13178,93 @@
       "sha1": "4abba5bdfca0f8510de3e8edf840e67c46cf044d"
     },
     {
+      "name": "minnpost-2022-09-07T07:43:25.120796-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662554608",
+      "size": "32450",
+      "md5": "29d1c465339a62e16238195ac001b46e",
+      "crc32": "0c36ac6e",
+      "sha1": "2cb4996d9ab29f644398a4ac2cc241c5368585fc",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-09-07T07:43:25.120796-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662554610",
+      "size": "24509",
+      "md5": "fe63c671e910fea2a663340922254294",
+      "crc32": "dae42c57",
+      "sha1": "09169681777da4f5aeeaad0610d1ac838d5f103f",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-09-07T07:43:25.120796-05:00.jpg",
+      "source": "original",
+      "mtime": "1662554606",
+      "size": "289974",
+      "md5": "3991c5098c2a32280a00c94cb6b0f951",
+      "crc32": "8468778f",
+      "sha1": "31401b1bc08816e42cbbbf5904d19cfc4eb0d781",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "minnpost-2022-09-07T07:43:25.120796-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662554612",
+      "size": "1468",
+      "md5": "1061415e1580aa61299e27a2a44231ba",
+      "crc32": "8d131e4f",
+      "sha1": "266696956edaadc0f6a63eccab068edc6552aaea",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-09-07T07:43:25.120796-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662554613",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-09-07T07:43:25.120796-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "minnpost-2022-09-07T07:43:25.120796-05:00.jpg",
+      "mtime": "1662554685",
+      "size": "9664",
+      "md5": "3084fb9bd0ed753ac326ead215117e7b",
+      "crc32": "e2756ebb",
+      "sha1": "f5110c2a220c1594ab913d26a6553fba53797c24"
+    },
+    {
       "name": "minnpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2526bac6738300cc5691c21c3755764bbb2695d6",
-      "mtime": "1662509677",
-      "size": "267544",
-      "md5": "4b644110ba55b35ce96f23a99f868076",
-      "crc32": "b052b36f",
-      "sha1": "884ea81ea70850c741d45f8e43c0127feb4055fe",
+      "btih": "4673fd4766383d0f7d1682f38b55f42c7e382914",
+      "mtime": "1662554724",
+      "size": "268789",
+      "md5": "4315e200976b55f439fae3c1cefabff1",
+      "crc32": "8910ac24",
+      "sha1": "087b49b0f861f398e01b7c47a6c5132e9b91e6e4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "minnpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4600fe73cead438bc5d672c9ca909f54",
+      "md5": "ee5729245bef89ec5bf179c646f7602b",
       "summation": "md5"
     },
     {
       "name": "minnpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662509595",
-      "size": "1515520",
-      "md5": "0a7e3a75ffa717ce07ad196a77b3e54c",
-      "crc32": "ba73f57a",
-      "sha1": "f182822edcd8088fa15ab73994528e32a5b816c3",
+      "mtime": "1662554617",
+      "size": "1519616",
+      "md5": "a1320b80568326514c737c8149f131dd",
+      "crc32": "ca7d464b",
+      "sha1": "3f6f134150fd0737872fc15dd982274b8afaa3b1",
       "format": "Metadata"
     },
     {
@@ -13216,9 +13278,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1266,
-  "item_last_updated": 1662509677,
-  "item_size": 109432884,
+  "files_count": 1272,
+  "item_last_updated": 1662554724,
+  "item_size": 109796492,
   "metadata": {
     "identifier": "minnpost-2022",
     "collection": [
@@ -13235,8 +13297,13 @@
     "publicdate": "2022-04-01 22:43:20",
     "addeddate": "2022-04-01 22:43:20"
   },
+  "minnpost-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia802502.us.archive.org",
-  "uniq": 1832307425,
+  "uniq": 1687733992,
   "workable_servers": [
     "ia802502.us.archive.org",
     "ia902502.us.archive.org"
