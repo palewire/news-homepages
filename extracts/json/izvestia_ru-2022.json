@@ -1,5 +1,5 @@
 {
-  "created": 1662442991,
+  "created": 1662526175,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/7/items/izvestia_ru-2022",
@@ -8312,31 +8312,93 @@
       "sha1": "c5044b32be29ab59c2f5669ccc17e71c192f5e63"
     },
     {
+      "name": "izvestia_ru-2022-09-07T06:55:22.125282+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662522932",
+      "size": "134883",
+      "md5": "9dc0503865c6516580b7132524d74fa4",
+      "crc32": "56932e68",
+      "sha1": "cc9870c51d48c064b6d9248d51f2bc44616da767",
+      "format": "JSON"
+    },
+    {
+      "name": "izvestia_ru-2022-09-07T06:55:22.125282+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662522933",
+      "size": "184530",
+      "md5": "db959b1b6e90d971d57756afe95d467f",
+      "crc32": "aef8fcdd",
+      "sha1": "c48eacf646129e7c7d87fd2e3335ebcc576168d2",
+      "format": "JSON"
+    },
+    {
+      "name": "izvestia_ru-2022-09-07T06:55:22.125282+03:00.jpg",
+      "source": "original",
+      "mtime": "1662522931",
+      "size": "273996",
+      "md5": "e2c7083dce981330e338b899724bb27d",
+      "crc32": "841500e6",
+      "sha1": "bb42ae5287dd0c3b7e00b8df955858a36c111819",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "izvestia_ru-2022-09-07T06:55:22.125282+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662522935",
+      "size": "1372",
+      "md5": "bfd42ed2902ccbc2660a5c68c2fe77a1",
+      "crc32": "02d7dc0d",
+      "sha1": "0642b1dfb6d37ef6b85ffe3c6717aac401551a0e",
+      "format": "JSON"
+    },
+    {
+      "name": "izvestia_ru-2022-09-07T06:55:22.125282+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1662522936",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "izvestia_ru-2022-09-07T06:55:22.125282+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "izvestia_ru-2022-09-07T06:55:22.125282+03:00.jpg",
+      "mtime": "1662522998",
+      "size": "9665",
+      "md5": "a35a32e79272db0c1af9b2a1cee2cde6",
+      "crc32": "adba0055",
+      "sha1": "64719f52d3ac64ead20c056cca4957ed5e03ee8a"
+    },
+    {
       "name": "izvestia_ru-2022_archive.torrent",
       "source": "metadata",
-      "btih": "deeb509c166d058c5ed7a28f708423d432ef391a",
-      "mtime": "1662442974",
-      "size": "173270",
-      "md5": "78f7d06fccfcdd06596b76284da0da48",
-      "crc32": "f1a0c3e4",
-      "sha1": "b670b08e833af4acd49d13ac6df02cc8d607a2d2",
+      "btih": "2c505de0df76945982d3572c05cc7e7116c2199e",
+      "mtime": "1662523008",
+      "size": "174555",
+      "md5": "7ef0cacb80be90fa81f1f98fea11022b",
+      "crc32": "15c63116",
+      "sha1": "72bc7581b6f3647850bccda5cda77c91067273f1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "izvestia_ru-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0448368fe6ab897cbc3da244974e8b89",
+      "md5": "35d06c6b2a8d11643110bf31fbef1e32",
       "summation": "md5"
     },
     {
       "name": "izvestia_ru-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662442888",
-      "size": "1007616",
-      "md5": "608f2444349269e5e957edc1df1ca9e4",
-      "crc32": "708cd19b",
-      "sha1": "e69171d2f9e6739e46d96ce716b109e5698e3f60",
+      "mtime": "1662522941",
+      "size": "1011712",
+      "md5": "8401e56ad94f2ba5df4b562c17d64485",
+      "crc32": "5788a2fc",
+      "sha1": "fcbc423a9a7384b4911684f6c44e37ab8f0d4464",
       "format": "Metadata"
     },
     {
@@ -8350,9 +8412,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 804,
-  "item_last_updated": 1662442974,
-  "item_size": 82356079,
+  "files_count": 810,
+  "item_last_updated": 1662523008,
+  "item_size": 82966108,
+  "izvestia_ru-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "izvestia_ru-2022",
     "collection": [
@@ -8370,7 +8437,7 @@
     "addeddate": "2022-07-16 20:48:55"
   },
   "server": "ia801508.us.archive.org",
-  "uniq": 1529448627,
+  "uniq": 1315051818,
   "workable_servers": [
     "ia801508.us.archive.org",
     "ia601508.us.archive.org"
