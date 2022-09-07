@@ -1,5 +1,5 @@
 {
-  "created": 1662526509,
+  "created": 1662529310,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/17/items/tass_agency-2022",
@@ -8390,31 +8390,93 @@
       "sha1": "b8bad61860bbe312992f563f6df9e14baadd325a"
     },
     {
+      "name": "tass_agency-2022-09-07T08:40:24.044563+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662529227",
+      "size": "579",
+      "md5": "6139cbe396c46a55a6c95fc187b066e2",
+      "crc32": "efed6d68",
+      "sha1": "ead2c45c7e3823e7aa18e22853e0c12746754c83",
+      "format": "JSON"
+    },
+    {
+      "name": "tass_agency-2022-09-07T08:40:24.044563+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662529229",
+      "size": "2",
+      "md5": "d751713988987e9331980363e24189ce",
+      "crc32": "0d4cbb29",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c",
+      "format": "JSON"
+    },
+    {
+      "name": "tass_agency-2022-09-07T08:40:24.044563+03:00.jpg",
+      "source": "original",
+      "mtime": "1662529226",
+      "size": "35714",
+      "md5": "7f5e3a1fd0f8f7edc85cd8011b64024c",
+      "crc32": "ea9d7c2a",
+      "sha1": "769bc3a02bbb35c245054ec7ef0623a8e4067c63",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tass_agency-2022-09-07T08:40:24.044563+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662529231",
+      "size": "1390",
+      "md5": "d5afa472b6c5dc3ff01c4e022600ad66",
+      "crc32": "0d268bae",
+      "sha1": "894db5bb79d63f3c4c5acaf641774c2342eccfab",
+      "format": "JSON"
+    },
+    {
+      "name": "tass_agency-2022-09-07T08:40:24.044563+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1662529232",
+      "size": "369",
+      "md5": "cd093d98d65b51f4cf69140f011cac14",
+      "crc32": "0beed039",
+      "sha1": "1660952a20120a0792ebdec9a6e789c2d1259c9b",
+      "format": "JSON"
+    },
+    {
+      "name": "tass_agency-2022-09-07T08:40:24.044563+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tass_agency-2022-09-07T08:40:24.044563+03:00.jpg",
+      "mtime": "1662529292",
+      "size": "5254",
+      "md5": "58ac172f218018e511ba72811563f39d",
+      "crc32": "39184052",
+      "sha1": "433df092a47f93bca5d68f69cfa4bb7e843c8ae6"
+    },
+    {
       "name": "tass_agency-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7108cf4eaba49b7d8929f05e5e59a3449909c760",
-      "mtime": "1662526498",
-      "size": "171022",
-      "md5": "fc2883242ae8f434aff54e8fe767ee87",
-      "crc32": "949cedfe",
-      "sha1": "fe02f6381e08c5b469c5f73c045299e45869be1b",
+      "btih": "b99e9a948f22d1926ff1d40aa8f9030e42b9fe67",
+      "mtime": "1662529301",
+      "size": "172278",
+      "md5": "5fb5ec4d05584347da9469d2edc963bb",
+      "crc32": "2094e703",
+      "sha1": "0999d6b51f007c26fd0297bfd52504230f28c6ee",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tass_agency-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d7f759e0ce7dc9102ff5ded0ddbfa490",
+      "md5": "6330de432fe5d709215840bd02d7a532",
       "summation": "md5"
     },
     {
       "name": "tass_agency-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662526440",
-      "size": "1011712",
-      "md5": "cd9d0d30fad08a178be4e87be7e644aa",
-      "crc32": "06c13cc7",
-      "sha1": "1a5f7ad29ceedd0e741dd2be52bfc2553569fbe9",
+      "mtime": "1662529238",
+      "size": "1015808",
+      "md5": "de1b781e672da599897d0becc4dce26d",
+      "crc32": "346447c1",
+      "sha1": "5a036b3aef18d29629f8362fd0e72ac462125682",
       "format": "Metadata"
     },
     {
@@ -8428,9 +8490,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 811,
-  "item_last_updated": 1662526498,
-  "item_size": 23116185,
+  "files_count": 817,
+  "item_last_updated": 1662529301,
+  "item_size": 23164845,
   "metadata": {
     "identifier": "tass_agency-2022",
     "collection": [
@@ -8447,10 +8509,10 @@
     "publicdate": "2022-07-16 20:29:00",
     "addeddate": "2022-07-16 20:29:00"
   },
-  "server": "ia601504.us.archive.org",
-  "uniq": 1643118288,
+  "server": "ia801504.us.archive.org",
+  "uniq": 1014003957,
   "workable_servers": [
-    "ia601504.us.archive.org",
-    "ia801504.us.archive.org"
+    "ia801504.us.archive.org",
+    "ia601504.us.archive.org"
   ]
 }
