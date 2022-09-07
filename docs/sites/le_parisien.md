@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 335 screenshots with the Internet Archive.
+The archiving routine has saved 336 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 335 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-09-07T10:18:22.222310+02:00.jpg">
+  <img src="https://archive.org/download/le_parisien-2022/le_parisien-2022-09-07T10:18:22.222310+02:00.jpg"
+     alt="Le Parisien at 2022-09-07 10:18:23+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-09-07T10:18:22.222310+02:00.jpg">September 7 at 10:18 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-09-07T05:56:08.426748+02:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-09-03T10:15:00.021560+02:00.jpg">September 3 at 10:15 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-09-03T05:50:21.084406+02:00.jpg">
-  <img src="https://archive.org/download/le_parisien-2022/le_parisien-2022-09-03T05:50:21.084406+02:00.jpg"
-     alt="Le Parisien at 2022-09-03 05:50:29+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-09-03T05:50:21.084406+02:00.jpg">September 3 at 5:50 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 335 hyperlink lists with the Internet Archive.
+The archiving routine has saved 336 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 7 at 10:18 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-09-07T10:18:22.222310+02:00.hyperlinks.json) |
 | [September 7 at 5:56 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-09-07T05:56:08.426748+02:00.hyperlinks.json) |
 | [September 6 at 10:16 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-09-06T10:16:06.039098+02:00.hyperlinks.json) |
 | [September 6 at 5:54 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-09-06T05:54:53.369271+02:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 4 at 6:36 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-09-04T18:36:33.229149+02:00.hyperlinks.json) |
 | [September 4 at 10:14 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-09-04T10:14:39.232397+02:00.hyperlinks.json) |
 | [September 4 at 5:44 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-09-04T05:44:13.149731+02:00.hyperlinks.json) |
-| [September 3 at 5:03 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-09-03T17:03:38.036490+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 335 accessibility trees with the Internet Archive.
+The archiving routine has saved 336 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 7 at 10:18 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-09-07T10:18:22.222310+02:00.accessibility.json) |
 | [September 7 at 5:56 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-09-07T05:56:08.426748+02:00.accessibility.json) |
 | [September 6 at 10:16 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-09-06T10:16:06.039098+02:00.accessibility.json) |
 | [September 6 at 5:54 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-09-06T05:54:53.369271+02:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 4 at 6:36 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-09-04T18:36:33.229149+02:00.accessibility.json) |
 | [September 4 at 10:14 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-09-04T10:14:39.232397+02:00.accessibility.json) |
 | [September 4 at 5:44 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-09-04T05:44:13.149731+02:00.accessibility.json) |
-| [September 3 at 5:03 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-09-03T17:03:38.036490+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 10:18 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-09-07T10:18:22.222310+02:00.lighthouse.json) |
 | [September 7 at 5:56 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-09-07T05:56:08.426748+02:00.lighthouse.json) |
 | [September 6 at 10:16 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-09-06T10:16:06.039098+02:00.lighthouse.json) |
 | [September 6 at 5:55 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-09-06T05:54:53.369271+02:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 4 at 6:36 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-09-04T18:36:33.229149+02:00.lighthouse.json) |
 | [September 4 at 10:14 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-09-04T10:14:39.232397+02:00.lighthouse.json) |
 | [September 4 at 5:44 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-09-04T05:44:13.149731+02:00.lighthouse.json) |
-| [September 3 at 5:03 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-09-03T17:03:38.036490+02:00.lighthouse.json) |
 
 
 

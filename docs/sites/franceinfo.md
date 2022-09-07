@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 334 screenshots with the Internet Archive.
+The archiving routine has saved 335 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 334 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-09-07T10:18:09.459461+02:00.jpg">
+  <img src="https://archive.org/download/franceinfo-2022/franceinfo-2022-09-07T10:18:09.459461+02:00.jpg"
+     alt="franceinfo at 2022-09-07 10:18:28+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-09-07T10:18:09.459461+02:00.jpg">September 7 at 10:18 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-09-07T05:52:51.465965+02:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-09-03T10:14:43.306693+02:00.jpg">September 3 at 10:14 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-09-03T05:47:16.811690+02:00.jpg">
-  <img src="https://archive.org/download/franceinfo-2022/franceinfo-2022-09-03T05:47:16.811690+02:00.jpg"
-     alt="franceinfo at 2022-09-03 05:47:18+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-09-03T05:47:16.811690+02:00.jpg">September 3 at 5:47 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 334 hyperlink lists with the Internet Archive.
+The archiving routine has saved 335 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 7 at 10:18 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-09-07T10:18:09.459461+02:00.hyperlinks.json) |
 | [September 7 at 5:53 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-09-07T05:52:51.465965+02:00.hyperlinks.json) |
 | [September 6 at 10:16 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-09-06T10:16:08.976024+02:00.hyperlinks.json) |
 | [September 6 at 5:53 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-09-06T05:53:08.692335+02:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 4 at 6:32 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-09-04T18:32:26.587429+02:00.hyperlinks.json) |
 | [September 4 at 10:14 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-09-04T10:14:25.752523+02:00.hyperlinks.json) |
 | [September 4 at 5:42 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-09-04T05:42:14.243873+02:00.hyperlinks.json) |
-| [September 3 at 5:00 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-09-03T17:00:20.056915+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 333 accessibility trees with the Internet Archive.
+The archiving routine has saved 334 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 7 at 10:18 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-09-07T10:18:09.459461+02:00.accessibility.json) |
 | [September 7 at 5:53 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-09-07T05:52:51.465965+02:00.accessibility.json) |
 | [September 6 at 10:16 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-09-06T10:16:08.976024+02:00.accessibility.json) |
 | [September 6 at 5:53 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-09-06T05:53:08.692335+02:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 4 at 6:32 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-09-04T18:32:26.587429+02:00.accessibility.json) |
 | [September 4 at 10:14 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-09-04T10:14:25.752523+02:00.accessibility.json) |
 | [September 4 at 5:42 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-09-04T05:42:14.243873+02:00.accessibility.json) |
-| [September 3 at 5:00 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-09-03T17:00:20.056915+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 132 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 10:18 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-09-07T10:18:09.459461+02:00.lighthouse.json) |
 | [September 7 at 5:53 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-09-07T05:52:51.465965+02:00.lighthouse.json) |
 | [September 6 at 10:16 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-09-06T10:16:08.976024+02:00.lighthouse.json) |
 | [September 6 at 5:53 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-09-06T05:53:08.692335+02:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 4 at 6:32 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-09-04T18:32:26.587429+02:00.lighthouse.json) |
 | [September 4 at 10:14 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-09-04T10:14:25.752523+02:00.lighthouse.json) |
 | [September 4 at 5:42 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-09-04T05:42:14.243873+02:00.lighthouse.json) |
-| [September 3 at 5:00 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-09-03T17:00:20.056915+02:00.lighthouse.json) |
 
 
 
