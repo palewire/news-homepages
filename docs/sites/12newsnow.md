@@ -437,7 +437,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 104 hyperlink lists with the Internet Archive.
+The archiving routine has saved 105 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 7 at 7:10 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-09-07T07:10:24.704470-05:00.hyperlinks.json) |
 | [September 6 at 6:03 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-09-06T18:03:24.785129-05:00.hyperlinks.json) |
 | [September 6 at 5:53 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-09-06T05:53:32.896546-05:00.hyperlinks.json) |
 | [September 5 at 5:58 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-09-05T17:58:11.966350-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 3 at 5:54 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-09-03T17:53:46.796595-05:00.hyperlinks.json) |
 | [September 3 at 7:07 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-09-03T07:07:05.874566-05:00.hyperlinks.json) |
 | [September 3 at 5:49 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-09-03T05:49:32.648688-05:00.hyperlinks.json) |
-| [September 2 at 6:49 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-09-02T18:49:13.051664-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 105 accessibility trees with the Internet Archive.
+The archiving routine has saved 106 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 7 at 7:10 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-09-07T07:10:24.704470-05:00.accessibility.json) |
 | [September 6 at 6:03 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-09-06T18:03:24.785129-05:00.accessibility.json) |
 | [September 6 at 5:53 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-09-06T05:53:32.896546-05:00.accessibility.json) |
 | [September 5 at 5:58 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-09-05T17:58:11.966350-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 3 at 5:53 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-09-03T17:53:46.796595-05:00.accessibility.json) |
 | [September 3 at 7:07 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-09-03T07:07:05.874566-05:00.accessibility.json) |
 | [September 3 at 5:49 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-09-03T05:49:32.648688-05:00.accessibility.json) |
-| [September 2 at 6:49 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-09-02T18:49:13.051664-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 92 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 93 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 7:10 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-09-07T07:10:24.704470-05:00.lighthouse.json) |
 | [September 6 at 6:03 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-09-06T18:03:24.785129-05:00.lighthouse.json) |
 | [September 6 at 5:53 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-09-06T05:53:32.896546-05:00.lighthouse.json) |
 | [September 5 at 5:58 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-09-05T17:58:11.966350-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 3 at 5:54 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-09-03T17:53:46.796595-05:00.lighthouse.json) |
 | [September 3 at 7:07 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-09-03T07:07:05.874566-05:00.lighthouse.json) |
 | [September 3 at 5:49 AM](https://archive.org/download/12newsnow-2022/12newsnow-2022-09-03T05:49:32.648688-05:00.lighthouse.json) |
-| [September 2 at 6:49 PM](https://archive.org/download/12newsnow-2022/12newsnow-2022-09-02T18:49:13.051664-05:00.lighthouse.json) |
 
 
 

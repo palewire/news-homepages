@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 99 screenshots with the Internet Archive.
+The archiving routine has saved 100 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 99 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-07T14:13:20.047234+02:00.jpg">
+  <img src="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-07T14:13:20.047234+02:00.jpg"
+     alt="Charlie Hebdo at 2022-09-07 14:13:22+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-07T14:13:20.047234+02:00.jpg">September 7 at 2:13 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-07T10:18:03.675195+02:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-04T00:56:41.581601+02:00.jpg">September 4 at 12:56 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-03T14:11:28.968012+02:00.jpg">
-  <img src="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-03T14:11:28.968012+02:00.jpg"
-     alt="Charlie Hebdo at 2022-09-03 14:11:30+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-03T14:11:28.968012+02:00.jpg">September 3 at 2:11 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 99 hyperlink lists with the Internet Archive.
+The archiving routine has saved 100 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 7 at 2:13 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-07T14:13:20.047234+02:00.hyperlinks.json) |
 | [September 7 at 10:18 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-07T10:18:03.675195+02:00.hyperlinks.json) |
 | [September 7 at 1:08 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-07T01:08:13.548482+02:00.hyperlinks.json) |
 | [September 6 at 12:57 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-06T12:57:13.333299+02:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 5 at 10:15 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-05T10:15:21.067777+02:00.hyperlinks.json) |
 | [September 5 at 12:57 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-05T00:57:47.517356+02:00.hyperlinks.json) |
 | [September 4 at 12:52 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-04T12:52:45.624257+02:00.hyperlinks.json) |
-| [September 4 at 10:14 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-04T10:14:04.097916+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 99 accessibility trees with the Internet Archive.
+The archiving routine has saved 100 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 7 at 2:13 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-07T14:13:20.047234+02:00.accessibility.json) |
 | [September 7 at 10:18 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-07T10:18:03.675195+02:00.accessibility.json) |
 | [September 7 at 1:08 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-07T01:08:13.548482+02:00.accessibility.json) |
 | [September 6 at 12:57 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-06T12:57:13.333299+02:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 5 at 10:15 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-05T10:15:21.067777+02:00.accessibility.json) |
 | [September 5 at 12:57 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-05T00:57:47.517356+02:00.accessibility.json) |
 | [September 4 at 12:52 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-04T12:52:45.624257+02:00.accessibility.json) |
-| [September 4 at 10:14 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-04T10:14:04.097916+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 99 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 100 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 2:13 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-07T14:13:20.047234+02:00.lighthouse.json) |
 | [September 7 at 10:18 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-07T10:18:03.675195+02:00.lighthouse.json) |
 | [September 7 at 1:08 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-07T01:08:13.548482+02:00.lighthouse.json) |
 | [September 6 at 12:57 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-06T12:57:13.333299+02:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 5 at 10:15 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-05T10:15:21.067777+02:00.lighthouse.json) |
 | [September 5 at 12:57 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-05T00:57:47.517356+02:00.lighthouse.json) |
 | [September 4 at 12:52 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-04T12:52:45.624257+02:00.lighthouse.json) |
-| [September 4 at 10:14 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-04T10:14:04.097916+02:00.lighthouse.json) |
 
 
 
