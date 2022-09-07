@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 73 screenshots with the Internet Archive.
+The archiving routine has saved 74 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 73 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/whas11-2022/whas11-2022-09-06T22:37:23.448906-04:00.jpg">
+  <img src="https://archive.org/download/whas11-2022/whas11-2022-09-06T22:37:23.448906-04:00.jpg"
+     alt="WHAS11 News at 2022-09-06 22:37:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/whas11-2022/whas11-2022-09-06T22:37:23.448906-04:00.jpg">September 6 at 10:37 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/whas11-2022/whas11-2022-09-05T22:31:58.248463-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/whas11-2022/whas11-2022-08-31T22:30:44.601107-04:00.jpg">August 31 at 10:30 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/whas11-2022/whas11-2022-08-31T11:04:00.881263-04:00.jpg">
-  <img src="https://archive.org/download/whas11-2022/whas11-2022-08-31T11:04:00.881263-04:00.jpg"
-     alt="WHAS11 News at 2022-08-31 11:04:03-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/whas11-2022/whas11-2022-08-31T11:04:00.881263-04:00.jpg">August 31 at 11:04 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 72 hyperlink lists with the Internet Archive.
+The archiving routine has saved 73 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 6 at 10:37 PM](https://archive.org/download/whas11-2022/whas11-2022-09-06T22:37:23.448906-04:00.hyperlinks.json) |
 | [September 5 at 10:32 PM](https://archive.org/download/whas11-2022/whas11-2022-09-05T22:31:58.248463-04:00.hyperlinks.json) |
 | [September 5 at 10:28 AM](https://archive.org/download/whas11-2022/whas11-2022-09-05T10:28:46.268282-04:00.hyperlinks.json) |
 | [September 4 at 10:33 PM](https://archive.org/download/whas11-2022/whas11-2022-09-04T22:33:00.538446-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 2 at 10:31 PM](https://archive.org/download/whas11-2022/whas11-2022-09-02T22:30:58.392268-04:00.hyperlinks.json) |
 | [September 2 at 11:04 AM](https://archive.org/download/whas11-2022/whas11-2022-09-02T11:04:05.359207-04:00.hyperlinks.json) |
 | [September 1 at 10:33 PM](https://archive.org/download/whas11-2022/whas11-2022-09-01T22:32:48.300402-04:00.hyperlinks.json) |
-| [September 1 at 11:14 AM](https://archive.org/download/whas11-2022/whas11-2022-09-01T11:13:59.754039-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 74 accessibility trees with the Internet Archive.
+The archiving routine has saved 75 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 6 at 10:37 PM](https://archive.org/download/whas11-2022/whas11-2022-09-06T22:37:23.448906-04:00.accessibility.json) |
 | [September 5 at 10:32 PM](https://archive.org/download/whas11-2022/whas11-2022-09-05T22:31:58.248463-04:00.accessibility.json) |
 | [September 5 at 10:28 AM](https://archive.org/download/whas11-2022/whas11-2022-09-05T10:28:46.268282-04:00.accessibility.json) |
 | [September 4 at 10:33 PM](https://archive.org/download/whas11-2022/whas11-2022-09-04T22:33:00.538446-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 2 at 10:31 PM](https://archive.org/download/whas11-2022/whas11-2022-09-02T22:30:58.392268-04:00.accessibility.json) |
 | [September 2 at 11:04 AM](https://archive.org/download/whas11-2022/whas11-2022-09-02T11:04:05.359207-04:00.accessibility.json) |
 | [September 1 at 10:32 PM](https://archive.org/download/whas11-2022/whas11-2022-09-01T22:32:48.300402-04:00.accessibility.json) |
-| [September 1 at 11:14 AM](https://archive.org/download/whas11-2022/whas11-2022-09-01T11:13:59.754039-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 74 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 75 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 6 at 10:37 PM](https://archive.org/download/whas11-2022/whas11-2022-09-06T22:37:23.448906-04:00.lighthouse.json) |
 | [September 5 at 10:32 PM](https://archive.org/download/whas11-2022/whas11-2022-09-05T22:31:58.248463-04:00.lighthouse.json) |
 | [September 5 at 10:28 AM](https://archive.org/download/whas11-2022/whas11-2022-09-05T10:28:46.268282-04:00.lighthouse.json) |
 | [September 4 at 10:33 PM](https://archive.org/download/whas11-2022/whas11-2022-09-04T22:33:00.538446-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 2 at 10:31 PM](https://archive.org/download/whas11-2022/whas11-2022-09-02T22:30:58.392268-04:00.lighthouse.json) |
 | [September 2 at 11:04 AM](https://archive.org/download/whas11-2022/whas11-2022-09-02T11:04:05.359207-04:00.lighthouse.json) |
 | [September 1 at 10:33 PM](https://archive.org/download/whas11-2022/whas11-2022-09-01T22:32:48.300402-04:00.lighthouse.json) |
-| [September 1 at 11:14 AM](https://archive.org/download/whas11-2022/whas11-2022-09-01T11:13:59.754039-04:00.lighthouse.json) |
 
 
 

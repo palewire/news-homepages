@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 113 screenshots with the Internet Archive.
+The archiving routine has saved 114 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 113 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-09-06T22:31:00.245484-04:00.jpg">
+  <img src="https://archive.org/download/baltbeat-2022/baltbeat-2022-09-06T22:31:00.245484-04:00.jpg"
+     alt="Baltimore Beat at 2022-09-06 22:31:04-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-09-06T22:31:00.245484-04:00.jpg">September 6 at 10:31 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-09-05T22:25:28.643611-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-31T22:26:19.157473-04:00.jpg">August 31 at 10:26 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-31T10:56:36.325075-04:00.jpg">
-  <img src="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-31T10:56:36.325075-04:00.jpg"
-     alt="Baltimore Beat at 2022-08-31 10:56:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/baltbeat-2022/baltbeat-2022-08-31T10:56:36.325075-04:00.jpg">August 31 at 10:56 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 114 hyperlink lists with the Internet Archive.
+The archiving routine has saved 115 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 6 at 10:31 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-09-06T22:31:00.245484-04:00.hyperlinks.json) |
 | [September 5 at 10:25 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-09-05T22:25:28.643611-04:00.hyperlinks.json) |
 | [September 5 at 10:17 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-09-05T10:17:13.221312-04:00.hyperlinks.json) |
 | [September 4 at 10:27 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-09-04T22:27:35.543841-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 2 at 10:25 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-09-02T22:25:45.647977-04:00.hyperlinks.json) |
 | [September 2 at 10:59 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-09-02T10:58:55.336162-04:00.hyperlinks.json) |
 | [September 1 at 10:26 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-09-01T22:26:40.758137-04:00.hyperlinks.json) |
-| [September 1 at 11:06 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-09-01T11:06:29.703742-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 114 accessibility trees with the Internet Archive.
+The archiving routine has saved 115 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 6 at 10:31 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-09-06T22:31:00.245484-04:00.accessibility.json) |
 | [September 5 at 10:25 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-09-05T22:25:28.643611-04:00.accessibility.json) |
 | [September 5 at 10:17 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-09-05T10:17:13.221312-04:00.accessibility.json) |
 | [September 4 at 10:27 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-09-04T22:27:35.543841-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 2 at 10:25 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-09-02T22:25:45.647977-04:00.accessibility.json) |
 | [September 2 at 10:59 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-09-02T10:58:55.336162-04:00.accessibility.json) |
 | [September 1 at 10:26 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-09-01T22:26:40.758137-04:00.accessibility.json) |
-| [September 1 at 11:06 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-09-01T11:06:29.703742-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 91 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 92 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 6 at 10:31 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-09-06T22:31:00.245484-04:00.lighthouse.json) |
 | [September 5 at 10:25 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-09-05T22:25:28.643611-04:00.lighthouse.json) |
 | [September 5 at 10:17 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-09-05T10:17:13.221312-04:00.lighthouse.json) |
 | [September 4 at 10:27 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-09-04T22:27:35.543841-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 2 at 10:25 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-09-02T22:25:45.647977-04:00.lighthouse.json) |
 | [September 2 at 10:59 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-09-02T10:58:55.336162-04:00.lighthouse.json) |
 | [September 1 at 10:26 PM](https://archive.org/download/baltbeat-2022/baltbeat-2022-09-01T22:26:40.758137-04:00.lighthouse.json) |
-| [September 1 at 11:06 AM](https://archive.org/download/baltbeat-2022/baltbeat-2022-09-01T11:06:29.703742-04:00.lighthouse.json) |
 
 
 

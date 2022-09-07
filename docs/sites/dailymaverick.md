@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-09-07T04:35:28.805484+02:00.jpg">
+  <img src="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-09-07T04:35:28.805484+02:00.jpg"
+     alt="Daily Maverick at 2022-09-07 04:35:30+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-09-07T04:35:28.805484+02:00.jpg">September 7 at 4:35 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-09-06T04:29:30.930564+02:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-09-01T04:29:06.338539+02:00.jpg">September 1 at 4:29 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-31T17:01:07.310929+02:00.jpg">
-  <img src="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-31T17:01:07.310929+02:00.jpg"
-     alt="Daily Maverick at 2022-08-31 17:01:10+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailymaverick-2022/dailymaverick-2022-08-31T17:01:07.310929+02:00.jpg">August 31 at 5:01 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 29 hyperlink lists with the Internet Archive.
+The archiving routine has saved 30 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 7 at 4:35 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-09-07T04:35:28.805484+02:00.hyperlinks.json) |
 | [September 6 at 4:29 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-09-06T04:29:30.930564+02:00.hyperlinks.json) |
 | [September 5 at 4:25 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-09-05T16:25:19.144169+02:00.hyperlinks.json) |
 | [September 5 at 4:31 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-09-05T04:31:12.744752+02:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 3 at 4:29 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-09-03T04:29:26.757604+02:00.hyperlinks.json) |
 | [September 2 at 5:02 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-09-02T17:02:07.403579+02:00.hyperlinks.json) |
 | [September 2 at 4:31 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-09-02T04:30:57.360133+02:00.hyperlinks.json) |
-| [September 1 at 5:11 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-09-01T17:11:15.503154+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 29 accessibility trees with the Internet Archive.
+The archiving routine has saved 30 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 7 at 4:35 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-09-07T04:35:28.805484+02:00.accessibility.json) |
 | [September 6 at 4:29 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-09-06T04:29:30.930564+02:00.accessibility.json) |
 | [September 5 at 4:25 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-09-05T16:25:19.144169+02:00.accessibility.json) |
 | [September 5 at 4:31 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-09-05T04:31:12.744752+02:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 3 at 4:29 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-09-03T04:29:26.757604+02:00.accessibility.json) |
 | [September 2 at 5:02 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-09-02T17:02:07.403579+02:00.accessibility.json) |
 | [September 2 at 4:31 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-09-02T04:30:57.360133+02:00.accessibility.json) |
-| [September 1 at 5:11 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-09-01T17:11:15.503154+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 4:35 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-09-07T04:35:28.805484+02:00.lighthouse.json) |
 | [September 6 at 4:29 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-09-06T04:29:30.930564+02:00.lighthouse.json) |
 | [September 5 at 4:25 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-09-05T16:25:19.144169+02:00.lighthouse.json) |
 | [September 5 at 4:31 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-09-05T04:31:12.744752+02:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 3 at 4:29 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-09-03T04:29:26.757604+02:00.lighthouse.json) |
 | [September 2 at 5:02 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-09-02T17:02:07.403579+02:00.lighthouse.json) |
 | [September 2 at 4:31 AM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-09-02T04:30:57.360133+02:00.lighthouse.json) |
-| [September 1 at 5:11 PM](https://archive.org/download/dailymaverick-2022/dailymaverick-2022-09-01T17:11:15.503154+02:00.lighthouse.json) |
 
 
 

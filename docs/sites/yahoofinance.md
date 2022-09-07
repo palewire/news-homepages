@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 28 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/yahoofinance-2022/yahoofinance-2022-09-06T22:38:09.472428-04:00.jpg">
+  <img src="https://archive.org/download/yahoofinance-2022/yahoofinance-2022-09-06T22:38:09.472428-04:00.jpg"
+     alt="Yahoo Finance at 2022-09-06 22:38:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/yahoofinance-2022/yahoofinance-2022-09-06T22:38:09.472428-04:00.jpg">September 6 at 10:38 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/yahoofinance-2022/yahoofinance-2022-09-05T22:31:39.395231-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/yahoofinance-2022/yahoofinance-2022-08-31T22:32:29.163713-04:00.jpg">August 31 at 10:32 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/yahoofinance-2022/yahoofinance-2022-08-31T11:03:36.993591-04:00.jpg">
-  <img src="https://archive.org/download/yahoofinance-2022/yahoofinance-2022-08-31T11:03:36.993591-04:00.jpg"
-     alt="Yahoo Finance at 2022-08-31 11:03:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/yahoofinance-2022/yahoofinance-2022-08-31T11:03:36.993591-04:00.jpg">August 31 at 11:03 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 27 hyperlink lists with the Internet Archive.
+The archiving routine has saved 28 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 6 at 10:38 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-09-06T22:38:09.472428-04:00.hyperlinks.json) |
 | [September 5 at 10:31 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-09-05T22:31:39.395231-04:00.hyperlinks.json) |
 | [September 5 at 10:28 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-09-05T10:28:09.148983-04:00.hyperlinks.json) |
 | [September 4 at 10:33 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-09-04T22:33:22.433888-04:00.hyperlinks.json) |
@@ -371,12 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 2 at 10:31 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-09-02T22:31:40.126712-04:00.hyperlinks.json) |
 | [September 2 at 11:05 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-09-02T11:05:00.373591-04:00.hyperlinks.json) |
 | [September 1 at 10:33 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-09-01T22:33:14.787591-04:00.hyperlinks.json) |
-| [September 1 at 11:14 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-09-01T11:14:05.775327-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 27 accessibility trees with the Internet Archive.
+The archiving routine has saved 28 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 6 at 10:38 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-09-06T22:38:09.472428-04:00.accessibility.json) |
 | [September 5 at 10:31 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-09-05T22:31:39.395231-04:00.accessibility.json) |
 | [September 5 at 10:28 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-09-05T10:28:09.148983-04:00.accessibility.json) |
 | [September 4 at 10:33 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-09-04T22:33:22.433888-04:00.accessibility.json) |
@@ -393,13 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [September 2 at 10:31 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-09-02T22:31:40.126712-04:00.accessibility.json) |
 | [September 2 at 11:05 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-09-02T11:05:00.373591-04:00.accessibility.json) |
 | [September 1 at 10:33 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-09-01T22:33:14.787591-04:00.accessibility.json) |
-| [September 1 at 11:14 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-09-01T11:14:05.775327-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 6 at 10:38 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-09-06T22:38:09.472428-04:00.lighthouse.json) |
 | [September 5 at 10:31 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-09-05T22:31:39.395231-04:00.lighthouse.json) |
 | [September 5 at 10:28 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-09-05T10:28:09.148983-04:00.lighthouse.json) |
 | [September 4 at 10:33 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-09-04T22:33:22.433888-04:00.lighthouse.json) |
@@ -416,7 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 2 at 10:31 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-09-02T22:31:40.126712-04:00.lighthouse.json) |
 | [September 2 at 11:05 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-09-02T11:05:00.373591-04:00.lighthouse.json) |
 | [September 1 at 10:33 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-09-01T22:33:14.787591-04:00.lighthouse.json) |
-| [September 1 at 11:14 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-09-01T11:14:05.775327-04:00.lighthouse.json) |
 
 
 
