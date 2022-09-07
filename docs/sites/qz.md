@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 181 screenshots with the Internet Archive.
+The archiving routine has saved 184 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/qz-2022/qz-2022-09-07T00:51:16.624899-04:00.jpg">
+  <img src="https://archive.org/download/qz-2022/qz-2022-09-07T00:51:16.624899-04:00.jpg"
+     alt="Quartz at 2022-09-07 00:51:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/qz-2022/qz-2022-09-07T00:51:16.624899-04:00.jpg">September 7 at 12:51 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/qz-2022/qz-2022-09-06T00:53:48.377728-04:00.jpg">
+  <img src="https://archive.org/download/qz-2022/qz-2022-09-06T00:53:48.377728-04:00.jpg"
+     alt="Quartz at 2022-09-06 00:53:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/qz-2022/qz-2022-09-06T00:53:48.377728-04:00.jpg">September 6 at 12:53 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/qz-2022/qz-2022-09-05T12:22:26.418730-04:00.jpg">
+  <img src="https://archive.org/download/qz-2022/qz-2022-09-05T12:22:26.418730-04:00.jpg"
+     alt="Quartz at 2022-09-05 12:22:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/qz-2022/qz-2022-09-05T12:22:26.418730-04:00.jpg">September 5 at 12:22 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/qz-2022/qz-2022-09-05T00:50:58.659830-04:00.jpg">
   <img src="https://archive.org/download/qz-2022/qz-2022-09-05T00:50:58.659830-04:00.jpg"
      alt="Quartz at 2022-09-05 00:51:10-04:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/qz-2022/qz-2022-09-01T00:40:55.879872-04:00.jpg">September 1 at 12:41 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/qz-2022/qz-2022-08-31T12:10:35.703132-04:00.jpg">
-  <img src="https://archive.org/download/qz-2022/qz-2022-08-31T12:10:35.703132-04:00.jpg"
-     alt="Quartz at 2022-08-31 12:10:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/qz-2022/qz-2022-08-31T12:10:35.703132-04:00.jpg">August 31 at 12:10 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/qz-2022/qz-2022-08-31T00:49:56.669587-04:00.jpg">
-  <img src="https://archive.org/download/qz-2022/qz-2022-08-31T00:49:56.669587-04:00.jpg"
-     alt="Quartz at 2022-08-31 00:50:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/qz-2022/qz-2022-08-31T00:49:56.669587-04:00.jpg">August 31 at 12:50 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/qz-2022/qz-2022-08-30T12:33:53.171596-04:00.jpg">
-  <img src="https://archive.org/download/qz-2022/qz-2022-08-30T12:33:53.171596-04:00.jpg"
-     alt="Quartz at 2022-08-30 12:33:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/qz-2022/qz-2022-08-30T12:33:53.171596-04:00.jpg">August 30 at 12:33 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 181 hyperlink lists with the Internet Archive.
+The archiving routine has saved 184 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 7 at 12:51 AM](https://archive.org/download/qz-2022/qz-2022-09-07T00:51:16.624899-04:00.hyperlinks.json) |
+| [September 6 at 12:53 AM](https://archive.org/download/qz-2022/qz-2022-09-06T00:53:48.377728-04:00.hyperlinks.json) |
+| [September 5 at 12:22 PM](https://archive.org/download/qz-2022/qz-2022-09-05T12:22:26.418730-04:00.hyperlinks.json) |
 | [September 5 at 12:51 AM](https://archive.org/download/qz-2022/qz-2022-09-05T00:50:58.659830-04:00.hyperlinks.json) |
 | [September 4 at 12:45 PM](https://archive.org/download/qz-2022/qz-2022-09-04T12:44:55.486893-04:00.hyperlinks.json) |
 | [September 4 at 12:39 AM](https://archive.org/download/qz-2022/qz-2022-09-04T00:39:48.230676-04:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 3 at 12:41 AM](https://archive.org/download/qz-2022/qz-2022-09-03T00:41:29.199259-04:00.hyperlinks.json) |
 | [September 2 at 12:15 PM](https://archive.org/download/qz-2022/qz-2022-09-02T12:15:23.184848-04:00.hyperlinks.json) |
 | [September 2 at 12:47 AM](https://archive.org/download/qz-2022/qz-2022-09-02T00:46:57.524252-04:00.hyperlinks.json) |
-| [September 1 at 12:37 PM](https://archive.org/download/qz-2022/qz-2022-09-01T12:37:33.505126-04:00.hyperlinks.json) |
-| [September 1 at 12:41 AM](https://archive.org/download/qz-2022/qz-2022-09-01T00:40:55.879872-04:00.hyperlinks.json) |
-| [August 31 at 12:10 PM](https://archive.org/download/qz-2022/qz-2022-08-31T12:10:35.703132-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 182 accessibility trees with the Internet Archive.
+The archiving routine has saved 185 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 7 at 12:51 AM](https://archive.org/download/qz-2022/qz-2022-09-07T00:51:16.624899-04:00.accessibility.json) |
+| [September 6 at 12:53 AM](https://archive.org/download/qz-2022/qz-2022-09-06T00:53:48.377728-04:00.accessibility.json) |
+| [September 5 at 12:22 PM](https://archive.org/download/qz-2022/qz-2022-09-05T12:22:26.418730-04:00.accessibility.json) |
 | [September 5 at 12:51 AM](https://archive.org/download/qz-2022/qz-2022-09-05T00:50:58.659830-04:00.accessibility.json) |
 | [September 4 at 12:45 PM](https://archive.org/download/qz-2022/qz-2022-09-04T12:44:55.486893-04:00.accessibility.json) |
 | [September 4 at 12:39 AM](https://archive.org/download/qz-2022/qz-2022-09-04T00:39:48.230676-04:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 3 at 12:41 AM](https://archive.org/download/qz-2022/qz-2022-09-03T00:41:29.199259-04:00.accessibility.json) |
 | [September 2 at 12:15 PM](https://archive.org/download/qz-2022/qz-2022-09-02T12:15:23.184848-04:00.accessibility.json) |
 | [September 2 at 12:47 AM](https://archive.org/download/qz-2022/qz-2022-09-02T00:46:57.524252-04:00.accessibility.json) |
-| [September 1 at 12:37 PM](https://archive.org/download/qz-2022/qz-2022-09-01T12:37:33.505126-04:00.accessibility.json) |
-| [September 1 at 12:41 AM](https://archive.org/download/qz-2022/qz-2022-09-01T00:40:55.879872-04:00.accessibility.json) |
-| [August 31 at 12:10 PM](https://archive.org/download/qz-2022/qz-2022-08-31T12:10:35.703132-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 87 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 90 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 12:51 AM](https://archive.org/download/qz-2022/qz-2022-09-07T00:51:16.624899-04:00.lighthouse.json) |
+| [September 6 at 12:53 AM](https://archive.org/download/qz-2022/qz-2022-09-06T00:53:48.377728-04:00.lighthouse.json) |
+| [September 5 at 12:22 PM](https://archive.org/download/qz-2022/qz-2022-09-05T12:22:26.418730-04:00.lighthouse.json) |
 | [September 5 at 12:51 AM](https://archive.org/download/qz-2022/qz-2022-09-05T00:50:58.659830-04:00.lighthouse.json) |
 | [September 4 at 12:45 PM](https://archive.org/download/qz-2022/qz-2022-09-04T12:44:55.486893-04:00.lighthouse.json) |
 | [September 4 at 12:39 AM](https://archive.org/download/qz-2022/qz-2022-09-04T00:39:48.230676-04:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 3 at 12:41 AM](https://archive.org/download/qz-2022/qz-2022-09-03T00:41:29.199259-04:00.lighthouse.json) |
 | [September 2 at 12:15 PM](https://archive.org/download/qz-2022/qz-2022-09-02T12:15:23.184848-04:00.lighthouse.json) |
 | [September 2 at 12:47 AM](https://archive.org/download/qz-2022/qz-2022-09-02T00:46:57.524252-04:00.lighthouse.json) |
-| [September 1 at 12:38 PM](https://archive.org/download/qz-2022/qz-2022-09-01T12:37:33.505126-04:00.lighthouse.json) |
-| [September 1 at 12:41 AM](https://archive.org/download/qz-2022/qz-2022-09-01T00:40:55.879872-04:00.lighthouse.json) |
-| [August 31 at 12:10 PM](https://archive.org/download/qz-2022/qz-2022-08-31T12:10:35.703132-04:00.lighthouse.json) |
 
 
 

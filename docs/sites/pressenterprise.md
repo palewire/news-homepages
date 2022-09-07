@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 402 screenshots with the Internet Archive.
+The archiving routine has saved 405 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-06T21:51:09.139575-07:00.jpg">
+  <img src="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-06T21:51:09.139575-07:00.jpg"
+     alt="Riverside Press-Enterprise at 2022-09-06 21:51:21-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-06T21:51:09.139575-07:00.jpg">September 6 at 9:51 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-05T21:53:45.334859-07:00.jpg">
+  <img src="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-05T21:53:45.334859-07:00.jpg"
+     alt="Riverside Press-Enterprise at 2022-09-05 21:54:06-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-05T21:53:45.334859-07:00.jpg">September 5 at 9:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-05T11:30:48.191821-07:00.jpg">
+  <img src="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-05T11:30:48.191821-07:00.jpg"
+     alt="Riverside Press-Enterprise at 2022-09-05 11:30:52-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-05T11:30:48.191821-07:00.jpg">September 5 at 11:30 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-05T09:21:32.993677-07:00.jpg">
   <img src="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-05T09:21:32.993677-07:00.jpg"
      alt="Riverside Press-Enterprise at 2022-09-05 09:21:35-07:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-02T09:14:52.044009-07:00.jpg">September 2 at 9:15 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-01T21:45:54.950896-07:00.jpg">
-  <img src="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-01T21:45:54.950896-07:00.jpg"
-     alt="Riverside Press-Enterprise at 2022-09-01 21:46:16-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-01T21:45:54.950896-07:00.jpg">September 1 at 9:46 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-01T11:33:09.292449-07:00.jpg">
-  <img src="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-01T11:33:09.292449-07:00.jpg"
-     alt="Riverside Press-Enterprise at 2022-09-01 11:33:11-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-01T11:33:09.292449-07:00.jpg">September 1 at 11:33 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-01T09:38:01.494342-07:00.jpg">
-  <img src="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-01T09:38:01.494342-07:00.jpg"
-     alt="Riverside Press-Enterprise at 2022-09-01 09:38:25-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-01T09:38:01.494342-07:00.jpg">September 1 at 9:38 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 384 hyperlink lists with the Internet Archive.
+The archiving routine has saved 387 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 6 at 9:51 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-06T21:51:09.139575-07:00.hyperlinks.json) |
+| [September 5 at 9:54 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-05T21:53:45.334859-07:00.hyperlinks.json) |
+| [September 5 at 11:31 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-05T11:30:48.191821-07:00.hyperlinks.json) |
 | [September 5 at 9:21 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-05T09:21:32.993677-07:00.hyperlinks.json) |
 | [September 4 at 9:51 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-04T21:51:40.785275-07:00.hyperlinks.json) |
 | [September 4 at 9:43 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-04T09:43:29.198585-07:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 3 at 11:38 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-03T11:38:15.839782-07:00.hyperlinks.json) |
 | [September 3 at 9:02 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-03T09:02:00.997003-07:00.hyperlinks.json) |
 | [September 2 at 9:40 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-02T21:40:47.111025-07:00.hyperlinks.json) |
-| [September 2 at 11:33 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-02T11:33:16.572863-07:00.hyperlinks.json) |
-| [September 2 at 9:15 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-02T09:14:52.044009-07:00.hyperlinks.json) |
-| [September 1 at 9:46 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-01T21:45:54.950896-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 391 accessibility trees with the Internet Archive.
+The archiving routine has saved 394 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 6 at 9:51 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-06T21:51:09.139575-07:00.accessibility.json) |
+| [September 5 at 9:54 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-05T21:53:45.334859-07:00.accessibility.json) |
+| [September 5 at 11:30 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-05T11:30:48.191821-07:00.accessibility.json) |
 | [September 5 at 9:21 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-05T09:21:32.993677-07:00.accessibility.json) |
 | [September 4 at 9:51 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-04T21:51:40.785275-07:00.accessibility.json) |
 | [September 4 at 9:43 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-04T09:43:29.198585-07:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 3 at 11:38 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-03T11:38:15.839782-07:00.accessibility.json) |
 | [September 3 at 9:02 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-03T09:02:00.997003-07:00.accessibility.json) |
 | [September 2 at 9:40 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-02T21:40:47.111025-07:00.accessibility.json) |
-| [September 2 at 11:33 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-02T11:33:16.572863-07:00.accessibility.json) |
-| [September 2 at 9:15 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-02T09:14:52.044009-07:00.accessibility.json) |
-| [September 1 at 9:46 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-01T21:45:54.950896-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 127 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 130 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 6 at 9:51 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-06T21:51:09.139575-07:00.lighthouse.json) |
+| [September 5 at 9:54 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-05T21:53:45.334859-07:00.lighthouse.json) |
+| [September 5 at 11:31 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-05T11:30:48.191821-07:00.lighthouse.json) |
 | [September 5 at 9:21 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-05T09:21:32.993677-07:00.lighthouse.json) |
 | [September 4 at 9:51 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-04T21:51:40.785275-07:00.lighthouse.json) |
 | [September 4 at 9:43 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-04T09:43:29.198585-07:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 3 at 11:38 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-03T11:38:15.839782-07:00.lighthouse.json) |
 | [September 3 at 9:02 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-03T09:02:00.997003-07:00.lighthouse.json) |
 | [September 2 at 9:40 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-02T21:40:47.111025-07:00.lighthouse.json) |
-| [September 2 at 11:33 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-02T11:33:16.572863-07:00.lighthouse.json) |
-| [September 2 at 9:15 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-02T09:14:52.044009-07:00.lighthouse.json) |
-| [September 1 at 9:46 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-01T21:45:54.950896-07:00.lighthouse.json) |
 
 
 

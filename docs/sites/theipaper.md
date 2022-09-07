@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 64 screenshots with the Internet Archive.
+The archiving routine has saved 65 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 64 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theipaper-2022/theipaper-2022-09-07T05:55:39.858833+01:00.jpg">
+  <img src="https://archive.org/download/theipaper-2022/theipaper-2022-09-07T05:55:39.858833+01:00.jpg"
+     alt="i at 2022-09-07 05:55:43+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theipaper-2022/theipaper-2022-09-07T05:55:39.858833+01:00.jpg">September 7 at 5:55 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theipaper-2022/theipaper-2022-09-06T10:26:48.867680+01:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theipaper-2022/theipaper-2022-09-03T05:44:24.838379+01:00.jpg">September 3 at 5:44 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theipaper-2022/theipaper-2022-09-02T17:18:49.566752+01:00.jpg">
-  <img src="https://archive.org/download/theipaper-2022/theipaper-2022-09-02T17:18:49.566752+01:00.jpg"
-     alt="i at 2022-09-02 17:18:52+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theipaper-2022/theipaper-2022-09-02T17:18:49.566752+01:00.jpg">September 2 at 5:18 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 64 hyperlink lists with the Internet Archive.
+The archiving routine has saved 65 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 7 at 5:55 AM](https://archive.org/download/theipaper-2022/theipaper-2022-09-07T05:55:39.858833+01:00.hyperlinks.json) |
 | [September 6 at 10:26 AM](https://archive.org/download/theipaper-2022/theipaper-2022-09-06T10:26:48.867680+01:00.hyperlinks.json) |
 | [September 6 at 5:58 AM](https://archive.org/download/theipaper-2022/theipaper-2022-09-06T05:58:19.253605+01:00.hyperlinks.json) |
 | [September 5 at 5:25 PM](https://archive.org/download/theipaper-2022/theipaper-2022-09-05T17:25:32.823053+01:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 4 at 10:13 AM](https://archive.org/download/theipaper-2022/theipaper-2022-09-04T10:13:18.048701+01:00.hyperlinks.json) |
 | [September 4 at 5:43 AM](https://archive.org/download/theipaper-2022/theipaper-2022-09-04T05:43:25.538977+01:00.hyperlinks.json) |
 | [September 3 at 5:05 PM](https://archive.org/download/theipaper-2022/theipaper-2022-09-03T17:05:40.505799+01:00.hyperlinks.json) |
-| [September 3 at 10:13 AM](https://archive.org/download/theipaper-2022/theipaper-2022-09-03T10:13:42.928952+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 64 accessibility trees with the Internet Archive.
+The archiving routine has saved 65 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 7 at 5:55 AM](https://archive.org/download/theipaper-2022/theipaper-2022-09-07T05:55:39.858833+01:00.accessibility.json) |
 | [September 6 at 10:26 AM](https://archive.org/download/theipaper-2022/theipaper-2022-09-06T10:26:48.867680+01:00.accessibility.json) |
 | [September 6 at 5:58 AM](https://archive.org/download/theipaper-2022/theipaper-2022-09-06T05:58:19.253605+01:00.accessibility.json) |
 | [September 5 at 5:25 PM](https://archive.org/download/theipaper-2022/theipaper-2022-09-05T17:25:32.823053+01:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 4 at 10:13 AM](https://archive.org/download/theipaper-2022/theipaper-2022-09-04T10:13:18.048701+01:00.accessibility.json) |
 | [September 4 at 5:43 AM](https://archive.org/download/theipaper-2022/theipaper-2022-09-04T05:43:25.538977+01:00.accessibility.json) |
 | [September 3 at 5:05 PM](https://archive.org/download/theipaper-2022/theipaper-2022-09-03T17:05:40.505799+01:00.accessibility.json) |
-| [September 3 at 10:13 AM](https://archive.org/download/theipaper-2022/theipaper-2022-09-03T10:13:42.928952+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 64 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 65 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 5:55 AM](https://archive.org/download/theipaper-2022/theipaper-2022-09-07T05:55:39.858833+01:00.lighthouse.json) |
 | [September 6 at 10:26 AM](https://archive.org/download/theipaper-2022/theipaper-2022-09-06T10:26:48.867680+01:00.lighthouse.json) |
 | [September 6 at 5:58 AM](https://archive.org/download/theipaper-2022/theipaper-2022-09-06T05:58:19.253605+01:00.lighthouse.json) |
 | [September 5 at 5:25 PM](https://archive.org/download/theipaper-2022/theipaper-2022-09-05T17:25:32.823053+01:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 4 at 10:13 AM](https://archive.org/download/theipaper-2022/theipaper-2022-09-04T10:13:18.048701+01:00.lighthouse.json) |
 | [September 4 at 5:43 AM](https://archive.org/download/theipaper-2022/theipaper-2022-09-04T05:43:25.538977+01:00.lighthouse.json) |
 | [September 3 at 5:05 PM](https://archive.org/download/theipaper-2022/theipaper-2022-09-03T17:05:40.505799+01:00.lighthouse.json) |
-| [September 3 at 10:13 AM](https://archive.org/download/theipaper-2022/theipaper-2022-09-03T10:13:42.928952+01:00.lighthouse.json) |
 
 
 

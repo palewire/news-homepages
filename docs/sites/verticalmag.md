@@ -234,13 +234,123 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 30 screenshots with the Internet Archive.
+The archiving routine has saved 33 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/verticalmag.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-09-07T00:55:54.454141-04:00.jpg">
+  <img src="https://archive.org/download/verticalmag-2022/verticalmag-2022-09-07T00:55:54.454141-04:00.jpg"
+     alt="Vertical at 2022-09-07 00:55:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-09-07T00:55:54.454141-04:00.jpg">September 7 at 12:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-09-06T00:58:17.364286-04:00.jpg">
+  <img src="https://archive.org/download/verticalmag-2022/verticalmag-2022-09-06T00:58:17.364286-04:00.jpg"
+     alt="Vertical at 2022-09-06 00:58:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-09-06T00:58:17.364286-04:00.jpg">September 6 at 12:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-09-05T12:26:58.347223-04:00.jpg">
+  <img src="https://archive.org/download/verticalmag-2022/verticalmag-2022-09-05T12:26:58.347223-04:00.jpg"
+     alt="Vertical at 2022-09-05 12:27:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-09-05T12:26:58.347223-04:00.jpg">September 5 at 12:27 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-09-05T00:55:44.993717-04:00.jpg">
@@ -323,45 +433,104 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-09-01T00:46:25.023525-04:00.jpg">September 1 at 12:46 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-08-31T12:14:54.418639-04:00.jpg">
-  <img src="https://archive.org/download/verticalmag-2022/verticalmag-2022-08-31T12:14:54.418639-04:00.jpg"
-     alt="Vertical at 2022-08-31 12:14:59-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-08-31T12:14:54.418639-04:00.jpg">August 31 at 12:14 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-08-31T00:54:42.629238-04:00.jpg">
-  <img src="https://archive.org/download/verticalmag-2022/verticalmag-2022-08-31T00:54:42.629238-04:00.jpg"
-     alt="Vertical at 2022-08-31 00:54:43-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-08-31T00:54:42.629238-04:00.jpg">August 31 at 12:54 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-08-30T12:38:28.133063-04:00.jpg">
-  <img src="https://archive.org/download/verticalmag-2022/verticalmag-2022-08-30T12:38:28.133063-04:00.jpg"
-     alt="Vertical at 2022-08-30 12:38:30-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/verticalmag-2022/verticalmag-2022-08-30T12:38:28.133063-04:00.jpg">August 30 at 12:38 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 30 hyperlink lists with the Internet Archive.
+The archiving routine has saved 33 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/verticalmag.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 7 at 12:56 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-07T00:55:54.454141-04:00.hyperlinks.json) |
+| [September 6 at 12:58 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-06T00:58:17.364286-04:00.hyperlinks.json) |
+| [September 5 at 12:27 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-05T12:26:58.347223-04:00.hyperlinks.json) |
 | [September 5 at 12:55 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-05T00:55:44.993717-04:00.hyperlinks.json) |
 | [September 4 at 12:49 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-04T12:49:09.928250-04:00.hyperlinks.json) |
 | [September 4 at 12:45 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-04T00:45:18.904905-04:00.hyperlinks.json) |
@@ -369,21 +538,104 @@ Here are the 10 most recent hyperlink lists.
 | [September 3 at 12:46 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-03T00:46:01.085163-04:00.hyperlinks.json) |
 | [September 2 at 12:20 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-02T12:20:38.008969-04:00.hyperlinks.json) |
 | [September 2 at 12:52 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-02T00:52:13.706817-04:00.hyperlinks.json) |
-| [September 1 at 12:42 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-01T12:42:48.781685-04:00.hyperlinks.json) |
-| [September 1 at 12:46 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-01T00:46:25.023525-04:00.hyperlinks.json) |
-| [August 31 at 12:15 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-08-31T12:14:54.418639-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 30 accessibility trees with the Internet Archive.
+The archiving routine has saved 33 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/verticalmag.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 7 at 12:56 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-07T00:55:54.454141-04:00.accessibility.json) |
+| [September 6 at 12:58 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-06T00:58:17.364286-04:00.accessibility.json) |
+| [September 5 at 12:27 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-05T12:26:58.347223-04:00.accessibility.json) |
 | [September 5 at 12:55 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-05T00:55:44.993717-04:00.accessibility.json) |
 | [September 4 at 12:49 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-04T12:49:09.928250-04:00.accessibility.json) |
 | [September 4 at 12:45 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-04T00:45:18.904905-04:00.accessibility.json) |
@@ -391,22 +643,105 @@ Here are the 10 most recent accessibility trees.
 | [September 3 at 12:46 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-03T00:46:01.085163-04:00.accessibility.json) |
 | [September 2 at 12:20 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-02T12:20:38.008969-04:00.accessibility.json) |
 | [September 2 at 12:52 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-02T00:52:13.706817-04:00.accessibility.json) |
-| [September 1 at 12:42 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-01T12:42:48.781685-04:00.accessibility.json) |
-| [September 1 at 12:46 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-01T00:46:25.023525-04:00.accessibility.json) |
-| [August 31 at 12:15 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-08-31T12:14:54.418639-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/verticalmag.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 12:56 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-07T00:55:54.454141-04:00.lighthouse.json) |
+| [September 6 at 12:58 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-06T00:58:17.364286-04:00.lighthouse.json) |
+| [September 5 at 12:27 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-05T12:26:58.347223-04:00.lighthouse.json) |
 | [September 5 at 12:55 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-05T00:55:44.993717-04:00.lighthouse.json) |
 | [September 4 at 12:49 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-04T12:49:09.928250-04:00.lighthouse.json) |
 | [September 4 at 12:45 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-04T00:45:18.904905-04:00.lighthouse.json) |
@@ -414,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 3 at 12:46 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-03T00:46:01.085163-04:00.lighthouse.json) |
 | [September 2 at 12:20 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-02T12:20:38.008969-04:00.lighthouse.json) |
 | [September 2 at 12:52 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-02T00:52:13.706817-04:00.lighthouse.json) |
-| [September 1 at 12:42 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-01T12:42:48.781685-04:00.lighthouse.json) |
-| [September 1 at 12:46 AM](https://archive.org/download/verticalmag-2022/verticalmag-2022-09-01T00:46:25.023525-04:00.lighthouse.json) |
-| [August 31 at 12:15 PM](https://archive.org/download/verticalmag-2022/verticalmag-2022-08-31T12:14:54.418639-04:00.lighthouse.json) |
 
 
 
