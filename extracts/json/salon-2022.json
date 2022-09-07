@@ -1,5 +1,5 @@
 {
-  "created": 1662526495,
+  "created": 1662570826,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/2/items/salon-2022",
@@ -8228,31 +8228,93 @@
       "sha1": "eae05799638a0c915e723a75c87b63e564db80b5"
     },
     {
+      "name": "salon-2022-09-07T13:11:06.161082-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662570683",
+      "size": "14580",
+      "md5": "f044857f8de516c0c3dd6672e66eaa1b",
+      "crc32": "3d63faad",
+      "sha1": "5a236790d17d36c5e22eb3ee7f21e188a910595c",
+      "format": "JSON"
+    },
+    {
+      "name": "salon-2022-09-07T13:11:06.161082-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662570684",
+      "size": "46285",
+      "md5": "3cef9990fdffe239e8c1e271e7c295ba",
+      "crc32": "40d860c2",
+      "sha1": "46957a2cd2889cefb6099bf834407f57fa65d9bf",
+      "format": "JSON"
+    },
+    {
+      "name": "salon-2022-09-07T13:11:06.161082-04:00.jpg",
+      "source": "original",
+      "mtime": "1662570681",
+      "size": "316364",
+      "md5": "ce7563c622107625e81a8fa4a50bee2f",
+      "crc32": "c10091f4",
+      "sha1": "9a712b12d01478c4c6ac1f09d17e9576a83b203b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salon-2022-09-07T13:11:06.161082-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662570686",
+      "size": "1450",
+      "md5": "c74308766104c8ab189918e04a534255",
+      "crc32": "01e39cec",
+      "sha1": "6253456d1c8a04db438b808aa9c1f8819646d864",
+      "format": "JSON"
+    },
+    {
+      "name": "salon-2022-09-07T13:11:06.161082-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662570688",
+      "size": "12787",
+      "md5": "aca197918c058a4e9ac191a65619d18b",
+      "crc32": "9b766b56",
+      "sha1": "6fa72cc146d0557450023d15edd4fae772cb05bf",
+      "format": "JSON"
+    },
+    {
+      "name": "salon-2022-09-07T13:11:06.161082-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salon-2022-09-07T13:11:06.161082-04:00.jpg",
+      "mtime": "1662570796",
+      "size": "10522",
+      "md5": "930dfd599e0976b9a108f8960d4fac47",
+      "crc32": "990ba924",
+      "sha1": "e862d97bddce2fc0bcead9be92cbd579cc48c420"
+    },
+    {
       "name": "salon-2022_archive.torrent",
       "source": "metadata",
-      "btih": "11c4411fd8593c2f6ce5d5c3a316576e5191b4e8",
-      "mtime": "1662526488",
-      "size": "166000",
-      "md5": "fb0b4e5ed17f4864cbf725584173f4af",
-      "crc32": "ccc06a07",
-      "sha1": "eb2adc4c3563648289fa1a52cd064ef8b5fa801e",
+      "btih": "872dd6897c34b14b94cdb37343b20dfa150aed97",
+      "mtime": "1662570813",
+      "size": "167251",
+      "md5": "c67d5b4229faf6b10ac5f2ed38270386",
+      "crc32": "abcd7205",
+      "sha1": "d172ec48e592cb038a584ecf92af84cf2cd520d9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "salon-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "62c8220d1d604c795b082ad3162b5442",
+      "md5": "9e56592162eeedac148f5e77afb958f6",
       "summation": "md5"
     },
     {
       "name": "salon-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662526424",
-      "size": "999424",
-      "md5": "8f2a6854556b937a71f94cb3ad31d561",
-      "crc32": "68e2031f",
-      "sha1": "9f5cbc9ded69407a24b8330cfc339abe35bf65b9",
+      "mtime": "1662570712",
+      "size": "1003520",
+      "md5": "f8eaf7f6171a26285aeca6753e18fdc1",
+      "crc32": "39e5f8f1",
+      "sha1": "fd28995ac45fbc39091e3dfb328b3e9adbe8f1af",
       "format": "Metadata"
     },
     {
@@ -8266,9 +8328,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 797,
-  "item_last_updated": 1662526488,
-  "item_size": 57651298,
+  "files_count": 803,
+  "item_last_updated": 1662570813,
+  "item_size": 58058633,
   "metadata": {
     "identifier": "salon-2022",
     "collection": [
@@ -8285,10 +8347,37 @@
     "publicdate": "2022-07-18 10:57:18",
     "addeddate": "2022-07-18 10:57:18"
   },
+  "pending_tasks": true,
   "server": "ia601406.us.archive.org",
-  "uniq": 674656602,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3396310464,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3396310527,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3396310588,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1049357440,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia601406.us.archive.org"
   ]
 }
