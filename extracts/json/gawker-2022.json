@@ -1,5 +1,5 @@
 {
-  "created": 1662608959,
+  "created": 1662654748,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/15/items/gawker-2022",
@@ -7016,31 +7016,93 @@
       "sha1": "675842e1609666970fda7d96c2e470547ee31594"
     },
     {
+      "name": "gawker-2022-09-08T11:23:12.105769-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662650603",
+      "size": "9334",
+      "md5": "da180c6fcd991a4c5abcf8d5cb03e119",
+      "crc32": "8e406651",
+      "sha1": "642f5c9cb940fac13635d5e462e631c488f14deb",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-09-08T11:23:12.105769-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662650607",
+      "size": "10993",
+      "md5": "ddfb7c81f7655c336b62e89feb946f03",
+      "crc32": "a003a623",
+      "sha1": "1ca204c4d1491d290579e2cb514f4a8ac0ade035",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-09-08T11:23:12.105769-04:00.jpg",
+      "source": "original",
+      "mtime": "1662650599",
+      "size": "283933",
+      "md5": "1d9483fd1096ded3658cd333ed5b8588",
+      "crc32": "4e8e6786",
+      "sha1": "dd960fc6dc3d85274b80de5e7d0020011be94351",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gawker-2022-09-08T11:23:12.105769-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662650610",
+      "size": "1441",
+      "md5": "d460d794e239621b1268fd5c1483ee8f",
+      "crc32": "86f9b7dc",
+      "sha1": "9d6b5e1204f5d46bf67262b495a0ba8a7a9d32db",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-09-08T11:23:12.105769-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662650613",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-09-08T11:23:12.105769-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gawker-2022-09-08T11:23:12.105769-04:00.jpg",
+      "mtime": "1662650680",
+      "size": "11038",
+      "md5": "868402cfc11470839d252eb8fdcd2c4c",
+      "crc32": "100ceeaa",
+      "sha1": "f60d3c0db46396e11700535ec0e8e047f03cd941"
+    },
+    {
       "name": "gawker-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a2cbf91dd8b6a598afbdf89fd86a1ea5f619dea6",
-      "mtime": "1662608951",
-      "size": "141886",
-      "md5": "91c718729e0c78b7df5e2e5c055bbbc3",
-      "crc32": "6b627533",
-      "sha1": "fbe8766969fccf5054e50463f96cae114473d402",
+      "btih": "01c3c21026782c1d45a9393d70f3742cffbed0ee",
+      "mtime": "1662650690",
+      "size": "143119",
+      "md5": "055fc64d9181b4771f742037935d054c",
+      "crc32": "2cb40302",
+      "sha1": "1bb47ffbe1583b946c44eaa4b8d505f343344c40",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gawker-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e00a3f6ad11ded625be6a5b6ba055790",
+      "md5": "b5dcc5c61b13f816514ef5b198b6151d",
       "summation": "md5"
     },
     {
       "name": "gawker-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662608890",
-      "size": "847872",
-      "md5": "16aadc9deb95864e330b48a332f677d7",
-      "crc32": "356acb9b",
-      "sha1": "855735586e0a0fe9135f8b2e6487c7068c1172b2",
+      "mtime": "1662650624",
+      "size": "851968",
+      "md5": "41ebfcb4c24a6037fee39c982c305cfa",
+      "crc32": "cc93e296",
+      "sha1": "06db73b02de83457f82a3a152c4c74daf74f9795",
       "format": "Metadata"
     },
     {
@@ -7054,9 +7116,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 679,
-  "item_last_updated": 1662608951,
-  "item_size": 44312800,
+  "files_count": 685,
+  "gawker-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1662650690,
+  "item_size": 44635070,
   "metadata": {
     "identifier": "gawker-2022",
     "collection": [
@@ -7074,7 +7141,7 @@
     "addeddate": "2022-07-04 21:53:36"
   },
   "server": "ia802508.us.archive.org",
-  "uniq": 600121844,
+  "uniq": 493406690,
   "workable_servers": [
     "ia802508.us.archive.org",
     "ia902508.us.archive.org"

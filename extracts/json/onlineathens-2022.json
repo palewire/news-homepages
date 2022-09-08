@@ -1,5 +1,5 @@
 {
-  "created": 1662609414,
+  "created": 1662651507,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/24/items/onlineathens-2022",
@@ -5744,31 +5744,93 @@
       "sha1": "608afb21aa6d45285ebbffd4ebbcf04d870e84c2"
     },
     {
+      "name": "onlineathens-2022-09-08T11:36:40.379766-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662651407",
+      "size": "21199",
+      "md5": "b3cb551a751c37f160d1bd62a3db5ef6",
+      "crc32": "61187e03",
+      "sha1": "ac6b1a570f19dd92585c40ecb78424be1d86e511",
+      "format": "JSON"
+    },
+    {
+      "name": "onlineathens-2022-09-08T11:36:40.379766-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662651409",
+      "size": "32854",
+      "md5": "a1a6b0f1b2bbcfc1e961f85b8d320bd8",
+      "crc32": "637513c4",
+      "sha1": "32057d206eea9f9e61111d80b47ca0bb87965063",
+      "format": "JSON"
+    },
+    {
+      "name": "onlineathens-2022-09-08T11:36:40.379766-04:00.jpg",
+      "source": "original",
+      "mtime": "1662651405",
+      "size": "281740",
+      "md5": "c964521f7544984df22201ca980f5327",
+      "crc32": "b79e8859",
+      "sha1": "c8138d5cb30c51ce6778ca853495c43a6aa616bf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "onlineathens-2022-09-08T11:36:40.379766-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662651410",
+      "size": "1513",
+      "md5": "6054de663316dee9e24a79a1dfdb41a9",
+      "crc32": "47da5925",
+      "sha1": "2d9f2b539f7bd56f66d7f48da93d85067113d045",
+      "format": "JSON"
+    },
+    {
+      "name": "onlineathens-2022-09-08T11:36:40.379766-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662651413",
+      "size": "127760",
+      "md5": "0cfa04b4fa43954512fa75c04628e9c6",
+      "crc32": "b8e7ed6e",
+      "sha1": "67c9e9e26800aa257f03e4259dfd9fd0fefd88af",
+      "format": "JSON"
+    },
+    {
+      "name": "onlineathens-2022-09-08T11:36:40.379766-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "onlineathens-2022-09-08T11:36:40.379766-04:00.jpg",
+      "mtime": "1662651479",
+      "size": "9330",
+      "md5": "88ca706b00e3eb4b1815e835c0503073",
+      "crc32": "1f314a09",
+      "sha1": "f1f7f3bb60f285c9d5b038c0b871e5aa8de14946"
+    },
+    {
       "name": "onlineathens-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f248e7550e5bd3189d90c514777c356919725ace",
-      "mtime": "1662609407",
-      "size": "120211",
-      "md5": "15ab03790b64bb7c8e5345c038da5f02",
-      "crc32": "6f8cd331",
-      "sha1": "002f8e2e6f416cba5163420674dab6f152b8bdc3",
+      "btih": "9821fc1a0ed218b850cc2bfbdd076e7bbdd649f1",
+      "mtime": "1662651488",
+      "size": "121483",
+      "md5": "23bc2505d9dd32533c6cf7e1d3932e8b",
+      "crc32": "876d5953",
+      "sha1": "0431cdd1acada0eee5a855028dbfb2fe63d0ee82",
       "format": "Archive BitTorrent"
     },
     {
       "name": "onlineathens-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c773a204e8aaf293ed8e35228c27e31e",
+      "md5": "d0fd7f1cf787f1d129d62a1af0e0b3a4",
       "summation": "md5"
     },
     {
       "name": "onlineathens-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662609355",
-      "size": "716800",
-      "md5": "251aa01549554710feb691d1e9ebd7cf",
-      "crc32": "7dbd79fd",
-      "sha1": "276916c95eceaa29f93b4a28f58fd65b3b5d19e4",
+      "mtime": "1662651419",
+      "size": "724992",
+      "md5": "525a2b727468737479d2784684c955c8",
+      "crc32": "9c5c0d13",
+      "sha1": "7b8a936d04e09eff0b29fa3ead96632f849ec4cc",
       "format": "Metadata"
     },
     {
@@ -5782,9 +5844,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 558,
-  "item_last_updated": 1662609407,
-  "item_size": 37880395,
+  "files_count": 564,
+  "item_last_updated": 1662651488,
+  "item_size": 38364255,
   "metadata": {
     "identifier": "onlineathens-2022",
     "collection": [
@@ -5802,7 +5864,7 @@
     "addeddate": "2022-07-20 23:31:11"
   },
   "server": "ia801405.us.archive.org",
-  "uniq": 1547090592,
+  "uniq": 60238163,
   "workable_servers": [
     "ia801405.us.archive.org",
     "ia601405.us.archive.org"

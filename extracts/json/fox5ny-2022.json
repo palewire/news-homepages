@@ -1,5 +1,5 @@
 {
-  "created": 1662608965,
+  "created": 1662650669,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/19/items/fox5ny-2022",
@@ -1876,31 +1876,93 @@
       "sha1": "58516e909074a9f32c5f57c5998940aed9d0d3f3"
     },
     {
+      "name": "fox5ny-2022-09-08T11:21:49.503224-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662650518",
+      "size": "43191",
+      "md5": "f86a5159518530e5c14ad71efc5b6c8d",
+      "crc32": "1d1852fb",
+      "sha1": "c4338c25f59d1ff49fa843fa3afbc351146d8594",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-09-08T11:21:49.503224-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662650520",
+      "size": "33910",
+      "md5": "def5fc18ac8cbb33a7ee29b2e5772008",
+      "crc32": "10d86d93",
+      "sha1": "19a47562a855ea8e678c48b064e30c3057407822",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-09-08T11:21:49.503224-04:00.jpg",
+      "source": "original",
+      "mtime": "1662650516",
+      "size": "328564",
+      "md5": "837d9da25cba512bb359a3796d0efab5",
+      "crc32": "a3bdac3f",
+      "sha1": "10ae91c79ef6d4a0bfd3392c8280d834d2fc7bba",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox5ny-2022-09-08T11:21:49.503224-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662650522",
+      "size": "1459",
+      "md5": "2492f848a80f60480a7bd370d2500d17",
+      "crc32": "11e5565a",
+      "sha1": "a5dca8f0567ce01bd59b17fdcad153a01ad2e91c",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-09-08T11:21:49.503224-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662650525",
+      "size": "54867",
+      "md5": "d86f9d4c4ee63fc6a446192cb099f919",
+      "crc32": "25471bcc",
+      "sha1": "44c3343df703cefa5742734403321b95700bf7c9",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-09-08T11:21:49.503224-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox5ny-2022-09-08T11:21:49.503224-04:00.jpg",
+      "mtime": "1662650629",
+      "size": "10767",
+      "md5": "84b89b58774d4f1f06086d7e3481c098",
+      "crc32": "ed559d2c",
+      "sha1": "5c6fde91de55747f8d694d371c90aadd472d83ea"
+    },
+    {
       "name": "fox5ny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b449cdc95263f412e298d01a1dc2c321109ef5fb",
-      "mtime": "1662608957",
-      "size": "39218",
-      "md5": "5d352568b30bcdca8d0dbb3a5b8448f7",
-      "crc32": "c1c2ee42",
-      "sha1": "52c5f5c5acf1ff250855ca941a8b90104761672a",
+      "btih": "f2923538deddea4dad94d05ac404919fb5f6db3c",
+      "mtime": "1662650643",
+      "size": "40474",
+      "md5": "03e826022ed94af9b4aeb3d4dcc8568f",
+      "crc32": "2ec233d4",
+      "sha1": "8473a5f705267c70e24298fb7956c5694153fc4e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fox5ny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4e8c27dd2083edda31e2baf045775bb8",
+      "md5": "bd80a9b2b11ff8052ed05e3cf6d59669",
       "summation": "md5"
     },
     {
       "name": "fox5ny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662608905",
-      "size": "249856",
-      "md5": "499149a8d783861617cc81a8244f5232",
-      "crc32": "ab7131eb",
-      "sha1": "f6d729eaf78b41913fe71ff9134ea6dd9b733062",
+      "mtime": "1662650528",
+      "size": "258048",
+      "md5": "6f3777c04a3ca7334fbdc96a82ced674",
+      "crc32": "5d267ab9",
+      "sha1": "cb27c15a2c73153d8a1212e887ed4c92abaa0b70",
       "format": "Metadata"
     },
     {
@@ -1914,9 +1976,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 185,
-  "item_last_updated": 1662608957,
-  "item_size": 14272611,
+  "files_count": 191,
+  "item_last_updated": 1662650643,
+  "item_size": 14754817,
   "metadata": {
     "identifier": "fox5ny-2022",
     "collection": [
@@ -1934,7 +1996,7 @@
     "addeddate": "2022-08-23 14:52:06"
   },
   "server": "ia801406.us.archive.org",
-  "uniq": 1209614953,
+  "uniq": 91576004,
   "workable_servers": [
     "ia801406.us.archive.org",
     "ia601406.us.archive.org"
