@@ -1,5 +1,5 @@
 {
-  "created": 1662612759,
+  "created": 1662655187,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/8/items/thelensnola-2022",
@@ -6698,31 +6698,93 @@
       "sha1": "93ebb8e1883841bbc9830bf4504fab245e57fa33"
     },
     {
+      "name": "thelensnola-2022-09-08T11:38:23.047142-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662655110",
+      "size": "15053",
+      "md5": "4ac12704f11c6477582a19d2cf726c79",
+      "crc32": "5887f2e2",
+      "sha1": "196d4d9e335ec708c9fd2e084dfec95ae82c7453",
+      "format": "JSON"
+    },
+    {
+      "name": "thelensnola-2022-09-08T11:38:23.047142-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662655112",
+      "size": "12314",
+      "md5": "1eff682f122b018463fc345240cf267d",
+      "crc32": "3dd507ac",
+      "sha1": "c9e31cff345bbaa685345637e67db8b975ef80f6",
+      "format": "JSON"
+    },
+    {
+      "name": "thelensnola-2022-09-08T11:38:23.047142-05:00.jpg",
+      "source": "original",
+      "mtime": "1662655107",
+      "size": "290815",
+      "md5": "8e67bf20d195ec07405857c8366c5287",
+      "crc32": "423e7dfe",
+      "sha1": "ba6731e22f5984ae491b0c825e7a46b1da9d0bf0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thelensnola-2022-09-08T11:38:23.047142-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662655113",
+      "size": "1465",
+      "md5": "6d0d792df2ccb5c7e9de3f0984a642c3",
+      "crc32": "81e4335c",
+      "sha1": "8a456014c18bc967318f9cd9a715211eacbcbe33",
+      "format": "JSON"
+    },
+    {
+      "name": "thelensnola-2022-09-08T11:38:23.047142-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662655115",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thelensnola-2022-09-08T11:38:23.047142-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thelensnola-2022-09-08T11:38:23.047142-05:00.jpg",
+      "mtime": "1662655175",
+      "size": "11280",
+      "md5": "f2899c97dfcd8fa6c51187510162eed9",
+      "crc32": "3fb0a01e",
+      "sha1": "93ebb8e1883841bbc9830bf4504fab245e57fa33"
+    },
+    {
       "name": "thelensnola-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d6fadf1d41b8c0d10509fa26f405d5a26b151ce1",
-      "mtime": "1662612754",
-      "size": "138638",
-      "md5": "4869e48a751b41df1c3dcf86a90422e2",
-      "crc32": "23c846ab",
-      "sha1": "0c13f2d82a43b6c9c2d3530ad9c6941a4e06b1f9",
+      "btih": "98a6aa3bdb00889f186f4fbc6e8f9fdc35ef8276",
+      "mtime": "1662655180",
+      "size": "139922",
+      "md5": "0a2a9c3b424b42e59a8be8294fc1edd1",
+      "crc32": "f717953f",
+      "sha1": "9f1be19eb352900ac27d99dd7f56bc4113473c0b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thelensnola-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bf03cabcf625cae8182f1c28ff87d88b",
+      "md5": "f666c2509e532a4b921582cdd2308a17",
       "summation": "md5"
     },
     {
       "name": "thelensnola-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662612699",
-      "size": "823296",
-      "md5": "7b5167ae9cee3abe7ec5fa1d9fd2e84c",
-      "crc32": "61d5c12f",
-      "sha1": "9633c171166428db92b398a4d0301f576040b4f1",
+      "mtime": "1662655122",
+      "size": "827392",
+      "md5": "9773b789dc7321bd7f0bc0d21098db36",
+      "crc32": "8aaf69fe",
+      "sha1": "8be3c50da725f178369864d1e4afd35d617a8804",
       "format": "Metadata"
     },
     {
@@ -6736,9 +6798,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 649,
-  "item_last_updated": 1662612754,
-  "item_size": 35166273,
+  "files_count": 655,
+  "item_last_updated": 1662655180,
+  "item_size": 35502782,
   "metadata": {
     "identifier": "thelensnola-2022",
     "collection": [
@@ -6756,7 +6818,7 @@
     "addeddate": "2022-07-09 04:03:47"
   },
   "server": "ia802509.us.archive.org",
-  "uniq": 693405058,
+  "uniq": 2026098562,
   "workable_servers": [
     "ia802509.us.archive.org",
     "ia902509.us.archive.org"

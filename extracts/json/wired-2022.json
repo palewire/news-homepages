@@ -1,5 +1,5 @@
 {
-  "created": 1662612894,
+  "created": 1662655354,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/33/items/wired-2022",
@@ -7632,31 +7632,93 @@
       "sha1": "42f50f6f8bfebacc562d08e8bf32440217a4eb03"
     },
     {
+      "name": "wired-2022-09-08T09:40:38.290951-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662655250",
+      "size": "35115",
+      "md5": "008f7a84b9fa862f72ba330228fb3733",
+      "crc32": "defd65dc",
+      "sha1": "db782e0bc4a330b1b36890b4d8c40e512c688554",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-09-08T09:40:38.290951-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662655252",
+      "size": "22949",
+      "md5": "93d3196a0b971bfbb1dea59f18462285",
+      "crc32": "212e9bfc",
+      "sha1": "06103ea3e32e0daecaeb058ab2ee556f187442c1",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-09-08T09:40:38.290951-07:00.jpg",
+      "source": "original",
+      "mtime": "1662655248",
+      "size": "250646",
+      "md5": "95f389e02179d82213e09a08777a93f4",
+      "crc32": "74af07f3",
+      "sha1": "94389e16d434ab98fe0bdd95b463c155e8d307b0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wired-2022-09-08T09:40:38.290951-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662655255",
+      "size": "1450",
+      "md5": "fc7616afa46f9d1e6ab4c93be8f80e1d",
+      "crc32": "07292d7d",
+      "sha1": "4ec3d212d8a11841beeee954a5ba472c1857f70b",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-09-08T09:40:38.290951-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662655258",
+      "size": "87466",
+      "md5": "d787259ec5c21c5e12c22f22b7fb93b4",
+      "crc32": "e5c45846",
+      "sha1": "a906591a6b619798a4d68ba5ac83a86e8ff8755d",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-09-08T09:40:38.290951-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wired-2022-09-08T09:40:38.290951-07:00.jpg",
+      "mtime": "1662655321",
+      "size": "10468",
+      "md5": "effbf6f735a23496f163b880e27ff855",
+      "crc32": "aeaad459",
+      "sha1": "1a549e07b10bf0d3c73b955d0efd04ea1278cd51"
+    },
+    {
       "name": "wired-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d72b637481e987c14e5b8194aea0464a5d5f6d6d",
-      "mtime": "1662612883",
-      "size": "153839",
-      "md5": "47f7560ddeb6f93fc3a233ff93bf6678",
-      "crc32": "1d5a0c76",
-      "sha1": "418161bdc3be730798750e5326ab71277c28d69f",
+      "btih": "9525429456628e503cb4b2f81bebf025f550acab",
+      "mtime": "1662655341",
+      "size": "155089",
+      "md5": "1dd0a8fe31721a60b1bfaf89e55b2f89",
+      "crc32": "b36b8965",
+      "sha1": "c8e34420c89bad5321743a7091321c33eb618bc4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wired-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "06c1621607a11359ef58891bff298d1f",
+      "md5": "f96ce904cc5b7521f866ffd422ab6dc8",
       "summation": "md5"
     },
     {
       "name": "wired-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662612821",
-      "size": "913408",
-      "md5": "0dfc02d6687fe89b3499c754fd6e79d5",
-      "crc32": "777884b9",
-      "sha1": "74f743fea285741ff985f99c9eec97f7d15cbf3a",
+      "mtime": "1662655263",
+      "size": "921600",
+      "md5": "67a79676d17d123be249e6c3171b8716",
+      "crc32": "8e1abc52",
+      "sha1": "90c77c6a811e7fbe5203c0ffbbe358d946669973",
       "format": "Metadata"
     },
     {
@@ -7670,9 +7732,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 738,
-  "item_last_updated": 1662612883,
-  "item_size": 56132876,
+  "files_count": 744,
+  "item_last_updated": 1662655341,
+  "item_size": 56550412,
   "metadata": {
     "identifier": "wired-2022",
     "collection": [
@@ -7689,10 +7751,10 @@
     "publicdate": "2022-07-04 20:17:35",
     "addeddate": "2022-07-04 20:17:35"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 988360615,
+  "server": "ia801409.us.archive.org",
+  "uniq": 747066128,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1662612714,
+  "created": 1662655178,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/23/items/theappeal-2022",
@@ -5460,31 +5460,93 @@
       "sha1": "c1a03457d9bd888795a426ca1738640d93098891"
     },
     {
+      "name": "theappeal-2022-09-08T12:37:54.306758-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662655083",
+      "size": "36681",
+      "md5": "de4a4ba0cad782485dbd0df73d79838e",
+      "crc32": "0b4753e3",
+      "sha1": "c1f69208a7b12c43001fd9032332bbaefe6d516d",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-09-08T12:37:54.306758-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662655085",
+      "size": "41767",
+      "md5": "599d86a3857815d77718c1f68668ca54",
+      "crc32": "45851a24",
+      "sha1": "31550fd17fe36c89ae8c5f328d0bf2327a27f058",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-09-08T12:37:54.306758-04:00.jpg",
+      "source": "original",
+      "mtime": "1662655081",
+      "size": "245208",
+      "md5": "1417f492927b2f1eeb3e6b57af85d15f",
+      "crc32": "842cf318",
+      "sha1": "4cc3551c6ca54417b692f698a15a19eab5bd0871",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theappeal-2022-09-08T12:37:54.306758-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662655087",
+      "size": "1450",
+      "md5": "7928601a22217946c2c46034777dc50a",
+      "crc32": "e071b8ed",
+      "sha1": "39d30a6391c14adc02d74f46572c414f7031bc37",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-09-08T12:37:54.306758-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662655089",
+      "size": "16299",
+      "md5": "21433eca56002a1dfecb83e277ff0559",
+      "crc32": "ae7e5257",
+      "sha1": "6aa921f43be7af3eb102e57529716b3f12d6cb10",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-09-08T12:37:54.306758-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theappeal-2022-09-08T12:37:54.306758-04:00.jpg",
+      "mtime": "1662655157",
+      "size": "9892",
+      "md5": "58e45a93bcfe58189290683800f106f2",
+      "crc32": "22b24715",
+      "sha1": "c1a03457d9bd888795a426ca1738640d93098891"
+    },
+    {
       "name": "theappeal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9cc6fdd2708c4b543e71f0302400d146fff119e5",
-      "mtime": "1662612707",
-      "size": "112698",
-      "md5": "34959dc0f410f752567b65ad35d3bea6",
-      "crc32": "52d0b7a3",
-      "sha1": "3ebb1ab350541b59b0113a82b41f2db29f1cdae7",
+      "btih": "4a6cee4c1e544ecd2d606694a0be05be1ed0c61c",
+      "mtime": "1662655167",
+      "size": "113951",
+      "md5": "518616b915b769635c16cbde8317cba4",
+      "crc32": "21b980e3",
+      "sha1": "46433a5a02ce1e891cdcc3ef9b3438337020b49e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theappeal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3d52d7dcb2dbd62b6cdf752388d4f231",
+      "md5": "2f33389dca3b596cfcfb52cbff790590",
       "summation": "md5"
     },
     {
       "name": "theappeal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662612649",
-      "size": "684032",
-      "md5": "5938ffdc9638a9306747b3e01acbbfee",
-      "crc32": "b7933b4d",
-      "sha1": "2f1c497c45ff125b4f938f6ab11385b1e5b19a71",
+      "mtime": "1662655096",
+      "size": "692224",
+      "md5": "44c16f3718cc409b3541a4653a24515b",
+      "crc32": "bd5dd0d1",
+      "sha1": "aa5c5d8abc990ca1448c1fc216c8b721a7ccc204",
       "format": "Metadata"
     },
     {
@@ -5498,9 +5560,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 531,
-  "item_last_updated": 1662612707,
-  "item_size": 32200915,
+  "files_count": 537,
+  "item_last_updated": 1662655167,
+  "item_size": 32561657,
   "metadata": {
     "identifier": "theappeal-2022",
     "collection": [
@@ -5517,10 +5579,10 @@
     "publicdate": "2022-07-24 03:40:26",
     "addeddate": "2022-07-24 03:40:26"
   },
-  "server": "ia601508.us.archive.org",
-  "uniq": 1779272736,
+  "server": "ia801508.us.archive.org",
+  "uniq": 378033502,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia801508.us.archive.org",
+    "ia601508.us.archive.org"
   ]
 }
