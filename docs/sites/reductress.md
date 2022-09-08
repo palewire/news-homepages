@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 49 screenshots with the Internet Archive.
+The archiving routine has saved 50 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 49 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reductress-2022/reductress-2022-09-08T09:14:52.862657-04:00.jpg">
+  <img src="https://archive.org/download/reductress-2022/reductress-2022-09-08T09:14:52.862657-04:00.jpg"
+     alt="Reductress at 2022-09-08 09:14:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reductress-2022/reductress-2022-09-08T09:14:52.862657-04:00.jpg">September 8 at 9:14 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reductress-2022/reductress-2022-09-07T21:22:19.137179-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/reductress-2022/reductress-2022-09-02T09:04:01.744283-04:00.jpg">September 2 at 9:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/reductress-2022/reductress-2022-09-01T21:15:40.182130-04:00.jpg">
-  <img src="https://archive.org/download/reductress-2022/reductress-2022-09-01T21:15:40.182130-04:00.jpg"
-     alt="Reductress at 2022-09-01 21:15:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reductress-2022/reductress-2022-09-01T21:15:40.182130-04:00.jpg">September 1 at 9:15 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 49 hyperlink lists with the Internet Archive.
+The archiving routine has saved 50 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 8 at 9:14 AM](https://archive.org/download/reductress-2022/reductress-2022-09-08T09:14:52.862657-04:00.hyperlinks.json) |
 | [September 7 at 9:22 PM](https://archive.org/download/reductress-2022/reductress-2022-09-07T21:22:19.137179-04:00.hyperlinks.json) |
 | [September 7 at 9:47 AM](https://archive.org/download/reductress-2022/reductress-2022-09-07T09:47:45.614104-04:00.hyperlinks.json) |
 | [September 6 at 9:21 PM](https://archive.org/download/reductress-2022/reductress-2022-09-06T21:21:34.304895-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 4 at 8:56 AM](https://archive.org/download/reductress-2022/reductress-2022-09-04T08:56:04.338962-04:00.hyperlinks.json) |
 | [September 3 at 9:12 PM](https://archive.org/download/reductress-2022/reductress-2022-09-03T21:11:55.326872-04:00.hyperlinks.json) |
 | [September 3 at 9:10 AM](https://archive.org/download/reductress-2022/reductress-2022-09-03T09:10:37.026903-04:00.hyperlinks.json) |
-| [September 2 at 9:23 PM](https://archive.org/download/reductress-2022/reductress-2022-09-02T21:22:55.739193-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 49 accessibility trees with the Internet Archive.
+The archiving routine has saved 50 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 8 at 9:14 AM](https://archive.org/download/reductress-2022/reductress-2022-09-08T09:14:52.862657-04:00.accessibility.json) |
 | [September 7 at 9:22 PM](https://archive.org/download/reductress-2022/reductress-2022-09-07T21:22:19.137179-04:00.accessibility.json) |
 | [September 7 at 9:47 AM](https://archive.org/download/reductress-2022/reductress-2022-09-07T09:47:45.614104-04:00.accessibility.json) |
 | [September 6 at 9:21 PM](https://archive.org/download/reductress-2022/reductress-2022-09-06T21:21:34.304895-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 4 at 8:56 AM](https://archive.org/download/reductress-2022/reductress-2022-09-04T08:56:04.338962-04:00.accessibility.json) |
 | [September 3 at 9:12 PM](https://archive.org/download/reductress-2022/reductress-2022-09-03T21:11:55.326872-04:00.accessibility.json) |
 | [September 3 at 9:10 AM](https://archive.org/download/reductress-2022/reductress-2022-09-03T09:10:37.026903-04:00.accessibility.json) |
-| [September 2 at 9:22 PM](https://archive.org/download/reductress-2022/reductress-2022-09-02T21:22:55.739193-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 8 at 9:15 AM](https://archive.org/download/reductress-2022/reductress-2022-09-08T09:14:52.862657-04:00.lighthouse.json) |
 | [September 7 at 9:22 PM](https://archive.org/download/reductress-2022/reductress-2022-09-07T21:22:19.137179-04:00.lighthouse.json) |
 | [September 7 at 9:47 AM](https://archive.org/download/reductress-2022/reductress-2022-09-07T09:47:45.614104-04:00.lighthouse.json) |
 | [September 6 at 9:21 PM](https://archive.org/download/reductress-2022/reductress-2022-09-06T21:21:34.304895-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 4 at 8:56 AM](https://archive.org/download/reductress-2022/reductress-2022-09-04T08:56:04.338962-04:00.lighthouse.json) |
 | [September 3 at 9:12 PM](https://archive.org/download/reductress-2022/reductress-2022-09-03T21:11:55.326872-04:00.lighthouse.json) |
 | [September 3 at 9:10 AM](https://archive.org/download/reductress-2022/reductress-2022-09-03T09:10:37.026903-04:00.lighthouse.json) |
-| [September 2 at 9:23 PM](https://archive.org/download/reductress-2022/reductress-2022-09-02T21:22:55.739193-04:00.lighthouse.json) |
 
 
 
