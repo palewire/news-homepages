@@ -1,5 +1,5 @@
 {
-  "created": 1662654745,
+  "created": 1662659684,
   "d1": "ia902206.us.archive.org",
   "d2": "ia802206.us.archive.org",
   "dir": "/20/items/guardian-2022",
@@ -20794,31 +20794,82 @@
       "sha1": "5b14e77559dd2ef78468d17b047f08f03175ce4b"
     },
     {
+      "name": "guardian-2022-09-08T18:51:52.810171+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662659520",
+      "size": "46062",
+      "md5": "4414ce8ff04fe02a13fcb03538a3524e",
+      "crc32": "44fa59ac",
+      "sha1": "b4293b2a75d2d8ae9449573bc8f85f672eefde1c",
+      "format": "JSON"
+    },
+    {
+      "name": "guardian-2022-09-08T18:51:52.810171+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662659524",
+      "size": "101598",
+      "md5": "14ca81bd7bf06e2b0e03706e22a52f2f",
+      "crc32": "462c5451",
+      "sha1": "1a324e2ca113475e20f88ba1217e0a65245f4934",
+      "format": "JSON"
+    },
+    {
+      "name": "guardian-2022-09-08T18:51:52.810171+01:00.jpg",
+      "source": "original",
+      "mtime": "1662659516",
+      "size": "295878",
+      "md5": "9ae1055fcb6a293f7ae078639963006b",
+      "crc32": "264cf06b",
+      "sha1": "5b2c8a88d9086ed970cde498f7bb7768c80f8cca",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "guardian-2022-09-08T18:51:52.810171+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662659527",
+      "size": "1522",
+      "md5": "2e0b8d81fad77b8c743b4f474c41b3f6",
+      "crc32": "019a1648",
+      "sha1": "b02ffe20491742618a4fd1e2aa1a8004e2ade061",
+      "format": "JSON"
+    },
+    {
+      "name": "guardian-2022-09-08T18:51:52.810171+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1662659531",
+      "size": "233",
+      "md5": "8cf6cad58a5d7f5e2f14af8c80b44f43",
+      "crc32": "b8e85d88",
+      "sha1": "d269a74bf9122f5b7b42827a98212ce998c59c72",
+      "format": "JSON"
+    },
+    {
       "name": "guardian-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e74bea27f7a615c6725623431ebee1f4c7340a5d",
-      "mtime": "1662654728",
-      "size": "423854",
-      "md5": "5edc39a82e9cb38294c21ea8ddb5f940",
-      "crc32": "1c9f1294",
-      "sha1": "b7b36c29b0212e193074e00ee2a6b57950a42ebf",
+      "btih": "96ad434e9102b72b165412d8edff3fe9798b7989",
+      "mtime": "1662659676",
+      "size": "424916",
+      "md5": "ffaec89ff38cb05f5010ff6601185dd7",
+      "crc32": "a6aa3aa4",
+      "sha1": "38364cf288e1f298b080b3690661e91f59a72344",
       "format": "Archive BitTorrent"
     },
     {
       "name": "guardian-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b5521b2dc6e12d58a26d9d0211202c59",
+      "md5": "1c181c211b44fb7a0af76f20c358b989",
       "summation": "md5"
     },
     {
       "name": "guardian-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662654596",
-      "size": "2359296",
-      "md5": "9cb303f187028a72c9fceb39c03d7bc8",
-      "crc32": "f8d0f8c9",
-      "sha1": "8de30b861f9eb0b9978d0234e52675bc26de8f23",
+      "mtime": "1662659594",
+      "size": "2379776",
+      "md5": "d9d01069dffb85848b29f3134494e623",
+      "crc32": "bc32f109",
+      "sha1": "e1e787b7def4be44f4fa973c397091354cae9eed",
       "format": "Metadata"
     },
     {
@@ -20832,9 +20883,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1994,
-  "item_last_updated": 1662654728,
-  "item_size": 237873434,
+  "files_count": 1999,
+  "item_last_updated": 1662659676,
+  "item_size": 238340269,
   "metadata": {
     "identifier": "guardian-2022",
     "collection": [
@@ -20851,10 +20902,21 @@
     "publicdate": "2022-03-23 08:03:23",
     "addeddate": "2022-03-23 08:03:23"
   },
+  "pending_tasks": true,
   "server": "ia902206.us.archive.org",
-  "uniq": 1448493186,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3397104093,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 202648036,
   "workable_servers": [
-    "ia902206.us.archive.org",
-    "ia802206.us.archive.org"
+    "ia902206.us.archive.org"
   ]
 }
