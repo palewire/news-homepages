@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 340 screenshots with the Internet Archive.
+The archiving routine has saved 342 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/drudge-2022/drudge-2022-09-07T19:03:30.342007-04:00.jpg">
+  <img src="https://archive.org/download/drudge-2022/drudge-2022-09-07T19:03:30.342007-04:00.jpg"
+     alt="Drudge Report at 2022-09-07 19:03:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/drudge-2022/drudge-2022-09-07T19:03:30.342007-04:00.jpg">September 7 at 7:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/drudge-2022/drudge-2022-09-07T15:08:11.946822-04:00.jpg">
+  <img src="https://archive.org/download/drudge-2022/drudge-2022-09-07T15:08:11.946822-04:00.jpg"
+     alt="Drudge Report at 2022-09-07 15:08:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/drudge-2022/drudge-2022-09-07T15:08:11.946822-04:00.jpg">September 7 at 3:08 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/drudge-2022/drudge-2022-09-07T08:18:27.357472-04:00.jpg">
   <img src="https://archive.org/download/drudge-2022/drudge-2022-09-07T08:18:27.357472-04:00.jpg"
      alt="Drudge Report at 2022-09-07 08:18:30-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/drudge-2022/drudge-2022-09-03T14:30:49.382852-04:00.jpg">September 3 at 2:30 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/drudge-2022/drudge-2022-09-03T08:13:23.410323-04:00.jpg">
-  <img src="https://archive.org/download/drudge-2022/drudge-2022-09-03T08:13:23.410323-04:00.jpg"
-     alt="Drudge Report at 2022-09-03 08:13:25-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/drudge-2022/drudge-2022-09-03T08:13:23.410323-04:00.jpg">September 3 at 8:13 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/drudge-2022/drudge-2022-09-03T06:54:24.433840-04:00.jpg">
-  <img src="https://archive.org/download/drudge-2022/drudge-2022-09-03T06:54:24.433840-04:00.jpg"
-     alt="Drudge Report at 2022-09-03 06:54:26-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/drudge-2022/drudge-2022-09-03T06:54:24.433840-04:00.jpg">September 3 at 6:54 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 333 hyperlink lists with the Internet Archive.
+The archiving routine has saved 334 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 7 at 7:03 PM](https://archive.org/download/drudge-2022/drudge-2022-09-07T19:03:30.342007-04:00.hyperlinks.json) |
 | [September 7 at 8:18 AM](https://archive.org/download/drudge-2022/drudge-2022-09-07T08:18:27.357472-04:00.hyperlinks.json) |
 | [September 6 at 7:10 PM](https://archive.org/download/drudge-2022/drudge-2022-09-06T19:10:17.912655-04:00.hyperlinks.json) |
 | [September 6 at 6:58 AM](https://archive.org/download/drudge-2022/drudge-2022-09-06T06:58:17.745418-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 4 at 6:59 PM](https://archive.org/download/drudge-2022/drudge-2022-09-04T18:59:08.976734-04:00.hyperlinks.json) |
 | [September 4 at 6:54 AM](https://archive.org/download/drudge-2022/drudge-2022-09-04T06:54:32.451356-04:00.hyperlinks.json) |
 | [September 3 at 6:59 PM](https://archive.org/download/drudge-2022/drudge-2022-09-03T18:59:24.474833-04:00.hyperlinks.json) |
-| [September 3 at 2:30 PM](https://archive.org/download/drudge-2022/drudge-2022-09-03T14:30:49.382852-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 332 accessibility trees with the Internet Archive.
+The archiving routine has saved 333 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 7 at 7:03 PM](https://archive.org/download/drudge-2022/drudge-2022-09-07T19:03:30.342007-04:00.accessibility.json) |
 | [September 7 at 8:18 AM](https://archive.org/download/drudge-2022/drudge-2022-09-07T08:18:27.357472-04:00.accessibility.json) |
 | [September 6 at 7:10 PM](https://archive.org/download/drudge-2022/drudge-2022-09-06T19:10:17.912655-04:00.accessibility.json) |
 | [September 6 at 6:58 AM](https://archive.org/download/drudge-2022/drudge-2022-09-06T06:58:17.745418-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 4 at 6:59 PM](https://archive.org/download/drudge-2022/drudge-2022-09-04T18:59:08.976734-04:00.accessibility.json) |
 | [September 4 at 6:54 AM](https://archive.org/download/drudge-2022/drudge-2022-09-04T06:54:32.451356-04:00.accessibility.json) |
 | [September 3 at 6:59 PM](https://archive.org/download/drudge-2022/drudge-2022-09-03T18:59:24.474833-04:00.accessibility.json) |
-| [September 3 at 2:30 PM](https://archive.org/download/drudge-2022/drudge-2022-09-03T14:30:49.382852-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 135 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 137 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 7:03 PM](https://archive.org/download/drudge-2022/drudge-2022-09-07T19:03:30.342007-04:00.lighthouse.json) |
+| [September 7 at 3:08 PM](https://archive.org/download/drudge-2022/drudge-2022-09-07T15:08:11.946822-04:00.lighthouse.json) |
 | [September 7 at 8:18 AM](https://archive.org/download/drudge-2022/drudge-2022-09-07T08:18:27.357472-04:00.lighthouse.json) |
 | [September 6 at 7:10 PM](https://archive.org/download/drudge-2022/drudge-2022-09-06T19:10:17.912655-04:00.lighthouse.json) |
 | [September 6 at 6:58 AM](https://archive.org/download/drudge-2022/drudge-2022-09-06T06:58:17.745418-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 5 at 7:03 AM](https://archive.org/download/drudge-2022/drudge-2022-09-05T07:03:50.871071-04:00.lighthouse.json) |
 | [September 4 at 6:59 PM](https://archive.org/download/drudge-2022/drudge-2022-09-04T18:59:08.976734-04:00.lighthouse.json) |
 | [September 4 at 6:54 AM](https://archive.org/download/drudge-2022/drudge-2022-09-04T06:54:32.451356-04:00.lighthouse.json) |
-| [September 3 at 6:59 PM](https://archive.org/download/drudge-2022/drudge-2022-09-03T18:59:24.474833-04:00.lighthouse.json) |
-| [September 3 at 2:30 PM](https://archive.org/download/drudge-2022/drudge-2022-09-03T14:30:49.382852-04:00.lighthouse.json) |
 
 
 
