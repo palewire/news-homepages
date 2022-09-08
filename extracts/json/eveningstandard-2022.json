@@ -1,5 +1,5 @@
 {
-  "created": 1662592277,
+  "created": 1662628731,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/34/items/eveningstandard-2022",
@@ -10368,31 +10368,93 @@
       "sha1": "23fd6ae8bead4c66e703f3121fece60647afb790"
     },
     {
+      "name": "eveningstandard-2022-09-08T10:17:06.170485+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662628634",
+      "size": "63084",
+      "md5": "2053a9653669c563cf25991cf694d4e6",
+      "crc32": "d3c8f534",
+      "sha1": "14bdc88679c0127742e803cd84e8dd0132315d4b",
+      "format": "JSON"
+    },
+    {
+      "name": "eveningstandard-2022-09-08T10:17:06.170485+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662628635",
+      "size": "75912",
+      "md5": "6055492b3da69077db6592c119737fd4",
+      "crc32": "24100708",
+      "sha1": "4d7dc77bea17651bf6a4580b0aa306bc3e641143",
+      "format": "JSON"
+    },
+    {
+      "name": "eveningstandard-2022-09-08T10:17:06.170485+01:00.jpg",
+      "source": "original",
+      "mtime": "1662628632",
+      "size": "191318",
+      "md5": "c901b64bbc2eee6cf781ecf6db8d04ac",
+      "crc32": "b83d9d64",
+      "sha1": "c759faab21b58190ae126a48f6128383b893142a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eveningstandard-2022-09-08T10:17:06.170485+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662628637",
+      "size": "1492",
+      "md5": "5db15415b24a2295b865d6b4918738ae",
+      "crc32": "6e9513f7",
+      "sha1": "772732b4f67bde81e0d66b5b00e6722b1860ec45",
+      "format": "JSON"
+    },
+    {
+      "name": "eveningstandard-2022-09-08T10:17:06.170485+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1662628639",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "eveningstandard-2022-09-08T10:17:06.170485+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eveningstandard-2022-09-08T10:17:06.170485+01:00.jpg",
+      "mtime": "1662628708",
+      "size": "8372",
+      "md5": "6245de231b782670f4f7347ca689e360",
+      "crc32": "32994a7a",
+      "sha1": "d37cdfb091826042cf0bcb7f26120dca7b4e349e"
+    },
+    {
       "name": "eveningstandard-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7996c98a71e09e3c3f21d95df3c7bed635bb8bcb",
-      "mtime": "1662592254",
-      "size": "218580",
-      "md5": "74388bf9868298dc61ae6e38d75c4a8a",
-      "crc32": "698d7f94",
-      "sha1": "5dd6141d106032b302b3e02be32fb76a69116d5a",
+      "btih": "f5d948c9e20d082b87934c03425b0c9d1d8f15fe",
+      "mtime": "1662628718",
+      "size": "219867",
+      "md5": "9b74e029977ec90ba5469f867278a6c4",
+      "crc32": "9bab8a0c",
+      "sha1": "b332c52b383a16329b332ecbb64780ef17c1bf4e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eveningstandard-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c713f1da1199167975ac76ec6641c912",
+      "md5": "1997d5d303bcc618794fa2f99ce8c952",
       "summation": "md5"
     },
     {
       "name": "eveningstandard-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662592154",
-      "size": "1257472",
-      "md5": "d61d2688a06525250c412f40951bf2f8",
-      "crc32": "42a455ef",
-      "sha1": "5fbed559c5ac375f0c9a5e89655044c43cb277ac",
+      "mtime": "1662628646",
+      "size": "1265664",
+      "md5": "89681dc9ddf9181eaae216ca62928660",
+      "crc32": "2e2307e5",
+      "sha1": "cf61a5ad39c1395c7c27ee915fd496f22c63a6c2",
       "format": "Metadata"
     },
     {
@@ -10406,9 +10468,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1002,
-  "item_last_updated": 1662592254,
-  "item_size": 76275340,
+  "files_count": 1008,
+  "item_last_updated": 1662628718,
+  "item_size": 76625199,
   "metadata": {
     "identifier": "eveningstandard-2022",
     "collection": [
@@ -10425,10 +10487,10 @@
     "publicdate": "2022-07-07 03:59:30",
     "addeddate": "2022-07-07 03:59:30"
   },
-  "server": "ia601504.us.archive.org",
-  "uniq": 1746088302,
+  "server": "ia801504.us.archive.org",
+  "uniq": 1634428078,
   "workable_servers": [
-    "ia601504.us.archive.org",
-    "ia801504.us.archive.org"
+    "ia801504.us.archive.org",
+    "ia601504.us.archive.org"
   ]
 }
