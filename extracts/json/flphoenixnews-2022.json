@@ -1,5 +1,5 @@
 {
-  "created": 1662554022,
+  "created": 1662594900,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/12/items/flphoenixnews-2022",
@@ -9448,31 +9448,93 @@
       "sha1": "1deb3e8edbc4a0af4a884e72c3844677dcb95faa"
     },
     {
+      "name": "flphoenixnews-2022-09-07T19:53:23.974127-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662594813",
+      "size": "16327",
+      "md5": "419108c31468f2dec4592f9d9e33dcb6",
+      "crc32": "816c58c9",
+      "sha1": "a685894aeb997f73574e68f024885a87a0f14d77",
+      "format": "JSON"
+    },
+    {
+      "name": "flphoenixnews-2022-09-07T19:53:23.974127-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662594815",
+      "size": "13721",
+      "md5": "eff1427c277ffd74407a5cc05c7b1bda",
+      "crc32": "a2ccf51c",
+      "sha1": "af9fb80e04809d72904a591e73b3403969a5a412",
+      "format": "JSON"
+    },
+    {
+      "name": "flphoenixnews-2022-09-07T19:53:23.974127-04:00.jpg",
+      "source": "original",
+      "mtime": "1662594812",
+      "size": "310719",
+      "md5": "7fd1caa9eeaf9e60c393d74b044ffece",
+      "crc32": "ce9021e6",
+      "sha1": "cdee77a81a92eead4efb09a34f8e9ffbafd2e849",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flphoenixnews-2022-09-07T19:53:23.974127-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662594816",
+      "size": "1495",
+      "md5": "2c630020801bcd05caf737ff0c04592b",
+      "crc32": "818a9443",
+      "sha1": "a1626f3117d8da90e36e49eba3541418dd03b6fd",
+      "format": "JSON"
+    },
+    {
+      "name": "flphoenixnews-2022-09-07T19:53:23.974127-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662594818",
+      "size": "10148",
+      "md5": "346eae91a6722166ff2e766b11cfe99a",
+      "crc32": "1d55a030",
+      "sha1": "2ac33432029496fa2e388da51f895958acff724a",
+      "format": "JSON"
+    },
+    {
+      "name": "flphoenixnews-2022-09-07T19:53:23.974127-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flphoenixnews-2022-09-07T19:53:23.974127-04:00.jpg",
+      "mtime": "1662594881",
+      "size": "10309",
+      "md5": "19b93bc182ca47a6421f9996060f09dc",
+      "crc32": "66a8dccb",
+      "sha1": "8f69f1f05209f26117b81a6979776a0abd83f9f8"
+    },
+    {
       "name": "flphoenixnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1b2854d8bc31b2c459d00ba4f0e54d9ad3dcd02d",
-      "mtime": "1662554000",
-      "size": "197044",
-      "md5": "df22922975759db0f194d3d4c7e35d27",
-      "crc32": "adcb7164",
-      "sha1": "910cff7b6ada11461fd64980d57105f87843deea",
+      "btih": "65657af6310997959e76e4b34aa01fb6c08122ec",
+      "mtime": "1662594890",
+      "size": "198342",
+      "md5": "c8613d7607429051a9d56ede436effdd",
+      "crc32": "28c2ff72",
+      "sha1": "55671aa4b0c66d4587edcb2e5b2a46bec42ac8a2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "flphoenixnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8f571757cea2097ca078dda6d1eba466",
+      "md5": "1177721590ef9c6514d1cd95fbfa9d78",
       "summation": "md5"
     },
     {
       "name": "flphoenixnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662553906",
-      "size": "1122304",
-      "md5": "b885763e827336c2d2a4d98317b31b4f",
-      "crc32": "af652107",
-      "sha1": "6e36c552ec963c720a10835a21e9ef2482c099cd",
+      "mtime": "1662594822",
+      "size": "1130496",
+      "md5": "0faebff2f30bbb4881c1e7852a76c541",
+      "crc32": "72100b4e",
+      "sha1": "90cb1b1fc8e80dcbd85da640cc29e059bd8d1d22",
       "format": "Metadata"
     },
     {
@@ -9486,9 +9548,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 911,
-  "item_last_updated": 1662554000,
-  "item_size": 69700228,
+  "files_count": 917,
+  "item_last_updated": 1662594890,
+  "item_size": 70072437,
   "metadata": {
     "identifier": "flphoenixnews-2022",
     "collection": [
@@ -9506,7 +9568,7 @@
     "addeddate": "2022-06-19 23:24:00"
   },
   "server": "ia801409.us.archive.org",
-  "uniq": 1642656205,
+  "uniq": 1952036992,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"

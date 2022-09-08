@@ -1,8 +1,9 @@
 {
-  "created": 1662557876,
-  "d1": "ia601502.us.archive.org",
-  "d2": "ia801502.us.archive.org",
-  "dir": "/31/items/harpers-2022",
+  "conflict": 1662595401,
+  "created": 1662595401,
+  "d1": "ia601408.us.archive.org",
+  "d2": "ia801408.us.archive.org",
+  "dir": "/14/items/harpers-2022",
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -8531,11 +8532,6 @@
     }
   ],
   "files_count": 820,
-  "harpers-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "item_last_updated": 1662554064,
   "item_size": 68587717,
   "metadata": {
@@ -8554,10 +8550,21 @@
     "publicdate": "2022-06-24 22:56:16",
     "addeddate": "2022-06-24 22:56:16"
   },
-  "server": "ia601502.us.archive.org",
-  "uniq": 656561782,
+  "pending_tasks": true,
+  "server": "ia601408.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3396472907,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 2084387186,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia601408.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1662558136,
+  "created": 1662595150,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/32/items/mdr_san-2022",
@@ -5324,31 +5324,93 @@
       "sha1": "aa3e094a361ef2d10edfd4d5e2c6233ec78667d3"
     },
     {
+      "name": "mdr_san-2022-09-08T01:57:45.496658+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662595071",
+      "size": "33320",
+      "md5": "81299cd429e70c7f34e97ea2cc298bef",
+      "crc32": "80d57887",
+      "sha1": "b3b28eab1e10e5bff516de280fa193f4878272e8",
+      "format": "JSON"
+    },
+    {
+      "name": "mdr_san-2022-09-08T01:57:45.496658+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662595073",
+      "size": "59092",
+      "md5": "825c0651cacb867a403f86f59a711b7e",
+      "crc32": "1d85474e",
+      "sha1": "2e099091c097afc9c5a66a492fdd37521fe8ca80",
+      "format": "JSON"
+    },
+    {
+      "name": "mdr_san-2022-09-08T01:57:45.496658+02:00.jpg",
+      "source": "original",
+      "mtime": "1662595069",
+      "size": "239078",
+      "md5": "77cdb82aa5f4e60e03f3b5af1430a5fc",
+      "crc32": "693061c5",
+      "sha1": "2e67e8c3a5e5442263506c922abbfac491577eaf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mdr_san-2022-09-08T01:57:45.496658+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662595074",
+      "size": "1612",
+      "md5": "5c0f2b9ddf75ad79a03c6836d00bcdf5",
+      "crc32": "48afad98",
+      "sha1": "77e1e74a634cedeba76d9a224babd12290dbd38c",
+      "format": "JSON"
+    },
+    {
+      "name": "mdr_san-2022-09-08T01:57:45.496658+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1662595076",
+      "size": "20472",
+      "md5": "c8ba96a016e3d96b747c43394d1eb669",
+      "crc32": "88a0f023",
+      "sha1": "2fb7b565d0f08e142f041e30ad3394162d99f67c",
+      "format": "JSON"
+    },
+    {
+      "name": "mdr_san-2022-09-08T01:57:45.496658+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mdr_san-2022-09-08T01:57:45.496658+02:00.jpg",
+      "mtime": "1662595133",
+      "size": "10003",
+      "md5": "3d877ebeddbac79714ccb3e74d8e1b70",
+      "crc32": "2b840817",
+      "sha1": "f5846eedd7060acc1d2011443857cfabc532b14c"
+    },
+    {
       "name": "mdr_san-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f7cd6df40071a5e13ef6b80b74c3de96b8f81de0",
-      "mtime": "1662554634",
-      "size": "109036",
-      "md5": "020391a766d157780f57204818e43127",
-      "crc32": "eb91ab48",
-      "sha1": "0cd5a2b51d4bf43f9f0b6aa9741a56ed85dd7810",
+      "btih": "a055880cf780c69cb2cd47aebdae0ba1f2f0d5d0",
+      "mtime": "1662595138",
+      "size": "110298",
+      "md5": "2084ace32e662a97ab49a3022c757f55",
+      "crc32": "9ecd2965",
+      "sha1": "151982be7c6e78074d3f428b84c2ecd54628bb4c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mdr_san-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "25abdcadd7fc176231bb1fc58e713c68",
+      "md5": "b43e61e5ea7bfb02b45f2dda49f8da98",
       "summation": "md5"
     },
     {
       "name": "mdr_san-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662554577",
-      "size": "663552",
-      "md5": "1c86f6bf8afeb6a133bb842b84b580d8",
-      "crc32": "a6006b9f",
-      "sha1": "fcf5061922edd46ea8acae84c4dafce109f01a0a",
+      "mtime": "1662595082",
+      "size": "671744",
+      "md5": "1a0073b927918ee48f498d12fd61b253",
+      "crc32": "87af75f5",
+      "sha1": "71fa9f8e15015e9a8f60311f30fa2d40fdc4a7bf",
       "format": "Metadata"
     },
     {
@@ -5362,13 +5424,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 518,
-  "item_last_updated": 1662554634,
-  "item_size": 35432835,
-  "mdr_san-2022": {
-    "url": "https://www.mdr.de/nachrichten/index.html",
-    "job_id": "spn2-8709cb9c9b1f9fb19bb67c574443ffb210475281"
-  },
+  "files_count": 524,
+  "item_last_updated": 1662595138,
+  "item_size": 35805866,
   "metadata": {
     "identifier": "mdr_san-2022",
     "collection": [
@@ -5386,7 +5444,7 @@
     "addeddate": "2022-07-26 00:19:02"
   },
   "server": "ia601401.us.archive.org",
-  "uniq": 315822537,
+  "uniq": 1737463690,
   "workable_servers": [
     "ia601401.us.archive.org",
     "ia801401.us.archive.org"
