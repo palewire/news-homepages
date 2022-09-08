@@ -1,5 +1,5 @@
 {
-  "created": 1662600578,
+  "created": 1662643222,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/27/items/thecityny-2022",
@@ -9720,31 +9720,93 @@
       "sha1": "3472060874a9bb0b6e0930aa523a4e39b938601d"
     },
     {
+      "name": "thecityny-2022-09-08T09:18:13.722585-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662643097",
+      "size": "30572",
+      "md5": "0af248187e0b31026f7a1b6c6322e4e8",
+      "crc32": "224016c4",
+      "sha1": "8e1396bf67b21f9139efdadbf4ec133e538aa234",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-09-08T09:18:13.722585-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662643099",
+      "size": "38757",
+      "md5": "12fa03eb5a2a239139d5f127a08e2e81",
+      "crc32": "2f0079eb",
+      "sha1": "7dd935092547ca3e6580cc8122035106e5f026dd",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-09-08T09:18:13.722585-04:00.jpg",
+      "source": "original",
+      "mtime": "1662643095",
+      "size": "230162",
+      "md5": "170afeac0e79c87e1f7254545be9554f",
+      "crc32": "e969509b",
+      "sha1": "2d1deadc78c1c5acfca7e8c44a9d5a46e852a0cf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thecityny-2022-09-08T09:18:13.722585-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662643100",
+      "size": "1459",
+      "md5": "88beff4ce9e854e6b0be051db72be08e",
+      "crc32": "01751bfb",
+      "sha1": "67f90a679d67fc0597f98e6d17be40471baf0ae4",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-09-08T09:18:13.722585-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662643102",
+      "size": "25717",
+      "md5": "ea97135dacea16d5f6d0307c20cc841b",
+      "crc32": "aeb4887a",
+      "sha1": "de27c03d1ee6f251b9a82e8da8c0c6b4808fcbb2",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-09-08T09:18:13.722585-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thecityny-2022-09-08T09:18:13.722585-04:00.jpg",
+      "mtime": "1662643180",
+      "size": "8945",
+      "md5": "e4910ca6b27ea1b72539aaf96e9b3fbc",
+      "crc32": "dd3661db",
+      "sha1": "2d4a013ee1012b56a9714add353892012077cb3f"
+    },
+    {
       "name": "thecityny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3384def5e0aec4415fab8a90f4309261719c76cf",
-      "mtime": "1662600558",
-      "size": "198403",
-      "md5": "6246f214d6e8ef20a1ab331638ecdf3f",
-      "crc32": "c24235f4",
-      "sha1": "46b7ea878c92d05ef83a99d7fb5c9c70ca90ace6",
+      "btih": "719ae2f36a1bac3230acf0015c7c414e97fe4494",
+      "mtime": "1662643196",
+      "size": "199676",
+      "md5": "9c863bc48d827cf13a23c832470a7db3",
+      "crc32": "b3da7c33",
+      "sha1": "d9ca05a8c54618c5320c2884bf07d0c3eb933468",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thecityny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b2ccfe4217fa1d9d6ea3c9b31fcfb021",
+      "md5": "c3a6a816be57433324bc72605d82afd2",
       "summation": "md5"
     },
     {
       "name": "thecityny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662600470",
-      "size": "1146880",
-      "md5": "68386cc502c11b3eb53ac44e342c36cc",
-      "crc32": "cdc06603",
-      "sha1": "653bd61befd20e5e143f6f6fea0de124ba7bb3d0",
+      "mtime": "1662643109",
+      "size": "1155072",
+      "md5": "a8d73bc6dee06bddf3bf888711395eb6",
+      "crc32": "8732dcd2",
+      "sha1": "7d5f75571765b49fd1250b2f17ac7b586ede6a2c",
       "format": "Metadata"
     },
     {
@@ -9758,9 +9820,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 937,
-  "item_last_updated": 1662600558,
-  "item_size": 63537280,
+  "files_count": 943,
+  "item_last_updated": 1662643196,
+  "item_size": 63882357,
   "metadata": {
     "identifier": "thecityny-2022",
     "collection": [
@@ -9777,10 +9839,10 @@
     "publicdate": "2022-06-19 23:28:39",
     "addeddate": "2022-06-19 23:28:39"
   },
-  "server": "ia601400.us.archive.org",
-  "uniq": 1113229281,
+  "server": "ia801400.us.archive.org",
+  "uniq": 1602582335,
   "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
+    "ia801400.us.archive.org",
+    "ia601400.us.archive.org"
   ]
 }
