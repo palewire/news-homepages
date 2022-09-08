@@ -1,5 +1,5 @@
 {
-  "created": 1662595180,
+  "created": 1662643113,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/11/items/netwerk24-2022",
@@ -2030,31 +2030,93 @@
       "sha1": "18cf1bafd3c9aacae98e3556114ada344aaacafe"
     },
     {
+      "name": "netwerk24-2022-09-08T14:25:46.579074+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662639952",
+      "size": "58359",
+      "md5": "8bda5b6cdff2bd09eaa5adf193915898",
+      "crc32": "15e168b5",
+      "sha1": "61f23ee179633efad50c28c50f8e9d5a70a426c1",
+      "format": "JSON"
+    },
+    {
+      "name": "netwerk24-2022-09-08T14:25:46.579074+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662639954",
+      "size": "160243",
+      "md5": "78317a5abd82db4fd24e1a5197550edb",
+      "crc32": "c1f80cd5",
+      "sha1": "29790a6163022ba959364614a1fe2eef782eaa45",
+      "format": "JSON"
+    },
+    {
+      "name": "netwerk24-2022-09-08T14:25:46.579074+02:00.jpg",
+      "source": "original",
+      "mtime": "1662639950",
+      "size": "262944",
+      "md5": "294c11e5ff13da45a97374bb8eb9fe80",
+      "crc32": "f53dec70",
+      "sha1": "6c01dd94c6ed455e8c14fef7ac0e6a36492c9227",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "netwerk24-2022-09-08T14:25:46.579074+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662639956",
+      "size": "1470",
+      "md5": "793aa8460a24871f997ba11efcec5810",
+      "crc32": "6a7ded7c",
+      "sha1": "ee6fbc0dfe766aaf3b08ba98e7de6324e24104e7",
+      "format": "JSON"
+    },
+    {
+      "name": "netwerk24-2022-09-08T14:25:46.579074+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1662639958",
+      "size": "102",
+      "md5": "854046adbf86506b70c30b5ac19dde80",
+      "crc32": "49155d6c",
+      "sha1": "520227feccfb65c51908295bbfed16083692117b",
+      "format": "JSON"
+    },
+    {
+      "name": "netwerk24-2022-09-08T14:25:46.579074+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "netwerk24-2022-09-08T14:25:46.579074+02:00.jpg",
+      "mtime": "1662640026",
+      "size": "9355",
+      "md5": "3fbfbaa38099ca0382c34840876d5c4a",
+      "crc32": "ecf053bb",
+      "sha1": "e8f77e0e0ee8c62a6969106dc76f0e00a8960ebc"
+    },
+    {
       "name": "netwerk24-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7f48fb5054368e8f055e778425eb3d346c2fd6b9",
-      "mtime": "1662595173",
-      "size": "43062",
-      "md5": "ec20b9342fff51eb3e318bcf7b488ef1",
-      "crc32": "67983d34",
-      "sha1": "57e8a93b0fc65154a936fef650e2b74ac41a2121",
+      "btih": "f4dd388948d9d9e7bf3ba9fefbcf8e8497eaac9b",
+      "mtime": "1662640032",
+      "size": "44334",
+      "md5": "b6ca19001d29e11c1f02080f8ba99e06",
+      "crc32": "8346cb25",
+      "sha1": "96604c30af19e04758abcf6892968684f18fb609",
       "format": "Archive BitTorrent"
     },
     {
       "name": "netwerk24-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9637314537edb17eb8721d8e003be0b7",
+      "md5": "c813081c93eb72771cd58bbd2010396e",
       "summation": "md5"
     },
     {
       "name": "netwerk24-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662595127",
-      "size": "274432",
-      "md5": "4e36fe26123d0bc92610abb4347fcdcb",
-      "crc32": "b8b3a439",
-      "sha1": "d26c80130eb71e1bd4fd708a4fc161b65801e1b7",
+      "mtime": "1662639973",
+      "size": "278528",
+      "md5": "17af0493a07749861d13e76932e9319e",
+      "crc32": "6fce0da3",
+      "sha1": "0541385fc56e832f5693a0d4eeabcd03a636abc2",
       "format": "Metadata"
     },
     {
@@ -2068,9 +2130,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 200,
-  "item_last_updated": 1662595173,
-  "item_size": 18113908,
+  "files_count": 206,
+  "item_last_updated": 1662640032,
+  "item_size": 18611749,
   "metadata": {
     "identifier": "netwerk24-2022",
     "collection": [
@@ -2087,8 +2149,12 @@
     "publicdate": "2022-08-22 22:03:27",
     "addeddate": "2022-08-22 22:03:27"
   },
+  "netwerk24-2022": {
+    "url": "https://www.netwerk24.com/",
+    "job_id": "spn2-bc6df8ee864f2e4799f533855b4bdd6b827281ff"
+  },
   "server": "ia801409.us.archive.org",
-  "uniq": 1166647436,
+  "uniq": 1112292445,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"

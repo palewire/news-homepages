@@ -1,5 +1,5 @@
 {
-  "created": 1662595155,
+  "created": 1662643002,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/33/items/msn-2022",
@@ -1844,31 +1844,93 @@
       "sha1": "cc3803189db6792cfd54a2d62f01f921dff37f1f"
     },
     {
+      "name": "msn-2022-09-08T05:25:29.769641-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662639934",
+      "size": "76234",
+      "md5": "bf4622158692b2569b4fff5ecc5158c3",
+      "crc32": "93545d27",
+      "sha1": "370067a8d2a98ad840154dd0555a165e2d53d294",
+      "format": "JSON"
+    },
+    {
+      "name": "msn-2022-09-08T05:25:29.769641-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662639938",
+      "size": "120153",
+      "md5": "89e3637f394a6a96ab8075a5191180ae",
+      "crc32": "81823251",
+      "sha1": "016d6f39e8c90a0e3eb4daa383cf71134e9612a6",
+      "format": "JSON"
+    },
+    {
+      "name": "msn-2022-09-08T05:25:29.769641-07:00.jpg",
+      "source": "original",
+      "mtime": "1662639931",
+      "size": "285285",
+      "md5": "f79db9396ca21a792d7f358928f36178",
+      "crc32": "b2a6fa5d",
+      "sha1": "3f91733ab282831d448c516b0a9e44c779ada058",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "msn-2022-09-08T05:25:29.769641-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662639941",
+      "size": "1432",
+      "md5": "175ba9ee4b8785f202cb7f32872c3991",
+      "crc32": "8cf90dbe",
+      "sha1": "f6a62564c0a5818eec82746dc2d092ba0e94401b",
+      "format": "JSON"
+    },
+    {
+      "name": "msn-2022-09-08T05:25:29.769641-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662639944",
+      "size": "227",
+      "md5": "294c81cc169eed81072699ae11b2e43d",
+      "crc32": "675f1f4b",
+      "sha1": "a7bcbd9bd44cb2b79d158167b2d2e4e0495b9abe",
+      "format": "JSON"
+    },
+    {
+      "name": "msn-2022-09-08T05:25:29.769641-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "msn-2022-09-08T05:25:29.769641-07:00.jpg",
+      "mtime": "1662639997",
+      "size": "9467",
+      "md5": "41d54eb387d48c4d31eb59419b24c248",
+      "crc32": "405bbad9",
+      "sha1": "b63186d00362919ce0f673cea628c6c9bba64c9a"
+    },
+    {
       "name": "msn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b55d823968d293243b404c979390242151ac4c9b",
-      "mtime": "1662595148",
-      "size": "38028",
-      "md5": "fb1502378cc8625561a9a60dc65de220",
-      "crc32": "d423818c",
-      "sha1": "02f7bb25daf82f29f03d0268f17ae6365bf0b770",
+      "btih": "66cb96f95a298c6751def3074b45ca7a6ea1e292",
+      "mtime": "1662640002",
+      "size": "39264",
+      "md5": "cb0325aca688f3620706513b0eef048c",
+      "crc32": "4500c3d9",
+      "sha1": "dc6d25de64db84338f09e244b5287ed9437236bd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "msn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3e01b3b570af90ed28acea194c6c6e03",
+      "md5": "46175fa6d853c0c5de009bb12b12da6c",
       "summation": "md5"
     },
     {
       "name": "msn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662595097",
-      "size": "249856",
-      "md5": "e728593c2ab372e15f56f237102294cf",
-      "crc32": "c3beb767",
-      "sha1": "8db55e9a63d2225cded59b97234c64d40822fa5e",
+      "mtime": "1662639949",
+      "size": "253952",
+      "md5": "e06a1f254d6bf88bd6da73e7842d5333",
+      "crc32": "f2d1c978",
+      "sha1": "4f7a99d7a7d89802cd3fa57821f0156fdcf33b3b",
       "format": "Metadata"
     },
     {
@@ -1882,9 +1944,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 182,
-  "item_last_updated": 1662595148,
-  "item_size": 15098927,
+  "files_count": 188,
+  "item_last_updated": 1662640002,
+  "item_size": 15597057,
   "metadata": {
     "identifier": "msn-2022",
     "collection": [
@@ -1901,8 +1963,13 @@
     "publicdate": "2022-08-23 23:47:58",
     "addeddate": "2022-08-23 23:47:58"
   },
+  "msn-2022": {
+    "url": "https://www.msn.com/",
+    "job_id": "spn2-b623a70bc00f36409c2fcfae8661d36cde6d64e0",
+    "message": "The same snapshot had been made 32 minutes, 34 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
   "server": "ia801506.us.archive.org",
-  "uniq": 411673046,
+  "uniq": 933432104,
   "workable_servers": [
     "ia801506.us.archive.org",
     "ia601506.us.archive.org"
