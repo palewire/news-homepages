@@ -1,6 +1,6 @@
 {
-  "conflict": 1662664084,
-  "created": 1662664084,
+  "conflict": 1662672496,
+  "created": 1662672496,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/13/items/wsj-2022",
@@ -23323,34 +23323,96 @@
       "name": "wsj-2022-09-08T15:04:31.129034-04:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "wsj-2022-09-08T15:04:31.129034-04:00.jpg"
+      "original": "wsj-2022-09-08T15:04:31.129034-04:00.jpg",
+      "mtime": "1662664076",
+      "size": "9421",
+      "md5": "caf8f356ee9dbdb0d4a2e593cc0f7f39",
+      "crc32": "8195e798",
+      "sha1": "1553a9113e33da81bbaae77105edd20e10789caa"
+    },
+    {
+      "name": "wsj-2022-09-08T17:25:57.435434-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662672362",
+      "size": "67665",
+      "md5": "116151e5969ab1de3e737c9ba5f6b24e",
+      "crc32": "0aaf05ff",
+      "sha1": "78133257f35ef528ac0d8990169bab325fb05bd7",
+      "format": "JSON"
+    },
+    {
+      "name": "wsj-2022-09-08T17:25:57.435434-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662672363",
+      "size": "92009",
+      "md5": "db37898dac293f16a55e038ea41b6a63",
+      "crc32": "bafcd244",
+      "sha1": "453f9b35feb6ea26c178b83e7ef6cd4204bd9dba",
+      "format": "JSON"
+    },
+    {
+      "name": "wsj-2022-09-08T17:25:57.435434-04:00.jpg",
+      "source": "original",
+      "mtime": "1662672360",
+      "size": "313941",
+      "md5": "9075b3ae066f39831175d87c06ffb97c",
+      "crc32": "a7e1f4b4",
+      "sha1": "b254598f5290b78c12ae5364f1c40a227a98f196",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wsj-2022-09-08T17:25:57.435434-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662672365",
+      "size": "1431",
+      "md5": "d20484db5391d3434b0243110a672a39",
+      "crc32": "715f620f",
+      "sha1": "8294902c85d343576315f0ab4f96b2c04666c5f7",
+      "format": "JSON"
+    },
+    {
+      "name": "wsj-2022-09-08T17:25:57.435434-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662672367",
+      "size": "269202",
+      "md5": "44ba3a9e531b1ed5c4d68165c86bd790",
+      "crc32": "575da91d",
+      "sha1": "ef4811340f9d73335c3217223d9e265c348484d6",
+      "format": "JSON"
+    },
+    {
+      "name": "wsj-2022-09-08T17:25:57.435434-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wsj-2022-09-08T17:25:57.435434-04:00.jpg"
     },
     {
       "name": "wsj-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6084dafa756fa3af88b02015c034244094c25dd1",
-      "mtime": "1662664012",
-      "size": "464304",
-      "md5": "5f36b106ee7f0e7172bf493492a8129a",
-      "crc32": "dea47493",
-      "sha1": "a4a08a4b021a94230d41cf75d270da9ab6e681e7",
+      "btih": "78bc16f82e583cfd3b98d240bb2ca3a94fc9b374",
+      "mtime": "1662672446",
+      "size": "465562",
+      "md5": "6a63225d0edd11462ef709a20ddc0f58",
+      "crc32": "46a21a62",
+      "sha1": "c16e3a55e51032dc0abbdcf9fdb7071920026a9a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wsj-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f0f418a95ada4cc54adc31f101ad82fa",
+      "md5": "85c123ded00aca80c55ee60746857af1",
       "summation": "md5"
     },
     {
       "name": "wsj-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662663935",
-      "size": "2646016",
-      "md5": "2a402af4e0e0a78da5cb3bee1989b48a",
-      "crc32": "00bd392e",
-      "sha1": "15cc51d3ed20ecbec63b4095d8398351fc2672a4",
+      "mtime": "1662672373",
+      "size": "2650112",
+      "md5": "322accdae656c2cbc59509adcda2ed87",
+      "crc32": "f5cd5cba",
+      "sha1": "b4843903d04a42f7b9318599e012f667dc6533f7",
       "format": "Metadata"
     },
     {
@@ -23364,9 +23426,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2238,
-  "item_last_updated": 1662664012,
-  "item_size": 288669722,
+  "files_count": 2244,
+  "item_last_updated": 1662672446,
+  "item_size": 289428745,
   "metadata": {
     "identifier": "wsj-2022",
     "collection": [
@@ -23388,7 +23450,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3397165120,
+      "task_id": 3397242068,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -23396,7 +23458,7 @@
       "status": "running"
     }
   ],
-  "uniq": 842048282,
+  "uniq": 1139129693,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]
