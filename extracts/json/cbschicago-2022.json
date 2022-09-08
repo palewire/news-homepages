@@ -1,5 +1,5 @@
 {
-  "created": 1662604530,
+  "created": 1662647238,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/12/items/cbschicago-2022",
@@ -7174,31 +7174,93 @@
       "sha1": "044d3da8e441079d48ac6dedf7cb047f3133e742"
     },
     {
+      "name": "cbschicago-2022-09-08T09:25:14.131573-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662647129",
+      "size": "26840",
+      "md5": "63767740728b2e5b5db6a9a45fa4224e",
+      "crc32": "d4992944",
+      "sha1": "03de72a801a8b2462c62eb845a849e59a0f7cc78",
+      "format": "JSON"
+    },
+    {
+      "name": "cbschicago-2022-09-08T09:25:14.131573-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662647130",
+      "size": "74359",
+      "md5": "0c211e88264787982c11fa561ab9fc19",
+      "crc32": "99b42ffe",
+      "sha1": "3f791ad87396b963ff5e1ceb9e9ada3e6204e2ec",
+      "format": "JSON"
+    },
+    {
+      "name": "cbschicago-2022-09-08T09:25:14.131573-05:00.jpg",
+      "source": "original",
+      "mtime": "1662647127",
+      "size": "213150",
+      "md5": "8d3543cbe05b71de5d3d5cf7b8fa2ab8",
+      "crc32": "d658b041",
+      "sha1": "4de9ca9da0176debc6c61e6743a3c24e20f8d9cf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbschicago-2022-09-08T09:25:14.131573-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662647132",
+      "size": "1531",
+      "md5": "11e54e9a5111a1461ce8dc3cf9cdc1d6",
+      "crc32": "47811cfc",
+      "sha1": "1a36eb6fb907ecef7bc1765405bbc91021c6c1df",
+      "format": "JSON"
+    },
+    {
+      "name": "cbschicago-2022-09-08T09:25:14.131573-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662647134",
+      "size": "18079",
+      "md5": "e6ca9b38b6f3084093de93af6c9cb9d4",
+      "crc32": "074f24d7",
+      "sha1": "740925b27acd4aeb8a7440973e488524f482db5e",
+      "format": "JSON"
+    },
+    {
+      "name": "cbschicago-2022-09-08T09:25:14.131573-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbschicago-2022-09-08T09:25:14.131573-05:00.jpg",
+      "mtime": "1662647210",
+      "size": "9153",
+      "md5": "036054f69a78cfd913492a53a31d0a22",
+      "crc32": "ea9aaecb",
+      "sha1": "9d94f20ddcc9b0b2d96e2e139a5413f0355aab99"
+    },
+    {
       "name": "cbschicago-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dedfd99ca31c60f77ea700d5183f261b6817385b",
-      "mtime": "1662604523",
-      "size": "148317",
-      "md5": "59f3ea1e8501b0350f8896096afdc4a2",
-      "crc32": "2adff504",
-      "sha1": "bd390f9ee653bc606f4b51e512670cc8d32f896f",
+      "btih": "2afda083899a666203801f6807c87f839aa3ab47",
+      "mtime": "1662647224",
+      "size": "149596",
+      "md5": "6d6ce6d50fadf4d1230f82bba79908d4",
+      "crc32": "13756e6f",
+      "sha1": "a3c18d41fc6d524e566fcbfa9ee66f46bfa8a428",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cbschicago-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "96a70d5ec308796ffb28683426a189a5",
+      "md5": "bfecde1b6a1915380a355cddb3fb4b56",
       "summation": "md5"
     },
     {
       "name": "cbschicago-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662604463",
-      "size": "892928",
-      "md5": "0f9fa2403c80d0a91ce89b90f4e2f062",
-      "crc32": "25f4391c",
-      "sha1": "abf8d21c36de4cdb3299d6cd770b1a7b1deaa5cc",
+      "mtime": "1662647139",
+      "size": "901120",
+      "md5": "e7a83432809b6b0ffa8cab6b459b5a77",
+      "crc32": "2e480382",
+      "sha1": "cc56cabc71b800116b2ea159ae2e81a7be76c72b",
       "format": "Metadata"
     },
     {
@@ -7212,9 +7274,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 697,
-  "item_last_updated": 1662604523,
-  "item_size": 40331304,
+  "files_count": 703,
+  "item_last_updated": 1662647224,
+  "item_size": 40683887,
   "metadata": {
     "identifier": "cbschicago-2022",
     "collection": [
@@ -7231,10 +7293,10 @@
     "publicdate": "2022-07-28 20:04:20",
     "addeddate": "2022-07-28 20:04:20"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 1661944891,
+  "server": "ia601406.us.archive.org",
+  "uniq": 937251228,
   "workable_servers": [
-    "ia801406.us.archive.org",
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

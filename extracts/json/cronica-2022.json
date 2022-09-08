@@ -1,5 +1,9 @@
 {
-  "created": 1662604605,
+  "created": 1662652101,
+  "cronica-2022": {
+    "url": "https://www.cronica.com.ar/",
+    "job_id": "spn2-440fd8c8c6eeae105a102831c768dbb2f294dcf1"
+  },
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/17/items/cronica-2022",
@@ -3630,31 +3634,93 @@
       "sha1": "6005b59487d8ae5a3b006d62feff00016091a835"
     },
     {
+      "name": "cronica-2022-09-08T11:25:01.123251-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662647108",
+      "size": "73294",
+      "md5": "0e757073a83316df5cb5104f3b85d900",
+      "crc32": "fbccfcec",
+      "sha1": "d3062a618c3c498264b914069f9c5fd11926341e",
+      "format": "JSON"
+    },
+    {
+      "name": "cronica-2022-09-08T11:25:01.123251-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662647109",
+      "size": "30909",
+      "md5": "eb3f20f21584c6e1e6373c229462bd33",
+      "crc32": "6b7a6729",
+      "sha1": "4f79b766a3abef1459731c0c37af2dc9a76d2aad",
+      "format": "JSON"
+    },
+    {
+      "name": "cronica-2022-09-08T11:25:01.123251-03:00.jpg",
+      "source": "original",
+      "mtime": "1662647106",
+      "size": "285740",
+      "md5": "9f38ab4162b728990cc435cddbd2ae69",
+      "crc32": "ce96713c",
+      "sha1": "a2615403d54b97c175583382203168b2f52ff262",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cronica-2022-09-08T11:25:01.123251-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662647111",
+      "size": "1485",
+      "md5": "9a0ff453d4df7a7513adb23dfc109bbf",
+      "crc32": "075c13b1",
+      "sha1": "ebbd19e70553af13c0e4608ea2059644cff9d5ad",
+      "format": "JSON"
+    },
+    {
+      "name": "cronica-2022-09-08T11:25:01.123251-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1662647112",
+      "size": "103",
+      "md5": "4069090e855295df225189b07fedc89a",
+      "crc32": "77f11588",
+      "sha1": "b2521cc99fac295dcbc35fe4231a720a9033c18b",
+      "format": "JSON"
+    },
+    {
+      "name": "cronica-2022-09-08T11:25:01.123251-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cronica-2022-09-08T11:25:01.123251-03:00.jpg",
+      "mtime": "1662647171",
+      "size": "11058",
+      "md5": "7cc0cf88b27e61f5dcaad2d7bf459c39",
+      "crc32": "76b643de",
+      "sha1": "4477e8a06f55e9004fd5a8a96328c4f0d440d400"
+    },
+    {
       "name": "cronica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a4275581030592649f55d65297faede4a8d9a4cb",
-      "mtime": "1662604594",
-      "size": "74674",
-      "md5": "dcd7d747d4aff429f836aab43c5131e0",
-      "crc32": "a8f8caff",
-      "sha1": "131d110f018b7fa999469e5fc7cba5a1a6847344",
+      "btih": "98a9435451e81617266eb6d98075b84208c216fe",
+      "mtime": "1662647176",
+      "size": "75934",
+      "md5": "67674f2242e0915ea42c669862bcfa0e",
+      "crc32": "192beafc",
+      "sha1": "ec726ef81c3947dd3bb9afc7f3dcf6262178247a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cronica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8caf652ea4cd9cd1763815f78c8e7dfc",
+      "md5": "3b077b726ccb655459fe5ed319cf0b20",
       "summation": "md5"
     },
     {
       "name": "cronica-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662604535",
-      "size": "466944",
-      "md5": "616215f16c9d58556c0d243d3197bb35",
-      "crc32": "a944b89e",
-      "sha1": "1a4703b5426f1e170323a02e414d7ceda0377fa7",
+      "mtime": "1662647117",
+      "size": "475136",
+      "md5": "12905b3bbde4150093b9d7987eac95e8",
+      "crc32": "f3e2b42c",
+      "sha1": "a109830a49706ea8f90b7bc351246ae15ebb5427",
       "format": "Metadata"
     },
     {
@@ -3668,9 +3734,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 355,
-  "item_last_updated": 1662604594,
-  "item_size": 19804928,
+  "files_count": 361,
+  "item_last_updated": 1662647176,
+  "item_size": 20216969,
   "metadata": {
     "identifier": "cronica-2022",
     "collection": [
@@ -3687,10 +3753,10 @@
     "publicdate": "2022-08-09 14:37:36",
     "addeddate": "2022-08-09 14:37:36"
   },
-  "server": "ia601401.us.archive.org",
-  "uniq": 1914082339,
+  "server": "ia801401.us.archive.org",
+  "uniq": 242210297,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }
