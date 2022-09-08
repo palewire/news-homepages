@@ -1,5 +1,5 @@
 {
-  "created": 1662651463,
+  "created": 1662664299,
   "d1": "ia903007.us.archive.org",
   "d2": "ia803007.us.archive.org",
   "dir": "/16/items/latimes-2022",
@@ -35324,31 +35324,82 @@
       "sha1": "4c60213887c441e619143c20a37fb249952445a7"
     },
     {
+      "name": "latimes-2022-09-08T12:08:43.682727-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662664130",
+      "size": "49389",
+      "md5": "a1147950ac1f4f708bf9449272b2fe9d",
+      "crc32": "96477e8f",
+      "sha1": "a041c601732b66b802e97ce24cb3cc2b90b968b1",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-09-08T12:08:43.682727-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662664132",
+      "size": "59309",
+      "md5": "02103ecb71bd8959183131493d1a3012",
+      "crc32": "676eec20",
+      "sha1": "2a0c9c7bce24b56172dd039ae7768c7a2cfa9d30",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-09-08T12:08:43.682727-07:00.jpg",
+      "source": "original",
+      "mtime": "1662664127",
+      "size": "265217",
+      "md5": "1e7e9bb8f1e8decbfa4e4dd46b5bca17",
+      "crc32": "71ca6515",
+      "sha1": "e6f3d4158026fc84ff1737cdb4eebd7347c28d62",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "latimes-2022-09-08T12:08:43.682727-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662664134",
+      "size": "1468",
+      "md5": "c326e1cfab3c53c8253275e4b2bc5392",
+      "crc32": "e944785c",
+      "sha1": "78ebd04b2877a8405a3498edb3a3a7b1554be1c1",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-09-08T12:08:43.682727-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662664137",
+      "size": "2509",
+      "md5": "4cc2e32b8c7a0d6ceefa6ca55a2f76d4",
+      "crc32": "6591b01a",
+      "sha1": "53ba01fadfd4be4fec547c717ec2da440fc15922",
+      "format": "JSON"
+    },
+    {
       "name": "latimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f1842efa895df2b440d84030a683a81d89461fe0",
-      "mtime": "1662651423",
-      "size": "711081",
-      "md5": "79130f413855a7c594411c8e05aec751",
-      "crc32": "983fc2de",
-      "sha1": "9e8dd4fe5c1ce82df7937e17c860d827da4131bc",
+      "btih": "7f04a10c590e39faafcdf0f168157097c504cd12",
+      "mtime": "1662664289",
+      "size": "712138",
+      "md5": "a23ccf8a70b18ce6c39fd5633f01f6d5",
+      "crc32": "1caa93cd",
+      "sha1": "2e42783841193e54a26a37710a46cf13e68569b6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "latimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d0ec603f0f428bf34d0da09587a906a1",
+      "md5": "f8aa8ed6d4a6424ff4294dcf33f80f08",
       "summation": "md5"
     },
     {
       "name": "latimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662651172",
-      "size": "4009984",
-      "md5": "555237fa456e8d7b88b3ba9bc0f7ad66",
-      "crc32": "13941a8f",
-      "sha1": "8e4426884c2dc3b0c1da00b6b9ba356941ff1772",
+      "mtime": "1662664160",
+      "size": "4014080",
+      "md5": "6c8e5451d9ea0860781b9121c258d233",
+      "crc32": "fc681d93",
+      "sha1": "82e4c34081e00bf1774bb2d79addfda2abf09f5b",
       "format": "Metadata"
     },
     {
@@ -35362,9 +35413,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 3386,
-  "item_last_updated": 1662651423,
-  "item_size": 314469020,
+  "files_count": 3391,
+  "item_last_updated": 1662664289,
+  "item_size": 314852065,
   "metadata": {
     "identifier": "latimes-2022",
     "collection": [
@@ -35381,10 +35432,21 @@
     "publicdate": "2022-03-22 20:29:38",
     "addeddate": "2022-03-22 20:29:38"
   },
+  "pending_tasks": true,
   "server": "ia903007.us.archive.org",
-  "uniq": 1939297108,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3397169162,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 658234381,
   "workable_servers": [
-    "ia903007.us.archive.org",
-    "ia803007.us.archive.org"
+    "ia903007.us.archive.org"
   ]
 }
