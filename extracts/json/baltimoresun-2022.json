@@ -1,5 +1,5 @@
 {
-  "created": 1662591735,
+  "created": 1662604706,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/13/items/baltimoresun-2022",
@@ -22930,31 +22930,93 @@
       "sha1": "fc1a563628494f701872d507999a93a5d95dd207"
     },
     {
+      "name": "baltimoresun-2022-09-07T22:31:52.945267-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662604318",
+      "size": "28453",
+      "md5": "de7d264ee790f5753004b9b7d04dbb83",
+      "crc32": "91da44ca",
+      "sha1": "c36164a31eb38bbb9b2f2614f8be9d2de7d817c2",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoresun-2022-09-07T22:31:52.945267-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662604319",
+      "size": "49167",
+      "md5": "a7cd2a212f1d6e765d0a592d09f41c12",
+      "crc32": "f039d9d2",
+      "sha1": "8fcb0eda6290d77ceda4ac229daf0468def3bf84",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoresun-2022-09-07T22:31:52.945267-04:00.jpg",
+      "source": "original",
+      "mtime": "1662604315",
+      "size": "249268",
+      "md5": "42f1558d9dc5754972d7550db9afed01",
+      "crc32": "d2966fbc",
+      "sha1": "0e3d786425eac5952109e28a75602b8a231d0ebb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltimoresun-2022-09-07T22:31:52.945267-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662604321",
+      "size": "1513",
+      "md5": "e33a60ec92101681c88327b9728c9077",
+      "crc32": "b4bc380c",
+      "sha1": "1e1ea014a8505efcf4fcd06ab9cdb1ef1e8e6d33",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoresun-2022-09-07T22:31:52.945267-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662604323",
+      "size": "50594",
+      "md5": "f6bda4a8160e8a8b60f525ef0e981b50",
+      "crc32": "2e895d6d",
+      "sha1": "a6579b5372cd8826e0949a532893af561f811017",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoresun-2022-09-07T22:31:52.945267-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltimoresun-2022-09-07T22:31:52.945267-04:00.jpg",
+      "mtime": "1662604573",
+      "size": "8315",
+      "md5": "f4dce49cad4d0492396ed74ee5deb660",
+      "crc32": "a986fa61",
+      "sha1": "d1d2199007625402f94d84b8b8853a2126fd093c"
+    },
+    {
       "name": "baltimoresun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f67f44e095475c603d1de4de221c1f1ace20cc08",
-      "mtime": "1662591617",
-      "size": "473497",
-      "md5": "e3c1a667e52c4530ba9e1a853c781587",
-      "crc32": "34326f9c",
-      "sha1": "9b23705f9bcf7c47f8b367b214e719eac9835217",
+      "btih": "80e321e9f8e2cc6feefcdbc5534405f690b3fa67",
+      "mtime": "1662604626",
+      "size": "474788",
+      "md5": "27b3254c1745d1401477e6f977d1ddcb",
+      "crc32": "9624b6ad",
+      "sha1": "a096b68de6141670eb8de0692582f5c2d59a17ed",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltimoresun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a3c4042867a27711b7cb7c5afa85cb87",
+      "md5": "b534a37fd28ef730d37aedbb546c6b09",
       "summation": "md5"
     },
     {
       "name": "baltimoresun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662591274",
-      "size": "2682880",
-      "md5": "0ea9ae839633062364b9f9526ecfb4e3",
-      "crc32": "6a5ffdf0",
-      "sha1": "26d94017b9a2f700362925d938143c9a0448b087",
+      "mtime": "1662604345",
+      "size": "2691072",
+      "md5": "2b86e51affe685a50b66ed59dc7fee94",
+      "crc32": "2d54865c",
+      "sha1": "5e82e48b8f2bd7d331b095a738010b548998abbb",
       "format": "Metadata"
     },
     {
@@ -22968,9 +23030,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2205,
-  "item_last_updated": 1662591617,
-  "item_size": 171812495,
+  "files_count": 2211,
+  "item_last_updated": 1662604626,
+  "item_size": 172209288,
   "metadata": {
     "identifier": "baltimoresun-2022",
     "collection": [
@@ -22987,10 +23049,10 @@
     "publicdate": "2022-04-01 13:16:30",
     "addeddate": "2022-04-01 13:16:30"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 75035682,
+  "server": "ia601508.us.archive.org",
+  "uniq": 1723238454,
   "workable_servers": [
-    "ia801508.us.archive.org",
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

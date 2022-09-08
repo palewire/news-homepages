@@ -1,5 +1,5 @@
 {
-  "created": 1662564952,
+  "created": 1662604673,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/6/items/eater-2022",
@@ -6566,31 +6566,93 @@
       "sha1": "44561ddb61c2d380410ec0a51910e12c6e50bf6c"
     },
     {
+      "name": "eater-2022-09-07T22:36:07.120728-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662604575",
+      "size": "33057",
+      "md5": "c1b3c9f58d51591aabec8d012c7d1de2",
+      "crc32": "e857e2dd",
+      "sha1": "6fcf44c3551e071cd4de2ebf4fe36d2798391b5c",
+      "format": "JSON"
+    },
+    {
+      "name": "eater-2022-09-07T22:36:07.120728-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662604577",
+      "size": "47669",
+      "md5": "25a19dd39373a3a83284572f498e87d7",
+      "crc32": "6c92133d",
+      "sha1": "1d926905f8850df897d580f3583173c94f1fdf43",
+      "format": "JSON"
+    },
+    {
+      "name": "eater-2022-09-07T22:36:07.120728-04:00.jpg",
+      "source": "original",
+      "mtime": "1662604573",
+      "size": "317377",
+      "md5": "91bceb53850728ecb9620bdc2791be08",
+      "crc32": "b47da939",
+      "sha1": "95f7722aeaf4e7adf18ac1e58abd972af73c0ef4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eater-2022-09-07T22:36:07.120728-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662604578",
+      "size": "1446",
+      "md5": "b9737b0e3169d2d899a670b43dd3e679",
+      "crc32": "3c3e1e25",
+      "sha1": "93f3fdc7b82352353f390665a5dd51a92cdda6ee",
+      "format": "JSON"
+    },
+    {
+      "name": "eater-2022-09-07T22:36:07.120728-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662604580",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "eater-2022-09-07T22:36:07.120728-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eater-2022-09-07T22:36:07.120728-04:00.jpg",
+      "mtime": "1662604646",
+      "size": "10376",
+      "md5": "0629c90ea0d58a1de9a5a096f8b2b42e",
+      "crc32": "0ffe3ce2",
+      "sha1": "0a6c656c609bb261f8ac13bd31566ed95fcb4e3e"
+    },
+    {
       "name": "eater-2022_archive.torrent",
       "source": "metadata",
-      "btih": "55390948a23ac6650974a5929275a9b4d99d6aba",
-      "mtime": "1662564922",
-      "size": "132971",
-      "md5": "29e672b5083d9a1c8d01195ba81a004f",
-      "crc32": "c7fc066f",
-      "sha1": "ada1e22e9b16c40fba7f212f2a37484341247ef9",
+      "btih": "d2bc4330853e484c0f42bc051d0d0258f62b1ba2",
+      "mtime": "1662604652",
+      "size": "134199",
+      "md5": "af4c67a4433745977ac91ba66f6d5bce",
+      "crc32": "8057d44a",
+      "sha1": "ba4033ce8a37105c251281cc976a5d9433d69e52",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eater-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e193bf37ae8bf1f0960af9b8556609e1",
+      "md5": "e294c8468fe0759376178da371ac7421",
       "summation": "md5"
     },
     {
       "name": "eater-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662564820",
-      "size": "794624",
-      "md5": "1346df8e5444944ed6e44c2fb79b6ac6",
-      "crc32": "cb48b833",
-      "sha1": "70243b4b242bbf46be0ebb8ea4946e4a233033eb",
+      "mtime": "1662604584",
+      "size": "802816",
+      "md5": "fbe479923d48cc57a7a4780366c14d89",
+      "crc32": "9c81a6a5",
+      "sha1": "149673f49e917c3a56d0757fdfcb576f39323954",
       "format": "Metadata"
     },
     {
@@ -6604,9 +6666,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 636,
-  "item_last_updated": 1662564922,
-  "item_size": 56268070,
+  "files_count": 642,
+  "item_last_updated": 1662604652,
+  "item_size": 56687617,
   "metadata": {
     "identifier": "eater-2022",
     "collection": [
@@ -6624,7 +6686,7 @@
     "addeddate": "2022-07-09 03:58:25"
   },
   "server": "ia801509.us.archive.org",
-  "uniq": 580633362,
+  "uniq": 409191220,
   "workable_servers": [
     "ia801509.us.archive.org",
     "ia601509.us.archive.org"

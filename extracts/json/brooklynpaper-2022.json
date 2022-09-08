@@ -1,10 +1,5 @@
 {
-  "brooklynpaper-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1662570733,
+  "created": 1662604500,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/5/items/brooklynpaper-2022",
@@ -4393,31 +4388,93 @@
       "sha1": "52bb34f6fac9aa5d0612fc06beb2f854507b1e44"
     },
     {
+      "name": "brooklynpaper-2022-09-07T22:33:51.050529-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662604435",
+      "size": "16616",
+      "md5": "807c496c8ccd87c77a8f5832eee81d6d",
+      "crc32": "79df458b",
+      "sha1": "dfee2222013f0f561a7c1c3aac42ef7b5e8d692c",
+      "format": "JSON"
+    },
+    {
+      "name": "brooklynpaper-2022-09-07T22:33:51.050529-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662604436",
+      "size": "18796",
+      "md5": "522467c78c6510a920de30e00bc92f92",
+      "crc32": "a68457ab",
+      "sha1": "13ff84c65f4250f333ed05b708abae60c42d6a07",
+      "format": "JSON"
+    },
+    {
+      "name": "brooklynpaper-2022-09-07T22:33:51.050529-04:00.jpg",
+      "source": "original",
+      "mtime": "1662604433",
+      "size": "271812",
+      "md5": "7e1dd9091844b5d6d67eea9dc9cf5a62",
+      "crc32": "2764cb68",
+      "sha1": "47c093456e43c7d1be62514604f213761f468166",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "brooklynpaper-2022-09-07T22:33:51.050529-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662604438",
+      "size": "1521",
+      "md5": "6da5e43947440b82f2e4a456d0c81cf5",
+      "crc32": "be214c6e",
+      "sha1": "29794e99964574242db5d5d037e7edd4abdb435d",
+      "format": "JSON"
+    },
+    {
+      "name": "brooklynpaper-2022-09-07T22:33:51.050529-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662604440",
+      "size": "29685",
+      "md5": "38437307ed196567e241091699dd5de1",
+      "crc32": "093de8a5",
+      "sha1": "d51e495c07eb734f3378cad62d67eb4490f0ed53",
+      "format": "JSON"
+    },
+    {
+      "name": "brooklynpaper-2022-09-07T22:33:51.050529-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brooklynpaper-2022-09-07T22:33:51.050529-04:00.jpg",
+      "mtime": "1662604490",
+      "size": "10029",
+      "md5": "c135c1e2fce3a7fb8a01655ab753220f",
+      "crc32": "c403a35c",
+      "sha1": "79e6f3a9beff199d4816e00e035e63b97c8112a2"
+    },
+    {
       "name": "brooklynpaper-2022_archive.torrent",
       "source": "metadata",
-      "btih": "170f6e58aabe5d10e5fdaef5faa3e162e7788e60",
-      "mtime": "1662564730",
-      "size": "92676",
-      "md5": "7b1c88b0802607ac7769809cc40ef21a",
-      "crc32": "887da654",
-      "sha1": "7a6407b160346d6e231eac47e753a8e4ece1191f",
+      "btih": "b35f8ca54477e6c07460d62af3a1a6d7f52ad1ea",
+      "mtime": "1662604494",
+      "size": "93974",
+      "md5": "ae272bfb5470b505d31fc2fb916a2dff",
+      "crc32": "50ab852e",
+      "sha1": "2426ac05f5fabc6215e8a7e8d34be3f532604641",
       "format": "Archive BitTorrent"
     },
     {
       "name": "brooklynpaper-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "640e97f2b83a9bc319c69d0f36ed2695",
+      "md5": "e6dc90cec2a88c0a4edab741d6c08755",
       "summation": "md5"
     },
     {
       "name": "brooklynpaper-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662564678",
-      "size": "565248",
-      "md5": "b17f275c0860523d3fb4792b2b1ed44f",
-      "crc32": "f9b39656",
-      "sha1": "c34e5c4b401c473a7d6642f7b2a8204f3f60b13a",
+      "mtime": "1662604445",
+      "size": "569344",
+      "md5": "dc662c081204d7c3cb3ff174bdf2742a",
+      "crc32": "75777177",
+      "sha1": "cda9178e6f2d7408742eda69b1bd31dc0c768edd",
       "format": "Metadata"
     },
     {
@@ -4431,9 +4488,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 428,
-  "item_last_updated": 1662564730,
-  "item_size": 25207130,
+  "files_count": 434,
+  "item_last_updated": 1662604494,
+  "item_size": 25560983,
   "metadata": {
     "identifier": "brooklynpaper-2022",
     "collection": [
@@ -4450,10 +4507,10 @@
     "publicdate": "2022-08-03 01:54:23",
     "addeddate": "2022-08-03 01:54:23"
   },
-  "server": "ia601405.us.archive.org",
-  "uniq": 179774475,
+  "server": "ia801405.us.archive.org",
+  "uniq": 1367343753,
   "workable_servers": [
-    "ia601405.us.archive.org",
-    "ia801405.us.archive.org"
+    "ia801405.us.archive.org",
+    "ia601405.us.archive.org"
   ]
 }

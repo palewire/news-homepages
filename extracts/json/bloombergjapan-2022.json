@@ -1,5 +1,6 @@
 {
-  "created": 1662604145,
+  "conflict": 1662605026,
+  "created": 1662605026,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/34/items/bloombergjapan-2022",
@@ -7639,6 +7640,17 @@
       "format": "JSON"
     },
     {
+      "name": "bloombergjapan-2022-09-08T11:28:00.162733+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bloombergjapan-2022-09-08T11:28:00.162733+09:00.jpg",
+      "mtime": "1662604891",
+      "size": "9670",
+      "md5": "c24e57c7a9af9d0a20cd36eb12ea9b1b",
+      "crc32": "504e22d7",
+      "sha1": "dbf31c8bc17e6d086d4e65643c619be2f2c2d75e"
+    },
+    {
       "name": "bloombergjapan-2022_archive.torrent",
       "source": "metadata",
       "btih": "7b56eb4f571dd6a6785476a70402e39670e8b8d1",
@@ -7653,7 +7665,7 @@
       "name": "bloombergjapan-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c6de51ba3831a38fb3ed91cf58acae57",
+      "md5": "5a98f84262c170d3a83ec13993950935",
       "summation": "md5"
     },
     {
@@ -7677,9 +7689,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 742,
-  "item_last_updated": 1662604140,
-  "item_size": 45742651,
+  "files_count": 743,
+  "item_last_updated": 1662604891,
+  "item_size": 45752321,
   "metadata": {
     "identifier": "bloombergjapan-2022",
     "collection": [
@@ -7747,9 +7759,17 @@
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
+    },
+    {
+      "task_id": 3396573398,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 356657450,
+  "uniq": 1208017061,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]
