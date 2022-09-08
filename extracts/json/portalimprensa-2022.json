@@ -1,5 +1,5 @@
 {
-  "created": 1662612637,
+  "created": 1662642556,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/2/items/portalimprensa-2022",
@@ -5336,31 +5336,93 @@
       "sha1": "3eec978e62cb1de6a2ae27d8749b92c95ab2f5d2"
     },
     {
+      "name": "portalimprensa-2022-09-08T09:10:19.300555-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662639023",
+      "size": "44202",
+      "md5": "e3a41a9377f917f79e9dffba9935e906",
+      "crc32": "6248a7ea",
+      "sha1": "39d285a3f3ca6f7b51010ef29b7155a8a832f3fa",
+      "format": "JSON"
+    },
+    {
+      "name": "portalimprensa-2022-09-08T09:10:19.300555-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662639025",
+      "size": "61766",
+      "md5": "156a169417d97eb819c9c9ab00f26093",
+      "crc32": "d07b78d2",
+      "sha1": "3cf565ce0c37671c256ed6a4e8fdbd566422ea65",
+      "format": "JSON"
+    },
+    {
+      "name": "portalimprensa-2022-09-08T09:10:19.300555-03:00.jpg",
+      "source": "original",
+      "mtime": "1662639022",
+      "size": "295703",
+      "md5": "891ed018081b88dc8660a166fbec7dae",
+      "crc32": "058dcf80",
+      "sha1": "d8a8c76f08ef3846a909f82d1202f02659f138f8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "portalimprensa-2022-09-08T09:10:19.300555-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662639027",
+      "size": "1558",
+      "md5": "29e9b6c1dc006466a4564158b4835888",
+      "crc32": "162c9709",
+      "sha1": "246cba9635dddf4d7c369f92b7c58ef8c4e9618a",
+      "format": "JSON"
+    },
+    {
+      "name": "portalimprensa-2022-09-08T09:10:19.300555-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1662639028",
+      "size": "410",
+      "md5": "f66b11d8c2a2789ca77e9f4493e9c9ad",
+      "crc32": "bc8769fc",
+      "sha1": "31c2606e5d9188a79951f7fb4c5bf751b28aaca7",
+      "format": "JSON"
+    },
+    {
+      "name": "portalimprensa-2022-09-08T09:10:19.300555-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "portalimprensa-2022-09-08T09:10:19.300555-03:00.jpg",
+      "mtime": "1662639198",
+      "size": "9014",
+      "md5": "f78357228e8d6405cc53546a1b3e2008",
+      "crc32": "4a9a4f1c",
+      "sha1": "3eec978e62cb1de6a2ae27d8749b92c95ab2f5d2"
+    },
+    {
       "name": "portalimprensa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a8bef646a3baa7c73256e5f4ef246530b436956c",
-      "mtime": "1662612577",
-      "size": "112961",
-      "md5": "17b815bdeee0a1ba12cc2db58c983a02",
-      "crc32": "66818906",
-      "sha1": "9e9b1235b54453d10f754a90ed6bca14963f2914",
+      "btih": "537c8ef5ab3361cbc3b035cb17c81e29fd0995a6",
+      "mtime": "1662639203",
+      "size": "114262",
+      "md5": "d8243849dbda5ffb0e1e6fa7900be0fd",
+      "crc32": "d4ca820b",
+      "sha1": "cb0c668cde02d7a699666f232584bef2d8eda81b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "portalimprensa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c850f40eb017a97762390738d8edc298",
+      "md5": "ff7b81e50995c7ebc2679cd06e8580ea",
       "summation": "md5"
     },
     {
       "name": "portalimprensa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662612467",
-      "size": "679936",
-      "md5": "3e81da0dd57abda6c16e6d735666a6c3",
-      "crc32": "a5de456a",
-      "sha1": "20dd9f84f5b20fb54840dc7f3778f10b79482703",
+      "mtime": "1662639031",
+      "size": "684032",
+      "md5": "afa89da900189e9f9e9abec8cf58ae36",
+      "crc32": "0d1c7c30",
+      "sha1": "9baf80028e673c242e0503f5360aaadda91c9552",
       "format": "Metadata"
     },
     {
@@ -5374,9 +5436,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 520,
-  "item_last_updated": 1662612577,
-  "item_size": 34691609,
+  "files_count": 526,
+  "item_last_updated": 1662639203,
+  "item_size": 35109659,
   "metadata": {
     "identifier": "portalimprensa-2022",
     "collection": [
@@ -5393,10 +5455,26 @@
     "publicdate": "2022-08-07 19:44:00",
     "addeddate": "2022-08-07 19:44:00"
   },
-  "server": "ia801502.us.archive.org",
-  "uniq": 561632009,
+  "portalimprensa-2022": {
+    "url": "https://www.portalimprensa.com.br/",
+    "job_id": "spn2-8d4dc4f67c0160a57c6c23f941a36d893b2c409a",
+    "counters": {
+      "embeds": 1,
+      "outlinks": 0
+    },
+    "duration_sec": 7.066,
+    "http_status": 500,
+    "original_url": "https://www.portalimprensa.com.br/favicon.ico",
+    "resources": [
+      "https://www.portalimprensa.com.br/favicon.ico"
+    ],
+    "status": "success",
+    "timestamp": "20220908112419"
+  },
+  "server": "ia601502.us.archive.org",
+  "uniq": 1160228208,
   "workable_servers": [
-    "ia801502.us.archive.org",
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }
