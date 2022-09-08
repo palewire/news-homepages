@@ -1,8 +1,13 @@
 {
-  "created": 1662593317,
+  "created": 1662639410,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/25/items/el_universal_mx-2022",
+  "el_universal_mx-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -24682,31 +24687,93 @@
       "sha1": "409958f53c15fcdd9c775e22e768a0a78a8b3f95"
     },
     {
+      "name": "el_universal_mx-2022-09-08T06:06:22.103369-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662635208",
+      "size": "55540",
+      "md5": "5568cb8ad6bfeaf070e3789de8edfe68",
+      "crc32": "e99c6e5c",
+      "sha1": "88d66f38be5a80664059f9a0ceafcf9366577604",
+      "format": "JSON"
+    },
+    {
+      "name": "el_universal_mx-2022-09-08T06:06:22.103369-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662635210",
+      "size": "60607",
+      "md5": "b790b3f8cab03a49de95564aa46b82ad",
+      "crc32": "e10c2bf8",
+      "sha1": "f62c882ac1749cc8a34346710167ea365cd465b3",
+      "format": "JSON"
+    },
+    {
+      "name": "el_universal_mx-2022-09-08T06:06:22.103369-05:00.jpg",
+      "source": "original",
+      "mtime": "1662635206",
+      "size": "301520",
+      "md5": "67258f266350f2429bbcc261b9e6e656",
+      "crc32": "43dd4ec0",
+      "sha1": "19d986d5d6eb8276c32cb89ab4a2174d1bf6d8ed",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "el_universal_mx-2022-09-08T06:06:22.103369-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662635212",
+      "size": "1583",
+      "md5": "e9ddda3ebe39cdb507bfb11b6c9e9025",
+      "crc32": "1b330883",
+      "sha1": "786112d86277e8a33e504b764e4ccd13aecf6a6c",
+      "format": "JSON"
+    },
+    {
+      "name": "el_universal_mx-2022-09-08T06:06:22.103369-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662635214",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "el_universal_mx-2022-09-08T06:06:22.103369-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "el_universal_mx-2022-09-08T06:06:22.103369-05:00.jpg",
+      "mtime": "1662635315",
+      "size": "9930",
+      "md5": "bb5f3c1769d64439314f685beb24538f",
+      "crc32": "824eae24",
+      "sha1": "dea8a6015d95d2729d9f48de82474f9223fd6b96"
+    },
+    {
       "name": "el_universal_mx-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b13e9d5490c264ebcbadc1ade34978aff1805c5a",
-      "mtime": "1662593278",
-      "size": "516471",
-      "md5": "db695efb956ff52d0372941b67a081ef",
-      "crc32": "e543eb8e",
-      "sha1": "6ba92f836a2163f3e21544f5e8bd3e4646bfefbc",
+      "btih": "7cadecd251d6166532296845d6623535e196e293",
+      "mtime": "1662635364",
+      "size": "517778",
+      "md5": "75c6afb0e012d3c5f5547ff13e4b89d4",
+      "crc32": "509cea29",
+      "sha1": "bb00aa8395a6ff4ebabab08965ec788b483cf8cd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "el_universal_mx-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "030d81fe7c9acaac2aa6af70def556ca",
+      "md5": "48e6745887cfe3ec545dabf630e305e0",
       "summation": "md5"
     },
     {
       "name": "el_universal_mx-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662591902",
-      "size": "2797568",
-      "md5": "36d36233d5a905b8bbdd49adad2dd404",
-      "crc32": "01b19f1b",
-      "sha1": "98d25c7d4b4b2920dc01d1a3a9c484dd59a47d0e",
+      "mtime": "1662635217",
+      "size": "2805760",
+      "md5": "7048396f76dcedbf038b7d851a1b2dc4",
+      "crc32": "3a6c2b62",
+      "sha1": "b1f643c25d4da05f65eaa59fd7a51efe70587152",
       "format": "Metadata"
     },
     {
@@ -24720,9 +24787,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2362,
-  "item_last_updated": 1662593278,
-  "item_size": 238686441,
+  "files_count": 2368,
+  "item_last_updated": 1662635364,
+  "item_size": 239125322,
   "metadata": {
     "identifier": "el_universal_mx-2022",
     "collection": [
@@ -24740,7 +24807,7 @@
     "addeddate": "2022-04-15 20:40:16"
   },
   "server": "ia902507.us.archive.org",
-  "uniq": 93321347,
+  "uniq": 287632512,
   "workable_servers": [
     "ia902507.us.archive.org",
     "ia802507.us.archive.org"

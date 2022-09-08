@@ -1,5 +1,10 @@
 {
-  "created": 1662592077,
+  "codaily-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1662639260,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/25/items/codaily-2022",
@@ -7264,31 +7269,93 @@
       "sha1": "7956fa9bcfe19486449c9c98502674f1c75aab2b"
     },
     {
+      "name": "codaily-2022-09-08T04:03:50.709780-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662635037",
+      "size": "32217",
+      "md5": "70e6d69ea6f8b8284b7f19a426c1ef92",
+      "crc32": "623fbe92",
+      "sha1": "5f1c3866fe70cc622ed9494feb1d3f8a6ab39975",
+      "format": "JSON"
+    },
+    {
+      "name": "codaily-2022-09-08T04:03:50.709780-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662635038",
+      "size": "30829",
+      "md5": "c136eb175ea25fb0ea158cd80661d787",
+      "crc32": "a4008746",
+      "sha1": "84f53c231f0b766a4c7b04024176a61e06bcde36",
+      "format": "JSON"
+    },
+    {
+      "name": "codaily-2022-09-08T04:03:50.709780-07:00.jpg",
+      "source": "original",
+      "mtime": "1662635035",
+      "size": "257127",
+      "md5": "da9ec30f20e9804ff8967cb5ed41394a",
+      "crc32": "42f45397",
+      "sha1": "1e435d6392ff3e91b47cfb9ac7e59180f81514b4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "codaily-2022-09-08T04:03:50.709780-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662635040",
+      "size": "1528",
+      "md5": "00903e68521f8d0f4957a9ed541627b5",
+      "crc32": "bcbb9ed4",
+      "sha1": "3c193ea43cb0079a678ad789db8b51801b63b166",
+      "format": "JSON"
+    },
+    {
+      "name": "codaily-2022-09-08T04:03:50.709780-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662635042",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "codaily-2022-09-08T04:03:50.709780-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "codaily-2022-09-08T04:03:50.709780-07:00.jpg",
+      "mtime": "1662635101",
+      "size": "10581",
+      "md5": "03ede9d457a00116aea04ad03ae1ca35",
+      "crc32": "d944a3a5",
+      "sha1": "2bd0dce5bdddb82f6b6127f3fc115acbefe47fcb"
+    },
+    {
       "name": "codaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5b0d2979ce7204fd1f73fbae7d22c91941f62d94",
-      "mtime": "1662591914",
-      "size": "147779",
-      "md5": "0da1cc7e811ac20da5ea6e45527f00fb",
-      "crc32": "bf9ec187",
-      "sha1": "dd52b3956673c29fde0eb5fd49a0c0bd50653ce8",
+      "btih": "e2e100ecd9578d0c5979b3ee08e9f9443c47882c",
+      "mtime": "1662635107",
+      "size": "149019",
+      "md5": "b882a897777b7347bcd9040026bba4e5",
+      "crc32": "b1332fe9",
+      "sha1": "79c1d8f52a86f37b1cabd1d69845479bbb3a4d4a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "codaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4b07092394a932c4166daacbe6bfb367",
+      "md5": "ae27c818436c7d9cb1bce7495ad6b8c6",
       "summation": "md5"
     },
     {
       "name": "codaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662591742",
-      "size": "876544",
-      "md5": "9569e389f1df813bef8a25ad4492eab8",
-      "crc32": "29d1caa1",
-      "sha1": "534ceaa73d77623c1504e5f7d8330ff5552a366d",
+      "mtime": "1662635047",
+      "size": "884736",
+      "md5": "d3ce1e58135ea107c195fe5e87c7089a",
+      "crc32": "ef906dcf",
+      "sha1": "4e225ae9f0e87837fa0fc7b307188afa023d0007",
       "format": "Metadata"
     },
     {
@@ -7302,9 +7369,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 703,
-  "item_last_updated": 1662591914,
-  "item_size": 48544639,
+  "files_count": 709,
+  "item_last_updated": 1662635107,
+  "item_size": 48886555,
   "metadata": {
     "identifier": "codaily-2022",
     "collection": [
@@ -7322,7 +7389,7 @@
     "addeddate": "2022-07-04 20:47:15"
   },
   "server": "ia802507.us.archive.org",
-  "uniq": 1528244267,
+  "uniq": 616051241,
   "workable_servers": [
     "ia802507.us.archive.org",
     "ia902507.us.archive.org"

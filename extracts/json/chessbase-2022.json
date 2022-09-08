@@ -1,5 +1,5 @@
 {
-  "created": 1662592068,
+  "created": 1662635136,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/35/items/chessbase-2022",
@@ -5900,31 +5900,93 @@
       "sha1": "058f9296bce73c7d23c18ff3c13fa51af78d0443"
     },
     {
+      "name": "chessbase-2022-09-08T13:04:05.018724+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662635052",
+      "size": "45144",
+      "md5": "93416b7c567ecfa211763c5a6de9dda2",
+      "crc32": "ddd0c4c4",
+      "sha1": "09565767685ee7d6e407d383e0047046bc3895b5",
+      "format": "JSON"
+    },
+    {
+      "name": "chessbase-2022-09-08T13:04:05.018724+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662635054",
+      "size": "25794",
+      "md5": "1c7b06468ad86786dfaf86f2accd339a",
+      "crc32": "40395a1e",
+      "sha1": "8434b41a17b8b2fe2c65fba41fba9cea4df15ded",
+      "format": "JSON"
+    },
+    {
+      "name": "chessbase-2022-09-08T13:04:05.018724+02:00.jpg",
+      "source": "original",
+      "mtime": "1662635050",
+      "size": "376340",
+      "md5": "afa5eb8b8805616dc3e17f135fd56a94",
+      "crc32": "108159c9",
+      "sha1": "d2fddd674e323a38cba338e405f4e6388382258b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chessbase-2022-09-08T13:04:05.018724+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662635055",
+      "size": "1474",
+      "md5": "b50c3d58ce6952a25b6434da419c059c",
+      "crc32": "1084c7c3",
+      "sha1": "4315478617361ba5d300eb925fd700dec8b24529",
+      "format": "JSON"
+    },
+    {
+      "name": "chessbase-2022-09-08T13:04:05.018724+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1662635058",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "chessbase-2022-09-08T13:04:05.018724+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chessbase-2022-09-08T13:04:05.018724+02:00.jpg",
+      "mtime": "1662635118",
+      "size": "10924",
+      "md5": "c1a6939182b067c9e270eb4dd66ac747",
+      "crc32": "2969bf79",
+      "sha1": "4fb401af3a0a81a1bf3613fd4305a7d2993de89d"
+    },
+    {
       "name": "chessbase-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cee1af37869d27d95f4c7fe6c6c834d488dd99ee",
-      "mtime": "1662591904",
-      "size": "122120",
-      "md5": "d19985d64f7a96649e7d96928d0fc4fc",
-      "crc32": "e0854c3a",
-      "sha1": "82dd3c9d3938c170b5637fd324114fde6a9a96d8",
+      "btih": "96712a8585aa0b9bb3ef40fbd9c0993529c1e0d9",
+      "mtime": "1662635127",
+      "size": "123392",
+      "md5": "da090db3fea5cfdf1193d1f2845cbe9c",
+      "crc32": "073e1f66",
+      "sha1": "76a9a5ccda5b17b0ee417c30c6b48dc146f93ced",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chessbase-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1f73f1cc16114852994c517d0de59304",
+      "md5": "7e0cb55c310a113322bbfb605fa0c6f4",
       "summation": "md5"
     },
     {
       "name": "chessbase-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662591743",
-      "size": "729088",
-      "md5": "e195e4a45bb41ec58ba4afc122c5d3cb",
-      "crc32": "e6df5887",
-      "sha1": "db57330e1157a185d775fb372c55dc705331d22e",
+      "mtime": "1662635062",
+      "size": "737280",
+      "md5": "f8fbe5b12b52b8f58bd7b824e1763e3e",
+      "crc32": "4d9219ea",
+      "sha1": "33c388137751fdc19585356027df891713755b24",
       "format": "Metadata"
     },
     {
@@ -5938,9 +6000,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 573,
-  "item_last_updated": 1662591904,
-  "item_size": 48291323,
+  "files_count": 579,
+  "item_last_updated": 1662635127,
+  "item_size": 48760665,
   "metadata": {
     "identifier": "chessbase-2022",
     "collection": [
@@ -5958,7 +6020,7 @@
     "addeddate": "2022-07-20 11:23:28"
   },
   "server": "ia801401.us.archive.org",
-  "uniq": 974127250,
+  "uniq": 1445090525,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

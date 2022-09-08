@@ -1,8 +1,13 @@
 {
-  "created": 1662592876,
+  "created": 1662639384,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/23/items/eastbaytimes-2022",
+  "eastbaytimes-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "files": [
     {
       "name": "EastBayTimes-2022-03-22T19:08:40.505350-07:00.jpg",
@@ -14458,31 +14463,93 @@
       "sha1": "71dd73cd069e2b2378615b6f9e4284d41a3e52c0"
     },
     {
+      "name": "eastbaytimes-2022-09-08T04:06:20.004002-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662635190",
+      "size": "40323",
+      "md5": "ba4f44d9967bb0a9879f6dd62fcd25cf",
+      "crc32": "c1a9125e",
+      "sha1": "8f38502509463c3bacfeda82bd10b8947f573be9",
+      "format": "JSON"
+    },
+    {
+      "name": "eastbaytimes-2022-09-08T04:06:20.004002-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662635192",
+      "size": "53654",
+      "md5": "ce1552c8bc8890483b69b9e475c88d8d",
+      "crc32": "08eba865",
+      "sha1": "d3da533c7922690d0fa4aceeef42b6ee0e325036",
+      "format": "JSON"
+    },
+    {
+      "name": "eastbaytimes-2022-09-08T04:06:20.004002-07:00.jpg",
+      "source": "original",
+      "mtime": "1662635188",
+      "size": "256857",
+      "md5": "16357f7d6f6e8792cd84a1e3e5ca04e8",
+      "crc32": "fc718e4d",
+      "sha1": "16b4ba50a4bdccf8b9caba0a281a72e27038d413",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eastbaytimes-2022-09-08T04:06:20.004002-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662635194",
+      "size": "1513",
+      "md5": "d53a6461dfb6bf2431a4165049fa6092",
+      "crc32": "7ff51b77",
+      "sha1": "2705ce20f8b13134f7cf66aa6bf923b804a03ffa",
+      "format": "JSON"
+    },
+    {
+      "name": "eastbaytimes-2022-09-08T04:06:20.004002-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662635196",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "eastbaytimes-2022-09-08T04:06:20.004002-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eastbaytimes-2022-09-08T04:06:20.004002-07:00.jpg",
+      "mtime": "1662635279",
+      "size": "9007",
+      "md5": "8e4a1061f460339c241e0a61936cd503",
+      "crc32": "d5edce19",
+      "sha1": "48e5a00842734ca3fc7f084ed6c4e8b65152ae4f"
+    },
+    {
       "name": "eastbaytimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a9ced5d61b3c5f91eca231c5e023520e6bee58fe",
-      "mtime": "1662592866",
-      "size": "298637",
-      "md5": "25b26008cda13f7ce7fd5873367be170",
-      "crc32": "d0aadc94",
-      "sha1": "b687321c47ea32556ca1f8f652f3e4c99c33f14d",
+      "btih": "8126202be6aa0d4bda0dfcf9f5283e5cd54ce6bd",
+      "mtime": "1662635299",
+      "size": "299906",
+      "md5": "7b1c89eb60082d83834028751cfcece9",
+      "crc32": "1b47dc9b",
+      "sha1": "8b8804dda2dc6e0cc9098dee2a89a0f055996d6e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eastbaytimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5cc81ae7f3b8116baa626b69804e30d9",
+      "md5": "f58d556fd356e2abf13dae04cd5f9e79",
       "summation": "md5"
     },
     {
       "name": "eastbaytimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662592039",
-      "size": "1654784",
-      "md5": "e2fe1f5a868571f454fffeb4c232939e",
-      "crc32": "196d3e12",
-      "sha1": "7c66c1a046ec33383cc9dca87d17af5d6dc87627",
+      "mtime": "1662635199",
+      "size": "1662976",
+      "md5": "e3fc9f37b7c5476710c7f103e19d6664",
+      "crc32": "53acd6da",
+      "sha1": "3e796c6debbcbeaad5fa6481bd2981379d3dbf2a",
       "format": "Metadata"
     },
     {
@@ -14496,9 +14563,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1387,
-  "item_last_updated": 1662592866,
-  "item_size": 126194228,
+  "files_count": 1393,
+  "item_last_updated": 1662635299,
+  "item_size": 126565245,
   "metadata": {
     "identifier": "eastbaytimes-2022",
     "collection": [
@@ -14516,7 +14583,7 @@
     "addeddate": "2022-03-23 02:08:59"
   },
   "server": "ia802504.us.archive.org",
-  "uniq": 1496140993,
+  "uniq": 1213054174,
   "workable_servers": [
     "ia802504.us.archive.org",
     "ia902504.us.archive.org"
