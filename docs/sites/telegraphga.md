@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 97 screenshots with the Internet Archive.
+The archiving routine has saved 99 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/telegraphga-2022/telegraphga-2022-09-08T00:50:12.046197-04:00.jpg">
+  <img src="https://archive.org/download/telegraphga-2022/telegraphga-2022-09-08T00:50:12.046197-04:00.jpg"
+     alt="The Telegraph at 2022-09-08 00:50:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/telegraphga-2022/telegraphga-2022-09-08T00:50:12.046197-04:00.jpg">September 8 at 12:50 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/telegraphga-2022/telegraphga-2022-09-07T13:13:51.188809-04:00.jpg">
+  <img src="https://archive.org/download/telegraphga-2022/telegraphga-2022-09-07T13:13:51.188809-04:00.jpg"
+     alt="The Telegraph at 2022-09-07 13:13:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/telegraphga-2022/telegraphga-2022-09-07T13:13:51.188809-04:00.jpg">September 7 at 1:13 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/telegraphga-2022/telegraphga-2022-09-07T00:54:18.262660-04:00.jpg">
   <img src="https://archive.org/download/telegraphga-2022/telegraphga-2022-09-07T00:54:18.262660-04:00.jpg"
      alt="The Telegraph at 2022-09-07 00:54:22-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/telegraphga-2022/telegraphga-2022-09-02T00:48:56.302449-04:00.jpg">September 2 at 12:49 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/telegraphga-2022/telegraphga-2022-09-01T12:40:37.728265-04:00.jpg">
-  <img src="https://archive.org/download/telegraphga-2022/telegraphga-2022-09-01T12:40:37.728265-04:00.jpg"
-     alt="The Telegraph at 2022-09-01 12:40:51-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/telegraphga-2022/telegraphga-2022-09-01T12:40:37.728265-04:00.jpg">September 1 at 12:40 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/telegraphga-2022/telegraphga-2022-09-01T00:43:01.078611-04:00.jpg">
-  <img src="https://archive.org/download/telegraphga-2022/telegraphga-2022-09-01T00:43:01.078611-04:00.jpg"
-     alt="The Telegraph at 2022-09-01 00:43:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/telegraphga-2022/telegraphga-2022-09-01T00:43:01.078611-04:00.jpg">September 1 at 12:43 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 81 hyperlink lists with the Internet Archive.
+The archiving routine has saved 83 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 8 at 12:50 AM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-08T00:50:12.046197-04:00.hyperlinks.json) |
+| [September 7 at 1:14 PM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-07T13:13:51.188809-04:00.hyperlinks.json) |
 | [September 7 at 12:54 AM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-07T00:54:18.262660-04:00.hyperlinks.json) |
 | [September 6 at 12:56 AM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-06T00:56:40.762709-04:00.hyperlinks.json) |
 | [September 5 at 12:25 PM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-05T12:25:26.744577-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 4 at 12:43 AM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-04T00:43:23.448971-04:00.hyperlinks.json) |
 | [September 3 at 12:04 PM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-03T12:04:22.517683-04:00.hyperlinks.json) |
 | [September 3 at 12:44 AM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-03T00:43:54.187736-04:00.hyperlinks.json) |
-| [September 2 at 12:18 PM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-02T12:17:55.090791-04:00.hyperlinks.json) |
-| [September 2 at 12:49 AM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-02T00:48:56.302449-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 97 accessibility trees with the Internet Archive.
+The archiving routine has saved 99 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 8 at 12:50 AM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-08T00:50:12.046197-04:00.accessibility.json) |
+| [September 7 at 1:14 PM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-07T13:13:51.188809-04:00.accessibility.json) |
 | [September 7 at 12:54 AM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-07T00:54:18.262660-04:00.accessibility.json) |
 | [September 6 at 12:56 AM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-06T00:56:40.762709-04:00.accessibility.json) |
 | [September 5 at 12:25 PM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-05T12:25:26.744577-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 4 at 12:43 AM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-04T00:43:23.448971-04:00.accessibility.json) |
 | [September 3 at 12:04 PM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-03T12:04:22.517683-04:00.accessibility.json) |
 | [September 3 at 12:44 AM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-03T00:43:54.187736-04:00.accessibility.json) |
-| [September 2 at 12:18 PM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-02T12:17:55.090791-04:00.accessibility.json) |
-| [September 2 at 12:49 AM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-02T00:48:56.302449-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 90 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 92 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 8 at 12:50 AM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-08T00:50:12.046197-04:00.lighthouse.json) |
+| [September 7 at 1:14 PM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-07T13:13:51.188809-04:00.lighthouse.json) |
 | [September 7 at 12:54 AM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-07T00:54:18.262660-04:00.lighthouse.json) |
 | [September 6 at 12:56 AM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-06T00:56:40.762709-04:00.lighthouse.json) |
 | [September 5 at 12:25 PM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-05T12:25:26.744577-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 4 at 12:43 AM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-04T00:43:23.448971-04:00.lighthouse.json) |
 | [September 3 at 12:04 PM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-03T12:04:22.517683-04:00.lighthouse.json) |
 | [September 3 at 12:44 AM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-03T00:43:54.187736-04:00.lighthouse.json) |
-| [September 2 at 12:18 PM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-02T12:17:55.090791-04:00.lighthouse.json) |
-| [September 2 at 12:49 AM](https://archive.org/download/telegraphga-2022/telegraphga-2022-09-02T00:48:56.302449-04:00.lighthouse.json) |
 
 
 

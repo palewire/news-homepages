@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 179 screenshots with the Internet Archive.
+The archiving routine has saved 181 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/verge-2022/verge-2022-09-08T00:52:31.475945-04:00.jpg">
+  <img src="https://archive.org/download/verge-2022/verge-2022-09-08T00:52:31.475945-04:00.jpg"
+     alt="Verge at 2022-09-08 00:52:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/verge-2022/verge-2022-09-08T00:52:31.475945-04:00.jpg">September 8 at 12:52 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/verge-2022/verge-2022-09-07T13:16:36.757464-04:00.jpg">
+  <img src="https://archive.org/download/verge-2022/verge-2022-09-07T13:16:36.757464-04:00.jpg"
+     alt="Verge at 2022-09-07 13:16:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/verge-2022/verge-2022-09-07T13:16:36.757464-04:00.jpg">September 7 at 1:16 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/verge-2022/verge-2022-09-07T00:55:37.336716-04:00.jpg">
   <img src="https://archive.org/download/verge-2022/verge-2022-09-07T00:55:37.336716-04:00.jpg"
      alt="Verge at 2022-09-07 00:55:48-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/verge-2022/verge-2022-09-02T00:51:40.726716-04:00.jpg">September 2 at 12:51 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/verge-2022/verge-2022-09-01T12:42:26.880056-04:00.jpg">
-  <img src="https://archive.org/download/verge-2022/verge-2022-09-01T12:42:26.880056-04:00.jpg"
-     alt="Verge at 2022-09-01 12:42:37-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/verge-2022/verge-2022-09-01T12:42:26.880056-04:00.jpg">September 1 at 12:42 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/verge-2022/verge-2022-09-01T00:45:08.166573-04:00.jpg">
-  <img src="https://archive.org/download/verge-2022/verge-2022-09-01T00:45:08.166573-04:00.jpg"
-     alt="Verge at 2022-09-01 00:45:09-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/verge-2022/verge-2022-09-01T00:45:08.166573-04:00.jpg">September 1 at 12:45 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 179 hyperlink lists with the Internet Archive.
+The archiving routine has saved 181 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 8 at 12:52 AM](https://archive.org/download/verge-2022/verge-2022-09-08T00:52:31.475945-04:00.hyperlinks.json) |
+| [September 7 at 1:16 PM](https://archive.org/download/verge-2022/verge-2022-09-07T13:16:36.757464-04:00.hyperlinks.json) |
 | [September 7 at 12:55 AM](https://archive.org/download/verge-2022/verge-2022-09-07T00:55:37.336716-04:00.hyperlinks.json) |
 | [September 6 at 12:58 AM](https://archive.org/download/verge-2022/verge-2022-09-06T00:58:47.021739-04:00.hyperlinks.json) |
 | [September 5 at 12:27 PM](https://archive.org/download/verge-2022/verge-2022-09-05T12:27:15.455978-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 4 at 12:44 AM](https://archive.org/download/verge-2022/verge-2022-09-04T00:44:17.935612-04:00.hyperlinks.json) |
 | [September 3 at 12:07 PM](https://archive.org/download/verge-2022/verge-2022-09-03T12:07:36.043604-04:00.hyperlinks.json) |
 | [September 3 at 12:45 AM](https://archive.org/download/verge-2022/verge-2022-09-03T00:45:42.495244-04:00.hyperlinks.json) |
-| [September 2 at 12:20 PM](https://archive.org/download/verge-2022/verge-2022-09-02T12:20:08.208870-04:00.hyperlinks.json) |
-| [September 2 at 12:52 AM](https://archive.org/download/verge-2022/verge-2022-09-02T00:51:40.726716-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 180 accessibility trees with the Internet Archive.
+The archiving routine has saved 182 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 8 at 12:52 AM](https://archive.org/download/verge-2022/verge-2022-09-08T00:52:31.475945-04:00.accessibility.json) |
+| [September 7 at 1:16 PM](https://archive.org/download/verge-2022/verge-2022-09-07T13:16:36.757464-04:00.accessibility.json) |
 | [September 7 at 12:55 AM](https://archive.org/download/verge-2022/verge-2022-09-07T00:55:37.336716-04:00.accessibility.json) |
 | [September 6 at 12:58 AM](https://archive.org/download/verge-2022/verge-2022-09-06T00:58:47.021739-04:00.accessibility.json) |
 | [September 5 at 12:27 PM](https://archive.org/download/verge-2022/verge-2022-09-05T12:27:15.455978-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 4 at 12:44 AM](https://archive.org/download/verge-2022/verge-2022-09-04T00:44:17.935612-04:00.accessibility.json) |
 | [September 3 at 12:07 PM](https://archive.org/download/verge-2022/verge-2022-09-03T12:07:36.043604-04:00.accessibility.json) |
 | [September 3 at 12:45 AM](https://archive.org/download/verge-2022/verge-2022-09-03T00:45:42.495244-04:00.accessibility.json) |
-| [September 2 at 12:20 PM](https://archive.org/download/verge-2022/verge-2022-09-02T12:20:08.208870-04:00.accessibility.json) |
-| [September 2 at 12:51 AM](https://archive.org/download/verge-2022/verge-2022-09-02T00:51:40.726716-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 92 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 94 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 8 at 12:52 AM](https://archive.org/download/verge-2022/verge-2022-09-08T00:52:31.475945-04:00.lighthouse.json) |
+| [September 7 at 1:16 PM](https://archive.org/download/verge-2022/verge-2022-09-07T13:16:36.757464-04:00.lighthouse.json) |
 | [September 7 at 12:55 AM](https://archive.org/download/verge-2022/verge-2022-09-07T00:55:37.336716-04:00.lighthouse.json) |
 | [September 6 at 12:58 AM](https://archive.org/download/verge-2022/verge-2022-09-06T00:58:47.021739-04:00.lighthouse.json) |
 | [September 5 at 12:27 PM](https://archive.org/download/verge-2022/verge-2022-09-05T12:27:15.455978-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 4 at 12:44 AM](https://archive.org/download/verge-2022/verge-2022-09-04T00:44:17.935612-04:00.lighthouse.json) |
 | [September 3 at 12:07 PM](https://archive.org/download/verge-2022/verge-2022-09-03T12:07:36.043604-04:00.lighthouse.json) |
 | [September 3 at 12:45 AM](https://archive.org/download/verge-2022/verge-2022-09-03T00:45:42.495244-04:00.lighthouse.json) |
-| [September 2 at 12:20 PM](https://archive.org/download/verge-2022/verge-2022-09-02T12:20:08.208870-04:00.lighthouse.json) |
-| [September 2 at 12:52 AM](https://archive.org/download/verge-2022/verge-2022-09-02T00:51:40.726716-04:00.lighthouse.json) |
 
 
 

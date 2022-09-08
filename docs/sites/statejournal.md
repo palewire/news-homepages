@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 74 screenshots with the Internet Archive.
+The archiving routine has saved 75 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 74 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/statejournal-2022/statejournal-2022-09-08T00:48:54.813962-04:00.jpg">
+  <img src="https://archive.org/download/statejournal-2022/statejournal-2022-09-08T00:48:54.813962-04:00.jpg"
+     alt="Frankfort State Journal at 2022-09-08 00:49:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-09-08T00:48:54.813962-04:00.jpg">September 8 at 12:49 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/statejournal-2022/statejournal-2022-09-07T00:53:29.539578-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-09-01T12:40:19.194097-04:00.jpg">September 1 at 12:40 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/statejournal-2022/statejournal-2022-09-01T00:42:52.981219-04:00.jpg">
-  <img src="https://archive.org/download/statejournal-2022/statejournal-2022-09-01T00:42:52.981219-04:00.jpg"
-     alt="Frankfort State Journal at 2022-09-01 00:42:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-09-01T00:42:52.981219-04:00.jpg">September 1 at 12:42 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 65 hyperlink lists with the Internet Archive.
+The archiving routine has saved 67 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 8 at 12:49 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-08T00:48:54.813962-04:00.hyperlinks.json) |
+| [September 7 at 1:12 PM](https://archive.org/download/statejournal-2022/statejournal-2022-09-07T13:12:20.122509-04:00.hyperlinks.json) |
 | [September 7 at 12:53 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-07T00:53:29.539578-04:00.hyperlinks.json) |
 | [September 6 at 12:56 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-06T00:55:58.045772-04:00.hyperlinks.json) |
 | [September 5 at 12:24 PM](https://archive.org/download/statejournal-2022/statejournal-2022-09-05T12:24:37.612031-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 4 at 12:41 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-04T00:41:41.840651-04:00.hyperlinks.json) |
 | [September 3 at 12:04 PM](https://archive.org/download/statejournal-2022/statejournal-2022-09-03T12:04:18.015434-04:00.hyperlinks.json) |
 | [September 3 at 12:42 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-03T00:42:43.291655-04:00.hyperlinks.json) |
-| [September 2 at 12:17 PM](https://archive.org/download/statejournal-2022/statejournal-2022-09-02T12:17:40.497318-04:00.hyperlinks.json) |
-| [September 2 at 12:48 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-02T00:47:44.447861-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 62 accessibility trees with the Internet Archive.
+The archiving routine has saved 64 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 8 at 12:49 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-08T00:48:54.813962-04:00.accessibility.json) |
+| [September 7 at 1:12 PM](https://archive.org/download/statejournal-2022/statejournal-2022-09-07T13:12:20.122509-04:00.accessibility.json) |
 | [September 7 at 12:53 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-07T00:53:29.539578-04:00.accessibility.json) |
 | [September 6 at 12:56 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-06T00:55:58.045772-04:00.accessibility.json) |
 | [September 5 at 12:24 PM](https://archive.org/download/statejournal-2022/statejournal-2022-09-05T12:24:37.612031-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 4 at 12:41 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-04T00:41:41.840651-04:00.accessibility.json) |
 | [September 3 at 12:04 PM](https://archive.org/download/statejournal-2022/statejournal-2022-09-03T12:04:18.015434-04:00.accessibility.json) |
 | [September 3 at 12:42 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-03T00:42:43.291655-04:00.accessibility.json) |
-| [September 2 at 12:17 PM](https://archive.org/download/statejournal-2022/statejournal-2022-09-02T12:17:40.497318-04:00.accessibility.json) |
-| [September 2 at 12:47 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-02T00:47:44.447861-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 73 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 75 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 8 at 12:49 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-08T00:48:54.813962-04:00.lighthouse.json) |
+| [September 7 at 1:12 PM](https://archive.org/download/statejournal-2022/statejournal-2022-09-07T13:12:20.122509-04:00.lighthouse.json) |
 | [September 7 at 12:53 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-07T00:53:29.539578-04:00.lighthouse.json) |
 | [September 6 at 12:56 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-06T00:55:58.045772-04:00.lighthouse.json) |
 | [September 5 at 12:24 PM](https://archive.org/download/statejournal-2022/statejournal-2022-09-05T12:24:37.612031-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 4 at 12:41 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-04T00:41:41.840651-04:00.lighthouse.json) |
 | [September 3 at 12:04 PM](https://archive.org/download/statejournal-2022/statejournal-2022-09-03T12:04:18.015434-04:00.lighthouse.json) |
 | [September 3 at 12:42 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-03T00:42:43.291655-04:00.lighthouse.json) |
-| [September 2 at 12:17 PM](https://archive.org/download/statejournal-2022/statejournal-2022-09-02T12:17:40.497318-04:00.lighthouse.json) |
-| [September 2 at 12:48 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-02T00:47:44.447861-04:00.lighthouse.json) |
 
 
 
