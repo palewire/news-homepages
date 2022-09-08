@@ -437,7 +437,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 389 hyperlink lists with the Internet Archive.
+The archiving routine has saved 390 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 8 at 9:33 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-08T09:33:24.024250-07:00.hyperlinks.json) |
 | [September 7 at 9:47 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-07T21:46:48.887964-07:00.hyperlinks.json) |
 | [September 7 at 10:07 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-07T10:07:38.180892-07:00.hyperlinks.json) |
 | [September 6 at 9:51 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-06T21:51:09.139575-07:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 4 at 9:51 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-04T21:51:40.785275-07:00.hyperlinks.json) |
 | [September 4 at 9:43 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-04T09:43:29.198585-07:00.hyperlinks.json) |
 | [September 3 at 9:39 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-03T21:39:31.121757-07:00.hyperlinks.json) |
-| [September 3 at 11:38 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-03T11:38:15.839782-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 397 accessibility trees with the Internet Archive.
+The archiving routine has saved 398 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 8 at 9:33 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-08T09:33:24.024250-07:00.accessibility.json) |
 | [September 7 at 9:47 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-07T21:46:48.887964-07:00.accessibility.json) |
 | [September 7 at 12:13 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-07T12:13:25.103088-07:00.accessibility.json) |
 | [September 7 at 10:07 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-07T10:07:38.180892-07:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 5 at 9:21 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-05T09:21:32.993677-07:00.accessibility.json) |
 | [September 4 at 9:51 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-04T21:51:40.785275-07:00.accessibility.json) |
 | [September 4 at 9:43 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-04T09:43:29.198585-07:00.accessibility.json) |
-| [September 3 at 9:39 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-03T21:39:31.121757-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 8 at 9:33 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-08T09:33:24.024250-07:00.lighthouse.json) |
 | [September 7 at 9:47 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-07T21:46:48.887964-07:00.lighthouse.json) |
 | [September 7 at 12:13 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-07T12:13:25.103088-07:00.lighthouse.json) |
 | [September 7 at 10:07 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-07T10:07:38.180892-07:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 5 at 9:21 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-05T09:21:32.993677-07:00.lighthouse.json) |
 | [September 4 at 9:51 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-04T21:51:40.785275-07:00.lighthouse.json) |
 | [September 4 at 9:43 AM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-04T09:43:29.198585-07:00.lighthouse.json) |
-| [September 3 at 9:39 PM](https://archive.org/download/pressenterprise-2022/pressenterprise-2022-09-03T21:39:31.121757-07:00.lighthouse.json) |
 
 
 
