@@ -28,13 +28,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 23 screenshots with the Internet Archive.
+The archiving routine has saved 24 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/unherd-2022/unherd-2022-09-08T10:16:58.934824+01:00.jpg">
+  <img src="https://archive.org/download/unherd-2022/unherd-2022-09-08T10:16:58.934824+01:00.jpg"
+     alt="UnHerd at 2022-09-08 10:17:01+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/unherd-2022/unherd-2022-09-08T10:16:58.934824+01:00.jpg">September 8 at 10:17 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/unherd-2022/unherd-2022-09-08T05:51:17.436798+01:00.jpg">
@@ -135,20 +144,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/unherd-2022/unherd-2022-09-04T05:44:04.645303+01:00.jpg">September 4 at 5:44 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/unherd-2022/unherd-2022-09-03T17:06:19.469568+01:00.jpg">
-  <img src="https://archive.org/download/unherd-2022/unherd-2022-09-03T17:06:19.469568+01:00.jpg"
-     alt="UnHerd at 2022-09-03 17:06:21+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/unherd-2022/unherd-2022-09-03T17:06:19.469568+01:00.jpg">September 3 at 5:06 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 24 hyperlink lists with the Internet Archive.
+The archiving routine has saved 25 hyperlink lists with the Internet Archive.
 
 
 
@@ -156,6 +156,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 8 at 10:17 AM](https://archive.org/download/unherd-2022/unherd-2022-09-08T10:16:58.934824+01:00.hyperlinks.json) |
 | [September 8 at 5:51 AM](https://archive.org/download/unherd-2022/unherd-2022-09-08T05:51:17.436798+01:00.hyperlinks.json) |
 | [September 7 at 6:16 PM](https://archive.org/download/unherd-2022/unherd-2022-09-07T18:16:08.762224+01:00.hyperlinks.json) |
 | [September 7 at 10:17 AM](https://archive.org/download/unherd-2022/unherd-2022-09-07T10:17:13.034415+01:00.hyperlinks.json) |
@@ -165,12 +166,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 5 at 5:26 PM](https://archive.org/download/unherd-2022/unherd-2022-09-05T17:26:16.079099+01:00.hyperlinks.json) |
 | [September 5 at 10:15 AM](https://archive.org/download/unherd-2022/unherd-2022-09-05T10:15:36.450812+01:00.hyperlinks.json) |
 | [September 5 at 5:55 AM](https://archive.org/download/unherd-2022/unherd-2022-09-05T05:55:13.937200+01:00.hyperlinks.json) |
-| [September 4 at 5:47 PM](https://archive.org/download/unherd-2022/unherd-2022-09-04T17:47:49.003995+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 24 accessibility trees with the Internet Archive.
+The archiving routine has saved 25 accessibility trees with the Internet Archive.
 
 
 
@@ -178,6 +178,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 8 at 10:17 AM](https://archive.org/download/unherd-2022/unherd-2022-09-08T10:16:58.934824+01:00.accessibility.json) |
 | [September 8 at 5:51 AM](https://archive.org/download/unherd-2022/unherd-2022-09-08T05:51:17.436798+01:00.accessibility.json) |
 | [September 7 at 6:16 PM](https://archive.org/download/unherd-2022/unherd-2022-09-07T18:16:08.762224+01:00.accessibility.json) |
 | [September 7 at 10:17 AM](https://archive.org/download/unherd-2022/unherd-2022-09-07T10:17:13.034415+01:00.accessibility.json) |
@@ -187,13 +188,12 @@ Here are the 10 most recent accessibility trees.
 | [September 5 at 5:26 PM](https://archive.org/download/unherd-2022/unherd-2022-09-05T17:26:16.079099+01:00.accessibility.json) |
 | [September 5 at 10:15 AM](https://archive.org/download/unherd-2022/unherd-2022-09-05T10:15:36.450812+01:00.accessibility.json) |
 | [September 5 at 5:55 AM](https://archive.org/download/unherd-2022/unherd-2022-09-05T05:55:13.937200+01:00.accessibility.json) |
-| [September 4 at 5:47 PM](https://archive.org/download/unherd-2022/unherd-2022-09-04T17:47:49.003995+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
 
 
 
@@ -201,6 +201,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 8 at 10:17 AM](https://archive.org/download/unherd-2022/unherd-2022-09-08T10:16:58.934824+01:00.lighthouse.json) |
 | [September 8 at 5:51 AM](https://archive.org/download/unherd-2022/unherd-2022-09-08T05:51:17.436798+01:00.lighthouse.json) |
 | [September 7 at 6:16 PM](https://archive.org/download/unherd-2022/unherd-2022-09-07T18:16:08.762224+01:00.lighthouse.json) |
 | [September 7 at 10:17 AM](https://archive.org/download/unherd-2022/unherd-2022-09-07T10:17:13.034415+01:00.lighthouse.json) |
@@ -210,7 +211,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 5 at 5:26 PM](https://archive.org/download/unherd-2022/unherd-2022-09-05T17:26:16.079099+01:00.lighthouse.json) |
 | [September 5 at 10:15 AM](https://archive.org/download/unherd-2022/unherd-2022-09-05T10:15:36.450812+01:00.lighthouse.json) |
 | [September 5 at 5:55 AM](https://archive.org/download/unherd-2022/unherd-2022-09-05T05:55:13.937200+01:00.lighthouse.json) |
-| [September 4 at 5:47 PM](https://archive.org/download/unherd-2022/unherd-2022-09-04T17:47:49.003995+01:00.lighthouse.json) |
 
 
 
