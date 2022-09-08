@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 31 screenshots with the Internet Archive.
+The archiving routine has saved 32 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 31 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/enca-2022/enca-2022-09-08T04:38:44.320304+02:00.jpg">
+  <img src="https://archive.org/download/enca-2022/enca-2022-09-08T04:38:44.320304+02:00.jpg"
+     alt="eNCA at 2022-09-08 04:38:45+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/enca-2022/enca-2022-09-08T04:38:44.320304+02:00.jpg">September 8 at 4:38 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/enca-2022/enca-2022-09-07T17:34:40.689682+02:00.jpg">
@@ -424,27 +433,102 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/enca-2022/enca-2022-09-02T04:30:49.775281+02:00.jpg">September 2 at 4:30 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/enca-2022/enca-2022-09-01T17:12:58.997344+02:00.jpg">
-  <img src="https://archive.org/download/enca-2022/enca-2022-09-01T17:12:58.997344+02:00.jpg"
-     alt="eNCA at 2022-09-01 17:13:02+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/enca-2022/enca-2022-09-01T17:12:58.997344+02:00.jpg">September 1 at 5:13 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 30 hyperlink lists with the Internet Archive.
+The archiving routine has saved 31 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/enca.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 8 at 4:38 AM](https://archive.org/download/enca-2022/enca-2022-09-08T04:38:44.320304+02:00.hyperlinks.json) |
 | [September 7 at 5:34 PM](https://archive.org/download/enca-2022/enca-2022-09-07T17:34:40.689682+02:00.hyperlinks.json) |
 | [September 7 at 4:36 AM](https://archive.org/download/enca-2022/enca-2022-09-07T04:36:45.066003+02:00.hyperlinks.json) |
 | [September 6 at 4:30 AM](https://archive.org/download/enca-2022/enca-2022-09-06T04:30:35.466451+02:00.hyperlinks.json) |
@@ -454,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 4 at 4:31 AM](https://archive.org/download/enca-2022/enca-2022-09-04T04:31:18.225876+02:00.hyperlinks.json) |
 | [September 3 at 4:58 PM](https://archive.org/download/enca-2022/enca-2022-09-03T16:58:35.677106+02:00.hyperlinks.json) |
 | [September 3 at 4:30 AM](https://archive.org/download/enca-2022/enca-2022-09-03T04:30:49.762743+02:00.hyperlinks.json) |
-| [September 2 at 5:02 PM](https://archive.org/download/enca-2022/enca-2022-09-02T17:02:28.527119+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 31 accessibility trees with the Internet Archive.
+The archiving routine has saved 32 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -550,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 8 at 4:38 AM](https://archive.org/download/enca-2022/enca-2022-09-08T04:38:44.320304+02:00.accessibility.json) |
 | [September 7 at 5:34 PM](https://archive.org/download/enca-2022/enca-2022-09-07T17:34:40.689682+02:00.accessibility.json) |
 | [September 7 at 4:36 AM](https://archive.org/download/enca-2022/enca-2022-09-07T04:36:45.066003+02:00.accessibility.json) |
 | [September 6 at 4:30 AM](https://archive.org/download/enca-2022/enca-2022-09-06T04:30:35.466451+02:00.accessibility.json) |
@@ -559,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 4 at 4:31 AM](https://archive.org/download/enca-2022/enca-2022-09-04T04:31:18.225876+02:00.accessibility.json) |
 | [September 3 at 4:58 PM](https://archive.org/download/enca-2022/enca-2022-09-03T16:58:35.677106+02:00.accessibility.json) |
 | [September 3 at 4:30 AM](https://archive.org/download/enca-2022/enca-2022-09-03T04:30:49.762743+02:00.accessibility.json) |
-| [September 2 at 5:02 PM](https://archive.org/download/enca-2022/enca-2022-09-02T17:02:28.527119+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -656,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 8 at 4:38 AM](https://archive.org/download/enca-2022/enca-2022-09-08T04:38:44.320304+02:00.lighthouse.json) |
 | [September 7 at 5:34 PM](https://archive.org/download/enca-2022/enca-2022-09-07T17:34:40.689682+02:00.lighthouse.json) |
 | [September 7 at 4:36 AM](https://archive.org/download/enca-2022/enca-2022-09-07T04:36:45.066003+02:00.lighthouse.json) |
 | [September 6 at 4:30 AM](https://archive.org/download/enca-2022/enca-2022-09-06T04:30:35.466451+02:00.lighthouse.json) |
@@ -665,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 4 at 4:31 AM](https://archive.org/download/enca-2022/enca-2022-09-04T04:31:18.225876+02:00.lighthouse.json) |
 | [September 3 at 4:58 PM](https://archive.org/download/enca-2022/enca-2022-09-03T16:58:35.677106+02:00.lighthouse.json) |
 | [September 3 at 4:30 AM](https://archive.org/download/enca-2022/enca-2022-09-03T04:30:49.762743+02:00.lighthouse.json) |
-| [September 2 at 5:02 PM](https://archive.org/download/enca-2022/enca-2022-09-02T17:02:28.527119+02:00.lighthouse.json) |
 
 
 

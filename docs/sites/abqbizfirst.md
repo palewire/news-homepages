@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 100 screenshots with the Internet Archive.
+The archiving routine has saved 101 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 100 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-07T20:32:00.743999-06:00.jpg">
+  <img src="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-07T20:32:00.743999-06:00.jpg"
+     alt="Albuquerque Business First at 2022-09-07 20:32:05-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-07T20:32:00.743999-06:00.jpg">September 7 at 8:32 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-07T09:27:44.828488-06:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-01T20:27:06.788560-06:00.jpg">September 1 at 8:27 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-01T09:05:13.819872-06:00.jpg">
-  <img src="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-01T09:05:13.819872-06:00.jpg"
-     alt="Albuquerque Business First at 2022-09-01 09:05:19-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-01T09:05:13.819872-06:00.jpg">September 1 at 9:05 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 103 hyperlink lists with the Internet Archive.
+The archiving routine has saved 104 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 7 at 8:32 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-07T20:32:00.743999-06:00.hyperlinks.json) |
 | [September 7 at 9:27 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-07T09:27:44.828488-06:00.hyperlinks.json) |
 | [September 6 at 8:31 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-06T20:31:27.658459-06:00.hyperlinks.json) |
 | [September 5 at 8:25 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-05T20:25:12.061454-06:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 3 at 8:27 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-03T20:27:24.769738-06:00.hyperlinks.json) |
 | [September 3 at 8:52 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-03T08:51:46.261581-06:00.hyperlinks.json) |
 | [September 2 at 8:25 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-02T20:25:49.792979-06:00.hyperlinks.json) |
-| [September 2 at 8:57 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-02T08:57:08.599244-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 103 accessibility trees with the Internet Archive.
+The archiving routine has saved 104 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 7 at 8:32 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-07T20:32:00.743999-06:00.accessibility.json) |
 | [September 7 at 9:27 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-07T09:27:44.828488-06:00.accessibility.json) |
 | [September 6 at 8:31 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-06T20:31:27.658459-06:00.accessibility.json) |
 | [September 5 at 8:25 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-05T20:25:12.061454-06:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 3 at 8:27 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-03T20:27:24.769738-06:00.accessibility.json) |
 | [September 3 at 8:52 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-03T08:51:46.261581-06:00.accessibility.json) |
 | [September 2 at 8:25 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-02T20:25:49.792979-06:00.accessibility.json) |
-| [September 2 at 8:57 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-02T08:57:08.599244-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 93 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 94 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 7 at 8:32 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-07T20:32:00.743999-06:00.lighthouse.json) |
 | [September 7 at 9:27 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-07T09:27:44.828488-06:00.lighthouse.json) |
 | [September 6 at 8:31 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-06T20:31:27.658459-06:00.lighthouse.json) |
 | [September 5 at 8:25 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-05T20:25:12.061454-06:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 3 at 8:27 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-03T20:27:24.769738-06:00.lighthouse.json) |
 | [September 3 at 8:52 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-03T08:51:46.261581-06:00.lighthouse.json) |
 | [September 2 at 8:25 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-02T20:25:49.792979-06:00.lighthouse.json) |
-| [September 2 at 8:57 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-09-02T08:57:08.599244-06:00.lighthouse.json) |
 
 
 
