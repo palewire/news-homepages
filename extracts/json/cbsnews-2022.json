@@ -1,6 +1,6 @@
 {
-  "conflict": 1662643426,
-  "created": 1662643426,
+  "conflict": 1662663955,
+  "created": 1662663955,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/33/items/cbsnews-2022",
@@ -29663,24 +29663,29 @@
       "name": "cbsnews-2022-09-08T09:21:19.829723-04:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "cbsnews-2022-09-08T09:21:19.829723-04:00.jpg"
+      "original": "cbsnews-2022-09-08T09:21:19.829723-04:00.jpg",
+      "mtime": "1662643422",
+      "size": "8848",
+      "md5": "99db6b64dd80a5e8e647f1da41f0637b",
+      "crc32": "6424bb12",
+      "sha1": "3f9483d1cf5cf5d0d4d296c2e2190e5adc124a23"
     },
     {
       "name": "cbsnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0b79dc70b1c5870623a92827adb28eb716b59f77",
-      "mtime": "1662643399",
-      "size": "595122",
-      "md5": "cf8c9056fcfa6e144a90833ec9b0bb79",
-      "crc32": "020091d4",
-      "sha1": "ecad091d8d9785fc4a1f8a493236fdd99f62862b",
+      "btih": "a181d2083cd315045f3d69e04bc395fd26b9b396",
+      "mtime": "1662643565",
+      "size": "595325",
+      "md5": "f8992355e56288f516f5b00dbdc2c2a9",
+      "crc32": "01b30513",
+      "sha1": "2e2aa642de369ad688413b37af0be950bfdfa281",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cbsnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b0b650aa13bd21b6df038d7757d80d82",
+      "md5": "f9eee88107ac679241c136be1e4fcbf6",
       "summation": "md5"
     },
     {
@@ -29705,8 +29710,8 @@
     }
   ],
   "files_count": 2842,
-  "item_last_updated": 1662643399,
-  "item_size": 214190392,
+  "item_last_updated": 1662643565,
+  "item_size": 214199443,
   "metadata": {
     "identifier": "cbsnews-2022",
     "collection": [
@@ -29728,15 +29733,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3396921128,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3397162900,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     }
   ],
-  "uniq": 1812292481,
+  "uniq": 1487158,
   "workable_servers": [
     "ia902500.us.archive.org"
   ]
