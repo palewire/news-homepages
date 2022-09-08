@@ -1,5 +1,5 @@
 {
-  "created": 1662522826,
+  "created": 1662608959,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/15/items/gawker-2022",
@@ -6892,31 +6892,155 @@
       "sha1": "9edd1b2d5f8b6fcb7bbcecb659dbc0fd429fe5fd"
     },
     {
+      "name": "gawker-2022-09-07T11:37:56.439959-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662565084",
+      "size": "9541",
+      "md5": "22e09102b62b7cf9e5168bed5cb5af9a",
+      "crc32": "bf1a889a",
+      "sha1": "b92c6aa7acf709b9d8615ec14e502724caafa4c8",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-09-07T11:37:56.439959-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662565086",
+      "size": "11219",
+      "md5": "4fa2afd7ee36ae9dc332762a293144a1",
+      "crc32": "c66e37e8",
+      "sha1": "11c3cf9ebbf64341a15d8cc1f74caaeb7c78a9e2",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-09-07T11:37:56.439959-04:00.jpg",
+      "source": "original",
+      "mtime": "1662565082",
+      "size": "286511",
+      "md5": "4b7265ee1c3e456d6c1691ffbad3180e",
+      "crc32": "2a775552",
+      "sha1": "fb94f668e296ad9c9775c57ef37111bf1391922a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gawker-2022-09-07T11:37:56.439959-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662565088",
+      "size": "1441",
+      "md5": "69812e9fdcdeb38f590d2014dcd29b86",
+      "crc32": "11236939",
+      "sha1": "5b8f8b9b7772ab7f1b4f8881ffe0e079b4291a6a",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-09-07T11:37:56.439959-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662565090",
+      "size": "19622",
+      "md5": "817e9406f039167cf44f0a0df7031796",
+      "crc32": "509d296b",
+      "sha1": "de1948ea91e4d8b9ce66d39d39d73aa2c3caf798",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-09-07T11:37:56.439959-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gawker-2022-09-07T11:37:56.439959-04:00.jpg",
+      "mtime": "1662565145",
+      "size": "10898",
+      "md5": "c7fe0b870ead612b6b9d3b93a029b05c",
+      "crc32": "3199de5a",
+      "sha1": "28829c368942ddd1db8f4070335c9f8d3ed1e9b8"
+    },
+    {
+      "name": "gawker-2022-09-07T23:47:54.011908-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662608880",
+      "size": "9629",
+      "md5": "b512c91b7894cce2766af1bc27a8e211",
+      "crc32": "73ff0d1e",
+      "sha1": "0644aa54b5a803c806a2bdb723993bb4e542e393",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-09-07T23:47:54.011908-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662608881",
+      "size": "11135",
+      "md5": "1684d54324090efe879c6ce2e1142769",
+      "crc32": "3c7d0039",
+      "sha1": "29eb783b8bf433dd5929b778536b4f7e256260d1",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-09-07T23:47:54.011908-04:00.jpg",
+      "source": "original",
+      "mtime": "1662608878",
+      "size": "299983",
+      "md5": "46bd952a643cd1183e28e2108060e86e",
+      "crc32": "4a089f4f",
+      "sha1": "0d64947f60a228bc71091f913ba451cf5b7fd8ba",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gawker-2022-09-07T23:47:54.011908-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662608883",
+      "size": "1441",
+      "md5": "bf2317cb81a60bf1e92324ed004e9ab0",
+      "crc32": "92daaf20",
+      "sha1": "16bf01473e242a5e823a9f38f41c68c4f5d1c3c1",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-09-07T23:47:54.011908-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662608885",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-09-07T23:47:54.011908-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gawker-2022-09-07T23:47:54.011908-04:00.jpg",
+      "mtime": "1662608946",
+      "size": "10895",
+      "md5": "31ed2587cbe37edcd9fd777b8b2cdc04",
+      "crc32": "ba193c72",
+      "sha1": "675842e1609666970fda7d96c2e470547ee31594"
+    },
+    {
       "name": "gawker-2022_archive.torrent",
       "source": "metadata",
-      "btih": "570377935d093b616c0a0d933e54437dfa87e5f0",
-      "mtime": "1662522818",
-      "size": "139378",
-      "md5": "958b7bd4a7391849a78ff38d6041a682",
-      "crc32": "c78fc76a",
-      "sha1": "22653717b189b108daefcf8282106489dc278ac7",
+      "btih": "a2cbf91dd8b6a598afbdf89fd86a1ea5f619dea6",
+      "mtime": "1662608951",
+      "size": "141886",
+      "md5": "91c718729e0c78b7df5e2e5c055bbbc3",
+      "crc32": "6b627533",
+      "sha1": "fbe8766969fccf5054e50463f96cae114473d402",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gawker-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "55a0cadef1087dc6ffce71e2478035c7",
+      "md5": "e00a3f6ad11ded625be6a5b6ba055790",
       "summation": "md5"
     },
     {
       "name": "gawker-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662522762",
-      "size": "827392",
-      "md5": "127d15d2a40a9adeccb3b710b4bc00c1",
-      "crc32": "0c5029b2",
-      "sha1": "27ec5ed0a2bb2909b668928579d163980b483c39",
+      "mtime": "1662608890",
+      "size": "847872",
+      "md5": "16aadc9deb95864e330b48a332f677d7",
+      "crc32": "356acb9b",
+      "sha1": "855735586e0a0fe9135f8b2e6487c7068c1172b2",
       "format": "Metadata"
     },
     {
@@ -6930,9 +7054,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 667,
-  "item_last_updated": 1662522818,
-  "item_size": 43617295,
+  "files_count": 679,
+  "item_last_updated": 1662608951,
+  "item_size": 44312800,
   "metadata": {
     "identifier": "gawker-2022",
     "collection": [
@@ -6950,7 +7074,7 @@
     "addeddate": "2022-07-04 21:53:36"
   },
   "server": "ia802508.us.archive.org",
-  "uniq": 1315026976,
+  "uniq": 600121844,
   "workable_servers": [
     "ia802508.us.archive.org",
     "ia902508.us.archive.org"

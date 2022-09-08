@@ -1,5 +1,5 @@
 {
-  "created": 1662522855,
+  "created": 1662609022,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/3/items/hartfordcourant-2022",
@@ -4852,31 +4852,155 @@
       "sha1": "0136cb6a54e171a1ab14cf4c0661aa015a928be1"
     },
     {
+      "name": "hartfordcourant-2022-09-07T11:44:56.611854-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662565500",
+      "size": "63020",
+      "md5": "75d470105ce517d2cb0c9a006270ae0c",
+      "crc32": "5937c414",
+      "sha1": "fc14d3a8ec449e40068f572e9349ecca2f21ed13",
+      "format": "JSON"
+    },
+    {
+      "name": "hartfordcourant-2022-09-07T11:44:56.611854-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662565503",
+      "size": "75723",
+      "md5": "eaa74e50a8268cf3e39a1fae1ab53bcd",
+      "crc32": "2a19bde5",
+      "sha1": "4c6912b8ff91bcbca645b0d63d3855511c308f24",
+      "format": "JSON"
+    },
+    {
+      "name": "hartfordcourant-2022-09-07T11:44:56.611854-04:00.jpg",
+      "source": "original",
+      "mtime": "1662565498",
+      "size": "252277",
+      "md5": "0b754aa337f26ffa6e1b1b841e8519bb",
+      "crc32": "db249601",
+      "sha1": "e16bc2bd07a79fc3fa6b603079d6266f1d5e8de4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hartfordcourant-2022-09-07T11:44:56.611854-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662565506",
+      "size": "1467",
+      "md5": "bd2cd08953b6ecb812fd6f4f5292c46b",
+      "crc32": "84801ba5",
+      "sha1": "04ee67eb300baab80b6256ce400e976c1f168d9b",
+      "format": "JSON"
+    },
+    {
+      "name": "hartfordcourant-2022-09-07T11:44:56.611854-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662565508",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "hartfordcourant-2022-09-07T11:44:56.611854-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hartfordcourant-2022-09-07T11:44:56.611854-04:00.jpg",
+      "mtime": "1662565586",
+      "size": "8941",
+      "md5": "9d3b96ddbdc61b8bdd0cc6a13e85c08a",
+      "crc32": "fd67f13f",
+      "sha1": "98483885d46fe8e00e35cb4575186a92d7296ef5"
+    },
+    {
+      "name": "hartfordcourant-2022-09-07T23:47:58.771528-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662608889",
+      "size": "63047",
+      "md5": "da589e6a4fb986b01ef007db12268356",
+      "crc32": "ec766252",
+      "sha1": "5350f8fa17308a921df72f2a16e301a81549fccc",
+      "format": "JSON"
+    },
+    {
+      "name": "hartfordcourant-2022-09-07T23:47:58.771528-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662608891",
+      "size": "76326",
+      "md5": "dd77aad83d28461b17c7ab31c710a739",
+      "crc32": "6d5fa665",
+      "sha1": "a89370a3326ba615cadee0576b6da69819925d4c",
+      "format": "JSON"
+    },
+    {
+      "name": "hartfordcourant-2022-09-07T23:47:58.771528-04:00.jpg",
+      "source": "original",
+      "mtime": "1662608888",
+      "size": "302528",
+      "md5": "e5b4906af7578bcde0b07002b49ef12c",
+      "crc32": "134fa26f",
+      "sha1": "a9908e6a2bcf0aeb7de098586a70f1cb660d18ee",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hartfordcourant-2022-09-07T23:47:58.771528-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662608892",
+      "size": "1465",
+      "md5": "d2d1074556205602fcb37b9d269b1c36",
+      "crc32": "89af7dd6",
+      "sha1": "274e6f8a2eec9c684522e9235beb188fbb806849",
+      "format": "JSON"
+    },
+    {
+      "name": "hartfordcourant-2022-09-07T23:47:58.771528-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662608894",
+      "size": "71443",
+      "md5": "5d48d706462c3733cf9c97536739dd91",
+      "crc32": "46e43dc1",
+      "sha1": "e1522600ebcf0fed79fd1f04d1c1e0b9ccb1b74a",
+      "format": "JSON"
+    },
+    {
+      "name": "hartfordcourant-2022-09-07T23:47:58.771528-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hartfordcourant-2022-09-07T23:47:58.771528-04:00.jpg",
+      "mtime": "1662608996",
+      "size": "9752",
+      "md5": "56624d36e507959256a7ccd25253680c",
+      "crc32": "74727ea2",
+      "sha1": "dafcd78bb7adbe0cf93665f7099266b8cd708a1d"
+    },
+    {
       "name": "hartfordcourant-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f9cc814eddc37e77d9818e3cbb47dd05a098284b",
-      "mtime": "1662522837",
-      "size": "103345",
-      "md5": "44368ef0c6f7ef2173d63c83ce712c1a",
-      "crc32": "44c4eaf6",
-      "sha1": "78cbe1c09d0b4688c4c2043cc3eafd880160a2d4",
+      "btih": "240c0fae36225f1244f51ec184f414c6fc8c2ba6",
+      "mtime": "1662609003",
+      "size": "105961",
+      "md5": "b26c8b3a21ee14944493a4681c353823",
+      "crc32": "f1185f14",
+      "sha1": "1e5ed3a0876269c4815e75d9ddbc540a79ce1850",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hartfordcourant-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "26cc72ddda5b5efa77b14726319e58bc",
+      "md5": "ed3c7868f7464760e962dc2d56d5888e",
       "summation": "md5"
     },
     {
       "name": "hartfordcourant-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662522781",
-      "size": "606208",
-      "md5": "e70277a30e8b6363e2e12352f2da6054",
-      "crc32": "642aae37",
-      "sha1": "721b2aed0b68ae043a615ecf5f79872a54e169b8",
+      "mtime": "1662608913",
+      "size": "630784",
+      "md5": "4ff0d68b7cc2ea9f1ed7be89939b5e56",
+      "crc32": "0fe176fd",
+      "sha1": "61d410ed7819df7bfaf003c4a2c4f7bd02de9555",
       "format": "Metadata"
     },
     {
@@ -4890,9 +5014,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 472,
-  "item_last_updated": 1662522837,
-  "item_size": 37042229,
+  "files_count": 484,
+  "item_last_updated": 1662609003,
+  "item_size": 37995612,
   "metadata": {
     "identifier": "hartfordcourant-2022",
     "collection": [
@@ -4910,7 +5034,7 @@
     "addeddate": "2022-07-27 02:38:23"
   },
   "server": "ia801500.us.archive.org",
-  "uniq": 941658409,
+  "uniq": 1128325447,
   "workable_servers": [
     "ia801500.us.archive.org",
     "ia601500.us.archive.org"
