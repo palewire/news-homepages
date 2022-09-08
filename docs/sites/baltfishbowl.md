@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 116 screenshots with the Internet Archive.
+The archiving routine has saved 117 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 116 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-08T10:16:42.155199-04:00.jpg">
+  <img src="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-08T10:16:42.155199-04:00.jpg"
+     alt="Baltimore Fishbowl at 2022-09-08 10:16:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-08T10:16:42.155199-04:00.jpg">September 8 at 10:16 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-07T22:31:58.476214-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-02T10:59:00.631598-04:00.jpg">September 2 at 10:59 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-01T22:26:39.339064-04:00.jpg">
-  <img src="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-01T22:26:39.339064-04:00.jpg"
-     alt="Baltimore Fishbowl at 2022-09-01 22:26:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-01T22:26:39.339064-04:00.jpg">September 1 at 10:26 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 117 hyperlink lists with the Internet Archive.
+The archiving routine has saved 118 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 8 at 10:16 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-08T10:16:42.155199-04:00.hyperlinks.json) |
 | [September 7 at 10:32 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-07T22:31:58.476214-04:00.hyperlinks.json) |
 | [September 7 at 11:29 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-07T11:29:00.463288-04:00.hyperlinks.json) |
 | [September 6 at 10:32 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-06T22:31:51.580960-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 4 at 10:01 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-04T10:01:46.795629-04:00.hyperlinks.json) |
 | [September 3 at 10:26 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-03T22:26:35.707043-04:00.hyperlinks.json) |
 | [September 3 at 10:52 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-03T10:52:46.898543-04:00.hyperlinks.json) |
-| [September 2 at 10:26 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-02T22:26:06.284302-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 117 accessibility trees with the Internet Archive.
+The archiving routine has saved 118 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 8 at 10:16 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-08T10:16:42.155199-04:00.accessibility.json) |
 | [September 7 at 10:32 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-07T22:31:58.476214-04:00.accessibility.json) |
 | [September 7 at 11:29 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-07T11:29:00.463288-04:00.accessibility.json) |
 | [September 6 at 10:31 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-06T22:31:51.580960-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 4 at 10:01 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-04T10:01:46.795629-04:00.accessibility.json) |
 | [September 3 at 10:26 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-03T22:26:35.707043-04:00.accessibility.json) |
 | [September 3 at 10:52 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-03T10:52:46.898543-04:00.accessibility.json) |
-| [September 2 at 10:26 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-02T22:26:06.284302-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 94 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 95 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 8 at 10:16 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-08T10:16:42.155199-04:00.lighthouse.json) |
 | [September 7 at 10:32 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-07T22:31:58.476214-04:00.lighthouse.json) |
 | [September 7 at 11:29 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-07T11:29:00.463288-04:00.lighthouse.json) |
 | [September 6 at 10:32 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-06T22:31:51.580960-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 4 at 10:01 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-04T10:01:46.795629-04:00.lighthouse.json) |
 | [September 3 at 10:26 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-03T22:26:35.707043-04:00.lighthouse.json) |
 | [September 3 at 10:52 AM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-03T10:52:46.898543-04:00.lighthouse.json) |
-| [September 2 at 10:26 PM](https://archive.org/download/baltfishbowl-2022/baltfishbowl-2022-09-02T22:26:06.284302-04:00.lighthouse.json) |
 
 
 
