@@ -1,5 +1,5 @@
 {
-  "created": 1662571282,
+  "created": 1662600376,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/18/items/southsideweekly-2022",
@@ -12586,31 +12586,93 @@
       "format": "JSON"
     },
     {
+      "name": "southsideweekly-2022-09-07T20:24:29.187741-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662600281",
+      "size": "19885",
+      "md5": "76025db7a818afd2d470368cfed8d5da",
+      "crc32": "5d184af6",
+      "sha1": "abb4dca8f984feb1bccacf7900792e1e84511ae7",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-07T20:24:29.187741-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662600283",
+      "size": "29380",
+      "md5": "79bdb7a7609a89dc0d321e00be346357",
+      "crc32": "e0712e62",
+      "sha1": "0479abbf623b867cbb137850fbaa771df3b6e7e6",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-07T20:24:29.187741-05:00.jpg",
+      "source": "original",
+      "mtime": "1662600279",
+      "size": "285484",
+      "md5": "48c1e7d9a1ef37fc004a12aada19fa46",
+      "crc32": "0456f177",
+      "sha1": "804d2c12c95e5cfbb507613107a33608416f65e7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "southsideweekly-2022-09-07T20:24:29.187741-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662600285",
+      "size": "1504",
+      "md5": "8c911d16e36ba48189b079c7d2326bed",
+      "crc32": "2d960f2a",
+      "sha1": "9ec27a67abcedfa8fdf528e312928e78c770afd2",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-07T20:24:29.187741-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662600287",
+      "size": "17797",
+      "md5": "59ddb89b2ec6e09cc068744b4356d7f4",
+      "crc32": "199a7c73",
+      "sha1": "2aac9b1f0b5f54264c75ad9563d84fad789f7649",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-09-07T20:24:29.187741-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "southsideweekly-2022-09-07T20:24:29.187741-05:00.jpg",
+      "mtime": "1662600352",
+      "size": "9684",
+      "md5": "ba69b494bf8aa8247588310381d01cc5",
+      "crc32": "f0e097fb",
+      "sha1": "e594ad4a6d4419277370fd94366b7ab3aab1118e"
+    },
+    {
       "name": "southsideweekly-2022_archive.torrent",
       "source": "metadata",
-      "btih": "21d8998f7dc5a54371d0de0907165608efd42683",
-      "mtime": "1662571261",
-      "size": "264497",
-      "md5": "a9d513b09cff41fa35721448feb1e87e",
-      "crc32": "40535707",
-      "sha1": "4ce6240e0749a20d827d984d0d2e48ac01568fe2",
+      "btih": "0ab1a41cea7c385b9c9f3c6a3a6966f1b3521c31",
+      "mtime": "1662600369",
+      "size": "265786",
+      "md5": "2b6041d6c2e6c5fa7b9f131017e94fc8",
+      "crc32": "381e771e",
+      "sha1": "64c56379f56ce36ead0bb9576ed6b3fef6e7cab7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "southsideweekly-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b3e220b113916d4db459faf6dc7a9ddd",
+      "md5": "fe675103f6e8ed6043cdeb0266aa66af",
       "summation": "md5"
     },
     {
       "name": "southsideweekly-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662571211",
-      "size": "1490944",
-      "md5": "f8ecf1008d4ab63d76c20941f5417c4f",
-      "crc32": "949afad9",
-      "sha1": "71a5055dff9870e3c10e960408f12371efc80cde",
+      "mtime": "1662600290",
+      "size": "1507328",
+      "md5": "5f4ce7ffe752f88a8578a406a81ed87c",
+      "crc32": "22047d4d",
+      "sha1": "6bfb013bc4caf1fc6862b9f05de5614e7748ba6f",
       "format": "Metadata"
     },
     {
@@ -12624,9 +12686,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1213,
-  "item_last_updated": 1662571261,
-  "item_size": 88926049,
+  "files_count": 1219,
+  "item_last_updated": 1662600369,
+  "item_size": 89307456,
   "metadata": {
     "identifier": "southsideweekly-2022",
     "collection": [
@@ -12643,10 +12705,10 @@
     "publicdate": "2022-06-19 23:28:17",
     "addeddate": "2022-06-19 23:28:17"
   },
-  "server": "ia902502.us.archive.org",
-  "uniq": 2144751142,
+  "server": "ia802502.us.archive.org",
+  "uniq": 138233499,
   "workable_servers": [
-    "ia902502.us.archive.org",
-    "ia802502.us.archive.org"
+    "ia802502.us.archive.org",
+    "ia902502.us.archive.org"
   ]
 }

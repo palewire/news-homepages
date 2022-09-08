@@ -1,5 +1,5 @@
 {
-  "created": 1662561637,
+  "created": 1662600362,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/15/items/shillsalmanac-2022",
@@ -4772,31 +4772,93 @@
       "sha1": "1b6ab316d6c0178a98b4f7ee14e03ed618af41e1"
     },
     {
+      "name": "shillsalmanac-2022-09-07T21:24:44.597899-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662600290",
+      "size": "26137",
+      "md5": "3d69bbd469e7422fd0d36947b20cb0e1",
+      "crc32": "740cd8a2",
+      "sha1": "93ddd069d4691d818ca36bfaec638133c9565e0f",
+      "format": "JSON"
+    },
+    {
+      "name": "shillsalmanac-2022-09-07T21:24:44.597899-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662600292",
+      "size": "41094",
+      "md5": "66559c2e5c4d6c706f76ae29e0c8c330",
+      "crc32": "2487d07f",
+      "sha1": "0d56798633af109a225cb4b066aa04a5b611cd93",
+      "format": "JSON"
+    },
+    {
+      "name": "shillsalmanac-2022-09-07T21:24:44.597899-04:00.jpg",
+      "source": "original",
+      "mtime": "1662600288",
+      "size": "298100",
+      "md5": "58636bdef9786b00f220e6cf9412c5e0",
+      "crc32": "1ceeb80a",
+      "sha1": "e2dd0e5cdea4a6ffb10bca84900001dce3400bb4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "shillsalmanac-2022-09-07T21:24:44.597899-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662600293",
+      "size": "1459",
+      "md5": "b91487cbb276a701766ce77898a6f81d",
+      "crc32": "6fbfb09b",
+      "sha1": "5c654e49be9fae7cfda3666192cb7ca0bf56d996",
+      "format": "JSON"
+    },
+    {
+      "name": "shillsalmanac-2022-09-07T21:24:44.597899-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662600295",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "shillsalmanac-2022-09-07T21:24:44.597899-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "shillsalmanac-2022-09-07T21:24:44.597899-04:00.jpg",
+      "mtime": "1662600347",
+      "size": "9968",
+      "md5": "99421d91c3ae09c5d6845d1e5de26bd4",
+      "crc32": "7c9261cf",
+      "sha1": "eceb96663a04abb36e48e5833020e2b4772576d9"
+    },
+    {
       "name": "shillsalmanac-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ae05db1dcf4cd86fdb3201f6fe1ba294573c917c",
-      "mtime": "1662558586",
-      "size": "100056",
-      "md5": "1ada70227d7123f03a3381c588bec03c",
-      "crc32": "d30f5fcc",
-      "sha1": "dac3eb9f19c15ac461403cea005bad447cc4222b",
+      "btih": "7cdbaa3b3acfaee9caf7120c614f429819ac0075",
+      "mtime": "1662600352",
+      "size": "101351",
+      "md5": "302a700ccd26ba120ceccf5eef1935d3",
+      "crc32": "48411307",
+      "sha1": "3e710019e06299907ef3f74919ab640e03984f3a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "shillsalmanac-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ec90388837e2ad2e0cfc8c1a4323bf1a",
+      "md5": "5269a36c288c83e5b47ab0e17e45c9f2",
       "summation": "md5"
     },
     {
       "name": "shillsalmanac-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662558479",
-      "size": "589824",
-      "md5": "a80d574cf2382d450867719068a61ed3",
-      "crc32": "8c9344d8",
-      "sha1": "14a4f99221c9643318fd63d95ec633a7438492a0",
+      "mtime": "1662600299",
+      "size": "593920",
+      "md5": "a5b87652b5763b8e278d4922062894c2",
+      "crc32": "f96bd221",
+      "sha1": "b456fc9ca4fc8e01047c6b03903771371bd5352e",
       "format": "Metadata"
     },
     {
@@ -4810,9 +4872,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 463,
-  "item_last_updated": 1662558586,
-  "item_size": 30717578,
+  "files_count": 469,
+  "item_last_updated": 1662600352,
+  "item_size": 31099929,
   "metadata": {
     "identifier": "shillsalmanac-2022",
     "collection": [
@@ -4829,15 +4891,10 @@
     "publicdate": "2022-07-26 00:25:03",
     "addeddate": "2022-07-26 00:25:03"
   },
-  "server": "ia802500.us.archive.org",
-  "shillsalmanac-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "uniq": 1670961287,
+  "server": "ia902500.us.archive.org",
+  "uniq": 1147898026,
   "workable_servers": [
-    "ia802500.us.archive.org",
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1662557951,
+  "created": 1662600256,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/29/items/phillytrib-2022",
@@ -7456,31 +7456,93 @@
       "sha1": "9bee428448e0e9196ea870df63f10fac1aea51f7"
     },
     {
+      "name": "phillytrib-2022-09-07T21:22:20.681332-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662600144",
+      "size": "27122",
+      "md5": "00f57a598fd99b2fb9e24ff92efa4ff1",
+      "crc32": "eb1d96fe",
+      "sha1": "6e10d7b4e77ba7875ff81ceef6683bbb62bf2564",
+      "format": "JSON"
+    },
+    {
+      "name": "phillytrib-2022-09-07T21:22:20.681332-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662600148",
+      "size": "53267",
+      "md5": "8b08ba94592f4b08a043147e6b8a8e91",
+      "crc32": "086efabc",
+      "sha1": "18e945d64a5d2d371a37f73887b7a09e3a6ae611",
+      "format": "JSON"
+    },
+    {
+      "name": "phillytrib-2022-09-07T21:22:20.681332-04:00.jpg",
+      "source": "original",
+      "mtime": "1662600142",
+      "size": "336701",
+      "md5": "1645eb609133168cfcfec10b96d3b728",
+      "crc32": "63c17cc5",
+      "sha1": "2d76bdd07a46bdf90dcf1ad4014e2bbf05bbeb4c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "phillytrib-2022-09-07T21:22:20.681332-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662600151",
+      "size": "1495",
+      "md5": "24bcff745729eff3049be31251ef8a1b",
+      "crc32": "5c16509c",
+      "sha1": "d82b2ddc9062e231e998a3e74df099f8b23b8665",
+      "format": "JSON"
+    },
+    {
+      "name": "phillytrib-2022-09-07T21:22:20.681332-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662600153",
+      "size": "48339",
+      "md5": "acc33700a07598220c6f5203ecf15437",
+      "crc32": "7cc37c6d",
+      "sha1": "d7de674d87723154a7eff7a2671f699ae39557bc",
+      "format": "JSON"
+    },
+    {
+      "name": "phillytrib-2022-09-07T21:22:20.681332-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "phillytrib-2022-09-07T21:22:20.681332-04:00.jpg",
+      "mtime": "1662600223",
+      "size": "10824",
+      "md5": "d057e1e338a717999fb78570afcddf27",
+      "crc32": "8d2c958c",
+      "sha1": "abba71ee844791cfcd7be8732836b125cf001100"
+    },
+    {
       "name": "phillytrib-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e9ebe8312ff652e1751ad1526961f070a3a2c025",
-      "mtime": "1662557938",
-      "size": "154305",
-      "md5": "f202e018e452acc9c269ce18acc21001",
-      "crc32": "25f0673f",
-      "sha1": "caf17b717bb0937475a6cab5f887aa4e63c79e93",
+      "btih": "ce2ba9cb59b512424a6b14d1acb6256650dff57c",
+      "mtime": "1662600244",
+      "size": "155585",
+      "md5": "4f133babfeb6885dffd3a2ea68512be6",
+      "crc32": "997a9542",
+      "sha1": "704b600bfc744766c0a34d3710565dae4af0e02b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "phillytrib-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8dc497dd38d2155d949981f9eab3ddd8",
+      "md5": "746855e8cae90e69824ea34da7281962",
       "summation": "md5"
     },
     {
       "name": "phillytrib-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662557854",
-      "size": "897024",
-      "md5": "300674007d21c91af4dc90c0f2814f17",
-      "crc32": "cf2a0c09",
-      "sha1": "2a54d16da3c4a2c85ad22b290991333a058d753c",
+      "mtime": "1662600157",
+      "size": "905216",
+      "md5": "a398d37df3df90771bafb609f7dc2f63",
+      "crc32": "9eb998d6",
+      "sha1": "1c85b6a20f94887079c30db7e9a780c95353f38f",
       "format": "Metadata"
     },
     {
@@ -7494,9 +7556,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 721,
-  "item_last_updated": 1662557938,
-  "item_size": 63649912,
+  "files_count": 727,
+  "item_last_updated": 1662600244,
+  "item_size": 64137132,
   "metadata": {
     "identifier": "phillytrib-2022",
     "collection": [
@@ -7513,10 +7575,10 @@
     "publicdate": "2022-07-03 15:52:45",
     "addeddate": "2022-07-03 15:52:45"
   },
-  "server": "ia802506.us.archive.org",
-  "uniq": 763113573,
+  "server": "ia902506.us.archive.org",
+  "uniq": 1560996975,
   "workable_servers": [
-    "ia802506.us.archive.org",
-    "ia902506.us.archive.org"
+    "ia902506.us.archive.org",
+    "ia802506.us.archive.org"
   ]
 }

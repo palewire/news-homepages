@@ -1,5 +1,5 @@
 {
-  "created": 1662557957,
+  "created": 1662600224,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/13/items/newsweek-2022",
@@ -7086,31 +7086,93 @@
       "sha1": "ae4f162dd1babc0f80cc6bb7aba68bade2822c35"
     },
     {
+      "name": "newsweek-2022-09-07T21:22:06.948229-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662600134",
+      "size": "52791",
+      "md5": "aa0dd431b424edbd5a5447c783320b9f",
+      "crc32": "137baf41",
+      "sha1": "060d166cd488ea503ea868e534347ff1a13da5f8",
+      "format": "JSON"
+    },
+    {
+      "name": "newsweek-2022-09-07T21:22:06.948229-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662600136",
+      "size": "44506",
+      "md5": "e1502ed1bb2bff6f5040e02cbd7ec979",
+      "crc32": "cc91cd0c",
+      "sha1": "f87a73b51e520a40834eb3aed88df63ea9e7855b",
+      "format": "JSON"
+    },
+    {
+      "name": "newsweek-2022-09-07T21:22:06.948229-04:00.jpg",
+      "source": "original",
+      "mtime": "1662600133",
+      "size": "402156",
+      "md5": "f94d7bbc3e3ad32748ef1bec2003e9f1",
+      "crc32": "0092c4f5",
+      "sha1": "c14fac52e07aad306924e1042e501cece5cdc22a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsweek-2022-09-07T21:22:06.948229-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662600138",
+      "size": "1471",
+      "md5": "c2d02fe1bf77b2bab82058c137938612",
+      "crc32": "87814f91",
+      "sha1": "e0ca9baf54112639b74ba14bb229a607670c0367",
+      "format": "JSON"
+    },
+    {
+      "name": "newsweek-2022-09-07T21:22:06.948229-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662600140",
+      "size": "22990",
+      "md5": "0adadf22cd276af29943268558c1ca46",
+      "crc32": "2640d55e",
+      "sha1": "b20fabc2e282f6eb92089e5781bab24071da7c50",
+      "format": "JSON"
+    },
+    {
+      "name": "newsweek-2022-09-07T21:22:06.948229-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsweek-2022-09-07T21:22:06.948229-04:00.jpg",
+      "mtime": "1662600200",
+      "size": "11477",
+      "md5": "add44cfefb4c5d7fce7f7c98aeae3583",
+      "crc32": "cb006ead",
+      "sha1": "f8a5c1bdaa4c8b80d52929945bb40fc6fc92c369"
+    },
+    {
       "name": "newsweek-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5d88e4a560551b50fc288dea51411f9cc4677018",
-      "mtime": "1662557949",
-      "size": "145655",
-      "md5": "061ed9ce01b0f05be73e678c69d4cdbb",
-      "crc32": "6c2576c9",
-      "sha1": "dac693f39805793db5e961716f614302023fff59",
+      "btih": "b05ef06fc259f002e4148da2e8e38628ccb04f45",
+      "mtime": "1662600209",
+      "size": "146923",
+      "md5": "2b383556b57148e45c1ba556b698d903",
+      "crc32": "b360a297",
+      "sha1": "eaccc6dce244fdd04b260fadbb95bbac03ec0edc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newsweek-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ca8a1e031f523e8a4d4c4a12a046ac5c",
+      "md5": "9588525b283a3868967473f181f4566e",
       "summation": "md5"
     },
     {
       "name": "newsweek-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662557849",
-      "size": "860160",
-      "md5": "f43eb6a80dfc3c22cd26ffeb46770f5f",
-      "crc32": "a7f01f7f",
-      "sha1": "9fd368c7cb938bc0bde9fb23b84451927e3d368c",
+      "mtime": "1662600144",
+      "size": "868352",
+      "md5": "eab57d0b88b9dce91b362cdcc8bc001e",
+      "crc32": "074c6179",
+      "sha1": "cff87544e070f2df0bd5cf316091a9678a8caac1",
       "format": "Metadata"
     },
     {
@@ -7124,9 +7186,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 686,
-  "item_last_updated": 1662557949,
-  "item_size": 65602845,
+  "files_count": 692,
+  "item_last_updated": 1662600209,
+  "item_size": 66147696,
   "metadata": {
     "identifier": "newsweek-2022",
     "collection": [
@@ -7144,7 +7206,7 @@
     "addeddate": "2022-07-04 21:49:52"
   },
   "server": "ia801504.us.archive.org",
-  "uniq": 1973733333,
+  "uniq": 451555128,
   "workable_servers": [
     "ia801504.us.archive.org",
     "ia601504.us.archive.org"
