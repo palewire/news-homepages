@@ -234,13 +234,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mediaite-2022/mediaite-2022-09-08T08:25:24.323597-04:00.jpg">
+  <img src="https://archive.org/download/mediaite-2022/mediaite-2022-09-08T08:25:24.323597-04:00.jpg"
+     alt="Mediaite at 2022-09-08 08:25:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-09-08T08:25:24.323597-04:00.jpg">September 8 at 8:25 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mediaite-2022/mediaite-2022-09-07T19:58:02.552237-04:00.jpg">
@@ -341,20 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-09-01T20:01:40.462489-04:00.jpg">September 1 at 8:01 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mediaite-2022/mediaite-2022-09-01T08:14:25.495349-04:00.jpg">
-  <img src="https://archive.org/download/mediaite-2022/mediaite-2022-09-01T08:14:25.495349-04:00.jpg"
-     alt="Mediaite at 2022-09-01 08:14:28-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-09-01T08:14:25.495349-04:00.jpg">September 1 at 8:14 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 29 hyperlink lists with the Internet Archive.
+The archiving routine has saved 30 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 8 at 8:25 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-08T08:25:24.323597-04:00.hyperlinks.json) |
 | [September 7 at 7:58 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-07T19:58:02.552237-04:00.hyperlinks.json) |
 | [September 7 at 8:43 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-07T08:43:01.418098-04:00.hyperlinks.json) |
 | [September 6 at 8:13 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-06T20:13:49.348510-04:00.hyperlinks.json) |
@@ -371,19 +372,102 @@ Here are the 10 most recent hyperlink lists.
 | [September 3 at 7:50 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-03T19:50:29.112235-04:00.hyperlinks.json) |
 | [September 3 at 8:04 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-03T08:04:23.112344-04:00.hyperlinks.json) |
 | [September 2 at 8:02 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-02T20:02:12.211426-04:00.hyperlinks.json) |
-| [September 2 at 8:04 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-02T08:04:51.979228-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 30 accessibility trees with the Internet Archive.
+The archiving routine has saved 31 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/mediaite.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 8 at 8:25 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-08T08:25:24.323597-04:00.accessibility.json) |
 | [September 7 at 7:58 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-07T19:58:02.552237-04:00.accessibility.json) |
 | [September 7 at 8:43 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-07T08:43:01.418098-04:00.accessibility.json) |
 | [September 6 at 8:13 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-06T20:13:49.348510-04:00.accessibility.json) |
@@ -393,20 +477,103 @@ Here are the 10 most recent accessibility trees.
 | [September 4 at 7:58 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-04T07:58:46.037759-04:00.accessibility.json) |
 | [September 3 at 7:50 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-03T19:50:29.112235-04:00.accessibility.json) |
 | [September 3 at 8:04 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-03T08:04:23.112344-04:00.accessibility.json) |
-| [September 2 at 8:02 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-02T20:02:12.211426-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/mediaite.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 8 at 8:25 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-08T08:25:24.323597-04:00.lighthouse.json) |
 | [September 7 at 7:58 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-07T19:58:02.552237-04:00.lighthouse.json) |
 | [September 7 at 8:43 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-07T08:43:01.418098-04:00.lighthouse.json) |
 | [September 6 at 8:14 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-06T20:13:49.348510-04:00.lighthouse.json) |
@@ -416,7 +583,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 4 at 7:58 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-04T07:58:46.037759-04:00.lighthouse.json) |
 | [September 3 at 7:50 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-03T19:50:29.112235-04:00.lighthouse.json) |
 | [September 3 at 8:04 AM](https://archive.org/download/mediaite-2022/mediaite-2022-09-03T08:04:23.112344-04:00.lighthouse.json) |
-| [September 2 at 8:02 PM](https://archive.org/download/mediaite-2022/mediaite-2022-09-02T20:02:12.211426-04:00.lighthouse.json) |
 
 
 
