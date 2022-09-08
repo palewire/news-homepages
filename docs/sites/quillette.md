@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 127 screenshots with the Internet Archive.
+The archiving routine has saved 129 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/quillette-2022/quillette-2022-09-08T18:51:52.664063+01:00.jpg">
+  <img src="https://archive.org/download/quillette-2022/quillette-2022-09-08T18:51:52.664063+01:00.jpg"
+     alt="Quillette at 2022-09-08 18:51:56+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/quillette-2022/quillette-2022-09-08T18:51:52.664063+01:00.jpg">September 8 at 6:51 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/quillette-2022/quillette-2022-09-08T17:29:46.521268+01:00.jpg">
+  <img src="https://archive.org/download/quillette-2022/quillette-2022-09-08T17:29:46.521268+01:00.jpg"
+     alt="Quillette at 2022-09-08 17:29:48+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/quillette-2022/quillette-2022-09-08T17:29:46.521268+01:00.jpg">September 8 at 5:29 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/quillette-2022/quillette-2022-09-08T14:14:52.905052+01:00.jpg">
   <img src="https://archive.org/download/quillette-2022/quillette-2022-09-08T14:14:52.905052+01:00.jpg"
      alt="Quillette at 2022-09-08 14:14:54+01:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/quillette-2022/quillette-2022-09-05T10:15:49.628657+01:00.jpg">September 5 at 10:15 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/quillette-2022/quillette-2022-09-05T02:20:49.374293+01:00.jpg">
-  <img src="https://archive.org/download/quillette-2022/quillette-2022-09-05T02:20:49.374293+01:00.jpg"
-     alt="Quillette at 2022-09-05 02:20:53+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/quillette-2022/quillette-2022-09-05T02:20:49.374293+01:00.jpg">September 5 at 2:20 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/quillette-2022/quillette-2022-09-04T13:56:31.499218+01:00.jpg">
-  <img src="https://archive.org/download/quillette-2022/quillette-2022-09-04T13:56:31.499218+01:00.jpg"
-     alt="Quillette at 2022-09-04 13:56:32+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/quillette-2022/quillette-2022-09-04T13:56:31.499218+01:00.jpg">September 4 at 1:56 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 127 hyperlink lists with the Internet Archive.
+The archiving routine has saved 129 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 8 at 6:52 PM](https://archive.org/download/quillette-2022/quillette-2022-09-08T18:51:52.664063+01:00.hyperlinks.json) |
+| [September 8 at 5:29 PM](https://archive.org/download/quillette-2022/quillette-2022-09-08T17:29:46.521268+01:00.hyperlinks.json) |
 | [September 8 at 2:14 PM](https://archive.org/download/quillette-2022/quillette-2022-09-08T14:14:52.905052+01:00.hyperlinks.json) |
 | [September 8 at 10:17 AM](https://archive.org/download/quillette-2022/quillette-2022-09-08T10:16:58.017266+01:00.hyperlinks.json) |
 | [September 8 at 2:23 AM](https://archive.org/download/quillette-2022/quillette-2022-09-08T02:22:54.905311+01:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 2:19 AM](https://archive.org/download/quillette-2022/quillette-2022-09-07T02:19:41.554344+01:00.hyperlinks.json) |
 | [September 6 at 10:25 AM](https://archive.org/download/quillette-2022/quillette-2022-09-06T10:25:25.037819+01:00.hyperlinks.json) |
 | [September 6 at 2:23 AM](https://archive.org/download/quillette-2022/quillette-2022-09-06T02:22:50.459766+01:00.hyperlinks.json) |
-| [September 5 at 3:07 PM](https://archive.org/download/quillette-2022/quillette-2022-09-05T15:07:40.574598+01:00.hyperlinks.json) |
-| [September 5 at 10:15 AM](https://archive.org/download/quillette-2022/quillette-2022-09-05T10:15:49.628657+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 127 accessibility trees with the Internet Archive.
+The archiving routine has saved 129 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 8 at 6:52 PM](https://archive.org/download/quillette-2022/quillette-2022-09-08T18:51:52.664063+01:00.accessibility.json) |
+| [September 8 at 5:29 PM](https://archive.org/download/quillette-2022/quillette-2022-09-08T17:29:46.521268+01:00.accessibility.json) |
 | [September 8 at 2:14 PM](https://archive.org/download/quillette-2022/quillette-2022-09-08T14:14:52.905052+01:00.accessibility.json) |
 | [September 8 at 10:17 AM](https://archive.org/download/quillette-2022/quillette-2022-09-08T10:16:58.017266+01:00.accessibility.json) |
 | [September 8 at 2:23 AM](https://archive.org/download/quillette-2022/quillette-2022-09-08T02:22:54.905311+01:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 2:19 AM](https://archive.org/download/quillette-2022/quillette-2022-09-07T02:19:41.554344+01:00.accessibility.json) |
 | [September 6 at 10:25 AM](https://archive.org/download/quillette-2022/quillette-2022-09-06T10:25:25.037819+01:00.accessibility.json) |
 | [September 6 at 2:22 AM](https://archive.org/download/quillette-2022/quillette-2022-09-06T02:22:50.459766+01:00.accessibility.json) |
-| [September 5 at 3:07 PM](https://archive.org/download/quillette-2022/quillette-2022-09-05T15:07:40.574598+01:00.accessibility.json) |
-| [September 5 at 10:15 AM](https://archive.org/download/quillette-2022/quillette-2022-09-05T10:15:49.628657+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 115 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 117 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 8 at 6:52 PM](https://archive.org/download/quillette-2022/quillette-2022-09-08T18:51:52.664063+01:00.lighthouse.json) |
+| [September 8 at 5:29 PM](https://archive.org/download/quillette-2022/quillette-2022-09-08T17:29:46.521268+01:00.lighthouse.json) |
 | [September 8 at 2:14 PM](https://archive.org/download/quillette-2022/quillette-2022-09-08T14:14:52.905052+01:00.lighthouse.json) |
 | [September 8 at 10:17 AM](https://archive.org/download/quillette-2022/quillette-2022-09-08T10:16:58.017266+01:00.lighthouse.json) |
 | [September 8 at 2:23 AM](https://archive.org/download/quillette-2022/quillette-2022-09-08T02:22:54.905311+01:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 2:19 AM](https://archive.org/download/quillette-2022/quillette-2022-09-07T02:19:41.554344+01:00.lighthouse.json) |
 | [September 6 at 10:25 AM](https://archive.org/download/quillette-2022/quillette-2022-09-06T10:25:25.037819+01:00.lighthouse.json) |
 | [September 6 at 2:23 AM](https://archive.org/download/quillette-2022/quillette-2022-09-06T02:22:50.459766+01:00.lighthouse.json) |
-| [September 5 at 3:07 PM](https://archive.org/download/quillette-2022/quillette-2022-09-05T15:07:40.574598+01:00.lighthouse.json) |
-| [September 5 at 10:16 AM](https://archive.org/download/quillette-2022/quillette-2022-09-05T10:15:49.628657+01:00.lighthouse.json) |
 
 
 
