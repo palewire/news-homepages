@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 62 screenshots with the Internet Archive.
+The archiving routine has saved 63 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 62 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-08T21:30:21.392236-05:00.jpg">
+  <img src="https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-08T21:30:21.392236-05:00.jpg"
+     alt="Cuestion Publica at 2022-09-08 21:30:25-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-08T21:30:21.392236-05:00.jpg">September 8 at 9:30 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-08T09:24:48.516152-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-02T21:28:21.543861-05:00.jpg">September 2 at 9:28 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-02T10:00:08.624695-05:00.jpg">
-  <img src="https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-02T10:00:08.624695-05:00.jpg"
-     alt="Cuestion Publica at 2022-09-02 10:00:12-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-02T10:00:08.624695-05:00.jpg">September 2 at 10:00 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 62 hyperlink lists with the Internet Archive.
+The archiving routine has saved 63 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 8 at 9:30 PM](https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-08T21:30:21.392236-05:00.hyperlinks.json) |
 | [September 8 at 9:24 AM](https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-08T09:24:48.516152-05:00.hyperlinks.json) |
 | [September 7 at 9:37 PM](https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-07T21:37:05.895994-05:00.hyperlinks.json) |
 | [September 7 at 10:31 AM](https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-07T10:31:43.853470-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 4 at 9:31 PM](https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-04T21:31:11.817364-05:00.hyperlinks.json) |
 | [September 4 at 9:17 AM](https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-04T09:17:15.863506-05:00.hyperlinks.json) |
 | [September 3 at 9:29 PM](https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-03T21:29:15.187187-05:00.hyperlinks.json) |
-| [September 3 at 9:55 AM](https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-03T09:55:17.129468-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 62 accessibility trees with the Internet Archive.
+The archiving routine has saved 63 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 8 at 9:30 PM](https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-08T21:30:21.392236-05:00.accessibility.json) |
 | [September 8 at 9:24 AM](https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-08T09:24:48.516152-05:00.accessibility.json) |
 | [September 7 at 9:37 PM](https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-07T21:37:05.895994-05:00.accessibility.json) |
 | [September 7 at 10:31 AM](https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-07T10:31:43.853470-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 4 at 9:31 PM](https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-04T21:31:11.817364-05:00.accessibility.json) |
 | [September 4 at 9:17 AM](https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-04T09:17:15.863506-05:00.accessibility.json) |
 | [September 3 at 9:29 PM](https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-03T21:29:15.187187-05:00.accessibility.json) |
-| [September 3 at 9:55 AM](https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-03T09:55:17.129468-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 62 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 63 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 8 at 9:30 PM](https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-08T21:30:21.392236-05:00.lighthouse.json) |
 | [September 8 at 9:24 AM](https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-08T09:24:48.516152-05:00.lighthouse.json) |
 | [September 7 at 9:37 PM](https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-07T21:37:05.895994-05:00.lighthouse.json) |
 | [September 7 at 10:31 AM](https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-07T10:31:43.853470-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 4 at 9:31 PM](https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-04T21:31:11.817364-05:00.lighthouse.json) |
 | [September 4 at 9:17 AM](https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-04T09:17:15.863506-05:00.lighthouse.json) |
 | [September 3 at 9:29 PM](https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-03T21:29:15.187187-05:00.lighthouse.json) |
-| [September 3 at 9:55 AM](https://archive.org/download/cuestion_p-2022/cuestion_p-2022-09-03T09:55:17.129468-05:00.lighthouse.json) |
 
 
 
