@@ -437,7 +437,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 98 hyperlink lists with the Internet Archive.
+The archiving routine has saved 99 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 9 at 9:27 AM](https://archive.org/download/progressoms-2022/progressoms-2022-09-09T09:27:00.064896-03:00.hyperlinks.json) |
 | [September 9 at 1:53 AM](https://archive.org/download/progressoms-2022/progressoms-2022-09-09T01:53:29.363595-03:00.hyperlinks.json) |
 | [September 8 at 1:33 PM](https://archive.org/download/progressoms-2022/progressoms-2022-09-08T13:33:25.443283-03:00.hyperlinks.json) |
 | [September 8 at 9:11 AM](https://archive.org/download/progressoms-2022/progressoms-2022-09-08T09:10:56.232360-03:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 1:52 AM](https://archive.org/download/progressoms-2022/progressoms-2022-09-07T01:52:04.837612-03:00.hyperlinks.json) |
 | [September 6 at 1:53 AM](https://archive.org/download/progressoms-2022/progressoms-2022-09-06T01:53:44.150035-03:00.hyperlinks.json) |
 | [September 5 at 1:21 PM](https://archive.org/download/progressoms-2022/progressoms-2022-09-05T13:21:53.378507-03:00.hyperlinks.json) |
-| [September 5 at 1:51 AM](https://archive.org/download/progressoms-2022/progressoms-2022-09-05T01:51:48.632131-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 99 accessibility trees with the Internet Archive.
+The archiving routine has saved 100 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 9 at 9:27 AM](https://archive.org/download/progressoms-2022/progressoms-2022-09-09T09:27:00.064896-03:00.accessibility.json) |
 | [September 9 at 1:53 AM](https://archive.org/download/progressoms-2022/progressoms-2022-09-09T01:53:29.363595-03:00.accessibility.json) |
 | [September 8 at 1:33 PM](https://archive.org/download/progressoms-2022/progressoms-2022-09-08T13:33:25.443283-03:00.accessibility.json) |
 | [September 8 at 9:11 AM](https://archive.org/download/progressoms-2022/progressoms-2022-09-08T09:10:56.232360-03:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 1:52 AM](https://archive.org/download/progressoms-2022/progressoms-2022-09-07T01:52:04.837612-03:00.accessibility.json) |
 | [September 6 at 1:53 AM](https://archive.org/download/progressoms-2022/progressoms-2022-09-06T01:53:44.150035-03:00.accessibility.json) |
 | [September 5 at 1:21 PM](https://archive.org/download/progressoms-2022/progressoms-2022-09-05T13:21:53.378507-03:00.accessibility.json) |
-| [September 5 at 9:25 AM](https://archive.org/download/progressoms-2022/progressoms-2022-09-05T09:25:25.481606-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 99 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 100 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 9 at 9:27 AM](https://archive.org/download/progressoms-2022/progressoms-2022-09-09T09:27:00.064896-03:00.lighthouse.json) |
 | [September 9 at 1:53 AM](https://archive.org/download/progressoms-2022/progressoms-2022-09-09T01:53:29.363595-03:00.lighthouse.json) |
 | [September 8 at 1:33 PM](https://archive.org/download/progressoms-2022/progressoms-2022-09-08T13:33:25.443283-03:00.lighthouse.json) |
 | [September 8 at 9:11 AM](https://archive.org/download/progressoms-2022/progressoms-2022-09-08T09:10:56.232360-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 1:52 AM](https://archive.org/download/progressoms-2022/progressoms-2022-09-07T01:52:04.837612-03:00.lighthouse.json) |
 | [September 6 at 1:53 AM](https://archive.org/download/progressoms-2022/progressoms-2022-09-06T01:53:44.150035-03:00.lighthouse.json) |
 | [September 5 at 1:21 PM](https://archive.org/download/progressoms-2022/progressoms-2022-09-05T13:21:53.378507-03:00.lighthouse.json) |
-| [September 5 at 9:25 AM](https://archive.org/download/progressoms-2022/progressoms-2022-09-05T09:25:25.481606-03:00.lighthouse.json) |
 
 
 
