@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 38 screenshots with the Internet Archive.
+The archiving routine has saved 39 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 38 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-08T16:53:58.795293-07:00.jpg">
+  <img src="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-08T16:53:58.795293-07:00.jpg"
+     alt="Airline Reporter at 2022-09-08 16:54:01-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-08T16:53:58.795293-07:00.jpg">September 8 at 4:54 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-08T04:00:06.266737-07:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-03T03:50:15.644888-07:00.jpg">September 3 at 3:50 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-02T16:49:30.653407-07:00.jpg">
-  <img src="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-02T16:49:30.653407-07:00.jpg"
-     alt="Airline Reporter at 2022-09-02 16:49:32-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-02T16:49:30.653407-07:00.jpg">September 2 at 4:49 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 38 hyperlink lists with the Internet Archive.
+The archiving routine has saved 39 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 8 at 4:54 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-08T16:53:58.795293-07:00.hyperlinks.json) |
 | [September 8 at 4:00 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-08T04:00:06.266737-07:00.hyperlinks.json) |
 | [September 7 at 3:57 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-07T15:57:12.962982-07:00.hyperlinks.json) |
 | [September 7 at 5:09 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-07T05:09:23.144032-07:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 4 at 3:53 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-04T15:53:33.931003-07:00.hyperlinks.json) |
 | [September 4 at 3:49 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-04T03:49:34.903927-07:00.hyperlinks.json) |
 | [September 3 at 3:53 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-03T15:53:01.068116-07:00.hyperlinks.json) |
-| [September 3 at 5:08 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-03T05:08:34.580090-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 38 accessibility trees with the Internet Archive.
+The archiving routine has saved 39 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 8 at 4:54 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-08T16:53:58.795293-07:00.accessibility.json) |
 | [September 8 at 4:00 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-08T04:00:06.266737-07:00.accessibility.json) |
 | [September 7 at 3:57 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-07T15:57:12.962982-07:00.accessibility.json) |
 | [September 7 at 5:09 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-07T05:09:23.144032-07:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 4 at 3:53 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-04T15:53:33.931003-07:00.accessibility.json) |
 | [September 4 at 3:49 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-04T03:49:34.903927-07:00.accessibility.json) |
 | [September 3 at 3:53 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-03T15:53:01.068116-07:00.accessibility.json) |
-| [September 3 at 5:08 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-03T05:08:34.580090-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 38 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 8 at 4:54 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-08T16:53:58.795293-07:00.lighthouse.json) |
 | [September 8 at 4:00 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-08T04:00:06.266737-07:00.lighthouse.json) |
 | [September 7 at 3:57 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-07T15:57:12.962982-07:00.lighthouse.json) |
 | [September 7 at 5:09 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-07T05:09:23.144032-07:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 4 at 3:53 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-04T15:53:33.931003-07:00.lighthouse.json) |
 | [September 4 at 3:49 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-04T03:49:34.903927-07:00.lighthouse.json) |
 | [September 3 at 3:53 PM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-03T15:53:01.068116-07:00.lighthouse.json) |
-| [September 3 at 5:08 AM](https://archive.org/download/airlinereporter-2022/airlinereporter-2022-09-03T05:08:34.580090-07:00.lighthouse.json) |
 
 
 
