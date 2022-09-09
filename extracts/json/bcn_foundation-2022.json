@@ -1,10 +1,5 @@
 {
-  "bcn_foundation-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1662651948,
+  "created": 1662690596,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/9/items/bcn_foundation-2022",
@@ -7247,31 +7242,93 @@
       "sha1": "0f6af105eec740363b02bc5ab79dde7cfa36d3b4"
     },
     {
+      "name": "bcn_foundation-2022-09-08T19:28:32.494443-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662690519",
+      "size": "67144",
+      "md5": "24629ee2ed98dae568970995e9f03eb3",
+      "crc32": "e8983d78",
+      "sha1": "15f7ccaa1401ab7f0bb1488405190adc488e96de",
+      "format": "JSON"
+    },
+    {
+      "name": "bcn_foundation-2022-09-08T19:28:32.494443-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662690521",
+      "size": "74349",
+      "md5": "e352e150f339d2a5c48678452bcf1aa8",
+      "crc32": "0dd56d84",
+      "sha1": "afac42a3f6c1e898002c6fc862094e645ae2dbde",
+      "format": "JSON"
+    },
+    {
+      "name": "bcn_foundation-2022-09-08T19:28:32.494443-07:00.jpg",
+      "source": "original",
+      "mtime": "1662690518",
+      "size": "195660",
+      "md5": "bd419e0e44e4208e16e74da0ea496850",
+      "crc32": "1629ee63",
+      "sha1": "541319b9023f04b1e407e6c12f4e59ed51f7734a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bcn_foundation-2022-09-08T19:28:32.494443-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662690523",
+      "size": "1509",
+      "md5": "7a0d79c67a3639737d98d03e1366032e",
+      "crc32": "95ecc951",
+      "sha1": "40bd6ee70ee370fe00cf8754ede21b980399fa15",
+      "format": "JSON"
+    },
+    {
+      "name": "bcn_foundation-2022-09-08T19:28:32.494443-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662690525",
+      "size": "275",
+      "md5": "46d1d404dc0e2fb31ffe4339507ec889",
+      "crc32": "6374b859",
+      "sha1": "5393beb0d2c8450fc898267742250c4af8cadca9",
+      "format": "JSON"
+    },
+    {
+      "name": "bcn_foundation-2022-09-08T19:28:32.494443-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bcn_foundation-2022-09-08T19:28:32.494443-07:00.jpg",
+      "mtime": "1662690579",
+      "size": "8652",
+      "md5": "0809b8ba8432e145cbd195185688be76",
+      "crc32": "e2059409",
+      "sha1": "d4639d3b0900c7ae132ce2f9b6075a3423c5a01e"
+    },
+    {
       "name": "bcn_foundation-2022_archive.torrent",
       "source": "metadata",
-      "btih": "397ed7bbbe5b6d329a4e2ae6781f433311758162",
-      "mtime": "1662646694",
-      "size": "152262",
-      "md5": "c146afb6de2e5686f4206128d36d05fb",
-      "crc32": "d76c7dfc",
-      "sha1": "3cd4d5adbc2c067a5e03dddfd470b739db376e00",
+      "btih": "099db295ba58d92ed854dafa7ce60601cc28921d",
+      "mtime": "1662690589",
+      "size": "153543",
+      "md5": "f56b4e7455b1a52b044b7ce0030c7695",
+      "crc32": "d4f421a7",
+      "sha1": "5dba32bb7ce6bf78a16fa299baa418140e4ce762",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bcn_foundation-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2b33ee538aa9b0885cc2e70edaf7bfd1",
+      "md5": "105a4d34ff0c166d5612911f436d7405",
       "summation": "md5"
     },
     {
       "name": "bcn_foundation-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662646594",
-      "size": "884736",
-      "md5": "2b688a3ed71f250c9509db515c9afad5",
-      "crc32": "3d662ab0",
-      "sha1": "08a6f40887ab72e24f954c9a9006f15ca5fca09b",
+      "mtime": "1662690528",
+      "size": "892928",
+      "md5": "30061eb8796d483c3f5142d9e2d1dce5",
+      "crc32": "44cc3f07",
+      "sha1": "1b98d4b6069c186bac1063f0332a33b14985dccb",
       "format": "Metadata"
     },
     {
@@ -7285,9 +7342,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 701,
-  "item_last_updated": 1662646694,
-  "item_size": 50531200,
+  "files_count": 707,
+  "item_last_updated": 1662690589,
+  "item_size": 50888262,
   "metadata": {
     "identifier": "bcn_foundation-2022",
     "collection": [
@@ -7304,10 +7361,10 @@
     "publicdate": "2022-07-09 03:56:17",
     "addeddate": "2022-07-09 03:56:17"
   },
-  "server": "ia601401.us.archive.org",
-  "uniq": 1029878307,
+  "server": "ia801401.us.archive.org",
+  "uniq": 709494898,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }
