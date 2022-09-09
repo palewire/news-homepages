@@ -1,5 +1,5 @@
 {
-  "created": 1662635125,
+  "created": 1662681615,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/0/items/coindesk-2022",
@@ -5522,31 +5522,82 @@
       "sha1": "8eab171dcd301212aa910a3a39be670c172f2f2c"
     },
     {
+      "name": "coindesk-2022-09-08T19:59:06.870164-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662681550",
+      "size": "76367",
+      "md5": "b478d81a8a58311acb275462b44dd99a",
+      "crc32": "e2d61607",
+      "sha1": "6eb7102a80f14ca243dcb1dafeff7da80b7a3598",
+      "format": "JSON"
+    },
+    {
+      "name": "coindesk-2022-09-08T19:59:06.870164-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662681551",
+      "size": "55385",
+      "md5": "9f9f5e4782777e8c9214fe1f304b75e9",
+      "crc32": "94fd7533",
+      "sha1": "75013ca627ea2ae97130bc82b830a3f5d44df05c",
+      "format": "JSON"
+    },
+    {
+      "name": "coindesk-2022-09-08T19:59:06.870164-04:00.jpg",
+      "source": "original",
+      "mtime": "1662681548",
+      "size": "320059",
+      "md5": "44b4937f0a0ace1aec0184284ec18ee6",
+      "crc32": "dcff4029",
+      "sha1": "50d95d9368b01aa4d049552bc599e79c43def7a6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coindesk-2022-09-08T19:59:06.870164-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662681554",
+      "size": "1467",
+      "md5": "20ff5f427f30b425954f0e51939fb799",
+      "crc32": "655945bc",
+      "sha1": "66d11d11bc51fb382c33ce9903e696a9257e37e4",
+      "format": "JSON"
+    },
+    {
+      "name": "coindesk-2022-09-08T19:59:06.870164-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662681559",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "coindesk-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f5a5ef03dcbb3674d39d20b91528e5b84bffe37b",
-      "mtime": "1662635115",
-      "size": "113986",
-      "md5": "c18d7c44d0a72705c53827bb177d8e9a",
-      "crc32": "932e6bcd",
-      "sha1": "b61b945dea900f5850d3cb89c9c1f874267d045e",
+      "btih": "f9413d2a3a1fc93b58b930bbbc4fd6497a4fb03f",
+      "mtime": "1662681602",
+      "size": "115047",
+      "md5": "de6dce6ad8bfa2204ae21e54a92e5852",
+      "crc32": "741d124c",
+      "sha1": "c5b741a7e119d864cb21dcd3cbaa052c7ba14d78",
       "format": "Archive BitTorrent"
     },
     {
       "name": "coindesk-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "60269d45d2987f63161a9dca814da744",
+      "md5": "d4f024982217936ec4a3e98b4afe823c",
       "summation": "md5"
     },
     {
       "name": "coindesk-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662635058",
-      "size": "692224",
-      "md5": "865978284ea927201074916271f7f2fb",
-      "crc32": "c88ad087",
-      "sha1": "417dafae2068bba81459a54c78d8e83cf0ac575f",
+      "mtime": "1662681562",
+      "size": "696320",
+      "md5": "f805e287ec58e75530aaf61971a0790d",
+      "crc32": "864666c2",
+      "sha1": "de37e92df7ba2b0ed9b88b63718881df83dcc206",
       "format": "Metadata"
     },
     {
@@ -5560,9 +5611,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 537,
-  "item_last_updated": 1662635115,
-  "item_size": 47034076,
+  "files_count": 542,
+  "item_last_updated": 1662681602,
+  "item_size": 47492713,
   "metadata": {
     "identifier": "coindesk-2022",
     "collection": [
@@ -5579,10 +5630,21 @@
     "publicdate": "2022-07-25 06:46:58",
     "addeddate": "2022-07-25 06:46:58"
   },
+  "pending_tasks": true,
   "server": "ia601509.us.archive.org",
-  "uniq": 1802114634,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3397385670,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 938399606,
   "workable_servers": [
-    "ia601509.us.archive.org",
-    "ia801509.us.archive.org"
+    "ia601509.us.archive.org"
   ]
 }
