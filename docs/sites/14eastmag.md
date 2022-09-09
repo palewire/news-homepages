@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 252 screenshots with the Internet Archive.
+The archiving routine has saved 254 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-09-09T11:30:10.108891-05:00.jpg">
+  <img src="https://archive.org/download/14eastmag-2022/14eastmag-2022-09-09T11:30:10.108891-05:00.jpg"
+     alt="14 East at 2022-09-09 11:30:18-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-09-09T11:30:10.108891-05:00.jpg">September 9 at 11:30 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-09-09T06:01:46.270779-05:00.jpg">
+  <img src="https://archive.org/download/14eastmag-2022/14eastmag-2022-09-09T06:01:46.270779-05:00.jpg"
+     alt="14 East at 2022-09-09 06:01:48-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-09-09T06:01:46.270779-05:00.jpg">September 9 at 6:01 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-09-08T18:54:41.462073-05:00.jpg">
   <img src="https://archive.org/download/14eastmag-2022/14eastmag-2022-09-08T18:54:41.462073-05:00.jpg"
      alt="14 East at 2022-09-08 18:54:50-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-09-05T05:58:14.853130-05:00.jpg">September 5 at 5:58 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-09-04T17:53:58.726575-05:00.jpg">
-  <img src="https://archive.org/download/14eastmag-2022/14eastmag-2022-09-04T17:53:58.726575-05:00.jpg"
-     alt="14 East at 2022-09-04 17:54:20-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-09-04T17:53:58.726575-05:00.jpg">September 4 at 5:54 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-09-04T11:40:55.909869-05:00.jpg">
-  <img src="https://archive.org/download/14eastmag-2022/14eastmag-2022-09-04T11:40:55.909869-05:00.jpg"
-     alt="14 East at 2022-09-04 11:40:57-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/14eastmag-2022/14eastmag-2022-09-04T11:40:55.909869-05:00.jpg">September 4 at 11:40 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 253 hyperlink lists with the Internet Archive.
+The archiving routine has saved 255 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 9 at 11:30 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-09T11:30:10.108891-05:00.hyperlinks.json) |
+| [September 9 at 6:01 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-09T06:01:46.270779-05:00.hyperlinks.json) |
 | [September 8 at 6:54 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-08T18:54:41.462073-05:00.hyperlinks.json) |
 | [September 8 at 11:31 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-08T11:30:54.801252-05:00.hyperlinks.json) |
 | [September 8 at 5:59 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-08T05:59:39.559746-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 6 at 6:03 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-06T18:03:25.686738-05:00.hyperlinks.json) |
 | [September 6 at 5:53 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-06T05:53:04.475319-05:00.hyperlinks.json) |
 | [September 5 at 5:58 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-05T17:58:05.352952-05:00.hyperlinks.json) |
-| [September 5 at 11:29 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-05T11:29:29.198911-05:00.hyperlinks.json) |
-| [September 5 at 5:58 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-05T05:58:14.853130-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 253 accessibility trees with the Internet Archive.
+The archiving routine has saved 255 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 9 at 11:30 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-09T11:30:10.108891-05:00.accessibility.json) |
+| [September 9 at 6:01 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-09T06:01:46.270779-05:00.accessibility.json) |
 | [September 8 at 6:54 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-08T18:54:41.462073-05:00.accessibility.json) |
 | [September 8 at 11:30 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-08T11:30:54.801252-05:00.accessibility.json) |
 | [September 8 at 5:59 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-08T05:59:39.559746-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 6 at 6:03 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-06T18:03:25.686738-05:00.accessibility.json) |
 | [September 6 at 5:53 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-06T05:53:04.475319-05:00.accessibility.json) |
 | [September 5 at 5:58 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-05T17:58:05.352952-05:00.accessibility.json) |
-| [September 5 at 11:29 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-05T11:29:29.198911-05:00.accessibility.json) |
-| [September 5 at 5:58 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-05T05:58:14.853130-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 139 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 141 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 9 at 11:30 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-09T11:30:10.108891-05:00.lighthouse.json) |
+| [September 9 at 6:01 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-09T06:01:46.270779-05:00.lighthouse.json) |
 | [September 8 at 6:54 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-08T18:54:41.462073-05:00.lighthouse.json) |
 | [September 8 at 11:31 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-08T11:30:54.801252-05:00.lighthouse.json) |
 | [September 8 at 5:59 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-08T05:59:39.559746-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 7:09 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-07T07:09:11.507804-05:00.lighthouse.json) |
 | [September 6 at 6:03 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-06T18:03:25.686738-05:00.lighthouse.json) |
 | [September 6 at 5:53 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-06T05:53:04.475319-05:00.lighthouse.json) |
-| [September 5 at 5:58 PM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-05T17:58:05.352952-05:00.lighthouse.json) |
-| [September 5 at 11:30 AM](https://archive.org/download/14eastmag-2022/14eastmag-2022-09-05T11:29:29.198911-05:00.lighthouse.json) |
 
 
 
