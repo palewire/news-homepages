@@ -1,5 +1,6 @@
 {
-  "created": 1662698820,
+  "conflict": 1662711595,
+  "created": 1662711595,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/10/items/franceinfo-2022",
@@ -16703,10 +16704,21 @@
     "publicdate": "2022-04-09 13:42:09",
     "addeddate": "2022-04-09 13:42:09"
   },
+  "pending_tasks": true,
   "server": "ia902504.us.archive.org",
-  "uniq": 251220654,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3397641638,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1234402933,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia902504.us.archive.org"
   ]
 }
