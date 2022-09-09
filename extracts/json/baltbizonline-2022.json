@@ -1,5 +1,5 @@
 {
-  "created": 1662635008,
+  "created": 1662681518,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/4/items/baltbizonline-2022",
@@ -6558,31 +6558,93 @@
       "sha1": "2c23b576acdb043741108ab27a511178ee0c60dc"
     },
     {
+      "name": "baltbizonline-2022-09-08T19:57:03.021508-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662681431",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-09-08T19:57:03.021508-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662681432",
+      "size": "19938",
+      "md5": "5b8b9d3143e87610071241b41208a649",
+      "crc32": "11ffc1ac",
+      "sha1": "db71459029e758c4ffd533b9d6c27dc023b09b64",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-09-08T19:57:03.021508-04:00.jpg",
+      "source": "original",
+      "mtime": "1662681429",
+      "size": "264356",
+      "md5": "400e9bb594842da642cc8e39d20efaad",
+      "crc32": "1669c21b",
+      "sha1": "2f89e03da1c055fe6daca4d4eee90519f4c1cb59",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltbizonline-2022-09-08T19:57:03.021508-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662681434",
+      "size": "1591",
+      "md5": "83629d7d0e3db4ffb5625af46d740c2c",
+      "crc32": "62d5461a",
+      "sha1": "451e25e1430e2ac115d095f3b328c1e4b538acff",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-09-08T19:57:03.021508-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662681436",
+      "size": "4399",
+      "md5": "1b00c1da334060b29dc061d624e9662e",
+      "crc32": "6f349137",
+      "sha1": "de968e112e404a03f57141f6ae0dcaab8692046c",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-09-08T19:57:03.021508-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltbizonline-2022-09-08T19:57:03.021508-04:00.jpg",
+      "mtime": "1662681496",
+      "size": "8501",
+      "md5": "e42f50b6685d870fdd3fa9e53d4e019b",
+      "crc32": "d2fba224",
+      "sha1": "461d4762777ba33c0d108458ce21ca48b36e4ad8"
+    },
+    {
       "name": "baltbizonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4b4a3356bc0cd23b2e3f1371c22fb6dc4cd2df68",
-      "mtime": "1662634993",
-      "size": "137627",
-      "md5": "a0d5c808eb32a34a44e6926afef8f63d",
-      "crc32": "5070e8d2",
-      "sha1": "0379b06ad5c0d16e4fdde0d80c5b08de912f9137",
+      "btih": "cc9cd78ce4f0bf0940731abb40f24791bc2113f2",
+      "mtime": "1662681503",
+      "size": "138901",
+      "md5": "3d14f1284dd0ab340191e87f1033495d",
+      "crc32": "dc5d0fc5",
+      "sha1": "8ee5cb3b7313e20766ec5cbca02be5a4b099b643",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltbizonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f2c1a20037974abdecbe7b6cf298d70f",
+      "md5": "8e8f7972c0eedc9e9b0020da6c2169a4",
       "summation": "md5"
     },
     {
       "name": "baltbizonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662634934",
-      "size": "811008",
-      "md5": "3ffb4cc00ccb1337cd3d9af586b0a809",
-      "crc32": "0aca1210",
-      "sha1": "2c43f6a1c3e3755d23367f77b724cfb103680860",
+      "mtime": "1662681440",
+      "size": "819200",
+      "md5": "f258eb9af0b371af7eea35d54f2a7367",
+      "crc32": "959091a8",
+      "sha1": "c03d0fa61748f584caf58c376fb2b7b06633d2ef",
       "format": "Metadata"
     },
     {
@@ -6596,9 +6658,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 636,
-  "item_last_updated": 1662634993,
-  "item_size": 51713761,
+  "files_count": 642,
+  "item_last_updated": 1662681503,
+  "item_size": 52022152,
   "metadata": {
     "identifier": "baltbizonline-2022",
     "collection": [
@@ -6615,10 +6677,10 @@
     "publicdate": "2022-07-13 02:24:31",
     "addeddate": "2022-07-13 02:24:31"
   },
-  "server": "ia902506.us.archive.org",
-  "uniq": 2071968698,
+  "server": "ia802506.us.archive.org",
+  "uniq": 478054917,
   "workable_servers": [
-    "ia902506.us.archive.org",
-    "ia802506.us.archive.org"
+    "ia802506.us.archive.org",
+    "ia902506.us.archive.org"
   ]
 }

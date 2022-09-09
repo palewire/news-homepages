@@ -1,10 +1,5 @@
 {
-  "20minutes-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1662639077,
+  "created": 1662681465,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/20/items/20minutes-2022",
@@ -16804,31 +16799,93 @@
       "sha1": "e6e5767d79df42b832c5456594c75e71ab56cae2"
     },
     {
+      "name": "20minutes-2022-09-09T01:54:31.666075+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662681293",
+      "size": "59387",
+      "md5": "8e07508ae4d3e192c965dde2945817ee",
+      "crc32": "2bf2b414",
+      "sha1": "7ae32772307d53086de722dc923917b943f30152",
+      "format": "JSON"
+    },
+    {
+      "name": "20minutes-2022-09-09T01:54:31.666075+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662681294",
+      "size": "88843",
+      "md5": "e53a51115fae93b47f091d14e37ec705",
+      "crc32": "25bd02f0",
+      "sha1": "b3220e0a8506c5ef4aed1ba666fe8f6fa76c8603",
+      "format": "JSON"
+    },
+    {
+      "name": "20minutes-2022-09-09T01:54:31.666075+02:00.jpg",
+      "source": "original",
+      "mtime": "1662681291",
+      "size": "288881",
+      "md5": "0ffd6b0ec1c91f671063ba4e2ecacfe8",
+      "crc32": "7fd72d0f",
+      "sha1": "ea4ee3e8f9dbe61e385a39fd0b692a44e155479f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "20minutes-2022-09-09T01:54:31.666075+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662681296",
+      "size": "1470",
+      "md5": "e5ea872fc024dd624952b3dedea8aa8f",
+      "crc32": "11882197",
+      "sha1": "2b0d21c3ac3c6572a14122359de7efed936c4d11",
+      "format": "JSON"
+    },
+    {
+      "name": "20minutes-2022-09-09T01:54:31.666075+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1662681297",
+      "size": "42105",
+      "md5": "a6196c45706cf7fdedd8f541a5d62663",
+      "crc32": "0104dfd7",
+      "sha1": "1e798717f24f40422cd98b412e804965cbb3d5b6",
+      "format": "JSON"
+    },
+    {
+      "name": "20minutes-2022-09-09T01:54:31.666075+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "20minutes-2022-09-09T01:54:31.666075+02:00.jpg",
+      "mtime": "1662681383",
+      "size": "9684",
+      "md5": "9463ec62e0164ed18e94cbd34abe7db9",
+      "crc32": "bf925bf3",
+      "sha1": "62dc97f3710d06ad9a847143841456c0fbc9367e"
+    },
+    {
       "name": "20minutes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ed57bdee5554870a5e9a5aba644c7dcfeb819954",
-      "mtime": "1662634913",
-      "size": "343231",
-      "md5": "60099eb2ff1ad4b7f18cf202beea5b58",
-      "crc32": "d2f3bcde",
-      "sha1": "735eb2b77fa1f1a8151ff3c7347bb527ce7d54cc",
+      "btih": "bb0f4aac4c320e4f48e0cc1e2d246447bc7366f4",
+      "mtime": "1662681427",
+      "size": "344504",
+      "md5": "15e68d2b612bc1c976ab24f0ab20a92a",
+      "crc32": "075b3160",
+      "sha1": "61fb049d3a161df91af37268f23e535155b22fb2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "20minutes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "648ae0beecbdcccd397f9e0d7bd93a60",
+      "md5": "20669760366e58760cfe663bd306df23",
       "summation": "md5"
     },
     {
       "name": "20minutes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662634809",
-      "size": "1945600",
-      "md5": "eac602889e7d7110ecacebe5dca1a70c",
-      "crc32": "f2836426",
-      "sha1": "5886645653f436df4e415b3547a5305888dfe38c",
+      "mtime": "1662681304",
+      "size": "1953792",
+      "md5": "60040d4df1829726200dad3d7000bff7",
+      "crc32": "712b8953",
+      "sha1": "6d256b36ce1423a33af89bfee5fa21d3124c1f4f",
       "format": "Metadata"
     },
     {
@@ -16853,9 +16910,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 1616,
-  "item_last_updated": 1662634913,
-  "item_size": 149128552,
+  "files_count": 1622,
+  "item_last_updated": 1662681427,
+  "item_size": 149628387,
   "metadata": {
     "identifier": "20minutes-2022",
     "collection": [
@@ -16873,7 +16930,7 @@
     "addeddate": "2022-04-09 13:42:29"
   },
   "server": "ia801509.us.archive.org",
-  "uniq": 789083694,
+  "uniq": 239774028,
   "workable_servers": [
     "ia801509.us.archive.org",
     "ia601509.us.archive.org"
