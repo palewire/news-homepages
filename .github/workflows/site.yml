@@ -2,6 +2,11 @@ name: "Update website"
 
 on:
   workflow_dispatch:
+  workflow_run:
+    workflows:
+      - Archive a single site
+    types:
+      - completed
   schedule:
     - cron: "0 */6 * * *"
 
