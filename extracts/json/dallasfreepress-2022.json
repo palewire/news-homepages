@@ -1,5 +1,5 @@
 {
-  "created": 1662690810,
+  "created": 1662734333,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/15/items/dallasfreepress-2022",
@@ -6804,31 +6804,93 @@
       "sha1": "3bf960260c33da15969610f0648a445e0cfb79a4"
     },
     {
+      "name": "dallasfreepress-2022-09-09T09:37:25.738668-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662734249",
+      "size": "11985",
+      "md5": "bdca8a084f35d74e09b67d33333017b7",
+      "crc32": "943afeef",
+      "sha1": "8b3ffe6f7028cd4b0514d4cdad3dc0f8d6acb1b0",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasfreepress-2022-09-09T09:37:25.738668-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662734251",
+      "size": "5747",
+      "md5": "cacfecf6768c5b45658056a48d76b758",
+      "crc32": "6db109e0",
+      "sha1": "42c7876d0ae38c2a411194fbb669dce03a84c65a",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasfreepress-2022-09-09T09:37:25.738668-05:00.jpg",
+      "source": "original",
+      "mtime": "1662734247",
+      "size": "249932",
+      "md5": "9bf77e0f350d1a215f7532f55eab1a79",
+      "crc32": "1c2b5bac",
+      "sha1": "e67836d36d478a3a354cbbc6e8e4dab92fdc8523",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dallasfreepress-2022-09-09T09:37:25.738668-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662734252",
+      "size": "1495",
+      "md5": "e409a2958c35e611803dd80580a5505c",
+      "crc32": "3e727d5a",
+      "sha1": "73db91c4361fdd9cc229ee0217011c19a77e038d",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasfreepress-2022-09-09T09:37:25.738668-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662734253",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasfreepress-2022-09-09T09:37:25.738668-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dallasfreepress-2022-09-09T09:37:25.738668-05:00.jpg",
+      "mtime": "1662734312",
+      "size": "9149",
+      "md5": "edf48a737850d7da6e880a5442286408",
+      "crc32": "20685a5a",
+      "sha1": "3bf960260c33da15969610f0648a445e0cfb79a4"
+    },
+    {
       "name": "dallasfreepress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "766af6c125826b2562c40589881f5b1c1a5c5b2f",
-      "mtime": "1662690801",
-      "size": "143320",
-      "md5": "f4b3400715659081e6d725ec3c9c0bed",
-      "crc32": "8bbf7822",
-      "sha1": "e412ee6c3588ed77abbc4fefe794a28a5945b630",
+      "btih": "fe27c2543ba79500c1e6b04c126ab1ee0232167f",
+      "mtime": "1662734319",
+      "size": "144626",
+      "md5": "cecae01fe72c0c5d11f55e7b609bcaee",
+      "crc32": "a0485b83",
+      "sha1": "e4a6479d389176b619373d61eb2a3dd8475bd1fc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dallasfreepress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5eabd19fc1d8f06c9f6a68a68f47c742",
+      "md5": "fc04168bc6140837a78a64b33d3d032b",
       "summation": "md5"
     },
     {
       "name": "dallasfreepress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662690745",
-      "size": "831488",
-      "md5": "0ec8f128c67bae69af95def969efd8a6",
-      "crc32": "acea06da",
-      "sha1": "60b894ade16fe44fcf43bc4ff2cf4f2329883a31",
+      "mtime": "1662734258",
+      "size": "843776",
+      "md5": "8f5f3ce8fa06cbda0fdd93353a637d24",
+      "crc32": "11b6b8a1",
+      "sha1": "0afa3e3bb41e08151610928fa536d5bda141b982",
       "format": "Metadata"
     },
     {
@@ -6842,9 +6904,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 659,
-  "item_last_updated": 1662690801,
-  "item_size": 37628218,
+  "files_count": 665,
+  "item_last_updated": 1662734319,
+  "item_size": 37920322,
   "metadata": {
     "identifier": "dallasfreepress-2022",
     "collection": [
@@ -6862,7 +6924,7 @@
     "addeddate": "2022-07-09 03:57:39"
   },
   "server": "ia801408.us.archive.org",
-  "uniq": 1080883188,
+  "uniq": 1267900420,
   "workable_servers": [
     "ia801408.us.archive.org",
     "ia601408.us.archive.org"

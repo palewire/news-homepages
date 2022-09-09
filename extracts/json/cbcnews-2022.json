@@ -1,5 +1,10 @@
 {
-  "created": 1662690698,
+  "cbcnews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1662737271,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/8/items/cbcnews-2022",
@@ -8060,31 +8065,93 @@
       "sha1": "c9223be0118f0d1ed1e47a42a5dcf24b09f5fab6"
     },
     {
+      "name": "cbcnews-2022-09-09T10:34:11.641538-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662734057",
+      "size": "454",
+      "md5": "cd4e3d65524b5a5e3986c1dd29da5843",
+      "crc32": "afc0559b",
+      "sha1": "10ef3241005d3d219e6c8dd9b76a69e686b4488c",
+      "format": "JSON"
+    },
+    {
+      "name": "cbcnews-2022-09-09T10:34:11.641538-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662734059",
+      "size": "24495",
+      "md5": "335d5987b716e2c5f1cc41510208cd4f",
+      "crc32": "fe350b41",
+      "sha1": "e7d5bc577f49157b09aa6022bb8e9c89763ee5ec",
+      "format": "JSON"
+    },
+    {
+      "name": "cbcnews-2022-09-09T10:34:11.641538-04:00.jpg",
+      "source": "original",
+      "mtime": "1662734056",
+      "size": "309343",
+      "md5": "b3588948883f07c9f3c8da2ab1057bf5",
+      "crc32": "0b5bb3c6",
+      "sha1": "f6ce9d7473eb63fc896bcb4254330e58a61d0391",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbcnews-2022-09-09T10:34:11.641538-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662734061",
+      "size": "1456",
+      "md5": "efb4e7c469e9748d2bce33cc63342b65",
+      "crc32": "4eeab55e",
+      "sha1": "a09e2ed3e2769f764957b52d82663d3f916d8485",
+      "format": "JSON"
+    },
+    {
+      "name": "cbcnews-2022-09-09T10:34:11.641538-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662734063",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "cbcnews-2022-09-09T10:34:11.641538-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbcnews-2022-09-09T10:34:11.641538-04:00.jpg",
+      "mtime": "1662734121",
+      "size": "10274",
+      "md5": "82e095950163d6248273f19835c52974",
+      "crc32": "299f079f",
+      "sha1": "05130866407ce38d46f57f56e3dd9a136fad9a21"
+    },
+    {
       "name": "cbcnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d1f751518f4510455b2b3de60fd268af72422f13",
-      "mtime": "1662690688",
-      "size": "163257",
-      "md5": "79075dfa9a13e1c859efe8d01a284cd2",
-      "crc32": "ca3b059a",
-      "sha1": "7ae218a71914eeeb38986a748f42c12f12263232",
+      "btih": "21a4cdc9582e3f1d3dcda65e616edcb475c3f193",
+      "mtime": "1662734128",
+      "size": "164515",
+      "md5": "00acc8541740b58f7e06b8fe55541d3f",
+      "crc32": "80903cd3",
+      "sha1": "87584804244eef793dcde0ded55d719606be9973",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cbcnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e11da5e269c94e3057982ce1588b4f9c",
+      "md5": "d0bdc17685d674540c7f4152559ad122",
       "summation": "md5"
     },
     {
       "name": "cbcnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662690623",
-      "size": "966656",
-      "md5": "d4a55083cd9e1d619347926e4d27d96d",
-      "crc32": "2412e318",
-      "sha1": "e5df7a3d64ddd55716069bce319a66b33dcefbf8",
+      "mtime": "1662734067",
+      "size": "970752",
+      "md5": "75b50a1e3809d9e76aac3ee8117bad6c",
+      "crc32": "4e02d115",
+      "sha1": "3f4475f442eae36aeb7cfbaa22a01902d32343d1",
       "format": "Metadata"
     },
     {
@@ -8098,9 +8165,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 779,
-  "item_last_updated": 1662690688,
-  "item_size": 53412596,
+  "files_count": 785,
+  "item_last_updated": 1662734128,
+  "item_size": 53764174,
   "metadata": {
     "identifier": "cbcnews-2022",
     "collection": [
@@ -8118,7 +8185,7 @@
     "addeddate": "2022-06-30 22:35:35"
   },
   "server": "ia801508.us.archive.org",
-  "uniq": 938114282,
+  "uniq": 1838122692,
   "workable_servers": [
     "ia801508.us.archive.org",
     "ia601508.us.archive.org"

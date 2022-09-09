@@ -1,5 +1,5 @@
 {
-  "created": 1662690710,
+  "created": 1662734166,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/31/items/chunichi_denhen-2022",
@@ -10106,31 +10106,93 @@
       "sha1": "eafc6678df49c14f077eed53f7c85f757ee10af4"
     },
     {
+      "name": "chunichi_denhen-2022-09-09T23:34:21.444007+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662734065",
+      "size": "67701",
+      "md5": "921cd161032cf1bf41bc5c7fcd11e6a3",
+      "crc32": "0a729516",
+      "sha1": "2bf2b358917985ba9f03b2aac1dee6841eb5a9ce",
+      "format": "JSON"
+    },
+    {
+      "name": "chunichi_denhen-2022-09-09T23:34:21.444007+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662734066",
+      "size": "96948",
+      "md5": "2cfb070ca75004e71f498db20b4aad06",
+      "crc32": "d4e3d043",
+      "sha1": "271e0e257222fab26ace2c1f3b4ea404294e51aa",
+      "format": "JSON"
+    },
+    {
+      "name": "chunichi_denhen-2022-09-09T23:34:21.444007+09:00.jpg",
+      "source": "original",
+      "mtime": "1662734063",
+      "size": "306927",
+      "md5": "c16df8e7c4a6a334327d777414c32240",
+      "crc32": "a4f50b81",
+      "sha1": "f3a1fa82a410a0b1bb83c07cfa4fb93658213e98",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chunichi_denhen-2022-09-09T23:34:21.444007+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662734068",
+      "size": "1495",
+      "md5": "908d4a0dbc8ab44adeffece93c418f23",
+      "crc32": "b12d305a",
+      "sha1": "98f4442616eaadb87ea48d50e07cfd80e85d7b46",
+      "format": "JSON"
+    },
+    {
+      "name": "chunichi_denhen-2022-09-09T23:34:21.444007+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1662734069",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "chunichi_denhen-2022-09-09T23:34:21.444007+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chunichi_denhen-2022-09-09T23:34:21.444007+09:00.jpg",
+      "mtime": "1662734145",
+      "size": "10348",
+      "md5": "188e7b1796288083d0d0cff5b0630b9e",
+      "crc32": "6165ff5e",
+      "sha1": "3ece7b1d4841da27587a5a635f70b9dd202a6265"
+    },
+    {
       "name": "chunichi_denhen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6c4ecf5caac647388827eab5f1bd9b07965db11b",
-      "mtime": "1662690700",
-      "size": "213841",
-      "md5": "8882eca59a4c5d0b4bcea627556e582a",
-      "crc32": "7c159905",
-      "sha1": "1a83b90afd673eaee24d1d9bd8d64e3d2593d210",
+      "btih": "cd4205c044bc67cd03ecebb5be97c715d70c7473",
+      "mtime": "1662734155",
+      "size": "215149",
+      "md5": "032f52a8907db3439b9a70737f6c9053",
+      "crc32": "d9f89822",
+      "sha1": "18575e74e74f43aa32d5a137426d9f8310ec2f0a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chunichi_denhen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "77f2a0d569f9eb83278fbd9749706cca",
+      "md5": "36ebf7865da6524948de5cedb853db1f",
       "summation": "md5"
     },
     {
       "name": "chunichi_denhen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662690632",
-      "size": "1228800",
-      "md5": "7ac9e3e53e3a1439eba5e4ba75f1b3ea",
-      "crc32": "444b4ca4",
-      "sha1": "66eb1ecf790cd34b061026694f79d67d95047f30",
+      "mtime": "1662734076",
+      "size": "1232896",
+      "md5": "0e8cf82697b5309553b3fe6a103fbe7d",
+      "crc32": "fc60dd9c",
+      "sha1": "36fe0318153abc35bec58c0636e2121448975017",
       "format": "Metadata"
     },
     {
@@ -10144,9 +10206,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 977,
-  "item_last_updated": 1662690700,
-  "item_size": 90387334,
+  "files_count": 983,
+  "item_last_updated": 1662734155,
+  "item_size": 90876359,
   "metadata": {
     "identifier": "chunichi_denhen-2022",
     "collection": [
@@ -10164,7 +10226,7 @@
     "addeddate": "2022-07-09 02:39:14"
   },
   "server": "ia601509.us.archive.org",
-  "uniq": 1790604520,
+  "uniq": 1725259726,
   "workable_servers": [
     "ia601509.us.archive.org",
     "ia801509.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1662690689,
+  "created": 1662734155,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/30/items/billy_penn-2022",
@@ -7776,31 +7776,93 @@
       "sha1": "d5f652967cf8eb6fc146c4847e606e352dd47732"
     },
     {
+      "name": "billy_penn-2022-09-09T10:34:28.097092-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662734071",
+      "size": "27683",
+      "md5": "7a1b1d9f7a031f4e496438a7bf0acb79",
+      "crc32": "b1ea7e1f",
+      "sha1": "16417e8214a847561b699114e38c5e112751af25",
+      "format": "JSON"
+    },
+    {
+      "name": "billy_penn-2022-09-09T10:34:28.097092-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662734073",
+      "size": "28890",
+      "md5": "bd4f24e1026fc45b3d11fffd8f198b9f",
+      "crc32": "19cacdb4",
+      "sha1": "f5498f4cf7e2f90bcf8663a9ef9fe9a17b828b5a",
+      "format": "JSON"
+    },
+    {
+      "name": "billy_penn-2022-09-09T10:34:28.097092-04:00.jpg",
+      "source": "original",
+      "mtime": "1662734069",
+      "size": "313032",
+      "md5": "391382e03c627eda86c31dd2e9687d5e",
+      "crc32": "1a6eb266",
+      "sha1": "7098ee949ff209ecb45df837a2b4a8df693b1a3c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "billy_penn-2022-09-09T10:34:28.097092-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662734074",
+      "size": "1449",
+      "md5": "81692d96281713166cefbcb0aa5f8aa2",
+      "crc32": "67116b97",
+      "sha1": "022a44b89d649cbf50321a50780b119c4b8ef499",
+      "format": "JSON"
+    },
+    {
+      "name": "billy_penn-2022-09-09T10:34:28.097092-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662734076",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "billy_penn-2022-09-09T10:34:28.097092-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "billy_penn-2022-09-09T10:34:28.097092-04:00.jpg",
+      "mtime": "1662734134",
+      "size": "10086",
+      "md5": "da788a48cbdce7ec57ba409d016c5476",
+      "crc32": "4310ebeb",
+      "sha1": "449837136628194ab5e11f31c83f4ada9364521e"
+    },
+    {
       "name": "billy_penn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fc121d7bb8e7806b6f86497e69905730781a8292",
-      "mtime": "1662690678",
-      "size": "160524",
-      "md5": "d65b4f8e2eb48b3519313aa119bc23cb",
-      "crc32": "e902a191",
-      "sha1": "e7dffdce0406dd029a79a699a0f34a1e2bfb6c2c",
+      "btih": "04dfb0de028c934c0623417dbed79146867fc0fd",
+      "mtime": "1662734142",
+      "size": "161802",
+      "md5": "1562c89150506537617e7fe9eac07e1b",
+      "crc32": "f372724b",
+      "sha1": "eb6e4a825992cb15ebb3495a3459d97ab2ecabfd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "billy_penn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6ee75a9a246a8d211bcd62434142904a",
+      "md5": "2088958775b0833b93f406097d501a1b",
       "summation": "md5"
     },
     {
       "name": "billy_penn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662690616",
-      "size": "937984",
-      "md5": "42de62dd10a7f79835651680333855ef",
-      "crc32": "8aa4ccce",
-      "sha1": "497c6e9ab72302a17e9cb358a3db06e29091ffd0",
+      "mtime": "1662734080",
+      "size": "946176",
+      "md5": "b8a105b82d14fe34ac5d06ace793b8ac",
+      "crc32": "e4ba7b0c",
+      "sha1": "e00dd40e758c1a3a4a08c5f03db712558f97b5ed",
       "format": "Metadata"
     },
     {
@@ -7814,9 +7876,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 752,
-  "item_last_updated": 1662690678,
-  "item_size": 59074175,
+  "files_count": 758,
+  "item_last_updated": 1662734142,
+  "item_size": 59464987,
   "metadata": {
     "identifier": "billy_penn-2022",
     "collection": [
@@ -7833,10 +7895,10 @@
     "publicdate": "2022-07-03 15:52:45",
     "addeddate": "2022-07-03 15:52:45"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 557344885,
+  "server": "ia601506.us.archive.org",
+  "uniq": 282311099,
   "workable_servers": [
-    "ia801506.us.archive.org",
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

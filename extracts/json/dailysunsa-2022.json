@@ -1,5 +1,5 @@
 {
-  "created": 1662690797,
+  "created": 1662734272,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/21/items/dailysunsa-2022",
@@ -2062,31 +2062,83 @@
       "sha1": "333039447720ad4de2847db25904c94fd34e8dee"
     },
     {
+      "name": "dailysunsa-2022-09-09T16:36:52.017254+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662734216",
+      "size": "24604",
+      "md5": "5af72dbcf0afd2d3fb432e9326074b81",
+      "crc32": "0b564107",
+      "sha1": "df4b212fa59085040db0ae01671fb654d0d47451",
+      "format": "JSON"
+    },
+    {
+      "name": "dailysunsa-2022-09-09T16:36:52.017254+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662734218",
+      "size": "59040",
+      "md5": "d3b6a9f05cfc9636e074c081c13d4c9b",
+      "crc32": "58998538",
+      "sha1": "ae24655798f82282b7c4fac8636eb7741ebc6ccf",
+      "format": "JSON"
+    },
+    {
+      "name": "dailysunsa-2022-09-09T16:36:52.017254+02:00.jpg",
+      "source": "original",
+      "mtime": "1662734214",
+      "size": "260163",
+      "md5": "83ef9e0d7dcbd8a0efd6efa90124c0ff",
+      "crc32": "7639232d",
+      "sha1": "50b9e73aaf0dd84ca7f1cb9584baa482bd9318ca",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailysunsa-2022-09-09T16:36:52.017254+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662734219",
+      "size": "1480",
+      "md5": "d33023a97c0f689451fc3292f9037e15",
+      "crc32": "bc61c0c4",
+      "sha1": "a99eeaa900a1b227c4dc5c31ccb761bc8d252337",
+      "format": "JSON"
+    },
+    {
+      "name": "dailysunsa-2022-09-09T16:36:52.017254+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailysunsa-2022-09-09T16:36:52.017254+02:00.jpg",
+      "mtime": "1662734263",
+      "size": "10058",
+      "md5": "bf827418345e198b7b92563001b2e079",
+      "crc32": "adf4c50f",
+      "sha1": "153d2c96b302d06145e82fc2d1277e0c030f1980"
+    },
+    {
       "name": "dailysunsa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ddcf6e32235f7a1ef2d5975c9510a2cd0425b045",
-      "mtime": "1662690790",
-      "size": "43662",
-      "md5": "454c8c7e614515249e55a45701d3ec0c",
-      "crc32": "e11550e3",
-      "sha1": "6ffc5b5870f81b1ed0396ca0bbdfbbb6b2c9e6ce",
+      "btih": "66ab24a2da36b088d40f5dd6ba6d437374bc0d67",
+      "mtime": "1662734267",
+      "size": "44732",
+      "md5": "b9651fa548dab622f44382831426e0f4",
+      "crc32": "8711e66d",
+      "sha1": "0e2703d8d2ef0459245bc3cbb3babddd9b9ecf61",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailysunsa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8574c809586318ed135985a0da1ffee3",
+      "md5": "39cd33b717900beff368998f032f1ef0",
       "summation": "md5"
     },
     {
       "name": "dailysunsa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662690746",
-      "size": "274432",
-      "md5": "63e72ac7be0ddeb9553695b22ff6af4c",
-      "crc32": "e49a459b",
-      "sha1": "da84ac7900dbc02a2a2e8f8b01b83dcf5e320786",
+      "mtime": "1662734223",
+      "size": "282624",
+      "md5": "0e3d8d7e0556c899ae59802ac4111124",
+      "crc32": "875793e6",
+      "sha1": "b6ad10f4ae12617e3455e73ec939698440afb8c2",
       "format": "Metadata"
     },
     {
@@ -2100,9 +2152,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 203,
-  "item_last_updated": 1662690790,
-  "item_size": 12972198,
+  "files_count": 208,
+  "item_last_updated": 1662734267,
+  "item_size": 13336805,
   "metadata": {
     "identifier": "dailysunsa-2022",
     "collection": [
@@ -2119,10 +2171,10 @@
     "publicdate": "2022-08-23 02:24:31",
     "addeddate": "2022-08-23 02:24:31"
   },
-  "server": "ia601508.us.archive.org",
-  "uniq": 626119047,
+  "server": "ia801508.us.archive.org",
+  "uniq": 1625598189,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia801508.us.archive.org",
+    "ia601508.us.archive.org"
   ]
 }

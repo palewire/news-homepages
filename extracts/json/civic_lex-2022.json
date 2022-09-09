@@ -1,5 +1,5 @@
 {
-  "created": 1662690711,
+  "created": 1662734151,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/6/items/civic_lex-2022",
@@ -6946,31 +6946,93 @@
       "sha1": "1051b8ea59e96cb78e94a09cb176a88ac363751d"
     },
     {
+      "name": "civic_lex-2022-09-09T10:34:20.350479-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662734068",
+      "size": "19229",
+      "md5": "7f6634ec3bda57fd65ea3fd91ef51540",
+      "crc32": "89a56c8e",
+      "sha1": "2b87510d046331eb1c7f5aa9215d69643b8e19f0",
+      "format": "JSON"
+    },
+    {
+      "name": "civic_lex-2022-09-09T10:34:20.350479-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662734069",
+      "size": "13468",
+      "md5": "57451b027ba3b91b9bc89ef65fd8237b",
+      "crc32": "437efcdd",
+      "sha1": "86a618748539bc4557f5b922e121693cde8afa0f",
+      "format": "JSON"
+    },
+    {
+      "name": "civic_lex-2022-09-09T10:34:20.350479-04:00.jpg",
+      "source": "original",
+      "mtime": "1662734065",
+      "size": "165865",
+      "md5": "0b693944d0696ba10e5a185d4a0c2e6f",
+      "crc32": "6ba4ca00",
+      "sha1": "9a95b7bd21543dd275be85f59e808a86baff7b36",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "civic_lex-2022-09-09T10:34:20.350479-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662734071",
+      "size": "1477",
+      "md5": "b02510ff9a8d4439857ecd15745ef964",
+      "crc32": "32459737",
+      "sha1": "55a917084239a7a2427364216e0d0d57d5824b61",
+      "format": "JSON"
+    },
+    {
+      "name": "civic_lex-2022-09-09T10:34:20.350479-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662734072",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "civic_lex-2022-09-09T10:34:20.350479-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "civic_lex-2022-09-09T10:34:20.350479-04:00.jpg",
+      "mtime": "1662734132",
+      "size": "8808",
+      "md5": "d16fdb2db5d15c912adf73bc851c87dc",
+      "crc32": "803f4868",
+      "sha1": "1051b8ea59e96cb78e94a09cb176a88ac363751d"
+    },
+    {
       "name": "civic_lex-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b7f22348f292b67563534451849abd486cfb7782",
-      "mtime": "1662690703",
-      "size": "141839",
-      "md5": "2fef937cf3b79ce31ef845f1b3d3e4cb",
-      "crc32": "222b09f9",
-      "sha1": "4a2b0953986d73a2ce4071926bc5d87468406f5a",
+      "btih": "9f3a628073fff4334d844d9d1e484d590df005b8",
+      "mtime": "1662734138",
+      "size": "143111",
+      "md5": "24be401f075d89814ce2c041456073f7",
+      "crc32": "16bb62de",
+      "sha1": "f6f2f93103afd9832c3dd8005d59b9cb509b6623",
       "format": "Archive BitTorrent"
     },
     {
       "name": "civic_lex-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aab55520264a4d5fb0a563205054f10a",
+      "md5": "99c534c8619ec460afa0c35f327018d7",
       "summation": "md5"
     },
     {
       "name": "civic_lex-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662690642",
-      "size": "847872",
-      "md5": "f4b7112961431f8548f6898fcc18e40a",
-      "crc32": "5e8fc8a7",
-      "sha1": "6d5fa01a646c2bdaaf109292a76cab9ec007ac77",
+      "mtime": "1662734076",
+      "size": "856064",
+      "md5": "adb725a2beb48765469df070e1683043",
+      "crc32": "26d830de",
+      "sha1": "94fc6dd2c5555ad8989871eb088ef48be1ee5d4b",
       "format": "Metadata"
     },
     {
@@ -6984,9 +7046,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 673,
-  "item_last_updated": 1662690703,
-  "item_size": 25789365,
+  "files_count": 679,
+  "item_last_updated": 1662734138,
+  "item_size": 26007878,
   "metadata": {
     "identifier": "civic_lex-2022",
     "collection": [
@@ -7004,7 +7066,7 @@
     "addeddate": "2022-07-09 03:57:14"
   },
   "server": "ia601507.us.archive.org",
-  "uniq": 1750583162,
+  "uniq": 581867002,
   "workable_servers": [
     "ia601507.us.archive.org",
     "ia801507.us.archive.org"
