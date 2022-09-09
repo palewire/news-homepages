@@ -1,5 +1,5 @@
 {
-  "created": 1662699825,
+  "created": 1662741691,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/28/items/zeitonline-2022",
@@ -5354,31 +5354,93 @@
       "sha1": "a4587cae121219789c0c6e1922e8834a3e06d21d"
     },
     {
+      "name": "zeitonline-2022-09-09T18:39:26.390919+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662741572",
+      "size": "3862",
+      "md5": "58155f4cb5a06561409ebe1c2152a828",
+      "crc32": "fcf457de",
+      "sha1": "a4f2e046fcda71a98bb0516e812427ab68a50802",
+      "format": "JSON"
+    },
+    {
+      "name": "zeitonline-2022-09-09T18:39:26.390919+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662741574",
+      "size": "1356",
+      "md5": "8599be210934a7f2e79545a91ea8097e",
+      "crc32": "d5b86723",
+      "sha1": "c4d55c33d771d4abbfd0fafe72b1aa9fcfac41ff",
+      "format": "JSON"
+    },
+    {
+      "name": "zeitonline-2022-09-09T18:39:26.390919+02:00.jpg",
+      "source": "original",
+      "mtime": "1662741570",
+      "size": "115118",
+      "md5": "f284b7000c5ebb224f951ab9cf122d0d",
+      "crc32": "0d175a47",
+      "sha1": "83ccdb32900d16f4e25ad778d9adcdfdd3d1f108",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zeitonline-2022-09-09T18:39:26.390919+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662741575",
+      "size": "1477",
+      "md5": "36cf8a7164642d24947da1b04ab5960a",
+      "crc32": "9df3e5ae",
+      "sha1": "d66d966965cd06c63b66a5e5f076fa746a1b4c79",
+      "format": "JSON"
+    },
+    {
+      "name": "zeitonline-2022-09-09T18:39:26.390919+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1662741577",
+      "size": "368",
+      "md5": "5b67a6e7e14206677eea02bfb0b45928",
+      "crc32": "783f462c",
+      "sha1": "2f574811e93d24b046097e0b96d76232624fc064",
+      "format": "JSON"
+    },
+    {
+      "name": "zeitonline-2022-09-09T18:39:26.390919+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "zeitonline-2022-09-09T18:39:26.390919+02:00.jpg",
+      "mtime": "1662741626",
+      "size": "7318",
+      "md5": "6784da5c25d7cd23aebf5d8b2a7f8b31",
+      "crc32": "c14cb7f7",
+      "sha1": "a4587cae121219789c0c6e1922e8834a3e06d21d"
+    },
+    {
       "name": "zeitonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1e506e1eab119fe34792835e3c38c6f5148f0b74",
-      "mtime": "1662699819",
-      "size": "110123",
-      "md5": "c08e38eede2b9232b3aeb27360246620",
-      "crc32": "ec816402",
-      "sha1": "08212b066551f992e3bf43a352be3d2b2788382e",
+      "btih": "4034197c1316b354df18c862628d01ec679f2bde",
+      "mtime": "1662741631",
+      "size": "111398",
+      "md5": "b7d020a97cdff5c796502eb27b856be5",
+      "crc32": "8339bf08",
+      "sha1": "d3ce488c48f867d4a7fb807e47c816a2dee8ffeb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "zeitonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b6f9513e64abac667067600d8ba5c29a",
+      "md5": "72e3d62a1930cd5c006373ecf2ed1830",
       "summation": "md5"
     },
     {
       "name": "zeitonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662699768",
-      "size": "675840",
-      "md5": "824c138125953c1bd8858d299bab6ac1",
-      "crc32": "2037a9ce",
-      "sha1": "c8ca983ba3d918787e2a6aa18d5285d18a73113f",
+      "mtime": "1662741581",
+      "size": "679936",
+      "md5": "6d729065dbd4a3f61d5c45529b615c84",
+      "crc32": "74673c35",
+      "sha1": "18e539bbd5e37d0b6b8c019587112afc77e59e23",
       "format": "Metadata"
     },
     {
@@ -5392,9 +5454,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 521,
-  "item_last_updated": 1662699819,
-  "item_size": 12576863,
+  "files_count": 527,
+  "item_last_updated": 1662741631,
+  "item_size": 12711733,
   "metadata": {
     "identifier": "zeitonline-2022",
     "collection": [
@@ -5411,10 +5473,10 @@
     "publicdate": "2022-07-26 04:02:52",
     "addeddate": "2022-07-26 04:02:52"
   },
-  "server": "ia601408.us.archive.org",
-  "uniq": 1478964169,
+  "server": "ia801408.us.archive.org",
+  "uniq": 362416598,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia801408.us.archive.org",
+    "ia601408.us.archive.org"
   ]
 }

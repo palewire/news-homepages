@@ -1,5 +1,5 @@
 {
-  "created": 1662699310,
+  "created": 1662741240,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/22/items/prisonjourn-2022",
@@ -1680,31 +1680,93 @@
       "sha1": "83e6c1309dc427798b04d6b3f6bba544e38ca1a5"
     },
     {
+      "name": "prisonjourn-2022-09-09T11:32:48.303585-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662741173",
+      "size": "17530",
+      "md5": "32c2156e94383b3638ffcd13ac25f91f",
+      "crc32": "04f61783",
+      "sha1": "f8639cd627c6ecd76d0e434d1e09572a46c1223d",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-09-09T11:32:48.303585-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662741175",
+      "size": "27418",
+      "md5": "37fccb5c59286ad56a207fd89f286843",
+      "crc32": "cc4676cb",
+      "sha1": "206fafcde625a76d7b3acaa081a18ea6d9c006d8",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-09-09T11:32:48.303585-05:00.jpg",
+      "source": "original",
+      "mtime": "1662741171",
+      "size": "210318",
+      "md5": "061a27e5ec7af426b8c7519f8f2e5839",
+      "crc32": "4cdb6753",
+      "sha1": "b1afe6f60eb0abc1de4a146cbba7dd91c1d56370",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "prisonjourn-2022-09-09T11:32:48.303585-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662741177",
+      "size": "1565",
+      "md5": "c34dde1ed53c59015c00fa567e1c5cc2",
+      "crc32": "3d32d6a2",
+      "sha1": "96539d9c90601f6dd56233943da6b9557b4b547e",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-09-09T11:32:48.303585-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662741178",
+      "size": "18632",
+      "md5": "0b90226c4bb7f059f4e19a5cfe970760",
+      "crc32": "0bfb7b3e",
+      "sha1": "63a4367838fcd81e0299bd8aa9f24f4f10f7322f",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-09-09T11:32:48.303585-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "prisonjourn-2022-09-09T11:32:48.303585-05:00.jpg",
+      "mtime": "1662741227",
+      "size": "9412",
+      "md5": "d9c9ca005c01d06e61d7f00b83fc18d9",
+      "crc32": "0443de8a",
+      "sha1": "cc4eed463d50e092d479beadca9cfebfe5dcab48"
+    },
+    {
       "name": "prisonjourn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a15a38bdf9c236f557660d92af842b95b3f0cc7e",
-      "mtime": "1662699301",
-      "size": "35934",
-      "md5": "a4b3a32e024674228a83ba6430269586",
-      "crc32": "82fbc748",
-      "sha1": "3b5cd2ab43430ed051f0d867dcde6263df9ea0c0",
+      "btih": "a22aa0d64dce95f913489fcc5298d14358a9c5d6",
+      "mtime": "1662741230",
+      "size": "37199",
+      "md5": "08cfef81badb2bd5eac99d92b284146d",
+      "crc32": "92625614",
+      "sha1": "83dbf7fd942ed029720d463c3e1789dc02ab0c1b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "prisonjourn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f9257e8303f5f4d8fe221c9d7ad5c5ca",
+      "md5": "3292212f6d0ae814ed3c5020d2597160",
       "summation": "md5"
     },
     {
       "name": "prisonjourn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662699255",
-      "size": "229376",
-      "md5": "130b2ead17a178290bd1ea5953688900",
-      "crc32": "815b0cca",
-      "sha1": "e6bde68db4a6f1c544f946ff21decfa9efb9b4f1",
+      "mtime": "1662741183",
+      "size": "237568",
+      "md5": "b50666f0fdc3d513af4fa1653c81ef51",
+      "crc32": "f78d47c0",
+      "sha1": "d1a150585435108dbf87561aae28971f447ad11b",
       "format": "Metadata"
     },
     {
@@ -1718,9 +1780,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 166,
-  "item_last_updated": 1662699301,
-  "item_size": 9096681,
+  "files_count": 172,
+  "item_last_updated": 1662741230,
+  "item_size": 9391013,
   "metadata": {
     "identifier": "prisonjourn-2022",
     "collection": [
@@ -1738,7 +1800,7 @@
     "addeddate": "2022-08-26 16:04:20"
   },
   "server": "ia601505.us.archive.org",
-  "uniq": 1100151969,
+  "uniq": 446255062,
   "workable_servers": [
     "ia601505.us.archive.org",
     "ia801505.us.archive.org"

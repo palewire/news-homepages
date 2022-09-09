@@ -1,5 +1,5 @@
 {
-  "created": 1662699678,
+  "created": 1662741545,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/24/items/torrentfreak-2022",
@@ -5458,31 +5458,93 @@
       "sha1": "5eeec272dc9bf1af7f9928684fa860ab1b038d47"
     },
     {
+      "name": "torrentfreak-2022-09-09T09:37:43.307792-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662741471",
+      "size": "6951",
+      "md5": "33ef2cad80ae1850463271fcbae60c9b",
+      "crc32": "c4e256fe",
+      "sha1": "9e91ae4953233f196adc370f50da5d0553894193",
+      "format": "JSON"
+    },
+    {
+      "name": "torrentfreak-2022-09-09T09:37:43.307792-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662741473",
+      "size": "8457",
+      "md5": "ce772d8ffe9ee2e8efc838f7779f3d7b",
+      "crc32": "f1f1f558",
+      "sha1": "25883b869348f7493eefa62c427dcb2c449b481e",
+      "format": "JSON"
+    },
+    {
+      "name": "torrentfreak-2022-09-09T09:37:43.307792-07:00.jpg",
+      "source": "original",
+      "mtime": "1662741468",
+      "size": "262595",
+      "md5": "411ebce8d35a2e90055b9fb37130c39e",
+      "crc32": "cbdd905f",
+      "sha1": "45b3a0495282ab621594181d7a71a6558dffab3a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "torrentfreak-2022-09-09T09:37:43.307792-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662741475",
+      "size": "1468",
+      "md5": "290bc13036ad47c4de23863ce033c28f",
+      "crc32": "b0c41a71",
+      "sha1": "0ceca17fdd0a72b2d79ffb3ea77cd8df602e3b05",
+      "format": "JSON"
+    },
+    {
+      "name": "torrentfreak-2022-09-09T09:37:43.307792-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662741476",
+      "size": "6029",
+      "md5": "1206ca53e46026e3d0b7b0612b450c31",
+      "crc32": "5c6920c0",
+      "sha1": "c193c8aa265fcb6dcf995fcfad9d0097d336e250",
+      "format": "JSON"
+    },
+    {
+      "name": "torrentfreak-2022-09-09T09:37:43.307792-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "torrentfreak-2022-09-09T09:37:43.307792-07:00.jpg",
+      "mtime": "1662741532",
+      "size": "9812",
+      "md5": "e39eb9f44b134b12bb66c82a025e3627",
+      "crc32": "05c02a75",
+      "sha1": "049dabb7e64be7ecbccb38057f7ebb2cab055bac"
+    },
+    {
       "name": "torrentfreak-2022_archive.torrent",
       "source": "metadata",
-      "btih": "256723863caa4c0c1e0978d227be4caafec3d0a4",
-      "mtime": "1662699662",
-      "size": "113869",
-      "md5": "b0d94c5b4161e5de3ab459bdd10133e6",
-      "crc32": "8be1ff4a",
-      "sha1": "4a4ddec1e8b717d46d9057e75e26bb1576c671fa",
+      "btih": "fc11e0ea22f545b39b73aef0284a182f7f20337a",
+      "mtime": "1662741537",
+      "size": "115157",
+      "md5": "546aeca58bb826b41830f71cfd6b6251",
+      "crc32": "58ded722",
+      "sha1": "1075cecb2d4ca990efa6babf4cbf57c78f8039a7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "torrentfreak-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fe86002e338333e4c0dd32f351a3c249",
+      "md5": "aeec4858315163eaa6ec9b8ba3239e87",
       "summation": "md5"
     },
     {
       "name": "torrentfreak-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662699608",
-      "size": "684032",
-      "md5": "7f8ed1da5eb6baa1c014ab302d1db8d0",
-      "crc32": "1a743511",
-      "sha1": "f9b38be216b6698206d3158bb05473ca5db9aec5",
+      "mtime": "1662741482",
+      "size": "692224",
+      "md5": "38293880ac394d29654ac510e9377741",
+      "crc32": "36ae69dc",
+      "sha1": "00f2c6929b68aec2e16dac9ca1b0164df9e2a54c",
       "format": "Metadata"
     },
     {
@@ -5496,9 +5558,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 531,
-  "item_last_updated": 1662699662,
-  "item_size": 27749918,
+  "files_count": 537,
+  "item_last_updated": 1662741537,
+  "item_size": 28054710,
   "metadata": {
     "identifier": "torrentfreak-2022",
     "collection": [
@@ -5515,10 +5577,10 @@
     "publicdate": "2022-07-25 06:46:58",
     "addeddate": "2022-07-25 06:46:58"
   },
-  "server": "ia801504.us.archive.org",
-  "uniq": 320268625,
+  "server": "ia601504.us.archive.org",
+  "uniq": 1188086381,
   "workable_servers": [
-    "ia801504.us.archive.org",
-    "ia601504.us.archive.org"
+    "ia601504.us.archive.org",
+    "ia801504.us.archive.org"
   ]
 }

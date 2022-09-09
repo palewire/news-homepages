@@ -1,5 +1,5 @@
 {
-  "created": 1662699647,
+  "created": 1662741484,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/5/items/thehilltimes-2022",
@@ -8238,31 +8238,93 @@
       "sha1": "ec1c786fca2ffd224371959b6c4e8197a01f9e6c"
     },
     {
+      "name": "thehilltimes-2022-09-09T12:36:38.979580-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662741401",
+      "size": "77856",
+      "md5": "d2f67b29432a564f8f7872cb1f524e19",
+      "crc32": "b3d315f8",
+      "sha1": "737dbab7c8cfaaac0e297e1e59cbd1041989b398",
+      "format": "JSON"
+    },
+    {
+      "name": "thehilltimes-2022-09-09T12:36:38.979580-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662741403",
+      "size": "60923",
+      "md5": "cc00a1b50edc8a768887710252b6d5db",
+      "crc32": "c86a1a93",
+      "sha1": "c64a0c63494561025d7af07023759bcdcd21f974",
+      "format": "JSON"
+    },
+    {
+      "name": "thehilltimes-2022-09-09T12:36:38.979580-04:00.jpg",
+      "source": "original",
+      "mtime": "1662741400",
+      "size": "420782",
+      "md5": "61de68c1dd8708f97d414ca251de7499",
+      "crc32": "83391210",
+      "sha1": "75f472d67d978c7e01b8ac7a4f500c668f9d7bd6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thehilltimes-2022-09-09T12:36:38.979580-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662741404",
+      "size": "1485",
+      "md5": "1411e04db6451d04fc0c7b084c222079",
+      "crc32": "7552b275",
+      "sha1": "79df8b3cc628a6eb8f236a8d30e1e742283e2bb5",
+      "format": "JSON"
+    },
+    {
+      "name": "thehilltimes-2022-09-09T12:36:38.979580-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662741406",
+      "size": "38966",
+      "md5": "65c8228a16f78c6478ef0b738628374a",
+      "crc32": "8a03647e",
+      "sha1": "6cd8c5eb54e28823e39205667a093640f65be03d",
+      "format": "JSON"
+    },
+    {
+      "name": "thehilltimes-2022-09-09T12:36:38.979580-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thehilltimes-2022-09-09T12:36:38.979580-04:00.jpg",
+      "mtime": "1662741468",
+      "size": "11028",
+      "md5": "742b9bd8538253fd5ba16f92a100bf46",
+      "crc32": "3add76dd",
+      "sha1": "307d4a765282087d43716aa8d4f727314cc36ba1"
+    },
+    {
       "name": "thehilltimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7e3a643dd122f8f35c21e99c3249747eab17bc28",
-      "mtime": "1662699611",
-      "size": "172636",
-      "md5": "232e91b34d9e03e4f30a7c4bcbd47581",
-      "crc32": "a00656ca",
-      "sha1": "8e6e635a1094a98601b27b5ae5809676b8a2fcd6",
+      "btih": "5dd138eac637c7da59381372005356c7e974941d",
+      "mtime": "1662741475",
+      "size": "173948",
+      "md5": "8705962df312c1812680e1b66beedfd1",
+      "crc32": "9a175855",
+      "sha1": "d12d0db5dae1882b51a12a4ad2155223e934fdd0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thehilltimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "736b26059bf9576d647f6d4e8ec685bb",
+      "md5": "ea3e53b2346b1b18ca25f7b7b66ea361",
       "summation": "md5"
     },
     {
       "name": "thehilltimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662699544",
-      "size": "991232",
-      "md5": "ab66e2f5bc257a3cfeddbc60644489db",
-      "crc32": "3d4f3788",
-      "sha1": "f75907bc1bbe0f05705a0225ee15a8edfcb088fa",
+      "mtime": "1662741411",
+      "size": "999424",
+      "md5": "e4ac01cf2b8ba8d990cb273e988a8178",
+      "crc32": "db4a9b26",
+      "sha1": "f36b906a331a0e44f1c285f23856fae464df5895",
       "format": "Metadata"
     },
     {
@@ -8276,9 +8338,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 796,
-  "item_last_updated": 1662699611,
-  "item_size": 91306115,
+  "files_count": 802,
+  "item_last_updated": 1662741475,
+  "item_size": 91926659,
   "metadata": {
     "identifier": "thehilltimes-2022",
     "collection": [
@@ -8295,10 +8357,10 @@
     "publicdate": "2022-06-30 22:36:14",
     "addeddate": "2022-06-30 22:36:14"
   },
-  "server": "ia801407.us.archive.org",
-  "uniq": 1808628678,
+  "server": "ia601407.us.archive.org",
+  "uniq": 1099268970,
   "workable_servers": [
-    "ia801407.us.archive.org",
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }
