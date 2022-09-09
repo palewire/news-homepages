@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 189 screenshots with the Internet Archive.
+The archiving routine has saved 190 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 189 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bklyner-2022/bklyner-2022-09-09T10:34:10.762132-04:00.jpg">
+  <img src="https://archive.org/download/bklyner-2022/bklyner-2022-09-09T10:34:10.762132-04:00.jpg"
+     alt="Bklyner at 2022-09-09 10:34:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-09-09T10:34:10.762132-04:00.jpg">September 9 at 10:34 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bklyner-2022/bklyner-2022-09-08T22:30:52.105862-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-09-03T10:53:31.601136-04:00.jpg">September 3 at 10:53 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bklyner-2022/bklyner-2022-09-02T22:27:31.923441-04:00.jpg">
-  <img src="https://archive.org/download/bklyner-2022/bklyner-2022-09-02T22:27:31.923441-04:00.jpg"
-     alt="Bklyner at 2022-09-02 22:27:33-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-09-02T22:27:31.923441-04:00.jpg">September 2 at 10:27 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 192 hyperlink lists with the Internet Archive.
+The archiving routine has saved 193 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 9 at 10:34 AM](https://archive.org/download/bklyner-2022/bklyner-2022-09-09T10:34:10.762132-04:00.hyperlinks.json) |
 | [September 8 at 10:30 PM](https://archive.org/download/bklyner-2022/bklyner-2022-09-08T22:30:52.105862-04:00.hyperlinks.json) |
 | [September 8 at 10:25 AM](https://archive.org/download/bklyner-2022/bklyner-2022-09-08T10:25:18.626212-04:00.hyperlinks.json) |
 | [September 7 at 10:34 PM](https://archive.org/download/bklyner-2022/bklyner-2022-09-07T22:33:53.444591-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 5 at 10:23 AM](https://archive.org/download/bklyner-2022/bklyner-2022-09-05T10:23:46.522547-04:00.hyperlinks.json) |
 | [September 4 at 10:29 PM](https://archive.org/download/bklyner-2022/bklyner-2022-09-04T22:29:33.350734-04:00.hyperlinks.json) |
 | [September 4 at 10:17 AM](https://archive.org/download/bklyner-2022/bklyner-2022-09-04T10:17:11.826094-04:00.hyperlinks.json) |
-| [September 3 at 10:29 PM](https://archive.org/download/bklyner-2022/bklyner-2022-09-03T22:29:05.230933-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 192 accessibility trees with the Internet Archive.
+The archiving routine has saved 193 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 9 at 10:34 AM](https://archive.org/download/bklyner-2022/bklyner-2022-09-09T10:34:10.762132-04:00.accessibility.json) |
 | [September 8 at 10:30 PM](https://archive.org/download/bklyner-2022/bklyner-2022-09-08T22:30:52.105862-04:00.accessibility.json) |
 | [September 8 at 10:25 AM](https://archive.org/download/bklyner-2022/bklyner-2022-09-08T10:25:18.626212-04:00.accessibility.json) |
 | [September 7 at 10:34 PM](https://archive.org/download/bklyner-2022/bklyner-2022-09-07T22:33:53.444591-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 5 at 10:23 AM](https://archive.org/download/bklyner-2022/bklyner-2022-09-05T10:23:46.522547-04:00.accessibility.json) |
 | [September 4 at 10:29 PM](https://archive.org/download/bklyner-2022/bklyner-2022-09-04T22:29:33.350734-04:00.accessibility.json) |
 | [September 4 at 10:17 AM](https://archive.org/download/bklyner-2022/bklyner-2022-09-04T10:17:11.826094-04:00.accessibility.json) |
-| [September 3 at 10:29 PM](https://archive.org/download/bklyner-2022/bklyner-2022-09-03T22:29:05.230933-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 96 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 97 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 9 at 10:34 AM](https://archive.org/download/bklyner-2022/bklyner-2022-09-09T10:34:10.762132-04:00.lighthouse.json) |
 | [September 8 at 10:31 PM](https://archive.org/download/bklyner-2022/bklyner-2022-09-08T22:30:52.105862-04:00.lighthouse.json) |
 | [September 8 at 10:25 AM](https://archive.org/download/bklyner-2022/bklyner-2022-09-08T10:25:18.626212-04:00.lighthouse.json) |
 | [September 7 at 10:34 PM](https://archive.org/download/bklyner-2022/bklyner-2022-09-07T22:33:53.444591-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 5 at 10:23 AM](https://archive.org/download/bklyner-2022/bklyner-2022-09-05T10:23:46.522547-04:00.lighthouse.json) |
 | [September 4 at 10:29 PM](https://archive.org/download/bklyner-2022/bklyner-2022-09-04T22:29:33.350734-04:00.lighthouse.json) |
 | [September 4 at 10:17 AM](https://archive.org/download/bklyner-2022/bklyner-2022-09-04T10:17:11.826094-04:00.lighthouse.json) |
-| [September 3 at 10:29 PM](https://archive.org/download/bklyner-2022/bklyner-2022-09-03T22:29:05.230933-04:00.lighthouse.json) |
 
 
 
