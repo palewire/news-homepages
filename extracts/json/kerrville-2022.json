@@ -1,5 +1,5 @@
 {
-  "created": 1662651254,
+  "created": 1662698991,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/1/items/kerrville-2022",
@@ -5976,31 +5976,93 @@
       "sha1": "8c1598b660bc4ee05cd90a133b76470f1c812ff1"
     },
     {
+      "name": "kerrville-2022-09-08T23:48:28.222198-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662698915",
+      "size": "85251",
+      "md5": "cec1a231da9ffae71a5c330255193475",
+      "crc32": "9c9cac83",
+      "sha1": "f47e95e050ba600893c7689f91393f3e1575da61",
+      "format": "JSON"
+    },
+    {
+      "name": "kerrville-2022-09-08T23:48:28.222198-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662698916",
+      "size": "133430",
+      "md5": "e20ee10198c6318c2c10b4a1a5c1b544",
+      "crc32": "e4715ff7",
+      "sha1": "92dd80048c68932ad9e0e17251f2f34480de6b05",
+      "format": "JSON"
+    },
+    {
+      "name": "kerrville-2022-09-08T23:48:28.222198-05:00.jpg",
+      "source": "original",
+      "mtime": "1662698914",
+      "size": "316965",
+      "md5": "fad5d7d732f900557e8df56ee556e08b",
+      "crc32": "7d3b6007",
+      "sha1": "a01d4012d3682f649ccd0abd95d423d32ef08caa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kerrville-2022-09-08T23:48:28.222198-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662698918",
+      "size": "1458",
+      "md5": "58e263f2c11b818707bcb87c916fd68a",
+      "crc32": "3cfd6077",
+      "sha1": "ef11ca615774212b63820d038adbaee8648d7cce",
+      "format": "JSON"
+    },
+    {
+      "name": "kerrville-2022-09-08T23:48:28.222198-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662698919",
+      "size": "99",
+      "md5": "113dd8e4c8cdf36fc9e0061f5c289eb5",
+      "crc32": "86ad819e",
+      "sha1": "6ebe1151deef030444c006bf9bb218569563b6fe",
+      "format": "JSON"
+    },
+    {
+      "name": "kerrville-2022-09-08T23:48:28.222198-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kerrville-2022-09-08T23:48:28.222198-05:00.jpg",
+      "mtime": "1662698975",
+      "size": "10024",
+      "md5": "65d39478567ed24c833fdb389b0cba91",
+      "crc32": "5627e4b5",
+      "sha1": "9badaa76648e303116ed19fce9e28d92fa40897c"
+    },
+    {
       "name": "kerrville-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b13b10aff969fdf6e7a5a43e144377c5b9454cfd",
-      "mtime": "1662651243",
-      "size": "124019",
-      "md5": "a2dff7467c213386d20a4820a6141930",
-      "crc32": "4e051f0e",
-      "sha1": "8b1c6db77cd96f0453670f7d6a674e75fc731b0c",
+      "btih": "6a68abf06d68363cc566cd8e9419814f93a0d312",
+      "mtime": "1662698981",
+      "size": "125291",
+      "md5": "d0054925f49190169c036b0781c9c2f1",
+      "crc32": "1e8b3f70",
+      "sha1": "10b8d921ca7c5b7f3bcaa3b1ef5b68fbfc121570",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kerrville-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a00ea4095001923478a09da441e210d8",
+      "md5": "1c8957b57385fbfe5b3a1674c5452789",
       "summation": "md5"
     },
     {
       "name": "kerrville-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662651171",
-      "size": "737280",
-      "md5": "d83b449d0cef35eb2759a0a63a0c0df9",
-      "crc32": "7da3b09c",
-      "sha1": "2ef5558f0aa8d49d9c80a8d2759c71839d81fa90",
+      "mtime": "1662698926",
+      "size": "745472",
+      "md5": "1fe832b674af91bfafdf1f9ff9251cd8",
+      "crc32": "31742de3",
+      "sha1": "1551779458e012511973323a709575fc0e911eb4",
       "format": "Metadata"
     },
     {
@@ -6014,9 +6076,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 580,
-  "item_last_updated": 1662651243,
-  "item_size": 60218944,
+  "files_count": 586,
+  "item_last_updated": 1662698981,
+  "item_size": 60775635,
   "metadata": {
     "identifier": "kerrville-2022",
     "collection": [
@@ -6033,10 +6095,10 @@
     "publicdate": "2022-07-18 00:04:49",
     "addeddate": "2022-07-18 00:04:49"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 469733296,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1467068280,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }

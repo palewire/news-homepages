@@ -1,5 +1,5 @@
 {
-  "created": 1662651482,
+  "created": 1662699276,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/16/items/nypost-2022",
@@ -6818,31 +6818,93 @@
       "sha1": "d19d747d9f9373d12fac9a94dcbc8a002d693a7c"
     },
     {
+      "name": "nypost-2022-09-09T00:53:18.038425-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662699205",
+      "size": "61712",
+      "md5": "f2f1b95aa75d8b719fb270baf1f2d9aa",
+      "crc32": "c09b2aec",
+      "sha1": "277f93a55e126f52f540eb87664c288d385cc78a",
+      "format": "JSON"
+    },
+    {
+      "name": "nypost-2022-09-09T00:53:18.038425-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662699207",
+      "size": "64096",
+      "md5": "1b351678b40b5be5212864012fbdfbe3",
+      "crc32": "cc0a1fbd",
+      "sha1": "3eb76692fa8b7ca6c8040c513404c475752bb591",
+      "format": "JSON"
+    },
+    {
+      "name": "nypost-2022-09-09T00:53:18.038425-04:00.jpg",
+      "source": "original",
+      "mtime": "1662699204",
+      "size": "312808",
+      "md5": "812c083acc4e2ab820a97c868a512bd3",
+      "crc32": "4c5a96fe",
+      "sha1": "710ec5fdf4d4aac2dded97540563c10b86f55d04",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nypost-2022-09-09T00:53:18.038425-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662699208",
+      "size": "1423",
+      "md5": "f51bd71dbd6f3762bf9e18d7f13b4785",
+      "crc32": "5c920c04",
+      "sha1": "599d61089329ee510a3dfbca5669a139a59835b8",
+      "format": "JSON"
+    },
+    {
+      "name": "nypost-2022-09-09T00:53:18.038425-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662699210",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "nypost-2022-09-09T00:53:18.038425-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nypost-2022-09-09T00:53:18.038425-04:00.jpg",
+      "mtime": "1662699263",
+      "size": "11416",
+      "md5": "e0e480a81737abaf886efd493d2d5a65",
+      "crc32": "b45df44c",
+      "sha1": "81c15b37574c44b38b3ca24a18686e7119672545"
+    },
+    {
       "name": "nypost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1d64214a7b40575c288e20e7165ab00cd9f3e2b5",
-      "mtime": "1662651453",
-      "size": "138217",
-      "md5": "fba596282931631aa9016b03d301af1d",
-      "crc32": "e31af3aa",
-      "sha1": "44a2daf9a0da5252e97832a420ea4d192ba4fedc",
+      "btih": "c4d31fcad54e166f54d9f9993b88eebded20d76d",
+      "mtime": "1662699269",
+      "size": "139471",
+      "md5": "fecb7182cf32b8545297ce989823d50a",
+      "crc32": "623e27e1",
+      "sha1": "f4f4f5347f6e92956f2abc05096a42e45f6ac410",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nypost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "32f1ddb82a5412e5fc4a0df23ed96d86",
+      "md5": "4e933496c3d2e6c747690da3b165cd81",
       "summation": "md5"
     },
     {
       "name": "nypost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662651378",
-      "size": "806912",
-      "md5": "7a8faea6a816e2138d968be6f95cd8f8",
-      "crc32": "479c5b74",
-      "sha1": "161212cd82d03c47a935dfc7f9e5c6a2bbb2266c",
+      "mtime": "1662699214",
+      "size": "811008",
+      "md5": "5066ee4021cb2161d6a27eab9d1a95d3",
+      "crc32": "dc87a330",
+      "sha1": "aa8d07f1128fe00ee819585a6b3f6ff88ebdee6a",
       "format": "Metadata"
     },
     {
@@ -6856,9 +6918,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 658,
-  "item_last_updated": 1662651453,
-  "item_size": 64921364,
+  "files_count": 664,
+  "item_last_updated": 1662699269,
+  "item_size": 65378371,
   "metadata": {
     "identifier": "nypost-2022",
     "collection": [
@@ -6875,10 +6937,10 @@
     "publicdate": "2022-07-04 21:50:06",
     "addeddate": "2022-07-04 21:50:06"
   },
-  "server": "ia802506.us.archive.org",
-  "uniq": 1103280675,
+  "server": "ia902506.us.archive.org",
+  "uniq": 406036088,
   "workable_servers": [
-    "ia802506.us.archive.org",
-    "ia902506.us.archive.org"
+    "ia902506.us.archive.org",
+    "ia802506.us.archive.org"
   ]
 }
