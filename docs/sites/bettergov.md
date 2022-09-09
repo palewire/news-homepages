@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 180 screenshots with the Internet Archive.
+The archiving routine has saved 182 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/bettergov-2022/bettergov-2022-09-09T11:30:12.030175-05:00.jpg">
+  <img src="https://archive.org/download/bettergov-2022/bettergov-2022-09-09T11:30:12.030175-05:00.jpg"
+     alt="Better Government Association at 2022-09-09 11:30:14-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bettergov-2022/bettergov-2022-09-09T11:30:12.030175-05:00.jpg">September 9 at 11:30 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bettergov-2022/bettergov-2022-09-09T06:04:01.756011-05:00.jpg">
+  <img src="https://archive.org/download/bettergov-2022/bettergov-2022-09-09T06:04:01.756011-05:00.jpg"
+     alt="Better Government Association at 2022-09-09 06:04:03-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bettergov-2022/bettergov-2022-09-09T06:04:01.756011-05:00.jpg">September 9 at 6:04 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/bettergov-2022/bettergov-2022-09-08T18:58:23.333632-05:00.jpg">
   <img src="https://archive.org/download/bettergov-2022/bettergov-2022-09-08T18:58:23.333632-05:00.jpg"
      alt="Better Government Association at 2022-09-08 18:58:24-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bettergov-2022/bettergov-2022-09-05T05:59:59.233048-05:00.jpg">September 5 at 6:00 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bettergov-2022/bettergov-2022-09-04T17:55:40.648441-05:00.jpg">
-  <img src="https://archive.org/download/bettergov-2022/bettergov-2022-09-04T17:55:40.648441-05:00.jpg"
-     alt="Better Government Association at 2022-09-04 17:55:47-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bettergov-2022/bettergov-2022-09-04T17:55:40.648441-05:00.jpg">September 4 at 5:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bettergov-2022/bettergov-2022-09-04T11:41:19.335771-05:00.jpg">
-  <img src="https://archive.org/download/bettergov-2022/bettergov-2022-09-04T11:41:19.335771-05:00.jpg"
-     alt="Better Government Association at 2022-09-04 11:41:20-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bettergov-2022/bettergov-2022-09-04T11:41:19.335771-05:00.jpg">September 4 at 11:41 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 181 hyperlink lists with the Internet Archive.
+The archiving routine has saved 183 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 9 at 11:30 AM](https://archive.org/download/bettergov-2022/bettergov-2022-09-09T11:30:12.030175-05:00.hyperlinks.json) |
+| [September 9 at 6:04 AM](https://archive.org/download/bettergov-2022/bettergov-2022-09-09T06:04:01.756011-05:00.hyperlinks.json) |
 | [September 8 at 6:58 PM](https://archive.org/download/bettergov-2022/bettergov-2022-09-08T18:58:23.333632-05:00.hyperlinks.json) |
 | [September 8 at 11:30 AM](https://archive.org/download/bettergov-2022/bettergov-2022-09-08T11:30:45.387700-05:00.hyperlinks.json) |
 | [September 8 at 6:02 AM](https://archive.org/download/bettergov-2022/bettergov-2022-09-08T06:01:51.716122-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 6 at 6:06 PM](https://archive.org/download/bettergov-2022/bettergov-2022-09-06T18:06:36.896099-05:00.hyperlinks.json) |
 | [September 6 at 5:54 AM](https://archive.org/download/bettergov-2022/bettergov-2022-09-06T05:54:47.578617-05:00.hyperlinks.json) |
 | [September 5 at 6:00 PM](https://archive.org/download/bettergov-2022/bettergov-2022-09-05T18:00:44.928476-05:00.hyperlinks.json) |
-| [September 5 at 11:29 AM](https://archive.org/download/bettergov-2022/bettergov-2022-09-05T11:29:29.629580-05:00.hyperlinks.json) |
-| [September 5 at 6:00 AM](https://archive.org/download/bettergov-2022/bettergov-2022-09-05T05:59:59.233048-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 181 accessibility trees with the Internet Archive.
+The archiving routine has saved 183 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 9 at 11:30 AM](https://archive.org/download/bettergov-2022/bettergov-2022-09-09T11:30:12.030175-05:00.accessibility.json) |
+| [September 9 at 6:04 AM](https://archive.org/download/bettergov-2022/bettergov-2022-09-09T06:04:01.756011-05:00.accessibility.json) |
 | [September 8 at 6:58 PM](https://archive.org/download/bettergov-2022/bettergov-2022-09-08T18:58:23.333632-05:00.accessibility.json) |
 | [September 8 at 11:30 AM](https://archive.org/download/bettergov-2022/bettergov-2022-09-08T11:30:45.387700-05:00.accessibility.json) |
 | [September 8 at 6:01 AM](https://archive.org/download/bettergov-2022/bettergov-2022-09-08T06:01:51.716122-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 6 at 6:06 PM](https://archive.org/download/bettergov-2022/bettergov-2022-09-06T18:06:36.896099-05:00.accessibility.json) |
 | [September 6 at 5:54 AM](https://archive.org/download/bettergov-2022/bettergov-2022-09-06T05:54:47.578617-05:00.accessibility.json) |
 | [September 5 at 6:00 PM](https://archive.org/download/bettergov-2022/bettergov-2022-09-05T18:00:44.928476-05:00.accessibility.json) |
-| [September 5 at 11:29 AM](https://archive.org/download/bettergov-2022/bettergov-2022-09-05T11:29:29.629580-05:00.accessibility.json) |
-| [September 5 at 6:00 AM](https://archive.org/download/bettergov-2022/bettergov-2022-09-05T05:59:59.233048-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 139 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 141 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 9 at 11:30 AM](https://archive.org/download/bettergov-2022/bettergov-2022-09-09T11:30:12.030175-05:00.lighthouse.json) |
+| [September 9 at 6:04 AM](https://archive.org/download/bettergov-2022/bettergov-2022-09-09T06:04:01.756011-05:00.lighthouse.json) |
 | [September 8 at 6:58 PM](https://archive.org/download/bettergov-2022/bettergov-2022-09-08T18:58:23.333632-05:00.lighthouse.json) |
 | [September 8 at 11:30 AM](https://archive.org/download/bettergov-2022/bettergov-2022-09-08T11:30:45.387700-05:00.lighthouse.json) |
 | [September 8 at 6:02 AM](https://archive.org/download/bettergov-2022/bettergov-2022-09-08T06:01:51.716122-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 7:13 AM](https://archive.org/download/bettergov-2022/bettergov-2022-09-07T07:13:16.388190-05:00.lighthouse.json) |
 | [September 6 at 6:06 PM](https://archive.org/download/bettergov-2022/bettergov-2022-09-06T18:06:36.896099-05:00.lighthouse.json) |
 | [September 6 at 5:54 AM](https://archive.org/download/bettergov-2022/bettergov-2022-09-06T05:54:47.578617-05:00.lighthouse.json) |
-| [September 5 at 6:00 PM](https://archive.org/download/bettergov-2022/bettergov-2022-09-05T18:00:44.928476-05:00.lighthouse.json) |
-| [September 5 at 11:29 AM](https://archive.org/download/bettergov-2022/bettergov-2022-09-05T11:29:29.629580-05:00.lighthouse.json) |
 
 
 
