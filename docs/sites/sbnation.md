@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 167 screenshots with the Internet Archive.
+The archiving routine has saved 168 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 167 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-08T21:25:59.017563-04:00.jpg">
+  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-09-08T21:25:59.017563-04:00.jpg"
+     alt="SB Nation at 2022-09-08 21:26:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-08T21:25:59.017563-04:00.jpg">September 8 at 9:26 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-08T09:14:56.970848-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-02T21:22:46.248626-04:00.jpg">September 2 at 9:22 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-02T09:04:22.010338-04:00.jpg">
-  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-09-02T09:04:22.010338-04:00.jpg"
-     alt="SB Nation at 2022-09-02 09:04:25-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-02T09:04:22.010338-04:00.jpg">September 2 at 9:04 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 165 hyperlink lists with the Internet Archive.
+The archiving routine has saved 166 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 8 at 9:26 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-08T21:25:59.017563-04:00.hyperlinks.json) |
 | [September 8 at 9:15 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-08T09:14:56.970848-04:00.hyperlinks.json) |
 | [September 7 at 9:25 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-07T21:25:01.333950-04:00.hyperlinks.json) |
 | [September 7 at 9:47 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-07T09:47:39.907836-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 4 at 9:23 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-04T21:23:19.303122-04:00.hyperlinks.json) |
 | [September 4 at 8:57 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-04T08:56:54.503043-04:00.hyperlinks.json) |
 | [September 3 at 9:14 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-03T21:13:57.124228-04:00.hyperlinks.json) |
-| [September 3 at 9:12 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-03T09:12:18.806625-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 168 accessibility trees with the Internet Archive.
+The archiving routine has saved 169 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 8 at 9:26 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-08T21:25:59.017563-04:00.accessibility.json) |
 | [September 8 at 9:15 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-08T09:14:56.970848-04:00.accessibility.json) |
 | [September 7 at 9:25 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-07T21:25:01.333950-04:00.accessibility.json) |
 | [September 7 at 9:47 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-07T09:47:39.907836-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 4 at 9:23 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-04T21:23:19.303122-04:00.accessibility.json) |
 | [September 4 at 8:57 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-04T08:56:54.503043-04:00.accessibility.json) |
 | [September 3 at 9:14 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-03T21:13:57.124228-04:00.accessibility.json) |
-| [September 3 at 9:12 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-03T09:12:18.806625-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 94 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 95 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 8 at 9:26 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-08T21:25:59.017563-04:00.lighthouse.json) |
 | [September 8 at 9:15 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-08T09:14:56.970848-04:00.lighthouse.json) |
 | [September 7 at 9:25 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-07T21:25:01.333950-04:00.lighthouse.json) |
 | [September 7 at 9:47 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-07T09:47:39.907836-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 4 at 9:23 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-04T21:23:19.303122-04:00.lighthouse.json) |
 | [September 4 at 8:57 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-04T08:56:54.503043-04:00.lighthouse.json) |
 | [September 3 at 9:14 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-03T21:13:57.124228-04:00.lighthouse.json) |
-| [September 3 at 9:12 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-03T09:12:18.806625-04:00.lighthouse.json) |
 
 
 
