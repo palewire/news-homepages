@@ -172,11 +172,3 @@ jobs:
           access-key: ${{ secrets.IA_ACCESS_KEY }}
           secret-key: ${{ secrets.IA_SECRET_KEY }}
           collection:  ${{ secrets.IA_COLLECTION }}
-
-      - id: update-docs
-        name: Update docs
-        uses: ./.github/actions/site
-        with:
-          api-key: ${{ secrets.PALEWIRE_DOCS_AWS_ACCESS_KEY_ID }}
-          api-secret-access-key: ${{ secrets.PALEWIRE_DOCS_AWS_SECRET_ACCESS_KEY }}
-          bucket: ${{ secrets.PALEWIRE_DOCS_AWS_BUCKET }}
