@@ -1,5 +1,5 @@
 {
-  "created": 1662651267,
+  "created": 1662699041,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/3/items/lanuevaespana-2022",
@@ -4992,31 +4992,93 @@
       "sha1": "3ed1c8d50aad3af624daedd9dae030122131ccc0"
     },
     {
+      "name": "lanuevaespana-2022-09-09T06:49:13.243994+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662698967",
+      "size": "130631",
+      "md5": "3879fbe0db29f2690aecdf6ff8f71283",
+      "crc32": "95103b02",
+      "sha1": "a0b14b87091720983294d18243914224a0852cfb",
+      "format": "JSON"
+    },
+    {
+      "name": "lanuevaespana-2022-09-09T06:49:13.243994+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662698968",
+      "size": "195588",
+      "md5": "1c9591824b395fededd3e012fefe12b3",
+      "crc32": "fc2dec8e",
+      "sha1": "7a2eb8da44a16e4c2befb93fc3f15af8bcc881e1",
+      "format": "JSON"
+    },
+    {
+      "name": "lanuevaespana-2022-09-09T06:49:13.243994+02:00.jpg",
+      "source": "original",
+      "mtime": "1662698966",
+      "size": "259134",
+      "md5": "9a3a7e7a82d8c4fec081fa1dde0a5edf",
+      "crc32": "c3c834ac",
+      "sha1": "2f18451da59d326d36f6b44f145eb9921f1582ae",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lanuevaespana-2022-09-09T06:49:13.243994+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662698969",
+      "size": "1423",
+      "md5": "a994e5e2f34f330e8f1748220cee6947",
+      "crc32": "f135f854",
+      "sha1": "00c4f921f967833ff7802c2c8df5af918780029d",
+      "format": "JSON"
+    },
+    {
+      "name": "lanuevaespana-2022-09-09T06:49:13.243994+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1662698971",
+      "size": "95",
+      "md5": "9e04ae4cd4236a7d2208171f90784ae7",
+      "crc32": "3ae5210c",
+      "sha1": "b0e5825c3b41cb8b089148c03ca96ba9db573268",
+      "format": "JSON"
+    },
+    {
+      "name": "lanuevaespana-2022-09-09T06:49:13.243994+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lanuevaespana-2022-09-09T06:49:13.243994+02:00.jpg",
+      "mtime": "1662699026",
+      "size": "10278",
+      "md5": "1c50442aef2f89257480882a449a721b",
+      "crc32": "75f58391",
+      "sha1": "a6f44fcd66d0e16795e5f0dc046d3ed967552974"
+    },
+    {
       "name": "lanuevaespana-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4527f6f8af42f57780ed729cd2fa66a4ca7f4088",
-      "mtime": "1662651244",
-      "size": "106173",
-      "md5": "e44718a3689446f720112ce6551e5eea",
-      "crc32": "643f0ed3",
-      "sha1": "990b13bbf17d45beac7e1a8a91a458eae6b825b5",
+      "btih": "6346cb19b7e03f200bc48021c4b75062d12806ab",
+      "mtime": "1662699031",
+      "size": "107470",
+      "md5": "fc08c4e9b31b4da8583e88d6d9e0dfc6",
+      "crc32": "6117c648",
+      "sha1": "16038672c08b4e9c066d08f462b0334bca8d52a7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lanuevaespana-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "47d8e8b9360b048cd62bce6c5a57a196",
+      "md5": "641f3edfaeb806f38aad825eb1a35501",
       "summation": "md5"
     },
     {
       "name": "lanuevaespana-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662651139",
-      "size": "634880",
-      "md5": "065278f11180e78ce61d278428a79c5b",
-      "crc32": "44c51737",
-      "sha1": "7a2f320c59782048282dfc061eef27f734752ddf",
+      "mtime": "1662698977",
+      "size": "643072",
+      "md5": "054f992b6308e0f47cf45120e9a437ce",
+      "crc32": "9f3daf3a",
+      "sha1": "74587e51edcf8b8be257322b56f17edf3598a355",
       "format": "Metadata"
     },
     {
@@ -5030,9 +5092,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 486,
-  "item_last_updated": 1662651244,
-  "item_size": 52540432,
+  "files_count": 492,
+  "item_last_updated": 1662699031,
+  "item_size": 53147070,
   "metadata": {
     "identifier": "lanuevaespana-2022",
     "collection": [
@@ -5050,7 +5112,7 @@
     "addeddate": "2022-07-28 18:53:55"
   },
   "server": "ia601500.us.archive.org",
-  "uniq": 386032834,
+  "uniq": 753515863,
   "workable_servers": [
     "ia601500.us.archive.org",
     "ia801500.us.archive.org"
