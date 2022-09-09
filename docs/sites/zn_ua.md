@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 351 screenshots with the Internet Archive.
+The archiving routine has saved 352 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 351 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-09-09T08:03:00.050004+03:00.jpg">
+  <img src="https://archive.org/download/zn_ua-2022/zn_ua-2022-09-09T08:03:00.050004+03:00.jpg"
+     alt="ZN.UA at 2022-09-09 08:03:01+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-09-09T08:03:00.050004+03:00.jpg">September 9 at 8:03 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-09-08T19:41:34.482445+03:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-09-02T19:21:31.018222+03:00.jpg">September 2 at 7:21 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-09-02T07:53:12.686345+03:00.jpg">
-  <img src="https://archive.org/download/zn_ua-2022/zn_ua-2022-09-02T07:53:12.686345+03:00.jpg"
-     alt="ZN.UA at 2022-09-02 07:53:18+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/zn_ua-2022/zn_ua-2022-09-02T07:53:12.686345+03:00.jpg">September 2 at 7:53 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 336 hyperlink lists with the Internet Archive.
+The archiving routine has saved 337 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 9 at 8:03 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-09T08:03:00.050004+03:00.hyperlinks.json) |
 | [September 8 at 7:42 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-08T19:41:34.482445+03:00.hyperlinks.json) |
 | [September 8 at 7:53 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-08T07:53:04.396209+03:00.hyperlinks.json) |
 | [September 7 at 8:19 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-07T20:19:10.401678+03:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 4 at 7:49 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-04T19:49:28.345951+03:00.hyperlinks.json) |
 | [September 4 at 7:45 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-04T07:45:31.121330+03:00.hyperlinks.json) |
 | [September 3 at 7:08 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-03T19:08:37.044069+03:00.hyperlinks.json) |
-| [September 3 at 7:47 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-03T07:46:45.403891+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 337 accessibility trees with the Internet Archive.
+The archiving routine has saved 338 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 9 at 8:03 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-09T08:03:00.050004+03:00.accessibility.json) |
 | [September 8 at 7:42 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-08T19:41:34.482445+03:00.accessibility.json) |
 | [September 8 at 7:53 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-08T07:53:04.396209+03:00.accessibility.json) |
 | [September 7 at 8:19 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-07T20:19:10.401678+03:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 4 at 7:49 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-04T19:49:28.345951+03:00.accessibility.json) |
 | [September 4 at 7:45 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-04T07:45:31.121330+03:00.accessibility.json) |
 | [September 3 at 7:08 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-03T19:08:37.044069+03:00.accessibility.json) |
-| [September 3 at 7:47 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-03T07:46:45.403891+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 92 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 93 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 9 at 8:03 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-09T08:03:00.050004+03:00.lighthouse.json) |
 | [September 8 at 7:42 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-08T19:41:34.482445+03:00.lighthouse.json) |
 | [September 8 at 7:53 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-08T07:53:04.396209+03:00.lighthouse.json) |
 | [September 7 at 8:19 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-07T20:19:10.401678+03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 4 at 7:49 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-04T19:49:28.345951+03:00.lighthouse.json) |
 | [September 4 at 7:45 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-04T07:45:31.121330+03:00.lighthouse.json) |
 | [September 3 at 7:08 PM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-03T19:08:37.044069+03:00.lighthouse.json) |
-| [September 3 at 7:47 AM](https://archive.org/download/zn_ua-2022/zn_ua-2022-09-03T07:46:45.403891+03:00.lighthouse.json) |
 
 
 
