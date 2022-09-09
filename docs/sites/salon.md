@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 151 screenshots with the Internet Archive.
+The archiving routine has saved 152 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 151 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/salon-2022/salon-2022-09-09T12:34:19.195833-04:00.jpg">
+  <img src="https://archive.org/download/salon-2022/salon-2022-09-09T12:34:19.195833-04:00.jpg"
+     alt="Salon at 2022-09-09 12:34:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/salon-2022/salon-2022-09-09T12:34:19.195833-04:00.jpg">September 9 at 12:34 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/salon-2022/salon-2022-09-09T00:55:55.867615-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/salon-2022/salon-2022-09-04T12:45:26.786772-04:00.jpg">September 4 at 12:45 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/salon-2022/salon-2022-09-04T00:41:43.761224-04:00.jpg">
-  <img src="https://archive.org/download/salon-2022/salon-2022-09-04T00:41:43.761224-04:00.jpg"
-     alt="Salon at 2022-09-04 00:41:49-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/salon-2022/salon-2022-09-04T00:41:43.761224-04:00.jpg">September 4 at 12:41 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 136 hyperlink lists with the Internet Archive.
+The archiving routine has saved 137 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 9 at 12:34 PM](https://archive.org/download/salon-2022/salon-2022-09-09T12:34:19.195833-04:00.hyperlinks.json) |
 | [September 9 at 12:56 AM](https://archive.org/download/salon-2022/salon-2022-09-09T00:55:55.867615-04:00.hyperlinks.json) |
 | [September 8 at 12:36 PM](https://archive.org/download/salon-2022/salon-2022-09-08T12:36:34.771146-04:00.hyperlinks.json) |
 | [September 8 at 12:49 AM](https://archive.org/download/salon-2022/salon-2022-09-08T00:48:48.694974-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 5 at 2:32 PM](https://archive.org/download/salon-2022/salon-2022-09-05T14:31:56.537915-04:00.hyperlinks.json) |
 | [September 5 at 12:23 PM](https://archive.org/download/salon-2022/salon-2022-09-05T12:23:19.548032-04:00.hyperlinks.json) |
 | [September 5 at 12:53 AM](https://archive.org/download/salon-2022/salon-2022-09-05T00:53:18.968655-04:00.hyperlinks.json) |
-| [September 4 at 12:45 PM](https://archive.org/download/salon-2022/salon-2022-09-04T12:45:26.786772-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 151 accessibility trees with the Internet Archive.
+The archiving routine has saved 152 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 9 at 12:34 PM](https://archive.org/download/salon-2022/salon-2022-09-09T12:34:19.195833-04:00.accessibility.json) |
 | [September 9 at 12:56 AM](https://archive.org/download/salon-2022/salon-2022-09-09T00:55:55.867615-04:00.accessibility.json) |
 | [September 8 at 12:36 PM](https://archive.org/download/salon-2022/salon-2022-09-08T12:36:34.771146-04:00.accessibility.json) |
 | [September 8 at 12:49 AM](https://archive.org/download/salon-2022/salon-2022-09-08T00:48:48.694974-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 5 at 2:32 PM](https://archive.org/download/salon-2022/salon-2022-09-05T14:31:56.537915-04:00.accessibility.json) |
 | [September 5 at 12:23 PM](https://archive.org/download/salon-2022/salon-2022-09-05T12:23:19.548032-04:00.accessibility.json) |
 | [September 5 at 12:53 AM](https://archive.org/download/salon-2022/salon-2022-09-05T00:53:18.968655-04:00.accessibility.json) |
-| [September 4 at 12:45 PM](https://archive.org/download/salon-2022/salon-2022-09-04T12:45:26.786772-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 135 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 136 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 9 at 12:34 PM](https://archive.org/download/salon-2022/salon-2022-09-09T12:34:19.195833-04:00.lighthouse.json) |
 | [September 9 at 12:56 AM](https://archive.org/download/salon-2022/salon-2022-09-09T00:55:55.867615-04:00.lighthouse.json) |
 | [September 8 at 12:36 PM](https://archive.org/download/salon-2022/salon-2022-09-08T12:36:34.771146-04:00.lighthouse.json) |
 | [September 8 at 12:49 AM](https://archive.org/download/salon-2022/salon-2022-09-08T00:48:48.694974-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 6 at 12:56 AM](https://archive.org/download/salon-2022/salon-2022-09-06T00:56:16.863018-04:00.lighthouse.json) |
 | [September 5 at 2:32 PM](https://archive.org/download/salon-2022/salon-2022-09-05T14:31:56.537915-04:00.lighthouse.json) |
 | [September 5 at 12:23 PM](https://archive.org/download/salon-2022/salon-2022-09-05T12:23:19.548032-04:00.lighthouse.json) |
-| [September 5 at 12:53 AM](https://archive.org/download/salon-2022/salon-2022-09-05T00:53:18.968655-04:00.lighthouse.json) |
 
 
 

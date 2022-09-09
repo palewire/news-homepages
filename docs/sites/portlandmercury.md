@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 109 screenshots with the Internet Archive.
+The archiving routine has saved 110 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 109 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-09T09:32:18.724891-07:00.jpg">
+  <img src="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-09T09:32:18.724891-07:00.jpg"
+     alt="Portland Mercury at 2022-09-09 09:32:24-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-09T09:32:18.724891-07:00.jpg">September 9 at 9:32 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-08T21:53:11.545006-07:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-03T09:02:20.562985-07:00.jpg">September 3 at 9:02 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-02T21:40:54.764551-07:00.jpg">
-  <img src="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-02T21:40:54.764551-07:00.jpg"
-     alt="Portland Mercury at 2022-09-02 21:40:56-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-02T21:40:54.764551-07:00.jpg">September 2 at 9:40 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 116 hyperlink lists with the Internet Archive.
+The archiving routine has saved 117 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 9 at 9:32 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-09T09:32:18.724891-07:00.hyperlinks.json) |
 | [September 8 at 9:53 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-08T21:53:11.545006-07:00.hyperlinks.json) |
 | [September 8 at 9:33 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-08T09:33:27.073333-07:00.hyperlinks.json) |
 | [September 7 at 9:46 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-07T21:46:48.337154-07:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 5 at 9:21 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-05T09:21:22.384242-07:00.hyperlinks.json) |
 | [September 4 at 9:51 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-04T21:51:08.226801-07:00.hyperlinks.json) |
 | [September 4 at 9:42 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-04T09:42:50.729460-07:00.hyperlinks.json) |
-| [September 3 at 9:40 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-03T21:40:16.418933-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 123 accessibility trees with the Internet Archive.
+The archiving routine has saved 124 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 9 at 9:32 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-09T09:32:18.724891-07:00.accessibility.json) |
 | [September 8 at 9:53 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-08T21:53:11.545006-07:00.accessibility.json) |
 | [September 8 at 9:33 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-08T09:33:27.073333-07:00.accessibility.json) |
 | [September 7 at 9:46 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-07T21:46:48.337154-07:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 5 at 9:21 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-05T09:21:22.384242-07:00.accessibility.json) |
 | [September 4 at 9:51 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-04T21:51:08.226801-07:00.accessibility.json) |
 | [September 4 at 9:42 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-04T09:42:50.729460-07:00.accessibility.json) |
-| [September 3 at 9:40 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-03T21:40:16.418933-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 93 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 94 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 9 at 9:32 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-09T09:32:18.724891-07:00.lighthouse.json) |
 | [September 8 at 9:53 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-08T21:53:11.545006-07:00.lighthouse.json) |
 | [September 8 at 9:33 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-08T09:33:27.073333-07:00.lighthouse.json) |
 | [September 7 at 9:46 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-07T21:46:48.337154-07:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 5 at 9:21 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-05T09:21:22.384242-07:00.lighthouse.json) |
 | [September 4 at 9:51 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-04T21:51:08.226801-07:00.lighthouse.json) |
 | [September 4 at 9:42 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-04T09:42:50.729460-07:00.lighthouse.json) |
-| [September 3 at 9:40 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-09-03T21:40:16.418933-07:00.lighthouse.json) |
 
 
 
