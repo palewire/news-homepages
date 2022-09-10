@@ -1,5 +1,10 @@
 {
-  "created": 1662681518,
+  "bakersfieldcali-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1662768176,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/22/items/bakersfieldcali-2022",
@@ -6708,31 +6713,155 @@
       "sha1": "fe938387892a46c6f216ef6b06d5677a06751454"
     },
     {
+      "name": "bakersfieldcali-2022-09-09T04:04:01.868620-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662721454",
+      "size": "36187",
+      "md5": "de9d904848885ec3d1a81a2dea1e2413",
+      "crc32": "7d4e5531",
+      "sha1": "729632ccfa71458eda20a1094f86a891fe0420a8",
+      "format": "JSON"
+    },
+    {
+      "name": "bakersfieldcali-2022-09-09T04:04:01.868620-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662721456",
+      "size": "66123",
+      "md5": "14f5a8cc73a6c876414c874b59ab9b69",
+      "crc32": "b6b78959",
+      "sha1": "d3ff9924c6978d6ed5d2b2294bd656ea3c168924",
+      "format": "JSON"
+    },
+    {
+      "name": "bakersfieldcali-2022-09-09T04:04:01.868620-07:00.jpg",
+      "source": "original",
+      "mtime": "1662721453",
+      "size": "271366",
+      "md5": "1da0144d96aba5b72ddb1355c82f1ce1",
+      "crc32": "4cf7046b",
+      "sha1": "bc04c2399debcdad8a702637cf4788e6a65dbbe4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bakersfieldcali-2022-09-09T04:04:01.868620-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662721458",
+      "size": "1504",
+      "md5": "1e366acdbd9e3328ffcc0ed600260b81",
+      "crc32": "bb08992e",
+      "sha1": "8ceca3218758217f7a15ed1b2c9dc2061849ca70",
+      "format": "JSON"
+    },
+    {
+      "name": "bakersfieldcali-2022-09-09T04:04:01.868620-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662721460",
+      "size": "67216",
+      "md5": "4a49648a46882db3f1bc18052433c755",
+      "crc32": "8c901159",
+      "sha1": "c3046184bf926d9cd72a05804f245f5e5aa8d589",
+      "format": "JSON"
+    },
+    {
+      "name": "bakersfieldcali-2022-09-09T04:04:01.868620-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bakersfieldcali-2022-09-09T04:04:01.868620-07:00.jpg",
+      "mtime": "1662721517",
+      "size": "9066",
+      "md5": "41fdd169427c90a980499c282c17d30a",
+      "crc32": "3ef5058d",
+      "sha1": "4c1f931a627756d76b4b337e060d8842c7fef6de"
+    },
+    {
+      "name": "bakersfieldcali-2022-09-09T16:03:54.511011-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662764642",
+      "size": "36652",
+      "md5": "d0faa49704efbc2c1428a7ee49e7abb6",
+      "crc32": "9beb9d95",
+      "sha1": "499290ed6c136aa7aaa7070bed7434d61bdfb120",
+      "format": "JSON"
+    },
+    {
+      "name": "bakersfieldcali-2022-09-09T16:03:54.511011-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662764644",
+      "size": "77470",
+      "md5": "a0d529705f5778e3f99352e6e3da0db8",
+      "crc32": "7cc4a6cb",
+      "sha1": "6046894c825b37453db303ef2f349f7e442b1652",
+      "format": "JSON"
+    },
+    {
+      "name": "bakersfieldcali-2022-09-09T16:03:54.511011-07:00.jpg",
+      "source": "original",
+      "mtime": "1662764640",
+      "size": "278827",
+      "md5": "526b5f32ec17c0e18ee082dabf4bfc55",
+      "crc32": "6a131ad0",
+      "sha1": "fa3e018cb753c19d77e549faae02e0caba78eb04",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bakersfieldcali-2022-09-09T16:03:54.511011-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662764646",
+      "size": "1504",
+      "md5": "aa2aeed2febcebd8ef5ed60c865638c9",
+      "crc32": "eb07449c",
+      "sha1": "e308a71d87e47248f2c4f620caebe7cedf4e4d15",
+      "format": "JSON"
+    },
+    {
+      "name": "bakersfieldcali-2022-09-09T16:03:54.511011-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662764647",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "bakersfieldcali-2022-09-09T16:03:54.511011-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bakersfieldcali-2022-09-09T16:03:54.511011-07:00.jpg",
+      "mtime": "1662764739",
+      "size": "9277",
+      "md5": "f980e8486220acfdba600515da6a0c2f",
+      "crc32": "8e589e2a",
+      "sha1": "0bf5ba9fc6a53dcba724815d55c9cce5affc2dfd"
+    },
+    {
       "name": "bakersfieldcali-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0e7aff0eae151775f277b5b0c196334d5494f377",
-      "mtime": "1662681509",
-      "size": "141782",
-      "md5": "4c932a3afc2a5369e22d2d0518d4494c",
-      "crc32": "8e5652ac",
-      "sha1": "c3448c1de9a94bd860823e5524c82993e891e603",
+      "btih": "d3e527193412326027fb950aca4e4d85860f54fe",
+      "mtime": "1662764751",
+      "size": "144398",
+      "md5": "d36987b233aa6d3cf7cd646d7a894ffc",
+      "crc32": "13547ea7",
+      "sha1": "672ea43e92349930d3cfac9bf6cb7780a62dd699",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bakersfieldcali-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ab1e0f386795de14444328de6af264bd",
+      "md5": "4bf30a9b7d7c7be46d2c68e1f8ec879f",
       "summation": "md5"
     },
     {
       "name": "bakersfieldcali-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662681444",
-      "size": "815104",
-      "md5": "ae57735acd69e11754474b934b93e2b1",
-      "crc32": "f861f455",
-      "sha1": "fa9104715975fe2e9d56ac5a0bbbd795356ac098",
+      "mtime": "1662764682",
+      "size": "827392",
+      "md5": "41c24e220ee993d791f7c0cd6c8f9f27",
+      "crc32": "8f18c8e5",
+      "sha1": "8b1ad903d0aefe935de4290d8336b684d74389a6",
       "format": "Metadata"
     },
     {
@@ -6746,9 +6875,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 649,
-  "item_last_updated": 1662681509,
-  "item_size": 51742655,
+  "files_count": 661,
+  "item_last_updated": 1662764751,
+  "item_size": 52612953,
   "metadata": {
     "identifier": "bakersfieldcali-2022",
     "collection": [
@@ -6766,7 +6895,7 @@
     "addeddate": "2022-07-09 03:55:56"
   },
   "server": "ia802506.us.archive.org",
-  "uniq": 553280875,
+  "uniq": 612413512,
   "workable_servers": [
     "ia802506.us.archive.org",
     "ia902506.us.archive.org"

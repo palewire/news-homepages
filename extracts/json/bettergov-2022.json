@@ -1,5 +1,10 @@
 {
-  "created": 1662741173,
+  "bettergov-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1662768198,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/12/items/bettergov-2022",
@@ -10100,31 +10105,93 @@
       "sha1": "6586c85e8b533b8b17f44faa89120156eaf7f52e"
     },
     {
+      "name": "bettergov-2022-09-09T18:04:40.417422-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662764683",
+      "size": "13440",
+      "md5": "7950d9bb39fdf083026daf58c7a4059f",
+      "crc32": "b3efd1d8",
+      "sha1": "a87dfe927810bc7678a3bcba07c8eb4706100e63",
+      "format": "JSON"
+    },
+    {
+      "name": "bettergov-2022-09-09T18:04:40.417422-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662764684",
+      "size": "17618",
+      "md5": "af75898323cb9f6c8873bfec0ed84f26",
+      "crc32": "7b3f9708",
+      "sha1": "55ddfd82ccea608f06059e90302a36b0e91a5544",
+      "format": "JSON"
+    },
+    {
+      "name": "bettergov-2022-09-09T18:04:40.417422-05:00.jpg",
+      "source": "original",
+      "mtime": "1662764681",
+      "size": "284801",
+      "md5": "79a65dba212265b8f9dc78f5d4adbe2b",
+      "crc32": "c9ed7819",
+      "sha1": "5eb42b954b894b173720751d3785d177c471f5a7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bettergov-2022-09-09T18:04:40.417422-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662764686",
+      "size": "1486",
+      "md5": "a2f6556c46ad7b5afa5d399effbfe8d5",
+      "crc32": "94b2146d",
+      "sha1": "4eddf8b73ee197827c7e4650ef56dcaf9791b9dd",
+      "format": "JSON"
+    },
+    {
+      "name": "bettergov-2022-09-09T18:04:40.417422-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662764687",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "bettergov-2022-09-09T18:04:40.417422-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bettergov-2022-09-09T18:04:40.417422-05:00.jpg",
+      "mtime": "1662764752",
+      "size": "9991",
+      "md5": "a19596eb8d8812c9c52d57cae03005c3",
+      "crc32": "818d95ac",
+      "sha1": "6586c85e8b533b8b17f44faa89120156eaf7f52e"
+    },
+    {
       "name": "bettergov-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9e61d016f409f9022163fcf67092d0ce67dce60b",
-      "mtime": "1662741126",
-      "size": "207125",
-      "md5": "09dc517b817d78f1429d16af377c9f9a",
-      "crc32": "9eefe936",
-      "sha1": "be90bc5c7e3428154d4cb6b14c82b89217b6bcc5",
+      "btih": "72cc94fbf2f9018de83ecb579527de7d78e0c25a",
+      "mtime": "1662764761",
+      "size": "208396",
+      "md5": "7eb06b003cd63bd0962e91e6cf0aade0",
+      "crc32": "4745c248",
+      "sha1": "38e04200ccd5162054f8f749dc595a814163e00c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bettergov-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0145240d2de2760d84c8df08a047a118",
+      "md5": "5d28730ab57e1e6a53de3cb30e8622ee",
       "summation": "md5"
     },
     {
       "name": "bettergov-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662741034",
-      "size": "1224704",
-      "md5": "f1df7ea0d7ff5fcdb71f3266c9fc4fd1",
-      "crc32": "53a94ebe",
-      "sha1": "1d1fa157dcc6e55e629e739e3d07aaa07c5b1fc7",
+      "mtime": "1662764695",
+      "size": "1228800",
+      "md5": "4c7e30435256d7ae0c20de12e57c7510",
+      "crc32": "3ea0bef9",
+      "sha1": "26ba26621d0fa5de074edc6aaa8419c79292e284",
       "format": "Metadata"
     },
     {
@@ -10138,9 +10205,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 977,
-  "item_last_updated": 1662741126,
-  "item_size": 65036162,
+  "files_count": 983,
+  "item_last_updated": 1662764761,
+  "item_size": 65369067,
   "metadata": {
     "identifier": "bettergov-2022",
     "collection": [
@@ -10158,7 +10225,7 @@
     "addeddate": "2022-07-09 03:56:41"
   },
   "server": "ia801406.us.archive.org",
-  "uniq": 2104672456,
+  "uniq": 1563929000,
   "workable_servers": [
     "ia801406.us.archive.org",
     "ia601406.us.archive.org"

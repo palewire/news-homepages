@@ -1,5 +1,5 @@
 {
-  "created": 1662741133,
+  "created": 1662764806,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/32/items/blockclubchi-2022",
@@ -13102,31 +13102,93 @@
       "sha1": "68c32cecb32458ae8c13f4750cb8bdfdd4c6c275"
     },
     {
+      "name": "blockclubchi-2022-09-09T18:03:52.872924-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662764658",
+      "size": "23067",
+      "md5": "0468a14f05ddf1048149827540f701af",
+      "crc32": "3589dec1",
+      "sha1": "697e15856b08169ee0a63c79d0beb52079261970",
+      "format": "JSON"
+    },
+    {
+      "name": "blockclubchi-2022-09-09T18:03:52.872924-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662764660",
+      "size": "31230",
+      "md5": "3fe87e88fa2b3b2ef892717ac502d125",
+      "crc32": "4a56b4a2",
+      "sha1": "3cbbe3ef88be001f715599fb994f781c4d30de30",
+      "format": "JSON"
+    },
+    {
+      "name": "blockclubchi-2022-09-09T18:03:52.872924-05:00.jpg",
+      "source": "original",
+      "mtime": "1662764657",
+      "size": "306244",
+      "md5": "daac6af03d99d6da76a6e6ddc0db850b",
+      "crc32": "04177bc6",
+      "sha1": "ba6141eae7c0f13e692d120d043e98fc844e8aa6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "blockclubchi-2022-09-09T18:03:52.872924-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662764664",
+      "size": "1513",
+      "md5": "e0c13798918066339b1e585f34c22bf5",
+      "crc32": "d232ce9a",
+      "sha1": "c37fdedae8e543ba020f618670afafcc54e54000",
+      "format": "JSON"
+    },
+    {
+      "name": "blockclubchi-2022-09-09T18:03:52.872924-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662764666",
+      "size": "18080",
+      "md5": "e1e2e3de72dee8b02979a1d843c4b4ec",
+      "crc32": "44957022",
+      "sha1": "c719faaedca53e4a3d12d6f54e73ed02b3fd6d5b",
+      "format": "JSON"
+    },
+    {
+      "name": "blockclubchi-2022-09-09T18:03:52.872924-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "blockclubchi-2022-09-09T18:03:52.872924-05:00.jpg",
+      "mtime": "1662764772",
+      "size": "10197",
+      "md5": "3fcbdbfc7addeebc274003a695308c7f",
+      "crc32": "b28212cd",
+      "sha1": "70c8703edd4fd228d0aa9cfcae90db7667ca6bf8"
+    },
+    {
       "name": "blockclubchi-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ebf8696091468026d25a4df994f02c0fcfccb8de",
-      "mtime": "1662741122",
-      "size": "271958",
-      "md5": "2b3572df4b3d419d7ba1d97b5544f59c",
-      "crc32": "0c647c4e",
-      "sha1": "b8099f8eb57e4bbcfb9d124dea2e0004521430b3",
+      "btih": "1fdf344cec4b9dbd0bc57ff8da3ec7eeeb37df3c",
+      "mtime": "1662764791",
+      "size": "273230",
+      "md5": "60267b3295048570461b49f72a50d623",
+      "crc32": "fb6da75e",
+      "sha1": "91b8cf37c62ea94c058f1600927146ac69149341",
       "format": "Archive BitTorrent"
     },
     {
       "name": "blockclubchi-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e59202be90dad3c1bcd0023042a85032",
+      "md5": "f06bbf2ab4f15507921c5d3c22e09e10",
       "summation": "md5"
     },
     {
       "name": "blockclubchi-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662741041",
-      "size": "1556480",
-      "md5": "48101a7d5e6d3b2df332c26c414809a2",
-      "crc32": "464d7e9a",
-      "sha1": "51a900a4163e75419b91c91fcd6363e5a5bbb5c9",
+      "mtime": "1662764672",
+      "size": "1564672",
+      "md5": "49e07968e09956008bc2a7d4dab3984f",
+      "crc32": "bdf71372",
+      "sha1": "a294cee6b577e1d4431ca96d5098af5036e22b6c",
       "format": "Metadata"
     },
     {
@@ -13140,9 +13202,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1263,
-  "item_last_updated": 1662741122,
-  "item_size": 102048046,
+  "files_count": 1269,
+  "item_last_updated": 1662764791,
+  "item_size": 102447841,
   "metadata": {
     "identifier": "blockclubchi-2022",
     "collection": [
@@ -13159,10 +13221,10 @@
     "publicdate": "2022-06-19 23:23:08",
     "addeddate": "2022-06-19 23:23:08"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 176761928,
+  "server": "ia601506.us.archive.org",
+  "uniq": 134101973,
   "workable_servers": [
-    "ia801506.us.archive.org",
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }
