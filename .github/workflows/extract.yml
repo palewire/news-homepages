@@ -10,63 +10,9 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  download-items:
-    name: Download items
-    runs-on: ubuntu-latest
-    steps:
-      - id: checkout
-        name: Checkout
-        uses: actions/checkout@v3
-
-      - id: install
-        name: Install
-        uses: ./.github/actions/install
-
-      - id: download-files
-        name: Download Internet Archive items
-        run: pipenv run python -m newshomepages.extract download-items;
-        shell: bash
-        env:
-          IA_ACCESS_KEY: ${{ secrets.IA_ACCESS_KEY }}
-          IA_SECRET_KEY: ${{ secrets.IA_SECRET_KEY }}
-          IA_COLLECTION: ${{ secrets.IA_COLLECTION }}
-
-      - id: commit-items
-        name: Commit
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git config pull.rebase false
-          git pull origin $GITHUB_REF
-          git add ./extracts
-          git commit -m "Extract items from archive.org" --author="palewire <palewire@users.noreply.github.com>" && git push || true
-        shell: bash
-
-      - id: get-latest-files
-        name: Consolidate latest files
-        run: pipenv run python -m newshomepages.extract latest-files;
-        shell: bash
-
-      - id: consolidate-files
-        name: Consolidate Internet Archive metadata
-        run: pipenv run python -m newshomepages.extract consolidate;
-        shell: bash
-
-      - id: commit-extracts
-        name: Commit
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git config pull.rebase false
-          git pull origin $GITHUB_REF
-          git add ./extracts
-          git commit -m "Consolidate extracts" --author="palewire <palewire@users.noreply.github.com>" && git push || true
-        shell: bash
-
   download-lighthouse:
     name: Download Lighthouse
     runs-on: ubuntu-latest
-    needs: [download-items]
     steps:
       - id: checkout
         name: Checkout
@@ -100,7 +46,6 @@ jobs:
   download-drudge-hyperlinks:
     name: Download Drudge hyperlinks
     runs-on: ubuntu-latest
-    needs: [download-items]
     steps:
       - id: checkout
         name: Checkout
