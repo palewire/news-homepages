@@ -1,5 +1,5 @@
 {
-  "created": 1662777066,
+  "created": 1662819328,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/13/items/derspiegel-2022",
@@ -3652,31 +3652,83 @@
       "sha1": "50c413d2b89585dce676175b72f5820fa59949a6"
     },
     {
+      "name": "derspiegel-2022-09-10T16:14:12.687663+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662819258",
+      "size": "113269",
+      "md5": "629bf65de89cd10afa5e9d58ae69c16d",
+      "crc32": "18305e2c",
+      "sha1": "d5ae99f060095e056558989a72ac8c64ec9f15c9",
+      "format": "JSON"
+    },
+    {
+      "name": "derspiegel-2022-09-10T16:14:12.687663+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662819260",
+      "size": "120122",
+      "md5": "0d1ee492015d175789e752482a111da6",
+      "crc32": "68a7359e",
+      "sha1": "dd7b8966a5fd9d050d85122bd7c8e2d800fdeafe",
+      "format": "JSON"
+    },
+    {
+      "name": "derspiegel-2022-09-10T16:14:12.687663+02:00.jpg",
+      "source": "original",
+      "mtime": "1662819256",
+      "size": "301244",
+      "md5": "a2b27031930ae04adf70c3e0907d3154",
+      "crc32": "9c85ab07",
+      "sha1": "ff78a5e15a7e3159f46b84bef50e0875aa104db0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "derspiegel-2022-09-10T16:14:12.687663+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662819261",
+      "size": "1459",
+      "md5": "25369d8ed9f070cc82cdc826bae75d91",
+      "crc32": "4967d659",
+      "sha1": "389c349b03b1bc7ecdd03a72fee2b448cf00ffa1",
+      "format": "JSON"
+    },
+    {
+      "name": "derspiegel-2022-09-10T16:14:12.687663+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "derspiegel-2022-09-10T16:14:12.687663+02:00.jpg",
+      "mtime": "1662819316",
+      "size": "10151",
+      "md5": "c8685d1f444a04c9d8205bf501f761c6",
+      "crc32": "de612619",
+      "sha1": "fe70630a2f692e9a6ce0eeefcd81ebc7a6ff981d"
+    },
+    {
       "name": "derspiegel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d09d33e7c07ace5eff9ace2f65fa94ca0ee3b593",
-      "mtime": "1662777060",
-      "size": "76864",
-      "md5": "2d89a27547dc2397b7ead3adbd16db3b",
-      "crc32": "6eafa2dc",
-      "sha1": "569639453dedb67dcc02a0efef2f79ea708e2e82",
+      "btih": "69663ebe9d394725035c5487e1856b3a4a90cc2f",
+      "mtime": "1662819320",
+      "size": "77936",
+      "md5": "7fcd05c63cf3eee07c0783fb9cc27f14",
+      "crc32": "74dbd848",
+      "sha1": "a751fd4f03b8cac91f65a2b479a7dc9ff14808ef",
       "format": "Archive BitTorrent"
     },
     {
       "name": "derspiegel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "47db6a41655713b19eb3709416fe0194",
+      "md5": "15f981361bfe084b80e70d1671e4ed10",
       "summation": "md5"
     },
     {
       "name": "derspiegel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662777012",
-      "size": "466944",
-      "md5": "4a34fb5449fd6b29b004fb80c02a67cc",
-      "crc32": "1c05f20b",
-      "sha1": "b4ab0d31410f0c030ccfac26c5ce3b0aeb4ac5d9",
+      "mtime": "1662819265",
+      "size": "475136",
+      "md5": "65bc73faafa6c4faf2653d65e94e20ff",
+      "crc32": "60a19375",
+      "sha1": "872249d77f9ca463242d19e63dbf5529a10da1b7",
       "format": "Metadata"
     },
     {
@@ -3690,9 +3742,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 357,
-  "item_last_updated": 1662777060,
-  "item_size": 33813889,
+  "files_count": 362,
+  "item_last_updated": 1662819320,
+  "item_size": 34369398,
   "metadata": {
     "identifier": "derspiegel-2022",
     "collection": [
@@ -3709,10 +3761,10 @@
     "publicdate": "2022-08-11 03:48:33",
     "addeddate": "2022-08-11 03:48:33"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 1067276367,
+  "server": "ia801501.us.archive.org",
+  "uniq": 310182533,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }

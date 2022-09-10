@@ -1,5 +1,5 @@
 {
-  "created": 1662776820,
+  "created": 1662818890,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/0/items/abc7newsbayarea-2022",
@@ -5570,31 +5570,83 @@
       "sha1": "c99fe4b6cbe3c707cedecc061000a47cf8ccd863"
     },
     {
+      "name": "abc7newsbayarea-2022-09-10T07:06:53.580606-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662818818",
+      "size": "28623",
+      "md5": "1102cd4057baac94a15b747c9b1d8988",
+      "crc32": "3b48e52d",
+      "sha1": "72b62d06126af07645fc4e81fc466ad088e15f3d",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7newsbayarea-2022-09-10T07:06:53.580606-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662818819",
+      "size": "28556",
+      "md5": "3fc232a5151ab85cd563cb5f8939b9f0",
+      "crc32": "9d89cae0",
+      "sha1": "dce23debfac3fb98cb0ceee9eecd43403d1165fe",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7newsbayarea-2022-09-10T07:06:53.580606-07:00.jpg",
+      "source": "original",
+      "mtime": "1662818816",
+      "size": "333404",
+      "md5": "564d07e52f404ae4e802bcf4797607aa",
+      "crc32": "55591584",
+      "sha1": "9d14386a823b4e23c753c498a65a6c0b2c6d34a4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "abc7newsbayarea-2022-09-10T07:06:53.580606-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662818820",
+      "size": "1441",
+      "md5": "da44797f99f00ea17a1b3e6108a09d9f",
+      "crc32": "740f0e79",
+      "sha1": "fef4b0441abab815635ce5719aea7cf90f4fa165",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7newsbayarea-2022-09-10T07:06:53.580606-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "abc7newsbayarea-2022-09-10T07:06:53.580606-07:00.jpg",
+      "mtime": "1662818876",
+      "size": "10341",
+      "md5": "38d07b99c70c83f412c8ef9d40419ef0",
+      "crc32": "7f8e90fd",
+      "sha1": "4ab3035ee1d9cfd244bbd8ec9ba916367098b8f9"
+    },
+    {
       "name": "abc7newsbayarea-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9a5257310845993f6338d18bb3a710064b8e9347",
-      "mtime": "1662776809",
-      "size": "118705",
-      "md5": "4de6fefefb969fd5ff3c0b1b79a3f4e6",
-      "crc32": "e7a7dcd1",
-      "sha1": "7bc91917a0d94530824108e73498b7f52d4334ef",
+      "btih": "118a8a3600ca70c1df45b670e9659150295a0d23",
+      "mtime": "1662818881",
+      "size": "119800",
+      "md5": "14544d28e1d27b43d055e1e6ee18e9fd",
+      "crc32": "daab2ff2",
+      "sha1": "34cc8e9ad037dd9bd25bf279017dc8d67e8a50d9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "abc7newsbayarea-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e2e41542eb2904561d86f4deca0d11ed",
+      "md5": "5b3bf79f2b338ff6e3c42941335f161d",
       "summation": "md5"
     },
     {
       "name": "abc7newsbayarea-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662776753",
-      "size": "708608",
-      "md5": "9f61b5c2497b62f7b80f40c60cc122eb",
-      "crc32": "4484bea1",
-      "sha1": "fbc567803ba176b17ec920b7f384a9872363a905",
+      "mtime": "1662818826",
+      "size": "712704",
+      "md5": "697d4c97c5b164d493371f908c364f89",
+      "crc32": "815b6f9e",
+      "sha1": "8cbee06e7536f1a95ffa5b529ac9b14438433e9f",
       "format": "Metadata"
     },
     {
@@ -5608,9 +5660,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 542,
-  "item_last_updated": 1662776809,
-  "item_size": 41162643,
+  "files_count": 547,
+  "item_last_updated": 1662818881,
+  "item_size": 41570199,
   "metadata": {
     "identifier": "abc7newsbayarea-2022",
     "collection": [
@@ -5627,10 +5679,10 @@
     "publicdate": "2022-07-26 01:30:06",
     "addeddate": "2022-07-26 01:30:06"
   },
-  "server": "ia601403.us.archive.org",
-  "uniq": 282227809,
+  "server": "ia801403.us.archive.org",
+  "uniq": 1050690618,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia801403.us.archive.org",
+    "ia601403.us.archive.org"
   ]
 }

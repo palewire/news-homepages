@@ -1,5 +1,5 @@
 {
-  "created": 1662777080,
+  "created": 1662819369,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/el_pais-2022",
@@ -5188,31 +5188,83 @@
       "sha1": "2718e879f3f82bb8a48de359ab22bbd5d5d42491"
     },
     {
+      "name": "el_pais-2022-09-10T16:14:52.570048+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662819299",
+      "size": "61659",
+      "md5": "e9c93469fdea695ede7e868c8c08d9a2",
+      "crc32": "72e64831",
+      "sha1": "d7adf49c90a1e5b2007d33dc4efa3329e63cc269",
+      "format": "JSON"
+    },
+    {
+      "name": "el_pais-2022-09-10T16:14:52.570048+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662819301",
+      "size": "70726",
+      "md5": "e3cb4f380e9337d38b122277f4f6cf15",
+      "crc32": "a70c33be",
+      "sha1": "d6b4f4e0a1bcacc31030fab2679b41f0ce710ed6",
+      "format": "JSON"
+    },
+    {
+      "name": "el_pais-2022-09-10T16:14:52.570048+02:00.jpg",
+      "source": "original",
+      "mtime": "1662819297",
+      "size": "284575",
+      "md5": "9c67d9996713b6ad57590b59143efbaf",
+      "crc32": "66ed2e1a",
+      "sha1": "774ee56fc54ba088c8b1c8db121a60c392f8ecb7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "el_pais-2022-09-10T16:14:52.570048+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662819303",
+      "size": "1495",
+      "md5": "bd36b964f3f09e87b0b4f75138c9b4af",
+      "crc32": "42e1f61b",
+      "sha1": "c44e3168c96cb18032c1b994734743440497d6b8",
+      "format": "JSON"
+    },
+    {
+      "name": "el_pais-2022-09-10T16:14:52.570048+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "el_pais-2022-09-10T16:14:52.570048+02:00.jpg",
+      "mtime": "1662819356",
+      "size": "9394",
+      "md5": "2de9b47ffdd01a79e86bd43712a54752",
+      "crc32": "45d37a21",
+      "sha1": "5c0b12c55cde8df49cb7e452a682fd5a0b9c36be"
+    },
+    {
       "name": "el_pais-2022_archive.torrent",
       "source": "metadata",
-      "btih": "07e0323d5e9cdb6766d2991006d5510bce95ca4e",
-      "mtime": "1662777071",
-      "size": "106354",
-      "md5": "9b9ad02ef0ca293b74c94a67f02240f8",
-      "crc32": "0d186524",
-      "sha1": "c634d778c4b57cc569ed16d315fe4b096946b2d3",
+      "btih": "6ae6ab21322f372f8731185da0b820d14302cdd5",
+      "mtime": "1662819360",
+      "size": "107408",
+      "md5": "e0c5e2abce1fe52002d7d3565e98cdba",
+      "crc32": "6a94520f",
+      "sha1": "bcd2b6b6e3ba540b3f1e9498cc25707b0002547e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "el_pais-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d7330fb790bd3cf83e6ca46d608b3ced",
+      "md5": "582c5a12375524cdb9f729e31e2d22a0",
       "summation": "md5"
     },
     {
       "name": "el_pais-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662777015",
-      "size": "647168",
-      "md5": "f2e1bf7f2dae144701a946caef3cd2ee",
-      "crc32": "838bbfda",
-      "sha1": "e5774fcf819be912e1f9bea4101efb263ae188e0",
+      "mtime": "1662819308",
+      "size": "655360",
+      "md5": "95ecb6f562381f13f23b7dd9458afede",
+      "crc32": "07c53e8a",
+      "sha1": "822ab95dfe5c8e664c8a400cd98b900cfb5134c6",
       "format": "Metadata"
     },
     {
@@ -5226,9 +5278,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 505,
-  "item_last_updated": 1662777071,
-  "item_size": 36441066,
+  "files_count": 510,
+  "item_last_updated": 1662819360,
+  "item_size": 36878161,
   "metadata": {
     "identifier": "el_pais-2022",
     "collection": [
@@ -5245,10 +5297,10 @@
     "publicdate": "2022-07-28 18:53:38",
     "addeddate": "2022-07-28 18:53:38"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 1407047754,
+  "server": "ia601403.us.archive.org",
+  "uniq": 1244964820,
   "workable_servers": [
-    "ia801403.us.archive.org",
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

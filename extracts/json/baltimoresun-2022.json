@@ -1,5 +1,5 @@
 {
-  "created": 1662776985,
+  "created": 1662819121,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/13/items/baltimoresun-2022",
@@ -23612,31 +23612,155 @@
       "sha1": "ba247f73af68630c0820dc741c0c23095601f954"
     },
     {
+      "name": "baltimoresun-2022-09-10T06:48:24.521228-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662806907",
+      "size": "28858",
+      "md5": "e10ec9d11377925e1d3cea90609cdbae",
+      "crc32": "e43fbcf7",
+      "sha1": "f27ed4c64c7cc72e58bee9e602115d85e7af589c",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoresun-2022-09-10T06:48:24.521228-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662806908",
+      "size": "38887",
+      "md5": "db8ebb8a7c5b6068cb0ab5c060018a1d",
+      "crc32": "d262d847",
+      "sha1": "61035d616af79d14afaaf8f17ce721e84986196d",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoresun-2022-09-10T06:48:24.521228-04:00.jpg",
+      "source": "original",
+      "mtime": "1662806905",
+      "size": "247784",
+      "md5": "17c3ac571d72081a01e04cf06713d9c2",
+      "crc32": "a871b1b6",
+      "sha1": "2b20218f9ea1398c7a6e22ad174838d9789f1607",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltimoresun-2022-09-10T06:48:24.521228-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662806910",
+      "size": "1513",
+      "md5": "e6b318bf45b568fe40449576065898e1",
+      "crc32": "12a0d7a8",
+      "sha1": "21b8898de245ddc843dc947b2aec27433c3118cc",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoresun-2022-09-10T06:48:24.521228-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662806911",
+      "size": "58441",
+      "md5": "dc4c2176586504ef0a074c14157b93d7",
+      "crc32": "4a1d370a",
+      "sha1": "a05b9c5b4c55875ee056a7c5bdea1e3497c90b2d",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoresun-2022-09-10T06:48:24.521228-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltimoresun-2022-09-10T06:48:24.521228-04:00.jpg",
+      "mtime": "1662807026",
+      "size": "8327",
+      "md5": "fc9a537f32df2dc950a58e569e2e4b8a",
+      "crc32": "b3d5ed29",
+      "sha1": "6a4a4dc00fd2b25f00282f190a76fffbea01b9fe"
+    },
+    {
+      "name": "baltimoresun-2022-09-10T10:06:58.927736-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662818842",
+      "size": "29088",
+      "md5": "cf61141eacbfd7b21abd41fb55b914f8",
+      "crc32": "92fba0bb",
+      "sha1": "563fda81a68550dfa2d5242ebbc8cb182bb7df19",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoresun-2022-09-10T10:06:58.927736-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662818843",
+      "size": "38430",
+      "md5": "29e6c6d76a39306238b53de09c836b71",
+      "crc32": "42ad9542",
+      "sha1": "4696e1a5b86b27b5d706a458dbb467f5c259a8b6",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoresun-2022-09-10T10:06:58.927736-04:00.jpg",
+      "source": "original",
+      "mtime": "1662818840",
+      "size": "278172",
+      "md5": "7f0a23463f20837642e93db826244f15",
+      "crc32": "b90bbf80",
+      "sha1": "607e6a634a72c55de4fbe667a20204539d7238fb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltimoresun-2022-09-10T10:06:58.927736-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662818845",
+      "size": "1513",
+      "md5": "868c6013d2e28c6d80d8fac201dc227d",
+      "crc32": "ea964d58",
+      "sha1": "6f72f60bb792db09e47bd5358598257d8aed4449",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoresun-2022-09-10T10:06:58.927736-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662818846",
+      "size": "54532",
+      "md5": "38b774162d2577eae6e49eb50947dffd",
+      "crc32": "336b4e17",
+      "sha1": "0f12daefd0bdccdc51c1dc4a4671202c41c751d9",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoresun-2022-09-10T10:06:58.927736-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltimoresun-2022-09-10T10:06:58.927736-04:00.jpg",
+      "mtime": "1662818967",
+      "size": "8432",
+      "md5": "cdb31a12f6540ad320f831f0920d8b62",
+      "crc32": "d571876a",
+      "sha1": "5106ec8c4707215526b428fc99d8786a45cb5367"
+    },
+    {
       "name": "baltimoresun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "39a9e423b96b6164992e71520f26179765a1e5c1",
-      "mtime": "1662776933",
-      "size": "487628",
-      "md5": "004ffc62b80bc2418cca065c7b31cf59",
-      "crc32": "e4e0dbc8",
-      "sha1": "286909088e49553f31dd3cfe2e8589ffcdd1ed9c",
+      "btih": "be4b9de647a9fa8644fd6a37d7a137bd79477bbc",
+      "mtime": "1662819088",
+      "size": "490210",
+      "md5": "899f3edccfc56ff1129ce32d9c216ee1",
+      "crc32": "a243fdaa",
+      "sha1": "377dd16ce34b38230aa551b8774216bd6c180bed",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltimoresun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fe79d370b85e46fa6c8d3e603c424d28",
+      "md5": "0b4d7d1369d8b6eb4d0a31c49cf71c8c",
       "summation": "md5"
     },
     {
       "name": "baltimoresun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662776757",
-      "size": "2768896",
-      "md5": "d094b3daff0663fbccf7d07c47a493d2",
-      "crc32": "ae8c5134",
-      "sha1": "144cfaddd31d6b5e380102e29a8371d5221ab5ed",
+      "mtime": "1662818850",
+      "size": "2785280",
+      "md5": "82948b60039f282322ffec0c7bccdc58",
+      "crc32": "8a7ea30c",
+      "sha1": "d9e1cd04a7a48b8d1e9aa9fcf15e0fbbd8f97890",
       "format": "Metadata"
     },
     {
@@ -23650,9 +23774,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2271,
-  "item_last_updated": 1662776933,
-  "item_size": 175852701,
+  "files_count": 2283,
+  "item_last_updated": 1662819088,
+  "item_size": 176665644,
   "metadata": {
     "identifier": "baltimoresun-2022",
     "collection": [
@@ -23669,10 +23793,10 @@
     "publicdate": "2022-04-01 13:16:30",
     "addeddate": "2022-04-01 13:16:30"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 150450639,
+  "server": "ia601508.us.archive.org",
+  "uniq": 2097629493,
   "workable_servers": [
-    "ia801508.us.archive.org",
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

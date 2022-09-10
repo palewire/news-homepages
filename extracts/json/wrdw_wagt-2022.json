@@ -1,5 +1,5 @@
 {
-  "created": 1662777274,
+  "created": 1662819491,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/27/items/wrdw_wagt-2022",
@@ -6084,31 +6084,83 @@
       "sha1": "b11b1dbd094fd7f52f4152dbb287de9de08e8a2c"
     },
     {
+      "name": "wrdw_wagt-2022-09-10T10:16:44.777853-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662819414",
+      "size": "35363",
+      "md5": "9424b8ffacdb512c912e9039b60e8d51",
+      "crc32": "0d4ad8a1",
+      "sha1": "80c9d5ef39c10f1a20923ed66c38fe2f56b3775a",
+      "format": "JSON"
+    },
+    {
+      "name": "wrdw_wagt-2022-09-10T10:16:44.777853-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662819415",
+      "size": "21618",
+      "md5": "f54b927b8d3e453823ef8fbabd9bbe40",
+      "crc32": "f5568f25",
+      "sha1": "bc8558b9c05a8b3b326e7f5b023998e280c9f66f",
+      "format": "JSON"
+    },
+    {
+      "name": "wrdw_wagt-2022-09-10T10:16:44.777853-04:00.jpg",
+      "source": "original",
+      "mtime": "1662819412",
+      "size": "360148",
+      "md5": "cff1e24cec78ba86823abbbd423cde6a",
+      "crc32": "702a8c08",
+      "sha1": "00cbe162ed611f0d87232870eb3df9906baf662c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wrdw_wagt-2022-09-10T10:16:44.777853-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662819417",
+      "size": "1441",
+      "md5": "2a0ab5db34da593fbec8ff1b11479fd0",
+      "crc32": "76e3de8d",
+      "sha1": "93c47e663f3b7c025f49f36acb5e563918764270",
+      "format": "JSON"
+    },
+    {
+      "name": "wrdw_wagt-2022-09-10T10:16:44.777853-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wrdw_wagt-2022-09-10T10:16:44.777853-04:00.jpg",
+      "mtime": "1662819473",
+      "size": "10800",
+      "md5": "9893b3e2e31f3d62ba65c6309be8baaa",
+      "crc32": "6c3f9560",
+      "sha1": "dd05ff3910a2bbbabf9c7b58ffc423168db9adfe"
+    },
+    {
       "name": "wrdw_wagt-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bc0e7da2f6601a40b67b771ba815f02c36ef3541",
-      "mtime": "1662777263",
-      "size": "125807",
-      "md5": "64c73f1c9d74016ceb44257ba72cb7bf",
-      "crc32": "bb29dcd1",
-      "sha1": "edb499941efea21f23958a118d5dc7093b86bd15",
+      "btih": "8ac46df928c5a4be77f870dcd5c70c15a6ab9518",
+      "mtime": "1662819480",
+      "size": "126872",
+      "md5": "0cb099e876a494a9c12a1314476869ff",
+      "crc32": "80c5f44b",
+      "sha1": "14d02b18c1f055edbe6919709c0a222ad349e134",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wrdw_wagt-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4aabca0fb650e0de17100e1084629cde",
+      "md5": "c1942bd9c6a03f99043f43349c41d771",
       "summation": "md5"
     },
     {
       "name": "wrdw_wagt-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662777204",
-      "size": "757760",
-      "md5": "dbae6e39ed3ad2a257605d973c28b3ab",
-      "crc32": "fcbe7278",
-      "sha1": "68f2316bfbe05966aa008427e42a570d0cbde93e",
+      "mtime": "1662819422",
+      "size": "761856",
+      "md5": "b01891af24b909f069ccc2ce139af88f",
+      "crc32": "85fa53ed",
+      "sha1": "57ae370e432f5701842743eae0181d74d6d44885",
       "format": "Metadata"
     },
     {
@@ -6122,9 +6174,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 591,
-  "item_last_updated": 1662777263,
-  "item_size": 46673744,
+  "files_count": 596,
+  "item_last_updated": 1662819480,
+  "item_size": 47108275,
   "metadata": {
     "identifier": "wrdw_wagt-2022",
     "collection": [
@@ -6141,10 +6193,10 @@
     "publicdate": "2022-07-20 23:32:25",
     "addeddate": "2022-07-20 23:32:25"
   },
-  "server": "ia801507.us.archive.org",
-  "uniq": 1054617834,
+  "server": "ia601507.us.archive.org",
+  "uniq": 1844780347,
   "workable_servers": [
-    "ia801507.us.archive.org",
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

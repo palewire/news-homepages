@@ -1,5 +1,5 @@
 {
-  "created": 1662777218,
+  "created": 1662819489,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/26/items/enquirer-2022",
@@ -3302,31 +3302,83 @@
       "sha1": "b192e6bcb51cc61f15686b753fd5b61ed12c4752"
     },
     {
+      "name": "enquirer-2022-09-10T10:17:04.766087-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662819428",
+      "size": "21389",
+      "md5": "5e75c5000ae99a2bdcce160f5141a04e",
+      "crc32": "94b10d79",
+      "sha1": "e862b65a598e1a9de95dea327c1e664b2734de49",
+      "format": "JSON"
+    },
+    {
+      "name": "enquirer-2022-09-10T10:17:04.766087-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662819430",
+      "size": "33651",
+      "md5": "a5a61400d45fe6af610c313eda32a005",
+      "crc32": "e1075757",
+      "sha1": "2830fecc9050433a8dabd5f83c84dbed3c32c71b",
+      "format": "JSON"
+    },
+    {
+      "name": "enquirer-2022-09-10T10:17:04.766087-04:00.jpg",
+      "source": "original",
+      "mtime": "1662819427",
+      "size": "233425",
+      "md5": "2dbc4345fae3798f079939cf1eca3c1b",
+      "crc32": "8445ebcb",
+      "sha1": "b5e12d9c406e7aae080428e6dc8e36285179444d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "enquirer-2022-09-10T10:17:04.766087-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662819431",
+      "size": "1494",
+      "md5": "4799c5ba7692798a23482cc566a73e65",
+      "crc32": "c8ef38a0",
+      "sha1": "0c3200ae7e3ac0d283a47b3099859d5cbebf69fd",
+      "format": "JSON"
+    },
+    {
+      "name": "enquirer-2022-09-10T10:17:04.766087-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enquirer-2022-09-10T10:17:04.766087-04:00.jpg",
+      "mtime": "1662819480",
+      "size": "9278",
+      "md5": "225ef47cf7192ac72cb034257b8df40c",
+      "crc32": "9d1fc537",
+      "sha1": "9ca6a74ae9543dd50ab6bf82930a2b80aa04527c"
+    },
+    {
       "name": "enquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cd74d5812a978143a6b6d6e34fcbe0d0682f3418",
-      "mtime": "1662777208",
-      "size": "68498",
-      "md5": "b6b969a56d1a130d5da708a5c0d9ff11",
-      "crc32": "be0287c2",
-      "sha1": "a76bafca4814ea0fc0ce6c332fafc4137348928b",
+      "btih": "262208f600426f9f0d92209037f2f90d0a1ef5ad",
+      "mtime": "1662819483",
+      "size": "69557",
+      "md5": "a028b5fb08c02bb96cb3ebfcd452b6ea",
+      "crc32": "3329b2b1",
+      "sha1": "8e79cb5cbcfa14ea0f1df219c8ba0ff951147ae6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "enquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2a64806700fb3bce903366f54db7d9eb",
+      "md5": "39c2bbab2e8415850b71d8ac8c592e30",
       "summation": "md5"
     },
     {
       "name": "enquirer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662777155",
-      "size": "425984",
-      "md5": "7f14adac5fa5da50277e1b0b883cdc15",
-      "crc32": "ff104ec5",
-      "sha1": "1c9a277fd3de2d0662539df9496ac9bcadf53395",
+      "mtime": "1662819436",
+      "size": "434176",
+      "md5": "343273beae16197c0f88a600ac23929d",
+      "crc32": "41e4c70d",
+      "sha1": "ecfdfa5413ad000b39b828ddddde96359bc98ff4",
       "format": "Metadata"
     },
     {
@@ -3340,9 +3392,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 323,
-  "item_last_updated": 1662777208,
-  "item_size": 21335358,
+  "files_count": 328,
+  "item_last_updated": 1662819483,
+  "item_size": 21643846,
   "metadata": {
     "identifier": "enquirer-2022",
     "collection": [
@@ -3359,10 +3411,10 @@
     "publicdate": "2022-08-14 06:45:31",
     "addeddate": "2022-08-14 06:45:31"
   },
-  "server": "ia801502.us.archive.org",
-  "uniq": 1848216125,
+  "server": "ia601502.us.archive.org",
+  "uniq": 1098376386,
   "workable_servers": [
-    "ia801502.us.archive.org",
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }
