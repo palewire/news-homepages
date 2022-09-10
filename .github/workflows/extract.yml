@@ -31,7 +31,7 @@ jobs:
           IA_SECRET_KEY: ${{ secrets.IA_SECRET_KEY }}
           IA_COLLECTION: ${{ secrets.IA_COLLECTION }}
 
-      - id: commit
+      - id: commit-items
         name: Commit
         run: |
           git config --global user.name "GitHub Actions"
@@ -52,7 +52,7 @@ jobs:
         run: pipenv run python -m newshomepages.extract consolidate;
         shell: bash
 
-      - id: commit
+      - id: commit-extracts
         name: Commit
         run: |
           git config --global user.name "GitHub Actions"
