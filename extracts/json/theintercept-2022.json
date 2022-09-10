@@ -1,5 +1,5 @@
 {
-  "created": 1662748500,
+  "created": 1662785824,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/30/items/theintercept-2022",
@@ -12348,31 +12348,83 @@
       "sha1": "bc1f812c2d0d7a4d2d01d763d4760f074f0cfca0"
     },
     {
+      "name": "theintercept-2022-09-10T00:55:18.721918-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662785722",
+      "size": "5795",
+      "md5": "ea87b23286db1d02f268854043d51b67",
+      "crc32": "871b9d4b",
+      "sha1": "42b1fe78125dbe7f68f29d7d0e67a0d1fe5d501a",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-09-10T00:55:18.721918-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662785723",
+      "size": "6365",
+      "md5": "54e9d512805df5c651cf6a70a8a6afba",
+      "crc32": "d14ea012",
+      "sha1": "2dc84930ce376bdbc53c8f816c71c25900d1c2b9",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-09-10T00:55:18.721918-04:00.jpg",
+      "source": "original",
+      "mtime": "1662785720",
+      "size": "263704",
+      "md5": "b7f7a2732e30230fc344cc4e0f7cae88",
+      "crc32": "eb641bb5",
+      "sha1": "bab7a00d8df7c936290ddeb63d02787c1f886aea",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theintercept-2022-09-10T00:55:18.721918-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662785725",
+      "size": "1476",
+      "md5": "2b29301e462ed25cf3f31aadf1a31f10",
+      "crc32": "b1cdb2de",
+      "sha1": "00e0af30661540a075940c52453abc216b207a8c",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-09-10T00:55:18.721918-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theintercept-2022-09-10T00:55:18.721918-04:00.jpg",
+      "mtime": "1662785798",
+      "size": "9921",
+      "md5": "e9f9d14708484661eacd04bbc5ef9220",
+      "crc32": "6384029e",
+      "sha1": "85ef519941818265100eba2ba20cc9ce4c48492b"
+    },
+    {
       "name": "theintercept-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7e3e517217506d46e9dc9ed9af360f61f06e771f",
-      "mtime": "1662748487",
-      "size": "254747",
-      "md5": "93737df970203d70dc84cd1c0283cb5b",
-      "crc32": "1f29fa9c",
-      "sha1": "e03da2b53072ecba851598a0171762d989b5b13c",
+      "btih": "851b3e26309cc9b858115acc95653572540c3419",
+      "mtime": "1662785814",
+      "size": "255804",
+      "md5": "2606402009a012e53098fd26fbe5915d",
+      "crc32": "19cba8ab",
+      "sha1": "fc84fc974235cee471201764913bb08a96269734",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theintercept-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bdceb08f057eeb23f9f01c2a2a5b4a3f",
+      "md5": "441279ebdb2a8dc6379735fe079de2f9",
       "summation": "md5"
     },
     {
       "name": "theintercept-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662748388",
-      "size": "1470464",
-      "md5": "f7b6b4657baf3ba52a175e1b4d94ef0c",
-      "crc32": "23bcdcd5",
-      "sha1": "600f146177de7b1261163dc378276dfc82ba4d69",
+      "mtime": "1662785731",
+      "size": "1478656",
+      "md5": "5dd63a2f1c56d241c3453aae94d9a9cd",
+      "crc32": "89c7908e",
+      "sha1": "b618c23df18b6fbaf88fdde77519788da9c3dd29",
       "format": "Metadata"
     },
     {
@@ -12386,9 +12438,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1191,
-  "item_last_updated": 1662748487,
-  "item_size": 66413481,
+  "files_count": 1196,
+  "item_last_updated": 1662785814,
+  "item_size": 66709991,
   "metadata": {
     "identifier": "theintercept-2022",
     "collection": [
@@ -12405,10 +12457,10 @@
     "publicdate": "2022-06-19 23:28:41",
     "addeddate": "2022-06-19 23:28:41"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 210697619,
+  "server": "ia902503.us.archive.org",
+  "uniq": 267590566,
   "workable_servers": [
-    "ia802503.us.archive.org",
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

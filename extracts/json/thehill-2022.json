@@ -1,5 +1,5 @@
 {
-  "created": 1662741487,
+  "created": 1662785830,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/32/items/thehill-2022",
@@ -7210,31 +7210,83 @@
       "sha1": "c0ec3ad19bd236c358ea7844d1649a7cab2f96e0"
     },
     {
+      "name": "thehill-2022-09-10T00:55:24.110436-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662785731",
+      "size": "46445",
+      "md5": "e7cca45fe7f3179c4d150a79c352e21b",
+      "crc32": "801e837e",
+      "sha1": "f79c0a349a02c5ec1b3a46f2cd355b389e5a0672",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-09-10T00:55:24.110436-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662785732",
+      "size": "67168",
+      "md5": "a82824ed28d43d568d5cd249f61dc4a7",
+      "crc32": "cfd18561",
+      "sha1": "1587275ba113526d845203c9187a1d86da96d1c3",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-09-10T00:55:24.110436-04:00.jpg",
+      "source": "original",
+      "mtime": "1662785729",
+      "size": "325726",
+      "md5": "aa4ef6ccba6b25dbb4f7899e7e4d8812",
+      "crc32": "b0c2dddc",
+      "sha1": "3cbc505bd45a69ca5818c153b44ee9e5d961b806",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thehill-2022-09-10T00:55:24.110436-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662785734",
+      "size": "1431",
+      "md5": "2804a367014e22d84faf611afef621e5",
+      "crc32": "4c4f1857",
+      "sha1": "4a12a2be10fdce0e11e69ea1588a01069f2050ee",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-09-10T00:55:24.110436-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thehill-2022-09-10T00:55:24.110436-04:00.jpg",
+      "mtime": "1662785798",
+      "size": "11228",
+      "md5": "3a386f9a0be160eb1a741d34fb542f4f",
+      "crc32": "774c70c1",
+      "sha1": "0ff59ac46e132e9b310bb2d9d1cb9ca0000a29c4"
+    },
+    {
       "name": "thehill-2022_archive.torrent",
       "source": "metadata",
-      "btih": "951faac5e2ccefdbf322e000c12dad82d7d3c120",
-      "mtime": "1662741475",
-      "size": "147273",
-      "md5": "0c00b74ccefc63aae95dc268d3da1843",
-      "crc32": "c84120e6",
-      "sha1": "5490f4ff75e08d6fac4429248c83342c5890da0b",
+      "btih": "8c0f36e50e8e6b1543560d6bc0a3b29feb077457",
+      "mtime": "1662785811",
+      "size": "148308",
+      "md5": "17adc3c3077618e0dfea39c26756a666",
+      "crc32": "6b2f2f63",
+      "sha1": "0f28ee5d95ee46486a555c1c5737a8d28a4f2c61",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thehill-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "902fa1edd7fe90d444d5ea5f6b8de62a",
+      "md5": "f4d862458ba9c9149d597feeb3073ec4",
       "summation": "md5"
     },
     {
       "name": "thehill-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662741409",
-      "size": "872448",
-      "md5": "e8704ea3f4c97b4283aadb0699af17d4",
-      "crc32": "e6356b2a",
-      "sha1": "86cdfc1a62c23c4f3bbc99e1776b5f5d90b4e13a",
+      "mtime": "1662785739",
+      "size": "880640",
+      "md5": "ab619c0627e173db07867450b11943ad",
+      "crc32": "3ca42cf7",
+      "sha1": "54632d94cb6f853eebf88cc53171d5d03a73d311",
       "format": "Metadata"
     },
     {
@@ -7248,9 +7300,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 698,
-  "item_last_updated": 1662741475,
-  "item_size": 60987487,
+  "files_count": 703,
+  "item_last_updated": 1662785811,
+  "item_size": 61448712,
   "metadata": {
     "identifier": "thehill-2022",
     "collection": [
@@ -7267,10 +7319,10 @@
     "publicdate": "2022-07-04 21:46:22",
     "addeddate": "2022-07-04 21:46:22"
   },
-  "server": "ia601508.us.archive.org",
-  "uniq": 960104479,
+  "server": "ia801508.us.archive.org",
+  "uniq": 1725081983,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia801508.us.archive.org",
+    "ia601508.us.archive.org"
   ]
 }

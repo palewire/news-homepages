@@ -1,5 +1,5 @@
 {
-  "created": 1662741633,
+  "created": 1662785941,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/30/items/ynetalerts-2022",
@@ -3260,31 +3260,83 @@
       "sha1": "1f7de4879058e2f6ba2bbb792e1cb94254719f10"
     },
     {
+      "name": "ynetalerts-2022-09-10T07:57:19.675392+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662785842",
+      "size": "237518",
+      "md5": "d48306c7a131c2a5c27d61a34a3595e7",
+      "crc32": "ddc4bf37",
+      "sha1": "124c36dda6801d31dbe7c3ae1992047622019cd1",
+      "format": "JSON"
+    },
+    {
+      "name": "ynetalerts-2022-09-10T07:57:19.675392+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662785844",
+      "size": "105891",
+      "md5": "4c5719007a2a7aee8e3349f4c719739b",
+      "crc32": "eab67211",
+      "sha1": "a52b487f0b672059d7655f105a2cc73ce6004b15",
+      "format": "JSON"
+    },
+    {
+      "name": "ynetalerts-2022-09-10T07:57:19.675392+03:00.jpg",
+      "source": "original",
+      "mtime": "1662785841",
+      "size": "299068",
+      "md5": "d082a9a464d7e5df8340348b796b2426",
+      "crc32": "a3bf301e",
+      "sha1": "5169738df58b2562ffc7ff791ffaaa0d8068b640",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ynetalerts-2022-09-10T07:57:19.675392+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662785845",
+      "size": "1530",
+      "md5": "14fb1a07b3de1e43dca1f91b4bbbf6bc",
+      "crc32": "68b59588",
+      "sha1": "199553c0c50b5d62fe3123bc764cd7d66ef09a79",
+      "format": "JSON"
+    },
+    {
+      "name": "ynetalerts-2022-09-10T07:57:19.675392+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ynetalerts-2022-09-10T07:57:19.675392+03:00.jpg",
+      "mtime": "1662785911",
+      "size": "10288",
+      "md5": "529c3fddf5bb768b37575bafb819c8d0",
+      "crc32": "a9e3c41b",
+      "sha1": "43eb31b5cd4b78d584d64ede4b9323d9d187a33e"
+    },
+    {
       "name": "ynetalerts-2022_archive.torrent",
       "source": "metadata",
-      "btih": "22bb375ba55c3f45c57f1bc959d02593c7899dbe",
-      "mtime": "1662741625",
-      "size": "69161",
-      "md5": "2c28716dc6045ec23371fa9c3ce9ed6f",
-      "crc32": "2ee0f826",
-      "sha1": "6c0f6c71fce6a6a9cc9f55ae42d95262954bca52",
+      "btih": "4f1e2dcd8aa015aa079c21f39a0185741c30808a",
+      "mtime": "1662785916",
+      "size": "70233",
+      "md5": "dcfe646301017189f40142e604d065bf",
+      "crc32": "2a194f1b",
+      "sha1": "d3689cd40ac073db5946b0a4e02eb68cf699b589",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ynetalerts-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ab6c7cd27611ccfd2579b6e3dbc04d9f",
+      "md5": "c7fb74b9f5cb2b75103b19fd4ae9b51f",
       "summation": "md5"
     },
     {
       "name": "ynetalerts-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662741573",
-      "size": "425984",
-      "md5": "e8f592164585789f87d033a437731874",
-      "crc32": "4ef27583",
-      "sha1": "f58203de66d0490139d6f9a610e1d01267428da4",
+      "mtime": "1662785850",
+      "size": "430080",
+      "md5": "f92b44500679ab930f710b9abc4b9891",
+      "crc32": "387b8516",
+      "sha1": "6f4e5d98e80a565c74fde2be56e6a4049e2c92a1",
       "format": "Metadata"
     },
     {
@@ -3298,9 +3350,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 319,
-  "item_last_updated": 1662741625,
-  "item_size": 39035616,
+  "files_count": 324,
+  "item_last_updated": 1662785916,
+  "item_size": 39695079,
   "metadata": {
     "identifier": "ynetalerts-2022",
     "collection": [
@@ -3317,10 +3369,10 @@
     "publicdate": "2022-08-14 07:13:17",
     "addeddate": "2022-08-14 07:13:17"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 1529506660,
+  "server": "ia601501.us.archive.org",
+  "uniq": 45415262,
   "workable_servers": [
-    "ia801501.us.archive.org",
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

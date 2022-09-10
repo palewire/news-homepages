@@ -1,5 +1,5 @@
 {
-  "created": 1662741554,
+  "created": 1662785947,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/32/items/voicesofbay-2022",
@@ -7210,31 +7210,82 @@
       "sha1": "ae29f7b8b99d6f61c08376bdea582888558b0532"
     },
     {
+      "name": "voicesofbay-2022-09-09T21:56:42.116120-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662785811",
+      "size": "31537",
+      "md5": "7e54b6c1d00c68abbfd1034820e43eac",
+      "crc32": "416a081c",
+      "sha1": "b719f9c9325cda2d1d43713f374025588207b6ca",
+      "format": "JSON"
+    },
+    {
+      "name": "voicesofbay-2022-09-09T21:56:42.116120-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662785813",
+      "size": "14776",
+      "md5": "ae207b9099ab6d380c58d07cab088801",
+      "crc32": "fc4a23c7",
+      "sha1": "15bc37cf99878942bfff2274989da1a8ad751041",
+      "format": "JSON"
+    },
+    {
+      "name": "voicesofbay-2022-09-09T21:56:42.116120-07:00.jpg",
+      "source": "original",
+      "mtime": "1662785810",
+      "size": "211106",
+      "md5": "3ea96d4e32a82b8758fcb9bbd7561c7d",
+      "crc32": "a5015758",
+      "sha1": "1f6cbed1ad70393f6226f55a39437e9f4dd2d0a9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "voicesofbay-2022-09-09T21:56:42.116120-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662785815",
+      "size": "1540",
+      "md5": "715218e5fce0bdebe65a749e817a48fa",
+      "crc32": "52c037bc",
+      "sha1": "9465752fed64d699d9e902f577d0320e2da0d42e",
+      "format": "JSON"
+    },
+    {
+      "name": "voicesofbay-2022-09-09T21:56:42.116120-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662785817",
+      "size": "15007",
+      "md5": "05ca32bd63fe5cd1e806fa14a878e718",
+      "crc32": "f12e4704",
+      "sha1": "45debca07556deb2ca8807dee7e411159d5adb20",
+      "format": "JSON"
+    },
+    {
       "name": "voicesofbay-2022_archive.torrent",
       "source": "metadata",
-      "btih": "88e284255361a971338ae6829fc2627972875be9",
-      "mtime": "1662741543",
-      "size": "148898",
-      "md5": "ba8c6de5651c7d9124b057253e6d69d9",
-      "crc32": "226f89ca",
-      "sha1": "437ff0e90acd75facb1c4678d0379e1a53538817",
+      "btih": "d2718bc50313d3e54e35ee0d8e20c55a14b009cb",
+      "mtime": "1662785935",
+      "size": "149976",
+      "md5": "f8fe5c4b4c82101310adf2569e60e2f5",
+      "crc32": "50a73159",
+      "sha1": "11fcb77413e69a0bbfb5b721cee540b58c1e7e4a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voicesofbay-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "68052543da8b2ae14878dbf8aab68024",
+      "md5": "3eb04d9db99959b464df739ee268c023",
       "summation": "md5"
     },
     {
       "name": "voicesofbay-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662741479",
-      "size": "876544",
-      "md5": "db84f500695ff1b769d15acba92f7ffd",
-      "crc32": "f5080039",
-      "sha1": "357c6d7790a03dd850a1835c73a22e9ac98dc308",
+      "mtime": "1662785863",
+      "size": "884736",
+      "md5": "8911d4ec99af6249c7aafc21a9beea67",
+      "crc32": "b745e986",
+      "sha1": "411e320b76502c5e0827a6a67fac9af7b4069a36",
       "format": "Metadata"
     },
     {
@@ -7248,9 +7299,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 698,
-  "item_last_updated": 1662741543,
-  "item_size": 33552826,
+  "files_count": 703,
+  "item_last_updated": 1662785935,
+  "item_size": 33836062,
   "metadata": {
     "identifier": "voicesofbay-2022",
     "collection": [
@@ -7267,10 +7318,21 @@
     "publicdate": "2022-07-09 04:04:49",
     "addeddate": "2022-07-09 04:04:49"
   },
+  "pending_tasks": true,
   "server": "ia601503.us.archive.org",
-  "uniq": 383446118,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3398291111,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 431508101,
   "workable_servers": [
-    "ia601503.us.archive.org",
-    "ia801503.us.archive.org"
+    "ia601503.us.archive.org"
   ]
 }

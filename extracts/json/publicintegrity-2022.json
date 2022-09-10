@@ -1,5 +1,5 @@
 {
-  "created": 1662741266,
+  "created": 1662785620,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/25/items/publicintegrity-2022",
@@ -10086,31 +10086,93 @@
       "sha1": "e1d481e9638043bb2882a47f25f1bbe785775aa6"
     },
     {
+      "name": "publicintegrity-2022-09-10T00:51:35.024978-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662785498",
+      "size": "20411",
+      "md5": "4348c8eefcc2d361698fdc3c5941dcf9",
+      "crc32": "00458886",
+      "sha1": "f71536f77bbf32a321695f62890a52d9bf421e2e",
+      "format": "JSON"
+    },
+    {
+      "name": "publicintegrity-2022-09-10T00:51:35.024978-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662785500",
+      "size": "22548",
+      "md5": "265b9992a455da80bff9de243321cf13",
+      "crc32": "21766094",
+      "sha1": "4aa2104bc1277b8b4e78ebbbef8f14993ac28410",
+      "format": "JSON"
+    },
+    {
+      "name": "publicintegrity-2022-09-10T00:51:35.024978-04:00.jpg",
+      "source": "original",
+      "mtime": "1662785496",
+      "size": "256082",
+      "md5": "d0eea88d3aea2491f9815c4d61333640",
+      "crc32": "3e2777a5",
+      "sha1": "98ed559c3d0467d1352e4c68211f91c0834c81fe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "publicintegrity-2022-09-10T00:51:35.024978-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662785501",
+      "size": "1495",
+      "md5": "add49df123d58eae9abf0471e1506e14",
+      "crc32": "a61490a8",
+      "sha1": "f84cb2cbd682ebb2051ddbb5ac719152e0d87fc2",
+      "format": "JSON"
+    },
+    {
+      "name": "publicintegrity-2022-09-10T00:51:35.024978-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662785503",
+      "size": "17986",
+      "md5": "d28a40e83e20945aa169fcdfd85e665d",
+      "crc32": "242bcff7",
+      "sha1": "c14f161ffe7cc3983d27cc01e45e67b92092b882",
+      "format": "JSON"
+    },
+    {
+      "name": "publicintegrity-2022-09-10T00:51:35.024978-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "publicintegrity-2022-09-10T00:51:35.024978-04:00.jpg",
+      "mtime": "1662785576",
+      "size": "9832",
+      "md5": "936d25af190a006c79868e904c2e02e5",
+      "crc32": "2259f0bf",
+      "sha1": "3941102ba77310beb03e5d2be0aeeaf178789b9b"
+    },
+    {
       "name": "publicintegrity-2022_archive.torrent",
       "source": "metadata",
-      "btih": "efca023b9f042d920398c0202ce50733751476b2",
-      "mtime": "1662741247",
-      "size": "211954",
-      "md5": "3a6de509cf60b9faa5efae7b4b4a6dac",
-      "crc32": "0ae789fb",
-      "sha1": "1dce108ae6223f5341145d3aac7cbe110b7ca1d4",
+      "btih": "5ed808dd3e370e09154ce15a751d6bd65167c560",
+      "mtime": "1662785587",
+      "size": "213243",
+      "md5": "a8050b96941e8b9d0eed7a966f729d5c",
+      "crc32": "1f395638",
+      "sha1": "7fe6d9a14f31bce93f0d34f6576e79560e19df8c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "publicintegrity-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a86d6b86897e3218814e5d33e18598b6",
+      "md5": "ebb4f4618f61b0e6808acbc34d845283",
       "summation": "md5"
     },
     {
       "name": "publicintegrity-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662741156",
-      "size": "1196032",
-      "md5": "eee84046c96659455811aaa6ab6332ab",
-      "crc32": "936023d9",
-      "sha1": "dc7cf022554d1f68c96e7880b56e16578446583b",
+      "mtime": "1662785509",
+      "size": "1208320",
+      "md5": "b26e0e5d4f046b5152efce52b6bdfd0c",
+      "crc32": "6f4058ff",
+      "sha1": "6dadd7aa6e24cfdc85a72f3b5908cf45a48707e2",
       "format": "Metadata"
     },
     {
@@ -10124,9 +10186,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 972,
-  "item_last_updated": 1662741247,
-  "item_size": 71688194,
+  "files_count": 978,
+  "item_last_updated": 1662785587,
+  "item_size": 72030125,
   "metadata": {
     "identifier": "publicintegrity-2022",
     "collection": [
@@ -10144,7 +10206,7 @@
     "addeddate": "2022-06-18 03:27:11"
   },
   "server": "ia801407.us.archive.org",
-  "uniq": 1783860711,
+  "uniq": 1981675694,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"

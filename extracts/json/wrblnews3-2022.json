@@ -1,5 +1,5 @@
 {
-  "created": 1662741708,
+  "created": 1662785931,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/10/items/wrblnews3-2022",
@@ -5672,31 +5672,83 @@
       "sha1": "d29b03c063f35278c4bff566bdc4b53a99c604ac"
     },
     {
+      "name": "wrblnews3-2022-09-10T00:57:21.640353-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662785844",
+      "size": "43135",
+      "md5": "8fa950783efb4dd0e99b9c4294b6cab3",
+      "crc32": "bffef7bc",
+      "sha1": "1577dcabbbbf0e4548d5cfecc4107c56b5d85624",
+      "format": "JSON"
+    },
+    {
+      "name": "wrblnews3-2022-09-10T00:57:21.640353-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662785846",
+      "size": "95660",
+      "md5": "2e53310c693f6b00ddd3608ac243f207",
+      "crc32": "dbe7bb56",
+      "sha1": "2179cd1907854db6134e7d15985c5ff6af2a6d39",
+      "format": "JSON"
+    },
+    {
+      "name": "wrblnews3-2022-09-10T00:57:21.640353-04:00.jpg",
+      "source": "original",
+      "mtime": "1662785843",
+      "size": "286652",
+      "md5": "862fc221166f35a56c6b95bbefaabb73",
+      "crc32": "0a4f6149",
+      "sha1": "655ac391948d29b64d15f3c476f1d89583e88486",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wrblnews3-2022-09-10T00:57:21.640353-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662785848",
+      "size": "1438",
+      "md5": "c6c412975f337e14b9ef75b4f913f1d2",
+      "crc32": "cc623ade",
+      "sha1": "563a0172b316e1c9500bedb0b03a41a4b4f0a524",
+      "format": "JSON"
+    },
+    {
+      "name": "wrblnews3-2022-09-10T00:57:21.640353-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wrblnews3-2022-09-10T00:57:21.640353-04:00.jpg",
+      "mtime": "1662785912",
+      "size": "10353",
+      "md5": "d2833ddea8c26992ba665bbdc464795e",
+      "crc32": "e7484242",
+      "sha1": "7ff0ae890e1ea9ff5fb348c960a468165a47cb4d"
+    },
+    {
       "name": "wrblnews3-2022_archive.torrent",
       "source": "metadata",
-      "btih": "786f4168654a67200785da9a2e82a2aec49b1fcc",
-      "mtime": "1662741680",
-      "size": "117387",
-      "md5": "2b448d8db18a53c8aa0774d95d516554",
-      "crc32": "34a00c8a",
-      "sha1": "622bb1fd1f5f8735a6500bfa98a74001e334acb6",
+      "btih": "48bb05e7cd503bc028ffea25b0b5dd47f031c045",
+      "mtime": "1662785920",
+      "size": "118452",
+      "md5": "1f69a188c313998760c9ffc736ace4c8",
+      "crc32": "407e3861",
+      "sha1": "b557be9335f423bae6f857cb84ac5f85a9ad6edb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wrblnews3-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "eee6533ea0ab9f188cd9706e37dbb0ec",
+      "md5": "9ef84dc8e2b1d7fa7b536d750ab9fe73",
       "summation": "md5"
     },
     {
       "name": "wrblnews3-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662741560",
-      "size": "704512",
-      "md5": "a63c7338e3346b63e1723ff08c587d22",
-      "crc32": "c5396b96",
-      "sha1": "ef7f818c251a10f864e28eaeed5174d3129ef3f9",
+      "mtime": "1662785851",
+      "size": "708608",
+      "md5": "f0aef6320928c84ba26091d53d33e037",
+      "crc32": "43b59aa4",
+      "sha1": "4621f7b75f4e95e5ab90c0a3a2db9552322b1095",
       "format": "Metadata"
     },
     {
@@ -5710,9 +5762,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 551,
-  "item_last_updated": 1662741680,
-  "item_size": 46016357,
+  "files_count": 556,
+  "item_last_updated": 1662785920,
+  "item_size": 46458756,
   "metadata": {
     "identifier": "wrblnews3-2022",
     "collection": [
@@ -5729,10 +5781,10 @@
     "publicdate": "2022-07-22 16:23:09",
     "addeddate": "2022-07-22 16:23:09"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 1360549519,
+  "server": "ia601500.us.archive.org",
+  "uniq": 900068510,
   "workable_servers": [
-    "ia801500.us.archive.org",
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }
