@@ -1,6 +1,5 @@
 {
-  "conflict": 1662826091,
-  "created": 1662826091,
+  "created": 1662826142,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/24/items/nbcchicago-2022",
@@ -10777,24 +10776,29 @@
       "name": "nbcchicago-2022-09-10T11:05:23.287917-05:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "nbcchicago-2022-09-10T11:05:23.287917-05:00.jpg"
+      "original": "nbcchicago-2022-09-10T11:05:23.287917-05:00.jpg",
+      "mtime": "1662826087",
+      "size": "10131",
+      "md5": "b83264de5ad66341327eea38feaf8895",
+      "crc32": "d22904dd",
+      "sha1": "700751be17a227d0f4a1a8317120bd10744c94c1"
     },
     {
       "name": "nbcchicago-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b84346857b6265d57f8ef8782e2c7de649b91e65",
-      "mtime": "1662826053",
-      "size": "222472",
-      "md5": "9f6f82ea9d01534f078485808448637e",
-      "crc32": "299c3586",
-      "sha1": "030bc76847361e24e1626f8f4f450bbfb380b871",
+      "btih": "b2e34d6ab5a3b2b6ab0f67e885f36c06b6ef6420",
+      "mtime": "1662826118",
+      "size": "222679",
+      "md5": "bf342fd4f50f40c4a02504e75b901e38",
+      "crc32": "c7719396",
+      "sha1": "9bb3addf5ea9ac678f49e49b5a622bc9223b7f19",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcchicago-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "de6e949a97a113282bedf653bb5663f1",
+      "md5": "a4cb3461b92fc23aa54b8bdfba23768b",
       "summation": "md5"
     },
     {
@@ -10819,8 +10823,8 @@
     }
   ],
   "files_count": 1042,
-  "item_last_updated": 1662826053,
-  "item_size": 91033407,
+  "item_last_updated": 1662826118,
+  "item_size": 91043745,
   "metadata": {
     "identifier": "nbcchicago-2022",
     "collection": [
@@ -10837,21 +10841,10 @@
     "publicdate": "2022-07-03 15:31:29",
     "addeddate": "2022-07-03 15:31:29"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3398682685,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 2053303973,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1503104410,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }
