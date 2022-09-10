@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 280 screenshots with the Internet Archive.
+The archiving routine has saved 281 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 280 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thedbk-2022/thedbk-2022-09-10T12:11:45.585748-04:00.jpg">
+  <img src="https://archive.org/download/thedbk-2022/thedbk-2022-09-10T12:11:45.585748-04:00.jpg"
+     alt="The Diamondback at 2022-09-10 12:11:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-09-10T12:11:45.585748-04:00.jpg">September 10 at 12:11 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thedbk-2022/thedbk-2022-09-10T00:55:25.061904-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-09-04T00:43:19.808111-04:00.jpg">September 4 at 12:43 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thedbk-2022/thedbk-2022-09-03T12:06:01.541730-04:00.jpg">
-  <img src="https://archive.org/download/thedbk-2022/thedbk-2022-09-03T12:06:01.541730-04:00.jpg"
-     alt="The Diamondback at 2022-09-03 12:06:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-09-03T12:06:01.541730-04:00.jpg">September 3 at 12:06 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 285 hyperlink lists with the Internet Archive.
+The archiving routine has saved 286 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 10 at 12:11 PM](https://archive.org/download/thedbk-2022/thedbk-2022-09-10T12:11:45.585748-04:00.hyperlinks.json) |
 | [September 10 at 12:55 AM](https://archive.org/download/thedbk-2022/thedbk-2022-09-10T00:55:25.061904-04:00.hyperlinks.json) |
 | [September 9 at 12:36 PM](https://archive.org/download/thedbk-2022/thedbk-2022-09-09T12:36:10.094703-04:00.hyperlinks.json) |
 | [September 9 at 12:58 AM](https://archive.org/download/thedbk-2022/thedbk-2022-09-09T00:58:20.286646-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 12:55 AM](https://archive.org/download/thedbk-2022/thedbk-2022-09-07T00:55:43.425530-04:00.hyperlinks.json) |
 | [September 6 at 12:58 AM](https://archive.org/download/thedbk-2022/thedbk-2022-09-06T00:58:27.195544-04:00.hyperlinks.json) |
 | [September 5 at 12:25 PM](https://archive.org/download/thedbk-2022/thedbk-2022-09-05T12:25:04.191749-04:00.hyperlinks.json) |
-| [September 5 at 12:55 AM](https://archive.org/download/thedbk-2022/thedbk-2022-09-05T00:55:13.216066-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 285 accessibility trees with the Internet Archive.
+The archiving routine has saved 286 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 10 at 12:11 PM](https://archive.org/download/thedbk-2022/thedbk-2022-09-10T12:11:45.585748-04:00.accessibility.json) |
 | [September 10 at 12:55 AM](https://archive.org/download/thedbk-2022/thedbk-2022-09-10T00:55:25.061904-04:00.accessibility.json) |
 | [September 9 at 12:36 PM](https://archive.org/download/thedbk-2022/thedbk-2022-09-09T12:36:10.094703-04:00.accessibility.json) |
 | [September 9 at 12:58 AM](https://archive.org/download/thedbk-2022/thedbk-2022-09-09T00:58:20.286646-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 12:55 AM](https://archive.org/download/thedbk-2022/thedbk-2022-09-07T00:55:43.425530-04:00.accessibility.json) |
 | [September 6 at 12:58 AM](https://archive.org/download/thedbk-2022/thedbk-2022-09-06T00:58:27.195544-04:00.accessibility.json) |
 | [September 5 at 12:25 PM](https://archive.org/download/thedbk-2022/thedbk-2022-09-05T12:25:04.191749-04:00.accessibility.json) |
-| [September 5 at 12:55 AM](https://archive.org/download/thedbk-2022/thedbk-2022-09-05T00:55:13.216066-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 96 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 97 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 10 at 12:11 PM](https://archive.org/download/thedbk-2022/thedbk-2022-09-10T12:11:45.585748-04:00.lighthouse.json) |
 | [September 10 at 12:55 AM](https://archive.org/download/thedbk-2022/thedbk-2022-09-10T00:55:25.061904-04:00.lighthouse.json) |
 | [September 9 at 12:36 PM](https://archive.org/download/thedbk-2022/thedbk-2022-09-09T12:36:10.094703-04:00.lighthouse.json) |
 | [September 9 at 12:58 AM](https://archive.org/download/thedbk-2022/thedbk-2022-09-09T00:58:20.286646-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 12:55 AM](https://archive.org/download/thedbk-2022/thedbk-2022-09-07T00:55:43.425530-04:00.lighthouse.json) |
 | [September 6 at 12:58 AM](https://archive.org/download/thedbk-2022/thedbk-2022-09-06T00:58:27.195544-04:00.lighthouse.json) |
 | [September 5 at 12:25 PM](https://archive.org/download/thedbk-2022/thedbk-2022-09-05T12:25:04.191749-04:00.lighthouse.json) |
-| [September 5 at 12:55 AM](https://archive.org/download/thedbk-2022/thedbk-2022-09-05T00:55:13.216066-04:00.lighthouse.json) |
 
 
 

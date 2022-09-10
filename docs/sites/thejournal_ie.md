@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 105 screenshots with the Internet Archive.
+The archiving routine has saved 106 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 105 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-10T17:12:26.931537+01:00.jpg">
+  <img src="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-10T17:12:26.931537+01:00.jpg"
+     alt="Journal.ie at 2022-09-10 17:12:31+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-10T17:12:26.931537+01:00.jpg">September 10 at 5:12 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-10T05:56:07.005968+01:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-03T17:05:14.221249+01:00.jpg">September 3 at 5:05 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-03T05:44:19.831161+01:00.jpg">
-  <img src="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-03T05:44:19.831161+01:00.jpg"
-     alt="Journal.ie at 2022-09-03 05:44:21+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-03T05:44:19.831161+01:00.jpg">September 3 at 5:44 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 107 hyperlink lists with the Internet Archive.
+The archiving routine has saved 108 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 10 at 5:12 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-10T17:12:26.931537+01:00.hyperlinks.json) |
 | [September 10 at 5:56 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-10T05:56:07.005968+01:00.hyperlinks.json) |
 | [September 9 at 5:37 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-09T17:37:18.904423+01:00.hyperlinks.json) |
 | [September 9 at 5:57 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-09T05:57:27.678452+01:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 5:56 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-07T05:56:04.682335+01:00.hyperlinks.json) |
 | [September 5 at 5:26 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-05T17:26:00.650251+01:00.hyperlinks.json) |
 | [September 5 at 5:55 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-05T05:55:14.023577+01:00.hyperlinks.json) |
-| [September 4 at 5:47 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-04T17:47:03.690712+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 107 accessibility trees with the Internet Archive.
+The archiving routine has saved 108 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 10 at 5:12 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-10T17:12:26.931537+01:00.accessibility.json) |
 | [September 10 at 5:56 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-10T05:56:07.005968+01:00.accessibility.json) |
 | [September 9 at 5:37 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-09T17:37:18.904423+01:00.accessibility.json) |
 | [September 9 at 5:57 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-09T05:57:27.678452+01:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 5:56 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-07T05:56:04.682335+01:00.accessibility.json) |
 | [September 5 at 5:26 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-05T17:26:00.650251+01:00.accessibility.json) |
 | [September 5 at 5:55 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-05T05:55:14.023577+01:00.accessibility.json) |
-| [September 4 at 5:47 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-04T17:47:03.690712+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 95 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 96 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 10 at 5:12 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-10T17:12:26.931537+01:00.lighthouse.json) |
 | [September 10 at 5:56 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-10T05:56:07.005968+01:00.lighthouse.json) |
 | [September 9 at 5:37 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-09T17:37:18.904423+01:00.lighthouse.json) |
 | [September 9 at 5:57 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-09T05:57:27.678452+01:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 5:56 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-07T05:56:04.682335+01:00.lighthouse.json) |
 | [September 5 at 5:26 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-05T17:26:00.650251+01:00.lighthouse.json) |
 | [September 5 at 5:55 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-05T05:55:14.023577+01:00.lighthouse.json) |
-| [September 4 at 5:47 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-09-04T17:47:03.690712+01:00.lighthouse.json) |
 
 
 
