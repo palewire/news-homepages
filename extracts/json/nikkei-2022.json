@@ -1,5 +1,5 @@
 {
-  "created": 1662776667,
+  "created": 1662782305,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/23/items/nikkei-2022",
@@ -10144,31 +10144,83 @@
       "sha1": "66d87ffc70c2e30d5698b864b20889627fd7e375"
     },
     {
+      "name": "nikkei-2022-09-10T12:56:33.993915+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662782197",
+      "size": "70625",
+      "md5": "1758a4b3b786e057f0bb89a5e32196c7",
+      "crc32": "e572b19f",
+      "sha1": "94fec1548cc6d8dfcd7e8d17c8203cd7871b308c",
+      "format": "JSON"
+    },
+    {
+      "name": "nikkei-2022-09-10T12:56:33.993915+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662782198",
+      "size": "163773",
+      "md5": "81a487a9660cedab5c1b110a4ea2bdd0",
+      "crc32": "d7164418",
+      "sha1": "a6cdb99bb857b2ea836fee4551f41394026672f0",
+      "format": "JSON"
+    },
+    {
+      "name": "nikkei-2022-09-10T12:56:33.993915+09:00.jpg",
+      "source": "original",
+      "mtime": "1662782195",
+      "size": "293349",
+      "md5": "458b387d3a2c4a660f7aa7384757d8d5",
+      "crc32": "03ee3afe",
+      "sha1": "a002989cad1e1b124ad908a374037d6d7b0723ca",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nikkei-2022-09-10T12:56:33.993915+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662782201",
+      "size": "1450",
+      "md5": "d436526f2aa197fa9600d4ef883a9be7",
+      "crc32": "1e38dc11",
+      "sha1": "0ed1b2d9b00f4ef83ebf36d386767fcaf5f02965",
+      "format": "JSON"
+    },
+    {
+      "name": "nikkei-2022-09-10T12:56:33.993915+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nikkei-2022-09-10T12:56:33.993915+09:00.jpg",
+      "mtime": "1662782270",
+      "size": "10376",
+      "md5": "97485da2ef5a03f26cd42a8e76bb38dc",
+      "crc32": "0087ffcd",
+      "sha1": "c5c1d34a4068a07aa3a0df785e6c9ce440fb83cf"
+    },
+    {
       "name": "nikkei-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3f02679806efffc6c798027eef370fa564d4ae94",
-      "mtime": "1662776647",
-      "size": "206913",
-      "md5": "9f086c4270ad15b31fb8c276b92b0539",
-      "crc32": "624e7327",
-      "sha1": "4f71e39b55b883eb4bf70c0e36a4a008ee73196d",
+      "btih": "7361ac820b8eba53bdc08a923f2cdb7951cfd11b",
+      "mtime": "1662782292",
+      "size": "207964",
+      "md5": "4cdae876bd7b2df326e5423023e39e48",
+      "crc32": "4f1d4503",
+      "sha1": "4b2d314f759dbfe40446c17bc43d8426f863379f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nikkei-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e4780c8c11f1918648143312bb069207",
+      "md5": "454773beac97a2b086da922588a5939b",
       "summation": "md5"
     },
     {
       "name": "nikkei-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662776579",
-      "size": "1216512",
-      "md5": "1e42a7d490242a33706b3c99d02bea22",
-      "crc32": "bb9d0872",
-      "sha1": "6d09203790213a6c7b12cde1d405f56c1d6ae924",
+      "mtime": "1662782206",
+      "size": "1224704",
+      "md5": "f0c684ebd5592a804f5ccc7940e21582",
+      "crc32": "6e7cdf13",
+      "sha1": "6d85f74cae3ae6d14c7db2f778ac24acd85f525b",
       "format": "Metadata"
     },
     {
@@ -10182,9 +10234,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 981,
-  "item_last_updated": 1662776647,
-  "item_size": 108765947,
+  "files_count": 986,
+  "item_last_updated": 1662782292,
+  "item_size": 109314763,
   "metadata": {
     "identifier": "nikkei-2022",
     "collection": [
@@ -10201,10 +10253,10 @@
     "publicdate": "2022-07-09 02:39:07",
     "addeddate": "2022-07-09 02:39:07"
   },
-  "server": "ia601406.us.archive.org",
-  "uniq": 716591341,
+  "server": "ia801406.us.archive.org",
+  "uniq": 269751617,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia801406.us.archive.org",
+    "ia601406.us.archive.org"
   ]
 }

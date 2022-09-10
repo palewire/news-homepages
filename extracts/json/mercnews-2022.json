@@ -1,5 +1,5 @@
 {
-  "created": 1662699227,
+  "created": 1662782165,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/16/items/mercnews-2022",
@@ -14372,31 +14372,145 @@
       "sha1": "f2c6628ff1c2c8a41e92913f5d499b14d51bb349"
     },
     {
+      "name": "mercnews-2022-09-09T09:27:40.520360-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662740882",
+      "size": "44066",
+      "md5": "246f99af57d93bebdfdd2e136b5e971d",
+      "crc32": "d97fcb75",
+      "sha1": "6f1756677ef46b1cb9cc95275ecc5ff26da206f5",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-09-09T09:27:40.520360-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662740884",
+      "size": "56664",
+      "md5": "a54e4c954c8e014aefabe4dc559c364e",
+      "crc32": "e81e58c5",
+      "sha1": "a1352fc70d81e75bc5fceac12e5813737a167ef5",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-09-09T09:27:40.520360-07:00.jpg",
+      "source": "original",
+      "mtime": "1662740880",
+      "size": "288679",
+      "md5": "651957f3d67b27daa66228d65c9fecc5",
+      "crc32": "b4146af3",
+      "sha1": "79504a7bce690297216fd5ad49f07aa21895b35a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mercnews-2022-09-09T09:27:40.520360-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662740886",
+      "size": "1503",
+      "md5": "54002c57fbd0cf3a85b1f380790c1924",
+      "crc32": "e25b3596",
+      "sha1": "dce29be02c7587fdc63210703b0d248d627304a2",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-09-09T09:27:40.520360-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662740887",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-09-09T09:27:40.520360-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mercnews-2022-09-09T09:27:40.520360-07:00.jpg",
+      "mtime": "1662740963",
+      "size": "9360",
+      "md5": "6c0642b9836e0601f71dfc0152fcd0b2",
+      "crc32": "d88839f2",
+      "sha1": "af7e0c8356bb27a1d49a72242f2cb26040d2ad55"
+    },
+    {
+      "name": "mercnews-2022-09-09T20:54:18.895385-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662782063",
+      "size": "40552",
+      "md5": "f7284e82d865ab8a368e72a6bb23cc40",
+      "crc32": "95e943ef",
+      "sha1": "62e5f8893016d72e3d2b5b9471fd04d47504e4ff",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-09-09T20:54:18.895385-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662782065",
+      "size": "47478",
+      "md5": "4570a3f3c04536c8123fc8c01fe4ae9b",
+      "crc32": "45076637",
+      "sha1": "c4237daa1b11d397a12707672898821f21efe34f",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-09-09T20:54:18.895385-07:00.jpg",
+      "source": "original",
+      "mtime": "1662782060",
+      "size": "269761",
+      "md5": "f20705e18ec01b73fd38d14d11e16005",
+      "crc32": "f4fb9c91",
+      "sha1": "0b26c9a88b2a64df91714505433f15f9b9b1a548",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mercnews-2022-09-09T20:54:18.895385-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662782067",
+      "size": "1502",
+      "md5": "7ff652ef593d6e4d80559bb9f076e339",
+      "crc32": "c79c8a44",
+      "sha1": "cf573ed0649a5b3536f6cb1871b6b3683b3dbfb2",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-09-09T20:54:18.895385-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mercnews-2022-09-09T20:54:18.895385-07:00.jpg",
+      "mtime": "1662782132",
+      "size": "9088",
+      "md5": "ebf11f61ee86226103fa1ae63bec7cd4",
+      "crc32": "fbc7723b",
+      "sha1": "705a6b01cd7f19145c17ef539807d92f51050302"
+    },
+    {
       "name": "mercnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "febe7bf60843efb82cab7606ac15f50559f88e63",
-      "mtime": "1662699213",
-      "size": "291410",
-      "md5": "14540573788a2b3ba187f46f512c2bc0",
-      "crc32": "35762753",
-      "sha1": "44dec6352fa051b2f08ea4a6b9640609b3ab2658",
+      "btih": "d8f6f81ddae626ec8f0f5bac4d12022c8f235a5e",
+      "mtime": "1662782148",
+      "size": "293714",
+      "md5": "a1922d6fd2c9150747df11b2c85f16f6",
+      "crc32": "b0d8095a",
+      "sha1": "ba2bdc318076f128f4607de522929963a2406181",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mercnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ea33e815f081ae56d8c334b94b3f78ae",
+      "md5": "f44408552538fd0ac6c7c082398c488e",
       "summation": "md5"
     },
     {
       "name": "mercnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662699110",
-      "size": "1638400",
-      "md5": "75bb1e3dfaccbf7ca1fa2aea984462f5",
-      "crc32": "fc8512c8",
-      "sha1": "8de6469347af0e4488385c3cf6df625ccdddd005",
+      "mtime": "1662782072",
+      "size": "1650688",
+      "md5": "30adc58c581f49459254685fb8dc3685",
+      "crc32": "5b045b25",
+      "sha1": "bbd1023d84fcad0025794dbb4916be5890ff486e",
       "format": "Metadata"
     },
     {
@@ -14410,9 +14524,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1379,
-  "item_last_updated": 1662699213,
-  "item_size": 125756586,
+  "files_count": 1390,
+  "item_last_updated": 1662782148,
+  "item_size": 126540033,
   "metadata": {
     "identifier": "mercnews-2022",
     "collection": [
@@ -14430,7 +14544,7 @@
     "addeddate": "2022-03-23 02:09:12"
   },
   "server": "ia802507.us.archive.org",
-  "uniq": 1016700500,
+  "uniq": 1255612081,
   "workable_servers": [
     "ia802507.us.archive.org",
     "ia902507.us.archive.org"

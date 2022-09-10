@@ -1,5 +1,5 @@
 {
-  "created": 1662699041,
+  "created": 1662782100,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/9/items/knprnews-2022",
@@ -6760,31 +6760,145 @@
       "sha1": "2018c0e515de431e40d37eb390c79095d730cc2e"
     },
     {
+      "name": "knprnews-2022-09-09T09:25:36.216220-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662740742",
+      "size": "18358",
+      "md5": "3fc978b187a4388d65d45ad9cbcfd868",
+      "crc32": "08de5707",
+      "sha1": "13b1d0bea248557ade8e3060e7e163a815ef2bb8",
+      "format": "JSON"
+    },
+    {
+      "name": "knprnews-2022-09-09T09:25:36.216220-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662740744",
+      "size": "15014",
+      "md5": "931df3caa902785c28173471d35684cb",
+      "crc32": "72981318",
+      "sha1": "61245f325b031d6031f8249ca6e2784d5e7c3254",
+      "format": "JSON"
+    },
+    {
+      "name": "knprnews-2022-09-09T09:25:36.216220-07:00.jpg",
+      "source": "original",
+      "mtime": "1662740740",
+      "size": "246843",
+      "md5": "d61f94b82b20f687bf244e38c0a15072",
+      "crc32": "0d701bdf",
+      "sha1": "5f0cc00380d67115f3a992bc33d0b83b2feb7bb3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "knprnews-2022-09-09T09:25:36.216220-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662740745",
+      "size": "1404",
+      "md5": "b104577a652ff793a5a7b9691ac2c394",
+      "crc32": "8556905d",
+      "sha1": "9c2ae5e0a4c4f6683c8e165d1c64be8d8a2cf825",
+      "format": "JSON"
+    },
+    {
+      "name": "knprnews-2022-09-09T09:25:36.216220-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662740747",
+      "size": "32310",
+      "md5": "20b8f300748d80630411430deaab6cb8",
+      "crc32": "fa1068c0",
+      "sha1": "d2e79d7ac6431914893fd2c63f29b12ae928eb99",
+      "format": "JSON"
+    },
+    {
+      "name": "knprnews-2022-09-09T09:25:36.216220-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "knprnews-2022-09-09T09:25:36.216220-07:00.jpg",
+      "mtime": "1662740804",
+      "size": "8700",
+      "md5": "b5fbbb49719ad0ad4632d4bfbe583c4f",
+      "crc32": "f846413c",
+      "sha1": "81e26926b5a64d3a175f8a15d4208816df574650"
+    },
+    {
+      "name": "knprnews-2022-09-09T20:52:11.359478-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662781936",
+      "size": "19003",
+      "md5": "031d57774d00aee73aac3d450d3d874f",
+      "crc32": "4aa579d0",
+      "sha1": "260bcf53f17db4799a81b507a32ef22bf89c2f8b",
+      "format": "JSON"
+    },
+    {
+      "name": "knprnews-2022-09-09T20:52:11.359478-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662781938",
+      "size": "14642",
+      "md5": "e3c4aa43cd137d18f2d359c3fe495637",
+      "crc32": "135a0725",
+      "sha1": "2882a767f7905a02ba8c2e94851727be5efc3561",
+      "format": "JSON"
+    },
+    {
+      "name": "knprnews-2022-09-09T20:52:11.359478-07:00.jpg",
+      "source": "original",
+      "mtime": "1662781934",
+      "size": "229533",
+      "md5": "d5e3c2c88d5593def4a076845c89836f",
+      "crc32": "05218721",
+      "sha1": "d1324cf29e239e7231786e9e96c3bae6b04f4d22",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "knprnews-2022-09-09T20:52:11.359478-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662781940",
+      "size": "197",
+      "md5": "e2c9dc48e06e6907c126786d7590dd51",
+      "crc32": "44adedab",
+      "sha1": "6d3078c30eda2dc06c5b30ef9d2b88e7b9057bc2",
+      "format": "JSON"
+    },
+    {
+      "name": "knprnews-2022-09-09T20:52:11.359478-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "knprnews-2022-09-09T20:52:11.359478-07:00.jpg",
+      "mtime": "1662782046",
+      "size": "8871",
+      "md5": "952e7dc04512c18eda71130b25d38653",
+      "crc32": "66c62cc4",
+      "sha1": "5897562f5c31c9a94b5423a8d8cec492df9dc723"
+    },
+    {
       "name": "knprnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "262fad826a9c9b6849f58a812644dbead52ea851",
-      "mtime": "1662699034",
-      "size": "137997",
-      "md5": "42f1e13709091a59e5cb1b99a9ea3492",
-      "crc32": "f32571f8",
-      "sha1": "6ed7850a11907823dbc68619f5ad0cc51164962c",
+      "btih": "a8c93b637fd7023d72dc7fd7dfe214201bce301d",
+      "mtime": "1662782062",
+      "size": "140299",
+      "md5": "d4ae920cf52ad94dc55b9bf411d518ba",
+      "crc32": "17dc3db8",
+      "sha1": "dc7304045deab403209d7f88532c03fe06277a96",
       "format": "Archive BitTorrent"
     },
     {
       "name": "knprnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fe71ed8459ae382d894f5c0e47fb376b",
+      "md5": "0fd6270e2cb53faede65b5fd8353ff31",
       "summation": "md5"
     },
     {
       "name": "knprnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662698981",
-      "size": "819200",
-      "md5": "32764087fcd157bd4a34071e614d2856",
-      "crc32": "7ebf750a",
-      "sha1": "624f28d1fa936fb5144ad76d5cd7debf14e4a1e6",
+      "mtime": "1662781947",
+      "size": "835584",
+      "md5": "a0ad512e95fcdfbab4295760d4daa282",
+      "crc32": "e40f0572",
+      "sha1": "3c6c46ab246b4c8465da101dd1d8a7954239a46d",
       "format": "Metadata"
     },
     {
@@ -6798,9 +6912,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 655,
-  "item_last_updated": 1662699034,
-  "item_size": 36339057,
+  "files_count": 666,
+  "item_last_updated": 1662782062,
+  "item_size": 36952618,
   "metadata": {
     "identifier": "knprnews-2022",
     "collection": [
@@ -6817,10 +6931,10 @@
     "publicdate": "2022-07-09 03:59:32",
     "addeddate": "2022-07-09 03:59:32"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 372861542,
+  "server": "ia601506.us.archive.org",
+  "uniq": 2099796098,
   "workable_servers": [
-    "ia801506.us.archive.org",
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }
