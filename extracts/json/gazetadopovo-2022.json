@@ -1,5 +1,5 @@
 {
-  "created": 1662781891,
+  "created": 1662811497,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/4/items/gazetadopovo-2022",
@@ -6146,31 +6146,83 @@
       "sha1": "e1ed83a772447c6b308a860d0ebee1276c6499d2"
     },
     {
+      "name": "gazetadopovo-2022-09-10T09:03:31.338911-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662811417",
+      "size": "69959",
+      "md5": "3ccc00fa942ec77aae89b914fb4d6a1b",
+      "crc32": "dadd21a9",
+      "sha1": "7c87ef4765001a965f66482085f18bf9deb45438",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetadopovo-2022-09-10T09:03:31.338911-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662811419",
+      "size": "97538",
+      "md5": "89e0e500895652b712993f95e861b02f",
+      "crc32": "9060f137",
+      "sha1": "2f743de43762a35f752fe0593c0f1a1f04be1a5d",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetadopovo-2022-09-10T09:03:31.338911-03:00.jpg",
+      "source": "original",
+      "mtime": "1662811414",
+      "size": "279751",
+      "md5": "96100fe63f7e3469a3a9bd4e88bbae74",
+      "crc32": "ed565bb7",
+      "sha1": "ad5964c24338a13eec8c90570d3d96d2ec9d774a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gazetadopovo-2022-09-10T09:03:31.338911-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662811421",
+      "size": "1540",
+      "md5": "349e1b2cdad85727dcd67353544fbd7c",
+      "crc32": "07561105",
+      "sha1": "005d334406190d7b6f2e09dfc3f48a0ccec577ce",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetadopovo-2022-09-10T09:03:31.338911-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gazetadopovo-2022-09-10T09:03:31.338911-03:00.jpg",
+      "mtime": "1662811481",
+      "size": "10156",
+      "md5": "1869456bb27226d2d8dabf26de9888fb",
+      "crc32": "ce91dc58",
+      "sha1": "a05a2ef121517097259e3a0e56c5986129e00742"
+    },
+    {
       "name": "gazetadopovo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6249085bf403d31d4ad750b5e168c2e22d42fd4b",
-      "mtime": "1662781879",
-      "size": "129210",
-      "md5": "f175283c1ce9b82e66e47f9539cdf23e",
-      "crc32": "cf02cda4",
-      "sha1": "8856f0a78671f461667591254afda63ef6d776c2",
+      "btih": "eaf17b5dcd00a8549998d11b416fe35aaa9795d0",
+      "mtime": "1662811487",
+      "size": "130290",
+      "md5": "f92601bada2221633b0446c0a286a5c6",
+      "crc32": "03634879",
+      "sha1": "49bf7967b597152d15418afff4c81c041a74035c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gazetadopovo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7dee5d11986821c9f484fc83780a88d2",
+      "md5": "f0452addd8916f717d8963f4f87b9e57",
       "summation": "md5"
     },
     {
       "name": "gazetadopovo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662781813",
-      "size": "774144",
-      "md5": "3bec6ce56820db0866aef1e52631e5b7",
-      "crc32": "b9ce0f5a",
-      "sha1": "45a04b3581ae4f4df64fff9e5976ed617a88b06c",
+      "mtime": "1662811426",
+      "size": "778240",
+      "md5": "f8846c8ee5b2afc606dcb7e229a3d8c6",
+      "crc32": "68ae1c0d",
+      "sha1": "b0de429ca0ffd1d82417588529597f8604c6cbd8",
       "format": "Metadata"
     },
     {
@@ -6184,9 +6236,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 598,
-  "item_last_updated": 1662781879,
-  "item_size": 50684416,
+  "files_count": 603,
+  "item_last_updated": 1662811487,
+  "item_size": 51148536,
   "metadata": {
     "identifier": "gazetadopovo-2022",
     "collection": [
@@ -6203,10 +6255,10 @@
     "publicdate": "2022-08-04 04:55:45",
     "addeddate": "2022-08-04 04:55:45"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 247313047,
+  "server": "ia601508.us.archive.org",
+  "uniq": 2087094301,
   "workable_servers": [
-    "ia801508.us.archive.org",
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

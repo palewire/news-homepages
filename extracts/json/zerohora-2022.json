@@ -1,5 +1,5 @@
 {
-  "created": 1662785930,
+  "created": 1662811543,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/22/items/zerohora-2022",
@@ -6236,31 +6236,83 @@
       "sha1": "7b5482eced836bf0aeb4ec2927ed1bd67964e9f4"
     },
     {
+      "name": "zerohora-2022-09-10T09:04:33.246680-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662811479",
+      "size": "39222",
+      "md5": "d4e761803a50c9e8cce82c5fdc92c6b8",
+      "crc32": "91f78037",
+      "sha1": "43a2ed0c9be7132518c26a4fe3c9f424aa3dee5c",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-09-10T09:04:33.246680-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662811481",
+      "size": "43276",
+      "md5": "d8794e2eb5223719c1c3bef99b14dfe4",
+      "crc32": "e7afadb6",
+      "sha1": "5ff61eb49104823041502effb77110d88a934713",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-09-10T09:04:33.246680-03:00.jpg",
+      "source": "original",
+      "mtime": "1662811477",
+      "size": "288861",
+      "md5": "2f30376b4763e80788500f4df3a3cd02",
+      "crc32": "88c7fcf4",
+      "sha1": "566fd8746258cb3a6d94f6cd7e84f4d5cc193266",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zerohora-2022-09-10T09:04:33.246680-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662811482",
+      "size": "1534",
+      "md5": "1b7310b23a01d52ca76640f6c97f4caa",
+      "crc32": "61ff120b",
+      "sha1": "cf63d5ee79d74a375bde9514d8d9bbe99a80a005",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-09-10T09:04:33.246680-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "zerohora-2022-09-10T09:04:33.246680-03:00.jpg",
+      "mtime": "1662811532",
+      "size": "10756",
+      "md5": "fcbcb187690b0ade6045fea3f242bd26",
+      "crc32": "4a401137",
+      "sha1": "a3e70dd7c05aa9d8829bd17f6f3e7e24bb947c02"
+    },
+    {
       "name": "zerohora-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0629d4e0f074b91c6305e6da3836f79b804f96bb",
-      "mtime": "1662785919",
-      "size": "128416",
-      "md5": "1a54f7108621519e961b36cd92d3b499",
-      "crc32": "d5cbc737",
-      "sha1": "5752c539d7713ac5666f384519f4f50d16696f2e",
+      "btih": "d37fe1fa14d5028a4fca5f30698a379c0f1355e0",
+      "mtime": "1662811538",
+      "size": "129476",
+      "md5": "6821fa2ba6b4b196454d1a7d2ca7e6a9",
+      "crc32": "73226286",
+      "sha1": "f3dcd38aef1179cc2c2905be15d02a3aae5f8d19",
       "format": "Archive BitTorrent"
     },
     {
       "name": "zerohora-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "03d68865c6e9e466417c03a3bf0e1220",
+      "md5": "498c339e681a11f23b8a25086dffc591",
       "summation": "md5"
     },
     {
       "name": "zerohora-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662785849",
-      "size": "786432",
-      "md5": "9ad59c835d6c2afc01ce5edb15b07701",
-      "crc32": "c7d109ff",
-      "sha1": "f7d193c2b9dc27da9f183594bcb60c145eefb0c3",
+      "mtime": "1662811486",
+      "size": "790528",
+      "md5": "a91d56bc463e003fe24f29d84417c288",
+      "crc32": "433e79e6",
+      "sha1": "5ce1b0afa98f10b2dc57544ed6b6bb27dd07b256",
       "format": "Metadata"
     },
     {
@@ -6274,9 +6326,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 607,
-  "item_last_updated": 1662785919,
-  "item_size": 42778635,
+  "files_count": 612,
+  "item_last_updated": 1662811538,
+  "item_size": 43167440,
   "metadata": {
     "identifier": "zerohora-2022",
     "collection": [
@@ -6293,10 +6345,10 @@
     "publicdate": "2022-08-04 04:56:36",
     "addeddate": "2022-08-04 04:56:36"
   },
-  "server": "ia601400.us.archive.org",
-  "uniq": 1111704069,
+  "server": "ia801400.us.archive.org",
+  "uniq": 623565670,
   "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
+    "ia801400.us.archive.org",
+    "ia601400.us.archive.org"
   ]
 }
