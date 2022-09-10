@@ -1,5 +1,5 @@
 {
-  "created": 1662773487,
+  "created": 1662815649,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/14/items/tmz-2022",
@@ -6264,31 +6264,83 @@
       "sha1": "3ccf77ce86eee053c9c12bc0865899fcc93f1745"
     },
     {
+      "name": "tmz-2022-09-10T06:11:40.223615-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662815505",
+      "size": "90422",
+      "md5": "d06658d9ec9448042143a1b741006627",
+      "crc32": "50e52d0a",
+      "sha1": "2e46efa02778effc14925643ee42037ed3b2eaf1",
+      "format": "JSON"
+    },
+    {
+      "name": "tmz-2022-09-10T06:11:40.223615-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662815506",
+      "size": "72392",
+      "md5": "a3004a37cabddaec93008d9c6bd2c0ba",
+      "crc32": "0146a378",
+      "sha1": "6a3ebc7445a6f427ace776b81b8a19854a25b70b",
+      "format": "JSON"
+    },
+    {
+      "name": "tmz-2022-09-10T06:11:40.223615-07:00.jpg",
+      "source": "original",
+      "mtime": "1662815503",
+      "size": "266874",
+      "md5": "939b7227017a15e753ccb1fa51c246ee",
+      "crc32": "8fa52061",
+      "sha1": "24c5fdd982c2d874f44848a5b4d5dde9570069d2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tmz-2022-09-10T06:11:40.223615-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662815508",
+      "size": "1428",
+      "md5": "875e9e8584218e8453294fffbebbfeb4",
+      "crc32": "fb9e169e",
+      "sha1": "607cf7f03bd8408363b89ddb38a87ff30d044792",
+      "format": "JSON"
+    },
+    {
+      "name": "tmz-2022-09-10T06:11:40.223615-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tmz-2022-09-10T06:11:40.223615-07:00.jpg",
+      "mtime": "1662815618",
+      "size": "10746",
+      "md5": "c07d5cfa7349ffbb465125f678aaf010",
+      "crc32": "fbcdd04d",
+      "sha1": "26403b69cdb11770c9ff362bacfd4c7d7e4987d0"
+    },
+    {
       "name": "tmz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b6b19e3b13a6202e65c097691c4948757efa47b2",
-      "mtime": "1662773480",
-      "size": "125996",
-      "md5": "696dc4e7dafd5fbd42fd39c4170a7c96",
-      "crc32": "e0091e81",
-      "sha1": "9e7044409a67773d87faf87e388d3b09d71633b4",
+      "btih": "af3662e5b457b22ee3960521004ce2685c53b502",
+      "mtime": "1662815626",
+      "size": "127011",
+      "md5": "98d5d62968afaae934f072c1200b527d",
+      "crc32": "2d550003",
+      "sha1": "74daeebb04f027e60e4070964f7646c808e1a921",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tmz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e3cc57f8b9463d20a8442f33f2448612",
+      "md5": "31acbd49b9e97bbd2d68a4ff15cbaf5a",
       "summation": "md5"
     },
     {
       "name": "tmz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662773423",
-      "size": "765952",
-      "md5": "fd50aae736fd92c58dfd445129bc02a2",
-      "crc32": "23e467c5",
-      "sha1": "ebe864950747e7298c965de3f2821146ed3f7422",
+      "mtime": "1662815534",
+      "size": "770048",
+      "md5": "b16116d668246b15302070c19b2deb01",
+      "crc32": "86a9065e",
+      "sha1": "e102b7c6fa02fa56980e7af34dfbb00e9ad69d98",
       "format": "Metadata"
     },
     {
@@ -6302,9 +6354,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 608,
-  "item_last_updated": 1662773480,
-  "item_size": 54725466,
+  "files_count": 613,
+  "item_last_updated": 1662815626,
+  "item_size": 55172439,
   "metadata": {
     "identifier": "tmz-2022",
     "collection": [
@@ -6321,10 +6373,10 @@
     "publicdate": "2022-07-18 04:19:31",
     "addeddate": "2022-07-18 04:19:31"
   },
-  "server": "ia601408.us.archive.org",
-  "uniq": 2078064108,
+  "server": "ia801408.us.archive.org",
+  "uniq": 376777692,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia801408.us.archive.org",
+    "ia601408.us.archive.org"
   ]
 }

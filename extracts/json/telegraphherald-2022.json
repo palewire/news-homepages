@@ -1,5 +1,5 @@
 {
-  "created": 1662773432,
+  "created": 1662815509,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/8/items/telegraphherald-2022",
@@ -14006,31 +14006,93 @@
       "sha1": "84d86ab2f3624a8a89dad789647ca208b5a7734b"
     },
     {
+      "name": "telegraphherald-2022-09-10T08:09:04.001572-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662815347",
+      "size": "45612",
+      "md5": "58f191c68929d93ad02dcd9f934058ea",
+      "crc32": "bdeb9af3",
+      "sha1": "ad2638adffe7b9aa96e816a2e41d46dc011ab94b",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-09-10T08:09:04.001572-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662815349",
+      "size": "48811",
+      "md5": "151b1f0cb030261725c19d6ffd07e9f8",
+      "crc32": "bb59c163",
+      "sha1": "2c26092b68cf24e406a3ab0179d4d1e84a39f2e8",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-09-10T08:09:04.001572-05:00.jpg",
+      "source": "original",
+      "mtime": "1662815346",
+      "size": "266560",
+      "md5": "8d71ef835886108f082a0c19bba2b6eb",
+      "crc32": "c650dd97",
+      "sha1": "6006c453da233fda130583eb70698c874a8a45e9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-09-10T08:09:04.001572-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662815351",
+      "size": "1540",
+      "md5": "e799357566d6d2bc4295f16a36c3196e",
+      "crc32": "888293a4",
+      "sha1": "e2da0614330a5ac6b5681a430b8119bb3bc608eb",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-09-10T08:09:04.001572-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662815352",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-09-10T08:09:04.001572-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-09-10T08:09:04.001572-05:00.jpg",
+      "mtime": "1662815442",
+      "size": "9816",
+      "md5": "f592dccccb9f7f8af9462c7c4c6ef704",
+      "crc32": "3bd0d7d0",
+      "sha1": "6eca131bc9afff480082d787f3bfc0c006fb7106"
+    },
+    {
       "name": "telegraphherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "56c4133bbf28776d5dd26d47e04c3257a1699d43",
-      "mtime": "1662773421",
-      "size": "293140",
-      "md5": "7d9b58b952096a990b7d38c146e08bd3",
-      "crc32": "974f5720",
-      "sha1": "dacff1c21473707b5f326d75b579ccff33309a54",
+      "btih": "4d33bc1a04e2a63aa27e16071815bf1fa16a37e4",
+      "mtime": "1662815492",
+      "size": "294447",
+      "md5": "8bf93fe1a1393f656f19078d14267b66",
+      "crc32": "2d4ba686",
+      "sha1": "3df8949107353812280e663233382819c9056e9a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "telegraphherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "23eeec0e79b275a64dacc117abdf78fc",
+      "md5": "3319d1182b46ddd696dfe324cb393675",
       "summation": "md5"
     },
     {
       "name": "telegraphherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662773296",
-      "size": "1613824",
-      "md5": "542581307713178db62aa59928afafdb",
-      "crc32": "0c857122",
-      "sha1": "1dd781cf51867a0dce8d6b1113000da48ba0ee19",
+      "mtime": "1662815361",
+      "size": "1617920",
+      "md5": "4672d2ed26008ea06a3bcd10df98460e",
+      "crc32": "0eaa3263",
+      "sha1": "5de56c158abd91e583ca357fc8109bf84293a1ec",
       "format": "Metadata"
     },
     {
@@ -14044,9 +14106,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1344,
-  "item_last_updated": 1662773421,
-  "item_size": 118525231,
+  "files_count": 1350,
+  "item_last_updated": 1662815492,
+  "item_size": 118903175,
   "metadata": {
     "identifier": "telegraphherald-2022",
     "collection": [
@@ -14064,7 +14126,7 @@
     "addeddate": "2022-03-25 14:09:23"
   },
   "server": "ia601502.us.archive.org",
-  "uniq": 1787064841,
+  "uniq": 237602354,
   "workable_servers": [
     "ia601502.us.archive.org",
     "ia801502.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1662773382,
+  "created": 1662815421,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/11/items/theroot-2022",
@@ -4458,31 +4458,83 @@
       "sha1": "199b368eb503f89640873e547ddf6d7742e62e5b"
     },
     {
+      "name": "theroot-2022-09-10T09:09:04.579674-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662815354",
+      "size": "36281",
+      "md5": "1120cb599d1161e7c598b39007399758",
+      "crc32": "ccc9ff1e",
+      "sha1": "3dcb6da7249a8ae421b9ee0366c6c926db6b7304",
+      "format": "JSON"
+    },
+    {
+      "name": "theroot-2022-09-10T09:09:04.579674-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662815356",
+      "size": "26452",
+      "md5": "806641d8d04cdf0272dc2554145b222d",
+      "crc32": "9da76d61",
+      "sha1": "40900fdb7686cc28187cd5e68ae2c2cdab446309",
+      "format": "JSON"
+    },
+    {
+      "name": "theroot-2022-09-10T09:09:04.579674-04:00.jpg",
+      "source": "original",
+      "mtime": "1662815353",
+      "size": "249724",
+      "md5": "cca5083a8c521f99bacb095b20d10e7c",
+      "crc32": "1a358311",
+      "sha1": "26b5783535d11ea1f54e97f93cd6b1f1e4ba7fd4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theroot-2022-09-10T09:09:04.579674-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662815358",
+      "size": "1467",
+      "md5": "934c9695357f9c5015562f1b2c87eff6",
+      "crc32": "100fd137",
+      "sha1": "13d5529e3e702cf82b02cfbe829aea2556fe6de6",
+      "format": "JSON"
+    },
+    {
+      "name": "theroot-2022-09-10T09:09:04.579674-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theroot-2022-09-10T09:09:04.579674-04:00.jpg",
+      "mtime": "1662815408",
+      "size": "10381",
+      "md5": "ab010d8d416ee5b2ebee69513961ab3c",
+      "crc32": "9f456a83",
+      "sha1": "e44bd47992b22699f7a4e68eacc912862e8a8692"
+    },
+    {
       "name": "theroot-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a3c6b3adc6a8c3f71f56ab48f17be25eb0d5660b",
-      "mtime": "1662773375",
-      "size": "91403",
-      "md5": "a0df1f8fa6417ba2256676532deac35d",
-      "crc32": "f7a5836c",
-      "sha1": "9566c05763687024e26fe1690d28e7da39678a7c",
+      "btih": "644292accf42cd80391ae606b6a72d2e822b7b4a",
+      "mtime": "1662815414",
+      "size": "92438",
+      "md5": "44584a7112ac0793b472540bfc8dad38",
+      "crc32": "bd0d5fed",
+      "sha1": "4fbae8159a416be26199462b3e5878acffc7fc66",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theroot-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "514ff1b1054b8ed6b6d7793fcfb7fcc5",
+      "md5": "8ac496607f8d846bfdfb75d48541fb7f",
       "summation": "md5"
     },
     {
       "name": "theroot-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662773312",
-      "size": "557056",
-      "md5": "62e8fb48bcaf59c87d011bc86b7a448d",
-      "crc32": "f8ab8141",
-      "sha1": "e4ce8f546fb40abb81e0115c531c55ce1f93c26c",
+      "mtime": "1662815363",
+      "size": "561152",
+      "md5": "0822733f1fd1ece55ee6933c4e14cfec",
+      "crc32": "4e305e73",
+      "sha1": "8d0898c17ad84abe28277913723026a2b32cc969",
       "format": "Metadata"
     },
     {
@@ -4496,9 +4548,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 434,
-  "item_last_updated": 1662773375,
-  "item_size": 29520286,
+  "files_count": 439,
+  "item_last_updated": 1662815414,
+  "item_size": 29849722,
   "metadata": {
     "identifier": "theroot-2022",
     "collection": [
@@ -4515,10 +4567,10 @@
     "publicdate": "2022-08-03 01:58:21",
     "addeddate": "2022-08-03 01:58:21"
   },
-  "server": "ia802508.us.archive.org",
-  "uniq": 1113541618,
+  "server": "ia902508.us.archive.org",
+  "uniq": 1537604387,
   "workable_servers": [
-    "ia802508.us.archive.org",
-    "ia902508.us.archive.org"
+    "ia902508.us.archive.org",
+    "ia802508.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1662773331,
+  "created": 1662815497,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/20/items/telemundochi-2022",
@@ -7482,31 +7482,83 @@
       "sha1": "4e214e93ab2ce7b29572fe673d63be8292a3b23d"
     },
     {
+      "name": "telemundochi-2022-09-10T08:09:41.082737-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662815393",
+      "size": "53053",
+      "md5": "237d2e932f7ca3058b5a07ec2703dbd5",
+      "crc32": "d544c806",
+      "sha1": "4c714ee7c507b829668f92f9c5a6ce6f516f3e6a",
+      "format": "JSON"
+    },
+    {
+      "name": "telemundochi-2022-09-10T08:09:41.082737-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662815395",
+      "size": "61064",
+      "md5": "aefde851da8c1101cfed31c2e86ef576",
+      "crc32": "01036cc8",
+      "sha1": "f24ff6a0fcfad9277aa44f08741204cac21990bb",
+      "format": "JSON"
+    },
+    {
+      "name": "telemundochi-2022-09-10T08:09:41.082737-05:00.jpg",
+      "source": "original",
+      "mtime": "1662815391",
+      "size": "307545",
+      "md5": "eec4d106d1b6dd6067f95d39922ea821",
+      "crc32": "56291fab",
+      "sha1": "19d3ba6c74b38bd8c34041b81e97b7e7f09b50dd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telemundochi-2022-09-10T08:09:41.082737-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662815399",
+      "size": "1540",
+      "md5": "c4b706c88b31c05f69999598ccd57716",
+      "crc32": "3123cb2d",
+      "sha1": "75aead143a9bfd1461f0ce090bfb613b591291f0",
+      "format": "JSON"
+    },
+    {
+      "name": "telemundochi-2022-09-10T08:09:41.082737-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telemundochi-2022-09-10T08:09:41.082737-05:00.jpg",
+      "mtime": "1662815473",
+      "size": "10042",
+      "md5": "88088ee602887c5b01109f5c4dbfb4e0",
+      "crc32": "b4854199",
+      "sha1": "a5fce35c28bcc70458d7c2bcd84d702b4be1e5a6"
+    },
+    {
       "name": "telemundochi-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3f231919e6f7480e10d3d19f90ba01d97f5eb293",
-      "mtime": "1662773325",
-      "size": "156874",
-      "md5": "a3fa949d43eb694ecf83288525d66669",
-      "crc32": "761f520e",
-      "sha1": "5770be1d73e5f2c6790606cd39df5ebc1d24fbe5",
+      "btih": "b1f2819e16c5516991d61cdc4cdf35e98b71744d",
+      "mtime": "1662815480",
+      "size": "157954",
+      "md5": "9e0034d427dafb5829e6dbd69c54313a",
+      "crc32": "0f15d9b2",
+      "sha1": "35cf0dd324e88b11738dc876f35c660a3fdd67e4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "telemundochi-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "38e3262908ca51c9c0dc1df9e6b7398d",
+      "md5": "e1f23f78c2ffb731fa4d6c8bed44c336",
       "summation": "md5"
     },
     {
       "name": "telemundochi-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662773267",
-      "size": "933888",
-      "md5": "c0499c41ae9cf8e9285cd7cd8be8661d",
-      "crc32": "7a13dda0",
-      "sha1": "97ddde10bb7170114c25ef2977fe3e517c7dd335",
+      "mtime": "1662815404",
+      "size": "942080",
+      "md5": "2424223e2cf509d071470a277987bdda",
+      "crc32": "4da612bc",
+      "sha1": "f0ed0c6a955f837e2e097381266b145c327f68ad",
       "format": "Metadata"
     },
     {
@@ -7520,9 +7572,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 727,
-  "item_last_updated": 1662773325,
-  "item_size": 59896474,
+  "files_count": 732,
+  "item_last_updated": 1662815480,
+  "item_size": 60338990,
   "metadata": {
     "identifier": "telemundochi-2022",
     "collection": [
@@ -7539,10 +7591,10 @@
     "publicdate": "2022-07-28 20:04:16",
     "addeddate": "2022-07-28 20:04:16"
   },
-  "server": "ia802504.us.archive.org",
-  "uniq": 750954865,
+  "server": "ia902504.us.archive.org",
+  "uniq": 579270030,
   "workable_servers": [
-    "ia802504.us.archive.org",
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }

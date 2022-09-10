@@ -1,5 +1,5 @@
 {
-  "created": 1662773114,
+  "created": 1662815229,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/14/items/pulitzercenter-2022",
@@ -7030,31 +7030,83 @@
       "sha1": "ce1fd49812210494d8508b3441c7d19dcae14f34"
     },
     {
+      "name": "pulitzercenter-2022-09-10T09:05:31.891885-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662815136",
+      "size": "8862",
+      "md5": "24ed286c49714f0ee4c6f65156d69559",
+      "crc32": "e308bb55",
+      "sha1": "8633c54ef961e6cb67b093cefcfc3db66d0b303d",
+      "format": "JSON"
+    },
+    {
+      "name": "pulitzercenter-2022-09-10T09:05:31.891885-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662815138",
+      "size": "16385",
+      "md5": "9890d3058779b43cfaca10b84c43f2cb",
+      "crc32": "9948e5a5",
+      "sha1": "09aa3716674d16e5eeb67a98fea39d1f208d6e19",
+      "format": "JSON"
+    },
+    {
+      "name": "pulitzercenter-2022-09-10T09:05:31.891885-04:00.jpg",
+      "source": "original",
+      "mtime": "1662815135",
+      "size": "218419",
+      "md5": "ddb64b0b7f79ed398a2d38a460dc40f8",
+      "crc32": "9163a163",
+      "sha1": "c64ee1f93b69929c395cce006aa3db6bc225cf01",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pulitzercenter-2022-09-10T09:05:31.891885-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662815140",
+      "size": "1495",
+      "md5": "68ddbff0378b7efdbc19e853a7bc90e0",
+      "crc32": "ba460a36",
+      "sha1": "c7a70d19d8657ce18314e0411a8aaf840d926d31",
+      "format": "JSON"
+    },
+    {
+      "name": "pulitzercenter-2022-09-10T09:05:31.891885-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pulitzercenter-2022-09-10T09:05:31.891885-04:00.jpg",
+      "mtime": "1662815210",
+      "size": "8663",
+      "md5": "72952886083a6186585e771b4cd1e4c0",
+      "crc32": "76b308ac",
+      "sha1": "1d63db837a64cb8d530a2f6134ae7679730cb848"
+    },
+    {
       "name": "pulitzercenter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a22ae7572e0435f3efae0a386fe86ebe84c56d23",
-      "mtime": "1662773107",
-      "size": "147243",
-      "md5": "3ecd4da75b83ac9d0f2be5c30680e4b6",
-      "crc32": "3c58141a",
-      "sha1": "f9bf5af271348fdb019ef04694a603c4db3b5667",
+      "btih": "0416f529f3f4a5145915663e4d689d8627d1ae26",
+      "mtime": "1662815216",
+      "size": "148311",
+      "md5": "bea8d11127cc76d37a7460f9892778aa",
+      "crc32": "2d52f7c2",
+      "sha1": "06beef0683e5728038adb51c0a7cfdc567015165",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pulitzercenter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c6a4919a132ea62a48525c689f3cc9ef",
+      "md5": "a9fee9d3bf5226056c8512e4f1675104",
       "summation": "md5"
     },
     {
       "name": "pulitzercenter-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662773039",
-      "size": "864256",
-      "md5": "9cbf50fb2a66f26e0b8fee014c47efa1",
-      "crc32": "c20d0f47",
-      "sha1": "cd7e2be1e41aaf1cf65f2a107210c190af4cba5b",
+      "mtime": "1662815145",
+      "size": "872448",
+      "md5": "c4201abb3429368fd1b86ef2e644a3e2",
+      "crc32": "b8fbdba7",
+      "sha1": "9e54233081e531509b4558cd8999c9ff33efd6c4",
       "format": "Metadata"
     },
     {
@@ -7068,9 +7120,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 681,
-  "item_last_updated": 1662773107,
-  "item_size": 32914920,
+  "files_count": 686,
+  "item_last_updated": 1662815216,
+  "item_size": 33178004,
   "metadata": {
     "identifier": "pulitzercenter-2022",
     "collection": [
@@ -7087,10 +7139,10 @@
     "publicdate": "2022-07-09 04:01:52",
     "addeddate": "2022-07-09 04:01:52"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 1414821749,
+  "server": "ia601408.us.archive.org",
+  "uniq": 1907041110,
   "workable_servers": [
-    "ia801408.us.archive.org",
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

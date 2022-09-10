@@ -1,5 +1,5 @@
 {
-  "created": 1662773252,
+  "created": 1662815326,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/31/items/spacenews_inc-2022",
@@ -5374,31 +5374,93 @@
       "sha1": "05c575b9e7e9322664ba124990c9445ed4a98b20"
     },
     {
+      "name": "spacenews_inc-2022-09-10T09:07:16.823544-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662815239",
+      "size": "15087",
+      "md5": "7c16155f665c8cf980b37b55774922fd",
+      "crc32": "c90c9e38",
+      "sha1": "8b7ba02e0627ea23a8ac02f087f2ce1992864352",
+      "format": "JSON"
+    },
+    {
+      "name": "spacenews_inc-2022-09-10T09:07:16.823544-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662815241",
+      "size": "15948",
+      "md5": "6015e27c351fc90c9eb2e1c03dbe4a08",
+      "crc32": "cef54b22",
+      "sha1": "3040171f48de06f807ac7cef4ceec033dcd1380d",
+      "format": "JSON"
+    },
+    {
+      "name": "spacenews_inc-2022-09-10T09:07:16.823544-04:00.jpg",
+      "source": "original",
+      "mtime": "1662815238",
+      "size": "249059",
+      "md5": "ea7085a1f031b28829ebf796eddba611",
+      "crc32": "a4538abc",
+      "sha1": "0888ce1edfa08ca749c290a11e8fcb6a135abe37",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spacenews_inc-2022-09-10T09:07:16.823544-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662815243",
+      "size": "1450",
+      "md5": "66b2ed42669e182c3222384b672e4e65",
+      "crc32": "c55e5950",
+      "sha1": "429e341bf19584640a12d2d3b19fcfce18f0e324",
+      "format": "JSON"
+    },
+    {
+      "name": "spacenews_inc-2022-09-10T09:07:16.823544-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662815244",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "spacenews_inc-2022-09-10T09:07:16.823544-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spacenews_inc-2022-09-10T09:07:16.823544-04:00.jpg",
+      "mtime": "1662815306",
+      "size": "9810",
+      "md5": "e3e6e8229dbd377c6021192cd9511e3a",
+      "crc32": "0c72e626",
+      "sha1": "6d444e02a48250ac9060874c553a61c28410e49a"
+    },
+    {
       "name": "spacenews_inc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7b11ffd765681ab17b693b34fc98979f9473b8c5",
-      "mtime": "1662773239",
-      "size": "113071",
-      "md5": "1b11cb65e45479aa34e0620dd5e1b52e",
-      "crc32": "b26b188b",
-      "sha1": "f02ce0888532b5fbce4f4849fa15e7053ef787a2",
+      "btih": "59c617ee22b5d94cdbe8f62d33d8bf8107469016",
+      "mtime": "1662815312",
+      "size": "114366",
+      "md5": "1d7f7e6f0fc56255dcaa6a18234fa66a",
+      "crc32": "4915488f",
+      "sha1": "9a25c43de59ad42617bc9f4a3358d7e57f7b345d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spacenews_inc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "22afb7db67e24ae2d0d62c32338e2379",
+      "md5": "a456c8822c5e33744d63646c37ed7689",
       "summation": "md5"
     },
     {
       "name": "spacenews_inc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662773174",
-      "size": "675840",
-      "md5": "5650c693880c83ecab5edd6956bd21a1",
-      "crc32": "eb4ea252",
-      "sha1": "98f9fae2bd7b40e21031c38bfa1387c1db9e0cf4",
+      "mtime": "1662815250",
+      "size": "684032",
+      "md5": "149ec0a0d6d62a13880504d4989f15b2",
+      "crc32": "954196dc",
+      "sha1": "b7396f4dce03daf98a4dfefa6680e057b8b4bf98",
       "format": "Metadata"
     },
     {
@@ -5412,9 +5474,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 523,
-  "item_last_updated": 1662773239,
-  "item_size": 30404895,
+  "files_count": 529,
+  "item_last_updated": 1662815312,
+  "item_size": 30705938,
   "metadata": {
     "identifier": "spacenews_inc-2022",
     "collection": [
@@ -5431,10 +5493,10 @@
     "publicdate": "2022-07-26 13:28:35",
     "addeddate": "2022-07-26 13:28:35"
   },
-  "server": "ia601406.us.archive.org",
-  "uniq": 1891643207,
+  "server": "ia801406.us.archive.org",
+  "uniq": 521783881,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia801406.us.archive.org",
+    "ia601406.us.archive.org"
   ]
 }

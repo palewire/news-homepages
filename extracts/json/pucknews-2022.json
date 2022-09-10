@@ -1,5 +1,5 @@
 {
-  "created": 1662773077,
+  "created": 1662815198,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/19/items/pucknews-2022",
@@ -10106,31 +10106,83 @@
       "sha1": "23f0b385d0b7e02b79e5e6cf26abff8ce346dadb"
     },
     {
+      "name": "pucknews-2022-09-10T09:05:12.045036-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662815121",
+      "size": "15359",
+      "md5": "4dd268667a173a836cb0da7033f7a57c",
+      "crc32": "db90dd2c",
+      "sha1": "1174b2f9152b3337ca6b989abd6f1a0fd19606c1",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-09-10T09:05:12.045036-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662815123",
+      "size": "12074",
+      "md5": "f8582479501008e40346ffc9b0cbd487",
+      "crc32": "53cafe7f",
+      "sha1": "e3cda88846fbb9c897b5072770639178ec1f1521",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-09-10T09:05:12.045036-04:00.jpg",
+      "source": "original",
+      "mtime": "1662815119",
+      "size": "151781",
+      "md5": "91a0c0b0bb3a81050b36c5f2245a7fd5",
+      "crc32": "d659455e",
+      "sha1": "834efabc2212340cff1796dd9184f39817b6fcb0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pucknews-2022-09-10T09:05:12.045036-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662815124",
+      "size": "1414",
+      "md5": "4c3b5bd62cdb4c601bdde92b2f691d89",
+      "crc32": "afd0a68b",
+      "sha1": "89aa42753989349853e74844b6272ebd8e1fb3d5",
+      "format": "JSON"
+    },
+    {
+      "name": "pucknews-2022-09-10T09:05:12.045036-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pucknews-2022-09-10T09:05:12.045036-04:00.jpg",
+      "mtime": "1662815182",
+      "size": "7329",
+      "md5": "e38afbb2b44287759c02cb4b09ac3c81",
+      "crc32": "8ce1ca80",
+      "sha1": "23f0b385d0b7e02b79e5e6cf26abff8ce346dadb"
+    },
+    {
       "name": "pucknews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1bb5314741229ba09587d97d1c1b03e7d13683f7",
-      "mtime": "1662773070",
-      "size": "204365",
-      "md5": "2ee3a82726d9e84d5feb6cb32a9f24b9",
-      "crc32": "d981fb5d",
-      "sha1": "095dc14b6a1cec3a3f83a499ed019727e4cacb87",
+      "btih": "6c5477c43d0507b069c60bc5ab6a9086e7d8ed4c",
+      "mtime": "1662815191",
+      "size": "205404",
+      "md5": "d292995dd92d9ab3453064c28754242f",
+      "crc32": "cef1b7f0",
+      "sha1": "a7b89b5fedfdc0e3e0f3b62a5b1f6c4df25c092b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pucknews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b0fa711c68f2c0a8933c2a63fc61e0c4",
+      "md5": "2c7faa32917224ceb308fd6578a4ef9d",
       "summation": "md5"
     },
     {
       "name": "pucknews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662773007",
-      "size": "1187840",
-      "md5": "6f5788661cbe048e4447be73dc5757d4",
-      "crc32": "c8661ac9",
-      "sha1": "e28ee29d8bd7f603b2ce00554023b1df06c48155",
+      "mtime": "1662815128",
+      "size": "1191936",
+      "md5": "b2193f921b6a9bffa394dda15be02f16",
+      "crc32": "d68e2bb2",
+      "sha1": "97589d237f53a61e5e40c79c910ab02771280f71",
       "format": "Metadata"
     },
     {
@@ -10144,9 +10196,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 974,
-  "item_last_updated": 1662773070,
-  "item_size": 43356295,
+  "files_count": 979,
+  "item_last_updated": 1662815191,
+  "item_size": 43549387,
   "metadata": {
     "identifier": "pucknews-2022",
     "collection": [
@@ -10163,10 +10215,10 @@
     "publicdate": "2022-06-18 17:10:26",
     "addeddate": "2022-06-18 17:10:26"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 1734724884,
+  "server": "ia902502.us.archive.org",
+  "uniq": 845975435,
   "workable_servers": [
-    "ia802502.us.archive.org",
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }
