@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 161 screenshots with the Internet Archive.
+The archiving routine has saved 163 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-09-10T06:50:49.953955+03:00.jpg">
+  <img src="https://archive.org/download/gazetaru-2022/gazetaru-2022-09-10T06:50:49.953955+03:00.jpg"
+     alt="Gazeta.Ru at 2022-09-10 06:50:51+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-09-10T06:50:49.953955+03:00.jpg">September 10 at 6:50 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-09-09T19:23:32.956895+03:00.jpg">
+  <img src="https://archive.org/download/gazetaru-2022/gazetaru-2022-09-09T19:23:32.956895+03:00.jpg"
+     alt="Gazeta.Ru at 2022-09-09 19:23:45+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-09-09T19:23:32.956895+03:00.jpg">September 9 at 7:23 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-09-09T08:34:37.082701+03:00.jpg">
   <img src="https://archive.org/download/gazetaru-2022/gazetaru-2022-09-09T08:34:37.082701+03:00.jpg"
      alt="Gazeta.Ru at 2022-09-09 08:34:38+03:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-09-06T06:52:39.789549+03:00.jpg">September 6 at 6:52 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-09-05T19:14:54.454516+03:00.jpg">
-  <img src="https://archive.org/download/gazetaru-2022/gazetaru-2022-09-05T19:14:54.454516+03:00.jpg"
-     alt="Gazeta.Ru at 2022-09-05 19:15:00+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-09-05T19:14:54.454516+03:00.jpg">September 5 at 7:15 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-09-05T08:41:11.785672+03:00.jpg">
-  <img src="https://archive.org/download/gazetaru-2022/gazetaru-2022-09-05T08:41:11.785672+03:00.jpg"
-     alt="Gazeta.Ru at 2022-09-05 08:41:13+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gazetaru-2022/gazetaru-2022-09-05T08:41:11.785672+03:00.jpg">September 5 at 8:41 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 162 hyperlink lists with the Internet Archive.
+The archiving routine has saved 164 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 10 at 6:50 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-10T06:50:49.953955+03:00.hyperlinks.json) |
+| [September 9 at 7:23 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-09T19:23:32.956895+03:00.hyperlinks.json) |
 | [September 9 at 8:34 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-09T08:34:37.082701+03:00.hyperlinks.json) |
 | [September 9 at 7:45 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-09T07:45:35.011932+03:00.hyperlinks.json) |
 | [September 8 at 6:22 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-08T18:22:24.036384+03:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 6:37 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-07T18:37:33.934413+03:00.hyperlinks.json) |
 | [September 7 at 8:40 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-07T08:40:26.584457+03:00.hyperlinks.json) |
 | [September 7 at 6:53 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-07T06:52:56.992741+03:00.hyperlinks.json) |
-| [September 6 at 8:41 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-06T08:41:29.405767+03:00.hyperlinks.json) |
-| [September 6 at 6:52 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-06T06:52:39.789549+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 162 accessibility trees with the Internet Archive.
+The archiving routine has saved 164 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 10 at 6:50 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-10T06:50:49.953955+03:00.accessibility.json) |
+| [September 9 at 7:23 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-09T19:23:32.956895+03:00.accessibility.json) |
 | [September 9 at 8:34 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-09T08:34:37.082701+03:00.accessibility.json) |
 | [September 9 at 7:45 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-09T07:45:35.011932+03:00.accessibility.json) |
 | [September 8 at 6:22 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-08T18:22:24.036384+03:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 6:37 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-07T18:37:33.934413+03:00.accessibility.json) |
 | [September 7 at 8:40 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-07T08:40:26.584457+03:00.accessibility.json) |
 | [September 7 at 6:53 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-07T06:52:56.992741+03:00.accessibility.json) |
-| [September 6 at 8:41 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-06T08:41:29.405767+03:00.accessibility.json) |
-| [September 6 at 6:52 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-06T06:52:39.789549+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 139 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 141 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 10 at 6:50 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-10T06:50:49.953955+03:00.lighthouse.json) |
+| [September 9 at 7:23 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-09T19:23:32.956895+03:00.lighthouse.json) |
 | [September 9 at 8:34 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-09T08:34:37.082701+03:00.lighthouse.json) |
 | [September 9 at 7:45 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-09T07:45:35.011932+03:00.lighthouse.json) |
 | [September 8 at 6:22 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-08T18:22:24.036384+03:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 6:37 PM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-07T18:37:33.934413+03:00.lighthouse.json) |
 | [September 7 at 8:40 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-07T08:40:26.584457+03:00.lighthouse.json) |
 | [September 7 at 6:53 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-07T06:52:56.992741+03:00.lighthouse.json) |
-| [September 6 at 8:41 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-06T08:41:29.405767+03:00.lighthouse.json) |
-| [September 6 at 6:52 AM](https://archive.org/download/gazetaru-2022/gazetaru-2022-09-06T06:52:39.789549+03:00.lighthouse.json) |
 
 
 
