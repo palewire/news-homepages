@@ -1,5 +1,5 @@
 {
-  "created": 1662815423,
+  "created": 1662823042,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/35/items/nytimes-2022",
@@ -44234,31 +44234,83 @@
       "sha1": "8e80bfd06e1341a29a87664db2349a4ef58600e2"
     },
     {
+      "name": "nytimes-2022-09-10T11:07:50.654305-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662822478",
+      "size": "27814",
+      "md5": "7cfbaa96e5f051e075fe9817c5a697d3",
+      "crc32": "d5834562",
+      "sha1": "a31ced504dbdabc8a9ff2c81b726b7cfd0fe5c82",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-09-10T11:07:50.654305-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662822481",
+      "size": "29219",
+      "md5": "7fdd9e55f94e63679d5ac4271d2c3817",
+      "crc32": "a55a3738",
+      "sha1": "63d38c219eb777f18536b199d04dfeaaf775cf9a",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-09-10T11:07:50.654305-04:00.jpg",
+      "source": "original",
+      "mtime": "1662822473",
+      "size": "359116",
+      "md5": "86a4eac3918bad6b604c84fbed482ea0",
+      "crc32": "9daaa4bb",
+      "sha1": "d914838d2588cdfb0557d138e9448c328b04051c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nytimes-2022-09-10T11:07:50.654305-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662822483",
+      "size": "1468",
+      "md5": "6b24668aa5c960f5738439a845f188a1",
+      "crc32": "947aa3c4",
+      "sha1": "c26c58930df721d192a6727c0ebbea7707033496",
+      "format": "JSON"
+    },
+    {
+      "name": "nytimes-2022-09-10T11:07:50.654305-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nytimes-2022-09-10T11:07:50.654305-04:00.jpg",
+      "mtime": "1662822754",
+      "size": "10686",
+      "md5": "0dc722dea335f9db78aa64e2e6d3d755",
+      "crc32": "34b44186",
+      "sha1": "617af2d4587a51a9d5f5d393012fb0684225c266"
+    },
+    {
       "name": "nytimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "163b9e1b919c8e350c699a95c515b053d8385980",
-      "mtime": "1662815392",
-      "size": "888261",
-      "md5": "ee6a0a7332f43db443030b392545b0f3",
-      "crc32": "c34a0ec9",
-      "sha1": "1e2bec93f2b59068e69f0f3de86903ba7312e96f",
+      "btih": "d50424808ab2af21d8c116eb5e8595d9cc8473a4",
+      "mtime": "1662822970",
+      "size": "889316",
+      "md5": "0cd6d5ebdc9249caf718ca3a0061441d",
+      "crc32": "f3732baa",
+      "sha1": "1a32a9b8a0880cdb95f4f7b376d6e50817388aaf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nytimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d939b151c12c0a7b32e812ba808591b1",
+      "md5": "5cb836e2b681d75d5bd54a371c9a3737",
       "summation": "md5"
     },
     {
       "name": "nytimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662814895",
-      "size": "4894720",
-      "md5": "34292d93f0dec83293e62492a2cce58f",
-      "crc32": "0d0ed333",
-      "sha1": "0292d3da323690861fbcb8010d116a1aaf1b0e44",
+      "mtime": "1662822491",
+      "size": "4898816",
+      "md5": "cb1e78b26b3a968f7095ef857d81c522",
+      "crc32": "d1accbe4",
+      "sha1": "4725868e7ad926a8cc5a3b50f0e44ac4ab57cf3c",
       "format": "Metadata"
     },
     {
@@ -44272,9 +44324,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 4226,
-  "item_last_updated": 1662815392,
-  "item_size": 408755898,
+  "files_count": 4231,
+  "item_last_updated": 1662822970,
+  "item_size": 409189352,
   "metadata": {
     "identifier": "nytimes-2022",
     "collection": [
@@ -44291,10 +44343,10 @@
     "publicdate": "2022-03-23 00:46:07",
     "addeddate": "2022-03-23 00:46:07"
   },
-  "server": "ia601401.us.archive.org",
-  "uniq": 1937785987,
+  "server": "ia801401.us.archive.org",
+  "uniq": 2097948680,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1662782146,
+  "created": 1662825266,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/5/items/nbcbayarea-2022",
@@ -8480,31 +8480,83 @@
       "sha1": "3e538c2655e87d6da4a1a2573dddc26a90b0c69c"
     },
     {
+      "name": "nbcbayarea-2022-09-10T08:06:47.334260-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662822410",
+      "size": "47397",
+      "md5": "62eb1d288ea1c6fc94ea04586e454648",
+      "crc32": "0e88ac53",
+      "sha1": "489839ff9a66217b7c0306b14e3c01672875f0bc",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcbayarea-2022-09-10T08:06:47.334260-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662822412",
+      "size": "51392",
+      "md5": "bb60a39fc7b2227b925525a654df8d7c",
+      "crc32": "89dd9eb5",
+      "sha1": "ef3aef9b995bd9a7f4c98ab2d102dc16c7063ad9",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcbayarea-2022-09-10T08:06:47.334260-07:00.jpg",
+      "source": "original",
+      "mtime": "1662822409",
+      "size": "295498",
+      "md5": "b1af17bf57ebd97cbf5f69a5d714741f",
+      "crc32": "25335463",
+      "sha1": "ecaa7264e036bcc059d62af4f03af6f4cb63d28f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcbayarea-2022-09-10T08:06:47.334260-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662822414",
+      "size": "1495",
+      "md5": "0fa4c06b2342b6340eaa895b874b2c76",
+      "crc32": "f5b329b6",
+      "sha1": "3ff568bf6bad936015d0e2f16ae896ee011c2bca",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcbayarea-2022-09-10T08:06:47.334260-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcbayarea-2022-09-10T08:06:47.334260-07:00.jpg",
+      "mtime": "1662822503",
+      "size": "9868",
+      "md5": "01605ba19849d7ae584f7ec3ef557cb8",
+      "crc32": "d85ad093",
+      "sha1": "28325104ec172661de2ff8c92f2b65378322fa6b"
+    },
+    {
       "name": "nbcbayarea-2022_archive.torrent",
       "source": "metadata",
-      "btih": "40de24d28907f106d81ff699b5ee8db14c250c3b",
-      "mtime": "1662782135",
-      "size": "174951",
-      "md5": "92646501aa02a5ffcfdf144e6d54a8c4",
-      "crc32": "2e7c6a45",
-      "sha1": "228369b19a97cfee7c1f27c55768b089b4085a17",
+      "btih": "0009edbe52b8db45432e265fad604a960c05c092",
+      "mtime": "1662822511",
+      "size": "176020",
+      "md5": "3520e16988189c7a72e059ababe5bef2",
+      "crc32": "a999933f",
+      "sha1": "735aef81510c4c853a8a2fd49f691a38c9524d31",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcbayarea-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "445e4a6fb198b6984a374abdc0481529",
+      "md5": "64f0b43af74b39161c19e2514e3faa71",
       "summation": "md5"
     },
     {
       "name": "nbcbayarea-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662782074",
-      "size": "1015808",
-      "md5": "afa207297bafdb793da63d7b9370c5d2",
-      "crc32": "ddefe787",
-      "sha1": "b521a26849da40ae6ef12b6b3b37b4e2932feef4",
+      "mtime": "1662822425",
+      "size": "1019904",
+      "md5": "0cc9776914aa127cfb7ab4b5d964fcf6",
+      "crc32": "d6ec4938",
+      "sha1": "b33739c034678a989b92d4a473745410de4d66be",
       "format": "Metadata"
     },
     {
@@ -8518,9 +8570,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 819,
-  "item_last_updated": 1662782135,
-  "item_size": 70043021,
+  "files_count": 824,
+  "item_last_updated": 1662822511,
+  "item_size": 70453836,
   "metadata": {
     "identifier": "nbcbayarea-2022",
     "collection": [
@@ -8537,10 +8589,10 @@
     "publicdate": "2022-06-30 20:48:27",
     "addeddate": "2022-06-30 20:48:27"
   },
-  "server": "ia601509.us.archive.org",
-  "uniq": 990451687,
+  "server": "ia801509.us.archive.org",
+  "uniq": 997728301,
   "workable_servers": [
-    "ia601509.us.archive.org",
-    "ia801509.us.archive.org"
+    "ia801509.us.archive.org",
+    "ia601509.us.archive.org"
   ]
 }

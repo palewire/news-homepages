@@ -1,5 +1,5 @@
 {
-  "created": 1662781937,
+  "created": 1662824958,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/32/items/freethinkmedia-2022",
@@ -5938,31 +5938,83 @@
       "sha1": "e8a0630f7bb696d438205fbc87c314c96577d811"
     },
     {
+      "name": "freethinkmedia-2022-09-10T08:01:43.602417-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662822115",
+      "size": "36589",
+      "md5": "7a8f01e5972b3103fb4851368d2bc14f",
+      "crc32": "5f2f3273",
+      "sha1": "571224a017cd61debfdaa46cb6f5a0cba98fe7d9",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-09-10T08:01:43.602417-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662822116",
+      "size": "29017",
+      "md5": "b1f86b080caf56b12d64414827aa976e",
+      "crc32": "b16df635",
+      "sha1": "8a26b067ccc8e2e1df30f3936892519c82df0073",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-09-10T08:01:43.602417-07:00.jpg",
+      "source": "original",
+      "mtime": "1662822113",
+      "size": "206536",
+      "md5": "9d0734cbbf9faea672e5c290e5d141ae",
+      "crc32": "03044f75",
+      "sha1": "8d35de1ea2fca946e5e046e2ce51e868bf62ef7f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "freethinkmedia-2022-09-10T08:01:43.602417-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662822119",
+      "size": "1483",
+      "md5": "561f4f336e8fbc2c7e03aa376a0a8388",
+      "crc32": "83e220e6",
+      "sha1": "99d8ee1cd065d61891eeed190b21d70f1f65545b",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-09-10T08:01:43.602417-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "freethinkmedia-2022-09-10T08:01:43.602417-07:00.jpg",
+      "mtime": "1662822188",
+      "size": "9651",
+      "md5": "9d7bba2a9fcc44a75ec9b017f25ef06f",
+      "crc32": "36823a24",
+      "sha1": "91166f8b5107d78f01ba2940c078d11aa9895c35"
+    },
+    {
       "name": "freethinkmedia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6c6358d0558d78b1a278e3fac2099c1d5e013dde",
-      "mtime": "1662781928",
-      "size": "125091",
-      "md5": "92947529a456d4ac5477b81177cf2d16",
-      "crc32": "88f72aa5",
-      "sha1": "1e1e2b50d8e9258d0ea136c213ea743753cb785e",
+      "btih": "cd9de5b8a4b77bdedccbb9c9918ac804e138a6ca",
+      "mtime": "1662822195",
+      "size": "126160",
+      "md5": "1223bd7f589f1e6c3dde0deaf48d5ee7",
+      "crc32": "3d50ee96",
+      "sha1": "ee9d006cdfe6195746496b3120aff003799e9c31",
       "format": "Archive BitTorrent"
     },
     {
       "name": "freethinkmedia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0a57db983eb11bb549ef1097cbbfac37",
+      "md5": "b15aa762ef4f167072377931325a03c2",
       "summation": "md5"
     },
     {
       "name": "freethinkmedia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662781870",
-      "size": "741376",
-      "md5": "725bfb36a4335a02c2c5cceac3d85699",
-      "crc32": "32766bd3",
-      "sha1": "4538d2ca76d8a4566a9af8ae6622de807d6acda3",
+      "mtime": "1662822128",
+      "size": "749568",
+      "md5": "a83f11f5de3aa6da0ebb1f843a63aa5f",
+      "crc32": "4bd1dc05",
+      "sha1": "f64279bf63cbcb25d446bbd0b8be881229f5560d",
       "format": "Metadata"
     },
     {
@@ -5976,9 +6028,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 577,
-  "item_last_updated": 1662781928,
-  "item_size": 29569932,
+  "files_count": 582,
+  "item_last_updated": 1662822195,
+  "item_size": 29862469,
   "metadata": {
     "identifier": "freethinkmedia-2022",
     "collection": [
@@ -5995,10 +6047,10 @@
     "publicdate": "2022-07-21 02:24:31",
     "addeddate": "2022-07-21 02:24:31"
   },
-  "server": "ia601401.us.archive.org",
-  "uniq": 654377103,
+  "server": "ia801401.us.archive.org",
+  "uniq": 1719498619,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }

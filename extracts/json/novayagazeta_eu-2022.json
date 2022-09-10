@@ -1,5 +1,5 @@
 {
-  "created": 1662788130,
+  "created": 1662822590,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/34/items/novayagazeta_eu-2022",
@@ -9396,31 +9396,83 @@
       "sha1": "6037f2c52233ecce4fb6b275011b30d872727c28"
     },
     {
+      "name": "novayagazeta_eu-2022-09-10T18:07:46.281964+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662822478",
+      "size": "147",
+      "md5": "ca4f3972977d7e19441785808682afff",
+      "crc32": "dac727e7",
+      "sha1": "931e986b27e7ae84d8d4d600fbc7aa3cd9b694e0",
+      "format": "JSON"
+    },
+    {
+      "name": "novayagazeta_eu-2022-09-10T18:07:46.281964+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662822480",
+      "size": "2",
+      "md5": "d751713988987e9331980363e24189ce",
+      "crc32": "0d4cbb29",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c",
+      "format": "JSON"
+    },
+    {
+      "name": "novayagazeta_eu-2022-09-10T18:07:46.281964+03:00.jpg",
+      "source": "original",
+      "mtime": "1662822476",
+      "size": "316660",
+      "md5": "71726bf8bd58034a95fc3adea947d601",
+      "crc32": "b9cc130f",
+      "sha1": "0d1d92c94ae87f48047769a74eeffd35477b1362",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "novayagazeta_eu-2022-09-10T18:07:46.281964+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662822486",
+      "size": "1450",
+      "md5": "6725c55aa7fd96725147dd72aac012b2",
+      "crc32": "e4f50d9b",
+      "sha1": "46eba8243e84e95e9fe89b2898b51933c6d595e1",
+      "format": "JSON"
+    },
+    {
+      "name": "novayagazeta_eu-2022-09-10T18:07:46.281964+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "novayagazeta_eu-2022-09-10T18:07:46.281964+03:00.jpg",
+      "mtime": "1662822559",
+      "size": "10474",
+      "md5": "12e96e4e6569cfaa7d85ef8fa851231d",
+      "crc32": "54d44c72",
+      "sha1": "1b02e62154d8c91266feaebfc757deefd0f6cd99"
+    },
+    {
       "name": "novayagazeta_eu-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bb91357da2e6e2aa45d5462b4f66697a7847fc59",
-      "mtime": "1662788118",
-      "size": "197125",
-      "md5": "a8c6eb0abe7584c7c067cd8935b3234d",
-      "crc32": "e6ac7e8a",
-      "sha1": "dc3db6c8eff14a2096b5d03a5ce5857fda5ea4e1",
+      "btih": "21f0cef54da74d22f235effded0e8a642c0fe1d4",
+      "mtime": "1662822578",
+      "size": "198214",
+      "md5": "28de16c0d58d5fe787d9a25af5e65bd4",
+      "crc32": "27cd7bad",
+      "sha1": "181ef0c88d1bd3a17ccd588be1051e0acc8338b4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "novayagazeta_eu-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8e7fbb362df167cfdc875400f6d85fc8",
+      "md5": "17012f735d6a080bb60e549ec95850a9",
       "summation": "md5"
     },
     {
       "name": "novayagazeta_eu-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662788038",
-      "size": "1155072",
-      "md5": "1f3d8598f74dcd195c465d5e12ab9156",
-      "crc32": "71ab91f5",
-      "sha1": "a0bc549ef5b5c9820bbcda61c769aa39fe01f21b",
+      "mtime": "1662822491",
+      "size": "1159168",
+      "md5": "da01e4002f84dc008b85b68791d9871b",
+      "crc32": "fa4a60ec",
+      "sha1": "2b4c45b40f62b03551e20b145d68815fc6d0127e",
       "format": "Metadata"
     },
     {
@@ -9434,9 +9486,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 910,
-  "item_last_updated": 1662788118,
-  "item_size": 52826911,
+  "files_count": 915,
+  "item_last_updated": 1662822578,
+  "item_size": 53160829,
   "metadata": {
     "identifier": "novayagazeta_eu-2022",
     "collection": [
@@ -9453,10 +9505,10 @@
     "publicdate": "2022-07-16 20:48:55",
     "addeddate": "2022-07-16 20:48:55"
   },
-  "server": "ia801507.us.archive.org",
-  "uniq": 1201083165,
+  "server": "ia601507.us.archive.org",
+  "uniq": 2126023996,
   "workable_servers": [
-    "ia801507.us.archive.org",
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1662785054,
+  "created": 1662824940,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/19/items/fox5ny-2022",
@@ -2114,31 +2114,83 @@
       "sha1": "18ad39f8ef9b48af4070637fe20b1f65f512ee2c"
     },
     {
+      "name": "fox5ny-2022-09-10T11:01:42.534257-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662822106",
+      "size": "43391",
+      "md5": "fb8b4813c9d2d0e13f2c6ce3dea334bf",
+      "crc32": "ac550cd5",
+      "sha1": "da5f9193636a4108c18ae799114dcc33caeb5f14",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-09-10T11:01:42.534257-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662822108",
+      "size": "33911",
+      "md5": "89ea456427c30665562ca57de90dea55",
+      "crc32": "05a41aa9",
+      "sha1": "15830cd624467f3e64670501efd9a9306fb0b110",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-09-10T11:01:42.534257-04:00.jpg",
+      "source": "original",
+      "mtime": "1662822105",
+      "size": "342011",
+      "md5": "ea8140a2f5a2d172d5f51333032997c8",
+      "crc32": "f4addd66",
+      "sha1": "4d25d4a83dcde863b3d2cb79cae1205ee751540f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox5ny-2022-09-10T11:01:42.534257-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662822110",
+      "size": "1459",
+      "md5": "c1caabc6392a4fc3eb38dbb35277e551",
+      "crc32": "cbb77a59",
+      "sha1": "f42f95962ab6e39430ceaadadeabac5ab133cc25",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-09-10T11:01:42.534257-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox5ny-2022-09-10T11:01:42.534257-04:00.jpg",
+      "mtime": "1662822157",
+      "size": "10884",
+      "md5": "82cbfdb0ae96524088eb2bccdd119478",
+      "crc32": "9b338800",
+      "sha1": "db66f14992402c54c901dbdbfd3718650272cf7c"
+    },
+    {
       "name": "fox5ny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "65ee3ad2428b8951beb398bfd7101d0fc5a05698",
-      "mtime": "1662781907",
-      "size": "44016",
-      "md5": "ef45e280c7a62c395320899af0b41171",
-      "crc32": "d53d1e61",
-      "sha1": "f1516079d032d434aaf963467640097688025029",
+      "btih": "c2731518f15621c05b5de26b8ae0491fd4bf7026",
+      "mtime": "1662822161",
+      "size": "45066",
+      "md5": "5e6a5594e4a091dd274efdaf9ea8a576",
+      "crc32": "1ceac3ee",
+      "sha1": "110095b9657aeb7c8446d5042e52a03eb569594f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fox5ny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "875836fa75e2e16e9ed04fdf11b447e1",
+      "md5": "6880a4a622044ab0957d9e1a6e9b73bd",
       "summation": "md5"
     },
     {
       "name": "fox5ny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662781861",
-      "size": "282624",
-      "md5": "978e98571da6dfc0737ed94b42ee04e6",
-      "crc32": "1910b324",
-      "sha1": "28b9a63dcc1b0ba5bd9f5422384296cdff751e62",
+      "mtime": "1662822113",
+      "size": "286720",
+      "md5": "9160b68d4c4eda043c78ba8529a1ceee",
+      "crc32": "9a797b21",
+      "sha1": "19eebc7762fe78e522f9143ed3fc7a5cca2a37f3",
       "format": "Metadata"
     },
     {
@@ -2152,50 +2204,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 208,
-  "fox5ny-2022": [
-    {
-      "url": "https://www.fox5ny.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fox5ny_com-_-2022_09_10_03_28_30.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fox5ny_com-_-2022_09_10_03_28_30.report.json",
-      "summary": {
-        "performance": 0.17,
-        "accessibility": 0.77,
-        "best-practices": 0.58,
-        "seo": 0.84,
-        "pwa": 0.6
-      }
-    },
-    {
-      "url": "https://www.fox5ny.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fox5ny_com-_-2022_09_10_03_31_20.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fox5ny_com-_-2022_09_10_03_31_20.report.json",
-      "summary": {
-        "performance": 0.17,
-        "accessibility": 0.79,
-        "best-practices": 0.58,
-        "seo": 0.84,
-        "pwa": 0.6
-      }
-    },
-    {
-      "url": "https://www.fox5ny.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fox5ny_com-_-2022_09_10_03_29_57.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_fox5ny_com-_-2022_09_10_03_29_57.report.json",
-      "summary": {
-        "performance": 0.17,
-        "accessibility": 0.77,
-        "best-practices": 0.58,
-        "seo": 0.84,
-        "pwa": 0.6
-      }
-    }
-  ],
-  "item_last_updated": 1662781907,
-  "item_size": 16208647,
+  "files_count": 213,
+  "item_last_updated": 1662822161,
+  "item_size": 16645449,
   "metadata": {
     "identifier": "fox5ny-2022",
     "collection": [
@@ -2212,10 +2223,10 @@
     "publicdate": "2022-08-23 14:52:06",
     "addeddate": "2022-08-23 14:52:06"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 1863500085,
+  "server": "ia601406.us.archive.org",
+  "uniq": 2145524457,
   "workable_servers": [
-    "ia801406.us.archive.org",
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }
