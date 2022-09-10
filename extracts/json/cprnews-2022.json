@@ -1,5 +1,5 @@
 {
-  "created": 1662764885,
+  "created": 1662807409,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/3/items/cprnews-2022",
@@ -3488,31 +3488,83 @@
       "sha1": "d5aa82c44b9851790465c5c5912fdb3e97a77ae9"
     },
     {
+      "name": "cprnews-2022-09-10T04:55:32.564306-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662807337",
+      "size": "28573",
+      "md5": "b5a72f55df0ed038b4f4eedc3f48d65b",
+      "crc32": "5c2873f3",
+      "sha1": "734a3cc0afcdc5598eeadad45fa47693a6df3c1b",
+      "format": "JSON"
+    },
+    {
+      "name": "cprnews-2022-09-10T04:55:32.564306-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662807339",
+      "size": "15282",
+      "md5": "c8708b6686e627b16125143b7e313063",
+      "crc32": "a8dfb8e8",
+      "sha1": "0114e082c1d394a5fc84c2eecd2ead9344c8f428",
+      "format": "JSON"
+    },
+    {
+      "name": "cprnews-2022-09-10T04:55:32.564306-06:00.jpg",
+      "source": "original",
+      "mtime": "1662807336",
+      "size": "260568",
+      "md5": "664213b5cd57e1b0ef393f7d5702ec6b",
+      "crc32": "7b61c523",
+      "sha1": "754f8e0d771e7b0fe4fcae976fde8b3b05e7dc79",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cprnews-2022-09-10T04:55:32.564306-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662807341",
+      "size": "1423",
+      "md5": "8e77a5054550639c330a859070ce9241",
+      "crc32": "30253fd8",
+      "sha1": "2058665313e34d1dfccbbb5d1ba1c472a83f1ef5",
+      "format": "JSON"
+    },
+    {
+      "name": "cprnews-2022-09-10T04:55:32.564306-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cprnews-2022-09-10T04:55:32.564306-06:00.jpg",
+      "mtime": "1662807395",
+      "size": "9636",
+      "md5": "d0bd6afe1595963376ba6f8021214a00",
+      "crc32": "0c123a01",
+      "sha1": "c562379bac09bcae1fba0dddf20bf6661b968474"
+    },
+    {
       "name": "cprnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f0994f02c8f092ff33e00b95234e51894cf3614a",
-      "mtime": "1662764875",
-      "size": "71816",
-      "md5": "85df07cda95fce5f5337e4ea3bb7de68",
-      "crc32": "61d3c620",
-      "sha1": "487df2b10c4763f1803f467c5604a5f2de1e8a50",
+      "btih": "91296b50fc6d95891ee3ee00ae67ca7cae3a349d",
+      "mtime": "1662807399",
+      "size": "72850",
+      "md5": "f471c506c4aaac6de97d05f3ab2487d3",
+      "crc32": "b97d4e30",
+      "sha1": "962671c045f696c3dc6fa16c11ec42611b1c645e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cprnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8d03675f249afa15bcc65b0ac0d3bd56",
+      "md5": "9739c4ef3e5338542dc3e353a02157b0",
       "summation": "md5"
     },
     {
       "name": "cprnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662764820",
-      "size": "450560",
-      "md5": "782da167d5e9c1871bf044bdb203d9c4",
-      "crc32": "fdd1944c",
-      "sha1": "49c74956b7fb2c3e83bf0736944abb8d8629a9a3",
+      "mtime": "1662807346",
+      "size": "454656",
+      "md5": "b5aa7da060567b9fe1cda257247e0780",
+      "crc32": "df3e0f40",
+      "sha1": "37974b2f71786532bfd2cba6df808401e1158983",
       "format": "Metadata"
     },
     {
@@ -3526,9 +3578,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 341,
-  "item_last_updated": 1662764875,
-  "item_size": 19109497,
+  "files_count": 346,
+  "item_last_updated": 1662807399,
+  "item_size": 19430109,
   "metadata": {
     "identifier": "cprnews-2022",
     "collection": [
@@ -3546,7 +3598,7 @@
     "addeddate": "2022-08-13 23:51:19"
   },
   "server": "ia801508.us.archive.org",
-  "uniq": 2107960224,
+  "uniq": 1327231048,
   "workable_servers": [
     "ia801508.us.archive.org",
     "ia601508.us.archive.org"

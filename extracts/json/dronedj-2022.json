@@ -1,5 +1,5 @@
 {
-  "created": 1662765001,
+  "created": 1662807502,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/20/items/dronedj-2022",
@@ -2590,31 +2590,83 @@
       "sha1": "63103a4f108d8680efa6e2eb614e8703c31be5ae"
     },
     {
+      "name": "dronedj-2022-09-10T06:57:11.648321-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662807435",
+      "size": "15511",
+      "md5": "7e649fb56f1fd4eadb2399ca0c904f14",
+      "crc32": "251f1333",
+      "sha1": "7f1657f7f4aa0177a9bc8eda2ce48db007b22616",
+      "format": "JSON"
+    },
+    {
+      "name": "dronedj-2022-09-10T06:57:11.648321-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662807437",
+      "size": "16882",
+      "md5": "2034f515dab5e2f1dc7a3828ff238657",
+      "crc32": "901abec8",
+      "sha1": "30051a49e61d8477c2d86262c00817c761a9d2c3",
+      "format": "JSON"
+    },
+    {
+      "name": "dronedj-2022-09-10T06:57:11.648321-04:00.jpg",
+      "source": "original",
+      "mtime": "1662807434",
+      "size": "188683",
+      "md5": "133a0750daf7e618502bbab5ed5be0b8",
+      "crc32": "53b04f2b",
+      "sha1": "77d6312240fd07fe7076163652fff5f3f4f860ee",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dronedj-2022-09-10T06:57:11.648321-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662807438",
+      "size": "1431",
+      "md5": "aaf7de4b407c0e555b2d090c8ac13729",
+      "crc32": "489bd0f4",
+      "sha1": "1d85da985e26ecb41449a57b5abd79c02d92649e",
+      "format": "JSON"
+    },
+    {
+      "name": "dronedj-2022-09-10T06:57:11.648321-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dronedj-2022-09-10T06:57:11.648321-04:00.jpg",
+      "mtime": "1662807489",
+      "size": "8836",
+      "md5": "3ac61e29912632638e93f8acb311eb6b",
+      "crc32": "0786f67c",
+      "sha1": "63103a4f108d8680efa6e2eb614e8703c31be5ae"
+    },
+    {
       "name": "dronedj-2022_archive.torrent",
       "source": "metadata",
-      "btih": "da7b7f41103d3ea66c561021d242ed0511905586",
-      "mtime": "1662764991",
-      "size": "53548",
-      "md5": "b44f9fb91716cb47981a3e943a2e7448",
-      "crc32": "6d1562f6",
-      "sha1": "83b0e2049b1418c448d3acec1d49c763a64acd12",
+      "btih": "772203d72a63ae7046c940b49d7936504f23d102",
+      "mtime": "1662807495",
+      "size": "54582",
+      "md5": "6edf693f8a43a026f0702347e04f9c9f",
+      "crc32": "3c2eea82",
+      "sha1": "30f9622533053a1a145c4bdc119b01f0dca8e836",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dronedj-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f3d24e692ea1607134199bb096538037",
+      "md5": "c03809a5f1c44b98b30a444e68d9dd80",
       "summation": "md5"
     },
     {
       "name": "dronedj-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662764931",
-      "size": "335872",
-      "md5": "58e0e4a81bd6693523a603b77ea70d4c",
-      "crc32": "5763179c",
-      "sha1": "162e74281145d4bceae93aa93ab10e7e14b46307",
+      "mtime": "1662807443",
+      "size": "344064",
+      "md5": "3a6ebe598d3228c81d62f4723514ecd2",
+      "crc32": "1e7d8272",
+      "sha1": "28c11eda924f17b288faf5bcde7c6271464142ac",
       "format": "Metadata"
     },
     {
@@ -2628,9 +2680,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 254,
-  "item_last_updated": 1662764991,
-  "item_size": 12322151,
+  "files_count": 259,
+  "item_last_updated": 1662807495,
+  "item_size": 12562720,
   "metadata": {
     "identifier": "dronedj-2022",
     "collection": [
@@ -2647,10 +2699,10 @@
     "publicdate": "2022-08-20 23:03:35",
     "addeddate": "2022-08-20 23:03:35"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 516893402,
+  "server": "ia601408.us.archive.org",
+  "uniq": 271664081,
   "workable_servers": [
-    "ia801408.us.archive.org",
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

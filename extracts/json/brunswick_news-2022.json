@@ -1,5 +1,5 @@
 {
-  "created": 1662764716,
+  "created": 1662807513,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/10/items/brunswick_news-2022",
@@ -6104,31 +6104,83 @@
       "sha1": "87477d0a3787aa2b7c6ad7be7c6f17c0e9526a76"
     },
     {
+      "name": "brunswick_news-2022-09-10T06:54:48.915958-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662807305",
+      "size": "25839",
+      "md5": "7e9e9f736bc97880bd9c69f56a9b8121",
+      "crc32": "8f3db4c7",
+      "sha1": "ebe08fe451dd024b6aa88b86b7e33522c1143c04",
+      "format": "JSON"
+    },
+    {
+      "name": "brunswick_news-2022-09-10T06:54:48.915958-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662807306",
+      "size": "76418",
+      "md5": "aa9c2534a87a1d5431c0f51344109f44",
+      "crc32": "8f7559d4",
+      "sha1": "9cb47292d0daf059334f82040d80fe0e1474ba71",
+      "format": "JSON"
+    },
+    {
+      "name": "brunswick_news-2022-09-10T06:54:48.915958-04:00.jpg",
+      "source": "original",
+      "mtime": "1662807303",
+      "size": "319129",
+      "md5": "5db5b322dc865499f994f42751530222",
+      "crc32": "3647ba47",
+      "sha1": "9b8cdedb0419f8f63e69fc2e88418f184dfc5012",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "brunswick_news-2022-09-10T06:54:48.915958-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662807308",
+      "size": "1513",
+      "md5": "0d117e1ed391a95a3e30f9dcbc84c75a",
+      "crc32": "4c290975",
+      "sha1": "394e1ad6ed7b4c34c965f55e4120d6ee1b867e5a",
+      "format": "JSON"
+    },
+    {
+      "name": "brunswick_news-2022-09-10T06:54:48.915958-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brunswick_news-2022-09-10T06:54:48.915958-04:00.jpg",
+      "mtime": "1662807377",
+      "size": "9168",
+      "md5": "d78e50c17d2caf6b6952a5e232066220",
+      "crc32": "023d4a39",
+      "sha1": "98cc18ccd5992d5ec14da3c8a0a7a78fc35e6237"
+    },
+    {
       "name": "brunswick_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "368ff31afe3d3d3d1d04bb097947031d6c55b659",
-      "mtime": "1662764708",
-      "size": "129038",
-      "md5": "3e8034b8abc12acea38d0173954d597d",
-      "crc32": "78720295",
-      "sha1": "dbd11436106418429708185121a51eed0f20eb64",
+      "btih": "f9c2038d12b4d3827c418d2ca2116762d14acd56",
+      "mtime": "1662807385",
+      "size": "130127",
+      "md5": "653b0231573874bec270a9f09554fd51",
+      "crc32": "14d768a3",
+      "sha1": "bb6c1fe66279cf44024343ee3fcbf92ac4b29668",
       "format": "Archive BitTorrent"
     },
     {
       "name": "brunswick_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9e17d1b5f8cf49d88f28a461e1bc20b4",
+      "md5": "9aa879ba0ab46fac5ae1158920b6b069",
       "summation": "md5"
     },
     {
       "name": "brunswick_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662764652",
-      "size": "761856",
-      "md5": "83560ed4868b0aab20a089f28867f045",
-      "crc32": "3dd40457",
-      "sha1": "b0bbe5d93979a0fe5f50d0395663c847f9110ace",
+      "mtime": "1662807316",
+      "size": "765952",
+      "md5": "17abfef6a6467b04392b29b63d24fc8c",
+      "crc32": "d6c580f5",
+      "sha1": "ed7c26413f08cec34a41e571e1e5bd521b3434f6",
       "format": "Metadata"
     },
     {
@@ -6142,9 +6194,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 593,
-  "item_last_updated": 1662764708,
-  "item_size": 44408388,
+  "files_count": 598,
+  "item_last_updated": 1662807385,
+  "item_size": 44845640,
   "metadata": {
     "identifier": "brunswick_news-2022",
     "collection": [
@@ -6161,10 +6213,10 @@
     "publicdate": "2022-07-20 23:30:25",
     "addeddate": "2022-07-20 23:30:25"
   },
-  "server": "ia801509.us.archive.org",
-  "uniq": 1587184209,
+  "server": "ia601509.us.archive.org",
+  "uniq": 105041690,
   "workable_servers": [
-    "ia801509.us.archive.org",
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }

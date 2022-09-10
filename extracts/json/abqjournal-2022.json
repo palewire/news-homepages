@@ -1,5 +1,5 @@
 {
-  "created": 1662764666,
+  "created": 1662807220,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/28/items/abqjournal-2022",
@@ -13554,31 +13554,83 @@
       "sha1": "50778a661aa8af76866bc081644480cdf6e32b2b"
     },
     {
+      "name": "abqjournal-2022-09-10T04:51:35.326390-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662807099",
+      "size": "39416",
+      "md5": "3c5c62efd987b94ac3b406d092da4316",
+      "crc32": "3cc4d8d2",
+      "sha1": "b57740b487f7fc0ba39b599e68c49118dd8d1edd",
+      "format": "JSON"
+    },
+    {
+      "name": "abqjournal-2022-09-10T04:51:35.326390-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662807101",
+      "size": "60239",
+      "md5": "47cbac75784649e3e475aafe6963a5b6",
+      "crc32": "6db1f245",
+      "sha1": "0ac364c3b97cb1714367100c66347f20d97c299a",
+      "format": "JSON"
+    },
+    {
+      "name": "abqjournal-2022-09-10T04:51:35.326390-06:00.jpg",
+      "source": "original",
+      "mtime": "1662807097",
+      "size": "309855",
+      "md5": "16bbb45c902d9d0555e660e08ddd4486",
+      "crc32": "57fc1353",
+      "sha1": "cbff121c0ddca453e1d409d7eebef6c4f713d78a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "abqjournal-2022-09-10T04:51:35.326390-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662807103",
+      "size": "1492",
+      "md5": "990d80618a92fd74dca74d9ae0edc0f5",
+      "crc32": "a2251275",
+      "sha1": "6e6dd67c4baa1bc9533314da028083cdeac4439b",
+      "format": "JSON"
+    },
+    {
+      "name": "abqjournal-2022-09-10T04:51:35.326390-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "abqjournal-2022-09-10T04:51:35.326390-06:00.jpg",
+      "mtime": "1662807192",
+      "size": "10026",
+      "md5": "d278de5b09be9303ea1905af3d2573c3",
+      "crc32": "6d678db9",
+      "sha1": "12793a3da23a39c15a82b26e5a9999022116f0ed"
+    },
+    {
       "name": "abqjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "51255e8f2dd263fb1ab75b715b339e1d86720c75",
-      "mtime": "1662764655",
-      "size": "277933",
-      "md5": "22044fde4cda6118e2fe76ae38fc3a53",
-      "crc32": "9befc420",
-      "sha1": "2e0a59ef82484e01f7824c1f1ec78c79ebda8b2b",
+      "btih": "828e556cac89c61220c4b028d5b8202c9ce5cee5",
+      "mtime": "1662807212",
+      "size": "279003",
+      "md5": "b9da4df1c2fce4520fc774b8b153f1fa",
+      "crc32": "a1764db3",
+      "sha1": "de0397b71db7120ec2faa82784ceac7c206a2a5f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "abqjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fc76b530f9a9f6f9b9a8aad3d7b3f738",
+      "md5": "d47e73cf861e98bd23b86cab006b8769",
       "summation": "md5"
     },
     {
       "name": "abqjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662764547",
-      "size": "1560576",
-      "md5": "9a105a8690c97b3129c83c9335cefa7f",
-      "crc32": "729e4c76",
-      "sha1": "5399c5667c083dd40123e71aaa465c1086496f20",
+      "mtime": "1662807113",
+      "size": "1564672",
+      "md5": "d14eb68ef86b34b37b236cfd0705e84a",
+      "crc32": "f1497cf5",
+      "sha1": "69a97e6387b4c9f02251a63b5b4ebcb72bc3b626",
       "format": "Metadata"
     },
     {
@@ -13592,9 +13644,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1302,
-  "item_last_updated": 1662764655,
-  "item_size": 119216366,
+  "files_count": 1307,
+  "item_last_updated": 1662807212,
+  "item_size": 119642560,
   "metadata": {
     "identifier": "abqjournal-2022",
     "collection": [
@@ -13611,10 +13663,10 @@
     "publicdate": "2022-03-25 03:47:41",
     "addeddate": "2022-03-25 03:47:41"
   },
-  "server": "ia902503.us.archive.org",
-  "uniq": 829571661,
+  "server": "ia802503.us.archive.org",
+  "uniq": 1070534859,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia802503.us.archive.org",
+    "ia902503.us.archive.org"
   ]
 }

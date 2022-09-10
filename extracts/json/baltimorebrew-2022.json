@@ -1,22 +1,5 @@
 {
-  "baltimorebrew-2022": {
-    "url": "https://www.baltimorebrew.com/",
-    "job_id": "spn2-ac7b586ddd8ef9aa8a151ac02cd03c24d342fcc1",
-    "counters": {
-      "embeds": 2,
-      "outlinks": 0
-    },
-    "duration_sec": 6.702,
-    "http_status": 502,
-    "original_url": "https://www.baltimorebrew.com/",
-    "resources": [
-      "https://www.baltimorebrew.com/",
-      "https://www.baltimorebrew.com/favicon.ico"
-    ],
-    "status": "success",
-    "timestamp": "20220909225311"
-  },
-  "created": 1662768189,
+  "created": 1662807291,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/15/items/baltimorebrew-2022",
@@ -6793,31 +6776,83 @@
       "sha1": "e20959adb18fabc9d5def03cfdab195cca4d97e3"
     },
     {
+      "name": "baltimorebrew-2022-09-10T06:53:20.011995-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662807207",
+      "size": "17808",
+      "md5": "1780353e1dc57d0ea3e39f67b04c3a8b",
+      "crc32": "2d5fc92f",
+      "sha1": "4c0a751f9855277dd0c0cf50f363a4e872ed46cf",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebrew-2022-09-10T06:53:20.011995-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662807208",
+      "size": "15248",
+      "md5": "28c1f9273196732621ba3f67e94818f8",
+      "crc32": "92fb408b",
+      "sha1": "7e723d90937d57bef87db9bce3a05160c6965170",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebrew-2022-09-10T06:53:20.011995-04:00.jpg",
+      "source": "original",
+      "mtime": "1662807205",
+      "size": "295280",
+      "md5": "038ece6e3e84c68f7757889f5235f7ec",
+      "crc32": "572b2c15",
+      "sha1": "2be1928dc3384fc7fde8bb8f72b869bc3b8fa1ca",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltimorebrew-2022-09-10T06:53:20.011995-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662807211",
+      "size": "1522",
+      "md5": "fa476c92d3a34f241a2be4edb2595db0",
+      "crc32": "b6cceabe",
+      "sha1": "00092183e59ec5cea6e9cae54e0dffd41b099711",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebrew-2022-09-10T06:53:20.011995-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltimorebrew-2022-09-10T06:53:20.011995-04:00.jpg",
+      "mtime": "1662807275",
+      "size": "9101",
+      "md5": "036e1415c51ca3eeb96c95ffeb3a977f",
+      "crc32": "76a30f26",
+      "sha1": "994de9f3a6532d02d859d69a15db412150eb7e68"
+    },
+    {
       "name": "baltimorebrew-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f30a803e98dfaa7fd41853d53d8bbf8bd684849c",
-      "mtime": "1662764723",
-      "size": "141837",
-      "md5": "2261c3813e1e52345ed5186a10487254",
-      "crc32": "affcd500",
-      "sha1": "533b6cc0690f24354cc93376dcf620452bb7f865",
+      "btih": "598ef379287a06627ea68307f910299407aca51e",
+      "mtime": "1662807282",
+      "size": "142901",
+      "md5": "f0216e296c907dc2b0e9ba7050db62a1",
+      "crc32": "954e9e26",
+      "sha1": "233de118738f14711143f7016b74a4616ed1ee59",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltimorebrew-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f67cea81f6829e776acb2643b3531c98",
+      "md5": "7473add54c71183fb07320440077f562",
       "summation": "md5"
     },
     {
       "name": "baltimorebrew-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662764654",
-      "size": "835584",
-      "md5": "ce5097369fdc3fb4730492c31114ba46",
-      "crc32": "9e7c0b56",
-      "sha1": "95de2c42f6ea6f6a8c7470f1135439b072f47897",
+      "mtime": "1662807214",
+      "size": "839680",
+      "md5": "9140947d7003009009a865274d4ba8ab",
+      "crc32": "77f63dfd",
+      "sha1": "4d4667b111eeff91e3bce714aff21616f3591274",
       "format": "Metadata"
     },
     {
@@ -6831,9 +6866,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 657,
-  "item_last_updated": 1662764723,
-  "item_size": 39526060,
+  "files_count": 662,
+  "item_last_updated": 1662807282,
+  "item_size": 39870179,
   "metadata": {
     "identifier": "baltimorebrew-2022",
     "collection": [
@@ -6850,10 +6885,10 @@
     "publicdate": "2022-07-13 02:24:41",
     "addeddate": "2022-07-13 02:24:41"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 857922660,
+  "server": "ia801409.us.archive.org",
+  "uniq": 708587818,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }

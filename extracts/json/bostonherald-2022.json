@@ -1,5 +1,5 @@
 {
-  "created": 1662764741,
+  "created": 1662807344,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/33/items/bostonherald-2022",
@@ -5394,31 +5394,83 @@
       "sha1": "270538f403bf123c1ded3a32517e1c6ba0442fb6"
     },
     {
+      "name": "bostonherald-2022-09-10T06:54:06.795696-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662807254",
+      "size": "40997",
+      "md5": "ff07077e0e1887159ff90ccae4ce115a",
+      "crc32": "35fd62f1",
+      "sha1": "5a35130767afdb847464584aa0d64cb5e8f33d78",
+      "format": "JSON"
+    },
+    {
+      "name": "bostonherald-2022-09-10T06:54:06.795696-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662807255",
+      "size": "40834",
+      "md5": "60a9beb996e40652a207e2ae622de0b4",
+      "crc32": "e1364fa0",
+      "sha1": "e3d60aa7b2ecd0711771ea395db2813c6dc89149",
+      "format": "JSON"
+    },
+    {
+      "name": "bostonherald-2022-09-10T06:54:06.795696-04:00.jpg",
+      "source": "original",
+      "mtime": "1662807252",
+      "size": "293476",
+      "md5": "5118d108a84bd6a1069eca0a86a77982",
+      "crc32": "6a4b0b75",
+      "sha1": "b9c244b1afd3a414204fbe14538ada8eb65854b2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bostonherald-2022-09-10T06:54:06.795696-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662807257",
+      "size": "1513",
+      "md5": "1242e1f6cb03df56534d743be9a7e72a",
+      "crc32": "1b314bb3",
+      "sha1": "0142856adeae9f8fbfac7abac4f83f67524c9c58",
+      "format": "JSON"
+    },
+    {
+      "name": "bostonherald-2022-09-10T06:54:06.795696-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bostonherald-2022-09-10T06:54:06.795696-04:00.jpg",
+      "mtime": "1662807326",
+      "size": "9566",
+      "md5": "9de42dcdb2481a9b101538b0fbafbaa6",
+      "crc32": "9d331b75",
+      "sha1": "35997201338f2417f2074c67a22a8d4bc0c1335e"
+    },
+    {
       "name": "bostonherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2a4ea0eb3cf38e30e6b65477fa72096b806610e9",
-      "mtime": "1662764729",
-      "size": "113125",
-      "md5": "24588a6136b4de53e04a0083fcdb27b6",
-      "crc32": "6d76a9e6",
-      "sha1": "a6dfdb2822179936a306ca8c58e0f7abf6cab4f6",
+      "btih": "a5d7f62f18edb7846db7c1e0fa1a787ec06d529a",
+      "mtime": "1662807335",
+      "size": "114184",
+      "md5": "ecb3587af7e5ffbf9dbef42304f7dd07",
+      "crc32": "41b8e3af",
+      "sha1": "549c5c4a85ec9f6509ccfe8171df24e05beab7c8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bostonherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bae221880411aaf2dc73a505d5bfca39",
+      "md5": "1e71485cc82d0b22e16563a8eae5c3da",
       "summation": "md5"
     },
     {
       "name": "bostonherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662764664",
-      "size": "679936",
-      "md5": "a90f60696a9be00282b969248f041652",
-      "crc32": "035cbb62",
-      "sha1": "c56615ba4bcd4c91575a2a60bdc42c3f80210491",
+      "mtime": "1662807262",
+      "size": "684032",
+      "md5": "c73a14687fdbcdf26f2cd21df77f9433",
+      "crc32": "e053b6af",
+      "sha1": "a9bc66a1799ab10b93dd5f12c015d57b249f3d72",
       "format": "Metadata"
     },
     {
@@ -5432,9 +5484,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 525,
-  "item_last_updated": 1662764729,
-  "item_size": 35297065,
+  "files_count": 530,
+  "item_last_updated": 1662807335,
+  "item_size": 35688606,
   "metadata": {
     "identifier": "bostonherald-2022",
     "collection": [
@@ -5453,7 +5505,7 @@
   },
   "server": "ia801503.us.archive.org",
   "servers_unavailable": true,
-  "uniq": 1908223655,
+  "uniq": 308652179,
   "workable_servers": [
     "ia801503.us.archive.org"
   ]

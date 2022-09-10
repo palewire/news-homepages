@@ -1,5 +1,5 @@
 {
-  "created": 1662764900,
+  "created": 1662807462,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/22/items/coloradosun-2022",
@@ -3466,31 +3466,83 @@
       "sha1": "e89211c0c010878a23b9e5878d349c1b239a9903"
     },
     {
+      "name": "coloradosun-2022-09-10T04:56:07.394933-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662807372",
+      "size": "26978",
+      "md5": "d707909d29c1a343949b3881f011dacf",
+      "crc32": "8982f027",
+      "sha1": "1aded7bbefcbb812d63478d1a1e86dd67ddd36b9",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradosun-2022-09-10T04:56:07.394933-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662807373",
+      "size": "41601",
+      "md5": "7dd645e1cc90d2ca697e010a92524d77",
+      "crc32": "799b35bd",
+      "sha1": "f07f5ba1ea9bc8b3bd6fb331edb0c1f768360258",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradosun-2022-09-10T04:56:07.394933-06:00.jpg",
+      "source": "original",
+      "mtime": "1662807371",
+      "size": "265458",
+      "md5": "789cc08107ca6cd84f2d16d707d67095",
+      "crc32": "982579e7",
+      "sha1": "6ac97cb9a231c95c4b69f3c5cf4512e9527fe376",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coloradosun-2022-09-10T04:56:07.394933-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662807375",
+      "size": "1468",
+      "md5": "6cf37845c4687480f31453cd1bdfa7fe",
+      "crc32": "5c3ea31f",
+      "sha1": "0b2e32feae4e114768264726ebeae4064b47f665",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradosun-2022-09-10T04:56:07.394933-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coloradosun-2022-09-10T04:56:07.394933-06:00.jpg",
+      "mtime": "1662807447",
+      "size": "10329",
+      "md5": "fccca3221c2a0bf0d8990bb2bcae9e97",
+      "crc32": "9de2bba7",
+      "sha1": "a1fa916fc9014913d680447178a8c11536551be6"
+    },
+    {
       "name": "coloradosun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6cea882a48e562ff3b1c9dc071117c23f5fc4649",
-      "mtime": "1662764893",
-      "size": "72860",
-      "md5": "f1d9c28ecbe0d93bf0f3c01d5a55de39",
-      "crc32": "22fb17e2",
-      "sha1": "c8aa6b9664d4f52c25d1c9811b447a70d7c4d2e7",
+      "btih": "b289b62d4b5f1f55b5d1ee0076f4e8c52649be3c",
+      "mtime": "1662807455",
+      "size": "73935",
+      "md5": "0507eed2f731ad7c60ba399b1b0f4aba",
+      "crc32": "777ee2ca",
+      "sha1": "e66a47d67f310d4715599008a6db1042309eeb5a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "coloradosun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1e400cb4c28d97c27b4a128c27967f4d",
+      "md5": "9362d1f3965a483897d0427a5b66e4e5",
       "summation": "md5"
     },
     {
       "name": "coloradosun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662764844",
-      "size": "446464",
-      "md5": "81d91f9a47e9a502d91a22ee5cefc9eb",
-      "crc32": "c4036f73",
-      "sha1": "3d2b65f52c4cdac2e821567ec46312dbb4a92147",
+      "mtime": "1662807379",
+      "size": "454656",
+      "md5": "9af232c634b2fa70f5b36e2b7c2d995c",
+      "crc32": "6c9ed67b",
+      "sha1": "4329d31478107ba612aafa15743e13aeabbfd138",
       "format": "Metadata"
     },
     {
@@ -3504,9 +3556,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 339,
-  "item_last_updated": 1662764893,
-  "item_size": 21235599,
+  "files_count": 344,
+  "item_last_updated": 1662807455,
+  "item_size": 21590700,
   "metadata": {
     "identifier": "coloradosun-2022",
     "collection": [
@@ -3523,10 +3575,10 @@
     "publicdate": "2022-08-13 23:50:43",
     "addeddate": "2022-08-13 23:50:43"
   },
-  "server": "ia801504.us.archive.org",
-  "uniq": 2114047360,
+  "server": "ia601504.us.archive.org",
+  "uniq": 561133329,
   "workable_servers": [
-    "ia801504.us.archive.org",
-    "ia601504.us.archive.org"
+    "ia601504.us.archive.org",
+    "ia801504.us.archive.org"
   ]
 }
