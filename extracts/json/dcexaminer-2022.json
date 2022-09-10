@@ -1,5 +1,5 @@
 {
-  "created": 1662819387,
+  "created": 1662834904,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/18/items/dcexaminer-2022",
@@ -16738,31 +16738,83 @@
       "sha1": "d80e26d51ff6886749085a27633cb268565cb158"
     },
     {
+      "name": "dcexaminer-2022-09-10T14:32:48.779509-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662834790",
+      "size": "34856",
+      "md5": "3b24d7869e4637c559f1d1792d4b584a",
+      "crc32": "c205e0e5",
+      "sha1": "ecede57e4bfcac1c0e55f98a2a942a0f2111ece9",
+      "format": "JSON"
+    },
+    {
+      "name": "dcexaminer-2022-09-10T14:32:48.779509-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662834792",
+      "size": "35502",
+      "md5": "4d8f4725377703bf7ca1176807d33112",
+      "crc32": "cd32dca5",
+      "sha1": "a14eff1009d9786ff2b71eb27a5b819e6bf06f74",
+      "format": "JSON"
+    },
+    {
+      "name": "dcexaminer-2022-09-10T14:32:48.779509-04:00.jpg",
+      "source": "original",
+      "mtime": "1662834789",
+      "size": "362487",
+      "md5": "f1696b45dbda4ef3256b97a178597c7f",
+      "crc32": "ac909498",
+      "sha1": "9c33f7a0efaa5cf33bacbcc3c1e336859c694938",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dcexaminer-2022-09-10T14:32:48.779509-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662834794",
+      "size": "1567",
+      "md5": "8e3aeeb0333553ae2d9f3ef798916c0e",
+      "crc32": "aa5c79fa",
+      "sha1": "280a8ccea0667c9a9317872351a84f6516183e98",
+      "format": "JSON"
+    },
+    {
+      "name": "dcexaminer-2022-09-10T14:32:48.779509-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dcexaminer-2022-09-10T14:32:48.779509-04:00.jpg",
+      "mtime": "1662834872",
+      "size": "9919",
+      "md5": "0d395fafe3ce50107ba44096e87f49d8",
+      "crc32": "8d71ddb3",
+      "sha1": "2820d0ce64c9b835657f96b4ebe5bbd47a2c8e9e"
+    },
+    {
       "name": "dcexaminer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3ac2a8d9d2f43b7d0889c60e096cbb4d4e0bdc18",
-      "mtime": "1662819378",
-      "size": "343224",
-      "md5": "890044f383f62bdc0360d9297d3ecd13",
-      "crc32": "a54e39c7",
-      "sha1": "a8d023e09ba520ee3c0715774bb7c0ed83210ba4",
+      "btih": "e7d886fd6ed11d5d961e76936ff239d8b74ef295",
+      "mtime": "1662834893",
+      "size": "344293",
+      "md5": "de7463382c1cd7e79f65a00072d14b06",
+      "crc32": "7c385b54",
+      "sha1": "44abb7039dc36128e911a83d1cb1ddcfe8b0a33a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dcexaminer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8f0e6c0eb2be7a5ad2893db04e2d3559",
+      "md5": "5b3cf3874dfecbda4a4ef3b2004f3eb2",
       "summation": "md5"
     },
     {
       "name": "dcexaminer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662819282",
-      "size": "1937408",
-      "md5": "0a3909e8a5adb15390c2767713c2809c",
-      "crc32": "790128bb",
-      "sha1": "6e92dbda2c5939baba066d4e0437dc9c86dde7ea",
+      "mtime": "1662834798",
+      "size": "1949696",
+      "md5": "df8b51353d87c30f0fcdb29c3dc14717",
+      "crc32": "011bc53f",
+      "sha1": "203c1c39f7dde183c028f62c7aa284b3e6ea4fb6",
       "format": "Metadata"
     },
     {
@@ -16776,9 +16828,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1609,
-  "item_last_updated": 1662819378,
-  "item_size": 145512521,
+  "files_count": 1614,
+  "item_last_updated": 1662834893,
+  "item_size": 145970209,
   "metadata": {
     "identifier": "dcexaminer-2022",
     "collection": [
@@ -16795,10 +16847,10 @@
     "publicdate": "2022-03-25 18:45:33",
     "addeddate": "2022-03-25 18:45:33"
   },
-  "server": "ia902508.us.archive.org",
-  "uniq": 835064114,
+  "server": "ia802508.us.archive.org",
+  "uniq": 1173786816,
   "workable_servers": [
-    "ia902508.us.archive.org",
-    "ia802508.us.archive.org"
+    "ia802508.us.archive.org",
+    "ia902508.us.archive.org"
   ]
 }

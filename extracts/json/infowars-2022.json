@@ -1,5 +1,6 @@
 {
-  "created": 1662822470,
+  "conflict": 1662835066,
+  "created": 1662835066,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/28/items/infowars-2022",
@@ -7480,31 +7481,83 @@
       "sha1": "84b4b28218e7f77ec41de8725ba9ed1fdc1fe4c4"
     },
     {
+      "name": "infowars-2022-09-10T13:33:20.583395-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662834804",
+      "size": "14046",
+      "md5": "521bb900e42f6eb4869fb9dbd0136fe5",
+      "crc32": "93e964a5",
+      "sha1": "5a243aab17580dab1f3ee6eedb8511f4d5744d61",
+      "format": "JSON"
+    },
+    {
+      "name": "infowars-2022-09-10T13:33:20.583395-05:00.jpg",
+      "source": "original",
+      "mtime": "1662834801",
+      "size": "325234",
+      "md5": "17ed3b5df59896ca10aa2680cf9b2cc6",
+      "crc32": "2e17fbb6",
+      "sha1": "c6d9c76fe402b86e701ea02901ac44f24cc58dc2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "infowars-2022-09-10T13:33:20.583395-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662834806",
+      "size": "1477",
+      "md5": "7fd4ef294e550c1896a837cc4a53fa45",
+      "crc32": "7ad0ae06",
+      "sha1": "06fb51a8d0b2166e15f80d4df874bfcbfd7f0175",
+      "format": "JSON"
+    },
+    {
+      "name": "infowars-2022-09-10T13:33:20.583395-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662834807",
+      "size": "19644",
+      "md5": "93745e5356712434d5ddcfe0924c1bdd",
+      "crc32": "fb74b0c6",
+      "sha1": "779b72806ba1679452b01877ff6ea62558c9fe69",
+      "format": "JSON"
+    },
+    {
+      "name": "infowars-2022-09-10T13:33:20.583395-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "infowars-2022-09-10T13:33:20.583395-05:00.jpg",
+      "mtime": "1662835023",
+      "size": "10800",
+      "md5": "204d006a4bb8c6a55d9670f48edde6a3",
+      "crc32": "5f230bdf",
+      "sha1": "d45556ee165e8e55e5a7708748cd6b381d04c70a"
+    },
+    {
       "name": "infowars-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a2d2fd19e6450133ec47871ab6f91cb0dedd4c0c",
-      "mtime": "1662822455",
-      "size": "151354",
-      "md5": "7748b70872eeb5200eb072eee3c0a995",
-      "crc32": "152aee59",
-      "sha1": "990a2f9fe9cf0be8052d332c406acb969263223a",
+      "btih": "fcfff6a61838190e71201e04b6d4bce3155bd163",
+      "mtime": "1662835064",
+      "size": "152388",
+      "md5": "920b37c4f83c8f89c1bf8c3cf54b15be",
+      "crc32": "af52f1cc",
+      "sha1": "d3ec697aeb5ab5803ac3ef132948e1e02bf52851",
       "format": "Archive BitTorrent"
     },
     {
       "name": "infowars-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7ad07aa68673f3273d4cca49d96d9ed9",
+      "md5": "fb5fc1f1b33b7c994cbf9971ff7807f4",
       "summation": "md5"
     },
     {
       "name": "infowars-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662822254",
-      "size": "864256",
-      "md5": "91557736235ff6f0b9947753ebf8d7d1",
-      "crc32": "826d7528",
-      "sha1": "7a96435b11a382fd197472bc55928172c043011c",
+      "mtime": "1662834811",
+      "size": "876544",
+      "md5": "27baa3522637c6689618e74556f22217",
+      "crc32": "d7dcbb8d",
+      "sha1": "fed8913e45d8091f5350ab739737db67ec54f922",
       "format": "Metadata"
     },
     {
@@ -7518,9 +7571,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 720,
-  "item_last_updated": 1662822455,
-  "item_size": 53630399,
+  "files_count": 725,
+  "item_last_updated": 1662835064,
+  "item_size": 54014922,
   "metadata": {
     "identifier": "infowars-2022",
     "collection": [
@@ -7537,10 +7590,21 @@
     "publicdate": "2022-07-17 15:03:18",
     "addeddate": "2022-07-17 15:03:18"
   },
-  "server": "ia801503.us.archive.org",
-  "uniq": 159394895,
+  "pending_tasks": true,
+  "server": "ia601503.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3398791970,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 697704680,
   "workable_servers": [
-    "ia801503.us.archive.org",
     "ia601503.us.archive.org"
   ]
 }
