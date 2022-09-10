@@ -1,5 +1,5 @@
 {
-  "created": 1662815471,
+  "created": 1662834855,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/19/items/rawstory-2022",
@@ -8982,31 +8982,83 @@
       "sha1": "8d609b558305733f6b2b8d9d32479cbb0ed2519c"
     },
     {
+      "name": "rawstory-2022-09-10T14:31:49.426315-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662834713",
+      "size": "29530",
+      "md5": "cd8537121ec7e806165b005f86fd9078",
+      "crc32": "63f20cc3",
+      "sha1": "e1a13e17c6fb4dad45926a2609f01547354cc7a5",
+      "format": "JSON"
+    },
+    {
+      "name": "rawstory-2022-09-10T14:31:49.426315-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662834714",
+      "size": "59189",
+      "md5": "8f57ae6c2b7b37728678104b80b2dac2",
+      "crc32": "397d943b",
+      "sha1": "a91d3a70bfcd20299d4da20f0e3bb22f3c0f02c8",
+      "format": "JSON"
+    },
+    {
+      "name": "rawstory-2022-09-10T14:31:49.426315-04:00.jpg",
+      "source": "original",
+      "mtime": "1662834711",
+      "size": "315170",
+      "md5": "6d4d42f2a75220751a61cfebbbd007ba",
+      "crc32": "640b3e6a",
+      "sha1": "00782e785b8f0e7690a2f404272ad1e0b0965877",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rawstory-2022-09-10T14:31:49.426315-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662834715",
+      "size": "1476",
+      "md5": "cd49bfb5c7685b19165fb1d6ea8cb47f",
+      "crc32": "49fefab8",
+      "sha1": "f123ead8c5765a52a2e7e32aba6ee95920b199d6",
+      "format": "JSON"
+    },
+    {
+      "name": "rawstory-2022-09-10T14:31:49.426315-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rawstory-2022-09-10T14:31:49.426315-04:00.jpg",
+      "mtime": "1662834817",
+      "size": "11680",
+      "md5": "9914416b6a8a19fa0eb24851b0abc1a3",
+      "crc32": "3e19adef",
+      "sha1": "c0d65b3b103e41b32dc03b9e4b3b99fe115ef54b"
+    },
+    {
       "name": "rawstory-2022_archive.torrent",
       "source": "metadata",
-      "btih": "efc63d70b83d196b464eabde81d8ae947edc8d5e",
-      "mtime": "1662815368",
-      "size": "184213",
-      "md5": "b6e6893f3f9c97eea1fd75cf2cd09875",
-      "crc32": "9ed7b5ea",
-      "sha1": "3b6ed31c8d60bf0353910e48627f35ded8f65885",
+      "btih": "2fdbfa009fcef8533156bd88a44f3cfc4f3fea1b",
+      "mtime": "1662834830",
+      "size": "185273",
+      "md5": "22e67a94884483e487789325ab0894b7",
+      "crc32": "02d20b3c",
+      "sha1": "c8d93efa7644c3aa6238e6f92aabea4f1b0f9bfd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rawstory-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9ff2afba55996a57174b6bc49b282924",
+      "md5": "b012d70d7d92bbee8bed1d483ef00432",
       "summation": "md5"
     },
     {
       "name": "rawstory-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662815117",
-      "size": "1093632",
-      "md5": "d7f8e91bb67cd958507f21aca2ebf3e6",
-      "crc32": "850597cc",
-      "sha1": "23751b26f0632ad45365276ecfdd94d1bf5a995b",
+      "mtime": "1662834723",
+      "size": "1097728",
+      "md5": "e90403b45eb904987e101b0022dfbb4c",
+      "crc32": "a062dfa3",
+      "sha1": "a5b05dcdd703efc85fcd65ba9e762a4d3e4b3fdd",
       "format": "Metadata"
     },
     {
@@ -9020,9 +9072,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 870,
-  "item_last_updated": 1662815368,
-  "item_size": 73733657,
+  "files_count": 875,
+  "item_last_updated": 1662834830,
+  "item_size": 74155858,
   "metadata": {
     "identifier": "rawstory-2022",
     "collection": [
@@ -9039,10 +9091,10 @@
     "publicdate": "2022-07-17 15:59:55",
     "addeddate": "2022-07-17 15:59:55"
   },
-  "server": "ia601407.us.archive.org",
-  "uniq": 1051220384,
+  "server": "ia801407.us.archive.org",
+  "uniq": 171035914,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia801407.us.archive.org",
+    "ia601407.us.archive.org"
   ]
 }

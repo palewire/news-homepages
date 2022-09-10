@@ -1,5 +1,6 @@
 {
-  "created": 1662822760,
+  "conflict": 1662834878,
+  "created": 1662834878,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/6/items/msnbc-2022",
@@ -32758,31 +32759,78 @@
       "sha1": "fe9339e56a8422c4eefca26701f36961bf14d3b0"
     },
     {
+      "name": "msnbc-2022-09-10T14:31:34.880349-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662834699",
+      "size": "66146",
+      "md5": "33533a0ee93e1304fe73e31596b3341a",
+      "crc32": "32e233e3",
+      "sha1": "5eedf457bb2b7cfc70eb6545ed8a341568c6ed5b",
+      "format": "JSON"
+    },
+    {
+      "name": "msnbc-2022-09-10T14:31:34.880349-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662834701",
+      "size": "85245",
+      "md5": "511a277baf375a928a609644f7ab2b45",
+      "crc32": "5af970c5",
+      "sha1": "d3e63d322eaab85b5c2133fd73b8294a750030e9",
+      "format": "JSON"
+    },
+    {
+      "name": "msnbc-2022-09-10T14:31:34.880349-04:00.jpg",
+      "source": "original",
+      "mtime": "1662834697",
+      "size": "303251",
+      "md5": "a0794408ed587b08db4761ca854a0163",
+      "crc32": "8a7d625d",
+      "sha1": "5dbe97b83b45ce17800aa7b13747920cd53c1ccb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "msnbc-2022-09-10T14:31:34.880349-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662834703",
+      "size": "1449",
+      "md5": "da475b130509709a49c0fa6c66cc6a1c",
+      "crc32": "a87f0448",
+      "sha1": "4600185dd460dfe285a7303e99f33cfc4daeba70",
+      "format": "JSON"
+    },
+    {
+      "name": "msnbc-2022-09-10T14:31:34.880349-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "msnbc-2022-09-10T14:31:34.880349-04:00.jpg"
+    },
+    {
       "name": "msnbc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8ee1f07f1ef7e002e83d965c10956bf06be5d423",
-      "mtime": "1662822733",
-      "size": "654819",
-      "md5": "b9f3991ea27f6bf6a3e0f4c0fa0fef2b",
-      "crc32": "6ddbc07d",
-      "sha1": "21d544cf9d2a9bbb2d9c8761d2181da2e40d10a2",
+      "btih": "1e1dca3423ca55d341ab3bd2e43a9d198c354565",
+      "mtime": "1662834808",
+      "size": "655662",
+      "md5": "40bef85e771afcecf3eed148dbe614fa",
+      "crc32": "2aeaacf1",
+      "sha1": "648fc3510dcd9d21274142b647c84813b38dc918",
       "format": "Archive BitTorrent"
     },
     {
       "name": "msnbc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ec906c57f876cd682c156ff1c48c53be",
+      "md5": "3f027703cfc7bea48684cf809951966e",
       "summation": "md5"
     },
     {
       "name": "msnbc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662822418",
-      "size": "3690496",
-      "md5": "3f7f530f6ebd7ba98b914a3d549cab95",
-      "crc32": "2b6ecb33",
-      "sha1": "fb0caab4b98f692d6b93ef8127a4d268c7d05814",
+      "mtime": "1662834708",
+      "size": "3698688",
+      "md5": "ce26618041b7c2352c90345c13acea75",
+      "crc32": "7a71d29f",
+      "sha1": "d0c99650d8a55baaf7051de5792b40f1ba574fe6",
       "format": "Metadata"
     },
     {
@@ -32796,9 +32844,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 3139,
-  "item_last_updated": 1662822733,
-  "item_size": 319179226,
+  "files_count": 3144,
+  "item_last_updated": 1662834808,
+  "item_size": 319644352,
   "metadata": {
     "identifier": "msnbc-2022",
     "collection": [
@@ -32815,10 +32863,21 @@
     "publicdate": "2022-03-23 01:46:13",
     "addeddate": "2022-03-23 01:46:13"
   },
-  "server": "ia801504.us.archive.org",
-  "uniq": 2079024129,
+  "pending_tasks": true,
+  "server": "ia601504.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3398789050,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 878937401,
   "workable_servers": [
-    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }
