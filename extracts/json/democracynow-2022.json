@@ -1,5 +1,5 @@
 {
-  "created": 1662748450,
+  "created": 1662777117,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/8/items/democracynow-2022",
@@ -11446,31 +11446,93 @@
       "sha1": "74c23eded6c06bad11b43b5d148a7ba1d33c2c64"
     },
     {
+      "name": "democracynow-2022-09-09T22:29:41.616682-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662776987",
+      "size": "25914",
+      "md5": "1a3a4bddfbcfa61fee867ef84f3a1bd6",
+      "crc32": "08683aec",
+      "sha1": "0f18e627e897d81e77751a1a9139da5854348bc5",
+      "format": "JSON"
+    },
+    {
+      "name": "democracynow-2022-09-09T22:29:41.616682-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662776989",
+      "size": "31607",
+      "md5": "fec23de43df78bad4d640e0ac0cdfd0a",
+      "crc32": "5b93bce3",
+      "sha1": "b8df85d1af35400340ba7aede612270964a30d55",
+      "format": "JSON"
+    },
+    {
+      "name": "democracynow-2022-09-09T22:29:41.616682-04:00.jpg",
+      "source": "original",
+      "mtime": "1662776986",
+      "size": "324673",
+      "md5": "f62ca34a4878f39cb3e3bd4737d27eed",
+      "crc32": "5280bdd8",
+      "sha1": "dac79035f800aa7e36a853586a58507aedd42d06",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "democracynow-2022-09-09T22:29:41.616682-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662776991",
+      "size": "1513",
+      "md5": "23babbfc0499673f6102004e1ea738b4",
+      "crc32": "c49addb9",
+      "sha1": "dd6f798e165ab5a8f68c72a9302fbfbf04804e2a",
+      "format": "JSON"
+    },
+    {
+      "name": "democracynow-2022-09-09T22:29:41.616682-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662776993",
+      "size": "13643",
+      "md5": "8fe211a7ebed5eeaf1fdf2c6dcf720df",
+      "crc32": "a2c9452c",
+      "sha1": "087a29e6b7c8d33dd7629ca9822fa4a84bfb0022",
+      "format": "JSON"
+    },
+    {
+      "name": "democracynow-2022-09-09T22:29:41.616682-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "democracynow-2022-09-09T22:29:41.616682-04:00.jpg",
+      "mtime": "1662777084",
+      "size": "10500",
+      "md5": "df71bea1af176fb3e401ff5ecaf775e0",
+      "crc32": "1775207b",
+      "sha1": "74c23eded6c06bad11b43b5d148a7ba1d33c2c64"
+    },
+    {
       "name": "democracynow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "454a17f162801198f71e6eca991638900f8b9a81",
-      "mtime": "1662748439",
-      "size": "237911",
-      "md5": "28971292184fb8d677242b646cbbf56a",
-      "crc32": "74746942",
-      "sha1": "f8ce9e456916f74f6626868ccbc64b17219d24ac",
+      "btih": "9a769026dcf631971743bd6718c747e61aecb635",
+      "mtime": "1662777102",
+      "size": "239203",
+      "md5": "989e762532384c80095830727b3115e6",
+      "crc32": "fbdff02d",
+      "sha1": "f1ab1a5f7d0b35c8d1f1d83cae8e72be5fd65048",
       "format": "Archive BitTorrent"
     },
     {
       "name": "democracynow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9f5dee3a96bf7734e51c37c7ff5ea36e",
+      "md5": "f4080fe6d31a6911d7dc2b70253c50c2",
       "summation": "md5"
     },
     {
       "name": "democracynow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662748351",
-      "size": "1368064",
-      "md5": "f33eb2063f0ebaa14fd93c30ccc7cfc2",
-      "crc32": "332fe741",
-      "sha1": "fb113b6b4dfaa929b1ba562030abf460a0240d48",
+      "mtime": "1662777000",
+      "size": "1376256",
+      "md5": "d37bca37c82ed7d027dee92798208e51",
+      "crc32": "44a5759e",
+      "sha1": "fea8b8e3c52a51862f8b0d0f6474fa204575f7b8",
       "format": "Metadata"
     },
     {
@@ -11484,9 +11546,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1105,
-  "item_last_updated": 1662748439,
-  "item_size": 86481928,
+  "files_count": 1111,
+  "item_last_updated": 1662777102,
+  "item_size": 86899262,
   "metadata": {
     "identifier": "democracynow-2022",
     "collection": [
@@ -11503,10 +11565,10 @@
     "publicdate": "2022-06-24 22:54:24",
     "addeddate": "2022-06-24 22:54:24"
   },
-  "server": "ia601408.us.archive.org",
-  "uniq": 2056999317,
+  "server": "ia801408.us.archive.org",
+  "uniq": 1319785102,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia801408.us.archive.org",
+    "ia601408.us.archive.org"
   ]
 }
