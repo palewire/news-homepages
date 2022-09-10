@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 105 screenshots with the Internet Archive.
+The archiving routine has saved 106 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 105 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/estadao-2022/estadao-2022-09-09T20:08:54.972420-03:00.jpg">
+  <img src="https://archive.org/download/estadao-2022/estadao-2022-09-09T20:08:54.972420-03:00.jpg"
+     alt="Estadão at 2022-09-09 20:08:59-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/estadao-2022/estadao-2022-09-09T20:08:54.972420-03:00.jpg">September 9 at 8:08 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/estadao-2022/estadao-2022-09-09T09:21:33.752400-03:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/estadao-2022/estadao-2022-09-05T20:05:04.518462-03:00.jpg">September 5 at 8:05 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/estadao-2022/estadao-2022-09-05T08:05:09.320130-03:00.jpg">
-  <img src="https://archive.org/download/estadao-2022/estadao-2022-09-05T08:05:09.320130-03:00.jpg"
-     alt="Estadão at 2022-09-05 08:05:14-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/estadao-2022/estadao-2022-09-05T08:05:09.320130-03:00.jpg">September 5 at 8:05 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 105 hyperlink lists with the Internet Archive.
+The archiving routine has saved 106 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 9 at 8:09 PM](https://archive.org/download/estadao-2022/estadao-2022-09-09T20:08:54.972420-03:00.hyperlinks.json) |
 | [September 9 at 9:21 AM](https://archive.org/download/estadao-2022/estadao-2022-09-09T09:21:33.752400-03:00.hyperlinks.json) |
 | [September 9 at 8:09 AM](https://archive.org/download/estadao-2022/estadao-2022-09-09T08:09:12.897142-03:00.hyperlinks.json) |
 | [September 8 at 9:02 PM](https://archive.org/download/estadao-2022/estadao-2022-09-08T21:02:33.039729-03:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 10:35 AM](https://archive.org/download/estadao-2022/estadao-2022-09-07T10:34:49.063000-03:00.hyperlinks.json) |
 | [September 7 at 9:18 AM](https://archive.org/download/estadao-2022/estadao-2022-09-07T09:17:41.166465-03:00.hyperlinks.json) |
 | [September 6 at 8:11 PM](https://archive.org/download/estadao-2022/estadao-2022-09-06T20:11:06.281627-03:00.hyperlinks.json) |
-| [September 6 at 8:00 AM](https://archive.org/download/estadao-2022/estadao-2022-09-06T07:59:59.668363-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 104 accessibility trees with the Internet Archive.
+The archiving routine has saved 105 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 9 at 8:09 PM](https://archive.org/download/estadao-2022/estadao-2022-09-09T20:08:54.972420-03:00.accessibility.json) |
 | [September 9 at 9:21 AM](https://archive.org/download/estadao-2022/estadao-2022-09-09T09:21:33.752400-03:00.accessibility.json) |
 | [September 9 at 8:09 AM](https://archive.org/download/estadao-2022/estadao-2022-09-09T08:09:12.897142-03:00.accessibility.json) |
 | [September 8 at 9:02 PM](https://archive.org/download/estadao-2022/estadao-2022-09-08T21:02:33.039729-03:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 10:35 AM](https://archive.org/download/estadao-2022/estadao-2022-09-07T10:34:49.063000-03:00.accessibility.json) |
 | [September 7 at 9:17 AM](https://archive.org/download/estadao-2022/estadao-2022-09-07T09:17:41.166465-03:00.accessibility.json) |
 | [September 6 at 8:11 PM](https://archive.org/download/estadao-2022/estadao-2022-09-06T20:11:06.281627-03:00.accessibility.json) |
-| [September 6 at 8:00 AM](https://archive.org/download/estadao-2022/estadao-2022-09-06T07:59:59.668363-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 106 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 107 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 9 at 8:09 PM](https://archive.org/download/estadao-2022/estadao-2022-09-09T20:08:54.972420-03:00.lighthouse.json) |
 | [September 9 at 9:21 AM](https://archive.org/download/estadao-2022/estadao-2022-09-09T09:21:33.752400-03:00.lighthouse.json) |
 | [September 9 at 8:09 AM](https://archive.org/download/estadao-2022/estadao-2022-09-09T08:09:12.897142-03:00.lighthouse.json) |
 | [September 8 at 9:02 PM](https://archive.org/download/estadao-2022/estadao-2022-09-08T21:02:33.039729-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 10:35 AM](https://archive.org/download/estadao-2022/estadao-2022-09-07T10:34:49.063000-03:00.lighthouse.json) |
 | [September 7 at 9:18 AM](https://archive.org/download/estadao-2022/estadao-2022-09-07T09:17:41.166465-03:00.lighthouse.json) |
 | [September 6 at 8:11 PM](https://archive.org/download/estadao-2022/estadao-2022-09-06T20:11:06.281627-03:00.lighthouse.json) |
-| [September 6 at 8:00 AM](https://archive.org/download/estadao-2022/estadao-2022-09-06T07:59:59.668363-03:00.lighthouse.json) |
 
 
 

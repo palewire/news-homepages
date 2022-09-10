@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 315 screenshots with the Internet Archive.
+The archiving routine has saved 317 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-09T16:03:57.849925-07:00.jpg">
+  <img src="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-09T16:03:57.849925-07:00.jpg"
+     alt="The Berkeleyside at 2022-09-09 16:03:59-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-09T16:03:57.849925-07:00.jpg">September 9 at 4:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-09T04:04:43.002670-07:00.jpg">
+  <img src="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-09T04:04:43.002670-07:00.jpg"
+     alt="The Berkeleyside at 2022-09-09 04:04:44-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-09T04:04:43.002670-07:00.jpg">September 9 at 4:04 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-08T16:58:07.142924-07:00.jpg">
   <img src="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-08T16:58:07.142924-07:00.jpg"
      alt="The Berkeleyside at 2022-09-08 16:58:08-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-04T03:51:28.586174-07:00.jpg">September 4 at 3:51 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-03T15:54:46.644414-07:00.jpg">
-  <img src="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-03T15:54:46.644414-07:00.jpg"
-     alt="The Berkeleyside at 2022-09-03 15:54:49-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-03T15:54:46.644414-07:00.jpg">September 3 at 3:54 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-03T05:10:24.074693-07:00.jpg">
-  <img src="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-03T05:10:24.074693-07:00.jpg"
-     alt="The Berkeleyside at 2022-09-03 05:10:25-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-03T05:10:24.074693-07:00.jpg">September 3 at 5:10 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 305 hyperlink lists with the Internet Archive.
+The archiving routine has saved 307 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 9 at 4:04 PM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-09T16:03:57.849925-07:00.hyperlinks.json) |
+| [September 9 at 4:04 AM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-09T04:04:43.002670-07:00.hyperlinks.json) |
 | [September 8 at 4:58 PM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-08T16:58:07.142924-07:00.hyperlinks.json) |
 | [September 8 at 4:01 AM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-08T04:01:46.532754-07:00.hyperlinks.json) |
 | [September 7 at 3:59 PM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-07T15:59:20.301421-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 6 at 3:54 AM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-06T03:54:48.580941-07:00.hyperlinks.json) |
 | [September 5 at 4:00 PM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-05T16:00:06.638309-07:00.hyperlinks.json) |
 | [September 5 at 3:59 AM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-05T03:59:39.192700-07:00.hyperlinks.json) |
-| [September 4 at 3:55 PM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-04T15:55:16.870816-07:00.hyperlinks.json) |
-| [September 4 at 3:51 AM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-04T03:51:28.586174-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 306 accessibility trees with the Internet Archive.
+The archiving routine has saved 308 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 9 at 4:04 PM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-09T16:03:57.849925-07:00.accessibility.json) |
+| [September 9 at 4:04 AM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-09T04:04:43.002670-07:00.accessibility.json) |
 | [September 8 at 4:58 PM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-08T16:58:07.142924-07:00.accessibility.json) |
 | [September 8 at 4:01 AM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-08T04:01:46.532754-07:00.accessibility.json) |
 | [September 7 at 3:59 PM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-07T15:59:20.301421-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 6 at 3:54 AM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-06T03:54:48.580941-07:00.accessibility.json) |
 | [September 5 at 4:00 PM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-05T16:00:06.638309-07:00.accessibility.json) |
 | [September 5 at 3:59 AM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-05T03:59:39.192700-07:00.accessibility.json) |
-| [September 4 at 3:55 PM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-04T15:55:16.870816-07:00.accessibility.json) |
-| [September 4 at 3:51 AM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-04T03:51:28.586174-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 96 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 9 at 4:04 PM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-09T16:03:57.849925-07:00.lighthouse.json) |
+| [September 9 at 4:04 AM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-09T04:04:43.002670-07:00.lighthouse.json) |
 | [September 8 at 4:58 PM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-08T16:58:07.142924-07:00.lighthouse.json) |
 | [September 8 at 4:02 AM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-08T04:01:46.532754-07:00.lighthouse.json) |
 | [September 7 at 3:59 PM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-07T15:59:20.301421-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 6 at 3:54 AM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-06T03:54:48.580941-07:00.lighthouse.json) |
 | [September 5 at 4:00 PM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-05T16:00:06.638309-07:00.lighthouse.json) |
 | [September 5 at 3:59 AM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-05T03:59:39.192700-07:00.lighthouse.json) |
-| [September 4 at 3:55 PM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-04T15:55:16.870816-07:00.lighthouse.json) |
-| [September 4 at 3:51 AM](https://archive.org/download/berkeleyside-2022/berkeleyside-2022-09-04T03:51:28.586174-07:00.lighthouse.json) |
 
 
 

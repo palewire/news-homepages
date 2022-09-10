@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 136 screenshots with the Internet Archive.
+The archiving routine has saved 138 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/comissourian-2022/comissourian-2022-09-09T18:07:08.860465-05:00.jpg">
+  <img src="https://archive.org/download/comissourian-2022/comissourian-2022-09-09T18:07:08.860465-05:00.jpg"
+     alt="Columbia Missourian at 2022-09-09 18:07:12-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/comissourian-2022/comissourian-2022-09-09T18:07:08.860465-05:00.jpg">September 9 at 6:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/comissourian-2022/comissourian-2022-09-09T06:06:30.685523-05:00.jpg">
+  <img src="https://archive.org/download/comissourian-2022/comissourian-2022-09-09T06:06:30.685523-05:00.jpg"
+     alt="Columbia Missourian at 2022-09-09 06:06:42-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/comissourian-2022/comissourian-2022-09-09T06:06:30.685523-05:00.jpg">September 9 at 6:06 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/comissourian-2022/comissourian-2022-09-08T18:59:17.208936-05:00.jpg">
   <img src="https://archive.org/download/comissourian-2022/comissourian-2022-09-08T18:59:17.208936-05:00.jpg"
      alt="Columbia Missourian at 2022-09-08 18:59:28-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/comissourian-2022/comissourian-2022-09-04T05:53:39.937869-05:00.jpg">September 4 at 5:53 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/comissourian-2022/comissourian-2022-09-03T17:56:48.325767-05:00.jpg">
-  <img src="https://archive.org/download/comissourian-2022/comissourian-2022-09-03T17:56:48.325767-05:00.jpg"
-     alt="Columbia Missourian at 2022-09-03 17:56:53-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/comissourian-2022/comissourian-2022-09-03T17:56:48.325767-05:00.jpg">September 3 at 5:56 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/comissourian-2022/comissourian-2022-09-03T07:12:47.237806-05:00.jpg">
-  <img src="https://archive.org/download/comissourian-2022/comissourian-2022-09-03T07:12:47.237806-05:00.jpg"
-     alt="Columbia Missourian at 2022-09-03 07:12:48-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/comissourian-2022/comissourian-2022-09-03T07:12:47.237806-05:00.jpg">September 3 at 7:12 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 135 hyperlink lists with the Internet Archive.
+The archiving routine has saved 137 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 9 at 6:07 PM](https://archive.org/download/comissourian-2022/comissourian-2022-09-09T18:07:08.860465-05:00.hyperlinks.json) |
+| [September 9 at 6:06 AM](https://archive.org/download/comissourian-2022/comissourian-2022-09-09T06:06:30.685523-05:00.hyperlinks.json) |
 | [September 8 at 6:59 PM](https://archive.org/download/comissourian-2022/comissourian-2022-09-08T18:59:17.208936-05:00.hyperlinks.json) |
 | [September 8 at 6:04 AM](https://archive.org/download/comissourian-2022/comissourian-2022-09-08T06:04:03.676583-05:00.hyperlinks.json) |
 | [September 7 at 6:01 PM](https://archive.org/download/comissourian-2022/comissourian-2022-09-07T18:00:46.681710-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 6 at 5:57 AM](https://archive.org/download/comissourian-2022/comissourian-2022-09-06T05:57:24.059929-05:00.hyperlinks.json) |
 | [September 5 at 6:02 PM](https://archive.org/download/comissourian-2022/comissourian-2022-09-05T18:02:21.055366-05:00.hyperlinks.json) |
 | [September 5 at 6:02 AM](https://archive.org/download/comissourian-2022/comissourian-2022-09-05T06:02:27.818893-05:00.hyperlinks.json) |
-| [September 4 at 5:57 PM](https://archive.org/download/comissourian-2022/comissourian-2022-09-04T17:57:22.126158-05:00.hyperlinks.json) |
-| [September 4 at 5:53 AM](https://archive.org/download/comissourian-2022/comissourian-2022-09-04T05:53:39.937869-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 128 accessibility trees with the Internet Archive.
+The archiving routine has saved 130 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 9 at 6:07 PM](https://archive.org/download/comissourian-2022/comissourian-2022-09-09T18:07:08.860465-05:00.accessibility.json) |
+| [September 9 at 6:06 AM](https://archive.org/download/comissourian-2022/comissourian-2022-09-09T06:06:30.685523-05:00.accessibility.json) |
 | [September 8 at 6:59 PM](https://archive.org/download/comissourian-2022/comissourian-2022-09-08T18:59:17.208936-05:00.accessibility.json) |
 | [September 8 at 6:04 AM](https://archive.org/download/comissourian-2022/comissourian-2022-09-08T06:04:03.676583-05:00.accessibility.json) |
 | [September 7 at 6:01 PM](https://archive.org/download/comissourian-2022/comissourian-2022-09-07T18:00:46.681710-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 6 at 5:57 AM](https://archive.org/download/comissourian-2022/comissourian-2022-09-06T05:57:24.059929-05:00.accessibility.json) |
 | [September 5 at 6:02 PM](https://archive.org/download/comissourian-2022/comissourian-2022-09-05T18:02:21.055366-05:00.accessibility.json) |
 | [September 5 at 6:02 AM](https://archive.org/download/comissourian-2022/comissourian-2022-09-05T06:02:27.818893-05:00.accessibility.json) |
-| [September 4 at 5:57 PM](https://archive.org/download/comissourian-2022/comissourian-2022-09-04T17:57:22.126158-05:00.accessibility.json) |
-| [September 4 at 5:53 AM](https://archive.org/download/comissourian-2022/comissourian-2022-09-04T05:53:39.937869-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 96 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 9 at 6:07 PM](https://archive.org/download/comissourian-2022/comissourian-2022-09-09T18:07:08.860465-05:00.lighthouse.json) |
+| [September 9 at 6:06 AM](https://archive.org/download/comissourian-2022/comissourian-2022-09-09T06:06:30.685523-05:00.lighthouse.json) |
 | [September 8 at 6:59 PM](https://archive.org/download/comissourian-2022/comissourian-2022-09-08T18:59:17.208936-05:00.lighthouse.json) |
 | [September 8 at 6:04 AM](https://archive.org/download/comissourian-2022/comissourian-2022-09-08T06:04:03.676583-05:00.lighthouse.json) |
 | [September 7 at 6:01 PM](https://archive.org/download/comissourian-2022/comissourian-2022-09-07T18:00:46.681710-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 6 at 5:57 AM](https://archive.org/download/comissourian-2022/comissourian-2022-09-06T05:57:24.059929-05:00.lighthouse.json) |
 | [September 5 at 6:02 PM](https://archive.org/download/comissourian-2022/comissourian-2022-09-05T18:02:21.055366-05:00.lighthouse.json) |
 | [September 5 at 6:02 AM](https://archive.org/download/comissourian-2022/comissourian-2022-09-05T06:02:27.818893-05:00.lighthouse.json) |
-| [September 4 at 5:57 PM](https://archive.org/download/comissourian-2022/comissourian-2022-09-04T17:57:22.126158-05:00.lighthouse.json) |
-| [September 4 at 5:53 AM](https://archive.org/download/comissourian-2022/comissourian-2022-09-04T05:53:39.937869-05:00.lighthouse.json) |
 
 
 
