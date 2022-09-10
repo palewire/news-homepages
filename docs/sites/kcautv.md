@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 293 screenshots with the Internet Archive.
+The archiving routine has saved 296 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-09T22:52:38.294031-05:00.jpg">
+  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-09T22:52:38.294031-05:00.jpg"
+     alt="KCAU at 2022-09-09 22:52:40-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-09T22:52:38.294031-05:00.jpg">September 9 at 10:52 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-09T11:39:10.334237-05:00.jpg">
+  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-09T11:39:10.334237-05:00.jpg"
+     alt="KCAU at 2022-09-09 11:39:13-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-09T11:39:10.334237-05:00.jpg">September 9 at 11:39 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-09T11:24:41.616549-05:00.jpg">
+  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-09T11:24:41.616549-05:00.jpg"
+     alt="KCAU at 2022-09-09 11:24:43-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-09T11:24:41.616549-05:00.jpg">September 9 at 11:24 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-08T23:48:18.742314-05:00.jpg">
   <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-08T23:48:18.742314-05:00.jpg"
      alt="KCAU at 2022-09-08 23:48:20-05:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-04T22:42:59.823744-05:00.jpg">September 4 at 10:43 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-04T11:35:53.468491-05:00.jpg">
-  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-04T11:35:53.468491-05:00.jpg"
-     alt="KCAU at 2022-09-04 11:36:22-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-04T11:35:53.468491-05:00.jpg">September 4 at 11:36 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-03T22:43:10.809598-05:00.jpg">
-  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-03T22:43:10.809598-05:00.jpg"
-     alt="KCAU at 2022-09-03 22:43:12-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-03T22:43:10.809598-05:00.jpg">September 3 at 10:43 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-03T10:02:26.900707-05:00.jpg">
-  <img src="https://archive.org/download/kcautv-2022/kcautv-2022-09-03T10:02:26.900707-05:00.jpg"
-     alt="KCAU at 2022-09-03 10:02:40-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kcautv-2022/kcautv-2022-09-03T10:02:26.900707-05:00.jpg">September 3 at 10:02 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 286 hyperlink lists with the Internet Archive.
+The archiving routine has saved 289 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 9 at 10:52 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-09T22:52:38.294031-05:00.hyperlinks.json) |
+| [September 9 at 11:39 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-09T11:39:10.334237-05:00.hyperlinks.json) |
+| [September 9 at 11:24 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-09T11:24:41.616549-05:00.hyperlinks.json) |
 | [September 8 at 11:48 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-08T23:48:18.742314-05:00.hyperlinks.json) |
 | [September 8 at 10:31 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-08T10:31:43.047582-05:00.hyperlinks.json) |
 | [September 7 at 10:50 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-07T22:50:26.569006-05:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 6 at 10:55 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-06T22:54:51.042846-05:00.hyperlinks.json) |
 | [September 5 at 10:55 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-05T22:54:53.087696-05:00.hyperlinks.json) |
 | [September 5 at 11:30 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-05T11:30:02.037502-05:00.hyperlinks.json) |
-| [September 5 at 11:16 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-05T11:16:25.123118-05:00.hyperlinks.json) |
-| [September 4 at 10:43 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-04T22:42:59.823744-05:00.hyperlinks.json) |
-| [September 4 at 11:36 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-04T11:35:53.468491-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 287 accessibility trees with the Internet Archive.
+The archiving routine has saved 290 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 9 at 10:52 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-09T22:52:38.294031-05:00.accessibility.json) |
+| [September 9 at 11:39 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-09T11:39:10.334237-05:00.accessibility.json) |
+| [September 9 at 11:24 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-09T11:24:41.616549-05:00.accessibility.json) |
 | [September 8 at 11:48 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-08T23:48:18.742314-05:00.accessibility.json) |
 | [September 8 at 10:31 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-08T10:31:43.047582-05:00.accessibility.json) |
 | [September 7 at 10:50 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-07T22:50:26.569006-05:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 6 at 10:54 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-06T22:54:51.042846-05:00.accessibility.json) |
 | [September 5 at 10:55 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-05T22:54:53.087696-05:00.accessibility.json) |
 | [September 5 at 11:30 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-05T11:30:02.037502-05:00.accessibility.json) |
-| [September 5 at 11:16 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-05T11:16:25.123118-05:00.accessibility.json) |
-| [September 4 at 10:43 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-04T22:42:59.823744-05:00.accessibility.json) |
-| [September 4 at 11:36 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-04T11:35:53.468491-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 111 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 114 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 9 at 10:52 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-09T22:52:38.294031-05:00.lighthouse.json) |
+| [September 9 at 11:39 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-09T11:39:10.334237-05:00.lighthouse.json) |
+| [September 9 at 11:24 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-09T11:24:41.616549-05:00.lighthouse.json) |
 | [September 8 at 11:48 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-08T23:48:18.742314-05:00.lighthouse.json) |
 | [September 8 at 10:31 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-08T10:31:43.047582-05:00.lighthouse.json) |
 | [September 7 at 10:50 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-07T22:50:26.569006-05:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 10:46 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-07T10:46:08.952039-05:00.lighthouse.json) |
 | [September 6 at 10:55 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-06T22:54:51.042846-05:00.lighthouse.json) |
 | [September 5 at 10:55 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-05T22:54:53.087696-05:00.lighthouse.json) |
-| [September 5 at 11:30 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-05T11:30:02.037502-05:00.lighthouse.json) |
-| [September 5 at 11:16 AM](https://archive.org/download/kcautv-2022/kcautv-2022-09-05T11:16:25.123118-05:00.lighthouse.json) |
-| [September 4 at 10:43 PM](https://archive.org/download/kcautv-2022/kcautv-2022-09-04T22:42:59.823744-05:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 139 screenshots with the Internet Archive.
+The archiving routine has saved 140 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 139 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/labornotes-2022/labornotes-2022-09-09T22:52:11.931260-05:00.jpg">
+  <img src="https://archive.org/download/labornotes-2022/labornotes-2022-09-09T22:52:11.931260-05:00.jpg"
+     alt="Labor Notes at 2022-09-09 22:52:24-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-09-09T22:52:11.931260-05:00.jpg">September 9 at 10:52 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/labornotes-2022/labornotes-2022-09-09T13:32:49.030863-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-09-04T22:42:52.126042-05:00.jpg">September 4 at 10:42 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/labornotes-2022/labornotes-2022-09-04T11:36:20.950738-05:00.jpg">
-  <img src="https://archive.org/download/labornotes-2022/labornotes-2022-09-04T11:36:20.950738-05:00.jpg"
-     alt="Labor Notes at 2022-09-04 11:36:27-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/labornotes-2022/labornotes-2022-09-04T11:36:20.950738-05:00.jpg">September 4 at 11:36 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 139 hyperlink lists with the Internet Archive.
+The archiving routine has saved 140 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 9 at 10:52 PM](https://archive.org/download/labornotes-2022/labornotes-2022-09-09T22:52:11.931260-05:00.hyperlinks.json) |
 | [September 9 at 1:32 PM](https://archive.org/download/labornotes-2022/labornotes-2022-09-09T13:32:49.030863-05:00.hyperlinks.json) |
 | [September 9 at 11:27 AM](https://archive.org/download/labornotes-2022/labornotes-2022-09-09T11:26:58.543076-05:00.hyperlinks.json) |
 | [September 8 at 11:48 PM](https://archive.org/download/labornotes-2022/labornotes-2022-09-08T23:48:28.057862-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 6 at 10:55 PM](https://archive.org/download/labornotes-2022/labornotes-2022-09-06T22:54:53.659298-05:00.hyperlinks.json) |
 | [September 5 at 10:55 PM](https://archive.org/download/labornotes-2022/labornotes-2022-09-05T22:54:55.924014-05:00.hyperlinks.json) |
 | [September 5 at 1:32 PM](https://archive.org/download/labornotes-2022/labornotes-2022-09-05T13:32:17.236517-05:00.hyperlinks.json) |
-| [September 5 at 11:17 AM](https://archive.org/download/labornotes-2022/labornotes-2022-09-05T11:17:37.440666-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 139 accessibility trees with the Internet Archive.
+The archiving routine has saved 140 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 9 at 10:52 PM](https://archive.org/download/labornotes-2022/labornotes-2022-09-09T22:52:11.931260-05:00.accessibility.json) |
 | [September 9 at 1:32 PM](https://archive.org/download/labornotes-2022/labornotes-2022-09-09T13:32:49.030863-05:00.accessibility.json) |
 | [September 9 at 11:27 AM](https://archive.org/download/labornotes-2022/labornotes-2022-09-09T11:26:58.543076-05:00.accessibility.json) |
 | [September 8 at 11:48 PM](https://archive.org/download/labornotes-2022/labornotes-2022-09-08T23:48:28.057862-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 6 at 10:55 PM](https://archive.org/download/labornotes-2022/labornotes-2022-09-06T22:54:53.659298-05:00.accessibility.json) |
 | [September 5 at 10:55 PM](https://archive.org/download/labornotes-2022/labornotes-2022-09-05T22:54:55.924014-05:00.accessibility.json) |
 | [September 5 at 1:32 PM](https://archive.org/download/labornotes-2022/labornotes-2022-09-05T13:32:17.236517-05:00.accessibility.json) |
-| [September 5 at 11:17 AM](https://archive.org/download/labornotes-2022/labornotes-2022-09-05T11:17:37.440666-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 138 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 139 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 9 at 10:52 PM](https://archive.org/download/labornotes-2022/labornotes-2022-09-09T22:52:11.931260-05:00.lighthouse.json) |
 | [September 9 at 1:32 PM](https://archive.org/download/labornotes-2022/labornotes-2022-09-09T13:32:49.030863-05:00.lighthouse.json) |
 | [September 9 at 11:27 AM](https://archive.org/download/labornotes-2022/labornotes-2022-09-09T11:26:58.543076-05:00.lighthouse.json) |
 | [September 8 at 11:48 PM](https://archive.org/download/labornotes-2022/labornotes-2022-09-08T23:48:28.057862-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 10:46 AM](https://archive.org/download/labornotes-2022/labornotes-2022-09-07T10:46:04.098974-05:00.lighthouse.json) |
 | [September 6 at 10:55 PM](https://archive.org/download/labornotes-2022/labornotes-2022-09-06T22:54:53.659298-05:00.lighthouse.json) |
 | [September 5 at 10:55 PM](https://archive.org/download/labornotes-2022/labornotes-2022-09-05T22:54:55.924014-05:00.lighthouse.json) |
-| [September 5 at 1:32 PM](https://archive.org/download/labornotes-2022/labornotes-2022-09-05T13:32:17.236517-05:00.lighthouse.json) |
 
 
 
