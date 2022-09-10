@@ -1,5 +1,5 @@
 {
-  "created": 1662807300,
+  "created": 1662826007,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/2/items/borderless_mag-2022",
@@ -2744,31 +2744,83 @@
       "sha1": "32c4e2a970a9c747c60b385849ef7aa6d6aa01c2"
     },
     {
+      "name": "borderless_mag-2022-09-10T11:05:07.288439-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662825913",
+      "size": "1089",
+      "md5": "af1c4eff947c79b8b4fc79f8e2667ca5",
+      "crc32": "7a8fcd76",
+      "sha1": "a02435b1ccbd0cfb67ac4ecdd2e5b935904093c4",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-10T11:05:07.288439-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662825916",
+      "size": "26048",
+      "md5": "fda36e0557c5a9fff39ada18f527fdb6",
+      "crc32": "dc726faa",
+      "sha1": "d4f9455df67c2199a1f788dac9c57ab3606a1b01",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-10T11:05:07.288439-05:00.jpg",
+      "source": "original",
+      "mtime": "1662825909",
+      "size": "237487",
+      "md5": "9c899105b5e877e74f4caafceaf26e41",
+      "crc32": "59b05329",
+      "sha1": "68517f6440efade120ef5b41b2ea55f771b168e3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "borderless_mag-2022-09-10T11:05:07.288439-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662825918",
+      "size": "1486",
+      "md5": "aa0fea9aa58e393fad2a1de585db692e",
+      "crc32": "97b5b40a",
+      "sha1": "c13d18ee5e9b9ece415b7743f69768cea72785a8",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-09-10T11:05:07.288439-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "borderless_mag-2022-09-10T11:05:07.288439-05:00.jpg",
+      "mtime": "1662825994",
+      "size": "9031",
+      "md5": "1203464e07b2c24172d4bc1ec5d41410",
+      "crc32": "b7b8f8e2",
+      "sha1": "32c4e2a970a9c747c60b385849ef7aa6d6aa01c2"
+    },
+    {
       "name": "borderless_mag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9c0cb2aad0d6446f2ebad5d2a2984634c9a958ce",
-      "mtime": "1662807287",
-      "size": "58613",
-      "md5": "447ad15a56bcc0fdc5bb7d9309e5a8af",
-      "crc32": "4e20c7e0",
-      "sha1": "a9257500b9e13698540c135b591096d77c712d61",
+      "btih": "c13ed99035046590268c49b6c7dba4def2f33431",
+      "mtime": "1662825999",
+      "size": "59701",
+      "md5": "ec6da15a29aaba396418783c7a5c5f92",
+      "crc32": "a729e654",
+      "sha1": "71f2810bb2205fdfecb22b6ba30488bd8b00c3d1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "borderless_mag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e88bee23a64245b5e40e22c25f5c7082",
+      "md5": "088b3a8b1b248f835a5a860c442e0e80",
       "summation": "md5"
     },
     {
       "name": "borderless_mag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662807235",
-      "size": "360448",
-      "md5": "4b33116897c108e0172eb01e869d7c4d",
-      "crc32": "d4a57163",
-      "sha1": "cedcddf28bff4c331874e2b19577ea5b2016963b",
+      "mtime": "1662825943",
+      "size": "364544",
+      "md5": "657cad0e41138dce8fad430b709d4e62",
+      "crc32": "92abb612",
+      "sha1": "9b49871d35f26cda1cf2ffc42a9e140d8b39b87e",
       "format": "Metadata"
     },
     {
@@ -2782,9 +2834,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 269,
-  "item_last_updated": 1662807287,
-  "item_size": 14191019,
+  "files_count": 274,
+  "item_last_updated": 1662825999,
+  "item_size": 14471344,
   "metadata": {
     "identifier": "borderless_mag-2022",
     "collection": [
@@ -2801,10 +2853,10 @@
     "publicdate": "2022-08-26 16:01:47",
     "addeddate": "2022-08-26 16:01:47"
   },
-  "server": "ia801509.us.archive.org",
-  "uniq": 1994688441,
+  "server": "ia601509.us.archive.org",
+  "uniq": 1981857002,
   "workable_servers": [
-    "ia801509.us.archive.org",
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }
