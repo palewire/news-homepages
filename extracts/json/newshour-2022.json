@@ -1,5 +1,5 @@
 {
-  "created": 1662815272,
+  "created": 1662844891,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/13/items/newshour-2022",
@@ -16534,31 +16534,83 @@
       "sha1": "4866e559bf69fbd15b7aa72ce4ec8e694d445d00"
     },
     {
+      "name": "newshour-2022-09-10T17:19:33.097832-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662844782",
+      "size": "33749",
+      "md5": "009a4f43b6a62a0948589fcb9c63c62d",
+      "crc32": "1ad2efdd",
+      "sha1": "2f410ccad38ba517efdfbc9c408d4e6b10cf87c6",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-09-10T17:19:33.097832-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662844784",
+      "size": "38227",
+      "md5": "1b8d766ceab6ba5537f0d0e099d4b6a7",
+      "crc32": "cb0d1213",
+      "sha1": "6538767d2489a54f0b0573370ca9688b3d6bd90f",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-09-10T17:19:33.097832-04:00.jpg",
+      "source": "original",
+      "mtime": "1662844780",
+      "size": "353627",
+      "md5": "dbeffd70d852b7741c29f1332667f511",
+      "crc32": "8681ddb1",
+      "sha1": "0b6ba9fffd622918938f2c0bc873ef302ce020e0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newshour-2022-09-10T17:19:33.097832-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662844786",
+      "size": "1513",
+      "md5": "f36bdf731d7851dac594efc6bb33e73e",
+      "crc32": "ffface1d",
+      "sha1": "7ce5ec9c43e830f42de9b2c0dbbbd1dc961426e2",
+      "format": "JSON"
+    },
+    {
+      "name": "newshour-2022-09-10T17:19:33.097832-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newshour-2022-09-10T17:19:33.097832-04:00.jpg",
+      "mtime": "1662844861",
+      "size": "10839",
+      "md5": "27bf524527f7568cd035453a00c4639f",
+      "crc32": "e32791a7",
+      "sha1": "c653c0db8ba71be91e9d7a5ce6766c7f2d0e42f5"
+    },
+    {
       "name": "newshour-2022_archive.torrent",
       "source": "metadata",
-      "btih": "099c507b15fef98b65b43de4c6b682616e50f688",
-      "mtime": "1662815259",
-      "size": "336662",
-      "md5": "3ec78212883f4571b1ef7b043cf7ed1f",
-      "crc32": "e8a53cf7",
-      "sha1": "3e90f29f868d20429e2526c31b37ea52dbb07fd7",
+      "btih": "21f78443a5d23f84c693a899636f33312e1f336e",
+      "mtime": "1662844881",
+      "size": "337722",
+      "md5": "ac658ce4feffafeb5094c7bbeb7094d9",
+      "crc32": "94f3b85b",
+      "sha1": "845394a3c33732cce192b4a1931a3ff35d749c5f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newshour-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1f5d032c900950d4b2ca8cf46bf299ab",
+      "md5": "6948711a84508a18a54713f108e05d32",
       "summation": "md5"
     },
     {
       "name": "newshour-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662815146",
-      "size": "1953792",
-      "md5": "7c2c56b2dd634f2b35fb1c6123cce381",
-      "crc32": "0e8e8831",
-      "sha1": "269a9a46b8ac3ed29e202c8e7702550a43fd26a5",
+      "mtime": "1662844791",
+      "size": "1961984",
+      "md5": "2f27a38dac4095ad41330a843b85b270",
+      "crc32": "0f5d789c",
+      "sha1": "86241e9e0ba80b1aba13fc073f8bb9344327e1ab",
       "format": "Metadata"
     },
     {
@@ -16572,9 +16624,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1594,
-  "item_last_updated": 1662815259,
-  "item_size": 127964624,
+  "files_count": 1599,
+  "item_last_updated": 1662844881,
+  "item_size": 128411831,
   "metadata": {
     "identifier": "newshour-2022",
     "collection": [
@@ -16591,10 +16643,10 @@
     "publicdate": "2022-06-24 22:58:21",
     "addeddate": "2022-06-24 22:58:21"
   },
-  "server": "ia902505.us.archive.org",
-  "uniq": 1333023759,
+  "server": "ia802505.us.archive.org",
+  "uniq": 59530638,
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia802505.us.archive.org",
+    "ia902505.us.archive.org"
   ]
 }
