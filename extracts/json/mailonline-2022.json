@@ -1,5 +1,6 @@
 {
-  "created": 1662768608,
+  "conflict": 1662801217,
+  "created": 1662801217,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/11/items/mailonline-2022",
@@ -11543,10 +11544,21 @@
     "publicdate": "2022-06-29 18:55:39",
     "addeddate": "2022-06-29 18:55:39"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 1327070569,
+  "pending_tasks": true,
+  "server": "ia601408.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3398446842,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 979962820,
   "workable_servers": [
-    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }
