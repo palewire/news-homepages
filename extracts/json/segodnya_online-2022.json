@@ -1,5 +1,5 @@
 {
-  "created": 1662785808,
+  "created": 1662826531,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/16/items/segodnya_online-2022",
@@ -6336,31 +6336,93 @@
       "sha1": "387dcb430834768f5829dc7cf1395ee7c0354455"
     },
     {
+      "name": "segodnya_online-2022-09-10T19:11:09.197374+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662826272",
+      "size": "113468",
+      "md5": "b11d87e775a79c5b59b5f3662ceb3ab8",
+      "crc32": "cc8a7d66",
+      "sha1": "ee4229fc9e0e9c124dda42fd3b5009d5189b169c",
+      "format": "JSON"
+    },
+    {
+      "name": "segodnya_online-2022-09-10T19:11:09.197374+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662826273",
+      "size": "63183",
+      "md5": "5d57c5b25639338c680ac9c1d8ed285e",
+      "crc32": "1715ef75",
+      "sha1": "491f81684441e12a5481bc2bebd8ce62e284fc28",
+      "format": "JSON"
+    },
+    {
+      "name": "segodnya_online-2022-09-10T19:11:09.197374+03:00.jpg",
+      "source": "original",
+      "mtime": "1662826270",
+      "size": "335287",
+      "md5": "3dec8031f6ffbb219a20d0ca5c6737f1",
+      "crc32": "2111c26f",
+      "sha1": "5927adafee45c9f070896b17cc0dc1445db55590",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "segodnya_online-2022-09-10T19:11:09.197374+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662826275",
+      "size": "1603",
+      "md5": "f49f59b6863d93d8f57b9c1b70a1720c",
+      "crc32": "25a772c1",
+      "sha1": "f475219689902c41fafbaac5d2596460c9f1235d",
+      "format": "JSON"
+    },
+    {
+      "name": "segodnya_online-2022-09-10T19:11:09.197374+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1662826280",
+      "size": "20125",
+      "md5": "25a93a64d7f15450efd7e6789dcde9db",
+      "crc32": "c2e27a09",
+      "sha1": "12ae19bd94ed9cca09e4bd27d1ac48dab67d5360",
+      "format": "JSON"
+    },
+    {
+      "name": "segodnya_online-2022-09-10T19:11:09.197374+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "segodnya_online-2022-09-10T19:11:09.197374+03:00.jpg",
+      "mtime": "1662826515",
+      "size": "10169",
+      "md5": "fc3fad573c4721f5d0ad74053196910a",
+      "crc32": "7dbd058d",
+      "sha1": "3b087c17e6c7b9a58f7b804593891d634bd03c02"
+    },
+    {
       "name": "segodnya_online-2022_archive.torrent",
       "source": "metadata",
-      "btih": "70090995695a814f1869a453f433541ca8076ab8",
-      "mtime": "1662785707",
-      "size": "134809",
-      "md5": "724ecaba0ad1aac88faebad794988a65",
-      "crc32": "62ff12f7",
-      "sha1": "fd007048ea9e471cf5caf11e5110bd21e1ca6798",
+      "btih": "f816ff59250a6a497fc3a74307e06f68a2c6a9a2",
+      "mtime": "1662826521",
+      "size": "136120",
+      "md5": "5bfc62646cfa0c461e0c6fe20674b0e5",
+      "crc32": "05593c01",
+      "sha1": "c0cb304d3f31ca964bf5ad8f1202db29220972a0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "segodnya_online-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "691e9f8228074e3e2a619675ad66c834",
+      "md5": "599b3ed50afc636d959461bea4c9a476",
       "summation": "md5"
     },
     {
       "name": "segodnya_online-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662785648",
-      "size": "782336",
-      "md5": "a4bbba4d0d4207a022d651d8de2fbbb8",
-      "crc32": "c2db23bf",
-      "sha1": "7618f049bec45d550c82321ca1050cfe0b47fad9",
+      "mtime": "1662826284",
+      "size": "790528",
+      "md5": "161cd80a2a48f6ed7d72783a3974b161",
+      "crc32": "eaf712f9",
+      "sha1": "559aa247641d1508c0c6479fa1279d1350c07561",
       "format": "Metadata"
     },
     {
@@ -6374,9 +6436,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 614,
-  "item_last_updated": 1662785707,
-  "item_size": 58933917,
+  "files_count": 620,
+  "item_last_updated": 1662826521,
+  "item_size": 59487255,
   "metadata": {
     "identifier": "segodnya_online-2022",
     "collection": [
@@ -6393,10 +6455,10 @@
     "publicdate": "2022-03-23 17:49:36",
     "addeddate": "2022-03-23 17:49:36"
   },
-  "server": "ia902509.us.archive.org",
-  "uniq": 842719250,
+  "server": "ia802509.us.archive.org",
+  "uniq": 707696202,
   "workable_servers": [
-    "ia902509.us.archive.org",
-    "ia802509.us.archive.org"
+    "ia802509.us.archive.org",
+    "ia902509.us.archive.org"
   ]
 }

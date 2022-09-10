@@ -1,5 +1,5 @@
 {
-  "created": 1662785591,
+  "created": 1662826226,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/24/items/pittsburghpg-2022",
@@ -5458,31 +5458,83 @@
       "sha1": "96649c6f8584ea7b467d1f10d9d235768f73f5aa"
     },
     {
+      "name": "pittsburghpg-2022-09-10T12:08:10.344830-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662826098",
+      "size": "48320",
+      "md5": "8c671b38688ba12488b4d74145f29a29",
+      "crc32": "f086ac96",
+      "sha1": "f874423a2faa8d24486c970eaa2b11cffb26494a",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-09-10T12:08:10.344830-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662826100",
+      "size": "90958",
+      "md5": "3fe53d2833b5ae83684e4fc198830a6b",
+      "crc32": "7d21f65f",
+      "sha1": "5f3a41fca2790ad87ccb3cc2ba4ca38b1ca69429",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-09-10T12:08:10.344830-04:00.jpg",
+      "source": "original",
+      "mtime": "1662826096",
+      "size": "336911",
+      "md5": "f023e4b7a712d9ba4c87bd09c406b735",
+      "crc32": "27fc4ddb",
+      "sha1": "c556678ebe742d409a8fd26e6e4de7a9bb9d4e0b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pittsburghpg-2022-09-10T12:08:10.344830-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662826101",
+      "size": "1511",
+      "md5": "7a3d23a31913b937b2c1e5d11d38346b",
+      "crc32": "cbc7ce2c",
+      "sha1": "49166eb2382dbe7d26e9bd30994ff134a8b47d6e",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-09-10T12:08:10.344830-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pittsburghpg-2022-09-10T12:08:10.344830-04:00.jpg",
+      "mtime": "1662826196",
+      "size": "9873",
+      "md5": "70ca6055fcbd7ec8755f758375c98f02",
+      "crc32": "9f7c1d4c",
+      "sha1": "5eb009500e6caf65d5791ed67f1c7274e230c3a0"
+    },
+    {
       "name": "pittsburghpg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5ae00bece740cb27408607f72b45b016da01d901",
-      "mtime": "1662785577",
-      "size": "114872",
-      "md5": "3f84800447a3ecb337c53a99e88fd790",
-      "crc32": "1c4bb54e",
-      "sha1": "3b4a17c47919992240f109db8e7af40d82944ade",
+      "btih": "93bd0fdfe91320fbed155fa29319be740e199604",
+      "mtime": "1662826213",
+      "size": "115951",
+      "md5": "1a65171e96dcdbe4496633db52e9e4c2",
+      "crc32": "95d5629e",
+      "sha1": "cd2f0b22bac6fdd4d07d260709874548aa7c0785",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pittsburghpg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e51a9ee6ff533a2df96cf78dbd7a1cb9",
+      "md5": "23893d11146c8eb27d266ac3dc7deae7",
       "summation": "md5"
     },
     {
       "name": "pittsburghpg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662785507",
-      "size": "684032",
-      "md5": "d2c0c86cf9f2b873202ef1f134bdceee",
-      "crc32": "dfd10967",
-      "sha1": "37d5ab1c5e25f9b10e8556e2d1e2a3ec5d779121",
+      "mtime": "1662826111",
+      "size": "692224",
+      "md5": "e5b2245152516685bd0e0898fe5b68c7",
+      "crc32": "09108d1b",
+      "sha1": "99d708a7745080f05ac36136e31f3a98eba64df6",
       "format": "Metadata"
     },
     {
@@ -5496,9 +5548,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 531,
-  "item_last_updated": 1662785577,
-  "item_size": 47427173,
+  "files_count": 536,
+  "item_last_updated": 1662826213,
+  "item_size": 47924017,
   "metadata": {
     "identifier": "pittsburghpg-2022",
     "collection": [
@@ -5515,10 +5567,10 @@
     "publicdate": "2022-07-26 03:54:28",
     "addeddate": "2022-07-26 03:54:28"
   },
-  "server": "ia601400.us.archive.org",
-  "uniq": 1476342833,
+  "server": "ia801400.us.archive.org",
+  "uniq": 871697787,
   "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
+    "ia801400.us.archive.org",
+    "ia601400.us.archive.org"
   ]
 }

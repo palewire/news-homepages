@@ -1,5 +1,5 @@
 {
-  "created": 1662785737,
+  "created": 1662826332,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/11/items/rtenews-2022",
@@ -6212,31 +6212,93 @@
       "sha1": "8deb6950b15b720223e2c83368f21593af20c608"
     },
     {
+      "name": "rtenews-2022-09-10T17:10:20.561741+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662826226",
+      "size": "32554",
+      "md5": "d9cc3ccccc9486065eb47085058a887b",
+      "crc32": "87d838a5",
+      "sha1": "cdc3d21cdf638b442e34393ea79fb5f8b76e4ece",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-09-10T17:10:20.561741+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662826228",
+      "size": "37143",
+      "md5": "c83872e26458949f45e63d7bbd272b87",
+      "crc32": "254fa040",
+      "sha1": "41597a5ce40acb26444bd32535fbd8264bf60c34",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-09-10T17:10:20.561741+01:00.jpg",
+      "source": "original",
+      "mtime": "1662826224",
+      "size": "308158",
+      "md5": "f96038b1afcf31e5225b07a7a05d04d8",
+      "crc32": "5f1b014c",
+      "sha1": "064f4f84f5ef260b89b6db86e5a08b3f0ba2573a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rtenews-2022-09-10T17:10:20.561741+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662826230",
+      "size": "1423",
+      "md5": "966e9e89b18ca4cd567d3813a45017e0",
+      "crc32": "a6ef9a61",
+      "sha1": "4fa7455ae6f8784842814ec7d4f1a30e815b0603",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-09-10T17:10:20.561741+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1662826232",
+      "size": "16568",
+      "md5": "aba56c4e1eee4dc9527fed41e2075b61",
+      "crc32": "fa336016",
+      "sha1": "32b9b5b5772d70498510ff8c9cbf3c99a737b8df",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-09-10T17:10:20.561741+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rtenews-2022-09-10T17:10:20.561741+01:00.jpg",
+      "mtime": "1662826309",
+      "size": "10090",
+      "md5": "b72f7397bceb2ddd319bd68fea2d374e",
+      "crc32": "cfecef27",
+      "sha1": "2106592e61bc56f68d01364da786b6fd8b786b6e"
+    },
+    {
       "name": "rtenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cd333605324f95a1c3126d0be81d112786b4e6ad",
-      "mtime": "1662785723",
-      "size": "126900",
-      "md5": "c51d6acd667304d263e59dffbd6e23de",
-      "crc32": "4ee73b41",
-      "sha1": "5696c753442be219516fd7243746c8c892d4b3e6",
+      "btih": "0b5036e502c25b9e9213b7cd9e7ff519d358a6c0",
+      "mtime": "1662826315",
+      "size": "128142",
+      "md5": "14229479205a15a64dbae0ff6cdb81c4",
+      "crc32": "bae16b7d",
+      "sha1": "4692eb46d97e8913c77599edd694e2f071317d74",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rtenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0633fa58f9f07a9a5323cf1541dd5ed4",
+      "md5": "0f898217220c96c340508659fe00fad0",
       "summation": "md5"
     },
     {
       "name": "rtenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662785638",
-      "size": "765952",
-      "md5": "7a4b573b9caa11310627f6f660969d99",
-      "crc32": "70835340",
-      "sha1": "005ae41283cc6fed9f4ffc85f23e07c2c1b3d842",
+      "mtime": "1662826241",
+      "size": "770048",
+      "md5": "8bf0bbc38320504ee2ef95782d025a9a",
+      "crc32": "db06dda8",
+      "sha1": "001e260603390c0e75af30f5e714ceca5632e941",
       "format": "Metadata"
     },
     {
@@ -6250,9 +6312,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 603,
-  "item_last_updated": 1662785723,
-  "item_size": 41648859,
+  "files_count": 609,
+  "item_last_updated": 1662826315,
+  "item_size": 42060133,
   "metadata": {
     "identifier": "rtenews-2022",
     "collection": [
@@ -6270,7 +6332,7 @@
     "addeddate": "2022-07-18 03:33:26"
   },
   "server": "ia601506.us.archive.org",
-  "uniq": 1212820404,
+  "uniq": 550723220,
   "workable_servers": [
     "ia601506.us.archive.org",
     "ia801506.us.archive.org"

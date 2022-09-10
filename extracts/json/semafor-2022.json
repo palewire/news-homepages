@@ -1,5 +1,5 @@
 {
-  "created": 1662785754,
+  "created": 1662826376,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/32/items/semafor-2022",
@@ -8700,31 +8700,83 @@
       "sha1": "3968562800bb0c33ab630c61372077be7fa18c8f"
     },
     {
+      "name": "semafor-2022-09-10T12:10:41.544478-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662826244",
+      "size": "3400",
+      "md5": "6d677df0fbffc25e8529138be1c76d14",
+      "crc32": "a9d9dc88",
+      "sha1": "f4d78b5903e4ae7b9c98294ff02acc8cb59a583b",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-09-10T12:10:41.544478-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662826246",
+      "size": "335",
+      "md5": "e96a2c20804e679b6a5f38e01cfeca79",
+      "crc32": "a1a12625",
+      "sha1": "5ee02efd3d700fa81a625d17ad03890400eb1849",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-09-10T12:10:41.544478-04:00.jpg",
+      "source": "original",
+      "mtime": "1662826243",
+      "size": "163255",
+      "md5": "f86932c8700c1f23ee1e0fd6f38f5538",
+      "crc32": "c4020843",
+      "sha1": "aa39d69a94911fe9ab941950db618ba81bcc3033",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "semafor-2022-09-10T12:10:41.544478-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662826247",
+      "size": "1450",
+      "md5": "cd87d9b00d9939c08395a41eaff55976",
+      "crc32": "82c13d9f",
+      "sha1": "865b0872506623f9cb00cbe0d921d6af91d771b4",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-09-10T12:10:41.544478-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "semafor-2022-09-10T12:10:41.544478-04:00.jpg",
+      "mtime": "1662826344",
+      "size": "8615",
+      "md5": "dfd9b77856bd3b4e3e4120388de6f913",
+      "crc32": "af3c1b9d",
+      "sha1": "9a6ed499d21a0e4aef18d70b42083c8e7dad850c"
+    },
+    {
       "name": "semafor-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f7d9c1c3a5a91b08e4081a6551026bf8f198a447",
-      "mtime": "1662785736",
-      "size": "174522",
-      "md5": "7ec5fd85cd33e39d5c1152e42a0d62aa",
-      "crc32": "62d726f5",
-      "sha1": "e18db90afb001711b1807bf8ec0997d6a5ab6c85",
+      "btih": "7c64e842fb8a2f9db0735d853db6942fc56c3f65",
+      "mtime": "1662826354",
+      "size": "175553",
+      "md5": "14cc59a64d8044cd656d1561f9f4b670",
+      "crc32": "182e64a4",
+      "sha1": "600a1166995fbfbd03ca0377d322fd8817da134d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "semafor-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "03abb11b4047d0668d97f115e2d9a8f3",
+      "md5": "0152576af4c8eaef152d898fd83b09e1",
       "summation": "md5"
     },
     {
       "name": "semafor-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662785667",
-      "size": "1032192",
-      "md5": "fb93793ee6e9e1190f8a6d6ff5356021",
-      "crc32": "2a3944d6",
-      "sha1": "8420fc8a10f21e331384b826b72ad01ffa10467d",
+      "mtime": "1662826268",
+      "size": "1036288",
+      "md5": "1938e86f67d73fbffa07b32dc6898fff",
+      "crc32": "f9badc59",
+      "sha1": "f794cc046b99fd2d126454fd3358e3c5f4ee36f1",
       "format": "Metadata"
     },
     {
@@ -8738,9 +8790,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 840,
-  "item_last_updated": 1662785736,
-  "item_size": 24975947,
+  "files_count": 845,
+  "item_last_updated": 1662826354,
+  "item_size": 25158129,
   "metadata": {
     "identifier": "semafor-2022",
     "collection": [
@@ -8757,10 +8809,10 @@
     "publicdate": "2022-06-24 23:02:08",
     "addeddate": "2022-06-24 23:02:08"
   },
-  "server": "ia601407.us.archive.org",
-  "uniq": 911787164,
+  "server": "ia801407.us.archive.org",
+  "uniq": 128735056,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia801407.us.archive.org",
+    "ia601407.us.archive.org"
   ]
 }

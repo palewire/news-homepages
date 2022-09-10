@@ -1,5 +1,5 @@
 {
-  "created": 1662785695,
+  "created": 1662826347,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/21/items/techreview-2022",
@@ -5562,31 +5562,83 @@
       "sha1": "3a2c311757f16cee962e24be88d0770f9232bf82"
     },
     {
+      "name": "techreview-2022-09-10T12:10:50.251821-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662826262",
+      "size": "24582",
+      "md5": "3d7b6ef6b35932e4187688c3aa91b0c9",
+      "crc32": "37ac3ede",
+      "sha1": "68981a7b80a025489e6c254b666980883f3ad79a",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-09-10T12:10:50.251821-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662826264",
+      "size": "12820",
+      "md5": "0a086116e72f6631658ae78a38a93aaa",
+      "crc32": "2782ee8d",
+      "sha1": "36893a34dfd3bc69ad56a54ee96312856f94be0d",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-09-10T12:10:50.251821-04:00.jpg",
+      "source": "original",
+      "mtime": "1662826260",
+      "size": "278450",
+      "md5": "d2040c25030c15c53ecc06c2f52ef4c0",
+      "crc32": "c7b7eeec",
+      "sha1": "5cf8f341c3b9160cbb59744696480ff73587d447",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techreview-2022-09-10T12:10:50.251821-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662826268",
+      "size": "1549",
+      "md5": "d599787535cffdca7a45a893003317fc",
+      "crc32": "0f31b4fb",
+      "sha1": "4d5fa2865bc3924c3c2c4f5425ca3b2de82d23f1",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-09-10T12:10:50.251821-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techreview-2022-09-10T12:10:50.251821-04:00.jpg",
+      "mtime": "1662826326",
+      "size": "10136",
+      "md5": "e368eb4ec03c32c6d1ca75f29a745eca",
+      "crc32": "563f5464",
+      "sha1": "f7ed9bd03edfa9ad663b7ed876e48f1df87a7fee"
+    },
+    {
       "name": "techreview-2022_archive.torrent",
       "source": "metadata",
-      "btih": "39c90f05b160c016900a60ed172b2214f6ac46f6",
-      "mtime": "1662785686",
-      "size": "115384",
-      "md5": "d85cab7a336218d047fc00d8ebe616d5",
-      "crc32": "e1f63900",
-      "sha1": "bcc4454c67c0a6f21665d017744f81fd37213f98",
+      "btih": "f48796ffe1992ff7d8c8377c2e75bc05bc3eeff0",
+      "mtime": "1662826339",
+      "size": "116434",
+      "md5": "f8ed8245f24971e858debcfb23ad4553",
+      "crc32": "a00d07d0",
+      "sha1": "167036d57f17ad66ee4b6edaabdd7c0b56ae418d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "techreview-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "338a07ed2c0fc111fe1cb63aad8b6411",
+      "md5": "18d98b6019e95f5a0c78c9e1ca02342b",
       "summation": "md5"
     },
     {
       "name": "techreview-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662785631",
-      "size": "696320",
-      "md5": "eeafe829006d1e6d3f6b96e55abaa8da",
-      "crc32": "5e85daf4",
-      "sha1": "0c5a1e79d1bdfbe0e8c191cb103032142fdb2873",
+      "mtime": "1662826271",
+      "size": "700416",
+      "md5": "8aafb50efc8c805696486851cc3be21d",
+      "crc32": "b1d1df45",
+      "sha1": "253f2724dfb4e9624a7c9cd9eb838ccddcc43a53",
       "format": "Metadata"
     },
     {
@@ -5600,9 +5652,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 541,
-  "item_last_updated": 1662785686,
-  "item_size": 33246031,
+  "files_count": 546,
+  "item_last_updated": 1662826339,
+  "item_size": 33578714,
   "metadata": {
     "identifier": "techreview-2022",
     "collection": [
@@ -5619,10 +5671,10 @@
     "publicdate": "2022-07-25 06:47:07",
     "addeddate": "2022-07-25 06:47:07"
   },
-  "server": "ia601509.us.archive.org",
-  "uniq": 1293535702,
+  "server": "ia801509.us.archive.org",
+  "uniq": 1649911582,
   "workable_servers": [
-    "ia601509.us.archive.org",
-    "ia801509.us.archive.org"
+    "ia801509.us.archive.org",
+    "ia601509.us.archive.org"
   ]
 }

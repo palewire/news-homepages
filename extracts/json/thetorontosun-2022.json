@@ -1,5 +1,5 @@
 {
-  "created": 1662785885,
+  "created": 1662826442,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/33/items/thetorontosun-2022",
@@ -8364,31 +8364,83 @@
       "sha1": "ad4079c85d1e9f511847f32296b96c0c0ceee17d"
     },
     {
+      "name": "thetorontosun-2022-09-10T12:12:14.013010-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662826337",
+      "size": "84377",
+      "md5": "e3a499187eaf371ad1309160350f8b1f",
+      "crc32": "07bf36b7",
+      "sha1": "ea6465cbbb3dab7b2a9c4c741861c16c28131e25",
+      "format": "JSON"
+    },
+    {
+      "name": "thetorontosun-2022-09-10T12:12:14.013010-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662826339",
+      "size": "56051",
+      "md5": "b29d012bb6235b641cb8eb5249647c93",
+      "crc32": "1944b5b5",
+      "sha1": "a3708c2696213e93fd07f57db2bd4945b1ed437e",
+      "format": "JSON"
+    },
+    {
+      "name": "thetorontosun-2022-09-10T12:12:14.013010-04:00.jpg",
+      "source": "original",
+      "mtime": "1662826335",
+      "size": "335485",
+      "md5": "9fa56f06fa9d9a5762146450d7b38075",
+      "crc32": "5a0b1f03",
+      "sha1": "a6b1c7bdd4c82e32ccefd4aa1aae8406639571c4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thetorontosun-2022-09-10T12:12:14.013010-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662826341",
+      "size": "1459",
+      "md5": "8c0f0aa1a99aebb00da00a6de097c31c",
+      "crc32": "00ec01e1",
+      "sha1": "b609140fd0d0484c0bca50999c7ab023771bbad7",
+      "format": "JSON"
+    },
+    {
+      "name": "thetorontosun-2022-09-10T12:12:14.013010-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thetorontosun-2022-09-10T12:12:14.013010-04:00.jpg",
+      "mtime": "1662826401",
+      "size": "11685",
+      "md5": "a8fb0048fb7b65006decb9142af7d213",
+      "crc32": "d3821d9c",
+      "sha1": "515a13ecbbd2f66598269021eb70502528bdcb24"
+    },
+    {
       "name": "thetorontosun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3853ec36c26e513ae86e303c8a8c55bf440e6b35",
-      "mtime": "1662785873",
-      "size": "175576",
-      "md5": "61c20c72f7cbb464fa759081b10b5187",
-      "crc32": "ff189e1b",
-      "sha1": "8450aa71ee6902e0bb554a62c8d0e4d1b4712150",
+      "btih": "e3308803f16e732ee97fb635939c07b2c2ac9157",
+      "mtime": "1662826422",
+      "size": "176661",
+      "md5": "c9e807358a56795974a4e64d42e44887",
+      "crc32": "06fd4f69",
+      "sha1": "f2a46612ea5f462cc40615299cdb64dd0b66bc12",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thetorontosun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7b3392e7f5c14459b4828fa88159e9ed",
+      "md5": "1e9f74c2cbe315d47badd47dd28287a2",
       "summation": "md5"
     },
     {
       "name": "thetorontosun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662785810",
-      "size": "1007616",
-      "md5": "6eb9c992aea1703c751351c57c977ca3",
-      "crc32": "97135630",
-      "sha1": "f8177ee7e5756af37904d2640663901e640242e3",
+      "mtime": "1662826344",
+      "size": "1011712",
+      "md5": "1b4483327bb6c197c9bbfd5407ee5d68",
+      "crc32": "dcc1febc",
+      "sha1": "25f59384113d2b368ba5f9164ed2d6b069947636",
       "format": "Metadata"
     },
     {
@@ -8402,9 +8454,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 808,
-  "item_last_updated": 1662785873,
-  "item_size": 82254815,
+  "files_count": 813,
+  "item_last_updated": 1662826422,
+  "item_size": 82749053,
   "metadata": {
     "identifier": "thetorontosun-2022",
     "collection": [
@@ -8422,7 +8474,7 @@
     "addeddate": "2022-06-30 22:37:08"
   },
   "server": "ia801400.us.archive.org",
-  "uniq": 1214380927,
+  "uniq": 1269218666,
   "workable_servers": [
     "ia801400.us.archive.org",
     "ia601400.us.archive.org"

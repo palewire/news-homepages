@@ -1,5 +1,5 @@
 {
-  "created": 1662785952,
+  "created": 1662826585,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/20/items/wplglocal10-2022",
@@ -5314,31 +5314,83 @@
       "sha1": "ea3ad39b656ffb54136666be99fff717e216a212"
     },
     {
+      "name": "wplglocal10-2022-09-10T12:14:41.979807-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662826484",
+      "size": "70432",
+      "md5": "67e4ba3dfafd8a53de940d674b0eef3c",
+      "crc32": "f802d068",
+      "sha1": "29d502b653f4bf137269a3c58cbea99f4bf7818e",
+      "format": "JSON"
+    },
+    {
+      "name": "wplglocal10-2022-09-10T12:14:41.979807-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662826486",
+      "size": "51399",
+      "md5": "7883b95eb622d54cec15105d3d56fb23",
+      "crc32": "4f181ebe",
+      "sha1": "b73ebd150b709d22dfcc99f7e29e4c54601046a9",
+      "format": "JSON"
+    },
+    {
+      "name": "wplglocal10-2022-09-10T12:14:41.979807-04:00.jpg",
+      "source": "original",
+      "mtime": "1662826483",
+      "size": "237818",
+      "md5": "166f850055435e8820e8b6d26ddf3c4b",
+      "crc32": "1a83ecd7",
+      "sha1": "79f90c6a414cf2f339fa21f6e3a64f324ff4f6aa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wplglocal10-2022-09-10T12:14:41.979807-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662826487",
+      "size": "1459",
+      "md5": "50ab4fc8ae0c5415d6fb74de68e0a798",
+      "crc32": "ed074fa2",
+      "sha1": "f880ce536df9256fded8027f80bfb0e743009433",
+      "format": "JSON"
+    },
+    {
+      "name": "wplglocal10-2022-09-10T12:14:41.979807-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wplglocal10-2022-09-10T12:14:41.979807-04:00.jpg",
+      "mtime": "1662826554",
+      "size": "11020",
+      "md5": "b7a5770a43cb9d18881b0ef34d0d3c65",
+      "crc32": "4931c365",
+      "sha1": "b5ec2631a350805df8e2ac3944ecbea5bd83e8f5"
+    },
+    {
       "name": "wplglocal10-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d590275e7d4415abf4b767c8b63658ebf394e9ae",
-      "mtime": "1662785935",
-      "size": "111092",
-      "md5": "75212268858394442fc5aa53cba806b5",
-      "crc32": "0b5a7361",
-      "sha1": "a0cbabb5b24037f1ae2ee424a12a4920a5a09dcf",
+      "btih": "ba044e844a61b8a9b14ac7ac57886f24e210b4be",
+      "mtime": "1662826571",
+      "size": "112147",
+      "md5": "ee65c81e5f40cf8097b71e66ae51867c",
+      "crc32": "8a83e5b3",
+      "sha1": "77ae69aa8f58d40e78072db3a7f11f7fef42d988",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wplglocal10-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f6dffe933d1a92e9f222a5e1821ce74f",
+      "md5": "7621c88bc4b6ef5b8a7ba7b1dd3409df",
       "summation": "md5"
     },
     {
       "name": "wplglocal10-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662785865",
-      "size": "667648",
-      "md5": "f4f2b7a4e4335833e52f37cb6f05d9ce",
-      "crc32": "cd042f83",
-      "sha1": "976b4d04b9d6bb9c10dd23c91a10dd374867e6c1",
+      "mtime": "1662826497",
+      "size": "675840",
+      "md5": "207357227f70ae3c3af5046a9ab10411",
+      "crc32": "ac5bd055",
+      "sha1": "4e0499aca0be664700ca43b9f0878403afb74f6e",
       "format": "Metadata"
     },
     {
@@ -5352,9 +5404,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 517,
-  "item_last_updated": 1662785935,
-  "item_size": 38454654,
+  "files_count": 522,
+  "item_last_updated": 1662826571,
+  "item_size": 38836029,
   "metadata": {
     "identifier": "wplglocal10-2022",
     "collection": [
@@ -5371,10 +5423,10 @@
     "publicdate": "2022-07-27 15:52:31",
     "addeddate": "2022-07-27 15:52:31"
   },
-  "server": "ia801502.us.archive.org",
-  "uniq": 1243856143,
+  "server": "ia601502.us.archive.org",
+  "uniq": 210268111,
   "workable_servers": [
-    "ia801502.us.archive.org",
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }

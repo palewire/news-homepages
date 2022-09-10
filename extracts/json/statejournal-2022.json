@@ -1,5 +1,5 @@
 {
-  "created": 1662785697,
+  "created": 1662826328,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/1/items/statejournal-2022",
@@ -4614,31 +4614,93 @@
       "sha1": "93b83b726ca1868b5a782f689d98c96e2af8a0fb"
     },
     {
+      "name": "statejournal-2022-09-10T12:10:48.484580-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662826252",
+      "size": "43229",
+      "md5": "8d3bd581e1a7a0adcae123f0c6e8d3ba",
+      "crc32": "ebb2f783",
+      "sha1": "28fbf771be2fd37207bce4958483166f08e3a635",
+      "format": "JSON"
+    },
+    {
+      "name": "statejournal-2022-09-10T12:10:48.484580-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662826253",
+      "size": "107701",
+      "md5": "11de33afb9c09cdd021d9c608d581328",
+      "crc32": "0186e90a",
+      "sha1": "65f5e10cd9dcabb43ba2abc1a804e6f78a46b04c",
+      "format": "JSON"
+    },
+    {
+      "name": "statejournal-2022-09-10T12:10:48.484580-04:00.jpg",
+      "source": "original",
+      "mtime": "1662826250",
+      "size": "271776",
+      "md5": "ca1c3b486c7b6ee8cb2e9acb9ec9ee11",
+      "crc32": "1d244e3b",
+      "sha1": "91334e8ad4189032ca98f55215b05f92d39e697a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "statejournal-2022-09-10T12:10:48.484580-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662826255",
+      "size": "1522",
+      "md5": "8bc9c2a86164a0d43b22272f7746bc31",
+      "crc32": "02c6f648",
+      "sha1": "e9f399f691245bc428af20d856143c8a0ca87160",
+      "format": "JSON"
+    },
+    {
+      "name": "statejournal-2022-09-10T12:10:48.484580-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662826258",
+      "size": "89279",
+      "md5": "8dda489ed15e72bc45f7fb0f0ea05221",
+      "crc32": "e6f2d478",
+      "sha1": "795c4757c03df38af4a3ad77421f259121684b37",
+      "format": "JSON"
+    },
+    {
+      "name": "statejournal-2022-09-10T12:10:48.484580-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "statejournal-2022-09-10T12:10:48.484580-04:00.jpg",
+      "mtime": "1662826310",
+      "size": "9737",
+      "md5": "568539a55af7adcb62c5e408eed9bfe7",
+      "crc32": "d832d3f8",
+      "sha1": "43b06f667e5fee416e3ba935996564fd322ad672"
+    },
+    {
       "name": "statejournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d791654d267fa7b1bc730e67347fc493e09e3128",
-      "mtime": "1662785687",
-      "size": "97070",
-      "md5": "51cab6c0add3a0f9466f273dc8e56dfd",
-      "crc32": "c8b637f7",
-      "sha1": "57d043bbdf9b4a88eab2b90bb1b0a1ef61b5c70c",
+      "btih": "560c991024300b096ebea42186ba08cb6c4a6e98",
+      "mtime": "1662826316",
+      "size": "98362",
+      "md5": "2866bb6efa988259a37ec91f79468609",
+      "crc32": "e452a5df",
+      "sha1": "5767ee9f4b6ef25ca5364b2be630ddf1d209aa77",
       "format": "Archive BitTorrent"
     },
     {
       "name": "statejournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3b1530bb0a507c33ef0bad0c868ee5d6",
+      "md5": "33ae79c8aee3d4277e43f94890fcde9b",
       "summation": "md5"
     },
     {
       "name": "statejournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662785622",
-      "size": "581632",
-      "md5": "098b21eccd029c6999cf16b286b6100a",
-      "crc32": "7cf1bcf3",
-      "sha1": "293fdd7a659ee99f5e895a819abb7d659600bc61",
+      "mtime": "1662826261",
+      "size": "589824",
+      "md5": "3c9a98d950ac46db2432617a930b8917",
+      "crc32": "c6c41142",
+      "sha1": "4d2c6f084a16ce5fd8561553163dd12415eb94d5",
       "format": "Metadata"
     },
     {
@@ -4652,9 +4714,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 449,
-  "item_last_updated": 1662785687,
-  "item_size": 37352252,
+  "files_count": 455,
+  "item_last_updated": 1662826316,
+  "item_size": 37884980,
   "metadata": {
     "identifier": "statejournal-2022",
     "collection": [
@@ -4672,7 +4734,7 @@
     "addeddate": "2022-08-01 06:42:03"
   },
   "server": "ia801500.us.archive.org",
-  "uniq": 697626547,
+  "uniq": 1447624635,
   "workable_servers": [
     "ia801500.us.archive.org",
     "ia601500.us.archive.org"

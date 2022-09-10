@@ -1,5 +1,5 @@
 {
-  "created": 1662785809,
+  "created": 1662826460,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/35/items/theobserver-2022",
@@ -6532,31 +6532,93 @@
       "sha1": "3a358f3b8302b5d99bbedc118266822ef3908e58"
     },
     {
+      "name": "theobserver-2022-09-10T12:12:27.813454-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662826353",
+      "size": "466",
+      "md5": "c1c1cdb043f5d3ca0425836598401204",
+      "crc32": "69bd85f0",
+      "sha1": "46f607c3887b1403e178f53645e1e94023888464",
+      "format": "JSON"
+    },
+    {
+      "name": "theobserver-2022-09-10T12:12:27.813454-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662826355",
+      "size": "44743",
+      "md5": "8e81cce90b12791d3b5ed5df37e14251",
+      "crc32": "816e1190",
+      "sha1": "0f8e451f981fcfac9a50712a2a91f4363eb1a832",
+      "format": "JSON"
+    },
+    {
+      "name": "theobserver-2022-09-10T12:12:27.813454-04:00.jpg",
+      "source": "original",
+      "mtime": "1662826351",
+      "size": "258477",
+      "md5": "4ecf04f49b4b2c2be4141c445afe58c4",
+      "crc32": "0c8a128f",
+      "sha1": "e145782f6083369254cf4979421fa09e4b24890f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theobserver-2022-09-10T12:12:27.813454-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662826357",
+      "size": "1550",
+      "md5": "041b9fa35e3b64a8f10ea5af733cb00b",
+      "crc32": "70d3a2f1",
+      "sha1": "60eb77a2fbd2351c60593796b5eaee2b669fb2cd",
+      "format": "JSON"
+    },
+    {
+      "name": "theobserver-2022-09-10T12:12:27.813454-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662826358",
+      "size": "94717",
+      "md5": "8f26ed8cf81e5cd7e69a9199226098d7",
+      "crc32": "cb0f12f2",
+      "sha1": "619c63f1183bd85f1a1380139f26b03eee83919d",
+      "format": "JSON"
+    },
+    {
+      "name": "theobserver-2022-09-10T12:12:27.813454-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theobserver-2022-09-10T12:12:27.813454-04:00.jpg",
+      "mtime": "1662826432",
+      "size": "10306",
+      "md5": "1240f29cf83881007745235bb2f36166",
+      "crc32": "1134b5f6",
+      "sha1": "ff669e3359b692dded0d6d0e0e6871c715cc1ce4"
+    },
+    {
       "name": "theobserver-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5f552557dfc18dcce4decbcf67c18a3e222f7991",
-      "mtime": "1662785799",
-      "size": "135120",
-      "md5": "9dc898bb6493faa41d6d47af96f528cc",
-      "crc32": "958fbff3",
-      "sha1": "3018fecb02b068a961b14df6298fb6ac47eaa9d8",
+      "btih": "b571ecb56db1ab187d52b274cde6b1726014a475",
+      "mtime": "1662826445",
+      "size": "136384",
+      "md5": "dabb058581f5867bcdf57f45132a11a3",
+      "crc32": "4be262f9",
+      "sha1": "33b55ea58edfdf3a5ee2257a63ed452bca895ab9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theobserver-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "80fc8eb0f18944ee171ed933252ad7d5",
+      "md5": "615248542049f8b82085be69d0ef57ec",
       "summation": "md5"
     },
     {
       "name": "theobserver-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662785742",
-      "size": "786432",
-      "md5": "2d932a2620c391cba6169b3eb20a4ddf",
-      "crc32": "f5770c43",
-      "sha1": "14865e6e47933a874b9a33c50223c407ad5fcbbe",
+      "mtime": "1662826366",
+      "size": "798720",
+      "md5": "9b730375a60c13219f40dfcd03cf31ff",
+      "crc32": "cd2f988c",
+      "sha1": "9493b65d20f1a047e40149e8c4288502642980a5",
       "format": "Metadata"
     },
     {
@@ -6570,9 +6632,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 632,
-  "item_last_updated": 1662785799,
-  "item_size": 44717865,
+  "files_count": 638,
+  "item_last_updated": 1662826445,
+  "item_size": 45141676,
   "metadata": {
     "identifier": "theobserver-2022",
     "collection": [
@@ -6589,10 +6651,10 @@
     "publicdate": "2022-07-10 14:53:55",
     "addeddate": "2022-07-10 14:53:55"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 896391222,
+  "server": "ia801409.us.archive.org",
+  "uniq": 975106232,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }

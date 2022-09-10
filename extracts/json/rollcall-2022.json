@@ -1,5 +1,5 @@
 {
-  "created": 1662785628,
+  "created": 1662826275,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/18/items/rollcall-2022",
@@ -7022,31 +7022,83 @@
       "sha1": "9bcca0e7fbe18ca82798858c91e94bafbac00ec9"
     },
     {
+      "name": "rollcall-2022-09-10T12:09:38.166142-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662826184",
+      "size": "37266",
+      "md5": "a14160307e638d8e907fa5aef3227903",
+      "crc32": "fa120d57",
+      "sha1": "7034d9339628dd8af2ae23bd43f9805703aa8ed3",
+      "format": "JSON"
+    },
+    {
+      "name": "rollcall-2022-09-10T12:09:38.166142-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662826186",
+      "size": "27161",
+      "md5": "2b3f76125286f3438827426498de505d",
+      "crc32": "954a47fd",
+      "sha1": "e2443ba3fa89f2fbb80e8e227078570350eccd5f",
+      "format": "JSON"
+    },
+    {
+      "name": "rollcall-2022-09-10T12:09:38.166142-04:00.jpg",
+      "source": "original",
+      "mtime": "1662826182",
+      "size": "266603",
+      "md5": "c0c3d7bcc9b0a8c9b08cf1881f6ff63f",
+      "crc32": "4d35970b",
+      "sha1": "d746159b6b14ae51ebc4fdb2a8a7ae6d3848c30a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rollcall-2022-09-10T12:09:38.166142-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662826191",
+      "size": "1441",
+      "md5": "9cf6bd2576b04f762d34a90d6ddc2b31",
+      "crc32": "491014b8",
+      "sha1": "d691c4cfcd63c3542d2a9e6420c14301bb33cb4d",
+      "format": "JSON"
+    },
+    {
+      "name": "rollcall-2022-09-10T12:09:38.166142-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rollcall-2022-09-10T12:09:38.166142-04:00.jpg",
+      "mtime": "1662826253",
+      "size": "10604",
+      "md5": "bc1d3bcb74b7bd5b5cb6c834eaa82966",
+      "crc32": "62f25c6c",
+      "sha1": "9bcca0e7fbe18ca82798858c91e94bafbac00ec9"
+    },
+    {
       "name": "rollcall-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8a6a88ada34bd7286b1cb1ca36acc29ac95249d7",
-      "mtime": "1662785600",
-      "size": "143417",
-      "md5": "1557d7e8057f9ecb51ce4b8e2c225b16",
-      "crc32": "c823ee83",
-      "sha1": "9dc082ae65baa309127a33bc8775e455ea42b8dc",
+      "btih": "b96dce2ed94e9c8ef17aafa9e992c94975b6dde4",
+      "mtime": "1662826262",
+      "size": "144457",
+      "md5": "e5948f45566cdc2d70847e769fd7e684",
+      "crc32": "5b1d8f9b",
+      "sha1": "7cdaababe55e2f5d8ebe9bbe4f429386ea435d48",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rollcall-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "735742b3efc773e0d099eeeacd66a5ca",
+      "md5": "e12aed8b8930776a3b2bf98ddf6fc13f",
       "summation": "md5"
     },
     {
       "name": "rollcall-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662785525",
-      "size": "843776",
-      "md5": "e0fd056b7ede95f09a1ae3697c01705f",
-      "crc32": "5bbbbf74",
-      "sha1": "59426a75657cb7096b05787e4f2b7d4c84927189",
+      "mtime": "1662826194",
+      "size": "847872",
+      "md5": "a64188948d4048ec4d4ad741de807aae",
+      "crc32": "43215f50",
+      "sha1": "7737062120ab504a189939a14c00377be4183b15",
       "format": "Metadata"
     },
     {
@@ -7060,9 +7112,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 679,
-  "item_last_updated": 1662785600,
-  "item_size": 47487133,
+  "files_count": 684,
+  "item_last_updated": 1662826262,
+  "item_size": 47835344,
   "metadata": {
     "identifier": "rollcall-2022",
     "collection": [
@@ -7079,10 +7131,10 @@
     "publicdate": "2022-07-04 21:52:31",
     "addeddate": "2022-07-04 21:52:31"
   },
-  "server": "ia801407.us.archive.org",
-  "uniq": 1241022099,
+  "server": "ia601407.us.archive.org",
+  "uniq": 1576943968,
   "workable_servers": [
-    "ia801407.us.archive.org",
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }
