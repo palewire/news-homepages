@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 73 screenshots with the Internet Archive.
+The archiving routine has saved 74 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 73 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-10T22:52:22.554573+12:00.jpg">
+  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-10T22:52:22.554573+12:00.jpg"
+     alt="1News at 2022-09-10 22:52:23+12:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-10T22:52:22.554573+12:00.jpg">September 10 at 10:52 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-10T11:02:00.230874+12:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-05T10:53:23.762536+12:00.jpg">September 5 at 10:53 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-04T22:49:22.466632+12:00.jpg">
-  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-04T22:49:22.466632+12:00.jpg"
-     alt="1News at 2022-09-04 22:49:25+12:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-04T22:49:22.466632+12:00.jpg">September 4 at 10:49 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 73 hyperlink lists with the Internet Archive.
+The archiving routine has saved 74 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 10 at 10:52 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-10T22:52:22.554573+12:00.hyperlinks.json) |
 | [September 10 at 11:02 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-10T11:02:00.230874+12:00.hyperlinks.json) |
 | [September 9 at 11:01 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-09T23:01:46.431298+12:00.hyperlinks.json) |
 | [September 9 at 11:54 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-09T11:53:54.420819+12:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 11:04 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-07T11:04:31.680587+12:00.hyperlinks.json) |
 | [September 6 at 10:53 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-06T22:53:14.903378+12:00.hyperlinks.json) |
 | [September 6 at 10:58 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-06T10:57:52.413116+12:00.hyperlinks.json) |
-| [September 5 at 10:58 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-05T22:57:59.290866+12:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 73 accessibility trees with the Internet Archive.
+The archiving routine has saved 74 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 10 at 10:52 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-10T22:52:22.554573+12:00.accessibility.json) |
 | [September 10 at 11:02 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-10T11:02:00.230874+12:00.accessibility.json) |
 | [September 9 at 11:01 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-09T23:01:46.431298+12:00.accessibility.json) |
 | [September 9 at 11:54 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-09T11:53:54.420819+12:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 11:04 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-07T11:04:31.680587+12:00.accessibility.json) |
 | [September 6 at 10:53 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-06T22:53:14.903378+12:00.accessibility.json) |
 | [September 6 at 10:57 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-06T10:57:52.413116+12:00.accessibility.json) |
-| [September 5 at 10:58 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-05T22:57:59.290866+12:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 73 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 74 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 10 at 10:52 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-10T22:52:22.554573+12:00.lighthouse.json) |
 | [September 10 at 11:02 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-10T11:02:00.230874+12:00.lighthouse.json) |
 | [September 9 at 11:01 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-09T23:01:46.431298+12:00.lighthouse.json) |
 | [September 9 at 11:54 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-09T11:53:54.420819+12:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 11:04 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-07T11:04:31.680587+12:00.lighthouse.json) |
 | [September 6 at 10:53 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-06T22:53:14.903378+12:00.lighthouse.json) |
 | [September 6 at 10:58 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-06T10:57:52.413116+12:00.lighthouse.json) |
-| [September 5 at 10:58 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-05T22:57:59.290866+12:00.lighthouse.json) |
 
 
 

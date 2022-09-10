@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 106 screenshots with the Internet Archive.
+The archiving routine has saved 107 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 106 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dn_no-2022/dn_no-2022-09-10T12:57:31.397161+02:00.jpg">
+  <img src="https://archive.org/download/dn_no-2022/dn_no-2022-09-10T12:57:31.397161+02:00.jpg"
+     alt="Dagens Næringsliv at 2022-09-10 12:57:35+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-09-10T12:57:31.397161+02:00.jpg">September 10 at 12:57 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dn_no-2022/dn_no-2022-09-10T01:09:11.236900+02:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-09-05T00:58:53.234330+02:00.jpg">September 5 at 12:58 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dn_no-2022/dn_no-2022-09-04T12:54:53.072612+02:00.jpg">
-  <img src="https://archive.org/download/dn_no-2022/dn_no-2022-09-04T12:54:53.072612+02:00.jpg"
-     alt="Dagens Næringsliv at 2022-09-04 12:54:57+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-09-04T12:54:53.072612+02:00.jpg">September 4 at 12:54 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 106 hyperlink lists with the Internet Archive.
+The archiving routine has saved 107 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 10 at 12:57 PM](https://archive.org/download/dn_no-2022/dn_no-2022-09-10T12:57:31.397161+02:00.hyperlinks.json) |
 | [September 10 at 1:09 AM](https://archive.org/download/dn_no-2022/dn_no-2022-09-10T01:09:11.236900+02:00.hyperlinks.json) |
 | [September 9 at 1:09 PM](https://archive.org/download/dn_no-2022/dn_no-2022-09-09T13:09:27.330150+02:00.hyperlinks.json) |
 | [September 9 at 2:01 AM](https://archive.org/download/dn_no-2022/dn_no-2022-09-09T02:01:42.261684+02:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 1:10 AM](https://archive.org/download/dn_no-2022/dn_no-2022-09-07T01:10:18.696653+02:00.hyperlinks.json) |
 | [September 6 at 12:59 PM](https://archive.org/download/dn_no-2022/dn_no-2022-09-06T12:59:00.537832+02:00.hyperlinks.json) |
 | [September 6 at 1:05 AM](https://archive.org/download/dn_no-2022/dn_no-2022-09-06T01:05:15.177388+02:00.hyperlinks.json) |
-| [September 5 at 1:04 PM](https://archive.org/download/dn_no-2022/dn_no-2022-09-05T13:04:12.132112+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 106 accessibility trees with the Internet Archive.
+The archiving routine has saved 107 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 10 at 12:57 PM](https://archive.org/download/dn_no-2022/dn_no-2022-09-10T12:57:31.397161+02:00.accessibility.json) |
 | [September 10 at 1:09 AM](https://archive.org/download/dn_no-2022/dn_no-2022-09-10T01:09:11.236900+02:00.accessibility.json) |
 | [September 9 at 1:09 PM](https://archive.org/download/dn_no-2022/dn_no-2022-09-09T13:09:27.330150+02:00.accessibility.json) |
 | [September 9 at 2:01 AM](https://archive.org/download/dn_no-2022/dn_no-2022-09-09T02:01:42.261684+02:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 1:10 AM](https://archive.org/download/dn_no-2022/dn_no-2022-09-07T01:10:18.696653+02:00.accessibility.json) |
 | [September 6 at 12:59 PM](https://archive.org/download/dn_no-2022/dn_no-2022-09-06T12:59:00.537832+02:00.accessibility.json) |
 | [September 6 at 1:05 AM](https://archive.org/download/dn_no-2022/dn_no-2022-09-06T01:05:15.177388+02:00.accessibility.json) |
-| [September 5 at 1:04 PM](https://archive.org/download/dn_no-2022/dn_no-2022-09-05T13:04:12.132112+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 99 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 10 at 12:57 PM](https://archive.org/download/dn_no-2022/dn_no-2022-09-10T12:57:31.397161+02:00.lighthouse.json) |
 | [September 10 at 1:09 AM](https://archive.org/download/dn_no-2022/dn_no-2022-09-10T01:09:11.236900+02:00.lighthouse.json) |
 | [September 9 at 1:09 PM](https://archive.org/download/dn_no-2022/dn_no-2022-09-09T13:09:27.330150+02:00.lighthouse.json) |
 | [September 9 at 2:01 AM](https://archive.org/download/dn_no-2022/dn_no-2022-09-09T02:01:42.261684+02:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 1:10 AM](https://archive.org/download/dn_no-2022/dn_no-2022-09-07T01:10:18.696653+02:00.lighthouse.json) |
 | [September 6 at 12:59 PM](https://archive.org/download/dn_no-2022/dn_no-2022-09-06T12:59:00.537832+02:00.lighthouse.json) |
 | [September 6 at 1:05 AM](https://archive.org/download/dn_no-2022/dn_no-2022-09-06T01:05:15.177388+02:00.lighthouse.json) |
-| [September 5 at 1:04 PM](https://archive.org/download/dn_no-2022/dn_no-2022-09-05T13:04:12.132112+02:00.lighthouse.json) |
 
 
 

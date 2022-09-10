@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 105 screenshots with the Internet Archive.
+The archiving routine has saved 106 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 105 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-10T06:52:31.638243-04:00.jpg">
+  <img src="https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-10T06:52:31.638243-04:00.jpg"
+     alt="Augusta Chronicle at 2022-09-10 06:52:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-10T06:52:31.638243-04:00.jpg">September 10 at 6:52 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-09T19:03:03.952619-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-04T18:55:25.413663-04:00.jpg">September 4 at 6:55 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-04T06:49:19.884195-04:00.jpg">
-  <img src="https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-04T06:49:19.884195-04:00.jpg"
-     alt="Augusta Chronicle at 2022-09-04 06:49:25-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-04T06:49:19.884195-04:00.jpg">September 4 at 6:49 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 102 hyperlink lists with the Internet Archive.
+The archiving routine has saved 103 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 10 at 6:52 AM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-10T06:52:31.638243-04:00.hyperlinks.json) |
 | [September 9 at 7:03 PM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-09T19:03:03.952619-04:00.hyperlinks.json) |
 | [September 9 at 7:04 AM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-09T07:03:57.748152-04:00.hyperlinks.json) |
 | [September 8 at 7:57 PM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-08T19:57:27.381735-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 6 at 7:05 PM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-06T19:05:29.929652-04:00.hyperlinks.json) |
 | [September 6 at 6:53 AM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-06T06:53:05.421776-04:00.hyperlinks.json) |
 | [September 5 at 7:00 PM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-05T19:00:24.362684-04:00.hyperlinks.json) |
-| [September 5 at 7:00 AM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-05T07:00:31.919581-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 105 accessibility trees with the Internet Archive.
+The archiving routine has saved 106 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 10 at 6:52 AM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-10T06:52:31.638243-04:00.accessibility.json) |
 | [September 9 at 7:03 PM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-09T19:03:03.952619-04:00.accessibility.json) |
 | [September 9 at 7:04 AM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-09T07:03:57.748152-04:00.accessibility.json) |
 | [September 8 at 7:57 PM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-08T19:57:27.381735-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 6 at 7:05 PM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-06T19:05:29.929652-04:00.accessibility.json) |
 | [September 6 at 6:53 AM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-06T06:53:05.421776-04:00.accessibility.json) |
 | [September 5 at 7:00 PM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-05T19:00:24.362684-04:00.accessibility.json) |
-| [September 5 at 7:00 AM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-05T07:00:31.919581-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 99 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 10 at 6:52 AM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-10T06:52:31.638243-04:00.lighthouse.json) |
 | [September 9 at 7:03 PM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-09T19:03:03.952619-04:00.lighthouse.json) |
 | [September 9 at 7:04 AM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-09T07:03:57.748152-04:00.lighthouse.json) |
 | [September 8 at 7:57 PM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-08T19:57:27.381735-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 6 at 7:05 PM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-06T19:05:29.929652-04:00.lighthouse.json) |
 | [September 6 at 6:53 AM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-06T06:53:05.421776-04:00.lighthouse.json) |
 | [September 5 at 7:00 PM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-05T19:00:24.362684-04:00.lighthouse.json) |
-| [September 5 at 7:00 AM](https://archive.org/download/aug_chronicle-2022/aug_chronicle-2022-09-05T07:00:31.919581-04:00.lighthouse.json) |
 
 
 
