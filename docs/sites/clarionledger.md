@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 170 screenshots with the Internet Archive.
+The archiving routine has saved 171 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 170 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-09T22:28:28.220408-04:00.jpg">
+  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-09T22:28:28.220408-04:00.jpg"
+     alt="Clarion Ledger at 2022-09-09 22:28:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-09T22:28:28.220408-04:00.jpg">September 9 at 10:28 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-09T10:34:10.138105-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-03T22:28:25.397543-04:00.jpg">September 3 at 10:28 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-03T10:57:05.431084-04:00.jpg">
-  <img src="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-03T10:57:05.431084-04:00.jpg"
-     alt="Clarion Ledger at 2022-09-03 10:57:11-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/clarionledger-2022/clarionledger-2022-09-03T10:57:05.431084-04:00.jpg">September 3 at 10:57 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 171 hyperlink lists with the Internet Archive.
+The archiving routine has saved 172 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 9 at 10:28 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-09T22:28:28.220408-04:00.hyperlinks.json) |
 | [September 9 at 10:34 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-09T10:34:10.138105-04:00.hyperlinks.json) |
 | [September 8 at 10:30 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-08T22:30:10.826564-04:00.hyperlinks.json) |
 | [September 8 at 10:26 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-08T10:25:52.508985-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 5 at 10:27 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-05T22:27:30.719077-04:00.hyperlinks.json) |
 | [September 5 at 10:23 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-05T10:23:46.667478-04:00.hyperlinks.json) |
 | [September 4 at 10:30 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-04T22:30:03.432432-04:00.hyperlinks.json) |
-| [September 4 at 10:18 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-04T10:18:04.122132-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 170 accessibility trees with the Internet Archive.
+The archiving routine has saved 171 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 9 at 10:28 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-09T22:28:28.220408-04:00.accessibility.json) |
 | [September 9 at 10:34 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-09T10:34:10.138105-04:00.accessibility.json) |
 | [September 8 at 10:30 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-08T22:30:10.826564-04:00.accessibility.json) |
 | [September 8 at 10:26 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-08T10:25:52.508985-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 5 at 10:27 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-05T22:27:30.719077-04:00.accessibility.json) |
 | [September 5 at 10:23 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-05T10:23:46.667478-04:00.accessibility.json) |
 | [September 4 at 10:30 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-04T22:30:03.432432-04:00.accessibility.json) |
-| [September 4 at 10:18 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-04T10:18:04.122132-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 97 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 9 at 10:28 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-09T22:28:28.220408-04:00.lighthouse.json) |
 | [September 9 at 10:34 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-09T10:34:10.138105-04:00.lighthouse.json) |
 | [September 8 at 10:30 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-08T22:30:10.826564-04:00.lighthouse.json) |
 | [September 8 at 10:26 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-08T10:25:52.508985-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 5 at 10:27 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-05T22:27:30.719077-04:00.lighthouse.json) |
 | [September 5 at 10:23 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-05T10:23:46.667478-04:00.lighthouse.json) |
 | [September 4 at 10:30 PM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-04T22:30:03.432432-04:00.lighthouse.json) |
-| [September 4 at 10:18 AM](https://archive.org/download/clarionledger-2022/clarionledger-2022-09-04T10:18:04.122132-04:00.lighthouse.json) |
 
 
 

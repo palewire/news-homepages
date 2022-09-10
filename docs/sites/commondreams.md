@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 156 screenshots with the Internet Archive.
+The archiving routine has saved 157 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 156 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/commondreams-2022/commondreams-2022-09-09T22:28:10.739051-04:00.jpg">
+  <img src="https://archive.org/download/commondreams-2022/commondreams-2022-09-09T22:28:10.739051-04:00.jpg"
+     alt="Common Dreams at 2022-09-09 22:28:15-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-09-09T22:28:10.739051-04:00.jpg">September 9 at 10:28 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/commondreams-2022/commondreams-2022-09-09T14:33:09.252201-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-09-04T22:29:33.412564-04:00.jpg">September 4 at 10:29 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/commondreams-2022/commondreams-2022-09-04T10:17:18.429495-04:00.jpg">
-  <img src="https://archive.org/download/commondreams-2022/commondreams-2022-09-04T10:17:18.429495-04:00.jpg"
-     alt="Common Dreams at 2022-09-04 10:17:20-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/commondreams-2022/commondreams-2022-09-04T10:17:18.429495-04:00.jpg">September 4 at 10:17 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 156 hyperlink lists with the Internet Archive.
+The archiving routine has saved 157 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 9 at 10:28 PM](https://archive.org/download/commondreams-2022/commondreams-2022-09-09T22:28:10.739051-04:00.hyperlinks.json) |
 | [September 9 at 2:33 PM](https://archive.org/download/commondreams-2022/commondreams-2022-09-09T14:33:09.252201-04:00.hyperlinks.json) |
 | [September 9 at 10:34 AM](https://archive.org/download/commondreams-2022/commondreams-2022-09-09T10:34:27.581312-04:00.hyperlinks.json) |
 | [September 8 at 10:30 PM](https://archive.org/download/commondreams-2022/commondreams-2022-09-08T22:30:28.331931-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 11:31 AM](https://archive.org/download/commondreams-2022/commondreams-2022-09-07T11:30:51.405865-04:00.hyperlinks.json) |
 | [September 6 at 10:33 PM](https://archive.org/download/commondreams-2022/commondreams-2022-09-06T22:33:36.770614-04:00.hyperlinks.json) |
 | [September 5 at 10:28 PM](https://archive.org/download/commondreams-2022/commondreams-2022-09-05T22:27:51.517342-04:00.hyperlinks.json) |
-| [September 5 at 2:32 PM](https://archive.org/download/commondreams-2022/commondreams-2022-09-05T14:31:58.309390-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 157 accessibility trees with the Internet Archive.
+The archiving routine has saved 158 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 9 at 10:28 PM](https://archive.org/download/commondreams-2022/commondreams-2022-09-09T22:28:10.739051-04:00.accessibility.json) |
 | [September 9 at 2:33 PM](https://archive.org/download/commondreams-2022/commondreams-2022-09-09T14:33:09.252201-04:00.accessibility.json) |
 | [September 9 at 10:34 AM](https://archive.org/download/commondreams-2022/commondreams-2022-09-09T10:34:27.581312-04:00.accessibility.json) |
 | [September 8 at 10:30 PM](https://archive.org/download/commondreams-2022/commondreams-2022-09-08T22:30:28.331931-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 6 at 10:33 PM](https://archive.org/download/commondreams-2022/commondreams-2022-09-06T22:33:36.770614-04:00.accessibility.json) |
 | [September 5 at 10:28 PM](https://archive.org/download/commondreams-2022/commondreams-2022-09-05T22:27:51.517342-04:00.accessibility.json) |
 | [September 5 at 2:32 PM](https://archive.org/download/commondreams-2022/commondreams-2022-09-05T14:31:58.309390-04:00.accessibility.json) |
-| [September 5 at 10:24 AM](https://archive.org/download/commondreams-2022/commondreams-2022-09-05T10:24:20.453893-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 141 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 142 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 9 at 10:28 PM](https://archive.org/download/commondreams-2022/commondreams-2022-09-09T22:28:10.739051-04:00.lighthouse.json) |
 | [September 9 at 2:33 PM](https://archive.org/download/commondreams-2022/commondreams-2022-09-09T14:33:09.252201-04:00.lighthouse.json) |
 | [September 9 at 10:34 AM](https://archive.org/download/commondreams-2022/commondreams-2022-09-09T10:34:27.581312-04:00.lighthouse.json) |
 | [September 8 at 10:30 PM](https://archive.org/download/commondreams-2022/commondreams-2022-09-08T22:30:28.331931-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 11:31 AM](https://archive.org/download/commondreams-2022/commondreams-2022-09-07T11:30:51.405865-04:00.lighthouse.json) |
 | [September 6 at 10:33 PM](https://archive.org/download/commondreams-2022/commondreams-2022-09-06T22:33:36.770614-04:00.lighthouse.json) |
 | [September 5 at 10:28 PM](https://archive.org/download/commondreams-2022/commondreams-2022-09-05T22:27:51.517342-04:00.lighthouse.json) |
-| [September 5 at 2:32 PM](https://archive.org/download/commondreams-2022/commondreams-2022-09-05T14:31:58.309390-04:00.lighthouse.json) |
 
 
 
