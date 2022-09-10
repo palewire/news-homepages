@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 171 screenshots with the Internet Archive.
+The archiving routine has saved 173 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/19thnews-2022/19thnews-2022-09-09T18:01:45.852087-05:00.jpg">
+  <img src="https://archive.org/download/19thnews-2022/19thnews-2022-09-09T18:01:45.852087-05:00.jpg"
+     alt="19th at 2022-09-09 18:02:02-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-09-09T18:01:45.852087-05:00.jpg">September 9 at 6:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/19thnews-2022/19thnews-2022-09-09T06:02:36.827291-05:00.jpg">
+  <img src="https://archive.org/download/19thnews-2022/19thnews-2022-09-09T06:02:36.827291-05:00.jpg"
+     alt="19th at 2022-09-09 06:02:43-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-09-09T06:02:36.827291-05:00.jpg">September 9 at 6:02 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/19thnews-2022/19thnews-2022-09-08T18:54:14.461155-05:00.jpg">
   <img src="https://archive.org/download/19thnews-2022/19thnews-2022-09-08T18:54:14.461155-05:00.jpg"
      alt="19th at 2022-09-08 18:54:29-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-09-04T05:50:11.821121-05:00.jpg">September 4 at 5:50 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/19thnews-2022/19thnews-2022-09-03T17:53:22.174676-05:00.jpg">
-  <img src="https://archive.org/download/19thnews-2022/19thnews-2022-09-03T17:53:22.174676-05:00.jpg"
-     alt="19th at 2022-09-03 17:53:31-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-09-03T17:53:22.174676-05:00.jpg">September 3 at 5:53 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/19thnews-2022/19thnews-2022-09-03T07:07:23.464743-05:00.jpg">
-  <img src="https://archive.org/download/19thnews-2022/19thnews-2022-09-03T07:07:23.464743-05:00.jpg"
-     alt="19th at 2022-09-03 07:07:25-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/19thnews-2022/19thnews-2022-09-03T07:07:23.464743-05:00.jpg">September 3 at 7:07 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 172 hyperlink lists with the Internet Archive.
+The archiving routine has saved 174 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 9 at 6:02 PM](https://archive.org/download/19thnews-2022/19thnews-2022-09-09T18:01:45.852087-05:00.hyperlinks.json) |
+| [September 9 at 6:02 AM](https://archive.org/download/19thnews-2022/19thnews-2022-09-09T06:02:36.827291-05:00.hyperlinks.json) |
 | [September 8 at 6:54 PM](https://archive.org/download/19thnews-2022/19thnews-2022-09-08T18:54:14.461155-05:00.hyperlinks.json) |
 | [September 8 at 5:59 AM](https://archive.org/download/19thnews-2022/19thnews-2022-09-08T05:59:34.213493-05:00.hyperlinks.json) |
 | [September 7 at 5:57 PM](https://archive.org/download/19thnews-2022/19thnews-2022-09-07T17:57:13.107274-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 6 at 5:53 AM](https://archive.org/download/19thnews-2022/19thnews-2022-09-06T05:53:31.476365-05:00.hyperlinks.json) |
 | [September 5 at 5:58 PM](https://archive.org/download/19thnews-2022/19thnews-2022-09-05T17:58:33.493942-05:00.hyperlinks.json) |
 | [September 5 at 5:57 AM](https://archive.org/download/19thnews-2022/19thnews-2022-09-05T05:57:42.033097-05:00.hyperlinks.json) |
-| [September 4 at 5:53 PM](https://archive.org/download/19thnews-2022/19thnews-2022-09-04T17:53:32.379008-05:00.hyperlinks.json) |
-| [September 4 at 5:50 AM](https://archive.org/download/19thnews-2022/19thnews-2022-09-04T05:50:11.821121-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 172 accessibility trees with the Internet Archive.
+The archiving routine has saved 174 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 9 at 6:02 PM](https://archive.org/download/19thnews-2022/19thnews-2022-09-09T18:01:45.852087-05:00.accessibility.json) |
+| [September 9 at 6:02 AM](https://archive.org/download/19thnews-2022/19thnews-2022-09-09T06:02:36.827291-05:00.accessibility.json) |
 | [September 8 at 6:54 PM](https://archive.org/download/19thnews-2022/19thnews-2022-09-08T18:54:14.461155-05:00.accessibility.json) |
 | [September 8 at 5:59 AM](https://archive.org/download/19thnews-2022/19thnews-2022-09-08T05:59:34.213493-05:00.accessibility.json) |
 | [September 7 at 5:57 PM](https://archive.org/download/19thnews-2022/19thnews-2022-09-07T17:57:13.107274-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 6 at 5:53 AM](https://archive.org/download/19thnews-2022/19thnews-2022-09-06T05:53:31.476365-05:00.accessibility.json) |
 | [September 5 at 5:58 PM](https://archive.org/download/19thnews-2022/19thnews-2022-09-05T17:58:33.493942-05:00.accessibility.json) |
 | [September 5 at 5:57 AM](https://archive.org/download/19thnews-2022/19thnews-2022-09-05T05:57:42.033097-05:00.accessibility.json) |
-| [September 4 at 5:53 PM](https://archive.org/download/19thnews-2022/19thnews-2022-09-04T17:53:32.379008-05:00.accessibility.json) |
-| [September 4 at 5:50 AM](https://archive.org/download/19thnews-2022/19thnews-2022-09-04T05:50:11.821121-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 97 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 99 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 9 at 6:02 PM](https://archive.org/download/19thnews-2022/19thnews-2022-09-09T18:01:45.852087-05:00.lighthouse.json) |
+| [September 9 at 6:02 AM](https://archive.org/download/19thnews-2022/19thnews-2022-09-09T06:02:36.827291-05:00.lighthouse.json) |
 | [September 8 at 6:54 PM](https://archive.org/download/19thnews-2022/19thnews-2022-09-08T18:54:14.461155-05:00.lighthouse.json) |
 | [September 8 at 5:59 AM](https://archive.org/download/19thnews-2022/19thnews-2022-09-08T05:59:34.213493-05:00.lighthouse.json) |
 | [September 7 at 5:57 PM](https://archive.org/download/19thnews-2022/19thnews-2022-09-07T17:57:13.107274-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 6 at 5:53 AM](https://archive.org/download/19thnews-2022/19thnews-2022-09-06T05:53:31.476365-05:00.lighthouse.json) |
 | [September 5 at 5:58 PM](https://archive.org/download/19thnews-2022/19thnews-2022-09-05T17:58:33.493942-05:00.lighthouse.json) |
 | [September 5 at 5:57 AM](https://archive.org/download/19thnews-2022/19thnews-2022-09-05T05:57:42.033097-05:00.lighthouse.json) |
-| [September 4 at 5:53 PM](https://archive.org/download/19thnews-2022/19thnews-2022-09-04T17:53:32.379008-05:00.lighthouse.json) |
-| [September 4 at 5:50 AM](https://archive.org/download/19thnews-2022/19thnews-2022-09-04T05:50:11.821121-05:00.lighthouse.json) |
 
 
 

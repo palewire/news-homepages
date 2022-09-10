@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 171 screenshots with the Internet Archive.
+The archiving routine has saved 173 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-09T19:03:53.677515-04:00.jpg">
+  <img src="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-09T19:03:53.677515-04:00.jpg"
+     alt="Boston Globe at 2022-09-09 19:03:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-09T19:03:53.677515-04:00.jpg">September 9 at 7:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-09T07:04:41.705425-04:00.jpg">
+  <img src="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-09T07:04:41.705425-04:00.jpg"
+     alt="Boston Globe at 2022-09-09 07:04:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-09T07:04:41.705425-04:00.jpg">September 9 at 7:04 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-08T19:57:14.444430-04:00.jpg">
   <img src="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-08T19:57:14.444430-04:00.jpg"
      alt="Boston Globe at 2022-09-08 19:57:16-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-04T06:51:07.255213-04:00.jpg">September 4 at 6:51 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-03T18:55:35.631729-04:00.jpg">
-  <img src="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-03T18:55:35.631729-04:00.jpg"
-     alt="Boston Globe at 2022-09-03 18:55:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-03T18:55:35.631729-04:00.jpg">September 3 at 6:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-03T08:10:32.770612-04:00.jpg">
-  <img src="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-03T08:10:32.770612-04:00.jpg"
-     alt="Boston Globe at 2022-09-03 08:10:34-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-03T08:10:32.770612-04:00.jpg">September 3 at 8:10 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 170 hyperlink lists with the Internet Archive.
+The archiving routine has saved 172 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 9 at 7:04 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-09T19:03:53.677515-04:00.hyperlinks.json) |
+| [September 9 at 7:04 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-09T07:04:41.705425-04:00.hyperlinks.json) |
 | [September 8 at 7:57 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-08T19:57:14.444430-04:00.hyperlinks.json) |
 | [September 8 at 7:02 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-08T07:02:33.675448-04:00.hyperlinks.json) |
 | [September 7 at 6:59 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-07T18:59:09.561722-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 6 at 6:55 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-06T06:54:54.973984-04:00.hyperlinks.json) |
 | [September 5 at 7:00 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-05T19:00:11.771981-04:00.hyperlinks.json) |
 | [September 5 at 7:00 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-05T07:00:08.495274-04:00.hyperlinks.json) |
-| [September 4 at 6:55 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-04T18:55:16.726435-04:00.hyperlinks.json) |
-| [September 4 at 6:51 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-04T06:51:07.255213-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 171 accessibility trees with the Internet Archive.
+The archiving routine has saved 173 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 9 at 7:03 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-09T19:03:53.677515-04:00.accessibility.json) |
+| [September 9 at 7:04 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-09T07:04:41.705425-04:00.accessibility.json) |
 | [September 8 at 7:57 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-08T19:57:14.444430-04:00.accessibility.json) |
 | [September 8 at 7:02 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-08T07:02:33.675448-04:00.accessibility.json) |
 | [September 7 at 6:59 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-07T18:59:09.561722-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 6 at 6:55 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-06T06:54:54.973984-04:00.accessibility.json) |
 | [September 5 at 7:00 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-05T19:00:11.771981-04:00.accessibility.json) |
 | [September 5 at 7:00 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-05T07:00:08.495274-04:00.accessibility.json) |
-| [September 4 at 6:55 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-04T18:55:16.726435-04:00.accessibility.json) |
-| [September 4 at 6:51 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-04T06:51:07.255213-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 96 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 9 at 7:04 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-09T19:03:53.677515-04:00.lighthouse.json) |
+| [September 9 at 7:04 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-09T07:04:41.705425-04:00.lighthouse.json) |
 | [September 8 at 7:57 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-08T19:57:14.444430-04:00.lighthouse.json) |
 | [September 8 at 7:02 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-08T07:02:33.675448-04:00.lighthouse.json) |
 | [September 7 at 6:59 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-07T18:59:09.561722-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 6 at 6:55 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-06T06:54:54.973984-04:00.lighthouse.json) |
 | [September 5 at 7:00 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-05T19:00:11.771981-04:00.lighthouse.json) |
 | [September 5 at 7:00 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-05T07:00:08.495274-04:00.lighthouse.json) |
-| [September 4 at 6:55 PM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-04T18:55:16.726435-04:00.lighthouse.json) |
-| [September 4 at 6:51 AM](https://archive.org/download/bostonglobe-2022/bostonglobe-2022-09-04T06:51:07.255213-04:00.lighthouse.json) |
 
 
 
