@@ -28,13 +28,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-10T08:14:50.982478-06:00.jpg">
+  <img src="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-10T08:14:50.982478-06:00.jpg"
+     alt="El Paso Matters at 2022-09-10 08:14:53-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-10T08:14:50.982478-06:00.jpg">September 10 at 8:14 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-09T20:29:43.777012-06:00.jpg">
@@ -135,20 +144,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-04T08:33:25.861450-06:00.jpg">September 4 at 8:33 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-03T20:30:49.429129-06:00.jpg">
-  <img src="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-03T20:30:49.429129-06:00.jpg"
-     alt="El Paso Matters at 2022-09-03 20:30:51-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-03T20:30:49.429129-06:00.jpg">September 3 at 8:30 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 29 hyperlink lists with the Internet Archive.
+The archiving routine has saved 30 hyperlink lists with the Internet Archive.
 
 
 
@@ -156,6 +156,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 10 at 8:14 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-10T08:14:50.982478-06:00.hyperlinks.json) |
 | [September 9 at 8:29 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-09T20:29:43.777012-06:00.hyperlinks.json) |
 | [September 9 at 8:37 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-09T08:37:30.066741-06:00.hyperlinks.json) |
 | [September 8 at 8:33 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-08T20:33:17.818448-06:00.hyperlinks.json) |
@@ -165,12 +166,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 6 at 8:36 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-06T20:36:18.404404-06:00.hyperlinks.json) |
 | [September 5 at 8:29 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-05T20:29:26.920418-06:00.hyperlinks.json) |
 | [September 5 at 8:27 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-05T08:27:16.099028-06:00.hyperlinks.json) |
-| [September 4 at 8:32 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-04T20:32:09.701956-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 29 accessibility trees with the Internet Archive.
+The archiving routine has saved 30 accessibility trees with the Internet Archive.
 
 
 
@@ -178,6 +178,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 10 at 8:14 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-10T08:14:50.982478-06:00.accessibility.json) |
 | [September 9 at 8:29 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-09T20:29:43.777012-06:00.accessibility.json) |
 | [September 9 at 8:37 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-09T08:37:30.066741-06:00.accessibility.json) |
 | [September 8 at 8:33 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-08T20:33:17.818448-06:00.accessibility.json) |
@@ -187,13 +188,12 @@ Here are the 10 most recent accessibility trees.
 | [September 6 at 8:36 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-06T20:36:18.404404-06:00.accessibility.json) |
 | [September 5 at 8:29 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-05T20:29:26.920418-06:00.accessibility.json) |
 | [September 5 at 8:27 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-05T08:27:16.099028-06:00.accessibility.json) |
-| [September 4 at 8:32 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-04T20:32:09.701956-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -201,6 +201,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 10 at 8:14 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-10T08:14:50.982478-06:00.lighthouse.json) |
 | [September 9 at 8:29 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-09T20:29:43.777012-06:00.lighthouse.json) |
 | [September 9 at 8:37 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-09T08:37:30.066741-06:00.lighthouse.json) |
 | [September 8 at 8:33 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-08T20:33:17.818448-06:00.lighthouse.json) |
@@ -210,7 +211,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 6 at 8:36 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-06T20:36:18.404404-06:00.lighthouse.json) |
 | [September 5 at 8:29 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-05T20:29:26.920418-06:00.lighthouse.json) |
 | [September 5 at 8:27 AM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-05T08:27:16.099028-06:00.lighthouse.json) |
-| [September 4 at 8:32 PM](https://archive.org/download/elpasomatters-2022/elpasomatters-2022-09-04T20:32:09.701956-06:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 192 screenshots with the Internet Archive.
+The archiving routine has saved 193 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 192 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/apmreports-2022/apmreports-2022-09-10T09:06:20.439977-05:00.jpg">
+  <img src="https://archive.org/download/apmreports-2022/apmreports-2022-09-10T09:06:20.439977-05:00.jpg"
+     alt="APM Reports at 2022-09-10 09:06:22-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-09-10T09:06:20.439977-05:00.jpg">September 10 at 9:06 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/apmreports-2022/apmreports-2022-09-09T21:25:37.087448-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-09-04T09:01:44.741701-05:00.jpg">September 4 at 9:01 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/apmreports-2022/apmreports-2022-09-03T21:26:36.924146-05:00.jpg">
-  <img src="https://archive.org/download/apmreports-2022/apmreports-2022-09-03T21:26:36.924146-05:00.jpg"
-     alt="APM Reports at 2022-09-03 21:26:43-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-09-03T21:26:36.924146-05:00.jpg">September 3 at 9:26 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 194 hyperlink lists with the Internet Archive.
+The archiving routine has saved 195 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 10 at 9:06 AM](https://archive.org/download/apmreports-2022/apmreports-2022-09-10T09:06:20.439977-05:00.hyperlinks.json) |
 | [September 9 at 9:25 PM](https://archive.org/download/apmreports-2022/apmreports-2022-09-09T21:25:37.087448-05:00.hyperlinks.json) |
 | [September 9 at 9:26 AM](https://archive.org/download/apmreports-2022/apmreports-2022-09-09T09:26:04.722311-05:00.hyperlinks.json) |
 | [September 8 at 9:29 PM](https://archive.org/download/apmreports-2022/apmreports-2022-09-08T21:29:12.072054-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 6 at 9:31 PM](https://archive.org/download/apmreports-2022/apmreports-2022-09-06T21:31:01.593744-05:00.hyperlinks.json) |
 | [September 5 at 9:25 PM](https://archive.org/download/apmreports-2022/apmreports-2022-09-05T21:25:23.389038-05:00.hyperlinks.json) |
 | [September 5 at 9:16 AM](https://archive.org/download/apmreports-2022/apmreports-2022-09-05T09:15:49.519416-05:00.hyperlinks.json) |
-| [September 4 at 9:27 PM](https://archive.org/download/apmreports-2022/apmreports-2022-09-04T21:27:19.769216-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 194 accessibility trees with the Internet Archive.
+The archiving routine has saved 195 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 10 at 9:06 AM](https://archive.org/download/apmreports-2022/apmreports-2022-09-10T09:06:20.439977-05:00.accessibility.json) |
 | [September 9 at 9:25 PM](https://archive.org/download/apmreports-2022/apmreports-2022-09-09T21:25:37.087448-05:00.accessibility.json) |
 | [September 9 at 9:26 AM](https://archive.org/download/apmreports-2022/apmreports-2022-09-09T09:26:04.722311-05:00.accessibility.json) |
 | [September 8 at 9:29 PM](https://archive.org/download/apmreports-2022/apmreports-2022-09-08T21:29:12.072054-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 6 at 9:31 PM](https://archive.org/download/apmreports-2022/apmreports-2022-09-06T21:31:01.593744-05:00.accessibility.json) |
 | [September 5 at 9:25 PM](https://archive.org/download/apmreports-2022/apmreports-2022-09-05T21:25:23.389038-05:00.accessibility.json) |
 | [September 5 at 9:15 AM](https://archive.org/download/apmreports-2022/apmreports-2022-09-05T09:15:49.519416-05:00.accessibility.json) |
-| [September 4 at 9:27 PM](https://archive.org/download/apmreports-2022/apmreports-2022-09-04T21:27:19.769216-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 99 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 10 at 9:06 AM](https://archive.org/download/apmreports-2022/apmreports-2022-09-10T09:06:20.439977-05:00.lighthouse.json) |
 | [September 9 at 9:25 PM](https://archive.org/download/apmreports-2022/apmreports-2022-09-09T21:25:37.087448-05:00.lighthouse.json) |
 | [September 9 at 9:26 AM](https://archive.org/download/apmreports-2022/apmreports-2022-09-09T09:26:04.722311-05:00.lighthouse.json) |
 | [September 8 at 9:29 PM](https://archive.org/download/apmreports-2022/apmreports-2022-09-08T21:29:12.072054-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 6 at 9:31 PM](https://archive.org/download/apmreports-2022/apmreports-2022-09-06T21:31:01.593744-05:00.lighthouse.json) |
 | [September 5 at 9:25 PM](https://archive.org/download/apmreports-2022/apmreports-2022-09-05T21:25:23.389038-05:00.lighthouse.json) |
 | [September 5 at 9:16 AM](https://archive.org/download/apmreports-2022/apmreports-2022-09-05T09:15:49.519416-05:00.lighthouse.json) |
-| [September 4 at 9:27 PM](https://archive.org/download/apmreports-2022/apmreports-2022-09-04T21:27:19.769216-05:00.lighthouse.json) |
 
 
 

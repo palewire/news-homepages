@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 34 screenshots with the Internet Archive.
+The archiving routine has saved 35 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-10T10:14:36.315975-04:00.jpg">
+  <img src="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-10T10:14:36.315975-04:00.jpg"
+     alt="Dnyuz at 2022-09-10 10:14:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-10T10:14:36.315975-04:00.jpg">September 10 at 10:14 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-09T22:29:38.112429-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-04T10:33:27.386314-04:00.jpg">September 4 at 10:33 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-03T22:30:09.787127-04:00.jpg">
-  <img src="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-03T22:30:09.787127-04:00.jpg"
-     alt="Dnyuz at 2022-09-03 22:30:12-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-03T22:30:09.787127-04:00.jpg">September 3 at 10:30 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 33 hyperlink lists with the Internet Archive.
+The archiving routine has saved 34 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 10 at 10:14 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-10T10:14:36.315975-04:00.hyperlinks.json) |
 | [September 9 at 10:29 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-09T22:29:38.112429-04:00.hyperlinks.json) |
 | [September 9 at 10:37 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-09T10:37:14.540330-04:00.hyperlinks.json) |
 | [September 8 at 10:32 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-08T22:32:12.536806-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 6 at 10:35 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-06T22:35:16.232418-04:00.hyperlinks.json) |
 | [September 5 at 10:29 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-05T22:29:26.720686-04:00.hyperlinks.json) |
 | [September 5 at 10:26 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-05T10:26:07.600285-04:00.hyperlinks.json) |
-| [September 4 at 10:31 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-04T22:31:27.304102-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 32 accessibility trees with the Internet Archive.
+The archiving routine has saved 33 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 10 at 10:14 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-10T10:14:36.315975-04:00.accessibility.json) |
 | [September 9 at 10:29 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-09T22:29:38.112429-04:00.accessibility.json) |
 | [September 9 at 10:37 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-09T10:37:14.540330-04:00.accessibility.json) |
 | [September 8 at 10:32 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-08T22:32:12.536806-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 6 at 10:35 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-06T22:35:16.232418-04:00.accessibility.json) |
 | [September 5 at 10:29 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-05T22:29:26.720686-04:00.accessibility.json) |
 | [September 5 at 10:26 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-05T10:26:07.600285-04:00.accessibility.json) |
-| [September 4 at 10:31 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-04T22:31:27.304102-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 10 at 10:14 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-10T10:14:36.315975-04:00.lighthouse.json) |
 | [September 9 at 10:29 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-09T22:29:38.112429-04:00.lighthouse.json) |
 | [September 9 at 10:37 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-09T10:37:14.540330-04:00.lighthouse.json) |
 | [September 8 at 10:32 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-08T22:32:12.536806-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 6 at 10:35 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-06T22:35:16.232418-04:00.lighthouse.json) |
 | [September 5 at 10:29 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-05T22:29:26.720686-04:00.lighthouse.json) |
 | [September 5 at 10:26 AM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-05T10:26:07.600285-04:00.lighthouse.json) |
-| [September 4 at 10:31 PM](https://archive.org/download/dnyuzcom-2022/dnyuzcom-2022-09-04T22:31:27.304102-04:00.lighthouse.json) |
 
 
 
