@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 107 screenshots with the Internet Archive.
+The archiving routine has saved 109 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/texasobserver-2022/texasobserver-2022-09-09T20:27:55.736418-05:00.jpg">
+  <img src="https://archive.org/download/texasobserver-2022/texasobserver-2022-09-09T20:27:55.736418-05:00.jpg"
+     alt="Texas Observer at 2022-09-09 20:28:01-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/texasobserver-2022/texasobserver-2022-09-09T20:27:55.736418-05:00.jpg">September 9 at 8:28 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/texasobserver-2022/texasobserver-2022-09-09T08:24:51.984711-05:00.jpg">
+  <img src="https://archive.org/download/texasobserver-2022/texasobserver-2022-09-09T08:24:51.984711-05:00.jpg"
+     alt="Texas Observer at 2022-09-09 08:24:56-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/texasobserver-2022/texasobserver-2022-09-09T08:24:51.984711-05:00.jpg">September 9 at 8:24 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/texasobserver-2022/texasobserver-2022-09-08T20:29:07.340044-05:00.jpg">
   <img src="https://archive.org/download/texasobserver-2022/texasobserver-2022-09-08T20:29:07.340044-05:00.jpg"
      alt="Texas Observer at 2022-09-08 20:29:11-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/texasobserver-2022/texasobserver-2022-09-03T20:16:30.772718-05:00.jpg">September 3 at 8:16 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/texasobserver-2022/texasobserver-2022-09-03T08:13:19.144339-05:00.jpg">
-  <img src="https://archive.org/download/texasobserver-2022/texasobserver-2022-09-03T08:13:19.144339-05:00.jpg"
-     alt="Texas Observer at 2022-09-03 08:13:23-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/texasobserver-2022/texasobserver-2022-09-03T08:13:19.144339-05:00.jpg">September 3 at 8:13 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/texasobserver-2022/texasobserver-2022-09-02T20:24:44.849498-05:00.jpg">
-  <img src="https://archive.org/download/texasobserver-2022/texasobserver-2022-09-02T20:24:44.849498-05:00.jpg"
-     alt="Texas Observer at 2022-09-02 20:24:46-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/texasobserver-2022/texasobserver-2022-09-02T20:24:44.849498-05:00.jpg">September 2 at 8:24 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 108 hyperlink lists with the Internet Archive.
+The archiving routine has saved 110 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 9 at 8:28 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-09T20:27:55.736418-05:00.hyperlinks.json) |
+| [September 9 at 8:25 AM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-09T08:24:51.984711-05:00.hyperlinks.json) |
 | [September 8 at 8:29 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-08T20:29:07.340044-05:00.hyperlinks.json) |
 | [September 8 at 8:18 AM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-08T08:17:49.640875-05:00.hyperlinks.json) |
 | [September 7 at 8:27 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-07T20:27:35.416683-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 5 at 8:28 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-05T20:28:18.369523-05:00.hyperlinks.json) |
 | [September 5 at 9:12 AM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-05T09:12:05.893818-05:00.hyperlinks.json) |
 | [September 4 at 8:24 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-04T20:24:50.036046-05:00.hyperlinks.json) |
-| [September 4 at 7:57 AM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-04T07:57:39.453924-05:00.hyperlinks.json) |
-| [September 3 at 8:16 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-03T20:16:30.772718-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 108 accessibility trees with the Internet Archive.
+The archiving routine has saved 110 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 9 at 8:28 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-09T20:27:55.736418-05:00.accessibility.json) |
+| [September 9 at 8:24 AM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-09T08:24:51.984711-05:00.accessibility.json) |
 | [September 8 at 8:29 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-08T20:29:07.340044-05:00.accessibility.json) |
 | [September 8 at 8:18 AM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-08T08:17:49.640875-05:00.accessibility.json) |
 | [September 7 at 8:27 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-07T20:27:35.416683-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 5 at 8:28 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-05T20:28:18.369523-05:00.accessibility.json) |
 | [September 5 at 9:12 AM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-05T09:12:05.893818-05:00.accessibility.json) |
 | [September 4 at 8:24 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-04T20:24:50.036046-05:00.accessibility.json) |
-| [September 4 at 7:57 AM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-04T07:57:39.453924-05:00.accessibility.json) |
-| [September 3 at 8:16 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-03T20:16:30.772718-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 95 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 97 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 9 at 8:28 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-09T20:27:55.736418-05:00.lighthouse.json) |
+| [September 9 at 8:25 AM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-09T08:24:51.984711-05:00.lighthouse.json) |
 | [September 8 at 8:29 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-08T20:29:07.340044-05:00.lighthouse.json) |
 | [September 8 at 8:18 AM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-08T08:17:49.640875-05:00.lighthouse.json) |
 | [September 7 at 8:27 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-07T20:27:35.416683-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 5 at 8:28 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-05T20:28:18.369523-05:00.lighthouse.json) |
 | [September 5 at 9:12 AM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-05T09:12:05.893818-05:00.lighthouse.json) |
 | [September 4 at 8:25 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-04T20:24:50.036046-05:00.lighthouse.json) |
-| [September 4 at 7:57 AM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-04T07:57:39.453924-05:00.lighthouse.json) |
-| [September 3 at 8:16 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-09-03T20:16:30.772718-05:00.lighthouse.json) |
 
 
 

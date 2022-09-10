@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 194 screenshots with the Internet Archive.
+The archiving routine has saved 196 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thecityny-2022/thecityny-2022-09-09T21:28:03.255382-04:00.jpg">
+  <img src="https://archive.org/download/thecityny-2022/thecityny-2022-09-09T21:28:03.255382-04:00.jpg"
+     alt="The City at 2022-09-09 21:28:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-09-09T21:28:03.255382-04:00.jpg">September 9 at 9:28 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thecityny-2022/thecityny-2022-09-09T09:24:44.922904-04:00.jpg">
+  <img src="https://archive.org/download/thecityny-2022/thecityny-2022-09-09T09:24:44.922904-04:00.jpg"
+     alt="The City at 2022-09-09 09:24:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-09-09T09:24:44.922904-04:00.jpg">September 9 at 9:24 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thecityny-2022/thecityny-2022-09-08T21:29:05.207605-04:00.jpg">
   <img src="https://archive.org/download/thecityny-2022/thecityny-2022-09-08T21:29:05.207605-04:00.jpg"
      alt="The City at 2022-09-08 21:29:06-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-09-03T21:16:26.818170-04:00.jpg">September 3 at 9:16 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thecityny-2022/thecityny-2022-09-03T09:13:23.150021-04:00.jpg">
-  <img src="https://archive.org/download/thecityny-2022/thecityny-2022-09-03T09:13:23.150021-04:00.jpg"
-     alt="The City at 2022-09-03 09:13:27-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-09-03T09:13:23.150021-04:00.jpg">September 3 at 9:13 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thecityny-2022/thecityny-2022-09-02T21:25:28.685069-04:00.jpg">
-  <img src="https://archive.org/download/thecityny-2022/thecityny-2022-09-02T21:25:28.685069-04:00.jpg"
-     alt="The City at 2022-09-02 21:25:30-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thecityny-2022/thecityny-2022-09-02T21:25:28.685069-04:00.jpg">September 2 at 9:25 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 195 hyperlink lists with the Internet Archive.
+The archiving routine has saved 197 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 9 at 9:28 PM](https://archive.org/download/thecityny-2022/thecityny-2022-09-09T21:28:03.255382-04:00.hyperlinks.json) |
+| [September 9 at 9:25 AM](https://archive.org/download/thecityny-2022/thecityny-2022-09-09T09:24:44.922904-04:00.hyperlinks.json) |
 | [September 8 at 9:29 PM](https://archive.org/download/thecityny-2022/thecityny-2022-09-08T21:29:05.207605-04:00.hyperlinks.json) |
 | [September 8 at 9:18 AM](https://archive.org/download/thecityny-2022/thecityny-2022-09-08T09:18:13.722585-04:00.hyperlinks.json) |
 | [September 7 at 9:27 PM](https://archive.org/download/thecityny-2022/thecityny-2022-09-07T21:27:33.303963-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 5 at 9:27 PM](https://archive.org/download/thecityny-2022/thecityny-2022-09-05T21:27:38.988299-04:00.hyperlinks.json) |
 | [September 5 at 10:12 AM](https://archive.org/download/thecityny-2022/thecityny-2022-09-05T10:12:33.750507-04:00.hyperlinks.json) |
 | [September 4 at 9:25 PM](https://archive.org/download/thecityny-2022/thecityny-2022-09-04T21:25:43.746493-04:00.hyperlinks.json) |
-| [September 4 at 8:58 AM](https://archive.org/download/thecityny-2022/thecityny-2022-09-04T08:58:36.232069-04:00.hyperlinks.json) |
-| [September 3 at 9:16 PM](https://archive.org/download/thecityny-2022/thecityny-2022-09-03T21:16:26.818170-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 195 accessibility trees with the Internet Archive.
+The archiving routine has saved 197 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 9 at 9:28 PM](https://archive.org/download/thecityny-2022/thecityny-2022-09-09T21:28:03.255382-04:00.accessibility.json) |
+| [September 9 at 9:24 AM](https://archive.org/download/thecityny-2022/thecityny-2022-09-09T09:24:44.922904-04:00.accessibility.json) |
 | [September 8 at 9:29 PM](https://archive.org/download/thecityny-2022/thecityny-2022-09-08T21:29:05.207605-04:00.accessibility.json) |
 | [September 8 at 9:18 AM](https://archive.org/download/thecityny-2022/thecityny-2022-09-08T09:18:13.722585-04:00.accessibility.json) |
 | [September 7 at 9:27 PM](https://archive.org/download/thecityny-2022/thecityny-2022-09-07T21:27:33.303963-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 5 at 9:27 PM](https://archive.org/download/thecityny-2022/thecityny-2022-09-05T21:27:38.988299-04:00.accessibility.json) |
 | [September 5 at 10:12 AM](https://archive.org/download/thecityny-2022/thecityny-2022-09-05T10:12:33.750507-04:00.accessibility.json) |
 | [September 4 at 9:25 PM](https://archive.org/download/thecityny-2022/thecityny-2022-09-04T21:25:43.746493-04:00.accessibility.json) |
-| [September 4 at 8:58 AM](https://archive.org/download/thecityny-2022/thecityny-2022-09-04T08:58:36.232069-04:00.accessibility.json) |
-| [September 3 at 9:16 PM](https://archive.org/download/thecityny-2022/thecityny-2022-09-03T21:16:26.818170-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 96 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 9 at 9:28 PM](https://archive.org/download/thecityny-2022/thecityny-2022-09-09T21:28:03.255382-04:00.lighthouse.json) |
+| [September 9 at 9:25 AM](https://archive.org/download/thecityny-2022/thecityny-2022-09-09T09:24:44.922904-04:00.lighthouse.json) |
 | [September 8 at 9:29 PM](https://archive.org/download/thecityny-2022/thecityny-2022-09-08T21:29:05.207605-04:00.lighthouse.json) |
 | [September 8 at 9:18 AM](https://archive.org/download/thecityny-2022/thecityny-2022-09-08T09:18:13.722585-04:00.lighthouse.json) |
 | [September 7 at 9:27 PM](https://archive.org/download/thecityny-2022/thecityny-2022-09-07T21:27:33.303963-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 5 at 9:27 PM](https://archive.org/download/thecityny-2022/thecityny-2022-09-05T21:27:38.988299-04:00.lighthouse.json) |
 | [September 5 at 10:12 AM](https://archive.org/download/thecityny-2022/thecityny-2022-09-05T10:12:33.750507-04:00.lighthouse.json) |
 | [September 4 at 9:25 PM](https://archive.org/download/thecityny-2022/thecityny-2022-09-04T21:25:43.746493-04:00.lighthouse.json) |
-| [September 4 at 8:58 AM](https://archive.org/download/thecityny-2022/thecityny-2022-09-04T08:58:36.232069-04:00.lighthouse.json) |
-| [September 3 at 9:16 PM](https://archive.org/download/thecityny-2022/thecityny-2022-09-03T21:16:26.818170-04:00.lighthouse.json) |
 
 
 
