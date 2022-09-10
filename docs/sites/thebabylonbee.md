@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 71 screenshots with the Internet Archive.
+The archiving routine has saved 72 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 71 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-10T09:09:17.241462-04:00.jpg">
+  <img src="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-10T09:09:17.241462-04:00.jpg"
+     alt="Babylon Bee at 2022-09-10 09:09:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-10T09:09:17.241462-04:00.jpg">September 10 at 9:09 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-09T21:27:33.460569-04:00.jpg">
@@ -422,15 +431,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-04T08:58:24.745477-04:00.jpg">September 4 at 8:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-03T21:15:49.132372-04:00.jpg">
-  <img src="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-03T21:15:49.132372-04:00.jpg"
-     alt="Babylon Bee at 2022-09-03 21:15:50-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-03T21:15:49.132372-04:00.jpg">September 3 at 9:15 PM</a></p>
 </div>
 
 </div>
@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 72 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 73 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 10 at 9:09 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-10T09:09:17.241462-04:00.lighthouse.json) |
 | [September 9 at 9:27 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-09T21:27:33.460569-04:00.lighthouse.json) |
 | [September 9 at 9:25 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-09T09:25:30.283877-04:00.lighthouse.json) |
 | [September 8 at 9:29 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-08T21:29:11.267901-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 6 at 9:24 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-06T21:23:59.131729-04:00.lighthouse.json) |
 | [September 5 at 9:27 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-05T21:27:34.880189-04:00.lighthouse.json) |
 | [September 5 at 10:12 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-05T10:12:18.148275-04:00.lighthouse.json) |
-| [September 4 at 9:25 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-09-04T21:25:36.854310-04:00.lighthouse.json) |
 
 
 

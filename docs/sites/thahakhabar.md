@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 95 screenshots with the Internet Archive.
+The archiving routine has saved 96 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 95 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-10T18:55:22.419513+05:45.jpg">
+  <img src="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-10T18:55:22.419513+05:45.jpg"
+     alt="Thaha Khabar at 2022-09-10 18:55:24+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-10T18:55:22.419513+05:45.jpg">September 10 at 6:55 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-10T07:13:17.079556+05:45.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-04T18:42:49.331717+05:45.jpg">September 4 at 6:42 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-04T07:00:55.564071+05:45.jpg">
-  <img src="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-04T07:00:55.564071+05:45.jpg"
-     alt="Thaha Khabar at 2022-09-04 07:00:57+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-04T07:00:55.564071+05:45.jpg">September 4 at 7:00 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 96 hyperlink lists with the Internet Archive.
+The archiving routine has saved 97 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 10 at 6:55 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-10T18:55:22.419513+05:45.hyperlinks.json) |
 | [September 10 at 7:13 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-10T07:13:17.079556+05:45.hyperlinks.json) |
 | [September 9 at 7:09 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-09T19:09:22.196458+05:45.hyperlinks.json) |
 | [September 9 at 7:13 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-09T07:13:27.982203+05:45.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 7:08 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-07T07:08:21.563645+05:45.hyperlinks.json) |
 | [September 6 at 7:13 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-06T07:13:19.830579+05:45.hyperlinks.json) |
 | [September 5 at 7:57 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-05T19:57:07.201581+05:45.hyperlinks.json) |
-| [September 5 at 7:10 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-05T07:10:44.555236+05:45.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 96 accessibility trees with the Internet Archive.
+The archiving routine has saved 97 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 10 at 6:55 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-10T18:55:22.419513+05:45.accessibility.json) |
 | [September 10 at 7:13 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-10T07:13:17.079556+05:45.accessibility.json) |
 | [September 9 at 7:09 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-09T19:09:22.196458+05:45.accessibility.json) |
 | [September 9 at 7:13 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-09T07:13:27.982203+05:45.accessibility.json) |
@@ -436,13 +437,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 7:08 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-07T07:08:21.563645+05:45.accessibility.json) |
 | [September 6 at 7:13 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-06T07:13:19.830579+05:45.accessibility.json) |
 | [September 5 at 7:57 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-05T19:57:07.201581+05:45.accessibility.json) |
-| [September 5 at 7:10 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-05T07:10:44.555236+05:45.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 56 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 57 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,6 +533,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 10 at 6:55 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-10T18:55:22.419513+05:45.lighthouse.json) |
 | [September 9 at 7:09 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-09T19:09:22.196458+05:45.lighthouse.json) |
 | [September 9 at 7:13 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-09T07:13:27.982203+05:45.lighthouse.json) |
 | [September 8 at 7:03 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-08T19:03:07.026470+05:45.lighthouse.json) |
@@ -542,7 +543,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 5 at 7:10 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-05T07:10:44.555236+05:45.lighthouse.json) |
 | [September 4 at 7:01 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-04T07:00:55.564071+05:45.lighthouse.json) |
 | [September 3 at 6:58 PM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-03T18:58:06.785606+05:45.lighthouse.json) |
-| [September 3 at 7:10 AM](https://archive.org/download/thahakhabar-2022/thahakhabar-2022-09-03T07:10:12.532848+05:45.lighthouse.json) |
 
 
 

@@ -28,13 +28,22 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sjvwater-2022/sjvwater-2022-09-10T06:06:54.918756-07:00.jpg">
+  <img src="https://archive.org/download/sjvwater-2022/sjvwater-2022-09-10T06:06:54.918756-07:00.jpg"
+     alt="SJV Water at 2022-09-10 06:06:57-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sjvwater-2022/sjvwater-2022-09-10T06:06:54.918756-07:00.jpg">September 10 at 6:06 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sjvwater-2022/sjvwater-2022-09-09T18:25:27.553075-07:00.jpg">
@@ -135,20 +144,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sjvwater-2022/sjvwater-2022-09-04T05:56:58.985587-07:00.jpg">September 4 at 5:57 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sjvwater-2022/sjvwater-2022-09-03T18:13:53.812282-07:00.jpg">
-  <img src="https://archive.org/download/sjvwater-2022/sjvwater-2022-09-03T18:13:53.812282-07:00.jpg"
-     alt="SJV Water at 2022-09-03 18:13:56-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sjvwater-2022/sjvwater-2022-09-03T18:13:53.812282-07:00.jpg">September 3 at 6:13 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 29 hyperlink lists with the Internet Archive.
+The archiving routine has saved 30 hyperlink lists with the Internet Archive.
 
 
 
@@ -156,6 +156,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 10 at 6:07 AM](https://archive.org/download/sjvwater-2022/sjvwater-2022-09-10T06:06:54.918756-07:00.hyperlinks.json) |
 | [September 9 at 6:25 PM](https://archive.org/download/sjvwater-2022/sjvwater-2022-09-09T18:25:27.553075-07:00.hyperlinks.json) |
 | [September 9 at 6:22 AM](https://archive.org/download/sjvwater-2022/sjvwater-2022-09-09T06:22:52.387489-07:00.hyperlinks.json) |
 | [September 8 at 6:26 PM](https://archive.org/download/sjvwater-2022/sjvwater-2022-09-08T18:26:07.601627-07:00.hyperlinks.json) |
@@ -165,12 +166,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 6 at 6:21 PM](https://archive.org/download/sjvwater-2022/sjvwater-2022-09-06T18:21:25.951252-07:00.hyperlinks.json) |
 | [September 5 at 6:25 PM](https://archive.org/download/sjvwater-2022/sjvwater-2022-09-05T18:25:12.960270-07:00.hyperlinks.json) |
 | [September 5 at 7:10 AM](https://archive.org/download/sjvwater-2022/sjvwater-2022-09-05T07:10:41.253690-07:00.hyperlinks.json) |
-| [September 4 at 6:22 PM](https://archive.org/download/sjvwater-2022/sjvwater-2022-09-04T18:22:49.337307-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 29 accessibility trees with the Internet Archive.
+The archiving routine has saved 30 accessibility trees with the Internet Archive.
 
 
 
@@ -178,6 +178,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 10 at 6:06 AM](https://archive.org/download/sjvwater-2022/sjvwater-2022-09-10T06:06:54.918756-07:00.accessibility.json) |
 | [September 9 at 6:25 PM](https://archive.org/download/sjvwater-2022/sjvwater-2022-09-09T18:25:27.553075-07:00.accessibility.json) |
 | [September 9 at 6:22 AM](https://archive.org/download/sjvwater-2022/sjvwater-2022-09-09T06:22:52.387489-07:00.accessibility.json) |
 | [September 8 at 6:26 PM](https://archive.org/download/sjvwater-2022/sjvwater-2022-09-08T18:26:07.601627-07:00.accessibility.json) |
@@ -187,13 +188,12 @@ Here are the 10 most recent accessibility trees.
 | [September 6 at 6:21 PM](https://archive.org/download/sjvwater-2022/sjvwater-2022-09-06T18:21:25.951252-07:00.accessibility.json) |
 | [September 5 at 6:25 PM](https://archive.org/download/sjvwater-2022/sjvwater-2022-09-05T18:25:12.960270-07:00.accessibility.json) |
 | [September 5 at 7:10 AM](https://archive.org/download/sjvwater-2022/sjvwater-2022-09-05T07:10:41.253690-07:00.accessibility.json) |
-| [September 4 at 6:22 PM](https://archive.org/download/sjvwater-2022/sjvwater-2022-09-04T18:22:49.337307-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -201,6 +201,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 10 at 6:07 AM](https://archive.org/download/sjvwater-2022/sjvwater-2022-09-10T06:06:54.918756-07:00.lighthouse.json) |
 | [September 9 at 6:25 PM](https://archive.org/download/sjvwater-2022/sjvwater-2022-09-09T18:25:27.553075-07:00.lighthouse.json) |
 | [September 9 at 6:23 AM](https://archive.org/download/sjvwater-2022/sjvwater-2022-09-09T06:22:52.387489-07:00.lighthouse.json) |
 | [September 8 at 6:26 PM](https://archive.org/download/sjvwater-2022/sjvwater-2022-09-08T18:26:07.601627-07:00.lighthouse.json) |
@@ -210,7 +211,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 6 at 6:21 PM](https://archive.org/download/sjvwater-2022/sjvwater-2022-09-06T18:21:25.951252-07:00.lighthouse.json) |
 | [September 5 at 6:25 PM](https://archive.org/download/sjvwater-2022/sjvwater-2022-09-05T18:25:12.960270-07:00.lighthouse.json) |
 | [September 5 at 7:10 AM](https://archive.org/download/sjvwater-2022/sjvwater-2022-09-05T07:10:41.253690-07:00.lighthouse.json) |
-| [September 4 at 6:22 PM](https://archive.org/download/sjvwater-2022/sjvwater-2022-09-04T18:22:49.337307-07:00.lighthouse.json) |
 
 
 
