@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 185 screenshots with the Internet Archive.
+The archiving routine has saved 186 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 185 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-11T00:08:31.242133+09:00.jpg">
+  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-11T00:08:31.242133+09:00.jpg"
+     alt="Nikkei at 2022-09-11 00:08:37+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-11T00:08:31.242133+09:00.jpg">September 11 at 12:08 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-10T12:56:33.993915+09:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-07T11:27:40.576574+09:00.jpg">September 7 at 11:27 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-06T13:00:12.994743+09:00.jpg">
-  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-06T13:00:12.994743+09:00.jpg"
-     alt="Nikkei at 2022-09-06 13:00:14+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-06T13:00:12.994743+09:00.jpg">September 6 at 1:00 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 186 hyperlink lists with the Internet Archive.
+The archiving routine has saved 187 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 12:08 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-11T00:08:31.242133+09:00.hyperlinks.json) |
 | [September 10 at 12:56 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-10T12:56:33.993915+09:00.hyperlinks.json) |
 | [September 10 at 11:22 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-10T11:22:36.895386+09:00.hyperlinks.json) |
 | [September 10 at 1:28 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-10T01:28:38.318588+09:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 8 at 12:55 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-08T12:54:56.862811+09:00.hyperlinks.json) |
 | [September 8 at 11:27 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-08T11:27:36.096122+09:00.hyperlinks.json) |
 | [September 8 at 12:50 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-08T00:50:14.563083+09:00.hyperlinks.json) |
-| [September 7 at 12:59 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-07T12:59:04.542560+09:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 186 accessibility trees with the Internet Archive.
+The archiving routine has saved 187 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 12:08 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-11T00:08:31.242133+09:00.accessibility.json) |
 | [September 10 at 12:56 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-10T12:56:33.993915+09:00.accessibility.json) |
 | [September 10 at 11:22 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-10T11:22:36.895386+09:00.accessibility.json) |
 | [September 10 at 1:28 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-10T01:28:38.318588+09:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 8 at 12:54 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-08T12:54:56.862811+09:00.accessibility.json) |
 | [September 8 at 11:27 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-08T11:27:36.096122+09:00.accessibility.json) |
 | [September 8 at 12:50 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-08T00:50:14.563083+09:00.accessibility.json) |
-| [September 7 at 12:59 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-07T12:59:04.542560+09:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 140 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 141 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 12:08 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-11T00:08:31.242133+09:00.lighthouse.json) |
 | [September 10 at 12:56 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-10T12:56:33.993915+09:00.lighthouse.json) |
 | [September 10 at 11:22 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-10T11:22:36.895386+09:00.lighthouse.json) |
 | [September 10 at 1:28 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-10T01:28:38.318588+09:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 8 at 12:55 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-08T12:54:56.862811+09:00.lighthouse.json) |
 | [September 8 at 11:27 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-08T11:27:36.096122+09:00.lighthouse.json) |
 | [September 8 at 12:50 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-08T00:50:14.563083+09:00.lighthouse.json) |
-| [September 7 at 12:59 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-07T12:59:04.542560+09:00.lighthouse.json) |
 
 
 

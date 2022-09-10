@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 102 screenshots with the Internet Archive.
+The archiving routine has saved 103 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 102 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lancenet-2022/lancenet-2022-09-10T12:04:17.958364-03:00.jpg">
+  <img src="https://archive.org/download/lancenet-2022/lancenet-2022-09-10T12:04:17.958364-03:00.jpg"
+     alt="Lance at 2022-09-10 12:04:19-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-09-10T12:04:17.958364-03:00.jpg">September 10 at 12:04 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lancenet-2022/lancenet-2022-09-10T09:03:21.294165-03:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-09-07T00:55:03.981174-03:00.jpg">September 7 at 12:55 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lancenet-2022/lancenet-2022-09-06T00:54:59.863352-03:00.jpg">
-  <img src="https://archive.org/download/lancenet-2022/lancenet-2022-09-06T00:54:59.863352-03:00.jpg"
-     alt="Lance at 2022-09-06 00:55:04-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lancenet-2022/lancenet-2022-09-06T00:54:59.863352-03:00.jpg">September 6 at 12:55 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 101 hyperlink lists with the Internet Archive.
+The archiving routine has saved 102 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 10 at 12:04 PM](https://archive.org/download/lancenet-2022/lancenet-2022-09-10T12:04:17.958364-03:00.hyperlinks.json) |
 | [September 10 at 9:03 AM](https://archive.org/download/lancenet-2022/lancenet-2022-09-10T09:03:21.294165-03:00.hyperlinks.json) |
 | [September 10 at 12:52 AM](https://archive.org/download/lancenet-2022/lancenet-2022-09-10T00:52:08.277942-03:00.hyperlinks.json) |
 | [September 9 at 1:26 PM](https://archive.org/download/lancenet-2022/lancenet-2022-09-09T13:26:33.915381-03:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 8 at 9:10 AM](https://archive.org/download/lancenet-2022/lancenet-2022-09-08T09:10:26.339229-03:00.hyperlinks.json) |
 | [September 8 at 12:50 AM](https://archive.org/download/lancenet-2022/lancenet-2022-09-08T00:49:57.994460-03:00.hyperlinks.json) |
 | [September 7 at 12:46 PM](https://archive.org/download/lancenet-2022/lancenet-2022-09-07T12:46:44.543891-03:00.hyperlinks.json) |
-| [September 7 at 10:35 AM](https://archive.org/download/lancenet-2022/lancenet-2022-09-07T10:35:26.236396-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 102 accessibility trees with the Internet Archive.
+The archiving routine has saved 103 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 10 at 12:04 PM](https://archive.org/download/lancenet-2022/lancenet-2022-09-10T12:04:17.958364-03:00.accessibility.json) |
 | [September 10 at 9:03 AM](https://archive.org/download/lancenet-2022/lancenet-2022-09-10T09:03:21.294165-03:00.accessibility.json) |
 | [September 10 at 12:52 AM](https://archive.org/download/lancenet-2022/lancenet-2022-09-10T00:52:08.277942-03:00.accessibility.json) |
 | [September 9 at 1:26 PM](https://archive.org/download/lancenet-2022/lancenet-2022-09-09T13:26:33.915381-03:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 8 at 9:10 AM](https://archive.org/download/lancenet-2022/lancenet-2022-09-08T09:10:26.339229-03:00.accessibility.json) |
 | [September 8 at 12:50 AM](https://archive.org/download/lancenet-2022/lancenet-2022-09-08T00:49:57.994460-03:00.accessibility.json) |
 | [September 7 at 12:46 PM](https://archive.org/download/lancenet-2022/lancenet-2022-09-07T12:46:44.543891-03:00.accessibility.json) |
-| [September 7 at 10:35 AM](https://archive.org/download/lancenet-2022/lancenet-2022-09-07T10:35:26.236396-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 102 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 103 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 10 at 12:04 PM](https://archive.org/download/lancenet-2022/lancenet-2022-09-10T12:04:17.958364-03:00.lighthouse.json) |
 | [September 10 at 9:03 AM](https://archive.org/download/lancenet-2022/lancenet-2022-09-10T09:03:21.294165-03:00.lighthouse.json) |
 | [September 10 at 12:52 AM](https://archive.org/download/lancenet-2022/lancenet-2022-09-10T00:52:08.277942-03:00.lighthouse.json) |
 | [September 9 at 1:26 PM](https://archive.org/download/lancenet-2022/lancenet-2022-09-09T13:26:33.915381-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 8 at 9:11 AM](https://archive.org/download/lancenet-2022/lancenet-2022-09-08T09:10:26.339229-03:00.lighthouse.json) |
 | [September 8 at 12:50 AM](https://archive.org/download/lancenet-2022/lancenet-2022-09-08T00:49:57.994460-03:00.lighthouse.json) |
 | [September 7 at 12:46 PM](https://archive.org/download/lancenet-2022/lancenet-2022-09-07T12:46:44.543891-03:00.lighthouse.json) |
-| [September 7 at 10:35 AM](https://archive.org/download/lancenet-2022/lancenet-2022-09-07T10:35:26.236396-03:00.lighthouse.json) |
 
 
 

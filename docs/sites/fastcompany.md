@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 135 screenshots with the Internet Archive.
+The archiving routine has saved 136 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 135 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-09-10T11:01:29.828949-04:00.jpg">
+  <img src="https://archive.org/download/fastcompany-2022/fastcompany-2022-09-10T11:01:29.828949-04:00.jpg"
+     alt="Fast Company at 2022-09-10 11:01:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-09-10T11:01:29.828949-04:00.jpg">September 10 at 11:01 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-09-09T23:51:02.540992-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-09-04T12:33:19.888978-04:00.jpg">September 4 at 12:33 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-09-03T23:41:32.640341-04:00.jpg">
-  <img src="https://archive.org/download/fastcompany-2022/fastcompany-2022-09-03T23:41:32.640341-04:00.jpg"
-     alt="Fast Company at 2022-09-03 23:41:34-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-09-03T23:41:32.640341-04:00.jpg">September 3 at 11:41 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 127 hyperlink lists with the Internet Archive.
+The archiving routine has saved 128 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 10 at 11:01 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-09-10T11:01:29.828949-04:00.hyperlinks.json) |
 | [September 9 at 11:51 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-09-09T23:51:02.540992-04:00.hyperlinks.json) |
 | [September 9 at 12:22 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-09-09T12:21:56.396305-04:00.hyperlinks.json) |
 | [September 9 at 12:44 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-09-09T00:44:00.298441-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 6 at 11:52 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-09-06T23:52:33.393968-04:00.hyperlinks.json) |
 | [September 5 at 11:52 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-09-05T23:52:39.140052-04:00.hyperlinks.json) |
 | [September 5 at 12:13 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-09-05T12:13:34.488448-04:00.hyperlinks.json) |
-| [September 4 at 11:40 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-09-04T23:40:46.569704-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 130 accessibility trees with the Internet Archive.
+The archiving routine has saved 131 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 10 at 11:01 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-09-10T11:01:29.828949-04:00.accessibility.json) |
 | [September 9 at 11:51 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-09-09T23:51:02.540992-04:00.accessibility.json) |
 | [September 9 at 12:22 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-09-09T12:21:56.396305-04:00.accessibility.json) |
 | [September 9 at 12:44 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-09-09T00:44:00.298441-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 6 at 11:52 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-09-06T23:52:33.393968-04:00.accessibility.json) |
 | [September 5 at 11:52 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-09-05T23:52:39.140052-04:00.accessibility.json) |
 | [September 5 at 12:13 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-09-05T12:13:34.488448-04:00.accessibility.json) |
-| [September 4 at 11:40 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-09-04T23:40:46.569704-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 95 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 96 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 10 at 11:01 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-09-10T11:01:29.828949-04:00.lighthouse.json) |
 | [September 9 at 11:51 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-09-09T23:51:02.540992-04:00.lighthouse.json) |
 | [September 9 at 12:22 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-09-09T12:21:56.396305-04:00.lighthouse.json) |
 | [September 9 at 12:44 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-09-09T00:44:00.298441-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 6 at 11:52 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-09-06T23:52:33.393968-04:00.lighthouse.json) |
 | [September 5 at 11:52 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-09-05T23:52:39.140052-04:00.lighthouse.json) |
 | [September 5 at 12:13 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-09-05T12:13:34.488448-04:00.lighthouse.json) |
-| [September 4 at 11:41 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-09-04T23:40:46.569704-04:00.lighthouse.json) |
 
 
 
