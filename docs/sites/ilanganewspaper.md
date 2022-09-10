@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 34 screenshots with the Internet Archive.
+The archiving routine has saved 37 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-10T02:03:17.745697+02:00.jpg">
+  <img src="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-10T02:03:17.745697+02:00.jpg"
+     alt="Ilanga at 2022-09-10 02:03:20+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-10T02:03:17.745697+02:00.jpg">September 10 at 2:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-09T14:14:52.092597+02:00.jpg">
+  <img src="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-09T14:14:52.092597+02:00.jpg"
+     alt="Ilanga at 2022-09-09 14:14:55+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-09T14:14:52.092597+02:00.jpg">September 9 at 2:14 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-09T02:04:41.147266+02:00.jpg">
+  <img src="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-09T02:04:41.147266+02:00.jpg"
+     alt="Ilanga at 2022-09-09 02:04:44+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-09T02:04:41.147266+02:00.jpg">September 9 at 2:04 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-08T14:22:17.987766+02:00.jpg">
   <img src="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-08T14:22:17.987766+02:00.jpg"
      alt="Ilanga at 2022-09-08 14:22:19+02:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-04T01:45:42.068302+02:00.jpg">September 4 at 1:45 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-03T14:02:11.425240+02:00.jpg">
-  <img src="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-03T14:02:11.425240+02:00.jpg"
-     alt="Ilanga at 2022-09-03 14:02:13+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-03T14:02:11.425240+02:00.jpg">September 3 at 2:02 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-03T01:58:22.039152+02:00.jpg">
-  <img src="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-03T01:58:22.039152+02:00.jpg"
-     alt="Ilanga at 2022-09-03 01:58:24+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-03T01:58:22.039152+02:00.jpg">September 3 at 1:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-02T14:01:43.933281+02:00.jpg">
-  <img src="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-02T14:01:43.933281+02:00.jpg"
-     alt="Ilanga at 2022-09-02 14:01:45+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-02T14:01:43.933281+02:00.jpg">September 2 at 2:01 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 35 hyperlink lists with the Internet Archive.
+The archiving routine has saved 38 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 10 at 2:03 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-10T02:03:17.745697+02:00.hyperlinks.json) |
+| [September 9 at 2:14 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-09T14:14:52.092597+02:00.hyperlinks.json) |
+| [September 9 at 2:04 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-09T02:04:41.147266+02:00.hyperlinks.json) |
 | [September 8 at 2:22 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-08T14:22:17.987766+02:00.hyperlinks.json) |
 | [September 8 at 1:53 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-08T01:53:24.242436+02:00.hyperlinks.json) |
 | [September 7 at 2:40 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-07T14:40:29.220875+02:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 6 at 2:03 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-06T14:03:00.565704+02:00.hyperlinks.json) |
 | [September 6 at 1:55 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-06T01:55:39.191611+02:00.hyperlinks.json) |
 | [September 5 at 2:18 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-05T14:18:39.112574+02:00.hyperlinks.json) |
-| [September 5 at 1:51 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-05T01:51:33.090832+02:00.hyperlinks.json) |
-| [September 4 at 1:54 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-04T13:54:40.203597+02:00.hyperlinks.json) |
-| [September 4 at 1:45 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-04T01:45:42.068302+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 35 accessibility trees with the Internet Archive.
+The archiving routine has saved 38 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 10 at 2:03 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-10T02:03:17.745697+02:00.accessibility.json) |
+| [September 9 at 2:14 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-09T14:14:52.092597+02:00.accessibility.json) |
+| [September 9 at 2:04 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-09T02:04:41.147266+02:00.accessibility.json) |
 | [September 8 at 2:22 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-08T14:22:17.987766+02:00.accessibility.json) |
 | [September 8 at 1:53 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-08T01:53:24.242436+02:00.accessibility.json) |
 | [September 7 at 2:40 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-07T14:40:29.220875+02:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 6 at 2:03 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-06T14:03:00.565704+02:00.accessibility.json) |
 | [September 6 at 1:55 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-06T01:55:39.191611+02:00.accessibility.json) |
 | [September 5 at 2:18 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-05T14:18:39.112574+02:00.accessibility.json) |
-| [September 5 at 1:51 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-05T01:51:33.090832+02:00.accessibility.json) |
-| [September 4 at 1:54 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-04T13:54:40.203597+02:00.accessibility.json) |
-| [September 4 at 1:45 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-04T01:45:42.068302+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 38 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 10 at 2:03 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-10T02:03:17.745697+02:00.lighthouse.json) |
+| [September 9 at 2:15 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-09T14:14:52.092597+02:00.lighthouse.json) |
+| [September 9 at 2:04 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-09T02:04:41.147266+02:00.lighthouse.json) |
 | [September 8 at 2:22 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-08T14:22:17.987766+02:00.lighthouse.json) |
 | [September 8 at 1:53 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-08T01:53:24.242436+02:00.lighthouse.json) |
 | [September 7 at 2:40 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-07T14:40:29.220875+02:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 6 at 2:03 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-06T14:03:00.565704+02:00.lighthouse.json) |
 | [September 6 at 1:55 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-06T01:55:39.191611+02:00.lighthouse.json) |
 | [September 5 at 2:18 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-05T14:18:39.112574+02:00.lighthouse.json) |
-| [September 5 at 1:51 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-05T01:51:33.090832+02:00.lighthouse.json) |
-| [September 4 at 1:54 PM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-04T13:54:40.203597+02:00.lighthouse.json) |
-| [September 4 at 1:45 AM](https://archive.org/download/ilanganewspaper-2022/ilanganewspaper-2022-09-04T01:45:42.068302+02:00.lighthouse.json) |
 
 
 

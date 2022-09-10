@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 77 screenshots with the Internet Archive.
+The archiving routine has saved 80 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/lex18news-2022/lex18news-2022-09-09T20:07:35.718647-04:00.jpg">
+  <img src="https://archive.org/download/lex18news-2022/lex18news-2022-09-09T20:07:35.718647-04:00.jpg"
+     alt="LEX 18 News at 2022-09-09 20:07:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lex18news-2022/lex18news-2022-09-09T20:07:35.718647-04:00.jpg">September 9 at 8:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lex18news-2022/lex18news-2022-09-09T08:16:46.435767-04:00.jpg">
+  <img src="https://archive.org/download/lex18news-2022/lex18news-2022-09-09T08:16:46.435767-04:00.jpg"
+     alt="LEX 18 News at 2022-09-09 08:16:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lex18news-2022/lex18news-2022-09-09T08:16:46.435767-04:00.jpg">September 9 at 8:16 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lex18news-2022/lex18news-2022-09-08T20:08:01.931643-04:00.jpg">
+  <img src="https://archive.org/download/lex18news-2022/lex18news-2022-09-08T20:08:01.931643-04:00.jpg"
+     alt="LEX 18 News at 2022-09-08 20:08:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lex18news-2022/lex18news-2022-09-08T20:08:01.931643-04:00.jpg">September 8 at 8:08 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/lex18news-2022/lex18news-2022-09-08T08:24:14.240165-04:00.jpg">
   <img src="https://archive.org/download/lex18news-2022/lex18news-2022-09-08T08:24:14.240165-04:00.jpg"
      alt="LEX 18 News at 2022-09-08 08:24:17-04:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lex18news-2022/lex18news-2022-09-03T08:04:23.643778-04:00.jpg">September 3 at 8:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lex18news-2022/lex18news-2022-09-02T20:00:27.003814-04:00.jpg">
-  <img src="https://archive.org/download/lex18news-2022/lex18news-2022-09-02T20:00:27.003814-04:00.jpg"
-     alt="LEX 18 News at 2022-09-02 20:00:31-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lex18news-2022/lex18news-2022-09-02T20:00:27.003814-04:00.jpg">September 2 at 8:00 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lex18news-2022/lex18news-2022-09-02T08:05:10.254175-04:00.jpg">
-  <img src="https://archive.org/download/lex18news-2022/lex18news-2022-09-02T08:05:10.254175-04:00.jpg"
-     alt="LEX 18 News at 2022-09-02 08:05:13-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lex18news-2022/lex18news-2022-09-02T08:05:10.254175-04:00.jpg">September 2 at 8:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lex18news-2022/lex18news-2022-09-01T20:01:45.617671-04:00.jpg">
-  <img src="https://archive.org/download/lex18news-2022/lex18news-2022-09-01T20:01:45.617671-04:00.jpg"
-     alt="LEX 18 News at 2022-09-01 20:01:46-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lex18news-2022/lex18news-2022-09-01T20:01:45.617671-04:00.jpg">September 1 at 8:01 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 68 hyperlink lists with the Internet Archive.
+The archiving routine has saved 71 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 9 at 8:07 PM](https://archive.org/download/lex18news-2022/lex18news-2022-09-09T20:07:35.718647-04:00.hyperlinks.json) |
+| [September 9 at 8:17 AM](https://archive.org/download/lex18news-2022/lex18news-2022-09-09T08:16:46.435767-04:00.hyperlinks.json) |
+| [September 8 at 8:08 PM](https://archive.org/download/lex18news-2022/lex18news-2022-09-08T20:08:01.931643-04:00.hyperlinks.json) |
 | [September 8 at 8:24 AM](https://archive.org/download/lex18news-2022/lex18news-2022-09-08T08:24:14.240165-04:00.hyperlinks.json) |
 | [September 7 at 7:57 PM](https://archive.org/download/lex18news-2022/lex18news-2022-09-07T19:57:30.222077-04:00.hyperlinks.json) |
 | [September 7 at 8:42 AM](https://archive.org/download/lex18news-2022/lex18news-2022-09-07T08:42:26.747088-04:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 5 at 7:59 PM](https://archive.org/download/lex18news-2022/lex18news-2022-09-05T19:59:12.269606-04:00.hyperlinks.json) |
 | [September 5 at 8:21 AM](https://archive.org/download/lex18news-2022/lex18news-2022-09-05T08:21:16.860004-04:00.hyperlinks.json) |
 | [September 4 at 7:56 PM](https://archive.org/download/lex18news-2022/lex18news-2022-09-04T19:55:57.965935-04:00.hyperlinks.json) |
-| [September 4 at 7:58 AM](https://archive.org/download/lex18news-2022/lex18news-2022-09-04T07:58:03.093796-04:00.hyperlinks.json) |
-| [September 3 at 7:49 PM](https://archive.org/download/lex18news-2022/lex18news-2022-09-03T19:49:08.464895-04:00.hyperlinks.json) |
-| [September 3 at 8:04 AM](https://archive.org/download/lex18news-2022/lex18news-2022-09-03T08:04:23.643778-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 66 accessibility trees with the Internet Archive.
+The archiving routine has saved 69 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 9 at 8:07 PM](https://archive.org/download/lex18news-2022/lex18news-2022-09-09T20:07:35.718647-04:00.accessibility.json) |
+| [September 9 at 8:16 AM](https://archive.org/download/lex18news-2022/lex18news-2022-09-09T08:16:46.435767-04:00.accessibility.json) |
+| [September 8 at 8:08 PM](https://archive.org/download/lex18news-2022/lex18news-2022-09-08T20:08:01.931643-04:00.accessibility.json) |
 | [September 8 at 8:24 AM](https://archive.org/download/lex18news-2022/lex18news-2022-09-08T08:24:14.240165-04:00.accessibility.json) |
 | [September 7 at 7:57 PM](https://archive.org/download/lex18news-2022/lex18news-2022-09-07T19:57:30.222077-04:00.accessibility.json) |
 | [September 7 at 8:42 AM](https://archive.org/download/lex18news-2022/lex18news-2022-09-07T08:42:26.747088-04:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 5 at 7:59 PM](https://archive.org/download/lex18news-2022/lex18news-2022-09-05T19:59:12.269606-04:00.accessibility.json) |
 | [September 5 at 8:21 AM](https://archive.org/download/lex18news-2022/lex18news-2022-09-05T08:21:16.860004-04:00.accessibility.json) |
 | [September 4 at 7:56 PM](https://archive.org/download/lex18news-2022/lex18news-2022-09-04T19:55:57.965935-04:00.accessibility.json) |
-| [September 4 at 7:58 AM](https://archive.org/download/lex18news-2022/lex18news-2022-09-04T07:58:03.093796-04:00.accessibility.json) |
-| [September 3 at 7:49 PM](https://archive.org/download/lex18news-2022/lex18news-2022-09-03T19:49:08.464895-04:00.accessibility.json) |
-| [September 3 at 8:04 AM](https://archive.org/download/lex18news-2022/lex18news-2022-09-03T08:04:23.643778-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 78 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 81 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 9 at 8:07 PM](https://archive.org/download/lex18news-2022/lex18news-2022-09-09T20:07:35.718647-04:00.lighthouse.json) |
+| [September 9 at 8:17 AM](https://archive.org/download/lex18news-2022/lex18news-2022-09-09T08:16:46.435767-04:00.lighthouse.json) |
+| [September 8 at 8:08 PM](https://archive.org/download/lex18news-2022/lex18news-2022-09-08T20:08:01.931643-04:00.lighthouse.json) |
 | [September 8 at 8:24 AM](https://archive.org/download/lex18news-2022/lex18news-2022-09-08T08:24:14.240165-04:00.lighthouse.json) |
 | [September 7 at 7:57 PM](https://archive.org/download/lex18news-2022/lex18news-2022-09-07T19:57:30.222077-04:00.lighthouse.json) |
 | [September 7 at 8:42 AM](https://archive.org/download/lex18news-2022/lex18news-2022-09-07T08:42:26.747088-04:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 5 at 7:59 PM](https://archive.org/download/lex18news-2022/lex18news-2022-09-05T19:59:12.269606-04:00.lighthouse.json) |
 | [September 5 at 8:21 AM](https://archive.org/download/lex18news-2022/lex18news-2022-09-05T08:21:16.860004-04:00.lighthouse.json) |
 | [September 4 at 7:56 PM](https://archive.org/download/lex18news-2022/lex18news-2022-09-04T19:55:57.965935-04:00.lighthouse.json) |
-| [September 4 at 7:58 AM](https://archive.org/download/lex18news-2022/lex18news-2022-09-04T07:58:03.093796-04:00.lighthouse.json) |
-| [September 3 at 7:49 PM](https://archive.org/download/lex18news-2022/lex18news-2022-09-03T19:49:08.464895-04:00.lighthouse.json) |
-| [September 3 at 8:04 AM](https://archive.org/download/lex18news-2022/lex18news-2022-09-03T08:04:23.643778-04:00.lighthouse.json) |
 
 
 

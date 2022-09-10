@@ -28,13 +28,40 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 9 screenshots with the Internet Archive.
+The archiving routine has saved 12 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/forbes-2022/forbes-2022-09-09T20:02:59.550115-04:00.jpg">
+  <img src="https://archive.org/download/forbes-2022/forbes-2022-09-09T20:02:59.550115-04:00.jpg"
+     alt="Forbes at 2022-09-09 20:03:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/forbes-2022/forbes-2022-09-09T20:02:59.550115-04:00.jpg">September 9 at 8:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/forbes-2022/forbes-2022-09-09T08:12:41.300185-04:00.jpg">
+  <img src="https://archive.org/download/forbes-2022/forbes-2022-09-09T08:12:41.300185-04:00.jpg"
+     alt="Forbes at 2022-09-09 08:12:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/forbes-2022/forbes-2022-09-09T08:12:41.300185-04:00.jpg">September 9 at 8:12 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/forbes-2022/forbes-2022-09-08T20:03:26.969909-04:00.jpg">
+  <img src="https://archive.org/download/forbes-2022/forbes-2022-09-08T20:03:26.969909-04:00.jpg"
+     alt="Forbes at 2022-09-08 20:03:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/forbes-2022/forbes-2022-09-08T20:03:26.969909-04:00.jpg">September 8 at 8:03 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/forbes-2022/forbes-2022-09-08T08:15:04.355334-04:00.jpg">
@@ -121,7 +148,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 9 hyperlink lists with the Internet Archive.
+The archiving routine has saved 12 hyperlink lists with the Internet Archive.
 
 
 
@@ -129,6 +156,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 9 at 8:03 PM](https://archive.org/download/forbes-2022/forbes-2022-09-09T20:02:59.550115-04:00.hyperlinks.json) |
+| [September 9 at 8:12 AM](https://archive.org/download/forbes-2022/forbes-2022-09-09T08:12:41.300185-04:00.hyperlinks.json) |
+| [September 8 at 8:03 PM](https://archive.org/download/forbes-2022/forbes-2022-09-08T20:03:26.969909-04:00.hyperlinks.json) |
 | [September 8 at 8:15 AM](https://archive.org/download/forbes-2022/forbes-2022-09-08T08:15:04.355334-04:00.hyperlinks.json) |
 | [September 7 at 7:53 PM](https://archive.org/download/forbes-2022/forbes-2022-09-07T19:53:45.655452-04:00.hyperlinks.json) |
 | [September 7 at 8:31 AM](https://archive.org/download/forbes-2022/forbes-2022-09-07T08:31:06.669625-04:00.hyperlinks.json) |
@@ -136,13 +166,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 6 at 7:59 AM](https://archive.org/download/forbes-2022/forbes-2022-09-06T07:59:12.538465-04:00.hyperlinks.json) |
 | [September 5 at 7:55 PM](https://archive.org/download/forbes-2022/forbes-2022-09-05T19:55:08.096561-04:00.hyperlinks.json) |
 | [September 5 at 8:16 AM](https://archive.org/download/forbes-2022/forbes-2022-09-05T08:16:48.832114-04:00.hyperlinks.json) |
-| [September 4 at 7:51 PM](https://archive.org/download/forbes-2022/forbes-2022-09-04T19:51:37.564099-04:00.hyperlinks.json) |
-| [September 4 at 7:54 AM](https://archive.org/download/forbes-2022/forbes-2022-09-04T07:54:05.296466-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 9 accessibility trees with the Internet Archive.
+The archiving routine has saved 12 accessibility trees with the Internet Archive.
 
 
 
@@ -150,6 +178,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 9 at 8:03 PM](https://archive.org/download/forbes-2022/forbes-2022-09-09T20:02:59.550115-04:00.accessibility.json) |
+| [September 9 at 8:12 AM](https://archive.org/download/forbes-2022/forbes-2022-09-09T08:12:41.300185-04:00.accessibility.json) |
+| [September 8 at 8:03 PM](https://archive.org/download/forbes-2022/forbes-2022-09-08T20:03:26.969909-04:00.accessibility.json) |
 | [September 8 at 8:15 AM](https://archive.org/download/forbes-2022/forbes-2022-09-08T08:15:04.355334-04:00.accessibility.json) |
 | [September 7 at 7:53 PM](https://archive.org/download/forbes-2022/forbes-2022-09-07T19:53:45.655452-04:00.accessibility.json) |
 | [September 7 at 8:31 AM](https://archive.org/download/forbes-2022/forbes-2022-09-07T08:31:06.669625-04:00.accessibility.json) |
@@ -157,14 +188,12 @@ Here are the 10 most recent accessibility trees.
 | [September 6 at 7:59 AM](https://archive.org/download/forbes-2022/forbes-2022-09-06T07:59:12.538465-04:00.accessibility.json) |
 | [September 5 at 7:55 PM](https://archive.org/download/forbes-2022/forbes-2022-09-05T19:55:08.096561-04:00.accessibility.json) |
 | [September 5 at 8:16 AM](https://archive.org/download/forbes-2022/forbes-2022-09-05T08:16:48.832114-04:00.accessibility.json) |
-| [September 4 at 7:51 PM](https://archive.org/download/forbes-2022/forbes-2022-09-04T19:51:37.564099-04:00.accessibility.json) |
-| [September 4 at 7:54 AM](https://archive.org/download/forbes-2022/forbes-2022-09-04T07:54:05.296466-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
 
 
 
@@ -172,6 +201,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 9 at 8:03 PM](https://archive.org/download/forbes-2022/forbes-2022-09-09T20:02:59.550115-04:00.lighthouse.json) |
+| [September 9 at 8:12 AM](https://archive.org/download/forbes-2022/forbes-2022-09-09T08:12:41.300185-04:00.lighthouse.json) |
+| [September 8 at 8:03 PM](https://archive.org/download/forbes-2022/forbes-2022-09-08T20:03:26.969909-04:00.lighthouse.json) |
 | [September 8 at 8:15 AM](https://archive.org/download/forbes-2022/forbes-2022-09-08T08:15:04.355334-04:00.lighthouse.json) |
 | [September 7 at 7:53 PM](https://archive.org/download/forbes-2022/forbes-2022-09-07T19:53:45.655452-04:00.lighthouse.json) |
 | [September 7 at 8:31 AM](https://archive.org/download/forbes-2022/forbes-2022-09-07T08:31:06.669625-04:00.lighthouse.json) |
@@ -179,8 +211,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 6 at 7:59 AM](https://archive.org/download/forbes-2022/forbes-2022-09-06T07:59:12.538465-04:00.lighthouse.json) |
 | [September 5 at 7:55 PM](https://archive.org/download/forbes-2022/forbes-2022-09-05T19:55:08.096561-04:00.lighthouse.json) |
 | [September 5 at 8:16 AM](https://archive.org/download/forbes-2022/forbes-2022-09-05T08:16:48.832114-04:00.lighthouse.json) |
-| [September 4 at 7:51 PM](https://archive.org/download/forbes-2022/forbes-2022-09-04T19:51:37.564099-04:00.lighthouse.json) |
-| [September 4 at 7:54 AM](https://archive.org/download/forbes-2022/forbes-2022-09-04T07:54:05.296466-04:00.lighthouse.json) |
 
 
 

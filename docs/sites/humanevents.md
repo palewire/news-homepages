@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 342 screenshots with the Internet Archive.
+The archiving routine has saved 343 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 342 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/humanevents-2022/humanevents-2022-09-09T20:03:16.436934-04:00.jpg">
+  <img src="https://archive.org/download/humanevents-2022/humanevents-2022-09-09T20:03:16.436934-04:00.jpg"
+     alt="Human Events at 2022-09-09 20:03:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-09-09T20:03:16.436934-04:00.jpg">September 9 at 8:03 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/humanevents-2022/humanevents-2022-09-09T14:34:16.173496-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-09-05T08:18:16.055043-04:00.jpg">September 5 at 8:18 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/humanevents-2022/humanevents-2022-09-04T19:51:47.946142-04:00.jpg">
-  <img src="https://archive.org/download/humanevents-2022/humanevents-2022-09-04T19:51:47.946142-04:00.jpg"
-     alt="Human Events at 2022-09-04 19:51:56-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/humanevents-2022/humanevents-2022-09-04T19:51:47.946142-04:00.jpg">September 4 at 7:51 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 339 hyperlink lists with the Internet Archive.
+The archiving routine has saved 340 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 9 at 8:03 PM](https://archive.org/download/humanevents-2022/humanevents-2022-09-09T20:03:16.436934-04:00.hyperlinks.json) |
 | [September 9 at 2:34 PM](https://archive.org/download/humanevents-2022/humanevents-2022-09-09T14:34:16.173496-04:00.hyperlinks.json) |
 | [September 9 at 8:14 AM](https://archive.org/download/humanevents-2022/humanevents-2022-09-09T08:14:34.631977-04:00.hyperlinks.json) |
 | [September 8 at 8:05 PM](https://archive.org/download/humanevents-2022/humanevents-2022-09-08T20:05:14.212658-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 6 at 8:09 PM](https://archive.org/download/humanevents-2022/humanevents-2022-09-06T20:08:57.327189-04:00.hyperlinks.json) |
 | [September 6 at 8:01 AM](https://archive.org/download/humanevents-2022/humanevents-2022-09-06T08:00:58.493537-04:00.hyperlinks.json) |
 | [September 5 at 7:54 PM](https://archive.org/download/humanevents-2022/humanevents-2022-09-05T19:54:47.345662-04:00.hyperlinks.json) |
-| [September 5 at 2:36 PM](https://archive.org/download/humanevents-2022/humanevents-2022-09-05T14:36:44.588430-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 337 accessibility trees with the Internet Archive.
+The archiving routine has saved 338 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 9 at 8:03 PM](https://archive.org/download/humanevents-2022/humanevents-2022-09-09T20:03:16.436934-04:00.accessibility.json) |
 | [September 9 at 2:34 PM](https://archive.org/download/humanevents-2022/humanevents-2022-09-09T14:34:16.173496-04:00.accessibility.json) |
 | [September 9 at 8:14 AM](https://archive.org/download/humanevents-2022/humanevents-2022-09-09T08:14:34.631977-04:00.accessibility.json) |
 | [September 8 at 8:05 PM](https://archive.org/download/humanevents-2022/humanevents-2022-09-08T20:05:14.212658-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 6 at 8:09 PM](https://archive.org/download/humanevents-2022/humanevents-2022-09-06T20:08:57.327189-04:00.accessibility.json) |
 | [September 6 at 8:01 AM](https://archive.org/download/humanevents-2022/humanevents-2022-09-06T08:00:58.493537-04:00.accessibility.json) |
 | [September 5 at 7:54 PM](https://archive.org/download/humanevents-2022/humanevents-2022-09-05T19:54:47.345662-04:00.accessibility.json) |
-| [September 5 at 2:36 PM](https://archive.org/download/humanevents-2022/humanevents-2022-09-05T14:36:44.588430-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 141 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 142 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 9 at 8:03 PM](https://archive.org/download/humanevents-2022/humanevents-2022-09-09T20:03:16.436934-04:00.lighthouse.json) |
 | [September 9 at 2:34 PM](https://archive.org/download/humanevents-2022/humanevents-2022-09-09T14:34:16.173496-04:00.lighthouse.json) |
 | [September 9 at 8:14 AM](https://archive.org/download/humanevents-2022/humanevents-2022-09-09T08:14:34.631977-04:00.lighthouse.json) |
 | [September 8 at 8:05 PM](https://archive.org/download/humanevents-2022/humanevents-2022-09-08T20:05:14.212658-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 8:40 AM](https://archive.org/download/humanevents-2022/humanevents-2022-09-07T08:39:54.050492-04:00.lighthouse.json) |
 | [September 6 at 8:09 PM](https://archive.org/download/humanevents-2022/humanevents-2022-09-06T20:08:57.327189-04:00.lighthouse.json) |
 | [September 6 at 8:01 AM](https://archive.org/download/humanevents-2022/humanevents-2022-09-06T08:00:58.493537-04:00.lighthouse.json) |
-| [September 5 at 7:54 PM](https://archive.org/download/humanevents-2022/humanevents-2022-09-05T19:54:47.345662-04:00.lighthouse.json) |
 
 
 
