@@ -1,5 +1,5 @@
 {
-  "created": 1662639811,
+  "created": 1662768400,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/13/items/ksnnews-2022",
@@ -4480,31 +4480,217 @@
       "sha1": "8d220ca57b14523d63debc9f766dee33ff067321"
     },
     {
+      "name": "ksnnews-2022-09-08T19:07:20.112317-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662682047",
+      "size": "45853",
+      "md5": "4ee6c2120aa191e777af030e3dd6e625",
+      "crc32": "6d3c165f",
+      "sha1": "9247f8d2b1e90051f419ba6d1c0a40c232df234d",
+      "format": "JSON"
+    },
+    {
+      "name": "ksnnews-2022-09-08T19:07:20.112317-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662682048",
+      "size": "89962",
+      "md5": "340cb24ee9e51fb00d9f9fd90a1383f3",
+      "crc32": "0dee840f",
+      "sha1": "e879e0b288aa0a29a62c25ff2679536ca4b8bb7b",
+      "format": "JSON"
+    },
+    {
+      "name": "ksnnews-2022-09-08T19:07:20.112317-05:00.jpg",
+      "source": "original",
+      "mtime": "1662682044",
+      "size": "355374",
+      "md5": "962c3c37472659748004307c906d5558",
+      "crc32": "6979e9c2",
+      "sha1": "9c7ebe40eeb6642c95fe09c1a81c5ab5bc783b98",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ksnnews-2022-09-08T19:07:20.112317-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662682050",
+      "size": "1432",
+      "md5": "c59788d895dbfef0d3917b96791722fe",
+      "crc32": "99a645c2",
+      "sha1": "b4ce50b86775979fb9dc39e9e4a6d610a03b8691",
+      "format": "JSON"
+    },
+    {
+      "name": "ksnnews-2022-09-08T19:07:20.112317-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662682051",
+      "size": "65759",
+      "md5": "c13a72f6153ae186a830c95ce298a92f",
+      "crc32": "d38ee20d",
+      "sha1": "0a08ad4c1d259e313948a0f55f125551b3cabc2b",
+      "format": "JSON"
+    },
+    {
+      "name": "ksnnews-2022-09-08T19:07:20.112317-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ksnnews-2022-09-08T19:07:20.112317-05:00.jpg",
+      "mtime": "1662682104",
+      "size": "10575",
+      "md5": "c33b389132cede0d505b1319ae11a5a4",
+      "crc32": "20e733c3",
+      "sha1": "d57dc011503f4093cbc642c091142cccc4c7cc7b"
+    },
+    {
+      "name": "ksnnews-2022-09-09T07:16:31.866356-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662725802",
+      "size": "44689",
+      "md5": "9cac3b181597a3691bf0cf159f187431",
+      "crc32": "ed1cdd23",
+      "sha1": "6f4d40d2f9db274d215defebb507e444f617679f",
+      "format": "JSON"
+    },
+    {
+      "name": "ksnnews-2022-09-09T07:16:31.866356-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662725804",
+      "size": "91828",
+      "md5": "6b73f82d93a5a9f77aab5adbcd12628d",
+      "crc32": "c22bce4b",
+      "sha1": "fc2c570e7193c4201f5461f78e51d15882adc350",
+      "format": "JSON"
+    },
+    {
+      "name": "ksnnews-2022-09-09T07:16:31.866356-05:00.jpg",
+      "source": "original",
+      "mtime": "1662725800",
+      "size": "340150",
+      "md5": "9e2b4605cd276babcfd6d1530f75c314",
+      "crc32": "c6e7b051",
+      "sha1": "c684264c4be4bda36a49cc93577fce585a2efcb1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ksnnews-2022-09-09T07:16:31.866356-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662725807",
+      "size": "1429",
+      "md5": "21c2d7dfd3b70d31de78a33deaacdf13",
+      "crc32": "9f82203e",
+      "sha1": "97269a6baaee2c61081aff09f19c8c017f4b5ae8",
+      "format": "JSON"
+    },
+    {
+      "name": "ksnnews-2022-09-09T07:16:31.866356-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662725810",
+      "size": "61807",
+      "md5": "f86cb38fd8e90c60c0819ed849aed3c3",
+      "crc32": "ab1df53c",
+      "sha1": "d1331eb6bbd2264f78f93cdc0dbd22dd14f06083",
+      "format": "JSON"
+    },
+    {
+      "name": "ksnnews-2022-09-09T07:16:31.866356-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ksnnews-2022-09-09T07:16:31.866356-05:00.jpg",
+      "mtime": "1662725878",
+      "size": "10587",
+      "md5": "89227ee9a6e92298bb6156ebc4cd1759",
+      "crc32": "29c46f87",
+      "sha1": "a86a96203abd2c5d617c2bc65cbbac29a7e21379"
+    },
+    {
+      "name": "ksnnews-2022-09-09T19:04:39.379198-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662768286",
+      "size": "44709",
+      "md5": "dd5ff92db98c1a45640b35d12962a0f3",
+      "crc32": "a61a65f6",
+      "sha1": "1241a0259d0781b51c9fa9d182438e50f1412a91",
+      "format": "JSON"
+    },
+    {
+      "name": "ksnnews-2022-09-09T19:04:39.379198-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662768288",
+      "size": "88836",
+      "md5": "3c575164abd656978a0547cbf5fe1f74",
+      "crc32": "7293cf69",
+      "sha1": "b57408f2dc280df31d8d9cc6d6344c2d982e5ff0",
+      "format": "JSON"
+    },
+    {
+      "name": "ksnnews-2022-09-09T19:04:39.379198-05:00.jpg",
+      "source": "original",
+      "mtime": "1662768284",
+      "size": "324508",
+      "md5": "dbb666bfa1769d44805097ffbdc4d0dd",
+      "crc32": "9b3734ff",
+      "sha1": "3aae90bd2a3049adaf680579bb67c87875fffaf1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ksnnews-2022-09-09T19:04:39.379198-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662768289",
+      "size": "1432",
+      "md5": "a10cc968322e126e45ac95ff91254e85",
+      "crc32": "1402687e",
+      "sha1": "3d6a391eadfcc08e2667697d52d61875a9efe061",
+      "format": "JSON"
+    },
+    {
+      "name": "ksnnews-2022-09-09T19:04:39.379198-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662768291",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ksnnews-2022-09-09T19:04:39.379198-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ksnnews-2022-09-09T19:04:39.379198-05:00.jpg",
+      "mtime": "1662768366",
+      "size": "10372",
+      "md5": "b5429725c003d96148d35d9750e0acc2",
+      "crc32": "067f33c9",
+      "sha1": "ae17be484ddacbd7bfc0e9bfc13512dae733d657"
+    },
+    {
       "name": "ksnnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a09c511d94e3f3e27fafb1eb5cfcfd9f53250ae8",
-      "mtime": "1662639789",
-      "size": "92416",
-      "md5": "0bc236e8a415627faa4eda641c02e37d",
-      "crc32": "915f8501",
-      "sha1": "2c1fb66c7414eec412be6178581763ca4edb4e56",
+      "btih": "759b8e4d3eea7db30822057674c46c3566b1b6a0",
+      "mtime": "1662768376",
+      "size": "96200",
+      "md5": "2228606313a38476217e44ce4a200346",
+      "crc32": "39b3d43d",
+      "sha1": "abbdd30edbe0ea52e927cf5f6400cbd135e2708e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ksnnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "30d6e8e97272a2c101d81b483af2c360",
+      "md5": "7f67d9f94482b76715c6fab749a11ff4",
       "summation": "md5"
     },
     {
       "name": "ksnnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662639712",
-      "size": "565248",
-      "md5": "e0a6387c9148cc3c6e689d2d5ad60f7e",
-      "crc32": "793b8fc5",
-      "sha1": "f1bc1d8b7f279e729fb03ebbc4d24fcb2fc918dc",
+      "mtime": "1662768300",
+      "size": "585728",
+      "md5": "83ae966a978c943a58b5e31fb08a6db7",
+      "crc32": "1c0c1237",
+      "sha1": "920b3cb0f2adcb8843a8ab0b8da9f1db5be64653",
       "format": "Metadata"
     },
     {
@@ -4518,9 +4704,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 437,
-  "item_last_updated": 1662639789,
-  "item_size": 37756158,
+  "files_count": 455,
+  "item_last_updated": 1662768376,
+  "item_size": 39369926,
   "metadata": {
     "identifier": "ksnnews-2022",
     "collection": [
@@ -4537,10 +4723,10 @@
     "publicdate": "2022-08-03 18:53:39",
     "addeddate": "2022-08-03 18:53:39"
   },
-  "server": "ia601503.us.archive.org",
-  "uniq": 1736106555,
+  "server": "ia801503.us.archive.org",
+  "uniq": 691409091,
   "workable_servers": [
-    "ia601503.us.archive.org",
-    "ia801503.us.archive.org"
+    "ia801503.us.archive.org",
+    "ia601503.us.archive.org"
   ]
 }
