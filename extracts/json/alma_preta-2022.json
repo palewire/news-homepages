@@ -1,5 +1,5 @@
 {
-  "created": 1662811492,
+  "created": 1662851083,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/16/items/alma_preta-2022",
@@ -5928,31 +5928,83 @@
       "sha1": "3eba2ed792c457153da445258c3647195c00e976"
     },
     {
+      "name": "alma_preta-2022-09-10T20:03:28.484888-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662851015",
+      "size": "31983",
+      "md5": "207ef3a3d05781cb8fa9c414c2bb3259",
+      "crc32": "be7bd837",
+      "sha1": "9cb77c476b474ec44031fcd079d4c2026f84b62f",
+      "format": "JSON"
+    },
+    {
+      "name": "alma_preta-2022-09-10T20:03:28.484888-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662851017",
+      "size": "36605",
+      "md5": "84ee0467d1f8ba4360b8376b14300078",
+      "crc32": "b55dcf42",
+      "sha1": "2ba3259002f792c583d0c5bacf438fb88a6ac2bd",
+      "format": "JSON"
+    },
+    {
+      "name": "alma_preta-2022-09-10T20:03:28.484888-03:00.jpg",
+      "source": "original",
+      "mtime": "1662851014",
+      "size": "284039",
+      "md5": "5c5bca29bff75cb916dec4d4d5fb783c",
+      "crc32": "7f19ed6c",
+      "sha1": "f66a287f375b3aaad129e106fdd70bcb92f2ef43",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alma_preta-2022-09-10T20:03:28.484888-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662851018",
+      "size": "1448",
+      "md5": "c35288c41309df591d50e6594d5f7e1c",
+      "crc32": "4f1c6db8",
+      "sha1": "04758ba8babb602ab530defd617017a57eaecf0a",
+      "format": "JSON"
+    },
+    {
+      "name": "alma_preta-2022-09-10T20:03:28.484888-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alma_preta-2022-09-10T20:03:28.484888-03:00.jpg",
+      "mtime": "1662851070",
+      "size": "10701",
+      "md5": "86df7cfa8be367e372d39d44e28836f1",
+      "crc32": "bc6b2393",
+      "sha1": "3eba2ed792c457153da445258c3647195c00e976"
+    },
+    {
       "name": "alma_preta-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b82a6adf8c95a7113db07d3fbd73e08e010f7d4a",
-      "mtime": "1662811486",
-      "size": "122992",
-      "md5": "b98b1ced20aec9d8aa1382c21f70ced3",
-      "crc32": "381ba3e7",
-      "sha1": "f73cf75048e2131ec055d8b0020d76c7cbfd4746",
+      "btih": "cdbf86984f61a1b67da0c8bf258d1c1ff1e053c0",
+      "mtime": "1662851076",
+      "size": "124062",
+      "md5": "16152211f84c86076a94ac24fe4c7fea",
+      "crc32": "372d2824",
+      "sha1": "a3c79d38f31d2730f971043b52d2542731b706d7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "alma_preta-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3ffff2bb644965a78025275a55c5a976",
+      "md5": "de7b34f5a6f5480f776878a0586ed47e",
       "summation": "md5"
     },
     {
       "name": "alma_preta-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662811433",
-      "size": "749568",
-      "md5": "d54e2ebde400ac51290279e8ef5fef11",
-      "crc32": "b363736a",
-      "sha1": "45bc9869953284f5c8387467b284e4a76367dd8d",
+      "mtime": "1662851022",
+      "size": "753664",
+      "md5": "5d0bd0fce07e1853c2cb977c2abe2e8b",
+      "crc32": "e5732765",
+      "sha1": "cd270dc3a93d9c1326c85c41783a68361130fe1a",
       "format": "Metadata"
     },
     {
@@ -5966,9 +6018,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 577,
-  "item_last_updated": 1662811486,
-  "item_size": 35117418,
+  "files_count": 582,
+  "item_last_updated": 1662851076,
+  "item_size": 35487360,
   "metadata": {
     "identifier": "alma_preta-2022",
     "collection": [
@@ -5985,10 +6037,10 @@
     "publicdate": "2022-08-07 19:42:34",
     "addeddate": "2022-08-07 19:42:34"
   },
-  "server": "ia601403.us.archive.org",
-  "uniq": 819112549,
+  "server": "ia801403.us.archive.org",
+  "uniq": 1463697495,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia801403.us.archive.org",
+    "ia601403.us.archive.org"
   ]
 }

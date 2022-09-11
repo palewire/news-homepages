@@ -1,5 +1,5 @@
 {
-  "created": 1662811490,
+  "created": 1662851411,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/25/items/cnnbrasil-2022",
@@ -6000,31 +6000,83 @@
       "sha1": "c144c340ffadf4b151c361e0e151ca1a08637cad"
     },
     {
+      "name": "cnnbrasil-2022-09-10T20:08:54.046114-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662851340",
+      "size": "73373",
+      "md5": "cb9f11f7cc48dcd1824a1c539c86ca8c",
+      "crc32": "29d71650",
+      "sha1": "b536a123fa24602096a9748bd0ab737e624c02a1",
+      "format": "JSON"
+    },
+    {
+      "name": "cnnbrasil-2022-09-10T20:08:54.046114-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662851342",
+      "size": "53670",
+      "md5": "f7995a6b1a0228b596854b0b1ea94826",
+      "crc32": "1b279b22",
+      "sha1": "5148bd5c0ff0a6785db1351374ce754562216a54",
+      "format": "JSON"
+    },
+    {
+      "name": "cnnbrasil-2022-09-10T20:08:54.046114-03:00.jpg",
+      "source": "original",
+      "mtime": "1662851338",
+      "size": "330204",
+      "md5": "185572f4f0a03eee23329d2b98c26c26",
+      "crc32": "140e5dff",
+      "sha1": "7916fb7313b01425869a81d7e47d8c1169eb95ab",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cnnbrasil-2022-09-10T20:08:54.046114-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662851344",
+      "size": "1513",
+      "md5": "0a966487822e26998e81a13dcee01199",
+      "crc32": "eb7e24be",
+      "sha1": "e023f487a9254b7f0664bebe9f25df499b19c266",
+      "format": "JSON"
+    },
+    {
+      "name": "cnnbrasil-2022-09-10T20:08:54.046114-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cnnbrasil-2022-09-10T20:08:54.046114-03:00.jpg",
+      "mtime": "1662851396",
+      "size": "11185",
+      "md5": "2e08416a111ca8655ed44ec2ef0a5ce4",
+      "crc32": "cf04f7dc",
+      "sha1": "1c86aba11a16ab951adbb220bfd33079b909a877"
+    },
+    {
       "name": "cnnbrasil-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8c4595e482fcf53d5855c0793a40d38d20bdfbca",
-      "mtime": "1662811475",
-      "size": "124260",
-      "md5": "a58e1210c38ffd5856a3ea2a0f7188b3",
-      "crc32": "0e7b5e8b",
-      "sha1": "b9ba9dfadd1f152b9d59f3aba36f6ffa7e1d547e",
+      "btih": "c23c202a59f70f68948616a24ccb747fee0ece8e",
+      "mtime": "1662851403",
+      "size": "125325",
+      "md5": "3c80599458a1d0f51b4d9164795a1c6b",
+      "crc32": "ca6b5ad5",
+      "sha1": "4bdf6eb2a730c56850864ccf8eac6833a0d6dbf5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cnnbrasil-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9e4769573b9bcd13dde32b2770385f85",
+      "md5": "590c62a476e03d6707b641de7ccd9128",
       "summation": "md5"
     },
     {
       "name": "cnnbrasil-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662811412",
-      "size": "757760",
-      "md5": "fcc6907ec678200256ae739a01aba5ca",
-      "crc32": "69bcde00",
-      "sha1": "389b2f7cd6ab0cc62986e4ff6ce28bb82952d515",
+      "mtime": "1662851348",
+      "size": "761856",
+      "md5": "a6049dc3de3fdec7aa1e92763909e637",
+      "crc32": "fd3a5d7f",
+      "sha1": "c76242ae0e3865d0636a4fef54eab013aa07a05d",
       "format": "Metadata"
     },
     {
@@ -6038,9 +6090,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 584,
-  "item_last_updated": 1662811475,
-  "item_size": 44500680,
+  "files_count": 589,
+  "item_last_updated": 1662851403,
+  "item_size": 44975786,
   "metadata": {
     "identifier": "cnnbrasil-2022",
     "collection": [
@@ -6057,10 +6109,10 @@
     "publicdate": "2022-08-07 19:42:41",
     "addeddate": "2022-08-07 19:42:41"
   },
-  "server": "ia802501.us.archive.org",
-  "uniq": 1816703106,
+  "server": "ia902501.us.archive.org",
+  "uniq": 510301189,
   "workable_servers": [
-    "ia802501.us.archive.org",
-    "ia902501.us.archive.org"
+    "ia902501.us.archive.org",
+    "ia802501.us.archive.org"
   ]
 }

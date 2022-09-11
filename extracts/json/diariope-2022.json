@@ -1,5 +1,5 @@
 {
-  "created": 1662811475,
+  "created": 1662851580,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/33/items/diariope-2022",
@@ -6444,31 +6444,83 @@
       "sha1": "302360e146a93e93c3fb390767bddeda37d4d053"
     },
     {
+      "name": "diariope-2022-09-10T20:11:19.551546-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662851485",
+      "size": "124145",
+      "md5": "7238141d0882143562246a62eadbe30d",
+      "crc32": "6a602208",
+      "sha1": "5ea434f36f9864f733b5b405ef366774b40e5634",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-09-10T20:11:19.551546-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662851487",
+      "size": "148237",
+      "md5": "6e40df44256ab3a834cfa671195b8849",
+      "crc32": "fe953cb2",
+      "sha1": "f9422d2769c6971f19b8f97768ac892de8f084db",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-09-10T20:11:19.551546-03:00.jpg",
+      "source": "original",
+      "mtime": "1662851484",
+      "size": "247263",
+      "md5": "18cabd6ceea03f93699b32cb1123de1a",
+      "crc32": "244c6fb9",
+      "sha1": "45ae800df5cbdf2eb57a5c86609db011691b3453",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariope-2022-09-10T20:11:19.551546-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662851489",
+      "size": "1588",
+      "md5": "d7d9aaab0cc2b5b497c415e60a82e487",
+      "crc32": "ee1ae936",
+      "sha1": "f46bdf93acfe2d237730232091da646bc03f22ad",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-09-10T20:11:19.551546-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariope-2022-09-10T20:11:19.551546-03:00.jpg",
+      "mtime": "1662851555",
+      "size": "9260",
+      "md5": "ffe208b6ed42e0b8002c669c7cef3336",
+      "crc32": "f2c23464",
+      "sha1": "c34e9ae02985795b6f7c96bfce617c1cbf251b60"
+    },
+    {
       "name": "diariope-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d8428ab23a01b64dc35e058b80cad9fff59bcf8c",
-      "mtime": "1662811464",
-      "size": "133249",
-      "md5": "6960124c2a37606452a1e42ad794c95b",
-      "crc32": "9aafb9fe",
-      "sha1": "0006fd378aa2a352ca7adeac42709050680f8dcd",
+      "btih": "432e210f318e21ef25fa291b817c013b1d9b8634",
+      "mtime": "1662851568",
+      "size": "134310",
+      "md5": "c615acea77cbf106872a50f55c24b3b1",
+      "crc32": "f5510cd0",
+      "sha1": "b5181c0a3b2aef5f8984044e6566f8057968fa48",
       "format": "Archive BitTorrent"
     },
     {
       "name": "diariope-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "16e4b9910a80c7013699a17b5deb735e",
+      "md5": "591756b5cdeb96c3ae3c1fa9051b0ed7",
       "summation": "md5"
     },
     {
       "name": "diariope-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662811403",
-      "size": "806912",
-      "md5": "50ec7f9ae46cab558d7bccb9e6981255",
-      "crc32": "bd55c024",
-      "sha1": "baefbcf7926f0009544b8c3576b16389327d24cd",
+      "mtime": "1662851492",
+      "size": "811008",
+      "md5": "1966bc490a67ce5918d21f00c88a73bc",
+      "crc32": "328ac987",
+      "sha1": "b19f91901156b59d2ff41faf7846cea3e642d64d",
       "format": "Metadata"
     },
     {
@@ -6482,9 +6534,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 627,
-  "item_last_updated": 1662811464,
-  "item_size": 58363943,
+  "files_count": 632,
+  "item_last_updated": 1662851568,
+  "item_size": 58899593,
   "metadata": {
     "identifier": "diariope-2022",
     "collection": [
@@ -6501,10 +6553,10 @@
     "publicdate": "2022-08-04 04:55:38",
     "addeddate": "2022-08-04 04:55:38"
   },
-  "server": "ia601400.us.archive.org",
-  "uniq": 121290329,
+  "server": "ia801400.us.archive.org",
+  "uniq": 2146317570,
   "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
+    "ia801400.us.archive.org",
+    "ia601400.us.archive.org"
   ]
 }

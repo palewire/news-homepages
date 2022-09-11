@@ -1,5 +1,5 @@
 {
-  "created": 1662807493,
+  "created": 1662851539,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/24/items/denverchannel-2022",
@@ -3388,31 +3388,83 @@
       "sha1": "10b0125acbbafd316c3765451ad69ce6c7be46d6"
     },
     {
+      "name": "denverchannel-2022-09-10T17:11:08.374874-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662851477",
+      "size": "21966",
+      "md5": "54917f3347da0b742b666dc554ceead6",
+      "crc32": "0f2b6a33",
+      "sha1": "d4c7b8c739c917568ee56c8ff603aca270c8531c",
+      "format": "JSON"
+    },
+    {
+      "name": "denverchannel-2022-09-10T17:11:08.374874-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662851479",
+      "size": "58835",
+      "md5": "5b0699bf1fb25d2148421b86761f8ce6",
+      "crc32": "d5413a99",
+      "sha1": "5809ba275e8fcc2f6c8e6b1cf5872900956446fa",
+      "format": "JSON"
+    },
+    {
+      "name": "denverchannel-2022-09-10T17:11:08.374874-06:00.jpg",
+      "source": "original",
+      "mtime": "1662851476",
+      "size": "319121",
+      "md5": "3d90c04f7f2d06db8f3728dc40cc49d5",
+      "crc32": "ac2e689e",
+      "sha1": "bfc3fbea453cc4966ea6e8a3a21ddf233be58e78",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "denverchannel-2022-09-10T17:11:08.374874-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662851480",
+      "size": "1468",
+      "md5": "aa3e15012451bbe97fa3df43a8860b70",
+      "crc32": "6b503dcf",
+      "sha1": "ca5497ee91e5f09cf40891204478db49dcd91b26",
+      "format": "JSON"
+    },
+    {
+      "name": "denverchannel-2022-09-10T17:11:08.374874-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "denverchannel-2022-09-10T17:11:08.374874-06:00.jpg",
+      "mtime": "1662851528",
+      "size": "10471",
+      "md5": "45a32aba3e81bf7a73cd3206c2fa1d46",
+      "crc32": "e1049279",
+      "sha1": "ebd53a3d71cb0ed31222f4dc16502dc74baee8ad"
+    },
+    {
       "name": "denverchannel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8cfab3777553ea987fd2b6da03a76b2584e11cc2",
-      "mtime": "1662807482",
-      "size": "71889",
-      "md5": "11a295c582a1955e129b66d6807d21b6",
-      "crc32": "4ff4fa42",
-      "sha1": "b703b05759612f4d3b70c34b1901bca731f8a2e0",
+      "btih": "648ea02b0045fb4116c4fa624719b4c4b0f4873d",
+      "mtime": "1662851532",
+      "size": "72974",
+      "md5": "1cef3d4fb3fa9a3bcc5ad93b094be2d8",
+      "crc32": "1f1666a2",
+      "sha1": "df163524e70942d4168f38388289f4f2f1b80c4f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "denverchannel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f4288d70805e2180e85704e335a40884",
+      "md5": "c731cd90baaab5c57640d5fa1654149a",
       "summation": "md5"
     },
     {
       "name": "denverchannel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662807427",
-      "size": "434176",
-      "md5": "3eb20496cb32128c6ac9411cdbc37e99",
-      "crc32": "2ec203dc",
-      "sha1": "18cafc937d58eb87f345c8c4604fdd0f9f5453c4",
+      "mtime": "1662851483",
+      "size": "442368",
+      "md5": "92e3bc6d2034577bac185bf319f1dc3c",
+      "crc32": "03595778",
+      "sha1": "17ece18d5a09a3148598ad3c9800ae046738a18b",
       "format": "Metadata"
     },
     {
@@ -3426,9 +3478,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 331,
-  "item_last_updated": 1662807482,
-  "item_size": 23898715,
+  "files_count": 336,
+  "item_last_updated": 1662851532,
+  "item_size": 24319853,
   "metadata": {
     "identifier": "denverchannel-2022",
     "collection": [
@@ -3445,10 +3497,10 @@
     "publicdate": "2022-08-13 23:53:35",
     "addeddate": "2022-08-13 23:53:35"
   },
-  "server": "ia801507.us.archive.org",
-  "uniq": 1983428048,
+  "server": "ia601507.us.archive.org",
+  "uniq": 115456675,
   "workable_servers": [
-    "ia801507.us.archive.org",
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

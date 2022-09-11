@@ -1,5 +1,5 @@
 {
-  "created": 1662807497,
+  "created": 1662851549,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/28/items/denverite-2022",
@@ -3540,31 +3540,83 @@
       "sha1": "7bd5c63f52978652fa61dd37f037a1ab6557ea6a"
     },
     {
+      "name": "denverite-2022-09-10T17:11:05.144087-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662851470",
+      "size": "28924",
+      "md5": "63c2751343f96d9866d7be8f0857d837",
+      "crc32": "5a0b1a8b",
+      "sha1": "0f791a6f686fe386969c39d9117b2ea3f467b895",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-09-10T17:11:05.144087-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662851476",
+      "size": "29730",
+      "md5": "d4edc71194935db9e6a454d8b44d2562",
+      "crc32": "0caeef68",
+      "sha1": "e864ad9e89c7a769109ea1dc8d7f9d2fb330fac7",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-09-10T17:11:05.144087-06:00.jpg",
+      "source": "original",
+      "mtime": "1662851468",
+      "size": "376317",
+      "md5": "d065b66aecff739ec312da1c2bbeec4d",
+      "crc32": "e2f95c06",
+      "sha1": "38bafecc25656ce9d167eb2340b15e51a18967f7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "denverite-2022-09-10T17:11:05.144087-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662851478",
+      "size": "1450",
+      "md5": "f14c0c5e5e962ac65c8b70d9ba88382b",
+      "crc32": "abf78157",
+      "sha1": "6b6c5c1fbf52f9d83144e9135dc1dca016e1f275",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-09-10T17:11:05.144087-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "denverite-2022-09-10T17:11:05.144087-06:00.jpg",
+      "mtime": "1662851532",
+      "size": "10178",
+      "md5": "ce1c9675b3a5d1c2bb453d1bc4e3afa2",
+      "crc32": "828f3302",
+      "sha1": "7bd5c63f52978652fa61dd37f037a1ab6557ea6a"
+    },
+    {
       "name": "denverite-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9e39dfec36bcaafa33cee30496e3a6c2c283b0e9",
-      "mtime": "1662807489",
-      "size": "73788",
-      "md5": "6e7c5881b76d306db307fcd6c66c39ca",
-      "crc32": "f01691cf",
-      "sha1": "74482cc233645084d0f0ff0c65c42bbed875fb85",
+      "btih": "5a852b3958f6be027548db423a8ff5ce08e47909",
+      "mtime": "1662851540",
+      "size": "74854",
+      "md5": "a7b1a83a14ea1062da9d15ab71ae0ceb",
+      "crc32": "de476add",
+      "sha1": "c5987af0c4ea8f2c17a1fa62a3851d60509dee8b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "denverite-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8c25fc4e6d1d2704115bba864a88e668",
+      "md5": "d9523d62f3664cbc7b96147d30755533",
       "summation": "md5"
     },
     {
       "name": "denverite-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662807436",
-      "size": "454656",
-      "md5": "adeda63bc4b72c93ed722ffe04a33763",
-      "crc32": "ab510ef9",
-      "sha1": "517d77ff0356bfb6c7e22fb7ddfb1091bb508033",
+      "mtime": "1662851482",
+      "size": "458752",
+      "md5": "8d5bc14091b9f9b26a6da34bbf3f29be",
+      "crc32": "1cf385b8",
+      "sha1": "42845fea444800ad51ccee91cd612cb7a40ea50c",
       "format": "Metadata"
     },
     {
@@ -3578,9 +3630,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 346,
-  "item_last_updated": 1662807489,
-  "item_size": 25313837,
+  "files_count": 351,
+  "item_last_updated": 1662851540,
+  "item_size": 25765598,
   "metadata": {
     "identifier": "denverite-2022",
     "collection": [
@@ -3597,10 +3649,10 @@
     "publicdate": "2022-08-13 23:53:15",
     "addeddate": "2022-08-13 23:53:15"
   },
-  "server": "ia801400.us.archive.org",
-  "uniq": 1271783711,
+  "server": "ia601400.us.archive.org",
+  "uniq": 1824163554,
   "workable_servers": [
-    "ia801400.us.archive.org",
-    "ia601400.us.archive.org"
+    "ia601400.us.archive.org",
+    "ia801400.us.archive.org"
   ]
 }

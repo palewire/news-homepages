@@ -1,5 +1,5 @@
 {
-  "created": 1662807496,
+  "created": 1662851433,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/15/items/dallasbiznews-2022",
@@ -6280,31 +6280,83 @@
       "sha1": "a36b3c46a41a2aa4473ec3c3808e2fedaa52195f"
     },
     {
+      "name": "dallasbiznews-2022-09-10T18:09:12.162492-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662851359",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasbiznews-2022-09-10T18:09:12.162492-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662851360",
+      "size": "20756",
+      "md5": "3e82bbbed8d5d2666f7b9f5dfe077237",
+      "crc32": "632e0431",
+      "sha1": "5e58f0f5402884f3ce7ccfda8e7078d2803ccd92",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasbiznews-2022-09-10T18:09:12.162492-05:00.jpg",
+      "source": "original",
+      "mtime": "1662851357",
+      "size": "257116",
+      "md5": "106bd66d471caf5b8d3db3a9e14b1704",
+      "crc32": "ae097b0e",
+      "sha1": "c047e3b8286b3c7b486c1eb3cec1281e628a4411",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dallasbiznews-2022-09-10T18:09:12.162492-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662851362",
+      "size": "1567",
+      "md5": "077e1e20e102efa3bec11b8ca552ee8a",
+      "crc32": "1a9ba773",
+      "sha1": "e7f27f7d29869dc0daf5338564e422f62512bcbb",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasbiznews-2022-09-10T18:09:12.162492-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dallasbiznews-2022-09-10T18:09:12.162492-05:00.jpg",
+      "mtime": "1662851415",
+      "size": "8399",
+      "md5": "48e6d795332dfa7e451b0b59ceddaf69",
+      "crc32": "7d11b6b3",
+      "sha1": "a36b3c46a41a2aa4473ec3c3808e2fedaa52195f"
+    },
+    {
       "name": "dallasbiznews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "495db86a2f249d4adfa971699478360f49960fb7",
-      "mtime": "1662807487",
-      "size": "131729",
-      "md5": "cbed08b3b8aa3f7e41090a3cbea0d051",
-      "crc32": "85b12189",
-      "sha1": "6e59a7544da28ec5beedeb5d016816b15e6473eb",
+      "btih": "d37761017be48c303687c67ce51fce91c9d1fa83",
+      "mtime": "1662851423",
+      "size": "132811",
+      "md5": "591a993678f58ff94f80f77f1465f642",
+      "crc32": "fdff8449",
+      "sha1": "974f0679d2d0ee955afe760e5d8d6169c3df58aa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dallasbiznews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a14d6875b574bf620a8b5530210f9ef8",
+      "md5": "84f1d69bbf76ad51f4652485a339ae60",
       "summation": "md5"
     },
     {
       "name": "dallasbiznews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662807425",
-      "size": "782336",
-      "md5": "b63c94fe5602852e31cd578b024e3eb2",
-      "crc32": "df0f3950",
-      "sha1": "22005f4ed65a7e1c1d50c59fea5f9252fd8f3a6e",
+      "mtime": "1662851365",
+      "size": "790528",
+      "md5": "a20cfb9d43c6a94e9bf5f9ee34c7b81f",
+      "crc32": "5b105c31",
+      "sha1": "40ef130b5d20ae8742b1e7cd0f7faad1277d8619",
       "format": "Metadata"
     },
     {
@@ -6318,9 +6370,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 610,
-  "item_last_updated": 1662807487,
-  "item_size": 41314861,
+  "files_count": 615,
+  "item_last_updated": 1662851423,
+  "item_size": 41612113,
   "metadata": {
     "identifier": "dallasbiznews-2022",
     "collection": [
@@ -6337,10 +6389,10 @@
     "publicdate": "2022-07-18 00:04:04",
     "addeddate": "2022-07-18 00:04:04"
   },
-  "server": "ia801507.us.archive.org",
-  "uniq": 464966663,
+  "server": "ia601507.us.archive.org",
+  "uniq": 1384517187,
   "workable_servers": [
-    "ia801507.us.archive.org",
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

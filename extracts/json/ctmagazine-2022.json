@@ -1,5 +1,5 @@
 {
-  "created": 1662807416,
+  "created": 1662851396,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/25/items/ctmagazine-2022",
@@ -2300,31 +2300,83 @@
       "sha1": "31d4e5a1371cb9a4604fa5e35005c3bc08107e30"
     },
     {
+      "name": "ctmagazine-2022-09-10T18:08:43.048942-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662851330",
+      "size": "26900",
+      "md5": "6c6c83f874b8be34c81cd6031f63381b",
+      "crc32": "51a3532a",
+      "sha1": "89ea9425b65cbecedf155c38b7c8ea088114a0bd",
+      "format": "JSON"
+    },
+    {
+      "name": "ctmagazine-2022-09-10T18:08:43.048942-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662851331",
+      "size": "27409",
+      "md5": "339875a42d8505d2d5a19c10f8107627",
+      "crc32": "a9d99f22",
+      "sha1": "ebdab671760b4ce4c2af4f87401f3388a3d9e5fd",
+      "format": "JSON"
+    },
+    {
+      "name": "ctmagazine-2022-09-10T18:08:43.048942-05:00.jpg",
+      "source": "original",
+      "mtime": "1662851328",
+      "size": "258990",
+      "md5": "951b18ecd29cd94a5ba80bd32076d81f",
+      "crc32": "2353b3f1",
+      "sha1": "ff06f70e71efa4e6a04649808c75cacebd7e93b3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ctmagazine-2022-09-10T18:08:43.048942-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662851333",
+      "size": "1555",
+      "md5": "2a0bb39c15d1a9e2172378fb89a74c52",
+      "crc32": "0814380b",
+      "sha1": "076a1e6ca552a08d7c010e812f895b9841c95499",
+      "format": "JSON"
+    },
+    {
+      "name": "ctmagazine-2022-09-10T18:08:43.048942-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ctmagazine-2022-09-10T18:08:43.048942-05:00.jpg",
+      "mtime": "1662851386",
+      "size": "8443",
+      "md5": "cfd9f225dc9723e71bf29428965a5afe",
+      "crc32": "28609a85",
+      "sha1": "b8269535034b71b8f83dfd6021bb7cc566b3e2af"
+    },
+    {
       "name": "ctmagazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d0965456830c719336cb2cdc049a503dafa5f803",
-      "mtime": "1662807396",
-      "size": "48465",
-      "md5": "078a2d81c9dd0b4f554b4be65b6a920e",
-      "crc32": "411f8fb7",
-      "sha1": "d10c73a337743ccfb78241e656896dc21064bb23",
+      "btih": "9713f09b3c7d77f722ab86668f7bbdd3b9952481",
+      "mtime": "1662851390",
+      "size": "49514",
+      "md5": "b0b948122d6c553a3a33e02256416160",
+      "crc32": "d9990dfd",
+      "sha1": "f6040d7d3fee44e2da14ba0b481f9e4dbe645107",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ctmagazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ee09a0445c32deddc02c936cfd67e512",
+      "md5": "d49a2d8adc71b766a25d3dde1a4eb140",
       "summation": "md5"
     },
     {
       "name": "ctmagazine-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662807344",
-      "size": "303104",
-      "md5": "b1fc6a4c9e92323dafe7bde80f97d16f",
-      "crc32": "a98491dc",
-      "sha1": "7a49efc908c2d76a8dcdffe8c4ac55fa9b0cb392",
+      "mtime": "1662851336",
+      "size": "307200",
+      "md5": "47f1645993f19731ea3cbdec634e3191",
+      "crc32": "8a65f08b",
+      "sha1": "5bd399a3283a86a276b5dbbbe9e1af727af88b43",
       "format": "Metadata"
     },
     {
@@ -2338,9 +2390,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 226,
-  "item_last_updated": 1662807396,
-  "item_size": 12786988,
+  "files_count": 231,
+  "item_last_updated": 1662851390,
+  "item_size": 13115430,
   "metadata": {
     "identifier": "ctmagazine-2022",
     "collection": [
@@ -2357,10 +2409,10 @@
     "publicdate": "2022-08-23 23:00:18",
     "addeddate": "2022-08-23 23:00:18"
   },
-  "server": "ia601407.us.archive.org",
-  "uniq": 1757141444,
+  "server": "ia801407.us.archive.org",
+  "uniq": 1763411743,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia801407.us.archive.org",
+    "ia601407.us.archive.org"
   ]
 }

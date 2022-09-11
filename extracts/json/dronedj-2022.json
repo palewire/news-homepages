@@ -1,5 +1,5 @@
 {
-  "created": 1662807502,
+  "created": 1662851561,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/20/items/dronedj-2022",
@@ -2642,31 +2642,83 @@
       "sha1": "63103a4f108d8680efa6e2eb614e8703c31be5ae"
     },
     {
+      "name": "dronedj-2022-09-10T19:11:31.013749-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662851497",
+      "size": "15674",
+      "md5": "b6ef43a17ad49515c88dbade4b20e40d",
+      "crc32": "106aabc6",
+      "sha1": "6ae369215e09c2b6625b628c6b2fb147fb7cc6e3",
+      "format": "JSON"
+    },
+    {
+      "name": "dronedj-2022-09-10T19:11:31.013749-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662851499",
+      "size": "16848",
+      "md5": "532f810c710c7b564d318d640cfe820a",
+      "crc32": "83bf1863",
+      "sha1": "fa18f1b9b096484ef709872056a7fcc77959da12",
+      "format": "JSON"
+    },
+    {
+      "name": "dronedj-2022-09-10T19:11:31.013749-04:00.jpg",
+      "source": "original",
+      "mtime": "1662851496",
+      "size": "188683",
+      "md5": "133a0750daf7e618502bbab5ed5be0b8",
+      "crc32": "53b04f2b",
+      "sha1": "77d6312240fd07fe7076163652fff5f3f4f860ee",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dronedj-2022-09-10T19:11:31.013749-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662851500",
+      "size": "1432",
+      "md5": "bddcfb5665a8ecf5ff8e9654e5c48fbd",
+      "crc32": "7e9dc85c",
+      "sha1": "e8cd5bae1d0edadabb68b73f87c8c6e5d13d69de",
+      "format": "JSON"
+    },
+    {
+      "name": "dronedj-2022-09-10T19:11:31.013749-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dronedj-2022-09-10T19:11:31.013749-04:00.jpg",
+      "mtime": "1662851549",
+      "size": "8836",
+      "md5": "3ac61e29912632638e93f8acb311eb6b",
+      "crc32": "0786f67c",
+      "sha1": "63103a4f108d8680efa6e2eb614e8703c31be5ae"
+    },
+    {
       "name": "dronedj-2022_archive.torrent",
       "source": "metadata",
-      "btih": "772203d72a63ae7046c940b49d7936504f23d102",
-      "mtime": "1662807495",
-      "size": "54582",
-      "md5": "6edf693f8a43a026f0702347e04f9c9f",
-      "crc32": "3c2eea82",
-      "sha1": "30f9622533053a1a145c4bdc119b01f0dca8e836",
+      "btih": "1c4765baefaa9cb2f4c8115e49ecfe3ea6b81c6b",
+      "mtime": "1662851553",
+      "size": "55636",
+      "md5": "cc60fcd9ccf00661cb1db8fe5e6ac310",
+      "crc32": "c34eaee6",
+      "sha1": "9a666aa411bc82e0a986bdcc020d55a4fe4d8e6a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dronedj-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c03809a5f1c44b98b30a444e68d9dd80",
+      "md5": "e9f30e894dc228ec8fd2264539ca27c4",
       "summation": "md5"
     },
     {
       "name": "dronedj-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662807443",
-      "size": "344064",
-      "md5": "3a6ebe598d3228c81d62f4723514ecd2",
-      "crc32": "1e7d8272",
-      "sha1": "28c11eda924f17b288faf5bcde7c6271464142ac",
+      "mtime": "1662851504",
+      "size": "348160",
+      "md5": "d47d61591379cc50013993f45f002ae8",
+      "crc32": "50a8057a",
+      "sha1": "bd1cb000c25b90a38e7482b1d7ad54e781a6fd21",
       "format": "Metadata"
     },
     {
@@ -2680,9 +2732,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 259,
-  "item_last_updated": 1662807495,
-  "item_size": 12562720,
+  "files_count": 264,
+  "item_last_updated": 1662851553,
+  "item_size": 12799343,
   "metadata": {
     "identifier": "dronedj-2022",
     "collection": [
@@ -2700,7 +2752,7 @@
     "addeddate": "2022-08-20 23:03:35"
   },
   "server": "ia601408.us.archive.org",
-  "uniq": 271664081,
+  "uniq": 1246840589,
   "workable_servers": [
     "ia601408.us.archive.org",
     "ia801408.us.archive.org"
