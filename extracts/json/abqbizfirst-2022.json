@@ -1,5 +1,5 @@
 {
-  "created": 1662863199,
+  "created": 1662905277,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/8/items/abqbizfirst-2022",
@@ -6290,31 +6290,83 @@
       "sha1": "dca01e0105590cf746b8c80044565e541dca6615"
     },
     {
+      "name": "abqbizfirst-2022-09-11T08:06:40.813472-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662905206",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "abqbizfirst-2022-09-11T08:06:40.813472-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662905207",
+      "size": "20305",
+      "md5": "9913ca90ed5885d1d7f4e93a764ca85a",
+      "crc32": "1f11ad93",
+      "sha1": "45a9a40238e9e4db23b7e0d28e2237d3e1a4c3bb",
+      "format": "JSON"
+    },
+    {
+      "name": "abqbizfirst-2022-09-11T08:06:40.813472-06:00.jpg",
+      "source": "original",
+      "mtime": "1662905204",
+      "size": "213538",
+      "md5": "e2b9c7277ae424e07326ff057f9b090e",
+      "crc32": "d138fe4d",
+      "sha1": "d099e0d97447455d0644794a0e98f6f11cffc195",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "abqbizfirst-2022-09-11T08:06:40.813472-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662905209",
+      "size": "1612",
+      "md5": "1e5aa92b248897ec93145e93fa250315",
+      "crc32": "26e43639",
+      "sha1": "089f905013ba515ffdf93c077acebb5f4851d05f",
+      "format": "JSON"
+    },
+    {
+      "name": "abqbizfirst-2022-09-11T08:06:40.813472-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "abqbizfirst-2022-09-11T08:06:40.813472-06:00.jpg",
+      "mtime": "1662905261",
+      "size": "8457",
+      "md5": "8c5e537f421570c9ac4aefbcd3d6a76c",
+      "crc32": "948c85cc",
+      "sha1": "dca01e0105590cf746b8c80044565e541dca6615"
+    },
+    {
       "name": "abqbizfirst-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2f8aece9365026668751b9fde8123b89c61d7955",
-      "mtime": "1662863192",
-      "size": "130722",
-      "md5": "59b699f284e564c5299a2efb6e421e8a",
-      "crc32": "1ed78789",
-      "sha1": "a39c7abbc30cf8f8d6c8b0f45919c451e5f3fab4",
+      "btih": "7c1491d66915816689bae14b228388bb059ff648",
+      "mtime": "1662905266",
+      "size": "131774",
+      "md5": "d12880b5d425aaa0d75c3a80d74af1b7",
+      "crc32": "61b1de19",
+      "sha1": "abb5addf873842b20f749b3bb0c6c250ed386f1a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "abqbizfirst-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f50f53a7978298e22eead4876b5634ce",
+      "md5": "78814f69c2249b7f23e3bb5569a25dbf",
       "summation": "md5"
     },
     {
       "name": "abqbizfirst-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662863134",
-      "size": "782336",
-      "md5": "8100f9d493d2a0bc03e78545f75449c5",
-      "crc32": "ccff0d2a",
-      "sha1": "e3d07a825d0451e524eb18ed44d36a3246eb6e93",
+      "mtime": "1662905212",
+      "size": "786432",
+      "md5": "e5bf0d6f79446598e05b692d5bf7e699",
+      "crc32": "30f02558",
+      "sha1": "bc9946e42a009ef673ba93f70c1cbe89607d4c2c",
       "format": "Metadata"
     },
     {
@@ -6328,9 +6380,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 611,
-  "item_last_updated": 1662863192,
-  "item_size": 41068257,
+  "files_count": 616,
+  "item_last_updated": 1662905266,
+  "item_size": 41317457,
   "metadata": {
     "identifier": "abqbizfirst-2022",
     "collection": [
@@ -6347,10 +6399,10 @@
     "publicdate": "2022-07-19 01:13:43",
     "addeddate": "2022-07-19 01:13:43"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 51011151,
+  "server": "ia601401.us.archive.org",
+  "uniq": 1771286646,
   "workable_servers": [
-    "ia801401.us.archive.org",
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

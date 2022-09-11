@@ -1,5 +1,5 @@
 {
-  "created": 1662863193,
+  "created": 1662905266,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/2/items/azcentral-2022",
@@ -7700,31 +7700,83 @@
       "sha1": "e16f895c5d67b4da6f56ed7b3a8a59bb932e4ef7"
     },
     {
+      "name": "azcentral-2022-09-11T07:06:27.134445-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662905194",
+      "size": "23747",
+      "md5": "6ca73610c2c592f118afbc8e7f2ea855",
+      "crc32": "d4781be7",
+      "sha1": "e278f3c83f8dc74bd362ab4e7c704ab0805792eb",
+      "format": "JSON"
+    },
+    {
+      "name": "azcentral-2022-09-11T07:06:27.134445-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662905196",
+      "size": "33363",
+      "md5": "f7602dd152d2d9e47b7d0fb737efa277",
+      "crc32": "297af048",
+      "sha1": "6d6334944841fdcae27506845b739493b39a9eb9",
+      "format": "JSON"
+    },
+    {
+      "name": "azcentral-2022-09-11T07:06:27.134445-07:00.jpg",
+      "source": "original",
+      "mtime": "1662905193",
+      "size": "252070",
+      "md5": "e3a065d43787e7e782d49acecf87445f",
+      "crc32": "489a32de",
+      "sha1": "31f7d26d9c0a94148bf6ceb9e0d9b8d16022d5a4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "azcentral-2022-09-11T07:06:27.134445-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662905198",
+      "size": "1486",
+      "md5": "fb865e8eda09d6a43f1f6d7cfe5f4022",
+      "crc32": "3cdedef9",
+      "sha1": "7a5747ad4103f81b36eae36722a4e834a469b758",
+      "format": "JSON"
+    },
+    {
+      "name": "azcentral-2022-09-11T07:06:27.134445-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "azcentral-2022-09-11T07:06:27.134445-07:00.jpg",
+      "mtime": "1662905250",
+      "size": "9152",
+      "md5": "03b454caa955562ceaf8987b9fe70b89",
+      "crc32": "c423f5c4",
+      "sha1": "891dc84ace7dfc1a8c8ac3a6c0510f91d0590e21"
+    },
+    {
       "name": "azcentral-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f56fc5b70a055c26aae1d295f25ca15e8c03904e",
-      "mtime": "1662863185",
-      "size": "158069",
-      "md5": "ca2ac509b708b4921894759c007e7572",
-      "crc32": "3397893a",
-      "sha1": "5d8e191d3d9e8764e5ec7203a952f94a7beed8d3",
+      "btih": "ff384dbc7ed4a17f662298e0d1bcfa742a10e85e",
+      "mtime": "1662905257",
+      "size": "159113",
+      "md5": "3df4e1bd5b14086b9ace3c487b4b6da4",
+      "crc32": "6ca02fb3",
+      "sha1": "bf58737fde1e76e1f0155e00c83c96500d7d8726",
       "format": "Archive BitTorrent"
     },
     {
       "name": "azcentral-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cd22a9fbf52ab72458a26e0a2344b9cd",
+      "md5": "f0834b18d70a55186aa0a0d3b93f2dc1",
       "summation": "md5"
     },
     {
       "name": "azcentral-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662863127",
-      "size": "933888",
-      "md5": "f137c110acc8f9f8e27cfe5530e8b96a",
-      "crc32": "854cafe0",
-      "sha1": "90065e467112dc3ff064ec9e7ae0c19afd747c9e",
+      "mtime": "1662905201",
+      "size": "937984",
+      "md5": "1f9968123b117d024788d29dc63bbc7f",
+      "crc32": "76023fb9",
+      "sha1": "8ab2ab191e42161d0346622257c6550ed6919e9d",
       "format": "Metadata"
     },
     {
@@ -7738,9 +7790,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 745,
-  "item_last_updated": 1662863185,
-  "item_size": 53231156,
+  "files_count": 750,
+  "item_last_updated": 1662905257,
+  "item_size": 53556114,
   "metadata": {
     "identifier": "azcentral-2022",
     "collection": [
@@ -7757,10 +7809,10 @@
     "publicdate": "2022-07-04 20:45:20",
     "addeddate": "2022-07-04 20:45:20"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 928020478,
+  "server": "ia902502.us.archive.org",
+  "uniq": 244106359,
   "workable_servers": [
-    "ia802502.us.archive.org",
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }

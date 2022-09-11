@@ -1,5 +1,5 @@
 {
-  "created": 1662863384,
+  "created": 1662905644,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/10/items/bonappetit-2022",
@@ -9020,31 +9020,83 @@
       "sha1": "7327307d8ea45d0371a6423134089ad9382867e4"
     },
     {
+      "name": "bonappetit-2022-09-11T10:12:28.839387-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662905554",
+      "size": "64436",
+      "md5": "e93f518febf997e01d767676195529d6",
+      "crc32": "cd2396f1",
+      "sha1": "7d12df2fd39a4bffff9e15d5ed07911119878cf6",
+      "format": "JSON"
+    },
+    {
+      "name": "bonappetit-2022-09-11T10:12:28.839387-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662905556",
+      "size": "22656",
+      "md5": "55d5b0c8e1169848e534d4211e38fed8",
+      "crc32": "c2c08b1c",
+      "sha1": "62b32d82e18f20ca70681807e75cf91b8fb999f5",
+      "format": "JSON"
+    },
+    {
+      "name": "bonappetit-2022-09-11T10:12:28.839387-04:00.jpg",
+      "source": "original",
+      "mtime": "1662905552",
+      "size": "333159",
+      "md5": "fae9e273a33538ec9fe4d856e24c7539",
+      "crc32": "7ad4fab9",
+      "sha1": "d51b1b7ac5fe4c03a2c7bbc6cc3e2bae29fc2a1b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bonappetit-2022-09-11T10:12:28.839387-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662905558",
+      "size": "1495",
+      "md5": "227dc327887ea87f2681ee60c29c1f23",
+      "crc32": "f127785c",
+      "sha1": "aa0ba1fa9b761f57a8085da2e00bb86e61a228c9",
+      "format": "JSON"
+    },
+    {
+      "name": "bonappetit-2022-09-11T10:12:28.839387-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bonappetit-2022-09-11T10:12:28.839387-04:00.jpg",
+      "mtime": "1662905622",
+      "size": "9915",
+      "md5": "71bcca31bfa916917f006e01eb6e90ab",
+      "crc32": "7e713a35",
+      "sha1": "7327307d8ea45d0371a6423134089ad9382867e4"
+    },
+    {
       "name": "bonappetit-2022_archive.torrent",
       "source": "metadata",
-      "btih": "31580f2f62a0d656adaaa0f8faf7e31af44f45db",
-      "mtime": "1662863370",
-      "size": "185984",
-      "md5": "550e6e01537dcf6795cdfa759e70b5db",
-      "crc32": "c3f62d1d",
-      "sha1": "ce57793e9ebbba0ed124628c8c432caa9b7ce8ea",
+      "btih": "26a9c8e22804d3b0230848cee5f9f27a586ba574",
+      "mtime": "1662905631",
+      "size": "187053",
+      "md5": "15feb8b47de5f996ad13ee9668ac0e5c",
+      "crc32": "fa2d6854",
+      "sha1": "a6170359dd37bae270111d4ea9167da1e3dedfd1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bonappetit-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a0b1665ca1db2dc5848fb8b2570a0209",
+      "md5": "1f2b3fb91f29095d19c1185a8cfffac0",
       "summation": "md5"
     },
     {
       "name": "bonappetit-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662863300",
-      "size": "1077248",
-      "md5": "4d21a0bfbafb65c0019d7c11f7212d22",
-      "crc32": "4158d5fe",
-      "sha1": "93539a58fbd4220be5d447b44ae6e6330390e5d0",
+      "mtime": "1662905563",
+      "size": "1085440",
+      "md5": "4d19c93c5f88fe8d4ae68736eda09de3",
+      "crc32": "594a0fe7",
+      "sha1": "25892728ec935bb43346f4e36b818cea8164f5d9",
       "format": "Metadata"
     },
     {
@@ -9058,9 +9110,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 871,
-  "item_last_updated": 1662863370,
-  "item_size": 73351049,
+  "files_count": 876,
+  "item_last_updated": 1662905631,
+  "item_size": 73791971,
   "metadata": {
     "identifier": "bonappetit-2022",
     "collection": [
@@ -9077,10 +9129,10 @@
     "publicdate": "2022-06-24 22:53:00",
     "addeddate": "2022-06-24 22:53:00"
   },
-  "server": "ia801400.us.archive.org",
-  "uniq": 652144808,
+  "server": "ia601400.us.archive.org",
+  "uniq": 162631498,
   "workable_servers": [
-    "ia801400.us.archive.org",
-    "ia601400.us.archive.org"
+    "ia601400.us.archive.org",
+    "ia801400.us.archive.org"
   ]
 }

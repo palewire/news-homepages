@@ -1,5 +1,5 @@
 {
-  "created": 1662897789,
+  "created": 1662905775,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/35/items/diarioonline-2022",
@@ -6164,31 +6164,83 @@
       "sha1": "62c669b2730d414129448db052a53ec43d0ee434"
     },
     {
+      "name": "diarioonline-2022-09-11T11:14:51.705850-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662905695",
+      "size": "44509",
+      "md5": "48bca9e6829e8d40b28ee20e3164b85a",
+      "crc32": "5edc8710",
+      "sha1": "6d20d437f0aefaa48715083b054cca86e80ae373",
+      "format": "JSON"
+    },
+    {
+      "name": "diarioonline-2022-09-11T11:14:51.705850-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662905697",
+      "size": "36738",
+      "md5": "7e4e169844e301f314cc3a572dee8f13",
+      "crc32": "d5911731",
+      "sha1": "2c424569b3fec1a992895b6456fa1885b838afe9",
+      "format": "JSON"
+    },
+    {
+      "name": "diarioonline-2022-09-11T11:14:51.705850-03:00.jpg",
+      "source": "original",
+      "mtime": "1662905693",
+      "size": "269460",
+      "md5": "9bab3aca9082dacd4b63aecf026e7c9f",
+      "crc32": "e5a9c285",
+      "sha1": "2b1efa4b2a3eb4f9a90f5cf05d7fab11f880d80f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diarioonline-2022-09-11T11:14:51.705850-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662905699",
+      "size": "1644",
+      "md5": "851b5c9a04b99993e904998e78e84980",
+      "crc32": "38e9cde0",
+      "sha1": "fa6cc419be0719beb275f3213a4c84f462b21b94",
+      "format": "JSON"
+    },
+    {
+      "name": "diarioonline-2022-09-11T11:14:51.705850-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diarioonline-2022-09-11T11:14:51.705850-03:00.jpg",
+      "mtime": "1662905763",
+      "size": "9559",
+      "md5": "ccf650a824623ca78624c66d9d797149",
+      "crc32": "8a352a0a",
+      "sha1": "e8e618ce704a8a5478a105e3bc28027668e8312d"
+    },
+    {
       "name": "diarioonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b6d17f2863b1e3ab63229e7d3aa92f5038fabf29",
-      "mtime": "1662897780",
-      "size": "129150",
-      "md5": "b542055820d84cae476e8eba7e17f541",
-      "crc32": "6f00d0d4",
-      "sha1": "7b64c06c7e42a5b26a016a782aeb793f0d759fee",
+      "btih": "2413992bde96f7b6a0c3e2a580d08f2732a6bddd",
+      "mtime": "1662905768",
+      "size": "130209",
+      "md5": "725e209e8a8ca85985b247aacc95ff89",
+      "crc32": "42c55763",
+      "sha1": "ba02c4b052fe3040d164fb27805b900575935d1c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "diarioonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7c2e0852f5a78524988ef20214fe1555",
+      "md5": "0a022d088ab59a546922defe735614b7",
       "summation": "md5"
     },
     {
       "name": "diarioonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662897715",
-      "size": "778240",
-      "md5": "78fd82822bae04e851c31bf2300ab2ec",
-      "crc32": "0fe9a134",
-      "sha1": "d86d415433e4934ba2b468d12e7c9ad1172a72f5",
+      "mtime": "1662905704",
+      "size": "782336",
+      "md5": "671616539bffd3882631abbfca1dd9e6",
+      "crc32": "381d6c78",
+      "sha1": "5e63de9b12d10575f1fce1b70e578d2b6443bc0e",
       "format": "Metadata"
     },
     {
@@ -6202,9 +6254,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 600,
-  "item_last_updated": 1662897780,
-  "item_size": 38508164,
+  "files_count": 605,
+  "item_last_updated": 1662905768,
+  "item_size": 38875229,
   "metadata": {
     "identifier": "diarioonline-2022",
     "collection": [
@@ -6221,10 +6273,10 @@
     "publicdate": "2022-08-05 03:14:28",
     "addeddate": "2022-08-05 03:14:28"
   },
-  "server": "ia801407.us.archive.org",
-  "uniq": 1090355694,
+  "server": "ia601407.us.archive.org",
+  "uniq": 708435322,
   "workable_servers": [
-    "ia801407.us.archive.org",
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }

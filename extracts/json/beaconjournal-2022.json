@@ -1,5 +1,5 @@
 {
-  "created": 1662863193,
+  "created": 1662905319,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/30/items/beaconjournal-2022",
@@ -3416,31 +3416,83 @@
       "sha1": "078773b126d73e885f59df73f6ae5b9e5a45e596"
     },
     {
+      "name": "beaconjournal-2022-09-11T10:07:10.956871-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662905233",
+      "size": "20927",
+      "md5": "061b51fdec895a32909521a3c090f152",
+      "crc32": "fcd4cb59",
+      "sha1": "2b4bd4835c85ff74222b66d5dd8a78d62e1acf37",
+      "format": "JSON"
+    },
+    {
+      "name": "beaconjournal-2022-09-11T10:07:10.956871-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662905234",
+      "size": "33185",
+      "md5": "aa8b958bf9084e0ab4fc62a139990395",
+      "crc32": "66e5355e",
+      "sha1": "2c9c9ffd1544eb59a84baeb5104498ba04b02908",
+      "format": "JSON"
+    },
+    {
+      "name": "beaconjournal-2022-09-11T10:07:10.956871-04:00.jpg",
+      "source": "original",
+      "mtime": "1662905231",
+      "size": "248270",
+      "md5": "ef662723ab75c09e8eae7031242ad522",
+      "crc32": "d2caba4d",
+      "sha1": "88626304e1fa28cb1fdd007cbe94c06a38c867af",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "beaconjournal-2022-09-11T10:07:10.956871-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662905235",
+      "size": "1522",
+      "md5": "41f1d319369e5a1a84c94438cb2cee02",
+      "crc32": "6b86308d",
+      "sha1": "2a84ed58277f72bf006810d05bc4f5b26d888897",
+      "format": "JSON"
+    },
+    {
+      "name": "beaconjournal-2022-09-11T10:07:10.956871-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "beaconjournal-2022-09-11T10:07:10.956871-04:00.jpg",
+      "mtime": "1662905305",
+      "size": "9280",
+      "md5": "e9d118105cdb06ced0ecfdd627f2c3e4",
+      "crc32": "dad7c7c3",
+      "sha1": "6f61f794f03b8a4d8a7e0245ae4c72265bfdd9a6"
+    },
+    {
       "name": "beaconjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d4f2d54a9feaf660a301ae98c080872c8df0c29f",
-      "mtime": "1662863182",
-      "size": "72462",
-      "md5": "524ea768dfbd75336673c9d54e5b7c43",
-      "crc32": "0f84e11f",
-      "sha1": "8c91ca71216123511f9a2106dc01f93d6e231e55",
+      "btih": "d589a634f0377c5e374ae069845d49cd5c938217",
+      "mtime": "1662905310",
+      "size": "73526",
+      "md5": "d8656454d3be77008a7b5c32bb4ff479",
+      "crc32": "ff753b05",
+      "sha1": "ac1535e346b6aa143f0489293cd431447f532700",
       "format": "Archive BitTorrent"
     },
     {
       "name": "beaconjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a01fef574f264db56cd82556f078dbc3",
+      "md5": "19fdc0917ced34ef70dda5aee9bd79a0",
       "summation": "md5"
     },
     {
       "name": "beaconjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662863131",
-      "size": "442368",
-      "md5": "48f30bc713300b47ee849798e2781b57",
-      "crc32": "5fccce46",
-      "sha1": "c905c3813c9c9ad856260af4748fbe745da4a97f",
+      "mtime": "1662905244",
+      "size": "446464",
+      "md5": "b8d19cc9a08f2c6343793820845265e7",
+      "crc32": "788f456a",
+      "sha1": "e09c37c63376d2dc7f86c1c3c79c9c45343fe551",
       "format": "Metadata"
     },
     {
@@ -3454,9 +3506,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 334,
-  "item_last_updated": 1662863182,
-  "item_size": 21105346,
+  "files_count": 339,
+  "item_last_updated": 1662905310,
+  "item_size": 21423690,
   "metadata": {
     "identifier": "beaconjournal-2022",
     "collection": [
@@ -3473,10 +3525,10 @@
     "publicdate": "2022-08-14 05:00:38",
     "addeddate": "2022-08-14 05:00:38"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 931871736,
+  "server": "ia801501.us.archive.org",
+  "uniq": 68603077,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }

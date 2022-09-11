@@ -1,5 +1,5 @@
 {
-  "created": 1662863440,
+  "created": 1662907016,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/14/items/documentedny-2022",
@@ -7126,31 +7126,83 @@
       "sha1": "8041c029e9ba93c4abf3542bddf8066216c9fb95"
     },
     {
+      "name": "documentedny-2022-09-11T10:15:12.846847-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662905718",
+      "size": "15927",
+      "md5": "46b64d3c9e57e0dfdaf9e6578c27643e",
+      "crc32": "014dd4a9",
+      "sha1": "13dfce6da67ae955ebaa6b8e17aa12fe97ad09a4",
+      "format": "JSON"
+    },
+    {
+      "name": "documentedny-2022-09-11T10:15:12.846847-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662905719",
+      "size": "18948",
+      "md5": "68c988c8f92540e4a662be48686323cf",
+      "crc32": "5c9ccd8d",
+      "sha1": "354a10a81faee9b5ebea3b87601936618cd25628",
+      "format": "JSON"
+    },
+    {
+      "name": "documentedny-2022-09-11T10:15:12.846847-04:00.jpg",
+      "source": "original",
+      "mtime": "1662905716",
+      "size": "333860",
+      "md5": "03a717eb5bec443820043d2eb6743852",
+      "crc32": "62cfb1ee",
+      "sha1": "a059057e33073aa79a80ebc23446189a1e8cd3be",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "documentedny-2022-09-11T10:15:12.846847-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662905721",
+      "size": "1476",
+      "md5": "6cff2a8b4efbf9f166951a2960de8e09",
+      "crc32": "009d5976",
+      "sha1": "9bd345c817cc022993411ff1f11f75beff2da3a3",
+      "format": "JSON"
+    },
+    {
+      "name": "documentedny-2022-09-11T10:15:12.846847-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "documentedny-2022-09-11T10:15:12.846847-04:00.jpg",
+      "mtime": "1662905775",
+      "size": "10587",
+      "md5": "84020dbe50129f34ad32c214a683ccb8",
+      "crc32": "472a8b65",
+      "sha1": "8041c029e9ba93c4abf3542bddf8066216c9fb95"
+    },
+    {
       "name": "documentedny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c62aa8fe794fd1cb66cfbf2acebeff9c6ca50973",
-      "mtime": "1662863433",
-      "size": "148700",
-      "md5": "c0950dd4dc8d18f3820f27bd4a66a769",
-      "crc32": "309e84e5",
-      "sha1": "9d9cd39f27f15558182f540e692b565d9488c3df",
+      "btih": "bcce11347b1aa9f1dafb4ad38e58a8026faf2fa5",
+      "mtime": "1662905781",
+      "size": "149760",
+      "md5": "82eb5acec3aad6512156bcdd436079a2",
+      "crc32": "c651d52c",
+      "sha1": "c038ffaab1f4689e5b92a95a12b57e0bdefbb702",
       "format": "Archive BitTorrent"
     },
     {
       "name": "documentedny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "96e7c8b048ce993eadafed4555fefc0d",
+      "md5": "f87be8b0071b3ad47d20412c2b7a1e4d",
       "summation": "md5"
     },
     {
       "name": "documentedny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662863377",
-      "size": "868352",
-      "md5": "097c89a069b7c9d656d8b9b7758bcda2",
-      "crc32": "5bb1d7a2",
-      "sha1": "3bdf3c5a3b1df6a6bdc54dc62c8e4b71bb33cb3c",
+      "mtime": "1662905727",
+      "size": "876544",
+      "md5": "4d6eeda05ddc20d7829d0940bcf4f5f9",
+      "crc32": "f0e698ee",
+      "sha1": "aa2e6555f9e4250c325c2122cd221561d615f944",
       "format": "Metadata"
     },
     {
@@ -7164,9 +7216,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 690,
-  "item_last_updated": 1662863433,
-  "item_size": 51055347,
+  "files_count": 695,
+  "item_last_updated": 1662905781,
+  "item_size": 51445397,
   "metadata": {
     "identifier": "documentedny-2022",
     "collection": [
@@ -7183,10 +7235,10 @@
     "publicdate": "2022-07-09 03:58:14",
     "addeddate": "2022-07-09 03:58:14"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 1611425212,
+  "server": "ia902503.us.archive.org",
+  "uniq": 778046657,
   "workable_servers": [
-    "ia802503.us.archive.org",
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1662863372,
+  "created": 1662905636,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/24/items/curbed-2022",
@@ -7082,31 +7082,83 @@
       "sha1": "682c6169df6d1b3fd53f8d14f446f22889dc54c3"
     },
     {
+      "name": "curbed-2022-09-11T10:12:32.217731-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662905560",
+      "size": "20614",
+      "md5": "57d4d9b3d5fa6420f519314232c781a2",
+      "crc32": "b9259c17",
+      "sha1": "9a69f196b8a67e01740277ceb6aaaa95da5a0af0",
+      "format": "JSON"
+    },
+    {
+      "name": "curbed-2022-09-11T10:12:32.217731-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662905562",
+      "size": "15735",
+      "md5": "3e366f835e8908e6215a128a31348843",
+      "crc32": "dc2aae53",
+      "sha1": "0829b1f003c54e475e6c248c7cf6e14688e60368",
+      "format": "JSON"
+    },
+    {
+      "name": "curbed-2022-09-11T10:12:32.217731-04:00.jpg",
+      "source": "original",
+      "mtime": "1662905559",
+      "size": "273988",
+      "md5": "71feb5f815c35504f8c114d5134d675f",
+      "crc32": "dd4c5bc6",
+      "sha1": "7abfab5f0c55bbb1b542504d8a3cbf31249140a0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "curbed-2022-09-11T10:12:32.217731-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662905563",
+      "size": "1450",
+      "md5": "a8b190e03c0300950544bc5f80a3acc2",
+      "crc32": "ec31da13",
+      "sha1": "3541fb7398af789b02a0d763bbc61a1bb34827bf",
+      "format": "JSON"
+    },
+    {
+      "name": "curbed-2022-09-11T10:12:32.217731-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "curbed-2022-09-11T10:12:32.217731-04:00.jpg",
+      "mtime": "1662905620",
+      "size": "9601",
+      "md5": "32480edcd6e7d3a11b4787acf304acc2",
+      "crc32": "cca54308",
+      "sha1": "682c6169df6d1b3fd53f8d14f446f22889dc54c3"
+    },
+    {
       "name": "curbed-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7f3fd7dac74da22386aae33aca1483f94adab730",
-      "mtime": "1662863329",
-      "size": "143202",
-      "md5": "08490e2d2db3806f96f12aed21df3d04",
-      "crc32": "b86f018d",
-      "sha1": "4165087b8487d9c749d9f1509b0f09dbd3698515",
+      "btih": "0a366ad5e12585188d154f0928b5b8d04c5466dc",
+      "mtime": "1662905629",
+      "size": "144251",
+      "md5": "5a17beb5e3358bc4661b4429e1666ec4",
+      "crc32": "c30113e5",
+      "sha1": "129786e3780186287321f882ac3d9b906f32ef21",
       "format": "Archive BitTorrent"
     },
     {
       "name": "curbed-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "94fe6c28eeddbeac0e69aeb41fd4a6aa",
+      "md5": "4feaaf6fbf4e9d2a59221fd982b5c038",
       "summation": "md5"
     },
     {
       "name": "curbed-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662863268",
-      "size": "860160",
-      "md5": "22ec154c98042a6a85c41fd3cdb95576",
-      "crc32": "f672ec36",
-      "sha1": "2304cdcda0204fcc5258cc7ea51edc5e51c89a6f",
+      "mtime": "1662905567",
+      "size": "864256",
+      "md5": "6300838f489ec6313894348daefe9765",
+      "crc32": "42255f37",
+      "sha1": "3cb125d500f6f52ced4591d778987f0b23b2cb85",
       "format": "Metadata"
     },
     {
@@ -7120,9 +7172,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 686,
-  "item_last_updated": 1662863329,
-  "item_size": 41024695,
+  "files_count": 691,
+  "item_last_updated": 1662905629,
+  "item_size": 41351228,
   "metadata": {
     "identifier": "curbed-2022",
     "collection": [
@@ -7139,10 +7191,10 @@
     "publicdate": "2022-07-09 03:58:05",
     "addeddate": "2022-07-09 03:58:05"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 417335501,
+  "server": "ia601409.us.archive.org",
+  "uniq": 2037775328,
   "workable_servers": [
-    "ia801409.us.archive.org",
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

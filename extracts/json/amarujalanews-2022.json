@@ -1,5 +1,5 @@
 {
-  "created": 1662863201,
+  "created": 1662905265,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/7/items/amarujalanews-2022",
@@ -5468,31 +5468,83 @@
       "sha1": "a9814f2bcbe960ef9412f35b019b47ebebcf3099"
     },
     {
+      "name": "amarujalanews-2022-09-11T19:36:31.806580+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1662905195",
+      "size": "71496",
+      "md5": "353e09e54594a6431f1796b71e9f859b",
+      "crc32": "6d4f3fe9",
+      "sha1": "b2b76da8424501da9a8fa36e07ce123014382d61",
+      "format": "JSON"
+    },
+    {
+      "name": "amarujalanews-2022-09-11T19:36:31.806580+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662905196",
+      "size": "78593",
+      "md5": "2b6b29c1efed3ef218753d73d51cee6c",
+      "crc32": "b9790bd7",
+      "sha1": "e737012aff81cf275a71f63dd8fa550195e9675e",
+      "format": "JSON"
+    },
+    {
+      "name": "amarujalanews-2022-09-11T19:36:31.806580+05:30.jpg",
+      "source": "original",
+      "mtime": "1662905193",
+      "size": "308457",
+      "md5": "df86cf78f8c699365980c2c32f3dc4f1",
+      "crc32": "25b09ef5",
+      "sha1": "505a48d361355ca8ac91f6d8c1c7fd35b1b61529",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amarujalanews-2022-09-11T19:36:31.806580+05:30.wayback.json",
+      "source": "original",
+      "mtime": "1662905198",
+      "size": "31731",
+      "md5": "dbb33502773a28698c444d2c3e6e0038",
+      "crc32": "1ec53ad2",
+      "sha1": "bcae50c2ad39d74f6c624a369de676d4371e6b7d",
+      "format": "JSON"
+    },
+    {
+      "name": "amarujalanews-2022-09-11T19:36:31.806580+05:30_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amarujalanews-2022-09-11T19:36:31.806580+05:30.jpg",
+      "mtime": "1662905250",
+      "size": "9950",
+      "md5": "2909a522375075df600a08df1b2fcdf0",
+      "crc32": "8629379f",
+      "sha1": "9f46f510c14583026d7b535cb935196d5c658132"
+    },
+    {
       "name": "amarujalanews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "501b5f5cda87013bd89ed3a243f76998ad2b40b1",
-      "mtime": "1662863193",
-      "size": "115613",
-      "md5": "a33db26422d73c0a5b7567b77ebdb274",
-      "crc32": "b5bfaa22",
-      "sha1": "fdf0ecfe35902c61710a18a71c802b28cdbcf6aa",
+      "btih": "84d139a5cb23b12a3de51ce16ef3ea6372701517",
+      "mtime": "1662905258",
+      "size": "116695",
+      "md5": "3bcab717eaf88744f1c1b00ce8ccb58e",
+      "crc32": "ea49339d",
+      "sha1": "7f6e36b0ef6763857bd4e1888765ce1c0381c1ff",
       "format": "Archive BitTorrent"
     },
     {
       "name": "amarujalanews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f2d334abeb97793b3faffd4c102b0e42",
+      "md5": "ccb1873763ddf5c943c8e550529f2cc9",
       "summation": "md5"
     },
     {
       "name": "amarujalanews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662863130",
-      "size": "688128",
-      "md5": "80dfa1bef15e3462f9ba9a8043cea0c8",
-      "crc32": "f24d4709",
-      "sha1": "896f47b0ff3047d297e73ff82cc6aea09323c071",
+      "mtime": "1662905203",
+      "size": "692224",
+      "md5": "3cf7b667cb9093379b944c16838cdc69",
+      "crc32": "eb91bb59",
+      "sha1": "80e1bd5907e55097fbc0c7f40fc87fa7d1b6ec61",
       "format": "Metadata"
     },
     {
@@ -5506,9 +5558,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 532,
-  "item_last_updated": 1662863193,
-  "item_size": 46546695,
+  "files_count": 537,
+  "item_last_updated": 1662905258,
+  "item_size": 47052100,
   "metadata": {
     "identifier": "amarujalanews-2022",
     "collection": [
@@ -5526,7 +5578,7 @@
     "addeddate": "2022-07-27 17:18:18"
   },
   "server": "ia902500.us.archive.org",
-  "uniq": 22939187,
+  "uniq": 587812150,
   "workable_servers": [
     "ia902500.us.archive.org",
     "ia802500.us.archive.org"

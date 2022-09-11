@@ -1,5 +1,5 @@
 {
-  "created": 1662863496,
+  "created": 1662905839,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/1/items/elperiodico-2022",
@@ -5604,31 +5604,83 @@
       "sha1": "0bf3217ce734cc2865c0bb5d0510b6a9340421a3"
     },
     {
+      "name": "elperiodico-2022-09-11T16:15:17.997559+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662905720",
+      "size": "114937",
+      "md5": "201a70145c12655b3d94f5673828eff2",
+      "crc32": "7d32304f",
+      "sha1": "1907e1c2327308cfc516129438ad8740b385292d",
+      "format": "JSON"
+    },
+    {
+      "name": "elperiodico-2022-09-11T16:15:17.997559+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662905722",
+      "size": "198622",
+      "md5": "f7b2edd01a1596a7a4c03175a6a21917",
+      "crc32": "7f851b07",
+      "sha1": "520384bfdd3163ac96a0cff510c3c546b0ca7da0",
+      "format": "JSON"
+    },
+    {
+      "name": "elperiodico-2022-09-11T16:15:17.997559+02:00.jpg",
+      "source": "original",
+      "mtime": "1662905719",
+      "size": "246140",
+      "md5": "1aeed544543da5eccbb582d38947f3f6",
+      "crc32": "d6f7e4ed",
+      "sha1": "3a6405bdd5fd61135921a5fe8445108709f5687b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elperiodico-2022-09-11T16:15:17.997559+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662905723",
+      "size": "1530",
+      "md5": "911f9a1e986eb1f1173b7c446f434318",
+      "crc32": "b2469fc4",
+      "sha1": "7007ced46940fff9387924aefaaa1c67587183e7",
+      "format": "JSON"
+    },
+    {
+      "name": "elperiodico-2022-09-11T16:15:17.997559+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elperiodico-2022-09-11T16:15:17.997559+02:00.jpg",
+      "mtime": "1662905798",
+      "size": "9067",
+      "md5": "292bcf3df0a4afdb499fc8f73db7a197",
+      "crc32": "7a4ba305",
+      "sha1": "cf75f814c2f9fd587a382a7c872f22e0300cb9ac"
+    },
+    {
       "name": "elperiodico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "67b65d4dc4a13abdbb331733fbcac2ca611e6bd5",
-      "mtime": "1662863467",
-      "size": "117715",
-      "md5": "6dc8c7a3826127fcaa5db7fa5fdc0140",
-      "crc32": "6204b5ce",
-      "sha1": "6e4696db9fa202413e025dce511eb7feab0320f9",
+      "btih": "9e9e7438d6afad9e8a48b889fa8bce2f0b9ebda9",
+      "mtime": "1662905808",
+      "size": "118811",
+      "md5": "c8d15eb2c7c39ab088c3b4fc9730739c",
+      "crc32": "1021113f",
+      "sha1": "0ade7d34c3fc78c334944e34cc17b4ddcfc8785f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elperiodico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8c3fc5e9ce22b11b2d835d1416c94cb8",
+      "md5": "13df7a1b9c277ecc360dbd02aa5eabf6",
       "summation": "md5"
     },
     {
       "name": "elperiodico-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662863387",
-      "size": "700416",
-      "md5": "d1d41d65d45c0b1a637cc7a5ce7d6314",
-      "crc32": "aee916e7",
-      "sha1": "6f1e6ccef1e1946205b5a0b635faa6529e4ff447",
+      "mtime": "1662905733",
+      "size": "704512",
+      "md5": "27873085160ab238970eb6e1772b42cc",
+      "crc32": "d037ce21",
+      "sha1": "b49ecf53d32b9d214cb428e41534d734a7e0a08f",
       "format": "Metadata"
     },
     {
@@ -5642,9 +5694,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 545,
-  "item_last_updated": 1662863467,
-  "item_size": 55150129,
+  "files_count": 550,
+  "item_last_updated": 1662905808,
+  "item_size": 55725617,
   "metadata": {
     "identifier": "elperiodico-2022",
     "collection": [
@@ -5662,7 +5714,7 @@
     "addeddate": "2022-07-26 02:42:00"
   },
   "server": "ia801502.us.archive.org",
-  "uniq": 2031235004,
+  "uniq": 450477620,
   "workable_servers": [
     "ia801502.us.archive.org",
     "ia601502.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1662863334,
+  "created": 1662905688,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/2/items/calgaryherald-2022",
@@ -8656,31 +8656,93 @@
       "sha1": "49183ca846afa1eb81b9ea6c5f51d37f144d936e"
     },
     {
+      "name": "calgaryherald-2022-09-11T08:13:14.254261-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662905600",
+      "size": "66535",
+      "md5": "16e5ea84967510f10b83bc09d185cde6",
+      "crc32": "2c4f3af1",
+      "sha1": "fadbb5f8da989577e1ff948a997c437fd52bfeae",
+      "format": "JSON"
+    },
+    {
+      "name": "calgaryherald-2022-09-11T08:13:14.254261-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662905601",
+      "size": "59567",
+      "md5": "7171c5f98d8e18198d780b58d2e4bdb3",
+      "crc32": "27be019d",
+      "sha1": "2b4f05c509323933e72d5deaa44667915708396f",
+      "format": "JSON"
+    },
+    {
+      "name": "calgaryherald-2022-09-11T08:13:14.254261-06:00.jpg",
+      "source": "original",
+      "mtime": "1662905598",
+      "size": "311662",
+      "md5": "2bbb46624123fd27d3f5f98a0c6b01b6",
+      "crc32": "7e760a61",
+      "sha1": "78836ca49266444a66414192d65174257aad8022",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "calgaryherald-2022-09-11T08:13:14.254261-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662905603",
+      "size": "1477",
+      "md5": "bcce6c949423a4e72b34ed3910d754ce",
+      "crc32": "cef84c25",
+      "sha1": "78ec1b006698dffb8d3e575a0e923b9e0b344f10",
+      "format": "JSON"
+    },
+    {
+      "name": "calgaryherald-2022-09-11T08:13:14.254261-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1662905604",
+      "size": "409",
+      "md5": "3a670428a9a33d4062cdd998fe40934e",
+      "crc32": "de249782",
+      "sha1": "36ef7615253c4d986e2f3b66105f204d41df7d9e",
+      "format": "JSON"
+    },
+    {
+      "name": "calgaryherald-2022-09-11T08:13:14.254261-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "calgaryherald-2022-09-11T08:13:14.254261-06:00.jpg",
+      "mtime": "1662905670",
+      "size": "10227",
+      "md5": "9e33e2bad0082e935ea6b5cd7cdd6ffd",
+      "crc32": "4840d5bf",
+      "sha1": "58ae9e6d82e834d5ece11862c7ac4e464790fecd"
+    },
+    {
       "name": "calgaryherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d4082d758085ea5a8d48de1f4896d99fe7bb3235",
-      "mtime": "1662863320",
-      "size": "181095",
-      "md5": "b614739c33a8de733cf3dcaa5a9bb918",
-      "crc32": "beea46b3",
-      "sha1": "0816b2a1c39455bffec1f388ffa0b0f54fe20dc9",
+      "btih": "50ee12da9d1ddd5b2d93b3099bc3cb182dba830b",
+      "mtime": "1662905678",
+      "size": "182391",
+      "md5": "4ee0dd2c6c1088c45aa9ca08b932c73d",
+      "crc32": "9f5d3449",
+      "sha1": "4e19ffbfdbb26f60fcc834cdc19e703a937f79b2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "calgaryherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bb79d98461aa96d976821443d3a6b7aa",
+      "md5": "7043d2bb977dc584e78adea54ca8b41d",
       "summation": "md5"
     },
     {
       "name": "calgaryherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662863252",
-      "size": "1040384",
-      "md5": "5c51e7de2aa85376b2b3d607f5314264",
-      "crc32": "87078fda",
-      "sha1": "046e31795d8a082c5c2884e30fb9e2463734b26e",
+      "mtime": "1662905609",
+      "size": "1048576",
+      "md5": "caf280ba0a524a765e4dff72648a8f8a",
+      "crc32": "3687f1e8",
+      "sha1": "049551b4d965c6e4a2bc73b684ab38fd269ddb5e",
       "format": "Metadata"
     },
     {
@@ -8694,9 +8756,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 836,
-  "item_last_updated": 1662863320,
-  "item_size": 72847779,
+  "files_count": 842,
+  "item_last_updated": 1662905678,
+  "item_size": 73307144,
   "metadata": {
     "identifier": "calgaryherald-2022",
     "collection": [
@@ -8714,7 +8776,7 @@
     "addeddate": "2022-06-30 22:35:41"
   },
   "server": "ia601405.us.archive.org",
-  "uniq": 1526819102,
+  "uniq": 855493889,
   "workable_servers": [
     "ia601405.us.archive.org",
     "ia801405.us.archive.org"
