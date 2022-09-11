@@ -1,5 +1,5 @@
 {
-  "created": 1662868505,
+  "created": 1662911743,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/5/items/mongabay-2022",
@@ -7010,31 +7010,83 @@
       "sha1": "cd304bf3a0d66c4df3ad24190652a4cfd74af2d0"
     },
     {
+      "name": "mongabay-2022-09-11T08:08:23.893140-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662908912",
+      "size": "33040",
+      "md5": "4c8d866c65e3e2601f7721cb114f14ac",
+      "crc32": "8b97b746",
+      "sha1": "89314e46ab9ed5b54f7ad3c8422b7de2fc60a476",
+      "format": "JSON"
+    },
+    {
+      "name": "mongabay-2022-09-11T08:08:23.893140-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662908914",
+      "size": "20872",
+      "md5": "8bef97110931e4296e4618f0b631e6a6",
+      "crc32": "9945fc46",
+      "sha1": "763ee2d3371b215d8e7b38a19f863bece8a66bb4",
+      "format": "JSON"
+    },
+    {
+      "name": "mongabay-2022-09-11T08:08:23.893140-07:00.jpg",
+      "source": "original",
+      "mtime": "1662908909",
+      "size": "363854",
+      "md5": "9f8326df8a589926037e328ce214ce1b",
+      "crc32": "2d7331bc",
+      "sha1": "3d7c7fc118ad5d1234263e937634989b5ed0bce1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mongabay-2022-09-11T08:08:23.893140-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662908916",
+      "size": "1476",
+      "md5": "de8bc38628f4f3b8e429237f21d3fb9e",
+      "crc32": "1a12e3a7",
+      "sha1": "f819248a70f8a0c15f4a0bce3957fcdfaa78042d",
+      "format": "JSON"
+    },
+    {
+      "name": "mongabay-2022-09-11T08:08:23.893140-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mongabay-2022-09-11T08:08:23.893140-07:00.jpg",
+      "mtime": "1662908986",
+      "size": "10491",
+      "md5": "8988ba64338178592221a6814749ec0d",
+      "crc32": "dcb39a5f",
+      "sha1": "07195f42c8294c0db229915a6c4269dcea8c9ddf"
+    },
+    {
       "name": "mongabay-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c6495ec8f39c1b88cf8c283d24ad07d500839ae5",
-      "mtime": "1662868493",
-      "size": "143781",
-      "md5": "19166a0328bb4ebe46d03545e7d78ba1",
-      "crc32": "324da021",
-      "sha1": "735e5936343a35a0d8a996da9d8c95324f0409c5",
+      "btih": "97ba6d95f488d94263be5eb84283185f27934d89",
+      "mtime": "1662908998",
+      "size": "144841",
+      "md5": "4a6e5799058d23d72aff3253424dd556",
+      "crc32": "ee52590e",
+      "sha1": "aabbb76f8a00462d6de7076fa887043ccee29844",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mongabay-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "454999378e3b1925167b1973102c6cd7",
+      "md5": "f12cdda6fdf05b09d45e8d00a7140d7a",
       "summation": "md5"
     },
     {
       "name": "mongabay-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662868430",
-      "size": "851968",
-      "md5": "d4437f05d5a13c495f990286f1f938b8",
-      "crc32": "952394e8",
-      "sha1": "aa7747f6674157840c89f952cff364ef46bdf350",
+      "mtime": "1662908920",
+      "size": "856064",
+      "md5": "9bb662764d2fdd76fb17edf7a804de20",
+      "crc32": "ec42108c",
+      "sha1": "02a5868d465af25e39e769fa2172b6a213da9a19",
       "format": "Metadata"
     },
     {
@@ -7048,9 +7100,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 679,
-  "item_last_updated": 1662868493,
-  "item_size": 56179089,
+  "files_count": 684,
+  "item_last_updated": 1662908998,
+  "item_size": 56613978,
   "metadata": {
     "identifier": "mongabay-2022",
     "collection": [
@@ -7067,10 +7119,10 @@
     "publicdate": "2022-07-09 04:01:07",
     "addeddate": "2022-07-09 04:01:07"
   },
-  "server": "ia801503.us.archive.org",
-  "uniq": 352346440,
+  "server": "ia601503.us.archive.org",
+  "uniq": 25324557,
   "workable_servers": [
-    "ia801503.us.archive.org",
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1662905253,
+  "created": 1662909030,
   "d1": "ia903007.us.archive.org",
   "d2": "ia803007.us.archive.org",
   "dir": "/16/items/latimes-2022",
@@ -36296,31 +36296,83 @@
       "sha1": "53704a4295ae7e0d774fe2e9ae6e09dae343e0ea"
     },
     {
+      "name": "latimes-2022-09-11T08:05:46.343278-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662908754",
+      "size": "45632",
+      "md5": "7134fb5e4a7508b98be8a32024c8ba4d",
+      "crc32": "245a774b",
+      "sha1": "910f6c9afcb2b9a8880b71f109e1a9a6c362d4dd",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-09-11T08:05:46.343278-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662908757",
+      "size": "57259",
+      "md5": "fa268cf4ea5ed845ce6047a2cd08bd8d",
+      "crc32": "77bcee48",
+      "sha1": "73e7645e9a2c2c2ccc7a72f1d81de4783f1d476f",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-09-11T08:05:46.343278-07:00.jpg",
+      "source": "original",
+      "mtime": "1662908752",
+      "size": "292087",
+      "md5": "31252f823ebe2af3f11ee70c4a7ca22d",
+      "crc32": "d6477218",
+      "sha1": "fa5ac2fe5634f6a6cf4ecbdb154ab716b924da20",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "latimes-2022-09-11T08:05:46.343278-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662908759",
+      "size": "1468",
+      "md5": "f7b8ef1caa1c008dc29f6816476d8605",
+      "crc32": "4f09df6f",
+      "sha1": "d77b1000243991a6e932fad288f6d6b67176364d",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-09-11T08:05:46.343278-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "latimes-2022-09-11T08:05:46.343278-07:00.jpg",
+      "mtime": "1662908898",
+      "size": "9424",
+      "md5": "c7d420b93cda0b3ab9cd7bcda5469302",
+      "crc32": "236cdaf3",
+      "sha1": "3ccb6c21942b489952498cdb74dce626150c240d"
+    },
+    {
       "name": "latimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f75d77b5e92cbd5323f2af9e2cf7d2cb38fc13a1",
-      "mtime": "1662905235",
-      "size": "730775",
-      "md5": "2c3891d6fd96aee5322e0ff4e5fc8aa3",
-      "crc32": "83e6d7b3",
-      "sha1": "f723352d7bbf56eb05fa30da9b6f5fbb2ff95e15",
+      "btih": "86ceb6448b9c3c02fc25109c8fed6d0ad77d4208",
+      "mtime": "1662909007",
+      "size": "731829",
+      "md5": "a8fdd7bdfbd29a8acb357176d3ba7229",
+      "crc32": "6eddec74",
+      "sha1": "2f4293b100f0414f55e21bb50701f3fec65adfc4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "latimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1d3e5576a2f8fed5659d104fe74e96a9",
+      "md5": "3c5fe0026cc67f1a664148a3b856be8e",
       "summation": "md5"
     },
     {
       "name": "latimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662905011",
-      "size": "4124672",
-      "md5": "d94289c03d25872c9a517202007d195f",
-      "crc32": "e4b1f998",
-      "sha1": "6f04f84d2027d0185a5a525aa7d3baf523826537",
+      "mtime": "1662908764",
+      "size": "4128768",
+      "md5": "14cdf09c70b0b106fd29b76277310a4b",
+      "crc32": "7c7c3a3d",
+      "sha1": "e5ab444247872c3547c19573ed754b655a61ff24",
       "format": "Metadata"
     },
     {
@@ -36334,9 +36386,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 3480,
-  "item_last_updated": 1662905235,
-  "item_size": 321411907,
+  "files_count": 3485,
+  "item_last_updated": 1662909007,
+  "item_size": 321822927,
   "metadata": {
     "identifier": "latimes-2022",
     "collection": [
@@ -36353,10 +36405,10 @@
     "publicdate": "2022-03-22 20:29:38",
     "addeddate": "2022-03-22 20:29:38"
   },
-  "server": "ia803007.us.archive.org",
-  "uniq": 1895005155,
+  "server": "ia903007.us.archive.org",
+  "uniq": 61317018,
   "workable_servers": [
-    "ia803007.us.archive.org",
-    "ia903007.us.archive.org"
+    "ia903007.us.archive.org",
+    "ia803007.us.archive.org"
   ]
 }

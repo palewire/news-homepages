@@ -1,5 +1,5 @@
 {
-  "created": 1662897769,
+  "created": 1662912081,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/33/items/lancenet-2022",
@@ -6446,31 +6446,83 @@
       "sha1": "93309d214959ce7cf538cee4f4bb31ce20dd3b83"
     },
     {
+      "name": "lancenet-2022-09-11T12:06:15.419677-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662908778",
+      "size": "10324",
+      "md5": "17e3bd354944bc1e151fa871d6623fb1",
+      "crc32": "f2d33d69",
+      "sha1": "dc55cab90d2c1783a09f0d75a39c36fa364d2d83",
+      "format": "JSON"
+    },
+    {
+      "name": "lancenet-2022-09-11T12:06:15.419677-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662908780",
+      "size": "21384",
+      "md5": "1bdf803305d014317ac7bafdb263c942",
+      "crc32": "7b25eb85",
+      "sha1": "f192c31a162d168f88b38e9e285dd252d5207049",
+      "format": "JSON"
+    },
+    {
+      "name": "lancenet-2022-09-11T12:06:15.419677-03:00.jpg",
+      "source": "original",
+      "mtime": "1662908776",
+      "size": "293111",
+      "md5": "53dfad6be960c41680363abbbbcede97",
+      "crc32": "ccd43c33",
+      "sha1": "c84fde6ee23910f68739b65fda6d5de28ae0c5fe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lancenet-2022-09-11T12:06:15.419677-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662908782",
+      "size": "1459",
+      "md5": "413ce53fbf6b42ead51a9cb12bc11ec8",
+      "crc32": "188c2920",
+      "sha1": "a6ee8a342d3bbe527d4a73811a0fbbfa23fefa2a",
+      "format": "JSON"
+    },
+    {
+      "name": "lancenet-2022-09-11T12:06:15.419677-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lancenet-2022-09-11T12:06:15.419677-03:00.jpg",
+      "mtime": "1662908840",
+      "size": "10580",
+      "md5": "834f87b3e6d636174e5db12c8ef3fb87",
+      "crc32": "bcea623b",
+      "sha1": "233fc9ddf8221e08ea4a3c3bb6f02f713eeb51dd"
+    },
+    {
       "name": "lancenet-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4bb18ddb2f0115c7cef84411dad480ddd9794725",
-      "mtime": "1662897759",
-      "size": "132537",
-      "md5": "10bc939aff33d8c9168c7e6686f4fb92",
-      "crc32": "04376144",
-      "sha1": "6d2106dcab34e09d70a5f80ae6503cb32a075598",
+      "btih": "ba47f840d35a412c6ca54ca039e0e14e8d54ee0f",
+      "mtime": "1662908847",
+      "size": "133597",
+      "md5": "da750ebf4c85754884355e2273056190",
+      "crc32": "ecbd011b",
+      "sha1": "c4700384a0da94ada18068c1b5fc57853c9bb685",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lancenet-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a2bc1622b59a133b77ed00f941f6c74a",
+      "md5": "ba1c784628633cd72c075ff91aebf175",
       "summation": "md5"
     },
     {
       "name": "lancenet-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662897699",
-      "size": "806912",
-      "md5": "e168ad59a5750aa43753c0f135c7a17b",
-      "crc32": "5e0ba9fb",
-      "sha1": "151e8709c28c04f6331406725880bb94fdf7794b",
+      "mtime": "1662908788",
+      "size": "811008",
+      "md5": "90158eede0dff3d2b5ec457e4e34e2fc",
+      "crc32": "0e34d3e1",
+      "sha1": "610418e3889cbbc8bb588470d3789ccd8884c571",
       "format": "Metadata"
     },
     {
@@ -6484,9 +6536,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 627,
-  "item_last_updated": 1662897759,
-  "item_size": 41806949,
+  "files_count": 632,
+  "item_last_updated": 1662908847,
+  "item_size": 42148963,
+  "lancenet-2022": [
+    {
+      "url": "https://m.lance.com.br/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_lance_com_br-_-2022_09_11_14_47_08.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_lance_com_br-_-2022_09_11_14_47_08.report.json",
+      "summary": {
+        "performance": 0.02,
+        "accessibility": 0.79,
+        "best-practices": 0.58,
+        "seo": 0.86,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://m.lance.com.br/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_lance_com_br-_-2022_09_11_14_48_12.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_lance_com_br-_-2022_09_11_14_48_12.report.json",
+      "summary": {
+        "performance": 0.02,
+        "accessibility": 0.79,
+        "best-practices": 0.58,
+        "seo": 0.85,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://m.lance.com.br/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_lance_com_br-_-2022_09_11_14_46_04.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_lance_com_br-_-2022_09_11_14_46_04.report.json",
+      "summary": {
+        "performance": 0.02,
+        "accessibility": 0.79,
+        "best-practices": 0.58,
+        "seo": 0.86,
+        "pwa": 0.4
+      }
+    }
+  ],
   "metadata": {
     "identifier": "lancenet-2022",
     "collection": [
@@ -6503,10 +6596,10 @@
     "publicdate": "2022-08-04 04:55:32",
     "addeddate": "2022-08-04 04:55:32"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 1511505196,
+  "server": "ia601505.us.archive.org",
+  "uniq": 1815085339,
   "workable_servers": [
-    "ia801505.us.archive.org",
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

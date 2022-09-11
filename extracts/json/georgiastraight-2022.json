@@ -1,5 +1,5 @@
 {
-  "created": 1662871369,
+  "created": 1662908722,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/14/items/georgiastraight-2022",
@@ -8450,31 +8450,83 @@
       "sha1": "043fae9e566f84e770f2e3a85f216b5d1b0b214d"
     },
     {
+      "name": "georgiastraight-2022-09-11T08:03:37.263132-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662908625",
+      "size": "28784",
+      "md5": "cbe679e5e90fb149135892f3748f6843",
+      "crc32": "d76aabb5",
+      "sha1": "2a3b8378f3d048d3e04cf7d5a6a261797ac66c53",
+      "format": "JSON"
+    },
+    {
+      "name": "georgiastraight-2022-09-11T08:03:37.263132-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662908627",
+      "size": "27973",
+      "md5": "6844ff19c25e604bee1a11ee4fd9aa86",
+      "crc32": "ff68791f",
+      "sha1": "187ed163494565b7657a9cb38e917803db14f3d1",
+      "format": "JSON"
+    },
+    {
+      "name": "georgiastraight-2022-09-11T08:03:37.263132-07:00.jpg",
+      "source": "original",
+      "mtime": "1662908623",
+      "size": "318694",
+      "md5": "8c16c6359923947ae4553585d7535082",
+      "crc32": "09e9675c",
+      "sha1": "7d07444885ff50b8650833cb8a228cb39ac664b8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "georgiastraight-2022-09-11T08:03:37.263132-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662908629",
+      "size": "1475",
+      "md5": "682867b490fd9cf613cddb6705ea3a2d",
+      "crc32": "f306f25d",
+      "sha1": "aabd35a26f27ebf3c092c46b63b989468895d90a",
+      "format": "JSON"
+    },
+    {
+      "name": "georgiastraight-2022-09-11T08:03:37.263132-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "georgiastraight-2022-09-11T08:03:37.263132-07:00.jpg",
+      "mtime": "1662908696",
+      "size": "9518",
+      "md5": "8c76914b4e2ef0fa548328aa989083f7",
+      "crc32": "36fe2452",
+      "sha1": "3cf1ebdff5cf668a30fdd6e214c70bf7bad730a1"
+    },
+    {
       "name": "georgiastraight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "408aafc96cf23d307f220b6cd87bccbea0c37f1d",
-      "mtime": "1662868221",
-      "size": "178176",
-      "md5": "5e45ba85f53cf124d6c4f78f2a0e2bd3",
-      "crc32": "8bc69796",
-      "sha1": "69a82be7883c02af10398be7398aee66d005d55b",
+      "btih": "94150d172cdb99a708db4fc00504e8fba4aa2530",
+      "mtime": "1662908711",
+      "size": "179270",
+      "md5": "d5f1da7a8577634f192b4a12754775c6",
+      "crc32": "8388eae8",
+      "sha1": "0e96ffd39eafd78c11fdaee8e54e8ce53ed535e7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "georgiastraight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "09d692cac18194ac951da66db6c91b06",
+      "md5": "8006e3e0b66210ed9c179416895f45a0",
       "summation": "md5"
     },
     {
       "name": "georgiastraight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662868156",
-      "size": "1015808",
-      "md5": "13ef46047ba7ca9f133d4aa356dcd631",
-      "crc32": "38a69d64",
-      "sha1": "c85ed0fc18a76eb8a96b4f95b98e4d315c3b6a53",
+      "mtime": "1662908634",
+      "size": "1024000",
+      "md5": "58bcd222f42c02a4e4c5c9099b25e6ee",
+      "crc32": "e3bd3d5e",
+      "sha1": "a22b46497a64521e6b11c69d38e1ab23704f13ab",
       "format": "Metadata"
     },
     {
@@ -8488,9 +8540,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 816,
-  "item_last_updated": 1662868221,
-  "item_size": 65088422,
+  "files_count": 821,
+  "item_last_updated": 1662908711,
+  "item_size": 65484152,
   "metadata": {
     "identifier": "georgiastraight-2022",
     "collection": [
@@ -8508,7 +8560,7 @@
     "addeddate": "2022-06-30 22:35:36"
   },
   "server": "ia801403.us.archive.org",
-  "uniq": 751804064,
+  "uniq": 95080841,
   "workable_servers": [
     "ia801403.us.archive.org",
     "ia601403.us.archive.org"

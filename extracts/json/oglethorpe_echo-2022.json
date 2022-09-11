@@ -1,5 +1,5 @@
 {
-  "created": 1662868643,
+  "created": 1662909084,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/1/items/oglethorpe_echo-2022",
@@ -1928,31 +1928,93 @@
       "sha1": "e8d5c6d30abee35e53743181f9c2e451d20bedfc"
     },
     {
+      "name": "oglethorpe_echo-2022-09-11T11:10:11.180296-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662909015",
+      "size": "12878",
+      "md5": "930df6e059b559a704573a4bc411a37a",
+      "crc32": "1f734494",
+      "sha1": "a93b984a65d0488fa37e5ce1a88ff402cbd50f40",
+      "format": "JSON"
+    },
+    {
+      "name": "oglethorpe_echo-2022-09-11T11:10:11.180296-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662909017",
+      "size": "6455",
+      "md5": "258adfa37eacc7263b0a44731810885f",
+      "crc32": "f1697449",
+      "sha1": "87f5e0ca100ad9f5fcfbcae4635ab5be5bc2c446",
+      "format": "JSON"
+    },
+    {
+      "name": "oglethorpe_echo-2022-09-11T11:10:11.180296-04:00.jpg",
+      "source": "original",
+      "mtime": "1662909013",
+      "size": "357388",
+      "md5": "28c81e864f6a6c6cab43507aff9a23f8",
+      "crc32": "2ac7a398",
+      "sha1": "8579b903cb93b7707c7d5eb49eafff1ae0eda5ed",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oglethorpe_echo-2022-09-11T11:10:11.180296-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662909018",
+      "size": "1554",
+      "md5": "2120f08b0f655446383271e37a90623c",
+      "crc32": "b9a82274",
+      "sha1": "e69bc0a45d7b50fec59d532f1cc40e5753c75029",
+      "format": "JSON"
+    },
+    {
+      "name": "oglethorpe_echo-2022-09-11T11:10:11.180296-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662909020",
+      "size": "17094",
+      "md5": "281ea4f4c77eb960376a01dca5f87ca5",
+      "crc32": "7e08b49e",
+      "sha1": "f355ef731d5be633f35ebab75db1a394f86590a9",
+      "format": "JSON"
+    },
+    {
+      "name": "oglethorpe_echo-2022-09-11T11:10:11.180296-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oglethorpe_echo-2022-09-11T11:10:11.180296-04:00.jpg",
+      "mtime": "1662909072",
+      "size": "9836",
+      "md5": "a7da29b2e07bbf435c178f9b95b88eee",
+      "crc32": "2991150e",
+      "sha1": "4d8b03cf42e7ebf52903f782c6b326e7bd6a343e"
+    },
+    {
       "name": "oglethorpe_echo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "93dcca5760dc24b12867bbb6ab9a9f9b13771c08",
-      "mtime": "1662868637",
-      "size": "41843",
-      "md5": "f41cf0291df846ff0d258bf1adf378b3",
-      "crc32": "4da54041",
-      "sha1": "38a78790324ead5126e0bbe19cce43ca14cbad3d",
+      "btih": "9c5f61799967d4eea70eae1af9204f8ff6d54bcd",
+      "mtime": "1662909075",
+      "size": "43151",
+      "md5": "be7e9f20583cf82c0dcc96c121b26499",
+      "crc32": "9fc32caf",
+      "sha1": "e04da83a8182ff10174672303bd62310ce7f2928",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oglethorpe_echo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6b6d845ab531f982872566cead267608",
+      "md5": "fd6c965c7a664d83a9c3f5561bb90815",
       "summation": "md5"
     },
     {
       "name": "oglethorpe_echo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662868593",
-      "size": "262144",
-      "md5": "e1def4f81ec9d2753768f21abc8b906d",
-      "crc32": "a2f79122",
-      "sha1": "6e352f1ebe52fcd978fb4fe86a11dd2ce0eee6e6",
+      "mtime": "1662909024",
+      "size": "266240",
+      "md5": "9d0e592292aeeeae07db8699ba3257f4",
+      "crc32": "0b628e35",
+      "sha1": "8894990f195fc38c676917ec0bb3862414cfeeaa",
       "format": "Metadata"
     },
     {
@@ -1966,9 +2028,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 190,
-  "item_last_updated": 1662868637,
-  "item_size": 11919270,
+  "files_count": 196,
+  "item_last_updated": 1662909075,
+  "item_size": 12329879,
   "metadata": {
     "identifier": "oglethorpe_echo-2022",
     "collection": [
@@ -1986,7 +2048,7 @@
     "addeddate": "2022-08-26 15:03:05"
   },
   "server": "ia801409.us.archive.org",
-  "uniq": 690895204,
+  "uniq": 289482113,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"
