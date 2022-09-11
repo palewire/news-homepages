@@ -1,5 +1,5 @@
 {
-  "created": 1662871997,
+  "created": 1662874251,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/17/items/tass_agency-2022",
@@ -9074,31 +9074,83 @@
       "sha1": "cee23f0529ac5a658f8cf8d85b1e237f571c3793"
     },
     {
+      "name": "tass_agency-2022-09-11T08:29:03.807884+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662874147",
+      "size": "42",
+      "md5": "2c44e5332bbb2c8cce7db932cef2f7de",
+      "crc32": "320d6962",
+      "sha1": "4adf22edd6c4f5646546cf06832072268c0ced30",
+      "format": "JSON"
+    },
+    {
+      "name": "tass_agency-2022-09-11T08:29:03.807884+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662874149",
+      "size": "2",
+      "md5": "d751713988987e9331980363e24189ce",
+      "crc32": "0d4cbb29",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c",
+      "format": "JSON"
+    },
+    {
+      "name": "tass_agency-2022-09-11T08:29:03.807884+03:00.jpg",
+      "source": "original",
+      "mtime": "1662874145",
+      "size": "211063",
+      "md5": "818c30cbfccee353caaa122b1877414d",
+      "crc32": "b46d9066",
+      "sha1": "f41e9df7035f46a041279f74dc31e81241eb7dcd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tass_agency-2022-09-11T08:29:03.807884+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1662874151",
+      "size": "609",
+      "md5": "e49c1884909e5a1136ba994b289c25c8",
+      "crc32": "5186dbbb",
+      "sha1": "bed099823fa0be19a712a890fe2b54212ede6932",
+      "format": "JSON"
+    },
+    {
+      "name": "tass_agency-2022-09-11T08:29:03.807884+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tass_agency-2022-09-11T08:29:03.807884+03:00.jpg",
+      "mtime": "1662874235",
+      "size": "8624",
+      "md5": "0bd6ec1ef64f36d2fa304b500cc15776",
+      "crc32": "8e8858a1",
+      "sha1": "ee9dfd3bedc6622cee0f2284c3c9cac4213fc85c"
+    },
+    {
       "name": "tass_agency-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a682fb27c2782f3c9dca0a6dc43cb2d44150f843",
-      "mtime": "1662871992",
-      "size": "184894",
-      "md5": "94c69802f4bccfdc498eed5e0372a0fc",
-      "crc32": "22579838",
-      "sha1": "598094253a52f45c5997eace83c048acc5dfb36c",
+      "btih": "cd77fb16831d47b33d428120ea1f1a6e9f74ce75",
+      "mtime": "1662874243",
+      "size": "185937",
+      "md5": "617475d3ce8fbb53f24d3c2c694ce9c7",
+      "crc32": "52a77f30",
+      "sha1": "c5c3b2f3f6b987e03bb2870f47129d07ddcdcee7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tass_agency-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4ec177c59bb494d594823ca2e322ba49",
+      "md5": "5d927b1d6533b6440a0af990cc19abd8",
       "summation": "md5"
     },
     {
       "name": "tass_agency-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662871853",
-      "size": "1093632",
-      "md5": "3de3dcced781d4c003a57bd115ff9537",
-      "crc32": "f0deb37e",
-      "sha1": "e85118f82796ea738c23e0c8bf79621a99702516",
+      "mtime": "1662874167",
+      "size": "1097728",
+      "md5": "456844d32d5547171fc5fb0c180d7a0a",
+      "crc32": "fd5bea5d",
+      "sha1": "ed3ea824291bcf3943317c82b39c02a6fb3b8097",
       "format": "Metadata"
     },
     {
@@ -9112,9 +9164,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 877,
-  "item_last_updated": 1662871992,
-  "item_size": 24486009,
+  "files_count": 882,
+  "item_last_updated": 1662874243,
+  "item_size": 24711488,
   "metadata": {
     "identifier": "tass_agency-2022",
     "collection": [
@@ -9131,10 +9183,10 @@
     "publicdate": "2022-07-16 20:29:00",
     "addeddate": "2022-07-16 20:29:00"
   },
-  "server": "ia801504.us.archive.org",
-  "uniq": 1856971500,
+  "server": "ia601504.us.archive.org",
+  "servers_unavailable": true,
+  "uniq": 928270826,
   "workable_servers": [
-    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }
