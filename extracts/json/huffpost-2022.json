@@ -1,5 +1,6 @@
 {
-  "created": 1662855114,
+  "conflict": 1662921131,
+  "created": 1662921131,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/33/items/huffpost-2022",
@@ -13594,31 +13595,140 @@
       "sha1": "f86016532a55af5eaff96f7cd903ddc4e07934c3"
     },
     {
+      "name": "huffpost-2022-09-11T07:56:03.439907-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662897366",
+      "size": "36330",
+      "md5": "26988b18d452705705be1f65b7db3b3e",
+      "crc32": "e61aeb46",
+      "sha1": "a927b428999aaa2e397af46e7d2404b5b9e9493b",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-09-11T07:56:03.439907-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662897368",
+      "size": "71167",
+      "md5": "d7981a4cb3cce56a6bb96d318b3c87b1",
+      "crc32": "e1386742",
+      "sha1": "d66271870e69ddb4c3f071ed9a3d3391046ef3e7",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-09-11T07:56:03.439907-04:00.jpg",
+      "source": "original",
+      "mtime": "1662897365",
+      "size": "257167",
+      "md5": "4c87e0a8bb399e11129e488967b9916c",
+      "crc32": "7911d389",
+      "sha1": "e44384e9bd14e0f6b3632535789b5a809d50bf36",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "huffpost-2022-09-11T07:56:03.439907-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662897370",
+      "size": "1477",
+      "md5": "348c6084f16b02c5a8ad1ef8c8464cf3",
+      "crc32": "8df580c0",
+      "sha1": "d01b525a9b4821244030d104f8ba3e6833a10c68",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-09-11T07:56:03.439907-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "huffpost-2022-09-11T07:56:03.439907-04:00.jpg",
+      "mtime": "1662897443",
+      "size": "10711",
+      "md5": "3a7e72302f878fcc016dbf18e2180df4",
+      "crc32": "0d17a8fd",
+      "sha1": "30a47289725fd31681a01f978d31eae562e73c8f"
+    },
+    {
+      "name": "huffpost-2022-09-11T14:29:18.661135-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662920970",
+      "size": "35117",
+      "md5": "d1b9a09eb46dcd61a08a59d41949c3a5",
+      "crc32": "625b3d75",
+      "sha1": "c2c8531728a1df600a44d0744c7548622d0a41a5",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-09-11T14:29:18.661135-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662920971",
+      "size": "63429",
+      "md5": "a9421845f4a5b573b76ca5e9aafb1dc8",
+      "crc32": "3b4ddfcb",
+      "sha1": "b496a2414db832a85398aa2e3dc2dc83938ec469",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-09-11T14:29:18.661135-04:00.jpg",
+      "source": "original",
+      "mtime": "1662920968",
+      "size": "243587",
+      "md5": "5bf6d8f851e4335c6f0ff304c1a263cd",
+      "crc32": "3c311990",
+      "sha1": "3be547c2ac1a3a921f23dae59927142f8ad782ed",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "huffpost-2022-09-11T14:29:18.661135-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662920973",
+      "size": "1477",
+      "md5": "b09e2cb0a09c39f3d3a00ac6bbf11e60",
+      "crc32": "a56c755d",
+      "sha1": "6938eecfea7aa18e5070925d27bfc790a34f57b8",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-09-11T14:29:18.661135-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662920975",
+      "size": "232",
+      "md5": "42857a7a97a7c14e8b61ce6a71e5a61b",
+      "crc32": "1f9a98c6",
+      "sha1": "e346b294d00d7216a28f1c078d3a676d626d6c52",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-09-11T14:29:18.661135-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "huffpost-2022-09-11T14:29:18.661135-04:00.jpg"
+    },
+    {
       "name": "huffpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d1cfe7adc7c75e3a7f5d3d68f9d07ae07d040d65",
-      "mtime": "1662855104",
-      "size": "276471",
-      "md5": "c532c8760f5252964606bae124b8325a",
-      "crc32": "ab064d97",
-      "sha1": "95914a398c044e449d1d1af1a4a5c9a258608eed",
+      "btih": "43724460f9761fc656e89e37179f8c401174e705",
+      "mtime": "1662921028",
+      "size": "278572",
+      "md5": "e936ee685866e9af0a82f3e406ad99c8",
+      "crc32": "0fc74b6b",
+      "sha1": "9832a224600781bf38744bfdffbfab725abdbf4a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "huffpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "70bf763bdf3563d14dd4333f466929ee",
+      "md5": "7e2c29605ee4651795c5ba346c1ed862",
       "summation": "md5"
     },
     {
       "name": "huffpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662855007",
-      "size": "1597440",
-      "md5": "a69e6c8a8b27b76b575295497e213fe6",
-      "crc32": "4d835279",
-      "sha1": "b2fb54e154b476260023f3ecf45e3d74d408785a",
+      "mtime": "1662920978",
+      "size": "1609728",
+      "md5": "3fa6ab0d71d8f1a527b315af87bed6fc",
+      "crc32": "6767848f",
+      "sha1": "f4bdcede2dfe127967dfdf46575073ce26e7c583",
       "format": "Metadata"
     },
     {
@@ -13632,9 +13742,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1310,
-  "item_last_updated": 1662855104,
-  "item_size": 98588250,
+  "files_count": 1321,
+  "item_last_updated": 1662921028,
+  "item_size": 99323333,
   "metadata": {
     "identifier": "huffpost-2022",
     "collection": [
@@ -13651,10 +13761,21 @@
     "publicdate": "2022-06-24 22:56:52",
     "addeddate": "2022-06-24 22:56:52"
   },
+  "pending_tasks": true,
   "server": "ia902502.us.archive.org",
-  "uniq": 1684353406,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3399475806,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 128494594,
   "workable_servers": [
-    "ia902502.us.archive.org",
-    "ia802502.us.archive.org"
+    "ia902502.us.archive.org"
   ]
 }
