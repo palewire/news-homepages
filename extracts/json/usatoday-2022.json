@@ -1,5 +1,6 @@
 {
-  "created": 1662902004,
+  "conflict": 1662931246,
+  "created": 1662931246,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/20/items/usatoday-2022",
@@ -24562,31 +24563,78 @@
       "sha1": "dbe1f0f87a58dd83df84dae2f26b61ec2ba98b37"
     },
     {
+      "name": "usatoday-2022-09-11T17:18:52.909288-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662931136",
+      "size": "30848",
+      "md5": "6c8a1bd50ee22007049958edc83f322e",
+      "crc32": "9cd71b75",
+      "sha1": "619b549e8459c63b10caf7e562bfbe7bb20aa1fa",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-09-11T17:18:52.909288-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662931138",
+      "size": "38034",
+      "md5": "caf4a0577d7d062a96ba942ba148743a",
+      "crc32": "7ccf12fe",
+      "sha1": "762c3bd875622fcb3cf576a014cd886d962f1879",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-09-11T17:18:52.909288-04:00.jpg",
+      "source": "original",
+      "mtime": "1662931135",
+      "size": "324736",
+      "md5": "aa2c975fcc129a0191384d9d131feeb8",
+      "crc32": "e559b8c7",
+      "sha1": "71f684b00ffc0b8cd1b2825d7a72dffda5de1111",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "usatoday-2022-09-11T17:18:52.909288-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662931140",
+      "size": "1477",
+      "md5": "48ead38f1dc8be11556a1f85b76a75e2",
+      "crc32": "55ea2154",
+      "sha1": "697d8a8e669d87c1dc7697c6cb825b894d9c2cdf",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-09-11T17:18:52.909288-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "usatoday-2022-09-11T17:18:52.909288-04:00.jpg"
+    },
+    {
       "name": "usatoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "018816fc045e8279185a4d3c4b55898d0e931b9b",
-      "mtime": "1662901979",
-      "size": "497627",
-      "md5": "0b44f79a03c4c2b9792ce95ac00cbf23",
-      "crc32": "a425166d",
-      "sha1": "49b370f5e1f43f07e8f54797ab04b527e18c57e0",
+      "btih": "0480bbe895403c70bf93239e212c4bdd03950060",
+      "mtime": "1662931219",
+      "size": "498482",
+      "md5": "9f6d08f265e6b96c05f8eefcea9cc9f5",
+      "crc32": "bbba3c7a",
+      "sha1": "69277707ec83d0a9df39ef293d614ab873b16b97",
       "format": "Archive BitTorrent"
     },
     {
       "name": "usatoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d68a69488694627b6e59df24c0ba1b5a",
+      "md5": "1fbe942d1a44f417593c57094f3981e7",
       "summation": "md5"
     },
     {
       "name": "usatoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662901763",
-      "size": "2809856",
-      "md5": "f505c46a2d46435e9fa71e3c42a75931",
-      "crc32": "8f2fa248",
-      "sha1": "ca063f96fbe2b9cfcab99f44c2aa8c27bfd96a22",
+      "mtime": "1662931146",
+      "size": "2818048",
+      "md5": "cbe24ffb82ab31b117263215d9d87ba7",
+      "crc32": "39a8aa39",
+      "sha1": "8ec5ddcb25c5b0ea34eb548e0e1156e53e013db3",
       "format": "Metadata"
     },
     {
@@ -24600,9 +24648,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2357,
-  "item_last_updated": 1662901979,
-  "item_size": 214642243,
+  "files_count": 2362,
+  "item_last_updated": 1662931219,
+  "item_size": 215046385,
   "metadata": {
     "identifier": "usatoday-2022",
     "collection": [
@@ -24619,10 +24667,21 @@
     "publicdate": "2022-03-23 12:05:23",
     "addeddate": "2022-03-23 12:05:23"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 1802727205,
+  "pending_tasks": true,
+  "server": "ia601500.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3399552766,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1097038632,
   "workable_servers": [
-    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }
