@@ -1,5 +1,5 @@
 {
-  "created": 1662822525,
+  "created": 1662868673,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/16/items/nypost-2022",
@@ -7046,31 +7046,83 @@
       "sha1": "7041dfe8ec16aa28e181ad03ab09a9754838fa23"
     },
     {
+      "name": "nypost-2022-09-10T23:56:27.560914-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662868590",
+      "size": "60954",
+      "md5": "3fa6b821c76666c46b63ec338944a4c1",
+      "crc32": "756f9898",
+      "sha1": "0bf59fbc9432c3aa0322c81e520be9664c36ff16",
+      "format": "JSON"
+    },
+    {
+      "name": "nypost-2022-09-10T23:56:27.560914-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662868591",
+      "size": "63142",
+      "md5": "b4539aeaec21e452572a75f81b69b138",
+      "crc32": "a311c8c3",
+      "sha1": "8bffe1ed64ba0f76e2115acfa7533680af3d8773",
+      "format": "JSON"
+    },
+    {
+      "name": "nypost-2022-09-10T23:56:27.560914-04:00.jpg",
+      "source": "original",
+      "mtime": "1662868588",
+      "size": "347300",
+      "md5": "6543a31bb7180283d39973d0cab65a75",
+      "crc32": "2220885e",
+      "sha1": "56f71c074fcf50d89c906e47910292f79895717d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nypost-2022-09-10T23:56:27.560914-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662868592",
+      "size": "1423",
+      "md5": "cc2e07aa6eae2a40b87b0622590af412",
+      "crc32": "76759de8",
+      "sha1": "a828b6aa27378fa48b0892ac31a0f4ed1d443bd9",
+      "format": "JSON"
+    },
+    {
+      "name": "nypost-2022-09-10T23:56:27.560914-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nypost-2022-09-10T23:56:27.560914-04:00.jpg",
+      "mtime": "1662868650",
+      "size": "11845",
+      "md5": "1d3a96c30129110d54f0ba295aa3a3ea",
+      "crc32": "b99b1087",
+      "sha1": "8e7bed5ba24297b015fb615c73cc6fbb26dd33fc"
+    },
+    {
       "name": "nypost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7cf64dc3bee0faa6724c3b3d293470d202777a43",
-      "mtime": "1662822515",
-      "size": "142827",
-      "md5": "04cfbaaeb4fb38dca672a89ea5757622",
-      "crc32": "03010e61",
-      "sha1": "70a1f9f282ed756c1df156783f78102042968f19",
+      "btih": "412bc27babdbc1be8c654b95f54cfb850eafc283",
+      "mtime": "1662868660",
+      "size": "143877",
+      "md5": "1ed3e77402ece47217a1a5a7c5ebb693",
+      "crc32": "bca67fa3",
+      "sha1": "b8e18ccb3074ed605e7d4d333763082aea7158b3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nypost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "26b6cc3f7acd0067504a8ef957b7631c",
+      "md5": "8303a7a295e2dd5d26ec9ab37c43aa38",
       "summation": "md5"
     },
     {
       "name": "nypost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662822448",
-      "size": "831488",
-      "md5": "968e1c9552afe9684afa1b17beb93a03",
-      "crc32": "efb9a3cc",
-      "sha1": "a0365fdb9cb62f23b53ddd97094b50ee718a59f0",
+      "mtime": "1662868596",
+      "size": "835584",
+      "md5": "5014138c8bd4ee27e4249dfe64331b55",
+      "crc32": "2b136c6f",
+      "sha1": "521fb39d4abf8586ac265ef79e3f9e23bd6115f9",
       "format": "Metadata"
     },
     {
@@ -7084,9 +7136,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 680,
-  "item_last_updated": 1662822515,
-  "item_size": 66956135,
+  "files_count": 685,
+  "item_last_updated": 1662868660,
+  "item_size": 67445945,
   "metadata": {
     "identifier": "nypost-2022",
     "collection": [
@@ -7104,7 +7156,7 @@
     "addeddate": "2022-07-04 21:50:06"
   },
   "server": "ia802506.us.archive.org",
-  "uniq": 70180162,
+  "uniq": 827597734,
   "workable_servers": [
     "ia802506.us.archive.org",
     "ia902506.us.archive.org"

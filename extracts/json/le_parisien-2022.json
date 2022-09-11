@@ -1,5 +1,5 @@
 {
-  "created": 1662822453,
+  "created": 1662868813,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/8/items/le_parisien-2022",
@@ -17008,31 +17008,83 @@
       "sha1": "4ef0e54aed75f4f3ca9bbcb61c2920b684dc9e0b"
     },
     {
+      "name": "le_parisien-2022-09-11T05:52:13.370652+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662868336",
+      "size": "79405",
+      "md5": "d63c04f00b267d9223330995e4dcd43a",
+      "crc32": "ffface3f",
+      "sha1": "e7bf8f28dfde39106c9df830550485323f2f74c2",
+      "format": "JSON"
+    },
+    {
+      "name": "le_parisien-2022-09-11T05:52:13.370652+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662868337",
+      "size": "92887",
+      "md5": "cba4964e191a43ad0c9ca0324ff31d58",
+      "crc32": "337f0cb2",
+      "sha1": "6877608c8450b685c4cc4282c1a5344e4dbac3a5",
+      "format": "JSON"
+    },
+    {
+      "name": "le_parisien-2022-09-11T05:52:13.370652+02:00.jpg",
+      "source": "original",
+      "mtime": "1662868334",
+      "size": "290436",
+      "md5": "02d4968f9bb7ed84f60a3f3ad1ee4b62",
+      "crc32": "d0caa590",
+      "sha1": "bf8392af0147b89825c2a2e205e24bf11f378cc6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_parisien-2022-09-11T05:52:13.370652+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662868339",
+      "size": "1486",
+      "md5": "8202860125eb0ebbef2bbdf689a4d89b",
+      "crc32": "79eb0676",
+      "sha1": "f519f3abf9eb8f1d9761e64e9df03858229617d5",
+      "format": "JSON"
+    },
+    {
+      "name": "le_parisien-2022-09-11T05:52:13.370652+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_parisien-2022-09-11T05:52:13.370652+02:00.jpg",
+      "mtime": "1662868767",
+      "size": "10192",
+      "md5": "6209695890264bee5d35fba51ae9e151",
+      "crc32": "33086d6e",
+      "sha1": "f835ee9598741946f093ebde5a3f79ff6633a3f1"
+    },
+    {
       "name": "le_parisien-2022_archive.torrent",
       "source": "metadata",
-      "btih": "07f65c95a8ca0d7cbe2470771b963b7dcf349c36",
-      "mtime": "1662822440",
-      "size": "351472",
-      "md5": "e524448904ca0ac121a2b6fb8fc5dd07",
-      "crc32": "44e0330b",
-      "sha1": "1f5dbe56cc1f2acd4058d5ac81a3db7e49bf8f2b",
+      "btih": "c4f83457eba459e13b9093eaa330c667968e167f",
+      "mtime": "1662868789",
+      "size": "352547",
+      "md5": "957108ed7f92fa452d2a6aac4366e1d0",
+      "crc32": "0ed3fec8",
+      "sha1": "e7418f4ea278439cde5627b612aff47427f0bd27",
       "format": "Archive BitTorrent"
     },
     {
       "name": "le_parisien-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d4a4e7f765c7eef0c3d4046109671014",
+      "md5": "cc918ccbd7f8bce1a2f312b05fd884b8",
       "summation": "md5"
     },
     {
       "name": "le_parisien-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662822312",
-      "size": "1974272",
-      "md5": "e72c0a6b419799c1f9769f7e258cd412",
-      "crc32": "c0d5d4c1",
-      "sha1": "79f267b281ad425515feecfd05622072503c5054",
+      "mtime": "1662868351",
+      "size": "1982464",
+      "md5": "9170d85f1f365b2b47ff79f742311c2c",
+      "crc32": "6c2d737e",
+      "sha1": "3f73736c99199ad28e298571c8cb4e7bd590e9c0",
       "format": "Metadata"
     },
     {
@@ -17046,9 +17098,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1635,
-  "item_last_updated": 1662822440,
-  "item_size": 170541935,
+  "files_count": 1640,
+  "item_last_updated": 1662868789,
+  "item_size": 171025608,
   "metadata": {
     "identifier": "le_parisien-2022",
     "collection": [
@@ -17065,10 +17117,10 @@
     "publicdate": "2022-04-09 13:42:51",
     "addeddate": "2022-04-09 13:42:51"
   },
-  "server": "ia601503.us.archive.org",
-  "uniq": 1700434493,
+  "server": "ia801503.us.archive.org",
+  "uniq": 3284659,
   "workable_servers": [
-    "ia601503.us.archive.org",
-    "ia801503.us.archive.org"
+    "ia801503.us.archive.org",
+    "ia601503.us.archive.org"
   ]
 }

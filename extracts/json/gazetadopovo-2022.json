@@ -1,5 +1,5 @@
 {
-  "created": 1662822236,
+  "created": 1662870330,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/4/items/gazetadopovo-2022",
@@ -6250,31 +6250,83 @@
       "sha1": "44bee49086c85629226a392aab332ed9cdb7debc"
     },
     {
+      "name": "gazetadopovo-2022-09-11T00:49:04.288729-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662868149",
+      "size": "77119",
+      "md5": "209b3d71fc86d66cbda6ae0aa52e7736",
+      "crc32": "6df4cc79",
+      "sha1": "9aea8a3b57be7d4b7031a4f536e781661ae11cfb",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetadopovo-2022-09-11T00:49:04.288729-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662868151",
+      "size": "101992",
+      "md5": "9e8a8bc8778b388d0e5ccd33113c70d0",
+      "crc32": "d2790d4b",
+      "sha1": "198eef8e84a8b56ce18f5042fe432d1241a60dff",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetadopovo-2022-09-11T00:49:04.288729-03:00.jpg",
+      "source": "original",
+      "mtime": "1662868147",
+      "size": "305220",
+      "md5": "6844efce3a8fb8dac03850657b6f1577",
+      "crc32": "7858584a",
+      "sha1": "d85412b9b2da81fc9043116ffcb5c8b85e71083c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gazetadopovo-2022-09-11T00:49:04.288729-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662868153",
+      "size": "1540",
+      "md5": "a2545bccc1d60451fa59968cc8aa7d8a",
+      "crc32": "27ec0037",
+      "sha1": "db99f15a21d5c2af7bd4e042aacbd856214a05ac",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetadopovo-2022-09-11T00:49:04.288729-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gazetadopovo-2022-09-11T00:49:04.288729-03:00.jpg",
+      "mtime": "1662868207",
+      "size": "10096",
+      "md5": "074402d09ef1cdfa11329e631b369964",
+      "crc32": "2cda8c13",
+      "sha1": "09b77b45450006c8386b917f339b66cb64532cb8"
+    },
+    {
       "name": "gazetadopovo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d684d18bdadd78a37fa828db921c4fa9ea926f38",
-      "mtime": "1662822227",
-      "size": "131370",
-      "md5": "4de5601ce98d0f5310017a3dad6546df",
-      "crc32": "1bd92884",
-      "sha1": "5fe978f9fdae570dccefbf9cad2e123c6e09db5b",
+      "btih": "404127215359862a1540106cd2c13d7f6ef1483a",
+      "mtime": "1662868214",
+      "size": "132451",
+      "md5": "1d6316cccb87e39c309dde712718a1c0",
+      "crc32": "cb82cf2d",
+      "sha1": "29c092f57410161d73b4c1bfe3f2a6e7dc242768",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gazetadopovo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "28bf77a828376ac8ecd457a70f2148bb",
+      "md5": "fbfb62c81e42f03f63b09859c67a199a",
       "summation": "md5"
     },
     {
       "name": "gazetadopovo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662822152",
-      "size": "782336",
-      "md5": "f3c2dc2698ee05621753341232f6a386",
-      "crc32": "64e38e7f",
-      "sha1": "424b5300806f8bb6e0227b208a3d052bc9a99bdf",
+      "mtime": "1662868157",
+      "size": "794624",
+      "md5": "acf351756f9d6c5bd58813e2ec2c0510",
+      "crc32": "becf40e0",
+      "sha1": "48ccf7d1eb31074719b43b9418c0a3ea0ae697c2",
       "format": "Metadata"
     },
     {
@@ -6288,9 +6340,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 608,
-  "item_last_updated": 1662822227,
-  "item_size": 51625888,
+  "files_count": 613,
+  "item_last_updated": 1662868214,
+  "item_size": 52135224,
   "metadata": {
     "identifier": "gazetadopovo-2022",
     "collection": [
@@ -6308,7 +6360,7 @@
     "addeddate": "2022-08-04 04:55:45"
   },
   "server": "ia601508.us.archive.org",
-  "uniq": 347711596,
+  "uniq": 1324211966,
   "workable_servers": [
     "ia601508.us.archive.org",
     "ia801508.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1662822657,
+  "created": 1662868653,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/4/items/ottawacitizen-2022",
@@ -8480,31 +8480,83 @@
       "sha1": "9f3b3ad07fa230e7ff4e23b606f0552a869108dd"
     },
     {
+      "name": "ottawacitizen-2022-09-10T23:55:59.141281-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662868565",
+      "size": "65284",
+      "md5": "869cddd5818b158af58e27c0a57e2b32",
+      "crc32": "31c61809",
+      "sha1": "4dec1a16ac28f6d076a5c6739a38904c0ac5fe96",
+      "format": "JSON"
+    },
+    {
+      "name": "ottawacitizen-2022-09-10T23:55:59.141281-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662868566",
+      "size": "50722",
+      "md5": "920e9bc36126395cb7fd0903bb67e0ea",
+      "crc32": "3f33e753",
+      "sha1": "4e24f7fef5f8acef2b5fbe890b0cb122371d5896",
+      "format": "JSON"
+    },
+    {
+      "name": "ottawacitizen-2022-09-10T23:55:59.141281-04:00.jpg",
+      "source": "original",
+      "mtime": "1662868564",
+      "size": "291312",
+      "md5": "b5251c68d928e2eb0d9312ed7c37b379",
+      "crc32": "bb8a3711",
+      "sha1": "5e8f97c51b6b9dfe1df6b335c22a968e8800615c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ottawacitizen-2022-09-10T23:55:59.141281-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662868568",
+      "size": "1475",
+      "md5": "896bca789e9c420fab44492b49066512",
+      "crc32": "75534a4d",
+      "sha1": "e10d3b038f81589f6b227398bf7035c9297fd2f9",
+      "format": "JSON"
+    },
+    {
+      "name": "ottawacitizen-2022-09-10T23:55:59.141281-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ottawacitizen-2022-09-10T23:55:59.141281-04:00.jpg",
+      "mtime": "1662868633",
+      "size": "10081",
+      "md5": "4f5cfaa278e0fbcf16a963d2c2f9f068",
+      "crc32": "bf50c8b5",
+      "sha1": "8287876338bde6eff9b848ea18e76f6df41fc48d"
+    },
+    {
       "name": "ottawacitizen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f1449479aacade61ab723eb957749d736ccb0e86",
-      "mtime": "1662822642",
-      "size": "177432",
-      "md5": "fdafd4ffb9947d0ba98a5edea0374baf",
-      "crc32": "465feeaa",
-      "sha1": "949de38e12bf05c6345cee5a42e8f78ffb25bcd7",
+      "btih": "0175dc2826e905598d0f2912b7aafd2ec7ad1837",
+      "mtime": "1662868641",
+      "size": "178517",
+      "md5": "c906cfd812b349b9e1dbe39d50db6683",
+      "crc32": "9e70baf0",
+      "sha1": "693a1ca3a40e4f62fc6e89f289701398a9252a83",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ottawacitizen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "90ce484e264dd2bd23af5b9a50085865",
+      "md5": "6805bfbdc49b92d8d9331ea3507e464c",
       "summation": "md5"
     },
     {
       "name": "ottawacitizen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662822529",
-      "size": "1019904",
-      "md5": "8810f1fe23fa719d04d5c25d74a4e0f1",
-      "crc32": "c874cbe9",
-      "sha1": "81bfb6829190cfdd83ab5ea24cdbadad462ac505",
+      "mtime": "1662868575",
+      "size": "1024000",
+      "md5": "5b989bded9a69bf832cc9db68c92ee58",
+      "crc32": "4a91eca1",
+      "sha1": "5ea8792881ff7324f8e1d13c4e9f30e1f167565b",
       "format": "Metadata"
     },
     {
@@ -8518,9 +8570,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 819,
-  "item_last_updated": 1662822642,
-  "item_size": 71788041,
+  "files_count": 824,
+  "item_last_updated": 1662868641,
+  "item_size": 72212096,
   "metadata": {
     "identifier": "ottawacitizen-2022",
     "collection": [
@@ -8537,10 +8589,10 @@
     "publicdate": "2022-06-30 22:35:58",
     "addeddate": "2022-06-30 22:35:58"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 995131200,
+  "server": "ia601508.us.archive.org",
+  "uniq": 1646759218,
   "workable_servers": [
-    "ia801508.us.archive.org",
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

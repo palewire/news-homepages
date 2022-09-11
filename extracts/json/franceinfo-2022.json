@@ -1,5 +1,5 @@
 {
-  "created": 1662822265,
+  "created": 1662868310,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/10/items/franceinfo-2022",
@@ -16936,31 +16936,83 @@
       "sha1": "9ec76e7ae7221f7f6b6cca37ec067c6aa734f18d"
     },
     {
+      "name": "franceinfo-2022-09-11T05:49:24.623346+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662868168",
+      "size": "84183",
+      "md5": "1b1cd099ea18ad7b34c04e244f2d7990",
+      "crc32": "22856c43",
+      "sha1": "58fe8855cc5433cd9ed8df336c6bd3a580811247",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-09-11T05:49:24.623346+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662868169",
+      "size": "131269",
+      "md5": "5793b435563d94260be833ddc2b5589e",
+      "crc32": "7f7c1c19",
+      "sha1": "f5881fcd97c2864cd2dad00f11c257969bfef859",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-09-11T05:49:24.623346+02:00.jpg",
+      "source": "original",
+      "mtime": "1662868166",
+      "size": "291719",
+      "md5": "7fe92d5c495347a47269b9bdf50a9d94",
+      "crc32": "e32e50d7",
+      "sha1": "594c021b675a1606672417cfa3423fc88380c57e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "franceinfo-2022-09-11T05:49:24.623346+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662868171",
+      "size": "1531",
+      "md5": "d6cbf964a736b0c9391588efc190e0a6",
+      "crc32": "7b25bd38",
+      "sha1": "ad9cef08d74ecc907650749518b3126797a78b42",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-09-11T05:49:24.623346+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "franceinfo-2022-09-11T05:49:24.623346+02:00.jpg",
+      "mtime": "1662868262",
+      "size": "10718",
+      "md5": "677f4a4e181a82fdc4a2754697832648",
+      "crc32": "fb7343f7",
+      "sha1": "79a2a95a998e0d75b0edb259b8e1a096fb5d92d3"
+    },
+    {
       "name": "franceinfo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "35916f6f4cf63fd70d8193ff3387d4a3b1f6767b",
-      "mtime": "1662822256",
-      "size": "349906",
-      "md5": "4f2e35ff6678d571f47383eb524cbe52",
-      "crc32": "95e73eaf",
-      "sha1": "5f20b1775f05fa1bf2e368036fe3fcc8a02d0ec5",
+      "btih": "0ce74332725c796f2e4db64df82a63f15ef9dea2",
+      "mtime": "1662868297",
+      "size": "350977",
+      "md5": "9865a87e41cc1241abe67fb2bf5486d3",
+      "crc32": "94a11315",
+      "sha1": "eeb7ba01ea9b81eed791261df8ae452d802e2504",
       "format": "Archive BitTorrent"
     },
     {
       "name": "franceinfo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "568bc00e0c5d308b6788f101e2f091e1",
+      "md5": "1bc04453e7d08f90723fc3fad830e5e2",
       "summation": "md5"
     },
     {
       "name": "franceinfo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662822154",
-      "size": "1961984",
-      "md5": "51cba458728ea9c41b80cc7d7f809575",
-      "crc32": "58270edd",
-      "sha1": "03b7fe934c1a14dae903b1f885e257bf0d2a59bd",
+      "mtime": "1662868179",
+      "size": "1974272",
+      "md5": "ddaea5481cc56735adbb70b45913a770",
+      "crc32": "e49fe19e",
+      "sha1": "c9ea7996e3eaeae0da45647b0b6fafabcd09bb06",
       "format": "Metadata"
     },
     {
@@ -16974,9 +17026,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1628,
-  "item_last_updated": 1662822256,
-  "item_size": 197659204,
+  "files_count": 1633,
+  "item_last_updated": 1662868297,
+  "item_size": 198191983,
   "metadata": {
     "identifier": "franceinfo-2022",
     "collection": [
@@ -16993,10 +17045,10 @@
     "publicdate": "2022-04-09 13:42:09",
     "addeddate": "2022-04-09 13:42:09"
   },
-  "server": "ia902504.us.archive.org",
-  "uniq": 1293465391,
+  "server": "ia802504.us.archive.org",
+  "uniq": 2105006002,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia802504.us.archive.org",
+    "ia902504.us.archive.org"
   ]
 }

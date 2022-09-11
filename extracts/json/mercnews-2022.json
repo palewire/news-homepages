@@ -1,5 +1,5 @@
 {
-  "created": 1662822485,
+  "created": 1662868525,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/16/items/mercnews-2022",
@@ -14538,31 +14538,83 @@
       "sha1": "be6b6c9192a3036cf93dbd68ebbc33fd02cf2859"
     },
     {
+      "name": "mercnews-2022-09-10T20:53:41.695989-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662868430",
+      "size": "43068",
+      "md5": "3d33773459523efb47b8a52c835b9b4e",
+      "crc32": "119a9b00",
+      "sha1": "b37e913356de2a23103c786ad277e11e24a227dd",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-09-10T20:53:41.695989-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662868431",
+      "size": "61445",
+      "md5": "6459459df0a2be7511d133485405b01d",
+      "crc32": "18484b70",
+      "sha1": "4021b547d306032293c4fa154b08a4a8dd6caf0f",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-09-10T20:53:41.695989-07:00.jpg",
+      "source": "original",
+      "mtime": "1662868428",
+      "size": "306162",
+      "md5": "afbbfdfbfac9a1619767dea356041383",
+      "crc32": "792477b8",
+      "sha1": "7b57859775155b94cb913e93a9d33a4d3000194d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mercnews-2022-09-10T20:53:41.695989-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662868433",
+      "size": "1502",
+      "md5": "55d188438750f6d20bb6326aae985e6f",
+      "crc32": "d616dfe3",
+      "sha1": "91f3d228d81a983f3399fa0f935fd413e74e790c",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-09-10T20:53:41.695989-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mercnews-2022-09-10T20:53:41.695989-07:00.jpg",
+      "mtime": "1662868497",
+      "size": "9713",
+      "md5": "5160320a7ff781a2a90297180084beb5",
+      "crc32": "c422a441",
+      "sha1": "679e1f3d31896be6cf6202b2ea2cb1ac162eb7a1"
+    },
+    {
       "name": "mercnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0ab33909dfbdaa3ecb79e534df1337fe845351d4",
-      "mtime": "1662822474",
-      "size": "294773",
-      "md5": "b9f26f4905d0dde56278c454cb6a6f01",
-      "crc32": "397d8b46",
-      "sha1": "1c84c69aca9979d57d43760bad7f1391427b9f0a",
+      "btih": "5aeda3cb71571d5fec00037d068e9eeee373fad4",
+      "mtime": "1662868515",
+      "size": "295832",
+      "md5": "032dd656a6b33032d38ebb9d6abf818d",
+      "crc32": "6f2cb86e",
+      "sha1": "fae57dfac730e5eb8dce798461f97af306ff3fda",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mercnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "de236236c3e30ee06cde983fd32ebf6e",
+      "md5": "a7d512a65585e4e24f0849d6fc70af88",
       "summation": "md5"
     },
     {
       "name": "mercnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662822359",
-      "size": "1658880",
-      "md5": "c14ca1f9f34c37d604bbd6f8dfa764e6",
-      "crc32": "9ad64fa9",
-      "sha1": "ba9d255ac3496130a488f0e676e8c1642bab2481",
+      "mtime": "1662868437",
+      "size": "1662976",
+      "md5": "94b250d9e100c042f4045d6ef08675c8",
+      "crc32": "3ab86e38",
+      "sha1": "1c9be6637e3b7f78e777fbab78a31dcbf3a3dd69",
       "format": "Metadata"
     },
     {
@@ -14576,9 +14628,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1395,
-  "item_last_updated": 1662822474,
-  "item_size": 126912901,
+  "files_count": 1400,
+  "item_last_updated": 1662868515,
+  "item_size": 127339946,
   "metadata": {
     "identifier": "mercnews-2022",
     "collection": [
@@ -14595,10 +14647,10 @@
     "publicdate": "2022-03-23 02:09:12",
     "addeddate": "2022-03-23 02:09:12"
   },
-  "server": "ia802507.us.archive.org",
-  "uniq": 646499665,
+  "server": "ia902507.us.archive.org",
+  "uniq": 110778244,
   "workable_servers": [
-    "ia802507.us.archive.org",
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }

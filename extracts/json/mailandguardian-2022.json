@@ -1,5 +1,5 @@
 {
-  "created": 1662822423,
+  "created": 1662870194,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/2/items/mailandguardian-2022",
@@ -2300,31 +2300,83 @@
       "sha1": "f26e3d6fe3e3aaff235ecf0e7e8a70d49ef42959"
     },
     {
+      "name": "mailandguardian-2022-09-11T05:53:24.586323+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662868409",
+      "size": "33810",
+      "md5": "957febbd634a91f1649b37232c4a270c",
+      "crc32": "b916b2d3",
+      "sha1": "ca7cb18cc1e3743c8245d0e3722e683b778f9934",
+      "format": "JSON"
+    },
+    {
+      "name": "mailandguardian-2022-09-11T05:53:24.586323+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662868411",
+      "size": "26528",
+      "md5": "f2641c214825ee5ccf47df7635e1584c",
+      "crc32": "3c062b43",
+      "sha1": "b95d9a5850366cce40c939f64c91c166e4f87231",
+      "format": "JSON"
+    },
+    {
+      "name": "mailandguardian-2022-09-11T05:53:24.586323+02:00.jpg",
+      "source": "original",
+      "mtime": "1662868408",
+      "size": "274424",
+      "md5": "8ca618ec82980f5c4b98abece777f27e",
+      "crc32": "6ed7c252",
+      "sha1": "50344b04b4345f86319e1cb171fcf27e5b039a4a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mailandguardian-2022-09-11T05:53:24.586323+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662868413",
+      "size": "1405",
+      "md5": "4e8775c80b2a6a0dc0be6887bb2bb6a6",
+      "crc32": "c750e49a",
+      "sha1": "d95f913e5828ba19248f79545643ad5a34a83c7f",
+      "format": "JSON"
+    },
+    {
+      "name": "mailandguardian-2022-09-11T05:53:24.586323+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mailandguardian-2022-09-11T05:53:24.586323+02:00.jpg",
+      "mtime": "1662868459",
+      "size": "9857",
+      "md5": "e4b959f9b7341a303f82a2ab1ac28847",
+      "crc32": "b6ee0598",
+      "sha1": "f26e3d6fe3e3aaff235ecf0e7e8a70d49ef42959"
+    },
+    {
       "name": "mailandguardian-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e50b88b28b57d73c80a848ceb2464827626c0740",
-      "mtime": "1662822411",
-      "size": "49623",
-      "md5": "47b8a64f274154ee3e62674b128f2539",
-      "crc32": "be2dda58",
-      "sha1": "e8d176693ab063141655bcb6d54c843a33a68cf8",
+      "btih": "9ccf2d08a75e688e45795ddb6b237b37ca54f853",
+      "mtime": "1662868463",
+      "size": "50697",
+      "md5": "ea0d045b435f241fa3db9e12195b0890",
+      "crc32": "c4dece39",
+      "sha1": "e5b77afe83f2ecb1aa523c096255211934c633be",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mailandguardian-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "29a28dc10e093e10854c4f946d3ed9ae",
+      "md5": "5b0e5713f970cbfde834bda9a684ce6a",
       "summation": "md5"
     },
     {
       "name": "mailandguardian-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662822354",
-      "size": "307200",
-      "md5": "75e729e3def1c4a9df6aac07eb07613d",
-      "crc32": "3d9251b7",
-      "sha1": "f8ef0742115c3dc2ea5a6d02fd4abf35bd6ad793",
+      "mtime": "1662868415",
+      "size": "311296",
+      "md5": "14efff158b0f41fd3e508603138a8997",
+      "crc32": "758cc37b",
+      "sha1": "d74893ec1b293c43dbda75b2aab12cb669232211",
       "format": "Metadata"
     },
     {
@@ -2338,9 +2390,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 226,
-  "item_last_updated": 1662822411,
-  "item_size": 12728586,
+  "files_count": 231,
+  "item_last_updated": 1662868463,
+  "item_size": 13079780,
   "metadata": {
     "identifier": "mailandguardian-2022",
     "collection": [
@@ -2357,10 +2409,10 @@
     "publicdate": "2022-08-22 22:03:42",
     "addeddate": "2022-08-22 22:03:42"
   },
-  "server": "ia601407.us.archive.org",
-  "uniq": 886215402,
+  "server": "ia801407.us.archive.org",
+  "uniq": 1535558168,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia801407.us.archive.org",
+    "ia601407.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1662822305,
+  "created": 1662868375,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/23/items/kgounews-2022",
@@ -6978,31 +6978,83 @@
       "sha1": "84dd2fe6ec18f54c76d4ba5e04eb750516adb88a"
     },
     {
+      "name": "kgounews-2022-09-10T22:51:27.925046-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662868295",
+      "size": "19996",
+      "md5": "568268c0a57a36a1b9f775cdf49d6eff",
+      "crc32": "3c8b4fc9",
+      "sha1": "434de29ef0dffe86b69a0d07ac40eec6ebd84d55",
+      "format": "JSON"
+    },
+    {
+      "name": "kgounews-2022-09-10T22:51:27.925046-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662868296",
+      "size": "38650",
+      "md5": "cfc8ac7021f223c3c372c18dd00c06c4",
+      "crc32": "c8589b7b",
+      "sha1": "27c197c40541569ae2dfb2ede95c196903454e7e",
+      "format": "JSON"
+    },
+    {
+      "name": "kgounews-2022-09-10T22:51:27.925046-05:00.jpg",
+      "source": "original",
+      "mtime": "1662868293",
+      "size": "246659",
+      "md5": "a608d6a7b1d3ac0be51ffe0214dd49cc",
+      "crc32": "2b0e7840",
+      "sha1": "087ee6096b152e6b8121736edd738f97d7ab8154",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kgounews-2022-09-10T22:51:27.925046-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662868298",
+      "size": "1431",
+      "md5": "9305213b447aa82e8c4b9e8aa2a18ebc",
+      "crc32": "26bd4dbb",
+      "sha1": "f488aee46d69b9b819373076b6eb2f8672a162a7",
+      "format": "JSON"
+    },
+    {
+      "name": "kgounews-2022-09-10T22:51:27.925046-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kgounews-2022-09-10T22:51:27.925046-05:00.jpg",
+      "mtime": "1662868359",
+      "size": "10330",
+      "md5": "a43e08b7dcaeaee4ebd6bd5985f51506",
+      "crc32": "65e4f66f",
+      "sha1": "4a7bb404490e58f6e2168396cebd27b8433f5a86"
+    },
+    {
       "name": "kgounews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "92e93ca3eea8a0cd08d104c58553c089f531debf",
-      "mtime": "1662822294",
-      "size": "142760",
-      "md5": "ee28ae385a135fe03350b5ca663624c4",
-      "crc32": "938f7fc9",
-      "sha1": "12c499800ae77bc3d0adeb8a0873fe3341bc124c",
+      "btih": "ddb43654579ede73adc62d7e93fe107ba3c96df8",
+      "mtime": "1662868369",
+      "size": "143820",
+      "md5": "8506a8eb19fe5701524c22b2c03cae71",
+      "crc32": "1d4204d7",
+      "sha1": "585b7a3ffddac5d16e2a1b02b444659272aafb27",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kgounews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "eab09464c8b52e40046c9ed83dac86aa",
+      "md5": "dd3e44f74d42b68b9c09c19f5b3de4b6",
       "summation": "md5"
     },
     {
       "name": "kgounews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662822231",
-      "size": "847872",
-      "md5": "26553e4c5a428981220059823d9e93e8",
-      "crc32": "8ede1bc3",
-      "sha1": "7599c880107f211ff08a8ba1b1646558de529ca7",
+      "mtime": "1662868302",
+      "size": "851968",
+      "md5": "0ebd633ce4ab451e87dd72b187069588",
+      "crc32": "f0e36117",
+      "sha1": "f16738609e6bdee76db9c2ee44d8258b5d43e695",
       "format": "Metadata"
     },
     {
@@ -7016,9 +7068,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 676,
-  "item_last_updated": 1662822294,
-  "item_size": 44404269,
+  "files_count": 681,
+  "item_last_updated": 1662868369,
+  "item_size": 44726491,
   "metadata": {
     "identifier": "kgounews-2022",
     "collection": [
@@ -7035,10 +7087,10 @@
     "publicdate": "2022-07-09 04:00:02",
     "addeddate": "2022-07-09 04:00:02"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 1641660919,
+  "server": "ia902505.us.archive.org",
+  "uniq": 625174068,
   "workable_servers": [
-    "ia802505.us.archive.org",
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }
