@@ -1,5 +1,5 @@
 {
-  "created": 1662819383,
+  "created": 1662863496,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/1/items/elperiodico-2022",
@@ -5552,31 +5552,83 @@
       "sha1": "5481e651f19b96f1ead85f956ab0ce3387cc9c15"
     },
     {
+      "name": "elperiodico-2022-09-11T04:29:29.005715+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662863372",
+      "size": "113160",
+      "md5": "1907751da5c311be585557d4a384d977",
+      "crc32": "98d86911",
+      "sha1": "ffcb814eb0a2b06f63ee47810f323dd9c57d7248",
+      "format": "JSON"
+    },
+    {
+      "name": "elperiodico-2022-09-11T04:29:29.005715+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662863374",
+      "size": "194866",
+      "md5": "81a612f714d2b4baac54c395fe2845e0",
+      "crc32": "363b51d0",
+      "sha1": "6f48458849f76fdda6f3776076c133ec35e54f64",
+      "format": "JSON"
+    },
+    {
+      "name": "elperiodico-2022-09-11T04:29:29.005715+02:00.jpg",
+      "source": "original",
+      "mtime": "1662863370",
+      "size": "240141",
+      "md5": "7a33caf6f2a5380f4843101a06a9aad6",
+      "crc32": "d435dd74",
+      "sha1": "7a185d69dc24c0e1c0830dcba396a9f194a57feb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elperiodico-2022-09-11T04:29:29.005715+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662863375",
+      "size": "1531",
+      "md5": "a6b384535466fcfcbf4dc5cb695f70b9",
+      "crc32": "8ff47c8a",
+      "sha1": "af107d0fc186ef94708330dbf900a8a2910265c7",
+      "format": "JSON"
+    },
+    {
+      "name": "elperiodico-2022-09-11T04:29:29.005715+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elperiodico-2022-09-11T04:29:29.005715+02:00.jpg",
+      "mtime": "1662863455",
+      "size": "9139",
+      "md5": "20d789ebf5f2d71a5dab31d77d289119",
+      "crc32": "3c49e037",
+      "sha1": "0bf3217ce734cc2865c0bb5d0510b6a9340421a3"
+    },
+    {
       "name": "elperiodico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2da317bcf55f3bd893ee07af33c080727d09ff3b",
-      "mtime": "1662819371",
-      "size": "116639",
-      "md5": "e77a84ef76d1bb93dbb8f96c46adea02",
-      "crc32": "73e06c06",
-      "sha1": "32c266e4f5037c1097a90baef3173714fb12c02e",
+      "btih": "67b65d4dc4a13abdbb331733fbcac2ca611e6bd5",
+      "mtime": "1662863467",
+      "size": "117715",
+      "md5": "6dc8c7a3826127fcaa5db7fa5fdc0140",
+      "crc32": "6204b5ce",
+      "sha1": "6e4696db9fa202413e025dce511eb7feab0320f9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elperiodico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "471d2533e11d793c51ade2097cd17565",
+      "md5": "8c3fc5e9ce22b11b2d835d1416c94cb8",
       "summation": "md5"
     },
     {
       "name": "elperiodico-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662819306",
-      "size": "696320",
-      "md5": "3f426559e1b999c334f36c1be27b4ac2",
-      "crc32": "9952eed3",
-      "sha1": "0ea5c458b72bfd4441cbd940089e440e1dc6f896",
+      "mtime": "1662863387",
+      "size": "700416",
+      "md5": "d1d41d65d45c0b1a637cc7a5ce7d6314",
+      "crc32": "aee916e7",
+      "sha1": "6f1e6ccef1e1946205b5a0b635faa6529e4ff447",
       "format": "Metadata"
     },
     {
@@ -5590,9 +5642,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 540,
-  "item_last_updated": 1662819371,
-  "item_size": 54586120,
+  "files_count": 545,
+  "item_last_updated": 1662863467,
+  "item_size": 55150129,
   "metadata": {
     "identifier": "elperiodico-2022",
     "collection": [
@@ -5609,10 +5661,10 @@
     "publicdate": "2022-07-26 02:42:00",
     "addeddate": "2022-07-26 02:42:00"
   },
-  "server": "ia601502.us.archive.org",
-  "uniq": 1326075944,
+  "server": "ia801502.us.archive.org",
+  "uniq": 2031235004,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia801502.us.archive.org",
+    "ia601502.us.archive.org"
   ]
 }

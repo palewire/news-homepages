@@ -1,5 +1,5 @@
 {
-  "created": 1662818877,
+  "created": 1662863285,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/33/items/agenciapublica-2022",
@@ -6414,31 +6414,83 @@
       "sha1": "f83d0e6681522a80b2eaf39dbf5150e9940c3eb8"
     },
     {
+      "name": "agenciapublica-2022-09-10T23:26:51.225124-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662863215",
+      "size": "24687",
+      "md5": "262f3f26b5b1f8c4fdffae5a93983f0f",
+      "crc32": "68763f5c",
+      "sha1": "686b544e7737bfe358725642aa76ec4c7f9562f3",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciapublica-2022-09-10T23:26:51.225124-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662863217",
+      "size": "19642",
+      "md5": "650369cd3ccec18dd97e95bd8f07cc4a",
+      "crc32": "55494332",
+      "sha1": "9a55225f8fabbd0302528a91ab9808250ae318ff",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciapublica-2022-09-10T23:26:51.225124-03:00.jpg",
+      "source": "original",
+      "mtime": "1662863213",
+      "size": "220097",
+      "md5": "61c380b85a824982a09b710887e80251",
+      "crc32": "c47eaa5b",
+      "sha1": "47b5b402116cddd39e6f54e9d59a6c383602ca83",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "agenciapublica-2022-09-10T23:26:51.225124-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662863218",
+      "size": "1440",
+      "md5": "8f9e733525b011a3c80c49d8d7208ce0",
+      "crc32": "cd9f93e9",
+      "sha1": "20fca9607e5a52bc413890311ac4e41aafab234b",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciapublica-2022-09-10T23:26:51.225124-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "agenciapublica-2022-09-10T23:26:51.225124-03:00.jpg",
+      "mtime": "1662863269",
+      "size": "8623",
+      "md5": "dcf7f2e53b51d49247d9216effefcb77",
+      "crc32": "2d90ffdd",
+      "sha1": "47b73a1a9d682483c2094513034384700be9a785"
+    },
+    {
       "name": "agenciapublica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "151fac5b5cc2892edf0683519014ef42f515df63",
-      "mtime": "1662818841",
-      "size": "135037",
-      "md5": "b59fb9e6c57a3bf9a21743155dd372cc",
-      "crc32": "5ee523fd",
-      "sha1": "c97850c513f6809f6c7a4742a29437d4260e202f",
+      "btih": "7595975ebd2aed36bc5f0b87d65b679599a54c24",
+      "mtime": "1662863276",
+      "size": "136126",
+      "md5": "3208adc835e417a2d46959ffcda5b6d2",
+      "crc32": "6c2a0034",
+      "sha1": "67f25259f8330851cabe013bc4a362e305be4d5c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "agenciapublica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ee649250561ec401d7a710934bace42c",
+      "md5": "32361005f2db9f3789c4123543d3788f",
       "summation": "md5"
     },
     {
       "name": "agenciapublica-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662818782",
-      "size": "811008",
-      "md5": "3cf529a614f2bbcb7637d1606a8a1fb7",
-      "crc32": "3838bc66",
-      "sha1": "dc15aa7b646e3b4439c65c5780b5258003fd36fb",
+      "mtime": "1662863222",
+      "size": "815104",
+      "md5": "5e33ac1f1008e4cb31b516cb3e183da6",
+      "crc32": "48548a51",
+      "sha1": "7f83aa1e3a375b8a4566041a41f394745ecb6b03",
       "format": "Metadata"
     },
     {
@@ -6452,9 +6504,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 624,
-  "item_last_updated": 1662818841,
-  "item_size": 27720495,
+  "files_count": 629,
+  "item_last_updated": 1662863276,
+  "item_size": 28000169,
   "metadata": {
     "identifier": "agenciapublica-2022",
     "collection": [
@@ -6471,10 +6523,10 @@
     "publicdate": "2022-08-04 04:55:45",
     "addeddate": "2022-08-04 04:55:45"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 599159211,
+  "server": "ia601508.us.archive.org",
+  "uniq": 381472750,
   "workable_servers": [
-    "ia801508.us.archive.org",
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1662821604,
+  "created": 1662863242,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/2/items/amazoniaagencia-2022",
@@ -5822,31 +5822,83 @@
       "sha1": "09f7ccaa106d6ef2144162f0e26c37107d7d50fd"
     },
     {
+      "name": "amazoniaagencia-2022-09-10T23:25:52.489916-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662863157",
+      "size": "61991",
+      "md5": "2f0c8b4248dde27c1ddda6b7e5d0b7df",
+      "crc32": "b2b6d4b2",
+      "sha1": "a5169a7d563a2c668bbd4cf51739a28dc7b46173",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-09-10T23:25:52.489916-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662863159",
+      "size": "89932",
+      "md5": "5d13f80b2a2b898a220bbe54a1d3246a",
+      "crc32": "e3083e48",
+      "sha1": "c356f9e8219ebd171c452421bfbac17a92dbc1f8",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-09-10T23:25:52.489916-03:00.jpg",
+      "source": "original",
+      "mtime": "1662863156",
+      "size": "286378",
+      "md5": "f8efa2be3360f841327afab4d9c5f906",
+      "crc32": "02e8a4ff",
+      "sha1": "2d664c3d7def37f21e9a4d399e09d44e5428eb29",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amazoniaagencia-2022-09-10T23:25:52.489916-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662863160",
+      "size": "1477",
+      "md5": "eec27f41f84b88d2289258796a8e9b1c",
+      "crc32": "eb995a6f",
+      "sha1": "dd916ffa417772a3b760a0009759b06c9a38826d",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-09-10T23:25:52.489916-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amazoniaagencia-2022-09-10T23:25:52.489916-03:00.jpg",
+      "mtime": "1662863221",
+      "size": "10716",
+      "md5": "8f26052ec3be9bf0ff6a46205edded77",
+      "crc32": "ef469c6d",
+      "sha1": "134ba3a0e8abe8384580d1703192ff5fb06fa7ac"
+    },
+    {
       "name": "amazoniaagencia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5227eca8009fb6b32f423295c9f005c0c2b071b7",
-      "mtime": "1662818845",
-      "size": "124025",
-      "md5": "e8531789710e5c07b5aaff7bd7a0ee35",
-      "crc32": "be9dd94b",
-      "sha1": "929b918ed3ca6de26c6de854994abece52ca80af",
+      "btih": "35505ad5faba8a91e7e2445194575d2f595c990d",
+      "mtime": "1662863229",
+      "size": "125120",
+      "md5": "6be2d16c78bc2f4b7d2037f732d62023",
+      "crc32": "10bc9b09",
+      "sha1": "648b1085d0285e4db67cdc14c0b17cc17023835d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "amazoniaagencia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b035ca1584ba43a980e7c457584b5fb5",
+      "md5": "9d99cc6d5c749b8d9188a0427ad0bf40",
       "summation": "md5"
     },
     {
       "name": "amazoniaagencia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662818787",
-      "size": "741376",
-      "md5": "6d65914ed66814700de7f8c60f512299",
-      "crc32": "01b6f05c",
-      "sha1": "06990ef7885e2d6187770a7c012f6e2c12e8bd6b",
+      "mtime": "1662863165",
+      "size": "745472",
+      "md5": "288100b0ee29c50073c48ecfe6bba346",
+      "crc32": "e7dde88d",
+      "sha1": "0b77df2bdc0af36bd1d600fc4ece5e8e193decec",
       "format": "Metadata"
     },
     {
@@ -5860,9 +5912,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 567,
-  "item_last_updated": 1662818845,
-  "item_size": 40701583,
+  "files_count": 572,
+  "item_last_updated": 1662863229,
+  "item_size": 41157268,
   "metadata": {
     "identifier": "amazoniaagencia-2022",
     "collection": [
@@ -5879,10 +5931,10 @@
     "publicdate": "2022-08-07 19:42:20",
     "addeddate": "2022-08-07 19:42:20"
   },
-  "server": "ia801400.us.archive.org",
-  "uniq": 1118405644,
+  "server": "ia601400.us.archive.org",
+  "uniq": 642026283,
   "workable_servers": [
-    "ia801400.us.archive.org",
-    "ia601400.us.archive.org"
+    "ia601400.us.archive.org",
+    "ia801400.us.archive.org"
   ]
 }

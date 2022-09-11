@@ -1,49 +1,8 @@
 {
-  "created": 1662822101,
+  "created": 1662863440,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/14/items/documentedny-2022",
-  "documentedny-2022": [
-    {
-      "url": "https://documentedny.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/documentedny_com-_-2022_09_10_13_52_39.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/documentedny_com-_-2022_09_10_13_52_39.report.json",
-      "summary": {
-        "performance": 0.2,
-        "accessibility": 0.75,
-        "best-practices": 0.83,
-        "seo": 0.73,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://documentedny.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/documentedny_com-_-2022_09_10_13_53_03.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/documentedny_com-_-2022_09_10_13_53_03.report.json",
-      "summary": {
-        "performance": 0.3,
-        "accessibility": 0.71,
-        "best-practices": 0.83,
-        "seo": 0.73,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://documentedny.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/documentedny_com-_-2022_09_10_13_53_47.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/documentedny_com-_-2022_09_10_13_53_47.report.json",
-      "summary": {
-        "performance": 0.28,
-        "accessibility": 0.75,
-        "best-practices": 0.83,
-        "seo": 0.73,
-        "pwa": 0.4
-      }
-    }
-  ],
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -7115,31 +7074,83 @@
       "sha1": "8041c029e9ba93c4abf3542bddf8066216c9fb95"
     },
     {
+      "name": "documentedny-2022-09-10T22:29:22.428532-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662863369",
+      "size": "15927",
+      "md5": "46b64d3c9e57e0dfdaf9e6578c27643e",
+      "crc32": "014dd4a9",
+      "sha1": "13dfce6da67ae955ebaa6b8e17aa12fe97ad09a4",
+      "format": "JSON"
+    },
+    {
+      "name": "documentedny-2022-09-10T22:29:22.428532-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662863371",
+      "size": "18948",
+      "md5": "68c988c8f92540e4a662be48686323cf",
+      "crc32": "5c9ccd8d",
+      "sha1": "354a10a81faee9b5ebea3b87601936618cd25628",
+      "format": "JSON"
+    },
+    {
+      "name": "documentedny-2022-09-10T22:29:22.428532-04:00.jpg",
+      "source": "original",
+      "mtime": "1662863367",
+      "size": "333860",
+      "md5": "03a717eb5bec443820043d2eb6743852",
+      "crc32": "62cfb1ee",
+      "sha1": "a059057e33073aa79a80ebc23446189a1e8cd3be",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "documentedny-2022-09-10T22:29:22.428532-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662863372",
+      "size": "1476",
+      "md5": "7267a27b7fe6304a30727935be904388",
+      "crc32": "a29cac8d",
+      "sha1": "1f7821d220ae949323709f47090d2a8e882e612e",
+      "format": "JSON"
+    },
+    {
+      "name": "documentedny-2022-09-10T22:29:22.428532-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "documentedny-2022-09-10T22:29:22.428532-04:00.jpg",
+      "mtime": "1662863426",
+      "size": "10587",
+      "md5": "84020dbe50129f34ad32c214a683ccb8",
+      "crc32": "472a8b65",
+      "sha1": "8041c029e9ba93c4abf3542bddf8066216c9fb95"
+    },
+    {
       "name": "documentedny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "33b2f2f99bc40492b628a2737d2f7bb58dfb5a83",
-      "mtime": "1662819337",
-      "size": "147620",
-      "md5": "0a2de6afc79070c1e02bf0e41c912ea7",
-      "crc32": "3c395615",
-      "sha1": "3e4fe9d2c2867f8a6e4e7503354e274074709539",
+      "btih": "c62aa8fe794fd1cb66cfbf2acebeff9c6ca50973",
+      "mtime": "1662863433",
+      "size": "148700",
+      "md5": "c0950dd4dc8d18f3820f27bd4a66a769",
+      "crc32": "309e84e5",
+      "sha1": "9d9cd39f27f15558182f540e692b565d9488c3df",
       "format": "Archive BitTorrent"
     },
     {
       "name": "documentedny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c0a21981e07a1591bfc3ec53d1cb1120",
+      "md5": "96e7c8b048ce993eadafed4555fefc0d",
       "summation": "md5"
     },
     {
       "name": "documentedny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662819276",
-      "size": "860160",
-      "md5": "a4d936576a65695d667015d009b9656d",
-      "crc32": "15404a48",
-      "sha1": "8c58df88305cc374e3df9492513bd5197c813796",
+      "mtime": "1662863377",
+      "size": "868352",
+      "md5": "097c89a069b7c9d656d8b9b7758bcda2",
+      "crc32": "5bb1d7a2",
+      "sha1": "3bdf3c5a3b1df6a6bdc54dc62c8e4b71bb33cb3c",
       "format": "Metadata"
     },
     {
@@ -7153,9 +7164,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 685,
-  "item_last_updated": 1662819337,
-  "item_size": 50665277,
+  "files_count": 690,
+  "item_last_updated": 1662863433,
+  "item_size": 51055347,
   "metadata": {
     "identifier": "documentedny-2022",
     "collection": [
@@ -7172,10 +7183,10 @@
     "publicdate": "2022-07-09 03:58:14",
     "addeddate": "2022-07-09 03:58:14"
   },
-  "server": "ia902503.us.archive.org",
-  "uniq": 819608966,
+  "server": "ia802503.us.archive.org",
+  "uniq": 1611425212,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia802503.us.archive.org",
+    "ia902503.us.archive.org"
   ]
 }
