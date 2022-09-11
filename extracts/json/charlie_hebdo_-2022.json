@@ -1,5 +1,5 @@
 {
-  "created": 1662884175,
+  "created": 1662893870,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/26/items/charlie_hebdo_-2022",
@@ -6878,31 +6878,83 @@
       "sha1": "339e7a54abf5b0821a846b29196f5838326dd110"
     },
     {
+      "name": "charlie_hebdo_-2022-09-11T12:56:38.612818+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662893801",
+      "size": "19101",
+      "md5": "fa51a7a8cb54b6bc835b11dbfc8b639e",
+      "crc32": "2d001691",
+      "sha1": "b58a368716eb2d6616a87230a0c3af5d1af82a93",
+      "format": "JSON"
+    },
+    {
+      "name": "charlie_hebdo_-2022-09-11T12:56:38.612818+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662893802",
+      "size": "21308",
+      "md5": "627861e32455e7f1b7b9c2f608721aad",
+      "crc32": "d5ed563e",
+      "sha1": "ed6d72cf90fa841e1beae5f3edaba8ba7a49f8ff",
+      "format": "JSON"
+    },
+    {
+      "name": "charlie_hebdo_-2022-09-11T12:56:38.612818+02:00.jpg",
+      "source": "original",
+      "mtime": "1662893799",
+      "size": "350860",
+      "md5": "dec3bbfe3d7843b608a4806e9734dd20",
+      "crc32": "f7420fbf",
+      "sha1": "136bb8c1c68d2b3d1afb8dfb2945202d78486b2c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "charlie_hebdo_-2022-09-11T12:56:38.612818+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662893803",
+      "size": "1458",
+      "md5": "78d0cb5c819a11b1ef0483d8efe1d192",
+      "crc32": "2ec9110f",
+      "sha1": "409a10bab15a4c81c18bc401068c4032b89702fa",
+      "format": "JSON"
+    },
+    {
+      "name": "charlie_hebdo_-2022-09-11T12:56:38.612818+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "charlie_hebdo_-2022-09-11T12:56:38.612818+02:00.jpg",
+      "mtime": "1662893854",
+      "size": "11175",
+      "md5": "792b30dcb072516b99fbed5a7e54ab26",
+      "crc32": "7e1eb411",
+      "sha1": "13095bbf90ab5a0009c965bd43658aae385defec"
+    },
+    {
       "name": "charlie_hebdo_-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f71afa04e10ebfa43457414a0ce465c6993314e8",
-      "mtime": "1662884157",
-      "size": "145541",
-      "md5": "4ab11652722828a757b1aa08a5b99def",
-      "crc32": "4708370f",
-      "sha1": "d5554651b86cc1ab6a9ec4121802b0e078222f73",
+      "btih": "24f651fa6851d82d743c312fcc7aa5d1ceebfca1",
+      "mtime": "1662893863",
+      "size": "146611",
+      "md5": "b8d8dd4e9afac3ef36750140a337c91a",
+      "crc32": "7d36cf1a",
+      "sha1": "25e1091a033a742e44d5965a09d374a1a1e94450",
       "format": "Archive BitTorrent"
     },
     {
       "name": "charlie_hebdo_-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f6cf45c71d0735700d9cf2704174e494",
+      "md5": "2b5832585055b88b103277d05c068daa",
       "summation": "md5"
     },
     {
       "name": "charlie_hebdo_-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662884097",
-      "size": "872448",
-      "md5": "a6212c67625331027625d89cf9ad1a4a",
-      "crc32": "15ab84f4",
-      "sha1": "9e0bb7223077a9af33006a4a92cf9f849448d6e2",
+      "mtime": "1662893808",
+      "size": "876544",
+      "md5": "ea896c64a1a8946df494fd2d35c2d214",
+      "crc32": "86ceefdf",
+      "sha1": "abaedca5c2c19db8198ed49535a5db20190f8df5",
       "format": "Metadata"
     },
     {
@@ -6916,9 +6968,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 669,
-  "item_last_updated": 1662884157,
-  "item_size": 48490150,
+  "files_count": 674,
+  "item_last_updated": 1662893863,
+  "item_size": 48899218,
   "metadata": {
     "identifier": "charlie_hebdo_-2022",
     "collection": [
@@ -6935,10 +6987,10 @@
     "publicdate": "2022-08-05 08:11:56",
     "addeddate": "2022-08-05 08:11:56"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 1656544241,
+  "server": "ia902502.us.archive.org",
+  "uniq": 152066331,
   "workable_servers": [
-    "ia802502.us.archive.org",
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }

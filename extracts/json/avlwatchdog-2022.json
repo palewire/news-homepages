@@ -1,5 +1,5 @@
 {
-  "created": 1662851220,
+  "created": 1662893737,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/9/items/avlwatchdog-2022",
@@ -7300,31 +7300,93 @@
       "sha1": "b04b469d65f899dfaaee239a7bc2fe836b0d5129"
     },
     {
+      "name": "avlwatchdog-2022-09-11T06:54:11.767308-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662893655",
+      "size": "54278",
+      "md5": "fd67ec1eba1b08dbdfeec378b06bbf11",
+      "crc32": "22cb4a05",
+      "sha1": "e6a05454d01d4e6947fcc927dbbb3dd84f33d38d",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-09-11T06:54:11.767308-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662893657",
+      "size": "18872",
+      "md5": "e2190aaf3509fc4c4865dc681f805d25",
+      "crc32": "26425cf2",
+      "sha1": "01f37bbcc63476f16551b0019531ca1fcd657086",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-09-11T06:54:11.767308-04:00.jpg",
+      "source": "original",
+      "mtime": "1662893653",
+      "size": "365769",
+      "md5": "c94a9eb8944e4b817c02ea611251c8f5",
+      "crc32": "9b1bb04e",
+      "sha1": "21801c634716889cab262dcfde8798f979d094f4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "avlwatchdog-2022-09-11T06:54:11.767308-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662893658",
+      "size": "1464",
+      "md5": "b604d2da1341ef100c08be85b62478c2",
+      "crc32": "1df75323",
+      "sha1": "fd96f2a7481019f5a3f54b27115e5c5f17eb573d",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-09-11T06:54:11.767308-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662893660",
+      "size": "16923",
+      "md5": "3a921c99f0afcd8204ff9bb52090d181",
+      "crc32": "e9ff3cf1",
+      "sha1": "1bc4068a5429def558c8ce4112b3c16ec0691733",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-09-11T06:54:11.767308-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "avlwatchdog-2022-09-11T06:54:11.767308-04:00.jpg",
+      "mtime": "1662893721",
+      "size": "10681",
+      "md5": "a32c297dd5a3247c27b8c6f29e8d5579",
+      "crc32": "8426f6cc",
+      "sha1": "c4ec31dbc8c034206f36fffd7794733314a89d1c"
+    },
+    {
       "name": "avlwatchdog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4cbc3e6095706ddb662ebc0298a003a564e9c8b5",
-      "mtime": "1662851215",
-      "size": "151830",
-      "md5": "d73a47c1c790b740ef65121d2e6c6338",
-      "crc32": "eb6ed517",
-      "sha1": "aa850745a97d220611ea77c8c92ad3085a85a6ff",
+      "btih": "7c72ae7153d2da1abe5233e264932ab95f3f294a",
+      "mtime": "1662893728",
+      "size": "153116",
+      "md5": "a5521f3462e0520be5e4fd187e654ce6",
+      "crc32": "8a635efd",
+      "sha1": "cfcb8226e78df0f282556f8c5468577b4d5c8389",
       "format": "Archive BitTorrent"
     },
     {
       "name": "avlwatchdog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cddbf2f14ad0f8644d3f06957d80a62e",
+      "md5": "4b6a16b6bd749ed58034c390d5f2e244",
       "summation": "md5"
     },
     {
       "name": "avlwatchdog-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662851161",
-      "size": "888832",
-      "md5": "db7230dde0824ad133e0923266454954",
-      "crc32": "517e348e",
-      "sha1": "a2f638a6c5297d11fd05081f516b9aa12fbf580f",
+      "mtime": "1662893663",
+      "size": "901120",
+      "md5": "dc210e4f64cb861e948adeef9458620f",
+      "crc32": "abb0cce5",
+      "sha1": "3ef2619534e885ac3056d8d094c93de69f78b681",
       "format": "Metadata"
     },
     {
@@ -7338,9 +7400,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 707,
-  "item_last_updated": 1662851215,
-  "item_size": 57184224,
+  "files_count": 713,
+  "item_last_updated": 1662893728,
+  "item_size": 57665785,
   "metadata": {
     "identifier": "avlwatchdog-2022",
     "collection": [
@@ -7357,10 +7419,10 @@
     "publicdate": "2022-07-09 03:55:46",
     "addeddate": "2022-07-09 03:55:46"
   },
-  "server": "ia902508.us.archive.org",
-  "uniq": 1449164724,
+  "server": "ia802508.us.archive.org",
+  "uniq": 298336964,
   "workable_servers": [
-    "ia902508.us.archive.org",
-    "ia802508.us.archive.org"
+    "ia802508.us.archive.org",
+    "ia902508.us.archive.org"
   ]
 }

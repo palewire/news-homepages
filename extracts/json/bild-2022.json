@@ -1,5 +1,5 @@
 {
-  "created": 1662851232,
+  "created": 1662893738,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/17/items/bild-2022",
@@ -3984,31 +3984,83 @@
       "sha1": "1c99e57ebe2c3df0dfc295c2614849900d7f44de"
     },
     {
+      "name": "bild-2022-09-11T12:54:23.684710+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662893669",
+      "size": "78483",
+      "md5": "113e19bd052725a4f71e902f1a20718e",
+      "crc32": "a7a3258e",
+      "sha1": "a57825aa2cf49ba32e74edef8c3ac98e7f0e9539",
+      "format": "JSON"
+    },
+    {
+      "name": "bild-2022-09-11T12:54:23.684710+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662893671",
+      "size": "106247",
+      "md5": "81d7c4ede1d41bb15839a6a8dc379285",
+      "crc32": "042f26fe",
+      "sha1": "2becbf82edbdfe620ff64fb34bc907528961df46",
+      "format": "JSON"
+    },
+    {
+      "name": "bild-2022-09-11T12:54:23.684710+02:00.jpg",
+      "source": "original",
+      "mtime": "1662893668",
+      "size": "122602",
+      "md5": "f0d62e1e9c42f1629267ec56654fd785",
+      "crc32": "0b326cd2",
+      "sha1": "8b8f695dc50f796f3c12f1b7836fb517de6c82ef",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bild-2022-09-11T12:54:23.684710+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662893672",
+      "size": "1510",
+      "md5": "5d19d8c14a4fd3516077c9a856911b9d",
+      "crc32": "4db9960f",
+      "sha1": "93949c650df2cdfb58b5c285767f5cdf67dfd2c2",
+      "format": "JSON"
+    },
+    {
+      "name": "bild-2022-09-11T12:54:23.684710+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bild-2022-09-11T12:54:23.684710+02:00.jpg",
+      "mtime": "1662893723",
+      "size": "7200",
+      "md5": "039e8644c22c169bdf345e0e8d3db96e",
+      "crc32": "5cc8a35f",
+      "sha1": "1c99e57ebe2c3df0dfc295c2614849900d7f44de"
+    },
+    {
       "name": "bild-2022_archive.torrent",
       "source": "metadata",
-      "btih": "461ca6b6b73d51e4b04506b6f706d46baf658eae",
-      "mtime": "1662851225",
-      "size": "80639",
-      "md5": "a805a91a7a68712c8fb87dca0279cdfc",
-      "crc32": "870a3aee",
-      "sha1": "5f067c1fa5490c4da6a3aa8b0d8c8f085f824d55",
+      "btih": "8718595198abc392e98e722dc4bd00d7a8e7ca3e",
+      "mtime": "1662893728",
+      "size": "81679",
+      "md5": "ab693274d0fa4f3e0f815b0b2602dfdd",
+      "crc32": "def3cf82",
+      "sha1": "52788261c00ef6446d751205cdb16e498dbd4b4a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bild-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9c191b3887e56695852e8ccc84a6d15e",
+      "md5": "3aeaa467f815eb5e5d49291445f6bde3",
       "summation": "md5"
     },
     {
       "name": "bild-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662851174",
-      "size": "503808",
-      "md5": "582b5e4697f1cf207062aa1a21d26127",
-      "crc32": "94aefb44",
-      "sha1": "69d04f091b5031227335d030425f2513791c40b2",
+      "mtime": "1662893676",
+      "size": "507904",
+      "md5": "f6c3c3290c39365ec4476bed9adf2bde",
+      "crc32": "8b494038",
+      "sha1": "ba3192c440b891761d45dd5faf94a7502487df10",
       "format": "Metadata"
     },
     {
@@ -4022,9 +4074,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 389,
-  "item_last_updated": 1662851225,
-  "item_size": 21432651,
+  "files_count": 394,
+  "item_last_updated": 1662893728,
+  "item_size": 21753829,
   "metadata": {
     "identifier": "bild-2022",
     "collection": [
@@ -4042,7 +4094,7 @@
     "addeddate": "2022-08-11 00:38:50"
   },
   "server": "ia601504.us.archive.org",
-  "uniq": 505657368,
+  "uniq": 710469991,
   "workable_servers": [
     "ia601504.us.archive.org",
     "ia801504.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1662851533,
+  "created": 1662893965,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/27/items/deseret-2022",
@@ -3592,31 +3592,93 @@
       "sha1": "01b44bd7d6d77682484b5b40eeb919647ef409ec"
     },
     {
+      "name": "deseret-2022-09-11T04:58:13.534608-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662893895",
+      "size": "33720",
+      "md5": "ea23d7d04a056f3ba8fb8be964ed368f",
+      "crc32": "493a4c0c",
+      "sha1": "862fa046807da3fbb14777f034e1560bcd5c50fe",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-09-11T04:58:13.534608-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662893897",
+      "size": "49279",
+      "md5": "311ff9e2172b73fb2c3b0f4da22e18f9",
+      "crc32": "a2c0a3c8",
+      "sha1": "281577858a9649faa97e63a72926bc109af57ccf",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-09-11T04:58:13.534608-06:00.jpg",
+      "source": "original",
+      "mtime": "1662893894",
+      "size": "274509",
+      "md5": "a0bb2cceb5ff68c217b5fe70e734e94f",
+      "crc32": "12c5c36a",
+      "sha1": "62000cfdd6f837b63d26ae4313519592aa8c8387",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "deseret-2022-09-11T04:58:13.534608-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662893898",
+      "size": "1456",
+      "md5": "9f493273e21c3148166c9685f7dc4115",
+      "crc32": "4e63000f",
+      "sha1": "6282a61c57838a234dcb3e882f85867ac916c8d9",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-09-11T04:58:13.534608-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1662893900",
+      "size": "59041",
+      "md5": "04b5932760be6fc5f704b29fd0b58c8a",
+      "crc32": "8de14e6a",
+      "sha1": "5e7deb5b2c9a9430853693c8870d03444a3e373a",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-09-11T04:58:13.534608-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "deseret-2022-09-11T04:58:13.534608-06:00.jpg",
+      "mtime": "1662893953",
+      "size": "9916",
+      "md5": "15592a3c45db72445b8232f3ebf02bce",
+      "crc32": "77ac3404",
+      "sha1": "5f8762cd2f545a13e6216b8dd0b57dfc502f0a1f"
+    },
+    {
       "name": "deseret-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9bed75a4e4458c54f5473d60cc3fb62c8625aca5",
-      "mtime": "1662851523",
-      "size": "74031",
-      "md5": "f581570be6f9b94b2f805a8464abfb96",
-      "crc32": "5df4c18d",
-      "sha1": "b8c207cf8b55b6c680613641ec3bd5dc240e9eb2",
+      "btih": "fbefb1080c0d3b1000de659b561b61ddeddeda70",
+      "mtime": "1662893958",
+      "size": "75292",
+      "md5": "f6a519be7c37c8baaee4e949fecc90cc",
+      "crc32": "e762c494",
+      "sha1": "db79e066a01b5adaf457f322e093eab2de1f7aae",
       "format": "Archive BitTorrent"
     },
     {
       "name": "deseret-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e1c88bbce816824563a4945d8115d7ba",
+      "md5": "275c2e395e58d11ac82871f064a9c34e",
       "summation": "md5"
     },
     {
       "name": "deseret-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662851470",
-      "size": "458752",
-      "md5": "75742c1cedffc32e1b4fe6d1cac79d52",
-      "crc32": "728d0cd5",
-      "sha1": "83aec283416bf7dcdd7c572d10bc3c069ee11268",
+      "mtime": "1662893906",
+      "size": "466944",
+      "md5": "a1de2800fb9afbbc9d495a8f642017cb",
+      "crc32": "f4e7be6a",
+      "sha1": "9d811e0d99f9190cfa0f352940ea75c9e8cba683",
       "format": "Metadata"
     },
     {
@@ -3630,9 +3692,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 351,
-  "item_last_updated": 1662851523,
-  "item_size": 23240606,
+  "files_count": 357,
+  "item_last_updated": 1662893958,
+  "item_size": 23677980,
   "metadata": {
     "identifier": "deseret-2022",
     "collection": [
@@ -3650,7 +3712,7 @@
     "addeddate": "2022-08-13 23:54:11"
   },
   "server": "ia801507.us.archive.org",
-  "uniq": 1391468928,
+  "uniq": 31697728,
   "workable_servers": [
     "ia801507.us.archive.org",
     "ia601507.us.archive.org"
