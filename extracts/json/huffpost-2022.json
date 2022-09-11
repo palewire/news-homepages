@@ -1,5 +1,5 @@
 {
-  "created": 1662834818,
+  "created": 1662855114,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/33/items/huffpost-2022",
@@ -13542,31 +13542,83 @@
       "sha1": "4e21b5e94580bd99f78cc2c97a34b9dc76a426dc"
     },
     {
+      "name": "huffpost-2022-09-10T20:09:48.115602-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662854999",
+      "size": "36146",
+      "md5": "eee53caa1f46701fa393c49b226467d0",
+      "crc32": "9e0b6a28",
+      "sha1": "7ceae080cf412737c662c8d8e9f5e34e0d1c3285",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-09-10T20:09:48.115602-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662855001",
+      "size": "71257",
+      "md5": "d3d3b7510e70c979f39766df345c297a",
+      "crc32": "07e91181",
+      "sha1": "a7d4708bfd32007392b13c7f8a981baf4b55989e",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-09-10T20:09:48.115602-04:00.jpg",
+      "source": "original",
+      "mtime": "1662854998",
+      "size": "246885",
+      "md5": "136e1bad48b93723ad53ea71a337aefd",
+      "crc32": "b8167c80",
+      "sha1": "f3ab791f04174251725bc8e172ebce021c8df754",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "huffpost-2022-09-10T20:09:48.115602-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662855003",
+      "size": "1477",
+      "md5": "df3c568ee07269edce49200b05200f5e",
+      "crc32": "4dff2878",
+      "sha1": "ed8a5491cd340d4a6a290fde6f02362a48cff73b",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-09-10T20:09:48.115602-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "huffpost-2022-09-10T20:09:48.115602-04:00.jpg",
+      "mtime": "1662855076",
+      "size": "9805",
+      "md5": "aa677b03cd222a67596164064ced7b6c",
+      "crc32": "fe69e219",
+      "sha1": "f86016532a55af5eaff96f7cd903ddc4e07934c3"
+    },
+    {
       "name": "huffpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9f4d6e836ba3f860e15c3759461b285d6e1ea719",
-      "mtime": "1662834810",
-      "size": "275412",
-      "md5": "97edcb13a80fb5ce4fea0e85ebaaca7d",
-      "crc32": "10879390",
-      "sha1": "4bac3cb2b9cc3c15d2babb16bb98f7af0085d1c9",
+      "btih": "d1cfe7adc7c75e3a7f5d3d68f9d07ae07d040d65",
+      "mtime": "1662855104",
+      "size": "276471",
+      "md5": "c532c8760f5252964606bae124b8325a",
+      "crc32": "ab064d97",
+      "sha1": "95914a398c044e449d1d1af1a4a5c9a258608eed",
       "format": "Archive BitTorrent"
     },
     {
       "name": "huffpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fcfa3fe88bfc8da095c9a80543bdd9bc",
+      "md5": "70bf763bdf3563d14dd4333f466929ee",
       "summation": "md5"
     },
     {
       "name": "huffpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662834729",
-      "size": "1593344",
-      "md5": "a14c4316a173b7d146a1cf89217cafc4",
-      "crc32": "6d7a81a2",
-      "sha1": "d76e4eb6f85e6d7c909e296595f2c0317e374557",
+      "mtime": "1662855007",
+      "size": "1597440",
+      "md5": "a69e6c8a8b27b76b575295497e213fe6",
+      "crc32": "4d835279",
+      "sha1": "b2fb54e154b476260023f3ecf45e3d74d408785a",
       "format": "Metadata"
     },
     {
@@ -13580,9 +13632,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1305,
-  "item_last_updated": 1662834810,
-  "item_size": 98217525,
+  "files_count": 1310,
+  "item_last_updated": 1662855104,
+  "item_size": 98588250,
   "metadata": {
     "identifier": "huffpost-2022",
     "collection": [
@@ -13599,10 +13651,10 @@
     "publicdate": "2022-06-24 22:56:52",
     "addeddate": "2022-06-24 22:56:52"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 1859046694,
+  "server": "ia902502.us.archive.org",
+  "uniq": 1684353406,
   "workable_servers": [
-    "ia802502.us.archive.org",
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }
