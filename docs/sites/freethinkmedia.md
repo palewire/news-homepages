@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 11 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         95
     </td>
     <td style="text-align: right;">
-        125
+        129
     </td>
   </tr>
 
@@ -192,11 +192,11 @@ The median score for each category, along with how it ranks in comparison to the
     <td>
         Best practices
     </td>
-    <td style="text-align: right; background-color: green; color: white;">
-        92
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
     </td>
     <td style="text-align: right;">
-        130
+        381
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        68
+        62
     </td>
     <td style="text-align: right;">
-        84
+        110
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         90
     </td>
     <td style="text-align: right;">
-        376
+        374
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 102 screenshots with the Internet Archive.
+The archiving routine has saved 104 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-11T08:03:49.155847-07:00.jpg">
+  <img src="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-11T08:03:49.155847-07:00.jpg"
+     alt="Freethink at 2022-09-11 08:03:50-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-11T08:03:49.155847-07:00.jpg">September 11 at 8:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-10T20:49:03.239507-07:00.jpg">
+  <img src="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-10T20:49:03.239507-07:00.jpg"
+     alt="Freethink at 2022-09-10 20:49:07-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-10T20:49:03.239507-07:00.jpg">September 10 at 8:49 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-10T08:01:43.602417-07:00.jpg">
   <img src="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-10T08:01:43.602417-07:00.jpg"
      alt="Freethink at 2022-09-10 08:01:53-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-05T09:13:49.032359-07:00.jpg">September 5 at 9:13 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-04T20:40:50.245089-07:00.jpg">
-  <img src="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-04T20:40:50.245089-07:00.jpg"
-     alt="Freethink at 2022-09-04 20:40:54-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-04T20:40:50.245089-07:00.jpg">September 4 at 8:40 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-04T09:32:45.711701-07:00.jpg">
-  <img src="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-04T09:32:45.711701-07:00.jpg"
-     alt="Freethink at 2022-09-04 09:32:49-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-04T09:32:45.711701-07:00.jpg">September 4 at 9:32 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 103 hyperlink lists with the Internet Archive.
+The archiving routine has saved 105 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 8:03 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-11T08:03:49.155847-07:00.hyperlinks.json) |
+| [September 10 at 8:49 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-10T20:49:03.239507-07:00.hyperlinks.json) |
 | [September 10 at 8:01 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-10T08:01:43.602417-07:00.hyperlinks.json) |
 | [September 9 at 8:51 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-09T20:50:47.753089-07:00.hyperlinks.json) |
 | [September 9 at 9:22 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-09T09:22:14.095914-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 8:48 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-07T20:48:21.458626-07:00.hyperlinks.json) |
 | [September 7 at 8:38 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-07T08:38:02.598062-07:00.hyperlinks.json) |
 | [September 6 at 8:52 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-06T20:52:29.138464-07:00.hyperlinks.json) |
-| [September 5 at 8:52 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-05T20:52:35.216565-07:00.hyperlinks.json) |
-| [September 5 at 9:13 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-05T09:13:49.032359-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 103 accessibility trees with the Internet Archive.
+The archiving routine has saved 105 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 8:03 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-11T08:03:49.155847-07:00.accessibility.json) |
+| [September 10 at 8:49 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-10T20:49:03.239507-07:00.accessibility.json) |
 | [September 10 at 8:01 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-10T08:01:43.602417-07:00.accessibility.json) |
 | [September 9 at 8:50 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-09T20:50:47.753089-07:00.accessibility.json) |
 | [September 9 at 9:22 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-09T09:22:14.095914-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 8:48 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-07T20:48:21.458626-07:00.accessibility.json) |
 | [September 7 at 8:38 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-07T08:38:02.598062-07:00.accessibility.json) |
 | [September 6 at 8:52 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-06T20:52:29.138464-07:00.accessibility.json) |
-| [September 5 at 8:52 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-05T20:52:35.216565-07:00.accessibility.json) |
-| [September 5 at 9:13 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-05T09:13:49.032359-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 97 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 99 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 8:03 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-11T08:03:49.155847-07:00.lighthouse.json) |
+| [September 10 at 8:49 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-10T20:49:03.239507-07:00.lighthouse.json) |
 | [September 10 at 8:01 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-10T08:01:43.602417-07:00.lighthouse.json) |
 | [September 9 at 8:51 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-09T20:50:47.753089-07:00.lighthouse.json) |
 | [September 9 at 9:22 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-09T09:22:14.095914-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 8:48 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-07T20:48:21.458626-07:00.lighthouse.json) |
 | [September 7 at 8:38 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-07T08:38:02.598062-07:00.lighthouse.json) |
 | [September 6 at 8:52 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-06T20:52:29.138464-07:00.lighthouse.json) |
-| [September 5 at 8:52 PM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-05T20:52:35.216565-07:00.lighthouse.json) |
-| [September 5 at 9:14 AM](https://archive.org/download/freethinkmedia-2022/freethinkmedia-2022-09-05T09:13:49.032359-07:00.lighthouse.json) |
 
 
 

@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 12 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         82
     </td>
     <td style="text-align: right;">
-        527
+        533
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        27
+        30
     </td>
     <td style="text-align: right;">
-        425
+        390
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         93
     </td>
     <td style="text-align: right;">
-        149
+        150
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 94 screenshots with the Internet Archive.
+The archiving routine has saved 96 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/mdr_san-2022/mdr_san-2022-09-11T02:14:40.060021+02:00.jpg">
+  <img src="https://archive.org/download/mdr_san-2022/mdr_san-2022-09-11T02:14:40.060021+02:00.jpg"
+     alt="MDR Sachsen-Anhalt at 2022-09-11 02:14:44+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mdr_san-2022/mdr_san-2022-09-11T02:14:40.060021+02:00.jpg">September 11 at 2:14 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mdr_san-2022/mdr_san-2022-09-10T14:01:19.590725+02:00.jpg">
+  <img src="https://archive.org/download/mdr_san-2022/mdr_san-2022-09-10T14:01:19.590725+02:00.jpg"
+     alt="MDR Sachsen-Anhalt at 2022-09-10 14:01:34+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mdr_san-2022/mdr_san-2022-09-10T14:01:19.590725+02:00.jpg">September 10 at 2:01 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/mdr_san-2022/mdr_san-2022-09-10T02:07:48.530802+02:00.jpg">
   <img src="https://archive.org/download/mdr_san-2022/mdr_san-2022-09-10T02:07:48.530802+02:00.jpg"
      alt="MDR Sachsen-Anhalt at 2022-09-10 02:07:52+02:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mdr_san-2022/mdr_san-2022-09-05T14:22:36.554266+02:00.jpg">September 5 at 2:22 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mdr_san-2022/mdr_san-2022-09-05T01:56:11.364082+02:00.jpg">
-  <img src="https://archive.org/download/mdr_san-2022/mdr_san-2022-09-05T01:56:11.364082+02:00.jpg"
-     alt="MDR Sachsen-Anhalt at 2022-09-05 01:56:15+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mdr_san-2022/mdr_san-2022-09-05T01:56:11.364082+02:00.jpg">September 5 at 1:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mdr_san-2022/mdr_san-2022-09-04T13:57:56.112786+02:00.jpg">
-  <img src="https://archive.org/download/mdr_san-2022/mdr_san-2022-09-04T13:57:56.112786+02:00.jpg"
-     alt="MDR Sachsen-Anhalt at 2022-09-04 13:57:57+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mdr_san-2022/mdr_san-2022-09-04T13:57:56.112786+02:00.jpg">September 4 at 1:57 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 94 hyperlink lists with the Internet Archive.
+The archiving routine has saved 96 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 2:14 AM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-11T02:14:40.060021+02:00.hyperlinks.json) |
+| [September 10 at 2:01 PM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-10T14:01:19.590725+02:00.hyperlinks.json) |
 | [September 10 at 2:07 AM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-10T02:07:48.530802+02:00.hyperlinks.json) |
 | [September 9 at 2:18 PM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-09T14:18:36.143962+02:00.hyperlinks.json) |
 | [September 9 at 2:08 AM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-09T02:08:16.866459+02:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 2:42 PM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-07T14:42:39.170629+02:00.hyperlinks.json) |
 | [September 7 at 2:13 AM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-07T02:12:58.245858+02:00.hyperlinks.json) |
 | [September 6 at 2:05 PM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-06T14:04:55.142895+02:00.hyperlinks.json) |
-| [September 6 at 1:58 AM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-06T01:58:40.599409+02:00.hyperlinks.json) |
-| [September 5 at 2:22 PM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-05T14:22:36.554266+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 94 accessibility trees with the Internet Archive.
+The archiving routine has saved 96 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 2:14 AM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-11T02:14:40.060021+02:00.accessibility.json) |
+| [September 10 at 2:01 PM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-10T14:01:19.590725+02:00.accessibility.json) |
 | [September 10 at 2:07 AM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-10T02:07:48.530802+02:00.accessibility.json) |
 | [September 9 at 2:18 PM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-09T14:18:36.143962+02:00.accessibility.json) |
 | [September 9 at 2:08 AM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-09T02:08:16.866459+02:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 2:42 PM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-07T14:42:39.170629+02:00.accessibility.json) |
 | [September 7 at 2:13 AM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-07T02:12:58.245858+02:00.accessibility.json) |
 | [September 6 at 2:04 PM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-06T14:04:55.142895+02:00.accessibility.json) |
-| [September 6 at 1:58 AM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-06T01:58:40.599409+02:00.accessibility.json) |
-| [September 5 at 2:22 PM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-05T14:22:36.554266+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 94 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 96 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 2:14 AM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-11T02:14:40.060021+02:00.lighthouse.json) |
+| [September 10 at 2:01 PM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-10T14:01:19.590725+02:00.lighthouse.json) |
 | [September 10 at 2:07 AM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-10T02:07:48.530802+02:00.lighthouse.json) |
 | [September 9 at 2:18 PM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-09T14:18:36.143962+02:00.lighthouse.json) |
 | [September 9 at 2:08 AM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-09T02:08:16.866459+02:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 2:42 PM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-07T14:42:39.170629+02:00.lighthouse.json) |
 | [September 7 at 2:13 AM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-07T02:12:58.245858+02:00.lighthouse.json) |
 | [September 6 at 2:05 PM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-06T14:04:55.142895+02:00.lighthouse.json) |
-| [September 6 at 1:58 AM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-06T01:58:40.599409+02:00.lighthouse.json) |
-| [September 5 at 2:22 PM](https://archive.org/download/mdr_san-2022/mdr_san-2022-09-05T14:22:36.554266+02:00.lighthouse.json) |
 
 
 

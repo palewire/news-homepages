@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 18 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 23 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         90
     </td>
     <td style="text-align: right;">
-        240
+        248
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         12
     </td>
     <td style="text-align: right;">
-        780
+        788
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         98
     </td>
     <td style="text-align: right;">
-        75
+        68
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 176 screenshots with the Internet Archive.
+The archiving routine has saved 179 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-11T11:13:25.170244-05:00.jpg">
+  <img src="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-11T11:13:25.170244-05:00.jpg"
+     alt="Cicero Independiente at 2022-09-11 11:13:26-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-11T11:13:25.170244-05:00.jpg">September 11 at 11:13 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-11T05:56:11.549963-05:00.jpg">
+  <img src="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-11T05:56:11.549963-05:00.jpg"
+     alt="Cicero Independiente at 2022-09-11 05:56:20-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-11T05:56:11.549963-05:00.jpg">September 11 at 5:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-10T18:08:25.450937-05:00.jpg">
+  <img src="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-10T18:08:25.450937-05:00.jpg"
+     alt="Cicero Independiente at 2022-09-10 18:08:27-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-10T18:08:25.450937-05:00.jpg">September 10 at 6:08 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-10T11:05:02.329176-05:00.jpg">
   <img src="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-10T11:05:02.329176-05:00.jpg"
      alt="Cicero Independiente at 2022-09-10 11:05:05-05:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-07T18:00:58.721034-05:00.jpg">September 7 at 6:01 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-07T07:14:36.639770-05:00.jpg">
-  <img src="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-07T07:14:36.639770-05:00.jpg"
-     alt="Cicero Independiente at 2022-09-07 07:14:49-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-07T07:14:36.639770-05:00.jpg">September 7 at 7:14 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-06T18:07:56.477721-05:00.jpg">
-  <img src="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-06T18:07:56.477721-05:00.jpg"
-     alt="Cicero Independiente at 2022-09-06 18:07:58-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-06T18:07:56.477721-05:00.jpg">September 6 at 6:07 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-06T05:57:15.722770-05:00.jpg">
-  <img src="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-06T05:57:15.722770-05:00.jpg"
-     alt="Cicero Independiente at 2022-09-06 05:57:17-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-06T05:57:15.722770-05:00.jpg">September 6 at 5:57 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 174 hyperlink lists with the Internet Archive.
+The archiving routine has saved 177 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 11:13 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-11T11:13:25.170244-05:00.hyperlinks.json) |
+| [September 11 at 5:56 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-11T05:56:11.549963-05:00.hyperlinks.json) |
+| [September 10 at 6:08 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-10T18:08:25.450937-05:00.hyperlinks.json) |
 | [September 10 at 11:05 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-10T11:05:02.329176-05:00.hyperlinks.json) |
 | [September 10 at 5:55 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-10T05:55:41.373802-05:00.hyperlinks.json) |
 | [September 9 at 6:06 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-09T18:06:36.612992-05:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 9 at 6:06 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-09T06:06:30.048933-05:00.hyperlinks.json) |
 | [September 8 at 6:59 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-08T18:59:13.354646-05:00.hyperlinks.json) |
 | [September 8 at 11:31 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-08T11:31:14.901871-05:00.hyperlinks.json) |
-| [September 8 at 6:04 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-08T06:04:01.594072-05:00.hyperlinks.json) |
-| [September 7 at 6:01 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-07T18:00:58.721034-05:00.hyperlinks.json) |
-| [September 7 at 7:14 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-07T07:14:36.639770-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 177 accessibility trees with the Internet Archive.
+The archiving routine has saved 180 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 11:13 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-11T11:13:25.170244-05:00.accessibility.json) |
+| [September 11 at 5:56 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-11T05:56:11.549963-05:00.accessibility.json) |
+| [September 10 at 6:08 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-10T18:08:25.450937-05:00.accessibility.json) |
 | [September 10 at 11:05 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-10T11:05:02.329176-05:00.accessibility.json) |
 | [September 10 at 5:55 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-10T05:55:41.373802-05:00.accessibility.json) |
 | [September 9 at 6:06 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-09T18:06:36.612992-05:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 9 at 6:06 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-09T06:06:30.048933-05:00.accessibility.json) |
 | [September 8 at 6:59 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-08T18:59:13.354646-05:00.accessibility.json) |
 | [September 8 at 11:31 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-08T11:31:14.901871-05:00.accessibility.json) |
-| [September 8 at 6:04 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-08T06:04:01.594072-05:00.accessibility.json) |
-| [September 7 at 6:01 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-07T18:00:58.721034-05:00.accessibility.json) |
-| [September 7 at 7:14 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-07T07:14:36.639770-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 144 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 147 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 11:13 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-11T11:13:25.170244-05:00.lighthouse.json) |
+| [September 11 at 5:56 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-11T05:56:11.549963-05:00.lighthouse.json) |
+| [September 10 at 6:08 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-10T18:08:25.450937-05:00.lighthouse.json) |
 | [September 10 at 11:05 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-10T11:05:02.329176-05:00.lighthouse.json) |
 | [September 10 at 5:55 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-10T05:55:41.373802-05:00.lighthouse.json) |
 | [September 9 at 6:06 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-09T18:06:36.612992-05:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 9 at 6:06 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-09T06:06:30.048933-05:00.lighthouse.json) |
 | [September 8 at 6:59 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-08T18:59:13.354646-05:00.lighthouse.json) |
 | [September 8 at 11:31 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-08T11:31:14.901871-05:00.lighthouse.json) |
-| [September 8 at 6:04 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-08T06:04:01.594072-05:00.lighthouse.json) |
-| [September 7 at 6:01 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-07T18:00:58.721034-05:00.lighthouse.json) |
-| [September 7 at 12:19 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-09-07T12:19:25.614234-05:00.lighthouse.json) |
 
 
 

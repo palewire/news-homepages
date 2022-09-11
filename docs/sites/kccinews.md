@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 14 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 17 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         98
     </td>
     <td style="text-align: right;">
-        26
+        25
     </td>
   </tr>
 
@@ -193,10 +193,10 @@ The median score for each category, along with how it ranks in comparison to the
         Best practices
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        83
+        75
     </td>
     <td style="text-align: right;">
-        404
+        603
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        28
+        21
     </td>
     <td style="text-align: right;">
-        403
+        576
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         86
     </td>
     <td style="text-align: right;">
-        456
+        457
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 300 screenshots with the Internet Archive.
+The archiving routine has saved 302 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kccinews-2022/kccinews-2022-09-10T19:12:18.865765-05:00.jpg">
+  <img src="https://archive.org/download/kccinews-2022/kccinews-2022-09-10T19:12:18.865765-05:00.jpg"
+     alt="KCCI at 2022-09-10 19:12:25-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-09-10T19:12:18.865765-05:00.jpg">September 10 at 7:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kccinews-2022/kccinews-2022-09-10T06:58:41.217266-05:00.jpg">
+  <img src="https://archive.org/download/kccinews-2022/kccinews-2022-09-10T06:58:41.217266-05:00.jpg"
+     alt="KCCI at 2022-09-10 06:58:48-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-09-10T06:58:41.217266-05:00.jpg">September 10 at 6:58 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kccinews-2022/kccinews-2022-09-09T19:05:30.798320-05:00.jpg">
   <img src="https://archive.org/download/kccinews-2022/kccinews-2022-09-09T19:05:30.798320-05:00.jpg"
      alt="KCCI at 2022-09-09 19:05:38-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-09-06T07:01:54.977425-05:00.jpg">September 6 at 7:01 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kccinews-2022/kccinews-2022-09-05T18:57:01.121482-05:00.jpg">
-  <img src="https://archive.org/download/kccinews-2022/kccinews-2022-09-05T18:57:01.121482-05:00.jpg"
-     alt="KCCI at 2022-09-05 18:57:09-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-09-05T18:57:01.121482-05:00.jpg">September 5 at 6:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kccinews-2022/kccinews-2022-09-05T11:31:11.484015-05:00.jpg">
-  <img src="https://archive.org/download/kccinews-2022/kccinews-2022-09-05T11:31:11.484015-05:00.jpg"
-     alt="KCCI at 2022-09-05 11:31:20-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kccinews-2022/kccinews-2022-09-05T11:31:11.484015-05:00.jpg">September 5 at 11:31 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 293 hyperlink lists with the Internet Archive.
+The archiving routine has saved 295 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 10 at 7:12 PM](https://archive.org/download/kccinews-2022/kccinews-2022-09-10T19:12:18.865765-05:00.hyperlinks.json) |
+| [September 10 at 6:58 AM](https://archive.org/download/kccinews-2022/kccinews-2022-09-10T06:58:41.217266-05:00.hyperlinks.json) |
 | [September 9 at 7:05 PM](https://archive.org/download/kccinews-2022/kccinews-2022-09-09T19:05:30.798320-05:00.hyperlinks.json) |
 | [September 9 at 11:39 AM](https://archive.org/download/kccinews-2022/kccinews-2022-09-09T11:39:32.246532-05:00.hyperlinks.json) |
 | [September 9 at 7:14 AM](https://archive.org/download/kccinews-2022/kccinews-2022-09-09T07:14:46.439803-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 6:55 PM](https://archive.org/download/kccinews-2022/kccinews-2022-09-07T18:55:12.202831-05:00.hyperlinks.json) |
 | [September 7 at 7:40 AM](https://archive.org/download/kccinews-2022/kccinews-2022-09-07T07:40:00.720979-05:00.hyperlinks.json) |
 | [September 6 at 7:11 PM](https://archive.org/download/kccinews-2022/kccinews-2022-09-06T19:11:19.991093-05:00.hyperlinks.json) |
-| [September 6 at 7:02 AM](https://archive.org/download/kccinews-2022/kccinews-2022-09-06T07:02:11.374053-05:00.hyperlinks.json) |
-| [September 5 at 6:57 PM](https://archive.org/download/kccinews-2022/kccinews-2022-09-05T18:57:01.121482-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 298 accessibility trees with the Internet Archive.
+The archiving routine has saved 300 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 10 at 7:12 PM](https://archive.org/download/kccinews-2022/kccinews-2022-09-10T19:12:18.865765-05:00.accessibility.json) |
+| [September 10 at 6:58 AM](https://archive.org/download/kccinews-2022/kccinews-2022-09-10T06:58:41.217266-05:00.accessibility.json) |
 | [September 9 at 7:05 PM](https://archive.org/download/kccinews-2022/kccinews-2022-09-09T19:05:30.798320-05:00.accessibility.json) |
 | [September 9 at 11:39 AM](https://archive.org/download/kccinews-2022/kccinews-2022-09-09T11:39:32.246532-05:00.accessibility.json) |
 | [September 9 at 7:14 AM](https://archive.org/download/kccinews-2022/kccinews-2022-09-09T07:14:46.439803-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 6:55 PM](https://archive.org/download/kccinews-2022/kccinews-2022-09-07T18:55:12.202831-05:00.accessibility.json) |
 | [September 7 at 12:18 PM](https://archive.org/download/kccinews-2022/kccinews-2022-09-07T12:18:16.273938-05:00.accessibility.json) |
 | [September 7 at 7:40 AM](https://archive.org/download/kccinews-2022/kccinews-2022-09-07T07:40:00.720979-05:00.accessibility.json) |
-| [September 6 at 7:11 PM](https://archive.org/download/kccinews-2022/kccinews-2022-09-06T19:11:19.991093-05:00.accessibility.json) |
-| [September 6 at 7:02 AM](https://archive.org/download/kccinews-2022/kccinews-2022-09-06T07:02:11.374053-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 118 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 120 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 10 at 7:12 PM](https://archive.org/download/kccinews-2022/kccinews-2022-09-10T19:12:18.865765-05:00.lighthouse.json) |
+| [September 10 at 6:58 AM](https://archive.org/download/kccinews-2022/kccinews-2022-09-10T06:58:41.217266-05:00.lighthouse.json) |
 | [September 9 at 7:05 PM](https://archive.org/download/kccinews-2022/kccinews-2022-09-09T19:05:30.798320-05:00.lighthouse.json) |
 | [September 9 at 11:39 AM](https://archive.org/download/kccinews-2022/kccinews-2022-09-09T11:39:32.246532-05:00.lighthouse.json) |
 | [September 9 at 7:15 AM](https://archive.org/download/kccinews-2022/kccinews-2022-09-09T07:14:46.439803-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 6:55 PM](https://archive.org/download/kccinews-2022/kccinews-2022-09-07T18:55:12.202831-05:00.lighthouse.json) |
 | [September 7 at 12:18 PM](https://archive.org/download/kccinews-2022/kccinews-2022-09-07T12:18:16.273938-05:00.lighthouse.json) |
 | [September 7 at 7:40 AM](https://archive.org/download/kccinews-2022/kccinews-2022-09-07T07:40:00.720979-05:00.lighthouse.json) |
-| [September 6 at 7:11 PM](https://archive.org/download/kccinews-2022/kccinews-2022-09-06T19:11:19.991093-05:00.lighthouse.json) |
-| [September 6 at 7:02 AM](https://archive.org/download/kccinews-2022/kccinews-2022-09-06T07:02:11.374053-05:00.lighthouse.json) |
 
 
 

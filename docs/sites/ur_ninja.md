@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 17 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 20 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         82
     </td>
     <td style="text-align: right;">
-        527
+        533
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         92
     </td>
     <td style="text-align: right;">
-        130
+        122
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        57
+        51
     </td>
     <td style="text-align: right;">
-        131
+        171
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         86
     </td>
     <td style="text-align: right;">
-        456
+        457
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 242 screenshots with the Internet Archive.
+The archiving routine has saved 246 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-11T13:30:59.707427-05:00.jpg">
+  <img src="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-11T13:30:59.707427-05:00.jpg"
+     alt="Unicorn Riot at 2022-09-11 13:31:01-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-11T13:30:59.707427-05:00.jpg">September 11 at 1:31 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-11T08:08:54.092611-05:00.jpg">
+  <img src="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-11T08:08:54.092611-05:00.jpg"
+     alt="Unicorn Riot at 2022-09-11 08:09:01-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-11T08:08:54.092611-05:00.jpg">September 11 at 8:09 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-10T20:26:59.585600-05:00.jpg">
+  <img src="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-10T20:26:59.585600-05:00.jpg"
+     alt="Unicorn Riot at 2022-09-10 20:27:00-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-10T20:26:59.585600-05:00.jpg">September 10 at 8:27 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-10T13:32:49.515761-05:00.jpg">
+  <img src="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-10T13:32:49.515761-05:00.jpg"
+     alt="Unicorn Riot at 2022-09-10 13:32:54-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-10T13:32:49.515761-05:00.jpg">September 10 at 1:32 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-10T08:11:20.477075-05:00.jpg">
   <img src="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-10T08:11:20.477075-05:00.jpg"
      alt="Unicorn Riot at 2022-09-10 08:11:22-05:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-07T14:06:11.029666-05:00.jpg">September 7 at 2:06 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-07T08:52:56.602338-05:00.jpg">
-  <img src="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-07T08:52:56.602338-05:00.jpg"
-     alt="Unicorn Riot at 2022-09-07 08:53:01-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-07T08:52:56.602338-05:00.jpg">September 7 at 8:53 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-06T20:26:26.779065-05:00.jpg">
-  <img src="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-06T20:26:26.779065-05:00.jpg"
-     alt="Unicorn Riot at 2022-09-06 20:26:32-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-06T20:26:26.779065-05:00.jpg">September 6 at 8:26 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-05T20:30:08.727498-05:00.jpg">
-  <img src="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-05T20:30:08.727498-05:00.jpg"
-     alt="Unicorn Riot at 2022-09-05 20:30:15-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-05T20:30:08.727498-05:00.jpg">September 5 at 8:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-05T13:32:02.945874-05:00.jpg">
-  <img src="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-05T13:32:02.945874-05:00.jpg"
-     alt="Unicorn Riot at 2022-09-05 13:32:18-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-05T13:32:02.945874-05:00.jpg">September 5 at 1:32 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 243 hyperlink lists with the Internet Archive.
+The archiving routine has saved 247 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 1:31 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-11T13:30:59.707427-05:00.hyperlinks.json) |
+| [September 11 at 8:09 AM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-11T08:08:54.092611-05:00.hyperlinks.json) |
+| [September 10 at 8:27 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-10T20:26:59.585600-05:00.hyperlinks.json) |
+| [September 10 at 1:32 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-10T13:32:49.515761-05:00.hyperlinks.json) |
 | [September 10 at 8:11 AM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-10T08:11:20.477075-05:00.hyperlinks.json) |
 | [September 9 at 8:30 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-09T20:30:13.249084-05:00.hyperlinks.json) |
 | [September 9 at 1:33 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-09T13:33:21.577948-05:00.hyperlinks.json) |
 | [September 9 at 8:29 AM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-09T08:29:15.836858-05:00.hyperlinks.json) |
 | [September 8 at 8:31 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-08T20:31:34.425361-05:00.hyperlinks.json) |
 | [September 8 at 8:20 AM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-08T08:20:27.099622-05:00.hyperlinks.json) |
-| [September 7 at 8:29 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-07T20:29:15.251523-05:00.hyperlinks.json) |
-| [September 7 at 2:06 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-07T14:06:11.029666-05:00.hyperlinks.json) |
-| [September 7 at 8:53 AM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-07T08:52:56.602338-05:00.hyperlinks.json) |
-| [September 6 at 8:26 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-06T20:26:26.779065-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 242 accessibility trees with the Internet Archive.
+The archiving routine has saved 246 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 1:31 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-11T13:30:59.707427-05:00.accessibility.json) |
+| [September 11 at 8:09 AM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-11T08:08:54.092611-05:00.accessibility.json) |
+| [September 10 at 8:27 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-10T20:26:59.585600-05:00.accessibility.json) |
+| [September 10 at 1:32 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-10T13:32:49.515761-05:00.accessibility.json) |
 | [September 10 at 8:11 AM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-10T08:11:20.477075-05:00.accessibility.json) |
 | [September 9 at 8:30 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-09T20:30:13.249084-05:00.accessibility.json) |
 | [September 9 at 1:33 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-09T13:33:21.577948-05:00.accessibility.json) |
 | [September 9 at 8:29 AM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-09T08:29:15.836858-05:00.accessibility.json) |
 | [September 8 at 8:31 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-08T20:31:34.425361-05:00.accessibility.json) |
 | [September 8 at 8:20 AM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-08T08:20:27.099622-05:00.accessibility.json) |
-| [September 7 at 8:29 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-07T20:29:15.251523-05:00.accessibility.json) |
-| [September 7 at 8:53 AM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-07T08:52:56.602338-05:00.accessibility.json) |
-| [September 6 at 8:26 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-06T20:26:26.779065-05:00.accessibility.json) |
-| [September 5 at 8:30 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-05T20:30:08.727498-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 143 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 147 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 1:31 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-11T13:30:59.707427-05:00.lighthouse.json) |
+| [September 11 at 8:09 AM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-11T08:08:54.092611-05:00.lighthouse.json) |
+| [September 10 at 8:27 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-10T20:26:59.585600-05:00.lighthouse.json) |
+| [September 10 at 1:32 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-10T13:32:49.515761-05:00.lighthouse.json) |
 | [September 10 at 8:11 AM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-10T08:11:20.477075-05:00.lighthouse.json) |
 | [September 9 at 8:30 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-09T20:30:13.249084-05:00.lighthouse.json) |
 | [September 9 at 1:33 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-09T13:33:21.577948-05:00.lighthouse.json) |
 | [September 9 at 8:29 AM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-09T08:29:15.836858-05:00.lighthouse.json) |
 | [September 8 at 8:31 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-08T20:31:34.425361-05:00.lighthouse.json) |
 | [September 8 at 8:20 AM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-08T08:20:27.099622-05:00.lighthouse.json) |
-| [September 7 at 8:29 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-07T20:29:15.251523-05:00.lighthouse.json) |
-| [September 7 at 2:06 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-07T14:06:11.029666-05:00.lighthouse.json) |
-| [September 7 at 8:53 AM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-07T08:52:56.602338-05:00.lighthouse.json) |
-| [September 6 at 8:26 PM](https://archive.org/download/ur_ninja-2022/ur_ninja-2022-09-06T20:26:26.779065-05:00.lighthouse.json) |
 
 
 

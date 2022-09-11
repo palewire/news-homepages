@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 12 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -193,10 +193,10 @@ The median score for each category, along with how it ranks in comparison to the
         Best practices
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        75
+        83
     </td>
     <td style="text-align: right;">
-        581
+        381
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        25
+        24
     </td>
     <td style="text-align: right;">
-        464
+        503
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         99
     </td>
     <td style="text-align: right;">
-        38
+        32
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 52 screenshots with the Internet Archive.
+The archiving routine has saved 54 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/milenio-2022/milenio-2022-09-10T19:14:45.066322-05:00.jpg">
+  <img src="https://archive.org/download/milenio-2022/milenio-2022-09-10T19:14:45.066322-05:00.jpg"
+     alt="Milenio at 2022-09-10 19:14:49-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/milenio-2022/milenio-2022-09-10T19:14:45.066322-05:00.jpg">September 10 at 7:14 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/milenio-2022/milenio-2022-09-10T07:02:02.786812-05:00.jpg">
+  <img src="https://archive.org/download/milenio-2022/milenio-2022-09-10T07:02:02.786812-05:00.jpg"
+     alt="Milenio at 2022-09-10 07:02:06-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/milenio-2022/milenio-2022-09-10T07:02:02.786812-05:00.jpg">September 10 at 7:02 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/milenio-2022/milenio-2022-09-09T19:09:05.008433-05:00.jpg">
   <img src="https://archive.org/download/milenio-2022/milenio-2022-09-09T19:09:05.008433-05:00.jpg"
      alt="Milenio at 2022-09-09 19:09:10-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/milenio-2022/milenio-2022-09-05T07:22:35.888014-05:00.jpg">September 5 at 7:22 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/milenio-2022/milenio-2022-09-04T18:55:50.258151-05:00.jpg">
-  <img src="https://archive.org/download/milenio-2022/milenio-2022-09-04T18:55:50.258151-05:00.jpg"
-     alt="Milenio at 2022-09-04 18:55:53-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/milenio-2022/milenio-2022-09-04T18:55:50.258151-05:00.jpg">September 4 at 6:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/milenio-2022/milenio-2022-09-04T06:58:32.707862-05:00.jpg">
-  <img src="https://archive.org/download/milenio-2022/milenio-2022-09-04T06:58:32.707862-05:00.jpg"
-     alt="Milenio at 2022-09-04 06:58:36-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/milenio-2022/milenio-2022-09-04T06:58:32.707862-05:00.jpg">September 4 at 6:58 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 52 hyperlink lists with the Internet Archive.
+The archiving routine has saved 54 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 10 at 7:14 PM](https://archive.org/download/milenio-2022/milenio-2022-09-10T19:14:45.066322-05:00.hyperlinks.json) |
+| [September 10 at 7:02 AM](https://archive.org/download/milenio-2022/milenio-2022-09-10T07:02:02.786812-05:00.hyperlinks.json) |
 | [September 9 at 7:09 PM](https://archive.org/download/milenio-2022/milenio-2022-09-09T19:09:05.008433-05:00.hyperlinks.json) |
 | [September 9 at 7:19 AM](https://archive.org/download/milenio-2022/milenio-2022-09-09T07:19:01.576284-05:00.hyperlinks.json) |
 | [September 8 at 7:09 PM](https://archive.org/download/milenio-2022/milenio-2022-09-08T19:09:00.555391-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 7:43 AM](https://archive.org/download/milenio-2022/milenio-2022-09-07T07:43:28.588521-05:00.hyperlinks.json) |
 | [September 6 at 7:13 PM](https://archive.org/download/milenio-2022/milenio-2022-09-06T19:12:59.620607-05:00.hyperlinks.json) |
 | [September 6 at 7:06 AM](https://archive.org/download/milenio-2022/milenio-2022-09-06T07:06:15.458183-05:00.hyperlinks.json) |
-| [September 5 at 6:59 PM](https://archive.org/download/milenio-2022/milenio-2022-09-05T18:59:07.212192-05:00.hyperlinks.json) |
-| [September 5 at 7:22 AM](https://archive.org/download/milenio-2022/milenio-2022-09-05T07:22:35.888014-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 50 accessibility trees with the Internet Archive.
+The archiving routine has saved 52 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 10 at 7:14 PM](https://archive.org/download/milenio-2022/milenio-2022-09-10T19:14:45.066322-05:00.accessibility.json) |
+| [September 10 at 7:02 AM](https://archive.org/download/milenio-2022/milenio-2022-09-10T07:02:02.786812-05:00.accessibility.json) |
 | [September 9 at 7:09 PM](https://archive.org/download/milenio-2022/milenio-2022-09-09T19:09:05.008433-05:00.accessibility.json) |
 | [September 9 at 7:19 AM](https://archive.org/download/milenio-2022/milenio-2022-09-09T07:19:01.576284-05:00.accessibility.json) |
 | [September 8 at 7:09 PM](https://archive.org/download/milenio-2022/milenio-2022-09-08T19:09:00.555391-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 7:43 AM](https://archive.org/download/milenio-2022/milenio-2022-09-07T07:43:28.588521-05:00.accessibility.json) |
 | [September 6 at 7:13 PM](https://archive.org/download/milenio-2022/milenio-2022-09-06T19:12:59.620607-05:00.accessibility.json) |
 | [September 6 at 7:06 AM](https://archive.org/download/milenio-2022/milenio-2022-09-06T07:06:15.458183-05:00.accessibility.json) |
-| [September 5 at 6:59 PM](https://archive.org/download/milenio-2022/milenio-2022-09-05T18:59:07.212192-05:00.accessibility.json) |
-| [September 5 at 7:22 AM](https://archive.org/download/milenio-2022/milenio-2022-09-05T07:22:35.888014-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 52 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 54 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 10 at 7:14 PM](https://archive.org/download/milenio-2022/milenio-2022-09-10T19:14:45.066322-05:00.lighthouse.json) |
+| [September 10 at 7:02 AM](https://archive.org/download/milenio-2022/milenio-2022-09-10T07:02:02.786812-05:00.lighthouse.json) |
 | [September 9 at 7:09 PM](https://archive.org/download/milenio-2022/milenio-2022-09-09T19:09:05.008433-05:00.lighthouse.json) |
 | [September 9 at 7:19 AM](https://archive.org/download/milenio-2022/milenio-2022-09-09T07:19:01.576284-05:00.lighthouse.json) |
 | [September 8 at 7:09 PM](https://archive.org/download/milenio-2022/milenio-2022-09-08T19:09:00.555391-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 7:43 AM](https://archive.org/download/milenio-2022/milenio-2022-09-07T07:43:28.588521-05:00.lighthouse.json) |
 | [September 6 at 7:13 PM](https://archive.org/download/milenio-2022/milenio-2022-09-06T19:12:59.620607-05:00.lighthouse.json) |
 | [September 6 at 7:06 AM](https://archive.org/download/milenio-2022/milenio-2022-09-06T07:06:15.458183-05:00.lighthouse.json) |
-| [September 5 at 6:59 PM](https://archive.org/download/milenio-2022/milenio-2022-09-05T18:59:07.212192-05:00.lighthouse.json) |
-| [September 5 at 7:22 AM](https://archive.org/download/milenio-2022/milenio-2022-09-05T07:22:35.888014-05:00.lighthouse.json) |
 
 
 

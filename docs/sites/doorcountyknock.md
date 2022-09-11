@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 11 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         95
     </td>
     <td style="text-align: right;">
-        125
+        129
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         90
     </td>
     <td style="text-align: right;">
-        376
+        374
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 126 screenshots with the Internet Archive.
+The archiving routine has saved 128 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-11T09:15:14.659910-05:00.jpg">
+  <img src="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-11T09:15:14.659910-05:00.jpg"
+     alt="Door County Knock at 2022-09-11 09:15:19-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-11T09:15:14.659910-05:00.jpg">September 11 at 9:15 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-10T21:29:29.326304-05:00.jpg">
+  <img src="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-10T21:29:29.326304-05:00.jpg"
+     alt="Door County Knock at 2022-09-10 21:29:34-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-10T21:29:29.326304-05:00.jpg">September 10 at 9:29 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-10T09:14:48.956187-05:00.jpg">
   <img src="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-10T09:14:48.956187-05:00.jpg"
      alt="Door County Knock at 2022-09-10 09:14:52-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-05T09:26:07.660482-05:00.jpg">September 5 at 9:26 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-04T21:30:53.377192-05:00.jpg">
-  <img src="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-04T21:30:53.377192-05:00.jpg"
-     alt="Door County Knock at 2022-09-04 21:30:55-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-04T21:30:53.377192-05:00.jpg">September 4 at 9:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-04T09:32:40.030914-05:00.jpg">
-  <img src="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-04T09:32:40.030914-05:00.jpg"
-     alt="Door County Knock at 2022-09-04 09:32:45-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-04T09:32:40.030914-05:00.jpg">September 4 at 9:32 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 126 hyperlink lists with the Internet Archive.
+The archiving routine has saved 128 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 9:15 AM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-11T09:15:14.659910-05:00.hyperlinks.json) |
+| [September 10 at 9:29 PM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-10T21:29:29.326304-05:00.hyperlinks.json) |
 | [September 10 at 9:14 AM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-10T09:14:48.956187-05:00.hyperlinks.json) |
 | [September 9 at 9:30 PM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-09T21:30:17.929068-05:00.hyperlinks.json) |
 | [September 9 at 9:38 AM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-09T09:37:46.040151-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 9:36 PM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-07T21:36:30.515261-05:00.hyperlinks.json) |
 | [September 7 at 10:34 AM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-07T10:34:11.632819-05:00.hyperlinks.json) |
 | [September 6 at 9:35 PM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-06T21:35:15.895801-05:00.hyperlinks.json) |
-| [September 5 at 9:30 PM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-05T21:29:55.753272-05:00.hyperlinks.json) |
-| [September 5 at 9:26 AM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-05T09:26:07.660482-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 126 accessibility trees with the Internet Archive.
+The archiving routine has saved 128 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 9:15 AM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-11T09:15:14.659910-05:00.accessibility.json) |
+| [September 10 at 9:29 PM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-10T21:29:29.326304-05:00.accessibility.json) |
 | [September 10 at 9:14 AM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-10T09:14:48.956187-05:00.accessibility.json) |
 | [September 9 at 9:30 PM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-09T21:30:17.929068-05:00.accessibility.json) |
 | [September 9 at 9:38 AM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-09T09:37:46.040151-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 9:36 PM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-07T21:36:30.515261-05:00.accessibility.json) |
 | [September 7 at 10:34 AM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-07T10:34:11.632819-05:00.accessibility.json) |
 | [September 6 at 9:35 PM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-06T21:35:15.895801-05:00.accessibility.json) |
-| [September 5 at 9:30 PM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-05T21:29:55.753272-05:00.accessibility.json) |
-| [September 5 at 9:26 AM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-05T09:26:07.660482-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 96 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 9:15 AM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-11T09:15:14.659910-05:00.lighthouse.json) |
+| [September 10 at 9:29 PM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-10T21:29:29.326304-05:00.lighthouse.json) |
 | [September 10 at 9:14 AM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-10T09:14:48.956187-05:00.lighthouse.json) |
 | [September 9 at 9:30 PM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-09T21:30:17.929068-05:00.lighthouse.json) |
 | [September 9 at 9:38 AM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-09T09:37:46.040151-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 9:36 PM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-07T21:36:30.515261-05:00.lighthouse.json) |
 | [September 7 at 10:34 AM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-07T10:34:11.632819-05:00.lighthouse.json) |
 | [September 6 at 9:35 PM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-06T21:35:15.895801-05:00.lighthouse.json) |
-| [September 5 at 9:30 PM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-05T21:29:55.753272-05:00.lighthouse.json) |
-| [September 5 at 9:26 AM](https://archive.org/download/doorcountyknock-2022/doorcountyknock-2022-09-05T09:26:07.660482-05:00.lighthouse.json) |
 
 
 

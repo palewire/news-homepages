@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 17 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 19 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         68
     </td>
     <td style="text-align: right;">
-        796
+        814
     </td>
   </tr>
 
@@ -192,11 +192,11 @@ The median score for each category, along with how it ranks in comparison to the
     <td>
         Best practices
     </td>
-    <td style="text-align: right; background-color: green; color: white;">
-        92
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
     </td>
     <td style="text-align: right;">
-        130
+        381
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        28
+        29
     </td>
     <td style="text-align: right;">
-        403
+        398
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         90
     </td>
     <td style="text-align: right;">
-        376
+        374
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 156 screenshots with the Internet Archive.
+The archiving routine has saved 160 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-09-11T14:31:34.493021-04:00.jpg">
+  <img src="https://archive.org/download/hotairblog-2022/hotairblog-2022-09-11T14:31:34.493021-04:00.jpg"
+     alt="HotAir at 2022-09-11 14:31:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-09-11T14:31:34.493021-04:00.jpg">September 11 at 2:31 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-09-11T11:03:37.267191-04:00.jpg">
+  <img src="https://archive.org/download/hotairblog-2022/hotairblog-2022-09-11T11:03:37.267191-04:00.jpg"
+     alt="HotAir at 2022-09-11 11:03:39-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-09-11T11:03:37.267191-04:00.jpg">September 11 at 11:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-09-10T23:49:31.454347-04:00.jpg">
+  <img src="https://archive.org/download/hotairblog-2022/hotairblog-2022-09-10T23:49:31.454347-04:00.jpg"
+     alt="HotAir at 2022-09-10 23:49:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-09-10T23:49:31.454347-04:00.jpg">September 10 at 11:49 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-09-10T14:32:55.524464-04:00.jpg">
+  <img src="https://archive.org/download/hotairblog-2022/hotairblog-2022-09-10T14:32:55.524464-04:00.jpg"
+     alt="HotAir at 2022-09-10 14:32:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-09-10T14:32:55.524464-04:00.jpg">September 10 at 2:32 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-09-10T11:01:27.854332-04:00.jpg">
   <img src="https://archive.org/download/hotairblog-2022/hotairblog-2022-09-10T11:01:27.854332-04:00.jpg"
      alt="HotAir at 2022-09-10 11:01:29-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-09-07T11:46:22.721790-04:00.jpg">September 7 at 11:46 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-09-06T23:53:20.283829-04:00.jpg">
-  <img src="https://archive.org/download/hotairblog-2022/hotairblog-2022-09-06T23:53:20.283829-04:00.jpg"
-     alt="HotAir at 2022-09-06 23:53:28-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-09-06T23:53:20.283829-04:00.jpg">September 6 at 11:53 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-09-05T23:52:35.707972-04:00.jpg">
-  <img src="https://archive.org/download/hotairblog-2022/hotairblog-2022-09-05T23:52:35.707972-04:00.jpg"
-     alt="HotAir at 2022-09-05 23:52:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-09-05T23:52:35.707972-04:00.jpg">September 5 at 11:52 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-09-05T14:36:19.823333-04:00.jpg">
-  <img src="https://archive.org/download/hotairblog-2022/hotairblog-2022-09-05T14:36:19.823333-04:00.jpg"
-     alt="HotAir at 2022-09-05 14:36:22-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-09-05T14:36:19.823333-04:00.jpg">September 5 at 2:36 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-09-05T12:15:05.216009-04:00.jpg">
-  <img src="https://archive.org/download/hotairblog-2022/hotairblog-2022-09-05T12:15:05.216009-04:00.jpg"
-     alt="HotAir at 2022-09-05 12:15:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-09-05T12:15:05.216009-04:00.jpg">September 5 at 12:15 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 153 hyperlink lists with the Internet Archive.
+The archiving routine has saved 157 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 2:31 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-11T14:31:34.493021-04:00.hyperlinks.json) |
+| [September 11 at 11:03 AM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-11T11:03:37.267191-04:00.hyperlinks.json) |
+| [September 10 at 11:49 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-10T23:49:31.454347-04:00.hyperlinks.json) |
+| [September 10 at 2:33 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-10T14:32:55.524464-04:00.hyperlinks.json) |
 | [September 10 at 11:01 AM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-10T11:01:27.854332-04:00.hyperlinks.json) |
 | [September 9 at 11:50 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-09T23:50:05.352550-04:00.hyperlinks.json) |
 | [September 9 at 2:34 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-09T14:34:47.783309-04:00.hyperlinks.json) |
 | [September 9 at 12:23 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-09T12:23:36.630597-04:00.hyperlinks.json) |
 | [September 9 at 12:46 AM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-09T00:46:06.962580-04:00.hyperlinks.json) |
 | [September 8 at 11:25 AM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-08T11:24:57.704544-04:00.hyperlinks.json) |
-| [September 7 at 11:48 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-07T23:48:46.177718-04:00.hyperlinks.json) |
-| [September 7 at 11:46 AM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-07T11:46:22.721790-04:00.hyperlinks.json) |
-| [September 6 at 11:53 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-06T23:53:20.283829-04:00.hyperlinks.json) |
-| [September 5 at 11:52 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-05T23:52:35.707972-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 157 accessibility trees with the Internet Archive.
+The archiving routine has saved 161 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 2:31 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-11T14:31:34.493021-04:00.accessibility.json) |
+| [September 11 at 11:03 AM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-11T11:03:37.267191-04:00.accessibility.json) |
+| [September 10 at 11:49 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-10T23:49:31.454347-04:00.accessibility.json) |
+| [September 10 at 2:32 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-10T14:32:55.524464-04:00.accessibility.json) |
 | [September 10 at 11:01 AM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-10T11:01:27.854332-04:00.accessibility.json) |
 | [September 9 at 11:50 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-09T23:50:05.352550-04:00.accessibility.json) |
 | [September 9 at 2:34 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-09T14:34:47.783309-04:00.accessibility.json) |
 | [September 9 at 12:23 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-09T12:23:36.630597-04:00.accessibility.json) |
 | [September 9 at 12:46 AM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-09T00:46:06.962580-04:00.accessibility.json) |
 | [September 8 at 11:25 AM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-08T11:24:57.704544-04:00.accessibility.json) |
-| [September 7 at 11:48 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-07T23:48:46.177718-04:00.accessibility.json) |
-| [September 7 at 3:08 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-07T15:08:17.713692-04:00.accessibility.json) |
-| [September 7 at 11:46 AM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-07T11:46:22.721790-04:00.accessibility.json) |
-| [September 6 at 11:53 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-06T23:53:20.283829-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 139 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 143 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 2:31 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-11T14:31:34.493021-04:00.lighthouse.json) |
+| [September 11 at 11:03 AM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-11T11:03:37.267191-04:00.lighthouse.json) |
+| [September 10 at 11:49 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-10T23:49:31.454347-04:00.lighthouse.json) |
+| [September 10 at 2:33 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-10T14:32:55.524464-04:00.lighthouse.json) |
 | [September 10 at 11:01 AM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-10T11:01:27.854332-04:00.lighthouse.json) |
 | [September 9 at 11:50 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-09T23:50:05.352550-04:00.lighthouse.json) |
 | [September 9 at 2:34 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-09T14:34:47.783309-04:00.lighthouse.json) |
 | [September 9 at 12:23 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-09T12:23:36.630597-04:00.lighthouse.json) |
 | [September 9 at 12:46 AM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-09T00:46:06.962580-04:00.lighthouse.json) |
 | [September 8 at 11:25 AM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-08T11:24:57.704544-04:00.lighthouse.json) |
-| [September 7 at 11:48 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-07T23:48:46.177718-04:00.lighthouse.json) |
-| [September 7 at 3:08 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-07T15:08:17.713692-04:00.lighthouse.json) |
-| [September 7 at 11:46 AM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-07T11:46:22.721790-04:00.lighthouse.json) |
-| [September 6 at 11:53 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-09-06T23:53:20.283829-04:00.lighthouse.json) |
 
 
 

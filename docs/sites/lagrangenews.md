@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 12 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         75
     </td>
     <td style="text-align: right;">
-        708
+        726
     </td>
   </tr>
 
@@ -205,7 +205,7 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: green; color: white;">
-        92
+        93
     </td>
     <td style="text-align: right;">
         7
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         84
     </td>
     <td style="text-align: right;">
-        551
+        553
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 104 screenshots with the Internet Archive.
+The archiving routine has saved 106 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-10T20:15:33.089343-04:00.jpg">
+  <img src="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-10T20:15:33.089343-04:00.jpg"
+     alt="The LaGrange Daily News at 2022-09-10 20:15:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-10T20:15:33.089343-04:00.jpg">September 10 at 8:15 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-10T08:00:06.885324-04:00.jpg">
+  <img src="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-10T08:00:06.885324-04:00.jpg"
+     alt="The LaGrange Daily News at 2022-09-10 08:00:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-10T08:00:06.885324-04:00.jpg">September 10 at 8:00 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-09T20:07:35.346693-04:00.jpg">
   <img src="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-09T20:07:35.346693-04:00.jpg"
      alt="The LaGrange Daily News at 2022-09-09 20:07:41-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-04T19:56:18.331543-04:00.jpg">September 4 at 7:56 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-04T07:57:18.006874-04:00.jpg">
-  <img src="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-04T07:57:18.006874-04:00.jpg"
-     alt="The LaGrange Daily News at 2022-09-04 07:57:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-04T07:57:18.006874-04:00.jpg">September 4 at 7:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-03T19:50:04.094608-04:00.jpg">
-  <img src="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-03T19:50:04.094608-04:00.jpg"
-     alt="The LaGrange Daily News at 2022-09-03 19:50:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-03T19:50:04.094608-04:00.jpg">September 3 at 7:50 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 104 hyperlink lists with the Internet Archive.
+The archiving routine has saved 106 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 10 at 8:15 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-10T20:15:33.089343-04:00.hyperlinks.json) |
+| [September 10 at 8:00 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-10T08:00:06.885324-04:00.hyperlinks.json) |
 | [September 9 at 8:07 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-09T20:07:35.346693-04:00.hyperlinks.json) |
 | [September 9 at 8:16 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-09T08:16:43.038594-04:00.hyperlinks.json) |
 | [September 8 at 8:07 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-08T20:07:09.524730-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 8:42 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-07T08:42:05.383527-04:00.hyperlinks.json) |
 | [September 6 at 8:13 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-06T20:13:21.838016-04:00.hyperlinks.json) |
 | [September 6 at 8:04 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-06T08:04:40.819405-04:00.hyperlinks.json) |
-| [September 5 at 7:59 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-05T19:59:21.189047-04:00.hyperlinks.json) |
-| [September 4 at 7:56 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-04T19:56:18.331543-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 105 accessibility trees with the Internet Archive.
+The archiving routine has saved 107 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 10 at 8:15 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-10T20:15:33.089343-04:00.accessibility.json) |
+| [September 10 at 8:00 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-10T08:00:06.885324-04:00.accessibility.json) |
 | [September 9 at 8:07 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-09T20:07:35.346693-04:00.accessibility.json) |
 | [September 9 at 8:16 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-09T08:16:43.038594-04:00.accessibility.json) |
 | [September 8 at 8:07 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-08T20:07:09.524730-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 8:42 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-07T08:42:05.383527-04:00.accessibility.json) |
 | [September 6 at 8:13 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-06T20:13:21.838016-04:00.accessibility.json) |
 | [September 6 at 8:04 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-06T08:04:40.819405-04:00.accessibility.json) |
-| [September 5 at 7:59 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-05T19:59:21.189047-04:00.accessibility.json) |
-| [September 5 at 8:21 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-05T08:21:15.036868-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 100 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 10 at 8:15 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-10T20:15:33.089343-04:00.lighthouse.json) |
+| [September 10 at 8:00 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-10T08:00:06.885324-04:00.lighthouse.json) |
 | [September 9 at 8:07 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-09T20:07:35.346693-04:00.lighthouse.json) |
 | [September 9 at 8:16 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-09T08:16:43.038594-04:00.lighthouse.json) |
 | [September 8 at 8:07 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-08T20:07:09.524730-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 8:42 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-07T08:42:05.383527-04:00.lighthouse.json) |
 | [September 6 at 8:13 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-06T20:13:21.838016-04:00.lighthouse.json) |
 | [September 6 at 8:04 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-06T08:04:40.819405-04:00.lighthouse.json) |
-| [September 5 at 7:59 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-05T19:59:21.189047-04:00.lighthouse.json) |
-| [September 5 at 8:21 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-09-05T08:21:15.036868-04:00.lighthouse.json) |
 
 
 

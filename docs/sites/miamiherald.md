@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 12 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 14 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -181,10 +181,10 @@ The median score for each category, along with how it ranks in comparison to the
         Accessibility
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        89
+        78
     </td>
     <td style="text-align: right;">
-        263
+        650
     </td>
   </tr>
 
@@ -193,10 +193,10 @@ The median score for each category, along with how it ranks in comparison to the
         Best practices
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        66
+        75
     </td>
     <td style="text-align: right;">
-        795
+        603
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        30
+        28
     </td>
     <td style="text-align: right;">
-        377
+        416
     </td>
   </tr>
 
@@ -216,11 +216,11 @@ The median score for each category, along with how it ranks in comparison to the
     <td>
         SEO
     </td>
-    <td style="text-align: right; background-color: green; color: white;">
-        91
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
     </td>
     <td style="text-align: right;">
-        280
+        635
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 137 screenshots with the Internet Archive.
+The archiving routine has saved 139 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-09-10T20:14:54.162497-04:00.jpg">
+  <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-09-10T20:14:54.162497-04:00.jpg"
+     alt="Miami Herald at 2022-09-10 20:14:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-09-10T20:14:54.162497-04:00.jpg">September 10 at 8:14 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-09-10T08:01:38.879520-04:00.jpg">
+  <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-09-10T08:01:38.879520-04:00.jpg"
+     alt="Miami Herald at 2022-09-10 08:01:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-09-10T08:01:38.879520-04:00.jpg">September 10 at 8:01 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-09-09T20:08:21.932566-04:00.jpg">
   <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-09-09T20:08:21.932566-04:00.jpg"
      alt="Miami Herald at 2022-09-09 20:08:26-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-09-04T19:55:45.571899-04:00.jpg">September 4 at 7:55 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-09-04T07:59:16.428372-04:00.jpg">
-  <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-09-04T07:59:16.428372-04:00.jpg"
-     alt="Miami Herald at 2022-09-04 07:59:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-09-04T07:59:16.428372-04:00.jpg">September 4 at 7:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-09-03T19:50:08.157821-04:00.jpg">
-  <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-09-03T19:50:08.157821-04:00.jpg"
-     alt="Miami Herald at 2022-09-03 19:50:13-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-09-03T19:50:08.157821-04:00.jpg">September 3 at 7:50 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 108 hyperlink lists with the Internet Archive.
+The archiving routine has saved 110 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 10 at 8:15 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-10T20:14:54.162497-04:00.hyperlinks.json) |
+| [September 10 at 8:01 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-10T08:01:38.879520-04:00.hyperlinks.json) |
 | [September 9 at 8:08 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-09T20:08:21.932566-04:00.hyperlinks.json) |
 | [September 9 at 8:19 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-09T08:18:54.422643-04:00.hyperlinks.json) |
 | [September 8 at 8:09 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-08T20:09:52.014403-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 8:43 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-07T08:43:22.414876-04:00.hyperlinks.json) |
 | [September 6 at 8:14 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-06T20:13:51.972388-04:00.hyperlinks.json) |
 | [September 5 at 7:59 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-05T19:59:38.051829-04:00.hyperlinks.json) |
-| [September 4 at 7:55 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-04T19:55:45.571899-04:00.hyperlinks.json) |
-| [September 4 at 7:59 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-04T07:59:16.428372-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 137 accessibility trees with the Internet Archive.
+The archiving routine has saved 139 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 10 at 8:15 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-10T20:14:54.162497-04:00.accessibility.json) |
+| [September 10 at 8:01 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-10T08:01:38.879520-04:00.accessibility.json) |
 | [September 9 at 8:08 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-09T20:08:21.932566-04:00.accessibility.json) |
 | [September 9 at 8:19 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-09T08:18:54.422643-04:00.accessibility.json) |
 | [September 8 at 8:09 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-08T20:09:52.014403-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 8:43 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-07T08:43:22.414876-04:00.accessibility.json) |
 | [September 6 at 8:13 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-06T20:13:51.972388-04:00.accessibility.json) |
 | [September 5 at 7:59 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-05T19:59:38.051829-04:00.accessibility.json) |
-| [September 5 at 8:23 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-05T08:23:03.731457-04:00.accessibility.json) |
-| [September 4 at 7:55 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-04T19:55:45.571899-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 97 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 99 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 10 at 8:15 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-10T20:14:54.162497-04:00.lighthouse.json) |
+| [September 10 at 8:01 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-10T08:01:38.879520-04:00.lighthouse.json) |
 | [September 9 at 8:08 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-09T20:08:21.932566-04:00.lighthouse.json) |
 | [September 9 at 8:19 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-09T08:18:54.422643-04:00.lighthouse.json) |
 | [September 8 at 8:10 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-08T20:09:52.014403-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 8:43 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-07T08:43:22.414876-04:00.lighthouse.json) |
 | [September 6 at 8:14 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-06T20:13:51.972388-04:00.lighthouse.json) |
 | [September 5 at 7:59 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-05T19:59:38.051829-04:00.lighthouse.json) |
-| [September 5 at 8:23 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-05T08:23:03.731457-04:00.lighthouse.json) |
-| [September 4 at 7:55 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-09-04T19:55:45.571899-04:00.lighthouse.json) |
 
 
 

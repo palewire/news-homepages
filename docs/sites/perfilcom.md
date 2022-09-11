@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 11 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         86
     </td>
     <td style="text-align: right;">
-        414
+        413
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         83
     </td>
     <td style="text-align: right;">
-        404
+        381
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        37
+        25
     </td>
     <td style="text-align: right;">
-        299
+        470
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         91
     </td>
     <td style="text-align: right;">
-        280
+        277
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 63 screenshots with the Internet Archive.
+The archiving routine has saved 64 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 63 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-11T01:48:30.141658-03:00.jpg">
+  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-11T01:48:30.141658-03:00.jpg"
+     alt="Perfil at 2022-09-11 01:48:31-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-11T01:48:30.141658-03:00.jpg">September 11 at 1:48 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-10T13:08:29.816935-03:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-05T01:50:58.435019-03:00.jpg">September 5 at 1:51 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-04T13:43:07.478829-03:00.jpg">
-  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-04T13:43:07.478829-03:00.jpg"
-     alt="Perfil at 2022-09-04 13:43:10-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-09-04T13:43:07.478829-03:00.jpg">September 4 at 1:43 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 57 hyperlink lists with the Internet Archive.
+The archiving routine has saved 58 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 1:48 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-11T01:48:30.141658-03:00.hyperlinks.json) |
 | [September 10 at 1:08 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-10T13:08:29.816935-03:00.hyperlinks.json) |
 | [September 10 at 1:51 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-10T01:51:34.848448-03:00.hyperlinks.json) |
 | [September 9 at 1:32 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-09T13:32:11.793970-03:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 2:07 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-07T14:07:46.870663-03:00.hyperlinks.json) |
 | [September 7 at 1:51 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-07T01:51:39.076823-03:00.hyperlinks.json) |
 | [September 6 at 1:54 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-06T01:54:27.346962-03:00.hyperlinks.json) |
-| [September 5 at 1:22 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-05T13:21:54.998470-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 58 accessibility trees with the Internet Archive.
+The archiving routine has saved 59 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 1:48 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-11T01:48:30.141658-03:00.accessibility.json) |
 | [September 10 at 1:08 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-10T13:08:29.816935-03:00.accessibility.json) |
 | [September 10 at 1:51 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-10T01:51:34.848448-03:00.accessibility.json) |
 | [September 9 at 1:32 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-09T13:32:11.793970-03:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 2:07 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-07T14:07:46.870663-03:00.accessibility.json) |
 | [September 7 at 1:51 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-07T01:51:39.076823-03:00.accessibility.json) |
 | [September 6 at 1:54 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-06T01:54:27.346962-03:00.accessibility.json) |
-| [September 5 at 1:21 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-05T13:21:54.998470-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 64 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 65 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 1:48 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-11T01:48:30.141658-03:00.lighthouse.json) |
 | [September 10 at 1:08 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-10T13:08:29.816935-03:00.lighthouse.json) |
 | [September 10 at 1:51 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-10T01:51:34.848448-03:00.lighthouse.json) |
 | [September 9 at 1:32 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-09T13:32:11.793970-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 2:07 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-07T14:07:46.870663-03:00.lighthouse.json) |
 | [September 7 at 1:51 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-07T01:51:39.076823-03:00.lighthouse.json) |
 | [September 6 at 1:54 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-06T01:54:27.346962-03:00.lighthouse.json) |
-| [September 5 at 1:22 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-09-05T13:21:54.998470-03:00.lighthouse.json) |
 
 
 

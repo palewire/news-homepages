@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 11 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -181,10 +181,10 @@ The median score for each category, along with how it ranks in comparison to the
         Accessibility
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        88
+        85
     </td>
     <td style="text-align: right;">
-        297
+        447
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         92
     </td>
     <td style="text-align: right;">
-        130
+        122
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        10
+        9
     </td>
     <td style="text-align: right;">
-        802
+        826
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         84
     </td>
     <td style="text-align: right;">
-        551
+        553
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 136 screenshots with the Internet Archive.
+The archiving routine has saved 137 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 136 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tpm-2022/tpm-2022-09-11T00:52:48.453137-04:00.jpg">
+  <img src="https://archive.org/download/tpm-2022/tpm-2022-09-11T00:52:48.453137-04:00.jpg"
+     alt="TPM at 2022-09-11 00:53:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tpm-2022/tpm-2022-09-11T00:52:48.453137-04:00.jpg">September 11 at 12:53 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tpm-2022/tpm-2022-09-10T12:12:30.522760-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/tpm-2022/tpm-2022-09-05T00:55:19.024678-04:00.jpg">September 5 at 12:55 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/tpm-2022/tpm-2022-09-04T12:47:44.914496-04:00.jpg">
-  <img src="https://archive.org/download/tpm-2022/tpm-2022-09-04T12:47:44.914496-04:00.jpg"
-     alt="TPM at 2022-09-04 12:47:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tpm-2022/tpm-2022-09-04T12:47:44.914496-04:00.jpg">September 4 at 12:47 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 135 hyperlink lists with the Internet Archive.
+The archiving routine has saved 136 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 12:53 AM](https://archive.org/download/tpm-2022/tpm-2022-09-11T00:52:48.453137-04:00.hyperlinks.json) |
 | [September 10 at 12:12 PM](https://archive.org/download/tpm-2022/tpm-2022-09-10T12:12:30.522760-04:00.hyperlinks.json) |
 | [September 10 at 12:55 AM](https://archive.org/download/tpm-2022/tpm-2022-09-10T00:55:44.240386-04:00.hyperlinks.json) |
 | [September 9 at 12:37 PM](https://archive.org/download/tpm-2022/tpm-2022-09-09T12:37:31.683077-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 1:16 PM](https://archive.org/download/tpm-2022/tpm-2022-09-07T13:16:03.277125-04:00.hyperlinks.json) |
 | [September 7 at 12:56 AM](https://archive.org/download/tpm-2022/tpm-2022-09-07T00:55:54.839202-04:00.hyperlinks.json) |
 | [September 6 at 12:59 AM](https://archive.org/download/tpm-2022/tpm-2022-09-06T00:58:55.305804-04:00.hyperlinks.json) |
-| [September 5 at 12:26 PM](https://archive.org/download/tpm-2022/tpm-2022-09-05T12:26:21.940376-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 136 accessibility trees with the Internet Archive.
+The archiving routine has saved 137 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 12:53 AM](https://archive.org/download/tpm-2022/tpm-2022-09-11T00:52:48.453137-04:00.accessibility.json) |
 | [September 10 at 12:12 PM](https://archive.org/download/tpm-2022/tpm-2022-09-10T12:12:30.522760-04:00.accessibility.json) |
 | [September 10 at 12:55 AM](https://archive.org/download/tpm-2022/tpm-2022-09-10T00:55:44.240386-04:00.accessibility.json) |
 | [September 9 at 12:37 PM](https://archive.org/download/tpm-2022/tpm-2022-09-09T12:37:31.683077-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 1:16 PM](https://archive.org/download/tpm-2022/tpm-2022-09-07T13:16:03.277125-04:00.accessibility.json) |
 | [September 7 at 12:56 AM](https://archive.org/download/tpm-2022/tpm-2022-09-07T00:55:54.839202-04:00.accessibility.json) |
 | [September 6 at 12:58 AM](https://archive.org/download/tpm-2022/tpm-2022-09-06T00:58:55.305804-04:00.accessibility.json) |
-| [September 5 at 12:26 PM](https://archive.org/download/tpm-2022/tpm-2022-09-05T12:26:21.940376-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 97 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 12:53 AM](https://archive.org/download/tpm-2022/tpm-2022-09-11T00:52:48.453137-04:00.lighthouse.json) |
 | [September 10 at 12:12 PM](https://archive.org/download/tpm-2022/tpm-2022-09-10T12:12:30.522760-04:00.lighthouse.json) |
 | [September 10 at 12:55 AM](https://archive.org/download/tpm-2022/tpm-2022-09-10T00:55:44.240386-04:00.lighthouse.json) |
 | [September 9 at 12:37 PM](https://archive.org/download/tpm-2022/tpm-2022-09-09T12:37:31.683077-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 1:16 PM](https://archive.org/download/tpm-2022/tpm-2022-09-07T13:16:03.277125-04:00.lighthouse.json) |
 | [September 7 at 12:56 AM](https://archive.org/download/tpm-2022/tpm-2022-09-07T00:55:54.839202-04:00.lighthouse.json) |
 | [September 6 at 12:59 AM](https://archive.org/download/tpm-2022/tpm-2022-09-06T00:58:55.305804-04:00.lighthouse.json) |
-| [September 5 at 12:26 PM](https://archive.org/download/tpm-2022/tpm-2022-09-05T12:26:21.940376-04:00.lighthouse.json) |
 
 
 

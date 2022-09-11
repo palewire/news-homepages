@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 13 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 14 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         70
     </td>
     <td style="text-align: right;">
-        780
+        795
     </td>
   </tr>
 
@@ -192,11 +192,11 @@ The median score for each category, along with how it ranks in comparison to the
     <td>
         Best practices
     </td>
-    <td style="text-align: right; background-color: green; color: white;">
-        92
+    <td style="text-align: right; background-color: orange; color: white;">
+        88
     </td>
     <td style="text-align: right;">
-        130
+        367
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        33
+        32
     </td>
     <td style="text-align: right;">
-        343
+        372
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         79
     </td>
     <td style="text-align: right;">
-        726
+        738
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 91 screenshots with the Internet Archive.
+The archiving routine has saved 93 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/news12nj-2022/news12nj-2022-09-10T20:17:02.455713-04:00.jpg">
+  <img src="https://archive.org/download/news12nj-2022/news12nj-2022-09-10T20:17:02.455713-04:00.jpg"
+     alt="News12NJ at 2022-09-10 20:17:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news12nj-2022/news12nj-2022-09-10T20:17:02.455713-04:00.jpg">September 10 at 8:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news12nj-2022/news12nj-2022-09-10T08:01:53.368415-04:00.jpg">
+  <img src="https://archive.org/download/news12nj-2022/news12nj-2022-09-10T08:01:53.368415-04:00.jpg"
+     alt="News12NJ at 2022-09-10 08:01:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news12nj-2022/news12nj-2022-09-10T08:01:53.368415-04:00.jpg">September 10 at 8:01 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/news12nj-2022/news12nj-2022-09-09T20:10:30.331360-04:00.jpg">
   <img src="https://archive.org/download/news12nj-2022/news12nj-2022-09-09T20:10:30.331360-04:00.jpg"
      alt="News12NJ at 2022-09-09 20:10:34-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/news12nj-2022/news12nj-2022-09-04T08:00:03.158423-04:00.jpg">September 4 at 8:00 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/news12nj-2022/news12nj-2022-09-03T19:51:37.356280-04:00.jpg">
-  <img src="https://archive.org/download/news12nj-2022/news12nj-2022-09-03T19:51:37.356280-04:00.jpg"
-     alt="News12NJ at 2022-09-03 19:51:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/news12nj-2022/news12nj-2022-09-03T19:51:37.356280-04:00.jpg">September 3 at 7:51 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/news12nj-2022/news12nj-2022-09-03T08:06:57.331154-04:00.jpg">
-  <img src="https://archive.org/download/news12nj-2022/news12nj-2022-09-03T08:06:57.331154-04:00.jpg"
-     alt="News12NJ at 2022-09-03 08:06:58-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/news12nj-2022/news12nj-2022-09-03T08:06:57.331154-04:00.jpg">September 3 at 8:06 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 90 hyperlink lists with the Internet Archive.
+The archiving routine has saved 92 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 10 at 8:17 PM](https://archive.org/download/news12nj-2022/news12nj-2022-09-10T20:17:02.455713-04:00.hyperlinks.json) |
+| [September 10 at 8:02 AM](https://archive.org/download/news12nj-2022/news12nj-2022-09-10T08:01:53.368415-04:00.hyperlinks.json) |
 | [September 9 at 8:10 PM](https://archive.org/download/news12nj-2022/news12nj-2022-09-09T20:10:30.331360-04:00.hyperlinks.json) |
 | [September 9 at 8:19 AM](https://archive.org/download/news12nj-2022/news12nj-2022-09-09T08:19:01.580169-04:00.hyperlinks.json) |
 | [September 8 at 8:10 PM](https://archive.org/download/news12nj-2022/news12nj-2022-09-08T20:10:01.425318-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 8:44 AM](https://archive.org/download/news12nj-2022/news12nj-2022-09-07T08:44:30.014981-04:00.hyperlinks.json) |
 | [September 6 at 8:15 PM](https://archive.org/download/news12nj-2022/news12nj-2022-09-06T20:15:18.330002-04:00.hyperlinks.json) |
 | [September 5 at 8:01 PM](https://archive.org/download/news12nj-2022/news12nj-2022-09-05T20:00:54.657127-04:00.hyperlinks.json) |
-| [September 4 at 7:57 PM](https://archive.org/download/news12nj-2022/news12nj-2022-09-04T19:57:44.915937-04:00.hyperlinks.json) |
-| [September 4 at 8:00 AM](https://archive.org/download/news12nj-2022/news12nj-2022-09-04T08:00:03.158423-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 92 accessibility trees with the Internet Archive.
+The archiving routine has saved 94 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 10 at 8:17 PM](https://archive.org/download/news12nj-2022/news12nj-2022-09-10T20:17:02.455713-04:00.accessibility.json) |
+| [September 10 at 8:01 AM](https://archive.org/download/news12nj-2022/news12nj-2022-09-10T08:01:53.368415-04:00.accessibility.json) |
 | [September 9 at 8:10 PM](https://archive.org/download/news12nj-2022/news12nj-2022-09-09T20:10:30.331360-04:00.accessibility.json) |
 | [September 9 at 8:19 AM](https://archive.org/download/news12nj-2022/news12nj-2022-09-09T08:19:01.580169-04:00.accessibility.json) |
 | [September 8 at 8:10 PM](https://archive.org/download/news12nj-2022/news12nj-2022-09-08T20:10:01.425318-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 8:44 AM](https://archive.org/download/news12nj-2022/news12nj-2022-09-07T08:44:30.014981-04:00.accessibility.json) |
 | [September 6 at 8:15 PM](https://archive.org/download/news12nj-2022/news12nj-2022-09-06T20:15:18.330002-04:00.accessibility.json) |
 | [September 5 at 8:01 PM](https://archive.org/download/news12nj-2022/news12nj-2022-09-05T20:00:54.657127-04:00.accessibility.json) |
-| [September 5 at 8:23 AM](https://archive.org/download/news12nj-2022/news12nj-2022-09-05T08:23:11.673903-04:00.accessibility.json) |
-| [September 4 at 7:57 PM](https://archive.org/download/news12nj-2022/news12nj-2022-09-04T19:57:44.915937-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 93 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 95 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 10 at 8:17 PM](https://archive.org/download/news12nj-2022/news12nj-2022-09-10T20:17:02.455713-04:00.lighthouse.json) |
+| [September 10 at 8:02 AM](https://archive.org/download/news12nj-2022/news12nj-2022-09-10T08:01:53.368415-04:00.lighthouse.json) |
 | [September 9 at 8:10 PM](https://archive.org/download/news12nj-2022/news12nj-2022-09-09T20:10:30.331360-04:00.lighthouse.json) |
 | [September 9 at 8:19 AM](https://archive.org/download/news12nj-2022/news12nj-2022-09-09T08:19:01.580169-04:00.lighthouse.json) |
 | [September 8 at 8:10 PM](https://archive.org/download/news12nj-2022/news12nj-2022-09-08T20:10:01.425318-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 8:44 AM](https://archive.org/download/news12nj-2022/news12nj-2022-09-07T08:44:30.014981-04:00.lighthouse.json) |
 | [September 6 at 8:15 PM](https://archive.org/download/news12nj-2022/news12nj-2022-09-06T20:15:18.330002-04:00.lighthouse.json) |
 | [September 5 at 8:01 PM](https://archive.org/download/news12nj-2022/news12nj-2022-09-05T20:00:54.657127-04:00.lighthouse.json) |
-| [September 5 at 8:23 AM](https://archive.org/download/news12nj-2022/news12nj-2022-09-05T08:23:11.673903-04:00.lighthouse.json) |
-| [September 4 at 7:57 PM](https://archive.org/download/news12nj-2022/news12nj-2022-09-04T19:57:44.915937-04:00.lighthouse.json) |
 
 
 

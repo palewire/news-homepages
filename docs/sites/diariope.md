@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 18 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 23 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         70
     </td>
     <td style="text-align: right;">
-        780
+        795
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         75
     </td>
     <td style="text-align: right;">
-        581
+        603
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         42
     </td>
     <td style="text-align: right;">
-        246
+        262
     </td>
   </tr>
 
@@ -217,10 +217,10 @@ The median score for each category, along with how it ranks in comparison to the
         SEO
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        79
+        80
     </td>
     <td style="text-align: right;">
-        726
+        734
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 104 screenshots with the Internet Archive.
+The archiving routine has saved 107 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/diariope-2022/diariope-2022-09-11T09:01:19.760576-03:00.jpg">
+  <img src="https://archive.org/download/diariope-2022/diariope-2022-09-11T09:01:19.760576-03:00.jpg"
+     alt="Diario de Pernambuco at 2022-09-11 09:01:21-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/diariope-2022/diariope-2022-09-11T09:01:19.760576-03:00.jpg">September 11 at 9:01 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/diariope-2022/diariope-2022-09-11T07:57:42.074929-03:00.jpg">
+  <img src="https://archive.org/download/diariope-2022/diariope-2022-09-11T07:57:42.074929-03:00.jpg"
+     alt="Diario de Pernambuco at 2022-09-11 07:57:48-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/diariope-2022/diariope-2022-09-11T07:57:42.074929-03:00.jpg">September 11 at 7:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/diariope-2022/diariope-2022-09-10T20:11:19.551546-03:00.jpg">
+  <img src="https://archive.org/download/diariope-2022/diariope-2022-09-10T20:11:19.551546-03:00.jpg"
+     alt="Diario de Pernambuco at 2022-09-10 20:11:24-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/diariope-2022/diariope-2022-09-10T20:11:19.551546-03:00.jpg">September 10 at 8:11 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/diariope-2022/diariope-2022-09-10T09:03:11.035314-03:00.jpg">
   <img src="https://archive.org/download/diariope-2022/diariope-2022-09-10T09:03:11.035314-03:00.jpg"
      alt="Diario de Pernambuco at 2022-09-10 09:03:12-03:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/diariope-2022/diariope-2022-09-07T20:03:01.847147-03:00.jpg">September 7 at 8:03 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/diariope-2022/diariope-2022-09-07T10:33:29.893914-03:00.jpg">
-  <img src="https://archive.org/download/diariope-2022/diariope-2022-09-07T10:33:29.893914-03:00.jpg"
-     alt="Diario de Pernambuco at 2022-09-07 10:33:35-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/diariope-2022/diariope-2022-09-07T10:33:29.893914-03:00.jpg">September 7 at 10:33 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/diariope-2022/diariope-2022-09-07T09:17:08.742618-03:00.jpg">
-  <img src="https://archive.org/download/diariope-2022/diariope-2022-09-07T09:17:08.742618-03:00.jpg"
-     alt="Diario de Pernambuco at 2022-09-07 09:17:16-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/diariope-2022/diariope-2022-09-07T09:17:08.742618-03:00.jpg">September 7 at 9:17 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/diariope-2022/diariope-2022-09-06T20:10:29.533377-03:00.jpg">
-  <img src="https://archive.org/download/diariope-2022/diariope-2022-09-06T20:10:29.533377-03:00.jpg"
-     alt="Diario de Pernambuco at 2022-09-06 20:10:34-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/diariope-2022/diariope-2022-09-06T20:10:29.533377-03:00.jpg">September 6 at 8:10 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 105 hyperlink lists with the Internet Archive.
+The archiving routine has saved 108 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 9:01 AM](https://archive.org/download/diariope-2022/diariope-2022-09-11T09:01:19.760576-03:00.hyperlinks.json) |
+| [September 11 at 7:57 AM](https://archive.org/download/diariope-2022/diariope-2022-09-11T07:57:42.074929-03:00.hyperlinks.json) |
+| [September 10 at 8:11 PM](https://archive.org/download/diariope-2022/diariope-2022-09-10T20:11:19.551546-03:00.hyperlinks.json) |
 | [September 10 at 9:03 AM](https://archive.org/download/diariope-2022/diariope-2022-09-10T09:03:11.035314-03:00.hyperlinks.json) |
 | [September 10 at 7:56 AM](https://archive.org/download/diariope-2022/diariope-2022-09-10T07:56:42.523054-03:00.hyperlinks.json) |
 | [September 9 at 8:08 PM](https://archive.org/download/diariope-2022/diariope-2022-09-09T20:08:41.113352-03:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 9 at 8:09 AM](https://archive.org/download/diariope-2022/diariope-2022-09-09T08:08:56.061118-03:00.hyperlinks.json) |
 | [September 8 at 9:01 PM](https://archive.org/download/diariope-2022/diariope-2022-09-08T21:01:27.903007-03:00.hyperlinks.json) |
 | [September 8 at 9:10 AM](https://archive.org/download/diariope-2022/diariope-2022-09-08T09:10:02.775021-03:00.hyperlinks.json) |
-| [September 8 at 8:06 AM](https://archive.org/download/diariope-2022/diariope-2022-09-08T08:06:27.585423-03:00.hyperlinks.json) |
-| [September 7 at 8:03 PM](https://archive.org/download/diariope-2022/diariope-2022-09-07T20:03:01.847147-03:00.hyperlinks.json) |
-| [September 7 at 10:33 AM](https://archive.org/download/diariope-2022/diariope-2022-09-07T10:33:29.893914-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 105 accessibility trees with the Internet Archive.
+The archiving routine has saved 108 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 9:01 AM](https://archive.org/download/diariope-2022/diariope-2022-09-11T09:01:19.760576-03:00.accessibility.json) |
+| [September 11 at 7:57 AM](https://archive.org/download/diariope-2022/diariope-2022-09-11T07:57:42.074929-03:00.accessibility.json) |
+| [September 10 at 8:11 PM](https://archive.org/download/diariope-2022/diariope-2022-09-10T20:11:19.551546-03:00.accessibility.json) |
 | [September 10 at 9:03 AM](https://archive.org/download/diariope-2022/diariope-2022-09-10T09:03:11.035314-03:00.accessibility.json) |
 | [September 10 at 7:56 AM](https://archive.org/download/diariope-2022/diariope-2022-09-10T07:56:42.523054-03:00.accessibility.json) |
 | [September 9 at 8:08 PM](https://archive.org/download/diariope-2022/diariope-2022-09-09T20:08:41.113352-03:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 9 at 8:09 AM](https://archive.org/download/diariope-2022/diariope-2022-09-09T08:08:56.061118-03:00.accessibility.json) |
 | [September 8 at 9:01 PM](https://archive.org/download/diariope-2022/diariope-2022-09-08T21:01:27.903007-03:00.accessibility.json) |
 | [September 8 at 9:10 AM](https://archive.org/download/diariope-2022/diariope-2022-09-08T09:10:02.775021-03:00.accessibility.json) |
-| [September 8 at 8:06 AM](https://archive.org/download/diariope-2022/diariope-2022-09-08T08:06:27.585423-03:00.accessibility.json) |
-| [September 7 at 8:03 PM](https://archive.org/download/diariope-2022/diariope-2022-09-07T20:03:01.847147-03:00.accessibility.json) |
-| [September 7 at 10:33 AM](https://archive.org/download/diariope-2022/diariope-2022-09-07T10:33:29.893914-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 106 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 109 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 9:01 AM](https://archive.org/download/diariope-2022/diariope-2022-09-11T09:01:19.760576-03:00.lighthouse.json) |
+| [September 11 at 7:57 AM](https://archive.org/download/diariope-2022/diariope-2022-09-11T07:57:42.074929-03:00.lighthouse.json) |
+| [September 10 at 8:11 PM](https://archive.org/download/diariope-2022/diariope-2022-09-10T20:11:19.551546-03:00.lighthouse.json) |
 | [September 10 at 9:03 AM](https://archive.org/download/diariope-2022/diariope-2022-09-10T09:03:11.035314-03:00.lighthouse.json) |
 | [September 10 at 7:56 AM](https://archive.org/download/diariope-2022/diariope-2022-09-10T07:56:42.523054-03:00.lighthouse.json) |
 | [September 9 at 8:09 PM](https://archive.org/download/diariope-2022/diariope-2022-09-09T20:08:41.113352-03:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 9 at 8:09 AM](https://archive.org/download/diariope-2022/diariope-2022-09-09T08:08:56.061118-03:00.lighthouse.json) |
 | [September 8 at 9:01 PM](https://archive.org/download/diariope-2022/diariope-2022-09-08T21:01:27.903007-03:00.lighthouse.json) |
 | [September 8 at 9:10 AM](https://archive.org/download/diariope-2022/diariope-2022-09-08T09:10:02.775021-03:00.lighthouse.json) |
-| [September 8 at 8:06 AM](https://archive.org/download/diariope-2022/diariope-2022-09-08T08:06:27.585423-03:00.lighthouse.json) |
-| [September 7 at 8:03 PM](https://archive.org/download/diariope-2022/diariope-2022-09-07T20:03:01.847147-03:00.lighthouse.json) |
-| [September 7 at 10:33 AM](https://archive.org/download/diariope-2022/diariope-2022-09-07T10:33:29.893914-03:00.lighthouse.json) |
 
 
 

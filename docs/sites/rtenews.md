@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 11 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         76
     </td>
     <td style="text-align: right;">
-        692
+        711
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         83
     </td>
     <td style="text-align: right;">
-        404
+        381
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         63
     </td>
     <td style="text-align: right;">
-        101
+        103
     </td>
   </tr>
 
@@ -217,10 +217,10 @@ The median score for each category, along with how it ranks in comparison to the
         SEO
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        85
+        84
     </td>
     <td style="text-align: right;">
-        506
+        553
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 109 screenshots with the Internet Archive.
+The archiving routine has saved 110 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 109 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-11T05:50:32.280261+01:00.jpg">
+  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-09-11T05:50:32.280261+01:00.jpg"
+     alt="RTE at 2022-09-11 05:50:37+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-11T05:50:32.280261+01:00.jpg">September 11 at 5:50 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-10T17:10:20.561741+01:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-05T05:53:00.447095+01:00.jpg">September 5 at 5:53 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-04T17:44:32.066853+01:00.jpg">
-  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-09-04T17:44:32.066853+01:00.jpg"
-     alt="RTE at 2022-09-04 17:44:35+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-09-04T17:44:32.066853+01:00.jpg">September 4 at 5:44 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 109 hyperlink lists with the Internet Archive.
+The archiving routine has saved 110 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 5:50 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-11T05:50:32.280261+01:00.hyperlinks.json) |
 | [September 10 at 5:10 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-10T17:10:20.561741+01:00.hyperlinks.json) |
 | [September 10 at 5:53 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-10T05:53:39.649626+01:00.hyperlinks.json) |
 | [September 9 at 5:34 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-09T17:34:08.525499+01:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 6:12 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-07T18:12:09.553594+01:00.hyperlinks.json) |
 | [September 7 at 5:53 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-07T05:53:37.720727+01:00.hyperlinks.json) |
 | [September 6 at 5:56 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-06T05:56:34.548193+01:00.hyperlinks.json) |
-| [September 5 at 5:23 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-05T17:22:56.041948+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 109 accessibility trees with the Internet Archive.
+The archiving routine has saved 110 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 5:50 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-11T05:50:32.280261+01:00.accessibility.json) |
 | [September 10 at 5:10 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-10T17:10:20.561741+01:00.accessibility.json) |
 | [September 10 at 5:53 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-10T05:53:39.649626+01:00.accessibility.json) |
 | [September 9 at 5:34 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-09T17:34:08.525499+01:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 6:12 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-07T18:12:09.553594+01:00.accessibility.json) |
 | [September 7 at 5:53 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-07T05:53:37.720727+01:00.accessibility.json) |
 | [September 6 at 5:56 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-06T05:56:34.548193+01:00.accessibility.json) |
-| [September 5 at 5:23 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-05T17:22:56.041948+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 97 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 5:50 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-11T05:50:32.280261+01:00.lighthouse.json) |
 | [September 10 at 5:10 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-10T17:10:20.561741+01:00.lighthouse.json) |
 | [September 10 at 5:53 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-10T05:53:39.649626+01:00.lighthouse.json) |
 | [September 9 at 5:34 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-09T17:34:08.525499+01:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 6:12 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-07T18:12:09.553594+01:00.lighthouse.json) |
 | [September 7 at 5:53 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-07T05:53:37.720727+01:00.lighthouse.json) |
 | [September 6 at 5:56 AM](https://archive.org/download/rtenews-2022/rtenews-2022-09-06T05:56:34.548193+01:00.lighthouse.json) |
-| [September 5 at 5:23 PM](https://archive.org/download/rtenews-2022/rtenews-2022-09-05T17:22:56.041948+01:00.lighthouse.json) |
 
 
 

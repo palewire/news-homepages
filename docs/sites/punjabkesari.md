@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 11 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -181,10 +181,10 @@ The median score for each category, along with how it ranks in comparison to the
         Accessibility
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        73
+        76
     </td>
     <td style="text-align: right;">
-        741
+        711
     </td>
   </tr>
 
@@ -192,11 +192,11 @@ The median score for each category, along with how it ranks in comparison to the
     <td>
         Best practices
     </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        50
+    <td style="text-align: right; background-color: red; color: white;">
+        42
     </td>
     <td style="text-align: right;">
-        837
+        868
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        16
+        18
     </td>
     <td style="text-align: right;">
-        685
+        655
     </td>
   </tr>
 
@@ -217,10 +217,10 @@ The median score for each category, along with how it ranks in comparison to the
         SEO
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        84
+        83
     </td>
     <td style="text-align: right;">
-        551
+        635
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 90 screenshots with the Internet Archive.
+The archiving routine has saved 91 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 90 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-11T10:18:48.585337+05:30.jpg">
+  <img src="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-11T10:18:48.585337+05:30.jpg"
+     alt="Punjab Kesari at 2022-09-11 10:18:53+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-11T10:18:48.585337+05:30.jpg">September 11 at 10:18 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-10T21:38:19.227665+05:30.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-05T10:21:21.890542+05:30.jpg">September 5 at 10:21 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-04T22:14:18.347813+05:30.jpg">
-  <img src="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-04T22:14:18.347813+05:30.jpg"
-     alt="Punjab Kesari at 2022-09-04 22:14:28+05:30 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-04T22:14:18.347813+05:30.jpg">September 4 at 10:14 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 87 hyperlink lists with the Internet Archive.
+The archiving routine has saved 88 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 10:18 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-11T10:18:48.585337+05:30.hyperlinks.json) |
 | [September 10 at 9:38 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-10T21:38:19.227665+05:30.hyperlinks.json) |
 | [September 10 at 10:22 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-10T10:22:08.961219+05:30.hyperlinks.json) |
 | [September 9 at 10:02 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-09T22:02:39.427117+05:30.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 10:40 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-07T22:40:41.529809+05:30.hyperlinks.json) |
 | [September 7 at 10:21 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-07T10:21:23.481954+05:30.hyperlinks.json) |
 | [September 6 at 10:24 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-06T10:24:26.653087+05:30.hyperlinks.json) |
-| [September 5 at 9:53 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-05T21:52:50.682669+05:30.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 90 accessibility trees with the Internet Archive.
+The archiving routine has saved 91 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 10:18 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-11T10:18:48.585337+05:30.accessibility.json) |
 | [September 10 at 9:38 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-10T21:38:19.227665+05:30.accessibility.json) |
 | [September 10 at 10:22 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-10T10:22:08.961219+05:30.accessibility.json) |
 | [September 9 at 10:02 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-09T22:02:39.427117+05:30.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 10:40 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-07T22:40:41.529809+05:30.accessibility.json) |
 | [September 7 at 10:21 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-07T10:21:23.481954+05:30.accessibility.json) |
 | [September 6 at 10:24 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-06T10:24:26.653087+05:30.accessibility.json) |
-| [September 5 at 9:53 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-05T21:52:50.682669+05:30.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 90 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 91 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 10:18 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-11T10:18:48.585337+05:30.lighthouse.json) |
 | [September 10 at 9:38 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-10T21:38:19.227665+05:30.lighthouse.json) |
 | [September 10 at 10:22 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-10T10:22:08.961219+05:30.lighthouse.json) |
 | [September 9 at 10:02 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-09T22:02:39.427117+05:30.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 10:40 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-07T22:40:41.529809+05:30.lighthouse.json) |
 | [September 7 at 10:21 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-07T10:21:23.481954+05:30.lighthouse.json) |
 | [September 6 at 10:24 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-06T10:24:26.653087+05:30.lighthouse.json) |
-| [September 5 at 9:53 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-09-05T21:52:50.682669+05:30.lighthouse.json) |
 
 
 

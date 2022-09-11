@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 11 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         87
     </td>
     <td style="text-align: right;">
-        365
+        362
     </td>
   </tr>
 
@@ -193,10 +193,10 @@ The median score for each category, along with how it ranks in comparison to the
         Best practices
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        58
+        75
     </td>
     <td style="text-align: right;">
-        800
+        603
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         6
     </td>
     <td style="text-align: right;">
-        821
+        841
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         69
     </td>
     <td style="text-align: right;">
-        844
+        864
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 80 screenshots with the Internet Archive.
+The archiving routine has saved 81 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 80 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/statejournal-2022/statejournal-2022-09-11T00:50:30.690656-04:00.jpg">
+  <img src="https://archive.org/download/statejournal-2022/statejournal-2022-09-11T00:50:30.690656-04:00.jpg"
+     alt="Frankfort State Journal at 2022-09-11 00:50:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-09-11T00:50:30.690656-04:00.jpg">September 11 at 12:50 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/statejournal-2022/statejournal-2022-09-10T12:10:48.484580-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-09-04T12:46:12.141539-04:00.jpg">September 4 at 12:46 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/statejournal-2022/statejournal-2022-09-04T00:41:41.840651-04:00.jpg">
-  <img src="https://archive.org/download/statejournal-2022/statejournal-2022-09-04T00:41:41.840651-04:00.jpg"
-     alt="Frankfort State Journal at 2022-09-04 00:41:45-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-09-04T00:41:41.840651-04:00.jpg">September 4 at 12:41 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 72 hyperlink lists with the Internet Archive.
+The archiving routine has saved 73 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 12:50 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-11T00:50:30.690656-04:00.hyperlinks.json) |
 | [September 10 at 12:10 PM](https://archive.org/download/statejournal-2022/statejournal-2022-09-10T12:10:48.484580-04:00.hyperlinks.json) |
 | [September 10 at 12:53 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-10T00:53:29.010067-04:00.hyperlinks.json) |
 | [September 9 at 12:35 PM](https://archive.org/download/statejournal-2022/statejournal-2022-09-09T12:35:01.572782-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 1:12 PM](https://archive.org/download/statejournal-2022/statejournal-2022-09-07T13:12:20.122509-04:00.hyperlinks.json) |
 | [September 7 at 12:53 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-07T00:53:29.539578-04:00.hyperlinks.json) |
 | [September 6 at 12:56 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-06T00:55:58.045772-04:00.hyperlinks.json) |
-| [September 5 at 12:24 PM](https://archive.org/download/statejournal-2022/statejournal-2022-09-05T12:24:37.612031-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 69 accessibility trees with the Internet Archive.
+The archiving routine has saved 70 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 12:50 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-11T00:50:30.690656-04:00.accessibility.json) |
 | [September 10 at 12:10 PM](https://archive.org/download/statejournal-2022/statejournal-2022-09-10T12:10:48.484580-04:00.accessibility.json) |
 | [September 10 at 12:53 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-10T00:53:29.010067-04:00.accessibility.json) |
 | [September 9 at 12:35 PM](https://archive.org/download/statejournal-2022/statejournal-2022-09-09T12:35:01.572782-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 1:12 PM](https://archive.org/download/statejournal-2022/statejournal-2022-09-07T13:12:20.122509-04:00.accessibility.json) |
 | [September 7 at 12:53 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-07T00:53:29.539578-04:00.accessibility.json) |
 | [September 6 at 12:56 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-06T00:55:58.045772-04:00.accessibility.json) |
-| [September 5 at 12:24 PM](https://archive.org/download/statejournal-2022/statejournal-2022-09-05T12:24:37.612031-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 80 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 81 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 12:50 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-11T00:50:30.690656-04:00.lighthouse.json) |
 | [September 10 at 12:10 PM](https://archive.org/download/statejournal-2022/statejournal-2022-09-10T12:10:48.484580-04:00.lighthouse.json) |
 | [September 10 at 12:53 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-10T00:53:29.010067-04:00.lighthouse.json) |
 | [September 9 at 12:35 PM](https://archive.org/download/statejournal-2022/statejournal-2022-09-09T12:35:01.572782-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 1:12 PM](https://archive.org/download/statejournal-2022/statejournal-2022-09-07T13:12:20.122509-04:00.lighthouse.json) |
 | [September 7 at 12:53 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-07T00:53:29.539578-04:00.lighthouse.json) |
 | [September 6 at 12:56 AM](https://archive.org/download/statejournal-2022/statejournal-2022-09-06T00:55:58.045772-04:00.lighthouse.json) |
-| [September 5 at 12:24 PM](https://archive.org/download/statejournal-2022/statejournal-2022-09-05T12:24:37.612031-04:00.lighthouse.json) |
 
 
 

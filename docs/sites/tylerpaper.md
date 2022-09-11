@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 11 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -181,10 +181,10 @@ The median score for each category, along with how it ranks in comparison to the
         Accessibility
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        89
+        85
     </td>
     <td style="text-align: right;">
-        263
+        447
     </td>
   </tr>
 
@@ -193,10 +193,10 @@ The median score for each category, along with how it ranks in comparison to the
         Best practices
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        75
+        83
     </td>
     <td style="text-align: right;">
-        581
+        381
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         13
     </td>
     <td style="text-align: right;">
-        767
+        773
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         76
     </td>
     <td style="text-align: right;">
-        782
+        801
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 111 screenshots with the Internet Archive.
+The archiving routine has saved 113 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-11T08:08:42.636560-05:00.jpg">
+  <img src="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-11T08:08:42.636560-05:00.jpg"
+     alt="Tyler Morning Telegraph at 2022-09-11 08:08:49-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-11T08:08:42.636560-05:00.jpg">September 11 at 8:08 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-10T20:26:35.771601-05:00.jpg">
+  <img src="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-10T20:26:35.771601-05:00.jpg"
+     alt="Tyler Morning Telegraph at 2022-09-10 20:26:39-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-10T20:26:35.771601-05:00.jpg">September 10 at 8:26 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-10T08:11:21.792598-05:00.jpg">
   <img src="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-10T08:11:21.792598-05:00.jpg"
      alt="Tyler Morning Telegraph at 2022-09-10 08:11:37-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-05T09:14:21.065972-05:00.jpg">September 5 at 9:14 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-04T20:27:02.148984-05:00.jpg">
-  <img src="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-04T20:27:02.148984-05:00.jpg"
-     alt="Tyler Morning Telegraph at 2022-09-04 20:27:06-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-04T20:27:02.148984-05:00.jpg">September 4 at 8:27 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-04T08:00:41.549336-05:00.jpg">
-  <img src="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-04T08:00:41.549336-05:00.jpg"
-     alt="Tyler Morning Telegraph at 2022-09-04 08:00:42-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-04T08:00:41.549336-05:00.jpg">September 4 at 8:00 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 99 hyperlink lists with the Internet Archive.
+The archiving routine has saved 101 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 8:08 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-11T08:08:42.636560-05:00.hyperlinks.json) |
+| [September 10 at 8:26 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-10T20:26:35.771601-05:00.hyperlinks.json) |
 | [September 10 at 8:11 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-10T08:11:21.792598-05:00.hyperlinks.json) |
 | [September 9 at 8:30 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-09T20:29:55.272205-05:00.hyperlinks.json) |
 | [September 9 at 8:28 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-09T08:28:09.194625-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 8:28 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-07T20:28:25.922770-05:00.hyperlinks.json) |
 | [September 7 at 8:52 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-07T08:51:54.588506-05:00.hyperlinks.json) |
 | [September 6 at 8:25 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-06T20:25:31.677604-05:00.hyperlinks.json) |
-| [September 5 at 8:30 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-05T20:29:53.102132-05:00.hyperlinks.json) |
-| [September 5 at 9:14 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-05T09:14:21.065972-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 100 accessibility trees with the Internet Archive.
+The archiving routine has saved 102 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 8:08 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-11T08:08:42.636560-05:00.accessibility.json) |
+| [September 10 at 8:26 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-10T20:26:35.771601-05:00.accessibility.json) |
 | [September 10 at 8:11 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-10T08:11:21.792598-05:00.accessibility.json) |
 | [September 9 at 8:30 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-09T20:29:55.272205-05:00.accessibility.json) |
 | [September 9 at 8:28 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-09T08:28:09.194625-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 8:28 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-07T20:28:25.922770-05:00.accessibility.json) |
 | [September 7 at 8:52 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-07T08:51:54.588506-05:00.accessibility.json) |
 | [September 6 at 8:25 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-06T20:25:31.677604-05:00.accessibility.json) |
-| [September 5 at 8:29 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-05T20:29:53.102132-05:00.accessibility.json) |
-| [September 5 at 9:14 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-05T09:14:21.065972-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 99 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 101 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 8:08 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-11T08:08:42.636560-05:00.lighthouse.json) |
+| [September 10 at 8:26 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-10T20:26:35.771601-05:00.lighthouse.json) |
 | [September 10 at 8:11 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-10T08:11:21.792598-05:00.lighthouse.json) |
 | [September 9 at 8:30 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-09T20:29:55.272205-05:00.lighthouse.json) |
 | [September 9 at 8:28 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-09T08:28:09.194625-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 8:28 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-07T20:28:25.922770-05:00.lighthouse.json) |
 | [September 7 at 8:52 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-07T08:51:54.588506-05:00.lighthouse.json) |
 | [September 6 at 8:25 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-06T20:25:31.677604-05:00.lighthouse.json) |
-| [September 5 at 8:30 PM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-05T20:29:53.102132-05:00.lighthouse.json) |
-| [September 5 at 9:14 AM](https://archive.org/download/tylerpaper-2022/tylerpaper-2022-09-05T09:14:21.065972-05:00.lighthouse.json) |
 
 
 

@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 11 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         83
     </td>
     <td style="text-align: right;">
-        501
+        499
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         92
     </td>
     <td style="text-align: right;">
-        130
+        122
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         25
     </td>
     <td style="text-align: right;">
-        464
+        470
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         91
     </td>
     <td style="text-align: right;">
-        280
+        277
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 105 screenshots with the Internet Archive.
+The archiving routine has saved 107 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/wtoc11-2022/wtoc11-2022-09-11T10:16:50.699243-04:00.jpg">
+  <img src="https://archive.org/download/wtoc11-2022/wtoc11-2022-09-11T10:16:50.699243-04:00.jpg"
+     alt="WTOC at 2022-09-11 10:16:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wtoc11-2022/wtoc11-2022-09-11T10:16:50.699243-04:00.jpg">September 11 at 10:16 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wtoc11-2022/wtoc11-2022-09-10T22:31:53.638239-04:00.jpg">
+  <img src="https://archive.org/download/wtoc11-2022/wtoc11-2022-09-10T22:31:53.638239-04:00.jpg"
+     alt="WTOC at 2022-09-10 22:31:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wtoc11-2022/wtoc11-2022-09-10T22:31:53.638239-04:00.jpg">September 10 at 10:31 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/wtoc11-2022/wtoc11-2022-09-10T10:17:09.706895-04:00.jpg">
   <img src="https://archive.org/download/wtoc11-2022/wtoc11-2022-09-10T10:17:09.706895-04:00.jpg"
      alt="WTOC at 2022-09-10 10:17:14-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wtoc11-2022/wtoc11-2022-09-05T10:27:53.377426-04:00.jpg">September 5 at 10:28 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wtoc11-2022/wtoc11-2022-09-04T22:34:23.763037-04:00.jpg">
-  <img src="https://archive.org/download/wtoc11-2022/wtoc11-2022-09-04T22:34:23.763037-04:00.jpg"
-     alt="WTOC at 2022-09-04 22:34:27-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wtoc11-2022/wtoc11-2022-09-04T22:34:23.763037-04:00.jpg">September 4 at 10:34 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wtoc11-2022/wtoc11-2022-09-04T10:48:02.043121-04:00.jpg">
-  <img src="https://archive.org/download/wtoc11-2022/wtoc11-2022-09-04T10:48:02.043121-04:00.jpg"
-     alt="WTOC at 2022-09-04 10:48:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wtoc11-2022/wtoc11-2022-09-04T10:48:02.043121-04:00.jpg">September 4 at 10:48 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 105 hyperlink lists with the Internet Archive.
+The archiving routine has saved 107 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 10:16 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-11T10:16:50.699243-04:00.hyperlinks.json) |
+| [September 10 at 10:32 PM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-10T22:31:53.638239-04:00.hyperlinks.json) |
 | [September 10 at 10:17 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-10T10:17:09.706895-04:00.hyperlinks.json) |
 | [September 9 at 10:32 PM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-09T22:32:33.872294-04:00.hyperlinks.json) |
 | [September 9 at 10:39 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-09T10:39:01.638762-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 10:38 PM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-07T22:38:42.595385-04:00.hyperlinks.json) |
 | [September 7 at 11:35 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-07T11:35:26.415570-04:00.hyperlinks.json) |
 | [September 6 at 10:38 PM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-06T22:38:07.630927-04:00.hyperlinks.json) |
-| [September 5 at 10:32 PM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-05T22:32:27.863667-04:00.hyperlinks.json) |
-| [September 5 at 10:28 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-05T10:27:53.377426-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 106 accessibility trees with the Internet Archive.
+The archiving routine has saved 108 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 10:16 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-11T10:16:50.699243-04:00.accessibility.json) |
+| [September 10 at 10:31 PM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-10T22:31:53.638239-04:00.accessibility.json) |
 | [September 10 at 10:17 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-10T10:17:09.706895-04:00.accessibility.json) |
 | [September 9 at 10:32 PM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-09T22:32:33.872294-04:00.accessibility.json) |
 | [September 9 at 10:39 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-09T10:39:01.638762-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 10:38 PM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-07T22:38:42.595385-04:00.accessibility.json) |
 | [September 7 at 11:35 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-07T11:35:26.415570-04:00.accessibility.json) |
 | [September 6 at 10:38 PM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-06T22:38:07.630927-04:00.accessibility.json) |
-| [September 5 at 10:32 PM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-05T22:32:27.863667-04:00.accessibility.json) |
-| [September 5 at 10:28 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-05T10:27:53.377426-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 99 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 101 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 10:16 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-11T10:16:50.699243-04:00.lighthouse.json) |
+| [September 10 at 10:32 PM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-10T22:31:53.638239-04:00.lighthouse.json) |
 | [September 10 at 10:17 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-10T10:17:09.706895-04:00.lighthouse.json) |
 | [September 9 at 10:32 PM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-09T22:32:33.872294-04:00.lighthouse.json) |
 | [September 9 at 10:39 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-09T10:39:01.638762-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 10:38 PM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-07T22:38:42.595385-04:00.lighthouse.json) |
 | [September 7 at 11:35 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-07T11:35:26.415570-04:00.lighthouse.json) |
 | [September 6 at 10:38 PM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-06T22:38:07.630927-04:00.lighthouse.json) |
-| [September 5 at 10:32 PM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-05T22:32:27.863667-04:00.lighthouse.json) |
-| [September 5 at 10:28 AM](https://archive.org/download/wtoc11-2022/wtoc11-2022-09-05T10:27:53.377426-04:00.lighthouse.json) |
 
 
 

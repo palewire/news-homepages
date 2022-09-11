@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 13 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 18 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -180,11 +180,11 @@ The median score for each category, along with how it ranks in comparison to the
     <td>
         Accessibility
     </td>
-    <td style="text-align: right; background-color: green; color: white;">
-        90
+    <td style="text-align: right; background-color: orange; color: white;">
+        89
     </td>
     <td style="text-align: right;">
-        240
+        271
     </td>
   </tr>
 
@@ -192,11 +192,11 @@ The median score for each category, along with how it ranks in comparison to the
     <td>
         Best practices
     </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        33
+    <td style="text-align: right; background-color: orange; color: white;">
+        50
     </td>
     <td style="text-align: right;">
-        852
+        864
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         18
     </td>
     <td style="text-align: right;">
-        630
+        655
     </td>
   </tr>
 
@@ -217,10 +217,10 @@ The median score for each category, along with how it ranks in comparison to the
         SEO
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        83
+        82
     </td>
     <td style="text-align: right;">
-        628
+        697
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 302 screenshots with the Internet Archive.
+The archiving routine has saved 304 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-11T10:03:33.952609-05:00.jpg">
+  <img src="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-11T10:03:33.952609-05:00.jpg"
+     alt="Cedar Rapids Gazette at 2022-09-11 10:03:43-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-11T10:03:33.952609-05:00.jpg">September 11 at 10:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-10T22:49:49.858484-05:00.jpg">
+  <img src="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-10T22:49:49.858484-05:00.jpg"
+     alt="Cedar Rapids Gazette at 2022-09-10 22:49:50-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-10T22:49:49.858484-05:00.jpg">September 10 at 10:49 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-10T10:01:42.427676-05:00.jpg">
   <img src="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-10T10:01:42.427676-05:00.jpg"
      alt="Cedar Rapids Gazette at 2022-09-10 10:01:44-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-05T22:52:51.040381-05:00.jpg">September 5 at 10:52 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-05T11:30:04.365138-05:00.jpg">
-  <img src="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-05T11:30:04.365138-05:00.jpg"
-     alt="Cedar Rapids Gazette at 2022-09-05 11:30:08-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-05T11:30:04.365138-05:00.jpg">September 5 at 11:30 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-05T11:13:45.493782-05:00.jpg">
-  <img src="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-05T11:13:45.493782-05:00.jpg"
-     alt="Cedar Rapids Gazette at 2022-09-05 11:14:08-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-05T11:13:45.493782-05:00.jpg">September 5 at 11:14 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 297 hyperlink lists with the Internet Archive.
+The archiving routine has saved 299 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 10:03 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-11T10:03:33.952609-05:00.hyperlinks.json) |
+| [September 10 at 10:49 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-10T22:49:49.858484-05:00.hyperlinks.json) |
 | [September 10 at 10:01 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-10T10:01:42.427676-05:00.hyperlinks.json) |
 | [September 9 at 10:50 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-09T22:50:51.359230-05:00.hyperlinks.json) |
 | [September 9 at 11:39 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-09T11:39:36.227483-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 8 at 10:23 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-08T10:23:00.898991-05:00.hyperlinks.json) |
 | [September 7 at 10:50 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-07T22:50:03.377221-05:00.hyperlinks.json) |
 | [September 7 at 10:38 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-07T10:38:00.486983-05:00.hyperlinks.json) |
-| [September 6 at 10:52 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-06T22:52:28.869223-05:00.hyperlinks.json) |
-| [September 5 at 10:52 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-05T22:52:51.040381-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 297 accessibility trees with the Internet Archive.
+The archiving routine has saved 299 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 10:03 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-11T10:03:33.952609-05:00.accessibility.json) |
+| [September 10 at 10:49 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-10T22:49:49.858484-05:00.accessibility.json) |
 | [September 10 at 10:01 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-10T10:01:42.427676-05:00.accessibility.json) |
 | [September 9 at 10:50 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-09T22:50:51.359230-05:00.accessibility.json) |
 | [September 9 at 11:39 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-09T11:39:36.227483-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 8 at 10:23 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-08T10:23:00.898991-05:00.accessibility.json) |
 | [September 7 at 10:50 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-07T22:50:03.377221-05:00.accessibility.json) |
 | [September 7 at 10:38 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-07T10:38:00.486983-05:00.accessibility.json) |
-| [September 6 at 10:52 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-06T22:52:28.869223-05:00.accessibility.json) |
-| [September 5 at 10:52 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-05T22:52:51.040381-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 116 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 118 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 10:03 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-11T10:03:33.952609-05:00.lighthouse.json) |
+| [September 10 at 10:49 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-10T22:49:49.858484-05:00.lighthouse.json) |
 | [September 10 at 10:01 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-10T10:01:42.427676-05:00.lighthouse.json) |
 | [September 9 at 10:50 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-09T22:50:51.359230-05:00.lighthouse.json) |
 | [September 9 at 11:39 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-09T11:39:36.227483-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 8 at 10:23 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-08T10:23:00.898991-05:00.lighthouse.json) |
 | [September 7 at 10:50 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-07T22:50:03.377221-05:00.lighthouse.json) |
 | [September 7 at 12:18 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-07T12:18:27.091601-05:00.lighthouse.json) |
-| [September 7 at 10:38 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-07T10:38:00.486983-05:00.lighthouse.json) |
-| [September 6 at 10:52 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-09-06T22:52:28.869223-05:00.lighthouse.json) |
 
 
 

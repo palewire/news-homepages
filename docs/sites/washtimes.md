@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 17 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 20 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         83
     </td>
     <td style="text-align: right;">
-        501
+        499
     </td>
   </tr>
 
@@ -193,10 +193,10 @@ The median score for each category, along with how it ranks in comparison to the
         Best practices
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        75
+        83
     </td>
     <td style="text-align: right;">
-        581
+        381
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         44
     </td>
     <td style="text-align: right;">
-        222
+        237
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         93
     </td>
     <td style="text-align: right;">
-        149
+        150
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 342 screenshots with the Internet Archive.
+The archiving routine has saved 346 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/washtimes-2022/washtimes-2022-09-11T14:32:53.794369-04:00.jpg">
+  <img src="https://archive.org/download/washtimes-2022/washtimes-2022-09-11T14:32:53.794369-04:00.jpg"
+     alt="Washington Times at 2022-09-11 14:33:31-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-09-11T14:32:53.794369-04:00.jpg">September 11 at 2:33 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/washtimes-2022/washtimes-2022-09-11T10:16:36.458901-04:00.jpg">
+  <img src="https://archive.org/download/washtimes-2022/washtimes-2022-09-11T10:16:36.458901-04:00.jpg"
+     alt="Washington Times at 2022-09-11 10:16:39-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-09-11T10:16:36.458901-04:00.jpg">September 11 at 10:16 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/washtimes-2022/washtimes-2022-09-10T22:31:31.948117-04:00.jpg">
+  <img src="https://archive.org/download/washtimes-2022/washtimes-2022-09-10T22:31:31.948117-04:00.jpg"
+     alt="Washington Times at 2022-09-10 22:32:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-09-10T22:31:31.948117-04:00.jpg">September 10 at 10:32 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/washtimes-2022/washtimes-2022-09-10T14:34:18.219139-04:00.jpg">
+  <img src="https://archive.org/download/washtimes-2022/washtimes-2022-09-10T14:34:18.219139-04:00.jpg"
+     alt="Washington Times at 2022-09-10 14:34:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-09-10T14:34:18.219139-04:00.jpg">September 10 at 2:34 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/washtimes-2022/washtimes-2022-09-10T10:16:59.671398-04:00.jpg">
   <img src="https://archive.org/download/washtimes-2022/washtimes-2022-09-10T10:16:59.671398-04:00.jpg"
      alt="Washington Times at 2022-09-10 10:17:10-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-09-07T11:35:58.197169-04:00.jpg">September 7 at 11:36 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/washtimes-2022/washtimes-2022-09-06T22:37:49.274883-04:00.jpg">
-  <img src="https://archive.org/download/washtimes-2022/washtimes-2022-09-06T22:37:49.274883-04:00.jpg"
-     alt="Washington Times at 2022-09-06 22:38:01-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-09-06T22:37:49.274883-04:00.jpg">September 6 at 10:38 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/washtimes-2022/washtimes-2022-09-05T22:31:51.874078-04:00.jpg">
-  <img src="https://archive.org/download/washtimes-2022/washtimes-2022-09-05T22:31:51.874078-04:00.jpg"
-     alt="Washington Times at 2022-09-05 22:32:06-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-09-05T22:31:51.874078-04:00.jpg">September 5 at 10:32 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/washtimes-2022/washtimes-2022-09-05T14:36:40.116740-04:00.jpg">
-  <img src="https://archive.org/download/washtimes-2022/washtimes-2022-09-05T14:36:40.116740-04:00.jpg"
-     alt="Washington Times at 2022-09-05 14:36:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-09-05T14:36:40.116740-04:00.jpg">September 5 at 2:36 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/washtimes-2022/washtimes-2022-09-05T10:27:06.731971-04:00.jpg">
-  <img src="https://archive.org/download/washtimes-2022/washtimes-2022-09-05T10:27:06.731971-04:00.jpg"
-     alt="Washington Times at 2022-09-05 10:27:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/washtimes-2022/washtimes-2022-09-05T10:27:06.731971-04:00.jpg">September 5 at 10:27 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 336 hyperlink lists with the Internet Archive.
+The archiving routine has saved 340 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 2:33 PM](https://archive.org/download/washtimes-2022/washtimes-2022-09-11T14:32:53.794369-04:00.hyperlinks.json) |
+| [September 11 at 10:16 AM](https://archive.org/download/washtimes-2022/washtimes-2022-09-11T10:16:36.458901-04:00.hyperlinks.json) |
+| [September 10 at 10:32 PM](https://archive.org/download/washtimes-2022/washtimes-2022-09-10T22:31:31.948117-04:00.hyperlinks.json) |
+| [September 10 at 2:34 PM](https://archive.org/download/washtimes-2022/washtimes-2022-09-10T14:34:18.219139-04:00.hyperlinks.json) |
 | [September 10 at 10:17 AM](https://archive.org/download/washtimes-2022/washtimes-2022-09-10T10:16:59.671398-04:00.hyperlinks.json) |
 | [September 9 at 10:31 PM](https://archive.org/download/washtimes-2022/washtimes-2022-09-09T22:31:38.662339-04:00.hyperlinks.json) |
 | [September 9 at 2:35 PM](https://archive.org/download/washtimes-2022/washtimes-2022-09-09T14:34:58.573562-04:00.hyperlinks.json) |
 | [September 9 at 10:39 AM](https://archive.org/download/washtimes-2022/washtimes-2022-09-09T10:39:25.047293-04:00.hyperlinks.json) |
 | [September 8 at 10:34 PM](https://archive.org/download/washtimes-2022/washtimes-2022-09-08T22:34:13.338028-04:00.hyperlinks.json) |
 | [September 8 at 10:29 AM](https://archive.org/download/washtimes-2022/washtimes-2022-09-08T10:29:04.061906-04:00.hyperlinks.json) |
-| [September 7 at 10:38 PM](https://archive.org/download/washtimes-2022/washtimes-2022-09-07T22:38:12.447470-04:00.hyperlinks.json) |
-| [September 7 at 11:36 AM](https://archive.org/download/washtimes-2022/washtimes-2022-09-07T11:35:58.197169-04:00.hyperlinks.json) |
-| [September 6 at 10:38 PM](https://archive.org/download/washtimes-2022/washtimes-2022-09-06T22:37:49.274883-04:00.hyperlinks.json) |
-| [September 5 at 10:32 PM](https://archive.org/download/washtimes-2022/washtimes-2022-09-05T22:31:51.874078-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 338 accessibility trees with the Internet Archive.
+The archiving routine has saved 342 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 2:33 PM](https://archive.org/download/washtimes-2022/washtimes-2022-09-11T14:32:53.794369-04:00.accessibility.json) |
+| [September 11 at 10:16 AM](https://archive.org/download/washtimes-2022/washtimes-2022-09-11T10:16:36.458901-04:00.accessibility.json) |
+| [September 10 at 10:32 PM](https://archive.org/download/washtimes-2022/washtimes-2022-09-10T22:31:31.948117-04:00.accessibility.json) |
+| [September 10 at 2:34 PM](https://archive.org/download/washtimes-2022/washtimes-2022-09-10T14:34:18.219139-04:00.accessibility.json) |
 | [September 10 at 10:17 AM](https://archive.org/download/washtimes-2022/washtimes-2022-09-10T10:16:59.671398-04:00.accessibility.json) |
 | [September 9 at 10:31 PM](https://archive.org/download/washtimes-2022/washtimes-2022-09-09T22:31:38.662339-04:00.accessibility.json) |
 | [September 9 at 2:35 PM](https://archive.org/download/washtimes-2022/washtimes-2022-09-09T14:34:58.573562-04:00.accessibility.json) |
 | [September 9 at 10:39 AM](https://archive.org/download/washtimes-2022/washtimes-2022-09-09T10:39:25.047293-04:00.accessibility.json) |
 | [September 8 at 10:34 PM](https://archive.org/download/washtimes-2022/washtimes-2022-09-08T22:34:13.338028-04:00.accessibility.json) |
 | [September 8 at 10:29 AM](https://archive.org/download/washtimes-2022/washtimes-2022-09-08T10:29:04.061906-04:00.accessibility.json) |
-| [September 7 at 10:38 PM](https://archive.org/download/washtimes-2022/washtimes-2022-09-07T22:38:12.447470-04:00.accessibility.json) |
-| [September 7 at 11:36 AM](https://archive.org/download/washtimes-2022/washtimes-2022-09-07T11:35:58.197169-04:00.accessibility.json) |
-| [September 6 at 10:38 PM](https://archive.org/download/washtimes-2022/washtimes-2022-09-06T22:37:49.274883-04:00.accessibility.json) |
-| [September 5 at 10:32 PM](https://archive.org/download/washtimes-2022/washtimes-2022-09-05T22:31:51.874078-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 142 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 146 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 2:33 PM](https://archive.org/download/washtimes-2022/washtimes-2022-09-11T14:32:53.794369-04:00.lighthouse.json) |
+| [September 11 at 10:16 AM](https://archive.org/download/washtimes-2022/washtimes-2022-09-11T10:16:36.458901-04:00.lighthouse.json) |
+| [September 10 at 10:32 PM](https://archive.org/download/washtimes-2022/washtimes-2022-09-10T22:31:31.948117-04:00.lighthouse.json) |
+| [September 10 at 2:34 PM](https://archive.org/download/washtimes-2022/washtimes-2022-09-10T14:34:18.219139-04:00.lighthouse.json) |
 | [September 10 at 10:17 AM](https://archive.org/download/washtimes-2022/washtimes-2022-09-10T10:16:59.671398-04:00.lighthouse.json) |
 | [September 9 at 10:31 PM](https://archive.org/download/washtimes-2022/washtimes-2022-09-09T22:31:38.662339-04:00.lighthouse.json) |
 | [September 9 at 2:35 PM](https://archive.org/download/washtimes-2022/washtimes-2022-09-09T14:34:58.573562-04:00.lighthouse.json) |
 | [September 9 at 10:39 AM](https://archive.org/download/washtimes-2022/washtimes-2022-09-09T10:39:25.047293-04:00.lighthouse.json) |
 | [September 8 at 10:34 PM](https://archive.org/download/washtimes-2022/washtimes-2022-09-08T22:34:13.338028-04:00.lighthouse.json) |
 | [September 8 at 10:29 AM](https://archive.org/download/washtimes-2022/washtimes-2022-09-08T10:29:04.061906-04:00.lighthouse.json) |
-| [September 7 at 10:38 PM](https://archive.org/download/washtimes-2022/washtimes-2022-09-07T22:38:12.447470-04:00.lighthouse.json) |
-| [September 7 at 3:09 PM](https://archive.org/download/washtimes-2022/washtimes-2022-09-07T15:09:26.014338-04:00.lighthouse.json) |
-| [September 7 at 11:36 AM](https://archive.org/download/washtimes-2022/washtimes-2022-09-07T11:35:58.197169-04:00.lighthouse.json) |
-| [September 6 at 10:38 PM](https://archive.org/download/washtimes-2022/washtimes-2022-09-06T22:37:49.274883-04:00.lighthouse.json) |
 
 
 

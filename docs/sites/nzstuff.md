@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 12 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 14 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         81
     </td>
     <td style="text-align: right;">
-        551
+        557
     </td>
   </tr>
 
@@ -193,10 +193,10 @@ The median score for each category, along with how it ranks in comparison to the
         Best practices
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        83
+        88
     </td>
     <td style="text-align: right;">
-        404
+        367
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         15
     </td>
     <td style="text-align: right;">
-        721
+        733
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         85
     </td>
     <td style="text-align: right;">
-        506
+        510
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 72 screenshots with the Internet Archive.
+The archiving routine has saved 74 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-09-11T12:17:14.394397+12:00.jpg">
+  <img src="https://archive.org/download/nzstuff-2022/nzstuff-2022-09-11T12:17:14.394397+12:00.jpg"
+     alt="Stuff at 2022-09-11 12:17:27+12:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-09-11T12:17:14.394397+12:00.jpg">September 11 at 12:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-09-11T00:02:58.964687+12:00.jpg">
+  <img src="https://archive.org/download/nzstuff-2022/nzstuff-2022-09-11T00:02:58.964687+12:00.jpg"
+     alt="Stuff at 2022-09-11 00:03:00+12:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-09-11T00:02:58.964687+12:00.jpg">September 11 at 12:03 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-09-10T12:09:17.120439+12:00.jpg">
   <img src="https://archive.org/download/nzstuff-2022/nzstuff-2022-09-10T12:09:17.120439+12:00.jpg"
      alt="Stuff at 2022-09-10 12:09:19+12:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-09-05T11:57:47.026511+12:00.jpg">September 5 at 11:57 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-09-05T00:00:18.202278+12:00.jpg">
-  <img src="https://archive.org/download/nzstuff-2022/nzstuff-2022-09-05T00:00:18.202278+12:00.jpg"
-     alt="Stuff at 2022-09-05 00:00:20+12:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-09-05T00:00:18.202278+12:00.jpg">September 5 at 12:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-09-04T11:51:30.515823+12:00.jpg">
-  <img src="https://archive.org/download/nzstuff-2022/nzstuff-2022-09-04T11:51:30.515823+12:00.jpg"
-     alt="Stuff at 2022-09-04 11:51:36+12:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-09-04T11:51:30.515823+12:00.jpg">September 4 at 11:51 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 72 hyperlink lists with the Internet Archive.
+The archiving routine has saved 74 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 12:17 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-11T12:17:14.394397+12:00.hyperlinks.json) |
+| [September 11 at 12:03 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-11T00:02:58.964687+12:00.hyperlinks.json) |
 | [September 10 at 12:09 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-10T12:09:17.120439+12:00.hyperlinks.json) |
 | [September 10 at 12:20 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-10T00:20:04.279917+12:00.hyperlinks.json) |
 | [September 9 at 12:11 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-09T12:10:54.376457+12:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 8 at 12:46 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-08T00:46:24.554313+12:00.hyperlinks.json) |
 | [September 7 at 12:16 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-07T12:16:00.380385+12:00.hyperlinks.json) |
 | [September 6 at 12:01 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-06T12:00:55.757710+12:00.hyperlinks.json) |
-| [September 6 at 12:24 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-06T00:24:04.860128+12:00.hyperlinks.json) |
-| [September 5 at 11:57 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-05T11:57:47.026511+12:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 72 accessibility trees with the Internet Archive.
+The archiving routine has saved 74 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 12:17 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-11T12:17:14.394397+12:00.accessibility.json) |
+| [September 11 at 12:03 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-11T00:02:58.964687+12:00.accessibility.json) |
 | [September 10 at 12:09 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-10T12:09:17.120439+12:00.accessibility.json) |
 | [September 10 at 12:20 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-10T00:20:04.279917+12:00.accessibility.json) |
 | [September 9 at 12:10 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-09T12:10:54.376457+12:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 8 at 12:46 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-08T00:46:24.554313+12:00.accessibility.json) |
 | [September 7 at 12:16 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-07T12:16:00.380385+12:00.accessibility.json) |
 | [September 6 at 12:01 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-06T12:00:55.757710+12:00.accessibility.json) |
-| [September 6 at 12:24 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-06T00:24:04.860128+12:00.accessibility.json) |
-| [September 5 at 11:57 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-05T11:57:47.026511+12:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 72 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 74 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 12:17 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-11T12:17:14.394397+12:00.lighthouse.json) |
+| [September 11 at 12:03 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-11T00:02:58.964687+12:00.lighthouse.json) |
 | [September 10 at 12:09 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-10T12:09:17.120439+12:00.lighthouse.json) |
 | [September 10 at 12:20 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-10T00:20:04.279917+12:00.lighthouse.json) |
 | [September 9 at 12:11 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-09T12:10:54.376457+12:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 8 at 12:46 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-08T00:46:24.554313+12:00.lighthouse.json) |
 | [September 7 at 12:16 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-07T12:16:00.380385+12:00.lighthouse.json) |
 | [September 6 at 12:01 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-06T12:00:55.757710+12:00.lighthouse.json) |
-| [September 6 at 12:24 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-06T00:24:04.860128+12:00.lighthouse.json) |
-| [September 5 at 11:57 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-09-05T11:57:47.026511+12:00.lighthouse.json) |
 
 
 

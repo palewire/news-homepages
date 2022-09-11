@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 12 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 16 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -181,10 +181,10 @@ The median score for each category, along with how it ranks in comparison to the
         Accessibility
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        88
+        87
     </td>
     <td style="text-align: right;">
-        364
+        362
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         83
     </td>
     <td style="text-align: right;">
-        404
+        381
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        18
+        16
     </td>
     <td style="text-align: right;">
-        630
+        699
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         70
     </td>
     <td style="text-align: right;">
-        833
+        854
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 105 screenshots with the Internet Archive.
+The archiving routine has saved 106 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 105 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-10T19:03:44.964504-04:00.jpg">
+  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-10T19:03:44.964504-04:00.jpg"
+     alt="Albany Herald at 2022-09-10 19:03:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-10T19:03:44.964504-04:00.jpg">September 10 at 7:03 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-10T06:51:42.567546-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-05T06:58:32.209627-04:00.jpg">September 5 at 6:58 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-04T18:53:16.721267-04:00.jpg">
-  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-04T18:53:16.721267-04:00.jpg"
-     alt="Albany Herald at 2022-09-04 18:53:22-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-04T18:53:16.721267-04:00.jpg">September 4 at 6:53 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 93 hyperlink lists with the Internet Archive.
+The archiving routine has saved 95 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 6:52 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-11T06:52:20.813729-04:00.hyperlinks.json) |
+| [September 10 at 7:03 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-10T19:03:44.964504-04:00.hyperlinks.json) |
 | [September 10 at 6:51 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-10T06:51:42.567546-04:00.hyperlinks.json) |
 | [September 9 at 7:02 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-09T19:02:00.396772-04:00.hyperlinks.json) |
 | [September 9 at 7:01 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-09T07:01:43.855185-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 6:57 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-07T18:56:54.999322-04:00.hyperlinks.json) |
 | [September 7 at 8:10 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-07T08:10:29.070537-04:00.hyperlinks.json) |
 | [September 6 at 7:04 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-06T19:03:57.967884-04:00.hyperlinks.json) |
-| [September 6 at 6:53 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-06T06:53:03.362256-04:00.hyperlinks.json) |
-| [September 5 at 6:58 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-05T18:57:51.946446-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 106 accessibility trees with the Internet Archive.
+The archiving routine has saved 108 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 6:52 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-11T06:52:20.813729-04:00.accessibility.json) |
+| [September 10 at 7:03 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-10T19:03:44.964504-04:00.accessibility.json) |
 | [September 10 at 6:51 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-10T06:51:42.567546-04:00.accessibility.json) |
 | [September 9 at 7:02 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-09T19:02:00.396772-04:00.accessibility.json) |
 | [September 9 at 7:01 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-09T07:01:43.855185-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 6:57 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-07T18:56:54.999322-04:00.accessibility.json) |
 | [September 7 at 8:10 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-07T08:10:29.070537-04:00.accessibility.json) |
 | [September 6 at 7:04 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-06T19:03:57.967884-04:00.accessibility.json) |
-| [September 6 at 6:53 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-06T06:53:03.362256-04:00.accessibility.json) |
-| [September 5 at 6:57 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-05T18:57:51.946446-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 99 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 101 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 6:52 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-11T06:52:20.813729-04:00.lighthouse.json) |
+| [September 10 at 7:03 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-10T19:03:44.964504-04:00.lighthouse.json) |
 | [September 10 at 6:51 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-10T06:51:42.567546-04:00.lighthouse.json) |
 | [September 9 at 7:02 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-09T19:02:00.396772-04:00.lighthouse.json) |
 | [September 9 at 7:01 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-09T07:01:43.855185-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 6:57 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-07T18:56:54.999322-04:00.lighthouse.json) |
 | [September 7 at 8:10 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-07T08:10:29.070537-04:00.lighthouse.json) |
 | [September 6 at 7:04 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-06T19:03:57.967884-04:00.lighthouse.json) |
-| [September 6 at 6:53 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-06T06:53:03.362256-04:00.lighthouse.json) |
-| [September 5 at 6:58 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-05T18:57:51.946446-04:00.lighthouse.json) |
 
 
 

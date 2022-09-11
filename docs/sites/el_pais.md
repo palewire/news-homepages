@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 11 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -181,10 +181,10 @@ The median score for each category, along with how it ranks in comparison to the
         Accessibility
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        84
+        88
     </td>
     <td style="text-align: right;">
-        478
+        297
     </td>
   </tr>
 
@@ -192,11 +192,11 @@ The median score for each category, along with how it ranks in comparison to the
     <td>
         Best practices
     </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        83
+    <td style="text-align: right; background-color: green; color: white;">
+        92
     </td>
     <td style="text-align: right;">
-        404
+        122
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        44
+        42
     </td>
     <td style="text-align: right;">
-        222
+        262
     </td>
   </tr>
 
@@ -217,10 +217,10 @@ The median score for each category, along with how it ranks in comparison to the
         SEO
     </td>
     <td style="text-align: right; background-color: green; color: white;">
-        91
+        98
     </td>
     <td style="text-align: right;">
-        280
+        68
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 87 screenshots with the Internet Archive.
+The archiving routine has saved 89 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/el_pais-2022/el_pais-2022-09-11T16:14:55.172629+02:00.jpg">
+  <img src="https://archive.org/download/el_pais-2022/el_pais-2022-09-11T16:14:55.172629+02:00.jpg"
+     alt="El Pais at 2022-09-11 16:15:01+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/el_pais-2022/el_pais-2022-09-11T16:14:55.172629+02:00.jpg">September 11 at 4:15 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/el_pais-2022/el_pais-2022-09-11T04:29:23.892619+02:00.jpg">
+  <img src="https://archive.org/download/el_pais-2022/el_pais-2022-09-11T04:29:23.892619+02:00.jpg"
+     alt="El Pais at 2022-09-11 04:29:28+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/el_pais-2022/el_pais-2022-09-11T04:29:23.892619+02:00.jpg">September 11 at 4:29 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/el_pais-2022/el_pais-2022-09-10T16:14:52.570048+02:00.jpg">
   <img src="https://archive.org/download/el_pais-2022/el_pais-2022-09-10T16:14:52.570048+02:00.jpg"
      alt="El Pais at 2022-09-10 16:14:57+02:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/el_pais-2022/el_pais-2022-09-05T16:26:07.896895+02:00.jpg">September 5 at 4:26 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/el_pais-2022/el_pais-2022-09-05T04:32:12.409012+02:00.jpg">
-  <img src="https://archive.org/download/el_pais-2022/el_pais-2022-09-05T04:32:12.409012+02:00.jpg"
-     alt="El Pais at 2022-09-05 04:32:16+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/el_pais-2022/el_pais-2022-09-05T04:32:12.409012+02:00.jpg">September 5 at 4:32 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/el_pais-2022/el_pais-2022-09-04T16:33:27.055732+02:00.jpg">
-  <img src="https://archive.org/download/el_pais-2022/el_pais-2022-09-04T16:33:27.055732+02:00.jpg"
-     alt="El Pais at 2022-09-04 16:33:31+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/el_pais-2022/el_pais-2022-09-04T16:33:27.055732+02:00.jpg">September 4 at 4:33 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 87 hyperlink lists with the Internet Archive.
+The archiving routine has saved 89 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 4:15 PM](https://archive.org/download/el_pais-2022/el_pais-2022-09-11T16:14:55.172629+02:00.hyperlinks.json) |
+| [September 11 at 4:29 AM](https://archive.org/download/el_pais-2022/el_pais-2022-09-11T04:29:23.892619+02:00.hyperlinks.json) |
 | [September 10 at 4:15 PM](https://archive.org/download/el_pais-2022/el_pais-2022-09-10T16:14:52.570048+02:00.hyperlinks.json) |
 | [September 10 at 4:30 AM](https://archive.org/download/el_pais-2022/el_pais-2022-09-10T04:29:56.929549+02:00.hyperlinks.json) |
 | [September 9 at 4:37 PM](https://archive.org/download/el_pais-2022/el_pais-2022-09-09T16:37:21.039469+02:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 8 at 4:36 AM](https://archive.org/download/el_pais-2022/el_pais-2022-09-08T04:36:23.894621+02:00.hyperlinks.json) |
 | [September 7 at 5:33 PM](https://archive.org/download/el_pais-2022/el_pais-2022-09-07T17:33:21.680664+02:00.hyperlinks.json) |
 | [September 7 at 4:35 AM](https://archive.org/download/el_pais-2022/el_pais-2022-09-07T04:35:09.227367+02:00.hyperlinks.json) |
-| [September 6 at 4:29 AM](https://archive.org/download/el_pais-2022/el_pais-2022-09-06T04:29:30.287490+02:00.hyperlinks.json) |
-| [September 5 at 4:26 PM](https://archive.org/download/el_pais-2022/el_pais-2022-09-05T16:26:07.896895+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 87 accessibility trees with the Internet Archive.
+The archiving routine has saved 89 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 4:15 PM](https://archive.org/download/el_pais-2022/el_pais-2022-09-11T16:14:55.172629+02:00.accessibility.json) |
+| [September 11 at 4:29 AM](https://archive.org/download/el_pais-2022/el_pais-2022-09-11T04:29:23.892619+02:00.accessibility.json) |
 | [September 10 at 4:14 PM](https://archive.org/download/el_pais-2022/el_pais-2022-09-10T16:14:52.570048+02:00.accessibility.json) |
 | [September 10 at 4:30 AM](https://archive.org/download/el_pais-2022/el_pais-2022-09-10T04:29:56.929549+02:00.accessibility.json) |
 | [September 9 at 4:37 PM](https://archive.org/download/el_pais-2022/el_pais-2022-09-09T16:37:21.039469+02:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 8 at 4:36 AM](https://archive.org/download/el_pais-2022/el_pais-2022-09-08T04:36:23.894621+02:00.accessibility.json) |
 | [September 7 at 5:33 PM](https://archive.org/download/el_pais-2022/el_pais-2022-09-07T17:33:21.680664+02:00.accessibility.json) |
 | [September 7 at 4:35 AM](https://archive.org/download/el_pais-2022/el_pais-2022-09-07T04:35:09.227367+02:00.accessibility.json) |
-| [September 6 at 4:29 AM](https://archive.org/download/el_pais-2022/el_pais-2022-09-06T04:29:30.287490+02:00.accessibility.json) |
-| [September 5 at 4:26 PM](https://archive.org/download/el_pais-2022/el_pais-2022-09-05T16:26:07.896895+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 87 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 89 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 4:15 PM](https://archive.org/download/el_pais-2022/el_pais-2022-09-11T16:14:55.172629+02:00.lighthouse.json) |
+| [September 11 at 4:29 AM](https://archive.org/download/el_pais-2022/el_pais-2022-09-11T04:29:23.892619+02:00.lighthouse.json) |
 | [September 10 at 4:15 PM](https://archive.org/download/el_pais-2022/el_pais-2022-09-10T16:14:52.570048+02:00.lighthouse.json) |
 | [September 10 at 4:30 AM](https://archive.org/download/el_pais-2022/el_pais-2022-09-10T04:29:56.929549+02:00.lighthouse.json) |
 | [September 9 at 4:37 PM](https://archive.org/download/el_pais-2022/el_pais-2022-09-09T16:37:21.039469+02:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 8 at 4:36 AM](https://archive.org/download/el_pais-2022/el_pais-2022-09-08T04:36:23.894621+02:00.lighthouse.json) |
 | [September 7 at 5:33 PM](https://archive.org/download/el_pais-2022/el_pais-2022-09-07T17:33:21.680664+02:00.lighthouse.json) |
 | [September 7 at 4:35 AM](https://archive.org/download/el_pais-2022/el_pais-2022-09-07T04:35:09.227367+02:00.lighthouse.json) |
-| [September 6 at 4:29 AM](https://archive.org/download/el_pais-2022/el_pais-2022-09-06T04:29:30.287490+02:00.lighthouse.json) |
-| [September 5 at 4:26 PM](https://archive.org/download/el_pais-2022/el_pais-2022-09-05T16:26:07.896895+02:00.lighthouse.json) |
 
 
 

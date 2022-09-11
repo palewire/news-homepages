@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 13 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 14 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         93
     </td>
     <td style="text-align: right;">
-        173
+        172
     </td>
   </tr>
 
@@ -192,11 +192,11 @@ The median score for each category, along with how it ranks in comparison to the
     <td>
         Best practices
     </td>
-    <td style="text-align: right; background-color: green; color: white;">
-        92
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
     </td>
     <td style="text-align: right;">
-        130
+        381
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        15
+        12
     </td>
     <td style="text-align: right;">
-        721
+        788
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         84
     </td>
     <td style="text-align: right;">
-        551
+        553
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 133 screenshots with the Internet Archive.
+The archiving routine has saved 135 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/news3lv-2022/news3lv-2022-09-10T17:17:54.774675-07:00.jpg">
+  <img src="https://archive.org/download/news3lv-2022/news3lv-2022-09-10T17:17:54.774675-07:00.jpg"
+     alt="KSNV News 3 at 2022-09-10 17:17:59-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news3lv-2022/news3lv-2022-09-10T17:17:54.774675-07:00.jpg">September 10 at 5:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news3lv-2022/news3lv-2022-09-10T05:01:52.428538-07:00.jpg">
+  <img src="https://archive.org/download/news3lv-2022/news3lv-2022-09-10T05:01:52.428538-07:00.jpg"
+     alt="KSNV News 3 at 2022-09-10 05:01:54-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news3lv-2022/news3lv-2022-09-10T05:01:52.428538-07:00.jpg">September 10 at 5:01 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/news3lv-2022/news3lv-2022-09-09T17:10:23.974497-07:00.jpg">
   <img src="https://archive.org/download/news3lv-2022/news3lv-2022-09-09T17:10:23.974497-07:00.jpg"
      alt="KSNV News 3 at 2022-09-09 17:10:25-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/news3lv-2022/news3lv-2022-09-04T04:59:59.731037-07:00.jpg">September 4 at 5:00 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/news3lv-2022/news3lv-2022-09-03T16:51:19.769463-07:00.jpg">
-  <img src="https://archive.org/download/news3lv-2022/news3lv-2022-09-03T16:51:19.769463-07:00.jpg"
-     alt="KSNV News 3 at 2022-09-03 16:51:26-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/news3lv-2022/news3lv-2022-09-03T16:51:19.769463-07:00.jpg">September 3 at 4:51 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/news3lv-2022/news3lv-2022-09-03T05:06:13.291930-07:00.jpg">
-  <img src="https://archive.org/download/news3lv-2022/news3lv-2022-09-03T05:06:13.291930-07:00.jpg"
-     alt="KSNV News 3 at 2022-09-03 05:06:18-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/news3lv-2022/news3lv-2022-09-03T05:06:13.291930-07:00.jpg">September 3 at 5:06 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 125 hyperlink lists with the Internet Archive.
+The archiving routine has saved 127 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 10 at 5:18 PM](https://archive.org/download/news3lv-2022/news3lv-2022-09-10T17:17:54.774675-07:00.hyperlinks.json) |
+| [September 10 at 5:01 AM](https://archive.org/download/news3lv-2022/news3lv-2022-09-10T05:01:52.428538-07:00.hyperlinks.json) |
 | [September 9 at 5:10 PM](https://archive.org/download/news3lv-2022/news3lv-2022-09-09T17:10:23.974497-07:00.hyperlinks.json) |
 | [September 9 at 5:20 AM](https://archive.org/download/news3lv-2022/news3lv-2022-09-09T05:19:59.925800-07:00.hyperlinks.json) |
 | [September 8 at 5:10 PM](https://archive.org/download/news3lv-2022/news3lv-2022-09-08T17:10:04.771411-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 5:45 AM](https://archive.org/download/news3lv-2022/news3lv-2022-09-07T05:44:40.214796-07:00.hyperlinks.json) |
 | [September 6 at 5:16 PM](https://archive.org/download/news3lv-2022/news3lv-2022-09-06T17:16:46.963775-07:00.hyperlinks.json) |
 | [September 5 at 5:01 PM](https://archive.org/download/news3lv-2022/news3lv-2022-09-05T17:01:26.507919-07:00.hyperlinks.json) |
-| [September 4 at 4:58 PM](https://archive.org/download/news3lv-2022/news3lv-2022-09-04T16:58:37.597305-07:00.hyperlinks.json) |
-| [September 4 at 5:00 AM](https://archive.org/download/news3lv-2022/news3lv-2022-09-04T04:59:59.731037-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 133 accessibility trees with the Internet Archive.
+The archiving routine has saved 135 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 10 at 5:18 PM](https://archive.org/download/news3lv-2022/news3lv-2022-09-10T17:17:54.774675-07:00.accessibility.json) |
+| [September 10 at 5:01 AM](https://archive.org/download/news3lv-2022/news3lv-2022-09-10T05:01:52.428538-07:00.accessibility.json) |
 | [September 9 at 5:10 PM](https://archive.org/download/news3lv-2022/news3lv-2022-09-09T17:10:23.974497-07:00.accessibility.json) |
 | [September 9 at 5:20 AM](https://archive.org/download/news3lv-2022/news3lv-2022-09-09T05:19:59.925800-07:00.accessibility.json) |
 | [September 8 at 5:10 PM](https://archive.org/download/news3lv-2022/news3lv-2022-09-08T17:10:04.771411-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 5:45 AM](https://archive.org/download/news3lv-2022/news3lv-2022-09-07T05:44:40.214796-07:00.accessibility.json) |
 | [September 6 at 5:16 PM](https://archive.org/download/news3lv-2022/news3lv-2022-09-06T17:16:46.963775-07:00.accessibility.json) |
 | [September 5 at 5:01 PM](https://archive.org/download/news3lv-2022/news3lv-2022-09-05T17:01:26.507919-07:00.accessibility.json) |
-| [September 5 at 5:23 AM](https://archive.org/download/news3lv-2022/news3lv-2022-09-05T05:23:03.103197-07:00.accessibility.json) |
-| [September 4 at 4:58 PM](https://archive.org/download/news3lv-2022/news3lv-2022-09-04T16:58:37.597305-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 97 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 99 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 10 at 5:18 PM](https://archive.org/download/news3lv-2022/news3lv-2022-09-10T17:17:54.774675-07:00.lighthouse.json) |
+| [September 10 at 5:01 AM](https://archive.org/download/news3lv-2022/news3lv-2022-09-10T05:01:52.428538-07:00.lighthouse.json) |
 | [September 9 at 5:10 PM](https://archive.org/download/news3lv-2022/news3lv-2022-09-09T17:10:23.974497-07:00.lighthouse.json) |
 | [September 9 at 5:20 AM](https://archive.org/download/news3lv-2022/news3lv-2022-09-09T05:19:59.925800-07:00.lighthouse.json) |
 | [September 8 at 5:10 PM](https://archive.org/download/news3lv-2022/news3lv-2022-09-08T17:10:04.771411-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 5:45 AM](https://archive.org/download/news3lv-2022/news3lv-2022-09-07T05:44:40.214796-07:00.lighthouse.json) |
 | [September 6 at 5:16 PM](https://archive.org/download/news3lv-2022/news3lv-2022-09-06T17:16:46.963775-07:00.lighthouse.json) |
 | [September 5 at 5:01 PM](https://archive.org/download/news3lv-2022/news3lv-2022-09-05T17:01:26.507919-07:00.lighthouse.json) |
-| [September 5 at 5:23 AM](https://archive.org/download/news3lv-2022/news3lv-2022-09-05T05:23:03.103197-07:00.lighthouse.json) |
-| [September 4 at 4:58 PM](https://archive.org/download/news3lv-2022/news3lv-2022-09-04T16:58:37.597305-07:00.lighthouse.json) |
 
 
 

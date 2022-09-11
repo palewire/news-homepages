@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 11 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         93
     </td>
     <td style="text-align: right;">
-        173
+        172
     </td>
   </tr>
 
@@ -193,10 +193,10 @@ The median score for each category, along with how it ranks in comparison to the
         Best practices
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        67
+        83
     </td>
     <td style="text-align: right;">
-        715
+        381
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        58
+        62
     </td>
     <td style="text-align: right;">
-        123
+        110
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         93
     </td>
     <td style="text-align: right;">
-        149
+        150
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 37 screenshots with the Internet Archive.
+The archiving routine has saved 39 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-11T17:04:01.805694+02:00.jpg">
+  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-11T17:04:01.805694+02:00.jpg"
+     alt="Eyewitness News at 2022-09-11 17:04:04+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-11T17:04:01.805694+02:00.jpg">September 11 at 5:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-11T05:49:14.377397+02:00.jpg">
+  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-11T05:49:14.377397+02:00.jpg"
+     alt="Eyewitness News at 2022-09-11 05:49:17+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-11T05:49:14.377397+02:00.jpg">September 11 at 5:49 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-10T17:01:33.132699+02:00.jpg">
   <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-10T17:01:33.132699+02:00.jpg"
      alt="Eyewitness News at 2022-09-10 17:01:36+02:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-05T18:13:39.663051+02:00.jpg">September 5 at 6:13 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-05T05:40:54.744760+02:00.jpg">
-  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-05T05:40:54.744760+02:00.jpg"
-     alt="Eyewitness News at 2022-09-05 05:40:56+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-05T05:40:54.744760+02:00.jpg">September 5 at 5:40 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-04T18:32:50.965136+02:00.jpg">
-  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-04T18:32:50.965136+02:00.jpg"
-     alt="Eyewitness News at 2022-09-04 18:32:53+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-04T18:32:50.965136+02:00.jpg">September 4 at 6:32 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 37 hyperlink lists with the Internet Archive.
+The archiving routine has saved 39 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 5:04 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-11T17:04:01.805694+02:00.hyperlinks.json) |
+| [September 11 at 5:49 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-11T05:49:14.377397+02:00.hyperlinks.json) |
 | [September 10 at 5:01 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-10T17:01:33.132699+02:00.hyperlinks.json) |
 | [September 10 at 5:50 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-10T05:50:04.023309+02:00.hyperlinks.json) |
 | [September 9 at 6:23 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-09T18:22:48.943877+02:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 8 at 5:48 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-08T05:48:16.673839+02:00.hyperlinks.json) |
 | [September 7 at 5:37 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-07T17:37:15.662547+02:00.hyperlinks.json) |
 | [September 7 at 5:55 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-07T05:55:09.017691+02:00.hyperlinks.json) |
-| [September 6 at 5:53 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-06T05:53:22.877611+02:00.hyperlinks.json) |
-| [September 5 at 6:13 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-05T18:13:39.663051+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 36 accessibility trees with the Internet Archive.
+The archiving routine has saved 38 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 5:04 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-11T17:04:01.805694+02:00.accessibility.json) |
+| [September 11 at 5:49 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-11T05:49:14.377397+02:00.accessibility.json) |
 | [September 10 at 5:01 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-10T17:01:33.132699+02:00.accessibility.json) |
 | [September 10 at 5:50 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-10T05:50:04.023309+02:00.accessibility.json) |
 | [September 9 at 6:22 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-09T18:22:48.943877+02:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 8 at 5:48 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-08T05:48:16.673839+02:00.accessibility.json) |
 | [September 7 at 5:37 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-07T17:37:15.662547+02:00.accessibility.json) |
 | [September 7 at 5:55 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-07T05:55:09.017691+02:00.accessibility.json) |
-| [September 6 at 5:53 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-06T05:53:22.877611+02:00.accessibility.json) |
-| [September 5 at 6:13 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-05T18:13:39.663051+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 37 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 5:04 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-11T17:04:01.805694+02:00.lighthouse.json) |
+| [September 11 at 5:49 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-11T05:49:14.377397+02:00.lighthouse.json) |
 | [September 10 at 5:01 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-10T17:01:33.132699+02:00.lighthouse.json) |
 | [September 10 at 5:50 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-10T05:50:04.023309+02:00.lighthouse.json) |
 | [September 9 at 6:23 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-09T18:22:48.943877+02:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 8 at 5:48 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-08T05:48:16.673839+02:00.lighthouse.json) |
 | [September 7 at 5:37 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-07T17:37:15.662547+02:00.lighthouse.json) |
 | [September 7 at 5:55 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-07T05:55:09.017691+02:00.lighthouse.json) |
-| [September 6 at 5:53 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-06T05:53:22.877611+02:00.lighthouse.json) |
-| [September 5 at 6:13 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-05T18:13:39.663051+02:00.lighthouse.json) |
 
 
 

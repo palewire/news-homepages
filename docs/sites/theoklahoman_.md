@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 11 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -181,10 +181,10 @@ The median score for each category, along with how it ranks in comparison to the
         Accessibility
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        88
+        87
     </td>
     <td style="text-align: right;">
-        297
+        362
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         92
     </td>
     <td style="text-align: right;">
-        130
+        122
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        80
+        78
     </td>
     <td style="text-align: right;">
-        51
+        50
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         93
     </td>
     <td style="text-align: right;">
-        149
+        150
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 172 screenshots with the Internet Archive.
+The archiving routine has saved 174 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-11T08:06:47.832790-05:00.jpg">
+  <img src="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-11T08:06:47.832790-05:00.jpg"
+     alt="Oklahoman at 2022-09-11 08:06:49-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-11T08:06:47.832790-05:00.jpg">September 11 at 8:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-10T20:24:50.489632-05:00.jpg">
+  <img src="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-10T20:24:50.489632-05:00.jpg"
+     alt="Oklahoman at 2022-09-10 20:24:53-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-10T20:24:50.489632-05:00.jpg">September 10 at 8:24 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-10T08:09:18.133565-05:00.jpg">
   <img src="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-10T08:09:18.133565-05:00.jpg"
      alt="Oklahoman at 2022-09-10 08:09:19-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-05T09:12:47.318698-05:00.jpg">September 5 at 9:12 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-04T20:25:33.815804-05:00.jpg">
-  <img src="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-04T20:25:33.815804-05:00.jpg"
-     alt="Oklahoman at 2022-09-04 20:25:34-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-04T20:25:33.815804-05:00.jpg">September 4 at 8:25 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-04T07:59:30.438691-05:00.jpg">
-  <img src="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-04T07:59:30.438691-05:00.jpg"
-     alt="Oklahoman at 2022-09-04 07:59:36-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-04T07:59:30.438691-05:00.jpg">September 4 at 7:59 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 167 hyperlink lists with the Internet Archive.
+The archiving routine has saved 169 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 8:06 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-11T08:06:47.832790-05:00.hyperlinks.json) |
+| [September 10 at 8:24 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-10T20:24:50.489632-05:00.hyperlinks.json) |
 | [September 10 at 8:09 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-10T08:09:18.133565-05:00.hyperlinks.json) |
 | [September 9 at 8:27 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-09T20:27:50.744902-05:00.hyperlinks.json) |
 | [September 9 at 8:27 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-09T08:27:02.344973-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 8:27 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-07T20:27:45.166421-05:00.hyperlinks.json) |
 | [September 7 at 8:50 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-07T08:50:46.914422-05:00.hyperlinks.json) |
 | [September 6 at 8:23 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-06T20:23:27.356938-05:00.hyperlinks.json) |
-| [September 5 at 8:27 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-05T20:27:43.790469-05:00.hyperlinks.json) |
-| [September 5 at 9:12 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-05T09:12:47.318698-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 170 accessibility trees with the Internet Archive.
+The archiving routine has saved 172 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 8:06 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-11T08:06:47.832790-05:00.accessibility.json) |
+| [September 10 at 8:24 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-10T20:24:50.489632-05:00.accessibility.json) |
 | [September 10 at 8:09 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-10T08:09:18.133565-05:00.accessibility.json) |
 | [September 9 at 8:27 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-09T20:27:50.744902-05:00.accessibility.json) |
 | [September 9 at 8:27 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-09T08:27:02.344973-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 8:27 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-07T20:27:45.166421-05:00.accessibility.json) |
 | [September 7 at 8:50 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-07T08:50:46.914422-05:00.accessibility.json) |
 | [September 5 at 8:27 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-05T20:27:43.790469-05:00.accessibility.json) |
-| [September 5 at 9:12 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-05T09:12:47.318698-05:00.accessibility.json) |
-| [September 4 at 8:25 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-04T20:25:33.815804-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 99 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 101 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 8:06 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-11T08:06:47.832790-05:00.lighthouse.json) |
+| [September 10 at 8:24 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-10T20:24:50.489632-05:00.lighthouse.json) |
 | [September 10 at 8:09 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-10T08:09:18.133565-05:00.lighthouse.json) |
 | [September 9 at 8:27 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-09T20:27:50.744902-05:00.lighthouse.json) |
 | [September 9 at 8:27 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-09T08:27:02.344973-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 8:27 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-07T20:27:45.166421-05:00.lighthouse.json) |
 | [September 7 at 8:50 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-07T08:50:46.914422-05:00.lighthouse.json) |
 | [September 6 at 8:23 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-06T20:23:27.356938-05:00.lighthouse.json) |
-| [September 5 at 8:27 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-05T20:27:43.790469-05:00.lighthouse.json) |
-| [September 5 at 9:12 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-09-05T09:12:47.318698-05:00.lighthouse.json) |
 
 
 

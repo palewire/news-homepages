@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 11 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -181,10 +181,10 @@ The median score for each category, along with how it ranks in comparison to the
         Accessibility
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        86
+        85
     </td>
     <td style="text-align: right;">
-        414
+        447
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         92
     </td>
     <td style="text-align: right;">
-        130
+        122
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        28
+        23
     </td>
     <td style="text-align: right;">
-        403
+        523
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         91
     </td>
     <td style="text-align: right;">
-        280
+        277
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 105 screenshots with the Internet Archive.
+The archiving routine has saved 107 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/walbnews10-2022/walbnews10-2022-09-11T10:16:39.515759-04:00.jpg">
+  <img src="https://archive.org/download/walbnews10-2022/walbnews10-2022-09-11T10:16:39.515759-04:00.jpg"
+     alt="WALB News 10 at 2022-09-11 10:16:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/walbnews10-2022/walbnews10-2022-09-11T10:16:39.515759-04:00.jpg">September 11 at 10:16 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/walbnews10-2022/walbnews10-2022-09-10T22:31:32.750784-04:00.jpg">
+  <img src="https://archive.org/download/walbnews10-2022/walbnews10-2022-09-10T22:31:32.750784-04:00.jpg"
+     alt="WALB News 10 at 2022-09-10 22:31:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/walbnews10-2022/walbnews10-2022-09-10T22:31:32.750784-04:00.jpg">September 10 at 10:31 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/walbnews10-2022/walbnews10-2022-09-10T10:17:12.955860-04:00.jpg">
   <img src="https://archive.org/download/walbnews10-2022/walbnews10-2022-09-10T10:17:12.955860-04:00.jpg"
      alt="WALB News 10 at 2022-09-10 10:17:16-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/walbnews10-2022/walbnews10-2022-09-05T10:27:07.134203-04:00.jpg">September 5 at 10:27 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/walbnews10-2022/walbnews10-2022-09-04T22:33:40.988295-04:00.jpg">
-  <img src="https://archive.org/download/walbnews10-2022/walbnews10-2022-09-04T22:33:40.988295-04:00.jpg"
-     alt="WALB News 10 at 2022-09-04 22:33:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/walbnews10-2022/walbnews10-2022-09-04T22:33:40.988295-04:00.jpg">September 4 at 10:33 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/walbnews10-2022/walbnews10-2022-09-04T10:32:41.819523-04:00.jpg">
-  <img src="https://archive.org/download/walbnews10-2022/walbnews10-2022-09-04T10:32:41.819523-04:00.jpg"
-     alt="WALB News 10 at 2022-09-04 10:32:48-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/walbnews10-2022/walbnews10-2022-09-04T10:32:41.819523-04:00.jpg">September 4 at 10:32 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 106 hyperlink lists with the Internet Archive.
+The archiving routine has saved 108 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 10:16 AM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-11T10:16:39.515759-04:00.hyperlinks.json) |
+| [September 10 at 10:31 PM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-10T22:31:32.750784-04:00.hyperlinks.json) |
 | [September 10 at 10:17 AM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-10T10:17:12.955860-04:00.hyperlinks.json) |
 | [September 9 at 10:32 PM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-09T22:32:11.406376-04:00.hyperlinks.json) |
 | [September 9 at 10:39 AM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-09T10:39:12.076614-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 10:38 PM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-07T22:38:13.465809-04:00.hyperlinks.json) |
 | [September 7 at 11:35 AM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-07T11:35:31.251602-04:00.hyperlinks.json) |
 | [September 6 at 10:36 PM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-06T22:36:30.538679-04:00.hyperlinks.json) |
-| [September 5 at 10:32 PM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-05T22:31:49.110076-04:00.hyperlinks.json) |
-| [September 5 at 10:27 AM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-05T10:27:07.134203-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 105 accessibility trees with the Internet Archive.
+The archiving routine has saved 107 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 10:16 AM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-11T10:16:39.515759-04:00.accessibility.json) |
+| [September 10 at 10:31 PM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-10T22:31:32.750784-04:00.accessibility.json) |
 | [September 10 at 10:17 AM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-10T10:17:12.955860-04:00.accessibility.json) |
 | [September 9 at 10:32 PM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-09T22:32:11.406376-04:00.accessibility.json) |
 | [September 9 at 10:39 AM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-09T10:39:12.076614-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 10:38 PM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-07T22:38:13.465809-04:00.accessibility.json) |
 | [September 7 at 11:35 AM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-07T11:35:31.251602-04:00.accessibility.json) |
 | [September 6 at 10:36 PM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-06T22:36:30.538679-04:00.accessibility.json) |
-| [September 5 at 10:31 PM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-05T22:31:49.110076-04:00.accessibility.json) |
-| [September 5 at 10:27 AM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-05T10:27:07.134203-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 99 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 101 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 10:16 AM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-11T10:16:39.515759-04:00.lighthouse.json) |
+| [September 10 at 10:31 PM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-10T22:31:32.750784-04:00.lighthouse.json) |
 | [September 10 at 10:17 AM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-10T10:17:12.955860-04:00.lighthouse.json) |
 | [September 9 at 10:32 PM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-09T22:32:11.406376-04:00.lighthouse.json) |
 | [September 9 at 10:39 AM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-09T10:39:12.076614-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 10:38 PM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-07T22:38:13.465809-04:00.lighthouse.json) |
 | [September 7 at 11:35 AM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-07T11:35:31.251602-04:00.lighthouse.json) |
 | [September 6 at 10:36 PM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-06T22:36:30.538679-04:00.lighthouse.json) |
-| [September 5 at 10:32 PM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-05T22:31:49.110076-04:00.lighthouse.json) |
-| [September 5 at 10:27 AM](https://archive.org/download/walbnews10-2022/walbnews10-2022-09-05T10:27:07.134203-04:00.lighthouse.json) |
 
 
 

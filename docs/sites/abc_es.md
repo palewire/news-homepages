@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 11 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         81
     </td>
     <td style="text-align: right;">
-        551
+        557
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         75
     </td>
     <td style="text-align: right;">
-        581
+        603
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        40
+        37
     </td>
     <td style="text-align: right;">
-        268
+        306
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         83
     </td>
     <td style="text-align: right;">
-        628
+        635
     </td>
   </tr>
 
@@ -291,7 +291,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 89 hyperlink lists with the Internet Archive.
+The archiving routine has saved 91 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -382,6 +382,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 4:06 PM](https://archive.org/download/abc_es-2022/abc_es-2022-09-11T16:06:24.637351+02:00.hyperlinks.json) |
+| [September 11 at 4:25 AM](https://archive.org/download/abc_es-2022/abc_es-2022-09-11T04:25:23.118136+02:00.hyperlinks.json) |
 | [September 10 at 4:06 PM](https://archive.org/download/abc_es-2022/abc_es-2022-09-10T16:06:15.689325+02:00.hyperlinks.json) |
 | [September 10 at 4:25 AM](https://archive.org/download/abc_es-2022/abc_es-2022-09-10T04:25:36.795360+02:00.hyperlinks.json) |
 | [September 9 at 4:26 PM](https://archive.org/download/abc_es-2022/abc_es-2022-09-09T16:26:35.471790+02:00.hyperlinks.json) |
@@ -390,8 +392,6 @@ Here are the 10 most recent hyperlink lists.
 | [September 8 at 4:31 AM](https://archive.org/download/abc_es-2022/abc_es-2022-09-08T04:31:34.672323+02:00.hyperlinks.json) |
 | [September 7 at 5:28 PM](https://archive.org/download/abc_es-2022/abc_es-2022-09-07T17:28:27.275412+02:00.hyperlinks.json) |
 | [September 7 at 4:31 AM](https://archive.org/download/abc_es-2022/abc_es-2022-09-07T04:31:15.501287+02:00.hyperlinks.json) |
-| [September 6 at 4:25 AM](https://archive.org/download/abc_es-2022/abc_es-2022-09-06T04:25:10.569150+02:00.hyperlinks.json) |
-| [September 5 at 4:15 PM](https://archive.org/download/abc_es-2022/abc_es-2022-09-05T16:15:38.455061+02:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -414,7 +414,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 89 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 91 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -505,6 +505,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 4:06 PM](https://archive.org/download/abc_es-2022/abc_es-2022-09-11T16:06:24.637351+02:00.lighthouse.json) |
+| [September 11 at 4:25 AM](https://archive.org/download/abc_es-2022/abc_es-2022-09-11T04:25:23.118136+02:00.lighthouse.json) |
 | [September 10 at 4:06 PM](https://archive.org/download/abc_es-2022/abc_es-2022-09-10T16:06:15.689325+02:00.lighthouse.json) |
 | [September 10 at 4:25 AM](https://archive.org/download/abc_es-2022/abc_es-2022-09-10T04:25:36.795360+02:00.lighthouse.json) |
 | [September 9 at 4:26 PM](https://archive.org/download/abc_es-2022/abc_es-2022-09-09T16:26:35.471790+02:00.lighthouse.json) |
@@ -513,8 +515,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 8 at 4:31 AM](https://archive.org/download/abc_es-2022/abc_es-2022-09-08T04:31:34.672323+02:00.lighthouse.json) |
 | [September 7 at 5:28 PM](https://archive.org/download/abc_es-2022/abc_es-2022-09-07T17:28:27.275412+02:00.lighthouse.json) |
 | [September 7 at 4:31 AM](https://archive.org/download/abc_es-2022/abc_es-2022-09-07T04:31:15.501287+02:00.lighthouse.json) |
-| [September 6 at 4:25 AM](https://archive.org/download/abc_es-2022/abc_es-2022-09-06T04:25:10.569150+02:00.lighthouse.json) |
-| [September 5 at 4:15 PM](https://archive.org/download/abc_es-2022/abc_es-2022-09-05T16:15:38.455061+02:00.lighthouse.json) |
 
 
 

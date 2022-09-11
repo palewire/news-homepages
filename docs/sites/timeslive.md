@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 11 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         91
     </td>
     <td style="text-align: right;">
-        223
+        225
     </td>
   </tr>
 
@@ -193,10 +193,10 @@ The median score for each category, along with how it ranks in comparison to the
         Best practices
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        83
+        75
     </td>
     <td style="text-align: right;">
-        404
+        603
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         23
     </td>
     <td style="text-align: right;">
-        513
+        523
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         93
     </td>
     <td style="text-align: right;">
-        149
+        150
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 37 screenshots with the Internet Archive.
+The archiving routine has saved 39 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/timeslive-2022/timeslive-2022-09-11T15:09:04.678991+02:00.jpg">
+  <img src="https://archive.org/download/timeslive-2022/timeslive-2022-09-11T15:09:04.678991+02:00.jpg"
+     alt="TimesLIVE at 2022-09-11 15:09:07+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/timeslive-2022/timeslive-2022-09-11T15:09:04.678991+02:00.jpg">September 11 at 3:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/timeslive-2022/timeslive-2022-09-11T03:26:32.537469+02:00.jpg">
+  <img src="https://archive.org/download/timeslive-2022/timeslive-2022-09-11T03:26:32.537469+02:00.jpg"
+     alt="TimesLIVE at 2022-09-11 03:26:34+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/timeslive-2022/timeslive-2022-09-11T03:26:32.537469+02:00.jpg">September 11 at 3:26 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/timeslive-2022/timeslive-2022-09-10T15:12:06.124005+02:00.jpg">
   <img src="https://archive.org/download/timeslive-2022/timeslive-2022-09-10T15:12:06.124005+02:00.jpg"
      alt="TimesLIVE at 2022-09-10 15:12:10+02:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/timeslive-2022/timeslive-2022-09-05T16:13:55.702687+02:00.jpg">September 5 at 4:13 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/timeslive-2022/timeslive-2022-09-05T03:27:04.829953+02:00.jpg">
-  <img src="https://archive.org/download/timeslive-2022/timeslive-2022-09-05T03:27:04.829953+02:00.jpg"
-     alt="TimesLIVE at 2022-09-05 03:27:07+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/timeslive-2022/timeslive-2022-09-05T03:27:04.829953+02:00.jpg">September 5 at 3:27 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/timeslive-2022/timeslive-2022-09-04T15:00:42.427366+02:00.jpg">
-  <img src="https://archive.org/download/timeslive-2022/timeslive-2022-09-04T15:00:42.427366+02:00.jpg"
-     alt="TimesLIVE at 2022-09-04 15:00:44+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/timeslive-2022/timeslive-2022-09-04T15:00:42.427366+02:00.jpg">September 4 at 3:00 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 37 hyperlink lists with the Internet Archive.
+The archiving routine has saved 39 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 3:09 PM](https://archive.org/download/timeslive-2022/timeslive-2022-09-11T15:09:04.678991+02:00.hyperlinks.json) |
+| [September 11 at 3:26 AM](https://archive.org/download/timeslive-2022/timeslive-2022-09-11T03:26:32.537469+02:00.hyperlinks.json) |
 | [September 10 at 3:12 PM](https://archive.org/download/timeslive-2022/timeslive-2022-09-10T15:12:06.124005+02:00.hyperlinks.json) |
 | [September 10 at 3:30 AM](https://archive.org/download/timeslive-2022/timeslive-2022-09-10T03:30:06.183980+02:00.hyperlinks.json) |
 | [September 9 at 3:26 PM](https://archive.org/download/timeslive-2022/timeslive-2022-09-09T15:26:54.641668+02:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 8 at 3:29 AM](https://archive.org/download/timeslive-2022/timeslive-2022-09-08T03:29:16.411702+02:00.hyperlinks.json) |
 | [September 7 at 3:52 PM](https://archive.org/download/timeslive-2022/timeslive-2022-09-07T15:52:45.302410+02:00.hyperlinks.json) |
 | [September 7 at 3:25 AM](https://archive.org/download/timeslive-2022/timeslive-2022-09-07T03:25:23.117068+02:00.hyperlinks.json) |
-| [September 6 at 3:30 AM](https://archive.org/download/timeslive-2022/timeslive-2022-09-06T03:30:34.077557+02:00.hyperlinks.json) |
-| [September 5 at 4:14 PM](https://archive.org/download/timeslive-2022/timeslive-2022-09-05T16:13:55.702687+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 37 accessibility trees with the Internet Archive.
+The archiving routine has saved 39 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 3:09 PM](https://archive.org/download/timeslive-2022/timeslive-2022-09-11T15:09:04.678991+02:00.accessibility.json) |
+| [September 11 at 3:26 AM](https://archive.org/download/timeslive-2022/timeslive-2022-09-11T03:26:32.537469+02:00.accessibility.json) |
 | [September 10 at 3:12 PM](https://archive.org/download/timeslive-2022/timeslive-2022-09-10T15:12:06.124005+02:00.accessibility.json) |
 | [September 10 at 3:30 AM](https://archive.org/download/timeslive-2022/timeslive-2022-09-10T03:30:06.183980+02:00.accessibility.json) |
 | [September 9 at 3:26 PM](https://archive.org/download/timeslive-2022/timeslive-2022-09-09T15:26:54.641668+02:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 8 at 3:29 AM](https://archive.org/download/timeslive-2022/timeslive-2022-09-08T03:29:16.411702+02:00.accessibility.json) |
 | [September 7 at 3:52 PM](https://archive.org/download/timeslive-2022/timeslive-2022-09-07T15:52:45.302410+02:00.accessibility.json) |
 | [September 7 at 3:25 AM](https://archive.org/download/timeslive-2022/timeslive-2022-09-07T03:25:23.117068+02:00.accessibility.json) |
-| [September 6 at 3:30 AM](https://archive.org/download/timeslive-2022/timeslive-2022-09-06T03:30:34.077557+02:00.accessibility.json) |
-| [September 5 at 4:13 PM](https://archive.org/download/timeslive-2022/timeslive-2022-09-05T16:13:55.702687+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 37 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 3:09 PM](https://archive.org/download/timeslive-2022/timeslive-2022-09-11T15:09:04.678991+02:00.lighthouse.json) |
+| [September 11 at 3:26 AM](https://archive.org/download/timeslive-2022/timeslive-2022-09-11T03:26:32.537469+02:00.lighthouse.json) |
 | [September 10 at 3:12 PM](https://archive.org/download/timeslive-2022/timeslive-2022-09-10T15:12:06.124005+02:00.lighthouse.json) |
 | [September 10 at 3:30 AM](https://archive.org/download/timeslive-2022/timeslive-2022-09-10T03:30:06.183980+02:00.lighthouse.json) |
 | [September 9 at 3:27 PM](https://archive.org/download/timeslive-2022/timeslive-2022-09-09T15:26:54.641668+02:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 8 at 3:29 AM](https://archive.org/download/timeslive-2022/timeslive-2022-09-08T03:29:16.411702+02:00.lighthouse.json) |
 | [September 7 at 3:52 PM](https://archive.org/download/timeslive-2022/timeslive-2022-09-07T15:52:45.302410+02:00.lighthouse.json) |
 | [September 7 at 3:25 AM](https://archive.org/download/timeslive-2022/timeslive-2022-09-07T03:25:23.117068+02:00.lighthouse.json) |
-| [September 6 at 3:30 AM](https://archive.org/download/timeslive-2022/timeslive-2022-09-06T03:30:34.077557+02:00.lighthouse.json) |
-| [September 5 at 4:14 PM](https://archive.org/download/timeslive-2022/timeslive-2022-09-05T16:13:55.702687+02:00.lighthouse.json) |
 
 
 

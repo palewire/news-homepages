@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 24 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 31 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         87
     </td>
     <td style="text-align: right;">
-        365
+        362
     </td>
   </tr>
 
@@ -192,11 +192,11 @@ The median score for each category, along with how it ranks in comparison to the
     <td>
         Best practices
     </td>
-    <td style="text-align: right; background-color: green; color: white;">
-        92
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
     </td>
     <td style="text-align: right;">
-        130
+        381
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         43
     </td>
     <td style="text-align: right;">
-        236
+        251
     </td>
   </tr>
 
@@ -217,10 +217,10 @@ The median score for each category, along with how it ranks in comparison to the
         SEO
     </td>
     <td style="text-align: right; background-color: green; color: white;">
-        91
+        90
     </td>
     <td style="text-align: right;">
-        280
+        374
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 315 screenshots with the Internet Archive.
+The archiving routine has saved 320 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,51 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-11T17:19:08.187979-04:00.jpg">
+  <img src="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-11T17:19:08.187979-04:00.jpg"
+     alt="Yahoo! News at 2022-09-11 17:19:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-11T17:19:08.187979-04:00.jpg">September 11 at 5:19 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-11T10:16:39.855059-04:00.jpg">
+  <img src="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-11T10:16:39.855059-04:00.jpg"
+     alt="Yahoo! News at 2022-09-11 10:16:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-11T10:16:39.855059-04:00.jpg">September 11 at 10:16 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-11T08:58:44.701226-04:00.jpg">
+  <img src="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-11T08:58:44.701226-04:00.jpg"
+     alt="Yahoo! News at 2022-09-11 08:58:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-11T08:58:44.701226-04:00.jpg">September 11 at 8:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-10T22:31:52.500911-04:00.jpg">
+  <img src="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-10T22:31:52.500911-04:00.jpg"
+     alt="Yahoo! News at 2022-09-10 22:32:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-10T22:31:52.500911-04:00.jpg">September 10 at 10:32 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-10T17:19:27.185717-04:00.jpg">
+  <img src="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-10T17:19:27.185717-04:00.jpg"
+     alt="Yahoo! News at 2022-09-10 17:19:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-10T17:19:27.185717-04:00.jpg">September 10 at 5:19 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-10T10:16:27.677397-04:00.jpg">
   <img src="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-10T10:16:27.677397-04:00.jpg"
      alt="Yahoo! News at 2022-09-10 10:16:29-04:00 local time"
@@ -388,56 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-08T22:34:45.836953-04:00.jpg">September 8 at 10:34 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-08T17:25:53.416340-04:00.jpg">
-  <img src="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-08T17:25:53.416340-04:00.jpg"
-     alt="Yahoo! News at 2022-09-08 17:25:55-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-08T17:25:53.416340-04:00.jpg">September 8 at 5:25 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-08T15:04:16.148646-04:00.jpg">
-  <img src="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-08T15:04:16.148646-04:00.jpg"
-     alt="Yahoo! News at 2022-09-08 15:04:18-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-08T15:04:16.148646-04:00.jpg">September 8 at 3:04 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-08T10:29:11.284656-04:00.jpg">
-  <img src="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-08T10:29:11.284656-04:00.jpg"
-     alt="Yahoo! News at 2022-09-08 10:29:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-08T10:29:11.284656-04:00.jpg">September 8 at 10:29 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-08T09:21:44.264601-04:00.jpg">
-  <img src="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-08T09:21:44.264601-04:00.jpg"
-     alt="Yahoo! News at 2022-09-08 09:22:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-08T09:21:44.264601-04:00.jpg">September 8 at 9:22 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-07T22:38:51.233880-04:00.jpg">
-  <img src="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-07T22:38:51.233880-04:00.jpg"
-     alt="Yahoo! News at 2022-09-07 22:39:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/yahoonews-2022/yahoonews-2022-09-07T22:38:51.233880-04:00.jpg">September 7 at 10:39 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 317 hyperlink lists with the Internet Archive.
+The archiving routine has saved 322 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 5:19 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-11T17:19:08.187979-04:00.hyperlinks.json) |
+| [September 11 at 10:16 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-11T10:16:39.855059-04:00.hyperlinks.json) |
+| [September 11 at 8:58 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-11T08:58:44.701226-04:00.hyperlinks.json) |
+| [September 10 at 10:32 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-10T22:31:52.500911-04:00.hyperlinks.json) |
+| [September 10 at 5:19 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-10T17:19:27.185717-04:00.hyperlinks.json) |
 | [September 10 at 10:16 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-10T10:16:27.677397-04:00.hyperlinks.json) |
 | [September 10 at 9:01 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-10T09:01:17.272286-04:00.hyperlinks.json) |
 | [September 9 at 10:32 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-09T22:32:23.319771-04:00.hyperlinks.json) |
 | [September 9 at 5:19 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-09T17:18:57.020706-04:00.hyperlinks.json) |
 | [September 9 at 10:39 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-09T10:38:56.900201-04:00.hyperlinks.json) |
-| [September 9 at 9:29 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-09T09:29:36.303898-04:00.hyperlinks.json) |
-| [September 8 at 10:34 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-08T22:34:45.836953-04:00.hyperlinks.json) |
-| [September 8 at 5:25 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-08T17:25:53.416340-04:00.hyperlinks.json) |
-| [September 8 at 3:04 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-08T15:04:16.148646-04:00.hyperlinks.json) |
-| [September 8 at 10:29 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-08T10:29:11.284656-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 318 accessibility trees with the Internet Archive.
+The archiving routine has saved 323 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 5:19 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-11T17:19:08.187979-04:00.accessibility.json) |
+| [September 11 at 10:16 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-11T10:16:39.855059-04:00.accessibility.json) |
+| [September 11 at 8:58 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-11T08:58:44.701226-04:00.accessibility.json) |
+| [September 10 at 10:32 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-10T22:31:52.500911-04:00.accessibility.json) |
+| [September 10 at 5:19 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-10T17:19:27.185717-04:00.accessibility.json) |
 | [September 10 at 10:16 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-10T10:16:27.677397-04:00.accessibility.json) |
 | [September 10 at 9:01 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-10T09:01:17.272286-04:00.accessibility.json) |
 | [September 9 at 10:32 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-09T22:32:23.319771-04:00.accessibility.json) |
 | [September 9 at 5:18 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-09T17:18:57.020706-04:00.accessibility.json) |
 | [September 9 at 10:39 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-09T10:38:56.900201-04:00.accessibility.json) |
-| [September 9 at 9:29 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-09T09:29:36.303898-04:00.accessibility.json) |
-| [September 8 at 10:34 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-08T22:34:45.836953-04:00.accessibility.json) |
-| [September 8 at 5:25 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-08T17:25:53.416340-04:00.accessibility.json) |
-| [September 8 at 3:04 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-08T15:04:16.148646-04:00.accessibility.json) |
-| [September 8 at 10:29 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-08T10:29:11.284656-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 192 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 197 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 5:19 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-11T17:19:08.187979-04:00.lighthouse.json) |
+| [September 11 at 10:16 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-11T10:16:39.855059-04:00.lighthouse.json) |
+| [September 11 at 8:58 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-11T08:58:44.701226-04:00.lighthouse.json) |
+| [September 10 at 10:32 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-10T22:31:52.500911-04:00.lighthouse.json) |
+| [September 10 at 5:19 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-10T17:19:27.185717-04:00.lighthouse.json) |
 | [September 10 at 10:16 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-10T10:16:27.677397-04:00.lighthouse.json) |
 | [September 10 at 9:01 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-10T09:01:17.272286-04:00.lighthouse.json) |
 | [September 9 at 10:32 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-09T22:32:23.319771-04:00.lighthouse.json) |
 | [September 9 at 5:19 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-09T17:18:57.020706-04:00.lighthouse.json) |
 | [September 9 at 10:39 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-09T10:38:56.900201-04:00.lighthouse.json) |
-| [September 9 at 9:29 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-09T09:29:36.303898-04:00.lighthouse.json) |
-| [September 8 at 10:34 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-08T22:34:45.836953-04:00.lighthouse.json) |
-| [September 8 at 5:26 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-08T17:25:53.416340-04:00.lighthouse.json) |
-| [September 8 at 3:04 PM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-08T15:04:16.148646-04:00.lighthouse.json) |
-| [September 8 at 10:29 AM](https://archive.org/download/yahoonews-2022/yahoonews-2022-09-08T10:29:11.284656-04:00.lighthouse.json) |
 
 
 

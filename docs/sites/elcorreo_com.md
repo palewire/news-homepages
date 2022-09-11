@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 11 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -181,10 +181,10 @@ The median score for each category, along with how it ranks in comparison to the
         Accessibility
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        58
+        61
     </td>
     <td style="text-align: right;">
-        834
+        846
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         75
     </td>
     <td style="text-align: right;">
-        581
+        603
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        16
+        15
     </td>
     <td style="text-align: right;">
-        685
+        733
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         83
     </td>
     <td style="text-align: right;">
-        628
+        635
     </td>
   </tr>
 
@@ -291,7 +291,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 86 hyperlink lists with the Internet Archive.
+The archiving routine has saved 88 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -382,6 +382,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 4:15 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-11T16:15:19.926286+02:00.hyperlinks.json) |
+| [September 11 at 4:29 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-11T04:29:52.165403+02:00.hyperlinks.json) |
 | [September 10 at 4:14 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-10T16:14:54.840722+02:00.hyperlinks.json) |
 | [September 10 at 4:30 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-10T04:30:10.907367+02:00.hyperlinks.json) |
 | [September 9 at 4:37 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-09T16:37:27.325554+02:00.hyperlinks.json) |
@@ -390,8 +392,6 @@ Here are the 10 most recent hyperlink lists.
 | [September 8 at 4:36 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-08T04:36:50.782475+02:00.hyperlinks.json) |
 | [September 7 at 5:33 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-07T17:33:20.869062+02:00.hyperlinks.json) |
 | [September 7 at 4:35 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-07T04:35:14.958829+02:00.hyperlinks.json) |
-| [September 6 at 4:29 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-06T04:29:25.372623+02:00.hyperlinks.json) |
-| [September 5 at 4:26 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-05T16:26:15.968587+02:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -414,7 +414,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 87 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 89 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -505,6 +505,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 4:15 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-11T16:15:19.926286+02:00.lighthouse.json) |
+| [September 11 at 4:29 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-11T04:29:52.165403+02:00.lighthouse.json) |
 | [September 10 at 4:15 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-10T16:14:54.840722+02:00.lighthouse.json) |
 | [September 10 at 4:30 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-10T04:30:10.907367+02:00.lighthouse.json) |
 | [September 9 at 4:37 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-09T16:37:27.325554+02:00.lighthouse.json) |
@@ -513,8 +515,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 8 at 4:36 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-08T04:36:50.782475+02:00.lighthouse.json) |
 | [September 7 at 5:33 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-07T17:33:20.869062+02:00.lighthouse.json) |
 | [September 7 at 4:35 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-07T04:35:14.958829+02:00.lighthouse.json) |
-| [September 6 at 4:29 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-06T04:29:25.372623+02:00.lighthouse.json) |
-| [September 5 at 4:26 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-09-05T16:26:15.968587+02:00.lighthouse.json) |
 
 
 

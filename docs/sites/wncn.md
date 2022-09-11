@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 11 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         78
     </td>
     <td style="text-align: right;">
-        639
+        650
     </td>
   </tr>
 
@@ -192,11 +192,11 @@ The median score for each category, along with how it ranks in comparison to the
     <td>
         Best practices
     </td>
-    <td style="text-align: right; background-color: green; color: white;">
-        92
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
     </td>
     <td style="text-align: right;">
-        130
+        381
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        16
+        15
     </td>
     <td style="text-align: right;">
-        685
+        733
     </td>
   </tr>
 
@@ -217,10 +217,10 @@ The median score for each category, along with how it ranks in comparison to the
         SEO
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        84
+        83
     </td>
     <td style="text-align: right;">
-        551
+        635
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 275 screenshots with the Internet Archive.
+The archiving routine has saved 277 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/wncn-2022/wncn-2022-09-11T10:17:19.759196-04:00.jpg">
+  <img src="https://archive.org/download/wncn-2022/wncn-2022-09-11T10:17:19.759196-04:00.jpg"
+     alt="CBS 17 at 2022-09-11 10:17:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wncn-2022/wncn-2022-09-11T10:17:19.759196-04:00.jpg">September 11 at 10:17 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wncn-2022/wncn-2022-09-10T22:31:31.319929-04:00.jpg">
+  <img src="https://archive.org/download/wncn-2022/wncn-2022-09-10T22:31:31.319929-04:00.jpg"
+     alt="CBS 17 at 2022-09-10 22:31:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wncn-2022/wncn-2022-09-10T22:31:31.319929-04:00.jpg">September 10 at 10:31 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/wncn-2022/wncn-2022-09-10T10:16:58.573621-04:00.jpg">
   <img src="https://archive.org/download/wncn-2022/wncn-2022-09-10T10:16:58.573621-04:00.jpg"
      alt="CBS 17 at 2022-09-10 10:17:00-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wncn-2022/wncn-2022-09-05T10:28:38.607131-04:00.jpg">September 5 at 10:28 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wncn-2022/wncn-2022-09-04T22:33:08.859315-04:00.jpg">
-  <img src="https://archive.org/download/wncn-2022/wncn-2022-09-04T22:33:08.859315-04:00.jpg"
-     alt="CBS 17 at 2022-09-04 22:33:16-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wncn-2022/wncn-2022-09-04T22:33:08.859315-04:00.jpg">September 4 at 10:33 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wncn-2022/wncn-2022-09-04T10:48:35.007083-04:00.jpg">
-  <img src="https://archive.org/download/wncn-2022/wncn-2022-09-04T10:48:35.007083-04:00.jpg"
-     alt="CBS 17 at 2022-09-04 10:48:43-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wncn-2022/wncn-2022-09-04T10:48:35.007083-04:00.jpg">September 4 at 10:48 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 275 hyperlink lists with the Internet Archive.
+The archiving routine has saved 277 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 10:17 AM](https://archive.org/download/wncn-2022/wncn-2022-09-11T10:17:19.759196-04:00.hyperlinks.json) |
+| [September 10 at 10:31 PM](https://archive.org/download/wncn-2022/wncn-2022-09-10T22:31:31.319929-04:00.hyperlinks.json) |
 | [September 10 at 10:17 AM](https://archive.org/download/wncn-2022/wncn-2022-09-10T10:16:58.573621-04:00.hyperlinks.json) |
 | [September 9 at 10:32 PM](https://archive.org/download/wncn-2022/wncn-2022-09-09T22:32:03.566785-04:00.hyperlinks.json) |
 | [September 9 at 10:40 AM](https://archive.org/download/wncn-2022/wncn-2022-09-09T10:40:27.520004-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 10:38 PM](https://archive.org/download/wncn-2022/wncn-2022-09-07T22:38:26.854299-04:00.hyperlinks.json) |
 | [September 7 at 11:35 AM](https://archive.org/download/wncn-2022/wncn-2022-09-07T11:35:26.318659-04:00.hyperlinks.json) |
 | [September 6 at 10:37 PM](https://archive.org/download/wncn-2022/wncn-2022-09-06T22:37:21.685892-04:00.hyperlinks.json) |
-| [September 5 at 10:32 PM](https://archive.org/download/wncn-2022/wncn-2022-09-05T22:32:25.628051-04:00.hyperlinks.json) |
-| [September 5 at 10:28 AM](https://archive.org/download/wncn-2022/wncn-2022-09-05T10:28:38.607131-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 277 accessibility trees with the Internet Archive.
+The archiving routine has saved 279 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 10:17 AM](https://archive.org/download/wncn-2022/wncn-2022-09-11T10:17:19.759196-04:00.accessibility.json) |
+| [September 10 at 10:31 PM](https://archive.org/download/wncn-2022/wncn-2022-09-10T22:31:31.319929-04:00.accessibility.json) |
 | [September 10 at 10:17 AM](https://archive.org/download/wncn-2022/wncn-2022-09-10T10:16:58.573621-04:00.accessibility.json) |
 | [September 9 at 10:32 PM](https://archive.org/download/wncn-2022/wncn-2022-09-09T22:32:03.566785-04:00.accessibility.json) |
 | [September 9 at 10:40 AM](https://archive.org/download/wncn-2022/wncn-2022-09-09T10:40:27.520004-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 10:38 PM](https://archive.org/download/wncn-2022/wncn-2022-09-07T22:38:26.854299-04:00.accessibility.json) |
 | [September 7 at 11:35 AM](https://archive.org/download/wncn-2022/wncn-2022-09-07T11:35:26.318659-04:00.accessibility.json) |
 | [September 6 at 10:37 PM](https://archive.org/download/wncn-2022/wncn-2022-09-06T22:37:21.685892-04:00.accessibility.json) |
-| [September 5 at 10:32 PM](https://archive.org/download/wncn-2022/wncn-2022-09-05T22:32:25.628051-04:00.accessibility.json) |
-| [September 5 at 10:28 AM](https://archive.org/download/wncn-2022/wncn-2022-09-05T10:28:38.607131-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 100 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 10:17 AM](https://archive.org/download/wncn-2022/wncn-2022-09-11T10:17:19.759196-04:00.lighthouse.json) |
+| [September 10 at 10:31 PM](https://archive.org/download/wncn-2022/wncn-2022-09-10T22:31:31.319929-04:00.lighthouse.json) |
 | [September 10 at 10:17 AM](https://archive.org/download/wncn-2022/wncn-2022-09-10T10:16:58.573621-04:00.lighthouse.json) |
 | [September 9 at 10:32 PM](https://archive.org/download/wncn-2022/wncn-2022-09-09T22:32:03.566785-04:00.lighthouse.json) |
 | [September 9 at 10:40 AM](https://archive.org/download/wncn-2022/wncn-2022-09-09T10:40:27.520004-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 10:38 PM](https://archive.org/download/wncn-2022/wncn-2022-09-07T22:38:26.854299-04:00.lighthouse.json) |
 | [September 7 at 11:35 AM](https://archive.org/download/wncn-2022/wncn-2022-09-07T11:35:26.318659-04:00.lighthouse.json) |
 | [September 6 at 10:37 PM](https://archive.org/download/wncn-2022/wncn-2022-09-06T22:37:21.685892-04:00.lighthouse.json) |
-| [September 5 at 10:32 PM](https://archive.org/download/wncn-2022/wncn-2022-09-05T22:32:25.628051-04:00.lighthouse.json) |
-| [September 5 at 10:28 AM](https://archive.org/download/wncn-2022/wncn-2022-09-05T10:28:38.607131-04:00.lighthouse.json) |
 
 
 

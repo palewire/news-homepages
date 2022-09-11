@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 12 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 13 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         98
     </td>
     <td style="text-align: right;">
-        26
+        25
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        56
+        60
     </td>
     <td style="text-align: right;">
-        137
+        123
     </td>
   </tr>
 
@@ -216,11 +216,11 @@ The median score for each category, along with how it ranks in comparison to the
     <td>
         SEO
     </td>
-    <td style="text-align: right; background-color: green; color: white;">
-        90
+    <td style="text-align: right; background-color: orange; color: white;">
+        89
     </td>
     <td style="text-align: right;">
-        376
+        425
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 141 screenshots with the Internet Archive.
+The archiving routine has saved 143 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-09-10T20:09:59.904240-04:00.jpg">
+  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-09-10T20:09:59.904240-04:00.jpg"
+     alt="Hell Gate at 2022-09-10 20:10:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-09-10T20:09:59.904240-04:00.jpg">September 10 at 8:10 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-09-10T07:57:38.885339-04:00.jpg">
+  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-09-10T07:57:38.885339-04:00.jpg"
+     alt="Hell Gate at 2022-09-10 07:57:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-09-10T07:57:38.885339-04:00.jpg">September 10 at 7:57 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-09-09T20:02:37.968990-04:00.jpg">
   <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-09-09T20:02:37.968990-04:00.jpg"
      alt="Hell Gate at 2022-09-09 20:02:46-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-09-05T19:55:30.658815-04:00.jpg">September 5 at 7:55 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-09-05T08:18:15.852246-04:00.jpg">
-  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-09-05T08:18:15.852246-04:00.jpg"
-     alt="Hell Gate at 2022-09-05 08:18:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-09-05T08:18:15.852246-04:00.jpg">September 5 at 8:18 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-09-04T19:51:36.808263-04:00.jpg">
-  <img src="https://archive.org/download/hellgateny-2022/hellgateny-2022-09-04T19:51:36.808263-04:00.jpg"
-     alt="Hell Gate at 2022-09-04 19:51:43-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hellgateny-2022/hellgateny-2022-09-04T19:51:36.808263-04:00.jpg">September 4 at 7:51 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 139 hyperlink lists with the Internet Archive.
+The archiving routine has saved 141 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 10 at 8:10 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-10T20:09:59.904240-04:00.hyperlinks.json) |
+| [September 10 at 7:57 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-10T07:57:38.885339-04:00.hyperlinks.json) |
 | [September 9 at 8:02 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-09T20:02:37.968990-04:00.hyperlinks.json) |
 | [September 9 at 8:12 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-09T08:12:49.445623-04:00.hyperlinks.json) |
 | [September 8 at 8:03 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-08T20:03:40.854411-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 8:33 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-07T08:32:51.695845-04:00.hyperlinks.json) |
 | [September 6 at 8:09 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-06T20:09:31.138071-04:00.hyperlinks.json) |
 | [September 5 at 7:55 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-05T19:55:30.658815-04:00.hyperlinks.json) |
-| [September 5 at 8:18 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-05T08:18:15.852246-04:00.hyperlinks.json) |
-| [September 4 at 7:51 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-04T19:51:36.808263-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 140 accessibility trees with the Internet Archive.
+The archiving routine has saved 142 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 10 at 8:10 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-10T20:09:59.904240-04:00.accessibility.json) |
+| [September 10 at 7:57 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-10T07:57:38.885339-04:00.accessibility.json) |
 | [September 9 at 8:02 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-09T20:02:37.968990-04:00.accessibility.json) |
 | [September 9 at 8:12 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-09T08:12:49.445623-04:00.accessibility.json) |
 | [September 8 at 8:03 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-08T20:03:40.854411-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 8:32 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-07T08:32:51.695845-04:00.accessibility.json) |
 | [September 6 at 8:09 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-06T20:09:31.138071-04:00.accessibility.json) |
 | [September 6 at 8:03 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-06T08:03:31.231466-04:00.accessibility.json) |
-| [September 5 at 7:55 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-05T19:55:30.658815-04:00.accessibility.json) |
-| [September 5 at 8:18 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-05T08:18:15.852246-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 96 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 10 at 8:10 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-10T20:09:59.904240-04:00.lighthouse.json) |
+| [September 10 at 7:57 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-10T07:57:38.885339-04:00.lighthouse.json) |
 | [September 9 at 8:02 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-09T20:02:37.968990-04:00.lighthouse.json) |
 | [September 9 at 8:12 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-09T08:12:49.445623-04:00.lighthouse.json) |
 | [September 8 at 8:03 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-08T20:03:40.854411-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 8:33 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-07T08:32:51.695845-04:00.lighthouse.json) |
 | [September 6 at 8:09 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-06T20:09:31.138071-04:00.lighthouse.json) |
 | [September 5 at 7:55 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-05T19:55:30.658815-04:00.lighthouse.json) |
-| [September 5 at 8:18 AM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-05T08:18:15.852246-04:00.lighthouse.json) |
-| [September 4 at 7:51 PM](https://archive.org/download/hellgateny-2022/hellgateny-2022-09-04T19:51:36.808263-04:00.lighthouse.json) |
 
 
 

@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 16 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 23 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         76
     </td>
     <td style="text-align: right;">
-        692
+        711
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         67
     </td>
     <td style="text-align: right;">
-        715
+        775
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        36
+        39
     </td>
     <td style="text-align: right;">
-        303
+        287
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         77
     </td>
     <td style="text-align: right;">
-        748
+        763
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 187 screenshots with the Internet Archive.
+The archiving routine has saved 190 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/jijicom-2022/jijicom-2022-09-12T00:05:55.476955+09:00.jpg">
+  <img src="https://archive.org/download/jijicom-2022/jijicom-2022-09-12T00:05:55.476955+09:00.jpg"
+     alt="Jiji at 2022-09-12 00:05:57+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-09-12T00:05:55.476955+09:00.jpg">September 12 at 12:05 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jijicom-2022/jijicom-2022-09-11T12:51:57.275801+09:00.jpg">
+  <img src="https://archive.org/download/jijicom-2022/jijicom-2022-09-11T12:51:57.275801+09:00.jpg"
+     alt="Jiji at 2022-09-11 12:51:58+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-09-11T12:51:57.275801+09:00.jpg">September 11 at 12:51 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jijicom-2022/jijicom-2022-09-11T11:21:42.823741+09:00.jpg">
+  <img src="https://archive.org/download/jijicom-2022/jijicom-2022-09-11T11:21:42.823741+09:00.jpg"
+     alt="Jiji at 2022-09-11 11:21:45+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-09-11T11:21:42.823741+09:00.jpg">September 11 at 11:21 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/jijicom-2022/jijicom-2022-09-11T00:04:05.899139+09:00.jpg">
   <img src="https://archive.org/download/jijicom-2022/jijicom-2022-09-11T00:04:05.899139+09:00.jpg"
      alt="Jiji at 2022-09-11 00:04:07+09:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-09-08T11:27:41.779185+09:00.jpg">September 8 at 11:27 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/jijicom-2022/jijicom-2022-09-08T00:46:13.505136+09:00.jpg">
-  <img src="https://archive.org/download/jijicom-2022/jijicom-2022-09-08T00:46:13.505136+09:00.jpg"
-     alt="Jiji at 2022-09-08 00:46:15+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-09-08T00:46:13.505136+09:00.jpg">September 8 at 12:46 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/jijicom-2022/jijicom-2022-09-07T12:54:42.440776+09:00.jpg">
-  <img src="https://archive.org/download/jijicom-2022/jijicom-2022-09-07T12:54:42.440776+09:00.jpg"
-     alt="Jiji at 2022-09-07 12:54:45+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-09-07T12:54:42.440776+09:00.jpg">September 7 at 12:54 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/jijicom-2022/jijicom-2022-09-07T11:27:38.323685+09:00.jpg">
-  <img src="https://archive.org/download/jijicom-2022/jijicom-2022-09-07T11:27:38.323685+09:00.jpg"
-     alt="Jiji at 2022-09-07 11:27:39+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-09-07T11:27:38.323685+09:00.jpg">September 7 at 11:27 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 183 hyperlink lists with the Internet Archive.
+The archiving routine has saved 186 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 12 at 12:06 AM](https://archive.org/download/jijicom-2022/jijicom-2022-09-12T00:05:55.476955+09:00.hyperlinks.json) |
+| [September 11 at 12:52 PM](https://archive.org/download/jijicom-2022/jijicom-2022-09-11T12:51:57.275801+09:00.hyperlinks.json) |
+| [September 11 at 11:21 AM](https://archive.org/download/jijicom-2022/jijicom-2022-09-11T11:21:42.823741+09:00.hyperlinks.json) |
 | [September 11 at 12:04 AM](https://archive.org/download/jijicom-2022/jijicom-2022-09-11T00:04:05.899139+09:00.hyperlinks.json) |
 | [September 10 at 12:52 PM](https://archive.org/download/jijicom-2022/jijicom-2022-09-10T12:52:42.789184+09:00.hyperlinks.json) |
 | [September 10 at 11:22 AM](https://archive.org/download/jijicom-2022/jijicom-2022-09-10T11:22:07.445890+09:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 9 at 1:48 PM](https://archive.org/download/jijicom-2022/jijicom-2022-09-09T13:48:17.964841+09:00.hyperlinks.json) |
 | [September 9 at 11:24 AM](https://archive.org/download/jijicom-2022/jijicom-2022-09-09T11:24:35.582601+09:00.hyperlinks.json) |
 | [September 9 at 12:30 AM](https://archive.org/download/jijicom-2022/jijicom-2022-09-09T00:30:38.309765+09:00.hyperlinks.json) |
-| [September 8 at 12:50 PM](https://archive.org/download/jijicom-2022/jijicom-2022-09-08T12:50:21.216688+09:00.hyperlinks.json) |
-| [September 8 at 11:27 AM](https://archive.org/download/jijicom-2022/jijicom-2022-09-08T11:27:41.779185+09:00.hyperlinks.json) |
-| [September 8 at 12:46 AM](https://archive.org/download/jijicom-2022/jijicom-2022-09-08T00:46:13.505136+09:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 186 accessibility trees with the Internet Archive.
+The archiving routine has saved 189 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 12 at 12:05 AM](https://archive.org/download/jijicom-2022/jijicom-2022-09-12T00:05:55.476955+09:00.accessibility.json) |
+| [September 11 at 12:52 PM](https://archive.org/download/jijicom-2022/jijicom-2022-09-11T12:51:57.275801+09:00.accessibility.json) |
+| [September 11 at 11:21 AM](https://archive.org/download/jijicom-2022/jijicom-2022-09-11T11:21:42.823741+09:00.accessibility.json) |
 | [September 11 at 12:04 AM](https://archive.org/download/jijicom-2022/jijicom-2022-09-11T00:04:05.899139+09:00.accessibility.json) |
 | [September 10 at 12:52 PM](https://archive.org/download/jijicom-2022/jijicom-2022-09-10T12:52:42.789184+09:00.accessibility.json) |
 | [September 10 at 11:22 AM](https://archive.org/download/jijicom-2022/jijicom-2022-09-10T11:22:07.445890+09:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 9 at 1:48 PM](https://archive.org/download/jijicom-2022/jijicom-2022-09-09T13:48:17.964841+09:00.accessibility.json) |
 | [September 9 at 11:24 AM](https://archive.org/download/jijicom-2022/jijicom-2022-09-09T11:24:35.582601+09:00.accessibility.json) |
 | [September 9 at 12:30 AM](https://archive.org/download/jijicom-2022/jijicom-2022-09-09T00:30:38.309765+09:00.accessibility.json) |
-| [September 8 at 12:50 PM](https://archive.org/download/jijicom-2022/jijicom-2022-09-08T12:50:21.216688+09:00.accessibility.json) |
-| [September 8 at 11:27 AM](https://archive.org/download/jijicom-2022/jijicom-2022-09-08T11:27:41.779185+09:00.accessibility.json) |
-| [September 8 at 12:46 AM](https://archive.org/download/jijicom-2022/jijicom-2022-09-08T00:46:13.505136+09:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 141 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 144 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 12 at 12:06 AM](https://archive.org/download/jijicom-2022/jijicom-2022-09-12T00:05:55.476955+09:00.lighthouse.json) |
+| [September 11 at 12:52 PM](https://archive.org/download/jijicom-2022/jijicom-2022-09-11T12:51:57.275801+09:00.lighthouse.json) |
+| [September 11 at 11:21 AM](https://archive.org/download/jijicom-2022/jijicom-2022-09-11T11:21:42.823741+09:00.lighthouse.json) |
 | [September 11 at 12:04 AM](https://archive.org/download/jijicom-2022/jijicom-2022-09-11T00:04:05.899139+09:00.lighthouse.json) |
 | [September 10 at 12:52 PM](https://archive.org/download/jijicom-2022/jijicom-2022-09-10T12:52:42.789184+09:00.lighthouse.json) |
 | [September 10 at 11:22 AM](https://archive.org/download/jijicom-2022/jijicom-2022-09-10T11:22:07.445890+09:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 9 at 1:48 PM](https://archive.org/download/jijicom-2022/jijicom-2022-09-09T13:48:17.964841+09:00.lighthouse.json) |
 | [September 9 at 11:24 AM](https://archive.org/download/jijicom-2022/jijicom-2022-09-09T11:24:35.582601+09:00.lighthouse.json) |
 | [September 9 at 12:30 AM](https://archive.org/download/jijicom-2022/jijicom-2022-09-09T00:30:38.309765+09:00.lighthouse.json) |
-| [September 8 at 12:50 PM](https://archive.org/download/jijicom-2022/jijicom-2022-09-08T12:50:21.216688+09:00.lighthouse.json) |
-| [September 8 at 11:27 AM](https://archive.org/download/jijicom-2022/jijicom-2022-09-08T11:27:41.779185+09:00.lighthouse.json) |
-| [September 8 at 12:46 AM](https://archive.org/download/jijicom-2022/jijicom-2022-09-08T00:46:13.505136+09:00.lighthouse.json) |
 
 
 

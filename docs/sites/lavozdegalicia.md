@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 11 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         90
     </td>
     <td style="text-align: right;">
-        240
+        248
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         92
     </td>
     <td style="text-align: right;">
-        130
+        122
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         34
     </td>
     <td style="text-align: right;">
-        331
+        338
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         82
     </td>
     <td style="text-align: right;">
-        688
+        697
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 87 screenshots with the Internet Archive.
+The archiving routine has saved 89 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-11T17:07:51.444240+02:00.jpg">
+  <img src="https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-11T17:07:51.444240+02:00.jpg"
+     alt="La Voz de Galicia at 2022-09-11 17:07:52+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-11T17:07:51.444240+02:00.jpg">September 11 at 5:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-11T05:51:59.824902+02:00.jpg">
+  <img src="https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-11T05:51:59.824902+02:00.jpg"
+     alt="La Voz de Galicia at 2022-09-11 05:52:03+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-11T05:51:59.824902+02:00.jpg">September 11 at 5:52 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-10T17:04:44.421325+02:00.jpg">
   <img src="https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-10T17:04:44.421325+02:00.jpg"
      alt="La Voz de Galicia at 2022-09-10 17:04:46+02:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-05T18:17:37.511729+02:00.jpg">September 5 at 6:17 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-05T05:43:41.759327+02:00.jpg">
-  <img src="https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-05T05:43:41.759327+02:00.jpg"
-     alt="La Voz de Galicia at 2022-09-05 05:43:43+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-05T05:43:41.759327+02:00.jpg">September 5 at 5:43 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-04T18:37:29.298426+02:00.jpg">
-  <img src="https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-04T18:37:29.298426+02:00.jpg"
-     alt="La Voz de Galicia at 2022-09-04 18:37:33+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-04T18:37:29.298426+02:00.jpg">September 4 at 6:37 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 87 hyperlink lists with the Internet Archive.
+The archiving routine has saved 89 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 5:07 PM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-11T17:07:51.444240+02:00.hyperlinks.json) |
+| [September 11 at 5:52 AM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-11T05:51:59.824902+02:00.hyperlinks.json) |
 | [September 10 at 5:04 PM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-10T17:04:44.421325+02:00.hyperlinks.json) |
 | [September 10 at 5:52 AM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-10T05:52:23.524651+02:00.hyperlinks.json) |
 | [September 9 at 6:26 PM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-09T18:26:03.879756+02:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 8 at 5:51 AM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-08T05:51:47.816398+02:00.hyperlinks.json) |
 | [September 7 at 5:48 PM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-07T17:48:07.868378+02:00.hyperlinks.json) |
 | [September 7 at 5:54 AM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-07T05:54:48.499592+02:00.hyperlinks.json) |
-| [September 6 at 5:55 AM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-06T05:55:27.374009+02:00.hyperlinks.json) |
-| [September 5 at 6:17 PM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-05T18:17:37.511729+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 87 accessibility trees with the Internet Archive.
+The archiving routine has saved 89 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 5:07 PM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-11T17:07:51.444240+02:00.accessibility.json) |
+| [September 11 at 5:52 AM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-11T05:51:59.824902+02:00.accessibility.json) |
 | [September 10 at 5:04 PM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-10T17:04:44.421325+02:00.accessibility.json) |
 | [September 10 at 5:52 AM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-10T05:52:23.524651+02:00.accessibility.json) |
 | [September 9 at 6:26 PM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-09T18:26:03.879756+02:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 8 at 5:51 AM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-08T05:51:47.816398+02:00.accessibility.json) |
 | [September 7 at 5:48 PM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-07T17:48:07.868378+02:00.accessibility.json) |
 | [September 7 at 5:54 AM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-07T05:54:48.499592+02:00.accessibility.json) |
-| [September 6 at 5:55 AM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-06T05:55:27.374009+02:00.accessibility.json) |
-| [September 5 at 6:17 PM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-05T18:17:37.511729+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 87 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 89 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 5:07 PM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-11T17:07:51.444240+02:00.lighthouse.json) |
+| [September 11 at 5:52 AM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-11T05:51:59.824902+02:00.lighthouse.json) |
 | [September 10 at 5:04 PM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-10T17:04:44.421325+02:00.lighthouse.json) |
 | [September 10 at 5:52 AM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-10T05:52:23.524651+02:00.lighthouse.json) |
 | [September 9 at 6:26 PM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-09T18:26:03.879756+02:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 8 at 5:51 AM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-08T05:51:47.816398+02:00.lighthouse.json) |
 | [September 7 at 5:48 PM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-07T17:48:07.868378+02:00.lighthouse.json) |
 | [September 7 at 5:54 AM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-07T05:54:48.499592+02:00.lighthouse.json) |
-| [September 6 at 5:55 AM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-06T05:55:27.374009+02:00.lighthouse.json) |
-| [September 5 at 6:17 PM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-09-05T18:17:37.511729+02:00.lighthouse.json) |
 
 
 

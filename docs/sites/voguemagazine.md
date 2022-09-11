@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 11 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         98
     </td>
     <td style="text-align: right;">
-        26
+        25
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         92
     </td>
     <td style="text-align: right;">
-        130
+        122
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         35
     </td>
     <td style="text-align: right;">
-        318
+        327
     </td>
   </tr>
 
@@ -217,10 +217,10 @@ The median score for each category, along with how it ranks in comparison to the
         SEO
     </td>
     <td style="text-align: right; background-color: green; color: white;">
-        100
+        93
     </td>
     <td style="text-align: right;">
-        1
+        150
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 110 screenshots with the Internet Archive.
+The archiving routine has saved 111 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 110 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-11T00:54:24.190549-04:00.jpg">
+  <img src="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-11T00:54:24.190549-04:00.jpg"
+     alt="Vogue at 2022-09-11 00:54:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-11T00:54:24.190549-04:00.jpg">September 11 at 12:54 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-10T12:13:40.073451-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-05T00:55:16.013250-04:00.jpg">September 5 at 12:55 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-04T12:48:20.758110-04:00.jpg">
-  <img src="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-04T12:48:20.758110-04:00.jpg"
-     alt="Vogue at 2022-09-04 12:48:25-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-04T12:48:20.758110-04:00.jpg">September 4 at 12:48 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 108 hyperlink lists with the Internet Archive.
+The archiving routine has saved 109 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 12:54 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-11T00:54:24.190549-04:00.hyperlinks.json) |
 | [September 10 at 12:13 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-10T12:13:40.073451-04:00.hyperlinks.json) |
 | [September 10 at 12:56 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-10T00:56:22.534835-04:00.hyperlinks.json) |
 | [September 9 at 12:37 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-09T12:37:36.837159-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 12:57 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-07T00:56:51.693693-04:00.hyperlinks.json) |
 | [September 6 at 12:58 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-06T00:58:03.128586-04:00.hyperlinks.json) |
 | [September 5 at 12:27 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-05T12:27:13.452289-04:00.hyperlinks.json) |
-| [September 5 at 12:55 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-05T00:55:16.013250-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 110 accessibility trees with the Internet Archive.
+The archiving routine has saved 111 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 12:54 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-11T00:54:24.190549-04:00.accessibility.json) |
 | [September 10 at 12:13 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-10T12:13:40.073451-04:00.accessibility.json) |
 | [September 10 at 12:56 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-10T00:56:22.534835-04:00.accessibility.json) |
 | [September 9 at 12:37 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-09T12:37:36.837159-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 1:17 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-07T13:16:57.634253-04:00.accessibility.json) |
 | [September 7 at 12:57 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-07T00:56:51.693693-04:00.accessibility.json) |
 | [September 6 at 12:58 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-06T00:58:03.128586-04:00.accessibility.json) |
-| [September 5 at 12:27 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-05T12:27:13.452289-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 99 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 12:54 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-11T00:54:24.190549-04:00.lighthouse.json) |
 | [September 10 at 12:13 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-10T12:13:40.073451-04:00.lighthouse.json) |
 | [September 10 at 12:56 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-10T00:56:22.534835-04:00.lighthouse.json) |
 | [September 9 at 12:37 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-09T12:37:36.837159-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 1:17 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-07T13:16:57.634253-04:00.lighthouse.json) |
 | [September 7 at 12:57 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-07T00:56:51.693693-04:00.lighthouse.json) |
 | [September 6 at 12:58 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-06T00:58:03.128586-04:00.lighthouse.json) |
-| [September 5 at 12:27 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-09-05T12:27:13.452289-04:00.lighthouse.json) |
 
 
 

@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 11 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         85
     </td>
     <td style="text-align: right;">
-        452
+        447
     </td>
   </tr>
 
@@ -192,11 +192,11 @@ The median score for each category, along with how it ranks in comparison to the
     <td>
         Best practices
     </td>
-    <td style="text-align: right; background-color: green; color: white;">
-        92
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
     </td>
     <td style="text-align: right;">
-        130
+        381
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        27
+        29
     </td>
     <td style="text-align: right;">
-        425
+        398
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         81
     </td>
     <td style="text-align: right;">
-        715
+        724
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 88 screenshots with the Internet Archive.
+The archiving routine has saved 90 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-11T15:09:02.695000+02:00.jpg">
+  <img src="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-11T15:09:02.695000+02:00.jpg"
+     alt="Última Hora at 2022-09-11 15:09:16+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-11T15:09:02.695000+02:00.jpg">September 11 at 3:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-11T03:26:33.972996+02:00.jpg">
+  <img src="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-11T03:26:33.972996+02:00.jpg"
+     alt="Última Hora at 2022-09-11 03:26:37+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-11T03:26:33.972996+02:00.jpg">September 11 at 3:26 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-10T15:11:10.751514+02:00.jpg">
   <img src="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-10T15:11:10.751514+02:00.jpg"
      alt="Última Hora at 2022-09-10 15:11:16+02:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-05T16:15:36.726200+02:00.jpg">September 5 at 4:15 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-05T03:27:27.444348+02:00.jpg">
-  <img src="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-05T03:27:27.444348+02:00.jpg"
-     alt="Última Hora at 2022-09-05 03:27:31+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-05T03:27:27.444348+02:00.jpg">September 5 at 3:27 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-04T15:00:23.732028+02:00.jpg">
-  <img src="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-04T15:00:23.732028+02:00.jpg"
-     alt="Última Hora at 2022-09-04 15:00:35+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-04T15:00:23.732028+02:00.jpg">September 4 at 3:00 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 89 hyperlink lists with the Internet Archive.
+The archiving routine has saved 91 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 3:09 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-11T15:09:02.695000+02:00.hyperlinks.json) |
+| [September 11 at 3:26 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-11T03:26:33.972996+02:00.hyperlinks.json) |
 | [September 10 at 3:11 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-10T15:11:10.751514+02:00.hyperlinks.json) |
 | [September 10 at 3:30 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-10T03:30:09.559203+02:00.hyperlinks.json) |
 | [September 9 at 3:27 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-09T15:27:10.725491+02:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 8 at 3:30 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-08T03:29:54.882592+02:00.hyperlinks.json) |
 | [September 7 at 3:52 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-07T15:51:54.407791+02:00.hyperlinks.json) |
 | [September 7 at 3:26 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-07T03:26:06.484186+02:00.hyperlinks.json) |
-| [September 6 at 3:30 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-06T03:30:34.773306+02:00.hyperlinks.json) |
-| [September 5 at 4:15 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-05T16:15:36.726200+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 89 accessibility trees with the Internet Archive.
+The archiving routine has saved 91 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 3:09 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-11T15:09:02.695000+02:00.accessibility.json) |
+| [September 11 at 3:26 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-11T03:26:33.972996+02:00.accessibility.json) |
 | [September 10 at 3:11 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-10T15:11:10.751514+02:00.accessibility.json) |
 | [September 10 at 3:30 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-10T03:30:09.559203+02:00.accessibility.json) |
 | [September 9 at 3:27 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-09T15:27:10.725491+02:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 8 at 3:29 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-08T03:29:54.882592+02:00.accessibility.json) |
 | [September 7 at 3:52 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-07T15:51:54.407791+02:00.accessibility.json) |
 | [September 7 at 3:26 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-07T03:26:06.484186+02:00.accessibility.json) |
-| [September 6 at 3:30 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-06T03:30:34.773306+02:00.accessibility.json) |
-| [September 5 at 4:15 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-05T16:15:36.726200+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 89 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 91 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 3:09 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-11T15:09:02.695000+02:00.lighthouse.json) |
+| [September 11 at 3:26 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-11T03:26:33.972996+02:00.lighthouse.json) |
 | [September 10 at 3:11 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-10T15:11:10.751514+02:00.lighthouse.json) |
 | [September 10 at 3:30 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-10T03:30:09.559203+02:00.lighthouse.json) |
 | [September 9 at 3:27 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-09T15:27:10.725491+02:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 8 at 3:30 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-08T03:29:54.882592+02:00.lighthouse.json) |
 | [September 7 at 3:52 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-07T15:51:54.407791+02:00.lighthouse.json) |
 | [September 7 at 3:26 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-07T03:26:06.484186+02:00.lighthouse.json) |
-| [September 6 at 3:30 AM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-06T03:30:34.773306+02:00.lighthouse.json) |
-| [September 5 at 4:15 PM](https://archive.org/download/uhmallorca-2022/uhmallorca-2022-09-05T16:15:36.726200+02:00.lighthouse.json) |
 
 
 

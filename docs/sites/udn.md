@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 11 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -181,10 +181,10 @@ The median score for each category, along with how it ranks in comparison to the
         Accessibility
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        79
+        77
     </td>
     <td style="text-align: right;">
-        627
+        687
     </td>
   </tr>
 
@@ -193,10 +193,10 @@ The median score for each category, along with how it ranks in comparison to the
         Best practices
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        83
+        75
     </td>
     <td style="text-align: right;">
-        404
+        603
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        25
+        24
     </td>
     <td style="text-align: right;">
-        464
+        503
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         83
     </td>
     <td style="text-align: right;">
-        628
+        635
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 77 screenshots with the Internet Archive.
+The archiving routine has saved 78 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 77 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/udn-2022/udn-2022-09-11T12:52:52.382665+08:00.jpg">
+  <img src="https://archive.org/download/udn-2022/udn-2022-09-11T12:52:52.382665+08:00.jpg"
+     alt="United Daily News at 2022-09-11 12:52:56+08:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/udn-2022/udn-2022-09-11T12:52:52.382665+08:00.jpg">September 11 at 12:52 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/udn-2022/udn-2022-09-11T00:12:39.608020+08:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/udn-2022/udn-2022-09-05T00:48:08.555647+08:00.jpg">September 5 at 12:48 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/udn-2022/udn-2022-09-04T12:44:13.938140+08:00.jpg">
-  <img src="https://archive.org/download/udn-2022/udn-2022-09-04T12:44:13.938140+08:00.jpg"
-     alt="United Daily News at 2022-09-04 12:44:18+08:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/udn-2022/udn-2022-09-04T12:44:13.938140+08:00.jpg">September 4 at 12:44 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 77 hyperlink lists with the Internet Archive.
+The archiving routine has saved 78 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 12:52 PM](https://archive.org/download/udn-2022/udn-2022-09-11T12:52:52.382665+08:00.hyperlinks.json) |
 | [September 11 at 12:12 AM](https://archive.org/download/udn-2022/udn-2022-09-11T00:12:39.608020+08:00.hyperlinks.json) |
 | [September 10 at 12:56 PM](https://archive.org/download/udn-2022/udn-2022-09-10T12:56:26.227159+08:00.hyperlinks.json) |
 | [September 10 at 12:38 AM](https://archive.org/download/udn-2022/udn-2022-09-10T00:38:07.510973+08:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 8 at 1:15 AM](https://archive.org/download/udn-2022/udn-2022-09-08T01:15:40.474155+08:00.hyperlinks.json) |
 | [September 7 at 12:56 PM](https://archive.org/download/udn-2022/udn-2022-09-07T12:56:09.266392+08:00.hyperlinks.json) |
 | [September 6 at 12:58 PM](https://archive.org/download/udn-2022/udn-2022-09-06T12:58:18.842145+08:00.hyperlinks.json) |
-| [September 6 at 12:28 AM](https://archive.org/download/udn-2022/udn-2022-09-06T00:28:04.459123+08:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 78 accessibility trees with the Internet Archive.
+The archiving routine has saved 79 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 12:52 PM](https://archive.org/download/udn-2022/udn-2022-09-11T12:52:52.382665+08:00.accessibility.json) |
 | [September 11 at 12:12 AM](https://archive.org/download/udn-2022/udn-2022-09-11T00:12:39.608020+08:00.accessibility.json) |
 | [September 10 at 12:56 PM](https://archive.org/download/udn-2022/udn-2022-09-10T12:56:26.227159+08:00.accessibility.json) |
 | [September 10 at 12:38 AM](https://archive.org/download/udn-2022/udn-2022-09-10T00:38:07.510973+08:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 8 at 1:15 AM](https://archive.org/download/udn-2022/udn-2022-09-08T01:15:40.474155+08:00.accessibility.json) |
 | [September 7 at 12:56 PM](https://archive.org/download/udn-2022/udn-2022-09-07T12:56:09.266392+08:00.accessibility.json) |
 | [September 6 at 12:58 PM](https://archive.org/download/udn-2022/udn-2022-09-06T12:58:18.842145+08:00.accessibility.json) |
-| [September 6 at 12:28 AM](https://archive.org/download/udn-2022/udn-2022-09-06T00:28:04.459123+08:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 78 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 79 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 12:53 PM](https://archive.org/download/udn-2022/udn-2022-09-11T12:52:52.382665+08:00.lighthouse.json) |
 | [September 11 at 12:12 AM](https://archive.org/download/udn-2022/udn-2022-09-11T00:12:39.608020+08:00.lighthouse.json) |
 | [September 10 at 12:56 PM](https://archive.org/download/udn-2022/udn-2022-09-10T12:56:26.227159+08:00.lighthouse.json) |
 | [September 10 at 12:38 AM](https://archive.org/download/udn-2022/udn-2022-09-10T00:38:07.510973+08:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 8 at 1:15 AM](https://archive.org/download/udn-2022/udn-2022-09-08T01:15:40.474155+08:00.lighthouse.json) |
 | [September 7 at 12:56 PM](https://archive.org/download/udn-2022/udn-2022-09-07T12:56:09.266392+08:00.lighthouse.json) |
 | [September 6 at 12:58 PM](https://archive.org/download/udn-2022/udn-2022-09-06T12:58:18.842145+08:00.lighthouse.json) |
-| [September 6 at 12:28 AM](https://archive.org/download/udn-2022/udn-2022-09-06T00:28:04.459123+08:00.lighthouse.json) |
 
 
 

@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 18 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 21 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -181,10 +181,10 @@ The median score for each category, along with how it ranks in comparison to the
         Accessibility
     </td>
     <td style="text-align: right; background-color: green; color: white;">
-        92
+        91
     </td>
     <td style="text-align: right;">
-        204
+        225
     </td>
   </tr>
 
@@ -193,10 +193,10 @@ The median score for each category, along with how it ranks in comparison to the
         Best practices
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        67
+        83
     </td>
     <td style="text-align: right;">
-        715
+        381
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         28
     </td>
     <td style="text-align: right;">
-        401
+        416
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         93
     </td>
     <td style="text-align: right;">
-        149
+        150
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 344 screenshots with the Internet Archive.
+The archiving routine has saved 348 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-09-11T14:31:02.278197-04:00.jpg">
+  <img src="https://archive.org/download/dailycaller-2022/dailycaller-2022-09-11T14:31:02.278197-04:00.jpg"
+     alt="Daily Caller at 2022-09-11 14:31:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-09-11T14:31:02.278197-04:00.jpg">September 11 at 2:31 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-09-11T06:56:13.770541-04:00.jpg">
+  <img src="https://archive.org/download/dailycaller-2022/dailycaller-2022-09-11T06:56:13.770541-04:00.jpg"
+     alt="Daily Caller at 2022-09-11 06:56:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-09-11T06:56:13.770541-04:00.jpg">September 11 at 6:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-09-10T19:08:31.479783-04:00.jpg">
+  <img src="https://archive.org/download/dailycaller-2022/dailycaller-2022-09-10T19:08:31.479783-04:00.jpg"
+     alt="Daily Caller at 2022-09-10 19:08:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-09-10T19:08:31.479783-04:00.jpg">September 10 at 7:08 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-09-10T14:32:46.789318-04:00.jpg">
+  <img src="https://archive.org/download/dailycaller-2022/dailycaller-2022-09-10T14:32:46.789318-04:00.jpg"
+     alt="Daily Caller at 2022-09-10 14:33:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-09-10T14:32:46.789318-04:00.jpg">September 10 at 2:33 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-09-10T06:56:43.138897-04:00.jpg">
   <img src="https://archive.org/download/dailycaller-2022/dailycaller-2022-09-10T06:56:43.138897-04:00.jpg"
      alt="Daily Caller at 2022-09-10 06:56:52-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-09-07T08:15:42.782491-04:00.jpg">September 7 at 8:15 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-09-06T19:10:14.051318-04:00.jpg">
-  <img src="https://archive.org/download/dailycaller-2022/dailycaller-2022-09-06T19:10:14.051318-04:00.jpg"
-     alt="Daily Caller at 2022-09-06 19:10:15-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-09-06T19:10:14.051318-04:00.jpg">September 6 at 7:10 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-09-06T06:57:47.251780-04:00.jpg">
-  <img src="https://archive.org/download/dailycaller-2022/dailycaller-2022-09-06T06:57:47.251780-04:00.jpg"
-     alt="Daily Caller at 2022-09-06 06:57:49-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-09-06T06:57:47.251780-04:00.jpg">September 6 at 6:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-09-05T19:02:20.301153-04:00.jpg">
-  <img src="https://archive.org/download/dailycaller-2022/dailycaller-2022-09-05T19:02:20.301153-04:00.jpg"
-     alt="Daily Caller at 2022-09-05 19:02:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-09-05T19:02:20.301153-04:00.jpg">September 5 at 7:02 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-09-05T14:36:31.082809-04:00.jpg">
-  <img src="https://archive.org/download/dailycaller-2022/dailycaller-2022-09-05T14:36:31.082809-04:00.jpg"
-     alt="Daily Caller at 2022-09-05 14:36:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailycaller-2022/dailycaller-2022-09-05T14:36:31.082809-04:00.jpg">September 5 at 2:36 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 331 hyperlink lists with the Internet Archive.
+The archiving routine has saved 335 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 2:31 PM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-11T14:31:02.278197-04:00.hyperlinks.json) |
+| [September 11 at 6:56 AM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-11T06:56:13.770541-04:00.hyperlinks.json) |
+| [September 10 at 7:08 PM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-10T19:08:31.479783-04:00.hyperlinks.json) |
+| [September 10 at 2:33 PM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-10T14:32:46.789318-04:00.hyperlinks.json) |
 | [September 10 at 6:56 AM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-10T06:56:43.138897-04:00.hyperlinks.json) |
 | [September 9 at 7:07 PM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-09T19:06:45.869497-04:00.hyperlinks.json) |
 | [September 9 at 2:34 PM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-09T14:34:07.195262-04:00.hyperlinks.json) |
 | [September 9 at 7:06 AM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-09T07:06:21.572617-04:00.hyperlinks.json) |
 | [September 8 at 7:59 PM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-08T19:59:30.519163-04:00.hyperlinks.json) |
 | [September 8 at 7:04 AM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-08T07:04:31.531492-04:00.hyperlinks.json) |
-| [September 7 at 7:02 PM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-07T19:02:43.366498-04:00.hyperlinks.json) |
-| [September 7 at 8:15 AM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-07T08:15:42.782491-04:00.hyperlinks.json) |
-| [September 6 at 7:10 PM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-06T19:10:14.051318-04:00.hyperlinks.json) |
-| [September 6 at 6:57 AM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-06T06:57:47.251780-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 340 accessibility trees with the Internet Archive.
+The archiving routine has saved 344 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 2:31 PM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-11T14:31:02.278197-04:00.accessibility.json) |
+| [September 11 at 6:56 AM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-11T06:56:13.770541-04:00.accessibility.json) |
+| [September 10 at 7:08 PM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-10T19:08:31.479783-04:00.accessibility.json) |
+| [September 10 at 2:33 PM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-10T14:32:46.789318-04:00.accessibility.json) |
 | [September 10 at 6:56 AM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-10T06:56:43.138897-04:00.accessibility.json) |
 | [September 9 at 7:07 PM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-09T19:06:45.869497-04:00.accessibility.json) |
 | [September 9 at 2:34 PM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-09T14:34:07.195262-04:00.accessibility.json) |
 | [September 9 at 7:06 AM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-09T07:06:21.572617-04:00.accessibility.json) |
 | [September 8 at 7:59 PM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-08T19:59:30.519163-04:00.accessibility.json) |
 | [September 8 at 7:04 AM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-08T07:04:31.531492-04:00.accessibility.json) |
-| [September 7 at 7:02 PM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-07T19:02:43.366498-04:00.accessibility.json) |
-| [September 7 at 8:15 AM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-07T08:15:42.782491-04:00.accessibility.json) |
-| [September 6 at 7:10 PM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-06T19:10:14.051318-04:00.accessibility.json) |
-| [September 6 at 6:57 AM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-06T06:57:47.251780-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 143 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 147 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 2:31 PM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-11T14:31:02.278197-04:00.lighthouse.json) |
+| [September 11 at 6:56 AM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-11T06:56:13.770541-04:00.lighthouse.json) |
+| [September 10 at 7:08 PM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-10T19:08:31.479783-04:00.lighthouse.json) |
+| [September 10 at 2:33 PM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-10T14:32:46.789318-04:00.lighthouse.json) |
 | [September 10 at 6:56 AM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-10T06:56:43.138897-04:00.lighthouse.json) |
 | [September 9 at 7:07 PM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-09T19:06:45.869497-04:00.lighthouse.json) |
 | [September 9 at 2:34 PM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-09T14:34:07.195262-04:00.lighthouse.json) |
 | [September 9 at 7:06 AM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-09T07:06:21.572617-04:00.lighthouse.json) |
 | [September 8 at 7:59 PM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-08T19:59:30.519163-04:00.lighthouse.json) |
 | [September 8 at 7:04 AM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-08T07:04:31.531492-04:00.lighthouse.json) |
-| [September 7 at 7:02 PM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-07T19:02:43.366498-04:00.lighthouse.json) |
-| [September 7 at 3:07 PM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-07T15:07:48.785735-04:00.lighthouse.json) |
-| [September 7 at 8:16 AM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-07T08:15:42.782491-04:00.lighthouse.json) |
-| [September 6 at 7:10 PM](https://archive.org/download/dailycaller-2022/dailycaller-2022-09-06T19:10:14.051318-04:00.lighthouse.json) |
 
 
 

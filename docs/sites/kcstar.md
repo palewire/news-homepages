@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 12 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 14 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -180,11 +180,11 @@ The median score for each category, along with how it ranks in comparison to the
     <td>
         Accessibility
     </td>
-    <td style="text-align: right; background-color: green; color: white;">
-        100
+    <td style="text-align: right; background-color: orange; color: white;">
+        78
     </td>
     <td style="text-align: right;">
-        1
+        650
     </td>
   </tr>
 
@@ -193,10 +193,10 @@ The median score for each category, along with how it ranks in comparison to the
         Best practices
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        58
+        75
     </td>
     <td style="text-align: right;">
-        800
+        603
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        14
+        10
     </td>
     <td style="text-align: right;">
-        764
+        817
     </td>
   </tr>
 
@@ -216,11 +216,11 @@ The median score for each category, along with how it ranks in comparison to the
     <td>
         SEO
     </td>
-    <td style="text-align: right; background-color: green; color: white;">
-        91
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
     </td>
     <td style="text-align: right;">
-        280
+        635
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 136 screenshots with the Internet Archive.
+The archiving routine has saved 138 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kcstar-2022/kcstar-2022-09-10T19:12:22.828191-05:00.jpg">
+  <img src="https://archive.org/download/kcstar-2022/kcstar-2022-09-10T19:12:22.828191-05:00.jpg"
+     alt="Kansas City Star at 2022-09-10 19:12:28-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-09-10T19:12:22.828191-05:00.jpg">September 10 at 7:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kcstar-2022/kcstar-2022-09-10T06:58:49.696961-05:00.jpg">
+  <img src="https://archive.org/download/kcstar-2022/kcstar-2022-09-10T06:58:49.696961-05:00.jpg"
+     alt="Kansas City Star at 2022-09-10 06:58:53-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-09-10T06:58:49.696961-05:00.jpg">September 10 at 6:58 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kcstar-2022/kcstar-2022-09-09T19:04:39.209340-05:00.jpg">
   <img src="https://archive.org/download/kcstar-2022/kcstar-2022-09-09T19:04:39.209340-05:00.jpg"
      alt="Kansas City Star at 2022-09-09 19:04:44-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-09-04T18:53:53.915667-05:00.jpg">September 4 at 6:53 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kcstar-2022/kcstar-2022-09-04T06:56:06.687113-05:00.jpg">
-  <img src="https://archive.org/download/kcstar-2022/kcstar-2022-09-04T06:56:06.687113-05:00.jpg"
-     alt="Kansas City Star at 2022-09-04 06:56:11-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-09-04T06:56:06.687113-05:00.jpg">September 4 at 6:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kcstar-2022/kcstar-2022-09-03T18:47:50.363102-05:00.jpg">
-  <img src="https://archive.org/download/kcstar-2022/kcstar-2022-09-03T18:47:50.363102-05:00.jpg"
-     alt="Kansas City Star at 2022-09-03 18:47:54-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-09-03T18:47:50.363102-05:00.jpg">September 3 at 6:47 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 100 hyperlink lists with the Internet Archive.
+The archiving routine has saved 102 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 10 at 7:12 PM](https://archive.org/download/kcstar-2022/kcstar-2022-09-10T19:12:22.828191-05:00.hyperlinks.json) |
+| [September 10 at 6:58 AM](https://archive.org/download/kcstar-2022/kcstar-2022-09-10T06:58:49.696961-05:00.hyperlinks.json) |
 | [September 9 at 7:04 PM](https://archive.org/download/kcstar-2022/kcstar-2022-09-09T19:04:39.209340-05:00.hyperlinks.json) |
 | [September 9 at 7:16 AM](https://archive.org/download/kcstar-2022/kcstar-2022-09-09T07:16:25.303452-05:00.hyperlinks.json) |
 | [September 8 at 7:05 PM](https://archive.org/download/kcstar-2022/kcstar-2022-09-08T19:05:35.453347-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 7:40 AM](https://archive.org/download/kcstar-2022/kcstar-2022-09-07T07:39:59.926008-05:00.hyperlinks.json) |
 | [September 6 at 7:10 PM](https://archive.org/download/kcstar-2022/kcstar-2022-09-06T19:10:48.800359-05:00.hyperlinks.json) |
 | [September 6 at 7:02 AM](https://archive.org/download/kcstar-2022/kcstar-2022-09-06T07:02:02.884209-05:00.hyperlinks.json) |
-| [September 5 at 6:57 PM](https://archive.org/download/kcstar-2022/kcstar-2022-09-05T18:57:09.889709-05:00.hyperlinks.json) |
-| [September 4 at 6:54 PM](https://archive.org/download/kcstar-2022/kcstar-2022-09-04T18:53:53.915667-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 137 accessibility trees with the Internet Archive.
+The archiving routine has saved 139 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 10 at 7:12 PM](https://archive.org/download/kcstar-2022/kcstar-2022-09-10T19:12:22.828191-05:00.accessibility.json) |
+| [September 10 at 6:58 AM](https://archive.org/download/kcstar-2022/kcstar-2022-09-10T06:58:49.696961-05:00.accessibility.json) |
 | [September 9 at 7:04 PM](https://archive.org/download/kcstar-2022/kcstar-2022-09-09T19:04:39.209340-05:00.accessibility.json) |
 | [September 9 at 7:16 AM](https://archive.org/download/kcstar-2022/kcstar-2022-09-09T07:16:25.303452-05:00.accessibility.json) |
 | [September 8 at 7:05 PM](https://archive.org/download/kcstar-2022/kcstar-2022-09-08T19:05:35.453347-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 7:40 AM](https://archive.org/download/kcstar-2022/kcstar-2022-09-07T07:39:59.926008-05:00.accessibility.json) |
 | [September 6 at 7:10 PM](https://archive.org/download/kcstar-2022/kcstar-2022-09-06T19:10:48.800359-05:00.accessibility.json) |
 | [September 6 at 7:02 AM](https://archive.org/download/kcstar-2022/kcstar-2022-09-06T07:02:02.884209-05:00.accessibility.json) |
-| [September 5 at 6:57 PM](https://archive.org/download/kcstar-2022/kcstar-2022-09-05T18:57:09.889709-05:00.accessibility.json) |
-| [September 5 at 7:20 AM](https://archive.org/download/kcstar-2022/kcstar-2022-09-05T07:20:10.213863-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 100 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 10 at 7:12 PM](https://archive.org/download/kcstar-2022/kcstar-2022-09-10T19:12:22.828191-05:00.lighthouse.json) |
+| [September 10 at 6:58 AM](https://archive.org/download/kcstar-2022/kcstar-2022-09-10T06:58:49.696961-05:00.lighthouse.json) |
 | [September 9 at 7:04 PM](https://archive.org/download/kcstar-2022/kcstar-2022-09-09T19:04:39.209340-05:00.lighthouse.json) |
 | [September 9 at 7:16 AM](https://archive.org/download/kcstar-2022/kcstar-2022-09-09T07:16:25.303452-05:00.lighthouse.json) |
 | [September 8 at 7:05 PM](https://archive.org/download/kcstar-2022/kcstar-2022-09-08T19:05:35.453347-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 7:40 AM](https://archive.org/download/kcstar-2022/kcstar-2022-09-07T07:39:59.926008-05:00.lighthouse.json) |
 | [September 6 at 7:11 PM](https://archive.org/download/kcstar-2022/kcstar-2022-09-06T19:10:48.800359-05:00.lighthouse.json) |
 | [September 6 at 7:02 AM](https://archive.org/download/kcstar-2022/kcstar-2022-09-06T07:02:02.884209-05:00.lighthouse.json) |
-| [September 5 at 6:57 PM](https://archive.org/download/kcstar-2022/kcstar-2022-09-05T18:57:09.889709-05:00.lighthouse.json) |
-| [September 5 at 7:20 AM](https://archive.org/download/kcstar-2022/kcstar-2022-09-05T07:20:10.213863-05:00.lighthouse.json) |
 
 
 

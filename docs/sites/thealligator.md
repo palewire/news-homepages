@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 11 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -181,10 +181,10 @@ The median score for each category, along with how it ranks in comparison to the
         Accessibility
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        86
+        79
     </td>
     <td style="text-align: right;">
-        414
+        634
     </td>
   </tr>
 
@@ -193,10 +193,10 @@ The median score for each category, along with how it ranks in comparison to the
         Best practices
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        58
+        67
     </td>
     <td style="text-align: right;">
-        800
+        775
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        3
+        4
     </td>
     <td style="text-align: right;">
-        838
+        856
     </td>
   </tr>
 
@@ -217,10 +217,10 @@ The median score for each category, along with how it ranks in comparison to the
         SEO
     </td>
     <td style="text-align: right; background-color: green; color: white;">
-        98
+        90
     </td>
     <td style="text-align: right;">
-        75
+        374
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 172 screenshots with the Internet Archive.
+The archiving routine has saved 174 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-11T09:07:07.601719-04:00.jpg">
+  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-09-11T09:07:07.601719-04:00.jpg"
+     alt="Alligator at 2022-09-11 09:07:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-11T09:07:07.601719-04:00.jpg">September 11 at 9:07 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-10T21:24:43.065117-04:00.jpg">
+  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-09-10T21:24:43.065117-04:00.jpg"
+     alt="Alligator at 2022-09-10 21:24:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-10T21:24:43.065117-04:00.jpg">September 10 at 9:24 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-10T09:09:28.338390-04:00.jpg">
   <img src="https://archive.org/download/thealligator-2022/thealligator-2022-09-10T09:09:28.338390-04:00.jpg"
      alt="Alligator at 2022-09-10 09:09:32-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-05T10:12:23.153477-04:00.jpg">September 5 at 10:12 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-04T21:24:50.778767-04:00.jpg">
-  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-09-04T21:24:50.778767-04:00.jpg"
-     alt="Alligator at 2022-09-04 21:24:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-04T21:24:50.778767-04:00.jpg">September 4 at 9:24 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-04T08:59:00.843023-04:00.jpg">
-  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-09-04T08:59:00.843023-04:00.jpg"
-     alt="Alligator at 2022-09-04 08:59:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-09-04T08:59:00.843023-04:00.jpg">September 4 at 8:59 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 169 hyperlink lists with the Internet Archive.
+The archiving routine has saved 171 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 9:07 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-11T09:07:07.601719-04:00.hyperlinks.json) |
+| [September 10 at 9:24 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-10T21:24:43.065117-04:00.hyperlinks.json) |
 | [September 10 at 9:09 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-10T09:09:28.338390-04:00.hyperlinks.json) |
 | [September 9 at 9:28 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-09T21:28:18.511321-04:00.hyperlinks.json) |
 | [September 9 at 9:25 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-09T09:24:45.265701-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 9:27 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-07T21:27:01.429854-04:00.hyperlinks.json) |
 | [September 7 at 9:51 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-07T09:50:50.196739-04:00.hyperlinks.json) |
 | [September 6 at 9:23 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-06T21:23:35.859039-04:00.hyperlinks.json) |
-| [September 5 at 9:28 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-05T21:28:21.568733-04:00.hyperlinks.json) |
-| [September 5 at 10:12 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-05T10:12:23.153477-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 171 accessibility trees with the Internet Archive.
+The archiving routine has saved 173 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 9:07 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-11T09:07:07.601719-04:00.accessibility.json) |
+| [September 10 at 9:24 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-10T21:24:43.065117-04:00.accessibility.json) |
 | [September 10 at 9:09 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-10T09:09:28.338390-04:00.accessibility.json) |
 | [September 9 at 9:28 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-09T21:28:18.511321-04:00.accessibility.json) |
 | [September 9 at 9:25 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-09T09:24:45.265701-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 9:27 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-07T21:27:01.429854-04:00.accessibility.json) |
 | [September 7 at 9:50 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-07T09:50:50.196739-04:00.accessibility.json) |
 | [September 6 at 9:23 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-06T21:23:35.859039-04:00.accessibility.json) |
-| [September 5 at 9:28 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-05T21:28:21.568733-04:00.accessibility.json) |
-| [September 5 at 10:12 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-05T10:12:23.153477-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 96 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 9:07 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-11T09:07:07.601719-04:00.lighthouse.json) |
+| [September 10 at 9:24 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-10T21:24:43.065117-04:00.lighthouse.json) |
 | [September 10 at 9:09 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-10T09:09:28.338390-04:00.lighthouse.json) |
 | [September 9 at 9:28 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-09T21:28:18.511321-04:00.lighthouse.json) |
 | [September 9 at 9:25 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-09T09:24:45.265701-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 9:27 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-07T21:27:01.429854-04:00.lighthouse.json) |
 | [September 7 at 9:51 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-07T09:50:50.196739-04:00.lighthouse.json) |
 | [September 6 at 9:23 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-06T21:23:35.859039-04:00.lighthouse.json) |
-| [September 5 at 9:28 PM](https://archive.org/download/thealligator-2022/thealligator-2022-09-05T21:28:21.568733-04:00.lighthouse.json) |
-| [September 5 at 10:12 AM](https://archive.org/download/thealligator-2022/thealligator-2022-09-05T10:12:23.153477-04:00.lighthouse.json) |
 
 
 

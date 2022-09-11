@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 17 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 19 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         92
     </td>
     <td style="text-align: right;">
-        130
+        122
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        81
+        79
     </td>
     <td style="text-align: right;">
-        45
+        38
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         93
     </td>
     <td style="text-align: right;">
-        149
+        150
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 412 screenshots with the Internet Archive.
+The archiving routine has saved 414 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/vcstar-2022/vcstar-2022-09-10T21:53:17.487193-07:00.jpg">
+  <img src="https://archive.org/download/vcstar-2022/vcstar-2022-09-10T21:53:17.487193-07:00.jpg"
+     alt="Ventura County Star at 2022-09-10 21:53:19-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-09-10T21:53:17.487193-07:00.jpg">September 10 at 9:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vcstar-2022/vcstar-2022-09-10T11:34:10.025866-07:00.jpg">
+  <img src="https://archive.org/download/vcstar-2022/vcstar-2022-09-10T11:34:10.025866-07:00.jpg"
+     alt="Ventura County Star at 2022-09-10 11:34:12-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-09-10T11:34:10.025866-07:00.jpg">September 10 at 11:34 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/vcstar-2022/vcstar-2022-09-10T09:13:03.901080-07:00.jpg">
   <img src="https://archive.org/download/vcstar-2022/vcstar-2022-09-10T09:13:03.901080-07:00.jpg"
      alt="Ventura County Star at 2022-09-10 09:13:05-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-09-05T11:30:34.968036-07:00.jpg">September 5 at 11:30 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/vcstar-2022/vcstar-2022-09-05T09:27:36.479712-07:00.jpg">
-  <img src="https://archive.org/download/vcstar-2022/vcstar-2022-09-05T09:27:36.479712-07:00.jpg"
-     alt="Ventura County Star at 2022-09-05 09:27:37-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-09-05T09:27:36.479712-07:00.jpg">September 5 at 9:27 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/vcstar-2022/vcstar-2022-09-04T21:56:21.789893-07:00.jpg">
-  <img src="https://archive.org/download/vcstar-2022/vcstar-2022-09-04T21:56:21.789893-07:00.jpg"
-     alt="Ventura County Star at 2022-09-04 21:56:30-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-09-04T21:56:21.789893-07:00.jpg">September 4 at 9:56 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 391 hyperlink lists with the Internet Archive.
+The archiving routine has saved 393 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 10 at 9:53 PM](https://archive.org/download/vcstar-2022/vcstar-2022-09-10T21:53:17.487193-07:00.hyperlinks.json) |
+| [September 10 at 11:34 AM](https://archive.org/download/vcstar-2022/vcstar-2022-09-10T11:34:10.025866-07:00.hyperlinks.json) |
 | [September 10 at 9:13 AM](https://archive.org/download/vcstar-2022/vcstar-2022-09-10T09:13:03.901080-07:00.hyperlinks.json) |
 | [September 9 at 9:55 PM](https://archive.org/download/vcstar-2022/vcstar-2022-09-09T21:55:40.089146-07:00.hyperlinks.json) |
 | [September 9 at 11:36 AM](https://archive.org/download/vcstar-2022/vcstar-2022-09-09T11:36:17.636334-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 8 at 9:40 AM](https://archive.org/download/vcstar-2022/vcstar-2022-09-08T09:40:08.841448-07:00.hyperlinks.json) |
 | [September 7 at 9:52 PM](https://archive.org/download/vcstar-2022/vcstar-2022-09-07T21:52:42.907790-07:00.hyperlinks.json) |
 | [September 7 at 10:16 AM](https://archive.org/download/vcstar-2022/vcstar-2022-09-07T10:16:51.726878-07:00.hyperlinks.json) |
-| [September 6 at 9:55 PM](https://archive.org/download/vcstar-2022/vcstar-2022-09-06T21:55:40.568173-07:00.hyperlinks.json) |
-| [September 5 at 9:58 PM](https://archive.org/download/vcstar-2022/vcstar-2022-09-05T21:58:02.594360-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 398 accessibility trees with the Internet Archive.
+The archiving routine has saved 400 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 10 at 9:53 PM](https://archive.org/download/vcstar-2022/vcstar-2022-09-10T21:53:17.487193-07:00.accessibility.json) |
+| [September 10 at 11:34 AM](https://archive.org/download/vcstar-2022/vcstar-2022-09-10T11:34:10.025866-07:00.accessibility.json) |
 | [September 10 at 9:13 AM](https://archive.org/download/vcstar-2022/vcstar-2022-09-10T09:13:03.901080-07:00.accessibility.json) |
 | [September 9 at 9:55 PM](https://archive.org/download/vcstar-2022/vcstar-2022-09-09T21:55:40.089146-07:00.accessibility.json) |
 | [September 9 at 11:36 AM](https://archive.org/download/vcstar-2022/vcstar-2022-09-09T11:36:17.636334-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 8 at 9:40 AM](https://archive.org/download/vcstar-2022/vcstar-2022-09-08T09:40:08.841448-07:00.accessibility.json) |
 | [September 7 at 9:52 PM](https://archive.org/download/vcstar-2022/vcstar-2022-09-07T21:52:42.907790-07:00.accessibility.json) |
 | [September 7 at 10:16 AM](https://archive.org/download/vcstar-2022/vcstar-2022-09-07T10:16:51.726878-07:00.accessibility.json) |
-| [September 6 at 9:55 PM](https://archive.org/download/vcstar-2022/vcstar-2022-09-06T21:55:40.568173-07:00.accessibility.json) |
-| [September 5 at 9:58 PM](https://archive.org/download/vcstar-2022/vcstar-2022-09-05T21:58:02.594360-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 139 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 141 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 10 at 9:53 PM](https://archive.org/download/vcstar-2022/vcstar-2022-09-10T21:53:17.487193-07:00.lighthouse.json) |
+| [September 10 at 11:34 AM](https://archive.org/download/vcstar-2022/vcstar-2022-09-10T11:34:10.025866-07:00.lighthouse.json) |
 | [September 10 at 9:13 AM](https://archive.org/download/vcstar-2022/vcstar-2022-09-10T09:13:03.901080-07:00.lighthouse.json) |
 | [September 9 at 9:55 PM](https://archive.org/download/vcstar-2022/vcstar-2022-09-09T21:55:40.089146-07:00.lighthouse.json) |
 | [September 9 at 11:36 AM](https://archive.org/download/vcstar-2022/vcstar-2022-09-09T11:36:17.636334-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 8 at 9:40 AM](https://archive.org/download/vcstar-2022/vcstar-2022-09-08T09:40:08.841448-07:00.lighthouse.json) |
 | [September 7 at 9:52 PM](https://archive.org/download/vcstar-2022/vcstar-2022-09-07T21:52:42.907790-07:00.lighthouse.json) |
 | [September 7 at 12:13 PM](https://archive.org/download/vcstar-2022/vcstar-2022-09-07T12:13:25.153438-07:00.lighthouse.json) |
-| [September 7 at 10:16 AM](https://archive.org/download/vcstar-2022/vcstar-2022-09-07T10:16:51.726878-07:00.lighthouse.json) |
-| [September 6 at 9:55 PM](https://archive.org/download/vcstar-2022/vcstar-2022-09-06T21:55:40.568173-07:00.lighthouse.json) |
 
 
 

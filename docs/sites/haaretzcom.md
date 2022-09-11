@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 12 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 13 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         82
     </td>
     <td style="text-align: right;">
-        527
+        533
     </td>
   </tr>
 
@@ -193,10 +193,10 @@ The median score for each category, along with how it ranks in comparison to the
         Best practices
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        58
+        75
     </td>
     <td style="text-align: right;">
-        800
+        603
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        6
+        5
     </td>
     <td style="text-align: right;">
-        829
+        850
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         99
     </td>
     <td style="text-align: right;">
-        38
+        32
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 54 screenshots with the Internet Archive.
+The archiving routine has saved 56 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-11T03:10:13.212896+03:00.jpg">
+  <img src="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-11T03:10:13.212896+03:00.jpg"
+     alt="Haaretz at 2022-09-11 03:10:14+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-11T03:10:13.212896+03:00.jpg">September 11 at 3:10 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-10T14:57:13.752397+03:00.jpg">
+  <img src="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-10T14:57:13.752397+03:00.jpg"
+     alt="Haaretz at 2022-09-10 14:57:18+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-10T14:57:13.752397+03:00.jpg">September 10 at 2:57 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-10T03:02:29.100713+03:00.jpg">
   <img src="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-10T03:02:29.100713+03:00.jpg"
      alt="Haaretz at 2022-09-10 03:02:34+03:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-05T02:51:37.050455+03:00.jpg">September 5 at 2:51 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-04T14:55:01.914831+03:00.jpg">
-  <img src="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-04T14:55:01.914831+03:00.jpg"
-     alt="Haaretz at 2022-09-04 14:55:04+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-04T14:55:01.914831+03:00.jpg">September 4 at 2:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-04T02:46:12.823516+03:00.jpg">
-  <img src="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-04T02:46:12.823516+03:00.jpg"
-     alt="Haaretz at 2022-09-04 02:46:15+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-04T02:46:12.823516+03:00.jpg">September 4 at 2:46 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 53 hyperlink lists with the Internet Archive.
+The archiving routine has saved 55 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 3:10 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-11T03:10:13.212896+03:00.hyperlinks.json) |
+| [September 10 at 2:57 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-10T14:57:13.752397+03:00.hyperlinks.json) |
 | [September 10 at 3:02 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-10T03:02:29.100713+03:00.hyperlinks.json) |
 | [September 9 at 3:13 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-09T15:13:31.986988+03:00.hyperlinks.json) |
 | [September 9 at 3:04 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-09T03:04:19.680124+03:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 3:31 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-07T15:31:10.691485+03:00.hyperlinks.json) |
 | [September 7 at 3:08 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-07T03:08:05.527787+03:00.hyperlinks.json) |
 | [September 6 at 2:54 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-06T02:54:45.623511+03:00.hyperlinks.json) |
-| [September 5 at 3:17 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-05T15:17:15.725913+03:00.hyperlinks.json) |
-| [September 5 at 2:51 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-05T02:51:37.050455+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 52 accessibility trees with the Internet Archive.
+The archiving routine has saved 54 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 3:10 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-11T03:10:13.212896+03:00.accessibility.json) |
+| [September 10 at 2:57 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-10T14:57:13.752397+03:00.accessibility.json) |
 | [September 10 at 3:02 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-10T03:02:29.100713+03:00.accessibility.json) |
 | [September 9 at 3:13 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-09T15:13:31.986988+03:00.accessibility.json) |
 | [September 9 at 3:04 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-09T03:04:19.680124+03:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 3:31 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-07T15:31:10.691485+03:00.accessibility.json) |
 | [September 7 at 3:08 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-07T03:08:05.527787+03:00.accessibility.json) |
 | [September 6 at 3:01 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-06T15:01:42.798251+03:00.accessibility.json) |
-| [September 6 at 2:54 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-06T02:54:45.623511+03:00.accessibility.json) |
-| [September 5 at 3:17 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-05T15:17:15.725913+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 54 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 56 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 3:10 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-11T03:10:13.212896+03:00.lighthouse.json) |
+| [September 10 at 2:57 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-10T14:57:13.752397+03:00.lighthouse.json) |
 | [September 10 at 3:02 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-10T03:02:29.100713+03:00.lighthouse.json) |
 | [September 9 at 3:13 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-09T15:13:31.986988+03:00.lighthouse.json) |
 | [September 9 at 3:04 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-09T03:04:19.680124+03:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 3:31 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-07T15:31:10.691485+03:00.lighthouse.json) |
 | [September 7 at 3:08 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-07T03:08:05.527787+03:00.lighthouse.json) |
 | [September 6 at 2:54 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-06T02:54:45.623511+03:00.lighthouse.json) |
-| [September 5 at 3:17 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-05T15:17:15.725913+03:00.lighthouse.json) |
-| [September 5 at 2:51 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-09-05T02:51:37.050455+03:00.lighthouse.json) |
 
 
 

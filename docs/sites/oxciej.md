@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 11 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         77
     </td>
     <td style="text-align: right;">
-        671
+        687
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         83
     </td>
     <td style="text-align: right;">
-        404
+        381
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         17
     </td>
     <td style="text-align: right;">
-        652
+        672
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         86
     </td>
     <td style="text-align: right;">
-        456
+        457
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 38 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/oxciej-2022/oxciej-2022-09-11T15:02:33.931511+02:00.jpg">
+  <img src="https://archive.org/download/oxciej-2022/oxciej-2022-09-11T15:02:33.931511+02:00.jpg"
+     alt="Oxpeckers at 2022-09-11 15:02:36+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-09-11T15:02:33.931511+02:00.jpg">September 11 at 3:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oxciej-2022/oxciej-2022-09-11T03:20:17.351600+02:00.jpg">
+  <img src="https://archive.org/download/oxciej-2022/oxciej-2022-09-11T03:20:17.351600+02:00.jpg"
+     alt="Oxpeckers at 2022-09-11 03:20:19+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-09-11T03:20:17.351600+02:00.jpg">September 11 at 3:20 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/oxciej-2022/oxciej-2022-09-10T15:04:44.647507+02:00.jpg">
   <img src="https://archive.org/download/oxciej-2022/oxciej-2022-09-10T15:04:44.647507+02:00.jpg"
      alt="Oxpeckers at 2022-09-10 15:04:47+02:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-09-05T16:07:19.861065+02:00.jpg">September 5 at 4:07 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/oxciej-2022/oxciej-2022-09-05T03:20:34.257801+02:00.jpg">
-  <img src="https://archive.org/download/oxciej-2022/oxciej-2022-09-05T03:20:34.257801+02:00.jpg"
-     alt="Oxpeckers at 2022-09-05 03:20:36+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-09-05T03:20:34.257801+02:00.jpg">September 5 at 3:20 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/oxciej-2022/oxciej-2022-09-04T14:55:04.875023+02:00.jpg">
-  <img src="https://archive.org/download/oxciej-2022/oxciej-2022-09-04T14:55:04.875023+02:00.jpg"
-     alt="Oxpeckers at 2022-09-04 14:55:07+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oxciej-2022/oxciej-2022-09-04T14:55:04.875023+02:00.jpg">September 4 at 2:55 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 36 hyperlink lists with the Internet Archive.
+The archiving routine has saved 38 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 3:02 PM](https://archive.org/download/oxciej-2022/oxciej-2022-09-11T15:02:33.931511+02:00.hyperlinks.json) |
+| [September 11 at 3:20 AM](https://archive.org/download/oxciej-2022/oxciej-2022-09-11T03:20:17.351600+02:00.hyperlinks.json) |
 | [September 10 at 3:04 PM](https://archive.org/download/oxciej-2022/oxciej-2022-09-10T15:04:44.647507+02:00.hyperlinks.json) |
 | [September 10 at 3:23 AM](https://archive.org/download/oxciej-2022/oxciej-2022-09-10T03:23:13.519989+02:00.hyperlinks.json) |
 | [September 9 at 3:21 PM](https://archive.org/download/oxciej-2022/oxciej-2022-09-09T15:20:53.346696+02:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 8 at 3:22 AM](https://archive.org/download/oxciej-2022/oxciej-2022-09-08T03:22:05.334402+02:00.hyperlinks.json) |
 | [September 7 at 3:37 PM](https://archive.org/download/oxciej-2022/oxciej-2022-09-07T15:37:16.994805+02:00.hyperlinks.json) |
 | [September 7 at 3:19 AM](https://archive.org/download/oxciej-2022/oxciej-2022-09-07T03:19:41.631382+02:00.hyperlinks.json) |
-| [September 6 at 3:22 AM](https://archive.org/download/oxciej-2022/oxciej-2022-09-06T03:22:47.498304+02:00.hyperlinks.json) |
-| [September 5 at 4:07 PM](https://archive.org/download/oxciej-2022/oxciej-2022-09-05T16:07:19.861065+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 36 accessibility trees with the Internet Archive.
+The archiving routine has saved 38 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 3:02 PM](https://archive.org/download/oxciej-2022/oxciej-2022-09-11T15:02:33.931511+02:00.accessibility.json) |
+| [September 11 at 3:20 AM](https://archive.org/download/oxciej-2022/oxciej-2022-09-11T03:20:17.351600+02:00.accessibility.json) |
 | [September 10 at 3:04 PM](https://archive.org/download/oxciej-2022/oxciej-2022-09-10T15:04:44.647507+02:00.accessibility.json) |
 | [September 10 at 3:23 AM](https://archive.org/download/oxciej-2022/oxciej-2022-09-10T03:23:13.519989+02:00.accessibility.json) |
 | [September 9 at 3:20 PM](https://archive.org/download/oxciej-2022/oxciej-2022-09-09T15:20:53.346696+02:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 8 at 3:22 AM](https://archive.org/download/oxciej-2022/oxciej-2022-09-08T03:22:05.334402+02:00.accessibility.json) |
 | [September 7 at 3:37 PM](https://archive.org/download/oxciej-2022/oxciej-2022-09-07T15:37:16.994805+02:00.accessibility.json) |
 | [September 7 at 3:19 AM](https://archive.org/download/oxciej-2022/oxciej-2022-09-07T03:19:41.631382+02:00.accessibility.json) |
-| [September 6 at 3:22 AM](https://archive.org/download/oxciej-2022/oxciej-2022-09-06T03:22:47.498304+02:00.accessibility.json) |
-| [September 5 at 4:07 PM](https://archive.org/download/oxciej-2022/oxciej-2022-09-05T16:07:19.861065+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 36 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 38 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 3:02 PM](https://archive.org/download/oxciej-2022/oxciej-2022-09-11T15:02:33.931511+02:00.lighthouse.json) |
+| [September 11 at 3:20 AM](https://archive.org/download/oxciej-2022/oxciej-2022-09-11T03:20:17.351600+02:00.lighthouse.json) |
 | [September 10 at 3:04 PM](https://archive.org/download/oxciej-2022/oxciej-2022-09-10T15:04:44.647507+02:00.lighthouse.json) |
 | [September 10 at 3:23 AM](https://archive.org/download/oxciej-2022/oxciej-2022-09-10T03:23:13.519989+02:00.lighthouse.json) |
 | [September 9 at 3:21 PM](https://archive.org/download/oxciej-2022/oxciej-2022-09-09T15:20:53.346696+02:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 8 at 3:22 AM](https://archive.org/download/oxciej-2022/oxciej-2022-09-08T03:22:05.334402+02:00.lighthouse.json) |
 | [September 7 at 3:37 PM](https://archive.org/download/oxciej-2022/oxciej-2022-09-07T15:37:16.994805+02:00.lighthouse.json) |
 | [September 7 at 3:19 AM](https://archive.org/download/oxciej-2022/oxciej-2022-09-07T03:19:41.631382+02:00.lighthouse.json) |
-| [September 6 at 3:23 AM](https://archive.org/download/oxciej-2022/oxciej-2022-09-06T03:22:47.498304+02:00.lighthouse.json) |
-| [September 5 at 4:07 PM](https://archive.org/download/oxciej-2022/oxciej-2022-09-05T16:07:19.861065+02:00.lighthouse.json) |
 
 
 

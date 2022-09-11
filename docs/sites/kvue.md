@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 12 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 14 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         81
     </td>
     <td style="text-align: right;">
-        551
+        557
     </td>
   </tr>
 
@@ -193,10 +193,10 @@ The median score for each category, along with how it ranks in comparison to the
         Best practices
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        67
+        79
     </td>
     <td style="text-align: right;">
-        715
+        586
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        16
+        17
     </td>
     <td style="text-align: right;">
-        718
+        672
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         77
     </td>
     <td style="text-align: right;">
-        748
+        763
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 111 screenshots with the Internet Archive.
+The archiving routine has saved 113 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kvue-2022/kvue-2022-09-10T19:13:07.290893-05:00.jpg">
+  <img src="https://archive.org/download/kvue-2022/kvue-2022-09-10T19:13:07.290893-05:00.jpg"
+     alt="KVUE at 2022-09-10 19:13:12-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-09-10T19:13:07.290893-05:00.jpg">September 10 at 7:13 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kvue-2022/kvue-2022-09-10T07:00:18.197348-05:00.jpg">
+  <img src="https://archive.org/download/kvue-2022/kvue-2022-09-10T07:00:18.197348-05:00.jpg"
+     alt="KVUE at 2022-09-10 07:00:25-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-09-10T07:00:18.197348-05:00.jpg">September 10 at 7:00 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kvue-2022/kvue-2022-09-09T19:05:41.775975-05:00.jpg">
   <img src="https://archive.org/download/kvue-2022/kvue-2022-09-09T19:05:41.775975-05:00.jpg"
      alt="KVUE at 2022-09-09 19:05:47-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kvue-2022/kvue-2022-09-05T07:20:26.537468-05:00.jpg">September 5 at 7:20 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kvue-2022/kvue-2022-09-04T18:53:43.465389-05:00.jpg">
-  <img src="https://archive.org/download/kvue-2022/kvue-2022-09-04T18:53:43.465389-05:00.jpg"
-     alt="KVUE at 2022-09-04 18:53:45-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-09-04T18:53:43.465389-05:00.jpg">September 4 at 6:53 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kvue-2022/kvue-2022-09-04T06:57:03.582609-05:00.jpg">
-  <img src="https://archive.org/download/kvue-2022/kvue-2022-09-04T06:57:03.582609-05:00.jpg"
-     alt="KVUE at 2022-09-04 06:57:07-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-09-04T06:57:03.582609-05:00.jpg">September 4 at 6:57 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 104 hyperlink lists with the Internet Archive.
+The archiving routine has saved 106 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 10 at 7:13 PM](https://archive.org/download/kvue-2022/kvue-2022-09-10T19:13:07.290893-05:00.hyperlinks.json) |
+| [September 10 at 7:00 AM](https://archive.org/download/kvue-2022/kvue-2022-09-10T07:00:18.197348-05:00.hyperlinks.json) |
 | [September 9 at 7:05 PM](https://archive.org/download/kvue-2022/kvue-2022-09-09T19:05:41.775975-05:00.hyperlinks.json) |
 | [September 9 at 7:16 AM](https://archive.org/download/kvue-2022/kvue-2022-09-09T07:16:00.925863-05:00.hyperlinks.json) |
 | [September 8 at 7:08 PM](https://archive.org/download/kvue-2022/kvue-2022-09-08T19:08:26.307746-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 7 at 7:42 AM](https://archive.org/download/kvue-2022/kvue-2022-09-07T07:42:19.399600-05:00.hyperlinks.json) |
 | [September 6 at 7:10 PM](https://archive.org/download/kvue-2022/kvue-2022-09-06T19:10:36.770379-05:00.hyperlinks.json) |
 | [September 5 at 6:58 PM](https://archive.org/download/kvue-2022/kvue-2022-09-05T18:58:44.294045-05:00.hyperlinks.json) |
-| [September 4 at 6:53 PM](https://archive.org/download/kvue-2022/kvue-2022-09-04T18:53:43.465389-05:00.hyperlinks.json) |
-| [September 4 at 6:57 AM](https://archive.org/download/kvue-2022/kvue-2022-09-04T06:57:03.582609-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 110 accessibility trees with the Internet Archive.
+The archiving routine has saved 112 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 10 at 7:13 PM](https://archive.org/download/kvue-2022/kvue-2022-09-10T19:13:07.290893-05:00.accessibility.json) |
+| [September 10 at 7:00 AM](https://archive.org/download/kvue-2022/kvue-2022-09-10T07:00:18.197348-05:00.accessibility.json) |
 | [September 9 at 7:05 PM](https://archive.org/download/kvue-2022/kvue-2022-09-09T19:05:41.775975-05:00.accessibility.json) |
 | [September 9 at 7:16 AM](https://archive.org/download/kvue-2022/kvue-2022-09-09T07:16:00.925863-05:00.accessibility.json) |
 | [September 8 at 7:08 PM](https://archive.org/download/kvue-2022/kvue-2022-09-08T19:08:26.307746-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 7 at 7:42 AM](https://archive.org/download/kvue-2022/kvue-2022-09-07T07:42:19.399600-05:00.accessibility.json) |
 | [September 6 at 7:10 PM](https://archive.org/download/kvue-2022/kvue-2022-09-06T19:10:36.770379-05:00.accessibility.json) |
 | [September 5 at 6:58 PM](https://archive.org/download/kvue-2022/kvue-2022-09-05T18:58:44.294045-05:00.accessibility.json) |
-| [September 5 at 7:20 AM](https://archive.org/download/kvue-2022/kvue-2022-09-05T07:20:26.537468-05:00.accessibility.json) |
-| [September 4 at 6:53 PM](https://archive.org/download/kvue-2022/kvue-2022-09-04T18:53:43.465389-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 97 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 99 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 10 at 7:13 PM](https://archive.org/download/kvue-2022/kvue-2022-09-10T19:13:07.290893-05:00.lighthouse.json) |
+| [September 10 at 7:00 AM](https://archive.org/download/kvue-2022/kvue-2022-09-10T07:00:18.197348-05:00.lighthouse.json) |
 | [September 9 at 7:05 PM](https://archive.org/download/kvue-2022/kvue-2022-09-09T19:05:41.775975-05:00.lighthouse.json) |
 | [September 9 at 7:16 AM](https://archive.org/download/kvue-2022/kvue-2022-09-09T07:16:00.925863-05:00.lighthouse.json) |
 | [September 8 at 7:08 PM](https://archive.org/download/kvue-2022/kvue-2022-09-08T19:08:26.307746-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 7 at 7:42 AM](https://archive.org/download/kvue-2022/kvue-2022-09-07T07:42:19.399600-05:00.lighthouse.json) |
 | [September 6 at 7:10 PM](https://archive.org/download/kvue-2022/kvue-2022-09-06T19:10:36.770379-05:00.lighthouse.json) |
 | [September 5 at 6:58 PM](https://archive.org/download/kvue-2022/kvue-2022-09-05T18:58:44.294045-05:00.lighthouse.json) |
-| [September 5 at 7:20 AM](https://archive.org/download/kvue-2022/kvue-2022-09-05T07:20:26.537468-05:00.lighthouse.json) |
-| [September 4 at 6:53 PM](https://archive.org/download/kvue-2022/kvue-2022-09-04T18:53:43.465389-05:00.lighthouse.json) |
 
 
 

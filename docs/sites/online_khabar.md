@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 11 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         86
     </td>
     <td style="text-align: right;">
-        414
+        413
     </td>
   </tr>
 
@@ -193,10 +193,10 @@ The median score for each category, along with how it ranks in comparison to the
         Best practices
     </td>
     <td style="text-align: right; background-color: green; color: white;">
-        100
+        92
     </td>
     <td style="text-align: right;">
-        1
+        122
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        39
+        31
     </td>
     <td style="text-align: right;">
-        280
+        374
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         78
     </td>
     <td style="text-align: right;">
-        739
+        753
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 97 screenshots with the Internet Archive.
+The archiving routine has saved 99 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-09-11T18:48:24.402710+05:45.jpg">
+  <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-09-11T18:48:24.402710+05:45.jpg"
+     alt="Online Khabar at 2022-09-11 18:48:31+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-09-11T18:48:24.402710+05:45.jpg">September 11 at 6:48 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-09-11T07:04:59.815384+05:45.jpg">
+  <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-09-11T07:04:59.815384+05:45.jpg"
+     alt="Online Khabar at 2022-09-11 07:05:06+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-09-11T07:04:59.815384+05:45.jpg">September 11 at 7:05 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-09-10T18:50:05.505243+05:45.jpg">
   <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-09-10T18:50:05.505243+05:45.jpg"
      alt="Online Khabar at 2022-09-10 18:50:07+05:45 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-09-05T19:52:22.390052+05:45.jpg">September 5 at 7:52 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-09-05T07:05:35.883140+05:45.jpg">
-  <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-09-05T07:05:35.883140+05:45.jpg"
-     alt="Online Khabar at 2022-09-05 07:05:42+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-09-05T07:05:35.883140+05:45.jpg">September 5 at 7:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-09-04T18:39:19.615699+05:45.jpg">
-  <img src="https://archive.org/download/online_khabar-2022/online_khabar-2022-09-04T18:39:19.615699+05:45.jpg"
-     alt="Online Khabar at 2022-09-04 18:39:25+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/online_khabar-2022/online_khabar-2022-09-04T18:39:19.615699+05:45.jpg">September 4 at 6:39 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 97 hyperlink lists with the Internet Archive.
+The archiving routine has saved 99 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 11 at 6:48 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-11T18:48:24.402710+05:45.hyperlinks.json) |
+| [September 11 at 7:05 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-11T07:04:59.815384+05:45.hyperlinks.json) |
 | [September 10 at 6:50 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-10T18:50:05.505243+05:45.hyperlinks.json) |
 | [September 10 at 7:08 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-10T07:08:01.091195+05:45.hyperlinks.json) |
 | [September 9 at 7:05 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-09T19:05:08.010918+05:45.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 8 at 7:07 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-08T07:07:21.824272+05:45.hyperlinks.json) |
 | [September 7 at 7:22 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-07T19:21:51.438898+05:45.hyperlinks.json) |
 | [September 7 at 7:04 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-07T07:03:57.371772+05:45.hyperlinks.json) |
-| [September 6 at 7:08 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-06T07:07:49.434885+05:45.hyperlinks.json) |
-| [September 5 at 7:52 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-05T19:52:22.390052+05:45.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 97 accessibility trees with the Internet Archive.
+The archiving routine has saved 99 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 11 at 6:48 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-11T18:48:24.402710+05:45.accessibility.json) |
+| [September 11 at 7:05 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-11T07:04:59.815384+05:45.accessibility.json) |
 | [September 10 at 6:50 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-10T18:50:05.505243+05:45.accessibility.json) |
 | [September 10 at 7:08 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-10T07:08:01.091195+05:45.accessibility.json) |
 | [September 9 at 7:05 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-09T19:05:08.010918+05:45.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 8 at 7:07 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-08T07:07:21.824272+05:45.accessibility.json) |
 | [September 7 at 7:22 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-07T19:21:51.438898+05:45.accessibility.json) |
 | [September 7 at 7:04 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-07T07:03:57.371772+05:45.accessibility.json) |
-| [September 6 at 7:08 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-06T07:07:49.434885+05:45.accessibility.json) |
-| [September 5 at 7:52 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-05T19:52:22.390052+05:45.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 96 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 11 at 6:48 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-11T18:48:24.402710+05:45.lighthouse.json) |
+| [September 11 at 7:05 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-11T07:04:59.815384+05:45.lighthouse.json) |
 | [September 10 at 6:50 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-10T18:50:05.505243+05:45.lighthouse.json) |
 | [September 10 at 7:08 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-10T07:08:01.091195+05:45.lighthouse.json) |
 | [September 9 at 7:05 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-09T19:05:08.010918+05:45.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 8 at 7:07 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-08T07:07:21.824272+05:45.lighthouse.json) |
 | [September 7 at 7:22 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-07T19:21:51.438898+05:45.lighthouse.json) |
 | [September 7 at 7:04 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-07T07:03:57.371772+05:45.lighthouse.json) |
-| [September 6 at 7:08 AM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-06T07:07:49.434885+05:45.lighthouse.json) |
-| [September 5 at 7:52 PM](https://archive.org/download/online_khabar-2022/online_khabar-2022-09-05T19:52:22.390052+05:45.lighthouse.json) |
 
 
 

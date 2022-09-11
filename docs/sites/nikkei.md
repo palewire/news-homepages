@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 16 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 23 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -205,7 +205,7 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        65
+        66
     </td>
     <td style="text-align: right;">
         93
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         97
     </td>
     <td style="text-align: right;">
-        117
+        116
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 186 screenshots with the Internet Archive.
+The archiving routine has saved 189 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-12T00:10:09.168025+09:00.jpg">
+  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-12T00:10:09.168025+09:00.jpg"
+     alt="Nikkei at 2022-09-12 00:10:17+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-12T00:10:09.168025+09:00.jpg">September 12 at 12:10 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-11T12:55:18.964627+09:00.jpg">
+  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-11T12:55:18.964627+09:00.jpg"
+     alt="Nikkei at 2022-09-11 12:55:20+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-11T12:55:18.964627+09:00.jpg">September 11 at 12:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-11T11:22:06.382784+09:00.jpg">
+  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-11T11:22:06.382784+09:00.jpg"
+     alt="Nikkei at 2022-09-11 11:22:07+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-11T11:22:06.382784+09:00.jpg">September 11 at 11:22 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-11T00:08:31.242133+09:00.jpg">
   <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-11T00:08:31.242133+09:00.jpg"
      alt="Nikkei at 2022-09-11 00:08:37+09:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-08T11:27:36.096122+09:00.jpg">September 8 at 11:27 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-08T00:50:14.563083+09:00.jpg">
-  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-08T00:50:14.563083+09:00.jpg"
-     alt="Nikkei at 2022-09-08 00:50:43+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-08T00:50:14.563083+09:00.jpg">September 8 at 12:50 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-07T12:59:04.542560+09:00.jpg">
-  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-07T12:59:04.542560+09:00.jpg"
-     alt="Nikkei at 2022-09-07 12:59:06+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-07T12:59:04.542560+09:00.jpg">September 7 at 12:59 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-07T11:27:40.576574+09:00.jpg">
-  <img src="https://archive.org/download/nikkei-2022/nikkei-2022-09-07T11:27:40.576574+09:00.jpg"
-     alt="Nikkei at 2022-09-07 11:27:53+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nikkei-2022/nikkei-2022-09-07T11:27:40.576574+09:00.jpg">September 7 at 11:27 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 187 hyperlink lists with the Internet Archive.
+The archiving routine has saved 190 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [September 12 at 12:10 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-12T00:10:09.168025+09:00.hyperlinks.json) |
+| [September 11 at 12:55 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-11T12:55:18.964627+09:00.hyperlinks.json) |
+| [September 11 at 11:22 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-11T11:22:06.382784+09:00.hyperlinks.json) |
 | [September 11 at 12:08 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-11T00:08:31.242133+09:00.hyperlinks.json) |
 | [September 10 at 12:56 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-10T12:56:33.993915+09:00.hyperlinks.json) |
 | [September 10 at 11:22 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-10T11:22:36.895386+09:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [September 9 at 1:50 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-09T13:50:51.730160+09:00.hyperlinks.json) |
 | [September 9 at 11:24 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-09T11:24:42.768378+09:00.hyperlinks.json) |
 | [September 9 at 12:36 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-09T00:35:50.287895+09:00.hyperlinks.json) |
-| [September 8 at 12:55 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-08T12:54:56.862811+09:00.hyperlinks.json) |
-| [September 8 at 11:27 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-08T11:27:36.096122+09:00.hyperlinks.json) |
-| [September 8 at 12:50 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-08T00:50:14.563083+09:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 187 accessibility trees with the Internet Archive.
+The archiving routine has saved 190 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [September 12 at 12:10 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-12T00:10:09.168025+09:00.accessibility.json) |
+| [September 11 at 12:55 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-11T12:55:18.964627+09:00.accessibility.json) |
+| [September 11 at 11:22 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-11T11:22:06.382784+09:00.accessibility.json) |
 | [September 11 at 12:08 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-11T00:08:31.242133+09:00.accessibility.json) |
 | [September 10 at 12:56 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-10T12:56:33.993915+09:00.accessibility.json) |
 | [September 10 at 11:22 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-10T11:22:36.895386+09:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [September 9 at 1:50 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-09T13:50:51.730160+09:00.accessibility.json) |
 | [September 9 at 11:24 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-09T11:24:42.768378+09:00.accessibility.json) |
 | [September 9 at 12:36 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-09T00:35:50.287895+09:00.accessibility.json) |
-| [September 8 at 12:54 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-08T12:54:56.862811+09:00.accessibility.json) |
-| [September 8 at 11:27 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-08T11:27:36.096122+09:00.accessibility.json) |
-| [September 8 at 12:50 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-08T00:50:14.563083+09:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 141 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 144 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [September 12 at 12:10 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-12T00:10:09.168025+09:00.lighthouse.json) |
+| [September 11 at 12:55 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-11T12:55:18.964627+09:00.lighthouse.json) |
+| [September 11 at 11:22 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-11T11:22:06.382784+09:00.lighthouse.json) |
 | [September 11 at 12:08 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-11T00:08:31.242133+09:00.lighthouse.json) |
 | [September 10 at 12:56 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-10T12:56:33.993915+09:00.lighthouse.json) |
 | [September 10 at 11:22 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-10T11:22:36.895386+09:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [September 9 at 1:51 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-09T13:50:51.730160+09:00.lighthouse.json) |
 | [September 9 at 11:24 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-09T11:24:42.768378+09:00.lighthouse.json) |
 | [September 9 at 12:36 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-09T00:35:50.287895+09:00.lighthouse.json) |
-| [September 8 at 12:55 PM](https://archive.org/download/nikkei-2022/nikkei-2022-09-08T12:54:56.862811+09:00.lighthouse.json) |
-| [September 8 at 11:27 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-08T11:27:36.096122+09:00.lighthouse.json) |
-| [September 8 at 12:50 AM](https://archive.org/download/nikkei-2022/nikkei-2022-09-08T00:50:14.563083+09:00.lighthouse.json) |
 
 
 
