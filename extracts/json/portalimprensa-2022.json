@@ -1,5 +1,5 @@
 {
-  "created": 1662871813,
+  "created": 1662897825,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/2/items/portalimprensa-2022",
@@ -5874,31 +5874,93 @@
       "sha1": "61866863f38a227bc888ea76fd766bcb5f95ad61"
     },
     {
+      "name": "portalimprensa-2022-09-11T09:02:05.262940-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662897729",
+      "size": "1087",
+      "md5": "f7736b8a35183b9b10240872acc4be5d",
+      "crc32": "12b69656",
+      "sha1": "23560fad8fc38bac387783f0c7cf4a3f58d75648",
+      "format": "JSON"
+    },
+    {
+      "name": "portalimprensa-2022-09-11T09:02:05.262940-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662897731",
+      "size": "1749",
+      "md5": "b8fc88848e4312fdfe2c4691c396cab8",
+      "crc32": "23fa8a99",
+      "sha1": "4d09b09c67c6d847393b90a4f3584345f1446799",
+      "format": "JSON"
+    },
+    {
+      "name": "portalimprensa-2022-09-11T09:02:05.262940-03:00.jpg",
+      "source": "original",
+      "mtime": "1662897728",
+      "size": "34499",
+      "md5": "c98c8660a88786ccb238312926f85bc7",
+      "crc32": "ba96f0ea",
+      "sha1": "71d648b2440dced40a75a76e0749833d53d99596",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "portalimprensa-2022-09-11T09:02:05.262940-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662897733",
+      "size": "1558",
+      "md5": "6cd98d0e2ac801d59c806fb7743f9361",
+      "crc32": "97e1a176",
+      "sha1": "ebe9e947c65f4554a2889de52afa79364eeceb32",
+      "format": "JSON"
+    },
+    {
+      "name": "portalimprensa-2022-09-11T09:02:05.262940-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1662897734",
+      "size": "410",
+      "md5": "19ca6f1748d79aee6ff3a8899200ad27",
+      "crc32": "9c27202d",
+      "sha1": "2a22a124ed380a9abc74a0160d61c53779d7715e",
+      "format": "JSON"
+    },
+    {
+      "name": "portalimprensa-2022-09-11T09:02:05.262940-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "portalimprensa-2022-09-11T09:02:05.262940-03:00.jpg",
+      "mtime": "1662897803",
+      "size": "5614",
+      "md5": "b7b4a68eea61b8f239993700b088884e",
+      "crc32": "3fb2e1c9",
+      "sha1": "05154dbdb6b6306ed0a407e4a18d734dc4c3ac64"
+    },
+    {
       "name": "portalimprensa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fa4c1cd65614641ad5b1384d2c0df0934ca4d267",
-      "mtime": "1662871797",
-      "size": "124230",
-      "md5": "3ad9b79e897c1a2e83e2e28fa3673e9f",
-      "crc32": "079faca7",
-      "sha1": "0cb24d4ebd3c30ec5d0016c0c8d25ef80771b079",
+      "btih": "fb785324cbfa4e86555f966748c78ccb20283677",
+      "mtime": "1662897813",
+      "size": "125508",
+      "md5": "3d4dc8052d45bb3a66b09cae055d3e1e",
+      "crc32": "25907b81",
+      "sha1": "71e88d12c985f856dbb4b899abf0cea76f341a52",
       "format": "Archive BitTorrent"
     },
     {
       "name": "portalimprensa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1daaa5d5b9c16a91968a9901aa106991",
+      "md5": "f53c9d8069a6df30f038d0be9ef28f56",
       "summation": "md5"
     },
     {
       "name": "portalimprensa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662871730",
-      "size": "745472",
-      "md5": "b18f9e9c429bb2db14e782dff7a07b50",
-      "crc32": "ac3bbc38",
-      "sha1": "afce8aa8fb2180fd83fc97f6cd33aa5190ba8555",
+      "mtime": "1662897741",
+      "size": "753664",
+      "md5": "a414462d1ac385d5f0e2f1efdc0efa37",
+      "crc32": "7fb65db8",
+      "sha1": "b1d7492467cf927ff6448113cd9b1da53027c628",
       "format": "Metadata"
     },
     {
@@ -5912,9 +5974,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 572,
-  "item_last_updated": 1662871797,
-  "item_size": 38600385,
+  "files_count": 578,
+  "item_last_updated": 1662897813,
+  "item_size": 38654772,
   "metadata": {
     "identifier": "portalimprensa-2022",
     "collection": [
@@ -5931,10 +5993,10 @@
     "publicdate": "2022-08-07 19:44:00",
     "addeddate": "2022-08-07 19:44:00"
   },
-  "server": "ia601502.us.archive.org",
-  "uniq": 616458948,
+  "server": "ia801502.us.archive.org",
+  "uniq": 337847600,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia801502.us.archive.org",
+    "ia601502.us.archive.org"
   ]
 }

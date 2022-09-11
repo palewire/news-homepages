@@ -1,5 +1,5 @@
 {
-  "created": 1662863196,
+  "created": 1662897766,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/33/items/agenciabrasil-2022",
@@ -6464,31 +6464,83 @@
       "sha1": "11ea6ff624647c59d7eaaf6014c15ce9fd43cd1d"
     },
     {
+      "name": "agenciabrasil-2022-09-11T09:01:10.427262-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662897679",
+      "size": "34394",
+      "md5": "3c420eb78505ebd9989a84614c21c12e",
+      "crc32": "3b695cfa",
+      "sha1": "6476a300c4fd2c25e416cdfbbe297004cb55ef91",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciabrasil-2022-09-11T09:01:10.427262-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662897683",
+      "size": "41759",
+      "md5": "c479223ecc1823ac55025c7d14d6792f",
+      "crc32": "474d3281",
+      "sha1": "4628ac8afa5879f07c95fc848e09e1f10fa63bbf",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciabrasil-2022-09-11T09:01:10.427262-03:00.jpg",
+      "source": "original",
+      "mtime": "1662897675",
+      "size": "298228",
+      "md5": "5ddc7a426b6a32d3bb151a615bd22f63",
+      "crc32": "6208eed9",
+      "sha1": "e08cc3258f2c0eca76e0c1272cd1dd736c88f589",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "agenciabrasil-2022-09-11T09:01:10.427262-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662897685",
+      "size": "1549",
+      "md5": "c451f6bafa8ec88c28119ed83708d908",
+      "crc32": "e5c4ecb7",
+      "sha1": "817d683d26aecff062df0c7039d31a8c2ef8bcd8",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciabrasil-2022-09-11T09:01:10.427262-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "agenciabrasil-2022-09-11T09:01:10.427262-03:00.jpg",
+      "mtime": "1662897740",
+      "size": "9805",
+      "md5": "be8024d906a14115c4acbb1d4d513e59",
+      "crc32": "10adfdee",
+      "sha1": "2f04c41077edf04dfaf0c800852a231df76dd33d"
+    },
+    {
       "name": "agenciabrasil-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2742b387d914b0f5873b0f0f709c35e6c6ad8cb2",
-      "mtime": "1662863187",
-      "size": "135913",
-      "md5": "301a685a6acd3ce1aab462809bea7abb",
-      "crc32": "a2c89695",
-      "sha1": "7c0088962d2ed4b28df2b17a5ed8ff64d2464946",
+      "btih": "20380505874cc1a27d581978b68e657077937185",
+      "mtime": "1662897748",
+      "size": "136997",
+      "md5": "43a5e9594a58bc4132efa0c6465735de",
+      "crc32": "287154cb",
+      "sha1": "5343dc055589a384516e1f5880099bec3fef8c0e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "agenciabrasil-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3ee949b5fb13150eabc4cbb34fcd48eb",
+      "md5": "230662530cc73829963442f9be3a6db8",
       "summation": "md5"
     },
     {
       "name": "agenciabrasil-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662863132",
-      "size": "819200",
-      "md5": "b71758eb15dd97b7dfa2d88d1c00a7e0",
-      "crc32": "daef35ba",
-      "sha1": "b34e22793556f53073d30360d0bce0c7609a74a6",
+      "mtime": "1662897689",
+      "size": "823296",
+      "md5": "1c0cba104d33a0821705782d9260d563",
+      "crc32": "20bea50f",
+      "sha1": "065575b7f924f197caf92d24ccb9763771ef8015",
       "format": "Metadata"
     },
     {
@@ -6502,9 +6554,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 629,
-  "item_last_updated": 1662863187,
-  "item_size": 38221608,
+  "files_count": 634,
+  "item_last_updated": 1662897748,
+  "item_size": 38612523,
   "metadata": {
     "identifier": "agenciabrasil-2022",
     "collection": [
@@ -6521,10 +6573,10 @@
     "publicdate": "2022-08-04 04:55:44",
     "addeddate": "2022-08-04 04:55:44"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 768700769,
+  "server": "ia601405.us.archive.org",
+  "uniq": 953340746,
   "workable_servers": [
-    "ia801405.us.archive.org",
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }
