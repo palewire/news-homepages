@@ -1,5 +1,5 @@
 {
-  "created": 1662868539,
+  "created": 1662901528,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/14/items/foxnews-2022",
@@ -32414,31 +32414,83 @@
       "sha1": "21f3068eb1aa3cf87c7f4e5444e22b61e74fcb99"
     },
     {
+      "name": "foxnews-2022-09-11T08:59:06.309946-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662901192",
+      "size": "80975",
+      "md5": "dcc5179fa9e796e3bffe69866cf93e93",
+      "crc32": "db7c3154",
+      "sha1": "76666b06af3ffd25261aa2255ecc5051bb049053",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-09-11T08:59:06.309946-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662901194",
+      "size": "104091",
+      "md5": "dad3ba67e321dd40c9e7662e8ef3e601",
+      "crc32": "152f01a7",
+      "sha1": "9bd22f8ae5d09f6c6cc5423a1c6f9135a1e36281",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-09-11T08:59:06.309946-04:00.jpg",
+      "source": "original",
+      "mtime": "1662901190",
+      "size": "436771",
+      "md5": "864fb017ea3d2b48b611fb57a569c6c5",
+      "crc32": "fc496dfe",
+      "sha1": "3625305c2254ea30bce8601f4e824e1ab43cfa29",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxnews-2022-09-11T08:59:06.309946-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662901196",
+      "size": "1468",
+      "md5": "6930f48b8157c4ea8612106e4f7a65b7",
+      "crc32": "1edf3322",
+      "sha1": "2c2817520e60ca75f75d29f191d265a2b7ebd7f2",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-09-11T08:59:06.309946-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxnews-2022-09-11T08:59:06.309946-04:00.jpg",
+      "mtime": "1662901374",
+      "size": "12086",
+      "md5": "7cc16c7244699b7fe84cb0226b33750e",
+      "crc32": "2791a109",
+      "sha1": "030f926ac83b3969a8320197ed4098612f545d26"
+    },
+    {
       "name": "foxnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d4bdd86ed1aca2eadae693068d5fbddaf5496ee1",
-      "mtime": "1662868502",
-      "size": "657416",
-      "md5": "4ea921529bc2c2e06a9fcf2ad5d8c071",
-      "crc32": "845b41e1",
-      "sha1": "8cf90cba60c75505bb02ec07e303920d54a4265c",
+      "btih": "66f2b48de74909ac794fd5adba78441c23f25b3e",
+      "mtime": "1662901512",
+      "size": "658472",
+      "md5": "00085155b0eded6d3873076d8e23ee2a",
+      "crc32": "82471d67",
+      "sha1": "26e5d1bda0e0b03e9b95bb2c17fce7d62ed5ef07",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foxnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0bb42f4d8e1c41d08adc474056ad283e",
+      "md5": "e4fe64b01343085d1740d82f576bcca0",
       "summation": "md5"
     },
     {
       "name": "foxnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662868223",
-      "size": "3649536",
-      "md5": "f106ccdc660ddafba1cdbe1ea3ced876",
-      "crc32": "f198dd7e",
-      "sha1": "5083dbd30b9eb9e62e375452131b91c7a694ab01",
+      "mtime": "1662901200",
+      "size": "3653632",
+      "md5": "3ff24dd27753915426f165734842f810",
+      "crc32": "a4c9fbed",
+      "sha1": "1197c526281500d2b0fc0253a6d3e891facab666",
       "format": "Metadata"
     },
     {
@@ -32452,9 +32504,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 3104,
-  "item_last_updated": 1662868502,
-  "item_size": 412377600,
+  "files_count": 3109,
+  "item_last_updated": 1662901512,
+  "item_size": 413018143,
   "metadata": {
     "identifier": "foxnews-2022",
     "collection": [
@@ -32471,10 +32523,10 @@
     "publicdate": "2022-03-23 01:45:55",
     "addeddate": "2022-03-23 01:45:55"
   },
-  "server": "ia902505.us.archive.org",
-  "uniq": 72770597,
+  "server": "ia802505.us.archive.org",
+  "uniq": 2126498260,
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia802505.us.archive.org",
+    "ia902505.us.archive.org"
   ]
 }

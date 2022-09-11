@@ -1,5 +1,5 @@
 {
-  "created": 1662859874,
+  "created": 1662901329,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/20/items/usatoday-2022",
@@ -24458,31 +24458,83 @@
       "sha1": "8f88d817de2213ad273405f7ad8c13bf1f1b3cea"
     },
     {
+      "name": "usatoday-2022-09-11T08:59:06.168914-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662901149",
+      "size": "31275",
+      "md5": "5450299d4d9d73d1527198b6ec6b7f1f",
+      "crc32": "15c8ca41",
+      "sha1": "bfa55c6bb6564c08928d7039b204c09bf1a5273e",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-09-11T08:59:06.168914-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662901150",
+      "size": "36370",
+      "md5": "5b60ae70953f1d0f0ae63d2cb839e889",
+      "crc32": "7d566535",
+      "sha1": "1841615c878f3dd34793ce05e896d5398914bb64",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-09-11T08:59:06.168914-04:00.jpg",
+      "source": "original",
+      "mtime": "1662901147",
+      "size": "324067",
+      "md5": "9ab11d0c4ab24bac75f32dbc213b7004",
+      "crc32": "bf7fede4",
+      "sha1": "e27a6b7dc6172aeae2b031e914adeb4ad2761415",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "usatoday-2022-09-11T08:59:06.168914-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662901152",
+      "size": "1477",
+      "md5": "33f3d6b19844e7ecc7769d30dd28837a",
+      "crc32": "8261b850",
+      "sha1": "cade3d5e3fc1a3255694eee410b6a621e7fd0fa3",
+      "format": "JSON"
+    },
+    {
+      "name": "usatoday-2022-09-11T08:59:06.168914-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "usatoday-2022-09-11T08:59:06.168914-04:00.jpg",
+      "mtime": "1662901258",
+      "size": "9483",
+      "md5": "cb2dca45794b428de7dc7868de20100b",
+      "crc32": "0a4e69ec",
+      "sha1": "63b84d4e5999581ec904785d955c18d123cf18bb"
+    },
+    {
       "name": "usatoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "67c2f237ac36638f4279bf0aab86cb8b0ea07792",
-      "mtime": "1662859811",
-      "size": "495509",
-      "md5": "7bcf6116216f13361c97d213ac0b5719",
-      "crc32": "73f9d401",
-      "sha1": "7fdd8ba7c60971536b466b05155e01ec2902a5b0",
+      "btih": "bfa5a1aa6783addb300973b5bef26275d8aa8bfa",
+      "mtime": "1662901308",
+      "size": "496568",
+      "md5": "ff3cf05d9467ca60f38a11691d1348eb",
+      "crc32": "f985df13",
+      "sha1": "e4a5dec718e4868b0fffce6fea80752167a9d398",
       "format": "Archive BitTorrent"
     },
     {
       "name": "usatoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7215efceb5316ce5fec23fa54a47e59a",
+      "md5": "a37b37c441c5d831ed9654d576a2990d",
       "summation": "md5"
     },
     {
       "name": "usatoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662859592",
-      "size": "2801664",
-      "md5": "26a5ddd99e929052e2dfcdabcd076aa6",
-      "crc32": "c652971f",
-      "sha1": "de618953bdd7c7be32cfbc826ac5bd88808f4fdc",
+      "mtime": "1662901158",
+      "size": "2805760",
+      "md5": "677964823604c506b72f9876d86a48fe",
+      "crc32": "0fbb3329",
+      "sha1": "a9801e5170781589545ebb72b584d134d0f4530f",
       "format": "Metadata"
     },
     {
@@ -24496,9 +24548,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2347,
-  "item_last_updated": 1662859811,
-  "item_size": 213822743,
+  "files_count": 2352,
+  "item_last_updated": 1662901308,
+  "item_size": 214230570,
   "metadata": {
     "identifier": "usatoday-2022",
     "collection": [
@@ -24515,10 +24567,10 @@
     "publicdate": "2022-03-23 12:05:23",
     "addeddate": "2022-03-23 12:05:23"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 1472516053,
+  "server": "ia601500.us.archive.org",
+  "uniq": 1643125890,
   "workable_servers": [
-    "ia801500.us.archive.org",
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }
