@@ -85,21 +85,3 @@ runs:
           git commit -m "Update archive.org items" --author="palewire <palewire@users.noreply.github.com>" || true
           git pull origin $GITHUB_REF
       shell: bash
-
-    - id: consolidate-files
-      name: Consolidate Internet Archive metadata
-      run: pipenv run python -m newshomepages.extract consolidate;
-      shell: bash
-
-    - id: git-commit-extracts
-      name: Commit archive.org items
-      run: |
-          git add ./extracts
-          git commit -m "Consolidate extracts" --author="palewire <palewire@users.noreply.github.com>" || true
-          git pull origin $GITHUB_REF
-      shell: bash
-
-    - id: git-push
-      name: Git push
-      run: git push || true
-      shell: bash
