@@ -1,5 +1,5 @@
 {
-  "created": 1662893930,
+  "created": 1662921219,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/13/items/breitbartnews-2022",
@@ -17072,31 +17072,83 @@
       "sha1": "b2c98beb55665954a9342e0925dc583ee2d5b250"
     },
     {
+      "name": "breitbartnews-2022-09-11T14:31:09.590455-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662921079",
+      "size": "42474",
+      "md5": "df057c463a872f0a0682afc585fdaff6",
+      "crc32": "915d1fce",
+      "sha1": "add7ac723d8800d98efa60ec73bd9769e62cedfc",
+      "format": "JSON"
+    },
+    {
+      "name": "breitbartnews-2022-09-11T14:31:09.590455-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662921081",
+      "size": "41434",
+      "md5": "122f17aa7961e7981866748e60e0fa78",
+      "crc32": "ce3426cd",
+      "sha1": "4c5d9f47f556b90b8104d2fc1eea684f422d953b",
+      "format": "JSON"
+    },
+    {
+      "name": "breitbartnews-2022-09-11T14:31:09.590455-04:00.jpg",
+      "source": "original",
+      "mtime": "1662921078",
+      "size": "335645",
+      "md5": "ebf6fd89c81fe14b01b3a161bb434d65",
+      "crc32": "56c710c1",
+      "sha1": "fc3c670f48c16954f8af411f1b41f13d1dcb67b7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "breitbartnews-2022-09-11T14:31:09.590455-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662921083",
+      "size": "1486",
+      "md5": "874dcd372698ddd93f165c0a41bb9258",
+      "crc32": "6cb527b7",
+      "sha1": "dabb6f96eac73fc76ce2780f46b8b8870fe341ff",
+      "format": "JSON"
+    },
+    {
+      "name": "breitbartnews-2022-09-11T14:31:09.590455-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "breitbartnews-2022-09-11T14:31:09.590455-04:00.jpg",
+      "mtime": "1662921174",
+      "size": "10496",
+      "md5": "51b687310fdee9547fcaa69924cec2e6",
+      "crc32": "b54523ca",
+      "sha1": "2919f91334859f5266df7fe999344d80226189f8"
+    },
+    {
       "name": "breitbartnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e15e0c071fb2806e6da8398361844d4f38e2f5cf",
-      "mtime": "1662893908",
-      "size": "355200",
-      "md5": "e9184726d2a66282ee2316bfa6a42508",
-      "crc32": "5de89418",
-      "sha1": "ccd3ff98a44655bfb0d6a4c3fc0b32a1f4af4cd1",
+      "btih": "73a7782c7cf4d9a70054d57ed6e79d2d1843b6d2",
+      "mtime": "1662921198",
+      "size": "356285",
+      "md5": "09082ff3f160800d647fc747e83d2a45",
+      "crc32": "51bef7f7",
+      "sha1": "1eabf04782abcdd065d387476e2045e3b300b559",
       "format": "Archive BitTorrent"
     },
     {
       "name": "breitbartnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "49b37987a4cbe8dba6ada4b5165e0ea8",
+      "md5": "0da7c3b18bd0175d036c52aa13725095",
       "summation": "md5"
     },
     {
       "name": "breitbartnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662893762",
-      "size": "1990656",
-      "md5": "4feeb6c7d2d0c3aaba5700a089e0943e",
-      "crc32": "919574ec",
-      "sha1": "e46bd6500516a7f5263a2b60c73debe537d90611",
+      "mtime": "1662921097",
+      "size": "1994752",
+      "md5": "c09f82b0747698cfb4e7128fe4bc883d",
+      "crc32": "fe12570e",
+      "sha1": "e9357028e91b75dabf25addb62bd0c175c03b5fc",
       "format": "Metadata"
     },
     {
@@ -17110,9 +17162,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1641,
-  "item_last_updated": 1662893908,
-  "item_size": 151196763,
+  "files_count": 1646,
+  "item_last_updated": 1662921198,
+  "item_size": 151633479,
   "metadata": {
     "identifier": "breitbartnews-2022",
     "collection": [
@@ -17129,10 +17181,10 @@
     "publicdate": "2022-03-25 18:46:45",
     "addeddate": "2022-03-25 18:46:45"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 980174165,
+  "server": "ia902505.us.archive.org",
+  "uniq": 1100323356,
   "workable_servers": [
-    "ia802505.us.archive.org",
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

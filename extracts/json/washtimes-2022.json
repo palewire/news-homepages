@@ -1,5 +1,5 @@
 {
-  "created": 1662905941,
+  "created": 1662921334,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/23/items/washtimes-2022",
@@ -16916,31 +16916,83 @@
       "sha1": "3c840bbd207902bc40577044e8a3453a9d2eee75"
     },
     {
+      "name": "washtimes-2022-09-11T14:32:53.794369-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662921213",
+      "size": "100577",
+      "md5": "28907996bc0512f1e2c87b1cfcf1e627",
+      "crc32": "b1c38de7",
+      "sha1": "f0db5566e9f4617c1526e71aa5b94aa98d05d7d2",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-09-11T14:32:53.794369-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662921215",
+      "size": "60756",
+      "md5": "c7828330737100ae15ee03820379cfde",
+      "crc32": "92a5eab0",
+      "sha1": "2136c74d737abd7c7e4fda521d72f299668e8383",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-09-11T14:32:53.794369-04:00.jpg",
+      "source": "original",
+      "mtime": "1662921211",
+      "size": "376347",
+      "md5": "ed50d18d2bd2f8e92c71b2b8b5e1a8bc",
+      "crc32": "0a594ea7",
+      "sha1": "028f87b867841ceed358565f363fdd9f40f97cd6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "washtimes-2022-09-11T14:32:53.794369-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662921217",
+      "size": "1522",
+      "md5": "3c0670d931727d1f23ca9ab16b365f8e",
+      "crc32": "724cd795",
+      "sha1": "c5811f2cf581e4cb07aa94d55cadc4c4cbccd5c8",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-09-11T14:32:53.794369-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "washtimes-2022-09-11T14:32:53.794369-04:00.jpg",
+      "mtime": "1662921304",
+      "size": "11102",
+      "md5": "92e15b68b1e6191b235eb44fd6bc7f52",
+      "crc32": "b97dfa72",
+      "sha1": "b23175361472930fc5f6bd324092007a34131117"
+    },
+    {
       "name": "washtimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f388a855e6fee0b47898d93ed158e7df4e3480cd",
-      "mtime": "1662905933",
-      "size": "347122",
-      "md5": "02642b5de4d026a07a31de888403d007",
-      "crc32": "cf8fc22c",
-      "sha1": "6cb48a060740515ef0684f4cabd014ea27a1f2e5",
+      "btih": "cab607cabe96544bc89251a3e634eb263a56dd16",
+      "mtime": "1662921326",
+      "size": "348188",
+      "md5": "320c9def63cb2edac91f9c4fbad67198",
+      "crc32": "e5fb4f36",
+      "sha1": "0652dc9f9879776d5c7aceb88f29686ddc039583",
       "format": "Archive BitTorrent"
     },
     {
       "name": "washtimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ed6e0c7f230165ea0347f3aea266360e",
+      "md5": "75a9098b1947741e2b5812ace098c560",
       "summation": "md5"
     },
     {
       "name": "washtimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662905827",
-      "size": "1957888",
-      "md5": "1cd4ab9141502a6c4adc4ec7789ed06a",
-      "crc32": "28f7a3a9",
-      "sha1": "30ea466ea6a610df9ce4c43f3bed7edf45fcb767",
+      "mtime": "1662921221",
+      "size": "1961984",
+      "md5": "81ef224414eef474293fec9030dd9316",
+      "crc32": "76244f3d",
+      "sha1": "fdadb4026720534b6118dd4802e332633dc55a4d",
       "format": "Metadata"
     },
     {
@@ -16954,9 +17006,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1626,
-  "item_last_updated": 1662905933,
-  "item_size": 187654736,
+  "files_count": 1631,
+  "item_last_updated": 1662921326,
+  "item_size": 188210202,
   "metadata": {
     "identifier": "washtimes-2022",
     "collection": [
@@ -16973,10 +17025,10 @@
     "publicdate": "2022-03-25 18:45:19",
     "addeddate": "2022-03-25 18:45:19"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 1053063127,
+  "server": "ia902505.us.archive.org",
+  "servers_unavailable": true,
+  "uniq": 252919891,
   "workable_servers": [
-    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }
