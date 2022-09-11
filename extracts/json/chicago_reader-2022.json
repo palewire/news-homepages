@@ -1,5 +1,5 @@
 {
-  "created": 1662893857,
+  "created": 1662912862,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/26/items/chicago_reader-2022",
@@ -12556,31 +12556,83 @@
       "sha1": "ce6e66d60f26ec4847bd21a8e7bfe706d81c2eb8"
     },
     {
+      "name": "chicago_reader-2022-09-11T11:12:42.010906-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662912770",
+      "size": "29954",
+      "md5": "6246ff7e83aa3e140a7eac1aa39c463e",
+      "crc32": "e26920fd",
+      "sha1": "64995c23fa5453239ccc93fcafc4a94466565f22",
+      "format": "JSON"
+    },
+    {
+      "name": "chicago_reader-2022-09-11T11:12:42.010906-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662912772",
+      "size": "42920",
+      "md5": "b60d20396a5e44e010c06a6fbc7fa859",
+      "crc32": "3a4a47cf",
+      "sha1": "d2be6d547b0fb02d6470ab36a2b303fc53f3171c",
+      "format": "JSON"
+    },
+    {
+      "name": "chicago_reader-2022-09-11T11:12:42.010906-05:00.jpg",
+      "source": "original",
+      "mtime": "1662912768",
+      "size": "212660",
+      "md5": "84dccc6acb265ecab0de0ad3040d33b0",
+      "crc32": "6e7b65e3",
+      "sha1": "f96046dfd7157d4b4c544091c8392d717a793fb1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chicago_reader-2022-09-11T11:12:42.010906-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662912774",
+      "size": "1485",
+      "md5": "93c66251a53a057d395ec05e7304d249",
+      "crc32": "24bddec4",
+      "sha1": "24447f5b961072bef320a657bdbd194ab53d34e8",
+      "format": "JSON"
+    },
+    {
+      "name": "chicago_reader-2022-09-11T11:12:42.010906-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chicago_reader-2022-09-11T11:12:42.010906-05:00.jpg",
+      "mtime": "1662912838",
+      "size": "9121",
+      "md5": "fd972f36572b95b59f464bd247dba589",
+      "crc32": "b66938cf",
+      "sha1": "ce6e66d60f26ec4847bd21a8e7bfe706d81c2eb8"
+    },
+    {
       "name": "chicago_reader-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7034ffe46a0aba4cc07d94af9e679965b4372828",
-      "mtime": "1662893849",
-      "size": "262053",
-      "md5": "7014d74eeaf920869bec17619c14db7c",
-      "crc32": "eaea7575",
-      "sha1": "d6444b5b9ae0f9a833e135f8c559437bbeec8c10",
+      "btih": "268a619514cb03d9791030cf8825801bcd5d65bd",
+      "mtime": "1662912853",
+      "size": "263142",
+      "md5": "eea0f04aba184d592b155155451a2b92",
+      "crc32": "31a0d570",
+      "sha1": "1763f618452ec7037eb855043a468f494ea225bd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chicago_reader-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a1a25560966ceef4fe63da776a8f4084",
+      "md5": "b14b2d3f2fa6d9c1be1672c7df4afc43",
       "summation": "md5"
     },
     {
       "name": "chicago_reader-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662893774",
-      "size": "1495040",
-      "md5": "2da3858a17229360701de6bcc64b67f1",
-      "crc32": "17c153e0",
-      "sha1": "a22724122f7192fa795c07001a7560dd0cb20760",
+      "mtime": "1662912779",
+      "size": "1503232",
+      "md5": "cfa7ea84e888665ca21c9e276e6cd9d1",
+      "crc32": "84182809",
+      "sha1": "b93315ae0501c534efbde1bfde1d19172421be0b",
       "format": "Metadata"
     },
     {
@@ -12594,9 +12646,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1211,
-  "item_last_updated": 1662893849,
-  "item_size": 73949564,
+  "files_count": 1216,
+  "item_last_updated": 1662912853,
+  "item_size": 74254985,
   "metadata": {
     "identifier": "chicago_reader-2022",
     "collection": [
@@ -12613,10 +12665,10 @@
     "publicdate": "2022-06-24 22:53:23",
     "addeddate": "2022-06-24 22:53:23"
   },
-  "server": "ia601406.us.archive.org",
-  "uniq": 295212834,
+  "server": "ia801406.us.archive.org",
+  "uniq": 165763324,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia801406.us.archive.org",
+    "ia601406.us.archive.org"
   ]
 }
