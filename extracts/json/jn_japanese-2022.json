@@ -1,5 +1,5 @@
 {
-  "created": 1662855275,
+  "created": 1662863023,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/17/items/jn_japanese-2022",
@@ -10488,31 +10488,83 @@
       "sha1": "06f4f7ab96e4cbc875aad9cd99e65870b21323ff"
     },
     {
+      "name": "jn_japanese-2022-09-11T11:21:48.178254+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662862911",
+      "size": "39840",
+      "md5": "d62284f27d58d5a84e27b8474f8997d7",
+      "crc32": "14e2ba87",
+      "sha1": "b4f1eddbda2dd3fd6e7c3db5d1dc7147ddd1967e",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-09-11T11:21:48.178254+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662862913",
+      "size": "78457",
+      "md5": "1c742efbad4de16f60472f70812e0e49",
+      "crc32": "3aabb159",
+      "sha1": "6907397538e3e8aa72364d210c28a3391c9a1768",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-09-11T11:21:48.178254+09:00.jpg",
+      "source": "original",
+      "mtime": "1662862909",
+      "size": "307057",
+      "md5": "d5ac85f030026b395d4319de9f586c54",
+      "crc32": "20393b88",
+      "sha1": "3311212b6168e89341efaeb870cbe1ececa8f5cb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jn_japanese-2022-09-11T11:21:48.178254+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662862915",
+      "size": "1486",
+      "md5": "8fd74f6e175a06825632d9214da244d0",
+      "crc32": "4a043175",
+      "sha1": "ee14bd09df902d5b07ebeb21d5b116e4ffb04c73",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-09-11T11:21:48.178254+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jn_japanese-2022-09-11T11:21:48.178254+09:00.jpg",
+      "mtime": "1662862984",
+      "size": "9916",
+      "md5": "c4a462461764d8fb69406cd2e89a6c0b",
+      "crc32": "15a6c1fe",
+      "sha1": "b9aab7bca8bc3b2319774ec8032420a201f23123"
+    },
+    {
       "name": "jn_japanese-2022_archive.torrent",
       "source": "metadata",
-      "btih": "13775ff5b837a5343d2f066a28b7fd6f0725978f",
-      "mtime": "1662855262",
-      "size": "217511",
-      "md5": "b14feff917efd04de6a08af5b093e357",
-      "crc32": "3dd843e1",
-      "sha1": "b2d329d0ae5d362076a0a1b43b1dc36a8b1ebc9e",
+      "btih": "a6462f9eb96e3b0adb632f593bfd44a29d3d8c4f",
+      "mtime": "1662863008",
+      "size": "218585",
+      "md5": "7b8043ffce800265c01fa5f9cde5a291",
+      "crc32": "2de376a0",
+      "sha1": "4034e2de6cac52318727710252d52bff4f26b3d5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jn_japanese-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "13a8a97fae889241a0868e5fa9f09eee",
+      "md5": "b05c9a97a97f0c9643ea5d6e05030f01",
       "summation": "md5"
     },
     {
       "name": "jn_japanese-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662855186",
-      "size": "1269760",
-      "md5": "f72f79c2ccd13aee9c367c2233adeb70",
-      "crc32": "4b48d0f9",
-      "sha1": "d94e27e2caca06079eeb2d25285b2038e1bc86ab",
+      "mtime": "1662862920",
+      "size": "1273856",
+      "md5": "5f1c557cf38aa4a6b03977acd67cc0cf",
+      "crc32": "06678676",
+      "sha1": "4a87254f5c331c8b543000e0cceac0f6deaa8953",
       "format": "Metadata"
     },
     {
@@ -10526,9 +10578,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1014,
-  "item_last_updated": 1662855262,
-  "item_size": 86895468,
+  "files_count": 1019,
+  "item_last_updated": 1662863008,
+  "item_size": 87337394,
   "metadata": {
     "identifier": "jn_japanese-2022",
     "collection": [
@@ -10545,10 +10597,10 @@
     "publicdate": "2022-07-09 02:39:08",
     "addeddate": "2022-07-09 02:39:08"
   },
-  "server": "ia601403.us.archive.org",
-  "uniq": 219617214,
+  "server": "ia801403.us.archive.org",
+  "uniq": 313968755,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia801403.us.archive.org",
+    "ia601403.us.archive.org"
   ]
 }

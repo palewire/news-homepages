@@ -1,5 +1,5 @@
 {
-  "created": 1662859432,
+  "created": 1662863008,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/26/items/sankei_news-2022",
@@ -9624,31 +9624,83 @@
       "sha1": "92541e8d0ddb3f6253bfcf111c467c870bdfbd0c"
     },
     {
+      "name": "sankei_news-2022-09-11T11:21:50.257998+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662862913",
+      "size": "54008",
+      "md5": "9140bd0d4e50bd59419339ca08add18f",
+      "crc32": "0f12f0ef",
+      "sha1": "ac9c5f12f954f65893fa5e4e2b43f6143d17cb8d",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-09-11T11:21:50.257998+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662862915",
+      "size": "84543",
+      "md5": "e9569a57e7560c852fade31bf5d1b040",
+      "crc32": "fda5dde0",
+      "sha1": "1266bafb3530f68a99b9a352b7192e6853555fbf",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-09-11T11:21:50.257998+09:00.jpg",
+      "source": "original",
+      "mtime": "1662862911",
+      "size": "370358",
+      "md5": "530652164fb22fa4c7e1880277c12f2a",
+      "crc32": "1d691781",
+      "sha1": "cc401817199bbf091088615071eec5d8d487cf47",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sankei_news-2022-09-11T11:21:50.257998+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662862916",
+      "size": "1459",
+      "md5": "9520e86ab42e2a3ebe6de44b89ac1215",
+      "crc32": "f74413be",
+      "sha1": "8ad7de8e74390fa81e0f747497b8f20249f4f524",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-09-11T11:21:50.257998+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sankei_news-2022-09-11T11:21:50.257998+09:00.jpg",
+      "mtime": "1662862985",
+      "size": "10918",
+      "md5": "ad4b00ca2c519335085fb9f82578f49d",
+      "crc32": "39ffcec9",
+      "sha1": "1271d2e2e352ef6bda324868cfbbde3ee143b84a"
+    },
+    {
       "name": "sankei_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3019abff8d36379cf849d492f4c191e5f094095f",
-      "mtime": "1662859426",
-      "size": "199717",
-      "md5": "327571e72cce3f1466b82d8ae73f8e8f",
-      "crc32": "2c928c7e",
-      "sha1": "d2b174b23974734940fd505b226b4ce9584b0733",
+      "btih": "252c039b2c587a70d0eb851e1c01782b6e30d9ba",
+      "mtime": "1662862999",
+      "size": "200792",
+      "md5": "03641ab956928b25de0fcb04538a5f84",
+      "crc32": "d434cfb1",
+      "sha1": "f619f0320605d17ceeb5185a0a5054499ae0d10d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sankei_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "613e6da3530b39e17d243af16017c1a1",
+      "md5": "4b9aa44399d3761555f27b15d5afa58d",
       "summation": "md5"
     },
     {
       "name": "sankei_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662859359",
-      "size": "1138688",
-      "md5": "fec588d6acd2ef9ce183ca2485220942",
-      "crc32": "74e7f37a",
-      "sha1": "e9c4fc0fe849274b3c3bde40536a89afcb25e9b8",
+      "mtime": "1662862920",
+      "size": "1142784",
+      "md5": "145c8745934024d790da55db98eb96b2",
+      "crc32": "fa294edb",
+      "sha1": "987b78bf812d2385f9f4f1616ccd45cbfca90363",
       "format": "Metadata"
     },
     {
@@ -9662,9 +9714,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 928,
-  "item_last_updated": 1662859426,
-  "item_size": 101187836,
+  "files_count": 933,
+  "item_last_updated": 1662862999,
+  "item_size": 101714293,
   "metadata": {
     "identifier": "sankei_news-2022",
     "collection": [
@@ -9681,10 +9733,10 @@
     "publicdate": "2022-07-09 02:39:00",
     "addeddate": "2022-07-09 02:39:00"
   },
-  "server": "ia802507.us.archive.org",
-  "uniq": 1976580256,
+  "server": "ia902507.us.archive.org",
+  "uniq": 1271358665,
   "workable_servers": [
-    "ia802507.us.archive.org",
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }
