@@ -1,6 +1,5 @@
 {
-  "conflict": 1662836964,
-  "created": 1662836964,
+  "created": 1662863055,
   "d1": "ia903007.us.archive.org",
   "d2": "ia803007.us.archive.org",
   "dir": "/16/items/latimes-2022",
@@ -36113,34 +36112,80 @@
       "name": "latimes-2022-09-10T12:06:46.380299-07:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "latimes-2022-09-10T12:06:46.380299-07:00.jpg"
+      "original": "latimes-2022-09-10T12:06:46.380299-07:00.jpg",
+      "mtime": "1662836958",
+      "size": "9004",
+      "md5": "885b6f7c5246171090ed23dbe96eb36b",
+      "crc32": "1d6f6af1",
+      "sha1": "5cff6c4e616f9b31565bbc4150e90e446ba02415"
+    },
+    {
+      "name": "latimes-2022-09-10T19:21:41.027499-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662862906",
+      "size": "42408",
+      "md5": "d0d37ba36aca556faceb766640f5043c",
+      "crc32": "f0055d12",
+      "sha1": "47db53cde40d9f77bd909ae5ea47d1414311fb10",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-09-10T19:21:41.027499-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662862908",
+      "size": "55034",
+      "md5": "9b2c2dbb980ce7fb340b13c4bfd80390",
+      "crc32": "a2c8da02",
+      "sha1": "8c6024e466c66b7f62e2f0ef7403aa3a58d1f893",
+      "format": "JSON"
+    },
+    {
+      "name": "latimes-2022-09-10T19:21:41.027499-07:00.jpg",
+      "source": "original",
+      "mtime": "1662862904",
+      "size": "256402",
+      "md5": "2376944ce8c2547920bd5d038a587b74",
+      "crc32": "c0d3ebaa",
+      "sha1": "1fd087fceaabecd30f7c6b1509a080ff3cab1b71",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "latimes-2022-09-10T19:21:41.027499-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662862910",
+      "size": "1468",
+      "md5": "803b7fd8308bcd420f296c238747e5a5",
+      "crc32": "7ebabd6b",
+      "sha1": "aa376afe5a6fc1b85b74497b08d2a375c0074b35",
+      "format": "JSON"
     },
     {
       "name": "latimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "035af017e39096c325cab87d04bbe6f7e5779470",
-      "mtime": "1662836937",
-      "size": "727016",
-      "md5": "132281c1fa52286c35afb8f406dc2544",
-      "crc32": "75553f8f",
-      "sha1": "a1883c7423c7bb2177905f8f0d9f9e8fbadb5203",
+      "btih": "4373488f858cb19cb3e1dfe5abc0a8de76f92b8d",
+      "mtime": "1662863047",
+      "size": "728050",
+      "md5": "ae823eb6f234d5b5be442385cfe25a47",
+      "crc32": "16e8041a",
+      "sha1": "e7e1e2c5393bb77f941e2c07737c7e72b66b4a6a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "latimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "df81ebaf5de299d4c9e0a508a769abaa",
+      "md5": "83246adfbe09b36b36f209ac3bfd58ec",
       "summation": "md5"
     },
     {
       "name": "latimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662836822",
-      "size": "4104192",
-      "md5": "e1fb14eb4787819ebeecff3562f5ff14",
-      "crc32": "bce739dc",
-      "sha1": "c8c1784e95209a0b674486286290d077e7756e9b",
+      "mtime": "1662862915",
+      "size": "4108288",
+      "md5": "43d7859fd958a5ecd941eca7bcd9028f",
+      "crc32": "c958e04c",
+      "sha1": "a887cb44da4d5cefd1ee3e62938387156f52d774",
       "format": "Metadata"
     },
     {
@@ -36154,9 +36199,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 3463,
-  "item_last_updated": 1662836937,
-  "item_size": 320116310,
+  "files_count": 3467,
+  "item_last_updated": 1662863047,
+  "item_size": 320485756,
   "metadata": {
     "identifier": "latimes-2022",
     "collection": [
@@ -36178,7 +36223,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3398815623,
+      "task_id": 3399051133,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -36186,7 +36231,7 @@
       "status": "running"
     }
   ],
-  "uniq": 2102383650,
+  "uniq": 1625296486,
   "workable_servers": [
     "ia903007.us.archive.org"
   ]
