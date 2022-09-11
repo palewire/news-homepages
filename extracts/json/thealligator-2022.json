@@ -1,5 +1,5 @@
 {
-  "created": 1662815462,
+  "created": 1662859601,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/19/items/thealligator-2022",
@@ -8870,31 +8870,93 @@
       "sha1": "8d2ae2a7fd966f14320d5aac560ef038c03349a4"
     },
     {
+      "name": "thealligator-2022-09-10T21:24:43.065117-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662859488",
+      "size": "34218",
+      "md5": "dde40ed723019711bd5300ef0dcff6ae",
+      "crc32": "10631f03",
+      "sha1": "0b40ea026fadae879762a977abd061cd84934a8c",
+      "format": "JSON"
+    },
+    {
+      "name": "thealligator-2022-09-10T21:24:43.065117-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662859490",
+      "size": "26240",
+      "md5": "21f4f7b1450315a9d6301ac1003981e4",
+      "crc32": "73194dc9",
+      "sha1": "e04f1baf2e6ed83c7371851bfbfac8a32f6146af",
+      "format": "JSON"
+    },
+    {
+      "name": "thealligator-2022-09-10T21:24:43.065117-04:00.jpg",
+      "source": "original",
+      "mtime": "1662859486",
+      "size": "326940",
+      "md5": "61d02745a9eaff5488de33be5757989f",
+      "crc32": "3ac8bd11",
+      "sha1": "e69cac37ce254f378059895a0ee01f8eb2e27a70",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thealligator-2022-09-10T21:24:43.065117-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662859491",
+      "size": "1483",
+      "md5": "0033b533eb4de30166a64eddefe915ec",
+      "crc32": "4f489c07",
+      "sha1": "6a0a2d1ff949195b4a5313b12525d6bdfffac0e7",
+      "format": "JSON"
+    },
+    {
+      "name": "thealligator-2022-09-10T21:24:43.065117-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662859493",
+      "size": "61965",
+      "md5": "3cd297df43c6a4d85cb788202152e65a",
+      "crc32": "8f04e8c2",
+      "sha1": "fb67756f6e2269b38156bb689e8a96fac0aeb769",
+      "format": "JSON"
+    },
+    {
+      "name": "thealligator-2022-09-10T21:24:43.065117-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thealligator-2022-09-10T21:24:43.065117-04:00.jpg",
+      "mtime": "1662859570",
+      "size": "10488",
+      "md5": "e17852da5440d625ddd500bda304f9d5",
+      "crc32": "bee88676",
+      "sha1": "750f907018a8606b316cb1a1741a40178ddfcd23"
+    },
+    {
       "name": "thealligator-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9422cfc88d46a5a1728e33680244c9ba4752e844",
-      "mtime": "1662815450",
-      "size": "184429",
-      "md5": "de3c3d308aa77ee99b9648e19f3b1d8f",
-      "crc32": "2468ea12",
-      "sha1": "ff44c36c620d83e1153e6a85a254a0b79991065b",
+      "btih": "383f797da085cbd6d6a288632fcaa037f765fb45",
+      "mtime": "1662859584",
+      "size": "185721",
+      "md5": "e50ec32da966176aec774b90a94e233a",
+      "crc32": "b11f6145",
+      "sha1": "0bdead1b47a17f578ac81860caf1096404b42263",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thealligator-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c0d90c21a440fd6aedc14de703ef7b7d",
+      "md5": "b5dbe065f149d05e169fbb790170959d",
       "summation": "md5"
     },
     {
       "name": "thealligator-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662815383",
-      "size": "1060864",
-      "md5": "4cbaaa8a9a3f1ce053f7bad3afef98e1",
-      "crc32": "b0be9549",
-      "sha1": "624c60dee40bafe8f6605dae3b4678b7630d3d6b",
+      "mtime": "1662859500",
+      "size": "1064960",
+      "md5": "ce1b9079b7418cbc8d1d8dcf4e90a9bc",
+      "crc32": "a0a8acd6",
+      "sha1": "d4609d5f5286e2aea50cf846319ef080faa21569",
       "format": "Metadata"
     },
     {
@@ -8908,9 +8970,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 856,
-  "item_last_updated": 1662815450,
-  "item_size": 68760331,
+  "files_count": 862,
+  "item_last_updated": 1662859584,
+  "item_size": 69227053,
   "metadata": {
     "identifier": "thealligator-2022",
     "collection": [
@@ -8927,10 +8989,10 @@
     "publicdate": "2022-06-24 23:02:17",
     "addeddate": "2022-06-24 23:02:17"
   },
-  "server": "ia801509.us.archive.org",
-  "uniq": 879603478,
+  "server": "ia601509.us.archive.org",
+  "uniq": 10490427,
   "workable_servers": [
-    "ia801509.us.archive.org",
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }

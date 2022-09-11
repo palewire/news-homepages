@@ -1,5 +1,5 @@
 {
-  "created": 1662815235,
+  "created": 1662859341,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/13/items/newsweek-2022",
@@ -7458,31 +7458,83 @@
       "sha1": "8eea94a946616bf42165bed4837f0653d1cb80ce"
     },
     {
+      "name": "newsweek-2022-09-10T21:20:47.415129-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662859252",
+      "size": "52404",
+      "md5": "93cb132221d60d18b1417ed1f53dc906",
+      "crc32": "71aa80f9",
+      "sha1": "2dca2158f8e9839b9bfbeef4806a5aca78ba3ab2",
+      "format": "JSON"
+    },
+    {
+      "name": "newsweek-2022-09-10T21:20:47.415129-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662859253",
+      "size": "44023",
+      "md5": "af7d8a61fd4bccc6435d76be6bfbd877",
+      "crc32": "c8f60eb3",
+      "sha1": "ac84d3106387964b368fb65edff8433cc3bf2027",
+      "format": "JSON"
+    },
+    {
+      "name": "newsweek-2022-09-10T21:20:47.415129-04:00.jpg",
+      "source": "original",
+      "mtime": "1662859250",
+      "size": "368449",
+      "md5": "b45a9b27da0bf53cac23726e30557fd9",
+      "crc32": "6478618c",
+      "sha1": "5c795993914338db26240d53299a770178bf202f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsweek-2022-09-10T21:20:47.415129-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662859255",
+      "size": "1470",
+      "md5": "0ab150ba0e71d220eccf13d814f1061f",
+      "crc32": "dbfba576",
+      "sha1": "3adb5e600e0bf583c5f1a421ec6338b84f60b363",
+      "format": "JSON"
+    },
+    {
+      "name": "newsweek-2022-09-10T21:20:47.415129-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsweek-2022-09-10T21:20:47.415129-04:00.jpg",
+      "mtime": "1662859316",
+      "size": "11129",
+      "md5": "9aae06d6dcf600deb51fe74cb52612a6",
+      "crc32": "4d4d07d3",
+      "sha1": "29d01d4f58fec742a4b3bedf0370963044b530d6"
+    },
+    {
       "name": "newsweek-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cc511edbe8fa453d2893f368bb62c7d3e8b881d6",
-      "mtime": "1662815216",
-      "size": "153261",
-      "md5": "3c9dbe4844c0ade982c7b2dba8989e3e",
-      "crc32": "fd9b2d15",
-      "sha1": "c2158a30b62f00dd2c0c5e01201ce62430a2ea82",
+      "btih": "a64f24996a77cf7963631e7137e32aa44b104680",
+      "mtime": "1662859332",
+      "size": "154321",
+      "md5": "8cdbf420fc26a46417005964132ff844",
+      "crc32": "9f9e26e4",
+      "sha1": "ae0d30215135d2f8b1153a2a360346c5e3abe6cd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newsweek-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "448efabc09222e45641c433fc633b60b",
+      "md5": "325361bcb9d3524335035fe02b2c1b7b",
       "summation": "md5"
     },
     {
       "name": "newsweek-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662815149",
-      "size": "901120",
-      "md5": "9fa001201246c52e28a4c4beed45dae4",
-      "crc32": "f00ea8b7",
-      "sha1": "0e380f3d5aceee4da5f96c5376ed2813d524654b",
+      "mtime": "1662859260",
+      "size": "905216",
+      "md5": "89a5b523b53bbaea7897dfe6ea596f65",
+      "crc32": "3be3abf5",
+      "sha1": "39f456623b0b3d00b0101c19be3030d0b2d62850",
       "format": "Metadata"
     },
     {
@@ -7496,9 +7548,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 722,
-  "item_last_updated": 1662815216,
-  "item_size": 68720573,
+  "files_count": 727,
+  "item_last_updated": 1662859332,
+  "item_size": 69203204,
   "metadata": {
     "identifier": "newsweek-2022",
     "collection": [
@@ -7515,10 +7567,10 @@
     "publicdate": "2022-07-04 21:49:52",
     "addeddate": "2022-07-04 21:49:52"
   },
-  "server": "ia801504.us.archive.org",
-  "uniq": 1505090798,
+  "server": "ia601504.us.archive.org",
+  "uniq": 1069354123,
   "workable_servers": [
-    "ia801504.us.archive.org",
-    "ia601504.us.archive.org"
+    "ia601504.us.archive.org",
+    "ia801504.us.archive.org"
   ]
 }

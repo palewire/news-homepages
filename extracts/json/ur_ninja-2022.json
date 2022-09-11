@@ -1,6 +1,5 @@
 {
-  "conflict": 1662834868,
-  "created": 1662834868,
+  "created": 1662859865,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/24/items/ur_ninja-2022",
@@ -12665,34 +12664,91 @@
       "name": "ur_ninja-2022-09-10T13:32:49.515761-05:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "ur_ninja-2022-09-10T13:32:49.515761-05:00.jpg"
+      "original": "ur_ninja-2022-09-10T13:32:49.515761-05:00.jpg",
+      "mtime": "1662834864",
+      "size": "9907",
+      "md5": "7e30cdf9dc89258525f656a4bf410568",
+      "crc32": "3764add5",
+      "sha1": "3d34487d8ef82160ea794103397d55febf632741"
+    },
+    {
+      "name": "ur_ninja-2022-09-10T20:26:59.585600-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662859622",
+      "size": "28106",
+      "md5": "09dc0629ebe60ed6832dfd762e2a8a7c",
+      "crc32": "4e49435c",
+      "sha1": "50d1bbc303f70c34c71f9c83ef498741eee62c6d",
+      "format": "JSON"
+    },
+    {
+      "name": "ur_ninja-2022-09-10T20:26:59.585600-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662859623",
+      "size": "18115",
+      "md5": "b518a1a15e6b56087d5fbf316249a588",
+      "crc32": "e5783885",
+      "sha1": "6cfae50bd2e466a179f48166293b8248c5d848eb",
+      "format": "JSON"
+    },
+    {
+      "name": "ur_ninja-2022-09-10T20:26:59.585600-05:00.jpg",
+      "source": "original",
+      "mtime": "1662859620",
+      "size": "332342",
+      "md5": "c43038d7bf61c4389db8b9392cf8dab0",
+      "crc32": "0bd85f4d",
+      "sha1": "567a89e5c270b031ae99eee93ba157ba8a7f6a7f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ur_ninja-2022-09-10T20:26:59.585600-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662859625",
+      "size": "1485",
+      "md5": "b3b71a009cac8fb321cddd2783b74b69",
+      "crc32": "bc8ee408",
+      "sha1": "42f7f7b5525e5203cbce7a4a50f2e263520701ea",
+      "format": "JSON"
+    },
+    {
+      "name": "ur_ninja-2022-09-10T20:26:59.585600-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ur_ninja-2022-09-10T20:26:59.585600-05:00.jpg",
+      "mtime": "1662859821",
+      "size": "9907",
+      "md5": "7e30cdf9dc89258525f656a4bf410568",
+      "crc32": "3764add5",
+      "sha1": "3d34487d8ef82160ea794103397d55febf632741"
     },
     {
       "name": "ur_ninja-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e0eef0718d381e523fb3d8daf8f97a3ea3081c93",
-      "mtime": "1662834835",
-      "size": "257922",
-      "md5": "dcd91391799ecbe2f0e9078a393cb1c7",
-      "crc32": "8629e101",
-      "sha1": "dca0501f00683adae290fb23ac9ec32767f0fdbd",
+      "btih": "774014b556e1ecd9f94f0fadab38c56bdcd5657f",
+      "mtime": "1662859838",
+      "size": "259185",
+      "md5": "67af37f0e44db6970dc39224c412a27c",
+      "crc32": "059efb83",
+      "sha1": "ef066fd948d5d1a01d2d6200b18249a71d474ebc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ur_ninja-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "678d41a7c0d212283f2f74cfd2c94f64",
+      "md5": "5c86c0c0db435c39dfdecfe0057c1558",
       "summation": "md5"
     },
     {
       "name": "ur_ninja-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662834786",
-      "size": "1499136",
-      "md5": "a4ec1a182e0662dcd466dbc6fbb135f4",
-      "crc32": "453b49d8",
-      "sha1": "3648e6636545b5ea7ca6f5fce807b464483275f8",
+      "mtime": "1662859634",
+      "size": "1503232",
+      "md5": "6e004480ff24be5f8ccd4565b3e981c4",
+      "crc32": "c982b929",
+      "sha1": "da481476056a9fbe3b6d05ea7cf483567df1e2a7",
       "format": "Metadata"
     },
     {
@@ -12706,9 +12762,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1222,
-  "item_last_updated": 1662834835,
-  "item_size": 96495607,
+  "files_count": 1227,
+  "item_last_updated": 1662859838,
+  "item_size": 96900828,
   "metadata": {
     "identifier": "ur_ninja-2022",
     "collection": [
@@ -12725,21 +12781,10 @@
     "publicdate": "2022-06-19 23:29:20",
     "addeddate": "2022-06-19 23:29:20"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3398789351,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 848765116,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1700230395,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

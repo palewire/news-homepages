@@ -1,5 +1,5 @@
 {
-  "created": 1662815553,
+  "created": 1662859666,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/29/items/theweek-2022",
@@ -2744,31 +2744,83 @@
       "sha1": "062b30b5d39cf904f25d0ddb6f23de3cad03125e"
     },
     {
+      "name": "theweek-2022-09-10T21:26:22.947816-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662859586",
+      "size": "30486",
+      "md5": "a8b61fe23080561960c626bf8b086dd4",
+      "crc32": "2ac8679e",
+      "sha1": "faebd702a7b4939c01333d64e7940fc8c6f8e7d3",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-09-10T21:26:22.947816-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662859587",
+      "size": "15310",
+      "md5": "a85ed7df7a28321e9527a808ec57c783",
+      "crc32": "c034b81b",
+      "sha1": "653f02cbc6dc8dc5c7cdbf67d3916a5982f5246e",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-09-10T21:26:22.947816-04:00.jpg",
+      "source": "original",
+      "mtime": "1662859584",
+      "size": "289496",
+      "md5": "282053bc76415e6bf4ec0bb0649889b8",
+      "crc32": "a1da99c2",
+      "sha1": "50b52c3be59206bdb5063c5fc1e4737341a374ab",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theweek-2022-09-10T21:26:22.947816-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662859589",
+      "size": "1432",
+      "md5": "df4ee1a8f77e993c665e0fb34c956e44",
+      "crc32": "a5298ea5",
+      "sha1": "950e5c16b97f8be23d0f4abefa1f65989869b59c",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-09-10T21:26:22.947816-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theweek-2022-09-10T21:26:22.947816-04:00.jpg",
+      "mtime": "1662859647",
+      "size": "10408",
+      "md5": "9b68e629c79f6f97c46e0b0b325a85e2",
+      "crc32": "81c4c190",
+      "sha1": "e7df9e7447e89c59375f2bb0fb0a8cffac8072c4"
+    },
+    {
       "name": "theweek-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0ba2088551fde19e0a90339a23444a0accc7c73e",
-      "mtime": "1662815546",
-      "size": "56793",
-      "md5": "2952e2bb406b0c5871d6a05146f693f7",
-      "crc32": "d7b1dae5",
-      "sha1": "1d30fcdd0e38212b5602b8c0ec3b28dfae34d8a0",
+      "btih": "4418d8703b74944e14c3544cec7f8f8f8a2df617",
+      "mtime": "1662859653",
+      "size": "57848",
+      "md5": "ee854f2936aec10fd1fe7b3f76e5ec85",
+      "crc32": "c319e190",
+      "sha1": "bd60354c19b8aa2b6419a83be1638f0609d2bef1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theweek-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f102fa0511b1fc44319298a4ec3963a1",
+      "md5": "631cfede8edfbb6c11111bf3ff10d408",
       "summation": "md5"
     },
     {
       "name": "theweek-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662815483",
-      "size": "360448",
-      "md5": "d973019d606046358b49ae2a1d5114e3",
-      "crc32": "687caa8d",
-      "sha1": "1b5f939851b8d755c4a418007f8b9bbcd0e57fd8",
+      "mtime": "1662859596",
+      "size": "364544",
+      "md5": "f24f0d79cb076d89e04d364ebb1b0652",
+      "crc32": "a7194cc0",
+      "sha1": "d9809649c638b5dc713bf0812c47be305a327854",
       "format": "Metadata"
     },
     {
@@ -2782,9 +2834,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 269,
-  "item_last_updated": 1662815546,
-  "item_size": 15769849,
+  "files_count": 274,
+  "item_last_updated": 1662859653,
+  "item_size": 16122132,
   "metadata": {
     "identifier": "theweek-2022",
     "collection": [
@@ -2801,10 +2853,10 @@
     "publicdate": "2022-08-19 01:22:20",
     "addeddate": "2022-08-19 01:22:20"
   },
-  "server": "ia601404.us.archive.org",
-  "uniq": 1325140277,
+  "server": "ia801404.us.archive.org",
+  "uniq": 1186298474,
   "workable_servers": [
-    "ia601404.us.archive.org",
-    "ia801404.us.archive.org"
+    "ia801404.us.archive.org",
+    "ia601404.us.archive.org"
   ]
 }

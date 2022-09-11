@@ -1,5 +1,5 @@
 {
-  "created": 1662815437,
+  "created": 1662859571,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/8/items/thecut-2022",
@@ -3282,31 +3282,83 @@
       "sha1": "62ea4d1e844e718a403cb2b024b9fde0bb990483"
     },
     {
+      "name": "thecut-2022-09-10T21:25:06.040992-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662859509",
+      "size": "38810",
+      "md5": "c3ab653c8677d0b58faddc055f56b318",
+      "crc32": "e0e4a7a8",
+      "sha1": "0cbeebfa299e5bc7ac5f89abd00c3adaa39a4132",
+      "format": "JSON"
+    },
+    {
+      "name": "thecut-2022-09-10T21:25:06.040992-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662859511",
+      "size": "29302",
+      "md5": "4bb1d7e21d60ed617eb7da31967d9586",
+      "crc32": "fbb4b4d6",
+      "sha1": "d57900a7d59646410a70da02b80bbffa51a6e0e5",
+      "format": "JSON"
+    },
+    {
+      "name": "thecut-2022-09-10T21:25:06.040992-04:00.jpg",
+      "source": "original",
+      "mtime": "1662859508",
+      "size": "213362",
+      "md5": "4b759d3fdf4b2dd3c1c50403f927b40e",
+      "crc32": "9cd12d81",
+      "sha1": "99b619c86e8aaec27af1447f065d0bd437d8e48d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thecut-2022-09-10T21:25:06.040992-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662859512",
+      "size": "1458",
+      "md5": "2551aa3115803527b0077b318226378e",
+      "crc32": "b702126c",
+      "sha1": "bdc50367de862366bbb414da2b5cdbbd4ba703f6",
+      "format": "JSON"
+    },
+    {
+      "name": "thecut-2022-09-10T21:25:06.040992-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thecut-2022-09-10T21:25:06.040992-04:00.jpg",
+      "mtime": "1662859560",
+      "size": "8341",
+      "md5": "56ec9be90d6ebf26dd0d91726109ebc6",
+      "crc32": "928ebb63",
+      "sha1": "a2d50dae4015bbce011a8fb29ae966025d4d191c"
+    },
+    {
       "name": "thecut-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a9480e4d7bdad7e8a2ec466fcec3c90b7b3d051f",
-      "mtime": "1662815427",
-      "size": "67358",
-      "md5": "b52267eb485351b5c72c147b72aad779",
-      "crc32": "687f6e71",
-      "sha1": "55deb2b81f6ba89abb7cd67147191745d887d134",
+      "btih": "7f61373f1a6ac719f110eb7b06192685c397e97d",
+      "mtime": "1662859564",
+      "size": "68387",
+      "md5": "d0a321000d240692e8bb534ebbba43f8",
+      "crc32": "630e8035",
+      "sha1": "1befa7e920c913a82eacb7fcc96bdc3b49b1d9ae",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thecut-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "28e5b9d731491abcce0fc55a73ac6b5b",
+      "md5": "d9b226e8a801c6c6656fbdb25233edfc",
       "summation": "md5"
     },
     {
       "name": "thecut-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662815375",
-      "size": "417792",
-      "md5": "bb8af3f05cdb3d9fff4c9e30efba2b3d",
-      "crc32": "af189c09",
-      "sha1": "de0425575f694d286510a7f849a6853d6ebb4e9d",
+      "mtime": "1662859516",
+      "size": "425984",
+      "md5": "0f23ea7c469283a15a62d670ccba4c94",
+      "crc32": "3ebcd0f7",
+      "sha1": "6ceca99350834f0f8aab79eb439b03f567c4fbb2",
       "format": "Metadata"
     },
     {
@@ -3320,9 +3372,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 321,
-  "item_last_updated": 1662815427,
-  "item_size": 19544702,
+  "files_count": 326,
+  "item_last_updated": 1662859564,
+  "item_size": 19845196,
   "metadata": {
     "identifier": "thecut-2022",
     "collection": [
@@ -3340,7 +3392,7 @@
     "addeddate": "2022-08-14 20:19:12"
   },
   "server": "ia801407.us.archive.org",
-  "uniq": 1858953617,
+  "uniq": 1070648986,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1662815407,
+  "created": 1662859448,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/1/items/reuters-2022",
@@ -8870,31 +8870,83 @@
       "sha1": "4a21236ab1aed0b7c836ca809b284c62957156bb"
     },
     {
+      "name": "reuters-2022-09-10T21:22:05.871852-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662859341",
+      "size": "29308",
+      "md5": "1367b173117d52b7f9ebf67b2366325c",
+      "crc32": "7845cfd5",
+      "sha1": "0e05836f2e0f0ada1df03ff9a26e1d4ee194454b",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-09-10T21:22:05.871852-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662859347",
+      "size": "21482",
+      "md5": "ea8c428a03a5955e26a8318bf614436f",
+      "crc32": "835c499d",
+      "sha1": "ac2bf5054d93e232490384766e184f2130e46f7d",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-09-10T21:22:05.871852-04:00.jpg",
+      "source": "original",
+      "mtime": "1662859340",
+      "size": "220931",
+      "md5": "7a3734da082f6d9ed1817d55c7f774dc",
+      "crc32": "4796f67d",
+      "sha1": "f160794c40193f0829ca816d4fd4f0b3b51c542c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reuters-2022-09-10T21:22:05.871852-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662859349",
+      "size": "1468",
+      "md5": "795616be828ec73bdf1f34c2360f4ccc",
+      "crc32": "324726de",
+      "sha1": "f00b9257720a3d902ce1dcbd576167169c3d080d",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-09-10T21:22:05.871852-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reuters-2022-09-10T21:22:05.871852-04:00.jpg",
+      "mtime": "1662859428",
+      "size": "8069",
+      "md5": "8ea6b852aa4c752c5585258ea52f619a",
+      "crc32": "383a3377",
+      "sha1": "a0451ad57d10fb1183f4fa586206cbdb5c0d4ea9"
+    },
+    {
       "name": "reuters-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f7e6b11b3768d70935dcc747cc3c28625a272fea",
-      "mtime": "1662815397",
-      "size": "179415",
-      "md5": "9393dfd298160d3c1665484d2cbaf0da",
-      "crc32": "059ff2cc",
-      "sha1": "e7d4ca87567c23847cec2bf7079c68939fadb124",
+      "btih": "fa8a43bba5c535fece9ff8e27d7a14cb530f92ba",
+      "mtime": "1662859440",
+      "size": "180449",
+      "md5": "b201d06b593fd64cb728c0eadc55a80d",
+      "crc32": "15b463c2",
+      "sha1": "d2fd50d88cae526f9fb0f3141867c25bd86f9fbe",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reuters-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4ff0c342488b9bccc07ea95283f129ab",
+      "md5": "769f4017d23a34ebc3269c20dbd3f2e0",
       "summation": "md5"
     },
     {
       "name": "reuters-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662815323",
-      "size": "1052672",
-      "md5": "e90c8b26d969b37c873aeba9591cd1aa",
-      "crc32": "79e3bd58",
-      "sha1": "befea7dfb351b6cea410fba343e2f2023ee1e97c",
+      "mtime": "1662859364",
+      "size": "1056768",
+      "md5": "2e3c5367349c77ff351acf3eef1ac835",
+      "crc32": "4546fd38",
+      "sha1": "ca7ea3cee5e8a797e9f7304e5bcd16241843b57d",
       "format": "Metadata"
     },
     {
@@ -8908,9 +8960,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 856,
-  "item_last_updated": 1662815397,
-  "item_size": 53689154,
+  "files_count": 861,
+  "item_last_updated": 1662859440,
+  "item_size": 53975542,
   "metadata": {
     "identifier": "reuters-2022",
     "collection": [
@@ -8927,10 +8979,10 @@
     "publicdate": "2022-06-24 23:00:05",
     "addeddate": "2022-06-24 23:00:05"
   },
-  "server": "ia902504.us.archive.org",
-  "uniq": 1510234669,
+  "server": "ia802504.us.archive.org",
+  "uniq": 1386165917,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia802504.us.archive.org",
+    "ia902504.us.archive.org"
   ]
 }
