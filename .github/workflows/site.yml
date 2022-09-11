@@ -30,6 +30,10 @@ jobs:
         name: Checkout
         uses: actions/checkout@v3
 
+      - id: install
+        name: Install
+        uses: ./.github/actions/install
+
       - id: consolidate-files
         name: Consolidate Internet Archive metadata
         run: pipenv run python -m newshomepages.extract consolidate;
