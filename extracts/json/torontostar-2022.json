@@ -1,5 +1,5 @@
 {
-  "created": 1662826463,
+  "created": 1662872047,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/10/items/torontostar-2022",
@@ -8458,31 +8458,83 @@
       "sha1": "59a9ee52415bb5918c72a9348ef63962db9c32ba"
     },
     {
+      "name": "torontostar-2022-09-11T00:52:38.151825-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662871965",
+      "size": "46546",
+      "md5": "49e4d25a08b93e49cf1520f104342837",
+      "crc32": "f8b08f43",
+      "sha1": "e809c2556b945239325df896534efdf5996d4a4f",
+      "format": "JSON"
+    },
+    {
+      "name": "torontostar-2022-09-11T00:52:38.151825-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662871966",
+      "size": "36366",
+      "md5": "0449ba5fdd0136f0df04185108700b7c",
+      "crc32": "13a6ada2",
+      "sha1": "14271cb08bd066bef11dd318b688f2b6b0e5ae49",
+      "format": "JSON"
+    },
+    {
+      "name": "torontostar-2022-09-11T00:52:38.151825-04:00.jpg",
+      "source": "original",
+      "mtime": "1662871963",
+      "size": "271070",
+      "md5": "359da0fbda6f9b7c2d76e8f12cf4df5c",
+      "crc32": "22e30ece",
+      "sha1": "b01d72dfc28e63dc5d8994bf2e3edd03dad3b53a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "torontostar-2022-09-11T00:52:38.151825-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662871968",
+      "size": "1510",
+      "md5": "36aafbb18fd41fbbab52e694b66025cb",
+      "crc32": "31db5a63",
+      "sha1": "273749cb28044c440e0ee54f07eb4ac1ca0e7018",
+      "format": "JSON"
+    },
+    {
+      "name": "torontostar-2022-09-11T00:52:38.151825-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "torontostar-2022-09-11T00:52:38.151825-04:00.jpg",
+      "mtime": "1662872027",
+      "size": "9034",
+      "md5": "0783f73c8298f723c7c3adb54f573324",
+      "crc32": "72981963",
+      "sha1": "1bd06b6db30d650308ee591710ff6143fb0985e9"
+    },
+    {
       "name": "torontostar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6511d1b865bed45c4bc8c5ca64aeb6472c91bd34",
-      "mtime": "1662826452",
-      "size": "175063",
-      "md5": "112f809c379d00f0f7068db2091df6ae",
-      "crc32": "12165332",
-      "sha1": "f6295677714c97a4f304e607b052d5c8d9efb791",
+      "btih": "d041775cc4909c0eabfcdd20ca7046fcd37904b3",
+      "mtime": "1662872039",
+      "size": "176137",
+      "md5": "ef1b0f670d9e2ae7cee59a6ffaad7908",
+      "crc32": "f846b075",
+      "sha1": "b48552dce76f527a4d879d8886243d13d4faf46a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "torontostar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7188f47c60a6148c1efefbd5b46c42c9",
+      "md5": "5fa416b5c686ac0b12630bb1291c1607",
       "summation": "md5"
     },
     {
       "name": "torontostar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662826377",
-      "size": "1011712",
-      "md5": "9b0fa8c9422ba4325f456fffa341be2d",
-      "crc32": "b033215d",
-      "sha1": "f70986952bcbb24773de16118dada649d51cc737",
+      "mtime": "1662871973",
+      "size": "1019904",
+      "md5": "7dd80502bf2189dba1b16c62f221993d",
+      "crc32": "b8719bfb",
+      "sha1": "64ac66829c09170663f4faf7eca2bc8b779f64ee",
       "format": "Metadata"
     },
     {
@@ -8496,9 +8548,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 817,
-  "item_last_updated": 1662826452,
-  "item_size": 63397727,
+  "files_count": 822,
+  "item_last_updated": 1662872039,
+  "item_size": 63771519,
   "metadata": {
     "identifier": "torontostar-2022",
     "collection": [
@@ -8515,10 +8567,10 @@
     "publicdate": "2022-06-30 22:36:07",
     "addeddate": "2022-06-30 22:36:07"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 417214610,
+  "server": "ia601508.us.archive.org",
+  "uniq": 314989884,
   "workable_servers": [
-    "ia801508.us.archive.org",
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1662826604,
+  "created": 1662872190,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/3/items/wausauherald-2022",
@@ -13170,31 +13170,93 @@
       "sha1": "d3b48edfa7aecf58d403c7087aa8f29df35f00de"
     },
     {
+      "name": "wausauherald-2022-09-10T23:54:42.627186-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662872092",
+      "size": "22985",
+      "md5": "43266804ec17a5dd855fe935fd0bef39",
+      "crc32": "8c33e989",
+      "sha1": "365a13d4c666c0cc70d1405e13627937086f499c",
+      "format": "JSON"
+    },
+    {
+      "name": "wausauherald-2022-09-10T23:54:42.627186-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662872093",
+      "size": "33648",
+      "md5": "8e4ed7f5f90d89b1a1e9c496cf52c4f5",
+      "crc32": "3b52cef9",
+      "sha1": "8ae57b465443e07bbdb215445a4540f166d9569e",
+      "format": "JSON"
+    },
+    {
+      "name": "wausauherald-2022-09-10T23:54:42.627186-05:00.jpg",
+      "source": "original",
+      "mtime": "1662872090",
+      "size": "292930",
+      "md5": "2fe59f11aa1496956e78f4b25e8acdd7",
+      "crc32": "f0cb5d1b",
+      "sha1": "eab982b0d835dd8b3d5fb2c012126536feffce47",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wausauherald-2022-09-10T23:54:42.627186-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662872095",
+      "size": "1558",
+      "md5": "712322f8886a65dc5e0de040fed740a7",
+      "crc32": "95ff1a60",
+      "sha1": "136e1cdfade0378a1ccf29b7d598ab6d71afa5ad",
+      "format": "JSON"
+    },
+    {
+      "name": "wausauherald-2022-09-10T23:54:42.627186-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1662872097",
+      "size": "114014",
+      "md5": "8838ba026ba32083e7cd3622c6f8afe6",
+      "crc32": "dbb5e9d6",
+      "sha1": "c6f76253f4af71c45e2209d085fc35cada1167f9",
+      "format": "JSON"
+    },
+    {
+      "name": "wausauherald-2022-09-10T23:54:42.627186-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wausauherald-2022-09-10T23:54:42.627186-05:00.jpg",
+      "mtime": "1662872169",
+      "size": "9959",
+      "md5": "1187339f1f2ef83f7957c8f4cf568f89",
+      "crc32": "c7d1349e",
+      "sha1": "784afe4d2f35a83b7555cc44f51919a7798703a0"
+    },
+    {
       "name": "wausauherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f2abad3e0ccee397e3a3878ae0e3a4cdfb54b7ac",
-      "mtime": "1662826587",
-      "size": "271895",
-      "md5": "7fc4ddcd13dafcf85c026980676a584b",
-      "crc32": "8de2e31b",
-      "sha1": "5c9e7a46ba88542f8a94bd424d78632f4a56dd92",
+      "btih": "cb8911d3e9bd79aa4b240b4253bbe2bcb3c69326",
+      "mtime": "1662872183",
+      "size": "273167",
+      "md5": "808381b4a628d11ccc9de90ccef4cf23",
+      "crc32": "896ffac2",
+      "sha1": "868dca27af976da88c09138670ece0c08117d29e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wausauherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "03f8bf496da1a04ef84610891ceb863e",
+      "md5": "144bf716009a82810dbdcf9b6f4d6825",
       "summation": "md5"
     },
     {
       "name": "wausauherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662826494",
-      "size": "1519616",
-      "md5": "62a45865cacd4468d2e39b05ed07f921",
-      "crc32": "585c6572",
-      "sha1": "299b0b6585a8fe61544d0d6d0480384ed5cebc45",
+      "mtime": "1662872103",
+      "size": "1527808",
+      "md5": "fe15a13042ad782389e985962a5123c4",
+      "crc32": "829f4d12",
+      "sha1": "ba4152e679716fffe32230a0dd21a62a472e0649",
       "format": "Metadata"
     },
     {
@@ -13208,9 +13270,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1265,
-  "item_last_updated": 1662826587,
-  "item_size": 100448490,
+  "files_count": 1271,
+  "item_last_updated": 1662872183,
+  "item_size": 100933048,
   "metadata": {
     "identifier": "wausauherald-2022",
     "collection": [
@@ -13228,7 +13290,7 @@
     "addeddate": "2022-03-23 23:07:49"
   },
   "server": "ia902505.us.archive.org",
-  "uniq": 4792849,
+  "uniq": 1409573854,
   "workable_servers": [
     "ia902505.us.archive.org",
     "ia802505.us.archive.org"

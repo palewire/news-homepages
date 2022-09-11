@@ -1,5 +1,5 @@
 {
-  "created": 1662826542,
+  "created": 1662872177,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/5/items/vtdigger-2022",
@@ -9688,31 +9688,83 @@
       "sha1": "8c2ab5fdeea7936a8cebe23e374a072d82d48329"
     },
     {
+      "name": "vtdigger-2022-09-11T00:54:39.567451-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662872088",
+      "size": "56816",
+      "md5": "5cbbea897b4c01dd548e2071b5a434b5",
+      "crc32": "08d4ca5b",
+      "sha1": "4e89eb80d8a1ed776385727630bb6fbff67acd15",
+      "format": "JSON"
+    },
+    {
+      "name": "vtdigger-2022-09-11T00:54:39.567451-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662872089",
+      "size": "57001",
+      "md5": "f1828c19170f4bf8cdfa2437c2594428",
+      "crc32": "88213d7a",
+      "sha1": "366b2e7f8a149a8ab5d73737707e1fc0ee787f00",
+      "format": "JSON"
+    },
+    {
+      "name": "vtdigger-2022-09-11T00:54:39.567451-04:00.jpg",
+      "source": "original",
+      "mtime": "1662872086",
+      "size": "370944",
+      "md5": "37bae99b8536f428babe053460e62128",
+      "crc32": "3e6ea343",
+      "sha1": "3b97bbaacb55bf3e302e0dbf7c89ce3c091c11d2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vtdigger-2022-09-11T00:54:39.567451-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662872091",
+      "size": "1441",
+      "md5": "e6d33b741bd7c6c0b469ae75e1f77b49",
+      "crc32": "ca35ad1a",
+      "sha1": "fe010c34daddae99e6c0009b503342bfd0f33128",
+      "format": "JSON"
+    },
+    {
+      "name": "vtdigger-2022-09-11T00:54:39.567451-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vtdigger-2022-09-11T00:54:39.567451-04:00.jpg",
+      "mtime": "1662872151",
+      "size": "10060",
+      "md5": "c1304c23248f5af0d3aa3f1157ae4a07",
+      "crc32": "651bdb8e",
+      "sha1": "b2e5dadf37c2cf3bfe4033f63781bd5d8a532063"
+    },
+    {
       "name": "vtdigger-2022_archive.torrent",
       "source": "metadata",
-      "btih": "45e9e9032cff5028ac3a77f69d78f20c2d6a68e4",
-      "mtime": "1662826525",
-      "size": "198239",
-      "md5": "0002119dd5a53ce44b31f4b1d2941c94",
-      "crc32": "08c1cb7f",
-      "sha1": "bbbfd046019a94f14880f9f399087710dc9dca27",
+      "btih": "6aca397d2949f08b65d4f8fe584eb41a780416be",
+      "mtime": "1662872166",
+      "size": "199299",
+      "md5": "2cc115cb0d294d527ef8e70abf992c79",
+      "crc32": "ace892c3",
+      "sha1": "9835032e2075a770ae7271b5f12c1b6e844ca863",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vtdigger-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ec5ffa1239bcef383154b8ca76a03a84",
+      "md5": "17c6e09cbe301206ee0cc67be1f0afc9",
       "summation": "md5"
     },
     {
       "name": "vtdigger-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662826455",
-      "size": "1138688",
-      "md5": "b75930bf5c7bf4457979038dbd4368ee",
-      "crc32": "4c6354e2",
-      "sha1": "27c5d4ccdba56d93f733de5134653f1a91182136",
+      "mtime": "1662872096",
+      "size": "1146880",
+      "md5": "bf082f0e4acbc92359698dc29e5f2b95",
+      "crc32": "e8164278",
+      "sha1": "1c4bac19c7f2a62940282b6448f711b2c0d8359e",
       "format": "Metadata"
     },
     {
@@ -9726,9 +9778,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 934,
-  "item_last_updated": 1662826525,
-  "item_size": 99879922,
+  "files_count": 939,
+  "item_last_updated": 1662872166,
+  "item_size": 100385436,
   "metadata": {
     "identifier": "vtdigger-2022",
     "collection": [
@@ -9745,10 +9797,10 @@
     "publicdate": "2022-06-19 23:29:49",
     "addeddate": "2022-06-19 23:29:49"
   },
-  "server": "ia801507.us.archive.org",
-  "uniq": 387915142,
+  "server": "ia601507.us.archive.org",
+  "uniq": 208587375,
   "workable_servers": [
-    "ia801507.us.archive.org",
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

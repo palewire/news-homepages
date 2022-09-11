@@ -1,5 +1,5 @@
 {
-  "created": 1662826520,
+  "created": 1662872109,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/29/items/ukrinform-2022",
@@ -15920,31 +15920,93 @@
       "sha1": "f0995a79d53d3e89d0385cb67a4738be34a6fa5c"
     },
     {
+      "name": "ukrinform-2022-09-11T07:52:36.959925+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662871961",
+      "size": "63059",
+      "md5": "ff12b0336c922deb09a333db9a424f2b",
+      "crc32": "eb90cd17",
+      "sha1": "ad5496e2b04897cec4a60f4ecd35d59123880fe1",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-09-11T07:52:36.959925+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662871963",
+      "size": "58699",
+      "md5": "76977c171f6508117c5cff6fc467f931",
+      "crc32": "016c493c",
+      "sha1": "e9ee190c2e1d5703763f87541071a507a1b85230",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-09-11T07:52:36.959925+03:00.jpg",
+      "source": "original",
+      "mtime": "1662871959",
+      "size": "318633",
+      "md5": "46bf21b93f0260788e4bef5d26d9b9c4",
+      "crc32": "02feb3b5",
+      "sha1": "035c25e9f007de25172df68b4c94b8add1377f75",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ukrinform-2022-09-11T07:52:36.959925+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662871965",
+      "size": "1475",
+      "md5": "e58b07b1687e27d90759b117726c91ed",
+      "crc32": "aa6d90b7",
+      "sha1": "884c0fd3c4ab9bbba9944eaee525006b9c63bc86",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-09-11T07:52:36.959925+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1662871966",
+      "size": "27176",
+      "md5": "8ec6fdd5aed2d927122fd72153ffa03b",
+      "crc32": "26631d51",
+      "sha1": "ddb0a07b908a93db5062d13e024db3fa44250c6c",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-09-11T07:52:36.959925+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ukrinform-2022-09-11T07:52:36.959925+03:00.jpg",
+      "mtime": "1662872073",
+      "size": "9965",
+      "md5": "77c70d03584c0615f032c11f95d7e44b",
+      "crc32": "52983ff8",
+      "sha1": "51fb5fd5cddeb6aaeaf6c162855b6dbfec29adce"
+    },
+    {
       "name": "ukrinform-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4d872523cfdd48234b1d8f6552c3a7c7936edfd6",
-      "mtime": "1662826497",
-      "size": "324722",
-      "md5": "36b0be179e264d2075403c32003bc832",
-      "crc32": "2697e702",
-      "sha1": "c4e12fc58a29801a260bc26276892e1e237f278a",
+      "btih": "64c9e82715291142f85164fcb2dfb310b9877b40",
+      "mtime": "1662872095",
+      "size": "325995",
+      "md5": "56fc9381cd7285e66f04ba9679872113",
+      "crc32": "4cee67cd",
+      "sha1": "0f19da09fd0ebccef0d17fd14f28c0f0f918930a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ukrinform-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c1658dd63c1afb7abbabecc523815067",
+      "md5": "1c54691d467252a7b6b3aa566288e71a",
       "summation": "md5"
     },
     {
       "name": "ukrinform-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662826396",
-      "size": "1814528",
-      "md5": "cc48163532f6e913bf29f45f14e75c92",
-      "crc32": "07ceb17c",
-      "sha1": "fc5869420e7ec4be48dc46a650701003aea17b35",
+      "mtime": "1662871971",
+      "size": "1818624",
+      "md5": "18c6f9834cf3f1f28e8eed9ddc5d5190",
+      "crc32": "bd565306",
+      "sha1": "fe2932d54cb0d16df2fb07401f17a7672745aa37",
       "format": "Metadata"
     },
     {
@@ -15958,9 +16020,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1527,
-  "item_last_updated": 1662826497,
-  "item_size": 156011268,
+  "files_count": 1533,
+  "item_last_updated": 1662872095,
+  "item_size": 156495644,
   "metadata": {
     "identifier": "ukrinform-2022",
     "collection": [
@@ -15977,10 +16039,10 @@
     "publicdate": "2022-03-23 17:48:55",
     "addeddate": "2022-03-23 17:48:55"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 479259100,
+  "server": "ia801409.us.archive.org",
+  "uniq": 2090025879,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }

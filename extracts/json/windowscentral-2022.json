@@ -1,5 +1,5 @@
 {
-  "created": 1662826576,
+  "created": 1662872166,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/13/items/windowscentral-2022",
@@ -5584,31 +5584,83 @@
       "sha1": "c517cef0a7da584ef9fcec5e17ba52e40dde18f9"
     },
     {
+      "name": "windowscentral-2022-09-10T21:54:52.819643-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662872100",
+      "size": "14378",
+      "md5": "9271821da2376fc1115ec2265cebb7bc",
+      "crc32": "1741812c",
+      "sha1": "5e76ec1af50b16009af96e749aa2df64a9c7d2b5",
+      "format": "JSON"
+    },
+    {
+      "name": "windowscentral-2022-09-10T21:54:52.819643-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662872102",
+      "size": "19882",
+      "md5": "9f5a0d8096ae7b3961921ee4754edc60",
+      "crc32": "7e64b7c7",
+      "sha1": "397729f4e34f7d75b6c225079249741132980509",
+      "format": "JSON"
+    },
+    {
+      "name": "windowscentral-2022-09-10T21:54:52.819643-07:00.jpg",
+      "source": "original",
+      "mtime": "1662872098",
+      "size": "259479",
+      "md5": "c8fec59a50b91885465737a6b1aca060",
+      "crc32": "ea63e9e0",
+      "sha1": "4389ecbe90d68b3ab440dfa2b42ddf333b84dc48",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "windowscentral-2022-09-10T21:54:52.819643-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662872103",
+      "size": "1530",
+      "md5": "0ebab8df86b28d12f61e18c7effdfa72",
+      "crc32": "39fea3c1",
+      "sha1": "e3574e87b9013319a4f3fb4924b95ac39112b374",
+      "format": "JSON"
+    },
+    {
+      "name": "windowscentral-2022-09-10T21:54:52.819643-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "windowscentral-2022-09-10T21:54:52.819643-07:00.jpg",
+      "mtime": "1662872152",
+      "size": "9939",
+      "md5": "d8cf2f0c655cf7f2f4a68d2037a8e41e",
+      "crc32": "a567d68e",
+      "sha1": "8b06643c8262aac2655e77899ad219e90021e169"
+    },
+    {
       "name": "windowscentral-2022_archive.torrent",
       "source": "metadata",
-      "btih": "821383484dc5bf3e3e22d428b050925bad0054a9",
-      "mtime": "1662826566",
-      "size": "117856",
-      "md5": "683d89169de7c2ba196e68f76984c6c0",
-      "crc32": "16e8c578",
-      "sha1": "e02068a48a2c2b14ce0304c672e3dade4174632c",
+      "btih": "09823a94f3d9f8d3c0cf3aed03ffac531b2b88d6",
+      "mtime": "1662872159",
+      "size": "118925",
+      "md5": "776222459a3cc34ee9eec1ae807a0a7b",
+      "crc32": "0e2ee2f2",
+      "sha1": "0d200f2bfc41337fab195a4576890c9299b45927",
       "format": "Archive BitTorrent"
     },
     {
       "name": "windowscentral-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "80ca1fd5d03d502fc80932631c49c344",
+      "md5": "712e68e8610107c11273bba3699dc570",
       "summation": "md5"
     },
     {
       "name": "windowscentral-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662826507",
-      "size": "704512",
-      "md5": "811ef104a3c21c65fe93a74c4ddf108d",
-      "crc32": "a13ab078",
-      "sha1": "07c5854afc97ca46f163f3e5e866cc55ea4ab69b",
+      "mtime": "1662872105",
+      "size": "712704",
+      "md5": "23d6da636d2f4ef6a00e703fdd32362f",
+      "crc32": "df70d473",
+      "sha1": "079a883bc5a33b84aee2005b7a4e90cb31782a9a",
       "format": "Metadata"
     },
     {
@@ -5622,9 +5674,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 543,
-  "item_last_updated": 1662826566,
-  "item_size": 31147862,
+  "files_count": 548,
+  "item_last_updated": 1662872159,
+  "item_size": 31462331,
   "metadata": {
     "identifier": "windowscentral-2022",
     "collection": [
@@ -5641,10 +5693,10 @@
     "publicdate": "2022-07-25 06:48:02",
     "addeddate": "2022-07-25 06:48:02"
   },
-  "server": "ia902503.us.archive.org",
-  "uniq": 150956426,
+  "server": "ia802503.us.archive.org",
+  "uniq": 1381145108,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia802503.us.archive.org",
+    "ia902503.us.archive.org"
   ]
 }

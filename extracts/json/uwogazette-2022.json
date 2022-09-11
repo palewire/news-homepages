@@ -1,5 +1,5 @@
 {
-  "created": 1662826449,
+  "created": 1662872075,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/20/items/uwogazette-2022",
@@ -5176,31 +5176,83 @@
       "sha1": "84b370ba235f6e3a92c2034fc1ec1c01b1bb2bbd"
     },
     {
+      "name": "uwogazette-2022-09-11T00:53:00.515606-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662871985",
+      "size": "23706",
+      "md5": "a05c4f4f2fa0582a3e24fcaeabf40f3e",
+      "crc32": "8ed9b9ee",
+      "sha1": "6014a061a368b22f862e6ee00fbfd8e4323648ff",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-09-11T00:53:00.515606-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662871987",
+      "size": "27774",
+      "md5": "0371744572668828f5bd77b1684ef91b",
+      "crc32": "7bb4a7c2",
+      "sha1": "e28d38eda1408a4f35181992c997157e1a8af946",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-09-11T00:53:00.515606-04:00.jpg",
+      "source": "original",
+      "mtime": "1662871984",
+      "size": "329375",
+      "md5": "fa49a6f3a723af8ad9e727b587ff98e2",
+      "crc32": "c0cf1444",
+      "sha1": "a942b590defea684d497d632c88a65e4bb1b4ab2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uwogazette-2022-09-11T00:53:00.515606-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662871988",
+      "size": "1486",
+      "md5": "3946859c7a595ffab13374c0c7d2bd6b",
+      "crc32": "3e242f03",
+      "sha1": "806b07c7b5c5702a0e1b3466d17bc33d4babdffc",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-09-11T00:53:00.515606-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uwogazette-2022-09-11T00:53:00.515606-04:00.jpg",
+      "mtime": "1662872054",
+      "size": "10219",
+      "md5": "53a6b61bae831e2b3d9adc61376fe43c",
+      "crc32": "f9fb3fea",
+      "sha1": "0f08d9214e5b7c6026eaed495bf87f84eec86ea2"
+    },
+    {
       "name": "uwogazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7fd6cc0d0705ff96242ea65c5317bdbe4d1a33a5",
-      "mtime": "1662826436",
-      "size": "107013",
-      "md5": "e4971e03c8b1cdfcea2e7b00050d0f3c",
-      "crc32": "0fd58199",
-      "sha1": "e05939f82790ae0e434f70a07ec56a60ab885bf3",
+      "btih": "470d534ba74544924ada03f001a8062b5acb36be",
+      "mtime": "1662872064",
+      "size": "108083",
+      "md5": "b86ce6b8b4fe4c6647aa0e7bf46b8a8b",
+      "crc32": "78af863a",
+      "sha1": "14efba0ed66929b7796c39e8c9057e5da1be48d5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "uwogazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "851496d81b2854d183f842c907d7faa6",
+      "md5": "e7fca55c2fda7f15466bc20c809070cd",
       "summation": "md5"
     },
     {
       "name": "uwogazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662826364",
-      "size": "630784",
-      "md5": "df7da1e4e89ecfbaf624366159d5d2f7",
-      "crc32": "2212a189",
-      "sha1": "b1389baa972808bfae27f5391d72a56eb461a5e5",
+      "mtime": "1662871994",
+      "size": "638976",
+      "md5": "9be05cb4db831ef0a4c9d7869dc1b555",
+      "crc32": "df00741e",
+      "sha1": "6ae8d3268a661c91e70ad1e083d78f9aacff190c",
       "format": "Metadata"
     },
     {
@@ -5214,9 +5266,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 502,
-  "item_last_updated": 1662826436,
-  "item_size": 35391301,
+  "files_count": 507,
+  "item_last_updated": 1662872064,
+  "item_size": 35793123,
   "metadata": {
     "identifier": "uwogazette-2022",
     "collection": [
@@ -5233,10 +5285,10 @@
     "publicdate": "2022-07-24 03:45:41",
     "addeddate": "2022-07-24 03:45:41"
   },
-  "server": "ia601509.us.archive.org",
-  "uniq": 376223177,
+  "server": "ia801509.us.archive.org",
+  "uniq": 1215376927,
   "workable_servers": [
-    "ia601509.us.archive.org",
-    "ia801509.us.archive.org"
+    "ia801509.us.archive.org",
+    "ia601509.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1662826531,
+  "created": 1662872229,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/32/items/voicesofbay-2022",
@@ -7324,31 +7324,83 @@
       "sha1": "ae29f7b8b99d6f61c08376bdea582888558b0532"
     },
     {
+      "name": "voicesofbay-2022-09-10T21:55:17.524951-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662872122",
+      "size": "31537",
+      "md5": "7e54b6c1d00c68abbfd1034820e43eac",
+      "crc32": "416a081c",
+      "sha1": "b719f9c9325cda2d1d43713f374025588207b6ca",
+      "format": "JSON"
+    },
+    {
+      "name": "voicesofbay-2022-09-10T21:55:17.524951-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662872124",
+      "size": "14776",
+      "md5": "ae207b9099ab6d380c58d07cab088801",
+      "crc32": "fc4a23c7",
+      "sha1": "15bc37cf99878942bfff2274989da1a8ad751041",
+      "format": "JSON"
+    },
+    {
+      "name": "voicesofbay-2022-09-10T21:55:17.524951-07:00.jpg",
+      "source": "original",
+      "mtime": "1662872121",
+      "size": "211106",
+      "md5": "3ea96d4e32a82b8758fcb9bbd7561c7d",
+      "crc32": "a5015758",
+      "sha1": "1f6cbed1ad70393f6226f55a39437e9f4dd2d0a9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "voicesofbay-2022-09-10T21:55:17.524951-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662872125",
+      "size": "1540",
+      "md5": "ee23d936905ccbacff641f1a5ba136c1",
+      "crc32": "1672dc1f",
+      "sha1": "5882389552a6a07886b4f4d3af366f13bde94bb5",
+      "format": "JSON"
+    },
+    {
+      "name": "voicesofbay-2022-09-10T21:55:17.524951-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "voicesofbay-2022-09-10T21:55:17.524951-07:00.jpg",
+      "mtime": "1662872207",
+      "size": "8345",
+      "md5": "37aeaaf920b8e890ae32aadeaf2ad8c2",
+      "crc32": "484d7d9b",
+      "sha1": "75990da231d25d4f9a2a181f7d8dfd61dfe4baa6"
+    },
+    {
       "name": "voicesofbay-2022_archive.torrent",
       "source": "metadata",
-      "btih": "11fc2dbd25c2aa39a8917e0791e7bdd36a6aec40",
-      "mtime": "1662826517",
-      "size": "151237",
-      "md5": "4a847935867604d0a41f2f703427fa39",
-      "crc32": "b55debe7",
-      "sha1": "deeba2f1d95eabd02da344190883e7a1e8c19b80",
+      "btih": "3d243a4a4e42e0e024df0f792641e4d5be3c843e",
+      "mtime": "1662872216",
+      "size": "152311",
+      "md5": "db1a6bb1c6ea4063cb37d23250de4ccf",
+      "crc32": "be355424",
+      "sha1": "fb1e5c2a495e6fe567e75af53f866d156d7d3828",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voicesofbay-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ff35e635f104c3b73cc6b7497670be9f",
+      "md5": "0c03c105c0506882b5282004108e310f",
       "summation": "md5"
     },
     {
       "name": "voicesofbay-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662826449",
-      "size": "888832",
-      "md5": "f28ec004c2780ed658d6c5ee9633c1b7",
-      "crc32": "fb15a127",
-      "sha1": "a6bb96d4b547b88bcb00023ad377b0ac2e38c7ae",
+      "mtime": "1662872131",
+      "size": "897024",
+      "md5": "80b49b7a0b9f5fcfb42e4fa7774336fc",
+      "crc32": "b3438a61",
+      "sha1": "6ca54766a6bf131e18f63e8f8e65c425f8b60161",
       "format": "Metadata"
     },
     {
@@ -7362,9 +7414,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 709,
-  "item_last_updated": 1662826517,
-  "item_size": 34114765,
+  "files_count": 714,
+  "item_last_updated": 1662872216,
+  "item_size": 34391335,
   "metadata": {
     "identifier": "voicesofbay-2022",
     "collection": [
@@ -7381,10 +7433,10 @@
     "publicdate": "2022-07-09 04:04:49",
     "addeddate": "2022-07-09 04:04:49"
   },
-  "server": "ia801503.us.archive.org",
-  "uniq": 383623310,
+  "server": "ia601503.us.archive.org",
+  "uniq": 133928572,
   "workable_servers": [
-    "ia801503.us.archive.org",
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }
