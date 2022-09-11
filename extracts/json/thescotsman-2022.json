@@ -1,5 +1,5 @@
 {
-  "created": 1662859588,
+  "created": 1662887855,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/14/items/thescotsman-2022",
@@ -8692,31 +8692,93 @@
       "sha1": "bf084b5d81439e0c6ab7de0b16895cc1fc1eed64"
     },
     {
+      "name": "thescotsman-2022-09-11T10:16:06.399654+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662887770",
+      "size": "70130",
+      "md5": "f50620a87c0bfda77c852d50021a7d74",
+      "crc32": "f64ead1d",
+      "sha1": "b422ac8db16b3bedf236c78b0dd710144126d442",
+      "format": "JSON"
+    },
+    {
+      "name": "thescotsman-2022-09-11T10:16:06.399654+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662887772",
+      "size": "66280",
+      "md5": "968841f7e4d68c3f09932a31eb556301",
+      "crc32": "b4bdf34b",
+      "sha1": "2192a6d2206728ab9a2d607826bdc5715e7049e6",
+      "format": "JSON"
+    },
+    {
+      "name": "thescotsman-2022-09-11T10:16:06.399654+01:00.jpg",
+      "source": "original",
+      "mtime": "1662887768",
+      "size": "288008",
+      "md5": "1b920c6aa54435906cd6f5212e5b93d6",
+      "crc32": "d9008382",
+      "sha1": "5a4516fc398f53fecd6e09795636fc2f08f1b26a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thescotsman-2022-09-11T10:16:06.399654+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662887773",
+      "size": "1477",
+      "md5": "21468dc0a3b486be73b0618968318afd",
+      "crc32": "0509e88c",
+      "sha1": "b7ee42e09a6b3da91bcc0c953237e734d2acb3f5",
+      "format": "JSON"
+    },
+    {
+      "name": "thescotsman-2022-09-11T10:16:06.399654+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1662887775",
+      "size": "63238",
+      "md5": "80bfabcc248820c84ab0a8178dd559f9",
+      "crc32": "7344b996",
+      "sha1": "538af6162223efb7c38310fe66bac89bca183055",
+      "format": "JSON"
+    },
+    {
+      "name": "thescotsman-2022-09-11T10:16:06.399654+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thescotsman-2022-09-11T10:16:06.399654+01:00.jpg",
+      "mtime": "1662887839",
+      "size": "9381",
+      "md5": "0f10f653c1747159bd45984c7200cead",
+      "crc32": "7b141e7c",
+      "sha1": "74bb2afbb0b898f20a1986cd29466d37b793fec1"
+    },
+    {
       "name": "thescotsman-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4762ba2eb1b6a9a3e6571737168933e4156f3d30",
-      "mtime": "1662859577",
-      "size": "179850",
-      "md5": "040826057dd289f3173f4c9d3bc27765",
-      "crc32": "0be69bed",
-      "sha1": "2f535ede2c28ef1d2b59762be23d862c9754bfcc",
+      "btih": "469335f316068aa75925bd1ea728188120e9e707",
+      "mtime": "1662887847",
+      "size": "181135",
+      "md5": "cf28ddefa00c76687591bc92f29994c9",
+      "crc32": "76314c09",
+      "sha1": "70d6479b1161021837614b2a1f349643081f5734",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thescotsman-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "97c659bfb2cdbf7d3462673725be8bf0",
+      "md5": "e7abbeb690b5dcc2be5ad70a63f05de0",
       "summation": "md5"
     },
     {
       "name": "thescotsman-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662859512",
-      "size": "1052672",
-      "md5": "72e63c8126f4888969d3619023ba95cd",
-      "crc32": "f38425dd",
-      "sha1": "0f8dbae38814f0204892aba6686642ace8290c1d",
+      "mtime": "1662887781",
+      "size": "1060864",
+      "md5": "f09d8057b6120b7ef1d180459547cbff",
+      "crc32": "58925717",
+      "sha1": "94d67d01757c8955d8f3d1cd40e69e98309a591e",
       "format": "Metadata"
     },
     {
@@ -8730,9 +8792,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 841,
-  "item_last_updated": 1662859577,
-  "item_size": 57760978,
+  "files_count": 847,
+  "item_last_updated": 1662887847,
+  "item_size": 58268969,
   "metadata": {
     "identifier": "thescotsman-2022",
     "collection": [
@@ -8750,7 +8812,7 @@
     "addeddate": "2022-07-06 21:13:25"
   },
   "server": "ia801406.us.archive.org",
-  "uniq": 1278563620,
+  "uniq": 150398894,
   "workable_servers": [
     "ia801406.us.archive.org",
     "ia601406.us.archive.org"

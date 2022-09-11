@@ -1,5 +1,6 @@
 {
-  "created": 1662859805,
+  "conflict": 1662887924,
+  "created": 1662887924,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/16/items/thesun-2022",
@@ -21182,31 +21183,78 @@
       "sha1": "57990810088126f65c9334cfc26c263f47c90eca"
     },
     {
+      "name": "thesun-2022-09-11T10:16:30.823076+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662887836",
+      "size": "80664",
+      "md5": "e1bb4d95345a5ad8466aeedf22eff6a8",
+      "crc32": "79269503",
+      "sha1": "2334c56bc36442c66cdeaffdbec6a2314c8dcd86",
+      "format": "JSON"
+    },
+    {
+      "name": "thesun-2022-09-11T10:16:30.823076+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662887837",
+      "size": "92305",
+      "md5": "7a62dbabbd01495560d3ab3157c74519",
+      "crc32": "390e4df9",
+      "sha1": "cc02b031439f23df40ac828b6e4706bf08ff882c",
+      "format": "JSON"
+    },
+    {
+      "name": "thesun-2022-09-11T10:16:30.823076+01:00.jpg",
+      "source": "original",
+      "mtime": "1662887834",
+      "size": "248951",
+      "md5": "c79e42384b45715be941e47e400a4f78",
+      "crc32": "f7cc9dc4",
+      "sha1": "2f563763a58f4f869082a59ca29c3398702fd73e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thesun-2022-09-11T10:16:30.823076+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662887839",
+      "size": "1473",
+      "md5": "1a6e06c080e4a3fcd2a9bae922c7ff78",
+      "crc32": "c0bbceff",
+      "sha1": "da4f573de50df0adac0f65ba75a22020342dd84b",
+      "format": "JSON"
+    },
+    {
+      "name": "thesun-2022-09-11T10:16:30.823076+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thesun-2022-09-11T10:16:30.823076+01:00.jpg"
+    },
+    {
       "name": "thesun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a08b45d847b5826702eacfbdedb2ee5ce8d7d9f3",
-      "mtime": "1662859748",
-      "size": "427890",
-      "md5": "0f7c4e2acd30b5ea95b267c33e326c5d",
-      "crc32": "47eccf84",
-      "sha1": "906f4aa0af33172ce1fe88091f60df8052dbeeaa",
+      "btih": "865b5a71e623125a6ae0532bc76d6411b18da09f",
+      "mtime": "1662887905",
+      "size": "428737",
+      "md5": "852b0cc2b12de2091760fd868066d0ed",
+      "crc32": "b2dc0dfd",
+      "sha1": "f4b45d207ac3ed449dd7fe17741ce8cbf99bddc0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thesun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4020d0c1a33f570f4d9482e6b8338b1f",
+      "md5": "f97a631bca4beec8b17616e63a1e391a",
       "summation": "md5"
     },
     {
       "name": "thesun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662859620",
-      "size": "2416640",
-      "md5": "7f8ac2a3741bd674c8e23be48bd88e0c",
-      "crc32": "ab5f6232",
-      "sha1": "eb30e9568bb77f1a4c7866dc831aa7e0496fba81",
+      "mtime": "1662887842",
+      "size": "2420736",
+      "md5": "c298a88ae881bf02349c7070056f6890",
+      "crc32": "ae76981a",
+      "sha1": "be2fd97718d9e298887bd9cb60215ea23bbf88df",
       "format": "Metadata"
     },
     {
@@ -21220,9 +21268,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2032,
-  "item_last_updated": 1662859748,
-  "item_size": 239667395,
+  "files_count": 2037,
+  "item_last_updated": 1662887905,
+  "item_size": 240095731,
   "metadata": {
     "identifier": "thesun-2022",
     "collection": [
@@ -21239,10 +21287,21 @@
     "publicdate": "2022-03-23 08:04:03",
     "addeddate": "2022-03-23 08:04:03"
   },
-  "server": "ia802508.us.archive.org",
-  "uniq": 1318665075,
+  "pending_tasks": true,
+  "server": "ia902508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3399231544,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1145474799,
   "workable_servers": [
-    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }
