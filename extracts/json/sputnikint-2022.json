@@ -1,6 +1,5 @@
 {
-  "conflict": 1662874228,
-  "created": 1662874228,
+  "created": 1662901660,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/26/items/sputnikint-2022",
@@ -9625,34 +9624,91 @@
       "name": "sputnikint-2022-09-11T08:28:48.611397+03:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "sputnikint-2022-09-11T08:28:48.611397+03:00.jpg"
+      "original": "sputnikint-2022-09-11T08:28:48.611397+03:00.jpg",
+      "mtime": "1662874225",
+      "size": "11922",
+      "md5": "9d1e869c9c24ec31aa444977409e7ce5",
+      "crc32": "afc0563c",
+      "sha1": "ed5a5a791e5c5b66a4ee3589291e85f3183e663a"
+    },
+    {
+      "name": "sputnikint-2022-09-11T16:05:32.440107+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662901561",
+      "size": "38601",
+      "md5": "92379b23466559ee0d7d0df93101d223",
+      "crc32": "3ee220f8",
+      "sha1": "ad3148fde9e72be38dbfc98de780d6f48a5fbfd6",
+      "format": "JSON"
+    },
+    {
+      "name": "sputnikint-2022-09-11T16:05:32.440107+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662901563",
+      "size": "33360",
+      "md5": "12b4936b24989f3c330200462857eb64",
+      "crc32": "0e1a79d0",
+      "sha1": "f5d62b440823cb7483246816324425b8164a21c2",
+      "format": "JSON"
+    },
+    {
+      "name": "sputnikint-2022-09-11T16:05:32.440107+03:00.jpg",
+      "source": "original",
+      "mtime": "1662901559",
+      "size": "369714",
+      "md5": "96689514d554325cd1af3a1dd8816ec9",
+      "crc32": "fdfa5a5f",
+      "sha1": "15e60e93f22eaf8dfd9ebb4550945f084b202287",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sputnikint-2022-09-11T16:05:32.440107+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662901565",
+      "size": "1468",
+      "md5": "04a35357be16f82141a8ae214afce715",
+      "crc32": "dafd4b51",
+      "sha1": "85f4d3043bfc288749c47af7775d437cbcca55cc",
+      "format": "JSON"
+    },
+    {
+      "name": "sputnikint-2022-09-11T16:05:32.440107+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sputnikint-2022-09-11T16:05:32.440107+03:00.jpg",
+      "mtime": "1662901637",
+      "size": "11819",
+      "md5": "4ea0a22b8cda31a78719a4eb68ff4ad7",
+      "crc32": "2da9bfc1",
+      "sha1": "9b58bfdc041eaa00a20f5056dcf1dfe5bb0f2e93"
     },
     {
       "name": "sputnikint-2022_archive.torrent",
       "source": "metadata",
-      "btih": "15e413a3dbf09c86f35e1bd5fc6f7fafeea1e33a",
-      "mtime": "1662874200",
-      "size": "199252",
-      "md5": "f765146505c7890489f66b4c1cbed363",
-      "crc32": "f938144e",
-      "sha1": "b56313892a8c56368bea1ee473467ede127fb459",
+      "btih": "4e2e69aaffc1e7bb62668b2c08e53798b2b43993",
+      "mtime": "1662901645",
+      "size": "200529",
+      "md5": "480b64f651d0a359e2e2d51355d493ea",
+      "crc32": "d54439d2",
+      "sha1": "b1019fdd15336d29b0e5eda3934dc5b2c9e7eac6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sputnikint-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "221030e386d3cd92e0d41e9d3c496509",
+      "md5": "4f1523672f636b2e63b37fa0a0857162",
       "summation": "md5"
     },
     {
       "name": "sputnikint-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662874147",
-      "size": "1179648",
-      "md5": "fc776f3432394f191fdab176c2063991",
-      "crc32": "f906bbe3",
-      "sha1": "7d9510d7d1e51315cf4fdfeaa2977c587bde98ef",
+      "mtime": "1662901570",
+      "size": "1183744",
+      "md5": "e2d07ba11694be5171b61496dbfd2c16",
+      "crc32": "45ce6c25",
+      "sha1": "96ed5b0581409dde96aa6aa7a591c55446c70a08",
       "format": "Metadata"
     },
     {
@@ -9666,9 +9722,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 933,
-  "item_last_updated": 1662874200,
-  "item_size": 79689855,
+  "files_count": 938,
+  "item_last_updated": 1662901645,
+  "item_size": 80162112,
   "metadata": {
     "identifier": "sputnikint-2022",
     "collection": [
@@ -9685,21 +9741,10 @@
     "publicdate": "2022-07-16 20:31:44",
     "addeddate": "2022-07-16 20:31:44"
   },
-  "pending_tasks": true,
-  "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3399138639,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1915910248,
+  "server": "ia801502.us.archive.org",
+  "uniq": 1957032233,
   "workable_servers": [
+    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

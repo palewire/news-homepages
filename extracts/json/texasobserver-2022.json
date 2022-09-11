@@ -1,5 +1,5 @@
 {
-  "created": 1662859848,
+  "created": 1662901683,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/6/items/texasobserver-2022",
@@ -6398,31 +6398,83 @@
       "sha1": "a00dda1b4983fb93be99197da8eaad03a06dc87d"
     },
     {
+      "name": "texasobserver-2022-09-11T08:06:30.742272-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662901598",
+      "size": "21461",
+      "md5": "f6df47cf5a59b2c3f1cdf79167bcdab5",
+      "crc32": "ff780988",
+      "sha1": "217e65930f68a33f5796e86d4e0b72f05c124cef",
+      "format": "JSON"
+    },
+    {
+      "name": "texasobserver-2022-09-11T08:06:30.742272-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662901600",
+      "size": "22624",
+      "md5": "e352bf5792846e7250116211d0b038a5",
+      "crc32": "315e6ea1",
+      "sha1": "3e4b9a1c256d45253d8064ffa1587e48d7f720db",
+      "format": "JSON"
+    },
+    {
+      "name": "texasobserver-2022-09-11T08:06:30.742272-05:00.jpg",
+      "source": "original",
+      "mtime": "1662901597",
+      "size": "206642",
+      "md5": "1ba54e3f7c3a8dabcf486a84cddc567e",
+      "crc32": "2c5508aa",
+      "sha1": "cfa7e33be91633b896fa29deb8011deb00da1ccf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "texasobserver-2022-09-11T08:06:30.742272-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662901602",
+      "size": "1519",
+      "md5": "f778b30d40f22eed839fda1091fcf5c6",
+      "crc32": "e51b80b0",
+      "sha1": "acc1096c5c601fd865e6f306fa43c17f88381120",
+      "format": "JSON"
+    },
+    {
+      "name": "texasobserver-2022-09-11T08:06:30.742272-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "texasobserver-2022-09-11T08:06:30.742272-05:00.jpg",
+      "mtime": "1662901659",
+      "size": "8546",
+      "md5": "05aa0f1752a55bac6026505647444f7e",
+      "crc32": "e65e1fba",
+      "sha1": "a00dda1b4983fb93be99197da8eaad03a06dc87d"
+    },
+    {
       "name": "texasobserver-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6aa454506499d7d7a1173b25e9677a81b13d5e85",
-      "mtime": "1662859789",
-      "size": "133773",
-      "md5": "55f399fbab7ba1aca1f0182e26a7d2f4",
-      "crc32": "8ea52a6a",
-      "sha1": "980ee35bda12b4f03bb491bc9266d8b881074c99",
+      "btih": "36f3f55eccc2461659a7de52b0c2fab215dc9157",
+      "mtime": "1662901668",
+      "size": "134837",
+      "md5": "cad0e128cfaa084ab921f12ceb1cefdd",
+      "crc32": "b8e4f7ce",
+      "sha1": "f1db4e6b2ac702853a8b0a2ea528dd21452d76c6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "texasobserver-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "db4fab2ffb8a00acbd090864e920cfc8",
+      "md5": "72bb0bbc3409f3d7caec16a0b6e0b67c",
       "summation": "md5"
     },
     {
       "name": "texasobserver-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662859469",
-      "size": "798720",
-      "md5": "b26fed79c8c7e080e0aeb82e7c7a4f70",
-      "crc32": "0741a107",
-      "sha1": "8539d5f8bbba8d216d51819ca5f96e945ed2d8ac",
+      "mtime": "1662901607",
+      "size": "802816",
+      "md5": "a2188e2753c6e690c19e3657a217cb6b",
+      "crc32": "121eb3a6",
+      "sha1": "44a3291a7d4e69ab6ff0362578e79335f31a5141",
       "format": "Metadata"
     },
     {
@@ -6436,9 +6488,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 621,
-  "item_last_updated": 1662859789,
-  "item_size": 28139531,
+  "files_count": 626,
+  "item_last_updated": 1662901668,
+  "item_size": 28405483,
   "metadata": {
     "identifier": "texasobserver-2022",
     "collection": [
@@ -6455,10 +6507,10 @@
     "publicdate": "2022-07-18 00:05:22",
     "addeddate": "2022-07-18 00:05:22"
   },
-  "server": "ia601505.us.archive.org",
-  "uniq": 1787628462,
+  "server": "ia801505.us.archive.org",
+  "uniq": 1095486282,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia801505.us.archive.org",
+    "ia601505.us.archive.org"
   ]
 }
