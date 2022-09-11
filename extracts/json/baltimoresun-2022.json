@@ -1,5 +1,6 @@
 {
-  "created": 1662905485,
+  "conflict": 1662913079,
+  "created": 1662913079,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/13/items/baltimoresun-2022",
@@ -24026,31 +24027,78 @@
       "sha1": "802fb2391aa66643de8aabfebb48558e5780c213"
     },
     {
+      "name": "baltimoresun-2022-09-11T12:16:03.053469-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662912967",
+      "size": "28047",
+      "md5": "28951a81008e1252cf658f03cf6c678d",
+      "crc32": "912761a3",
+      "sha1": "c0975778f1ba8c934c7ea82f21c65ec75f92a3ff",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoresun-2022-09-11T12:16:03.053469-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662912968",
+      "size": "38425",
+      "md5": "71d766f854241066d59c91a44726ffdc",
+      "crc32": "4c0e2ea2",
+      "sha1": "cf7b5bff80c0686bd2b3aaaeb793a2ccde99a7f1",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoresun-2022-09-11T12:16:03.053469-04:00.jpg",
+      "source": "original",
+      "mtime": "1662912964",
+      "size": "250359",
+      "md5": "ee5ae16c3a22ef18067c56a9c3631b81",
+      "crc32": "a2f0fb3a",
+      "sha1": "3d475106b4d583c9185d4c5a73f5c4314b64fded",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltimoresun-2022-09-11T12:16:03.053469-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662912970",
+      "size": "1513",
+      "md5": "494583413351a1a7e8457f2e2bf2f5d5",
+      "crc32": "6367a7c8",
+      "sha1": "cf59eafb37c286bfbf4ae611ec09af0fa8a1c7c3",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoresun-2022-09-11T12:16:03.053469-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltimoresun-2022-09-11T12:16:03.053469-04:00.jpg"
+    },
+    {
       "name": "baltimoresun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d8b468fcab09e9539f9fc75e4a83ffdd5415c15d",
-      "mtime": "1662905464",
-      "size": "496199",
-      "md5": "0aacf50118aa75fb5409eb0f65ac27e7",
-      "crc32": "4e31e0c1",
-      "sha1": "121413434acdf5577b9a3f963c5fdf683791aa38",
+      "btih": "97df0945b1f35f9801d1795dc87448de2a0ac991",
+      "mtime": "1662913056",
+      "size": "497070",
+      "md5": "ba7a16a303b83a8fcb28419aae5287c4",
+      "crc32": "38ae2e28",
+      "sha1": "545397f293ede8746ced2fc3e2e80b7be1f24e50",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltimoresun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9a956b38adba98c174aae1be6bfba4f9",
+      "md5": "eabdc2595e1ea9660a7bd07c191452aa",
       "summation": "md5"
     },
     {
       "name": "baltimoresun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662905245",
-      "size": "2822144",
-      "md5": "d89dd57d968abb6c71539459297cac0c",
-      "crc32": "e7ed8a57",
-      "sha1": "c1322a72ae4c68fe8880ae173bb10065aa2a98b4",
+      "mtime": "1662912976",
+      "size": "2826240",
+      "md5": "34551bfce273a4535aa8e2f0e5490746",
+      "crc32": "dc0df259",
+      "sha1": "969b53e48d02493dc5adf84e198151c3e2620a58",
       "format": "Metadata"
     },
     {
@@ -24064,9 +24112,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2311,
-  "item_last_updated": 1662905464,
-  "item_size": 178441947,
+  "files_count": 2316,
+  "item_last_updated": 1662913056,
+  "item_size": 178765258,
   "metadata": {
     "identifier": "baltimoresun-2022",
     "collection": [
@@ -24083,10 +24131,21 @@
     "publicdate": "2022-04-01 13:16:30",
     "addeddate": "2022-04-01 13:16:30"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 177670614,
+  "pending_tasks": true,
+  "server": "ia601508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3399415985,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 2013076377,
   "workable_servers": [
-    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }
