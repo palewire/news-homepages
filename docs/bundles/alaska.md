@@ -92,7 +92,7 @@ The most recent homepages from 8 news sites in this bundle.
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/alaska.xml)         |
 | Twitter hashtag | [#alaska](https://twitter.com/search?q=%23alaska%20from%3A%40newshomepages)           |
 | Location        | Juneau                                                               |
-| Timezone        | America/Alaska                                                               |
+| Timezone        | America/Juneau                                                               |
 
 ## Site directory
 
