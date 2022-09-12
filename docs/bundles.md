@@ -3,11 +3,14 @@
 
 # Categories
 
-Sites are grouped into 38 bundles based on location, ideology and topic.
+Sites are grouped into 41 bundles based on location, ideology and topic.
 
 | Bundle  | RSS |
 | :-----  | :-- |
+|[Alabama](https://palewi.re/docs/news-homepages/bundles/alabama.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/alabama.xml)|
+|[Alaska](https://palewi.re/docs/news-homepages/bundles/alaska.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/alaska.xml)|
 |[Arizona](https://palewi.re/docs/news-homepages/bundles/arizona.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/arizona.xml)|
+|[Arkansas](https://palewi.re/docs/news-homepages/bundles/arkansas.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/arkansas.xml)|
 |[Aviation](https://palewi.re/docs/news-homepages/bundles/aviation.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/aviation.xml)|
 |[California Bay Area](https://palewi.re/docs/news-homepages/bundles/bay-area.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/bay-area.xml)|
 |[Capitol Hill](https://palewi.re/docs/news-homepages/bundles/capitol-hill.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/capitol-hill.xml)|

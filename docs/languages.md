@@ -9,7 +9,7 @@ The archiving routine is currently saving sites in 17 languages.
 | :------- | :---- |
 |[Afrikaans](https://palewi.re/docs/news-homepages/languages/af.html)|3|
 |[Chinese](https://palewi.re/docs/news-homepages/languages/zh.html)|4|
-|[English](https://palewi.re/docs/news-homepages/languages/en.html)|693|
+|[English](https://palewi.re/docs/news-homepages/languages/en.html)|717|
 |[French](https://palewi.re/docs/news-homepages/languages/fr.html)|20|
 |[German](https://palewi.re/docs/news-homepages/languages/de.html)|8|
 |[Hebrew](https://palewi.re/docs/news-homepages/languages/he.html)|5|

@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        39
+        40
     </td>
     <td style="text-align: right;">
-        287
+        279
     </td>
   </tr>
 
