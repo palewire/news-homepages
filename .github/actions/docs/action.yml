@@ -13,6 +13,11 @@ runs:
       run: pipenv run python -m newshomepages.docs latest-screenshots;
       shell: bash
 
+    - id: git-add-archive
+      name: Git add latest files
+      run: pipenv run python -m newshomepages.extract latest-files
+      shell: bash
+
     - id: accessibility-ranking
       name: Update accessibility ranking
       run: pipenv run python -m newshomepages.docs accessibility-ranking;
@@ -103,7 +108,7 @@ runs:
 
     - id: git-add
       name: Git add
-      run:  git add ./docs
+      run:  git add ./
       shell: bash
 
     - id: git-commit

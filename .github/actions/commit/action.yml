@@ -55,16 +55,13 @@ runs:
       run: git commit -m "Latest screenshots" --author="palewire <palewire@users.noreply.github.com>" && git push || true
       shell: bash
 
-    - id: git-add-archive
-      name: Git add latest files
-      run: pipenv run python -m newshomepages.extract latest-files
+    - run: git status
       shell: bash
 
     - id: git-commit-archive
       name: Git latest files
       run: |
-        git add ./newshomepages/sources/latest/*.json
-        git add ./extracts/csv/*.csv
+        git add ./newshomepages/sources/latest
         git commit -m "Latest archive.org urls" --author="palewire <palewire@users.noreply.github.com>" || true
         git pull origin $GITHUB_REF
       shell: bash
