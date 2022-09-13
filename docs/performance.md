@@ -10163,8 +10163,8 @@ Here's a ranking of all sites from best to worst.
   <tr>
     <td>835</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/kcautv.html">
-            KCAU
+        <a href="https://palewi.re/docs/news-homepages/sites/drudge.html">
+            Drudge Report
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
@@ -10173,14 +10173,14 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>836</td>
+    <td>835</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/drudge.html">
-            Drudge Report
+        <a href="https://palewi.re/docs/news-homepages/sites/kcautv.html">
+            KCAU
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        7
+        8
     </td>
   </tr>
   
