@@ -37,7 +37,7 @@ The archiving routine is currently saving sites in 32 countries.
 |[Taiwan, Province of China](https://palewi.re/docs/news-homepages/countries/tw.html)|4|[🔗](https://palewi.re/docs/news-homepages/rss/countries/tw.xml)|
 |[Ukraine](https://palewi.re/docs/news-homepages/countries/ua.html)|6|[🔗](https://palewi.re/docs/news-homepages/rss/countries/ua.xml)|
 |[United Kingdom of Great Britain and Northern Ireland](https://palewi.re/docs/news-homepages/countries/gb.html)|31|[🔗](https://palewi.re/docs/news-homepages/rss/countries/gb.xml)|
-|[United States of America](https://palewi.re/docs/news-homepages/countries/us.html)|637|[🔗](https://palewi.re/docs/news-homepages/rss/countries/us.xml)|
+|[United States of America](https://palewi.re/docs/news-homepages/countries/us.html)|650|[🔗](https://palewi.re/docs/news-homepages/rss/countries/us.xml)|
 |[Uruguay](https://palewi.re/docs/news-homepages/countries/uy.html)|1|[🔗](https://palewi.re/docs/news-homepages/rss/countries/uy.xml)|
 
 

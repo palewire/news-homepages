@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 904 news sites.
+The most recent homepages captured from 917 news sites.
 
 <div class="latest-parent">
 
@@ -1844,6 +1844,24 @@ The most recent homepages captured from 904 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/connpost.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/connpost.jpg"
+     alt="Connecticut Post"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/connpost.html">Connecticut Post</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/wnpr.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wnpr.jpg"
+     alt="Connecticut Public"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/wnpr.html">Connecticut Public</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/conversationus.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/conversationus.jpg"
      alt="Conversation U.S."
@@ -2240,12 +2258,30 @@ The most recent homepages captured from 904 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/delawareonline.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/delawareonline.jpg"
+     alt="Delaware Online"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/delawareonline.html">Delaware Online</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/delawarepublic.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/delawarepublic.jpg"
      alt="Delaware Public Media"
      loading="lazy">
  </a>
  <p><a href="./sites/delawarepublic.html">Delaware Public Media</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/delawaretoday.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/delawaretoday.jpg"
+     alt="Delaware Today"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/delawaretoday.html">Delaware Today</a></p>
 </div>
 
 <div class="latest-child">
@@ -3311,6 +3347,24 @@ The most recent homepages captured from 904 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/wearehpr.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wearehpr.jpg"
+     alt="Hawaii Public Radio"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/wearehpr.html">Hawaii Public Radio</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/hitribuneherald.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hitribuneherald.jpg"
+     alt="Hawaii Tribune Herald"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/hitribuneherald.html">Hawaii Tribune Herald</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/hellgateny.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hellgateny.jpg"
      alt="Hell Gate"
@@ -3371,6 +3425,15 @@ The most recent homepages captured from 904 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/civilbeat.html">Honolulu Civil Beat</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/staradvertiser.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/staradvertiser.jpg"
+     alt="Honolulu Star-Advertiser"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/staradvertiser.html">Honolulu Star-Advertiser</a></p>
 </div>
 
 <div class="latest-child">
@@ -3950,6 +4013,15 @@ The most recent homepages captured from 904 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/khonnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/khonnews.jpg"
+     alt="KHON2 News"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/khonnews.html">KHON2 News</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/khou.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/khou.jpg"
      alt="KHOU"
@@ -3965,6 +4037,15 @@ The most recent homepages captured from 904 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/king5seattle.html">KING5</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/kitv4.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kitv4.jpg"
+     alt="KITV4"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/kitv4.html">KITV4</a></p>
 </div>
 
 <div class="latest-child">
@@ -5057,6 +5138,15 @@ The most recent homepages captured from 904 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/nbcconnecticut.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcconnecticut.jpg"
+     alt="NBC Connecticut"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/nbcconnecticut.html">NBC Connecticut</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/nbcdfw.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcdfw.jpg"
      alt="NBC DFW"
@@ -5144,6 +5234,15 @@ The most recent homepages captured from 904 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/nhpr.html">New Hampshire Public Radio</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/nhregister.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nhregister.jpg"
+     alt="New Haven Register"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/nhregister.html">New Haven Register</a></p>
 </div>
 
 <div class="latest-child">
@@ -6731,6 +6830,15 @@ The most recent homepages captured from 904 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/stamadvocate.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/stamadvocate.jpg"
+     alt="Stamford Advocate"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/stamadvocate.html">Stamford Advocate</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/statnews.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/statnews.jpg"
      alt="STAT"
@@ -8060,6 +8168,15 @@ The most recent homepages captured from 904 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/yahoonews.html">Yahoo! News</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/yaledailynews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/yaledailynews.jpg"
+     alt="Yale Daily News"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/yaledailynews.html">Yale Daily News</a></p>
 </div>
 
 <div class="latest-child">

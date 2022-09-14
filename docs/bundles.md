@@ -3,7 +3,7 @@
 
 # Categories
 
-Sites are grouped into 41 bundles based on location, ideology and topic.
+Sites are grouped into 44 bundles based on location, ideology and topic.
 
 | Bundle  | RSS |
 | :-----  | :-- |
@@ -17,10 +17,13 @@ Sites are grouped into 41 bundles based on location, ideology and topic.
 |[Chess](https://palewi.re/docs/news-homepages/bundles/chess.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/chess.xml)|
 |[Chicago](https://palewi.re/docs/news-homepages/bundles/chicago.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/chicago.xml)|
 |[Colorado](https://palewi.re/docs/news-homepages/bundles/colorado.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/colorado.xml)|
+|[Connecticut](https://palewi.re/docs/news-homepages/bundles/connecticut.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/connecticut.xml)|
+|[Delaware](https://palewi.re/docs/news-homepages/bundles/delaware.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/delaware.xml)|
 |[Entertainment](https://palewi.re/docs/news-homepages/bundles/entertainment.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/entertainment.xml)|
 |[Feminist](https://palewi.re/docs/news-homepages/bundles/feminist.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/feminist.xml)|
 |[Florida](https://palewi.re/docs/news-homepages/bundles/florida.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/florida.xml)|
 |[Georgia](https://palewi.re/docs/news-homepages/bundles/georgia.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/georgia.xml)|
+|[Hawaii](https://palewi.re/docs/news-homepages/bundles/hawaii.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/hawaii.xml)|
 |[Iowa](https://palewi.re/docs/news-homepages/bundles/iowa.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/iowa.xml)|
 |[Kansas](https://palewi.re/docs/news-homepages/bundles/kansas.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/kansas.xml)|
 |[Kentucky](https://palewi.re/docs/news-homepages/bundles/kentucky.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/kentucky.xml)|

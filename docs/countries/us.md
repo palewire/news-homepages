@@ -7,7 +7,7 @@ orphan: true
 
 # United States of America
 
-The most recent homepages from 637 news sites in this country.
+The most recent homepages from 650 news sites in this country.
 
 <div class="latest-parent">
 
@@ -1479,6 +1479,24 @@ The most recent homepages from 637 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/connpost.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/connpost.jpg"
+     alt="Connecticut Post"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/connpost.html">Connecticut Post</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/wnpr.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wnpr.jpg"
+     alt="Connecticut Public"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/wnpr.html">Connecticut Public</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/conversationus.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/conversationus.jpg"
      alt="Conversation U.S."
@@ -1686,12 +1704,30 @@ The most recent homepages from 637 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/delawareonline.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/delawareonline.jpg"
+     alt="Delaware Online"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/delawareonline.html">Delaware Online</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/delawarepublic.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/delawarepublic.jpg"
      alt="Delaware Public Media"
      loading="lazy">
  </a>
  <p><a href="../sites/delawarepublic.html">Delaware Public Media</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/delawaretoday.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/delawaretoday.jpg"
+     alt="Delaware Today"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/delawaretoday.html">Delaware Today</a></p>
 </div>
 
 <div class="latest-child">
@@ -2424,6 +2460,24 @@ The most recent homepages from 637 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/wearehpr.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wearehpr.jpg"
+     alt="Hawaii Public Radio"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/wearehpr.html">Hawaii Public Radio</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/hitribuneherald.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hitribuneherald.jpg"
+     alt="Hawaii Tribune Herald"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/hitribuneherald.html">Hawaii Tribune Herald</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/hellgateny.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hellgateny.jpg"
      alt="Hell Gate"
@@ -2475,6 +2529,15 @@ The most recent homepages from 637 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/civilbeat.html">Honolulu Civil Beat</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/staradvertiser.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/staradvertiser.jpg"
+     alt="Honolulu Star-Advertiser"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/staradvertiser.html">Honolulu Star-Advertiser</a></p>
 </div>
 
 <div class="latest-child">
@@ -2838,6 +2901,15 @@ The most recent homepages from 637 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/khonnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/khonnews.jpg"
+     alt="KHON2 News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/khonnews.html">KHON2 News</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/khou.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/khou.jpg"
      alt="KHOU"
@@ -2853,6 +2925,15 @@ The most recent homepages from 637 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/king5seattle.html">KING5</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/kitv4.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kitv4.jpg"
+     alt="KITV4"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/kitv4.html">KITV4</a></p>
 </div>
 
 <div class="latest-child">
@@ -3567,6 +3648,15 @@ The most recent homepages from 637 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/nbcconnecticut.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcconnecticut.jpg"
+     alt="NBC Connecticut"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/nbcconnecticut.html">NBC Connecticut</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/nbcdfw.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcdfw.jpg"
      alt="NBC DFW"
@@ -3618,6 +3708,15 @@ The most recent homepages from 637 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/nhpr.html">New Hampshire Public Radio</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/nhregister.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nhregister.jpg"
+     alt="New Haven Register"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/nhregister.html">New Haven Register</a></p>
 </div>
 
 <div class="latest-child">
@@ -4653,6 +4752,15 @@ The most recent homepages from 637 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/stlpublicradio.html">St. Louis Public Radio</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/stamadvocate.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/stamadvocate.jpg"
+     alt="Stamford Advocate"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/stamadvocate.html">Stamford Advocate</a></p>
 </div>
 
 <div class="latest-child">
@@ -5727,6 +5835,15 @@ The most recent homepages from 637 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/yaledailynews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/yaledailynews.jpg"
+     alt="Yale Daily News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/yaledailynews.html">Yale Daily News</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/yorkdispatch.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/yorkdispatch.jpg"
      alt="York Dispatch"
@@ -5921,6 +6038,8 @@ The most recent homepages from 637 news sites in this country.
 |[Common Dreams](https://palewi.re/docs/news-homepages/sites/commondreams.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/commondreams.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/commondreams.xml)|
 |[Common Sense](https://palewi.re/docs/news-homepages/sites/bariweiss.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bariweiss.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bariweiss.xml)|
 |[Connecticut Mirror](https://palewi.re/docs/news-homepages/sites/ctmirror.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ctmirror.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ctmirror.xml)|
+|[Connecticut Post](https://palewi.re/docs/news-homepages/sites/connpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/connpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/connpost.xml)|
+|[Connecticut Public](https://palewi.re/docs/news-homepages/sites/wnpr.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wnpr.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wnpr.xml)|
 |[Conversation U.S.](https://palewi.re/docs/news-homepages/sites/conversationus.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/conversationus.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/conversationus.xml)|
 |[Cook Political Report](https://palewi.re/docs/news-homepages/sites/cookpolitical.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cookpolitical.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cookpolitical.xml)|
 |[CQ](https://palewi.re/docs/news-homepages/sites/cqnow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cqnow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cqnow.xml)|
@@ -5944,7 +6063,9 @@ The most recent homepages from 637 news sites in this country.
 |[Deadspin](https://palewi.re/docs/news-homepages/sites/deadspin.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/deadspin.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/deadspin.xml)|
 |[Decision Desk HQ](https://palewi.re/docs/news-homepages/sites/decisiondeskhq.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/decisiondeskhq.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/decisiondeskhq.xml)|
 |[Defector](https://palewi.re/docs/news-homepages/sites/defectormedia.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/defectormedia.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/defectormedia.xml)|
+|[Delaware Online](https://palewi.re/docs/news-homepages/sites/delawareonline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/delawareonline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/delawareonline.xml)|
 |[Delaware Public Media](https://palewi.re/docs/news-homepages/sites/delawarepublic.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/delawarepublic.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/delawarepublic.xml)|
+|[Delaware Today](https://palewi.re/docs/news-homepages/sites/delawaretoday.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/delawaretoday.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/delawaretoday.xml)|
 |[Democracy Now!](https://palewi.re/docs/news-homepages/sites/democracynow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/democracynow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/democracynow.xml)|
 |[Denver Post](https://palewi.re/docs/news-homepages/sites/denverpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/denverpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/denverpost.xml)|
 |[Denver7](https://palewi.re/docs/news-homepages/sites/denverchannel.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/denverchannel.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/denverchannel.xml)|
@@ -6026,12 +6147,15 @@ The most recent homepages from 637 news sites in this country.
 |[Harper’s](https://palewi.re/docs/news-homepages/sites/harpers.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/harpers.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/harpers.xml)|
 |[Hartford Courant](https://palewi.re/docs/news-homepages/sites/hartfordcourant.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hartfordcourant.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hartfordcourant.xml)|
 |[Harvey World Herald](https://palewi.re/docs/news-homepages/sites/hwherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hwherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hwherald.xml)|
+|[Hawaii Public Radio](https://palewi.re/docs/news-homepages/sites/wearehpr.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wearehpr.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wearehpr.xml)|
+|[Hawaii Tribune Herald](https://palewi.re/docs/news-homepages/sites/hitribuneherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hitribuneherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hitribuneherald.xml)|
 |[Hell Gate](https://palewi.re/docs/news-homepages/sites/hellgateny.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hellgateny.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hellgateny.xml)|
 |[Herald Times Reporter](https://palewi.re/docs/news-homepages/sites/htrnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/htrnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/htrnews.xml)|
 |[Hidden City Daily](https://palewi.re/docs/news-homepages/sites/hiddencityphila.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hiddencityphila.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hiddencityphila.xml)|
 |[High Country News](https://palewi.re/docs/news-homepages/sites/highcountrynews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/highcountrynews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/highcountrynews.xml)|
 |[Hollywood Reporter](https://palewi.re/docs/news-homepages/sites/thr.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thr.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thr.xml)|
 |[Honolulu Civil Beat](https://palewi.re/docs/news-homepages/sites/civilbeat.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/civilbeat.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/civilbeat.xml)|
+|[Honolulu Star-Advertiser](https://palewi.re/docs/news-homepages/sites/staradvertiser.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/staradvertiser.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/staradvertiser.xml)|
 |[HotAir](https://palewi.re/docs/news-homepages/sites/hotairblog.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hotairblog.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hotairblog.xml)|
 |[Houston Chronicle](https://palewi.re/docs/news-homepages/sites/houstonchron.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/houstonchron.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/houstonchron.xml)|
 |[Huffington Post](https://palewi.re/docs/news-homepages/sites/huffpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/huffpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/huffpost.xml)|
@@ -6072,8 +6196,10 @@ The most recent homepages from 637 news sites in this country.
 |[Kerrville Daily Times](https://palewi.re/docs/news-homepages/sites/kerrville.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kerrville.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kerrville.xml)|
 |[KETV NewsWatch 7](https://palewi.re/docs/news-homepages/sites/ketv.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ketv.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ketv.xml)|
 |[KGOU](https://palewi.re/docs/news-homepages/sites/kgounews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kgounews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kgounews.xml)|
+|[KHON2 News](https://palewi.re/docs/news-homepages/sites/khonnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/khonnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/khonnews.xml)|
 |[KHOU](https://palewi.re/docs/news-homepages/sites/khou.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/khou.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/khou.xml)|
 |[KING5](https://palewi.re/docs/news-homepages/sites/king5seattle.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/king5seattle.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/king5seattle.xml)|
+|[KITV4](https://palewi.re/docs/news-homepages/sites/kitv4.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kitv4.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kitv4.xml)|
 |[KMTV 3 News Now](https://palewi.re/docs/news-homepages/sites/3newsnowomaha.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/3newsnowomaha.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/3newsnowomaha.xml)|
 |[Knock.LA](https://palewi.re/docs/news-homepages/sites/knockdotla.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/knockdotla.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/knockdotla.xml)|
 |[KOMU](https://palewi.re/docs/news-homepages/sites/komunews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/komunews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/komunews.xml)|
@@ -6153,12 +6279,14 @@ The most recent homepages from 637 news sites in this country.
 |[National Review](https://palewi.re/docs/news-homepages/sites/nro.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nro.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nro.xml)|
 |[NBC Bay Area](https://palewi.re/docs/news-homepages/sites/nbcbayarea.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcbayarea.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcbayarea.xml)|
 |[NBC Chicago](https://palewi.re/docs/news-homepages/sites/nbcchicago.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcchicago.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcchicago.xml)|
+|[NBC Connecticut](https://palewi.re/docs/news-homepages/sites/nbcconnecticut.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcconnecticut.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcconnecticut.xml)|
 |[NBC DFW](https://palewi.re/docs/news-homepages/sites/nbcdfw.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcdfw.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcdfw.xml)|
 |[NBC News](https://palewi.re/docs/news-homepages/sites/nbcnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcnews.xml)|
 |[NBC10 Philadelphia](https://palewi.re/docs/news-homepages/sites/nbcphiladelphia.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcphiladelphia.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcphiladelphia.xml)|
 |[Nebraska Public Media](https://palewi.re/docs/news-homepages/sites/nebpublicmedia.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nebpublicmedia.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nebpublicmedia.xml)|
 |[Nevada Public Radio](https://palewi.re/docs/news-homepages/sites/knprnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/knprnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/knprnews.xml)|
 |[New Hampshire Public Radio](https://palewi.re/docs/news-homepages/sites/nhpr.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nhpr.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nhpr.xml)|
+|[New Haven Register](https://palewi.re/docs/news-homepages/sites/nhregister.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nhregister.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nhregister.xml)|
 |[New Republic](https://palewi.re/docs/news-homepages/sites/newrepublic.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newrepublic.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newrepublic.xml)|
 |[New York](https://palewi.re/docs/news-homepages/sites/nymag.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nymag.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nymag.xml)|
 |[New York Focus](https://palewi.re/docs/news-homepages/sites/nysfocus.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nysfocus.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nysfocus.xml)|
@@ -6274,6 +6402,7 @@ The most recent homepages from 637 news sites in this country.
 |[St. Joseph News Press](https://palewi.re/docs/news-homepages/sites/newspressnow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newspressnow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newspressnow.xml)|
 |[St. Louis Post-Dispatch](https://palewi.re/docs/news-homepages/sites/stltoday.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/stltoday.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/stltoday.xml)|
 |[St. Louis Public Radio](https://palewi.re/docs/news-homepages/sites/stlpublicradio.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/stlpublicradio.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/stlpublicradio.xml)|
+|[Stamford Advocate](https://palewi.re/docs/news-homepages/sites/stamadvocate.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/stamadvocate.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/stamadvocate.xml)|
 |[STAT](https://palewi.re/docs/news-homepages/sites/statnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/statnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/statnews.xml)|
 |[Stevens Point Journal](https://palewi.re/docs/news-homepages/sites/stevenspointjrl.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/stevenspointjrl.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/stevenspointjrl.xml)|
 |[Stories Beneath the Shell](https://palewi.re/docs/news-homepages/sites/umd_sbs.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/umd_sbs.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/umd_sbs.xml)|
@@ -6393,5 +6522,6 @@ The most recent homepages from 637 news sites in this country.
 |[Y-City News](https://palewi.re/docs/news-homepages/sites/ycitynewsonline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ycitynewsonline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ycitynewsonline.xml)|
 |[Yahoo Finance](https://palewi.re/docs/news-homepages/sites/yahoofinance.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/yahoofinance.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/yahoofinance.xml)|
 |[Yahoo! News](https://palewi.re/docs/news-homepages/sites/yahoonews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/yahoonews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/yahoonews.xml)|
+|[Yale Daily News](https://palewi.re/docs/news-homepages/sites/yaledailynews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/yaledailynews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/yaledailynews.xml)|
 |[York Dispatch](https://palewi.re/docs/news-homepages/sites/yorkdispatch.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/yorkdispatch.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/yorkdispatch.xml)|
 |[ZeroHedge](https://palewi.re/docs/news-homepages/sites/zerohedge.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/zerohedge.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/zerohedge.xml)|
