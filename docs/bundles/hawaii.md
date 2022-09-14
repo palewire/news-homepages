@@ -74,7 +74,7 @@ The most recent homepages from 6 news sites in this bundle.
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/bundles/hawaii.xml)         |
 | Twitter hashtag | [#hawaii](https://twitter.com/search?q=%23hawaii%20from%3A%40newshomepages)           |
 | Location        | Honolulu                                                               |
-| Timezone        | America/Hawaii                                                               |
+| Timezone        | America/Honolulu                                                               |
 
 ## Site directory
 
