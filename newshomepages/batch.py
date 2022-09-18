@@ -14,7 +14,7 @@ def cli():
 
 @cli.command()
 @click.argument("batch")
-@click.option("-b", "--batches", "batches", default=7)
+@click.option("-b", "--batches", "batches", default=8)
 def sites_by_batch(batch: str, batches: str):
     """Print site handles in the provided batch as a JSON list."""
     site_list = utils.get_site_list()
