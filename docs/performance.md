@@ -3,7 +3,7 @@
 
 # Performance ranking
 
-As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. This page ranks the 21 sites with 10 or more observations over the last seven days by median [performance score](https://developer.chrome.com/docs/lighthouse/performance/).
+As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. This page ranks the 3 sites with 10 or more observations over the last seven days by median [performance score](https://developer.chrome.com/docs/lighthouse/performance/).
 
 The value is the weighted average of a basket of speed and efficiency metrics gathered by Lighthouse. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
@@ -134,7 +134,7 @@ This past week the median across all sites was 22. Here's the distribution of sc
   "height": 250,
   "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json",
   "datasets": {
-    "data-ff083e2caf4ea6428c61f01fb3b93afe": [{"index": 0, "performance_decile": 2.0}, {"index": 10, "performance_decile": 4.0}, {"index": 20, "performance_decile": 9.0}, {"index": 30, "performance_decile": 2.0}, {"index": 40, "performance_decile": 3.0}, {"index": 50, "performance_decile": 0.0}, {"index": 60, "performance_decile": 0.0}, {"index": 70, "performance_decile": 1.0}, {"index": 80, "performance_decile": 0.0}, {"index": 90, "performance_decile": 0.0}, {"index": 100, "performance_decile": 0.0}]
+    "data-ff083e2caf4ea6428c61f01fb3b93afe": [{"index": 0, "performance_decile": 1.0}, {"index": 10, "performance_decile": 0.0}, {"index": 20, "performance_decile": 2.0}, {"index": 30, "performance_decile": 0.0}, {"index": 40, "performance_decile": 0.0}, {"index": 50, "performance_decile": 0.0}, {"index": 60, "performance_decile": 0.0}, {"index": 70, "performance_decile": 0.0}, {"index": 80, "performance_decile": 0.0}, {"index": 90, "performance_decile": 0.0}, {"index": 100, "performance_decile": 0.0}]
   }
 };
     vegaEmbed("#vis", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
@@ -155,90 +155,6 @@ Here's a ranking of all sites from best to worst.
   <tr>
     <td>1</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/usatoday.html">
-            USA Today
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        78
-    </td>
-  </tr>
-  
-  <tr>
-    <td>2</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/cbsnews.html">
-            CBS News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        48
-    </td>
-  </tr>
-  
-  <tr>
-    <td>3</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/business.html">
-            Bloomberg
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        44
-    </td>
-  </tr>
-  
-  <tr>
-    <td>4</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/yahoonews.html">
-            Yahoo! News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        43
-    </td>
-  </tr>
-  
-  <tr>
-    <td>5</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/newshour.html">
-            PBS News Hour
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        36
-    </td>
-  </tr>
-  
-  <tr>
-    <td>6</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/npr.html">
-            NPR
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        30
-    </td>
-  </tr>
-  
-  <tr>
-    <td>7</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/ap.html">
-            Associated Press
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        25
-    </td>
-  </tr>
-  
-  <tr>
-    <td>7</td>
-    <td>
         <a href="https://palewi.re/docs/news-homepages/sites/latimes.html">
             Los Angeles Times
         </a>
@@ -249,19 +165,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>9</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/time.html">
-            TIME
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        23
-    </td>
-  </tr>
-  
-  <tr>
-    <td>10</td>
+    <td>2</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/msnbc.html">
             MSNBC
@@ -273,134 +177,14 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>10</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nytimes.html">
-            New York Times
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        22
-    </td>
-  </tr>
-  
-  <tr>
-    <td>12</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/wsj.html">
-            Wall Street Journal
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        21
-    </td>
-  </tr>
-  
-  <tr>
-    <td>13</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/abc.html">
-            ABC News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        20
-    </td>
-  </tr>
-  
-  <tr>
-    <td>13</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nbcnews.html">
-            NBC News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        20
-    </td>
-  </tr>
-  
-  <tr>
-    <td>13</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/washingtonpost.html">
-            Washington Post
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        20
-    </td>
-  </tr>
-  
-  <tr>
-    <td>16</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/globeandmail.html">
-            The Globe and Mail
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        19
-    </td>
-  </tr>
-  
-  <tr>
-    <td>17</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/foxnews.html">
-            Fox News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        18
-    </td>
-  </tr>
-  
-  <tr>
-    <td>18</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/cnn.html">
-            CNN
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        15
-    </td>
-  </tr>
-  
-  <tr>
-    <td>19</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/ajc.html">
-            Atlanta Journal-Constitution
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        11
-    </td>
-  </tr>
-  
-  <tr>
-    <td>20</td>
+    <td>3</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/drudge.html">
             Drudge Report
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        7
-    </td>
-  </tr>
-  
-  <tr>
-    <td>21</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/baltimoresun.html">
-            The Baltimore Sun
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        3
+        6
     </td>
   </tr>
   
