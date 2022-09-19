@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 64 screenshots with the Internet Archive.
+The archiving routine has saved 81 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/cronica-2022/cronica-2022-09-11T11:12:57.226504-03:00.jpg">
-  <img src="https://archive.org/download/cronica-2022/cronica-2022-09-11T11:12:57.226504-03:00.jpg"
-     alt="Crónica at 2022-09-11 11:13:02-03:00 local time"
+ <a href="https://archive.org/download/cronica-2022/cronica-2022-09-19T11:59:59.599379-03:00.jpg">
+  <img src="https://archive.org/download/cronica-2022/cronica-2022-09-19T11:59:59.599379-03:00.jpg"
+     alt="Crónica at 2022-09-19 12:00:01-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cronica-2022/cronica-2022-09-11T11:12:57.226504-03:00.jpg">September 11 at 11:13 AM</a></p>
+ <p><a href="https://archive.org/download/cronica-2022/cronica-2022-09-19T11:59:59.599379-03:00.jpg">September 19 at 12:00 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/cronica-2022/cronica-2022-09-10T23:27:28.417075-03:00.jpg">
-  <img src="https://archive.org/download/cronica-2022/cronica-2022-09-10T23:27:28.417075-03:00.jpg"
-     alt="Crónica at 2022-09-10 23:27:32-03:00 local time"
+ <a href="https://archive.org/download/cronica-2022/cronica-2022-09-19T00:42:11.288954-03:00.jpg">
+  <img src="https://archive.org/download/cronica-2022/cronica-2022-09-19T00:42:11.288954-03:00.jpg"
+     alt="Crónica at 2022-09-19 00:42:13-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cronica-2022/cronica-2022-09-10T23:27:28.417075-03:00.jpg">September 10 at 11:27 PM</a></p>
+ <p><a href="https://archive.org/download/cronica-2022/cronica-2022-09-19T00:42:11.288954-03:00.jpg">September 19 at 12:42 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/cronica-2022/cronica-2022-09-10T11:12:54.419601-03:00.jpg">
-  <img src="https://archive.org/download/cronica-2022/cronica-2022-09-10T11:12:54.419601-03:00.jpg"
-     alt="Crónica at 2022-09-10 11:12:56-03:00 local time"
+ <a href="https://archive.org/download/cronica-2022/cronica-2022-09-18T11:53:38.766192-03:00.jpg">
+  <img src="https://archive.org/download/cronica-2022/cronica-2022-09-18T11:53:38.766192-03:00.jpg"
+     alt="Crónica at 2022-09-18 11:53:40-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cronica-2022/cronica-2022-09-10T11:12:54.419601-03:00.jpg">September 10 at 11:12 AM</a></p>
+ <p><a href="https://archive.org/download/cronica-2022/cronica-2022-09-18T11:53:38.766192-03:00.jpg">September 18 at 11:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/cronica-2022/cronica-2022-09-09T23:28:14.310845-03:00.jpg">
-  <img src="https://archive.org/download/cronica-2022/cronica-2022-09-09T23:28:14.310845-03:00.jpg"
-     alt="Crónica at 2022-09-09 23:28:18-03:00 local time"
+ <a href="https://archive.org/download/cronica-2022/cronica-2022-09-18T00:47:22.875283-03:00.jpg">
+  <img src="https://archive.org/download/cronica-2022/cronica-2022-09-18T00:47:22.875283-03:00.jpg"
+     alt="Crónica at 2022-09-18 00:47:24-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cronica-2022/cronica-2022-09-09T23:28:14.310845-03:00.jpg">September 9 at 11:28 PM</a></p>
+ <p><a href="https://archive.org/download/cronica-2022/cronica-2022-09-18T00:47:22.875283-03:00.jpg">September 18 at 12:47 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/cronica-2022/cronica-2022-09-09T11:34:18.888959-03:00.jpg">
-  <img src="https://archive.org/download/cronica-2022/cronica-2022-09-09T11:34:18.888959-03:00.jpg"
-     alt="Crónica at 2022-09-09 11:34:27-03:00 local time"
+ <a href="https://archive.org/download/cronica-2022/cronica-2022-09-17T11:50:31.803523-03:00.jpg">
+  <img src="https://archive.org/download/cronica-2022/cronica-2022-09-17T11:50:31.803523-03:00.jpg"
+     alt="Crónica at 2022-09-17 11:50:34-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cronica-2022/cronica-2022-09-09T11:34:18.888959-03:00.jpg">September 9 at 11:34 AM</a></p>
+ <p><a href="https://archive.org/download/cronica-2022/cronica-2022-09-17T11:50:31.803523-03:00.jpg">September 17 at 11:50 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/cronica-2022/cronica-2022-09-08T23:30:17.161181-03:00.jpg">
-  <img src="https://archive.org/download/cronica-2022/cronica-2022-09-08T23:30:17.161181-03:00.jpg"
-     alt="Crónica at 2022-09-08 23:30:18-03:00 local time"
+ <a href="https://archive.org/download/cronica-2022/cronica-2022-09-17T00:42:14.542731-03:00.jpg">
+  <img src="https://archive.org/download/cronica-2022/cronica-2022-09-17T00:42:14.542731-03:00.jpg"
+     alt="Crónica at 2022-09-17 00:42:18-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cronica-2022/cronica-2022-09-08T23:30:17.161181-03:00.jpg">September 8 at 11:30 PM</a></p>
+ <p><a href="https://archive.org/download/cronica-2022/cronica-2022-09-17T00:42:14.542731-03:00.jpg">September 17 at 12:42 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/cronica-2022/cronica-2022-09-08T11:25:01.123251-03:00.jpg">
-  <img src="https://archive.org/download/cronica-2022/cronica-2022-09-08T11:25:01.123251-03:00.jpg"
-     alt="Crónica at 2022-09-08 11:25:06-03:00 local time"
+ <a href="https://archive.org/download/cronica-2022/cronica-2022-09-16T12:00:09.145795-03:00.jpg">
+  <img src="https://archive.org/download/cronica-2022/cronica-2022-09-16T12:00:09.145795-03:00.jpg"
+     alt="Crónica at 2022-09-16 12:00:10-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cronica-2022/cronica-2022-09-08T11:25:01.123251-03:00.jpg">September 8 at 11:25 AM</a></p>
+ <p><a href="https://archive.org/download/cronica-2022/cronica-2022-09-16T12:00:09.145795-03:00.jpg">September 16 at 12:00 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/cronica-2022/cronica-2022-09-07T23:35:19.746495-03:00.jpg">
-  <img src="https://archive.org/download/cronica-2022/cronica-2022-09-07T23:35:19.746495-03:00.jpg"
-     alt="Crónica at 2022-09-07 23:35:23-03:00 local time"
+ <a href="https://archive.org/download/cronica-2022/cronica-2022-09-16T00:49:26.030602-03:00.jpg">
+  <img src="https://archive.org/download/cronica-2022/cronica-2022-09-16T00:49:26.030602-03:00.jpg"
+     alt="Crónica at 2022-09-16 00:49:30-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cronica-2022/cronica-2022-09-07T23:35:19.746495-03:00.jpg">September 7 at 11:35 PM</a></p>
+ <p><a href="https://archive.org/download/cronica-2022/cronica-2022-09-16T00:49:26.030602-03:00.jpg">September 16 at 12:49 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/cronica-2022/cronica-2022-09-07T12:31:46.399279-03:00.jpg">
-  <img src="https://archive.org/download/cronica-2022/cronica-2022-09-07T12:31:46.399279-03:00.jpg"
-     alt="Crónica at 2022-09-07 12:31:47-03:00 local time"
+ <a href="https://archive.org/download/cronica-2022/cronica-2022-09-15T13:09:55.130969-03:00.jpg">
+  <img src="https://archive.org/download/cronica-2022/cronica-2022-09-15T13:09:55.130969-03:00.jpg"
+     alt="Crónica at 2022-09-15 13:09:57-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cronica-2022/cronica-2022-09-07T12:31:46.399279-03:00.jpg">September 7 at 12:31 PM</a></p>
+ <p><a href="https://archive.org/download/cronica-2022/cronica-2022-09-15T13:09:55.130969-03:00.jpg">September 15 at 1:09 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/cronica-2022/cronica-2022-09-06T23:33:16.022512-03:00.jpg">
-  <img src="https://archive.org/download/cronica-2022/cronica-2022-09-06T23:33:16.022512-03:00.jpg"
-     alt="Crónica at 2022-09-06 23:33:23-03:00 local time"
+ <a href="https://archive.org/download/cronica-2022/cronica-2022-09-15T00:48:32.137910-03:00.jpg">
+  <img src="https://archive.org/download/cronica-2022/cronica-2022-09-15T00:48:32.137910-03:00.jpg"
+     alt="Crónica at 2022-09-15 00:48:36-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cronica-2022/cronica-2022-09-06T23:33:16.022512-03:00.jpg">September 6 at 11:33 PM</a></p>
+ <p><a href="https://archive.org/download/cronica-2022/cronica-2022-09-15T00:48:32.137910-03:00.jpg">September 15 at 12:48 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/cronica-2022/cronica-2022-09-05T23:28:08.590132-03:00.jpg">
-  <img src="https://archive.org/download/cronica-2022/cronica-2022-09-05T23:28:08.590132-03:00.jpg"
-     alt="Crónica at 2022-09-05 23:28:11-03:00 local time"
+ <a href="https://archive.org/download/cronica-2022/cronica-2022-09-14T12:17:07.479391-03:00.jpg">
+  <img src="https://archive.org/download/cronica-2022/cronica-2022-09-14T12:17:07.479391-03:00.jpg"
+     alt="Crónica at 2022-09-14 12:17:11-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cronica-2022/cronica-2022-09-05T23:28:08.590132-03:00.jpg">September 5 at 11:28 PM</a></p>
+ <p><a href="https://archive.org/download/cronica-2022/cronica-2022-09-14T12:17:07.479391-03:00.jpg">September 14 at 12:17 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/cronica-2022/cronica-2022-09-05T11:26:03.060667-03:00.jpg">
-  <img src="https://archive.org/download/cronica-2022/cronica-2022-09-05T11:26:03.060667-03:00.jpg"
-     alt="Crónica at 2022-09-05 11:26:06-03:00 local time"
+ <a href="https://archive.org/download/cronica-2022/cronica-2022-09-14T00:48:22.652254-03:00.jpg">
+  <img src="https://archive.org/download/cronica-2022/cronica-2022-09-14T00:48:22.652254-03:00.jpg"
+     alt="Crónica at 2022-09-14 00:48:24-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cronica-2022/cronica-2022-09-05T11:26:03.060667-03:00.jpg">September 5 at 11:26 AM</a></p>
+ <p><a href="https://archive.org/download/cronica-2022/cronica-2022-09-14T00:48:22.652254-03:00.jpg">September 14 at 12:48 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 66 hyperlink lists with the Internet Archive.
+The archiving routine has saved 83 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 11:13 AM](https://archive.org/download/cronica-2022/cronica-2022-09-11T11:12:57.226504-03:00.hyperlinks.json) |
-| [September 10 at 11:27 PM](https://archive.org/download/cronica-2022/cronica-2022-09-10T23:27:28.417075-03:00.hyperlinks.json) |
-| [September 10 at 11:12 AM](https://archive.org/download/cronica-2022/cronica-2022-09-10T11:12:54.419601-03:00.hyperlinks.json) |
-| [September 9 at 11:28 PM](https://archive.org/download/cronica-2022/cronica-2022-09-09T23:28:14.310845-03:00.hyperlinks.json) |
-| [September 9 at 11:34 AM](https://archive.org/download/cronica-2022/cronica-2022-09-09T11:34:18.888959-03:00.hyperlinks.json) |
-| [September 8 at 11:30 PM](https://archive.org/download/cronica-2022/cronica-2022-09-08T23:30:17.161181-03:00.hyperlinks.json) |
-| [September 8 at 11:25 AM](https://archive.org/download/cronica-2022/cronica-2022-09-08T11:25:01.123251-03:00.hyperlinks.json) |
-| [September 7 at 11:35 PM](https://archive.org/download/cronica-2022/cronica-2022-09-07T23:35:19.746495-03:00.hyperlinks.json) |
-| [September 7 at 12:31 PM](https://archive.org/download/cronica-2022/cronica-2022-09-07T12:31:46.399279-03:00.hyperlinks.json) |
-| [September 6 at 11:33 PM](https://archive.org/download/cronica-2022/cronica-2022-09-06T23:33:16.022512-03:00.hyperlinks.json) |
+| [September 19 at 12:00 PM](https://archive.org/download/cronica-2022/cronica-2022-09-19T11:59:59.599379-03:00.hyperlinks.json) |
+| [September 19 at 12:42 AM](https://archive.org/download/cronica-2022/cronica-2022-09-19T00:42:11.288954-03:00.hyperlinks.json) |
+| [September 18 at 11:53 AM](https://archive.org/download/cronica-2022/cronica-2022-09-18T11:53:38.766192-03:00.hyperlinks.json) |
+| [September 18 at 12:47 AM](https://archive.org/download/cronica-2022/cronica-2022-09-18T00:47:22.875283-03:00.hyperlinks.json) |
+| [September 17 at 11:50 AM](https://archive.org/download/cronica-2022/cronica-2022-09-17T11:50:31.803523-03:00.hyperlinks.json) |
+| [September 17 at 12:42 AM](https://archive.org/download/cronica-2022/cronica-2022-09-17T00:42:14.542731-03:00.hyperlinks.json) |
+| [September 16 at 12:00 PM](https://archive.org/download/cronica-2022/cronica-2022-09-16T12:00:09.145795-03:00.hyperlinks.json) |
+| [September 16 at 12:49 AM](https://archive.org/download/cronica-2022/cronica-2022-09-16T00:49:26.030602-03:00.hyperlinks.json) |
+| [September 15 at 1:10 PM](https://archive.org/download/cronica-2022/cronica-2022-09-15T13:09:55.130969-03:00.hyperlinks.json) |
+| [September 15 at 12:48 AM](https://archive.org/download/cronica-2022/cronica-2022-09-15T00:48:32.137910-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 66 accessibility trees with the Internet Archive.
+The archiving routine has saved 83 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 11:13 AM](https://archive.org/download/cronica-2022/cronica-2022-09-11T11:12:57.226504-03:00.accessibility.json) |
-| [September 10 at 11:27 PM](https://archive.org/download/cronica-2022/cronica-2022-09-10T23:27:28.417075-03:00.accessibility.json) |
-| [September 10 at 11:12 AM](https://archive.org/download/cronica-2022/cronica-2022-09-10T11:12:54.419601-03:00.accessibility.json) |
-| [September 9 at 11:28 PM](https://archive.org/download/cronica-2022/cronica-2022-09-09T23:28:14.310845-03:00.accessibility.json) |
-| [September 9 at 11:34 AM](https://archive.org/download/cronica-2022/cronica-2022-09-09T11:34:18.888959-03:00.accessibility.json) |
-| [September 8 at 11:30 PM](https://archive.org/download/cronica-2022/cronica-2022-09-08T23:30:17.161181-03:00.accessibility.json) |
-| [September 8 at 11:25 AM](https://archive.org/download/cronica-2022/cronica-2022-09-08T11:25:01.123251-03:00.accessibility.json) |
-| [September 7 at 11:35 PM](https://archive.org/download/cronica-2022/cronica-2022-09-07T23:35:19.746495-03:00.accessibility.json) |
-| [September 7 at 12:31 PM](https://archive.org/download/cronica-2022/cronica-2022-09-07T12:31:46.399279-03:00.accessibility.json) |
-| [September 6 at 11:33 PM](https://archive.org/download/cronica-2022/cronica-2022-09-06T23:33:16.022512-03:00.accessibility.json) |
+| [September 19 at 12:00 PM](https://archive.org/download/cronica-2022/cronica-2022-09-19T11:59:59.599379-03:00.accessibility.json) |
+| [September 19 at 12:42 AM](https://archive.org/download/cronica-2022/cronica-2022-09-19T00:42:11.288954-03:00.accessibility.json) |
+| [September 18 at 11:53 AM](https://archive.org/download/cronica-2022/cronica-2022-09-18T11:53:38.766192-03:00.accessibility.json) |
+| [September 18 at 12:47 AM](https://archive.org/download/cronica-2022/cronica-2022-09-18T00:47:22.875283-03:00.accessibility.json) |
+| [September 17 at 11:50 AM](https://archive.org/download/cronica-2022/cronica-2022-09-17T11:50:31.803523-03:00.accessibility.json) |
+| [September 17 at 12:42 AM](https://archive.org/download/cronica-2022/cronica-2022-09-17T00:42:14.542731-03:00.accessibility.json) |
+| [September 16 at 12:00 PM](https://archive.org/download/cronica-2022/cronica-2022-09-16T12:00:09.145795-03:00.accessibility.json) |
+| [September 16 at 12:49 AM](https://archive.org/download/cronica-2022/cronica-2022-09-16T00:49:26.030602-03:00.accessibility.json) |
+| [September 15 at 1:10 PM](https://archive.org/download/cronica-2022/cronica-2022-09-15T13:09:55.130969-03:00.accessibility.json) |
+| [September 15 at 12:48 AM](https://archive.org/download/cronica-2022/cronica-2022-09-15T00:48:32.137910-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 66 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 83 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 11:13 AM](https://archive.org/download/cronica-2022/cronica-2022-09-11T11:12:57.226504-03:00.lighthouse.json) |
-| [September 10 at 11:27 PM](https://archive.org/download/cronica-2022/cronica-2022-09-10T23:27:28.417075-03:00.lighthouse.json) |
-| [September 10 at 11:13 AM](https://archive.org/download/cronica-2022/cronica-2022-09-10T11:12:54.419601-03:00.lighthouse.json) |
-| [September 9 at 11:28 PM](https://archive.org/download/cronica-2022/cronica-2022-09-09T23:28:14.310845-03:00.lighthouse.json) |
-| [September 9 at 11:34 AM](https://archive.org/download/cronica-2022/cronica-2022-09-09T11:34:18.888959-03:00.lighthouse.json) |
-| [September 8 at 11:30 PM](https://archive.org/download/cronica-2022/cronica-2022-09-08T23:30:17.161181-03:00.lighthouse.json) |
-| [September 8 at 11:25 AM](https://archive.org/download/cronica-2022/cronica-2022-09-08T11:25:01.123251-03:00.lighthouse.json) |
-| [September 7 at 11:35 PM](https://archive.org/download/cronica-2022/cronica-2022-09-07T23:35:19.746495-03:00.lighthouse.json) |
-| [September 7 at 12:31 PM](https://archive.org/download/cronica-2022/cronica-2022-09-07T12:31:46.399279-03:00.lighthouse.json) |
-| [September 6 at 11:33 PM](https://archive.org/download/cronica-2022/cronica-2022-09-06T23:33:16.022512-03:00.lighthouse.json) |
+| [September 19 at 12:00 PM](https://archive.org/download/cronica-2022/cronica-2022-09-19T11:59:59.599379-03:00.lighthouse.json) |
+| [September 19 at 12:42 AM](https://archive.org/download/cronica-2022/cronica-2022-09-19T00:42:11.288954-03:00.lighthouse.json) |
+| [September 18 at 11:53 AM](https://archive.org/download/cronica-2022/cronica-2022-09-18T11:53:38.766192-03:00.lighthouse.json) |
+| [September 18 at 12:47 AM](https://archive.org/download/cronica-2022/cronica-2022-09-18T00:47:22.875283-03:00.lighthouse.json) |
+| [September 17 at 11:50 AM](https://archive.org/download/cronica-2022/cronica-2022-09-17T11:50:31.803523-03:00.lighthouse.json) |
+| [September 17 at 12:42 AM](https://archive.org/download/cronica-2022/cronica-2022-09-17T00:42:14.542731-03:00.lighthouse.json) |
+| [September 16 at 12:00 PM](https://archive.org/download/cronica-2022/cronica-2022-09-16T12:00:09.145795-03:00.lighthouse.json) |
+| [September 16 at 12:49 AM](https://archive.org/download/cronica-2022/cronica-2022-09-16T00:49:26.030602-03:00.lighthouse.json) |
+| [September 15 at 1:10 PM](https://archive.org/download/cronica-2022/cronica-2022-09-15T13:09:55.130969-03:00.lighthouse.json) |
+| [September 15 at 12:48 AM](https://archive.org/download/cronica-2022/cronica-2022-09-15T00:48:32.137910-03:00.lighthouse.json) |
 
 
 

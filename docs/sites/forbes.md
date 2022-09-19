@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 14 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
@@ -37,180 +37,429 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/forbes-2022/forbes-2022-09-10T20:09:42.870708-04:00.jpg">
-  <img src="https://archive.org/download/forbes-2022/forbes-2022-09-10T20:09:42.870708-04:00.jpg"
-     alt="Forbes at 2022-09-10 20:09:47-04:00 local time"
+ <a href="https://archive.org/download/forbes-2022/forbes-2022-09-19T07:56:08.174649-04:00.jpg">
+  <img src="https://archive.org/download/forbes-2022/forbes-2022-09-19T07:56:08.174649-04:00.jpg"
+     alt="Forbes at 2022-09-19 07:56:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/forbes-2022/forbes-2022-09-10T20:09:42.870708-04:00.jpg">September 10 at 8:09 PM</a></p>
+ <p><a href="https://archive.org/download/forbes-2022/forbes-2022-09-19T07:56:08.174649-04:00.jpg">September 19 at 7:56 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/forbes-2022/forbes-2022-09-10T07:56:47.454762-04:00.jpg">
-  <img src="https://archive.org/download/forbes-2022/forbes-2022-09-10T07:56:47.454762-04:00.jpg"
-     alt="Forbes at 2022-09-10 07:56:49-04:00 local time"
+ <a href="https://archive.org/download/forbes-2022/forbes-2022-09-18T19:46:40.593262-04:00.jpg">
+  <img src="https://archive.org/download/forbes-2022/forbes-2022-09-18T19:46:40.593262-04:00.jpg"
+     alt="Forbes at 2022-09-18 19:46:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/forbes-2022/forbes-2022-09-10T07:56:47.454762-04:00.jpg">September 10 at 7:56 AM</a></p>
+ <p><a href="https://archive.org/download/forbes-2022/forbes-2022-09-18T19:46:40.593262-04:00.jpg">September 18 at 7:46 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/forbes-2022/forbes-2022-09-09T20:02:59.550115-04:00.jpg">
-  <img src="https://archive.org/download/forbes-2022/forbes-2022-09-09T20:02:59.550115-04:00.jpg"
-     alt="Forbes at 2022-09-09 20:03:01-04:00 local time"
+ <a href="https://archive.org/download/forbes-2022/forbes-2022-09-18T07:55:10.832577-04:00.jpg">
+  <img src="https://archive.org/download/forbes-2022/forbes-2022-09-18T07:55:10.832577-04:00.jpg"
+     alt="Forbes at 2022-09-18 07:55:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/forbes-2022/forbes-2022-09-09T20:02:59.550115-04:00.jpg">September 9 at 8:03 PM</a></p>
+ <p><a href="https://archive.org/download/forbes-2022/forbes-2022-09-18T07:55:10.832577-04:00.jpg">September 18 at 7:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/forbes-2022/forbes-2022-09-09T08:12:41.300185-04:00.jpg">
-  <img src="https://archive.org/download/forbes-2022/forbes-2022-09-09T08:12:41.300185-04:00.jpg"
-     alt="Forbes at 2022-09-09 08:12:43-04:00 local time"
+ <a href="https://archive.org/download/forbes-2022/forbes-2022-09-17T19:48:02.851730-04:00.jpg">
+  <img src="https://archive.org/download/forbes-2022/forbes-2022-09-17T19:48:02.851730-04:00.jpg"
+     alt="Forbes at 2022-09-17 19:48:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/forbes-2022/forbes-2022-09-09T08:12:41.300185-04:00.jpg">September 9 at 8:12 AM</a></p>
+ <p><a href="https://archive.org/download/forbes-2022/forbes-2022-09-17T19:48:02.851730-04:00.jpg">September 17 at 7:48 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/forbes-2022/forbes-2022-09-08T20:03:26.969909-04:00.jpg">
-  <img src="https://archive.org/download/forbes-2022/forbes-2022-09-08T20:03:26.969909-04:00.jpg"
-     alt="Forbes at 2022-09-08 20:03:28-04:00 local time"
+ <a href="https://archive.org/download/forbes-2022/forbes-2022-09-17T07:56:46.004821-04:00.jpg">
+  <img src="https://archive.org/download/forbes-2022/forbes-2022-09-17T07:56:46.004821-04:00.jpg"
+     alt="Forbes at 2022-09-17 07:56:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/forbes-2022/forbes-2022-09-08T20:03:26.969909-04:00.jpg">September 8 at 8:03 PM</a></p>
+ <p><a href="https://archive.org/download/forbes-2022/forbes-2022-09-17T07:56:46.004821-04:00.jpg">September 17 at 7:56 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/forbes-2022/forbes-2022-09-08T08:15:04.355334-04:00.jpg">
-  <img src="https://archive.org/download/forbes-2022/forbes-2022-09-08T08:15:04.355334-04:00.jpg"
-     alt="Forbes at 2022-09-08 08:15:06-04:00 local time"
+ <a href="https://archive.org/download/forbes-2022/forbes-2022-09-16T19:48:48.727824-04:00.jpg">
+  <img src="https://archive.org/download/forbes-2022/forbes-2022-09-16T19:48:48.727824-04:00.jpg"
+     alt="Forbes at 2022-09-16 19:48:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/forbes-2022/forbes-2022-09-08T08:15:04.355334-04:00.jpg">September 8 at 8:15 AM</a></p>
+ <p><a href="https://archive.org/download/forbes-2022/forbes-2022-09-16T19:48:48.727824-04:00.jpg">September 16 at 7:48 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/forbes-2022/forbes-2022-09-07T19:53:45.655452-04:00.jpg">
-  <img src="https://archive.org/download/forbes-2022/forbes-2022-09-07T19:53:45.655452-04:00.jpg"
-     alt="Forbes at 2022-09-07 19:53:47-04:00 local time"
+ <a href="https://archive.org/download/forbes-2022/forbes-2022-09-16T07:57:04.051363-04:00.jpg">
+  <img src="https://archive.org/download/forbes-2022/forbes-2022-09-16T07:57:04.051363-04:00.jpg"
+     alt="Forbes at 2022-09-16 07:57:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/forbes-2022/forbes-2022-09-07T19:53:45.655452-04:00.jpg">September 7 at 7:53 PM</a></p>
+ <p><a href="https://archive.org/download/forbes-2022/forbes-2022-09-16T07:57:04.051363-04:00.jpg">September 16 at 7:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/forbes-2022/forbes-2022-09-07T08:31:06.669625-04:00.jpg">
-  <img src="https://archive.org/download/forbes-2022/forbes-2022-09-07T08:31:06.669625-04:00.jpg"
-     alt="Forbes at 2022-09-07 08:31:08-04:00 local time"
+ <a href="https://archive.org/download/forbes-2022/forbes-2022-09-15T19:48:01.824197-04:00.jpg">
+  <img src="https://archive.org/download/forbes-2022/forbes-2022-09-15T19:48:01.824197-04:00.jpg"
+     alt="Forbes at 2022-09-15 19:48:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/forbes-2022/forbes-2022-09-07T08:31:06.669625-04:00.jpg">September 7 at 8:31 AM</a></p>
+ <p><a href="https://archive.org/download/forbes-2022/forbes-2022-09-15T19:48:01.824197-04:00.jpg">September 15 at 7:48 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/forbes-2022/forbes-2022-09-06T20:08:35.769225-04:00.jpg">
-  <img src="https://archive.org/download/forbes-2022/forbes-2022-09-06T20:08:35.769225-04:00.jpg"
-     alt="Forbes at 2022-09-06 20:08:38-04:00 local time"
+ <a href="https://archive.org/download/forbes-2022/forbes-2022-09-15T07:58:31.189507-04:00.jpg">
+  <img src="https://archive.org/download/forbes-2022/forbes-2022-09-15T07:58:31.189507-04:00.jpg"
+     alt="Forbes at 2022-09-15 07:58:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/forbes-2022/forbes-2022-09-06T20:08:35.769225-04:00.jpg">September 6 at 8:08 PM</a></p>
+ <p><a href="https://archive.org/download/forbes-2022/forbes-2022-09-15T07:58:31.189507-04:00.jpg">September 15 at 7:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/forbes-2022/forbes-2022-09-06T07:59:12.538465-04:00.jpg">
-  <img src="https://archive.org/download/forbes-2022/forbes-2022-09-06T07:59:12.538465-04:00.jpg"
-     alt="Forbes at 2022-09-06 07:59:15-04:00 local time"
+ <a href="https://archive.org/download/forbes-2022/forbes-2022-09-14T19:56:22.174532-04:00.jpg">
+  <img src="https://archive.org/download/forbes-2022/forbes-2022-09-14T19:56:22.174532-04:00.jpg"
+     alt="Forbes at 2022-09-14 19:56:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/forbes-2022/forbes-2022-09-06T07:59:12.538465-04:00.jpg">September 6 at 7:59 AM</a></p>
+ <p><a href="https://archive.org/download/forbes-2022/forbes-2022-09-14T19:56:22.174532-04:00.jpg">September 14 at 7:56 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/forbes-2022/forbes-2022-09-05T19:55:08.096561-04:00.jpg">
-  <img src="https://archive.org/download/forbes-2022/forbes-2022-09-05T19:55:08.096561-04:00.jpg"
-     alt="Forbes at 2022-09-05 19:55:09-04:00 local time"
+ <a href="https://archive.org/download/forbes-2022/forbes-2022-09-14T07:59:56.648159-04:00.jpg">
+  <img src="https://archive.org/download/forbes-2022/forbes-2022-09-14T07:59:56.648159-04:00.jpg"
+     alt="Forbes at 2022-09-14 07:59:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/forbes-2022/forbes-2022-09-05T19:55:08.096561-04:00.jpg">September 5 at 7:55 PM</a></p>
+ <p><a href="https://archive.org/download/forbes-2022/forbes-2022-09-14T07:59:56.648159-04:00.jpg">September 14 at 7:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/forbes-2022/forbes-2022-09-05T08:16:48.832114-04:00.jpg">
-  <img src="https://archive.org/download/forbes-2022/forbes-2022-09-05T08:16:48.832114-04:00.jpg"
-     alt="Forbes at 2022-09-05 08:16:51-04:00 local time"
+ <a href="https://archive.org/download/forbes-2022/forbes-2022-09-13T19:52:18.227230-04:00.jpg">
+  <img src="https://archive.org/download/forbes-2022/forbes-2022-09-13T19:52:18.227230-04:00.jpg"
+     alt="Forbes at 2022-09-13 19:52:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/forbes-2022/forbes-2022-09-05T08:16:48.832114-04:00.jpg">September 5 at 8:16 AM</a></p>
+ <p><a href="https://archive.org/download/forbes-2022/forbes-2022-09-13T19:52:18.227230-04:00.jpg">September 13 at 7:52 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 14 hyperlink lists with the Internet Archive.
+The archiving routine has saved 31 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/forbes.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 10 at 8:09 PM](https://archive.org/download/forbes-2022/forbes-2022-09-10T20:09:42.870708-04:00.hyperlinks.json) |
-| [September 10 at 7:56 AM](https://archive.org/download/forbes-2022/forbes-2022-09-10T07:56:47.454762-04:00.hyperlinks.json) |
-| [September 9 at 8:03 PM](https://archive.org/download/forbes-2022/forbes-2022-09-09T20:02:59.550115-04:00.hyperlinks.json) |
-| [September 9 at 8:12 AM](https://archive.org/download/forbes-2022/forbes-2022-09-09T08:12:41.300185-04:00.hyperlinks.json) |
-| [September 8 at 8:03 PM](https://archive.org/download/forbes-2022/forbes-2022-09-08T20:03:26.969909-04:00.hyperlinks.json) |
-| [September 8 at 8:15 AM](https://archive.org/download/forbes-2022/forbes-2022-09-08T08:15:04.355334-04:00.hyperlinks.json) |
-| [September 7 at 7:53 PM](https://archive.org/download/forbes-2022/forbes-2022-09-07T19:53:45.655452-04:00.hyperlinks.json) |
-| [September 7 at 8:31 AM](https://archive.org/download/forbes-2022/forbes-2022-09-07T08:31:06.669625-04:00.hyperlinks.json) |
-| [September 6 at 8:08 PM](https://archive.org/download/forbes-2022/forbes-2022-09-06T20:08:35.769225-04:00.hyperlinks.json) |
-| [September 6 at 7:59 AM](https://archive.org/download/forbes-2022/forbes-2022-09-06T07:59:12.538465-04:00.hyperlinks.json) |
+| [September 19 at 7:56 AM](https://archive.org/download/forbes-2022/forbes-2022-09-19T07:56:08.174649-04:00.hyperlinks.json) |
+| [September 18 at 7:46 PM](https://archive.org/download/forbes-2022/forbes-2022-09-18T19:46:40.593262-04:00.hyperlinks.json) |
+| [September 18 at 7:55 AM](https://archive.org/download/forbes-2022/forbes-2022-09-18T07:55:10.832577-04:00.hyperlinks.json) |
+| [September 17 at 7:48 PM](https://archive.org/download/forbes-2022/forbes-2022-09-17T19:48:02.851730-04:00.hyperlinks.json) |
+| [September 17 at 7:56 AM](https://archive.org/download/forbes-2022/forbes-2022-09-17T07:56:46.004821-04:00.hyperlinks.json) |
+| [September 16 at 7:48 PM](https://archive.org/download/forbes-2022/forbes-2022-09-16T19:48:48.727824-04:00.hyperlinks.json) |
+| [September 16 at 7:57 AM](https://archive.org/download/forbes-2022/forbes-2022-09-16T07:57:04.051363-04:00.hyperlinks.json) |
+| [September 15 at 7:48 PM](https://archive.org/download/forbes-2022/forbes-2022-09-15T19:48:01.824197-04:00.hyperlinks.json) |
+| [September 15 at 7:58 AM](https://archive.org/download/forbes-2022/forbes-2022-09-15T07:58:31.189507-04:00.hyperlinks.json) |
+| [September 14 at 7:56 PM](https://archive.org/download/forbes-2022/forbes-2022-09-14T19:56:22.174532-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 14 accessibility trees with the Internet Archive.
+The archiving routine has saved 31 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/forbes.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 10 at 8:09 PM](https://archive.org/download/forbes-2022/forbes-2022-09-10T20:09:42.870708-04:00.accessibility.json) |
-| [September 10 at 7:56 AM](https://archive.org/download/forbes-2022/forbes-2022-09-10T07:56:47.454762-04:00.accessibility.json) |
-| [September 9 at 8:03 PM](https://archive.org/download/forbes-2022/forbes-2022-09-09T20:02:59.550115-04:00.accessibility.json) |
-| [September 9 at 8:12 AM](https://archive.org/download/forbes-2022/forbes-2022-09-09T08:12:41.300185-04:00.accessibility.json) |
-| [September 8 at 8:03 PM](https://archive.org/download/forbes-2022/forbes-2022-09-08T20:03:26.969909-04:00.accessibility.json) |
-| [September 8 at 8:15 AM](https://archive.org/download/forbes-2022/forbes-2022-09-08T08:15:04.355334-04:00.accessibility.json) |
-| [September 7 at 7:53 PM](https://archive.org/download/forbes-2022/forbes-2022-09-07T19:53:45.655452-04:00.accessibility.json) |
-| [September 7 at 8:31 AM](https://archive.org/download/forbes-2022/forbes-2022-09-07T08:31:06.669625-04:00.accessibility.json) |
-| [September 6 at 8:08 PM](https://archive.org/download/forbes-2022/forbes-2022-09-06T20:08:35.769225-04:00.accessibility.json) |
-| [September 6 at 7:59 AM](https://archive.org/download/forbes-2022/forbes-2022-09-06T07:59:12.538465-04:00.accessibility.json) |
+| [September 19 at 7:56 AM](https://archive.org/download/forbes-2022/forbes-2022-09-19T07:56:08.174649-04:00.accessibility.json) |
+| [September 18 at 7:46 PM](https://archive.org/download/forbes-2022/forbes-2022-09-18T19:46:40.593262-04:00.accessibility.json) |
+| [September 18 at 7:55 AM](https://archive.org/download/forbes-2022/forbes-2022-09-18T07:55:10.832577-04:00.accessibility.json) |
+| [September 17 at 7:48 PM](https://archive.org/download/forbes-2022/forbes-2022-09-17T19:48:02.851730-04:00.accessibility.json) |
+| [September 17 at 7:56 AM](https://archive.org/download/forbes-2022/forbes-2022-09-17T07:56:46.004821-04:00.accessibility.json) |
+| [September 16 at 7:48 PM](https://archive.org/download/forbes-2022/forbes-2022-09-16T19:48:48.727824-04:00.accessibility.json) |
+| [September 16 at 7:57 AM](https://archive.org/download/forbes-2022/forbes-2022-09-16T07:57:04.051363-04:00.accessibility.json) |
+| [September 15 at 7:48 PM](https://archive.org/download/forbes-2022/forbes-2022-09-15T19:48:01.824197-04:00.accessibility.json) |
+| [September 15 at 7:58 AM](https://archive.org/download/forbes-2022/forbes-2022-09-15T07:58:31.189507-04:00.accessibility.json) |
+| [September 14 at 7:56 PM](https://archive.org/download/forbes-2022/forbes-2022-09-14T19:56:22.174532-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/forbes.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 10 at 8:09 PM](https://archive.org/download/forbes-2022/forbes-2022-09-10T20:09:42.870708-04:00.lighthouse.json) |
-| [September 10 at 7:56 AM](https://archive.org/download/forbes-2022/forbes-2022-09-10T07:56:47.454762-04:00.lighthouse.json) |
-| [September 9 at 8:03 PM](https://archive.org/download/forbes-2022/forbes-2022-09-09T20:02:59.550115-04:00.lighthouse.json) |
-| [September 9 at 8:12 AM](https://archive.org/download/forbes-2022/forbes-2022-09-09T08:12:41.300185-04:00.lighthouse.json) |
-| [September 8 at 8:03 PM](https://archive.org/download/forbes-2022/forbes-2022-09-08T20:03:26.969909-04:00.lighthouse.json) |
-| [September 8 at 8:15 AM](https://archive.org/download/forbes-2022/forbes-2022-09-08T08:15:04.355334-04:00.lighthouse.json) |
-| [September 7 at 7:53 PM](https://archive.org/download/forbes-2022/forbes-2022-09-07T19:53:45.655452-04:00.lighthouse.json) |
-| [September 7 at 8:31 AM](https://archive.org/download/forbes-2022/forbes-2022-09-07T08:31:06.669625-04:00.lighthouse.json) |
-| [September 6 at 8:08 PM](https://archive.org/download/forbes-2022/forbes-2022-09-06T20:08:35.769225-04:00.lighthouse.json) |
-| [September 6 at 7:59 AM](https://archive.org/download/forbes-2022/forbes-2022-09-06T07:59:12.538465-04:00.lighthouse.json) |
+| [September 19 at 7:56 AM](https://archive.org/download/forbes-2022/forbes-2022-09-19T07:56:08.174649-04:00.lighthouse.json) |
+| [September 18 at 7:46 PM](https://archive.org/download/forbes-2022/forbes-2022-09-18T19:46:40.593262-04:00.lighthouse.json) |
+| [September 18 at 7:55 AM](https://archive.org/download/forbes-2022/forbes-2022-09-18T07:55:10.832577-04:00.lighthouse.json) |
+| [September 17 at 7:48 PM](https://archive.org/download/forbes-2022/forbes-2022-09-17T19:48:02.851730-04:00.lighthouse.json) |
+| [September 17 at 7:56 AM](https://archive.org/download/forbes-2022/forbes-2022-09-17T07:56:46.004821-04:00.lighthouse.json) |
+| [September 16 at 7:48 PM](https://archive.org/download/forbes-2022/forbes-2022-09-16T19:48:48.727824-04:00.lighthouse.json) |
+| [September 16 at 7:57 AM](https://archive.org/download/forbes-2022/forbes-2022-09-16T07:57:04.051363-04:00.lighthouse.json) |
+| [September 15 at 7:48 PM](https://archive.org/download/forbes-2022/forbes-2022-09-15T19:48:01.824197-04:00.lighthouse.json) |
+| [September 15 at 7:58 AM](https://archive.org/download/forbes-2022/forbes-2022-09-15T07:58:31.189507-04:00.lighthouse.json) |
+| [September 14 at 7:56 PM](https://archive.org/download/forbes-2022/forbes-2022-09-14T19:56:22.174532-04:00.lighthouse.json) |
 
 
 

@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 555 screenshots with the Internet Archive.
+The archiving routine has saved 571 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-11T05:58:05.212876-05:00.jpg">
-  <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-11T05:58:05.212876-05:00.jpg"
-     alt="El Universal at 2022-09-11 05:58:18-05:00 local time"
+ <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-19T06:54:56.530936-05:00.jpg">
+  <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-19T06:54:56.530936-05:00.jpg"
+     alt="El Universal at 2022-09-19 06:55:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-11T05:58:05.212876-05:00.jpg">September 11 at 5:58 AM</a></p>
+ <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-19T06:54:56.530936-05:00.jpg">September 19 at 6:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-10T18:11:32.680978-05:00.jpg">
-  <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-10T18:11:32.680978-05:00.jpg"
-     alt="El Universal at 2022-09-10 18:11:54-05:00 local time"
+ <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-18T18:44:31.816871-05:00.jpg">
+  <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-18T18:44:31.816871-05:00.jpg"
+     alt="El Universal at 2022-09-18 18:44:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-10T18:11:32.680978-05:00.jpg">September 10 at 6:11 PM</a></p>
+ <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-18T18:44:31.816871-05:00.jpg">September 18 at 6:44 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-10T05:57:47.537422-05:00.jpg">
-  <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-10T05:57:47.537422-05:00.jpg"
-     alt="El Universal at 2022-09-10 05:57:57-05:00 local time"
+ <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-18T06:54:47.910318-05:00.jpg">
+  <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-18T06:54:47.910318-05:00.jpg"
+     alt="El Universal at 2022-09-18 06:54:50-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-10T05:57:47.537422-05:00.jpg">September 10 at 5:57 AM</a></p>
+ <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-18T06:54:47.910318-05:00.jpg">September 18 at 6:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-09T18:08:59.529561-05:00.jpg">
-  <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-09T18:08:59.529561-05:00.jpg"
-     alt="El Universal at 2022-09-09 18:09:27-05:00 local time"
+ <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-17T18:47:58.995679-05:00.jpg">
+  <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-17T18:47:58.995679-05:00.jpg"
+     alt="El Universal at 2022-09-17 18:48:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-09T18:08:59.529561-05:00.jpg">September 9 at 6:09 PM</a></p>
+ <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-17T18:47:58.995679-05:00.jpg">September 17 at 6:48 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-09T06:08:41.928830-05:00.jpg">
-  <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-09T06:08:41.928830-05:00.jpg"
-     alt="El Universal at 2022-09-09 06:09:07-05:00 local time"
+ <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-17T06:55:55.666059-05:00.jpg">
+  <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-17T06:55:55.666059-05:00.jpg"
+     alt="El Universal at 2022-09-17 06:55:57-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-09T06:08:41.928830-05:00.jpg">September 9 at 6:09 AM</a></p>
+ <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-17T06:55:55.666059-05:00.jpg">September 17 at 6:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-08T19:01:36.225400-05:00.jpg">
-  <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-08T19:01:36.225400-05:00.jpg"
-     alt="El Universal at 2022-09-08 19:02:11-05:00 local time"
+ <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-16T18:48:33.979067-05:00.jpg">
+  <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-16T18:48:33.979067-05:00.jpg"
+     alt="El Universal at 2022-09-16 18:48:46-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-08T19:01:36.225400-05:00.jpg">September 8 at 7:02 PM</a></p>
+ <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-16T18:48:33.979067-05:00.jpg">September 16 at 6:48 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-08T06:06:22.103369-05:00.jpg">
-  <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-08T06:06:22.103369-05:00.jpg"
-     alt="El Universal at 2022-09-08 06:06:46-05:00 local time"
+ <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-16T06:55:49.921952-05:00.jpg">
+  <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-16T06:55:49.921952-05:00.jpg"
+     alt="El Universal at 2022-09-16 06:55:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-08T06:06:22.103369-05:00.jpg">September 8 at 6:06 AM</a></p>
+ <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-16T06:55:49.921952-05:00.jpg">September 16 at 6:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-07T18:03:28.505528-05:00.jpg">
-  <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-07T18:03:28.505528-05:00.jpg"
-     alt="El Universal at 2022-09-07 18:03:55-05:00 local time"
+ <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-15T18:47:39.495596-05:00.jpg">
+  <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-15T18:47:39.495596-05:00.jpg"
+     alt="El Universal at 2022-09-15 18:47:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-07T18:03:28.505528-05:00.jpg">September 7 at 6:03 PM</a></p>
+ <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-15T18:47:39.495596-05:00.jpg">September 15 at 6:47 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-07T07:17:43.996792-05:00.jpg">
-  <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-07T07:17:43.996792-05:00.jpg"
-     alt="El Universal at 2022-09-07 07:18:08-05:00 local time"
+ <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-15T06:56:51.988627-05:00.jpg">
+  <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-15T06:56:51.988627-05:00.jpg"
+     alt="El Universal at 2022-09-15 06:56:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-07T07:17:43.996792-05:00.jpg">September 7 at 7:18 AM</a></p>
+ <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-15T06:56:51.988627-05:00.jpg">September 15 at 6:56 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-06T18:10:23.088874-05:00.jpg">
-  <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-06T18:10:23.088874-05:00.jpg"
-     alt="El Universal at 2022-09-06 18:10:51-05:00 local time"
+ <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-14T18:56:12.411095-05:00.jpg">
+  <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-14T18:56:12.411095-05:00.jpg"
+     alt="El Universal at 2022-09-14 18:56:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-06T18:10:23.088874-05:00.jpg">September 6 at 6:10 PM</a></p>
+ <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-14T18:56:12.411095-05:00.jpg">September 14 at 6:56 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-06T05:58:43.733046-05:00.jpg">
-  <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-06T05:58:43.733046-05:00.jpg"
-     alt="El Universal at 2022-09-06 05:59:22-05:00 local time"
+ <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-14T06:58:37.200266-05:00.jpg">
+  <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-14T06:58:37.200266-05:00.jpg"
+     alt="El Universal at 2022-09-14 06:59:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-06T05:58:43.733046-05:00.jpg">September 6 at 5:59 AM</a></p>
+ <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-14T06:58:37.200266-05:00.jpg">September 14 at 6:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-05T18:04:48.166271-05:00.jpg">
-  <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-05T18:04:48.166271-05:00.jpg"
-     alt="El Universal at 2022-09-05 18:05:00-05:00 local time"
+ <a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-13T18:52:26.162957-05:00.jpg">
+  <img src="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-13T18:52:26.162957-05:00.jpg"
+     alt="El Universal at 2022-09-13 18:52:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-05T18:04:48.166271-05:00.jpg">September 5 at 6:05 PM</a></p>
+ <p><a href="https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-13T18:52:26.162957-05:00.jpg">September 13 at 6:52 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 554 hyperlink lists with the Internet Archive.
+The archiving routine has saved 570 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 5:58 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-11T05:58:05.212876-05:00.hyperlinks.json) |
-| [September 10 at 6:11 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-10T18:11:32.680978-05:00.hyperlinks.json) |
-| [September 10 at 5:58 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-10T05:57:47.537422-05:00.hyperlinks.json) |
-| [September 9 at 6:09 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-09T18:08:59.529561-05:00.hyperlinks.json) |
-| [September 9 at 6:09 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-09T06:08:41.928830-05:00.hyperlinks.json) |
-| [September 8 at 7:02 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-08T19:01:36.225400-05:00.hyperlinks.json) |
-| [September 8 at 6:06 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-08T06:06:22.103369-05:00.hyperlinks.json) |
-| [September 7 at 6:03 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-07T18:03:28.505528-05:00.hyperlinks.json) |
-| [September 7 at 7:18 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-07T07:17:43.996792-05:00.hyperlinks.json) |
-| [September 6 at 6:10 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-06T18:10:23.088874-05:00.hyperlinks.json) |
+| [September 19 at 6:55 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-19T06:54:56.530936-05:00.hyperlinks.json) |
+| [September 18 at 6:44 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-18T18:44:31.816871-05:00.hyperlinks.json) |
+| [September 18 at 6:54 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-18T06:54:47.910318-05:00.hyperlinks.json) |
+| [September 17 at 6:48 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-17T18:47:58.995679-05:00.hyperlinks.json) |
+| [September 17 at 6:56 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-17T06:55:55.666059-05:00.hyperlinks.json) |
+| [September 16 at 6:48 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-16T18:48:33.979067-05:00.hyperlinks.json) |
+| [September 16 at 6:55 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-16T06:55:49.921952-05:00.hyperlinks.json) |
+| [September 15 at 6:47 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-15T18:47:39.495596-05:00.hyperlinks.json) |
+| [September 15 at 6:57 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-15T06:56:51.988627-05:00.hyperlinks.json) |
+| [September 14 at 6:56 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-14T18:56:12.411095-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 554 accessibility trees with the Internet Archive.
+The archiving routine has saved 570 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 5:58 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-11T05:58:05.212876-05:00.accessibility.json) |
-| [September 10 at 6:11 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-10T18:11:32.680978-05:00.accessibility.json) |
-| [September 10 at 5:57 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-10T05:57:47.537422-05:00.accessibility.json) |
-| [September 9 at 6:09 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-09T18:08:59.529561-05:00.accessibility.json) |
-| [September 9 at 6:09 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-09T06:08:41.928830-05:00.accessibility.json) |
-| [September 8 at 7:02 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-08T19:01:36.225400-05:00.accessibility.json) |
-| [September 8 at 6:06 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-08T06:06:22.103369-05:00.accessibility.json) |
-| [September 7 at 6:03 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-07T18:03:28.505528-05:00.accessibility.json) |
-| [September 7 at 7:18 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-07T07:17:43.996792-05:00.accessibility.json) |
-| [September 6 at 6:10 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-06T18:10:23.088874-05:00.accessibility.json) |
+| [September 19 at 6:55 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-19T06:54:56.530936-05:00.accessibility.json) |
+| [September 18 at 6:44 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-18T18:44:31.816871-05:00.accessibility.json) |
+| [September 18 at 6:54 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-18T06:54:47.910318-05:00.accessibility.json) |
+| [September 17 at 6:48 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-17T18:47:58.995679-05:00.accessibility.json) |
+| [September 17 at 6:55 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-17T06:55:55.666059-05:00.accessibility.json) |
+| [September 16 at 6:48 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-16T18:48:33.979067-05:00.accessibility.json) |
+| [September 16 at 6:55 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-16T06:55:49.921952-05:00.accessibility.json) |
+| [September 15 at 6:47 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-15T18:47:39.495596-05:00.accessibility.json) |
+| [September 15 at 6:56 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-15T06:56:51.988627-05:00.accessibility.json) |
+| [September 14 at 6:56 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-14T18:56:12.411095-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 103 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 119 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 5:58 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-11T05:58:05.212876-05:00.lighthouse.json) |
-| [September 10 at 6:11 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-10T18:11:32.680978-05:00.lighthouse.json) |
-| [September 10 at 5:58 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-10T05:57:47.537422-05:00.lighthouse.json) |
-| [September 9 at 6:09 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-09T18:08:59.529561-05:00.lighthouse.json) |
-| [September 9 at 6:09 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-09T06:08:41.928830-05:00.lighthouse.json) |
-| [September 8 at 7:02 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-08T19:01:36.225400-05:00.lighthouse.json) |
-| [September 8 at 6:06 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-08T06:06:22.103369-05:00.lighthouse.json) |
-| [September 7 at 6:04 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-07T18:03:28.505528-05:00.lighthouse.json) |
-| [September 7 at 7:18 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-07T07:17:43.996792-05:00.lighthouse.json) |
-| [September 6 at 6:10 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-06T18:10:23.088874-05:00.lighthouse.json) |
+| [September 19 at 6:55 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-19T06:54:56.530936-05:00.lighthouse.json) |
+| [September 18 at 6:45 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-18T18:44:31.816871-05:00.lighthouse.json) |
+| [September 18 at 6:54 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-18T06:54:47.910318-05:00.lighthouse.json) |
+| [September 17 at 6:48 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-17T18:47:58.995679-05:00.lighthouse.json) |
+| [September 17 at 6:56 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-17T06:55:55.666059-05:00.lighthouse.json) |
+| [September 16 at 6:48 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-16T18:48:33.979067-05:00.lighthouse.json) |
+| [September 16 at 6:55 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-16T06:55:49.921952-05:00.lighthouse.json) |
+| [September 15 at 6:47 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-15T18:47:39.495596-05:00.lighthouse.json) |
+| [September 15 at 6:57 AM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-15T06:56:51.988627-05:00.lighthouse.json) |
+| [September 14 at 6:56 PM](https://archive.org/download/el_universal_mx-2022/el_universal_mx-2022-09-14T18:56:12.411095-05:00.lighthouse.json) |
 
 
 

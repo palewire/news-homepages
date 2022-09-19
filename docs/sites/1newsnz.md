@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 76 screenshots with the Internet Archive.
+The archiving routine has saved 91 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-11T22:53:05.521395+12:00.jpg">
-  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-11T22:53:05.521395+12:00.jpg"
-     alt="1News at 2022-09-11 22:53:07+12:00 local time"
+ <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-19T22:47:05.085103+12:00.jpg">
+  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-19T22:47:05.085103+12:00.jpg"
+     alt="1News at 2022-09-19 22:47:06+12:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-11T22:53:05.521395+12:00.jpg">September 11 at 10:53 PM</a></p>
+ <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-19T22:47:05.085103+12:00.jpg">September 19 at 10:47 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-11T11:04:02.134440+12:00.jpg">
-  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-11T11:04:02.134440+12:00.jpg"
-     alt="1News at 2022-09-11 11:04:06+12:00 local time"
+ <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-19T10:47:12.473545+12:00.jpg">
+  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-19T10:47:12.473545+12:00.jpg"
+     alt="1News at 2022-09-19 10:47:18+12:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-11T11:04:02.134440+12:00.jpg">September 11 at 11:04 AM</a></p>
+ <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-19T10:47:12.473545+12:00.jpg">September 19 at 10:47 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-10T22:52:22.554573+12:00.jpg">
-  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-10T22:52:22.554573+12:00.jpg"
-     alt="1News at 2022-09-10 22:52:23+12:00 local time"
+ <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-18T22:49:06.975396+12:00.jpg">
+  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-18T22:49:06.975396+12:00.jpg"
+     alt="1News at 2022-09-18 22:49:10+12:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-10T22:52:22.554573+12:00.jpg">September 10 at 10:52 PM</a></p>
+ <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-18T22:49:06.975396+12:00.jpg">September 18 at 10:49 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-10T11:02:00.230874+12:00.jpg">
-  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-10T11:02:00.230874+12:00.jpg"
-     alt="1News at 2022-09-10 11:02:04+12:00 local time"
+ <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-18T10:51:09.597103+12:00.jpg">
+  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-18T10:51:09.597103+12:00.jpg"
+     alt="1News at 2022-09-18 10:51:13+12:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-10T11:02:00.230874+12:00.jpg">September 10 at 11:02 AM</a></p>
+ <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-18T10:51:09.597103+12:00.jpg">September 18 at 10:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-09T23:01:46.431298+12:00.jpg">
-  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-09T23:01:46.431298+12:00.jpg"
-     alt="1News at 2022-09-09 23:01:48+12:00 local time"
+ <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-17T22:47:54.460183+12:00.jpg">
+  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-17T22:47:54.460183+12:00.jpg"
+     alt="1News at 2022-09-17 22:47:55+12:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-09T23:01:46.431298+12:00.jpg">September 9 at 11:01 PM</a></p>
+ <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-17T22:47:54.460183+12:00.jpg">September 17 at 10:47 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-09T11:53:54.420819+12:00.jpg">
-  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-09T11:53:54.420819+12:00.jpg"
-     alt="1News at 2022-09-09 11:54:01+12:00 local time"
+ <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-17T10:50:06.583653+12:00.jpg">
+  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-17T10:50:06.583653+12:00.jpg"
+     alt="1News at 2022-09-17 10:50:12+12:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-09T11:53:54.420819+12:00.jpg">September 9 at 11:54 AM</a></p>
+ <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-17T10:50:06.583653+12:00.jpg">September 17 at 10:50 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-08T22:59:49.426522+12:00.jpg">
-  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-08T22:59:49.426522+12:00.jpg"
-     alt="1News at 2022-09-08 22:59:52+12:00 local time"
+ <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-16T22:50:45.796175+12:00.jpg">
+  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-16T22:50:45.796175+12:00.jpg"
+     alt="1News at 2022-09-16 22:50:51+12:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-08T22:59:49.426522+12:00.jpg">September 8 at 10:59 PM</a></p>
+ <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-16T22:50:45.796175+12:00.jpg">September 16 at 10:50 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-08T10:57:37.729159+12:00.jpg">
-  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-08T10:57:37.729159+12:00.jpg"
-     alt="1News at 2022-09-08 10:57:47+12:00 local time"
+ <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-15T22:52:52.069401+12:00.jpg">
+  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-15T22:52:52.069401+12:00.jpg"
+     alt="1News at 2022-09-15 22:52:56+12:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-08T10:57:37.729159+12:00.jpg">September 8 at 10:57 AM</a></p>
+ <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-15T22:52:52.069401+12:00.jpg">September 15 at 10:52 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-08T00:09:10.531021+12:00.jpg">
-  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-08T00:09:10.531021+12:00.jpg"
-     alt="1News at 2022-09-08 00:09:13+12:00 local time"
+ <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-15T10:59:46.288619+12:00.jpg">
+  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-15T10:59:46.288619+12:00.jpg"
+     alt="1News at 2022-09-15 10:59:49+12:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-08T00:09:10.531021+12:00.jpg">September 8 at 12:09 AM</a></p>
+ <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-15T10:59:46.288619+12:00.jpg">September 15 at 10:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-07T11:04:31.680587+12:00.jpg">
-  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-07T11:04:31.680587+12:00.jpg"
-     alt="1News at 2022-09-07 11:04:36+12:00 local time"
+ <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-14T22:52:13.143532+12:00.jpg">
+  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-14T22:52:13.143532+12:00.jpg"
+     alt="1News at 2022-09-14 22:52:18+12:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-07T11:04:31.680587+12:00.jpg">September 7 at 11:04 AM</a></p>
+ <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-14T22:52:13.143532+12:00.jpg">September 14 at 10:52 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-06T22:53:14.903378+12:00.jpg">
-  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-06T22:53:14.903378+12:00.jpg"
-     alt="1News at 2022-09-06 22:53:18+12:00 local time"
+ <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-14T10:56:39.298265+12:00.jpg">
+  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-14T10:56:39.298265+12:00.jpg"
+     alt="1News at 2022-09-14 10:56:43+12:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-06T22:53:14.903378+12:00.jpg">September 6 at 10:53 PM</a></p>
+ <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-14T10:56:39.298265+12:00.jpg">September 14 at 10:56 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-06T10:57:52.413116+12:00.jpg">
-  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-06T10:57:52.413116+12:00.jpg"
-     alt="1News at 2022-09-06 10:57:56+12:00 local time"
+ <a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-13T22:51:47.834759+12:00.jpg">
+  <img src="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-13T22:51:47.834759+12:00.jpg"
+     alt="1News at 2022-09-13 22:51:52+12:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-06T10:57:52.413116+12:00.jpg">September 6 at 10:57 AM</a></p>
+ <p><a href="https://archive.org/download/1newsnz-2022/1newsnz-2022-09-13T22:51:47.834759+12:00.jpg">September 13 at 10:51 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 76 hyperlink lists with the Internet Archive.
+The archiving routine has saved 92 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 10:53 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-11T22:53:05.521395+12:00.hyperlinks.json) |
-| [September 11 at 11:04 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-11T11:04:02.134440+12:00.hyperlinks.json) |
-| [September 10 at 10:52 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-10T22:52:22.554573+12:00.hyperlinks.json) |
-| [September 10 at 11:02 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-10T11:02:00.230874+12:00.hyperlinks.json) |
-| [September 9 at 11:01 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-09T23:01:46.431298+12:00.hyperlinks.json) |
-| [September 9 at 11:54 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-09T11:53:54.420819+12:00.hyperlinks.json) |
-| [September 8 at 10:59 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-08T22:59:49.426522+12:00.hyperlinks.json) |
-| [September 8 at 10:57 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-08T10:57:37.729159+12:00.hyperlinks.json) |
-| [September 8 at 12:09 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-08T00:09:10.531021+12:00.hyperlinks.json) |
-| [September 7 at 11:04 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-07T11:04:31.680587+12:00.hyperlinks.json) |
+| [September 19 at 10:47 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-19T22:47:05.085103+12:00.hyperlinks.json) |
+| [September 19 at 10:47 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-19T10:47:12.473545+12:00.hyperlinks.json) |
+| [September 18 at 10:49 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-18T22:49:06.975396+12:00.hyperlinks.json) |
+| [September 18 at 10:51 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-18T10:51:09.597103+12:00.hyperlinks.json) |
+| [September 17 at 10:47 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-17T22:47:54.460183+12:00.hyperlinks.json) |
+| [September 17 at 10:50 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-17T10:50:06.583653+12:00.hyperlinks.json) |
+| [September 16 at 10:50 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-16T22:50:45.796175+12:00.hyperlinks.json) |
+| [September 16 at 10:53 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-16T10:52:54.191236+12:00.hyperlinks.json) |
+| [September 15 at 10:53 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-15T22:52:52.069401+12:00.hyperlinks.json) |
+| [September 15 at 10:59 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-15T10:59:46.288619+12:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 76 accessibility trees with the Internet Archive.
+The archiving routine has saved 92 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 10:53 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-11T22:53:05.521395+12:00.accessibility.json) |
-| [September 11 at 11:04 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-11T11:04:02.134440+12:00.accessibility.json) |
-| [September 10 at 10:52 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-10T22:52:22.554573+12:00.accessibility.json) |
-| [September 10 at 11:02 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-10T11:02:00.230874+12:00.accessibility.json) |
-| [September 9 at 11:01 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-09T23:01:46.431298+12:00.accessibility.json) |
-| [September 9 at 11:54 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-09T11:53:54.420819+12:00.accessibility.json) |
-| [September 8 at 10:59 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-08T22:59:49.426522+12:00.accessibility.json) |
-| [September 8 at 10:57 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-08T10:57:37.729159+12:00.accessibility.json) |
-| [September 8 at 12:09 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-08T00:09:10.531021+12:00.accessibility.json) |
-| [September 7 at 11:04 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-07T11:04:31.680587+12:00.accessibility.json) |
+| [September 19 at 10:47 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-19T22:47:05.085103+12:00.accessibility.json) |
+| [September 19 at 10:47 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-19T10:47:12.473545+12:00.accessibility.json) |
+| [September 18 at 10:49 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-18T22:49:06.975396+12:00.accessibility.json) |
+| [September 18 at 10:51 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-18T10:51:09.597103+12:00.accessibility.json) |
+| [September 17 at 10:47 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-17T22:47:54.460183+12:00.accessibility.json) |
+| [September 17 at 10:50 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-17T10:50:06.583653+12:00.accessibility.json) |
+| [September 16 at 10:50 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-16T22:50:45.796175+12:00.accessibility.json) |
+| [September 16 at 10:53 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-16T10:52:54.191236+12:00.accessibility.json) |
+| [September 15 at 10:52 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-15T22:52:52.069401+12:00.accessibility.json) |
+| [September 15 at 10:59 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-15T10:59:46.288619+12:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 76 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 92 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 10:53 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-11T22:53:05.521395+12:00.lighthouse.json) |
-| [September 11 at 11:04 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-11T11:04:02.134440+12:00.lighthouse.json) |
-| [September 10 at 10:52 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-10T22:52:22.554573+12:00.lighthouse.json) |
-| [September 10 at 11:02 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-10T11:02:00.230874+12:00.lighthouse.json) |
-| [September 9 at 11:01 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-09T23:01:46.431298+12:00.lighthouse.json) |
-| [September 9 at 11:54 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-09T11:53:54.420819+12:00.lighthouse.json) |
-| [September 8 at 10:59 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-08T22:59:49.426522+12:00.lighthouse.json) |
-| [September 8 at 10:57 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-08T10:57:37.729159+12:00.lighthouse.json) |
-| [September 8 at 12:09 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-08T00:09:10.531021+12:00.lighthouse.json) |
-| [September 7 at 11:04 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-07T11:04:31.680587+12:00.lighthouse.json) |
+| [September 19 at 10:47 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-19T22:47:05.085103+12:00.lighthouse.json) |
+| [September 19 at 10:47 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-19T10:47:12.473545+12:00.lighthouse.json) |
+| [September 18 at 10:49 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-18T22:49:06.975396+12:00.lighthouse.json) |
+| [September 18 at 10:51 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-18T10:51:09.597103+12:00.lighthouse.json) |
+| [September 17 at 10:48 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-17T22:47:54.460183+12:00.lighthouse.json) |
+| [September 17 at 10:50 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-17T10:50:06.583653+12:00.lighthouse.json) |
+| [September 16 at 10:50 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-16T22:50:45.796175+12:00.lighthouse.json) |
+| [September 16 at 10:53 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-16T10:52:54.191236+12:00.lighthouse.json) |
+| [September 15 at 10:53 PM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-15T22:52:52.069401+12:00.lighthouse.json) |
+| [September 15 at 10:59 AM](https://archive.org/download/1newsnz-2022/1newsnz-2022-09-15T10:59:46.288619+12:00.lighthouse.json) |
 
 
 

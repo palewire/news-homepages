@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 417 screenshots with the Internet Archive.
+The archiving routine has saved 442 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-11T08:10:38.834222-07:00.jpg">
-  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-09-11T08:10:38.834222-07:00.jpg"
-     alt="Orange County Register at 2022-09-11 08:10:40-07:00 local time"
+ <a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-19T11:39:38.444197-07:00.jpg">
+  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-09-19T11:39:38.444197-07:00.jpg"
+     alt="Orange County Register at 2022-09-19 11:39:39-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-11T08:10:38.834222-07:00.jpg">September 11 at 8:10 AM</a></p>
+ <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-19T11:39:38.444197-07:00.jpg">September 19 at 11:39 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-10T20:55:41.248960-07:00.jpg">
-  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-09-10T20:55:41.248960-07:00.jpg"
-     alt="Orange County Register at 2022-09-10 20:55:43-07:00 local time"
+ <a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-19T10:34:50.085135-07:00.jpg">
+  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-09-19T10:34:50.085135-07:00.jpg"
+     alt="Orange County Register at 2022-09-19 10:35:02-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-10T20:55:41.248960-07:00.jpg">September 10 at 8:55 PM</a></p>
+ <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-19T10:34:50.085135-07:00.jpg">September 19 at 10:35 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-10T11:35:04.806820-07:00.jpg">
-  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-09-10T11:35:04.806820-07:00.jpg"
-     alt="Orange County Register at 2022-09-10 11:35:05-07:00 local time"
+ <a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-18T23:05:32.544355-07:00.jpg">
+  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-09-18T23:05:32.544355-07:00.jpg"
+     alt="Orange County Register at 2022-09-18 23:05:34-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-10T11:35:04.806820-07:00.jpg">September 10 at 11:35 AM</a></p>
+ <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-18T23:05:32.544355-07:00.jpg">September 18 at 11:05 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-10T08:07:24.227995-07:00.jpg">
-  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-09-10T08:07:24.227995-07:00.jpg"
-     alt="Orange County Register at 2022-09-10 08:07:25-07:00 local time"
+ <a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-18T11:34:11.540539-07:00.jpg">
+  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-09-18T11:34:11.540539-07:00.jpg"
+     alt="Orange County Register at 2022-09-18 11:34:12-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-10T08:07:24.227995-07:00.jpg">September 10 at 8:07 AM</a></p>
+ <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-18T11:34:11.540539-07:00.jpg">September 18 at 11:34 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-09T20:56:32.100690-07:00.jpg">
-  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-09-09T20:56:32.100690-07:00.jpg"
-     alt="Orange County Register at 2022-09-09 20:56:33-07:00 local time"
+ <a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-18T10:28:42.725574-07:00.jpg">
+  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-09-18T10:28:42.725574-07:00.jpg"
+     alt="Orange County Register at 2022-09-18 10:28:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-09T20:56:32.100690-07:00.jpg">September 9 at 8:56 PM</a></p>
+ <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-18T10:28:42.725574-07:00.jpg">September 18 at 10:28 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-09T11:36:18.685920-07:00.jpg">
-  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-09-09T11:36:18.685920-07:00.jpg"
-     alt="Orange County Register at 2022-09-09 11:36:20-07:00 local time"
+ <a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-17T22:25:13.048883-07:00.jpg">
+  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-09-17T22:25:13.048883-07:00.jpg"
+     alt="Orange County Register at 2022-09-17 22:25:15-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-09T11:36:18.685920-07:00.jpg">September 9 at 11:36 AM</a></p>
+ <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-17T22:25:13.048883-07:00.jpg">September 17 at 10:25 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-09T09:29:02.674819-07:00.jpg">
-  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-09-09T09:29:02.674819-07:00.jpg"
-     alt="Orange County Register at 2022-09-09 09:29:48-07:00 local time"
+ <a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-17T11:32:38.413672-07:00.jpg">
+  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-09-17T11:32:38.413672-07:00.jpg"
+     alt="Orange County Register at 2022-09-17 11:32:50-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-09T09:29:02.674819-07:00.jpg">September 9 at 9:29 AM</a></p>
+ <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-17T11:32:38.413672-07:00.jpg">September 17 at 11:32 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-08T21:53:22.466668-07:00.jpg">
-  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-09-08T21:53:22.466668-07:00.jpg"
-     alt="Orange County Register at 2022-09-08 21:53:24-07:00 local time"
+ <a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-17T09:01:12.426397-07:00.jpg">
+  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-09-17T09:01:12.426397-07:00.jpg"
+     alt="Orange County Register at 2022-09-17 09:01:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-08T21:53:22.466668-07:00.jpg">September 8 at 9:53 PM</a></p>
+ <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-17T09:01:12.426397-07:00.jpg">September 17 at 9:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-08T08:35:55.292791-07:00.jpg">
-  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-09-08T08:35:55.292791-07:00.jpg"
-     alt="Orange County Register at 2022-09-08 08:35:58-07:00 local time"
+ <a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-16T21:35:21.665609-07:00.jpg">
+  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-09-16T21:35:21.665609-07:00.jpg"
+     alt="Orange County Register at 2022-09-16 21:35:24-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-08T08:35:55.292791-07:00.jpg">September 8 at 8:35 AM</a></p>
+ <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-16T21:35:21.665609-07:00.jpg">September 16 at 9:35 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-07T20:54:53.709891-07:00.jpg">
-  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-09-07T20:54:53.709891-07:00.jpg"
-     alt="Orange County Register at 2022-09-07 20:55:07-07:00 local time"
+ <a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-16T11:35:44.824059-07:00.jpg">
+  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-09-16T11:35:44.824059-07:00.jpg"
+     alt="Orange County Register at 2022-09-16 11:35:46-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-07T20:54:53.709891-07:00.jpg">September 7 at 8:55 PM</a></p>
+ <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-16T11:35:44.824059-07:00.jpg">September 16 at 11:35 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-07T08:50:32.407704-07:00.jpg">
-  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-09-07T08:50:32.407704-07:00.jpg"
-     alt="Orange County Register at 2022-09-07 08:50:34-07:00 local time"
+ <a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-16T09:05:44.390577-07:00.jpg">
+  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-09-16T09:05:44.390577-07:00.jpg"
+     alt="Orange County Register at 2022-09-16 09:05:47-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-07T08:50:32.407704-07:00.jpg">September 7 at 8:50 AM</a></p>
+ <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-16T09:05:44.390577-07:00.jpg">September 16 at 9:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-06T20:59:52.462083-07:00.jpg">
-  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-09-06T20:59:52.462083-07:00.jpg"
-     alt="Orange County Register at 2022-09-06 21:00:06-07:00 local time"
+ <a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-15T22:28:45.201466-07:00.jpg">
+  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-09-15T22:28:45.201466-07:00.jpg"
+     alt="Orange County Register at 2022-09-15 22:29:13-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-06T20:59:52.462083-07:00.jpg">September 6 at 9:00 PM</a></p>
+ <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-09-15T22:28:45.201466-07:00.jpg">September 15 at 10:29 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 402 hyperlink lists with the Internet Archive.
+The archiving routine has saved 427 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 8:10 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-11T08:10:38.834222-07:00.hyperlinks.json) |
-| [September 10 at 8:55 PM](https://archive.org/download/ocregister-2022/ocregister-2022-09-10T20:55:41.248960-07:00.hyperlinks.json) |
-| [September 10 at 11:35 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-10T11:35:04.806820-07:00.hyperlinks.json) |
-| [September 10 at 8:07 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-10T08:07:24.227995-07:00.hyperlinks.json) |
-| [September 9 at 8:56 PM](https://archive.org/download/ocregister-2022/ocregister-2022-09-09T20:56:32.100690-07:00.hyperlinks.json) |
-| [September 9 at 11:36 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-09T11:36:18.685920-07:00.hyperlinks.json) |
-| [September 9 at 9:29 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-09T09:29:02.674819-07:00.hyperlinks.json) |
-| [September 8 at 9:53 PM](https://archive.org/download/ocregister-2022/ocregister-2022-09-08T21:53:22.466668-07:00.hyperlinks.json) |
-| [September 8 at 8:36 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-08T08:35:55.292791-07:00.hyperlinks.json) |
-| [September 7 at 8:55 PM](https://archive.org/download/ocregister-2022/ocregister-2022-09-07T20:54:53.709891-07:00.hyperlinks.json) |
+| [September 19 at 11:39 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-19T11:39:38.444197-07:00.hyperlinks.json) |
+| [September 19 at 10:35 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-19T10:34:50.085135-07:00.hyperlinks.json) |
+| [September 18 at 11:05 PM](https://archive.org/download/ocregister-2022/ocregister-2022-09-18T23:05:32.544355-07:00.hyperlinks.json) |
+| [September 18 at 11:34 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-18T11:34:11.540539-07:00.hyperlinks.json) |
+| [September 18 at 10:28 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-18T10:28:42.725574-07:00.hyperlinks.json) |
+| [September 17 at 10:25 PM](https://archive.org/download/ocregister-2022/ocregister-2022-09-17T22:25:13.048883-07:00.hyperlinks.json) |
+| [September 17 at 11:32 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-17T11:32:38.413672-07:00.hyperlinks.json) |
+| [September 17 at 9:01 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-17T09:01:12.426397-07:00.hyperlinks.json) |
+| [September 16 at 9:35 PM](https://archive.org/download/ocregister-2022/ocregister-2022-09-16T21:35:21.665609-07:00.hyperlinks.json) |
+| [September 16 at 11:35 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-16T11:35:44.824059-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 406 accessibility trees with the Internet Archive.
+The archiving routine has saved 431 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 8:10 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-11T08:10:38.834222-07:00.accessibility.json) |
-| [September 10 at 8:55 PM](https://archive.org/download/ocregister-2022/ocregister-2022-09-10T20:55:41.248960-07:00.accessibility.json) |
-| [September 10 at 11:35 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-10T11:35:04.806820-07:00.accessibility.json) |
-| [September 10 at 8:07 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-10T08:07:24.227995-07:00.accessibility.json) |
-| [September 9 at 8:56 PM](https://archive.org/download/ocregister-2022/ocregister-2022-09-09T20:56:32.100690-07:00.accessibility.json) |
-| [September 9 at 11:36 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-09T11:36:18.685920-07:00.accessibility.json) |
-| [September 9 at 9:29 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-09T09:29:02.674819-07:00.accessibility.json) |
-| [September 8 at 9:53 PM](https://archive.org/download/ocregister-2022/ocregister-2022-09-08T21:53:22.466668-07:00.accessibility.json) |
-| [September 8 at 8:36 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-08T08:35:55.292791-07:00.accessibility.json) |
-| [September 7 at 8:55 PM](https://archive.org/download/ocregister-2022/ocregister-2022-09-07T20:54:53.709891-07:00.accessibility.json) |
+| [September 19 at 11:39 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-19T11:39:38.444197-07:00.accessibility.json) |
+| [September 19 at 10:35 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-19T10:34:50.085135-07:00.accessibility.json) |
+| [September 18 at 11:05 PM](https://archive.org/download/ocregister-2022/ocregister-2022-09-18T23:05:32.544355-07:00.accessibility.json) |
+| [September 18 at 11:34 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-18T11:34:11.540539-07:00.accessibility.json) |
+| [September 18 at 10:28 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-18T10:28:42.725574-07:00.accessibility.json) |
+| [September 17 at 10:25 PM](https://archive.org/download/ocregister-2022/ocregister-2022-09-17T22:25:13.048883-07:00.accessibility.json) |
+| [September 17 at 11:32 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-17T11:32:38.413672-07:00.accessibility.json) |
+| [September 17 at 9:01 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-17T09:01:12.426397-07:00.accessibility.json) |
+| [September 16 at 9:35 PM](https://archive.org/download/ocregister-2022/ocregister-2022-09-16T21:35:21.665609-07:00.accessibility.json) |
+| [September 16 at 11:35 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-16T11:35:44.824059-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 142 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 167 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 8:10 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-11T08:10:38.834222-07:00.lighthouse.json) |
-| [September 10 at 8:55 PM](https://archive.org/download/ocregister-2022/ocregister-2022-09-10T20:55:41.248960-07:00.lighthouse.json) |
-| [September 10 at 11:35 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-10T11:35:04.806820-07:00.lighthouse.json) |
-| [September 10 at 8:07 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-10T08:07:24.227995-07:00.lighthouse.json) |
-| [September 9 at 8:56 PM](https://archive.org/download/ocregister-2022/ocregister-2022-09-09T20:56:32.100690-07:00.lighthouse.json) |
-| [September 9 at 11:36 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-09T11:36:18.685920-07:00.lighthouse.json) |
-| [September 9 at 9:29 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-09T09:29:02.674819-07:00.lighthouse.json) |
-| [September 8 at 9:53 PM](https://archive.org/download/ocregister-2022/ocregister-2022-09-08T21:53:22.466668-07:00.lighthouse.json) |
-| [September 8 at 8:36 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-08T08:35:55.292791-07:00.lighthouse.json) |
-| [September 7 at 8:55 PM](https://archive.org/download/ocregister-2022/ocregister-2022-09-07T20:54:53.709891-07:00.lighthouse.json) |
+| [September 19 at 11:39 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-19T11:39:38.444197-07:00.lighthouse.json) |
+| [September 19 at 10:35 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-19T10:34:50.085135-07:00.lighthouse.json) |
+| [September 18 at 11:05 PM](https://archive.org/download/ocregister-2022/ocregister-2022-09-18T23:05:32.544355-07:00.lighthouse.json) |
+| [September 18 at 11:34 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-18T11:34:11.540539-07:00.lighthouse.json) |
+| [September 18 at 10:29 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-18T10:28:42.725574-07:00.lighthouse.json) |
+| [September 17 at 10:25 PM](https://archive.org/download/ocregister-2022/ocregister-2022-09-17T22:25:13.048883-07:00.lighthouse.json) |
+| [September 17 at 11:32 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-17T11:32:38.413672-07:00.lighthouse.json) |
+| [September 17 at 9:01 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-17T09:01:12.426397-07:00.lighthouse.json) |
+| [September 16 at 9:35 PM](https://archive.org/download/ocregister-2022/ocregister-2022-09-16T21:35:21.665609-07:00.lighthouse.json) |
+| [September 16 at 11:35 AM](https://archive.org/download/ocregister-2022/ocregister-2022-09-16T11:35:44.824059-07:00.lighthouse.json) |
 
 
 

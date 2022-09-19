@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 62 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-11T06:06:29.617627-07:00.jpg">
-  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-11T06:06:29.617627-07:00.jpg"
-     alt="Mendoncino Voice at 2022-09-11 06:06:37-07:00 local time"
+ <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-19T07:06:18.179849-07:00.jpg">
+  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-19T07:06:18.179849-07:00.jpg"
+     alt="Mendoncino Voice at 2022-09-19 07:06:19-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-11T06:06:29.617627-07:00.jpg">September 11 at 6:06 AM</a></p>
+ <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-19T07:06:18.179849-07:00.jpg">September 19 at 7:06 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-10T18:24:52.100557-07:00.jpg">
-  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-10T18:24:52.100557-07:00.jpg"
-     alt="Mendoncino Voice at 2022-09-10 18:24:57-07:00 local time"
+ <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-18T19:20:18.246496-07:00.jpg">
+  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-18T19:20:18.246496-07:00.jpg"
+     alt="Mendoncino Voice at 2022-09-18 19:20:20-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-10T18:24:52.100557-07:00.jpg">September 10 at 6:24 PM</a></p>
+ <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-18T19:20:18.246496-07:00.jpg">September 18 at 7:20 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-10T06:09:07.129994-07:00.jpg">
-  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-10T06:09:07.129994-07:00.jpg"
-     alt="Mendoncino Voice at 2022-09-10 06:09:10-07:00 local time"
+ <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-18T07:01:28.358643-07:00.jpg">
+  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-18T07:01:28.358643-07:00.jpg"
+     alt="Mendoncino Voice at 2022-09-18 07:01:32-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-10T06:09:07.129994-07:00.jpg">September 10 at 6:09 AM</a></p>
+ <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-18T07:01:28.358643-07:00.jpg">September 18 at 7:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-09T18:27:40.038015-07:00.jpg">
-  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-09T18:27:40.038015-07:00.jpg"
-     alt="Mendoncino Voice at 2022-09-09 18:27:41-07:00 local time"
+ <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-17T19:26:28.650128-07:00.jpg">
+  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-17T19:26:28.650128-07:00.jpg"
+     alt="Mendoncino Voice at 2022-09-17 19:26:30-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-09T18:27:40.038015-07:00.jpg">September 9 at 6:27 PM</a></p>
+ <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-17T19:26:28.650128-07:00.jpg">September 17 at 7:26 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-09T06:26:30.263762-07:00.jpg">
-  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-09T06:26:30.263762-07:00.jpg"
-     alt="Mendoncino Voice at 2022-09-09 06:26:32-07:00 local time"
+ <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-17T06:59:24.851865-07:00.jpg">
+  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-17T06:59:24.851865-07:00.jpg"
+     alt="Mendoncino Voice at 2022-09-17 06:59:26-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-09T06:26:30.263762-07:00.jpg">September 9 at 6:26 AM</a></p>
+ <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-17T06:59:24.851865-07:00.jpg">September 17 at 6:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-08T18:28:42.504529-07:00.jpg">
-  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-08T18:28:42.504529-07:00.jpg"
-     alt="Mendoncino Voice at 2022-09-08 18:28:45-07:00 local time"
+ <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-16T19:24:30.211128-07:00.jpg">
+  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-16T19:24:30.211128-07:00.jpg"
+     alt="Mendoncino Voice at 2022-09-16 19:24:31-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-08T18:28:42.504529-07:00.jpg">September 8 at 6:28 PM</a></p>
+ <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-16T19:24:30.211128-07:00.jpg">September 16 at 7:24 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-08T06:18:13.953614-07:00.jpg">
-  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-08T06:18:13.953614-07:00.jpg"
-     alt="Mendoncino Voice at 2022-09-08 06:18:16-07:00 local time"
+ <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-16T07:05:47.620336-07:00.jpg">
+  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-16T07:05:47.620336-07:00.jpg"
+     alt="Mendoncino Voice at 2022-09-16 07:05:51-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-08T06:18:13.953614-07:00.jpg">September 8 at 6:18 AM</a></p>
+ <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-16T07:05:47.620336-07:00.jpg">September 16 at 7:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-07T18:26:59.477459-07:00.jpg">
-  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-07T18:26:59.477459-07:00.jpg"
-     alt="Mendoncino Voice at 2022-09-07 18:27:03-07:00 local time"
+ <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-15T19:25:19.283137-07:00.jpg">
+  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-15T19:25:19.283137-07:00.jpg"
+     alt="Mendoncino Voice at 2022-09-15 19:25:24-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-07T18:26:59.477459-07:00.jpg">September 7 at 6:27 PM</a></p>
+ <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-15T19:25:19.283137-07:00.jpg">September 15 at 7:25 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-07T06:50:09.112441-07:00.jpg">
-  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-07T06:50:09.112441-07:00.jpg"
-     alt="Mendoncino Voice at 2022-09-07 06:50:12-07:00 local time"
+ <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-15T07:12:36.066900-07:00.jpg">
+  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-15T07:12:36.066900-07:00.jpg"
+     alt="Mendoncino Voice at 2022-09-15 07:12:38-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-07T06:50:09.112441-07:00.jpg">September 7 at 6:50 AM</a></p>
+ <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-15T07:12:36.066900-07:00.jpg">September 15 at 7:12 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-06T18:23:39.770403-07:00.jpg">
-  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-06T18:23:39.770403-07:00.jpg"
-     alt="Mendoncino Voice at 2022-09-06 18:23:43-07:00 local time"
+ <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-14T19:28:21.312368-07:00.jpg">
+  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-14T19:28:21.312368-07:00.jpg"
+     alt="Mendoncino Voice at 2022-09-14 19:28:24-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-06T18:23:39.770403-07:00.jpg">September 6 at 6:23 PM</a></p>
+ <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-14T19:28:21.312368-07:00.jpg">September 14 at 7:28 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-05T18:27:29.716410-07:00.jpg">
-  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-05T18:27:29.716410-07:00.jpg"
-     alt="Mendoncino Voice at 2022-09-05 18:27:32-07:00 local time"
+ <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-14T07:13:50.340918-07:00.jpg">
+  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-14T07:13:50.340918-07:00.jpg"
+     alt="Mendoncino Voice at 2022-09-14 07:13:51-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-05T18:27:29.716410-07:00.jpg">September 5 at 6:27 PM</a></p>
+ <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-14T07:13:50.340918-07:00.jpg">September 14 at 7:13 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-05T07:12:44.725149-07:00.jpg">
-  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-05T07:12:44.725149-07:00.jpg"
-     alt="Mendoncino Voice at 2022-09-05 07:12:46-07:00 local time"
+ <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-13T19:25:37.618923-07:00.jpg">
+  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-13T19:25:37.618923-07:00.jpg"
+     alt="Mendoncino Voice at 2022-09-13 19:25:40-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-05T07:12:44.725149-07:00.jpg">September 5 at 7:12 AM</a></p>
+ <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-09-13T19:25:37.618923-07:00.jpg">September 13 at 7:25 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 46 hyperlink lists with the Internet Archive.
+The archiving routine has saved 62 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 6:06 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-11T06:06:29.617627-07:00.hyperlinks.json) |
-| [September 10 at 6:25 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-10T18:24:52.100557-07:00.hyperlinks.json) |
-| [September 10 at 6:09 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-10T06:09:07.129994-07:00.hyperlinks.json) |
-| [September 9 at 6:27 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-09T18:27:40.038015-07:00.hyperlinks.json) |
-| [September 9 at 6:26 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-09T06:26:30.263762-07:00.hyperlinks.json) |
-| [September 8 at 6:28 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-08T18:28:42.504529-07:00.hyperlinks.json) |
-| [September 8 at 6:18 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-08T06:18:13.953614-07:00.hyperlinks.json) |
-| [September 7 at 6:27 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-07T18:26:59.477459-07:00.hyperlinks.json) |
-| [September 7 at 6:50 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-07T06:50:09.112441-07:00.hyperlinks.json) |
-| [September 6 at 6:23 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-06T18:23:39.770403-07:00.hyperlinks.json) |
+| [September 19 at 7:06 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-19T07:06:18.179849-07:00.hyperlinks.json) |
+| [September 18 at 7:20 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-18T19:20:18.246496-07:00.hyperlinks.json) |
+| [September 18 at 7:01 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-18T07:01:28.358643-07:00.hyperlinks.json) |
+| [September 17 at 7:26 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-17T19:26:28.650128-07:00.hyperlinks.json) |
+| [September 17 at 6:59 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-17T06:59:24.851865-07:00.hyperlinks.json) |
+| [September 16 at 7:24 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-16T19:24:30.211128-07:00.hyperlinks.json) |
+| [September 16 at 7:05 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-16T07:05:47.620336-07:00.hyperlinks.json) |
+| [September 15 at 7:25 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-15T19:25:19.283137-07:00.hyperlinks.json) |
+| [September 15 at 7:12 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-15T07:12:36.066900-07:00.hyperlinks.json) |
+| [September 14 at 7:28 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-14T19:28:21.312368-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 46 accessibility trees with the Internet Archive.
+The archiving routine has saved 62 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 6:06 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-11T06:06:29.617627-07:00.accessibility.json) |
-| [September 10 at 6:24 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-10T18:24:52.100557-07:00.accessibility.json) |
-| [September 10 at 6:09 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-10T06:09:07.129994-07:00.accessibility.json) |
-| [September 9 at 6:27 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-09T18:27:40.038015-07:00.accessibility.json) |
-| [September 9 at 6:26 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-09T06:26:30.263762-07:00.accessibility.json) |
-| [September 8 at 6:28 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-08T18:28:42.504529-07:00.accessibility.json) |
-| [September 8 at 6:18 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-08T06:18:13.953614-07:00.accessibility.json) |
-| [September 7 at 6:27 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-07T18:26:59.477459-07:00.accessibility.json) |
-| [September 7 at 6:50 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-07T06:50:09.112441-07:00.accessibility.json) |
-| [September 6 at 6:23 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-06T18:23:39.770403-07:00.accessibility.json) |
+| [September 19 at 7:06 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-19T07:06:18.179849-07:00.accessibility.json) |
+| [September 18 at 7:20 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-18T19:20:18.246496-07:00.accessibility.json) |
+| [September 18 at 7:01 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-18T07:01:28.358643-07:00.accessibility.json) |
+| [September 17 at 7:26 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-17T19:26:28.650128-07:00.accessibility.json) |
+| [September 17 at 6:59 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-17T06:59:24.851865-07:00.accessibility.json) |
+| [September 16 at 7:24 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-16T19:24:30.211128-07:00.accessibility.json) |
+| [September 16 at 7:05 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-16T07:05:47.620336-07:00.accessibility.json) |
+| [September 15 at 7:25 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-15T19:25:19.283137-07:00.accessibility.json) |
+| [September 15 at 7:12 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-15T07:12:36.066900-07:00.accessibility.json) |
+| [September 14 at 7:28 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-14T19:28:21.312368-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 62 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 6:06 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-11T06:06:29.617627-07:00.lighthouse.json) |
-| [September 10 at 6:25 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-10T18:24:52.100557-07:00.lighthouse.json) |
-| [September 10 at 6:09 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-10T06:09:07.129994-07:00.lighthouse.json) |
-| [September 9 at 6:27 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-09T18:27:40.038015-07:00.lighthouse.json) |
-| [September 9 at 6:26 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-09T06:26:30.263762-07:00.lighthouse.json) |
-| [September 8 at 6:28 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-08T18:28:42.504529-07:00.lighthouse.json) |
-| [September 8 at 6:18 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-08T06:18:13.953614-07:00.lighthouse.json) |
-| [September 7 at 6:27 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-07T18:26:59.477459-07:00.lighthouse.json) |
-| [September 7 at 6:50 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-07T06:50:09.112441-07:00.lighthouse.json) |
-| [September 6 at 6:23 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-06T18:23:39.770403-07:00.lighthouse.json) |
+| [September 19 at 7:06 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-19T07:06:18.179849-07:00.lighthouse.json) |
+| [September 18 at 7:20 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-18T19:20:18.246496-07:00.lighthouse.json) |
+| [September 18 at 7:01 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-18T07:01:28.358643-07:00.lighthouse.json) |
+| [September 17 at 7:26 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-17T19:26:28.650128-07:00.lighthouse.json) |
+| [September 17 at 6:59 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-17T06:59:24.851865-07:00.lighthouse.json) |
+| [September 16 at 7:24 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-16T19:24:30.211128-07:00.lighthouse.json) |
+| [September 16 at 7:05 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-16T07:05:47.620336-07:00.lighthouse.json) |
+| [September 15 at 7:25 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-15T19:25:19.283137-07:00.lighthouse.json) |
+| [September 15 at 7:12 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-15T07:12:36.066900-07:00.lighthouse.json) |
+| [September 14 at 7:28 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-09-14T19:28:21.312368-07:00.lighthouse.json) |
 
 
 

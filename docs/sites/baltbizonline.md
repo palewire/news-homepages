@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 122 screenshots with the Internet Archive.
+The archiving routine has saved 138 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-11T06:54:11.608748-04:00.jpg">
-  <img src="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-11T06:54:11.608748-04:00.jpg"
-     alt="Baltimore Business Journal at 2022-09-11 06:54:18-04:00 local time"
+ <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-19T06:49:37.464020-04:00.jpg">
+  <img src="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-19T06:49:37.464020-04:00.jpg"
+     alt="Baltimore Business Journal at 2022-09-19 06:49:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-11T06:54:11.608748-04:00.jpg">September 11 at 6:54 AM</a></p>
+ <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-19T06:49:37.464020-04:00.jpg">September 19 at 6:49 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-10T19:05:54.548582-04:00.jpg">
-  <img src="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-10T19:05:54.548582-04:00.jpg"
-     alt="Baltimore Business Journal at 2022-09-10 19:06:02-04:00 local time"
+ <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-18T18:49:40.987227-04:00.jpg">
+  <img src="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-18T18:49:40.987227-04:00.jpg"
+     alt="Baltimore Business Journal at 2022-09-18 18:49:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-10T19:05:54.548582-04:00.jpg">September 10 at 7:06 PM</a></p>
+ <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-18T18:49:40.987227-04:00.jpg">September 18 at 6:49 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-10T06:54:04.349221-04:00.jpg">
-  <img src="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-10T06:54:04.349221-04:00.jpg"
-     alt="Baltimore Business Journal at 2022-09-10 06:54:05-04:00 local time"
+ <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-18T06:51:11.282760-04:00.jpg">
+  <img src="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-18T06:51:11.282760-04:00.jpg"
+     alt="Baltimore Business Journal at 2022-09-18 06:51:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-10T06:54:04.349221-04:00.jpg">September 10 at 6:54 AM</a></p>
+ <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-18T06:51:11.282760-04:00.jpg">September 18 at 6:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-09T19:03:53.176434-04:00.jpg">
-  <img src="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-09T19:03:53.176434-04:00.jpg"
-     alt="Baltimore Business Journal at 2022-09-09 19:03:58-04:00 local time"
+ <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-17T18:54:35.840951-04:00.jpg">
+  <img src="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-17T18:54:35.840951-04:00.jpg"
+     alt="Baltimore Business Journal at 2022-09-17 18:54:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-09T19:03:53.176434-04:00.jpg">September 9 at 7:03 PM</a></p>
+ <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-17T18:54:35.840951-04:00.jpg">September 17 at 6:54 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-09T07:04:01.775748-04:00.jpg">
-  <img src="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-09T07:04:01.775748-04:00.jpg"
-     alt="Baltimore Business Journal at 2022-09-09 07:04:04-04:00 local time"
+ <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-17T06:50:27.993639-04:00.jpg">
+  <img src="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-17T06:50:27.993639-04:00.jpg"
+     alt="Baltimore Business Journal at 2022-09-17 06:50:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-09T07:04:01.775748-04:00.jpg">September 9 at 7:04 AM</a></p>
+ <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-17T06:50:27.993639-04:00.jpg">September 17 at 6:50 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-08T19:57:03.021508-04:00.jpg">
-  <img src="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-08T19:57:03.021508-04:00.jpg"
-     alt="Baltimore Business Journal at 2022-09-08 19:57:09-04:00 local time"
+ <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-16T18:52:27.807542-04:00.jpg">
+  <img src="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-16T18:52:27.807542-04:00.jpg"
+     alt="Baltimore Business Journal at 2022-09-16 18:52:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-08T19:57:03.021508-04:00.jpg">September 8 at 7:57 PM</a></p>
+ <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-16T18:52:27.807542-04:00.jpg">September 16 at 6:52 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-08T07:01:49.906876-04:00.jpg">
-  <img src="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-08T07:01:49.906876-04:00.jpg"
-     alt="Baltimore Business Journal at 2022-09-08 07:01:52-04:00 local time"
+ <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-16T06:52:42.297437-04:00.jpg">
+  <img src="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-16T06:52:42.297437-04:00.jpg"
+     alt="Baltimore Business Journal at 2022-09-16 06:53:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-08T07:01:49.906876-04:00.jpg">September 8 at 7:01 AM</a></p>
+ <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-16T06:52:42.297437-04:00.jpg">September 16 at 6:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-07T18:59:50.031334-04:00.jpg">
-  <img src="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-07T18:59:50.031334-04:00.jpg"
-     alt="Baltimore Business Journal at 2022-09-07 18:59:54-04:00 local time"
+ <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-15T18:55:01.633784-04:00.jpg">
+  <img src="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-15T18:55:01.633784-04:00.jpg"
+     alt="Baltimore Business Journal at 2022-09-15 18:55:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-07T18:59:50.031334-04:00.jpg">September 7 at 6:59 PM</a></p>
+ <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-15T18:55:01.633784-04:00.jpg">September 15 at 6:55 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-07T08:10:56.486968-04:00.jpg">
-  <img src="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-07T08:10:56.486968-04:00.jpg"
-     alt="Baltimore Business Journal at 2022-09-07 08:11:14-04:00 local time"
+ <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-15T06:54:46.107043-04:00.jpg">
+  <img src="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-15T06:54:46.107043-04:00.jpg"
+     alt="Baltimore Business Journal at 2022-09-15 06:54:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-07T08:10:56.486968-04:00.jpg">September 7 at 8:11 AM</a></p>
+ <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-15T06:54:46.107043-04:00.jpg">September 15 at 6:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-06T19:06:46.187532-04:00.jpg">
-  <img src="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-06T19:06:46.187532-04:00.jpg"
-     alt="Baltimore Business Journal at 2022-09-06 19:07:04-04:00 local time"
+ <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-14T19:01:55.637523-04:00.jpg">
+  <img src="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-14T19:01:55.637523-04:00.jpg"
+     alt="Baltimore Business Journal at 2022-09-14 19:02:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-06T19:06:46.187532-04:00.jpg">September 6 at 7:07 PM</a></p>
+ <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-14T19:01:55.637523-04:00.jpg">September 14 at 7:02 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-06T06:54:48.255094-04:00.jpg">
-  <img src="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-06T06:54:48.255094-04:00.jpg"
-     alt="Baltimore Business Journal at 2022-09-06 06:54:50-04:00 local time"
+ <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-14T06:54:18.541284-04:00.jpg">
+  <img src="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-14T06:54:18.541284-04:00.jpg"
+     alt="Baltimore Business Journal at 2022-09-14 06:54:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-06T06:54:48.255094-04:00.jpg">September 6 at 6:54 AM</a></p>
+ <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-14T06:54:18.541284-04:00.jpg">September 14 at 6:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-05T19:00:28.298112-04:00.jpg">
-  <img src="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-05T19:00:28.298112-04:00.jpg"
-     alt="Baltimore Business Journal at 2022-09-05 19:00:33-04:00 local time"
+ <a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-13T18:58:56.511894-04:00.jpg">
+  <img src="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-13T18:58:56.511894-04:00.jpg"
+     alt="Baltimore Business Journal at 2022-09-13 18:59:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-05T19:00:28.298112-04:00.jpg">September 5 at 7:00 PM</a></p>
+ <p><a href="https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-13T18:58:56.511894-04:00.jpg">September 13 at 6:59 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 122 hyperlink lists with the Internet Archive.
+The archiving routine has saved 138 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 6:54 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-11T06:54:11.608748-04:00.hyperlinks.json) |
-| [September 10 at 7:06 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-10T19:05:54.548582-04:00.hyperlinks.json) |
-| [September 10 at 6:54 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-10T06:54:04.349221-04:00.hyperlinks.json) |
-| [September 9 at 7:04 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-09T19:03:53.176434-04:00.hyperlinks.json) |
-| [September 9 at 7:04 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-09T07:04:01.775748-04:00.hyperlinks.json) |
-| [September 8 at 7:57 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-08T19:57:03.021508-04:00.hyperlinks.json) |
-| [September 8 at 7:01 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-08T07:01:49.906876-04:00.hyperlinks.json) |
-| [September 7 at 6:59 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-07T18:59:50.031334-04:00.hyperlinks.json) |
-| [September 7 at 8:11 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-07T08:10:56.486968-04:00.hyperlinks.json) |
-| [September 6 at 7:07 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-06T19:06:46.187532-04:00.hyperlinks.json) |
+| [September 19 at 6:49 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-19T06:49:37.464020-04:00.hyperlinks.json) |
+| [September 18 at 6:49 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-18T18:49:40.987227-04:00.hyperlinks.json) |
+| [September 18 at 6:51 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-18T06:51:11.282760-04:00.hyperlinks.json) |
+| [September 17 at 6:54 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-17T18:54:35.840951-04:00.hyperlinks.json) |
+| [September 17 at 6:50 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-17T06:50:27.993639-04:00.hyperlinks.json) |
+| [September 16 at 6:52 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-16T18:52:27.807542-04:00.hyperlinks.json) |
+| [September 16 at 6:53 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-16T06:52:42.297437-04:00.hyperlinks.json) |
+| [September 15 at 6:55 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-15T18:55:01.633784-04:00.hyperlinks.json) |
+| [September 15 at 6:54 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-15T06:54:46.107043-04:00.hyperlinks.json) |
+| [September 14 at 7:02 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-14T19:01:55.637523-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 124 accessibility trees with the Internet Archive.
+The archiving routine has saved 140 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 6:54 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-11T06:54:11.608748-04:00.accessibility.json) |
-| [September 10 at 7:06 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-10T19:05:54.548582-04:00.accessibility.json) |
-| [September 10 at 6:54 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-10T06:54:04.349221-04:00.accessibility.json) |
-| [September 9 at 7:04 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-09T19:03:53.176434-04:00.accessibility.json) |
-| [September 9 at 7:04 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-09T07:04:01.775748-04:00.accessibility.json) |
-| [September 8 at 7:57 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-08T19:57:03.021508-04:00.accessibility.json) |
-| [September 8 at 7:01 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-08T07:01:49.906876-04:00.accessibility.json) |
-| [September 7 at 6:59 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-07T18:59:50.031334-04:00.accessibility.json) |
-| [September 7 at 8:11 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-07T08:10:56.486968-04:00.accessibility.json) |
-| [September 6 at 7:07 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-06T19:06:46.187532-04:00.accessibility.json) |
+| [September 19 at 6:49 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-19T06:49:37.464020-04:00.accessibility.json) |
+| [September 18 at 6:49 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-18T18:49:40.987227-04:00.accessibility.json) |
+| [September 18 at 6:51 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-18T06:51:11.282760-04:00.accessibility.json) |
+| [September 17 at 6:54 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-17T18:54:35.840951-04:00.accessibility.json) |
+| [September 17 at 6:50 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-17T06:50:27.993639-04:00.accessibility.json) |
+| [September 16 at 6:52 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-16T18:52:27.807542-04:00.accessibility.json) |
+| [September 16 at 6:53 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-16T06:52:42.297437-04:00.accessibility.json) |
+| [September 15 at 6:55 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-15T18:55:01.633784-04:00.accessibility.json) |
+| [September 15 at 6:54 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-15T06:54:46.107043-04:00.accessibility.json) |
+| [September 14 at 7:02 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-14T19:01:55.637523-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 101 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 117 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 6:54 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-11T06:54:11.608748-04:00.lighthouse.json) |
-| [September 10 at 7:06 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-10T19:05:54.548582-04:00.lighthouse.json) |
-| [September 10 at 6:54 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-10T06:54:04.349221-04:00.lighthouse.json) |
-| [September 9 at 7:04 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-09T19:03:53.176434-04:00.lighthouse.json) |
-| [September 9 at 7:04 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-09T07:04:01.775748-04:00.lighthouse.json) |
-| [September 8 at 7:57 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-08T19:57:03.021508-04:00.lighthouse.json) |
-| [September 8 at 7:01 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-08T07:01:49.906876-04:00.lighthouse.json) |
-| [September 7 at 7:00 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-07T18:59:50.031334-04:00.lighthouse.json) |
-| [September 7 at 8:11 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-07T08:10:56.486968-04:00.lighthouse.json) |
-| [September 6 at 7:07 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-06T19:06:46.187532-04:00.lighthouse.json) |
+| [September 19 at 6:49 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-19T06:49:37.464020-04:00.lighthouse.json) |
+| [September 18 at 6:49 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-18T18:49:40.987227-04:00.lighthouse.json) |
+| [September 18 at 6:51 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-18T06:51:11.282760-04:00.lighthouse.json) |
+| [September 17 at 6:54 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-17T18:54:35.840951-04:00.lighthouse.json) |
+| [September 17 at 6:50 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-17T06:50:27.993639-04:00.lighthouse.json) |
+| [September 16 at 6:52 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-16T18:52:27.807542-04:00.lighthouse.json) |
+| [September 16 at 6:53 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-16T06:52:42.297437-04:00.lighthouse.json) |
+| [September 15 at 6:55 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-15T18:55:01.633784-04:00.lighthouse.json) |
+| [September 15 at 6:54 AM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-15T06:54:46.107043-04:00.lighthouse.json) |
+| [September 14 at 7:02 PM](https://archive.org/download/baltbizonline-2022/baltbizonline-2022-09-14T19:01:55.637523-04:00.lighthouse.json) |
 
 
 

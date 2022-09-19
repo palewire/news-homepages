@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 102 screenshots with the Internet Archive.
+The archiving routine has saved 118 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-11T07:06:27.240879-06:00.jpg">
-  <img src="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-11T07:06:27.240879-06:00.jpg"
-     alt="Daily Climate at 2022-09-11 07:06:37-06:00 local time"
+ <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-19T08:06:58.959733-06:00.jpg">
+  <img src="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-19T08:06:58.959733-06:00.jpg"
+     alt="Daily Climate at 2022-09-19 08:07:00-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-11T07:06:27.240879-06:00.jpg">September 11 at 7:06 AM</a></p>
+ <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-19T08:06:58.959733-06:00.jpg">September 19 at 8:07 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-10T19:24:31.997332-06:00.jpg">
-  <img src="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-10T19:24:31.997332-06:00.jpg"
-     alt="Daily Climate at 2022-09-10 19:24:36-06:00 local time"
+ <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-18T20:20:14.375422-06:00.jpg">
+  <img src="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-18T20:20:14.375422-06:00.jpg"
+     alt="Daily Climate at 2022-09-18 20:20:16-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-10T19:24:31.997332-06:00.jpg">September 10 at 7:24 PM</a></p>
+ <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-18T20:20:14.375422-06:00.jpg">September 18 at 8:20 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-10T07:10:13.787802-06:00.jpg">
-  <img src="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-10T07:10:13.787802-06:00.jpg"
-     alt="Daily Climate at 2022-09-10 07:10:19-06:00 local time"
+ <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-18T08:01:11.729083-06:00.jpg">
+  <img src="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-18T08:01:11.729083-06:00.jpg"
+     alt="Daily Climate at 2022-09-18 08:01:13-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-10T07:10:13.787802-06:00.jpg">September 10 at 7:10 AM</a></p>
+ <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-18T08:01:11.729083-06:00.jpg">September 18 at 8:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-09T19:27:40.749403-06:00.jpg">
-  <img src="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-09T19:27:40.749403-06:00.jpg"
-     alt="Daily Climate at 2022-09-09 19:27:45-06:00 local time"
+ <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-17T20:26:47.891896-06:00.jpg">
+  <img src="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-17T20:26:47.891896-06:00.jpg"
+     alt="Daily Climate at 2022-09-17 20:26:48-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-09T19:27:40.749403-06:00.jpg">September 9 at 7:27 PM</a></p>
+ <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-17T20:26:47.891896-06:00.jpg">September 17 at 8:26 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-09T07:25:01.535020-06:00.jpg">
-  <img src="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-09T07:25:01.535020-06:00.jpg"
-     alt="Daily Climate at 2022-09-09 07:25:05-06:00 local time"
+ <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-17T07:59:16.702164-06:00.jpg">
+  <img src="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-17T07:59:16.702164-06:00.jpg"
+     alt="Daily Climate at 2022-09-17 07:59:18-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-09T07:25:01.535020-06:00.jpg">September 9 at 7:25 AM</a></p>
+ <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-17T07:59:16.702164-06:00.jpg">September 17 at 7:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-08T19:28:27.888923-06:00.jpg">
-  <img src="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-08T19:28:27.888923-06:00.jpg"
-     alt="Daily Climate at 2022-09-08 19:28:32-06:00 local time"
+ <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-16T20:25:34.098616-06:00.jpg">
+  <img src="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-16T20:25:34.098616-06:00.jpg"
+     alt="Daily Climate at 2022-09-16 20:25:35-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-08T19:28:27.888923-06:00.jpg">September 8 at 7:28 PM</a></p>
+ <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-16T20:25:34.098616-06:00.jpg">September 16 at 8:25 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-08T07:18:15.207615-06:00.jpg">
-  <img src="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-08T07:18:15.207615-06:00.jpg"
-     alt="Daily Climate at 2022-09-08 07:18:21-06:00 local time"
+ <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-16T08:05:51.344606-06:00.jpg">
+  <img src="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-16T08:05:51.344606-06:00.jpg"
+     alt="Daily Climate at 2022-09-16 08:05:53-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-08T07:18:15.207615-06:00.jpg">September 8 at 7:18 AM</a></p>
+ <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-16T08:05:51.344606-06:00.jpg">September 16 at 8:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-07T19:26:48.524769-06:00.jpg">
-  <img src="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-07T19:26:48.524769-06:00.jpg"
-     alt="Daily Climate at 2022-09-07 19:26:52-06:00 local time"
+ <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-15T20:25:16.875106-06:00.jpg">
+  <img src="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-15T20:25:16.875106-06:00.jpg"
+     alt="Daily Climate at 2022-09-15 20:25:22-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-07T19:26:48.524769-06:00.jpg">September 7 at 7:26 PM</a></p>
+ <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-15T20:25:16.875106-06:00.jpg">September 15 at 8:25 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-07T07:50:45.559107-06:00.jpg">
-  <img src="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-07T07:50:45.559107-06:00.jpg"
-     alt="Daily Climate at 2022-09-07 07:50:49-06:00 local time"
+ <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-15T08:12:11.745629-06:00.jpg">
+  <img src="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-15T08:12:11.745629-06:00.jpg"
+     alt="Daily Climate at 2022-09-15 08:12:16-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-07T07:50:45.559107-06:00.jpg">September 7 at 7:50 AM</a></p>
+ <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-15T08:12:11.745629-06:00.jpg">September 15 at 8:12 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-06T19:23:41.058973-06:00.jpg">
-  <img src="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-06T19:23:41.058973-06:00.jpg"
-     alt="Daily Climate at 2022-09-06 19:23:45-06:00 local time"
+ <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-14T20:27:37.336691-06:00.jpg">
+  <img src="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-14T20:27:37.336691-06:00.jpg"
+     alt="Daily Climate at 2022-09-14 20:27:39-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-06T19:23:41.058973-06:00.jpg">September 6 at 7:23 PM</a></p>
+ <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-14T20:27:37.336691-06:00.jpg">September 14 at 8:27 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-05T19:27:37.652150-06:00.jpg">
-  <img src="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-05T19:27:37.652150-06:00.jpg"
-     alt="Daily Climate at 2022-09-05 19:27:48-06:00 local time"
+ <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-14T08:13:04.650749-06:00.jpg">
+  <img src="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-14T08:13:04.650749-06:00.jpg"
+     alt="Daily Climate at 2022-09-14 08:13:06-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-05T19:27:37.652150-06:00.jpg">September 5 at 7:27 PM</a></p>
+ <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-14T08:13:04.650749-06:00.jpg">September 14 at 8:13 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-05T08:12:26.066420-06:00.jpg">
-  <img src="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-05T08:12:26.066420-06:00.jpg"
-     alt="Daily Climate at 2022-09-05 08:12:37-06:00 local time"
+ <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-13T20:25:21.223853-06:00.jpg">
+  <img src="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-13T20:25:21.223853-06:00.jpg"
+     alt="Daily Climate at 2022-09-13 20:25:25-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-05T08:12:26.066420-06:00.jpg">September 5 at 8:12 AM</a></p>
+ <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-13T20:25:21.223853-06:00.jpg">September 13 at 8:25 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 103 hyperlink lists with the Internet Archive.
+The archiving routine has saved 119 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 7:06 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-11T07:06:27.240879-06:00.hyperlinks.json) |
-| [September 10 at 7:24 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-10T19:24:31.997332-06:00.hyperlinks.json) |
-| [September 10 at 7:10 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-10T07:10:13.787802-06:00.hyperlinks.json) |
-| [September 9 at 7:27 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-09T19:27:40.749403-06:00.hyperlinks.json) |
-| [September 9 at 7:25 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-09T07:25:01.535020-06:00.hyperlinks.json) |
-| [September 8 at 7:28 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-08T19:28:27.888923-06:00.hyperlinks.json) |
-| [September 8 at 7:18 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-08T07:18:15.207615-06:00.hyperlinks.json) |
-| [September 7 at 7:26 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-07T19:26:48.524769-06:00.hyperlinks.json) |
-| [September 7 at 7:50 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-07T07:50:45.559107-06:00.hyperlinks.json) |
-| [September 6 at 7:23 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-06T19:23:41.058973-06:00.hyperlinks.json) |
+| [September 19 at 8:07 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-19T08:06:58.959733-06:00.hyperlinks.json) |
+| [September 18 at 8:20 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-18T20:20:14.375422-06:00.hyperlinks.json) |
+| [September 18 at 8:01 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-18T08:01:11.729083-06:00.hyperlinks.json) |
+| [September 17 at 8:26 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-17T20:26:47.891896-06:00.hyperlinks.json) |
+| [September 17 at 7:59 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-17T07:59:16.702164-06:00.hyperlinks.json) |
+| [September 16 at 8:25 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-16T20:25:34.098616-06:00.hyperlinks.json) |
+| [September 16 at 8:05 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-16T08:05:51.344606-06:00.hyperlinks.json) |
+| [September 15 at 8:25 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-15T20:25:16.875106-06:00.hyperlinks.json) |
+| [September 15 at 8:12 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-15T08:12:11.745629-06:00.hyperlinks.json) |
+| [September 14 at 8:27 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-14T20:27:37.336691-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 103 accessibility trees with the Internet Archive.
+The archiving routine has saved 119 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 7:06 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-11T07:06:27.240879-06:00.accessibility.json) |
-| [September 10 at 7:24 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-10T19:24:31.997332-06:00.accessibility.json) |
-| [September 10 at 7:10 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-10T07:10:13.787802-06:00.accessibility.json) |
-| [September 9 at 7:27 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-09T19:27:40.749403-06:00.accessibility.json) |
-| [September 9 at 7:25 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-09T07:25:01.535020-06:00.accessibility.json) |
-| [September 8 at 7:28 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-08T19:28:27.888923-06:00.accessibility.json) |
-| [September 8 at 7:18 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-08T07:18:15.207615-06:00.accessibility.json) |
-| [September 7 at 7:26 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-07T19:26:48.524769-06:00.accessibility.json) |
-| [September 7 at 7:50 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-07T07:50:45.559107-06:00.accessibility.json) |
-| [September 6 at 7:23 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-06T19:23:41.058973-06:00.accessibility.json) |
+| [September 19 at 8:07 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-19T08:06:58.959733-06:00.accessibility.json) |
+| [September 18 at 8:20 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-18T20:20:14.375422-06:00.accessibility.json) |
+| [September 18 at 8:01 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-18T08:01:11.729083-06:00.accessibility.json) |
+| [September 17 at 8:26 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-17T20:26:47.891896-06:00.accessibility.json) |
+| [September 17 at 7:59 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-17T07:59:16.702164-06:00.accessibility.json) |
+| [September 16 at 8:25 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-16T20:25:34.098616-06:00.accessibility.json) |
+| [September 16 at 8:05 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-16T08:05:51.344606-06:00.accessibility.json) |
+| [September 15 at 8:25 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-15T20:25:16.875106-06:00.accessibility.json) |
+| [September 15 at 8:12 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-15T08:12:11.745629-06:00.accessibility.json) |
+| [September 14 at 8:27 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-14T20:27:37.336691-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 101 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 117 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 7:06 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-11T07:06:27.240879-06:00.lighthouse.json) |
-| [September 10 at 7:24 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-10T19:24:31.997332-06:00.lighthouse.json) |
-| [September 10 at 7:10 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-10T07:10:13.787802-06:00.lighthouse.json) |
-| [September 9 at 7:27 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-09T19:27:40.749403-06:00.lighthouse.json) |
-| [September 9 at 7:25 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-09T07:25:01.535020-06:00.lighthouse.json) |
-| [September 8 at 7:28 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-08T19:28:27.888923-06:00.lighthouse.json) |
-| [September 8 at 7:18 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-08T07:18:15.207615-06:00.lighthouse.json) |
-| [September 7 at 7:26 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-07T19:26:48.524769-06:00.lighthouse.json) |
-| [September 7 at 7:50 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-07T07:50:45.559107-06:00.lighthouse.json) |
-| [September 6 at 7:23 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-06T19:23:41.058973-06:00.lighthouse.json) |
+| [September 19 at 8:07 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-19T08:06:58.959733-06:00.lighthouse.json) |
+| [September 18 at 8:20 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-18T20:20:14.375422-06:00.lighthouse.json) |
+| [September 18 at 8:01 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-18T08:01:11.729083-06:00.lighthouse.json) |
+| [September 17 at 8:26 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-17T20:26:47.891896-06:00.lighthouse.json) |
+| [September 17 at 7:59 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-17T07:59:16.702164-06:00.lighthouse.json) |
+| [September 16 at 8:25 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-16T20:25:34.098616-06:00.lighthouse.json) |
+| [September 16 at 8:05 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-16T08:05:51.344606-06:00.lighthouse.json) |
+| [September 15 at 8:25 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-15T20:25:16.875106-06:00.lighthouse.json) |
+| [September 15 at 8:12 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-15T08:12:11.745629-06:00.lighthouse.json) |
+| [September 14 at 8:27 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-09-14T20:27:37.336691-06:00.lighthouse.json) |
 
 
 

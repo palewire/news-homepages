@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 95 screenshots with the Internet Archive.
+The archiving routine has saved 111 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/oronline-2022/oronline-2022-09-11T11:10:22.357708-04:00.jpg">
-  <img src="https://archive.org/download/oronline-2022/oronline-2022-09-11T11:10:22.357708-04:00.jpg"
-     alt="Observer-Reporter at 2022-09-11 11:10:27-04:00 local time"
+ <a href="https://archive.org/download/oronline-2022/oronline-2022-09-19T13:35:00.965647-04:00.jpg">
+  <img src="https://archive.org/download/oronline-2022/oronline-2022-09-19T13:35:00.965647-04:00.jpg"
+     alt="Observer-Reporter at 2022-09-19 13:35:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oronline-2022/oronline-2022-09-11T11:10:22.357708-04:00.jpg">September 11 at 11:10 AM</a></p>
+ <p><a href="https://archive.org/download/oronline-2022/oronline-2022-09-19T13:35:00.965647-04:00.jpg">September 19 at 1:35 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/oronline-2022/oronline-2022-09-10T23:56:22.450852-04:00.jpg">
-  <img src="https://archive.org/download/oronline-2022/oronline-2022-09-10T23:56:22.450852-04:00.jpg"
-     alt="Observer-Reporter at 2022-09-10 23:56:33-04:00 local time"
+ <a href="https://archive.org/download/oronline-2022/oronline-2022-09-19T02:05:48.123440-04:00.jpg">
+  <img src="https://archive.org/download/oronline-2022/oronline-2022-09-19T02:05:48.123440-04:00.jpg"
+     alt="Observer-Reporter at 2022-09-19 02:05:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oronline-2022/oronline-2022-09-10T23:56:22.450852-04:00.jpg">September 10 at 11:56 PM</a></p>
+ <p><a href="https://archive.org/download/oronline-2022/oronline-2022-09-19T02:05:48.123440-04:00.jpg">September 19 at 2:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/oronline-2022/oronline-2022-09-10T11:07:49.764845-04:00.jpg">
-  <img src="https://archive.org/download/oronline-2022/oronline-2022-09-10T11:07:49.764845-04:00.jpg"
-     alt="Observer-Reporter at 2022-09-10 11:07:53-04:00 local time"
+ <a href="https://archive.org/download/oronline-2022/oronline-2022-09-18T13:28:13.408417-04:00.jpg">
+  <img src="https://archive.org/download/oronline-2022/oronline-2022-09-18T13:28:13.408417-04:00.jpg"
+     alt="Observer-Reporter at 2022-09-18 13:28:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oronline-2022/oronline-2022-09-10T11:07:49.764845-04:00.jpg">September 10 at 11:07 AM</a></p>
+ <p><a href="https://archive.org/download/oronline-2022/oronline-2022-09-18T13:28:13.408417-04:00.jpg">September 18 at 1:28 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/oronline-2022/oronline-2022-09-09T23:57:00.522871-04:00.jpg">
-  <img src="https://archive.org/download/oronline-2022/oronline-2022-09-09T23:57:00.522871-04:00.jpg"
-     alt="Observer-Reporter at 2022-09-09 23:57:01-04:00 local time"
+ <a href="https://archive.org/download/oronline-2022/oronline-2022-09-18T01:26:39.690188-04:00.jpg">
+  <img src="https://archive.org/download/oronline-2022/oronline-2022-09-18T01:26:39.690188-04:00.jpg"
+     alt="Observer-Reporter at 2022-09-18 01:26:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oronline-2022/oronline-2022-09-09T23:57:00.522871-04:00.jpg">September 9 at 11:57 PM</a></p>
+ <p><a href="https://archive.org/download/oronline-2022/oronline-2022-09-18T01:26:39.690188-04:00.jpg">September 18 at 1:26 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/oronline-2022/oronline-2022-09-09T12:30:53.400507-04:00.jpg">
-  <img src="https://archive.org/download/oronline-2022/oronline-2022-09-09T12:30:53.400507-04:00.jpg"
-     alt="Observer-Reporter at 2022-09-09 12:31:00-04:00 local time"
+ <a href="https://archive.org/download/oronline-2022/oronline-2022-09-17T12:01:13.780930-04:00.jpg">
+  <img src="https://archive.org/download/oronline-2022/oronline-2022-09-17T12:01:13.780930-04:00.jpg"
+     alt="Observer-Reporter at 2022-09-17 12:01:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oronline-2022/oronline-2022-09-09T12:30:53.400507-04:00.jpg">September 9 at 12:31 PM</a></p>
+ <p><a href="https://archive.org/download/oronline-2022/oronline-2022-09-17T12:01:13.780930-04:00.jpg">September 17 at 12:01 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/oronline-2022/oronline-2022-09-09T00:53:16.134415-04:00.jpg">
-  <img src="https://archive.org/download/oronline-2022/oronline-2022-09-09T00:53:16.134415-04:00.jpg"
-     alt="Observer-Reporter at 2022-09-09 00:53:23-04:00 local time"
+ <a href="https://archive.org/download/oronline-2022/oronline-2022-09-17T00:35:20.613623-04:00.jpg">
+  <img src="https://archive.org/download/oronline-2022/oronline-2022-09-17T00:35:20.613623-04:00.jpg"
+     alt="Observer-Reporter at 2022-09-17 00:35:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oronline-2022/oronline-2022-09-09T00:53:16.134415-04:00.jpg">September 9 at 12:53 AM</a></p>
+ <p><a href="https://archive.org/download/oronline-2022/oronline-2022-09-17T00:35:20.613623-04:00.jpg">September 17 at 12:35 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/oronline-2022/oronline-2022-09-08T11:35:24.972715-04:00.jpg">
-  <img src="https://archive.org/download/oronline-2022/oronline-2022-09-08T11:35:24.972715-04:00.jpg"
-     alt="Observer-Reporter at 2022-09-08 11:35:31-04:00 local time"
+ <a href="https://archive.org/download/oronline-2022/oronline-2022-09-16T12:06:46.260566-04:00.jpg">
+  <img src="https://archive.org/download/oronline-2022/oronline-2022-09-16T12:06:46.260566-04:00.jpg"
+     alt="Observer-Reporter at 2022-09-16 12:06:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oronline-2022/oronline-2022-09-08T11:35:24.972715-04:00.jpg">September 8 at 11:35 AM</a></p>
+ <p><a href="https://archive.org/download/oronline-2022/oronline-2022-09-16T12:06:46.260566-04:00.jpg">September 16 at 12:06 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/oronline-2022/oronline-2022-09-07T23:54:07.076836-04:00.jpg">
-  <img src="https://archive.org/download/oronline-2022/oronline-2022-09-07T23:54:07.076836-04:00.jpg"
-     alt="Observer-Reporter at 2022-09-07 23:54:08-04:00 local time"
+ <a href="https://archive.org/download/oronline-2022/oronline-2022-09-16T01:29:04.264652-04:00.jpg">
+  <img src="https://archive.org/download/oronline-2022/oronline-2022-09-16T01:29:04.264652-04:00.jpg"
+     alt="Observer-Reporter at 2022-09-16 01:29:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oronline-2022/oronline-2022-09-07T23:54:07.076836-04:00.jpg">September 7 at 11:54 PM</a></p>
+ <p><a href="https://archive.org/download/oronline-2022/oronline-2022-09-16T01:29:04.264652-04:00.jpg">September 16 at 1:29 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/oronline-2022/oronline-2022-09-07T11:51:30.369185-04:00.jpg">
-  <img src="https://archive.org/download/oronline-2022/oronline-2022-09-07T11:51:30.369185-04:00.jpg"
-     alt="Observer-Reporter at 2022-09-07 11:51:36-04:00 local time"
+ <a href="https://archive.org/download/oronline-2022/oronline-2022-09-15T12:30:04.539433-04:00.jpg">
+  <img src="https://archive.org/download/oronline-2022/oronline-2022-09-15T12:30:04.539433-04:00.jpg"
+     alt="Observer-Reporter at 2022-09-15 12:30:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oronline-2022/oronline-2022-09-07T11:51:30.369185-04:00.jpg">September 7 at 11:51 AM</a></p>
+ <p><a href="https://archive.org/download/oronline-2022/oronline-2022-09-15T12:30:04.539433-04:00.jpg">September 15 at 12:30 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/oronline-2022/oronline-2022-09-06T23:59:11.654000-04:00.jpg">
-  <img src="https://archive.org/download/oronline-2022/oronline-2022-09-06T23:59:11.654000-04:00.jpg"
-     alt="Observer-Reporter at 2022-09-06 23:59:14-04:00 local time"
+ <a href="https://archive.org/download/oronline-2022/oronline-2022-09-15T01:29:55.956627-04:00.jpg">
+  <img src="https://archive.org/download/oronline-2022/oronline-2022-09-15T01:29:55.956627-04:00.jpg"
+     alt="Observer-Reporter at 2022-09-15 01:30:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oronline-2022/oronline-2022-09-06T23:59:11.654000-04:00.jpg">September 6 at 11:59 PM</a></p>
+ <p><a href="https://archive.org/download/oronline-2022/oronline-2022-09-15T01:29:55.956627-04:00.jpg">September 15 at 1:30 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/oronline-2022/oronline-2022-09-06T00:00:11.649374-04:00.jpg">
-  <img src="https://archive.org/download/oronline-2022/oronline-2022-09-06T00:00:11.649374-04:00.jpg"
-     alt="Observer-Reporter at 2022-09-06 00:00:15-04:00 local time"
+ <a href="https://archive.org/download/oronline-2022/oronline-2022-09-14T12:28:52.113605-04:00.jpg">
+  <img src="https://archive.org/download/oronline-2022/oronline-2022-09-14T12:28:52.113605-04:00.jpg"
+     alt="Observer-Reporter at 2022-09-14 12:28:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oronline-2022/oronline-2022-09-06T00:00:11.649374-04:00.jpg">September 6 at 12:00 AM</a></p>
+ <p><a href="https://archive.org/download/oronline-2022/oronline-2022-09-14T12:28:52.113605-04:00.jpg">September 14 at 12:28 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/oronline-2022/oronline-2022-09-05T12:21:09.379124-04:00.jpg">
-  <img src="https://archive.org/download/oronline-2022/oronline-2022-09-05T12:21:09.379124-04:00.jpg"
-     alt="Observer-Reporter at 2022-09-05 12:21:13-04:00 local time"
+ <a href="https://archive.org/download/oronline-2022/oronline-2022-09-14T00:47:49.355160-04:00.jpg">
+  <img src="https://archive.org/download/oronline-2022/oronline-2022-09-14T00:47:49.355160-04:00.jpg"
+     alt="Observer-Reporter at 2022-09-14 00:47:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oronline-2022/oronline-2022-09-05T12:21:09.379124-04:00.jpg">September 5 at 12:21 PM</a></p>
+ <p><a href="https://archive.org/download/oronline-2022/oronline-2022-09-14T00:47:49.355160-04:00.jpg">September 14 at 12:47 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 75 hyperlink lists with the Internet Archive.
+The archiving routine has saved 91 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 11:10 AM](https://archive.org/download/oronline-2022/oronline-2022-09-11T11:10:22.357708-04:00.hyperlinks.json) |
-| [September 10 at 11:56 PM](https://archive.org/download/oronline-2022/oronline-2022-09-10T23:56:22.450852-04:00.hyperlinks.json) |
-| [September 10 at 11:07 AM](https://archive.org/download/oronline-2022/oronline-2022-09-10T11:07:49.764845-04:00.hyperlinks.json) |
-| [September 9 at 11:57 PM](https://archive.org/download/oronline-2022/oronline-2022-09-09T23:57:00.522871-04:00.hyperlinks.json) |
-| [September 9 at 12:31 PM](https://archive.org/download/oronline-2022/oronline-2022-09-09T12:30:53.400507-04:00.hyperlinks.json) |
-| [September 9 at 12:53 AM](https://archive.org/download/oronline-2022/oronline-2022-09-09T00:53:16.134415-04:00.hyperlinks.json) |
-| [September 8 at 11:35 AM](https://archive.org/download/oronline-2022/oronline-2022-09-08T11:35:24.972715-04:00.hyperlinks.json) |
-| [September 7 at 11:54 PM](https://archive.org/download/oronline-2022/oronline-2022-09-07T23:54:07.076836-04:00.hyperlinks.json) |
-| [September 7 at 11:51 AM](https://archive.org/download/oronline-2022/oronline-2022-09-07T11:51:30.369185-04:00.hyperlinks.json) |
-| [September 6 at 11:59 PM](https://archive.org/download/oronline-2022/oronline-2022-09-06T23:59:11.654000-04:00.hyperlinks.json) |
+| [September 19 at 1:35 PM](https://archive.org/download/oronline-2022/oronline-2022-09-19T13:35:00.965647-04:00.hyperlinks.json) |
+| [September 19 at 2:05 AM](https://archive.org/download/oronline-2022/oronline-2022-09-19T02:05:48.123440-04:00.hyperlinks.json) |
+| [September 18 at 1:28 PM](https://archive.org/download/oronline-2022/oronline-2022-09-18T13:28:13.408417-04:00.hyperlinks.json) |
+| [September 18 at 1:26 AM](https://archive.org/download/oronline-2022/oronline-2022-09-18T01:26:39.690188-04:00.hyperlinks.json) |
+| [September 17 at 12:01 PM](https://archive.org/download/oronline-2022/oronline-2022-09-17T12:01:13.780930-04:00.hyperlinks.json) |
+| [September 17 at 12:35 AM](https://archive.org/download/oronline-2022/oronline-2022-09-17T00:35:20.613623-04:00.hyperlinks.json) |
+| [September 16 at 12:06 PM](https://archive.org/download/oronline-2022/oronline-2022-09-16T12:06:46.260566-04:00.hyperlinks.json) |
+| [September 16 at 1:29 AM](https://archive.org/download/oronline-2022/oronline-2022-09-16T01:29:04.264652-04:00.hyperlinks.json) |
+| [September 15 at 12:30 PM](https://archive.org/download/oronline-2022/oronline-2022-09-15T12:30:04.539433-04:00.hyperlinks.json) |
+| [September 15 at 1:30 AM](https://archive.org/download/oronline-2022/oronline-2022-09-15T01:29:55.956627-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 67 accessibility trees with the Internet Archive.
+The archiving routine has saved 83 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 11:10 AM](https://archive.org/download/oronline-2022/oronline-2022-09-11T11:10:22.357708-04:00.accessibility.json) |
-| [September 10 at 11:56 PM](https://archive.org/download/oronline-2022/oronline-2022-09-10T23:56:22.450852-04:00.accessibility.json) |
-| [September 10 at 11:07 AM](https://archive.org/download/oronline-2022/oronline-2022-09-10T11:07:49.764845-04:00.accessibility.json) |
-| [September 9 at 11:57 PM](https://archive.org/download/oronline-2022/oronline-2022-09-09T23:57:00.522871-04:00.accessibility.json) |
-| [September 9 at 12:31 PM](https://archive.org/download/oronline-2022/oronline-2022-09-09T12:30:53.400507-04:00.accessibility.json) |
-| [September 9 at 12:53 AM](https://archive.org/download/oronline-2022/oronline-2022-09-09T00:53:16.134415-04:00.accessibility.json) |
-| [September 8 at 11:35 AM](https://archive.org/download/oronline-2022/oronline-2022-09-08T11:35:24.972715-04:00.accessibility.json) |
-| [September 7 at 11:54 PM](https://archive.org/download/oronline-2022/oronline-2022-09-07T23:54:07.076836-04:00.accessibility.json) |
-| [September 7 at 11:51 AM](https://archive.org/download/oronline-2022/oronline-2022-09-07T11:51:30.369185-04:00.accessibility.json) |
-| [September 6 at 11:59 PM](https://archive.org/download/oronline-2022/oronline-2022-09-06T23:59:11.654000-04:00.accessibility.json) |
+| [September 19 at 1:35 PM](https://archive.org/download/oronline-2022/oronline-2022-09-19T13:35:00.965647-04:00.accessibility.json) |
+| [September 19 at 2:05 AM](https://archive.org/download/oronline-2022/oronline-2022-09-19T02:05:48.123440-04:00.accessibility.json) |
+| [September 18 at 1:28 PM](https://archive.org/download/oronline-2022/oronline-2022-09-18T13:28:13.408417-04:00.accessibility.json) |
+| [September 18 at 1:26 AM](https://archive.org/download/oronline-2022/oronline-2022-09-18T01:26:39.690188-04:00.accessibility.json) |
+| [September 17 at 12:01 PM](https://archive.org/download/oronline-2022/oronline-2022-09-17T12:01:13.780930-04:00.accessibility.json) |
+| [September 17 at 12:35 AM](https://archive.org/download/oronline-2022/oronline-2022-09-17T00:35:20.613623-04:00.accessibility.json) |
+| [September 16 at 12:06 PM](https://archive.org/download/oronline-2022/oronline-2022-09-16T12:06:46.260566-04:00.accessibility.json) |
+| [September 16 at 1:29 AM](https://archive.org/download/oronline-2022/oronline-2022-09-16T01:29:04.264652-04:00.accessibility.json) |
+| [September 15 at 12:30 PM](https://archive.org/download/oronline-2022/oronline-2022-09-15T12:30:04.539433-04:00.accessibility.json) |
+| [September 15 at 1:30 AM](https://archive.org/download/oronline-2022/oronline-2022-09-15T01:29:55.956627-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 84 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 100 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 11:10 AM](https://archive.org/download/oronline-2022/oronline-2022-09-11T11:10:22.357708-04:00.lighthouse.json) |
-| [September 10 at 11:56 PM](https://archive.org/download/oronline-2022/oronline-2022-09-10T23:56:22.450852-04:00.lighthouse.json) |
-| [September 10 at 11:07 AM](https://archive.org/download/oronline-2022/oronline-2022-09-10T11:07:49.764845-04:00.lighthouse.json) |
-| [September 9 at 11:57 PM](https://archive.org/download/oronline-2022/oronline-2022-09-09T23:57:00.522871-04:00.lighthouse.json) |
-| [September 9 at 12:31 PM](https://archive.org/download/oronline-2022/oronline-2022-09-09T12:30:53.400507-04:00.lighthouse.json) |
-| [September 9 at 12:53 AM](https://archive.org/download/oronline-2022/oronline-2022-09-09T00:53:16.134415-04:00.lighthouse.json) |
-| [September 8 at 11:35 AM](https://archive.org/download/oronline-2022/oronline-2022-09-08T11:35:24.972715-04:00.lighthouse.json) |
-| [September 7 at 11:54 PM](https://archive.org/download/oronline-2022/oronline-2022-09-07T23:54:07.076836-04:00.lighthouse.json) |
-| [September 7 at 11:51 AM](https://archive.org/download/oronline-2022/oronline-2022-09-07T11:51:30.369185-04:00.lighthouse.json) |
-| [September 6 at 11:59 PM](https://archive.org/download/oronline-2022/oronline-2022-09-06T23:59:11.654000-04:00.lighthouse.json) |
+| [September 19 at 1:35 PM](https://archive.org/download/oronline-2022/oronline-2022-09-19T13:35:00.965647-04:00.lighthouse.json) |
+| [September 19 at 2:05 AM](https://archive.org/download/oronline-2022/oronline-2022-09-19T02:05:48.123440-04:00.lighthouse.json) |
+| [September 18 at 1:28 PM](https://archive.org/download/oronline-2022/oronline-2022-09-18T13:28:13.408417-04:00.lighthouse.json) |
+| [September 18 at 1:26 AM](https://archive.org/download/oronline-2022/oronline-2022-09-18T01:26:39.690188-04:00.lighthouse.json) |
+| [September 17 at 12:01 PM](https://archive.org/download/oronline-2022/oronline-2022-09-17T12:01:13.780930-04:00.lighthouse.json) |
+| [September 17 at 12:35 AM](https://archive.org/download/oronline-2022/oronline-2022-09-17T00:35:20.613623-04:00.lighthouse.json) |
+| [September 16 at 12:07 PM](https://archive.org/download/oronline-2022/oronline-2022-09-16T12:06:46.260566-04:00.lighthouse.json) |
+| [September 16 at 1:29 AM](https://archive.org/download/oronline-2022/oronline-2022-09-16T01:29:04.264652-04:00.lighthouse.json) |
+| [September 15 at 12:30 PM](https://archive.org/download/oronline-2022/oronline-2022-09-15T12:30:04.539433-04:00.lighthouse.json) |
+| [September 15 at 1:30 AM](https://archive.org/download/oronline-2022/oronline-2022-09-15T01:29:55.956627-04:00.lighthouse.json) |
 
 
 

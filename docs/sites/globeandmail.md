@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 298 screenshots with the Internet Archive.
+The archiving routine has saved 337 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-11T12:16:47.204693-04:00.jpg">
-  <img src="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-11T12:16:47.204693-04:00.jpg"
-     alt="The Globe and Mail at 2022-09-11 12:16:48-04:00 local time"
+ <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-19T12:51:03.511241-04:00.jpg">
+  <img src="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-19T12:51:03.511241-04:00.jpg"
+     alt="The Globe and Mail at 2022-09-19 12:51:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-11T12:16:47.204693-04:00.jpg">September 11 at 12:16 PM</a></p>
+ <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-19T12:51:03.511241-04:00.jpg">September 19 at 12:51 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-11T11:03:36.490276-04:00.jpg">
-  <img src="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-11T11:03:36.490276-04:00.jpg"
-     alt="The Globe and Mail at 2022-09-11 11:03:38-04:00 local time"
+ <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-19T12:02:51.881627-04:00.jpg">
+  <img src="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-19T12:02:51.881627-04:00.jpg"
+     alt="The Globe and Mail at 2022-09-19 12:02:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-11T11:03:36.490276-04:00.jpg">September 11 at 11:03 AM</a></p>
+ <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-19T12:02:51.881627-04:00.jpg">September 19 at 12:02 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-11T06:49:01.729199-04:00.jpg">
-  <img src="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-11T06:49:01.729199-04:00.jpg"
-     alt="The Globe and Mail at 2022-09-11 06:49:07-04:00 local time"
+ <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-19T06:42:45.902176-04:00.jpg">
+  <img src="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-19T06:42:45.902176-04:00.jpg"
+     alt="The Globe and Mail at 2022-09-19 06:42:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-11T06:49:01.729199-04:00.jpg">September 11 at 6:49 AM</a></p>
+ <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-19T06:42:45.902176-04:00.jpg">September 19 at 6:42 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T23:49:15.719418-04:00.jpg">
-  <img src="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T23:49:15.719418-04:00.jpg"
-     alt="The Globe and Mail at 2022-09-10 23:49:17-04:00 local time"
+ <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-19T00:46:09.870803-04:00.jpg">
+  <img src="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-19T00:46:09.870803-04:00.jpg"
+     alt="The Globe and Mail at 2022-09-19 00:46:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T23:49:15.719418-04:00.jpg">September 10 at 11:49 PM</a></p>
+ <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-19T00:46:09.870803-04:00.jpg">September 19 at 12:46 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T18:59:11.254966-04:00.jpg">
-  <img src="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T18:59:11.254966-04:00.jpg"
-     alt="The Globe and Mail at 2022-09-10 18:59:19-04:00 local time"
+ <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-18T18:43:10.858137-04:00.jpg">
+  <img src="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-18T18:43:10.858137-04:00.jpg"
+     alt="The Globe and Mail at 2022-09-18 18:43:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T18:59:11.254966-04:00.jpg">September 10 at 6:59 PM</a></p>
+ <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-18T18:43:10.858137-04:00.jpg">September 18 at 6:43 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T12:14:50.411654-04:00.jpg">
-  <img src="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T12:14:50.411654-04:00.jpg"
-     alt="The Globe and Mail at 2022-09-10 12:14:51-04:00 local time"
+ <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-18T13:15:32.044658-04:00.jpg">
+  <img src="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-18T13:15:32.044658-04:00.jpg"
+     alt="The Globe and Mail at 2022-09-18 13:15:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T12:14:50.411654-04:00.jpg">September 10 at 12:14 PM</a></p>
+ <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-18T13:15:32.044658-04:00.jpg">September 18 at 1:15 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T11:01:28.502021-04:00.jpg">
-  <img src="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T11:01:28.502021-04:00.jpg"
-     alt="The Globe and Mail at 2022-09-10 11:01:30-04:00 local time"
+ <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-18T06:45:52.282665-04:00.jpg">
+  <img src="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-18T06:45:52.282665-04:00.jpg"
+     alt="The Globe and Mail at 2022-09-18 06:45:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T11:01:28.502021-04:00.jpg">September 10 at 11:01 AM</a></p>
+ <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-18T06:45:52.282665-04:00.jpg">September 18 at 6:45 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T06:48:20.314652-04:00.jpg">
-  <img src="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T06:48:20.314652-04:00.jpg"
-     alt="The Globe and Mail at 2022-09-10 06:48:26-04:00 local time"
+ <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-17T23:50:23.648627-04:00.jpg">
+  <img src="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-17T23:50:23.648627-04:00.jpg"
+     alt="The Globe and Mail at 2022-09-17 23:50:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T06:48:20.314652-04:00.jpg">September 10 at 6:48 AM</a></p>
+ <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-17T23:50:23.648627-04:00.jpg">September 17 at 11:50 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-09T23:50:53.439518-04:00.jpg">
-  <img src="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-09T23:50:53.439518-04:00.jpg"
-     alt="The Globe and Mail at 2022-09-09 23:50:54-04:00 local time"
+ <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-17T18:48:15.982432-04:00.jpg">
+  <img src="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-17T18:48:15.982432-04:00.jpg"
+     alt="The Globe and Mail at 2022-09-17 18:48:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-09T23:50:53.439518-04:00.jpg">September 9 at 11:50 PM</a></p>
+ <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-17T18:48:15.982432-04:00.jpg">September 17 at 6:48 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-09T18:57:39.275480-04:00.jpg">
-  <img src="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-09T18:57:39.275480-04:00.jpg"
-     alt="The Globe and Mail at 2022-09-09 18:57:41-04:00 local time"
+ <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-17T12:08:44.660442-04:00.jpg">
+  <img src="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-17T12:08:44.660442-04:00.jpg"
+     alt="The Globe and Mail at 2022-09-17 12:08:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-09T18:57:39.275480-04:00.jpg">September 9 at 6:57 PM</a></p>
+ <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-17T12:08:44.660442-04:00.jpg">September 17 at 12:08 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-09T12:40:40.410739-04:00.jpg">
-  <img src="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-09T12:40:40.410739-04:00.jpg"
-     alt="The Globe and Mail at 2022-09-09 12:40:41-04:00 local time"
+ <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-17T10:53:09.170735-04:00.jpg">
+  <img src="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-17T10:53:09.170735-04:00.jpg"
+     alt="The Globe and Mail at 2022-09-17 10:53:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-09T12:40:40.410739-04:00.jpg">September 9 at 12:40 PM</a></p>
+ <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-17T10:53:09.170735-04:00.jpg">September 17 at 10:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-09T12:22:39.214947-04:00.jpg">
-  <img src="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-09T12:22:39.214947-04:00.jpg"
-     alt="The Globe and Mail at 2022-09-09 12:22:41-04:00 local time"
+ <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-17T06:45:16.744581-04:00.jpg">
+  <img src="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-17T06:45:16.744581-04:00.jpg"
+     alt="The Globe and Mail at 2022-09-17 06:45:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-09T12:22:39.214947-04:00.jpg">September 9 at 12:22 PM</a></p>
+ <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-09-17T06:45:16.744581-04:00.jpg">September 17 at 6:45 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 296 hyperlink lists with the Internet Archive.
+The archiving routine has saved 335 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 12:16 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-11T12:16:47.204693-04:00.hyperlinks.json) |
-| [September 11 at 11:03 AM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-11T11:03:36.490276-04:00.hyperlinks.json) |
-| [September 11 at 6:49 AM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-11T06:49:01.729199-04:00.hyperlinks.json) |
-| [September 10 at 11:49 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T23:49:15.719418-04:00.hyperlinks.json) |
-| [September 10 at 6:59 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T18:59:11.254966-04:00.hyperlinks.json) |
-| [September 10 at 12:14 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T12:14:50.411654-04:00.hyperlinks.json) |
-| [September 10 at 11:01 AM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T11:01:28.502021-04:00.hyperlinks.json) |
-| [September 10 at 6:48 AM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T06:48:20.314652-04:00.hyperlinks.json) |
-| [September 9 at 11:50 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-09T23:50:53.439518-04:00.hyperlinks.json) |
-| [September 9 at 6:57 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-09T18:57:39.275480-04:00.hyperlinks.json) |
+| [September 19 at 12:51 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-19T12:51:03.511241-04:00.hyperlinks.json) |
+| [September 19 at 12:02 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-19T12:02:51.881627-04:00.hyperlinks.json) |
+| [September 19 at 6:43 AM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-19T06:42:45.902176-04:00.hyperlinks.json) |
+| [September 19 at 12:46 AM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-19T00:46:09.870803-04:00.hyperlinks.json) |
+| [September 18 at 6:43 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-18T18:43:10.858137-04:00.hyperlinks.json) |
+| [September 18 at 1:15 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-18T13:15:32.044658-04:00.hyperlinks.json) |
+| [September 18 at 6:45 AM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-18T06:45:52.282665-04:00.hyperlinks.json) |
+| [September 17 at 11:50 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-17T23:50:23.648627-04:00.hyperlinks.json) |
+| [September 17 at 6:48 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-17T18:48:15.982432-04:00.hyperlinks.json) |
+| [September 17 at 12:08 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-17T12:08:44.660442-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 298 accessibility trees with the Internet Archive.
+The archiving routine has saved 336 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 12:16 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-11T12:16:47.204693-04:00.accessibility.json) |
-| [September 11 at 11:03 AM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-11T11:03:36.490276-04:00.accessibility.json) |
-| [September 11 at 6:49 AM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-11T06:49:01.729199-04:00.accessibility.json) |
-| [September 10 at 11:49 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T23:49:15.719418-04:00.accessibility.json) |
-| [September 10 at 6:59 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T18:59:11.254966-04:00.accessibility.json) |
-| [September 10 at 12:14 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T12:14:50.411654-04:00.accessibility.json) |
-| [September 10 at 11:01 AM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T11:01:28.502021-04:00.accessibility.json) |
-| [September 10 at 6:48 AM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T06:48:20.314652-04:00.accessibility.json) |
-| [September 9 at 11:50 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-09T23:50:53.439518-04:00.accessibility.json) |
-| [September 9 at 6:57 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-09T18:57:39.275480-04:00.accessibility.json) |
+| [September 19 at 12:51 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-19T12:51:03.511241-04:00.accessibility.json) |
+| [September 19 at 12:02 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-19T12:02:51.881627-04:00.accessibility.json) |
+| [September 19 at 6:42 AM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-19T06:42:45.902176-04:00.accessibility.json) |
+| [September 19 at 12:46 AM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-19T00:46:09.870803-04:00.accessibility.json) |
+| [September 18 at 6:43 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-18T18:43:10.858137-04:00.accessibility.json) |
+| [September 18 at 1:15 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-18T13:15:32.044658-04:00.accessibility.json) |
+| [September 18 at 6:45 AM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-18T06:45:52.282665-04:00.accessibility.json) |
+| [September 17 at 11:50 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-17T23:50:23.648627-04:00.accessibility.json) |
+| [September 17 at 6:48 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-17T18:48:15.982432-04:00.accessibility.json) |
+| [September 17 at 12:08 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-17T12:08:44.660442-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 235 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 274 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 12:16 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-11T12:16:47.204693-04:00.lighthouse.json) |
-| [September 11 at 11:03 AM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-11T11:03:36.490276-04:00.lighthouse.json) |
-| [September 11 at 6:49 AM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-11T06:49:01.729199-04:00.lighthouse.json) |
-| [September 10 at 11:49 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T23:49:15.719418-04:00.lighthouse.json) |
-| [September 10 at 6:59 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T18:59:11.254966-04:00.lighthouse.json) |
-| [September 10 at 12:14 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T12:14:50.411654-04:00.lighthouse.json) |
-| [September 10 at 11:01 AM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T11:01:28.502021-04:00.lighthouse.json) |
-| [September 10 at 6:48 AM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-10T06:48:20.314652-04:00.lighthouse.json) |
-| [September 9 at 11:50 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-09T23:50:53.439518-04:00.lighthouse.json) |
-| [September 9 at 6:57 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-09T18:57:39.275480-04:00.lighthouse.json) |
+| [September 19 at 12:51 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-19T12:51:03.511241-04:00.lighthouse.json) |
+| [September 19 at 12:03 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-19T12:02:51.881627-04:00.lighthouse.json) |
+| [September 19 at 6:43 AM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-19T06:42:45.902176-04:00.lighthouse.json) |
+| [September 19 at 12:46 AM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-19T00:46:09.870803-04:00.lighthouse.json) |
+| [September 18 at 6:43 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-18T18:43:10.858137-04:00.lighthouse.json) |
+| [September 18 at 1:15 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-18T13:15:32.044658-04:00.lighthouse.json) |
+| [September 18 at 6:46 AM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-18T06:45:52.282665-04:00.lighthouse.json) |
+| [September 17 at 11:50 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-17T23:50:23.648627-04:00.lighthouse.json) |
+| [September 17 at 6:48 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-17T18:48:15.982432-04:00.lighthouse.json) |
+| [September 17 at 12:08 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-09-17T12:08:44.660442-04:00.lighthouse.json) |
 
 
 

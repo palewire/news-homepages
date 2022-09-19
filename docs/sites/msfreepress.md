@@ -28,8 +28,91 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 45 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/msfreepress.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
@@ -37,180 +120,429 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-10T19:15:30.626021-05:00.jpg">
-  <img src="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-10T19:15:30.626021-05:00.jpg"
-     alt="Mississippi Free Press at 2022-09-10 19:15:33-05:00 local time"
+ <a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-19T07:56:00.708413-05:00.jpg">
+  <img src="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-19T07:56:00.708413-05:00.jpg"
+     alt="Mississippi Free Press at 2022-09-19 07:56:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-10T19:15:30.626021-05:00.jpg">September 10 at 7:15 PM</a></p>
+ <p><a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-19T07:56:00.708413-05:00.jpg">September 19 at 7:56 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-10T07:01:43.341816-05:00.jpg">
-  <img src="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-10T07:01:43.341816-05:00.jpg"
-     alt="Mississippi Free Press at 2022-09-10 07:01:46-05:00 local time"
+ <a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-18T20:13:17.999964-05:00.jpg">
+  <img src="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-18T20:13:17.999964-05:00.jpg"
+     alt="Mississippi Free Press at 2022-09-18 20:13:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-10T07:01:43.341816-05:00.jpg">September 10 at 7:01 AM</a></p>
+ <p><a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-18T20:13:17.999964-05:00.jpg">September 18 at 8:13 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-09T19:07:55.972504-05:00.jpg">
-  <img src="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-09T19:07:55.972504-05:00.jpg"
-     alt="Mississippi Free Press at 2022-09-09 19:07:58-05:00 local time"
+ <a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-18T07:58:15.684098-05:00.jpg">
+  <img src="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-18T07:58:15.684098-05:00.jpg"
+     alt="Mississippi Free Press at 2022-09-18 07:58:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-09T19:07:55.972504-05:00.jpg">September 9 at 7:07 PM</a></p>
+ <p><a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-18T07:58:15.684098-05:00.jpg">September 18 at 7:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-09T07:18:42.353231-05:00.jpg">
-  <img src="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-09T07:18:42.353231-05:00.jpg"
-     alt="Mississippi Free Press at 2022-09-09 07:18:45-05:00 local time"
+ <a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-17T20:18:06.835306-05:00.jpg">
+  <img src="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-17T20:18:06.835306-05:00.jpg"
+     alt="Mississippi Free Press at 2022-09-17 20:18:09-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-09T07:18:42.353231-05:00.jpg">September 9 at 7:18 AM</a></p>
+ <p><a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-17T20:18:06.835306-05:00.jpg">September 17 at 8:18 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-08T19:09:40.274170-05:00.jpg">
-  <img src="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-08T19:09:40.274170-05:00.jpg"
-     alt="Mississippi Free Press at 2022-09-08 19:09:42-05:00 local time"
+ <a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-17T07:57:51.637721-05:00.jpg">
+  <img src="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-17T07:57:51.637721-05:00.jpg"
+     alt="Mississippi Free Press at 2022-09-17 07:57:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-08T19:09:40.274170-05:00.jpg">September 8 at 7:09 PM</a></p>
+ <p><a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-17T07:57:51.637721-05:00.jpg">September 17 at 7:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-08T07:25:41.109386-05:00.jpg">
-  <img src="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-08T07:25:41.109386-05:00.jpg"
-     alt="Mississippi Free Press at 2022-09-08 07:25:44-05:00 local time"
+ <a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-16T20:11:18.749022-05:00.jpg">
+  <img src="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-16T20:11:18.749022-05:00.jpg"
+     alt="Mississippi Free Press at 2022-09-16 20:11:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-08T07:25:41.109386-05:00.jpg">September 8 at 7:25 AM</a></p>
+ <p><a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-16T20:11:18.749022-05:00.jpg">September 16 at 8:11 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-07T18:58:37.194271-05:00.jpg">
-  <img src="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-07T18:58:37.194271-05:00.jpg"
-     alt="Mississippi Free Press at 2022-09-07 18:58:39-05:00 local time"
+ <a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-16T07:58:48.078669-05:00.jpg">
+  <img src="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-16T07:58:48.078669-05:00.jpg"
+     alt="Mississippi Free Press at 2022-09-16 07:58:50-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-07T18:58:37.194271-05:00.jpg">September 7 at 6:58 PM</a></p>
+ <p><a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-16T07:58:48.078669-05:00.jpg">September 16 at 7:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-07T07:44:21.845988-05:00.jpg">
-  <img src="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-07T07:44:21.845988-05:00.jpg"
-     alt="Mississippi Free Press at 2022-09-07 07:44:23-05:00 local time"
+ <a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-15T20:13:43.967835-05:00.jpg">
+  <img src="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-15T20:13:43.967835-05:00.jpg"
+     alt="Mississippi Free Press at 2022-09-15 20:13:50-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-07T07:44:21.845988-05:00.jpg">September 7 at 7:44 AM</a></p>
+ <p><a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-15T20:13:43.967835-05:00.jpg">September 15 at 8:13 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-06T19:15:22.600782-05:00.jpg">
-  <img src="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-06T19:15:22.600782-05:00.jpg"
-     alt="Mississippi Free Press at 2022-09-06 19:15:25-05:00 local time"
+ <a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-15T08:01:23.296500-05:00.jpg">
+  <img src="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-15T08:01:23.296500-05:00.jpg"
+     alt="Mississippi Free Press at 2022-09-15 08:01:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-06T19:15:22.600782-05:00.jpg">September 6 at 7:15 PM</a></p>
+ <p><a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-15T08:01:23.296500-05:00.jpg">September 15 at 8:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-05T19:00:34.629199-05:00.jpg">
-  <img src="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-05T19:00:34.629199-05:00.jpg"
-     alt="Mississippi Free Press at 2022-09-05 19:00:36-05:00 local time"
+ <a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-14T20:17:14.050776-05:00.jpg">
+  <img src="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-14T20:17:14.050776-05:00.jpg"
+     alt="Mississippi Free Press at 2022-09-14 20:17:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-05T19:00:34.629199-05:00.jpg">September 5 at 7:00 PM</a></p>
+ <p><a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-14T20:17:14.050776-05:00.jpg">September 14 at 8:17 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-04T18:56:08.730631-05:00.jpg">
-  <img src="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-04T18:56:08.730631-05:00.jpg"
-     alt="Mississippi Free Press at 2022-09-04 18:56:11-05:00 local time"
+ <a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-14T08:05:16.958464-05:00.jpg">
+  <img src="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-14T08:05:16.958464-05:00.jpg"
+     alt="Mississippi Free Press at 2022-09-14 08:05:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-04T18:56:08.730631-05:00.jpg">September 4 at 6:56 PM</a></p>
+ <p><a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-14T08:05:16.958464-05:00.jpg">September 14 at 8:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-04T06:58:54.943685-05:00.jpg">
-  <img src="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-04T06:58:54.943685-05:00.jpg"
-     alt="Mississippi Free Press at 2022-09-04 06:58:57-05:00 local time"
+ <a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-13T07:59:54.859057-05:00.jpg">
+  <img src="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-13T07:59:54.859057-05:00.jpg"
+     alt="Mississippi Free Press at 2022-09-13 07:59:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-04T06:58:54.943685-05:00.jpg">September 4 at 6:58 AM</a></p>
+ <p><a href="https://archive.org/download/msfreepress-2022/msfreepress-2022-09-13T07:59:54.859057-05:00.jpg">September 13 at 7:59 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 29 hyperlink lists with the Internet Archive.
+The archiving routine has saved 45 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/msfreepress.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 10 at 7:15 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-10T19:15:30.626021-05:00.hyperlinks.json) |
-| [September 10 at 7:01 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-10T07:01:43.341816-05:00.hyperlinks.json) |
-| [September 9 at 7:08 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-09T19:07:55.972504-05:00.hyperlinks.json) |
-| [September 9 at 7:18 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-09T07:18:42.353231-05:00.hyperlinks.json) |
-| [September 8 at 7:09 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-08T19:09:40.274170-05:00.hyperlinks.json) |
-| [September 8 at 7:25 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-08T07:25:41.109386-05:00.hyperlinks.json) |
-| [September 7 at 6:58 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-07T18:58:37.194271-05:00.hyperlinks.json) |
-| [September 7 at 7:44 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-07T07:44:21.845988-05:00.hyperlinks.json) |
-| [September 6 at 7:15 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-06T19:15:22.600782-05:00.hyperlinks.json) |
-| [September 5 at 7:00 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-05T19:00:34.629199-05:00.hyperlinks.json) |
+| [September 19 at 7:56 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-19T07:56:00.708413-05:00.hyperlinks.json) |
+| [September 18 at 8:13 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-18T20:13:17.999964-05:00.hyperlinks.json) |
+| [September 18 at 7:58 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-18T07:58:15.684098-05:00.hyperlinks.json) |
+| [September 17 at 8:18 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-17T20:18:06.835306-05:00.hyperlinks.json) |
+| [September 17 at 7:57 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-17T07:57:51.637721-05:00.hyperlinks.json) |
+| [September 16 at 8:11 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-16T20:11:18.749022-05:00.hyperlinks.json) |
+| [September 16 at 7:58 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-16T07:58:48.078669-05:00.hyperlinks.json) |
+| [September 15 at 8:13 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-15T20:13:43.967835-05:00.hyperlinks.json) |
+| [September 15 at 8:01 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-15T08:01:23.296500-05:00.hyperlinks.json) |
+| [September 14 at 8:17 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-14T20:17:14.050776-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 30 accessibility trees with the Internet Archive.
+The archiving routine has saved 46 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/msfreepress.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 10 at 7:15 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-10T19:15:30.626021-05:00.accessibility.json) |
-| [September 10 at 7:01 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-10T07:01:43.341816-05:00.accessibility.json) |
-| [September 9 at 7:07 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-09T19:07:55.972504-05:00.accessibility.json) |
-| [September 9 at 7:18 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-09T07:18:42.353231-05:00.accessibility.json) |
-| [September 8 at 7:09 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-08T19:09:40.274170-05:00.accessibility.json) |
-| [September 8 at 7:25 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-08T07:25:41.109386-05:00.accessibility.json) |
-| [September 7 at 6:58 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-07T18:58:37.194271-05:00.accessibility.json) |
-| [September 7 at 7:44 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-07T07:44:21.845988-05:00.accessibility.json) |
-| [September 6 at 7:15 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-06T19:15:22.600782-05:00.accessibility.json) |
-| [September 5 at 7:00 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-05T19:00:34.629199-05:00.accessibility.json) |
+| [September 19 at 7:56 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-19T07:56:00.708413-05:00.accessibility.json) |
+| [September 18 at 8:13 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-18T20:13:17.999964-05:00.accessibility.json) |
+| [September 18 at 7:58 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-18T07:58:15.684098-05:00.accessibility.json) |
+| [September 17 at 8:18 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-17T20:18:06.835306-05:00.accessibility.json) |
+| [September 17 at 7:57 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-17T07:57:51.637721-05:00.accessibility.json) |
+| [September 16 at 8:11 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-16T20:11:18.749022-05:00.accessibility.json) |
+| [September 16 at 7:58 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-16T07:58:48.078669-05:00.accessibility.json) |
+| [September 15 at 8:13 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-15T20:13:43.967835-05:00.accessibility.json) |
+| [September 15 at 8:01 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-15T08:01:23.296500-05:00.accessibility.json) |
+| [September 14 at 8:17 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-14T20:17:14.050776-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/msfreepress.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 10 at 7:15 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-10T19:15:30.626021-05:00.lighthouse.json) |
-| [September 10 at 7:01 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-10T07:01:43.341816-05:00.lighthouse.json) |
-| [September 9 at 7:08 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-09T19:07:55.972504-05:00.lighthouse.json) |
-| [September 9 at 7:18 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-09T07:18:42.353231-05:00.lighthouse.json) |
-| [September 8 at 7:09 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-08T19:09:40.274170-05:00.lighthouse.json) |
-| [September 8 at 7:25 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-08T07:25:41.109386-05:00.lighthouse.json) |
-| [September 7 at 6:58 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-07T18:58:37.194271-05:00.lighthouse.json) |
-| [September 7 at 7:44 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-07T07:44:21.845988-05:00.lighthouse.json) |
-| [September 6 at 7:15 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-06T19:15:22.600782-05:00.lighthouse.json) |
-| [September 5 at 7:00 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-05T19:00:34.629199-05:00.lighthouse.json) |
+| [September 19 at 7:56 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-19T07:56:00.708413-05:00.lighthouse.json) |
+| [September 18 at 8:13 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-18T20:13:17.999964-05:00.lighthouse.json) |
+| [September 18 at 7:58 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-18T07:58:15.684098-05:00.lighthouse.json) |
+| [September 17 at 8:18 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-17T20:18:06.835306-05:00.lighthouse.json) |
+| [September 17 at 7:58 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-17T07:57:51.637721-05:00.lighthouse.json) |
+| [September 16 at 8:11 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-16T20:11:18.749022-05:00.lighthouse.json) |
+| [September 16 at 7:58 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-16T07:58:48.078669-05:00.lighthouse.json) |
+| [September 15 at 8:13 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-15T20:13:43.967835-05:00.lighthouse.json) |
+| [September 15 at 8:01 AM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-15T08:01:23.296500-05:00.lighthouse.json) |
+| [September 14 at 8:17 PM](https://archive.org/download/msfreepress-2022/msfreepress-2022-09-14T20:17:14.050776-05:00.lighthouse.json) |
 
 
 

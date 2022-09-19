@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 173 screenshots with the Internet Archive.
+The archiving routine has saved 190 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-11T10:12:28.839387-04:00.jpg">
-  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-11T10:12:28.839387-04:00.jpg"
-     alt="Bon Appetit at 2022-09-11 10:12:32-04:00 local time"
+ <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-19T10:59:01.950736-04:00.jpg">
+  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-19T10:59:01.950736-04:00.jpg"
+     alt="Bon Appetit at 2022-09-19 10:59:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-11T10:12:28.839387-04:00.jpg">September 11 at 10:12 AM</a></p>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-19T10:59:01.950736-04:00.jpg">September 19 at 10:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-10T22:28:02.712334-04:00.jpg">
-  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-10T22:28:02.712334-04:00.jpg"
-     alt="Bon Appetit at 2022-09-10 22:28:09-04:00 local time"
+ <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-18T23:42:48.880980-04:00.jpg">
+  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-18T23:42:48.880980-04:00.jpg"
+     alt="Bon Appetit at 2022-09-18 23:42:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-10T22:28:02.712334-04:00.jpg">September 10 at 10:28 PM</a></p>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-18T23:42:48.880980-04:00.jpg">September 18 at 11:42 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-10T10:12:54.616116-04:00.jpg">
-  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-10T10:12:54.616116-04:00.jpg"
-     alt="Bon Appetit at 2022-09-10 10:12:55-04:00 local time"
+ <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-18T10:51:09.487262-04:00.jpg">
+  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-18T10:51:09.487262-04:00.jpg"
+     alt="Bon Appetit at 2022-09-18 10:51:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-10T10:12:54.616116-04:00.jpg">September 10 at 10:12 AM</a></p>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-18T10:51:09.487262-04:00.jpg">September 18 at 10:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-09T22:28:27.401658-04:00.jpg">
-  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-09T22:28:27.401658-04:00.jpg"
-     alt="Bon Appetit at 2022-09-09 22:28:28-04:00 local time"
+ <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-17T23:45:19.915409-04:00.jpg">
+  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-17T23:45:19.915409-04:00.jpg"
+     alt="Bon Appetit at 2022-09-17 23:45:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-09T22:28:27.401658-04:00.jpg">September 9 at 10:28 PM</a></p>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-17T23:45:19.915409-04:00.jpg">September 17 at 11:45 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-09T10:34:08.954105-04:00.jpg">
-  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-09T10:34:08.954105-04:00.jpg"
-     alt="Bon Appetit at 2022-09-09 10:34:22-04:00 local time"
+ <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-17T10:48:26.779493-04:00.jpg">
+  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-17T10:48:26.779493-04:00.jpg"
+     alt="Bon Appetit at 2022-09-17 10:48:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-09T10:34:08.954105-04:00.jpg">September 9 at 10:34 AM</a></p>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-17T10:48:26.779493-04:00.jpg">September 17 at 10:48 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-08T22:28:36.542131-04:00.jpg">
-  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-08T22:28:36.542131-04:00.jpg"
-     alt="Bon Appetit at 2022-09-08 22:28:48-04:00 local time"
+ <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-16T23:39:35.217852-04:00.jpg">
+  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-16T23:39:35.217852-04:00.jpg"
+     alt="Bon Appetit at 2022-09-16 23:39:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-08T22:28:36.542131-04:00.jpg">September 8 at 10:28 PM</a></p>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-16T23:39:35.217852-04:00.jpg">September 16 at 11:39 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-08T10:24:46.411899-04:00.jpg">
-  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-08T10:24:46.411899-04:00.jpg"
-     alt="Bon Appetit at 2022-09-08 10:24:58-04:00 local time"
+ <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-16T10:58:45.554679-04:00.jpg">
+  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-16T10:58:45.554679-04:00.jpg"
+     alt="Bon Appetit at 2022-09-16 10:58:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-08T10:24:46.411899-04:00.jpg">September 8 at 10:24 AM</a></p>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-16T10:58:45.554679-04:00.jpg">September 16 at 10:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-07T22:33:49.491214-04:00.jpg">
-  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-07T22:33:49.491214-04:00.jpg"
-     alt="Bon Appetit at 2022-09-07 22:34:07-04:00 local time"
+ <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-15T23:47:21.686700-04:00.jpg">
+  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-15T23:47:21.686700-04:00.jpg"
+     alt="Bon Appetit at 2022-09-15 23:47:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-07T22:33:49.491214-04:00.jpg">September 7 at 10:34 PM</a></p>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-15T23:47:21.686700-04:00.jpg">September 15 at 11:47 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-07T11:31:13.405726-04:00.jpg">
-  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-07T11:31:13.405726-04:00.jpg"
-     alt="Bon Appetit at 2022-09-07 11:31:17-04:00 local time"
+ <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-15T12:06:58.667816-04:00.jpg">
+  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-15T12:06:58.667816-04:00.jpg"
+     alt="Bon Appetit at 2022-09-15 12:07:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-07T11:31:13.405726-04:00.jpg">September 7 at 11:31 AM</a></p>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-15T12:06:58.667816-04:00.jpg">September 15 at 12:07 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-06T22:33:58.779339-04:00.jpg">
-  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-06T22:33:58.779339-04:00.jpg"
-     alt="Bon Appetit at 2022-09-06 22:34:05-04:00 local time"
+ <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-14T23:46:22.736834-04:00.jpg">
+  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-14T23:46:22.736834-04:00.jpg"
+     alt="Bon Appetit at 2022-09-14 23:46:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-06T22:33:58.779339-04:00.jpg">September 6 at 10:34 PM</a></p>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-14T23:46:22.736834-04:00.jpg">September 14 at 11:46 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-05T22:27:30.488174-04:00.jpg">
-  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-05T22:27:30.488174-04:00.jpg"
-     alt="Bon Appetit at 2022-09-05 22:27:37-04:00 local time"
+ <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-14T11:09:32.076330-04:00.jpg">
+  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-14T11:09:32.076330-04:00.jpg"
+     alt="Bon Appetit at 2022-09-14 11:09:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-05T22:27:30.488174-04:00.jpg">September 5 at 10:27 PM</a></p>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-14T11:09:32.076330-04:00.jpg">September 14 at 11:09 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-05T10:23:37.842321-04:00.jpg">
-  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-05T10:23:37.842321-04:00.jpg"
-     alt="Bon Appetit at 2022-09-05 10:23:44-04:00 local time"
+ <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-13T23:46:11.312022-04:00.jpg">
+  <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-13T23:46:11.312022-04:00.jpg"
+     alt="Bon Appetit at 2022-09-13 23:46:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-05T10:23:37.842321-04:00.jpg">September 5 at 10:23 AM</a></p>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-09-13T23:46:11.312022-04:00.jpg">September 13 at 11:46 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 175 hyperlink lists with the Internet Archive.
+The archiving routine has saved 191 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 10:12 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-11T10:12:28.839387-04:00.hyperlinks.json) |
-| [September 10 at 10:28 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-10T22:28:02.712334-04:00.hyperlinks.json) |
-| [September 10 at 10:12 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-10T10:12:54.616116-04:00.hyperlinks.json) |
-| [September 9 at 10:28 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-09T22:28:27.401658-04:00.hyperlinks.json) |
-| [September 9 at 10:34 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-09T10:34:08.954105-04:00.hyperlinks.json) |
-| [September 8 at 10:28 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-08T22:28:36.542131-04:00.hyperlinks.json) |
-| [September 8 at 10:25 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-08T10:24:46.411899-04:00.hyperlinks.json) |
-| [September 7 at 10:34 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-07T22:33:49.491214-04:00.hyperlinks.json) |
-| [September 7 at 11:31 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-07T11:31:13.405726-04:00.hyperlinks.json) |
-| [September 6 at 10:34 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-06T22:33:58.779339-04:00.hyperlinks.json) |
+| [September 19 at 10:59 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-19T10:59:01.950736-04:00.hyperlinks.json) |
+| [September 18 at 11:42 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-18T23:42:48.880980-04:00.hyperlinks.json) |
+| [September 18 at 10:51 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-18T10:51:09.487262-04:00.hyperlinks.json) |
+| [September 17 at 11:45 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-17T23:45:19.915409-04:00.hyperlinks.json) |
+| [September 17 at 10:48 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-17T10:48:26.779493-04:00.hyperlinks.json) |
+| [September 16 at 11:39 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-16T23:39:35.217852-04:00.hyperlinks.json) |
+| [September 15 at 11:47 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-15T23:47:21.686700-04:00.hyperlinks.json) |
+| [September 15 at 12:07 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-15T12:06:58.667816-04:00.hyperlinks.json) |
+| [September 14 at 11:46 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-14T23:46:22.736834-04:00.hyperlinks.json) |
+| [September 14 at 11:09 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-14T11:09:32.076330-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 176 accessibility trees with the Internet Archive.
+The archiving routine has saved 192 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 10:12 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-11T10:12:28.839387-04:00.accessibility.json) |
-| [September 10 at 10:28 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-10T22:28:02.712334-04:00.accessibility.json) |
-| [September 10 at 10:12 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-10T10:12:54.616116-04:00.accessibility.json) |
-| [September 9 at 10:28 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-09T22:28:27.401658-04:00.accessibility.json) |
-| [September 9 at 10:34 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-09T10:34:08.954105-04:00.accessibility.json) |
-| [September 8 at 10:28 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-08T22:28:36.542131-04:00.accessibility.json) |
-| [September 8 at 10:24 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-08T10:24:46.411899-04:00.accessibility.json) |
-| [September 7 at 10:34 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-07T22:33:49.491214-04:00.accessibility.json) |
-| [September 7 at 11:31 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-07T11:31:13.405726-04:00.accessibility.json) |
-| [September 6 at 10:34 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-06T22:33:58.779339-04:00.accessibility.json) |
+| [September 19 at 10:59 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-19T10:59:01.950736-04:00.accessibility.json) |
+| [September 18 at 11:42 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-18T23:42:48.880980-04:00.accessibility.json) |
+| [September 18 at 10:51 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-18T10:51:09.487262-04:00.accessibility.json) |
+| [September 17 at 11:45 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-17T23:45:19.915409-04:00.accessibility.json) |
+| [September 17 at 10:48 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-17T10:48:26.779493-04:00.accessibility.json) |
+| [September 16 at 11:39 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-16T23:39:35.217852-04:00.accessibility.json) |
+| [September 16 at 10:58 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-16T10:58:45.554679-04:00.accessibility.json) |
+| [September 15 at 11:47 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-15T23:47:21.686700-04:00.accessibility.json) |
+| [September 15 at 12:07 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-15T12:06:58.667816-04:00.accessibility.json) |
+| [September 14 at 11:46 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-14T23:46:22.736834-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 101 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 118 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 10:12 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-11T10:12:28.839387-04:00.lighthouse.json) |
-| [September 10 at 10:28 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-10T22:28:02.712334-04:00.lighthouse.json) |
-| [September 10 at 10:13 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-10T10:12:54.616116-04:00.lighthouse.json) |
-| [September 9 at 10:28 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-09T22:28:27.401658-04:00.lighthouse.json) |
-| [September 9 at 10:34 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-09T10:34:08.954105-04:00.lighthouse.json) |
-| [September 8 at 10:28 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-08T22:28:36.542131-04:00.lighthouse.json) |
-| [September 8 at 10:25 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-08T10:24:46.411899-04:00.lighthouse.json) |
-| [September 7 at 10:34 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-07T22:33:49.491214-04:00.lighthouse.json) |
-| [September 7 at 11:31 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-07T11:31:13.405726-04:00.lighthouse.json) |
-| [September 6 at 10:34 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-06T22:33:58.779339-04:00.lighthouse.json) |
+| [September 19 at 10:59 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-19T10:59:01.950736-04:00.lighthouse.json) |
+| [September 18 at 11:42 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-18T23:42:48.880980-04:00.lighthouse.json) |
+| [September 18 at 10:51 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-18T10:51:09.487262-04:00.lighthouse.json) |
+| [September 17 at 11:45 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-17T23:45:19.915409-04:00.lighthouse.json) |
+| [September 17 at 10:48 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-17T10:48:26.779493-04:00.lighthouse.json) |
+| [September 16 at 11:39 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-16T23:39:35.217852-04:00.lighthouse.json) |
+| [September 16 at 10:59 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-16T10:58:45.554679-04:00.lighthouse.json) |
+| [September 15 at 11:47 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-15T23:47:21.686700-04:00.lighthouse.json) |
+| [September 15 at 12:07 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-15T12:06:58.667816-04:00.lighthouse.json) |
+| [September 14 at 11:46 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-09-14T23:46:22.736834-04:00.lighthouse.json) |
 
 
 

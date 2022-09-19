@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 110 screenshots with the Internet Archive.
+The archiving routine has saved 125 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-11T16:06:30.184433+01:00.jpg">
-  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-11T16:06:30.184433+01:00.jpg"
-     alt="Irish Examiner at 2022-09-11 16:06:35+01:00 local time"
+ <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-19T17:04:01.635701+01:00.jpg">
+  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-19T17:04:01.635701+01:00.jpg"
+     alt="Irish Examiner at 2022-09-19 17:04:03+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-11T16:06:30.184433+01:00.jpg">September 11 at 4:06 PM</a></p>
+ <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-19T17:04:01.635701+01:00.jpg">September 19 at 5:04 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-11T04:51:20.252363+01:00.jpg">
-  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-11T04:51:20.252363+01:00.jpg"
-     alt="Irish Examiner at 2022-09-11 04:51:23+01:00 local time"
+ <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-19T05:48:19.775920+01:00.jpg">
+  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-19T05:48:19.775920+01:00.jpg"
+     alt="Irish Examiner at 2022-09-19 05:48:21+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-11T04:51:20.252363+01:00.jpg">September 11 at 4:51 AM</a></p>
+ <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-19T05:48:19.775920+01:00.jpg">September 19 at 5:48 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-10T16:03:35.131618+01:00.jpg">
-  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-10T16:03:35.131618+01:00.jpg"
-     alt="Irish Examiner at 2022-09-10 16:03:39+01:00 local time"
+ <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-18T06:20:13.257427+01:00.jpg">
+  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-18T06:20:13.257427+01:00.jpg"
+     alt="Irish Examiner at 2022-09-18 06:20:15+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-10T16:03:35.131618+01:00.jpg">September 10 at 4:03 PM</a></p>
+ <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-18T06:20:13.257427+01:00.jpg">September 18 at 6:20 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-10T04:53:10.293491+01:00.jpg">
-  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-10T04:53:10.293491+01:00.jpg"
-     alt="Irish Examiner at 2022-09-10 04:53:11+01:00 local time"
+ <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-17T16:56:45.652408+01:00.jpg">
+  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-17T16:56:45.652408+01:00.jpg"
+     alt="Irish Examiner at 2022-09-17 16:56:46+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-10T04:53:10.293491+01:00.jpg">September 10 at 4:53 AM</a></p>
+ <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-17T16:56:45.652408+01:00.jpg">September 17 at 4:56 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-09T17:24:44.654813+01:00.jpg">
-  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-09T17:24:44.654813+01:00.jpg"
-     alt="Irish Examiner at 2022-09-09 17:24:52+01:00 local time"
+ <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-17T05:31:20.142851+01:00.jpg">
+  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-17T05:31:20.142851+01:00.jpg"
+     alt="Irish Examiner at 2022-09-17 05:31:22+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-09T17:24:44.654813+01:00.jpg">September 9 at 5:24 PM</a></p>
+ <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-17T05:31:20.142851+01:00.jpg">September 17 at 5:31 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-09T05:48:19.682312+01:00.jpg">
-  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-09T05:48:19.682312+01:00.jpg"
-     alt="Irish Examiner at 2022-09-09 05:48:26+01:00 local time"
+ <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-16T17:01:01.400311+01:00.jpg">
+  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-16T17:01:01.400311+01:00.jpg"
+     alt="Irish Examiner at 2022-09-16 17:01:07+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-09T05:48:19.682312+01:00.jpg">September 9 at 5:48 AM</a></p>
+ <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-16T17:01:01.400311+01:00.jpg">September 16 at 5:01 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-08T16:27:25.330503+01:00.jpg">
-  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-08T16:27:25.330503+01:00.jpg"
-     alt="Irish Examiner at 2022-09-08 16:27:30+01:00 local time"
+ <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-16T06:24:28.971473+01:00.jpg">
+  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-16T06:24:28.971473+01:00.jpg"
+     alt="Irish Examiner at 2022-09-16 06:24:30+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-08T16:27:25.330503+01:00.jpg">September 8 at 4:27 PM</a></p>
+ <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-16T06:24:28.971473+01:00.jpg">September 16 at 6:24 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-08T04:50:14.913507+01:00.jpg">
-  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-08T04:50:14.913507+01:00.jpg"
-     alt="Irish Examiner at 2022-09-08 04:50:16+01:00 local time"
+ <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-15T17:16:41.058698+01:00.jpg">
+  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-15T17:16:41.058698+01:00.jpg"
+     alt="Irish Examiner at 2022-09-15 17:16:56+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-08T04:50:14.913507+01:00.jpg">September 8 at 4:50 AM</a></p>
+ <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-15T17:16:41.058698+01:00.jpg">September 15 at 5:16 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-07T16:46:06.470755+01:00.jpg">
-  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-07T16:46:06.470755+01:00.jpg"
-     alt="Irish Examiner at 2022-09-07 16:46:11+01:00 local time"
+ <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-15T06:23:02.234084+01:00.jpg">
+  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-15T06:23:02.234084+01:00.jpg"
+     alt="Irish Examiner at 2022-09-15 06:23:04+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-07T16:46:06.470755+01:00.jpg">September 7 at 4:46 PM</a></p>
+ <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-15T06:23:02.234084+01:00.jpg">September 15 at 6:23 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-07T04:55:25.135231+01:00.jpg">
-  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-07T04:55:25.135231+01:00.jpg"
-     alt="Irish Examiner at 2022-09-07 04:55:27+01:00 local time"
+ <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-14T17:17:03.756272+01:00.jpg">
+  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-14T17:17:03.756272+01:00.jpg"
+     alt="Irish Examiner at 2022-09-14 17:17:08+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-07T04:55:25.135231+01:00.jpg">September 7 at 4:55 AM</a></p>
+ <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-14T17:17:03.756272+01:00.jpg">September 14 at 5:17 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-06T04:55:36.695344+01:00.jpg">
-  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-06T04:55:36.695344+01:00.jpg"
-     alt="Irish Examiner at 2022-09-06 04:55:38+01:00 local time"
+ <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-14T05:40:12.501053+01:00.jpg">
+  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-14T05:40:12.501053+01:00.jpg"
+     alt="Irish Examiner at 2022-09-14 05:40:14+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-06T04:55:36.695344+01:00.jpg">September 6 at 4:55 AM</a></p>
+ <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-14T05:40:12.501053+01:00.jpg">September 14 at 5:40 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-05T17:16:40.621978+01:00.jpg">
-  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-05T17:16:40.621978+01:00.jpg"
-     alt="Irish Examiner at 2022-09-05 17:16:43+01:00 local time"
+ <a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-13T17:10:37.967105+01:00.jpg">
+  <img src="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-13T17:10:37.967105+01:00.jpg"
+     alt="Irish Examiner at 2022-09-13 17:10:44+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-05T17:16:40.621978+01:00.jpg">September 5 at 5:16 PM</a></p>
+ <p><a href="https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-13T17:10:37.967105+01:00.jpg">September 13 at 5:10 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 110 hyperlink lists with the Internet Archive.
+The archiving routine has saved 125 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 4:06 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-11T16:06:30.184433+01:00.hyperlinks.json) |
-| [September 11 at 4:51 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-11T04:51:20.252363+01:00.hyperlinks.json) |
-| [September 10 at 4:03 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-10T16:03:35.131618+01:00.hyperlinks.json) |
-| [September 10 at 4:53 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-10T04:53:10.293491+01:00.hyperlinks.json) |
-| [September 9 at 5:24 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-09T17:24:44.654813+01:00.hyperlinks.json) |
-| [September 9 at 5:48 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-09T05:48:19.682312+01:00.hyperlinks.json) |
-| [September 8 at 4:27 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-08T16:27:25.330503+01:00.hyperlinks.json) |
-| [September 8 at 4:50 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-08T04:50:14.913507+01:00.hyperlinks.json) |
-| [September 7 at 4:46 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-07T16:46:06.470755+01:00.hyperlinks.json) |
-| [September 7 at 4:55 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-07T04:55:25.135231+01:00.hyperlinks.json) |
+| [September 19 at 5:04 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-19T17:04:01.635701+01:00.hyperlinks.json) |
+| [September 19 at 5:48 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-19T05:48:19.775920+01:00.hyperlinks.json) |
+| [September 18 at 6:20 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-18T06:20:13.257427+01:00.hyperlinks.json) |
+| [September 17 at 4:56 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-17T16:56:45.652408+01:00.hyperlinks.json) |
+| [September 17 at 5:31 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-17T05:31:20.142851+01:00.hyperlinks.json) |
+| [September 16 at 5:01 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-16T17:01:01.400311+01:00.hyperlinks.json) |
+| [September 16 at 6:24 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-16T06:24:28.971473+01:00.hyperlinks.json) |
+| [September 15 at 5:17 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-15T17:16:41.058698+01:00.hyperlinks.json) |
+| [September 15 at 6:23 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-15T06:23:02.234084+01:00.hyperlinks.json) |
+| [September 14 at 5:17 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-14T17:17:03.756272+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 110 accessibility trees with the Internet Archive.
+The archiving routine has saved 125 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 4:06 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-11T16:06:30.184433+01:00.accessibility.json) |
-| [September 11 at 4:51 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-11T04:51:20.252363+01:00.accessibility.json) |
-| [September 10 at 4:03 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-10T16:03:35.131618+01:00.accessibility.json) |
-| [September 10 at 4:53 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-10T04:53:10.293491+01:00.accessibility.json) |
-| [September 9 at 5:24 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-09T17:24:44.654813+01:00.accessibility.json) |
-| [September 9 at 5:48 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-09T05:48:19.682312+01:00.accessibility.json) |
-| [September 8 at 4:27 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-08T16:27:25.330503+01:00.accessibility.json) |
-| [September 8 at 4:50 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-08T04:50:14.913507+01:00.accessibility.json) |
-| [September 7 at 4:46 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-07T16:46:06.470755+01:00.accessibility.json) |
-| [September 7 at 4:55 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-07T04:55:25.135231+01:00.accessibility.json) |
+| [September 19 at 5:04 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-19T17:04:01.635701+01:00.accessibility.json) |
+| [September 19 at 5:48 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-19T05:48:19.775920+01:00.accessibility.json) |
+| [September 18 at 6:20 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-18T06:20:13.257427+01:00.accessibility.json) |
+| [September 17 at 4:56 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-17T16:56:45.652408+01:00.accessibility.json) |
+| [September 17 at 5:31 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-17T05:31:20.142851+01:00.accessibility.json) |
+| [September 16 at 5:01 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-16T17:01:01.400311+01:00.accessibility.json) |
+| [September 16 at 6:24 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-16T06:24:28.971473+01:00.accessibility.json) |
+| [September 15 at 5:16 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-15T17:16:41.058698+01:00.accessibility.json) |
+| [September 15 at 6:23 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-15T06:23:02.234084+01:00.accessibility.json) |
+| [September 14 at 5:17 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-14T17:17:03.756272+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 113 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 4:06 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-11T16:06:30.184433+01:00.lighthouse.json) |
-| [September 11 at 4:51 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-11T04:51:20.252363+01:00.lighthouse.json) |
-| [September 10 at 4:03 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-10T16:03:35.131618+01:00.lighthouse.json) |
-| [September 10 at 4:53 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-10T04:53:10.293491+01:00.lighthouse.json) |
-| [September 9 at 5:24 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-09T17:24:44.654813+01:00.lighthouse.json) |
-| [September 9 at 5:48 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-09T05:48:19.682312+01:00.lighthouse.json) |
-| [September 8 at 4:27 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-08T16:27:25.330503+01:00.lighthouse.json) |
-| [September 8 at 4:50 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-08T04:50:14.913507+01:00.lighthouse.json) |
-| [September 7 at 4:46 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-07T16:46:06.470755+01:00.lighthouse.json) |
-| [September 7 at 4:55 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-07T04:55:25.135231+01:00.lighthouse.json) |
+| [September 19 at 5:04 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-19T17:04:01.635701+01:00.lighthouse.json) |
+| [September 19 at 5:48 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-19T05:48:19.775920+01:00.lighthouse.json) |
+| [September 18 at 6:20 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-18T06:20:13.257427+01:00.lighthouse.json) |
+| [September 17 at 4:56 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-17T16:56:45.652408+01:00.lighthouse.json) |
+| [September 17 at 5:31 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-17T05:31:20.142851+01:00.lighthouse.json) |
+| [September 16 at 5:01 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-16T17:01:01.400311+01:00.lighthouse.json) |
+| [September 16 at 6:24 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-16T06:24:28.971473+01:00.lighthouse.json) |
+| [September 15 at 5:17 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-15T17:16:41.058698+01:00.lighthouse.json) |
+| [September 15 at 6:23 AM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-15T06:23:02.234084+01:00.lighthouse.json) |
+| [September 14 at 5:17 PM](https://archive.org/download/irishexaminer-2022/irishexaminer-2022-09-14T17:17:03.756272+01:00.lighthouse.json) |
 
 
 

@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 113 screenshots with the Internet Archive.
+The archiving routine has saved 129 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/kvue-2022/kvue-2022-09-10T19:13:07.290893-05:00.jpg">
-  <img src="https://archive.org/download/kvue-2022/kvue-2022-09-10T19:13:07.290893-05:00.jpg"
-     alt="KVUE at 2022-09-10 19:13:12-05:00 local time"
+ <a href="https://archive.org/download/kvue-2022/kvue-2022-09-19T07:54:22.351528-05:00.jpg">
+  <img src="https://archive.org/download/kvue-2022/kvue-2022-09-19T07:54:22.351528-05:00.jpg"
+     alt="KVUE at 2022-09-19 07:54:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-09-10T19:13:07.290893-05:00.jpg">September 10 at 7:13 PM</a></p>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-09-19T07:54:22.351528-05:00.jpg">September 19 at 7:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kvue-2022/kvue-2022-09-10T07:00:18.197348-05:00.jpg">
-  <img src="https://archive.org/download/kvue-2022/kvue-2022-09-10T07:00:18.197348-05:00.jpg"
-     alt="KVUE at 2022-09-10 07:00:25-05:00 local time"
+ <a href="https://archive.org/download/kvue-2022/kvue-2022-09-18T20:10:31.400826-05:00.jpg">
+  <img src="https://archive.org/download/kvue-2022/kvue-2022-09-18T20:10:31.400826-05:00.jpg"
+     alt="KVUE at 2022-09-18 20:10:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-09-10T07:00:18.197348-05:00.jpg">September 10 at 7:00 AM</a></p>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-09-18T20:10:31.400826-05:00.jpg">September 18 at 8:10 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kvue-2022/kvue-2022-09-09T19:05:41.775975-05:00.jpg">
-  <img src="https://archive.org/download/kvue-2022/kvue-2022-09-09T19:05:41.775975-05:00.jpg"
-     alt="KVUE at 2022-09-09 19:05:47-05:00 local time"
+ <a href="https://archive.org/download/kvue-2022/kvue-2022-09-18T06:59:37.148818-05:00.jpg">
+  <img src="https://archive.org/download/kvue-2022/kvue-2022-09-18T06:59:37.148818-05:00.jpg"
+     alt="KVUE at 2022-09-18 06:59:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-09-09T19:05:41.775975-05:00.jpg">September 9 at 7:05 PM</a></p>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-09-18T06:59:37.148818-05:00.jpg">September 18 at 6:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kvue-2022/kvue-2022-09-09T07:16:00.925863-05:00.jpg">
-  <img src="https://archive.org/download/kvue-2022/kvue-2022-09-09T07:16:00.925863-05:00.jpg"
-     alt="KVUE at 2022-09-09 07:16:07-05:00 local time"
+ <a href="https://archive.org/download/kvue-2022/kvue-2022-09-17T18:52:10.633095-05:00.jpg">
+  <img src="https://archive.org/download/kvue-2022/kvue-2022-09-17T18:52:10.633095-05:00.jpg"
+     alt="KVUE at 2022-09-17 18:52:15-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-09-09T07:16:00.925863-05:00.jpg">September 9 at 7:16 AM</a></p>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-09-17T18:52:10.633095-05:00.jpg">September 17 at 6:52 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kvue-2022/kvue-2022-09-08T19:08:26.307746-05:00.jpg">
-  <img src="https://archive.org/download/kvue-2022/kvue-2022-09-08T19:08:26.307746-05:00.jpg"
-     alt="KVUE at 2022-09-08 19:08:29-05:00 local time"
+ <a href="https://archive.org/download/kvue-2022/kvue-2022-09-17T07:01:14.244982-05:00.jpg">
+  <img src="https://archive.org/download/kvue-2022/kvue-2022-09-17T07:01:14.244982-05:00.jpg"
+     alt="KVUE at 2022-09-17 07:01:21-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-09-08T19:08:26.307746-05:00.jpg">September 8 at 7:08 PM</a></p>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-09-17T07:01:14.244982-05:00.jpg">September 17 at 7:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kvue-2022/kvue-2022-09-08T07:23:38.835210-05:00.jpg">
-  <img src="https://archive.org/download/kvue-2022/kvue-2022-09-08T07:23:38.835210-05:00.jpg"
-     alt="KVUE at 2022-09-08 07:23:54-05:00 local time"
+ <a href="https://archive.org/download/kvue-2022/kvue-2022-09-16T18:52:46.953072-05:00.jpg">
+  <img src="https://archive.org/download/kvue-2022/kvue-2022-09-16T18:52:46.953072-05:00.jpg"
+     alt="KVUE at 2022-09-16 18:52:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-09-08T07:23:38.835210-05:00.jpg">September 8 at 7:23 AM</a></p>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-09-16T18:52:46.953072-05:00.jpg">September 16 at 6:52 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kvue-2022/kvue-2022-09-07T18:55:53.274309-05:00.jpg">
-  <img src="https://archive.org/download/kvue-2022/kvue-2022-09-07T18:55:53.274309-05:00.jpg"
-     alt="KVUE at 2022-09-07 18:56:07-05:00 local time"
+ <a href="https://archive.org/download/kvue-2022/kvue-2022-09-16T07:01:11.455502-05:00.jpg">
+  <img src="https://archive.org/download/kvue-2022/kvue-2022-09-16T07:01:11.455502-05:00.jpg"
+     alt="KVUE at 2022-09-16 07:01:15-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-09-07T18:55:53.274309-05:00.jpg">September 7 at 6:56 PM</a></p>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-09-16T07:01:11.455502-05:00.jpg">September 16 at 7:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kvue-2022/kvue-2022-09-07T07:42:19.399600-05:00.jpg">
-  <img src="https://archive.org/download/kvue-2022/kvue-2022-09-07T07:42:19.399600-05:00.jpg"
-     alt="KVUE at 2022-09-07 07:42:24-05:00 local time"
+ <a href="https://archive.org/download/kvue-2022/kvue-2022-09-15T18:52:04.435613-05:00.jpg">
+  <img src="https://archive.org/download/kvue-2022/kvue-2022-09-15T18:52:04.435613-05:00.jpg"
+     alt="KVUE at 2022-09-15 18:52:09-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-09-07T07:42:19.399600-05:00.jpg">September 7 at 7:42 AM</a></p>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-09-15T18:52:04.435613-05:00.jpg">September 15 at 6:52 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kvue-2022/kvue-2022-09-06T19:10:36.770379-05:00.jpg">
-  <img src="https://archive.org/download/kvue-2022/kvue-2022-09-06T19:10:36.770379-05:00.jpg"
-     alt="KVUE at 2022-09-06 19:10:38-05:00 local time"
+ <a href="https://archive.org/download/kvue-2022/kvue-2022-09-15T07:02:36.817141-05:00.jpg">
+  <img src="https://archive.org/download/kvue-2022/kvue-2022-09-15T07:02:36.817141-05:00.jpg"
+     alt="KVUE at 2022-09-15 07:02:53-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-09-06T19:10:36.770379-05:00.jpg">September 6 at 7:10 PM</a></p>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-09-15T07:02:36.817141-05:00.jpg">September 15 at 7:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kvue-2022/kvue-2022-09-06T07:02:42.187577-05:00.jpg">
-  <img src="https://archive.org/download/kvue-2022/kvue-2022-09-06T07:02:42.187577-05:00.jpg"
-     alt="KVUE at 2022-09-06 07:02:48-05:00 local time"
+ <a href="https://archive.org/download/kvue-2022/kvue-2022-09-14T19:01:42.710845-05:00.jpg">
+  <img src="https://archive.org/download/kvue-2022/kvue-2022-09-14T19:01:42.710845-05:00.jpg"
+     alt="KVUE at 2022-09-14 19:01:58-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-09-06T07:02:42.187577-05:00.jpg">September 6 at 7:02 AM</a></p>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-09-14T19:01:42.710845-05:00.jpg">September 14 at 7:01 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kvue-2022/kvue-2022-09-05T18:58:44.294045-05:00.jpg">
-  <img src="https://archive.org/download/kvue-2022/kvue-2022-09-05T18:58:44.294045-05:00.jpg"
-     alt="KVUE at 2022-09-05 18:58:45-05:00 local time"
+ <a href="https://archive.org/download/kvue-2022/kvue-2022-09-14T07:03:13.505359-05:00.jpg">
+  <img src="https://archive.org/download/kvue-2022/kvue-2022-09-14T07:03:13.505359-05:00.jpg"
+     alt="KVUE at 2022-09-14 07:03:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-09-05T18:58:44.294045-05:00.jpg">September 5 at 6:58 PM</a></p>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-09-14T07:03:13.505359-05:00.jpg">September 14 at 7:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/kvue-2022/kvue-2022-09-05T07:20:26.537468-05:00.jpg">
-  <img src="https://archive.org/download/kvue-2022/kvue-2022-09-05T07:20:26.537468-05:00.jpg"
-     alt="KVUE at 2022-09-05 07:20:34-05:00 local time"
+ <a href="https://archive.org/download/kvue-2022/kvue-2022-09-13T18:56:52.466734-05:00.jpg">
+  <img src="https://archive.org/download/kvue-2022/kvue-2022-09-13T18:56:52.466734-05:00.jpg"
+     alt="KVUE at 2022-09-13 18:56:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kvue-2022/kvue-2022-09-05T07:20:26.537468-05:00.jpg">September 5 at 7:20 AM</a></p>
+ <p><a href="https://archive.org/download/kvue-2022/kvue-2022-09-13T18:56:52.466734-05:00.jpg">September 13 at 6:56 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 106 hyperlink lists with the Internet Archive.
+The archiving routine has saved 123 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 10 at 7:13 PM](https://archive.org/download/kvue-2022/kvue-2022-09-10T19:13:07.290893-05:00.hyperlinks.json) |
-| [September 10 at 7:00 AM](https://archive.org/download/kvue-2022/kvue-2022-09-10T07:00:18.197348-05:00.hyperlinks.json) |
-| [September 9 at 7:05 PM](https://archive.org/download/kvue-2022/kvue-2022-09-09T19:05:41.775975-05:00.hyperlinks.json) |
-| [September 9 at 7:16 AM](https://archive.org/download/kvue-2022/kvue-2022-09-09T07:16:00.925863-05:00.hyperlinks.json) |
-| [September 8 at 7:08 PM](https://archive.org/download/kvue-2022/kvue-2022-09-08T19:08:26.307746-05:00.hyperlinks.json) |
-| [September 8 at 7:23 AM](https://archive.org/download/kvue-2022/kvue-2022-09-08T07:23:38.835210-05:00.hyperlinks.json) |
-| [September 7 at 6:56 PM](https://archive.org/download/kvue-2022/kvue-2022-09-07T18:55:53.274309-05:00.hyperlinks.json) |
-| [September 7 at 7:42 AM](https://archive.org/download/kvue-2022/kvue-2022-09-07T07:42:19.399600-05:00.hyperlinks.json) |
-| [September 6 at 7:10 PM](https://archive.org/download/kvue-2022/kvue-2022-09-06T19:10:36.770379-05:00.hyperlinks.json) |
-| [September 5 at 6:58 PM](https://archive.org/download/kvue-2022/kvue-2022-09-05T18:58:44.294045-05:00.hyperlinks.json) |
+| [September 19 at 7:54 AM](https://archive.org/download/kvue-2022/kvue-2022-09-19T07:54:22.351528-05:00.hyperlinks.json) |
+| [September 18 at 8:10 PM](https://archive.org/download/kvue-2022/kvue-2022-09-18T20:10:31.400826-05:00.hyperlinks.json) |
+| [September 18 at 6:59 AM](https://archive.org/download/kvue-2022/kvue-2022-09-18T06:59:37.148818-05:00.hyperlinks.json) |
+| [September 17 at 6:52 PM](https://archive.org/download/kvue-2022/kvue-2022-09-17T18:52:10.633095-05:00.hyperlinks.json) |
+| [September 17 at 7:01 AM](https://archive.org/download/kvue-2022/kvue-2022-09-17T07:01:14.244982-05:00.hyperlinks.json) |
+| [September 16 at 6:52 PM](https://archive.org/download/kvue-2022/kvue-2022-09-16T18:52:46.953072-05:00.hyperlinks.json) |
+| [September 16 at 7:01 AM](https://archive.org/download/kvue-2022/kvue-2022-09-16T07:01:11.455502-05:00.hyperlinks.json) |
+| [September 15 at 6:52 PM](https://archive.org/download/kvue-2022/kvue-2022-09-15T18:52:04.435613-05:00.hyperlinks.json) |
+| [September 15 at 7:02 AM](https://archive.org/download/kvue-2022/kvue-2022-09-15T07:02:36.817141-05:00.hyperlinks.json) |
+| [September 14 at 7:02 PM](https://archive.org/download/kvue-2022/kvue-2022-09-14T19:01:42.710845-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 112 accessibility trees with the Internet Archive.
+The archiving routine has saved 129 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 10 at 7:13 PM](https://archive.org/download/kvue-2022/kvue-2022-09-10T19:13:07.290893-05:00.accessibility.json) |
-| [September 10 at 7:00 AM](https://archive.org/download/kvue-2022/kvue-2022-09-10T07:00:18.197348-05:00.accessibility.json) |
-| [September 9 at 7:05 PM](https://archive.org/download/kvue-2022/kvue-2022-09-09T19:05:41.775975-05:00.accessibility.json) |
-| [September 9 at 7:16 AM](https://archive.org/download/kvue-2022/kvue-2022-09-09T07:16:00.925863-05:00.accessibility.json) |
-| [September 8 at 7:08 PM](https://archive.org/download/kvue-2022/kvue-2022-09-08T19:08:26.307746-05:00.accessibility.json) |
-| [September 8 at 7:23 AM](https://archive.org/download/kvue-2022/kvue-2022-09-08T07:23:38.835210-05:00.accessibility.json) |
-| [September 7 at 6:56 PM](https://archive.org/download/kvue-2022/kvue-2022-09-07T18:55:53.274309-05:00.accessibility.json) |
-| [September 7 at 7:42 AM](https://archive.org/download/kvue-2022/kvue-2022-09-07T07:42:19.399600-05:00.accessibility.json) |
-| [September 6 at 7:10 PM](https://archive.org/download/kvue-2022/kvue-2022-09-06T19:10:36.770379-05:00.accessibility.json) |
-| [September 5 at 6:58 PM](https://archive.org/download/kvue-2022/kvue-2022-09-05T18:58:44.294045-05:00.accessibility.json) |
+| [September 19 at 7:54 AM](https://archive.org/download/kvue-2022/kvue-2022-09-19T07:54:22.351528-05:00.accessibility.json) |
+| [September 18 at 8:10 PM](https://archive.org/download/kvue-2022/kvue-2022-09-18T20:10:31.400826-05:00.accessibility.json) |
+| [September 18 at 6:59 AM](https://archive.org/download/kvue-2022/kvue-2022-09-18T06:59:37.148818-05:00.accessibility.json) |
+| [September 17 at 6:52 PM](https://archive.org/download/kvue-2022/kvue-2022-09-17T18:52:10.633095-05:00.accessibility.json) |
+| [September 17 at 7:01 AM](https://archive.org/download/kvue-2022/kvue-2022-09-17T07:01:14.244982-05:00.accessibility.json) |
+| [September 16 at 6:52 PM](https://archive.org/download/kvue-2022/kvue-2022-09-16T18:52:46.953072-05:00.accessibility.json) |
+| [September 16 at 7:01 AM](https://archive.org/download/kvue-2022/kvue-2022-09-16T07:01:11.455502-05:00.accessibility.json) |
+| [September 15 at 6:52 PM](https://archive.org/download/kvue-2022/kvue-2022-09-15T18:52:04.435613-05:00.accessibility.json) |
+| [September 15 at 7:02 AM](https://archive.org/download/kvue-2022/kvue-2022-09-15T07:02:36.817141-05:00.accessibility.json) |
+| [September 14 at 7:02 PM](https://archive.org/download/kvue-2022/kvue-2022-09-14T19:01:42.710845-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 99 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 116 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 10 at 7:13 PM](https://archive.org/download/kvue-2022/kvue-2022-09-10T19:13:07.290893-05:00.lighthouse.json) |
-| [September 10 at 7:00 AM](https://archive.org/download/kvue-2022/kvue-2022-09-10T07:00:18.197348-05:00.lighthouse.json) |
-| [September 9 at 7:05 PM](https://archive.org/download/kvue-2022/kvue-2022-09-09T19:05:41.775975-05:00.lighthouse.json) |
-| [September 9 at 7:16 AM](https://archive.org/download/kvue-2022/kvue-2022-09-09T07:16:00.925863-05:00.lighthouse.json) |
-| [September 8 at 7:08 PM](https://archive.org/download/kvue-2022/kvue-2022-09-08T19:08:26.307746-05:00.lighthouse.json) |
-| [September 8 at 7:24 AM](https://archive.org/download/kvue-2022/kvue-2022-09-08T07:23:38.835210-05:00.lighthouse.json) |
-| [September 7 at 6:56 PM](https://archive.org/download/kvue-2022/kvue-2022-09-07T18:55:53.274309-05:00.lighthouse.json) |
-| [September 7 at 7:42 AM](https://archive.org/download/kvue-2022/kvue-2022-09-07T07:42:19.399600-05:00.lighthouse.json) |
-| [September 6 at 7:10 PM](https://archive.org/download/kvue-2022/kvue-2022-09-06T19:10:36.770379-05:00.lighthouse.json) |
-| [September 5 at 6:58 PM](https://archive.org/download/kvue-2022/kvue-2022-09-05T18:58:44.294045-05:00.lighthouse.json) |
+| [September 19 at 7:54 AM](https://archive.org/download/kvue-2022/kvue-2022-09-19T07:54:22.351528-05:00.lighthouse.json) |
+| [September 18 at 8:10 PM](https://archive.org/download/kvue-2022/kvue-2022-09-18T20:10:31.400826-05:00.lighthouse.json) |
+| [September 18 at 6:59 AM](https://archive.org/download/kvue-2022/kvue-2022-09-18T06:59:37.148818-05:00.lighthouse.json) |
+| [September 17 at 6:52 PM](https://archive.org/download/kvue-2022/kvue-2022-09-17T18:52:10.633095-05:00.lighthouse.json) |
+| [September 17 at 7:01 AM](https://archive.org/download/kvue-2022/kvue-2022-09-17T07:01:14.244982-05:00.lighthouse.json) |
+| [September 16 at 6:52 PM](https://archive.org/download/kvue-2022/kvue-2022-09-16T18:52:46.953072-05:00.lighthouse.json) |
+| [September 16 at 7:01 AM](https://archive.org/download/kvue-2022/kvue-2022-09-16T07:01:11.455502-05:00.lighthouse.json) |
+| [September 15 at 6:52 PM](https://archive.org/download/kvue-2022/kvue-2022-09-15T18:52:04.435613-05:00.lighthouse.json) |
+| [September 15 at 7:02 AM](https://archive.org/download/kvue-2022/kvue-2022-09-15T07:02:36.817141-05:00.lighthouse.json) |
+| [September 14 at 7:02 PM](https://archive.org/download/kvue-2022/kvue-2022-09-14T19:01:42.710845-05:00.lighthouse.json) |
 
 
 

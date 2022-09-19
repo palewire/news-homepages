@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 32 screenshots with the Internet Archive.
+The archiving routine has saved 48 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-11T11:07:54.760546-04:00.jpg">
-  <img src="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-11T11:07:54.760546-04:00.jpg"
-     alt="Maine Monitor at 2022-09-11 11:07:58-04:00 local time"
+ <a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-19T13:33:33.390081-04:00.jpg">
+  <img src="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-19T13:33:33.390081-04:00.jpg"
+     alt="Maine Monitor at 2022-09-19 13:33:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-11T11:07:54.760546-04:00.jpg">September 11 at 11:07 AM</a></p>
+ <p><a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-19T13:33:33.390081-04:00.jpg">September 19 at 1:33 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-10T23:53:53.446999-04:00.jpg">
-  <img src="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-10T23:53:53.446999-04:00.jpg"
-     alt="Maine Monitor at 2022-09-10 23:53:54-04:00 local time"
+ <a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-19T02:03:08.516487-04:00.jpg">
+  <img src="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-19T02:03:08.516487-04:00.jpg"
+     alt="Maine Monitor at 2022-09-19 02:03:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-10T23:53:53.446999-04:00.jpg">September 10 at 11:53 PM</a></p>
+ <p><a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-19T02:03:08.516487-04:00.jpg">September 19 at 2:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-10T11:05:41.484545-04:00.jpg">
-  <img src="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-10T11:05:41.484545-04:00.jpg"
-     alt="Maine Monitor at 2022-09-10 11:05:43-04:00 local time"
+ <a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-18T13:26:06.660698-04:00.jpg">
+  <img src="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-18T13:26:06.660698-04:00.jpg"
+     alt="Maine Monitor at 2022-09-18 13:26:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-10T11:05:41.484545-04:00.jpg">September 10 at 11:05 AM</a></p>
+ <p><a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-18T13:26:06.660698-04:00.jpg">September 18 at 1:26 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-09T23:54:39.455508-04:00.jpg">
-  <img src="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-09T23:54:39.455508-04:00.jpg"
-     alt="Maine Monitor at 2022-09-09 23:54:41-04:00 local time"
+ <a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-18T01:23:23.460106-04:00.jpg">
+  <img src="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-18T01:23:23.460106-04:00.jpg"
+     alt="Maine Monitor at 2022-09-18 01:23:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-09T23:54:39.455508-04:00.jpg">September 9 at 11:54 PM</a></p>
+ <p><a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-18T01:23:23.460106-04:00.jpg">September 18 at 1:23 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-09T12:26:59.133872-04:00.jpg">
-  <img src="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-09T12:26:59.133872-04:00.jpg"
-     alt="Maine Monitor at 2022-09-09 12:27:00-04:00 local time"
+ <a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-17T11:58:58.872861-04:00.jpg">
+  <img src="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-17T11:58:58.872861-04:00.jpg"
+     alt="Maine Monitor at 2022-09-17 11:59:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-09T12:26:59.133872-04:00.jpg">September 9 at 12:27 PM</a></p>
+ <p><a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-17T11:58:58.872861-04:00.jpg">September 17 at 11:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-09T00:51:26.274623-04:00.jpg">
-  <img src="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-09T00:51:26.274623-04:00.jpg"
-     alt="Maine Monitor at 2022-09-09 00:51:27-04:00 local time"
+ <a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-17T00:33:38.730436-04:00.jpg">
+  <img src="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-17T00:33:38.730436-04:00.jpg"
+     alt="Maine Monitor at 2022-09-17 00:33:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-09T00:51:26.274623-04:00.jpg">September 9 at 12:51 AM</a></p>
+ <p><a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-17T00:33:38.730436-04:00.jpg">September 17 at 12:33 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-08T11:34:47.719263-04:00.jpg">
-  <img src="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-08T11:34:47.719263-04:00.jpg"
-     alt="Maine Monitor at 2022-09-08 11:34:50-04:00 local time"
+ <a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-16T12:05:24.753359-04:00.jpg">
+  <img src="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-16T12:05:24.753359-04:00.jpg"
+     alt="Maine Monitor at 2022-09-16 12:05:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-08T11:34:47.719263-04:00.jpg">September 8 at 11:34 AM</a></p>
+ <p><a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-16T12:05:24.753359-04:00.jpg">September 16 at 12:05 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-07T23:52:27.979061-04:00.jpg">
-  <img src="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-07T23:52:27.979061-04:00.jpg"
-     alt="Maine Monitor at 2022-09-07 23:52:29-04:00 local time"
+ <a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-16T01:27:07.911598-04:00.jpg">
+  <img src="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-16T01:27:07.911598-04:00.jpg"
+     alt="Maine Monitor at 2022-09-16 01:27:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-07T23:52:27.979061-04:00.jpg">September 7 at 11:52 PM</a></p>
+ <p><a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-16T01:27:07.911598-04:00.jpg">September 16 at 1:27 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-07T11:48:57.049383-04:00.jpg">
-  <img src="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-07T11:48:57.049383-04:00.jpg"
-     alt="Maine Monitor at 2022-09-07 11:48:58-04:00 local time"
+ <a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-15T12:26:58.851099-04:00.jpg">
+  <img src="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-15T12:26:58.851099-04:00.jpg"
+     alt="Maine Monitor at 2022-09-15 12:27:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-07T11:48:57.049383-04:00.jpg">September 7 at 11:48 AM</a></p>
+ <p><a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-15T12:26:58.851099-04:00.jpg">September 15 at 12:27 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-06T23:57:01.428765-04:00.jpg">
-  <img src="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-06T23:57:01.428765-04:00.jpg"
-     alt="Maine Monitor at 2022-09-06 23:57:03-04:00 local time"
+ <a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-15T01:25:20.905280-04:00.jpg">
+  <img src="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-15T01:25:20.905280-04:00.jpg"
+     alt="Maine Monitor at 2022-09-15 01:25:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-06T23:57:01.428765-04:00.jpg">September 6 at 11:57 PM</a></p>
+ <p><a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-15T01:25:20.905280-04:00.jpg">September 15 at 1:25 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-05T23:58:01.142042-04:00.jpg">
-  <img src="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-05T23:58:01.142042-04:00.jpg"
-     alt="Maine Monitor at 2022-09-05 23:58:02-04:00 local time"
+ <a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-14T12:25:44.102179-04:00.jpg">
+  <img src="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-14T12:25:44.102179-04:00.jpg"
+     alt="Maine Monitor at 2022-09-14 12:25:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-05T23:58:01.142042-04:00.jpg">September 5 at 11:58 PM</a></p>
+ <p><a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-14T12:25:44.102179-04:00.jpg">September 14 at 12:25 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-05T12:17:33.577730-04:00.jpg">
-  <img src="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-05T12:17:33.577730-04:00.jpg"
-     alt="Maine Monitor at 2022-09-05 12:17:36-04:00 local time"
+ <a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-14T00:45:51.785688-04:00.jpg">
+  <img src="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-14T00:45:51.785688-04:00.jpg"
+     alt="Maine Monitor at 2022-09-14 00:45:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-05T12:17:33.577730-04:00.jpg">September 5 at 12:17 PM</a></p>
+ <p><a href="https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-14T00:45:51.785688-04:00.jpg">September 14 at 12:45 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 32 hyperlink lists with the Internet Archive.
+The archiving routine has saved 48 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 11:08 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-11T11:07:54.760546-04:00.hyperlinks.json) |
-| [September 10 at 11:53 PM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-10T23:53:53.446999-04:00.hyperlinks.json) |
-| [September 10 at 11:05 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-10T11:05:41.484545-04:00.hyperlinks.json) |
-| [September 9 at 11:54 PM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-09T23:54:39.455508-04:00.hyperlinks.json) |
-| [September 9 at 12:27 PM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-09T12:26:59.133872-04:00.hyperlinks.json) |
-| [September 9 at 12:51 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-09T00:51:26.274623-04:00.hyperlinks.json) |
-| [September 8 at 11:34 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-08T11:34:47.719263-04:00.hyperlinks.json) |
-| [September 7 at 11:52 PM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-07T23:52:27.979061-04:00.hyperlinks.json) |
-| [September 7 at 11:49 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-07T11:48:57.049383-04:00.hyperlinks.json) |
-| [September 6 at 11:57 PM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-06T23:57:01.428765-04:00.hyperlinks.json) |
+| [September 19 at 1:33 PM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-19T13:33:33.390081-04:00.hyperlinks.json) |
+| [September 19 at 2:03 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-19T02:03:08.516487-04:00.hyperlinks.json) |
+| [September 18 at 1:26 PM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-18T13:26:06.660698-04:00.hyperlinks.json) |
+| [September 18 at 1:23 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-18T01:23:23.460106-04:00.hyperlinks.json) |
+| [September 17 at 11:59 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-17T11:58:58.872861-04:00.hyperlinks.json) |
+| [September 17 at 12:33 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-17T00:33:38.730436-04:00.hyperlinks.json) |
+| [September 16 at 12:05 PM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-16T12:05:24.753359-04:00.hyperlinks.json) |
+| [September 16 at 1:27 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-16T01:27:07.911598-04:00.hyperlinks.json) |
+| [September 15 at 12:27 PM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-15T12:26:58.851099-04:00.hyperlinks.json) |
+| [September 15 at 1:25 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-15T01:25:20.905280-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 32 accessibility trees with the Internet Archive.
+The archiving routine has saved 48 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 11:08 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-11T11:07:54.760546-04:00.accessibility.json) |
-| [September 10 at 11:53 PM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-10T23:53:53.446999-04:00.accessibility.json) |
-| [September 10 at 11:05 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-10T11:05:41.484545-04:00.accessibility.json) |
-| [September 9 at 11:54 PM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-09T23:54:39.455508-04:00.accessibility.json) |
-| [September 9 at 12:27 PM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-09T12:26:59.133872-04:00.accessibility.json) |
-| [September 9 at 12:51 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-09T00:51:26.274623-04:00.accessibility.json) |
-| [September 8 at 11:34 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-08T11:34:47.719263-04:00.accessibility.json) |
-| [September 7 at 11:52 PM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-07T23:52:27.979061-04:00.accessibility.json) |
-| [September 7 at 11:49 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-07T11:48:57.049383-04:00.accessibility.json) |
-| [September 6 at 11:57 PM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-06T23:57:01.428765-04:00.accessibility.json) |
+| [September 19 at 1:33 PM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-19T13:33:33.390081-04:00.accessibility.json) |
+| [September 19 at 2:03 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-19T02:03:08.516487-04:00.accessibility.json) |
+| [September 18 at 1:26 PM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-18T13:26:06.660698-04:00.accessibility.json) |
+| [September 18 at 1:23 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-18T01:23:23.460106-04:00.accessibility.json) |
+| [September 17 at 11:59 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-17T11:58:58.872861-04:00.accessibility.json) |
+| [September 17 at 12:33 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-17T00:33:38.730436-04:00.accessibility.json) |
+| [September 16 at 12:05 PM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-16T12:05:24.753359-04:00.accessibility.json) |
+| [September 16 at 1:27 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-16T01:27:07.911598-04:00.accessibility.json) |
+| [September 15 at 12:27 PM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-15T12:26:58.851099-04:00.accessibility.json) |
+| [September 15 at 1:25 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-15T01:25:20.905280-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 11:08 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-11T11:07:54.760546-04:00.lighthouse.json) |
-| [September 10 at 11:53 PM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-10T23:53:53.446999-04:00.lighthouse.json) |
-| [September 10 at 11:05 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-10T11:05:41.484545-04:00.lighthouse.json) |
-| [September 9 at 11:54 PM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-09T23:54:39.455508-04:00.lighthouse.json) |
-| [September 9 at 12:27 PM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-09T12:26:59.133872-04:00.lighthouse.json) |
-| [September 9 at 12:51 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-09T00:51:26.274623-04:00.lighthouse.json) |
-| [September 8 at 11:34 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-08T11:34:47.719263-04:00.lighthouse.json) |
-| [September 7 at 11:52 PM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-07T23:52:27.979061-04:00.lighthouse.json) |
-| [September 7 at 11:49 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-07T11:48:57.049383-04:00.lighthouse.json) |
-| [September 6 at 11:57 PM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-06T23:57:01.428765-04:00.lighthouse.json) |
+| [September 19 at 1:33 PM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-19T13:33:33.390081-04:00.lighthouse.json) |
+| [September 19 at 2:03 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-19T02:03:08.516487-04:00.lighthouse.json) |
+| [September 18 at 1:26 PM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-18T13:26:06.660698-04:00.lighthouse.json) |
+| [September 18 at 1:23 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-18T01:23:23.460106-04:00.lighthouse.json) |
+| [September 17 at 11:59 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-17T11:58:58.872861-04:00.lighthouse.json) |
+| [September 17 at 12:33 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-17T00:33:38.730436-04:00.lighthouse.json) |
+| [September 16 at 12:05 PM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-16T12:05:24.753359-04:00.lighthouse.json) |
+| [September 16 at 1:27 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-16T01:27:07.911598-04:00.lighthouse.json) |
+| [September 15 at 12:27 PM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-15T12:26:58.851099-04:00.lighthouse.json) |
+| [September 15 at 1:25 AM](https://archive.org/download/mainemonitor-2022/mainemonitor-2022-09-15T01:25:20.905280-04:00.lighthouse.json) |
 
 
 

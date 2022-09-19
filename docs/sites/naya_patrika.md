@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 97 screenshots with the Internet Archive.
+The archiving routine has saved 114 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-11T06:02:54.626010+05:45.jpg">
-  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-11T06:02:54.626010+05:45.jpg"
-     alt="Naya Patrika at 2022-09-11 06:03:00+05:45 local time"
+ <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-19T18:41:42.938825+05:45.jpg">
+  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-19T18:41:42.938825+05:45.jpg"
+     alt="Naya Patrika at 2022-09-19 18:41:44+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-11T06:02:54.626010+05:45.jpg">September 11 at 6:03 AM</a></p>
+ <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-19T18:41:42.938825+05:45.jpg">September 19 at 6:41 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-10T17:46:35.993696+05:45.jpg">
-  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-10T17:46:35.993696+05:45.jpg"
-     alt="Naya Patrika at 2022-09-10 17:46:42+05:45 local time"
+ <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-19T06:57:32.944898+05:45.jpg">
+  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-19T06:57:32.944898+05:45.jpg"
+     alt="Naya Patrika at 2022-09-19 06:57:35+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-10T17:46:35.993696+05:45.jpg">September 10 at 5:46 PM</a></p>
+ <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-19T06:57:32.944898+05:45.jpg">September 19 at 6:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-10T05:54:54.559263+05:45.jpg">
-  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-10T05:54:54.559263+05:45.jpg"
-     alt="Naya Patrika at 2022-09-10 05:54:57+05:45 local time"
+ <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-18T18:43:17.305382+05:45.jpg">
+  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-18T18:43:17.305382+05:45.jpg"
+     alt="Naya Patrika at 2022-09-18 18:43:18+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-10T05:54:54.559263+05:45.jpg">September 10 at 5:54 AM</a></p>
+ <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-18T18:43:17.305382+05:45.jpg">September 18 at 6:43 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-09T18:03:43.409097+05:45.jpg">
-  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-09T18:03:43.409097+05:45.jpg"
-     alt="Naya Patrika at 2022-09-09 18:03:48+05:45 local time"
+ <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-18T07:03:06.013564+05:45.jpg">
+  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-18T07:03:06.013564+05:45.jpg"
+     alt="Naya Patrika at 2022-09-18 07:03:07+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-09T18:03:43.409097+05:45.jpg">September 9 at 6:03 PM</a></p>
+ <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-18T07:03:06.013564+05:45.jpg">September 18 at 7:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-09T05:54:05.024738+05:45.jpg">
-  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-09T05:54:05.024738+05:45.jpg"
-     alt="Naya Patrika at 2022-09-09 05:54:12+05:45 local time"
+ <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-17T18:43:02.453239+05:45.jpg">
+  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-17T18:43:02.453239+05:45.jpg"
+     alt="Naya Patrika at 2022-09-17 18:43:14+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-09T05:54:05.024738+05:45.jpg">September 9 at 5:54 AM</a></p>
+ <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-17T18:43:02.453239+05:45.jpg">September 17 at 6:43 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-08T18:11:11.127048+05:45.jpg">
-  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-08T18:11:11.127048+05:45.jpg"
-     alt="Naya Patrika at 2022-09-08 18:11:21+05:45 local time"
+ <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-17T06:56:15.734973+05:45.jpg">
+  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-17T06:56:15.734973+05:45.jpg"
+     alt="Naya Patrika at 2022-09-17 06:56:17+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-08T18:11:11.127048+05:45.jpg">September 8 at 6:11 PM</a></p>
+ <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-17T06:56:15.734973+05:45.jpg">September 17 at 6:56 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-08T05:43:44.864388+05:45.jpg">
-  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-08T05:43:44.864388+05:45.jpg"
-     alt="Naya Patrika at 2022-09-08 05:43:49+05:45 local time"
+ <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-16T18:43:17.376223+05:45.jpg">
+  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-16T18:43:17.376223+05:45.jpg"
+     alt="Naya Patrika at 2022-09-16 18:43:19+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-08T05:43:44.864388+05:45.jpg">September 8 at 5:43 AM</a></p>
+ <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-16T18:43:17.376223+05:45.jpg">September 16 at 6:43 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-07T18:29:55.137357+05:45.jpg">
-  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-07T18:29:55.137357+05:45.jpg"
-     alt="Naya Patrika at 2022-09-07 18:29:59+05:45 local time"
+ <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-16T06:58:41.816845+05:45.jpg">
+  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-16T06:58:41.816845+05:45.jpg"
+     alt="Naya Patrika at 2022-09-16 06:58:50+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-07T18:29:55.137357+05:45.jpg">September 7 at 6:29 PM</a></p>
+ <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-16T06:58:41.816845+05:45.jpg">September 16 at 6:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-07T06:00:16.188535+05:45.jpg">
-  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-07T06:00:16.188535+05:45.jpg"
-     alt="Naya Patrika at 2022-09-07 06:00:25+05:45 local time"
+ <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-15T18:46:22.401871+05:45.jpg">
+  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-15T18:46:22.401871+05:45.jpg"
+     alt="Naya Patrika at 2022-09-15 18:46:23+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-07T06:00:16.188535+05:45.jpg">September 7 at 6:00 AM</a></p>
+ <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-15T18:46:22.401871+05:45.jpg">September 15 at 6:46 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-06T05:45:48.635429+05:45.jpg">
-  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-06T05:45:48.635429+05:45.jpg"
-     alt="Naya Patrika at 2022-09-06 05:45:53+05:45 local time"
+ <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-15T07:03:03.790685+05:45.jpg">
+  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-15T07:03:03.790685+05:45.jpg"
+     alt="Naya Patrika at 2022-09-15 07:03:08+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-06T05:45:48.635429+05:45.jpg">September 6 at 5:45 AM</a></p>
+ <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-15T07:03:03.790685+05:45.jpg">September 15 at 7:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-05T05:42:45.010456+05:45.jpg">
-  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-05T05:42:45.010456+05:45.jpg"
-     alt="Naya Patrika at 2022-09-05 05:42:54+05:45 local time"
+ <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-14T18:50:05.972556+05:45.jpg">
+  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-14T18:50:05.972556+05:45.jpg"
+     alt="Naya Patrika at 2022-09-14 18:50:11+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-05T05:42:45.010456+05:45.jpg">September 5 at 5:42 AM</a></p>
+ <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-14T18:50:05.972556+05:45.jpg">September 14 at 6:50 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-04T17:43:56.265065+05:45.jpg">
-  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-04T17:43:56.265065+05:45.jpg"
-     alt="Naya Patrika at 2022-09-04 17:43:59+05:45 local time"
+ <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-14T07:05:17.673120+05:45.jpg">
+  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-14T07:05:17.673120+05:45.jpg"
+     alt="Naya Patrika at 2022-09-14 07:05:19+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-04T17:43:56.265065+05:45.jpg">September 4 at 5:43 PM</a></p>
+ <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-14T07:05:17.673120+05:45.jpg">September 14 at 7:05 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 98 hyperlink lists with the Internet Archive.
+The archiving routine has saved 115 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 6:03 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-11T06:02:54.626010+05:45.hyperlinks.json) |
-| [September 10 at 5:46 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-10T17:46:35.993696+05:45.hyperlinks.json) |
-| [September 10 at 5:55 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-10T05:54:54.559263+05:45.hyperlinks.json) |
-| [September 9 at 6:03 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-09T18:03:43.409097+05:45.hyperlinks.json) |
-| [September 9 at 5:54 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-09T05:54:05.024738+05:45.hyperlinks.json) |
-| [September 8 at 6:11 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-08T18:11:11.127048+05:45.hyperlinks.json) |
-| [September 8 at 5:43 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-08T05:43:44.864388+05:45.hyperlinks.json) |
-| [September 7 at 6:30 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-07T18:29:55.137357+05:45.hyperlinks.json) |
-| [September 7 at 6:00 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-07T06:00:16.188535+05:45.hyperlinks.json) |
-| [September 6 at 5:45 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-06T05:45:48.635429+05:45.hyperlinks.json) |
+| [September 19 at 6:41 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-19T18:41:42.938825+05:45.hyperlinks.json) |
+| [September 19 at 6:57 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-19T06:57:32.944898+05:45.hyperlinks.json) |
+| [September 18 at 6:43 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-18T18:43:17.305382+05:45.hyperlinks.json) |
+| [September 18 at 7:03 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-18T07:03:06.013564+05:45.hyperlinks.json) |
+| [September 17 at 6:43 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-17T18:43:02.453239+05:45.hyperlinks.json) |
+| [September 17 at 6:56 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-17T06:56:15.734973+05:45.hyperlinks.json) |
+| [September 16 at 6:43 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-16T18:43:17.376223+05:45.hyperlinks.json) |
+| [September 16 at 6:58 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-16T06:58:41.816845+05:45.hyperlinks.json) |
+| [September 15 at 6:46 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-15T18:46:22.401871+05:45.hyperlinks.json) |
+| [September 15 at 7:03 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-15T07:03:03.790685+05:45.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 98 accessibility trees with the Internet Archive.
+The archiving routine has saved 115 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 6:03 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-11T06:02:54.626010+05:45.accessibility.json) |
-| [September 10 at 5:46 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-10T17:46:35.993696+05:45.accessibility.json) |
-| [September 10 at 5:54 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-10T05:54:54.559263+05:45.accessibility.json) |
-| [September 9 at 6:03 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-09T18:03:43.409097+05:45.accessibility.json) |
-| [September 9 at 5:54 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-09T05:54:05.024738+05:45.accessibility.json) |
-| [September 8 at 6:11 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-08T18:11:11.127048+05:45.accessibility.json) |
-| [September 8 at 5:43 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-08T05:43:44.864388+05:45.accessibility.json) |
-| [September 7 at 6:30 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-07T18:29:55.137357+05:45.accessibility.json) |
-| [September 7 at 6:00 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-07T06:00:16.188535+05:45.accessibility.json) |
-| [September 6 at 5:45 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-06T05:45:48.635429+05:45.accessibility.json) |
+| [September 19 at 6:41 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-19T18:41:42.938825+05:45.accessibility.json) |
+| [September 19 at 6:57 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-19T06:57:32.944898+05:45.accessibility.json) |
+| [September 18 at 6:43 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-18T18:43:17.305382+05:45.accessibility.json) |
+| [September 18 at 7:03 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-18T07:03:06.013564+05:45.accessibility.json) |
+| [September 17 at 6:43 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-17T18:43:02.453239+05:45.accessibility.json) |
+| [September 17 at 6:56 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-17T06:56:15.734973+05:45.accessibility.json) |
+| [September 16 at 6:43 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-16T18:43:17.376223+05:45.accessibility.json) |
+| [September 16 at 6:58 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-16T06:58:41.816845+05:45.accessibility.json) |
+| [September 15 at 6:46 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-15T18:46:22.401871+05:45.accessibility.json) |
+| [September 15 at 7:03 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-15T07:03:03.790685+05:45.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 115 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 6:03 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-11T06:02:54.626010+05:45.lighthouse.json) |
-| [September 10 at 5:46 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-10T17:46:35.993696+05:45.lighthouse.json) |
-| [September 10 at 5:55 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-10T05:54:54.559263+05:45.lighthouse.json) |
-| [September 9 at 6:03 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-09T18:03:43.409097+05:45.lighthouse.json) |
-| [September 9 at 5:54 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-09T05:54:05.024738+05:45.lighthouse.json) |
-| [September 8 at 6:11 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-08T18:11:11.127048+05:45.lighthouse.json) |
-| [September 8 at 5:43 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-08T05:43:44.864388+05:45.lighthouse.json) |
-| [September 7 at 6:30 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-07T18:29:55.137357+05:45.lighthouse.json) |
-| [September 7 at 6:00 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-07T06:00:16.188535+05:45.lighthouse.json) |
-| [September 6 at 5:45 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-06T05:45:48.635429+05:45.lighthouse.json) |
+| [September 19 at 6:41 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-19T18:41:42.938825+05:45.lighthouse.json) |
+| [September 19 at 6:57 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-19T06:57:32.944898+05:45.lighthouse.json) |
+| [September 18 at 6:43 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-18T18:43:17.305382+05:45.lighthouse.json) |
+| [September 18 at 7:03 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-18T07:03:06.013564+05:45.lighthouse.json) |
+| [September 17 at 6:43 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-17T18:43:02.453239+05:45.lighthouse.json) |
+| [September 17 at 6:56 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-17T06:56:15.734973+05:45.lighthouse.json) |
+| [September 16 at 6:43 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-16T18:43:17.376223+05:45.lighthouse.json) |
+| [September 16 at 6:58 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-16T06:58:41.816845+05:45.lighthouse.json) |
+| [September 15 at 6:46 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-15T18:46:22.401871+05:45.lighthouse.json) |
+| [September 15 at 7:03 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-09-15T07:03:03.790685+05:45.lighthouse.json) |
 
 
 

@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 158 screenshots with the Internet Archive.
+The archiving routine has saved 182 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-11T14:32:46.706450-04:00.jpg">
-  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-11T14:32:46.706450-04:00.jpg"
-     alt="ZeroHedge at 2022-09-11 14:32:49-04:00 local time"
+ <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-19T14:35:55.161093-04:00.jpg">
+  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-19T14:35:55.161093-04:00.jpg"
+     alt="ZeroHedge at 2022-09-19 14:35:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-11T14:32:46.706450-04:00.jpg">September 11 at 2:32 PM</a></p>
+ <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-19T14:35:55.161093-04:00.jpg">September 19 at 2:35 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-11T12:12:37.059332-04:00.jpg">
-  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-11T12:12:37.059332-04:00.jpg"
-     alt="ZeroHedge at 2022-09-11 12:12:41-04:00 local time"
+ <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-19T13:32:39.405786-04:00.jpg">
+  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-19T13:32:39.405786-04:00.jpg"
+     alt="ZeroHedge at 2022-09-19 13:32:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-11T12:12:37.059332-04:00.jpg">September 11 at 12:12 PM</a></p>
+ <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-19T13:32:39.405786-04:00.jpg">September 19 at 1:32 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-11T00:54:37.093368-04:00.jpg">
-  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-11T00:54:37.093368-04:00.jpg"
-     alt="ZeroHedge at 2022-09-11 00:54:38-04:00 local time"
+ <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-19T02:01:23.928335-04:00.jpg">
+  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-19T02:01:23.928335-04:00.jpg"
+     alt="ZeroHedge at 2022-09-19 02:01:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-11T00:54:37.093368-04:00.jpg">September 11 at 12:54 AM</a></p>
+ <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-19T02:01:23.928335-04:00.jpg">September 19 at 2:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-10T14:34:41.135000-04:00.jpg">
-  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-10T14:34:41.135000-04:00.jpg"
-     alt="ZeroHedge at 2022-09-10 14:34:43-04:00 local time"
+ <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-18T14:32:43.549278-04:00.jpg">
+  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-18T14:32:43.549278-04:00.jpg"
+     alt="ZeroHedge at 2022-09-18 14:32:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-10T14:34:41.135000-04:00.jpg">September 10 at 2:34 PM</a></p>
+ <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-18T14:32:43.549278-04:00.jpg">September 18 at 2:32 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-10T12:14:58.512251-04:00.jpg">
-  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-10T12:14:58.512251-04:00.jpg"
-     alt="ZeroHedge at 2022-09-10 12:14:59-04:00 local time"
+ <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-18T13:21:44.501967-04:00.jpg">
+  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-18T13:21:44.501967-04:00.jpg"
+     alt="ZeroHedge at 2022-09-18 13:21:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-10T12:14:58.512251-04:00.jpg">September 10 at 12:14 PM</a></p>
+ <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-18T13:21:44.501967-04:00.jpg">September 18 at 1:21 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-10T00:57:18.875714-04:00.jpg">
-  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-10T00:57:18.875714-04:00.jpg"
-     alt="ZeroHedge at 2022-09-10 00:57:20-04:00 local time"
+ <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-18T01:33:56.205618-04:00.jpg">
+  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-18T01:33:56.205618-04:00.jpg"
+     alt="ZeroHedge at 2022-09-18 01:33:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-10T00:57:18.875714-04:00.jpg">September 10 at 12:57 AM</a></p>
+ <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-18T01:33:56.205618-04:00.jpg">September 18 at 1:33 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-09T14:35:58.256399-04:00.jpg">
-  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-09T14:35:58.256399-04:00.jpg"
-     alt="ZeroHedge at 2022-09-09 14:36:01-04:00 local time"
+ <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-17T14:35:00.056303-04:00.jpg">
+  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-17T14:35:00.056303-04:00.jpg"
+     alt="ZeroHedge at 2022-09-17 14:35:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-09T14:35:58.256399-04:00.jpg">September 9 at 2:36 PM</a></p>
+ <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-17T14:35:00.056303-04:00.jpg">September 17 at 2:35 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-09T12:39:09.955981-04:00.jpg">
-  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-09T12:39:09.955981-04:00.jpg"
-     alt="ZeroHedge at 2022-09-09 12:39:19-04:00 local time"
+ <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-17T12:58:43.229933-04:00.jpg">
+  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-17T12:58:43.229933-04:00.jpg"
+     alt="ZeroHedge at 2022-09-17 12:58:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-09T12:39:09.955981-04:00.jpg">September 9 at 12:39 PM</a></p>
+ <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-17T12:58:43.229933-04:00.jpg">September 17 at 12:58 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-09T01:02:11.846337-04:00.jpg">
-  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-09T01:02:11.846337-04:00.jpg"
-     alt="ZeroHedge at 2022-09-09 01:02:13-04:00 local time"
+ <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-17T01:27:46.564862-04:00.jpg">
+  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-17T01:27:46.564862-04:00.jpg"
+     alt="ZeroHedge at 2022-09-17 01:27:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-09T01:02:11.846337-04:00.jpg">September 9 at 1:02 AM</a></p>
+ <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-17T01:27:46.564862-04:00.jpg">September 17 at 1:27 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-08T12:41:34.052331-04:00.jpg">
-  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-08T12:41:34.052331-04:00.jpg"
-     alt="ZeroHedge at 2022-09-08 12:41:51-04:00 local time"
+ <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-16T14:33:59.114445-04:00.jpg">
+  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-16T14:33:59.114445-04:00.jpg"
+     alt="ZeroHedge at 2022-09-16 14:34:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-08T12:41:34.052331-04:00.jpg">September 8 at 12:41 PM</a></p>
+ <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-16T14:33:59.114445-04:00.jpg">September 16 at 2:34 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-08T00:53:11.572885-04:00.jpg">
-  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-08T00:53:11.572885-04:00.jpg"
-     alt="ZeroHedge at 2022-09-08 00:53:22-04:00 local time"
+ <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-16T13:02:29.473697-04:00.jpg">
+  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-16T13:02:29.473697-04:00.jpg"
+     alt="ZeroHedge at 2022-09-16 13:02:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-08T00:53:11.572885-04:00.jpg">September 8 at 12:53 AM</a></p>
+ <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-16T13:02:29.473697-04:00.jpg">September 16 at 1:02 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-07T00:57:58.197857-04:00.jpg">
-  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-07T00:57:58.197857-04:00.jpg"
-     alt="ZeroHedge at 2022-09-07 00:58:04-04:00 local time"
+ <a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-16T01:36:51.993349-04:00.jpg">
+  <img src="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-16T01:36:51.993349-04:00.jpg"
+     alt="ZeroHedge at 2022-09-16 01:36:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-07T00:57:58.197857-04:00.jpg">September 7 at 12:58 AM</a></p>
+ <p><a href="https://archive.org/download/zerohedge-2022/zerohedge-2022-09-16T01:36:51.993349-04:00.jpg">September 16 at 1:36 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 162 hyperlink lists with the Internet Archive.
+The archiving routine has saved 186 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 2:32 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-11T14:32:46.706450-04:00.hyperlinks.json) |
-| [September 11 at 12:12 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-11T12:12:37.059332-04:00.hyperlinks.json) |
-| [September 11 at 12:54 AM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-11T00:54:37.093368-04:00.hyperlinks.json) |
-| [September 10 at 2:34 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-10T14:34:41.135000-04:00.hyperlinks.json) |
-| [September 10 at 12:15 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-10T12:14:58.512251-04:00.hyperlinks.json) |
-| [September 10 at 12:57 AM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-10T00:57:18.875714-04:00.hyperlinks.json) |
-| [September 9 at 2:36 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-09T14:35:58.256399-04:00.hyperlinks.json) |
-| [September 9 at 12:39 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-09T12:39:09.955981-04:00.hyperlinks.json) |
-| [September 9 at 1:02 AM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-09T01:02:11.846337-04:00.hyperlinks.json) |
-| [September 8 at 12:41 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-08T12:41:34.052331-04:00.hyperlinks.json) |
+| [September 19 at 2:36 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-19T14:35:55.161093-04:00.hyperlinks.json) |
+| [September 19 at 1:32 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-19T13:32:39.405786-04:00.hyperlinks.json) |
+| [September 19 at 2:01 AM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-19T02:01:23.928335-04:00.hyperlinks.json) |
+| [September 18 at 2:32 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-18T14:32:43.549278-04:00.hyperlinks.json) |
+| [September 18 at 1:21 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-18T13:21:44.501967-04:00.hyperlinks.json) |
+| [September 18 at 1:34 AM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-18T01:33:56.205618-04:00.hyperlinks.json) |
+| [September 17 at 2:35 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-17T14:35:00.056303-04:00.hyperlinks.json) |
+| [September 17 at 12:58 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-17T12:58:43.229933-04:00.hyperlinks.json) |
+| [September 17 at 1:27 AM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-17T01:27:46.564862-04:00.hyperlinks.json) |
+| [September 16 at 2:34 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-16T14:33:59.114445-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 161 accessibility trees with the Internet Archive.
+The archiving routine has saved 185 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 2:32 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-11T14:32:46.706450-04:00.accessibility.json) |
-| [September 11 at 12:12 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-11T12:12:37.059332-04:00.accessibility.json) |
-| [September 11 at 12:54 AM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-11T00:54:37.093368-04:00.accessibility.json) |
-| [September 10 at 2:34 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-10T14:34:41.135000-04:00.accessibility.json) |
-| [September 10 at 12:15 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-10T12:14:58.512251-04:00.accessibility.json) |
-| [September 10 at 12:57 AM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-10T00:57:18.875714-04:00.accessibility.json) |
-| [September 9 at 2:36 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-09T14:35:58.256399-04:00.accessibility.json) |
-| [September 9 at 12:39 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-09T12:39:09.955981-04:00.accessibility.json) |
-| [September 9 at 1:02 AM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-09T01:02:11.846337-04:00.accessibility.json) |
-| [September 8 at 12:41 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-08T12:41:34.052331-04:00.accessibility.json) |
+| [September 19 at 2:35 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-19T14:35:55.161093-04:00.accessibility.json) |
+| [September 19 at 1:32 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-19T13:32:39.405786-04:00.accessibility.json) |
+| [September 19 at 2:01 AM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-19T02:01:23.928335-04:00.accessibility.json) |
+| [September 18 at 2:32 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-18T14:32:43.549278-04:00.accessibility.json) |
+| [September 18 at 1:21 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-18T13:21:44.501967-04:00.accessibility.json) |
+| [September 18 at 1:33 AM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-18T01:33:56.205618-04:00.accessibility.json) |
+| [September 17 at 2:35 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-17T14:35:00.056303-04:00.accessibility.json) |
+| [September 17 at 12:58 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-17T12:58:43.229933-04:00.accessibility.json) |
+| [September 17 at 1:27 AM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-17T01:27:46.564862-04:00.accessibility.json) |
+| [September 16 at 2:34 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-16T14:33:59.114445-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 144 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 168 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 2:32 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-11T14:32:46.706450-04:00.lighthouse.json) |
-| [September 11 at 12:12 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-11T12:12:37.059332-04:00.lighthouse.json) |
-| [September 11 at 12:54 AM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-11T00:54:37.093368-04:00.lighthouse.json) |
-| [September 10 at 2:34 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-10T14:34:41.135000-04:00.lighthouse.json) |
-| [September 10 at 12:15 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-10T12:14:58.512251-04:00.lighthouse.json) |
-| [September 10 at 12:57 AM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-10T00:57:18.875714-04:00.lighthouse.json) |
-| [September 9 at 2:36 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-09T14:35:58.256399-04:00.lighthouse.json) |
-| [September 9 at 12:39 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-09T12:39:09.955981-04:00.lighthouse.json) |
-| [September 9 at 1:02 AM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-09T01:02:11.846337-04:00.lighthouse.json) |
-| [September 8 at 12:41 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-08T12:41:34.052331-04:00.lighthouse.json) |
+| [September 19 at 2:36 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-19T14:35:55.161093-04:00.lighthouse.json) |
+| [September 19 at 1:32 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-19T13:32:39.405786-04:00.lighthouse.json) |
+| [September 19 at 2:01 AM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-19T02:01:23.928335-04:00.lighthouse.json) |
+| [September 18 at 2:32 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-18T14:32:43.549278-04:00.lighthouse.json) |
+| [September 18 at 1:21 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-18T13:21:44.501967-04:00.lighthouse.json) |
+| [September 18 at 1:34 AM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-18T01:33:56.205618-04:00.lighthouse.json) |
+| [September 17 at 2:35 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-17T14:35:00.056303-04:00.lighthouse.json) |
+| [September 17 at 12:58 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-17T12:58:43.229933-04:00.lighthouse.json) |
+| [September 17 at 1:27 AM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-17T01:27:46.564862-04:00.lighthouse.json) |
+| [September 16 at 2:34 PM](https://archive.org/download/zerohedge-2022/zerohedge-2022-09-16T14:33:59.114445-04:00.lighthouse.json) |
 
 
 

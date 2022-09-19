@@ -148,7 +148,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 79 hyperlink lists with the Internet Archive.
+The archiving routine has saved 95 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -239,16 +239,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 10:06 AM](https://archive.org/download/andscape-2022/andscape-2022-09-11T10:06:31.602894-04:00.hyperlinks.json) |
-| [September 10 at 10:25 PM](https://archive.org/download/andscape-2022/andscape-2022-09-10T22:25:24.405450-04:00.hyperlinks.json) |
-| [September 10 at 10:07 AM](https://archive.org/download/andscape-2022/andscape-2022-09-10T10:07:03.879615-04:00.hyperlinks.json) |
-| [September 9 at 10:25 PM](https://archive.org/download/andscape-2022/andscape-2022-09-09T22:25:37.550949-04:00.hyperlinks.json) |
-| [September 9 at 10:26 AM](https://archive.org/download/andscape-2022/andscape-2022-09-09T10:26:10.701603-04:00.hyperlinks.json) |
-| [September 8 at 10:28 PM](https://archive.org/download/andscape-2022/andscape-2022-09-08T22:28:55.089469-04:00.hyperlinks.json) |
-| [September 8 at 10:16 AM](https://archive.org/download/andscape-2022/andscape-2022-09-08T10:16:16.755789-04:00.hyperlinks.json) |
-| [September 7 at 10:33 PM](https://archive.org/download/andscape-2022/andscape-2022-09-07T22:32:57.092737-04:00.hyperlinks.json) |
-| [September 7 at 11:27 AM](https://archive.org/download/andscape-2022/andscape-2022-09-07T11:27:40.200913-04:00.hyperlinks.json) |
-| [September 6 at 10:31 PM](https://archive.org/download/andscape-2022/andscape-2022-09-06T22:31:15.175350-04:00.hyperlinks.json) |
+| [September 19 at 10:57 AM](https://archive.org/download/andscape-2022/andscape-2022-09-19T10:57:09.964848-04:00.hyperlinks.json) |
+| [September 18 at 11:40 PM](https://archive.org/download/andscape-2022/andscape-2022-09-18T23:40:09.712326-04:00.hyperlinks.json) |
+| [September 18 at 9:59 AM](https://archive.org/download/andscape-2022/andscape-2022-09-18T09:59:34.492007-04:00.hyperlinks.json) |
+| [September 17 at 10:25 PM](https://archive.org/download/andscape-2022/andscape-2022-09-17T22:25:26.302338-04:00.hyperlinks.json) |
+| [September 17 at 9:57 AM](https://archive.org/download/andscape-2022/andscape-2022-09-17T09:57:38.629902-04:00.hyperlinks.json) |
+| [September 16 at 10:22 PM](https://archive.org/download/andscape-2022/andscape-2022-09-16T22:22:23.799710-04:00.hyperlinks.json) |
+| [September 16 at 10:03 AM](https://archive.org/download/andscape-2022/andscape-2022-09-16T10:03:46.210029-04:00.hyperlinks.json) |
+| [September 15 at 10:23 PM](https://archive.org/download/andscape-2022/andscape-2022-09-15T22:23:06.468090-04:00.hyperlinks.json) |
+| [September 15 at 10:09 AM](https://archive.org/download/andscape-2022/andscape-2022-09-15T10:09:41.350569-04:00.hyperlinks.json) |
+| [September 14 at 10:25 PM](https://archive.org/download/andscape-2022/andscape-2022-09-14T22:25:08.746633-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -276,7 +276,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 80 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 96 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -367,16 +367,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 10:06 AM](https://archive.org/download/andscape-2022/andscape-2022-09-11T10:06:31.602894-04:00.lighthouse.json) |
-| [September 10 at 10:25 PM](https://archive.org/download/andscape-2022/andscape-2022-09-10T22:25:24.405450-04:00.lighthouse.json) |
-| [September 10 at 10:07 AM](https://archive.org/download/andscape-2022/andscape-2022-09-10T10:07:03.879615-04:00.lighthouse.json) |
-| [September 9 at 10:25 PM](https://archive.org/download/andscape-2022/andscape-2022-09-09T22:25:37.550949-04:00.lighthouse.json) |
-| [September 9 at 10:26 AM](https://archive.org/download/andscape-2022/andscape-2022-09-09T10:26:10.701603-04:00.lighthouse.json) |
-| [September 8 at 10:28 PM](https://archive.org/download/andscape-2022/andscape-2022-09-08T22:28:55.089469-04:00.lighthouse.json) |
-| [September 8 at 10:16 AM](https://archive.org/download/andscape-2022/andscape-2022-09-08T10:16:16.755789-04:00.lighthouse.json) |
-| [September 7 at 10:33 PM](https://archive.org/download/andscape-2022/andscape-2022-09-07T22:32:57.092737-04:00.lighthouse.json) |
-| [September 7 at 11:27 AM](https://archive.org/download/andscape-2022/andscape-2022-09-07T11:27:40.200913-04:00.lighthouse.json) |
-| [September 6 at 10:31 PM](https://archive.org/download/andscape-2022/andscape-2022-09-06T22:31:15.175350-04:00.lighthouse.json) |
+| [September 19 at 10:57 AM](https://archive.org/download/andscape-2022/andscape-2022-09-19T10:57:09.964848-04:00.lighthouse.json) |
+| [September 18 at 11:40 PM](https://archive.org/download/andscape-2022/andscape-2022-09-18T23:40:09.712326-04:00.lighthouse.json) |
+| [September 18 at 9:59 AM](https://archive.org/download/andscape-2022/andscape-2022-09-18T09:59:34.492007-04:00.lighthouse.json) |
+| [September 17 at 10:25 PM](https://archive.org/download/andscape-2022/andscape-2022-09-17T22:25:26.302338-04:00.lighthouse.json) |
+| [September 17 at 9:57 AM](https://archive.org/download/andscape-2022/andscape-2022-09-17T09:57:38.629902-04:00.lighthouse.json) |
+| [September 16 at 10:22 PM](https://archive.org/download/andscape-2022/andscape-2022-09-16T22:22:23.799710-04:00.lighthouse.json) |
+| [September 16 at 10:03 AM](https://archive.org/download/andscape-2022/andscape-2022-09-16T10:03:46.210029-04:00.lighthouse.json) |
+| [September 15 at 10:23 PM](https://archive.org/download/andscape-2022/andscape-2022-09-15T22:23:06.468090-04:00.lighthouse.json) |
+| [September 15 at 10:09 AM](https://archive.org/download/andscape-2022/andscape-2022-09-15T10:09:41.350569-04:00.lighthouse.json) |
+| [September 14 at 10:25 PM](https://archive.org/download/andscape-2022/andscape-2022-09-14T22:25:08.746633-04:00.lighthouse.json) |
 
 
 

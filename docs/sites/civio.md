@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 196 screenshots with the Internet Archive.
+The archiving routine has saved 213 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/civio-2022/civio-2022-09-11T16:13:17.735846+02:00.jpg">
-  <img src="https://archive.org/download/civio-2022/civio-2022-09-11T16:13:17.735846+02:00.jpg"
-     alt="Civio at 2022-09-11 16:13:26+02:00 local time"
+ <a href="https://archive.org/download/civio-2022/civio-2022-09-19T16:59:48.636268+02:00.jpg">
+  <img src="https://archive.org/download/civio-2022/civio-2022-09-19T16:59:48.636268+02:00.jpg"
+     alt="Civio at 2022-09-19 16:59:49+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civio-2022/civio-2022-09-11T16:13:17.735846+02:00.jpg">September 11 at 4:13 PM</a></p>
+ <p><a href="https://archive.org/download/civio-2022/civio-2022-09-19T16:59:48.636268+02:00.jpg">September 19 at 4:59 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/civio-2022/civio-2022-09-11T04:27:21.119197+02:00.jpg">
-  <img src="https://archive.org/download/civio-2022/civio-2022-09-11T04:27:21.119197+02:00.jpg"
-     alt="Civio at 2022-09-11 04:27:28+02:00 local time"
+ <a href="https://archive.org/download/civio-2022/civio-2022-09-19T05:42:56.321644+02:00.jpg">
+  <img src="https://archive.org/download/civio-2022/civio-2022-09-19T05:42:56.321644+02:00.jpg"
+     alt="Civio at 2022-09-19 05:43:03+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civio-2022/civio-2022-09-11T04:27:21.119197+02:00.jpg">September 11 at 4:27 AM</a></p>
+ <p><a href="https://archive.org/download/civio-2022/civio-2022-09-19T05:42:56.321644+02:00.jpg">September 19 at 5:43 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/civio-2022/civio-2022-09-10T16:12:51.894950+02:00.jpg">
-  <img src="https://archive.org/download/civio-2022/civio-2022-09-10T16:12:51.894950+02:00.jpg"
-     alt="Civio at 2022-09-10 16:12:59+02:00 local time"
+ <a href="https://archive.org/download/civio-2022/civio-2022-09-18T16:51:14.190447+02:00.jpg">
+  <img src="https://archive.org/download/civio-2022/civio-2022-09-18T16:51:14.190447+02:00.jpg"
+     alt="Civio at 2022-09-18 16:51:21+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civio-2022/civio-2022-09-10T16:12:51.894950+02:00.jpg">September 10 at 4:12 PM</a></p>
+ <p><a href="https://archive.org/download/civio-2022/civio-2022-09-18T16:51:14.190447+02:00.jpg">September 18 at 4:51 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/civio-2022/civio-2022-09-10T04:27:27.769267+02:00.jpg">
-  <img src="https://archive.org/download/civio-2022/civio-2022-09-10T04:27:27.769267+02:00.jpg"
-     alt="Civio at 2022-09-10 04:27:29+02:00 local time"
+ <a href="https://archive.org/download/civio-2022/civio-2022-09-18T05:45:20.928783+02:00.jpg">
+  <img src="https://archive.org/download/civio-2022/civio-2022-09-18T05:45:20.928783+02:00.jpg"
+     alt="Civio at 2022-09-18 05:45:22+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civio-2022/civio-2022-09-10T04:27:27.769267+02:00.jpg">September 10 at 4:27 AM</a></p>
+ <p><a href="https://archive.org/download/civio-2022/civio-2022-09-18T05:45:20.928783+02:00.jpg">September 18 at 5:45 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/civio-2022/civio-2022-09-09T16:34:39.643417+02:00.jpg">
-  <img src="https://archive.org/download/civio-2022/civio-2022-09-09T16:34:39.643417+02:00.jpg"
-     alt="Civio at 2022-09-09 16:35:00+02:00 local time"
+ <a href="https://archive.org/download/civio-2022/civio-2022-09-17T16:48:31.027795+02:00.jpg">
+  <img src="https://archive.org/download/civio-2022/civio-2022-09-17T16:48:31.027795+02:00.jpg"
+     alt="Civio at 2022-09-17 16:48:39+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civio-2022/civio-2022-09-09T16:34:39.643417+02:00.jpg">September 9 at 4:35 PM</a></p>
+ <p><a href="https://archive.org/download/civio-2022/civio-2022-09-17T16:48:31.027795+02:00.jpg">September 17 at 4:48 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/civio-2022/civio-2022-09-09T04:30:22.468719+02:00.jpg">
-  <img src="https://archive.org/download/civio-2022/civio-2022-09-09T04:30:22.468719+02:00.jpg"
-     alt="Civio at 2022-09-09 04:30:41+02:00 local time"
+ <a href="https://archive.org/download/civio-2022/civio-2022-09-17T05:40:09.719467+02:00.jpg">
+  <img src="https://archive.org/download/civio-2022/civio-2022-09-17T05:40:09.719467+02:00.jpg"
+     alt="Civio at 2022-09-17 05:40:10+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civio-2022/civio-2022-09-09T04:30:22.468719+02:00.jpg">September 9 at 4:30 AM</a></p>
+ <p><a href="https://archive.org/download/civio-2022/civio-2022-09-17T05:40:09.719467+02:00.jpg">September 17 at 5:40 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/civio-2022/civio-2022-09-08T16:24:57.759311+02:00.jpg">
-  <img src="https://archive.org/download/civio-2022/civio-2022-09-08T16:24:57.759311+02:00.jpg"
-     alt="Civio at 2022-09-08 16:25:17+02:00 local time"
+ <a href="https://archive.org/download/civio-2022/civio-2022-09-16T16:58:47.884217+02:00.jpg">
+  <img src="https://archive.org/download/civio-2022/civio-2022-09-16T16:58:47.884217+02:00.jpg"
+     alt="Civio at 2022-09-16 16:58:49+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civio-2022/civio-2022-09-08T16:24:57.759311+02:00.jpg">September 8 at 4:25 PM</a></p>
+ <p><a href="https://archive.org/download/civio-2022/civio-2022-09-16T16:58:47.884217+02:00.jpg">September 16 at 4:58 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/civio-2022/civio-2022-09-08T04:33:50.251159+02:00.jpg">
-  <img src="https://archive.org/download/civio-2022/civio-2022-09-08T04:33:50.251159+02:00.jpg"
-     alt="Civio at 2022-09-08 04:33:57+02:00 local time"
+ <a href="https://archive.org/download/civio-2022/civio-2022-09-16T05:46:49.262537+02:00.jpg">
+  <img src="https://archive.org/download/civio-2022/civio-2022-09-16T05:46:49.262537+02:00.jpg"
+     alt="Civio at 2022-09-16 05:46:50+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civio-2022/civio-2022-09-08T04:33:50.251159+02:00.jpg">September 8 at 4:33 AM</a></p>
+ <p><a href="https://archive.org/download/civio-2022/civio-2022-09-16T05:46:49.262537+02:00.jpg">September 16 at 5:46 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/civio-2022/civio-2022-09-07T17:30:54.378605+02:00.jpg">
-  <img src="https://archive.org/download/civio-2022/civio-2022-09-07T17:30:54.378605+02:00.jpg"
-     alt="Civio at 2022-09-07 17:31:03+02:00 local time"
+ <a href="https://archive.org/download/civio-2022/civio-2022-09-15T18:07:32.432793+02:00.jpg">
+  <img src="https://archive.org/download/civio-2022/civio-2022-09-15T18:07:32.432793+02:00.jpg"
+     alt="Civio at 2022-09-15 18:07:35+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civio-2022/civio-2022-09-07T17:30:54.378605+02:00.jpg">September 7 at 5:31 PM</a></p>
+ <p><a href="https://archive.org/download/civio-2022/civio-2022-09-15T18:07:32.432793+02:00.jpg">September 15 at 6:07 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/civio-2022/civio-2022-09-07T04:33:30.498824+02:00.jpg">
-  <img src="https://archive.org/download/civio-2022/civio-2022-09-07T04:33:30.498824+02:00.jpg"
-     alt="Civio at 2022-09-07 04:33:38+02:00 local time"
+ <a href="https://archive.org/download/civio-2022/civio-2022-09-15T05:47:43.541286+02:00.jpg">
+  <img src="https://archive.org/download/civio-2022/civio-2022-09-15T05:47:43.541286+02:00.jpg"
+     alt="Civio at 2022-09-15 05:47:52+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civio-2022/civio-2022-09-07T04:33:30.498824+02:00.jpg">September 7 at 4:33 AM</a></p>
+ <p><a href="https://archive.org/download/civio-2022/civio-2022-09-15T05:47:43.541286+02:00.jpg">September 15 at 5:47 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/civio-2022/civio-2022-09-06T04:27:38.195823+02:00.jpg">
-  <img src="https://archive.org/download/civio-2022/civio-2022-09-06T04:27:38.195823+02:00.jpg"
-     alt="Civio at 2022-09-06 04:27:48+02:00 local time"
+ <a href="https://archive.org/download/civio-2022/civio-2022-09-14T17:09:31.557716+02:00.jpg">
+  <img src="https://archive.org/download/civio-2022/civio-2022-09-14T17:09:31.557716+02:00.jpg"
+     alt="Civio at 2022-09-14 17:09:41+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civio-2022/civio-2022-09-06T04:27:38.195823+02:00.jpg">September 6 at 4:27 AM</a></p>
+ <p><a href="https://archive.org/download/civio-2022/civio-2022-09-14T17:09:31.557716+02:00.jpg">September 14 at 5:09 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/civio-2022/civio-2022-09-05T16:24:25.253783+02:00.jpg">
-  <img src="https://archive.org/download/civio-2022/civio-2022-09-05T16:24:25.253783+02:00.jpg"
-     alt="Civio at 2022-09-05 16:24:31+02:00 local time"
+ <a href="https://archive.org/download/civio-2022/civio-2022-09-14T05:45:33.420740+02:00.jpg">
+  <img src="https://archive.org/download/civio-2022/civio-2022-09-14T05:45:33.420740+02:00.jpg"
+     alt="Civio at 2022-09-14 05:45:42+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/civio-2022/civio-2022-09-05T16:24:25.253783+02:00.jpg">September 5 at 4:24 PM</a></p>
+ <p><a href="https://archive.org/download/civio-2022/civio-2022-09-14T05:45:33.420740+02:00.jpg">September 14 at 5:45 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 197 hyperlink lists with the Internet Archive.
+The archiving routine has saved 214 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 4:13 PM](https://archive.org/download/civio-2022/civio-2022-09-11T16:13:17.735846+02:00.hyperlinks.json) |
-| [September 11 at 4:27 AM](https://archive.org/download/civio-2022/civio-2022-09-11T04:27:21.119197+02:00.hyperlinks.json) |
-| [September 10 at 4:13 PM](https://archive.org/download/civio-2022/civio-2022-09-10T16:12:51.894950+02:00.hyperlinks.json) |
-| [September 10 at 4:27 AM](https://archive.org/download/civio-2022/civio-2022-09-10T04:27:27.769267+02:00.hyperlinks.json) |
-| [September 9 at 4:35 PM](https://archive.org/download/civio-2022/civio-2022-09-09T16:34:39.643417+02:00.hyperlinks.json) |
-| [September 9 at 4:30 AM](https://archive.org/download/civio-2022/civio-2022-09-09T04:30:22.468719+02:00.hyperlinks.json) |
-| [September 8 at 4:25 PM](https://archive.org/download/civio-2022/civio-2022-09-08T16:24:57.759311+02:00.hyperlinks.json) |
-| [September 8 at 4:34 AM](https://archive.org/download/civio-2022/civio-2022-09-08T04:33:50.251159+02:00.hyperlinks.json) |
-| [September 7 at 5:31 PM](https://archive.org/download/civio-2022/civio-2022-09-07T17:30:54.378605+02:00.hyperlinks.json) |
-| [September 7 at 4:33 AM](https://archive.org/download/civio-2022/civio-2022-09-07T04:33:30.498824+02:00.hyperlinks.json) |
+| [September 19 at 4:59 PM](https://archive.org/download/civio-2022/civio-2022-09-19T16:59:48.636268+02:00.hyperlinks.json) |
+| [September 19 at 5:43 AM](https://archive.org/download/civio-2022/civio-2022-09-19T05:42:56.321644+02:00.hyperlinks.json) |
+| [September 18 at 4:51 PM](https://archive.org/download/civio-2022/civio-2022-09-18T16:51:14.190447+02:00.hyperlinks.json) |
+| [September 18 at 5:45 AM](https://archive.org/download/civio-2022/civio-2022-09-18T05:45:20.928783+02:00.hyperlinks.json) |
+| [September 17 at 4:48 PM](https://archive.org/download/civio-2022/civio-2022-09-17T16:48:31.027795+02:00.hyperlinks.json) |
+| [September 17 at 5:40 AM](https://archive.org/download/civio-2022/civio-2022-09-17T05:40:09.719467+02:00.hyperlinks.json) |
+| [September 16 at 4:58 PM](https://archive.org/download/civio-2022/civio-2022-09-16T16:58:47.884217+02:00.hyperlinks.json) |
+| [September 16 at 5:46 AM](https://archive.org/download/civio-2022/civio-2022-09-16T05:46:49.262537+02:00.hyperlinks.json) |
+| [September 15 at 6:07 PM](https://archive.org/download/civio-2022/civio-2022-09-15T18:07:32.432793+02:00.hyperlinks.json) |
+| [September 15 at 5:47 AM](https://archive.org/download/civio-2022/civio-2022-09-15T05:47:43.541286+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 197 accessibility trees with the Internet Archive.
+The archiving routine has saved 213 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 4:13 PM](https://archive.org/download/civio-2022/civio-2022-09-11T16:13:17.735846+02:00.accessibility.json) |
-| [September 11 at 4:27 AM](https://archive.org/download/civio-2022/civio-2022-09-11T04:27:21.119197+02:00.accessibility.json) |
-| [September 10 at 4:13 PM](https://archive.org/download/civio-2022/civio-2022-09-10T16:12:51.894950+02:00.accessibility.json) |
-| [September 10 at 4:27 AM](https://archive.org/download/civio-2022/civio-2022-09-10T04:27:27.769267+02:00.accessibility.json) |
-| [September 9 at 4:35 PM](https://archive.org/download/civio-2022/civio-2022-09-09T16:34:39.643417+02:00.accessibility.json) |
-| [September 9 at 4:30 AM](https://archive.org/download/civio-2022/civio-2022-09-09T04:30:22.468719+02:00.accessibility.json) |
-| [September 8 at 4:25 PM](https://archive.org/download/civio-2022/civio-2022-09-08T16:24:57.759311+02:00.accessibility.json) |
-| [September 8 at 4:33 AM](https://archive.org/download/civio-2022/civio-2022-09-08T04:33:50.251159+02:00.accessibility.json) |
-| [September 7 at 5:31 PM](https://archive.org/download/civio-2022/civio-2022-09-07T17:30:54.378605+02:00.accessibility.json) |
-| [September 7 at 4:33 AM](https://archive.org/download/civio-2022/civio-2022-09-07T04:33:30.498824+02:00.accessibility.json) |
+| [September 19 at 4:59 PM](https://archive.org/download/civio-2022/civio-2022-09-19T16:59:48.636268+02:00.accessibility.json) |
+| [September 19 at 5:43 AM](https://archive.org/download/civio-2022/civio-2022-09-19T05:42:56.321644+02:00.accessibility.json) |
+| [September 18 at 4:51 PM](https://archive.org/download/civio-2022/civio-2022-09-18T16:51:14.190447+02:00.accessibility.json) |
+| [September 18 at 5:45 AM](https://archive.org/download/civio-2022/civio-2022-09-18T05:45:20.928783+02:00.accessibility.json) |
+| [September 17 at 4:48 PM](https://archive.org/download/civio-2022/civio-2022-09-17T16:48:31.027795+02:00.accessibility.json) |
+| [September 17 at 5:40 AM](https://archive.org/download/civio-2022/civio-2022-09-17T05:40:09.719467+02:00.accessibility.json) |
+| [September 16 at 4:58 PM](https://archive.org/download/civio-2022/civio-2022-09-16T16:58:47.884217+02:00.accessibility.json) |
+| [September 16 at 5:46 AM](https://archive.org/download/civio-2022/civio-2022-09-16T05:46:49.262537+02:00.accessibility.json) |
+| [September 15 at 6:07 PM](https://archive.org/download/civio-2022/civio-2022-09-15T18:07:32.432793+02:00.accessibility.json) |
+| [September 15 at 5:47 AM](https://archive.org/download/civio-2022/civio-2022-09-15T05:47:43.541286+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 101 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 118 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 4:13 PM](https://archive.org/download/civio-2022/civio-2022-09-11T16:13:17.735846+02:00.lighthouse.json) |
-| [September 11 at 4:27 AM](https://archive.org/download/civio-2022/civio-2022-09-11T04:27:21.119197+02:00.lighthouse.json) |
-| [September 10 at 4:13 PM](https://archive.org/download/civio-2022/civio-2022-09-10T16:12:51.894950+02:00.lighthouse.json) |
-| [September 10 at 4:27 AM](https://archive.org/download/civio-2022/civio-2022-09-10T04:27:27.769267+02:00.lighthouse.json) |
-| [September 9 at 4:35 PM](https://archive.org/download/civio-2022/civio-2022-09-09T16:34:39.643417+02:00.lighthouse.json) |
-| [September 9 at 4:30 AM](https://archive.org/download/civio-2022/civio-2022-09-09T04:30:22.468719+02:00.lighthouse.json) |
-| [September 8 at 4:25 PM](https://archive.org/download/civio-2022/civio-2022-09-08T16:24:57.759311+02:00.lighthouse.json) |
-| [September 8 at 4:34 AM](https://archive.org/download/civio-2022/civio-2022-09-08T04:33:50.251159+02:00.lighthouse.json) |
-| [September 7 at 5:31 PM](https://archive.org/download/civio-2022/civio-2022-09-07T17:30:54.378605+02:00.lighthouse.json) |
-| [September 7 at 4:33 AM](https://archive.org/download/civio-2022/civio-2022-09-07T04:33:30.498824+02:00.lighthouse.json) |
+| [September 19 at 4:59 PM](https://archive.org/download/civio-2022/civio-2022-09-19T16:59:48.636268+02:00.lighthouse.json) |
+| [September 19 at 5:43 AM](https://archive.org/download/civio-2022/civio-2022-09-19T05:42:56.321644+02:00.lighthouse.json) |
+| [September 18 at 4:51 PM](https://archive.org/download/civio-2022/civio-2022-09-18T16:51:14.190447+02:00.lighthouse.json) |
+| [September 18 at 5:45 AM](https://archive.org/download/civio-2022/civio-2022-09-18T05:45:20.928783+02:00.lighthouse.json) |
+| [September 17 at 4:48 PM](https://archive.org/download/civio-2022/civio-2022-09-17T16:48:31.027795+02:00.lighthouse.json) |
+| [September 17 at 5:40 AM](https://archive.org/download/civio-2022/civio-2022-09-17T05:40:09.719467+02:00.lighthouse.json) |
+| [September 16 at 4:58 PM](https://archive.org/download/civio-2022/civio-2022-09-16T16:58:47.884217+02:00.lighthouse.json) |
+| [September 16 at 5:46 AM](https://archive.org/download/civio-2022/civio-2022-09-16T05:46:49.262537+02:00.lighthouse.json) |
+| [September 15 at 6:07 PM](https://archive.org/download/civio-2022/civio-2022-09-15T18:07:32.432793+02:00.lighthouse.json) |
+| [September 15 at 5:48 AM](https://archive.org/download/civio-2022/civio-2022-09-15T05:47:43.541286+02:00.lighthouse.json) |
 
 
 

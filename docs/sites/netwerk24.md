@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 38 screenshots with the Internet Archive.
+The archiving routine has saved 55 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-11T02:17:05.636364+02:00.jpg">
-  <img src="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-11T02:17:05.636364+02:00.jpg"
-     alt="Netwerk24 at 2022-09-11 02:17:08+02:00 local time"
+ <a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-19T14:56:01.768043+02:00.jpg">
+  <img src="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-19T14:56:01.768043+02:00.jpg"
+     alt="Netwerk24 at 2022-09-19 14:56:03+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-11T02:17:05.636364+02:00.jpg">September 11 at 2:17 AM</a></p>
+ <p><a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-19T14:56:01.768043+02:00.jpg">September 19 at 2:56 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-10T14:02:10.658363+02:00.jpg">
-  <img src="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-10T14:02:10.658363+02:00.jpg"
-     alt="Netwerk24 at 2022-09-10 14:02:13+02:00 local time"
+ <a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-19T03:12:43.227945+02:00.jpg">
+  <img src="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-19T03:12:43.227945+02:00.jpg"
+     alt="Netwerk24 at 2022-09-19 03:12:44+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-10T14:02:10.658363+02:00.jpg">September 10 at 2:02 PM</a></p>
+ <p><a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-19T03:12:43.227945+02:00.jpg">September 19 at 3:12 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-10T02:10:03.323849+02:00.jpg">
-  <img src="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-10T02:10:03.323849+02:00.jpg"
-     alt="Netwerk24 at 2022-09-10 02:10:07+02:00 local time"
+ <a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-18T14:57:30.803370+02:00.jpg">
+  <img src="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-18T14:57:30.803370+02:00.jpg"
+     alt="Netwerk24 at 2022-09-18 14:57:32+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-10T02:10:03.323849+02:00.jpg">September 10 at 2:10 AM</a></p>
+ <p><a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-18T14:57:30.803370+02:00.jpg">September 18 at 2:57 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-09T14:19:52.810372+02:00.jpg">
-  <img src="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-09T14:19:52.810372+02:00.jpg"
-     alt="Netwerk24 at 2022-09-09 14:19:56+02:00 local time"
+ <a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-18T03:17:39.246531+02:00.jpg">
+  <img src="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-18T03:17:39.246531+02:00.jpg"
+     alt="Netwerk24 at 2022-09-18 03:17:44+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-09T14:19:52.810372+02:00.jpg">September 9 at 2:19 PM</a></p>
+ <p><a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-18T03:17:39.246531+02:00.jpg">September 18 at 3:17 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-09T02:09:26.680842+02:00.jpg">
-  <img src="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-09T02:09:26.680842+02:00.jpg"
-     alt="Netwerk24 at 2022-09-09 02:09:32+02:00 local time"
+ <a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-17T14:58:18.595729+02:00.jpg">
+  <img src="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-17T14:58:18.595729+02:00.jpg"
+     alt="Netwerk24 at 2022-09-17 14:58:22+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-09T02:09:26.680842+02:00.jpg">September 9 at 2:09 AM</a></p>
+ <p><a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-17T14:58:18.595729+02:00.jpg">September 17 at 2:58 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-08T14:25:46.579074+02:00.jpg">
-  <img src="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-08T14:25:46.579074+02:00.jpg"
-     alt="Netwerk24 at 2022-09-08 14:25:50+02:00 local time"
+ <a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-17T03:11:31.344403+02:00.jpg">
+  <img src="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-17T03:11:31.344403+02:00.jpg"
+     alt="Netwerk24 at 2022-09-17 03:11:36+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-08T14:25:46.579074+02:00.jpg">September 8 at 2:25 PM</a></p>
+ <p><a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-17T03:11:31.344403+02:00.jpg">September 17 at 3:11 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-08T01:58:33.721733+02:00.jpg">
-  <img src="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-08T01:58:33.721733+02:00.jpg"
-     alt="Netwerk24 at 2022-09-08 01:58:35+02:00 local time"
+ <a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-16T14:58:29.081146+02:00.jpg">
+  <img src="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-16T14:58:29.081146+02:00.jpg"
+     alt="Netwerk24 at 2022-09-16 14:58:36+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-08T01:58:33.721733+02:00.jpg">September 8 at 1:58 AM</a></p>
+ <p><a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-16T14:58:29.081146+02:00.jpg">September 16 at 2:58 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-07T14:45:08.499251+02:00.jpg">
-  <img src="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-07T14:45:08.499251+02:00.jpg"
-     alt="Netwerk24 at 2022-09-07 14:45:10+02:00 local time"
+ <a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-16T03:14:33.133755+02:00.jpg">
+  <img src="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-16T03:14:33.133755+02:00.jpg"
+     alt="Netwerk24 at 2022-09-16 03:14:34+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-07T14:45:08.499251+02:00.jpg">September 7 at 2:45 PM</a></p>
+ <p><a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-16T03:14:33.133755+02:00.jpg">September 16 at 3:14 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-07T02:15:59.881318+02:00.jpg">
-  <img src="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-07T02:15:59.881318+02:00.jpg"
-     alt="Netwerk24 at 2022-09-07 02:16:06+02:00 local time"
+ <a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-15T15:00:40.405761+02:00.jpg">
+  <img src="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-15T15:00:40.405761+02:00.jpg"
+     alt="Netwerk24 at 2022-09-15 15:00:46+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-07T02:15:59.881318+02:00.jpg">September 7 at 2:16 AM</a></p>
+ <p><a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-15T15:00:40.405761+02:00.jpg">September 15 at 3:00 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-06T02:01:27.511635+02:00.jpg">
-  <img src="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-06T02:01:27.511635+02:00.jpg"
-     alt="Netwerk24 at 2022-09-06 02:01:30+02:00 local time"
+ <a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-15T03:17:39.354094+02:00.jpg">
+  <img src="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-15T03:17:39.354094+02:00.jpg"
+     alt="Netwerk24 at 2022-09-15 03:17:41+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-06T02:01:27.511635+02:00.jpg">September 6 at 2:01 AM</a></p>
+ <p><a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-15T03:17:39.354094+02:00.jpg">September 15 at 3:17 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-05T01:57:59.737083+02:00.jpg">
-  <img src="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-05T01:57:59.737083+02:00.jpg"
-     alt="Netwerk24 at 2022-09-05 01:58:02+02:00 local time"
+ <a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-14T15:05:16.168047+02:00.jpg">
+  <img src="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-14T15:05:16.168047+02:00.jpg"
+     alt="Netwerk24 at 2022-09-14 15:05:18+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-05T01:57:59.737083+02:00.jpg">September 5 at 1:58 AM</a></p>
+ <p><a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-14T15:05:16.168047+02:00.jpg">September 14 at 3:05 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-04T13:59:34.121880+02:00.jpg">
-  <img src="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-04T13:59:34.121880+02:00.jpg"
-     alt="Netwerk24 at 2022-09-04 13:59:37+02:00 local time"
+ <a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-14T03:20:14.527544+02:00.jpg">
+  <img src="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-14T03:20:14.527544+02:00.jpg"
+     alt="Netwerk24 at 2022-09-14 03:20:18+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-04T13:59:34.121880+02:00.jpg">September 4 at 1:59 PM</a></p>
+ <p><a href="https://archive.org/download/netwerk24-2022/netwerk24-2022-09-14T03:20:14.527544+02:00.jpg">September 14 at 3:20 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 39 hyperlink lists with the Internet Archive.
+The archiving routine has saved 56 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 2:17 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-11T02:17:05.636364+02:00.hyperlinks.json) |
-| [September 10 at 2:02 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-10T14:02:10.658363+02:00.hyperlinks.json) |
-| [September 10 at 2:10 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-10T02:10:03.323849+02:00.hyperlinks.json) |
-| [September 9 at 2:19 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-09T14:19:52.810372+02:00.hyperlinks.json) |
-| [September 9 at 2:09 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-09T02:09:26.680842+02:00.hyperlinks.json) |
-| [September 8 at 2:25 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-08T14:25:46.579074+02:00.hyperlinks.json) |
-| [September 8 at 1:58 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-08T01:58:33.721733+02:00.hyperlinks.json) |
-| [September 7 at 2:45 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-07T14:45:08.499251+02:00.hyperlinks.json) |
-| [September 7 at 2:16 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-07T02:15:59.881318+02:00.hyperlinks.json) |
-| [September 6 at 2:01 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-06T02:01:27.511635+02:00.hyperlinks.json) |
+| [September 19 at 2:56 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-19T14:56:01.768043+02:00.hyperlinks.json) |
+| [September 19 at 3:12 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-19T03:12:43.227945+02:00.hyperlinks.json) |
+| [September 18 at 2:57 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-18T14:57:30.803370+02:00.hyperlinks.json) |
+| [September 18 at 3:17 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-18T03:17:39.246531+02:00.hyperlinks.json) |
+| [September 17 at 2:58 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-17T14:58:18.595729+02:00.hyperlinks.json) |
+| [September 17 at 3:11 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-17T03:11:31.344403+02:00.hyperlinks.json) |
+| [September 16 at 2:58 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-16T14:58:29.081146+02:00.hyperlinks.json) |
+| [September 16 at 3:14 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-16T03:14:33.133755+02:00.hyperlinks.json) |
+| [September 15 at 3:00 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-15T15:00:40.405761+02:00.hyperlinks.json) |
+| [September 15 at 3:17 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-15T03:17:39.354094+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 39 accessibility trees with the Internet Archive.
+The archiving routine has saved 56 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 2:17 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-11T02:17:05.636364+02:00.accessibility.json) |
-| [September 10 at 2:02 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-10T14:02:10.658363+02:00.accessibility.json) |
-| [September 10 at 2:10 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-10T02:10:03.323849+02:00.accessibility.json) |
-| [September 9 at 2:19 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-09T14:19:52.810372+02:00.accessibility.json) |
-| [September 9 at 2:09 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-09T02:09:26.680842+02:00.accessibility.json) |
-| [September 8 at 2:25 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-08T14:25:46.579074+02:00.accessibility.json) |
-| [September 8 at 1:58 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-08T01:58:33.721733+02:00.accessibility.json) |
-| [September 7 at 2:45 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-07T14:45:08.499251+02:00.accessibility.json) |
-| [September 7 at 2:16 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-07T02:15:59.881318+02:00.accessibility.json) |
-| [September 6 at 2:01 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-06T02:01:27.511635+02:00.accessibility.json) |
+| [September 19 at 2:56 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-19T14:56:01.768043+02:00.accessibility.json) |
+| [September 19 at 3:12 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-19T03:12:43.227945+02:00.accessibility.json) |
+| [September 18 at 2:57 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-18T14:57:30.803370+02:00.accessibility.json) |
+| [September 18 at 3:17 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-18T03:17:39.246531+02:00.accessibility.json) |
+| [September 17 at 2:58 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-17T14:58:18.595729+02:00.accessibility.json) |
+| [September 17 at 3:11 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-17T03:11:31.344403+02:00.accessibility.json) |
+| [September 16 at 2:58 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-16T14:58:29.081146+02:00.accessibility.json) |
+| [September 16 at 3:14 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-16T03:14:33.133755+02:00.accessibility.json) |
+| [September 15 at 3:00 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-15T15:00:40.405761+02:00.accessibility.json) |
+| [September 15 at 3:17 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-15T03:17:39.354094+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 56 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 2:17 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-11T02:17:05.636364+02:00.lighthouse.json) |
-| [September 10 at 2:02 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-10T14:02:10.658363+02:00.lighthouse.json) |
-| [September 10 at 2:10 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-10T02:10:03.323849+02:00.lighthouse.json) |
-| [September 9 at 2:20 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-09T14:19:52.810372+02:00.lighthouse.json) |
-| [September 9 at 2:09 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-09T02:09:26.680842+02:00.lighthouse.json) |
-| [September 8 at 2:25 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-08T14:25:46.579074+02:00.lighthouse.json) |
-| [September 8 at 1:58 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-08T01:58:33.721733+02:00.lighthouse.json) |
-| [September 7 at 2:45 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-07T14:45:08.499251+02:00.lighthouse.json) |
-| [September 7 at 2:16 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-07T02:15:59.881318+02:00.lighthouse.json) |
-| [September 6 at 2:01 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-06T02:01:27.511635+02:00.lighthouse.json) |
+| [September 19 at 2:56 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-19T14:56:01.768043+02:00.lighthouse.json) |
+| [September 19 at 3:12 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-19T03:12:43.227945+02:00.lighthouse.json) |
+| [September 18 at 2:57 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-18T14:57:30.803370+02:00.lighthouse.json) |
+| [September 18 at 3:17 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-18T03:17:39.246531+02:00.lighthouse.json) |
+| [September 17 at 2:58 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-17T14:58:18.595729+02:00.lighthouse.json) |
+| [September 17 at 3:11 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-17T03:11:31.344403+02:00.lighthouse.json) |
+| [September 16 at 2:58 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-16T14:58:29.081146+02:00.lighthouse.json) |
+| [September 16 at 3:14 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-16T03:14:33.133755+02:00.lighthouse.json) |
+| [September 15 at 3:00 PM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-15T15:00:40.405761+02:00.lighthouse.json) |
+| [September 15 at 3:17 AM](https://archive.org/download/netwerk24-2022/netwerk24-2022-09-15T03:17:39.354094+02:00.lighthouse.json) |
 
 
 

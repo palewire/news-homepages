@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 81 screenshots with the Internet Archive.
+The archiving routine has saved 97 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-11T10:17:29.557883-04:00.jpg">
-  <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-11T10:17:29.557883-04:00.jpg"
-     alt="WDRB News at 2022-09-11 10:17:34-04:00 local time"
+ <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-19T11:02:00.131098-04:00.jpg">
+  <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-19T11:02:00.131098-04:00.jpg"
+     alt="WDRB News at 2022-09-19 11:02:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-11T10:17:29.557883-04:00.jpg">September 11 at 10:17 AM</a></p>
+ <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-19T11:02:00.131098-04:00.jpg">September 19 at 11:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-10T22:31:37.810080-04:00.jpg">
-  <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-10T22:31:37.810080-04:00.jpg"
-     alt="WDRB News at 2022-09-10 22:31:42-04:00 local time"
+ <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-18T23:43:46.044515-04:00.jpg">
+  <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-18T23:43:46.044515-04:00.jpg"
+     alt="WDRB News at 2022-09-18 23:43:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-10T22:31:37.810080-04:00.jpg">September 10 at 10:31 PM</a></p>
+ <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-18T23:43:46.044515-04:00.jpg">September 18 at 11:43 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-10T10:16:26.425621-04:00.jpg">
-  <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-10T10:16:26.425621-04:00.jpg"
-     alt="WDRB News at 2022-09-10 10:16:30-04:00 local time"
+ <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-18T10:03:49.248062-04:00.jpg">
+  <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-18T10:03:49.248062-04:00.jpg"
+     alt="WDRB News at 2022-09-18 10:03:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-10T10:16:26.425621-04:00.jpg">September 10 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-18T10:03:49.248062-04:00.jpg">September 18 at 10:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-09T22:31:25.649791-04:00.jpg">
-  <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-09T22:31:25.649791-04:00.jpg"
-     alt="WDRB News at 2022-09-09 22:31:31-04:00 local time"
+ <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-17T22:29:02.464969-04:00.jpg">
+  <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-17T22:29:02.464969-04:00.jpg"
+     alt="WDRB News at 2022-09-17 22:29:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-09T22:31:25.649791-04:00.jpg">September 9 at 10:31 PM</a></p>
+ <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-17T22:29:02.464969-04:00.jpg">September 17 at 10:29 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-09T10:39:01.726644-04:00.jpg">
-  <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-09T10:39:01.726644-04:00.jpg"
-     alt="WDRB News at 2022-09-09 10:39:10-04:00 local time"
+ <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-17T10:01:54.954355-04:00.jpg">
+  <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-17T10:01:54.954355-04:00.jpg"
+     alt="WDRB News at 2022-09-17 10:02:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-09T10:39:01.726644-04:00.jpg">September 9 at 10:39 AM</a></p>
+ <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-17T10:01:54.954355-04:00.jpg">September 17 at 10:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-08T22:34:05.274680-04:00.jpg">
-  <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-08T22:34:05.274680-04:00.jpg"
-     alt="WDRB News at 2022-09-08 22:34:08-04:00 local time"
+ <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-16T22:27:02.015552-04:00.jpg">
+  <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-16T22:27:02.015552-04:00.jpg"
+     alt="WDRB News at 2022-09-16 22:27:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-08T22:34:05.274680-04:00.jpg">September 8 at 10:34 PM</a></p>
+ <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-16T22:27:02.015552-04:00.jpg">September 16 at 10:27 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-08T10:29:40.128174-04:00.jpg">
-  <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-08T10:29:40.128174-04:00.jpg"
-     alt="WDRB News at 2022-09-08 10:29:43-04:00 local time"
+ <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-16T10:08:02.100051-04:00.jpg">
+  <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-16T10:08:02.100051-04:00.jpg"
+     alt="WDRB News at 2022-09-16 10:08:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-08T10:29:40.128174-04:00.jpg">September 8 at 10:29 AM</a></p>
+ <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-16T10:08:02.100051-04:00.jpg">September 16 at 10:08 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-07T22:38:57.732750-04:00.jpg">
-  <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-07T22:38:57.732750-04:00.jpg"
-     alt="WDRB News at 2022-09-07 22:39:02-04:00 local time"
+ <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-15T22:27:54.491485-04:00.jpg">
+  <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-15T22:27:54.491485-04:00.jpg"
+     alt="WDRB News at 2022-09-15 22:27:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-07T22:38:57.732750-04:00.jpg">September 7 at 10:39 PM</a></p>
+ <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-15T22:27:54.491485-04:00.jpg">September 15 at 10:27 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-07T11:34:42.674884-04:00.jpg">
-  <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-07T11:34:42.674884-04:00.jpg"
-     alt="WDRB News at 2022-09-07 11:34:46-04:00 local time"
+ <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-15T10:14:50.897474-04:00.jpg">
+  <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-15T10:14:50.897474-04:00.jpg"
+     alt="WDRB News at 2022-09-15 10:14:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-07T11:34:42.674884-04:00.jpg">September 7 at 11:34 AM</a></p>
+ <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-15T10:14:50.897474-04:00.jpg">September 15 at 10:14 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-06T22:38:06.998630-04:00.jpg">
-  <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-06T22:38:06.998630-04:00.jpg"
-     alt="WDRB News at 2022-09-06 22:38:11-04:00 local time"
+ <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-14T22:29:32.544108-04:00.jpg">
+  <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-14T22:29:32.544108-04:00.jpg"
+     alt="WDRB News at 2022-09-14 22:29:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-06T22:38:06.998630-04:00.jpg">September 6 at 10:38 PM</a></p>
+ <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-14T22:29:32.544108-04:00.jpg">September 14 at 10:29 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-05T22:31:40.575431-04:00.jpg">
-  <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-05T22:31:40.575431-04:00.jpg"
-     alt="WDRB News at 2022-09-05 22:31:45-04:00 local time"
+ <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-14T10:15:18.129311-04:00.jpg">
+  <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-14T10:15:18.129311-04:00.jpg"
+     alt="WDRB News at 2022-09-14 10:15:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-05T22:31:40.575431-04:00.jpg">September 5 at 10:31 PM</a></p>
+ <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-14T10:15:18.129311-04:00.jpg">September 14 at 10:15 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-05T10:27:11.604921-04:00.jpg">
-  <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-05T10:27:11.604921-04:00.jpg"
-     alt="WDRB News at 2022-09-05 10:27:15-04:00 local time"
+ <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-13T22:27:39.354129-04:00.jpg">
+  <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-13T22:27:39.354129-04:00.jpg"
+     alt="WDRB News at 2022-09-13 22:27:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-05T10:27:11.604921-04:00.jpg">September 5 at 10:27 AM</a></p>
+ <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-13T22:27:39.354129-04:00.jpg">September 13 at 10:27 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 83 hyperlink lists with the Internet Archive.
+The archiving routine has saved 99 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 10:17 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-11T10:17:29.557883-04:00.hyperlinks.json) |
-| [September 10 at 10:31 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-10T22:31:37.810080-04:00.hyperlinks.json) |
-| [September 10 at 10:16 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-10T10:16:26.425621-04:00.hyperlinks.json) |
-| [September 9 at 10:31 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-09T22:31:25.649791-04:00.hyperlinks.json) |
-| [September 9 at 10:39 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-09T10:39:01.726644-04:00.hyperlinks.json) |
-| [September 8 at 10:34 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-08T22:34:05.274680-04:00.hyperlinks.json) |
-| [September 8 at 10:29 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-08T10:29:40.128174-04:00.hyperlinks.json) |
-| [September 7 at 10:39 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-07T22:38:57.732750-04:00.hyperlinks.json) |
-| [September 7 at 11:34 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-07T11:34:42.674884-04:00.hyperlinks.json) |
-| [September 6 at 10:38 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-06T22:38:06.998630-04:00.hyperlinks.json) |
+| [September 19 at 11:02 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-19T11:02:00.131098-04:00.hyperlinks.json) |
+| [September 18 at 11:43 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-18T23:43:46.044515-04:00.hyperlinks.json) |
+| [September 18 at 10:03 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-18T10:03:49.248062-04:00.hyperlinks.json) |
+| [September 17 at 10:29 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-17T22:29:02.464969-04:00.hyperlinks.json) |
+| [September 17 at 10:02 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-17T10:01:54.954355-04:00.hyperlinks.json) |
+| [September 16 at 10:27 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-16T22:27:02.015552-04:00.hyperlinks.json) |
+| [September 16 at 10:08 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-16T10:08:02.100051-04:00.hyperlinks.json) |
+| [September 15 at 10:28 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-15T22:27:54.491485-04:00.hyperlinks.json) |
+| [September 15 at 10:15 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-15T10:14:50.897474-04:00.hyperlinks.json) |
+| [September 14 at 10:29 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-14T22:29:32.544108-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 84 accessibility trees with the Internet Archive.
+The archiving routine has saved 100 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 10:17 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-11T10:17:29.557883-04:00.accessibility.json) |
-| [September 10 at 10:31 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-10T22:31:37.810080-04:00.accessibility.json) |
-| [September 10 at 10:16 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-10T10:16:26.425621-04:00.accessibility.json) |
-| [September 9 at 10:31 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-09T22:31:25.649791-04:00.accessibility.json) |
-| [September 9 at 10:39 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-09T10:39:01.726644-04:00.accessibility.json) |
-| [September 8 at 10:34 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-08T22:34:05.274680-04:00.accessibility.json) |
-| [September 8 at 10:29 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-08T10:29:40.128174-04:00.accessibility.json) |
-| [September 7 at 10:39 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-07T22:38:57.732750-04:00.accessibility.json) |
-| [September 7 at 11:34 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-07T11:34:42.674884-04:00.accessibility.json) |
-| [September 6 at 10:38 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-06T22:38:06.998630-04:00.accessibility.json) |
+| [September 19 at 11:02 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-19T11:02:00.131098-04:00.accessibility.json) |
+| [September 18 at 11:43 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-18T23:43:46.044515-04:00.accessibility.json) |
+| [September 18 at 10:03 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-18T10:03:49.248062-04:00.accessibility.json) |
+| [September 17 at 10:29 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-17T22:29:02.464969-04:00.accessibility.json) |
+| [September 17 at 10:02 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-17T10:01:54.954355-04:00.accessibility.json) |
+| [September 16 at 10:27 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-16T22:27:02.015552-04:00.accessibility.json) |
+| [September 16 at 10:08 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-16T10:08:02.100051-04:00.accessibility.json) |
+| [September 15 at 10:28 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-15T22:27:54.491485-04:00.accessibility.json) |
+| [September 15 at 10:14 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-15T10:14:50.897474-04:00.accessibility.json) |
+| [September 14 at 10:29 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-14T22:29:32.544108-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 84 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 100 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 10:17 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-11T10:17:29.557883-04:00.lighthouse.json) |
-| [September 10 at 10:31 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-10T22:31:37.810080-04:00.lighthouse.json) |
-| [September 10 at 10:16 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-10T10:16:26.425621-04:00.lighthouse.json) |
-| [September 9 at 10:31 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-09T22:31:25.649791-04:00.lighthouse.json) |
-| [September 9 at 10:39 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-09T10:39:01.726644-04:00.lighthouse.json) |
-| [September 8 at 10:34 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-08T22:34:05.274680-04:00.lighthouse.json) |
-| [September 8 at 10:29 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-08T10:29:40.128174-04:00.lighthouse.json) |
-| [September 7 at 10:39 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-07T22:38:57.732750-04:00.lighthouse.json) |
-| [September 7 at 11:34 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-07T11:34:42.674884-04:00.lighthouse.json) |
-| [September 6 at 10:38 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-06T22:38:06.998630-04:00.lighthouse.json) |
+| [September 19 at 11:02 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-19T11:02:00.131098-04:00.lighthouse.json) |
+| [September 18 at 11:43 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-18T23:43:46.044515-04:00.lighthouse.json) |
+| [September 18 at 10:04 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-18T10:03:49.248062-04:00.lighthouse.json) |
+| [September 17 at 10:29 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-17T22:29:02.464969-04:00.lighthouse.json) |
+| [September 17 at 10:02 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-17T10:01:54.954355-04:00.lighthouse.json) |
+| [September 16 at 10:27 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-16T22:27:02.015552-04:00.lighthouse.json) |
+| [September 16 at 10:08 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-16T10:08:02.100051-04:00.lighthouse.json) |
+| [September 15 at 10:28 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-15T22:27:54.491485-04:00.lighthouse.json) |
+| [September 15 at 10:15 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-15T10:14:50.897474-04:00.lighthouse.json) |
+| [September 14 at 10:29 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-09-14T22:29:32.544108-04:00.lighthouse.json) |
 
 
 

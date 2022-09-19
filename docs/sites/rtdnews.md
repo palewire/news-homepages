@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 95 screenshots with the Internet Archive.
+The archiving routine has saved 111 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-11T09:04:49.516230-04:00.jpg">
-  <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-11T09:04:49.516230-04:00.jpg"
-     alt="Richmond Times-Dispatch at 2022-09-11 09:04:53-04:00 local time"
+ <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-19T10:04:16.907025-04:00.jpg">
+  <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-19T10:04:16.907025-04:00.jpg"
+     alt="Richmond Times-Dispatch at 2022-09-19 10:04:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-11T09:04:49.516230-04:00.jpg">September 11 at 9:04 AM</a></p>
+ <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-19T10:04:16.907025-04:00.jpg">September 19 at 10:04 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-10T21:22:08.467642-04:00.jpg">
-  <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-10T21:22:08.467642-04:00.jpg"
-     alt="Richmond Times-Dispatch at 2022-09-10 21:22:14-04:00 local time"
+ <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-18T22:18:23.898857-04:00.jpg">
+  <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-18T22:18:23.898857-04:00.jpg"
+     alt="Richmond Times-Dispatch at 2022-09-18 22:18:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-10T21:22:08.467642-04:00.jpg">September 10 at 9:22 PM</a></p>
+ <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-18T22:18:23.898857-04:00.jpg">September 18 at 10:18 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-10T09:07:08.473308-04:00.jpg">
-  <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-10T09:07:08.473308-04:00.jpg"
-     alt="Richmond Times-Dispatch at 2022-09-10 09:07:10-04:00 local time"
+ <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-18T09:02:14.652024-04:00.jpg">
+  <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-18T09:02:14.652024-04:00.jpg"
+     alt="Richmond Times-Dispatch at 2022-09-18 09:02:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-10T09:07:08.473308-04:00.jpg">September 10 at 9:07 AM</a></p>
+ <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-18T09:02:14.652024-04:00.jpg">September 18 at 9:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-09T21:25:12.050655-04:00.jpg">
-  <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-09T21:25:12.050655-04:00.jpg"
-     alt="Richmond Times-Dispatch at 2022-09-09 21:25:25-04:00 local time"
+ <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-17T21:22:10.163177-04:00.jpg">
+  <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-17T21:22:10.163177-04:00.jpg"
+     alt="Richmond Times-Dispatch at 2022-09-17 21:22:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-09T21:25:12.050655-04:00.jpg">September 9 at 9:25 PM</a></p>
+ <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-17T21:22:10.163177-04:00.jpg">September 17 at 9:22 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-09T09:23:24.619698-04:00.jpg">
-  <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-09T09:23:24.619698-04:00.jpg"
-     alt="Richmond Times-Dispatch at 2022-09-09 09:23:28-04:00 local time"
+ <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-17T09:02:54.013954-04:00.jpg">
+  <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-17T09:02:54.013954-04:00.jpg"
+     alt="Richmond Times-Dispatch at 2022-09-17 09:03:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-09T09:23:24.619698-04:00.jpg">September 9 at 9:23 AM</a></p>
+ <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-17T09:02:54.013954-04:00.jpg">September 17 at 9:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-08T21:26:15.939792-04:00.jpg">
-  <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-08T21:26:15.939792-04:00.jpg"
-     alt="Richmond Times-Dispatch at 2022-09-08 21:26:19-04:00 local time"
+ <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-16T21:16:10.063860-04:00.jpg">
+  <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-16T21:16:10.063860-04:00.jpg"
+     alt="Richmond Times-Dispatch at 2022-09-16 21:16:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-08T21:26:15.939792-04:00.jpg">September 8 at 9:26 PM</a></p>
+ <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-16T21:16:10.063860-04:00.jpg">September 16 at 9:16 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-08T09:15:29.117080-04:00.jpg">
-  <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-08T09:15:29.117080-04:00.jpg"
-     alt="Richmond Times-Dispatch at 2022-09-08 09:15:30-04:00 local time"
+ <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-16T09:02:27.861718-04:00.jpg">
+  <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-16T09:02:27.861718-04:00.jpg"
+     alt="Richmond Times-Dispatch at 2022-09-16 09:02:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-08T09:15:29.117080-04:00.jpg">September 8 at 9:15 AM</a></p>
+ <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-16T09:02:27.861718-04:00.jpg">September 16 at 9:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-07T21:25:04.638197-04:00.jpg">
-  <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-07T21:25:04.638197-04:00.jpg"
-     alt="Richmond Times-Dispatch at 2022-09-07 21:25:07-04:00 local time"
+ <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-15T21:18:56.053630-04:00.jpg">
+  <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-15T21:18:56.053630-04:00.jpg"
+     alt="Richmond Times-Dispatch at 2022-09-15 21:18:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-07T21:25:04.638197-04:00.jpg">September 7 at 9:25 PM</a></p>
+ <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-15T21:18:56.053630-04:00.jpg">September 15 at 9:18 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-07T09:48:08.275484-04:00.jpg">
-  <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-07T09:48:08.275484-04:00.jpg"
-     alt="Richmond Times-Dispatch at 2022-09-07 09:48:12-04:00 local time"
+ <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-15T09:05:14.444785-04:00.jpg">
+  <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-15T09:05:14.444785-04:00.jpg"
+     alt="Richmond Times-Dispatch at 2022-09-15 09:05:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-07T09:48:08.275484-04:00.jpg">September 7 at 9:48 AM</a></p>
+ <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-15T09:05:14.444785-04:00.jpg">September 15 at 9:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-06T21:23:03.552359-04:00.jpg">
-  <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-06T21:23:03.552359-04:00.jpg"
-     alt="Richmond Times-Dispatch at 2022-09-06 21:23:05-04:00 local time"
+ <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-14T21:21:45.424634-04:00.jpg">
+  <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-14T21:21:45.424634-04:00.jpg"
+     alt="Richmond Times-Dispatch at 2022-09-14 21:21:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-06T21:23:03.552359-04:00.jpg">September 6 at 9:23 PM</a></p>
+ <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-14T21:21:45.424634-04:00.jpg">September 14 at 9:21 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-05T21:25:22.012334-04:00.jpg">
-  <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-05T21:25:22.012334-04:00.jpg"
-     alt="Richmond Times-Dispatch at 2022-09-05 21:25:24-04:00 local time"
+ <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-14T09:09:34.221964-04:00.jpg">
+  <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-14T09:09:34.221964-04:00.jpg"
+     alt="Richmond Times-Dispatch at 2022-09-14 09:09:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-05T21:25:22.012334-04:00.jpg">September 5 at 9:25 PM</a></p>
+ <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-14T09:09:34.221964-04:00.jpg">September 14 at 9:09 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-05T10:09:03.651911-04:00.jpg">
-  <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-05T10:09:03.651911-04:00.jpg"
-     alt="Richmond Times-Dispatch at 2022-09-05 10:09:13-04:00 local time"
+ <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-13T21:24:52.050847-04:00.jpg">
+  <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-13T21:24:52.050847-04:00.jpg"
+     alt="Richmond Times-Dispatch at 2022-09-13 21:24:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-05T10:09:03.651911-04:00.jpg">September 5 at 10:09 AM</a></p>
+ <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-09-13T21:24:52.050847-04:00.jpg">September 13 at 9:24 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 94 hyperlink lists with the Internet Archive.
+The archiving routine has saved 109 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 9:05 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-11T09:04:49.516230-04:00.hyperlinks.json) |
-| [September 10 at 9:22 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-10T21:22:08.467642-04:00.hyperlinks.json) |
-| [September 10 at 9:07 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-10T09:07:08.473308-04:00.hyperlinks.json) |
-| [September 9 at 9:25 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-09T21:25:12.050655-04:00.hyperlinks.json) |
-| [September 9 at 9:23 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-09T09:23:24.619698-04:00.hyperlinks.json) |
-| [September 8 at 9:26 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-08T21:26:15.939792-04:00.hyperlinks.json) |
-| [September 8 at 9:15 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-08T09:15:29.117080-04:00.hyperlinks.json) |
-| [September 7 at 9:25 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-07T21:25:04.638197-04:00.hyperlinks.json) |
-| [September 7 at 9:48 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-07T09:48:08.275484-04:00.hyperlinks.json) |
-| [September 6 at 9:23 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-06T21:23:03.552359-04:00.hyperlinks.json) |
+| [September 19 at 10:04 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-19T10:04:16.907025-04:00.hyperlinks.json) |
+| [September 18 at 10:18 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-18T22:18:23.898857-04:00.hyperlinks.json) |
+| [September 18 at 9:02 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-18T09:02:14.652024-04:00.hyperlinks.json) |
+| [September 17 at 9:22 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-17T21:22:10.163177-04:00.hyperlinks.json) |
+| [September 17 at 9:03 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-17T09:02:54.013954-04:00.hyperlinks.json) |
+| [September 16 at 9:16 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-16T21:16:10.063860-04:00.hyperlinks.json) |
+| [September 16 at 9:02 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-16T09:02:27.861718-04:00.hyperlinks.json) |
+| [September 15 at 9:05 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-15T09:05:14.444785-04:00.hyperlinks.json) |
+| [September 14 at 9:21 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-14T21:21:45.424634-04:00.hyperlinks.json) |
+| [September 14 at 9:09 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-14T09:09:34.221964-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 95 accessibility trees with the Internet Archive.
+The archiving routine has saved 110 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 9:04 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-11T09:04:49.516230-04:00.accessibility.json) |
-| [September 10 at 9:22 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-10T21:22:08.467642-04:00.accessibility.json) |
-| [September 10 at 9:07 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-10T09:07:08.473308-04:00.accessibility.json) |
-| [September 9 at 9:25 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-09T21:25:12.050655-04:00.accessibility.json) |
-| [September 9 at 9:23 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-09T09:23:24.619698-04:00.accessibility.json) |
-| [September 8 at 9:26 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-08T21:26:15.939792-04:00.accessibility.json) |
-| [September 8 at 9:15 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-08T09:15:29.117080-04:00.accessibility.json) |
-| [September 7 at 9:25 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-07T21:25:04.638197-04:00.accessibility.json) |
-| [September 7 at 9:48 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-07T09:48:08.275484-04:00.accessibility.json) |
-| [September 6 at 9:23 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-06T21:23:03.552359-04:00.accessibility.json) |
+| [September 19 at 10:04 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-19T10:04:16.907025-04:00.accessibility.json) |
+| [September 18 at 10:18 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-18T22:18:23.898857-04:00.accessibility.json) |
+| [September 18 at 9:02 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-18T09:02:14.652024-04:00.accessibility.json) |
+| [September 17 at 9:22 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-17T21:22:10.163177-04:00.accessibility.json) |
+| [September 17 at 9:03 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-17T09:02:54.013954-04:00.accessibility.json) |
+| [September 16 at 9:16 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-16T21:16:10.063860-04:00.accessibility.json) |
+| [September 16 at 9:02 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-16T09:02:27.861718-04:00.accessibility.json) |
+| [September 15 at 9:05 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-15T09:05:14.444785-04:00.accessibility.json) |
+| [September 14 at 9:21 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-14T21:21:45.424634-04:00.accessibility.json) |
+| [September 14 at 9:09 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-14T09:09:34.221964-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 96 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 111 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 9:05 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-11T09:04:49.516230-04:00.lighthouse.json) |
-| [September 10 at 9:22 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-10T21:22:08.467642-04:00.lighthouse.json) |
-| [September 10 at 9:07 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-10T09:07:08.473308-04:00.lighthouse.json) |
-| [September 9 at 9:25 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-09T21:25:12.050655-04:00.lighthouse.json) |
-| [September 9 at 9:23 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-09T09:23:24.619698-04:00.lighthouse.json) |
-| [September 8 at 9:26 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-08T21:26:15.939792-04:00.lighthouse.json) |
-| [September 8 at 9:15 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-08T09:15:29.117080-04:00.lighthouse.json) |
-| [September 7 at 9:25 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-07T21:25:04.638197-04:00.lighthouse.json) |
-| [September 7 at 9:48 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-07T09:48:08.275484-04:00.lighthouse.json) |
-| [September 6 at 9:23 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-06T21:23:03.552359-04:00.lighthouse.json) |
+| [September 19 at 10:04 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-19T10:04:16.907025-04:00.lighthouse.json) |
+| [September 18 at 10:18 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-18T22:18:23.898857-04:00.lighthouse.json) |
+| [September 18 at 9:02 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-18T09:02:14.652024-04:00.lighthouse.json) |
+| [September 17 at 9:22 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-17T21:22:10.163177-04:00.lighthouse.json) |
+| [September 17 at 9:03 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-17T09:02:54.013954-04:00.lighthouse.json) |
+| [September 16 at 9:16 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-16T21:16:10.063860-04:00.lighthouse.json) |
+| [September 16 at 9:02 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-16T09:02:27.861718-04:00.lighthouse.json) |
+| [September 15 at 9:05 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-15T09:05:14.444785-04:00.lighthouse.json) |
+| [September 14 at 9:21 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-14T21:21:45.424634-04:00.lighthouse.json) |
+| [September 14 at 9:09 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-09-14T09:09:34.221964-04:00.lighthouse.json) |
 
 
 

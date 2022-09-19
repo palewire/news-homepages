@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 101 screenshots with the Internet Archive.
+The archiving routine has saved 118 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-11T00:55:12.967759-04:00.jpg">
-  <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-11T00:55:12.967759-04:00.jpg"
-     alt="WRBL News 3 at 2022-09-11 00:55:19-04:00 local time"
+ <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-19T13:31:06.648980-04:00.jpg">
+  <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-19T13:31:06.648980-04:00.jpg"
+     alt="WRBL News 3 at 2022-09-19 13:31:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-11T00:55:12.967759-04:00.jpg">September 11 at 12:55 AM</a></p>
+ <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-19T13:31:06.648980-04:00.jpg">September 19 at 1:31 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-10T12:14:10.854947-04:00.jpg">
-  <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-10T12:14:10.854947-04:00.jpg"
-     alt="WRBL News 3 at 2022-09-10 12:14:12-04:00 local time"
+ <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-19T02:01:14.517385-04:00.jpg">
+  <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-19T02:01:14.517385-04:00.jpg"
+     alt="WRBL News 3 at 2022-09-19 02:01:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-10T12:14:10.854947-04:00.jpg">September 10 at 12:14 PM</a></p>
+ <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-19T02:01:14.517385-04:00.jpg">September 19 at 2:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-10T00:57:21.640353-04:00.jpg">
-  <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-10T00:57:21.640353-04:00.jpg"
-     alt="WRBL News 3 at 2022-09-10 00:57:23-04:00 local time"
+ <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-18T13:20:51.677444-04:00.jpg">
+  <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-18T13:20:51.677444-04:00.jpg"
+     alt="WRBL News 3 at 2022-09-18 13:20:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-10T00:57:21.640353-04:00.jpg">September 10 at 12:57 AM</a></p>
+ <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-18T13:20:51.677444-04:00.jpg">September 18 at 1:20 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-09T12:39:08.090602-04:00.jpg">
-  <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-09T12:39:08.090602-04:00.jpg"
-     alt="WRBL News 3 at 2022-09-09 12:39:09-04:00 local time"
+ <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-18T01:32:52.238249-04:00.jpg">
+  <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-18T01:32:52.238249-04:00.jpg"
+     alt="WRBL News 3 at 2022-09-18 01:32:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-09T12:39:08.090602-04:00.jpg">September 9 at 12:39 PM</a></p>
+ <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-18T01:32:52.238249-04:00.jpg">September 18 at 1:32 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-09T01:02:16.633765-04:00.jpg">
-  <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-09T01:02:16.633765-04:00.jpg"
-     alt="WRBL News 3 at 2022-09-09 01:02:19-04:00 local time"
+ <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-17T12:59:20.168819-04:00.jpg">
+  <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-17T12:59:20.168819-04:00.jpg"
+     alt="WRBL News 3 at 2022-09-17 12:59:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-09T01:02:16.633765-04:00.jpg">September 9 at 1:02 AM</a></p>
+ <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-17T12:59:20.168819-04:00.jpg">September 17 at 12:59 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-08T12:41:01.669193-04:00.jpg">
-  <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-08T12:41:01.669193-04:00.jpg"
-     alt="WRBL News 3 at 2022-09-08 12:41:07-04:00 local time"
+ <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-17T01:27:16.736554-04:00.jpg">
+  <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-17T01:27:16.736554-04:00.jpg"
+     alt="WRBL News 3 at 2022-09-17 01:27:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-08T12:41:01.669193-04:00.jpg">September 8 at 12:41 PM</a></p>
+ <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-17T01:27:16.736554-04:00.jpg">September 17 at 1:27 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-08T00:53:14.242461-04:00.jpg">
-  <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-08T00:53:14.242461-04:00.jpg"
-     alt="WRBL News 3 at 2022-09-08 00:53:27-04:00 local time"
+ <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-16T13:03:33.136568-04:00.jpg">
+  <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-16T13:03:33.136568-04:00.jpg"
+     alt="WRBL News 3 at 2022-09-16 13:03:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-08T00:53:14.242461-04:00.jpg">September 8 at 12:53 AM</a></p>
+ <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-16T13:03:33.136568-04:00.jpg">September 16 at 1:03 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-07T13:17:29.047353-04:00.jpg">
-  <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-07T13:17:29.047353-04:00.jpg"
-     alt="WRBL News 3 at 2022-09-07 13:17:54-04:00 local time"
+ <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-16T01:36:46.078497-04:00.jpg">
+  <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-16T01:36:46.078497-04:00.jpg"
+     alt="WRBL News 3 at 2022-09-16 01:36:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-07T13:17:29.047353-04:00.jpg">September 7 at 1:17 PM</a></p>
+ <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-16T01:36:46.078497-04:00.jpg">September 16 at 1:36 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-07T00:58:01.526342-04:00.jpg">
-  <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-07T00:58:01.526342-04:00.jpg"
-     alt="WRBL News 3 at 2022-09-07 00:58:06-04:00 local time"
+ <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-15T13:19:07.314869-04:00.jpg">
+  <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-15T13:19:07.314869-04:00.jpg"
+     alt="WRBL News 3 at 2022-09-15 13:19:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-07T00:58:01.526342-04:00.jpg">September 7 at 12:58 AM</a></p>
+ <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-15T13:19:07.314869-04:00.jpg">September 15 at 1:19 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-06T01:00:46.911434-04:00.jpg">
-  <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-06T01:00:46.911434-04:00.jpg"
-     alt="WRBL News 3 at 2022-09-06 01:00:48-04:00 local time"
+ <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-15T01:35:48.690573-04:00.jpg">
+  <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-15T01:35:48.690573-04:00.jpg"
+     alt="WRBL News 3 at 2022-09-15 01:35:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-06T01:00:46.911434-04:00.jpg">September 6 at 1:00 AM</a></p>
+ <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-15T01:35:48.690573-04:00.jpg">September 15 at 1:35 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-05T12:28:07.354214-04:00.jpg">
-  <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-05T12:28:07.354214-04:00.jpg"
-     alt="WRBL News 3 at 2022-09-05 12:28:14-04:00 local time"
+ <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-14T13:24:04.755494-04:00.jpg">
+  <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-14T13:24:04.755494-04:00.jpg"
+     alt="WRBL News 3 at 2022-09-14 13:24:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-05T12:28:07.354214-04:00.jpg">September 5 at 12:28 PM</a></p>
+ <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-14T13:24:04.755494-04:00.jpg">September 14 at 1:24 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-05T00:57:06.209559-04:00.jpg">
-  <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-05T00:57:06.209559-04:00.jpg"
-     alt="WRBL News 3 at 2022-09-05 00:57:11-04:00 local time"
+ <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-14T01:41:00.264830-04:00.jpg">
+  <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-14T01:41:00.264830-04:00.jpg"
+     alt="WRBL News 3 at 2022-09-14 01:41:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-05T00:57:06.209559-04:00.jpg">September 5 at 12:57 AM</a></p>
+ <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-14T01:41:00.264830-04:00.jpg">September 14 at 1:41 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 96 hyperlink lists with the Internet Archive.
+The archiving routine has saved 113 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 12:55 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-11T00:55:12.967759-04:00.hyperlinks.json) |
-| [September 10 at 12:14 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-10T12:14:10.854947-04:00.hyperlinks.json) |
-| [September 10 at 12:57 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-10T00:57:21.640353-04:00.hyperlinks.json) |
-| [September 9 at 12:39 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-09T12:39:08.090602-04:00.hyperlinks.json) |
-| [September 9 at 1:02 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-09T01:02:16.633765-04:00.hyperlinks.json) |
-| [September 8 at 12:41 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-08T12:41:01.669193-04:00.hyperlinks.json) |
-| [September 8 at 12:53 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-08T00:53:14.242461-04:00.hyperlinks.json) |
-| [September 7 at 1:17 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-07T13:17:29.047353-04:00.hyperlinks.json) |
-| [September 7 at 12:58 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-07T00:58:01.526342-04:00.hyperlinks.json) |
-| [September 5 at 12:28 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-05T12:28:07.354214-04:00.hyperlinks.json) |
+| [September 19 at 1:31 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-19T13:31:06.648980-04:00.hyperlinks.json) |
+| [September 19 at 2:01 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-19T02:01:14.517385-04:00.hyperlinks.json) |
+| [September 18 at 1:20 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-18T13:20:51.677444-04:00.hyperlinks.json) |
+| [September 18 at 1:33 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-18T01:32:52.238249-04:00.hyperlinks.json) |
+| [September 17 at 12:59 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-17T12:59:20.168819-04:00.hyperlinks.json) |
+| [September 17 at 1:27 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-17T01:27:16.736554-04:00.hyperlinks.json) |
+| [September 16 at 1:03 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-16T13:03:33.136568-04:00.hyperlinks.json) |
+| [September 16 at 1:36 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-16T01:36:46.078497-04:00.hyperlinks.json) |
+| [September 15 at 1:19 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-15T13:19:07.314869-04:00.hyperlinks.json) |
+| [September 15 at 1:35 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-15T01:35:48.690573-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 99 accessibility trees with the Internet Archive.
+The archiving routine has saved 116 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 12:55 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-11T00:55:12.967759-04:00.accessibility.json) |
-| [September 10 at 12:14 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-10T12:14:10.854947-04:00.accessibility.json) |
-| [September 10 at 12:57 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-10T00:57:21.640353-04:00.accessibility.json) |
-| [September 9 at 12:39 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-09T12:39:08.090602-04:00.accessibility.json) |
-| [September 9 at 1:02 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-09T01:02:16.633765-04:00.accessibility.json) |
-| [September 8 at 12:41 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-08T12:41:01.669193-04:00.accessibility.json) |
-| [September 8 at 12:53 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-08T00:53:14.242461-04:00.accessibility.json) |
-| [September 7 at 1:17 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-07T13:17:29.047353-04:00.accessibility.json) |
-| [September 7 at 12:58 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-07T00:58:01.526342-04:00.accessibility.json) |
-| [September 6 at 1:00 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-06T01:00:46.911434-04:00.accessibility.json) |
+| [September 19 at 1:31 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-19T13:31:06.648980-04:00.accessibility.json) |
+| [September 19 at 2:01 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-19T02:01:14.517385-04:00.accessibility.json) |
+| [September 18 at 1:20 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-18T13:20:51.677444-04:00.accessibility.json) |
+| [September 18 at 1:33 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-18T01:32:52.238249-04:00.accessibility.json) |
+| [September 17 at 12:59 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-17T12:59:20.168819-04:00.accessibility.json) |
+| [September 17 at 1:27 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-17T01:27:16.736554-04:00.accessibility.json) |
+| [September 16 at 1:03 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-16T13:03:33.136568-04:00.accessibility.json) |
+| [September 16 at 1:36 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-16T01:36:46.078497-04:00.accessibility.json) |
+| [September 15 at 1:19 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-15T13:19:07.314869-04:00.accessibility.json) |
+| [September 15 at 1:35 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-15T01:35:48.690573-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 97 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 114 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 12:55 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-11T00:55:12.967759-04:00.lighthouse.json) |
-| [September 10 at 12:14 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-10T12:14:10.854947-04:00.lighthouse.json) |
-| [September 10 at 12:57 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-10T00:57:21.640353-04:00.lighthouse.json) |
-| [September 9 at 12:39 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-09T12:39:08.090602-04:00.lighthouse.json) |
-| [September 9 at 1:02 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-09T01:02:16.633765-04:00.lighthouse.json) |
-| [September 8 at 12:41 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-08T12:41:01.669193-04:00.lighthouse.json) |
-| [September 8 at 12:53 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-08T00:53:14.242461-04:00.lighthouse.json) |
-| [September 7 at 1:18 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-07T13:17:29.047353-04:00.lighthouse.json) |
-| [September 7 at 12:58 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-07T00:58:01.526342-04:00.lighthouse.json) |
-| [September 5 at 12:28 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-05T12:28:07.354214-04:00.lighthouse.json) |
+| [September 19 at 1:31 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-19T13:31:06.648980-04:00.lighthouse.json) |
+| [September 19 at 2:01 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-19T02:01:14.517385-04:00.lighthouse.json) |
+| [September 18 at 1:21 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-18T13:20:51.677444-04:00.lighthouse.json) |
+| [September 18 at 1:33 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-18T01:32:52.238249-04:00.lighthouse.json) |
+| [September 17 at 12:59 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-17T12:59:20.168819-04:00.lighthouse.json) |
+| [September 17 at 1:27 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-17T01:27:16.736554-04:00.lighthouse.json) |
+| [September 16 at 1:03 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-16T13:03:33.136568-04:00.lighthouse.json) |
+| [September 16 at 1:36 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-16T01:36:46.078497-04:00.lighthouse.json) |
+| [September 15 at 1:19 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-15T13:19:07.314869-04:00.lighthouse.json) |
+| [September 15 at 1:35 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-09-15T01:35:48.690573-04:00.lighthouse.json) |
 
 
 

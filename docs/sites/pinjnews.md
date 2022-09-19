@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 32 screenshots with the Internet Archive.
+The archiving routine has saved 48 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-11T09:03:56.706917-04:00.jpg">
-  <img src="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-11T09:03:56.706917-04:00.jpg"
-     alt="Pittsburgh Institute for Nonprofit Journalism at 2022-09-11 09:03:57-04:00 local time"
+ <a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-19T08:57:56.685666-04:00.jpg">
+  <img src="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-19T08:57:56.685666-04:00.jpg"
+     alt="Pittsburgh Institute for Nonprofit Journalism at 2022-09-19 08:58:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-11T09:03:56.706917-04:00.jpg">September 11 at 9:03 AM</a></p>
+ <p><a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-19T08:57:56.685666-04:00.jpg">September 19 at 8:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-10T21:20:46.458407-04:00.jpg">
-  <img src="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-10T21:20:46.458407-04:00.jpg"
-     alt="Pittsburgh Institute for Nonprofit Journalism at 2022-09-10 21:20:47-04:00 local time"
+ <a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-18T21:14:23.017642-04:00.jpg">
+  <img src="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-18T21:14:23.017642-04:00.jpg"
+     alt="Pittsburgh Institute for Nonprofit Journalism at 2022-09-18 21:14:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-10T21:20:46.458407-04:00.jpg">September 10 at 9:20 PM</a></p>
+ <p><a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-18T21:14:23.017642-04:00.jpg">September 18 at 9:14 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-10T09:04:53.022766-04:00.jpg">
-  <img src="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-10T09:04:53.022766-04:00.jpg"
-     alt="Pittsburgh Institute for Nonprofit Journalism at 2022-09-10 09:04:54-04:00 local time"
+ <a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-18T08:59:31.669511-04:00.jpg">
+  <img src="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-18T08:59:31.669511-04:00.jpg"
+     alt="Pittsburgh Institute for Nonprofit Journalism at 2022-09-18 08:59:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-10T09:04:53.022766-04:00.jpg">September 10 at 9:04 AM</a></p>
+ <p><a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-18T08:59:31.669511-04:00.jpg">September 18 at 8:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-09T21:22:44.179190-04:00.jpg">
-  <img src="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-09T21:22:44.179190-04:00.jpg"
-     alt="Pittsburgh Institute for Nonprofit Journalism at 2022-09-09 21:22:46-04:00 local time"
+ <a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-17T21:19:51.271207-04:00.jpg">
+  <img src="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-17T21:19:51.271207-04:00.jpg"
+     alt="Pittsburgh Institute for Nonprofit Journalism at 2022-09-17 21:19:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-09T21:22:44.179190-04:00.jpg">September 9 at 9:22 PM</a></p>
+ <p><a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-17T21:19:51.271207-04:00.jpg">September 17 at 9:19 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-09T09:21:10.681813-04:00.jpg">
-  <img src="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-09T09:21:10.681813-04:00.jpg"
-     alt="Pittsburgh Institute for Nonprofit Journalism at 2022-09-09 09:21:13-04:00 local time"
+ <a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-17T09:00:25.971186-04:00.jpg">
+  <img src="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-17T09:00:25.971186-04:00.jpg"
+     alt="Pittsburgh Institute for Nonprofit Journalism at 2022-09-17 09:00:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-09T09:21:10.681813-04:00.jpg">September 9 at 9:21 AM</a></p>
+ <p><a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-17T09:00:25.971186-04:00.jpg">September 17 at 9:00 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-08T21:23:49.762517-04:00.jpg">
-  <img src="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-08T21:23:49.762517-04:00.jpg"
-     alt="Pittsburgh Institute for Nonprofit Journalism at 2022-09-08 21:23:51-04:00 local time"
+ <a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-16T21:14:13.369934-04:00.jpg">
+  <img src="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-16T21:14:13.369934-04:00.jpg"
+     alt="Pittsburgh Institute for Nonprofit Journalism at 2022-09-16 21:14:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-08T21:23:49.762517-04:00.jpg">September 8 at 9:23 PM</a></p>
+ <p><a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-16T21:14:13.369934-04:00.jpg">September 16 at 9:14 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-08T09:14:14.810655-04:00.jpg">
-  <img src="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-08T09:14:14.810655-04:00.jpg"
-     alt="Pittsburgh Institute for Nonprofit Journalism at 2022-09-08 09:14:17-04:00 local time"
+ <a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-16T09:00:43.576153-04:00.jpg">
+  <img src="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-16T09:00:43.576153-04:00.jpg"
+     alt="Pittsburgh Institute for Nonprofit Journalism at 2022-09-16 09:00:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-08T09:14:14.810655-04:00.jpg">September 8 at 9:14 AM</a></p>
+ <p><a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-16T09:00:43.576153-04:00.jpg">September 16 at 9:00 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-07T21:22:35.458329-04:00.jpg">
-  <img src="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-07T21:22:35.458329-04:00.jpg"
-     alt="Pittsburgh Institute for Nonprofit Journalism at 2022-09-07 21:22:40-04:00 local time"
+ <a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-15T21:17:30.194820-04:00.jpg">
+  <img src="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-15T21:17:30.194820-04:00.jpg"
+     alt="Pittsburgh Institute for Nonprofit Journalism at 2022-09-15 21:17:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-07T21:22:35.458329-04:00.jpg">September 7 at 9:22 PM</a></p>
+ <p><a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-15T21:17:30.194820-04:00.jpg">September 15 at 9:17 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-07T09:37:15.245447-04:00.jpg">
-  <img src="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-07T09:37:15.245447-04:00.jpg"
-     alt="Pittsburgh Institute for Nonprofit Journalism at 2022-09-07 09:37:16-04:00 local time"
+ <a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-15T09:03:14.005510-04:00.jpg">
+  <img src="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-15T09:03:14.005510-04:00.jpg"
+     alt="Pittsburgh Institute for Nonprofit Journalism at 2022-09-15 09:03:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-07T09:37:15.245447-04:00.jpg">September 7 at 9:37 AM</a></p>
+ <p><a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-15T09:03:14.005510-04:00.jpg">September 15 at 9:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-06T21:19:42.664887-04:00.jpg">
-  <img src="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-06T21:19:42.664887-04:00.jpg"
-     alt="Pittsburgh Institute for Nonprofit Journalism at 2022-09-06 21:19:44-04:00 local time"
+ <a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-14T21:19:41.598223-04:00.jpg">
+  <img src="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-14T21:19:41.598223-04:00.jpg"
+     alt="Pittsburgh Institute for Nonprofit Journalism at 2022-09-14 21:19:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-06T21:19:42.664887-04:00.jpg">September 6 at 9:19 PM</a></p>
+ <p><a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-14T21:19:41.598223-04:00.jpg">September 14 at 9:19 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-05T21:23:14.787866-04:00.jpg">
-  <img src="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-05T21:23:14.787866-04:00.jpg"
-     alt="Pittsburgh Institute for Nonprofit Journalism at 2022-09-05 21:23:17-04:00 local time"
+ <a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-14T09:08:01.861437-04:00.jpg">
+  <img src="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-14T09:08:01.861437-04:00.jpg"
+     alt="Pittsburgh Institute for Nonprofit Journalism at 2022-09-14 09:08:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-05T21:23:14.787866-04:00.jpg">September 5 at 9:23 PM</a></p>
+ <p><a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-14T09:08:01.861437-04:00.jpg">September 14 at 9:08 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-05T10:06:54.657967-04:00.jpg">
-  <img src="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-05T10:06:54.657967-04:00.jpg"
-     alt="Pittsburgh Institute for Nonprofit Journalism at 2022-09-05 10:06:56-04:00 local time"
+ <a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-13T21:24:37.942958-04:00.jpg">
+  <img src="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-13T21:24:37.942958-04:00.jpg"
+     alt="Pittsburgh Institute for Nonprofit Journalism at 2022-09-13 21:24:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-05T10:06:54.657967-04:00.jpg">September 5 at 10:06 AM</a></p>
+ <p><a href="https://archive.org/download/pinjnews-2022/pinjnews-2022-09-13T21:24:37.942958-04:00.jpg">September 13 at 9:24 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 31 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 9:04 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-11T09:03:56.706917-04:00.hyperlinks.json) |
-| [September 10 at 9:20 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-10T21:20:46.458407-04:00.hyperlinks.json) |
-| [September 10 at 9:04 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-10T09:04:53.022766-04:00.hyperlinks.json) |
-| [September 9 at 9:22 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-09T21:22:44.179190-04:00.hyperlinks.json) |
-| [September 9 at 9:21 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-09T09:21:10.681813-04:00.hyperlinks.json) |
-| [September 8 at 9:23 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-08T21:23:49.762517-04:00.hyperlinks.json) |
-| [September 8 at 9:14 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-08T09:14:14.810655-04:00.hyperlinks.json) |
-| [September 7 at 9:37 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-07T09:37:15.245447-04:00.hyperlinks.json) |
-| [September 6 at 9:19 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-06T21:19:42.664887-04:00.hyperlinks.json) |
-| [September 5 at 9:23 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-05T21:23:14.787866-04:00.hyperlinks.json) |
+| [September 19 at 8:58 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-19T08:57:56.685666-04:00.hyperlinks.json) |
+| [September 18 at 9:14 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-18T21:14:23.017642-04:00.hyperlinks.json) |
+| [September 18 at 8:59 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-18T08:59:31.669511-04:00.hyperlinks.json) |
+| [September 17 at 9:19 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-17T21:19:51.271207-04:00.hyperlinks.json) |
+| [September 17 at 9:00 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-17T09:00:25.971186-04:00.hyperlinks.json) |
+| [September 16 at 9:14 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-16T21:14:13.369934-04:00.hyperlinks.json) |
+| [September 16 at 9:00 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-16T09:00:43.576153-04:00.hyperlinks.json) |
+| [September 15 at 9:17 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-15T21:17:30.194820-04:00.hyperlinks.json) |
+| [September 15 at 9:03 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-15T09:03:14.005510-04:00.hyperlinks.json) |
+| [September 14 at 9:19 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-14T21:19:41.598223-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 32 accessibility trees with the Internet Archive.
+The archiving routine has saved 48 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 9:03 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-11T09:03:56.706917-04:00.accessibility.json) |
-| [September 10 at 9:20 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-10T21:20:46.458407-04:00.accessibility.json) |
-| [September 10 at 9:04 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-10T09:04:53.022766-04:00.accessibility.json) |
-| [September 9 at 9:22 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-09T21:22:44.179190-04:00.accessibility.json) |
-| [September 9 at 9:21 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-09T09:21:10.681813-04:00.accessibility.json) |
-| [September 8 at 9:23 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-08T21:23:49.762517-04:00.accessibility.json) |
-| [September 8 at 9:14 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-08T09:14:14.810655-04:00.accessibility.json) |
-| [September 7 at 9:22 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-07T21:22:35.458329-04:00.accessibility.json) |
-| [September 7 at 9:37 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-07T09:37:15.245447-04:00.accessibility.json) |
-| [September 6 at 9:19 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-06T21:19:42.664887-04:00.accessibility.json) |
+| [September 19 at 8:58 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-19T08:57:56.685666-04:00.accessibility.json) |
+| [September 18 at 9:14 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-18T21:14:23.017642-04:00.accessibility.json) |
+| [September 18 at 8:59 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-18T08:59:31.669511-04:00.accessibility.json) |
+| [September 17 at 9:19 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-17T21:19:51.271207-04:00.accessibility.json) |
+| [September 17 at 9:00 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-17T09:00:25.971186-04:00.accessibility.json) |
+| [September 16 at 9:14 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-16T21:14:13.369934-04:00.accessibility.json) |
+| [September 16 at 9:00 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-16T09:00:43.576153-04:00.accessibility.json) |
+| [September 15 at 9:17 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-15T21:17:30.194820-04:00.accessibility.json) |
+| [September 15 at 9:03 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-15T09:03:14.005510-04:00.accessibility.json) |
+| [September 14 at 9:19 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-14T21:19:41.598223-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 9:04 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-11T09:03:56.706917-04:00.lighthouse.json) |
-| [September 10 at 9:20 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-10T21:20:46.458407-04:00.lighthouse.json) |
-| [September 10 at 9:04 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-10T09:04:53.022766-04:00.lighthouse.json) |
-| [September 9 at 9:22 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-09T21:22:44.179190-04:00.lighthouse.json) |
-| [September 9 at 9:21 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-09T09:21:10.681813-04:00.lighthouse.json) |
-| [September 8 at 9:23 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-08T21:23:49.762517-04:00.lighthouse.json) |
-| [September 8 at 9:14 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-08T09:14:14.810655-04:00.lighthouse.json) |
-| [September 7 at 9:22 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-07T21:22:35.458329-04:00.lighthouse.json) |
-| [September 7 at 9:37 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-07T09:37:15.245447-04:00.lighthouse.json) |
-| [September 6 at 9:19 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-06T21:19:42.664887-04:00.lighthouse.json) |
+| [September 19 at 8:58 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-19T08:57:56.685666-04:00.lighthouse.json) |
+| [September 18 at 9:14 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-18T21:14:23.017642-04:00.lighthouse.json) |
+| [September 18 at 8:59 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-18T08:59:31.669511-04:00.lighthouse.json) |
+| [September 17 at 9:19 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-17T21:19:51.271207-04:00.lighthouse.json) |
+| [September 17 at 9:00 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-17T09:00:25.971186-04:00.lighthouse.json) |
+| [September 16 at 9:14 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-16T21:14:13.369934-04:00.lighthouse.json) |
+| [September 16 at 9:00 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-16T09:00:43.576153-04:00.lighthouse.json) |
+| [September 15 at 9:17 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-15T21:17:30.194820-04:00.lighthouse.json) |
+| [September 15 at 9:03 AM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-15T09:03:14.005510-04:00.lighthouse.json) |
+| [September 14 at 9:19 PM](https://archive.org/download/pinjnews-2022/pinjnews-2022-09-14T21:19:41.598223-04:00.lighthouse.json) |
 
 
 

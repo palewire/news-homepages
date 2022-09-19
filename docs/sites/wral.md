@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 280 screenshots with the Internet Archive.
+The archiving routine has saved 297 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/wral-2022/wral-2022-09-11T00:54:51.931472-04:00.jpg">
-  <img src="https://archive.org/download/wral-2022/wral-2022-09-11T00:54:51.931472-04:00.jpg"
-     alt="WRAL at 2022-09-11 00:55:01-04:00 local time"
+ <a href="https://archive.org/download/wral-2022/wral-2022-09-19T13:30:47.245669-04:00.jpg">
+  <img src="https://archive.org/download/wral-2022/wral-2022-09-19T13:30:47.245669-04:00.jpg"
+     alt="WRAL at 2022-09-19 13:30:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wral-2022/wral-2022-09-11T00:54:51.931472-04:00.jpg">September 11 at 12:55 AM</a></p>
+ <p><a href="https://archive.org/download/wral-2022/wral-2022-09-19T13:30:47.245669-04:00.jpg">September 19 at 1:30 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wral-2022/wral-2022-09-10T12:14:39.714190-04:00.jpg">
-  <img src="https://archive.org/download/wral-2022/wral-2022-09-10T12:14:39.714190-04:00.jpg"
-     alt="WRAL at 2022-09-10 12:14:40-04:00 local time"
+ <a href="https://archive.org/download/wral-2022/wral-2022-09-19T02:01:58.920933-04:00.jpg">
+  <img src="https://archive.org/download/wral-2022/wral-2022-09-19T02:01:58.920933-04:00.jpg"
+     alt="WRAL at 2022-09-19 02:02:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wral-2022/wral-2022-09-10T12:14:39.714190-04:00.jpg">September 10 at 12:14 PM</a></p>
+ <p><a href="https://archive.org/download/wral-2022/wral-2022-09-19T02:01:58.920933-04:00.jpg">September 19 at 2:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wral-2022/wral-2022-09-10T00:57:38.833105-04:00.jpg">
-  <img src="https://archive.org/download/wral-2022/wral-2022-09-10T00:57:38.833105-04:00.jpg"
-     alt="WRAL at 2022-09-10 00:57:40-04:00 local time"
+ <a href="https://archive.org/download/wral-2022/wral-2022-09-18T13:21:00.273708-04:00.jpg">
+  <img src="https://archive.org/download/wral-2022/wral-2022-09-18T13:21:00.273708-04:00.jpg"
+     alt="WRAL at 2022-09-18 13:21:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wral-2022/wral-2022-09-10T00:57:38.833105-04:00.jpg">September 10 at 12:57 AM</a></p>
+ <p><a href="https://archive.org/download/wral-2022/wral-2022-09-18T13:21:00.273708-04:00.jpg">September 18 at 1:21 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wral-2022/wral-2022-09-09T12:39:00.549843-04:00.jpg">
-  <img src="https://archive.org/download/wral-2022/wral-2022-09-09T12:39:00.549843-04:00.jpg"
-     alt="WRAL at 2022-09-09 12:39:11-04:00 local time"
+ <a href="https://archive.org/download/wral-2022/wral-2022-09-18T01:33:06.343842-04:00.jpg">
+  <img src="https://archive.org/download/wral-2022/wral-2022-09-18T01:33:06.343842-04:00.jpg"
+     alt="WRAL at 2022-09-18 01:33:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wral-2022/wral-2022-09-09T12:39:00.549843-04:00.jpg">September 9 at 12:39 PM</a></p>
+ <p><a href="https://archive.org/download/wral-2022/wral-2022-09-18T01:33:06.343842-04:00.jpg">September 18 at 1:33 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wral-2022/wral-2022-09-09T01:02:13.426007-04:00.jpg">
-  <img src="https://archive.org/download/wral-2022/wral-2022-09-09T01:02:13.426007-04:00.jpg"
-     alt="WRAL at 2022-09-09 01:02:20-04:00 local time"
+ <a href="https://archive.org/download/wral-2022/wral-2022-09-17T12:58:37.985689-04:00.jpg">
+  <img src="https://archive.org/download/wral-2022/wral-2022-09-17T12:58:37.985689-04:00.jpg"
+     alt="WRAL at 2022-09-17 12:58:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wral-2022/wral-2022-09-09T01:02:13.426007-04:00.jpg">September 9 at 1:02 AM</a></p>
+ <p><a href="https://archive.org/download/wral-2022/wral-2022-09-17T12:58:37.985689-04:00.jpg">September 17 at 12:58 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wral-2022/wral-2022-09-08T12:41:11.800911-04:00.jpg">
-  <img src="https://archive.org/download/wral-2022/wral-2022-09-08T12:41:11.800911-04:00.jpg"
-     alt="WRAL at 2022-09-08 12:41:21-04:00 local time"
+ <a href="https://archive.org/download/wral-2022/wral-2022-09-17T01:27:02.307791-04:00.jpg">
+  <img src="https://archive.org/download/wral-2022/wral-2022-09-17T01:27:02.307791-04:00.jpg"
+     alt="WRAL at 2022-09-17 01:27:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wral-2022/wral-2022-09-08T12:41:11.800911-04:00.jpg">September 8 at 12:41 PM</a></p>
+ <p><a href="https://archive.org/download/wral-2022/wral-2022-09-17T01:27:02.307791-04:00.jpg">September 17 at 1:27 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wral-2022/wral-2022-09-08T00:52:45.292490-04:00.jpg">
-  <img src="https://archive.org/download/wral-2022/wral-2022-09-08T00:52:45.292490-04:00.jpg"
-     alt="WRAL at 2022-09-08 00:52:46-04:00 local time"
+ <a href="https://archive.org/download/wral-2022/wral-2022-09-16T13:03:01.160409-04:00.jpg">
+  <img src="https://archive.org/download/wral-2022/wral-2022-09-16T13:03:01.160409-04:00.jpg"
+     alt="WRAL at 2022-09-16 13:03:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wral-2022/wral-2022-09-08T00:52:45.292490-04:00.jpg">September 8 at 12:52 AM</a></p>
+ <p><a href="https://archive.org/download/wral-2022/wral-2022-09-16T13:03:01.160409-04:00.jpg">September 16 at 1:03 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wral-2022/wral-2022-09-07T00:58:04.779891-04:00.jpg">
-  <img src="https://archive.org/download/wral-2022/wral-2022-09-07T00:58:04.779891-04:00.jpg"
-     alt="WRAL at 2022-09-07 00:58:06-04:00 local time"
+ <a href="https://archive.org/download/wral-2022/wral-2022-09-16T01:37:13.049727-04:00.jpg">
+  <img src="https://archive.org/download/wral-2022/wral-2022-09-16T01:37:13.049727-04:00.jpg"
+     alt="WRAL at 2022-09-16 01:37:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wral-2022/wral-2022-09-07T00:58:04.779891-04:00.jpg">September 7 at 12:58 AM</a></p>
+ <p><a href="https://archive.org/download/wral-2022/wral-2022-09-16T01:37:13.049727-04:00.jpg">September 16 at 1:37 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wral-2022/wral-2022-09-06T01:00:55.642334-04:00.jpg">
-  <img src="https://archive.org/download/wral-2022/wral-2022-09-06T01:00:55.642334-04:00.jpg"
-     alt="WRAL at 2022-09-06 01:00:57-04:00 local time"
+ <a href="https://archive.org/download/wral-2022/wral-2022-09-15T13:18:39.029481-04:00.jpg">
+  <img src="https://archive.org/download/wral-2022/wral-2022-09-15T13:18:39.029481-04:00.jpg"
+     alt="WRAL at 2022-09-15 13:19:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wral-2022/wral-2022-09-06T01:00:55.642334-04:00.jpg">September 6 at 1:00 AM</a></p>
+ <p><a href="https://archive.org/download/wral-2022/wral-2022-09-15T13:18:39.029481-04:00.jpg">September 15 at 1:19 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wral-2022/wral-2022-09-06T01:00:20.215987-04:00.jpg">
-  <img src="https://archive.org/download/wral-2022/wral-2022-09-06T01:00:20.215987-04:00.jpg"
-     alt="WRAL at 2022-09-06 01:00:33-04:00 local time"
+ <a href="https://archive.org/download/wral-2022/wral-2022-09-15T01:35:46.504363-04:00.jpg">
+  <img src="https://archive.org/download/wral-2022/wral-2022-09-15T01:35:46.504363-04:00.jpg"
+     alt="WRAL at 2022-09-15 01:35:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wral-2022/wral-2022-09-06T01:00:20.215987-04:00.jpg">September 6 at 1:00 AM</a></p>
+ <p><a href="https://archive.org/download/wral-2022/wral-2022-09-15T01:35:46.504363-04:00.jpg">September 15 at 1:35 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wral-2022/wral-2022-09-05T12:28:20.493725-04:00.jpg">
-  <img src="https://archive.org/download/wral-2022/wral-2022-09-05T12:28:20.493725-04:00.jpg"
-     alt="WRAL at 2022-09-05 12:28:22-04:00 local time"
+ <a href="https://archive.org/download/wral-2022/wral-2022-09-14T13:22:26.867525-04:00.jpg">
+  <img src="https://archive.org/download/wral-2022/wral-2022-09-14T13:22:26.867525-04:00.jpg"
+     alt="WRAL at 2022-09-14 13:22:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wral-2022/wral-2022-09-05T12:28:20.493725-04:00.jpg">September 5 at 12:28 PM</a></p>
+ <p><a href="https://archive.org/download/wral-2022/wral-2022-09-14T13:22:26.867525-04:00.jpg">September 14 at 1:22 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wral-2022/wral-2022-09-05T00:57:46.695593-04:00.jpg">
-  <img src="https://archive.org/download/wral-2022/wral-2022-09-05T00:57:46.695593-04:00.jpg"
-     alt="WRAL at 2022-09-05 00:57:47-04:00 local time"
+ <a href="https://archive.org/download/wral-2022/wral-2022-09-14T01:41:53.185622-04:00.jpg">
+  <img src="https://archive.org/download/wral-2022/wral-2022-09-14T01:41:53.185622-04:00.jpg"
+     alt="WRAL at 2022-09-14 01:41:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wral-2022/wral-2022-09-05T00:57:46.695593-04:00.jpg">September 5 at 12:57 AM</a></p>
+ <p><a href="https://archive.org/download/wral-2022/wral-2022-09-14T01:41:53.185622-04:00.jpg">September 14 at 1:41 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 273 hyperlink lists with the Internet Archive.
+The archiving routine has saved 290 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 12:55 AM](https://archive.org/download/wral-2022/wral-2022-09-11T00:54:51.931472-04:00.hyperlinks.json) |
-| [September 10 at 12:14 PM](https://archive.org/download/wral-2022/wral-2022-09-10T12:14:39.714190-04:00.hyperlinks.json) |
-| [September 10 at 12:57 AM](https://archive.org/download/wral-2022/wral-2022-09-10T00:57:38.833105-04:00.hyperlinks.json) |
-| [September 9 at 12:39 PM](https://archive.org/download/wral-2022/wral-2022-09-09T12:39:00.549843-04:00.hyperlinks.json) |
-| [September 9 at 1:02 AM](https://archive.org/download/wral-2022/wral-2022-09-09T01:02:13.426007-04:00.hyperlinks.json) |
-| [September 8 at 12:41 PM](https://archive.org/download/wral-2022/wral-2022-09-08T12:41:11.800911-04:00.hyperlinks.json) |
-| [September 8 at 12:52 AM](https://archive.org/download/wral-2022/wral-2022-09-08T00:52:45.292490-04:00.hyperlinks.json) |
-| [September 7 at 1:18 PM](https://archive.org/download/wral-2022/wral-2022-09-07T13:18:24.661675-04:00.hyperlinks.json) |
-| [September 7 at 12:58 AM](https://archive.org/download/wral-2022/wral-2022-09-07T00:58:04.779891-04:00.hyperlinks.json) |
-| [September 6 at 1:01 AM](https://archive.org/download/wral-2022/wral-2022-09-06T01:00:55.642334-04:00.hyperlinks.json) |
+| [September 19 at 1:30 PM](https://archive.org/download/wral-2022/wral-2022-09-19T13:30:47.245669-04:00.hyperlinks.json) |
+| [September 19 at 2:02 AM](https://archive.org/download/wral-2022/wral-2022-09-19T02:01:58.920933-04:00.hyperlinks.json) |
+| [September 18 at 1:21 PM](https://archive.org/download/wral-2022/wral-2022-09-18T13:21:00.273708-04:00.hyperlinks.json) |
+| [September 18 at 1:33 AM](https://archive.org/download/wral-2022/wral-2022-09-18T01:33:06.343842-04:00.hyperlinks.json) |
+| [September 17 at 12:58 PM](https://archive.org/download/wral-2022/wral-2022-09-17T12:58:37.985689-04:00.hyperlinks.json) |
+| [September 17 at 1:27 AM](https://archive.org/download/wral-2022/wral-2022-09-17T01:27:02.307791-04:00.hyperlinks.json) |
+| [September 16 at 1:03 PM](https://archive.org/download/wral-2022/wral-2022-09-16T13:03:01.160409-04:00.hyperlinks.json) |
+| [September 16 at 1:37 AM](https://archive.org/download/wral-2022/wral-2022-09-16T01:37:13.049727-04:00.hyperlinks.json) |
+| [September 15 at 1:19 PM](https://archive.org/download/wral-2022/wral-2022-09-15T13:18:39.029481-04:00.hyperlinks.json) |
+| [September 15 at 1:35 AM](https://archive.org/download/wral-2022/wral-2022-09-15T01:35:46.504363-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 276 accessibility trees with the Internet Archive.
+The archiving routine has saved 293 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 12:55 AM](https://archive.org/download/wral-2022/wral-2022-09-11T00:54:51.931472-04:00.accessibility.json) |
-| [September 10 at 12:14 PM](https://archive.org/download/wral-2022/wral-2022-09-10T12:14:39.714190-04:00.accessibility.json) |
-| [September 10 at 12:57 AM](https://archive.org/download/wral-2022/wral-2022-09-10T00:57:38.833105-04:00.accessibility.json) |
-| [September 9 at 12:39 PM](https://archive.org/download/wral-2022/wral-2022-09-09T12:39:00.549843-04:00.accessibility.json) |
-| [September 9 at 1:02 AM](https://archive.org/download/wral-2022/wral-2022-09-09T01:02:13.426007-04:00.accessibility.json) |
-| [September 8 at 12:41 PM](https://archive.org/download/wral-2022/wral-2022-09-08T12:41:11.800911-04:00.accessibility.json) |
-| [September 8 at 12:52 AM](https://archive.org/download/wral-2022/wral-2022-09-08T00:52:45.292490-04:00.accessibility.json) |
-| [September 7 at 1:18 PM](https://archive.org/download/wral-2022/wral-2022-09-07T13:18:24.661675-04:00.accessibility.json) |
-| [September 7 at 12:58 AM](https://archive.org/download/wral-2022/wral-2022-09-07T00:58:04.779891-04:00.accessibility.json) |
-| [September 6 at 1:01 AM](https://archive.org/download/wral-2022/wral-2022-09-06T01:00:55.642334-04:00.accessibility.json) |
+| [September 19 at 1:30 PM](https://archive.org/download/wral-2022/wral-2022-09-19T13:30:47.245669-04:00.accessibility.json) |
+| [September 19 at 2:02 AM](https://archive.org/download/wral-2022/wral-2022-09-19T02:01:58.920933-04:00.accessibility.json) |
+| [September 18 at 1:21 PM](https://archive.org/download/wral-2022/wral-2022-09-18T13:21:00.273708-04:00.accessibility.json) |
+| [September 18 at 1:33 AM](https://archive.org/download/wral-2022/wral-2022-09-18T01:33:06.343842-04:00.accessibility.json) |
+| [September 17 at 12:58 PM](https://archive.org/download/wral-2022/wral-2022-09-17T12:58:37.985689-04:00.accessibility.json) |
+| [September 17 at 1:27 AM](https://archive.org/download/wral-2022/wral-2022-09-17T01:27:02.307791-04:00.accessibility.json) |
+| [September 16 at 1:03 PM](https://archive.org/download/wral-2022/wral-2022-09-16T13:03:01.160409-04:00.accessibility.json) |
+| [September 16 at 1:37 AM](https://archive.org/download/wral-2022/wral-2022-09-16T01:37:13.049727-04:00.accessibility.json) |
+| [September 15 at 1:19 PM](https://archive.org/download/wral-2022/wral-2022-09-15T13:18:39.029481-04:00.accessibility.json) |
+| [September 15 at 1:35 AM](https://archive.org/download/wral-2022/wral-2022-09-15T01:35:46.504363-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 115 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 12:55 AM](https://archive.org/download/wral-2022/wral-2022-09-11T00:54:51.931472-04:00.lighthouse.json) |
-| [September 10 at 12:14 PM](https://archive.org/download/wral-2022/wral-2022-09-10T12:14:39.714190-04:00.lighthouse.json) |
-| [September 10 at 12:57 AM](https://archive.org/download/wral-2022/wral-2022-09-10T00:57:38.833105-04:00.lighthouse.json) |
-| [September 9 at 12:39 PM](https://archive.org/download/wral-2022/wral-2022-09-09T12:39:00.549843-04:00.lighthouse.json) |
-| [September 9 at 1:02 AM](https://archive.org/download/wral-2022/wral-2022-09-09T01:02:13.426007-04:00.lighthouse.json) |
-| [September 8 at 12:41 PM](https://archive.org/download/wral-2022/wral-2022-09-08T12:41:11.800911-04:00.lighthouse.json) |
-| [September 8 at 12:52 AM](https://archive.org/download/wral-2022/wral-2022-09-08T00:52:45.292490-04:00.lighthouse.json) |
-| [September 7 at 1:18 PM](https://archive.org/download/wral-2022/wral-2022-09-07T13:18:24.661675-04:00.lighthouse.json) |
-| [September 7 at 12:58 AM](https://archive.org/download/wral-2022/wral-2022-09-07T00:58:04.779891-04:00.lighthouse.json) |
-| [September 6 at 1:01 AM](https://archive.org/download/wral-2022/wral-2022-09-06T01:00:55.642334-04:00.lighthouse.json) |
+| [September 19 at 1:30 PM](https://archive.org/download/wral-2022/wral-2022-09-19T13:30:47.245669-04:00.lighthouse.json) |
+| [September 19 at 2:02 AM](https://archive.org/download/wral-2022/wral-2022-09-19T02:01:58.920933-04:00.lighthouse.json) |
+| [September 18 at 1:21 PM](https://archive.org/download/wral-2022/wral-2022-09-18T13:21:00.273708-04:00.lighthouse.json) |
+| [September 18 at 1:33 AM](https://archive.org/download/wral-2022/wral-2022-09-18T01:33:06.343842-04:00.lighthouse.json) |
+| [September 17 at 12:58 PM](https://archive.org/download/wral-2022/wral-2022-09-17T12:58:37.985689-04:00.lighthouse.json) |
+| [September 17 at 1:27 AM](https://archive.org/download/wral-2022/wral-2022-09-17T01:27:02.307791-04:00.lighthouse.json) |
+| [September 16 at 1:03 PM](https://archive.org/download/wral-2022/wral-2022-09-16T13:03:01.160409-04:00.lighthouse.json) |
+| [September 16 at 1:37 AM](https://archive.org/download/wral-2022/wral-2022-09-16T01:37:13.049727-04:00.lighthouse.json) |
+| [September 15 at 1:19 PM](https://archive.org/download/wral-2022/wral-2022-09-15T13:18:39.029481-04:00.lighthouse.json) |
+| [September 15 at 1:35 AM](https://archive.org/download/wral-2022/wral-2022-09-15T01:35:46.504363-04:00.lighthouse.json) |
 
 
 

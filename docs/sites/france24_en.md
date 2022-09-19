@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 348 screenshots with the Internet Archive.
+The archiving routine has saved 372 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-11T10:14:55.323092+02:00.jpg">
-  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-09-11T10:14:55.323092+02:00.jpg"
-     alt="France 24 English at 2022-09-11 10:14:57+02:00 local time"
+ <a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-19T13:55:29.390303+02:00.jpg">
+  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-09-19T13:55:29.390303+02:00.jpg"
+     alt="France 24 English at 2022-09-19 13:55:31+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-11T10:14:55.323092+02:00.jpg">September 11 at 10:14 AM</a></p>
+ <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-19T13:55:29.390303+02:00.jpg">September 19 at 1:55 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-11T02:09:44.900870+02:00.jpg">
-  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-09-11T02:09:44.900870+02:00.jpg"
-     alt="France 24 English at 2022-09-11 02:09:47+02:00 local time"
+ <a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-19T10:19:10.918338+02:00.jpg">
+  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-09-19T10:19:10.918338+02:00.jpg"
+     alt="France 24 English at 2022-09-19 10:19:12+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-11T02:09:44.900870+02:00.jpg">September 11 at 2:09 AM</a></p>
+ <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-19T10:19:10.918338+02:00.jpg">September 19 at 10:19 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-10T13:56:35.891911+02:00.jpg">
-  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-09-10T13:56:35.891911+02:00.jpg"
-     alt="France 24 English at 2022-09-10 13:56:37+02:00 local time"
+ <a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-19T01:47:01.487890+02:00.jpg">
+  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-09-19T01:47:01.487890+02:00.jpg"
+     alt="France 24 English at 2022-09-19 01:47:03+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-10T13:56:35.891911+02:00.jpg">September 10 at 1:56 PM</a></p>
+ <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-19T01:47:01.487890+02:00.jpg">September 19 at 1:47 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-10T10:14:28.183906+02:00.jpg">
-  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-09-10T10:14:28.183906+02:00.jpg"
-     alt="France 24 English at 2022-09-10 10:14:30+02:00 local time"
+ <a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-18T13:56:20.578391+02:00.jpg">
+  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-09-18T13:56:20.578391+02:00.jpg"
+     alt="France 24 English at 2022-09-18 13:56:32+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-10T10:14:28.183906+02:00.jpg">September 10 at 10:14 AM</a></p>
+ <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-18T13:56:20.578391+02:00.jpg">September 18 at 1:56 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-10T02:02:26.062545+02:00.jpg">
-  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-09-10T02:02:26.062545+02:00.jpg"
-     alt="France 24 English at 2022-09-10 02:02:28+02:00 local time"
+ <a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-18T10:17:18.381031+02:00.jpg">
+  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-09-18T10:17:18.381031+02:00.jpg"
+     alt="France 24 English at 2022-09-18 10:17:20+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-10T02:02:26.062545+02:00.jpg">September 10 at 2:02 AM</a></p>
+ <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-18T10:17:18.381031+02:00.jpg">September 18 at 10:17 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-09T14:13:28.057616+02:00.jpg">
-  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-09-09T14:13:28.057616+02:00.jpg"
-     alt="France 24 English at 2022-09-09 14:13:29+02:00 local time"
+ <a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-18T01:50:01.674511+02:00.jpg">
+  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-09-18T01:50:01.674511+02:00.jpg"
+     alt="France 24 English at 2022-09-18 01:50:03+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-09T14:13:28.057616+02:00.jpg">September 9 at 2:13 PM</a></p>
+ <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-18T01:50:01.674511+02:00.jpg">September 18 at 1:50 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-09T10:19:20.895059+02:00.jpg">
-  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-09-09T10:19:20.895059+02:00.jpg"
-     alt="France 24 English at 2022-09-09 10:19:23+02:00 local time"
+ <a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-17T13:57:41.693302+02:00.jpg">
+  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-09-17T13:57:41.693302+02:00.jpg"
+     alt="France 24 English at 2022-09-17 13:57:43+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-09T10:19:20.895059+02:00.jpg">September 9 at 10:19 AM</a></p>
+ <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-17T13:57:41.693302+02:00.jpg">September 17 at 1:57 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-09T02:02:36.117177+02:00.jpg">
-  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-09-09T02:02:36.117177+02:00.jpg"
-     alt="France 24 English at 2022-09-09 02:03:01+02:00 local time"
+ <a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-17T10:15:11.741423+02:00.jpg">
+  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-09-17T10:15:11.741423+02:00.jpg"
+     alt="France 24 English at 2022-09-17 10:15:13+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-09T02:02:36.117177+02:00.jpg">September 9 at 2:03 AM</a></p>
+ <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-17T10:15:11.741423+02:00.jpg">September 17 at 10:15 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-08T14:14:32.967552+02:00.jpg">
-  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-09-08T14:14:32.967552+02:00.jpg"
-     alt="France 24 English at 2022-09-08 14:14:41+02:00 local time"
+ <a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-17T01:50:40.349219+02:00.jpg">
+  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-09-17T01:50:40.349219+02:00.jpg"
+     alt="France 24 English at 2022-09-17 01:50:42+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-08T14:14:32.967552+02:00.jpg">September 8 at 2:14 PM</a></p>
+ <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-17T01:50:40.349219+02:00.jpg">September 17 at 1:50 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-08T10:16:43.296384+02:00.jpg">
-  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-09-08T10:16:43.296384+02:00.jpg"
-     alt="France 24 English at 2022-09-08 10:16:48+02:00 local time"
+ <a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-16T13:57:41.260415+02:00.jpg">
+  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-09-16T13:57:41.260415+02:00.jpg"
+     alt="France 24 English at 2022-09-16 13:57:59+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-08T10:16:43.296384+02:00.jpg">September 8 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-16T13:57:41.260415+02:00.jpg">September 16 at 1:57 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-08T01:52:53.489989+02:00.jpg">
-  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-09-08T01:52:53.489989+02:00.jpg"
-     alt="France 24 English at 2022-09-08 01:52:55+02:00 local time"
+ <a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-16T10:15:37.828129+02:00.jpg">
+  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-09-16T10:15:37.828129+02:00.jpg"
+     alt="France 24 English at 2022-09-16 10:15:58+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-08T01:52:53.489989+02:00.jpg">September 8 at 1:52 AM</a></p>
+ <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-16T10:15:37.828129+02:00.jpg">September 16 at 10:15 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-07T14:31:53.093154+02:00.jpg">
-  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-09-07T14:31:53.093154+02:00.jpg"
-     alt="France 24 English at 2022-09-07 14:31:54+02:00 local time"
+ <a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-16T01:49:56.098252+02:00.jpg">
+  <img src="https://archive.org/download/france24_en-2022/france24_en-2022-09-16T01:49:56.098252+02:00.jpg"
+     alt="France 24 English at 2022-09-16 01:50:15+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-07T14:31:53.093154+02:00.jpg">September 7 at 2:31 PM</a></p>
+ <p><a href="https://archive.org/download/france24_en-2022/france24_en-2022-09-16T01:49:56.098252+02:00.jpg">September 16 at 1:50 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 349 hyperlink lists with the Internet Archive.
+The archiving routine has saved 373 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 10:15 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-11T10:14:55.323092+02:00.hyperlinks.json) |
-| [September 11 at 2:09 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-11T02:09:44.900870+02:00.hyperlinks.json) |
-| [September 10 at 1:56 PM](https://archive.org/download/france24_en-2022/france24_en-2022-09-10T13:56:35.891911+02:00.hyperlinks.json) |
-| [September 10 at 10:14 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-10T10:14:28.183906+02:00.hyperlinks.json) |
-| [September 10 at 2:02 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-10T02:02:26.062545+02:00.hyperlinks.json) |
-| [September 9 at 2:13 PM](https://archive.org/download/france24_en-2022/france24_en-2022-09-09T14:13:28.057616+02:00.hyperlinks.json) |
-| [September 9 at 10:19 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-09T10:19:20.895059+02:00.hyperlinks.json) |
-| [September 9 at 2:03 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-09T02:02:36.117177+02:00.hyperlinks.json) |
-| [September 8 at 2:14 PM](https://archive.org/download/france24_en-2022/france24_en-2022-09-08T14:14:32.967552+02:00.hyperlinks.json) |
-| [September 8 at 10:16 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-08T10:16:43.296384+02:00.hyperlinks.json) |
+| [September 19 at 1:55 PM](https://archive.org/download/france24_en-2022/france24_en-2022-09-19T13:55:29.390303+02:00.hyperlinks.json) |
+| [September 19 at 10:19 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-19T10:19:10.918338+02:00.hyperlinks.json) |
+| [September 19 at 1:47 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-19T01:47:01.487890+02:00.hyperlinks.json) |
+| [September 18 at 1:56 PM](https://archive.org/download/france24_en-2022/france24_en-2022-09-18T13:56:20.578391+02:00.hyperlinks.json) |
+| [September 18 at 10:17 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-18T10:17:18.381031+02:00.hyperlinks.json) |
+| [September 18 at 1:50 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-18T01:50:01.674511+02:00.hyperlinks.json) |
+| [September 17 at 1:57 PM](https://archive.org/download/france24_en-2022/france24_en-2022-09-17T13:57:41.693302+02:00.hyperlinks.json) |
+| [September 17 at 10:15 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-17T10:15:11.741423+02:00.hyperlinks.json) |
+| [September 17 at 1:50 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-17T01:50:40.349219+02:00.hyperlinks.json) |
+| [September 16 at 1:58 PM](https://archive.org/download/france24_en-2022/france24_en-2022-09-16T13:57:41.260415+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 348 accessibility trees with the Internet Archive.
+The archiving routine has saved 372 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 10:14 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-11T10:14:55.323092+02:00.accessibility.json) |
-| [September 11 at 2:09 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-11T02:09:44.900870+02:00.accessibility.json) |
-| [September 10 at 1:56 PM](https://archive.org/download/france24_en-2022/france24_en-2022-09-10T13:56:35.891911+02:00.accessibility.json) |
-| [September 10 at 10:14 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-10T10:14:28.183906+02:00.accessibility.json) |
-| [September 10 at 2:02 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-10T02:02:26.062545+02:00.accessibility.json) |
-| [September 9 at 2:13 PM](https://archive.org/download/france24_en-2022/france24_en-2022-09-09T14:13:28.057616+02:00.accessibility.json) |
-| [September 9 at 10:19 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-09T10:19:20.895059+02:00.accessibility.json) |
-| [September 9 at 2:03 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-09T02:02:36.117177+02:00.accessibility.json) |
-| [September 8 at 2:14 PM](https://archive.org/download/france24_en-2022/france24_en-2022-09-08T14:14:32.967552+02:00.accessibility.json) |
-| [September 8 at 10:16 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-08T10:16:43.296384+02:00.accessibility.json) |
+| [September 19 at 1:55 PM](https://archive.org/download/france24_en-2022/france24_en-2022-09-19T13:55:29.390303+02:00.accessibility.json) |
+| [September 19 at 10:19 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-19T10:19:10.918338+02:00.accessibility.json) |
+| [September 19 at 1:47 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-19T01:47:01.487890+02:00.accessibility.json) |
+| [September 18 at 1:56 PM](https://archive.org/download/france24_en-2022/france24_en-2022-09-18T13:56:20.578391+02:00.accessibility.json) |
+| [September 18 at 10:17 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-18T10:17:18.381031+02:00.accessibility.json) |
+| [September 18 at 1:50 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-18T01:50:01.674511+02:00.accessibility.json) |
+| [September 17 at 1:57 PM](https://archive.org/download/france24_en-2022/france24_en-2022-09-17T13:57:41.693302+02:00.accessibility.json) |
+| [September 17 at 10:15 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-17T10:15:11.741423+02:00.accessibility.json) |
+| [September 17 at 1:50 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-17T01:50:40.349219+02:00.accessibility.json) |
+| [September 16 at 1:58 PM](https://archive.org/download/france24_en-2022/france24_en-2022-09-16T13:57:41.260415+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 147 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 171 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 10:15 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-11T10:14:55.323092+02:00.lighthouse.json) |
-| [September 11 at 2:09 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-11T02:09:44.900870+02:00.lighthouse.json) |
-| [September 10 at 1:56 PM](https://archive.org/download/france24_en-2022/france24_en-2022-09-10T13:56:35.891911+02:00.lighthouse.json) |
-| [September 10 at 10:14 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-10T10:14:28.183906+02:00.lighthouse.json) |
-| [September 10 at 2:02 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-10T02:02:26.062545+02:00.lighthouse.json) |
-| [September 9 at 2:13 PM](https://archive.org/download/france24_en-2022/france24_en-2022-09-09T14:13:28.057616+02:00.lighthouse.json) |
-| [September 9 at 10:19 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-09T10:19:20.895059+02:00.lighthouse.json) |
-| [September 9 at 2:03 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-09T02:02:36.117177+02:00.lighthouse.json) |
-| [September 8 at 2:14 PM](https://archive.org/download/france24_en-2022/france24_en-2022-09-08T14:14:32.967552+02:00.lighthouse.json) |
-| [September 8 at 10:16 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-08T10:16:43.296384+02:00.lighthouse.json) |
+| [September 19 at 1:55 PM](https://archive.org/download/france24_en-2022/france24_en-2022-09-19T13:55:29.390303+02:00.lighthouse.json) |
+| [September 19 at 10:19 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-19T10:19:10.918338+02:00.lighthouse.json) |
+| [September 19 at 1:47 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-19T01:47:01.487890+02:00.lighthouse.json) |
+| [September 18 at 1:56 PM](https://archive.org/download/france24_en-2022/france24_en-2022-09-18T13:56:20.578391+02:00.lighthouse.json) |
+| [September 18 at 10:17 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-18T10:17:18.381031+02:00.lighthouse.json) |
+| [September 18 at 1:50 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-18T01:50:01.674511+02:00.lighthouse.json) |
+| [September 17 at 1:57 PM](https://archive.org/download/france24_en-2022/france24_en-2022-09-17T13:57:41.693302+02:00.lighthouse.json) |
+| [September 17 at 10:15 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-17T10:15:11.741423+02:00.lighthouse.json) |
+| [September 17 at 1:50 AM](https://archive.org/download/france24_en-2022/france24_en-2022-09-17T01:50:40.349219+02:00.lighthouse.json) |
+| [September 16 at 1:58 PM](https://archive.org/download/france24_en-2022/france24_en-2022-09-16T13:57:41.260415+02:00.lighthouse.json) |
 
 
 

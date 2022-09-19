@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 173 screenshots with the Internet Archive.
+The archiving routine has saved 190 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-11T09:05:10.855339-04:00.jpg">
-  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-09-11T09:05:10.855339-04:00.jpg"
-     alt="SB Nation at 2022-09-11 09:05:18-04:00 local time"
+ <a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-19T10:03:59.232225-04:00.jpg">
+  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-09-19T10:03:59.232225-04:00.jpg"
+     alt="SB Nation at 2022-09-19 10:04:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-11T09:05:10.855339-04:00.jpg">September 11 at 9:05 AM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-19T10:03:59.232225-04:00.jpg">September 19 at 10:04 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-10T21:22:16.741790-04:00.jpg">
-  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-09-10T21:22:16.741790-04:00.jpg"
-     alt="SB Nation at 2022-09-10 21:22:23-04:00 local time"
+ <a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-18T22:19:28.183934-04:00.jpg">
+  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-09-18T22:19:28.183934-04:00.jpg"
+     alt="SB Nation at 2022-09-18 22:19:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-10T21:22:16.741790-04:00.jpg">September 10 at 9:22 PM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-18T22:19:28.183934-04:00.jpg">September 18 at 10:19 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-10T09:06:53.985378-04:00.jpg">
-  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-09-10T09:06:53.985378-04:00.jpg"
-     alt="SB Nation at 2022-09-10 09:07:01-04:00 local time"
+ <a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-18T09:01:55.856015-04:00.jpg">
+  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-09-18T09:01:55.856015-04:00.jpg"
+     alt="SB Nation at 2022-09-18 09:02:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-10T09:06:53.985378-04:00.jpg">September 10 at 9:07 AM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-18T09:01:55.856015-04:00.jpg">September 18 at 9:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-09T21:25:57.077070-04:00.jpg">
-  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-09-09T21:25:57.077070-04:00.jpg"
-     alt="SB Nation at 2022-09-09 21:26:03-04:00 local time"
+ <a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-17T21:22:49.861332-04:00.jpg">
+  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-09-17T21:22:49.861332-04:00.jpg"
+     alt="SB Nation at 2022-09-17 21:22:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-09T21:25:57.077070-04:00.jpg">September 9 at 9:26 PM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-17T21:22:49.861332-04:00.jpg">September 17 at 9:22 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-09T09:23:09.803613-04:00.jpg">
-  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-09-09T09:23:09.803613-04:00.jpg"
-     alt="SB Nation at 2022-09-09 09:23:14-04:00 local time"
+ <a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-17T09:02:03.523106-04:00.jpg">
+  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-09-17T09:02:03.523106-04:00.jpg"
+     alt="SB Nation at 2022-09-17 09:02:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-09T09:23:09.803613-04:00.jpg">September 9 at 9:23 AM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-17T09:02:03.523106-04:00.jpg">September 17 at 9:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-08T21:25:59.017563-04:00.jpg">
-  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-09-08T21:25:59.017563-04:00.jpg"
-     alt="SB Nation at 2022-09-08 21:26:05-04:00 local time"
+ <a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-16T21:16:35.965800-04:00.jpg">
+  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-09-16T21:16:35.965800-04:00.jpg"
+     alt="SB Nation at 2022-09-16 21:16:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-08T21:25:59.017563-04:00.jpg">September 8 at 9:26 PM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-16T21:16:35.965800-04:00.jpg">September 16 at 9:16 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-08T09:14:56.970848-04:00.jpg">
-  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-09-08T09:14:56.970848-04:00.jpg"
-     alt="SB Nation at 2022-09-08 09:15:22-04:00 local time"
+ <a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-16T09:02:20.208225-04:00.jpg">
+  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-09-16T09:02:20.208225-04:00.jpg"
+     alt="SB Nation at 2022-09-16 09:02:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-08T09:14:56.970848-04:00.jpg">September 8 at 9:15 AM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-16T09:02:20.208225-04:00.jpg">September 16 at 9:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-07T21:25:01.333950-04:00.jpg">
-  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-09-07T21:25:01.333950-04:00.jpg"
-     alt="SB Nation at 2022-09-07 21:25:13-04:00 local time"
+ <a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-15T21:18:51.820555-04:00.jpg">
+  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-09-15T21:18:51.820555-04:00.jpg"
+     alt="SB Nation at 2022-09-15 21:18:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-07T21:25:01.333950-04:00.jpg">September 7 at 9:25 PM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-15T21:18:51.820555-04:00.jpg">September 15 at 9:18 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-07T09:47:39.907836-04:00.jpg">
-  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-09-07T09:47:39.907836-04:00.jpg"
-     alt="SB Nation at 2022-09-07 09:47:52-04:00 local time"
+ <a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-15T21:18:27.179442-04:00.jpg">
+  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-09-15T21:18:27.179442-04:00.jpg"
+     alt="SB Nation at 2022-09-15 21:18:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-07T09:47:39.907836-04:00.jpg">September 7 at 9:47 AM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-15T21:18:27.179442-04:00.jpg">September 15 at 9:18 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-06T21:21:07.300146-04:00.jpg">
-  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-09-06T21:21:07.300146-04:00.jpg"
-     alt="SB Nation at 2022-09-06 21:21:09-04:00 local time"
+ <a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-15T09:06:15.585273-04:00.jpg">
+  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-09-15T09:06:15.585273-04:00.jpg"
+     alt="SB Nation at 2022-09-15 09:06:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-06T21:21:07.300146-04:00.jpg">September 6 at 9:21 PM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-15T09:06:15.585273-04:00.jpg">September 15 at 9:06 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-05T21:25:58.112786-04:00.jpg">
-  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-09-05T21:25:58.112786-04:00.jpg"
-     alt="SB Nation at 2022-09-05 21:26:05-04:00 local time"
+ <a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-14T21:21:51.480593-04:00.jpg">
+  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-09-14T21:21:51.480593-04:00.jpg"
+     alt="SB Nation at 2022-09-14 21:22:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-05T21:25:58.112786-04:00.jpg">September 5 at 9:26 PM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-14T21:21:51.480593-04:00.jpg">September 14 at 9:22 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-05T10:10:54.094031-04:00.jpg">
-  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-09-05T10:10:54.094031-04:00.jpg"
-     alt="SB Nation at 2022-09-05 10:11:00-04:00 local time"
+ <a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-14T09:09:45.061052-04:00.jpg">
+  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-09-14T09:09:45.061052-04:00.jpg"
+     alt="SB Nation at 2022-09-14 09:09:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-05T10:10:54.094031-04:00.jpg">September 5 at 10:11 AM</a></p>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-09-14T09:09:45.061052-04:00.jpg">September 14 at 9:09 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 171 hyperlink lists with the Internet Archive.
+The archiving routine has saved 187 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 9:05 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-11T09:05:10.855339-04:00.hyperlinks.json) |
-| [September 10 at 9:22 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-10T21:22:16.741790-04:00.hyperlinks.json) |
-| [September 10 at 9:07 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-10T09:06:53.985378-04:00.hyperlinks.json) |
-| [September 9 at 9:26 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-09T21:25:57.077070-04:00.hyperlinks.json) |
-| [September 9 at 9:23 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-09T09:23:09.803613-04:00.hyperlinks.json) |
-| [September 8 at 9:26 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-08T21:25:59.017563-04:00.hyperlinks.json) |
-| [September 8 at 9:15 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-08T09:14:56.970848-04:00.hyperlinks.json) |
-| [September 7 at 9:25 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-07T21:25:01.333950-04:00.hyperlinks.json) |
-| [September 7 at 9:47 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-07T09:47:39.907836-04:00.hyperlinks.json) |
-| [September 6 at 9:21 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-06T21:21:07.300146-04:00.hyperlinks.json) |
+| [September 19 at 10:04 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-19T10:03:59.232225-04:00.hyperlinks.json) |
+| [September 18 at 10:19 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-18T22:19:28.183934-04:00.hyperlinks.json) |
+| [September 18 at 9:02 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-18T09:01:55.856015-04:00.hyperlinks.json) |
+| [September 17 at 9:23 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-17T21:22:49.861332-04:00.hyperlinks.json) |
+| [September 17 at 9:02 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-17T09:02:03.523106-04:00.hyperlinks.json) |
+| [September 16 at 9:16 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-16T21:16:35.965800-04:00.hyperlinks.json) |
+| [September 16 at 9:02 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-16T09:02:20.208225-04:00.hyperlinks.json) |
+| [September 15 at 9:18 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-15T21:18:27.179442-04:00.hyperlinks.json) |
+| [September 15 at 9:06 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-15T09:06:15.585273-04:00.hyperlinks.json) |
+| [September 14 at 9:22 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-14T21:21:51.480593-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 174 accessibility trees with the Internet Archive.
+The archiving routine has saved 191 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 9:05 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-11T09:05:10.855339-04:00.accessibility.json) |
-| [September 10 at 9:22 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-10T21:22:16.741790-04:00.accessibility.json) |
-| [September 10 at 9:07 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-10T09:06:53.985378-04:00.accessibility.json) |
-| [September 9 at 9:26 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-09T21:25:57.077070-04:00.accessibility.json) |
-| [September 9 at 9:23 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-09T09:23:09.803613-04:00.accessibility.json) |
-| [September 8 at 9:26 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-08T21:25:59.017563-04:00.accessibility.json) |
-| [September 8 at 9:15 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-08T09:14:56.970848-04:00.accessibility.json) |
-| [September 7 at 9:25 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-07T21:25:01.333950-04:00.accessibility.json) |
-| [September 7 at 9:47 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-07T09:47:39.907836-04:00.accessibility.json) |
-| [September 6 at 9:21 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-06T21:21:07.300146-04:00.accessibility.json) |
+| [September 19 at 10:04 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-19T10:03:59.232225-04:00.accessibility.json) |
+| [September 18 at 10:19 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-18T22:19:28.183934-04:00.accessibility.json) |
+| [September 18 at 9:02 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-18T09:01:55.856015-04:00.accessibility.json) |
+| [September 17 at 9:22 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-17T21:22:49.861332-04:00.accessibility.json) |
+| [September 17 at 9:02 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-17T09:02:03.523106-04:00.accessibility.json) |
+| [September 16 at 9:16 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-16T21:16:35.965800-04:00.accessibility.json) |
+| [September 16 at 9:02 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-16T09:02:20.208225-04:00.accessibility.json) |
+| [September 15 at 9:18 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-15T21:18:51.820555-04:00.accessibility.json) |
+| [September 15 at 9:18 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-15T21:18:27.179442-04:00.accessibility.json) |
+| [September 15 at 9:06 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-15T09:06:15.585273-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 100 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 115 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 9:05 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-11T09:05:10.855339-04:00.lighthouse.json) |
-| [September 10 at 9:22 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-10T21:22:16.741790-04:00.lighthouse.json) |
-| [September 10 at 9:07 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-10T09:06:53.985378-04:00.lighthouse.json) |
-| [September 9 at 9:26 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-09T21:25:57.077070-04:00.lighthouse.json) |
-| [September 9 at 9:23 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-09T09:23:09.803613-04:00.lighthouse.json) |
-| [September 8 at 9:26 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-08T21:25:59.017563-04:00.lighthouse.json) |
-| [September 8 at 9:15 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-08T09:14:56.970848-04:00.lighthouse.json) |
-| [September 7 at 9:25 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-07T21:25:01.333950-04:00.lighthouse.json) |
-| [September 7 at 9:47 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-07T09:47:39.907836-04:00.lighthouse.json) |
-| [September 6 at 9:21 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-06T21:21:07.300146-04:00.lighthouse.json) |
+| [September 19 at 10:04 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-19T10:03:59.232225-04:00.lighthouse.json) |
+| [September 18 at 10:19 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-18T22:19:28.183934-04:00.lighthouse.json) |
+| [September 18 at 9:02 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-18T09:01:55.856015-04:00.lighthouse.json) |
+| [September 17 at 9:23 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-17T21:22:49.861332-04:00.lighthouse.json) |
+| [September 17 at 9:02 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-17T09:02:03.523106-04:00.lighthouse.json) |
+| [September 16 at 9:16 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-16T21:16:35.965800-04:00.lighthouse.json) |
+| [September 16 at 9:02 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-16T09:02:20.208225-04:00.lighthouse.json) |
+| [September 15 at 9:06 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-15T09:06:15.585273-04:00.lighthouse.json) |
+| [September 14 at 9:22 PM](https://archive.org/download/sbnation-2022/sbnation-2022-09-14T21:21:51.480593-04:00.lighthouse.json) |
+| [September 14 at 9:10 AM](https://archive.org/download/sbnation-2022/sbnation-2022-09-14T09:09:45.061052-04:00.lighthouse.json) |
 
 
 

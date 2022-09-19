@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 64 screenshots with the Internet Archive.
+The archiving routine has saved 79 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/sz-2022/sz-2022-09-11T15:05:40.644641+02:00.jpg">
-  <img src="https://archive.org/download/sz-2022/sz-2022-09-11T15:05:40.644641+02:00.jpg"
-     alt="Süddeutsche Zeitung at 2022-09-11 15:05:48+02:00 local time"
+ <a href="https://archive.org/download/sz-2022/sz-2022-09-19T16:06:09.383652+02:00.jpg">
+  <img src="https://archive.org/download/sz-2022/sz-2022-09-19T16:06:09.383652+02:00.jpg"
+     alt="Süddeutsche Zeitung at 2022-09-19 16:06:11+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sz-2022/sz-2022-09-11T15:05:40.644641+02:00.jpg">September 11 at 3:05 PM</a></p>
+ <p><a href="https://archive.org/download/sz-2022/sz-2022-09-19T16:06:09.383652+02:00.jpg">September 19 at 4:06 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sz-2022/sz-2022-09-11T03:22:11.425603+02:00.jpg">
-  <img src="https://archive.org/download/sz-2022/sz-2022-09-11T03:22:11.425603+02:00.jpg"
-     alt="Süddeutsche Zeitung at 2022-09-11 03:22:17+02:00 local time"
+ <a href="https://archive.org/download/sz-2022/sz-2022-09-19T04:20:45.879577+02:00.jpg">
+  <img src="https://archive.org/download/sz-2022/sz-2022-09-19T04:20:45.879577+02:00.jpg"
+     alt="Süddeutsche Zeitung at 2022-09-19 04:20:49+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sz-2022/sz-2022-09-11T03:22:11.425603+02:00.jpg">September 11 at 3:22 AM</a></p>
+ <p><a href="https://archive.org/download/sz-2022/sz-2022-09-19T04:20:45.879577+02:00.jpg">September 19 at 4:20 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sz-2022/sz-2022-09-10T15:07:08.950213+02:00.jpg">
-  <img src="https://archive.org/download/sz-2022/sz-2022-09-10T15:07:08.950213+02:00.jpg"
-     alt="Süddeutsche Zeitung at 2022-09-10 15:07:12+02:00 local time"
+ <a href="https://archive.org/download/sz-2022/sz-2022-09-18T15:03:56.039562+02:00.jpg">
+  <img src="https://archive.org/download/sz-2022/sz-2022-09-18T15:03:56.039562+02:00.jpg"
+     alt="Süddeutsche Zeitung at 2022-09-18 15:04:04+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sz-2022/sz-2022-09-10T15:07:08.950213+02:00.jpg">September 10 at 3:07 PM</a></p>
+ <p><a href="https://archive.org/download/sz-2022/sz-2022-09-18T15:03:56.039562+02:00.jpg">September 18 at 3:04 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sz-2022/sz-2022-09-10T03:25:45.110175+02:00.jpg">
-  <img src="https://archive.org/download/sz-2022/sz-2022-09-10T03:25:45.110175+02:00.jpg"
-     alt="Süddeutsche Zeitung at 2022-09-10 03:25:46+02:00 local time"
+ <a href="https://archive.org/download/sz-2022/sz-2022-09-18T03:24:26.292440+02:00.jpg">
+  <img src="https://archive.org/download/sz-2022/sz-2022-09-18T03:24:26.292440+02:00.jpg"
+     alt="Süddeutsche Zeitung at 2022-09-18 03:24:36+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sz-2022/sz-2022-09-10T03:25:45.110175+02:00.jpg">September 10 at 3:25 AM</a></p>
+ <p><a href="https://archive.org/download/sz-2022/sz-2022-09-18T03:24:26.292440+02:00.jpg">September 18 at 3:24 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sz-2022/sz-2022-09-09T15:24:28.709329+02:00.jpg">
-  <img src="https://archive.org/download/sz-2022/sz-2022-09-09T15:24:28.709329+02:00.jpg"
-     alt="Süddeutsche Zeitung at 2022-09-09 15:24:47+02:00 local time"
+ <a href="https://archive.org/download/sz-2022/sz-2022-09-17T15:04:35.792013+02:00.jpg">
+  <img src="https://archive.org/download/sz-2022/sz-2022-09-17T15:04:35.792013+02:00.jpg"
+     alt="Süddeutsche Zeitung at 2022-09-17 15:04:48+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sz-2022/sz-2022-09-09T15:24:28.709329+02:00.jpg">September 9 at 3:24 PM</a></p>
+ <p><a href="https://archive.org/download/sz-2022/sz-2022-09-17T15:04:35.792013+02:00.jpg">September 17 at 3:04 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sz-2022/sz-2022-09-09T03:26:45.543778+02:00.jpg">
-  <img src="https://archive.org/download/sz-2022/sz-2022-09-09T03:26:45.543778+02:00.jpg"
-     alt="Süddeutsche Zeitung at 2022-09-09 03:26:46+02:00 local time"
+ <a href="https://archive.org/download/sz-2022/sz-2022-09-17T03:17:24.213323+02:00.jpg">
+  <img src="https://archive.org/download/sz-2022/sz-2022-09-17T03:17:24.213323+02:00.jpg"
+     alt="Süddeutsche Zeitung at 2022-09-17 03:17:29+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sz-2022/sz-2022-09-09T03:26:45.543778+02:00.jpg">September 9 at 3:26 AM</a></p>
+ <p><a href="https://archive.org/download/sz-2022/sz-2022-09-17T03:17:24.213323+02:00.jpg">September 17 at 3:17 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sz-2022/sz-2022-09-08T15:18:41.773989+02:00.jpg">
-  <img src="https://archive.org/download/sz-2022/sz-2022-09-08T15:18:41.773989+02:00.jpg"
-     alt="Süddeutsche Zeitung at 2022-09-08 15:18:42+02:00 local time"
+ <a href="https://archive.org/download/sz-2022/sz-2022-09-16T15:04:34.266528+02:00.jpg">
+  <img src="https://archive.org/download/sz-2022/sz-2022-09-16T15:04:34.266528+02:00.jpg"
+     alt="Süddeutsche Zeitung at 2022-09-16 15:04:38+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sz-2022/sz-2022-09-08T15:18:41.773989+02:00.jpg">September 8 at 3:18 PM</a></p>
+ <p><a href="https://archive.org/download/sz-2022/sz-2022-09-16T15:04:34.266528+02:00.jpg">September 16 at 3:04 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sz-2022/sz-2022-09-08T03:24:47.805782+02:00.jpg">
-  <img src="https://archive.org/download/sz-2022/sz-2022-09-08T03:24:47.805782+02:00.jpg"
-     alt="Süddeutsche Zeitung at 2022-09-08 03:24:51+02:00 local time"
+ <a href="https://archive.org/download/sz-2022/sz-2022-09-15T15:06:57.830564+02:00.jpg">
+  <img src="https://archive.org/download/sz-2022/sz-2022-09-15T15:06:57.830564+02:00.jpg"
+     alt="Süddeutsche Zeitung at 2022-09-15 15:07:06+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sz-2022/sz-2022-09-08T03:24:47.805782+02:00.jpg">September 8 at 3:24 AM</a></p>
+ <p><a href="https://archive.org/download/sz-2022/sz-2022-09-15T15:06:57.830564+02:00.jpg">September 15 at 3:07 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sz-2022/sz-2022-09-07T15:49:59.047439+02:00.jpg">
-  <img src="https://archive.org/download/sz-2022/sz-2022-09-07T15:49:59.047439+02:00.jpg"
-     alt="Süddeutsche Zeitung at 2022-09-07 15:50:04+02:00 local time"
+ <a href="https://archive.org/download/sz-2022/sz-2022-09-15T03:23:50.494116+02:00.jpg">
+  <img src="https://archive.org/download/sz-2022/sz-2022-09-15T03:23:50.494116+02:00.jpg"
+     alt="Süddeutsche Zeitung at 2022-09-15 03:23:54+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sz-2022/sz-2022-09-07T15:49:59.047439+02:00.jpg">September 7 at 3:50 PM</a></p>
+ <p><a href="https://archive.org/download/sz-2022/sz-2022-09-15T03:23:50.494116+02:00.jpg">September 15 at 3:23 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sz-2022/sz-2022-09-07T03:21:11.470466+02:00.jpg">
-  <img src="https://archive.org/download/sz-2022/sz-2022-09-07T03:21:11.470466+02:00.jpg"
-     alt="Süddeutsche Zeitung at 2022-09-07 03:21:15+02:00 local time"
+ <a href="https://archive.org/download/sz-2022/sz-2022-09-14T15:11:45.676233+02:00.jpg">
+  <img src="https://archive.org/download/sz-2022/sz-2022-09-14T15:11:45.676233+02:00.jpg"
+     alt="Süddeutsche Zeitung at 2022-09-14 15:11:51+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sz-2022/sz-2022-09-07T03:21:11.470466+02:00.jpg">September 7 at 3:21 AM</a></p>
+ <p><a href="https://archive.org/download/sz-2022/sz-2022-09-14T15:11:45.676233+02:00.jpg">September 14 at 3:11 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sz-2022/sz-2022-09-06T03:25:33.021693+02:00.jpg">
-  <img src="https://archive.org/download/sz-2022/sz-2022-09-06T03:25:33.021693+02:00.jpg"
-     alt="Süddeutsche Zeitung at 2022-09-06 03:25:38+02:00 local time"
+ <a href="https://archive.org/download/sz-2022/sz-2022-09-14T03:26:27.279596+02:00.jpg">
+  <img src="https://archive.org/download/sz-2022/sz-2022-09-14T03:26:27.279596+02:00.jpg"
+     alt="Süddeutsche Zeitung at 2022-09-14 03:26:30+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sz-2022/sz-2022-09-06T03:25:33.021693+02:00.jpg">September 6 at 3:25 AM</a></p>
+ <p><a href="https://archive.org/download/sz-2022/sz-2022-09-14T03:26:27.279596+02:00.jpg">September 14 at 3:26 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sz-2022/sz-2022-09-05T16:10:25.902071+02:00.jpg">
-  <img src="https://archive.org/download/sz-2022/sz-2022-09-05T16:10:25.902071+02:00.jpg"
-     alt="Süddeutsche Zeitung at 2022-09-05 16:10:27+02:00 local time"
+ <a href="https://archive.org/download/sz-2022/sz-2022-09-13T15:06:45.614144+02:00.jpg">
+  <img src="https://archive.org/download/sz-2022/sz-2022-09-13T15:06:45.614144+02:00.jpg"
+     alt="Süddeutsche Zeitung at 2022-09-13 15:06:50+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sz-2022/sz-2022-09-05T16:10:25.902071+02:00.jpg">September 5 at 4:10 PM</a></p>
+ <p><a href="https://archive.org/download/sz-2022/sz-2022-09-13T15:06:45.614144+02:00.jpg">September 13 at 3:06 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 64 hyperlink lists with the Internet Archive.
+The archiving routine has saved 79 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 3:05 PM](https://archive.org/download/sz-2022/sz-2022-09-11T15:05:40.644641+02:00.hyperlinks.json) |
-| [September 11 at 3:22 AM](https://archive.org/download/sz-2022/sz-2022-09-11T03:22:11.425603+02:00.hyperlinks.json) |
-| [September 10 at 3:07 PM](https://archive.org/download/sz-2022/sz-2022-09-10T15:07:08.950213+02:00.hyperlinks.json) |
-| [September 10 at 3:25 AM](https://archive.org/download/sz-2022/sz-2022-09-10T03:25:45.110175+02:00.hyperlinks.json) |
-| [September 9 at 3:24 PM](https://archive.org/download/sz-2022/sz-2022-09-09T15:24:28.709329+02:00.hyperlinks.json) |
-| [September 9 at 3:26 AM](https://archive.org/download/sz-2022/sz-2022-09-09T03:26:45.543778+02:00.hyperlinks.json) |
-| [September 8 at 3:18 PM](https://archive.org/download/sz-2022/sz-2022-09-08T15:18:41.773989+02:00.hyperlinks.json) |
-| [September 8 at 3:24 AM](https://archive.org/download/sz-2022/sz-2022-09-08T03:24:47.805782+02:00.hyperlinks.json) |
-| [September 7 at 3:50 PM](https://archive.org/download/sz-2022/sz-2022-09-07T15:49:59.047439+02:00.hyperlinks.json) |
-| [September 7 at 3:21 AM](https://archive.org/download/sz-2022/sz-2022-09-07T03:21:11.470466+02:00.hyperlinks.json) |
+| [September 19 at 4:06 PM](https://archive.org/download/sz-2022/sz-2022-09-19T16:06:09.383652+02:00.hyperlinks.json) |
+| [September 19 at 4:20 AM](https://archive.org/download/sz-2022/sz-2022-09-19T04:20:45.879577+02:00.hyperlinks.json) |
+| [September 18 at 3:04 PM](https://archive.org/download/sz-2022/sz-2022-09-18T15:03:56.039562+02:00.hyperlinks.json) |
+| [September 18 at 3:24 AM](https://archive.org/download/sz-2022/sz-2022-09-18T03:24:26.292440+02:00.hyperlinks.json) |
+| [September 17 at 3:04 PM](https://archive.org/download/sz-2022/sz-2022-09-17T15:04:35.792013+02:00.hyperlinks.json) |
+| [September 17 at 3:17 AM](https://archive.org/download/sz-2022/sz-2022-09-17T03:17:24.213323+02:00.hyperlinks.json) |
+| [September 16 at 3:04 PM](https://archive.org/download/sz-2022/sz-2022-09-16T15:04:34.266528+02:00.hyperlinks.json) |
+| [September 15 at 3:07 PM](https://archive.org/download/sz-2022/sz-2022-09-15T15:06:57.830564+02:00.hyperlinks.json) |
+| [September 15 at 3:23 AM](https://archive.org/download/sz-2022/sz-2022-09-15T03:23:50.494116+02:00.hyperlinks.json) |
+| [September 14 at 3:11 PM](https://archive.org/download/sz-2022/sz-2022-09-14T15:11:45.676233+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 64 accessibility trees with the Internet Archive.
+The archiving routine has saved 79 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 3:05 PM](https://archive.org/download/sz-2022/sz-2022-09-11T15:05:40.644641+02:00.accessibility.json) |
-| [September 11 at 3:22 AM](https://archive.org/download/sz-2022/sz-2022-09-11T03:22:11.425603+02:00.accessibility.json) |
-| [September 10 at 3:07 PM](https://archive.org/download/sz-2022/sz-2022-09-10T15:07:08.950213+02:00.accessibility.json) |
-| [September 10 at 3:25 AM](https://archive.org/download/sz-2022/sz-2022-09-10T03:25:45.110175+02:00.accessibility.json) |
-| [September 9 at 3:24 PM](https://archive.org/download/sz-2022/sz-2022-09-09T15:24:28.709329+02:00.accessibility.json) |
-| [September 9 at 3:26 AM](https://archive.org/download/sz-2022/sz-2022-09-09T03:26:45.543778+02:00.accessibility.json) |
-| [September 8 at 3:18 PM](https://archive.org/download/sz-2022/sz-2022-09-08T15:18:41.773989+02:00.accessibility.json) |
-| [September 8 at 3:24 AM](https://archive.org/download/sz-2022/sz-2022-09-08T03:24:47.805782+02:00.accessibility.json) |
-| [September 7 at 3:50 PM](https://archive.org/download/sz-2022/sz-2022-09-07T15:49:59.047439+02:00.accessibility.json) |
-| [September 7 at 3:21 AM](https://archive.org/download/sz-2022/sz-2022-09-07T03:21:11.470466+02:00.accessibility.json) |
+| [September 19 at 4:06 PM](https://archive.org/download/sz-2022/sz-2022-09-19T16:06:09.383652+02:00.accessibility.json) |
+| [September 19 at 4:20 AM](https://archive.org/download/sz-2022/sz-2022-09-19T04:20:45.879577+02:00.accessibility.json) |
+| [September 18 at 3:04 PM](https://archive.org/download/sz-2022/sz-2022-09-18T15:03:56.039562+02:00.accessibility.json) |
+| [September 18 at 3:24 AM](https://archive.org/download/sz-2022/sz-2022-09-18T03:24:26.292440+02:00.accessibility.json) |
+| [September 17 at 3:04 PM](https://archive.org/download/sz-2022/sz-2022-09-17T15:04:35.792013+02:00.accessibility.json) |
+| [September 17 at 3:17 AM](https://archive.org/download/sz-2022/sz-2022-09-17T03:17:24.213323+02:00.accessibility.json) |
+| [September 16 at 3:04 PM](https://archive.org/download/sz-2022/sz-2022-09-16T15:04:34.266528+02:00.accessibility.json) |
+| [September 15 at 3:07 PM](https://archive.org/download/sz-2022/sz-2022-09-15T15:06:57.830564+02:00.accessibility.json) |
+| [September 15 at 3:23 AM](https://archive.org/download/sz-2022/sz-2022-09-15T03:23:50.494116+02:00.accessibility.json) |
+| [September 14 at 3:11 PM](https://archive.org/download/sz-2022/sz-2022-09-14T15:11:45.676233+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 64 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 79 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 3:05 PM](https://archive.org/download/sz-2022/sz-2022-09-11T15:05:40.644641+02:00.lighthouse.json) |
-| [September 11 at 3:22 AM](https://archive.org/download/sz-2022/sz-2022-09-11T03:22:11.425603+02:00.lighthouse.json) |
-| [September 10 at 3:07 PM](https://archive.org/download/sz-2022/sz-2022-09-10T15:07:08.950213+02:00.lighthouse.json) |
-| [September 10 at 3:25 AM](https://archive.org/download/sz-2022/sz-2022-09-10T03:25:45.110175+02:00.lighthouse.json) |
-| [September 9 at 3:24 PM](https://archive.org/download/sz-2022/sz-2022-09-09T15:24:28.709329+02:00.lighthouse.json) |
-| [September 9 at 3:26 AM](https://archive.org/download/sz-2022/sz-2022-09-09T03:26:45.543778+02:00.lighthouse.json) |
-| [September 8 at 3:18 PM](https://archive.org/download/sz-2022/sz-2022-09-08T15:18:41.773989+02:00.lighthouse.json) |
-| [September 8 at 3:24 AM](https://archive.org/download/sz-2022/sz-2022-09-08T03:24:47.805782+02:00.lighthouse.json) |
-| [September 7 at 3:50 PM](https://archive.org/download/sz-2022/sz-2022-09-07T15:49:59.047439+02:00.lighthouse.json) |
-| [September 7 at 3:21 AM](https://archive.org/download/sz-2022/sz-2022-09-07T03:21:11.470466+02:00.lighthouse.json) |
+| [September 19 at 4:06 PM](https://archive.org/download/sz-2022/sz-2022-09-19T16:06:09.383652+02:00.lighthouse.json) |
+| [September 19 at 4:20 AM](https://archive.org/download/sz-2022/sz-2022-09-19T04:20:45.879577+02:00.lighthouse.json) |
+| [September 18 at 3:04 PM](https://archive.org/download/sz-2022/sz-2022-09-18T15:03:56.039562+02:00.lighthouse.json) |
+| [September 18 at 3:24 AM](https://archive.org/download/sz-2022/sz-2022-09-18T03:24:26.292440+02:00.lighthouse.json) |
+| [September 17 at 3:04 PM](https://archive.org/download/sz-2022/sz-2022-09-17T15:04:35.792013+02:00.lighthouse.json) |
+| [September 17 at 3:17 AM](https://archive.org/download/sz-2022/sz-2022-09-17T03:17:24.213323+02:00.lighthouse.json) |
+| [September 16 at 3:04 PM](https://archive.org/download/sz-2022/sz-2022-09-16T15:04:34.266528+02:00.lighthouse.json) |
+| [September 15 at 3:07 PM](https://archive.org/download/sz-2022/sz-2022-09-15T15:06:57.830564+02:00.lighthouse.json) |
+| [September 15 at 3:24 AM](https://archive.org/download/sz-2022/sz-2022-09-15T03:23:50.494116+02:00.lighthouse.json) |
+| [September 14 at 3:11 PM](https://archive.org/download/sz-2022/sz-2022-09-14T15:11:45.676233+02:00.lighthouse.json) |
 
 
 

@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 166 screenshots with the Internet Archive.
+The archiving routine has saved 190 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-11T18:08:25.107985+03:00.jpg">
-  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-11T18:08:25.107985+03:00.jpg"
-     alt="Lenta.ru at 2022-09-11 18:08:33+03:00 local time"
+ <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-19T20:32:27.382704+03:00.jpg">
+  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-19T20:32:27.382704+03:00.jpg"
+     alt="Lenta.ru at 2022-09-19 20:32:38+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-11T18:08:25.107985+03:00.jpg">September 11 at 6:08 PM</a></p>
+ <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-19T20:32:27.382704+03:00.jpg">September 19 at 8:32 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-11T08:29:00.207061+03:00.jpg">
-  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-11T08:29:00.207061+03:00.jpg"
-     alt="Lenta.ru at 2022-09-11 08:29:01+03:00 local time"
+ <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-19T09:24:22.858766+03:00.jpg">
+  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-19T09:24:22.858766+03:00.jpg"
+     alt="Lenta.ru at 2022-09-19 09:24:25+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-11T08:29:00.207061+03:00.jpg">September 11 at 8:29 AM</a></p>
+ <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-19T09:24:22.858766+03:00.jpg">September 19 at 9:24 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-11T06:53:22.933847+03:00.jpg">
-  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-11T06:53:22.933847+03:00.jpg"
-     alt="Lenta.ru at 2022-09-11 06:53:29+03:00 local time"
+ <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-19T09:03:14.685820+03:00.jpg">
+  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-19T09:03:14.685820+03:00.jpg"
+     alt="Lenta.ru at 2022-09-19 09:03:16+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-11T06:53:22.933847+03:00.jpg">September 11 at 6:53 AM</a></p>
+ <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-19T09:03:14.685820+03:00.jpg">September 19 at 9:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-10T18:05:38.547863+03:00.jpg">
-  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-10T18:05:38.547863+03:00.jpg"
-     alt="Lenta.ru at 2022-09-10 18:05:43+03:00 local time"
+ <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-18T20:26:07.799300+03:00.jpg">
+  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-18T20:26:07.799300+03:00.jpg"
+     alt="Lenta.ru at 2022-09-18 20:26:09+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-10T18:05:38.547863+03:00.jpg">September 10 at 6:05 PM</a></p>
+ <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-18T20:26:07.799300+03:00.jpg">September 18 at 8:26 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-10T08:33:43.590551+03:00.jpg">
-  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-10T08:33:43.590551+03:00.jpg"
-     alt="Lenta.ru at 2022-09-10 08:33:45+03:00 local time"
+ <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-18T08:41:26.482537+03:00.jpg">
+  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-18T08:41:26.482537+03:00.jpg"
+     alt="Lenta.ru at 2022-09-18 08:41:28+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-10T08:33:43.590551+03:00.jpg">September 10 at 8:33 AM</a></p>
+ <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-18T08:41:26.482537+03:00.jpg">September 18 at 8:41 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-10T06:53:57.460898+03:00.jpg">
-  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-10T06:53:57.460898+03:00.jpg"
-     alt="Lenta.ru at 2022-09-10 06:53:58+03:00 local time"
+ <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-18T08:22:22.546908+03:00.jpg">
+  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-18T08:22:22.546908+03:00.jpg"
+     alt="Lenta.ru at 2022-09-18 08:22:28+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-10T06:53:57.460898+03:00.jpg">September 10 at 6:53 AM</a></p>
+ <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-18T08:22:22.546908+03:00.jpg">September 18 at 8:22 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-09T19:28:24.991041+03:00.jpg">
-  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-09T19:28:24.991041+03:00.jpg"
-     alt="Lenta.ru at 2022-09-09 19:28:31+03:00 local time"
+ <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-17T18:58:23.054212+03:00.jpg">
+  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-17T18:58:23.054212+03:00.jpg"
+     alt="Lenta.ru at 2022-09-17 18:58:24+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-09T19:28:24.991041+03:00.jpg">September 9 at 7:28 PM</a></p>
+ <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-17T18:58:23.054212+03:00.jpg">September 17 at 6:58 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-09T08:34:19.218228+03:00.jpg">
-  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-09T08:34:19.218228+03:00.jpg"
-     alt="Lenta.ru at 2022-09-09 08:34:21+03:00 local time"
+ <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-17T08:41:44.279541+03:00.jpg">
+  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-17T08:41:44.279541+03:00.jpg"
+     alt="Lenta.ru at 2022-09-17 08:41:46+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-09T08:34:19.218228+03:00.jpg">September 9 at 8:34 AM</a></p>
+ <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-17T08:41:44.279541+03:00.jpg">September 17 at 8:41 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-09T07:48:25.369080+03:00.jpg">
-  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-09T07:48:25.369080+03:00.jpg"
-     alt="Lenta.ru at 2022-09-09 07:48:31+03:00 local time"
+ <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-17T07:33:20.250215+03:00.jpg">
+  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-17T07:33:20.250215+03:00.jpg"
+     alt="Lenta.ru at 2022-09-17 07:33:22+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-09T07:48:25.369080+03:00.jpg">September 9 at 7:48 AM</a></p>
+ <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-17T07:33:20.250215+03:00.jpg">September 17 at 7:33 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-08T18:32:30.877993+03:00.jpg">
-  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-08T18:32:30.877993+03:00.jpg"
-     alt="Lenta.ru at 2022-09-08 18:32:51+03:00 local time"
+ <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-16T19:03:28.886637+03:00.jpg">
+  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-16T19:03:28.886637+03:00.jpg"
+     alt="Lenta.ru at 2022-09-16 19:03:31+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-08T18:32:30.877993+03:00.jpg">September 8 at 6:32 PM</a></p>
+ <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-16T19:03:28.886637+03:00.jpg">September 16 at 7:03 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-08T08:41:12.108575+03:00.jpg">
-  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-08T08:41:12.108575+03:00.jpg"
-     alt="Lenta.ru at 2022-09-08 08:41:40+03:00 local time"
+ <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-16T08:47:35.819932+03:00.jpg">
+  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-16T08:47:35.819932+03:00.jpg"
+     alt="Lenta.ru at 2022-09-16 08:47:41+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-08T08:41:12.108575+03:00.jpg">September 8 at 8:41 AM</a></p>
+ <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-16T08:47:35.819932+03:00.jpg">September 16 at 8:47 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-08T06:52:10.198444+03:00.jpg">
-  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-08T06:52:10.198444+03:00.jpg"
-     alt="Lenta.ru at 2022-09-08 06:52:23+03:00 local time"
+ <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-16T08:26:06.324524+03:00.jpg">
+  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-16T08:26:06.324524+03:00.jpg"
+     alt="Lenta.ru at 2022-09-16 08:26:07+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-08T06:52:10.198444+03:00.jpg">September 8 at 6:52 AM</a></p>
+ <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-16T08:26:06.324524+03:00.jpg">September 16 at 8:26 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 169 hyperlink lists with the Internet Archive.
+The archiving routine has saved 193 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 6:08 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-11T18:08:25.107985+03:00.hyperlinks.json) |
-| [September 11 at 8:29 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-11T08:29:00.207061+03:00.hyperlinks.json) |
-| [September 11 at 6:53 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-11T06:53:22.933847+03:00.hyperlinks.json) |
-| [September 10 at 6:05 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-10T18:05:38.547863+03:00.hyperlinks.json) |
-| [September 10 at 8:33 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-10T08:33:43.590551+03:00.hyperlinks.json) |
-| [September 10 at 6:54 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-10T06:53:57.460898+03:00.hyperlinks.json) |
-| [September 9 at 7:28 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-09T19:28:24.991041+03:00.hyperlinks.json) |
-| [September 9 at 8:34 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-09T08:34:19.218228+03:00.hyperlinks.json) |
-| [September 9 at 7:48 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-09T07:48:25.369080+03:00.hyperlinks.json) |
-| [September 8 at 6:32 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-08T18:32:30.877993+03:00.hyperlinks.json) |
+| [September 19 at 8:32 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-19T20:32:27.382704+03:00.hyperlinks.json) |
+| [September 19 at 9:24 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-19T09:24:22.858766+03:00.hyperlinks.json) |
+| [September 19 at 9:03 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-19T09:03:14.685820+03:00.hyperlinks.json) |
+| [September 18 at 8:26 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-18T20:26:07.799300+03:00.hyperlinks.json) |
+| [September 18 at 8:41 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-18T08:41:26.482537+03:00.hyperlinks.json) |
+| [September 18 at 8:22 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-18T08:22:22.546908+03:00.hyperlinks.json) |
+| [September 17 at 6:58 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-17T18:58:23.054212+03:00.hyperlinks.json) |
+| [September 17 at 8:41 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-17T08:41:44.279541+03:00.hyperlinks.json) |
+| [September 17 at 7:33 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-17T07:33:20.250215+03:00.hyperlinks.json) |
+| [September 16 at 7:03 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-16T19:03:28.886637+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 167 accessibility trees with the Internet Archive.
+The archiving routine has saved 191 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 6:08 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-11T18:08:25.107985+03:00.accessibility.json) |
-| [September 11 at 8:29 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-11T08:29:00.207061+03:00.accessibility.json) |
-| [September 11 at 6:53 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-11T06:53:22.933847+03:00.accessibility.json) |
-| [September 10 at 6:05 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-10T18:05:38.547863+03:00.accessibility.json) |
-| [September 10 at 8:33 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-10T08:33:43.590551+03:00.accessibility.json) |
-| [September 10 at 6:53 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-10T06:53:57.460898+03:00.accessibility.json) |
-| [September 9 at 7:28 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-09T19:28:24.991041+03:00.accessibility.json) |
-| [September 9 at 8:34 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-09T08:34:19.218228+03:00.accessibility.json) |
-| [September 9 at 7:48 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-09T07:48:25.369080+03:00.accessibility.json) |
-| [September 8 at 6:32 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-08T18:32:30.877993+03:00.accessibility.json) |
+| [September 19 at 8:32 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-19T20:32:27.382704+03:00.accessibility.json) |
+| [September 19 at 9:24 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-19T09:24:22.858766+03:00.accessibility.json) |
+| [September 19 at 9:03 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-19T09:03:14.685820+03:00.accessibility.json) |
+| [September 18 at 8:26 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-18T20:26:07.799300+03:00.accessibility.json) |
+| [September 18 at 8:41 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-18T08:41:26.482537+03:00.accessibility.json) |
+| [September 18 at 8:22 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-18T08:22:22.546908+03:00.accessibility.json) |
+| [September 17 at 6:58 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-17T18:58:23.054212+03:00.accessibility.json) |
+| [September 17 at 8:41 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-17T08:41:44.279541+03:00.accessibility.json) |
+| [September 17 at 7:33 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-17T07:33:20.250215+03:00.accessibility.json) |
+| [September 16 at 7:03 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-16T19:03:28.886637+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 146 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 170 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 6:08 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-11T18:08:25.107985+03:00.lighthouse.json) |
-| [September 11 at 8:29 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-11T08:29:00.207061+03:00.lighthouse.json) |
-| [September 11 at 6:53 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-11T06:53:22.933847+03:00.lighthouse.json) |
-| [September 10 at 6:05 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-10T18:05:38.547863+03:00.lighthouse.json) |
-| [September 10 at 8:33 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-10T08:33:43.590551+03:00.lighthouse.json) |
-| [September 10 at 6:54 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-10T06:53:57.460898+03:00.lighthouse.json) |
-| [September 9 at 7:28 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-09T19:28:24.991041+03:00.lighthouse.json) |
-| [September 9 at 8:34 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-09T08:34:19.218228+03:00.lighthouse.json) |
-| [September 9 at 7:48 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-09T07:48:25.369080+03:00.lighthouse.json) |
-| [September 8 at 6:32 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-08T18:32:30.877993+03:00.lighthouse.json) |
+| [September 19 at 8:32 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-19T20:32:27.382704+03:00.lighthouse.json) |
+| [September 19 at 9:24 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-19T09:24:22.858766+03:00.lighthouse.json) |
+| [September 19 at 9:03 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-19T09:03:14.685820+03:00.lighthouse.json) |
+| [September 18 at 8:26 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-18T20:26:07.799300+03:00.lighthouse.json) |
+| [September 18 at 8:41 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-18T08:41:26.482537+03:00.lighthouse.json) |
+| [September 18 at 8:22 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-18T08:22:22.546908+03:00.lighthouse.json) |
+| [September 17 at 6:58 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-17T18:58:23.054212+03:00.lighthouse.json) |
+| [September 17 at 8:41 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-17T08:41:44.279541+03:00.lighthouse.json) |
+| [September 17 at 7:33 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-17T07:33:20.250215+03:00.lighthouse.json) |
+| [September 16 at 7:03 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-09-16T19:03:28.886637+03:00.lighthouse.json) |
 
 
 

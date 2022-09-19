@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 39 screenshots with the Internet Archive.
+The archiving routine has saved 54 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-11T17:04:01.805694+02:00.jpg">
-  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-11T17:04:01.805694+02:00.jpg"
-     alt="Eyewitness News at 2022-09-11 17:04:04+02:00 local time"
+ <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-19T18:01:26.898881+02:00.jpg">
+  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-19T18:01:26.898881+02:00.jpg"
+     alt="Eyewitness News at 2022-09-19 18:01:28+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-11T17:04:01.805694+02:00.jpg">September 11 at 5:04 PM</a></p>
+ <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-19T18:01:26.898881+02:00.jpg">September 19 at 6:01 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-11T05:49:14.377397+02:00.jpg">
-  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-11T05:49:14.377397+02:00.jpg"
-     alt="Eyewitness News at 2022-09-11 05:49:17+02:00 local time"
+ <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-19T06:46:52.582031+02:00.jpg">
+  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-19T06:46:52.582031+02:00.jpg"
+     alt="Eyewitness News at 2022-09-19 06:46:53+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-11T05:49:14.377397+02:00.jpg">September 11 at 5:49 AM</a></p>
+ <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-19T06:46:52.582031+02:00.jpg">September 19 at 6:46 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-10T17:01:33.132699+02:00.jpg">
-  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-10T17:01:33.132699+02:00.jpg"
-     alt="Eyewitness News at 2022-09-10 17:01:36+02:00 local time"
+ <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-18T05:50:06.977421+02:00.jpg">
+  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-18T05:50:06.977421+02:00.jpg"
+     alt="Eyewitness News at 2022-09-18 05:50:07+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-10T17:01:33.132699+02:00.jpg">September 10 at 5:01 PM</a></p>
+ <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-18T05:50:06.977421+02:00.jpg">September 18 at 5:50 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-10T05:50:04.023309+02:00.jpg">
-  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-10T05:50:04.023309+02:00.jpg"
-     alt="Eyewitness News at 2022-09-10 05:50:06+02:00 local time"
+ <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-17T16:52:21.448696+02:00.jpg">
+  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-17T16:52:21.448696+02:00.jpg"
+     alt="Eyewitness News at 2022-09-17 16:52:27+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-10T05:50:04.023309+02:00.jpg">September 10 at 5:50 AM</a></p>
+ <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-17T16:52:21.448696+02:00.jpg">September 17 at 4:52 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-09T18:22:48.943877+02:00.jpg">
-  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-09T18:22:48.943877+02:00.jpg"
-     alt="Eyewitness News at 2022-09-09 18:22:50+02:00 local time"
+ <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-17T05:43:32.034960+02:00.jpg">
+  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-17T05:43:32.034960+02:00.jpg"
+     alt="Eyewitness News at 2022-09-17 05:43:35+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-09T18:22:48.943877+02:00.jpg">September 9 at 6:22 PM</a></p>
+ <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-17T05:43:32.034960+02:00.jpg">September 17 at 5:43 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-09T06:43:15.920719+02:00.jpg">
-  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-09T06:43:15.920719+02:00.jpg"
-     alt="Eyewitness News at 2022-09-09 06:43:20+02:00 local time"
+ <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-16T17:01:58.031571+02:00.jpg">
+  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-16T17:01:58.031571+02:00.jpg"
+     alt="Eyewitness News at 2022-09-16 17:02:02+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-09T06:43:15.920719+02:00.jpg">September 9 at 6:43 AM</a></p>
+ <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-16T17:01:58.031571+02:00.jpg">September 16 at 5:02 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-08T17:22:08.878688+02:00.jpg">
-  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-08T17:22:08.878688+02:00.jpg"
-     alt="Eyewitness News at 2022-09-08 17:22:14+02:00 local time"
+ <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-16T05:51:02.408336+02:00.jpg">
+  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-16T05:51:02.408336+02:00.jpg"
+     alt="Eyewitness News at 2022-09-16 05:51:06+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-08T17:22:08.878688+02:00.jpg">September 8 at 5:22 PM</a></p>
+ <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-16T05:51:02.408336+02:00.jpg">September 16 at 5:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-08T05:48:16.673839+02:00.jpg">
-  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-08T05:48:16.673839+02:00.jpg"
-     alt="Eyewitness News at 2022-09-08 05:48:19+02:00 local time"
+ <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-15T18:11:51.319411+02:00.jpg">
+  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-15T18:11:51.319411+02:00.jpg"
+     alt="Eyewitness News at 2022-09-15 18:11:59+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-08T05:48:16.673839+02:00.jpg">September 8 at 5:48 AM</a></p>
+ <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-15T18:11:51.319411+02:00.jpg">September 15 at 6:11 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-07T17:37:15.662547+02:00.jpg">
-  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-07T17:37:15.662547+02:00.jpg"
-     alt="Eyewitness News at 2022-09-07 17:37:17+02:00 local time"
+ <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-15T05:51:37.001363+02:00.jpg">
+  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-15T05:51:37.001363+02:00.jpg"
+     alt="Eyewitness News at 2022-09-15 05:51:38+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-07T17:37:15.662547+02:00.jpg">September 7 at 5:37 PM</a></p>
+ <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-15T05:51:37.001363+02:00.jpg">September 15 at 5:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-07T05:55:09.017691+02:00.jpg">
-  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-07T05:55:09.017691+02:00.jpg"
-     alt="Eyewitness News at 2022-09-07 05:55:10+02:00 local time"
+ <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-14T17:19:43.208337+02:00.jpg">
+  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-14T17:19:43.208337+02:00.jpg"
+     alt="Eyewitness News at 2022-09-14 17:19:46+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-07T05:55:09.017691+02:00.jpg">September 7 at 5:55 AM</a></p>
+ <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-14T17:19:43.208337+02:00.jpg">September 14 at 5:19 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-06T05:53:22.877611+02:00.jpg">
-  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-06T05:53:22.877611+02:00.jpg"
-     alt="Eyewitness News at 2022-09-06 05:53:24+02:00 local time"
+ <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-14T05:49:39.842504+02:00.jpg">
+  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-14T05:49:39.842504+02:00.jpg"
+     alt="Eyewitness News at 2022-09-14 05:49:40+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-06T05:53:22.877611+02:00.jpg">September 6 at 5:53 AM</a></p>
+ <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-14T05:49:39.842504+02:00.jpg">September 14 at 5:49 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-05T18:13:39.663051+02:00.jpg">
-  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-05T18:13:39.663051+02:00.jpg"
-     alt="Eyewitness News at 2022-09-05 18:13:42+02:00 local time"
+ <a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-13T18:06:07.743047+02:00.jpg">
+  <img src="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-13T18:06:07.743047+02:00.jpg"
+     alt="Eyewitness News at 2022-09-13 18:06:15+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-05T18:13:39.663051+02:00.jpg">September 5 at 6:13 PM</a></p>
+ <p><a href="https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-13T18:06:07.743047+02:00.jpg">September 13 at 6:06 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 39 hyperlink lists with the Internet Archive.
+The archiving routine has saved 54 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 5:04 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-11T17:04:01.805694+02:00.hyperlinks.json) |
-| [September 11 at 5:49 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-11T05:49:14.377397+02:00.hyperlinks.json) |
-| [September 10 at 5:01 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-10T17:01:33.132699+02:00.hyperlinks.json) |
-| [September 10 at 5:50 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-10T05:50:04.023309+02:00.hyperlinks.json) |
-| [September 9 at 6:23 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-09T18:22:48.943877+02:00.hyperlinks.json) |
-| [September 9 at 6:43 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-09T06:43:15.920719+02:00.hyperlinks.json) |
-| [September 8 at 5:22 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-08T17:22:08.878688+02:00.hyperlinks.json) |
-| [September 8 at 5:48 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-08T05:48:16.673839+02:00.hyperlinks.json) |
-| [September 7 at 5:37 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-07T17:37:15.662547+02:00.hyperlinks.json) |
-| [September 7 at 5:55 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-07T05:55:09.017691+02:00.hyperlinks.json) |
+| [September 19 at 6:01 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-19T18:01:26.898881+02:00.hyperlinks.json) |
+| [September 19 at 6:46 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-19T06:46:52.582031+02:00.hyperlinks.json) |
+| [September 18 at 5:50 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-18T05:50:06.977421+02:00.hyperlinks.json) |
+| [September 17 at 4:52 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-17T16:52:21.448696+02:00.hyperlinks.json) |
+| [September 17 at 5:43 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-17T05:43:32.034960+02:00.hyperlinks.json) |
+| [September 16 at 5:02 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-16T17:01:58.031571+02:00.hyperlinks.json) |
+| [September 16 at 5:51 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-16T05:51:02.408336+02:00.hyperlinks.json) |
+| [September 15 at 6:12 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-15T18:11:51.319411+02:00.hyperlinks.json) |
+| [September 15 at 5:51 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-15T05:51:37.001363+02:00.hyperlinks.json) |
+| [September 14 at 5:19 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-14T17:19:43.208337+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 38 accessibility trees with the Internet Archive.
+The archiving routine has saved 53 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 5:04 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-11T17:04:01.805694+02:00.accessibility.json) |
-| [September 11 at 5:49 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-11T05:49:14.377397+02:00.accessibility.json) |
-| [September 10 at 5:01 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-10T17:01:33.132699+02:00.accessibility.json) |
-| [September 10 at 5:50 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-10T05:50:04.023309+02:00.accessibility.json) |
-| [September 9 at 6:22 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-09T18:22:48.943877+02:00.accessibility.json) |
-| [September 9 at 6:43 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-09T06:43:15.920719+02:00.accessibility.json) |
-| [September 8 at 5:22 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-08T17:22:08.878688+02:00.accessibility.json) |
-| [September 8 at 5:48 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-08T05:48:16.673839+02:00.accessibility.json) |
-| [September 7 at 5:37 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-07T17:37:15.662547+02:00.accessibility.json) |
-| [September 7 at 5:55 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-07T05:55:09.017691+02:00.accessibility.json) |
+| [September 19 at 6:01 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-19T18:01:26.898881+02:00.accessibility.json) |
+| [September 19 at 6:46 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-19T06:46:52.582031+02:00.accessibility.json) |
+| [September 18 at 5:50 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-18T05:50:06.977421+02:00.accessibility.json) |
+| [September 17 at 4:52 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-17T16:52:21.448696+02:00.accessibility.json) |
+| [September 17 at 5:43 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-17T05:43:32.034960+02:00.accessibility.json) |
+| [September 16 at 5:02 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-16T17:01:58.031571+02:00.accessibility.json) |
+| [September 16 at 5:51 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-16T05:51:02.408336+02:00.accessibility.json) |
+| [September 15 at 6:12 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-15T18:11:51.319411+02:00.accessibility.json) |
+| [September 15 at 5:51 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-15T05:51:37.001363+02:00.accessibility.json) |
+| [September 14 at 5:19 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-14T17:19:43.208337+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 54 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 5:04 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-11T17:04:01.805694+02:00.lighthouse.json) |
-| [September 11 at 5:49 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-11T05:49:14.377397+02:00.lighthouse.json) |
-| [September 10 at 5:01 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-10T17:01:33.132699+02:00.lighthouse.json) |
-| [September 10 at 5:50 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-10T05:50:04.023309+02:00.lighthouse.json) |
-| [September 9 at 6:23 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-09T18:22:48.943877+02:00.lighthouse.json) |
-| [September 9 at 6:43 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-09T06:43:15.920719+02:00.lighthouse.json) |
-| [September 8 at 5:22 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-08T17:22:08.878688+02:00.lighthouse.json) |
-| [September 8 at 5:48 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-08T05:48:16.673839+02:00.lighthouse.json) |
-| [September 7 at 5:37 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-07T17:37:15.662547+02:00.lighthouse.json) |
-| [September 7 at 5:55 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-07T05:55:09.017691+02:00.lighthouse.json) |
+| [September 19 at 6:01 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-19T18:01:26.898881+02:00.lighthouse.json) |
+| [September 19 at 6:46 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-19T06:46:52.582031+02:00.lighthouse.json) |
+| [September 18 at 5:50 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-18T05:50:06.977421+02:00.lighthouse.json) |
+| [September 17 at 4:52 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-17T16:52:21.448696+02:00.lighthouse.json) |
+| [September 17 at 5:43 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-17T05:43:32.034960+02:00.lighthouse.json) |
+| [September 16 at 5:02 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-16T17:01:58.031571+02:00.lighthouse.json) |
+| [September 16 at 5:51 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-16T05:51:02.408336+02:00.lighthouse.json) |
+| [September 15 at 6:12 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-15T18:11:51.319411+02:00.lighthouse.json) |
+| [September 15 at 5:51 AM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-15T05:51:37.001363+02:00.lighthouse.json) |
+| [September 14 at 5:19 PM](https://archive.org/download/ewnreporter-2022/ewnreporter-2022-09-14T17:19:43.208337+02:00.lighthouse.json) |
 
 
 

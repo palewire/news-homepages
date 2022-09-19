@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 204 screenshots with the Internet Archive.
+The archiving routine has saved 228 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-11T11:57:54.252204+01:00.jpg">
-  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-11T11:57:54.252204+01:00.jpg"
-     alt="Evening Standard at 2022-09-11 11:57:56+01:00 local time"
+ <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-19T12:54:01.224328+01:00.jpg">
+  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-19T12:54:01.224328+01:00.jpg"
+     alt="Evening Standard at 2022-09-19 12:54:20+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-11T11:57:54.252204+01:00.jpg">September 11 at 11:57 AM</a></p>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-19T12:54:01.224328+01:00.jpg">September 19 at 12:54 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-11T10:16:21.223660+01:00.jpg">
-  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-11T10:16:21.223660+01:00.jpg"
-     alt="Evening Standard at 2022-09-11 10:16:33+01:00 local time"
+ <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-19T10:27:08.530672+01:00.jpg">
+  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-19T10:27:08.530672+01:00.jpg"
+     alt="Evening Standard at 2022-09-19 10:27:36+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-11T10:16:21.223660+01:00.jpg">September 11 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-19T10:27:08.530672+01:00.jpg">September 19 at 10:27 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-11T00:11:08.237185+01:00.jpg">
-  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-11T00:11:08.237185+01:00.jpg"
-     alt="Evening Standard at 2022-09-11 00:11:16+01:00 local time"
+ <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-19T00:44:55.138127+01:00.jpg">
+  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-19T00:44:55.138127+01:00.jpg"
+     alt="Evening Standard at 2022-09-19 00:44:56+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-11T00:11:08.237185+01:00.jpg">September 11 at 12:11 AM</a></p>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-19T00:44:55.138127+01:00.jpg">September 19 at 12:44 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-10T11:58:15.563288+01:00.jpg">
-  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-10T11:58:15.563288+01:00.jpg"
-     alt="Evening Standard at 2022-09-10 11:58:22+01:00 local time"
+ <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-18T12:55:49.989963+01:00.jpg">
+  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-18T12:55:49.989963+01:00.jpg"
+     alt="Evening Standard at 2022-09-18 12:55:51+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-10T11:58:15.563288+01:00.jpg">September 10 at 11:58 AM</a></p>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-18T12:55:49.989963+01:00.jpg">September 18 at 12:55 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-10T10:13:06.193477+01:00.jpg">
-  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-10T10:13:06.193477+01:00.jpg"
-     alt="Evening Standard at 2022-09-10 10:13:10+01:00 local time"
+ <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-18T10:15:48.517750+01:00.jpg">
+  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-18T10:15:48.517750+01:00.jpg"
+     alt="Evening Standard at 2022-09-18 10:15:50+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-10T10:13:06.193477+01:00.jpg">September 10 at 10:13 AM</a></p>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-18T10:15:48.517750+01:00.jpg">September 18 at 10:15 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-10T00:09:35.195248+01:00.jpg">
-  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-10T00:09:35.195248+01:00.jpg"
-     alt="Evening Standard at 2022-09-10 00:09:42+01:00 local time"
+ <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-18T00:47:57.993228+01:00.jpg">
+  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-18T00:47:57.993228+01:00.jpg"
+     alt="Evening Standard at 2022-09-18 00:47:59+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-10T00:09:35.195248+01:00.jpg">September 10 at 12:09 AM</a></p>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-18T00:47:57.993228+01:00.jpg">September 18 at 12:47 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-09T12:09:25.083880+01:00.jpg">
-  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-09T12:09:25.083880+01:00.jpg"
-     alt="Evening Standard at 2022-09-09 12:09:31+01:00 local time"
+ <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-17T12:55:56.002854+01:00.jpg">
+  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-17T12:55:56.002854+01:00.jpg"
+     alt="Evening Standard at 2022-09-17 12:55:57+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-09T12:09:25.083880+01:00.jpg">September 9 at 12:09 PM</a></p>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-17T12:55:56.002854+01:00.jpg">September 17 at 12:55 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-09T10:19:51.146046+01:00.jpg">
-  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-09T10:19:51.146046+01:00.jpg"
-     alt="Evening Standard at 2022-09-09 10:19:52+01:00 local time"
+ <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-17T10:16:25.783607+01:00.jpg">
+  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-17T10:16:25.783607+01:00.jpg"
+     alt="Evening Standard at 2022-09-17 10:16:26+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-09T10:19:51.146046+01:00.jpg">September 9 at 10:19 AM</a></p>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-17T10:16:25.783607+01:00.jpg">September 17 at 10:16 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-09T01:02:19.811614+01:00.jpg">
-  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-09T01:02:19.811614+01:00.jpg"
-     alt="Evening Standard at 2022-09-09 01:02:47+01:00 local time"
+ <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-17T00:49:02.215319+01:00.jpg">
+  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-17T00:49:02.215319+01:00.jpg"
+     alt="Evening Standard at 2022-09-17 00:49:03+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-09T01:02:19.811614+01:00.jpg">September 9 at 1:02 AM</a></p>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-17T00:49:02.215319+01:00.jpg">September 17 at 12:49 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-08T18:51:59.817274+01:00.jpg">
-  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-08T18:51:59.817274+01:00.jpg"
-     alt="Evening Standard at 2022-09-08 18:52:02+01:00 local time"
+ <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-16T12:56:13.771421+01:00.jpg">
+  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-16T12:56:13.771421+01:00.jpg"
+     alt="Evening Standard at 2022-09-16 12:56:14+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-08T18:51:59.817274+01:00.jpg">September 8 at 6:52 PM</a></p>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-16T12:56:13.771421+01:00.jpg">September 16 at 12:56 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-08T17:29:37.356691+01:00.jpg">
-  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-08T17:29:37.356691+01:00.jpg"
-     alt="Evening Standard at 2022-09-08 17:29:39+01:00 local time"
+ <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-16T10:16:28.045934+01:00.jpg">
+  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-16T10:16:28.045934+01:00.jpg"
+     alt="Evening Standard at 2022-09-16 10:16:30+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-08T17:29:37.356691+01:00.jpg">September 8 at 5:29 PM</a></p>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-16T10:16:28.045934+01:00.jpg">September 16 at 10:16 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-08T12:06:07.213481+01:00.jpg">
-  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-08T12:06:07.213481+01:00.jpg"
-     alt="Evening Standard at 2022-09-08 12:06:10+01:00 local time"
+ <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-16T00:48:29.276315+01:00.jpg">
+  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-16T00:48:29.276315+01:00.jpg"
+     alt="Evening Standard at 2022-09-16 00:48:31+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-08T12:06:07.213481+01:00.jpg">September 8 at 12:06 PM</a></p>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-16T00:48:29.276315+01:00.jpg">September 16 at 12:48 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 202 hyperlink lists with the Internet Archive.
+The archiving routine has saved 226 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 11:57 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-11T11:57:54.252204+01:00.hyperlinks.json) |
-| [September 11 at 10:16 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-11T10:16:21.223660+01:00.hyperlinks.json) |
-| [September 11 at 12:11 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-11T00:11:08.237185+01:00.hyperlinks.json) |
-| [September 10 at 11:58 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-10T11:58:15.563288+01:00.hyperlinks.json) |
-| [September 10 at 10:13 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-10T10:13:06.193477+01:00.hyperlinks.json) |
-| [September 10 at 12:09 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-10T00:09:35.195248+01:00.hyperlinks.json) |
-| [September 9 at 12:09 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-09T12:09:25.083880+01:00.hyperlinks.json) |
-| [September 9 at 10:19 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-09T10:19:51.146046+01:00.hyperlinks.json) |
-| [September 9 at 1:02 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-09T01:02:19.811614+01:00.hyperlinks.json) |
-| [September 8 at 6:52 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-08T18:51:59.817274+01:00.hyperlinks.json) |
+| [September 19 at 12:54 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-19T12:54:01.224328+01:00.hyperlinks.json) |
+| [September 19 at 10:27 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-19T10:27:08.530672+01:00.hyperlinks.json) |
+| [September 19 at 12:45 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-19T00:44:55.138127+01:00.hyperlinks.json) |
+| [September 18 at 12:55 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-18T12:55:49.989963+01:00.hyperlinks.json) |
+| [September 18 at 10:15 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-18T10:15:48.517750+01:00.hyperlinks.json) |
+| [September 18 at 12:48 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-18T00:47:57.993228+01:00.hyperlinks.json) |
+| [September 17 at 12:56 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-17T12:55:56.002854+01:00.hyperlinks.json) |
+| [September 17 at 10:16 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-17T10:16:25.783607+01:00.hyperlinks.json) |
+| [September 17 at 12:49 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-17T00:49:02.215319+01:00.hyperlinks.json) |
+| [September 16 at 12:56 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-16T12:56:13.771421+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 202 accessibility trees with the Internet Archive.
+The archiving routine has saved 226 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 11:57 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-11T11:57:54.252204+01:00.accessibility.json) |
-| [September 11 at 10:16 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-11T10:16:21.223660+01:00.accessibility.json) |
-| [September 11 at 12:11 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-11T00:11:08.237185+01:00.accessibility.json) |
-| [September 10 at 11:58 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-10T11:58:15.563288+01:00.accessibility.json) |
-| [September 10 at 10:13 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-10T10:13:06.193477+01:00.accessibility.json) |
-| [September 10 at 12:09 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-10T00:09:35.195248+01:00.accessibility.json) |
-| [September 9 at 12:09 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-09T12:09:25.083880+01:00.accessibility.json) |
-| [September 9 at 10:19 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-09T10:19:51.146046+01:00.accessibility.json) |
-| [September 9 at 1:02 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-09T01:02:19.811614+01:00.accessibility.json) |
-| [September 8 at 6:52 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-08T18:51:59.817274+01:00.accessibility.json) |
+| [September 19 at 12:54 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-19T12:54:01.224328+01:00.accessibility.json) |
+| [September 19 at 10:27 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-19T10:27:08.530672+01:00.accessibility.json) |
+| [September 19 at 12:44 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-19T00:44:55.138127+01:00.accessibility.json) |
+| [September 18 at 12:55 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-18T12:55:49.989963+01:00.accessibility.json) |
+| [September 18 at 10:15 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-18T10:15:48.517750+01:00.accessibility.json) |
+| [September 18 at 12:48 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-18T00:47:57.993228+01:00.accessibility.json) |
+| [September 17 at 12:55 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-17T12:55:56.002854+01:00.accessibility.json) |
+| [September 17 at 10:16 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-17T10:16:25.783607+01:00.accessibility.json) |
+| [September 17 at 12:49 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-17T00:49:02.215319+01:00.accessibility.json) |
+| [September 16 at 12:56 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-16T12:56:13.771421+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 151 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 175 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 11:58 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-11T11:57:54.252204+01:00.lighthouse.json) |
-| [September 11 at 10:16 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-11T10:16:21.223660+01:00.lighthouse.json) |
-| [September 11 at 12:11 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-11T00:11:08.237185+01:00.lighthouse.json) |
-| [September 10 at 11:58 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-10T11:58:15.563288+01:00.lighthouse.json) |
-| [September 10 at 10:13 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-10T10:13:06.193477+01:00.lighthouse.json) |
-| [September 10 at 12:09 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-10T00:09:35.195248+01:00.lighthouse.json) |
-| [September 9 at 12:09 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-09T12:09:25.083880+01:00.lighthouse.json) |
-| [September 9 at 10:19 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-09T10:19:51.146046+01:00.lighthouse.json) |
-| [September 9 at 1:02 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-09T01:02:19.811614+01:00.lighthouse.json) |
-| [September 8 at 6:52 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-08T18:51:59.817274+01:00.lighthouse.json) |
+| [September 19 at 12:54 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-19T12:54:01.224328+01:00.lighthouse.json) |
+| [September 19 at 10:27 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-19T10:27:08.530672+01:00.lighthouse.json) |
+| [September 19 at 12:45 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-19T00:44:55.138127+01:00.lighthouse.json) |
+| [September 18 at 12:55 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-18T12:55:49.989963+01:00.lighthouse.json) |
+| [September 18 at 10:15 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-18T10:15:48.517750+01:00.lighthouse.json) |
+| [September 18 at 12:48 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-18T00:47:57.993228+01:00.lighthouse.json) |
+| [September 17 at 12:56 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-17T12:55:56.002854+01:00.lighthouse.json) |
+| [September 17 at 10:16 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-17T10:16:25.783607+01:00.lighthouse.json) |
+| [September 17 at 12:49 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-17T00:49:02.215319+01:00.lighthouse.json) |
+| [September 16 at 12:56 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-09-16T12:56:13.771421+01:00.lighthouse.json) |
 
 
 

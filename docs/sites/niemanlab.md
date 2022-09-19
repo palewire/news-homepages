@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 110 screenshots with the Internet Archive.
+The archiving routine has saved 126 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-11T09:03:19.161013-04:00.jpg">
-  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-11T09:03:19.161013-04:00.jpg"
-     alt="Nieman Lab at 2022-09-11 09:03:20-04:00 local time"
+ <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-19T08:58:41.996499-04:00.jpg">
+  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-19T08:58:41.996499-04:00.jpg"
+     alt="Nieman Lab at 2022-09-19 08:58:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-11T09:03:19.161013-04:00.jpg">September 11 at 9:03 AM</a></p>
+ <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-19T08:58:41.996499-04:00.jpg">September 19 at 8:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-10T21:19:58.408399-04:00.jpg">
-  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-10T21:19:58.408399-04:00.jpg"
-     alt="Nieman Lab at 2022-09-10 21:20:00-04:00 local time"
+ <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-18T21:15:08.650421-04:00.jpg">
+  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-18T21:15:08.650421-04:00.jpg"
+     alt="Nieman Lab at 2022-09-18 21:15:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-10T21:19:58.408399-04:00.jpg">September 10 at 9:20 PM</a></p>
+ <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-18T21:15:08.650421-04:00.jpg">September 18 at 9:15 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-10T09:05:06.337381-04:00.jpg">
-  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-10T09:05:06.337381-04:00.jpg"
-     alt="Nieman Lab at 2022-09-10 09:05:07-04:00 local time"
+ <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-18T08:59:34.313583-04:00.jpg">
+  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-18T08:59:34.313583-04:00.jpg"
+     alt="Nieman Lab at 2022-09-18 08:59:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-10T09:05:06.337381-04:00.jpg">September 10 at 9:05 AM</a></p>
+ <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-18T08:59:34.313583-04:00.jpg">September 18 at 8:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-09T21:23:15.178528-04:00.jpg">
-  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-09T21:23:15.178528-04:00.jpg"
-     alt="Nieman Lab at 2022-09-09 21:23:20-04:00 local time"
+ <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-17T21:20:13.324877-04:00.jpg">
+  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-17T21:20:13.324877-04:00.jpg"
+     alt="Nieman Lab at 2022-09-17 21:20:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-09T21:23:15.178528-04:00.jpg">September 9 at 9:23 PM</a></p>
+ <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-17T21:20:13.324877-04:00.jpg">September 17 at 9:20 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-09T09:20:10.356129-04:00.jpg">
-  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-09T09:20:10.356129-04:00.jpg"
-     alt="Nieman Lab at 2022-09-09 09:20:21-04:00 local time"
+ <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-17T09:00:05.619748-04:00.jpg">
+  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-17T09:00:05.619748-04:00.jpg"
+     alt="Nieman Lab at 2022-09-17 09:00:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-09T09:20:10.356129-04:00.jpg">September 9 at 9:20 AM</a></p>
+ <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-17T09:00:05.619748-04:00.jpg">September 17 at 9:00 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-08T21:23:53.698213-04:00.jpg">
-  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-08T21:23:53.698213-04:00.jpg"
-     alt="Nieman Lab at 2022-09-08 21:23:58-04:00 local time"
+ <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-16T21:13:19.876282-04:00.jpg">
+  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-16T21:13:19.876282-04:00.jpg"
+     alt="Nieman Lab at 2022-09-16 21:13:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-08T21:23:53.698213-04:00.jpg">September 8 at 9:23 PM</a></p>
+ <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-16T21:13:19.876282-04:00.jpg">September 16 at 9:13 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-08T09:13:13.480759-04:00.jpg">
-  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-08T09:13:13.480759-04:00.jpg"
-     alt="Nieman Lab at 2022-09-08 09:13:15-04:00 local time"
+ <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-16T09:00:24.722539-04:00.jpg">
+  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-16T09:00:24.722539-04:00.jpg"
+     alt="Nieman Lab at 2022-09-16 09:00:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-08T09:13:13.480759-04:00.jpg">September 8 at 9:13 AM</a></p>
+ <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-16T09:00:24.722539-04:00.jpg">September 16 at 9:00 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-07T21:21:59.963673-04:00.jpg">
-  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-07T21:21:59.963673-04:00.jpg"
-     alt="Nieman Lab at 2022-09-07 21:22:01-04:00 local time"
+ <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-15T21:16:22.661803-04:00.jpg">
+  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-15T21:16:22.661803-04:00.jpg"
+     alt="Nieman Lab at 2022-09-15 21:16:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-07T21:21:59.963673-04:00.jpg">September 7 at 9:22 PM</a></p>
+ <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-15T21:16:22.661803-04:00.jpg">September 15 at 9:16 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-07T09:37:38.197516-04:00.jpg">
-  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-07T09:37:38.197516-04:00.jpg"
-     alt="Nieman Lab at 2022-09-07 09:37:49-04:00 local time"
+ <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-15T09:02:51.046078-04:00.jpg">
+  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-15T09:02:51.046078-04:00.jpg"
+     alt="Nieman Lab at 2022-09-15 09:02:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-07T09:37:38.197516-04:00.jpg">September 7 at 9:37 AM</a></p>
+ <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-15T09:02:51.046078-04:00.jpg">September 15 at 9:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-06T21:18:54.301523-04:00.jpg">
-  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-06T21:18:54.301523-04:00.jpg"
-     alt="Nieman Lab at 2022-09-06 21:18:56-04:00 local time"
+ <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-14T21:19:31.036680-04:00.jpg">
+  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-14T21:19:31.036680-04:00.jpg"
+     alt="Nieman Lab at 2022-09-14 21:19:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-06T21:18:54.301523-04:00.jpg">September 6 at 9:18 PM</a></p>
+ <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-14T21:19:31.036680-04:00.jpg">September 14 at 9:19 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-05T21:23:14.213099-04:00.jpg">
-  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-05T21:23:14.213099-04:00.jpg"
-     alt="Nieman Lab at 2022-09-05 21:23:18-04:00 local time"
+ <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-14T09:07:19.304182-04:00.jpg">
+  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-14T09:07:19.304182-04:00.jpg"
+     alt="Nieman Lab at 2022-09-14 09:07:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-05T21:23:14.213099-04:00.jpg">September 5 at 9:23 PM</a></p>
+ <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-14T09:07:19.304182-04:00.jpg">September 14 at 9:07 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-05T10:06:55.736152-04:00.jpg">
-  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-05T10:06:55.736152-04:00.jpg"
-     alt="Nieman Lab at 2022-09-05 10:07:00-04:00 local time"
+ <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-13T21:22:58.638286-04:00.jpg">
+  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-13T21:22:58.638286-04:00.jpg"
+     alt="Nieman Lab at 2022-09-13 21:23:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-05T10:06:55.736152-04:00.jpg">September 5 at 10:07 AM</a></p>
+ <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-09-13T21:22:58.638286-04:00.jpg">September 13 at 9:23 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 111 hyperlink lists with the Internet Archive.
+The archiving routine has saved 127 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 9:03 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-11T09:03:19.161013-04:00.hyperlinks.json) |
-| [September 10 at 9:20 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-10T21:19:58.408399-04:00.hyperlinks.json) |
-| [September 10 at 9:05 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-10T09:05:06.337381-04:00.hyperlinks.json) |
-| [September 9 at 9:23 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-09T21:23:15.178528-04:00.hyperlinks.json) |
-| [September 9 at 9:20 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-09T09:20:10.356129-04:00.hyperlinks.json) |
-| [September 8 at 9:24 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-08T21:23:53.698213-04:00.hyperlinks.json) |
-| [September 8 at 9:13 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-08T09:13:13.480759-04:00.hyperlinks.json) |
-| [September 7 at 9:22 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-07T21:21:59.963673-04:00.hyperlinks.json) |
-| [September 7 at 9:37 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-07T09:37:38.197516-04:00.hyperlinks.json) |
-| [September 6 at 9:19 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-06T21:18:54.301523-04:00.hyperlinks.json) |
+| [September 19 at 8:58 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-19T08:58:41.996499-04:00.hyperlinks.json) |
+| [September 18 at 9:15 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-18T21:15:08.650421-04:00.hyperlinks.json) |
+| [September 18 at 8:59 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-18T08:59:34.313583-04:00.hyperlinks.json) |
+| [September 17 at 9:20 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-17T21:20:13.324877-04:00.hyperlinks.json) |
+| [September 17 at 9:00 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-17T09:00:05.619748-04:00.hyperlinks.json) |
+| [September 16 at 9:13 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-16T21:13:19.876282-04:00.hyperlinks.json) |
+| [September 16 at 9:00 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-16T09:00:24.722539-04:00.hyperlinks.json) |
+| [September 15 at 9:16 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-15T21:16:22.661803-04:00.hyperlinks.json) |
+| [September 15 at 9:02 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-15T09:02:51.046078-04:00.hyperlinks.json) |
+| [September 14 at 9:19 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-14T21:19:31.036680-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 111 accessibility trees with the Internet Archive.
+The archiving routine has saved 127 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 9:03 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-11T09:03:19.161013-04:00.accessibility.json) |
-| [September 10 at 9:20 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-10T21:19:58.408399-04:00.accessibility.json) |
-| [September 10 at 9:05 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-10T09:05:06.337381-04:00.accessibility.json) |
-| [September 9 at 9:23 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-09T21:23:15.178528-04:00.accessibility.json) |
-| [September 9 at 9:20 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-09T09:20:10.356129-04:00.accessibility.json) |
-| [September 8 at 9:24 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-08T21:23:53.698213-04:00.accessibility.json) |
-| [September 8 at 9:13 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-08T09:13:13.480759-04:00.accessibility.json) |
-| [September 7 at 9:22 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-07T21:21:59.963673-04:00.accessibility.json) |
-| [September 7 at 9:37 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-07T09:37:38.197516-04:00.accessibility.json) |
-| [September 6 at 9:18 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-06T21:18:54.301523-04:00.accessibility.json) |
+| [September 19 at 8:58 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-19T08:58:41.996499-04:00.accessibility.json) |
+| [September 18 at 9:15 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-18T21:15:08.650421-04:00.accessibility.json) |
+| [September 18 at 8:59 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-18T08:59:34.313583-04:00.accessibility.json) |
+| [September 17 at 9:20 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-17T21:20:13.324877-04:00.accessibility.json) |
+| [September 17 at 9:00 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-17T09:00:05.619748-04:00.accessibility.json) |
+| [September 16 at 9:13 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-16T21:13:19.876282-04:00.accessibility.json) |
+| [September 16 at 9:00 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-16T09:00:24.722539-04:00.accessibility.json) |
+| [September 15 at 9:16 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-15T21:16:22.661803-04:00.accessibility.json) |
+| [September 15 at 9:02 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-15T09:02:51.046078-04:00.accessibility.json) |
+| [September 14 at 9:19 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-14T21:19:31.036680-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 100 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 116 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 9:03 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-11T09:03:19.161013-04:00.lighthouse.json) |
-| [September 10 at 9:20 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-10T21:19:58.408399-04:00.lighthouse.json) |
-| [September 10 at 9:05 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-10T09:05:06.337381-04:00.lighthouse.json) |
-| [September 9 at 9:23 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-09T21:23:15.178528-04:00.lighthouse.json) |
-| [September 9 at 9:20 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-09T09:20:10.356129-04:00.lighthouse.json) |
-| [September 8 at 9:24 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-08T21:23:53.698213-04:00.lighthouse.json) |
-| [September 8 at 9:13 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-08T09:13:13.480759-04:00.lighthouse.json) |
-| [September 7 at 9:22 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-07T21:21:59.963673-04:00.lighthouse.json) |
-| [September 7 at 9:37 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-07T09:37:38.197516-04:00.lighthouse.json) |
-| [September 6 at 9:19 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-06T21:18:54.301523-04:00.lighthouse.json) |
+| [September 19 at 8:58 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-19T08:58:41.996499-04:00.lighthouse.json) |
+| [September 18 at 9:15 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-18T21:15:08.650421-04:00.lighthouse.json) |
+| [September 18 at 8:59 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-18T08:59:34.313583-04:00.lighthouse.json) |
+| [September 17 at 9:20 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-17T21:20:13.324877-04:00.lighthouse.json) |
+| [September 17 at 9:00 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-17T09:00:05.619748-04:00.lighthouse.json) |
+| [September 16 at 9:13 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-16T21:13:19.876282-04:00.lighthouse.json) |
+| [September 16 at 9:00 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-16T09:00:24.722539-04:00.lighthouse.json) |
+| [September 15 at 9:16 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-15T21:16:22.661803-04:00.lighthouse.json) |
+| [September 15 at 9:02 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-15T09:02:51.046078-04:00.lighthouse.json) |
+| [September 14 at 9:19 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-09-14T21:19:31.036680-04:00.lighthouse.json) |
 
 
 

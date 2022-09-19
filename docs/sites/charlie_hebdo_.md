@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 112 screenshots with the Internet Archive.
+The archiving routine has saved 136 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-11T12:56:38.612818+02:00.jpg">
-  <img src="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-11T12:56:38.612818+02:00.jpg"
-     alt="Charlie Hebdo at 2022-09-11 12:56:39+02:00 local time"
+ <a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-19T12:51:15.437855+02:00.jpg">
+  <img src="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-19T12:51:15.437855+02:00.jpg"
+     alt="Charlie Hebdo at 2022-09-19 12:51:21+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-11T12:56:38.612818+02:00.jpg">September 11 at 12:56 PM</a></p>
+ <p><a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-19T12:51:15.437855+02:00.jpg">September 19 at 12:51 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-11T10:14:38.381947+02:00.jpg">
-  <img src="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-11T10:14:38.381947+02:00.jpg"
-     alt="Charlie Hebdo at 2022-09-11 10:14:41+02:00 local time"
+ <a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-19T10:18:47.941438+02:00.jpg">
+  <img src="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-19T10:18:47.941438+02:00.jpg"
+     alt="Charlie Hebdo at 2022-09-19 10:18:53+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-11T10:14:38.381947+02:00.jpg">September 11 at 10:14 AM</a></p>
+ <p><a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-19T10:18:47.941438+02:00.jpg">September 19 at 10:18 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-11T01:09:08.811777+02:00.jpg">
-  <img src="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-11T01:09:08.811777+02:00.jpg"
-     alt="Charlie Hebdo at 2022-09-11 01:09:13+02:00 local time"
+ <a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-19T00:51:32.341420+02:00.jpg">
+  <img src="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-19T00:51:32.341420+02:00.jpg"
+     alt="Charlie Hebdo at 2022-09-19 00:51:36+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-11T01:09:08.811777+02:00.jpg">September 11 at 1:09 AM</a></p>
+ <p><a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-19T00:51:32.341420+02:00.jpg">September 19 at 12:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-10T12:55:10.724144+02:00.jpg">
-  <img src="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-10T12:55:10.724144+02:00.jpg"
-     alt="Charlie Hebdo at 2022-09-10 12:55:12+02:00 local time"
+ <a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-18T12:53:47.640364+02:00.jpg">
+  <img src="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-18T12:53:47.640364+02:00.jpg"
+     alt="Charlie Hebdo at 2022-09-18 12:53:49+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-10T12:55:10.724144+02:00.jpg">September 10 at 12:55 PM</a></p>
+ <p><a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-18T12:53:47.640364+02:00.jpg">September 18 at 12:53 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-10T10:14:57.791721+02:00.jpg">
-  <img src="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-10T10:14:57.791721+02:00.jpg"
-     alt="Charlie Hebdo at 2022-09-10 10:15:00+02:00 local time"
+ <a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-18T10:17:34.674362+02:00.jpg">
+  <img src="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-18T10:17:34.674362+02:00.jpg"
+     alt="Charlie Hebdo at 2022-09-18 10:17:44+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-10T10:14:57.791721+02:00.jpg">September 10 at 10:15 AM</a></p>
+ <p><a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-18T10:17:34.674362+02:00.jpg">September 18 at 10:17 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-10T01:07:02.232332+02:00.jpg">
-  <img src="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-10T01:07:02.232332+02:00.jpg"
-     alt="Charlie Hebdo at 2022-09-10 01:07:03+02:00 local time"
+ <a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-18T00:55:45.899731+02:00.jpg">
+  <img src="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-18T00:55:45.899731+02:00.jpg"
+     alt="Charlie Hebdo at 2022-09-18 00:55:52+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-10T01:07:02.232332+02:00.jpg">September 10 at 1:07 AM</a></p>
+ <p><a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-18T00:55:45.899731+02:00.jpg">September 18 at 12:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-09T13:06:31.083057+02:00.jpg">
-  <img src="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-09T13:06:31.083057+02:00.jpg"
-     alt="Charlie Hebdo at 2022-09-09 13:06:32+02:00 local time"
+ <a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-17T12:51:45.532284+02:00.jpg">
+  <img src="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-17T12:51:45.532284+02:00.jpg"
+     alt="Charlie Hebdo at 2022-09-17 12:51:47+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-09T13:06:31.083057+02:00.jpg">September 9 at 1:06 PM</a></p>
+ <p><a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-17T12:51:45.532284+02:00.jpg">September 17 at 12:51 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-09T10:19:47.801078+02:00.jpg">
-  <img src="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-09T10:19:47.801078+02:00.jpg"
-     alt="Charlie Hebdo at 2022-09-09 10:19:48+02:00 local time"
+ <a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-17T10:14:53.736454+02:00.jpg">
+  <img src="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-17T10:14:53.736454+02:00.jpg"
+     alt="Charlie Hebdo at 2022-09-17 10:14:58+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-09T10:19:47.801078+02:00.jpg">September 9 at 10:19 AM</a></p>
+ <p><a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-17T10:14:53.736454+02:00.jpg">September 17 at 10:14 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-09T02:00:57.455293+02:00.jpg">
-  <img src="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-09T02:00:57.455293+02:00.jpg"
-     alt="Charlie Hebdo at 2022-09-09 02:01:05+02:00 local time"
+ <a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-17T00:54:28.389683+02:00.jpg">
+  <img src="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-17T00:54:28.389683+02:00.jpg"
+     alt="Charlie Hebdo at 2022-09-17 00:54:41+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-09T02:00:57.455293+02:00.jpg">September 9 at 2:01 AM</a></p>
+ <p><a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-17T00:54:28.389683+02:00.jpg">September 17 at 12:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-08T13:04:53.330939+02:00.jpg">
-  <img src="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-08T13:04:53.330939+02:00.jpg"
-     alt="Charlie Hebdo at 2022-09-08 13:04:58+02:00 local time"
+ <a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-16T12:54:50.728212+02:00.jpg">
+  <img src="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-16T12:54:50.728212+02:00.jpg"
+     alt="Charlie Hebdo at 2022-09-16 12:55:03+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-08T13:04:53.330939+02:00.jpg">September 8 at 1:04 PM</a></p>
+ <p><a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-16T12:54:50.728212+02:00.jpg">September 16 at 12:55 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-08T10:16:25.730602+02:00.jpg">
-  <img src="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-08T10:16:25.730602+02:00.jpg"
-     alt="Charlie Hebdo at 2022-09-08 10:16:29+02:00 local time"
+ <a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-16T10:15:48.682859+02:00.jpg">
+  <img src="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-16T10:15:48.682859+02:00.jpg"
+     alt="Charlie Hebdo at 2022-09-16 10:16:02+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-08T10:16:25.730602+02:00.jpg">September 8 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-16T10:15:48.682859+02:00.jpg">September 16 at 10:16 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-08T01:00:25.823035+02:00.jpg">
-  <img src="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-08T01:00:25.823035+02:00.jpg"
-     alt="Charlie Hebdo at 2022-09-08 01:00:28+02:00 local time"
+ <a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-16T00:57:24.960275+02:00.jpg">
+  <img src="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-16T00:57:24.960275+02:00.jpg"
+     alt="Charlie Hebdo at 2022-09-16 00:57:38+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-08T01:00:25.823035+02:00.jpg">September 8 at 1:00 AM</a></p>
+ <p><a href="https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-16T00:57:24.960275+02:00.jpg">September 16 at 12:57 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 112 hyperlink lists with the Internet Archive.
+The archiving routine has saved 136 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 12:56 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-11T12:56:38.612818+02:00.hyperlinks.json) |
-| [September 11 at 10:14 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-11T10:14:38.381947+02:00.hyperlinks.json) |
-| [September 11 at 1:09 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-11T01:09:08.811777+02:00.hyperlinks.json) |
-| [September 10 at 12:55 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-10T12:55:10.724144+02:00.hyperlinks.json) |
-| [September 10 at 10:15 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-10T10:14:57.791721+02:00.hyperlinks.json) |
-| [September 10 at 1:07 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-10T01:07:02.232332+02:00.hyperlinks.json) |
-| [September 9 at 1:06 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-09T13:06:31.083057+02:00.hyperlinks.json) |
-| [September 9 at 10:19 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-09T10:19:47.801078+02:00.hyperlinks.json) |
-| [September 9 at 2:01 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-09T02:00:57.455293+02:00.hyperlinks.json) |
-| [September 8 at 1:05 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-08T13:04:53.330939+02:00.hyperlinks.json) |
+| [September 19 at 12:51 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-19T12:51:15.437855+02:00.hyperlinks.json) |
+| [September 19 at 10:18 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-19T10:18:47.941438+02:00.hyperlinks.json) |
+| [September 19 at 12:51 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-19T00:51:32.341420+02:00.hyperlinks.json) |
+| [September 18 at 12:53 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-18T12:53:47.640364+02:00.hyperlinks.json) |
+| [September 18 at 10:17 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-18T10:17:34.674362+02:00.hyperlinks.json) |
+| [September 18 at 12:55 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-18T00:55:45.899731+02:00.hyperlinks.json) |
+| [September 17 at 12:51 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-17T12:51:45.532284+02:00.hyperlinks.json) |
+| [September 17 at 10:15 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-17T10:14:53.736454+02:00.hyperlinks.json) |
+| [September 17 at 12:54 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-17T00:54:28.389683+02:00.hyperlinks.json) |
+| [September 16 at 12:55 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-16T12:54:50.728212+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 112 accessibility trees with the Internet Archive.
+The archiving routine has saved 136 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 12:56 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-11T12:56:38.612818+02:00.accessibility.json) |
-| [September 11 at 10:14 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-11T10:14:38.381947+02:00.accessibility.json) |
-| [September 11 at 1:09 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-11T01:09:08.811777+02:00.accessibility.json) |
-| [September 10 at 12:55 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-10T12:55:10.724144+02:00.accessibility.json) |
-| [September 10 at 10:15 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-10T10:14:57.791721+02:00.accessibility.json) |
-| [September 10 at 1:07 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-10T01:07:02.232332+02:00.accessibility.json) |
-| [September 9 at 1:06 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-09T13:06:31.083057+02:00.accessibility.json) |
-| [September 9 at 10:19 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-09T10:19:47.801078+02:00.accessibility.json) |
-| [September 9 at 2:01 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-09T02:00:57.455293+02:00.accessibility.json) |
-| [September 8 at 1:05 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-08T13:04:53.330939+02:00.accessibility.json) |
+| [September 19 at 12:51 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-19T12:51:15.437855+02:00.accessibility.json) |
+| [September 19 at 10:18 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-19T10:18:47.941438+02:00.accessibility.json) |
+| [September 19 at 12:51 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-19T00:51:32.341420+02:00.accessibility.json) |
+| [September 18 at 12:53 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-18T12:53:47.640364+02:00.accessibility.json) |
+| [September 18 at 10:17 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-18T10:17:34.674362+02:00.accessibility.json) |
+| [September 18 at 12:55 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-18T00:55:45.899731+02:00.accessibility.json) |
+| [September 17 at 12:51 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-17T12:51:45.532284+02:00.accessibility.json) |
+| [September 17 at 10:14 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-17T10:14:53.736454+02:00.accessibility.json) |
+| [September 17 at 12:54 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-17T00:54:28.389683+02:00.accessibility.json) |
+| [September 16 at 12:55 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-16T12:54:50.728212+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 112 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 135 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 12:56 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-11T12:56:38.612818+02:00.lighthouse.json) |
-| [September 11 at 10:14 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-11T10:14:38.381947+02:00.lighthouse.json) |
-| [September 11 at 1:09 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-11T01:09:08.811777+02:00.lighthouse.json) |
-| [September 10 at 12:55 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-10T12:55:10.724144+02:00.lighthouse.json) |
-| [September 10 at 10:15 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-10T10:14:57.791721+02:00.lighthouse.json) |
-| [September 10 at 1:07 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-10T01:07:02.232332+02:00.lighthouse.json) |
-| [September 9 at 1:06 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-09T13:06:31.083057+02:00.lighthouse.json) |
-| [September 9 at 10:19 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-09T10:19:47.801078+02:00.lighthouse.json) |
-| [September 9 at 2:01 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-09T02:00:57.455293+02:00.lighthouse.json) |
-| [September 8 at 1:05 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-08T13:04:53.330939+02:00.lighthouse.json) |
+| [September 19 at 12:51 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-19T12:51:15.437855+02:00.lighthouse.json) |
+| [September 19 at 10:18 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-19T10:18:47.941438+02:00.lighthouse.json) |
+| [September 19 at 12:51 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-19T00:51:32.341420+02:00.lighthouse.json) |
+| [September 18 at 12:53 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-18T12:53:47.640364+02:00.lighthouse.json) |
+| [September 18 at 10:17 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-18T10:17:34.674362+02:00.lighthouse.json) |
+| [September 18 at 12:55 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-18T00:55:45.899731+02:00.lighthouse.json) |
+| [September 17 at 12:51 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-17T12:51:45.532284+02:00.lighthouse.json) |
+| [September 17 at 10:15 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-17T10:14:53.736454+02:00.lighthouse.json) |
+| [September 17 at 12:54 AM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-17T00:54:28.389683+02:00.lighthouse.json) |
+| [September 16 at 12:55 PM](https://archive.org/download/charlie_hebdo_-2022/charlie_hebdo_-2022-09-16T12:54:50.728212+02:00.lighthouse.json) |
 
 
 

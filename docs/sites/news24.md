@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 38 screenshots with the Internet Archive.
+The archiving routine has saved 56 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/news24-2022/news24-2022-09-11T02:17:10.826048+02:00.jpg">
-  <img src="https://archive.org/download/news24-2022/news24-2022-09-11T02:17:10.826048+02:00.jpg"
-     alt="news24 at 2022-09-11 02:17:14+02:00 local time"
+ <a href="https://archive.org/download/news24-2022/news24-2022-09-19T14:56:23.196646+02:00.jpg">
+  <img src="https://archive.org/download/news24-2022/news24-2022-09-19T14:56:23.196646+02:00.jpg"
+     alt="news24 at 2022-09-19 14:56:27+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/news24-2022/news24-2022-09-11T02:17:10.826048+02:00.jpg">September 11 at 2:17 AM</a></p>
+ <p><a href="https://archive.org/download/news24-2022/news24-2022-09-19T14:56:23.196646+02:00.jpg">September 19 at 2:56 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/news24-2022/news24-2022-09-10T14:02:37.388512+02:00.jpg">
-  <img src="https://archive.org/download/news24-2022/news24-2022-09-10T14:02:37.388512+02:00.jpg"
-     alt="news24 at 2022-09-10 14:02:43+02:00 local time"
+ <a href="https://archive.org/download/news24-2022/news24-2022-09-19T03:12:51.758775+02:00.jpg">
+  <img src="https://archive.org/download/news24-2022/news24-2022-09-19T03:12:51.758775+02:00.jpg"
+     alt="news24 at 2022-09-19 03:12:52+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/news24-2022/news24-2022-09-10T14:02:37.388512+02:00.jpg">September 10 at 2:02 PM</a></p>
+ <p><a href="https://archive.org/download/news24-2022/news24-2022-09-19T03:12:51.758775+02:00.jpg">September 19 at 3:12 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/news24-2022/news24-2022-09-10T02:09:50.460027+02:00.jpg">
-  <img src="https://archive.org/download/news24-2022/news24-2022-09-10T02:09:50.460027+02:00.jpg"
-     alt="news24 at 2022-09-10 02:09:56+02:00 local time"
+ <a href="https://archive.org/download/news24-2022/news24-2022-09-18T14:57:43.437762+02:00.jpg">
+  <img src="https://archive.org/download/news24-2022/news24-2022-09-18T14:57:43.437762+02:00.jpg"
+     alt="news24 at 2022-09-18 14:57:46+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/news24-2022/news24-2022-09-10T02:09:50.460027+02:00.jpg">September 10 at 2:09 AM</a></p>
+ <p><a href="https://archive.org/download/news24-2022/news24-2022-09-18T14:57:43.437762+02:00.jpg">September 18 at 2:57 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/news24-2022/news24-2022-09-09T14:20:14.659995+02:00.jpg">
-  <img src="https://archive.org/download/news24-2022/news24-2022-09-09T14:20:14.659995+02:00.jpg"
-     alt="news24 at 2022-09-09 14:20:17+02:00 local time"
+ <a href="https://archive.org/download/news24-2022/news24-2022-09-18T03:18:13.574475+02:00.jpg">
+  <img src="https://archive.org/download/news24-2022/news24-2022-09-18T03:18:13.574475+02:00.jpg"
+     alt="news24 at 2022-09-18 03:18:16+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/news24-2022/news24-2022-09-09T14:20:14.659995+02:00.jpg">September 9 at 2:20 PM</a></p>
+ <p><a href="https://archive.org/download/news24-2022/news24-2022-09-18T03:18:13.574475+02:00.jpg">September 18 at 3:18 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/news24-2022/news24-2022-09-09T02:09:27.935621+02:00.jpg">
-  <img src="https://archive.org/download/news24-2022/news24-2022-09-09T02:09:27.935621+02:00.jpg"
-     alt="news24 at 2022-09-09 02:09:32+02:00 local time"
+ <a href="https://archive.org/download/news24-2022/news24-2022-09-17T14:58:22.644873+02:00.jpg">
+  <img src="https://archive.org/download/news24-2022/news24-2022-09-17T14:58:22.644873+02:00.jpg"
+     alt="news24 at 2022-09-17 14:58:26+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/news24-2022/news24-2022-09-09T02:09:27.935621+02:00.jpg">September 9 at 2:09 AM</a></p>
+ <p><a href="https://archive.org/download/news24-2022/news24-2022-09-17T14:58:22.644873+02:00.jpg">September 17 at 2:58 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/news24-2022/news24-2022-09-08T14:26:39.549323+02:00.jpg">
-  <img src="https://archive.org/download/news24-2022/news24-2022-09-08T14:26:39.549323+02:00.jpg"
-     alt="news24 at 2022-09-08 14:26:41+02:00 local time"
+ <a href="https://archive.org/download/news24-2022/news24-2022-09-17T03:11:14.115282+02:00.jpg">
+  <img src="https://archive.org/download/news24-2022/news24-2022-09-17T03:11:14.115282+02:00.jpg"
+     alt="news24 at 2022-09-17 03:11:17+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/news24-2022/news24-2022-09-08T14:26:39.549323+02:00.jpg">September 8 at 2:26 PM</a></p>
+ <p><a href="https://archive.org/download/news24-2022/news24-2022-09-17T03:11:14.115282+02:00.jpg">September 17 at 3:11 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/news24-2022/news24-2022-09-08T01:58:46.067303+02:00.jpg">
-  <img src="https://archive.org/download/news24-2022/news24-2022-09-08T01:58:46.067303+02:00.jpg"
-     alt="news24 at 2022-09-08 01:58:49+02:00 local time"
+ <a href="https://archive.org/download/news24-2022/news24-2022-09-16T14:58:25.469363+02:00.jpg">
+  <img src="https://archive.org/download/news24-2022/news24-2022-09-16T14:58:25.469363+02:00.jpg"
+     alt="news24 at 2022-09-16 14:58:30+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/news24-2022/news24-2022-09-08T01:58:46.067303+02:00.jpg">September 8 at 1:58 AM</a></p>
+ <p><a href="https://archive.org/download/news24-2022/news24-2022-09-16T14:58:25.469363+02:00.jpg">September 16 at 2:58 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/news24-2022/news24-2022-09-07T14:44:23.685532+02:00.jpg">
-  <img src="https://archive.org/download/news24-2022/news24-2022-09-07T14:44:23.685532+02:00.jpg"
-     alt="news24 at 2022-09-07 14:44:27+02:00 local time"
+ <a href="https://archive.org/download/news24-2022/news24-2022-09-16T03:13:40.513618+02:00.jpg">
+  <img src="https://archive.org/download/news24-2022/news24-2022-09-16T03:13:40.513618+02:00.jpg"
+     alt="news24 at 2022-09-16 03:13:44+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/news24-2022/news24-2022-09-07T14:44:23.685532+02:00.jpg">September 7 at 2:44 PM</a></p>
+ <p><a href="https://archive.org/download/news24-2022/news24-2022-09-16T03:13:40.513618+02:00.jpg">September 16 at 3:13 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/news24-2022/news24-2022-09-07T02:15:33.464788+02:00.jpg">
-  <img src="https://archive.org/download/news24-2022/news24-2022-09-07T02:15:33.464788+02:00.jpg"
-     alt="news24 at 2022-09-07 02:15:35+02:00 local time"
+ <a href="https://archive.org/download/news24-2022/news24-2022-09-15T15:00:41.806303+02:00.jpg">
+  <img src="https://archive.org/download/news24-2022/news24-2022-09-15T15:00:41.806303+02:00.jpg"
+     alt="news24 at 2022-09-15 15:00:47+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/news24-2022/news24-2022-09-07T02:15:33.464788+02:00.jpg">September 7 at 2:15 AM</a></p>
+ <p><a href="https://archive.org/download/news24-2022/news24-2022-09-15T15:00:41.806303+02:00.jpg">September 15 at 3:00 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/news24-2022/news24-2022-09-06T02:01:07.870532+02:00.jpg">
-  <img src="https://archive.org/download/news24-2022/news24-2022-09-06T02:01:07.870532+02:00.jpg"
-     alt="news24 at 2022-09-06 02:01:12+02:00 local time"
+ <a href="https://archive.org/download/news24-2022/news24-2022-09-15T03:17:13.957079+02:00.jpg">
+  <img src="https://archive.org/download/news24-2022/news24-2022-09-15T03:17:13.957079+02:00.jpg"
+     alt="news24 at 2022-09-15 03:17:17+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/news24-2022/news24-2022-09-06T02:01:07.870532+02:00.jpg">September 6 at 2:01 AM</a></p>
+ <p><a href="https://archive.org/download/news24-2022/news24-2022-09-15T03:17:13.957079+02:00.jpg">September 15 at 3:17 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/news24-2022/news24-2022-09-05T01:57:40.760341+02:00.jpg">
-  <img src="https://archive.org/download/news24-2022/news24-2022-09-05T01:57:40.760341+02:00.jpg"
-     alt="news24 at 2022-09-05 01:57:43+02:00 local time"
+ <a href="https://archive.org/download/news24-2022/news24-2022-09-14T15:07:14.691222+02:00.jpg">
+  <img src="https://archive.org/download/news24-2022/news24-2022-09-14T15:07:14.691222+02:00.jpg"
+     alt="news24 at 2022-09-14 15:07:18+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/news24-2022/news24-2022-09-05T01:57:40.760341+02:00.jpg">September 5 at 1:57 AM</a></p>
+ <p><a href="https://archive.org/download/news24-2022/news24-2022-09-14T15:07:14.691222+02:00.jpg">September 14 at 3:07 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/news24-2022/news24-2022-09-04T13:59:24.468909+02:00.jpg">
-  <img src="https://archive.org/download/news24-2022/news24-2022-09-04T13:59:24.468909+02:00.jpg"
-     alt="news24 at 2022-09-04 13:59:27+02:00 local time"
+ <a href="https://archive.org/download/news24-2022/news24-2022-09-14T03:20:59.918494+02:00.jpg">
+  <img src="https://archive.org/download/news24-2022/news24-2022-09-14T03:20:59.918494+02:00.jpg"
+     alt="news24 at 2022-09-14 03:21:00+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/news24-2022/news24-2022-09-04T13:59:24.468909+02:00.jpg">September 4 at 1:59 PM</a></p>
+ <p><a href="https://archive.org/download/news24-2022/news24-2022-09-14T03:20:59.918494+02:00.jpg">September 14 at 3:21 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 38 hyperlink lists with the Internet Archive.
+The archiving routine has saved 56 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 2:17 AM](https://archive.org/download/news24-2022/news24-2022-09-11T02:17:10.826048+02:00.hyperlinks.json) |
-| [September 10 at 2:02 PM](https://archive.org/download/news24-2022/news24-2022-09-10T14:02:37.388512+02:00.hyperlinks.json) |
-| [September 10 at 2:10 AM](https://archive.org/download/news24-2022/news24-2022-09-10T02:09:50.460027+02:00.hyperlinks.json) |
-| [September 9 at 2:20 PM](https://archive.org/download/news24-2022/news24-2022-09-09T14:20:14.659995+02:00.hyperlinks.json) |
-| [September 9 at 2:09 AM](https://archive.org/download/news24-2022/news24-2022-09-09T02:09:27.935621+02:00.hyperlinks.json) |
-| [September 8 at 2:26 PM](https://archive.org/download/news24-2022/news24-2022-09-08T14:26:39.549323+02:00.hyperlinks.json) |
-| [September 8 at 1:58 AM](https://archive.org/download/news24-2022/news24-2022-09-08T01:58:46.067303+02:00.hyperlinks.json) |
-| [September 7 at 2:44 PM](https://archive.org/download/news24-2022/news24-2022-09-07T14:44:23.685532+02:00.hyperlinks.json) |
-| [September 7 at 2:15 AM](https://archive.org/download/news24-2022/news24-2022-09-07T02:15:33.464788+02:00.hyperlinks.json) |
-| [September 6 at 2:01 AM](https://archive.org/download/news24-2022/news24-2022-09-06T02:01:07.870532+02:00.hyperlinks.json) |
+| [September 19 at 2:56 PM](https://archive.org/download/news24-2022/news24-2022-09-19T14:56:23.196646+02:00.hyperlinks.json) |
+| [September 19 at 3:12 AM](https://archive.org/download/news24-2022/news24-2022-09-19T03:12:51.758775+02:00.hyperlinks.json) |
+| [September 18 at 2:57 PM](https://archive.org/download/news24-2022/news24-2022-09-18T14:57:43.437762+02:00.hyperlinks.json) |
+| [September 18 at 3:18 AM](https://archive.org/download/news24-2022/news24-2022-09-18T03:18:13.574475+02:00.hyperlinks.json) |
+| [September 17 at 2:58 PM](https://archive.org/download/news24-2022/news24-2022-09-17T14:58:22.644873+02:00.hyperlinks.json) |
+| [September 17 at 3:11 AM](https://archive.org/download/news24-2022/news24-2022-09-17T03:11:14.115282+02:00.hyperlinks.json) |
+| [September 16 at 2:58 PM](https://archive.org/download/news24-2022/news24-2022-09-16T14:58:25.469363+02:00.hyperlinks.json) |
+| [September 16 at 3:13 AM](https://archive.org/download/news24-2022/news24-2022-09-16T03:13:40.513618+02:00.hyperlinks.json) |
+| [September 15 at 3:00 PM](https://archive.org/download/news24-2022/news24-2022-09-15T15:00:41.806303+02:00.hyperlinks.json) |
+| [September 15 at 3:17 AM](https://archive.org/download/news24-2022/news24-2022-09-15T03:17:13.957079+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 39 accessibility trees with the Internet Archive.
+The archiving routine has saved 57 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 2:17 AM](https://archive.org/download/news24-2022/news24-2022-09-11T02:17:10.826048+02:00.accessibility.json) |
-| [September 10 at 2:02 PM](https://archive.org/download/news24-2022/news24-2022-09-10T14:02:37.388512+02:00.accessibility.json) |
-| [September 10 at 2:09 AM](https://archive.org/download/news24-2022/news24-2022-09-10T02:09:50.460027+02:00.accessibility.json) |
-| [September 9 at 2:20 PM](https://archive.org/download/news24-2022/news24-2022-09-09T14:20:14.659995+02:00.accessibility.json) |
-| [September 9 at 2:09 AM](https://archive.org/download/news24-2022/news24-2022-09-09T02:09:27.935621+02:00.accessibility.json) |
-| [September 8 at 2:26 PM](https://archive.org/download/news24-2022/news24-2022-09-08T14:26:39.549323+02:00.accessibility.json) |
-| [September 8 at 1:58 AM](https://archive.org/download/news24-2022/news24-2022-09-08T01:58:46.067303+02:00.accessibility.json) |
-| [September 7 at 2:44 PM](https://archive.org/download/news24-2022/news24-2022-09-07T14:44:23.685532+02:00.accessibility.json) |
-| [September 7 at 2:15 AM](https://archive.org/download/news24-2022/news24-2022-09-07T02:15:33.464788+02:00.accessibility.json) |
-| [September 6 at 2:01 AM](https://archive.org/download/news24-2022/news24-2022-09-06T02:01:07.870532+02:00.accessibility.json) |
+| [September 19 at 2:56 PM](https://archive.org/download/news24-2022/news24-2022-09-19T14:56:23.196646+02:00.accessibility.json) |
+| [September 19 at 3:12 AM](https://archive.org/download/news24-2022/news24-2022-09-19T03:12:51.758775+02:00.accessibility.json) |
+| [September 18 at 2:57 PM](https://archive.org/download/news24-2022/news24-2022-09-18T14:57:43.437762+02:00.accessibility.json) |
+| [September 18 at 3:18 AM](https://archive.org/download/news24-2022/news24-2022-09-18T03:18:13.574475+02:00.accessibility.json) |
+| [September 17 at 2:58 PM](https://archive.org/download/news24-2022/news24-2022-09-17T14:58:22.644873+02:00.accessibility.json) |
+| [September 17 at 3:11 AM](https://archive.org/download/news24-2022/news24-2022-09-17T03:11:14.115282+02:00.accessibility.json) |
+| [September 16 at 2:58 PM](https://archive.org/download/news24-2022/news24-2022-09-16T14:58:25.469363+02:00.accessibility.json) |
+| [September 16 at 3:13 AM](https://archive.org/download/news24-2022/news24-2022-09-16T03:13:40.513618+02:00.accessibility.json) |
+| [September 15 at 3:00 PM](https://archive.org/download/news24-2022/news24-2022-09-15T15:00:41.806303+02:00.accessibility.json) |
+| [September 15 at 3:17 AM](https://archive.org/download/news24-2022/news24-2022-09-15T03:17:13.957079+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 57 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 2:17 AM](https://archive.org/download/news24-2022/news24-2022-09-11T02:17:10.826048+02:00.lighthouse.json) |
-| [September 10 at 2:02 PM](https://archive.org/download/news24-2022/news24-2022-09-10T14:02:37.388512+02:00.lighthouse.json) |
-| [September 10 at 2:10 AM](https://archive.org/download/news24-2022/news24-2022-09-10T02:09:50.460027+02:00.lighthouse.json) |
-| [September 9 at 2:20 PM](https://archive.org/download/news24-2022/news24-2022-09-09T14:20:14.659995+02:00.lighthouse.json) |
-| [September 9 at 2:09 AM](https://archive.org/download/news24-2022/news24-2022-09-09T02:09:27.935621+02:00.lighthouse.json) |
-| [September 8 at 2:26 PM](https://archive.org/download/news24-2022/news24-2022-09-08T14:26:39.549323+02:00.lighthouse.json) |
-| [September 8 at 1:58 AM](https://archive.org/download/news24-2022/news24-2022-09-08T01:58:46.067303+02:00.lighthouse.json) |
-| [September 7 at 2:44 PM](https://archive.org/download/news24-2022/news24-2022-09-07T14:44:23.685532+02:00.lighthouse.json) |
-| [September 7 at 2:15 AM](https://archive.org/download/news24-2022/news24-2022-09-07T02:15:33.464788+02:00.lighthouse.json) |
-| [September 6 at 2:01 AM](https://archive.org/download/news24-2022/news24-2022-09-06T02:01:07.870532+02:00.lighthouse.json) |
+| [September 19 at 2:56 PM](https://archive.org/download/news24-2022/news24-2022-09-19T14:56:23.196646+02:00.lighthouse.json) |
+| [September 19 at 3:12 AM](https://archive.org/download/news24-2022/news24-2022-09-19T03:12:51.758775+02:00.lighthouse.json) |
+| [September 18 at 2:57 PM](https://archive.org/download/news24-2022/news24-2022-09-18T14:57:43.437762+02:00.lighthouse.json) |
+| [September 18 at 3:18 AM](https://archive.org/download/news24-2022/news24-2022-09-18T03:18:13.574475+02:00.lighthouse.json) |
+| [September 17 at 2:58 PM](https://archive.org/download/news24-2022/news24-2022-09-17T14:58:22.644873+02:00.lighthouse.json) |
+| [September 17 at 3:11 AM](https://archive.org/download/news24-2022/news24-2022-09-17T03:11:14.115282+02:00.lighthouse.json) |
+| [September 16 at 2:58 PM](https://archive.org/download/news24-2022/news24-2022-09-16T14:58:25.469363+02:00.lighthouse.json) |
+| [September 16 at 3:13 AM](https://archive.org/download/news24-2022/news24-2022-09-16T03:13:40.513618+02:00.lighthouse.json) |
+| [September 15 at 3:00 PM](https://archive.org/download/news24-2022/news24-2022-09-15T15:00:41.806303+02:00.lighthouse.json) |
+| [September 15 at 3:17 AM](https://archive.org/download/news24-2022/news24-2022-09-15T03:17:13.957079+02:00.lighthouse.json) |
 
 
 

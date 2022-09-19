@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 163 screenshots with the Internet Archive.
+The archiving routine has saved 179 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-11T11:08:05.329922-04:00.jpg">
-  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-11T11:08:05.329922-04:00.jpg"
-     alt="La Presse at 2022-09-11 11:08:07-04:00 local time"
+ <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-19T13:32:19.794994-04:00.jpg">
+  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-19T13:32:19.794994-04:00.jpg"
+     alt="La Presse at 2022-09-19 13:32:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-11T11:08:05.329922-04:00.jpg">September 11 at 11:08 AM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-19T13:32:19.794994-04:00.jpg">September 19 at 1:32 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-10T23:53:56.196796-04:00.jpg">
-  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-10T23:53:56.196796-04:00.jpg"
-     alt="La Presse at 2022-09-10 23:53:57-04:00 local time"
+ <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-19T02:03:12.461657-04:00.jpg">
+  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-19T02:03:12.461657-04:00.jpg"
+     alt="La Presse at 2022-09-19 02:03:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-10T23:53:56.196796-04:00.jpg">September 10 at 11:53 PM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-19T02:03:12.461657-04:00.jpg">September 19 at 2:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-10T11:06:19.523711-04:00.jpg">
-  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-10T11:06:19.523711-04:00.jpg"
-     alt="La Presse at 2022-09-10 11:06:20-04:00 local time"
+ <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-18T13:26:17.421493-04:00.jpg">
+  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-18T13:26:17.421493-04:00.jpg"
+     alt="La Presse at 2022-09-18 13:26:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-10T11:06:19.523711-04:00.jpg">September 10 at 11:06 AM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-18T13:26:17.421493-04:00.jpg">September 18 at 1:26 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-09T23:53:36.233807-04:00.jpg">
-  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-09T23:53:36.233807-04:00.jpg"
-     alt="La Presse at 2022-09-09 23:53:37-04:00 local time"
+ <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-18T01:22:25.021392-04:00.jpg">
+  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-18T01:22:25.021392-04:00.jpg"
+     alt="La Presse at 2022-09-18 01:22:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-09T23:53:36.233807-04:00.jpg">September 9 at 11:53 PM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-18T01:22:25.021392-04:00.jpg">September 18 at 1:22 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-09T12:27:30.924854-04:00.jpg">
-  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-09T12:27:30.924854-04:00.jpg"
-     alt="La Presse at 2022-09-09 12:27:32-04:00 local time"
+ <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-17T11:58:33.023793-04:00.jpg">
+  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-17T11:58:33.023793-04:00.jpg"
+     alt="La Presse at 2022-09-17 11:58:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-09T12:27:30.924854-04:00.jpg">September 9 at 12:27 PM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-17T11:58:33.023793-04:00.jpg">September 17 at 11:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-09T00:49:40.990943-04:00.jpg">
-  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-09T00:49:40.990943-04:00.jpg"
-     alt="La Presse at 2022-09-09 00:49:59-04:00 local time"
+ <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-17T00:33:24.155163-04:00.jpg">
+  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-17T00:33:24.155163-04:00.jpg"
+     alt="La Presse at 2022-09-17 00:33:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-09T00:49:40.990943-04:00.jpg">September 9 at 12:49 AM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-17T00:33:24.155163-04:00.jpg">September 17 at 12:33 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-08T11:31:42.281491-04:00.jpg">
-  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-08T11:31:42.281491-04:00.jpg"
-     alt="La Presse at 2022-09-08 11:31:44-04:00 local time"
+ <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-16T12:03:43.188235-04:00.jpg">
+  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-16T12:03:43.188235-04:00.jpg"
+     alt="La Presse at 2022-09-16 12:03:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-08T11:31:42.281491-04:00.jpg">September 8 at 11:31 AM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-16T12:03:43.188235-04:00.jpg">September 16 at 12:03 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-07T23:53:19.657676-04:00.jpg">
-  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-07T23:53:19.657676-04:00.jpg"
-     alt="La Presse at 2022-09-07 23:53:24-04:00 local time"
+ <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-16T01:27:16.867696-04:00.jpg">
+  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-16T01:27:16.867696-04:00.jpg"
+     alt="La Presse at 2022-09-16 01:27:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-07T23:53:19.657676-04:00.jpg">September 7 at 11:53 PM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-16T01:27:16.867696-04:00.jpg">September 16 at 1:27 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-07T11:48:55.937614-04:00.jpg">
-  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-07T11:48:55.937614-04:00.jpg"
-     alt="La Presse at 2022-09-07 11:49:01-04:00 local time"
+ <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-15T12:26:32.999424-04:00.jpg">
+  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-15T12:26:32.999424-04:00.jpg"
+     alt="La Presse at 2022-09-15 12:26:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-07T11:48:55.937614-04:00.jpg">September 7 at 11:49 AM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-15T12:26:32.999424-04:00.jpg">September 15 at 12:26 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-06T23:57:33.350310-04:00.jpg">
-  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-06T23:57:33.350310-04:00.jpg"
-     alt="La Presse at 2022-09-06 23:57:34-04:00 local time"
+ <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-15T01:25:21.175129-04:00.jpg">
+  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-15T01:25:21.175129-04:00.jpg"
+     alt="La Presse at 2022-09-15 01:25:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-06T23:57:33.350310-04:00.jpg">September 6 at 11:57 PM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-15T01:25:21.175129-04:00.jpg">September 15 at 1:25 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-05T23:58:13.541055-04:00.jpg">
-  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-05T23:58:13.541055-04:00.jpg"
-     alt="La Presse at 2022-09-05 23:58:14-04:00 local time"
+ <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-14T12:26:12.285853-04:00.jpg">
+  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-14T12:26:12.285853-04:00.jpg"
+     alt="La Presse at 2022-09-14 12:26:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-05T23:58:13.541055-04:00.jpg">September 5 at 11:58 PM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-14T12:26:12.285853-04:00.jpg">September 14 at 12:26 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-05T12:17:57.592821-04:00.jpg">
-  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-05T12:17:57.592821-04:00.jpg"
-     alt="La Presse at 2022-09-05 12:17:59-04:00 local time"
+ <a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-14T00:45:52.953757-04:00.jpg">
+  <img src="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-14T00:45:52.953757-04:00.jpg"
+     alt="La Presse at 2022-09-14 00:45:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-05T12:17:57.592821-04:00.jpg">September 5 at 12:17 PM</a></p>
+ <p><a href="https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-14T00:45:52.953757-04:00.jpg">September 14 at 12:45 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 163 hyperlink lists with the Internet Archive.
+The archiving routine has saved 179 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 11:08 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-11T11:08:05.329922-04:00.hyperlinks.json) |
-| [September 10 at 11:54 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-10T23:53:56.196796-04:00.hyperlinks.json) |
-| [September 10 at 11:06 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-10T11:06:19.523711-04:00.hyperlinks.json) |
-| [September 9 at 11:53 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-09T23:53:36.233807-04:00.hyperlinks.json) |
-| [September 9 at 12:27 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-09T12:27:30.924854-04:00.hyperlinks.json) |
-| [September 9 at 12:50 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-09T00:49:40.990943-04:00.hyperlinks.json) |
-| [September 8 at 11:31 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-08T11:31:42.281491-04:00.hyperlinks.json) |
-| [September 7 at 11:53 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-07T23:53:19.657676-04:00.hyperlinks.json) |
-| [September 7 at 11:49 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-07T11:48:55.937614-04:00.hyperlinks.json) |
-| [September 6 at 11:57 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-06T23:57:33.350310-04:00.hyperlinks.json) |
+| [September 19 at 1:32 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-19T13:32:19.794994-04:00.hyperlinks.json) |
+| [September 19 at 2:03 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-19T02:03:12.461657-04:00.hyperlinks.json) |
+| [September 18 at 1:26 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-18T13:26:17.421493-04:00.hyperlinks.json) |
+| [September 18 at 1:22 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-18T01:22:25.021392-04:00.hyperlinks.json) |
+| [September 17 at 11:58 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-17T11:58:33.023793-04:00.hyperlinks.json) |
+| [September 17 at 12:33 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-17T00:33:24.155163-04:00.hyperlinks.json) |
+| [September 16 at 12:03 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-16T12:03:43.188235-04:00.hyperlinks.json) |
+| [September 16 at 1:27 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-16T01:27:16.867696-04:00.hyperlinks.json) |
+| [September 15 at 12:26 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-15T12:26:32.999424-04:00.hyperlinks.json) |
+| [September 15 at 1:25 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-15T01:25:21.175129-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 161 accessibility trees with the Internet Archive.
+The archiving routine has saved 177 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 11:08 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-11T11:08:05.329922-04:00.accessibility.json) |
-| [September 10 at 11:53 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-10T23:53:56.196796-04:00.accessibility.json) |
-| [September 10 at 11:06 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-10T11:06:19.523711-04:00.accessibility.json) |
-| [September 9 at 11:53 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-09T23:53:36.233807-04:00.accessibility.json) |
-| [September 9 at 12:27 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-09T12:27:30.924854-04:00.accessibility.json) |
-| [September 9 at 12:50 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-09T00:49:40.990943-04:00.accessibility.json) |
-| [September 8 at 11:31 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-08T11:31:42.281491-04:00.accessibility.json) |
-| [September 7 at 11:53 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-07T23:53:19.657676-04:00.accessibility.json) |
-| [September 7 at 11:49 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-07T11:48:55.937614-04:00.accessibility.json) |
-| [September 6 at 11:57 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-06T23:57:33.350310-04:00.accessibility.json) |
+| [September 19 at 1:32 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-19T13:32:19.794994-04:00.accessibility.json) |
+| [September 19 at 2:03 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-19T02:03:12.461657-04:00.accessibility.json) |
+| [September 18 at 1:26 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-18T13:26:17.421493-04:00.accessibility.json) |
+| [September 18 at 1:22 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-18T01:22:25.021392-04:00.accessibility.json) |
+| [September 17 at 11:58 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-17T11:58:33.023793-04:00.accessibility.json) |
+| [September 17 at 12:33 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-17T00:33:24.155163-04:00.accessibility.json) |
+| [September 16 at 12:03 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-16T12:03:43.188235-04:00.accessibility.json) |
+| [September 16 at 1:27 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-16T01:27:16.867696-04:00.accessibility.json) |
+| [September 15 at 12:26 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-15T12:26:32.999424-04:00.accessibility.json) |
+| [September 15 at 1:25 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-15T01:25:21.175129-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 114 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 11:08 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-11T11:08:05.329922-04:00.lighthouse.json) |
-| [September 10 at 11:54 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-10T23:53:56.196796-04:00.lighthouse.json) |
-| [September 10 at 11:06 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-10T11:06:19.523711-04:00.lighthouse.json) |
-| [September 9 at 11:53 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-09T23:53:36.233807-04:00.lighthouse.json) |
-| [September 9 at 12:27 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-09T12:27:30.924854-04:00.lighthouse.json) |
-| [September 9 at 12:50 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-09T00:49:40.990943-04:00.lighthouse.json) |
-| [September 8 at 11:31 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-08T11:31:42.281491-04:00.lighthouse.json) |
-| [September 7 at 11:53 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-07T23:53:19.657676-04:00.lighthouse.json) |
-| [September 7 at 11:49 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-07T11:48:55.937614-04:00.lighthouse.json) |
-| [September 6 at 11:57 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-06T23:57:33.350310-04:00.lighthouse.json) |
+| [September 19 at 1:32 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-19T13:32:19.794994-04:00.lighthouse.json) |
+| [September 19 at 2:03 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-19T02:03:12.461657-04:00.lighthouse.json) |
+| [September 18 at 1:26 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-18T13:26:17.421493-04:00.lighthouse.json) |
+| [September 18 at 1:22 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-18T01:22:25.021392-04:00.lighthouse.json) |
+| [September 17 at 11:58 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-17T11:58:33.023793-04:00.lighthouse.json) |
+| [September 17 at 12:33 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-17T00:33:24.155163-04:00.lighthouse.json) |
+| [September 16 at 12:03 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-16T12:03:43.188235-04:00.lighthouse.json) |
+| [September 16 at 1:27 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-16T01:27:16.867696-04:00.lighthouse.json) |
+| [September 15 at 12:26 PM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-15T12:26:32.999424-04:00.lighthouse.json) |
+| [September 15 at 1:25 AM](https://archive.org/download/lp_lapresse-2022/lp_lapresse-2022-09-15T01:25:21.175129-04:00.lighthouse.json) |
 
 
 

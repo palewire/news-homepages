@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 222 screenshots with the Internet Archive.
+The archiving routine has saved 242 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-11T05:53:04.250670-05:00.jpg">
-  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-11T05:53:04.250670-05:00.jpg"
-     alt="Ames Tribune at 2022-09-11 05:53:11-05:00 local time"
+ <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-19T10:57:40.146157-05:00.jpg">
+  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-19T10:57:40.146157-05:00.jpg"
+     alt="Ames Tribune at 2022-09-19 10:57:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-11T05:53:04.250670-05:00.jpg">September 11 at 5:53 AM</a></p>
+ <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-19T10:57:40.146157-05:00.jpg">September 19 at 10:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-10T18:03:26.414618-05:00.jpg">
-  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-10T18:03:26.414618-05:00.jpg"
-     alt="Ames Tribune at 2022-09-10 18:03:32-05:00 local time"
+ <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-19T05:46:55.158945-05:00.jpg">
+  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-19T05:46:55.158945-05:00.jpg"
+     alt="Ames Tribune at 2022-09-19 05:47:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-10T18:03:26.414618-05:00.jpg">September 10 at 6:03 PM</a></p>
+ <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-19T05:46:55.158945-05:00.jpg">September 19 at 5:47 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-10T05:51:50.210933-05:00.jpg">
-  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-10T05:51:50.210933-05:00.jpg"
-     alt="Ames Tribune at 2022-09-10 05:51:57-05:00 local time"
+ <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-18T17:47:29.163669-05:00.jpg">
+  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-18T17:47:29.163669-05:00.jpg"
+     alt="Ames Tribune at 2022-09-18 17:47:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-10T05:51:50.210933-05:00.jpg">September 10 at 5:51 AM</a></p>
+ <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-18T17:47:29.163669-05:00.jpg">September 18 at 5:47 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-09T18:02:21.220144-05:00.jpg">
-  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-09T18:02:21.220144-05:00.jpg"
-     alt="Ames Tribune at 2022-09-09 18:02:29-05:00 local time"
+ <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-18T05:49:31.935578-05:00.jpg">
+  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-18T05:49:31.935578-05:00.jpg"
+     alt="Ames Tribune at 2022-09-18 05:49:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-09T18:02:21.220144-05:00.jpg">September 9 at 6:02 PM</a></p>
+ <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-18T05:49:31.935578-05:00.jpg">September 18 at 5:49 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-09T11:38:55.397359-05:00.jpg">
-  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-09T11:38:55.397359-05:00.jpg"
-     alt="Ames Tribune at 2022-09-09 11:39:01-05:00 local time"
+ <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-17T17:51:10.190210-05:00.jpg">
+  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-17T17:51:10.190210-05:00.jpg"
+     alt="Ames Tribune at 2022-09-17 17:51:17-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-09T11:38:55.397359-05:00.jpg">September 9 at 11:39 AM</a></p>
+ <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-17T17:51:10.190210-05:00.jpg">September 17 at 5:51 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-09T06:01:40.514662-05:00.jpg">
-  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-09T06:01:40.514662-05:00.jpg"
-     alt="Ames Tribune at 2022-09-09 06:01:45-05:00 local time"
+ <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-17T05:48:03.041098-05:00.jpg">
+  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-17T05:48:03.041098-05:00.jpg"
+     alt="Ames Tribune at 2022-09-17 05:48:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-09T06:01:40.514662-05:00.jpg">September 9 at 6:01 AM</a></p>
+ <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-17T05:48:03.041098-05:00.jpg">September 17 at 5:48 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-08T18:55:00.887719-05:00.jpg">
-  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-08T18:55:00.887719-05:00.jpg"
-     alt="Ames Tribune at 2022-09-08 18:55:02-05:00 local time"
+ <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-16T17:50:11.500520-05:00.jpg">
+  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-16T17:50:11.500520-05:00.jpg"
+     alt="Ames Tribune at 2022-09-16 17:50:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-08T18:55:00.887719-05:00.jpg">September 8 at 6:55 PM</a></p>
+ <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-16T17:50:11.500520-05:00.jpg">September 16 at 5:50 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-08T06:00:22.035441-05:00.jpg">
-  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-08T06:00:22.035441-05:00.jpg"
-     alt="Ames Tribune at 2022-09-08 06:00:28-05:00 local time"
+ <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-16T11:08:15.974585-05:00.jpg">
+  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-16T11:08:15.974585-05:00.jpg"
+     alt="Ames Tribune at 2022-09-16 11:08:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-08T06:00:22.035441-05:00.jpg">September 8 at 6:00 AM</a></p>
+ <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-16T11:08:15.974585-05:00.jpg">September 16 at 11:08 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-07T17:56:51.240420-05:00.jpg">
-  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-07T17:56:51.240420-05:00.jpg"
-     alt="Ames Tribune at 2022-09-07 17:56:58-05:00 local time"
+ <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-16T05:50:40.189776-05:00.jpg">
+  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-16T05:50:40.189776-05:00.jpg"
+     alt="Ames Tribune at 2022-09-16 05:50:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-07T17:56:51.240420-05:00.jpg">September 7 at 5:56 PM</a></p>
+ <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-16T05:50:40.189776-05:00.jpg">September 16 at 5:50 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-07T12:18:20.985457-05:00.jpg">
-  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-07T12:18:20.985457-05:00.jpg"
-     alt="Ames Tribune at 2022-09-07 12:18:22-05:00 local time"
+ <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-15T17:52:55.828069-05:00.jpg">
+  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-15T17:52:55.828069-05:00.jpg"
+     alt="Ames Tribune at 2022-09-15 17:53:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-07T12:18:20.985457-05:00.jpg">September 7 at 12:18 PM</a></p>
+ <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-15T17:52:55.828069-05:00.jpg">September 15 at 5:53 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-07T07:09:28.658057-05:00.jpg">
-  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-07T07:09:28.658057-05:00.jpg"
-     alt="Ames Tribune at 2022-09-07 07:09:30-05:00 local time"
+ <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-15T05:53:05.575576-05:00.jpg">
+  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-15T05:53:05.575576-05:00.jpg"
+     alt="Ames Tribune at 2022-09-15 05:53:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-07T07:09:28.658057-05:00.jpg">September 7 at 7:09 AM</a></p>
+ <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-15T05:53:05.575576-05:00.jpg">September 15 at 5:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-06T18:03:18.149462-05:00.jpg">
-  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-06T18:03:18.149462-05:00.jpg"
-     alt="Ames Tribune at 2022-09-06 18:03:25-05:00 local time"
+ <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-14T17:59:22.581632-05:00.jpg">
+  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-14T17:59:22.581632-05:00.jpg"
+     alt="Ames Tribune at 2022-09-14 17:59:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-06T18:03:18.149462-05:00.jpg">September 6 at 6:03 PM</a></p>
+ <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-09-14T17:59:22.581632-05:00.jpg">September 14 at 5:59 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 218 hyperlink lists with the Internet Archive.
+The archiving routine has saved 238 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 5:53 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-11T05:53:04.250670-05:00.hyperlinks.json) |
-| [September 10 at 6:03 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-10T18:03:26.414618-05:00.hyperlinks.json) |
-| [September 10 at 5:52 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-10T05:51:50.210933-05:00.hyperlinks.json) |
-| [September 9 at 6:02 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-09T18:02:21.220144-05:00.hyperlinks.json) |
-| [September 9 at 11:39 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-09T11:38:55.397359-05:00.hyperlinks.json) |
-| [September 9 at 6:01 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-09T06:01:40.514662-05:00.hyperlinks.json) |
-| [September 8 at 6:55 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-08T18:55:00.887719-05:00.hyperlinks.json) |
-| [September 8 at 6:00 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-08T06:00:22.035441-05:00.hyperlinks.json) |
-| [September 7 at 5:57 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-07T17:56:51.240420-05:00.hyperlinks.json) |
-| [September 7 at 7:09 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-07T07:09:28.658057-05:00.hyperlinks.json) |
+| [September 19 at 10:57 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-19T10:57:40.146157-05:00.hyperlinks.json) |
+| [September 19 at 5:47 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-19T05:46:55.158945-05:00.hyperlinks.json) |
+| [September 18 at 5:47 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-18T17:47:29.163669-05:00.hyperlinks.json) |
+| [September 18 at 5:49 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-18T05:49:31.935578-05:00.hyperlinks.json) |
+| [September 17 at 5:51 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-17T17:51:10.190210-05:00.hyperlinks.json) |
+| [September 17 at 5:48 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-17T05:48:03.041098-05:00.hyperlinks.json) |
+| [September 16 at 5:50 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-16T17:50:11.500520-05:00.hyperlinks.json) |
+| [September 16 at 11:08 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-16T11:08:15.974585-05:00.hyperlinks.json) |
+| [September 16 at 5:50 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-16T05:50:40.189776-05:00.hyperlinks.json) |
+| [September 15 at 5:53 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-15T17:52:55.828069-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 220 accessibility trees with the Internet Archive.
+The archiving routine has saved 240 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 5:53 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-11T05:53:04.250670-05:00.accessibility.json) |
-| [September 10 at 6:03 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-10T18:03:26.414618-05:00.accessibility.json) |
-| [September 10 at 5:51 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-10T05:51:50.210933-05:00.accessibility.json) |
-| [September 9 at 6:02 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-09T18:02:21.220144-05:00.accessibility.json) |
-| [September 9 at 11:39 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-09T11:38:55.397359-05:00.accessibility.json) |
-| [September 9 at 6:01 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-09T06:01:40.514662-05:00.accessibility.json) |
-| [September 8 at 6:55 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-08T18:55:00.887719-05:00.accessibility.json) |
-| [September 8 at 6:00 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-08T06:00:22.035441-05:00.accessibility.json) |
-| [September 7 at 5:57 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-07T17:56:51.240420-05:00.accessibility.json) |
-| [September 7 at 7:09 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-07T07:09:28.658057-05:00.accessibility.json) |
+| [September 19 at 10:57 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-19T10:57:40.146157-05:00.accessibility.json) |
+| [September 19 at 5:47 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-19T05:46:55.158945-05:00.accessibility.json) |
+| [September 18 at 5:47 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-18T17:47:29.163669-05:00.accessibility.json) |
+| [September 18 at 5:49 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-18T05:49:31.935578-05:00.accessibility.json) |
+| [September 17 at 5:51 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-17T17:51:10.190210-05:00.accessibility.json) |
+| [September 17 at 5:48 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-17T05:48:03.041098-05:00.accessibility.json) |
+| [September 16 at 5:50 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-16T17:50:11.500520-05:00.accessibility.json) |
+| [September 16 at 11:08 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-16T11:08:15.974585-05:00.accessibility.json) |
+| [September 16 at 5:50 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-16T05:50:40.189776-05:00.accessibility.json) |
+| [September 15 at 5:53 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-15T17:52:55.828069-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 121 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 141 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 5:53 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-11T05:53:04.250670-05:00.lighthouse.json) |
-| [September 10 at 6:03 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-10T18:03:26.414618-05:00.lighthouse.json) |
-| [September 10 at 5:52 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-10T05:51:50.210933-05:00.lighthouse.json) |
-| [September 9 at 6:02 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-09T18:02:21.220144-05:00.lighthouse.json) |
-| [September 9 at 11:39 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-09T11:38:55.397359-05:00.lighthouse.json) |
-| [September 9 at 6:01 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-09T06:01:40.514662-05:00.lighthouse.json) |
-| [September 8 at 6:55 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-08T18:55:00.887719-05:00.lighthouse.json) |
-| [September 8 at 6:00 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-08T06:00:22.035441-05:00.lighthouse.json) |
-| [September 7 at 5:57 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-07T17:56:51.240420-05:00.lighthouse.json) |
-| [September 7 at 12:18 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-07T12:18:20.985457-05:00.lighthouse.json) |
+| [September 19 at 10:57 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-19T10:57:40.146157-05:00.lighthouse.json) |
+| [September 19 at 5:47 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-19T05:46:55.158945-05:00.lighthouse.json) |
+| [September 18 at 5:47 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-18T17:47:29.163669-05:00.lighthouse.json) |
+| [September 18 at 5:49 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-18T05:49:31.935578-05:00.lighthouse.json) |
+| [September 17 at 5:51 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-17T17:51:10.190210-05:00.lighthouse.json) |
+| [September 17 at 5:48 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-17T05:48:03.041098-05:00.lighthouse.json) |
+| [September 16 at 5:50 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-16T17:50:11.500520-05:00.lighthouse.json) |
+| [September 16 at 11:08 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-16T11:08:15.974585-05:00.lighthouse.json) |
+| [September 16 at 5:50 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-16T05:50:40.189776-05:00.lighthouse.json) |
+| [September 15 at 5:53 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-09-15T17:52:55.828069-05:00.lighthouse.json) |
 
 
 

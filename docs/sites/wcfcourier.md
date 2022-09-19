@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 291 screenshots with the Internet Archive.
+The archiving routine has saved 312 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-10T23:55:19.524134-05:00.jpg">
-  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-10T23:55:19.524134-05:00.jpg"
-     alt="Waterloo-Cedar Falls Courier at 2022-09-10 23:55:20-05:00 local time"
+ <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-19T12:30:31.253421-05:00.jpg">
+  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-19T12:30:31.253421-05:00.jpg"
+     alt="Waterloo-Cedar Falls Courier at 2022-09-19 12:30:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-10T23:55:19.524134-05:00.jpg">September 10 at 11:55 PM</a></p>
+ <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-19T12:30:31.253421-05:00.jpg">September 19 at 12:30 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-10T11:13:44.178600-05:00.jpg">
-  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-10T11:13:44.178600-05:00.jpg"
-     alt="Waterloo-Cedar Falls Courier at 2022-09-10 11:13:52-05:00 local time"
+ <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-19T10:58:41.536611-05:00.jpg">
+  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-19T10:58:41.536611-05:00.jpg"
+     alt="Waterloo-Cedar Falls Courier at 2022-09-19 10:58:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-10T11:13:44.178600-05:00.jpg">September 10 at 11:13 AM</a></p>
+ <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-19T10:58:41.536611-05:00.jpg">September 19 at 10:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-09T23:57:16.887993-05:00.jpg">
-  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-09T23:57:16.887993-05:00.jpg"
-     alt="Waterloo-Cedar Falls Courier at 2022-09-09 23:57:18-05:00 local time"
+ <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-19T01:01:19.409661-05:00.jpg">
+  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-19T01:01:19.409661-05:00.jpg"
+     alt="Waterloo-Cedar Falls Courier at 2022-09-19 01:01:21-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-09T23:57:16.887993-05:00.jpg">September 9 at 11:57 PM</a></p>
+ <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-19T01:01:19.409661-05:00.jpg">September 19 at 1:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-09T11:40:20.882084-05:00.jpg">
-  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-09T11:40:20.882084-05:00.jpg"
-     alt="Waterloo-Cedar Falls Courier at 2022-09-09 11:40:22-05:00 local time"
+ <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-18T12:19:58.166346-05:00.jpg">
+  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-18T12:19:58.166346-05:00.jpg"
+     alt="Waterloo-Cedar Falls Courier at 2022-09-18 12:20:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-09T11:40:20.882084-05:00.jpg">September 9 at 11:40 AM</a></p>
+ <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-18T12:19:58.166346-05:00.jpg">September 18 at 12:20 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-09T11:38:05.938766-05:00.jpg">
-  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-09T11:38:05.938766-05:00.jpg"
-     alt="Waterloo-Cedar Falls Courier at 2022-09-09 11:38:07-05:00 local time"
+ <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-18T00:33:18.824806-05:00.jpg">
+  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-18T00:33:18.824806-05:00.jpg"
+     alt="Waterloo-Cedar Falls Courier at 2022-09-18 00:33:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-09T11:38:05.938766-05:00.jpg">September 9 at 11:38 AM</a></p>
+ <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-18T00:33:18.824806-05:00.jpg">September 18 at 12:33 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-08T23:59:58.505145-05:00.jpg">
-  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-08T23:59:58.505145-05:00.jpg"
-     alt="Waterloo-Cedar Falls Courier at 2022-09-09 00:00:06-05:00 local time"
+ <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-17T11:56:46.620389-05:00.jpg">
+  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-17T11:56:46.620389-05:00.jpg"
+     alt="Waterloo-Cedar Falls Courier at 2022-09-17 11:56:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-08T23:59:58.505145-05:00.jpg">September 9 at 12:00 AM</a></p>
+ <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-17T11:56:46.620389-05:00.jpg">September 17 at 11:56 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-08T11:40:54.272818-05:00.jpg">
-  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-08T11:40:54.272818-05:00.jpg"
-     alt="Waterloo-Cedar Falls Courier at 2022-09-08 11:40:56-05:00 local time"
+ <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-17T00:26:11.865203-05:00.jpg">
+  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-17T00:26:11.865203-05:00.jpg"
+     alt="Waterloo-Cedar Falls Courier at 2022-09-17 00:26:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-08T11:40:54.272818-05:00.jpg">September 8 at 11:40 AM</a></p>
+ <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-17T00:26:11.865203-05:00.jpg">September 17 at 12:26 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-07T23:52:15.955710-05:00.jpg">
-  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-07T23:52:15.955710-05:00.jpg"
-     alt="Waterloo-Cedar Falls Courier at 2022-09-07 23:52:17-05:00 local time"
+ <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-16T12:01:04.807467-05:00.jpg">
+  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-16T12:01:04.807467-05:00.jpg"
+     alt="Waterloo-Cedar Falls Courier at 2022-09-16 12:01:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-07T23:52:15.955710-05:00.jpg">September 7 at 11:52 PM</a></p>
+ <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-16T12:01:04.807467-05:00.jpg">September 16 at 12:01 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-07T12:19:17.432777-05:00.jpg">
-  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-07T12:19:17.432777-05:00.jpg"
-     alt="Waterloo-Cedar Falls Courier at 2022-09-07 12:19:19-05:00 local time"
+ <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-16T11:08:55.173371-05:00.jpg">
+  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-16T11:08:55.173371-05:00.jpg"
+     alt="Waterloo-Cedar Falls Courier at 2022-09-16 11:08:57-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-07T12:19:17.432777-05:00.jpg">September 7 at 12:19 PM</a></p>
+ <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-16T11:08:55.173371-05:00.jpg">September 16 at 11:08 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-06T23:58:36.216883-05:00.jpg">
-  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-06T23:58:36.216883-05:00.jpg"
-     alt="Waterloo-Cedar Falls Courier at 2022-09-06 23:58:37-05:00 local time"
+ <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-16T00:36:00.298203-05:00.jpg">
+  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-16T00:36:00.298203-05:00.jpg"
+     alt="Waterloo-Cedar Falls Courier at 2022-09-16 00:36:08-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-06T23:58:36.216883-05:00.jpg">September 6 at 11:58 PM</a></p>
+ <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-16T00:36:00.298203-05:00.jpg">September 16 at 12:36 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-05T11:31:08.370135-05:00.jpg">
-  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-05T11:31:08.370135-05:00.jpg"
-     alt="Waterloo-Cedar Falls Courier at 2022-09-05 11:31:09-05:00 local time"
+ <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-15T12:17:11.614136-05:00.jpg">
+  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-15T12:17:11.614136-05:00.jpg"
+     alt="Waterloo-Cedar Falls Courier at 2022-09-15 12:17:14-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-05T11:31:08.370135-05:00.jpg">September 5 at 11:31 AM</a></p>
+ <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-15T12:17:11.614136-05:00.jpg">September 15 at 12:17 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-05T11:28:17.038239-05:00.jpg">
-  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-05T11:28:17.038239-05:00.jpg"
-     alt="Waterloo-Cedar Falls Courier at 2022-09-05 11:28:25-05:00 local time"
+ <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-15T00:36:33.141414-05:00.jpg">
+  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-15T00:36:33.141414-05:00.jpg"
+     alt="Waterloo-Cedar Falls Courier at 2022-09-15 00:36:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-05T11:28:17.038239-05:00.jpg">September 5 at 11:28 AM</a></p>
+ <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-15T00:36:33.141414-05:00.jpg">September 15 at 12:36 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 278 hyperlink lists with the Internet Archive.
+The archiving routine has saved 299 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 10 at 11:55 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-10T23:55:19.524134-05:00.hyperlinks.json) |
-| [September 10 at 11:13 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-10T11:13:44.178600-05:00.hyperlinks.json) |
-| [September 9 at 11:57 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-09T23:57:16.887993-05:00.hyperlinks.json) |
-| [September 9 at 11:40 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-09T11:40:20.882084-05:00.hyperlinks.json) |
-| [September 9 at 11:38 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-09T11:38:05.938766-05:00.hyperlinks.json) |
-| [September 9 at 12:00 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-08T23:59:58.505145-05:00.hyperlinks.json) |
-| [September 8 at 11:41 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-08T11:40:54.272818-05:00.hyperlinks.json) |
-| [September 7 at 11:52 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-07T23:52:15.955710-05:00.hyperlinks.json) |
-| [September 7 at 12:19 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-07T12:19:17.432777-05:00.hyperlinks.json) |
-| [September 7 at 12:17 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-07T12:17:06.006599-05:00.hyperlinks.json) |
+| [September 19 at 12:30 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-19T12:30:31.253421-05:00.hyperlinks.json) |
+| [September 19 at 10:58 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-19T10:58:41.536611-05:00.hyperlinks.json) |
+| [September 19 at 1:01 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-19T01:01:19.409661-05:00.hyperlinks.json) |
+| [September 18 at 12:20 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-18T12:19:58.166346-05:00.hyperlinks.json) |
+| [September 18 at 12:33 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-18T00:33:18.824806-05:00.hyperlinks.json) |
+| [September 17 at 11:56 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-17T11:56:46.620389-05:00.hyperlinks.json) |
+| [September 17 at 12:26 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-17T00:26:11.865203-05:00.hyperlinks.json) |
+| [September 16 at 12:01 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-16T12:01:04.807467-05:00.hyperlinks.json) |
+| [September 16 at 11:09 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-16T11:08:55.173371-05:00.hyperlinks.json) |
+| [September 16 at 12:36 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-16T00:36:00.298203-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 270 accessibility trees with the Internet Archive.
+The archiving routine has saved 291 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 10 at 11:55 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-10T23:55:19.524134-05:00.accessibility.json) |
-| [September 10 at 11:13 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-10T11:13:44.178600-05:00.accessibility.json) |
-| [September 9 at 11:57 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-09T23:57:16.887993-05:00.accessibility.json) |
-| [September 9 at 11:40 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-09T11:40:20.882084-05:00.accessibility.json) |
-| [September 9 at 11:38 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-09T11:38:05.938766-05:00.accessibility.json) |
-| [September 9 at 12:00 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-08T23:59:58.505145-05:00.accessibility.json) |
-| [September 8 at 11:41 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-08T11:40:54.272818-05:00.accessibility.json) |
-| [September 7 at 11:52 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-07T23:52:15.955710-05:00.accessibility.json) |
-| [September 7 at 12:17 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-07T12:17:06.006599-05:00.accessibility.json) |
-| [September 6 at 11:58 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-06T23:58:36.216883-05:00.accessibility.json) |
+| [September 19 at 12:30 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-19T12:30:31.253421-05:00.accessibility.json) |
+| [September 19 at 10:58 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-19T10:58:41.536611-05:00.accessibility.json) |
+| [September 19 at 1:01 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-19T01:01:19.409661-05:00.accessibility.json) |
+| [September 18 at 12:20 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-18T12:19:58.166346-05:00.accessibility.json) |
+| [September 18 at 12:33 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-18T00:33:18.824806-05:00.accessibility.json) |
+| [September 17 at 11:56 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-17T11:56:46.620389-05:00.accessibility.json) |
+| [September 17 at 12:26 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-17T00:26:11.865203-05:00.accessibility.json) |
+| [September 16 at 12:01 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-16T12:01:04.807467-05:00.accessibility.json) |
+| [September 16 at 11:09 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-16T11:08:55.173371-05:00.accessibility.json) |
+| [September 16 at 12:36 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-16T00:36:00.298203-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 117 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 138 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 10 at 11:55 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-10T23:55:19.524134-05:00.lighthouse.json) |
-| [September 10 at 11:13 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-10T11:13:44.178600-05:00.lighthouse.json) |
-| [September 9 at 11:57 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-09T23:57:16.887993-05:00.lighthouse.json) |
-| [September 9 at 11:40 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-09T11:40:20.882084-05:00.lighthouse.json) |
-| [September 9 at 11:38 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-09T11:38:05.938766-05:00.lighthouse.json) |
-| [September 9 at 12:00 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-08T23:59:58.505145-05:00.lighthouse.json) |
-| [September 8 at 11:41 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-08T11:40:54.272818-05:00.lighthouse.json) |
-| [September 7 at 11:52 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-07T23:52:15.955710-05:00.lighthouse.json) |
-| [September 7 at 12:19 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-07T12:19:17.432777-05:00.lighthouse.json) |
-| [September 7 at 12:17 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-07T12:17:06.006599-05:00.lighthouse.json) |
+| [September 19 at 12:30 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-19T12:30:31.253421-05:00.lighthouse.json) |
+| [September 19 at 10:58 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-19T10:58:41.536611-05:00.lighthouse.json) |
+| [September 19 at 1:01 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-19T01:01:19.409661-05:00.lighthouse.json) |
+| [September 18 at 12:20 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-18T12:19:58.166346-05:00.lighthouse.json) |
+| [September 18 at 12:33 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-18T00:33:18.824806-05:00.lighthouse.json) |
+| [September 17 at 11:56 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-17T11:56:46.620389-05:00.lighthouse.json) |
+| [September 17 at 12:26 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-17T00:26:11.865203-05:00.lighthouse.json) |
+| [September 16 at 12:01 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-16T12:01:04.807467-05:00.lighthouse.json) |
+| [September 16 at 11:09 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-16T11:08:55.173371-05:00.lighthouse.json) |
+| [September 16 at 12:36 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-09-16T00:36:00.298203-05:00.lighthouse.json) |
 
 
 
