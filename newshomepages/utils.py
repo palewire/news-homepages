@@ -86,7 +86,9 @@ def get_site_df() -> pd.DataFrame:
         else:
             return []
 
-    df["domain"] = df.url.apply(lambda x: f"{tldextract.extract(x).domain}.{tldextract.extract(x).suffix}")
+    df["domain"] = df.url.apply(
+        lambda x: f"{tldextract.extract(x).domain}.{tldextract.extract(x).suffix}"
+    )
     df["bundle_list"] = df.apply(_split_bundle, axis=1)
     df["country_name"] = df.country.apply(lambda x: iso3166.countries.get(x).name)
     df["language_name"] = df.language.apply(
@@ -199,7 +201,7 @@ def batch(li: typing.List, n: int):
         yield li[si : si + (d + 1 if i < r else d)]
 
 
-def get_sites_in_batch(batch_number: int, batches: int = 6) -> typing.List[typing.Dict]:
+def get_sites_in_batch(batch_number: int, batches: int = 8) -> typing.List[typing.Dict]:
     """Get all the sites in the provided batch.
 
     Args:
