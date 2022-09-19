@@ -1,5 +1,5 @@
 {
-  "created": 1662893634,
+  "created": 1663584554,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/22/items/appalachia100-2022",
@@ -7248,31 +7248,1023 @@
       "sha1": "0044cd8e185b861d8412f878454058224f0a7613"
     },
     {
+      "name": "appalachia100-2022-09-11T18:58:52.688145-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662937140",
+      "size": "1061",
+      "md5": "7fbb716a250c126aefcfd976648437ce",
+      "crc32": "5ef8125b",
+      "sha1": "4514ec1a25c466744b7ac40e7a8c86f70f7824e1",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-11T18:58:52.688145-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662937142",
+      "size": "39809",
+      "md5": "78c6d6f03135b96948de66a9be070bc8",
+      "crc32": "c4dd07b3",
+      "sha1": "cdca3eebd188c8fe2cfdd504f4e0e1fbe9668310",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-11T18:58:52.688145-04:00.jpg",
+      "source": "original",
+      "mtime": "1662937139",
+      "size": "288718",
+      "md5": "23143940504824aec8d703c1ba9e6e8d",
+      "crc32": "96ed1b45",
+      "sha1": "c01aa819223692044aa23fddc4c4050e3972d18f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "appalachia100-2022-09-11T18:58:52.688145-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662937144",
+      "size": "1575",
+      "md5": "ba6f3c3d9397054bc4307e190fa29d62",
+      "crc32": "f31cb585",
+      "sha1": "9e3e7d1f365e7e58625d94eeeddc4113bfc14863",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-11T18:58:52.688145-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662937145",
+      "size": "29030",
+      "md5": "3d15f9c3258616a85996fb1ed8f482b6",
+      "crc32": "a782e96b",
+      "sha1": "da389579a53e0805fde54d05008b37048b8e7001",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-11T18:58:52.688145-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "appalachia100-2022-09-11T18:58:52.688145-04:00.jpg",
+      "mtime": "1662937204",
+      "size": "9930",
+      "md5": "1652e038031617e8748dc80cd9e5b60b",
+      "crc32": "cad46c32",
+      "sha1": "0044cd8e185b861d8412f878454058224f0a7613"
+    },
+    {
+      "name": "appalachia100-2022-09-12T07:02:33.808680-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662980560",
+      "size": "1077",
+      "md5": "8a52c5564666e84d4841e49334264b84",
+      "crc32": "8802105f",
+      "sha1": "fc79821644847e330d91aeb7f0f54f3100b88df2",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-12T07:02:33.808680-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662980562",
+      "size": "39729",
+      "md5": "c76446665d2435b52587edb5e117056e",
+      "crc32": "513c0ab6",
+      "sha1": "821b1a2f0611bf0e31eb494bb571d75c52728070",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-12T07:02:33.808680-04:00.jpg",
+      "source": "original",
+      "mtime": "1662980558",
+      "size": "288718",
+      "md5": "23143940504824aec8d703c1ba9e6e8d",
+      "crc32": "96ed1b45",
+      "sha1": "c01aa819223692044aa23fddc4c4050e3972d18f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "appalachia100-2022-09-12T07:02:33.808680-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662980564",
+      "size": "1575",
+      "md5": "98aa2232c1b4bf1e9c402ec10a779076",
+      "crc32": "a07fae88",
+      "sha1": "3b6a3e3f4ab1c295f6be433066d5770d665f6ac0",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-12T07:02:33.808680-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1662980567",
+      "size": "29071",
+      "md5": "17f8b564a09162c97c75a1b9ef6d34ac",
+      "crc32": "fd9a8e9d",
+      "sha1": "f54dfab70e9d53c523744e37fed6122de32dea0c",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-12T07:02:33.808680-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "appalachia100-2022-09-12T07:02:33.808680-04:00.jpg",
+      "mtime": "1662980626",
+      "size": "9930",
+      "md5": "1652e038031617e8748dc80cd9e5b60b",
+      "crc32": "cad46c32",
+      "sha1": "0044cd8e185b861d8412f878454058224f0a7613"
+    },
+    {
+      "name": "appalachia100-2022-09-12T18:56:46.184346-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663023412",
+      "size": "1187",
+      "md5": "a85956800e0c9ba9750d03f9c5287e65",
+      "crc32": "96d6f127",
+      "sha1": "689c9414021d676cc4ce4eefa6f286cd19c1522b",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-12T18:56:46.184346-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663023414",
+      "size": "39729",
+      "md5": "c76446665d2435b52587edb5e117056e",
+      "crc32": "513c0ab6",
+      "sha1": "821b1a2f0611bf0e31eb494bb571d75c52728070",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-12T18:56:46.184346-04:00.jpg",
+      "source": "original",
+      "mtime": "1663023410",
+      "size": "288718",
+      "md5": "23143940504824aec8d703c1ba9e6e8d",
+      "crc32": "96ed1b45",
+      "sha1": "c01aa819223692044aa23fddc4c4050e3972d18f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "appalachia100-2022-09-12T18:56:46.184346-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663023416",
+      "size": "1576",
+      "md5": "9c13566edbdcd4fd646a0e893e1a9107",
+      "crc32": "9d517fed",
+      "sha1": "cf9ae824c6c38523a36a743a387c702ffdfb69d0",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-12T18:56:46.184346-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1663023418",
+      "size": "29006",
+      "md5": "3cdf0b368d7ba54e33e659a0f4bb74cc",
+      "crc32": "dd3e0388",
+      "sha1": "6f5eed5a268323b97262a420155919fea5ca7f41",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-12T18:56:46.184346-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "appalachia100-2022-09-12T18:56:46.184346-04:00.jpg",
+      "mtime": "1663023478",
+      "size": "9930",
+      "md5": "1652e038031617e8748dc80cd9e5b60b",
+      "crc32": "cad46c32",
+      "sha1": "0044cd8e185b861d8412f878454058224f0a7613"
+    },
+    {
+      "name": "appalachia100-2022-09-13T06:51:46.578229-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663066314",
+      "size": "1077",
+      "md5": "5c4d00deb46403e96e46a9b2b4ccd40a",
+      "crc32": "4067c725",
+      "sha1": "6bb7883dacfc296f063b9db1245c899cc65f75e9",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-13T06:51:46.578229-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663066316",
+      "size": "38475",
+      "md5": "9092bf5f0270de4a85e6c1fdbbbf7c0f",
+      "crc32": "6e1b32e5",
+      "sha1": "71213617f8a7a949c58faf87c670588f9a0c0380",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-13T06:51:46.578229-04:00.jpg",
+      "source": "original",
+      "mtime": "1663066312",
+      "size": "288718",
+      "md5": "23143940504824aec8d703c1ba9e6e8d",
+      "crc32": "96ed1b45",
+      "sha1": "c01aa819223692044aa23fddc4c4050e3972d18f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "appalachia100-2022-09-13T06:51:46.578229-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663066317",
+      "size": "1575",
+      "md5": "f833bf765f75a26bd9f06e87ecc56db4",
+      "crc32": "af7369fb",
+      "sha1": "5cce1723ab70b097d821fabf08c24b78ae6b042e",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-13T06:51:46.578229-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1663066319",
+      "size": "28708",
+      "md5": "a2ee2b4ed35252a94ec394fcec6f1041",
+      "crc32": "54534b93",
+      "sha1": "a08016835412664b1dcad48e4404ca5ae9ee8283",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-13T06:51:46.578229-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "appalachia100-2022-09-13T06:51:46.578229-04:00.jpg",
+      "mtime": "1663066374",
+      "size": "9930",
+      "md5": "1652e038031617e8748dc80cd9e5b60b",
+      "crc32": "cad46c32",
+      "sha1": "0044cd8e185b861d8412f878454058224f0a7613"
+    },
+    {
+      "name": "appalachia100-2022-09-13T18:56:35.587320-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663109806",
+      "size": "1109",
+      "md5": "0acdd0fef925136b04f3222eeda5d264",
+      "crc32": "8011d56c",
+      "sha1": "2eb6b97060e422116edf5e7aa5e8a5f0c37bc40e",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-13T18:56:35.587320-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663109808",
+      "size": "41062",
+      "md5": "abef55b06f0c00e0d75b9861c900bd41",
+      "crc32": "5ef34d78",
+      "sha1": "4632d12dcf7aebf84eb6aa1a27bcb534e258218e",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-13T18:56:35.587320-04:00.jpg",
+      "source": "original",
+      "mtime": "1663109805",
+      "size": "288718",
+      "md5": "23143940504824aec8d703c1ba9e6e8d",
+      "crc32": "96ed1b45",
+      "sha1": "c01aa819223692044aa23fddc4c4050e3972d18f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "appalachia100-2022-09-13T18:56:35.587320-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663109811",
+      "size": "1575",
+      "md5": "020a997c00cf852894d71d6853e856f2",
+      "crc32": "ba316c5f",
+      "sha1": "02e9ab249354078e881e0c4ad4924235d1b2ceb2",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-13T18:56:35.587320-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1663109813",
+      "size": "28979",
+      "md5": "cd12cbda6dc3a23fc0b7a90d567cd64f",
+      "crc32": "e0bf2a8a",
+      "sha1": "b594e6e8ed783603ab53576ce875f3c906b9bd8b",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-13T18:56:35.587320-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "appalachia100-2022-09-13T18:56:35.587320-04:00.jpg",
+      "mtime": "1663109887",
+      "size": "9930",
+      "md5": "1652e038031617e8748dc80cd9e5b60b",
+      "crc32": "cad46c32",
+      "sha1": "0044cd8e185b861d8412f878454058224f0a7613"
+    },
+    {
+      "name": "appalachia100-2022-09-14T06:52:56.725204-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663152787",
+      "size": "1139",
+      "md5": "10536c48566a8238278214191be6bb0d",
+      "crc32": "4b8a93fe",
+      "sha1": "c551d83484b2eb68980963c4442873a5e233d675",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-14T06:52:56.725204-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663152789",
+      "size": "39728",
+      "md5": "9f71c8d3363f3a9566d531abde6cde86",
+      "crc32": "771669f3",
+      "sha1": "8d888aad21fc224586a27c8ad5a7ae8199a03af9",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-14T06:52:56.725204-04:00.jpg",
+      "source": "original",
+      "mtime": "1663152786",
+      "size": "288718",
+      "md5": "23143940504824aec8d703c1ba9e6e8d",
+      "crc32": "96ed1b45",
+      "sha1": "c01aa819223692044aa23fddc4c4050e3972d18f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "appalachia100-2022-09-14T06:52:56.725204-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663152790",
+      "size": "1576",
+      "md5": "fd24a6c3779de38219666d90d8bacbb6",
+      "crc32": "9b128b11",
+      "sha1": "28dfc5a2ea6828050aded7b8bbd283952bd04aa0",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-14T06:52:56.725204-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1663152791",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-14T06:52:56.725204-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "appalachia100-2022-09-14T06:52:56.725204-04:00.jpg",
+      "mtime": "1663152854",
+      "size": "9930",
+      "md5": "1652e038031617e8748dc80cd9e5b60b",
+      "crc32": "cad46c32",
+      "sha1": "0044cd8e185b861d8412f878454058224f0a7613"
+    },
+    {
+      "name": "appalachia100-2022-09-14T19:00:44.653353-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663196451",
+      "size": "1065",
+      "md5": "68de8243d3beb5cdad29eeee11517e61",
+      "crc32": "3c5f04b9",
+      "sha1": "26093ad6cf5fa68a3ebd453a091e2c20e423e18f",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-14T19:00:44.653353-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663196453",
+      "size": "38475",
+      "md5": "9092bf5f0270de4a85e6c1fdbbbf7c0f",
+      "crc32": "6e1b32e5",
+      "sha1": "71213617f8a7a949c58faf87c670588f9a0c0380",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-14T19:00:44.653353-04:00.jpg",
+      "source": "original",
+      "mtime": "1663196449",
+      "size": "288718",
+      "md5": "23143940504824aec8d703c1ba9e6e8d",
+      "crc32": "96ed1b45",
+      "sha1": "c01aa819223692044aa23fddc4c4050e3972d18f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "appalachia100-2022-09-14T19:00:44.653353-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663196455",
+      "size": "1576",
+      "md5": "ec2c776d0c8d5025721122e9ce01f079",
+      "crc32": "f9140778",
+      "sha1": "daec46ad0c1d59bfdc69fe52d82266514a59ea7c",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-14T19:00:44.653353-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1663196457",
+      "size": "29353",
+      "md5": "e1156f1606bdfc8023b88167d4d2ba0a",
+      "crc32": "a6390827",
+      "sha1": "6cee1ec4ac1edfbd0f256ab6728bc91adc51e27d",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-14T19:00:44.653353-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "appalachia100-2022-09-14T19:00:44.653353-04:00.jpg",
+      "mtime": "1663196579",
+      "size": "9930",
+      "md5": "1652e038031617e8748dc80cd9e5b60b",
+      "crc32": "cad46c32",
+      "sha1": "0044cd8e185b861d8412f878454058224f0a7613"
+    },
+    {
+      "name": "appalachia100-2022-09-15T06:53:25.634729-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663239215",
+      "size": "1102",
+      "md5": "1f2bd20f88e4d75a24b60b1d8acd40b0",
+      "crc32": "6a43ca0b",
+      "sha1": "a39fdf248a852231925309d9cdd6bd775e40cfcd",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-15T06:53:25.634729-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663239216",
+      "size": "39728",
+      "md5": "9f71c8d3363f3a9566d531abde6cde86",
+      "crc32": "771669f3",
+      "sha1": "8d888aad21fc224586a27c8ad5a7ae8199a03af9",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-15T06:53:25.634729-04:00.jpg",
+      "source": "original",
+      "mtime": "1663239213",
+      "size": "288718",
+      "md5": "23143940504824aec8d703c1ba9e6e8d",
+      "crc32": "96ed1b45",
+      "sha1": "c01aa819223692044aa23fddc4c4050e3972d18f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "appalachia100-2022-09-15T06:53:25.634729-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663239218",
+      "size": "1575",
+      "md5": "c62950486a09170b6ecf1c9a12fd9b55",
+      "crc32": "d81cce75",
+      "sha1": "b8a66ab8bb3c3fac16d5c43301d74dbd4aebe812",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-15T06:53:25.634729-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1663239219",
+      "size": "29569",
+      "md5": "beb6e3e9de53738222fc6b21571f59c2",
+      "crc32": "f25638cb",
+      "sha1": "0c58b413eb3e656ce323a70c1fd28931d84e1d3e",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-15T06:53:25.634729-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "appalachia100-2022-09-15T06:53:25.634729-04:00.jpg",
+      "mtime": "1663239298",
+      "size": "9930",
+      "md5": "1652e038031617e8748dc80cd9e5b60b",
+      "crc32": "cad46c32",
+      "sha1": "0044cd8e185b861d8412f878454058224f0a7613"
+    },
+    {
+      "name": "appalachia100-2022-09-15T18:52:51.240985-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663282378",
+      "size": "1109",
+      "md5": "48476f19ddcf4f756bc16e11c4948e34",
+      "crc32": "13082796",
+      "sha1": "e1692509806f359c6b9dc24fc66294120973a100",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-15T18:52:51.240985-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663282379",
+      "size": "40603",
+      "md5": "ac0ff4a31ff617abdcc064443059021c",
+      "crc32": "b61f341a",
+      "sha1": "39b3d8405e457007887234c770768f0b1311b19f",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-15T18:52:51.240985-04:00.jpg",
+      "source": "original",
+      "mtime": "1663282375",
+      "size": "231605",
+      "md5": "92ab14cdc0a45872b4eab127b3a8717d",
+      "crc32": "6cea56bc",
+      "sha1": "81daaeb83bc7ab32942727d95461602b518ed2fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "appalachia100-2022-09-15T18:52:51.240985-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663282381",
+      "size": "1576",
+      "md5": "3954c885109bb3bda9a8a19c12851121",
+      "crc32": "be32953f",
+      "sha1": "0786b42422e89711e4f69be8cee3f79d171860f7",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-15T18:52:51.240985-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1663282383",
+      "size": "29058",
+      "md5": "06d9674b5febfdd4d6b49f200383d33c",
+      "crc32": "7c3d23b6",
+      "sha1": "46afddcabbf72e42ff552c943f09b9ec1b1f17d8",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-15T18:52:51.240985-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "appalachia100-2022-09-15T18:52:51.240985-04:00.jpg",
+      "mtime": "1663282526",
+      "size": "8401",
+      "md5": "58962855781a38eab824f701624b71de",
+      "crc32": "86e80524",
+      "sha1": "989ce6b8d9e3f2b76e652aa672fd9d6fa874847b"
+    },
+    {
+      "name": "appalachia100-2022-09-16T06:51:01.487325-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663325465",
+      "size": "1143",
+      "md5": "f05719364bb091b672183fb01c687fe3",
+      "crc32": "8f31a9fb",
+      "sha1": "ea33d658e8031ae78144994e3eb90e104d4be2ed",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-16T06:51:01.487325-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663325467",
+      "size": "39273",
+      "md5": "583c96d25db917871cc1518e23fc6f4f",
+      "crc32": "d113f01d",
+      "sha1": "564aba864e8317c298ed59ed9c83dd5f972a4972",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-16T06:51:01.487325-04:00.jpg",
+      "source": "original",
+      "mtime": "1663325463",
+      "size": "231605",
+      "md5": "92ab14cdc0a45872b4eab127b3a8717d",
+      "crc32": "6cea56bc",
+      "sha1": "81daaeb83bc7ab32942727d95461602b518ed2fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "appalachia100-2022-09-16T06:51:01.487325-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663325468",
+      "size": "1576",
+      "md5": "c00109cd19569c7c65be4d74c32730b8",
+      "crc32": "65ff4976",
+      "sha1": "c8917030ca74dafc2bb1aa3e4e3550199e0b4008",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-16T06:51:01.487325-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1663325470",
+      "size": "29807",
+      "md5": "44964d4a023f1caad4dfc99dabe4be45",
+      "crc32": "e88d15b7",
+      "sha1": "ed1f6df20d7cefb09b68f6e4782045c4d5242264",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-16T06:51:01.487325-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "appalachia100-2022-09-16T06:51:01.487325-04:00.jpg",
+      "mtime": "1663325762",
+      "size": "8401",
+      "md5": "58962855781a38eab824f701624b71de",
+      "crc32": "86e80524",
+      "sha1": "989ce6b8d9e3f2b76e652aa672fd9d6fa874847b"
+    },
+    {
+      "name": "appalachia100-2022-09-16T18:50:18.609913-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663368621",
+      "size": "1077",
+      "md5": "3aef14781318363c45a3e5ac9718f461",
+      "crc32": "0c9261f8",
+      "sha1": "0843868bd83a18adfb099b6ec9777c4308f23c22",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-16T18:50:18.609913-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663368623",
+      "size": "41937",
+      "md5": "362bb69de7f8ea34c599f68c2ac73613",
+      "crc32": "08ce67dc",
+      "sha1": "937109155732acbbd022217a8573a2e8834b41eb",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-16T18:50:18.609913-04:00.jpg",
+      "source": "original",
+      "mtime": "1663368620",
+      "size": "231605",
+      "md5": "92ab14cdc0a45872b4eab127b3a8717d",
+      "crc32": "6cea56bc",
+      "sha1": "81daaeb83bc7ab32942727d95461602b518ed2fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "appalachia100-2022-09-16T18:50:18.609913-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663368624",
+      "size": "1576",
+      "md5": "deda5c4557f153d05605a308820b93ca",
+      "crc32": "8fd71b9c",
+      "sha1": "8cd6273d3a310a357585bf1de765ebc8c25519dd",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-16T18:50:18.609913-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1663368626",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-16T18:50:18.609913-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "appalachia100-2022-09-16T18:50:18.609913-04:00.jpg",
+      "mtime": "1663374121",
+      "size": "8401",
+      "md5": "58962855781a38eab824f701624b71de",
+      "crc32": "86e80524",
+      "sha1": "989ce6b8d9e3f2b76e652aa672fd9d6fa874847b"
+    },
+    {
+      "name": "appalachia100-2022-09-17T06:48:31.270071-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663411728",
+      "size": "1061",
+      "md5": "cffda8e0a843d9f97b6091f30f1b8eb7",
+      "crc32": "c6a52d28",
+      "sha1": "c8d885ed72f0495ff43ab8449d36936946cc57f0",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-17T06:48:31.270071-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663411730",
+      "size": "38063",
+      "md5": "644e480f12c641b5b6698120a048a799",
+      "crc32": "65085b88",
+      "sha1": "dd00fbbdfba7ac405d1272330bcf8f4e1b44268f",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-17T06:48:31.270071-04:00.jpg",
+      "source": "original",
+      "mtime": "1663411727",
+      "size": "231605",
+      "md5": "92ab14cdc0a45872b4eab127b3a8717d",
+      "crc32": "6cea56bc",
+      "sha1": "81daaeb83bc7ab32942727d95461602b518ed2fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "appalachia100-2022-09-17T06:48:31.270071-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663411731",
+      "size": "1575",
+      "md5": "c8d68beb9468ac39212980c3d46a0c11",
+      "crc32": "a0cdb3f2",
+      "sha1": "22cfcd51ac1de4389ee1f68f09b4c358c7397f0c",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-17T06:48:31.270071-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1663411733",
+      "size": "29501",
+      "md5": "89ed794d22649d0c5d5b7c54a4dca324",
+      "crc32": "53c91c76",
+      "sha1": "b8d682f85a30733d48f1a8af02ed3f84ef7aafb9",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-17T06:48:31.270071-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "appalachia100-2022-09-17T06:48:31.270071-04:00.jpg",
+      "mtime": "1663416007",
+      "size": "8401",
+      "md5": "58962855781a38eab824f701624b71de",
+      "crc32": "86e80524",
+      "sha1": "989ce6b8d9e3f2b76e652aa672fd9d6fa874847b"
+    },
+    {
+      "name": "appalachia100-2022-09-17T18:51:53.669728-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663455116",
+      "size": "1208",
+      "md5": "59bcc9d6e9dc56d61cd1dfbd6a727835",
+      "crc32": "acdbb37e",
+      "sha1": "9aae612bfc01f438faa9e2f1133054bbcd71a100",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-17T18:51:53.669728-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663455117",
+      "size": "39273",
+      "md5": "583c96d25db917871cc1518e23fc6f4f",
+      "crc32": "d113f01d",
+      "sha1": "564aba864e8317c298ed59ed9c83dd5f972a4972",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-17T18:51:53.669728-04:00.jpg",
+      "source": "original",
+      "mtime": "1663455114",
+      "size": "231605",
+      "md5": "92ab14cdc0a45872b4eab127b3a8717d",
+      "crc32": "6cea56bc",
+      "sha1": "81daaeb83bc7ab32942727d95461602b518ed2fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "appalachia100-2022-09-17T18:51:53.669728-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663455119",
+      "size": "1575",
+      "md5": "08cf81c49f1596ecea0878ae715caf36",
+      "crc32": "155977b2",
+      "sha1": "f3faba5ee11a785c11c36014a8bf1bb6b27e2690",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-17T18:51:53.669728-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1663455121",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-17T18:51:53.669728-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "appalachia100-2022-09-17T18:51:53.669728-04:00.jpg",
+      "mtime": "1663455218",
+      "size": "8401",
+      "md5": "58962855781a38eab824f701624b71de",
+      "crc32": "86e80524",
+      "sha1": "989ce6b8d9e3f2b76e652aa672fd9d6fa874847b"
+    },
+    {
+      "name": "appalachia100-2022-09-18T06:50:03.538707-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663498205",
+      "size": "1130",
+      "md5": "ea3890039240dcbbc59d5348855d6639",
+      "crc32": "993b3ff2",
+      "sha1": "206faab22843d457f1cfabff7f14e9fd183efb1a",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-18T06:50:03.538707-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663498207",
+      "size": "39273",
+      "md5": "738d7f6a1707d4774ad4a2f3f920372b",
+      "crc32": "eafa8791",
+      "sha1": "209967b5d0027a727f5b7593c9f1e25273eb84f3",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-18T06:50:03.538707-04:00.jpg",
+      "source": "original",
+      "mtime": "1663498204",
+      "size": "231605",
+      "md5": "92ab14cdc0a45872b4eab127b3a8717d",
+      "crc32": "6cea56bc",
+      "sha1": "81daaeb83bc7ab32942727d95461602b518ed2fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "appalachia100-2022-09-18T06:50:03.538707-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663498208",
+      "size": "1576",
+      "md5": "de5a9b0c00bfb7e95d7e8fd3f5c9e524",
+      "crc32": "056998ad",
+      "sha1": "e8f708ecf34a9e98f57e132f29c67e3f0442cfe1",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-18T06:50:03.538707-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1663498209",
+      "size": "29368",
+      "md5": "109d88e5facd8a45f8f112a583efcd36",
+      "crc32": "63ac00c2",
+      "sha1": "8caf1cc3846652ca75dc555baa6503d921b27ca6",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-18T06:50:03.538707-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "appalachia100-2022-09-18T06:50:03.538707-04:00.jpg",
+      "mtime": "1663498289",
+      "size": "8401",
+      "md5": "58962855781a38eab824f701624b71de",
+      "crc32": "86e80524",
+      "sha1": "989ce6b8d9e3f2b76e652aa672fd9d6fa874847b"
+    },
+    {
+      "name": "appalachia100-2022-09-18T18:47:15.810888-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663541239",
+      "size": "1130",
+      "md5": "d2d4b158ca2338172df9c04ae50dd180",
+      "crc32": "66d29cef",
+      "sha1": "771acf57901ef20fdb42ba1e47e1ef25ebe6ea72",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-18T18:47:15.810888-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663541241",
+      "size": "39273",
+      "md5": "583c96d25db917871cc1518e23fc6f4f",
+      "crc32": "d113f01d",
+      "sha1": "564aba864e8317c298ed59ed9c83dd5f972a4972",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-18T18:47:15.810888-04:00.jpg",
+      "source": "original",
+      "mtime": "1663541237",
+      "size": "231605",
+      "md5": "92ab14cdc0a45872b4eab127b3a8717d",
+      "crc32": "6cea56bc",
+      "sha1": "81daaeb83bc7ab32942727d95461602b518ed2fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "appalachia100-2022-09-18T18:47:15.810888-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663541242",
+      "size": "1576",
+      "md5": "71ecb6afab52208acd37fa4489f84142",
+      "crc32": "91b106f1",
+      "sha1": "d6cc353dcefd173d6e4629c5a84e263c07493119",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-18T18:47:15.810888-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1663541244",
+      "size": "29887",
+      "md5": "205371b65eebce864a25abc2ebaf8891",
+      "crc32": "5ecae0c3",
+      "sha1": "cb3c8f17d118847d0bdf7adbc7a9f7f07271cd1c",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-18T18:47:15.810888-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "appalachia100-2022-09-18T18:47:15.810888-04:00.jpg",
+      "mtime": "1663541307",
+      "size": "8401",
+      "md5": "58962855781a38eab824f701624b71de",
+      "crc32": "86e80524",
+      "sha1": "989ce6b8d9e3f2b76e652aa672fd9d6fa874847b"
+    },
+    {
+      "name": "appalachia100-2022-09-19T06:47:33.336463-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663584463",
+      "size": "1130",
+      "md5": "189a793bb1ef3bc3429fb773e2278ce1",
+      "crc32": "5f972a2e",
+      "sha1": "6e6ba2fd4e2dcd4b8563f2cbec6f4455125b83d7",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-19T06:47:33.336463-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663584464",
+      "size": "38063",
+      "md5": "644e480f12c641b5b6698120a048a799",
+      "crc32": "65085b88",
+      "sha1": "dd00fbbdfba7ac405d1272330bcf8f4e1b44268f",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-19T06:47:33.336463-04:00.jpg",
+      "source": "original",
+      "mtime": "1663584459",
+      "size": "231605",
+      "md5": "92ab14cdc0a45872b4eab127b3a8717d",
+      "crc32": "6cea56bc",
+      "sha1": "81daaeb83bc7ab32942727d95461602b518ed2fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "appalachia100-2022-09-19T06:47:33.336463-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663584465",
+      "size": "1575",
+      "md5": "c438f166b8e3cae893a6613e923b321f",
+      "crc32": "4408864e",
+      "sha1": "b1913bda21a3535cc95517936a067d625a697035",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-19T06:47:33.336463-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1663584467",
+      "size": "29175",
+      "md5": "8a2b75515080a44de4268b6afc513007",
+      "crc32": "26e62a3a",
+      "sha1": "b7c45fef8be7cd5d8f447fb89f6ae5adfcfd43c7",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-09-19T06:47:33.336463-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "appalachia100-2022-09-19T06:47:33.336463-04:00.jpg",
+      "mtime": "1663584529",
+      "size": "8401",
+      "md5": "58962855781a38eab824f701624b71de",
+      "crc32": "86e80524",
+      "sha1": "989ce6b8d9e3f2b76e652aa672fd9d6fa874847b"
+    },
+    {
       "name": "appalachia100-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0ec5c76586bf763b7c95af5804ad6afe9272fe06",
-      "mtime": "1662893623",
-      "size": "151589",
-      "md5": "64e3b6f7b1cce1f3f168840358f60ac8",
-      "crc32": "e41e5ede",
-      "sha1": "4367358790cbd6a6fef74dfa5b28f41d87049877",
+      "btih": "55230c743451c9e5f0cd8a03c8050246c7435227",
+      "mtime": "1663584541",
+      "size": "172200",
+      "md5": "b744d07d26479defe3971901e2b374bc",
+      "crc32": "11336b5f",
+      "sha1": "b29a6c67fdebc0429d375fdbf51ba20c256c0eb0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "appalachia100-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9c72148ab6417f336e95c55dbf0020b7",
+      "md5": "d46f7bd55f2c56417f04ac79cca770ac",
       "summation": "md5"
     },
     {
       "name": "appalachia100-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662893558",
-      "size": "888832",
-      "md5": "67b65154f92c87cc10de58f20b69f39f",
-      "crc32": "c10e1899",
-      "sha1": "edd607ef98ba5b0d069c7d4b6149415645e28d9c",
+      "mtime": "1663584471",
+      "size": "1011712",
+      "md5": "7e581c071f4121c00a0a44c7e5fab1c7",
+      "crc32": "0559af09",
+      "sha1": "1577b66c06e51ea8b3818e0220833cf2f3b640ef",
       "format": "Metadata"
     },
     {
@@ -7286,9 +8278,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 702,
-  "item_last_updated": 1662893623,
-  "item_size": 48612386,
+  "files_count": 798,
+  "item_last_updated": 1663584541,
+  "item_size": 54121733,
   "metadata": {
     "identifier": "appalachia100-2022",
     "collection": [
@@ -7305,10 +8297,10 @@
     "publicdate": "2022-07-09 03:55:39",
     "addeddate": "2022-07-09 03:55:39"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 1118772602,
+  "server": "ia601401.us.archive.org",
+  "uniq": 362086187,
   "workable_servers": [
-    "ia801401.us.archive.org",
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1662901488,
+  "created": 1663622104,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/1/items/oregonian-2022",
@@ -7584,31 +7584,1023 @@
       "sha1": "d7b539fbe1ef7be5b805b5dd198770dfdbbc9e05"
     },
     {
+      "name": "oregonian-2022-09-11T18:26:13.335934-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662945980",
+      "size": "46075",
+      "md5": "c4427604b9156e157e6e76775a9a1eae",
+      "crc32": "fa6161a7",
+      "sha1": "f87b6a880815e1df69185f1e18d69ee65a49e179",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-11T18:26:13.335934-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662945982",
+      "size": "47681",
+      "md5": "d9eb6765a83accea2e36ebdaed54fd6a",
+      "crc32": "7842e8c9",
+      "sha1": "cae1f4a26f8985fd26f7c7a51d2d2df1176f0548",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-11T18:26:13.335934-07:00.jpg",
+      "source": "original",
+      "mtime": "1662945978",
+      "size": "214560",
+      "md5": "231fec573d4f8da74d2df7a8bc2e8564",
+      "crc32": "c8f259d8",
+      "sha1": "7e06eb69a6ec51eb44f39f66d8f60fc9a153b675",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oregonian-2022-09-11T18:26:13.335934-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662945984",
+      "size": "1495",
+      "md5": "71ad38818be543e74aeb053236397a27",
+      "crc32": "2fff19c3",
+      "sha1": "192b06632d9cd228da619b68304c5b4398e1d049",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-11T18:26:13.335934-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662945986",
+      "size": "143707",
+      "md5": "78ed420293c5ad26e4331e4b44624b1d",
+      "crc32": "979b5ba2",
+      "sha1": "2e0dd9940137611a82a39ecb41176a84973fbda3",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-11T18:26:13.335934-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oregonian-2022-09-11T18:26:13.335934-07:00.jpg",
+      "mtime": "1662946052",
+      "size": "8008",
+      "md5": "fa9ddc0395f1c36345b730869ab0f601",
+      "crc32": "704b7f4f",
+      "sha1": "9c74940da3c2029465746b6f56269cf7e8ca4726"
+    },
+    {
+      "name": "oregonian-2022-09-12T06:39:03.894318-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1662989951",
+      "size": "44005",
+      "md5": "2f23105ccfe8d337e8f5394d0d8af376",
+      "crc32": "4cb7f1c0",
+      "sha1": "7e5a88e9d8798da1b748be2dbc2b4cd92b46a14b",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-12T06:39:03.894318-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1662989952",
+      "size": "47120",
+      "md5": "5c23bc831ee94440c1137119d091ff92",
+      "crc32": "0af85775",
+      "sha1": "1574612be3dccb3d83ef08f9af437ff4ee3bd072",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-12T06:39:03.894318-07:00.jpg",
+      "source": "original",
+      "mtime": "1662989949",
+      "size": "214845",
+      "md5": "cb41b13d79f44d869ea85b63b56d0ffa",
+      "crc32": "805a50fd",
+      "sha1": "8c71ae86f2867950bc2b92f53a9ab9ae1fdfdc9f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oregonian-2022-09-12T06:39:03.894318-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1662989954",
+      "size": "1495",
+      "md5": "cad9030e730a9c907d7fb70df8837d63",
+      "crc32": "c1b1e76a",
+      "sha1": "e6797136285beee941b434a0cebd81e1e006f316",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-12T06:39:03.894318-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1662989955",
+      "size": "89880",
+      "md5": "7aff672351797318391723f9682ca08a",
+      "crc32": "90c53612",
+      "sha1": "04f39ad2aec50b36f95c26516836b0d0d5334040",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-12T06:39:03.894318-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oregonian-2022-09-12T06:39:03.894318-07:00.jpg",
+      "mtime": "1662990019",
+      "size": "7987",
+      "md5": "2a679e8b0719be03f57e3201aa844461",
+      "crc32": "16b32589",
+      "sha1": "5e334a19cc9ce172ecee6c2744ccf5b40ac4e75f"
+    },
+    {
+      "name": "oregonian-2022-09-12T18:17:07.291179-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663031831",
+      "size": "45010",
+      "md5": "a9179dc1682b1dc6985ae1cacdb45011",
+      "crc32": "6da0f4a1",
+      "sha1": "5ec8dbad57eb05f6c3aa991106caed7f68b91ec8",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-12T18:17:07.291179-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663031834",
+      "size": "54968",
+      "md5": "da16ab7a9b28a059f61ff4d1f03c7978",
+      "crc32": "3b3638cf",
+      "sha1": "4e87b96ca89ec9aaa319e870c72be464867a40a5",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-12T18:17:07.291179-07:00.jpg",
+      "source": "original",
+      "mtime": "1663031830",
+      "size": "216466",
+      "md5": "c16a8b56d16b50eccba4717432c36ceb",
+      "crc32": "be9a1d41",
+      "sha1": "b0b291b4a0fc4365524b08160a393bb619819e86",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oregonian-2022-09-12T18:17:07.291179-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663031835",
+      "size": "1495",
+      "md5": "c0ee2bbfb6dbe87db986c8e437e6f081",
+      "crc32": "84dc4e7a",
+      "sha1": "4f2223f929ba2b197ece064d1b5bae8f8f04fbfd",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-12T18:17:07.291179-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1663031836",
+      "size": "316936",
+      "md5": "7ba251d08507f8658a86eb7f7100a960",
+      "crc32": "e32f31fc",
+      "sha1": "1e7bcf06329038135900e20aa23063f5723eddd5",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-12T18:17:07.291179-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oregonian-2022-09-12T18:17:07.291179-07:00.jpg",
+      "mtime": "1663031898",
+      "size": "8224",
+      "md5": "3032d7f4c50e1713a73b286ac9189fc8",
+      "crc32": "7b67a11b",
+      "sha1": "8df73662a0b8d869e419a7a3b4cae128ef32dc8d"
+    },
+    {
+      "name": "oregonian-2022-09-13T06:01:56.045813-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663074128",
+      "size": "45561",
+      "md5": "876c929603090f058d7906543481be10",
+      "crc32": "5af31307",
+      "sha1": "2035100aaeacb5f4d3c3d0fd17c1cad38e5dd7ab",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-13T06:01:56.045813-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663074130",
+      "size": "46357",
+      "md5": "39336be470f2766d20ba583b4fbd3c3e",
+      "crc32": "7ab09973",
+      "sha1": "5312e0c3b36d617831e43132cd3bbba72d30b016",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-13T06:01:56.045813-07:00.jpg",
+      "source": "original",
+      "mtime": "1663074125",
+      "size": "232965",
+      "md5": "958baa6a6ad2149a8142a7ee486f3d7a",
+      "crc32": "19486877",
+      "sha1": "0e7a889cf485af1b8e535de88b37a29c5da2067e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oregonian-2022-09-13T06:01:56.045813-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663074131",
+      "size": "1495",
+      "md5": "930e22d7d86f2c74b0e1e5ec5229fa43",
+      "crc32": "1bd26990",
+      "sha1": "62f529f2d810555045031437d13b3e67c80ab101",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-13T06:01:56.045813-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1663074134",
+      "size": "104784",
+      "md5": "fed7a6ae52e0e147f69c644ce096a473",
+      "crc32": "42cdf995",
+      "sha1": "a3f2ee347795c859f87afc7133a81bea8651e723",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-13T06:01:56.045813-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oregonian-2022-09-13T06:01:56.045813-07:00.jpg",
+      "mtime": "1663074250",
+      "size": "8324",
+      "md5": "ed022e25ddb4eb8727d75eac52284162",
+      "crc32": "e49606cf",
+      "sha1": "051a5f7ecf9b372fb8ca94acba941e5369449055"
+    },
+    {
+      "name": "oregonian-2022-09-13T18:22:50.686378-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663118583",
+      "size": "44747",
+      "md5": "82c861acccea247fb85249f708d84e63",
+      "crc32": "b588df54",
+      "sha1": "bd0c52622fd2b55d6175e3ce0a6ec2c51ec4a04d",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-13T18:22:50.686378-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663118585",
+      "size": "55171",
+      "md5": "3b32d08a9a43c3b8885744f6fcafca13",
+      "crc32": "6e317c3c",
+      "sha1": "faaa8fa76f7cad1651fe350097fc1d160a159fe3",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-13T18:22:50.686378-07:00.jpg",
+      "source": "original",
+      "mtime": "1663118581",
+      "size": "257216",
+      "md5": "cb736b127f5482b9e2c5af81e8371e60",
+      "crc32": "10676889",
+      "sha1": "34686fef3e10c47f01c054bb4adb3e4200a6c4a2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oregonian-2022-09-13T18:22:50.686378-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663118587",
+      "size": "1495",
+      "md5": "8643705bbe04062845d78f8df1ced63c",
+      "crc32": "ff94f09c",
+      "sha1": "641914b80fa7afb7d544c3af8a10602581a92212",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-13T18:22:50.686378-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1663118588",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-13T18:22:50.686378-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oregonian-2022-09-13T18:22:50.686378-07:00.jpg",
+      "mtime": "1663118658",
+      "size": "8494",
+      "md5": "5f520b5632d89757e966f21372637793",
+      "crc32": "095b8ee4",
+      "sha1": "082efac8424ac5f978d82a532a33b6d667778409"
+    },
+    {
+      "name": "oregonian-2022-09-14T06:08:39.933249-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663160927",
+      "size": "44082",
+      "md5": "b3d77535a31ff63fc9a570d67c4b0863",
+      "crc32": "c6d81ba7",
+      "sha1": "d7eae6600e2a4982087fa34a12ab2250b1e73359",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-14T06:08:39.933249-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663160931",
+      "size": "45516",
+      "md5": "d20cc6c57dae50e7b285922614f1cf24",
+      "crc32": "043c9cdb",
+      "sha1": "c73b03a564d4c0f4e4951fcbaf64f19d14f99f70",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-14T06:08:39.933249-07:00.jpg",
+      "source": "original",
+      "mtime": "1663160925",
+      "size": "252209",
+      "md5": "238a091097b3b50448181f9be7b88190",
+      "crc32": "9e4a6d82",
+      "sha1": "516557cea4ba8821eb30a3522afd11f82223f7f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oregonian-2022-09-14T06:08:39.933249-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663160933",
+      "size": "1495",
+      "md5": "208f1497171d60923de6d2a60b3a726c",
+      "crc32": "82284f51",
+      "sha1": "ba3be8f51bee8b40d281cd8f647558831faaceff",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-14T06:08:39.933249-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1663160935",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-14T06:08:39.933249-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oregonian-2022-09-14T06:08:39.933249-07:00.jpg",
+      "mtime": "1663161039",
+      "size": "8431",
+      "md5": "11c28cbdf2d3151eb9cb040aeec98959",
+      "crc32": "6163ae5a",
+      "sha1": "c7ad6c15a343e5d057cfa818938cd53c5d152c62"
+    },
+    {
+      "name": "oregonian-2022-09-14T18:20:39.731728-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663204848",
+      "size": "45117",
+      "md5": "50907ceff32bf5baae709ba316d8559d",
+      "crc32": "9271b2c5",
+      "sha1": "272e8e11faa98f3f70476d5cd6f2aff8486fccf6",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-14T18:20:39.731728-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663204850",
+      "size": "45705",
+      "md5": "2503167b08e8b46bd705954cee6b5616",
+      "crc32": "4cd2774a",
+      "sha1": "319f2026031545c2f21a84001ac372684331237f",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-14T18:20:39.731728-07:00.jpg",
+      "source": "original",
+      "mtime": "1663204846",
+      "size": "216931",
+      "md5": "240484eed7f61352e59bc220f6428b25",
+      "crc32": "029f118e",
+      "sha1": "6eb52fef59ea098847d0ed98dfd84a24f6faf962",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oregonian-2022-09-14T18:20:39.731728-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663204851",
+      "size": "1495",
+      "md5": "0313e7870042c5576863a2f603d83cfb",
+      "crc32": "f2ca875c",
+      "sha1": "f5d1ee10ff86d983497855b04805d4f66f6e3046",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-14T18:20:39.731728-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1663204859",
+      "size": "342059",
+      "md5": "41da52f211bff834cd510cd7dc81528e",
+      "crc32": "786b8617",
+      "sha1": "d80e45f2c6a98c430b283f1852bcf88791f5ab21",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-14T18:20:39.731728-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oregonian-2022-09-14T18:20:39.731728-07:00.jpg",
+      "mtime": "1663204992",
+      "size": "8351",
+      "md5": "1a5aaf1d848c1dce01a3f3bcbaa39cb8",
+      "crc32": "01ae0e41",
+      "sha1": "5b97aa235315105a1f0c1b925a913254dd467155"
+    },
+    {
+      "name": "oregonian-2022-09-15T06:02:47.420221-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663246988",
+      "size": "45054",
+      "md5": "84cf3ef09e23d104d3ac3d63e57ba2cc",
+      "crc32": "d45bd444",
+      "sha1": "4982d9f6a926a678d08dba357bedbb1323541578",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-15T06:02:47.420221-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663246991",
+      "size": "45040",
+      "md5": "f54aabc254aa7a6ebcfd3a5ae86a9f2a",
+      "crc32": "dc052279",
+      "sha1": "fd4d7b9ace4d000cd2b8db22b2b9e89a74a75290",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-15T06:02:47.420221-07:00.jpg",
+      "source": "original",
+      "mtime": "1663246986",
+      "size": "212427",
+      "md5": "a9748362d5066262cbd268642baf6b1e",
+      "crc32": "978fc46d",
+      "sha1": "1200617c15334c1b5ad69ced47accaf7a9823882",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oregonian-2022-09-15T06:02:47.420221-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663246993",
+      "size": "1495",
+      "md5": "5ad15b81203747a949eb81aa3f6cce81",
+      "crc32": "b424cac2",
+      "sha1": "677cca698d1e0468767cf62d333d7b2e182e9c02",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-15T06:02:47.420221-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1663246996",
+      "size": "104874",
+      "md5": "6a98967b5f71c7428132df07572bf888",
+      "crc32": "e03f80a5",
+      "sha1": "a8f04bf8b5f43e7bcc502e6b24729049dcaa1355",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-15T06:02:47.420221-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oregonian-2022-09-15T06:02:47.420221-07:00.jpg",
+      "mtime": "1663247105",
+      "size": "8200",
+      "md5": "668d0cabef06d624461f3db5bed22f27",
+      "crc32": "15b97d80",
+      "sha1": "3acadfd3ba388d6a225d8c6e089738c68353f28b"
+    },
+    {
+      "name": "oregonian-2022-09-15T18:15:53.236563-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663290961",
+      "size": "44854",
+      "md5": "2eb0429aa56dd8b9d78b0bfd28e557b4",
+      "crc32": "7fef981b",
+      "sha1": "d3f15a2fa4acfb974c91e12fe06507c20bfe0f18",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-15T18:15:53.236563-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663290965",
+      "size": "46270",
+      "md5": "ca6c901b1cecdcb3195d6ab8f22e2868",
+      "crc32": "d52d5c64",
+      "sha1": "6cd4912dcc179af2281a13092bacbb80c9a0b466",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-15T18:15:53.236563-07:00.jpg",
+      "source": "original",
+      "mtime": "1663290959",
+      "size": "241069",
+      "md5": "fd1b2a9ef39300d7a3f208d29fab1dcd",
+      "crc32": "c6e46204",
+      "sha1": "dd6305c2e5ae78c972ce513513cab80b0a3468ee",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oregonian-2022-09-15T18:15:53.236563-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663290967",
+      "size": "1495",
+      "md5": "abfa37ac079d97b69c2543105f4e5234",
+      "crc32": "dc674555",
+      "sha1": "ec3bb017d16c27bafa3b214fe667ffbd33872376",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-15T18:15:53.236563-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1663290971",
+      "size": "282895",
+      "md5": "28a60eedd031d0bcd683ee8121a51f0b",
+      "crc32": "434ae492",
+      "sha1": "5af9a36af4e83c4cf72240d3b56186cab74dbfa9",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-15T18:15:53.236563-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oregonian-2022-09-15T18:15:53.236563-07:00.jpg",
+      "mtime": "1663294292",
+      "size": "8061",
+      "md5": "4f9145879476fba8912f97b5b88e136e",
+      "crc32": "df1e8149",
+      "sha1": "ee6980a3f1d959b6285af9ba1b95bf20898566e0"
+    },
+    {
+      "name": "oregonian-2022-09-16T06:00:57.208859-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663333264",
+      "size": "45452",
+      "md5": "5896f1bf50e5ed562247a97052967b82",
+      "crc32": "72a2fdb6",
+      "sha1": "bc9d572aee3daa369a2fe145168c099073d515ca",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-16T06:00:57.208859-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663333267",
+      "size": "45373",
+      "md5": "124c375a9a18e97c1d165d06ed873fa8",
+      "crc32": "d7475cf6",
+      "sha1": "09edbda078452c77aba04f321d4cb87747c4a60d",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-16T06:00:57.208859-07:00.jpg",
+      "source": "original",
+      "mtime": "1663333260",
+      "size": "246579",
+      "md5": "a8be6ec74f9c04f5f4edaf9921b542ee",
+      "crc32": "1aa35d47",
+      "sha1": "953bf2261dcef84f68c5b11e336cec7e87354158",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oregonian-2022-09-16T06:00:57.208859-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663333274",
+      "size": "1495",
+      "md5": "8172f796c0506ab53c3d8083dc77f63f",
+      "crc32": "99575bf7",
+      "sha1": "035cd51f3f53c8034b9c32687673a39edb27b333",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-16T06:00:57.208859-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1663333277",
+      "size": "263548",
+      "md5": "e541dc2ce84ebeeb7085cb8f2ca1e48f",
+      "crc32": "172c8984",
+      "sha1": "02be921bc088829bfe46685f8d915ebf482d0bbd",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-16T06:00:57.208859-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oregonian-2022-09-16T06:00:57.208859-07:00.jpg",
+      "mtime": "1663338288",
+      "size": "8118",
+      "md5": "af942be04c85f0c2f06620983ed83655",
+      "crc32": "0d3813f4",
+      "sha1": "b551ce23841ffb5ff8025906f3017ca9a923a143"
+    },
+    {
+      "name": "oregonian-2022-09-16T18:13:21.249819-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663377208",
+      "size": "45235",
+      "md5": "b06a36faef00f7f71f853b9efca301dc",
+      "crc32": "f5e37abf",
+      "sha1": "a13d425c96d0ad19e9c65910d2e4c0eefd9fa3f7",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-16T18:13:21.249819-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663377210",
+      "size": "46351",
+      "md5": "f3ce07b39bc58cf1d3885f4a8ba00488",
+      "crc32": "6e3193f0",
+      "sha1": "f153c195104640418d5ccf726f880b79d7fefdd0",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-16T18:13:21.249819-07:00.jpg",
+      "source": "original",
+      "mtime": "1663377206",
+      "size": "226083",
+      "md5": "b228b36411ab1d7d076a5ebf197a6901",
+      "crc32": "a6673043",
+      "sha1": "e7ddf8f75b461531863d3d938b4731ac676cc8af",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oregonian-2022-09-16T18:13:21.249819-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663377212",
+      "size": "1495",
+      "md5": "5738601b4a8f8788a6caf11dbc10e2eb",
+      "crc32": "8c51e3d8",
+      "sha1": "293f648d511dd31e6aded504d8c5a55448528a83",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-16T18:13:21.249819-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1663377214",
+      "size": "105955",
+      "md5": "cb649cc066bea5d2cf07ae5d12caf1aa",
+      "crc32": "3718bb3e",
+      "sha1": "170c75c92997c72adcd9ce954b65c9bb2e974737",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-16T18:13:21.249819-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oregonian-2022-09-16T18:13:21.249819-07:00.jpg",
+      "mtime": "1663380530",
+      "size": "8136",
+      "md5": "dec8c76ddde51532b28786cd5a07dc6e",
+      "crc32": "1167f4a6",
+      "sha1": "7690088800fdc8674dc8250638a03db9de167749"
+    },
+    {
+      "name": "oregonian-2022-09-17T06:00:25.128936-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663419634",
+      "size": "43359",
+      "md5": "b4461d8c94fb4c0f9de43d9dac9d3bb3",
+      "crc32": "c715c880",
+      "sha1": "2489c3cdb27399ce27164243fcc5f6d8903e506e",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-17T06:00:25.128936-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663419636",
+      "size": "45418",
+      "md5": "47d922bde194b740b8cbd98fb3a7b2bb",
+      "crc32": "00509c9c",
+      "sha1": "70dd1247b4dc7c910f12a674242bf992af792785",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-17T06:00:25.128936-07:00.jpg",
+      "source": "original",
+      "mtime": "1663419631",
+      "size": "246742",
+      "md5": "55f6b35af769cc3e60dd87edf45f6940",
+      "crc32": "22c8abd9",
+      "sha1": "c782446c7e6aec09ead1254ff47b612fc346c61d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oregonian-2022-09-17T06:00:25.128936-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663419638",
+      "size": "1495",
+      "md5": "949a06c08997a2daded997c168e30244",
+      "crc32": "a9d7feef",
+      "sha1": "08405184a7008b36e9a801a7efb8e7b63d64b8c4",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-17T06:00:25.128936-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1663419640",
+      "size": "179180",
+      "md5": "dbbbae0ba820e258f894fe2a407dc6ad",
+      "crc32": "7082ed22",
+      "sha1": "afade905ac371405e26256bb93856b589fd54acc",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-17T06:00:25.128936-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oregonian-2022-09-17T06:00:25.128936-07:00.jpg",
+      "mtime": "1663422549",
+      "size": "8511",
+      "md5": "5c4c9a27f325c0e17f704aa3d7892b73",
+      "crc32": "90bad474",
+      "sha1": "612986d4ede9dff23ec3129d4342c96fe2d2cb6a"
+    },
+    {
+      "name": "oregonian-2022-09-17T18:20:10.145159-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663464013",
+      "size": "45363",
+      "md5": "80765af72c8358d70dd7cbbff01eaa52",
+      "crc32": "b40aa81f",
+      "sha1": "1d8ca75d2696fabb884c5df80730135468ebab48",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-17T18:20:10.145159-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663464014",
+      "size": "47807",
+      "md5": "d34661e01d89cd9af499b306ddf91226",
+      "crc32": "4ccaa6c3",
+      "sha1": "7b4c7c5fe87a0514228270f6318613b58a9826f6",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-17T18:20:10.145159-07:00.jpg",
+      "source": "original",
+      "mtime": "1663464011",
+      "size": "235066",
+      "md5": "7b6750b5acbf6aae68b7c324efcd44c7",
+      "crc32": "d8298f2d",
+      "sha1": "805f93b3a54a779c8f3d3ee05f6f92d0014f059f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oregonian-2022-09-17T18:20:10.145159-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663464016",
+      "size": "1495",
+      "md5": "d247d6318dd15e1f1c38e13d03c58169",
+      "crc32": "3b13c4f6",
+      "sha1": "388666b7fe34fd788fb7853b69c3e8143245d12f",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-17T18:20:10.145159-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1663464017",
+      "size": "207",
+      "md5": "9934cf90c1639378d8856bd3a29eb9ab",
+      "crc32": "73eb53ed",
+      "sha1": "c549f6e1295096cc24a290b8ea1e12a5648e13c1",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-17T18:20:10.145159-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oregonian-2022-09-17T18:20:10.145159-07:00.jpg",
+      "mtime": "1663464135",
+      "size": "8320",
+      "md5": "2904f5c96ccbb221d40f4df29288ac0f",
+      "crc32": "047f82ac",
+      "sha1": "48a1c2b29633ce03914cdf70a69bef35f24b4303"
+    },
+    {
+      "name": "oregonian-2022-09-18T05:59:49.122368-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663505998",
+      "size": "45686",
+      "md5": "c6ca701705750fc7652cbc60ea94ec1c",
+      "crc32": "2581105f",
+      "sha1": "b3a4625609ec7bea80d7ca6e7007f9b02d36197b",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-18T05:59:49.122368-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663506000",
+      "size": "54945",
+      "md5": "b825df51f5c58991d731ef2f933381f2",
+      "crc32": "55a5d6e8",
+      "sha1": "8b3c737ecc668e67e69be16b0d61ed1636036155",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-18T05:59:49.122368-07:00.jpg",
+      "source": "original",
+      "mtime": "1663505997",
+      "size": "246763",
+      "md5": "28d7993cddc2f49fa2984b21f873225e",
+      "crc32": "fa3d33b9",
+      "sha1": "1da84658834d8cb878daa79d0ce569fe7d7dc489",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oregonian-2022-09-18T05:59:49.122368-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663506003",
+      "size": "1495",
+      "md5": "f12976385bc96a2274c69f6c04fc5c3e",
+      "crc32": "13dd3fb5",
+      "sha1": "8a546a868427808cd6c21d3af22252bc15343f7a",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-18T05:59:49.122368-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1663506005",
+      "size": "264029",
+      "md5": "4200cc643b00e8c6f37f87010e35233c",
+      "crc32": "c1e4ee05",
+      "sha1": "8529cf6615aaf9fb4c011c42e0f0c55bcc2eaecb",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-18T05:59:49.122368-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oregonian-2022-09-18T05:59:49.122368-07:00.jpg",
+      "mtime": "1663506077",
+      "size": "8503",
+      "md5": "7f1e406b0456a8c6589ab40633bdee98",
+      "crc32": "b76b423d",
+      "sha1": "52f2cedd267e5213359339c8bf145e481225b207"
+    },
+    {
+      "name": "oregonian-2022-09-18T18:14:25.432392-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663550071",
+      "size": "44545",
+      "md5": "fd953c2d093e7e95cfd623ed035f3746",
+      "crc32": "ff5e83ad",
+      "sha1": "eaf7b5c97e1a8a4199d3e77f1bc60dd464bdc01d",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-18T18:14:25.432392-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663550073",
+      "size": "45268",
+      "md5": "bf717264c9e4eff7e4d4b5cfb2971112",
+      "crc32": "54c47808",
+      "sha1": "7c99da3bb11ef1e801a93609be9fdad31af660bf",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-18T18:14:25.432392-07:00.jpg",
+      "source": "original",
+      "mtime": "1663550069",
+      "size": "230013",
+      "md5": "019b8ddcce76b94f09d2b25b8fc76425",
+      "crc32": "d3618895",
+      "sha1": "1ea31bb8623df0a71a85044605830a4521acd1a8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oregonian-2022-09-18T18:14:25.432392-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663550075",
+      "size": "1495",
+      "md5": "a4a5c7123f210fedd27698f3e5cf3e29",
+      "crc32": "869a1110",
+      "sha1": "23684ac91e7898429ee6c2d7235d3a2515ab58e8",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-18T18:14:25.432392-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1663550076",
+      "size": "194444",
+      "md5": "4587efd26584a8f24ce95bd39d5579e1",
+      "crc32": "c58e428a",
+      "sha1": "ce860869f575396c73d7e8f461e2e1044cac7f35",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-18T18:14:25.432392-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oregonian-2022-09-18T18:14:25.432392-07:00.jpg",
+      "mtime": "1663550143",
+      "size": "8280",
+      "md5": "2cfed4adbca499749a66b88c7b938a14",
+      "crc32": "6936de72",
+      "sha1": "44b3d985be9fafb542f772619e3622d2927397c4"
+    },
+    {
+      "name": "oregonian-2022-09-19T05:58:03.547964-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1663592290",
+      "size": "43197",
+      "md5": "55557c71cf1cd7db27b8d67cb0d24910",
+      "crc32": "766e7bff",
+      "sha1": "62cb0eb26b9563ba8c30406ddd19f97468fa9920",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-19T05:58:03.547964-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1663592292",
+      "size": "44740",
+      "md5": "277176c6ffb8f6768ad52c16bb1bcf03",
+      "crc32": "9203878b",
+      "sha1": "5ee25a4395574d1a802554b3a7804080895b46ee",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-19T05:58:03.547964-07:00.jpg",
+      "source": "original",
+      "mtime": "1663592289",
+      "size": "231522",
+      "md5": "86f38938eb6a6932b59f7b7cc87a88db",
+      "crc32": "4c5c6d85",
+      "sha1": "2469096b9a93c6385805a5e19f1354b41805f3fc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oregonian-2022-09-19T05:58:03.547964-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1663592294",
+      "size": "1495",
+      "md5": "b54d9ba417090d4b8271faa7493f1f5c",
+      "crc32": "db5d5a76",
+      "sha1": "a638a238a9aacdcd37b9d812c0118743e085b327",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-19T05:58:03.547964-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1663592296",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-09-19T05:58:03.547964-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oregonian-2022-09-19T05:58:03.547964-07:00.jpg",
+      "mtime": "1663592371",
+      "size": "8270",
+      "md5": "9e2e833e4f3a0cd06029cd0bbf6e1934",
+      "crc32": "19ef41aa",
+      "sha1": "5e6a136cc3bf768bceb7ca8f4d386c6d2361e2a1"
+    },
+    {
       "name": "oregonian-2022_archive.torrent",
       "source": "metadata",
-      "btih": "20a50a97f7c643d3f2580afc8f313e31229ef540",
-      "mtime": "1662901478",
-      "size": "155939",
-      "md5": "fcbf997354189a1d84b3b78aefa6fd69",
-      "crc32": "17429ba5",
-      "sha1": "8f8c2525c34a378fa5011f80cca46e85d76e5ed7",
+      "btih": "995792e2727b62ecf5850da4bd4799833fd414a7",
+      "mtime": "1663592389",
+      "size": "176291",
+      "md5": "0a4210b3d1add0b2255f5e9f853342b1",
+      "crc32": "d9a0980e",
+      "sha1": "0fe76c677938acd7dc52ef0e33bfdf4739b63725",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oregonian-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "38d559b8462dbfd0869b2dfa50dafd57",
+      "md5": "1cd539115d21776149f664fe3a67d028",
       "summation": "md5"
     },
     {
       "name": "oregonian-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1662901413",
-      "size": "917504",
-      "md5": "38fd0970e6d551a7c3c8e7fcac0d17bf",
-      "crc32": "a03ece08",
-      "sha1": "188f406b17349bccb85b4b9d0ae1d6618117d1d3",
+      "mtime": "1663592302",
+      "size": "1040384",
+      "md5": "b4e84b8affa7e6638d610d38cefa3b7a",
+      "crc32": "18606b16",
+      "sha1": "fc1e11403805e88c09652dddc8ffe1a96033219f",
       "format": "Metadata"
     },
     {
@@ -7622,9 +8614,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 734,
-  "item_last_updated": 1662901478,
-  "item_size": 56845484,
+  "files_count": 830,
+  "item_last_updated": 1663592389,
+  "item_size": 64740486,
   "metadata": {
     "identifier": "oregonian-2022",
     "collection": [
@@ -7641,8 +8633,13 @@
     "publicdate": "2022-07-04 21:50:57",
     "addeddate": "2022-07-04 21:50:57"
   },
+  "oregonian-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia801406.us.archive.org",
-  "uniq": 704073310,
+  "uniq": 1834196576,
   "workable_servers": [
     "ia801406.us.archive.org",
     "ia601406.us.archive.org"
