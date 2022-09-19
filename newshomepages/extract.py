@@ -1,17 +1,17 @@
 import csv
 import json
 import os
-import re
 import pathlib
-import pytz
+import re
 import time
-from json.decoder import JSONDecodeError
 from datetime import datetime
+from json.decoder import JSONDecodeError
 from urllib.parse import urlparse
 
 import click
 import internetarchive
 import pandas as pd
+import pytz
 import requests
 from requests.adapters import HTTPAdapter, Retry
 from rich import print
@@ -73,7 +73,6 @@ def latest_files(init: bool = False):
     out_df.sort_values("handle").to_csv(csv_path)
 
 
-
 @cli.command()
 @click.option("-y", "--year", "year", default=CURRENT_YEAR)
 @click.option("--site", "site", default=None)
@@ -87,7 +86,7 @@ def download_items(
     country: str = None,
     language: str = None,
     bundle: str = None,
-    batch: str = None
+    batch: str = None,
 ):
     """Download the full list of Internet Archive items as JSON."""
     print(
@@ -104,7 +103,7 @@ def download_items(
             time.sleep(0.2)
 
     def _site_search(s):
-        s = s['handle'].lower()
+        s = s["handle"].lower()
         # Replace any leading underscores, which don't work on archive.org
         s = re.sub("^(_+)", "", s)
         search = f"collection:{IA_COLLECTION} AND identifier:({s}-{year})"
@@ -567,7 +566,7 @@ def _get_json_url(url):
         # Write to cache
         df.to_json(output_path, orient="records", indent=2)
         print(f":pencil: Writing to cached file {output_path}")
-        time.sleep(0.5)
+        time.sleep(0.25)
 
     # Add columns
     metadata = utils.parse_archive_url(url)
