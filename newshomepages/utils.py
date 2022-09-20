@@ -201,7 +201,9 @@ def batch(li: typing.List, n: int):
         yield li[si : si + (d + 1 if i < r else d)]
 
 
-def get_sites_in_batch(batch_number: int, batches: int = 8) -> typing.List[typing.Dict]:
+def get_sites_in_batch(
+    batch_number: int, batches: int = 10
+) -> typing.List[typing.Dict]:
     """Get all the sites in the provided batch.
 
     Args:
