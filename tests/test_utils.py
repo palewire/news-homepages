@@ -1,3 +1,5 @@
+import pytz
+
 from newshomepages import utils
 
 
@@ -19,10 +21,22 @@ def test_sites():
     assert not site_df.timezone.isnull().any()
     assert not site_df.country.isnull().any()
 
+    # Test timezones
+    for s in site_list:
+        pytz.timezone(s["timezone"])
+
 
 def test_bundles():
     """Test bundles utils."""
-    assert len(utils.get_bundle_list()) > 0
+    # Get bundles
+    bundle_list = utils.get_bundle_list()
+    assert len(bundle_list) > 0
+
+    # Test timezones
+    for b in bundle_list:
+        pytz.timezone(b["timezone"])
+
+    # Pull on by name
     assert utils.get_bundle("socal")["name"] == "Southern California"
 
 
