@@ -344,7 +344,7 @@ def site_detail():
         ).head(12)
         most_recent_screenshots[
             "local_time"
-        ] = most_recent_screenshots.mtime.astimezone(site["timezone"])
+        ] = most_recent_screenshots.mtime.dt.tz_convert(site["timezone"])
 
         # Get the hyperlinks for this site
         hyperlinks = hyperlink_df[
@@ -353,9 +353,9 @@ def site_detail():
         most_recent_hyperlinks = hyperlinks.sort_values("mtime", ascending=False).head(
             10
         )
-        most_recent_hyperlinks["local_time"] = most_recent_hyperlinks.mtime.astimezone(
-            site["timezone"]
-        )
+        most_recent_hyperlinks[
+            "local_time"
+        ] = most_recent_hyperlinks.mtime.dt.tz_convert(site["timezone"])
 
         # Get the accessibility for this site
         accessibility = accessibility_df[
@@ -366,7 +366,7 @@ def site_detail():
         ).head(10)
         most_recent_accessibility[
             "local_time"
-        ] = most_recent_accessibility.mtime.astimezone(site["timezone"])
+        ] = most_recent_accessibility.mtime.dt.tz_convert(site["timezone"])
 
         # Get the lighthouse for this site
         lighthouse = lighthouse_df[
@@ -375,9 +375,9 @@ def site_detail():
         most_recent_lighthouse = lighthouse.sort_values("mtime", ascending=False).head(
             10
         )
-        most_recent_lighthouse["local_time"] = most_recent_lighthouse.mtime.astimezone(
-            site["timezone"]
-        )
+        most_recent_lighthouse[
+            "local_time"
+        ] = most_recent_lighthouse.mtime.dt.tz_convert(site["timezone"])
 
         # Render the template
         context = {
