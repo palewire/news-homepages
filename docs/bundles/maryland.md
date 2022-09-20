@@ -7,7 +7,7 @@ orphan: true
 
 # Maryland
 
-The most recent homepages from 17 news sites in this bundle.
+The most recent homepages from 19 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -93,6 +93,15 @@ The most recent homepages from 17 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/heraldmailnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/heraldmailnews.jpg"
+     alt="Herald-Mail Media"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/heraldmailnews.html">Herald-Mail Media</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/theleftbench.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theleftbench.jpg"
      alt="Left Bench"
@@ -126,6 +135,15 @@ The most recent homepages from 17 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/therealnews.html">Real News</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/mydelmarvanow.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mydelmarvanow.jpg"
+     alt="Salisbury Daily Times"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/mydelmarvanow.html">Salisbury Daily Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -188,10 +206,12 @@ The most recent homepages from 17 news sites in this bundle.
 |[Capital Gazette](https://palewi.re/docs/news-homepages/sites/capgaznews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/capgaznews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/capgaznews.xml)|
 |[Capital News Service](https://palewi.re/docs/news-homepages/sites/cnsmd.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cnsmd.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cnsmd.xml)|
 |[Frederick News-Post](https://palewi.re/docs/news-homepages/sites/frednewspost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/frednewspost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/frednewspost.xml)|
+|[Herald-Mail Media](https://palewi.re/docs/news-homepages/sites/heraldmailnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/heraldmailnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/heraldmailnews.xml)|
 |[Left Bench](https://palewi.re/docs/news-homepages/sites/theleftbench.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theleftbench.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theleftbench.xml)|
 |[Maryland Daily Record](https://palewi.re/docs/news-homepages/sites/mddailyrecord.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mddailyrecord.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mddailyrecord.xml)|
 |[Maryland Matters](https://palewi.re/docs/news-homepages/sites/marylandmatters.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/marylandmatters.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/marylandmatters.xml)|
 |[Real News](https://palewi.re/docs/news-homepages/sites/therealnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/therealnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/therealnews.xml)|
+|[Salisbury Daily Times](https://palewi.re/docs/news-homepages/sites/mydelmarvanow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mydelmarvanow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mydelmarvanow.xml)|
 |[Stories Beneath the Shell](https://palewi.re/docs/news-homepages/sites/umd_sbs.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/umd_sbs.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/umd_sbs.xml)|
 |[The Baltimore Sun](https://palewi.re/docs/news-homepages/sites/baltimoresun.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltimoresun.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/baltimoresun.xml)|
 |[The Diamondback](https://palewi.re/docs/news-homepages/sites/thedbk.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedbk.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thedbk.xml)|

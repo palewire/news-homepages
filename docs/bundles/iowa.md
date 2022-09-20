@@ -7,7 +7,7 @@ orphan: true
 
 # Iowa
 
-The most recent homepages from 14 news sites in this bundle.
+The most recent homepages from 19 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -21,12 +21,30 @@ The most recent homepages from 14 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/newsrepublican.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newsrepublican.jpg"
+     alt="Boone News Republican"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/newsrepublican.html">Boone News Republican</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/gazettedotcom.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gazettedotcom.jpg"
      alt="Cedar Rapids Gazette"
      loading="lazy">
  </a>
  <p><a href="../sites/gazettedotcom.html">Cedar Rapids Gazette</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/dallasconews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dallasconews.jpg"
+     alt="Dallas County News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/dallasconews.html">Dallas County News</a></p>
 </div>
 
 <div class="latest-child">
@@ -111,6 +129,15 @@ The most recent homepages from 14 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/theperrychief.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theperrychief.jpg"
+     alt="Perry Chief"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/theperrychief.html">Perry Chief</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/qctimes.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/qctimes.jpg"
      alt="Quad City Times"
@@ -120,12 +147,30 @@ The most recent homepages from 14 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/argusleader.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/argusleader.jpg"
+     alt="Sioux Falls Argus Leader"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/argusleader.html">Sioux Falls Argus Leader</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/sltimes.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sltimes.jpg"
      alt="Storm Lake Times"
      loading="lazy">
  </a>
  <p><a href="../sites/sltimes.html">Storm Lake Times</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/thehawkeye.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thehawkeye.jpg"
+     alt="The Hawk Eye"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/thehawkeye.html">The Hawk Eye</a></p>
 </div>
 
 <div class="latest-child">
@@ -153,7 +198,9 @@ The most recent homepages from 14 news sites in this bundle.
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
 |[Ames Tribune](https://palewi.re/docs/news-homepages/sites/amestribnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/amestribnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/amestribnews.xml)|
+|[Boone News Republican](https://palewi.re/docs/news-homepages/sites/newsrepublican.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newsrepublican.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newsrepublican.xml)|
 |[Cedar Rapids Gazette](https://palewi.re/docs/news-homepages/sites/gazettedotcom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gazettedotcom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gazettedotcom.xml)|
+|[Dallas County News](https://palewi.re/docs/news-homepages/sites/dallasconews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dallasconews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dallasconews.xml)|
 |[Des Moines Register](https://palewi.re/docs/news-homepages/sites/dmregister.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dmregister.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dmregister.xml)|
 |[Dubuque Telegraph Herald](https://palewi.re/docs/news-homepages/sites/telegraphherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/telegraphherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/telegraphherald.xml)|
 |[Iowa City Press-Citizen](https://palewi.re/docs/news-homepages/sites/presscitizen.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/presscitizen.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/presscitizen.xml)|
@@ -163,6 +210,9 @@ The most recent homepages from 14 news sites in this bundle.
 |[KCRG](https://palewi.re/docs/news-homepages/sites/kcrg.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kcrg.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kcrg.xml)|
 |[Little Village](https://palewi.re/docs/news-homepages/sites/littlevillage.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/littlevillage.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/littlevillage.xml)|
 |[Ottumwa Courier](https://palewi.re/docs/news-homepages/sites/ottumwacourier.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ottumwacourier.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ottumwacourier.xml)|
+|[Perry Chief](https://palewi.re/docs/news-homepages/sites/theperrychief.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theperrychief.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theperrychief.xml)|
 |[Quad City Times](https://palewi.re/docs/news-homepages/sites/qctimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/qctimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/qctimes.xml)|
+|[Sioux Falls Argus Leader](https://palewi.re/docs/news-homepages/sites/argusleader.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/argusleader.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/argusleader.xml)|
 |[Storm Lake Times](https://palewi.re/docs/news-homepages/sites/sltimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sltimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sltimes.xml)|
+|[The Hawk Eye](https://palewi.re/docs/news-homepages/sites/thehawkeye.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thehawkeye.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thehawkeye.xml)|
 |[Waterloo-Cedar Falls Courier](https://palewi.re/docs/news-homepages/sites/wcfcourier.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wcfcourier.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wcfcourier.xml)|

@@ -7,7 +7,7 @@ orphan: true
 
 # Wisconsin
 
-The most recent homepages from 12 news sites in this bundle.
+The most recent homepages from 17 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -48,6 +48,15 @@ The most recent homepages from 12 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/fdlreporter.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fdlreporter.jpg"
+     alt="Fond du Lac Reporter"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/fdlreporter.html">Fond du Lac Reporter</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/gbpressgazette.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gbpressgazette.jpg"
      alt="Green Bay Press-Gazette"
@@ -75,6 +84,15 @@ The most recent homepages from 12 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/mnherald.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mnherald.jpg"
+     alt="Marshfield News-Herald"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/mnherald.html">Marshfield News-Herald</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/miwisconsin.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/miwisconsin.jpg"
      alt="mi wisconsin"
@@ -93,6 +111,24 @@ The most recent homepages from 12 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/onwnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/onwnews.jpg"
+     alt="Oshkosh Northwestern"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/onwnews.html">Oshkosh Northwestern</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/sheboyganpress.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sheboyganpress.jpg"
+     alt="Sheboygan Press"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/sheboyganpress.html">Sheboygan Press</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/stevenspointjrl.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/stevenspointjrl.jpg"
      alt="Stevens Point Journal"
@@ -108,6 +144,15 @@ The most recent homepages from 12 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/wausauherald.html">Wausau Daily Herald</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/wrtribune.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wrtribune.jpg"
+     alt="Wisconsin Rapids Daily Tribune"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/wrtribune.html">Wisconsin Rapids Daily Tribune</a></p>
 </div>
 
 <div class="latest-child">
@@ -138,11 +183,16 @@ The most recent homepages from 12 news sites in this bundle.
 |[Badger Project](https://palewi.re/docs/news-homepages/sites/badger_project_.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/badger_project_.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/badger_project_.xml)|
 |[Door County Knock](https://palewi.re/docs/news-homepages/sites/doorcountyknock.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/doorcountyknock.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/doorcountyknock.xml)|
 |[Eau Claire Leader-Telegram](https://palewi.re/docs/news-homepages/sites/leadertelegram.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/leadertelegram.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/leadertelegram.xml)|
+|[Fond du Lac Reporter](https://palewi.re/docs/news-homepages/sites/fdlreporter.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fdlreporter.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/fdlreporter.xml)|
 |[Green Bay Press-Gazette](https://palewi.re/docs/news-homepages/sites/gbpressgazette.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gbpressgazette.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gbpressgazette.xml)|
 |[Herald Times Reporter](https://palewi.re/docs/news-homepages/sites/htrnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/htrnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/htrnews.xml)|
 |[LaCrosse Tribune](https://palewi.re/docs/news-homepages/sites/lacrossetribune.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lacrossetribune.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lacrossetribune.xml)|
+|[Marshfield News-Herald](https://palewi.re/docs/news-homepages/sites/mnherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mnherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mnherald.xml)|
 |[mi wisconsin](https://palewi.re/docs/news-homepages/sites/miwisconsin.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/miwisconsin.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/miwisconsin.xml)|
 |[Milwaukee Journal Sentinel](https://palewi.re/docs/news-homepages/sites/journalsentinel.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/journalsentinel.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/journalsentinel.xml)|
+|[Oshkosh Northwestern](https://palewi.re/docs/news-homepages/sites/onwnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/onwnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/onwnews.xml)|
+|[Sheboygan Press](https://palewi.re/docs/news-homepages/sites/sheboyganpress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sheboyganpress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sheboyganpress.xml)|
 |[Stevens Point Journal](https://palewi.re/docs/news-homepages/sites/stevenspointjrl.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/stevenspointjrl.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/stevenspointjrl.xml)|
 |[Wausau Daily Herald](https://palewi.re/docs/news-homepages/sites/wausauherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wausauherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wausauherald.xml)|
+|[Wisconsin Rapids Daily Tribune](https://palewi.re/docs/news-homepages/sites/wrtribune.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wrtribune.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wrtribune.xml)|
 |[Wisconsin State Journal](https://palewi.re/docs/news-homepages/sites/wistatejournal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wistatejournal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wistatejournal.xml)|

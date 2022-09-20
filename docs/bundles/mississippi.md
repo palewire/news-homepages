@@ -7,9 +7,27 @@ orphan: true
 
 # Mississippi
 
-The most recent homepages from 2 news sites in this bundle.
+The most recent homepages from 4 news sites in this bundle.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/memphisnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/memphisnews.jpg"
+     alt="Commercial Appeal"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/memphisnews.html">Commercial Appeal</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/hburgamerican.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hburgamerican.jpg"
+     alt="Hattiesburg American"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/hburgamerican.html">Hattiesburg American</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/msfreepress.html">
@@ -44,5 +62,7 @@ The most recent homepages from 2 news sites in this bundle.
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
+|[Commercial Appeal](https://palewi.re/docs/news-homepages/sites/memphisnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/memphisnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/memphisnews.xml)|
+|[Hattiesburg American](https://palewi.re/docs/news-homepages/sites/hburgamerican.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hburgamerican.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hburgamerican.xml)|
 |[Mississippi Free Press](https://palewi.re/docs/news-homepages/sites/msfreepress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/msfreepress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/msfreepress.xml)|
 |[Mississippi Today](https://palewi.re/docs/news-homepages/sites/mstodaynews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mstodaynews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mstodaynews.xml)|

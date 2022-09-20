@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | America/Los_Angeles                                                                                                                              |
 | Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
 | Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
-| Bundles        | <a href="../bundles/socal.html">Southern California</a>  |
+| Bundles        | <a href="../bundles/socal.html">Southern California</a>,  <a href="../bundles/california.html">California</a>  |
 
 
 ## Analysis

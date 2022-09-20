@@ -7,7 +7,7 @@ orphan: true
 
 # Connecticut
 
-The most recent homepages from 8 news sites in this bundle.
+The most recent homepages from 9 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -75,6 +75,15 @@ The most recent homepages from 8 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/norwichbulletin.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/norwichbulletin.jpg"
+     alt="The Norwich Bulletin"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/norwichbulletin.html">The Norwich Bulletin</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/yaledailynews.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/yaledailynews.jpg"
      alt="Yale Daily News"
@@ -105,4 +114,5 @@ The most recent homepages from 8 news sites in this bundle.
 |[NBC Connecticut](https://palewi.re/docs/news-homepages/sites/nbcconnecticut.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcconnecticut.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcconnecticut.xml)|
 |[New Haven Register](https://palewi.re/docs/news-homepages/sites/nhregister.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nhregister.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nhregister.xml)|
 |[Stamford Advocate](https://palewi.re/docs/news-homepages/sites/stamadvocate.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/stamadvocate.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/stamadvocate.xml)|
+|[The Norwich Bulletin](https://palewi.re/docs/news-homepages/sites/norwichbulletin.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/norwichbulletin.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/norwichbulletin.xml)|
 |[Yale Daily News](https://palewi.re/docs/news-homepages/sites/yaledailynews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/yaledailynews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/yaledailynews.xml)|

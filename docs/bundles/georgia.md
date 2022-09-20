@@ -7,7 +7,7 @@ orphan: true
 
 # Georgia
 
-The most recent homepages from 37 news sites in this bundle.
+The most recent homepages from 38 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -45,6 +45,15 @@ The most recent homepages from 37 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/albany_herald.html">Albany Herald</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/independentmail.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/independentmail.jpg"
+     alt="Anderson Independent-Mail"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/independentmail.html">Anderson Independent-Mail</a></p>
 </div>
 
 <div class="latest-child">
@@ -363,6 +372,7 @@ The most recent homepages from 37 news sites in this bundle.
 |[13WMAZ News](https://palewi.re/docs/news-homepages/sites/13wmaznews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/13wmaznews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/13wmaznews.xml)|
 |[41NBC / WMGT](https://palewi.re/docs/news-homepages/sites/41nbc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/41nbc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/41nbc.xml)|
 |[Albany Herald](https://palewi.re/docs/news-homepages/sites/albany_herald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/albany_herald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/albany_herald.xml)|
+|[Anderson Independent-Mail](https://palewi.re/docs/news-homepages/sites/independentmail.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/independentmail.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/independentmail.xml)|
 |[Athens Banner-Herald](https://palewi.re/docs/news-homepages/sites/onlineathens.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/onlineathens.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/onlineathens.xml)|
 |[Atlanta Civic Circle](https://palewi.re/docs/news-homepages/sites/atlciviccircle.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/atlciviccircle.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/atlciviccircle.xml)|
 |[Atlanta Journal-Constitution](https://palewi.re/docs/news-homepages/sites/ajc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ajc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ajc.xml)|

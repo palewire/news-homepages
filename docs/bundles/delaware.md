@@ -7,7 +7,7 @@ orphan: true
 
 # Delaware
 
-The most recent homepages from 3 news sites in this bundle.
+The most recent homepages from 4 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -38,6 +38,15 @@ The most recent homepages from 3 news sites in this bundle.
  <p><a href="../sites/delawaretoday.html">Delaware Today</a></p>
 </div>
 
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/mydelmarvanow.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mydelmarvanow.jpg"
+     alt="Salisbury Daily Times"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/mydelmarvanow.html">Salisbury Daily Times</a></p>
+</div>
+
 </div>
 
 ## About this bundle
@@ -56,3 +65,4 @@ The most recent homepages from 3 news sites in this bundle.
 |[Delaware Online](https://palewi.re/docs/news-homepages/sites/delawareonline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/delawareonline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/delawareonline.xml)|
 |[Delaware Public Media](https://palewi.re/docs/news-homepages/sites/delawarepublic.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/delawarepublic.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/delawarepublic.xml)|
 |[Delaware Today](https://palewi.re/docs/news-homepages/sites/delawaretoday.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/delawaretoday.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/delawaretoday.xml)|
+|[Salisbury Daily Times](https://palewi.re/docs/news-homepages/sites/mydelmarvanow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mydelmarvanow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mydelmarvanow.xml)|

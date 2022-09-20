@@ -7,7 +7,7 @@ orphan: true
 
 # United States of America
 
-The most recent homepages from 650 news sites in this country.
+The most recent homepages from 843 news sites in this country.
 
 <div class="latest-parent">
 
@@ -174,6 +174,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/aberdeennews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/aberdeennews.jpg"
+     alt="Aberdeen News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/aberdeennews.html">Aberdeen News</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/reporternews.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reporternews.jpg"
      alt="Abilene Reporter News"
@@ -264,6 +273,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/alamogordonews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/alamogordonews.jpg"
+     alt="Alamogordo Daily News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/alamogordonews.html">Alamogordo Daily News</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/akpublicnews.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/akpublicnews.jpg"
      alt="Alaska Public Media"
@@ -309,6 +327,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/towntalkdotcom.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/towntalkdotcom.jpg"
+     alt="Alexandria Town Talk"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/towntalkdotcom.html">Alexandria Town Talk</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/jessicavalenti.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jessicavalenti.jpg"
      alt="All in Her Head"
@@ -333,6 +360,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/alternet.html">AlterNet</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/amarilloglobe.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/amarilloglobe.jpg"
+     alt="Amarillo Globe-News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/amarilloglobe.html">Amarillo Globe-News</a></p>
 </div>
 
 <div class="latest-child">
@@ -378,6 +414,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/anchoragepress.html">Anchorage Press</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/independentmail.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/independentmail.jpg"
+     alt="Anderson Independent-Mail"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/independentmail.html">Anderson Independent-Mail</a></p>
 </div>
 
 <div class="latest-child">
@@ -498,12 +543,39 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/asburyparkpress.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/asburyparkpress.jpg"
+     alt="Asbury Park Press"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/asburyparkpress.html">Asbury Park Press</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/asheville.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/asheville.jpg"
+     alt="Asheville Citizen-Times"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/asheville.html">Asheville Citizen-Times</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/avlwatchdog.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/avlwatchdog.jpg"
      alt="Asheville Watchdog"
      loading="lazy">
  </a>
  <p><a href="../sites/avlwatchdog.html">Asheville Watchdog</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/timesgazette.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/timesgazette.jpg"
+     alt="Ashland Times Gazette"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/timesgazette.html">Ashland Times Gazette</a></p>
 </div>
 
 <div class="latest-child">
@@ -768,6 +840,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/bcenquirer.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bcenquirer.jpg"
+     alt="Battle Creek Enquirer"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/bcenquirer.html">Battle Creek Enquirer</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/baynature.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baynature.jpg"
      alt="Bay Nature"
@@ -819,6 +900,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/billy_penn.html">Billy Penn</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/pressconnects.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pressconnects.jpg"
+     alt="Binghamton Press & Sun-Bulletin"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/pressconnects.html">Binghamton Press & Sun-Bulletin</a></p>
 </div>
 
 <div class="latest-child">
@@ -912,6 +1002,24 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/blueridgenow.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/blueridgenow.jpg"
+     alt="blueridgenow.com"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/blueridgenow.html">blueridgenow.com</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/blufftontoday.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/blufftontoday.jpg"
+     alt="Bluffton Today"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/blufftontoday.html">Bluffton Today</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/boingboing.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/boingboing.jpg"
      alt="Boing Boing"
@@ -936,6 +1044,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/bonginoreport.html">Bongino Report</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/newsrepublican.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newsrepublican.jpg"
+     alt="Boone News Republican"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/newsrepublican.html">Boone News Republican</a></p>
 </div>
 
 <div class="latest-child">
@@ -1011,6 +1128,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/florida_today.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/florida_today.jpg"
+     alt="Brevard Florida Today"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/florida_today.html">Brevard Florida Today</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/brooklynpaper.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/brooklynpaper.jpg"
      alt="Brooklyn Paper"
@@ -1020,12 +1146,30 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/couriertimes.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/couriertimes.jpg"
+     alt="Bucks County Courier Times"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/couriertimes.html">Bucks County Courier Times</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/buckscoherald.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/buckscoherald.jpg"
      alt="Bucks County Herald"
      loading="lazy">
  </a>
  <p><a href="../sites/buckscoherald.html">Bucks County Herald</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/bucyrustf.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bucyrustf.jpg"
+     alt="Bucyrus Telegraph Forum"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/bucyrustf.html">Bucyrus Telegraph Forum</a></p>
 </div>
 
 <div class="latest-child">
@@ -1044,6 +1188,33 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/bulwarkonline.html">Bulwark</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/burlcotimes.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/burlcotimes.jpg"
+     alt="Burlington County Times"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/burlcotimes.html">Burlington County Times</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/bfp_news.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bfp_news.jpg"
+     alt="Burlington Free Press"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/bfp_news.html">Burlington Free Press</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/thetimesnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thetimesnews.jpg"
+     alt="Burlington Times-News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/thetimesnews.html">Burlington Times-News</a></p>
 </div>
 
 <div class="latest-child">
@@ -1071,6 +1242,24 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/canopyatl.html">Canopy Atlanta</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/cantonledger.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cantonledger.jpg"
+     alt="Canton Daily Ledger"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/cantonledger.html">Canton Daily Ledger</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/capecodtimes.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/capecodtimes.jpg"
+     alt="Cape Cod Times"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/capecodtimes.html">Cape Cod Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -1116,6 +1305,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/capitolnewsil.html">Capitol News Illinois</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/ccurrentargus.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ccurrentargus.jpg"
+     alt="Carlsbad Current-Argus"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/ccurrentargus.html">Carlsbad Current-Argus</a></p>
 </div>
 
 <div class="latest-child">
@@ -1218,12 +1416,30 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/ponews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ponews.jpg"
+     alt="Chambersburg Public Opinion"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/ponews.html">Chambersburg Public Opinion</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/theobserver.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theobserver.jpg"
      alt="Charlotte Observer"
      loading="lazy">
  </a>
  <p><a href="../sites/theobserver.html">Charlotte Observer</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/cpsj.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cpsj.jpg"
+     alt="Cherry Hill Courier Post"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/cpsj.html">Cherry Hill Courier Post</a></p>
 </div>
 
 <div class="latest-child">
@@ -1278,6 +1494,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/chicagotribune.html">Chicago Tribune</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/chilligaz.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/chilligaz.jpg"
+     alt="Chillicothe Gazette"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/chilligaz.html">Chillicothe Gazette</a></p>
 </div>
 
 <div class="latest-child">
@@ -1350,6 +1575,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/clarionledger.html">Clarion Ledger</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/leafchronicle.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/leafchronicle.jpg"
+     alt="Clarksville Leaf Chronicle"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/leafchronicle.html">Clarksville Leaf Chronicle</a></p>
 </div>
 
 <div class="latest-child">
@@ -1434,6 +1668,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/columbiatribune.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/columbiatribune.jpg"
+     alt="Columbia Daily Tribune"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/columbiatribune.html">Columbia Daily Tribune</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/cjr.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cjr.jpg"
      alt="Columbia Journalism Review"
@@ -1449,6 +1692,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/comissourian.html">Columbia Missourian</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/memphisnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/memphisnews.jpg"
+     alt="Commercial Appeal"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/memphisnews.html">Commercial Appeal</a></p>
 </div>
 
 <div class="latest-child">
@@ -1515,6 +1767,24 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/callerdotcom.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/callerdotcom.jpg"
+     alt="Corpus Christi Caller Times"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/callerdotcom.html">Corpus Christi Caller Times</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/coshtribune.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/coshtribune.jpg"
+     alt="Coshocton Tribune"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/coshtribune.html">Coshocton Tribune</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/cqnow.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cqnow.jpg"
      alt="CQ"
@@ -1530,6 +1800,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/curbed.html">Curbed</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/dailyamerican.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailyamerican.jpg"
+     alt="Daily American"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/dailyamerican.html">Daily American</a></p>
 </div>
 
 <div class="latest-child">
@@ -1566,6 +1845,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/thedailyclimate.html">Daily Climate</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/dailycomet.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailycomet.jpg"
+     alt="Daily Comet"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/dailycomet.html">Daily Comet</a></p>
 </div>
 
 <div class="latest-child">
@@ -1650,6 +1938,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/dallasconews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dallasconews.jpg"
+     alt="Dallas County News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/dallasconews.html">Dallas County News</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/dallasfreepress.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dallasfreepress.jpg"
      alt="Dallas Free Press"
@@ -1731,6 +2028,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/demingheadlight.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/demingheadlight.jpg"
+     alt="Deming Headlight"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/demingheadlight.html">Deming Headlight</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/democracynow.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/democracynow.jpg"
      alt="Democracy Now!"
@@ -1803,12 +2109,30 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/freep.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/freep.jpg"
+     alt="Detroit Free Press"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/freep.html">Detroit Free Press</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/detroitnews.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/detroitnews.jpg"
      alt="Detroit News"
      loading="lazy">
  </a>
  <p><a href="../sites/detroitnews.html">Detroit News</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/devilslakenews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/devilslakenews.jpg"
+     alt="Devils Lake Journal"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/devilslakenews.html">Devils Lake Journal</a></p>
 </div>
 
 <div class="latest-child">
@@ -1854,6 +2178,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/documentedny.html">Documented</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/dvillechief.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dvillechief.jpg"
+     alt="Donaldsonville Chief"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/dvillechief.html">Donaldsonville Chief</a></p>
 </div>
 
 <div class="latest-child">
@@ -1947,6 +2280,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/echopilot.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/echopilot.jpg"
+     alt="Echo-Pilot"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/echopilot.html">Echo-Pilot</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/edsource.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/edsource.jpg"
      alt="EdSource"
@@ -1980,6 +2322,24 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/el_timpano.html">El Tímpano</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/ecledger.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ecledger.jpg"
+     alt="Ellwood City Ledger"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/ecledger.html">Ellwood City Ledger</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/stargazette.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/stargazette.jpg"
+     alt="Elmira Star Gazette"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/stargazette.html">Elmira Star Gazette</a></p>
 </div>
 
 <div class="latest-child">
@@ -2019,6 +2379,24 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/courierpress.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/courierpress.jpg"
+     alt="Evansville Courier & Press"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/courierpress.html">Evansville Courier & Press</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/bartlesvilleee.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bartlesvilleee.jpg"
+     alt="Examiner-Enterprise"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/bartlesvilleee.html">Examiner-Enterprise</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/newsminer.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newsminer.jpg"
      alt="Fairbanks Daily News-Miner"
@@ -2043,6 +2421,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/getfandom.html">Fandom</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/thedailytimes.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedailytimes.jpg"
+     alt="Farmington Daily Times"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/thedailytimes.html">Farmington Daily Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -2136,6 +2523,24 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/jaxdotcom.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jaxdotcom.jpg"
+     alt="Florida Times-Union"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/jaxdotcom.html">Florida Times-Union</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/fdlreporter.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fdlreporter.jpg"
+     alt="Fond du Lac Reporter"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/fdlreporter.html">Fond du Lac Reporter</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/forbes.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/forbes.jpg"
      alt="Forbes"
@@ -2151,6 +2556,24 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/foreignpolicy.html">Foreign Policy</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/coloradoan.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/coloradoan.jpg"
+     alt="Fort Collins Coloradoan"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/coloradoan.html">Fort Collins Coloradoan</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/thenewspress.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thenewspress.jpg"
+     alt="Fort Myers News-Press"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/thenewspress.html">Fort Myers News-Press</a></p>
 </div>
 
 <div class="latest-child">
@@ -2178,6 +2601,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/fortunemagazine.html">Fortune</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/fostersdailydem.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fostersdailydem.jpg"
+     alt="Foster's Daily Democrat"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/fostersdailydem.html">Foster's Daily Democrat</a></p>
 </div>
 
 <div class="latest-child">
@@ -2280,12 +2712,30 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/journalstandard.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/journalstandard.jpg"
+     alt="Freeport Journal-Standard"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/journalstandard.html">Freeport Journal-Standard</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/freethinkmedia.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/freethinkmedia.jpg"
      alt="Freethink"
      loading="lazy">
  </a>
  <p><a href="../sites/freethinkmedia.html">Freethink</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/fremontnm.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fremontnm.jpg"
+     alt="Fremont News Messenger"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/fremontnm.html">Fremont News Messenger</a></p>
 </div>
 
 <div class="latest-child">
@@ -2307,6 +2757,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/gastongazette.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gastongazette.jpg"
+     alt="Gaston Gazette"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/gastongazette.html">Gaston Gazette</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/gatewaypundit.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gatewaypundit.jpg"
      alt="Gateway Pundit"
@@ -2322,6 +2781,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/gawker.html">Gawker</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/gen_republic.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gen_republic.jpg"
+     alt="Geneseo Republic"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/gen_republic.html">Geneseo Republic</a></p>
 </div>
 
 <div class="latest-child">
@@ -2352,6 +2820,24 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/goerie.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/goerie.jpg"
+     alt="GoErie.com"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/goerie.html">GoErie.com</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/weeklycitizen.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/weeklycitizen.jpg"
+     alt="Gonzales Weekly Citizen"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/weeklycitizen.html">Gonzales Weekly Citizen</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/gothamgazette.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gothamgazette.jpg"
      alt="Gotham Gazettee"
@@ -2379,12 +2865,30 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/gftribune.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gftribune.jpg"
+     alt="Great Falls Tribune"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/gftribune.html">Great Falls Tribune</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/gbpressgazette.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gbpressgazette.jpg"
      alt="Green Bay Press-Gazette"
      loading="lazy">
  </a>
  <p><a href="../sites/gbpressgazette.html">Green Bay Press-Gazette</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/greenvillenews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/greenvillenews.jpg"
+     alt="Greenville News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/greenvillenews.html">Greenville News</a></p>
 </div>
 
 <div class="latest-child">
@@ -2424,6 +2928,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/theeveningsun.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theeveningsun.jpg"
+     alt="Hanover Evening Sun"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/theeveningsun.html">Hanover Evening Sun</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/neheadlines.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/neheadlines.jpg"
      alt="Hardin News-Enterprise"
@@ -2457,6 +2970,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/hwherald.html">Harvey World Herald</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/hburgamerican.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hburgamerican.jpg"
+     alt="Hattiesburg American"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/hburgamerican.html">Hattiesburg American</a></p>
 </div>
 
 <div class="latest-child">
@@ -2496,6 +3018,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/heraldmailnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/heraldmailnews.jpg"
+     alt="Herald-Mail Media"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/heraldmailnews.html">Herald-Mail Media</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/hiddencityphila.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hiddencityphila.jpg"
      alt="Hidden City Daily"
@@ -2511,6 +3042,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/highcountrynews.html">High Country News</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/hollandsentinel.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hollandsentinel.jpg"
+     alt="hollandsentinel.com"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/hollandsentinel.html">hollandsentinel.com</a></p>
 </div>
 
 <div class="latest-child">
@@ -2547,6 +3087,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/hotairblog.html">HotAir</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/houmatoday.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/houmatoday.jpg"
+     alt="Houma Today"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/houmatoday.html">Houma Today</a></p>
 </div>
 
 <div class="latest-child">
@@ -2667,6 +3216,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/ioniassnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ioniassnews.jpg"
+     alt="Ionia Sentinel-Standard"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/ioniassnews.html">Ionia Sentinel-Standard</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/presscitizen.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/presscitizen.jpg"
      alt="Iowa City Press-Citizen"
@@ -2682,6 +3240,24 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/iowapublicradio.html">Iowa Public Radio</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/ithacajournal.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ithacajournal.jpg"
+     alt="Ithaca Journal"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/ithacajournal.html">Ithaca Journal</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/jsunnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jsunnews.jpg"
+     alt="Jackson Sun"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/jsunnews.html">Jackson Sun</a></p>
 </div>
 
 <div class="latest-child">
@@ -2865,6 +3441,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/recordpub.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/recordpub.jpg"
+     alt="Kent Ravenna Record-Courier"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/recordpub.html">Kent Ravenna Record-Courier</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/kystandard.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kystandard.jpg"
      alt="Kentucky Standard"
@@ -2925,6 +3510,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/king5seattle.html">KING5</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/kitsapsun.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kitsapsun.jpg"
+     alt="Kitsap Sun"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/kitsapsun.html">Kitsap Sun</a></p>
 </div>
 
 <div class="latest-child">
@@ -3108,12 +3702,48 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/theadvertiser.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theadvertiser.jpg"
+     alt="Lafayette Daily Advertiser"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/theadvertiser.html">Lafayette Daily Advertiser</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/jconline.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jconline.jpg"
+     alt="Lafayette Journal & Courier"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/jconline.html">Lafayette Journal & Courier</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/laist.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/laist.jpg"
      alt="LAist"
      loading="lazy">
  </a>
  <p><a href="../sites/laist.html">LAist</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/eaglegazette.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/eaglegazette.jpg"
+     alt="Lancaster Eagle-Gazette"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/eaglegazette.html">Lancaster Eagle-Gazette</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/lsjnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lsjnews.jpg"
+     alt="Lansing State Journal"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/lsjnews.html">Lansing State Journal</a></p>
 </div>
 
 <div class="latest-child">
@@ -3150,6 +3780,24 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/ljworld.html">Lawrence Journal-World</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/ldnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ldnews.jpg"
+     alt="Lebanon Daily News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/ldnews.html">Lebanon Daily News</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/dailycommercial.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailycommercial.jpg"
+     alt="Leesburg Daily Commercial"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/dailycommercial.html">Leesburg Daily Commercial</a></p>
 </div>
 
 <div class="latest-child">
@@ -3225,6 +3873,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/livingstondaily.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/livingstondaily.jpg"
+     alt="Livingston County Daily Press & Argus"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/livingstondaily.html">Livingston County Daily Press & Argus</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/bcn_foundation.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bcn_foundation.jpg"
      alt="Local News Matters"
@@ -3297,6 +3954,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/mansfieldnj.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mansfieldnj.jpg"
+     alt="Mansfield News Journal"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/mansfieldnj.html">Mansfield News Journal</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/marfaradio.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/marfaradio.jpg"
      alt="Marfa Public Radio"
@@ -3315,12 +3981,30 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/themarionstar.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/themarionstar.jpg"
+     alt="Marion Star"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/themarionstar.html">Marion Star</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/marshallproj.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/marshallproj.jpg"
      alt="Marshall Project"
      loading="lazy">
  </a>
  <p><a href="../sites/marshallproj.html">Marshall Project</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/mnherald.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mnherald.jpg"
+     alt="Marshfield News-Herald"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/mnherald.html">Marshfield News-Herald</a></p>
 </div>
 
 <div class="latest-child">
@@ -3387,6 +4071,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/metrowestdaily.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/metrowestdaily.jpg"
+     alt="MetroWest Daily News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/metrowestdaily.html">MetroWest Daily News</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/miwisconsin.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/miwisconsin.jpg"
      alt="mi wisconsin"
@@ -3429,6 +4122,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/midnight_sun_ak.html">Midnight Sun</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/milforddaily.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/milforddaily.jpg"
+     alt="Milford Daily News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/milforddaily.html">Milford Daily News</a></p>
 </div>
 
 <div class="latest-child">
@@ -3513,6 +4215,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/thenewsstar.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thenewsstar.jpg"
+     alt="Monroe News-Star"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/thenewsstar.html">Monroe News-Star</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/mtfreepress.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mtfreepress.jpg"
      alt="Montana Free Press"
@@ -3558,6 +4269,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/mtshastanews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mtshastanews.jpg"
+     alt="Mount Shasta Herald"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/mtshastanews.html">Mount Shasta Herald</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/mtnstspotlight.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mtnstspotlight.jpg"
      alt="Mountain State Spotlight"
@@ -3591,6 +4311,42 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/mtvnews.html">MTV News</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/thestarpress.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thestarpress.jpg"
+     alt="Muncie Star Press"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/thestarpress.html">Muncie Star Press</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/dnj_com.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dnj_com.jpg"
+     alt="Murfreesboro Daily News Journal"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/dnj_com.html">Murfreesboro Daily News Journal</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/ndn.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ndn.jpg"
+     alt="Naples Daily News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/ndn.html">Naples Daily News</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/tennessean.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tennessean.jpg"
+     alt="Nashville Tennessean"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/tennessean.html">Nashville Tennessean</a></p>
 </div>
 
 <div class="latest-child">
@@ -3702,6 +4458,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/nbsunjournal.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbsunjournal.jpg"
+     alt="New Bern Sun Journal"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/nbsunjournal.html">New Bern Sun Journal</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/nhpr.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nhpr.jpg"
      alt="New Hampshire Public Radio"
@@ -3717,6 +4482,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/nhregister.html">New Haven Register</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/njherald.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/njherald.jpg"
+     alt="New Jersey Herald"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/njherald.html">New Jersey Herald</a></p>
 </div>
 
 <div class="latest-child">
@@ -3780,6 +4554,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/newyorker.html">New Yorker</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/newarkadvocate.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newarkadvocate.jpg"
+     alt="Newark Advocate"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/newarkadvocate.html">Newark Advocate</a></p>
 </div>
 
 <div class="latest-child">
@@ -3882,12 +4665,30 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/northjersey.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/northjersey.jpg"
+     alt="northjersey.com"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/northjersey.html">northjersey.com</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/nwademgaz.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nwademgaz.jpg"
      alt="Northwest Arkansas Democrat-Gazette"
      loading="lazy">
  </a>
  <p><a href="../sites/nwademgaz.html">Northwest Arkansas Democrat-Gazette</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/nwfdailynews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nwfdailynews.jpg"
+     alt="Northwest Florida Daily News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/nwfdailynews.html">Northwest Florida Daily News</a></p>
 </div>
 
 <div class="latest-child">
@@ -3924,6 +4725,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/oronline.html">Observer-Reporter</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/ocalastarbanner.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ocalastarbanner.jpg"
+     alt="Ocala StarBanner"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/ocalastarbanner.html">Ocala StarBanner</a></p>
 </div>
 
 <div class="latest-child">
@@ -3999,6 +4809,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/the_daily_world.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/the_daily_world.jpg"
+     alt="Opelousas Daily World"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/the_daily_world.html">Opelousas Daily World</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/openvallejo.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/openvallejo.jpg"
      alt="Open Vallejo"
@@ -4044,6 +4863,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/onwnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/onwnews.jpg"
+     alt="Oshkosh Northwestern"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/onwnews.html">Oshkosh Northwestern</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/ottumwacourier.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ottumwacourier.jpg"
      alt="Ottumwa Courier"
@@ -4071,6 +4899,42 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/shinysheet.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/shinysheet.jpg"
+     alt="Palm Beach Daily News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/shinysheet.html">Palm Beach Daily News</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/desertsunnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/desertsunnews.jpg"
+     alt="Palm Springs Desert Sun"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/desertsunnews.html">Palm Springs Desert Sun</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/the_news_herald.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/the_news_herald.jpg"
+     alt="Panama City News-Herald"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/the_news_herald.html">Panama City News-Herald</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/dailyrecord.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailyrecord.jpg"
+     alt="Parsippany Daily Record"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/dailyrecord.html">Parsippany Daily Record</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/newshour.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newshour.jpg"
      alt="PBS News Hour"
@@ -4089,6 +4953,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/pekindailytimes.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pekindailytimes.jpg"
+     alt="Pekin Daily Times"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/pekindailytimes.html">Pekin Daily Times</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/peninsupress.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/peninsupress.jpg"
      alt="Peninsula Press"
@@ -4098,12 +4971,48 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/pnj.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pnj.jpg"
+     alt="Pensacola News Journal"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/pnj.html">Pensacola News Journal</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/people.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/people.jpg"
      alt="People"
      loading="lazy">
  </a>
  <p><a href="../sites/people.html">People</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/pjstar.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pjstar.jpg"
+     alt="Peoria Journal Star"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/pjstar.html">Peoria Journal Star</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/theperrychief.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theperrychief.jpg"
+     alt="Perry Chief"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/theperrychief.html">Perry Chief</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/petoskeynews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/petoskeynews.jpg"
+     alt="Petoskey News-Review"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/petoskeynews.html">Petoskey News-Review</a></p>
 </div>
 
 <div class="latest-child">
@@ -4170,6 +5079,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/poconorecord.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/poconorecord.jpg"
+     alt="Pocono Record"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/poconorecord.html">Pocono Record</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/pointreyeslight.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pointreyeslight.jpg"
      alt="Point Reyes Light"
@@ -4197,6 +5115,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/pcnewsherald.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pcnewsherald.jpg"
+     alt="Port Clinton News Herald"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/pcnewsherald.html">Port Clinton News Herald</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/portlandmercury.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/portlandmercury.jpg"
      alt="Portland Mercury"
@@ -4212,6 +5139,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/postandcourier.html">Post and Courier</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/pokjournal.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pokjournal.jpg"
+     alt="Poughkeepsie Journal"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/pokjournal.html">Poughkeepsie Journal</a></p>
 </div>
 
 <div class="latest-child">
@@ -4350,6 +5286,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/breakingnews_rs.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/breakingnews_rs.jpg"
+     alt="Redding Record Searchlight"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/breakingnews_rs.html">Redding Record Searchlight</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/redstate.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/redstate.jpg"
      alt="RedState"
@@ -4365,6 +5310,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/reductress.html">Reductress</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/rgj.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rgj.jpg"
+     alt="Reno Gazette-Journal"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/rgj.html">Reno Gazette-Journal</a></p>
 </div>
 
 <div class="latest-child">
@@ -4395,6 +5349,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/pi_news.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pi_news.jpg"
+     alt="Richmond Palladium-Item"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/pi_news.html">Richmond Palladium-Item</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/rtdnews.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rtdnews.jpg"
      alt="Richmond Times-Dispatch"
@@ -4419,6 +5382,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/pressenterprise.html">Riverside Press-Enterprise</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/dandc.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dandc.jpg"
+     alt="Rochester Democrat and Chronicle"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/dandc.html">Rochester Democrat and Chronicle</a></p>
 </div>
 
 <div class="latest-child">
@@ -4458,6 +5430,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/ruidosonews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ruidosonews.jpg"
+     alt="Ruidoso News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/ruidosonews.html">Ruidoso News</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/sacbee_news.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sacbee_news.jpg"
      alt="Sacramento Bee"
@@ -4473,6 +5454,33 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/sahanjournal.html">Sahan Journal</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/salem_statesman.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/salem_statesman.jpg"
+     alt="Salem Statesman Journal"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/salem_statesman.html">Salem Statesman Journal</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/salinajournal.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/salinajournal.jpg"
+     alt="Salina Journal"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/salinajournal.html">Salina Journal</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/mydelmarvanow.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mydelmarvanow.jpg"
+     alt="Salisbury Daily Times"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/mydelmarvanow.html">Salisbury Daily Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -4548,6 +5556,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/heraldtribune.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/heraldtribune.jpg"
+     alt="Sarasota Herald-Tribune"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/heraldtribune.html">Sarasota Herald-Tribune</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/savannahnow.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/savannahnow.jpg"
      alt="Savannah Morning News"
@@ -4584,6 +5601,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/seacoastonline.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/seacoastonline.jpg"
+     alt="Seacoastonline.com"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/seacoastonline.html">Seacoastonline.com</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/searchlightnm.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/searchlightnm.jpg"
      alt="Searchlight New Mexico"
@@ -4608,6 +5634,42 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/semafor.html">Semafor</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/sheboyganpress.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sheboyganpress.jpg"
+     alt="Sheboygan Press"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/sheboyganpress.html">Sheboygan Press</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/shreveporttimes.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/shreveporttimes.jpg"
+     alt="Shreveport Times"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/shreveporttimes.html">Shreveport Times</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/scsunnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/scsunnews.jpg"
+     alt="Silver City Sun News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/scsunnews.html">Silver City Sun News</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/argusleader.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/argusleader.jpg"
+     alt="Sioux Falls Argus Leader"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/argusleader.html">Sioux Falls Argus Leader</a></p>
 </div>
 
 <div class="latest-child">
@@ -4665,6 +5727,24 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/southcoasttoday.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/southcoasttoday.jpg"
+     alt="SouthCoastToday.com"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/southcoasttoday.html">SouthCoastToday.com</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/timesrecord.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/timesrecord.jpg"
+     alt="Southwest Times Record"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/timesrecord.html">Southwest Times Record</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/spacenews_inc.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/spacenews_inc.jpg"
      alt="Space News"
@@ -4680,6 +5760,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/spacedotcom.html">Space.com</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/goupstate.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/goupstate.jpg"
+     alt="Spartanburg Herald-Journal"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/goupstate.html">Spartanburg Herald-Journal</a></p>
 </div>
 
 <div class="latest-child">
@@ -4728,6 +5817,24 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/springfieldnl.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/springfieldnl.jpg"
+     alt="Springfield News-Leader"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/springfieldnl.html">Springfield News-Leader</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/sctimes.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sctimes.jpg"
+     alt="St. Cloud Times"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/sctimes.html">St. Cloud Times</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/newspressnow.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newspressnow.jpg"
      alt="St. Joseph News Press"
@@ -4773,12 +5880,30 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/newsleadernow.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newsleadernow.jpg"
+     alt="Staunton Daily News Leader"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/newsleadernow.html">Staunton Daily News Leader</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/stevenspointjrl.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/stevenspointjrl.jpg"
      alt="Stevens Point Journal"
      loading="lazy">
  </a>
  <p><a href="../sites/stevenspointjrl.html">Stevens Point Journal</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/recordnet.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/recordnet.jpg"
+     alt="Stockton Record"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/recordnet.html">Stockton Record</a></p>
 </div>
 
 <div class="latest-child">
@@ -4818,6 +5943,24 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/sturgisnewsroom.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sturgisnewsroom.jpg"
+     alt="Sturgis Journal"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/sturgisnewsroom.html">Sturgis Journal</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/tdonline.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tdonline.jpg"
+     alt="Tallahassee Democrat"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/tdonline.html">Tallahassee Democrat</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/tb_times.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tb_times.jpg"
      alt="Tampa Bay Times"
@@ -4833,6 +5976,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/taskandpurpose.html">Task & Purpose</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/tauntontogo.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tauntontogo.jpg"
+     alt="Taunton Daily Gazette"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/tauntontogo.html">Taunton Daily Gazette</a></p>
 </div>
 
 <div class="latest-child">
@@ -4908,12 +6060,39 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/alliancereview.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/alliancereview.jpg"
+     alt="The Alliance Review"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/alliancereview.html">The Alliance Review</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/baltimoresun.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltimoresun.jpg"
      alt="The Baltimore Sun"
      loading="lazy">
  </a>
  <p><a href="../sites/baltimoresun.html">The Baltimore Sun</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/barnpat.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/barnpat.jpg"
+     alt="The Barnstable Patriot"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/barnpat.html">The Barnstable Patriot</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/bctimes.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bctimes.jpg"
+     alt="The Beaver County Times"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/bctimes.html">The Beaver County Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -4935,12 +6114,39 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/cantonrepdotcom.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cantonrepdotcom.jpg"
+     alt="The Canton Repository"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/cantonrepdotcom.html">The Canton Repository</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/thecityny.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thecityny.jpg"
      alt="The City"
      loading="lazy">
  </a>
  <p><a href="../sites/thecityny.html">The City</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/dispatchalerts.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dispatchalerts.jpg"
+     alt="The Columbus Dispatch"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/dispatchalerts.html">The Columbus Dispatch</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/courier_tribune.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/courier_tribune.jpg"
+     alt="The Courier-Tribune"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/courier_tribune.html">The Courier-Tribune</a></p>
 </div>
 
 <div class="latest-child">
@@ -4953,12 +6159,66 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/thedailyherald.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedailyherald.jpg"
+     alt="The Daily Herald"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/thedailyherald.html">The Daily Herald</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/dailyjeff.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailyjeff.jpg"
+     alt="The Daily Jeffersonian"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/dailyjeff.html">The Daily Jeffersonian</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/jdnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jdnews.jpg"
+     alt="The Daily News - Jacksonville, NC"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/jdnews.html">The Daily News - Jacksonville, NC</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/thedailyrecord.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedailyrecord.jpg"
+     alt="The Daily Record"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/thedailyrecord.html">The Daily Record</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/dbnewsjournal.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dbnewsjournal.jpg"
+     alt="The Daytona Beach News-Journal"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/dbnewsjournal.html">The Daytona Beach News-Journal</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/mydesert.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mydesert.jpg"
      alt="The Desert Sun"
      loading="lazy">
  </a>
  <p><a href="../sites/mydesert.html">The Desert Sun</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/destinlog.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/destinlog.jpg"
+     alt="The Destin Log"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/destinlog.html">The Destin Log</a></p>
 </div>
 
 <div class="latest-child">
@@ -4971,12 +6231,129 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/lexdispatch.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lexdispatch.jpg"
+     alt="The Dispatch"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/lexdispatch.html">The Dispatch</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/enterprisenews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/enterprisenews.jpg"
+     alt="The Enterprise"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/enterprisenews.html">The Enterprise</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/hnnow.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hnnow.jpg"
+     alt="The Fall River Herald News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/hnnow.html">The Fall River Herald News</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/fayobserver.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fayobserver.jpg"
+     alt="The Fayetteville Observer"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/fayobserver.html">The Fayetteville Observer</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/gadsdentimes.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gadsdentimes.jpg"
+     alt="The Gadsden Times"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/gadsdentimes.html">The Gadsden Times</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/galesburg.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/galesburg.jpg"
+     alt="The Galesburg Register-Mail"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/galesburg.html">The Galesburg Register-Mail</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/gardner_news.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gardner_news.jpg"
+     alt="The Gardner News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/gardner_news.html">The Gardner News</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/thegleanernews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thegleanernews.jpg"
+     alt="The Gleaner"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/thegleanernews.html">The Gleaner</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/thehawkeye.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thehawkeye.jpg"
+     alt="The Hawk Eye"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/thehawkeye.html">The Hawk Eye</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/theheraldtimes.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theheraldtimes.jpg"
+     alt="The Herald-Times"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/theheraldtimes.html">The Herald-Times</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/thehill.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thehill.jpg"
      alt="The Hill"
      loading="lazy">
  </a>
  <p><a href="../sites/thehill.html">The Hill</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/hornelltribune.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hornelltribune.jpg"
+     alt="The Hornell Evening Tribune"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/hornelltribune.html">The Hornell Evening Tribune</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/hutchnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hutchnews.jpg"
+     alt="The Hutchinson News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/hutchnews.html">The Hutchinson News</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/indystar.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/indystar.jpg"
+     alt="The Indianapolis Star"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/indystar.html">The Indianapolis Star</a></p>
 </div>
 
 <div class="latest-child">
@@ -4989,12 +6366,48 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/theintellnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theintellnews.jpg"
+     alt="The Intelligencer"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/theintellnews.html">The Intelligencer</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/kinstonfp.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kinstonfp.jpg"
+     alt="The Kinston/Jones Free Press"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/kinstonfp.html">The Kinston/Jones Free Press</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/knoxnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/knoxnews.jpg"
+     alt="The Knoxville News-Sentinel"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/knoxnews.html">The Knoxville News-Sentinel</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/lagrangenews.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lagrangenews.jpg"
      alt="The LaGrange Daily News"
      loading="lazy">
  </a>
  <p><a href="../sites/lagrangenews.html">The LaGrange Daily News</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/theledger.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theledger.jpg"
+     alt="The Lakeland Ledger"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/theledger.html">The Lakeland Ledger</a></p>
 </div>
 
 <div class="latest-child">
@@ -5013,6 +6426,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/themarkup.html">The Markup</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/indedotcom.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/indedotcom.jpg"
+     alt="The Massillon Independent"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/indedotcom.html">The Massillon Independent</a></p>
 </div>
 
 <div class="latest-child">
@@ -5043,12 +6465,120 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/thenewportdaily.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thenewportdaily.jpg"
+     alt="The Newport Daily News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/thenewportdaily.html">The Newport Daily News</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/norwichbulletin.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/norwichbulletin.jpg"
+     alt="The Norwich Bulletin"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/norwichbulletin.html">The Norwich Bulletin</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/oaklandside.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oaklandside.jpg"
      alt="The Oaklandside"
      loading="lazy">
  </a>
  <p><a href="../sites/oaklandside.html">The Oaklandside</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/pbpost.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pbpost.jpg"
+     alt="The Palm Beach Post"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/pbpost.html">The Palm Beach Post</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/patriotledger.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/patriotledger.jpg"
+     alt="The Patriot Ledger"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/patriotledger.html">The Patriot Ledger</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/progressindex.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/progressindex.jpg"
+     alt="The Progress-Index"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/progressindex.html">The Progress-Index</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/projo.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/projo.jpg"
+     alt="The Providence Journal"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/projo.html">The Providence Journal</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/chieftainnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/chieftainnews.jpg"
+     alt="The Pueblo Chieftain"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/chieftainnews.html">The Pueblo Chieftain</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/registerguard.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/registerguard.jpg"
+     alt="The Register Guard"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/registerguard.html">The Register Guard</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/salnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/salnews.jpg"
+     alt="The Salinas Californian"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/salnews.html">The Salinas Californian</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/gosanangelo.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gosanangelo.jpg"
+     alt="The San Angelo Standard-Times"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/gosanangelo.html">The San Angelo Standard-Times</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/shelbystar.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/shelbystar.jpg"
+     alt="The Shelby Star"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/shelbystar.html">The Shelby Star</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/siskiyou_daily.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/siskiyou_daily.jpg"
+     alt="The Siskiyou Daily News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/siskiyou_daily.html">The Siskiyou Daily News</a></p>
 </div>
 
 <div class="latest-child">
@@ -5061,6 +6591,24 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/staugrecord.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/staugrecord.jpg"
+     alt="The St. Augustine Record"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/staugrecord.html">The St. Augustine Record</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/sjrbreaking.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sjrbreaking.jpg"
+     alt="The State Journal-Register"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/sjrbreaking.html">The State Journal-Register</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/telegraphga.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/telegraphga.jpg"
      alt="The Telegraph"
@@ -5070,12 +6618,30 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/timestelegram.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/timestelegram.jpg"
+     alt="The Times Telegram"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/timestelegram.html">The Times Telegram</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/timesenterprise.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/timesenterprise.jpg"
      alt="The Times-Enterprise"
      loading="lazy">
  </a>
  <p><a href="../sites/timesenterprise.html">The Times-Enterprise</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/cjonline.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cjonline.jpg"
+     alt="The Topeka Capital-Journal"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/cjonline.html">The Topeka Capital-Journal</a></p>
 </div>
 
 <div class="latest-child">
@@ -5094,6 +6660,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/theweek.html">The Week</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/lohud.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lohud.jpg"
+     alt="The Westchester County Journal News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/lohud.html">The Westchester County Journal News</a></p>
 </div>
 
 <div class="latest-child">
@@ -5130,6 +6705,42 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/time.html">TIME</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/recordonline.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/recordonline.jpg"
+     alt="Times Herald-Record"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/recordonline.html">Times Herald-Record</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/times_mail.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/times_mail.jpg"
+     alt="Times Mail"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/times_mail.html">Times Mail</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/timesrecordnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/timesrecordnews.jpg"
+     alt="Times Record News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/timesrecordnews.html">Times Record News</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/trohio.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/trohio.jpg"
+     alt="Times Reporter"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/trohio.html">Times Reporter</a></p>
 </div>
 
 <div class="latest-child">
@@ -5175,6 +6786,24 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/teamtrace.html">Trace</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/tcpalm.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tcpalm.jpg"
+     alt="Treasure Coast"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/tcpalm.html">Treasure Coast</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/tci_newsroom.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tci_newsroom.jpg"
+     alt="Tri-County Independent"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/tci_newsroom.html">Tri-County Independent</a></p>
 </div>
 
 <div class="latest-child">
@@ -5286,6 +6915,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/uticaod.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/uticaod.jpg"
+     alt="Utica Observer-Dispatch"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/uticaod.html">Utica Observer-Dispatch</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/uvaldenews.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/uvaldenews.jpg"
      alt="Uvalde News-Leader"
@@ -5373,6 +7011,33 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/vicenews.html">Vice News</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/vvdailypress.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/vvdailypress.jpg"
+     alt="Victorville Daily Press"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/vvdailypress.html">Victorville Daily Press</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/thedailyjournal.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedailyjournal.jpg"
+     alt="Vineland Daily Journal"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/thedailyjournal.html">Vineland Daily Journal</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/vtdnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/vtdnews.jpg"
+     alt="Visalia Times Delta"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/vtdnews.html">Visalia Times Delta</a></p>
 </div>
 
 <div class="latest-child">
@@ -5520,6 +7185,15 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/publicopinionsd.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/publicopinionsd.jpg"
+     alt="Watertown Public Opinion"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/publicopinionsd.html">Watertown Public Opinion</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/wausauherald.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wausauherald.jpg"
      alt="Wausau Daily Herald"
@@ -5535,6 +7209,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/wave3news.html">WAVE</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/therecordherald.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/therecordherald.jpg"
+     alt="Waynesboro Record Herald"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/therecordherald.html">Waynesboro Record Herald</a></p>
 </div>
 
 <div class="latest-child">
@@ -5646,6 +7329,24 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/wickedlocal.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wickedlocal.jpg"
+     alt="Wicked Local"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/wickedlocal.html">Wicked Local</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/starnewsonline.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/starnewsonline.jpg"
+     alt="Wilmington Star-News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/starnewsonline.html">Wilmington Star-News</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/windowscentral.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/windowscentral.jpg"
      alt="Windows Central"
@@ -5661,6 +7362,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/wired.html">Wired</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/wrtribune.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wrtribune.jpg"
+     alt="Wisconsin Rapids Daily Tribune"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/wrtribune.html">Wisconsin Rapids Daily Tribune</a></p>
 </div>
 
 <div class="latest-child">
@@ -5724,6 +7434,15 @@ The most recent homepages from 650 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/wonkette.html">Wonkette</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/telegramdotcom.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/telegramdotcom.jpg"
+     alt="Worcester Telegram & Gazette"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/telegramdotcom.html">Worcester Telegram & Gazette</a></p>
 </div>
 
 <div class="latest-child">
@@ -5844,12 +7563,30 @@ The most recent homepages from 650 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/ydrcom.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ydrcom.jpg"
+     alt="York Daily Record"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/ydrcom.html">York Daily Record</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/yorkdispatch.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/yorkdispatch.jpg"
      alt="York Dispatch"
      loading="lazy">
  </a>
  <p><a href="../sites/yorkdispatch.html">York Dispatch</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/timesrecorder.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/timesrecorder.jpg"
+     alt="Zanesville Times Recorder"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/timesrecorder.html">Zanesville Times Recorder</a></p>
 </div>
 
 <div class="latest-child">
@@ -5893,6 +7630,7 @@ The most recent homepages from 650 news sites in this country.
 |[ABC15 Arizona](https://palewi.re/docs/news-homepages/sites/abc15.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/abc15.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/abc15.xml)|
 |[ABC7](https://palewi.re/docs/news-homepages/sites/abc7.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/abc7.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/abc7.xml)|
 |[ABC7 News](https://palewi.re/docs/news-homepages/sites/abc7newsbayarea.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/abc7newsbayarea.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/abc7newsbayarea.xml)|
+|[Aberdeen News](https://palewi.re/docs/news-homepages/sites/aberdeennews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/aberdeennews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/aberdeennews.xml)|
 |[Abilene Reporter News](https://palewi.re/docs/news-homepages/sites/reporternews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reporternews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/reporternews.xml)|
 |[Above the Law](https://palewi.re/docs/news-homepages/sites/atlblog.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/atlblog.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/atlblog.xml)|
 |[AeroTime Hub](https://palewi.re/docs/news-homepages/sites/aviationnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/aviationnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/aviationnews.xml)|
@@ -5903,19 +7641,23 @@ The most recent homepages from 650 news sites in this country.
 |[Alabama Media Group](https://palewi.re/docs/news-homepages/sites/aldotcom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/aldotcom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/aldotcom.xml)|
 |[Alabama Public Radio](https://palewi.re/docs/news-homepages/sites/alpublicradio.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/alpublicradio.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/alpublicradio.xml)|
 |[Alabama Reporter](https://palewi.re/docs/news-homepages/sites/alreporter.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/alreporter.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/alreporter.xml)|
+|[Alamogordo Daily News](https://palewi.re/docs/news-homepages/sites/alamogordonews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/alamogordonews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/alamogordonews.xml)|
 |[Alaska Public Media](https://palewi.re/docs/news-homepages/sites/akpublicnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/akpublicnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/akpublicnews.xml)|
 |[Alaska’s News Source](https://palewi.re/docs/news-homepages/sites/aknewsnow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/aknewsnow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/aknewsnow.xml)|
 |[Albany Herald](https://palewi.re/docs/news-homepages/sites/albany_herald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/albany_herald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/albany_herald.xml)|
 |[Albuquerque Business First](https://palewi.re/docs/news-homepages/sites/abqbizfirst.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/abqbizfirst.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/abqbizfirst.xml)|
 |[Albuquerque Journal](https://palewi.re/docs/news-homepages/sites/abqjournal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/abqjournal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/abqjournal.xml)|
+|[Alexandria Town Talk](https://palewi.re/docs/news-homepages/sites/towntalkdotcom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/towntalkdotcom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/towntalkdotcom.xml)|
 |[All in Her Head](https://palewi.re/docs/news-homepages/sites/jessicavalenti.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jessicavalenti.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/jessicavalenti.xml)|
 |[Alligator](https://palewi.re/docs/news-homepages/sites/thealligator.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thealligator.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thealligator.xml)|
 |[AlterNet](https://palewi.re/docs/news-homepages/sites/alternet.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/alternet.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/alternet.xml)|
+|[Amarillo Globe-News](https://palewi.re/docs/news-homepages/sites/amarilloglobe.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/amarilloglobe.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/amarilloglobe.xml)|
 |[American Independent](https://palewi.re/docs/news-homepages/sites/amerindependent.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/amerindependent.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/amerindependent.xml)|
 |[American Prospect](https://palewi.re/docs/news-homepages/sites/theprospect.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theprospect.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theprospect.xml)|
 |[Ames Tribune](https://palewi.re/docs/news-homepages/sites/amestribnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/amestribnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/amestribnews.xml)|
 |[Anchorage Daily News](https://palewi.re/docs/news-homepages/sites/adndotcom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/adndotcom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/adndotcom.xml)|
 |[Anchorage Press](https://palewi.re/docs/news-homepages/sites/anchoragepress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/anchoragepress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/anchoragepress.xml)|
+|[Anderson Independent-Mail](https://palewi.re/docs/news-homepages/sites/independentmail.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/independentmail.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/independentmail.xml)|
 |[Andscape](https://palewi.re/docs/news-homepages/sites/andscape.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/andscape.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/andscape.xml)|
 |[APM Reports](https://palewi.re/docs/news-homepages/sites/apmreports.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/apmreports.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/apmreports.xml)|
 |[Appeal](https://palewi.re/docs/news-homepages/sites/theappeal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theappeal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theappeal.xml)|
@@ -5929,7 +7671,10 @@ The most recent homepages from 650 news sites in this country.
 |[Arkansas Nonprofit News Network](https://palewi.re/docs/news-homepages/sites/arknewsorg.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/arknewsorg.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/arknewsorg.xml)|
 |[Arkansas Times](https://palewi.re/docs/news-homepages/sites/arktimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/arktimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/arktimes.xml)|
 |[Ars Technica](https://palewi.re/docs/news-homepages/sites/arstechnica.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/arstechnica.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/arstechnica.xml)|
+|[Asbury Park Press](https://palewi.re/docs/news-homepages/sites/asburyparkpress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/asburyparkpress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/asburyparkpress.xml)|
+|[Asheville Citizen-Times](https://palewi.re/docs/news-homepages/sites/asheville.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/asheville.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/asheville.xml)|
 |[Asheville Watchdog](https://palewi.re/docs/news-homepages/sites/avlwatchdog.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/avlwatchdog.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/avlwatchdog.xml)|
+|[Ashland Times Gazette](https://palewi.re/docs/news-homepages/sites/timesgazette.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/timesgazette.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/timesgazette.xml)|
 |[Ashland.news](https://palewi.re/docs/news-homepages/sites/ashlandornews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ashlandornews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ashlandornews.xml)|
 |[Aspen Daily News](https://palewi.re/docs/news-homepages/sites/aspendailynews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/aspendailynews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/aspendailynews.xml)|
 |[Aspen Journalism](https://palewi.re/docs/news-homepages/sites/aspenjournalism.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/aspenjournalism.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/aspenjournalism.xml)|
@@ -5959,12 +7704,14 @@ The most recent homepages from 650 news sites in this country.
 |[Baltimore Business Journal](https://palewi.re/docs/news-homepages/sites/baltbizonline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltbizonline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/baltbizonline.xml)|
 |[Baltimore Fishbowl](https://palewi.re/docs/news-homepages/sites/baltfishbowl.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltfishbowl.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/baltfishbowl.xml)|
 |[Baltimore Magazine](https://palewi.re/docs/news-homepages/sites/baltimoremag.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltimoremag.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/baltimoremag.xml)|
+|[Battle Creek Enquirer](https://palewi.re/docs/news-homepages/sites/bcenquirer.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bcenquirer.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bcenquirer.xml)|
 |[Bay Nature](https://palewi.re/docs/news-homepages/sites/baynature.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baynature.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/baynature.xml)|
 |[Beaumont Enterprise](https://palewi.re/docs/news-homepages/sites/bmtenterprise.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bmtenterprise.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bmtenterprise.xml)|
 |[Belt Magazine](https://palewi.re/docs/news-homepages/sites/belt_magazine.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/belt_magazine.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/belt_magazine.xml)|
 |[Berkshire Eagle](https://palewi.re/docs/news-homepages/sites/berkshireeagle.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/berkshireeagle.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/berkshireeagle.xml)|
 |[Better Government Association](https://palewi.re/docs/news-homepages/sites/bettergov.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bettergov.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bettergov.xml)|
 |[Billy Penn](https://palewi.re/docs/news-homepages/sites/billy_penn.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/billy_penn.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/billy_penn.xml)|
+|[Binghamton Press & Sun-Bulletin](https://palewi.re/docs/news-homepages/sites/pressconnects.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pressconnects.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pressconnects.xml)|
 |[BirminghamWatch](https://palewi.re/docs/news-homepages/sites/bhamwatch.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bhamwatch.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bhamwatch.xml)|
 |[Bklyner](https://palewi.re/docs/news-homepages/sites/bklyner.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bklyner.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bklyner.xml)|
 |[Black by God](https://palewi.re/docs/news-homepages/sites/blackbygodwv.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/blackbygodwv.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/blackbygodwv.xml)|
@@ -5975,9 +7722,12 @@ The most recent homepages from 650 news sites in this country.
 |[Block Club Chicago](https://palewi.re/docs/news-homepages/sites/blockclubchi.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/blockclubchi.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/blockclubchi.xml)|
 |[Bloomberg](https://palewi.re/docs/news-homepages/sites/business.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/business.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/business.xml)|
 |[Bloomberg Law](https://palewi.re/docs/news-homepages/sites/blaw.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/blaw.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/blaw.xml)|
+|[blueridgenow.com](https://palewi.re/docs/news-homepages/sites/blueridgenow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/blueridgenow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/blueridgenow.xml)|
+|[Bluffton Today](https://palewi.re/docs/news-homepages/sites/blufftontoday.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/blufftontoday.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/blufftontoday.xml)|
 |[Boing Boing](https://palewi.re/docs/news-homepages/sites/boingboing.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/boingboing.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/boingboing.xml)|
 |[Bon Appetit](https://palewi.re/docs/news-homepages/sites/bonappetit.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bonappetit.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bonappetit.xml)|
 |[Bongino Report](https://palewi.re/docs/news-homepages/sites/bonginoreport.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bonginoreport.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bonginoreport.xml)|
+|[Boone News Republican](https://palewi.re/docs/news-homepages/sites/newsrepublican.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newsrepublican.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newsrepublican.xml)|
 |[Borderless](https://palewi.re/docs/news-homepages/sites/borderless_mag.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/borderless_mag.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/borderless_mag.xml)|
 |[Boston Business Journal](https://palewi.re/docs/news-homepages/sites/bosbizjournal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bosbizjournal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bosbizjournal.xml)|
 |[Boston Globe](https://palewi.re/docs/news-homepages/sites/bostonglobe.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bostonglobe.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bostonglobe.xml)|
@@ -5986,18 +7736,27 @@ The most recent homepages from 650 news sites in this country.
 |[Bowling Green Daily News](https://palewi.re/docs/news-homepages/sites/bgdailynews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bgdailynews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bgdailynews.xml)|
 |[Breckenridge Texan](https://palewi.re/docs/news-homepages/sites/brecktexan.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/brecktexan.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/brecktexan.xml)|
 |[Breitbart](https://palewi.re/docs/news-homepages/sites/breitbartnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/breitbartnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/breitbartnews.xml)|
+|[Brevard Florida Today](https://palewi.re/docs/news-homepages/sites/florida_today.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/florida_today.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/florida_today.xml)|
 |[Brooklyn Paper](https://palewi.re/docs/news-homepages/sites/brooklynpaper.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/brooklynpaper.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/brooklynpaper.xml)|
+|[Bucks County Courier Times](https://palewi.re/docs/news-homepages/sites/couriertimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/couriertimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/couriertimes.xml)|
 |[Bucks County Herald](https://palewi.re/docs/news-homepages/sites/buckscoherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/buckscoherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/buckscoherald.xml)|
+|[Bucyrus Telegraph Forum](https://palewi.re/docs/news-homepages/sites/bucyrustf.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bucyrustf.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bucyrustf.xml)|
 |[Buffalo News](https://palewi.re/docs/news-homepages/sites/thebuffalonews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thebuffalonews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thebuffalonews.xml)|
 |[Bulwark](https://palewi.re/docs/news-homepages/sites/bulwarkonline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bulwarkonline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bulwarkonline.xml)|
+|[Burlington County Times](https://palewi.re/docs/news-homepages/sites/burlcotimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/burlcotimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/burlcotimes.xml)|
+|[Burlington Free Press](https://palewi.re/docs/news-homepages/sites/bfp_news.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bfp_news.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bfp_news.xml)|
+|[Burlington Times-News](https://palewi.re/docs/news-homepages/sites/thetimesnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thetimesnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thetimesnews.xml)|
 |[Buzzfeed News](https://palewi.re/docs/news-homepages/sites/buzzfeednews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/buzzfeednews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/buzzfeednews.xml)|
 |[Calmatters](https://palewi.re/docs/news-homepages/sites/calmatters.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/calmatters.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/calmatters.xml)|
 |[Canopy Atlanta](https://palewi.re/docs/news-homepages/sites/canopyatl.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/canopyatl.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/canopyatl.xml)|
+|[Canton Daily Ledger](https://palewi.re/docs/news-homepages/sites/cantonledger.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cantonledger.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cantonledger.xml)|
+|[Cape Cod Times](https://palewi.re/docs/news-homepages/sites/capecodtimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/capecodtimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/capecodtimes.xml)|
 |[Capital & Main](https://palewi.re/docs/news-homepages/sites/capitalandmain.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/capitalandmain.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/capitalandmain.xml)|
 |[Capital B Atlanta](https://palewi.re/docs/news-homepages/sites/capitalb_atl.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/capitalb_atl.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/capitalb_atl.xml)|
 |[Capital Gazette](https://palewi.re/docs/news-homepages/sites/capgaznews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/capgaznews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/capgaznews.xml)|
 |[Capital News Service](https://palewi.re/docs/news-homepages/sites/cnsmd.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cnsmd.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cnsmd.xml)|
 |[Capitol News Illinois](https://palewi.re/docs/news-homepages/sites/capitolnewsil.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/capitolnewsil.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/capitolnewsil.xml)|
+|[Carlsbad Current-Argus](https://palewi.re/docs/news-homepages/sites/ccurrentargus.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ccurrentargus.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ccurrentargus.xml)|
 |[Carolina Public Press](https://palewi.re/docs/news-homepages/sites/cpublicpress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cpublicpress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cpublicpress.xml)|
 |[CBS 17](https://palewi.re/docs/news-homepages/sites/wncn.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wncn.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wncn.xml)|
 |[CBS Chicago](https://palewi.re/docs/news-homepages/sites/cbschicago.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cbschicago.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cbschicago.xml)|
@@ -6009,13 +7768,16 @@ The most recent homepages from 650 news sites in this country.
 |[Central Oregon Daily](https://palewi.re/docs/news-homepages/sites/codaily.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/codaily.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/codaily.xml)|
 |[Centro de Periodismo Investigativo](https://palewi.re/docs/news-homepages/sites/cpipr.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cpipr.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cpipr.xml)|
 |[Chalkbeat](https://palewi.re/docs/news-homepages/sites/chalkbeat.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/chalkbeat.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/chalkbeat.xml)|
+|[Chambersburg Public Opinion](https://palewi.re/docs/news-homepages/sites/ponews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ponews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ponews.xml)|
 |[Charlotte Observer](https://palewi.re/docs/news-homepages/sites/theobserver.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theobserver.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theobserver.xml)|
+|[Cherry Hill Courier Post](https://palewi.re/docs/news-homepages/sites/cpsj.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cpsj.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cpsj.xml)|
 |[Chesapeake Bay Journal](https://palewi.re/docs/news-homepages/sites/chesbayjournal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/chesbayjournal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/chesbayjournal.xml)|
 |[Chess.com](https://palewi.re/docs/news-homepages/sites/chesscom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/chesscom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/chesscom.xml)|
 |[Chicago Reader](https://palewi.re/docs/news-homepages/sites/chicago_reader.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/chicago_reader.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/chicago_reader.xml)|
 |[Chicago Reporter](https://palewi.re/docs/news-homepages/sites/chicagoreporter.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/chicagoreporter.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/chicagoreporter.xml)|
 |[Chicago Sun-Times](https://palewi.re/docs/news-homepages/sites/suntimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/suntimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/suntimes.xml)|
 |[Chicago Tribune](https://palewi.re/docs/news-homepages/sites/chicagotribune.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/chicagotribune.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/chicagotribune.xml)|
+|[Chillicothe Gazette](https://palewi.re/docs/news-homepages/sites/chilligaz.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/chilligaz.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/chilligaz.xml)|
 |[Christianity Today](https://palewi.re/docs/news-homepages/sites/ctmagazine.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ctmagazine.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ctmagazine.xml)|
 |[Cicero Independiente](https://palewi.re/docs/news-homepages/sites/ciceronoticias.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ciceronoticias.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ciceronoticias.xml)|
 |[Cincinnati Enquirer](https://palewi.re/docs/news-homepages/sites/enquirer.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/enquirer.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/enquirer.xml)|
@@ -6024,6 +7786,7 @@ The most recent homepages from 650 news sites in this country.
 |[City Limits](https://palewi.re/docs/news-homepages/sites/citylimitsnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/citylimitsnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/citylimitsnews.xml)|
 |[CivicLex](https://palewi.re/docs/news-homepages/sites/civic_lex.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/civic_lex.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/civic_lex.xml)|
 |[Clarion Ledger](https://palewi.re/docs/news-homepages/sites/clarionledger.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/clarionledger.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/clarionledger.xml)|
+|[Clarksville Leaf Chronicle](https://palewi.re/docs/news-homepages/sites/leafchronicle.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/leafchronicle.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/leafchronicle.xml)|
 |[Clayton Crescent](https://palewi.re/docs/news-homepages/sites/claytoncrescent.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/claytoncrescent.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/claytoncrescent.xml)|
 |[CNBC](https://palewi.re/docs/news-homepages/sites/cnbc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cnbc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cnbc.xml)|
 |[CNET](https://palewi.re/docs/news-homepages/sites/cnet.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cnet.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cnet.xml)|
@@ -6033,8 +7796,10 @@ The most recent homepages from 650 news sites in this country.
 |[Colorado Public Radio](https://palewi.re/docs/news-homepages/sites/cprnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cprnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cprnews.xml)|
 |[Colorado Springs Gazette](https://palewi.re/docs/news-homepages/sites/csgazette.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/csgazette.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/csgazette.xml)|
 |[Colorado Sun](https://palewi.re/docs/news-homepages/sites/coloradosun.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/coloradosun.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/coloradosun.xml)|
+|[Columbia Daily Tribune](https://palewi.re/docs/news-homepages/sites/columbiatribune.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/columbiatribune.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/columbiatribune.xml)|
 |[Columbia Journalism Review](https://palewi.re/docs/news-homepages/sites/cjr.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cjr.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cjr.xml)|
 |[Columbia Missourian](https://palewi.re/docs/news-homepages/sites/comissourian.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/comissourian.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/comissourian.xml)|
+|[Commercial Appeal](https://palewi.re/docs/news-homepages/sites/memphisnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/memphisnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/memphisnews.xml)|
 |[Common Dreams](https://palewi.re/docs/news-homepages/sites/commondreams.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/commondreams.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/commondreams.xml)|
 |[Common Sense](https://palewi.re/docs/news-homepages/sites/bariweiss.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bariweiss.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bariweiss.xml)|
 |[Connecticut Mirror](https://palewi.re/docs/news-homepages/sites/ctmirror.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ctmirror.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ctmirror.xml)|
@@ -6042,12 +7807,16 @@ The most recent homepages from 650 news sites in this country.
 |[Connecticut Public](https://palewi.re/docs/news-homepages/sites/wnpr.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wnpr.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wnpr.xml)|
 |[Conversation U.S.](https://palewi.re/docs/news-homepages/sites/conversationus.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/conversationus.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/conversationus.xml)|
 |[Cook Political Report](https://palewi.re/docs/news-homepages/sites/cookpolitical.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cookpolitical.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cookpolitical.xml)|
+|[Corpus Christi Caller Times](https://palewi.re/docs/news-homepages/sites/callerdotcom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/callerdotcom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/callerdotcom.xml)|
+|[Coshocton Tribune](https://palewi.re/docs/news-homepages/sites/coshtribune.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/coshtribune.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/coshtribune.xml)|
 |[CQ](https://palewi.re/docs/news-homepages/sites/cqnow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cqnow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cqnow.xml)|
 |[Curbed](https://palewi.re/docs/news-homepages/sites/curbed.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/curbed.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/curbed.xml)|
+|[Daily American](https://palewi.re/docs/news-homepages/sites/dailyamerican.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailyamerican.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailyamerican.xml)|
 |[Daily Beast](https://palewi.re/docs/news-homepages/sites/thedailybeast.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedailybeast.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thedailybeast.xml)|
 |[Daily Caller](https://palewi.re/docs/news-homepages/sites/dailycaller.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailycaller.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailycaller.xml)|
 |[Daily Camera](https://palewi.re/docs/news-homepages/sites/dailycamera.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailycamera.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailycamera.xml)|
 |[Daily Climate](https://palewi.re/docs/news-homepages/sites/thedailyclimate.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedailyclimate.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thedailyclimate.xml)|
+|[Daily Comet](https://palewi.re/docs/news-homepages/sites/dailycomet.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailycomet.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailycomet.xml)|
 |[Daily Herald](https://palewi.re/docs/news-homepages/sites/dailyherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailyherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailyherald.xml)|
 |[Daily Kos](https://palewi.re/docs/news-homepages/sites/dailykos.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailykos.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailykos.xml)|
 |[Daily Nebraskan](https://palewi.re/docs/news-homepages/sites/dailyneb.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailyneb.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailyneb.xml)|
@@ -6057,6 +7826,7 @@ The most recent homepages from 650 news sites in this country.
 |[Daily Wire](https://palewi.re/docs/news-homepages/sites/realdailywire.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/realdailywire.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/realdailywire.xml)|
 |[Daily Yonder](https://palewi.re/docs/news-homepages/sites/dailyyonder.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailyyonder.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailyyonder.xml)|
 |[Dallas Business Journal](https://palewi.re/docs/news-homepages/sites/dallasbiznews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dallasbiznews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dallasbiznews.xml)|
+|[Dallas County News](https://palewi.re/docs/news-homepages/sites/dallasconews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dallasconews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dallasconews.xml)|
 |[Dallas Free Press](https://palewi.re/docs/news-homepages/sites/dallasfreepress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dallasfreepress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dallasfreepress.xml)|
 |[Dallas Morning News](https://palewi.re/docs/news-homepages/sites/dallasnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dallasnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dallasnews.xml)|
 |[Deadline](https://palewi.re/docs/news-homepages/sites/deadline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/deadline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/deadline.xml)|
@@ -6066,6 +7836,7 @@ The most recent homepages from 650 news sites in this country.
 |[Delaware Online](https://palewi.re/docs/news-homepages/sites/delawareonline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/delawareonline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/delawareonline.xml)|
 |[Delaware Public Media](https://palewi.re/docs/news-homepages/sites/delawarepublic.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/delawarepublic.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/delawarepublic.xml)|
 |[Delaware Today](https://palewi.re/docs/news-homepages/sites/delawaretoday.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/delawaretoday.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/delawaretoday.xml)|
+|[Deming Headlight](https://palewi.re/docs/news-homepages/sites/demingheadlight.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/demingheadlight.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/demingheadlight.xml)|
 |[Democracy Now!](https://palewi.re/docs/news-homepages/sites/democracynow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/democracynow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/democracynow.xml)|
 |[Denver Post](https://palewi.re/docs/news-homepages/sites/denverpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/denverpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/denverpost.xml)|
 |[Denver7](https://palewi.re/docs/news-homepages/sites/denverchannel.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/denverchannel.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/denverchannel.xml)|
@@ -6074,12 +7845,15 @@ The most recent homepages from 650 news sites in this country.
 |[Des Moines Register](https://palewi.re/docs/news-homepages/sites/dmregister.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dmregister.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dmregister.xml)|
 |[Deseret News](https://palewi.re/docs/news-homepages/sites/deseret.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/deseret.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/deseret.xml)|
 |[Desert Oracle](https://palewi.re/docs/news-homepages/sites/desert_oracle.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/desert_oracle.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/desert_oracle.xml)|
+|[Detroit Free Press](https://palewi.re/docs/news-homepages/sites/freep.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/freep.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/freep.xml)|
 |[Detroit News](https://palewi.re/docs/news-homepages/sites/detroitnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/detroitnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/detroitnews.xml)|
+|[Devils Lake Journal](https://palewi.re/docs/news-homepages/sites/devilslakenews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/devilslakenews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/devilslakenews.xml)|
 |[Discover](https://palewi.re/docs/news-homepages/sites/discovermag.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/discovermag.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/discovermag.xml)|
 |[Discovery](https://palewi.re/docs/news-homepages/sites/discovery.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/discovery.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/discovery.xml)|
 |[Dispatch](https://palewi.re/docs/news-homepages/sites/thedispatch.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedispatch.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thedispatch.xml)|
 |[Dnyuz](https://palewi.re/docs/news-homepages/sites/dnyuzcom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dnyuzcom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dnyuzcom.xml)|
 |[Documented](https://palewi.re/docs/news-homepages/sites/documentedny.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/documentedny.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/documentedny.xml)|
+|[Donaldsonville Chief](https://palewi.re/docs/news-homepages/sites/dvillechief.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dvillechief.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dvillechief.xml)|
 |[Door County Knock](https://palewi.re/docs/news-homepages/sites/doorcountyknock.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/doorcountyknock.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/doorcountyknock.xml)|
 |[Drone DJ](https://palewi.re/docs/news-homepages/sites/dronedj.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dronedj.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dronedj.xml)|
 |[Drudge Report](https://palewi.re/docs/news-homepages/sites/drudge.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/drudge.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/drudge.xml)|
@@ -6090,17 +7864,23 @@ The most recent homepages from 650 news sites in this country.
 |[East Lansing Info](https://palewi.re/docs/news-homepages/sites/eastlansinginfo.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/eastlansinginfo.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/eastlansinginfo.xml)|
 |[Eater](https://palewi.re/docs/news-homepages/sites/eater.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/eater.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/eater.xml)|
 |[Eau Claire Leader-Telegram](https://palewi.re/docs/news-homepages/sites/leadertelegram.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/leadertelegram.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/leadertelegram.xml)|
+|[Echo-Pilot](https://palewi.re/docs/news-homepages/sites/echopilot.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/echopilot.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/echopilot.xml)|
 |[EdSource](https://palewi.re/docs/news-homepages/sites/edsource.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/edsource.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/edsource.xml)|
 |[El Paso Matters](https://palewi.re/docs/news-homepages/sites/elpasomatters.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/elpasomatters.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/elpasomatters.xml)|
 |[El Paso Times](https://palewi.re/docs/news-homepages/sites/elpasotimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/elpasotimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/elpasotimes.xml)|
 |[El Tímpano](https://palewi.re/docs/news-homepages/sites/el_timpano.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/el_timpano.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/el_timpano.xml)|
+|[Ellwood City Ledger](https://palewi.re/docs/news-homepages/sites/ecledger.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ecledger.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ecledger.xml)|
+|[Elmira Star Gazette](https://palewi.re/docs/news-homepages/sites/stargazette.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/stargazette.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/stargazette.xml)|
 |[Engadget](https://palewi.re/docs/news-homepages/sites/engadget.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/engadget.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/engadget.xml)|
 |[Epoch Times](https://palewi.re/docs/news-homepages/sites/epochtimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/epochtimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/epochtimes.xml)|
 |[ESPN](https://palewi.re/docs/news-homepages/sites/espn.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/espn.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/espn.xml)|
 |[Evanston RoundTable](https://palewi.re/docs/news-homepages/sites/evroundtable.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/evroundtable.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/evroundtable.xml)|
+|[Evansville Courier & Press](https://palewi.re/docs/news-homepages/sites/courierpress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/courierpress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/courierpress.xml)|
+|[Examiner-Enterprise](https://palewi.re/docs/news-homepages/sites/bartlesvilleee.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bartlesvilleee.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bartlesvilleee.xml)|
 |[Fairbanks Daily News-Miner](https://palewi.re/docs/news-homepages/sites/newsminer.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newsminer.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newsminer.xml)|
 |[Fairness and Accuracy in Reporting](https://palewi.re/docs/news-homepages/sites/fairmediawatch.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fairmediawatch.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/fairmediawatch.xml)|
 |[Fandom](https://palewi.re/docs/news-homepages/sites/getfandom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/getfandom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/getfandom.xml)|
+|[Farmington Daily Times](https://palewi.re/docs/news-homepages/sites/thedailytimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedailytimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thedailytimes.xml)|
 |[Fast Company](https://palewi.re/docs/news-homepages/sites/fastcompany.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fastcompany.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/fastcompany.xml)|
 |[Federalist](https://palewi.re/docs/news-homepages/sites/fdrlst.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fdrlst.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/fdrlst.xml)|
 |[Feet in 2 Worlds](https://palewi.re/docs/news-homepages/sites/fi2w.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fi2w.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/fi2w.xml)|
@@ -6111,11 +7891,16 @@ The most recent homepages from 650 news sites in this country.
 |[Florida Bulldog](https://palewi.re/docs/news-homepages/sites/florida_bulldog.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/florida_bulldog.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/florida_bulldog.xml)|
 |[Florida Phoenix](https://palewi.re/docs/news-homepages/sites/flphoenixnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/flphoenixnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/flphoenixnews.xml)|
 |[Florida Politics](https://palewi.re/docs/news-homepages/sites/fla_pol.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fla_pol.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/fla_pol.xml)|
+|[Florida Times-Union](https://palewi.re/docs/news-homepages/sites/jaxdotcom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jaxdotcom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/jaxdotcom.xml)|
+|[Fond du Lac Reporter](https://palewi.re/docs/news-homepages/sites/fdlreporter.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fdlreporter.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/fdlreporter.xml)|
 |[Forbes](https://palewi.re/docs/news-homepages/sites/forbes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/forbes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/forbes.xml)|
 |[Foreign Policy](https://palewi.re/docs/news-homepages/sites/foreignpolicy.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/foreignpolicy.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/foreignpolicy.xml)|
+|[Fort Collins Coloradoan](https://palewi.re/docs/news-homepages/sites/coloradoan.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/coloradoan.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/coloradoan.xml)|
+|[Fort Myers News-Press](https://palewi.re/docs/news-homepages/sites/thenewspress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thenewspress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thenewspress.xml)|
 |[Fort Worth Report](https://palewi.re/docs/news-homepages/sites/fortworthreport.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fortworthreport.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/fortworthreport.xml)|
 |[Fort Worth Star-Telegram](https://palewi.re/docs/news-homepages/sites/startelegram.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/startelegram.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/startelegram.xml)|
 |[Fortune](https://palewi.re/docs/news-homepages/sites/fortunemagazine.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fortunemagazine.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/fortunemagazine.xml)|
+|[Foster's Daily Democrat](https://palewi.re/docs/news-homepages/sites/fostersdailydem.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fostersdailydem.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/fostersdailydem.xml)|
 |[FOX 11 Los Angeles](https://palewi.re/docs/news-homepages/sites/foxla.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/foxla.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/foxla.xml)|
 |[Fox 12 Oregon](https://palewi.re/docs/news-homepages/sites/fox12oregon.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fox12oregon.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/fox12oregon.xml)|
 |[Fox 31 WFXL-TV](https://palewi.re/docs/news-homepages/sites/wfxl.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wfxl.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wfxl.xml)|
@@ -6127,36 +7912,49 @@ The most recent homepages from 650 news sites in this country.
 |[FOX29 Philly](https://palewi.re/docs/news-homepages/sites/fox29philly.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fox29philly.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/fox29philly.xml)|
 |[Frankfort State Journal](https://palewi.re/docs/news-homepages/sites/statejournal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/statejournal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/statejournal.xml)|
 |[Frederick News-Post](https://palewi.re/docs/news-homepages/sites/frednewspost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/frednewspost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/frednewspost.xml)|
+|[Freeport Journal-Standard](https://palewi.re/docs/news-homepages/sites/journalstandard.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/journalstandard.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/journalstandard.xml)|
 |[Freethink](https://palewi.re/docs/news-homepages/sites/freethinkmedia.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/freethinkmedia.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/freethinkmedia.xml)|
+|[Fremont News Messenger](https://palewi.re/docs/news-homepages/sites/fremontnm.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fremontnm.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/fremontnm.xml)|
 |[Gainesville Sun](https://palewi.re/docs/news-homepages/sites/gainesvillesun.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gainesvillesun.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gainesvillesun.xml)|
 |[Galveston County Daily News](https://palewi.re/docs/news-homepages/sites/galvnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/galvnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/galvnews.xml)|
+|[Gaston Gazette](https://palewi.re/docs/news-homepages/sites/gastongazette.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gastongazette.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gastongazette.xml)|
 |[Gateway Pundit](https://palewi.re/docs/news-homepages/sites/gatewaypundit.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gatewaypundit.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gatewaypundit.xml)|
 |[Gawker](https://palewi.re/docs/news-homepages/sites/gawker.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gawker.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gawker.xml)|
+|[Geneseo Republic](https://palewi.re/docs/news-homepages/sites/gen_republic.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gen_republic.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gen_republic.xml)|
 |[Georgia Public Broadcasting](https://palewi.re/docs/news-homepages/sites/gpbnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gpbnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gpbnews.xml)|
 |[Gig Harbor Now](https://palewi.re/docs/news-homepages/sites/gigharbornow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gigharbornow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gigharbornow.xml)|
 |[Gizmodo](https://palewi.re/docs/news-homepages/sites/gizmodo.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gizmodo.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gizmodo.xml)|
+|[GoErie.com](https://palewi.re/docs/news-homepages/sites/goerie.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/goerie.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/goerie.xml)|
+|[Gonzales Weekly Citizen](https://palewi.re/docs/news-homepages/sites/weeklycitizen.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/weeklycitizen.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/weeklycitizen.xml)|
 |[Gotham Gazettee](https://palewi.re/docs/news-homepages/sites/gothamgazette.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gothamgazette.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gothamgazette.xml)|
 |[Gothamist](https://palewi.re/docs/news-homepages/sites/gothamist.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gothamist.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gothamist.xml)|
 |[Grady Newsource](https://palewi.re/docs/news-homepages/sites/gradynewsource.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gradynewsource.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gradynewsource.xml)|
+|[Great Falls Tribune](https://palewi.re/docs/news-homepages/sites/gftribune.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gftribune.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gftribune.xml)|
 |[Green Bay Press-Gazette](https://palewi.re/docs/news-homepages/sites/gbpressgazette.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gbpressgazette.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gbpressgazette.xml)|
+|[Greenville News](https://palewi.re/docs/news-homepages/sites/greenvillenews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/greenvillenews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/greenvillenews.xml)|
 |[Grid](https://palewi.re/docs/news-homepages/sites/gridnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gridnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gridnews.xml)|
 |[Grio](https://palewi.re/docs/news-homepages/sites/thegrio.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thegrio.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thegrio.xml)|
 |[Grist](https://palewi.re/docs/news-homepages/sites/grist.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/grist.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/grist.xml)|
 |[Gwinnett Daily Post](https://palewi.re/docs/news-homepages/sites/gwinnettdaily.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gwinnettdaily.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gwinnettdaily.xml)|
+|[Hanover Evening Sun](https://palewi.re/docs/news-homepages/sites/theeveningsun.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theeveningsun.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theeveningsun.xml)|
 |[Hardin News-Enterprise](https://palewi.re/docs/news-homepages/sites/neheadlines.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/neheadlines.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/neheadlines.xml)|
 |[Harper’s](https://palewi.re/docs/news-homepages/sites/harpers.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/harpers.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/harpers.xml)|
 |[Hartford Courant](https://palewi.re/docs/news-homepages/sites/hartfordcourant.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hartfordcourant.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hartfordcourant.xml)|
 |[Harvey World Herald](https://palewi.re/docs/news-homepages/sites/hwherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hwherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hwherald.xml)|
+|[Hattiesburg American](https://palewi.re/docs/news-homepages/sites/hburgamerican.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hburgamerican.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hburgamerican.xml)|
 |[Hawaii Public Radio](https://palewi.re/docs/news-homepages/sites/wearehpr.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wearehpr.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wearehpr.xml)|
 |[Hawaii Tribune Herald](https://palewi.re/docs/news-homepages/sites/hitribuneherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hitribuneherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hitribuneherald.xml)|
 |[Hell Gate](https://palewi.re/docs/news-homepages/sites/hellgateny.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hellgateny.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hellgateny.xml)|
 |[Herald Times Reporter](https://palewi.re/docs/news-homepages/sites/htrnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/htrnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/htrnews.xml)|
+|[Herald-Mail Media](https://palewi.re/docs/news-homepages/sites/heraldmailnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/heraldmailnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/heraldmailnews.xml)|
 |[Hidden City Daily](https://palewi.re/docs/news-homepages/sites/hiddencityphila.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hiddencityphila.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hiddencityphila.xml)|
 |[High Country News](https://palewi.re/docs/news-homepages/sites/highcountrynews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/highcountrynews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/highcountrynews.xml)|
+|[hollandsentinel.com](https://palewi.re/docs/news-homepages/sites/hollandsentinel.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hollandsentinel.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hollandsentinel.xml)|
 |[Hollywood Reporter](https://palewi.re/docs/news-homepages/sites/thr.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thr.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thr.xml)|
 |[Honolulu Civil Beat](https://palewi.re/docs/news-homepages/sites/civilbeat.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/civilbeat.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/civilbeat.xml)|
 |[Honolulu Star-Advertiser](https://palewi.re/docs/news-homepages/sites/staradvertiser.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/staradvertiser.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/staradvertiser.xml)|
 |[HotAir](https://palewi.re/docs/news-homepages/sites/hotairblog.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hotairblog.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hotairblog.xml)|
+|[Houma Today](https://palewi.re/docs/news-homepages/sites/houmatoday.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/houmatoday.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/houmatoday.xml)|
 |[Houston Chronicle](https://palewi.re/docs/news-homepages/sites/houstonchron.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/houstonchron.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/houstonchron.xml)|
 |[Huffington Post](https://palewi.re/docs/news-homepages/sites/huffpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/huffpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/huffpost.xml)|
 |[Human Events](https://palewi.re/docs/news-homepages/sites/humanevents.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/humanevents.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/humanevents.xml)|
@@ -6170,8 +7968,11 @@ The most recent homepages from 650 news sites in this country.
 |[Inside Climate News](https://palewi.re/docs/news-homepages/sites/insideclimate.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/insideclimate.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/insideclimate.xml)|
 |[Intercept](https://palewi.re/docs/news-homepages/sites/theintercept.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theintercept.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theintercept.xml)|
 |[InvestigateMidwest](https://palewi.re/docs/news-homepages/sites/the_ccij.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/the_ccij.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/the_ccij.xml)|
+|[Ionia Sentinel-Standard](https://palewi.re/docs/news-homepages/sites/ioniassnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ioniassnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ioniassnews.xml)|
 |[Iowa City Press-Citizen](https://palewi.re/docs/news-homepages/sites/presscitizen.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/presscitizen.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/presscitizen.xml)|
 |[Iowa Public Radio](https://palewi.re/docs/news-homepages/sites/iowapublicradio.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/iowapublicradio.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/iowapublicradio.xml)|
+|[Ithaca Journal](https://palewi.re/docs/news-homepages/sites/ithacajournal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ithacajournal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ithacajournal.xml)|
+|[Jackson Sun](https://palewi.re/docs/news-homepages/sites/jsunnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jsunnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/jsunnews.xml)|
 |[Jacobin](https://palewi.re/docs/news-homepages/sites/jacobin.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jacobin.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/jacobin.xml)|
 |[Jefferson City News Tribune](https://palewi.re/docs/news-homepages/sites/newstribune.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newstribune.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newstribune.xml)|
 |[Jewish Currents](https://palewi.re/docs/news-homepages/sites/jewishcurrents.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jewishcurrents.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/jewishcurrents.xml)|
@@ -6192,6 +7993,7 @@ The most recent homepages from 650 news sites in this country.
 |[KCRG](https://palewi.re/docs/news-homepages/sites/kcrg.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kcrg.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kcrg.xml)|
 |[KCRW](https://palewi.re/docs/news-homepages/sites/kcrw.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kcrw.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kcrw.xml)|
 |[KCUR](https://palewi.re/docs/news-homepages/sites/kcur.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kcur.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kcur.xml)|
+|[Kent Ravenna Record-Courier](https://palewi.re/docs/news-homepages/sites/recordpub.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/recordpub.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/recordpub.xml)|
 |[Kentucky Standard](https://palewi.re/docs/news-homepages/sites/kystandard.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kystandard.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kystandard.xml)|
 |[Kerrville Daily Times](https://palewi.re/docs/news-homepages/sites/kerrville.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kerrville.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kerrville.xml)|
 |[KETV NewsWatch 7](https://palewi.re/docs/news-homepages/sites/ketv.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ketv.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ketv.xml)|
@@ -6199,6 +8001,7 @@ The most recent homepages from 650 news sites in this country.
 |[KHON2 News](https://palewi.re/docs/news-homepages/sites/khonnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/khonnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/khonnews.xml)|
 |[KHOU](https://palewi.re/docs/news-homepages/sites/khou.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/khou.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/khou.xml)|
 |[KING5](https://palewi.re/docs/news-homepages/sites/king5seattle.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/king5seattle.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/king5seattle.xml)|
+|[Kitsap Sun](https://palewi.re/docs/news-homepages/sites/kitsapsun.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kitsapsun.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kitsapsun.xml)|
 |[KITV4](https://palewi.re/docs/news-homepages/sites/kitv4.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kitv4.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kitv4.xml)|
 |[KMTV 3 News Now](https://palewi.re/docs/news-homepages/sites/3newsnowomaha.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/3newsnowomaha.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/3newsnowomaha.xml)|
 |[Knock.LA](https://palewi.re/docs/news-homepages/sites/knockdotla.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/knockdotla.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/knockdotla.xml)|
@@ -6219,11 +8022,17 @@ The most recent homepages from 650 news sites in this country.
 |[L.A. Taco](https://palewi.re/docs/news-homepages/sites/lataco.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lataco.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lataco.xml)|
 |[Labor Notes](https://palewi.re/docs/news-homepages/sites/labornotes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/labornotes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/labornotes.xml)|
 |[LaCrosse Tribune](https://palewi.re/docs/news-homepages/sites/lacrossetribune.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lacrossetribune.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lacrossetribune.xml)|
+|[Lafayette Daily Advertiser](https://palewi.re/docs/news-homepages/sites/theadvertiser.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theadvertiser.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theadvertiser.xml)|
+|[Lafayette Journal & Courier](https://palewi.re/docs/news-homepages/sites/jconline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jconline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/jconline.xml)|
 |[LAist](https://palewi.re/docs/news-homepages/sites/laist.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/laist.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/laist.xml)|
+|[Lancaster Eagle-Gazette](https://palewi.re/docs/news-homepages/sites/eaglegazette.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/eaglegazette.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/eaglegazette.xml)|
+|[Lansing State Journal](https://palewi.re/docs/news-homepages/sites/lsjnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lsjnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lsjnews.xml)|
 |[Las Cruces Sun News](https://palewi.re/docs/news-homepages/sites/crucessunnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/crucessunnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/crucessunnews.xml)|
 |[Las Vegas Review-Journal](https://palewi.re/docs/news-homepages/sites/reviewjournal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reviewjournal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/reviewjournal.xml)|
 |[Las Vegas Sun](https://palewi.re/docs/news-homepages/sites/lasvegassun.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lasvegassun.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lasvegassun.xml)|
 |[Lawrence Journal-World](https://palewi.re/docs/news-homepages/sites/ljworld.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ljworld.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ljworld.xml)|
+|[Lebanon Daily News](https://palewi.re/docs/news-homepages/sites/ldnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ldnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ldnews.xml)|
+|[Leesburg Daily Commercial](https://palewi.re/docs/news-homepages/sites/dailycommercial.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailycommercial.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailycommercial.xml)|
 |[Left Bench](https://palewi.re/docs/news-homepages/sites/theleftbench.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theleftbench.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theleftbench.xml)|
 |[Lens](https://palewi.re/docs/news-homepages/sites/thelensnola.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thelensnola.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thelensnola.xml)|
 |[Lever](https://palewi.re/docs/news-homepages/sites/levernews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/levernews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/levernews.xml)|
@@ -6232,6 +8041,7 @@ The most recent homepages from 650 news sites in this country.
 |[Lincoln Journal Star](https://palewi.re/docs/news-homepages/sites/journalstarnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/journalstarnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/journalstarnews.xml)|
 |[Little Green Footballs](https://palewi.re/docs/news-homepages/sites/green_footballs.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/green_footballs.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/green_footballs.xml)|
 |[Little Village](https://palewi.re/docs/news-homepages/sites/littlevillage.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/littlevillage.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/littlevillage.xml)|
+|[Livingston County Daily Press & Argus](https://palewi.re/docs/news-homepages/sites/livingstondaily.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/livingstondaily.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/livingstondaily.xml)|
 |[Local News Matters](https://palewi.re/docs/news-homepages/sites/bcn_foundation.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bcn_foundation.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bcn_foundation.xml)|
 |[Lookout Santa Cruz](https://palewi.re/docs/news-homepages/sites/lookoutscruz.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lookoutscruz.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lookoutscruz.xml)|
 |[Los Angeles Sentinel](https://palewi.re/docs/news-homepages/sites/thelasentinel.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thelasentinel.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thelasentinel.xml)|
@@ -6240,9 +8050,12 @@ The most recent homepages from 650 news sites in this country.
 |[Lubbock Avalanche-Journal](https://palewi.re/docs/news-homepages/sites/lubbockonline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lubbockonline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lubbockonline.xml)|
 |[MacRumors](https://palewi.re/docs/news-homepages/sites/macrumors.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/macrumors.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/macrumors.xml)|
 |[Maine Monitor](https://palewi.re/docs/news-homepages/sites/mainemonitor.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mainemonitor.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mainemonitor.xml)|
+|[Mansfield News Journal](https://palewi.re/docs/news-homepages/sites/mansfieldnj.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mansfieldnj.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mansfieldnj.xml)|
 |[Marfa Public Radio](https://palewi.re/docs/news-homepages/sites/marfaradio.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/marfaradio.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/marfaradio.xml)|
 |[Marietta Daily Journal](https://palewi.re/docs/news-homepages/sites/mdjonline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mdjonline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mdjonline.xml)|
+|[Marion Star](https://palewi.re/docs/news-homepages/sites/themarionstar.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/themarionstar.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/themarionstar.xml)|
 |[Marshall Project](https://palewi.re/docs/news-homepages/sites/marshallproj.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/marshallproj.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/marshallproj.xml)|
+|[Marshfield News-Herald](https://palewi.re/docs/news-homepages/sites/mnherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mnherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mnherald.xml)|
 |[Maryland Daily Record](https://palewi.re/docs/news-homepages/sites/mddailyrecord.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mddailyrecord.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mddailyrecord.xml)|
 |[Maryland Matters](https://palewi.re/docs/news-homepages/sites/marylandmatters.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/marylandmatters.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/marylandmatters.xml)|
 |[Mashable](https://palewi.re/docs/news-homepages/sites/mashable.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mashable.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mashable.xml)|
@@ -6250,11 +8063,13 @@ The most recent homepages from 650 news sites in this country.
 |[Mediaite](https://palewi.re/docs/news-homepages/sites/mediaite.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mediaite.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mediaite.xml)|
 |[Mendoncino Voice](https://palewi.re/docs/news-homepages/sites/themendovoice.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/themendovoice.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/themendovoice.xml)|
 |[Mercury News](https://palewi.re/docs/news-homepages/sites/mercnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mercnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mercnews.xml)|
+|[MetroWest Daily News](https://palewi.re/docs/news-homepages/sites/metrowestdaily.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/metrowestdaily.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/metrowestdaily.xml)|
 |[mi wisconsin](https://palewi.re/docs/news-homepages/sites/miwisconsin.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/miwisconsin.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/miwisconsin.xml)|
 |[Miami Herald](https://palewi.re/docs/news-homepages/sites/miamiherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/miamiherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/miamiherald.xml)|
 |[Michigan Daily](https://palewi.re/docs/news-homepages/sites/michigandaily.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/michigandaily.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/michigandaily.xml)|
 |[Midland Reporter-Telegram](https://palewi.re/docs/news-homepages/sites/mwtnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mwtnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mwtnews.xml)|
 |[Midnight Sun](https://palewi.re/docs/news-homepages/sites/midnight_sun_ak.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/midnight_sun_ak.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/midnight_sun_ak.xml)|
+|[Milford Daily News](https://palewi.re/docs/news-homepages/sites/milforddaily.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/milforddaily.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/milforddaily.xml)|
 |[Milwaukee Journal Sentinel](https://palewi.re/docs/news-homepages/sites/journalsentinel.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/journalsentinel.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/journalsentinel.xml)|
 |[Minneapolis Star Tribune](https://palewi.re/docs/news-homepages/sites/startribune.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/startribune.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/startribune.xml)|
 |[MinnPost](https://palewi.re/docs/news-homepages/sites/minnpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/minnpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/minnpost.xml)|
@@ -6264,15 +8079,21 @@ The most recent homepages from 650 news sites in this country.
 |[Missouri Independent](https://palewi.re/docs/news-homepages/sites/mo_independent.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mo_independent.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mo_independent.xml)|
 |[MIT Technology Review](https://palewi.re/docs/news-homepages/sites/techreview.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/techreview.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/techreview.xml)|
 |[Mongabay](https://palewi.re/docs/news-homepages/sites/mongabay.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mongabay.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mongabay.xml)|
+|[Monroe News-Star](https://palewi.re/docs/news-homepages/sites/thenewsstar.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thenewsstar.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thenewsstar.xml)|
 |[Montana Free Press](https://palewi.re/docs/news-homepages/sites/mtfreepress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mtfreepress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mtfreepress.xml)|
 |[Montgomery Advertiser](https://palewi.re/docs/news-homepages/sites/mgmadvertiser.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mgmadvertiser.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mgmadvertiser.xml)|
 |[More Perfect Union](https://palewi.re/docs/news-homepages/sites/moreperfectus.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/moreperfectus.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/moreperfectus.xml)|
 |[Morning Brew](https://palewi.re/docs/news-homepages/sites/morningbrew.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/morningbrew.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/morningbrew.xml)|
 |[Mother Jones](https://palewi.re/docs/news-homepages/sites/motherjones.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/motherjones.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/motherjones.xml)|
+|[Mount Shasta Herald](https://palewi.re/docs/news-homepages/sites/mtshastanews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mtshastanews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mtshastanews.xml)|
 |[Mountain State Spotlight](https://palewi.re/docs/news-homepages/sites/mtnstspotlight.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mtnstspotlight.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mtnstspotlight.xml)|
 |[MSN](https://palewi.re/docs/news-homepages/sites/msn.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/msn.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/msn.xml)|
 |[MSNBC](https://palewi.re/docs/news-homepages/sites/msnbc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/msnbc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/msnbc.xml)|
 |[MTV News](https://palewi.re/docs/news-homepages/sites/mtvnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mtvnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mtvnews.xml)|
+|[Muncie Star Press](https://palewi.re/docs/news-homepages/sites/thestarpress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thestarpress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thestarpress.xml)|
+|[Murfreesboro Daily News Journal](https://palewi.re/docs/news-homepages/sites/dnj_com.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dnj_com.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dnj_com.xml)|
+|[Naples Daily News](https://palewi.re/docs/news-homepages/sites/ndn.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ndn.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ndn.xml)|
+|[Nashville Tennessean](https://palewi.re/docs/news-homepages/sites/tennessean.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tennessean.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tennessean.xml)|
 |[National Catholic Reporter](https://palewi.re/docs/news-homepages/sites/ncronline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ncronline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ncronline.xml)|
 |[National Geographic](https://palewi.re/docs/news-homepages/sites/natgeo.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/natgeo.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/natgeo.xml)|
 |[National Journal](https://palewi.re/docs/news-homepages/sites/nationaljournal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nationaljournal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nationaljournal.xml)|
@@ -6285,8 +8106,10 @@ The most recent homepages from 650 news sites in this country.
 |[NBC10 Philadelphia](https://palewi.re/docs/news-homepages/sites/nbcphiladelphia.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbcphiladelphia.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nbcphiladelphia.xml)|
 |[Nebraska Public Media](https://palewi.re/docs/news-homepages/sites/nebpublicmedia.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nebpublicmedia.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nebpublicmedia.xml)|
 |[Nevada Public Radio](https://palewi.re/docs/news-homepages/sites/knprnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/knprnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/knprnews.xml)|
+|[New Bern Sun Journal](https://palewi.re/docs/news-homepages/sites/nbsunjournal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nbsunjournal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nbsunjournal.xml)|
 |[New Hampshire Public Radio](https://palewi.re/docs/news-homepages/sites/nhpr.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nhpr.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nhpr.xml)|
 |[New Haven Register](https://palewi.re/docs/news-homepages/sites/nhregister.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nhregister.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nhregister.xml)|
+|[New Jersey Herald](https://palewi.re/docs/news-homepages/sites/njherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/njherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/njherald.xml)|
 |[New Republic](https://palewi.re/docs/news-homepages/sites/newrepublic.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newrepublic.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newrepublic.xml)|
 |[New York](https://palewi.re/docs/news-homepages/sites/nymag.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nymag.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nymag.xml)|
 |[New York Focus](https://palewi.re/docs/news-homepages/sites/nysfocus.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nysfocus.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nysfocus.xml)|
@@ -6294,6 +8117,7 @@ The most recent homepages from 650 news sites in this country.
 |[New York Review of Books](https://palewi.re/docs/news-homepages/sites/nybooks.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nybooks.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nybooks.xml)|
 |[New York Times](https://palewi.re/docs/news-homepages/sites/nytimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nytimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nytimes.xml)|
 |[New Yorker](https://palewi.re/docs/news-homepages/sites/newyorker.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newyorker.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newyorker.xml)|
+|[Newark Advocate](https://palewi.re/docs/news-homepages/sites/newarkadvocate.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newarkadvocate.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newarkadvocate.xml)|
 |[News & Observer](https://palewi.re/docs/news-homepages/sites/newsobserver.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newsobserver.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newsobserver.xml)|
 |[News 12 NBC 26](https://palewi.re/docs/news-homepages/sites/wrdw_wagt.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wrdw_wagt.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wrdw_wagt.xml)|
 |[News 4](https://palewi.re/docs/news-homepages/sites/kvoa.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kvoa.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kvoa.xml)|
@@ -6305,11 +8129,14 @@ The most recent homepages from 650 news sites in this country.
 |[Next City](https://palewi.re/docs/news-homepages/sites/nextcityorg.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nextcityorg.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nextcityorg.xml)|
 |[Nieman Lab](https://palewi.re/docs/news-homepages/sites/niemanlab.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/niemanlab.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/niemanlab.xml)|
 |[North Texas Daily](https://palewi.re/docs/news-homepages/sites/ntdaily.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ntdaily.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ntdaily.xml)|
+|[northjersey.com](https://palewi.re/docs/news-homepages/sites/northjersey.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/northjersey.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/northjersey.xml)|
 |[Northwest Arkansas Democrat-Gazette](https://palewi.re/docs/news-homepages/sites/nwademgaz.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nwademgaz.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nwademgaz.xml)|
+|[Northwest Florida Daily News](https://palewi.re/docs/news-homepages/sites/nwfdailynews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nwfdailynews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nwfdailynews.xml)|
 |[NPR](https://palewi.re/docs/news-homepages/sites/npr.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/npr.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/npr.xml)|
 |[NY1](https://palewi.re/docs/news-homepages/sites/ny1.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ny1.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ny1.xml)|
 |[Objective](https://palewi.re/docs/news-homepages/sites/objectivejrn.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/objectivejrn.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/objectivejrn.xml)|
 |[Observer-Reporter](https://palewi.re/docs/news-homepages/sites/oronline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oronline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/oronline.xml)|
+|[Ocala StarBanner](https://palewi.re/docs/news-homepages/sites/ocalastarbanner.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ocalastarbanner.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ocalastarbanner.xml)|
 |[Ogden Standard-Examiner](https://palewi.re/docs/news-homepages/sites/standardex.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/standardex.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/standardex.xml)|
 |[Oglethorpe Echo](https://palewi.re/docs/news-homepages/sites/oglethorpe_echo.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oglethorpe_echo.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/oglethorpe_echo.xml)|
 |[okayplayer](https://palewi.re/docs/news-homepages/sites/okayplayer.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/okayplayer.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/okayplayer.xml)|
@@ -6318,18 +8145,29 @@ The most recent homepages from 650 news sites in this country.
 |[Omaha World Herald](https://palewi.re/docs/news-homepages/sites/owhnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/owhnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/owhnews.xml)|
 |[One America News Network](https://palewi.re/docs/news-homepages/sites/oann.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oann.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/oann.xml)|
 |[Onion](https://palewi.re/docs/news-homepages/sites/theonion.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theonion.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theonion.xml)|
+|[Opelousas Daily World](https://palewi.re/docs/news-homepages/sites/the_daily_world.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/the_daily_world.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/the_daily_world.xml)|
 |[Open Vallejo](https://palewi.re/docs/news-homepages/sites/openvallejo.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/openvallejo.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/openvallejo.xml)|
 |[OpenSecrets](https://palewi.re/docs/news-homepages/sites/opensecretsdc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/opensecretsdc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/opensecretsdc.xml)|
 |[Orange County Register](https://palewi.re/docs/news-homepages/sites/ocregister.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ocregister.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ocregister.xml)|
 |[Oregon Capital Chronicle](https://palewi.re/docs/news-homepages/sites/orcapchronicle.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/orcapchronicle.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/orcapchronicle.xml)|
 |[Oregonian](https://palewi.re/docs/news-homepages/sites/oregonian.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oregonian.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/oregonian.xml)|
+|[Oshkosh Northwestern](https://palewi.re/docs/news-homepages/sites/onwnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/onwnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/onwnews.xml)|
 |[Ottumwa Courier](https://palewi.re/docs/news-homepages/sites/ottumwacourier.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ottumwacourier.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ottumwacourier.xml)|
 |[Outlier Media](https://palewi.re/docs/news-homepages/sites/media_outlier.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/media_outlier.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/media_outlier.xml)|
 |[Page Six](https://palewi.re/docs/news-homepages/sites/pagesix.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pagesix.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pagesix.xml)|
+|[Palm Beach Daily News](https://palewi.re/docs/news-homepages/sites/shinysheet.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/shinysheet.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/shinysheet.xml)|
+|[Palm Springs Desert Sun](https://palewi.re/docs/news-homepages/sites/desertsunnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/desertsunnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/desertsunnews.xml)|
+|[Panama City News-Herald](https://palewi.re/docs/news-homepages/sites/the_news_herald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/the_news_herald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/the_news_herald.xml)|
+|[Parsippany Daily Record](https://palewi.re/docs/news-homepages/sites/dailyrecord.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailyrecord.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailyrecord.xml)|
 |[PBS News Hour](https://palewi.re/docs/news-homepages/sites/newshour.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newshour.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newshour.xml)|
 |[Pearl Post](https://palewi.re/docs/news-homepages/sites/thepearlpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thepearlpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thepearlpost.xml)|
+|[Pekin Daily Times](https://palewi.re/docs/news-homepages/sites/pekindailytimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pekindailytimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pekindailytimes.xml)|
 |[Peninsula Press](https://palewi.re/docs/news-homepages/sites/peninsupress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/peninsupress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/peninsupress.xml)|
+|[Pensacola News Journal](https://palewi.re/docs/news-homepages/sites/pnj.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pnj.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pnj.xml)|
 |[People](https://palewi.re/docs/news-homepages/sites/people.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/people.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/people.xml)|
+|[Peoria Journal Star](https://palewi.re/docs/news-homepages/sites/pjstar.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pjstar.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pjstar.xml)|
+|[Perry Chief](https://palewi.re/docs/news-homepages/sites/theperrychief.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theperrychief.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theperrychief.xml)|
+|[Petoskey News-Review](https://palewi.re/docs/news-homepages/sites/petoskeynews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/petoskeynews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/petoskeynews.xml)|
 |[Philadelphia Citizen](https://palewi.re/docs/news-homepages/sites/thephilacitizen.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thephilacitizen.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thephilacitizen.xml)|
 |[Philadelphia Inquirer](https://palewi.re/docs/news-homepages/sites/phillyinquirer.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/phillyinquirer.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/phillyinquirer.xml)|
 |[Philadelphia Tribune](https://palewi.re/docs/news-homepages/sites/phillytrib.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/phillytrib.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/phillytrib.xml)|
@@ -6337,11 +8175,14 @@ The most recent homepages from 650 news sites in this country.
 |[Pittsburgh Institute for Nonprofit Journalism](https://palewi.re/docs/news-homepages/sites/pinjnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pinjnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pinjnews.xml)|
 |[Pittsburgh Post-Gazette](https://palewi.re/docs/news-homepages/sites/pittsburghpg.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pittsburghpg.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pittsburghpg.xml)|
 |[Platformer](https://palewi.re/docs/news-homepages/sites/platformer.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/platformer.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/platformer.xml)|
+|[Pocono Record](https://palewi.re/docs/news-homepages/sites/poconorecord.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/poconorecord.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/poconorecord.xml)|
 |[Point Reyes Light](https://palewi.re/docs/news-homepages/sites/pointreyeslight.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pointreyeslight.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pointreyeslight.xml)|
 |[POLITICO](https://palewi.re/docs/news-homepages/sites/politico.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/politico.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/politico.xml)|
 |[Politifact ](https://palewi.re/docs/news-homepages/sites/politifact.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/politifact.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/politifact.xml)|
+|[Port Clinton News Herald](https://palewi.re/docs/news-homepages/sites/pcnewsherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pcnewsherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pcnewsherald.xml)|
 |[Portland Mercury](https://palewi.re/docs/news-homepages/sites/portlandmercury.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/portlandmercury.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/portlandmercury.xml)|
 |[Post and Courier](https://palewi.re/docs/news-homepages/sites/postandcourier.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/postandcourier.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/postandcourier.xml)|
+|[Poughkeepsie Journal](https://palewi.re/docs/news-homepages/sites/pokjournal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pokjournal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pokjournal.xml)|
 |[Power Line](https://palewi.re/docs/news-homepages/sites/powerlineus.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/powerlineus.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/powerlineus.xml)|
 |[Prism](https://palewi.re/docs/news-homepages/sites/prismreports.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/prismreports.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/prismreports.xml)|
 |[Prison Journalism Project](https://palewi.re/docs/news-homepages/sites/prisonjourn.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/prisonjourn.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/prisonjourn.xml)|
@@ -6357,20 +8198,28 @@ The most recent homepages from 650 news sites in this country.
 |[Real News](https://palewi.re/docs/news-homepages/sites/therealnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/therealnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/therealnews.xml)|
 |[Reason](https://palewi.re/docs/news-homepages/sites/reason.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reason.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/reason.xml)|
 |[Reckon](https://palewi.re/docs/news-homepages/sites/reckonnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reckonnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/reckonnews.xml)|
+|[Redding Record Searchlight](https://palewi.re/docs/news-homepages/sites/breakingnews_rs.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/breakingnews_rs.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/breakingnews_rs.xml)|
 |[RedState](https://palewi.re/docs/news-homepages/sites/redstate.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/redstate.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/redstate.xml)|
 |[Reductress](https://palewi.re/docs/news-homepages/sites/reductress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reductress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/reductress.xml)|
+|[Reno Gazette-Journal](https://palewi.re/docs/news-homepages/sites/rgj.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rgj.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/rgj.xml)|
 |[Rest of World](https://palewi.re/docs/news-homepages/sites/restofworld.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/restofworld.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/restofworld.xml)|
 |[Reuters](https://palewi.re/docs/news-homepages/sites/reuters.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reuters.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/reuters.xml)|
 |[Reveal](https://palewi.re/docs/news-homepages/sites/reveal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reveal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/reveal.xml)|
+|[Richmond Palladium-Item](https://palewi.re/docs/news-homepages/sites/pi_news.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pi_news.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pi_news.xml)|
 |[Richmond Times-Dispatch](https://palewi.re/docs/news-homepages/sites/rtdnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rtdnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/rtdnews.xml)|
 |[Ringer](https://palewi.re/docs/news-homepages/sites/ringer.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ringer.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ringer.xml)|
 |[Riverside Press-Enterprise](https://palewi.re/docs/news-homepages/sites/pressenterprise.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pressenterprise.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pressenterprise.xml)|
+|[Rochester Democrat and Chronicle](https://palewi.re/docs/news-homepages/sites/dandc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dandc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dandc.xml)|
 |[Roll Call](https://palewi.re/docs/news-homepages/sites/rollcall.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rollcall.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/rollcall.xml)|
 |[Rolling Stone](https://palewi.re/docs/news-homepages/sites/rollingstone.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rollingstone.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/rollingstone.xml)|
 |[Rome News-Tribune](https://palewi.re/docs/news-homepages/sites/romenewstribune.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/romenewstribune.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/romenewstribune.xml)|
 |[Root](https://palewi.re/docs/news-homepages/sites/theroot.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theroot.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theroot.xml)|
+|[Ruidoso News](https://palewi.re/docs/news-homepages/sites/ruidosonews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ruidosonews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ruidosonews.xml)|
 |[Sacramento Bee](https://palewi.re/docs/news-homepages/sites/sacbee_news.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sacbee_news.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sacbee_news.xml)|
 |[Sahan Journal](https://palewi.re/docs/news-homepages/sites/sahanjournal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sahanjournal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sahanjournal.xml)|
+|[Salem Statesman Journal](https://palewi.re/docs/news-homepages/sites/salem_statesman.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/salem_statesman.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/salem_statesman.xml)|
+|[Salina Journal](https://palewi.re/docs/news-homepages/sites/salinajournal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/salinajournal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/salinajournal.xml)|
+|[Salisbury Daily Times](https://palewi.re/docs/news-homepages/sites/mydelmarvanow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mydelmarvanow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mydelmarvanow.xml)|
 |[Salon](https://palewi.re/docs/news-homepages/sites/salon.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/salon.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/salon.xml)|
 |[Salt Lake Tribune](https://palewi.re/docs/news-homepages/sites/sltrib.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sltrib.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sltrib.xml)|
 |[San Antonio Express-News](https://palewi.re/docs/news-homepages/sites/expressnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/expressnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/expressnews.xml)|
@@ -6379,38 +8228,54 @@ The most recent homepages from 650 news sites in this country.
 |[San José Spotlight](https://palewi.re/docs/news-homepages/sites/sjspotlight.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sjspotlight.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sjspotlight.xml)|
 |[Santa Cruz Sentinel](https://palewi.re/docs/news-homepages/sites/scsentinel.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/scsentinel.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/scsentinel.xml)|
 |[Santa Fe New Mexican](https://palewi.re/docs/news-homepages/sites/thenewmexican.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thenewmexican.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thenewmexican.xml)|
+|[Sarasota Herald-Tribune](https://palewi.re/docs/news-homepages/sites/heraldtribune.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/heraldtribune.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/heraldtribune.xml)|
 |[Savannah Morning News](https://palewi.re/docs/news-homepages/sites/savannahnow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/savannahnow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/savannahnow.xml)|
 |[SB Nation](https://palewi.re/docs/news-homepages/sites/sbnation.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sbnation.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sbnation.xml)|
 |[Scalawag](https://palewi.re/docs/news-homepages/sites/scalawagmag.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/scalawagmag.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/scalawagmag.xml)|
 |[SCOTUS Blog](https://palewi.re/docs/news-homepages/sites/scotusblog.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/scotusblog.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/scotusblog.xml)|
+|[Seacoastonline.com](https://palewi.re/docs/news-homepages/sites/seacoastonline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/seacoastonline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/seacoastonline.xml)|
 |[Searchlight New Mexico](https://palewi.re/docs/news-homepages/sites/searchlightnm.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/searchlightnm.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/searchlightnm.xml)|
 |[Seattle Times](https://palewi.re/docs/news-homepages/sites/seattletimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/seattletimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/seattletimes.xml)|
 |[Semafor](https://palewi.re/docs/news-homepages/sites/semafor.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/semafor.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/semafor.xml)|
+|[Sheboygan Press](https://palewi.re/docs/news-homepages/sites/sheboyganpress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sheboyganpress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sheboyganpress.xml)|
+|[Shreveport Times](https://palewi.re/docs/news-homepages/sites/shreveporttimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/shreveporttimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/shreveporttimes.xml)|
+|[Silver City Sun News](https://palewi.re/docs/news-homepages/sites/scsunnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/scsunnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/scsunnews.xml)|
+|[Sioux Falls Argus Leader](https://palewi.re/docs/news-homepages/sites/argusleader.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/argusleader.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/argusleader.xml)|
 |[SJV Water](https://palewi.re/docs/news-homepages/sites/sjvwater.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sjvwater.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sjvwater.xml)|
 |[Slate](https://palewi.re/docs/news-homepages/sites/slate.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/slate.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/slate.xml)|
 |[Sludge](https://palewi.re/docs/news-homepages/sites/sludge.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sludge.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sludge.xml)|
 |[Source New Mexico](https://palewi.re/docs/news-homepages/sites/source_nm.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/source_nm.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/source_nm.xml)|
 |[South Hills Almanac](https://palewi.re/docs/news-homepages/sites/shillsalmanac.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/shillsalmanac.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/shillsalmanac.xml)|
 |[South Side Weekly](https://palewi.re/docs/news-homepages/sites/southsideweekly.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/southsideweekly.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/southsideweekly.xml)|
+|[SouthCoastToday.com](https://palewi.re/docs/news-homepages/sites/southcoasttoday.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/southcoasttoday.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/southcoasttoday.xml)|
+|[Southwest Times Record](https://palewi.re/docs/news-homepages/sites/timesrecord.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/timesrecord.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/timesrecord.xml)|
 |[Space News](https://palewi.re/docs/news-homepages/sites/spacenews_inc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/spacenews_inc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/spacenews_inc.xml)|
 |[Space.com](https://palewi.re/docs/news-homepages/sites/spacedotcom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/spacedotcom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/spacedotcom.xml)|
+|[Spartanburg Herald-Journal](https://palewi.re/docs/news-homepages/sites/goupstate.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/goupstate.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/goupstate.xml)|
 |[Spokesman-Review](https://palewi.re/docs/news-homepages/sites/spokesmanreview.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/spokesmanreview.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/spokesmanreview.xml)|
 |[Sports Illustrated](https://palewi.re/docs/news-homepages/sites/sinow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sinow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sinow.xml)|
 |[Spotlight DC](https://palewi.re/docs/news-homepages/sites/spotlight4dc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/spotlight4dc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/spotlight4dc.xml)|
 |[Spotlight PA](https://palewi.re/docs/news-homepages/sites/spotlightpa.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/spotlightpa.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/spotlightpa.xml)|
 |[Springfield Daily Citizen](https://palewi.re/docs/news-homepages/sites/sgfcitizen.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sgfcitizen.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sgfcitizen.xml)|
+|[Springfield News-Leader](https://palewi.re/docs/news-homepages/sites/springfieldnl.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/springfieldnl.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/springfieldnl.xml)|
+|[St. Cloud Times](https://palewi.re/docs/news-homepages/sites/sctimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sctimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sctimes.xml)|
 |[St. Joseph News Press](https://palewi.re/docs/news-homepages/sites/newspressnow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newspressnow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newspressnow.xml)|
 |[St. Louis Post-Dispatch](https://palewi.re/docs/news-homepages/sites/stltoday.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/stltoday.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/stltoday.xml)|
 |[St. Louis Public Radio](https://palewi.re/docs/news-homepages/sites/stlpublicradio.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/stlpublicradio.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/stlpublicradio.xml)|
 |[Stamford Advocate](https://palewi.re/docs/news-homepages/sites/stamadvocate.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/stamadvocate.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/stamadvocate.xml)|
 |[STAT](https://palewi.re/docs/news-homepages/sites/statnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/statnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/statnews.xml)|
+|[Staunton Daily News Leader](https://palewi.re/docs/news-homepages/sites/newsleadernow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newsleadernow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newsleadernow.xml)|
 |[Stevens Point Journal](https://palewi.re/docs/news-homepages/sites/stevenspointjrl.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/stevenspointjrl.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/stevenspointjrl.xml)|
+|[Stockton Record](https://palewi.re/docs/news-homepages/sites/recordnet.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/recordnet.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/recordnet.xml)|
 |[Stories Beneath the Shell](https://palewi.re/docs/news-homepages/sites/umd_sbs.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/umd_sbs.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/umd_sbs.xml)|
 |[Storm Lake Times](https://palewi.re/docs/news-homepages/sites/sltimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sltimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sltimes.xml)|
 |[Strikewave](https://palewi.re/docs/news-homepages/sites/strikewave.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/strikewave.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/strikewave.xml)|
 |[Study Finds](https://palewi.re/docs/news-homepages/sites/studyfindsorg.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/studyfindsorg.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/studyfindsorg.xml)|
+|[Sturgis Journal](https://palewi.re/docs/news-homepages/sites/sturgisnewsroom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sturgisnewsroom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sturgisnewsroom.xml)|
+|[Tallahassee Democrat](https://palewi.re/docs/news-homepages/sites/tdonline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tdonline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tdonline.xml)|
 |[Tampa Bay Times](https://palewi.re/docs/news-homepages/sites/tb_times.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tb_times.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tb_times.xml)|
 |[Task & Purpose](https://palewi.re/docs/news-homepages/sites/taskandpurpose.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/taskandpurpose.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/taskandpurpose.xml)|
+|[Taunton Daily Gazette](https://palewi.re/docs/news-homepages/sites/tauntontogo.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tauntontogo.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tauntontogo.xml)|
 |[TechCrunch](https://palewi.re/docs/news-homepages/sites/techcrunch.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/techcrunch.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/techcrunch.xml)|
 |[TechMeme](https://palewi.re/docs/news-homepages/sites/techmeme.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/techmeme.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/techmeme.xml)|
 |[Teen Vogue](https://palewi.re/docs/news-homepages/sites/teenvogue.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/teenvogue.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/teenvogue.xml)|
@@ -6419,36 +8284,89 @@ The most recent homepages from 650 news sites in this country.
 |[Texas Observer](https://palewi.re/docs/news-homepages/sites/texasobserver.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/texasobserver.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/texasobserver.xml)|
 |[Texas Public Radio](https://palewi.re/docs/news-homepages/sites/tprnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tprnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tprnews.xml)|
 |[Texas Tribune](https://palewi.re/docs/news-homepages/sites/texastribune.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/texastribune.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/texastribune.xml)|
+|[The Alliance Review](https://palewi.re/docs/news-homepages/sites/alliancereview.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/alliancereview.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/alliancereview.xml)|
 |[The Baltimore Sun](https://palewi.re/docs/news-homepages/sites/baltimoresun.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/baltimoresun.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/baltimoresun.xml)|
+|[The Barnstable Patriot](https://palewi.re/docs/news-homepages/sites/barnpat.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/barnpat.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/barnpat.xml)|
+|[The Beaver County Times](https://palewi.re/docs/news-homepages/sites/bctimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bctimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bctimes.xml)|
 |[The Berkeleyside](https://palewi.re/docs/news-homepages/sites/berkeleyside.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/berkeleyside.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/berkeleyside.xml)|
 |[The Brunswick News](https://palewi.re/docs/news-homepages/sites/brunswick_news.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/brunswick_news.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/brunswick_news.xml)|
+|[The Canton Repository](https://palewi.re/docs/news-homepages/sites/cantonrepdotcom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cantonrepdotcom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cantonrepdotcom.xml)|
 |[The City](https://palewi.re/docs/news-homepages/sites/thecityny.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thecityny.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thecityny.xml)|
+|[The Columbus Dispatch](https://palewi.re/docs/news-homepages/sites/dispatchalerts.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dispatchalerts.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dispatchalerts.xml)|
+|[The Courier-Tribune](https://palewi.re/docs/news-homepages/sites/courier_tribune.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/courier_tribune.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/courier_tribune.xml)|
 |[The Cut](https://palewi.re/docs/news-homepages/sites/thecut.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thecut.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thecut.xml)|
+|[The Daily Herald](https://palewi.re/docs/news-homepages/sites/thedailyherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedailyherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thedailyherald.xml)|
+|[The Daily Jeffersonian](https://palewi.re/docs/news-homepages/sites/dailyjeff.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailyjeff.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailyjeff.xml)|
+|[The Daily News - Jacksonville, NC](https://palewi.re/docs/news-homepages/sites/jdnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jdnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/jdnews.xml)|
+|[The Daily Record](https://palewi.re/docs/news-homepages/sites/thedailyrecord.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedailyrecord.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thedailyrecord.xml)|
+|[The Daytona Beach News-Journal](https://palewi.re/docs/news-homepages/sites/dbnewsjournal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dbnewsjournal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dbnewsjournal.xml)|
 |[The Desert Sun](https://palewi.re/docs/news-homepages/sites/mydesert.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mydesert.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mydesert.xml)|
+|[The Destin Log](https://palewi.re/docs/news-homepages/sites/destinlog.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/destinlog.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/destinlog.xml)|
 |[The Diamondback](https://palewi.re/docs/news-homepages/sites/thedbk.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedbk.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thedbk.xml)|
+|[The Dispatch](https://palewi.re/docs/news-homepages/sites/lexdispatch.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lexdispatch.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lexdispatch.xml)|
+|[The Enterprise](https://palewi.re/docs/news-homepages/sites/enterprisenews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/enterprisenews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/enterprisenews.xml)|
+|[The Fall River Herald News](https://palewi.re/docs/news-homepages/sites/hnnow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hnnow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hnnow.xml)|
+|[The Fayetteville Observer](https://palewi.re/docs/news-homepages/sites/fayobserver.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fayobserver.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/fayobserver.xml)|
+|[The Gadsden Times](https://palewi.re/docs/news-homepages/sites/gadsdentimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gadsdentimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gadsdentimes.xml)|
+|[The Galesburg Register-Mail](https://palewi.re/docs/news-homepages/sites/galesburg.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/galesburg.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/galesburg.xml)|
+|[The Gardner News](https://palewi.re/docs/news-homepages/sites/gardner_news.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gardner_news.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gardner_news.xml)|
+|[The Gleaner](https://palewi.re/docs/news-homepages/sites/thegleanernews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thegleanernews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thegleanernews.xml)|
+|[The Hawk Eye](https://palewi.re/docs/news-homepages/sites/thehawkeye.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thehawkeye.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thehawkeye.xml)|
+|[The Herald-Times](https://palewi.re/docs/news-homepages/sites/theheraldtimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theheraldtimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theheraldtimes.xml)|
 |[The Hill](https://palewi.re/docs/news-homepages/sites/thehill.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thehill.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thehill.xml)|
+|[The Hornell Evening Tribune](https://palewi.re/docs/news-homepages/sites/hornelltribune.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hornelltribune.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hornelltribune.xml)|
+|[The Hutchinson News](https://palewi.re/docs/news-homepages/sites/hutchnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hutchnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hutchnews.xml)|
+|[The Indianapolis Star](https://palewi.re/docs/news-homepages/sites/indystar.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/indystar.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/indystar.xml)|
 |[The Information](https://palewi.re/docs/news-homepages/sites/theinformation.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theinformation.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theinformation.xml)|
+|[The Intelligencer](https://palewi.re/docs/news-homepages/sites/theintellnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theintellnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theintellnews.xml)|
+|[The Kinston/Jones Free Press](https://palewi.re/docs/news-homepages/sites/kinstonfp.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kinstonfp.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kinstonfp.xml)|
+|[The Knoxville News-Sentinel](https://palewi.re/docs/news-homepages/sites/knoxnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/knoxnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/knoxnews.xml)|
 |[The LaGrange Daily News](https://palewi.re/docs/news-homepages/sites/lagrangenews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lagrangenews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lagrangenews.xml)|
+|[The Lakeland Ledger](https://palewi.re/docs/news-homepages/sites/theledger.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theledger.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theledger.xml)|
 |[The Ledger-Enquirer](https://palewi.re/docs/news-homepages/sites/ledgerenquirer.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ledgerenquirer.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ledgerenquirer.xml)|
 |[The Markup](https://palewi.re/docs/news-homepages/sites/themarkup.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/themarkup.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/themarkup.xml)|
+|[The Massillon Independent](https://palewi.re/docs/news-homepages/sites/indedotcom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/indedotcom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/indedotcom.xml)|
 |[The Morning Call](https://palewi.re/docs/news-homepages/sites/mcall.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mcall.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mcall.xml)|
 |[The Nation](https://palewi.re/docs/news-homepages/sites/thenation.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thenation.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thenation.xml)|
 |[The Newnan Times-Herald](https://palewi.re/docs/news-homepages/sites/timesherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/timesherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/timesherald.xml)|
+|[The Newport Daily News](https://palewi.re/docs/news-homepages/sites/thenewportdaily.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thenewportdaily.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thenewportdaily.xml)|
+|[The Norwich Bulletin](https://palewi.re/docs/news-homepages/sites/norwichbulletin.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/norwichbulletin.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/norwichbulletin.xml)|
 |[The Oaklandside](https://palewi.re/docs/news-homepages/sites/oaklandside.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oaklandside.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/oaklandside.xml)|
+|[The Palm Beach Post](https://palewi.re/docs/news-homepages/sites/pbpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pbpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pbpost.xml)|
+|[The Patriot Ledger](https://palewi.re/docs/news-homepages/sites/patriotledger.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/patriotledger.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/patriotledger.xml)|
+|[The Progress-Index](https://palewi.re/docs/news-homepages/sites/progressindex.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/progressindex.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/progressindex.xml)|
+|[The Providence Journal](https://palewi.re/docs/news-homepages/sites/projo.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/projo.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/projo.xml)|
+|[The Pueblo Chieftain](https://palewi.re/docs/news-homepages/sites/chieftainnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/chieftainnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/chieftainnews.xml)|
+|[The Register Guard](https://palewi.re/docs/news-homepages/sites/registerguard.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/registerguard.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/registerguard.xml)|
+|[The Salinas Californian](https://palewi.re/docs/news-homepages/sites/salnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/salnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/salnews.xml)|
+|[The San Angelo Standard-Times](https://palewi.re/docs/news-homepages/sites/gosanangelo.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gosanangelo.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gosanangelo.xml)|
+|[The Shelby Star](https://palewi.re/docs/news-homepages/sites/shelbystar.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/shelbystar.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/shelbystar.xml)|
+|[The Siskiyou Daily News](https://palewi.re/docs/news-homepages/sites/siskiyou_daily.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/siskiyou_daily.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/siskiyou_daily.xml)|
 |[The Spectrum](https://palewi.re/docs/news-homepages/sites/spectrumnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/spectrumnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/spectrumnews.xml)|
+|[The St. Augustine Record](https://palewi.re/docs/news-homepages/sites/staugrecord.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/staugrecord.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/staugrecord.xml)|
+|[The State Journal-Register](https://palewi.re/docs/news-homepages/sites/sjrbreaking.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sjrbreaking.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sjrbreaking.xml)|
 |[The Telegraph](https://palewi.re/docs/news-homepages/sites/telegraphga.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/telegraphga.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/telegraphga.xml)|
+|[The Times Telegram](https://palewi.re/docs/news-homepages/sites/timestelegram.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/timestelegram.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/timestelegram.xml)|
 |[The Times-Enterprise](https://palewi.re/docs/news-homepages/sites/timesenterprise.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/timesenterprise.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/timesenterprise.xml)|
+|[The Topeka Capital-Journal](https://palewi.re/docs/news-homepages/sites/cjonline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cjonline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cjonline.xml)|
 |[The TriiBE](https://palewi.re/docs/news-homepages/sites/thetriibe.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thetriibe.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thetriibe.xml)|
 |[The Week](https://palewi.re/docs/news-homepages/sites/theweek.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theweek.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theweek.xml)|
+|[The Westchester County Journal News](https://palewi.re/docs/news-homepages/sites/lohud.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lohud.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lohud.xml)|
 |[Thousand Oaks Acorn](https://palewi.re/docs/news-homepages/sites/toacornnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/toacornnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/toacornnews.xml)|
 |[THV 11](https://palewi.re/docs/news-homepages/sites/thv11.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thv11.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thv11.xml)|
 |[Tifton Gazette](https://palewi.re/docs/news-homepages/sites/tiftongazette1.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tiftongazette1.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tiftongazette1.xml)|
 |[TIME](https://palewi.re/docs/news-homepages/sites/time.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/time.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/time.xml)|
+|[Times Herald-Record](https://palewi.re/docs/news-homepages/sites/recordonline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/recordonline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/recordonline.xml)|
+|[Times Mail](https://palewi.re/docs/news-homepages/sites/times_mail.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/times_mail.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/times_mail.xml)|
+|[Times Record News](https://palewi.re/docs/news-homepages/sites/timesrecordnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/timesrecordnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/timesrecordnews.xml)|
+|[Times Reporter](https://palewi.re/docs/news-homepages/sites/trohio.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/trohio.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/trohio.xml)|
 |[TMZ](https://palewi.re/docs/news-homepages/sites/tmz.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tmz.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tmz.xml)|
 |[TorrentFreak](https://palewi.re/docs/news-homepages/sites/torrentfreak.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/torrentfreak.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/torrentfreak.xml)|
 |[Townhall](https://palewi.re/docs/news-homepages/sites/townhallcom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/townhallcom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/townhallcom.xml)|
 |[TPM](https://palewi.re/docs/news-homepages/sites/tpm.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tpm.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tpm.xml)|
 |[Trace](https://palewi.re/docs/news-homepages/sites/teamtrace.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/teamtrace.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/teamtrace.xml)|
+|[Treasure Coast](https://palewi.re/docs/news-homepages/sites/tcpalm.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tcpalm.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tcpalm.xml)|
+|[Tri-County Independent](https://palewi.re/docs/news-homepages/sites/tci_newsroom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tci_newsroom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tci_newsroom.xml)|
 |[Tributary](https://palewi.re/docs/news-homepages/sites/thejaxtrib.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thejaxtrib.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thejaxtrib.xml)|
 |[Truthout](https://palewi.re/docs/news-homepages/sites/truthout.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/truthout.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/truthout.xml)|
 |[Tucson Sentinel](https://palewi.re/docs/news-homepages/sites/tucsonsentinel.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tucsonsentinel.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tucsonsentinel.xml)|
@@ -6461,6 +8379,7 @@ The most recent homepages from 650 news sites in this country.
 |[Univision News](https://palewi.re/docs/news-homepages/sites/uninoticias.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/uninoticias.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/uninoticias.xml)|
 |[Us Weekly](https://palewi.re/docs/news-homepages/sites/usweekly.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/usweekly.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/usweekly.xml)|
 |[USA Today](https://palewi.re/docs/news-homepages/sites/usatoday.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/usatoday.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/usatoday.xml)|
+|[Utica Observer-Dispatch](https://palewi.re/docs/news-homepages/sites/uticaod.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/uticaod.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/uticaod.xml)|
 |[Uvalde News-Leader](https://palewi.re/docs/news-homepages/sites/uvaldenews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/uvaldenews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/uvaldenews.xml)|
 |[Valdosta Daily Times](https://palewi.re/docs/news-homepages/sites/thevdt.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thevdt.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thevdt.xml)|
 |[Valley Public Radio](https://palewi.re/docs/news-homepages/sites/kvpr.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kvpr.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kvpr.xml)|
@@ -6471,6 +8390,9 @@ The most recent homepages from 650 news sites in this country.
 |[Verge](https://palewi.re/docs/news-homepages/sites/verge.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/verge.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/verge.xml)|
 |[Vertical](https://palewi.re/docs/news-homepages/sites/verticalmag.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/verticalmag.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/verticalmag.xml)|
 |[Vice News](https://palewi.re/docs/news-homepages/sites/vicenews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/vicenews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/vicenews.xml)|
+|[Victorville Daily Press](https://palewi.re/docs/news-homepages/sites/vvdailypress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/vvdailypress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/vvdailypress.xml)|
+|[Vineland Daily Journal](https://palewi.re/docs/news-homepages/sites/thedailyjournal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedailyjournal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thedailyjournal.xml)|
+|[Visalia Times Delta](https://palewi.re/docs/news-homepages/sites/vtdnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/vtdnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/vtdnews.xml)|
 |[Vogue](https://palewi.re/docs/news-homepages/sites/voguemagazine.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/voguemagazine.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/voguemagazine.xml)|
 |[Voice of OC](https://palewi.re/docs/news-homepages/sites/voiceofoc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/voiceofoc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/voiceofoc.xml)|
 |[Voice of San Diego](https://palewi.re/docs/news-homepages/sites/voiceofsandiego.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/voiceofsandiego.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/voiceofsandiego.xml)|
@@ -6487,8 +8409,10 @@ The most recent homepages from 650 news sites in this country.
 |[Washington Post](https://palewi.re/docs/news-homepages/sites/washingtonpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/washingtonpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/washingtonpost.xml)|
 |[Washington Times](https://palewi.re/docs/news-homepages/sites/washtimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/washtimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/washtimes.xml)|
 |[Waterloo-Cedar Falls Courier](https://palewi.re/docs/news-homepages/sites/wcfcourier.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wcfcourier.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wcfcourier.xml)|
+|[Watertown Public Opinion](https://palewi.re/docs/news-homepages/sites/publicopinionsd.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/publicopinionsd.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/publicopinionsd.xml)|
 |[Wausau Daily Herald](https://palewi.re/docs/news-homepages/sites/wausauherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wausauherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wausauherald.xml)|
 |[WAVE](https://palewi.re/docs/news-homepages/sites/wave3news.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wave3news.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wave3news.xml)|
+|[Waynesboro Record Herald](https://palewi.re/docs/news-homepages/sites/therecordherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/therecordherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/therecordherald.xml)|
 |[WBEZ](https://palewi.re/docs/news-homepages/sites/wbez.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wbez.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wbez.xml)|
 |[WBRC FOX6 News](https://palewi.re/docs/news-homepages/sites/wbrcnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wbrcnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wbrcnews.xml)|
 |[WBUR](https://palewi.re/docs/news-homepages/sites/wbur.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wbur.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wbur.xml)|
@@ -6501,8 +8425,11 @@ The most recent homepages from 650 news sites in this country.
 |[WHAS11 News](https://palewi.re/docs/news-homepages/sites/whas11.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/whas11.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/whas11.xml)|
 |[WHYY](https://palewi.re/docs/news-homepages/sites/whyynews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/whyynews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/whyynews.xml)|
 |[Wichita Eagle](https://palewi.re/docs/news-homepages/sites/kansasdotcom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kansasdotcom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kansasdotcom.xml)|
+|[Wicked Local](https://palewi.re/docs/news-homepages/sites/wickedlocal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wickedlocal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wickedlocal.xml)|
+|[Wilmington Star-News](https://palewi.re/docs/news-homepages/sites/starnewsonline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/starnewsonline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/starnewsonline.xml)|
 |[Windows Central](https://palewi.re/docs/news-homepages/sites/windowscentral.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/windowscentral.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/windowscentral.xml)|
 |[Wired](https://palewi.re/docs/news-homepages/sites/wired.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wired.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wired.xml)|
+|[Wisconsin Rapids Daily Tribune](https://palewi.re/docs/news-homepages/sites/wrtribune.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wrtribune.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wrtribune.xml)|
 |[Wisconsin State Journal](https://palewi.re/docs/news-homepages/sites/wistatejournal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wistatejournal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wistatejournal.xml)|
 |[WJBF](https://palewi.re/docs/news-homepages/sites/wjbf.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wjbf.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wjbf.xml)|
 |[WKYT](https://palewi.re/docs/news-homepages/sites/wkyt.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wkyt.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wkyt.xml)|
@@ -6510,6 +8437,7 @@ The most recent homepages from 650 news sites in this country.
 |[WNYC](https://palewi.re/docs/news-homepages/sites/wnyc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wnyc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wnyc.xml)|
 |[WNYT NewsChannel 13](https://palewi.re/docs/news-homepages/sites/wnyt.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wnyt.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wnyt.xml)|
 |[Wonkette](https://palewi.re/docs/news-homepages/sites/wonkette.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wonkette.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wonkette.xml)|
+|[Worcester Telegram & Gazette](https://palewi.re/docs/news-homepages/sites/telegramdotcom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/telegramdotcom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/telegramdotcom.xml)|
 |[WPLG Local 10 News](https://palewi.re/docs/news-homepages/sites/wplglocal10.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wplglocal10.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wplglocal10.xml)|
 |[WRAL](https://palewi.re/docs/news-homepages/sites/wral.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wral.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wral.xml)|
 |[Wrap](https://palewi.re/docs/news-homepages/sites/thewrap.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thewrap.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thewrap.xml)|
@@ -6523,5 +8451,7 @@ The most recent homepages from 650 news sites in this country.
 |[Yahoo Finance](https://palewi.re/docs/news-homepages/sites/yahoofinance.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/yahoofinance.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/yahoofinance.xml)|
 |[Yahoo! News](https://palewi.re/docs/news-homepages/sites/yahoonews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/yahoonews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/yahoonews.xml)|
 |[Yale Daily News](https://palewi.re/docs/news-homepages/sites/yaledailynews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/yaledailynews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/yaledailynews.xml)|
+|[York Daily Record](https://palewi.re/docs/news-homepages/sites/ydrcom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ydrcom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ydrcom.xml)|
 |[York Dispatch](https://palewi.re/docs/news-homepages/sites/yorkdispatch.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/yorkdispatch.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/yorkdispatch.xml)|
+|[Zanesville Times Recorder](https://palewi.re/docs/news-homepages/sites/timesrecorder.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/timesrecorder.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/timesrecorder.xml)|
 |[ZeroHedge](https://palewi.re/docs/news-homepages/sites/zerohedge.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/zerohedge.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/zerohedge.xml)|

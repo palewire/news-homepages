@@ -13,12 +13,12 @@ orphan: true
 | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
 | Site           | [https://www.cincinnati.com/](https://www.cincinnati.com/)                                                                                                                 |
 | RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/enquirer.xml)                                                              |
-| Twitter handle | [@enquirer](https://www.twitter.com/enquirer)                                                                                  |
+| Twitter handle | [@Enquirer](https://www.twitter.com/Enquirer)                                                                                  |
 | Location       | Cincinnati                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
 | Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
 | Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
-
+| Bundles        | <a href="../bundles/ohio.html">Ohio</a>,  <a href="../bundles/gannett.html">Gannett</a>,  <a href="../bundles/kentucky.html">Kentucky</a>,  <a href="../bundles/gannett.html">Gannett</a>,  <a href="../bundles/indiana.html">Indiana</a>,  <a href="../bundles/gannett.html">Gannett</a>  |
 
 
 ## Analysis

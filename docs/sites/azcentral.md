@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | America/Phoenix                                                                                                                              |
 | Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
 | Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
-| Bundles        | <a href="../bundles/arizona.html">Arizona</a>  |
+| Bundles        | <a href="../bundles/arizona.html">Arizona</a>,  <a href="../bundles/gannett.html">Gannett</a>  |
 
 
 ## Analysis

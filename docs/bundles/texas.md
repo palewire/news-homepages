@@ -7,7 +7,7 @@ orphan: true
 
 # Texas
 
-The most recent homepages from 38 news sites in this bundle.
+The most recent homepages from 42 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -36,6 +36,15 @@ The most recent homepages from 38 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/aldiadallas.html">Al Dia Dallas</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/amarilloglobe.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/amarilloglobe.jpg"
+     alt="Amarillo Globe-News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/amarilloglobe.html">Amarillo Globe-News</a></p>
 </div>
 
 <div class="latest-child">
@@ -90,6 +99,15 @@ The most recent homepages from 38 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/cbs7news.html">CBS7</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/callerdotcom.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/callerdotcom.jpg"
+     alt="Corpus Christi Caller Times"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/callerdotcom.html">Corpus Christi Caller Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -327,6 +345,24 @@ The most recent homepages from 38 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/gosanangelo.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gosanangelo.jpg"
+     alt="The San Angelo Standard-Times"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/gosanangelo.html">The San Angelo Standard-Times</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/timesrecordnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/timesrecordnews.jpg"
+     alt="Times Record News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/timesrecordnews.html">Times Record News</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/tylerpaper.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tylerpaper.jpg"
      alt="Tyler Morning Telegraph"
@@ -371,12 +407,14 @@ The most recent homepages from 38 news sites in this bundle.
 |[12 News Now](https://palewi.re/docs/news-homepages/sites/12newsnow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/12newsnow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/12newsnow.xml)|
 |[Abilene Reporter News](https://palewi.re/docs/news-homepages/sites/reporternews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reporternews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/reporternews.xml)|
 |[Al Dia Dallas](https://palewi.re/docs/news-homepages/sites/aldiadallas.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/aldiadallas.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/aldiadallas.xml)|
+|[Amarillo Globe-News](https://palewi.re/docs/news-homepages/sites/amarilloglobe.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/amarilloglobe.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/amarilloglobe.xml)|
 |[Austin Chronicle](https://palewi.re/docs/news-homepages/sites/austinchronicle.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/austinchronicle.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/austinchronicle.xml)|
 |[Austin Statesman](https://palewi.re/docs/news-homepages/sites/statesman.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/statesman.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/statesman.xml)|
 |[Austin Vida](https://palewi.re/docs/news-homepages/sites/austinvida.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/austinvida.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/austinvida.xml)|
 |[Beaumont Enterprise](https://palewi.re/docs/news-homepages/sites/bmtenterprise.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bmtenterprise.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bmtenterprise.xml)|
 |[Breckenridge Texan](https://palewi.re/docs/news-homepages/sites/brecktexan.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/brecktexan.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/brecktexan.xml)|
 |[CBS7](https://palewi.re/docs/news-homepages/sites/cbs7news.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cbs7news.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cbs7news.xml)|
+|[Corpus Christi Caller Times](https://palewi.re/docs/news-homepages/sites/callerdotcom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/callerdotcom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/callerdotcom.xml)|
 |[Dallas Business Journal](https://palewi.re/docs/news-homepages/sites/dallasbiznews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dallasbiznews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dallasbiznews.xml)|
 |[Dallas Free Press](https://palewi.re/docs/news-homepages/sites/dallasfreepress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dallasfreepress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dallasfreepress.xml)|
 |[Dallas Morning News](https://palewi.re/docs/news-homepages/sites/dallasnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dallasnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dallasnews.xml)|
@@ -403,6 +441,8 @@ The most recent homepages from 38 news sites in this bundle.
 |[Texas Observer](https://palewi.re/docs/news-homepages/sites/texasobserver.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/texasobserver.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/texasobserver.xml)|
 |[Texas Public Radio](https://palewi.re/docs/news-homepages/sites/tprnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tprnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tprnews.xml)|
 |[Texas Tribune](https://palewi.re/docs/news-homepages/sites/texastribune.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/texastribune.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/texastribune.xml)|
+|[The San Angelo Standard-Times](https://palewi.re/docs/news-homepages/sites/gosanangelo.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gosanangelo.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gosanangelo.xml)|
+|[Times Record News](https://palewi.re/docs/news-homepages/sites/timesrecordnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/timesrecordnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/timesrecordnews.xml)|
 |[Tyler Morning Telegraph](https://palewi.re/docs/news-homepages/sites/tylerpaper.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tylerpaper.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tylerpaper.xml)|
 |[Uvalde News-Leader](https://palewi.re/docs/news-homepages/sites/uvaldenews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/uvaldenews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/uvaldenews.xml)|
 |[WFAA](https://palewi.re/docs/news-homepages/sites/wfaa.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wfaa.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wfaa.xml)|

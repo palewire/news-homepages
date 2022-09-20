@@ -3,7 +3,7 @@
 
 # Performance ranking
 
-As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. This page ranks the 909 sites with 10 or more observations over the last seven days by median [performance score](https://developer.chrome.com/docs/lighthouse/performance/).
+As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. This page ranks the 908 sites with 10 or more observations over the last seven days by median [performance score](https://developer.chrome.com/docs/lighthouse/performance/).
 
 The value is the weighted average of a basket of speed and efficiency metrics gathered by Lighthouse. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
@@ -781,18 +781,6 @@ Here's a ranking of all sites from best to worst.
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/aug_chronicle.html">
             Augusta Chronicle
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        77
-    </td>
-  </tr>
-  
-  <tr>
-    <td>52</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/enquirer.html">
-            Cincinnati Enquirer
         </a>
     </td>
     <td style="text-align: right; background-color: orange; color: white;">

@@ -7,7 +7,7 @@ orphan: true
 
 # Arkansas
 
-The most recent homepages from 8 news sites in this bundle.
+The most recent homepages from 9 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -75,6 +75,15 @@ The most recent homepages from 8 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/timesrecord.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/timesrecord.jpg"
+     alt="Southwest Times Record"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/timesrecord.html">Southwest Times Record</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/thv11.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thv11.jpg"
      alt="THV 11"
@@ -105,4 +114,5 @@ The most recent homepages from 8 news sites in this bundle.
 |[KATV News](https://palewi.re/docs/news-homepages/sites/katvnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/katvnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/katvnews.xml)|
 |[KUAR](https://palewi.re/docs/news-homepages/sites/kuarpublicradio.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kuarpublicradio.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kuarpublicradio.xml)|
 |[Northwest Arkansas Democrat-Gazette](https://palewi.re/docs/news-homepages/sites/nwademgaz.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nwademgaz.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nwademgaz.xml)|
+|[Southwest Times Record](https://palewi.re/docs/news-homepages/sites/timesrecord.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/timesrecord.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/timesrecord.xml)|
 |[THV 11](https://palewi.re/docs/news-homepages/sites/thv11.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thv11.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thv11.xml)|

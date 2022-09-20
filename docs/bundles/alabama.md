@@ -7,7 +7,7 @@ orphan: true
 
 # Alabama
 
-The most recent homepages from 8 news sites in this bundle.
+The most recent homepages from 9 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -66,6 +66,15 @@ The most recent homepages from 8 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/gadsdentimes.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gadsdentimes.jpg"
+     alt="The Gadsden Times"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/gadsdentimes.html">The Gadsden Times</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/tuscaloosanews.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tuscaloosanews.jpg"
      alt="Tuscaloosa News"
@@ -104,5 +113,6 @@ The most recent homepages from 8 news sites in this bundle.
 |[Alabama Reporter](https://palewi.re/docs/news-homepages/sites/alreporter.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/alreporter.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/alreporter.xml)|
 |[Montgomery Advertiser](https://palewi.re/docs/news-homepages/sites/mgmadvertiser.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mgmadvertiser.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mgmadvertiser.xml)|
 |[Reckon](https://palewi.re/docs/news-homepages/sites/reckonnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reckonnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/reckonnews.xml)|
+|[The Gadsden Times](https://palewi.re/docs/news-homepages/sites/gadsdentimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gadsdentimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gadsdentimes.xml)|
 |[Tuscaloosa News](https://palewi.re/docs/news-homepages/sites/tuscaloosanews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tuscaloosanews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tuscaloosanews.xml)|
 |[WBRC FOX6 News](https://palewi.re/docs/news-homepages/sites/wbrcnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wbrcnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wbrcnews.xml)|

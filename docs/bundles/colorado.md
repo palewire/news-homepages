@@ -7,7 +7,7 @@ orphan: true
 
 # Colorado
 
-The most recent homepages from 10 news sites in this bundle.
+The most recent homepages from 12 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -101,6 +101,24 @@ The most recent homepages from 10 news sites in this bundle.
  <p><a href="../sites/denverite.html">Denverite</a></p>
 </div>
 
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/coloradoan.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/coloradoan.jpg"
+     alt="Fort Collins Coloradoan"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/coloradoan.html">Fort Collins Coloradoan</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/chieftainnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/chieftainnews.jpg"
+     alt="The Pueblo Chieftain"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/chieftainnews.html">The Pueblo Chieftain</a></p>
+</div>
+
 </div>
 
 ## About this bundle
@@ -126,3 +144,5 @@ The most recent homepages from 10 news sites in this bundle.
 |[Denver Post](https://palewi.re/docs/news-homepages/sites/denverpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/denverpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/denverpost.xml)|
 |[Denver7](https://palewi.re/docs/news-homepages/sites/denverchannel.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/denverchannel.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/denverchannel.xml)|
 |[Denverite](https://palewi.re/docs/news-homepages/sites/denverite.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/denverite.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/denverite.xml)|
+|[Fort Collins Coloradoan](https://palewi.re/docs/news-homepages/sites/coloradoan.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/coloradoan.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/coloradoan.xml)|
+|[The Pueblo Chieftain](https://palewi.re/docs/news-homepages/sites/chieftainnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/chieftainnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/chieftainnews.xml)|

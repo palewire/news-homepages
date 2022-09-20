@@ -5,7 +5,7 @@
 
 As part of its archiving routine, our system conducts routine accessibility audits using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. [Accessibility](https://web.dev/what-is-accessibility/) is a measurement of how legible and useful a page is for users, including those with disabilities like visual impairment.
 
-This page ranks the 909 sites with 10 or more observations over the last seven days by median [accessibility score](https://web.dev/lighthouse-accessibility/). The value is the weighted average of a basket of metrics gathered by Lighthouse. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This page ranks the 908 sites with 10 or more observations over the last seven days by median [accessibility score](https://web.dev/lighthouse-accessibility/). The value is the weighted average of a basket of metrics gathered by Lighthouse. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 This past week the median across all sites was 86. Here's the distribution of scores.
 
@@ -5461,18 +5461,6 @@ Here's a ranking of all sites from best to worst.
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/chicagoreporter.html">
             Chicago Reporter
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        86
-    </td>
-  </tr>
-  
-  <tr>
-    <td>433</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/enquirer.html">
-            Cincinnati Enquirer
         </a>
     </td>
     <td style="text-align: right; background-color: orange; color: white;">

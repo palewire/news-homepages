@@ -7,7 +7,7 @@ orphan: true
 
 # Oregon
 
-The most recent homepages from 6 news sites in this bundle.
+The most recent homepages from 8 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -65,6 +65,24 @@ The most recent homepages from 6 news sites in this bundle.
  <p><a href="../sites/portlandmercury.html">Portland Mercury</a></p>
 </div>
 
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/salem_statesman.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/salem_statesman.jpg"
+     alt="Salem Statesman Journal"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/salem_statesman.html">Salem Statesman Journal</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/registerguard.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/registerguard.jpg"
+     alt="The Register Guard"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/registerguard.html">The Register Guard</a></p>
+</div>
+
 </div>
 
 ## About this bundle
@@ -86,3 +104,5 @@ The most recent homepages from 6 news sites in this bundle.
 |[Oregon Capital Chronicle](https://palewi.re/docs/news-homepages/sites/orcapchronicle.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/orcapchronicle.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/orcapchronicle.xml)|
 |[Oregonian](https://palewi.re/docs/news-homepages/sites/oregonian.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oregonian.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/oregonian.xml)|
 |[Portland Mercury](https://palewi.re/docs/news-homepages/sites/portlandmercury.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/portlandmercury.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/portlandmercury.xml)|
+|[Salem Statesman Journal](https://palewi.re/docs/news-homepages/sites/salem_statesman.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/salem_statesman.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/salem_statesman.xml)|
+|[The Register Guard](https://palewi.re/docs/news-homepages/sites/registerguard.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/registerguard.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/registerguard.xml)|
