@@ -6,7 +6,6 @@ import click
 import jinja2
 import numpy as np
 import pandas as pd
-import pytz
 from rich import print
 from rich.progress import track
 from slugify import slugify
@@ -40,19 +39,19 @@ def drudge_ranking():
     links_df = pd.read_csv(
         utils.EXTRACT_DIR / "csv" / "drudge-hyperlinks-analysis.csv",
         usecols=[
-            'domain',
-            'text',
-            'url',
-            'earliest_date',
-            'is_story',
+            "domain",
+            "text",
+            "url",
+            "earliest_date",
+            "is_story",
         ],
         dtype={
-            'domain': str,
-            'text': str,
-            'url': str,
-            'is_story': bool,
+            "domain": str,
+            "text": str,
+            "url": str,
+            "is_story": bool,
         },
-        parse_dates=["earliest_date"]
+        parse_dates=["earliest_date"],
     )
 
     # Filter down to stories
@@ -62,22 +61,26 @@ def drudge_ranking():
     # Total up domains
     domain_df = (
         story_df.groupby("domain")
-            .size()
-            .rename("n")
-            .reset_index()
-            .sort_values("n", ascending=False)
+        .size()
+        .rename("n")
+        .reset_index()
+        .sort_values("n", ascending=False)
     )
-    domain_df['percent'] = round((domain_df.n / domain_df.n.sum()) * 100, 1)
+    domain_df["percent"] = round((domain_df.n / domain_df.n.sum()) * 100, 1)
 
     # Rank
-    domain_df['rank'] = domain_df.n.rank(ascending=False, method="min").astype(int)
+    domain_df["rank"] = domain_df.n.rank(ascending=False, method="min").astype(int)
 
     # Create the page
     context = dict(
         total_sites=len(domain_df),
         total_urls=domain_df.n.sum(),
         days=len(links_df.groupby("earliest_date").url.size()),
-        links_per_day=links_df.groupby("earliest_date").url.size().rename("n").reset_index().n.mean(),
+        links_per_day=links_df.groupby("earliest_date")
+        .url.size()
+        .rename("n")
+        .reset_index()
+        .n.mean(),
         site_list=domain_df.sort_values("n", ascending=False).to_dict(orient="records"),
     )
     _write_template("drudge.md", context)
@@ -323,9 +326,6 @@ def site_detail():
         # Get all the bundles linked to this site
         site["bundle_list"] = [utils.get_bundle(b) for b in site["bundle_list"] if b]
 
-        # Get the site's timezone
-        site_tz = pytz.timezone(site["timezone"])
-
         # Get lighthouse analysis for this site
         lighthouse_analysis = lighthouse_analysis_df[
             lighthouse_analysis_df.handle.str.lower() == site["handle"].lower()
@@ -342,9 +342,9 @@ def site_detail():
         most_recent_screenshots = screenshots.sort_values(
             "mtime", ascending=False
         ).head(12)
-        most_recent_screenshots["local_time"] = most_recent_screenshots.mtime.apply(
-            lambda x: x.astimezone(site_tz)
-        )
+        most_recent_screenshots[
+            "local_time"
+        ] = most_recent_screenshots.mtime.astimezone(site["timezone"])
 
         # Get the hyperlinks for this site
         hyperlinks = hyperlink_df[
@@ -353,8 +353,8 @@ def site_detail():
         most_recent_hyperlinks = hyperlinks.sort_values("mtime", ascending=False).head(
             10
         )
-        most_recent_hyperlinks["local_time"] = most_recent_hyperlinks.mtime.apply(
-            lambda x: x.astimezone(site_tz)
+        most_recent_hyperlinks["local_time"] = most_recent_hyperlinks.mtime.astimezone(
+            site["timezone"]
         )
 
         # Get the accessibility for this site
@@ -364,9 +364,9 @@ def site_detail():
         most_recent_accessibility = accessibility.sort_values(
             "mtime", ascending=False
         ).head(10)
-        most_recent_accessibility["local_time"] = most_recent_accessibility.mtime.apply(
-            lambda x: x.astimezone(site_tz)
-        )
+        most_recent_accessibility[
+            "local_time"
+        ] = most_recent_accessibility.mtime.astimezone(site["timezone"])
 
         # Get the lighthouse for this site
         lighthouse = lighthouse_df[
@@ -375,8 +375,8 @@ def site_detail():
         most_recent_lighthouse = lighthouse.sort_values("mtime", ascending=False).head(
             10
         )
-        most_recent_lighthouse["local_time"] = most_recent_lighthouse.mtime.apply(
-            lambda x: x.astimezone(site_tz)
+        most_recent_lighthouse["local_time"] = most_recent_lighthouse.mtime.astimezone(
+            site["timezone"]
         )
 
         # Render the template
