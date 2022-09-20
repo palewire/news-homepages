@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 75 screenshots with the Internet Archive.
+The archiving routine has saved 91 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-11T09:03:03.994567-04:00.jpg">
-  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-11T09:03:03.994567-04:00.jpg"
-     alt="Real Clear Politics at 2022-09-11 09:03:05-04:00 local time"
+ <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-19T10:04:13.393880-04:00.jpg">
+  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-19T10:04:13.393880-04:00.jpg"
+     alt="Real Clear Politics at 2022-09-19 10:04:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-11T09:03:03.994567-04:00.jpg">September 11 at 9:03 AM</a></p>
+ <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-19T10:04:13.393880-04:00.jpg">September 19 at 10:04 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-10T21:20:02.245943-04:00.jpg">
-  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-10T21:20:02.245943-04:00.jpg"
-     alt="Real Clear Politics at 2022-09-10 21:20:04-04:00 local time"
+ <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-18T22:18:58.963759-04:00.jpg">
+  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-18T22:18:58.963759-04:00.jpg"
+     alt="Real Clear Politics at 2022-09-18 22:19:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-10T21:20:02.245943-04:00.jpg">September 10 at 9:20 PM</a></p>
+ <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-18T22:18:58.963759-04:00.jpg">September 18 at 10:19 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-10T09:04:48.967334-04:00.jpg">
-  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-10T09:04:48.967334-04:00.jpg"
-     alt="Real Clear Politics at 2022-09-10 09:04:50-04:00 local time"
+ <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-18T09:01:31.864069-04:00.jpg">
+  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-18T09:01:31.864069-04:00.jpg"
+     alt="Real Clear Politics at 2022-09-18 09:01:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-10T09:04:48.967334-04:00.jpg">September 10 at 9:04 AM</a></p>
+ <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-18T09:01:31.864069-04:00.jpg">September 18 at 9:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-09T21:23:29.115836-04:00.jpg">
-  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-09T21:23:29.115836-04:00.jpg"
-     alt="Real Clear Politics at 2022-09-09 21:23:30-04:00 local time"
+ <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-17T21:22:52.830031-04:00.jpg">
+  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-17T21:22:52.830031-04:00.jpg"
+     alt="Real Clear Politics at 2022-09-17 21:22:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-09T21:23:29.115836-04:00.jpg">September 9 at 9:23 PM</a></p>
+ <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-17T21:22:52.830031-04:00.jpg">September 17 at 9:22 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-09T09:21:13.876816-04:00.jpg">
-  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-09T09:21:13.876816-04:00.jpg"
-     alt="Real Clear Politics at 2022-09-09 09:21:18-04:00 local time"
+ <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-17T09:02:09.692914-04:00.jpg">
+  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-17T09:02:09.692914-04:00.jpg"
+     alt="Real Clear Politics at 2022-09-17 09:02:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-09T09:21:13.876816-04:00.jpg">September 9 at 9:21 AM</a></p>
+ <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-17T09:02:09.692914-04:00.jpg">September 17 at 9:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-08T21:23:55.364886-04:00.jpg">
-  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-08T21:23:55.364886-04:00.jpg"
-     alt="Real Clear Politics at 2022-09-08 21:23:56-04:00 local time"
+ <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-16T21:15:33.637775-04:00.jpg">
+  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-16T21:15:33.637775-04:00.jpg"
+     alt="Real Clear Politics at 2022-09-16 21:15:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-08T21:23:55.364886-04:00.jpg">September 8 at 9:23 PM</a></p>
+ <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-16T21:15:33.637775-04:00.jpg">September 16 at 9:15 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-08T09:14:46.352137-04:00.jpg">
-  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-08T09:14:46.352137-04:00.jpg"
-     alt="Real Clear Politics at 2022-09-08 09:14:49-04:00 local time"
+ <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-16T09:02:51.334692-04:00.jpg">
+  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-16T09:02:51.334692-04:00.jpg"
+     alt="Real Clear Politics at 2022-09-16 09:02:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-08T09:14:46.352137-04:00.jpg">September 8 at 9:14 AM</a></p>
+ <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-16T09:02:51.334692-04:00.jpg">September 16 at 9:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-07T21:22:11.388850-04:00.jpg">
-  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-07T21:22:11.388850-04:00.jpg"
-     alt="Real Clear Politics at 2022-09-07 21:22:15-04:00 local time"
+ <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-15T21:18:06.501139-04:00.jpg">
+  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-15T21:18:06.501139-04:00.jpg"
+     alt="Real Clear Politics at 2022-09-15 21:18:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-07T21:22:11.388850-04:00.jpg">September 7 at 9:22 PM</a></p>
+ <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-15T21:18:06.501139-04:00.jpg">September 15 at 9:18 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-07T09:48:09.332719-04:00.jpg">
-  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-07T09:48:09.332719-04:00.jpg"
-     alt="Real Clear Politics at 2022-09-07 09:48:10-04:00 local time"
+ <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-15T09:05:10.680845-04:00.jpg">
+  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-15T09:05:10.680845-04:00.jpg"
+     alt="Real Clear Politics at 2022-09-15 09:05:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-07T09:48:09.332719-04:00.jpg">September 7 at 9:48 AM</a></p>
+ <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-15T09:05:10.680845-04:00.jpg">September 15 at 9:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-06T21:18:59.012676-04:00.jpg">
-  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-06T21:18:59.012676-04:00.jpg"
-     alt="Real Clear Politics at 2022-09-06 21:19:04-04:00 local time"
+ <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-14T21:21:46.733847-04:00.jpg">
+  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-14T21:21:46.733847-04:00.jpg"
+     alt="Real Clear Politics at 2022-09-14 21:21:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-06T21:18:59.012676-04:00.jpg">September 6 at 9:19 PM</a></p>
+ <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-14T21:21:46.733847-04:00.jpg">September 14 at 9:21 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-05T21:23:12.635343-04:00.jpg">
-  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-05T21:23:12.635343-04:00.jpg"
-     alt="Real Clear Politics at 2022-09-05 21:23:17-04:00 local time"
+ <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-14T09:09:57.873131-04:00.jpg">
+  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-14T09:09:57.873131-04:00.jpg"
+     alt="Real Clear Politics at 2022-09-14 09:10:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-05T21:23:12.635343-04:00.jpg">September 5 at 9:23 PM</a></p>
+ <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-14T09:09:57.873131-04:00.jpg">September 14 at 9:10 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-05T10:09:16.651233-04:00.jpg">
-  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-05T10:09:16.651233-04:00.jpg"
-     alt="Real Clear Politics at 2022-09-05 10:09:19-04:00 local time"
+ <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-13T21:24:40.959063-04:00.jpg">
+  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-13T21:24:40.959063-04:00.jpg"
+     alt="Real Clear Politics at 2022-09-13 21:24:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-05T10:09:16.651233-04:00.jpg">September 5 at 10:09 AM</a></p>
+ <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-09-13T21:24:40.959063-04:00.jpg">September 13 at 9:24 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 75 hyperlink lists with the Internet Archive.
+The archiving routine has saved 91 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 9:03 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-11T09:03:03.994567-04:00.hyperlinks.json) |
-| [September 10 at 9:20 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-10T21:20:02.245943-04:00.hyperlinks.json) |
-| [September 10 at 9:04 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-10T09:04:48.967334-04:00.hyperlinks.json) |
-| [September 9 at 9:23 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-09T21:23:29.115836-04:00.hyperlinks.json) |
-| [September 9 at 9:21 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-09T09:21:13.876816-04:00.hyperlinks.json) |
-| [September 8 at 9:24 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-08T21:23:55.364886-04:00.hyperlinks.json) |
-| [September 8 at 9:14 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-08T09:14:46.352137-04:00.hyperlinks.json) |
-| [September 7 at 9:22 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-07T21:22:11.388850-04:00.hyperlinks.json) |
-| [September 7 at 9:48 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-07T09:48:09.332719-04:00.hyperlinks.json) |
-| [September 6 at 9:19 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-06T21:18:59.012676-04:00.hyperlinks.json) |
+| [September 19 at 10:04 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-19T10:04:13.393880-04:00.hyperlinks.json) |
+| [September 18 at 10:19 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-18T22:18:58.963759-04:00.hyperlinks.json) |
+| [September 18 at 9:01 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-18T09:01:31.864069-04:00.hyperlinks.json) |
+| [September 17 at 9:23 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-17T21:22:52.830031-04:00.hyperlinks.json) |
+| [September 17 at 9:02 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-17T09:02:09.692914-04:00.hyperlinks.json) |
+| [September 16 at 9:15 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-16T21:15:33.637775-04:00.hyperlinks.json) |
+| [September 16 at 9:02 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-16T09:02:51.334692-04:00.hyperlinks.json) |
+| [September 15 at 9:18 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-15T21:18:06.501139-04:00.hyperlinks.json) |
+| [September 15 at 9:05 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-15T09:05:10.680845-04:00.hyperlinks.json) |
+| [September 14 at 9:21 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-14T21:21:46.733847-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 75 accessibility trees with the Internet Archive.
+The archiving routine has saved 91 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,16 +427,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 9:03 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-11T09:03:03.994567-04:00.accessibility.json) |
-| [September 10 at 9:20 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-10T21:20:02.245943-04:00.accessibility.json) |
-| [September 10 at 9:04 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-10T09:04:48.967334-04:00.accessibility.json) |
-| [September 9 at 9:23 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-09T21:23:29.115836-04:00.accessibility.json) |
-| [September 9 at 9:21 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-09T09:21:13.876816-04:00.accessibility.json) |
-| [September 8 at 9:23 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-08T21:23:55.364886-04:00.accessibility.json) |
-| [September 8 at 9:14 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-08T09:14:46.352137-04:00.accessibility.json) |
-| [September 7 at 9:22 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-07T21:22:11.388850-04:00.accessibility.json) |
-| [September 7 at 9:48 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-07T09:48:09.332719-04:00.accessibility.json) |
-| [September 6 at 9:19 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-06T21:18:59.012676-04:00.accessibility.json) |
+| [September 19 at 10:04 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-19T10:04:13.393880-04:00.accessibility.json) |
+| [September 18 at 10:19 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-18T22:18:58.963759-04:00.accessibility.json) |
+| [September 18 at 9:01 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-18T09:01:31.864069-04:00.accessibility.json) |
+| [September 17 at 9:23 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-17T21:22:52.830031-04:00.accessibility.json) |
+| [September 17 at 9:02 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-17T09:02:09.692914-04:00.accessibility.json) |
+| [September 16 at 9:15 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-16T21:15:33.637775-04:00.accessibility.json) |
+| [September 16 at 9:02 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-16T09:02:51.334692-04:00.accessibility.json) |
+| [September 15 at 9:18 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-15T21:18:06.501139-04:00.accessibility.json) |
+| [September 15 at 9:05 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-15T09:05:10.680845-04:00.accessibility.json) |
+| [September 14 at 9:21 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-09-14T21:21:46.733847-04:00.accessibility.json) |
 
 
 

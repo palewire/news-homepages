@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 45 screenshots with the Internet Archive.
+The archiving routine has saved 61 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-11T06:57:48.290614-04:00.jpg">
-  <img src="https://archive.org/download/dronedj-2022/dronedj-2022-09-11T06:57:48.290614-04:00.jpg"
-     alt="Drone DJ at 2022-09-11 06:57:53-04:00 local time"
+ <a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-19T07:53:32.846262-04:00.jpg">
+  <img src="https://archive.org/download/dronedj-2022/dronedj-2022-09-19T07:53:32.846262-04:00.jpg"
+     alt="Drone DJ at 2022-09-19 07:53:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-11T06:57:48.290614-04:00.jpg">September 11 at 6:57 AM</a></p>
+ <p><a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-19T07:53:32.846262-04:00.jpg">September 19 at 7:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-10T19:11:31.013749-04:00.jpg">
-  <img src="https://archive.org/download/dronedj-2022/dronedj-2022-09-10T19:11:31.013749-04:00.jpg"
-     alt="Drone DJ at 2022-09-10 19:11:36-04:00 local time"
+ <a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-18T19:44:37.923275-04:00.jpg">
+  <img src="https://archive.org/download/dronedj-2022/dronedj-2022-09-18T19:44:37.923275-04:00.jpg"
+     alt="Drone DJ at 2022-09-18 19:44:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-10T19:11:31.013749-04:00.jpg">September 10 at 7:11 PM</a></p>
+ <p><a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-18T19:44:37.923275-04:00.jpg">September 18 at 7:44 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-10T06:57:11.648321-04:00.jpg">
-  <img src="https://archive.org/download/dronedj-2022/dronedj-2022-09-10T06:57:11.648321-04:00.jpg"
-     alt="Drone DJ at 2022-09-10 06:57:14-04:00 local time"
+ <a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-18T07:55:12.844765-04:00.jpg">
+  <img src="https://archive.org/download/dronedj-2022/dronedj-2022-09-18T07:55:12.844765-04:00.jpg"
+     alt="Drone DJ at 2022-09-18 07:55:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-10T06:57:11.648321-04:00.jpg">September 10 at 6:57 AM</a></p>
+ <p><a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-18T07:55:12.844765-04:00.jpg">September 18 at 7:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-09T19:08:38.012462-04:00.jpg">
-  <img src="https://archive.org/download/dronedj-2022/dronedj-2022-09-09T19:08:38.012462-04:00.jpg"
-     alt="Drone DJ at 2022-09-09 19:08:40-04:00 local time"
+ <a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-17T19:48:40.898650-04:00.jpg">
+  <img src="https://archive.org/download/dronedj-2022/dronedj-2022-09-17T19:48:40.898650-04:00.jpg"
+     alt="Drone DJ at 2022-09-17 19:48:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-09T19:08:38.012462-04:00.jpg">September 9 at 7:08 PM</a></p>
+ <p><a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-17T19:48:40.898650-04:00.jpg">September 17 at 7:48 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-09T07:08:41.545763-04:00.jpg">
-  <img src="https://archive.org/download/dronedj-2022/dronedj-2022-09-09T07:08:41.545763-04:00.jpg"
-     alt="Drone DJ at 2022-09-09 07:08:44-04:00 local time"
+ <a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-17T07:56:28.039044-04:00.jpg">
+  <img src="https://archive.org/download/dronedj-2022/dronedj-2022-09-17T07:56:28.039044-04:00.jpg"
+     alt="Drone DJ at 2022-09-17 07:56:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-09T07:08:41.545763-04:00.jpg">September 9 at 7:08 AM</a></p>
+ <p><a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-17T07:56:28.039044-04:00.jpg">September 17 at 7:56 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-08T20:01:40.584051-04:00.jpg">
-  <img src="https://archive.org/download/dronedj-2022/dronedj-2022-09-08T20:01:40.584051-04:00.jpg"
-     alt="Drone DJ at 2022-09-08 20:01:44-04:00 local time"
+ <a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-16T19:48:27.331004-04:00.jpg">
+  <img src="https://archive.org/download/dronedj-2022/dronedj-2022-09-16T19:48:27.331004-04:00.jpg"
+     alt="Drone DJ at 2022-09-16 19:48:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-08T20:01:40.584051-04:00.jpg">September 8 at 8:01 PM</a></p>
+ <p><a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-16T19:48:27.331004-04:00.jpg">September 16 at 7:48 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-08T07:06:56.049795-04:00.jpg">
-  <img src="https://archive.org/download/dronedj-2022/dronedj-2022-09-08T07:06:56.049795-04:00.jpg"
-     alt="Drone DJ at 2022-09-08 07:06:58-04:00 local time"
+ <a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-16T07:55:45.036649-04:00.jpg">
+  <img src="https://archive.org/download/dronedj-2022/dronedj-2022-09-16T07:55:45.036649-04:00.jpg"
+     alt="Drone DJ at 2022-09-16 07:55:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-08T07:06:56.049795-04:00.jpg">September 8 at 7:06 AM</a></p>
+ <p><a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-16T07:55:45.036649-04:00.jpg">September 16 at 7:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-07T19:02:32.420704-04:00.jpg">
-  <img src="https://archive.org/download/dronedj-2022/dronedj-2022-09-07T19:02:32.420704-04:00.jpg"
-     alt="Drone DJ at 2022-09-07 19:02:37-04:00 local time"
+ <a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-15T19:47:50.180747-04:00.jpg">
+  <img src="https://archive.org/download/dronedj-2022/dronedj-2022-09-15T19:47:50.180747-04:00.jpg"
+     alt="Drone DJ at 2022-09-15 19:47:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-07T19:02:32.420704-04:00.jpg">September 7 at 7:02 PM</a></p>
+ <p><a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-15T19:47:50.180747-04:00.jpg">September 15 at 7:47 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-07T08:17:44.209623-04:00.jpg">
-  <img src="https://archive.org/download/dronedj-2022/dronedj-2022-09-07T08:17:44.209623-04:00.jpg"
-     alt="Drone DJ at 2022-09-07 08:17:48-04:00 local time"
+ <a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-15T07:56:59.764746-04:00.jpg">
+  <img src="https://archive.org/download/dronedj-2022/dronedj-2022-09-15T07:56:59.764746-04:00.jpg"
+     alt="Drone DJ at 2022-09-15 07:57:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-07T08:17:44.209623-04:00.jpg">September 7 at 8:17 AM</a></p>
+ <p><a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-15T07:56:59.764746-04:00.jpg">September 15 at 7:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-06T19:09:31.633714-04:00.jpg">
-  <img src="https://archive.org/download/dronedj-2022/dronedj-2022-09-06T19:09:31.633714-04:00.jpg"
-     alt="Drone DJ at 2022-09-06 19:09:34-04:00 local time"
+ <a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-14T19:55:49.735493-04:00.jpg">
+  <img src="https://archive.org/download/dronedj-2022/dronedj-2022-09-14T19:55:49.735493-04:00.jpg"
+     alt="Drone DJ at 2022-09-14 19:55:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-06T19:09:31.633714-04:00.jpg">September 6 at 7:09 PM</a></p>
+ <p><a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-14T19:55:49.735493-04:00.jpg">September 14 at 7:55 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-06T06:58:21.731958-04:00.jpg">
-  <img src="https://archive.org/download/dronedj-2022/dronedj-2022-09-06T06:58:21.731958-04:00.jpg"
-     alt="Drone DJ at 2022-09-06 06:58:23-04:00 local time"
+ <a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-14T07:58:30.382811-04:00.jpg">
+  <img src="https://archive.org/download/dronedj-2022/dronedj-2022-09-14T07:58:30.382811-04:00.jpg"
+     alt="Drone DJ at 2022-09-14 07:58:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-06T06:58:21.731958-04:00.jpg">September 6 at 6:58 AM</a></p>
+ <p><a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-14T07:58:30.382811-04:00.jpg">September 14 at 7:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-05T19:04:26.213550-04:00.jpg">
-  <img src="https://archive.org/download/dronedj-2022/dronedj-2022-09-05T19:04:26.213550-04:00.jpg"
-     alt="Drone DJ at 2022-09-05 19:04:29-04:00 local time"
+ <a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-13T19:53:35.526344-04:00.jpg">
+  <img src="https://archive.org/download/dronedj-2022/dronedj-2022-09-13T19:53:35.526344-04:00.jpg"
+     alt="Drone DJ at 2022-09-13 19:53:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-05T19:04:26.213550-04:00.jpg">September 5 at 7:04 PM</a></p>
+ <p><a href="https://archive.org/download/dronedj-2022/dronedj-2022-09-13T19:53:35.526344-04:00.jpg">September 13 at 7:53 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 45 hyperlink lists with the Internet Archive.
+The archiving routine has saved 61 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 6:57 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-11T06:57:48.290614-04:00.hyperlinks.json) |
-| [September 10 at 7:11 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-10T19:11:31.013749-04:00.hyperlinks.json) |
-| [September 10 at 6:57 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-10T06:57:11.648321-04:00.hyperlinks.json) |
-| [September 9 at 7:08 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-09T19:08:38.012462-04:00.hyperlinks.json) |
-| [September 9 at 7:08 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-09T07:08:41.545763-04:00.hyperlinks.json) |
-| [September 8 at 8:01 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-08T20:01:40.584051-04:00.hyperlinks.json) |
-| [September 8 at 7:07 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-08T07:06:56.049795-04:00.hyperlinks.json) |
-| [September 7 at 7:02 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-07T19:02:32.420704-04:00.hyperlinks.json) |
-| [September 7 at 8:17 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-07T08:17:44.209623-04:00.hyperlinks.json) |
-| [September 6 at 7:09 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-06T19:09:31.633714-04:00.hyperlinks.json) |
+| [September 19 at 7:53 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-19T07:53:32.846262-04:00.hyperlinks.json) |
+| [September 18 at 7:44 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-18T19:44:37.923275-04:00.hyperlinks.json) |
+| [September 18 at 7:55 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-18T07:55:12.844765-04:00.hyperlinks.json) |
+| [September 17 at 7:48 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-17T19:48:40.898650-04:00.hyperlinks.json) |
+| [September 17 at 7:56 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-17T07:56:28.039044-04:00.hyperlinks.json) |
+| [September 16 at 7:48 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-16T19:48:27.331004-04:00.hyperlinks.json) |
+| [September 16 at 7:55 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-16T07:55:45.036649-04:00.hyperlinks.json) |
+| [September 15 at 7:47 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-15T19:47:50.180747-04:00.hyperlinks.json) |
+| [September 15 at 7:57 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-15T07:56:59.764746-04:00.hyperlinks.json) |
+| [September 14 at 7:55 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-14T19:55:49.735493-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 45 accessibility trees with the Internet Archive.
+The archiving routine has saved 61 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 6:57 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-11T06:57:48.290614-04:00.accessibility.json) |
-| [September 10 at 7:11 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-10T19:11:31.013749-04:00.accessibility.json) |
-| [September 10 at 6:57 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-10T06:57:11.648321-04:00.accessibility.json) |
-| [September 9 at 7:08 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-09T19:08:38.012462-04:00.accessibility.json) |
-| [September 9 at 7:08 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-09T07:08:41.545763-04:00.accessibility.json) |
-| [September 8 at 8:01 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-08T20:01:40.584051-04:00.accessibility.json) |
-| [September 8 at 7:06 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-08T07:06:56.049795-04:00.accessibility.json) |
-| [September 7 at 7:02 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-07T19:02:32.420704-04:00.accessibility.json) |
-| [September 7 at 8:17 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-07T08:17:44.209623-04:00.accessibility.json) |
-| [September 6 at 7:09 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-06T19:09:31.633714-04:00.accessibility.json) |
+| [September 19 at 7:53 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-19T07:53:32.846262-04:00.accessibility.json) |
+| [September 18 at 7:44 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-18T19:44:37.923275-04:00.accessibility.json) |
+| [September 18 at 7:55 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-18T07:55:12.844765-04:00.accessibility.json) |
+| [September 17 at 7:48 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-17T19:48:40.898650-04:00.accessibility.json) |
+| [September 17 at 7:56 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-17T07:56:28.039044-04:00.accessibility.json) |
+| [September 16 at 7:48 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-16T19:48:27.331004-04:00.accessibility.json) |
+| [September 16 at 7:55 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-16T07:55:45.036649-04:00.accessibility.json) |
+| [September 15 at 7:47 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-15T19:47:50.180747-04:00.accessibility.json) |
+| [September 15 at 7:57 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-15T07:56:59.764746-04:00.accessibility.json) |
+| [September 14 at 7:55 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-14T19:55:49.735493-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 61 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 6:57 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-11T06:57:48.290614-04:00.lighthouse.json) |
-| [September 10 at 7:11 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-10T19:11:31.013749-04:00.lighthouse.json) |
-| [September 10 at 6:57 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-10T06:57:11.648321-04:00.lighthouse.json) |
-| [September 9 at 7:08 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-09T19:08:38.012462-04:00.lighthouse.json) |
-| [September 9 at 7:08 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-09T07:08:41.545763-04:00.lighthouse.json) |
-| [September 8 at 8:01 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-08T20:01:40.584051-04:00.lighthouse.json) |
-| [September 8 at 7:07 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-08T07:06:56.049795-04:00.lighthouse.json) |
-| [September 7 at 7:02 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-07T19:02:32.420704-04:00.lighthouse.json) |
-| [September 7 at 8:17 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-07T08:17:44.209623-04:00.lighthouse.json) |
-| [September 6 at 7:09 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-06T19:09:31.633714-04:00.lighthouse.json) |
+| [September 19 at 7:53 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-19T07:53:32.846262-04:00.lighthouse.json) |
+| [September 18 at 7:44 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-18T19:44:37.923275-04:00.lighthouse.json) |
+| [September 18 at 7:55 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-18T07:55:12.844765-04:00.lighthouse.json) |
+| [September 17 at 7:48 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-17T19:48:40.898650-04:00.lighthouse.json) |
+| [September 17 at 7:56 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-17T07:56:28.039044-04:00.lighthouse.json) |
+| [September 16 at 7:48 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-16T19:48:27.331004-04:00.lighthouse.json) |
+| [September 16 at 7:55 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-16T07:55:45.036649-04:00.lighthouse.json) |
+| [September 15 at 7:47 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-15T19:47:50.180747-04:00.lighthouse.json) |
+| [September 15 at 7:57 AM](https://archive.org/download/dronedj-2022/dronedj-2022-09-15T07:56:59.764746-04:00.lighthouse.json) |
+| [September 14 at 7:55 PM](https://archive.org/download/dronedj-2022/dronedj-2022-09-14T19:55:49.735493-04:00.lighthouse.json) |
 
 
 

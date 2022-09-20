@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 87 screenshots with the Internet Archive.
+The archiving routine has saved 103 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-11T09:16:41.855942-05:00.jpg">
-  <img src="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-11T09:16:41.855942-05:00.jpg"
-     alt="6 News WOWT at 2022-09-11 09:16:47-05:00 local time"
+ <a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-19T10:02:19.047385-05:00.jpg">
+  <img src="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-19T10:02:19.047385-05:00.jpg"
+     alt="6 News WOWT at 2022-09-19 10:02:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-11T09:16:41.855942-05:00.jpg">September 11 at 9:16 AM</a></p>
+ <p><a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-19T10:02:19.047385-05:00.jpg">September 19 at 10:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-10T21:31:37.293046-05:00.jpg">
-  <img src="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-10T21:31:37.293046-05:00.jpg"
-     alt="6 News WOWT at 2022-09-10 21:31:42-05:00 local time"
+ <a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-18T22:44:56.312395-05:00.jpg">
+  <img src="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-18T22:44:56.312395-05:00.jpg"
+     alt="6 News WOWT at 2022-09-18 22:44:57-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-10T21:31:37.293046-05:00.jpg">September 10 at 9:31 PM</a></p>
+ <p><a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-18T22:44:56.312395-05:00.jpg">September 18 at 10:44 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-10T09:16:26.541755-05:00.jpg">
-  <img src="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-10T09:16:26.541755-05:00.jpg"
-     alt="6 News WOWT at 2022-09-10 09:16:38-05:00 local time"
+ <a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-18T09:05:49.426373-05:00.jpg">
+  <img src="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-18T09:05:49.426373-05:00.jpg"
+     alt="6 News WOWT at 2022-09-18 09:05:50-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-10T09:16:26.541755-05:00.jpg">September 10 at 9:16 AM</a></p>
+ <p><a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-18T09:05:49.426373-05:00.jpg">September 18 at 9:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-09T21:31:53.208316-05:00.jpg">
-  <img src="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-09T21:31:53.208316-05:00.jpg"
-     alt="6 News WOWT at 2022-09-09 21:31:56-05:00 local time"
+ <a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-17T21:30:54.267331-05:00.jpg">
+  <img src="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-17T21:30:54.267331-05:00.jpg"
+     alt="6 News WOWT at 2022-09-17 21:30:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-09T21:31:53.208316-05:00.jpg">September 9 at 9:31 PM</a></p>
+ <p><a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-17T21:30:54.267331-05:00.jpg">September 17 at 9:30 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-09T09:38:55.474220-05:00.jpg">
-  <img src="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-09T09:38:55.474220-05:00.jpg"
-     alt="6 News WOWT at 2022-09-09 09:38:58-05:00 local time"
+ <a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-17T09:03:20.366113-05:00.jpg">
+  <img src="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-17T09:03:20.366113-05:00.jpg"
+     alt="6 News WOWT at 2022-09-17 09:03:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-09T09:38:55.474220-05:00.jpg">September 9 at 9:38 AM</a></p>
+ <p><a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-17T09:03:20.366113-05:00.jpg">September 17 at 9:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-08T21:34:11.410582-05:00.jpg">
-  <img src="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-08T21:34:11.410582-05:00.jpg"
-     alt="6 News WOWT at 2022-09-08 21:34:16-05:00 local time"
+ <a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-16T21:28:02.884162-05:00.jpg">
+  <img src="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-16T21:28:02.884162-05:00.jpg"
+     alt="6 News WOWT at 2022-09-16 21:28:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-08T21:34:11.410582-05:00.jpg">September 8 at 9:34 PM</a></p>
+ <p><a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-16T21:28:02.884162-05:00.jpg">September 16 at 9:28 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-08T09:29:37.566344-05:00.jpg">
-  <img src="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-08T09:29:37.566344-05:00.jpg"
-     alt="6 News WOWT at 2022-09-08 09:29:39-05:00 local time"
+ <a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-16T09:09:56.428754-05:00.jpg">
+  <img src="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-16T09:09:56.428754-05:00.jpg"
+     alt="6 News WOWT at 2022-09-16 09:10:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-08T09:29:37.566344-05:00.jpg">September 8 at 9:29 AM</a></p>
+ <p><a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-16T09:09:56.428754-05:00.jpg">September 16 at 9:10 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-07T21:39:26.744114-05:00.jpg">
-  <img src="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-07T21:39:26.744114-05:00.jpg"
-     alt="6 News WOWT at 2022-09-07 21:39:34-05:00 local time"
+ <a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-15T21:29:19.926996-05:00.jpg">
+  <img src="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-15T21:29:19.926996-05:00.jpg"
+     alt="6 News WOWT at 2022-09-15 21:29:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-07T21:39:26.744114-05:00.jpg">September 7 at 9:39 PM</a></p>
+ <p><a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-15T21:29:19.926996-05:00.jpg">September 15 at 9:29 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-07T10:34:54.087991-05:00.jpg">
-  <img src="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-07T10:34:54.087991-05:00.jpg"
-     alt="6 News WOWT at 2022-09-07 10:35:00-05:00 local time"
+ <a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-15T09:16:34.450721-05:00.jpg">
+  <img src="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-15T09:16:34.450721-05:00.jpg"
+     alt="6 News WOWT at 2022-09-15 09:16:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-07T10:34:54.087991-05:00.jpg">September 7 at 10:35 AM</a></p>
+ <p><a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-15T09:16:34.450721-05:00.jpg">September 15 at 9:16 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-06T21:36:45.867781-05:00.jpg">
-  <img src="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-06T21:36:45.867781-05:00.jpg"
-     alt="6 News WOWT at 2022-09-06 21:36:49-05:00 local time"
+ <a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-14T21:31:39.125549-05:00.jpg">
+  <img src="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-14T21:31:39.125549-05:00.jpg"
+     alt="6 News WOWT at 2022-09-14 21:31:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-06T21:36:45.867781-05:00.jpg">September 6 at 9:36 PM</a></p>
+ <p><a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-14T21:31:39.125549-05:00.jpg">September 14 at 9:31 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-05T21:31:35.918308-05:00.jpg">
-  <img src="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-05T21:31:35.918308-05:00.jpg"
-     alt="6 News WOWT at 2022-09-05 21:31:39-05:00 local time"
+ <a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-14T09:17:32.552331-05:00.jpg">
+  <img src="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-14T09:17:32.552331-05:00.jpg"
+     alt="6 News WOWT at 2022-09-14 09:17:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-05T21:31:35.918308-05:00.jpg">September 5 at 9:31 PM</a></p>
+ <p><a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-14T09:17:32.552331-05:00.jpg">September 14 at 9:17 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-05T09:28:15.299740-05:00.jpg">
-  <img src="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-05T09:28:15.299740-05:00.jpg"
-     alt="6 News WOWT at 2022-09-05 09:28:18-05:00 local time"
+ <a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-13T21:29:41.849641-05:00.jpg">
+  <img src="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-13T21:29:41.849641-05:00.jpg"
+     alt="6 News WOWT at 2022-09-13 21:29:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-05T09:28:15.299740-05:00.jpg">September 5 at 9:28 AM</a></p>
+ <p><a href="https://archive.org/download/wowt6news-2022/wowt6news-2022-09-13T21:29:41.849641-05:00.jpg">September 13 at 9:29 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 88 hyperlink lists with the Internet Archive.
+The archiving routine has saved 104 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 9:16 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-11T09:16:41.855942-05:00.hyperlinks.json) |
-| [September 10 at 9:31 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-10T21:31:37.293046-05:00.hyperlinks.json) |
-| [September 10 at 9:16 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-10T09:16:26.541755-05:00.hyperlinks.json) |
-| [September 9 at 9:31 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-09T21:31:53.208316-05:00.hyperlinks.json) |
-| [September 9 at 9:39 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-09T09:38:55.474220-05:00.hyperlinks.json) |
-| [September 8 at 9:34 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-08T21:34:11.410582-05:00.hyperlinks.json) |
-| [September 8 at 9:29 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-08T09:29:37.566344-05:00.hyperlinks.json) |
-| [September 7 at 9:39 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-07T21:39:26.744114-05:00.hyperlinks.json) |
-| [September 7 at 10:35 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-07T10:34:54.087991-05:00.hyperlinks.json) |
-| [September 6 at 9:36 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-06T21:36:45.867781-05:00.hyperlinks.json) |
+| [September 19 at 10:02 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-19T10:02:19.047385-05:00.hyperlinks.json) |
+| [September 18 at 10:45 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-18T22:44:56.312395-05:00.hyperlinks.json) |
+| [September 18 at 9:05 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-18T09:05:49.426373-05:00.hyperlinks.json) |
+| [September 17 at 9:31 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-17T21:30:54.267331-05:00.hyperlinks.json) |
+| [September 17 at 9:03 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-17T09:03:20.366113-05:00.hyperlinks.json) |
+| [September 16 at 9:28 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-16T21:28:02.884162-05:00.hyperlinks.json) |
+| [September 16 at 9:10 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-16T09:09:56.428754-05:00.hyperlinks.json) |
+| [September 15 at 9:29 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-15T21:29:19.926996-05:00.hyperlinks.json) |
+| [September 15 at 9:16 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-15T09:16:34.450721-05:00.hyperlinks.json) |
+| [September 14 at 9:31 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-14T21:31:39.125549-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 87 accessibility trees with the Internet Archive.
+The archiving routine has saved 103 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 9:16 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-11T09:16:41.855942-05:00.accessibility.json) |
-| [September 10 at 9:31 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-10T21:31:37.293046-05:00.accessibility.json) |
-| [September 10 at 9:16 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-10T09:16:26.541755-05:00.accessibility.json) |
-| [September 9 at 9:31 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-09T21:31:53.208316-05:00.accessibility.json) |
-| [September 9 at 9:39 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-09T09:38:55.474220-05:00.accessibility.json) |
-| [September 8 at 9:34 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-08T21:34:11.410582-05:00.accessibility.json) |
-| [September 8 at 9:29 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-08T09:29:37.566344-05:00.accessibility.json) |
-| [September 7 at 9:39 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-07T21:39:26.744114-05:00.accessibility.json) |
-| [September 7 at 10:35 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-07T10:34:54.087991-05:00.accessibility.json) |
-| [September 6 at 9:36 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-06T21:36:45.867781-05:00.accessibility.json) |
+| [September 19 at 10:02 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-19T10:02:19.047385-05:00.accessibility.json) |
+| [September 18 at 10:44 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-18T22:44:56.312395-05:00.accessibility.json) |
+| [September 18 at 9:05 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-18T09:05:49.426373-05:00.accessibility.json) |
+| [September 17 at 9:31 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-17T21:30:54.267331-05:00.accessibility.json) |
+| [September 17 at 9:03 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-17T09:03:20.366113-05:00.accessibility.json) |
+| [September 16 at 9:28 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-16T21:28:02.884162-05:00.accessibility.json) |
+| [September 16 at 9:10 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-16T09:09:56.428754-05:00.accessibility.json) |
+| [September 15 at 9:29 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-15T21:29:19.926996-05:00.accessibility.json) |
+| [September 15 at 9:16 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-15T09:16:34.450721-05:00.accessibility.json) |
+| [September 14 at 9:31 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-14T21:31:39.125549-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 88 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 104 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 9:16 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-11T09:16:41.855942-05:00.lighthouse.json) |
-| [September 10 at 9:31 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-10T21:31:37.293046-05:00.lighthouse.json) |
-| [September 10 at 9:16 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-10T09:16:26.541755-05:00.lighthouse.json) |
-| [September 9 at 9:32 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-09T21:31:53.208316-05:00.lighthouse.json) |
-| [September 9 at 9:39 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-09T09:38:55.474220-05:00.lighthouse.json) |
-| [September 8 at 9:34 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-08T21:34:11.410582-05:00.lighthouse.json) |
-| [September 8 at 9:29 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-08T09:29:37.566344-05:00.lighthouse.json) |
-| [September 7 at 9:39 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-07T21:39:26.744114-05:00.lighthouse.json) |
-| [September 7 at 10:35 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-07T10:34:54.087991-05:00.lighthouse.json) |
-| [September 6 at 9:36 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-06T21:36:45.867781-05:00.lighthouse.json) |
+| [September 19 at 10:02 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-19T10:02:19.047385-05:00.lighthouse.json) |
+| [September 18 at 10:45 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-18T22:44:56.312395-05:00.lighthouse.json) |
+| [September 18 at 9:05 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-18T09:05:49.426373-05:00.lighthouse.json) |
+| [September 17 at 9:31 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-17T21:30:54.267331-05:00.lighthouse.json) |
+| [September 17 at 9:03 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-17T09:03:20.366113-05:00.lighthouse.json) |
+| [September 16 at 9:28 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-16T21:28:02.884162-05:00.lighthouse.json) |
+| [September 16 at 9:10 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-16T09:09:56.428754-05:00.lighthouse.json) |
+| [September 15 at 9:29 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-15T21:29:19.926996-05:00.lighthouse.json) |
+| [September 15 at 9:16 AM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-15T09:16:34.450721-05:00.lighthouse.json) |
+| [September 14 at 9:31 PM](https://archive.org/download/wowt6news-2022/wowt6news-2022-09-14T21:31:39.125549-05:00.lighthouse.json) |
 
 
 

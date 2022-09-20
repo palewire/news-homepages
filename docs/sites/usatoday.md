@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 514 screenshots with the Internet Archive.
+The archiving routine has saved 546 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-11T17:18:52.909288-04:00.jpg">
-  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-09-11T17:18:52.909288-04:00.jpg"
-     alt="USA Today at 2022-09-11 17:18:55-04:00 local time"
+ <a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-19T17:16:36.526673-04:00.jpg">
+  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-09-19T17:16:36.526673-04:00.jpg"
+     alt="USA Today at 2022-09-19 17:17:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-11T17:18:52.909288-04:00.jpg">September 11 at 5:18 PM</a></p>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-19T17:16:36.526673-04:00.jpg">September 19 at 5:17 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-11T09:09:11.629543-04:00.jpg">
-  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-09-11T09:09:11.629543-04:00.jpg"
-     alt="USA Today at 2022-09-11 09:09:12-04:00 local time"
+ <a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-19T10:08:11.084837-04:00.jpg">
+  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-09-19T10:08:11.084837-04:00.jpg"
+     alt="USA Today at 2022-09-19 10:08:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-11T09:09:11.629543-04:00.jpg">September 11 at 9:09 AM</a></p>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-19T10:08:11.084837-04:00.jpg">September 19 at 10:08 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-11T08:59:06.168914-04:00.jpg">
-  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-09-11T08:59:06.168914-04:00.jpg"
-     alt="USA Today at 2022-09-11 08:59:07-04:00 local time"
+ <a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-19T08:50:50.398587-04:00.jpg">
+  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-09-19T08:50:50.398587-04:00.jpg"
+     alt="USA Today at 2022-09-19 08:50:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-11T08:59:06.168914-04:00.jpg">September 11 at 8:59 AM</a></p>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-19T08:50:50.398587-04:00.jpg">September 19 at 8:50 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-10T21:26:16.832724-04:00.jpg">
-  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-09-10T21:26:16.832724-04:00.jpg"
-     alt="USA Today at 2022-09-10 21:26:19-04:00 local time"
+ <a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-18T22:22:46.565960-04:00.jpg">
+  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-09-18T22:22:46.565960-04:00.jpg"
+     alt="USA Today at 2022-09-18 22:22:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-10T21:26:16.832724-04:00.jpg">September 10 at 9:26 PM</a></p>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-18T22:22:46.565960-04:00.jpg">September 18 at 10:22 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-10T17:19:12.048360-04:00.jpg">
-  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-09-10T17:19:12.048360-04:00.jpg"
-     alt="USA Today at 2022-09-10 17:19:14-04:00 local time"
+ <a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-18T17:16:45.111102-04:00.jpg">
+  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-09-18T17:16:45.111102-04:00.jpg"
+     alt="USA Today at 2022-09-18 17:16:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-10T17:19:12.048360-04:00.jpg">September 10 at 5:19 PM</a></p>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-18T17:16:45.111102-04:00.jpg">September 18 at 5:16 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-10T09:11:51.495077-04:00.jpg">
-  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-09-10T09:11:51.495077-04:00.jpg"
-     alt="USA Today at 2022-09-10 09:11:53-04:00 local time"
+ <a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-18T10:03:01.518158-04:00.jpg">
+  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-09-18T10:03:01.518158-04:00.jpg"
+     alt="USA Today at 2022-09-18 10:03:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-10T09:11:51.495077-04:00.jpg">September 10 at 9:11 AM</a></p>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-18T10:03:01.518158-04:00.jpg">September 18 at 10:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-10T09:01:37.131617-04:00.jpg">
-  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-09-10T09:01:37.131617-04:00.jpg"
-     alt="USA Today at 2022-09-10 09:01:38-04:00 local time"
+ <a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-18T08:54:42.237312-04:00.jpg">
+  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-09-18T08:54:42.237312-04:00.jpg"
+     alt="USA Today at 2022-09-18 08:54:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-10T09:01:37.131617-04:00.jpg">September 10 at 9:01 AM</a></p>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-18T08:54:42.237312-04:00.jpg">September 18 at 8:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-09T21:30:43.629694-04:00.jpg">
-  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-09-09T21:30:43.629694-04:00.jpg"
-     alt="USA Today at 2022-09-09 21:30:45-04:00 local time"
+ <a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-17T22:29:12.202692-04:00.jpg">
+  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-09-17T22:29:12.202692-04:00.jpg"
+     alt="USA Today at 2022-09-17 22:29:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-09T21:30:43.629694-04:00.jpg">September 9 at 9:30 PM</a></p>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-17T22:29:12.202692-04:00.jpg">September 17 at 10:29 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-09T17:18:42.966751-04:00.jpg">
-  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-09-09T17:18:42.966751-04:00.jpg"
-     alt="USA Today at 2022-09-09 17:18:45-04:00 local time"
+ <a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-17T17:17:01.160965-04:00.jpg">
+  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-09-17T17:17:01.160965-04:00.jpg"
+     alt="USA Today at 2022-09-17 17:17:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-09T17:18:42.966751-04:00.jpg">September 9 at 5:18 PM</a></p>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-17T17:17:01.160965-04:00.jpg">September 17 at 5:17 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-09T09:29:41.120430-04:00.jpg">
-  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-09-09T09:29:41.120430-04:00.jpg"
-     alt="USA Today at 2022-09-09 09:29:42-04:00 local time"
+ <a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-17T10:01:55.810014-04:00.jpg">
+  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-09-17T10:01:55.810014-04:00.jpg"
+     alt="USA Today at 2022-09-17 10:01:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-09T09:29:41.120430-04:00.jpg">September 9 at 9:29 AM</a></p>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-17T10:01:55.810014-04:00.jpg">September 17 at 10:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-09T09:28:36.281154-04:00.jpg">
-  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-09-09T09:28:36.281154-04:00.jpg"
-     alt="USA Today at 2022-09-09 09:28:37-04:00 local time"
+ <a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-17T08:53:59.809752-04:00.jpg">
+  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-09-17T08:53:59.809752-04:00.jpg"
+     alt="USA Today at 2022-09-17 08:54:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-09T09:28:36.281154-04:00.jpg">September 9 at 9:28 AM</a></p>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-17T08:53:59.809752-04:00.jpg">September 17 at 8:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-08T21:30:52.114299-04:00.jpg">
-  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-09-08T21:30:52.114299-04:00.jpg"
-     alt="USA Today at 2022-09-08 21:30:54-04:00 local time"
+ <a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-16T22:26:29.845406-04:00.jpg">
+  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-09-16T22:26:29.845406-04:00.jpg"
+     alt="USA Today at 2022-09-16 22:26:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-08T21:30:52.114299-04:00.jpg">September 8 at 9:30 PM</a></p>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-09-16T22:26:29.845406-04:00.jpg">September 16 at 10:26 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 495 hyperlink lists with the Internet Archive.
+The archiving routine has saved 527 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 5:18 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-11T17:18:52.909288-04:00.hyperlinks.json) |
-| [September 11 at 9:09 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-11T09:09:11.629543-04:00.hyperlinks.json) |
-| [September 11 at 8:59 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-11T08:59:06.168914-04:00.hyperlinks.json) |
-| [September 10 at 9:26 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-10T21:26:16.832724-04:00.hyperlinks.json) |
-| [September 10 at 5:19 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-10T17:19:12.048360-04:00.hyperlinks.json) |
-| [September 10 at 9:11 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-10T09:11:51.495077-04:00.hyperlinks.json) |
-| [September 10 at 9:01 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-10T09:01:37.131617-04:00.hyperlinks.json) |
-| [September 9 at 9:30 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-09T21:30:43.629694-04:00.hyperlinks.json) |
-| [September 9 at 5:18 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-09T17:18:42.966751-04:00.hyperlinks.json) |
-| [September 9 at 9:29 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-09T09:29:41.120430-04:00.hyperlinks.json) |
+| [September 19 at 5:17 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-19T17:16:36.526673-04:00.hyperlinks.json) |
+| [September 19 at 10:08 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-19T10:08:11.084837-04:00.hyperlinks.json) |
+| [September 19 at 8:50 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-19T08:50:50.398587-04:00.hyperlinks.json) |
+| [September 18 at 10:22 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-18T22:22:46.565960-04:00.hyperlinks.json) |
+| [September 18 at 5:17 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-18T17:16:45.111102-04:00.hyperlinks.json) |
+| [September 18 at 10:03 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-18T10:03:01.518158-04:00.hyperlinks.json) |
+| [September 18 at 8:54 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-18T08:54:42.237312-04:00.hyperlinks.json) |
+| [September 17 at 10:29 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-17T22:29:12.202692-04:00.hyperlinks.json) |
+| [September 17 at 5:17 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-17T17:17:01.160965-04:00.hyperlinks.json) |
+| [September 17 at 10:02 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-17T10:01:55.810014-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 497 accessibility trees with the Internet Archive.
+The archiving routine has saved 529 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 5:18 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-11T17:18:52.909288-04:00.accessibility.json) |
-| [September 11 at 9:09 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-11T09:09:11.629543-04:00.accessibility.json) |
-| [September 11 at 8:59 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-11T08:59:06.168914-04:00.accessibility.json) |
-| [September 10 at 9:26 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-10T21:26:16.832724-04:00.accessibility.json) |
-| [September 10 at 5:19 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-10T17:19:12.048360-04:00.accessibility.json) |
-| [September 10 at 9:11 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-10T09:11:51.495077-04:00.accessibility.json) |
-| [September 10 at 9:01 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-10T09:01:37.131617-04:00.accessibility.json) |
-| [September 9 at 9:30 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-09T21:30:43.629694-04:00.accessibility.json) |
-| [September 9 at 5:18 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-09T17:18:42.966751-04:00.accessibility.json) |
-| [September 9 at 9:29 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-09T09:29:41.120430-04:00.accessibility.json) |
+| [September 19 at 5:17 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-19T17:16:36.526673-04:00.accessibility.json) |
+| [September 19 at 10:08 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-19T10:08:11.084837-04:00.accessibility.json) |
+| [September 19 at 8:50 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-19T08:50:50.398587-04:00.accessibility.json) |
+| [September 18 at 10:22 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-18T22:22:46.565960-04:00.accessibility.json) |
+| [September 18 at 5:17 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-18T17:16:45.111102-04:00.accessibility.json) |
+| [September 18 at 10:03 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-18T10:03:01.518158-04:00.accessibility.json) |
+| [September 18 at 8:54 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-18T08:54:42.237312-04:00.accessibility.json) |
+| [September 17 at 10:29 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-17T22:29:12.202692-04:00.accessibility.json) |
+| [September 17 at 5:17 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-17T17:17:01.160965-04:00.accessibility.json) |
+| [September 17 at 10:02 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-17T10:01:55.810014-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 197 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 229 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 5:19 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-11T17:18:52.909288-04:00.lighthouse.json) |
-| [September 11 at 9:09 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-11T09:09:11.629543-04:00.lighthouse.json) |
-| [September 11 at 8:59 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-11T08:59:06.168914-04:00.lighthouse.json) |
-| [September 10 at 9:26 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-10T21:26:16.832724-04:00.lighthouse.json) |
-| [September 10 at 5:19 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-10T17:19:12.048360-04:00.lighthouse.json) |
-| [September 10 at 9:11 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-10T09:11:51.495077-04:00.lighthouse.json) |
-| [September 10 at 9:01 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-10T09:01:37.131617-04:00.lighthouse.json) |
-| [September 9 at 9:30 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-09T21:30:43.629694-04:00.lighthouse.json) |
-| [September 9 at 5:18 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-09T17:18:42.966751-04:00.lighthouse.json) |
-| [September 9 at 9:29 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-09T09:29:41.120430-04:00.lighthouse.json) |
+| [September 19 at 5:17 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-19T17:16:36.526673-04:00.lighthouse.json) |
+| [September 19 at 10:08 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-19T10:08:11.084837-04:00.lighthouse.json) |
+| [September 19 at 8:50 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-19T08:50:50.398587-04:00.lighthouse.json) |
+| [September 18 at 10:22 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-18T22:22:46.565960-04:00.lighthouse.json) |
+| [September 18 at 5:17 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-18T17:16:45.111102-04:00.lighthouse.json) |
+| [September 18 at 10:03 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-18T10:03:01.518158-04:00.lighthouse.json) |
+| [September 18 at 8:55 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-18T08:54:42.237312-04:00.lighthouse.json) |
+| [September 17 at 10:29 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-17T22:29:12.202692-04:00.lighthouse.json) |
+| [September 17 at 5:17 PM](https://archive.org/download/usatoday-2022/usatoday-2022-09-17T17:17:01.160965-04:00.lighthouse.json) |
+| [September 17 at 10:02 AM](https://archive.org/download/usatoday-2022/usatoday-2022-09-17T10:01:55.810014-04:00.lighthouse.json) |
 
 
 

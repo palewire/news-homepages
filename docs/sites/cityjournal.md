@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 109 screenshots with the Internet Archive.
+The archiving routine has saved 133 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-11T14:31:25.544190-04:00.jpg">
-  <img src="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-11T14:31:25.544190-04:00.jpg"
-     alt="City Journal at 2022-09-11 14:31:27-04:00 local time"
+ <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-19T14:34:56.418675-04:00.jpg">
+  <img src="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-19T14:34:56.418675-04:00.jpg"
+     alt="City Journal at 2022-09-19 14:35:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-11T14:31:25.544190-04:00.jpg">September 11 at 2:31 PM</a></p>
+ <p><a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-19T14:34:56.418675-04:00.jpg">September 19 at 2:35 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-11T06:55:59.691655-04:00.jpg">
-  <img src="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-11T06:55:59.691655-04:00.jpg"
-     alt="City Journal at 2022-09-11 06:56:02-04:00 local time"
+ <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-19T06:51:15.354933-04:00.jpg">
+  <img src="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-19T06:51:15.354933-04:00.jpg"
+     alt="City Journal at 2022-09-19 06:51:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-11T06:55:59.691655-04:00.jpg">September 11 at 6:56 AM</a></p>
+ <p><a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-19T06:51:15.354933-04:00.jpg">September 19 at 6:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-10T19:08:59.592507-04:00.jpg">
-  <img src="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-10T19:08:59.592507-04:00.jpg"
-     alt="City Journal at 2022-09-10 19:09:01-04:00 local time"
+ <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-18T18:51:23.932309-04:00.jpg">
+  <img src="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-18T18:51:23.932309-04:00.jpg"
+     alt="City Journal at 2022-09-18 18:51:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-10T19:08:59.592507-04:00.jpg">September 10 at 7:09 PM</a></p>
+ <p><a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-18T18:51:23.932309-04:00.jpg">September 18 at 6:51 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-10T14:33:03.212437-04:00.jpg">
-  <img src="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-10T14:33:03.212437-04:00.jpg"
-     alt="City Journal at 2022-09-10 14:33:05-04:00 local time"
+ <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-18T14:32:01.049058-04:00.jpg">
+  <img src="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-18T14:32:01.049058-04:00.jpg"
+     alt="City Journal at 2022-09-18 14:32:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-10T14:33:03.212437-04:00.jpg">September 10 at 2:33 PM</a></p>
+ <p><a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-18T14:32:01.049058-04:00.jpg">September 18 at 2:32 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-10T06:55:10.165353-04:00.jpg">
-  <img src="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-10T06:55:10.165353-04:00.jpg"
-     alt="City Journal at 2022-09-10 06:55:13-04:00 local time"
+ <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-18T06:53:04.962923-04:00.jpg">
+  <img src="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-18T06:53:04.962923-04:00.jpg"
+     alt="City Journal at 2022-09-18 06:53:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-10T06:55:10.165353-04:00.jpg">September 10 at 6:55 AM</a></p>
+ <p><a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-18T06:53:04.962923-04:00.jpg">September 18 at 6:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-09T19:06:38.764183-04:00.jpg">
-  <img src="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-09T19:06:38.764183-04:00.jpg"
-     alt="City Journal at 2022-09-09 19:06:43-04:00 local time"
+ <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-17T18:55:28.165485-04:00.jpg">
+  <img src="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-17T18:55:28.165485-04:00.jpg"
+     alt="City Journal at 2022-09-17 18:55:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-09T19:06:38.764183-04:00.jpg">September 9 at 7:06 PM</a></p>
+ <p><a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-17T18:55:28.165485-04:00.jpg">September 17 at 6:55 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-09T14:34:24.218658-04:00.jpg">
-  <img src="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-09T14:34:24.218658-04:00.jpg"
-     alt="City Journal at 2022-09-09 14:34:27-04:00 local time"
+ <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-17T14:33:14.046196-04:00.jpg">
+  <img src="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-17T14:33:14.046196-04:00.jpg"
+     alt="City Journal at 2022-09-17 14:33:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-09T14:34:24.218658-04:00.jpg">September 9 at 2:34 PM</a></p>
+ <p><a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-17T14:33:14.046196-04:00.jpg">September 17 at 2:33 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-09T07:06:20.807201-04:00.jpg">
-  <img src="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-09T07:06:20.807201-04:00.jpg"
-     alt="City Journal at 2022-09-09 07:06:25-04:00 local time"
+ <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-17T06:52:15.221638-04:00.jpg">
+  <img src="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-17T06:52:15.221638-04:00.jpg"
+     alt="City Journal at 2022-09-17 06:52:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-09T07:06:20.807201-04:00.jpg">September 9 at 7:06 AM</a></p>
+ <p><a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-17T06:52:15.221638-04:00.jpg">September 17 at 6:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-08T19:59:24.770658-04:00.jpg">
-  <img src="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-08T19:59:24.770658-04:00.jpg"
-     alt="City Journal at 2022-09-08 19:59:28-04:00 local time"
+ <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-16T18:54:33.460308-04:00.jpg">
+  <img src="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-16T18:54:33.460308-04:00.jpg"
+     alt="City Journal at 2022-09-16 18:54:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-08T19:59:24.770658-04:00.jpg">September 8 at 7:59 PM</a></p>
+ <p><a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-16T18:54:33.460308-04:00.jpg">September 16 at 6:54 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-08T07:04:03.704468-04:00.jpg">
-  <img src="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-08T07:04:03.704468-04:00.jpg"
-     alt="City Journal at 2022-09-08 07:04:05-04:00 local time"
+ <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-16T14:32:10.177288-04:00.jpg">
+  <img src="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-16T14:32:10.177288-04:00.jpg"
+     alt="City Journal at 2022-09-16 14:32:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-08T07:04:03.704468-04:00.jpg">September 8 at 7:04 AM</a></p>
+ <p><a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-16T14:32:10.177288-04:00.jpg">September 16 at 2:32 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-07T19:00:34.405610-04:00.jpg">
-  <img src="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-07T19:00:34.405610-04:00.jpg"
-     alt="City Journal at 2022-09-07 19:00:39-04:00 local time"
+ <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-16T06:54:53.500491-04:00.jpg">
+  <img src="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-16T06:54:53.500491-04:00.jpg"
+     alt="City Journal at 2022-09-16 06:55:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-07T19:00:34.405610-04:00.jpg">September 7 at 7:00 PM</a></p>
+ <p><a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-16T06:54:53.500491-04:00.jpg">September 16 at 6:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-07T08:14:42.328220-04:00.jpg">
-  <img src="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-07T08:14:42.328220-04:00.jpg"
-     alt="City Journal at 2022-09-07 08:14:48-04:00 local time"
+ <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-15T18:57:06.145724-04:00.jpg">
+  <img src="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-15T18:57:06.145724-04:00.jpg"
+     alt="City Journal at 2022-09-15 18:57:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-07T08:14:42.328220-04:00.jpg">September 7 at 8:14 AM</a></p>
+ <p><a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-09-15T18:57:06.145724-04:00.jpg">September 15 at 6:57 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 109 hyperlink lists with the Internet Archive.
+The archiving routine has saved 133 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 2:31 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-11T14:31:25.544190-04:00.hyperlinks.json) |
-| [September 11 at 6:56 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-11T06:55:59.691655-04:00.hyperlinks.json) |
-| [September 10 at 7:09 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-10T19:08:59.592507-04:00.hyperlinks.json) |
-| [September 10 at 2:33 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-10T14:33:03.212437-04:00.hyperlinks.json) |
-| [September 10 at 6:55 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-10T06:55:10.165353-04:00.hyperlinks.json) |
-| [September 9 at 7:06 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-09T19:06:38.764183-04:00.hyperlinks.json) |
-| [September 9 at 2:34 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-09T14:34:24.218658-04:00.hyperlinks.json) |
-| [September 9 at 7:06 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-09T07:06:20.807201-04:00.hyperlinks.json) |
-| [September 8 at 7:59 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-08T19:59:24.770658-04:00.hyperlinks.json) |
-| [September 8 at 7:04 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-08T07:04:03.704468-04:00.hyperlinks.json) |
+| [September 19 at 2:35 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-19T14:34:56.418675-04:00.hyperlinks.json) |
+| [September 19 at 6:51 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-19T06:51:15.354933-04:00.hyperlinks.json) |
+| [September 18 at 6:51 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-18T18:51:23.932309-04:00.hyperlinks.json) |
+| [September 18 at 2:32 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-18T14:32:01.049058-04:00.hyperlinks.json) |
+| [September 18 at 6:53 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-18T06:53:04.962923-04:00.hyperlinks.json) |
+| [September 17 at 6:55 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-17T18:55:28.165485-04:00.hyperlinks.json) |
+| [September 17 at 2:33 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-17T14:33:14.046196-04:00.hyperlinks.json) |
+| [September 17 at 6:52 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-17T06:52:15.221638-04:00.hyperlinks.json) |
+| [September 16 at 6:54 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-16T18:54:33.460308-04:00.hyperlinks.json) |
+| [September 16 at 2:32 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-16T14:32:10.177288-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 108 accessibility trees with the Internet Archive.
+The archiving routine has saved 132 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 2:31 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-11T14:31:25.544190-04:00.accessibility.json) |
-| [September 11 at 6:56 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-11T06:55:59.691655-04:00.accessibility.json) |
-| [September 10 at 7:09 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-10T19:08:59.592507-04:00.accessibility.json) |
-| [September 10 at 2:33 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-10T14:33:03.212437-04:00.accessibility.json) |
-| [September 10 at 6:55 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-10T06:55:10.165353-04:00.accessibility.json) |
-| [September 9 at 7:06 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-09T19:06:38.764183-04:00.accessibility.json) |
-| [September 9 at 2:34 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-09T14:34:24.218658-04:00.accessibility.json) |
-| [September 9 at 7:06 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-09T07:06:20.807201-04:00.accessibility.json) |
-| [September 8 at 7:59 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-08T19:59:24.770658-04:00.accessibility.json) |
-| [September 8 at 7:04 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-08T07:04:03.704468-04:00.accessibility.json) |
+| [September 19 at 2:35 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-19T14:34:56.418675-04:00.accessibility.json) |
+| [September 19 at 6:51 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-19T06:51:15.354933-04:00.accessibility.json) |
+| [September 18 at 6:51 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-18T18:51:23.932309-04:00.accessibility.json) |
+| [September 18 at 2:32 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-18T14:32:01.049058-04:00.accessibility.json) |
+| [September 18 at 6:53 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-18T06:53:04.962923-04:00.accessibility.json) |
+| [September 17 at 6:55 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-17T18:55:28.165485-04:00.accessibility.json) |
+| [September 17 at 2:33 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-17T14:33:14.046196-04:00.accessibility.json) |
+| [September 17 at 6:52 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-17T06:52:15.221638-04:00.accessibility.json) |
+| [September 16 at 6:54 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-16T18:54:33.460308-04:00.accessibility.json) |
+| [September 16 at 2:32 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-16T14:32:10.177288-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 110 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 2:31 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-11T14:31:25.544190-04:00.lighthouse.json) |
-| [September 11 at 6:56 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-11T06:55:59.691655-04:00.lighthouse.json) |
-| [September 10 at 7:09 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-10T19:08:59.592507-04:00.lighthouse.json) |
-| [September 10 at 2:33 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-10T14:33:03.212437-04:00.lighthouse.json) |
-| [September 10 at 6:55 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-10T06:55:10.165353-04:00.lighthouse.json) |
-| [September 9 at 7:06 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-09T19:06:38.764183-04:00.lighthouse.json) |
-| [September 9 at 2:34 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-09T14:34:24.218658-04:00.lighthouse.json) |
-| [September 9 at 7:06 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-09T07:06:20.807201-04:00.lighthouse.json) |
-| [September 8 at 7:59 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-08T19:59:24.770658-04:00.lighthouse.json) |
-| [September 8 at 7:04 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-08T07:04:03.704468-04:00.lighthouse.json) |
+| [September 19 at 2:35 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-19T14:34:56.418675-04:00.lighthouse.json) |
+| [September 19 at 6:51 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-19T06:51:15.354933-04:00.lighthouse.json) |
+| [September 18 at 6:51 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-18T18:51:23.932309-04:00.lighthouse.json) |
+| [September 18 at 2:32 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-18T14:32:01.049058-04:00.lighthouse.json) |
+| [September 18 at 6:53 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-18T06:53:04.962923-04:00.lighthouse.json) |
+| [September 17 at 6:55 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-17T18:55:28.165485-04:00.lighthouse.json) |
+| [September 17 at 2:33 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-17T14:33:14.046196-04:00.lighthouse.json) |
+| [September 17 at 6:52 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-17T06:52:15.221638-04:00.lighthouse.json) |
+| [September 16 at 6:54 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-16T18:54:33.460308-04:00.lighthouse.json) |
+| [September 16 at 2:32 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-09-16T14:32:10.177288-04:00.lighthouse.json) |
 
 
 

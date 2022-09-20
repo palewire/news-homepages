@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 95 screenshots with the Internet Archive.
+The archiving routine has saved 120 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-11T09:02:37.972106-03:00.jpg">
-  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-11T09:02:37.972106-03:00.jpg"
-     alt="SBT news at 2022-09-11 09:02:41-03:00 local time"
+ <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-19T14:26:27.035073-03:00.jpg">
+  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-19T14:26:27.035073-03:00.jpg"
+     alt="SBT news at 2022-09-19 14:26:28-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-11T09:02:37.972106-03:00.jpg">September 11 at 9:02 AM</a></p>
+ <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-19T14:26:27.035073-03:00.jpg">September 19 at 2:26 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-11T01:50:31.877512-03:00.jpg">
-  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-11T01:50:31.877512-03:00.jpg"
-     alt="SBT news at 2022-09-11 01:50:33-03:00 local time"
+ <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-19T09:01:16.553414-03:00.jpg">
+  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-19T09:01:16.553414-03:00.jpg"
+     alt="SBT news at 2022-09-19 09:01:21-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-11T01:50:31.877512-03:00.jpg">September 11 at 1:50 AM</a></p>
+ <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-19T09:01:16.553414-03:00.jpg">September 19 at 9:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-10T13:09:33.415444-03:00.jpg">
-  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-10T13:09:33.415444-03:00.jpg"
-     alt="SBT news at 2022-09-10 13:09:37-03:00 local time"
+ <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-19T02:57:07.151391-03:00.jpg">
+  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-19T02:57:07.151391-03:00.jpg"
+     alt="SBT news at 2022-09-19 02:57:09-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-10T13:09:33.415444-03:00.jpg">September 10 at 1:09 PM</a></p>
+ <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-19T02:57:07.151391-03:00.jpg">September 19 at 2:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-10T09:04:29.132430-03:00.jpg">
-  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-10T09:04:29.132430-03:00.jpg"
-     alt="SBT news at 2022-09-10 09:04:40-03:00 local time"
+ <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-18T14:16:34.543871-03:00.jpg">
+  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-18T14:16:34.543871-03:00.jpg"
+     alt="SBT news at 2022-09-18 14:16:36-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-10T09:04:29.132430-03:00.jpg">September 10 at 9:04 AM</a></p>
+ <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-18T14:16:34.543871-03:00.jpg">September 18 at 2:16 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-10T01:53:30.030579-03:00.jpg">
-  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-10T01:53:30.030579-03:00.jpg"
-     alt="SBT news at 2022-09-10 01:53:32-03:00 local time"
+ <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-18T09:02:36.072566-03:00.jpg">
+  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-18T09:02:36.072566-03:00.jpg"
+     alt="SBT news at 2022-09-18 09:02:41-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-10T01:53:30.030579-03:00.jpg">September 10 at 1:53 AM</a></p>
+ <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-18T09:02:36.072566-03:00.jpg">September 18 at 9:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-09T13:35:37.189235-03:00.jpg">
-  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-09T13:35:37.189235-03:00.jpg"
-     alt="SBT news at 2022-09-09 13:35:46-03:00 local time"
+ <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-18T02:29:01.201066-03:00.jpg">
+  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-18T02:29:01.201066-03:00.jpg"
+     alt="SBT news at 2022-09-18 02:29:18-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-09T13:35:37.189235-03:00.jpg">September 9 at 1:35 PM</a></p>
+ <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-18T02:29:01.201066-03:00.jpg">September 18 at 2:29 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-09T09:29:36.691203-03:00.jpg">
-  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-09T09:29:36.691203-03:00.jpg"
-     alt="SBT news at 2022-09-09 09:29:40-03:00 local time"
+ <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-17T13:53:10.285329-03:00.jpg">
+  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-17T13:53:10.285329-03:00.jpg"
+     alt="SBT news at 2022-09-17 13:53:11-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-09T09:29:36.691203-03:00.jpg">September 9 at 9:29 AM</a></p>
+ <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-17T13:53:10.285329-03:00.jpg">September 17 at 1:53 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-09T01:55:37.424050-03:00.jpg">
-  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-09T01:55:37.424050-03:00.jpg"
-     alt="SBT news at 2022-09-09 01:55:43-03:00 local time"
+ <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-17T09:03:15.101195-03:00.jpg">
+  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-17T09:03:15.101195-03:00.jpg"
+     alt="SBT news at 2022-09-17 09:03:20-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-09T01:55:37.424050-03:00.jpg">September 9 at 1:55 AM</a></p>
+ <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-17T09:03:15.101195-03:00.jpg">September 17 at 9:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-08T13:35:36.121849-03:00.jpg">
-  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-08T13:35:36.121849-03:00.jpg"
-     alt="SBT news at 2022-09-08 13:35:39-03:00 local time"
+ <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-17T02:21:12.773044-03:00.jpg">
+  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-17T02:21:12.773044-03:00.jpg"
+     alt="SBT news at 2022-09-17 02:21:16-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-08T13:35:36.121849-03:00.jpg">September 8 at 1:35 PM</a></p>
+ <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-17T02:21:12.773044-03:00.jpg">September 17 at 2:21 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-08T09:10:33.403106-03:00.jpg">
-  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-08T09:10:33.403106-03:00.jpg"
-     alt="SBT news at 2022-09-08 09:10:37-03:00 local time"
+ <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-16T13:56:39.533723-03:00.jpg">
+  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-16T13:56:39.533723-03:00.jpg"
+     alt="SBT news at 2022-09-16 13:56:41-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-08T09:10:33.403106-03:00.jpg">September 8 at 9:10 AM</a></p>
+ <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-16T13:56:39.533723-03:00.jpg">September 16 at 1:56 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-08T01:49:07.544287-03:00.jpg">
-  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-08T01:49:07.544287-03:00.jpg"
-     alt="SBT news at 2022-09-08 01:49:11-03:00 local time"
+ <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-16T09:03:49.531600-03:00.jpg">
+  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-16T09:03:49.531600-03:00.jpg"
+     alt="SBT news at 2022-09-16 09:03:50-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-08T01:49:07.544287-03:00.jpg">September 8 at 1:49 AM</a></p>
+ <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-16T09:03:49.531600-03:00.jpg">September 16 at 9:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-07T14:11:46.114860-03:00.jpg">
-  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-07T14:11:46.114860-03:00.jpg"
-     alt="SBT news at 2022-09-07 14:11:50-03:00 local time"
+ <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-16T02:32:16.786038-03:00.jpg">
+  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-16T02:32:16.786038-03:00.jpg"
+     alt="SBT news at 2022-09-16 02:32:23-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-07T14:11:46.114860-03:00.jpg">September 7 at 2:11 PM</a></p>
+ <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-09-16T02:32:16.786038-03:00.jpg">September 16 at 2:32 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 96 hyperlink lists with the Internet Archive.
+The archiving routine has saved 121 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 9:02 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-11T09:02:37.972106-03:00.hyperlinks.json) |
-| [September 11 at 1:50 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-11T01:50:31.877512-03:00.hyperlinks.json) |
-| [September 10 at 1:09 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-10T13:09:33.415444-03:00.hyperlinks.json) |
-| [September 10 at 9:04 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-10T09:04:29.132430-03:00.hyperlinks.json) |
-| [September 10 at 1:53 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-10T01:53:30.030579-03:00.hyperlinks.json) |
-| [September 9 at 1:35 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-09T13:35:37.189235-03:00.hyperlinks.json) |
-| [September 9 at 9:29 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-09T09:29:36.691203-03:00.hyperlinks.json) |
-| [September 9 at 1:55 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-09T01:55:37.424050-03:00.hyperlinks.json) |
-| [September 8 at 1:35 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-08T13:35:36.121849-03:00.hyperlinks.json) |
-| [September 8 at 9:10 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-08T09:10:33.403106-03:00.hyperlinks.json) |
+| [September 19 at 2:26 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-19T14:26:27.035073-03:00.hyperlinks.json) |
+| [September 19 at 9:01 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-19T09:01:16.553414-03:00.hyperlinks.json) |
+| [September 19 at 2:57 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-19T02:57:07.151391-03:00.hyperlinks.json) |
+| [September 18 at 2:16 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-18T14:16:34.543871-03:00.hyperlinks.json) |
+| [September 18 at 9:02 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-18T09:02:36.072566-03:00.hyperlinks.json) |
+| [September 18 at 2:29 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-18T02:29:01.201066-03:00.hyperlinks.json) |
+| [September 17 at 1:53 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-17T13:53:10.285329-03:00.hyperlinks.json) |
+| [September 17 at 9:03 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-17T09:03:15.101195-03:00.hyperlinks.json) |
+| [September 17 at 2:21 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-17T02:21:12.773044-03:00.hyperlinks.json) |
+| [September 16 at 1:56 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-16T13:56:39.533723-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 96 accessibility trees with the Internet Archive.
+The archiving routine has saved 121 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 9:02 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-11T09:02:37.972106-03:00.accessibility.json) |
-| [September 11 at 1:50 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-11T01:50:31.877512-03:00.accessibility.json) |
-| [September 10 at 1:09 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-10T13:09:33.415444-03:00.accessibility.json) |
-| [September 10 at 9:04 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-10T09:04:29.132430-03:00.accessibility.json) |
-| [September 10 at 1:53 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-10T01:53:30.030579-03:00.accessibility.json) |
-| [September 9 at 1:35 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-09T13:35:37.189235-03:00.accessibility.json) |
-| [September 9 at 9:29 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-09T09:29:36.691203-03:00.accessibility.json) |
-| [September 9 at 1:55 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-09T01:55:37.424050-03:00.accessibility.json) |
-| [September 8 at 1:35 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-08T13:35:36.121849-03:00.accessibility.json) |
-| [September 8 at 9:10 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-08T09:10:33.403106-03:00.accessibility.json) |
+| [September 19 at 2:26 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-19T14:26:27.035073-03:00.accessibility.json) |
+| [September 19 at 9:01 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-19T09:01:16.553414-03:00.accessibility.json) |
+| [September 19 at 2:57 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-19T02:57:07.151391-03:00.accessibility.json) |
+| [September 18 at 2:16 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-18T14:16:34.543871-03:00.accessibility.json) |
+| [September 18 at 9:02 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-18T09:02:36.072566-03:00.accessibility.json) |
+| [September 18 at 2:29 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-18T02:29:01.201066-03:00.accessibility.json) |
+| [September 17 at 1:53 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-17T13:53:10.285329-03:00.accessibility.json) |
+| [September 17 at 9:03 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-17T09:03:15.101195-03:00.accessibility.json) |
+| [September 17 at 2:21 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-17T02:21:12.773044-03:00.accessibility.json) |
+| [September 16 at 1:56 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-16T13:56:39.533723-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 97 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 122 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 9:02 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-11T09:02:37.972106-03:00.lighthouse.json) |
-| [September 11 at 1:50 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-11T01:50:31.877512-03:00.lighthouse.json) |
-| [September 10 at 1:09 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-10T13:09:33.415444-03:00.lighthouse.json) |
-| [September 10 at 9:04 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-10T09:04:29.132430-03:00.lighthouse.json) |
-| [September 10 at 1:53 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-10T01:53:30.030579-03:00.lighthouse.json) |
-| [September 9 at 1:35 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-09T13:35:37.189235-03:00.lighthouse.json) |
-| [September 9 at 9:29 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-09T09:29:36.691203-03:00.lighthouse.json) |
-| [September 9 at 1:55 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-09T01:55:37.424050-03:00.lighthouse.json) |
-| [September 8 at 1:35 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-08T13:35:36.121849-03:00.lighthouse.json) |
-| [September 8 at 9:10 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-08T09:10:33.403106-03:00.lighthouse.json) |
+| [September 19 at 2:26 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-19T14:26:27.035073-03:00.lighthouse.json) |
+| [September 19 at 9:01 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-19T09:01:16.553414-03:00.lighthouse.json) |
+| [September 19 at 2:57 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-19T02:57:07.151391-03:00.lighthouse.json) |
+| [September 18 at 2:16 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-18T14:16:34.543871-03:00.lighthouse.json) |
+| [September 18 at 9:02 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-18T09:02:36.072566-03:00.lighthouse.json) |
+| [September 18 at 2:29 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-18T02:29:01.201066-03:00.lighthouse.json) |
+| [September 17 at 1:53 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-17T13:53:10.285329-03:00.lighthouse.json) |
+| [September 17 at 9:03 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-17T09:03:15.101195-03:00.lighthouse.json) |
+| [September 17 at 2:21 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-17T02:21:12.773044-03:00.lighthouse.json) |
+| [September 16 at 1:56 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-09-16T13:56:39.533723-03:00.lighthouse.json) |
 
 
 

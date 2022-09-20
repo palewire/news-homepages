@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 168 screenshots with the Internet Archive.
+The archiving routine has saved 185 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-10T23:50:42.246910-05:00.jpg">
-  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-09-10T23:50:42.246910-05:00.jpg"
-     alt="St. Louis Post-Dispatch at 2022-09-10 23:50:49-05:00 local time"
+ <a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-19T12:26:46.194587-05:00.jpg">
+  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-09-19T12:26:46.194587-05:00.jpg"
+     alt="St. Louis Post-Dispatch at 2022-09-19 12:26:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-10T23:50:42.246910-05:00.jpg">September 10 at 11:50 PM</a></p>
+ <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-19T12:26:46.194587-05:00.jpg">September 19 at 12:26 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-10T11:10:49.683253-05:00.jpg">
-  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-09-10T11:10:49.683253-05:00.jpg"
-     alt="St. Louis Post-Dispatch at 2022-09-10 11:10:55-05:00 local time"
+ <a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-19T00:57:45.194176-05:00.jpg">
+  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-09-19T00:57:45.194176-05:00.jpg"
+     alt="St. Louis Post-Dispatch at 2022-09-19 00:57:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-10T11:10:49.683253-05:00.jpg">September 10 at 11:10 AM</a></p>
+ <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-19T00:57:45.194176-05:00.jpg">September 19 at 12:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-09T23:53:31.853815-05:00.jpg">
-  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-09-09T23:53:31.853815-05:00.jpg"
-     alt="St. Louis Post-Dispatch at 2022-09-09 23:53:33-05:00 local time"
+ <a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-18T12:16:24.408967-05:00.jpg">
+  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-09-18T12:16:24.408967-05:00.jpg"
+     alt="St. Louis Post-Dispatch at 2022-09-18 12:16:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-09T23:53:31.853815-05:00.jpg">September 9 at 11:53 PM</a></p>
+ <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-18T12:16:24.408967-05:00.jpg">September 18 at 12:16 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-09T11:35:33.750292-05:00.jpg">
-  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-09-09T11:35:33.750292-05:00.jpg"
-     alt="St. Louis Post-Dispatch at 2022-09-09 11:36:02-05:00 local time"
+ <a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-18T00:29:52.272127-05:00.jpg">
+  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-09-18T00:29:52.272127-05:00.jpg"
+     alt="St. Louis Post-Dispatch at 2022-09-18 00:29:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-09T11:35:33.750292-05:00.jpg">September 9 at 11:36 AM</a></p>
+ <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-18T00:29:52.272127-05:00.jpg">September 18 at 12:29 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-08T23:58:35.946161-05:00.jpg">
-  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-09-08T23:58:35.946161-05:00.jpg"
-     alt="St. Louis Post-Dispatch at 2022-09-08 23:59:03-05:00 local time"
+ <a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-17T11:54:52.435490-05:00.jpg">
+  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-09-17T11:54:52.435490-05:00.jpg"
+     alt="St. Louis Post-Dispatch at 2022-09-17 11:54:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-08T23:58:35.946161-05:00.jpg">September 8 at 11:59 PM</a></p>
+ <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-17T11:54:52.435490-05:00.jpg">September 17 at 11:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-08T11:37:28.597583-05:00.jpg">
-  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-09-08T11:37:28.597583-05:00.jpg"
-     alt="St. Louis Post-Dispatch at 2022-09-08 11:37:30-05:00 local time"
+ <a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-17T00:23:36.851259-05:00.jpg">
+  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-09-17T00:23:36.851259-05:00.jpg"
+     alt="St. Louis Post-Dispatch at 2022-09-17 00:23:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-08T11:37:28.597583-05:00.jpg">September 8 at 11:37 AM</a></p>
+ <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-17T00:23:36.851259-05:00.jpg">September 17 at 12:23 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-07T23:49:07.065681-05:00.jpg">
-  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-09-07T23:49:07.065681-05:00.jpg"
-     alt="St. Louis Post-Dispatch at 2022-09-07 23:49:12-05:00 local time"
+ <a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-16T11:59:51.116325-05:00.jpg">
+  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-09-16T11:59:51.116325-05:00.jpg"
+     alt="St. Louis Post-Dispatch at 2022-09-16 11:59:52-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-07T23:49:07.065681-05:00.jpg">September 7 at 11:49 PM</a></p>
+ <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-16T11:59:51.116325-05:00.jpg">September 16 at 11:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-07T12:12:06.598918-05:00.jpg">
-  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-09-07T12:12:06.598918-05:00.jpg"
-     alt="St. Louis Post-Dispatch at 2022-09-07 12:12:13-05:00 local time"
+ <a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-16T00:32:47.670389-05:00.jpg">
+  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-09-16T00:32:47.670389-05:00.jpg"
+     alt="St. Louis Post-Dispatch at 2022-09-16 00:33:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-07T12:12:06.598918-05:00.jpg">September 7 at 12:12 PM</a></p>
+ <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-16T00:32:47.670389-05:00.jpg">September 16 at 12:33 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-06T23:54:16.133077-05:00.jpg">
-  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-09-06T23:54:16.133077-05:00.jpg"
-     alt="St. Louis Post-Dispatch at 2022-09-06 23:54:21-05:00 local time"
+ <a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-15T12:15:26.095904-05:00.jpg">
+  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-09-15T12:15:26.095904-05:00.jpg"
+     alt="St. Louis Post-Dispatch at 2022-09-15 12:15:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-06T23:54:16.133077-05:00.jpg">September 6 at 11:54 PM</a></p>
+ <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-15T12:15:26.095904-05:00.jpg">September 15 at 12:15 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-05T23:55:54.287787-05:00.jpg">
-  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-09-05T23:55:54.287787-05:00.jpg"
-     alt="St. Louis Post-Dispatch at 2022-09-05 23:56:03-05:00 local time"
+ <a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-15T00:31:48.275783-05:00.jpg">
+  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-09-15T00:31:48.275783-05:00.jpg"
+     alt="St. Louis Post-Dispatch at 2022-09-15 00:31:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-05T23:55:54.287787-05:00.jpg">September 5 at 11:56 PM</a></p>
+ <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-15T00:31:48.275783-05:00.jpg">September 15 at 12:31 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-05T11:25:03.367844-05:00.jpg">
-  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-09-05T11:25:03.367844-05:00.jpg"
-     alt="St. Louis Post-Dispatch at 2022-09-05 11:25:11-05:00 local time"
+ <a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-14T12:18:29.789839-05:00.jpg">
+  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-09-14T12:18:29.789839-05:00.jpg"
+     alt="St. Louis Post-Dispatch at 2022-09-14 12:18:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-05T11:25:03.367844-05:00.jpg">September 5 at 11:25 AM</a></p>
+ <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-14T12:18:29.789839-05:00.jpg">September 14 at 12:18 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-04T23:53:28.436517-05:00.jpg">
-  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-09-04T23:53:28.436517-05:00.jpg"
-     alt="St. Louis Post-Dispatch at 2022-09-04 23:53:34-05:00 local time"
+ <a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-14T00:37:30.397019-05:00.jpg">
+  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-09-14T00:37:30.397019-05:00.jpg"
+     alt="St. Louis Post-Dispatch at 2022-09-14 00:37:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-04T23:53:28.436517-05:00.jpg">September 4 at 11:53 PM</a></p>
+ <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-09-14T00:37:30.397019-05:00.jpg">September 14 at 12:37 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 149 hyperlink lists with the Internet Archive.
+The archiving routine has saved 166 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 10 at 11:50 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-10T23:50:42.246910-05:00.hyperlinks.json) |
-| [September 10 at 11:10 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-10T11:10:49.683253-05:00.hyperlinks.json) |
-| [September 9 at 11:53 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-09T23:53:31.853815-05:00.hyperlinks.json) |
-| [September 9 at 11:36 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-09T11:35:33.750292-05:00.hyperlinks.json) |
-| [September 8 at 11:59 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-08T23:58:35.946161-05:00.hyperlinks.json) |
-| [September 8 at 11:37 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-08T11:37:28.597583-05:00.hyperlinks.json) |
-| [September 7 at 11:49 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-07T23:49:07.065681-05:00.hyperlinks.json) |
-| [September 7 at 12:12 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-07T12:12:06.598918-05:00.hyperlinks.json) |
-| [September 6 at 11:54 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-06T23:54:16.133077-05:00.hyperlinks.json) |
-| [September 5 at 11:56 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-05T23:55:54.287787-05:00.hyperlinks.json) |
+| [September 19 at 12:26 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-19T12:26:46.194587-05:00.hyperlinks.json) |
+| [September 19 at 12:57 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-19T00:57:45.194176-05:00.hyperlinks.json) |
+| [September 18 at 12:16 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-18T12:16:24.408967-05:00.hyperlinks.json) |
+| [September 18 at 12:29 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-18T00:29:52.272127-05:00.hyperlinks.json) |
+| [September 17 at 11:55 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-17T11:54:52.435490-05:00.hyperlinks.json) |
+| [September 17 at 12:23 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-17T00:23:36.851259-05:00.hyperlinks.json) |
+| [September 16 at 11:59 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-16T11:59:51.116325-05:00.hyperlinks.json) |
+| [September 16 at 12:33 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-16T00:32:47.670389-05:00.hyperlinks.json) |
+| [September 15 at 12:15 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-15T12:15:26.095904-05:00.hyperlinks.json) |
+| [September 15 at 12:31 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-15T00:31:48.275783-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 158 accessibility trees with the Internet Archive.
+The archiving routine has saved 175 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 10 at 11:50 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-10T23:50:42.246910-05:00.accessibility.json) |
-| [September 10 at 11:10 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-10T11:10:49.683253-05:00.accessibility.json) |
-| [September 9 at 11:53 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-09T23:53:31.853815-05:00.accessibility.json) |
-| [September 9 at 11:36 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-09T11:35:33.750292-05:00.accessibility.json) |
-| [September 8 at 11:59 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-08T23:58:35.946161-05:00.accessibility.json) |
-| [September 8 at 11:37 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-08T11:37:28.597583-05:00.accessibility.json) |
-| [September 7 at 11:49 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-07T23:49:07.065681-05:00.accessibility.json) |
-| [September 7 at 12:12 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-07T12:12:06.598918-05:00.accessibility.json) |
-| [September 6 at 11:54 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-06T23:54:16.133077-05:00.accessibility.json) |
-| [September 5 at 11:56 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-05T23:55:54.287787-05:00.accessibility.json) |
+| [September 19 at 12:26 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-19T12:26:46.194587-05:00.accessibility.json) |
+| [September 19 at 12:57 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-19T00:57:45.194176-05:00.accessibility.json) |
+| [September 18 at 12:16 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-18T12:16:24.408967-05:00.accessibility.json) |
+| [September 18 at 12:29 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-18T00:29:52.272127-05:00.accessibility.json) |
+| [September 17 at 11:54 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-17T11:54:52.435490-05:00.accessibility.json) |
+| [September 17 at 12:23 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-17T00:23:36.851259-05:00.accessibility.json) |
+| [September 16 at 11:59 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-16T11:59:51.116325-05:00.accessibility.json) |
+| [September 16 at 12:33 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-16T00:32:47.670389-05:00.accessibility.json) |
+| [September 15 at 12:15 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-15T12:15:26.095904-05:00.accessibility.json) |
+| [September 15 at 12:31 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-15T00:31:48.275783-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 115 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 10 at 11:50 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-10T23:50:42.246910-05:00.lighthouse.json) |
-| [September 10 at 11:11 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-10T11:10:49.683253-05:00.lighthouse.json) |
-| [September 9 at 11:53 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-09T23:53:31.853815-05:00.lighthouse.json) |
-| [September 9 at 11:36 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-09T11:35:33.750292-05:00.lighthouse.json) |
-| [September 8 at 11:59 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-08T23:58:35.946161-05:00.lighthouse.json) |
-| [September 8 at 11:37 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-08T11:37:28.597583-05:00.lighthouse.json) |
-| [September 7 at 11:49 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-07T23:49:07.065681-05:00.lighthouse.json) |
-| [September 7 at 12:12 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-07T12:12:06.598918-05:00.lighthouse.json) |
-| [September 6 at 11:54 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-06T23:54:16.133077-05:00.lighthouse.json) |
-| [September 5 at 11:56 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-05T23:55:54.287787-05:00.lighthouse.json) |
+| [September 19 at 12:26 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-19T12:26:46.194587-05:00.lighthouse.json) |
+| [September 19 at 12:57 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-19T00:57:45.194176-05:00.lighthouse.json) |
+| [September 18 at 12:16 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-18T12:16:24.408967-05:00.lighthouse.json) |
+| [September 18 at 12:29 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-18T00:29:52.272127-05:00.lighthouse.json) |
+| [September 17 at 11:55 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-17T11:54:52.435490-05:00.lighthouse.json) |
+| [September 17 at 12:23 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-17T00:23:36.851259-05:00.lighthouse.json) |
+| [September 16 at 11:59 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-16T11:59:51.116325-05:00.lighthouse.json) |
+| [September 16 at 12:33 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-16T00:32:47.670389-05:00.lighthouse.json) |
+| [September 15 at 12:15 PM](https://archive.org/download/stltoday-2022/stltoday-2022-09-15T12:15:26.095904-05:00.lighthouse.json) |
+| [September 15 at 12:31 AM](https://archive.org/download/stltoday-2022/stltoday-2022-09-15T00:31:48.275783-05:00.lighthouse.json) |
 
 
 

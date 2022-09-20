@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 107 screenshots with the Internet Archive.
+The archiving routine has saved 131 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-11T11:06:28.877938-03:00.jpg">
-  <img src="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-11T11:06:28.877938-03:00.jpg"
-     alt="Agência Pública at 2022-09-11 11:06:30-03:00 local time"
+ <a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-19T11:57:02.654245-03:00.jpg">
+  <img src="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-19T11:57:02.654245-03:00.jpg"
+     alt="Agência Pública at 2022-09-19 11:57:04-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-11T11:06:28.877938-03:00.jpg">September 11 at 11:06 AM</a></p>
+ <p><a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-19T11:57:02.654245-03:00.jpg">September 19 at 11:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-11T09:00:55.814972-03:00.jpg">
-  <img src="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-11T09:00:55.814972-03:00.jpg"
-     alt="Agência Pública at 2022-09-11 09:01:01-03:00 local time"
+ <a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-19T09:01:08.254089-03:00.jpg">
+  <img src="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-19T09:01:08.254089-03:00.jpg"
+     alt="Agência Pública at 2022-09-19 09:01:14-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-11T09:00:55.814972-03:00.jpg">September 11 at 9:01 AM</a></p>
+ <p><a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-19T09:01:08.254089-03:00.jpg">September 19 at 9:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-10T23:26:51.225124-03:00.jpg">
-  <img src="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-10T23:26:51.225124-03:00.jpg"
-     alt="Agência Pública at 2022-09-10 23:26:53-03:00 local time"
+ <a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-19T00:40:08.037953-03:00.jpg">
+  <img src="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-19T00:40:08.037953-03:00.jpg"
+     alt="Agência Pública at 2022-09-19 00:40:09-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-10T23:26:51.225124-03:00.jpg">September 10 at 11:26 PM</a></p>
+ <p><a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-19T00:40:08.037953-03:00.jpg">September 19 at 12:40 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-10T11:06:09.275513-03:00.jpg">
-  <img src="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-10T11:06:09.275513-03:00.jpg"
-     alt="Agência Pública at 2022-09-10 11:06:11-03:00 local time"
+ <a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-18T10:59:01.612927-03:00.jpg">
+  <img src="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-18T10:59:01.612927-03:00.jpg"
+     alt="Agência Pública at 2022-09-18 10:59:03-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-10T11:06:09.275513-03:00.jpg">September 10 at 11:06 AM</a></p>
+ <p><a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-18T10:59:01.612927-03:00.jpg">September 18 at 10:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-10T09:03:35.556132-03:00.jpg">
-  <img src="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-10T09:03:35.556132-03:00.jpg"
-     alt="Agência Pública at 2022-09-10 09:03:37-03:00 local time"
+ <a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-18T09:01:45.927235-03:00.jpg">
+  <img src="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-18T09:01:45.927235-03:00.jpg"
+     alt="Agência Pública at 2022-09-18 09:01:49-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-10T09:03:35.556132-03:00.jpg">September 10 at 9:03 AM</a></p>
+ <p><a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-18T09:01:45.927235-03:00.jpg">September 18 at 9:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-09T23:26:05.654552-03:00.jpg">
-  <img src="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-09T23:26:05.654552-03:00.jpg"
-     alt="Agência Pública at 2022-09-09 23:26:09-03:00 local time"
+ <a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-17T23:25:25.483026-03:00.jpg">
+  <img src="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-17T23:25:25.483026-03:00.jpg"
+     alt="Agência Pública at 2022-09-17 23:25:29-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-09T23:26:05.654552-03:00.jpg">September 9 at 11:26 PM</a></p>
+ <p><a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-17T23:25:25.483026-03:00.jpg">September 17 at 11:25 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-09T11:26:17.191715-03:00.jpg">
-  <img src="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-09T11:26:17.191715-03:00.jpg"
-     alt="Agência Pública at 2022-09-09 11:26:19-03:00 local time"
+ <a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-17T10:57:33.104618-03:00.jpg">
+  <img src="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-17T10:57:33.104618-03:00.jpg"
+     alt="Agência Pública at 2022-09-17 10:57:34-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-09T11:26:17.191715-03:00.jpg">September 9 at 11:26 AM</a></p>
+ <p><a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-17T10:57:33.104618-03:00.jpg">September 17 at 10:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-09T09:21:33.552920-03:00.jpg">
-  <img src="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-09T09:21:33.552920-03:00.jpg"
-     alt="Agência Pública at 2022-09-09 09:21:35-03:00 local time"
+ <a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-17T09:03:13.954042-03:00.jpg">
+  <img src="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-17T09:03:13.954042-03:00.jpg"
+     alt="Agência Pública at 2022-09-17 09:03:16-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-09T09:21:33.552920-03:00.jpg">September 9 at 9:21 AM</a></p>
+ <p><a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-17T09:03:13.954042-03:00.jpg">September 17 at 9:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-08T23:28:30.760487-03:00.jpg">
-  <img src="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-08T23:28:30.760487-03:00.jpg"
-     alt="Agência Pública at 2022-09-08 23:28:32-03:00 local time"
+ <a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-16T23:22:48.556174-03:00.jpg">
+  <img src="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-16T23:22:48.556174-03:00.jpg"
+     alt="Agência Pública at 2022-09-16 23:22:52-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-08T23:28:30.760487-03:00.jpg">September 8 at 11:28 PM</a></p>
+ <p><a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-16T23:22:48.556174-03:00.jpg">September 16 at 11:22 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-08T11:16:13.097197-03:00.jpg">
-  <img src="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-08T11:16:13.097197-03:00.jpg"
-     alt="Agência Pública at 2022-09-08 11:16:22-03:00 local time"
+ <a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-16T11:03:35.749461-03:00.jpg">
+  <img src="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-16T11:03:35.749461-03:00.jpg"
+     alt="Agência Pública at 2022-09-16 11:03:41-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-08T11:16:13.097197-03:00.jpg">September 8 at 11:16 AM</a></p>
+ <p><a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-16T11:03:35.749461-03:00.jpg">September 16 at 11:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-08T09:09:19.364286-03:00.jpg">
-  <img src="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-08T09:09:19.364286-03:00.jpg"
-     alt="Agência Pública at 2022-09-08 09:09:21-03:00 local time"
+ <a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-16T09:01:53.583260-03:00.jpg">
+  <img src="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-16T09:01:53.583260-03:00.jpg"
+     alt="Agência Pública at 2022-09-16 09:02:00-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-08T09:09:19.364286-03:00.jpg">September 8 at 9:09 AM</a></p>
+ <p><a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-16T09:01:53.583260-03:00.jpg">September 16 at 9:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-07T23:32:00.995549-03:00.jpg">
-  <img src="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-07T23:32:00.995549-03:00.jpg"
-     alt="Agência Pública at 2022-09-07 23:32:09-03:00 local time"
+ <a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-15T23:23:03.138975-03:00.jpg">
+  <img src="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-15T23:23:03.138975-03:00.jpg"
+     alt="Agência Pública at 2022-09-15 23:23:04-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-07T23:32:00.995549-03:00.jpg">September 7 at 11:32 PM</a></p>
+ <p><a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-15T23:23:03.138975-03:00.jpg">September 15 at 11:23 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 107 hyperlink lists with the Internet Archive.
+The archiving routine has saved 131 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 11:06 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-11T11:06:28.877938-03:00.hyperlinks.json) |
-| [September 11 at 9:01 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-11T09:00:55.814972-03:00.hyperlinks.json) |
-| [September 10 at 11:26 PM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-10T23:26:51.225124-03:00.hyperlinks.json) |
-| [September 10 at 11:06 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-10T11:06:09.275513-03:00.hyperlinks.json) |
-| [September 10 at 9:03 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-10T09:03:35.556132-03:00.hyperlinks.json) |
-| [September 9 at 11:26 PM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-09T23:26:05.654552-03:00.hyperlinks.json) |
-| [September 9 at 11:26 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-09T11:26:17.191715-03:00.hyperlinks.json) |
-| [September 9 at 9:21 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-09T09:21:33.552920-03:00.hyperlinks.json) |
-| [September 8 at 11:28 PM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-08T23:28:30.760487-03:00.hyperlinks.json) |
-| [September 8 at 11:16 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-08T11:16:13.097197-03:00.hyperlinks.json) |
+| [September 19 at 11:57 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-19T11:57:02.654245-03:00.hyperlinks.json) |
+| [September 19 at 9:01 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-19T09:01:08.254089-03:00.hyperlinks.json) |
+| [September 19 at 12:40 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-19T00:40:08.037953-03:00.hyperlinks.json) |
+| [September 18 at 10:59 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-18T10:59:01.612927-03:00.hyperlinks.json) |
+| [September 18 at 9:01 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-18T09:01:45.927235-03:00.hyperlinks.json) |
+| [September 17 at 11:25 PM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-17T23:25:25.483026-03:00.hyperlinks.json) |
+| [September 17 at 10:57 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-17T10:57:33.104618-03:00.hyperlinks.json) |
+| [September 17 at 9:03 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-17T09:03:13.954042-03:00.hyperlinks.json) |
+| [September 16 at 11:22 PM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-16T23:22:48.556174-03:00.hyperlinks.json) |
+| [September 16 at 11:03 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-16T11:03:35.749461-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 107 accessibility trees with the Internet Archive.
+The archiving routine has saved 131 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 11:06 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-11T11:06:28.877938-03:00.accessibility.json) |
-| [September 11 at 9:01 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-11T09:00:55.814972-03:00.accessibility.json) |
-| [September 10 at 11:26 PM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-10T23:26:51.225124-03:00.accessibility.json) |
-| [September 10 at 11:06 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-10T11:06:09.275513-03:00.accessibility.json) |
-| [September 10 at 9:03 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-10T09:03:35.556132-03:00.accessibility.json) |
-| [September 9 at 11:26 PM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-09T23:26:05.654552-03:00.accessibility.json) |
-| [September 9 at 11:26 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-09T11:26:17.191715-03:00.accessibility.json) |
-| [September 9 at 9:21 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-09T09:21:33.552920-03:00.accessibility.json) |
-| [September 8 at 11:28 PM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-08T23:28:30.760487-03:00.accessibility.json) |
-| [September 8 at 11:16 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-08T11:16:13.097197-03:00.accessibility.json) |
+| [September 19 at 11:57 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-19T11:57:02.654245-03:00.accessibility.json) |
+| [September 19 at 9:01 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-19T09:01:08.254089-03:00.accessibility.json) |
+| [September 19 at 12:40 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-19T00:40:08.037953-03:00.accessibility.json) |
+| [September 18 at 10:59 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-18T10:59:01.612927-03:00.accessibility.json) |
+| [September 18 at 9:01 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-18T09:01:45.927235-03:00.accessibility.json) |
+| [September 17 at 11:25 PM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-17T23:25:25.483026-03:00.accessibility.json) |
+| [September 17 at 10:57 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-17T10:57:33.104618-03:00.accessibility.json) |
+| [September 17 at 9:03 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-17T09:03:13.954042-03:00.accessibility.json) |
+| [September 16 at 11:22 PM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-16T23:22:48.556174-03:00.accessibility.json) |
+| [September 16 at 11:03 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-16T11:03:35.749461-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 107 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 131 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 11:06 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-11T11:06:28.877938-03:00.lighthouse.json) |
-| [September 11 at 9:01 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-11T09:00:55.814972-03:00.lighthouse.json) |
-| [September 10 at 11:26 PM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-10T23:26:51.225124-03:00.lighthouse.json) |
-| [September 10 at 11:06 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-10T11:06:09.275513-03:00.lighthouse.json) |
-| [September 10 at 9:03 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-10T09:03:35.556132-03:00.lighthouse.json) |
-| [September 9 at 11:26 PM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-09T23:26:05.654552-03:00.lighthouse.json) |
-| [September 9 at 11:26 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-09T11:26:17.191715-03:00.lighthouse.json) |
-| [September 9 at 9:21 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-09T09:21:33.552920-03:00.lighthouse.json) |
-| [September 8 at 11:28 PM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-08T23:28:30.760487-03:00.lighthouse.json) |
-| [September 8 at 11:16 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-08T11:16:13.097197-03:00.lighthouse.json) |
+| [September 19 at 11:57 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-19T11:57:02.654245-03:00.lighthouse.json) |
+| [September 19 at 9:01 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-19T09:01:08.254089-03:00.lighthouse.json) |
+| [September 19 at 12:40 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-19T00:40:08.037953-03:00.lighthouse.json) |
+| [September 18 at 10:59 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-18T10:59:01.612927-03:00.lighthouse.json) |
+| [September 18 at 9:01 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-18T09:01:45.927235-03:00.lighthouse.json) |
+| [September 17 at 11:25 PM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-17T23:25:25.483026-03:00.lighthouse.json) |
+| [September 17 at 10:57 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-17T10:57:33.104618-03:00.lighthouse.json) |
+| [September 17 at 9:03 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-17T09:03:13.954042-03:00.lighthouse.json) |
+| [September 16 at 11:22 PM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-16T23:22:48.556174-03:00.lighthouse.json) |
+| [September 16 at 11:03 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-09-16T11:03:35.749461-03:00.lighthouse.json) |
 
 
 

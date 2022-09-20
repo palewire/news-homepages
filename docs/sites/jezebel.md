@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 160 screenshots with the Internet Archive.
+The archiving routine has saved 184 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-11T14:30:08.412518-04:00.jpg">
-  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-09-11T14:30:08.412518-04:00.jpg"
-     alt="Jezebel at 2022-09-11 14:30:20-04:00 local time"
+ <a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-19T14:35:23.405019-04:00.jpg">
+  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-09-19T14:35:23.405019-04:00.jpg"
+     alt="Jezebel at 2022-09-19 14:35:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-11T14:30:08.412518-04:00.jpg">September 11 at 2:30 PM</a></p>
+ <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-19T14:35:23.405019-04:00.jpg">September 19 at 2:35 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-11T07:57:00.409670-04:00.jpg">
-  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-09-11T07:57:00.409670-04:00.jpg"
-     alt="Jezebel at 2022-09-11 07:57:01-04:00 local time"
+ <a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-19T07:58:14.283345-04:00.jpg">
+  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-09-19T07:58:14.283345-04:00.jpg"
+     alt="Jezebel at 2022-09-19 07:58:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-11T07:57:00.409670-04:00.jpg">September 11 at 7:57 AM</a></p>
+ <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-19T07:58:14.283345-04:00.jpg">September 19 at 7:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-10T20:12:14.976128-04:00.jpg">
-  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-09-10T20:12:14.976128-04:00.jpg"
-     alt="Jezebel at 2022-09-10 20:12:27-04:00 local time"
+ <a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-18T19:48:55.623455-04:00.jpg">
+  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-09-18T19:48:55.623455-04:00.jpg"
+     alt="Jezebel at 2022-09-18 19:48:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-10T20:12:14.976128-04:00.jpg">September 10 at 8:12 PM</a></p>
+ <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-18T19:48:55.623455-04:00.jpg">September 18 at 7:48 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-10T14:31:48.274123-04:00.jpg">
-  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-09-10T14:31:48.274123-04:00.jpg"
-     alt="Jezebel at 2022-09-10 14:31:59-04:00 local time"
+ <a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-18T14:30:36.209486-04:00.jpg">
+  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-09-18T14:30:36.209486-04:00.jpg"
+     alt="Jezebel at 2022-09-18 14:30:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-10T14:31:48.274123-04:00.jpg">September 10 at 2:31 PM</a></p>
+ <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-18T14:30:36.209486-04:00.jpg">September 18 at 2:30 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-10T07:58:46.016052-04:00.jpg">
-  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-09-10T07:58:46.016052-04:00.jpg"
-     alt="Jezebel at 2022-09-10 07:58:55-04:00 local time"
+ <a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-18T07:57:58.531474-04:00.jpg">
+  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-09-18T07:57:58.531474-04:00.jpg"
+     alt="Jezebel at 2022-09-18 07:58:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-10T07:58:46.016052-04:00.jpg">September 10 at 7:58 AM</a></p>
+ <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-18T07:57:58.531474-04:00.jpg">September 18 at 7:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-09T20:04:36.427317-04:00.jpg">
-  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-09-09T20:04:36.427317-04:00.jpg"
-     alt="Jezebel at 2022-09-09 20:04:38-04:00 local time"
+ <a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-17T19:50:03.081224-04:00.jpg">
+  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-09-17T19:50:03.081224-04:00.jpg"
+     alt="Jezebel at 2022-09-17 19:50:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-09T20:04:36.427317-04:00.jpg">September 9 at 8:04 PM</a></p>
+ <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-17T19:50:03.081224-04:00.jpg">September 17 at 7:50 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-09T14:32:45.347562-04:00.jpg">
-  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-09-09T14:32:45.347562-04:00.jpg"
-     alt="Jezebel at 2022-09-09 14:32:52-04:00 local time"
+ <a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-17T14:31:40.974001-04:00.jpg">
+  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-09-17T14:31:40.974001-04:00.jpg"
+     alt="Jezebel at 2022-09-17 14:31:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-09T14:32:45.347562-04:00.jpg">September 9 at 2:32 PM</a></p>
+ <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-17T14:31:40.974001-04:00.jpg">September 17 at 2:31 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-09T08:14:55.819917-04:00.jpg">
-  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-09-09T08:14:55.819917-04:00.jpg"
-     alt="Jezebel at 2022-09-09 08:15:00-04:00 local time"
+ <a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-17T08:00:02.019785-04:00.jpg">
+  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-09-17T08:00:02.019785-04:00.jpg"
+     alt="Jezebel at 2022-09-17 08:00:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-09T08:14:55.819917-04:00.jpg">September 9 at 8:15 AM</a></p>
+ <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-17T08:00:02.019785-04:00.jpg">September 17 at 8:00 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-08T20:05:03.501551-04:00.jpg">
-  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-09-08T20:05:03.501551-04:00.jpg"
-     alt="Jezebel at 2022-09-08 20:05:08-04:00 local time"
+ <a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-16T19:52:00.664778-04:00.jpg">
+  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-09-16T19:52:00.664778-04:00.jpg"
+     alt="Jezebel at 2022-09-16 19:52:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-08T20:05:03.501551-04:00.jpg">September 8 at 8:05 PM</a></p>
+ <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-16T19:52:00.664778-04:00.jpg">September 16 at 7:52 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-08T08:22:32.311108-04:00.jpg">
-  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-09-08T08:22:32.311108-04:00.jpg"
-     alt="Jezebel at 2022-09-08 08:22:44-04:00 local time"
+ <a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-16T14:31:56.063042-04:00.jpg">
+  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-09-16T14:31:56.063042-04:00.jpg"
+     alt="Jezebel at 2022-09-16 14:31:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-08T08:22:32.311108-04:00.jpg">September 8 at 8:22 AM</a></p>
+ <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-16T14:31:56.063042-04:00.jpg">September 16 at 2:31 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-07T19:55:38.817165-04:00.jpg">
-  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-09-07T19:55:38.817165-04:00.jpg"
-     alt="Jezebel at 2022-09-07 19:55:44-04:00 local time"
+ <a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-16T07:59:07.986444-04:00.jpg">
+  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-09-16T07:59:07.986444-04:00.jpg"
+     alt="Jezebel at 2022-09-16 07:59:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-07T19:55:38.817165-04:00.jpg">September 7 at 7:55 PM</a></p>
+ <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-16T07:59:07.986444-04:00.jpg">September 16 at 7:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-07T15:06:25.783166-04:00.jpg">
-  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-09-07T15:06:25.783166-04:00.jpg"
-     alt="Jezebel at 2022-09-07 15:06:33-04:00 local time"
+ <a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-15T19:50:31.306161-04:00.jpg">
+  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-09-15T19:50:31.306161-04:00.jpg"
+     alt="Jezebel at 2022-09-15 19:50:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-07T15:06:25.783166-04:00.jpg">September 7 at 3:06 PM</a></p>
+ <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-09-15T19:50:31.306161-04:00.jpg">September 15 at 7:50 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 123 hyperlink lists with the Internet Archive.
+The archiving routine has saved 147 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 2:30 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-11T14:30:08.412518-04:00.hyperlinks.json) |
-| [September 11 at 7:57 AM](https://archive.org/download/jezebel-2022/jezebel-2022-09-11T07:57:00.409670-04:00.hyperlinks.json) |
-| [September 10 at 8:12 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-10T20:12:14.976128-04:00.hyperlinks.json) |
-| [September 10 at 2:32 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-10T14:31:48.274123-04:00.hyperlinks.json) |
-| [September 10 at 7:58 AM](https://archive.org/download/jezebel-2022/jezebel-2022-09-10T07:58:46.016052-04:00.hyperlinks.json) |
-| [September 9 at 8:04 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-09T20:04:36.427317-04:00.hyperlinks.json) |
-| [September 9 at 2:32 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-09T14:32:45.347562-04:00.hyperlinks.json) |
-| [September 9 at 8:15 AM](https://archive.org/download/jezebel-2022/jezebel-2022-09-09T08:14:55.819917-04:00.hyperlinks.json) |
-| [September 8 at 8:05 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-08T20:05:03.501551-04:00.hyperlinks.json) |
-| [September 8 at 8:22 AM](https://archive.org/download/jezebel-2022/jezebel-2022-09-08T08:22:32.311108-04:00.hyperlinks.json) |
+| [September 19 at 2:35 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-19T14:35:23.405019-04:00.hyperlinks.json) |
+| [September 19 at 7:58 AM](https://archive.org/download/jezebel-2022/jezebel-2022-09-19T07:58:14.283345-04:00.hyperlinks.json) |
+| [September 18 at 7:49 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-18T19:48:55.623455-04:00.hyperlinks.json) |
+| [September 18 at 2:30 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-18T14:30:36.209486-04:00.hyperlinks.json) |
+| [September 18 at 7:58 AM](https://archive.org/download/jezebel-2022/jezebel-2022-09-18T07:57:58.531474-04:00.hyperlinks.json) |
+| [September 17 at 7:50 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-17T19:50:03.081224-04:00.hyperlinks.json) |
+| [September 17 at 2:31 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-17T14:31:40.974001-04:00.hyperlinks.json) |
+| [September 17 at 8:00 AM](https://archive.org/download/jezebel-2022/jezebel-2022-09-17T08:00:02.019785-04:00.hyperlinks.json) |
+| [September 16 at 7:52 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-16T19:52:00.664778-04:00.hyperlinks.json) |
+| [September 16 at 2:32 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-16T14:31:56.063042-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 131 accessibility trees with the Internet Archive.
+The archiving routine has saved 155 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 2:30 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-11T14:30:08.412518-04:00.accessibility.json) |
-| [September 11 at 7:57 AM](https://archive.org/download/jezebel-2022/jezebel-2022-09-11T07:57:00.409670-04:00.accessibility.json) |
-| [September 10 at 8:12 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-10T20:12:14.976128-04:00.accessibility.json) |
-| [September 10 at 2:32 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-10T14:31:48.274123-04:00.accessibility.json) |
-| [September 10 at 7:58 AM](https://archive.org/download/jezebel-2022/jezebel-2022-09-10T07:58:46.016052-04:00.accessibility.json) |
-| [September 9 at 8:04 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-09T20:04:36.427317-04:00.accessibility.json) |
-| [September 9 at 2:32 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-09T14:32:45.347562-04:00.accessibility.json) |
-| [September 9 at 8:15 AM](https://archive.org/download/jezebel-2022/jezebel-2022-09-09T08:14:55.819917-04:00.accessibility.json) |
-| [September 8 at 8:05 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-08T20:05:03.501551-04:00.accessibility.json) |
-| [September 8 at 8:22 AM](https://archive.org/download/jezebel-2022/jezebel-2022-09-08T08:22:32.311108-04:00.accessibility.json) |
+| [September 19 at 2:35 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-19T14:35:23.405019-04:00.accessibility.json) |
+| [September 19 at 7:58 AM](https://archive.org/download/jezebel-2022/jezebel-2022-09-19T07:58:14.283345-04:00.accessibility.json) |
+| [September 18 at 7:48 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-18T19:48:55.623455-04:00.accessibility.json) |
+| [September 18 at 2:30 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-18T14:30:36.209486-04:00.accessibility.json) |
+| [September 18 at 7:58 AM](https://archive.org/download/jezebel-2022/jezebel-2022-09-18T07:57:58.531474-04:00.accessibility.json) |
+| [September 17 at 7:50 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-17T19:50:03.081224-04:00.accessibility.json) |
+| [September 17 at 2:31 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-17T14:31:40.974001-04:00.accessibility.json) |
+| [September 17 at 8:00 AM](https://archive.org/download/jezebel-2022/jezebel-2022-09-17T08:00:02.019785-04:00.accessibility.json) |
+| [September 16 at 7:52 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-16T19:52:00.664778-04:00.accessibility.json) |
+| [September 16 at 2:32 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-16T14:31:56.063042-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 147 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 171 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 2:30 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-11T14:30:08.412518-04:00.lighthouse.json) |
-| [September 11 at 7:57 AM](https://archive.org/download/jezebel-2022/jezebel-2022-09-11T07:57:00.409670-04:00.lighthouse.json) |
-| [September 10 at 8:12 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-10T20:12:14.976128-04:00.lighthouse.json) |
-| [September 10 at 2:32 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-10T14:31:48.274123-04:00.lighthouse.json) |
-| [September 10 at 7:59 AM](https://archive.org/download/jezebel-2022/jezebel-2022-09-10T07:58:46.016052-04:00.lighthouse.json) |
-| [September 9 at 8:04 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-09T20:04:36.427317-04:00.lighthouse.json) |
-| [September 9 at 2:32 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-09T14:32:45.347562-04:00.lighthouse.json) |
-| [September 9 at 8:15 AM](https://archive.org/download/jezebel-2022/jezebel-2022-09-09T08:14:55.819917-04:00.lighthouse.json) |
-| [September 8 at 8:05 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-08T20:05:03.501551-04:00.lighthouse.json) |
-| [September 8 at 8:22 AM](https://archive.org/download/jezebel-2022/jezebel-2022-09-08T08:22:32.311108-04:00.lighthouse.json) |
+| [September 19 at 2:35 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-19T14:35:23.405019-04:00.lighthouse.json) |
+| [September 19 at 7:58 AM](https://archive.org/download/jezebel-2022/jezebel-2022-09-19T07:58:14.283345-04:00.lighthouse.json) |
+| [September 18 at 7:49 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-18T19:48:55.623455-04:00.lighthouse.json) |
+| [September 18 at 2:30 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-18T14:30:36.209486-04:00.lighthouse.json) |
+| [September 18 at 7:58 AM](https://archive.org/download/jezebel-2022/jezebel-2022-09-18T07:57:58.531474-04:00.lighthouse.json) |
+| [September 17 at 7:50 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-17T19:50:03.081224-04:00.lighthouse.json) |
+| [September 17 at 2:31 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-17T14:31:40.974001-04:00.lighthouse.json) |
+| [September 17 at 8:00 AM](https://archive.org/download/jezebel-2022/jezebel-2022-09-17T08:00:02.019785-04:00.lighthouse.json) |
+| [September 16 at 7:52 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-16T19:52:00.664778-04:00.lighthouse.json) |
+| [September 16 at 2:32 PM](https://archive.org/download/jezebel-2022/jezebel-2022-09-16T14:31:56.063042-04:00.lighthouse.json) |
 
 
 

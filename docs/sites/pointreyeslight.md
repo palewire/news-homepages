@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 168 screenshots with the Internet Archive.
+The archiving routine has saved 184 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-11T06:03:22.322363-07:00.jpg">
-  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-11T06:03:22.322363-07:00.jpg"
-     alt="Point Reyes Light at 2022-09-11 06:03:28-07:00 local time"
+ <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-19T05:58:18.211438-07:00.jpg">
+  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-19T05:58:18.211438-07:00.jpg"
+     alt="Point Reyes Light at 2022-09-19 05:58:22-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-11T06:03:22.322363-07:00.jpg">September 11 at 6:03 AM</a></p>
+ <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-19T05:58:18.211438-07:00.jpg">September 19 at 5:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-10T18:20:32.195452-07:00.jpg">
-  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-10T18:20:32.195452-07:00.jpg"
-     alt="Point Reyes Light at 2022-09-10 18:20:39-07:00 local time"
+ <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-18T18:15:03.464057-07:00.jpg">
+  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-18T18:15:03.464057-07:00.jpg"
+     alt="Point Reyes Light at 2022-09-18 18:15:09-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-10T18:20:32.195452-07:00.jpg">September 10 at 6:20 PM</a></p>
+ <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-18T18:15:03.464057-07:00.jpg">September 18 at 6:15 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-10T06:04:50.217579-07:00.jpg">
-  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-10T06:04:50.217579-07:00.jpg"
-     alt="Point Reyes Light at 2022-09-10 06:05:11-07:00 local time"
+ <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-18T05:59:33.030687-07:00.jpg">
+  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-18T05:59:33.030687-07:00.jpg"
+     alt="Point Reyes Light at 2022-09-18 05:59:41-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-10T06:04:50.217579-07:00.jpg">September 10 at 6:05 AM</a></p>
+ <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-18T05:59:33.030687-07:00.jpg">September 18 at 5:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-09T18:23:17.061009-07:00.jpg">
-  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-09T18:23:17.061009-07:00.jpg"
-     alt="Point Reyes Light at 2022-09-09 18:23:36-07:00 local time"
+ <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-17T18:21:40.205518-07:00.jpg">
+  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-17T18:21:40.205518-07:00.jpg"
+     alt="Point Reyes Light at 2022-09-17 18:21:51-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-09T18:23:17.061009-07:00.jpg">September 9 at 6:23 PM</a></p>
+ <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-17T18:21:40.205518-07:00.jpg">September 17 at 6:21 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-09T06:21:08.956010-07:00.jpg">
-  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-09T06:21:08.956010-07:00.jpg"
-     alt="Point Reyes Light at 2022-09-09 06:21:14-07:00 local time"
+ <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-17T06:00:15.655548-07:00.jpg">
+  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-17T06:00:15.655548-07:00.jpg"
+     alt="Point Reyes Light at 2022-09-17 06:00:18-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-09T06:21:08.956010-07:00.jpg">September 9 at 6:21 AM</a></p>
+ <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-17T06:00:15.655548-07:00.jpg">September 17 at 6:00 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-08T18:23:35.758053-07:00.jpg">
-  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-08T18:23:35.758053-07:00.jpg"
-     alt="Point Reyes Light at 2022-09-08 18:23:40-07:00 local time"
+ <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-16T18:13:49.841324-07:00.jpg">
+  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-16T18:13:49.841324-07:00.jpg"
+     alt="Point Reyes Light at 2022-09-16 18:13:52-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-08T18:23:35.758053-07:00.jpg">September 8 at 6:23 PM</a></p>
+ <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-16T18:13:49.841324-07:00.jpg">September 16 at 6:13 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-08T06:14:24.284093-07:00.jpg">
-  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-08T06:14:24.284093-07:00.jpg"
-     alt="Point Reyes Light at 2022-09-08 06:14:31-07:00 local time"
+ <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-16T06:01:15.292993-07:00.jpg">
+  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-16T06:01:15.292993-07:00.jpg"
+     alt="Point Reyes Light at 2022-09-16 06:01:21-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-08T06:14:24.284093-07:00.jpg">September 8 at 6:14 AM</a></p>
+ <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-16T06:01:15.292993-07:00.jpg">September 16 at 6:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-07T18:22:06.047460-07:00.jpg">
-  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-07T18:22:06.047460-07:00.jpg"
-     alt="Point Reyes Light at 2022-09-07 18:22:12-07:00 local time"
+ <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-15T18:18:11.620057-07:00.jpg">
+  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-15T18:18:11.620057-07:00.jpg"
+     alt="Point Reyes Light at 2022-09-15 18:18:20-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-07T18:22:06.047460-07:00.jpg">September 7 at 6:22 PM</a></p>
+ <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-15T18:18:11.620057-07:00.jpg">September 15 at 6:18 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-07T06:36:48.757817-07:00.jpg">
-  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-07T06:36:48.757817-07:00.jpg"
-     alt="Point Reyes Light at 2022-09-07 06:36:51-07:00 local time"
+ <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-15T06:03:25.005379-07:00.jpg">
+  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-15T06:03:25.005379-07:00.jpg"
+     alt="Point Reyes Light at 2022-09-15 06:03:29-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-07T06:36:48.757817-07:00.jpg">September 7 at 6:36 AM</a></p>
+ <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-15T06:03:25.005379-07:00.jpg">September 15 at 6:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-06T18:18:52.331582-07:00.jpg">
-  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-06T18:18:52.331582-07:00.jpg"
-     alt="Point Reyes Light at 2022-09-06 18:18:56-07:00 local time"
+ <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-14T18:19:45.818489-07:00.jpg">
+  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-14T18:19:45.818489-07:00.jpg"
+     alt="Point Reyes Light at 2022-09-14 18:19:47-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-06T18:18:52.331582-07:00.jpg">September 6 at 6:18 PM</a></p>
+ <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-14T18:19:45.818489-07:00.jpg">September 14 at 6:19 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-05T18:22:48.134721-07:00.jpg">
-  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-05T18:22:48.134721-07:00.jpg"
-     alt="Point Reyes Light at 2022-09-05 18:22:51-07:00 local time"
+ <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-14T06:07:24.609495-07:00.jpg">
+  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-14T06:07:24.609495-07:00.jpg"
+     alt="Point Reyes Light at 2022-09-14 06:07:29-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-05T18:22:48.134721-07:00.jpg">September 5 at 6:22 PM</a></p>
+ <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-14T06:07:24.609495-07:00.jpg">September 14 at 6:07 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-05T07:07:32.116884-07:00.jpg">
-  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-05T07:07:32.116884-07:00.jpg"
-     alt="Point Reyes Light at 2022-09-05 07:07:35-07:00 local time"
+ <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-13T18:24:35.062759-07:00.jpg">
+  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-13T18:24:35.062759-07:00.jpg"
+     alt="Point Reyes Light at 2022-09-13 18:24:36-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-05T07:07:32.116884-07:00.jpg">September 5 at 7:07 AM</a></p>
+ <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-13T18:24:35.062759-07:00.jpg">September 13 at 6:24 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 168 hyperlink lists with the Internet Archive.
+The archiving routine has saved 184 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 6:03 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-11T06:03:22.322363-07:00.hyperlinks.json) |
-| [September 10 at 6:20 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-10T18:20:32.195452-07:00.hyperlinks.json) |
-| [September 10 at 6:05 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-10T06:04:50.217579-07:00.hyperlinks.json) |
-| [September 9 at 6:23 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-09T18:23:17.061009-07:00.hyperlinks.json) |
-| [September 9 at 6:21 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-09T06:21:08.956010-07:00.hyperlinks.json) |
-| [September 8 at 6:23 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-08T18:23:35.758053-07:00.hyperlinks.json) |
-| [September 8 at 6:14 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-08T06:14:24.284093-07:00.hyperlinks.json) |
-| [September 7 at 6:22 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-07T18:22:06.047460-07:00.hyperlinks.json) |
-| [September 7 at 6:36 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-07T06:36:48.757817-07:00.hyperlinks.json) |
-| [September 6 at 6:19 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-06T18:18:52.331582-07:00.hyperlinks.json) |
+| [September 19 at 5:58 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-19T05:58:18.211438-07:00.hyperlinks.json) |
+| [September 18 at 6:15 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-18T18:15:03.464057-07:00.hyperlinks.json) |
+| [September 18 at 5:59 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-18T05:59:33.030687-07:00.hyperlinks.json) |
+| [September 17 at 6:21 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-17T18:21:40.205518-07:00.hyperlinks.json) |
+| [September 17 at 6:00 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-17T06:00:15.655548-07:00.hyperlinks.json) |
+| [September 16 at 6:13 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-16T18:13:49.841324-07:00.hyperlinks.json) |
+| [September 16 at 6:01 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-16T06:01:15.292993-07:00.hyperlinks.json) |
+| [September 15 at 6:18 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-15T18:18:11.620057-07:00.hyperlinks.json) |
+| [September 15 at 6:03 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-15T06:03:25.005379-07:00.hyperlinks.json) |
+| [September 14 at 6:19 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-14T18:19:45.818489-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 168 accessibility trees with the Internet Archive.
+The archiving routine has saved 184 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 6:03 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-11T06:03:22.322363-07:00.accessibility.json) |
-| [September 10 at 6:20 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-10T18:20:32.195452-07:00.accessibility.json) |
-| [September 10 at 6:05 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-10T06:04:50.217579-07:00.accessibility.json) |
-| [September 9 at 6:23 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-09T18:23:17.061009-07:00.accessibility.json) |
-| [September 9 at 6:21 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-09T06:21:08.956010-07:00.accessibility.json) |
-| [September 8 at 6:23 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-08T18:23:35.758053-07:00.accessibility.json) |
-| [September 8 at 6:14 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-08T06:14:24.284093-07:00.accessibility.json) |
-| [September 7 at 6:22 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-07T18:22:06.047460-07:00.accessibility.json) |
-| [September 7 at 6:36 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-07T06:36:48.757817-07:00.accessibility.json) |
-| [September 6 at 6:18 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-06T18:18:52.331582-07:00.accessibility.json) |
+| [September 19 at 5:58 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-19T05:58:18.211438-07:00.accessibility.json) |
+| [September 18 at 6:15 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-18T18:15:03.464057-07:00.accessibility.json) |
+| [September 18 at 5:59 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-18T05:59:33.030687-07:00.accessibility.json) |
+| [September 17 at 6:21 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-17T18:21:40.205518-07:00.accessibility.json) |
+| [September 17 at 6:00 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-17T06:00:15.655548-07:00.accessibility.json) |
+| [September 16 at 6:13 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-16T18:13:49.841324-07:00.accessibility.json) |
+| [September 16 at 6:01 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-16T06:01:15.292993-07:00.accessibility.json) |
+| [September 15 at 6:18 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-15T18:18:11.620057-07:00.accessibility.json) |
+| [September 15 at 6:03 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-15T06:03:25.005379-07:00.accessibility.json) |
+| [September 14 at 6:19 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-14T18:19:45.818489-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 100 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 116 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 6:03 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-11T06:03:22.322363-07:00.lighthouse.json) |
-| [September 10 at 6:20 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-10T18:20:32.195452-07:00.lighthouse.json) |
-| [September 10 at 6:05 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-10T06:04:50.217579-07:00.lighthouse.json) |
-| [September 9 at 6:23 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-09T18:23:17.061009-07:00.lighthouse.json) |
-| [September 9 at 6:21 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-09T06:21:08.956010-07:00.lighthouse.json) |
-| [September 8 at 6:23 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-08T18:23:35.758053-07:00.lighthouse.json) |
-| [September 8 at 6:14 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-08T06:14:24.284093-07:00.lighthouse.json) |
-| [September 7 at 6:22 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-07T18:22:06.047460-07:00.lighthouse.json) |
-| [September 7 at 6:36 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-07T06:36:48.757817-07:00.lighthouse.json) |
-| [September 6 at 6:19 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-06T18:18:52.331582-07:00.lighthouse.json) |
+| [September 19 at 5:58 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-19T05:58:18.211438-07:00.lighthouse.json) |
+| [September 18 at 6:15 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-18T18:15:03.464057-07:00.lighthouse.json) |
+| [September 18 at 5:59 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-18T05:59:33.030687-07:00.lighthouse.json) |
+| [September 17 at 6:21 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-17T18:21:40.205518-07:00.lighthouse.json) |
+| [September 17 at 6:00 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-17T06:00:15.655548-07:00.lighthouse.json) |
+| [September 16 at 6:13 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-16T18:13:49.841324-07:00.lighthouse.json) |
+| [September 16 at 6:01 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-16T06:01:15.292993-07:00.lighthouse.json) |
+| [September 15 at 6:18 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-15T18:18:11.620057-07:00.lighthouse.json) |
+| [September 15 at 6:03 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-15T06:03:25.005379-07:00.lighthouse.json) |
+| [September 14 at 6:19 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-09-14T18:19:45.818489-07:00.lighthouse.json) |
 
 
 

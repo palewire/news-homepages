@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 57 screenshots with the Internet Archive.
+The archiving routine has saved 74 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-11T03:12:39.036519+03:00.jpg">
-  <img src="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-11T03:12:39.036519+03:00.jpg"
-     alt="Jerusalem Post at 2022-09-11 03:12:42+03:00 local time"
+ <a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-19T14:57:37.446515+03:00.jpg">
+  <img src="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-19T14:57:37.446515+03:00.jpg"
+     alt="Jerusalem Post at 2022-09-19 14:57:41+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-11T03:12:39.036519+03:00.jpg">September 11 at 3:12 AM</a></p>
+ <p><a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-19T14:57:37.446515+03:00.jpg">September 19 at 2:57 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-10T14:58:18.777636+03:00.jpg">
-  <img src="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-10T14:58:18.777636+03:00.jpg"
-     alt="Jerusalem Post at 2022-09-10 14:58:22+03:00 local time"
+ <a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-19T02:48:53.071829+03:00.jpg">
+  <img src="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-19T02:48:53.071829+03:00.jpg"
+     alt="Jerusalem Post at 2022-09-19 02:48:56+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-10T14:58:18.777636+03:00.jpg">September 10 at 2:58 PM</a></p>
+ <p><a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-19T02:48:53.071829+03:00.jpg">September 19 at 2:48 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-10T03:05:35.787535+03:00.jpg">
-  <img src="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-10T03:05:35.787535+03:00.jpg"
-     alt="Jerusalem Post at 2022-09-10 03:05:38+03:00 local time"
+ <a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-18T14:57:40.812203+03:00.jpg">
+  <img src="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-18T14:57:40.812203+03:00.jpg"
+     alt="Jerusalem Post at 2022-09-18 14:57:45+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-10T03:05:35.787535+03:00.jpg">September 10 at 3:05 AM</a></p>
+ <p><a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-18T14:57:40.812203+03:00.jpg">September 18 at 2:57 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-09T15:14:29.489809+03:00.jpg">
-  <img src="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-09T15:14:29.489809+03:00.jpg"
-     alt="Jerusalem Post at 2022-09-09 15:14:31+03:00 local time"
+ <a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-18T02:50:46.605826+03:00.jpg">
+  <img src="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-18T02:50:46.605826+03:00.jpg"
+     alt="Jerusalem Post at 2022-09-18 02:50:49+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-09T15:14:29.489809+03:00.jpg">September 9 at 3:14 PM</a></p>
+ <p><a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-18T02:50:46.605826+03:00.jpg">September 18 at 2:50 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-09T03:04:58.532637+03:00.jpg">
-  <img src="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-09T03:04:58.532637+03:00.jpg"
-     alt="Jerusalem Post at 2022-09-09 03:05:02+03:00 local time"
+ <a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-17T14:59:29.868190+03:00.jpg">
+  <img src="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-17T14:59:29.868190+03:00.jpg"
+     alt="Jerusalem Post at 2022-09-17 14:59:34+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-09T03:04:58.532637+03:00.jpg">September 9 at 3:05 AM</a></p>
+ <p><a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-17T14:59:29.868190+03:00.jpg">September 17 at 2:59 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-08T15:21:44.073988+03:00.jpg">
-  <img src="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-08T15:21:44.073988+03:00.jpg"
-     alt="Jerusalem Post at 2022-09-08 15:21:46+03:00 local time"
+ <a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-17T02:50:56.452888+03:00.jpg">
+  <img src="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-17T02:50:56.452888+03:00.jpg"
+     alt="Jerusalem Post at 2022-09-17 02:50:59+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-08T15:21:44.073988+03:00.jpg">September 8 at 3:21 PM</a></p>
+ <p><a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-17T02:50:56.452888+03:00.jpg">September 17 at 2:50 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-08T02:54:51.768137+03:00.jpg">
-  <img src="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-08T02:54:51.768137+03:00.jpg"
-     alt="Jerusalem Post at 2022-09-08 02:54:59+03:00 local time"
+ <a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-16T14:59:48.054569+03:00.jpg">
+  <img src="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-16T14:59:48.054569+03:00.jpg"
+     alt="Jerusalem Post at 2022-09-16 14:59:49+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-08T02:54:51.768137+03:00.jpg">September 8 at 2:54 AM</a></p>
+ <p><a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-16T14:59:48.054569+03:00.jpg">September 16 at 2:59 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-07T15:39:58.049708+03:00.jpg">
-  <img src="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-07T15:39:58.049708+03:00.jpg"
-     alt="Jerusalem Post at 2022-09-07 15:40:06+03:00 local time"
+ <a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-16T02:49:42.835629+03:00.jpg">
+  <img src="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-16T02:49:42.835629+03:00.jpg"
+     alt="Jerusalem Post at 2022-09-16 02:49:46+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-07T15:39:58.049708+03:00.jpg">September 7 at 3:40 PM</a></p>
+ <p><a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-16T02:49:42.835629+03:00.jpg">September 16 at 2:49 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-07T03:11:14.677654+03:00.jpg">
-  <img src="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-07T03:11:14.677654+03:00.jpg"
-     alt="Jerusalem Post at 2022-09-07 03:11:16+03:00 local time"
+ <a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-15T15:00:10.471642+03:00.jpg">
+  <img src="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-15T15:00:10.471642+03:00.jpg"
+     alt="Jerusalem Post at 2022-09-15 15:00:17+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-07T03:11:14.677654+03:00.jpg">September 7 at 3:11 AM</a></p>
+ <p><a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-15T15:00:10.471642+03:00.jpg">September 15 at 3:00 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-06T15:05:53.708208+03:00.jpg">
-  <img src="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-06T15:05:53.708208+03:00.jpg"
-     alt="Jerusalem Post at 2022-09-06 15:05:56+03:00 local time"
+ <a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-15T02:58:15.108462+03:00.jpg">
+  <img src="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-15T02:58:15.108462+03:00.jpg"
+     alt="Jerusalem Post at 2022-09-15 02:58:21+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-06T15:05:53.708208+03:00.jpg">September 6 at 3:05 PM</a></p>
+ <p><a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-15T02:58:15.108462+03:00.jpg">September 15 at 2:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-06T02:57:04.480578+03:00.jpg">
-  <img src="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-06T02:57:04.480578+03:00.jpg"
-     alt="Jerusalem Post at 2022-09-06 02:57:07+03:00 local time"
+ <a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-14T15:01:59.216479+03:00.jpg">
+  <img src="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-14T15:01:59.216479+03:00.jpg"
+     alt="Jerusalem Post at 2022-09-14 15:02:06+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-06T02:57:04.480578+03:00.jpg">September 6 at 2:57 AM</a></p>
+ <p><a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-14T15:01:59.216479+03:00.jpg">September 14 at 3:02 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-05T02:53:52.210264+03:00.jpg">
-  <img src="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-05T02:53:52.210264+03:00.jpg"
-     alt="Jerusalem Post at 2022-09-05 02:53:55+03:00 local time"
+ <a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-14T02:55:01.898124+03:00.jpg">
+  <img src="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-14T02:55:01.898124+03:00.jpg"
+     alt="Jerusalem Post at 2022-09-14 02:55:04+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-05T02:53:52.210264+03:00.jpg">September 5 at 2:53 AM</a></p>
+ <p><a href="https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-14T02:55:01.898124+03:00.jpg">September 14 at 2:55 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 57 hyperlink lists with the Internet Archive.
+The archiving routine has saved 74 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 3:12 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-11T03:12:39.036519+03:00.hyperlinks.json) |
-| [September 10 at 2:58 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-10T14:58:18.777636+03:00.hyperlinks.json) |
-| [September 10 at 3:05 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-10T03:05:35.787535+03:00.hyperlinks.json) |
-| [September 9 at 3:14 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-09T15:14:29.489809+03:00.hyperlinks.json) |
-| [September 9 at 3:05 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-09T03:04:58.532637+03:00.hyperlinks.json) |
-| [September 8 at 3:21 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-08T15:21:44.073988+03:00.hyperlinks.json) |
-| [September 8 at 2:55 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-08T02:54:51.768137+03:00.hyperlinks.json) |
-| [September 7 at 3:40 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-07T15:39:58.049708+03:00.hyperlinks.json) |
-| [September 7 at 3:11 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-07T03:11:14.677654+03:00.hyperlinks.json) |
-| [September 6 at 3:05 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-06T15:05:53.708208+03:00.hyperlinks.json) |
+| [September 19 at 2:57 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-19T14:57:37.446515+03:00.hyperlinks.json) |
+| [September 19 at 2:48 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-19T02:48:53.071829+03:00.hyperlinks.json) |
+| [September 18 at 2:57 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-18T14:57:40.812203+03:00.hyperlinks.json) |
+| [September 18 at 2:50 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-18T02:50:46.605826+03:00.hyperlinks.json) |
+| [September 17 at 2:59 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-17T14:59:29.868190+03:00.hyperlinks.json) |
+| [September 17 at 2:51 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-17T02:50:56.452888+03:00.hyperlinks.json) |
+| [September 16 at 2:59 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-16T14:59:48.054569+03:00.hyperlinks.json) |
+| [September 16 at 2:49 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-16T02:49:42.835629+03:00.hyperlinks.json) |
+| [September 15 at 3:00 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-15T15:00:10.471642+03:00.hyperlinks.json) |
+| [September 15 at 2:58 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-15T02:58:15.108462+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 58 accessibility trees with the Internet Archive.
+The archiving routine has saved 75 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 3:12 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-11T03:12:39.036519+03:00.accessibility.json) |
-| [September 10 at 2:58 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-10T14:58:18.777636+03:00.accessibility.json) |
-| [September 10 at 3:05 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-10T03:05:35.787535+03:00.accessibility.json) |
-| [September 9 at 3:14 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-09T15:14:29.489809+03:00.accessibility.json) |
-| [September 9 at 3:05 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-09T03:04:58.532637+03:00.accessibility.json) |
-| [September 8 at 3:21 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-08T15:21:44.073988+03:00.accessibility.json) |
-| [September 8 at 2:55 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-08T02:54:51.768137+03:00.accessibility.json) |
-| [September 7 at 3:40 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-07T15:39:58.049708+03:00.accessibility.json) |
-| [September 7 at 3:11 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-07T03:11:14.677654+03:00.accessibility.json) |
-| [September 6 at 3:05 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-06T15:05:53.708208+03:00.accessibility.json) |
+| [September 19 at 2:57 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-19T14:57:37.446515+03:00.accessibility.json) |
+| [September 19 at 2:48 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-19T02:48:53.071829+03:00.accessibility.json) |
+| [September 18 at 2:57 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-18T14:57:40.812203+03:00.accessibility.json) |
+| [September 18 at 2:50 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-18T02:50:46.605826+03:00.accessibility.json) |
+| [September 17 at 2:59 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-17T14:59:29.868190+03:00.accessibility.json) |
+| [September 17 at 2:51 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-17T02:50:56.452888+03:00.accessibility.json) |
+| [September 16 at 2:59 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-16T14:59:48.054569+03:00.accessibility.json) |
+| [September 16 at 2:49 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-16T02:49:42.835629+03:00.accessibility.json) |
+| [September 15 at 3:00 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-15T15:00:10.471642+03:00.accessibility.json) |
+| [September 15 at 2:58 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-15T02:58:15.108462+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 58 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 74 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 3:12 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-11T03:12:39.036519+03:00.lighthouse.json) |
-| [September 10 at 2:58 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-10T14:58:18.777636+03:00.lighthouse.json) |
-| [September 10 at 3:05 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-10T03:05:35.787535+03:00.lighthouse.json) |
-| [September 9 at 3:14 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-09T15:14:29.489809+03:00.lighthouse.json) |
-| [September 9 at 3:05 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-09T03:04:58.532637+03:00.lighthouse.json) |
-| [September 8 at 3:21 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-08T15:21:44.073988+03:00.lighthouse.json) |
-| [September 8 at 2:55 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-08T02:54:51.768137+03:00.lighthouse.json) |
-| [September 7 at 3:40 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-07T15:39:58.049708+03:00.lighthouse.json) |
-| [September 7 at 3:11 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-07T03:11:14.677654+03:00.lighthouse.json) |
-| [September 6 at 3:06 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-06T15:05:53.708208+03:00.lighthouse.json) |
+| [September 19 at 2:57 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-19T14:57:37.446515+03:00.lighthouse.json) |
+| [September 19 at 2:49 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-19T02:48:53.071829+03:00.lighthouse.json) |
+| [September 18 at 2:57 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-18T14:57:40.812203+03:00.lighthouse.json) |
+| [September 18 at 2:50 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-18T02:50:46.605826+03:00.lighthouse.json) |
+| [September 17 at 2:59 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-17T14:59:29.868190+03:00.lighthouse.json) |
+| [September 17 at 2:51 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-17T02:50:56.452888+03:00.lighthouse.json) |
+| [September 16 at 2:59 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-16T14:59:48.054569+03:00.lighthouse.json) |
+| [September 16 at 2:49 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-16T02:49:42.835629+03:00.lighthouse.json) |
+| [September 15 at 3:00 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-15T15:00:10.471642+03:00.lighthouse.json) |
+| [September 15 at 2:58 AM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-09-15T02:58:15.108462+03:00.lighthouse.json) |
 
 
 

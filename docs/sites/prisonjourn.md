@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 31 screenshots with the Internet Archive.
+The archiving routine has saved 48 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-10T23:48:36.956540-05:00.jpg">
-  <img src="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-10T23:48:36.956540-05:00.jpg"
-     alt="Prison Journalism Project at 2022-09-10 23:48:40-05:00 local time"
+ <a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-19T12:36:54.354155-05:00.jpg">
+  <img src="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-19T12:36:54.354155-05:00.jpg"
+     alt="Prison Journalism Project at 2022-09-19 12:36:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-10T23:48:36.956540-05:00.jpg">September 10 at 11:48 PM</a></p>
+ <p><a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-19T12:36:54.354155-05:00.jpg">September 19 at 12:36 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-10T11:08:50.158024-05:00.jpg">
-  <img src="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-10T11:08:50.158024-05:00.jpg"
-     alt="Prison Journalism Project at 2022-09-10 11:08:52-05:00 local time"
+ <a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-19T01:06:54.897789-05:00.jpg">
+  <img src="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-19T01:06:54.897789-05:00.jpg"
+     alt="Prison Journalism Project at 2022-09-19 01:06:57-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-10T11:08:50.158024-05:00.jpg">September 10 at 11:08 AM</a></p>
+ <p><a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-19T01:06:54.897789-05:00.jpg">September 19 at 1:06 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-09T23:51:49.593534-05:00.jpg">
-  <img src="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-09T23:51:49.593534-05:00.jpg"
-     alt="Prison Journalism Project at 2022-09-09 23:51:52-05:00 local time"
+ <a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-18T12:30:16.812160-05:00.jpg">
+  <img src="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-18T12:30:16.812160-05:00.jpg"
+     alt="Prison Journalism Project at 2022-09-18 12:30:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-09T23:51:49.593534-05:00.jpg">September 9 at 11:51 PM</a></p>
+ <p><a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-18T12:30:16.812160-05:00.jpg">September 18 at 12:30 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-09T11:32:48.303585-05:00.jpg">
-  <img src="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-09T11:32:48.303585-05:00.jpg"
-     alt="Prison Journalism Project at 2022-09-09 11:32:51-05:00 local time"
+ <a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-18T00:27:49.523167-05:00.jpg">
+  <img src="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-18T00:27:49.523167-05:00.jpg"
+     alt="Prison Journalism Project at 2022-09-18 00:27:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-09T11:32:48.303585-05:00.jpg">September 9 at 11:32 AM</a></p>
+ <p><a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-18T00:27:49.523167-05:00.jpg">September 18 at 12:27 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-08T23:54:02.048206-05:00.jpg">
-  <img src="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-08T23:54:02.048206-05:00.jpg"
-     alt="Prison Journalism Project at 2022-09-08 23:54:04-05:00 local time"
+ <a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-17T11:02:10.071733-05:00.jpg">
+  <img src="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-17T11:02:10.071733-05:00.jpg"
+     alt="Prison Journalism Project at 2022-09-17 11:02:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-08T23:54:02.048206-05:00.jpg">September 8 at 11:54 PM</a></p>
+ <p><a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-17T11:02:10.071733-05:00.jpg">September 17 at 11:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-08T11:34:16.323917-05:00.jpg">
-  <img src="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-08T11:34:16.323917-05:00.jpg"
-     alt="Prison Journalism Project at 2022-09-08 11:34:19-05:00 local time"
+ <a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-16T23:37:52.235567-05:00.jpg">
+  <img src="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-16T23:37:52.235567-05:00.jpg"
+     alt="Prison Journalism Project at 2022-09-16 23:37:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-08T11:34:16.323917-05:00.jpg">September 8 at 11:34 AM</a></p>
+ <p><a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-16T23:37:52.235567-05:00.jpg">September 16 at 11:37 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-07T23:46:49.554487-05:00.jpg">
-  <img src="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-07T23:46:49.554487-05:00.jpg"
-     alt="Prison Journalism Project at 2022-09-07 23:46:51-05:00 local time"
+ <a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-16T11:07:10.954926-05:00.jpg">
+  <img src="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-16T11:07:10.954926-05:00.jpg"
+     alt="Prison Journalism Project at 2022-09-16 11:07:14-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-07T23:46:49.554487-05:00.jpg">September 7 at 11:46 PM</a></p>
+ <p><a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-16T11:07:10.954926-05:00.jpg">September 16 at 11:07 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-07T12:07:30.115225-05:00.jpg">
-  <img src="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-07T12:07:30.115225-05:00.jpg"
-     alt="Prison Journalism Project at 2022-09-07 12:07:34-05:00 local time"
+ <a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-16T00:30:58.495947-05:00.jpg">
+  <img src="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-16T00:30:58.495947-05:00.jpg"
+     alt="Prison Journalism Project at 2022-09-16 00:31:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-07T12:07:30.115225-05:00.jpg">September 7 at 12:07 PM</a></p>
+ <p><a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-16T00:30:58.495947-05:00.jpg">September 16 at 12:31 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-06T23:51:36.930240-05:00.jpg">
-  <img src="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-06T23:51:36.930240-05:00.jpg"
-     alt="Prison Journalism Project at 2022-09-06 23:51:40-05:00 local time"
+ <a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-15T11:30:07.805829-05:00.jpg">
+  <img src="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-15T11:30:07.805829-05:00.jpg"
+     alt="Prison Journalism Project at 2022-09-15 11:30:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-06T23:51:36.930240-05:00.jpg">September 6 at 11:51 PM</a></p>
+ <p><a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-15T11:30:07.805829-05:00.jpg">September 15 at 11:30 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-05T23:53:57.389702-05:00.jpg">
-  <img src="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-05T23:53:57.389702-05:00.jpg"
-     alt="Prison Journalism Project at 2022-09-05 23:53:59-05:00 local time"
+ <a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-15T00:29:27.735451-05:00.jpg">
+  <img src="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-15T00:29:27.735451-05:00.jpg"
+     alt="Prison Journalism Project at 2022-09-15 00:29:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-05T23:53:57.389702-05:00.jpg">September 5 at 11:53 PM</a></p>
+ <p><a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-15T00:29:27.735451-05:00.jpg">September 15 at 12:29 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-05T11:21:30.008193-05:00.jpg">
-  <img src="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-05T11:21:30.008193-05:00.jpg"
-     alt="Prison Journalism Project at 2022-09-05 11:21:32-05:00 local time"
+ <a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-14T11:29:39.711272-05:00.jpg">
+  <img src="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-14T11:29:39.711272-05:00.jpg"
+     alt="Prison Journalism Project at 2022-09-14 11:29:48-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-05T11:21:30.008193-05:00.jpg">September 5 at 11:21 AM</a></p>
+ <p><a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-14T11:29:39.711272-05:00.jpg">September 14 at 11:29 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-04T23:50:59.946761-05:00.jpg">
-  <img src="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-04T23:50:59.946761-05:00.jpg"
-     alt="Prison Journalism Project at 2022-09-04 23:51:02-05:00 local time"
+ <a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-13T23:50:30.880835-05:00.jpg">
+  <img src="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-13T23:50:30.880835-05:00.jpg"
+     alt="Prison Journalism Project at 2022-09-13 23:50:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-04T23:50:59.946761-05:00.jpg">September 4 at 11:51 PM</a></p>
+ <p><a href="https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-13T23:50:30.880835-05:00.jpg">September 13 at 11:50 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 31 hyperlink lists with the Internet Archive.
+The archiving routine has saved 48 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 10 at 11:48 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-10T23:48:36.956540-05:00.hyperlinks.json) |
-| [September 10 at 11:08 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-10T11:08:50.158024-05:00.hyperlinks.json) |
-| [September 9 at 11:51 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-09T23:51:49.593534-05:00.hyperlinks.json) |
-| [September 9 at 11:32 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-09T11:32:48.303585-05:00.hyperlinks.json) |
-| [September 8 at 11:54 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-08T23:54:02.048206-05:00.hyperlinks.json) |
-| [September 8 at 11:34 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-08T11:34:16.323917-05:00.hyperlinks.json) |
-| [September 7 at 11:46 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-07T23:46:49.554487-05:00.hyperlinks.json) |
-| [September 7 at 12:07 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-07T12:07:30.115225-05:00.hyperlinks.json) |
-| [September 6 at 11:51 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-06T23:51:36.930240-05:00.hyperlinks.json) |
-| [September 5 at 11:54 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-05T23:53:57.389702-05:00.hyperlinks.json) |
+| [September 19 at 12:37 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-19T12:36:54.354155-05:00.hyperlinks.json) |
+| [September 19 at 1:07 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-19T01:06:54.897789-05:00.hyperlinks.json) |
+| [September 18 at 12:30 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-18T12:30:16.812160-05:00.hyperlinks.json) |
+| [September 18 at 12:27 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-18T00:27:49.523167-05:00.hyperlinks.json) |
+| [September 17 at 11:02 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-17T11:02:10.071733-05:00.hyperlinks.json) |
+| [September 16 at 11:37 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-16T23:37:52.235567-05:00.hyperlinks.json) |
+| [September 16 at 11:07 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-16T11:07:10.954926-05:00.hyperlinks.json) |
+| [September 16 at 12:31 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-16T00:30:58.495947-05:00.hyperlinks.json) |
+| [September 15 at 11:30 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-15T11:30:07.805829-05:00.hyperlinks.json) |
+| [September 15 at 12:29 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-15T00:29:27.735451-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 31 accessibility trees with the Internet Archive.
+The archiving routine has saved 48 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 10 at 11:48 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-10T23:48:36.956540-05:00.accessibility.json) |
-| [September 10 at 11:08 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-10T11:08:50.158024-05:00.accessibility.json) |
-| [September 9 at 11:51 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-09T23:51:49.593534-05:00.accessibility.json) |
-| [September 9 at 11:32 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-09T11:32:48.303585-05:00.accessibility.json) |
-| [September 8 at 11:54 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-08T23:54:02.048206-05:00.accessibility.json) |
-| [September 8 at 11:34 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-08T11:34:16.323917-05:00.accessibility.json) |
-| [September 7 at 11:46 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-07T23:46:49.554487-05:00.accessibility.json) |
-| [September 7 at 12:07 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-07T12:07:30.115225-05:00.accessibility.json) |
-| [September 6 at 11:51 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-06T23:51:36.930240-05:00.accessibility.json) |
-| [September 5 at 11:54 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-05T23:53:57.389702-05:00.accessibility.json) |
+| [September 19 at 12:36 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-19T12:36:54.354155-05:00.accessibility.json) |
+| [September 19 at 1:06 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-19T01:06:54.897789-05:00.accessibility.json) |
+| [September 18 at 12:30 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-18T12:30:16.812160-05:00.accessibility.json) |
+| [September 18 at 12:27 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-18T00:27:49.523167-05:00.accessibility.json) |
+| [September 17 at 11:02 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-17T11:02:10.071733-05:00.accessibility.json) |
+| [September 16 at 11:37 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-16T23:37:52.235567-05:00.accessibility.json) |
+| [September 16 at 11:07 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-16T11:07:10.954926-05:00.accessibility.json) |
+| [September 16 at 12:31 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-16T00:30:58.495947-05:00.accessibility.json) |
+| [September 15 at 11:30 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-15T11:30:07.805829-05:00.accessibility.json) |
+| [September 15 at 12:29 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-15T00:29:27.735451-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 10 at 11:48 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-10T23:48:36.956540-05:00.lighthouse.json) |
-| [September 10 at 11:08 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-10T11:08:50.158024-05:00.lighthouse.json) |
-| [September 9 at 11:51 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-09T23:51:49.593534-05:00.lighthouse.json) |
-| [September 9 at 11:32 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-09T11:32:48.303585-05:00.lighthouse.json) |
-| [September 8 at 11:54 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-08T23:54:02.048206-05:00.lighthouse.json) |
-| [September 8 at 11:34 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-08T11:34:16.323917-05:00.lighthouse.json) |
-| [September 7 at 11:46 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-07T23:46:49.554487-05:00.lighthouse.json) |
-| [September 7 at 12:07 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-07T12:07:30.115225-05:00.lighthouse.json) |
-| [September 6 at 11:51 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-06T23:51:36.930240-05:00.lighthouse.json) |
-| [September 5 at 11:54 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-05T23:53:57.389702-05:00.lighthouse.json) |
+| [September 19 at 12:37 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-19T12:36:54.354155-05:00.lighthouse.json) |
+| [September 19 at 1:07 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-19T01:06:54.897789-05:00.lighthouse.json) |
+| [September 18 at 12:30 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-18T12:30:16.812160-05:00.lighthouse.json) |
+| [September 18 at 12:27 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-18T00:27:49.523167-05:00.lighthouse.json) |
+| [September 17 at 11:02 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-17T11:02:10.071733-05:00.lighthouse.json) |
+| [September 16 at 11:38 PM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-16T23:37:52.235567-05:00.lighthouse.json) |
+| [September 16 at 11:07 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-16T11:07:10.954926-05:00.lighthouse.json) |
+| [September 16 at 12:31 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-16T00:30:58.495947-05:00.lighthouse.json) |
+| [September 15 at 11:30 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-15T11:30:07.805829-05:00.lighthouse.json) |
+| [September 15 at 12:29 AM](https://archive.org/download/prisonjourn-2022/prisonjourn-2022-09-15T00:29:27.735451-05:00.lighthouse.json) |
 
 
 

@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 39 screenshots with the Internet Archive.
+The archiving routine has saved 56 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/iol-2022/iol-2022-09-11T02:12:33.355789+02:00.jpg">
-  <img src="https://archive.org/download/iol-2022/iol-2022-09-11T02:12:33.355789+02:00.jpg"
-     alt="Independent Online at 2022-09-11 02:12:35+02:00 local time"
+ <a href="https://archive.org/download/iol-2022/iol-2022-09-19T13:56:25.680365+02:00.jpg">
+  <img src="https://archive.org/download/iol-2022/iol-2022-09-19T13:56:25.680365+02:00.jpg"
+     alt="Independent Online at 2022-09-19 13:56:27+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iol-2022/iol-2022-09-11T02:12:33.355789+02:00.jpg">September 11 at 2:12 AM</a></p>
+ <p><a href="https://archive.org/download/iol-2022/iol-2022-09-19T13:56:25.680365+02:00.jpg">September 19 at 1:56 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/iol-2022/iol-2022-09-10T13:58:06.655692+02:00.jpg">
-  <img src="https://archive.org/download/iol-2022/iol-2022-09-10T13:58:06.655692+02:00.jpg"
-     alt="Independent Online at 2022-09-10 13:58:08+02:00 local time"
+ <a href="https://archive.org/download/iol-2022/iol-2022-09-19T01:48:58.165092+02:00.jpg">
+  <img src="https://archive.org/download/iol-2022/iol-2022-09-19T01:48:58.165092+02:00.jpg"
+     alt="Independent Online at 2022-09-19 01:49:04+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iol-2022/iol-2022-09-10T13:58:06.655692+02:00.jpg">September 10 at 1:58 PM</a></p>
+ <p><a href="https://archive.org/download/iol-2022/iol-2022-09-19T01:48:58.165092+02:00.jpg">September 19 at 1:49 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/iol-2022/iol-2022-09-10T02:05:30.163105+02:00.jpg">
-  <img src="https://archive.org/download/iol-2022/iol-2022-09-10T02:05:30.163105+02:00.jpg"
-     alt="Independent Online at 2022-09-10 02:05:32+02:00 local time"
+ <a href="https://archive.org/download/iol-2022/iol-2022-09-18T13:58:13.215631+02:00.jpg">
+  <img src="https://archive.org/download/iol-2022/iol-2022-09-18T13:58:13.215631+02:00.jpg"
+     alt="Independent Online at 2022-09-18 13:58:14+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iol-2022/iol-2022-09-10T02:05:30.163105+02:00.jpg">September 10 at 2:05 AM</a></p>
+ <p><a href="https://archive.org/download/iol-2022/iol-2022-09-18T13:58:13.215631+02:00.jpg">September 18 at 1:58 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/iol-2022/iol-2022-09-09T14:15:07.531011+02:00.jpg">
-  <img src="https://archive.org/download/iol-2022/iol-2022-09-09T14:15:07.531011+02:00.jpg"
-     alt="Independent Online at 2022-09-09 14:15:11+02:00 local time"
+ <a href="https://archive.org/download/iol-2022/iol-2022-09-18T01:50:03.793300+02:00.jpg">
+  <img src="https://archive.org/download/iol-2022/iol-2022-09-18T01:50:03.793300+02:00.jpg"
+     alt="Independent Online at 2022-09-18 01:50:07+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iol-2022/iol-2022-09-09T14:15:07.531011+02:00.jpg">September 9 at 2:15 PM</a></p>
+ <p><a href="https://archive.org/download/iol-2022/iol-2022-09-18T01:50:03.793300+02:00.jpg">September 18 at 1:50 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/iol-2022/iol-2022-09-09T02:05:50.080309+02:00.jpg">
-  <img src="https://archive.org/download/iol-2022/iol-2022-09-09T02:05:50.080309+02:00.jpg"
-     alt="Independent Online at 2022-09-09 02:05:51+02:00 local time"
+ <a href="https://archive.org/download/iol-2022/iol-2022-09-17T13:58:51.033079+02:00.jpg">
+  <img src="https://archive.org/download/iol-2022/iol-2022-09-17T13:58:51.033079+02:00.jpg"
+     alt="Independent Online at 2022-09-17 13:58:52+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iol-2022/iol-2022-09-09T02:05:50.080309+02:00.jpg">September 9 at 2:05 AM</a></p>
+ <p><a href="https://archive.org/download/iol-2022/iol-2022-09-17T13:58:51.033079+02:00.jpg">September 17 at 1:58 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/iol-2022/iol-2022-09-08T14:22:26.438345+02:00.jpg">
-  <img src="https://archive.org/download/iol-2022/iol-2022-09-08T14:22:26.438345+02:00.jpg"
-     alt="Independent Online at 2022-09-08 14:22:28+02:00 local time"
+ <a href="https://archive.org/download/iol-2022/iol-2022-09-17T01:50:48.153221+02:00.jpg">
+  <img src="https://archive.org/download/iol-2022/iol-2022-09-17T01:50:48.153221+02:00.jpg"
+     alt="Independent Online at 2022-09-17 01:50:51+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iol-2022/iol-2022-09-08T14:22:26.438345+02:00.jpg">September 8 at 2:22 PM</a></p>
+ <p><a href="https://archive.org/download/iol-2022/iol-2022-09-17T01:50:48.153221+02:00.jpg">September 17 at 1:50 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/iol-2022/iol-2022-09-08T01:54:40.984356+02:00.jpg">
-  <img src="https://archive.org/download/iol-2022/iol-2022-09-08T01:54:40.984356+02:00.jpg"
-     alt="Independent Online at 2022-09-08 01:54:44+02:00 local time"
+ <a href="https://archive.org/download/iol-2022/iol-2022-09-16T13:58:23.646867+02:00.jpg">
+  <img src="https://archive.org/download/iol-2022/iol-2022-09-16T13:58:23.646867+02:00.jpg"
+     alt="Independent Online at 2022-09-16 13:58:27+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iol-2022/iol-2022-09-08T01:54:40.984356+02:00.jpg">September 8 at 1:54 AM</a></p>
+ <p><a href="https://archive.org/download/iol-2022/iol-2022-09-16T13:58:23.646867+02:00.jpg">September 16 at 1:58 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/iol-2022/iol-2022-09-07T14:40:14.817465+02:00.jpg">
-  <img src="https://archive.org/download/iol-2022/iol-2022-09-07T14:40:14.817465+02:00.jpg"
-     alt="Independent Online at 2022-09-07 14:40:26+02:00 local time"
+ <a href="https://archive.org/download/iol-2022/iol-2022-09-16T01:49:46.475625+02:00.jpg">
+  <img src="https://archive.org/download/iol-2022/iol-2022-09-16T01:49:46.475625+02:00.jpg"
+     alt="Independent Online at 2022-09-16 01:49:48+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iol-2022/iol-2022-09-07T14:40:14.817465+02:00.jpg">September 7 at 2:40 PM</a></p>
+ <p><a href="https://archive.org/download/iol-2022/iol-2022-09-16T01:49:46.475625+02:00.jpg">September 16 at 1:49 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/iol-2022/iol-2022-09-07T02:10:53.595394+02:00.jpg">
-  <img src="https://archive.org/download/iol-2022/iol-2022-09-07T02:10:53.595394+02:00.jpg"
-     alt="Independent Online at 2022-09-07 02:10:55+02:00 local time"
+ <a href="https://archive.org/download/iol-2022/iol-2022-09-15T14:00:23.049053+02:00.jpg">
+  <img src="https://archive.org/download/iol-2022/iol-2022-09-15T14:00:23.049053+02:00.jpg"
+     alt="Independent Online at 2022-09-15 14:00:24+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iol-2022/iol-2022-09-07T02:10:53.595394+02:00.jpg">September 7 at 2:10 AM</a></p>
+ <p><a href="https://archive.org/download/iol-2022/iol-2022-09-15T14:00:23.049053+02:00.jpg">September 15 at 2:00 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/iol-2022/iol-2022-09-06T14:00:49.985406+02:00.jpg">
-  <img src="https://archive.org/download/iol-2022/iol-2022-09-06T14:00:49.985406+02:00.jpg"
-     alt="Independent Online at 2022-09-06 14:00:51+02:00 local time"
+ <a href="https://archive.org/download/iol-2022/iol-2022-09-15T01:58:23.282693+02:00.jpg">
+  <img src="https://archive.org/download/iol-2022/iol-2022-09-15T01:58:23.282693+02:00.jpg"
+     alt="Independent Online at 2022-09-15 01:58:27+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iol-2022/iol-2022-09-06T14:00:49.985406+02:00.jpg">September 6 at 2:00 PM</a></p>
+ <p><a href="https://archive.org/download/iol-2022/iol-2022-09-15T01:58:23.282693+02:00.jpg">September 15 at 1:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/iol-2022/iol-2022-09-06T01:56:49.698446+02:00.jpg">
-  <img src="https://archive.org/download/iol-2022/iol-2022-09-06T01:56:49.698446+02:00.jpg"
-     alt="Independent Online at 2022-09-06 01:56:52+02:00 local time"
+ <a href="https://archive.org/download/iol-2022/iol-2022-09-14T14:01:55.937371+02:00.jpg">
+  <img src="https://archive.org/download/iol-2022/iol-2022-09-14T14:01:55.937371+02:00.jpg"
+     alt="Independent Online at 2022-09-14 14:01:57+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iol-2022/iol-2022-09-06T01:56:49.698446+02:00.jpg">September 6 at 1:56 AM</a></p>
+ <p><a href="https://archive.org/download/iol-2022/iol-2022-09-14T14:01:55.937371+02:00.jpg">September 14 at 2:01 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/iol-2022/iol-2022-09-05T01:54:15.613198+02:00.jpg">
-  <img src="https://archive.org/download/iol-2022/iol-2022-09-05T01:54:15.613198+02:00.jpg"
-     alt="Independent Online at 2022-09-05 01:54:17+02:00 local time"
+ <a href="https://archive.org/download/iol-2022/iol-2022-09-14T01:55:00.029578+02:00.jpg">
+  <img src="https://archive.org/download/iol-2022/iol-2022-09-14T01:55:00.029578+02:00.jpg"
+     alt="Independent Online at 2022-09-14 01:55:07+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/iol-2022/iol-2022-09-05T01:54:15.613198+02:00.jpg">September 5 at 1:54 AM</a></p>
+ <p><a href="https://archive.org/download/iol-2022/iol-2022-09-14T01:55:00.029578+02:00.jpg">September 14 at 1:55 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 40 hyperlink lists with the Internet Archive.
+The archiving routine has saved 57 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 2:12 AM](https://archive.org/download/iol-2022/iol-2022-09-11T02:12:33.355789+02:00.hyperlinks.json) |
-| [September 10 at 1:58 PM](https://archive.org/download/iol-2022/iol-2022-09-10T13:58:06.655692+02:00.hyperlinks.json) |
-| [September 10 at 2:05 AM](https://archive.org/download/iol-2022/iol-2022-09-10T02:05:30.163105+02:00.hyperlinks.json) |
-| [September 9 at 2:15 PM](https://archive.org/download/iol-2022/iol-2022-09-09T14:15:07.531011+02:00.hyperlinks.json) |
-| [September 9 at 2:05 AM](https://archive.org/download/iol-2022/iol-2022-09-09T02:05:50.080309+02:00.hyperlinks.json) |
-| [September 8 at 2:22 PM](https://archive.org/download/iol-2022/iol-2022-09-08T14:22:26.438345+02:00.hyperlinks.json) |
-| [September 8 at 1:54 AM](https://archive.org/download/iol-2022/iol-2022-09-08T01:54:40.984356+02:00.hyperlinks.json) |
-| [September 7 at 2:40 PM](https://archive.org/download/iol-2022/iol-2022-09-07T14:40:14.817465+02:00.hyperlinks.json) |
-| [September 7 at 2:10 AM](https://archive.org/download/iol-2022/iol-2022-09-07T02:10:53.595394+02:00.hyperlinks.json) |
-| [September 6 at 2:00 PM](https://archive.org/download/iol-2022/iol-2022-09-06T14:00:49.985406+02:00.hyperlinks.json) |
+| [September 19 at 1:56 PM](https://archive.org/download/iol-2022/iol-2022-09-19T13:56:25.680365+02:00.hyperlinks.json) |
+| [September 19 at 1:49 AM](https://archive.org/download/iol-2022/iol-2022-09-19T01:48:58.165092+02:00.hyperlinks.json) |
+| [September 18 at 1:58 PM](https://archive.org/download/iol-2022/iol-2022-09-18T13:58:13.215631+02:00.hyperlinks.json) |
+| [September 18 at 1:50 AM](https://archive.org/download/iol-2022/iol-2022-09-18T01:50:03.793300+02:00.hyperlinks.json) |
+| [September 17 at 1:58 PM](https://archive.org/download/iol-2022/iol-2022-09-17T13:58:51.033079+02:00.hyperlinks.json) |
+| [September 17 at 1:50 AM](https://archive.org/download/iol-2022/iol-2022-09-17T01:50:48.153221+02:00.hyperlinks.json) |
+| [September 16 at 1:58 PM](https://archive.org/download/iol-2022/iol-2022-09-16T13:58:23.646867+02:00.hyperlinks.json) |
+| [September 16 at 1:49 AM](https://archive.org/download/iol-2022/iol-2022-09-16T01:49:46.475625+02:00.hyperlinks.json) |
+| [September 15 at 2:00 PM](https://archive.org/download/iol-2022/iol-2022-09-15T14:00:23.049053+02:00.hyperlinks.json) |
+| [September 15 at 1:58 AM](https://archive.org/download/iol-2022/iol-2022-09-15T01:58:23.282693+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 40 accessibility trees with the Internet Archive.
+The archiving routine has saved 57 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 2:12 AM](https://archive.org/download/iol-2022/iol-2022-09-11T02:12:33.355789+02:00.accessibility.json) |
-| [September 10 at 1:58 PM](https://archive.org/download/iol-2022/iol-2022-09-10T13:58:06.655692+02:00.accessibility.json) |
-| [September 10 at 2:05 AM](https://archive.org/download/iol-2022/iol-2022-09-10T02:05:30.163105+02:00.accessibility.json) |
-| [September 9 at 2:15 PM](https://archive.org/download/iol-2022/iol-2022-09-09T14:15:07.531011+02:00.accessibility.json) |
-| [September 9 at 2:05 AM](https://archive.org/download/iol-2022/iol-2022-09-09T02:05:50.080309+02:00.accessibility.json) |
-| [September 8 at 2:22 PM](https://archive.org/download/iol-2022/iol-2022-09-08T14:22:26.438345+02:00.accessibility.json) |
-| [September 8 at 1:54 AM](https://archive.org/download/iol-2022/iol-2022-09-08T01:54:40.984356+02:00.accessibility.json) |
-| [September 7 at 2:40 PM](https://archive.org/download/iol-2022/iol-2022-09-07T14:40:14.817465+02:00.accessibility.json) |
-| [September 7 at 2:10 AM](https://archive.org/download/iol-2022/iol-2022-09-07T02:10:53.595394+02:00.accessibility.json) |
-| [September 6 at 2:00 PM](https://archive.org/download/iol-2022/iol-2022-09-06T14:00:49.985406+02:00.accessibility.json) |
+| [September 19 at 1:56 PM](https://archive.org/download/iol-2022/iol-2022-09-19T13:56:25.680365+02:00.accessibility.json) |
+| [September 19 at 1:49 AM](https://archive.org/download/iol-2022/iol-2022-09-19T01:48:58.165092+02:00.accessibility.json) |
+| [September 18 at 1:58 PM](https://archive.org/download/iol-2022/iol-2022-09-18T13:58:13.215631+02:00.accessibility.json) |
+| [September 18 at 1:50 AM](https://archive.org/download/iol-2022/iol-2022-09-18T01:50:03.793300+02:00.accessibility.json) |
+| [September 17 at 1:58 PM](https://archive.org/download/iol-2022/iol-2022-09-17T13:58:51.033079+02:00.accessibility.json) |
+| [September 17 at 1:50 AM](https://archive.org/download/iol-2022/iol-2022-09-17T01:50:48.153221+02:00.accessibility.json) |
+| [September 16 at 1:58 PM](https://archive.org/download/iol-2022/iol-2022-09-16T13:58:23.646867+02:00.accessibility.json) |
+| [September 16 at 1:49 AM](https://archive.org/download/iol-2022/iol-2022-09-16T01:49:46.475625+02:00.accessibility.json) |
+| [September 15 at 2:00 PM](https://archive.org/download/iol-2022/iol-2022-09-15T14:00:23.049053+02:00.accessibility.json) |
+| [September 15 at 1:58 AM](https://archive.org/download/iol-2022/iol-2022-09-15T01:58:23.282693+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 56 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 2:12 AM](https://archive.org/download/iol-2022/iol-2022-09-11T02:12:33.355789+02:00.lighthouse.json) |
-| [September 10 at 1:58 PM](https://archive.org/download/iol-2022/iol-2022-09-10T13:58:06.655692+02:00.lighthouse.json) |
-| [September 10 at 2:05 AM](https://archive.org/download/iol-2022/iol-2022-09-10T02:05:30.163105+02:00.lighthouse.json) |
-| [September 9 at 2:15 PM](https://archive.org/download/iol-2022/iol-2022-09-09T14:15:07.531011+02:00.lighthouse.json) |
-| [September 9 at 2:05 AM](https://archive.org/download/iol-2022/iol-2022-09-09T02:05:50.080309+02:00.lighthouse.json) |
-| [September 8 at 2:22 PM](https://archive.org/download/iol-2022/iol-2022-09-08T14:22:26.438345+02:00.lighthouse.json) |
-| [September 8 at 1:54 AM](https://archive.org/download/iol-2022/iol-2022-09-08T01:54:40.984356+02:00.lighthouse.json) |
-| [September 7 at 2:40 PM](https://archive.org/download/iol-2022/iol-2022-09-07T14:40:14.817465+02:00.lighthouse.json) |
-| [September 7 at 2:11 AM](https://archive.org/download/iol-2022/iol-2022-09-07T02:10:53.595394+02:00.lighthouse.json) |
-| [September 6 at 2:00 PM](https://archive.org/download/iol-2022/iol-2022-09-06T14:00:49.985406+02:00.lighthouse.json) |
+| [September 19 at 1:56 PM](https://archive.org/download/iol-2022/iol-2022-09-19T13:56:25.680365+02:00.lighthouse.json) |
+| [September 19 at 1:49 AM](https://archive.org/download/iol-2022/iol-2022-09-19T01:48:58.165092+02:00.lighthouse.json) |
+| [September 18 at 1:58 PM](https://archive.org/download/iol-2022/iol-2022-09-18T13:58:13.215631+02:00.lighthouse.json) |
+| [September 18 at 1:50 AM](https://archive.org/download/iol-2022/iol-2022-09-18T01:50:03.793300+02:00.lighthouse.json) |
+| [September 17 at 1:58 PM](https://archive.org/download/iol-2022/iol-2022-09-17T13:58:51.033079+02:00.lighthouse.json) |
+| [September 17 at 1:50 AM](https://archive.org/download/iol-2022/iol-2022-09-17T01:50:48.153221+02:00.lighthouse.json) |
+| [September 16 at 1:58 PM](https://archive.org/download/iol-2022/iol-2022-09-16T13:58:23.646867+02:00.lighthouse.json) |
+| [September 15 at 2:00 PM](https://archive.org/download/iol-2022/iol-2022-09-15T14:00:23.049053+02:00.lighthouse.json) |
+| [September 15 at 1:58 AM](https://archive.org/download/iol-2022/iol-2022-09-15T01:58:23.282693+02:00.lighthouse.json) |
+| [September 14 at 2:02 PM](https://archive.org/download/iol-2022/iol-2022-09-14T14:01:55.937371+02:00.lighthouse.json) |
 
 
 

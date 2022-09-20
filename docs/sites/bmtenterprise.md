@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 113 screenshots with the Internet Archive.
+The archiving routine has saved 129 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-11T05:54:35.529774-05:00.jpg">
-  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-11T05:54:35.529774-05:00.jpg"
-     alt="Beaumont Enterprise at 2022-09-11 05:54:49-05:00 local time"
+ <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-19T05:50:37.910246-05:00.jpg">
+  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-19T05:50:37.910246-05:00.jpg"
+     alt="Beaumont Enterprise at 2022-09-19 05:50:42-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-11T05:54:35.529774-05:00.jpg">September 11 at 5:54 AM</a></p>
+ <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-19T05:50:37.910246-05:00.jpg">September 19 at 5:50 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-10T18:05:57.580133-05:00.jpg">
-  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-10T18:05:57.580133-05:00.jpg"
-     alt="Beaumont Enterprise at 2022-09-10 18:06:05-05:00 local time"
+ <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-18T17:50:01.293111-05:00.jpg">
+  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-18T17:50:01.293111-05:00.jpg"
+     alt="Beaumont Enterprise at 2022-09-18 17:50:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-10T18:05:57.580133-05:00.jpg">September 10 at 6:06 PM</a></p>
+ <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-18T17:50:01.293111-05:00.jpg">September 18 at 5:50 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-10T05:53:21.785784-05:00.jpg">
-  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-10T05:53:21.785784-05:00.jpg"
-     alt="Beaumont Enterprise at 2022-09-10 05:53:31-05:00 local time"
+ <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-18T05:51:19.514840-05:00.jpg">
+  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-18T05:51:19.514840-05:00.jpg"
+     alt="Beaumont Enterprise at 2022-09-18 05:51:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-10T05:53:21.785784-05:00.jpg">September 10 at 5:53 AM</a></p>
+ <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-18T05:51:19.514840-05:00.jpg">September 18 at 5:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-09T18:04:41.816138-05:00.jpg">
-  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-09T18:04:41.816138-05:00.jpg"
-     alt="Beaumont Enterprise at 2022-09-09 18:04:46-05:00 local time"
+ <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-17T17:53:39.293086-05:00.jpg">
+  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-17T17:53:39.293086-05:00.jpg"
+     alt="Beaumont Enterprise at 2022-09-17 17:54:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-09T18:04:41.816138-05:00.jpg">September 9 at 6:04 PM</a></p>
+ <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-17T17:53:39.293086-05:00.jpg">September 17 at 5:54 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-09T06:04:26.978791-05:00.jpg">
-  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-09T06:04:26.978791-05:00.jpg"
-     alt="Beaumont Enterprise at 2022-09-09 06:04:30-05:00 local time"
+ <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-17T05:49:49.580046-05:00.jpg">
+  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-17T05:49:49.580046-05:00.jpg"
+     alt="Beaumont Enterprise at 2022-09-17 05:49:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-09T06:04:26.978791-05:00.jpg">September 9 at 6:04 AM</a></p>
+ <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-17T05:49:49.580046-05:00.jpg">September 17 at 5:49 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-08T18:57:13.824133-05:00.jpg">
-  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-08T18:57:13.824133-05:00.jpg"
-     alt="Beaumont Enterprise at 2022-09-08 18:57:17-05:00 local time"
+ <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-16T17:52:18.537886-05:00.jpg">
+  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-16T17:52:18.537886-05:00.jpg"
+     alt="Beaumont Enterprise at 2022-09-16 17:52:23-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-08T18:57:13.824133-05:00.jpg">September 8 at 6:57 PM</a></p>
+ <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-16T17:52:18.537886-05:00.jpg">September 16 at 5:52 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-08T06:01:59.591225-05:00.jpg">
-  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-08T06:01:59.591225-05:00.jpg"
-     alt="Beaumont Enterprise at 2022-09-08 06:02:05-05:00 local time"
+ <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-16T05:53:05.548009-05:00.jpg">
+  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-16T05:53:05.548009-05:00.jpg"
+     alt="Beaumont Enterprise at 2022-09-16 05:53:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-08T06:01:59.591225-05:00.jpg">September 8 at 6:02 AM</a></p>
+ <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-16T05:53:05.548009-05:00.jpg">September 16 at 5:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-07T17:59:04.987249-05:00.jpg">
-  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-07T17:59:04.987249-05:00.jpg"
-     alt="Beaumont Enterprise at 2022-09-07 17:59:10-05:00 local time"
+ <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-15T17:55:06.506512-05:00.jpg">
+  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-15T17:55:06.506512-05:00.jpg"
+     alt="Beaumont Enterprise at 2022-09-15 17:55:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-07T17:59:04.987249-05:00.jpg">September 7 at 5:59 PM</a></p>
+ <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-15T17:55:06.506512-05:00.jpg">September 15 at 5:55 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-07T07:13:30.323497-05:00.jpg">
-  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-07T07:13:30.323497-05:00.jpg"
-     alt="Beaumont Enterprise at 2022-09-07 07:13:34-05:00 local time"
+ <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-15T05:54:44.328067-05:00.jpg">
+  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-15T05:54:44.328067-05:00.jpg"
+     alt="Beaumont Enterprise at 2022-09-15 05:54:50-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-07T07:13:30.323497-05:00.jpg">September 7 at 7:13 AM</a></p>
+ <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-15T05:54:44.328067-05:00.jpg">September 15 at 5:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-06T18:05:56.536356-05:00.jpg">
-  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-06T18:05:56.536356-05:00.jpg"
-     alt="Beaumont Enterprise at 2022-09-06 18:06:01-05:00 local time"
+ <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-14T18:01:51.418303-05:00.jpg">
+  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-14T18:01:51.418303-05:00.jpg"
+     alt="Beaumont Enterprise at 2022-09-14 18:02:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-06T18:05:56.536356-05:00.jpg">September 6 at 6:06 PM</a></p>
+ <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-14T18:01:51.418303-05:00.jpg">September 14 at 6:02 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-06T05:55:38.834080-05:00.jpg">
-  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-06T05:55:38.834080-05:00.jpg"
-     alt="Beaumont Enterprise at 2022-09-06 05:55:39-05:00 local time"
+ <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-14T05:55:08.447423-05:00.jpg">
+  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-14T05:55:08.447423-05:00.jpg"
+     alt="Beaumont Enterprise at 2022-09-14 05:55:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-06T05:55:38.834080-05:00.jpg">September 6 at 5:55 AM</a></p>
+ <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-14T05:55:08.447423-05:00.jpg">September 14 at 5:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-05T18:00:17.805088-05:00.jpg">
-  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-05T18:00:17.805088-05:00.jpg"
-     alt="Beaumont Enterprise at 2022-09-05 18:00:23-05:00 local time"
+ <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-13T17:59:36.988045-05:00.jpg">
+  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-13T17:59:36.988045-05:00.jpg"
+     alt="Beaumont Enterprise at 2022-09-13 17:59:42-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-05T18:00:17.805088-05:00.jpg">September 5 at 6:00 PM</a></p>
+ <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-13T17:59:36.988045-05:00.jpg">September 13 at 5:59 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 89 hyperlink lists with the Internet Archive.
+The archiving routine has saved 105 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 5:54 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-11T05:54:35.529774-05:00.hyperlinks.json) |
-| [September 10 at 6:06 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-10T18:05:57.580133-05:00.hyperlinks.json) |
-| [September 10 at 5:53 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-10T05:53:21.785784-05:00.hyperlinks.json) |
-| [September 9 at 6:04 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-09T18:04:41.816138-05:00.hyperlinks.json) |
-| [September 9 at 6:04 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-09T06:04:26.978791-05:00.hyperlinks.json) |
-| [September 8 at 6:57 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-08T18:57:13.824133-05:00.hyperlinks.json) |
-| [September 8 at 6:02 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-08T06:01:59.591225-05:00.hyperlinks.json) |
-| [September 7 at 5:59 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-07T17:59:04.987249-05:00.hyperlinks.json) |
-| [September 7 at 7:13 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-07T07:13:30.323497-05:00.hyperlinks.json) |
-| [September 6 at 6:06 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-06T18:05:56.536356-05:00.hyperlinks.json) |
+| [September 19 at 5:50 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-19T05:50:37.910246-05:00.hyperlinks.json) |
+| [September 18 at 5:50 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-18T17:50:01.293111-05:00.hyperlinks.json) |
+| [September 18 at 5:51 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-18T05:51:19.514840-05:00.hyperlinks.json) |
+| [September 17 at 5:54 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-17T17:53:39.293086-05:00.hyperlinks.json) |
+| [September 17 at 5:49 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-17T05:49:49.580046-05:00.hyperlinks.json) |
+| [September 16 at 5:52 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-16T17:52:18.537886-05:00.hyperlinks.json) |
+| [September 16 at 5:53 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-16T05:53:05.548009-05:00.hyperlinks.json) |
+| [September 15 at 5:55 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-15T17:55:06.506512-05:00.hyperlinks.json) |
+| [September 15 at 5:54 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-15T05:54:44.328067-05:00.hyperlinks.json) |
+| [September 14 at 6:02 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-14T18:01:51.418303-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 90 accessibility trees with the Internet Archive.
+The archiving routine has saved 106 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 5:54 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-11T05:54:35.529774-05:00.accessibility.json) |
-| [September 10 at 6:06 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-10T18:05:57.580133-05:00.accessibility.json) |
-| [September 10 at 5:53 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-10T05:53:21.785784-05:00.accessibility.json) |
-| [September 9 at 6:04 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-09T18:04:41.816138-05:00.accessibility.json) |
-| [September 9 at 6:04 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-09T06:04:26.978791-05:00.accessibility.json) |
-| [September 8 at 6:57 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-08T18:57:13.824133-05:00.accessibility.json) |
-| [September 8 at 6:02 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-08T06:01:59.591225-05:00.accessibility.json) |
-| [September 7 at 5:59 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-07T17:59:04.987249-05:00.accessibility.json) |
-| [September 7 at 7:13 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-07T07:13:30.323497-05:00.accessibility.json) |
-| [September 6 at 6:06 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-06T18:05:56.536356-05:00.accessibility.json) |
+| [September 19 at 5:50 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-19T05:50:37.910246-05:00.accessibility.json) |
+| [September 18 at 5:50 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-18T17:50:01.293111-05:00.accessibility.json) |
+| [September 18 at 5:51 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-18T05:51:19.514840-05:00.accessibility.json) |
+| [September 17 at 5:54 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-17T17:53:39.293086-05:00.accessibility.json) |
+| [September 17 at 5:49 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-17T05:49:49.580046-05:00.accessibility.json) |
+| [September 16 at 5:52 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-16T17:52:18.537886-05:00.accessibility.json) |
+| [September 16 at 5:53 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-16T05:53:05.548009-05:00.accessibility.json) |
+| [September 15 at 5:55 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-15T17:55:06.506512-05:00.accessibility.json) |
+| [September 15 at 5:54 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-15T05:54:44.328067-05:00.accessibility.json) |
+| [September 14 at 6:02 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-14T18:01:51.418303-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 101 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 117 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 5:54 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-11T05:54:35.529774-05:00.lighthouse.json) |
-| [September 10 at 6:06 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-10T18:05:57.580133-05:00.lighthouse.json) |
-| [September 10 at 5:53 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-10T05:53:21.785784-05:00.lighthouse.json) |
-| [September 9 at 6:04 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-09T18:04:41.816138-05:00.lighthouse.json) |
-| [September 9 at 6:04 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-09T06:04:26.978791-05:00.lighthouse.json) |
-| [September 8 at 6:57 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-08T18:57:13.824133-05:00.lighthouse.json) |
-| [September 8 at 6:02 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-08T06:01:59.591225-05:00.lighthouse.json) |
-| [September 7 at 5:59 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-07T17:59:04.987249-05:00.lighthouse.json) |
-| [September 7 at 7:13 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-07T07:13:30.323497-05:00.lighthouse.json) |
-| [September 6 at 6:06 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-06T18:05:56.536356-05:00.lighthouse.json) |
+| [September 19 at 5:50 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-19T05:50:37.910246-05:00.lighthouse.json) |
+| [September 18 at 5:50 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-18T17:50:01.293111-05:00.lighthouse.json) |
+| [September 18 at 5:51 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-18T05:51:19.514840-05:00.lighthouse.json) |
+| [September 17 at 5:54 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-17T17:53:39.293086-05:00.lighthouse.json) |
+| [September 17 at 5:50 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-17T05:49:49.580046-05:00.lighthouse.json) |
+| [September 16 at 5:52 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-16T17:52:18.537886-05:00.lighthouse.json) |
+| [September 16 at 5:53 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-16T05:53:05.548009-05:00.lighthouse.json) |
+| [September 15 at 5:55 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-15T17:55:06.506512-05:00.lighthouse.json) |
+| [September 15 at 5:54 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-15T05:54:44.328067-05:00.lighthouse.json) |
+| [September 14 at 6:02 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-09-14T18:01:51.418303-05:00.lighthouse.json) |
 
 
 

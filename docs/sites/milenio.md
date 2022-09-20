@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 54 screenshots with the Internet Archive.
+The archiving routine has saved 71 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/milenio-2022/milenio-2022-09-10T19:14:45.066322-05:00.jpg">
-  <img src="https://archive.org/download/milenio-2022/milenio-2022-09-10T19:14:45.066322-05:00.jpg"
-     alt="Milenio at 2022-09-10 19:14:49-05:00 local time"
+ <a href="https://archive.org/download/milenio-2022/milenio-2022-09-19T07:55:58.023524-05:00.jpg">
+  <img src="https://archive.org/download/milenio-2022/milenio-2022-09-19T07:55:58.023524-05:00.jpg"
+     alt="Milenio at 2022-09-19 07:56:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/milenio-2022/milenio-2022-09-10T19:14:45.066322-05:00.jpg">September 10 at 7:14 PM</a></p>
+ <p><a href="https://archive.org/download/milenio-2022/milenio-2022-09-19T07:55:58.023524-05:00.jpg">September 19 at 7:56 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/milenio-2022/milenio-2022-09-10T07:02:02.786812-05:00.jpg">
-  <img src="https://archive.org/download/milenio-2022/milenio-2022-09-10T07:02:02.786812-05:00.jpg"
-     alt="Milenio at 2022-09-10 07:02:06-05:00 local time"
+ <a href="https://archive.org/download/milenio-2022/milenio-2022-09-18T20:12:09.980300-05:00.jpg">
+  <img src="https://archive.org/download/milenio-2022/milenio-2022-09-18T20:12:09.980300-05:00.jpg"
+     alt="Milenio at 2022-09-18 20:12:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/milenio-2022/milenio-2022-09-10T07:02:02.786812-05:00.jpg">September 10 at 7:02 AM</a></p>
+ <p><a href="https://archive.org/download/milenio-2022/milenio-2022-09-18T20:12:09.980300-05:00.jpg">September 18 at 8:12 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/milenio-2022/milenio-2022-09-09T19:09:05.008433-05:00.jpg">
-  <img src="https://archive.org/download/milenio-2022/milenio-2022-09-09T19:09:05.008433-05:00.jpg"
-     alt="Milenio at 2022-09-09 19:09:10-05:00 local time"
+ <a href="https://archive.org/download/milenio-2022/milenio-2022-09-18T07:58:16.209208-05:00.jpg">
+  <img src="https://archive.org/download/milenio-2022/milenio-2022-09-18T07:58:16.209208-05:00.jpg"
+     alt="Milenio at 2022-09-18 07:58:17-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/milenio-2022/milenio-2022-09-09T19:09:05.008433-05:00.jpg">September 9 at 7:09 PM</a></p>
+ <p><a href="https://archive.org/download/milenio-2022/milenio-2022-09-18T07:58:16.209208-05:00.jpg">September 18 at 7:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/milenio-2022/milenio-2022-09-09T07:19:01.576284-05:00.jpg">
-  <img src="https://archive.org/download/milenio-2022/milenio-2022-09-09T07:19:01.576284-05:00.jpg"
-     alt="Milenio at 2022-09-09 07:19:05-05:00 local time"
+ <a href="https://archive.org/download/milenio-2022/milenio-2022-09-17T20:17:43.426525-05:00.jpg">
+  <img src="https://archive.org/download/milenio-2022/milenio-2022-09-17T20:17:43.426525-05:00.jpg"
+     alt="Milenio at 2022-09-17 20:17:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/milenio-2022/milenio-2022-09-09T07:19:01.576284-05:00.jpg">September 9 at 7:19 AM</a></p>
+ <p><a href="https://archive.org/download/milenio-2022/milenio-2022-09-17T20:17:43.426525-05:00.jpg">September 17 at 8:17 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/milenio-2022/milenio-2022-09-08T19:09:00.555391-05:00.jpg">
-  <img src="https://archive.org/download/milenio-2022/milenio-2022-09-08T19:09:00.555391-05:00.jpg"
-     alt="Milenio at 2022-09-08 19:09:04-05:00 local time"
+ <a href="https://archive.org/download/milenio-2022/milenio-2022-09-17T07:57:52.883938-05:00.jpg">
+  <img src="https://archive.org/download/milenio-2022/milenio-2022-09-17T07:57:52.883938-05:00.jpg"
+     alt="Milenio at 2022-09-17 07:57:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/milenio-2022/milenio-2022-09-08T19:09:00.555391-05:00.jpg">September 8 at 7:09 PM</a></p>
+ <p><a href="https://archive.org/download/milenio-2022/milenio-2022-09-17T07:57:52.883938-05:00.jpg">September 17 at 7:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/milenio-2022/milenio-2022-09-08T07:25:13.840547-05:00.jpg">
-  <img src="https://archive.org/download/milenio-2022/milenio-2022-09-08T07:25:13.840547-05:00.jpg"
-     alt="Milenio at 2022-09-08 07:25:20-05:00 local time"
+ <a href="https://archive.org/download/milenio-2022/milenio-2022-09-16T20:11:15.773765-05:00.jpg">
+  <img src="https://archive.org/download/milenio-2022/milenio-2022-09-16T20:11:15.773765-05:00.jpg"
+     alt="Milenio at 2022-09-16 20:11:17-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/milenio-2022/milenio-2022-09-08T07:25:13.840547-05:00.jpg">September 8 at 7:25 AM</a></p>
+ <p><a href="https://archive.org/download/milenio-2022/milenio-2022-09-16T20:11:15.773765-05:00.jpg">September 16 at 8:11 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/milenio-2022/milenio-2022-09-07T18:57:52.134721-05:00.jpg">
-  <img src="https://archive.org/download/milenio-2022/milenio-2022-09-07T18:57:52.134721-05:00.jpg"
-     alt="Milenio at 2022-09-07 18:57:53-05:00 local time"
+ <a href="https://archive.org/download/milenio-2022/milenio-2022-09-16T07:59:00.014783-05:00.jpg">
+  <img src="https://archive.org/download/milenio-2022/milenio-2022-09-16T07:59:00.014783-05:00.jpg"
+     alt="Milenio at 2022-09-16 07:59:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/milenio-2022/milenio-2022-09-07T18:57:52.134721-05:00.jpg">September 7 at 6:57 PM</a></p>
+ <p><a href="https://archive.org/download/milenio-2022/milenio-2022-09-16T07:59:00.014783-05:00.jpg">September 16 at 7:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/milenio-2022/milenio-2022-09-07T07:43:28.588521-05:00.jpg">
-  <img src="https://archive.org/download/milenio-2022/milenio-2022-09-07T07:43:28.588521-05:00.jpg"
-     alt="Milenio at 2022-09-07 07:43:30-05:00 local time"
+ <a href="https://archive.org/download/milenio-2022/milenio-2022-09-15T20:14:06.995924-05:00.jpg">
+  <img src="https://archive.org/download/milenio-2022/milenio-2022-09-15T20:14:06.995924-05:00.jpg"
+     alt="Milenio at 2022-09-15 20:14:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/milenio-2022/milenio-2022-09-07T07:43:28.588521-05:00.jpg">September 7 at 7:43 AM</a></p>
+ <p><a href="https://archive.org/download/milenio-2022/milenio-2022-09-15T20:14:06.995924-05:00.jpg">September 15 at 8:14 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/milenio-2022/milenio-2022-09-06T19:12:59.620607-05:00.jpg">
-  <img src="https://archive.org/download/milenio-2022/milenio-2022-09-06T19:12:59.620607-05:00.jpg"
-     alt="Milenio at 2022-09-06 19:13:01-05:00 local time"
+ <a href="https://archive.org/download/milenio-2022/milenio-2022-09-15T08:01:02.046909-05:00.jpg">
+  <img src="https://archive.org/download/milenio-2022/milenio-2022-09-15T08:01:02.046909-05:00.jpg"
+     alt="Milenio at 2022-09-15 08:01:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/milenio-2022/milenio-2022-09-06T19:12:59.620607-05:00.jpg">September 6 at 7:13 PM</a></p>
+ <p><a href="https://archive.org/download/milenio-2022/milenio-2022-09-15T08:01:02.046909-05:00.jpg">September 15 at 8:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/milenio-2022/milenio-2022-09-06T07:06:15.458183-05:00.jpg">
-  <img src="https://archive.org/download/milenio-2022/milenio-2022-09-06T07:06:15.458183-05:00.jpg"
-     alt="Milenio at 2022-09-06 07:06:18-05:00 local time"
+ <a href="https://archive.org/download/milenio-2022/milenio-2022-09-14T20:18:22.831833-05:00.jpg">
+  <img src="https://archive.org/download/milenio-2022/milenio-2022-09-14T20:18:22.831833-05:00.jpg"
+     alt="Milenio at 2022-09-14 20:18:27-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/milenio-2022/milenio-2022-09-06T07:06:15.458183-05:00.jpg">September 6 at 7:06 AM</a></p>
+ <p><a href="https://archive.org/download/milenio-2022/milenio-2022-09-14T20:18:22.831833-05:00.jpg">September 14 at 8:18 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/milenio-2022/milenio-2022-09-05T18:59:07.212192-05:00.jpg">
-  <img src="https://archive.org/download/milenio-2022/milenio-2022-09-05T18:59:07.212192-05:00.jpg"
-     alt="Milenio at 2022-09-05 18:59:10-05:00 local time"
+ <a href="https://archive.org/download/milenio-2022/milenio-2022-09-14T08:05:09.514226-05:00.jpg">
+  <img src="https://archive.org/download/milenio-2022/milenio-2022-09-14T08:05:09.514226-05:00.jpg"
+     alt="Milenio at 2022-09-14 08:05:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/milenio-2022/milenio-2022-09-05T18:59:07.212192-05:00.jpg">September 5 at 6:59 PM</a></p>
+ <p><a href="https://archive.org/download/milenio-2022/milenio-2022-09-14T08:05:09.514226-05:00.jpg">September 14 at 8:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/milenio-2022/milenio-2022-09-05T07:22:35.888014-05:00.jpg">
-  <img src="https://archive.org/download/milenio-2022/milenio-2022-09-05T07:22:35.888014-05:00.jpg"
-     alt="Milenio at 2022-09-05 07:22:41-05:00 local time"
+ <a href="https://archive.org/download/milenio-2022/milenio-2022-09-13T20:20:23.426678-05:00.jpg">
+  <img src="https://archive.org/download/milenio-2022/milenio-2022-09-13T20:20:23.426678-05:00.jpg"
+     alt="Milenio at 2022-09-13 20:20:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/milenio-2022/milenio-2022-09-05T07:22:35.888014-05:00.jpg">September 5 at 7:22 AM</a></p>
+ <p><a href="https://archive.org/download/milenio-2022/milenio-2022-09-13T20:20:23.426678-05:00.jpg">September 13 at 8:20 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 54 hyperlink lists with the Internet Archive.
+The archiving routine has saved 71 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 10 at 7:14 PM](https://archive.org/download/milenio-2022/milenio-2022-09-10T19:14:45.066322-05:00.hyperlinks.json) |
-| [September 10 at 7:02 AM](https://archive.org/download/milenio-2022/milenio-2022-09-10T07:02:02.786812-05:00.hyperlinks.json) |
-| [September 9 at 7:09 PM](https://archive.org/download/milenio-2022/milenio-2022-09-09T19:09:05.008433-05:00.hyperlinks.json) |
-| [September 9 at 7:19 AM](https://archive.org/download/milenio-2022/milenio-2022-09-09T07:19:01.576284-05:00.hyperlinks.json) |
-| [September 8 at 7:09 PM](https://archive.org/download/milenio-2022/milenio-2022-09-08T19:09:00.555391-05:00.hyperlinks.json) |
-| [September 8 at 7:25 AM](https://archive.org/download/milenio-2022/milenio-2022-09-08T07:25:13.840547-05:00.hyperlinks.json) |
-| [September 7 at 6:57 PM](https://archive.org/download/milenio-2022/milenio-2022-09-07T18:57:52.134721-05:00.hyperlinks.json) |
-| [September 7 at 7:43 AM](https://archive.org/download/milenio-2022/milenio-2022-09-07T07:43:28.588521-05:00.hyperlinks.json) |
-| [September 6 at 7:13 PM](https://archive.org/download/milenio-2022/milenio-2022-09-06T19:12:59.620607-05:00.hyperlinks.json) |
-| [September 6 at 7:06 AM](https://archive.org/download/milenio-2022/milenio-2022-09-06T07:06:15.458183-05:00.hyperlinks.json) |
+| [September 19 at 7:56 AM](https://archive.org/download/milenio-2022/milenio-2022-09-19T07:55:58.023524-05:00.hyperlinks.json) |
+| [September 18 at 8:12 PM](https://archive.org/download/milenio-2022/milenio-2022-09-18T20:12:09.980300-05:00.hyperlinks.json) |
+| [September 18 at 7:58 AM](https://archive.org/download/milenio-2022/milenio-2022-09-18T07:58:16.209208-05:00.hyperlinks.json) |
+| [September 17 at 8:17 PM](https://archive.org/download/milenio-2022/milenio-2022-09-17T20:17:43.426525-05:00.hyperlinks.json) |
+| [September 17 at 7:58 AM](https://archive.org/download/milenio-2022/milenio-2022-09-17T07:57:52.883938-05:00.hyperlinks.json) |
+| [September 16 at 8:11 PM](https://archive.org/download/milenio-2022/milenio-2022-09-16T20:11:15.773765-05:00.hyperlinks.json) |
+| [September 16 at 7:59 AM](https://archive.org/download/milenio-2022/milenio-2022-09-16T07:59:00.014783-05:00.hyperlinks.json) |
+| [September 15 at 8:14 PM](https://archive.org/download/milenio-2022/milenio-2022-09-15T20:14:06.995924-05:00.hyperlinks.json) |
+| [September 15 at 8:01 AM](https://archive.org/download/milenio-2022/milenio-2022-09-15T08:01:02.046909-05:00.hyperlinks.json) |
+| [September 14 at 8:18 PM](https://archive.org/download/milenio-2022/milenio-2022-09-14T20:18:22.831833-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 52 accessibility trees with the Internet Archive.
+The archiving routine has saved 68 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 10 at 7:14 PM](https://archive.org/download/milenio-2022/milenio-2022-09-10T19:14:45.066322-05:00.accessibility.json) |
-| [September 10 at 7:02 AM](https://archive.org/download/milenio-2022/milenio-2022-09-10T07:02:02.786812-05:00.accessibility.json) |
-| [September 9 at 7:09 PM](https://archive.org/download/milenio-2022/milenio-2022-09-09T19:09:05.008433-05:00.accessibility.json) |
-| [September 9 at 7:19 AM](https://archive.org/download/milenio-2022/milenio-2022-09-09T07:19:01.576284-05:00.accessibility.json) |
-| [September 8 at 7:09 PM](https://archive.org/download/milenio-2022/milenio-2022-09-08T19:09:00.555391-05:00.accessibility.json) |
-| [September 8 at 7:25 AM](https://archive.org/download/milenio-2022/milenio-2022-09-08T07:25:13.840547-05:00.accessibility.json) |
-| [September 7 at 6:57 PM](https://archive.org/download/milenio-2022/milenio-2022-09-07T18:57:52.134721-05:00.accessibility.json) |
-| [September 7 at 7:43 AM](https://archive.org/download/milenio-2022/milenio-2022-09-07T07:43:28.588521-05:00.accessibility.json) |
-| [September 6 at 7:13 PM](https://archive.org/download/milenio-2022/milenio-2022-09-06T19:12:59.620607-05:00.accessibility.json) |
-| [September 6 at 7:06 AM](https://archive.org/download/milenio-2022/milenio-2022-09-06T07:06:15.458183-05:00.accessibility.json) |
+| [September 19 at 7:56 AM](https://archive.org/download/milenio-2022/milenio-2022-09-19T07:55:58.023524-05:00.accessibility.json) |
+| [September 18 at 8:12 PM](https://archive.org/download/milenio-2022/milenio-2022-09-18T20:12:09.980300-05:00.accessibility.json) |
+| [September 18 at 7:58 AM](https://archive.org/download/milenio-2022/milenio-2022-09-18T07:58:16.209208-05:00.accessibility.json) |
+| [September 17 at 8:17 PM](https://archive.org/download/milenio-2022/milenio-2022-09-17T20:17:43.426525-05:00.accessibility.json) |
+| [September 17 at 7:57 AM](https://archive.org/download/milenio-2022/milenio-2022-09-17T07:57:52.883938-05:00.accessibility.json) |
+| [September 16 at 8:11 PM](https://archive.org/download/milenio-2022/milenio-2022-09-16T20:11:15.773765-05:00.accessibility.json) |
+| [September 16 at 7:59 AM](https://archive.org/download/milenio-2022/milenio-2022-09-16T07:59:00.014783-05:00.accessibility.json) |
+| [September 15 at 8:14 PM](https://archive.org/download/milenio-2022/milenio-2022-09-15T20:14:06.995924-05:00.accessibility.json) |
+| [September 15 at 8:01 AM](https://archive.org/download/milenio-2022/milenio-2022-09-15T08:01:02.046909-05:00.accessibility.json) |
+| [September 14 at 8:18 PM](https://archive.org/download/milenio-2022/milenio-2022-09-14T20:18:22.831833-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 54 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 71 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 10 at 7:14 PM](https://archive.org/download/milenio-2022/milenio-2022-09-10T19:14:45.066322-05:00.lighthouse.json) |
-| [September 10 at 7:02 AM](https://archive.org/download/milenio-2022/milenio-2022-09-10T07:02:02.786812-05:00.lighthouse.json) |
-| [September 9 at 7:09 PM](https://archive.org/download/milenio-2022/milenio-2022-09-09T19:09:05.008433-05:00.lighthouse.json) |
-| [September 9 at 7:19 AM](https://archive.org/download/milenio-2022/milenio-2022-09-09T07:19:01.576284-05:00.lighthouse.json) |
-| [September 8 at 7:09 PM](https://archive.org/download/milenio-2022/milenio-2022-09-08T19:09:00.555391-05:00.lighthouse.json) |
-| [September 8 at 7:25 AM](https://archive.org/download/milenio-2022/milenio-2022-09-08T07:25:13.840547-05:00.lighthouse.json) |
-| [September 7 at 6:57 PM](https://archive.org/download/milenio-2022/milenio-2022-09-07T18:57:52.134721-05:00.lighthouse.json) |
-| [September 7 at 7:43 AM](https://archive.org/download/milenio-2022/milenio-2022-09-07T07:43:28.588521-05:00.lighthouse.json) |
-| [September 6 at 7:13 PM](https://archive.org/download/milenio-2022/milenio-2022-09-06T19:12:59.620607-05:00.lighthouse.json) |
-| [September 6 at 7:06 AM](https://archive.org/download/milenio-2022/milenio-2022-09-06T07:06:15.458183-05:00.lighthouse.json) |
+| [September 19 at 7:56 AM](https://archive.org/download/milenio-2022/milenio-2022-09-19T07:55:58.023524-05:00.lighthouse.json) |
+| [September 18 at 8:12 PM](https://archive.org/download/milenio-2022/milenio-2022-09-18T20:12:09.980300-05:00.lighthouse.json) |
+| [September 18 at 7:58 AM](https://archive.org/download/milenio-2022/milenio-2022-09-18T07:58:16.209208-05:00.lighthouse.json) |
+| [September 17 at 8:17 PM](https://archive.org/download/milenio-2022/milenio-2022-09-17T20:17:43.426525-05:00.lighthouse.json) |
+| [September 17 at 7:58 AM](https://archive.org/download/milenio-2022/milenio-2022-09-17T07:57:52.883938-05:00.lighthouse.json) |
+| [September 16 at 8:11 PM](https://archive.org/download/milenio-2022/milenio-2022-09-16T20:11:15.773765-05:00.lighthouse.json) |
+| [September 16 at 7:59 AM](https://archive.org/download/milenio-2022/milenio-2022-09-16T07:59:00.014783-05:00.lighthouse.json) |
+| [September 15 at 8:14 PM](https://archive.org/download/milenio-2022/milenio-2022-09-15T20:14:06.995924-05:00.lighthouse.json) |
+| [September 15 at 8:01 AM](https://archive.org/download/milenio-2022/milenio-2022-09-15T08:01:02.046909-05:00.lighthouse.json) |
+| [September 14 at 8:18 PM](https://archive.org/download/milenio-2022/milenio-2022-09-14T20:18:22.831833-05:00.lighthouse.json) |
 
 
 

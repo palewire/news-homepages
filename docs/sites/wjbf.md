@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 107 screenshots with the Internet Archive.
+The archiving routine has saved 123 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-11T10:16:41.600484-04:00.jpg">
-  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-09-11T10:16:41.600484-04:00.jpg"
-     alt="WJBF at 2022-09-11 10:16:46-04:00 local time"
+ <a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-19T11:01:09.507610-04:00.jpg">
+  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-09-19T11:01:09.507610-04:00.jpg"
+     alt="WJBF at 2022-09-19 11:01:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-11T10:16:41.600484-04:00.jpg">September 11 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-19T11:01:09.507610-04:00.jpg">September 19 at 11:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-10T22:31:32.882115-04:00.jpg">
-  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-09-10T22:31:32.882115-04:00.jpg"
-     alt="WJBF at 2022-09-10 22:31:37-04:00 local time"
+ <a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-18T23:44:17.591155-04:00.jpg">
+  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-09-18T23:44:17.591155-04:00.jpg"
+     alt="WJBF at 2022-09-18 23:44:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-10T22:31:32.882115-04:00.jpg">September 10 at 10:31 PM</a></p>
+ <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-18T23:44:17.591155-04:00.jpg">September 18 at 11:44 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-10T10:16:21.137662-04:00.jpg">
-  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-09-10T10:16:21.137662-04:00.jpg"
-     alt="WJBF at 2022-09-10 10:16:24-04:00 local time"
+ <a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-18T10:03:20.202877-04:00.jpg">
+  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-09-18T10:03:20.202877-04:00.jpg"
+     alt="WJBF at 2022-09-18 10:03:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-10T10:16:21.137662-04:00.jpg">September 10 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-18T10:03:20.202877-04:00.jpg">September 18 at 10:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-09T22:31:29.254662-04:00.jpg">
-  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-09-09T22:31:29.254662-04:00.jpg"
-     alt="WJBF at 2022-09-09 22:31:34-04:00 local time"
+ <a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-17T22:30:59.878307-04:00.jpg">
+  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-09-17T22:30:59.878307-04:00.jpg"
+     alt="WJBF at 2022-09-17 22:31:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-09T22:31:29.254662-04:00.jpg">September 9 at 10:31 PM</a></p>
+ <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-17T22:30:59.878307-04:00.jpg">September 17 at 10:31 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-09T10:39:16.903755-04:00.jpg">
-  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-09-09T10:39:16.903755-04:00.jpg"
-     alt="WJBF at 2022-09-09 10:39:21-04:00 local time"
+ <a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-17T10:01:55.786673-04:00.jpg">
+  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-09-17T10:01:55.786673-04:00.jpg"
+     alt="WJBF at 2022-09-17 10:02:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-09T10:39:16.903755-04:00.jpg">September 9 at 10:39 AM</a></p>
+ <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-17T10:01:55.786673-04:00.jpg">September 17 at 10:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-08T22:33:49.173344-04:00.jpg">
-  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-09-08T22:33:49.173344-04:00.jpg"
-     alt="WJBF at 2022-09-08 22:34:05-04:00 local time"
+ <a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-16T22:28:04.089874-04:00.jpg">
+  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-09-16T22:28:04.089874-04:00.jpg"
+     alt="WJBF at 2022-09-16 22:28:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-08T22:33:49.173344-04:00.jpg">September 8 at 10:34 PM</a></p>
+ <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-16T22:28:04.089874-04:00.jpg">September 16 at 10:28 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-08T10:29:22.756780-04:00.jpg">
-  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-09-08T10:29:22.756780-04:00.jpg"
-     alt="WJBF at 2022-09-08 10:29:24-04:00 local time"
+ <a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-16T10:10:12.963209-04:00.jpg">
+  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-09-16T10:10:12.963209-04:00.jpg"
+     alt="WJBF at 2022-09-16 10:10:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-08T10:29:22.756780-04:00.jpg">September 8 at 10:29 AM</a></p>
+ <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-16T10:10:12.963209-04:00.jpg">September 16 at 10:10 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-07T22:38:17.780110-04:00.jpg">
-  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-09-07T22:38:17.780110-04:00.jpg"
-     alt="WJBF at 2022-09-07 22:38:22-04:00 local time"
+ <a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-15T22:29:05.140436-04:00.jpg">
+  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-09-15T22:29:05.140436-04:00.jpg"
+     alt="WJBF at 2022-09-15 22:29:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-07T22:38:17.780110-04:00.jpg">September 7 at 10:38 PM</a></p>
+ <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-15T22:29:05.140436-04:00.jpg">September 15 at 10:29 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-07T11:35:27.593406-04:00.jpg">
-  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-09-07T11:35:27.593406-04:00.jpg"
-     alt="WJBF at 2022-09-07 11:35:29-04:00 local time"
+ <a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-15T10:15:56.949756-04:00.jpg">
+  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-09-15T10:15:56.949756-04:00.jpg"
+     alt="WJBF at 2022-09-15 10:16:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-07T11:35:27.593406-04:00.jpg">September 7 at 11:35 AM</a></p>
+ <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-15T10:15:56.949756-04:00.jpg">September 15 at 10:16 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-06T22:38:16.026118-04:00.jpg">
-  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-09-06T22:38:16.026118-04:00.jpg"
-     alt="WJBF at 2022-09-06 22:38:17-04:00 local time"
+ <a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-14T22:31:57.235176-04:00.jpg">
+  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-09-14T22:31:57.235176-04:00.jpg"
+     alt="WJBF at 2022-09-14 22:32:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-06T22:38:16.026118-04:00.jpg">September 6 at 10:38 PM</a></p>
+ <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-14T22:31:57.235176-04:00.jpg">September 14 at 10:32 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-05T22:31:58.529910-04:00.jpg">
-  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-09-05T22:31:58.529910-04:00.jpg"
-     alt="WJBF at 2022-09-05 22:32:02-04:00 local time"
+ <a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-14T10:17:03.863028-04:00.jpg">
+  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-09-14T10:17:03.863028-04:00.jpg"
+     alt="WJBF at 2022-09-14 10:17:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-05T22:31:58.529910-04:00.jpg">September 5 at 10:32 PM</a></p>
+ <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-14T10:17:03.863028-04:00.jpg">September 14 at 10:17 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-05T10:28:15.559505-04:00.jpg">
-  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-09-05T10:28:15.559505-04:00.jpg"
-     alt="WJBF at 2022-09-05 10:28:21-04:00 local time"
+ <a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-13T22:29:29.258358-04:00.jpg">
+  <img src="https://archive.org/download/wjbf-2022/wjbf-2022-09-13T22:29:29.258358-04:00.jpg"
+     alt="WJBF at 2022-09-13 22:29:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-05T10:28:15.559505-04:00.jpg">September 5 at 10:28 AM</a></p>
+ <p><a href="https://archive.org/download/wjbf-2022/wjbf-2022-09-13T22:29:29.258358-04:00.jpg">September 13 at 10:29 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 108 hyperlink lists with the Internet Archive.
+The archiving routine has saved 124 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 10:16 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-11T10:16:41.600484-04:00.hyperlinks.json) |
-| [September 10 at 10:31 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-10T22:31:32.882115-04:00.hyperlinks.json) |
-| [September 10 at 10:16 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-10T10:16:21.137662-04:00.hyperlinks.json) |
-| [September 9 at 10:31 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-09T22:31:29.254662-04:00.hyperlinks.json) |
-| [September 9 at 10:39 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-09T10:39:16.903755-04:00.hyperlinks.json) |
-| [September 8 at 10:34 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-08T22:33:49.173344-04:00.hyperlinks.json) |
-| [September 8 at 10:29 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-08T10:29:22.756780-04:00.hyperlinks.json) |
-| [September 7 at 10:38 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-07T22:38:17.780110-04:00.hyperlinks.json) |
-| [September 7 at 11:35 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-07T11:35:27.593406-04:00.hyperlinks.json) |
-| [September 6 at 10:38 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-06T22:38:16.026118-04:00.hyperlinks.json) |
+| [September 19 at 11:01 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-19T11:01:09.507610-04:00.hyperlinks.json) |
+| [September 18 at 11:44 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-18T23:44:17.591155-04:00.hyperlinks.json) |
+| [September 18 at 10:03 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-18T10:03:20.202877-04:00.hyperlinks.json) |
+| [September 17 at 10:31 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-17T22:30:59.878307-04:00.hyperlinks.json) |
+| [September 17 at 10:02 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-17T10:01:55.786673-04:00.hyperlinks.json) |
+| [September 16 at 10:28 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-16T22:28:04.089874-04:00.hyperlinks.json) |
+| [September 16 at 10:10 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-16T10:10:12.963209-04:00.hyperlinks.json) |
+| [September 15 at 10:29 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-15T22:29:05.140436-04:00.hyperlinks.json) |
+| [September 15 at 10:16 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-15T10:15:56.949756-04:00.hyperlinks.json) |
+| [September 14 at 10:32 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-14T22:31:57.235176-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 107 accessibility trees with the Internet Archive.
+The archiving routine has saved 123 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 10:16 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-11T10:16:41.600484-04:00.accessibility.json) |
-| [September 10 at 10:31 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-10T22:31:32.882115-04:00.accessibility.json) |
-| [September 10 at 10:16 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-10T10:16:21.137662-04:00.accessibility.json) |
-| [September 9 at 10:31 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-09T22:31:29.254662-04:00.accessibility.json) |
-| [September 9 at 10:39 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-09T10:39:16.903755-04:00.accessibility.json) |
-| [September 8 at 10:34 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-08T22:33:49.173344-04:00.accessibility.json) |
-| [September 8 at 10:29 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-08T10:29:22.756780-04:00.accessibility.json) |
-| [September 7 at 10:38 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-07T22:38:17.780110-04:00.accessibility.json) |
-| [September 7 at 11:35 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-07T11:35:27.593406-04:00.accessibility.json) |
-| [September 6 at 10:38 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-06T22:38:16.026118-04:00.accessibility.json) |
+| [September 19 at 11:01 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-19T11:01:09.507610-04:00.accessibility.json) |
+| [September 18 at 11:44 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-18T23:44:17.591155-04:00.accessibility.json) |
+| [September 18 at 10:03 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-18T10:03:20.202877-04:00.accessibility.json) |
+| [September 17 at 10:31 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-17T22:30:59.878307-04:00.accessibility.json) |
+| [September 17 at 10:02 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-17T10:01:55.786673-04:00.accessibility.json) |
+| [September 16 at 10:28 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-16T22:28:04.089874-04:00.accessibility.json) |
+| [September 16 at 10:10 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-16T10:10:12.963209-04:00.accessibility.json) |
+| [September 15 at 10:29 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-15T22:29:05.140436-04:00.accessibility.json) |
+| [September 15 at 10:16 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-15T10:15:56.949756-04:00.accessibility.json) |
+| [September 14 at 10:32 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-14T22:31:57.235176-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 101 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 116 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 10:16 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-11T10:16:41.600484-04:00.lighthouse.json) |
-| [September 10 at 10:31 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-10T22:31:32.882115-04:00.lighthouse.json) |
-| [September 10 at 10:16 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-10T10:16:21.137662-04:00.lighthouse.json) |
-| [September 9 at 10:31 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-09T22:31:29.254662-04:00.lighthouse.json) |
-| [September 9 at 10:39 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-09T10:39:16.903755-04:00.lighthouse.json) |
-| [September 8 at 10:34 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-08T22:33:49.173344-04:00.lighthouse.json) |
-| [September 8 at 10:29 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-08T10:29:22.756780-04:00.lighthouse.json) |
-| [September 7 at 10:38 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-07T22:38:17.780110-04:00.lighthouse.json) |
-| [September 7 at 11:35 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-07T11:35:27.593406-04:00.lighthouse.json) |
-| [September 6 at 10:38 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-06T22:38:16.026118-04:00.lighthouse.json) |
+| [September 19 at 11:01 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-19T11:01:09.507610-04:00.lighthouse.json) |
+| [September 18 at 11:44 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-18T23:44:17.591155-04:00.lighthouse.json) |
+| [September 18 at 10:03 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-18T10:03:20.202877-04:00.lighthouse.json) |
+| [September 17 at 10:31 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-17T22:30:59.878307-04:00.lighthouse.json) |
+| [September 17 at 10:02 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-17T10:01:55.786673-04:00.lighthouse.json) |
+| [September 16 at 10:28 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-16T22:28:04.089874-04:00.lighthouse.json) |
+| [September 16 at 10:10 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-16T10:10:12.963209-04:00.lighthouse.json) |
+| [September 15 at 10:29 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-15T22:29:05.140436-04:00.lighthouse.json) |
+| [September 15 at 10:16 AM](https://archive.org/download/wjbf-2022/wjbf-2022-09-15T10:15:56.949756-04:00.lighthouse.json) |
+| [September 14 at 10:32 PM](https://archive.org/download/wjbf-2022/wjbf-2022-09-14T22:31:57.235176-04:00.lighthouse.json) |
 
 
 

@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 345 screenshots with the Internet Archive.
+The archiving routine has saved 369 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/libe-2022/libe-2022-09-11T17:07:39.664326+02:00.jpg">
-  <img src="https://archive.org/download/libe-2022/libe-2022-09-11T17:07:39.664326+02:00.jpg"
-     alt="Libération at 2022-09-11 17:08:08+02:00 local time"
+ <a href="https://archive.org/download/libe-2022/libe-2022-09-19T19:32:44.885241+02:00.jpg">
+  <img src="https://archive.org/download/libe-2022/libe-2022-09-19T19:32:44.885241+02:00.jpg"
+     alt="Libération at 2022-09-19 19:32:46+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/libe-2022/libe-2022-09-11T17:07:39.664326+02:00.jpg">September 11 at 5:08 PM</a></p>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-09-19T19:32:44.885241+02:00.jpg">September 19 at 7:32 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/libe-2022/libe-2022-09-11T10:14:57.442503+02:00.jpg">
-  <img src="https://archive.org/download/libe-2022/libe-2022-09-11T10:14:57.442503+02:00.jpg"
-     alt="Libération at 2022-09-11 10:14:58+02:00 local time"
+ <a href="https://archive.org/download/libe-2022/libe-2022-09-19T10:18:56.061790+02:00.jpg">
+  <img src="https://archive.org/download/libe-2022/libe-2022-09-19T10:18:56.061790+02:00.jpg"
+     alt="Libération at 2022-09-19 10:18:57+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/libe-2022/libe-2022-09-11T10:14:57.442503+02:00.jpg">September 11 at 10:14 AM</a></p>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-09-19T10:18:56.061790+02:00.jpg">September 19 at 10:18 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/libe-2022/libe-2022-09-11T05:53:14.908324+02:00.jpg">
-  <img src="https://archive.org/download/libe-2022/libe-2022-09-11T05:53:14.908324+02:00.jpg"
-     alt="Libération at 2022-09-11 05:53:16+02:00 local time"
+ <a href="https://archive.org/download/libe-2022/libe-2022-09-19T08:04:06.559711+02:00.jpg">
+  <img src="https://archive.org/download/libe-2022/libe-2022-09-19T08:04:06.559711+02:00.jpg"
+     alt="Libération at 2022-09-19 08:04:07+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/libe-2022/libe-2022-09-11T05:53:14.908324+02:00.jpg">September 11 at 5:53 AM</a></p>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-09-19T08:04:06.559711+02:00.jpg">September 19 at 8:04 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/libe-2022/libe-2022-09-10T17:04:59.688554+02:00.jpg">
-  <img src="https://archive.org/download/libe-2022/libe-2022-09-10T17:04:59.688554+02:00.jpg"
-     alt="Libération at 2022-09-10 17:05:10+02:00 local time"
+ <a href="https://archive.org/download/libe-2022/libe-2022-09-18T19:26:08.620777+02:00.jpg">
+  <img src="https://archive.org/download/libe-2022/libe-2022-09-18T19:26:08.620777+02:00.jpg"
+     alt="Libération at 2022-09-18 19:26:17+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/libe-2022/libe-2022-09-10T17:04:59.688554+02:00.jpg">September 10 at 5:05 PM</a></p>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-09-18T19:26:08.620777+02:00.jpg">September 18 at 7:26 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/libe-2022/libe-2022-09-10T10:14:28.682789+02:00.jpg">
-  <img src="https://archive.org/download/libe-2022/libe-2022-09-10T10:14:28.682789+02:00.jpg"
-     alt="Libération at 2022-09-10 10:14:30+02:00 local time"
+ <a href="https://archive.org/download/libe-2022/libe-2022-09-18T10:17:17.612478+02:00.jpg">
+  <img src="https://archive.org/download/libe-2022/libe-2022-09-18T10:17:17.612478+02:00.jpg"
+     alt="Libération at 2022-09-18 10:17:19+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/libe-2022/libe-2022-09-10T10:14:28.682789+02:00.jpg">September 10 at 10:14 AM</a></p>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-09-18T10:17:17.612478+02:00.jpg">September 18 at 10:17 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/libe-2022/libe-2022-09-10T05:54:22.091974+02:00.jpg">
-  <img src="https://archive.org/download/libe-2022/libe-2022-09-10T05:54:22.091974+02:00.jpg"
-     alt="Libération at 2022-09-10 05:54:24+02:00 local time"
+ <a href="https://archive.org/download/libe-2022/libe-2022-09-18T07:21:29.114457+02:00.jpg">
+  <img src="https://archive.org/download/libe-2022/libe-2022-09-18T07:21:29.114457+02:00.jpg"
+     alt="Libération at 2022-09-18 07:21:31+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/libe-2022/libe-2022-09-10T05:54:22.091974+02:00.jpg">September 10 at 5:54 AM</a></p>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-09-18T07:21:29.114457+02:00.jpg">September 18 at 7:21 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/libe-2022/libe-2022-09-09T18:27:05.144607+02:00.jpg">
-  <img src="https://archive.org/download/libe-2022/libe-2022-09-09T18:27:05.144607+02:00.jpg"
-     alt="Libération at 2022-09-09 18:27:15+02:00 local time"
+ <a href="https://archive.org/download/libe-2022/libe-2022-09-17T17:57:39.141854+02:00.jpg">
+  <img src="https://archive.org/download/libe-2022/libe-2022-09-17T17:57:39.141854+02:00.jpg"
+     alt="Libération at 2022-09-17 17:57:41+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/libe-2022/libe-2022-09-09T18:27:05.144607+02:00.jpg">September 9 at 6:27 PM</a></p>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-09-17T17:57:39.141854+02:00.jpg">September 17 at 5:57 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/libe-2022/libe-2022-09-09T10:19:24.084491+02:00.jpg">
-  <img src="https://archive.org/download/libe-2022/libe-2022-09-09T10:19:24.084491+02:00.jpg"
-     alt="Libération at 2022-09-09 10:19:26+02:00 local time"
+ <a href="https://archive.org/download/libe-2022/libe-2022-09-17T10:14:54.650530+02:00.jpg">
+  <img src="https://archive.org/download/libe-2022/libe-2022-09-17T10:14:54.650530+02:00.jpg"
+     alt="Libération at 2022-09-17 10:14:56+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/libe-2022/libe-2022-09-09T10:19:24.084491+02:00.jpg">September 9 at 10:19 AM</a></p>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-09-17T10:14:54.650530+02:00.jpg">September 17 at 10:14 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/libe-2022/libe-2022-09-09T06:48:22.434456+02:00.jpg">
-  <img src="https://archive.org/download/libe-2022/libe-2022-09-09T06:48:22.434456+02:00.jpg"
-     alt="Libération at 2022-09-09 06:48:24+02:00 local time"
+ <a href="https://archive.org/download/libe-2022/libe-2022-09-17T06:33:57.376116+02:00.jpg">
+  <img src="https://archive.org/download/libe-2022/libe-2022-09-17T06:33:57.376116+02:00.jpg"
+     alt="Libération at 2022-09-17 06:33:58+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/libe-2022/libe-2022-09-09T06:48:22.434456+02:00.jpg">September 9 at 6:48 AM</a></p>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-09-17T06:33:57.376116+02:00.jpg">September 17 at 6:33 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/libe-2022/libe-2022-09-08T17:31:46.727882+02:00.jpg">
-  <img src="https://archive.org/download/libe-2022/libe-2022-09-08T17:31:46.727882+02:00.jpg"
-     alt="Libération at 2022-09-08 17:31:59+02:00 local time"
+ <a href="https://archive.org/download/libe-2022/libe-2022-09-16T18:02:53.715357+02:00.jpg">
+  <img src="https://archive.org/download/libe-2022/libe-2022-09-16T18:02:53.715357+02:00.jpg"
+     alt="Libération at 2022-09-16 18:02:57+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/libe-2022/libe-2022-09-08T17:31:46.727882+02:00.jpg">September 8 at 5:31 PM</a></p>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-09-16T18:02:53.715357+02:00.jpg">September 16 at 6:02 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/libe-2022/libe-2022-09-08T10:16:16.031404+02:00.jpg">
-  <img src="https://archive.org/download/libe-2022/libe-2022-09-08T10:16:16.031404+02:00.jpg"
-     alt="Libération at 2022-09-08 10:16:18+02:00 local time"
+ <a href="https://archive.org/download/libe-2022/libe-2022-09-16T10:15:36.721009+02:00.jpg">
+  <img src="https://archive.org/download/libe-2022/libe-2022-09-16T10:15:36.721009+02:00.jpg"
+     alt="Libération at 2022-09-16 10:15:39+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/libe-2022/libe-2022-09-08T10:16:16.031404+02:00.jpg">September 8 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-09-16T10:15:36.721009+02:00.jpg">September 16 at 10:15 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/libe-2022/libe-2022-09-08T05:52:45.573339+02:00.jpg">
-  <img src="https://archive.org/download/libe-2022/libe-2022-09-08T05:52:45.573339+02:00.jpg"
-     alt="Libération at 2022-09-08 05:52:57+02:00 local time"
+ <a href="https://archive.org/download/libe-2022/libe-2022-09-16T07:27:28.799867+02:00.jpg">
+  <img src="https://archive.org/download/libe-2022/libe-2022-09-16T07:27:28.799867+02:00.jpg"
+     alt="Libération at 2022-09-16 07:27:30+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/libe-2022/libe-2022-09-08T05:52:45.573339+02:00.jpg">September 8 at 5:52 AM</a></p>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-09-16T07:27:28.799867+02:00.jpg">September 16 at 7:27 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 346 hyperlink lists with the Internet Archive.
+The archiving routine has saved 370 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 5:08 PM](https://archive.org/download/libe-2022/libe-2022-09-11T17:07:39.664326+02:00.hyperlinks.json) |
-| [September 11 at 10:15 AM](https://archive.org/download/libe-2022/libe-2022-09-11T10:14:57.442503+02:00.hyperlinks.json) |
-| [September 11 at 5:53 AM](https://archive.org/download/libe-2022/libe-2022-09-11T05:53:14.908324+02:00.hyperlinks.json) |
-| [September 10 at 5:05 PM](https://archive.org/download/libe-2022/libe-2022-09-10T17:04:59.688554+02:00.hyperlinks.json) |
-| [September 10 at 10:14 AM](https://archive.org/download/libe-2022/libe-2022-09-10T10:14:28.682789+02:00.hyperlinks.json) |
-| [September 10 at 5:54 AM](https://archive.org/download/libe-2022/libe-2022-09-10T05:54:22.091974+02:00.hyperlinks.json) |
-| [September 9 at 6:27 PM](https://archive.org/download/libe-2022/libe-2022-09-09T18:27:05.144607+02:00.hyperlinks.json) |
-| [September 9 at 10:19 AM](https://archive.org/download/libe-2022/libe-2022-09-09T10:19:24.084491+02:00.hyperlinks.json) |
-| [September 9 at 6:48 AM](https://archive.org/download/libe-2022/libe-2022-09-09T06:48:22.434456+02:00.hyperlinks.json) |
-| [September 8 at 5:32 PM](https://archive.org/download/libe-2022/libe-2022-09-08T17:31:46.727882+02:00.hyperlinks.json) |
+| [September 19 at 7:32 PM](https://archive.org/download/libe-2022/libe-2022-09-19T19:32:44.885241+02:00.hyperlinks.json) |
+| [September 19 at 10:19 AM](https://archive.org/download/libe-2022/libe-2022-09-19T10:18:56.061790+02:00.hyperlinks.json) |
+| [September 19 at 8:04 AM](https://archive.org/download/libe-2022/libe-2022-09-19T08:04:06.559711+02:00.hyperlinks.json) |
+| [September 18 at 7:26 PM](https://archive.org/download/libe-2022/libe-2022-09-18T19:26:08.620777+02:00.hyperlinks.json) |
+| [September 18 at 10:17 AM](https://archive.org/download/libe-2022/libe-2022-09-18T10:17:17.612478+02:00.hyperlinks.json) |
+| [September 18 at 7:21 AM](https://archive.org/download/libe-2022/libe-2022-09-18T07:21:29.114457+02:00.hyperlinks.json) |
+| [September 17 at 5:57 PM](https://archive.org/download/libe-2022/libe-2022-09-17T17:57:39.141854+02:00.hyperlinks.json) |
+| [September 17 at 10:14 AM](https://archive.org/download/libe-2022/libe-2022-09-17T10:14:54.650530+02:00.hyperlinks.json) |
+| [September 17 at 6:34 AM](https://archive.org/download/libe-2022/libe-2022-09-17T06:33:57.376116+02:00.hyperlinks.json) |
+| [September 16 at 6:03 PM](https://archive.org/download/libe-2022/libe-2022-09-16T18:02:53.715357+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 347 accessibility trees with the Internet Archive.
+The archiving routine has saved 371 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 5:08 PM](https://archive.org/download/libe-2022/libe-2022-09-11T17:07:39.664326+02:00.accessibility.json) |
-| [September 11 at 10:14 AM](https://archive.org/download/libe-2022/libe-2022-09-11T10:14:57.442503+02:00.accessibility.json) |
-| [September 11 at 5:53 AM](https://archive.org/download/libe-2022/libe-2022-09-11T05:53:14.908324+02:00.accessibility.json) |
-| [September 10 at 5:05 PM](https://archive.org/download/libe-2022/libe-2022-09-10T17:04:59.688554+02:00.accessibility.json) |
-| [September 10 at 10:14 AM](https://archive.org/download/libe-2022/libe-2022-09-10T10:14:28.682789+02:00.accessibility.json) |
-| [September 10 at 5:54 AM](https://archive.org/download/libe-2022/libe-2022-09-10T05:54:22.091974+02:00.accessibility.json) |
-| [September 9 at 6:27 PM](https://archive.org/download/libe-2022/libe-2022-09-09T18:27:05.144607+02:00.accessibility.json) |
-| [September 9 at 10:19 AM](https://archive.org/download/libe-2022/libe-2022-09-09T10:19:24.084491+02:00.accessibility.json) |
-| [September 9 at 6:48 AM](https://archive.org/download/libe-2022/libe-2022-09-09T06:48:22.434456+02:00.accessibility.json) |
-| [September 8 at 5:32 PM](https://archive.org/download/libe-2022/libe-2022-09-08T17:31:46.727882+02:00.accessibility.json) |
+| [September 19 at 7:32 PM](https://archive.org/download/libe-2022/libe-2022-09-19T19:32:44.885241+02:00.accessibility.json) |
+| [September 19 at 10:18 AM](https://archive.org/download/libe-2022/libe-2022-09-19T10:18:56.061790+02:00.accessibility.json) |
+| [September 19 at 8:04 AM](https://archive.org/download/libe-2022/libe-2022-09-19T08:04:06.559711+02:00.accessibility.json) |
+| [September 18 at 7:26 PM](https://archive.org/download/libe-2022/libe-2022-09-18T19:26:08.620777+02:00.accessibility.json) |
+| [September 18 at 10:17 AM](https://archive.org/download/libe-2022/libe-2022-09-18T10:17:17.612478+02:00.accessibility.json) |
+| [September 18 at 7:21 AM](https://archive.org/download/libe-2022/libe-2022-09-18T07:21:29.114457+02:00.accessibility.json) |
+| [September 17 at 5:57 PM](https://archive.org/download/libe-2022/libe-2022-09-17T17:57:39.141854+02:00.accessibility.json) |
+| [September 17 at 10:14 AM](https://archive.org/download/libe-2022/libe-2022-09-17T10:14:54.650530+02:00.accessibility.json) |
+| [September 17 at 6:34 AM](https://archive.org/download/libe-2022/libe-2022-09-17T06:33:57.376116+02:00.accessibility.json) |
+| [September 16 at 6:03 PM](https://archive.org/download/libe-2022/libe-2022-09-16T18:02:53.715357+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 145 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 169 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 5:08 PM](https://archive.org/download/libe-2022/libe-2022-09-11T17:07:39.664326+02:00.lighthouse.json) |
-| [September 11 at 10:15 AM](https://archive.org/download/libe-2022/libe-2022-09-11T10:14:57.442503+02:00.lighthouse.json) |
-| [September 11 at 5:53 AM](https://archive.org/download/libe-2022/libe-2022-09-11T05:53:14.908324+02:00.lighthouse.json) |
-| [September 10 at 5:05 PM](https://archive.org/download/libe-2022/libe-2022-09-10T17:04:59.688554+02:00.lighthouse.json) |
-| [September 10 at 10:14 AM](https://archive.org/download/libe-2022/libe-2022-09-10T10:14:28.682789+02:00.lighthouse.json) |
-| [September 10 at 5:54 AM](https://archive.org/download/libe-2022/libe-2022-09-10T05:54:22.091974+02:00.lighthouse.json) |
-| [September 9 at 6:27 PM](https://archive.org/download/libe-2022/libe-2022-09-09T18:27:05.144607+02:00.lighthouse.json) |
-| [September 9 at 10:19 AM](https://archive.org/download/libe-2022/libe-2022-09-09T10:19:24.084491+02:00.lighthouse.json) |
-| [September 9 at 6:48 AM](https://archive.org/download/libe-2022/libe-2022-09-09T06:48:22.434456+02:00.lighthouse.json) |
-| [September 8 at 5:32 PM](https://archive.org/download/libe-2022/libe-2022-09-08T17:31:46.727882+02:00.lighthouse.json) |
+| [September 19 at 7:32 PM](https://archive.org/download/libe-2022/libe-2022-09-19T19:32:44.885241+02:00.lighthouse.json) |
+| [September 19 at 10:19 AM](https://archive.org/download/libe-2022/libe-2022-09-19T10:18:56.061790+02:00.lighthouse.json) |
+| [September 19 at 8:04 AM](https://archive.org/download/libe-2022/libe-2022-09-19T08:04:06.559711+02:00.lighthouse.json) |
+| [September 18 at 7:26 PM](https://archive.org/download/libe-2022/libe-2022-09-18T19:26:08.620777+02:00.lighthouse.json) |
+| [September 18 at 10:17 AM](https://archive.org/download/libe-2022/libe-2022-09-18T10:17:17.612478+02:00.lighthouse.json) |
+| [September 18 at 7:21 AM](https://archive.org/download/libe-2022/libe-2022-09-18T07:21:29.114457+02:00.lighthouse.json) |
+| [September 17 at 5:57 PM](https://archive.org/download/libe-2022/libe-2022-09-17T17:57:39.141854+02:00.lighthouse.json) |
+| [September 17 at 10:15 AM](https://archive.org/download/libe-2022/libe-2022-09-17T10:14:54.650530+02:00.lighthouse.json) |
+| [September 17 at 6:34 AM](https://archive.org/download/libe-2022/libe-2022-09-17T06:33:57.376116+02:00.lighthouse.json) |
+| [September 16 at 6:03 PM](https://archive.org/download/libe-2022/libe-2022-09-16T18:02:53.715357+02:00.lighthouse.json) |
 
 
 

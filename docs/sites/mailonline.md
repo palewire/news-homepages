@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 239 screenshots with the Internet Archive.
+The archiving routine has saved 264 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-11T10:16:29.021860+01:00.jpg">
-  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-09-11T10:16:29.021860+01:00.jpg"
-     alt="Daily Mail at 2022-09-11 10:16:57+01:00 local time"
+ <a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-19T13:54:05.242027+01:00.jpg">
+  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-09-19T13:54:05.242027+01:00.jpg"
+     alt="Daily Mail at 2022-09-19 13:54:07+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-11T10:16:29.021860+01:00.jpg">September 11 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-19T13:54:05.242027+01:00.jpg">September 19 at 1:54 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-11T01:15:13.817397+01:00.jpg">
-  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-09-11T01:15:13.817397+01:00.jpg"
-     alt="Daily Mail at 2022-09-11 01:15:42+01:00 local time"
+ <a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-19T10:26:47.231317+01:00.jpg">
+  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-09-19T10:26:47.231317+01:00.jpg"
+     alt="Daily Mail at 2022-09-19 10:26:57+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-11T01:15:13.817397+01:00.jpg">September 11 at 1:15 AM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-19T10:26:47.231317+01:00.jpg">September 19 at 10:26 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-10T13:01:17.016060+01:00.jpg">
-  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-09-10T13:01:17.016060+01:00.jpg"
-     alt="Daily Mail at 2022-09-10 13:01:17+01:00 local time"
+ <a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-19T02:09:59.022337+01:00.jpg">
+  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-09-19T02:09:59.022337+01:00.jpg"
+     alt="Daily Mail at 2022-09-19 02:10:24+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-10T13:01:17.016060+01:00.jpg">September 10 at 1:01 PM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-19T02:09:59.022337+01:00.jpg">September 19 at 2:10 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-10T10:13:10.113707+01:00.jpg">
-  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-09-10T10:13:10.113707+01:00.jpg"
-     alt="Daily Mail at 2022-09-10 10:13:23+01:00 local time"
+ <a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-18T13:57:53.355843+01:00.jpg">
+  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-09-18T13:57:53.355843+01:00.jpg"
+     alt="Daily Mail at 2022-09-18 13:58:15+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-10T10:13:10.113707+01:00.jpg">September 10 at 10:13 AM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-18T13:57:53.355843+01:00.jpg">September 18 at 1:58 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-10T01:07:33.713803+01:00.jpg">
-  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-09-10T01:07:33.713803+01:00.jpg"
-     alt="Daily Mail at 2022-09-10 01:07:59+01:00 local time"
+ <a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-18T10:16:14.530035+01:00.jpg">
+  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-09-18T10:16:14.530035+01:00.jpg"
+     alt="Daily Mail at 2022-09-18 10:16:24+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-10T01:07:33.713803+01:00.jpg">September 10 at 1:07 AM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-18T10:16:14.530035+01:00.jpg">September 18 at 10:16 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-09T13:18:14.893402+01:00.jpg">
-  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-09-09T13:18:14.893402+01:00.jpg"
-     alt="Daily Mail at 2022-09-09 13:18:44+01:00 local time"
+ <a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-18T02:18:33.368768+01:00.jpg">
+  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-09-18T02:18:33.368768+01:00.jpg"
+     alt="Daily Mail at 2022-09-18 02:18:35+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-09T13:18:14.893402+01:00.jpg">September 9 at 1:18 PM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-18T02:18:33.368768+01:00.jpg">September 18 at 2:18 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-09T10:19:31.229145+01:00.jpg">
-  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-09-09T10:19:31.229145+01:00.jpg"
-     alt="Daily Mail at 2022-09-09 10:19:39+01:00 local time"
+ <a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-17T13:57:53.152948+01:00.jpg">
+  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-09-17T13:57:53.152948+01:00.jpg"
+     alt="Daily Mail at 2022-09-17 13:58:02+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-09T10:19:31.229145+01:00.jpg">September 9 at 10:19 AM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-17T13:57:53.152948+01:00.jpg">September 17 at 1:58 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-09T01:09:01.685069+01:00.jpg">
-  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-09-09T01:09:01.685069+01:00.jpg"
-     alt="Daily Mail at 2022-09-09 01:09:13+01:00 local time"
+ <a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-17T10:16:04.885095+01:00.jpg">
+  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-09-17T10:16:04.885095+01:00.jpg"
+     alt="Daily Mail at 2022-09-17 10:16:26+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-09T01:09:01.685069+01:00.jpg">September 9 at 1:09 AM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-17T10:16:04.885095+01:00.jpg">September 17 at 10:16 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-08T18:52:14.429365+01:00.jpg">
-  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-09-08T18:52:14.429365+01:00.jpg"
-     alt="Daily Mail at 2022-09-08 18:52:23+01:00 local time"
+ <a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-17T02:11:29.014922+01:00.jpg">
+  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-09-17T02:11:29.014922+01:00.jpg"
+     alt="Daily Mail at 2022-09-17 02:11:49+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-08T18:52:14.429365+01:00.jpg">September 8 at 6:52 PM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-17T02:11:29.014922+01:00.jpg">September 17 at 2:11 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-08T17:29:39.180812+01:00.jpg">
-  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-09-08T17:29:39.180812+01:00.jpg"
-     alt="Daily Mail at 2022-09-08 17:29:48+01:00 local time"
+ <a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-16T13:58:14.777746+01:00.jpg">
+  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-09-16T13:58:14.777746+01:00.jpg"
+     alt="Daily Mail at 2022-09-16 13:58:16+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-08T17:29:39.180812+01:00.jpg">September 8 at 5:29 PM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-16T13:58:14.777746+01:00.jpg">September 16 at 1:58 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-08T13:23:36.070612+01:00.jpg">
-  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-09-08T13:23:36.070612+01:00.jpg"
-     alt="Daily Mail at 2022-09-08 13:23:45+01:00 local time"
+ <a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-16T10:16:40.170456+01:00.jpg">
+  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-09-16T10:16:40.170456+01:00.jpg"
+     alt="Daily Mail at 2022-09-16 10:17:00+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-08T13:23:36.070612+01:00.jpg">September 8 at 1:23 PM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-16T10:16:40.170456+01:00.jpg">September 16 at 10:17 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-08T10:17:02.799437+01:00.jpg">
-  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-09-08T10:17:02.799437+01:00.jpg"
-     alt="Daily Mail at 2022-09-08 10:17:04+01:00 local time"
+ <a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-16T02:13:44.095819+01:00.jpg">
+  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-09-16T02:13:44.095819+01:00.jpg"
+     alt="Daily Mail at 2022-09-16 02:13:46+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-08T10:17:02.799437+01:00.jpg">September 8 at 10:17 AM</a></p>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-09-16T02:13:44.095819+01:00.jpg">September 16 at 2:13 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 194 hyperlink lists with the Internet Archive.
+The archiving routine has saved 219 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 10:17 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-11T10:16:29.021860+01:00.hyperlinks.json) |
-| [September 11 at 1:15 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-11T01:15:13.817397+01:00.hyperlinks.json) |
-| [September 10 at 1:01 PM](https://archive.org/download/mailonline-2022/mailonline-2022-09-10T13:01:17.016060+01:00.hyperlinks.json) |
-| [September 10 at 10:13 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-10T10:13:10.113707+01:00.hyperlinks.json) |
-| [September 10 at 1:08 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-10T01:07:33.713803+01:00.hyperlinks.json) |
-| [September 9 at 1:18 PM](https://archive.org/download/mailonline-2022/mailonline-2022-09-09T13:18:14.893402+01:00.hyperlinks.json) |
-| [September 9 at 10:19 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-09T10:19:31.229145+01:00.hyperlinks.json) |
-| [September 9 at 1:09 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-09T01:09:01.685069+01:00.hyperlinks.json) |
-| [September 8 at 6:52 PM](https://archive.org/download/mailonline-2022/mailonline-2022-09-08T18:52:14.429365+01:00.hyperlinks.json) |
-| [September 8 at 5:29 PM](https://archive.org/download/mailonline-2022/mailonline-2022-09-08T17:29:39.180812+01:00.hyperlinks.json) |
+| [September 19 at 1:54 PM](https://archive.org/download/mailonline-2022/mailonline-2022-09-19T13:54:05.242027+01:00.hyperlinks.json) |
+| [September 19 at 10:27 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-19T10:26:47.231317+01:00.hyperlinks.json) |
+| [September 19 at 2:10 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-19T02:09:59.022337+01:00.hyperlinks.json) |
+| [September 18 at 1:58 PM](https://archive.org/download/mailonline-2022/mailonline-2022-09-18T13:57:53.355843+01:00.hyperlinks.json) |
+| [September 18 at 10:16 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-18T10:16:14.530035+01:00.hyperlinks.json) |
+| [September 18 at 2:18 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-18T02:18:33.368768+01:00.hyperlinks.json) |
+| [September 17 at 1:58 PM](https://archive.org/download/mailonline-2022/mailonline-2022-09-17T13:57:53.152948+01:00.hyperlinks.json) |
+| [September 17 at 10:16 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-17T10:16:04.885095+01:00.hyperlinks.json) |
+| [September 17 at 2:11 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-17T02:11:29.014922+01:00.hyperlinks.json) |
+| [September 16 at 1:58 PM](https://archive.org/download/mailonline-2022/mailonline-2022-09-16T13:58:14.777746+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 191 accessibility trees with the Internet Archive.
+The archiving routine has saved 216 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 10:16 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-11T10:16:29.021860+01:00.accessibility.json) |
-| [September 11 at 1:15 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-11T01:15:13.817397+01:00.accessibility.json) |
-| [September 10 at 1:01 PM](https://archive.org/download/mailonline-2022/mailonline-2022-09-10T13:01:17.016060+01:00.accessibility.json) |
-| [September 10 at 10:13 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-10T10:13:10.113707+01:00.accessibility.json) |
-| [September 10 at 1:08 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-10T01:07:33.713803+01:00.accessibility.json) |
-| [September 9 at 1:18 PM](https://archive.org/download/mailonline-2022/mailonline-2022-09-09T13:18:14.893402+01:00.accessibility.json) |
-| [September 9 at 10:19 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-09T10:19:31.229145+01:00.accessibility.json) |
-| [September 9 at 1:09 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-09T01:09:01.685069+01:00.accessibility.json) |
-| [September 8 at 6:52 PM](https://archive.org/download/mailonline-2022/mailonline-2022-09-08T18:52:14.429365+01:00.accessibility.json) |
-| [September 8 at 5:29 PM](https://archive.org/download/mailonline-2022/mailonline-2022-09-08T17:29:39.180812+01:00.accessibility.json) |
+| [September 19 at 1:54 PM](https://archive.org/download/mailonline-2022/mailonline-2022-09-19T13:54:05.242027+01:00.accessibility.json) |
+| [September 19 at 10:26 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-19T10:26:47.231317+01:00.accessibility.json) |
+| [September 19 at 2:10 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-19T02:09:59.022337+01:00.accessibility.json) |
+| [September 18 at 1:58 PM](https://archive.org/download/mailonline-2022/mailonline-2022-09-18T13:57:53.355843+01:00.accessibility.json) |
+| [September 18 at 10:16 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-18T10:16:14.530035+01:00.accessibility.json) |
+| [September 18 at 2:18 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-18T02:18:33.368768+01:00.accessibility.json) |
+| [September 17 at 1:58 PM](https://archive.org/download/mailonline-2022/mailonline-2022-09-17T13:57:53.152948+01:00.accessibility.json) |
+| [September 17 at 10:16 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-17T10:16:04.885095+01:00.accessibility.json) |
+| [September 17 at 2:11 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-17T02:11:29.014922+01:00.accessibility.json) |
+| [September 16 at 1:58 PM](https://archive.org/download/mailonline-2022/mailonline-2022-09-16T13:58:14.777746+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 149 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 174 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 10:17 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-11T10:16:29.021860+01:00.lighthouse.json) |
-| [September 11 at 1:15 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-11T01:15:13.817397+01:00.lighthouse.json) |
-| [September 10 at 1:01 PM](https://archive.org/download/mailonline-2022/mailonline-2022-09-10T13:01:17.016060+01:00.lighthouse.json) |
-| [September 10 at 10:13 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-10T10:13:10.113707+01:00.lighthouse.json) |
-| [September 10 at 1:08 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-10T01:07:33.713803+01:00.lighthouse.json) |
-| [September 9 at 1:18 PM](https://archive.org/download/mailonline-2022/mailonline-2022-09-09T13:18:14.893402+01:00.lighthouse.json) |
-| [September 9 at 10:19 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-09T10:19:31.229145+01:00.lighthouse.json) |
-| [September 9 at 1:09 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-09T01:09:01.685069+01:00.lighthouse.json) |
-| [September 8 at 6:52 PM](https://archive.org/download/mailonline-2022/mailonline-2022-09-08T18:52:14.429365+01:00.lighthouse.json) |
-| [September 8 at 5:29 PM](https://archive.org/download/mailonline-2022/mailonline-2022-09-08T17:29:39.180812+01:00.lighthouse.json) |
+| [September 19 at 1:54 PM](https://archive.org/download/mailonline-2022/mailonline-2022-09-19T13:54:05.242027+01:00.lighthouse.json) |
+| [September 19 at 10:27 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-19T10:26:47.231317+01:00.lighthouse.json) |
+| [September 19 at 2:10 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-19T02:09:59.022337+01:00.lighthouse.json) |
+| [September 18 at 1:58 PM](https://archive.org/download/mailonline-2022/mailonline-2022-09-18T13:57:53.355843+01:00.lighthouse.json) |
+| [September 18 at 10:16 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-18T10:16:14.530035+01:00.lighthouse.json) |
+| [September 18 at 2:18 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-18T02:18:33.368768+01:00.lighthouse.json) |
+| [September 17 at 1:58 PM](https://archive.org/download/mailonline-2022/mailonline-2022-09-17T13:57:53.152948+01:00.lighthouse.json) |
+| [September 17 at 10:16 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-17T10:16:04.885095+01:00.lighthouse.json) |
+| [September 17 at 2:11 AM](https://archive.org/download/mailonline-2022/mailonline-2022-09-17T02:11:29.014922+01:00.lighthouse.json) |
+| [September 16 at 1:58 PM](https://archive.org/download/mailonline-2022/mailonline-2022-09-16T13:58:14.777746+01:00.lighthouse.json) |
 
 
 

@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 106 screenshots with the Internet Archive.
+The archiving routine has saved 122 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-10T19:03:44.964504-04:00.jpg">
-  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-10T19:03:44.964504-04:00.jpg"
-     alt="Albany Herald at 2022-09-10 19:03:49-04:00 local time"
+ <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-19T06:46:50.370610-04:00.jpg">
+  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-19T06:46:50.370610-04:00.jpg"
+     alt="Albany Herald at 2022-09-19 06:46:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-10T19:03:44.964504-04:00.jpg">September 10 at 7:03 PM</a></p>
+ <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-19T06:46:50.370610-04:00.jpg">September 19 at 6:46 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-10T06:51:42.567546-04:00.jpg">
-  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-10T06:51:42.567546-04:00.jpg"
-     alt="Albany Herald at 2022-09-10 06:51:48-04:00 local time"
+ <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-18T18:47:34.536485-04:00.jpg">
+  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-18T18:47:34.536485-04:00.jpg"
+     alt="Albany Herald at 2022-09-18 18:47:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-10T06:51:42.567546-04:00.jpg">September 10 at 6:51 AM</a></p>
+ <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-18T18:47:34.536485-04:00.jpg">September 18 at 6:47 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-09T19:02:00.396772-04:00.jpg">
-  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-09T19:02:00.396772-04:00.jpg"
-     alt="Albany Herald at 2022-09-09 19:02:05-04:00 local time"
+ <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-18T06:49:47.745600-04:00.jpg">
+  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-18T06:49:47.745600-04:00.jpg"
+     alt="Albany Herald at 2022-09-18 06:49:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-09T19:02:00.396772-04:00.jpg">September 9 at 7:02 PM</a></p>
+ <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-18T06:49:47.745600-04:00.jpg">September 18 at 6:49 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-09T07:01:43.855185-04:00.jpg">
-  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-09T07:01:43.855185-04:00.jpg"
-     alt="Albany Herald at 2022-09-09 07:01:51-04:00 local time"
+ <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-17T18:51:10.774087-04:00.jpg">
+  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-17T18:51:10.774087-04:00.jpg"
+     alt="Albany Herald at 2022-09-17 18:51:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-09T07:01:43.855185-04:00.jpg">September 9 at 7:01 AM</a></p>
+ <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-17T18:51:10.774087-04:00.jpg">September 17 at 6:51 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-08T19:53:50.014291-04:00.jpg">
-  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-08T19:53:50.014291-04:00.jpg"
-     alt="Albany Herald at 2022-09-08 19:53:57-04:00 local time"
+ <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-17T06:48:11.724927-04:00.jpg">
+  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-17T06:48:11.724927-04:00.jpg"
+     alt="Albany Herald at 2022-09-17 06:48:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-08T19:53:50.014291-04:00.jpg">September 8 at 7:53 PM</a></p>
+ <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-17T06:48:11.724927-04:00.jpg">September 17 at 6:48 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-08T07:01:43.534388-04:00.jpg">
-  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-08T07:01:43.534388-04:00.jpg"
-     alt="Albany Herald at 2022-09-08 07:01:48-04:00 local time"
+ <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-16T18:50:56.658150-04:00.jpg">
+  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-16T18:50:56.658150-04:00.jpg"
+     alt="Albany Herald at 2022-09-16 18:50:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-08T07:01:43.534388-04:00.jpg">September 8 at 7:01 AM</a></p>
+ <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-16T18:50:56.658150-04:00.jpg">September 16 at 6:50 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-07T18:56:54.999322-04:00.jpg">
-  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-07T18:56:54.999322-04:00.jpg"
-     alt="Albany Herald at 2022-09-07 18:57:06-04:00 local time"
+ <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-16T06:51:07.628398-04:00.jpg">
+  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-16T06:51:07.628398-04:00.jpg"
+     alt="Albany Herald at 2022-09-16 06:51:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-07T18:56:54.999322-04:00.jpg">September 7 at 6:57 PM</a></p>
+ <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-16T06:51:07.628398-04:00.jpg">September 16 at 6:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-07T08:10:29.070537-04:00.jpg">
-  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-07T08:10:29.070537-04:00.jpg"
-     alt="Albany Herald at 2022-09-07 08:10:33-04:00 local time"
+ <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-15T18:52:52.729585-04:00.jpg">
+  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-15T18:52:52.729585-04:00.jpg"
+     alt="Albany Herald at 2022-09-15 18:53:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-07T08:10:29.070537-04:00.jpg">September 7 at 8:10 AM</a></p>
+ <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-15T18:52:52.729585-04:00.jpg">September 15 at 6:53 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-06T19:03:57.967884-04:00.jpg">
-  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-06T19:03:57.967884-04:00.jpg"
-     alt="Albany Herald at 2022-09-06 19:04:08-04:00 local time"
+ <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-15T06:52:51.470344-04:00.jpg">
+  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-15T06:52:51.470344-04:00.jpg"
+     alt="Albany Herald at 2022-09-15 06:52:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-06T19:03:57.967884-04:00.jpg">September 6 at 7:04 PM</a></p>
+ <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-15T06:52:51.470344-04:00.jpg">September 15 at 6:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-06T06:53:03.362256-04:00.jpg">
-  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-06T06:53:03.362256-04:00.jpg"
-     alt="Albany Herald at 2022-09-06 06:53:10-04:00 local time"
+ <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-14T18:59:17.139071-04:00.jpg">
+  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-14T18:59:17.139071-04:00.jpg"
+     alt="Albany Herald at 2022-09-14 18:59:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-06T06:53:03.362256-04:00.jpg">September 6 at 6:53 AM</a></p>
+ <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-14T18:59:17.139071-04:00.jpg">September 14 at 6:59 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-05T18:57:51.946446-04:00.jpg">
-  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-05T18:57:51.946446-04:00.jpg"
-     alt="Albany Herald at 2022-09-05 18:57:58-04:00 local time"
+ <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-14T06:52:24.799063-04:00.jpg">
+  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-14T06:52:24.799063-04:00.jpg"
+     alt="Albany Herald at 2022-09-14 06:52:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-05T18:57:51.946446-04:00.jpg">September 5 at 6:57 PM</a></p>
+ <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-14T06:52:24.799063-04:00.jpg">September 14 at 6:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-05T06:58:32.209627-04:00.jpg">
-  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-05T06:58:32.209627-04:00.jpg"
-     alt="Albany Herald at 2022-09-05 06:58:37-04:00 local time"
+ <a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-13T18:57:36.800610-04:00.jpg">
+  <img src="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-13T18:57:36.800610-04:00.jpg"
+     alt="Albany Herald at 2022-09-13 18:57:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-05T06:58:32.209627-04:00.jpg">September 5 at 6:58 AM</a></p>
+ <p><a href="https://archive.org/download/albany_herald-2022/albany_herald-2022-09-13T18:57:36.800610-04:00.jpg">September 13 at 6:57 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 95 hyperlink lists with the Internet Archive.
+The archiving routine has saved 111 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 6:52 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-11T06:52:20.813729-04:00.hyperlinks.json) |
-| [September 10 at 7:03 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-10T19:03:44.964504-04:00.hyperlinks.json) |
-| [September 10 at 6:51 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-10T06:51:42.567546-04:00.hyperlinks.json) |
-| [September 9 at 7:02 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-09T19:02:00.396772-04:00.hyperlinks.json) |
-| [September 9 at 7:01 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-09T07:01:43.855185-04:00.hyperlinks.json) |
-| [September 8 at 7:54 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-08T19:53:50.014291-04:00.hyperlinks.json) |
-| [September 8 at 7:01 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-08T07:01:43.534388-04:00.hyperlinks.json) |
-| [September 7 at 6:57 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-07T18:56:54.999322-04:00.hyperlinks.json) |
-| [September 7 at 8:10 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-07T08:10:29.070537-04:00.hyperlinks.json) |
-| [September 6 at 7:04 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-06T19:03:57.967884-04:00.hyperlinks.json) |
+| [September 19 at 6:47 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-19T06:46:50.370610-04:00.hyperlinks.json) |
+| [September 18 at 6:47 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-18T18:47:34.536485-04:00.hyperlinks.json) |
+| [September 18 at 6:49 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-18T06:49:47.745600-04:00.hyperlinks.json) |
+| [September 17 at 6:51 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-17T18:51:10.774087-04:00.hyperlinks.json) |
+| [September 17 at 6:48 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-17T06:48:11.724927-04:00.hyperlinks.json) |
+| [September 16 at 6:51 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-16T18:50:56.658150-04:00.hyperlinks.json) |
+| [September 16 at 6:51 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-16T06:51:07.628398-04:00.hyperlinks.json) |
+| [September 15 at 6:53 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-15T18:52:52.729585-04:00.hyperlinks.json) |
+| [September 15 at 6:53 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-15T06:52:51.470344-04:00.hyperlinks.json) |
+| [September 14 at 6:59 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-14T18:59:17.139071-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 108 accessibility trees with the Internet Archive.
+The archiving routine has saved 124 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 6:52 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-11T06:52:20.813729-04:00.accessibility.json) |
-| [September 10 at 7:03 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-10T19:03:44.964504-04:00.accessibility.json) |
-| [September 10 at 6:51 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-10T06:51:42.567546-04:00.accessibility.json) |
-| [September 9 at 7:02 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-09T19:02:00.396772-04:00.accessibility.json) |
-| [September 9 at 7:01 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-09T07:01:43.855185-04:00.accessibility.json) |
-| [September 8 at 7:53 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-08T19:53:50.014291-04:00.accessibility.json) |
-| [September 8 at 7:01 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-08T07:01:43.534388-04:00.accessibility.json) |
-| [September 7 at 6:57 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-07T18:56:54.999322-04:00.accessibility.json) |
-| [September 7 at 8:10 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-07T08:10:29.070537-04:00.accessibility.json) |
-| [September 6 at 7:04 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-06T19:03:57.967884-04:00.accessibility.json) |
+| [September 19 at 6:46 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-19T06:46:50.370610-04:00.accessibility.json) |
+| [September 18 at 6:47 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-18T18:47:34.536485-04:00.accessibility.json) |
+| [September 18 at 6:49 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-18T06:49:47.745600-04:00.accessibility.json) |
+| [September 17 at 6:51 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-17T18:51:10.774087-04:00.accessibility.json) |
+| [September 17 at 6:48 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-17T06:48:11.724927-04:00.accessibility.json) |
+| [September 16 at 6:50 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-16T18:50:56.658150-04:00.accessibility.json) |
+| [September 16 at 6:51 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-16T06:51:07.628398-04:00.accessibility.json) |
+| [September 15 at 6:53 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-15T18:52:52.729585-04:00.accessibility.json) |
+| [September 15 at 6:53 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-15T06:52:51.470344-04:00.accessibility.json) |
+| [September 14 at 6:59 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-14T18:59:17.139071-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 101 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 117 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 6:52 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-11T06:52:20.813729-04:00.lighthouse.json) |
-| [September 10 at 7:03 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-10T19:03:44.964504-04:00.lighthouse.json) |
-| [September 10 at 6:51 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-10T06:51:42.567546-04:00.lighthouse.json) |
-| [September 9 at 7:02 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-09T19:02:00.396772-04:00.lighthouse.json) |
-| [September 9 at 7:01 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-09T07:01:43.855185-04:00.lighthouse.json) |
-| [September 8 at 7:54 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-08T19:53:50.014291-04:00.lighthouse.json) |
-| [September 8 at 7:01 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-08T07:01:43.534388-04:00.lighthouse.json) |
-| [September 7 at 6:57 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-07T18:56:54.999322-04:00.lighthouse.json) |
-| [September 7 at 8:10 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-07T08:10:29.070537-04:00.lighthouse.json) |
-| [September 6 at 7:04 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-06T19:03:57.967884-04:00.lighthouse.json) |
+| [September 19 at 6:47 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-19T06:46:50.370610-04:00.lighthouse.json) |
+| [September 18 at 6:47 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-18T18:47:34.536485-04:00.lighthouse.json) |
+| [September 18 at 6:49 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-18T06:49:47.745600-04:00.lighthouse.json) |
+| [September 17 at 6:51 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-17T18:51:10.774087-04:00.lighthouse.json) |
+| [September 17 at 6:48 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-17T06:48:11.724927-04:00.lighthouse.json) |
+| [September 16 at 6:51 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-16T18:50:56.658150-04:00.lighthouse.json) |
+| [September 16 at 6:51 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-16T06:51:07.628398-04:00.lighthouse.json) |
+| [September 15 at 6:53 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-15T18:52:52.729585-04:00.lighthouse.json) |
+| [September 15 at 6:53 AM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-15T06:52:51.470344-04:00.lighthouse.json) |
+| [September 14 at 6:59 PM](https://archive.org/download/albany_herald-2022/albany_herald-2022-09-14T18:59:17.139071-04:00.lighthouse.json) |
 
 
 

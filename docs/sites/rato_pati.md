@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 99 screenshots with the Internet Archive.
+The archiving routine has saved 115 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-11T18:47:39.013747+05:45.jpg">
-  <img src="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-11T18:47:39.013747+05:45.jpg"
-     alt="Rato Pati at 2022-09-11 18:47:43+05:45 local time"
+ <a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-19T19:49:40.572533+05:45.jpg">
+  <img src="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-19T19:49:40.572533+05:45.jpg"
+     alt="Rato Pati at 2022-09-19 19:49:41+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-11T18:47:39.013747+05:45.jpg">September 11 at 6:47 PM</a></p>
+ <p><a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-19T19:49:40.572533+05:45.jpg">September 19 at 7:49 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-11T07:04:57.025389+05:45.jpg">
-  <img src="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-11T07:04:57.025389+05:45.jpg"
-     alt="Rato Pati at 2022-09-11 07:05:05+05:45 local time"
+ <a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-19T08:03:40.137476+05:45.jpg">
+  <img src="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-19T08:03:40.137476+05:45.jpg"
+     alt="Rato Pati at 2022-09-19 08:03:41+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-11T07:04:57.025389+05:45.jpg">September 11 at 7:05 AM</a></p>
+ <p><a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-19T08:03:40.137476+05:45.jpg">September 19 at 8:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-10T18:50:02.773251+05:45.jpg">
-  <img src="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-10T18:50:02.773251+05:45.jpg"
-     alt="Rato Pati at 2022-09-10 18:50:07+05:45 local time"
+ <a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-18T18:47:08.752513+05:45.jpg">
+  <img src="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-18T18:47:08.752513+05:45.jpg"
+     alt="Rato Pati at 2022-09-18 18:47:16+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-10T18:50:02.773251+05:45.jpg">September 10 at 6:50 PM</a></p>
+ <p><a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-18T18:47:08.752513+05:45.jpg">September 18 at 6:47 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-10T07:07:46.254101+05:45.jpg">
-  <img src="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-10T07:07:46.254101+05:45.jpg"
-     alt="Rato Pati at 2022-09-10 07:08:00+05:45 local time"
+ <a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-18T07:07:17.457351+05:45.jpg">
+  <img src="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-18T07:07:17.457351+05:45.jpg"
+     alt="Rato Pati at 2022-09-18 07:07:23+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-10T07:07:46.254101+05:45.jpg">September 10 at 7:08 AM</a></p>
+ <p><a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-18T07:07:17.457351+05:45.jpg">September 18 at 7:07 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-09T19:06:20.235746+05:45.jpg">
-  <img src="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-09T19:06:20.235746+05:45.jpg"
-     alt="Rato Pati at 2022-09-09 19:06:24+05:45 local time"
+ <a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-17T18:47:31.385401+05:45.jpg">
+  <img src="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-17T18:47:31.385401+05:45.jpg"
+     alt="Rato Pati at 2022-09-17 18:47:37+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-09T19:06:20.235746+05:45.jpg">September 9 at 7:06 PM</a></p>
+ <p><a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-17T18:47:31.385401+05:45.jpg">September 17 at 6:47 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-09T07:08:39.386281+05:45.jpg">
-  <img src="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-09T07:08:39.386281+05:45.jpg"
-     alt="Rato Pati at 2022-09-09 07:08:45+05:45 local time"
+ <a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-17T07:00:51.139269+05:45.jpg">
+  <img src="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-17T07:00:51.139269+05:45.jpg"
+     alt="Rato Pati at 2022-09-17 07:01:08+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-09T07:08:39.386281+05:45.jpg">September 9 at 7:08 AM</a></p>
+ <p><a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-17T07:00:51.139269+05:45.jpg">September 17 at 7:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-08T19:00:22.649345+05:45.jpg">
-  <img src="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-08T19:00:22.649345+05:45.jpg"
-     alt="Rato Pati at 2022-09-08 19:00:26+05:45 local time"
+ <a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-16T18:47:35.128664+05:45.jpg">
+  <img src="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-16T18:47:35.128664+05:45.jpg"
+     alt="Rato Pati at 2022-09-16 18:47:41+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-08T19:00:22.649345+05:45.jpg">September 8 at 7:00 PM</a></p>
+ <p><a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-16T18:47:35.128664+05:45.jpg">September 16 at 6:47 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-08T07:07:20.616601+05:45.jpg">
-  <img src="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-08T07:07:20.616601+05:45.jpg"
-     alt="Rato Pati at 2022-09-08 07:07:27+05:45 local time"
+ <a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-16T07:03:08.388051+05:45.jpg">
+  <img src="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-16T07:03:08.388051+05:45.jpg"
+     alt="Rato Pati at 2022-09-16 07:03:14+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-08T07:07:20.616601+05:45.jpg">September 8 at 7:07 AM</a></p>
+ <p><a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-16T07:03:08.388051+05:45.jpg">September 16 at 7:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-07T19:29:38.377595+05:45.jpg">
-  <img src="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-07T19:29:38.377595+05:45.jpg"
-     alt="Rato Pati at 2022-09-07 19:29:39+05:45 local time"
+ <a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-15T18:50:09.103656+05:45.jpg">
+  <img src="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-15T18:50:09.103656+05:45.jpg"
+     alt="Rato Pati at 2022-09-15 18:50:16+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-07T19:29:38.377595+05:45.jpg">September 7 at 7:29 PM</a></p>
+ <p><a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-15T18:50:09.103656+05:45.jpg">September 15 at 6:50 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-07T07:03:54.768441+05:45.jpg">
-  <img src="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-07T07:03:54.768441+05:45.jpg"
-     alt="Rato Pati at 2022-09-07 07:04:03+05:45 local time"
+ <a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-15T07:07:22.071246+05:45.jpg">
+  <img src="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-15T07:07:22.071246+05:45.jpg"
+     alt="Rato Pati at 2022-09-15 07:07:49+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-07T07:03:54.768441+05:45.jpg">September 7 at 7:04 AM</a></p>
+ <p><a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-15T07:07:22.071246+05:45.jpg">September 15 at 7:07 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-06T07:08:37.453285+05:45.jpg">
-  <img src="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-06T07:08:37.453285+05:45.jpg"
-     alt="Rato Pati at 2022-09-06 07:08:43+05:45 local time"
+ <a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-14T18:55:14.298138+05:45.jpg">
+  <img src="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-14T18:55:14.298138+05:45.jpg"
+     alt="Rato Pati at 2022-09-14 18:55:19+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-06T07:08:37.453285+05:45.jpg">September 6 at 7:08 AM</a></p>
+ <p><a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-14T18:55:14.298138+05:45.jpg">September 14 at 6:55 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-05T19:53:28.475537+05:45.jpg">
-  <img src="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-05T19:53:28.475537+05:45.jpg"
-     alt="Rato Pati at 2022-09-05 19:53:35+05:45 local time"
+ <a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-14T07:09:25.471835+05:45.jpg">
+  <img src="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-14T07:09:25.471835+05:45.jpg"
+     alt="Rato Pati at 2022-09-14 07:09:31+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-05T19:53:28.475537+05:45.jpg">September 5 at 7:53 PM</a></p>
+ <p><a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-09-14T07:09:25.471835+05:45.jpg">September 14 at 7:09 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 99 hyperlink lists with the Internet Archive.
+The archiving routine has saved 115 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 6:47 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-11T18:47:39.013747+05:45.hyperlinks.json) |
-| [September 11 at 7:05 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-11T07:04:57.025389+05:45.hyperlinks.json) |
-| [September 10 at 6:50 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-10T18:50:02.773251+05:45.hyperlinks.json) |
-| [September 10 at 7:08 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-10T07:07:46.254101+05:45.hyperlinks.json) |
-| [September 9 at 7:06 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-09T19:06:20.235746+05:45.hyperlinks.json) |
-| [September 9 at 7:08 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-09T07:08:39.386281+05:45.hyperlinks.json) |
-| [September 8 at 7:00 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-08T19:00:22.649345+05:45.hyperlinks.json) |
-| [September 8 at 7:07 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-08T07:07:20.616601+05:45.hyperlinks.json) |
-| [September 7 at 7:29 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-07T19:29:38.377595+05:45.hyperlinks.json) |
-| [September 7 at 7:04 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-07T07:03:54.768441+05:45.hyperlinks.json) |
+| [September 19 at 7:49 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-19T19:49:40.572533+05:45.hyperlinks.json) |
+| [September 19 at 8:03 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-19T08:03:40.137476+05:45.hyperlinks.json) |
+| [September 18 at 6:47 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-18T18:47:08.752513+05:45.hyperlinks.json) |
+| [September 18 at 7:07 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-18T07:07:17.457351+05:45.hyperlinks.json) |
+| [September 17 at 6:47 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-17T18:47:31.385401+05:45.hyperlinks.json) |
+| [September 17 at 7:01 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-17T07:00:51.139269+05:45.hyperlinks.json) |
+| [September 16 at 6:47 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-16T18:47:35.128664+05:45.hyperlinks.json) |
+| [September 16 at 7:03 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-16T07:03:08.388051+05:45.hyperlinks.json) |
+| [September 15 at 6:50 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-15T18:50:09.103656+05:45.hyperlinks.json) |
+| [September 15 at 7:07 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-15T07:07:22.071246+05:45.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 98 accessibility trees with the Internet Archive.
+The archiving routine has saved 114 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 6:47 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-11T18:47:39.013747+05:45.accessibility.json) |
-| [September 11 at 7:05 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-11T07:04:57.025389+05:45.accessibility.json) |
-| [September 10 at 6:50 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-10T18:50:02.773251+05:45.accessibility.json) |
-| [September 10 at 7:08 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-10T07:07:46.254101+05:45.accessibility.json) |
-| [September 9 at 7:06 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-09T19:06:20.235746+05:45.accessibility.json) |
-| [September 9 at 7:08 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-09T07:08:39.386281+05:45.accessibility.json) |
-| [September 8 at 7:00 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-08T19:00:22.649345+05:45.accessibility.json) |
-| [September 8 at 7:07 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-08T07:07:20.616601+05:45.accessibility.json) |
-| [September 7 at 7:29 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-07T19:29:38.377595+05:45.accessibility.json) |
-| [September 7 at 7:04 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-07T07:03:54.768441+05:45.accessibility.json) |
+| [September 19 at 7:49 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-19T19:49:40.572533+05:45.accessibility.json) |
+| [September 19 at 8:03 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-19T08:03:40.137476+05:45.accessibility.json) |
+| [September 18 at 6:47 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-18T18:47:08.752513+05:45.accessibility.json) |
+| [September 18 at 7:07 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-18T07:07:17.457351+05:45.accessibility.json) |
+| [September 17 at 6:47 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-17T18:47:31.385401+05:45.accessibility.json) |
+| [September 17 at 7:01 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-17T07:00:51.139269+05:45.accessibility.json) |
+| [September 16 at 6:47 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-16T18:47:35.128664+05:45.accessibility.json) |
+| [September 16 at 7:03 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-16T07:03:08.388051+05:45.accessibility.json) |
+| [September 15 at 6:50 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-15T18:50:09.103656+05:45.accessibility.json) |
+| [September 15 at 7:07 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-15T07:07:22.071246+05:45.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 114 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 6:47 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-11T18:47:39.013747+05:45.lighthouse.json) |
-| [September 11 at 7:05 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-11T07:04:57.025389+05:45.lighthouse.json) |
-| [September 10 at 6:50 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-10T18:50:02.773251+05:45.lighthouse.json) |
-| [September 10 at 7:08 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-10T07:07:46.254101+05:45.lighthouse.json) |
-| [September 9 at 7:06 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-09T19:06:20.235746+05:45.lighthouse.json) |
-| [September 9 at 7:08 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-09T07:08:39.386281+05:45.lighthouse.json) |
-| [September 8 at 7:00 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-08T19:00:22.649345+05:45.lighthouse.json) |
-| [September 8 at 7:07 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-08T07:07:20.616601+05:45.lighthouse.json) |
-| [September 7 at 7:29 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-07T19:29:38.377595+05:45.lighthouse.json) |
-| [September 7 at 7:04 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-07T07:03:54.768441+05:45.lighthouse.json) |
+| [September 19 at 7:49 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-19T19:49:40.572533+05:45.lighthouse.json) |
+| [September 19 at 8:03 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-19T08:03:40.137476+05:45.lighthouse.json) |
+| [September 18 at 6:47 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-18T18:47:08.752513+05:45.lighthouse.json) |
+| [September 18 at 7:07 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-18T07:07:17.457351+05:45.lighthouse.json) |
+| [September 17 at 6:47 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-17T18:47:31.385401+05:45.lighthouse.json) |
+| [September 17 at 7:01 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-17T07:00:51.139269+05:45.lighthouse.json) |
+| [September 16 at 6:47 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-16T18:47:35.128664+05:45.lighthouse.json) |
+| [September 16 at 7:03 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-16T07:03:08.388051+05:45.lighthouse.json) |
+| [September 15 at 6:50 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-15T18:50:09.103656+05:45.lighthouse.json) |
+| [September 15 at 7:07 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-09-15T07:07:22.071246+05:45.lighthouse.json) |
 
 
 

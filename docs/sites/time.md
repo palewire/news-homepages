@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 256 screenshots with the Internet Archive.
+The archiving routine has saved 288 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/time-2022/time-2022-09-11T17:18:52.696265-04:00.jpg">
-  <img src="https://archive.org/download/time-2022/time-2022-09-11T17:18:52.696265-04:00.jpg"
-     alt="TIME at 2022-09-11 17:19:04-04:00 local time"
+ <a href="https://archive.org/download/time-2022/time-2022-09-19T17:16:31.920390-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-09-19T17:16:31.920390-04:00.jpg"
+     alt="TIME at 2022-09-19 17:16:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-09-11T17:18:52.696265-04:00.jpg">September 11 at 5:19 PM</a></p>
+ <p><a href="https://archive.org/download/time-2022/time-2022-09-19T17:16:31.920390-04:00.jpg">September 19 at 5:16 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/time-2022/time-2022-09-11T09:08:41.490625-04:00.jpg">
-  <img src="https://archive.org/download/time-2022/time-2022-09-11T09:08:41.490625-04:00.jpg"
-     alt="TIME at 2022-09-11 09:08:43-04:00 local time"
+ <a href="https://archive.org/download/time-2022/time-2022-09-19T10:08:12.501501-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-09-19T10:08:12.501501-04:00.jpg"
+     alt="TIME at 2022-09-19 10:08:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-09-11T09:08:41.490625-04:00.jpg">September 11 at 9:08 AM</a></p>
+ <p><a href="https://archive.org/download/time-2022/time-2022-09-19T10:08:12.501501-04:00.jpg">September 19 at 10:08 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/time-2022/time-2022-09-11T08:59:07.006633-04:00.jpg">
-  <img src="https://archive.org/download/time-2022/time-2022-09-11T08:59:07.006633-04:00.jpg"
-     alt="TIME at 2022-09-11 08:59:16-04:00 local time"
+ <a href="https://archive.org/download/time-2022/time-2022-09-19T08:50:45.648277-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-09-19T08:50:45.648277-04:00.jpg"
+     alt="TIME at 2022-09-19 08:51:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-09-11T08:59:07.006633-04:00.jpg">September 11 at 8:59 AM</a></p>
+ <p><a href="https://archive.org/download/time-2022/time-2022-09-19T08:50:45.648277-04:00.jpg">September 19 at 8:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/time-2022/time-2022-09-10T21:27:00.763583-04:00.jpg">
-  <img src="https://archive.org/download/time-2022/time-2022-09-10T21:27:00.763583-04:00.jpg"
-     alt="TIME at 2022-09-10 21:27:01-04:00 local time"
+ <a href="https://archive.org/download/time-2022/time-2022-09-18T22:21:56.813972-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-09-18T22:21:56.813972-04:00.jpg"
+     alt="TIME at 2022-09-18 22:21:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-09-10T21:27:00.763583-04:00.jpg">September 10 at 9:27 PM</a></p>
+ <p><a href="https://archive.org/download/time-2022/time-2022-09-18T22:21:56.813972-04:00.jpg">September 18 at 10:21 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/time-2022/time-2022-09-10T17:19:10.269475-04:00.jpg">
-  <img src="https://archive.org/download/time-2022/time-2022-09-10T17:19:10.269475-04:00.jpg"
-     alt="TIME at 2022-09-10 17:19:21-04:00 local time"
+ <a href="https://archive.org/download/time-2022/time-2022-09-18T17:16:47.271704-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-09-18T17:16:47.271704-04:00.jpg"
+     alt="TIME at 2022-09-18 17:16:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-09-10T17:19:10.269475-04:00.jpg">September 10 at 5:19 PM</a></p>
+ <p><a href="https://archive.org/download/time-2022/time-2022-09-18T17:16:47.271704-04:00.jpg">September 18 at 5:16 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/time-2022/time-2022-09-10T09:11:38.707610-04:00.jpg">
-  <img src="https://archive.org/download/time-2022/time-2022-09-10T09:11:38.707610-04:00.jpg"
-     alt="TIME at 2022-09-10 09:11:40-04:00 local time"
+ <a href="https://archive.org/download/time-2022/time-2022-09-18T10:03:12.679965-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-09-18T10:03:12.679965-04:00.jpg"
+     alt="TIME at 2022-09-18 10:03:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-09-10T09:11:38.707610-04:00.jpg">September 10 at 9:11 AM</a></p>
+ <p><a href="https://archive.org/download/time-2022/time-2022-09-18T10:03:12.679965-04:00.jpg">September 18 at 10:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/time-2022/time-2022-09-10T09:01:50.846467-04:00.jpg">
-  <img src="https://archive.org/download/time-2022/time-2022-09-10T09:01:50.846467-04:00.jpg"
-     alt="TIME at 2022-09-10 09:02:00-04:00 local time"
+ <a href="https://archive.org/download/time-2022/time-2022-09-18T08:54:39.940409-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-09-18T08:54:39.940409-04:00.jpg"
+     alt="TIME at 2022-09-18 08:54:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-09-10T09:01:50.846467-04:00.jpg">September 10 at 9:02 AM</a></p>
+ <p><a href="https://archive.org/download/time-2022/time-2022-09-18T08:54:39.940409-04:00.jpg">September 18 at 8:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/time-2022/time-2022-09-09T21:30:19.754589-04:00.jpg">
-  <img src="https://archive.org/download/time-2022/time-2022-09-09T21:30:19.754589-04:00.jpg"
-     alt="TIME at 2022-09-09 21:30:26-04:00 local time"
+ <a href="https://archive.org/download/time-2022/time-2022-09-17T22:28:02.125103-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-09-17T22:28:02.125103-04:00.jpg"
+     alt="TIME at 2022-09-17 22:28:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-09-09T21:30:19.754589-04:00.jpg">September 9 at 9:30 PM</a></p>
+ <p><a href="https://archive.org/download/time-2022/time-2022-09-17T22:28:02.125103-04:00.jpg">September 17 at 10:28 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/time-2022/time-2022-09-09T17:18:33.233929-04:00.jpg">
-  <img src="https://archive.org/download/time-2022/time-2022-09-09T17:18:33.233929-04:00.jpg"
-     alt="TIME at 2022-09-09 17:18:41-04:00 local time"
+ <a href="https://archive.org/download/time-2022/time-2022-09-17T17:17:07.532465-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-09-17T17:17:07.532465-04:00.jpg"
+     alt="TIME at 2022-09-17 17:17:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-09-09T17:18:33.233929-04:00.jpg">September 9 at 5:18 PM</a></p>
+ <p><a href="https://archive.org/download/time-2022/time-2022-09-17T17:17:07.532465-04:00.jpg">September 17 at 5:17 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/time-2022/time-2022-09-09T09:28:34.607544-04:00.jpg">
-  <img src="https://archive.org/download/time-2022/time-2022-09-09T09:28:34.607544-04:00.jpg"
-     alt="TIME at 2022-09-09 09:28:36-04:00 local time"
+ <a href="https://archive.org/download/time-2022/time-2022-09-17T10:01:26.622051-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-09-17T10:01:26.622051-04:00.jpg"
+     alt="TIME at 2022-09-17 10:01:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-09-09T09:28:34.607544-04:00.jpg">September 9 at 9:28 AM</a></p>
+ <p><a href="https://archive.org/download/time-2022/time-2022-09-17T10:01:26.622051-04:00.jpg">September 17 at 10:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/time-2022/time-2022-09-09T09:26:30.984966-04:00.jpg">
-  <img src="https://archive.org/download/time-2022/time-2022-09-09T09:26:30.984966-04:00.jpg"
-     alt="TIME at 2022-09-09 09:26:39-04:00 local time"
+ <a href="https://archive.org/download/time-2022/time-2022-09-17T08:54:11.534520-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-09-17T08:54:11.534520-04:00.jpg"
+     alt="TIME at 2022-09-17 08:54:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-09-09T09:26:30.984966-04:00.jpg">September 9 at 9:26 AM</a></p>
+ <p><a href="https://archive.org/download/time-2022/time-2022-09-17T08:54:11.534520-04:00.jpg">September 17 at 8:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/time-2022/time-2022-09-08T21:30:48.250713-04:00.jpg">
-  <img src="https://archive.org/download/time-2022/time-2022-09-08T21:30:48.250713-04:00.jpg"
-     alt="TIME at 2022-09-08 21:30:50-04:00 local time"
+ <a href="https://archive.org/download/time-2022/time-2022-09-16T22:25:56.292425-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-09-16T22:25:56.292425-04:00.jpg"
+     alt="TIME at 2022-09-16 22:25:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-09-08T21:30:48.250713-04:00.jpg">September 8 at 9:30 PM</a></p>
+ <p><a href="https://archive.org/download/time-2022/time-2022-09-16T22:25:56.292425-04:00.jpg">September 16 at 10:25 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 253 hyperlink lists with the Internet Archive.
+The archiving routine has saved 285 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 5:19 PM](https://archive.org/download/time-2022/time-2022-09-11T17:18:52.696265-04:00.hyperlinks.json) |
-| [September 11 at 9:08 AM](https://archive.org/download/time-2022/time-2022-09-11T09:08:41.490625-04:00.hyperlinks.json) |
-| [September 11 at 8:59 AM](https://archive.org/download/time-2022/time-2022-09-11T08:59:07.006633-04:00.hyperlinks.json) |
-| [September 10 at 9:27 PM](https://archive.org/download/time-2022/time-2022-09-10T21:27:00.763583-04:00.hyperlinks.json) |
-| [September 10 at 5:19 PM](https://archive.org/download/time-2022/time-2022-09-10T17:19:10.269475-04:00.hyperlinks.json) |
-| [September 10 at 9:11 AM](https://archive.org/download/time-2022/time-2022-09-10T09:11:38.707610-04:00.hyperlinks.json) |
-| [September 10 at 9:02 AM](https://archive.org/download/time-2022/time-2022-09-10T09:01:50.846467-04:00.hyperlinks.json) |
-| [September 9 at 9:30 PM](https://archive.org/download/time-2022/time-2022-09-09T21:30:19.754589-04:00.hyperlinks.json) |
-| [September 9 at 5:18 PM](https://archive.org/download/time-2022/time-2022-09-09T17:18:33.233929-04:00.hyperlinks.json) |
-| [September 9 at 9:28 AM](https://archive.org/download/time-2022/time-2022-09-09T09:28:34.607544-04:00.hyperlinks.json) |
+| [September 19 at 5:16 PM](https://archive.org/download/time-2022/time-2022-09-19T17:16:31.920390-04:00.hyperlinks.json) |
+| [September 19 at 10:08 AM](https://archive.org/download/time-2022/time-2022-09-19T10:08:12.501501-04:00.hyperlinks.json) |
+| [September 19 at 8:51 AM](https://archive.org/download/time-2022/time-2022-09-19T08:50:45.648277-04:00.hyperlinks.json) |
+| [September 18 at 10:22 PM](https://archive.org/download/time-2022/time-2022-09-18T22:21:56.813972-04:00.hyperlinks.json) |
+| [September 18 at 5:16 PM](https://archive.org/download/time-2022/time-2022-09-18T17:16:47.271704-04:00.hyperlinks.json) |
+| [September 18 at 10:03 AM](https://archive.org/download/time-2022/time-2022-09-18T10:03:12.679965-04:00.hyperlinks.json) |
+| [September 18 at 8:54 AM](https://archive.org/download/time-2022/time-2022-09-18T08:54:39.940409-04:00.hyperlinks.json) |
+| [September 17 at 10:28 PM](https://archive.org/download/time-2022/time-2022-09-17T22:28:02.125103-04:00.hyperlinks.json) |
+| [September 17 at 5:17 PM](https://archive.org/download/time-2022/time-2022-09-17T17:17:07.532465-04:00.hyperlinks.json) |
+| [September 17 at 10:01 AM](https://archive.org/download/time-2022/time-2022-09-17T10:01:26.622051-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 256 accessibility trees with the Internet Archive.
+The archiving routine has saved 288 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 5:19 PM](https://archive.org/download/time-2022/time-2022-09-11T17:18:52.696265-04:00.accessibility.json) |
-| [September 11 at 9:08 AM](https://archive.org/download/time-2022/time-2022-09-11T09:08:41.490625-04:00.accessibility.json) |
-| [September 11 at 8:59 AM](https://archive.org/download/time-2022/time-2022-09-11T08:59:07.006633-04:00.accessibility.json) |
-| [September 10 at 9:27 PM](https://archive.org/download/time-2022/time-2022-09-10T21:27:00.763583-04:00.accessibility.json) |
-| [September 10 at 5:19 PM](https://archive.org/download/time-2022/time-2022-09-10T17:19:10.269475-04:00.accessibility.json) |
-| [September 10 at 9:11 AM](https://archive.org/download/time-2022/time-2022-09-10T09:11:38.707610-04:00.accessibility.json) |
-| [September 10 at 9:02 AM](https://archive.org/download/time-2022/time-2022-09-10T09:01:50.846467-04:00.accessibility.json) |
-| [September 9 at 9:30 PM](https://archive.org/download/time-2022/time-2022-09-09T21:30:19.754589-04:00.accessibility.json) |
-| [September 9 at 5:18 PM](https://archive.org/download/time-2022/time-2022-09-09T17:18:33.233929-04:00.accessibility.json) |
-| [September 9 at 9:28 AM](https://archive.org/download/time-2022/time-2022-09-09T09:28:34.607544-04:00.accessibility.json) |
+| [September 19 at 5:16 PM](https://archive.org/download/time-2022/time-2022-09-19T17:16:31.920390-04:00.accessibility.json) |
+| [September 19 at 10:08 AM](https://archive.org/download/time-2022/time-2022-09-19T10:08:12.501501-04:00.accessibility.json) |
+| [September 19 at 8:51 AM](https://archive.org/download/time-2022/time-2022-09-19T08:50:45.648277-04:00.accessibility.json) |
+| [September 18 at 10:21 PM](https://archive.org/download/time-2022/time-2022-09-18T22:21:56.813972-04:00.accessibility.json) |
+| [September 18 at 5:16 PM](https://archive.org/download/time-2022/time-2022-09-18T17:16:47.271704-04:00.accessibility.json) |
+| [September 18 at 10:03 AM](https://archive.org/download/time-2022/time-2022-09-18T10:03:12.679965-04:00.accessibility.json) |
+| [September 18 at 8:54 AM](https://archive.org/download/time-2022/time-2022-09-18T08:54:39.940409-04:00.accessibility.json) |
+| [September 17 at 10:28 PM](https://archive.org/download/time-2022/time-2022-09-17T22:28:02.125103-04:00.accessibility.json) |
+| [September 17 at 5:17 PM](https://archive.org/download/time-2022/time-2022-09-17T17:17:07.532465-04:00.accessibility.json) |
+| [September 17 at 10:01 AM](https://archive.org/download/time-2022/time-2022-09-17T10:01:26.622051-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 183 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 215 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 5:19 PM](https://archive.org/download/time-2022/time-2022-09-11T17:18:52.696265-04:00.lighthouse.json) |
-| [September 11 at 9:08 AM](https://archive.org/download/time-2022/time-2022-09-11T09:08:41.490625-04:00.lighthouse.json) |
-| [September 11 at 8:59 AM](https://archive.org/download/time-2022/time-2022-09-11T08:59:07.006633-04:00.lighthouse.json) |
-| [September 10 at 9:27 PM](https://archive.org/download/time-2022/time-2022-09-10T21:27:00.763583-04:00.lighthouse.json) |
-| [September 10 at 5:19 PM](https://archive.org/download/time-2022/time-2022-09-10T17:19:10.269475-04:00.lighthouse.json) |
-| [September 10 at 9:11 AM](https://archive.org/download/time-2022/time-2022-09-10T09:11:38.707610-04:00.lighthouse.json) |
-| [September 10 at 9:02 AM](https://archive.org/download/time-2022/time-2022-09-10T09:01:50.846467-04:00.lighthouse.json) |
-| [September 9 at 9:30 PM](https://archive.org/download/time-2022/time-2022-09-09T21:30:19.754589-04:00.lighthouse.json) |
-| [September 9 at 5:18 PM](https://archive.org/download/time-2022/time-2022-09-09T17:18:33.233929-04:00.lighthouse.json) |
-| [September 9 at 9:28 AM](https://archive.org/download/time-2022/time-2022-09-09T09:28:34.607544-04:00.lighthouse.json) |
+| [September 19 at 5:16 PM](https://archive.org/download/time-2022/time-2022-09-19T17:16:31.920390-04:00.lighthouse.json) |
+| [September 19 at 10:08 AM](https://archive.org/download/time-2022/time-2022-09-19T10:08:12.501501-04:00.lighthouse.json) |
+| [September 19 at 8:51 AM](https://archive.org/download/time-2022/time-2022-09-19T08:50:45.648277-04:00.lighthouse.json) |
+| [September 18 at 10:22 PM](https://archive.org/download/time-2022/time-2022-09-18T22:21:56.813972-04:00.lighthouse.json) |
+| [September 18 at 5:17 PM](https://archive.org/download/time-2022/time-2022-09-18T17:16:47.271704-04:00.lighthouse.json) |
+| [September 18 at 10:03 AM](https://archive.org/download/time-2022/time-2022-09-18T10:03:12.679965-04:00.lighthouse.json) |
+| [September 18 at 8:54 AM](https://archive.org/download/time-2022/time-2022-09-18T08:54:39.940409-04:00.lighthouse.json) |
+| [September 17 at 10:28 PM](https://archive.org/download/time-2022/time-2022-09-17T22:28:02.125103-04:00.lighthouse.json) |
+| [September 17 at 5:17 PM](https://archive.org/download/time-2022/time-2022-09-17T17:17:07.532465-04:00.lighthouse.json) |
+| [September 17 at 10:01 AM](https://archive.org/download/time-2022/time-2022-09-17T10:01:26.622051-04:00.lighthouse.json) |
 
 
 

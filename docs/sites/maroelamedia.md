@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 39 screenshots with the Internet Archive.
+The archiving routine has saved 55 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-11T17:08:19.799219+02:00.jpg">
-  <img src="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-11T17:08:19.799219+02:00.jpg"
-     alt="Maroela Media at 2022-09-11 17:08:22+02:00 local time"
+ <a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-19T19:32:39.592578+02:00.jpg">
+  <img src="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-19T19:32:39.592578+02:00.jpg"
+     alt="Maroela Media at 2022-09-19 19:32:46+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-11T17:08:19.799219+02:00.jpg">September 11 at 5:08 PM</a></p>
+ <p><a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-19T19:32:39.592578+02:00.jpg">September 19 at 7:32 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-11T05:53:28.068100+02:00.jpg">
-  <img src="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-11T05:53:28.068100+02:00.jpg"
-     alt="Maroela Media at 2022-09-11 05:53:30+02:00 local time"
+ <a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-19T08:03:35.116526+02:00.jpg">
+  <img src="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-19T08:03:35.116526+02:00.jpg"
+     alt="Maroela Media at 2022-09-19 08:03:36+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-11T05:53:28.068100+02:00.jpg">September 11 at 5:53 AM</a></p>
+ <p><a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-19T08:03:35.116526+02:00.jpg">September 19 at 8:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-10T17:05:02.208770+02:00.jpg">
-  <img src="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-10T17:05:02.208770+02:00.jpg"
-     alt="Maroela Media at 2022-09-10 17:05:04+02:00 local time"
+ <a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-18T19:26:42.845483+02:00.jpg">
+  <img src="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-18T19:26:42.845483+02:00.jpg"
+     alt="Maroela Media at 2022-09-18 19:26:44+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-10T17:05:02.208770+02:00.jpg">September 10 at 5:05 PM</a></p>
+ <p><a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-18T19:26:42.845483+02:00.jpg">September 18 at 7:26 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-10T05:54:41.024663+02:00.jpg">
-  <img src="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-10T05:54:41.024663+02:00.jpg"
-     alt="Maroela Media at 2022-09-10 05:54:42+02:00 local time"
+ <a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-18T07:23:29.338467+02:00.jpg">
+  <img src="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-18T07:23:29.338467+02:00.jpg"
+     alt="Maroela Media at 2022-09-18 07:23:30+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-10T05:54:41.024663+02:00.jpg">September 10 at 5:54 AM</a></p>
+ <p><a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-18T07:23:29.338467+02:00.jpg">September 18 at 7:23 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-09T18:27:47.912922+02:00.jpg">
-  <img src="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-09T18:27:47.912922+02:00.jpg"
-     alt="Maroela Media at 2022-09-09 18:27:50+02:00 local time"
+ <a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-17T17:58:03.001299+02:00.jpg">
+  <img src="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-17T17:58:03.001299+02:00.jpg"
+     alt="Maroela Media at 2022-09-17 17:58:04+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-09T18:27:47.912922+02:00.jpg">September 9 at 6:27 PM</a></p>
+ <p><a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-17T17:58:03.001299+02:00.jpg">September 17 at 5:58 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-09T06:51:07.418112+02:00.jpg">
-  <img src="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-09T06:51:07.418112+02:00.jpg"
-     alt="Maroela Media at 2022-09-09 06:51:10+02:00 local time"
+ <a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-17T06:33:32.654377+02:00.jpg">
+  <img src="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-17T06:33:32.654377+02:00.jpg"
+     alt="Maroela Media at 2022-09-17 06:33:35+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-09T06:51:07.418112+02:00.jpg">September 9 at 6:51 AM</a></p>
+ <p><a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-17T06:33:32.654377+02:00.jpg">September 17 at 6:33 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-08T17:33:46.698945+02:00.jpg">
-  <img src="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-08T17:33:46.698945+02:00.jpg"
-     alt="Maroela Media at 2022-09-08 17:33:48+02:00 local time"
+ <a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-16T18:03:18.771131+02:00.jpg">
+  <img src="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-16T18:03:18.771131+02:00.jpg"
+     alt="Maroela Media at 2022-09-16 18:03:20+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-08T17:33:46.698945+02:00.jpg">September 8 at 5:33 PM</a></p>
+ <p><a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-16T18:03:18.771131+02:00.jpg">September 16 at 6:03 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-08T05:53:13.179126+02:00.jpg">
-  <img src="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-08T05:53:13.179126+02:00.jpg"
-     alt="Maroela Media at 2022-09-08 05:53:14+02:00 local time"
+ <a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-16T07:26:57.648105+02:00.jpg">
+  <img src="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-16T07:26:57.648105+02:00.jpg"
+     alt="Maroela Media at 2022-09-16 07:27:03+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-08T05:53:13.179126+02:00.jpg">September 8 at 5:53 AM</a></p>
+ <p><a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-16T07:26:57.648105+02:00.jpg">September 16 at 7:27 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-07T17:48:53.044755+02:00.jpg">
-  <img src="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-07T17:48:53.044755+02:00.jpg"
-     alt="Maroela Media at 2022-09-07 17:48:55+02:00 local time"
+ <a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-15T18:25:54.621979+02:00.jpg">
+  <img src="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-15T18:25:54.621979+02:00.jpg"
+     alt="Maroela Media at 2022-09-15 18:26:03+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-07T17:48:53.044755+02:00.jpg">September 7 at 5:48 PM</a></p>
+ <p><a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-15T18:25:54.621979+02:00.jpg">September 15 at 6:26 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-07T05:57:51.780260+02:00.jpg">
-  <img src="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-07T05:57:51.780260+02:00.jpg"
-     alt="Maroela Media at 2022-09-07 05:57:53+02:00 local time"
+ <a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-15T07:25:45.743321+02:00.jpg">
+  <img src="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-15T07:25:45.743321+02:00.jpg"
+     alt="Maroela Media at 2022-09-15 07:25:47+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-07T05:57:51.780260+02:00.jpg">September 7 at 5:57 AM</a></p>
+ <p><a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-15T07:25:45.743321+02:00.jpg">September 15 at 7:25 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-06T05:57:41.642796+02:00.jpg">
-  <img src="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-06T05:57:41.642796+02:00.jpg"
-     alt="Maroela Media at 2022-09-06 05:57:42+02:00 local time"
+ <a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-14T18:25:23.798007+02:00.jpg">
+  <img src="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-14T18:25:23.798007+02:00.jpg"
+     alt="Maroela Media at 2022-09-14 18:25:25+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-06T05:57:41.642796+02:00.jpg">September 6 at 5:57 AM</a></p>
+ <p><a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-14T18:25:23.798007+02:00.jpg">September 14 at 6:25 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-05T18:18:21.172220+02:00.jpg">
-  <img src="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-05T18:18:21.172220+02:00.jpg"
-     alt="Maroela Media at 2022-09-05 18:18:24+02:00 local time"
+ <a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-14T06:45:50.464583+02:00.jpg">
+  <img src="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-14T06:45:50.464583+02:00.jpg"
+     alt="Maroela Media at 2022-09-14 06:45:52+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-05T18:18:21.172220+02:00.jpg">September 5 at 6:18 PM</a></p>
+ <p><a href="https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-14T06:45:50.464583+02:00.jpg">September 14 at 6:45 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 39 hyperlink lists with the Internet Archive.
+The archiving routine has saved 55 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 5:08 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-11T17:08:19.799219+02:00.hyperlinks.json) |
-| [September 11 at 5:53 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-11T05:53:28.068100+02:00.hyperlinks.json) |
-| [September 10 at 5:05 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-10T17:05:02.208770+02:00.hyperlinks.json) |
-| [September 10 at 5:54 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-10T05:54:41.024663+02:00.hyperlinks.json) |
-| [September 9 at 6:27 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-09T18:27:47.912922+02:00.hyperlinks.json) |
-| [September 9 at 6:51 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-09T06:51:07.418112+02:00.hyperlinks.json) |
-| [September 8 at 5:33 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-08T17:33:46.698945+02:00.hyperlinks.json) |
-| [September 8 at 5:53 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-08T05:53:13.179126+02:00.hyperlinks.json) |
-| [September 7 at 5:48 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-07T17:48:53.044755+02:00.hyperlinks.json) |
-| [September 7 at 5:57 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-07T05:57:51.780260+02:00.hyperlinks.json) |
+| [September 19 at 7:32 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-19T19:32:39.592578+02:00.hyperlinks.json) |
+| [September 19 at 8:03 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-19T08:03:35.116526+02:00.hyperlinks.json) |
+| [September 18 at 7:26 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-18T19:26:42.845483+02:00.hyperlinks.json) |
+| [September 18 at 7:23 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-18T07:23:29.338467+02:00.hyperlinks.json) |
+| [September 17 at 5:58 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-17T17:58:03.001299+02:00.hyperlinks.json) |
+| [September 17 at 6:33 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-17T06:33:32.654377+02:00.hyperlinks.json) |
+| [September 16 at 6:03 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-16T18:03:18.771131+02:00.hyperlinks.json) |
+| [September 16 at 7:27 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-16T07:26:57.648105+02:00.hyperlinks.json) |
+| [September 15 at 6:26 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-15T18:25:54.621979+02:00.hyperlinks.json) |
+| [September 15 at 7:25 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-15T07:25:45.743321+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 39 accessibility trees with the Internet Archive.
+The archiving routine has saved 55 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 5:08 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-11T17:08:19.799219+02:00.accessibility.json) |
-| [September 11 at 5:53 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-11T05:53:28.068100+02:00.accessibility.json) |
-| [September 10 at 5:05 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-10T17:05:02.208770+02:00.accessibility.json) |
-| [September 10 at 5:54 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-10T05:54:41.024663+02:00.accessibility.json) |
-| [September 9 at 6:27 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-09T18:27:47.912922+02:00.accessibility.json) |
-| [September 9 at 6:51 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-09T06:51:07.418112+02:00.accessibility.json) |
-| [September 8 at 5:33 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-08T17:33:46.698945+02:00.accessibility.json) |
-| [September 8 at 5:53 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-08T05:53:13.179126+02:00.accessibility.json) |
-| [September 7 at 5:48 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-07T17:48:53.044755+02:00.accessibility.json) |
-| [September 7 at 5:57 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-07T05:57:51.780260+02:00.accessibility.json) |
+| [September 19 at 7:32 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-19T19:32:39.592578+02:00.accessibility.json) |
+| [September 19 at 8:03 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-19T08:03:35.116526+02:00.accessibility.json) |
+| [September 18 at 7:26 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-18T19:26:42.845483+02:00.accessibility.json) |
+| [September 18 at 7:23 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-18T07:23:29.338467+02:00.accessibility.json) |
+| [September 17 at 5:58 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-17T17:58:03.001299+02:00.accessibility.json) |
+| [September 17 at 6:33 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-17T06:33:32.654377+02:00.accessibility.json) |
+| [September 16 at 6:03 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-16T18:03:18.771131+02:00.accessibility.json) |
+| [September 16 at 7:27 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-16T07:26:57.648105+02:00.accessibility.json) |
+| [September 15 at 6:26 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-15T18:25:54.621979+02:00.accessibility.json) |
+| [September 15 at 7:25 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-15T07:25:45.743321+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 5:08 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-11T17:08:19.799219+02:00.lighthouse.json) |
-| [September 11 at 5:53 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-11T05:53:28.068100+02:00.lighthouse.json) |
-| [September 10 at 5:05 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-10T17:05:02.208770+02:00.lighthouse.json) |
-| [September 10 at 5:54 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-10T05:54:41.024663+02:00.lighthouse.json) |
-| [September 9 at 6:27 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-09T18:27:47.912922+02:00.lighthouse.json) |
-| [September 9 at 6:51 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-09T06:51:07.418112+02:00.lighthouse.json) |
-| [September 8 at 5:33 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-08T17:33:46.698945+02:00.lighthouse.json) |
-| [September 8 at 5:53 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-08T05:53:13.179126+02:00.lighthouse.json) |
-| [September 7 at 5:49 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-07T17:48:53.044755+02:00.lighthouse.json) |
-| [September 7 at 5:57 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-07T05:57:51.780260+02:00.lighthouse.json) |
+| [September 19 at 7:32 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-19T19:32:39.592578+02:00.lighthouse.json) |
+| [September 19 at 8:03 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-19T08:03:35.116526+02:00.lighthouse.json) |
+| [September 18 at 7:26 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-18T19:26:42.845483+02:00.lighthouse.json) |
+| [September 18 at 7:23 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-18T07:23:29.338467+02:00.lighthouse.json) |
+| [September 17 at 5:58 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-17T17:58:03.001299+02:00.lighthouse.json) |
+| [September 17 at 6:33 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-17T06:33:32.654377+02:00.lighthouse.json) |
+| [September 16 at 6:03 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-16T18:03:18.771131+02:00.lighthouse.json) |
+| [September 16 at 7:27 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-16T07:26:57.648105+02:00.lighthouse.json) |
+| [September 15 at 6:26 PM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-15T18:25:54.621979+02:00.lighthouse.json) |
+| [September 15 at 7:25 AM](https://archive.org/download/maroelamedia-2022/maroelamedia-2022-09-15T07:25:45.743321+02:00.lighthouse.json) |
 
 
 

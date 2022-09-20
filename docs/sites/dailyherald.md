@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 128 screenshots with the Internet Archive.
+The archiving routine has saved 153 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-11T11:13:06.145337-05:00.jpg">
-  <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-11T11:13:06.145337-05:00.jpg"
-     alt="Daily Herald at 2022-09-11 11:13:07-05:00 local time"
+ <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-19T11:06:26.907623-05:00.jpg">
+  <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-19T11:06:26.907623-05:00.jpg"
+     alt="Daily Herald at 2022-09-19 11:06:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-11T11:13:06.145337-05:00.jpg">September 11 at 11:13 AM</a></p>
+ <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-19T11:06:26.907623-05:00.jpg">September 19 at 11:06 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-11T09:15:14.996449-05:00.jpg">
-  <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-11T09:15:14.996449-05:00.jpg"
-     alt="Daily Herald at 2022-09-11 09:15:18-05:00 local time"
+ <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-19T10:01:14.780788-05:00.jpg">
+  <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-19T10:01:14.780788-05:00.jpg"
+     alt="Daily Herald at 2022-09-19 10:01:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-11T09:15:14.996449-05:00.jpg">September 11 at 9:15 AM</a></p>
+ <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-19T10:01:14.780788-05:00.jpg">September 19 at 10:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-10T21:30:03.842669-05:00.jpg">
-  <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-10T21:30:03.842669-05:00.jpg"
-     alt="Daily Herald at 2022-09-10 21:30:07-05:00 local time"
+ <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-18T22:44:55.441715-05:00.jpg">
+  <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-18T22:44:55.441715-05:00.jpg"
+     alt="Daily Herald at 2022-09-18 22:45:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-10T21:30:03.842669-05:00.jpg">September 10 at 9:30 PM</a></p>
+ <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-18T22:44:55.441715-05:00.jpg">September 18 at 10:45 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-10T11:05:21.133969-05:00.jpg">
-  <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-10T11:05:21.133969-05:00.jpg"
-     alt="Daily Herald at 2022-09-10 11:05:22-05:00 local time"
+ <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-18T11:00:57.930529-05:00.jpg">
+  <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-18T11:00:57.930529-05:00.jpg"
+     alt="Daily Herald at 2022-09-18 11:00:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-10T11:05:21.133969-05:00.jpg">September 10 at 11:05 AM</a></p>
+ <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-18T11:00:57.930529-05:00.jpg">September 18 at 11:00 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-10T09:14:16.379126-05:00.jpg">
-  <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-10T09:14:16.379126-05:00.jpg"
-     alt="Daily Herald at 2022-09-10 09:14:20-05:00 local time"
+ <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-18T09:53:44.594608-05:00.jpg">
+  <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-18T09:53:44.594608-05:00.jpg"
+     alt="Daily Herald at 2022-09-18 09:53:50-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-10T09:14:16.379126-05:00.jpg">September 10 at 9:14 AM</a></p>
+ <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-18T09:53:44.594608-05:00.jpg">September 18 at 9:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-09T21:29:57.244146-05:00.jpg">
-  <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-09T21:29:57.244146-05:00.jpg"
-     alt="Daily Herald at 2022-09-09 21:30:00-05:00 local time"
+ <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-17T22:48:04.407537-05:00.jpg">
+  <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-17T22:48:04.407537-05:00.jpg"
+     alt="Daily Herald at 2022-09-17 22:48:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-09T21:29:57.244146-05:00.jpg">September 9 at 9:30 PM</a></p>
+ <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-17T22:48:04.407537-05:00.jpg">September 17 at 10:48 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-09T11:30:34.940582-05:00.jpg">
-  <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-09T11:30:34.940582-05:00.jpg"
-     alt="Daily Herald at 2022-09-09 11:30:35-05:00 local time"
+ <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-17T11:03:50.393018-05:00.jpg">
+  <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-17T11:03:50.393018-05:00.jpg"
+     alt="Daily Herald at 2022-09-17 11:03:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-09T11:30:34.940582-05:00.jpg">September 9 at 11:30 AM</a></p>
+ <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-17T11:03:50.393018-05:00.jpg">September 17 at 11:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-09T09:36:58.099487-05:00.jpg">
-  <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-09T09:36:58.099487-05:00.jpg"
-     alt="Daily Herald at 2022-09-09 09:37:06-05:00 local time"
+ <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-17T09:50:44.495203-05:00.jpg">
+  <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-17T09:50:44.495203-05:00.jpg"
+     alt="Daily Herald at 2022-09-17 09:50:52-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-09T09:36:58.099487-05:00.jpg">September 9 at 9:37 AM</a></p>
+ <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-17T09:50:44.495203-05:00.jpg">September 17 at 9:50 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-08T21:31:22.858556-05:00.jpg">
-  <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-08T21:31:22.858556-05:00.jpg"
-     alt="Daily Herald at 2022-09-08 21:31:29-05:00 local time"
+ <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-16T22:42:12.044321-05:00.jpg">
+  <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-16T22:42:12.044321-05:00.jpg"
+     alt="Daily Herald at 2022-09-16 22:42:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-08T21:31:22.858556-05:00.jpg">September 8 at 9:31 PM</a></p>
+ <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-16T22:42:12.044321-05:00.jpg">September 16 at 10:42 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-08T11:31:00.357351-05:00.jpg">
-  <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-08T11:31:00.357351-05:00.jpg"
-     alt="Daily Herald at 2022-09-08 11:31:02-05:00 local time"
+ <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-16T11:00:09.537414-05:00.jpg">
+  <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-16T11:00:09.537414-05:00.jpg"
+     alt="Daily Herald at 2022-09-16 11:00:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-08T11:31:00.357351-05:00.jpg">September 8 at 11:31 AM</a></p>
+ <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-16T11:00:09.537414-05:00.jpg">September 16 at 11:00 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-08T09:27:51.842558-05:00.jpg">
-  <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-08T09:27:51.842558-05:00.jpg"
-     alt="Daily Herald at 2022-09-08 09:28:00-05:00 local time"
+ <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-16T10:00:36.240717-05:00.jpg">
+  <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-16T10:00:36.240717-05:00.jpg"
+     alt="Daily Herald at 2022-09-16 10:00:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-08T09:27:51.842558-05:00.jpg">September 8 at 9:28 AM</a></p>
+ <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-16T10:00:36.240717-05:00.jpg">September 16 at 10:00 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-07T21:36:04.653570-05:00.jpg">
-  <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-07T21:36:04.653570-05:00.jpg"
-     alt="Daily Herald at 2022-09-07 21:36:09-05:00 local time"
+ <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-15T22:48:46.516572-05:00.jpg">
+  <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-15T22:48:46.516572-05:00.jpg"
+     alt="Daily Herald at 2022-09-15 22:48:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-07T21:36:04.653570-05:00.jpg">September 7 at 9:36 PM</a></p>
+ <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-09-15T22:48:46.516572-05:00.jpg">September 15 at 10:48 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 128 hyperlink lists with the Internet Archive.
+The archiving routine has saved 153 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 11:13 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-11T11:13:06.145337-05:00.hyperlinks.json) |
-| [September 11 at 9:15 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-11T09:15:14.996449-05:00.hyperlinks.json) |
-| [September 10 at 9:30 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-10T21:30:03.842669-05:00.hyperlinks.json) |
-| [September 10 at 11:05 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-10T11:05:21.133969-05:00.hyperlinks.json) |
-| [September 10 at 9:14 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-10T09:14:16.379126-05:00.hyperlinks.json) |
-| [September 9 at 9:30 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-09T21:29:57.244146-05:00.hyperlinks.json) |
-| [September 9 at 11:30 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-09T11:30:34.940582-05:00.hyperlinks.json) |
-| [September 9 at 9:37 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-09T09:36:58.099487-05:00.hyperlinks.json) |
-| [September 8 at 9:31 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-08T21:31:22.858556-05:00.hyperlinks.json) |
-| [September 8 at 11:31 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-08T11:31:00.357351-05:00.hyperlinks.json) |
+| [September 19 at 11:06 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-19T11:06:26.907623-05:00.hyperlinks.json) |
+| [September 19 at 10:01 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-19T10:01:14.780788-05:00.hyperlinks.json) |
+| [September 18 at 10:45 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-18T22:44:55.441715-05:00.hyperlinks.json) |
+| [September 18 at 11:01 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-18T11:00:57.930529-05:00.hyperlinks.json) |
+| [September 18 at 9:53 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-18T09:53:44.594608-05:00.hyperlinks.json) |
+| [September 17 at 10:48 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-17T22:48:04.407537-05:00.hyperlinks.json) |
+| [September 17 at 11:03 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-17T11:03:50.393018-05:00.hyperlinks.json) |
+| [September 17 at 9:50 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-17T09:50:44.495203-05:00.hyperlinks.json) |
+| [September 16 at 10:42 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-16T22:42:12.044321-05:00.hyperlinks.json) |
+| [September 16 at 11:00 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-16T11:00:09.537414-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 128 accessibility trees with the Internet Archive.
+The archiving routine has saved 153 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 11:13 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-11T11:13:06.145337-05:00.accessibility.json) |
-| [September 11 at 9:15 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-11T09:15:14.996449-05:00.accessibility.json) |
-| [September 10 at 9:30 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-10T21:30:03.842669-05:00.accessibility.json) |
-| [September 10 at 11:05 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-10T11:05:21.133969-05:00.accessibility.json) |
-| [September 10 at 9:14 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-10T09:14:16.379126-05:00.accessibility.json) |
-| [September 9 at 9:30 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-09T21:29:57.244146-05:00.accessibility.json) |
-| [September 9 at 11:30 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-09T11:30:34.940582-05:00.accessibility.json) |
-| [September 9 at 9:37 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-09T09:36:58.099487-05:00.accessibility.json) |
-| [September 8 at 9:31 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-08T21:31:22.858556-05:00.accessibility.json) |
-| [September 8 at 11:31 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-08T11:31:00.357351-05:00.accessibility.json) |
+| [September 19 at 11:06 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-19T11:06:26.907623-05:00.accessibility.json) |
+| [September 19 at 10:01 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-19T10:01:14.780788-05:00.accessibility.json) |
+| [September 18 at 10:45 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-18T22:44:55.441715-05:00.accessibility.json) |
+| [September 18 at 11:01 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-18T11:00:57.930529-05:00.accessibility.json) |
+| [September 18 at 9:53 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-18T09:53:44.594608-05:00.accessibility.json) |
+| [September 17 at 10:48 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-17T22:48:04.407537-05:00.accessibility.json) |
+| [September 17 at 11:03 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-17T11:03:50.393018-05:00.accessibility.json) |
+| [September 17 at 9:50 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-17T09:50:44.495203-05:00.accessibility.json) |
+| [September 16 at 10:42 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-16T22:42:12.044321-05:00.accessibility.json) |
+| [September 16 at 11:00 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-16T11:00:09.537414-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 129 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 154 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 11:13 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-11T11:13:06.145337-05:00.lighthouse.json) |
-| [September 11 at 9:15 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-11T09:15:14.996449-05:00.lighthouse.json) |
-| [September 10 at 9:30 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-10T21:30:03.842669-05:00.lighthouse.json) |
-| [September 10 at 11:05 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-10T11:05:21.133969-05:00.lighthouse.json) |
-| [September 10 at 9:14 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-10T09:14:16.379126-05:00.lighthouse.json) |
-| [September 9 at 9:30 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-09T21:29:57.244146-05:00.lighthouse.json) |
-| [September 9 at 11:30 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-09T11:30:34.940582-05:00.lighthouse.json) |
-| [September 9 at 9:37 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-09T09:36:58.099487-05:00.lighthouse.json) |
-| [September 8 at 9:31 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-08T21:31:22.858556-05:00.lighthouse.json) |
-| [September 8 at 11:31 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-08T11:31:00.357351-05:00.lighthouse.json) |
+| [September 19 at 11:06 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-19T11:06:26.907623-05:00.lighthouse.json) |
+| [September 19 at 10:01 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-19T10:01:14.780788-05:00.lighthouse.json) |
+| [September 18 at 10:45 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-18T22:44:55.441715-05:00.lighthouse.json) |
+| [September 18 at 11:01 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-18T11:00:57.930529-05:00.lighthouse.json) |
+| [September 18 at 9:53 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-18T09:53:44.594608-05:00.lighthouse.json) |
+| [September 17 at 10:48 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-17T22:48:04.407537-05:00.lighthouse.json) |
+| [September 17 at 11:03 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-17T11:03:50.393018-05:00.lighthouse.json) |
+| [September 17 at 9:50 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-17T09:50:44.495203-05:00.lighthouse.json) |
+| [September 16 at 10:42 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-16T22:42:12.044321-05:00.lighthouse.json) |
+| [September 16 at 11:00 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-09-16T11:00:09.537414-05:00.lighthouse.json) |
 
 
 

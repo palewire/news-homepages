@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 52 screenshots with the Internet Archive.
+The archiving routine has saved 69 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-10T19:17:49.087257-05:00.jpg">
-  <img src="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-10T19:17:49.087257-05:00.jpg"
-     alt="MVS Noticias at 2022-09-10 19:17:51-05:00 local time"
+ <a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-19T07:56:23.599545-05:00.jpg">
+  <img src="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-19T07:56:23.599545-05:00.jpg"
+     alt="MVS Noticias at 2022-09-19 07:56:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-10T19:17:49.087257-05:00.jpg">September 10 at 7:17 PM</a></p>
+ <p><a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-19T07:56:23.599545-05:00.jpg">September 19 at 7:56 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-10T07:01:51.854694-05:00.jpg">
-  <img src="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-10T07:01:51.854694-05:00.jpg"
-     alt="MVS Noticias at 2022-09-10 07:01:54-05:00 local time"
+ <a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-18T20:12:11.571398-05:00.jpg">
+  <img src="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-18T20:12:11.571398-05:00.jpg"
+     alt="MVS Noticias at 2022-09-18 20:12:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-10T07:01:51.854694-05:00.jpg">September 10 at 7:01 AM</a></p>
+ <p><a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-18T20:12:11.571398-05:00.jpg">September 18 at 8:12 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-09T19:09:14.097484-05:00.jpg">
-  <img src="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-09T19:09:14.097484-05:00.jpg"
-     alt="MVS Noticias at 2022-09-09 19:09:16-05:00 local time"
+ <a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-18T07:57:30.093398-05:00.jpg">
+  <img src="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-18T07:57:30.093398-05:00.jpg"
+     alt="MVS Noticias at 2022-09-18 07:57:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-09T19:09:14.097484-05:00.jpg">September 9 at 7:09 PM</a></p>
+ <p><a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-18T07:57:30.093398-05:00.jpg">September 18 at 7:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-09T07:18:54.572146-05:00.jpg">
-  <img src="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-09T07:18:54.572146-05:00.jpg"
-     alt="MVS Noticias at 2022-09-09 07:19:00-05:00 local time"
+ <a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-17T20:18:29.306558-05:00.jpg">
+  <img src="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-17T20:18:29.306558-05:00.jpg"
+     alt="MVS Noticias at 2022-09-17 20:18:30-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-09T07:18:54.572146-05:00.jpg">September 9 at 7:19 AM</a></p>
+ <p><a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-17T20:18:29.306558-05:00.jpg">September 17 at 8:18 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-08T19:09:17.372684-05:00.jpg">
-  <img src="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-08T19:09:17.372684-05:00.jpg"
-     alt="MVS Noticias at 2022-09-08 19:09:20-05:00 local time"
+ <a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-17T07:57:52.599844-05:00.jpg">
+  <img src="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-17T07:57:52.599844-05:00.jpg"
+     alt="MVS Noticias at 2022-09-17 07:57:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-08T19:09:17.372684-05:00.jpg">September 8 at 7:09 PM</a></p>
+ <p><a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-17T07:57:52.599844-05:00.jpg">September 17 at 7:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-08T07:25:33.035465-05:00.jpg">
-  <img src="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-08T07:25:33.035465-05:00.jpg"
-     alt="MVS Noticias at 2022-09-08 07:25:36-05:00 local time"
+ <a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-16T20:11:58.411141-05:00.jpg">
+  <img src="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-16T20:11:58.411141-05:00.jpg"
+     alt="MVS Noticias at 2022-09-16 20:12:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-08T07:25:33.035465-05:00.jpg">September 8 at 7:25 AM</a></p>
+ <p><a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-16T20:11:58.411141-05:00.jpg">September 16 at 8:12 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-07T18:58:48.116017-05:00.jpg">
-  <img src="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-07T18:58:48.116017-05:00.jpg"
-     alt="MVS Noticias at 2022-09-07 18:58:53-05:00 local time"
+ <a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-16T07:58:15.346541-05:00.jpg">
+  <img src="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-16T07:58:15.346541-05:00.jpg"
+     alt="MVS Noticias at 2022-09-16 07:58:17-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-07T18:58:48.116017-05:00.jpg">September 7 at 6:58 PM</a></p>
+ <p><a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-16T07:58:15.346541-05:00.jpg">September 16 at 7:58 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-07T07:43:46.779549-05:00.jpg">
-  <img src="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-07T07:43:46.779549-05:00.jpg"
-     alt="MVS Noticias at 2022-09-07 07:43:49-05:00 local time"
+ <a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-15T20:14:35.643600-05:00.jpg">
+  <img src="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-15T20:14:35.643600-05:00.jpg"
+     alt="MVS Noticias at 2022-09-15 20:14:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-07T07:43:46.779549-05:00.jpg">September 7 at 7:43 AM</a></p>
+ <p><a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-15T20:14:35.643600-05:00.jpg">September 15 at 8:14 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-06T19:16:01.485964-05:00.jpg">
-  <img src="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-06T19:16:01.485964-05:00.jpg"
-     alt="MVS Noticias at 2022-09-06 19:16:04-05:00 local time"
+ <a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-15T08:01:22.004289-05:00.jpg">
+  <img src="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-15T08:01:22.004289-05:00.jpg"
+     alt="MVS Noticias at 2022-09-15 08:01:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-06T19:16:01.485964-05:00.jpg">September 6 at 7:16 PM</a></p>
+ <p><a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-15T08:01:22.004289-05:00.jpg">September 15 at 8:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-05T19:01:30.299716-05:00.jpg">
-  <img src="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-05T19:01:30.299716-05:00.jpg"
-     alt="MVS Noticias at 2022-09-05 19:01:33-05:00 local time"
+ <a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-14T20:17:38.551379-05:00.jpg">
+  <img src="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-14T20:17:38.551379-05:00.jpg"
+     alt="MVS Noticias at 2022-09-14 20:17:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-05T19:01:30.299716-05:00.jpg">September 5 at 7:01 PM</a></p>
+ <p><a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-14T20:17:38.551379-05:00.jpg">September 14 at 8:17 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-04T18:56:13.849927-05:00.jpg">
-  <img src="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-04T18:56:13.849927-05:00.jpg"
-     alt="MVS Noticias at 2022-09-04 18:56:16-05:00 local time"
+ <a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-14T08:05:09.779941-05:00.jpg">
+  <img src="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-14T08:05:09.779941-05:00.jpg"
+     alt="MVS Noticias at 2022-09-14 08:05:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-04T18:56:13.849927-05:00.jpg">September 4 at 6:56 PM</a></p>
+ <p><a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-14T08:05:09.779941-05:00.jpg">September 14 at 8:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-04T06:59:07.506154-05:00.jpg">
-  <img src="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-04T06:59:07.506154-05:00.jpg"
-     alt="MVS Noticias at 2022-09-04 06:59:10-05:00 local time"
+ <a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-13T20:20:52.231120-05:00.jpg">
+  <img src="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-13T20:20:52.231120-05:00.jpg"
+     alt="MVS Noticias at 2022-09-13 20:20:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-04T06:59:07.506154-05:00.jpg">September 4 at 6:59 AM</a></p>
+ <p><a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-13T20:20:52.231120-05:00.jpg">September 13 at 8:20 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 52 hyperlink lists with the Internet Archive.
+The archiving routine has saved 69 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 10 at 7:17 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-10T19:17:49.087257-05:00.hyperlinks.json) |
-| [September 10 at 7:01 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-10T07:01:51.854694-05:00.hyperlinks.json) |
-| [September 9 at 7:09 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-09T19:09:14.097484-05:00.hyperlinks.json) |
-| [September 9 at 7:19 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-09T07:18:54.572146-05:00.hyperlinks.json) |
-| [September 8 at 7:09 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-08T19:09:17.372684-05:00.hyperlinks.json) |
-| [September 8 at 7:25 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-08T07:25:33.035465-05:00.hyperlinks.json) |
-| [September 7 at 6:58 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-07T18:58:48.116017-05:00.hyperlinks.json) |
-| [September 7 at 7:43 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-07T07:43:46.779549-05:00.hyperlinks.json) |
-| [September 6 at 7:16 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-06T19:16:01.485964-05:00.hyperlinks.json) |
-| [September 5 at 7:01 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-05T19:01:30.299716-05:00.hyperlinks.json) |
+| [September 19 at 7:56 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-19T07:56:23.599545-05:00.hyperlinks.json) |
+| [September 18 at 8:12 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-18T20:12:11.571398-05:00.hyperlinks.json) |
+| [September 18 at 7:57 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-18T07:57:30.093398-05:00.hyperlinks.json) |
+| [September 17 at 8:18 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-17T20:18:29.306558-05:00.hyperlinks.json) |
+| [September 17 at 7:57 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-17T07:57:52.599844-05:00.hyperlinks.json) |
+| [September 16 at 8:12 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-16T20:11:58.411141-05:00.hyperlinks.json) |
+| [September 16 at 7:58 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-16T07:58:15.346541-05:00.hyperlinks.json) |
+| [September 15 at 8:14 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-15T20:14:35.643600-05:00.hyperlinks.json) |
+| [September 15 at 8:01 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-15T08:01:22.004289-05:00.hyperlinks.json) |
+| [September 14 at 8:17 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-14T20:17:38.551379-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 53 accessibility trees with the Internet Archive.
+The archiving routine has saved 70 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 10 at 7:17 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-10T19:17:49.087257-05:00.accessibility.json) |
-| [September 10 at 7:01 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-10T07:01:51.854694-05:00.accessibility.json) |
-| [September 9 at 7:09 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-09T19:09:14.097484-05:00.accessibility.json) |
-| [September 9 at 7:19 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-09T07:18:54.572146-05:00.accessibility.json) |
-| [September 8 at 7:09 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-08T19:09:17.372684-05:00.accessibility.json) |
-| [September 8 at 7:25 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-08T07:25:33.035465-05:00.accessibility.json) |
-| [September 7 at 6:58 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-07T18:58:48.116017-05:00.accessibility.json) |
-| [September 7 at 7:43 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-07T07:43:46.779549-05:00.accessibility.json) |
-| [September 6 at 7:16 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-06T19:16:01.485964-05:00.accessibility.json) |
-| [September 5 at 7:01 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-05T19:01:30.299716-05:00.accessibility.json) |
+| [September 19 at 7:56 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-19T07:56:23.599545-05:00.accessibility.json) |
+| [September 18 at 8:12 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-18T20:12:11.571398-05:00.accessibility.json) |
+| [September 18 at 7:57 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-18T07:57:30.093398-05:00.accessibility.json) |
+| [September 17 at 8:18 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-17T20:18:29.306558-05:00.accessibility.json) |
+| [September 17 at 7:57 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-17T07:57:52.599844-05:00.accessibility.json) |
+| [September 16 at 8:12 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-16T20:11:58.411141-05:00.accessibility.json) |
+| [September 16 at 7:58 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-16T07:58:15.346541-05:00.accessibility.json) |
+| [September 15 at 8:14 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-15T20:14:35.643600-05:00.accessibility.json) |
+| [September 15 at 8:01 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-15T08:01:22.004289-05:00.accessibility.json) |
+| [September 14 at 8:17 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-14T20:17:38.551379-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 70 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 10 at 7:17 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-10T19:17:49.087257-05:00.lighthouse.json) |
-| [September 10 at 7:01 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-10T07:01:51.854694-05:00.lighthouse.json) |
-| [September 9 at 7:09 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-09T19:09:14.097484-05:00.lighthouse.json) |
-| [September 9 at 7:19 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-09T07:18:54.572146-05:00.lighthouse.json) |
-| [September 8 at 7:09 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-08T19:09:17.372684-05:00.lighthouse.json) |
-| [September 8 at 7:25 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-08T07:25:33.035465-05:00.lighthouse.json) |
-| [September 7 at 6:58 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-07T18:58:48.116017-05:00.lighthouse.json) |
-| [September 7 at 7:43 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-07T07:43:46.779549-05:00.lighthouse.json) |
-| [September 6 at 7:16 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-06T19:16:01.485964-05:00.lighthouse.json) |
-| [September 5 at 7:01 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-05T19:01:30.299716-05:00.lighthouse.json) |
+| [September 19 at 7:56 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-19T07:56:23.599545-05:00.lighthouse.json) |
+| [September 18 at 8:12 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-18T20:12:11.571398-05:00.lighthouse.json) |
+| [September 18 at 7:57 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-18T07:57:30.093398-05:00.lighthouse.json) |
+| [September 17 at 8:18 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-17T20:18:29.306558-05:00.lighthouse.json) |
+| [September 17 at 7:58 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-17T07:57:52.599844-05:00.lighthouse.json) |
+| [September 16 at 8:12 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-16T20:11:58.411141-05:00.lighthouse.json) |
+| [September 16 at 7:58 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-16T07:58:15.346541-05:00.lighthouse.json) |
+| [September 15 at 8:14 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-15T20:14:35.643600-05:00.lighthouse.json) |
+| [September 15 at 8:01 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-15T08:01:22.004289-05:00.lighthouse.json) |
+| [September 14 at 8:17 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-09-14T20:17:38.551379-05:00.lighthouse.json) |
 
 
 

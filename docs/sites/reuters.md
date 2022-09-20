@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 174 screenshots with the Internet Archive.
+The archiving routine has saved 190 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/reuters-2022/reuters-2022-09-11T09:05:14.115754-04:00.jpg">
-  <img src="https://archive.org/download/reuters-2022/reuters-2022-09-11T09:05:14.115754-04:00.jpg"
-     alt="Reuters at 2022-09-11 09:05:27-04:00 local time"
+ <a href="https://archive.org/download/reuters-2022/reuters-2022-09-19T10:04:52.102806-04:00.jpg">
+  <img src="https://archive.org/download/reuters-2022/reuters-2022-09-19T10:04:52.102806-04:00.jpg"
+     alt="Reuters at 2022-09-19 10:04:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reuters-2022/reuters-2022-09-11T09:05:14.115754-04:00.jpg">September 11 at 9:05 AM</a></p>
+ <p><a href="https://archive.org/download/reuters-2022/reuters-2022-09-19T10:04:52.102806-04:00.jpg">September 19 at 10:04 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/reuters-2022/reuters-2022-09-10T21:22:05.871852-04:00.jpg">
-  <img src="https://archive.org/download/reuters-2022/reuters-2022-09-10T21:22:05.871852-04:00.jpg"
-     alt="Reuters at 2022-09-10 21:22:20-04:00 local time"
+ <a href="https://archive.org/download/reuters-2022/reuters-2022-09-18T22:18:17.285972-04:00.jpg">
+  <img src="https://archive.org/download/reuters-2022/reuters-2022-09-18T22:18:17.285972-04:00.jpg"
+     alt="Reuters at 2022-09-18 22:18:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reuters-2022/reuters-2022-09-10T21:22:05.871852-04:00.jpg">September 10 at 9:22 PM</a></p>
+ <p><a href="https://archive.org/download/reuters-2022/reuters-2022-09-18T22:18:17.285972-04:00.jpg">September 18 at 10:18 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/reuters-2022/reuters-2022-09-10T09:07:45.363830-04:00.jpg">
-  <img src="https://archive.org/download/reuters-2022/reuters-2022-09-10T09:07:45.363830-04:00.jpg"
-     alt="Reuters at 2022-09-10 09:08:12-04:00 local time"
+ <a href="https://archive.org/download/reuters-2022/reuters-2022-09-18T09:01:30.725934-04:00.jpg">
+  <img src="https://archive.org/download/reuters-2022/reuters-2022-09-18T09:01:30.725934-04:00.jpg"
+     alt="Reuters at 2022-09-18 09:01:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reuters-2022/reuters-2022-09-10T09:07:45.363830-04:00.jpg">September 10 at 9:08 AM</a></p>
+ <p><a href="https://archive.org/download/reuters-2022/reuters-2022-09-18T09:01:30.725934-04:00.jpg">September 18 at 9:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/reuters-2022/reuters-2022-09-09T21:25:29.888524-04:00.jpg">
-  <img src="https://archive.org/download/reuters-2022/reuters-2022-09-09T21:25:29.888524-04:00.jpg"
-     alt="Reuters at 2022-09-09 21:25:43-04:00 local time"
+ <a href="https://archive.org/download/reuters-2022/reuters-2022-09-17T21:22:36.554543-04:00.jpg">
+  <img src="https://archive.org/download/reuters-2022/reuters-2022-09-17T21:22:36.554543-04:00.jpg"
+     alt="Reuters at 2022-09-17 21:22:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reuters-2022/reuters-2022-09-09T21:25:29.888524-04:00.jpg">September 9 at 9:25 PM</a></p>
+ <p><a href="https://archive.org/download/reuters-2022/reuters-2022-09-17T21:22:36.554543-04:00.jpg">September 17 at 9:22 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/reuters-2022/reuters-2022-09-09T09:23:11.798215-04:00.jpg">
-  <img src="https://archive.org/download/reuters-2022/reuters-2022-09-09T09:23:11.798215-04:00.jpg"
-     alt="Reuters at 2022-09-09 09:23:24-04:00 local time"
+ <a href="https://archive.org/download/reuters-2022/reuters-2022-09-17T09:02:04.282175-04:00.jpg">
+  <img src="https://archive.org/download/reuters-2022/reuters-2022-09-17T09:02:04.282175-04:00.jpg"
+     alt="Reuters at 2022-09-17 09:02:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reuters-2022/reuters-2022-09-09T09:23:11.798215-04:00.jpg">September 9 at 9:23 AM</a></p>
+ <p><a href="https://archive.org/download/reuters-2022/reuters-2022-09-17T09:02:04.282175-04:00.jpg">September 17 at 9:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/reuters-2022/reuters-2022-09-08T21:26:49.456635-04:00.jpg">
-  <img src="https://archive.org/download/reuters-2022/reuters-2022-09-08T21:26:49.456635-04:00.jpg"
-     alt="Reuters at 2022-09-08 21:27:02-04:00 local time"
+ <a href="https://archive.org/download/reuters-2022/reuters-2022-09-16T21:15:33.685246-04:00.jpg">
+  <img src="https://archive.org/download/reuters-2022/reuters-2022-09-16T21:15:33.685246-04:00.jpg"
+     alt="Reuters at 2022-09-16 21:15:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reuters-2022/reuters-2022-09-08T21:26:49.456635-04:00.jpg">September 8 at 9:27 PM</a></p>
+ <p><a href="https://archive.org/download/reuters-2022/reuters-2022-09-16T21:15:33.685246-04:00.jpg">September 16 at 9:15 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/reuters-2022/reuters-2022-09-08T09:15:37.949351-04:00.jpg">
-  <img src="https://archive.org/download/reuters-2022/reuters-2022-09-08T09:15:37.949351-04:00.jpg"
-     alt="Reuters at 2022-09-08 09:15:59-04:00 local time"
+ <a href="https://archive.org/download/reuters-2022/reuters-2022-09-16T09:02:21.131045-04:00.jpg">
+  <img src="https://archive.org/download/reuters-2022/reuters-2022-09-16T09:02:21.131045-04:00.jpg"
+     alt="Reuters at 2022-09-16 09:02:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reuters-2022/reuters-2022-09-08T09:15:37.949351-04:00.jpg">September 8 at 9:15 AM</a></p>
+ <p><a href="https://archive.org/download/reuters-2022/reuters-2022-09-16T09:02:21.131045-04:00.jpg">September 16 at 9:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/reuters-2022/reuters-2022-09-07T21:24:38.445425-04:00.jpg">
-  <img src="https://archive.org/download/reuters-2022/reuters-2022-09-07T21:24:38.445425-04:00.jpg"
-     alt="Reuters at 2022-09-07 21:24:45-04:00 local time"
+ <a href="https://archive.org/download/reuters-2022/reuters-2022-09-15T21:18:05.396357-04:00.jpg">
+  <img src="https://archive.org/download/reuters-2022/reuters-2022-09-15T21:18:05.396357-04:00.jpg"
+     alt="Reuters at 2022-09-15 21:18:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reuters-2022/reuters-2022-09-07T21:24:38.445425-04:00.jpg">September 7 at 9:24 PM</a></p>
+ <p><a href="https://archive.org/download/reuters-2022/reuters-2022-09-15T21:18:05.396357-04:00.jpg">September 15 at 9:18 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/reuters-2022/reuters-2022-09-07T09:48:37.685796-04:00.jpg">
-  <img src="https://archive.org/download/reuters-2022/reuters-2022-09-07T09:48:37.685796-04:00.jpg"
-     alt="Reuters at 2022-09-07 09:48:43-04:00 local time"
+ <a href="https://archive.org/download/reuters-2022/reuters-2022-09-15T09:05:17.064991-04:00.jpg">
+  <img src="https://archive.org/download/reuters-2022/reuters-2022-09-15T09:05:17.064991-04:00.jpg"
+     alt="Reuters at 2022-09-15 09:05:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reuters-2022/reuters-2022-09-07T09:48:37.685796-04:00.jpg">September 7 at 9:48 AM</a></p>
+ <p><a href="https://archive.org/download/reuters-2022/reuters-2022-09-15T09:05:17.064991-04:00.jpg">September 15 at 9:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/reuters-2022/reuters-2022-09-06T21:21:13.255792-04:00.jpg">
-  <img src="https://archive.org/download/reuters-2022/reuters-2022-09-06T21:21:13.255792-04:00.jpg"
-     alt="Reuters at 2022-09-06 21:21:19-04:00 local time"
+ <a href="https://archive.org/download/reuters-2022/reuters-2022-09-14T21:22:34.262328-04:00.jpg">
+  <img src="https://archive.org/download/reuters-2022/reuters-2022-09-14T21:22:34.262328-04:00.jpg"
+     alt="Reuters at 2022-09-14 21:22:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reuters-2022/reuters-2022-09-06T21:21:13.255792-04:00.jpg">September 6 at 9:21 PM</a></p>
+ <p><a href="https://archive.org/download/reuters-2022/reuters-2022-09-14T21:22:34.262328-04:00.jpg">September 14 at 9:22 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/reuters-2022/reuters-2022-09-05T21:25:18.838348-04:00.jpg">
-  <img src="https://archive.org/download/reuters-2022/reuters-2022-09-05T21:25:18.838348-04:00.jpg"
-     alt="Reuters at 2022-09-05 21:25:32-04:00 local time"
+ <a href="https://archive.org/download/reuters-2022/reuters-2022-09-14T09:09:54.258847-04:00.jpg">
+  <img src="https://archive.org/download/reuters-2022/reuters-2022-09-14T09:09:54.258847-04:00.jpg"
+     alt="Reuters at 2022-09-14 09:10:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reuters-2022/reuters-2022-09-05T21:25:18.838348-04:00.jpg">September 5 at 9:25 PM</a></p>
+ <p><a href="https://archive.org/download/reuters-2022/reuters-2022-09-14T09:09:54.258847-04:00.jpg">September 14 at 9:10 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/reuters-2022/reuters-2022-09-05T10:10:44.019575-04:00.jpg">
-  <img src="https://archive.org/download/reuters-2022/reuters-2022-09-05T10:10:44.019575-04:00.jpg"
-     alt="Reuters at 2022-09-05 10:10:56-04:00 local time"
+ <a href="https://archive.org/download/reuters-2022/reuters-2022-09-13T21:24:53.289166-04:00.jpg">
+  <img src="https://archive.org/download/reuters-2022/reuters-2022-09-13T21:24:53.289166-04:00.jpg"
+     alt="Reuters at 2022-09-13 21:25:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reuters-2022/reuters-2022-09-05T10:10:44.019575-04:00.jpg">September 5 at 10:10 AM</a></p>
+ <p><a href="https://archive.org/download/reuters-2022/reuters-2022-09-13T21:24:53.289166-04:00.jpg">September 13 at 9:25 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 170 hyperlink lists with the Internet Archive.
+The archiving routine has saved 186 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 9:05 AM](https://archive.org/download/reuters-2022/reuters-2022-09-11T09:05:14.115754-04:00.hyperlinks.json) |
-| [September 10 at 9:22 PM](https://archive.org/download/reuters-2022/reuters-2022-09-10T21:22:05.871852-04:00.hyperlinks.json) |
-| [September 10 at 9:08 AM](https://archive.org/download/reuters-2022/reuters-2022-09-10T09:07:45.363830-04:00.hyperlinks.json) |
-| [September 9 at 9:25 PM](https://archive.org/download/reuters-2022/reuters-2022-09-09T21:25:29.888524-04:00.hyperlinks.json) |
-| [September 9 at 9:23 AM](https://archive.org/download/reuters-2022/reuters-2022-09-09T09:23:11.798215-04:00.hyperlinks.json) |
-| [September 8 at 9:27 PM](https://archive.org/download/reuters-2022/reuters-2022-09-08T21:26:49.456635-04:00.hyperlinks.json) |
-| [September 8 at 9:16 AM](https://archive.org/download/reuters-2022/reuters-2022-09-08T09:15:37.949351-04:00.hyperlinks.json) |
-| [September 7 at 9:24 PM](https://archive.org/download/reuters-2022/reuters-2022-09-07T21:24:38.445425-04:00.hyperlinks.json) |
-| [September 7 at 9:48 AM](https://archive.org/download/reuters-2022/reuters-2022-09-07T09:48:37.685796-04:00.hyperlinks.json) |
-| [September 6 at 9:21 PM](https://archive.org/download/reuters-2022/reuters-2022-09-06T21:21:13.255792-04:00.hyperlinks.json) |
+| [September 19 at 10:04 AM](https://archive.org/download/reuters-2022/reuters-2022-09-19T10:04:52.102806-04:00.hyperlinks.json) |
+| [September 18 at 10:18 PM](https://archive.org/download/reuters-2022/reuters-2022-09-18T22:18:17.285972-04:00.hyperlinks.json) |
+| [September 18 at 9:01 AM](https://archive.org/download/reuters-2022/reuters-2022-09-18T09:01:30.725934-04:00.hyperlinks.json) |
+| [September 17 at 9:22 PM](https://archive.org/download/reuters-2022/reuters-2022-09-17T21:22:36.554543-04:00.hyperlinks.json) |
+| [September 17 at 9:02 AM](https://archive.org/download/reuters-2022/reuters-2022-09-17T09:02:04.282175-04:00.hyperlinks.json) |
+| [September 16 at 9:15 PM](https://archive.org/download/reuters-2022/reuters-2022-09-16T21:15:33.685246-04:00.hyperlinks.json) |
+| [September 16 at 9:02 AM](https://archive.org/download/reuters-2022/reuters-2022-09-16T09:02:21.131045-04:00.hyperlinks.json) |
+| [September 15 at 9:18 PM](https://archive.org/download/reuters-2022/reuters-2022-09-15T21:18:05.396357-04:00.hyperlinks.json) |
+| [September 15 at 9:05 AM](https://archive.org/download/reuters-2022/reuters-2022-09-15T09:05:17.064991-04:00.hyperlinks.json) |
+| [September 14 at 9:22 PM](https://archive.org/download/reuters-2022/reuters-2022-09-14T21:22:34.262328-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 172 accessibility trees with the Internet Archive.
+The archiving routine has saved 188 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 9:05 AM](https://archive.org/download/reuters-2022/reuters-2022-09-11T09:05:14.115754-04:00.accessibility.json) |
-| [September 10 at 9:22 PM](https://archive.org/download/reuters-2022/reuters-2022-09-10T21:22:05.871852-04:00.accessibility.json) |
-| [September 10 at 9:08 AM](https://archive.org/download/reuters-2022/reuters-2022-09-10T09:07:45.363830-04:00.accessibility.json) |
-| [September 9 at 9:25 PM](https://archive.org/download/reuters-2022/reuters-2022-09-09T21:25:29.888524-04:00.accessibility.json) |
-| [September 9 at 9:23 AM](https://archive.org/download/reuters-2022/reuters-2022-09-09T09:23:11.798215-04:00.accessibility.json) |
-| [September 8 at 9:27 PM](https://archive.org/download/reuters-2022/reuters-2022-09-08T21:26:49.456635-04:00.accessibility.json) |
-| [September 8 at 9:16 AM](https://archive.org/download/reuters-2022/reuters-2022-09-08T09:15:37.949351-04:00.accessibility.json) |
-| [September 7 at 9:24 PM](https://archive.org/download/reuters-2022/reuters-2022-09-07T21:24:38.445425-04:00.accessibility.json) |
-| [September 7 at 9:48 AM](https://archive.org/download/reuters-2022/reuters-2022-09-07T09:48:37.685796-04:00.accessibility.json) |
-| [September 6 at 9:21 PM](https://archive.org/download/reuters-2022/reuters-2022-09-06T21:21:13.255792-04:00.accessibility.json) |
+| [September 19 at 10:04 AM](https://archive.org/download/reuters-2022/reuters-2022-09-19T10:04:52.102806-04:00.accessibility.json) |
+| [September 18 at 10:18 PM](https://archive.org/download/reuters-2022/reuters-2022-09-18T22:18:17.285972-04:00.accessibility.json) |
+| [September 18 at 9:01 AM](https://archive.org/download/reuters-2022/reuters-2022-09-18T09:01:30.725934-04:00.accessibility.json) |
+| [September 17 at 9:22 PM](https://archive.org/download/reuters-2022/reuters-2022-09-17T21:22:36.554543-04:00.accessibility.json) |
+| [September 17 at 9:02 AM](https://archive.org/download/reuters-2022/reuters-2022-09-17T09:02:04.282175-04:00.accessibility.json) |
+| [September 16 at 9:15 PM](https://archive.org/download/reuters-2022/reuters-2022-09-16T21:15:33.685246-04:00.accessibility.json) |
+| [September 16 at 9:02 AM](https://archive.org/download/reuters-2022/reuters-2022-09-16T09:02:21.131045-04:00.accessibility.json) |
+| [September 15 at 9:18 PM](https://archive.org/download/reuters-2022/reuters-2022-09-15T21:18:05.396357-04:00.accessibility.json) |
+| [September 15 at 9:05 AM](https://archive.org/download/reuters-2022/reuters-2022-09-15T09:05:17.064991-04:00.accessibility.json) |
+| [September 14 at 9:22 PM](https://archive.org/download/reuters-2022/reuters-2022-09-14T21:22:34.262328-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 100 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 116 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 9:05 AM](https://archive.org/download/reuters-2022/reuters-2022-09-11T09:05:14.115754-04:00.lighthouse.json) |
-| [September 10 at 9:22 PM](https://archive.org/download/reuters-2022/reuters-2022-09-10T21:22:05.871852-04:00.lighthouse.json) |
-| [September 10 at 9:08 AM](https://archive.org/download/reuters-2022/reuters-2022-09-10T09:07:45.363830-04:00.lighthouse.json) |
-| [September 9 at 9:25 PM](https://archive.org/download/reuters-2022/reuters-2022-09-09T21:25:29.888524-04:00.lighthouse.json) |
-| [September 9 at 9:23 AM](https://archive.org/download/reuters-2022/reuters-2022-09-09T09:23:11.798215-04:00.lighthouse.json) |
-| [September 8 at 9:27 PM](https://archive.org/download/reuters-2022/reuters-2022-09-08T21:26:49.456635-04:00.lighthouse.json) |
-| [September 8 at 9:16 AM](https://archive.org/download/reuters-2022/reuters-2022-09-08T09:15:37.949351-04:00.lighthouse.json) |
-| [September 7 at 9:24 PM](https://archive.org/download/reuters-2022/reuters-2022-09-07T21:24:38.445425-04:00.lighthouse.json) |
-| [September 7 at 9:48 AM](https://archive.org/download/reuters-2022/reuters-2022-09-07T09:48:37.685796-04:00.lighthouse.json) |
-| [September 6 at 9:21 PM](https://archive.org/download/reuters-2022/reuters-2022-09-06T21:21:13.255792-04:00.lighthouse.json) |
+| [September 19 at 10:05 AM](https://archive.org/download/reuters-2022/reuters-2022-09-19T10:04:52.102806-04:00.lighthouse.json) |
+| [September 18 at 10:18 PM](https://archive.org/download/reuters-2022/reuters-2022-09-18T22:18:17.285972-04:00.lighthouse.json) |
+| [September 18 at 9:01 AM](https://archive.org/download/reuters-2022/reuters-2022-09-18T09:01:30.725934-04:00.lighthouse.json) |
+| [September 17 at 9:22 PM](https://archive.org/download/reuters-2022/reuters-2022-09-17T21:22:36.554543-04:00.lighthouse.json) |
+| [September 17 at 9:02 AM](https://archive.org/download/reuters-2022/reuters-2022-09-17T09:02:04.282175-04:00.lighthouse.json) |
+| [September 16 at 9:15 PM](https://archive.org/download/reuters-2022/reuters-2022-09-16T21:15:33.685246-04:00.lighthouse.json) |
+| [September 16 at 9:02 AM](https://archive.org/download/reuters-2022/reuters-2022-09-16T09:02:21.131045-04:00.lighthouse.json) |
+| [September 15 at 9:18 PM](https://archive.org/download/reuters-2022/reuters-2022-09-15T21:18:05.396357-04:00.lighthouse.json) |
+| [September 15 at 9:05 AM](https://archive.org/download/reuters-2022/reuters-2022-09-15T09:05:17.064991-04:00.lighthouse.json) |
+| [September 14 at 9:22 PM](https://archive.org/download/reuters-2022/reuters-2022-09-14T21:22:34.262328-04:00.lighthouse.json) |
 
 
 

@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 74 screenshots with the Internet Archive.
+The archiving routine has saved 90 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-12T03:10:09.255456+12:00.jpg">
-  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-09-12T03:10:09.255456+12:00.jpg"
-     alt="NZ Herald at 2022-09-12 03:10:15+12:00 local time"
+ <a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-20T05:35:38.491950+12:00.jpg">
+  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-09-20T05:35:38.491950+12:00.jpg"
+     alt="NZ Herald at 2022-09-20 05:35:39+12:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-12T03:10:09.255456+12:00.jpg">September 12 at 3:10 AM</a></p>
+ <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-20T05:35:38.491950+12:00.jpg">September 20 at 5:35 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-11T15:56:03.395619+12:00.jpg">
-  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-09-11T15:56:03.395619+12:00.jpg"
-     alt="NZ Herald at 2022-09-11 15:56:08+12:00 local time"
+ <a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-19T18:05:06.201030+12:00.jpg">
+  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-09-19T18:05:06.201030+12:00.jpg"
+     alt="NZ Herald at 2022-09-19 18:05:08+12:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-11T15:56:03.395619+12:00.jpg">September 11 at 3:56 PM</a></p>
+ <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-19T18:05:06.201030+12:00.jpg">September 19 at 6:05 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-11T03:07:56.105352+12:00.jpg">
-  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-09-11T03:07:56.105352+12:00.jpg"
-     alt="NZ Herald at 2022-09-11 03:08:01+12:00 local time"
+ <a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-19T05:28:13.843877+12:00.jpg">
+  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-09-19T05:28:13.843877+12:00.jpg"
+     alt="NZ Herald at 2022-09-19 05:28:25+12:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-11T03:07:56.105352+12:00.jpg">September 11 at 3:08 AM</a></p>
+ <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-19T05:28:13.843877+12:00.jpg">September 19 at 5:28 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-10T15:56:22.521753+12:00.jpg">
-  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-09-10T15:56:22.521753+12:00.jpg"
-     alt="NZ Herald at 2022-09-10 15:56:24+12:00 local time"
+ <a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-18T17:25:52.884824+12:00.jpg">
+  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-09-18T17:25:52.884824+12:00.jpg"
+     alt="NZ Herald at 2022-09-18 17:25:54+12:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-10T15:56:22.521753+12:00.jpg">September 10 at 3:56 PM</a></p>
+ <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-18T17:25:52.884824+12:00.jpg">September 18 at 5:25 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-10T04:29:01.085299+12:00.jpg">
-  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-09-10T04:29:01.085299+12:00.jpg"
-     alt="NZ Herald at 2022-09-10 04:29:03+12:00 local time"
+ <a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-18T04:01:07.137153+12:00.jpg">
+  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-09-18T04:01:07.137153+12:00.jpg"
+     alt="NZ Herald at 2022-09-18 04:01:09+12:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-10T04:29:01.085299+12:00.jpg">September 10 at 4:29 AM</a></p>
+ <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-18T04:01:07.137153+12:00.jpg">September 18 at 4:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-09T16:53:57.931465+12:00.jpg">
-  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-09-09T16:53:57.931465+12:00.jpg"
-     alt="NZ Herald at 2022-09-09 16:54:08+12:00 local time"
+ <a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-17T16:35:40.001347+12:00.jpg">
+  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-09-17T16:35:40.001347+12:00.jpg"
+     alt="NZ Herald at 2022-09-17 16:35:41+12:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-09T16:53:57.931465+12:00.jpg">September 9 at 4:54 PM</a></p>
+ <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-17T16:35:40.001347+12:00.jpg">September 17 at 4:35 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-09T03:36:19.011717+12:00.jpg">
-  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-09-09T03:36:19.011717+12:00.jpg"
-     alt="NZ Herald at 2022-09-09 03:36:25+12:00 local time"
+ <a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-17T04:05:49.028458+12:00.jpg">
+  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-09-17T04:05:49.028458+12:00.jpg"
+     alt="NZ Herald at 2022-09-17 04:05:51+12:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-09T03:36:19.011717+12:00.jpg">September 9 at 3:36 AM</a></p>
+ <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-17T04:05:49.028458+12:00.jpg">September 17 at 4:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-08T15:54:06.611234+12:00.jpg">
-  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-09-08T15:54:06.611234+12:00.jpg"
-     alt="NZ Herald at 2022-09-08 15:54:12+12:00 local time"
+ <a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-16T17:28:39.940725+12:00.jpg">
+  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-09-16T17:28:39.940725+12:00.jpg"
+     alt="NZ Herald at 2022-09-16 17:28:45+12:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-08T15:54:06.611234+12:00.jpg">September 8 at 3:54 PM</a></p>
+ <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-16T17:28:39.940725+12:00.jpg">September 16 at 5:28 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-08T03:50:48.261001+12:00.jpg">
-  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-09-08T03:50:48.261001+12:00.jpg"
-     alt="NZ Herald at 2022-09-08 03:50:53+12:00 local time"
+ <a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-16T04:28:18.292747+12:00.jpg">
+  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-09-16T04:28:18.292747+12:00.jpg"
+     alt="NZ Herald at 2022-09-16 04:28:24+12:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-08T03:50:48.261001+12:00.jpg">September 8 at 3:50 AM</a></p>
+ <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-16T04:28:18.292747+12:00.jpg">September 16 at 4:28 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-07T15:59:50.696366+12:00.jpg">
-  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-09-07T15:59:50.696366+12:00.jpg"
-     alt="NZ Herald at 2022-09-07 15:59:56+12:00 local time"
+ <a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-15T17:28:18.820415+12:00.jpg">
+  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-09-15T17:28:18.820415+12:00.jpg"
+     alt="NZ Herald at 2022-09-15 17:28:25+12:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-07T15:59:50.696366+12:00.jpg">September 7 at 3:59 PM</a></p>
+ <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-15T17:28:18.820415+12:00.jpg">September 15 at 5:28 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-06T15:59:24.760640+12:00.jpg">
-  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-09-06T15:59:24.760640+12:00.jpg"
-     alt="NZ Herald at 2022-09-06 15:59:30+12:00 local time"
+ <a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-15T04:27:22.287085+12:00.jpg">
+  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-09-15T04:27:22.287085+12:00.jpg"
+     alt="NZ Herald at 2022-09-15 04:27:25+12:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-06T15:59:24.760640+12:00.jpg">September 6 at 3:59 PM</a></p>
+ <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-15T04:27:22.287085+12:00.jpg">September 15 at 4:27 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-06T04:19:52.326382+12:00.jpg">
-  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-09-06T04:19:52.326382+12:00.jpg"
-     alt="NZ Herald at 2022-09-06 04:20:04+12:00 local time"
+ <a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-14T16:47:51.529379+12:00.jpg">
+  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-09-14T16:47:51.529379+12:00.jpg"
+     alt="NZ Herald at 2022-09-14 16:47:53+12:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-06T04:19:52.326382+12:00.jpg">September 6 at 4:20 AM</a></p>
+ <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-09-14T16:47:51.529379+12:00.jpg">September 14 at 4:47 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 75 hyperlink lists with the Internet Archive.
+The archiving routine has saved 91 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 12 at 3:10 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-12T03:10:09.255456+12:00.hyperlinks.json) |
-| [September 11 at 3:56 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-11T15:56:03.395619+12:00.hyperlinks.json) |
-| [September 11 at 3:08 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-11T03:07:56.105352+12:00.hyperlinks.json) |
-| [September 10 at 3:56 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-10T15:56:22.521753+12:00.hyperlinks.json) |
-| [September 10 at 4:29 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-10T04:29:01.085299+12:00.hyperlinks.json) |
-| [September 9 at 4:54 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-09T16:53:57.931465+12:00.hyperlinks.json) |
-| [September 9 at 3:36 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-09T03:36:19.011717+12:00.hyperlinks.json) |
-| [September 8 at 3:54 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-08T15:54:06.611234+12:00.hyperlinks.json) |
-| [September 8 at 3:50 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-08T03:50:48.261001+12:00.hyperlinks.json) |
-| [September 7 at 3:59 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-07T15:59:50.696366+12:00.hyperlinks.json) |
+| [September 20 at 5:35 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-20T05:35:38.491950+12:00.hyperlinks.json) |
+| [September 19 at 6:05 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-19T18:05:06.201030+12:00.hyperlinks.json) |
+| [September 19 at 5:28 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-19T05:28:13.843877+12:00.hyperlinks.json) |
+| [September 18 at 5:25 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-18T17:25:52.884824+12:00.hyperlinks.json) |
+| [September 18 at 4:01 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-18T04:01:07.137153+12:00.hyperlinks.json) |
+| [September 17 at 4:35 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-17T16:35:40.001347+12:00.hyperlinks.json) |
+| [September 17 at 4:06 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-17T04:05:49.028458+12:00.hyperlinks.json) |
+| [September 16 at 5:28 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-16T17:28:39.940725+12:00.hyperlinks.json) |
+| [September 16 at 4:28 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-16T04:28:18.292747+12:00.hyperlinks.json) |
+| [September 15 at 5:28 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-15T17:28:18.820415+12:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 75 accessibility trees with the Internet Archive.
+The archiving routine has saved 91 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 12 at 3:10 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-12T03:10:09.255456+12:00.accessibility.json) |
-| [September 11 at 3:56 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-11T15:56:03.395619+12:00.accessibility.json) |
-| [September 11 at 3:08 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-11T03:07:56.105352+12:00.accessibility.json) |
-| [September 10 at 3:56 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-10T15:56:22.521753+12:00.accessibility.json) |
-| [September 10 at 4:29 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-10T04:29:01.085299+12:00.accessibility.json) |
-| [September 9 at 4:54 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-09T16:53:57.931465+12:00.accessibility.json) |
-| [September 9 at 3:36 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-09T03:36:19.011717+12:00.accessibility.json) |
-| [September 8 at 3:54 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-08T15:54:06.611234+12:00.accessibility.json) |
-| [September 8 at 3:50 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-08T03:50:48.261001+12:00.accessibility.json) |
-| [September 7 at 3:59 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-07T15:59:50.696366+12:00.accessibility.json) |
+| [September 20 at 5:35 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-20T05:35:38.491950+12:00.accessibility.json) |
+| [September 19 at 6:05 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-19T18:05:06.201030+12:00.accessibility.json) |
+| [September 19 at 5:28 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-19T05:28:13.843877+12:00.accessibility.json) |
+| [September 18 at 5:25 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-18T17:25:52.884824+12:00.accessibility.json) |
+| [September 18 at 4:01 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-18T04:01:07.137153+12:00.accessibility.json) |
+| [September 17 at 4:35 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-17T16:35:40.001347+12:00.accessibility.json) |
+| [September 17 at 4:05 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-17T04:05:49.028458+12:00.accessibility.json) |
+| [September 16 at 5:28 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-16T17:28:39.940725+12:00.accessibility.json) |
+| [September 16 at 4:28 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-16T04:28:18.292747+12:00.accessibility.json) |
+| [September 15 at 5:28 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-15T17:28:18.820415+12:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 75 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 91 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 12 at 3:10 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-12T03:10:09.255456+12:00.lighthouse.json) |
-| [September 11 at 3:56 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-11T15:56:03.395619+12:00.lighthouse.json) |
-| [September 11 at 3:08 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-11T03:07:56.105352+12:00.lighthouse.json) |
-| [September 10 at 3:56 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-10T15:56:22.521753+12:00.lighthouse.json) |
-| [September 10 at 4:29 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-10T04:29:01.085299+12:00.lighthouse.json) |
-| [September 9 at 4:54 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-09T16:53:57.931465+12:00.lighthouse.json) |
-| [September 9 at 3:36 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-09T03:36:19.011717+12:00.lighthouse.json) |
-| [September 8 at 3:54 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-08T15:54:06.611234+12:00.lighthouse.json) |
-| [September 8 at 3:50 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-08T03:50:48.261001+12:00.lighthouse.json) |
-| [September 7 at 4:00 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-07T15:59:50.696366+12:00.lighthouse.json) |
+| [September 20 at 5:35 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-20T05:35:38.491950+12:00.lighthouse.json) |
+| [September 19 at 6:05 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-19T18:05:06.201030+12:00.lighthouse.json) |
+| [September 19 at 5:28 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-19T05:28:13.843877+12:00.lighthouse.json) |
+| [September 18 at 5:25 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-18T17:25:52.884824+12:00.lighthouse.json) |
+| [September 18 at 4:01 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-18T04:01:07.137153+12:00.lighthouse.json) |
+| [September 17 at 4:35 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-17T16:35:40.001347+12:00.lighthouse.json) |
+| [September 17 at 4:06 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-17T04:05:49.028458+12:00.lighthouse.json) |
+| [September 16 at 5:28 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-16T17:28:39.940725+12:00.lighthouse.json) |
+| [September 16 at 4:28 AM](https://archive.org/download/nzherald-2022/nzherald-2022-09-16T04:28:18.292747+12:00.lighthouse.json) |
+| [September 15 at 5:28 PM](https://archive.org/download/nzherald-2022/nzherald-2022-09-15T17:28:18.820415+12:00.lighthouse.json) |
 
 
 

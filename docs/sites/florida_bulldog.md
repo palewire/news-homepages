@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 128 screenshots with the Internet Archive.
+The archiving routine has saved 145 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-10T20:09:39.807330-04:00.jpg">
-  <img src="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-10T20:09:39.807330-04:00.jpg"
-     alt="Florida Bulldog at 2022-09-10 20:09:44-04:00 local time"
+ <a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-19T07:54:21.084168-04:00.jpg">
+  <img src="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-19T07:54:21.084168-04:00.jpg"
+     alt="Florida Bulldog at 2022-09-19 07:54:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-10T20:09:39.807330-04:00.jpg">September 10 at 8:09 PM</a></p>
+ <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-19T07:54:21.084168-04:00.jpg">September 19 at 7:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-10T07:55:59.654923-04:00.jpg">
-  <img src="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-10T07:55:59.654923-04:00.jpg"
-     alt="Florida Bulldog at 2022-09-10 07:56:01-04:00 local time"
+ <a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-18T19:47:21.817535-04:00.jpg">
+  <img src="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-18T19:47:21.817535-04:00.jpg"
+     alt="Florida Bulldog at 2022-09-18 19:47:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-10T07:55:59.654923-04:00.jpg">September 10 at 7:56 AM</a></p>
+ <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-18T19:47:21.817535-04:00.jpg">September 18 at 7:47 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-09T20:02:36.823119-04:00.jpg">
-  <img src="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-09T20:02:36.823119-04:00.jpg"
-     alt="Florida Bulldog at 2022-09-09 20:02:38-04:00 local time"
+ <a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-18T07:55:31.602343-04:00.jpg">
+  <img src="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-18T07:55:31.602343-04:00.jpg"
+     alt="Florida Bulldog at 2022-09-18 07:55:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-09T20:02:36.823119-04:00.jpg">September 9 at 8:02 PM</a></p>
+ <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-18T07:55:31.602343-04:00.jpg">September 18 at 7:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-09T08:13:15.616376-04:00.jpg">
-  <img src="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-09T08:13:15.616376-04:00.jpg"
-     alt="Florida Bulldog at 2022-09-09 08:13:19-04:00 local time"
+ <a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-17T19:48:03.028635-04:00.jpg">
+  <img src="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-17T19:48:03.028635-04:00.jpg"
+     alt="Florida Bulldog at 2022-09-17 19:48:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-09T08:13:15.616376-04:00.jpg">September 9 at 8:13 AM</a></p>
+ <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-17T19:48:03.028635-04:00.jpg">September 17 at 7:48 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-08T20:02:57.265859-04:00.jpg">
-  <img src="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-08T20:02:57.265859-04:00.jpg"
-     alt="Florida Bulldog at 2022-09-08 20:02:58-04:00 local time"
+ <a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-17T07:55:57.456937-04:00.jpg">
+  <img src="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-17T07:55:57.456937-04:00.jpg"
+     alt="Florida Bulldog at 2022-09-17 07:55:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-08T20:02:57.265859-04:00.jpg">September 8 at 8:02 PM</a></p>
+ <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-17T07:55:57.456937-04:00.jpg">September 17 at 7:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-08T08:15:17.720024-04:00.jpg">
-  <img src="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-08T08:15:17.720024-04:00.jpg"
-     alt="Florida Bulldog at 2022-09-08 08:15:19-04:00 local time"
+ <a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-16T19:49:12.698045-04:00.jpg">
+  <img src="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-16T19:49:12.698045-04:00.jpg"
+     alt="Florida Bulldog at 2022-09-16 19:49:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-08T08:15:17.720024-04:00.jpg">September 8 at 8:15 AM</a></p>
+ <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-16T19:49:12.698045-04:00.jpg">September 16 at 7:49 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-07T19:53:43.886104-04:00.jpg">
-  <img src="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-07T19:53:43.886104-04:00.jpg"
-     alt="Florida Bulldog at 2022-09-07 19:53:45-04:00 local time"
+ <a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-16T07:56:51.573279-04:00.jpg">
+  <img src="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-16T07:56:51.573279-04:00.jpg"
+     alt="Florida Bulldog at 2022-09-16 07:56:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-07T19:53:43.886104-04:00.jpg">September 7 at 7:53 PM</a></p>
+ <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-16T07:56:51.573279-04:00.jpg">September 16 at 7:56 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-07T08:31:52.728747-04:00.jpg">
-  <img src="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-07T08:31:52.728747-04:00.jpg"
-     alt="Florida Bulldog at 2022-09-07 08:31:53-04:00 local time"
+ <a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-15T19:47:53.219699-04:00.jpg">
+  <img src="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-15T19:47:53.219699-04:00.jpg"
+     alt="Florida Bulldog at 2022-09-15 19:47:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-07T08:31:52.728747-04:00.jpg">September 7 at 8:31 AM</a></p>
+ <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-15T19:47:53.219699-04:00.jpg">September 15 at 7:47 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-06T20:08:15.634478-04:00.jpg">
-  <img src="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-06T20:08:15.634478-04:00.jpg"
-     alt="Florida Bulldog at 2022-09-06 20:08:17-04:00 local time"
+ <a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-15T07:57:54.739671-04:00.jpg">
+  <img src="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-15T07:57:54.739671-04:00.jpg"
+     alt="Florida Bulldog at 2022-09-15 07:57:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-06T20:08:15.634478-04:00.jpg">September 6 at 8:08 PM</a></p>
+ <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-15T07:57:54.739671-04:00.jpg">September 15 at 7:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-06T07:58:43.502646-04:00.jpg">
-  <img src="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-06T07:58:43.502646-04:00.jpg"
-     alt="Florida Bulldog at 2022-09-06 07:58:47-04:00 local time"
+ <a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-14T19:56:14.196384-04:00.jpg">
+  <img src="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-14T19:56:14.196384-04:00.jpg"
+     alt="Florida Bulldog at 2022-09-14 19:56:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-06T07:58:43.502646-04:00.jpg">September 6 at 7:58 AM</a></p>
+ <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-14T19:56:14.196384-04:00.jpg">September 14 at 7:56 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-05T19:55:15.553683-04:00.jpg">
-  <img src="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-05T19:55:15.553683-04:00.jpg"
-     alt="Florida Bulldog at 2022-09-05 19:55:17-04:00 local time"
+ <a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-14T08:00:39.071831-04:00.jpg">
+  <img src="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-14T08:00:39.071831-04:00.jpg"
+     alt="Florida Bulldog at 2022-09-14 08:00:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-05T19:55:15.553683-04:00.jpg">September 5 at 7:55 PM</a></p>
+ <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-14T08:00:39.071831-04:00.jpg">September 14 at 8:00 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-04T19:52:20.144471-04:00.jpg">
-  <img src="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-04T19:52:20.144471-04:00.jpg"
-     alt="Florida Bulldog at 2022-09-04 19:52:21-04:00 local time"
+ <a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-13T19:52:28.761379-04:00.jpg">
+  <img src="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-13T19:52:28.761379-04:00.jpg"
+     alt="Florida Bulldog at 2022-09-13 19:52:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-04T19:52:20.144471-04:00.jpg">September 4 at 7:52 PM</a></p>
+ <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-13T19:52:28.761379-04:00.jpg">September 13 at 7:52 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 129 hyperlink lists with the Internet Archive.
+The archiving routine has saved 146 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 10 at 8:09 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-10T20:09:39.807330-04:00.hyperlinks.json) |
-| [September 10 at 7:56 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-10T07:55:59.654923-04:00.hyperlinks.json) |
-| [September 9 at 8:02 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-09T20:02:36.823119-04:00.hyperlinks.json) |
-| [September 9 at 8:13 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-09T08:13:15.616376-04:00.hyperlinks.json) |
-| [September 8 at 8:03 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-08T20:02:57.265859-04:00.hyperlinks.json) |
-| [September 8 at 8:15 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-08T08:15:17.720024-04:00.hyperlinks.json) |
-| [September 7 at 7:53 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-07T19:53:43.886104-04:00.hyperlinks.json) |
-| [September 7 at 8:31 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-07T08:31:52.728747-04:00.hyperlinks.json) |
-| [September 6 at 8:08 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-06T20:08:15.634478-04:00.hyperlinks.json) |
-| [September 6 at 7:58 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-06T07:58:43.502646-04:00.hyperlinks.json) |
+| [September 19 at 7:54 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-19T07:54:21.084168-04:00.hyperlinks.json) |
+| [September 18 at 7:47 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-18T19:47:21.817535-04:00.hyperlinks.json) |
+| [September 18 at 7:55 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-18T07:55:31.602343-04:00.hyperlinks.json) |
+| [September 17 at 7:48 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-17T19:48:03.028635-04:00.hyperlinks.json) |
+| [September 17 at 7:56 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-17T07:55:57.456937-04:00.hyperlinks.json) |
+| [September 16 at 7:49 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-16T19:49:12.698045-04:00.hyperlinks.json) |
+| [September 16 at 7:56 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-16T07:56:51.573279-04:00.hyperlinks.json) |
+| [September 15 at 7:47 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-15T19:47:53.219699-04:00.hyperlinks.json) |
+| [September 15 at 7:58 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-15T07:57:54.739671-04:00.hyperlinks.json) |
+| [September 14 at 7:56 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-14T19:56:14.196384-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 129 accessibility trees with the Internet Archive.
+The archiving routine has saved 146 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 10 at 8:09 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-10T20:09:39.807330-04:00.accessibility.json) |
-| [September 10 at 7:56 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-10T07:55:59.654923-04:00.accessibility.json) |
-| [September 9 at 8:02 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-09T20:02:36.823119-04:00.accessibility.json) |
-| [September 9 at 8:13 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-09T08:13:15.616376-04:00.accessibility.json) |
-| [September 8 at 8:03 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-08T20:02:57.265859-04:00.accessibility.json) |
-| [September 8 at 8:15 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-08T08:15:17.720024-04:00.accessibility.json) |
-| [September 7 at 7:53 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-07T19:53:43.886104-04:00.accessibility.json) |
-| [September 7 at 8:31 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-07T08:31:52.728747-04:00.accessibility.json) |
-| [September 6 at 8:08 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-06T20:08:15.634478-04:00.accessibility.json) |
-| [September 6 at 7:58 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-06T07:58:43.502646-04:00.accessibility.json) |
+| [September 19 at 7:54 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-19T07:54:21.084168-04:00.accessibility.json) |
+| [September 18 at 7:47 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-18T19:47:21.817535-04:00.accessibility.json) |
+| [September 18 at 7:55 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-18T07:55:31.602343-04:00.accessibility.json) |
+| [September 17 at 7:48 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-17T19:48:03.028635-04:00.accessibility.json) |
+| [September 17 at 7:56 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-17T07:55:57.456937-04:00.accessibility.json) |
+| [September 16 at 7:49 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-16T19:49:12.698045-04:00.accessibility.json) |
+| [September 16 at 7:56 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-16T07:56:51.573279-04:00.accessibility.json) |
+| [September 15 at 7:47 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-15T19:47:53.219699-04:00.accessibility.json) |
+| [September 15 at 7:57 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-15T07:57:54.739671-04:00.accessibility.json) |
+| [September 14 at 7:56 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-14T19:56:14.196384-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 99 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 116 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 10 at 8:09 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-10T20:09:39.807330-04:00.lighthouse.json) |
-| [September 10 at 7:56 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-10T07:55:59.654923-04:00.lighthouse.json) |
-| [September 9 at 8:02 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-09T20:02:36.823119-04:00.lighthouse.json) |
-| [September 9 at 8:13 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-09T08:13:15.616376-04:00.lighthouse.json) |
-| [September 8 at 8:03 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-08T20:02:57.265859-04:00.lighthouse.json) |
-| [September 8 at 8:15 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-08T08:15:17.720024-04:00.lighthouse.json) |
-| [September 7 at 7:53 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-07T19:53:43.886104-04:00.lighthouse.json) |
-| [September 7 at 8:31 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-07T08:31:52.728747-04:00.lighthouse.json) |
-| [September 6 at 8:08 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-06T20:08:15.634478-04:00.lighthouse.json) |
-| [September 6 at 7:58 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-06T07:58:43.502646-04:00.lighthouse.json) |
+| [September 19 at 7:54 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-19T07:54:21.084168-04:00.lighthouse.json) |
+| [September 18 at 7:47 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-18T19:47:21.817535-04:00.lighthouse.json) |
+| [September 18 at 7:55 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-18T07:55:31.602343-04:00.lighthouse.json) |
+| [September 17 at 7:48 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-17T19:48:03.028635-04:00.lighthouse.json) |
+| [September 17 at 7:56 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-17T07:55:57.456937-04:00.lighthouse.json) |
+| [September 16 at 7:49 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-16T19:49:12.698045-04:00.lighthouse.json) |
+| [September 16 at 7:56 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-16T07:56:51.573279-04:00.lighthouse.json) |
+| [September 15 at 7:48 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-15T19:47:53.219699-04:00.lighthouse.json) |
+| [September 15 at 7:58 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-15T07:57:54.739671-04:00.lighthouse.json) |
+| [September 14 at 7:56 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-09-14T19:56:14.196384-04:00.lighthouse.json) |
 
 
 

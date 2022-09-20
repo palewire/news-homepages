@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 39 screenshots with the Internet Archive.
+The archiving routine has saved 55 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-11T05:56:31.914202-05:00.jpg">
-  <img src="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-11T05:56:31.914202-05:00.jpg"
-     alt="Christianity Today at 2022-09-11 05:56:34-05:00 local time"
+ <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-19T05:51:01.550504-05:00.jpg">
+  <img src="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-19T05:51:01.550504-05:00.jpg"
+     alt="Christianity Today at 2022-09-19 05:51:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-11T05:56:31.914202-05:00.jpg">September 11 at 5:56 AM</a></p>
+ <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-19T05:51:01.550504-05:00.jpg">September 19 at 5:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-10T18:08:43.048942-05:00.jpg">
-  <img src="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-10T18:08:43.048942-05:00.jpg"
-     alt="Christianity Today at 2022-09-10 18:08:48-05:00 local time"
+ <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-18T17:51:58.843061-05:00.jpg">
+  <img src="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-18T17:51:58.843061-05:00.jpg"
+     alt="Christianity Today at 2022-09-18 17:51:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-10T18:08:43.048942-05:00.jpg">September 10 at 6:08 PM</a></p>
+ <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-18T17:51:58.843061-05:00.jpg">September 18 at 5:51 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-10T05:55:31.179975-05:00.jpg">
-  <img src="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-10T05:55:31.179975-05:00.jpg"
-     alt="Christianity Today at 2022-09-10 05:55:32-05:00 local time"
+ <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-18T05:53:08.243075-05:00.jpg">
+  <img src="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-18T05:53:08.243075-05:00.jpg"
+     alt="Christianity Today at 2022-09-18 05:53:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-10T05:55:31.179975-05:00.jpg">September 10 at 5:55 AM</a></p>
+ <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-18T05:53:08.243075-05:00.jpg">September 18 at 5:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-09T18:06:23.487599-05:00.jpg">
-  <img src="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-09T18:06:23.487599-05:00.jpg"
-     alt="Christianity Today at 2022-09-09 18:06:26-05:00 local time"
+ <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-17T17:56:21.722865-05:00.jpg">
+  <img src="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-17T17:56:21.722865-05:00.jpg"
+     alt="Christianity Today at 2022-09-17 17:56:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-09T18:06:23.487599-05:00.jpg">September 9 at 6:06 PM</a></p>
+ <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-17T17:56:21.722865-05:00.jpg">September 17 at 5:56 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-09T06:08:40.802000-05:00.jpg">
-  <img src="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-09T06:08:40.802000-05:00.jpg"
-     alt="Christianity Today at 2022-09-09 06:08:43-05:00 local time"
+ <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-17T05:51:45.756367-05:00.jpg">
+  <img src="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-17T05:51:45.756367-05:00.jpg"
+     alt="Christianity Today at 2022-09-17 05:51:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-09T06:08:40.802000-05:00.jpg">September 9 at 6:08 AM</a></p>
+ <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-17T05:51:45.756367-05:00.jpg">September 17 at 5:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-08T19:00:02.883602-05:00.jpg">
-  <img src="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-08T19:00:02.883602-05:00.jpg"
-     alt="Christianity Today at 2022-09-08 19:00:06-05:00 local time"
+ <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-16T17:54:31.425682-05:00.jpg">
+  <img src="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-16T17:54:31.425682-05:00.jpg"
+     alt="Christianity Today at 2022-09-16 17:54:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-08T19:00:02.883602-05:00.jpg">September 8 at 7:00 PM</a></p>
+ <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-16T17:54:31.425682-05:00.jpg">September 16 at 5:54 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-08T06:04:20.101292-05:00.jpg">
-  <img src="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-08T06:04:20.101292-05:00.jpg"
-     alt="Christianity Today at 2022-09-08 06:04:21-05:00 local time"
+ <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-16T05:55:51.388633-05:00.jpg">
+  <img src="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-16T05:55:51.388633-05:00.jpg"
+     alt="Christianity Today at 2022-09-16 05:55:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-08T06:04:20.101292-05:00.jpg">September 8 at 6:04 AM</a></p>
+ <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-16T05:55:51.388633-05:00.jpg">September 16 at 5:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-07T18:04:27.626730-05:00.jpg">
-  <img src="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-07T18:04:27.626730-05:00.jpg"
-     alt="Christianity Today at 2022-09-07 18:04:30-05:00 local time"
+ <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-15T17:58:40.802605-05:00.jpg">
+  <img src="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-15T17:58:40.802605-05:00.jpg"
+     alt="Christianity Today at 2022-09-15 17:58:44-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-07T18:04:27.626730-05:00.jpg">September 7 at 6:04 PM</a></p>
+ <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-15T17:58:40.802605-05:00.jpg">September 15 at 5:58 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-07T07:16:11.359885-05:00.jpg">
-  <img src="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-07T07:16:11.359885-05:00.jpg"
-     alt="Christianity Today at 2022-09-07 07:16:14-05:00 local time"
+ <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-15T05:57:17.601452-05:00.jpg">
+  <img src="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-15T05:57:17.601452-05:00.jpg"
+     alt="Christianity Today at 2022-09-15 05:57:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-07T07:16:11.359885-05:00.jpg">September 7 at 7:16 AM</a></p>
+ <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-15T05:57:17.601452-05:00.jpg">September 15 at 5:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-06T18:08:48.722795-05:00.jpg">
-  <img src="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-06T18:08:48.722795-05:00.jpg"
-     alt="Christianity Today at 2022-09-06 18:08:52-05:00 local time"
+ <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-14T18:05:26.748912-05:00.jpg">
+  <img src="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-14T18:05:26.748912-05:00.jpg"
+     alt="Christianity Today at 2022-09-14 18:05:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-06T18:08:48.722795-05:00.jpg">September 6 at 6:08 PM</a></p>
+ <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-14T18:05:26.748912-05:00.jpg">September 14 at 6:05 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-06T05:58:06.262038-05:00.jpg">
-  <img src="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-06T05:58:06.262038-05:00.jpg"
-     alt="Christianity Today at 2022-09-06 05:58:09-05:00 local time"
+ <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-14T05:56:58.691752-05:00.jpg">
+  <img src="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-14T05:56:58.691752-05:00.jpg"
+     alt="Christianity Today at 2022-09-14 05:57:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-06T05:58:06.262038-05:00.jpg">September 6 at 5:58 AM</a></p>
+ <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-14T05:56:58.691752-05:00.jpg">September 14 at 5:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-05T18:02:27.868784-05:00.jpg">
-  <img src="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-05T18:02:27.868784-05:00.jpg"
-     alt="Christianity Today at 2022-09-05 18:02:30-05:00 local time"
+ <a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-13T18:01:21.902994-05:00.jpg">
+  <img src="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-13T18:01:21.902994-05:00.jpg"
+     alt="Christianity Today at 2022-09-13 18:01:27-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-05T18:02:27.868784-05:00.jpg">September 5 at 6:02 PM</a></p>
+ <p><a href="https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-13T18:01:21.902994-05:00.jpg">September 13 at 6:01 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 39 hyperlink lists with the Internet Archive.
+The archiving routine has saved 55 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 5:56 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-11T05:56:31.914202-05:00.hyperlinks.json) |
-| [September 10 at 6:08 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-10T18:08:43.048942-05:00.hyperlinks.json) |
-| [September 10 at 5:55 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-10T05:55:31.179975-05:00.hyperlinks.json) |
-| [September 9 at 6:06 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-09T18:06:23.487599-05:00.hyperlinks.json) |
-| [September 9 at 6:08 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-09T06:08:40.802000-05:00.hyperlinks.json) |
-| [September 8 at 7:00 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-08T19:00:02.883602-05:00.hyperlinks.json) |
-| [September 8 at 6:04 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-08T06:04:20.101292-05:00.hyperlinks.json) |
-| [September 7 at 6:04 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-07T18:04:27.626730-05:00.hyperlinks.json) |
-| [September 7 at 7:16 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-07T07:16:11.359885-05:00.hyperlinks.json) |
-| [September 6 at 6:08 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-06T18:08:48.722795-05:00.hyperlinks.json) |
+| [September 19 at 5:51 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-19T05:51:01.550504-05:00.hyperlinks.json) |
+| [September 18 at 5:52 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-18T17:51:58.843061-05:00.hyperlinks.json) |
+| [September 18 at 5:53 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-18T05:53:08.243075-05:00.hyperlinks.json) |
+| [September 17 at 5:56 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-17T17:56:21.722865-05:00.hyperlinks.json) |
+| [September 17 at 5:51 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-17T05:51:45.756367-05:00.hyperlinks.json) |
+| [September 16 at 5:54 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-16T17:54:31.425682-05:00.hyperlinks.json) |
+| [September 16 at 5:55 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-16T05:55:51.388633-05:00.hyperlinks.json) |
+| [September 15 at 5:58 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-15T17:58:40.802605-05:00.hyperlinks.json) |
+| [September 15 at 5:57 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-15T05:57:17.601452-05:00.hyperlinks.json) |
+| [September 14 at 6:05 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-14T18:05:26.748912-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 39 accessibility trees with the Internet Archive.
+The archiving routine has saved 55 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 5:56 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-11T05:56:31.914202-05:00.accessibility.json) |
-| [September 10 at 6:08 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-10T18:08:43.048942-05:00.accessibility.json) |
-| [September 10 at 5:55 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-10T05:55:31.179975-05:00.accessibility.json) |
-| [September 9 at 6:06 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-09T18:06:23.487599-05:00.accessibility.json) |
-| [September 9 at 6:08 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-09T06:08:40.802000-05:00.accessibility.json) |
-| [September 8 at 7:00 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-08T19:00:02.883602-05:00.accessibility.json) |
-| [September 8 at 6:04 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-08T06:04:20.101292-05:00.accessibility.json) |
-| [September 7 at 6:04 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-07T18:04:27.626730-05:00.accessibility.json) |
-| [September 7 at 7:16 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-07T07:16:11.359885-05:00.accessibility.json) |
-| [September 6 at 6:08 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-06T18:08:48.722795-05:00.accessibility.json) |
+| [September 19 at 5:51 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-19T05:51:01.550504-05:00.accessibility.json) |
+| [September 18 at 5:52 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-18T17:51:58.843061-05:00.accessibility.json) |
+| [September 18 at 5:53 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-18T05:53:08.243075-05:00.accessibility.json) |
+| [September 17 at 5:56 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-17T17:56:21.722865-05:00.accessibility.json) |
+| [September 17 at 5:51 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-17T05:51:45.756367-05:00.accessibility.json) |
+| [September 16 at 5:54 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-16T17:54:31.425682-05:00.accessibility.json) |
+| [September 16 at 5:55 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-16T05:55:51.388633-05:00.accessibility.json) |
+| [September 15 at 5:58 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-15T17:58:40.802605-05:00.accessibility.json) |
+| [September 15 at 5:57 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-15T05:57:17.601452-05:00.accessibility.json) |
+| [September 14 at 6:05 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-14T18:05:26.748912-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 5:56 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-11T05:56:31.914202-05:00.lighthouse.json) |
-| [September 10 at 6:08 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-10T18:08:43.048942-05:00.lighthouse.json) |
-| [September 10 at 5:55 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-10T05:55:31.179975-05:00.lighthouse.json) |
-| [September 9 at 6:06 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-09T18:06:23.487599-05:00.lighthouse.json) |
-| [September 9 at 6:08 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-09T06:08:40.802000-05:00.lighthouse.json) |
-| [September 8 at 7:00 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-08T19:00:02.883602-05:00.lighthouse.json) |
-| [September 8 at 6:04 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-08T06:04:20.101292-05:00.lighthouse.json) |
-| [September 7 at 6:04 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-07T18:04:27.626730-05:00.lighthouse.json) |
-| [September 7 at 7:16 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-07T07:16:11.359885-05:00.lighthouse.json) |
-| [September 6 at 6:08 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-06T18:08:48.722795-05:00.lighthouse.json) |
+| [September 19 at 5:51 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-19T05:51:01.550504-05:00.lighthouse.json) |
+| [September 18 at 5:52 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-18T17:51:58.843061-05:00.lighthouse.json) |
+| [September 18 at 5:53 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-18T05:53:08.243075-05:00.lighthouse.json) |
+| [September 17 at 5:56 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-17T17:56:21.722865-05:00.lighthouse.json) |
+| [September 17 at 5:51 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-17T05:51:45.756367-05:00.lighthouse.json) |
+| [September 16 at 5:54 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-16T17:54:31.425682-05:00.lighthouse.json) |
+| [September 16 at 5:55 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-16T05:55:51.388633-05:00.lighthouse.json) |
+| [September 15 at 5:58 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-15T17:58:40.802605-05:00.lighthouse.json) |
+| [September 15 at 5:57 AM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-15T05:57:17.601452-05:00.lighthouse.json) |
+| [September 14 at 6:05 PM](https://archive.org/download/ctmagazine-2022/ctmagazine-2022-09-14T18:05:26.748912-05:00.lighthouse.json) |
 
 
 

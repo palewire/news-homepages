@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 107 screenshots with the Internet Archive.
+The archiving routine has saved 123 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-11T09:08:02.604589-04:00.jpg">
-  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-09-11T09:08:02.604589-04:00.jpg"
-     alt="Valdosta Daily Times at 2022-09-11 09:08:09-04:00 local time"
+ <a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-19T10:08:55.246295-04:00.jpg">
+  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-09-19T10:08:55.246295-04:00.jpg"
+     alt="Valdosta Daily Times at 2022-09-19 10:08:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-11T09:08:02.604589-04:00.jpg">September 11 at 9:08 AM</a></p>
+ <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-19T10:08:55.246295-04:00.jpg">September 19 at 10:08 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-10T21:26:11.076832-04:00.jpg">
-  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-09-10T21:26:11.076832-04:00.jpg"
-     alt="Valdosta Daily Times at 2022-09-10 21:26:12-04:00 local time"
+ <a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-18T22:21:32.845596-04:00.jpg">
+  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-09-18T22:21:32.845596-04:00.jpg"
+     alt="Valdosta Daily Times at 2022-09-18 22:21:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-10T21:26:11.076832-04:00.jpg">September 10 at 9:26 PM</a></p>
+ <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-18T22:21:32.845596-04:00.jpg">September 18 at 10:21 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-10T09:12:08.272517-04:00.jpg">
-  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-09-10T09:12:08.272517-04:00.jpg"
-     alt="Valdosta Daily Times at 2022-09-10 09:12:10-04:00 local time"
+ <a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-18T10:01:05.280275-04:00.jpg">
+  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-09-18T10:01:05.280275-04:00.jpg"
+     alt="Valdosta Daily Times at 2022-09-18 10:01:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-10T09:12:08.272517-04:00.jpg">September 10 at 9:12 AM</a></p>
+ <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-18T10:01:05.280275-04:00.jpg">September 18 at 10:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-09T21:28:06.686997-04:00.jpg">
-  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-09-09T21:28:06.686997-04:00.jpg"
-     alt="Valdosta Daily Times at 2022-09-09 21:28:26-04:00 local time"
+ <a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-17T22:28:05.655980-04:00.jpg">
+  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-09-17T22:28:05.655980-04:00.jpg"
+     alt="Valdosta Daily Times at 2022-09-17 22:28:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-09T21:28:06.686997-04:00.jpg">September 9 at 9:28 PM</a></p>
+ <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-17T22:28:05.655980-04:00.jpg">September 17 at 10:28 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-09T09:27:26.556190-04:00.jpg">
-  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-09-09T09:27:26.556190-04:00.jpg"
-     alt="Valdosta Daily Times at 2022-09-09 09:27:32-04:00 local time"
+ <a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-17T09:59:38.143671-04:00.jpg">
+  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-09-17T09:59:38.143671-04:00.jpg"
+     alt="Valdosta Daily Times at 2022-09-17 09:59:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-09T09:27:26.556190-04:00.jpg">September 9 at 9:27 AM</a></p>
+ <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-17T09:59:38.143671-04:00.jpg">September 17 at 9:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-08T21:30:51.027060-04:00.jpg">
-  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-09-08T21:30:51.027060-04:00.jpg"
-     alt="Valdosta Daily Times at 2022-09-08 21:30:56-04:00 local time"
+ <a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-16T22:24:37.028306-04:00.jpg">
+  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-09-16T22:24:37.028306-04:00.jpg"
+     alt="Valdosta Daily Times at 2022-09-16 22:24:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-08T21:30:51.027060-04:00.jpg">September 8 at 9:30 PM</a></p>
+ <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-16T22:24:37.028306-04:00.jpg">September 16 at 10:24 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-08T09:19:07.996323-04:00.jpg">
-  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-09-08T09:19:07.996323-04:00.jpg"
-     alt="Valdosta Daily Times at 2022-09-08 09:19:13-04:00 local time"
+ <a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-16T10:05:59.492428-04:00.jpg">
+  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-09-16T10:05:59.492428-04:00.jpg"
+     alt="Valdosta Daily Times at 2022-09-16 10:06:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-08T09:19:07.996323-04:00.jpg">September 8 at 9:19 AM</a></p>
+ <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-16T10:05:59.492428-04:00.jpg">September 16 at 10:06 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-07T21:28:24.968234-04:00.jpg">
-  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-09-07T21:28:24.968234-04:00.jpg"
-     alt="Valdosta Daily Times at 2022-09-07 21:28:30-04:00 local time"
+ <a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-15T22:25:24.899304-04:00.jpg">
+  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-09-15T22:25:24.899304-04:00.jpg"
+     alt="Valdosta Daily Times at 2022-09-15 22:25:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-07T21:28:24.968234-04:00.jpg">September 7 at 9:28 PM</a></p>
+ <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-15T22:25:24.899304-04:00.jpg">September 15 at 10:25 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-07T09:52:12.472784-04:00.jpg">
-  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-09-07T09:52:12.472784-04:00.jpg"
-     alt="Valdosta Daily Times at 2022-09-07 09:52:16-04:00 local time"
+ <a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-15T10:12:35.046005-04:00.jpg">
+  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-09-15T10:12:35.046005-04:00.jpg"
+     alt="Valdosta Daily Times at 2022-09-15 10:12:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-07T09:52:12.472784-04:00.jpg">September 7 at 9:52 AM</a></p>
+ <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-15T10:12:35.046005-04:00.jpg">September 15 at 10:12 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-06T21:25:44.378399-04:00.jpg">
-  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-09-06T21:25:44.378399-04:00.jpg"
-     alt="Valdosta Daily Times at 2022-09-06 21:25:49-04:00 local time"
+ <a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-14T22:28:08.121508-04:00.jpg">
+  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-09-14T22:28:08.121508-04:00.jpg"
+     alt="Valdosta Daily Times at 2022-09-14 22:28:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-06T21:25:44.378399-04:00.jpg">September 6 at 9:25 PM</a></p>
+ <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-14T22:28:08.121508-04:00.jpg">September 14 at 10:28 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-05T21:29:42.225804-04:00.jpg">
-  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-09-05T21:29:42.225804-04:00.jpg"
-     alt="Valdosta Daily Times at 2022-09-05 21:29:45-04:00 local time"
+ <a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-14T10:14:03.518951-04:00.jpg">
+  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-09-14T10:14:03.518951-04:00.jpg"
+     alt="Valdosta Daily Times at 2022-09-14 10:14:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-05T21:29:42.225804-04:00.jpg">September 5 at 9:29 PM</a></p>
+ <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-14T10:14:03.518951-04:00.jpg">September 14 at 10:14 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-05T10:13:54.469788-04:00.jpg">
-  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-09-05T10:13:54.469788-04:00.jpg"
-     alt="Valdosta Daily Times at 2022-09-05 10:14:00-04:00 local time"
+ <a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-13T22:27:10.989208-04:00.jpg">
+  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-09-13T22:27:10.989208-04:00.jpg"
+     alt="Valdosta Daily Times at 2022-09-13 22:27:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-05T10:13:54.469788-04:00.jpg">September 5 at 10:14 AM</a></p>
+ <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-09-13T22:27:10.989208-04:00.jpg">September 13 at 10:27 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 85 hyperlink lists with the Internet Archive.
+The archiving routine has saved 101 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 9:08 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-11T09:08:02.604589-04:00.hyperlinks.json) |
-| [September 10 at 9:26 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-10T21:26:11.076832-04:00.hyperlinks.json) |
-| [September 10 at 9:12 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-10T09:12:08.272517-04:00.hyperlinks.json) |
-| [September 9 at 9:28 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-09T21:28:06.686997-04:00.hyperlinks.json) |
-| [September 9 at 9:27 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-09T09:27:26.556190-04:00.hyperlinks.json) |
-| [September 8 at 9:30 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-08T21:30:51.027060-04:00.hyperlinks.json) |
-| [September 8 at 9:19 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-08T09:19:07.996323-04:00.hyperlinks.json) |
-| [September 7 at 9:28 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-07T21:28:24.968234-04:00.hyperlinks.json) |
-| [September 7 at 9:52 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-07T09:52:12.472784-04:00.hyperlinks.json) |
-| [September 6 at 9:25 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-06T21:25:44.378399-04:00.hyperlinks.json) |
+| [September 19 at 10:08 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-19T10:08:55.246295-04:00.hyperlinks.json) |
+| [September 18 at 10:21 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-18T22:21:32.845596-04:00.hyperlinks.json) |
+| [September 18 at 10:01 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-18T10:01:05.280275-04:00.hyperlinks.json) |
+| [September 17 at 10:28 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-17T22:28:05.655980-04:00.hyperlinks.json) |
+| [September 17 at 9:59 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-17T09:59:38.143671-04:00.hyperlinks.json) |
+| [September 16 at 10:24 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-16T22:24:37.028306-04:00.hyperlinks.json) |
+| [September 16 at 10:06 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-16T10:05:59.492428-04:00.hyperlinks.json) |
+| [September 15 at 10:25 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-15T22:25:24.899304-04:00.hyperlinks.json) |
+| [September 15 at 10:12 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-15T10:12:35.046005-04:00.hyperlinks.json) |
+| [September 14 at 10:28 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-14T22:28:08.121508-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 76 accessibility trees with the Internet Archive.
+The archiving routine has saved 92 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 9:08 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-11T09:08:02.604589-04:00.accessibility.json) |
-| [September 10 at 9:26 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-10T21:26:11.076832-04:00.accessibility.json) |
-| [September 10 at 9:12 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-10T09:12:08.272517-04:00.accessibility.json) |
-| [September 9 at 9:28 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-09T21:28:06.686997-04:00.accessibility.json) |
-| [September 9 at 9:27 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-09T09:27:26.556190-04:00.accessibility.json) |
-| [September 8 at 9:30 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-08T21:30:51.027060-04:00.accessibility.json) |
-| [September 8 at 9:19 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-08T09:19:07.996323-04:00.accessibility.json) |
-| [September 7 at 9:28 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-07T21:28:24.968234-04:00.accessibility.json) |
-| [September 7 at 9:52 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-07T09:52:12.472784-04:00.accessibility.json) |
-| [September 6 at 9:25 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-06T21:25:44.378399-04:00.accessibility.json) |
+| [September 19 at 10:08 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-19T10:08:55.246295-04:00.accessibility.json) |
+| [September 18 at 10:21 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-18T22:21:32.845596-04:00.accessibility.json) |
+| [September 18 at 10:01 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-18T10:01:05.280275-04:00.accessibility.json) |
+| [September 17 at 10:28 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-17T22:28:05.655980-04:00.accessibility.json) |
+| [September 17 at 9:59 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-17T09:59:38.143671-04:00.accessibility.json) |
+| [September 16 at 10:24 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-16T22:24:37.028306-04:00.accessibility.json) |
+| [September 16 at 10:06 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-16T10:05:59.492428-04:00.accessibility.json) |
+| [September 15 at 10:25 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-15T22:25:24.899304-04:00.accessibility.json) |
+| [September 15 at 10:12 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-15T10:12:35.046005-04:00.accessibility.json) |
+| [September 14 at 10:28 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-14T22:28:08.121508-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 101 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 117 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 9:08 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-11T09:08:02.604589-04:00.lighthouse.json) |
-| [September 10 at 9:26 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-10T21:26:11.076832-04:00.lighthouse.json) |
-| [September 10 at 9:12 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-10T09:12:08.272517-04:00.lighthouse.json) |
-| [September 9 at 9:28 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-09T21:28:06.686997-04:00.lighthouse.json) |
-| [September 9 at 9:27 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-09T09:27:26.556190-04:00.lighthouse.json) |
-| [September 8 at 9:31 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-08T21:30:51.027060-04:00.lighthouse.json) |
-| [September 8 at 9:19 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-08T09:19:07.996323-04:00.lighthouse.json) |
-| [September 7 at 9:28 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-07T21:28:24.968234-04:00.lighthouse.json) |
-| [September 7 at 9:52 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-07T09:52:12.472784-04:00.lighthouse.json) |
-| [September 6 at 9:25 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-06T21:25:44.378399-04:00.lighthouse.json) |
+| [September 19 at 10:09 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-19T10:08:55.246295-04:00.lighthouse.json) |
+| [September 18 at 10:21 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-18T22:21:32.845596-04:00.lighthouse.json) |
+| [September 18 at 10:01 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-18T10:01:05.280275-04:00.lighthouse.json) |
+| [September 17 at 10:28 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-17T22:28:05.655980-04:00.lighthouse.json) |
+| [September 17 at 9:59 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-17T09:59:38.143671-04:00.lighthouse.json) |
+| [September 16 at 10:24 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-16T22:24:37.028306-04:00.lighthouse.json) |
+| [September 16 at 10:06 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-16T10:05:59.492428-04:00.lighthouse.json) |
+| [September 15 at 10:25 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-15T22:25:24.899304-04:00.lighthouse.json) |
+| [September 15 at 10:12 AM](https://archive.org/download/thevdt-2022/thevdt-2022-09-15T10:12:35.046005-04:00.lighthouse.json) |
+| [September 14 at 10:28 PM](https://archive.org/download/thevdt-2022/thevdt-2022-09-14T22:28:08.121508-04:00.lighthouse.json) |
 
 
 

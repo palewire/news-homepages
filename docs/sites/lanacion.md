@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 66 screenshots with the Internet Archive.
+The archiving routine has saved 83 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-10T21:15:28.564988-03:00.jpg">
-  <img src="https://archive.org/download/lanacion-2022/lanacion-2022-09-10T21:15:28.564988-03:00.jpg"
-     alt="La Nacion at 2022-09-10 21:15:29-03:00 local time"
+ <a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-19T09:54:24.652547-03:00.jpg">
+  <img src="https://archive.org/download/lanacion-2022/lanacion-2022-09-19T09:54:24.652547-03:00.jpg"
+     alt="La Nacion at 2022-09-19 09:54:30-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-10T21:15:28.564988-03:00.jpg">September 10 at 9:15 PM</a></p>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-19T09:54:24.652547-03:00.jpg">September 19 at 9:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-10T08:59:29.780998-03:00.jpg">
-  <img src="https://archive.org/download/lanacion-2022/lanacion-2022-09-10T08:59:29.780998-03:00.jpg"
-     alt="La Nacion at 2022-09-10 08:59:34-03:00 local time"
+ <a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-18T22:10:30.310965-03:00.jpg">
+  <img src="https://archive.org/download/lanacion-2022/lanacion-2022-09-18T22:10:30.310965-03:00.jpg"
+     alt="La Nacion at 2022-09-18 22:10:31-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-10T08:59:29.780998-03:00.jpg">September 10 at 8:59 AM</a></p>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-18T22:10:30.310965-03:00.jpg">September 18 at 10:10 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-09T21:06:57.985507-03:00.jpg">
-  <img src="https://archive.org/download/lanacion-2022/lanacion-2022-09-09T21:06:57.985507-03:00.jpg"
-     alt="La Nacion at 2022-09-09 21:07:02-03:00 local time"
+ <a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-18T08:59:48.981359-03:00.jpg">
+  <img src="https://archive.org/download/lanacion-2022/lanacion-2022-09-18T08:59:48.981359-03:00.jpg"
+     alt="La Nacion at 2022-09-18 08:59:52-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-09T21:06:57.985507-03:00.jpg">September 9 at 9:07 PM</a></p>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-18T08:59:48.981359-03:00.jpg">September 18 at 8:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-09T09:16:43.806395-03:00.jpg">
-  <img src="https://archive.org/download/lanacion-2022/lanacion-2022-09-09T09:16:43.806395-03:00.jpg"
-     alt="La Nacion at 2022-09-09 09:16:48-03:00 local time"
+ <a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-17T20:52:54.420875-03:00.jpg">
+  <img src="https://archive.org/download/lanacion-2022/lanacion-2022-09-17T20:52:54.420875-03:00.jpg"
+     alt="La Nacion at 2022-09-17 20:52:57-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-09T09:16:43.806395-03:00.jpg">September 9 at 9:16 AM</a></p>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-17T20:52:54.420875-03:00.jpg">September 17 at 8:52 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-08T21:07:18.332214-03:00.jpg">
-  <img src="https://archive.org/download/lanacion-2022/lanacion-2022-09-08T21:07:18.332214-03:00.jpg"
-     alt="La Nacion at 2022-09-08 21:07:25-03:00 local time"
+ <a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-17T09:00:35.407174-03:00.jpg">
+  <img src="https://archive.org/download/lanacion-2022/lanacion-2022-09-17T09:00:35.407174-03:00.jpg"
+     alt="La Nacion at 2022-09-17 09:00:41-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-08T21:07:18.332214-03:00.jpg">September 8 at 9:07 PM</a></p>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-17T09:00:35.407174-03:00.jpg">September 17 at 9:00 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-08T09:23:47.818539-03:00.jpg">
-  <img src="https://archive.org/download/lanacion-2022/lanacion-2022-09-08T09:23:47.818539-03:00.jpg"
-     alt="La Nacion at 2022-09-08 09:23:55-03:00 local time"
+ <a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-16T20:54:35.510280-03:00.jpg">
+  <img src="https://archive.org/download/lanacion-2022/lanacion-2022-09-16T20:54:35.510280-03:00.jpg"
+     alt="La Nacion at 2022-09-16 20:54:44-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-08T09:23:47.818539-03:00.jpg">September 8 at 9:23 AM</a></p>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-16T20:54:35.510280-03:00.jpg">September 16 at 8:54 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-07T20:56:54.130308-03:00.jpg">
-  <img src="https://archive.org/download/lanacion-2022/lanacion-2022-09-07T20:56:54.130308-03:00.jpg"
-     alt="La Nacion at 2022-09-07 20:56:55-03:00 local time"
+ <a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-16T09:01:03.896160-03:00.jpg">
+  <img src="https://archive.org/download/lanacion-2022/lanacion-2022-09-16T09:01:03.896160-03:00.jpg"
+     alt="La Nacion at 2022-09-16 09:01:10-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-07T20:56:54.130308-03:00.jpg">September 7 at 8:56 PM</a></p>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-16T09:01:03.896160-03:00.jpg">September 16 at 9:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-07T09:42:53.435533-03:00.jpg">
-  <img src="https://archive.org/download/lanacion-2022/lanacion-2022-09-07T09:42:53.435533-03:00.jpg"
-     alt="La Nacion at 2022-09-07 09:43:03-03:00 local time"
+ <a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-15T20:51:59.213342-03:00.jpg">
+  <img src="https://archive.org/download/lanacion-2022/lanacion-2022-09-15T20:51:59.213342-03:00.jpg"
+     alt="La Nacion at 2022-09-15 20:52:06-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-07T09:42:53.435533-03:00.jpg">September 7 at 9:43 AM</a></p>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-15T20:51:59.213342-03:00.jpg">September 15 at 8:52 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-06T21:13:04.763862-03:00.jpg">
-  <img src="https://archive.org/download/lanacion-2022/lanacion-2022-09-06T21:13:04.763862-03:00.jpg"
-     alt="La Nacion at 2022-09-06 21:13:09-03:00 local time"
+ <a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-15T09:02:55.356746-03:00.jpg">
+  <img src="https://archive.org/download/lanacion-2022/lanacion-2022-09-15T09:02:55.356746-03:00.jpg"
+     alt="La Nacion at 2022-09-15 09:02:57-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-06T21:13:04.763862-03:00.jpg">September 6 at 9:13 PM</a></p>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-15T09:02:55.356746-03:00.jpg">September 15 at 9:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-06T09:07:57.221910-03:00.jpg">
-  <img src="https://archive.org/download/lanacion-2022/lanacion-2022-09-06T09:07:57.221910-03:00.jpg"
-     alt="La Nacion at 2022-09-06 09:07:58-03:00 local time"
+ <a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-14T21:01:10.915559-03:00.jpg">
+  <img src="https://archive.org/download/lanacion-2022/lanacion-2022-09-14T21:01:10.915559-03:00.jpg"
+     alt="La Nacion at 2022-09-14 21:01:20-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-06T09:07:57.221910-03:00.jpg">September 6 at 9:07 AM</a></p>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-14T21:01:10.915559-03:00.jpg">September 14 at 9:01 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-05T20:59:12.327691-03:00.jpg">
-  <img src="https://archive.org/download/lanacion-2022/lanacion-2022-09-05T20:59:12.327691-03:00.jpg"
-     alt="La Nacion at 2022-09-05 20:59:15-03:00 local time"
+ <a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-14T09:05:01.921403-03:00.jpg">
+  <img src="https://archive.org/download/lanacion-2022/lanacion-2022-09-14T09:05:01.921403-03:00.jpg"
+     alt="La Nacion at 2022-09-14 09:05:11-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-05T20:59:12.327691-03:00.jpg">September 5 at 8:59 PM</a></p>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-14T09:05:01.921403-03:00.jpg">September 14 at 9:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-05T09:20:38.116117-03:00.jpg">
-  <img src="https://archive.org/download/lanacion-2022/lanacion-2022-09-05T09:20:38.116117-03:00.jpg"
-     alt="La Nacion at 2022-09-05 09:20:40-03:00 local time"
+ <a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-13T20:58:08.064559-03:00.jpg">
+  <img src="https://archive.org/download/lanacion-2022/lanacion-2022-09-13T20:58:08.064559-03:00.jpg"
+     alt="La Nacion at 2022-09-13 20:58:11-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-05T09:20:38.116117-03:00.jpg">September 5 at 9:20 AM</a></p>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-09-13T20:58:08.064559-03:00.jpg">September 13 at 8:58 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 64 hyperlink lists with the Internet Archive.
+The archiving routine has saved 81 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 10 at 9:15 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-10T21:15:28.564988-03:00.hyperlinks.json) |
-| [September 10 at 8:59 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-10T08:59:29.780998-03:00.hyperlinks.json) |
-| [September 9 at 9:07 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-09T21:06:57.985507-03:00.hyperlinks.json) |
-| [September 9 at 9:16 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-09T09:16:43.806395-03:00.hyperlinks.json) |
-| [September 8 at 9:07 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-08T21:07:18.332214-03:00.hyperlinks.json) |
-| [September 8 at 9:24 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-08T09:23:47.818539-03:00.hyperlinks.json) |
-| [September 7 at 8:56 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-07T20:56:54.130308-03:00.hyperlinks.json) |
-| [September 7 at 9:43 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-07T09:42:53.435533-03:00.hyperlinks.json) |
-| [September 6 at 9:13 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-06T21:13:04.763862-03:00.hyperlinks.json) |
-| [September 5 at 8:59 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-05T20:59:12.327691-03:00.hyperlinks.json) |
+| [September 19 at 9:54 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-19T09:54:24.652547-03:00.hyperlinks.json) |
+| [September 18 at 10:10 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-18T22:10:30.310965-03:00.hyperlinks.json) |
+| [September 18 at 8:59 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-18T08:59:48.981359-03:00.hyperlinks.json) |
+| [September 17 at 8:53 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-17T20:52:54.420875-03:00.hyperlinks.json) |
+| [September 17 at 9:00 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-17T09:00:35.407174-03:00.hyperlinks.json) |
+| [September 16 at 8:54 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-16T20:54:35.510280-03:00.hyperlinks.json) |
+| [September 16 at 9:01 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-16T09:01:03.896160-03:00.hyperlinks.json) |
+| [September 15 at 8:52 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-15T20:51:59.213342-03:00.hyperlinks.json) |
+| [September 15 at 9:03 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-15T09:02:55.356746-03:00.hyperlinks.json) |
+| [September 14 at 9:01 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-14T21:01:10.915559-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 66 accessibility trees with the Internet Archive.
+The archiving routine has saved 83 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 10 at 9:15 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-10T21:15:28.564988-03:00.accessibility.json) |
-| [September 10 at 8:59 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-10T08:59:29.780998-03:00.accessibility.json) |
-| [September 9 at 9:07 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-09T21:06:57.985507-03:00.accessibility.json) |
-| [September 9 at 9:16 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-09T09:16:43.806395-03:00.accessibility.json) |
-| [September 8 at 9:07 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-08T21:07:18.332214-03:00.accessibility.json) |
-| [September 8 at 9:23 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-08T09:23:47.818539-03:00.accessibility.json) |
-| [September 7 at 8:56 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-07T20:56:54.130308-03:00.accessibility.json) |
-| [September 7 at 9:43 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-07T09:42:53.435533-03:00.accessibility.json) |
-| [September 6 at 9:13 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-06T21:13:04.763862-03:00.accessibility.json) |
-| [September 6 at 9:08 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-06T09:07:57.221910-03:00.accessibility.json) |
+| [September 19 at 9:54 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-19T09:54:24.652547-03:00.accessibility.json) |
+| [September 18 at 10:10 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-18T22:10:30.310965-03:00.accessibility.json) |
+| [September 18 at 8:59 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-18T08:59:48.981359-03:00.accessibility.json) |
+| [September 17 at 8:52 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-17T20:52:54.420875-03:00.accessibility.json) |
+| [September 17 at 9:00 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-17T09:00:35.407174-03:00.accessibility.json) |
+| [September 16 at 8:54 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-16T20:54:35.510280-03:00.accessibility.json) |
+| [September 16 at 9:01 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-16T09:01:03.896160-03:00.accessibility.json) |
+| [September 15 at 8:52 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-15T20:51:59.213342-03:00.accessibility.json) |
+| [September 15 at 9:02 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-15T09:02:55.356746-03:00.accessibility.json) |
+| [September 14 at 9:01 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-14T21:01:10.915559-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 65 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 82 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 10 at 9:15 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-10T21:15:28.564988-03:00.lighthouse.json) |
-| [September 10 at 8:59 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-10T08:59:29.780998-03:00.lighthouse.json) |
-| [September 9 at 9:07 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-09T21:06:57.985507-03:00.lighthouse.json) |
-| [September 9 at 9:16 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-09T09:16:43.806395-03:00.lighthouse.json) |
-| [September 8 at 9:07 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-08T21:07:18.332214-03:00.lighthouse.json) |
-| [September 8 at 9:24 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-08T09:23:47.818539-03:00.lighthouse.json) |
-| [September 7 at 8:57 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-07T20:56:54.130308-03:00.lighthouse.json) |
-| [September 7 at 9:43 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-07T09:42:53.435533-03:00.lighthouse.json) |
-| [September 6 at 9:13 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-06T21:13:04.763862-03:00.lighthouse.json) |
-| [September 5 at 8:59 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-05T20:59:12.327691-03:00.lighthouse.json) |
+| [September 19 at 9:54 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-19T09:54:24.652547-03:00.lighthouse.json) |
+| [September 18 at 10:10 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-18T22:10:30.310965-03:00.lighthouse.json) |
+| [September 18 at 9:00 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-18T08:59:48.981359-03:00.lighthouse.json) |
+| [September 17 at 8:53 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-17T20:52:54.420875-03:00.lighthouse.json) |
+| [September 17 at 9:00 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-17T09:00:35.407174-03:00.lighthouse.json) |
+| [September 16 at 8:54 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-16T20:54:35.510280-03:00.lighthouse.json) |
+| [September 16 at 9:01 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-16T09:01:03.896160-03:00.lighthouse.json) |
+| [September 15 at 8:52 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-15T20:51:59.213342-03:00.lighthouse.json) |
+| [September 15 at 9:03 AM](https://archive.org/download/lanacion-2022/lanacion-2022-09-15T09:02:55.356746-03:00.lighthouse.json) |
+| [September 14 at 9:01 PM](https://archive.org/download/lanacion-2022/lanacion-2022-09-14T21:01:10.915559-03:00.lighthouse.json) |
 
 
 

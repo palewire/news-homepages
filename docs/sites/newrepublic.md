@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 151 screenshots with the Internet Archive.
+The archiving routine has saved 175 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-11T14:30:51.040415-04:00.jpg">
-  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-11T14:30:51.040415-04:00.jpg"
-     alt="New Republic at 2022-09-11 14:30:56-04:00 local time"
+ <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-19T14:33:55.499342-04:00.jpg">
+  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-19T14:33:55.499342-04:00.jpg"
+     alt="New Republic at 2022-09-19 14:34:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-11T14:30:51.040415-04:00.jpg">September 11 at 2:30 PM</a></p>
+ <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-19T14:33:55.499342-04:00.jpg">September 19 at 2:34 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-11T11:09:09.827966-04:00.jpg">
-  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-11T11:09:09.827966-04:00.jpg"
-     alt="New Republic at 2022-09-11 11:09:14-04:00 local time"
+ <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-19T13:34:20.063702-04:00.jpg">
+  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-19T13:34:20.063702-04:00.jpg"
+     alt="New Republic at 2022-09-19 13:34:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-11T11:09:09.827966-04:00.jpg">September 11 at 11:09 AM</a></p>
+ <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-19T13:34:20.063702-04:00.jpg">September 19 at 1:34 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-10T23:53:57.729471-04:00.jpg">
-  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-10T23:53:57.729471-04:00.jpg"
-     alt="New Republic at 2022-09-10 23:54:02-04:00 local time"
+ <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-19T02:05:49.099524-04:00.jpg">
+  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-19T02:05:49.099524-04:00.jpg"
+     alt="New Republic at 2022-09-19 02:05:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-10T23:53:57.729471-04:00.jpg">September 10 at 11:54 PM</a></p>
+ <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-19T02:05:49.099524-04:00.jpg">September 19 at 2:05 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-10T14:32:04.069730-04:00.jpg">
-  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-10T14:32:04.069730-04:00.jpg"
-     alt="New Republic at 2022-09-10 14:32:05-04:00 local time"
+ <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-18T14:30:36.021751-04:00.jpg">
+  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-18T14:30:36.021751-04:00.jpg"
+     alt="New Republic at 2022-09-18 14:30:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-10T14:32:04.069730-04:00.jpg">September 10 at 2:32 PM</a></p>
+ <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-18T14:30:36.021751-04:00.jpg">September 18 at 2:30 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-10T11:07:56.800985-04:00.jpg">
-  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-10T11:07:56.800985-04:00.jpg"
-     alt="New Republic at 2022-09-10 11:07:58-04:00 local time"
+ <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-18T13:28:47.293977-04:00.jpg">
+  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-18T13:28:47.293977-04:00.jpg"
+     alt="New Republic at 2022-09-18 13:28:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-10T11:07:56.800985-04:00.jpg">September 10 at 11:07 AM</a></p>
+ <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-18T13:28:47.293977-04:00.jpg">September 18 at 1:28 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-09T23:54:46.516731-04:00.jpg">
-  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-09T23:54:46.516731-04:00.jpg"
-     alt="New Republic at 2022-09-09 23:54:48-04:00 local time"
+ <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-18T01:24:38.862001-04:00.jpg">
+  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-18T01:24:38.862001-04:00.jpg"
+     alt="New Republic at 2022-09-18 01:24:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-09T23:54:46.516731-04:00.jpg">September 9 at 11:54 PM</a></p>
+ <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-18T01:24:38.862001-04:00.jpg">September 18 at 1:24 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-09T14:33:27.670223-04:00.jpg">
-  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-09T14:33:27.670223-04:00.jpg"
-     alt="New Republic at 2022-09-09 14:33:36-04:00 local time"
+ <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-17T14:31:47.918352-04:00.jpg">
+  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-17T14:31:47.918352-04:00.jpg"
+     alt="New Republic at 2022-09-17 14:31:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-09T14:33:27.670223-04:00.jpg">September 9 at 2:33 PM</a></p>
+ <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-17T14:31:47.918352-04:00.jpg">September 17 at 2:31 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-09T12:28:34.084733-04:00.jpg">
-  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-09T12:28:34.084733-04:00.jpg"
-     alt="New Republic at 2022-09-09 12:28:39-04:00 local time"
+ <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-17T12:00:06.631806-04:00.jpg">
+  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-17T12:00:06.631806-04:00.jpg"
+     alt="New Republic at 2022-09-17 12:00:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-09T12:28:34.084733-04:00.jpg">September 9 at 12:28 PM</a></p>
+ <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-17T12:00:06.631806-04:00.jpg">September 17 at 12:00 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-09T00:50:48.230665-04:00.jpg">
-  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-09T00:50:48.230665-04:00.jpg"
-     alt="New Republic at 2022-09-09 00:50:55-04:00 local time"
+ <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-17T00:35:24.130940-04:00.jpg">
+  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-17T00:35:24.130940-04:00.jpg"
+     alt="New Republic at 2022-09-17 00:35:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-09T00:50:48.230665-04:00.jpg">September 9 at 12:50 AM</a></p>
+ <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-17T00:35:24.130940-04:00.jpg">September 17 at 12:35 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-08T11:33:56.889560-04:00.jpg">
-  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-08T11:33:56.889560-04:00.jpg"
-     alt="New Republic at 2022-09-08 11:34:02-04:00 local time"
+ <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-16T14:32:02.471022-04:00.jpg">
+  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-16T14:32:02.471022-04:00.jpg"
+     alt="New Republic at 2022-09-16 14:32:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-08T11:33:56.889560-04:00.jpg">September 8 at 11:34 AM</a></p>
+ <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-16T14:32:02.471022-04:00.jpg">September 16 at 2:32 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-07T23:54:28.716221-04:00.jpg">
-  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-07T23:54:28.716221-04:00.jpg"
-     alt="New Republic at 2022-09-07 23:54:31-04:00 local time"
+ <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-16T12:05:16.725206-04:00.jpg">
+  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-16T12:05:16.725206-04:00.jpg"
+     alt="New Republic at 2022-09-16 12:05:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-07T23:54:28.716221-04:00.jpg">September 7 at 11:54 PM</a></p>
+ <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-16T12:05:16.725206-04:00.jpg">September 16 at 12:05 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-07T11:51:13.510125-04:00.jpg">
-  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-07T11:51:13.510125-04:00.jpg"
-     alt="New Republic at 2022-09-07 11:51:18-04:00 local time"
+ <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-16T01:27:51.427597-04:00.jpg">
+  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-16T01:27:51.427597-04:00.jpg"
+     alt="New Republic at 2022-09-16 01:28:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-07T11:51:13.510125-04:00.jpg">September 7 at 11:51 AM</a></p>
+ <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-09-16T01:27:51.427597-04:00.jpg">September 16 at 1:28 AM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 151 hyperlink lists with the Internet Archive.
+The archiving routine has saved 174 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 2:30 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-11T14:30:51.040415-04:00.hyperlinks.json) |
-| [September 11 at 11:09 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-11T11:09:09.827966-04:00.hyperlinks.json) |
-| [September 10 at 11:54 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-10T23:53:57.729471-04:00.hyperlinks.json) |
-| [September 10 at 2:32 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-10T14:32:04.069730-04:00.hyperlinks.json) |
-| [September 10 at 11:08 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-10T11:07:56.800985-04:00.hyperlinks.json) |
-| [September 9 at 11:54 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-09T23:54:46.516731-04:00.hyperlinks.json) |
-| [September 9 at 2:33 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-09T14:33:27.670223-04:00.hyperlinks.json) |
-| [September 9 at 12:28 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-09T12:28:34.084733-04:00.hyperlinks.json) |
-| [September 9 at 12:50 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-09T00:50:48.230665-04:00.hyperlinks.json) |
-| [September 8 at 11:34 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-08T11:33:56.889560-04:00.hyperlinks.json) |
+| [September 19 at 2:34 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-19T14:33:55.499342-04:00.hyperlinks.json) |
+| [September 19 at 1:34 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-19T13:34:20.063702-04:00.hyperlinks.json) |
+| [September 19 at 2:05 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-19T02:05:49.099524-04:00.hyperlinks.json) |
+| [September 18 at 2:30 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-18T14:30:36.021751-04:00.hyperlinks.json) |
+| [September 18 at 1:28 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-18T13:28:47.293977-04:00.hyperlinks.json) |
+| [September 18 at 1:24 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-18T01:24:38.862001-04:00.hyperlinks.json) |
+| [September 17 at 2:32 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-17T14:31:47.918352-04:00.hyperlinks.json) |
+| [September 17 at 12:00 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-17T12:00:06.631806-04:00.hyperlinks.json) |
+| [September 17 at 12:35 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-17T00:35:24.130940-04:00.hyperlinks.json) |
+| [September 16 at 2:32 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-16T14:32:02.471022-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 151 accessibility trees with the Internet Archive.
+The archiving routine has saved 175 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 2:30 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-11T14:30:51.040415-04:00.accessibility.json) |
-| [September 11 at 11:09 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-11T11:09:09.827966-04:00.accessibility.json) |
-| [September 10 at 11:54 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-10T23:53:57.729471-04:00.accessibility.json) |
-| [September 10 at 2:32 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-10T14:32:04.069730-04:00.accessibility.json) |
-| [September 10 at 11:08 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-10T11:07:56.800985-04:00.accessibility.json) |
-| [September 9 at 11:54 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-09T23:54:46.516731-04:00.accessibility.json) |
-| [September 9 at 2:33 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-09T14:33:27.670223-04:00.accessibility.json) |
-| [September 9 at 12:28 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-09T12:28:34.084733-04:00.accessibility.json) |
-| [September 9 at 12:50 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-09T00:50:48.230665-04:00.accessibility.json) |
-| [September 8 at 11:34 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-08T11:33:56.889560-04:00.accessibility.json) |
+| [September 19 at 2:34 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-19T14:33:55.499342-04:00.accessibility.json) |
+| [September 19 at 1:34 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-19T13:34:20.063702-04:00.accessibility.json) |
+| [September 19 at 2:05 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-19T02:05:49.099524-04:00.accessibility.json) |
+| [September 18 at 2:30 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-18T14:30:36.021751-04:00.accessibility.json) |
+| [September 18 at 1:28 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-18T13:28:47.293977-04:00.accessibility.json) |
+| [September 18 at 1:24 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-18T01:24:38.862001-04:00.accessibility.json) |
+| [September 17 at 2:31 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-17T14:31:47.918352-04:00.accessibility.json) |
+| [September 17 at 12:00 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-17T12:00:06.631806-04:00.accessibility.json) |
+| [September 17 at 12:35 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-17T00:35:24.130940-04:00.accessibility.json) |
+| [September 16 at 2:32 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-16T14:32:02.471022-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 144 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 168 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 2:31 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-11T14:30:51.040415-04:00.lighthouse.json) |
-| [September 11 at 11:09 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-11T11:09:09.827966-04:00.lighthouse.json) |
-| [September 10 at 11:54 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-10T23:53:57.729471-04:00.lighthouse.json) |
-| [September 10 at 2:32 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-10T14:32:04.069730-04:00.lighthouse.json) |
-| [September 10 at 11:08 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-10T11:07:56.800985-04:00.lighthouse.json) |
-| [September 9 at 11:54 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-09T23:54:46.516731-04:00.lighthouse.json) |
-| [September 9 at 2:33 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-09T14:33:27.670223-04:00.lighthouse.json) |
-| [September 9 at 12:28 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-09T12:28:34.084733-04:00.lighthouse.json) |
-| [September 9 at 12:51 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-09T00:50:48.230665-04:00.lighthouse.json) |
-| [September 8 at 11:34 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-08T11:33:56.889560-04:00.lighthouse.json) |
+| [September 19 at 2:34 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-19T14:33:55.499342-04:00.lighthouse.json) |
+| [September 19 at 1:34 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-19T13:34:20.063702-04:00.lighthouse.json) |
+| [September 19 at 2:05 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-19T02:05:49.099524-04:00.lighthouse.json) |
+| [September 18 at 2:30 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-18T14:30:36.021751-04:00.lighthouse.json) |
+| [September 18 at 1:28 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-18T13:28:47.293977-04:00.lighthouse.json) |
+| [September 18 at 1:24 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-18T01:24:38.862001-04:00.lighthouse.json) |
+| [September 17 at 2:32 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-17T14:31:47.918352-04:00.lighthouse.json) |
+| [September 17 at 12:00 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-17T12:00:06.631806-04:00.lighthouse.json) |
+| [September 17 at 12:35 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-17T00:35:24.130940-04:00.lighthouse.json) |
+| [September 16 at 2:32 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-09-16T14:32:02.471022-04:00.lighthouse.json) |
 
 
 

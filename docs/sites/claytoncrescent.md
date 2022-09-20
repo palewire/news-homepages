@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 131 screenshots with the Internet Archive.
+The archiving routine has saved 147 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-11T06:55:58.533001-04:00.jpg">
-  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-11T06:55:58.533001-04:00.jpg"
-     alt="Clayton Crescent at 2022-09-11 06:56:15-04:00 local time"
+ <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-19T06:51:09.677639-04:00.jpg">
+  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-19T06:51:09.677639-04:00.jpg"
+     alt="Clayton Crescent at 2022-09-19 06:51:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-11T06:55:58.533001-04:00.jpg">September 11 at 6:56 AM</a></p>
+ <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-19T06:51:09.677639-04:00.jpg">September 19 at 6:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-10T19:08:44.701930-04:00.jpg">
-  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-10T19:08:44.701930-04:00.jpg"
-     alt="Clayton Crescent at 2022-09-10 19:08:46-04:00 local time"
+ <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-18T18:51:46.249420-04:00.jpg">
+  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-18T18:51:46.249420-04:00.jpg"
+     alt="Clayton Crescent at 2022-09-18 18:51:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-10T19:08:44.701930-04:00.jpg">September 10 at 7:08 PM</a></p>
+ <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-18T18:51:46.249420-04:00.jpg">September 18 at 6:51 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-10T06:55:50.738316-04:00.jpg">
-  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-10T06:55:50.738316-04:00.jpg"
-     alt="Clayton Crescent at 2022-09-10 06:55:57-04:00 local time"
+ <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-18T06:53:12.115036-04:00.jpg">
+  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-18T06:53:12.115036-04:00.jpg"
+     alt="Clayton Crescent at 2022-09-18 06:53:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-10T06:55:50.738316-04:00.jpg">September 10 at 6:55 AM</a></p>
+ <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-18T06:53:12.115036-04:00.jpg">September 18 at 6:53 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-09T19:06:58.265843-04:00.jpg">
-  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-09T19:06:58.265843-04:00.jpg"
-     alt="Clayton Crescent at 2022-09-09 19:07:02-04:00 local time"
+ <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-17T18:55:34.461429-04:00.jpg">
+  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-17T18:55:34.461429-04:00.jpg"
+     alt="Clayton Crescent at 2022-09-17 18:55:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-09T19:06:58.265843-04:00.jpg">September 9 at 7:07 PM</a></p>
+ <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-17T18:55:34.461429-04:00.jpg">September 17 at 6:55 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-09T07:06:20.130612-04:00.jpg">
-  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-09T07:06:20.130612-04:00.jpg"
-     alt="Clayton Crescent at 2022-09-09 07:06:21-04:00 local time"
+ <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-17T06:52:17.688807-04:00.jpg">
+  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-17T06:52:17.688807-04:00.jpg"
+     alt="Clayton Crescent at 2022-09-17 06:52:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-09T07:06:20.130612-04:00.jpg">September 9 at 7:06 AM</a></p>
+ <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-17T06:52:17.688807-04:00.jpg">September 17 at 6:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-08T19:59:37.747524-04:00.jpg">
-  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-08T19:59:37.747524-04:00.jpg"
-     alt="Clayton Crescent at 2022-09-08 19:59:39-04:00 local time"
+ <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-16T18:54:31.900108-04:00.jpg">
+  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-16T18:54:31.900108-04:00.jpg"
+     alt="Clayton Crescent at 2022-09-16 18:54:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-08T19:59:37.747524-04:00.jpg">September 8 at 7:59 PM</a></p>
+ <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-16T18:54:31.900108-04:00.jpg">September 16 at 6:54 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-08T07:04:59.242640-04:00.jpg">
-  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-08T07:04:59.242640-04:00.jpg"
-     alt="Clayton Crescent at 2022-09-08 07:05:00-04:00 local time"
+ <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-16T06:54:57.841804-04:00.jpg">
+  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-16T06:54:57.841804-04:00.jpg"
+     alt="Clayton Crescent at 2022-09-16 06:55:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-08T07:04:59.242640-04:00.jpg">September 8 at 7:05 AM</a></p>
+ <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-16T06:54:57.841804-04:00.jpg">September 16 at 6:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-07T19:00:53.995003-04:00.jpg">
-  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-07T19:00:53.995003-04:00.jpg"
-     alt="Clayton Crescent at 2022-09-07 19:01:00-04:00 local time"
+ <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-15T18:57:02.559217-04:00.jpg">
+  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-15T18:57:02.559217-04:00.jpg"
+     alt="Clayton Crescent at 2022-09-15 18:57:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-07T19:00:53.995003-04:00.jpg">September 7 at 7:01 PM</a></p>
+ <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-15T18:57:02.559217-04:00.jpg">September 15 at 6:57 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-07T08:15:26.492004-04:00.jpg">
-  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-07T08:15:26.492004-04:00.jpg"
-     alt="Clayton Crescent at 2022-09-07 08:15:28-04:00 local time"
+ <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-15T06:56:58.647440-04:00.jpg">
+  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-15T06:56:58.647440-04:00.jpg"
+     alt="Clayton Crescent at 2022-09-15 06:57:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-07T08:15:26.492004-04:00.jpg">September 7 at 8:15 AM</a></p>
+ <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-15T06:56:58.647440-04:00.jpg">September 15 at 6:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-06T19:08:41.392548-04:00.jpg">
-  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-06T19:08:41.392548-04:00.jpg"
-     alt="Clayton Crescent at 2022-09-06 19:08:42-04:00 local time"
+ <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-14T19:03:20.583805-04:00.jpg">
+  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-14T19:03:20.583805-04:00.jpg"
+     alt="Clayton Crescent at 2022-09-14 19:03:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-06T19:08:41.392548-04:00.jpg">September 6 at 7:08 PM</a></p>
+ <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-14T19:03:20.583805-04:00.jpg">September 14 at 7:03 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-06T06:56:37.129661-04:00.jpg">
-  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-06T06:56:37.129661-04:00.jpg"
-     alt="Clayton Crescent at 2022-09-06 06:56:38-04:00 local time"
+ <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-14T06:56:10.822703-04:00.jpg">
+  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-14T06:56:10.822703-04:00.jpg"
+     alt="Clayton Crescent at 2022-09-14 06:56:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-06T06:56:37.129661-04:00.jpg">September 6 at 6:56 AM</a></p>
+ <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-14T06:56:10.822703-04:00.jpg">September 14 at 6:56 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-05T19:03:07.976292-04:00.jpg">
-  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-05T19:03:07.976292-04:00.jpg"
-     alt="Clayton Crescent at 2022-09-05 19:03:09-04:00 local time"
+ <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-13T19:01:33.697418-04:00.jpg">
+  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-13T19:01:33.697418-04:00.jpg"
+     alt="Clayton Crescent at 2022-09-13 19:01:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-05T19:03:07.976292-04:00.jpg">September 5 at 7:03 PM</a></p>
+ <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-13T19:01:33.697418-04:00.jpg">September 13 at 7:01 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 131 hyperlink lists with the Internet Archive.
+The archiving routine has saved 147 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 6:56 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-11T06:55:58.533001-04:00.hyperlinks.json) |
-| [September 10 at 7:08 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-10T19:08:44.701930-04:00.hyperlinks.json) |
-| [September 10 at 6:56 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-10T06:55:50.738316-04:00.hyperlinks.json) |
-| [September 9 at 7:07 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-09T19:06:58.265843-04:00.hyperlinks.json) |
-| [September 9 at 7:06 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-09T07:06:20.130612-04:00.hyperlinks.json) |
-| [September 8 at 7:59 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-08T19:59:37.747524-04:00.hyperlinks.json) |
-| [September 8 at 7:05 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-08T07:04:59.242640-04:00.hyperlinks.json) |
-| [September 7 at 7:01 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-07T19:00:53.995003-04:00.hyperlinks.json) |
-| [September 7 at 8:15 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-07T08:15:26.492004-04:00.hyperlinks.json) |
-| [September 6 at 7:08 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-06T19:08:41.392548-04:00.hyperlinks.json) |
+| [September 19 at 6:51 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-19T06:51:09.677639-04:00.hyperlinks.json) |
+| [September 18 at 6:51 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-18T18:51:46.249420-04:00.hyperlinks.json) |
+| [September 18 at 6:53 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-18T06:53:12.115036-04:00.hyperlinks.json) |
+| [September 17 at 6:55 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-17T18:55:34.461429-04:00.hyperlinks.json) |
+| [September 17 at 6:52 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-17T06:52:17.688807-04:00.hyperlinks.json) |
+| [September 16 at 6:54 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-16T18:54:31.900108-04:00.hyperlinks.json) |
+| [September 16 at 6:55 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-16T06:54:57.841804-04:00.hyperlinks.json) |
+| [September 15 at 6:57 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-15T18:57:02.559217-04:00.hyperlinks.json) |
+| [September 15 at 6:57 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-15T06:56:58.647440-04:00.hyperlinks.json) |
+| [September 14 at 7:03 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-14T19:03:20.583805-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 131 accessibility trees with the Internet Archive.
+The archiving routine has saved 147 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 6:56 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-11T06:55:58.533001-04:00.accessibility.json) |
-| [September 10 at 7:08 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-10T19:08:44.701930-04:00.accessibility.json) |
-| [September 10 at 6:55 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-10T06:55:50.738316-04:00.accessibility.json) |
-| [September 9 at 7:07 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-09T19:06:58.265843-04:00.accessibility.json) |
-| [September 9 at 7:06 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-09T07:06:20.130612-04:00.accessibility.json) |
-| [September 8 at 7:59 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-08T19:59:37.747524-04:00.accessibility.json) |
-| [September 8 at 7:05 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-08T07:04:59.242640-04:00.accessibility.json) |
-| [September 7 at 7:01 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-07T19:00:53.995003-04:00.accessibility.json) |
-| [September 7 at 8:15 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-07T08:15:26.492004-04:00.accessibility.json) |
-| [September 6 at 7:08 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-06T19:08:41.392548-04:00.accessibility.json) |
+| [September 19 at 6:51 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-19T06:51:09.677639-04:00.accessibility.json) |
+| [September 18 at 6:51 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-18T18:51:46.249420-04:00.accessibility.json) |
+| [September 18 at 6:53 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-18T06:53:12.115036-04:00.accessibility.json) |
+| [September 17 at 6:55 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-17T18:55:34.461429-04:00.accessibility.json) |
+| [September 17 at 6:52 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-17T06:52:17.688807-04:00.accessibility.json) |
+| [September 16 at 6:54 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-16T18:54:31.900108-04:00.accessibility.json) |
+| [September 16 at 6:55 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-16T06:54:57.841804-04:00.accessibility.json) |
+| [September 15 at 6:57 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-15T18:57:02.559217-04:00.accessibility.json) |
+| [September 15 at 6:57 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-15T06:56:58.647440-04:00.accessibility.json) |
+| [September 14 at 7:03 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-14T19:03:20.583805-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 101 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 117 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 6:56 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-11T06:55:58.533001-04:00.lighthouse.json) |
-| [September 10 at 7:08 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-10T19:08:44.701930-04:00.lighthouse.json) |
-| [September 10 at 6:56 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-10T06:55:50.738316-04:00.lighthouse.json) |
-| [September 9 at 7:07 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-09T19:06:58.265843-04:00.lighthouse.json) |
-| [September 9 at 7:06 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-09T07:06:20.130612-04:00.lighthouse.json) |
-| [September 8 at 7:59 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-08T19:59:37.747524-04:00.lighthouse.json) |
-| [September 8 at 7:05 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-08T07:04:59.242640-04:00.lighthouse.json) |
-| [September 7 at 7:01 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-07T19:00:53.995003-04:00.lighthouse.json) |
-| [September 7 at 8:15 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-07T08:15:26.492004-04:00.lighthouse.json) |
-| [September 6 at 7:08 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-06T19:08:41.392548-04:00.lighthouse.json) |
+| [September 19 at 6:51 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-19T06:51:09.677639-04:00.lighthouse.json) |
+| [September 18 at 6:51 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-18T18:51:46.249420-04:00.lighthouse.json) |
+| [September 18 at 6:53 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-18T06:53:12.115036-04:00.lighthouse.json) |
+| [September 17 at 6:55 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-17T18:55:34.461429-04:00.lighthouse.json) |
+| [September 17 at 6:52 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-17T06:52:17.688807-04:00.lighthouse.json) |
+| [September 16 at 6:54 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-16T18:54:31.900108-04:00.lighthouse.json) |
+| [September 16 at 6:55 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-16T06:54:57.841804-04:00.lighthouse.json) |
+| [September 15 at 6:57 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-15T18:57:02.559217-04:00.lighthouse.json) |
+| [September 15 at 6:57 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-15T06:56:58.647440-04:00.lighthouse.json) |
+| [September 14 at 7:03 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-09-14T19:03:20.583805-04:00.lighthouse.json) |
 
 
 

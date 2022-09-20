@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 85 screenshots with the Internet Archive.
+The archiving routine has saved 103 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-10T19:17:54.387693-05:00.jpg">
-  <img src="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-10T19:17:54.387693-05:00.jpg"
-     alt="News Channel Nebraska at 2022-09-10 19:17:57-05:00 local time"
+ <a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-19T07:57:48.261694-05:00.jpg">
+  <img src="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-19T07:57:48.261694-05:00.jpg"
+     alt="News Channel Nebraska at 2022-09-19 07:57:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-10T19:17:54.387693-05:00.jpg">September 10 at 7:17 PM</a></p>
+ <p><a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-19T07:57:48.261694-05:00.jpg">September 19 at 7:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-10T07:03:21.256298-05:00.jpg">
-  <img src="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-10T07:03:21.256298-05:00.jpg"
-     alt="News Channel Nebraska at 2022-09-10 07:03:22-05:00 local time"
+ <a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-18T20:12:54.723825-05:00.jpg">
+  <img src="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-18T20:12:54.723825-05:00.jpg"
+     alt="News Channel Nebraska at 2022-09-18 20:13:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-10T07:03:21.256298-05:00.jpg">September 10 at 7:03 AM</a></p>
+ <p><a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-18T20:12:54.723825-05:00.jpg">September 18 at 8:13 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-09T19:09:52.875160-05:00.jpg">
-  <img src="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-09T19:09:52.875160-05:00.jpg"
-     alt="News Channel Nebraska at 2022-09-09 19:10:06-05:00 local time"
+ <a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-18T07:59:27.624986-05:00.jpg">
+  <img src="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-18T07:59:27.624986-05:00.jpg"
+     alt="News Channel Nebraska at 2022-09-18 07:59:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-09T19:09:52.875160-05:00.jpg">September 9 at 7:10 PM</a></p>
+ <p><a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-18T07:59:27.624986-05:00.jpg">September 18 at 7:59 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-09T07:19:57.484551-05:00.jpg">
-  <img src="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-09T07:19:57.484551-05:00.jpg"
-     alt="News Channel Nebraska at 2022-09-09 07:20:04-05:00 local time"
+ <a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-17T20:20:05.653047-05:00.jpg">
+  <img src="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-17T20:20:05.653047-05:00.jpg"
+     alt="News Channel Nebraska at 2022-09-17 20:20:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-09T07:19:57.484551-05:00.jpg">September 9 at 7:20 AM</a></p>
+ <p><a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-17T20:20:05.653047-05:00.jpg">September 17 at 8:20 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-08T19:10:17.345154-05:00.jpg">
-  <img src="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-08T19:10:17.345154-05:00.jpg"
-     alt="News Channel Nebraska at 2022-09-08 19:10:20-05:00 local time"
+ <a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-17T07:57:53.576456-05:00.jpg">
+  <img src="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-17T07:57:53.576456-05:00.jpg"
+     alt="News Channel Nebraska at 2022-09-17 07:57:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-08T19:10:17.345154-05:00.jpg">September 8 at 7:10 PM</a></p>
+ <p><a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-17T07:57:53.576456-05:00.jpg">September 17 at 7:57 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-08T07:27:00.891925-05:00.jpg">
-  <img src="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-08T07:27:00.891925-05:00.jpg"
-     alt="News Channel Nebraska at 2022-09-08 07:27:05-05:00 local time"
+ <a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-16T20:13:24.717978-05:00.jpg">
+  <img src="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-16T20:13:24.717978-05:00.jpg"
+     alt="News Channel Nebraska at 2022-09-16 20:13:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-08T07:27:00.891925-05:00.jpg">September 8 at 7:27 AM</a></p>
+ <p><a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-16T20:13:24.717978-05:00.jpg">September 16 at 8:13 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-07T18:59:38.499363-05:00.jpg">
-  <img src="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-07T18:59:38.499363-05:00.jpg"
-     alt="News Channel Nebraska at 2022-09-07 18:59:40-05:00 local time"
+ <a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-16T08:00:19.745125-05:00.jpg">
+  <img src="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-16T08:00:19.745125-05:00.jpg"
+     alt="News Channel Nebraska at 2022-09-16 08:00:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-07T18:59:38.499363-05:00.jpg">September 7 at 6:59 PM</a></p>
+ <p><a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-16T08:00:19.745125-05:00.jpg">September 16 at 8:00 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-07T07:44:33.046844-05:00.jpg">
-  <img src="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-07T07:44:33.046844-05:00.jpg"
-     alt="News Channel Nebraska at 2022-09-07 07:44:35-05:00 local time"
+ <a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-15T20:16:34.797065-05:00.jpg">
+  <img src="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-15T20:16:34.797065-05:00.jpg"
+     alt="News Channel Nebraska at 2022-09-15 20:16:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-07T07:44:33.046844-05:00.jpg">September 7 at 7:44 AM</a></p>
+ <p><a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-15T20:16:34.797065-05:00.jpg">September 15 at 8:16 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-06T19:16:05.520812-05:00.jpg">
-  <img src="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-06T19:16:05.520812-05:00.jpg"
-     alt="News Channel Nebraska at 2022-09-06 19:16:13-05:00 local time"
+ <a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-15T08:02:40.679870-05:00.jpg">
+  <img src="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-15T08:02:40.679870-05:00.jpg"
+     alt="News Channel Nebraska at 2022-09-15 08:02:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-06T19:16:05.520812-05:00.jpg">September 6 at 7:16 PM</a></p>
+ <p><a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-15T08:02:40.679870-05:00.jpg">September 15 at 8:02 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-05T19:01:20.720999-05:00.jpg">
-  <img src="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-05T19:01:20.720999-05:00.jpg"
-     alt="News Channel Nebraska at 2022-09-05 19:01:24-05:00 local time"
+ <a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-14T20:19:57.354355-05:00.jpg">
+  <img src="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-14T20:19:57.354355-05:00.jpg"
+     alt="News Channel Nebraska at 2022-09-14 20:20:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-05T19:01:20.720999-05:00.jpg">September 5 at 7:01 PM</a></p>
+ <p><a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-14T20:19:57.354355-05:00.jpg">September 14 at 8:20 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-04T18:58:06.027049-05:00.jpg">
-  <img src="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-04T18:58:06.027049-05:00.jpg"
-     alt="News Channel Nebraska at 2022-09-04 18:58:10-05:00 local time"
+ <a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-14T08:07:17.179372-05:00.jpg">
+  <img src="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-14T08:07:17.179372-05:00.jpg"
+     alt="News Channel Nebraska at 2022-09-14 08:07:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-04T18:58:06.027049-05:00.jpg">September 4 at 6:58 PM</a></p>
+ <p><a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-14T08:07:17.179372-05:00.jpg">September 14 at 8:07 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-04T07:00:17.237301-05:00.jpg">
-  <img src="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-04T07:00:17.237301-05:00.jpg"
-     alt="News Channel Nebraska at 2022-09-04 07:00:24-05:00 local time"
+ <a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-13T20:22:30.763624-05:00.jpg">
+  <img src="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-13T20:22:30.763624-05:00.jpg"
+     alt="News Channel Nebraska at 2022-09-13 20:22:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-04T07:00:17.237301-05:00.jpg">September 4 at 7:00 AM</a></p>
+ <p><a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-09-13T20:22:30.763624-05:00.jpg">September 13 at 8:22 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 83 hyperlink lists with the Internet Archive.
+The archiving routine has saved 101 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 10 at 7:18 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-10T19:17:54.387693-05:00.hyperlinks.json) |
-| [September 10 at 7:03 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-10T07:03:21.256298-05:00.hyperlinks.json) |
-| [September 9 at 7:10 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-09T19:09:52.875160-05:00.hyperlinks.json) |
-| [September 9 at 7:20 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-09T07:19:57.484551-05:00.hyperlinks.json) |
-| [September 8 at 7:10 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-08T19:10:17.345154-05:00.hyperlinks.json) |
-| [September 8 at 7:27 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-08T07:27:00.891925-05:00.hyperlinks.json) |
-| [September 7 at 6:59 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-07T18:59:38.499363-05:00.hyperlinks.json) |
-| [September 7 at 7:44 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-07T07:44:33.046844-05:00.hyperlinks.json) |
-| [September 6 at 7:16 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-06T19:16:05.520812-05:00.hyperlinks.json) |
-| [September 5 at 7:01 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-05T19:01:20.720999-05:00.hyperlinks.json) |
+| [September 19 at 7:57 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-19T07:57:48.261694-05:00.hyperlinks.json) |
+| [September 18 at 8:13 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-18T20:12:54.723825-05:00.hyperlinks.json) |
+| [September 18 at 7:59 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-18T07:59:27.624986-05:00.hyperlinks.json) |
+| [September 17 at 8:20 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-17T20:20:05.653047-05:00.hyperlinks.json) |
+| [September 17 at 7:58 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-17T07:57:53.576456-05:00.hyperlinks.json) |
+| [September 16 at 8:13 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-16T20:13:24.717978-05:00.hyperlinks.json) |
+| [September 16 at 8:00 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-16T08:00:19.745125-05:00.hyperlinks.json) |
+| [September 15 at 8:16 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-15T20:16:34.797065-05:00.hyperlinks.json) |
+| [September 15 at 8:02 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-15T08:02:40.679870-05:00.hyperlinks.json) |
+| [September 14 at 8:20 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-14T20:19:57.354355-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 82 accessibility trees with the Internet Archive.
+The archiving routine has saved 100 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 10 at 7:17 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-10T19:17:54.387693-05:00.accessibility.json) |
-| [September 10 at 7:03 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-10T07:03:21.256298-05:00.accessibility.json) |
-| [September 9 at 7:10 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-09T19:09:52.875160-05:00.accessibility.json) |
-| [September 9 at 7:20 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-09T07:19:57.484551-05:00.accessibility.json) |
-| [September 8 at 7:10 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-08T19:10:17.345154-05:00.accessibility.json) |
-| [September 8 at 7:27 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-08T07:27:00.891925-05:00.accessibility.json) |
-| [September 7 at 6:59 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-07T18:59:38.499363-05:00.accessibility.json) |
-| [September 7 at 7:44 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-07T07:44:33.046844-05:00.accessibility.json) |
-| [September 6 at 7:16 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-06T19:16:05.520812-05:00.accessibility.json) |
-| [September 5 at 7:01 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-05T19:01:20.720999-05:00.accessibility.json) |
+| [September 19 at 7:57 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-19T07:57:48.261694-05:00.accessibility.json) |
+| [September 18 at 8:13 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-18T20:12:54.723825-05:00.accessibility.json) |
+| [September 18 at 7:59 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-18T07:59:27.624986-05:00.accessibility.json) |
+| [September 17 at 8:20 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-17T20:20:05.653047-05:00.accessibility.json) |
+| [September 17 at 7:58 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-17T07:57:53.576456-05:00.accessibility.json) |
+| [September 16 at 8:13 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-16T20:13:24.717978-05:00.accessibility.json) |
+| [September 16 at 8:00 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-16T08:00:19.745125-05:00.accessibility.json) |
+| [September 15 at 8:16 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-15T20:16:34.797065-05:00.accessibility.json) |
+| [September 15 at 8:02 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-15T08:02:40.679870-05:00.accessibility.json) |
+| [September 14 at 8:20 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-14T20:19:57.354355-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 80 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 10 at 7:18 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-10T19:17:54.387693-05:00.lighthouse.json) |
-| [September 10 at 7:03 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-10T07:03:21.256298-05:00.lighthouse.json) |
-| [September 9 at 7:10 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-09T19:09:52.875160-05:00.lighthouse.json) |
-| [September 9 at 7:20 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-09T07:19:57.484551-05:00.lighthouse.json) |
-| [September 8 at 7:10 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-08T19:10:17.345154-05:00.lighthouse.json) |
-| [September 8 at 7:27 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-08T07:27:00.891925-05:00.lighthouse.json) |
-| [September 7 at 6:59 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-07T18:59:38.499363-05:00.lighthouse.json) |
-| [September 7 at 7:44 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-07T07:44:33.046844-05:00.lighthouse.json) |
-| [September 6 at 7:16 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-06T19:16:05.520812-05:00.lighthouse.json) |
-| [September 5 at 7:01 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-05T19:01:20.720999-05:00.lighthouse.json) |
+| [September 19 at 7:57 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-19T07:57:48.261694-05:00.lighthouse.json) |
+| [September 18 at 8:13 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-18T20:12:54.723825-05:00.lighthouse.json) |
+| [September 18 at 7:59 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-18T07:59:27.624986-05:00.lighthouse.json) |
+| [September 17 at 8:20 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-17T20:20:05.653047-05:00.lighthouse.json) |
+| [September 17 at 7:58 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-17T07:57:53.576456-05:00.lighthouse.json) |
+| [September 16 at 8:13 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-16T20:13:24.717978-05:00.lighthouse.json) |
+| [September 16 at 8:00 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-16T08:00:19.745125-05:00.lighthouse.json) |
+| [September 15 at 8:16 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-15T20:16:34.797065-05:00.lighthouse.json) |
+| [September 15 at 8:02 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-15T08:02:40.679870-05:00.lighthouse.json) |
+| [September 14 at 8:20 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-09-14T20:19:57.354355-05:00.lighthouse.json) |
 
 
 

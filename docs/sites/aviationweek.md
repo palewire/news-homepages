@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 45 screenshots with the Internet Archive.
+The archiving routine has saved 61 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-11T06:54:15.185088-04:00.jpg">
-  <img src="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-11T06:54:15.185088-04:00.jpg"
-     alt="Aviation Week at 2022-09-11 06:54:18-04:00 local time"
+ <a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-19T06:49:07.291580-04:00.jpg">
+  <img src="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-19T06:49:07.291580-04:00.jpg"
+     alt="Aviation Week at 2022-09-19 06:49:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-11T06:54:15.185088-04:00.jpg">September 11 at 6:54 AM</a></p>
+ <p><a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-19T06:49:07.291580-04:00.jpg">September 19 at 6:49 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-10T19:05:49.981131-04:00.jpg">
-  <img src="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-10T19:05:49.981131-04:00.jpg"
-     alt="Aviation Week at 2022-09-10 19:05:53-04:00 local time"
+ <a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-18T18:50:01.581264-04:00.jpg">
+  <img src="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-18T18:50:01.581264-04:00.jpg"
+     alt="Aviation Week at 2022-09-18 18:50:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-10T19:05:49.981131-04:00.jpg">September 10 at 7:05 PM</a></p>
+ <p><a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-18T18:50:01.581264-04:00.jpg">September 18 at 6:50 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-10T06:53:42.583906-04:00.jpg">
-  <img src="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-10T06:53:42.583906-04:00.jpg"
-     alt="Aviation Week at 2022-09-10 06:53:46-04:00 local time"
+ <a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-18T06:51:10.485198-04:00.jpg">
+  <img src="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-18T06:51:10.485198-04:00.jpg"
+     alt="Aviation Week at 2022-09-18 06:51:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-10T06:53:42.583906-04:00.jpg">September 10 at 6:53 AM</a></p>
+ <p><a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-18T06:51:10.485198-04:00.jpg">September 18 at 6:51 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-09T19:04:19.322466-04:00.jpg">
-  <img src="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-09T19:04:19.322466-04:00.jpg"
-     alt="Aviation Week at 2022-09-09 19:04:23-04:00 local time"
+ <a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-17T18:53:20.451383-04:00.jpg">
+  <img src="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-17T18:53:20.451383-04:00.jpg"
+     alt="Aviation Week at 2022-09-17 18:53:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-09T19:04:19.322466-04:00.jpg">September 9 at 7:04 PM</a></p>
+ <p><a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-17T18:53:20.451383-04:00.jpg">September 17 at 6:53 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-09T07:04:56.026952-04:00.jpg">
-  <img src="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-09T07:04:56.026952-04:00.jpg"
-     alt="Aviation Week at 2022-09-09 07:04:58-04:00 local time"
+ <a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-17T06:49:48.328887-04:00.jpg">
+  <img src="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-17T06:49:48.328887-04:00.jpg"
+     alt="Aviation Week at 2022-09-17 06:49:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-09T07:04:56.026952-04:00.jpg">September 9 at 7:04 AM</a></p>
+ <p><a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-17T06:49:48.328887-04:00.jpg">September 17 at 6:49 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-08T19:57:04.052046-04:00.jpg">
-  <img src="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-08T19:57:04.052046-04:00.jpg"
-     alt="Aviation Week at 2022-09-08 19:57:09-04:00 local time"
+ <a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-16T18:52:40.803643-04:00.jpg">
+  <img src="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-16T18:52:40.803643-04:00.jpg"
+     alt="Aviation Week at 2022-09-16 18:52:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-08T19:57:04.052046-04:00.jpg">September 8 at 7:57 PM</a></p>
+ <p><a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-16T18:52:40.803643-04:00.jpg">September 16 at 6:52 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-08T07:02:03.907234-04:00.jpg">
-  <img src="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-08T07:02:03.907234-04:00.jpg"
-     alt="Aviation Week at 2022-09-08 07:02:06-04:00 local time"
+ <a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-16T06:52:47.505972-04:00.jpg">
+  <img src="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-16T06:52:47.505972-04:00.jpg"
+     alt="Aviation Week at 2022-09-16 06:52:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-08T07:02:03.907234-04:00.jpg">September 8 at 7:02 AM</a></p>
+ <p><a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-16T06:52:47.505972-04:00.jpg">September 16 at 6:52 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-07T18:59:24.314044-04:00.jpg">
-  <img src="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-07T18:59:24.314044-04:00.jpg"
-     alt="Aviation Week at 2022-09-07 18:59:26-04:00 local time"
+ <a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-15T18:55:45.480637-04:00.jpg">
+  <img src="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-15T18:55:45.480637-04:00.jpg"
+     alt="Aviation Week at 2022-09-15 18:55:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-07T18:59:24.314044-04:00.jpg">September 7 at 6:59 PM</a></p>
+ <p><a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-15T18:55:45.480637-04:00.jpg">September 15 at 6:55 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-07T08:10:38.798692-04:00.jpg">
-  <img src="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-07T08:10:38.798692-04:00.jpg"
-     alt="Aviation Week at 2022-09-07 08:10:41-04:00 local time"
+ <a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-15T06:55:07.153112-04:00.jpg">
+  <img src="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-15T06:55:07.153112-04:00.jpg"
+     alt="Aviation Week at 2022-09-15 06:55:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-07T08:10:38.798692-04:00.jpg">September 7 at 8:10 AM</a></p>
+ <p><a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-15T06:55:07.153112-04:00.jpg">September 15 at 6:55 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-06T19:06:15.931674-04:00.jpg">
-  <img src="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-06T19:06:15.931674-04:00.jpg"
-     alt="Aviation Week at 2022-09-06 19:06:17-04:00 local time"
+ <a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-14T19:01:21.498571-04:00.jpg">
+  <img src="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-14T19:01:21.498571-04:00.jpg"
+     alt="Aviation Week at 2022-09-14 19:01:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-06T19:06:15.931674-04:00.jpg">September 6 at 7:06 PM</a></p>
+ <p><a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-14T19:01:21.498571-04:00.jpg">September 14 at 7:01 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-06T06:55:01.821137-04:00.jpg">
-  <img src="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-06T06:55:01.821137-04:00.jpg"
-     alt="Aviation Week at 2022-09-06 06:55:05-04:00 local time"
+ <a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-14T06:54:19.902570-04:00.jpg">
+  <img src="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-14T06:54:19.902570-04:00.jpg"
+     alt="Aviation Week at 2022-09-14 06:54:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-06T06:55:01.821137-04:00.jpg">September 6 at 6:55 AM</a></p>
+ <p><a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-14T06:54:19.902570-04:00.jpg">September 14 at 6:54 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-05T19:00:15.639614-04:00.jpg">
-  <img src="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-05T19:00:15.639614-04:00.jpg"
-     alt="Aviation Week at 2022-09-05 19:00:18-04:00 local time"
+ <a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-13T19:00:03.753203-04:00.jpg">
+  <img src="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-13T19:00:03.753203-04:00.jpg"
+     alt="Aviation Week at 2022-09-13 19:00:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-05T19:00:15.639614-04:00.jpg">September 5 at 7:00 PM</a></p>
+ <p><a href="https://archive.org/download/aviationweek-2022/aviationweek-2022-09-13T19:00:03.753203-04:00.jpg">September 13 at 7:00 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 45 hyperlink lists with the Internet Archive.
+The archiving routine has saved 61 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 6:54 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-11T06:54:15.185088-04:00.hyperlinks.json) |
-| [September 10 at 7:05 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-10T19:05:49.981131-04:00.hyperlinks.json) |
-| [September 10 at 6:53 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-10T06:53:42.583906-04:00.hyperlinks.json) |
-| [September 9 at 7:04 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-09T19:04:19.322466-04:00.hyperlinks.json) |
-| [September 9 at 7:05 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-09T07:04:56.026952-04:00.hyperlinks.json) |
-| [September 8 at 7:57 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-08T19:57:04.052046-04:00.hyperlinks.json) |
-| [September 8 at 7:02 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-08T07:02:03.907234-04:00.hyperlinks.json) |
-| [September 7 at 6:59 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-07T18:59:24.314044-04:00.hyperlinks.json) |
-| [September 7 at 8:10 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-07T08:10:38.798692-04:00.hyperlinks.json) |
-| [September 6 at 7:06 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-06T19:06:15.931674-04:00.hyperlinks.json) |
+| [September 19 at 6:49 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-19T06:49:07.291580-04:00.hyperlinks.json) |
+| [September 18 at 6:50 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-18T18:50:01.581264-04:00.hyperlinks.json) |
+| [September 18 at 6:51 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-18T06:51:10.485198-04:00.hyperlinks.json) |
+| [September 17 at 6:53 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-17T18:53:20.451383-04:00.hyperlinks.json) |
+| [September 17 at 6:49 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-17T06:49:48.328887-04:00.hyperlinks.json) |
+| [September 16 at 6:52 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-16T18:52:40.803643-04:00.hyperlinks.json) |
+| [September 16 at 6:52 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-16T06:52:47.505972-04:00.hyperlinks.json) |
+| [September 15 at 6:55 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-15T18:55:45.480637-04:00.hyperlinks.json) |
+| [September 15 at 6:55 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-15T06:55:07.153112-04:00.hyperlinks.json) |
+| [September 14 at 7:01 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-14T19:01:21.498571-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 45 accessibility trees with the Internet Archive.
+The archiving routine has saved 61 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 6:54 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-11T06:54:15.185088-04:00.accessibility.json) |
-| [September 10 at 7:05 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-10T19:05:49.981131-04:00.accessibility.json) |
-| [September 10 at 6:53 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-10T06:53:42.583906-04:00.accessibility.json) |
-| [September 9 at 7:04 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-09T19:04:19.322466-04:00.accessibility.json) |
-| [September 9 at 7:04 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-09T07:04:56.026952-04:00.accessibility.json) |
-| [September 8 at 7:57 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-08T19:57:04.052046-04:00.accessibility.json) |
-| [September 8 at 7:02 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-08T07:02:03.907234-04:00.accessibility.json) |
-| [September 7 at 6:59 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-07T18:59:24.314044-04:00.accessibility.json) |
-| [September 7 at 8:10 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-07T08:10:38.798692-04:00.accessibility.json) |
-| [September 6 at 7:06 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-06T19:06:15.931674-04:00.accessibility.json) |
+| [September 19 at 6:49 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-19T06:49:07.291580-04:00.accessibility.json) |
+| [September 18 at 6:50 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-18T18:50:01.581264-04:00.accessibility.json) |
+| [September 18 at 6:51 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-18T06:51:10.485198-04:00.accessibility.json) |
+| [September 17 at 6:53 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-17T18:53:20.451383-04:00.accessibility.json) |
+| [September 17 at 6:49 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-17T06:49:48.328887-04:00.accessibility.json) |
+| [September 16 at 6:52 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-16T18:52:40.803643-04:00.accessibility.json) |
+| [September 16 at 6:52 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-16T06:52:47.505972-04:00.accessibility.json) |
+| [September 15 at 6:55 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-15T18:55:45.480637-04:00.accessibility.json) |
+| [September 15 at 6:55 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-15T06:55:07.153112-04:00.accessibility.json) |
+| [September 14 at 7:01 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-14T19:01:21.498571-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 61 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 6:54 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-11T06:54:15.185088-04:00.lighthouse.json) |
-| [September 10 at 7:05 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-10T19:05:49.981131-04:00.lighthouse.json) |
-| [September 10 at 6:53 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-10T06:53:42.583906-04:00.lighthouse.json) |
-| [September 9 at 7:04 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-09T19:04:19.322466-04:00.lighthouse.json) |
-| [September 9 at 7:05 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-09T07:04:56.026952-04:00.lighthouse.json) |
-| [September 8 at 7:57 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-08T19:57:04.052046-04:00.lighthouse.json) |
-| [September 8 at 7:02 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-08T07:02:03.907234-04:00.lighthouse.json) |
-| [September 7 at 6:59 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-07T18:59:24.314044-04:00.lighthouse.json) |
-| [September 7 at 8:10 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-07T08:10:38.798692-04:00.lighthouse.json) |
-| [September 6 at 7:06 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-06T19:06:15.931674-04:00.lighthouse.json) |
+| [September 19 at 6:49 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-19T06:49:07.291580-04:00.lighthouse.json) |
+| [September 18 at 6:50 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-18T18:50:01.581264-04:00.lighthouse.json) |
+| [September 18 at 6:51 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-18T06:51:10.485198-04:00.lighthouse.json) |
+| [September 17 at 6:53 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-17T18:53:20.451383-04:00.lighthouse.json) |
+| [September 17 at 6:49 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-17T06:49:48.328887-04:00.lighthouse.json) |
+| [September 16 at 6:52 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-16T18:52:40.803643-04:00.lighthouse.json) |
+| [September 16 at 6:52 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-16T06:52:47.505972-04:00.lighthouse.json) |
+| [September 15 at 6:55 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-15T18:55:45.480637-04:00.lighthouse.json) |
+| [September 15 at 6:55 AM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-15T06:55:07.153112-04:00.lighthouse.json) |
+| [September 14 at 7:01 PM](https://archive.org/download/aviationweek-2022/aviationweek-2022-09-14T19:01:21.498571-04:00.lighthouse.json) |
 
 
 

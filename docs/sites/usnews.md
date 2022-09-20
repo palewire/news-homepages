@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 100 screenshots with the Internet Archive.
+The archiving routine has saved 116 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -120,118 +120,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/usnews-2022/usnews-2022-09-11T09:08:28.675767-04:00.jpg">
-  <img src="https://archive.org/download/usnews-2022/usnews-2022-09-11T09:08:28.675767-04:00.jpg"
-     alt="U.S. News & World Report at 2022-09-11 09:08:30-04:00 local time"
+ <a href="https://archive.org/download/usnews-2022/usnews-2022-09-19T10:09:16.994576-04:00.jpg">
+  <img src="https://archive.org/download/usnews-2022/usnews-2022-09-19T10:09:16.994576-04:00.jpg"
+     alt="U.S. News & World Report at 2022-09-19 10:09:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usnews-2022/usnews-2022-09-11T09:08:28.675767-04:00.jpg">September 11 at 9:08 AM</a></p>
+ <p><a href="https://archive.org/download/usnews-2022/usnews-2022-09-19T10:09:16.994576-04:00.jpg">September 19 at 10:09 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/usnews-2022/usnews-2022-09-10T21:26:12.531243-04:00.jpg">
-  <img src="https://archive.org/download/usnews-2022/usnews-2022-09-10T21:26:12.531243-04:00.jpg"
-     alt="U.S. News & World Report at 2022-09-10 21:26:17-04:00 local time"
+ <a href="https://archive.org/download/usnews-2022/usnews-2022-09-18T22:22:35.485342-04:00.jpg">
+  <img src="https://archive.org/download/usnews-2022/usnews-2022-09-18T22:22:35.485342-04:00.jpg"
+     alt="U.S. News & World Report at 2022-09-18 22:22:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usnews-2022/usnews-2022-09-10T21:26:12.531243-04:00.jpg">September 10 at 9:26 PM</a></p>
+ <p><a href="https://archive.org/download/usnews-2022/usnews-2022-09-18T22:22:35.485342-04:00.jpg">September 18 at 10:22 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/usnews-2022/usnews-2022-09-10T09:11:57.950810-04:00.jpg">
-  <img src="https://archive.org/download/usnews-2022/usnews-2022-09-10T09:11:57.950810-04:00.jpg"
-     alt="U.S. News & World Report at 2022-09-10 09:12:15-04:00 local time"
+ <a href="https://archive.org/download/usnews-2022/usnews-2022-09-18T10:03:05.907726-04:00.jpg">
+  <img src="https://archive.org/download/usnews-2022/usnews-2022-09-18T10:03:05.907726-04:00.jpg"
+     alt="U.S. News & World Report at 2022-09-18 10:03:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usnews-2022/usnews-2022-09-10T09:11:57.950810-04:00.jpg">September 10 at 9:12 AM</a></p>
+ <p><a href="https://archive.org/download/usnews-2022/usnews-2022-09-18T10:03:05.907726-04:00.jpg">September 18 at 10:03 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/usnews-2022/usnews-2022-09-09T21:30:11.330137-04:00.jpg">
-  <img src="https://archive.org/download/usnews-2022/usnews-2022-09-09T21:30:11.330137-04:00.jpg"
-     alt="U.S. News & World Report at 2022-09-09 21:30:17-04:00 local time"
+ <a href="https://archive.org/download/usnews-2022/usnews-2022-09-17T22:29:27.015172-04:00.jpg">
+  <img src="https://archive.org/download/usnews-2022/usnews-2022-09-17T22:29:27.015172-04:00.jpg"
+     alt="U.S. News & World Report at 2022-09-17 22:29:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usnews-2022/usnews-2022-09-09T21:30:11.330137-04:00.jpg">September 9 at 9:30 PM</a></p>
+ <p><a href="https://archive.org/download/usnews-2022/usnews-2022-09-17T22:29:27.015172-04:00.jpg">September 17 at 10:29 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/usnews-2022/usnews-2022-09-09T09:28:36.285120-04:00.jpg">
-  <img src="https://archive.org/download/usnews-2022/usnews-2022-09-09T09:28:36.285120-04:00.jpg"
-     alt="U.S. News & World Report at 2022-09-09 09:28:37-04:00 local time"
+ <a href="https://archive.org/download/usnews-2022/usnews-2022-09-17T10:01:13.130663-04:00.jpg">
+  <img src="https://archive.org/download/usnews-2022/usnews-2022-09-17T10:01:13.130663-04:00.jpg"
+     alt="U.S. News & World Report at 2022-09-17 10:01:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usnews-2022/usnews-2022-09-09T09:28:36.285120-04:00.jpg">September 9 at 9:28 AM</a></p>
+ <p><a href="https://archive.org/download/usnews-2022/usnews-2022-09-17T10:01:13.130663-04:00.jpg">September 17 at 10:01 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/usnews-2022/usnews-2022-09-08T21:30:56.466032-04:00.jpg">
-  <img src="https://archive.org/download/usnews-2022/usnews-2022-09-08T21:30:56.466032-04:00.jpg"
-     alt="U.S. News & World Report at 2022-09-08 21:31:05-04:00 local time"
+ <a href="https://archive.org/download/usnews-2022/usnews-2022-09-16T22:26:45.752683-04:00.jpg">
+  <img src="https://archive.org/download/usnews-2022/usnews-2022-09-16T22:26:45.752683-04:00.jpg"
+     alt="U.S. News & World Report at 2022-09-16 22:26:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usnews-2022/usnews-2022-09-08T21:30:56.466032-04:00.jpg">September 8 at 9:31 PM</a></p>
+ <p><a href="https://archive.org/download/usnews-2022/usnews-2022-09-16T22:26:45.752683-04:00.jpg">September 16 at 10:26 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/usnews-2022/usnews-2022-09-08T09:19:48.849215-04:00.jpg">
-  <img src="https://archive.org/download/usnews-2022/usnews-2022-09-08T09:19:48.849215-04:00.jpg"
-     alt="U.S. News & World Report at 2022-09-08 09:19:57-04:00 local time"
+ <a href="https://archive.org/download/usnews-2022/usnews-2022-09-16T10:07:57.306371-04:00.jpg">
+  <img src="https://archive.org/download/usnews-2022/usnews-2022-09-16T10:07:57.306371-04:00.jpg"
+     alt="U.S. News & World Report at 2022-09-16 10:07:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usnews-2022/usnews-2022-09-08T09:19:48.849215-04:00.jpg">September 8 at 9:19 AM</a></p>
+ <p><a href="https://archive.org/download/usnews-2022/usnews-2022-09-16T10:07:57.306371-04:00.jpg">September 16 at 10:07 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/usnews-2022/usnews-2022-09-07T21:29:11.118521-04:00.jpg">
-  <img src="https://archive.org/download/usnews-2022/usnews-2022-09-07T21:29:11.118521-04:00.jpg"
-     alt="U.S. News & World Report at 2022-09-07 21:29:26-04:00 local time"
+ <a href="https://archive.org/download/usnews-2022/usnews-2022-09-15T22:29:08.043765-04:00.jpg">
+  <img src="https://archive.org/download/usnews-2022/usnews-2022-09-15T22:29:08.043765-04:00.jpg"
+     alt="U.S. News & World Report at 2022-09-15 22:29:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usnews-2022/usnews-2022-09-07T21:29:11.118521-04:00.jpg">September 7 at 9:29 PM</a></p>
+ <p><a href="https://archive.org/download/usnews-2022/usnews-2022-09-15T22:29:08.043765-04:00.jpg">September 15 at 10:29 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/usnews-2022/usnews-2022-09-07T09:52:22.399968-04:00.jpg">
-  <img src="https://archive.org/download/usnews-2022/usnews-2022-09-07T09:52:22.399968-04:00.jpg"
-     alt="U.S. News & World Report at 2022-09-07 09:52:27-04:00 local time"
+ <a href="https://archive.org/download/usnews-2022/usnews-2022-09-15T10:14:41.819805-04:00.jpg">
+  <img src="https://archive.org/download/usnews-2022/usnews-2022-09-15T10:14:41.819805-04:00.jpg"
+     alt="U.S. News & World Report at 2022-09-15 10:14:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usnews-2022/usnews-2022-09-07T09:52:22.399968-04:00.jpg">September 7 at 9:52 AM</a></p>
+ <p><a href="https://archive.org/download/usnews-2022/usnews-2022-09-15T10:14:41.819805-04:00.jpg">September 15 at 10:14 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/usnews-2022/usnews-2022-09-06T21:25:55.067967-04:00.jpg">
-  <img src="https://archive.org/download/usnews-2022/usnews-2022-09-06T21:25:55.067967-04:00.jpg"
-     alt="U.S. News & World Report at 2022-09-06 21:25:56-04:00 local time"
+ <a href="https://archive.org/download/usnews-2022/usnews-2022-09-14T22:30:18.834126-04:00.jpg">
+  <img src="https://archive.org/download/usnews-2022/usnews-2022-09-14T22:30:18.834126-04:00.jpg"
+     alt="U.S. News & World Report at 2022-09-14 22:30:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usnews-2022/usnews-2022-09-06T21:25:55.067967-04:00.jpg">September 6 at 9:25 PM</a></p>
+ <p><a href="https://archive.org/download/usnews-2022/usnews-2022-09-14T22:30:18.834126-04:00.jpg">September 14 at 10:30 PM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/usnews-2022/usnews-2022-09-05T21:29:48.400012-04:00.jpg">
-  <img src="https://archive.org/download/usnews-2022/usnews-2022-09-05T21:29:48.400012-04:00.jpg"
-     alt="U.S. News & World Report at 2022-09-05 21:29:52-04:00 local time"
+ <a href="https://archive.org/download/usnews-2022/usnews-2022-09-14T10:16:41.614199-04:00.jpg">
+  <img src="https://archive.org/download/usnews-2022/usnews-2022-09-14T10:16:41.614199-04:00.jpg"
+     alt="U.S. News & World Report at 2022-09-14 10:16:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usnews-2022/usnews-2022-09-05T21:29:48.400012-04:00.jpg">September 5 at 9:29 PM</a></p>
+ <p><a href="https://archive.org/download/usnews-2022/usnews-2022-09-14T10:16:41.614199-04:00.jpg">September 14 at 10:16 AM</a></p>
 </div>
 
 <div class="latest-child">
- <a href="https://archive.org/download/usnews-2022/usnews-2022-09-05T10:15:08.581544-04:00.jpg">
-  <img src="https://archive.org/download/usnews-2022/usnews-2022-09-05T10:15:08.581544-04:00.jpg"
-     alt="U.S. News & World Report at 2022-09-05 10:15:12-04:00 local time"
+ <a href="https://archive.org/download/usnews-2022/usnews-2022-09-13T22:27:08.872391-04:00.jpg">
+  <img src="https://archive.org/download/usnews-2022/usnews-2022-09-13T22:27:08.872391-04:00.jpg"
+     alt="U.S. News & World Report at 2022-09-13 22:27:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/usnews-2022/usnews-2022-09-05T10:15:08.581544-04:00.jpg">September 5 at 10:15 AM</a></p>
+ <p><a href="https://archive.org/download/usnews-2022/usnews-2022-09-13T22:27:08.872391-04:00.jpg">September 13 at 10:27 PM</a></p>
 </div>
 
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 100 hyperlink lists with the Internet Archive.
+The archiving routine has saved 116 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,21 +322,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [September 11 at 9:08 AM](https://archive.org/download/usnews-2022/usnews-2022-09-11T09:08:28.675767-04:00.hyperlinks.json) |
-| [September 10 at 9:26 PM](https://archive.org/download/usnews-2022/usnews-2022-09-10T21:26:12.531243-04:00.hyperlinks.json) |
-| [September 10 at 9:12 AM](https://archive.org/download/usnews-2022/usnews-2022-09-10T09:11:57.950810-04:00.hyperlinks.json) |
-| [September 9 at 9:30 PM](https://archive.org/download/usnews-2022/usnews-2022-09-09T21:30:11.330137-04:00.hyperlinks.json) |
-| [September 9 at 9:28 AM](https://archive.org/download/usnews-2022/usnews-2022-09-09T09:28:36.285120-04:00.hyperlinks.json) |
-| [September 8 at 9:31 PM](https://archive.org/download/usnews-2022/usnews-2022-09-08T21:30:56.466032-04:00.hyperlinks.json) |
-| [September 8 at 9:20 AM](https://archive.org/download/usnews-2022/usnews-2022-09-08T09:19:48.849215-04:00.hyperlinks.json) |
-| [September 7 at 9:29 PM](https://archive.org/download/usnews-2022/usnews-2022-09-07T21:29:11.118521-04:00.hyperlinks.json) |
-| [September 7 at 9:52 AM](https://archive.org/download/usnews-2022/usnews-2022-09-07T09:52:22.399968-04:00.hyperlinks.json) |
-| [September 6 at 9:26 PM](https://archive.org/download/usnews-2022/usnews-2022-09-06T21:25:55.067967-04:00.hyperlinks.json) |
+| [September 19 at 10:09 AM](https://archive.org/download/usnews-2022/usnews-2022-09-19T10:09:16.994576-04:00.hyperlinks.json) |
+| [September 18 at 10:22 PM](https://archive.org/download/usnews-2022/usnews-2022-09-18T22:22:35.485342-04:00.hyperlinks.json) |
+| [September 18 at 10:03 AM](https://archive.org/download/usnews-2022/usnews-2022-09-18T10:03:05.907726-04:00.hyperlinks.json) |
+| [September 17 at 10:29 PM](https://archive.org/download/usnews-2022/usnews-2022-09-17T22:29:27.015172-04:00.hyperlinks.json) |
+| [September 17 at 10:01 AM](https://archive.org/download/usnews-2022/usnews-2022-09-17T10:01:13.130663-04:00.hyperlinks.json) |
+| [September 16 at 10:26 PM](https://archive.org/download/usnews-2022/usnews-2022-09-16T22:26:45.752683-04:00.hyperlinks.json) |
+| [September 16 at 10:08 AM](https://archive.org/download/usnews-2022/usnews-2022-09-16T10:07:57.306371-04:00.hyperlinks.json) |
+| [September 15 at 10:29 PM](https://archive.org/download/usnews-2022/usnews-2022-09-15T22:29:08.043765-04:00.hyperlinks.json) |
+| [September 15 at 10:14 AM](https://archive.org/download/usnews-2022/usnews-2022-09-15T10:14:41.819805-04:00.hyperlinks.json) |
+| [September 14 at 10:30 PM](https://archive.org/download/usnews-2022/usnews-2022-09-14T22:30:18.834126-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 101 accessibility trees with the Internet Archive.
+The archiving routine has saved 117 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,22 +427,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [September 11 at 9:08 AM](https://archive.org/download/usnews-2022/usnews-2022-09-11T09:08:28.675767-04:00.accessibility.json) |
-| [September 10 at 9:26 PM](https://archive.org/download/usnews-2022/usnews-2022-09-10T21:26:12.531243-04:00.accessibility.json) |
-| [September 10 at 9:12 AM](https://archive.org/download/usnews-2022/usnews-2022-09-10T09:11:57.950810-04:00.accessibility.json) |
-| [September 9 at 9:30 PM](https://archive.org/download/usnews-2022/usnews-2022-09-09T21:30:11.330137-04:00.accessibility.json) |
-| [September 9 at 9:28 AM](https://archive.org/download/usnews-2022/usnews-2022-09-09T09:28:36.285120-04:00.accessibility.json) |
-| [September 8 at 9:31 PM](https://archive.org/download/usnews-2022/usnews-2022-09-08T21:30:56.466032-04:00.accessibility.json) |
-| [September 8 at 9:19 AM](https://archive.org/download/usnews-2022/usnews-2022-09-08T09:19:48.849215-04:00.accessibility.json) |
-| [September 7 at 9:29 PM](https://archive.org/download/usnews-2022/usnews-2022-09-07T21:29:11.118521-04:00.accessibility.json) |
-| [September 7 at 9:52 AM](https://archive.org/download/usnews-2022/usnews-2022-09-07T09:52:22.399968-04:00.accessibility.json) |
-| [September 6 at 9:25 PM](https://archive.org/download/usnews-2022/usnews-2022-09-06T21:25:55.067967-04:00.accessibility.json) |
+| [September 19 at 10:09 AM](https://archive.org/download/usnews-2022/usnews-2022-09-19T10:09:16.994576-04:00.accessibility.json) |
+| [September 18 at 10:22 PM](https://archive.org/download/usnews-2022/usnews-2022-09-18T22:22:35.485342-04:00.accessibility.json) |
+| [September 18 at 10:03 AM](https://archive.org/download/usnews-2022/usnews-2022-09-18T10:03:05.907726-04:00.accessibility.json) |
+| [September 17 at 10:29 PM](https://archive.org/download/usnews-2022/usnews-2022-09-17T22:29:27.015172-04:00.accessibility.json) |
+| [September 17 at 10:01 AM](https://archive.org/download/usnews-2022/usnews-2022-09-17T10:01:13.130663-04:00.accessibility.json) |
+| [September 16 at 10:26 PM](https://archive.org/download/usnews-2022/usnews-2022-09-16T22:26:45.752683-04:00.accessibility.json) |
+| [September 16 at 10:08 AM](https://archive.org/download/usnews-2022/usnews-2022-09-16T10:07:57.306371-04:00.accessibility.json) |
+| [September 15 at 10:29 PM](https://archive.org/download/usnews-2022/usnews-2022-09-15T22:29:08.043765-04:00.accessibility.json) |
+| [September 15 at 10:14 AM](https://archive.org/download/usnews-2022/usnews-2022-09-15T10:14:41.819805-04:00.accessibility.json) |
+| [September 14 at 10:30 PM](https://archive.org/download/usnews-2022/usnews-2022-09-14T22:30:18.834126-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 101 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 117 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -533,16 +533,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [September 11 at 9:08 AM](https://archive.org/download/usnews-2022/usnews-2022-09-11T09:08:28.675767-04:00.lighthouse.json) |
-| [September 10 at 9:26 PM](https://archive.org/download/usnews-2022/usnews-2022-09-10T21:26:12.531243-04:00.lighthouse.json) |
-| [September 10 at 9:12 AM](https://archive.org/download/usnews-2022/usnews-2022-09-10T09:11:57.950810-04:00.lighthouse.json) |
-| [September 9 at 9:30 PM](https://archive.org/download/usnews-2022/usnews-2022-09-09T21:30:11.330137-04:00.lighthouse.json) |
-| [September 9 at 9:28 AM](https://archive.org/download/usnews-2022/usnews-2022-09-09T09:28:36.285120-04:00.lighthouse.json) |
-| [September 8 at 9:31 PM](https://archive.org/download/usnews-2022/usnews-2022-09-08T21:30:56.466032-04:00.lighthouse.json) |
-| [September 8 at 9:20 AM](https://archive.org/download/usnews-2022/usnews-2022-09-08T09:19:48.849215-04:00.lighthouse.json) |
-| [September 7 at 9:29 PM](https://archive.org/download/usnews-2022/usnews-2022-09-07T21:29:11.118521-04:00.lighthouse.json) |
-| [September 7 at 9:52 AM](https://archive.org/download/usnews-2022/usnews-2022-09-07T09:52:22.399968-04:00.lighthouse.json) |
-| [September 6 at 9:26 PM](https://archive.org/download/usnews-2022/usnews-2022-09-06T21:25:55.067967-04:00.lighthouse.json) |
+| [September 19 at 10:09 AM](https://archive.org/download/usnews-2022/usnews-2022-09-19T10:09:16.994576-04:00.lighthouse.json) |
+| [September 18 at 10:22 PM](https://archive.org/download/usnews-2022/usnews-2022-09-18T22:22:35.485342-04:00.lighthouse.json) |
+| [September 18 at 10:03 AM](https://archive.org/download/usnews-2022/usnews-2022-09-18T10:03:05.907726-04:00.lighthouse.json) |
+| [September 17 at 10:29 PM](https://archive.org/download/usnews-2022/usnews-2022-09-17T22:29:27.015172-04:00.lighthouse.json) |
+| [September 17 at 10:01 AM](https://archive.org/download/usnews-2022/usnews-2022-09-17T10:01:13.130663-04:00.lighthouse.json) |
+| [September 16 at 10:26 PM](https://archive.org/download/usnews-2022/usnews-2022-09-16T22:26:45.752683-04:00.lighthouse.json) |
+| [September 16 at 10:08 AM](https://archive.org/download/usnews-2022/usnews-2022-09-16T10:07:57.306371-04:00.lighthouse.json) |
+| [September 15 at 10:29 PM](https://archive.org/download/usnews-2022/usnews-2022-09-15T22:29:08.043765-04:00.lighthouse.json) |
+| [September 15 at 10:14 AM](https://archive.org/download/usnews-2022/usnews-2022-09-15T10:14:41.819805-04:00.lighthouse.json) |
+| [September 14 at 10:30 PM](https://archive.org/download/usnews-2022/usnews-2022-09-14T22:30:18.834126-04:00.lighthouse.json) |
 
 
 
