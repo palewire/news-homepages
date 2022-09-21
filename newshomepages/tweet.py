@@ -243,7 +243,7 @@ def mosaic(input_path: str):
     now_local = now.astimezone(tz)
 
     # Create the headline
-    tweet = f"""{len(utils.get_site_list())} homepages from around the world captured at {now_local.strftime('%-I:%M %p')} in Los Angeles
+    tweet = f"""{len(utils.get_site_list()):,} homepages from around the world captured at {now_local.strftime('%-I:%M %p')} in Los Angeles
 
 📷 See them all at https://palewi.re/docs/news-homepages/latest.html
     """
