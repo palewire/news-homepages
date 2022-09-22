@@ -134,7 +134,7 @@ This past week the median across all sites was 86. Here's the distribution of sc
   "height": 250,
   "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json",
   "datasets": {
-    "data-ff083e2caf4ea6428c61f01fb3b93afe": [{"index": 0, "accessibility_decile": 0.0}, {"index": 10, "accessibility_decile": 0.0}, {"index": 20, "accessibility_decile": 0.0}, {"index": 30, "accessibility_decile": 0.0}, {"index": 40, "accessibility_decile": 5.0}, {"index": 50, "accessibility_decile": 16.0}, {"index": 60, "accessibility_decile": 48.0}, {"index": 70, "accessibility_decile": 178.0}, {"index": 80, "accessibility_decile": 385.0}, {"index": 90, "accessibility_decile": 256.0}, {"index": 100, "accessibility_decile": 21.0}]
+    "data-ff083e2caf4ea6428c61f01fb3b93afe": [{"index": 0, "accessibility_decile": 0.0}, {"index": 10, "accessibility_decile": 0.0}, {"index": 20, "accessibility_decile": 0.0}, {"index": 30, "accessibility_decile": 0.0}, {"index": 40, "accessibility_decile": 5.0}, {"index": 50, "accessibility_decile": 16.0}, {"index": 60, "accessibility_decile": 48.0}, {"index": 70, "accessibility_decile": 178.0}, {"index": 80, "accessibility_decile": 385.0}, {"index": 90, "accessibility_decile": 255.0}, {"index": 100, "accessibility_decile": 22.0}]
   }
 };
     vegaEmbed("#vis", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
@@ -203,6 +203,18 @@ Here's a ranking of all sites from best to worst.
   <tr>
     <td>1</td>
     <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/theobserver.html">
+            Charlotte Observer
+        </a>
+    </td>
+    <td style="text-align: right; background-color: green; color: white;">
+        100
+    </td>
+  </tr>
+  
+  <tr>
+    <td>1</td>
+    <td>
         <a href="https://palewi.re/docs/news-homepages/sites/suntimes.html">
             Chicago Sun-Times
         </a>
@@ -251,18 +263,6 @@ Here's a ranking of all sites from best to worst.
   <tr>
     <td>1</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/startelegram.html">
-            Fort Worth Star-Telegram
-        </a>
-    </td>
-    <td style="text-align: right; background-color: green; color: white;">
-        100
-    </td>
-  </tr>
-  
-  <tr>
-    <td>1</td>
-    <td>
         <a href="https://palewi.re/docs/news-homepages/sites/fortunemagazine.html">
             Fortune
         </a>
@@ -301,6 +301,18 @@ Here's a ranking of all sites from best to worst.
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/mediaite.html">
             Mediaite
+        </a>
+    </td>
+    <td style="text-align: right; background-color: green; color: white;">
+        100
+    </td>
+  </tr>
+  
+  <tr>
+    <td>1</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/reuters.html">
+            Reuters
         </a>
     </td>
     <td style="text-align: right; background-color: green; color: white;">
@@ -405,7 +417,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>22</td>
+    <td>23</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/latimes.html">
             Los Angeles Times
@@ -417,7 +429,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/theatlantic.html">
             Atlantic
@@ -429,7 +441,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/blockclubchi.html">
             Block Club Chicago
@@ -441,7 +453,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/bloombergjapan.html">
             Bloomberg Japan
@@ -453,7 +465,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/cbcnews.html">
             CBC News
@@ -465,7 +477,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/defectormedia.html">
             Defector
@@ -477,7 +489,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/denverpost.html">
             Denver Post
@@ -489,7 +501,19 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/eater.html">
+            Eater
+        </a>
+    </td>
+    <td style="text-align: right; background-color: green; color: white;">
+        98
+    </td>
+  </tr>
+  
+  <tr>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/theeconomist.html">
             Economist
@@ -501,7 +525,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/elmundoes.html">
             El Mundo
@@ -513,7 +537,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/france24.html">
             FRANCE 24
@@ -525,7 +549,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/fdrlst.html">
             Federalist
@@ -537,7 +561,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/france24_en.html">
             France 24 English
@@ -549,7 +573,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/globalnews.html">
             Global News
@@ -561,7 +585,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/wearehpr.html">
             Hawaii Public Radio
@@ -573,7 +597,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/hellgateny.html">
             Hell Gate
@@ -585,7 +609,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/indiancountry.html">
             Indian Country Today
@@ -597,7 +621,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/kccinews.html">
             KCCI
@@ -609,7 +633,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/ketv.html">
             KETV NewsWatch 7
@@ -621,7 +645,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/lemonde_en.html">
             Le Monde in English
@@ -633,7 +657,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/thelensnola.html">
             Lens
@@ -645,7 +669,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/bcn_foundation.html">
             Local News Matters
@@ -657,7 +681,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/lrb.html">
             London Review of Books
@@ -669,7 +693,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/macrumors.html">
             MacRumors
@@ -681,7 +705,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/marylandmatters.html">
             Maryland Matters
@@ -693,7 +717,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/mcgilldaily.html">
             McGill Daily
@@ -705,7 +729,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/mediapart.html">
             Mediapart
@@ -717,7 +741,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/msfreepress.html">
             Mississippi Free Press
@@ -729,7 +753,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/mtnstspotlight.html">
             Mountain State Spotlight
@@ -741,19 +765,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nymag.html">
-            New York
-        </a>
-    </td>
-    <td style="text-align: right; background-color: green; color: white;">
-        98
-    </td>
-  </tr>
-  
-  <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/osnepalnews.html">
             OSNepal
@@ -765,7 +777,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/pitchfork.html">
             Pitchfork
@@ -777,7 +789,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/pointreyeslight.html">
             Point Reyes Light
@@ -789,7 +801,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/rfi.html">
             RFI
@@ -801,7 +813,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/sbtnews.html">
             SBT news
@@ -813,7 +825,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/sdut.html">
             San Diego Union Tribune
@@ -825,7 +837,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/sludge.html">
             Sludge
@@ -837,7 +849,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/spectator.html">
             Spectator
@@ -849,7 +861,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/time.html">
             TIME
@@ -861,7 +873,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/tprnews.html">
             Texas Public Radio
@@ -873,7 +885,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/texastribune.html">
             Texas Tribune
@@ -885,7 +897,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/berkeleyside.html">
             The Berkeleyside
@@ -897,7 +909,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/timeslive.html">
             TimesLIVE
@@ -909,7 +921,19 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/verge.html">
+            Verge
+        </a>
+    </td>
+    <td style="text-align: right; background-color: green; color: white;">
+        98
+    </td>
+  </tr>
+  
+  <tr>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/voguemagazine.html">
             Vogue
@@ -921,7 +945,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/vryeweekblad.html">
             Vrye Weekblad
@@ -933,7 +957,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/wired.html">
             Wired
@@ -945,7 +969,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>23</td>
+    <td>24</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/okayplayer.html">
             okayplayer
@@ -957,7 +981,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>68</td>
+    <td>70</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/apmreports.html">
             APM Reports
@@ -969,7 +993,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>68</td>
+    <td>70</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/alpublicradio.html">
             Alabama Public Radio
@@ -981,7 +1005,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>68</td>
+    <td>70</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/aspenpubradio.html">
             Aspen Public Radio
@@ -993,7 +1017,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>68</td>
+    <td>70</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/business.html">
             Bloomberg
@@ -1005,7 +1029,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>68</td>
+    <td>70</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/deadspin.html">
             Deadspin
@@ -1017,7 +1041,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>68</td>
+    <td>70</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/gawker.html">
             Gawker
@@ -1029,7 +1053,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>68</td>
+    <td>70</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/gizmodo.html">
             Gizmodo
@@ -1041,7 +1065,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>68</td>
+    <td>70</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/kpcwradio.html">
             KPCW
@@ -1053,7 +1077,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>68</td>
+    <td>70</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/minnpost.html">
             MinnPost
@@ -1065,7 +1089,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>68</td>
+    <td>70</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/npr.html">
             NPR
@@ -1077,7 +1101,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>68</td>
+    <td>70</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/nebpublicmedia.html">
             Nebraska Public Media
@@ -1089,7 +1113,31 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>68</td>
+    <td>70</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/nymag.html">
+            New York
+        </a>
+    </td>
+    <td style="text-align: right; background-color: green; color: white;">
+        97
+    </td>
+  </tr>
+  
+  <tr>
+    <td>70</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/qz.html">
+            Quartz
+        </a>
+    </td>
+    <td style="text-align: right; background-color: green; color: white;">
+        97
+    </td>
+  </tr>
+  
+  <tr>
+    <td>70</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/reforma.html">
             Reforma
@@ -1101,7 +1149,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>68</td>
+    <td>70</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/theroot.html">
             Root
@@ -1113,19 +1161,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>81</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/qz.html">
-            Quartz
-        </a>
-    </td>
-    <td style="text-align: right; background-color: green; color: white;">
-        96
-    </td>
-  </tr>
-  
-  <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/atlblog.html">
             Above the Law
@@ -1137,7 +1173,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/aldotcom.html">
             Alabama Media Group
@@ -1149,7 +1185,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/abqbizfirst.html">
             Albuquerque Business First
@@ -1161,7 +1197,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/andscape.html">
             Andscape
@@ -1173,7 +1209,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/arizcir.html">
             Arizona Center for Investigative Reporting
@@ -1185,7 +1221,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/arkansasonline.html">
             Arkansas Democrat Gazette
@@ -1197,7 +1233,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/bfmtv.html">
             BFMTV
@@ -1209,7 +1245,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/baltbeat.html">
             Baltimore Beat
@@ -1221,7 +1257,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/baltbizonline.html">
             Baltimore Business Journal
@@ -1233,7 +1269,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/bild.html">
             Bild
@@ -1245,7 +1281,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/bonginoreport.html">
             Bongino Report
@@ -1257,7 +1293,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/bosbizjournal.html">
             Boston Business Journal
@@ -1269,7 +1305,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/clarincom.html">
             Clarín
@@ -1281,7 +1317,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/comissourian.html">
             Columbia Missourian
@@ -1293,7 +1329,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/dagbladet.html">
             Dagbladet
@@ -1305,7 +1341,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/dailysunsa.html">
             Daily Sun
@@ -1317,7 +1353,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/dallasbiznews.html">
             Dallas Business Journal
@@ -1329,19 +1365,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/eater.html">
-            Eater
-        </a>
-    </td>
-    <td style="text-align: right; background-color: green; color: white;">
-        96
-    </td>
-  </tr>
-  
-  <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/firstthingsmag.html">
             First Things
@@ -1353,7 +1377,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/gothamist.html">
             Gothamist
@@ -1365,7 +1389,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/gridnews.html">
             Grid
@@ -1377,7 +1401,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/inthesetimesmag.html">
             In These Times 
@@ -1389,7 +1413,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/insideclimate.html">
             Inside Climate News
@@ -1401,7 +1425,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/johncombest.html">
             John Combest
@@ -1413,7 +1437,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/juneauempire.html">
             Juneau Empire
@@ -1425,7 +1449,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/kut.html">
             KUT
@@ -1437,7 +1461,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/lesoir.html">
             Le Soir
@@ -1449,7 +1473,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/levernews.html">
             Lever
@@ -1461,7 +1485,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/nhk_news.html">
             NHK
@@ -1473,7 +1497,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/netwerk24.html">
             Netwerk24
@@ -1485,7 +1509,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/knprnews.html">
             Nevada Public Radio
@@ -1497,19 +1521,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/newyorker.html">
-            New Yorker
-        </a>
-    </td>
-    <td style="text-align: right; background-color: green; color: white;">
-        96
-    </td>
-  </tr>
-  
-  <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/nextcityorg.html">
             Next City
@@ -1521,7 +1533,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/oklahomawatch.html">
             Oklahoma Watch
@@ -1533,7 +1545,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/opensecretsdc.html">
             OpenSecrets
@@ -1545,7 +1557,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/oregonian.html">
             Oregonian
@@ -1557,7 +1569,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/newshour.html">
             PBS News Hour
@@ -1569,7 +1581,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/parisreview.html">
             Paris Review
@@ -1581,7 +1593,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/pulitzercenter.html">
             Pulitzer Center
@@ -1593,7 +1605,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/quillette.html">
             Quillette
@@ -1605,7 +1617,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/restofworld.html">
             Rest of World
@@ -1617,19 +1629,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/reuters.html">
-            Reuters
-        </a>
-    </td>
-    <td style="text-align: right; background-color: green; color: white;">
-        96
-    </td>
-  </tr>
-  
-  <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/rollcall.html">
             Roll Call
@@ -1641,7 +1641,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/umd_sbs.html">
             Stories Beneath the Shell
@@ -1653,7 +1653,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/teenvogue.html">
             Teen Vogue
@@ -1665,7 +1665,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/texasobserver.html">
             Texas Observer
@@ -1677,7 +1677,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/teamtrace.html">
             Trace
@@ -1689,7 +1689,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/thejaxtrib.html">
             Tributary
@@ -1701,7 +1701,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/wbez.html">
             WBEZ
@@ -1713,7 +1713,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>82</td>
+    <td>85</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/news24.html">
             news24
@@ -1727,6 +1727,18 @@ Here's a ranking of all sites from best to worst.
   <tr>
     <td>132</td>
     <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/newyorker.html">
+            New Yorker
+        </a>
+    </td>
+    <td style="text-align: right; background-color: green; color: white;">
+        95
+    </td>
+  </tr>
+  
+  <tr>
+    <td>133</td>
+    <td>
         <a href="https://palewi.re/docs/news-homepages/sites/19thnews.html">
             19th
         </a>
@@ -1737,7 +1749,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>132</td>
+    <td>133</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/abc3340.html">
             ABC 33/40 News
@@ -1749,7 +1761,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>132</td>
+    <td>133</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/news_letter.html">
             Belfast News Letter
@@ -1761,7 +1773,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>132</td>
+    <td>133</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/bklyner.html">
             Bklyner
@@ -1773,7 +1785,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>132</td>
+    <td>133</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/bulwarkonline.html">
             Bulwark
@@ -1785,7 +1797,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>132</td>
+    <td>133</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/cqnow.html">
             CQ
@@ -1797,7 +1809,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>132</td>
+    <td>133</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/capitolnewsil.html">
             Capitol News Illinois
@@ -1809,7 +1821,31 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>132</td>
+    <td>133</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/conversationus.html">
+            Conversation U.S.
+        </a>
+    </td>
+    <td style="text-align: right; background-color: green; color: white;">
+        95
+    </td>
+  </tr>
+  
+  <tr>
+    <td>133</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/cookpolitical.html">
+            Cook Political Report
+        </a>
+    </td>
+    <td style="text-align: right; background-color: green; color: white;">
+        95
+    </td>
+  </tr>
+  
+  <tr>
+    <td>133</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/dallasnews.html">
             Dallas Morning News
@@ -1821,7 +1857,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>132</td>
+    <td>133</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/doorcountyknock.html">
             Door County Knock
@@ -1833,7 +1869,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>132</td>
+    <td>133</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/engadget.html">
             Engadget
@@ -1845,7 +1881,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>132</td>
+    <td>133</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/flintbeat.html">
             Flint Beat
@@ -1857,7 +1893,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>132</td>
+    <td>133</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/freethinkmedia.html">
             Freethink
@@ -1869,7 +1905,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>132</td>
+    <td>133</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/thegrio.html">
             Grio
@@ -1881,7 +1917,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>132</td>
+    <td>133</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/hwherald.html">
             Harvey World Herald
@@ -1893,7 +1929,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>132</td>
+    <td>133</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/ilisolezwe.html">
             I'solezwe lesiXhosa
@@ -1905,7 +1941,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>132</td>
+    <td>133</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/nwademgaz.html">
             Northwest Arkansas Democrat-Gazette
@@ -1917,7 +1953,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>132</td>
+    <td>133</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/spacedotcom.html">
             Space.com
@@ -1929,7 +1965,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>132</td>
+    <td>133</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/oaklandside.html">
             The Oaklandside
@@ -1941,10 +1977,10 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>132</td>
+    <td>133</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/verge.html">
-            Verge
+        <a href="https://palewi.re/docs/news-homepages/sites/yahoofinance.html">
+            Yahoo Finance
         </a>
     </td>
     <td style="text-align: right; background-color: green; color: white;">
@@ -1953,7 +1989,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>132</td>
+    <td>133</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/zerohedge.html">
             ZeroHedge
@@ -1965,7 +2001,43 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>152</td>
+    <td>155</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/dailyyonder.html">
+            Daily Yonder
+        </a>
+    </td>
+    <td style="text-align: right; background-color: green; color: white;">
+        94
+    </td>
+  </tr>
+  
+  <tr>
+    <td>155</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/theonion.html">
+            Onion
+        </a>
+    </td>
+    <td style="text-align: right; background-color: green; color: white;">
+        94
+    </td>
+  </tr>
+  
+  <tr>
+    <td>155</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/prismreports.html">
+            Prism
+        </a>
+    </td>
+    <td style="text-align: right; background-color: green; color: white;">
+        94
+    </td>
+  </tr>
+  
+  <tr>
+    <td>158</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/amazoniaagencia.html">
             Agência Amazônia
@@ -1977,7 +2049,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>152</td>
+    <td>158</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/airwaysmagazine.html">
             Airways
@@ -1989,7 +2061,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>152</td>
+    <td>158</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/amarujalanews.html">
             Amar Ujala
@@ -2001,7 +2073,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>152</td>
+    <td>158</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/baynature.html">
             Bay Nature
@@ -2013,7 +2085,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>152</td>
+    <td>158</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/brooklynpaper.html">
             Brooklyn Paper
@@ -2025,7 +2097,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>152</td>
+    <td>158</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/calmatters.html">
             Calmatters
@@ -2037,7 +2109,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>152</td>
+    <td>158</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/colabnewsco.html">
             Colorado News Collaborative
@@ -2049,7 +2121,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>152</td>
+    <td>158</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/dnyuzcom.html">
             Dnyuz
@@ -2061,7 +2133,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>152</td>
+    <td>158</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/fastcompany.html">
             Fast Company
@@ -2073,7 +2145,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>152</td>
+    <td>158</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/flightglobal.html">
             Flight Global
@@ -2085,7 +2157,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>152</td>
+    <td>158</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/kcur.html">
             KCUR
@@ -2097,7 +2169,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>152</td>
+    <td>158</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/lex18news.html">
             LEX 18 News
@@ -2109,7 +2181,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>152</td>
+    <td>158</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/lemondefr.html">
             Le Monde
@@ -2121,7 +2193,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>152</td>
+    <td>158</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/libe.html">
             Libération
@@ -2133,7 +2205,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>152</td>
+    <td>158</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/mlnow.html">
             Mission Local
@@ -2145,7 +2217,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>152</td>
+    <td>158</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/nrk.html">
             NRK
@@ -2157,7 +2229,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>152</td>
+    <td>158</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/newstatesman.html">
             New Statesman
@@ -2169,7 +2241,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>152</td>
+    <td>158</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/observatorio.html">
             Observatório da Imprensa
@@ -2181,7 +2253,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>152</td>
+    <td>158</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/shillsalmanac.html">
             South Hills Almanac
@@ -2193,7 +2265,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>152</td>
+    <td>158</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/newspressnow.html">
             St. Joseph News Press
@@ -2205,7 +2277,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>152</td>
+    <td>158</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/georgiastraight.html">
             The Georgia Straight
@@ -2217,7 +2289,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>152</td>
+    <td>158</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/truthout.html">
             Truthout
@@ -2229,7 +2301,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>152</td>
+    <td>158</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/wplglocal10.html">
             WPLG Local 10 News
@@ -2241,7 +2313,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>152</td>
+    <td>158</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/jn_japanese.html">
             Yomiuri shinbun
@@ -2253,7 +2325,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>152</td>
+    <td>158</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/inewsource.html">
             inewsource
@@ -2265,7 +2337,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/adnkronos.html">
             Adnkronos
@@ -2277,7 +2349,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/aldiadallas.html">
             Al Dia Dallas
@@ -2289,7 +2361,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/austinvida.html">
             Austin Vida
@@ -2301,7 +2373,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/axios.html">
             Axios
@@ -2313,7 +2385,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/blackbygodwv.html">
             Black by God
@@ -2325,7 +2397,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/boingboing.html">
             Boing Boing
@@ -2337,7 +2409,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/buzzfeednews.html">
             Buzzfeed News
@@ -2349,7 +2421,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/calgaryherald.html">
             Calgary Herald
@@ -2361,7 +2433,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/citylimitsnews.html">
             City Limits
@@ -2373,19 +2445,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/conversationus.html">
-            Conversation U.S.
-        </a>
-    </td>
-    <td style="text-align: right; background-color: green; color: white;">
-        93
-    </td>
-  </tr>
-  
-  <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/curbed.html">
             Curbed
@@ -2397,7 +2457,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/jagrannews.html">
             Dainik Jagram
@@ -2409,7 +2469,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/ewnreporter.html">
             Eyewitness News
@@ -2421,7 +2481,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/financialpost.html">
             Financial Post
@@ -2433,7 +2493,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/foreignpolicy.html">
             Foreign Policy
@@ -2445,7 +2505,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/wfxl.html">
             Fox 31 WFXL-TV
@@ -2457,7 +2517,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/frednewspost.html">
             Frederick News-Post
@@ -2469,7 +2529,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/neheadlines.html">
             Hardin News-Enterprise
@@ -2481,7 +2541,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/ilanganewspaper.html">
             Ilanga
@@ -2493,7 +2553,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/jezebel.html">
             Jezebel
@@ -2505,7 +2565,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/katvnews.html">
             KATV News
@@ -2517,7 +2577,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/news3lv.html">
             KSNV News 3
@@ -2529,7 +2589,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/knockdotla.html">
             Knock.LA
@@ -2541,7 +2601,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/mailandguardian.html">
             Mail & Guardian
@@ -2553,7 +2613,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/mtlgazette.html">
             Montreal Gazette
@@ -2565,31 +2625,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nationalpost.html">
-            National Post
-        </a>
-    </td>
-    <td style="text-align: right; background-color: green; color: white;">
-        93
-    </td>
-  </tr>
-  
-  <tr>
-    <td>177</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/theonion.html">
-            Onion
-        </a>
-    </td>
-    <td style="text-align: right; background-color: green; color: white;">
-        93
-    </td>
-  </tr>
-  
-  <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/ottawacitizen.html">
             Ottawa Citizen
@@ -2601,7 +2637,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/thephilacitizen.html">
             Philadelphia Citizen
@@ -2613,7 +2649,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/ringer.html">
             Ringer
@@ -2625,7 +2661,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/thescotsman.html">
             Scotsman
@@ -2637,7 +2673,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/thecut.html">
             The Cut
@@ -2649,7 +2685,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/kvpr.html">
             Valley Public Radio
@@ -2661,7 +2697,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>177</td>
+    <td>183</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/vancouversun.html">
             Vancouver Sun
@@ -2673,7 +2709,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>211</td>
+    <td>214</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/dagsavisen.html">
             Dagsavisen
@@ -2685,7 +2721,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>211</td>
+    <td>214</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/dailycaller.html">
             Daily Caller
@@ -2697,7 +2733,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>211</td>
+    <td>214</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/dailyherald.html">
             Daily Herald
@@ -2709,7 +2745,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>211</td>
+    <td>214</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/dainik_online.html">
             Danik Online
@@ -2721,7 +2757,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>211</td>
+    <td>214</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/discovermag.html">
             Discover
@@ -2733,7 +2769,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>211</td>
+    <td>214</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/huffpostcanada.html">
             HuffPost Canada
@@ -2745,7 +2781,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>211</td>
+    <td>214</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/huffpost.html">
             Huffington Post
@@ -2757,7 +2793,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>211</td>
+    <td>214</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/newstribune.html">
             Jefferson City News Tribune
@@ -2769,7 +2805,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>211</td>
+    <td>214</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/laist.html">
             LAist
@@ -2781,7 +2817,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>211</td>
+    <td>214</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/lanacion.html">
             La Nacion
@@ -2793,7 +2829,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>211</td>
+    <td>214</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/midnight_sun_ak.html">
             Midnight Sun
@@ -2805,7 +2841,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>211</td>
+    <td>214</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/moreperfectus.html">
             More Perfect Union
@@ -2817,7 +2853,19 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>211</td>
+    <td>214</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/nationalpost.html">
+            National Post
+        </a>
+    </td>
+    <td style="text-align: right; background-color: green; color: white;">
+        92
+    </td>
+  </tr>
+  
+  <tr>
+    <td>214</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/nhpr.html">
             New Hampshire Public Radio
@@ -2829,7 +2877,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>211</td>
+    <td>214</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/nypost.html">
             New York Post
@@ -2841,7 +2889,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>211</td>
+    <td>214</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/nytimes.html">
             New York Times
@@ -2853,7 +2901,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>211</td>
+    <td>214</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/peninsupress.html">
             Peninsula Press
@@ -2865,7 +2913,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>211</td>
+    <td>214</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/theriotimes.html">
             Rio Times
@@ -2877,7 +2925,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>211</td>
+    <td>214</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/stlpublicradio.html">
             St. Louis Public Radio
@@ -2889,7 +2937,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>211</td>
+    <td>214</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/usweekly.html">
             Us Weekly
@@ -2901,7 +2949,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>211</td>
+    <td>214</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/wnyc.html">
             WNYC
@@ -2913,7 +2961,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>211</td>
+    <td>214</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/g1.html">
             g1
@@ -2925,19 +2973,19 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>232</td>
+    <td>236</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/yahoofinance.html">
-            Yahoo Finance
+        <a href="https://palewi.re/docs/news-homepages/sites/newsgorkhapatra.html">
+            Gorakhapatra
         </a>
     </td>
     <td style="text-align: right; background-color: green; color: white;">
-        92
+        91
     </td>
   </tr>
   
   <tr>
-    <td>233</td>
+    <td>237</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/appalachia100.html">
             100 Days in Appalachia
@@ -2949,7 +2997,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>233</td>
+    <td>237</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/chesscom.html">
             Chess.com
@@ -2961,7 +3009,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>233</td>
+    <td>237</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/wnpr.html">
             Connecticut Public
@@ -2973,19 +3021,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>233</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/dailyyonder.html">
-            Daily Yonder
-        </a>
-    </td>
-    <td style="text-align: right; background-color: green; color: white;">
-        91
-    </td>
-  </tr>
-  
-  <tr>
-    <td>233</td>
+    <td>237</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/dallasfreepress.html">
             Dallas Free Press
@@ -2997,7 +3033,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>233</td>
+    <td>237</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/delawaretoday.html">
             Delaware Today
@@ -3009,7 +3045,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>233</td>
+    <td>237</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/populardiario.html">
             Diario Popular
@@ -3021,10 +3057,10 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>233</td>
+    <td>237</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/epochtimes.html">
-            Epoch Times
+        <a href="https://palewi.re/docs/news-homepages/sites/el_pais.html">
+            El Pais
         </a>
     </td>
     <td style="text-align: right; background-color: green; color: white;">
@@ -3033,7 +3069,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>233</td>
+    <td>237</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/flatwaterfreep.html">
             Flatwater Free Press
@@ -3045,7 +3081,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>233</td>
+    <td>237</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/kpbs.html">
             KPBS
@@ -3057,7 +3093,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>233</td>
+    <td>237</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/lookoutscruz.html">
             Lookout Santa Cruz
@@ -3069,7 +3105,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>233</td>
+    <td>237</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/mtvnews.html">
             MTV News
@@ -3081,7 +3117,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>233</td>
+    <td>237</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/media_outlier.html">
             Outlier Media
@@ -3093,19 +3129,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>233</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/prismreports.html">
-            Prism
-        </a>
-    </td>
-    <td style="text-align: right; background-color: green; color: white;">
-        91
-    </td>
-  </tr>
-  
-  <tr>
-    <td>233</td>
+    <td>237</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/scalawagmag.html">
             Scalawag
@@ -3117,7 +3141,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>233</td>
+    <td>237</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/southsideweekly.html">
             South Side Weekly
@@ -3129,7 +3153,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>233</td>
+    <td>237</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/strikewave.html">
             Strikewave
@@ -3141,7 +3165,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>233</td>
+    <td>237</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/thenation.html">
             The Nation
@@ -3153,7 +3177,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>233</td>
+    <td>237</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/thetorontosun.html">
             Toronto Sun
@@ -3165,7 +3189,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>233</td>
+    <td>237</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/wabenews.html">
             WABE News
@@ -3177,7 +3201,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>233</td>
+    <td>237</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/washingtonpost.html">
             Washington Post
@@ -3189,19 +3213,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>233</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/windowscentral.html">
-            Windows Central
-        </a>
-    </td>
-    <td style="text-align: right; background-color: green; color: white;">
-        91
-    </td>
-  </tr>
-  
-  <tr>
-    <td>233</td>
+    <td>237</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/wonkette.html">
             Wonkette
@@ -3213,7 +3225,19 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>256</td>
+    <td>257</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/windowscentral.html">
+            Windows Central
+        </a>
+    </td>
+    <td style="text-align: right; background-color: green; color: white;">
+        90
+    </td>
+  </tr>
+  
+  <tr>
+    <td>258</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/bbc.html">
             BBC
@@ -3225,19 +3249,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>256</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/btno.html">
-            Bergens Tidende
-        </a>
-    </td>
-    <td style="text-align: right; background-color: green; color: white;">
-        90
-    </td>
-  </tr>
-  
-  <tr>
-    <td>256</td>
+    <td>258</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/bhamwatch.html">
             BirminghamWatch
@@ -3249,7 +3261,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>256</td>
+    <td>258</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/binjreports.html">
             Boston Institute for Nonprofit Journalism
@@ -3261,7 +3273,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>256</td>
+    <td>258</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/chalkbeat.html">
             Chalkbeat
@@ -3273,7 +3285,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>256</td>
+    <td>258</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/ciceronoticias.html">
             Cicero Independiente
@@ -3285,7 +3297,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>256</td>
+    <td>258</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/civic_lex.html">
             CivicLex
@@ -3297,7 +3309,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>256</td>
+    <td>258</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/crikey_news.html">
             Crikey
@@ -3309,7 +3321,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>256</td>
+    <td>258</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/deseret.html">
             Deseret News
@@ -3321,19 +3333,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>256</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/el_pais.html">
-            El Pais
-        </a>
-    </td>
-    <td style="text-align: right; background-color: green; color: white;">
-        90
-    </td>
-  </tr>
-  
-  <tr>
-    <td>256</td>
+    <td>258</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/eyethunewskzn.html">
             Eyethu KwaZulu-Natal
@@ -3345,10 +3345,10 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>256</td>
+    <td>258</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/newsgorkhapatra.html">
-            Gorakhapatra
+        <a href="https://palewi.re/docs/news-homepages/sites/startelegram.html">
+            Fort Worth Star-Telegram
         </a>
     </td>
     <td style="text-align: right; background-color: green; color: white;">
@@ -3357,7 +3357,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>256</td>
+    <td>258</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/gradynewsource.html">
             Grady Newsource
@@ -3369,7 +3369,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>256</td>
+    <td>258</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/thr.html">
             Hollywood Reporter
@@ -3381,7 +3381,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>256</td>
+    <td>258</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/injusticewatch.html">
             Injustice Watch
@@ -3393,7 +3393,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>256</td>
+    <td>258</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/komunews.html">
             KOMU
@@ -3405,7 +3405,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>256</td>
+    <td>258</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/people.html">
             People
@@ -3417,7 +3417,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>256</td>
+    <td>258</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/thepublicsource.html">
             Public Source
@@ -3429,7 +3429,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>256</td>
+    <td>258</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/searchlightnm.html">
             Searchlight New Mexico
@@ -3441,7 +3441,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>256</td>
+    <td>258</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/spotlight4dc.html">
             Spotlight DC
@@ -3453,7 +3453,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>256</td>
+    <td>258</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/texasmonthly.html">
             Texas Monthly
@@ -3465,7 +3465,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>256</td>
+    <td>258</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/telegraph.html">
             The Telegraph
@@ -3473,6 +3473,42 @@ Here's a ranking of all sites from best to worst.
     </td>
     <td style="text-align: right; background-color: green; color: white;">
         90
+    </td>
+  </tr>
+  
+  <tr>
+    <td>278</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/btno.html">
+            Bergens Tidende
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        89
+    </td>
+  </tr>
+  
+  <tr>
+    <td>278</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/gazettedotcom.html">
+            Cedar Rapids Gazette
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        89
+    </td>
+  </tr>
+  
+  <tr>
+    <td>278</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/epochtimes.html">
+            Epoch Times
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        89
     </td>
   </tr>
   
@@ -3489,7 +3525,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/100reporters.html">
             100Reporters
@@ -3501,7 +3537,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/abc15.html">
             ABC15 Arizona
@@ -3513,7 +3549,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/arkbusiness.html">
             Arkansas Business
@@ -3525,7 +3561,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/arknewsorg.html">
             Arkansas Nonprofit News Network
@@ -3537,7 +3573,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/atlciviccircle.html">
             Atlanta Civic Circle
@@ -3549,7 +3585,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/bellingcat.html">
             Bellingcat
@@ -3561,7 +3597,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/belt_magazine.html">
             Belt Magazine
@@ -3573,7 +3609,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/cnbc.html">
             CNBC
@@ -3585,7 +3621,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/cpublicpress.html">
             Carolina Public Press
@@ -3597,31 +3633,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/gazettedotcom.html">
-            Cedar Rapids Gazette
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        89
-    </td>
-  </tr>
-  
-  <tr>
-    <td>279</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/theobserver.html">
-            Charlotte Observer
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        89
-    </td>
-  </tr>
-  
-  <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/chicago_reader.html">
             Chicago Reader
@@ -3633,7 +3645,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/correio.html">
             Correio Braziliense
@@ -3645,19 +3657,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/dwnews.html">
-            DW
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        89
-    </td>
-  </tr>
-  
-  <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/dainikbhaskar.html">
             Dainik Bhaskar
@@ -3669,7 +3669,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/el_timpano.html">
             El Tímpano
@@ -3681,7 +3681,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/galvnews.html">
             Galveston County Daily News
@@ -3693,7 +3693,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/gpbnews.html">
             Georgia Public Broadcasting
@@ -3705,7 +3705,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/irishexaminer.html">
             Irish Examiner
@@ -3717,7 +3717,31 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>282</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/justthenews.html">
+            Just the News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        89
+    </td>
+  </tr>
+  
+  <tr>
+    <td>282</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/3newsnowomaha.html">
+            KMTV 3 News Now
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        89
+    </td>
+  </tr>
+  
+  <tr>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/kqed.html">
             KQED
@@ -3729,7 +3753,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/mashable.html">
             Mashable
@@ -3741,7 +3765,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/motherjones.html">
             Mother Jones
@@ -3753,7 +3777,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/nettavisen.html">
             Nettavisen
@@ -3765,7 +3789,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/newsday.html">
             Newsday
@@ -3777,7 +3801,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/reporte_indigo.html">
             Reporte Índigo
@@ -3789,7 +3813,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/statnews.html">
             STAT
@@ -3801,7 +3825,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/sahanjournal.html">
             Sahan Journal
@@ -3813,7 +3837,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/sltrib.html">
             Salt Lake Tribune
@@ -3825,7 +3849,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/thehill.html">
             The Hill
@@ -3837,7 +3861,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/timesofindia.html">
             Times of India
@@ -3849,7 +3873,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/vtdigger.html">
             VT Digger
@@ -3861,7 +3885,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/vicenews.html">
             Vice News
@@ -3873,7 +3897,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/voicesofbay.html">
             Voices of Monterey Bay
@@ -3885,7 +3909,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>282</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/voxdotcom.html">
             Vox
@@ -3897,19 +3921,19 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>279</td>
+    <td>315</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/vulture.html">
-            Vulture
+        <a href="https://palewi.re/docs/news-homepages/sites/bonappetit.html">
+            Bon Appetit
         </a>
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        89
+        88
     </td>
   </tr>
   
   <tr>
-    <td>314</td>
+    <td>315</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/mtfreepress.html">
             Montana Free Press
@@ -3921,19 +3945,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/abcnews.html">
-            ABC News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        88
-    </td>
-  </tr>
-  
-  <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/albany_herald.html">
             Albany Herald
@@ -3945,7 +3957,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/alma_preta.html">
             Alma Preta
@@ -3957,7 +3969,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/amestribnews.html">
             Ames Tribune
@@ -3969,7 +3981,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/postcrescent.html">
             Appleton Post Crescent
@@ -3981,7 +3993,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/ashlandornews.html">
             Ashland.news
@@ -3993,7 +4005,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/theaspentimes.html">
             Aspen Times
@@ -4005,7 +4017,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/onlineathens.html">
             Athens Banner-Herald
@@ -4017,7 +4029,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/aug_chronicle.html">
             Augusta Chronicle
@@ -4029,7 +4041,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/badger_project_.html">
             Badger Project
@@ -4041,7 +4053,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/baltfishbowl.html">
             Baltimore Fishbowl
@@ -4053,7 +4065,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/baltimoremag.html">
             Baltimore Magazine
@@ -4065,7 +4077,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/beltel.html">
             Belfast Telegraph
@@ -4077,7 +4089,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/billy_penn.html">
             Billy Penn
@@ -4089,7 +4101,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/chesbayjournal.html">
             Chesapeake Bay Journal
@@ -4101,7 +4113,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/chunichi_denhen.html">
             Chunichi Shimbun
@@ -4113,7 +4125,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/cprnews.html">
             Colorado Public Radio
@@ -4125,19 +4137,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/cookpolitical.html">
-            Cook Political Report
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        88
-    </td>
-  </tr>
-  
-  <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/deshsanchar1.html">
             Deshsanchar
@@ -4149,7 +4149,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/detroitnews.html">
             Detroit News
@@ -4161,7 +4161,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/edsource.html">
             EdSource
@@ -4173,7 +4173,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/fivethirtyeight.html">
             FiveThirtyEight
@@ -4185,7 +4185,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/flphoenixnews.html">
             Florida Phoenix
@@ -4197,7 +4197,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/gainesvillesun.html">
             Gainesville Sun
@@ -4209,7 +4209,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/gbpressgazette.html">
             Green Bay Press-Gazette
@@ -4221,7 +4221,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/htrnews.html">
             Herald Times Reporter
@@ -4233,7 +4233,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/icijorg.html">
             ICIJ
@@ -4245,7 +4245,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/infoamazoniabr.html">
             InfoAmazonia
@@ -4257,7 +4257,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/presscitizen.html">
             Iowa City Press-Citizen
@@ -4269,19 +4269,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/3newsnowomaha.html">
-            KMTV 3 News Now
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        88
-    </td>
-  </tr>
-  
-  <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/karobar_daily.html">
             Karobar Daily
@@ -4293,7 +4281,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/larazon_es.html">
             La Razón
@@ -4305,7 +4293,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/le_figaro.html">
             Le Figaro
@@ -4317,7 +4305,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/ltntw.html">
             Liberty Times
@@ -4329,7 +4317,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/themendovoice.html">
             Mendoncino Voice
@@ -4341,7 +4329,19 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/milenio.html">
+            Milenio
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        88
+    </td>
+  </tr>
+  
+  <tr>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/mo_independent.html">
             Missouri Independent
@@ -4353,7 +4353,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/newscientist.html">
             New Scientist
@@ -4365,7 +4365,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/nikkei.html">
             Nikkei
@@ -4377,7 +4377,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/oglethorpe_echo.html">
             Oglethorpe Echo
@@ -4389,7 +4389,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/orcapchronicle.html">
             Oregon Capital Chronicle
@@ -4401,7 +4401,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/phillyinquirer.html">
             Philadelphia Inquirer
@@ -4413,7 +4413,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/phillytrib.html">
             Philadelphia Tribune
@@ -4425,7 +4425,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/pinjnews.html">
             Pittsburgh Institute for Nonprofit Journalism
@@ -4437,7 +4437,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/rnz_news.html">
             RNZ
@@ -4449,7 +4449,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/sbnation.html">
             SB Nation
@@ -4461,7 +4461,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/savannahnow.html">
             Savannah Morning News
@@ -4473,7 +4473,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/slate.html">
             Slate
@@ -4485,7 +4485,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/source_nm.html">
             Source New Mexico
@@ -4497,7 +4497,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/spokesmanreview.html">
             Spokesman-Review
@@ -4509,7 +4509,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/sternde.html">
             Stern
@@ -4521,7 +4521,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/stevenspointjrl.html">
             Stevens Point Journal
@@ -4533,7 +4533,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/tpm.html">
             TPM
@@ -4545,7 +4545,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/taskandpurpose.html">
             Task & Purpose
@@ -4557,7 +4557,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/thecityny.html">
             The City
@@ -4569,7 +4569,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/mydesert.html">
             The Desert Sun
@@ -4581,7 +4581,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/thesanews.html">
             The South African
@@ -4593,7 +4593,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/spectrumnews.html">
             The Spectrum
@@ -4605,7 +4605,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/theweek.html">
             The Week
@@ -4617,7 +4617,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/uolnoticias.html">
             UOL Notícias
@@ -4629,7 +4629,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/usatoday.html">
             USA Today
@@ -4641,7 +4641,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/ukrinform.html">
             Ukrinform
@@ -4653,7 +4653,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/vcstar.html">
             Ventura County Star
@@ -4665,7 +4665,19 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/vulture.html">
+            Vulture
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        88
+    </td>
+  </tr>
+  
+  <tr>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/wdrbnews.html">
             WDRB News
@@ -4677,7 +4689,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/wttw.html">
             WTTW
@@ -4689,10 +4701,10 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>317</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/wsj.html">
-            Wall Street Journal
+        <a href="https://palewi.re/docs/news-homepages/sites/yorkdispatch.html">
+            York Dispatch
         </a>
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
@@ -4701,14 +4713,26 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>315</td>
+    <td>381</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/yorkdispatch.html">
-            York Dispatch
+        <a href="https://palewi.re/docs/news-homepages/sites/abcnews.html">
+            ABC News
         </a>
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        88
+        87
+    </td>
+  </tr>
+  
+  <tr>
+    <td>381</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/wsj.html">
+            Wall Street Journal
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        87
     </td>
   </tr>
   
@@ -4725,7 +4749,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/reporternews.html">
             Abilene Reporter News
@@ -4737,7 +4761,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/beaconjournal.html">
             Akron Beacon Journal
@@ -4749,7 +4773,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/aristeguionline.html">
             Aristegui Noticias
@@ -4761,7 +4785,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/aspenjournalism.html">
             Aspen Journalism
@@ -4773,7 +4797,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/statesman.html">
             Austin Statesman
@@ -4785,7 +4809,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/aviationweek.html">
             Aviation Week
@@ -4797,7 +4821,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/brecktexan.html">
             Breckenridge Texan
@@ -4809,7 +4833,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/cnnbrasil.html">
             CNN Brasil
@@ -4821,7 +4845,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/la_ser.html">
             Cadena SER
@@ -4833,7 +4857,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/chicagotribune.html">
             Chicago Tribune
@@ -4845,7 +4869,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/clarionledger.html">
             Clarion Ledger
@@ -4857,7 +4881,19 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/dwnews.html">
+            DW
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        87
+    </td>
+  </tr>
+  
+  <tr>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/dn_no.html">
             Dagens Næringsliv
@@ -4869,7 +4905,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/dailycamera.html">
             Daily Camera
@@ -4881,7 +4917,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/denverchannel.html">
             Denver7
@@ -4893,7 +4929,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/elpasotimes.html">
             El Paso Times
@@ -4905,7 +4941,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/newsminer.html">
             Fairbanks Daily News-Miner
@@ -4917,7 +4953,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/fairmediawatch.html">
             Fairness and Accuracy in Reporting
@@ -4929,7 +4965,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/getfandom.html">
             Fandom
@@ -4941,7 +4977,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/fortworthreport.html">
             Fort Worth Report
@@ -4953,7 +4989,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/foxsports.html">
             Fox Sports
@@ -4965,7 +5001,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/statejournal.html">
             Frankfort State Journal
@@ -4977,7 +5013,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/independent_ie.html">
             Independent.ie
@@ -4989,7 +5025,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/irishtimes.html">
             Irish Times
@@ -5001,7 +5037,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/kakenews.html">
             KAKE News
@@ -5013,7 +5049,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/ktoopubmedia.html">
             KTOO
@@ -5025,7 +5061,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/khnews.html">
             Kaiser Health News
@@ -5037,7 +5073,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/crucessunnews.html">
             Las Cruces Sun News
@@ -5049,7 +5085,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/reviewjournal.html">
             Las Vegas Review-Journal
@@ -5061,7 +5097,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/courierjournal.html">
             Louisville Courier-Journal
@@ -5073,7 +5109,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/lubbockonline.html">
             Lubbock Avalanche-Journal
@@ -5085,7 +5121,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/marshallproj.html">
             Marshall Project
@@ -5097,19 +5133,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/milenio.html">
-            Milenio
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        87
-    </td>
-  </tr>
-  
-  <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/mgmadvertiser.html">
             Montgomery Advertiser
@@ -5121,7 +5145,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/ny1.html">
             NY1
@@ -5133,7 +5157,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/newrepublic.html">
             New Republic
@@ -5145,7 +5169,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/theoklahoman_.html">
             Oklahoman
@@ -5157,7 +5181,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/oann.html">
             One America News Network
@@ -5169,7 +5193,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/pittsburghpg.html">
             Pittsburgh Post-Gazette
@@ -5181,7 +5205,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/portlandmercury.html">
             Portland Mercury
@@ -5193,7 +5217,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/proceso.html">
             Proceso
@@ -5205,7 +5229,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/cbnoficial.html">
             Rádio CBN
@@ -5217,7 +5241,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/brunswick_news.html">
             The Brunswick News
@@ -5229,7 +5253,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/themarkup.html">
             The Markup
@@ -5241,7 +5265,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/thetimes.html">
             The Times
@@ -5253,7 +5277,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/torontostar.html">
             Toronto Star
@@ -5265,7 +5289,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/tuscaloosanews.html">
             Tuscaloosa News
@@ -5277,7 +5301,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/voiceofsandiego.html">
             Voice of San Diego
@@ -5289,7 +5313,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/dcexaminer.html">
             Washington Examiner
@@ -5301,7 +5325,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/uwogazette.html">
             Western Gazette
@@ -5313,7 +5337,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/yahoonews.html">
             Yahoo! News
@@ -5325,7 +5349,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>382</td>
+    <td>384</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/theipaper.html">
             i
@@ -5337,7 +5361,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/1newsnz.html">
             1News
@@ -5349,7 +5373,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/anchoragepress.html">
             Anchorage Press
@@ -5361,7 +5385,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/theappeal.html">
             Appeal
@@ -5373,7 +5397,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/arktimes.html">
             Arkansas Times
@@ -5385,7 +5409,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/asahi.html">
             Asahi Shimbun
@@ -5397,7 +5421,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/ap.html">
             Associated Press
@@ -5409,7 +5433,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/berkshireeagle.html">
             Berkshire Eagle
@@ -5421,7 +5445,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/borderless_mag.html">
             Borderless
@@ -5433,7 +5457,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/breitbartnews.html">
             Breitbart
@@ -5445,7 +5469,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/capgaznews.html">
             Capital Gazette
@@ -5457,7 +5481,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/chicagoreporter.html">
             Chicago Reporter
@@ -5469,7 +5493,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/enquirer.html">
             Cincinnati Enquirer
@@ -5481,7 +5505,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/coloradosun.html">
             Colorado Sun
@@ -5493,7 +5517,19 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/ctmirror.html">
+            Connecticut Mirror
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        86
+    </td>
+  </tr>
+  
+  <tr>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/cuestion_p.html">
             Cuestion Publica
@@ -5505,7 +5541,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/realdailywire.html">
             Daily Wire
@@ -5517,7 +5553,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/diariopopularrs.html">
             Diário Popular
@@ -5529,7 +5565,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/eenewsupdates.html">
             E&E News
@@ -5541,7 +5577,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/eastbaytimes.html">
             East Bay Times
@@ -5553,7 +5589,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/folha.html">
             Folha de S.Paulo
@@ -5565,7 +5601,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/gatewaypundit.html">
             Gateway Pundit
@@ -5577,7 +5613,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/kcdefender.html">
             Kansas City Defender
@@ -5589,7 +5625,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/kerrville.html">
             Kerrville Daily Times
@@ -5601,7 +5637,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/mstodaynews.html">
             Mississippi Today
@@ -5613,7 +5649,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/objectivejrn.html">
             Objective
@@ -5625,7 +5661,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/online_khabar.html">
             Online Khabar
@@ -5637,7 +5673,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/occrp.html">
             Organized Crime and Corruption Reporting Project
@@ -5649,7 +5685,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/perfilcom.html">
             Perfil
@@ -5661,7 +5697,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/therealnews.html">
             Real News
@@ -5673,7 +5709,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/sjvwater.html">
             SJV Water
@@ -5685,7 +5721,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/scsentinel.html">
             Santa Cruz Sentinel
@@ -5697,7 +5733,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/sgfcitizen.html">
             Springfield Daily Citizen
@@ -5709,7 +5745,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/studyfindsorg.html">
             Study Finds
@@ -5721,7 +5757,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/pioneerpress.html">
             Twin Cities Pioneer Press
@@ -5733,7 +5769,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/verticalmag.html">
             Vertical
@@ -5745,7 +5781,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/voiceofoc.html">
             Voice of OC
@@ -5757,7 +5793,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/worldnetdaily.html">
             WND News
@@ -5769,7 +5805,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>433</td>
+    <td>435</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/zeitonline.html">
             Zeit
@@ -5781,7 +5817,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>470</td>
+    <td>473</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/41nbc.html">
             41NBC / WMGT
@@ -5793,7 +5829,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>470</td>
+    <td>473</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/gcm_nf.html">
             Austin Weekly News
@@ -5805,7 +5841,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>470</td>
+    <td>473</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/bleacherreport.html">
             Bleacher Report
@@ -5817,7 +5853,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>470</td>
+    <td>473</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/bostonglobe.html">
             Boston Globe
@@ -5829,31 +5865,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>470</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/cbs7news.html">
-            CBS7
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        85
-    </td>
-  </tr>
-  
-  <tr>
-    <td>470</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/chinatimes.html">
-            China Times
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        85
-    </td>
-  </tr>
-  
-  <tr>
-    <td>470</td>
+    <td>473</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/coindesk.html">
             CoinDesk
@@ -5865,7 +5877,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>470</td>
+    <td>473</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/nydailynews.html">
             Daily News
@@ -5877,7 +5889,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>470</td>
+    <td>473</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/decisiondeskhq.html">
             Decision Desk HQ
@@ -5889,7 +5901,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>470</td>
+    <td>473</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/fox12oregon.html">
             Fox 12 Oregon
@@ -5901,7 +5913,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>470</td>
+    <td>473</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/maroelamedia.html">
             Maroela Media
@@ -5913,7 +5925,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>470</td>
+    <td>473</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/nysfocus.html">
             New York Focus
@@ -5925,7 +5937,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>470</td>
+    <td>473</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/ocregister.html">
             Orange County Register
@@ -5937,7 +5949,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>470</td>
+    <td>473</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/prisonjourn.html">
             Prison Journalism Project
@@ -5949,7 +5961,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>470</td>
+    <td>473</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/reckonnews.html">
             Reckon
@@ -5961,7 +5973,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>470</td>
+    <td>473</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/pressenterprise.html">
             Riverside Press-Enterprise
@@ -5973,7 +5985,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>470</td>
+    <td>473</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/rollingstone.html">
             Rolling Stone
@@ -5985,7 +5997,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>470</td>
+    <td>473</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/romenewstribune.html">
             Rome News-Tribune
@@ -5997,7 +6009,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>470</td>
+    <td>473</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/salon.html">
             Salon
@@ -6009,7 +6021,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>470</td>
+    <td>473</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/spacenews_inc.html">
             Space News
@@ -6021,7 +6033,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>470</td>
+    <td>473</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/spotlightpa.html">
             Spotlight PA
@@ -6033,7 +6045,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>470</td>
+    <td>473</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/baltimoresun.html">
             The Baltimore Sun
@@ -6045,7 +6057,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>470</td>
+    <td>473</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/townhallcom.html">
             Townhall
@@ -6057,7 +6069,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>470</td>
+    <td>473</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/tylerpaper.html">
             Tyler Morning Telegraph
@@ -6069,7 +6081,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>470</td>
+    <td>473</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/walbnews10.html">
             WALB News 10
@@ -6081,7 +6093,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>470</td>
+    <td>473</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/wbrcnews.html">
             WBRC FOX6 News
@@ -6093,7 +6105,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>470</td>
+    <td>473</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/whyynews.html">
             WHYY
@@ -6105,7 +6117,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>470</td>
+    <td>473</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/franceinfo.html">
             franceinfo
@@ -6117,7 +6129,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>470</td>
+    <td>473</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/uhmallorca.html">
             Última Hora
@@ -6129,10 +6141,10 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>499</td>
+    <td>500</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/azcentral.html">
-            Arizona Republic
+        <a href="https://palewi.re/docs/news-homepages/sites/publicintegrity.html">
+            Center for Public Integrity
         </a>
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
@@ -6141,10 +6153,10 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>499</td>
+    <td>500</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/justthenews.html">
-            Just the News
+        <a href="https://palewi.re/docs/news-homepages/sites/chinatimes.html">
+            China Times
         </a>
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
@@ -6153,7 +6165,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>501</td>
+    <td>502</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/delawareonline.html">
             Delaware Online
@@ -6165,7 +6177,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>502</td>
+    <td>503</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/wowt6news.html">
             6 News WOWT
@@ -6177,7 +6189,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>502</td>
+    <td>503</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/airlinereporter.html">
             Airline Reporter
@@ -6189,19 +6201,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>502</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/bonappetit.html">
-            Bon Appetit
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        84
-    </td>
-  </tr>
-  
-  <tr>
-    <td>502</td>
+    <td>503</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/bostonherald.html">
             Boston Herald
@@ -6213,7 +6213,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>502</td>
+    <td>503</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/bgdailynews.html">
             Bowling Green Daily News
@@ -6225,7 +6225,19 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>502</td>
+    <td>503</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/cbs7news.html">
+            CBS7
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        84
+    </td>
+  </tr>
+  
+  <tr>
+    <td>503</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/dailyneb.html">
             Daily Nebraskan
@@ -6237,7 +6249,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>502</td>
+    <td>503</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/deadline.html">
             Deadline
@@ -6249,19 +6261,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>502</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/discovery.html">
-            Discovery
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        84
-    </td>
-  </tr>
-  
-  <tr>
-    <td>502</td>
+    <td>503</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/dronedj.html">
             Drone DJ
@@ -6273,7 +6273,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>502</td>
+    <td>503</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/estadao.html">
             Estadão
@@ -6285,7 +6285,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>502</td>
+    <td>503</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/grist.html">
             Grist
@@ -6297,7 +6297,19 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>502</td>
+    <td>503</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/hartfordcourant.html">
+            Hartford Courant
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        84
+    </td>
+  </tr>
+  
+  <tr>
+    <td>503</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/hiddencityphila.html">
             Hidden City Daily
@@ -6309,7 +6321,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>502</td>
+    <td>503</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/the_ccij.html">
             InvestigateMidwest
@@ -6321,7 +6333,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>502</td>
+    <td>503</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/kcrg.html">
             KCRG
@@ -6333,7 +6345,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>502</td>
+    <td>503</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/newschannelne.html">
             News Channel Nebraska
@@ -6345,7 +6357,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>502</td>
+    <td>503</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/politico.html">
             POLITICO
@@ -6357,7 +6369,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>502</td>
+    <td>503</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/pagesix.html">
             Page Six
@@ -6369,7 +6381,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>502</td>
+    <td>503</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/propublica.html">
             ProPublica
@@ -6381,7 +6393,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>502</td>
+    <td>503</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/rpbreakingnews.html">
             Rajasthan Patrika
@@ -6393,7 +6405,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>502</td>
+    <td>503</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/simple_flying.html">
             Simple Flying
@@ -6405,7 +6417,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>502</td>
+    <td>503</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/mcall.html">
             The Morning Call
@@ -6417,7 +6429,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>502</td>
+    <td>503</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/wave3news.html">
             WAVE
@@ -6429,7 +6441,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>502</td>
+    <td>503</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/wkyt.html">
             WKYT
@@ -6441,7 +6453,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>502</td>
+    <td>503</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/wtvm.html">
             WTVM News Leader 9
@@ -6453,7 +6465,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>502</td>
+    <td>503</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/zerohora.html">
             Zero Hora
@@ -6465,7 +6477,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>502</td>
+    <td>503</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/amabhungane.html">
             amaBhungane
@@ -6477,7 +6489,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>502</td>
+    <td>503</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/hromadskeua.html">
             hromadske
@@ -6485,282 +6497,6 @@ Here's a ranking of all sites from best to worst.
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
         84
-    </td>
-  </tr>
-  
-  <tr>
-    <td>529</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/wtoc11.html">
-            WTOC
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        83
-    </td>
-  </tr>
-  
-  <tr>
-    <td>530</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/aknewsnow.html">
-            Alaska’s News Source
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        83
-    </td>
-  </tr>
-  
-  <tr>
-    <td>530</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/amerindependent.html">
-            American Independent
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        83
-    </td>
-  </tr>
-  
-  <tr>
-    <td>530</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/cbs46.html">
-            CBS46
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        83
-    </td>
-  </tr>
-  
-  <tr>
-    <td>530</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/claytoncrescent.html">
-            Clayton Crescent
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        83
-    </td>
-  </tr>
-  
-  <tr>
-    <td>530</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/cronica.html">
-            Crónica
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        83
-    </td>
-  </tr>
-  
-  <tr>
-    <td>530</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/denverite.html">
-            Denverite
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        83
-    </td>
-  </tr>
-  
-  <tr>
-    <td>530</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/espn.html">
-            ESPN
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        83
-    </td>
-  </tr>
-  
-  <tr>
-    <td>530</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/elpasomatters.html">
-            El Paso Matters
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        83
-    </td>
-  </tr>
-  
-  <tr>
-    <td>530</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/excelsior.html">
-            Excélsior
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        83
-    </td>
-  </tr>
-  
-  <tr>
-    <td>530</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/fi2w.html">
-            Feet in 2 Worlds
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        83
-    </td>
-  </tr>
-  
-  <tr>
-    <td>530</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/forbes.html">
-            Forbes
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        83
-    </td>
-  </tr>
-  
-  <tr>
-    <td>530</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/foxnews.html">
-            Fox News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        83
-    </td>
-  </tr>
-  
-  <tr>
-    <td>530</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/jewishcurrents.html">
-            Jewish Currents
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        83
-    </td>
-  </tr>
-  
-  <tr>
-    <td>530</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/kcrw.html">
-            KCRW
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        83
-    </td>
-  </tr>
-  
-  <tr>
-    <td>530</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/khou.html">
-            KHOU
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        83
-    </td>
-  </tr>
-  
-  <tr>
-    <td>530</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/lanuevaespana.html">
-            La Nueva España
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        83
-    </td>
-  </tr>
-  
-  <tr>
-    <td>530</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/laopinioncoruna.html">
-            La Opinión A Coruña
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        83
-    </td>
-  </tr>
-  
-  <tr>
-    <td>530</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nbcbayarea.html">
-            NBC Bay Area
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        83
-    </td>
-  </tr>
-  
-  <tr>
-    <td>530</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nbcchicago.html">
-            NBC Chicago
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        83
-    </td>
-  </tr>
-  
-  <tr>
-    <td>530</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nbcconnecticut.html">
-            NBC Connecticut
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        83
-    </td>
-  </tr>
-  
-  <tr>
-    <td>530</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nbcdfw.html">
-            NBC DFW
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        83
-    </td>
-  </tr>
-  
-  <tr>
-    <td>530</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nbcphiladelphia.html">
-            NBC10 Philadelphia
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        83
     </td>
   </tr>
   
@@ -6779,6 +6515,270 @@ Here's a ranking of all sites from best to worst.
   <tr>
     <td>530</td>
     <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/wtoc11.html">
+            WTOC
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
+    </td>
+  </tr>
+  
+  <tr>
+    <td>532</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/aknewsnow.html">
+            Alaska’s News Source
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
+    </td>
+  </tr>
+  
+  <tr>
+    <td>532</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/amerindependent.html">
+            American Independent
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
+    </td>
+  </tr>
+  
+  <tr>
+    <td>532</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/cbs46.html">
+            CBS46
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
+    </td>
+  </tr>
+  
+  <tr>
+    <td>532</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/claytoncrescent.html">
+            Clayton Crescent
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
+    </td>
+  </tr>
+  
+  <tr>
+    <td>532</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/cronica.html">
+            Crónica
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
+    </td>
+  </tr>
+  
+  <tr>
+    <td>532</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/denverite.html">
+            Denverite
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
+    </td>
+  </tr>
+  
+  <tr>
+    <td>532</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/espn.html">
+            ESPN
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
+    </td>
+  </tr>
+  
+  <tr>
+    <td>532</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/elpasomatters.html">
+            El Paso Matters
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
+    </td>
+  </tr>
+  
+  <tr>
+    <td>532</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/excelsior.html">
+            Excélsior
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
+    </td>
+  </tr>
+  
+  <tr>
+    <td>532</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/fi2w.html">
+            Feet in 2 Worlds
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
+    </td>
+  </tr>
+  
+  <tr>
+    <td>532</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/forbes.html">
+            Forbes
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
+    </td>
+  </tr>
+  
+  <tr>
+    <td>532</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/foxnews.html">
+            Fox News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
+    </td>
+  </tr>
+  
+  <tr>
+    <td>532</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/jewishcurrents.html">
+            Jewish Currents
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
+    </td>
+  </tr>
+  
+  <tr>
+    <td>532</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/kcrw.html">
+            KCRW
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
+    </td>
+  </tr>
+  
+  <tr>
+    <td>532</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/lanuevaespana.html">
+            La Nueva España
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
+    </td>
+  </tr>
+  
+  <tr>
+    <td>532</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/laopinioncoruna.html">
+            La Opinión A Coruña
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
+    </td>
+  </tr>
+  
+  <tr>
+    <td>532</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/nbcbayarea.html">
+            NBC Bay Area
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
+    </td>
+  </tr>
+  
+  <tr>
+    <td>532</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/nbcchicago.html">
+            NBC Chicago
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
+    </td>
+  </tr>
+  
+  <tr>
+    <td>532</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/nbcconnecticut.html">
+            NBC Connecticut
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
+    </td>
+  </tr>
+  
+  <tr>
+    <td>532</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/nbcdfw.html">
+            NBC DFW
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
+    </td>
+  </tr>
+  
+  <tr>
+    <td>532</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/nbcphiladelphia.html">
+            NBC10 Philadelphia
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        83
+    </td>
+  </tr>
+  
+  <tr>
+    <td>532</td>
+    <td>
         <a href="https://palewi.re/docs/news-homepages/sites/rajdhani_daily.html">
             Rajdhani Daily
         </a>
@@ -6789,7 +6789,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>530</td>
+    <td>532</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/segodnya_online.html">
             Segodnya
@@ -6801,7 +6801,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>530</td>
+    <td>532</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/sltimes.html">
             Storm Lake Times
@@ -6813,7 +6813,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>530</td>
+    <td>532</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/thv11.html">
             THV 11
@@ -6825,7 +6825,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>530</td>
+    <td>532</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/telemundochi.html">
             Telemundo Chicago
@@ -6837,7 +6837,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>530</td>
+    <td>532</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/thehilltimes.html">
             The Hill Times
@@ -6849,7 +6849,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>530</td>
+    <td>532</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/uvaldenews.html">
             Uvalde News-Leader
@@ -6861,7 +6861,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>530</td>
+    <td>532</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/votebeatus.html">
             Votebeat
@@ -6873,7 +6873,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>530</td>
+    <td>532</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/washtimes.html">
             Washington Times
@@ -6885,7 +6885,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>530</td>
+    <td>532</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/revistapiaui.html">
             revista piauí
@@ -6899,54 +6899,6 @@ Here's a ranking of all sites from best to worst.
   <tr>
     <td>563</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/whas11.html">
-            WHAS11 News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        82
-    </td>
-  </tr>
-  
-  <tr>
-    <td>564</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/arthasarokar.html">
-            Artha Sarokar
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        82
-    </td>
-  </tr>
-  
-  <tr>
-    <td>564</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/cjr.html">
-            Columbia Journalism Review
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        82
-    </td>
-  </tr>
-  
-  <tr>
-    <td>564</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/dcnepal.html">
-            DC Nepal
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        82
-    </td>
-  </tr>
-  
-  <tr>
-    <td>564</td>
-    <td>
         <a href="https://palewi.re/docs/news-homepages/sites/dailytarheel.html">
             Daily Tarheel
         </a>
@@ -6959,6 +6911,90 @@ Here's a ranking of all sites from best to worst.
   <tr>
     <td>564</td>
     <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/khou.html">
+            KHOU
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        82
+    </td>
+  </tr>
+  
+  <tr>
+    <td>564</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/whas11.html">
+            WHAS11 News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        82
+    </td>
+  </tr>
+  
+  <tr>
+    <td>566</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/akpublicnews.html">
+            Alaska Public Media
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        82
+    </td>
+  </tr>
+  
+  <tr>
+    <td>566</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/azcentral.html">
+            Arizona Republic
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        82
+    </td>
+  </tr>
+  
+  <tr>
+    <td>566</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/arthasarokar.html">
+            Artha Sarokar
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        82
+    </td>
+  </tr>
+  
+  <tr>
+    <td>566</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/cjr.html">
+            Columbia Journalism Review
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        82
+    </td>
+  </tr>
+  
+  <tr>
+    <td>566</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/dcnepal.html">
+            DC Nepal
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        82
+    </td>
+  </tr>
+  
+  <tr>
+    <td>566</td>
+    <td>
         <a href="https://palewi.re/docs/news-homepages/sites/drudge.html">
             Drudge Report
         </a>
@@ -6969,7 +7005,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>564</td>
+    <td>566</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/eastlansinginfo.html">
             East Lansing Info
@@ -6981,7 +7017,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>564</td>
+    <td>566</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/haaretzcom.html">
             Haaretz
@@ -6993,7 +7029,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>564</td>
+    <td>566</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/live_hindustan.html">
             Hindustan
@@ -7005,7 +7041,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>564</td>
+    <td>566</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/irishcathnews.html">
             Irish Catholic
@@ -7017,7 +7053,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>564</td>
+    <td>566</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/izvestia_ru.html">
             Izvestia
@@ -7029,7 +7065,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>564</td>
+    <td>566</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/khonnews.html">
             KHON2 News
@@ -7041,7 +7077,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>564</td>
+    <td>566</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/kpcc.html">
             KPCC
@@ -7053,7 +7089,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>564</td>
+    <td>566</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/ktla.html">
             KTLA
@@ -7065,7 +7101,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>564</td>
+    <td>566</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/lataco.html">
             L.A. Taco
@@ -7077,7 +7113,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>564</td>
+    <td>566</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/laprensaar.html">
             La Prensa
@@ -7089,7 +7125,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>564</td>
+    <td>566</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/green_footballs.html">
             Little Green Footballs
@@ -7101,7 +7137,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>564</td>
+    <td>566</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/lobs.html">
             L’Obs
@@ -7113,7 +7149,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>564</td>
+    <td>566</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/mdr_san.html">
             MDR Sachsen-Anhalt
@@ -7125,19 +7161,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>564</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/journalsentinel.html">
-            Milwaukee Journal Sentinel
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        82
-    </td>
-  </tr>
-  
-  <tr>
-    <td>564</td>
+    <td>566</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/natgeo.html">
             National Geographic
@@ -7149,7 +7173,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>564</td>
+    <td>566</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/poder360.html">
             Poder 360
@@ -7161,7 +7185,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>564</td>
+    <td>566</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/reveal.html">
             Reveal
@@ -7173,7 +7197,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>564</td>
+    <td>566</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/usnews.html">
             U.S. News & World Report
@@ -7185,7 +7209,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>564</td>
+    <td>566</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/ur_ninja.html">
             Unicorn Riot
@@ -7197,7 +7221,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>564</td>
+    <td>566</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/vgnett.html">
             VG
@@ -7209,7 +7233,19 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>591</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/journalsentinel.html">
+            Milwaukee Journal Sentinel
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        81
+    </td>
+  </tr>
+  
+  <tr>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/11alivenews.html">
             11Alive News
@@ -7221,7 +7257,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/12newsnow.html">
             12 News Now
@@ -7233,7 +7269,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/abc_es.html">
             ABC
@@ -7245,7 +7281,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/alternet.html">
             AlterNet
@@ -7257,7 +7293,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/theprospect.html">
             American Prospect
@@ -7269,19 +7305,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/tucsonstar.html">
-            Arizona Daily Star
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        81
-    </td>
-  </tr>
-  
-  <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/thebuffalonews.html">
             Buffalo News
@@ -7293,7 +7317,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/cnet.html">
             CNET
@@ -7305,19 +7329,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/publicintegrity.html">
-            Center for Public Integrity
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        81
-    </td>
-  </tr>
-  
-  <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/cityjournal.html">
             City Journal
@@ -7329,7 +7341,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/civio.html">
             Civio
@@ -7341,19 +7353,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/ctmirror.html">
-            Connecticut Mirror
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        81
-    </td>
-  </tr>
-  
-  <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/daily_record.html">
             Daily Record
@@ -7365,7 +7365,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/dmregister.html">
             Des Moines Register
@@ -7377,7 +7377,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/thedispatch.html">
             Dispatch
@@ -7389,7 +7389,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/eveningstandard.html">
             Evening Standard
@@ -7401,7 +7401,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/rgvfox.html">
             Fox South Texas
@@ -7413,19 +7413,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/gwinnettdaily.html">
-            Gwinnett Daily Post
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        81
-    </td>
-  </tr>
-  
-  <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/humanevents.html">
             Human Events
@@ -7437,7 +7425,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/kvue.html">
             KVUE
@@ -7449,7 +7437,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/lacrossetribune.html">
             LaCrosse Tribune
@@ -7461,7 +7449,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/journalstarnews.html">
             Lincoln Journal Star
@@ -7473,7 +7461,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/mmfa.html">
             Media Matters
@@ -7485,7 +7473,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/oronline.html">
             Observer-Reporter
@@ -7497,7 +7485,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/owhnews.html">
             Omaha World Herald
@@ -7509,7 +7497,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/openvallejo.html">
             Open Vallejo
@@ -7521,7 +7509,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/punchbowlnews.html">
             Punchbowl News
@@ -7533,7 +7521,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/qctimes.html">
             Quad City Times
@@ -7545,7 +7533,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/rt_com.html">
             RT
@@ -7557,7 +7545,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/rtdnews.html">
             Richmond Times-Dispatch
@@ -7569,7 +7557,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/sjspotlight.html">
             San José Spotlight
@@ -7581,7 +7569,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/stltoday.html">
             St. Louis Post-Dispatch
@@ -7593,7 +7581,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/nzstuff.html">
             Stuff
@@ -7605,7 +7593,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/techcrunch.html">
             TechCrunch
@@ -7617,7 +7605,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/eltiempo.html">
             Tiempo
@@ -7629,7 +7617,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/valoreconomico.html">
             Valor Econômico
@@ -7641,7 +7629,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/wfaa.html">
             WFAA
@@ -7653,7 +7641,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/wcfcourier.html">
             Waterloo-Cedar Falls Courier
@@ -7665,7 +7653,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/weatherchannel.html">
             Weather Channel
@@ -7677,7 +7665,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>589</td>
+    <td>592</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/wistatejournal.html">
             Wisconsin State Journal
@@ -7689,10 +7677,10 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>629</td>
+    <td>628</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/akpublicnews.html">
-            Alaska Public Media
+        <a href="https://palewi.re/docs/news-homepages/sites/discovery.html">
+            Discovery
         </a>
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
@@ -7701,7 +7689,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/13wmaznews.html">
             13WMAZ News
@@ -7713,7 +7701,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/20minutes.html">
             20 Minutes
@@ -7725,7 +7713,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/the74.html">
             74th
@@ -7737,7 +7725,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/9news.html">
             9NEWS Denver
@@ -7749,7 +7737,19 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/tucsonstar.html">
+            Arizona Daily Star
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        80
+    </td>
+  </tr>
+  
+  <tr>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/avlwatchdog.html">
             Asheville Watchdog
@@ -7761,7 +7761,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/aspendailynews.html">
             Aspen Daily News
@@ -7773,7 +7773,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/cbschicago.html">
             CBS Chicago
@@ -7785,7 +7785,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/cbsnews.html">
             CBS News
@@ -7797,7 +7797,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/codaily.html">
             Central Oregon Daily
@@ -7809,7 +7809,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/cpipr.html">
             Centro de Periodismo Investigativo
@@ -7821,7 +7821,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/chequeado.html">
             Chequeado
@@ -7833,7 +7833,19 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/csgazette.html">
+            Colorado Springs Gazette
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        80
+    </td>
+  </tr>
+  
+  <tr>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/dailykos.html">
             Daily Kos
@@ -7845,7 +7857,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/desert_oracle.html">
             Desert Oracle
@@ -7857,7 +7869,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/foxla.html">
             FOX 11 Los Angeles
@@ -7869,7 +7881,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/fox5atlanta.html">
             Fox 5 Atlanta
@@ -7881,19 +7893,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/hartfordcourant.html">
-            Hartford Courant
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        80
-    </td>
-  </tr>
-  
-  <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/jstor_daily.html">
             JSTOR Daily
@@ -7905,7 +7905,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/kark4news.html">
             KARK 4 News
@@ -7917,7 +7917,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/kcautv.html">
             KCAU
@@ -7929,7 +7929,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/king5seattle.html">
             KING5
@@ -7941,7 +7941,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/lasvegassun.html">
             Las Vegas Sun
@@ -7953,7 +7953,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/mercnews.html">
             Mercury News
@@ -7965,7 +7965,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/nationaljournal.html">
             National Journal
@@ -7977,7 +7977,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/jornaloglobo.html">
             O Globo
@@ -7989,7 +7989,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/oldiemagazine.html">
             Oldie
@@ -8001,7 +8001,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/postandcourier.html">
             Post and Courier
@@ -8013,7 +8013,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/scotusblog.html">
             SCOTUS Blog
@@ -8025,7 +8025,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/expressnews.html">
             San Antonio Express-News
@@ -8037,7 +8037,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/sinow.html">
             Sports Illustrated
@@ -8049,7 +8049,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/stamadvocate.html">
             Stamford Advocate
@@ -8061,7 +8061,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/tmz.html">
             TMZ
@@ -8073,7 +8073,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/wrblnews3.html">
             WRBL News 3
@@ -8085,7 +8085,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>630</td>
+    <td>629</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/wsav.html">
             WSAV News 3
@@ -8093,6 +8093,66 @@ Here's a ranking of all sites from best to worst.
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
         80
+    </td>
+  </tr>
+  
+  <tr>
+    <td>663</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/aviationnews.html">
+            AeroTime Hub
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        79
+    </td>
+  </tr>
+  
+  <tr>
+    <td>663</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/agenciabrasil.html">
+            Agência Brasil
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        79
+    </td>
+  </tr>
+  
+  <tr>
+    <td>663</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/thealligator.html">
+            Alligator
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        79
+    </td>
+  </tr>
+  
+  <tr>
+    <td>663</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/azds.html">
+            Arizona Daily Sun
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        79
+    </td>
+  </tr>
+  
+  <tr>
+    <td>663</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/arstechnica.html">
+            Ars Technica
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        79
     </td>
   </tr>
   
@@ -8109,79 +8169,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>664</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/aviationnews.html">
-            AeroTime Hub
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        79
-    </td>
-  </tr>
-  
-  <tr>
-    <td>664</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/agenciabrasil.html">
-            Agência Brasil
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        79
-    </td>
-  </tr>
-  
-  <tr>
-    <td>664</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/thealligator.html">
-            Alligator
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        79
-    </td>
-  </tr>
-  
-  <tr>
-    <td>664</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/azds.html">
-            Arizona Daily Sun
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        79
-    </td>
-  </tr>
-  
-  <tr>
-    <td>664</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/arstechnica.html">
-            Ars Technica
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        79
-    </td>
-  </tr>
-  
-  <tr>
-    <td>664</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/csgazette.html">
-            Colorado Springs Gazette
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        79
-    </td>
-  </tr>
-  
-  <tr>
-    <td>664</td>
+    <td>663</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/leadertelegram.html">
             Eau Claire Leader-Telegram
@@ -8193,7 +8181,31 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>664</td>
+    <td>663</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/fox29philly.html">
+            FOX29 Philly
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        79
+    </td>
+  </tr>
+  
+  <tr>
+    <td>663</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/gwinnettdaily.html">
+            Gwinnett Daily Post
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        79
+    </td>
+  </tr>
+  
+  <tr>
+    <td>663</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/staradvertiser.html">
             Honolulu Star-Advertiser
@@ -8205,7 +8217,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>664</td>
+    <td>663</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/lancenet.html">
             Lance
@@ -8217,7 +8229,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>664</td>
+    <td>663</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/lehuffpost.html">
             Le Huffington Post
@@ -8229,7 +8241,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>664</td>
+    <td>663</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/meduzaproject.html">
             Meduza
@@ -8241,7 +8253,19 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>664</td>
+    <td>663</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/metropoles.html">
+            Metrópoles
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        79
+    </td>
+  </tr>
+  
+  <tr>
+    <td>663</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/prabhatkhabar.html">
             Prabhat Khabar
@@ -8253,7 +8277,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>664</td>
+    <td>663</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/thesun.html">
             The Sun
@@ -8265,7 +8289,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>664</td>
+    <td>663</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/unichicago.html">
             Univision Chicago
@@ -8277,7 +8301,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>664</td>
+    <td>663</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/wral.html">
             WRAL
@@ -8289,7 +8313,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/pajaropolitico.html">
             Animal Político
@@ -8301,7 +8325,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/12khari.html">
             Baahrakhari
@@ -8313,7 +8337,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/wncn.html">
             CBS 17
@@ -8325,7 +8349,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/chessbase.html">
             ChessBase
@@ -8337,7 +8361,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/thedailyclimate.html">
             Daily Climate
@@ -8349,7 +8373,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/telegraphherald.html">
             Dubuque Telegraph Herald
@@ -8361,7 +8385,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/enews.html">
             E!
@@ -8373,19 +8397,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/fox29philly.html">
-            FOX29 Philly
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        78
-    </td>
-  </tr>
-  
-  <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/diarioonline.html">
             Fortaleza
@@ -8397,7 +8409,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/humansofny.html">
             Humans of New York
@@ -8409,7 +8421,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/iowapublicradio.html">
             Iowa Public Radio
@@ -8421,7 +8433,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/jacobin.html">
             Jacobin
@@ -8433,7 +8445,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/jijicom.html">
             Jiji
@@ -8445,7 +8457,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/ksnnews.html">
             KSN News
@@ -8457,7 +8469,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/kxan_news.html">
             KXAN
@@ -8469,7 +8481,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/kcstar.html">
             Kansas City Star
@@ -8481,7 +8493,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/ledevoir.html">
             Le Devoir
@@ -8493,7 +8505,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/le_parisien.html">
             Le Parisien
@@ -8505,7 +8517,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/heraldleader.html">
             Lexington Herald-Leader
@@ -8517,7 +8529,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/mvsnoticias.html">
             MVS Noticias
@@ -8529,7 +8541,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/marfaradio.html">
             Marfa Public Radio
@@ -8541,7 +8553,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/mdjonline.html">
             Marietta Daily Journal
@@ -8553,19 +8565,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/metropoles.html">
-            Metrópoles
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        78
-    </td>
-  </tr>
-  
-  <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/miamiherald.html">
             Miami Herald
@@ -8577,7 +8577,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/morningbrew.html">
             Morning Brew
@@ -8589,7 +8589,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/newsobserver.html">
             News & Observer
@@ -8601,7 +8601,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/newsmax.html">
             Newsmax
@@ -8613,7 +8613,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/standardex.html">
             Ogden Standard-Examiner
@@ -8625,7 +8625,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/quintoelab.html">
             Quinto Elemento Lab
@@ -8637,19 +8637,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/sankei_news.html">
-            Sankei Shimbun
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        78
-    </td>
-  </tr>
-  
-  <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/scottishsun.html">
             Scottish Sun
@@ -8661,7 +8649,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/tb_times.html">
             Tampa Bay Times
@@ -8673,7 +8661,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/ledgerenquirer.html">
             The Ledger-Enquirer
@@ -8685,7 +8673,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/telegraphga.html">
             The Telegraph
@@ -8697,7 +8685,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/wjbf.html">
             WJBF
@@ -8709,7 +8697,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/wnyt.html">
             WNYT NewsChannel 13
@@ -8721,7 +8709,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/freebeacon.html">
             Washington Free Beacon
@@ -8733,7 +8721,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/kansasdotcom.html">
             Wichita Eagle
@@ -8745,7 +8733,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>679</td>
+    <td>681</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/miwisconsin.html">
             mi wisconsin
@@ -8757,7 +8745,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>718</td>
+    <td>717</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/adndotcom.html">
             Anchorage Daily News
@@ -8769,7 +8757,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>718</td>
+    <td>717</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/tw_nextmedia.html">
             Apple Daily
@@ -8781,7 +8769,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>718</td>
+    <td>717</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/theathletic.html">
             Athletic
@@ -8793,7 +8781,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>718</td>
+    <td>717</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/ainonline.html">
             Aviation International News
@@ -8805,7 +8793,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>718</td>
+    <td>717</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/thebafflermag.html">
             Baffler
@@ -8817,7 +8805,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>718</td>
+    <td>717</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/theblaze.html">
             Blaze
@@ -8829,7 +8817,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>718</td>
+    <td>717</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/dailypenn.html">
             Daily Penn
@@ -8841,7 +8829,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>718</td>
+    <td>717</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/thedepaulia.html">
             DePaulia
@@ -8853,7 +8841,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>718</td>
+    <td>717</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/fox5ny.html">
             Fox 5 New York
@@ -8865,7 +8853,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>718</td>
+    <td>717</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/gazetadopovo.html">
             Gazeta do Povo
@@ -8877,7 +8865,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>718</td>
+    <td>717</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/imagekhabar.html">
             Imagekhabar
@@ -8889,7 +8877,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>718</td>
+    <td>717</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/atarde.html">
             Jornal A Tarde
@@ -8901,7 +8889,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>718</td>
+    <td>717</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/jornaldobrasil.html">
             Jornal do Brasil
@@ -8913,19 +8901,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>718</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/lastampa.html">
-            La Stampa
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        77
-    </td>
-  </tr>
-  
-  <tr>
-    <td>718</td>
+    <td>717</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/msn.html">
             MSN
@@ -8937,7 +8913,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>718</td>
+    <td>717</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/mainemonitor.html">
             Maine Monitor
@@ -8949,7 +8925,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>718</td>
+    <td>717</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/nepalkhabar24.html">
             Nepal Khabar
@@ -8961,7 +8937,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>718</td>
+    <td>717</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/opovo.html">
             O Povo
@@ -8973,7 +8949,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>718</td>
+    <td>717</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/oxciej.html">
             Oxpeckers
@@ -8985,7 +8961,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>718</td>
+    <td>717</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/thepearlpost.html">
             Pearl Post
@@ -8997,7 +8973,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>718</td>
+    <td>717</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/politifact.html">
             Politifact 
@@ -9009,7 +8985,19 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>718</td>
+    <td>717</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/sankei_news.html">
+            Sankei Shimbun
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        77
+    </td>
+  </tr>
+  
+  <tr>
+    <td>717</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/sinembargomx.html">
             SinEmbargo
@@ -9021,7 +9009,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>718</td>
+    <td>717</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/guardian.html">
             The Guardian
@@ -9033,7 +9021,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>718</td>
+    <td>717</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/unherd.html">
             UnHerd
@@ -9045,7 +9033,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>718</td>
+    <td>717</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/udn.html">
             United Daily News
@@ -9057,7 +9045,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>718</td>
+    <td>717</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/wgnnews.html">
             WGN
@@ -9069,7 +9057,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>744</td>
+    <td>743</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/avherald.html">
             Aviation Herald
@@ -9081,7 +9069,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>744</td>
+    <td>743</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/cityandstateny.html">
             City & State New York
@@ -9093,7 +9081,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>744</td>
+    <td>743</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/thedailybeast.html">
             Daily Beast
@@ -9105,7 +9093,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>744</td>
+    <td>743</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/ek_business.html">
             Ekantipur
@@ -9117,7 +9105,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>744</td>
+    <td>743</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/infowars.html">
             Infowars
@@ -9129,7 +9117,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>744</td>
+    <td>743</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/theintercept.html">
             Intercept
@@ -9141,7 +9129,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>744</td>
+    <td>743</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/lajornadaonline.html">
             Jornada
@@ -9153,7 +9141,19 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>744</td>
+    <td>743</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/lastampa.html">
+            La Stampa
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        76
+    </td>
+  </tr>
+  
+  <tr>
+    <td>743</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/labornotes.html">
             Labor Notes
@@ -9165,7 +9165,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>744</td>
+    <td>743</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/ncronline.html">
             National Catholic Reporter
@@ -9177,7 +9177,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>744</td>
+    <td>743</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/naya_patrika.html">
             Naya Patrika
@@ -9189,7 +9189,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>744</td>
+    <td>743</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/nhregister.html">
             New Haven Register
@@ -9201,7 +9201,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>744</td>
+    <td>743</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/nybooks.html">
             New York Review of Books
@@ -9213,7 +9213,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>744</td>
+    <td>743</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/kvoa.html">
             News 4
@@ -9225,7 +9225,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>744</td>
+    <td>743</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/newsweek.html">
             Newsweek
@@ -9237,7 +9237,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>744</td>
+    <td>743</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/punjabkesari.html">
             Punjab Kesari
@@ -9249,7 +9249,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>744</td>
+    <td>743</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/rtenews.html">
             RTE
@@ -9789,7 +9789,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>804</td>
+    <td>803</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/baltimorebanner.html">
             Baltimore Banner
@@ -9801,7 +9801,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>804</td>
+    <td>803</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/blaw.html">
             Bloomberg Law
@@ -9813,7 +9813,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>804</td>
+    <td>803</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/hitribuneherald.html">
             Hawaii Tribune Herald
@@ -9825,7 +9825,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>804</td>
+    <td>803</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/highcountrynews.html">
             High Country News
@@ -9837,7 +9837,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>804</td>
+    <td>803</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/indiatoday.html">
             India Today
@@ -9849,7 +9849,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>804</td>
+    <td>803</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/joplinglobe.html">
             Joplin Globe
@@ -9861,7 +9861,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>804</td>
+    <td>803</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/lentaruofficial.html">
             Lenta.ru
@@ -9873,7 +9873,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>804</td>
+    <td>803</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/msnbc.html">
             MSNBC
@@ -9885,7 +9885,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>804</td>
+    <td>803</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/nzherald.html">
             NZ Herald
@@ -9897,7 +9897,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>804</td>
+    <td>803</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/scotnational.html">
             National
@@ -9909,7 +9909,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>804</td>
+    <td>803</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/novayagazeta_eu.html">
             Novaya Gazeta
@@ -9921,7 +9921,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>804</td>
+    <td>803</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/ottumwacourier.html">
             Ottumwa Courier
@@ -9933,7 +9933,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>804</td>
+    <td>803</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/prensagrafica.html">
             Prensa Grafica
@@ -9945,7 +9945,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>804</td>
+    <td>803</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/rawstory.html">
             Raw Story
@@ -9957,7 +9957,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>804</td>
+    <td>803</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/independent.html">
             The Independent
@@ -9969,7 +9969,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>804</td>
+    <td>803</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/timesenterprise.html">
             The Times-Enterprise
@@ -9981,7 +9981,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>804</td>
+    <td>803</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/variety.html">
             Variety
@@ -9993,7 +9993,19 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>804</td>
+    <td>803</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/kpr_frankfort.html">
+            WFPL
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        72
+    </td>
+  </tr>
+  
+  <tr>
+    <td>803</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/ynetalerts.html">
             Ynet
@@ -10005,31 +10017,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>822</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/repubblica.html">
-            Repubblica
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        71
-    </td>
-  </tr>
-  
-  <tr>
-    <td>822</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/kpr_frankfort.html">
-            WFPL
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        71
-    </td>
-  </tr>
-  
-  <tr>
-    <td>824</td>
+    <td>823</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/jessicavalenti.html">
             All in Her Head
@@ -10041,7 +10029,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>824</td>
+    <td>823</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/bettergov.html">
             Better Government Association
@@ -10053,7 +10041,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>824</td>
+    <td>823</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/theblock__.html">
             Block
@@ -10065,7 +10053,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>824</td>
+    <td>823</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/bariweiss.html">
             Common Sense
@@ -10077,7 +10065,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>824</td>
+    <td>823</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/omelete.html">
             Omelete
@@ -10089,7 +10077,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>824</td>
+    <td>823</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/platformer.html">
             Platformer
@@ -10101,7 +10089,19 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>824</td>
+    <td>823</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/repubblica.html">
+            Repubblica
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        71
+    </td>
+  </tr>
+  
+  <tr>
+    <td>823</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/seattletimes.html">
             Seattle Times
@@ -10113,7 +10113,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>824</td>
+    <td>823</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/thevdt.html">
             Valdosta Daily Times
@@ -10379,18 +10379,6 @@ Here's a ranking of all sites from best to worst.
   <tr>
     <td>848</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/el_universal_mx.html">
-            El Universal
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        68
-    </td>
-  </tr>
-  
-  <tr>
-    <td>848</td>
-    <td>
         <a href="https://palewi.re/docs/news-homepages/sites/gothamgazette.html">
             Gotham Gazettee
         </a>
@@ -10485,7 +10473,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>862</td>
+    <td>861</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/abc7breaking.html">
             KVIA
@@ -10497,7 +10485,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>862</td>
+    <td>861</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/lavanguardia.html">
             La Vanguardia
@@ -10509,19 +10497,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>862</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/maarivonline.html">
-            Maariv
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        67
-    </td>
-  </tr>
-  
-  <tr>
-    <td>862</td>
+    <td>861</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/progressoms.html">
             O Progresso
@@ -10533,7 +10509,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>862</td>
+    <td>861</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/khabarkendra.html">
             Sanchar Kendra
@@ -10545,7 +10521,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>862</td>
+    <td>861</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/chess24com.html">
             chess24
@@ -10557,7 +10533,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>868</td>
+    <td>866</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/annapurna_post.html">
             Annapurna Post
@@ -10569,7 +10545,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>868</td>
+    <td>866</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/florida_bulldog.html">
             Florida Bulldog
@@ -10581,7 +10557,19 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>868</td>
+    <td>866</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/maarivonline.html">
+            Maariv
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        66
+    </td>
+  </tr>
+  
+  <tr>
+    <td>866</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/niemanlab.html">
             Nieman Lab
@@ -10593,7 +10581,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>868</td>
+    <td>866</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/thetriibe.html">
             The TriiBE
@@ -10605,7 +10593,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>868</td>
+    <td>866</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/zn_ua.html">
             ZN.UA
@@ -10617,7 +10605,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>873</td>
+    <td>872</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/9to5mac.html">
             9to5Mac
@@ -10629,7 +10617,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>873</td>
+    <td>872</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/startribune.html">
             Minneapolis Star Tribune
@@ -10641,7 +10629,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>873</td>
+    <td>872</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/enewsofnepal.html">
             Nepal Samacharpatra
@@ -10653,7 +10641,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>873</td>
+    <td>872</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/timesherald.html">
             The Newnan Times-Herald
@@ -10665,7 +10653,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>877</td>
+    <td>876</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/reductress.html">
             Reductress
@@ -10677,7 +10665,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>878</td>
+    <td>877</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/buckscoherald.html">
             Bucks County Herald
@@ -10689,7 +10677,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>879</td>
+    <td>878</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/abc7.html">
             ABC7
@@ -10701,7 +10689,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>879</td>
+    <td>878</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/alreporter.html">
             Alabama Reporter
@@ -10713,7 +10701,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>879</td>
+    <td>878</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/capitalandmain.html">
             Capital & Main
@@ -10725,7 +10713,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>879</td>
+    <td>878</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/elcorreo_com.html">
             El Correo
@@ -10737,7 +10725,19 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>879</td>
+    <td>878</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/el_universal_mx.html">
+            El Universal
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        61
+    </td>
+  </tr>
+  
+  <tr>
+    <td>878</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/fla_pol.html">
             Florida Politics
@@ -10749,7 +10749,7 @@ Here's a ranking of all sites from best to worst.
   </tr>
   
   <tr>
-    <td>879</td>
+    <td>878</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/civilbeat.html">
             Honolulu Civil Beat
