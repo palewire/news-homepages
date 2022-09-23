@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         72
     </td>
     <td style="text-align: right;">
-        803
+        805
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         83
     </td>
     <td style="text-align: right;">
-        317
+        319
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         84
     </td>
     <td style="text-align: right;">
-        576
+        577
     </td>
   </tr>
 
